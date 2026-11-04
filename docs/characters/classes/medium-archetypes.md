@@ -128,6 +128,18 @@ The astral archmage echo grants modified or unique spirit powers. In all other w
 
 **Personal Spire (Supreme, Su)**: The echo grants you access to a personal demiplane that you create (as per one created by *create greater demiplane*). As long as you channel the echo each day, your demiplane remains, but if you ever channel a spirit from a different legend, the demiplane disappears, dumping its inhabitants onto the Astral Plane. You can use project servitor to summon a shadowy projection of any creature currently within your demiplane, as long as its CR matches the summon spell (CR 1/2 or lower for *summon monster I*, CR 1 for *summon monster II*, CR 2 for *summon monster III*, CR 3 or 4 for *summon monster IV*, CR 5 or 6 for *summon monster V*, CR 7 or 8 for *summon monster VI*, or CR 9 or 10 for *summon monster VII*). You can allow the echo to gain 1 point of influence over you and expend a 6th-level spell slot to use project servitor as per *summon monster VIII* (80% real and can mimic trapped creatures of CR 11 or 12) or *summon monster IX* (90% real and can mimic trapped creatures of CR 13 or 14).
 
+### Bounty Prince (Guardian)
+
+The Bounty Prince was blessed with many advantages: great charm, noble leadership, and adamant will. His stalwart defense of his empire against the perceived offenses of a rival faith—starting with those whose divinations sparked strife between him and his own brothers—showed his resolve for protecting the nation against the might of divine magic in enemy hands. While some have questioned the necessity of his great purge, none can argue the effectiveness with which he pursued his enemies. His spirit has since been called by any number of those who oppose the divine, whether fighting worshipers of evil deities or continuing his crusade.
+
+**Gaining Favor**: The Bounty Prince tolerates no ambivalence toward or acceptance of an enemy’s faith. To gain the Bounty Prince’s favor, you must destroy an altar or other permanent fixture dedicated to a deity or religion whose followers have wronged you. You must then completely submerge yourself in purifying waters for as long as you can; this requires a Constitution check. If you succeed, the Bounty Prince answers your call.
+
+**Taboos**: If you accept a taboo while channeling the Bounty Prince, you must relentlessly oppose your enemies and never consort with them.
+
+**Magical Purge (Intermediate, Su)**: The Bounty Prince grants you protection against the magical power of your enemies. You gain spell resistance equal to 11 + your medium level.
+
+**Confiscate Healing (Greater, Su)**: As an immediate action, when a creature within 30 feet would benefit from magical healing, you can allow the Bounty Prince to gain 1 point of influence over you to redirect the benefits of that healing from the original target to yourself.
+
 ### Butcher (Champion)
 
 The Butcher is a spirit of blood, violence, murder, and pain.
@@ -141,6 +153,18 @@ The Butcher is a spirit of blood, violence, murder, and pain.
 **Bladesharp (Lesser, Ex)**: You gain proficiency in all slashing martial weapons and the spiked chain. Any slashing weapon or spiked chain you wield gains the deadly weapon special quality (*Ultimate Equipment* 22) and on a critical hit deals an amount of bleed damage equal to the weapon’s critical multiplier – 1.
 
 **Bloodletter (Intermediate, Ex)**: The Butcher enhances a single slashing weapon or spiked chain, allowing you to add the *keen*, *mighty cleaving*, or *wounding* special abilities to the weapon when you wield it. As a swift action, you can allow the Butcher to gain 1 point of influence over you to make that weapon *vorpal* until the end of your turn, though the *vorpal* special ability doesn’t work with abilities that let you choose the result of your d20 roll. Each time you kill a creature whose CR is greater than your medium level with this *vorpal* special ability, the butcher gains an additional point of influence over you.
+
+### Conqueror Prince (Champion)
+
+If the First Emperor was the greatest leader of his empire’s history, then the Conqueror Prince was unquestionably its greatest general. No one before or since led as effective a campaign against a rival desert empire, and the brevity of his time as an emperor only strengthened his legacy as a martyr. Few leaders have been so widely loved and so deeply mourned. Renowned for his tactical brilliance as well as his personal might, the Prince is held up as a paragon of excellence to which imperial warriors have since aspired. Those seeking to channel the Conqueror’s legendary spirit know they must prove their own worth before they merit the attention of the Prince’s spirit.
+
+**Gaining Favor**: To gain the favor of the Prince, you must gather six weapons, each from defeating a significant enemy (a foe whose CR equals at least your character level – 3). Surrounded by the assembled weapons, you must recount the tales of the battles in which you obtained them and swear an oath that you will become a master of each of them. This requires a Strength check. If you succeed, the Prince answers your call.
+
+**Taboos**: If you accept a taboo while channeling the Prince, you must face your opponents with confidence and never retreat from a fight out of cowardice.
+
+**Conqueror’s Weapons (Lesser, Su)**: You are considered proficient with the weapon types you gathered in order to gain favor with this spirit (such as longswords or hand crossbows).
+
+**Conquered Blades (Greater, Su)**: You gain Improved Critical with the weapon types you gathered to gain favor with this spirit. In addition, your attacks with such weapons ignore up to 5 points of damage reduction, except for damage reduction without a type (such as DR 10/—).
 
 ### Deceiver (Trickster)
 
@@ -180,6 +204,28 @@ This legendary spirit is a folk hero famed for slaying dragons but refusing to r
 
 **Death Curse (Supreme, Su)**: When you channel the dragonslayer king, you can select any two dragonslayer death curse rage powers. You can select different rage powers each time you channel the spirit. Treat your medium level as your barbarian level for the purpose of meeting prerequisites. You gain the benefit of these rage powers against challenged foes even if you are not raging. For each additional point of damage that would be dealt by a rage power, you deal 1d6 points of damage instead.
 
+### First Emperor (Marshal)
+
+Never has there been any leader so capable of unification as the one who brought together a coast of disparate city-states. Already legendary when crowned, he went on to conquer neighboring territories and found what would become the greatest empire of its region. Those who seek to channel this spirit must show courage, honor, and integrity, with noble goals of leadership and unification in the face of adversity.
+
+**Gaining Favor**: To gain the favor of the First Emperor, you must be publicly recognized as the leader of an organization of 50 or more individuals and swear an oath to ensure the cohesion of that group. This requires a Charisma check; if you succeed, the First Emperor answers your call.
+
+**Taboos**: If you accept a taboo while channeling the First Emperor, you must place the interests of the many above your own, and you must not take any actions that would cause you to benefit at the expense of your allies or your allies’ collective goals.
+
+**Legion Leader (Intermediate, Su)**: You gain a teamwork feat of your choice for which you meet the prerequisites. All of your allies who joined in the shared seance also gain this feat as a bonus feat, even if they do not meet the prerequisites. You can choose a different feat each time you channel this spirit.
+
+**First Emperor’s Order (Supreme, Su)**: You have no limit on the number of times you can use spirit surge in a round, although you can’t use it more than once on any d20 roll. When the spirit of the First Emperor gains influence over you for using the marshal’s order spirit power on an ally’s check, further uses of marshal’s order before the start of that creature’s next turn do not cause the spirit to gain additional influence over you.
+
+### First God-King (Marshal)
+
+The ancient founder of a desert kingdom, the First God-King brought his people together under the guidance of the god of magic.
+
+**Gaining Favor**: To gain the God-King’s favor, you must visit any government building or ruin tied to an ancient desert kingdom. Once there, you must extol the greatness of its early god-kings, swear to support its return to prominence when possible, and succeed at a Charisma check before the God-King answers your call.
+
+**Taboos**: If you accept a taboo while channeling the God-King, you must embrace any opportunity to spread the legend of that kingdom’s past greatness, even if doing so would be disadvantageous.
+
+**All-Seeing Eye (Greater, Su)**: While your eyes aren’t literally all-seeing, you can keep track of all your allies with ease. You can shift your senses to any ally who was present for your seance as a move action, as if you had the *witness* spell active on all of them at all times. This replaces decisive strike.
+
 ### Forgiving Vintner (Hierophant)
 
 A farmer who was blessed by the great one-eyed giants of an island of hero-gods, who told him that tragedy would precede his mythic ascension. Sure enough, he returned home to find his whole village slaughtered. The culprits were captured, but he forgave them, an act that was rewarded by the gods. He stands for hope in the face of despair, for new growth, and for redemption.
@@ -195,6 +241,18 @@ A farmer who was blessed by the great one-eyed giants of an island of hero-gods,
 **Student of the Earth (Lesser, Su)**: This power functions as the archmage arcana spirit power, except that you add spells from the druid spell list instead of the sorcerer/wizard spell list. When you cast these spells, they count as divine.
 
 **Divine Overseer (Greater, Su)**: You can allow the vintner to gain 1 point of influence over you as a swift action to enable you to channel positive energy as a cleric of your level and automatically restore or deal the maximum amount your channel permits (for example, 6 points if you roll 1d6 when you channel). You can use this channel energy ability a number of times per day equal to your Charisma modifier (minimum 1).
+
+### Genie Binder (Archmage)
+
+A powerful genie binder from a great eastern empire, this spirit created many famed genie seals, including a bottle that houses 666 fiends.
+
+**Gaining Favor**: To gain the Binder’s favor, you must travel to any place where genie binders exist and prove your knowledge about all manner of genies. This requires a successful Intelligence check. You must then vow to never release a genie from its bonds, even if you did not bind it. The Binder then answers your call.
+
+**Taboos**: If you accept a taboo while channeling the Binder, you must not suffer the presence of a rival’s summoned creatures and must target them if possible during combat, even if doing so would be disadvantageous to your allies.
+
+**Binder’s Spells (Lesser, Su)**: The Binder always grants *summon monster I–VI*, plus the cantrip *detect magic*. This ability alters archmage arcana.
+
+**Master Summoner (Intermediate, Su)**: A number of times per day equal to 1/2 your medium level (minimum 1), you can cast any *summon monster* spell as a standard action instead of a full-round action. Additionally, you can allow the Binder to gain 1 point of influence over you and expend one of your highest-level spell slots to summon a monster that can be summoned with a *summon monster* spell 1 level higher than the highest one you can cast. This ability replaces arcane surge.
 
 ### Heretic (Hierophant)
 
@@ -213,6 +271,34 @@ The Heretic warps the faith of a good deity.
 **False Font (Intermediate, Su)**: You gain the effects of the energy font intermediate spirit power, but you must match the faith you chose to pervert, meaning that you always channel positive energy and add cure spells.
 
 **Stolen Grace (Greater, Su)**: When a member of your chosen faith who believes that you are a member of that faith’s clergy requests you to cast a cleric spell of a spell level you can cast, you can allow the Heretic to gain 1 point of influence over you and expend a spell slot of the appropriate level to cast the spell.
+
+### Infernal Queen (Hierophant)
+
+A ruthless monarch who changed the course of her nation’s history, the Infernal Queen struck a bargain with Hell to seize the throne for her family, ending a bloody civil war.
+
+**Gaining Favor**: To gain the Infernal Queen’s favor, you must travel to a great statue of her, or to any place where a lawful outsider with at least 20 Hit Dice has visited or been called. Once there, you must vow to never break a binding contract, and must make a case for why you should be entrusted with power over others. Doing so requires a Wisdom check; if you succeed, the Queen answers your call.
+
+**Taboos**: If you accept a taboo while channeling the Queen, you must vow to fight against chaos wherever you see it.
+
+**Dynamic Decree (Lesser, Su)**: The Queen always grants the following spells of each level: 0—*bleed*, 1st—*bane*, 2nd—*enthrall*, 3rd—*agonize*, 4th—*greater infernal healing*, 5th—*true seeing*, 6th—*banishment*. This ability alters divine surge.
+
+**Supernatural Aid (Greater, Su)**: Once per day, you can call an outsider with a number of Hit Dice equal to or less than yours (maximum 18 HD) as if casting the appropriate *planar ally* spell. You do not need to pay the material component required to cast the spell, but you still must bargain with and pay the outsider for its services. This ability replaces overflowing grace.
+
+### Leaping Lion (Hierophant)
+
+The Leaping Lion is a favorite hero among the young of an old empire, due to both his miraculous recovery from a childhood ailment and his wild adventures with his ape companion. Most tales of the Lion carry some lesson, whether encouraging kindness to animals or bravery in the face of adversity. Many grow to regard his adventures as childish, but learn to respect his inspiring and widely circulated lectures. Those who seek rapport with this legendary spirit find that the bond between juvenile thrill-seeker and learned scholar is perhaps the strongest aspect of the Lion’s identity, superseded perhaps only by an unusual affinity for the number eight.
+
+**Gaining Favor**: To gain the Leaping Lion’s favor, you must release an animal that has been unjustly restrained. You must then swear an oath to never stand idle while an animal is being abused and attempt a Wisdom check. If you succeed, the Lion answers your call.
+
+**Seance Boon**: Your bonus on attack rolls when flanking an opponent increases by 2 (normally, to +4).
+
+**Taboos**: If you accept a taboo while channeling the Lion, you must vow to never harm an animal.
+
+**Natural Magic (Lesser, Su)**: You can draw upon the power of nature itself. This functions as the archmage arcana spirit power, except that you select spells from the druid list instead of the sorcerer/wizard list (these spells count as divine), and you must present a sprig of holly or another sacred plant to cast spells that require a divine focus.
+
+**Princely Allies (Intermediate, Su)**: Add the appropriate *summon nature’s ally* spell for each spell level you can cast to your medium spell list. As long as you have exactly 1 creature summoned, it gains the benefits of the Augment Summoning feat, even if you don’t have that feat.
+
+**Breaking Chains (Greater, Su)**: As a swift action, you can allow the Lion to gain 1 point of influence over you to grant the benefits of *freedom of movement* to you and all allies within 60 feet for 1 minute.
 
 ### Lich (Archmage)
 
@@ -244,6 +330,40 @@ A prodigy captain in a city guard whose spear forced a sea monster back into the
 
 **Spiritual Force (Greater, Su)**: Add *divine power*, *greater magic weapon*, and *magic vestment* to the list of spells you can cast once per day, following the same rules as the divine vengeance spirit power.
 
+### Overthrower (Archmage)
+
+While most legendary spirits of his empire gained their fame through noble deeds, the Overthrower came to infamy through bold ambition. No one alive today—and likely no one other than the Overthrower himself—knows how much of his arcane might he leveraged in overthrowing his predecessor, but his ability to circumvent even the imperial guard in claiming the throne left few doubting his abilities or his ruthlessness. Students of the arcane seek to trace their heritage to the Overthrower in the hope of capturing some of the Overthrower’s prestige, but it is usually particularly ambitious students of the occult who find themselves calling upon the legendary spirit’s power.
+
+**Gaining Favor**: The Overthrower respects only those who are willing to reach out and claim power. You must use magic to gain control over the leader of a group of 50 or more individuals. Following this accomplishment, you must vow that you will never pass up an opportunity to gain further power for yourself, no matter the cost. This requires an Intelligence check. If you succeed, the Overthrower answers your call.
+
+**Taboos**: If you accept a taboo while channeling the Overthrower, you must acknowledge no authority above your own and reject orders or directives from others.
+
+**Assume the Role (Intermediate, Su)**: You can allow the Overthrower to gain 1 point of influence over you in order to swap your position with that of a willing ally within 60 feet as a swift action. This is a conjuration [teleportation] effect. The next medium spell you cast within 1 round after making this swap doesn’t expend a spell slot and doesn’t provoke an attack of opportunity.
+
+**Usurp (Supreme, Su)**: Once per day, when a creature fails a Will save against one of your spell effects, you can forfeit the spell’s normal effects to instead affect the target creature as if you had cast *greater possession*.
+
+### Poisoner Count (Trickster)
+
+Seeking a place to practice his illegal art, the Poisoner Count settled in a lawless city and established a notorious poisoners’ guild.
+
+**Gaining Favor**: The Poisoner Count answers only mediums who show ingenuity and proficiency in making poisons. To gain his favor, you must travel to the headquarters of any poisoners’ guild, herbalists’ guild, or similar organization. Once there, you must vow to use poison to eliminate foes significantly stronger than yourself, and stealthily place a poison you created on a guild member’s person (without harming that person) or among the person’s belongings, which requires a Dexterity check. If you succeed, the Count answers your call.
+
+**Taboos**: If you accept a taboo while channeling the Count, you must never work for or ally with a monarch or totalitarian.
+
+**Apprentice Poisoner (Lesser, Su)**: You gain poison use, as per the alchemist class feature. When using Craft (alchemy) to create poisons, you receive a bonus equal to 1/2 your medium level (minimum 1). At 4th level, you gain a +2 bonus on all saving throws against poison. This ability replaces trickster’s edge.
+
+### Prankster Prince (Trickster)
+
+History has a divided memory when it comes to the Prankster Prince. Scholars of the schism that split an old empire from its territories paint a picture of a diplomatic emperor whose insightful approach resulted in a largely bloodless transition from a monolithic empire to a collection of neighboring nations. Yet those who relate the tales for which the emperor is best known recall a quirky prankster with little regard for ceremony, tradition, or propriety. A rare few see the way in which these two personas combined to form exactly the leader the empire needed at this fraught point in its history: someone who could offset the difficulty of a painful decision with frivolous antics. It is this balance of effectiveness through trickery that those channeling the spirit of the Prince seek to emulate.
+
+**Gaining Favor**: The Prince answers the call of only those who share his esoteric sense of humor. You must convince someone to place a non-sentient animal in a position of authority, so long as such an act would not cause civil unrest or instability. You must then swear a vow to never act without due consideration of the consequences of your actions and attempt a Charisma check. If you succeed, the Prince answers your call.
+
+**Taboos**: If you accept a taboo while channeling the Prince, you must embrace every opportunity to pull a prank or make a jest, but never at your own expense.
+
+**Princely Humor (Lesser, Su)**: You gain Improved Dirty Trick and Improved Feint as bonus feats. When you successfully perform a dirty trick, you can allow the Prince’s spirit to gain 1 point of influence over you to target that opponent with *hideous laughter* (DC = 10 + 1/2 your medium level + your Charisma modifier) as a free action that does not provoke an attack of opportunity, in addition to the effects of the dirty trick.
+
+**Atrocious Gift (Greater, Su)**: You can allow the Prince to gain 1 point of influence over you to make a melee touch attack against another creature as a standard action. If you hit, you can transfer one disease or poison from yourself to the touched creature. You are immediately cured of the disease or poison and the target must attempt a saving throw against the transferred affliction (at the affliction’s save DC) or suffer its effect or initial effect immediately. The target then continues to suffer from the affliction’s normal effects thereafter.
+
 ### Saga-Singer (Marshal)
 
 The greatest skald of all time. During his life, there was no greater honor than to be immortalized by his song, and several of the most famous epics of his people were first sung by him.
@@ -255,6 +375,28 @@ The greatest skald of all time. During his life, there was no greater honor than
 **Song of Valor (Intermediate, Su)**: As a standard action, you can begin a performance that fills allies with power and confidence. Any ally that participated in your seance who can hear your performance receives a morale bonus to Strength and Constitution equal to your spirit bonus. You can maintain this performance for a number of rounds equal to your Charisma modifier plus your spirit bonus. These rounds need not be consecutive. Maintaining your performance is a free action.
 
 **Saga of Future Kings (Supreme, Su)**: Each ally who benefits from your song of valor gains DR/— equal to your spirit bonus. In addition, when an ally affected by your song would be reduced to fewer than 0 hit points, she can attempt a Fortitude saving throw (DC = 10 + half the damage received). If the ally succeeds, she instead is reduced to 0 hit points.
+
+### Serpent Slayer (Champion)
+
+The Serpent Slayer was an ancient hero who descended into a serpentfolk city and beheaded the evil creatures’ god.
+
+**Gaining Favor**: To gain the Slayer’s favor, you must defeat an evil serpentfolk who is at least 1 level higher than yourself. Using a magic weapon, you must decapitate the creature (which requires a successful Strength check) and toss its head into lava or a massive fire while vowing to never retreat from a battle involving evil serpentfolk or worshipers of their god. The Slayer then answers your call.
+
+**Taboos**: If you accept a taboo while channeling the Slayer, you must never coat any of your natural or manufactured weapons in poison, nor can you ever dose an enemy with any type of poison.
+
+**Ancient Heroics (Lesser, Su)**: The Slayer grants a +1 bonus on all attack rolls when you are wielding a greatsword in melee combat against evil monstrous humanoids instead of granting proficiency in an exotic weapon with champion’s prowess. For the legendary champion ability, the Slayer grants any two of the following feats: Disruptive, Greater Weapon Focus (greatsword), Greater Weapon Specialization (greatsword), Weapon Focus (greatsword), Weapon Specialization (greatsword), and Spellbreaker. This ability alters champion’s prowess and legendary champion.
+
+**Toe to Toe (Intermediate, Sp)**: When you are in melee combat with a creature that is at least one size category larger than you, if none of your allies are flanking it, you can spend a swift action to increase your own size as if through *enlarge person*, gaining all the effects of that spell. This does not provoke attacks of opportunity, and the effect lasts as long as you are in melee with that creature or until it is dead.
+
+### Shield General (Guardian)
+
+The Shield General was a hero who sacrificed himself in battle against a great lich at the end of a long crusade, weakening the lich so his allies could trap it.
+
+**Gaining Favor**: To gain the General’s favor, you must travel either to the place where his shattered shield is enshrined or to the site of any major battle of a crusade against undead. Once there, you must swear an oath to slay any undead you meet and concoct a tincture from the remains of a corporeal undead you have killed. You then must drink the tincture and succeed at a Constitution check before the General will answer your call.
+
+**Taboos**: If you accept a taboo while channeling the General, you must always protect others from danger when you can (including defeated enemies, but not enemies that are an active threat to you and others).
+
+**General’s Shield (Intermediate, Su)**: The General grants his power to a single shield you wear, allowing you to increase its enhancement bonus by 1 (or add a shield special ability with a +1 bonus base price modifier if the shield’s enhancement bonus is already +5). When you would be slain, turned to stone, or otherwise incapacitated, you can allow the General’s spirit to sacrifice himself to protect you from the effect. This negates any single non-damaging effect, and for a damaging effect, it leaves you with 0 hit points or your hit point total just before the deathblow, whichever is lower. In exchange, you lose contact with the General and have no spirit abilities until your next day’s seance. Furthermore, you can’t contact the General for 24 hours, and when you next contact the General, he starts with 1 more point of influence over you than normal. This ability replaces absorb blow.
 
 ### Slumbering King (Marshal)
 
