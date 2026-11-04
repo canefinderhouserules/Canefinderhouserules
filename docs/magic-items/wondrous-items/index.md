@@ -93,7 +93,7 @@ A number of spells and magic items utilize extradimensional spaces, such as rope
 | 73 | Circlet of persuasion | 4,500 gp |
 | 74 | Slippers of spider climbing | 4,800 gp |
 | 75 | Incense of meditation | 4,900 gp |
-| 76 | Amulet of mighty fists +1 | 5,000 gp |
+| 76 | Amulet of mighty fists +1 | 4,000 gp |
 | 77 | Bag of holding type II | 5,000 gp |
 | 78 | Bracers of archery, lesser | 5,000 gp |
 | 79 | Ioun stone, dusty rose prism | 5,000 gp |
@@ -190,7 +190,7 @@ A number of spells and magic items utilize extradimensional spaces, such as rope
 | 65 | Amulet of natural armor +3 | 18,000 gp |
 | 66 | Ioun stone, iridescent spindle | 18,000 gp |
 | 67 | Bracelet of friends | 19,000 gp |
-| 68 | Amulet of mighty fists +2 | 20,000 gp |
+| 68 | Amulet of mighty fists +2 | 16,000 gp |
 | 69 | Carpet of flying, 5 ft. by 5 ft. | 20,000 gp |
 | 70 | Horn of blasting | 20,000 gp |
 | 71 | Ioun stone, pale lavender ellipsoid | 20,000 gp |
@@ -254,7 +254,7 @@ A number of spells and magic items utilize extradimensional spaces, such as rope
 | 24 | Ring gates | 40,000 gp |
 | 25 | Crystal ball | 42,000 gp |
 | 26 | Golem manual, stone guardian | 44,000 gp |
-| 27 | Amulet of mighty fists +3 | 45,000 gp |
+| 27 | Amulet of mighty fists +3 | 36,000 gp |
 | 28 | Strand of prayer beads | 45,800 gp |
 | 29 | Orb of storms | 48,000 gp |
 | 30 | Boots of teleportation | 49,000 gp |
@@ -290,7 +290,7 @@ A number of spells and magic items utilize extradimensional spaces, such as rope
 | 60 | Gem of seeing | 75,000 gp |
 | 61 | Robe of the archmagi | 75,000 gp |
 | 62 | Mantle of faith | 76,000 gp |
-| 63 | Amulet of mighty fists +4 | 80,000 gp |
+| 63 | Amulet of mighty fists +4 | 64,000 gp |
 | 64 | Crystal ball with true seeing | 80,000 gp |
 | 65 | Pearl of power, 9th-level spell | 81,000 gp |
 | 66 | Well of many worlds | 82,000 gp |
@@ -314,7 +314,7 @@ A number of spells and magic items utilize extradimensional spaces, such as rope
 | 84 | Tome of understanding +4 | 110,000 gp |
 | 85 | Amulet of the planes | 120,000 gp |
 | 86 | Robe of eyes | 120,000 gp |
-| 87 | Amulet of mighty fists +5 | 125,000 gp |
+| 87 | Amulet of mighty fists +5 | 100,000 gp |
 | 88 | Helm of brilliance | 125,000 gp |
 | 89 | Manual of bodily health +5 | 137,500 gp |
 | 90 | Manual of gainful exercise +5 | 137,500 gp |
