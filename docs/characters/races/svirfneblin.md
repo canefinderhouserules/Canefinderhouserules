@@ -63,3 +63,10 @@ Svirfneblin have access to the following equipment.
 ## Discoveries
 
 - [Darkness Bomb, Glassfoot Bomb](../classes/alchemist-archetypes.md#advanced-race-guide-discoveries)
+
+## More Alternate Racial Traits
+
+### Stalwart Watcher
+
+Svirfneblin first came to the world to thwart the schemes of evil fey. Those who still keep to this mission, primarily dwelling in settlements far beneath the free republic, gain a +1 racial bonus on attack rolls against fey creatures and a +2 racial bonus on saving throws against mind-affecting effects. This racial trait replaces hatred and skilled.
+

@@ -69,3 +69,10 @@ Vishkanyas have access to the following equipment.
 ## Spells
 
 - [Squeeze](../../magic/spells/squeeze.md)
+
+## More Alternate Racial Traits
+
+### Deceptive
+
+Vishkanya clans that make their livings robbing or killing humans train to distract targets at critical moments. They gain a +2 racial bonus on Bluff checks. This racial trait replaces the racial bonus on Escape Artist checks.
+

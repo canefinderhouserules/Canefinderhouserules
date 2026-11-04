@@ -93,3 +93,10 @@ See the [Ultimate Wilderness section of the racial favored class options](../fav
 - [Delectable Flesh](../../magic/spells/delectable-flesh.md)
 - [Pinecone Bomb](../../magic/spells/pinecone-bomb.md)
 - [Woodland Rune](../../magic/spells/woodland-rune.md)
+
+## More Alternate Racial Traits
+
+### Disgusting
+
+Some ghorans’ link to their past lives becomes corrupted, causing their taste to become particularly disgusting. Such ghorans gain a +2 racial bonus on Escape Artist and combat maneuver checks to escape a grapple against any creature that has a bite attack with the grab ability. This racial trait replaces delicious and past-life knowledge.
+

@@ -31,3 +31,10 @@ The [Mindlink Outrider](../classes/cavalier-archetypes.md) cavalier archetype is
 ## Lashunta Traits
 
 See the Lashunta Traits section of the [race traits](../traits/race-traits.md) page.
+
+## More Alternate Racial Traits
+
+### Insidious Telepathy
+
+Some lashunta have a knack for manipulating the minds of those they communicate with telepathically. They gain a +1 racial bonus on Charisma-based skill checks to influence any creature with whom they are telepathically communicating. If a lashunta telepathically issues a command to a charmed or dominated creature, she gains a +1 racial bonus on Charisma checks to compel the creature to follow that order. This racial trait replaces lashunta magic.
+

@@ -129,3 +129,14 @@ Oreads have access to the following equipment.
 - [Mighty Fist of the Earth](../../magic/spells/mighty-fist-of-the-earth.md)
 - [Raging Rubble](../../magic/spells/raging-rubble.md)
 - [Stone Shield](../../magic/spells/stone-shield.md)
+
+## More Alternate Racial Traits
+
+### Isolated
+
+Many oreads are loners and raise their families in isolated groups, either in deep caverns or high mountains. They gain a +2 racial bonus on Perception checks and Knowledge (dungeoneering) checks, and they can use Knowledge (dungeoneering) untrained. They begin play speaking only Terran, rather than Common and Terran. This racial trait replaces energy resistance and alters the oread’s starting languages.
+
+### Mostly Human
+
+A few ifrits, oreads, sulis, sylphs, and undines have appearances much closer to those of their human ancestors; in fact, they may not even realize their true race. Such geniekin appear to be human, save perhaps minor features like unusual eye color, and they count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells such as *charm person* or *enlarge person*). These geniekin do not automatically gain their associated elemental language (but may select it as a bonus language if their Intelligence is high enough). This ability alters the geniekin’s type, subtype, and languages.
+

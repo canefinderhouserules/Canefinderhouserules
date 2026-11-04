@@ -75,3 +75,10 @@ Gillmen have access to the following equipment.
 - [Aboleth Deceiver](../../rules/feats/aboleth-deceiver.md)
 - [Aphotic Explorer](../../rules/feats/aphotic-explorer.md)
 - [Surface Survivor](../../rules/feats/surface-survivor.md)
+
+## More Alternate Racial Traits
+
+### Deep Gillman
+
+Some gillmen live in the deeper ocean and almost never visit the land above the sea. Such gillmen gain darkvision to a range of 60 feet and resist cold 5, in order to survive the lightless depths. This racial trait replaces amphibious and enchantment resistance.
+

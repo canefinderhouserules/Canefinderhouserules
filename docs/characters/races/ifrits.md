@@ -104,3 +104,19 @@ Ifrits have access to the following equipment.
 - [Healing Warmth](../../magic/spells/healing-warmth.md)
 - [Scorching Ash Form](../../magic/spells/scorching-ash-form.md)
 - [Touch of Combustion](../../magic/spells/touch-of-combustion.md)
+
+## More Alternate Racial Traits
+
+### Brazen Flame
+
+An unusual number of ifrits hail from the burning mountains area, home to the remains of a colossal fire beast, and their flames infuse their weapons in mortal combat, rather than protect them or grant spells. An ifrit with this racial trait deals 1 point of fire damage with its melee attacks. This racial trait replaces the energy resistance and spell-like ability traits.
+
+### Mostly Human
+
+A few ifrits, oreads, sulis, sylphs, and undines have appearances much closer to those of their human ancestors; in fact, they may not even realize their true race. Such geniekin appear to be human, save perhaps minor features like unusual eye color, and they count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells such as *charm person* or *enlarge person*). These geniekin do not automatically gain their associated elemental language (but may select it as a bonus language if their Intelligence is high enough). This ability alters the geniekin’s type, subtype, and languages.
+
+
+## More Favored Class Options
+
+- **Oracle**: Add +1/6 to the oracle’s level for the purpose of determining the effects of one revelation.
+

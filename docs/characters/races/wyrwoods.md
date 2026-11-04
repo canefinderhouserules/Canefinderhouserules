@@ -44,3 +44,10 @@ The following options are available to wyrwoods who have the listed favored clas
 ## Wyrwood Feats
 
 Wyrwoods can select from the following feats: [Consume Power](../../rules/feats/consume-power.md), [Expressionless](../../rules/feats/expressionless.md), [Freeze in Place](../../rules/feats/freeze-in-place.md), [Ioun Resonance](../../rules/feats/ioun-resonance.md), [Lifecrafting](../../rules/feats/lifecrafting.md), [Magical Heart](../../rules/feats/magical-heart.md), [Occult Conduit](../../rules/feats/occult-conduit.md), and [Sword's Shadow](../../rules/feats/swords-shadow.md).
+
+## More Alternate Racial Traits
+
+### Repair Magic
+
+Some wyrwoods have developed magic to keep them more self-sufficient. They can use *make whole* as a spell-like ability once per day. This racial trait replaces darkvision.
+

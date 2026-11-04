@@ -132,3 +132,15 @@ Tengus have access to the following equipment.
 - [Depilate](../../magic/spells/depilate.md)
 - [Fumblestep](../../magic/spells/fumblestep.md)
 - [Lightfingers](../../magic/spells/lightfingers.md)
+
+## More Alternate Racial Traits
+
+### Deft Swords
+
+Some tengu learn dazzling blade techniques that allow them to use their weapons to protect against combat maneuvers. They gain a +2 dodge bonus to CMD while wielding a swordlike weapon. This racial trait replaces natural weapon and sneaky.
+
+
+## More Favored Class Options
+
+- **Kineticist**: Gain 1/6 of an Extra Wild Talent feat.
+

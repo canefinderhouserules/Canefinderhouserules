@@ -115,3 +115,62 @@ This heatstone-derived glass is warm to the touch and slightly malleable, as if 
 |---|---|
 | Weapon | +800 gp |
 | Other items | +250 gp/lb. |
+
+## Materials of Distant Places
+
+### Bridge Basalt
+
+The stones of an immense ancient bridge are infused with a unique preservative magic that has grown in them over the ages. Bridge stones harvested from underwater rubble or mined from offshore pilings are not only of great value to builders and sculptors, but also of particular interest to those seeking to create stone constructs.
+
+**Physical Properties**: Bridge basalt is as hard as iron, while retaining its other stony features for carving and building. It has hardness 10 and typically fetches a price of about 5 sp per pound. However, since few buyers are interested in stones of less than 1,000 pounds, the bridge basalt trade is relatively limited to specialists capable of harvesting and transporting such heavy blocks.
+
+**Building Constructs**: When a construct’s materials consist entirely of bridge stone, its Craft DC increases by +5, but the required Caster Level decreases by 1. In addition, stone constructs crafted from bridge stone gain a +2 bonus to Strength and gain twice as many bonus hit points as normal from the construct type.
+
+### Cryptstone
+
+Cryptstone is a dense gray stone scavenged from the mausoleums of the Boneyard. While cryptstone may appear ancient and pitted, the supernatural essence of the Boneyard has infused it with power over the eons. A weapon made of cryptstone grants a +1 bonus on weapon damage rolls against undead creatures; this damage is multiplied on a critical hit. Additionally, any nonmagical weapon made of cryptstone affects incorporeal undead as if it were a magic weapon, and weapons made of cryptstone that have the *disruption* special ability increase the DC of that ability by +1.
+
+Cryptstone can be used to craft bludgeoning melee weapons and ammunition that deals bludgeoning damage. Weapons made of cryptstone are always considered masterwork, and the masterwork costs are included in the listed prices. Items not primarily made from stone are not meaningfully affected by being partially made from cryptstone.
+
+Cryptstone has the same hit points and hardness as steel.
+
+| **Type of Cryptstone Item** | **Item Price Modifier** |
+|---|---|
+| Ammunition | +10 gp per item |
+| Weapon | +500 gp |
+
+### Spiresteel
+
+Philosophers speculate that the Spire upon which the Boneyard rests is composed of a condensed form of pure quintessence, but those brave enough to acquire some the substance report that ore mined from the Spire can be smelted and worked into weapons and armor. This substance, called spiresteel, exhibits an innate attraction for soul energy.
+
+Armor crafted from spiresteel protects the wearer’s essence, applying half of its armor bonus to AC against attacks made by incorporeal creatures. Weapons crafted from spiresteel appear hungry for the very substance of the foes they are wielded against. When the wielder confirms a critical hit with a spiresteel weapon, the target must succeed at a Will save (DC = 10 + double the weapon’s enhancement bonus), or be staggered for 1 round as a portion of its soul is carved away.
+
+Spiresteel can be used to craft any armor or weapon that is typically made of steel. Items made of spiresteel are always considered masterwork, and the masterwork costs are included in the listed prices.
+
+Spiresteel has the same hit points and hardness as steel.
+
+| **Type of Spiresteel Item** | **Item Price Modifier** |
+|---|---|
+| Ammunition | +10 gp per item |
+| Light Armor | +1,000 gp |
+| Medium Armor | +2,000 gp |
+| Heavy Armor | +3,000 gp |
+| Weapon | +2,000 gp |
+
+### Throneglass
+
+A long-lost imperial palace was a fabulous building that featured a famous skylight made of a single sheet of magically treated glass as durable as steel. Though the green-tinted substance was sturdy, it was still no match for the onslaught of a great cataclysm. As meteors tore the land to pieces, a direct hit razed the building, shattering the skylight. Years later, as survivors surveyed the damage, they discovered that the material had retained its durability and some manufactured the green shards into weapons, calling the material *throneglass*.
+
+An old order of knights was the most proficient in turning these remnants into potent weapons, especially after they unlocked and understood *throneglass’s* abilities. The material is typically forged into melee weapons, though it theoretically could be used for other functions.
+
+*Throneglass* is a special material as strong as steel that also provides the bearer with protection against an opponent’s psychic abilities. When a creature wielding a melee weapon made of *throneglass* succeeds at a saving throw against a psychic or mind-affecting effect from a creature, the weapon stores some of that energy and holds it for a future attack. A *throneglass* weapon can store this energy for a number of rounds equal to the level of the spell, or half the creature’s CR if the effect wasn’t a spell or spell-like ability. If the weapon hits a creature while still holding this energy, it suffuses the target with a disruptive field for 1 round. On a critical hit, the disruptive field effect instead lasts for a number of rounds equal to the weapon’s critical multiplier. While affected by this field, a target must succeed at a concentration check (DC = 15 + twice the spell’s level) to cast any spell or spell-like ability (in addition to any other required concentration checks). If the check is failed, the affected creature’s spell or spell-like ability is wasted. A Small or Medium weapon made of *throneglass* costs an additional 13,000 gp.
+
+### Glaucite
+
+When the phrase “sky steel” is used, the speaker is usually, knowingly or not, referring to an iron/adamantine alloy called glaucite. This dark gray metal is the material of choice for hulls and starship superstructures, and is what constitutes the walls, floors, and ceilings of the strange ruins found throughout a land of fallen technology. Without more advanced technology, glaucite is extremely difficult to work with. Because the metal isn’t much better than steel for forging weapons or armor, and the process of extracting the adamantine from it is so expensive and time consuming that the resulting adamantine isn’t worth the effort, scavengers have, by and large, left the walls and floors of the structures buried in the region untouched. It’s simply easier to scavenge smaller objects or work with normal iron or steel in the long run.
+
+Glaucite has 30 hit points per inch of thickness (the same as steel) and hardness 15. It is half again as heavy as steel, and the difficulty of working with the material triples the object’s total cost to create. As a result, glaucite armor and weapons are generally commissioned only by eccentrics and collectors and rarely see use in the field, given that steel weapons and armor work just as well and are less encumbering.
+
+### Pyre Steel
+
+Some dwarves and hobgoblins forge tools and weapons out of pyre steel: steel embedded with ground glass that won’t warp when exposed to heat. Pyre steel weapons have fire resistance 10 and may be ignited without gaining the broken condition. They’re usually forged with grooves and reservoirs ideal for retaining fuel; once ignited, they burn for 3 minutes. Pyre steel is brittle, having the same hardness but half the hit points of a regular weapon. Only weapons made primarily from metal can be created from pyre steel. Using pyre steel doubles the base cost of the weapon or item, but not the cost of making it masterwork.

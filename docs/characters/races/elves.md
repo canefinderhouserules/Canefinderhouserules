@@ -193,3 +193,108 @@ Wyroot can be used to construct any melee weapon made entirely of wood or a mele
 - [Blend](../../magic/spells/blend.md)
 - [Ward of the Season](../../magic/spells/ward-of-the-season.md)
 - [Whispering Lore](../../magic/spells/whispering-lore.md)
+
+## More Alternate Racial Traits
+
+### Ageless Patience
+
+Some families of elves have been strongly influenced by rigidly honorable non-elven cultures, such as Forlorn elves raised in nations such as the old empire and the elves of the eastern elven land influenced by eastern travelers. This attitude, combined with elven longevity, produces elves of extraordinary patience, who can produce better results when taking their time than they could under time constraints. These elves gain a +2 racial bonus when taking 20 on skill checks. This racial trait replaces elven magic and keen senses.
+
+### Aquatic Elves
+
+Aquatic elves are the oceanic cousins of landborn elves. These elves have developed gills and webbed fingers and toes that allow them to survive and navigate the waters of the world, and often have blue, coral, or seaweed-black skin to blend into their environment. A significant number of aquatic elves live in the Steaming Sea near the sea-spire, and in the western Ocean. Aquatic elves typically live secluded lives, either on their own or in small communities, though groups of aquatic elves that interact with land-dwelling communities are not uncommon. These elves are as varied as their land-dwelling kin, with unique cultures and customs scattered throughout the oceans and seas of the world. Aquatic elves often have the aquatic mastery alternate racial trait described below.
+
+### Arctic Elf
+
+These elves were born and raised in the frozen lands of the far north or south, and have dealt with freezing deserts, nights that last for weeks, and the horrors that roam the cold terrain. These elves have the darkvision, desert runner, and elemental resistance alternate racial traits.
+
+### Crossbow Training
+
+the sea-spire elves train with weapons that can be used underwater. An elf with this trait can reload a light crossbow as a free action and a heavy crossbow as a move action, provided that she is proficient with the weapon. If she selects the Rapid Reload feat for a heavy crossbow, she can reload the weapon as a free action. This racial trait replaces weapon familiarity.
+
+### Disinterested Observer
+
+Elves who frequently interact with shorterlived species, especially members who hail from the frontier, often come to rely on their ability to weight out such impatient races. These elves gain a +1 racial bonus on attack rolls and skill checks made as part of readied actions in combat. This racial trait replaces the elven magic and weapon familiarity traits.
+
+### Dusk Elf
+
+Rather than being tied to the terrain around them, some elves are linked to the night itself. Though not tied to demon worship and evil as drow are, these elves are similarly attuned to the magical concepts of darkness and shadow. These elves have the arcane focus, darkvision, dreamspeaker, and silent hunter alternate racial traits.
+
+### Jungle Elves
+
+Though the jungle clans are often mistaken for unaffiliated tribes, they are in fact a united nation and still hold vestiges of the power that their ancient kingdom once wielded. jungle elves reside within the southern jungle in hidden jungle villages so interwoven with the surrounding trees that the buildings there are overlooked even by travelers passing within a few hundred feet them. Unlike many of the elves of the northern continent, the jungle remained on the world despite the calamity of the great cataclysm and tell tales of having defeated a “Great Darkness” after the disaster. They still hone their skills for war and are ever ready to fight the Darkness if it returns. Due to this ancient responsibility, jungle hold to strict traditions in many matters, including the burying of their fallen and the act of swearing oaths and ritualized agreements.
+
+Like other elves, jungle have keen intellects and are skilled in magical lore, including what has been passed down through their oral traditions and the numerous secrets of the southern jungle. They often journey to the a great jungle academy to study magic or to share their knowledge with that academy’s students. jungle frequently have the long-limbed alternate racial trait and either the woodcraft, silent hunter, or light against darkness alternate racial traits, as well as the sense thoughts alternate racial trait described below.
+
+### Elven Arrogance
+
+Some elves are so convinced of elven superiority, or else otherwise so xenophobic, that they have difficulty seeing the point in communicating with “lesser” races. Their racial bonus on saving throws against enchantments increases by 1 (to +3) against such effects from non-elf humanoids, but they begin play speaking only Elven, and if they have high Intelligence scores, they can select bonus languages from only drowned imperial, Celestial, Draconic, and Sylvan (or an eastern tongue instead of Sylvan if they hail from the far east).
+
+### Eternal Grudge
+
+Some elves grow up in secluded, isolationist communities where generations-old slights and quarrels linger as eternal blood feuds. Elves with this racial trait receive a +1 bonus on attack rolls against humanoids of the dwarf and orc subtypes because of special training against these hated foes. This racial trait replaces elven magic.
+
+### Forlorn Elves
+
+Forlorn elves rarely refer to themselves by that name; instead, other elves use the term to refer to elves who reside among shorter-lived races. Forlorn elves often watch many of their friends and family die before their first century is past. Some Forlorn have adopted a variety of unhealthy coping mechanisms as a result, such as recklessness or substance abuse; others develop antisocial tendencies and keep others at arm’s length to avoid the pain of loss. Still others learn to accept the brevity of the lives around them, cherishing what time they have with friends while they still have it.
+
+Forlorn are the most common wanderers of elvenkind, whether they’re traveling widely to avoid attachment or relishing travel with short-lived companions, and many become adventurers. Some find their way to elven lands, where their kin sympathetically welcome them, while others avoid such places out of bitterness or fear of rejection. Forlorn elves frequently have the envoy and urbanite alternate racial traits; some also have the devoted companion alternate racial trait described below.
+
+### Human-Raised
+
+Forlorn—elves raised outside of elven communities—are accustomed to other races’ brevity of life. Although they lose the opportunity to train in traditional elven arts, these elves pick up a bit of their adoptive parents’ skills. They gain Skill Focus as a bonus feat. This racial trait replaces elven magic and weapon familiarity.
+
+### Eastern Elves
+
+The elves of the eastern elven land are descended from those who traveled underground millennia ago to escape the great cataclysm. Led by the oracle an ancient oracle and guided by a vast, treelike vein of mithral, these elves emerged in the far east, where they founded the nation of the eastern elven land. eastern elves have adopted many of the customs of their human and samsaran neighbors—the eastern elven land’s culture places great emphasis on artistic pursuits, especially those involving mithral, which serves as a national symbol, lucrative export, and treasured cultural relic for eastern elves. The elves of the eastern elven land are far less isolationist than many other elven cultures, freely permitting outsiders into the eastern elven land; likewise, while most eastern elves remain there, many travel or settle across the Dragon Empires and beyond.
+
+eastern elves frequently have the dreamspeaker and envoy alternate racial traits, as well as the eastern weapon mastery alternate racial trait described below.
+
+### Memories Beyond Death
+
+Some elves are born with sensitive souls that absorb insight from others and from the spirits of the deceased. These elves gain a +2 racial bonus on saving throws against fear effects. They also choose two Knowledge skills and always treat those skills as class skills. If they take a class that grants either or both of those skills as class skills, they gain a +1 racial bonus on the overlapping skill or skills. This racial trait replaces elven immunities and elven magic.
+
+### Natural Swimmer
+
+the sea-spire elves learn to dive and swim at an early age. Elves with this trait gain a +2 racial bonus on Swim checks and can always take 10 on a Swim check, even if distracted or endangered when swimming. This racial trait replaces elven magic and keen senses.
+
+### Overwhelming Magic
+
+Some elves obsess over the fundamentals of magic, training for decades to add layers of potent spellwork before they ever begin practicing true spells. This builds a foundation that makes their magic increasingly difficult to resist. These elves gain Spell Focus as a bonus feat. This racial trait replaces elven magic and weapon familiarity.
+
+### Retreat Magic
+
+Elves raised in the traditions of those who protected elven holdings before, during, and shortly after the great cataclysm specialize in magic that fools foes into misjudging elven numbers and locations. These elves gain a +1 racial bonus to their caster levels for the purpose of determining the range and duration of all conjuration and illusion spells that they cast. This racial trait replaces elven magic.
+
+### Savage Elf
+
+In lands where every day is a constant struggle to survive and the niceties of civilization are rare, elves adapt to depend on swift strikes and lifelong vigilance to keep their families alive. These elves have the eternal grudge and fleet-footed alternate racial traits.
+
+### Snowcaster Elves
+
+The Snowcaster tribes of the far north are extraordinarily reclusive, hiding their settlements in icy caverns, mountain valleys, the hearts of snow-shrouded pine forests, and other difficult-to-reach places. Their loyalty to their homes borders on religious reverence, whether they are ancestral burial grounds, ancient elven ruins, or simply places they’ve chosen as their own. Snowcasters rarely journey outside their homes or meet with outsiders. The primary exceptions to this are the twilight speakers, who serve as emissaries to the outside world. Less commonly, Snowcasters who have been exiled, who have lost their homes to monsters, or who are simply overcome with wanderlust may journey to the outside world to seek a new life.
+
+Snowcasters frequently have the desert runner, elemental resistance (cold), and fleet-footed alternate racial traits; a few have the frostmelding alternate racial trait described below.
+
+### Elven-Realm-Born
+
+Elves who come from the ancient elven civilization of Elven-Realm are steeped in lore older than most civilizations. They gain a +2 racial bonus on Knowledge (history), Knowledge (local), and Spellcraft checks. This racial trait replaces elven magic and keen senses.
+
+### Sea-Spire Elves
+
+The sea-spire’s elves, with their eerie masks and off-putting mannerisms, are a mystery to most northerners. These elves have sworn to prevent exploration of the drowned empire in order to preserve and isolate the remnants of the drowned imperial culture and protect the world from another the great cataclysm. The reclusive Sea-Spire use enchantment and water magic to dissuade explorers; they resort to violent or deadly means only with utmost reluctance. In recent years, some younger Sea-Spire have begun to question their isolationist traditions. While their commitment to protecting the drowned empire remains firm, a growing segment of Sea-Spire believe that there is much to gain from interaction with the wider world. These elves sometimes leave the Spire to seek knowledge and experience.
+
+Sea-Spire frequently have the keeper of secrets alternate racial trait, as well as the crossbow training, natural swimmer, and tongue of the sea alternate racial traits; some also have the moonkissed alternate racial trait described below.
+
+### Tongue of the Sea
+
+the sea-spire elves speak the ancient languages of their ancestors, enemies, and other creatures native to the Steaming Sea. Elves with this racial trait begin play speaking drowned imperial and Elven. Elves with high Intelligence scores can choose from the following languages: Aboleth, Abyssal, Aklo, Aquan, Common, and Undercommon. This racial trait replaces an elf ’s normal languages.
+
+
+## More Favored Class Options
+
+- **Barbarian**: Add +1 to the barbarian’s base speed. In combat this option has no effect unless the barbarian has selected it five times (or another increment of five). This bonus stacks with the barbarian’s fast movement feature and applies under the same conditions as that feature.
+- **Bard**: Add +1 to the bard’s CMD when resisting a disarm or sunder attempt.
+- **Fighter**: Add +1 to the fighter’s CMD when resisting a disarm or sunder attempt.
+- **Oracle**: Add +1/6 to the oracle’s level for the purpose of determining the effects of one revelation.
+

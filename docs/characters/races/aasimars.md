@@ -122,3 +122,104 @@ Aasimars have access to the following equipment.
 - [Sacred Space](../../magic/spells/sacred-space.md)
 - [Truespeak](../../magic/spells/truespeak.md)
 - [Veil of Heaven](../../magic/spells/veil-of-heaven.md)
+
+## More Alternate Racial Traits
+
+### Agathion-Blooded (Idyllkin)
+
+Idyllkin possess bestial aspects and calm dispositions, and often act as peaceful intermediaries between lawful and chaotic agents of good.
+
+**Ancestry **Agathion
+
+**Typical Alignment **NG
+
+**Ability Modifiers **+2 Con, +2 Cha
+
+**Alternate Skill Modifiers **Handle Animal, Survival
+
+**Alternate Spell-Like Ability **Idyllkin gain *summon nature’s ally II *as a spell-like ability.
+
+### Angel-Blooded (Angelkin)
+
+Angelkin are mortal paragons of exceptional beauty, and they serve as exemplars of good and light regardless of the myriad forms they may take.
+
+**Ancestry **Angel
+
+**Typical Alignment **Any good
+
+**Ability Modifiers **+2 Str, +2 Cha
+
+**Alternate Skill Modifiers **Heal, Knowledge (planes)
+
+**Alternate Spell-Like Ability **Angelkin gain *alter self *as a spell-like ability.
+
+### Archon-Blooded (Lawbringers)
+
+Lawbringers are champions of justice and of doling out punishment to the wicked, and often believe chaos is the cause of all mortal suffering.
+
+**Ancestry **Archon
+
+**Typical Alignment** LG
+
+**Ability Modifiers** +2 Con, +2 Wis
+
+**Alternate Skill Modifiers** Intimidate, Sense Motive
+
+**Alternate Spell-Like Ability** Lawbringers gain *continual flame* as a spell-like ability.
+
+### Azata-Blooded (Musetouched)
+
+The musetouched epitomize freedom and joy, and travel the world to liberate less fortunate individuals.
+
+**Ancestry **Azata
+
+**Typical Alignment **CG
+
+**Ability Modifiers **+2 Dex, +2 Cha
+
+**Alternate Skill Modifiers** Diplomacy, Perform
+
+**Alternate Spell-Like Ability** Musetouched gain *glitterdust *as a spell-like ability.
+
+### Crusading Magic
+
+Many aasimars feel obligated to train to defend the world against fiends such as the invaders from the demonic rift. These aasimars gain a +2 racial bonus on caster level checks to overcome spell resistance and on Knowledge (planes) checks. This racial trait replaces the skilled and spell-like ability racial traits.
+
+### Garuda-Blooded (Plumekith)
+
+Their shimmering avian features make plumekith instantly recognizable. Though they can act rashly, plumekith never shirk their duty after making a commitment.
+
+**Ancestry **Garuda
+
+**Typical Alignment** CG
+
+**Ability Modifiers** +2 Dex, +2 Wis
+
+**Alternate Skill Modifiers** Acrobatics, Fly
+
+**Alternate Spell-Like Ability** Plumekith gain see *invisibility *as a spell-like ability.
+
+### Lost Promise
+
+While many view aasimars’ beauty and celestial powers as a gift, in some communities an aasimar might be persecuted for being different and fall into darkness. The forces of evil delight in such a perversion of their celestial counterparts’ gifts. As long as the aasimar retains an evil alignment, she gains the maw or claw tiefling alternate racial trait. This racial trait replaces the spell-like ability racial trait.
+
+### Peri-Blooded (Emberkin)
+
+Masters of fire magic, emberkin feel the dual pull of their peri forebear as well as that of a fallen angel further down their ancestry, and wrestle with their urges to do both good and evil.
+
+**Ancestry **Peri
+
+**Typical Alignment **NG
+
+**Ability Modifiers** +2 Int, +2 Cha
+
+**Alternate Skill Modifiers** Knowledge (planes), Spellcraft
+
+**Alternate Spell-Like Ability** Emberkin gain *pyrotechnics *as a spell-like ability.
+
+
+## More Favored Class Options
+
+- **Bard**: Choose one bardic performance; treat the bard as +1/6 level higher when determining the effects of that performance.
+- **Oracle**: Add +1/6 to the oracle’s level for the purpose of determining the effects of one revelation.
+

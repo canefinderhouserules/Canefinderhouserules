@@ -176,3 +176,62 @@ A heartstake bolt deals normal damage for the crossbow of its type.
 - [Spawn Ward](../../magic/spells/spawn-ward.md)
 - [Domination Link](../../magic/spells/domination-link.md)
 - [Project Weakness](../../magic/spells/project-weakness.md)
+
+## More Alternate Racial Traits
+
+### Heir to Undying Nobility
+
+Descended from undead nobility, perhaps from the necromancer’s realm, the shadow realm, or the gothic realm, some dhampirs inherit a bit of their ancestors’ ability to control living beings. They can use command and charm person each once per day. This racial trait replaces the spell-like ability racial trait.
+
+### Jiang-Shi-Born (Ru-Shi)
+
+The ru-shi are dhampirs who descend from the jiang-shi of the far east. They generally lack any interest in physical contact, and their movements are stiff and awkward.
+
+**Alternate Ability Modifiers**: +2 Strength, +2 Intelligence, –2 Dexterity.
+
+**Alternate Skill Modifiers**: Acrobatics, Knowledge (engineering).
+
+**Alternate Spell-Like Ability**: *Erase*.
+
+**Alternate Weakness**: Ru-shi take a –1 penalty on saves against sonic effects and spells.
+
+### Moroi-Born (Svetocher)
+
+These dhampirs are blessed with unnatural grace, beauty, and charm, and they often feel most at home among a region’s aristocracy.
+
+**Alternate Ability Modifiers**: +2 Strength, +2 Charisma, –2 Constitution.
+
+**Alternate Skill Modifiers**: Diplomacy, Knowledge (nobility).
+
+**Alternate Spell-Like Ability**: *Obscuring mist*.
+
+**Alternate Weakness**: Svetochers take a –1 penalty on saves against effects that deal positive energy damage.
+
+### Nosferatu-Born (Ancient-Born)
+
+Many of the ancient-born dhampirs possess a deep hatred for humanity—a hatred most humans return in kind.
+
+**Alternate Ability Modifiers**: +2 Strength, +2 Wisdom, –2 Constitution.
+
+**Alternate Skill Modifiers**: Climb, Survival.
+
+**Alternate Spell-Like Ability**: *Doom*.
+
+**Alternate Weakness**: Ancient-born take a –1 penalty on saves against effects that damage, drain, or reduce physical ability scores.
+
+### Vampire Hunter
+
+Some dhampirs bear a deep hatred for their undead progenitors and their kin that can never be fully quenched. They gain a +1 bonus on attack rolls against vampires. This racial trait replaces manipulative.
+
+### Vetala-Born (Ajibachana)
+
+These dhampirs are more often the result of magical experiments than mating.
+
+**Alternate Ability Modifiers**: +2 Dexterity, +2 Intelligence, –2 Wisdom.
+
+**Alternate Skill Modifiers**: Escape Artist, Use Magic Device.
+
+**Alternate Spell-Like Ability**: *Comprehend languages*.
+
+**Alternate Weakness**: Ajibachanas take a –1 penalty to their caster levels when they’re in an area affected by *consecrate*, *hallow*, or a similar spell that makes an area holy.
+

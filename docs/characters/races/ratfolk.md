@@ -146,3 +146,10 @@ Ratfolk have access to the following equipment.
 - [Alchemical Tinkering](../../magic/spells/alchemical-tinkering.md)
 - [Delay Disease](../../magic/spells/delay-disease.md)
 - [Sickening Strikes](../../magic/spells/sickening-strikes.md)
+
+## More Alternate Racial Traits
+
+### Market Dweller
+
+Some ratfolk, especially those of great underground markets, are practiced at taking advantage of foes. They gain a +2 racial bonus on Bluff, Sense Motive, and Sleight of Hand checks. This racial trait replaces tinker.
+

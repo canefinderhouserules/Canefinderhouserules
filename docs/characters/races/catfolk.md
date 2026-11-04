@@ -145,3 +145,10 @@ Catfolk have access to the following equipment.
 - [Bit of Luck](../../magic/spells/bit-of-luck.md)
 - [Curse of Befouled Fortune](../../magic/spells/curse-of-befouled-fortune.md)
 - [Pouncing Fury](../../magic/spells/pouncing-fury.md)
+
+## More Alternate Racial Traits
+
+### Jungle Stalker
+
+Catfolk often live in deeply forested terrain, such as the eastern jungle, and they have become naturally sure-footed to maintain their hunting prowess in these dangerous environments. Such catfolk gain a +2 racial bonus on Acrobatics checks and can ignore the first square of difficult terrain caused by foliage each round. This racial trait replaces cat’s luck and sprinter.
+

@@ -60,3 +60,16 @@ Duergar have access to the following equipment.
 
 - [Giant Steps](../../rules/feats/giant-steps.md)
 - [Lingering Invisibility](../../rules/feats/lingering-invisibility.md)
+
+## More Alternate Racial Traits
+
+### Magical Taskmaster
+
+Some duergar demonstrate magic of a more insidious kind than the rest of their kin, a difference that is often taken to be a sign of the dark god of toil’s blessing. They can use charm person once per day as a spell-like ability. The save DC is equal to 10 + 1/2 duergar’s Hit Dice + duergar’s Wisdom modifier. This racial trait replaces the invisibility spell-like ability racial trait.
+
+
+## More Favored Class Options
+
+- **Kineticist**: Add 1/5 of an Extra Wild Talent feat that must be spent on an earth element wild talent.
+- **Psychic**: The psychic treats her Wisdom bonus as 1/3 point higher for the purpose of determining the number of uses or rounds per day of her discipline powers.
+

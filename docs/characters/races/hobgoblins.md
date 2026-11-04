@@ -111,3 +111,10 @@ Fetters can also be fitted with barbs, but the wearer can avoid damage by not ta
 ## Spells
 
 - [Agonizing Rebuke](../../magic/spells/agonizing-rebuke.md)
+
+## More Alternate Racial Traits
+
+### Authoritative
+
+Hobgoblins raised in the unusually open and stable nation of an orderly hobgoblin nation or among the slave-drivers of the infernal vassal’s forests often develop a knack for controlling others. They gain a +2 racial bonus on Diplomacy and Intimidate checks. Both skills are always class skills for them. This racial trait replaces sneaky.
+

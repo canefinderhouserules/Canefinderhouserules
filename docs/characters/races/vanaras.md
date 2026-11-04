@@ -99,3 +99,10 @@ Vanaras are known to use equipment crafted from the following material.
 ## Spells
 
 - [Prehensile Pilfer](../../magic/spells/prehensile-pilfer.md)
+
+## More Alternate Racial Traits
+
+### Risky Troublemaker
+
+Vanara families who seek to emulate the Monkey King teach their members that unexpected opportunities are worth taking great risks. These vanaras can choose to roll twice on Use Magic Device checks. If they do, they take the higher result unless either die roll is a natural 1, in which case the check automatically fails. This racial trait replaces prehensile tail.
+

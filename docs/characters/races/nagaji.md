@@ -77,3 +77,10 @@ These archetypes are typically only taken by nagaji, but members of other races,
 - [Naga Shape I](../../magic/spells/naga-shape-i.md)
 - [Naga Shape II](../../magic/spells/naga-shape-ii.md)
 - [Naga Shape III](../../magic/spells/naga-shape-iii.md)
+
+## More Alternate Racial Traits
+
+### Serpent Affinity
+
+Nagaji clerics with this racial trait and the Scalykind domain use their domain powers and spells at +1 caster level. This increase is a racial bonus. This racial trait replaces resistant.
+

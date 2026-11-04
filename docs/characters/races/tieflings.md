@@ -113,3 +113,142 @@ Tieflings have access to the following equipment.
 
 - [Damnation Stride](../../magic/spells/damnation-stride.md)
 - [Hellmouth Lash](../../magic/spells/hellmouth-lash.md)
+
+## More Alternate Racial Traits
+
+### Asura-Spawn (Faultspawn)
+
+Lacking any sense of empathy or pity, faultspawn often abhor all ways of life but their own. They inflict severe emotional and physical pain on others, and never stop picking at the resulting psychological scars.
+
+**Ancestry **Asura
+
+**Typical Alignment **LE
+
+**Ability Modifiers **+2 Dex, +2 Wis, –2 Int
+
+**Alternate Skill Modifiers **Appraise, Knowledge (local)
+
+**Alternate Spell-Like Ability **Faultspawn gain *hideous laughter *as a spell-like ability.
+
+### Bullying
+
+Tieflings are often disparaged and kept low in the social order, where they commonly resort to robbing those weaker than themselves. Tieflings with this racial trait gain a +1 racial bonus on combat maneuver checks to disarm or steal. This racial trait replaces skilled.
+
+### Daemon-Spawn (Grimspawn)
+
+Dreary and pessimistic, grimspawn are so enthralled by death, disease, and dilapidation that they often dedicate themselves to ending lives from behind the scenes as macabre saboteurs.
+
+**Ancestry **Daemon
+
+**Typical Alignment **NE
+
+**Ability Modifiers **+2 Dex, +2 Int, –2 Wis
+
+**Alternate Skill Modifiers **Disable Device, Sleight of Hand
+
+**Alternate Spell-Like Ability **Grimspawn gain *death knell *as a spell-like ability.
+
+### Demodand-Spawn (Foulspawn)
+
+Crude and boorish, foulspawn take a particular delight in giving offense and scandalizing polite society. They enjoy violating taboos even more than breaking laws, especially if it means degrading or repulsing an innocent.
+
+**Ancestry **Demodand
+
+**Typical Alignment **CE
+
+**Ability Modifiers **+2 Con, +2 Wis, –2 Int
+
+**Alternate Skill **Modifiers Intimidate, Knowledge (religion)
+
+**Alternate Spell-Like Ability **Foulspawn gain *bear’s endurance *as a spell-like ability.
+
+### Demon-Spawn (Pitborn)
+
+Pitborn delight in destruction, especially while unleashing their havoc on what others consider valuable or precious. Perhaps because of this volatility, others tend to simply defer to pitborn, an act that often grants them the dominance they crave.
+
+**Ancestry **Demon
+
+**Typical Alignment **CE
+
+**Ability Modifiers **+2 Str, +2 Cha, –2 Int
+
+**Alternate Skill Modifiers **Disable Device, Perception
+
+**Alternate Spell-Like Ability **Pitborn gain *shatter *as a spell-like ability.
+
+### Devil-Spawn (Hellspawn)
+
+While often rigid, stubborn, and highly focused on sticking to plans and schedules, hellspawn also have a rare talent for penetrating others’ facades. They know a lie when they hear one, and can often determine what hidden vice or secret shame motivates another.
+
+**Ancestry **Devil **Typical Alignment **LE
+
+**Ability Modifiers **+2 Con, +2 Wis, –2 Cha
+
+**Alternate Skill Modifiers **Diplomacy, Sense Motive
+
+**Alternate Spell-Like Ability** Hellspawn gain *pyrotechnics *as a spell-like ability.
+
+### Div-Spawn (Spitespawn)
+
+An innate sense of jealousy and pure malice drives spitespawn to spread misery and despair. Unable to experience joy themselves, they devote their lives to promoting gloom, all the while hiding the hatefulness that lurks at their core.
+
+**Ancestry **Div
+
+**Typical Alignment** NE
+
+**Ability Modifiers** +2 Dex, +2 Cha, –2 Int
+
+**Alternate Skill Modifiers** Diplomacy, Linguistics
+
+**Alternate Spell-Like Ability** Spitespawn gain *misdirection *as a spell-like ability.
+
+### Kyton-Spawn (Shackleborn)
+
+Shackleborn are fascinated by mutilation and torture. Though they prefer to practice their cruel art on others, they accept that sometimes the wheel must turn and greet their own moments of anguish and confinement with an odd serenity.
+
+**Ancestry **Kyton
+
+**Typical Alignment **LE
+
+**Ability Modifiers** +2 Con, +2 Cha, –2 Wis
+
+**Alternate Skill Modifiers** Escape Artist, Intimidate
+
+**Alternate Spell-Like Ability** Shackleborn gain *web *as a spell-like ability.
+
+### Light from the Darkness
+
+Tieflings who deny the evil of their heritage to go on to become heroes refuse to use the dark magic of their blood, but their struggle grants them uncanny resilience against evil’s touch. As long as they retain a good alignment, they gain the aasimar’s incorruptible alternate racial trait. This racial trait replaces the spell-like ability racial trait.
+
+### Oni-Spawn (Hungerseed)
+
+Endowed with brawny muscles and thick bones, hungerseed always seem poised to explode into some larger, more powerful form, and have a voracious appetite for sensory pleasures and carnal delights.
+
+**Ancestry **Oni
+
+**Typical Alignment **LE
+
+**Ability Modifiers **+2 Str, +2 Wis, –2 Cha
+
+**Alternate Skill Modifiers **Disguise, Intimidate
+
+**Alternate Spell-Like Ability** Hungerseed gain *alter self *as a spell-like ability.
+
+### Pass for Human
+
+Discrimination against tieflings with horrifically fiendish features is so intense that even tieflings look up to those precious few of their kind who can pass as human. These tieflings have otherworldly features that are so subtle, they aren’t often noticed unless the tiefling points them out (for example, eyes that flash red in the throes of passion, or fingernails that are naturally hard and pointed). Such a tiefling doesn’t need to succeed at a Disguise check to appear to be human and count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells like *charm person* or *enlarge person*). The tiefling does not automatically gain his associated outsider language (but may select it as a bonus language if his Intelligence score is high enough), and he may not select other racial traits that would grant him obviously fiendish features (such as the fiendish sprinter, maw or claw, prehensile tail, scaled skin, or vestigial wings alternate racial traits listed in the *Advanced Race Guide*). This ability alters the tiefling’s type, subtype, and languages.
+
+### Qlippoth-Spawn (the Motherless)
+
+No woman survives the birth of a babe whose qlippoth ancestry has emerged. At best, qlippoth-spawn rip their mothers apart during labor. At worst, they tear themselves out even earlier.
+
+**Ancestry **Qlippoth
+
+**Typical Alignment** CE
+
+**Ability Modifiers** +2 Str, +2 Wis, –2 Int
+
+**Alternate Skill Modifiers** Escape Artist, Survival
+
+**Alternate Spell-Like Ability** The motherless gain *blur *as a spell-like ability.
+

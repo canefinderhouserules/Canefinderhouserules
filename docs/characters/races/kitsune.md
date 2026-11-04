@@ -99,3 +99,15 @@ These archetypes are typically only taken by kitsune, but members of other races
 
 - [Contagious Suggestion](../../magic/spells/contagious-suggestion.md)
 - [Gullibility](../../magic/spells/gullibility.md)
+
+## More Alternate Racial Traits
+
+### Duplicitous
+
+Many kitsune prefer to avoid the attention they often attract from human neighbors and attempt to convince all around them that they are human. They gain a +2 racial bonus on Bluff and Disguise checks. This racial trait replaces kitsune magic.
+
+
+## More Favored Class Options
+
+- **Vigilante**: Add 1/2 to the Disguise bonus provided by seamless guise.
+

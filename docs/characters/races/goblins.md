@@ -122,3 +122,10 @@ The following items are just some of the pieces of equipment used by goblins.
 - [Fire Trail](../../magic/spells/fire-trail.md)
 - [Mudball](../../magic/spells/mudball.md)
 - [Vomit Twin](../../magic/spells/vomit-twin.md)
+
+## More Alternate Racial Traits
+
+### Junk Tinker
+
+Goblins use ramshackle equipment and vehicles that seem like they should never function. Goblins gain a +2 racial bonus on driving checks and on Craft checks to build or repair weapons or vehicles without the proper tools. They can make the attempt with any material that can hold the right shape for a few uses, but normally unfit materials produce items with the fragile quality. This racial trait alters skilled, replacing the racial bonus on Stealth checks.
+

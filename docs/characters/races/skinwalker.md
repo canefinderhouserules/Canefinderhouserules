@@ -253,3 +253,120 @@ Skinwalker race traits are listed in [Race Traits](../traits/race-traits.md#skin
 - Spells: [Accursed Glare](../../magic/spells/accursed-glare.md), [Share Skin](../../magic/spells/share-skin.md), [Share Skin, Greater](../../magic/spells/share-skin-greater.md).
 - Magic items: [Blood of the Moon Items](../../magic-items/blood-of-the-moon-items.md); gear: [Lycanthrope Gear](../../equipment/gear-bom.md).
 - Rules for lycanthropy: [Lycanthropy](../../rules/additional-rules/lycanthropy.md).
+
+## More Alternate Racial Traits
+
+### Beast Talker
+
+Some skinwalkers’ ability to communicate with animals is stronger than their ability to transform. Such skinwalkers can only use their change shape ability once per day for 1 minute per level, but they can use their *speak with animals* spell-like ability at will. This racial trait alters the change shape and spell-like ability racial traits.
+
+### Werebat-Kin (Bloodmarked)
+
+These skinwalkers are usually communal and defer readily to their superiors. They prefer dwelling in areas of dense foliage, such as jungles or forests. They often have little trust for those not in their immediate clan.
+
+**Ability Modifiers** +2 Intelligence, –2 Wisdom (+2 Dexterity while shapechanged)
+
+**Alternate Skill Modifiers** Fly, Perception at night
+
+**Alternate Spell-Like Ability** *obscuring mist* 1/day
+
+**Bestial Features** Bite attack that deals 1d6 points of damage+4 racial bonus on Perception checksScent to a range of 30 feetTreat falling damage as if the distance fallen were 20 feet less than it actually is
+
+### Werebear-Kin (Coldborn)
+
+Known and respected as the defenders of the wild in many parts of the Lands of the sea kings, these skinwalkers often prefer to live as recluses.
+
+**Ability Modifiers** +2 Constitution, –2 Charisma (+2 Wisdom while shapechanged)
+
+**Alternate Skill Modifiers** Climb, wild empathy
+
+**Alternate Spell-Like Ability** *calm animals* 1/day
+
+**Bestial Features** Bite attack that deals 1d6 points of damage2 claw attacks that each deal 1d4 points of damageClimb speed of 20 feetScent to a range of 30 feet
+
+### Wereboar-Kin (Ragebred)
+
+These skinwalkers are known for their fiery tempers and stubborn streaks, features that have earned them respect in remote corners of the southern continent, the infernal empire, and the frontier as freedom fighters.
+
+**Ability Modifiers** +2 Strength, –2 Charisma (+2 Constitution while shapechanged)
+
+**Alternate Skill Modifiers** Handle Animal, Perception
+
+**Alternate Spell-Like Ability** *speak with animals* (pigs and boars only) 3/day
+
+**Bestial Features** +10 foot racial bonus to base speedGore attack that deals 1d6 points of damage2 hoof attacks that each deal 1d4 points of damageScent to a range of 30 feet
+
+### Werecrocodile-Kin (Scaleheart)
+
+Found most often in areas such as the pirate isles and the drowned lands, these skinwalkers are often brutish and cruel.
+
+**Ability Modifiers** +2 Constitution, –2 Wisdom (+2 Strength while shapechanged)
+
+**Alternate Skill Modifiers** Stealth, wild empathy
+
+**Alternate Spell-Like Ability** *scare* 1/day
+
+**Bestial Features** Bite attack that deals 1d6 points of damageDarkvision to a range of 60 feetSwim speed of 30 feetFerocity
+
+### Wereraptor-Kin (Aerieborn)
+
+**Ancestry** wereraptor
+
+**Typical Alignment** LN
+
+**Ability Modifiers** +2 Wis, –2 Cha (+2 Dex while shapechanged)
+
+**Alternate Skill Modifiers** Perception, Sense Motive
+
+**Alternate Spell-Like Ability** *feather fall* 1/day
+
+**Bestial Features** Bite attack that deals 1d6 points of damage2 talon attacks that each deal 1d4 points of damage+4 racial bonus on Perception checksIncrease fly speeds from other sources by 10 feet
+
+### Wererat-Kin (Nightskulk)
+
+These creatures, who are among the more common of the skinwalkers, prefer to dwell in urban areas.
+
+**Ability Modifiers** +2 Intelligence, –2 Strength (+2 Dexterity while shapechanged)
+
+**Alternate Skill Modifiers** Handle Animal, Stealth in urban environments
+
+**Alternate Spell-Like Ability** *speak with animals* (rodents only) 3/day
+
+**Bestial Features** Bite attack that deals 1d6 points of damageClimb speed of 30 feetDistraction (except with only one chosen natural attack per round, and sickens instead of nauseates).Scent to a range of 30 feet
+
+### Wereshark-Kin (Seascarred)
+
+These unusual skinwalkers tend to be strong-willed and brisk in their patterns of speech. They often serve aboard pirate ships, where their traits are well appreciated.
+
+**Ability Modifiers** +2 Wisdom, –2 Intelligence (+2 Constitution while shapechanged)
+
+**Alternate Skill Modifiers** Perception, Swim
+
+**Alternate Spell-Like Ability** *charm animal* (aquatic animals only) 3/day
+
+**Bestial Features** Breathe water as well as airBite attack that deals 1d6 points of damageFerocitySwim speed of 30 feet
+
+### Weretiger-Kin (Fanglord)
+
+More common in the distant south than the central sea region, these skinwalkers are notorious for their fickle attitudes.
+
+**Ability Modifiers** +2 Dexterity, –2 Wisdom (+2 Charisma while shapechanged)
+
+**Alternate Skill Modifiers** Acrobatics, Perception
+
+**Alternate Spell-Like Ability** *jump* 1/day
+
+**Bestial Features** Bite attack that deals 1d6 points of damage2 claw attacks that each deal 1d4 points of damage+10-foot racial bonus to base speedSee in darkness
+
+### Werewolf-Kin (Witchwolf)
+
+Perhaps the most prevalent breed of skinwalker, witchwolves prefer dwelling with others of their kind.
+
+**Ability Modifiers** +2 Constitution, –2 Intelligence (+2 Wisdom while shapechanged)
+
+**Alternate Skill Modifiers** Perception, wild empathy
+
+**Alternate Spell-Like Ability** *magic fang* 1/day
+
+**Bestial Features** Bite attack that deals 1d6 points of damage2 claw attacks that each deal 1d4 points of damageDarkvision 60 feet+2 racial bonus on all saving throws
+

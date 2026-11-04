@@ -153,3 +153,10 @@ The following alchemical items either boost the strange physiology of fetchlings
 
 - [Gloomblind Bolts](../../magic/spells/gloomblind-bolts.md)
 - [Shadowy Haven](../../magic/spells/shadowy-haven.md)
+
+## More Alternate Racial Traits
+
+### Shadow Agent
+
+Families of fetchlings in Shadow the great city and the shadow realm make their livings serving as agents, diplomats, and spies mediating between humans and the powers of the Plane of Shadow. They gain a +2 racial bonus on Bluff and Diplomacy checks. This racial trait replaces skilled.
+

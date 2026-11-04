@@ -39,3 +39,8 @@ The following options are available to all boggards that have the listed favored
 ## Magic Items
 
 The boggard hat that drains Strength through a tongue attack and the venomsweat salve are described in [Monster Codex Items](../../magic-items/monster-codex-items.md).
+
+## More Favored Class Options
+
+- **Barbarian**: Add 1 on the barbarian’s Acrobatics checks to jump.
+

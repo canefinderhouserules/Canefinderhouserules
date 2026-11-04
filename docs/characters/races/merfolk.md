@@ -81,3 +81,20 @@ Merfolk have access to the following equipment.
 ## Spells
 
 - [Fins to Feet](../../magic/spells/fins-to-feet.md)
+
+## More Alternate Racial Traits
+
+### Outer-Sea Merfolk
+
+The settlement of the outer sea is a bizarre environment: a saltwater oasis for merfolk and sahuagin in the freshwater River Kingdoms. Centuries ago, a sahuagin nation from the central sea mobilized a city-sized saltwater bolus for an overland assault on a merfolk state located near modern-day the walled city. The merfolk learned of this ambitious plan and sent an elite group of soldiers in saltwater tanks to intercept the ocean-bubble. The two sides clashed in Lake Encarthan and eventually worked their way up into what is now the River Kingdoms. In this battle, many of the wizards maintaining the sahuagin’s briny mobile fortress perished, and the two sides ended up stranded hundreds of miles from any ocean. Begrudgingly putting aside their grievances, the merfolk and sahuagin worked together to prevent their mutual extinction, holding back the fresh water with spells and building the settlement of the outer sea to serve as a permanent home. Now the outer sea is a thriving city, home to all kinds of peoples. Centuries of coexistence have worn down the merfolk and sahuagin’s hatred for each other, and now they live and work together in peace. Outer-Sea merfolk can take the unexpected ally alternate racial trait described below.
+
+### Secret Magic
+
+Merfolk sometimes manifest magical powers they are unwilling to explain to nonmerfolk, leading scholars to speculate that the magic originates from the merfolk’s rumored eldritch patrons. Such merfolk have only a 40-foot swim speed, but they add +1 to the DC of any enchantment spells they cast, and if they have a Charisma score of 13 or higher, they gain the ability to cast the following spell-like abilities: At will—speak with animals (aquatic animals only); 1/day— *fins to feet* (self only), *hydraulic push*. This racial trait replaces the armor racial trait and alters the merfolk’s movement speed.
+
+### Unexpected Ally
+
+Outer-Sea merfolk have grown to live and cooperate with an ancestral enemy. Merfolk with this racial trait gain a +2 bonus on Diplomacy checks to influence a creature’s attitude. In addition, merfolk with this racial trait gain a +1 racial bonus on checks to perform the aid another action.
+
+This replaces low-light vision.
+

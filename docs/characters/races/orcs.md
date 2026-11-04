@@ -107,3 +107,10 @@ Orcs have access to the following equipment.
 - [Sentry Skull](../../magic/spells/sentry-skull.md)
 - [Shield the Banner](../../magic/spells/shield-the-banner.md)
 - [Vigor](../../magic/spells/vigor.md)
+
+## More Alternate Racial Traits
+
+### Reckless Climber
+
+Mountain-dwelling orcs thrive on taking insane risks to defeat foes and show up rivals. They gain a +4 racial bonus on Climb checks without rope and on Acrobatics checks to maintain balance. This racial trait replaces ferocity.
+

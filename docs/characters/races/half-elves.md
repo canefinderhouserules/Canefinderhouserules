@@ -170,3 +170,100 @@ Half-elves have access to the following equipment.
 - [Paragon Surge](../../magic/spells/paragon-surge.md)
 - [Resilient Reservoir](../../magic/spells/resilient-reservoir.md)
 - [Urban Grace](../../magic/spells/urban-grace.md)
+
+## More Alternate Racial Traits
+
+### Aquatic Half-Elves (Shoreborn)
+
+The children of aquatic elves and land-bound humans feel the disparity between their heritages more than any other. These half-elves show their parentage on their faces, with sandy, russet, or green-black skin to match their elven parent. Slightly webbed fingers and toes aid in swimming, but their neck slits almost never function as gills. A few aquatic half-elves can breathe underwater and live with their elven parents, but far more shoreborn live on land, feeling a constant call to the water. Many find work as sailors. Fishing vessels and merchant ships often have shoreborn deckhands and first mates, and a crew made up solely of aquatic half-elves sails an infamous pirate ship known as the Shoreline Scourge.
+
+### Child of the Sea
+
+Shoreborn gain a +4 racial bonus on Swim checks as well as on Profession (sailor) checks and Wisdom checks to pilot a sea vessel. They also have an innate sense of direction and can never get lost at sea.
+
+This replaces low-light vision and keen senses.
+
+### Cold-Honed
+
+Snowborn can move through natural snow and ice at their normal speed and gain a +4 racial bonus on Fortitude saves to avoid nonlethal damage from cold environments.
+
+This replaces elven immunities.
+
+### Drow-Descended
+
+These half-elves clearly bear the features of their dark elf parents, branding them immediately as a potential threat in the eyes of others no matter what their intent or character. These half-elves have the drow-blooded and drow magic alternate racial traits.
+
+### Jungle Half-Elves (Wildborn)
+
+The half-elves of the southern jungle have the dark skin of their jungle parents, but they tend to be closer in stature and build to their human parents, allowing wildborn to pass for human more easily than most of their fellow half-elves. These half-elves are equally at home in the wilds of the jungle or arranging trade deals in the larger southern jungle cities. While some jungle raise their wildborn children, others ritually turn over their half-elven offspring to specific half-elven villages within their southern jungle nation. The adult wildborn of these villages seek out and accept any of these children who might have fallen through the cracks, raising them with respect for both the wilderness and society. Even a few half-elves from other backgrounds travel to the southern jungle to join these villages, finding acceptance they can’t get anywhere else. The members of these villages protect their homes fiercely, and few dare attack them.
+
+### Elf-Raised
+
+These half-elves represent those embraced by their elven relatives, and raised with all of the traditional cultural training and education typical of most full-blooded elves. These half-elves have the ancestral arms and arcane training alternate racial traits.
+
+### Elf-Scorned
+
+Many half-elves, especially half-drow and half-jungle, are rejected by their elven parents and feel nothing but hatred and fear toward their inhuman ancestors. They gain a +1 racial bonus on attack rolls and a +2 dodge bonus to AC against elves. This racial trait replaces elven immunities and multitalented.
+
+### Eye for Opportunity
+
+Constantly facing the rough edges of two societies, some half-elves develop a knack for finding overlooked opportunities. They gain a +1 racial bonus on attacks of opportunity. This racial trait replaces adaptability and keen senses.
+
+### Half-Drow (Darkborn)
+
+Scorned by both drow, who call them thinbloods, and humans, who call them darkborn, half-drow face discrimination and tribulation from an early age. Those half-drow who are not crushed by persecution are forced to age into particularly strong and independent adults. Some give into bitterness from their upbringing, becoming hardened assassins or wanton killers. Others deliberately rebel against their brutal childhoods, becoming righteous warriors against evil. Either way, half-drow fight fiercely to the very last. Darkborn have the gray skin and light-colored hair of the drow but have human-looking eyes, and they have a more difficult time appearing fully elven or human than most half-elves do.
+
+### Human-Raised
+
+These half-elves were born and raised into accepting human communities, often raised by generations of a single family, or through the charity of churches and temples. These half-elves have the integrated and wary racial traits.
+
+### Jungle Affinity
+
+Wildborn gain a +4 racial bonus on Stealth checks while within jungle terrain and can move through natural difficult terrain in a jungle at their normal speed.
+
+This trait replaces multitalented.
+
+### Kindred-Raised
+
+While most think of people with one human and one elven parent when they think of half-elves, some half-elves are raised by two half-elven parents. Such half-elves feel less like outsiders, making them more confident, but less adaptable without the exposure to a human parent. They gain a +2 bonus to Charisma and one other ability score of their choice. This racial trait replaces the half-elf ’s usual racial ability score modifiers, as well as adaptability, elven immunities, keen senses, and multitalented.
+
+### Mordant Envoy
+
+Sea-Spire-born add +1 to the caster level of any transmutation spells they cast. Sea-Spire-born with a Charisma score of 11 or higher also gain the following spell-like abilities: 1/day—*comprehend languages*, *detect secret doors*, *erase*, and *read magic*. The caster level for these effects is equal to the Sea-Spire-born’s character level.
+
+This replaces adaptability.
+
+### Sea-spire Half-Elves (Sea-Spire-born)
+
+the sea-spire elves and humans almost never meet by accident. Their offspring, the Sea-Spire-born, only come about when the sea-spire elves travel to human villages. Sea-Spire-born half-elves are almost always taken back to the sea-spire by their elven parent, and they are usually trained from youth to go on important missions outside of the sea-spire. Sea-Spire-born undergo both physical training and extensive education on the drowned imperial. They tell no one they meet on their travels of their heritage or their top-secret duties.
+
+### Psychic Sensitivity
+
+The underworld is full of strange energies, and the drow or half-drow who live there practice bloody rituals in exchange for favor and power. Drow or half-elves with this trait gain the Psychic Sensitivity feat, gaining access to occult skill unlocks normally only available to psychic spellcasters. This racial trait replaces keen senses for drow and half-elves and drow immunities for drow or elven immunities for half-elves.
+
+### Reflexive Improvisation
+
+Half-elves raised among elves often stumble unprepared into each new stage of life because their elven relatives are unaccustomed to the speed of their maturation. They gain a +2 racial bonus on untrained skill checks. This racial trait replaces adaptability and multitalented.
+
+### Sea Legs
+
+Many half-elves find their way onto the water early in their youth, whether they live with trader families in or near the elven kingdom, work as smugglers around Lake Encarthan or the central sea, or plunder alongside pirates. These half-elves receive a +2 racial bonus on Swim checks, as well as a +4 racial bonus on Acrobatics checks to move on narrow or slippery surfaces, and on Climb checks on docks and ships. This racial trait replaces adaptability.
+
+### Snowcaster Half-Elves (Snowborn)
+
+Found throughout the northern countries, snowborn are typically the children of twilight speakers—religious envoys from the normally distrustful Snowcaster clans, who consider it a sacred duty to befriend humans and other non-elves. Snowcaster clans vary in their acceptance of these children, but the average clan’s seclusion from humanity and inability to understand half-elves almost invariably ends up driving the snowborn away. Twilight speakers, however, tend to enjoy a particularly close relationship with their snowborn children, and the two groups often wander together. Snowborn have their elven parents’ snowy white skin and particularly sharp ears. Some Snowcaster half-elves find welcome homes among the winter-witch and northern communities, as well as the arctic tribal tribes. Others wander, looking for a permanent place to belong.
+
+### Sophisticate
+
+Half-elves who strive to embody the culture in which they live develop a keen instinct for the ebb and flow of fashions, fads, and political trends. They gain a +2 racial bonus on Knowledge (history) and Knowledge (local) checks and can use those skills untrained even for checks with a DC of 10 or more. This racial trait replaces elven immunities.
+
+### Thinblood Resistance
+
+Darkborn are accustomed to torture at the hands of their drow forebears and gain a +2 racial bonus on Fortitude saves against poison and disease, including magical diseases. Darkborn also gain the poison use ability and never risk poisoning themselves when applying poison to a weapon.
+
+This replaces elven immunities.
+
+### Weapon Familiarity
+
+Half-elves raised among elves often feel pitied and mistrusted by their longer-lived kin, and yet they receive training in elf weapons. They gain the elf ’s weapon familiarity trait. This racial trait replaces adaptability.
+

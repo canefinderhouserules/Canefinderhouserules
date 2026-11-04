@@ -31,3 +31,10 @@ Androids are defined by their class levels; they do not have racial Hit Dice. Al
 ## Android Traits
 
 See the Android Traits section of the [race traits](../traits/race-traits.md) page.
+
+## More Alternate Racial Traits
+
+### Repairing Nanites
+
+Some androids cannot prompt their nanites to aid them in any endeavor, but instead find that their nanites stitch their wounds together. The first time each day that such an android has taken an amount of damage greater than or equal to twice her Hit Dice, the nanites automatically activate, without an action. Her circuitry-tattoos glow with light equivalent to that of a torch for 1 round and she heals a number of hit points equal to twice her Hit Dice. This racial trait replaces nanite surge.
+

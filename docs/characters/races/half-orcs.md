@@ -177,3 +177,123 @@ Half-orcs have access to the following equipment.
 - [Half-blood Extraction](../../magic/spells/half-blood-extraction.md)
 - [Linebreaker](../../magic/spells/linebreaker.md)
 - [Savage Maw](../../magic/spells/savage-maw.md)
+
+## More Alternate Racial Traits
+
+### Arena-Bred
+
+Many half-orcs are born and raised to fight in the arena, and in many cases have two half-orc parents or even a half-orc and a human parent. These arena-bred half-orcs lose the brutal physical appearance of their orc ancestors and look more human. They have the city-raised and skilled alternate racial traits.
+
+### Burning Assurance
+
+Sandkin lack the chip on their shoulder that many half-orcs acquire as a result of prejudice, and their self-confidence puts others at ease. Desert half-orcs with this racial trait gain a +2 racial bonus on Diplomacy checks.
+
+This replaces intimidating.
+
+### Cavewight
+
+Some half-orcs live far below the surface, seeking freedom in winding cave complexes. Half-orcs with this racial trait gain a +1 racial bonus on Knowledge (dungeoneering) and Survival checks made underground. This racial trait replaces the intimidating trait.
+
+### Cliffside Charger
+
+Cragkin are accustomed to traveling in the steep terrain of their mountain homes. When in mountain terrain, mountain half-orcs with this racial trait can move through natural difficult terrain at their normal speed; magically altered terrain affects them normally. In addition, cragkin gain a +10-foot racial bonus to their speed while charging.
+
+This replaces orc ferocity and weapon familiarity.
+
+### Underworld Half-Orcs (Gloomkin)
+
+At the end of the Age of Darkness, when light returned to the world, many orcs lost their footholds on the surface world and returned to the underworld, taking their half-orc progeny with them. Of all the half-orcs, gloomkin face the harshest treatment; they are punished and abused from birth for what orcs consider the taint of their bloodline. As the bottom of the social ladder in orc society, gloomkin are assigned the task that very few orcs take on willingly: reading. They are the historians, scribes, and advisors, placing them in a key position to discover secrets and gain influence without drawing attention to themselves.
+
+### Deep Kin
+
+Some half-orcs are descended from clans that remained in the eternal darkness below the surface. Half-orcs from these clans tend to be smaller and more at home underground than those descended from surface-dwelling orcs. These half-orcs have the acute darkvision and cavewight alternate racial traits.
+
+### Desert Half-Orcs (Sandkin)
+
+Desert half-orcs are born primarily in northern the southern continent and the desert kingdom and often hold a level of esteem and self-assurance that is rare for half-orcs. Among desert orc tribes, the ability to tolerate harsh sunlight is a sign of strength, and weathering the sun is a rite of passage. Lacking their ancestors’ light sensitivity, half-orcs excel at these contests of endurance and easily earn high positions within their tribes.
+
+Desert half-orcs also fare better than most among human civilizations. The strong presence of the goddess of the sun and redemption’s followers has led to a culture of forgiveness and understanding that is rare in other parts of the world, making it easier for half-orcs to thrive. Many desert half-orcs believe they are blessed by the goddess of the sun and redemption and become clerics or paladins of her church.
+
+### Divided Attention
+
+Half-orcs must learn to divide their attention among multiple threats to stay alive, since both humans and orcs often attempt to put them in their place. Half-orcs gain a +1 dodge bonus to AC against foes who flank them. This racial trait replaces intimidating and orc ferocity.
+
+### Evader
+
+Having lived all their lives at the mercy of savage underworld creatures, some gloomkin develop an uncanny knack for finding their way around silently in the dark. While underground, underworld half-orcs with this racial trait gain a +5 racial bonus on Survival checks to avoid becoming lost and a +1 racial bonus on Stealth checks.
+
+This replaces intimidating.
+
+### Feral
+
+Half-orc children who are abandoned as infants or small children rarely survive in the wild, but a few manage to scrape out a meager existence as "wild children," tough enough to live but completely uncivilized. Feral half-orcs have the forest walker and toothy alternate racial traits.
+
+### Jungle Half-Orcs (Rainkin)
+
+In the jungles of the southern jungle, the few remaining orc tribes have been largely cut off from others of their kind. Isolated since the orc empires collapsed after the Age of Darkness, only a handful of oral retellings recall the true heritage of these orcs and half-orcs, and their culture diverges greatly from other orc societies. It is said that some early southern jungle tribes participated in arranged marriages with orcs, leading half-orc children to be associated with alliances and prosperity, and true or not, half-orcs have been a major part of these orc tribes for generations. Even in the present day, many orcs are willing to pay a large dowry to bring half-orcs into their villages, and orphaned half-orcs are happily adopted.
+
+Because they usually come from rich families, rainkin halforcs often receive better treatment than their orc or human cousins. This can create a self-fulfilling prophecy; because half-orc children receive the best care, protection, and training, they are usually stronger and more skilled than orcs or humans, increasing the desire to have half-orcs in a tribe. While jungle half-orcs typically have great pride and selfworth, many are also resentful of the high expectations placed on them from birth and angry to be treated like a commodity by so many. As a result, rainkin have trouble forming close bonds with non-half-orcs, so they often create close-knit groups between themselves. Some of these groups even grow large enough to break off and form their own tribes.
+
+### Low-Light Vision
+
+Many feyborn have low-light vision. Races that normally have darkvision (such as dwarves and half-orcs) can take low-light vision in place of darkvision. In the case of humans, this trait replaces the skilled trait (and the human also gains fey magic and fey thoughts, as detailed in Fey Magic, above).
+
+### Mountain Clan
+
+Half-orcs from the more mountainous regions tend to be more agile and alert to the echoing sounds of their homeland. Mountain clan half-orcs have the bestial and rock climber racial traits.
+
+### Mountain Half-Orcs (Cragkin)
+
+Cragkin are widespread across the world, found across all the mountain ranges of western the northern continent. Thanks to their thin frames and quick wits, mountain-born half-orcs excel at climbing and acrobatic stunts. Anything less than a vertical cliff face is traversable, and often even that isn’t enough to stop them. To mountain half-orcs, obstacles are merely a foothold on their path to the top.
+
+Mountain orcs respect bravery, and cragkin have turned fearlessness and reckless abandon into a badge of honor. By using the terrain to their advantage against less surefooted enemies, they can attack from strange angles and gain advantages with just a few quick steps. They often take near-suicidal leaps to strike enemies from above, or trick enemies into falling to their deaths by leading them down impossible paths. Despite their great skill, accidents are common in this treacherous environment, and no one is surprised if one halforc returns after a raid and his companions do not.
+
+Many mountain half-orcs find a place among highland tribal and northern settlements, where valor in battle is highly prized. As long as they are willing to respect the traditions of their adopted clans, they usually integrate well into these societies and contribute much to the community.
+
+### Mystic
+
+Orc shamans are brutal teachers who sometimes kill or maim their most promising students in order to eliminate what could be a potential rival. Half-orcs who survive years of abuse by an orc shaman master are deeply scarred and altered by the experience. Shaman trainees learn early that cunning and luck are often the only things that offer a chance of survival. They have the shaman’s apprentice and sacred tattoo alternate racial traits.
+
+### Orc Atavism
+
+Some half-orcs have much stronger orc blood than human blood. Such half-orcs count as only half-orcs and orcs (not also humans) for any effect related to race. They gain a +2 bonus to Strength and a –2 penalty to one mental ability score of their choice. Finally, they gain the ferocity universal monster ability. This racial trait replaces the half-orc’s usual racial ability score modifiers, as well as intimidating, orc blood, and orc ferocity.
+
+### Overlooked Mastermind
+
+Some half-orcs use half-orcs’ brutish stereotypes to their advantage, causing others to underestimate their intelligence and scheming. Such half-orcs gain a +2 racial bonus on Bluff, Diplomacy, and Sense Motive checks. This bonus increases to +4 against other humanoids. They also receive a +2 racial bonus on Bluff checks to feign ignorance and Sense Motive checks to intercept secret messages, and this stacks with the above bonus. This racial trait replaces intimidating, orc ferocity, and weapon familiarity.
+
+### Pariah
+
+While many cultures discriminate against half-orcs, in some, particularly dwarven communities, half-orcs are complete social pariahs. It goes without saying that such a culture does not provide outlets for a half-orc to practice with traditional orc weapons. The few half-orcs who survive to adulthood in such harsh social climates are deeply scarred by their abusive treatment and find it hard to express and understand normal emotions. Such half-orcs gain a +2 racial bonus on saving throws against emotion and fear effects and a –2 penalty on Bluff, Diplomacy, and Sense Motive checks. This racial trait replaces weapon familiarity.
+
+### Sea Raider
+
+In the Lands of the sea kings and the pirate isles, half-orcs frequently take up sailing as pirates, raiders, and fishers, where they are known as tenacious fighters. They gain a +2 racial bonus on Profession (sailor) checks and Craft checks to repair ships, and a +1 racial bonus on damage rolls against foes and objects in or on top of the water. This racial trait replaces darkvision.
+
+### Unflinching Valor
+
+Many fearsome arctic predators consider young frostkin easy prey, but some frostkin manage to overcome their fear and fight off these beasts while they wait for help to arrive. Winter half-orcs with this racial trait gain a +2 racial bonus on saving throws against fear effects, and a +1 racial bonus to CMD to avoid being grappled.
+
+This replaces intimidating.
+
+### War-Leader
+
+Some orcs seek out human mates in hopes of birthing intelligent leaders for their interminable war efforts. When nature and luck smile upon this endeavor and a half-orc child shows cunning, that child is raised with many harrowing opportunities to learn how to best lead on the battlefield. Such half-orcs gain a +2 bonus on Diplomacy and Profession (soldier) checks as well as to their Leadership score (for the purpose of the Leadership feat). Armies they control in mass combat gain a +1 bonus to Morale. (See *Pathfinder RPG Ultimate Campaign*.)This racial trait replaces darkvision and orc ferocity.
+
+### Warded Skin
+
+Many rainkin are protected from the power of the ape demon lord’s worshipers by elaborate tattoos that redirect demonic magic. Jungle half-orcs with this racial trait gain spell resistance against divine magic equal to 6 + their level. Additionally, divine spells cast on them by demon worshipers have a 10% chance of failure.
+
+This replaces orc ferocity.
+
+### Winter Half-Orcs (Frostkin)
+
+At the Crown of the World, nomadic clans of orcs live on the frozen wastes. The winter half-orcs that live among them are treated as the runts of the pack. However, strength in numbers is vital in the north, as many young do not survive the harsh winters. Even the weakest are provided for as long as they can prove their usefulness. Sewing, cooking, and child-rearing are all valued skills, and winter half-orcs who excel at these are treated better than most. Those who would rather prove their worth through their strength do so by hunting, as ritual combat is a frowned upon waste of energy and resources.
+
+While half-orcs are not well liked in the Linnorm Kingdoms, they may be able to find homes in the Ironbound Isles. Merchants traveling between the far east and the northern continent are often willing to hire on a half-orc as a guide and bodyguard across the Crown of the World. Winter half-orcs who migrate south into the winter realm can find an easier life in the growing half-orc communities, but they are unlikely to find any upward mobility unless they show skill at witchcraft.
+
+
+## More Favored Class Options
+
+- **Kineticist**: Gain a +1/3 bonus on fire element blast damage rolls that both deal fire damage and apply the kineticist’s elemental overflow bonus.
+

@@ -191,3 +191,95 @@ Dwarves have access to the following equipment.
 - [Groundswell](../../magic/spells/groundswell.md)
 - [Ironbeard](../../magic/spells/ironbeard.md)
 - [Toilsome Chant](../../magic/spells/toilsome-chant.md)
+
+## More Alternate Racial Traits
+
+### Craftsman
+
+Dwarves are known for their superior craftsmanship when it comes to metallurgy and stonework. Dwarves with this racial trait receive a +2 racial bonus on all Craft or Profession checks related to metal or stone. This racial trait replaces greed.
+
+### Deep Delver
+
+Dwarves living far below the earth have the minesight and deep warrior racial traits. Deep delver spellcasters may exchange stonecunning for the stonesinger trait.
+
+### Deep Warrior
+
+Dwarves with this racial trait grew up facing the abominations that live deep beneath the surface. They receive a +2 dodge bonus to AC against monsters of the aberration type and a +2 racial bonus on combat maneuver checks made to grapple such creatures (or to continue a grapple). This racial trait replaces defensive training.
+
+### Desert Dwarves
+
+In southern peaks of the Shattered Range, near the necromancer’s realm and the Screaming Jungle, clans of nomadic dwarves live and travel through ancient tunnels by day, moving to the surface only at night. Though there are no known dwarven cities in this region, the southern dwarves claim the extensive tunnels and caverns they move through are the remains of a once=powerful dwarven kingdom, which was struck down by the gods for some long-forgotten offense. These dwarves travel in caravans of 40 or so family units (though the largest caravans can contain more than 300 families) and engage in sporadic clan-based trade or warfare, but they all respect the neutrality of hidden settlements of dwarves who dwell in underground oases within the mountains. Desert dwarves often have the craftsman, mountaineer, and rock stepper alternate racial traits. Most also have the desert delver alternate racial trait described below.
+
+### Elder Dwarf
+
+Traditionalist dwarves of ancient lineage have the ancient enmity, lorekeeper, and either the magic resistant or stubborn racial traits.
+
+### Exiled Dwarf
+
+Dwarves who have lost their homelands usually have the relentless and stubborn racial traits, and often have wyrmscourged as well.
+
+### Lasting Grudge
+
+Dwarves are notorious for their long-lasting grudges. Those who live up to this racial reputation gain a +1 racial bonus on attack rolls against any individual creature that has attacked them 1 day ago or longer. This racial trait replaces defensive training and hatred.
+
+### Low-Light Vision
+
+Many feyborn have low-light vision. Races that normally have darkvision (such as dwarves and half-orcs) can take low-light vision in place of darkvision. In the case of humans, this trait replaces the skilled trait (and the human also gains fey magic and fey thoughts, as detailed in Fey Magic, above).
+
+### Mountain Dwarf
+
+Dwarves living atop high peaks have the mountaineer racial trait and often surface survivalist as well. Mountain dwarves are also trained to defend their homes, and may take the sky sentinel and xenophobic traits instead.
+
+### Southern jungle Dwarves
+
+Two tribes of dwarves reside in the southern jungle: the mountain-jungle and the jungle-clan. The mountain-jungle build cities in the mountains of the jungle uplands, while the jungle-clan live in small clans in the eastern jungle. Although there is little contact between the two groups, they share a reverence for and affinity with dragons—most especially cloud dragons— as well as any draconic creature that can be reasoned with, including wyverns. southern jungle dwarves often take the magic resistant or surface survivalist alternate racial traits. Those who form the strongest spiritual bonds to some form of dragon sometimes also have the breath weapon alternate racial trait described below.
+
+### Perfection Caste Dwarves
+
+The perfection caste dwarves are a sect of the desert dwarven dwarves of the desert kingdom who pursue self-perfection in the style of the god of self-perfection. perfection caste dwarves seek to become closer to divinity by overcoming their mortal limitations. They train themselves and others in the monastic city of Tar Kuata, constantly striving to put aside petty material concerns to focus on spiritual growth. The perfection’s focus on the power of will and self-improvement causes many of them to take the relentless and stubborn alternate racial traits. Those who begin the path to inner awareness very early in their lives also sometimes take the iron within alternate racial trait described below.
+
+### Desert dwarven Dwarves
+
+The desert dwarven have been present in the desert kingdom since ancient days and claim to have been sent by the gods to warn the pharaohs of impending crises and disasters. Though most scholars suspect that claim is more legend than history, the ancient pharaohs of the desert kingdom treated the desert dwarven with great reverence. In return, the desert dwarves guard a necropolis in the southern mountains of the desert kingdom, where the desert dwarven interred the bodies of pharaohs deemed particularly worthy. The desert dwarven are a rigid and often mistrusting people; it is common for its members who avoid contact with outsiders to have the xenophobic alternate racial trait. Many desert dwarven have the lorekeeper, mountaineer, rock stepper, and surface survivalist alternate racial traits. Those who come from long lines of keepers who dedicate themselves to the guarding of tombs also often have the death’s end alternate racial trait described below.
+
+### Jungle Dwarves
+
+The jungle are a small but important part of the society of the eastern capital, where they operate numerous forges and weapon shops within the city. Not quite a clan, the jungle are a set of related, family-run businesses respected for their great craftsmanship and work ethic. While most jungle are not citizens of the desert satrapy, they are treated as a valued subclass of residents, with enough powerful patrons among the upper ranks of satrapy society to afford them protection that in some cases is greater than citizenship. The jungle have operated as an autonomous community for centuries, avoiding local politics and worshiping a combination of traditional dwarven gods and an aspect of the goddess of the sun and redemption who is aligned with the fire of the forge. Nearly all jungle have the craftsman alternate racial trait, but in the case of the jungle, it replaces hardy rather than greed. Those jungle who are involved in trade by river and sea, common in the eastern capital, also generally have the saltbeard alternate racial trait. Most jungle from older families tend to have the iron citizen alternate racial trait described below.
+
+### Siege Survivor
+
+Dwarves who make their homes in the Sky Citadels are trained to outlast sieges and serve as vigilant guards. They gain Endurance as a bonus feat. In addition, during rounds in which they have not moved, they gain a +1 racial bonus on attack rolls against foes who also did not move since their last turn. This racial trait replaces greed, hardy, and hatred.
+
+### Sky Citadel Dwarves
+
+When the dwarves successfully completed the Quest for Sky, they set about constructing 10 Sky Citadels, massive fortresses that formed the basis for dwarven kingdoms in the central sea region. While several of those Sky Citadels have been lost or overrun, a few—such as a few great holds—remain bastions of dwarven tradition and authority. Because these Sky Citadels often have connections to the underworld, it is common for the dwarves dwelling in their lower reaches to have the ancient enmity or deep warrior alternate racial traits, while those in lands populated by ogres and hill giants often have the giant hunter alternate racial trait, and those in wealthy areas that attract the attention of dragons sometimes have the sky sentinel or wyrmscourged alternate racial traits. Because of the eon-long histories of the Sky Citadels, their citizens also often have the deep tradition alternate racial trait described below.
+
+### Slag Child
+
+Dwarves from dishonored families must append “-slag,” “-slagsun,” or “-slagdam” to their surnames to indicate their shameful status. These dwarves are commonly banished or ostracized; they are forced to eke out a living at the fringes of dwarven settlements or in bleak wilderness areas such as the northern mountains. They gain a +2 racial bonus on Stealth and Survival checks. This racial trait replaces defensive training and hatred.
+
+### Spell Smasher
+
+Dwarven families who are threatened by hostile magic-users, especially those who face duergar foes, train intently to thwart spellcasting. They gain a +1 racial bonus on attack rolls against creatures in the process of casting spells or spell-like abilities. This racial trait replaces defensive training and hatred.
+
+### Spiritual Support
+
+Dwarves greatly value loyalty in faith, and their gods readily reward them for it. They gain a +1 racial bonus to their caster levels when casting conjuration (healing) spells upon allies. This racial trait replaces greed and hardy.
+
+### Stoic Negotiator
+
+Some dwarves, especially those who hail from the town of a merchant town in the merchant theocracy, use their unwavering stubbornness to get what they want in negotiations and other business matters. They gain a +2 racial bonus on Bluff, Diplomacy, and Profession (merchant) checks. This racial trait replaces defensive training, hatred, and stonecunning.
+
+### Stonesinger
+
+Some dwarves’ affinity for the earth grants them greater powers. Dwarves with this racial trait are treated as one level higher when casting spells with the earth descriptor or using granted powers of the Earth domain, the bloodline powers of the deep earth bloodline or earth elemental bloodline, and revelations of the oracle’s stone mystery. This ability does not give them early access to level-based powers; it only affects the powers they could use without this ability. This racial trait replaces stonecunning.
+
+### Unstoppable
+
+Some dwarves train from a young age to outlast orcs on the battlefield. They gain Toughness as a bonus feat and a +1 racial bonus on Fortitude saves. This racial trait replaces hardy.
+
+
+## More Favored Class Options
+
+- **Kineticist**: Gain a +1/3 bonus on earth element blast damage rolls that apply the kineticist’s elemental overflow bonus.
+

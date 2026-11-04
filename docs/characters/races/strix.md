@@ -72,3 +72,16 @@ Strix have access to the following equipment.
 ## Spells
 
 - [Strong Wings](../../magic/spells/strong-wings.md)
+
+## More Alternate Racial Traits
+
+### Cautious Brawler
+
+Because strix are careful to avoid injuring other strix even when they fight with each other, they develop a talent for fighting without causing lasting harm. They gain a +1 racial bonus on damage rolls when dealing nonlethal damage and take no attack penalty when dealing nonlethal damage with a lethal weapon. This racial trait replaces hatred and suspicious.
+
+
+## More Favored Class Options
+
+- **Brawler**: The Kintargo Contract pg. 73*): Add 1/4 to the brawler’s effective class level to determine her unarmed strike damage.
+- **Druid**: The Kintargo Contract pg. 73*): Add a +1/2 bonus to Knowledge (nature) checks related to weather and flying animals.
+

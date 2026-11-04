@@ -93,3 +93,10 @@ Gripplis have access to the following equipment.
 
 - [Batrachian Surge](../../magic/spells/batrachian-surge.md)
 - [Sweat Poison](../../magic/spells/sweat-poison.md)
+
+## More Alternate Racial Traits
+
+### Defensive Training
+
+Gripplis of the world, common in the eastern jungle, often live in close proximity to very large animals and dangerous creatures they must learn to avoid in order to survive. They gain a +2 dodge bonus to AC against Large or larger animals and magical beasts. This racial trait replaces swamp stride and weapon familiarity.
+

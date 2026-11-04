@@ -116,3 +116,19 @@ Undines have access to the following equipment.
 - [Nereid’s Grace](../../magic/spells/nereid-s-grace.md)
 - [Nixie’s Lure](../../magic/spells/nixie-s-lure.md)
 - [Undine’s Curse](../../magic/spells/undine-s-curse.md)
+
+## More Alternate Racial Traits
+
+### Mostly Human
+
+A few ifrits, oreads, sulis, sylphs, and undines have appearances much closer to those of their human ancestors; in fact, they may not even realize their true race. Such geniekin appear to be human, save perhaps minor features like unusual eye color, and they count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells such as *charm person* or *enlarge person*). These geniekin do not automatically gain their associated elemental language (but may select it as a bonus language if their Intelligence is high enough). This ability alters the geniekin’s type, subtype, and languages.
+
+### Triton Magic
+
+Some undines—often from the outer sea—descend from tritons, rather than genies. Undines with this racial trait can use *summon nature’s ally I* as a spell-like ability, but only to summon a dolphin. This racial trait replaces the spell-like ability racial trait.
+
+
+## More Favored Class Options
+
+- **Summoner**: If the summoner’s eidolon has an aquatic base form , add +5 feet to the range of the summoner’s life link ability.
+

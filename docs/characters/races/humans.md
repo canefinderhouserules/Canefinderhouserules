@@ -203,3 +203,63 @@ Humans have access to the following equipment.
 - [Bestow Insight](../../magic/spells/bestow-insight.md)
 - [Black Mark](../../magic/spells/black-mark.md)
 - [Old Salt’s Curse](../../magic/spells/old-salt-s-curse.md)
+
+## More Alternate Racial Traits
+
+### Awareness
+
+Humans raised within monastic traditions or communities that encourage mindfulness seem to shrug off many dangers more easily than other humans. They gain a +1 racial bonus on all saving throws and concentration checks. This racial trait replaces humans’ bonus feat.
+
+### Comprehensive Education
+
+Humans raised with skilled teachers draw upon vast swathes of knowledge gained over centuries of civilization. They gain all Knowledge skills as class skills, and they gain a +1 racial bonus on skill checks for each Knowledge skill that they gain as a class skill from their class levels. This racial trait replaces skilled.
+
+### Industrious
+
+Humans are known in the central sea for their drive and work ethic. Humans with this racial trait gain a +2 racial bonus on concentration checks and checks with their choice of one Craft or Profession skill. This racial trait replaces skilled.
+
+### Innovative
+
+Humans have come to shape the face of the world because they are inveterate innovators. Humans with this racial trait gain a +2 racial bonus on Knowledge (arcana) and Spellcraft checks to independently research spells, create magic items they have never encountered before, and identify unique magical effects. They also gain a +2 racial bonus on Charisma-based skill checks to persuade others to adopt a new ideology or further the cause of discovery and progress. This racial trait replaces skilled.
+
+### Institutional Memory
+
+Humans rely on their institutions to remember the distant past and to preserve their own memories for the distant future. They gain a +4 racial bonus on Knowledge checks to answer questions about any organizations, guilds, or religions to which they belong, and they can attempt such skill checks untrained. This racial trait replaces skilled.
+
+### Low-Light Vision
+
+Many feyborn have low-light vision. Races that normally have darkvision (such as dwarves and half-orcs) can take low-light vision in place of darkvision. In the case of humans, this trait replaces the skilled trait (and the human also gains fey magic and fey thoughts, as detailed in Fey Magic, above).
+
+### Military Tradition
+
+Several human cultures raise all children (or all children of a certain social class) to serve in the military or defend themselves with force of arms. They gain proficiency with up to two martial or exotic weapons appropriate to their culture. This racial trait replaces the bonus feat trait.
+
+### Practiced Hunter
+
+Members of some human cultures train from youth to find and follow the trails of vital game and at the same time hide the evidence of their own passage. These humans gain a +2 racial bonus on Stealth and Survival checks, and Stealth and Survival are always class skills for them. This racial trait replaces skilled.
+
+### Self-Made Fate
+
+Some humans build nations that deny the importance of gods and divine magic, and those raised to avoid divine influence (mostly people of distant lands, the merchant theocracy, the godless kingdom, or distant lands) develop a knack for defying divine magic. They gain a +2 racial bonus on saving throws against divine spells and spelllike abilities, as well as the spells and spell-like abilities of aeons, psychopomps, and outsiders with an alignment subtype. This racial trait replaces the bonus feat trait.
+
+### Social Ties
+
+Some human societies run on complex webs of favors and loyalties that canny members can intuitively exploit with relative ease. These humans gain a +2 racial bonus on Diplomacy checks, and on any skill checks to recruit members and teams for an organization. They also add a +1 racial bonus to their Leadership scores (if they gain the Leadership feat). This racial trait replaces skilled.
+
+### Tribalistic
+
+Many humans naturally form into cliques or tribes, and these humans work exceptionally well with those they view as fellow tribe members. Such humans gain a +2 racial bonus on attack rolls and skill checks to use the aid another action to aid humans of the same ethnicity. Humans with this racial trait must hail from an ethnicity that has its own language other than Common, and they only start with that language; if they have high Intelligence scores, they can select their bonus languages from among Common, Giant, Goblin, and Halfling. This racial trait alters starting and bonus languages.
+
+### Unstoppable Magic
+
+Humans from civilizations built upon advanced magic, such as the necromancer’s realm or the archmage’s realm, are educated in a variety of ways to accomplish their magical goals. They gain a +2 racial bonus on caster level checks against spell resistance. This racial trait replaces the bonus feat trait.
+
+### Wayfarer
+
+Humans maintain the largest trade networks on the world and the farthest-reaching civilizations, putting them in contact with a huge number of cultures. Humans with this racial trait gain a +2 racial bonus on Survival checks to avoid becoming lost, Knowledge (geography) checks, and Knowledge (local) checks. Whenever these humans gain a rank in Linguistics, they learn two languages rather than one. This racial trait replaces skilled.
+
+
+## More Favored Class Options
+
+- **Rogue**: The rogue gains +1/6 of a new rogue talent.
+

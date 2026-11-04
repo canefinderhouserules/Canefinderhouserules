@@ -209,3 +209,89 @@ Each keepsake earned at the end of a halfling's coming-of-age task is unique and
 **Vital Cup**: This battered clay cup often commemorates tasks involving making the community a safer and more wholesome place. A halfling who uses this cup while casting *bless water* can pour the resulting water on one weapon or piece of ammunition to imbue it with the power of the holy water. The first creature the halfling strikes with this weapon during the next 24 hours takes additional damage as if it had been struck by a flask of holy water (assuming the creature is harmed by holy water).
 
 **Whirling Earring**: Usually fashioned from a broken shield or armor, this bent earring often commemorates tasks involving daring risks which paid off not so much through skill or cunning but rather by sheer luck. A halfling who uses the earring to cast *entropic shield* can, as an immediate action, end the spell to make a ranged attack against her automatically miss. She must make this decision before the attacker actually makes the attack roll.
+
+## More Alternate Racial Traits
+
+### Avenging
+
+Unlike most halflings, members of this subtype actively look for trouble in their quest to avenge slights and wrongdoings. Whether resisting a local bully, monster, or troops of an oppressive ruler, halfling warriors of this secret subculture don masks and strike back on behalf of their community. These halflings have the low blow, underfoot, and warslinger alternate racial traits.
+
+### Caretaker
+
+Humans often entrust halfling families with the care of children and animals, a task that has helped them develop keen insight. Such halflings gain a +2 racial bonus on Sense Motive checks. In addition, when they acquire an animal companion, bonded mount, cohort, or familiar, that creature gains a +2 bonus to one ability score of the character’s choice. This racial trait replaces halfling luck, sure-footed, and weapon familiarity.
+
+### Danger Detection
+
+river halflings have learned to hone in on any indication of danger. Halflings with this racial trait gain a +4 racial bonus on Perception checks to notice a creature using Stealth, as well as Perception checks to notice a weapon being drawn or a hidden trap (or similar signs of danger, subject to the GM’s discretion).
+
+This replaces keen senses.
+
+### Driven Worker
+
+Many halfling families have developed techniques to accomplish work faster and more efficiently, whether to contribute to the community or to please overbearing masters. These halflings gain a +4 racial bonus on checks with one Craft, Perform, or Profession skill. This racial trait replaces sure-footed.
+
+### Evasive Nomad
+
+river halflings rarely grow up in one place, as they are quick to move to a new home whenever they are discovered. Halflings with this racial trait gain a +2 racial bonus on Reflex saves, but they take a –2 penalty on saving throws against fear effects.
+
+This replaces fearless.
+
+### Festive
+
+Halflings who hail from the far-southern city partake in the far-southern city’ many festivals to foster a strong sense of community and bring fortune to their peers. Once per day, a halfling with this racial trait can grant an ally within 60 feet a +2 luck bonus on one skill check as a free action; this bonus can be applied after the ally’s check result is determined.
+
+This replaces sure-footed.
+
+### Human Shadow
+
+Halflings seem to pop up wherever humans are found, in part because they actively support and move with human explorers, settlers, and travelers without drawing attention to themselves. These halflings can use Stealth to hide behind creatures at least one size category larger than themselves, without any other source of concealment or cover. As long as the halflings are within 30 feet of a human, they gain a +2 racial bonus on Sleight of Hand checks and Stealth checks. This racial trait replaces keen senses and sure-footed.
+
+### Nomadic
+
+These halflings were born on the road and most follow it until the end of their days. They travel fast and light and never miss a chance for either profit or adventure. These halflings have the fleet-footed, polyglot, and wanderlust alternate racial traits.
+
+### Practicality
+
+Halflings value hard work and common sense. Halflings with this racial trait gain a +2 bonus on any one Craft or Profession skill, as well as on Sense Motive checks and saves against illusions. This racial trait replaces fearless and sure-footed.
+
+### Secretive Survivor
+
+Halflings from poor and desperate communities, most often in big cities, must take what they need without getting caught in order to survive. They gain a +2 racial bonus on Bluff and Stealth checks. This racial trait replaces sure-footed.
+
+### Far-southern Halflings
+
+Hailing from the bureaucratic far-southern city of the far-southern city, far-southern halflings relish the comforts their prosperous city provides. The halflings of the far-southern city nonetheless remain suspicious of infernal imperial settlers in the far-southern protectorates of a far-southern port and a far-southern port, given the infernal empire’s history of enslaving halflings. far-southern halflings are well suited to take the attentive alternate racial trait, as well as the festive and small quarter ally alternate racial traits described below.
+
+### Skulker
+
+Oppressed halflings train from a young age to take advantage of times when their oppressors ignore them. Such halflings gain a +1 racial bonus on attacks against foes who are denied their Dexterity bonus to AC. This racial trait replaces fearless and weapon familiarity.
+
+### Slave Born
+
+These halflings come from lineages that have spent countless generations as property. Though usually free themselves, the weight of slavery still bears down on their souls, making them eager to please and prone to sudden fits of fear. These halflings have the craven and ingratiating alternate racial traits.
+
+### Small Quarter Ally
+
+far-southern halflings most often live in the Small Quarter alongside other people of similar stature, such as gnomes. A halfling with this racial trait grants herself and all allies of the same size category within 60 feet a +1 luck bonus on saving throws against fear effects.
+
+This replaces fearless.
+
+### River Halflings
+
+Deep in the jungles outside the former infernal imperial colony of the jungle colony in the southern jungle, the mysterious river halflings avoid almost all non-southern jungle. These halflings live in temporary villages, abandoning sites when they are discovered and resettling in ever more isolated areas of the jungle. Many believe this intense aversion to outside interaction is due to early infernal imperial slavers settling the region and the jungle colony’s oppression of the native southern jungle. river halflings are well represented by the deep jungle alternate racial trait, as well as the danger detection and evasive nomad alternate racial traits described below.
+
+### Unfettered
+
+Former slips liberated from slavery train to ensure they will never be slaves again. They gain a +4 racial bonus on Escape Artist checks and a +2 racial bonus on saving throws against effects that cause the entangled condition, to CMD against grapples, and on combat maneuver checks to escape a grapple. This racial trait replaces halfling luck and keen senses.
+
+### Unlucky Halfling
+
+These halflings take a –1 penalty on saving throws but also gain a +1 racial bonus to the caster level and save DC of all curse spells and spell-like abilities. In addition, such halflings can use *ill omen* as a spell-like ability once per day. This racial trait replaces halfling luck.
+
+
+## More Favored Class Options
+
+- **Arcanist**: Gain 1/6 of a new arcanist exploit.
+- **Fighter**: Add +1 to the fighter’s CMD when resisting a trip or grapple attempt.
+- **Ranger**: Add a +1/4 dodge bonus to Armor Class against the ranger’s favored enemies.
+

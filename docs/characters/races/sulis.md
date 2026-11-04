@@ -65,3 +65,14 @@ Sulis have access to the following equipment.
 ## Spells
 
 - [Imbue with Elemental Might](../../magic/spells/imbue-with-elemental-might.md)
+
+## More Alternate Racial Traits
+
+### Mostly Human
+
+A few ifrits, oreads, sulis, sylphs, and undines have appearances much closer to those of their human ancestors; in fact, they may not even realize their true race. Such geniekin appear to be human, save perhaps minor features like unusual eye color, and they count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells such as *charm person* or *enlarge person*). These geniekin do not automatically gain their associated elemental language (but may select it as a bonus language if their Intelligence is high enough). This ability alters the geniekin’s type, subtype, and languages.
+
+### Trusted Mediator
+
+Sulis are renowned in the desert city-states and beyond as impartial mediators, and they learn to shroud their minds to prevent magic from tampering with their judgments. They gain a +2 racial bonus on saving throws against mind-affecting effects. This racial trait replaces energy resistance and low-light vision.
+

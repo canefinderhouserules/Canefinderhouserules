@@ -61,3 +61,8 @@ The following options are available to all members of this race who have the lis
 - [Electric Eel Style](../../rules/feats/electric-eel-style.md)
 - [Electric Eel Shock](../../rules/feats/electric-eel-shock.md)
 - [Electric Eel Conduit](../../rules/feats/electric-eel-conduit.md)
+
+## More Favored Class Options
+
+- **Slayer**: Gain 1/6 of a new slayer talent.
+

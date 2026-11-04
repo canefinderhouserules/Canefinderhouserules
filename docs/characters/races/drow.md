@@ -172,3 +172,14 @@ Drow have access to the following equipment.
 - [Ignoble Form](../../magic/spells/ignoble-form.md)
 - [Shadowmind](../../magic/spells/shadowmind.md)
 - [Umbral Strike](../../magic/spells/umbral-strike.md)
+
+## More Alternate Racial Traits
+
+### Defensive Training
+
+Many drow cities are frequently beset by attacks from aberrations, prompting the residents train themselves to defend against them. Drow gain a +4 dodge bonus to AC against aberrations. This racial trait replaces drow immunities, keen senses, and poison use.
+
+### Psychic Sensitivity
+
+The underworld is full of strange energies, and the drow or half-drow who live there practice bloody rituals in exchange for favor and power. Drow or half-elves with this trait gain the Psychic Sensitivity feat, gaining access to occult skill unlocks normally only available to psychic spellcasters. This racial trait replaces keen senses for drow and half-elves and drow immunities for drow or elven immunities for half-elves.
+

@@ -180,3 +180,61 @@ Small characters.
 - [Recharge Innate Magic](../../magic/spells/recharge-innate-magic.md)
 - [Redcap's Touch](../../magic/spells/redcaps-touch.md)
 - [Untold Wonder](../../magic/spells/untold-wonder.md)
+
+## More Alternate Racial Traits
+
+### Architectural Ingenuity
+
+Some gnomes demonstrate incredible talent for building and adjusting structures. These gnomes gain a +2 racial bonus on Knowledge (engineering) checks and on Craft and Perception checks related to structures (including structural traps). This racial trait replaces keen senses and obsessive.
+
+### Bleachlings
+
+While most gnomes who undergo the harrowing process of the Bleaching physically waste away from boredom, some gnomes do survive the process, emerging as humorless, monochrome versions of their former selves. Referred to as “bleachlings,” these gnomes are eerily serene and placid. In addition to the effects of the Bleaching itself, many bleachlings have the academician and eternal hope alternate racial traits, as well as the bleachling magic and nature affinity traits listed below.
+
+### Dirty Trickster
+
+All gnomes love pranks, but some specialize in those improvised during battle. These gnomes gain a +2 racial bonus on dirty trick combat maneuvers. They need not meet the Intelligence requirement to select Combat Expertise, Improved Dirty Trick, and any feat with Improved Dirty Trick as a prerequisite. This racial trait replaces defensive training, hatred, and keen senses.
+
+### Dread Gnomes
+
+Moodier, less forgiving, and often crueler than other gnomes, dread gnomes trace their heritage to the darker, more bloodthirsty lines of fey. Though not all dread gnomes are evil, they all find humor in watching others suffer, and have little use for the bright colors and joyful pursuits of their more cheerful cousins. Dread gnomes have the fell magic and knack for poison alternate racial traits.
+
+### Fey realm Gnomes
+
+The gnomes of the world are immigrants from the fey realm, the primordial realm of the fey. While the world’s gnomes have had generations to adapt to the realities of the Material Plane, many gnomes remain in the fey realm to this day. In addition to the fey realm creature template, most fey realm gnomes have the bond to the land alternate racial trait, as well as the fey fortitude and fey magic traits listed below.
+
+### Gear Gnomes
+
+Sometimes rather than a single gnome becoming obsessed with a project, whole families of gnomes undertake a project so massive it requires generations of artisans to complete. Such projects often involve complex clockwork devices (or entire clockwork buildings), and those born into families dedicated to lifetimes of work on them are known as gear gnomes. Gear gnomes have the academician and master tinker alternate racial traits.
+
+### Intrepid Settler
+
+Some gnomes add to the thrill of living by settling in precarious places such as the flotsam of distant waters or the treehouses of distant forests. These intrepid gnomes gain a +2 racial bonus on saving throws against fear effects and on Acrobatics, Climb, and Swim checks. This racial trait replaces illusion resistance, keen senses, and obsessive.
+
+### Lava Gnomes
+
+Fascinated by the power of magma and living in vast caverns beneath active volcanoes, lava gnomes are considered hot-tempered and dangerously unstable even by other gnomes. Lava gnomes have the darkvision and pyromaniac alternate racial traits.
+
+### Far-southern city Gnomes
+
+The city of the far-southern city on the continent of the western continent has a substantial gnomish population, which emigrated from the tall peaks of the high southern mountains. Known for their creativity and love all forms of artistic expression, many of the far-southern city’s gnomes make their living as entertainers. Even more so than other gnomes, the far-southern city gnomes are fond of wearing bright colors, and often wear accessories that make noise as they move, such as bells, jangling bracelets, and flute-like reed pendants. Most the far-southern city gnomes have the darkvision, gift of tongues, and magical linguist alternate racial traits, as well as the artistic and sound mimicry alternate racial traits described below.
+
+### Utilitarian Magic
+
+Some gnomes develop practical magic to assist them with their obsessive projects. These gnomes add 1 to the DC of any saving throws against transmutation spells they cast. If their Intelligence score is 11 or higher, they also gain the following spell-like abilities: 1/day—*mage hand*, *open/close*, *prestidigitation*, and *unseen servant*. The DC for these spells is equal to 10 + the spell’s level + the gnome’s Intelligence modifier. This racial trait replaces gnome magic.
+
+### Vivacious
+
+Some gnomes retain a trace of the vitality of the fey realm. These gnomes recover 50% more hit points (minimum 1) whenever they recover hit points from rest. Whenever they are healed of hit point damage by a spell, they heal an additional amount equal to 1/2 the spell’s caster level (minimum 0). The extra healing does not apply to spells that grant fast healing or similar effects. This racial trait replaces gnome magic and keen senses.
+
+### Wright
+
+Some gnomes prefer to use their natural talents with mechanisms to drive machines. These gnomes gain a +2 racial bonus on driving checks and on Craft checks to build or repair vehicles. This racial trait replaces hatred and obsessive.
+
+
+## More Favored Class Options
+
+- **Arcanist**: Add 1/6 to the number of points the arcanist gains in her arcane reservoir each day.
+- **Druid**: The druid gains energy resistance 1 against acid, cold, electricity, or fire. Each time the druid selects this reward, increase her resistance to one of these energy types by +1 (maximum 10 for any one type).
+- **Rogue**: The rogue gains a +1/2 bonus on Disable Device and Use Magic Device checks related to glyphs, symbols, scrolls, and other magical writings.
+

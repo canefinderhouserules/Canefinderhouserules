@@ -102,3 +102,19 @@ Sylphs have access to the following equipment.
 - [Wind Blades](../../magic/spells/wind-blades.md)
 - [Windy Escape](../../magic/spells/windy-escape.md)
 - [Storm Step](../../magic/spells/storm-step.md)
+
+## More Alternate Racial Traits
+
+### Mostly Human
+
+A few ifrits, oreads, sulis, sylphs, and undines have appearances much closer to those of their human ancestors; in fact, they may not even realize their true race. Such geniekin appear to be human, save perhaps minor features like unusual eye color, and they count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells such as *charm person* or *enlarge person*). These geniekin do not automatically gain their associated elemental language (but may select it as a bonus language if their Intelligence is high enough). This ability alters the geniekin’s type, subtype, and languages.
+
+### Secretive
+
+Sylphs gain a +2 racial bonus on saving throws against enchantment and divination spells and effects. This racial trait replaces energy resistance and the spell-like ability racial trait.
+
+
+## More Favored Class Options
+
+- **Oracle**: Add +1/6 to the oracle’s level for the purpose of determining the effects of one revelation.
+

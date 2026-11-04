@@ -107,3 +107,10 @@ Wayangs have access to the following equipment.
 
 - [Shadow Anchor](../../magic/spells/shadow-anchor.md)
 - [Ancestral Revision](../../magic/spells/ancestral-revision.md)
+
+## More Alternate Racial Traits
+
+### In the Shadows
+
+Many wayangs perform a variety of unusual roles and tasks in wayang society. They gain a +2 racial bonus on their choice of two of the following skills: Appraise, Bluff, Craft, Profession, and Sleight of Hand. This racial trait replaces lurker.
+

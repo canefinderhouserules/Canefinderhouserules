@@ -31,3 +31,10 @@ The [Season Keeper](../classes/druid-archetypes.md) druid archetype is available
 ## Triaxian Traits
 
 See the Triaxian Traits section of the [race traits](../traits/race-traits.md) page.
+
+## More Alternate Racial Traits
+
+### Transitional Lore
+
+Transitional Triaxians are often instilled from a young age with the lore they need to prepare for the next winter or summer; they gain a +1 racial bonus on Knowledge (nature) and Survival checks. This racial trait replaces seasoned.
+

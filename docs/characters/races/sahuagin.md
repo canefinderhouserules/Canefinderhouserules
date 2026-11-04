@@ -57,3 +57,22 @@ Inherent instability in sahuagin genes makes them susceptible to mutations. Not 
 **Sightless Sahuagin**: These pallid, sickly looking sahuagin lack eyes, but their blindsense increases to 90 feet and they gain Blind-Fight as a bonus feat. A glowing tendril protruding from a sightless sahuagin causes all sighted creatures to be dazzled while within 10 feet of the sahuagin, and allows it to use *animal trance* once per day as a spell-like ability. This *animal trance* effect is entirely visual, so it does not have the sonic descriptor or work on blind creatures. As sightless sahuagin are blind, they are immune to all sight-based effects and attacks, including gaze attacks.
 
 **Spined Sahuagin**: Covered in hundreds of needlelike spines, spined sahuagin can raise their piercing protrusions to impale creatures that touch them. Any creature that successfully grapples or is grappled by a spined sahuagin, or hits one with an unarmed strike or natural weapon, takes 1d4 points of piercing damage. Additionally, these mutants gain Defensive Combat Training and Improved Grapple as bonus feats.
+
+## More Alternate Racial Traits
+
+### Outer-Sea Sahuagin
+
+The settlement of the outer sea is a bizarre environment: a saltwater oasis for merfolk and sahuagin in the freshwater River Kingdoms. Centuries ago, a sahuagin nation from the central sea mobilized a city-sized saltwater bolus for an overland assault on a merfolk state located near modern-day the walled city. The merfolk learned of this ambitious plan and sent an elite group of soldiers in saltwater tanks to intercept the ocean-bubble. The two sides clashed in Lake Encarthan and eventually worked their way up into what is now the River Kingdoms. In this battle, many of the wizards maintaining the sahuagin’s briny mobile fortress perished, and the two sides ended up stranded hundreds of miles from any ocean. Begrudgingly putting aside their grievances, the merfolk and sahuagin worked together to prevent their mutual extinction, holding back the fresh water with spells and building the settlement of the outer sea to serve as a permanent home. Now the outer sea is a thriving city, home to all kinds of peoples. Centuries of coexistence have worn down the merfolk and sahuagin’s hatred for each other, and now they live and work together in peace. Outer-Sea sahuagin can take the sahuagin song and stoic defender alternate racial traits described below.
+
+### Sahuagin Song
+
+While Outer-Sea sahuagin typically don’t have a history of music, over the years the merfolk of the city have shared their love of song with them. Sahuagin with this racial trait gain a +2 racial bonus on Perform (sing) checks and a +1 racial bonus on saves against language-dependent effects.
+
+This replaces speak with sharks.
+
+### Stoic Defender
+
+Outer-Sea sahuagin have learned to control their aggression, standing as reliable guards of the city they are proud to call home. Once per day when a sahuagin with this racial trait takes damage, he can focus on remaining steadfast for the good of the outer sea. For 1 minute, the sahuagin gains a +2 racial bonus to AC and a +2 racial bonus on Will saves.
+
+This replaces blood frenzy.
+

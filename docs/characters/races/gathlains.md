@@ -135,3 +135,10 @@ Gathlains have access to the following equipment.
 - [Wing Bounty](../../magic/spells/wing-bounty.md)
 - [Wing Thorns](../../magic/spells/wing-thorns.md)
 - [Wooden Wing Shield](../../magic/spells/wooden-wing-shield.md)
+
+## More Alternate Racial Traits
+
+### Nimbus of Vitality
+
+Gathlains sometimes retain a powerful connection to the fey realm, which allows them to channel life-giving energy. As a standard action once per day, they can surround themselves in an aura that affects them as *faerie fire* and grants fast healing 2. The nimbus lasts for 3 rounds plus 1 additional round per 2 character levels the gathlain possesses. This racial trait replaces the spell-like ability racial trait.
+

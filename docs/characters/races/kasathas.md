@@ -37,3 +37,10 @@ The kasatha spinal sword is described in the [companion gear](../../equipment/ge
 ## Kasatha Traits
 
 See the Kasatha Traits section of the [race traits](../traits/race-traits.md) page.
+
+## More Alternate Racial Traits
+
+### Stealthy
+
+Kasatha living on the world must often take great pains to hide their existence from others. Such kasathas gain a +2 racial bonus on Stealth checks. Stealth is always a class skill for them. This racial trait replaces jumper and stalker.
+

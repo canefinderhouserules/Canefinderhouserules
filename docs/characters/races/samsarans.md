@@ -61,3 +61,10 @@ Samsarans have access to the following equipment.
 ## Spells
 
 - [Karmic Blessing](../../magic/spells/karmic-blessing.md)
+
+## More Alternate Racial Traits
+
+### Mountaineer
+
+Samsarans, often from Zi Ha, who live their lives in the mountains are immune to altitude sickness and do not lose their Dexterity bonus to AC when making Climb checks or Acrobatics checks to cross narrow or slippery surfaces. This racial trait replaces lifebound.
+

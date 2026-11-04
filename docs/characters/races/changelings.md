@@ -251,3 +251,156 @@ These archetypes are typically only taken by changelings, but members of other r
 ## Spells
 
 - [Sow Thought](../../magic/spells/sow-thought.md)
+
+## More Alternate Racial Traits
+
+### Annis-Born (Slag May)
+
+Broad-shouldered and athletic, slag mays demonstrate incredible talent for all physical tasks. They share a vivacity, an addiction to new sights and experiences, and a tendency to collect souvenirs wherever they go.
+
+**Ancestry** Annis hag
+
+**Typical Alignment** CN
+
+**Ability Modifiers** +2 Str, +2 Cha, –2 Con
+
+**Hag Racial Trait** Annis-born changelings gain a +1 racial bonus on melee damage rolls.
+
+**Awakened Hag Heritage** Your jagged claws cause gaping wounds, dealing 1 point of bleed damage on a successful critical hit.
+
+### Ash-Born (Hearth May)
+
+Possessed of a blazing inner fire, hearth mays are passionate and excitable. Ranging from bubbly to irate, they lack emotional nuance, but their drive and discipline can overcome nearly any obstacle.
+
+**Ancestry** Ash hag
+
+**Typical Alignment** LN
+
+**Ability Modifiers** +2 Wis, +2 Cha, -2 Con
+
+**Hag Racial Trait** Ash-born changelings gain a +1 racial bonus on damage rolls for spells with the fire descriptor. This bonus increases by 1 for every 4 character levels the changeling has beyond 1st.
+
+**Awakened Hag Heritage** You gain immunity to extremely warm conditions, as if you were under the effects of a permanent *endure elements* spell (heat only) that cannot be dispelled.
+
+### Blood-Born (Veil May)
+
+Gifted with a face for every occasion, veil mays can adjust to any social situation, showing those around them exactly what they want to see. As easily as they read others, they are equally gifted at hiding their true intentions.
+
+**Ancestry** Blood hag
+
+**Typical Alignment** N
+
+**Ability Modifiers** +2 Wis, +2 Cha, -2 Int
+
+**Hag Racial Trait** The DCs of Sense Motive checks to gain a hunch about a blood-born changeling increase by 5.
+
+**Awakened Hag Heritage** You gain a +2 racial bonus on Bluff, Diplomacy, and Sense Motive skill checks as your gifts for reading and manipulating others matures.
+
+### Dreamthief-Born (Waker May)
+
+Rare beyond measure, waker mays exist only as the result of horrific rituals and bear stained souls. Cursed from birth, they mature like foul fruit into the deadliest of and most powerful of hags.
+
+**Ancestry** Dreamthief hag
+
+**Typical Alignment** NE
+
+**Ability Modifiers** +2 Str, +2 Cha, -2 Wis
+
+**Hag Racial Trait** Dreamthief-born changelings gain a +2 racial bonus on saving throws against mind-affecting effects.
+
+**Awakened Hag Heritage** You no longer need to sleep and cannot become fatigued due to lack of sleep. You can still be affected by other effects that inflict the fatigued condition, and must rest for 8 hours in order to prepare spells or regain uses of class abilities as normal, even if this time is not spent sleeping.
+
+### Green-Born (Callow May)
+
+Shy and soft-spoken, but possessed of grace and insight, callow mays are masterful manipulators who deeply appreciate the beautiful things in the world.
+
+**Ancestry** Green hag
+
+**Typical Alignment** CN
+
+**Ability Modifiers** +2 Wis, +2 Cha, -2 Con
+
+**Hag Racial Trait** Green-born changelings gain a +2 racial bonus on Bluff checks against creatures that could be sexually attracted to them.
+
+**Awakened Hag Heritage** You can cast *disguise self* once per day as a spell-like ability, treating your character level as your caster level. The bonus on Bluff checks you gain from your hag racial trait applies when someone could be sexually attracted to your disguised form as well.
+
+### Mute-Born (Sorrow May)
+
+Unique among their kind, sorrow mays manifest spontaneously without the need for hag mothers, and likewise hold the potential to corrupt themselves, transforming into hags should their hearts grow cold.
+
+**Ancestry** Mute hag
+
+**Typical Alignment** CN
+
+**Ability Modifiers** +2 Int, +2 Wis, -2 Con
+
+**Hag Racial Trait** Mute-born changelings gain a +2 racial bonus on saving throws against gaze attacks.
+
+**Awakened Hag Heritage** When you confirm a critical hit with your claw attack, your opponent is blinded for 1d6 rounds. A target that succeeds at a Fortitude saving throw (DC = 10 + half your character level + your Charisma modifier) is dazzled for 1 round instead.
+
+### Night-Born (Moon May)
+
+As much made as born, moon mays are deliberately created by night hags with foul futures in mind. Destiny haunts their lives, fanning pride and natural talent into megalomania.
+
+**Ancestry** Night hag
+
+**Typical Alignment** N
+
+**Ability Modifiers** +2 Wis, +2 Cha, -2 Dex
+
+**Hag Racial Trait** Night-born changelings gain a +2 racial bonus on saving throws against disease.
+
+**Awakened Hag Heritage** You can form a *lesser heartstone* by performing an 8-hour ritual over any gem worth at least 500 gp. While you carry it, a *lesser heartstone* allows you to apply your +2 racial bonus on saving throws against disease to all Fortitude saves. A *lesser heartstone* can also be used as a focus to replace any material spell components worth 10 gp or less. A *lesser heartstone* is considered to have a caster level equal to your character level at the time of its creation.
+
+### Pyrophile
+
+The changelings who result from ash hags’ wicked work often have one distinctly gray eye; alternatively, they may have perpetually dry, almost desiccated skin and chronic psoriasis. The daughter of an ash hag can take the following as her hag racial trait.
+
+**Pyrophile**: The changeling gains a +1 racial bonus on damage rolls when using spells with the fire descriptor. This bonus increases by 1 for every 4 levels the changeling has beyond 1st.
+
+### Sea-Born (Brine May)
+
+Dauntless free spirits, brine mays wander like the wind and water, and just like the elements, they have little concern for others' plans.
+
+**Ancestry** Sea hag
+
+**Typical Alignment** CN
+
+**Ability Modifiers** +2 Dex, +2 Wis, -2 Con
+
+**Hag Racial Trait** Sea-born changelings can hold their breath for a number of rounds equal to three times their Constitution score before they risk drowning.
+
+**Awakened Hag Heritage** You gain a swim speed equal to your base speed and can move in water without attempting Swim checks. Swim is a class skill for you.
+
+### Storm-Born (Virga May)
+
+Born with cold temperaments but hot passions, virga mays reject large crowds and open spaces and prefer to keep their emotions under tight control, all too aware of raging torrents that burble below their calm exteriors.
+
+**Ancestry** Storm hag
+
+**Typical Alignment** CN
+
+**Ability Modifiers** +2 Wis, +2 Cha, -2 Con
+
+**Hag Racial Trait** Storm-born changelings are treated as two size categories larger for the purpose of resolving wind effects.
+
+**Awakened Hag Heritage** You can cast following spell-like abilities: 1/day—*alter winds*, *create water*, and *obscuring mist*. The caster level for these effects is equal to your level. The DC for these spells is equal to 10 + the spell’s level + your Charisma modifier.
+
+### Winter-Born (Snow May)
+
+Playful and easily amused, snow mays are lighthearted but terribly creative once their anger is roused. Little phases these capricious women for long, and their casual cruelty can easily melt back to kindness.
+
+**Ancestry** Winter hag
+
+**Typical Alignment** CN
+
+**Ability Modifiers** +2 Int, +2 Cha, -2 Con
+
+**Hag Racial Trait** Winter-born changelings gain a +5 racial bonus on Acrobatics and Climb checks on icy or slippery surfaces.
+
+**Awakened Hag Heritage** You gain cold resistance equal to your character level and are no longer affected by severe cold or extreme cold.
+
+### Witchborn
+
+Most changelings are talented witches. They gain a +2 bonus to Intelligence and Charisma instead of a +2 bonus to Wisdom and Charisma. This racial trait alters the changeling’s racial ability score modifiers.
+

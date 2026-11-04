@@ -174,3 +174,18 @@ To kobolds, a familiar is above all a loyal servant, one that will never questio
 - **Toad**: Also cold-blooded, a toad is amphibious, a useful feature in dank, dripping underground caverns. The bonus hit points a toad grants are invaluable to the frail kobold race.
 
 Kobold wizards shy away from more intelligent creatures (such as imps or mephits) as familiars, instead choosing creatures less likely to talk back. They commonly bond with dire rats, fiendish animals, or impassive elementals that match the breath weapon of a dragon the kobold reveres. Good-aligned kobold wizards favor faerie dragons and pseudodragons; evil ones favor raktavarna rakshasas, whose inherent desire to serve and aptitude for spying suit them well.
+
+## More Alternate Racial Traits
+
+### Dragon Affinity
+
+Kobold sorcerers with the draconic bloodline or kobold bloodline treat their Charisma scores as 2 points higher for all sorcerer spells and class abilities. This racial trait replaces the armor trait.
+
+
+## More Favored Class Options
+
+- **Barbarian**: While you are raging, your racial natural attacks deal +1/4 point of damage.
+- **Inquisitor**: Add 1/2 to Survival checks made to track creatures in total darkness.
+- **Paladin**: Add 1/4 to the deflection bonus granted by your smite evil ability.
+- **Wizard**: Add 1/2 to your familiar’s Will saves against enchantment effects, or increase the hit points of your bonded item by 1.
+
