@@ -11,11 +11,11 @@
 
 **[Deadly Aim](../../rules/feats/deadly-aim.md):** not a feat. It is a feature available to any character with BAB +1 and Dex 13.
 
-**[Vital Strike](../../rules/feats/vital-strike.md):** choose one of two options: ×3 the weapon damage dice, or ×2 the fixed damage. Neither extra damage is multiplied on a critical hit.
+**[Vital Strike](../../rules/feats/vital-strike.md):** choose one of two options: ×3 the weapon damage dice, or ×2 the static damage bonuses. Neither extra damage is multiplied on a critical hit.
 
-**[Improved Vital Strike](../../rules/feats/improved-vital-strike.md):** ×4 the weapon damage dice, or ×3 the fixed damage.
+**[Improved Vital Strike](../../rules/feats/improved-vital-strike.md):** ×4 the weapon damage dice, or ×3 the static damage bonuses.
 
-**[Greater Vital Strike](../../rules/feats/greater-vital-strike.md):** ×5 the weapon damage dice, or ×4 the fixed damage.
+**[Greater Vital Strike](../../rules/feats/greater-vital-strike.md):** ×5 the weapon damage dice, or ×4 the static damage bonuses.
 
 **[Cleave](../../rules/feats/cleave.md)** *(total rework; prerequisites: Str 13, BAB +1)*: as a standard action, you make a single melee attack against 2 adjacent squares (adjacent to you and to each other), attacking whatever is in them with that one attack. With a two-handed weapon you affect 3 adjacent squares. With a reach weapon you affect 2 or 3 adjacent squares and the squares directly behind them. You can use Cleave as a full-round action, in which case instead of an attack it becomes a Reflex save for half, with a DC of 10 + half your level + your Strength modifier. On a turn in which you use either method of Cleave, you take –2 AC.
 
@@ -35,7 +35,7 @@
 
 **[Weapon Finesse](../../rules/feats/weapon-finesse.md):** includes Dexterity to damage. Add Agile Maneuvers (use combat maneuvers with Dexterity instead of Strength).
 
-**[Combat Expertise](../../rules/feats/combat-expertise.md):** it is no longer a prerequisite for dozens of unrelated feats (see every improved maneuver feat and other non-defensive feats).
+**[Combat Expertise](../../rules/feats/combat-expertise.md):** it is no longer a prerequisite for maneuver feats or other clearly offensive feats, and those feats also lose its Int 13 requirement.
 
 **[Whirlwind Attack](../../rules/feats/whirlwind-attack.md):** if made with a two-handed weapon, you gain reach while doing so (so with a reach weapon, a full 15 feet).
 
