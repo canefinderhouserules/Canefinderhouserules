@@ -1496,6 +1496,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Acrobatic Spellcaster](acrobatic-spellcaster.md) | Combat | Combat Casting, Skill Focus (Acrobatics) |
 | [Acupuncture Specialist](acupuncture-specialist.md) | — | Heal 5 ranks |
 | [Acute Shot](acute-shot.md) | — | Far Shot, Precise Shot |
+| [Additional Affiliations](additional-affiliations.md) | — | — |
 | [Adept Channel](adept-channel.md) | General | Ability to cast divine spells, summon familiar class ability, caster level 4th, Cha 13 |
 | [Advance Warning](advance-warning.md) | — | Cha 15 |
 | [Advanced Armor Training](advanced-armor-training.md) | Combat | Armor training class feature, fighter level 3rd |
@@ -1511,6 +1512,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Alien Mindpaths](alien-mindpaths.md) | — | Android, kasatha, lashunta, or Triaxian |
 | [Align Equipment](align-equipment.md) | General | Alignment Channel, Bless Equipment, caster level 3rd, channel energy class feature |
 | [Aligned Crafting](aligned-crafting.md) | Item Creation | Craft Magic Arms and Armor or Craft Wondrous Item |
+| [All Gnolls Must Die](all-gnolls-must-die.md) | Achievement | Deliver the killing blow to 20 gnolls, hyenas, dire hyenas, werehyenas, jackalweres, or minions of a deity of monsters. |
 | [All-Consuming Swing](all-consuming-swing.md) | Combat | Str 13, Power Attack, Cleave, Vital Strike, base attack bonus +8 |
 | [Ally Caller](ally-caller.md) | — | Triton, *summon nature's ally II* spell-like ability, character level 3rd |
 | [Ally Shield](ally-shield.md) | Betrayal, Teamwork | — |
@@ -1831,6 +1833,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Count of the Clock](count-of-the-clock.md) | — | Fey creature type or sworn fealty to a fey lord, you must have either visited or interacted with an outsider native to a plane of time |
 | [Countering Loophole](countering-loophole.md) | — | Improved Counterspell |
 | [Counterpoint to Inspiration](counterpoint-to-inspiration.md) | Teamwork | Harmonic Accord, Harmonic Empowerment, Perform (keyboard, percussion, sing, string, or wind) 10 ranks, bardic performance or raging song |
+| [Country Born](country-born.md) | — | 1st-level character, cannot have Lone Wolf |
 | [Courage in a Bottle](courage-in-a-bottle.md) | — | Bravery class feature, worshiper of a deity of freedom and ale |
 | [Courage in Numbers](courage-in-numbers.md) | Teamwork | Iron Will |
 | [Coven Caster](coven-caster.md) | — | Changeling. |
@@ -2190,6 +2193,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Flame Feint](flame-feint.md) | Combat, Style | Wis 13, Elemental Discipline Style (flame), base attack bonus +9 or monk level 9th |
 | [Flame Fist](flame-fist.md) | Combat, Style | Wis 13, Elemental Discipline Style (flame), Stunning Fist, Flame Feint, base attack bonus +13 or monk level 13th |
 | [Flame Warrior](flame-warrior.md) | Combat | Fire subtype, giant subtype |
+| [Flame-Tested Survivor](flame-tested-survivor.md) | Achievement | Knocked unconscious or killed by fire damage at least 10 times. |
 | [Flaying Critical](flaying-critical.md) | Combat, Critical | Critical Focus, base attack bonus +11 |
 | [Fleeting Spell](fleeting-spell.md) | Metamagic | — |
 | [Flensing Strike](flensing-strike.md) | — | Sneak attack +3d6, bleeding sneak attack rogue trick or bleed universal monster ability |
@@ -2263,6 +2267,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Giant’s Wallop](giants-wallop.md) | Combat | Str 13, Power Attack, Vital Strike, base attack bonus +6, giant subtype |
 | [Giantslaying Team](giantslaying-team.md) | Combat, Teamwork | Dex 13, Dodge, Mobility, base attack bonus +4, defensive training racial trait |
 | [Gift of Sight](gift-of-sight.md) | — | Troll, patron deity a demon god of trolls |
+| [Gifted Mesmerist](gifted-mesmerist.md) | Achievement | Successfully affect 25 different targets with charm or compulsion spells. |
 | [Gilded Weapons](gilded-weapons.md) | — | Aphorite, crystalline dust racial trait, nonchaotic alignment |
 | [Gloomstorm](gloomstorm.md) | Combat, Conduit | Knowledge (planes) 4 ranks, shadow weapon class feature (see the [gloomblade](../../characters/classes/fighter-archetypes.md)) |
 | [Glorious Blaze](glorious-blaze.md) | — | Goblin, worshipper of a deity whose portfolio includes the sun |
@@ -2279,6 +2284,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Graceful Steal](graceful-steal.md) | Combat | Dex 13, Agile Maneuvers, Improved Steal, Sleight of Hand 3 ranks |
 | [Grand Master Performer](grand-master-performer.md) | — | Bardic performance class feature, Extra Performance, Master Performer, bard level 8th, member of a bardic academy |
 | [Grappled Caster](grappled-caster.md) | — | Combat Casting |
+| [Graverisen](graverisen.md) | Achievement | Die and be brought back at least twice. |
 | [Gravitational Vital Strike](gravitational-vital-strike.md) | Combat | Vital Strike, [Heavy Gravity Acclimation](heavy-gravity-acclimation.md) or [Light Gravity Acclimation](light-gravity-acclimation.md) |
 | [Gray Dwarf Magic](gray-dwarf-magic.md) | — | Duergar |
 | [Great Expectations](great-expectations.md) | — | Half-orc of jungle descent, skilled alternate racial trait |
@@ -2353,6 +2359,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Hinder](hinder.md) | Blood Hex | Int 13, Use Magic Device 5 ranks |
 | [Hindrance Dismissal](hindrance-dismissal.md) | — | — |
 | [Hippogriff Marine](hippogriff-marine.md) | — | Ride 6 ranks, ranger level 4th |
+| [History of Scars](history-of-scars.md) | Achievement | Take a cumulative total of 1,000 points of damage. Magical healing offsets this running total; for every 5 points of magical healing you receive, reduce your cumulative damage total by 1. |
 | [Hold the Blade](hold-the-blade.md) | Combat | Improved Disarm, base attack bonus +10 |
 | [Hollow Soul](hollow-soul.md) | Conduit | Knowledge (planes) 9 ranks |
 | [Holy Water Assault](holy-water-assault.md) | Combat | Base attack bonus +1, Knowledge (religion) 3 ranks |
@@ -2872,6 +2879,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Regenerate Muscles](regenerate-muscles.md) | Combat | Power Attack, regeneration, troll |
 | [Reinforce Crafting](reinforce-crafting.md) | Item Creation | Craft Magic Arms and Armor, ability to cast *make whole* or *mending* |
 | [Reject Poison](reject-poison.md) | — | Con 13, poison use class feature, worshiper of a deity of secrets and poison |
+| [Relentless Butcher](relentless-butcher.md) | Achievement | Confirm at least 50 critical hits. |
 | [Relentless Cheer](relentless-cheer.md) | Teamwork | Halfling, fearless and halfling luck racial traits |
 | [Relentless Shot](relentless-shot.md) | Combat | Point-Blank Shot, base attack bonus +6 |
 | [Relic Familiarity](relic-familiarity.md) | — | Wyvaran |
@@ -3197,6 +3205,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Suffocating Strangulation](suffocating-strangulation.md) | — | Improved grab, constrict |
 | [Summon Evil Monster](summon-evil-monster.md) | — | Evil alignment |
 | [Summon Good Monster](summon-good-monster.md) | — | Good alignment |
+| [Summon Guardian Spirit](summon-guardian-spirit.md) | — | Ability to cast summon monster III or summon nature’s ally III |
 | [Summon Neutral Monster](summon-neutral-monster.md) | — | Chaotic neutral, lawful neutral, or neutral alignment |
 | [Summon Plant Ally](summon-plant-ally.md) | — | Knowledge (nature) 1 rank, ability to cast *summon nature's ally* spells |
 | [Sun Striker](sun-striker.md) | Combat, Critical | Critical Focus, Weapon Focus (deity’s favored weapon), character level 7th, worshiper of a deity of the sun |

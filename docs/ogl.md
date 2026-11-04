@@ -791,3 +791,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Legendary Investigators © 2022, Legendary Games; Authors: Connor Bates, Andrew J Gibson, Norman Mitchell, Margherita Tramontano, and Tara Collins.
 
     *Rogue Glory.* Copyright 2013, Drop Dead Studios; Author Adam Meyers.
+
+    *Legacy of Fire Player’s Guide.* Paizo Inc.
