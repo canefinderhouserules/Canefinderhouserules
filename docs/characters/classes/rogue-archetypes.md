@@ -328,13 +328,13 @@ Fey pranksters specialize in tricking others to teach a lesson or for their own 
 
 **Treacherous Plants (Sp)**: The fey prankster can cause plants to distract nearby creatures. To use this ability, the fey prankster attempts a Bluff check to create a distraction to hide as a swift action or to feint against an adjacent opponent as a move action, so long as the target is adjacent to plants. He gains a bonus on this check equal to half his rogue level (minimum +1). This replaces trapfinding.
 
-**Improved Dirty Trick**: At 2nd level, the fey prankster gains Improved Dirty Trick as a bonus feat. He need not meet the prerequisites. This replaces the rogue talent gained at 2nd level.
+**Improved Dirty Trick**: At 2nd level, the fey prankster gains [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md) as a bonus feat. He need not meet the prerequisites. This replaces the rogue talent gained at 2nd level.
 
 **Steal Appearance (Sp)**: At 4th level, the fey prankster can exchange the appearance of two adjacent items of the same size. He can also exchange the appearance of two creatures if at least one is willing and both are adjacent. Affecting an unwilling creature or an item it wears or carries requires a successful dirty trick combat maneuver against that creature. If he succeeds, the objects or creatures are each disguised as the other as if with veil cast at his rogue level. The Will save DC to resist or disbelieve the illusion is equal to 10 + half the rogue’s level + his Intelligence modifier.
 
 At 8th level, the fey prankster can also exchange the locations of the two targets by succeeding at a DC 20 Sleight of Hand check. If he succeeds, observers can’t tell which is the original based on movement without succeeding at a Perception check against his Sleight of Hand result. This replaces uncanny dodge and improved uncanny dodge.
 
-**Greater Dirty Trick**: At 6th level, the fey prankster gains Greater Dirty Trick as a bonus feat. He does not need to meet the prerequisites. This replaces the rogue talent gained at 6th level.
+**Greater Dirty Trick**: At 6th level, the fey prankster gains [Greater Dirty Trick](../../rules/feats/greater-dirty-trick.md) as a bonus feat. He does not need to meet the prerequisites. This replaces the rogue talent gained at 6th level.
 
 **Plant Traps (Su)**: At 8th level, the fey prankster can modify a plant (but not plant creatures) into a trap as a full-round action up to three times per day. The Perception and Disable Device DCs for the trap are each equal to 15 + his rogue level. A Tiny or larger plant can be used to perform a trip or dirty trick combat maneuver using the fey prankster’s CMB and the plant’s size. A Large or larger plant can be used to create a snare as per the spell. The save DC is equal to 12 + the rogue’s Intelligence modifier. The fey prankster can trigger any plant trap he created as a standard action as long as he is within 60 feet of it. This replaces the rogue talent gained at 8th level.
 
@@ -378,7 +378,7 @@ Sly saboteurs are irregular soldiers who specialize in sabotage and surprise att
 
 **Class Skills**: A sly saboteur adds Survival to her list of class skills instead of Knowledge (dungeoneering). This alters the rogue’s class skills.
 
-**Scamper (Ex)**: At 3rd level, a sly saboteur can move through 5 feet of difficult terrain each round as if it were normal terrain. At 6th level and every 3 levels thereafter, this distance increases by 5 feet (to a maximum of 30 feet at 18th level). This ability allows the sly saboteur to take a 5-foot step into difficult terrain. This ability applies only when she is wearing light armor or no armor and carrying no more than a light load, and it stacks with the Acrobatic Steps and Nimble Moves feats. This replaces danger sense.
+**Scamper (Ex)**: At 3rd level, a sly saboteur can move through 5 feet of difficult terrain each round as if it were normal terrain. At 6th level and every 3 levels thereafter, this distance increases by 5 feet (to a maximum of 30 feet at 18th level). This ability allows the sly saboteur to take a 5-foot step into difficult terrain. This ability applies only when she is wearing light armor or no armor and carrying no more than a light load, and it stacks with the [Acrobatic Steps](../../rules/feats/acrobatic-steps.md) and [Nimble Moves](../../rules/feats/nimble-moves.md) feats. This replaces danger sense.
 
 **Catastrophic Failure (Ex)**: At 4th level, when a sly saboteur uses Disable Device to rig a device to fail, she can increase the DC of the check by 5. If she does so and succeeds at the check, when the device fails, users take damage equal to the sly saboteur’s sneak attack, or they take half that amount with a successful Reflex save (DC = 10 + half the sly saboteur’s level + her Dexterity modifier). The type of damage depends on the nature of the device but is typically bludgeoning, fire, piercing, or slashing. This replaces uncanny dodge.
 
@@ -428,9 +428,9 @@ A swordmaster meditates to strengthen her spiritual connection to her blade. She
 
 At 3rd level, the swordmaster chooses one trance from the list below. She chooses another trance at 6th, 9th, 12th, 15th, and 18th level. She can only use one type of trance at a time.
 
-**Crane Trance (Ex)**: The swordmaster’s blade rises and falls with the graceful sweeping arcs of the mountain crane. When in this trance, a swordmaster gains the benefits of the Crane Style feat.
+**Crane Trance (Ex)**: The swordmaster’s blade rises and falls with the graceful sweeping arcs of the mountain crane. When in this trance, a swordmaster gains the benefits of the [Crane Style](../../rules/feats/crane-style.md) feat.
 
-**Dragon Trance (Ex)**: Like the dragon, the swordmaster has honed the steadiness of her mind and body. When in this trance, a swordmaster gains the benefits of the Dragon Style feat.
+**Dragon Trance (Ex)**: Like the dragon, the swordmaster has honed the steadiness of her mind and body. When in this trance, a swordmaster gains the benefits of the [Dragon Style](../../rules/feats/dragon-style.md) feat.
 
 **Leopard Trance (Ex)**: Using the swiftness of the leopard, a swordmaster’s evasive footwork confuses her opponents. When in this trance, a swordmaster gains the benefits of the Mobility feat.
 
@@ -454,7 +454,7 @@ An eldritch raider is a rogue who seeks to unravel the mysteries of the destruct
 
 **Skill Ranks per Level**: 6 + Int modifier.
 
-**Detect Magic (Sp)**: At 2nd level, an eldritch raider gains the ability to use *detect magic* at will. The eldritch raider treats her rogue level as her caster level for this ability. This ability counts as the minor magic rogue talent for purposes of qualifying for other rogue talents. This ability replaces the rogue talent rogues gained at 2nd level.
+**Detect Magic (Sp)**: At 2nd level, an eldritch raider gains the ability to use [*detect magic*](../../magic/spells/detect-magic.md) at will. The eldritch raider treats her rogue level as her caster level for this ability. This ability counts as the minor magic rogue talent for purposes of qualifying for other rogue talents. This ability replaces the rogue talent rogues gained at 2nd level.
 
 **Eldritch Intuition (Ex)**: At 3rd level, an eldritch raider gains an intuitive sense that allows her to more easily activate sorcerer and wizard spell completion and spell trigger items. She gains a +1 bonus on Use Magic Device checks for this purpose. This bonus increases to +2 at 6th level, +3 at 9th level, +4 at 12th level, +5 at 15th level, and +6 at 18th level. This ability replaces the danger sense class feature.
 
@@ -480,7 +480,7 @@ The kitsune trickster combines her sharpened wit with minor arcane powers of cha
 
 **Kitsune’s Guile (Ex)**: At 1st level, a trickster relies on her intellect as much as her personality. She adds her Intelligence modifier on Bluff, Diplomacy, Disguise, and Sense Motive checks. This ability replaces trapfinding.
 
-**Kitsune’s Charm (Sp)**: At 3rd level, a kitsune trickster can use *charm person* once per day as a spell-like ability (caster level equal to her rogue level – 2). At 6th level, and every three levels thereafter, the kitsune trickster gains an additional daily use of this ability. This ability replaces danger sense.
+**Kitsune’s Charm (Sp)**: At 3rd level, a kitsune trickster can use [*charm person*](../../magic/spells/charm-person.md) once per day as a spell-like ability (caster level equal to her rogue level – 2). At 6th level, and every three levels thereafter, the kitsune trickster gains an additional daily use of this ability. This ability replaces danger sense.
 
 **Rogue Talents**: The following rogue talents complement the kitsune trickster archetype: major magic, minor magic (*Core Rulebook*); false friend, obfuscate story, steal the story (see below); charmer, coax information, honeyed words (*Advanced Player’s Guide*); convincing lie (*Ultimate Combat*).
 
@@ -516,7 +516,7 @@ Pushed into a life of crime by the society around them, half-orcs gravitate towa
 
 **Underhanded Maneuvers (Ex)**: At 1st level, when she could normally make a sneak attack, a slayer may instead make a dirty trick or steal combat maneuver with a bonus on her roll. This bonus is equal to her number of sneak attack dice for a dirty trick combat maneuver, or 1-1/2 × her number of sneak attack dice for a steal combat maneuver. This ability replaces trapfinding.
 
-**Bonus Feats**: At 2nd level, a skulking slayer can select the Surprise Follow-Through feat (see below) in place of a rogue talent. At 10th level, she can select the Improved Surprise Follow-Through feat in place of an advanced rogue talent.
+**Bonus Feats**: At 2nd level, a skulking slayer can select the [Surprise Follow-Through](../../rules/feats/surprise-follow-through.md) feat (see below) in place of a rogue talent. At 10th level, she can select the [Improved Surprise Follow-Through](../../rules/feats/improved-surprise-follow-through.md) feat in place of an advanced rogue talent.
 
 **Bold Strike (Ex)**: At 3rd level, when a skulking slayer charges and makes a sneak attack with a two-handed weapon, she rolls d8s instead of d6s for her sneak attack damage. This ability replaces danger sense +1 and +4.
 
@@ -538,9 +538,9 @@ A filcher steals valuables without their owners even realizing it. Whether cutti
 
 As a swift action, a filcher can make an Appraise check in order to determine the relative value of each object carried by her target (DC = 10 + 1 for every object the filcher is trying to ascertain the relative value of). Though she never learns the actual prices of items when using rummage, she does gain enough information to list these items in order, from the most valuable to the least valuable. She can, by taking a –20 penalty on the check, add to this assessment any items carried by her target that she cannot see. This ability replaces danger sense +1, +2, +3, +4, +5, and +6.
 
-**Filch (Ex)**: At 4th level, a filcher learns how pluck items off her opponents even in combat. She gains Improved Steal as a bonus feat and can use her Sleight of Hand bonus instead of her CMB when performing a steal combat maneuver. If the filcher gains bonuses on combat maneuver checks from any feats, spells, magic items, or similar effects, they are added to the Sleight of Hand bonus when using the steal maneuver. This ability replaces uncanny dodge.
+**Filch (Ex)**: At 4th level, a filcher learns how pluck items off her opponents even in combat. She gains [Improved Steal](../../rules/feats/improved-steal.md) as a bonus feat and can use her Sleight of Hand bonus instead of her CMB when performing a steal combat maneuver. If the filcher gains bonuses on combat maneuver checks from any feats, spells, magic items, or similar effects, they are added to the Sleight of Hand bonus when using the steal maneuver. This ability replaces uncanny dodge.
 
-**Superior Filching (Ex)**: At 8th level, a filcher becomes a master at separating owners from their property. She gains Greater Steal as a bonus feat, and opponents do not gain a +5 bonus to their CMD when she tries to remove items fastened to them. This ability replaces improved uncanny dodge.
+**Superior Filching (Ex)**: At 8th level, a filcher becomes a master at separating owners from their property. She gains [Greater Steal](../../rules/feats/greater-steal.md) as a bonus feat, and opponents do not gain a +5 bonus to their CMD when she tries to remove items fastened to them. This ability replaces improved uncanny dodge.
 
 **Rogue Talents**: The following rogue talents complement the filcher archetype: fast stealth, slow reactions (*Core Rulebook*); fast fingers, fast getaway (*Advanced Player’s Guide*); black market connections, deft palm (*Ultimate Combat*).
 
@@ -604,7 +604,7 @@ A master of disguise feels no need to advertise her skills to build a reputation
 
 **Consummate Actor (Ex)**: A master of disguise adds half her rogue level (minimum 1) on all Disguise checks and on Bluff checks to stay in character while using Disguise. At 2nd level, she gains the quick disguise rogue talent, and she can create a disguise twice as quickly as normal even for that rogue talent (she can create a disguise that encompasses only minor details as a standard action). This ability replaces trapfinding and the rogue talent gained at 2nd level.
 
-**Grandmaster of Disguise (Ex)**: At 10th level, a master of disguise gains the master of disguise advanced rogue talent and can use it an unlimited number of times per day. Because she must still don a physical disguise to gain this bonus, it doesn’t stack with the bonuses from spells like *alter self* and *disguise self*, but since it is completely nonmagical, it is more reliable when scrutinized under magical detection. This ability replaces the rogue talent gained at 10th level.
+**Grandmaster of Disguise (Ex)**: At 10th level, a master of disguise gains the master of disguise advanced rogue talent and can use it an unlimited number of times per day. Because she must still don a physical disguise to gain this bonus, it doesn’t stack with the bonuses from spells like [*alter self*](../../magic/spells/alter-self.md) and [*disguise self*](../../magic/spells/disguise-self.md), but since it is completely nonmagical, it is more reliable when scrutinized under magical detection. This ability replaces the rogue talent gained at 10th level.
 
 **Rogue Talents**: The following rogue talents complement the master of disguise archetype: camouflage, false friend, major magic, minor magic, obfuscate story, shades of gray, and steal the story.
 
@@ -632,7 +632,7 @@ Sharpers use trickery and deception to part an owner from his valuables. Patholo
 
 **Scam Artist (Ex)**: A sharper gains a bonus equal to half her rogue level (minimum +1) on all Bluff and Sleight of Hand checks. This ability replaces trapfinding.
 
-**Sticky Fingers (Ex)**: At 2nd level, a sharper receives Improved Steal as a bonus feat. At 6th level, she receives Greater Steal as a bonus feat, and at 8th level, she receives Quick Steal as a bonus feat. The sharper gains these feats even if she doesn’t meet the prerequisites. This ability replaces the rogue talents gained at 2nd, 6th, and 8th levels.
+**Sticky Fingers (Ex)**: At 2nd level, a sharper receives Improved Steal as a bonus feat. At 6th level, she receives Greater Steal as a bonus feat, and at 8th level, she receives [Quick Steal](../../rules/feats/quick-steal.md) as a bonus feat. The sharper gains these feats even if she doesn’t meet the prerequisites. This ability replaces the rogue talents gained at 2nd, 6th, and 8th levels.
 
 **Lucky Save (Su)**: At 3rd level, when a sharper’s wits aren’t enough to pull her out of a bad situation, her luck still just might save her. She gains a +1 luck bonus on all saving throws. This bonus increases to +2 at 9th level and to +3 at 15th level. This ability replaces danger sense.
 
@@ -702,15 +702,15 @@ Dwarves have long practiced a mystic lore they call earthcraft. It has been pass
 
 This replaces trapfinding.
 
-**Earthcraft (Su)**: At 2nd level, an earthshadow can draw upon the power of earth to perform mystical tricks. At the start of each day, an earthshadow gains a pool of earthcraft points equal to half her rogue level plus her Wisdom modifier, and she can spend earthcraft points to use certain spell-like abilities. The caster level of these spell-like abilities is equal to the earthshadow’s rogue level. Earthcraft effects affect only the earthshadow, even if the spell could normally affect others. She can spend 1 earthcraft point to cast *blend*, even if she is not an elf, but this ability works only in areas of natural earth or unworked stone.
+**Earthcraft (Su)**: At 2nd level, an earthshadow can draw upon the power of earth to perform mystical tricks. At the start of each day, an earthshadow gains a pool of earthcraft points equal to half her rogue level plus her Wisdom modifier, and she can spend earthcraft points to use certain spell-like abilities. The caster level of these spell-like abilities is equal to the earthshadow’s rogue level. Earthcraft effects affect only the earthshadow, even if the spell could normally affect others. She can spend 1 earthcraft point to cast [*blend*](../../magic/spells/blend.md), even if she is not an elf, but this ability works only in areas of natural earth or unworked stone.
 
-At 4th level, an earthshadow can spend 2 earthcraft points to cast *meld into stone*.
+At 4th level, an earthshadow can spend 2 earthcraft points to cast [*meld into stone*](../../magic/spells/meld-into-stone.md).
 
-At 8th level, an earthshadow can spend 3 earthcraft points to cast *dimension door*. She must be able to see her destination (or she must be able to otherwise sense its surface, such as with tremorsense), and her current location must be connected to her destination by continuous natural earth or unworked stone.
+At 8th level, an earthshadow can spend 3 earthcraft points to cast [*dimension door*](../../magic/spells/dimension-door.md). She must be able to see her destination (or she must be able to otherwise sense its surface, such as with tremorsense), and her current location must be connected to her destination by continuous natural earth or unworked stone.
 
-At 12th level, an earthshadow can spend 5 earthcraft points to cast the spell *stone tell* but can communicate only with unworked stone.
+At 12th level, an earthshadow can spend 5 earthcraft points to cast the spell [*stone tell*](../../magic/spells/stone-tell.md) but can communicate only with unworked stone.
 
-At 16th level, an earthshadow can spend 6 earthcraft points to cast *statue*.
+At 16th level, an earthshadow can spend 6 earthcraft points to cast [*statue*](../../magic/spells/statue.md).
 
 This ability replaces evasion and the rogue talents gained at 4th, 8th, 12th, and 16th levels.
 
@@ -756,9 +756,9 @@ Dark lurkers use darkness as an ally. They are widely feared in many major metro
 
 **Blind-Fight (Ex)**: At 2nd level, a dark lurker gains Blind-Fight as a bonus feat. This ability replaces the rogue talent gained at 2nd level.
 
-**Improved Blind-Fight (Ex)**: At 8th level, a dark lurker gains Improved Blind-Fight as a bonus feat. This ability replaces the rogue talent gained at 8th level.
+**Improved Blind-Fight (Ex)**: At 8th level, a dark lurker gains [Improved Blind-Fight](../../rules/feats/improved-blind-fight.md) as a bonus feat. This ability replaces the rogue talent gained at 8th level.
 
-**Greater Blind-Fight (Ex)**: At 14th level, a dark lurker gains Greater Blind-Fight as a bonus feat. This ability replaces the rogue talent gained at 14th level.
+**Greater Blind-Fight (Ex)**: At 14th level, a dark lurker gains [Greater Blind-Fight](../../rules/feats/greater-blind-fight.md) as a bonus feat. This ability replaces the rogue talent gained at 14th level.
 
 **Instinctual Sense (Ex)**: At 20th level, a dark lurker gains blindsight with a range of 30 feet. This ability replaces the rogue talent gained at 20th level.
 
@@ -768,7 +768,7 @@ Dark lurkers use darkness as an ally. They are widely feared in many major metro
 
 Some peoples are slavers and demon worshipers who hide in thick jungles and quickly subdue their prey. A kidnapper is not only adept at hiding herself and tying up captives, but also at spreading rumors of hidden ruins, buried treasure, and other such valuables that might lure an unwary foreigner into her traps.
 
-**Clean Capture (Ex)**: At 1st level, a kidnapper reduces the penalty to her combat maneuver check to tie up a pinned or otherwise restrained target by an amount equal to 1/2 her rogue level. In addition, she can take the feats Improved Grapple and Greater Grapple as rogue talents. She can ignore the Improved Unarmed Strike requirement when selecting these feats as rogue talents, but must meet all other prerequisites. This ability replaces trapfinding.
+**Clean Capture (Ex)**: At 1st level, a kidnapper reduces the penalty to her combat maneuver check to tie up a pinned or otherwise restrained target by an amount equal to 1/2 her rogue level. In addition, she can take the feats [Improved Grapple](../../rules/feats/improved-grapple.md) and [Greater Grapple](../../rules/feats/greater-grapple.md) as rogue talents. She can ignore the [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) requirement when selecting these feats as rogue talents, but must meet all other prerequisites. This ability replaces trapfinding.
 
 **Abductor (Ex)**: At 3rd level, a kidnapper gains a +1 bonus on combat maneuver checks to grapple a foe. In addition, the kidnapper treats her combat maneuver bonus as 1 higher when a foe tries to grapple her or when a grappled target attempts to break free of her grapple. These bonuses increase by 1 for every 3 levels beyond 3rd. This ability replaces danger sense.
 
@@ -782,7 +782,7 @@ In a thriving international port far from the seat of a rigid and bureaucratic e
 
 **Sophisticated Stealth (Ex)**: At 3rd level, a port rebel gains a +1 bonus on Knowledge (nobility) checks. In addition, she gains a +1 bonus on Bluff checks to convey a secret message and on Sense Motive checks to discern secret messages. These bonuses increase by 1 every 3 rogue levels thereafter. This ability replaces danger sense.
 
-**Misdirection (Sp)**: At 4th level, a port rebel gains the ability to cast *misdirection* on herself once per day, though instead of choosing an object for the second target, she must choose a creature in range. The caster level for this ability is equal to her class level, and the save DC for this spell is 12 + the port rebel's Intelligence modifier. The save DC of this ability increases by 1 if the secondary target is lawful or evil. This ability replaces uncanny dodge.
+**Misdirection (Sp)**: At 4th level, a port rebel gains the ability to cast [*misdirection*](../../magic/spells/misdirection.md) on herself once per day, though instead of choosing an object for the second target, she must choose a creature in range. The caster level for this ability is equal to her class level, and the save DC for this spell is 12 + the port rebel's Intelligence modifier. The save DC of this ability increases by 1 if the secondary target is lawful or evil. This ability replaces uncanny dodge.
 
 **Rogue Talents**: The following rogue talents complement the port rebel archetype: canny observer, charmer, false friend, fast getaway, honeyed words, obfuscate story, and quick disguise.
 
@@ -796,7 +796,7 @@ The sight of slaving ships approaching a coast signals terror for most. Some fre
 
 **Covert Commander (Ex)**: A slave liberator grants all allies within 30 feet who are in her line of sight (but not herself) a +1 competence bonus on Disguise and Stealth checks. This bonus increases by 1 for every 3 levels beyond 3rd. This ability replaces danger sense.
 
-**Catch Off-Guard (Ex)**: At 4th level, the slave liberator is adept at improvising weapons. She gains Catch Off-Guard as a bonus feat. This ability replaces uncanny dodge.
+**Catch Off-Guard (Ex)**: At 4th level, the slave liberator is adept at improvising weapons. She gains [Catch Off-Guard](../../rules/feats/catch-off-guard.md) as a bonus feat. This ability replaces uncanny dodge.
 
 **Rogue Talents**: The following rogue talents complement the slave liberator archetype: deft palm, fast picks, fast stealth, quick disguise, slow reactions, and underhanded.
 
@@ -822,7 +822,7 @@ A toxic talon is trained and deployed for one very specific purpose: to defeat f
 
 **Poison Adept (Ex)**: A toxic talon is trained in the use of poison and cannot accidentally poison himself when applying poison to a projectile weapon. He can apply poison to a projectile as a move action. This counts as the poison use ability for the purposes of qualifying for feats, prestige classes, and other options. This ability replaces trapfinding.
 
-**Toxin Resistance (Ex)**: At 3rd level, a toxic talon gains a +1 bonus on saving throws against diseases and poisons, and he gains a +1 bonus on Heal checks to treat diseases and poisons. He also gains a +1 bonus on caster level checks (including when he activates a magic item) to treat or remove poisons and diseases, such as when using *remove disease* or *neutralize poison*. Finally, he gains a +1 bonus on Perception checks to identify traps that utilize diseases or poisons. These bonuses increase to +2 at 6th level, to +3 at 9th level, to +4 at 12th level, to +5 at 15th level, and to +6 at 18th level. This replaces danger sense.
+**Toxin Resistance (Ex)**: At 3rd level, a toxic talon gains a +1 bonus on saving throws against diseases and poisons, and he gains a +1 bonus on Heal checks to treat diseases and poisons. He also gains a +1 bonus on caster level checks (including when he activates a magic item) to treat or remove poisons and diseases, such as when using [*remove disease*](../../magic/spells/remove-disease.md) or [*neutralize poison*](../../magic/spells/neutralize-poison.md). Finally, he gains a +1 bonus on Perception checks to identify traps that utilize diseases or poisons. These bonuses increase to +2 at 6th level, to +3 at 9th level, to +4 at 12th level, to +5 at 15th level, and to +6 at 18th level. This replaces danger sense.
 
 **Catalyst (Su)**: At 4th level, a toxic talon can use secret alchemical techniques to enhance a poison as he applies it to a weapon, increasing the save DC of the poison by 1 (this bonus increases to +2 at 12th level). This increase to the save DC lasts for 1 minute or until the poison is used up, whichever comes first. A toxic talon can use catalyst once per hour. This ability replaces uncanny dodge.
 
@@ -846,9 +846,9 @@ Agitators fight mightily to cast down the enemies of their ideals within the sha
 
 **Ready for Betrayal (Ex)**: At 3rd level, an agitator gains a +1 bonus on Perception checks to recognize disguises and notice hiding creatures and on Sense Motive checks to disbelieve lies. These bonuses increase by 1 every 3 rogue levels thereafter (to a maximum of +6 at 18th level). This ability replaces danger sense.
 
-**Enthralling Agitation (Su)**: At 4th level, an agitator can captivate a crowd once per day, as per the spell *enthrall* (DC = 10 + 1/2 the agitator's rogue level + her Charisma modifier). During the spell's effect, the agitator can attempt a DC 15 Charisma check to increase her individual or organizational influence with the members of the crowd by 1 rank or step. Or, if the crowd members' attitudes toward the agitator are indifferent or worse, this check can improve their attitudes by 1 step. The agitator can never use this ability to increase her individual or organizational influence or improve the crowd's attitude by more than 2 ranks or steps. This replaces the rogue talent gained at 4th level.
+**Enthralling Agitation (Su)**: At 4th level, an agitator can captivate a crowd once per day, as per the spell [*enthrall*](../../magic/spells/enthrall.md) (DC = 10 + 1/2 the agitator's rogue level + her Charisma modifier). During the spell's effect, the agitator can attempt a DC 15 Charisma check to increase her individual or organizational influence with the members of the crowd by 1 rank or step. Or, if the crowd members' attitudes toward the agitator are indifferent or worse, this check can improve their attitudes by 1 step. The agitator can never use this ability to increase her individual or organizational influence or improve the crowd's attitude by more than 2 ranks or steps. This replaces the rogue talent gained at 4th level.
 
-**Revolutionary's Cause (Su)**: At 8th level, the agitator can lift an enthralled crowd's emotions and turn them toward a common purpose. As a standard action after she has used her enthralling agitation, but before the enthrall effect wears off, she can target the affected creatures with a *suggestion* (DC = 10 + 1/2 her rogue level + her Charisma modifier) that has a duration of up to 1 day. This ability replaces the rogue talent gained at 8th level.
+**Revolutionary's Cause (Su)**: At 8th level, the agitator can lift an enthralled crowd's emotions and turn them toward a common purpose. As a standard action after she has used her enthralling agitation, but before the enthrall effect wears off, she can target the affected creatures with a [*suggestion*](../../magic/spells/suggestion.md) (DC = 10 + 1/2 her rogue level + her Charisma modifier) that has a duration of up to 1 day. This ability replaces the rogue talent gained at 8th level.
 
 **Leadership (Ex)**: At 12th level, an agitator gains Leadership as a bonus feat. If the agitator already has the Leadership feat, she doubles her Charisma modifier when calculating her base Leadership score. This replaces the rogue talent gained at 12th level.
 
@@ -884,11 +884,11 @@ The dreamthief is master of both waking and dreaming worlds. Each dreamthief bea
 
 Once per round when a dreamthief makes a melee attack, she can declare that attack to be a dreamstrike. This does not require an action, but a dreamthief must declare a dreamstrike before making the attack roll. A dreamstrike is treated as a slam attack for the purpose of emotional focus abilities that apply to a phantom's slam attacks, such as miserable strike. At 20th level, any melee attack a dreamthief makes automatically gains this benefit. This replaces sneak attack and master strike.
 
-**Lucid Dreamer (Ex)**: At 3rd level, a dreamthief can control her dreams, and gains Lucid Dreamer as a bonus feat. This replaces danger sense.
+**Lucid Dreamer (Ex)**: At 3rd level, a dreamthief can control her dreams, and gains [Lucid Dreamer](../../rules/feats/lucid-dreamer.md) as a bonus feat. This replaces danger sense.
 
 **Soothe Dreaming (Su)**: At 4th level, a dreamthief can steal negative emotions, freeing allies from harmful conditions. This acts as the mesmerist's touch treatment ability, treating her rogue level as her mesmerist level; a dreamthief can use this ability once per day for every 3 rogue levels she has. This replaces uncanny dodge.
 
-**Dream Infiltrator (Sp)**: A dreamthief can enter dreams, whether to learn secrets or meddle more directly. At 8th level, a dreamthief can cast *dream scan* once per day as a spell-like ability. At 12th level, once per day she can cast either *dream scan* or *dream travel* as a spell-like ability. The caster level of these spell-like abilities is equal to her rogue level. This replaces improved uncanny dodge and the rogue talent gained at 12th level.
+**Dream Infiltrator (Sp)**: A dreamthief can enter dreams, whether to learn secrets or meddle more directly. At 8th level, a dreamthief can cast [*dream scan*](../../magic/spells/dream-scan.md) once per day as a spell-like ability. At 12th level, once per day she can cast either *dream scan* or [*dream travel*](../../magic/spells/dream-travel.md) as a spell-like ability. The caster level of these spell-like abilities is equal to her rogue level. This replaces improved uncanny dodge and the rogue talent gained at 12th level.
 
 ## Vexing Dodger
 
@@ -912,11 +912,11 @@ Some combatants specialize in the study of certain weapons, but those without fo
 
 **Weapon Proficiency**: The makeshift scrapper is proficient with only simple weapons.
 
-**Improvised Weapons (Ex)**: At 1st level, a makeshift scrapper gains Catch Off-Guard and Throw Anything as bonus feats. This ability replaces trapfinding.
+**Improvised Weapons (Ex)**: At 1st level, a makeshift scrapper gains Catch Off-Guard and [Throw Anything](../../rules/feats/throw-anything.md) as bonus feats. This ability replaces trapfinding.
 
 **Supernatural Improvisation (Su)**: At 3rd level, a makeshift scrapper gains the ability to enhance an item, making it a more effective weapon or changing the way it can be used. As a swift action, she can alter a single improvised weapon to either grant it a +1 enhancement bonus on attack rolls and damage rolls or use it to gain a +1 shield bonus to her AC. The makeshift scrapper can use this ability for a number of rounds per day equal to her rogue level. These rounds need not be consecutive, and the makeshift scrapper can change the enhancement each time she activates the ability. The bonus increases by 1 every 4 levels thereafter, up to a maximum bonus of +5 at 19th level. This ability replaces danger sense.
 
-**Improvised Weapon Mastery (Ex)**: At 12th level, the makeshift scrapper gains Improvised Weapon Mastery as a bonus feat. This ability replaces the rogue talent gained at 12th level.
+**Improvised Weapon Mastery (Ex)**: At 12th level, the makeshift scrapper gains [Improvised Weapon Mastery](../../rules/feats/improvised-weapon-mastery.md) as a bonus feat. This ability replaces the rogue talent gained at 12th level.
 
 **Rogue Talents/Ninja Tricks**: The following rogue talents and ninja tricks complement the makeshift scrapper archetype: acrobat master, expert leaper, fast getaway, ki pool, offensive defense, peerless maneuver, and surprise attack.
 
@@ -982,11 +982,11 @@ Worshipers of dark powers congregate in the places between dark and light, searc
 
 **Shadow Dweller (Ex)**: A shadow scion gains darkvision with a range of 30 feet and a +1 competence bonus on Stealth checks in dim light and darkness. If she already has darkvision, the range of her darkvision increases by 10 feet. At 3rd level, and every 2 levels thereafter, the range of her darkvision increases by 10 feet and her bonus on Stealth checks increases by 1. This ability replaces trapfinding.
 
-**Shadow Strike**: At 2nd level, a shadow scion gains Shadow Strike as a bonus feat. An unchained rogue instead gains Blind-Fight as a bonus feat. This ability replaces the rogue talent gained at 2nd level.
+**Shadow Strike**: At 2nd level, a shadow scion gains [Shadow Strike](../../rules/feats/shadow-strike.md) as a bonus feat. An unchained rogue instead gains Blind-Fight as a bonus feat. This ability replaces the rogue talent gained at 2nd level.
 
-**Shadow Step (Sp)**: At 8th level, a shadow scion can walk through the Shadow Plane and reappear elsewhere on the Material Plane as a standard action. The shadow scion can travel up to 30 feet per rogue level per day in this fashion, either in a single round or broken up across multiple shadow steps. This movement must be used in increments of at least 5 feet and does not provoke attacks of opportunity. Travel through the Shadow Plane is imprecise; when the shadow scion arrives back on the Material Plane, she reenters 1 square off target, as per the rules for thrown splash weapons. If this would place her in an occupied square, she instead arrives in the nearest safe location. When the shadow scion arrives on the Material Plane, she is cloaked in shadow and gains concealment as per the *blur* spell for 1 round. This ability replaces the rogue talent gained at 8th level.
+**Shadow Step (Sp)**: At 8th level, a shadow scion can walk through the Shadow Plane and reappear elsewhere on the Material Plane as a standard action. The shadow scion can travel up to 30 feet per rogue level per day in this fashion, either in a single round or broken up across multiple shadow steps. This movement must be used in increments of at least 5 feet and does not provoke attacks of opportunity. Travel through the Shadow Plane is imprecise; when the shadow scion arrives back on the Material Plane, she reenters 1 square off target, as per the rules for thrown splash weapons. If this would place her in an occupied square, she instead arrives in the nearest safe location. When the shadow scion arrives on the Material Plane, she is cloaked in shadow and gains concealment as per the [*blur*](../../magic/spells/blur.md) spell for 1 round. This ability replaces the rogue talent gained at 8th level.
 
-**Shadow Speaker (Sp)**: At 14th level, a shadow scion can spend 1 minute meditating within a patch of dim light or darkness; at the end of the time, she can draw information from the shadows. This functions as *commune with nature*, except that it functions in any terrain to a radius of 100 feet per rogue level, and it cannot reveal information about any object or subject that is not currently in dim light or darkness. The shadow scion can use this ability once per day at 14th level and twice per day at 19th level. This ability replaces the rogue talent gained at 14th level.
+**Shadow Speaker (Sp)**: At 14th level, a shadow scion can spend 1 minute meditating within a patch of dim light or darkness; at the end of the time, she can draw information from the shadows. This functions as [*commune with nature*](../../magic/spells/commune-with-nature.md), except that it functions in any terrain to a radius of 100 feet per rogue level, and it cannot reveal information about any object or subject that is not currently in dim light or darkness. The shadow scion can use this ability once per day at 14th level and twice per day at 19th level. This ability replaces the rogue talent gained at 14th level.
 
 **Shadow Master (Su)**: At 20th level, whenever a shadow scion is in an area of dim light, she gains DR 10/cold iron and a +2 luck bonus on all saving throws. In addition, whenever she confirms a critical hit against a foe that is in an area of dim light, that foe is blinded for 1d6 rounds. This ability replaces master strike.
 
@@ -1014,7 +1014,7 @@ Shadow walkers are comfortable in light, darkness, and the shadows in between. F
 
 **Expanded Sight (Su)**: At 1st level, a shadow walker gains darkvision with a range of 30 feet. If she already has darkvision, the range of her darkvision increases by 10 feet. When the shadow walker reaches 3rd level, and every 2 rogue levels thereafter, the range of her darkvision increases by 10 feet. Also at 3rd level, the shadow walker loses the light sensitivity weakness, if she has it. If she has light blindness, she instead treats it as light sensitivity. This ability replaces trapfinding.
 
-**Illumination Control (Sp)**: At 3rd level, a shadow walker can manipulate nearby illumination. At the start of each day, a shadow walker gains a number of illumination points equal to half her rogue level and can spend illumination points to use certain spell-like abilities. As long as she has at least 1 illumination point, she can cast *light* at will. She can spend 2 illumination points to cast *darkness*, and 3 illumination points to cast *daylight*, *deeper darkness*, or [motes of dusk and dawn](../../magic/spells/motes-of-dusk-and-dawn.md). These spell-like abilities have a caster level equal to the shadow walker's rogue level. Using these spell-like abilities does not hamper the shadow walker's vision; for example, she can see through the *deeper darkness* she creates, and does not take penalties for light sensitivity in the area of her own *daylight*. This ability replaces the rogue talent gained at 2nd level and danger sense.
+**Illumination Control (Sp)**: At 3rd level, a shadow walker can manipulate nearby illumination. At the start of each day, a shadow walker gains a number of illumination points equal to half her rogue level and can spend illumination points to use certain spell-like abilities. As long as she has at least 1 illumination point, she can cast [*light*](../../magic/spells/light.md) at will. She can spend 2 illumination points to cast [*darkness*](../../magic/spells/darkness.md), and 3 illumination points to cast [*daylight*](../../magic/spells/daylight.md), [*deeper darkness*](../../magic/spells/deeper-darkness.md), or [motes of dusk and dawn](../../magic/spells/motes-of-dusk-and-dawn.md). These spell-like abilities have a caster level equal to the shadow walker's rogue level. Using these spell-like abilities does not hamper the shadow walker's vision; for example, she can see through the *deeper darkness* she creates, and does not take penalties for light sensitivity in the area of her own *daylight*. This ability replaces the rogue talent gained at 2nd level and danger sense.
 
 **Favored Illumination (Su)**: At 4th level, a shadow walker chooses one illumination level: bright light, normal light, dim light, or darkness (including supernatural darkness). While she is within her chosen illumination level, she gains a +2 bonus on initiative checks and Acrobatics, Perception, and Sleight of Hand skill checks, and can take 10 on any Stealth check attempted within that illumination level. When the shadow walker confirms a critical hit with a melee attack that deals sneak attack damage while in her chosen illumination level, she regains 1 illumination point (to a maximum of half her rogue level). Confirming a critical hit on a creature that has fewer Hit Dice than half the shadow walker's character level doesn't restore illumination points. When the shadow walker reaches 6th level, and every 3 rogue levels thereafter, the bonuses she gains within her chosen illumination level increase by 1. This ability replaces the rogue's uncanny dodge and improved uncanny dodge.
 
@@ -1030,11 +1030,11 @@ Relic raiders are rogues who specialize in recovering treasures from ruins and t
 
 In addition, the relic raider gains a +1 bonus on saving throws against curses and haunts and a +1 dodge bonus to AC against attacks by haunts. These bonuses increase by 1 at 6th level and every 3 rogue levels thereafter (to a maximum of +6 at 18th level). This ability replaces uncanny dodge.
 
-**Disable Curse (Su)**: At 8th level, a relic raider can attempt to disable a curse as she would a magical trap. This ability acts as *remove curse*, except instead of a caster level check, the relic raider attempts a Disable Device check (DC = 15 + the DC of the curse). Disabling a curse takes 2d4 rounds, and the relic raider cannot take 10 or 20 on this check. A relic raider can use this ability once per day at 8th level. At 12th level and every 4 rogue levels thereafter, a relic raider can use disable curse one additional time per day. This ability replaces improved uncanny dodge.
+**Disable Curse (Su)**: At 8th level, a relic raider can attempt to disable a curse as she would a magical trap. This ability acts as [*remove curse*](../../magic/spells/remove-curse.md), except instead of a caster level check, the relic raider attempts a Disable Device check (DC = 15 + the DC of the curse). Disabling a curse takes 2d4 rounds, and the relic raider cannot take 10 or 20 on this check. A relic raider can use this ability once per day at 8th level. At 12th level and every 4 rogue levels thereafter, a relic raider can use disable curse one additional time per day. This ability replaces improved uncanny dodge.
 
 **Advanced Talents**: A relic raider can select the following advanced talents. Talents marked with an asterisk add effects to a rogue's sneak attack. Only one of these talents can be applied to an individual attack, and the decision must be made before making the attack roll.
 
-*Cursed Strike\* (Su)*: Once per day, when the relic raider would normally deal sneak attack damage, she can instead forgo all bonus damage to attempt to curse her target (as per the spell *bestow curse*). The save is DC equal to 10 + 1/2 the relic raider's rogue level + her Intelligence modifier. A relic raider must have the major magic rogue talent before choosing cursed strike. The relic raider can use this ability an additional time per day at 15th level and 20th level.
+*Cursed Strike\* (Su)*: Once per day, when the relic raider would normally deal sneak attack damage, she can instead forgo all bonus damage to attempt to curse her target (as per the spell [*bestow curse*](../../magic/spells/bestow-curse.md)). The save is DC equal to 10 + 1/2 the relic raider's rogue level + her Intelligence modifier. A relic raider must have the major magic rogue talent before choosing cursed strike. The relic raider can use this ability an additional time per day at 15th level and 20th level.
 
 *Etheric Strike\* (Su)*: With a successful sneak attack against haunts or undead, the relic raider can deal her sneak attack damage as positive energy damage rather than physical damage. The additional damage affects undead that are normally immune to sneak attacks because of their lack of a discernible anatomy (such as ghosts). A relic raider can make an etheric strike a number of times per day equal to 3 + her Charisma modifier.
 
@@ -1125,7 +1125,7 @@ Smugglers specialize in moving contraband from one area to another while avoidin
 
 This replaces the ninja trick gained at 2nd level.
 
-**Burst of Blossoms (Su)**: At 4th level, a petal ninja gains the ability to transform into a cloud of blossoms as a standard action. By spending 1 point from her ki pool, a petal ninja can take the form of a cloud of blossoms, becoming insubstantial for 1 round, as *gaseous form*. While insubstantial she also gains a +4 circumstance bonus on Stealth checks. At 8th level, the duration increases to a number of rounds equal to 1 plus the petal ninja's Charisma modifier. This replaces no trace, uncanny dodge, and improved uncanny dodge.
+**Burst of Blossoms (Su)**: At 4th level, a petal ninja gains the ability to transform into a cloud of blossoms as a standard action. By spending 1 point from her ki pool, a petal ninja can take the form of a cloud of blossoms, becoming insubstantial for 1 round, as [*gaseous form*](../../magic/spells/gaseous-form.md). While insubstantial she also gains a +4 circumstance bonus on Stealth checks. At 8th level, the duration increases to a number of rounds equal to 1 plus the petal ninja's Charisma modifier. This replaces no trace, uncanny dodge, and improved uncanny dodge.
 
 **Sundial (Su)**: At 6th level, the petal ninja gains the ability to change the lighting in a 30-foot-radius emanation centered on herself as a move action. For every ki point she spends, the light levels change by one step (from darkness to dim light, normal light, and bright light, and vice versa). This change remains in effect for 1 minute. This replaces light steps.
 
@@ -1149,7 +1149,7 @@ This replaces the ninja trick gained at 2nd level.
 
 **Undercover Faith (Ex)**: At 1st level, when not wearing his mask, a masked enforcer can take on an utterly mundane identity as if he were a vigilante with the many guises social talent. While in a mundane identity, the masked enforcer cannot wear his mask; putting it on while in a mundane identity immediately ends the mundane identity and its effects. Changing into this mundane identity takes 1 minute and must be done out of sight to preserve the masked enforcer's secret. The time it takes the masked enforcer to change into a mundane identity cannot be decreased. This replaces poison use.
 
-**Expurgate (Sp)**: The role of a masked enforcer is to silence heretics and blasphemers, and he is an expert at rendering even the most glib of his foes into babbling fools. At 2nd level, when he deals damage to a target, he can expend 1 point from his ki pool to affect that target as if he had cast *fumbletongue*, using his ninja level as his caster level. The target can attempt a Will saving throw (DC = 10 + half the ninja's level + his Charisma modifier) to negate this effect. At 6th level, the target of this ability is instead struck entirely mute for 1d4 rounds unless it succeeds at a Will saving throw. The masked enforcer cannot spend a point from his ki pool to make an additional attack. This alters ki pool.
+**Expurgate (Sp)**: The role of a masked enforcer is to silence heretics and blasphemers, and he is an expert at rendering even the most glib of his foes into babbling fools. At 2nd level, when he deals damage to a target, he can expend 1 point from his ki pool to affect that target as if he had cast [*fumbletongue*](../../magic/spells/fumbletongue.md), using his ninja level as his caster level. The target can attempt a Will saving throw (DC = 10 + half the ninja's level + his Charisma modifier) to negate this effect. At 6th level, the target of this ability is instead struck entirely mute for 1d4 rounds unless it succeeds at a Will saving throw. The masked enforcer cannot spend a point from his ki pool to make an additional attack. This alters ki pool.
 
 **Stern Gaze (Ex)**: A masked enforcer is trained to sense deception and strike fear into the hearts of his foes. At 3rd level, he gains a morale bonus equal to half his ninja level on Intimidate and Sense Motive checks. This replaces no trace.
 
@@ -1163,9 +1163,9 @@ This replaces the ninja trick gained at 2nd level.
 
 **Obfuscation (Su)**: A discretion specialist is highly skilled at convincing others not to trust their own senses. At 3rd level as a full-round action, the discretion specialist can convince one living creature within 30 feet that up to 5 minutes of its memories from the past hour are unreliable. If the target fails a Will saving throw (DC = 10 + half the discretion specialist's rogue level + her Intelligence modifier), the target is convinced that those memories didn't happen or that it's confusing the memories with a dream (or is otherwise hazy as to the memories' reality). Each hour after the discretion specialist uses this ability, the target can attempt a new Will saving throw to realize that its relevant memories have been tampered with, although not necessarily that the discretion specialist was the originator of the tampering. The discretion specialist can use this ability once per day, and one additional time per day for every 5 rogue levels she has. At 6th level and every 3 levels thereafter, the discretion specialist can obfuscate memories from an additional hour in the past (to a maximum of 6 hours at 18th level). This replaces danger sense (for a core rogue) or danger sense (for an unchained rogue).
 
-**Evidence Disposal (Sp)**: A discretion specialist can cover up a corpse's cause of death—or dispose of it entirely. At 4th level, the discretion specialist gains the ability to cast *dress corpse* as a spell-like ability, using her rogue level as her caster level. She can use this ability once per day, plus one additional time per day for every 5 rogue levels she has (to a maximum of five times at 20th level). At 12th level, she can spend two uses of this ability to disintegrate a corpse entirely as a full-round action, leaving behind only a trace of fine dust (a disintegrated creature's equipment is unaffected). The target cannot be an undead creature. A corpse disintegrated this way cannot be brought back to life except by *resurrection* or more powerful magic, including *miracle* or *wish*. This replaces the rogue talents gained at 4th and 12th levels.
+**Evidence Disposal (Sp)**: A discretion specialist can cover up a corpse's cause of death—or dispose of it entirely. At 4th level, the discretion specialist gains the ability to cast [*dress corpse*](../../magic/spells/dress-corpse.md) as a spell-like ability, using her rogue level as her caster level. She can use this ability once per day, plus one additional time per day for every 5 rogue levels she has (to a maximum of five times at 20th level). At 12th level, she can spend two uses of this ability to disintegrate a corpse entirely as a full-round action, leaving behind only a trace of fine dust (a disintegrated creature's equipment is unaffected). The target cannot be an undead creature. A corpse disintegrated this way cannot be brought back to life except by [*resurrection*](../../magic/spells/resurrection.md) or more powerful magic, including [*miracle*](../../magic/spells/miracle.md) or [*wish*](../../magic/spells/wish.md). This replaces the rogue talents gained at 4th and 12th levels.
 
-**No Loose Ends (Ex)**: At 4th level, the discretion specialist can prevent opponents from escaping. Opponents damaged by the discretion specialist's sneak attack are unable to take the withdraw action for 1 round, though they can still move as normal. At 8th level, a creature damaged by the discretion specialist's sneak attack is hampered in casting spells of the teleportation subschool (such as *dimension door*) as well as using methods of magical transport such as *shadow walk*. A target attempting to cast such a spell before the end of the discretion specialist's next turn must succeed at a concentration check (in addition to any concentration checks required for casting while threatened or other circumstances) or lose the spell. The DC of this check is equal to 10 + half the discretion specialist's rogue level + her Intelligence modifier. This replaces uncanny dodge and improved uncanny dodge.
+**No Loose Ends (Ex)**: At 4th level, the discretion specialist can prevent opponents from escaping. Opponents damaged by the discretion specialist's sneak attack are unable to take the withdraw action for 1 round, though they can still move as normal. At 8th level, a creature damaged by the discretion specialist's sneak attack is hampered in casting spells of the teleportation subschool (such as *dimension door*) as well as using methods of magical transport such as [*shadow walk*](../../magic/spells/shadow-walk.md). A target attempting to cast such a spell before the end of the discretion specialist's next turn must succeed at a concentration check (in addition to any concentration checks required for casting while threatened or other circumstances) or lose the spell. The DC of this check is equal to 10 + half the discretion specialist's rogue level + her Intelligence modifier. This replaces uncanny dodge and improved uncanny dodge.
 
 **Rogue Talents**: The following rogue talents complement this archetype: camouflage, charmer, convincing lie, honeyed words, and quick disguise.
 
@@ -1177,7 +1177,7 @@ The construct saboteur harnesses arcane energy to combat the golems and eldritch
 
 **Class Skills**: A construct saboteur has Knowledge (arcana) and Knowledge (engineering) as class skills, but not Knowledge (dungeoneering) or Knowledge (local).
 
-**Arcane Strike (Ex)**: A construct saboteur gains Arcane Strike as a bonus feat, even if she does not meet the prerequisites, using her construct saboteur class level in place of her caster level for the feat's effects. This replaces trapfinding.
+**Arcane Strike (Ex)**: A construct saboteur gains [Arcane Strike](../../rules/feats/arcane-strike.md) as a bonus feat, even if she does not meet the prerequisites, using her construct saboteur class level in place of her caster level for the feat's effects. This replaces trapfinding.
 
 **Arcane Sabotage (Su)**: At 2nd level, whenever she uses Arcane Strike to attack a construct, she can activate one sabotage ability she has gained. She gains one at 2nd level and can thereafter select any sabotage ability in place of a rogue talent. The DC for any that requires a saving throw is 10 + half the saboteur's level + her Intelligence modifier. This replaces the rogue talent gained at 2nd level.
 

@@ -4,7 +4,7 @@
 
 You use projectiles and special trick shots that lose less accuracy when underwater.
 
-**Prerequisites**: Far Shot, Point-Blank Shot, base attack bonus +4.
+**Prerequisites**: [Far Shot](far-shot.md), [Point-Blank Shot](point-blank-shot.md), base attack bonus +4.
 
 **Benefit**: Your projectile attacks take a –1 penalty per 5 feet of water between you and the target. You still can't use thrown weapons effectively underwater except in special circumstances.
 

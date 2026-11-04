@@ -46,17 +46,17 @@ An attack roll represents your attempt to strike your opponent on your turn in a
 
 Your attack bonus with a melee weapon is the following:
 
-** Base attack bonus + Strength modifier + size modifier**
+**Base attack bonus + Strength modifier + size modifier**
 
 With a ranged weapon, your attack bonus is the following:
 
-** Base attack bonus + Dexterity modifier + size modifier + range penalty**
+**Base attack bonus + Dexterity modifier + size modifier + range penalty**
 
 ## Armor Class
 
 Your Armor Class (AC) represents how hard it is for opponents to land a solid, damaging blow on you. It’s the attack roll result that an opponent needs to achieve to hit you. Your AC is equal to the following:
 
-** 10 + armor bonus + shield bonus + Dexterity modifier + other modifiers**
+**10 + armor bonus + shield bonus + Dexterity modifier + other modifiers**
 
 Note that armor limits your Dexterity bonus, so if you’re wearing armor, you might not be able to apply your whole Dexterity bonus to your AC (see Table 6–6).
 
@@ -152,7 +152,7 @@ If you use two move actions in a round (sometimes called a “double move” act
 
 Generally, when you are subject to an unusual or magical attack, you get a saving throw to avoid or reduce the effect. Like an attack roll, a saving throw is a d20 roll plus a bonus based on your class and level (see Chapter 3), and an associated ability score. Your saving throw modifier is:
 
-** Base save bonus + ability modifier**
+**Base save bonus + ability modifier**
 
 **Saving Throw Types**: The three different kinds of saving throws are Fortitude, Reflex, and Will:
 

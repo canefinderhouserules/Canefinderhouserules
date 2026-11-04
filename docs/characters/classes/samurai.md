@@ -75,7 +75,7 @@ A samurai who wishes to change his order must undertake a lengthy process to ded
 
 **Unstoppable**: When the samurai is reduced to fewer than 0 hit points but not slain, he can spend one use of his resolve as an immediate action to instantly stabilize and remain conscious. He is staggered, but he does not fall unconscious and begin dying if he takes a standard action. He does fall unconscious if he takes additional damage from any source.
 
-**Weapon Expertise (Ex)**: At 3rd level, a samurai gains an unparalleled expertise with his chosen weapons. At 3rd level, the samurai selects either the katana, longbow, naginata, or wakizashi. The samurai can draw the selected weapon as a free action as if he had the Quick Draw feat. In addition, whenever he threatens a critical hit with the selected weapon, he gains a +2 bonus on the confirmation roll. Finally, his samurai levels count as fighter levels and stack with any fighter levels he possesses for the purposes of meeting the prerequisites for feats that specifically select his chosen weapon, such as Weapon Specialization.
+**Weapon Expertise (Ex)**: At 3rd level, a samurai gains an unparalleled expertise with his chosen weapons. At 3rd level, the samurai selects either the katana, longbow, naginata, or wakizashi. The samurai can draw the selected weapon as a free action as if he had the [Quick Draw](../../rules/feats/quick-draw.md) feat. In addition, whenever he threatens a critical hit with the selected weapon, he gains a +2 bonus on the confirmation roll. Finally, his samurai levels count as fighter levels and stack with any fighter levels he possesses for the purposes of meeting the prerequisites for feats that specifically select his chosen weapon, such as [Weapon Specialization](../../rules/feats/weapon-specialization.md).
 
 **Mounted Archer (Ex)**: At 4th level, the samurai becomes skilled at firing ranged weapons while mounted. A samurai only takes a –2 penalty on attack rolls with ranged weapons while his mount takes a double move. This penalty increases to –4 while his mount is running.
 
@@ -115,7 +115,7 @@ Samurai of the order of the songbird are artists, scholars, and poets. They trea
 
 **Poetic Inspiration (Ex)**: At 8th level, an order of the songbird samurai can speak a few words as a swift action, inspiring allies to great deeds. Allies within 30 feet who can hear the samurai gain a competence bonus equal to her Charisma modifier on attack and weapon damage rolls for 1 round. This ability can be used once per combat.
 
-**Beautiful Strike (Su)**: At 15th level, once per day when the order of the songbird samurai confirms a critical hit against the target of her challenge, she can declare it a beautiful strike without spending an action. The damage dealt by the attack becomes nonlethal damage, and the target must succeed at a Will save (DC = 10 + half the samurai's class level + her Charisma modifier) or be charmed as per *charm monster* (caster level equals the samurai's class level).
+**Beautiful Strike (Su)**: At 15th level, once per day when the order of the songbird samurai confirms a critical hit against the target of her challenge, she can declare it a beautiful strike without spending an action. The damage dealt by the attack becomes nonlethal damage, and the target must succeed at a Will save (DC = 10 + half the samurai's class level + her Charisma modifier) or be charmed as per [*charm monster*](../../magic/spells/charm-monster.md) (caster level equals the samurai's class level).
 
 ### Order of the Warrior
 
@@ -186,11 +186,11 @@ While some martial arts traditions focus on the strength of the body, most schoo
 
 **Weapon and Armor Proficiency**: Brawling blademasters are proficient with all simple and martial weapons, plus the katana and wakizashi. Brawling blademasters are proficient with light armor, but not with shields. This alters the samurai's weapon and armor proficiency.
 
-**Empty Hand (Ex)**: A brawling blademaster gains Improved Unarmed Strike as a bonus feat. She uses her samurai level as her monk level for determining the amount of damage she deals with an unarmed strike. These levels stack with monk levels to determine the brawling blademaster's unarmed strike damage. This replaces mount.
+**Empty Hand (Ex)**: A brawling blademaster gains [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat. She uses her samurai level as her monk level for determining the amount of damage she deals with an unarmed strike. These levels stack with monk levels to determine the brawling blademaster's unarmed strike damage. This replaces mount.
 
 **Nimble (Ex)**: At 2nd level, a brawling blademaster gains the gunslinger's nimble class feature, using her samurai level as her gunslinger level.
 
-**Dual Expertise (Ex)**: At 3rd level, a brawling blademaster gains Two-Weapon Fighting as a bonus feat, even if she doesn't meet the prerequisites. Furthermore, when the brawling blademaster selects a feat with the bonus feat class feature, she can ignore any Dexterity requirements for the feat if its prerequisites include the Two-Weapon Fighting feat. This replaces weapon expertise.
+**Dual Expertise (Ex)**: At 3rd level, a brawling blademaster gains [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md) as a bonus feat, even if she doesn't meet the prerequisites. Furthermore, when the brawling blademaster selects a feat with the bonus feat class feature, she can ignore any Dexterity requirements for the feat if its prerequisites include the Two-Weapon Fighting feat. This replaces weapon expertise.
 
 **Harmonious Flow (Ex)**: At 4th level, the brawling blademaster becomes skilled at combining weapon attacks and unarmed strikes into a harmonious combat style. When attacking the target of her challenge, the brawling blademaster doesn't take the usual –2 penalty on attack rolls associated with attacking with two weapons if her main-hand weapon is a light or one-handed manufactured weapon and her off-hand weapon is an unarmed strike (or vice versa). While she's using this ability, one of her hands must be empty even if she uses another body part to make an unarmed strike. This replaces mounted archer.
 

@@ -18,7 +18,7 @@ All of the following are class features of the druid.
 
 **Weapon and Armor Proficiency**: Druids are proficient with the following weapons: club, dagger, dart, quarterstaff, scimitar, scythe, sickle, shortspear, sling, and spear. They are also proficient with all natural attacks (claw, bite, and so forth) of any form they assume with wild shape (see below).
 
-Druids are proficient with light and medium armor but are prohibited from wearing metal armor; thus, they may wear only padded, leather, or hide armor. A druid may also wear wooden armor that has been altered by the *ironwood* spell so that it functions as though it were steel. Druids are proficient with shields (except tower shields) but must use only those crafted from wood.
+Druids are proficient with light and medium armor but are prohibited from wearing metal armor; thus, they may wear only padded, leather, or hide armor. A druid may also wear wooden armor that has been altered by the [*ironwood*](../../magic/spells/ironwood.md) spell so that it functions as though it were steel. Druids are proficient with shields (except tower shields) but must use only those crafted from wood.
 
 A druid who wears prohibited armor or uses a prohibited shield is unable to cast druid spells or use any of her supernatural or spell-like class abilities while doing so and for 24 hours thereafter.
 
@@ -112,7 +112,7 @@ At 12th level, a druid can also use wild shape to change into a Huge elemental o
 
 ## Ex-Druids
 
-A druid who ceases to revere nature, changes to a prohibited alignment, or teaches the Druidic language to a nondruid loses all spells and druid abilities (including her animal companion, but not including weapon, armor, and shield proficiencies). She cannot thereafter gain levels as a druid until she atones (see the *atonement* spell description).
+A druid who ceases to revere nature, changes to a prohibited alignment, or teaches the Druidic language to a nondruid loses all spells and druid abilities (including her animal companion, but not including weapon, armor, and shield proficiencies). She cannot thereafter gain levels as a druid until she atones (see the [*atonement*](../../magic/spells/atonement.md) spell description).
 
 ## Animal Companions
 
@@ -187,7 +187,7 @@ Animal companions can have ranks in any of the following skills: Acrobatics* (De
 
 ## Animal Feats
 
-Animal companions can select from the following feats: Acrobatic, Agile Maneuvers, Armor Proficiency (light, medium, and heavy), Athletic, Blind-Fight, Combat Reflexes, Diehard, Dodge, Endurance, Great Fortitude, Improved Bull Rush, Improved Initiative, Improved Natural Armor (see the *Pathfinder RPG Bestiary*), Improved Natural Attack (see the *Pathfinder RPG* *Bestiary*), Improved Overrun, Intimidating Prowess, Iron Will, Lightning Reflexes, Mobility, Power Attack, Run, Skill Focus, Spring Attack, Stealthy, Toughness, Weapon Finesse, and Weapon Focus. Animal companions with an Intelligence of 3 or higher can select any feat they are physically capable of using. GMs might expand this list to include feats from other sources.
+Animal companions can select from the following feats: Acrobatic, [Agile Maneuvers](../../rules/feats/agile-maneuvers.md), Armor Proficiency (light, medium, and heavy), Athletic, Blind-Fight, [Combat Reflexes](../../rules/feats/combat-reflexes.md), Diehard, Dodge, Endurance, [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Improved Natural Armor (see the *Pathfinder RPG Bestiary*), Improved Natural Attack (see the *Pathfinder RPG* *Bestiary*), [Improved Overrun](../../rules/feats/improved-overrun.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Mobility, [Power Attack](../../rules/feats/power-attack.md), Run, Skill Focus, [Spring Attack](../../rules/feats/spring-attack.md), Stealthy, Toughness, [Weapon Finesse](../../rules/feats/weapon-finesse.md), and Weapon Focus. Animal companions with an Intelligence of 3 or higher can select any feat they are physically capable of using. GMs might expand this list to include feats from other sources.
 
 ## Animal Choices
 

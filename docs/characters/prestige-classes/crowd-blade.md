@@ -25,7 +25,7 @@ To qualify to become a crowd blade, a character must fulfill all of the followin
 
 **Alignment**: Any neutral.
 
-**Feats**: Deceitful, Improved Initiative, Skill Focus (Perform).
+**Feats**: Deceitful, [Improved Initiative](../../rules/feats/improved-initiative.md), Skill Focus (Perform).
 
 **Skills**: Bluff 3 ranks, Disguise 5 ranks, Stealth 5 ranks, either Perform (sing) or Perform (act) 3 ranks.
 
@@ -57,13 +57,13 @@ The following are class features of the crowd blade prestige class.
 
 **Sneak Attack (Ex)**: At 2nd level, a crowd blade gains sneak attack +1d6, as the rogue ability. This extra damage increases by 1d6 at both 6th level and 10th level. These increases stack with sneak attack damage granted by other sources.
 
-**Unexpected Suggestion (Su)**: At 3rd level, once per day, a crowd blade can use *suggestion* on a flat-footed target. Her caster level is equal to her crowd blade level. The save DC is equal to 10 + 1/2 the crowd blade’s ranks in Bluff + her Intelligence modifier.
+**Unexpected Suggestion (Su)**: At 3rd level, once per day, a crowd blade can use [*suggestion*](../../magic/spells/suggestion.md) on a flat-footed target. Her caster level is equal to her crowd blade level. The save DC is equal to 10 + 1/2 the crowd blade’s ranks in Bluff + her Intelligence modifier.
 
 **Hide in the Crowd (Su)**: At 3rd level, a crowd blade can use the Stealth skill even when the only cover she has is that provided by other creatures.
 
 **Expeditious Advance (Ex)**: At 4th level, a crowd blade’s land speed is faster than normal for her race by 10 feet. This benefit applies only when she is wearing no armor or light armor and not carrying a heavy load. Apply this bonus before modifying the crowd blade’s speed because of any load carried or armor worn.
 
-**Perfect Surprise (Ex)**: At 4th level, a crowd blade can deliver a devastating blow to anyone she catches unaware. Whenever she hits a foe with a sneak attack at the end of a charge or while using Spring Attack, she can make the blow a perfect surprise as an immediate action. The target must succeed at a Fortitude saving throw (DC = 10 + the crowd blade’s class level + her Intelligence modifier) or fall unconscious for 1 round per crowd blade level. Once targeted by this ability, a victim is immune to perfect surprise for 24 hours.
+**Perfect Surprise (Ex)**: At 4th level, a crowd blade can deliver a devastating blow to anyone she catches unaware. Whenever she hits a foe with a sneak attack at the end of a charge or while using [Spring Attack](../../rules/feats/spring-attack.md), she can make the blow a perfect surprise as an immediate action. The target must succeed at a Fortitude saving throw (DC = 10 + the crowd blade’s class level + her Intelligence modifier) or fall unconscious for 1 round per crowd blade level. Once targeted by this ability, a victim is immune to perfect surprise for 24 hours.
 
 **Crowd Strike (Ex)**: When a crowd blade reaches 6th level, all crowd squares count as enemies threatening adjacent squares for the purpose of determining whether the crowd blade is flanking an opponent. In addition, she can use the Stealth skill to snipe at foes even when making melee attacks as long as she attacks from a square containing at least one other creature within one size category of her.
 

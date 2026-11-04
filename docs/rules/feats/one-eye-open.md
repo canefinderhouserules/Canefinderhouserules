@@ -2,7 +2,7 @@
 
 Your senses seek out threats even while you sleep.
 
-**Prerequisites**: Wis 13, Alertness.
+**Prerequisites**: Wis 13, [Alertness](alertness.md).
 
 **Benefit**: The DCs of your Perception checks don’t increase when you are asleep. If you succeed at a Perception check to notice something dangerous while asleep, you can wake up to confront the danger.
 

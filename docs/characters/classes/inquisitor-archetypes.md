@@ -38,9 +38,9 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 
 **Granted Powers**: Your connections to the criminal underworld run deeper than the physical, and your spiritual criminality grants you underhanded powers.
 
-**Criminal Minds (Sp)**: You can touch a creature and fill its mind with criminal impulses. This otherwise functions as per *crime of opportunity*, though a target that fails its saving throw and acts on an impulse gets those desires out of its system and becomes immune to the effects of your criminal minds ability for 24 hours. You can use this ability a number of times per day equal to 3 + your Wisdom modifier (minimum 1).
+**Criminal Minds (Sp)**: You can touch a creature and fill its mind with criminal impulses. This otherwise functions as per [*crime of opportunity*](../../magic/spells/crime-of-opportunity.md), though a target that fails its saving throw and acts on an impulse gets those desires out of its system and becomes immune to the effects of your criminal minds ability for 24 hours. You can use this ability a number of times per day equal to 3 + your Wisdom modifier (minimum 1).
 
-**Thief’s Soul (Ex)**: At 8th level, you gain Improved Steal, Greater Steal, and Quick Steal as bonus feats, even if you don’t meet the prerequisites.
+**Thief’s Soul (Ex)**: At 8th level, you gain [Improved Steal](../../rules/feats/improved-steal.md), [Greater Steal](../../rules/feats/greater-steal.md), and [Quick Steal](../../rules/feats/quick-steal.md) as bonus feats, even if you don’t meet the prerequisites.
 
 ### Excommunication Inquisition
 
@@ -48,7 +48,7 @@ Marked by your deity for your impressive will, you are among the few with the wh
 
 **Granted Powers**: You can repulse the influence of confused divine servants.
 
-**Touch of Silence (Su)**: With a melee touch attack, you render a target silent (as the spell *silence*, but only affecting the target) for 1 round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+**Touch of Silence (Su)**: With a melee touch attack, you render a target silent (as the spell [*silence*](../../magic/spells/silence.md), but only affecting the target) for 1 round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 **Excommunicate (Su)**: At 8th level, once per day, you can silence a creature within 30 feet as a standard action. A Will save against DC = 10 + 1/2 your inquisitor level + your Wisdom modifier negates the effect. A creature that fails its save gets a second save 1 round later. If it fails the second save, the target cannot speak, provide verbal components for spells, make use of language-dependent effects, write, pantomime, or take any other action meant to communicate anything more complex than a simple affirmative or negative for 1 day.
 
@@ -104,7 +104,7 @@ Your deity inspires you with hope that wayward members of your faith can be brou
 
 **Redeemer's Mercy (Su)**: At 4th level, any weapon you wield gains the *merciful* magic weapon special ability. The weapon immediately reverts to its original abilities when you cease to wield it.
 
-**Second Chance (Sp)**: At 8th level, you can give an enemy a second chance to correct the error of its ways. Once per day as a standard action, you can cast *atonement* as a spell-like ability, targeting a creature that has violated the tenets of a religion you both share or that freely desires to convert to your alignment. If costly material components are required for the *atonement*, you may choose to accept a permanent negative level as a sacrifice in place of those components. The target of this effect also receives the benefits of a *cure serious wounds* spell as part of the effects of the *atonement*.
+**Second Chance (Sp)**: At 8th level, you can give an enemy a second chance to correct the error of its ways. Once per day as a standard action, you can cast [*atonement*](../../magic/spells/atonement.md) as a spell-like ability, targeting a creature that has violated the tenets of a religion you both share or that freely desires to convert to your alignment. If costly material components are required for the *atonement*, you may choose to accept a permanent negative level as a sacrifice in place of those components. The target of this effect also receives the benefits of a [*cure serious wounds*](../../magic/spells/cure-serious-wounds.md) spell as part of the effects of the *atonement*.
 
 ### Reformation Inquisition
 
@@ -116,15 +116,15 @@ Moved by divine disapproval of your church's mistakes, you seek to correct them 
 
 **Blessed Correction (Ex)**: At 4th level, when you make a Diplomacy, Intimidate, or Perform (oratory) check, you may roll twice and take the more favorable result. You can use this ability a number of times per day equal to your Wisdom bonus.
 
-**Awaken Discontent (Su)**: At 8th level, you can deliver a stirring speech condemning the mistakes of those in power and calling for reform, causing the target of your rhetoric to be affected by *charm person* with a caster level equal to your inquisitor level and a save DC of 10 + 1/2 your inquisitor level + your Wisdom modifier. You may use this ability a number of times per day equal to your Wisdom modifier.
+**Awaken Discontent (Su)**: At 8th level, you can deliver a stirring speech condemning the mistakes of those in power and calling for reform, causing the target of your rhetoric to be affected by [*charm person*](../../magic/spells/charm-person.md) with a caster level equal to your inquisitor level and a save DC of 10 + 1/2 your inquisitor level + your Wisdom modifier. You may use this ability a number of times per day equal to your Wisdom modifier.
 
 ### Secrets Inquisition
 
 **Granted Powers**: You have learned to keep your own secrets close, and your enemies’ secrets closer.
 
-**Detect Secrets (Su)**: You have learned how to detect any of a creature’s secrets, not just its thoughts. Whenever you cast *detect anxieties*, *detect desires*, or *detect thoughts* or use any of those spells as a spell-like ability, you can choose to gain the effects of one of the other two spells instead. You are never overwhelmed by a target of these spells that has a high ability score.
+**Detect Secrets (Su)**: You have learned how to detect any of a creature’s secrets, not just its thoughts. Whenever you cast [*detect anxieties*](../../magic/spells/detect-anxieties.md), [*detect desires*](../../magic/spells/detect-desires.md), or [*detect thoughts*](../../magic/spells/detect-thoughts.md) or use any of those spells as a spell-like ability, you can choose to gain the effects of one of the other two spells instead. You are never overwhelmed by a target of these spells that has a high ability score.
 
-**Closed Book (Sp)**: At 8th level, it becomes difficult for your foes to unveil your secrets. You are constantly under the effect of *nondetection*, as if you cast the spell on yourself.
+**Closed Book (Sp)**: At 8th level, it becomes difficult for your foes to unveil your secrets. You are constantly under the effect of [*nondetection*](../../magic/spells/nondetection.md), as if you cast the spell on yourself.
 
 ### Clandestine Inquisition
 
@@ -150,7 +150,7 @@ Moved by divine disapproval of your church's mistakes, you seek to correct them 
 
 **Labyrinthine Words (Ex)**: You add your Wisdom modifier in addition to your Charisma modifier on Bluff checks to lie and Diplomacy checks to influence other creatures.
 
-**Heart’s Desire (Sp)**: At 8th level, you receive divine guidance on the goals of your political allies and rivals. Once per day, you can use *commune* as a spell-like ability using your inquisitor level as your caster level, but only to ask questions about others’ goals.
+**Heart’s Desire (Sp)**: At 8th level, you receive divine guidance on the goals of your political allies and rivals. Once per day, you can use [*commune*](../../magic/spells/commune.md) as a spell-like ability using your inquisitor level as your caster level, but only to ask questions about others’ goals.
 
 ### Sedition Inquisition
 
@@ -201,7 +201,7 @@ Moved by divine disapproval of your church's mistakes, you seek to correct them 
 
 **Granted Powers**: Some must learn that to submit to one’s fate often means submitting to your form of justice.
 
-**Judicious Force (Su)**: If you or an ally within 10 feet makes a critical threat with a melee or ranged attack, as an immediate action you may add +4 to the confirmation roll. This does not stack with the Critical Focus feat. You may use this ability a number of times per day equal to your Wisdom bonus.
+**Judicious Force (Su)**: If you or an ally within 10 feet makes a critical threat with a melee or ranged attack, as an immediate action you may add +4 to the confirmation roll. This does not stack with the [Critical Focus](../../rules/feats/critical-focus.md) feat. You may use this ability a number of times per day equal to your Wisdom bonus.
 
 **Chains of Justice (Su)**: At 6th level, once per day, you can bind an opponent within 60 feet to you with spectral chains (Will negates). When you take damage from an enemy, the bound target takes this damage as well. Whenever the bound target takes damage from you or one of your allies, you take this damage as well. You and the target are not physically bound to each other, and either can end the connection by breaking the line of effect or exceeding the ability’s range. You may dismiss the chains as a standard action.
 
@@ -307,7 +307,7 @@ Effects that kill you or do not reduce you to negative hit points (such as abili
 
 **Granted Powers**: The dead have paid their dues; there is no need, and no excuse, for them to walk. You protect their rest personally.
 
-**Disrupt Animation (Sp)**: You can use *disrupt undead* as a spell-like ability, adding your Wisdom modifier to the damage. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+**Disrupt Animation (Sp)**: You can use [*disrupt undead*](../../magic/spells/disrupt-undead.md) as a spell-like ability, adding your Wisdom modifier to the damage. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 **Unravel Animation (Su)**: At 8th level, when you activate your bane ability with undead as the creature type, you can choose for your weapon to instead gain the *disruption* weapon special ability. The DC to resist this effect is equal to 10 + 1/2 your inquisitor level + your Wisdom modifier.
 
@@ -319,7 +319,7 @@ Effects that kill you or do not reduce you to negative hit points (such as abili
 
 **Focused Search (Ex)**: Once per day, you may designate a person or object as your focus. This takes 1 minute of concentration, during which time you must either picture this item or person if familiar to you, or meditate on the item’s or person’s description if not. Until you choose a new focus, you gain a bonus equal to half your inquisitor level on Perception checks to see or hear your focus, or when using Survival to track your focus or a creature with your focus in its possession. This bonus stacks with that gained from the track special ability.
 
-**Locate Focus (Sp)**: At 8th level, once per day you may use either *locate creature* or *locate object* as a spell-like ability using your current focus as the target. The range of this effect is 1 mile per level.
+**Locate Focus (Sp)**: At 8th level, once per day you may use either [*locate creature*](../../magic/spells/locate-creature.md) or [*locate object*](../../magic/spells/locate-object.md) as a spell-like ability using your current focus as the target. The range of this effect is 1 mile per level.
 
 ### Banishment Inquisition
 
@@ -329,7 +329,7 @@ Effects that kill you or do not reduce you to negative hit points (such as abili
 
 **Righteous Awe (Su)**: Whenever you make an unarmed touch attack against an evil creature, it must succeed at a Will save (DC 10 + 1/2 your inquisitor level + your Wisdom modifier) or become shaken for 1d4 rounds. If the creature touched is an evil outsider, it becomes frightened instead of shaken. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
-**Dismissive Touch (Sp)**: At 8th level, you can cast *dismissal* once per day as a spell-like ability (caster level equal to your inquisitor level) upon making a successful unarmed touch attack against an evil outsider. The DC to save against this ability increases by 2.
+**Dismissive Touch (Sp)**: At 8th level, you can cast [*dismissal*](../../magic/spells/dismissal.md) once per day as a spell-like ability (caster level equal to your inquisitor level) upon making a successful unarmed touch attack against an evil outsider. The DC to save against this ability increases by 2.
 
 ### Revelation Inquisition
 
@@ -337,7 +337,7 @@ Effects that kill you or do not reduce you to negative hit points (such as abili
 
 **Granted Powers**: Evil often hides itself behind a mask of good. You are an expert at ferreting out those who are not what they seem, and use your powers to reveal the true forms of the unworthy.
 
-**Burn Shroud (Su)**: As a standard action, you can make an unarmed touch attack against a creature. The target takes 1d4 points of fire damage + 1/2 your inquisitor level (minimum 1). If the target is currently the subject of a polymorph effect that changes its appearance (such as by *alter self*, *shapechange*, or an innate shapechanging ability such as that possessed by doppelgangers), it instead takes 1d6 points of fire damage + 1/2 your inquisitor level (minimum 1). You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+**Burn Shroud (Su)**: As a standard action, you can make an unarmed touch attack against a creature. The target takes 1d4 points of fire damage + 1/2 your inquisitor level (minimum 1). If the target is currently the subject of a polymorph effect that changes its appearance (such as by [*alter self*](../../magic/spells/alter-self.md), [*shapechange*](../../magic/spells/shapechange.md), or an innate shapechanging ability such as that possessed by doppelgangers), it instead takes 1d6 points of fire damage + 1/2 your inquisitor level (minimum 1). You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 **Reveal Form (Su)**: At 8th level, once per day as a standard action, you can invoke the name of your deity and order one shapechanged target within 30 feet to reveal its true form. The target must succeed at a Will save (DC 10 + 1/2 your inquisitor level + your Wisdom modifier) or be forced on its next turn to dispel any ongoing polymorph effects or innate shapechanging abilities to assume its natural form. If a creature affected by this ability fails its save and is for some reason unable to dispel any ongoing polymorph effects or innate shapechanging abilities, it is instead staggered for 1 round. This is a mind-affecting compulsion effect.
 
@@ -349,7 +349,7 @@ Effects that kill you or do not reduce you to negative hit points (such as abili
 
 **Back to the Grave (Su)**: When you cast cure spells (any spells with "cure" in their name) to deal damage to undead creatures, you add +2 points of damage per caster level instead of +1 point of damage per caster level. The maximum damage for each spell remains unchanged.
 
-**Hallowed Rite (Su)**: At 8th level, you gain the ability to conduct a sacred funeral rite. This rite takes 1 day, during which you perform the necessary chants and prayers and burn incense. At the end of the rite you must oversee the burial of the corpse. The burial must take place within 24 hours of the preparation or the ritual fails. Once the body is interred, it cannot be turned into an undead creature, as though it were under the effect of a *hallow* spell (caster level equal to your inquisitor level).
+**Hallowed Rite (Su)**: At 8th level, you gain the ability to conduct a sacred funeral rite. This rite takes 1 day, during which you perform the necessary chants and prayers and burn incense. At the end of the rite you must oversee the burial of the corpse. The burial must take place within 24 hours of the preparation or the ritual fails. Once the body is interred, it cannot be turned into an undead creature, as though it were under the effect of a [*hallow*](../../magic/spells/hallow.md) spell (caster level equal to your inquisitor level).
 
 ### Damnation Inquisition
 
@@ -359,7 +359,7 @@ Effects that kill you or do not reduce you to negative hit points (such as abili
 
 **Fear the Flames (Su)**: You can give a creature you can see within 60 feet one chance to avoid an eternity of suffering by ordering it to carry out any one simple action that would take no more than 1 round to complete. Good and neutral creatures that refuse become shaken for 1 round (Will negates), while evil creatures that obey gain a +2 morale bonus on all rolls and checks made for 1 round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. This is a language-dependent, mind-affecting effect.
 
-**Collector of Souls (Sp)**: At 8th level, once per day as a standard action, you call forth an illusory fiend and order it to temporarily drag a living and sentient creature into an afterlife of pain and misery. This otherwise acts identically to *phantasmal killer*, except targets that fail their Fortitude saving throws become paralyzed for a number of rounds equal to 1d4 + your inquisitor level instead of dying.
+**Collector of Souls (Sp)**: At 8th level, once per day as a standard action, you call forth an illusory fiend and order it to temporarily drag a living and sentient creature into an afterlife of pain and misery. This otherwise acts identically to [*phantasmal killer*](../../magic/spells/phantasmal-killer.md), except targets that fail their Fortitude saving throws become paralyzed for a number of rounds equal to 1d4 + your inquisitor level instead of dying.
 
 ### Possession Inquisition
 
@@ -371,7 +371,7 @@ Effects that kill you or do not reduce you to negative hit points (such as abili
 
 **Beast Ride (Su)**: At 4th level, once per day as a standard action, you can vacate your body and inhabit that of any creature belonging to the animal type within 30 feet for a number of rounds up to your inquisitor level. While you are possessing an animal in this way, your own body becomes helpless and unaware. You can travel any distance from your body so long as you remain on the same plane, and can return to your own body as a free action at any time. If the animal or your body takes damage, or you attempt to make the animal attack or do anything out of character, the effect immediately ends and you return to your own body.
 
-**Body Snatch (Sp)**: At 10th level, once per day as an immediate action upon falling unconscious because of dropping below 0 hit points, you can cast your soul from your body and attempt to occupy the body of another creature within 30 feet. This ability otherwise functions identically to *magic jar* except that your actual body serves as the receptacle and you suppress the consciousness of your target rather than casting it out. Your body continues to bleed as normal unless it is somehow stabilized, and if its hit points drop to a negative number equal to your Constitution score, the *magic jar* effect prematurely ends and you die as normal.
+**Body Snatch (Sp)**: At 10th level, once per day as an immediate action upon falling unconscious because of dropping below 0 hit points, you can cast your soul from your body and attempt to occupy the body of another creature within 30 feet. This ability otherwise functions identically to [*magic jar*](../../magic/spells/magic-jar.md) except that your actual body serves as the receptacle and you suppress the consciousness of your target rather than casting it out. Your body continues to bleed as normal unless it is somehow stabilized, and if its hit points drop to a negative number equal to your Constitution score, the *magic jar* effect prematurely ends and you die as normal.
 
 ### Sin Inquisition
 
@@ -629,7 +629,7 @@ Appalled and guilt-ridden by the horrific circumstances of her birth, a kinslaye
 
 Each time the kinslayer opts to take a greater brand, it replaces her ability to gain a teamwork feat at that level.
 
-**Undead Sense (Sp)**: At 2nd level, a kinslayer gains the ability to use *detect undead* as a spell-like ability (caster level equal to the kinslayer’s inquisitor level) at will. If she detects the presence of undead, she can use her monster lore ability to attempt to determine the type of undead detected as well as to reveal any strengths or weaknesses the undead might have. If any of the detected undead are vampires, she gains a bonus on the check equal to her inquisitor level to immediately identify them as such.
+**Undead Sense (Sp)**: At 2nd level, a kinslayer gains the ability to use [*detect undead*](../../magic/spells/detect-undead.md) as a spell-like ability (caster level equal to the kinslayer’s inquisitor level) at will. If she detects the presence of undead, she can use her monster lore ability to attempt to determine the type of undead detected as well as to reveal any strengths or weaknesses the undead might have. If any of the detected undead are vampires, she gains a bonus on the check equal to her inquisitor level to immediately identify them as such.
 
 This ability replaces *detect alignment*.
 
@@ -653,11 +653,11 @@ The gruff traditionalism of most dwarves finds its apex in those who adhere to a
 
 **Spells**: Exarchs cannot cast spells with the chaotic descriptor.
 
-**Inflexible Will (Ex)**: At 1st level, an exarch gains a +2 bonus on saving throws against *confusion* and *insanity* effects and effects with the chaotic descriptor. This ability replaces monster lore.
+**Inflexible Will (Ex)**: At 1st level, an exarch gains a +2 bonus on saving throws against [*confusion*](../../magic/spells/confusion.md) and [*insanity*](../../magic/spells/insanity.md) effects and effects with the chaotic descriptor. This ability replaces monster lore.
 
-***Detect Chaos (Sp)***: At will, an exarch can use *detect chaos*. This ability replaces detect alignment.
+***Detect Chaos (Sp)***: At will, an exarch can use [*detect chaos*](../../magic/spells/detect-chaos.md). This ability replaces detect alignment.
 
-**Fearsome Jurist (Su)**: At 5th level, an exarch can imbue one of her weapons with the *jurist* or *menacing* weapon special ability as a swift action, and may switch between these properties as a swift action. When using either special ability, her weapon’s critical threat range doubles against chaotic creatures. This does not stack with *keen edge*, Improved Critical, or similar effects. This ability otherwise functions as and replaces bane.
+**Fearsome Jurist (Su)**: At 5th level, an exarch can imbue one of her weapons with the *jurist* or *menacing* weapon special ability as a swift action, and may switch between these properties as a swift action. When using either special ability, her weapon’s critical threat range doubles against chaotic creatures. This does not stack with [*keen edge*](../../magic/spells/keen-edge.md), [Improved Critical](../../rules/feats/improved-critical.md), or similar effects. This ability otherwise functions as and replaces bane.
 
 **Aura of Repetition (Su)**: At 8th level, once per day while using her judgment, an exarch can project an aura of repetition, as the Toil subdomain power. If the exarch takes Artifice (Toil) as her domain, the save DC of her aura increases by 2 but its duration does not increase. This ability replaces her second judgment.
 
@@ -675,9 +675,9 @@ Some inquisitors are adept at appearing harmless until they throw off their unas
 
 **Always Wary (Ex)**: A cloaked wolf is always ready for betrayal and subterfuge. Whenever she attempts a Sense Motive check to avoid being surprised by a foe using Bluff to conceal the attack, the cloaked wolf can always act during the surprise round, regardless of the result of the check. At 2nd level, she adds her Wisdom modifier (in addition to her Dexterity modifier) to her initiative checks during any such encounter. This ability alters cunning initiative and replaces monster lore.
 
-**Unleashed Fury (Ex)**: At 3rd level, a cloaked wolf can transition between parley and combat in the blink of an eye. She gains Quick Draw as a bonus feat.
+**Unleashed Fury (Ex)**: At 3rd level, a cloaked wolf can transition between parley and combat in the blink of an eye. She gains [Quick Draw](../../rules/feats/quick-draw.md) as a bonus feat.
 
-Additionally, at 6th level and every 3 inquisitor levels thereafter, she gains a bonus feat from the following list: Alertness, Catch Off-Guard, Deceitful, Deft Hands, Dodge, Improved Initiative, Improved Unarmed Strike, Improvised Weapon Mastery, Lookout, Mobility, Spring Attack, Stunning Fist, and Throw Anything. She must meet the prerequisites of the selected bonus feat.
+Additionally, at 6th level and every 3 inquisitor levels thereafter, she gains a bonus feat from the following list: Alertness, [Catch Off-Guard](../../rules/feats/catch-off-guard.md), Deceitful, [Deft Hands](../../rules/feats/deft-hands.md), Dodge, [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md), [Improvised Weapon Mastery](../../rules/feats/improvised-weapon-mastery.md), Lookout, Mobility, [Spring Attack](../../rules/feats/spring-attack.md), [Stunning Fist](../../rules/feats/stunning-fist.md), and [Throw Anything](../../rules/feats/throw-anything.md). She must meet the prerequisites of the selected bonus feat.
 
 As a standard action, a cloaked wolf can choose to learn a new bonus feat from the above list in place of the most recent bonus feat she has already learned. In effect, the cloaked wolf loses the bonus feat in exchange for the new one. She can only change the most recent bonus feat gained. Whenever she gains a new bonus feat, the previous bonus feat becomes set and cannot be changed again. A cloaked wolf can change her most recent bonus feat a number of times per day equal to her Wisdom modifier (minimum 1). This ability replaces solo tactics and teamwork feats.
 
@@ -685,7 +685,7 @@ As a standard action, a cloaked wolf can choose to learn a new bonus feat from t
 
 Certain relentless inquisitors burn with special hatred for an enemy of specific convictions, and they stop at nothing when obsessively hunting these foes down.
 
-**Sworn Enemy (Sp, Su)**: A faith hunter chooses a single alignment (such as chaotic evil, rather than simply chaotic or evil) that directly opposes her own along either the law/ chaos axis or the good/evil axis (so a lawful good faith hunter can choose chaotic good, chaotic neutral, chaotic evil, neutral evil, or lawful evil, whereas a neutral good faith hunter can only choose chaotic evil, neutral evil, or lawful evil). Creatures of this alignment are her sworn enemies. She can detect creatures of that specific alignment at will, functioning as *detect evil*, except this ability works only on creatures and detects the specific alignment.
+**Sworn Enemy (Sp, Su)**: A faith hunter chooses a single alignment (such as chaotic evil, rather than simply chaotic or evil) that directly opposes her own along either the law/ chaos axis or the good/evil axis (so a lawful good faith hunter can choose chaotic good, chaotic neutral, chaotic evil, neutral evil, or lawful evil, whereas a neutral good faith hunter can only choose chaotic evil, neutral evil, or lawful evil). Creatures of this alignment are her sworn enemies. She can detect creatures of that specific alignment at will, functioning as [*detect evil*](../../magic/spells/detect-evil.md), except this ability works only on creatures and detects the specific alignment.
 
 At 6th level, once per day as a swift action, a faith hunter can smite one foe she can see. If the foe is of the faith hunter’s sworn enemy alignment, the faith hunter gains a +4 sacred bonus on attack rolls against that foe and a sacred bonus equal to half her inquisitor level on damage rolls made against the foe. Smites against targets of the faith hunter’s sworn enemy alignment automatically bypass any DR the creature might possess. If the faith hunter targets a creature that is not of her sworn enemy alignment, the smite is wasted with no effect.
 
@@ -701,13 +701,13 @@ A faith hunter does not gain the justice or destruction judgments. This ability 
 
 Secret seekers are trained in the art of extracting answers from intransigent foes. Recognizing that torture is a poor method of securing truthful intelligence, secret seekers instead prefer magical means of inquiry.
 
-**Occult Lore (Su)**: A secret seeker gains access to the prognostication and read aura occult skill unlocks, but not the other occult skill unlocks. If she ever chooses to gain the Psychic Sensitivity feat or otherwise gains access to all occult skill unlocks, she receives Psychic Maestro as a bonus feat, with prognostication and read aura as the two occult skill unlocks selected. This ability replaces monster lore.
+**Occult Lore (Su)**: A secret seeker gains access to the prognostication and read aura occult skill unlocks, but not the other occult skill unlocks. If she ever chooses to gain the [Psychic Sensitivity](../../rules/feats/psychic-sensitivity.md) feat or otherwise gains access to all occult skill unlocks, she receives [Psychic Maestro](../../rules/feats/psychic-maestro.md) as a bonus feat, with prognostication and read aura as the two occult skill unlocks selected. This ability replaces monster lore.
 
 **Detect Mind (Sp)**: At 5th level, a secret seeker can *detect anxieties*, *detect desires*, or *detect thoughts*, as per the spells, for a number of rounds per day equal to twice her inquisitor level. These rounds need not be consecutive. A creature that succeeds at a saving throw against this ability is immune to that secret seeker’s detect mind ability for 24 hours. If the secret seeker has the secrets inquisition, she doubles the number of rounds per day that she can use this ability.
 
 At 12th level, a secret seeker can use her detect mind ability for a number of minutes per day equal to twice her inquisitor level, rather than rounds. These minutes need not be consecutive but must be spent in 1-minute increments. If the secret seeker has the secrets inquisition, she doubles the number of minutes per day she can use this ability. This ability replaces bane and greater bane.
 
-**Seek Mind (Sp)**: At 14th level, a secret seeker can use her detect mind ability to seek out people with particular anxieties, desires, or thoughts. This functions as per *seek thoughts* except that it works with any of the three types of mental output the secret seeker can detect with detect mind. This ability replaces exploit weakness.
+**Seek Mind (Sp)**: At 14th level, a secret seeker can use her detect mind ability to seek out people with particular anxieties, desires, or thoughts. This functions as per [*seek thoughts*](../../magic/spells/seek-thoughts.md) except that it works with any of the three types of mental output the secret seeker can detect with detect mind. This ability replaces exploit weakness.
 
 ## Tactical Leader
 
@@ -727,7 +727,7 @@ If the tactical leader also has cavalier levels, these levels stack for determin
 
 Traceless operatives practice subterfuge and careful preparation in order to accomplish their divine mandates.
 
-**Conceal Evidence (Ex)**: A traceless operative knows how to clean up and obscure the evidence of foul play. It takes her 1d3 × 10 minutes to conceal or alter evidence in a 10-foot-by-10-foot area. She uses Disguise to alter evidence or Stealth to conceal it, though bonuses and penalties based on her abilities or effects that disguise or hide her own body (such as from *disguise self*, a *cloak of elvenkind*, or the size modifier on Stealth checks) do not apply. A creature attempting to investigate the scene using Perception must succeed at the original Perception DC or a DC equal to the traceless operative’s check, whichever is higher, in order to discover the true evidence. A creature who fails against a traceless operative’s Disguise check potentially also derives the false evidence planted by the traceless operative. This ability replaces monster lore and stern gaze.
+**Conceal Evidence (Ex)**: A traceless operative knows how to clean up and obscure the evidence of foul play. It takes her 1d3 × 10 minutes to conceal or alter evidence in a 10-foot-by-10-foot area. She uses Disguise to alter evidence or Stealth to conceal it, though bonuses and penalties based on her abilities or effects that disguise or hide her own body (such as from [*disguise self*](../../magic/spells/disguise-self.md), a *cloak of elvenkind*, or the size modifier on Stealth checks) do not apply. A creature attempting to investigate the scene using Perception must succeed at the original Perception DC or a DC equal to the traceless operative’s check, whichever is higher, in order to discover the true evidence. A creature who fails against a traceless operative’s Disguise check potentially also derives the false evidence planted by the traceless operative. This ability replaces monster lore and stern gaze.
 
 **Trackless (Sp)**: At 2nd level, a traceless operative’s deity helps obscure her path from others. The DC to track the traceless operative (or a group including her) increases by half her inquisitor level. This does not stack with similar abilities, such as a transporter’s trailbreaker ability. This ability replaces track.
 
@@ -763,7 +763,7 @@ Some inquisitors focus more on protecting those who share their faiths and their
 
 Affected allies receive a morale bonus equal to 1/4 the vigilant defender’s inquisitor level (minimum +1) on all Bluff, Disguise, Perception, and Stealth checks outside of combat made to avoid, deceive, or notice other creatures. This bonus lasts for 10 minutes, and the vigilant defender can affect herself and a number of allies equal to her Wisdom modifier (minimum 1). She can coach allies in this way once per day at 1st level, plus one additional time per day for every 4 inquisitor levels she has, to a maximum of six times per day at 20th level. This ability replaces stern gaze.
 
-**Bolster the Wounded (Ex)**: At 14th level, a vigilant defender can preternaturally sense when her allies are in grave peril and can form a mystical conduit to protect them from the full effects of grievous wounds. As an immediate action whenever an enemy confirms a critical hit against an ally within 30 feet, the vigilant defender can choose to accept half the damage. If she does so, similar to the *shield other* spell, any of her damage reduction, resistances, or immunities do not apply to the damage she takes. This ability replaces exploit weakness.
+**Bolster the Wounded (Ex)**: At 14th level, a vigilant defender can preternaturally sense when her allies are in grave peril and can form a mystical conduit to protect them from the full effects of grievous wounds. As an immediate action whenever an enemy confirms a critical hit against an ally within 30 feet, the vigilant defender can choose to accept half the damage. If she does so, similar to the [*shield other*](../../magic/spells/shield-other.md) spell, any of her damage reduction, resistances, or immunities do not apply to the damage she takes. This ability replaces exploit weakness.
 
 **True Vengeance (Su)**: At 20th level, when a vigilant defender calls true judgment down upon a foe, if the foe has killed one of the vigilant defender’s allies (permanent sentient allies, such as fellow party members or cohorts, not summoned monsters, animal companions, pets, or the like), the DC of the target’s Fortitude save to avoid death is 2 higher. If the foe has not damaged any of the vigilant defender’s allies, the DC to avoid death is instead 2 lower. This ability alters true judgment.
 
@@ -813,7 +813,7 @@ This ability alters orisons and spellcasting and replaces cunning initiative.
 
 **Sacred Word (Su)**: At 1st level, a living grimoire learns to charge his holy book with the power of his faith. The inquisitor gains the benefits of the warpriest’s sacred weapon class ability, but the benefits apply only to his bonded holy book. Like a warpriest’s sacred weapon, the living grimoire’s book deals damage based on the inquisitor’s level, not the book’s base damage (unless the inquisitor chooses to use the book’s base damage).
 
-At 4th level, the living grimoire gains the ability to enhance his holy book with divine power as a swift action. This ability grants the holy book a +1 enhancement bonus. For every 4 inquisitor levels the living grimoire has beyond 4th, this bonus increases by 1 (to a maximum of +5 at 20th level). These bonuses stack with any existing bonuses the holy book might have, to a maximum of +5. The living grimoire can enhance his holy book to have any of the special abilities listed in the warpriest’s sacred weapon ability, subject to the same alignment restrictions, but adds *bane* to the general special ability list. Adding any of these special abilities to the holy book consumes an amount of enhancement bonus equal to the special ability’s base price modifier. The holy book must have at least a +1 enhancement bonus before the living grimoire can add any special abilities to it. The living grimoire can use this ability a number of rounds per day equal to his inquisitor level, but these rounds don’t need to be consecutive. As with the warpriest sacred weapon ability, he determines the enhancement bonus and special abilities the first time he uses the ability each day, and they cannot be changed until the next day.
+At 4th level, the living grimoire gains the ability to enhance his holy book with divine power as a swift action. This ability grants the holy book a +1 enhancement bonus. For every 4 inquisitor levels the living grimoire has beyond 4th, this bonus increases by 1 (to a maximum of +5 at 20th level). These bonuses stack with any existing bonuses the holy book might have, to a maximum of +5. The living grimoire can enhance his holy book to have any of the special abilities listed in the warpriest’s sacred weapon ability, subject to the same alignment restrictions, but adds [*bane*](../../magic/spells/bane.md) to the general special ability list. Adding any of these special abilities to the holy book consumes an amount of enhancement bonus equal to the special ability’s base price modifier. The holy book must have at least a +1 enhancement bonus before the living grimoire can add any special abilities to it. The living grimoire can use this ability a number of rounds per day equal to his inquisitor level, but these rounds don’t need to be consecutive. As with the warpriest sacred weapon ability, he determines the enhancement bonus and special abilities the first time he uses the ability each day, and they cannot be changed until the next day.
 
 This ability replaces judgment.
 
@@ -821,7 +821,7 @@ This ability replaces judgment.
 
 At 8th level, the living grimoire can tattoo one additional spell of 3rd level or lower upon himself. At 12th level, he can tattoo one additional spell of 4th level or lower upon himself, and at 16th level he can tattoo a final additional spell of any level upon himself.
 
-When the living grimoire uses these spell-like abilities, the tattooed holy script associated with the spell-like ability glows as per *light* for a number of rounds equal to the spell’s level.
+When the living grimoire uses these spell-like abilities, the tattooed holy script associated with the spell-like ability glows as per [*light*](../../magic/spells/light.md) for a number of rounds equal to the spell’s level.
 
 This ability replaces bane, greater bane, second judgment, and third judgment.
 
@@ -839,7 +839,7 @@ Masters of mind tricks and deception, these divine assassins track down and kill
 
 **Mind-Game Tactics (Su)**: At 3rd level, a reaper of secrets can read other creatures so well she can use their reactions to gain a tactical advantage. She treats any creature targeted by her soul-piercing gaze as if it were her ally and possessed the same teamwork feats as she does for the purposes of positioning and threatening when she determines whether she receives a benefit from her teamwork feats. She cannot use this ability to benefit from any teamwork feats that require particular actions from allies, such as Swap Places.
 
-For example, a reaper of secrets with the Precise Strike feat gains the bonus from that feat if she and the target of her soul-piercing gaze occupy flanking positions relative to the creature she attacks.
+For example, a reaper of secrets with the [Precise Strike](../../rules/feats/precise-strike.md) feat gains the bonus from that feat if she and the target of her soul-piercing gaze occupy flanking positions relative to the creature she attacks.
 
 This ability replaces solo tactics.
 
@@ -855,11 +855,11 @@ This ability alters domains.
 
 This ability replaces stern gaze.
 
-**Expose Aberration (Sp)**: At 2nd level, an abolisher can use *detect aberration* at will. When she hits a creature with a weapon attack, she automatically knows if the creature is an aberration or not. At 5th level, she can activate her bane ability as an immediate action after she hits an aberration but before damage is rolled.
+**Expose Aberration (Sp)**: At 2nd level, an abolisher can use [*detect aberration*](../../magic/spells/detect-aberration.md) at will. When she hits a creature with a weapon attack, she automatically knows if the creature is an aberration or not. At 5th level, she can activate her bane ability as an immediate action after she hits an aberration but before damage is rolled.
 
 This ability replaces detect alignment and alters bane.
 
-**Escape Corruption’s Grasp (Sp)**: At 5th level, an abolisher is divinely protected against the grasping tentacles and paralyzing secretions of aberrations. For a number of rounds per day equal to her inquisitor level, she can ignore impediments to movement, as per *freedom of movement*. These rounds don’t need to be consecutive. Activating this ability is an immediate action.
+**Escape Corruption’s Grasp (Sp)**: At 5th level, an abolisher is divinely protected against the grasping tentacles and paralyzing secretions of aberrations. For a number of rounds per day equal to her inquisitor level, she can ignore impediments to movement, as per [*freedom of movement*](../../magic/spells/freedom-of-movement.md). These rounds don’t need to be consecutive. Activating this ability is an immediate action.
 
 This ability replaces discern lies.
 
@@ -889,11 +889,11 @@ Crown accusers serve a ruler, cutting through the nation's baroque politics and 
 
 **Meticulous Inspection (Ex)**: A crown accuser gains a morale bonus equal to 1/2 his inquisitor level on all Perception checks (minimum +1). This ability replaces stern gaze.
 
-**Detect Monsters and Secrets (Sp)**: At 2nd level, a crown accuser can use *detect aberration*, *detect secret doors*, and *detect undead* at will. He can only use one of these at any given time. This ability replaces detect alignment.
+**Detect Monsters and Secrets (Sp)**: At 2nd level, a crown accuser can use *detect aberration*, [*detect secret doors*](../../magic/spells/detect-secret-doors.md), and *detect undead* at will. He can only use one of these at any given time. This ability replaces detect alignment.
 
 **Favored Enemy (Ex)**: At 3rd level, a crown accuser gains favored enemy, as the ranger class feature. He must choose his favored enemy from the following list: aberration, dragon, humanoid (orc), humanoid (shapechanger), and undead. He gains another favored enemy at 9th and 15th levels. This replaces solo tactics and the teamwork feats gained at 3rd, 9th, and 15th levels.
 
-**Informed Hunch (Su)**: At 6th level, once per day, a crown accuser can contemplate an ongoing investigation he is involved in and potentially know whether his hunches are on the right track. This functions as *augury*, except if it succeeds, the crown accuser gets one of the following results in place of weal, woe, or weal and woe. The crown accuser treats his inquisitor level as his caster level.
+**Informed Hunch (Su)**: At 6th level, once per day, a crown accuser can contemplate an ongoing investigation he is involved in and potentially know whether his hunches are on the right track. This functions as [*augury*](../../magic/spells/augury.md), except if it succeeds, the crown accuser gets one of the following results in place of weal, woe, or weal and woe. The crown accuser treats his inquisitor level as his caster level.
 
 - **Correct**: the hunch is the exact truth, such as if a particular individual is responsible for a crime, or if a particular organization is behind a series of events.
 - **Incorrect**: the hunch is entirely off base, such as if a suspected individual had nothing to do with a crime, or a suspected organization had no interest or hand in a series of events.
@@ -921,13 +921,13 @@ The natural enemies of demoniacs and other cultists of fiendish forces, cold iro
 
 **Track Teleportation (Su)**: At 2nd level, a cold iron warden may acquire clues about a teleporting creature's destination by closely examining the place it once stood. As a full-round action while standing in a square that a creature occupied when it cast a conjuration (teleportation) spell or spell-like ability, the cold iron warden may attempt a Survival check (DC 10 + the teleportation spell's caster level) to sense the direction of the creature's destination as well as whether the destination lies within 25 feet, 100 feet, 1,000 feet, or more than 1,000 feet of her. She must use this ability within a number of rounds after the creature's teleportation equal to 1/2 her inquisitor level, after which the trail goes cold. A cold iron warden may use this ability once per day plus one additional time per day for every 4 levels she has beyond 2nd.
 
-At 12th level, if the cold iron warden exceeds the Survival check DC by 5 or more, she can also sense the creature's location as if using the *locate creature* spell, using her inquisitor level as the caster level. At 18th level, if the cold iron warden exceeds the Survival check DC by 10 or more, she can also sense the creature's location as if she had cast *discern location*. This ability replaces track and the teamwork feats gained at 12th and 18th level.
+At 12th level, if the cold iron warden exceeds the Survival check DC by 5 or more, she can also sense the creature's location as if using the *locate creature* spell, using her inquisitor level as the caster level. At 18th level, if the cold iron warden exceeds the Survival check DC by 10 or more, she can also sense the creature's location as if she had cast [*discern location*](../../magic/spells/discern-location.md). This ability replaces track and the teamwork feats gained at 12th and 18th level.
 
-**Abyssal Scourge (Su)**: At 3rd level, a cold iron warden gains Alignment Channel as a bonus feat and must choose either chaotic or evil outsiders. She can channel energy as a cleric of her inquisitor level – 2 a number of times per day equal to 3 + her Charisma modifier, but only to use Alignment Channel to damage outsiders. The DC of the Will save to halve the damage is equal to 10 + 1/2 the inquisitor's level + the inquisitor's Charisma modifier. At 6th level, the energy lingers in the affected area for 1 round as a shimmering, barely perceptible mist that disrupts Abyssal magic. A creature in the mist that casts a conjuration (summoning) spell or spell-like ability with the selected alignment subtype must succeed at a concentration check or lose the spell. At 15th level, any chaotic or evil creature that casts a conjuration (teleportation) spell or spell-like ability while in the mist must succeed at a concentration check or lose the spell. The concentration check DC for both abilities is equal to 15 + double the level of the conjuration spell.
+**Abyssal Scourge (Su)**: At 3rd level, a cold iron warden gains [Alignment Channel](../../rules/feats/alignment-channel.md) as a bonus feat and must choose either chaotic or evil outsiders. She can channel energy as a cleric of her inquisitor level – 2 a number of times per day equal to 3 + her Charisma modifier, but only to use Alignment Channel to damage outsiders. The DC of the Will save to halve the damage is equal to 10 + 1/2 the inquisitor's level + the inquisitor's Charisma modifier. At 6th level, the energy lingers in the affected area for 1 round as a shimmering, barely perceptible mist that disrupts Abyssal magic. A creature in the mist that casts a conjuration (summoning) spell or spell-like ability with the selected alignment subtype must succeed at a concentration check or lose the spell. At 15th level, any chaotic or evil creature that casts a conjuration (teleportation) spell or spell-like ability while in the mist must succeed at a concentration check or lose the spell. The concentration check DC for both abilities is equal to 15 + double the level of the conjuration spell.
 
-A cold iron warden can take other feats to add to this ability such as Improved Channeling, but not feats that alter this ability, such as Command Undead. This ability replaces solo tactics and the teamwork feats gained at 6th and 15th level.
+A cold iron warden can take other feats to add to this ability such as Improved Channeling, but not feats that alter this ability, such as [Command Undead](../../rules/feats/command-undead.md). This ability replaces solo tactics and the teamwork feats gained at 6th and 15th level.
 
-**Favored Judgment**: At 3rd level, the inquisitor gains Favored Judgment as a bonus feat but must choose either outsider (chaotic) or outsider (evil). At 9th level, she gains Favored Judgment as a bonus feat a second time and must choose either outsider (chaotic) or outsider (evil). This ability replaces the teamwork feats gained at 3rd and 9th level.
+**Favored Judgment**: At 3rd level, the inquisitor gains [Favored Judgment](../../rules/feats/favored-judgment.md) as a bonus feat but must choose either outsider (chaotic) or outsider (evil). At 9th level, she gains Favored Judgment as a bonus feat a second time and must choose either outsider (chaotic) or outsider (evil). This ability replaces the teamwork feats gained at 3rd and 9th level.
 
 **Bane (Su)**: A cold iron warden reduces the amount of bonus damage dealt when using her bane ability against creatures that are not outsiders with the chaotic or evil subtype by 1d6. She increases the amount of bonus damage by 1d6 when she selects outsiders with the chaotic or evil subtype. This ability modifies the bane ability.
 
@@ -959,7 +959,7 @@ Throughout the wild lands, cults of a demonic lord pollute the pristine jungle w
 
 **Alignment**: Any nonevil.
 
-**Charged by Nature**: Rather than having a deity patron, a primeval hunter is charged by the spirits of the wilds to eradicate evil wherever it appears. At 1st level, a primeval hunter chooses an oracle mystery from the following list: ancestor, battle, flame, heavens, life, lunar, nature, solar, stone, time, volcano, waves, wind, or wood. She gains one revelation from her chosen mystery. She must meet the revelation's prerequisites, using her inquisitor level as her effective oracle level to determine the revelation's effects, and she never qualifies for the Extra Revelation feat. The primeval hunter gains a second revelation from her chosen mystery at 8th level. This ability replaces domain.
+**Charged by Nature**: Rather than having a deity patron, a primeval hunter is charged by the spirits of the wilds to eradicate evil wherever it appears. At 1st level, a primeval hunter chooses an oracle mystery from the following list: ancestor, battle, flame, heavens, life, lunar, nature, solar, stone, time, volcano, waves, wind, or wood. She gains one revelation from her chosen mystery. She must meet the revelation's prerequisites, using her inquisitor level as her effective oracle level to determine the revelation's effects, and she never qualifies for the [Extra Revelation](../../rules/feats/extra-revelation.md) feat. The primeval hunter gains a second revelation from her chosen mystery at 8th level. This ability replaces domain.
 
 **Holy Magic**: A primeval hunter adds all spells of 6th level and lower on the cleric spell list with the good descriptor to her inquisitor spell list as inquisitor spells of the same level. If a spell appears on both the cleric and inquisitor spell lists, the primeval hunter uses the lower of the two spell levels listed for the spell. She cannot cast spells with the chaotic, evil, or lawful descriptors, even from spell trigger or spell completion items. This ability alters the inquisitor's spells.
 
@@ -975,7 +975,7 @@ Servants of gods who hold oaths to be sacrosanct, oathkeepers formally oversee t
 
 **Class Skills**: An oathkeeper removes Knowledge (nature) from her list of class skills and adds Appraise. This alters the inquisitor's class skills.
 
-**Divine Witness (Su)**: Every oathkeeper inquisitor develops a unique personal symbol, which she can use to seal an agreement between two or more willing parties. The agreement, whether it's a trade contract, a truce, or a political marriage, must be as detailed as possible and then signed in the oathkeeper's presence by every creature involved. Creatures must sign of their own free will—any magical or physical coercion will cause the contract to crumble into ash when the oathkeeper attempts to place her seal upon it. So long as no mystic or physical force is influencing any participating creature, the oathkeeper can mystically seal the arrangement with her personal symbol, binding all signing parties into upholding their ends of the bargain for the length of time spelled out in the agreement. Should any oathbound creature break the exact wording of the contract, the agreement is dissolved and the offending creature is cursed, taking a penalty on all d20 rolls equal to the oathkeeper's Wisdom modifier for a number of weeks equal to the oathkeeper's inquisitor level. Furthermore, the inquisitor's symbol appears as a mystic symbol on the offending creature's throat and hands, allowing the oathkeeper to know the creature's location at all times, as per the *discern location* spell. If a creature is forced into breaking the agreement by magic or overwhelming physical force (for example, breaking an agreement not to harm via a compulsion spell or by physically hurling an oathbound creature to deal damage to another), then the agreement dissipates harmlessly. The oathkeeper's curse is a curse effect, but it can be removed only with a *miracle* or *wish* spell. This replaces monster lore.
+**Divine Witness (Su)**: Every oathkeeper inquisitor develops a unique personal symbol, which she can use to seal an agreement between two or more willing parties. The agreement, whether it's a trade contract, a truce, or a political marriage, must be as detailed as possible and then signed in the oathkeeper's presence by every creature involved. Creatures must sign of their own free will—any magical or physical coercion will cause the contract to crumble into ash when the oathkeeper attempts to place her seal upon it. So long as no mystic or physical force is influencing any participating creature, the oathkeeper can mystically seal the arrangement with her personal symbol, binding all signing parties into upholding their ends of the bargain for the length of time spelled out in the agreement. Should any oathbound creature break the exact wording of the contract, the agreement is dissolved and the offending creature is cursed, taking a penalty on all d20 rolls equal to the oathkeeper's Wisdom modifier for a number of weeks equal to the oathkeeper's inquisitor level. Furthermore, the inquisitor's symbol appears as a mystic symbol on the offending creature's throat and hands, allowing the oathkeeper to know the creature's location at all times, as per the *discern location* spell. If a creature is forced into breaking the agreement by magic or overwhelming physical force (for example, breaking an agreement not to harm via a compulsion spell or by physically hurling an oathbound creature to deal damage to another), then the agreement dissipates harmlessly. The oathkeeper's curse is a curse effect, but it can be removed only with a [*miracle*](../../magic/spells/miracle.md) or [*wish*](../../magic/spells/wish.md) spell. This replaces monster lore.
 
 **Oathbreaker's Scourge (Su)**: At 2nd level, if an oathkeeper is given physical evidence of a broken agreement and asked to hunt down the contract's breaker by the offended party, the oathkeeper gains a +4 sacred or profane bonus on Diplomacy and Survival skill checks to gather information about and track the target. The inquisitor is also treated as being 3 levels higher for the purpose of one judgment she uses against the deal breaker, so long as she keeps possession of the evidence. If the oathkeeper uses oathbreaker's scourge when attacking someone who is actually innocent of fraud—due to forgery, hasty judgments, or other deceptions—she loses access to all of her oathkeeper archetype abilities for 1 month or until she is the target of an *atonement* spell. This replaces track.
 
@@ -983,7 +983,7 @@ Servants of gods who hold oaths to be sacrosanct, oathkeepers formally oversee t
 
 Most common among faiths that loathe undead or evil spirits, expulsionists are inquisitors who seek to rid the material world of the corrupting influences of wicked spirits that twist mortals to their own ends.
 
-**Expel Spirit (Su)**: At 1st level, an expulsionist receives Alignment Channel and Turn Undead as bonus feats. She can channel energy a number of times per day equal to 3 + her Charisma modifier as per a cleric with an effective level equal to her inquisitor level, but only to harm or turn evil outsiders or undead (treating all evil outsiders as undead creatures for the purpose of determining whether they can be affected by Turn Undead). She can take other feats that add to this ability, such as Extra Channel or Improved Channel, but not other feats that fundamentally alter this ability, such as Elemental Channel, and she cannot select Alignment Channel multiple times. The DC to save against this ability is equal to 10 + 1/2 the expulsionist's inquisitor level + her Charisma modifier.
+**Expel Spirit (Su)**: At 1st level, an expulsionist receives Alignment Channel and [Turn Undead](../../rules/feats/turn-undead.md) as bonus feats. She can channel energy a number of times per day equal to 3 + her Charisma modifier as per a cleric with an effective level equal to her inquisitor level, but only to harm or turn evil outsiders or undead (treating all evil outsiders as undead creatures for the purpose of determining whether they can be affected by Turn Undead). She can take other feats that add to this ability, such as [Extra Channel](../../rules/feats/extra-channel.md) or [Improved Channel](../../rules/feats/improved-channel.md), but not other feats that fundamentally alter this ability, such as [Elemental Channel](../../rules/feats/elemental-channel.md), and she cannot select Alignment Channel multiple times. The DC to save against this ability is equal to 10 + 1/2 the expulsionist's inquisitor level + her Charisma modifier.
 
 At 8th level, an expulsionist can expend one use of her channel energy ability to attempt to force a possessing creature from its host body. The expulsionist must make a melee touch attack against the possessed creature; if successful, the expulsionist deals damage to the possessing creature as if it were targeted by the expulsionist's channel energy ability (regardless of the possessing creature's creature type), and the possession effect ceases as the possessing creature is ejected from the host body. A successful Will save (DC = the expulsionist's channel energy DC) halves the damage taken and negates the expulsion. This ability replaces domain.
 
@@ -1001,7 +1001,7 @@ Some inquisitors of gods of clockwork and invention, and occasionally those who 
 
 **Construct Lore (Ex)**: A keeper of constructs adds twice her Wisdom modifier plus her Intelligence modifier as a bonus when attempting Knowledge checks to identify the abilities and weaknesses of constructs. This replaces monster lore.
 
-**Wrest Control (Sp)**: At 14th level, three times per day, the keeper of constructs can issue a command to a construct as a standard action. This functions as a *suggestion* spell that is dismissible, affects the construct despite its normal immunity to mind-affecting effects, and has a caster level equal to the keeper of constructs' inquisitor level. The construct can resist the command with a successful Will saving throw (DC = 10 + half the keeper of constructs' inquisitor level + her Wisdom modifier). A construct that successfully saves is immune to this ability for the following 24 hours. This effect immediately ends if the construct is attacked while under its influence. If an affected construct was being controlled by a creature, that individual can regain control of the construct with a successful Charisma check (attempting this check requires a standard action) opposed by the inquisitor's Charisma check. On a success, the original creature regains full control of the construct and this effect ends. This replaces exploit weakness.
+**Wrest Control (Sp)**: At 14th level, three times per day, the keeper of constructs can issue a command to a construct as a standard action. This functions as a [*suggestion*](../../magic/spells/suggestion.md) spell that is dismissible, affects the construct despite its normal immunity to mind-affecting effects, and has a caster level equal to the keeper of constructs' inquisitor level. The construct can resist the command with a successful Will saving throw (DC = 10 + half the keeper of constructs' inquisitor level + her Wisdom modifier). A construct that successfully saves is immune to this ability for the following 24 hours. This effect immediately ends if the construct is attacked while under its influence. If an affected construct was being controlled by a creature, that individual can regain control of the construct with a successful Charisma check (attempting this check requires a standard action) opposed by the inquisitor's Charisma check. On a success, the original creature regains full control of the construct and this effect ends. This replaces exploit weakness.
 
 ## Suit Seeker
 
@@ -1088,7 +1088,7 @@ Throughout the southern jungle, cults of the ape demon lord pollute the pristine
 
 **Alignment**: Any nonevil.
 
-**Charged by Nature**: Rather than having a deity patron, a ravener hunter is charged by the spirits of the southern jungle to eradicate evil wherever it appears. At 1st level, a ravener hunter chooses an oracle mystery from the following list: ancestor, battle, flame, heavens, life, lunar, nature, solar, stone, time, volcano , waves, wind, or wood. She gains one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.
+**Charged by Nature**: Rather than having a deity patron, a ravener hunter is charged by the spirits of the southern jungle to eradicate evil wherever it appears. At 1st level, a ravener hunter chooses an oracle mystery from the following list: ancestor, battle, flame, heavens, life, lunar, nature, solar, stone, time, volcano, waves, wind, or wood. She gains one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.
 
 This ability replaces domain.
 

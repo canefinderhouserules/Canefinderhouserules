@@ -4,7 +4,7 @@
 
 You are skilled at making foes overreact to your attacks.
 
-**Prerequisites**: Deft Maneuvers, Improved Feint, base attack bonus +6.
+**Prerequisites**: [Deft Maneuvers](deft-maneuvers.md), [Improved Feint](improved-feint.md), base attack bonus +6.
 
 **Benefit**: Whenever you use feint to cause an opponent to lose his Dexterity bonus, he loses that bonus until the beginning of your next turn, in addition to losing his Dexterity bonus against your next attack.
 

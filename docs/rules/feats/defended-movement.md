@@ -4,7 +4,7 @@
 
 You deftly block attacks with your shield while moving through battle.
 
-**Prerequisites**: Shield Focus, base attack bonus +6 or fighter level 4th.
+**Prerequisites**: [Shield Focus](shield-focus.md), base attack bonus +6 or fighter level 4th.
 
 **Benefit**: You gain a +2 bonus to your AC against attacks of opportunity.
 

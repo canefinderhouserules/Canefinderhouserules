@@ -25,7 +25,7 @@ To qualify to become a proctor, a character must fulfill all of the following cr
 
 **Alignment**: Any neutral.
 
-**Feats**: Alertness, Monitor Obedience.
+**Feats**: Alertness, [Monitor Obedience](../../rules/feats/monitor-obedience.md).
 
 **Skills**: Knowledge (planes) 7 ranks, Knowledge (religion) 7 ranks.
 
@@ -47,7 +47,7 @@ The following are class features of the proctor prestige class.
 
 **Spells per Day**: At the indicated levels, a proctor gains new spells per day as if she had gained a level in a spellcasting class she belonged to before adding the prestige class. She does not gain any other benefits a character of that class would have gained except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a proctor, she must decide which class she adds each new proctor level for the purpose of determining spells per day.
 
-**Monitor Familiar (Ex)**: The proctor gains the services of an arbiter, nosoi, paracletus, or voidworm familiar, as appropriate for the proctor's monitor demigod. This functions as the wizard's arcane bond class feature, but as if the proctor had selected the Improved Familiar feat. If the proctor has levels in another class that grants a familiar, levels in that class and the proctor class stack for determining the overall abilities of her familiar.
+**Monitor Familiar (Ex)**: The proctor gains the services of an arbiter, nosoi, paracletus, or voidworm familiar, as appropriate for the proctor's monitor demigod. This functions as the wizard's arcane bond class feature, but as if the proctor had selected the [Improved Familiar](../../rules/feats/improved-familiar.md) feat. If the proctor has levels in another class that grants a familiar, levels in that class and the proctor class stack for determining the overall abilities of her familiar.
 
 **Obedience (Ex)**: In order to maintain the abilities granted by this prestige class (including all spellcasting abilities augmented by this prestige class), a proctor must perform a daily obedience to her monitor, as set forth in the description of each monitor demigod.
 
@@ -61,7 +61,7 @@ Fosters work to strengthen existing social relationships, and most often align w
 
 Harmonizers bring balance to opposing factions, and most often align with the first aeon. As a swift action, a proctor with this expression can become semitangible and gain a +2 deflection bonus to AC. The harmonizer can use this ability for a number of rounds per day equal to her proctor level, and she can end the effect as a free action. These rounds need not be consecutive. At 5th level, this deflection bonus increases to +4.
 
-Impulsives let their instincts guide them, and most often align with the protean lords. A proctor with this expression can cast *freedom of movement* once per day as a spell-like ability. At 5th level, the proctor can use this ability as a swift action.
+Impulsives let their instincts guide them, and most often align with the protean lords. A proctor with this expression can cast [*freedom of movement*](../../magic/spells/freedom-of-movement.md) once per day as a spell-like ability. At 5th level, the proctor can use this ability as a swift action.
 
 **Monitor Boon**: As a proctor gains levels, she gains boons from her monitor demigod. The nature of the boons varies depending on the proctor's chosen demigod. A monitor demigod grants three boons, each more powerful than the last. At 3rd level, the proctor gains the first boon. At 6th level, she gains the second boon, and at 9th level, she gains the third boon. Consult the Monitor Obedience feat and the monitor demigod descriptions for details on monitor boons.
 
@@ -71,6 +71,6 @@ When a monitor demigod grants a spell-like ability, the proctor's level for the 
 
 At 8th level, the proctor also gains the ability to cast *summon monster VIII* once per day to conjure additional monitors of the same type as her monitor expression. An executor can summon one kolyarut, 1d3 zelekhuts, or 1d4+1 axiomites. A foster can summon one algea, 1d3 shokis, or 1d4+1 vanths. A harmonizer can summon one akhana, 1d3 jyoti, or 1d4+1 theletoses. An impulsive can summon one ibshaunet, 1d3 illureshis, or 1d4+1 naunets. At the GM's discretion, specific monitor demigods may allow proctors who worship them to summon other neutral outsiders of equal power with this ability.
 
-**Solemn Voice (Su)**: At 7th level, the proctor gains an ability based on her monitor expression. Executors and impulsives can speak with any creature that has a language, as *tongues*. A foster can cast *speak with dead* as a spell-like ability at will. A harmonizer gains telepathy with a range of 30 feet but cannot communicate telepathically with creatures immune to mind-affecting effects.
+**Solemn Voice (Su)**: At 7th level, the proctor gains an ability based on her monitor expression. Executors and impulsives can speak with any creature that has a language, as [*tongues*](../../magic/spells/tongues.md). A foster can cast [*speak with dead*](../../magic/spells/speak-with-dead.md) as a spell-like ability at will. A harmonizer gains telepathy with a range of 30 feet but cannot communicate telepathically with creatures immune to mind-affecting effects.
 
 **Expression Immunities (Su)**: At 10th level, the proctor gains one or more immunities based on her monitor expression. Executors are immune to ability damage, ability drain, and energy drain. Fosters are immune to death effects, disease, and poison. Harmonizers are immune to critical hits. Impulsives are immune to transmutation effects, except those they willingly accept.

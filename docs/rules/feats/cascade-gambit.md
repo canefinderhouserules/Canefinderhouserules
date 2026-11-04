@@ -4,7 +4,7 @@
 
 You have integrated both the sweeping and circuitous styles of swordplay into a seamless union.
 
-**Prerequisites**: Swordlord Dueling Disciple, Sweeping Duelist, Circuitous Duelist, Weapon Finesse, Weapon Focus (dueling blade), base attack bonus +8.
+**Prerequisites**: [Swordlord Dueling Disciple](swordlord-dueling-disciple.md), [Sweeping Duelist](sweeping-duelist.md), [Circuitous Duelist](circuitous-duelist.md), [Weapon Finesse](weapon-finesse.md), Weapon Focus (dueling blade), base attack bonus +8.
 
 **Benefit**: When attacking a creature denied its Dexterity bonus to AC because of your successful feint, you increase the threat range of your dueling blade by 1 (typically to 18–20/×2), and gain a +2 bonus on attack rolls to confirm critical hits.
 

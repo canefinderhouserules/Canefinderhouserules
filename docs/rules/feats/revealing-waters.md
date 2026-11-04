@@ -4,7 +4,7 @@
 
 Your holy water washes away falsehoods.
 
-**Prerequisites**: Blessed Waters, base attack bonus +9.
+**Prerequisites**: [Blessed Waters](blessed-waters.md), base attack bonus +9.
 
 **Benefit**: Holy water you create through the use of the Blessed Waters feat can foil shapeshifters and those affected by deceptive magic. Any creature that takes damage from or that is within the splash radius of holy water you both created and threw is compelled to revert to its true form.
 

@@ -4,7 +4,7 @@
 
 Your critical strikes with your chosen weapon are deadlier than most.
 
-**Prerequisite**: Improved Critical, base attack bonus +8.
+**Prerequisite**: [Improved Critical](improved-critical.md), base attack bonus +8.
 
 **Benefit**: Your critical multiplier with your chosen weapon is increased by 1 (to a maximum of x6).
 

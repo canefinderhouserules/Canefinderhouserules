@@ -4,7 +4,7 @@
 
 You're a master of one type of weapon.
 
-**Prerequisite**: Weapon Focus.
+**Prerequisite**: [Weapon Focus](weapon-focus.md).
 
 **Benefit**: Double the bonuses on your attack rolls from Weapon Focus and Greater Weapon Focus. As a swift action, you can expend one use of mythic power to gain a bonus on attack rolls with your selected weapon equal to half your tier until the end of your turn.
 

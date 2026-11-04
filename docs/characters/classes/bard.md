@@ -112,7 +112,7 @@ Fascinate is an enchantment (compulsion), mind-affecting ability. Fascinate reli
 | 20th  | 6            | 6   | 6   | 6   | 6   | 5   | 5   |
 
 
-*Suggestion (Sp)*: A bard of 6th level or higher can use his performance to make a *suggestion* (as per the spell) to a creature he has already fascinated (see above). Using this ability does not disrupt the fascinate effect, but it does require a standard action to activate (in addition to the free action to continue the fascinate effect). A bard can use this ability more than once against an individual creature during an individual performance.
+*Suggestion (Sp)*: A bard of 6th level or higher can use his performance to make a [*suggestion*](../../magic/spells/suggestion.md) (as per the spell) to a creature he has already fascinated (see above). Using this ability does not disrupt the fascinate effect, but it does require a standard action to activate (in addition to the free action to continue the fascinate effect). A bard can use this ability more than once against an individual creature during an individual performance.
 
 Making a *suggestion* does not count against a bard’s total rounds per day of bardic performance. A Will saving throw (DC 10 + 1/2 the bard’s level + the bard’s Cha modifier) negates the effect. This ability affects only a single creature. *Suggestion* is an enchantment (compulsion), mind affecting, language-dependent ability and relies on audible components.
 

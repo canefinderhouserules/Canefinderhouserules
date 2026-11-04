@@ -4,7 +4,7 @@
 
 Your critical hits cause opponents to become exhausted.
 
-**Prerequisites**: Critical Focus, Tiring Critical, base attack bonus +15.
+**Prerequisites**: [Critical Focus](critical-focus.md), [Tiring Critical](tiring-critical.md), base attack bonus +15.
 
 **Benefit**: When you score a critical hit on a foe, your target immediately becomes exhausted. This feat has no effect on exhausted creatures.
 

@@ -4,6 +4,6 @@
 
 You become further adept at sabotaging your foes’ items.
 
-**Prerequisites**: Str 13, Improved Sunder, Power Attack, Sabotaging Sunder, Disable Device 9 ranks.
+**Prerequisites**: Str 13, [Improved Sunder](improved-sunder.md), [Power Attack](power-attack.md), [Sabotaging Sunder](sabotaging-sunder.md), Disable Device 9 ranks.
 
 **Benefit**: You do not provoke an attack of opportunity when performing the special sunder combat maneuver from the Sabotaging Sunder feat. In addition, you can attempt to use that maneuver on items held by the target, but you still cannot do so against items hidden in a bag, a pack, or another container.

@@ -35,7 +35,7 @@ To qualify to become a holy vindicator, a character must fulfill all the followi
 
 **Skills**: Knowledge (religion) 5 ranks.
 
-**Feats**: Alignment Channel or Elemental Channel.
+**Feats**: [Alignment Channel](../../rules/feats/alignment-channel.md) or [Elemental Channel](../../rules/feats/elemental-channel.md).
 
 **Spells**: Able to cast 1st-level divine spells.
 
@@ -61,11 +61,11 @@ The following are class features of the holy vindicator prestige class.
 
 While his stigmata are bleeding, the vindicator ignores blood drain and bleed damage from any other source and can use bleed or stabilize at will as a standard action.
 
-**Faith Healing (Su)**: At 3rd level, any cure wounds spells a vindicator casts on himself are automatically empowered as if by the Empower Spell feat, except they do not use higher spell level slots or an increased casting time. If the vindicator targets himself with a cure spell that affects multiple creatures, this ability only applies to himself. At 8th level, these healing spells are maximized rather than empowered.
+**Faith Healing (Su)**: At 3rd level, any cure wounds spells a vindicator casts on himself are automatically empowered as if by the [Empower Spell](../../rules/feats/empower-spell.md) feat, except they do not use higher spell level slots or an increased casting time. If the vindicator targets himself with a cure spell that affects multiple creatures, this ability only applies to himself. At 8th level, these healing spells are maximized rather than empowered.
 
 **Divine Wrath (Sp)**: At 4th level, when a vindicator confirms a critical hit, he may sacrifice a prepared 1st-level spell or available 1st-level spell slot to invoke doom upon the target as an immediate action (using the vindicator’s caster level). The save DC is increased by +2 if his weapon has a ×3 damage multiplier, or by +4 if it is ×4. The vindicator can also use this ability in response
 
-**Bloodfire (Su)**: At 5th level, while a vindicator’s stigmata are bleeding, his blood runs down his weapons like sacred or profane liquid energy; when he uses Channel Smite, the damage increases by 1d6, and if the target fails its save, it is sickened and takes 1d6 points of bleed damage each round on its turn. The target can attempt a new save every round to end the sickened and bleed effects.
+**Bloodfire (Su)**: At 5th level, while a vindicator’s stigmata are bleeding, his blood runs down his weapons like sacred or profane liquid energy; when he uses [Channel Smite](../../rules/feats/channel-smite.md), the damage increases by 1d6, and if the target fails its save, it is sickened and takes 1d6 points of bleed damage each round on its turn. The target can attempt a new save every round to end the sickened and bleed effects.
 
 **Channel Smite**: At 5th level, a vindicator gains Channel Smite as a bonus feat.
 

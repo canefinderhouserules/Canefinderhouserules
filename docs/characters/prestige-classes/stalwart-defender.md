@@ -73,7 +73,7 @@ A defensive stance requires a level of emotional calm, and it may not be maintai
 
 **Internal Fortitude (Ex)**: While in a defensive stance, the stalwart defender is immune to the sickened and nauseated conditions.
 
-**Mighty Resilience (Ex)**: The stalwart defender automatically negates the additional damage of one successful critical hit or sneak attack, as well as other abilities or effects that rely on a successful critical hit or sneak attack (such as blinding from Blinding Critical or bleed from sneak attack). The stalwart defender takes only normal damage from the attack. This power may only be used once per defensive stance. The stalwart defender must be at least 6th level to select this power.
+**Mighty Resilience (Ex)**: The stalwart defender automatically negates the additional damage of one successful critical hit or sneak attack, as well as other abilities or effects that rely on a successful critical hit or sneak attack (such as blinding from [Blinding Critical](../../rules/feats/blinding-critical.md) or bleed from sneak attack). The stalwart defender takes only normal damage from the attack. This power may only be used once per defensive stance. The stalwart defender must be at least 6th level to select this power.
 
 **Renewed Defense (Ex)**: As a standard action, the stalwart defender heals 1d8 points of damage + his Constitution modifier. For every two levels the stalwart defender has attained above 2nd, this healing increases by 1d8, to a maximum of 5d8 at 10th level. This power can be used only once per day and only while in a defensive stance.
 

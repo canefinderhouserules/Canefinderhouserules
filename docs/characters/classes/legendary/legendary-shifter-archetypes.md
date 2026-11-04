@@ -75,11 +75,11 @@ At 15th level, a dragon can take the form of a Huge dragon, as per the *form of 
 
 **Elemental Focus (Ex):** At 1st level, an elemental nexus chooses one primary element on which to focus. This element determines how she accesses the raw power of the Ethereal Plane, and grants her access to specific wild talents (see below) and additional class skills. She gains her selected element’s basic utility wild talent (basic telekinesis, basic aerokinesis, etc.) as a bonus wild talent.
 
-**Elemental Evolution (Su):** At 1st level, an elemental nexus gains a kinetic blast wild talent of her choice, the blast dealing damage as though she was a kineticist of her shifter level. This kinetic blast must be a simple blast that matches her element. Simple blasts are listed with their corresponding elements. She also gains the *kinetic fist* form infusion and the Improved Unarmed Strike feat, and the infusion costs 0 points of burn instead of 1 point. She can’t use her kinetic blast without the kinetic fist form infusion.
+**Elemental Evolution (Su):** At 1st level, an elemental nexus gains a kinetic blast wild talent of her choice, the blast dealing damage as though she was a kineticist of her shifter level. This kinetic blast must be a simple blast that matches her element. Simple blasts are listed with their corresponding elements. She also gains the *kinetic fist* form infusion and the [Improved Unarmed Strike](../../../rules/feats/improved-unarmed-strike.md) feat, and the infusion costs 0 points of burn instead of 1 point. She can’t use her kinetic blast without the kinetic fist form infusion.
 
 *This ability replaces shifter evolution.*
 
-**Elemental Brethren (Ex):** At 1st level, an elemental nexus gains a utility wild talent. At 5th level and every 4 levels afterwards, she gains an additional utility wild talent. She may also use any wild talent she possesses while using her shifter shape class feature. An elemental nexus can lower the burn cost of a utility wild talent by 1 (to a minimum of 0) a number of times per day equal to her Wisdom modifier. In addition, she is treated as though she was a kineticist of her level + 4 when selecting the Extra Wild Talent feat.
+**Elemental Brethren (Ex):** At 1st level, an elemental nexus gains a utility wild talent. At 5th level and every 4 levels afterwards, she gains an additional utility wild talent. She may also use any wild talent she possesses while using her shifter shape class feature. An elemental nexus can lower the burn cost of a utility wild talent by 1 (to a minimum of 0) a number of times per day equal to her Wisdom modifier. In addition, she is treated as though she was a kineticist of her level + 4 when selecting the [Extra Wild Talent](../../../rules/feats/extra-wild-talent.md) feat.
 
 *This ability replaces shifter aspect.*
 
@@ -214,31 +214,31 @@ to a lycanthrope’s curse of lycanthropy.
 
 **Advanced Study (Ex):** A metamorphic genius can reduce the level of the following extracts by 1:
 
-- *alter self*
+- [*alter self*](../../../magic/spells/alter-self.md)
 
-- *beast shape i*, *beast shape II*, *beast shape III*, *beast shape IV*
+- [*beast shape i*](../../../magic/spells/beast-shape-i.md), *beast shape II*, *beast shape III*, *beast shape IV*
 
 - *object form i*, *object form ii*, *object form iii*
 
-- *vermin shape i*, *vermin shape II*
+- [*vermin shape i*](../../../magic/spells/vermin-shape-i.md), *vermin shape II*
 
-- *monstrous physique i*, *monstrous physique II*, *monstrous physique III*
+- [*monstrous physique i*](../../../magic/spells/monstrous-physique-i.md), *monstrous physique II*, *monstrous physique III*
 
-- *undead anatomy i*, *undead anatomy II*, *undead anatomy III*
+- [*undead anatomy i*](../../../magic/spells/undead-anatomy-i.md), *undead anatomy II*, *undead anatomy III*
 
-- *ooze form i*, *ooze form II*
+- [*ooze form i*](../../../magic/spells/ooze-form-i.md), *ooze form II*
 
-- *plant shape i*, *plant shape II*
+- [*plant shape i*](../../../magic/spells/plant-shape-i.md), *plant shape II*
 
-- *form of the dragon i*, *form of the exotic dragon I*, *form of the alien dragon I*
+- [*form of the dragon i*](../../../magic/spells/form-of-the-dragon-i.md), *form of the exotic dragon I*, *form of the alien dragon I*
 
-- *giant form i*
+- [*giant form i*](../../../magic/spells/giant-form-i.md)
 
-- *dust form*
+- [*dust form*](../../../magic/spells/dust-form.md)
 
-- *verminous transformation*
+- [*verminous transformation*](../../../magic/spells/verminous-transformation.md)
 
-- *elemental body i*, *elemental body II*, *elemental body III*
+- [*elemental body i*](../../../magic/spells/elemental-body-i.md), *elemental body II*, *elemental body III*
 
 In addition, as a standard action, a number of times per day equal to the metamorphic genius’s Intelligence modifier + 1/3 her class level (minimum 1), when she is under the effects of an extract listed under her advanced study, she can choose to change the effects of it to another extract from her advanced study list of equal or lower level or change the form she has taken with that extract. For example, a 5th level metamorphic genius under the effects of a *beast shape I* spell could choose to change the effect to that of a *monstrous physique I* spell. Doing so does not reset the duration of the extract, nor does it require her to spend an additional extract.
 
@@ -312,13 +312,13 @@ At 14th level, a mimickin can take the form of a Diminutive or Gargantuan object
 
 *Manipulating living flesh is one thing, but necromorphs live to alter the flesh of the dead, slowly turning themselves into undead engines of destruction.*
 
-**Undead Adept (Sp):** At 1st level, a necromorph can cast *animate dead, lesser* and *command undead* as spell-like abilities a total number of times per day equal to her Charisma modifier. If the necromorph does not provide the material components for these spell-like abilities, they instead only last 10 minutes per character level. In addition, she gains the channel energy class feature of a cleric of her level, although she can only channel negative energy with it.
+**Undead Adept (Sp):** At 1st level, a necromorph can cast *animate dead, lesser* and [*command undead*](../../../magic/spells/command-undead.md) as spell-like abilities a total number of times per day equal to her Charisma modifier. If the necromorph does not provide the material components for these spell-like abilities, they instead only last 10 minutes per character level. In addition, she gains the channel energy class feature of a cleric of her level, although she can only channel negative energy with it.
 
-At 5th level, she can instead cast *animate dead*.
+At 5th level, she can instead cast [*animate dead*](../../../magic/spells/animate-dead.md).
 
-At 10th level, she can instead cast *create undead*.
+At 10th level, she can instead cast [*create undead*](../../../magic/spells/create-undead.md).
 
-At 15th level, she can instead cast *create undead, greater* and *control undead*.
+At 15th level, she can instead cast *create undead, greater* and [*control undead*](../../../magic/spells/control-undead.md).
 
 *This ability replaces shifter aspect, chimeric aspect, and greater chimeric aspect.*
 
@@ -354,7 +354,7 @@ These bonuses to AC apply even against touch attacks and when the necromorph is 
 
 *This ability replaces trackless step.*
 
-**True Death (Ex):** At 20th level, a necromorph gains the Craft Wondrous Item feat and gains the Lich template, automatically gaining a phylactery. If her alignment is not evil, it is instantly shifted to evil.
+**True Death (Ex):** At 20th level, a necromorph gains the [Craft Wondrous Item](../../../rules/feats/craft-wondrous-item.md) feat and gains the Lich template, automatically gaining a phylactery. If her alignment is not evil, it is instantly shifted to evil.
 
 *This ability replaces master of many forms.*
 
@@ -403,7 +403,7 @@ An oozeling cannot use her shifter shape to transform into a magical beast.
 
 *This ability alters shifter shape.*
 
-**Oozekin (Ex):** At 9th level, an oozeling always has a 50% chance to ignore critical hits and precision damage and gains blindsense 30 feet , regardless of her form. At 14th level, an oozeling is immune to critical hits and precision damage and her blindsense becomes blindsight 30 feet.
+**Oozekin (Ex):** At 9th level, an oozeling always has a 50% chance to ignore critical hits and precision damage and gains blindsense 30 feet, regardless of her form. At 14th level, an oozeling is immune to critical hits and precision damage and her blindsense becomes blindsight 30 feet.
 
 *This ability replace chimeric aspect and greater chimeric aspect.*
 

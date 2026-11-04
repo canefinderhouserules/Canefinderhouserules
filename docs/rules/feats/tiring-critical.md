@@ -4,7 +4,7 @@
 
 Your critical hits cause opponents to become fatigued.
 
-**Prerequisites**: Critical Focus, base attack bonus +13.
+**Prerequisites**: [Critical Focus](critical-focus.md), base attack bonus +13.
 
 **Benefit**: Whenever you score a critical hit, your opponent becomes fatigued. This feat has no additional effect on a fatigued or exhausted creature.
 

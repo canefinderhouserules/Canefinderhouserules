@@ -33,7 +33,7 @@ To qualify to become a duelist, a character must fulfill all the following crite
 
 **Skills**: Acrobatics 2 ranks, Perform 2 ranks.
 
-**Feats**: Dodge, Mobility, Weapon Finesse.
+**Feats**: Dodge, Mobility, [Weapon Finesse](../../rules/feats/weapon-finesse.md).
 
 ??? note "Original requirements"
 
@@ -61,7 +61,7 @@ All of the following are class features of the duelist prestige class.
 
 Any creature that is immune to sneak attacks is immune to the additional damage granted by precise strike, and any item or ability that protects a creature from critical hits also protects a creature from the additional damage of a precise strike. This additional damage is precision damage, and isn’t multiplied on a critical hit.
 
-As a swift action, a duelist can spend 1 panache point to double her precise strike’s damage bonus on the next attack. This benefit must be used before the end of her turn, or it is lost. This cost cannot be reduced by any ability or effect that reduces the amount of panache points a deed costs (such as the Signature Deed feat).
+As a swift action, a duelist can spend 1 panache point to double her precise strike’s damage bonus on the next attack. This benefit must be used before the end of her turn, or it is lost. This cost cannot be reduced by any ability or effect that reduces the amount of panache points a deed costs (such as the [Signature Deed](../../rules/feats/signature-deed.md) feat).
 
 ??? note "Original rule"
 
@@ -71,7 +71,7 @@ As a swift action, a duelist can spend 1 panache point to double her precise str
 
 **Deeds**: At 2nd level and every even level thereafter, a duelist gains 1 deed from the [swashbuckler’s deeds](../classes/swashbuckler.md).
 
-**Improved Reaction (Ex)**: At 2nd level, a duelist gains a +2 bonus on initiative checks. At 8th level, the bonus increases to +4. This bonus stacks with the benefit provided by the Improved Initiative feat. She also gains Improved Initiative as a bonus feat.
+**Improved Reaction (Ex)**: At 2nd level, a duelist gains a +2 bonus on initiative checks. At 8th level, the bonus increases to +4. This bonus stacks with the benefit provided by the [Improved Initiative](../../rules/feats/improved-initiative.md) feat. She also gains Improved Initiative as a bonus feat.
 
 ??? note "Original rule"
 
@@ -93,7 +93,7 @@ For the purpose of this ability, a duelist’s class levels stack with levels in
 
 **Enhanced Mobility (Ex)**: Starting at 3rd level, when wearing light or no armor and not using a shield, a duelist gains an additional +4 bonus to AC against attacks of opportunity caused when she moves out of a threatened square.
 
-**Combat Reflexes**: At 4th level, a duelist gains the benefit of the Combat Reflexes feat when using a light or one-handed piercing weapon.
+**Combat Reflexes**: At 4th level, a duelist gains the benefit of the [Combat Reflexes](../../rules/feats/combat-reflexes.md) feat when using a light or one-handed piercing weapon.
 
 **Grace (Ex)**: At 4th level, a duelist gains an additional +2 competence bonus on all Reflex saving throws. This ability functions for a duelist only when she is wearing light or no armor and not using a shield.
 
@@ -105,13 +105,13 @@ For the purpose of this ability, a duelist’s class levels stack with levels in
 
 **Acrobatic Charge (Ex)**: At 6th level, a duelist gains the ability to charge in situations where others cannot. She may charge over difficult terrain that normally slows movement. Depending on the circumstance, she may still need to make appropriate checks to successfully move over the terrain.
 
-**Elaborate Defense (Ex)**: At 7th level and higher, if a duelist chooses to fight defensively or use total defense in melee combat, she gains an additional +1 dodge bonus to AC for every 3 levels of duelist she has attained. She can choose to reduce the attack penalty by the same amount instead of increasing her AC. This ability also works with Combat Expertise.
+**Elaborate Defense (Ex)**: At 7th level and higher, if a duelist chooses to fight defensively or use total defense in melee combat, she gains an additional +1 dodge bonus to AC for every 3 levels of duelist she has attained. She can choose to reduce the attack penalty by the same amount instead of increasing her AC. This ability also works with [Combat Expertise](../../rules/feats/combat-expertise.md).
 
 ??? note "Original rule"
 
     **Elaborate Defense (Ex)**: At 7th level and higher, if a duelist chooses to fight defensively or use total defense in melee combat, she gains an additional +1 dodge bonus to AC for every 3 levels of duelist she has attained.
 
-**Deflect Arrows**: At 9th level, a duelist gains the benefit of the Deflect Arrows feat when using a light or one-handed piercing weapon. The duelist does not need a free hand to use this feat.
+**Deflect Arrows**: At 9th level, a duelist gains the benefit of the [Deflect Arrows](../../rules/feats/deflect-arrows.md) feat when using a light or one-handed piercing weapon. The duelist does not need a free hand to use this feat.
 
 **No Retreat (Ex)**: At 9th level, enemies adjacent to the duelist that take a withdraw action provoke an attack of opportunity from the duelist.
 

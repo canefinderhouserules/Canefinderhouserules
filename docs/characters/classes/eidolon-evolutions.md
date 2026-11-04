@@ -94,7 +94,7 @@ Arms that have hands can be used to wield weapons, if the eidolon is proficient.
 
 **Rend (Ex)**: An eidolon learns to rip and tear the flesh of those it attacks with its claws, gaining the rend ability. Whenever the eidolon makes two successful claw attacks against the same target in 1 round, its claws latch onto the flesh and deal extra damage. This damage is equal to the damage dealt by one claw attack plus 1-1/2 times the eidolon’s Strength modifier. The eidolon must possess the claws evolution to select this evolution. The summoner must be at least 6th level before selecting this evolution.
 
-**Rider Bond (Ex)**: You and your eidolon share an empathic connection while you ride it. You gain a bonus on Ride checks equal to one-half your summoner level and you also gain Mounted Combat as a bonus feat when mounted on your eidolon. The eidolon must possess the mount evolution to take this evolution.
+**Rider Bond (Ex)**: You and your eidolon share an empathic connection while you ride it. You gain a bonus on Ride checks equal to one-half your summoner level and you also gain [Mounted Combat](../../rules/feats/mounted-combat.md) as a bonus feat when mounted on your eidolon. The eidolon must possess the mount evolution to take this evolution.
 
 **Sickening (Ex)**: The eidolon’s smell or appearance is so offensive it sickens nearby creatures. Any living creature except its summoner that approaches within 20 feet or begins its turn in that area is sickened for 1 round unless it succeeds at a Fortitude save (DC = 10 + 1/2 the eidolon’s HD + its Con modifier). Creatures that successfully save cannot be affected by the same eidolon’s sickening effect for 24 hours.
 
@@ -106,7 +106,7 @@ Arms that have hands can be used to wield weapons, if the eidolon is proficient.
 
 Whenever the eidolon makes a successful bite attack of the selected type, it can attempt a free combat maneuver check. If successful, the target is knocked prone. If the check fails, the eidolon is not tripped in return. This ability only works on creatures of a size equal to or smaller than the eidolon. The eidolon must possess the bite evolution to select this evolution.
 
-**Weapon Training (Ex)**: An eidolon learns to use a weapon, gaining Simple Weapon Proficiency as a bonus feat. If 2 additional evolution points are spent, it gains proficiency with all martial weapons as well.
+**Weapon Training (Ex)**: An eidolon learns to use a weapon, gaining [Simple Weapon Proficiency](../../rules/feats/simple-weapon-proficiency.md) as a bonus feat. If 2 additional evolution points are spent, it gains proficiency with all martial weapons as well.
 
 ## 3-Point Evolutions
 

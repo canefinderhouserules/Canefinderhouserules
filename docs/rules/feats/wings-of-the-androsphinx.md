@@ -4,7 +4,7 @@
 
 You can reshape the kinetic energy of foes' charges.
 
-**Prerequisites**: Int 13, Combat Expertise, Improved Reposition, base attack bonus +1 or monk level 1st.
+**Prerequisites**: Int 13, [Combat Expertise](combat-expertise.md), [Improved Reposition](improved-reposition.md), base attack bonus +1 or monk level 1st.
 
 **Benefit**: You gain a +2 bonus to AC against charge attacks. If a creature charges you and fails its attack roll, as an immediate action you can attempt a reposition combat maneuver to reposition that foe. If you use a readied action to attack a creature charging you, you can roll to attack and then attempt to reposition that creature as a free action before it resolves its charge attack.
 

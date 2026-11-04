@@ -4,7 +4,7 @@
 
 Your critical hits mute your enemies.
 
-**Prerequisites**: Critical Focus, base attack bonus +15.
+**Prerequisites**: [Critical Focus](critical-focus.md), base attack bonus +15.
 
 **Benefit**: Whenever you score a critical hit against an opponent, the victim is unable to speak for 1d4+1 rounds. This prevents spellcasters from using spells with verbal components. A successful Fortitude saving throw reduces this muteness to 1 round. The DC of this Fortitude save is equal to 10 + your base attack bonus.
 

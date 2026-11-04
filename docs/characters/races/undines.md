@@ -130,5 +130,5 @@ Some undines—often from the outer sea—descend from tritons, rather than geni
 
 ## More Favored Class Options
 
-- **Summoner**: If the summoner’s eidolon has an aquatic base form , add +5 feet to the range of the summoner’s life link ability.
+- **Summoner**: If the summoner’s eidolon has an aquatic base form, add +5 feet to the range of the summoner’s life link ability.
 

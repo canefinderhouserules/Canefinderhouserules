@@ -2,7 +2,7 @@
 
 Thief, sneak, charmer, diplomat—all of these and more describe the rogue. When not skulking in the shadows, disarming traps, and stealing from the unaware, rogues may rub shoulders with powerful nobles or plot capers with fellow crooks. The rogue is the master of many faces, using her skills and talents to get herself both into and out of trouble with rakish aplomb. While others may call them charlatans and burglars, even the most larcenous rogues tend to consider themselves consummate professionals, willing to take on any job if the price is right.
 
-**Unchained**: While much of the unchained rogue will be familiar to those who have played the class from the Core Rulebook, there are a number of new class features that greatly enhance the power and flexibility of the rogue. Chief among these is the debilitating injury class feature. A rogue with this ability can severely hamper her foes, giving her a much-needed boost to her offense or defense, depending on the situation. In addition, with finesse training, the rogue now gains Weapon Finesse for free at 1st level. This ability also lets her add her Dexterity to damage rolls with one weapon starting at 3rd level. Finally, the rogue’s edge ability ties into a new system presented in Chapter 2 of this book called skill unlocks. With this feature, the rogue can master a small set of chosen skills, outperforming all those characters without access to such talents.
+**Unchained**: While much of the unchained rogue will be familiar to those who have played the class from the Core Rulebook, there are a number of new class features that greatly enhance the power and flexibility of the rogue. Chief among these is the debilitating injury class feature. A rogue with this ability can severely hamper her foes, giving her a much-needed boost to her offense or defense, depending on the situation. In addition, with finesse training, the rogue now gains [Weapon Finesse](../../rules/feats/weapon-finesse.md) for free at 1st level. This ability also lets her add her Dexterity to damage rolls with one weapon starting at 3rd level. Finally, the rogue’s edge ability ties into a new system presented in Chapter 2 of this book called skill unlocks. With this feature, the rogue can master a small set of chosen skills, outperforming all those characters without access to such talents.
 
 **Alignment**: Any.
 
@@ -55,9 +55,9 @@ The rogue must be able to see the target well enough to pick out a vital spot an
 
 **Finesse Training (Ex)**: At 1st level, a rogue gains Weapon Finesse as a bonus feat. At 3rd, 11th, and 19th levels, she gains 1 bonus combat feat, and she must meet its prerequisites. In addition to the normal combat feats, she can choose either of these two unique options:
 
-*Combat Deceiver*: You can sacrifice one of your attacks during a full attack to feint. If the feint succeeds, your second attack can deal sneak attack damage, or all your other attacks can if you have Greater Feint.
+*Combat Deceiver*: You can sacrifice one of your attacks during a full attack to feint. If the feint succeeds, your second attack can deal sneak attack damage, or all your other attacks can if you have [Greater Feint](../../rules/feats/greater-feint.md).
 
-*Ranged Sneak Attacker*: Whenever you are within Point-Blank Shot range and the enemy is flanked by you or by two of your allies, you can make sneak attacks with ranged weapons.
+*Ranged Sneak Attacker*: Whenever you are within [Point-Blank Shot](../../rules/feats/point-blank-shot.md) range and the enemy is flanked by you or by two of your allies, you can make sneak attacks with ranged weapons.
 
 ??? note "Original rule"
 
@@ -65,7 +65,7 @@ The rogue must be able to see the target well enough to pick out a vital spot an
 
 **Evasion (Ex)**: At 2nd level, a rogue can avoid even magical and unusual attacks with great agility. If she succeeds at a Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the rogue is wearing light armor or no armor. A helpless rogue does not gain the benefit of evasion.
 
-**Guile Pool (Ex)**: At 2nd level, a rogue gains a guile pool equal to half her rogue level + her Charisma modifier or her Intelligence modifier (choose one; minimum 1). She can spend 1 point on any skill check for a +2 bonus on that check; at 10th level, this bonus becomes +4. As a swift action, she can spend 1 point for a +1 circumstance bonus on attack rolls until the end of her turn. This bonus increases by 1 for every 4 levels beyond 2nd (+2 at 6th, +3 at 10th, +4 at 14th), to a maximum of +5 at 18th level. While she has at least 1 point in the pool, she is treated as having the Improved Feint feat.
+**Guile Pool (Ex)**: At 2nd level, a rogue gains a guile pool equal to half her rogue level + her Charisma modifier or her Intelligence modifier (choose one; minimum 1). She can spend 1 point on any skill check for a +2 bonus on that check; at 10th level, this bonus becomes +4. As a swift action, she can spend 1 point for a +1 circumstance bonus on attack rolls until the end of her turn. This bonus increases by 1 for every 4 levels beyond 2nd (+2 at 6th, +3 at 10th, +4 at 14th), to a maximum of +5 at 18th level. While she has at least 1 point in the pool, she is treated as having the [Improved Feint](../../rules/feats/improved-feint.md) feat.
 
 ??? note "Original rule"
 

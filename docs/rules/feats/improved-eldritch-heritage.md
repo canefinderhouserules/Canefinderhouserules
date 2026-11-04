@@ -2,7 +2,7 @@
 
 The power of your discovered bloodline continues to grow.
 
-**Prerequisites**: Cha 15, Eldritch Heritage, character level 11th.
+**Prerequisites**: Cha 15, [Eldritch Heritage](eldritch-heritage.md), character level 11th.
 
 **Benefit**: You gain either the 3rd-level or the 9th-level power (your choice) of the bloodline you selected with the Eldritch Heritage feat. For purposes of using that power, treat your sorcerer level as equal to your character level – 2, even if you have levels in sorcerer. You do not gain any of the other bloodline abilities.
 

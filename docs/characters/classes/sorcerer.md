@@ -36,7 +36,7 @@ At 7th level, and every six levels thereafter, a sorcerer receives one bonus fea
 
 **Cantrips**: Sorcerers learn a number of cantrips, or 0-level spells, as noted on Table 3–15 under “Spells Known.” These spells are cast like any other spell, but they do not consume any slots and may be used again.
 
-**Eschew Materials**: A sorcerer gains Eschew Materials as a bonus feat at 1st level.
+**Eschew Materials**: A sorcerer gains [Eschew Materials](../../rules/feats/eschew-materials.md) as a bonus feat at 1st level.
 
 ## Sorcerer Bloodlines
 
@@ -76,11 +76,11 @@ There is a taint in your blood, one that is alien and bizarre. You tend to think
 
 **Class Skill**: Knowledge (dungeoneering).
 
-**Bonus Spells**: *enlarge person* (3rd), *see invisibility* (5th), *tongues* (7th), *black tentacles* (9th), *feeblemind* (11th), *veil* (13th), *plane shift* (15th), *mind blank* (17th), *shapechange* (19th).
+**Bonus Spells**: [*enlarge person*](../../magic/spells/enlarge-person.md) (3rd), [*see invisibility*](../../magic/spells/see-invisibility.md) (5th), [*tongues*](../../magic/spells/tongues.md) (7th), [*black tentacles*](../../magic/spells/black-tentacles.md) (9th), [*feeblemind*](../../magic/spells/feeblemind.md) (11th), [*veil*](../../magic/spells/veil.md) (13th), [*plane shift*](../../magic/spells/plane-shift.md) (15th), [*mind blank*](../../magic/spells/mind-blank.md) (17th), [*shapechange*](../../magic/spells/shapechange.md) (19th).
 
-**Bonus Feats**: Combat Casting, Improved Disarm, Improved Grapple, Improved Initiative, Improved Unarmed Strike, Iron Will, Silent Spell, Skill Focus (Knowledge [dungeoneering]).
+**Bonus Feats**: [Combat Casting](../../rules/feats/combat-casting.md), [Improved Disarm](../../rules/feats/improved-disarm.md), [Improved Grapple](../../rules/feats/improved-grapple.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md), [Iron Will](../../rules/feats/iron-will.md), [Silent Spell](../../rules/feats/silent-spell.md), Skill Focus (Knowledge [dungeoneering]).
 
-**Bloodline Arcana**: Whenever you cast a spell of the polymorph subschool, increase the duration of the spell by 50% (minimum 1 round). This bonus does not stack with the increase granted by the Extend Spell feat.
+**Bloodline Arcana**: Whenever you cast a spell of the polymorph subschool, increase the duration of the spell by 50% (minimum 1 round). This bonus does not stack with the increase granted by the [Extend Spell](../../rules/feats/extend-spell.md) feat.
 
 **Bloodline Powers**: Aberrant sorcerers show increasing signs of their tainted heritage as they increase in level, although they are only visible when used.
 
@@ -100,9 +100,9 @@ Generations ago, a demon spread its filth into your heritage. While it does not 
 
 **Class Skill**: Knowledge (planes).
 
-**Bonus Spells**: *cause fear* (3rd), *bull’s strength* (5th), *rage* (7th), *stoneskin* (9th), *dismissal* (11th), *transformation* (13th), *greater* *teleport* (15th), *unholy aura* (17th), *summon monster IX* (19th).
+**Bonus Spells**: [*cause fear*](../../magic/spells/cause-fear.md) (3rd), [*bull’s strength*](../../magic/spells/bulls-strength.md) (5th), [*rage*](../../magic/spells/rage.md) (7th), [*stoneskin*](../../magic/spells/stoneskin.md) (9th), [*dismissal*](../../magic/spells/dismissal.md) (11th), [*transformation*](../../magic/spells/transformation.md) (13th), *greater* [*teleport*](../../magic/spells/teleport.md) (15th), [*unholy aura*](../../magic/spells/unholy-aura.md) (17th), *summon monster IX* (19th).
 
-**Bonus Feats**: Augment Summoning, Cleave, Empower Spell, Great Fortitude, Improved Bull Rush, Improved Sunder, Power Attack, Skill Focus (Knowledge [planes]).
+**Bonus Feats**: [Augment Summoning](../../rules/feats/augment-summoning.md), Cleave, [Empower Spell](../../rules/feats/empower-spell.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Power Attack](../../rules/feats/power-attack.md), Skill Focus (Knowledge [planes]).
 
 **Bloodline Arcana**: Whenever you cast a spell of the summoning subschool, the creatures summoned gain DR/ good equal to 1/2 your sorcerer level (minimum 1). This does not stack with any DR the creature might have.
 
@@ -124,9 +124,9 @@ Your family has always been skilled in the eldritch art of magic. While many of 
 
 **Class Skill**: Knowledge (any one).
 
-**Bonus Spells**: *identify* (3rd), *invisibility* (5th), *dispel magic* (7th), *dimension door* (9th), *overland flight* (11th), *true seeing* (13th), *greater teleport* (15th), *power word stun* (17th), *wish* (19th).
+**Bonus Spells**: [*identify*](../../magic/spells/identify.md) (3rd), [*invisibility*](../../magic/spells/invisibility.md) (5th), [*dispel magic*](../../magic/spells/dispel-magic.md) (7th), [*dimension door*](../../magic/spells/dimension-door.md) (9th), [*overland flight*](../../magic/spells/overland-flight.md) (11th), [*true seeing*](../../magic/spells/true-seeing.md) (13th), *greater teleport* (15th), [*power word stun*](../../magic/spells/power-word-stun.md) (17th), [*wish*](../../magic/spells/wish.md) (19th).
 
-**Bonus Feats**: Combat Casting, Improved Counterspell, Improved Initiative, Iron Will, Scribe Scroll, Skill Focus (Knowledge [arcana]), Spell Focus, Still Spell.
+**Bonus Feats**: Combat Casting, [Improved Counterspell](../../rules/feats/improved-counterspell.md), Improved Initiative, Iron Will, [Scribe Scroll](../../rules/feats/scribe-scroll.md), Skill Focus (Knowledge [arcana]), Spell Focus, [Still Spell](../../rules/feats/still-spell.md).
 
 **Table 3–15: Sorcerer Spells Known**
 
@@ -156,7 +156,7 @@ Your family has always been skilled in the eldritch art of magic. While many of 
 | 20th  | 9            | 5   | 5   | 4   | 4   | 4   | 3   | 3   | 3   | 3   |
 
 
-**Bloodline Arcana**: Whenever you apply a metamagic feat to a spell that increases the slot used by at least one level, increase the spell’s DC by +1. This bonus does not stack with itself and does not apply to spells modified by the Heighten Spell feat.
+**Bloodline Arcana**: Whenever you apply a metamagic feat to a spell that increases the slot used by at least one level, increase the spell’s DC by +1. This bonus does not stack with itself and does not apply to spells modified by the [Heighten Spell](../../rules/feats/heighten-spell.md) feat.
 
 **Bloodline Powers**: Magic comes naturally to you, but as you gain levels you must take care to prevent the power from overwhelming you.
 
@@ -176,9 +176,9 @@ Your bloodline is blessed by a celestial power, either from a celestial ancestor
 
 **Class Skill**: Heal.
 
-**Bonus Spells**: *bless* (3rd), *resist energy* (5th), *magic circle* *against evil* (7th), *remove curse* (9th), *flame strike* (11th), *greater dispel magic* (13th), *banishment* (15th), *sunburst* (17th), *gate* (19th).
+**Bonus Spells**: [*bless*](../../magic/spells/bless.md) (3rd), [*resist energy*](../../magic/spells/resist-energy.md) (5th), *magic circle* *against evil* (7th), [*remove curse*](../../magic/spells/remove-curse.md) (9th), [*flame strike*](../../magic/spells/flame-strike.md) (11th), *greater dispel magic* (13th), [*banishment*](../../magic/spells/banishment.md) (15th), [*sunburst*](../../magic/spells/sunburst.md) (17th), [*gate*](../../magic/spells/gate.md) (19th).
 
-**Bonus Feats**: Dodge, Extend Spell, Iron Will, Mobility, Mounted Combat, Ride-By Attack, Skill Focus (Knowledge [religion]), Weapon Finesse.
+**Bonus Feats**: Dodge, Extend Spell, Iron Will, Mobility, [Mounted Combat](../../rules/feats/mounted-combat.md), [Ride-By Attack](../../rules/feats/ride-by-attack.md), Skill Focus (Knowledge [religion]), [Weapon Finesse](../../rules/feats/weapon-finesse.md).
 
 **Bloodline Arcana**: Whenever you cast a spell of the summoning subschool, the creatures summoned gain DR/evil equal to 1/2 your sorcerer level (minimum 1). This does not stack with any DR the creature might have.
 
@@ -200,9 +200,9 @@ Your family is destined for greatness in some way. Your birth could have been fo
 
 **Class Skill**: Knowledge (history).
 
-**Bonus Spells**: *alarm* (3rd), *blur* (5th), *protection from energy* (7th), *freedom of movement* (9th), *break enchantment* (11th), *mislead* (13th), *spell turning* (15th), *moment of prescience* (17th), *foresight* (19th).
+**Bonus Spells**: [*alarm*](../../magic/spells/alarm.md) (3rd), [*blur*](../../magic/spells/blur.md) (5th), [*protection from energy*](../../magic/spells/protection-from-energy.md) (7th), [*freedom of movement*](../../magic/spells/freedom-of-movement.md) (9th), [*break enchantment*](../../magic/spells/break-enchantment.md) (11th), [*mislead*](../../magic/spells/mislead.md) (13th), [*spell turning*](../../magic/spells/spell-turning.md) (15th), [*moment of prescience*](../../magic/spells/moment-of-prescience.md) (17th), [*foresight*](../../magic/spells/foresight.md) (19th).
 
-**Bonus Feats**: Arcane Strike, Diehard, Endurance, Leadership, Lightning Reflexes, Maximize Spell, Skill Focus (Knowledge [history]), Weapon Focus.
+**Bonus Feats**: [Arcane Strike](../../rules/feats/arcane-strike.md), Diehard, Endurance, Leadership, [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), [Maximize Spell](../../rules/feats/maximize-spell.md), Skill Focus (Knowledge [history]), Weapon Focus.
 
 **Bloodline Arcana**: Whenever you cast a spell with a range of “personal,” you gain a luck bonus equal to the spell’s level on all your saving throws for 1 round.
 
@@ -224,9 +224,9 @@ At some point in your family’s history, a dragon interbred with your bloodline
 
 **Class Skill**: Perception.
 
-**Bonus Spells**: *mage armor* (3rd), *resist energy* (5th), *fly* (7th), *fear* (9th), *spell resistance* (11th), *form of the dragon I* (13th), *form* *of the dragon II* (15th), *form of the dragon III* (17th), *wish* (19th).
+**Bonus Spells**: [*mage armor*](../../magic/spells/mage-armor.md) (3rd), *resist energy* (5th), *fly* (7th), [*fear*](../../magic/spells/fear.md) (9th), [*spell resistance*](../../magic/spells/spell-resistance.md) (11th), *form of the dragon I* (13th), *form* *of the dragon II* (15th), *form of the dragon III* (17th), *wish* (19th).
 
-**Bonus Feats**: Blind-Fight, Great Fortitude, Improved Initiative, Power Attack, Quicken Spell, Skill Focus (Fly), Skill Focus (Knowledge [arcana]), Toughness.
+**Bonus Feats**: Blind-Fight, Great Fortitude, Improved Initiative, Power Attack, [Quicken Spell](../../rules/feats/quicken-spell.md), Skill Focus (Fly), Skill Focus (Knowledge [arcana]), Toughness.
 
 **Bloodline Arcana**: Whenever you cast a spell with an energy descriptor that matches your draconic bloodline’s energy type, that spell gains a +1 enhancement bonus to damage per die rolled. In addition, the saving throw DC of such spells increases by 1.
 
@@ -270,7 +270,7 @@ Your family has a connection with the ethereal substance known as ectoplasm, whe
 
 **Bonus Spells**: Obscuring mist (3rd), ghost whip* (5th), ectoplasmic snare* (7th), spirit-bound blade* (9th), wall of ectoplasm* (11th), ethereal jaunt (13th), ectoplasmic eruption* (15th), create demiplane (17th), etherealness (19th).
 
-**Bonus Feats**: Blind-Fight, Dodge, Ectoplasmic Spell, Lingering Spell, Silent Spell, Skill Focus (Fly), Skill Focus (Stealth), Spell Focus.
+**Bonus Feats**: Blind-Fight, Dodge, [Ectoplasmic Spell](../../rules/feats/ectoplasmic-spell.md), [Lingering Spell](../../rules/feats/lingering-spell.md), Silent Spell, Skill Focus (Fly), Skill Focus (Stealth), Spell Focus.
 
 **Bloodline Arcana**: Incorporeal creatures take 75% of the normal amount of damage from your damaging spells, and when incorporeal creatures attempt saving throws against your non-damaging spells, they roll twice and must take the lower result.
 
@@ -329,9 +329,9 @@ The capricious nature of the fey runs in your family due to some intermingling o
 
 **Class Skill**: Knowledge (nature).
 
-**Bonus Spells**: *entangle* (3rd), *hideous laughter* (5th), *deep* *slumber* (7th), *poison* (9th), *tree stride* (11th), *mislead* (13th), *phase door* (15th), *irresistible dance* (17th), *shapechange* (19th).
+**Bonus Spells**: [*entangle*](../../magic/spells/entangle.md) (3rd), [*hideous laughter*](../../magic/spells/hideous-laughter.md) (5th), *deep* *slumber* (7th), [*poison*](../../magic/spells/poison.md) (9th), [*tree stride*](../../magic/spells/tree-stride.md) (11th), *mislead* (13th), [*phase door*](../../magic/spells/phase-door.md) (15th), [*irresistible dance*](../../magic/spells/irresistible-dance.md) (17th), *shapechange* (19th).
 
-**Bonus Feats**: Dodge, Improved Initiative, Lightning Reflexes, Mobility, Point Blank Shot, Precise Shot, Quicken Spell, Skill Focus (Knowledge [nature]).
+**Bonus Feats**: Dodge, Improved Initiative, Lightning Reflexes, Mobility, Point Blank Shot, [Precise Shot](../../rules/feats/precise-shot.md), Quicken Spell, Skill Focus (Knowledge [nature]).
 
 **Bloodline Arcana**: Whenever you cast a spell of the compulsion subschool, increase the spell’s DC by +2.
 
@@ -345,7 +345,7 @@ The capricious nature of the fey runs in your family due to some intermingling o
 
 *Fey Magic (Su)*: At 15th level, you may reroll any caster level check made to overcome spell resistance. You must decide to use this ability before the results are revealed by the GM. You must take the second result, even if it is worse. You can use this ability at will.
 
-*Soul of the Fey* *(Su)*: At 20th level, your soul becomes one with the world of the fey. You gain immunity to poison and DR 10/cold iron. Creatures of the animal type do not attack you unless compelled to do so through magic. Once per day, you can cast *shadow walk* as a spell-like ability using your sorcerer level as your caster level.
+*Soul of the Fey* *(Su)*: At 20th level, your soul becomes one with the world of the fey. You gain immunity to poison and DR 10/cold iron. Creatures of the animal type do not attack you unless compelled to do so through magic. Once per day, you can cast [*shadow walk*](../../magic/spells/shadow-walk.md) as a spell-like ability using your sorcerer level as your caster level.
 
 ## Infernal
 
@@ -353,16 +353,16 @@ Somewhere in your family’s history, a relative made a deal with a devil, and t
 
 **Class Skill**: Diplomacy.
 
-**Bonus Spells**: *protection from good* (3rd), *scorching ray* (5th), *suggestion* (7th), *charm monster* (9th), *dominate person* (11th), *planar binding* (devils and creatures with the fiendish template only) (13th), *greater teleport* (15th), *power word stun* (17th), *meteor swarm* (19th).
+**Bonus Spells**: [*protection from good*](../../magic/spells/protection-from-good.md) (3rd), [*scorching ray*](../../magic/spells/scorching-ray.md) (5th), [*suggestion*](../../magic/spells/suggestion.md) (7th), [*charm monster*](../../magic/spells/charm-monster.md) (9th), [*dominate person*](../../magic/spells/dominate-person.md) (11th), [*planar binding*](../../magic/spells/planar-binding.md) (devils and creatures with the fiendish template only) (13th), *greater teleport* (15th), *power word stun* (17th), [*meteor swarm*](../../magic/spells/meteor-swarm.md) (19th).
 
-**Bonus Feats**: Blind-Fight, Combat Expertise, Deceitful, Extend Spell, Improved Disarm, Iron Will, Skill Focus (Knowledge [planes]), Spell Penetration.
+**Bonus Feats**: Blind-Fight, [Combat Expertise](../../rules/feats/combat-expertise.md), Deceitful, Extend Spell, Improved Disarm, Iron Will, Skill Focus (Knowledge [planes]), [Spell Penetration](../../rules/feats/spell-penetration.md).
 
 **Bloodline Arcana**: Whenever you cast a spell of the charm subschool, increase the spell’s DC by +2.
 
 
 **Bloodline Powers**: You can draw upon the power of Hell, although you must be wary of its corrupting influence. Such power does not come without a price.
 
-*Corrupting Touch* *(Sp)*: At 1st level, you can cause a creature to become shaken (see [Conditions](../../rules/appendices/conditions.md#shaken)) as a melee touch attack. This effect persists for a number of rounds equal to 1/2 your sorcerer level (minimum 1). Creatures shaken by this ability radiate an aura of evil, as if they were an evil outsider (see *detect evil*). Multiple touches do not stack, but they do add to the duration. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+*Corrupting Touch* *(Sp)*: At 1st level, you can cause a creature to become shaken (see [Conditions](../../rules/appendices/conditions.md#shaken)) as a melee touch attack. This effect persists for a number of rounds equal to 1/2 your sorcerer level (minimum 1). Creatures shaken by this ability radiate an aura of evil, as if they were an evil outsider (see [*detect evil*](../../magic/spells/detect-evil.md)). Multiple touches do not stack, but they do add to the duration. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 *Infernal Resistances* *(Ex)*: At 3rd level, you gain resist fire 5 and a +2 bonus on saving throws made against poison. At 9th level, your resistance to fire increases to 10 and your bonus on poison saving throws increases to +4.
 
@@ -380,7 +380,7 @@ Possessed sorcerers channel their magic potential through a unique bond with a p
 
 **Bonus Spells**: Anticipate peril (3rd), share memory (5th), purge spirit (7th), entrap spirit (9th), possession (11th), telepathy (13th), insanity (15th), bilocation (17th), divide mind (19th).
 
-**Bonus Feats**: Combat Casting, Deceitful, Fearsome Spell, Improved Iron Will, Iron Will, Persuasive, Selective Spell, Skill Focus (Bluff), Spell Focus, Traumatic Spell.
+**Bonus Feats**: Combat Casting, Deceitful, [Fearsome Spell](../../rules/feats/fearsome-spell.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), Iron Will, Persuasive, [Selective Spell](../../rules/feats/selective-spell.md), Skill Focus (Bluff), Spell Focus, [Traumatic Spell](../../rules/feats/traumatic-spell.md).
 
 **Bloodline Arcana**: Whenever you cast a non-cantrip spell, you can roll the next Will save you attempt against a mind-affecting effect before your next turn twice and take the better result. If you have already failed a save against a mind-affecting effect, you can instead attempt another Will save against that ongoing mind-affecting effect after successfully casting your spell. You can use this ability only once against a given mind-affecting effect. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
@@ -394,7 +394,7 @@ Possessed sorcerers channel their magic potential through a unique bond with a p
 
 **One Body, Two Minds (Sp)**: At 15th level, once per day, you can improve the effectiveness of a single spell by having your possessing spirit channel that spell. The spell acts as though it were affected by both the Silent Spell and Still Spell metamagic feats. If the spell chosen is a mind-affecting spell, it also benefits from the Extend Spell metamagic feat. This ability does not use up a spell slot higher than the level of the base spell, nor does it increase the level of the base spell.
 
-**Dual Spirit (Su)**: At 20th level, you gain immunity to mind-affecting effects. Whenever you successfully employ a possession effect (such as *magic jar* or *possession*), you remain in complete control of your body and the body of your possessed target.
+**Dual Spirit (Su)**: At 20th level, you gain immunity to mind-affecting effects. Whenever you successfully employ a possession effect (such as [*magic jar*](../../magic/spells/magic-jar.md) or [*possession*](../../magic/spells/possession.md)), you remain in complete control of your body and the body of your possessed target.
 
 ## Psychic
 
@@ -404,7 +404,7 @@ Psychic power runs thorough your blood, whether it be from a familial predisposi
 
 **Bonus Spells**: Mind thrust I* (3rd), id insinuation I* (5th), ego whip I* (7th), intellect fortress I* (9th), psychic crush I* (11th), mental barrier V* (13th), tower of iron will III* (15th), bilocation* (17th), microcosm* (19th).
 
-**Bonus Feats**: Focused Spell, Heighten Spell, Intuitive Spell*, Iron Will, Logical Spell*, Persuasive, Quicken Spell, Skill Focus (Sense Motive), Spell Focus.
+**Bonus Feats**: [Focused Spell](../../rules/feats/focused-spell.md), Heighten Spell, Intuitive Spell*, Iron Will, Logical Spell*, Persuasive, Quicken Spell, Skill Focus (Sense Motive), Spell Focus.
 
 **Bloodline Arcana**: Your sorcerer spells and spell-like abilities count as psychic instead of arcane. You use thought and emotion components instead of verbal and somatic components when casting your spells.
 
@@ -426,7 +426,7 @@ The taint of the grave runs through your family. Perhaps one of your ancestors b
 
 **Class Skill**: Knowledge (religion).
 
-**Bonus Spells**: *chill touch* (3rd), *false life* (5th), *vampiric touch* (7th), *animate dead* (9th), *waves of fatigue* (11th), *undeath to* *death* (13th), *finger of death* (15th), *horrid wilting* (17th), *energy* *drain* (19th).
+**Bonus Spells**: [*chill touch*](../../magic/spells/chill-touch.md) (3rd), [*false life*](../../magic/spells/false-life.md) (5th), [*vampiric touch*](../../magic/spells/vampiric-touch.md) (7th), [*animate dead*](../../magic/spells/animate-dead.md) (9th), [*waves of fatigue*](../../magic/spells/waves-of-fatigue.md) (11th), *undeath to* *death* (13th), [*finger of death*](../../magic/spells/finger-of-death.md) (15th), [*horrid wilting*](../../magic/spells/horrid-wilting.md) (17th), *energy* *drain* (19th).
 
 **Bonus Feats**: Combat Casting, Diehard, Endurance, Iron Will, Skill Focus (Knowledge [religion]), Spell Focus, Still Spell, Toughness.
 
@@ -450,9 +450,9 @@ Your connection to the hungering undead shapes your magic. Sorcerers whose ances
 
 **Class Skill**: Stealth.
 
-**Bonus Spells**: *Ray of enfeeblement* (3rd), *feast of ashes* (5th), *vampiric touch* (7th), *fear* (9th), *hungry earth* (11th), *move earth* (13th), *control undead* (15th), *unholy aura* (17th), *wail of the banshee* (19th).
+**Bonus Spells**: *Ray of enfeeblement* (3rd), [*feast of ashes*](../../magic/spells/feast-of-ashes.md) (5th), *vampiric touch* (7th), *fear* (9th), [*hungry earth*](../../magic/spells/hungry-earth.md) (11th), [*move earth*](../../magic/spells/move-earth.md) (13th), [*control undead*](../../magic/spells/control-undead.md) (15th), *unholy aura* (17th), [*wail of the banshee*](../../magic/spells/wail-of-the-banshee.md) (19th).
 
-**Bonus Feats**: Arcane Strike, Combat Casting, Power Attack, Skill Focus (Knowledge [religion]), Spell Focus (necromancy), Toughness, Warren Digger, Weapon Finesse.
+**Bonus Feats**: Arcane Strike, Combat Casting, Power Attack, Skill Focus (Knowledge [religion]), Spell Focus (necromancy), Toughness, [Warren Digger](../../rules/feats/warren-digger.md), Weapon Finesse.
 
 **Bloodline Arcana**: Whenever you cast a spell of the necromancy school that deals hit point damage, you are healed of 1 hit point per spell level.
 
@@ -462,7 +462,7 @@ Your connection to the hungering undead shapes your magic. Sorcerers whose ances
 
 *Leathery Skin (Ex)*: At 3rd level, you gain cold resistance 5 and a +1 natural armor bonus to AC. At 9th level, your cold resistance increases to 10 and your natural armor bonus increases to +2. At 15th level, your natural armor bonus increases to +4.
 
-*Ravenous Frenzy (Ex)*: At 9th level, you gain the benefits of *haste* for a number of rounds per day equal to your sorcerer level. These rounds don't need to be consecutive. Each time you hit a creature with two or more claw attacks during a full attack while affected by this ability, that creature takes 1d4 points of bleed damage.
+*Ravenous Frenzy (Ex)*: At 9th level, you gain the benefits of [*haste*](../../magic/spells/haste.md) for a number of rounds per day equal to your sorcerer level. These rounds don't need to be consecutive. Each time you hit a creature with two or more claw attacks during a full attack while affected by this ability, that creature takes 1d4 points of bleed damage.
 
 *Earth Crawler (Su)*: At 15th level, you gain a burrow speed of 30 feet. Additionally, as long as you are surrounded by at least 5 feet of dirt or natural stone on all sides, you gain fast healing 10. You can heal a number of hit points per day equal to 10 × your sorcerer level with this ability.
 
@@ -474,9 +474,9 @@ Unicorns are among the most fabled creatures of the deep forests: deeply empathe
 
 **Class Skill**: Heal.
 
-**Bonus Spells**: *Cure light wounds* (3rd), *cure moderate wounds* (5th), *cure serious wounds* (7th), *atonement* (11th), *heal* (13th), *greater restoration* (15th), *mass cure critical wounds* (17th), *mass heal* (19th).
+**Bonus Spells**: *Cure light wounds* (3rd), [*cure moderate wounds*](../../magic/spells/cure-moderate-wounds.md) (5th), [*cure serious wounds*](../../magic/spells/cure-serious-wounds.md) (7th), [*atonement*](../../magic/spells/atonement.md) (11th), [*heal*](../../magic/spells/heal.md) (13th), *greater restoration* (15th), *mass cure critical wounds* (17th), *mass heal* (19th).
 
-**Bonus Feats**: Alertness, Animal Affinity, Brew Potion, Fleet, Greater Fortitude, Improved Counterspell, Self-Sufficient, Skill Focus (Heal).
+**Bonus Feats**: Alertness, [Animal Affinity](../../rules/feats/animal-affinity.md), [Brew Potion](../../rules/feats/brew-potion.md), Fleet, Greater Fortitude, Improved Counterspell, Self-Sufficient, Skill Focus (Heal).
 
 **Bloodline Arcana**: Every time you cast a spell, you can restore a number of hit points equal to double the level of the spell you cast to one target of your choice that you can see. A creature at its maximum hit points cannot be affected by this ability. Healing a dying creature with this ability does not automatically stabilize the creature unless its hit points are brought to 0 or above.
 
@@ -490,7 +490,7 @@ Unicorns are among the most fabled creatures of the deep forests: deeply empathe
 
 *Friend to Nature (Su)*: At 15th level, creatures with the animal or magical beast type and a nonevil alignment instinctually trust you. Such creatures automatically have a starting attitude of indifferent or better toward you unless you or a creature allied with you has attacked or otherwise threatened violence against such a creature.
 
-*Blessing (Su)*: At 20th level, you gain immunity to poison, to charm effects, and to spells and weapons with the evil descriptor. You can also cast *magic circle against evil* at will with a caster level equal to your sorcerer level.
+*Blessing (Su)*: At 20th level, you gain immunity to poison, to charm effects, and to spells and weapons with the evil descriptor. You can also cast [*magic circle against evil*](../../magic/spells/magic-circle-against-evil.md) at will with a caster level equal to your sorcerer level.
 
 ## Phoenix
 
@@ -498,15 +498,15 @@ One of your ancestors bore witness to a phoenix's resurrection and formed a bond
 
 **Class Skill**: Knowledge (arcana).
 
-**Bonus Spells**: *Color spray* (3rd), *see invisibility* (5th), *magic circle against evil* (7th), *wall of fire* (9th), *break enchantment* (11th), *path of the winds* (13th), *firebrand* (15th), *prismatic wall* (17th), *fiery body* (19th).
+**Bonus Spells**: *Color spray* (3rd), *see invisibility* (5th), *magic circle against evil* (7th), [*wall of fire*](../../magic/spells/wall-of-fire.md) (9th), *break enchantment* (11th), [*path of the winds*](../../magic/spells/path-of-the-winds.md) (13th), [*firebrand*](../../magic/spells/firebrand.md) (15th), [*prismatic wall*](../../magic/spells/prismatic-wall.md) (17th), [*fiery body*](../../magic/spells/fiery-body.md) (19th).
 
-**Bonus Feats**: Dodge, Elemental Focus (fire), Fast Healer, Improved Initiative, Iron Will, Mobility, Quicken Spell, Skill Focus (Knowledge [arcana]).
+**Bonus Feats**: Dodge, Elemental Focus (fire), [Fast Healer](../../rules/feats/fast-healer.md), Improved Initiative, Iron Will, Mobility, Quicken Spell, Skill Focus (Knowledge [arcana]).
 
 **Bloodline Arcana**: When casting any spell that deals fire damage, you can instead heal your targets. The spell deals no damage, and living creatures affected by the spell instead regain a number of hit points equal to half the fire damage the spell would normally deal.
 
 **Bloodline Powers**: The phoenix is an elemental creature of sky and primal fire, and its blood within you sings with a similar power.
 
-*The Unseen World (Su)*: At 1st level, you gain *detect magic* and *read magic* as spells known. At 5th level, the phoenix's blood drives you to find and save lost knowledge and magical items. As a swift action, you can automatically identify the properties of a non-cursed magic item you hold; you must still identify a cursed item as normal to correctly identify it as cursed. You can use this ability a number of times equal to your Charisma modifier per day.
+*The Unseen World (Su)*: At 1st level, you gain [*detect magic*](../../magic/spells/detect-magic.md) and [*read magic*](../../magic/spells/read-magic.md) as spells known. At 5th level, the phoenix's blood drives you to find and save lost knowledge and magical items. As a swift action, you can automatically identify the properties of a non-cursed magic item you hold; you must still identify a cursed item as normal to correctly identify it as cursed. You can use this ability a number of times equal to your Charisma modifier per day.
 
 *Immolation (Su)*: At 3rd level, you gain the ability to surround yourself in fire as a swift action. This fire burns for a number of rounds per day equal to your character level plus your Charisma bonus. These rounds do not have to be consecutive. Any unarmed attacks you make while affected by immolation deal an additional 1d6 points of fire damage, and any creature that ends its turn adjacent to you while you're affected by immolation also takes 1d6 points of fire damage.
 
@@ -514,7 +514,7 @@ One of your ancestors bore witness to a phoenix's resurrection and formed a bond
 
 *Restoring Flames (Sp)*: At 15th level, you can cast *greater restoration* once per day as a spell-like ability.
 
-*Rebirth (Su)*: At 20th level, the full power of a phoenix erupts from within you if you perish. When you die, you are brought back to life, as *true resurrection*, after 1 minute. This ability can be used only once every 24 hours, and if you are slain again within this period, your death is permanent.
+*Rebirth (Su)*: At 20th level, the full power of a phoenix erupts from within you if you perish. When you die, you are brought back to life, as [*true resurrection*](../../magic/spells/true-resurrection.md), after 1 minute. This ability can be used only once every 24 hours, and if you are slain again within this period, your death is permanent.
 
 ## Fatebound
 
@@ -522,9 +522,9 @@ Just as knowledge of the fate deck has passed from generation to generation sinc
 
 **Class Skill**: Knowledge (history).
 
-**Bonus Spells**: *Ill omen* (3rd), *augury* (5th), *clairaudience/clairvoyance* (7th), *shadow conjuration* (9th), *contact other plane* (11th), *legend lore* (13th), *vision* (15th), *moment of prescience* (17th), *weird* (19th).
+**Bonus Spells**: *Ill omen* (3rd), [*augury*](../../magic/spells/augury.md) (5th), *clairaudience/clairvoyance* (7th), [*shadow conjuration*](../../magic/spells/shadow-conjuration.md) (9th), [*contact other plane*](../../magic/spells/contact-other-plane.md) (11th), [*legend lore*](../../magic/spells/legend-lore.md) (13th), [*vision*](../../magic/spells/vision.md) (15th), *moment of prescience* (17th), [*weird*](../../magic/spells/weird.md) (19th).
 
-**Bonus Feats**: Alertness, Craft Wondrous Item, Extend Spell, Skill Focus (Knowledge [history]).
+**Bonus Feats**: Alertness, [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md), Extend Spell, Skill Focus (Knowledge [history]).
 
 **Bloodline Arcana**: Whenever you cast a divination spell that requires a percentage roll, add 5 to the result of your roll. In addition, you can roll the percentage dice twice and use the result you prefer. Your maximum percentage chance of receiving a meaningful and accurate reply for divination spells is 100%, instead of the usual 90%.
 
@@ -536,6 +536,6 @@ Just as knowledge of the fate deck has passed from generation to generation sinc
 
 *Invoke the Deck (Su)*: At 9th level, you can draw a random card from a complete [fate deck](../../equipment/fate-deck.md) you own as a standard action and channel the aspects of the card into your body. You take on superficial traits featured on the card and gain a +4 enhancement bonus to the ability score associated with the card's suit. You can invoke the deck for a number of minutes per day equal to your sorcerer level; the duration need not be continuous, but it must be used in 1-minute increments.
 
-*Deck Realm (Sp)*: At 15th level, your otherworldly connection is so strong that your subconscious cleaves off a small portion of the realm of the cards for use as your own private sanctuary. Your deck realm is created the first time you use this ability, and is decorated as a garish reflection of your personality. Thereafter, you always visit this same home. You can place a portal to your deck realm once every 24 hours, but placing a new portal destroys the previous one, and you cannot move the entrance while you are inside. As long as you are not in your deck realm, time ceases to pass for anything and anyone still in your pocket dimension; creatures cannot move, objects do not decay, and everything remains exactly the same as you left it the last time you visited the plane. Time continues as normal whenever you are inside your deck realm. This ability is otherwise identical to *mage's magnificent mansion*.
+*Deck Realm (Sp)*: At 15th level, your otherworldly connection is so strong that your subconscious cleaves off a small portion of the realm of the cards for use as your own private sanctuary. Your deck realm is created the first time you use this ability, and is decorated as a garish reflection of your personality. Thereafter, you always visit this same home. You can place a portal to your deck realm once every 24 hours, but placing a new portal destroys the previous one, and you cannot move the entrance while you are inside. As long as you are not in your deck realm, time ceases to pass for anything and anyone still in your pocket dimension; creatures cannot move, objects do not decay, and everything remains exactly the same as you left it the last time you visited the plane. Time continues as normal whenever you are inside your deck realm. This ability is otherwise identical to [*mage's magnificent mansion*](../../magic/spells/mages-magnificent-mansion.md).
 
 *Kin to the Old Tales (Su)*: At 20th level, your soul becomes host to the otherworldly energies of the cards. You gain DR 10/cold iron and immunity to curses, paralysis, and sleep. You can always act in the surprise round of combat, and you cannot be caught flat-footed. You gain unlimited use of your invoke the deck ability.

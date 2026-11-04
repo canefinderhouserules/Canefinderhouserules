@@ -502,7 +502,7 @@ A swallowed creature can try to cut its way free with any light slashing or pier
 
 *Format: telepathy 100 ft.; Location: Languages.*
 
-**Thoughtsense** (Su) Creatures with this ability automatically detect and locate conscious creatures within the specified range (usually 60 feet). This ability functions similarly to blindsight. Nondetection, mind blank OA , and similar effects can block thoughtsense. Thoughtsense can distinguish between sentient (Intelligence 3 or greater) and nonsentient creatures, but otherwise provides no information about the creatures it detects.
+**Thoughtsense** (Su) Creatures with this ability automatically detect and locate conscious creatures within the specified range (usually 60 feet). This ability functions similarly to blindsight. Nondetection, mind blank OA, and similar effects can block thoughtsense. Thoughtsense can distinguish between sentient (Intelligence 3 or greater) and nonsentient creatures, but otherwise provides no information about the creatures it detects.
 
 *Format: thoughtsense 60 ft.; Location: Senses.*
 

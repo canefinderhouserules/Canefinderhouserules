@@ -2,7 +2,7 @@
 
 Your zeal for death—including your own—brings even greater harm to those around you.
 
-**Prerequisites**: Empowered Daemonic Pact, urdefhan.
+**Prerequisites**: [Empowered Daemonic Pact](empowered-daemonic-pact.md), urdefhan.
 
 **Benefit**: When you use your daemonic pact ability and allow your soul to be consumed, you automatically succeed. The amount of negative energy damage dealt by your daemonic pact ability increases to 3d6 points, and the profane bonus to the save DC increases to +4.
 

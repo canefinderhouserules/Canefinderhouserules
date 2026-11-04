@@ -18,7 +18,7 @@ Revered as seers, able to channel memories and even physical features of prior i
 
 To qualify to become a seeker of past lives, a character must fulfill all of the following criteria.
 
-**Feat**: Iron Will
+**Feat**: [Iron Will](../../rules/feats/iron-will.md)
 
 **Race**: Elf
 
@@ -44,7 +44,7 @@ The following are class features of the seeker of past lives prestige class.
 - Blindsense 30 ft. (sound-based, like a bat)
 - Darkvision 60 ft.
 - Scent
-- Temperature-adapted (as *endure elements*)
+- Temperature-adapted (as [*endure elements*](../../magic/spells/endure-elements.md))
 - Thick hide (+3 natural armor bonus to AC)
 - Waterborn (swim speed 40 ft., can breathe water and air)
 - Wings (average maneuverability, fly speed 40 ft.)
@@ -55,8 +55,8 @@ The following are class features of the seeker of past lives prestige class.
 
 **Wild Shape (Su)**: At 3rd level, seekers develop an even stronger capacity to call upon the forms of their prior animal incarnations, which manifests as the ability to wild shape as a druid once per day. At 5th level, this increases to twice per day. If a seeker has the ability to wild shape from another class, the uses per day stack. Class levels in this prestige class stack with druid levels and other class levels that grant wild shape for the purpose of determining what size and type of creature the character can change into.
 
-**One with Nature (Sp)**: At 4th level, a seeker forms a personal relationship with the living world. Seekers may cast *commune with nature* as a spell-like ability usable at will (though it still requires 10 minutes of uninterrupted concentration to activate, just like the spell).
+**One with Nature (Sp)**: At 4th level, a seeker forms a personal relationship with the living world. Seekers may cast [*commune with nature*](../../magic/spells/commune-with-nature.md) as a spell-like ability usable at will (though it still requires 10 minutes of uninterrupted concentration to activate, just like the spell).
 
 **Tranquility Aura (Ex)**: At 4th level, all friendly creatures within a 10-foot radius of a seeker gain a +10 resistance bonus on saves against fear effects.
 
-**Rebirth (Su)**: At 5th level, seekers gain the ability to return from the grave if they die through violence or any other sort of unnatural end. A slain seeker may activate this ability any time between 10 minutes and 1 week after death occurs, at which point their soul reincarnates in the form of a healthy adult animal the same size as the previous body and of a type common to where the previous body died. The character's ability scores do not change, but she gains all abilities associated with her new form, including forms of movement and speeds, natural armor, natural attacks, extraordinary abilities, and the like. The character gains a negative level, which cannot be removed by any means, but goes away automatically when the character achieves a new experience level or dies. This ability doesn't work if the character was killed by a death effect or she was turned into an undead creature. Each time a seeker in animal form gains a new experience level, she may attempt a DC 20 Will save; success means she regains her previous race and appearance. If a seeker is killed in animal form, she cannot use this ability to reincarnate again, though normal methods of reviving the dead still work. A *miracle* or *wish* can restore a living or dead animal seeker's original form (and bring her back to life, if dead).
+**Rebirth (Su)**: At 5th level, seekers gain the ability to return from the grave if they die through violence or any other sort of unnatural end. A slain seeker may activate this ability any time between 10 minutes and 1 week after death occurs, at which point their soul reincarnates in the form of a healthy adult animal the same size as the previous body and of a type common to where the previous body died. The character's ability scores do not change, but she gains all abilities associated with her new form, including forms of movement and speeds, natural armor, natural attacks, extraordinary abilities, and the like. The character gains a negative level, which cannot be removed by any means, but goes away automatically when the character achieves a new experience level or dies. This ability doesn't work if the character was killed by a death effect or she was turned into an undead creature. Each time a seeker in animal form gains a new experience level, she may attempt a DC 20 Will save; success means she regains her previous race and appearance. If a seeker is killed in animal form, she cannot use this ability to reincarnate again, though normal methods of reviving the dead still work. A [*miracle*](../../magic/spells/miracle.md) or [*wish*](../../magic/spells/wish.md) can restore a living or dead animal seeker's original form (and bring her back to life, if dead).

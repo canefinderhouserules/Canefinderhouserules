@@ -4,4 +4,4 @@
 
 Your mythic power breaches your enemies' defenses.
 
-**Prerequisite**: Spell Penetration.
+**Prerequisite**: [Spell Penetration](spell-penetration.md).

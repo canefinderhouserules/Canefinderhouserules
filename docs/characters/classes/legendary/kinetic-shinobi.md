@@ -98,11 +98,11 @@ The kinetic shinobi must be able to see the target well enough to pick out a vit
 
 **Ninjutsu Specialist (Ex):** At 4th level, whenever a kinetic shinobi uses one or more infusions with their kinetic blast, they reduce the combined burn cost of the infusions by 1. This can’t reduce the total cost of the infusions used below 0. They reduce the burn cost by an additional 1 at 10th level and again at 16th.
 
-**Metajutsu (Su):** At 6th level, a kinetic shinobi gains the ability to alter their kinetic blast as if with metamagic feats by spending additional points from their *ki* pool. By spending 1 point from their *ki* pool they can double the duration of effects caused by their kinetic blast, as if using Extend Spell.
+**Metajutsu (Su):** At 6th level, a kinetic shinobi gains the ability to alter their kinetic blast as if with metamagic feats by spending additional points from their *ki* pool. By spending 1 point from their *ki* pool they can double the duration of effects caused by their kinetic blast, as if using [Extend Spell](../../../rules/feats/extend-spell.md).
 
-At 10th level they can spend 2 points from their *ki* pool to maximize their kinetic blast, as if using Maximize Spell.
+At 10th level they can spend 2 points from their *ki* pool to maximize their kinetic blast, as if using [Maximize Spell](../../../rules/feats/maximize-spell.md).
 
-At 14th level they can spend 3 points from their *ki* pool to force the target to make a second save against any substance infusion applied to their kinetic blast, as if using Persistent Spell.
+At 14th level they can spend 3 points from their *ki* pool to force the target to make a second save against any substance infusion applied to their kinetic blast, as if using [Persistent Spell](../../../rules/feats/persistent-spell.md).
 
 At 18th level they can spend 4 points from their *ki* pool to have their kinetic blast become penetrating. It ignores up to 10 DR or energy resistance, completely ignores spell resistance, and treats energy immunity as if it was that type of energy resistance 20. For example, if a creature has DR 15/ bludgeoning and the kinetic shinobi’s kinetic blast does not deal bludgeoning damage, they treat it as DR 5/bludgeoning instead, and if the kinetic shinobi’s kinetic blast deals fire damage, it treats fire resist 20 as fire resist 10 and treats fire immunity as fire resist 20.
 
@@ -120,7 +120,7 @@ At 18th level they can spend 4 points from their *ki* pool to have their kinetic
 
 **Saving Throw**none
 
-Your kinetic blast transforms into a specialized weapon. You can use this infusion as part of any attack action including a full attack action, creating a light or 1 handed melee weapon in your hand that deals 1d4+Cha damage regardless of class level, targeting a creature’s normal AC. Unlike kinetic blade, you can use the Vital Strike and Spring Attack feats with this infusion. The damage bonus from elemental overflow does not apply to blasts used with this infusion.
+Your kinetic blast transforms into a specialized weapon. You can use this infusion as part of any attack action including a full attack action, creating a light or 1 handed melee weapon in your hand that deals 1d4+Cha damage regardless of class level, targeting a creature’s normal AC. Unlike kinetic blade, you can use the [Vital Strike](../../../rules/feats/vital-strike.md) and [Spring Attack](../../../rules/feats/spring-attack.md) feats with this infusion. The damage bonus from elemental overflow does not apply to blasts used with this infusion.
 
 #### Elemental Jutsu
 

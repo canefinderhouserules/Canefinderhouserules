@@ -2,7 +2,7 @@
 
 You are able to emulate the echolocation techniques of bats.
 
-**Prerequisites**: Blind-Fight, Improved Blind-Fight, Perception 10 ranks.
+**Prerequisites**: [Blind-Fight](blind-fight.md), [Improved Blind-Fight](improved-blind-fight.md), Perception 10 ranks.
 
 **Benefit**: By spending a move action to make a sound and listen for the echoes, you gain blindsense 30 feet until the end of your turn. Using this feat requires making audible sounds that impose a –4 penalty on your Stealth checks.
 

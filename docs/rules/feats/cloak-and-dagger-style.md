@@ -4,7 +4,7 @@
 
 Your attacks effortlessly inflict debilitating conditions on unaware opponents.
 
-**Prerequisites**: Improved Dirty Trick, Vital Strike, Weapon Focus with the chosen weapon, base attack bonus +6.
+**Prerequisites**: [Improved Dirty Trick](improved-dirty-trick.md), [Vital Strike](vital-strike.md), Weapon Focus with the chosen weapon, base attack bonus +6.
 
 **Benefit**: Choose one light melee weapon. While using this style, whenever you use the attack action to attack an opponent during a surprise round with your chosen weapon, you can attempt a dirty trick combat maneuver check against that opponent as a free action. Additionally, if an adjacent target attempts to remove a condition that you inflicted upon it with the dirty trick combat maneuver, it provokes an attack of opportunity from you.
 

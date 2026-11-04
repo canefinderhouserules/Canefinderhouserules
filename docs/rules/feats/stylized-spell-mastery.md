@@ -2,7 +2,7 @@
 
 You have altered your understanding of a select number of spells.
 
-**Prerequisites**: Spell Mastery, [Stylized Spell](stylized-spell.md), Bluff 5 ranks, Spellcraft 5 ranks.
+**Prerequisites**: [Spell Mastery](spell-mastery.md), [Stylized Spell](stylized-spell.md), Bluff 5 ranks, Spellcraft 5 ranks.
 
 **Benefit**: You do not modify the spell slot used when applying the Stylized Spell metamagic feat to any spell you have mastered with Spell Mastery.
 

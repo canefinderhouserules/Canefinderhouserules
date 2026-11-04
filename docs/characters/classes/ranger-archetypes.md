@@ -6,7 +6,7 @@ The following section introduces ranger traps (simple improvised traps that some
 
 ## Ranger Traps
 
-Rangers are legendary for their ability to hunt down and capture their prey. Some rangers can create elaborate traps out of scraps, vines, and perhaps a little bit of specialized magic. Characters can learn how to set these traps by taking the Learn Ranger Trap feat or by having the trapper ranger archetype.
+Rangers are legendary for their ability to hunt down and capture their prey. Some rangers can create elaborate traps out of scraps, vines, and perhaps a little bit of specialized magic. Characters can learn how to set these traps by taking the [Learn Ranger Trap](../../rules/feats/learn-ranger-trap.md) feat or by having the trapper ranger archetype.
 
 Setting a trap is a full-round action that provokes attacks of opportunity. A trap fills a single 5-foot square, and cannot be placed in the same area as another ranger trap or a magical trap such as a glyph of warding. The ranger only needs simple materials to create the trap, such as a piece of cloth, a small amount of metal (such as a dagger, iron spike, or a few nails), a foot of rope or vine, and so on. The DCs for Perception checks to notice the trap, Disable Device checks to disable it, and for saving throws to avoid it are equal to 10 + 1/2 the character’s level + the character’s Wisdom bonus. All ranger traps are Trigger: location, and
 
@@ -34,7 +34,7 @@ Effect When the trap is triggered, it also creates a momentary loud noise equiva
 
 **Effects**
 
-Effect This trap can be added to a supernatural snare trap. The trap briefly imprisons any called creature (such as those called by the *planar binding* spells) for 1d4 rounds (Will negates). During this time the creature may not move from the location of the trap, though it may still use ranged effects and attack any creature within its reach. Additionally, anchoring traps disable the creature's ability to travel within or between dimensions. This includes casting *astral projection*, *blink*, *dimension door*, *dimensional gate*, *ethereal jaunt*, *etherealness*, *gate*, *maze*, *plane shift*, *shadow walk*, *teleport*, *teleportation circle*, and similar spell-like abilities. The trap does not prevent the creature from using magic items that produce these effects, like *cubic gates*, *helms of teleportation*, or *amulets of the planes*. The trap can hold up to a Medium creature; each extra daily use of the ranger's trap ability spent when the trap is set increases the maximum size of creature the trap can hold by one size category.
+Effect This trap can be added to a supernatural snare trap. The trap briefly imprisons any called creature (such as those called by the [*planar binding*](../../magic/spells/planar-binding.md) spells) for 1d4 rounds (Will negates). During this time the creature may not move from the location of the trap, though it may still use ranged effects and attack any creature within its reach. Additionally, anchoring traps disable the creature's ability to travel within or between dimensions. This includes casting [*astral projection*](../../magic/spells/astral-projection.md), [*blink*](../../magic/spells/blink.md), [*dimension door*](../../magic/spells/dimension-door.md), *dimensional gate*, [*ethereal jaunt*](../../magic/spells/ethereal-jaunt.md), [*etherealness*](../../magic/spells/etherealness.md), [*gate*](../../magic/spells/gate.md), [*maze*](../../magic/spells/maze.md), [*plane shift*](../../magic/spells/plane-shift.md), [*shadow walk*](../../magic/spells/shadow-walk.md), [*teleport*](../../magic/spells/teleport.md), [*teleportation circle*](../../magic/spells/teleportation-circle.md), and similar spell-like abilities. The trap does not prevent the creature from using magic items that produce these effects, like *cubic gates*, *helms of teleportation*, or *amulets of the planes*. The trap can hold up to a Medium creature; each extra daily use of the ranger's trap ability spent when the trap is set increases the maximum size of creature the trap can hold by one size category.
 
 ### Blightburn Trap (Ex)
 
@@ -192,7 +192,7 @@ Effect The detonating trap creates a 20-foot-radius burst of sleet with the effe
 
 **Effects**
 
-Effect This trap bellows out thick, choking smoke that fills the trapped square and all adjacent squares. Any breathing creature in these squares must succeed at a Fortitude saving throw or take a –4 penalty to Strength and Dexterity every round it's within the smoke and for 1d4+1 rounds after leaving the smoke. All sight, even darkvision, is ineffective in or through the smoke. The smoke lasts for 1 round per 2 ranger levels, and is dispersed by wind as *fog cloud*. If this is an extraordinary trap, the ranger must use an alchemical component when setting the trap, such as a smokestick.
+Effect This trap bellows out thick, choking smoke that fills the trapped square and all adjacent squares. Any breathing creature in these squares must succeed at a Fortitude saving throw or take a –4 penalty to Strength and Dexterity every round it's within the smoke and for 1d4+1 rounds after leaving the smoke. All sight, even darkvision, is ineffective in or through the smoke. The smoke lasts for 1 round per 2 ranger levels, and is dispersed by wind as [*fog cloud*](../../magic/spells/fog-cloud.md). If this is an extraordinary trap, the ranger must use an alchemical component when setting the trap, such as a smokestick.
 
 ### Snare Trap (Ex or Su)
 
@@ -295,15 +295,15 @@ At 2nd level, a ranger must select one of the two combat styles in the Core Rule
 
 The ranger can choose feats from his selected combat style even if he does not have the normal prerequisites.
 
-**Crossbow**: If the ranger selects crossbow style, he can choose from the following list whenever he gains a combat style feat: Deadly Aim, Focused Shot, Precise Shot, and Rapid Reload. At 6th level, he adds Crossbow Mastery and Improved Precise Shot to the list. At 10th level, he adds Pinpoint Targeting and Shot on the Run to the list.
+**Crossbow**: If the ranger selects crossbow style, he can choose from the following list whenever he gains a combat style feat: [Deadly Aim](../../rules/feats/deadly-aim.md), [Focused Shot](../../rules/feats/focused-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), and [Rapid Reload](../../rules/feats/rapid-reload.md). At 6th level, he adds [Crossbow Mastery](../../rules/feats/crossbow-mastery.md) and [Improved Precise Shot](../../rules/feats/improved-precise-shot.md) to the list. At 10th level, he adds [Pinpoint Targeting](../../rules/feats/pinpoint-targeting.md) and [Shot on the Run](../../rules/feats/shot-on-the-run.md) to the list.
 
-**Mounted Combat**: If the ranger selects mounted combat, he can choose from the following list whenever he gains a combat style feat: Mounted Combat, Mounted Archery, Ride-By Attack, and Trick Riding*. At 6th level, he adds Mounted Shield* and Spirited Charge to the list. At 10th level, he adds Mounted Skirmisher* and Unseat to the list.
+**Mounted Combat**: If the ranger selects mounted combat, he can choose from the following list whenever he gains a combat style feat: [Mounted Combat](../../rules/feats/mounted-combat.md), [Mounted Archery](../../rules/feats/mounted-archery.md), [Ride-By Attack](../../rules/feats/ride-by-attack.md), and Trick Riding*. At 6th level, he adds Mounted Shield* and [Spirited Charge](../../rules/feats/spirited-charge.md) to the list. At 10th level, he adds Mounted Skirmisher* and Unseat to the list.
 
-**Natural Weapon**: If the ranger selects natural weapon style, he can choose from the following list whenever he gains a combat style feat: Aspect of the Beast*, Improved Natural Weapon**, Rending Claws*, and Weapon Focus. At 6th level, he adds Eldritch Fangs* and Vital Strike to the list. At 10th level, he adds Multiattack** and Improved Vital Strike to the list.
+**Natural Weapon**: If the ranger selects natural weapon style, he can choose from the following list whenever he gains a combat style feat: Aspect of the Beast*, Improved Natural Weapon**, Rending Claws*, and Weapon Focus. At 6th level, he adds Eldritch Fangs* and [Vital Strike](../../rules/feats/vital-strike.md) to the list. At 10th level, he adds Multiattack** and [Improved Vital Strike](../../rules/feats/improved-vital-strike.md) to the list.
 
-**Two-Handed Weapon**: If the ranger selects two-handed weapon style, he can choose from the following list whenever he gains a combat style feat: Cleave, Power Attack, Pushing Assault*, and Shield of Swings*. At 6th level, he adds Furious Focus* and Great Cleave to the list. At 10th level, he adds Dreadful Carnage* and Improved Sunder to the list.
+**Two-Handed Weapon**: If the ranger selects two-handed weapon style, he can choose from the following list whenever he gains a combat style feat: Cleave, [Power Attack](../../rules/feats/power-attack.md), Pushing Assault*, and Shield of Swings*. At 6th level, he adds Furious Focus* and [Great Cleave](../../rules/feats/great-cleave.md) to the list. At 10th level, he adds Dreadful Carnage* and [Improved Sunder](../../rules/feats/improved-sunder.md) to the list.
 
-**Weapon and Shield**: If the ranger selects weapon and shield style, he can choose from the following list whenever he gains a combat style feat: Improved Shield Bash, Shield Focus, Shield Slam, and Two-Weapon Fighting. At 6th level, he adds Saving Shield* and Shield Master to the list. At 10th level, he adds Bashing Finish* and Greater Shield Focus to the list.
+**Weapon and Shield**: If the ranger selects weapon and shield style, he can choose from the following list whenever he gains a combat style feat: [Improved Shield Bash](../../rules/feats/improved-shield-bash.md), [Shield Focus](../../rules/feats/shield-focus.md), [Shield Slam](../../rules/feats/shield-slam.md), and [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md). At 6th level, he adds Saving Shield* and [Shield Master](../../rules/feats/shield-master.md) to the list. At 10th level, he adds Bashing Finish* and [Greater Shield Focus](../../rules/feats/greater-shield-focus.md) to the list.
 
 * These feats are found in the feat section of this book. ** These feats are found in the Pathfinder RPG Bestiary.
 
@@ -359,9 +359,9 @@ Some rangers study their favored enemies and learn their ways, applying this kno
 
 At 8th, 13th, and 15th-level, the ranger chooses another one of his favored enemy types and selects one adaptation from that type’s list, as well as an additional adaptation from any one list of a creature type he’s selected (including the one just chosen, if so desired). The infiltrator can only use one adaptation at a time. This class ability replaces favored terrain.
 
-**Aberration**: amphibious, darkvision 60 ft., Iron Will, natural armor +2.
+**Aberration**: amphibious, darkvision 60 ft., [Iron Will](../../rules/feats/iron-will.md), natural armor +2.
 
-**Animal**: climb 15 ft., darkvision 60 ft., Great Fortitude, Lightning Reflexes, low-light vision, natural armor (+2), swim 15 ft.
+**Animal**: climb 15 ft., darkvision 60 ft., [Great Fortitude](../../rules/feats/great-fortitude.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), low-light vision, natural armor (+2), swim 15 ft.
 
 **Construct**: darkvision 60 ft., Great Fortitude, Lightning Reflexes, low-light vision.
 
@@ -375,7 +375,7 @@ At 8th, 13th, and 15th-level, the ranger chooses another one of his favored enem
 
 **Humanoid (elf)**: elf blood, low-light vision, elven immunities, elven magic, keen senses, Skill Focus (choose one skill), weapon familiarity.
 
-**Humanoid (giant)**: low-light vision, Lunge, natural armor +2, resist energy 10 (choose cold, electricity, or fire), Throw Anything.
+**Humanoid (giant)**: low-light vision, Lunge, natural armor +2, resist energy 10 (choose cold, electricity, or fire), [Throw Anything](../../rules/feats/throw-anything.md).
 
 **Humanoid (gnoll)**: darkvision 60 ft., Exotic Weapon Proficiency (dire flail), natural armor +2.
 
@@ -555,7 +555,7 @@ Blessed by his deity, a divine tracker hunts down those he deems deserving of hi
 
 **Alignment**: A divine tracker's alignment must be within one step of his deity's, along either the law/chaos axis or the good/evil axis.
 
-**Favored Weapon**: At 1st level, a divine tracker becomes proficient with the favored weapon of his deity. If his deity's favored weapon is unarmed strike, he instead gains Improved Unarmed Strike as a bonus feat. This ability replaces wild empathy.
+**Favored Weapon**: At 1st level, a divine tracker becomes proficient with the favored weapon of his deity. If his deity's favored weapon is unarmed strike, he instead gains [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat. This ability replaces wild empathy.
 
 **Blessings (Su)**: At 4th level, a divine tracker forms a close bond with his deity's ethos. He selects two warpriest domains from among the domains granted by his deity, and gains the minor blessings of those domains. A divine tracker can select an alignment domain (Chaos, Evil, Good, or Law) only if his alignment matches that domain. If a divine tracker isn't devoted to a particular deity, he still selects two blessings to represent his spiritual inclinations and abilities, subject to GM approval. The restriction on alignment domains still applies. A divine tracker uses his ranger level as his warpriest level to determine the effect of the blessing. At 13th level, a divine tracker gains the major blessing from both of his domains. This ability replaces hunter's bond.
 
@@ -569,7 +569,7 @@ The hooded champion lives on the periphery of civilized lands, and is often at o
 
 **Dead Aim (Ex)**: At 1st level, the hooded champion's can spend 1 panache point when making a single ranged attack with a bow to make a ranged touch attack instead. The target must be in the bow's first range increment. At 3rd level, the hooded champion gains the swashbuckler's kip-up deed as well as the following deed.
 
-**Hooded Champion's Initiative (Ex)**: At 3rd level, while the hooded champion has at least 1 panache point, he gains a +2 bonus on initiative checks. In addition, if he has the Quick Draw feat, his hands are free and unrestrained, and his weapon isn't hidden, he can draw a single bow as part of the initiative check.
+**Hooded Champion's Initiative (Ex)**: At 3rd level, while the hooded champion has at least 1 panache point, he gains a +2 bonus on initiative checks. In addition, if he has the [Quick Draw](../../rules/feats/quick-draw.md) feat, his hands are free and unrestrained, and his weapon isn't hidden, he can draw a single bow as part of the initiative check.
 
 **Combat Style**: At 2nd level, the hooded champion must select the archery combat style. At 9th level, the hooded champion gains the swashbuckler's grace and evasive deeds. At 16th level, the hooded champion gains the swashbuckler's edge and cheat death deeds. This ability replaces wild empathy, endurance, evasion, and improved evasion.
 
@@ -639,7 +639,7 @@ Some rangers have taken up the mysteries of black powder in order to become big 
 
 **Improved Tracking (Ex)**: At 1st level, a trophy hunter gains a +2 bonus on Survival skill checks when following or identifying tracks. When he tracks, he can also attempt a Knowledge (nature) check at DC 15. On a success, the trophy hunter can discern the type and condition of any animals or magical beasts he tracks. By studying their tracks, the trophy hunter is able to identify a rough approximation of their health, maneuverability, and their general behavior as compared to the norm. This ability replaces wild empathy.
 
-**Firearm Style**: At 2nd level, a trophy hunter gains the Amateur Gunslinger feat and Exotic Weapon Proficiency (firearms), and can use any 1st-level gunslinger deed. At every four levels thereafter, the trophy hunter can take a grit feat or select a gunslinger deed of his level or lower, ranger’s choice. This ability replaces all combat style feats.
+**Firearm Style**: At 2nd level, a trophy hunter gains the [Amateur Gunslinger](../../rules/feats/amateur-gunslinger.md) feat and Exotic Weapon Proficiency (firearms), and can use any 1st-level gunslinger deed. At every four levels thereafter, the trophy hunter can take a grit feat or select a gunslinger deed of his level or lower, ranger’s choice. This ability replaces all combat style feats.
 
 **Hunter’s Aim (Ex)**: At 4th level, a trophy hunter gains a specific understanding of the weaknesses and vulnerabilities of his favored enemies, and his careful study of these enemies reveals the best way to hurt them. When the trophy hunter makes a firearm attack against a favored enemy, he can target touch AC in the first two range increments of his firearm. This ability stacks with other effects that increase the range increments to target touch AC, adding one range increment to the effect. This ability replaces hunter’s bond.
 
@@ -815,7 +815,7 @@ The wave warden patrols beneath the sea, preserving the safety and secrets of me
 
 **Deep Sentinel (Ex)**: A wave warden adds half his level (minimum +1) on Perception checks made to notice creatures underwater. This ability replaces track.
 
-**Aquatic Prowess Feat (Ex)**: At 2nd level and every four levels thereafter, a wave warden selects a bonus feat that improves his prowess in aquatic environments. He can choose these feats even if he does not meet the prerequisites. Initially, he may choose from the following feats: Dodge, Mobility, Net Adept (*Ultimate Combat*), Net and Trident (*Ultimate Combat*), Net Maneuvering (*Ultimate Combat*), Precise Shot, Rapid Reload, Sea Hunter, and Two-Weapon Fighting. At 6th level, he adds Improved Two-Weapon Fighting, Net Trickery (*Ultimate Combat*), and Spring Attack to the list. At 10th level, he adds Greater Two-Weapon Fighting and Improved Precise Shot to the list. This ability otherwise functions like and replaces the standard ranger’s combat style bonus feats, including the limitations on armor worn.
+**Aquatic Prowess Feat (Ex)**: At 2nd level and every four levels thereafter, a wave warden selects a bonus feat that improves his prowess in aquatic environments. He can choose these feats even if he does not meet the prerequisites. Initially, he may choose from the following feats: Dodge, Mobility, Net Adept (*Ultimate Combat*), Net and Trident (*Ultimate Combat*), Net Maneuvering (*Ultimate Combat*), Precise Shot, Rapid Reload, [Sea Hunter](../../rules/feats/sea-hunter.md), and Two-Weapon Fighting. At 6th level, he adds [Improved Two-Weapon Fighting](../../rules/feats/improved-two-weapon-fighting.md), Net Trickery (*Ultimate Combat*), and [Spring Attack](../../rules/feats/spring-attack.md) to the list. At 10th level, he adds [Greater Two-Weapon Fighting](../../rules/feats/greater-two-weapon-fighting.md) and Improved Precise Shot to the list. This ability otherwise functions like and replaces the standard ranger’s combat style bonus feats, including the limitations on armor worn.
 
 **Favored Terrain (Ex)**: At 3rd level, a wave warden gains water as a favored terrain. At 8th level and every five levels thereafter, his bonus in aquatic terrain increases by +2. He does not gain additional favored terrains. This otherwise functions like the standard ranger’s favored terrain ability and replaces that ability.
 
@@ -845,11 +845,11 @@ The isolation that some half-elves feel leads them to live a life of isolation a
 
 Rangers and other characters who gain combat styles can also select from the following new options. Such characters can choose feats from their selected combat style even if they do not meet the normal prerequisites for the feat in question.
 
-**Deceptive**: If the ranger selects the deceptive combat style, he can choose from the following list whenever he gains a combat style feat: Disengaging Feint, Improved Feint, Ranged Feint, and Two-Weapon Feint. At 6th level, he adds Greater Feint and Misdirection Tactics to the list. At 10th level, he adds Disengaging Shot and Passing Trick to the list.
+**Deceptive**: If the ranger selects the deceptive combat style, he can choose from the following list whenever he gains a combat style feat: [Disengaging Feint](../../rules/feats/disengaging-feint.md), [Improved Feint](../../rules/feats/improved-feint.md), [Ranged Feint](../../rules/feats/ranged-feint.md), and [Two-Weapon Feint](../../rules/feats/two-weapon-feint.md). At 6th level, he adds [Greater Feint](../../rules/feats/greater-feint.md) and [Misdirection Tactics](../../rules/feats/misdirection-tactics.md) to the list. At 10th level, he adds [Disengaging Shot](../../rules/feats/disengaging-shot.md) and [Passing Trick](../../rules/feats/passing-trick.md) to the list.
 
-**Menacing**: If the ranger selects the menacing combat style, he can choose from the following list whenever he gains a combat style feat: Dazzling Display, Enforcer, Gory Finish, and Intimidating Prowess. At 6th level, he adds Martial Dominance and Shatter Defenses to the list. At 10th level, he adds Dreadful Carnage and Improved Critical to the list.
+**Menacing**: If the ranger selects the menacing combat style, he can choose from the following list whenever he gains a combat style feat: [Dazzling Display](../../rules/feats/dazzling-display.md), Enforcer, [Gory Finish](../../rules/feats/gory-finish.md), and [Intimidating Prowess](../../rules/feats/intimidating-prowess.md). At 6th level, he adds [Martial Dominance](../../rules/feats/martial-dominance.md) and [Shatter Defenses](../../rules/feats/shatter-defenses.md) to the list. At 10th level, he adds [Dreadful Carnage](../../rules/feats/dreadful-carnage.md) and [Improved Critical](../../rules/feats/improved-critical.md) to the list.
 
-**Underhanded**: If the ranger selects the underhanded combat style, he can choose from the following list whenever he gains a combat style feat, and if he chooses Combat Expertise, he counts as having 13 Intelligence for the purpose of selecting that feat and others that have Combat Expertise as a prerequisite: Combat Expertise, Dodge, Improved Dirty Trick, and Improved Steal. At 6th level, he adds Greater Dirty Trick and Greater Steal to the list. At 10th level, he adds Quick Dirty Trick and Quick Steal to the list.
+**Underhanded**: If the ranger selects the underhanded combat style, he can choose from the following list whenever he gains a combat style feat, and if he chooses [Combat Expertise](../../rules/feats/combat-expertise.md), he counts as having 13 Intelligence for the purpose of selecting that feat and others that have Combat Expertise as a prerequisite: Combat Expertise, Dodge, [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md), and [Improved Steal](../../rules/feats/improved-steal.md). At 6th level, he adds [Greater Dirty Trick](../../rules/feats/greater-dirty-trick.md) and [Greater Steal](../../rules/feats/greater-steal.md) to the list. At 10th level, he adds [Quick Dirty Trick](../../rules/feats/quick-dirty-trick.md) and [Quick Steal](../../rules/feats/quick-steal.md) to the list.
 
 ## Code Runner
 
@@ -903,7 +903,7 @@ Some rangers aren’t the type to put their steel and sweat behind fighting part
 
 The bonus on Bluff checks from deep cover stacks with the guildbreaker’s overall bonus from favored organization if the person he is attempting to deceive is also a member of that organization.
 
-A guildbreaker posing as a member of one of his favored enemy organizations automatically defeats truth-telling magic (as if under the effects of *glibness*), but only for the purpose of claiming to be a member of the organization. Truth-telling magic can still expose him with a more indirect question, such as a member of a non-religious evil organization asking the guildbreaker for the identity of his patron deity. This ability replaces hunter’s bond.
+A guildbreaker posing as a member of one of his favored enemy organizations automatically defeats truth-telling magic (as if under the effects of [*glibness*](../../magic/spells/glibness.md)), but only for the purpose of claiming to be a member of the organization. Truth-telling magic can still expose him with a more indirect question, such as a member of a non-religious evil organization asking the guildbreaker for the identity of his patron deity. This ability replaces hunter’s bond.
 
 **Crowd Stride (Ex)**: At 7th level, a guildbreaker can slip through crowded streets with ease. His movement speed is not reduced when moving through a crowd. This ability replaces woodland stride.
 
@@ -917,7 +917,7 @@ A sentinel specializes in heightening all of her senses to expose spies and thos
 
 At 7th level, the sentinel also always acts on the surprise round. If she would have acted on the surprise round anyway, or if there is no surprise round, she gains a bonus on initiative checks equal to half her ranger level. This ability replaces a ranger’s hunter’s bond and woodland stride.
 
-**Sense Intruder (Su)**: At 6th level, a sentinel gains the ability to establish an incredibly effective watch by standing still and focusing on all of her senses as once. At any time, she can spend 1 minute setting up this ability. Once she has done so, she must stand still, taking no other actions except to keep track of her surroundings; she can’t even take free actions like talking. Her heightened senses grant her a supernatural awareness of her surroundings within 20 feet. If any Tiny or larger creature enters the area over which her awareness extends, she automatically knows that it did so (this part of the ability is a divination effect and can’t be deceived by spells that block sensory input, only by extreme effects like *mind blank*). Furthermore, unless that creature is simultaneously negating its visual, auditory, and scent stimuli (such as by being under *invisibility*, *silence*, and *negate aroma* all at once), the sentinel can attempt a Perception check as an immediate action to pinpoint the intruder’s location, ignoring any Stealth bonuses the intruder might gain from effects that obscure only one of those senses, such as *invisibility*, camouflage, or other spells or abilities.
+**Sense Intruder (Su)**: At 6th level, a sentinel gains the ability to establish an incredibly effective watch by standing still and focusing on all of her senses as once. At any time, she can spend 1 minute setting up this ability. Once she has done so, she must stand still, taking no other actions except to keep track of her surroundings; she can’t even take free actions like talking. Her heightened senses grant her a supernatural awareness of her surroundings within 20 feet. If any Tiny or larger creature enters the area over which her awareness extends, she automatically knows that it did so (this part of the ability is a divination effect and can’t be deceived by spells that block sensory input, only by extreme effects like [*mind blank*](../../magic/spells/mind-blank.md)). Furthermore, unless that creature is simultaneously negating its visual, auditory, and scent stimuli (such as by being under [*invisibility*](../../magic/spells/invisibility.md), [*silence*](../../magic/spells/silence.md), and [*negate aroma*](../../magic/spells/negate-aroma.md) all at once), the sentinel can attempt a Perception check as an immediate action to pinpoint the intruder’s location, ignoring any Stealth bonuses the intruder might gain from effects that obscure only one of those senses, such as *invisibility*, camouflage, or other spells or abilities.
 
 This sort of heightened analysis of sensory stimuli is taxing, as much so as hustling overland for an equivalent period of time, despite not moving from a single spot. The sentinel can use this ability for 1 hour without penalty. Using sense intruder for a second hour in between sleep cycles deals 1 point of nonlethal damage to the sentinel, and each additional hour deals twice the damage taken during the previous hour. A sentinel who takes any nonlethal damage from using this ability becomes fatigued. Each hour the sentinel uses sense intruder also counts as 1 hour of hustling overland for the purpose of determining how much nonlethal damage the sentinel takes in a single day.
 
@@ -951,7 +951,7 @@ Named for the vicious and unending storms of the open ocean, tidal divers have p
 
 This alters the ranger’s weapon and armor proficiencies.
 
-**Ocean’s Blessing**: A tidal diver adds *buoyancy*, *control water*, *elemental speech* (water only), *hydraulic push*, *hydraulic torrent*, *ride the waves*, *river whip*, *water breathing*, and *wave shield* to his ranger spell list at the same spell level as they appear on the cleric spell list or sorcerer/wizard spell list, whichever is lower. He still must select them as spells known, as normal.
+**Ocean’s Blessing**: A tidal diver adds [*buoyancy*](../../magic/spells/buoyancy.md), [*control water*](../../magic/spells/control-water.md), [*elemental speech*](../../magic/spells/elemental-speech.md) (water only), [*hydraulic push*](../../magic/spells/hydraulic-push.md), [*hydraulic torrent*](../../magic/spells/hydraulic-torrent.md), [*ride the waves*](../../magic/spells/ride-the-waves.md), [*river whip*](../../magic/spells/river-whip.md), [*water breathing*](../../magic/spells/water-breathing.md), and [*wave shield*](../../magic/spells/wave-shield.md) to his ranger spell list at the same spell level as they appear on the cleric spell list or sorcerer/wizard spell list, whichever is lower. He still must select them as spells known, as normal.
 
 This ability replaces track.
 
@@ -983,11 +983,11 @@ The groom attends to the needs of the party’s mounts and beasts of burden duri
 
 This ability replaces track.
 
-**Horse Whisperer (Su)**: At 3rd level, a groom can use *speak with animals* at will, but can use this power only on horses, riding dogs, and other mounts of the animal type.
+**Horse Whisperer (Su)**: At 3rd level, a groom can use [*speak with animals*](../../magic/spells/speak-with-animals.md) at will, but can use this power only on horses, riding dogs, and other mounts of the animal type.
 
 This ability replaces Endurance.
 
-**Scout the Area (Ex)**: At 3rd level, a groom gains a +4 bonus on Knowledge (local) checks. In addition, she always knows where to find the nearest expert or spellcaster who can provide a particular service, such as the nearest source of *raise dead*.
+**Scout the Area (Ex)**: At 3rd level, a groom gains a +4 bonus on Knowledge (local) checks. In addition, she always knows where to find the nearest expert or spellcaster who can provide a particular service, such as the nearest source of [*raise dead*](../../magic/spells/raise-dead.md).
 
 This ability replaces the ranger’s 1st favored terrain.
 
@@ -1025,7 +1025,7 @@ Wilderness medics know a variety of ways they can supply and preserve a rebellio
 
 This ability replaces wild empathy.
 
-**Herbal Medicine (Ex)**: At 3rd level, a wilderness medic can mimic the effects of *stabilize* at will in any wilderness area by spending one use of a healer’s kit as long as he can see the target.
+**Herbal Medicine (Ex)**: At 3rd level, a wilderness medic can mimic the effects of [*stabilize*](../../magic/spells/stabilize.md) at will in any wilderness area by spending one use of a healer’s kit as long as he can see the target.
 
 Additionally, as a standard action a number of times per day equal to 3 + his Wisdom modifier, the wilderness medic can use encouraging words and herbs to lessen the severity of certain conditions affecting a touched target. If the target is exhausted, it becomes fatigued instead. If the target is frightened, it becomes shaken instead. If the target is nauseated, it becomes sickened instead. The duration of the effect is unchanged; the effect is simply reduced to the lesser version.
 
@@ -1035,9 +1035,9 @@ The wilderness medic is able to use this ability on a given touched target once 
 
 This ability replaces the endurance and evasion abilities.
 
-**Rallying Bond (Sp)**: At 4th level, a wilderness medic must choose his companions for his hunter’s bond. At 9th level, the wilderness medic can encourage all of his companions when he uses his hunter’s bond to benefit his companions. As a free action when the wilderness medic uses a move action to grant affected allies half his favored enemy bonus, he can also grant affected allies the benefits of *remove fear*. The wilderness medic can use this ability a number of times per day equal to his Wisdom modifier.
+**Rallying Bond (Sp)**: At 4th level, a wilderness medic must choose his companions for his hunter’s bond. At 9th level, the wilderness medic can encourage all of his companions when he uses his hunter’s bond to benefit his companions. As a free action when the wilderness medic uses a move action to grant affected allies half his favored enemy bonus, he can also grant affected allies the benefits of [*remove fear*](../../magic/spells/remove-fear.md). The wilderness medic can use this ability a number of times per day equal to his Wisdom modifier.
 
-At 14th level, when the wilderness medic uses this ability, he can instead affect all allies that benefit from his hunter’s bond with *blessing of fervor*, using his ranger level as his caster level.
+At 14th level, when the wilderness medic uses this ability, he can instead affect all allies that benefit from his hunter’s bond with [*blessing of fervor*](../../magic/spells/blessing-of-fervor.md), using his ranger level as his caster level.
 
 This ability alters hunter’s bond and replaces improved evasion.
 
@@ -1045,7 +1045,7 @@ This ability alters hunter’s bond and replaces improved evasion.
 
 Veteran archers maintain a strong tradition of archery developed by soldiers in service to a rebel lord. Though their training teaches only the basics of these techniques, a few dedicated students strive toward true mastery in each generation.
 
-**Bullseye Shot (Ex)**: At 1st level, a veteran archer gains the Bullseye Shot feat as a bonus feat. He need not meet its prerequisites. This ability replaces track and wild empathy.
+**Bullseye Shot (Ex)**: At 1st level, a veteran archer gains the [Bullseye Shot](../../rules/feats/bullseye-shot.md) feat as a bonus feat. He need not meet its prerequisites. This ability replaces track and wild empathy.
 
 **Archery Style (Ex)**: At 2nd level, a veteran archer must select the archery combat style. This modifies the ranger’s combat style feat class feature.
 
@@ -1067,7 +1067,7 @@ Where a demon lord has taken residence in a great forest, nearby elves may drive
 
 **Demonologist (Ex)**: At 3rd level, a demonslayer gains insight into his Abyssal enemies. The demonslayer gains a bonus equal to 1/2 his class level on Knowledge (planes) checks that relate to demons, Perception checks to pierce a demon's disguise, and Survival checks while tracking demons. This bonus stacks with any bonuses from favored enemy. This ability replaces endurance.
 
-**Expanded Spell List**: A demonslayer adds the following spells to his spell list: 1st—*protection from evil*; 2nd—*align weapon*, *magic circle against evil*; 4th—*dimensional anchor*, *dismissal*.
+**Expanded Spell List**: A demonslayer adds the following spells to his spell list: 1st—[*protection from evil*](../../magic/spells/protection-from-evil.md); 2nd—[*align weapon*](../../magic/spells/align-weapon.md), [*magic circle against evil*](../../magic/spells/magic-circle-against-evil.md); 4th—[*dimensional anchor*](../../magic/spells/dimensional-anchor.md), [*dismissal*](../../magic/spells/dismissal.md).
 
 **Fiendish Quarry (Su)**: At 11th level, when a demonslayer chooses an evil outsider as his quarry, he can forgo the normal +2 attack bonus and instead treat his weapon as if it were good-aligned versus his quarry. This ability is otherwise identical to quarry and replaces that ability.
 
@@ -1079,7 +1079,7 @@ Elite military academies may teach their students the handling and riding of hip
 
 **Hippogriff Companion**: At 2nd level, a hippogriff marine adds Monstrous Mount (see [Monstrous Mounts](../../rules/combat/monstrous-mounts.md)) to the list of bonus feats made available to him by his chosen combat style, regardless of the style chosen. He can only use this feat to select a hippogriff mount. If he does so, he treats his ranger level – 1 as his effective druid level. A marine who takes this option does not gain the hunter's bond class feature at 4th level.
 
-At 6th level, a hippogriff marine adds Monstrous Mount Mastery to the list of available bonus feats granted by his chosen combat style. If he takes this feat as his 6th-level combat style bonus feat, note that he must wait until 8th level before he meets the effective druid level prerequisite to utilize his mount's mastery abilities.
+At 6th level, a hippogriff marine adds [Monstrous Mount Mastery](../../rules/feats/monstrous-mount-mastery.md) to the list of available bonus feats granted by his chosen combat style. If he takes this feat as his 6th-level combat style bonus feat, note that he must wait until 8th level before he meets the effective druid level prerequisite to utilize his mount's mastery abilities.
 
 ## Forest Irregular
 
@@ -1101,7 +1101,7 @@ A forest irregular also learns to draw upon druidic magic, perhaps from associat
 
 Lantern lighters help rescue those imprisoned by the drow and help individual drow who seek to escape the cruelties of their society for a chance at redemption on the surface. They often serve as sponsors for escapees and work to create pockets of civilization where redeemed drow can live in relative peace and safety.
 
-**Daylight**: A lantern lighter treats *daylight* as a 3rd-level ranger spell. This ability alters the ranger’s spells.
+**Daylight**: A lantern lighter treats [*daylight*](../../magic/spells/daylight.md) as a 3rd-level ranger spell. This ability alters the ranger’s spells.
 
 **Enhanced Vision (Ex)**: A lantern lighter hones his senses to better combat subterranean enemies. He gains low-light vision. If the lantern lighter already has low-light vision, he can instead see three times as far as humans in areas of dim light. This ability replaces wild empathy.
 
@@ -1163,7 +1163,7 @@ Planar scouts are rangers specializing in traversing the planes, and surviving t
 
 This replaces hunter's bond.
 
-**Planar Adaptation (Su)**: At 9th level a planar scout gains *planar adaptation* when on his bonded plane. At 16th level he confers this protection to all allies within a 30-foot spread. This replaces evasion and improved evasion.
+**Planar Adaptation (Su)**: At 9th level a planar scout gains [*planar adaptation*](../../magic/spells/planar-adaptation.md) when on his bonded plane. At 16th level he confers this protection to all allies within a 30-foot spread. This replaces evasion and improved evasion.
 
 ## Corpse Hunter
 
@@ -1171,7 +1171,7 @@ Many rangers count the undead among their favored enemies, but some make a full-
 
 **Class Skills**: A corpse hunter adds Knowledge (religion) to his list of class skills, and removes Knowledge (nature) from his list of class skills.
 
-**Spells**: In addition to the default spells on the ranger spell list, a corpse hunter adds the following to his list of spells at the indicated spell levels: 1st—*bless water*, *detect undead*, *hide from undead*, *sanctify corpse*; 2nd—*halt undead*; 3rd—*speak with dead*; 4th—*searing light*.
+**Spells**: In addition to the default spells on the ranger spell list, a corpse hunter adds the following to his list of spells at the indicated spell levels: 1st—[*bless water*](../../magic/spells/bless-water.md), [*detect undead*](../../magic/spells/detect-undead.md), [*hide from undead*](../../magic/spells/hide-from-undead.md), [*sanctify corpse*](../../magic/spells/sanctify-corpse.md); 2nd—[*halt undead*](../../magic/spells/halt-undead.md); 3rd—[*speak with dead*](../../magic/spells/speak-with-dead.md); 4th—[*searing light*](../../magic/spells/searing-light.md).
 
 **Undead Exterminator**: At 1st level, a corpse hunter must select undead as his first and only favored enemy, granting him a +2 bonus on Bluff, Knowledge, Perception, Sense Motive, and Survival checks when dealing with creatures of the undead type and a +2 bonus on weapon attack and damage rolls against undead. A corpse hunter does not gain additional favored enemies at 5th, 10th, 15th, and 20th level, though his favored enemy bonus against undead creatures increases by 2 at each of these levels (to a maximum bonus of +10 at 20th level). This replaces the normal favored enemy class feature.
 
@@ -1259,15 +1259,15 @@ Some rangers feel so closely connected to their homelands that they stand as gua
 
 Thanks to their four arms, kasathas can master a combat form native to their home world and rarely witnessed elsewhere: wielding two bows at once. This archetype is available to kasathas (and to other races with four or more arms at the GM's discretion).
 
-**Twin Bows (Ex)**: At 1st level, a bow nomad can simultaneously wield a combination of two of any of the following ranged weapons: shortbow, longbow, and their composite versions. When a bow nomad makes a full attack with two bows, two-weapon penalties apply and can be offset with Two-Weapon Fighting feats. Since bows aren't light weapons, a bow nomad with Two-Weapon Fighting takes a –4 penalty on attacks with each of her bows. Extra attacks from other sources, such as those granted by Manyshot or Rapid Shot, can be applied to only one of the wielded bows per round. This ability replaces wild empathy.
+**Twin Bows (Ex)**: At 1st level, a bow nomad can simultaneously wield a combination of two of any of the following ranged weapons: shortbow, longbow, and their composite versions. When a bow nomad makes a full attack with two bows, two-weapon penalties apply and can be offset with Two-Weapon Fighting feats. Since bows aren't light weapons, a bow nomad with Two-Weapon Fighting takes a –4 penalty on attacks with each of her bows. Extra attacks from other sources, such as those granted by Manyshot or [Rapid Shot](../../rules/feats/rapid-shot.md), can be applied to only one of the wielded bows per round. This ability replaces wild empathy.
 
 **Combat Style (Ex)**: At 2nd level, a bow nomad must select archery as her combat style.
 
-**Agile Maneuvers**: At 3rd level, a bow nomad gains Agile Maneuvers as a bonus feat. This replaces Endurance.
+**Agile Maneuvers**: At 3rd level, a bow nomad gains [Agile Maneuvers](../../rules/feats/agile-maneuvers.md) as a bonus feat. This replaces Endurance.
 
 **Trick Shot (Ex)**: A bow nomad can make a number of trick shots per day equal to 1/2 her ranger level + her Dexterity modifier. Unless otherwise noted, making a trick shot is a standard action that provokes attacks of opportunity.
 
-*Deflecting Arrow*: At 3rd level, as an immediate action that doesn't provoke attacks of opportunity, a bow nomad can deflect a single ranged attack. This ability functions as the Deflect Arrows feat, except the bow nomad need not have a hand free and can deflect an attack targeting any creature within 30 feet.
+*Deflecting Arrow*: At 3rd level, as an immediate action that doesn't provoke attacks of opportunity, a bow nomad can deflect a single ranged attack. This ability functions as the [Deflect Arrows](../../rules/feats/deflect-arrows.md) feat, except the bow nomad need not have a hand free and can deflect an attack targeting any creature within 30 feet.
 
 *Hampering Strike*: At 8th level, a bow nomad can attempt to disarm or trip an opponent within 30 feet in place of a ranged attack, with a –4 penalty on the combat maneuver check.
 
@@ -1295,11 +1295,11 @@ Some rangers have developed skills to defeat the robotic enforcers and devious a
 
 *Rigged Construct Trap*: **Type** mechanical; **Perception** DC 20; **Disable Device** DC 20. **Trigger** location (all spaces occupied by the construct's remains); **Reset** none. **Effect** blast of electricity (1d6 electricity damage/2 HD of construct); Reflex negates (DC = 10 + 1/2 the ranger's level + his Intelligence modifier); multiple targets (all targets within 5 ft. of construct's remains).
 
-Other types of destroyed constructs can serve as suitable materials for a rigged construct trap (at the GM's discretion). Constructs destroyed by *disintegrate* or similar effects that leave no intact remains cannot be used to create a rigged construct trap. This ability replaces woodland stride.
+Other types of destroyed constructs can serve as suitable materials for a rigged construct trap (at the GM's discretion). Constructs destroyed by [*disintegrate*](../../magic/spells/disintegrate.md) or similar effects that leave no intact remains cannot be used to create a rigged construct trap. This ability replaces woodland stride.
 
 **Static Strike (Ex)**: At 8th level, the galvanic saboteur has gathered enough parts and scrap from his constructed enemies that he can infuse some of his attacks with a bit of their alien energy. Once per day as a standard action, the ranger can make a static strike as a melee attack at his full base attack bonus. If the attack hits, it deals an additional 1d6 points of electricity damage and the ranger can make an additional attack at his full base attack bonus against a foe that is adjacent to the previous foe and still within his reach, as if he had Cleave, except he doesn't take a –2 penalty to his AC and the second attack deals an additional 2d6 points of electricity damage. At 12th level, the ranger can continue to make attacks against adjacent creatures, as if he had Greater Cleave, with each hit increasing the amount of electricity damage dealt to the next foe in line. The ranger can use this ability twice per day at 14th level and three times per day at 20th level. This ability replaces swift tracker and camouflage.
 
-**Sensor Evasion (Su)**: At 17th level, a galvanic saboteur has mastered the art of evading technological and magical observation. He can use the Stealth skill against constructs and magical sensors (such as those created by *arcane eye* or *clairaudience/clairvoyance*) even while being observed. This ability replaces hide in plain sight.
+**Sensor Evasion (Su)**: At 17th level, a galvanic saboteur has mastered the art of evading technological and magical observation. He can use the Stealth skill against constructs and magical sensors (such as those created by [*arcane eye*](../../magic/spells/arcane-eye.md) or *clairaudience/clairvoyance*) even while being observed. This ability replaces hide in plain sight.
 
 ## Witch Guard
 
@@ -1339,7 +1339,7 @@ A freebooter is a natural leader, a pirate who works well with a variety of peop
 
 **Elemental Explorer (Ex)**: At 3rd level, instead of selecting a favored terrain, an elemental envoy gains the typical favored terrain bonuses when traveling on the Plane of Air, Plane of Earth, Plane of Fire, and Plane of Water, except the elemental envoy gains a bonus on Knowledge (planes) checks instead of Knowledge (geography) checks. At 8th level and every 5 levels thereafter, he does not select an additional favored terrain, but his favored terrain bonuses increase by 2. This alters favored terrain.
 
-**Elemental Combat Style**: A ranger or other character who gains combat styles can select the following combat style instead of his normal choices. He can choose feats from this style even if he does not meet the normal prerequisites (including racial prerequisites). *Elemental*: If the ranger chooses the elemental combat style, he can choose from the following list whenever he gains a combat style feat: Aquadynamic Focus, Scorching Weapons, Stony Step, and Wind Stance. At 6th level, he adds Inner Flame and Lightning Stance to the list. At 10th level, he adds Blazing Aura and Whirlwind Attack to the list.
+**Elemental Combat Style**: A ranger or other character who gains combat styles can select the following combat style instead of his normal choices. He can choose feats from this style even if he does not meet the normal prerequisites (including racial prerequisites). *Elemental*: If the ranger chooses the elemental combat style, he can choose from the following list whenever he gains a combat style feat: [Aquadynamic Focus](../../rules/feats/aquadynamic-focus.md), [Scorching Weapons](../../rules/feats/scorching-weapons.md), [Stony Step](../../rules/feats/stony-step.md), and [Wind Stance](../../rules/feats/wind-stance.md). At 6th level, he adds [Inner Flame](../../rules/feats/inner-flame.md) and [Lightning Stance](../../rules/feats/lightning-stance.md) to the list. At 10th level, he adds [Blazing Aura](../../rules/feats/blazing-aura.md) and [Whirlwind Attack](../../rules/feats/whirlwind-attack.md) to the list.
 
 ## Underworld Sailor
 
@@ -1391,7 +1391,7 @@ Cinderwalkers traverse burning wastelands and restless mountains, thriving in la
 
 **Born to the Fire (Ex)**:  At 3rd level, a cinderwalker gains a +2 bonus on initiative checks and Knowledge (geography), Perception, Stealth, and Survival checks when in volcanic or geothermally active areas. Such areas include calderas, hot springs, lava plains, and volcanically formed hills or mountains. In addition, the cinderwalker adds this bonus on any ability checks, saving throws, or skill checks to avoid geothermal or volcanic hazards. The cinderwalker can choose to improve this bonus in place of improving a favored terrain bonus. A cinderwalker traveling through volcanic or geothermally active areas leaves no trail and cannot be tracked (though he can leave a trail if he chooses). This ability replaces the cinderwalker’s first favored terrain and wild empathy.
 
-**Inured (Ex)**:  At 4th level, a cinderwalker gains the benefits of *endure elements* against hot environments. At 8th level, the cinderwalker gains fire resistance 10, which improves to fire resistance 20 at 12th level, fire resistance 30 at 16th level, and immunity to fire at 20th level. This ability replaces hunter’s bond.
+**Inured (Ex)**:  At 4th level, a cinderwalker gains the benefits of [*endure elements*](../../magic/spells/endure-elements.md) against hot environments. At 8th level, the cinderwalker gains fire resistance 10, which improves to fire resistance 20 at 12th level, fire resistance 30 at 16th level, and immunity to fire at 20th level. This ability replaces hunter’s bond.
 
 **Cinderwalk (Ex)**:  At 7th level, a cinderwalker can move through any sort of solid volcanic terrain (such as ash, cooled lava, or volcanic rock) at his normal speed and without taking damage or suffering any other impairment. The cinderwalker ignores fire damage from being near heat sources and touching heated surfaces (but not from immersion). This ability replaces woodland stride.
 
@@ -1431,7 +1431,7 @@ Agile, vengeful, and deadly, a sword-devil fights with precision and grace, chan
 
 **Death Vow (Ex)**: At 1st level, a sword-devil may, as a swift action, focus all her fury and determination on a single foe she swears to slay. She may do this once per day, plus one additional time per day at 4th level and every 3 levels thereafter (7th, 10th, etc). The sword-devil gains a bonus on weapon attack and damage rolls against her sworn target equal to half her sword-devil level (minimum +1). The death vow effect remains until the target of the death vow is dead, or the next time the sword-devil rests and regains use of this ability. This ability replaces favored enemy.
 
-**Slashing Fury (Ex)**: Beginning at 3rd level, the sword-devil can use her Charisma score in place of her Intelligence score as a prerequisite for combat feats. Additionally, she selects one type of light or one- handed slashing melee weapon. When using this weapon, she may use her Dexterity modifier instead of her Strength modifier on melee attack rolls. At 8th level and every 5 levels thereafter (13th and 18th), the sword-devil may select an additional type of light or one-handed slashing weapon she may use with this ability. This ability counts as having the Weapon Finesse feat for the purpose of meeting feat prerequisites. This ability replaces favored terrain.
+**Slashing Fury (Ex)**: Beginning at 3rd level, the sword-devil can use her Charisma score in place of her Intelligence score as a prerequisite for combat feats. Additionally, she selects one type of light or one- handed slashing melee weapon. When using this weapon, she may use her Dexterity modifier instead of her Strength modifier on melee attack rolls. At 8th level and every 5 levels thereafter (13th and 18th), the sword-devil may select an additional type of light or one-handed slashing weapon she may use with this ability. This ability counts as having the [Weapon Finesse](../../rules/feats/weapon-finesse.md) feat for the purpose of meeting feat prerequisites. This ability replaces favored terrain.
 
 **Inspiring Example (Ex)**: At 4th level, the sword-devil forms a bond with her companions, inspiring them to greater zeal in combat by the example of her weaponcraft. As a standard action, the sword-devil may grant half her death vow bonus against a single victim of her death vow to all allies within 30 feet who can see and hear her. This bonus lasts for a number of rounds equal to the sword-devil's Charisma modifier (minimum 1). This bonus does not stack with any death vow bonuses possessed by the sword-devil‘s allies; they use whichever bonus is higher. This ability replaces hunter's bond.
 

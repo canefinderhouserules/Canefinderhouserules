@@ -4,7 +4,7 @@
 
 Your ranged attacks unerringly seek those you have cursed. *(See [Blood Hexes](blood-hexes.md).)*
 
-**Prerequisites**: Dex 13, Int 13, Dodge, Mobility, Point-Blank Shot, Shot on the Run, base attack bonus +4, Use Magic Device 1 rank.
+**Prerequisites**: Dex 13, Int 13, Dodge, [Mobility](mobility.md), [Point-Blank Shot](point-blank-shot.md), [Shot on the Run](shot-on-the-run.md), base attack bonus +4, Use Magic Device 1 rank.
 
 **Benefit**: As a standard action, you can curse a creature you've dealt damage to with a ranged weapon attack since the beginning of your last turn. The target must succeed at a Reflex save, or you don't take penalties on ranged weapon attacks against the creature for the first range increment and you ignore any bonus to the creature's Armor Class from cover. The creature still benefits from total cover. This effect lasts for 1 minute.
 

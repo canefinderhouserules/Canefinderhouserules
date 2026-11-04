@@ -2,7 +2,7 @@
 
 Your insight and force of will can tame dangerous spirits.
 
-**Prerequisites**: Wis 17, Iron Will, [Spirit Beacon](spirit-beacon.md), Diplomacy 5 ranks or Intimidate 5 ranks.
+**Prerequisites**: Wis 17, [Iron Will](iron-will.md), [Spirit Beacon](spirit-beacon.md), Diplomacy 5 ranks or Intimidate 5 ranks.
 
 **Benefit**: Select one specific category of spirit (fey, outsiders, or undead). Once per day as a standard action, you can condemn these spirits with such force of will that you can drive them from hosts, unravel their magic, or damage them physically. A rebuke targets a single spirit you can see (or one that is possessing a creature you can see) within 30 feet.
 

@@ -190,7 +190,7 @@ A shaman with this focus calls upon the mighty bear, titan of the woodlands and 
 
 **Wild Shape (Su)**: At 6th level, a bear shaman’s wild shape ability functions at her druid level – 2. If she takes on the form of a bear, she instead uses her druid level + 2.
 
-**Bonus Feat**: At 9th level and every 4 levels thereafter, a bear shaman gains one of the following bonus feats: Diehard, Endurance, Great Fortitude, Improved Great Fortitude, Toughness. She must meet the prerequisites for these bonus feats. This ability replaces venom immunity.
+**Bonus Feat**: At 9th level and every 4 levels thereafter, a bear shaman gains one of the following bonus feats: Diehard, Endurance, [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Great Fortitude](../../rules/feats/improved-great-fortitude.md), Toughness. She must meet the prerequisites for these bonus feats. This ability replaces venom immunity.
 
 ### Eagle Shaman
 
@@ -206,7 +206,7 @@ A shaman with this totem calls upon the noble eagle, stern and proud, soaring hi
 
 **Wild Shape (Su)**: At 6th level, an eagle shaman’s wild shape ability functions at her druid level – 2. If she takes on the form of an eagle or roc, she instead uses her druid level + 2.
 
-**Bonus Feat**: At 9th level and every 4 levels thereafter, an eagle shaman gains one of the following bonus feats: Flyby Attack, Improved Lightning Reflexes, Lightning Reflexes, Skill Focus (Perception), or Wind Stance. She must meet the prerequisites for these bonus feats. This ability replaces venom immunity.
+**Bonus Feat**: At 9th level and every 4 levels thereafter, an eagle shaman gains one of the following bonus feats: Flyby Attack, [Improved Lightning Reflexes](../../rules/feats/improved-lightning-reflexes.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Skill Focus (Perception), or [Wind Stance](../../rules/feats/wind-stance.md). She must meet the prerequisites for these bonus feats. This ability replaces venom immunity.
 
 ### Lion Shaman
 
@@ -222,7 +222,7 @@ A shaman with this totem calls upon the proud lion, imposing and majestic, the m
 
 **Wild Shape (Su)**: At 6th level, a lion shaman’s wild shape ability functions at her druid level – 2. If she takes on the form of a feline, she instead uses her druid level + 2.
 
-**Bonus Feat**: At 9th level and every 4 levels thereafter, a lion shaman gains one of the following bonus feats: Dodge, Lunge, Improved Iron Will, Iron Will, or Skill Focus (Acrobatics). She must meet the prerequisites for these bonus feats. This ability replaces venom immunity.
+**Bonus Feat**: At 9th level and every 4 levels thereafter, a lion shaman gains one of the following bonus feats: Dodge, Lunge, [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Iron Will](../../rules/feats/iron-will.md), or Skill Focus (Acrobatics). She must meet the prerequisites for these bonus feats. This ability replaces venom immunity.
 
 ### Serpent Shaman
 
@@ -238,7 +238,7 @@ A shaman with this totem calls upon the cunning serpent, the stealthy deceiver w
 
 **Wild Shape (Su)**: At 6th level, a serpent shaman’s wild shape ability functions at her druid level – 2. If she takes on the form of a snake, she instead uses her druid level + 2.
 
-**Bonus Feat**: At 9th level and every 4 levels thereafter, a serpent shaman gains one of the following bonus feats: Combat Expertise, Improved Feint, Skill Focus (Bluff ), Stealthy, or Strike Back. She must meet the prerequisites for these bonus feats. This ability replaces venom immunity.
+**Bonus Feat**: At 9th level and every 4 levels thereafter, a serpent shaman gains one of the following bonus feats: [Combat Expertise](../../rules/feats/combat-expertise.md), [Improved Feint](../../rules/feats/improved-feint.md), Skill Focus (Bluff ), Stealthy, or [Strike Back](../../rules/feats/strike-back.md). She must meet the prerequisites for these bonus feats. This ability replaces venom immunity.
 
 ### Wolf Shaman
 
@@ -254,4 +254,4 @@ A shaman with this totem calls upon the clever wolf, capable of roaming alone ye
 
 **Wild Shape (Su)**: At 6th level, a wolf shaman’s wild shape ability functions at her druid level – 2. If she takes on the form of a canine, she instead uses her druid level + 2.
 
-**Bonus Feat**: At 9th level and every 4 levels thereafter, a wolf shaman gains one of the following bonus feats: Greater Trip, Improved Trip, Mobility, Skill Focus (Stealth), or Spring Attack. She must meet the prerequisites for these bonus feats. This ability replaces venom immunity.
+**Bonus Feat**: At 9th level and every 4 levels thereafter, a wolf shaman gains one of the following bonus feats: [Greater Trip](../../rules/feats/greater-trip.md), [Improved Trip](../../rules/feats/improved-trip.md), Mobility, Skill Focus (Stealth), or [Spring Attack](../../rules/feats/spring-attack.md). She must meet the prerequisites for these bonus feats. This ability replaces venom immunity.

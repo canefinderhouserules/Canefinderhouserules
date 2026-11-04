@@ -4,7 +4,7 @@
 
 Your possessed hand can act independently.
 
-**Prerequisites**: Possessed Hand.
+**Prerequisites**: [Possessed Hand](possessed-hand.md).
 
 **Benefit**: You reduce the penalties for fighting with two weapons (including fighting with double weapons or when throwing weapons from each hand) by 2, to a minimum penalty of –1. This benefit stacks with the Two-Weapon Fighting feat.
 

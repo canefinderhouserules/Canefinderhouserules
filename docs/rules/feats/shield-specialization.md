@@ -4,7 +4,7 @@
 
 You have mastered the use of one type of shield.
 
-**Prerequisites**: Proficiency with selected shield, Shield Focus, fighter level 4th.
+**Prerequisites**: Proficiency with selected shield, [Shield Focus](shield-focus.md), fighter level 4th.
 
 **Benefit**: Choose one type of shield (buckler, light, heavy, or tower shield). With the selected shield, you gain a +2 bonus to your Armor Class against critical hit confirmation rolls. In addition, you may add your base shield bonus (including the bonus from Shield Focus but not including enhancement bonuses) to your CMD.
 

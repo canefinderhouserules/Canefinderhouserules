@@ -4,7 +4,7 @@
 
 You utilize combat as an opportunity to inflict humiliation upon those who provoke your attacks of opportunity.
 
-**Prerequisites**: Combat Reflexes, Improved Unarmed Strike or Weapon Focus (unarmed strike), base attack bonus +2 or monk level 1st.
+**Prerequisites**: [Combat Reflexes](combat-reflexes.md), Improved Unarmed Strike or Weapon Focus (unarmed strike), base attack bonus +2 or monk level 1st.
 
 **Benefit**: While using this style, you can make an attack of opportunity with an unarmed strike to deliver a humiliating swat to the target. If you hit the target, you inflict 1 point of nonlethal damage and the target must succeed at a Will saving throw (DC = 10 + half your level + your Charisma modifier) or become staggered for 1 round.
 

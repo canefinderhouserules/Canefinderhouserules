@@ -4,7 +4,7 @@
 
 Your critical hit from a spell or spell-like ability afflicts the target with a major spellblight.
 
-**Prerequisites**: Blighted Critical, Critical Focus, caster level 12th.
+**Prerequisites**: [Blighted Critical](blighted-critical.md), [Critical Focus](critical-focus.md), caster level 12th.
 
 **Benefit**: Whenever you confirm a critical hit with a touch spell, ranged touch spell, or spell-like ability against an opponent, the victim gains a random major spellblight.
 

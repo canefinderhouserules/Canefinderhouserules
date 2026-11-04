@@ -23,7 +23,7 @@ Shieldmarshals are the chief law enforcement officials of a gunsmithing-capital 
 
 To qualify to become a shieldmarshal, a character must fulfill all of the following criteria.
 
-**Feats**: Gunsmithing, Quick Draw.
+**Feats**: Gunsmithing, [Quick Draw](../../rules/feats/quick-draw.md).
 
 **Skills**: Diplomacy 5 ranks, Intimidate 5 ranks, Knowledge (local) 5 ranks, Perception 5 ranks, Sense Motive 5 ranks.
 
@@ -70,4 +70,4 @@ This ability can be used once per day, plus once for every three levels beyond 1
 
 **Quarry (Ex)**: At 9th level, a shieldmarshal can declare one target within his line of sight as his quarry. This ability functions exactly like the ranger ability of the same name.
 
-**High Shieldmarshal (Ex)**: At 10th level, a shieldmarshal attains the highest rank among his order. He can expend one use of his legal judgment ability to create a nonmagical effect equivalent to *discern lies* (caster level equal to his class level; DC = 20 + the shieldmarshal’s Wisdom modifier), or expend one use as part of an initiative check or Charisma-based skill check to take 20 on that check.
+**High Shieldmarshal (Ex)**: At 10th level, a shieldmarshal attains the highest rank among his order. He can expend one use of his legal judgment ability to create a nonmagical effect equivalent to [*discern lies*](../../magic/spells/discern-lies.md) (caster level equal to his class level; DC = 20 + the shieldmarshal’s Wisdom modifier), or expend one use as part of an initiative check or Charisma-based skill check to take 20 on that check.

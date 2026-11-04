@@ -4,7 +4,7 @@
 
 You are trained in how to properly use a tower shield.
 
-**Prerequisite**: Shield Proficiency.
+**Prerequisite**: [Shield Proficiency](shield-proficiency.md).
 
 **Benefit**: When you use a tower shield, the shield’s armor check penalty only applies to Strength and Dexterity-based skills.
 

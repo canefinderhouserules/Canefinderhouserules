@@ -2,7 +2,7 @@
 
 Inspired by tales of a wounded hero vaulting from his sickbed, you refuse to allow ability damage to hinder you.
 
-**Prerequisites**: Wis 15, Great Fortitude.
+**Prerequisites**: Wis 15, [Great Fortitude](great-fortitude.md).
 
 **Benefit**: Choose one ability. You ignore penalties from ability damage to that ability until you have taken an amount of ability damage equal to your score in that ability.
 

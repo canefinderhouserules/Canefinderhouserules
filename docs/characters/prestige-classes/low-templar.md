@@ -27,7 +27,7 @@ After a time serving the crusades, some of these men and women attain such skill
 
 To qualify to become a low templar, a character must fulfill all the following criteria.
 
-**Feats**: Mounted Combat, Weapon Focus (any martial weapon).
+**Feats**: [Mounted Combat](../../rules/feats/mounted-combat.md), Weapon Focus (any martial weapon).
 
 **Skills**: Bluff 5 ranks, Knowledge (nobility or planes) 2 ranks, Ride 5 ranks.
 

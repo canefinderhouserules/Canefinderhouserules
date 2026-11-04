@@ -4,7 +4,7 @@
 
 You attack with the strength of a dragon, your telling blows striking fear into your enemies.
 
-**Prerequisites**: Str 15, Improved Unarmed Strike, Dragon Style, Stunning Fist, Acrobatics 5 ranks.
+**Prerequisites**: Str 15, [Improved Unarmed Strike](improved-unarmed-strike.md), [Dragon Style](dragon-style.md), [Stunning Fist](stunning-fist.md), Acrobatics 5 ranks.
 
 **Benefit**: While using Dragon Style, increase your Strength bonus on unarmed strike damage rolls by an additional one-half your Strength bonus, to a total of double your Strength bonus on the first attack and 1-1/2 times your Strength bonus on the other attacks. When you score a critical hit or a successful Stunning Fist attempt against an opponent while using this style, that opponent is also shaken for a number of rounds equal to 1d4 + your Strength bonus.
 

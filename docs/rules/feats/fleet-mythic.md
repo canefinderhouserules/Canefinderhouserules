@@ -4,7 +4,7 @@
 
 You're fantastically light on your feet.
 
-**Prerequisite**: Fleet.
+**Prerequisite**: [Fleet](fleet.md).
 
 **Benefit**: Your base land speed increases by 5 feet, regardless of what armor you wear or whether you're encumbered. This bonus stacks with the bonus gained from Fleet.
 

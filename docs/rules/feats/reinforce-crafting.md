@@ -4,7 +4,7 @@
 
 Your magical creations are hardier than most.
 
-**Prerequisites**: Craft Magic Arms and Armor, ability to cast *make whole* or *mending*.
+**Prerequisites**: [Craft Magic Arms and Armor](craft-magic-arms-and-armor.md), ability to cast *make whole* or *mending*.
 
 **Benefit**: When you craft a magic weapon, magic armor, or magic shield, you can add a fortifying element to the item. This increases the item's total construction cost by 10%. If it's a weapon, when it becomes broken, the penalty to attack and damage rolls is reduced to –1 (this can never reduce a broken weapon's penalty to attack and damage to 0 or a positive number). If it's a suit of armor or a shield, when it becomes broken, the bonus it grants to AC is reduced by one-quarter, rounding down. Other drawbacks of the broken condition to weapons, armor, and shields still apply as normal.
 

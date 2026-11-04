@@ -4,7 +4,7 @@
 
 You tighten your grip around your target's throat.
 
-**Prerequisites**: Wis 13, Improved Grapple, Improved Unarmed Strike, Kraken Style, base attack bonus +5 or monk level 5th.
+**Prerequisites**: Wis 13, [Improved Grapple](improved-grapple.md), [Improved Unarmed Strike](improved-unarmed-strike.md), [Kraken Style](kraken-style.md), base attack bonus +5 or monk level 5th.
 
 **Benefit**: The damage that you deal with the Kraken Style feat on a successful grapple combat maneuver check increases to an amount equal to your Wisdom bonus + 2.
 

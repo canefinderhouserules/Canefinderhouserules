@@ -695,7 +695,7 @@ You form a weapon using your kinetic abilities. You create a weapon you are prof
 
 If you wield a two-handed weapon formed from a physical blast, you add 1-1/2 times the ability modifier you add to the blast’s damage (normally Constitution, sometimes Strength). This doesn’t apply to energy blasts.
 
-You can form two weapons or a double weapon and fight with the Two-Weapon Fighting rules. If you do, each weapon deals half of your blast’s damage dice (if you have only 1d6, each deals 1d3). This doesn’t halve the blast’s other damage bonuses, though your off-hand weapon adds only half of your ability modifier unless you have Double Slice.
+You can form two weapons or a double weapon and fight with the [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md) rules. If you do, each weapon deals half of your blast’s damage dice (if you have only 1d6, each deals 1d3). This doesn’t halve the blast’s other damage bonuses, though your off-hand weapon adds only half of your ability modifier unless you have [Double Slice](../../rules/feats/double-slice.md).
 
 ??? note "Original rule"
 
@@ -743,7 +743,7 @@ You extend your kinetic blade into a long tendril of energy or elemental matter.
 
 **Saving Throw** Fortitude partial
 
-You infuse your elemental energy with kundalini serpent fire. Choose a chakra you can currently open; you must accept an amount of burn equal to the chakra's number (1 for root, 2 for sacral, and so on). Your unarmed strikes with the infused blast cause the target to suffer the effects of blocking the chosen chakra as per the Block Chakras or Block Upper Chakras feat. You can use this infusion only while also using the kinetic fist form infusion.
+You infuse your elemental energy with kundalini serpent fire. Choose a chakra you can currently open; you must accept an amount of burn equal to the chakra's number (1 for root, 2 for sacral, and so on). Your unarmed strikes with the infused blast cause the target to suffer the effects of blocking the chosen chakra as per the [Block Chakras](../../rules/feats/block-chakras.md) or [Block Upper Chakras](../../rules/feats/block-upper-chakras.md) feat. You can use this infusion only while also using the kinetic fist form infusion.
 
 ### Maelstrom
 
@@ -1004,7 +1004,7 @@ Your kinetic blast can drain your foes’ vitality to replenish your own. If you
 **Prerequisite** venom speaker
 **Associated Blasts** any simple or composite; **Saving Throw** see text
 
-You can infuse your kinetic blast with poison. To use this infusion, you must be holding a dose of poison or have at least one use of a feat or racial trait that produces poison (such as the Spit Venom feat or the toxic skin grippli alternate racial trait). One dose of poison or one use of your feat or racial trait is consumed if applicable, and creatures damaged by the infused blast are affected by the poison. Use the same type, save, save DC, frequency, effect, and cure as the consumed poison.
+You can infuse your kinetic blast with poison. To use this infusion, you must be holding a dose of poison or have at least one use of a feat or racial trait that produces poison (such as the [Spit Venom](../../rules/feats/spit-venom.md) feat or the toxic skin grippli alternate racial trait). One dose of poison or one use of your feat or racial trait is consumed if applicable, and creatures damaged by the infused blast are affected by the poison. Use the same type, save, save DC, frequency, effect, and cure as the consumed poison.
 
 ### Venom Infusion
 
@@ -1061,7 +1061,7 @@ A kineticist can select one of the following wild talents at each even level, pr
 
 **Prerequisites** emptiness
 
-You are always under the effect of *nondetection* as if you had cast it on yourself. If the effect is dispelled, you can call it forth again as a standard action. You can accept 1 point of burn to grant a creature touched the effects of *nondetection*.
+You are always under the effect of [*nondetection*](../../magic/spells/nondetection.md) as if you had cast it on yourself. If the effect is dispelled, you can call it forth again as a standard action. You can accept 1 point of burn to grant a creature touched the effects of *nondetection*.
 
 ### Aerial Adaptation
 
@@ -1081,7 +1081,7 @@ You use wind to buffet yourself away from area attacks. Until the next time your
 
 **Element** aether; **Type** utility (Su); **Level** 9; **Burn** 0
 
-You can spin a small building, bridge, or other edifice out of aether, and even use aether to tether a building to a flat surface other than the ground. By concentrating for 10 minutes, you can create an edifice out of scintillating aether (same hardness and hit points as a *wall of force*) as long as the edifice is no larger than one 10-foot cube per kineticist level. Unless the creation is extremely simplistic, you must succeed at a Craft or Knowledge (engineering) check to add embellishments. This ability can also create a series of tethers to securely attach a normal building to a vertical surface or even a cavern ceiling. Aether architect lasts as long as you concentrate, and you can accept 1 point of burn to make the effect last until destroyed; by accepting this burn, you can use this ability any number of times in a row to create a larger edifice.
+You can spin a small building, bridge, or other edifice out of aether, and even use aether to tether a building to a flat surface other than the ground. By concentrating for 10 minutes, you can create an edifice out of scintillating aether (same hardness and hit points as a [*wall of force*](../../magic/spells/wall-of-force.md)) as long as the edifice is no larger than one 10-foot cube per kineticist level. Unless the creation is extremely simplistic, you must succeed at a Craft or Knowledge (engineering) check to add embellishments. This ability can also create a series of tethers to securely attach a normal building to a vertical surface or even a cavern ceiling. Aether architect lasts as long as you concentrate, and you can accept 1 point of burn to make the effect last until destroyed; by accepting this burn, you can use this ability any number of times in a row to create a larger edifice.
 
 ### Aether Puppet
 
@@ -1155,7 +1155,7 @@ This ability is similar to mage hand, except you can move an object that weighs 
 
 **Element** air; **Type** utility (Sp); **Level** 4; **Burn** 0
 
-You transform yourself into gas, as per *gaseous form*. You can't use kinetic blasts while in this form.
+You transform yourself into gas, as per [*gaseous form*](../../magic/spells/gaseous-form.md). You can't use kinetic blasts while in this form.
 
 ### Celerity
 
@@ -1169,7 +1169,7 @@ You can galvanize the flow of electricity within your allies to enhance their sp
 
 **Prerequisite** metal blast
 
-You have used your power over metal to add clockwork components to your own body. So long as these clockwork components are kept wound (per the winding ability of the clockwork subtype), you gain the benefits of both the Improved Initiative and Lightning Reflexes feats.
+You have used your power over metal to add clockwork components to your own body. So long as these clockwork components are kept wound (per the winding ability of the clockwork subtype), you gain the benefits of both the [Improved Initiative](../../rules/feats/improved-initiative.md) and [Lightning Reflexes](../../rules/feats/lightning-reflexes.md) feats.
 
 ### Clockwork Puppet
 
@@ -1205,7 +1205,7 @@ You draw upon negative energy to animate a nearby corpse as a zombie or a fast z
 
 **Element** water; **Type** utility (Sp); **Level** 8; **Burn** 1
 
-You encase yourself or a willing target in an icy sheen, placing the target in a state of suspended animation, as per *temporal stasis* except fire spells and spell-like abilities of 3rd level or higher count as if the caster used *dispel magic* against the stasis. Otherwise, no other force or effect can harm the target.
+You encase yourself or a willing target in an icy sheen, placing the target in a state of suspended animation, as per [*temporal stasis*](../../magic/spells/temporal-stasis.md) except fire spells and spell-like abilities of 3rd level or higher count as if the caster used [*dispel magic*](../../magic/spells/dispel-magic.md) against the stasis. Otherwise, no other force or effect can harm the target.
 
 ### Curse Breaker
 
@@ -1213,7 +1213,7 @@ You encase yourself or a willing target in an icy sheen, placing the target in a
 
 **Prerequisites** emptiness
 
-The power of void protects you from curses and allows you to remove or suppress them. You gain a +4 bonus on saving throws against curses and hexes. You can accept 1 point of burn as a standard action to attempt a caster level check to remove a curse on yourself or another as per *remove curse*. If the curse normally could not be removed by *remove curse*, you can instead suppress the curse until the next time your burn is removed with a successful caster level check. When your burn is removed, you can choose not to remove the burn you spent in this way to continue suppressing the curse without interruption. If you die, any curse suppressed in this way returns instantly.
+The power of void protects you from curses and allows you to remove or suppress them. You gain a +4 bonus on saving throws against curses and hexes. You can accept 1 point of burn as a standard action to attempt a caster level check to remove a curse on yourself or another as per [*remove curse*](../../magic/spells/remove-curse.md). If the curse normally could not be removed by *remove curse*, you can instead suppress the curse until the next time your burn is removed with a successful caster level check. When your burn is removed, you can choose not to remove the burn you spent in this way to continue suppressing the curse without interruption. If you die, any curse suppressed in this way returns instantly.
 
 ### Earth Climb
 
@@ -1235,7 +1235,7 @@ You can glide through earth, as an earth elemental’s earth glide ability, with
 
 **Prerequisites** greater tremorsense, tremorsense
 
-You are constantly capable of speaking to rocks and stones, including natural and worked stone, as per *stone tell*. This ability is always active, and rocks and stones might speak to you before you speak to them if they have something to say.
+You are constantly capable of speaking to rocks and stones, including natural and worked stone, as per [*stone tell*](../../magic/spells/stone-tell.md). This ability is always active, and rocks and stones might speak to you before you speak to them if they have something to say.
 
 ### Earth Walk
 
@@ -1247,7 +1247,7 @@ You are constantly capable of speaking to rocks and stones, including natural an
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-You transport a single creature you touch to the plane associated with your element. Precise accuracy regarding a particular arrival location on the intended plane is almost impossible. The creature appears 5 to 500 miles (5d%) from your intended destination. Elemental exile transports creatures instantaneously and then ends. The creature must find other means to travel back (such as casting *plane shift* or using elemental exile again).
+You transport a single creature you touch to the plane associated with your element. Precise accuracy regarding a particular arrival location on the intended plane is almost impossible. The creature appears 5 to 500 miles (5d%) from your intended destination. Elemental exile transports creatures instantaneously and then ends. The creature must find other means to travel back (such as casting [*plane shift*](../../magic/spells/plane-shift.md) or using elemental exile again).
 
 ### Elemental Grip
 
@@ -1403,7 +1403,7 @@ You painfully push forth jagged chunks of rock from your flesh. Until the next t
 
 **Element** universal; **Type** utility (Su); **Level** 1; **Burn** 0
 
-You create a terrifying display of elemental power. This ability functions as Dazzling Display, except you can use this ability as a standard action and you add half your kineticist level as a bonus on your Intimidate check if you've used gather power during the same round; doing so expends the gathered power. This ability otherwise counts as the Dazzling Display feat; feats and other effects which affect Dazzling Display (such as Shatter Defenses) apply to it, and it counts as Dazzling Display for the purpose of meeting combat feat prerequisites.
+You create a terrifying display of elemental power. This ability functions as [Dazzling Display](../../rules/feats/dazzling-display.md), except you can use this ability as a standard action and you add half your kineticist level as a bonus on your Intimidate check if you've used gather power during the same round; doing so expends the gathered power. This ability otherwise counts as the Dazzling Display feat; feats and other effects which affect Dazzling Display (such as [Shatter Defenses](../../rules/feats/shatter-defenses.md)) apply to it, and it counts as Dazzling Display for the purpose of meeting combat feat prerequisites.
 
 ### Kinetic Cover
 
@@ -1447,7 +1447,7 @@ If you have the kinetic healer utility wild talent, you can use both kinetic res
 
 **Prerequisite** kinetic healer
 
-You can bring an ally who died within 1 round back from the dead with your kinetic healer wild talent similarly to the *breath of life* spell, except the ally regains the normal number of hit points from the kinetic healer utility wild talent instead of the amount healed by *breath of life*. An ally revived in this way takes 1 point of burn + any points of burn from the kinetic healer utility wild talent (if you choose to have the ally take points of burn instead of taking it yourself).
+You can bring an ally who died within 1 round back from the dead with your kinetic healer wild talent similarly to the [*breath of life*](../../magic/spells/breath-of-life.md) spell, except the ally regains the normal number of hit points from the kinetic healer utility wild talent instead of the amount healed by *breath of life*. An ally revived in this way takes 1 point of burn + any points of burn from the kinetic healer utility wild talent (if you choose to have the ally take points of burn instead of taking it yourself).
 
 If you have the metahealer ability (such as from the kinetic chirurgeon kineticist archetype), this talent instead allows you to bring an ally back who died within a number of rounds equal to 3 + the ally’s Constitution modifier (minimum 0) – the number of points of burn the ally had taken before it died. For each round that the ally was dead, when it is brought back to life in this way, it takes 1 additional point of burn + any points of burn from the kinetic healer talent.
 
@@ -1455,7 +1455,7 @@ If you have the metahealer ability (such as from the kinetic chirurgeon kinetici
 
 **Element** air; **Type** utility (Sp); **Level** 2; **Burn** 0
 
-You store electricity damage you take within your body, as if you constantly had *body capacitance* active. Once you discharge this electricity damage via a touch attack, you must take electricity damage again before you can discharge it again.
+You store electricity damage you take within your body, as if you constantly had [*body capacitance*](../../magic/spells/body-capacitance.md) active. Once you discharge this electricity damage via a touch attack, you must take electricity damage again before you can discharge it again.
 
 ### Magnetism
 
@@ -1475,7 +1475,7 @@ You can push and pull metal objects using magnetism. This functions as telekinet
 
 **Saving Throw** none; **Spell Resistance** no
 
-You can repel or attract metal objects in a vast line with a magnetism so strong that there is no hope of escaping. This functions as *repel metal or stone*, except only for metal objects, and you can also pull the objects toward you instead of pushing them away. The effect lasts for 1 round, and the pulling version of the effect can’t pull objects into the air unless they are already airborne. You can accept 1 point of burn to increase the duration to 1 round per kineticist level you have.
+You can repel or attract metal objects in a vast line with a magnetism so strong that there is no hope of escaping. This functions as [*repel metal or stone*](../../magic/spells/repel-metal-or-stone.md), except only for metal objects, and you can also pull the objects toward you instead of pushing them away. The effect lasts for 1 round, and the pulling version of the effect can’t pull objects into the air unless they are already airborne. You can accept 1 point of burn to increase the duration to 1 round per kineticist level you have.
 
 ### Mesmerizing Elementalist
 
@@ -1491,7 +1491,7 @@ You gain the hypnotic gaze nagaji alternate racial trait. If you already have th
 
 **Prerequisite** kitsune
 
-You can cast a spell-like ability granted to you by any Magical Tail feat you have by accepting 1 point of burn, even if you have no daily uses of that spell-like ability remaining. You must be able to use wild talents of a level equal to the number of extra tails required to use a spell-like ability granted by a Magical Tail feat to use this ability to cast that spell-like ability (for example, you would need to be 15th level and able to use 8th-level wild talents to use this talent to cast the *dominate person* spell-like ability granted by Magical Tail). In addition, you can learn a Magical Tail feat that you qualify for in place of gaining a new infusion or utility wild talent.
+You can cast a spell-like ability granted to you by any [Magical Tail](../../rules/feats/magical-tail.md) feat you have by accepting 1 point of burn, even if you have no daily uses of that spell-like ability remaining. You must be able to use wild talents of a level equal to the number of extra tails required to use a spell-like ability granted by a Magical Tail feat to use this ability to cast that spell-like ability (for example, you would need to be 15th level and able to use 8th-level wild talents to use this talent to cast the [*dominate person*](../../magic/spells/dominate-person.md) spell-like ability granted by Magical Tail). In addition, you can learn a Magical Tail feat that you qualify for in place of gaining a new infusion or utility wild talent.
 
 ### Past Life Evoker
 
@@ -1517,7 +1517,7 @@ The pillar has AC 4, hardness 0, and 3 hit points per kineticist level. Scaling 
 
 **Element** fire; **Type** utility (Sp); **Level** 4; **Burn** 1
 
-You use fire to burn poison from within a creature's veins. You must attempt a caster level check (1d20 + your kineticist level) against the DC of each poison affecting the target. Success means that the poison is neutralized, as *neutralize poison*. When you attempt to neutralize poison in this way, you can choose to deal a number of points of fire damage to the poisoned creature equal to the amount of damage you normally take from accepting burn in order to reduce the DC of one poison affecting the target by 2. This reduction remains until the end of your next turn.
+You use fire to burn poison from within a creature's veins. You must attempt a caster level check (1d20 + your kineticist level) against the DC of each poison affecting the target. Success means that the poison is neutralized, as [*neutralize poison*](../../magic/spells/neutralize-poison.md). When you attempt to neutralize poison in this way, you can choose to deal a number of points of fire damage to the poisoned creature equal to the amount of damage you normally take from accepting burn in order to reduce the DC of one poison affecting the target by 2. This reduction remains until the end of your next turn.
 
 ### Reverse Shift
 
@@ -1751,7 +1751,7 @@ You can spend 10 minutes to extend your tremorsense outward while in a natural u
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This functions as elemental grip, except it works on a single undead creature as per *halt undead*. Unintelligent undead must succeed at a saving throw with a –4 penalty to negate the effects.
+This functions as elemental grip, except it works on a single undead creature as per [*halt undead*](../../magic/spells/halt-undead.md). Unintelligent undead must succeed at a saving throw with a –4 penalty to negate the effects.
 
 ### Veil of Mists
 

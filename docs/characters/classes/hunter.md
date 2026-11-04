@@ -128,7 +128,7 @@ To use wild empathy, the hunter and the animal must be within 30 feet of one ano
 
 The hunter can also use this ability to influence a magical beast with an Intelligence score of 1 or 2, but she takes a -4 penalty on the check.
 
-**Precise Companion (Ex)**: At 2nd level, a hunter chooses either Precise Shot or Outflank as a bonus feat. She does not need to meet the prerequisites for this feat. If she chooses Outflank, she automatically grants this feat to her animal companion as well.
+**Precise Companion (Ex)**: At 2nd level, a hunter chooses either [Precise Shot](../../rules/feats/precise-shot.md) or Outflank as a bonus feat. She does not need to meet the prerequisites for this feat. If she chooses Outflank, she automatically grants this feat to her animal companion as well.
 
 **Track (Ex)**: At 2nd level, a hunter adds 1/2 her level to Survival skill checks made to follow tracks.
 

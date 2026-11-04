@@ -4,7 +4,7 @@
 
 Your physical control and mastery of momentum allows you to throw enemies.
 
-**Prerequisites**: Improved Trip, Improved Unarmed Strike.
+**Prerequisites**: [Improved Trip](improved-trip.md), [Improved Unarmed Strike](improved-unarmed-strike.md).
 
 **Benefit**: On a successful unarmed trip attack against a target your size or smaller, you may throw the target prone in any square you threaten rather than its own square. This movement does not provoke attacks of opportunity, and you cannot throw the creature into a space occupied by other creatures.
 

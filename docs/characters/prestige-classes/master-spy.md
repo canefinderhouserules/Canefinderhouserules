@@ -29,7 +29,7 @@ Bards and rogues, with their wide range of skills, are particularly well suited 
 
 To qualify to become a master spy, a character must fulfill all the following criteria.
 
-**Feats**: Deceitful, Iron Will.
+**Feats**: Deceitful, [Iron Will](../../rules/feats/iron-will.md).
 
 **Skills**: Bluff 7 ranks, Disguise 7 ranks, Perception 5 ranks, Sense Motive 5 ranks.
 

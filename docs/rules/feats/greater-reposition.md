@@ -4,7 +4,7 @@
 
 When you reposition foes, they are left vulnerable to the attacks of your allies.
 
-**Prerequisites**: Deft Maneuvers, Improved Reposition, base attack bonus +6.
+**Prerequisites**: [Deft Maneuvers](deft-maneuvers.md), [Improved Reposition](improved-reposition.md), base attack bonus +6.
 
 **Benefit**: You receive a +2 bonus on checks made to reposition a foe. This bonus stacks with the bonus granted by Improved Reposition. Whenever you reposition a foe, his movement provokes attacks of opportunity from all of your allies (but not you).
 

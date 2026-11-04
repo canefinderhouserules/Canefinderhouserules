@@ -81,7 +81,7 @@ Using a hex is a standard action that doesn't provoke an attack of opportunity u
 
 **Evil Eye (Su)**: The shaman causes doubt to creep into the mind of a foe within 30 feet that she can see. The target takes a-2 penalty on one of the following (shaman's choice): ability checks, AC, attack rolls, saving throws, or skill checks. This hex lasts a number of rounds equal to 3 + the shaman's Wisdom modifier. A successful Will saving throw reduces this to just 1 round. At 8th level, the penalty increases to -4.
 
-**Fetish (Ex)**: The shaman receives Craft Wondrous Item as a bonus feat and gains a +4 insight bonus on Spellcraft checks to identify magic items permanently.
+**Fetish (Ex)**: The shaman receives [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md) as a bonus feat and gains a +4 insight bonus on Spellcraft checks to identify magic items permanently.
 
 **Fortune (Su)**: The shaman grants a creature within 30 feet a bit of good luck for 1 round. The target can call upon this good luck once per round, allowing it to reroll any ability check, attack roll, saving throw, or skill check, taking the better result. The target creature must to decide to use this ability before the first roll is made. At 8th and 16th levels, the duration of this hex increases by 1 round. Once a creature has benefited from the fortune hex, it cannot benefit from it again for 24 hours.
 

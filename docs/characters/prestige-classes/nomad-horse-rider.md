@@ -25,7 +25,7 @@ To qualify to become a nomad horse rider, a character must fulfill all of the fo
 
 **Base Attack Bonus**: +3.
 
-**Feats**: Mounted Combat.
+**Feats**: [Mounted Combat](../../rules/feats/mounted-combat.md).
 
 **Skills**: Handle Animal 3 ranks, Ride 3 ranks.
 

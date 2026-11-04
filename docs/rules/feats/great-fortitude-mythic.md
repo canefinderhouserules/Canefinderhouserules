@@ -4,6 +4,6 @@
 
 Your fortitude is unmatched.
 
-**Prerequisite**: Great Fortitude.
+**Prerequisite**: [Great Fortitude](great-fortitude.md).
 
 **Benefit**: Whenever you roll a Fortitude saving throw against a spell, spell-like ability, or supernatural ability from a non-mythic source, roll twice and take the higher result.

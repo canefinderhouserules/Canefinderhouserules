@@ -4,6 +4,6 @@
 
 Few creatures are as accustomed to fighting in the shadows as you.
 
-**Prerequisites**: Blind-Fight, fetchling.
+**Prerequisites**: [Blind-Fight](blind-fight.md), fetchling.
 
 **Benefit**: When you are within an area of dim light or darkness, you gain a +1 bonus on attack rolls against enemies that are also within dim light or darkness.

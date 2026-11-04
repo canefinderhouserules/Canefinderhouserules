@@ -59,7 +59,7 @@ He can’t choose the same secret twice.
 
 **Greater Lore (Ex)**: At 6th level, a loremaster gains the ability to understand magic items. Whenever a loremaster examines a magic item to determine its properties, he gains a +10 circumstance bonus on his Spellcraft skill check.
 
-**True Lore (Ex)**: At 10th level, a loremaster’s knowledge becomes vast indeed. Once per day a loremaster can use his knowledge to gain the effect of a *legend lore* spell or an *analyze dweomer* spell. If used to create a *legend lore* effect, this ability has a casting time of 1 minute, regardless of how much information is already known about the subject in question.
+**True Lore (Ex)**: At 10th level, a loremaster’s knowledge becomes vast indeed. Once per day a loremaster can use his knowledge to gain the effect of a [*legend lore*](../../magic/spells/legend-lore.md) spell or an [*analyze dweomer*](../../magic/spells/analyze-dweomer.md) spell. If used to create a *legend lore* effect, this ability has a casting time of 1 minute, regardless of how much information is already known about the subject in question.
 
 ### Loremaster Secrets
 

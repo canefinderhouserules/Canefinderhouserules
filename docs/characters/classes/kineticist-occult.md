@@ -35,7 +35,7 @@ You are one with the hurricane. Your enveloping winds defense wild talent has an
 
 **Element** fire; **Type** utility (Sp); **Level** 6; **Burn** 1 (see text)
 
-You can purge yourself or another with flame, removing all impurities. This functions as *break enchantment* on a single target. The target must be willing and takes 2 points of fire damage per character level as well as 1 point of burn (you do not need to accept burn unless you are the target). You can use this ability even when affected by an effect that denies you actions, so long as this effect is one that *break enchantment* could remove. If you burn rare incense or igneous rocks worth 100 gp or 1,000 gp as part of using purging flame, your target also benefits from *restoration*, as if the spell were cast using diamonds of equal value as a material component.
+You can purge yourself or another with flame, removing all impurities. This functions as [*break enchantment*](../../magic/spells/break-enchantment.md) on a single target. The target must be willing and takes 2 points of fire damage per character level as well as 1 point of burn (you do not need to accept burn unless you are the target). You can use this ability even when affected by an effect that denies you actions, so long as this effect is one that *break enchantment* could remove. If you burn rare incense or igneous rocks worth 100 gp or 1,000 gp as part of using purging flame, your target also benefits from [*restoration*](../../magic/spells/restoration.md), as if the spell were cast using diamonds of equal value as a material component.
 
 ### Water Alteration
 

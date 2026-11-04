@@ -4,7 +4,7 @@
 
 Your can quickly sabotage a foe’s worn or carried equipment.
 
-**Prerequisites**: Str 13, Improved Sunder, Power Attack, Disable Device 7 ranks.
+**Prerequisites**: Str 13, [Improved Sunder](improved-sunder.md), [Power Attack](power-attack.md), Disable Device 7 ranks.
 
 **Benefit**: As a standard action, you can sabotage an item worn by a foe with a special sunder combat maneuver. You use this maneuver in melee to sabotage an item that is neither held nor hidden in a bag, pack, or other container. You must have at least one hand free to perform this combat maneuver, and doing so provokes an attack of opportunity from the creature against whom you are performing the maneuver, even though you have the Improved Sunder feat.
 

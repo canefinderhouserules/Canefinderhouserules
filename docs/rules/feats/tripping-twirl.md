@@ -4,7 +4,7 @@
 
 You can make a trip attack with a quarterstaff on all adjacent enemies.
 
-**Prerequisites**: Improved Trip, Tripping Staff, Weapon Focus (quarterstaff ), Weapon Specialization (quarterstaff ), base attack bonus +12.
+**Prerequisites**: [Improved Trip](improved-trip.md), [Tripping Staff](tripping-staff.md), Weapon Focus (quarterstaff ), Weapon Specialization (quarterstaff ), base attack bonus +12.
 
 **Benefit**: As a full-round action, while wielding a quarterstaff two-handed, you can attempt a trip combat maneuver against each enemy adjacent to you.
 

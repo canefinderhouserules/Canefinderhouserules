@@ -81,7 +81,7 @@ Tricks marked with an asterisk (*) add effects to a ninja’s sneak attack. Only
 
 **Deadly Range (Ex)**: A ninja with this ninja trick increases the range at which she can deal sneak attack damage by 10 feet. A ninja can take this trick more than once. Its effects stack.
 
-**Deflect Arrows**: A ninja who selects this ninja trick gains the Deflect Arrows feat as a bonus feat. The ninja must have the Improved Unarmed Strike combat feat before taking this trick.
+**Deflect Arrows**: A ninja who selects this ninja trick gains the [Deflect Arrows](../../rules/feats/deflect-arrows.md) feat as a bonus feat. The ninja must have the [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) combat feat before taking this trick.
 
 **Fast Stealth (Ex)**: A ninja with this trick can move at full speed using the Stealth skill without penalty.
 
@@ -121,7 +121,7 @@ Tricks marked with an asterisk (*) add effects to a ninja’s sneak attack. Only
 
 **Smoke Bomb (Ex)**: This ability allows a ninja to throw a smoke bomb that creates a cloud of smoke with a 15-foot radius. This acts like the smoke from a smokestick. The ninja can center this smoke on herself, or throw the bomb as a ranged touch attack with a range of 20 feet. Using this ability is a standard action. Each use of this ability uses up 1 ki point.
 
-**Snatch Arrows**: A ninja who selects this ninja trick gains the Snatch Arrows feat as a bonus feat. The ninja must have the Improved Unarmed Strike feat and the Deflect Arrows feat before taking this trick.
+**Snatch Arrows**: A ninja who selects this ninja trick gains the [Snatch Arrows](../../rules/feats/snatch-arrows.md) feat as a bonus feat. The ninja must have the Improved Unarmed Strike feat and the Deflect Arrows feat before taking this trick.
 
 **Strangler (Ex)**: A ninja with this trick knows how to use a scarf, usually with a coin or large knot, as a lethal garrote. The ninja takes no penalties when using a scarf as an improvised garrote. In addition, as a free action when attempting a grapple combat maneuver check, the ninja can spend 1 ki point to gain the constrict special attack on that maneuver with damage equal to half the ninja's sneak attack dice (minimum 1d6).
 
@@ -213,7 +213,7 @@ Frozen shadows belong to a rare ninja clan operating in the frozen north, workin
 
 **Class Skills**: A frozen shadow adds Survival to his list of class skills, instead of Diplomacy. This ability alters the ninja's class skills.
 
-**Hardy Killer (Ex)**: At 2nd level, a frozen shadow has become incredibly inured to his surrounding climate. At the beginning of any day, the frozen shadow can spend 1 point from his ki pool to benefit from the effects of an *endure elements* spell. This ability alters ki pool.
+**Hardy Killer (Ex)**: At 2nd level, a frozen shadow has become incredibly inured to his surrounding climate. At the beginning of any day, the frozen shadow can spend 1 point from his ki pool to benefit from the effects of an [*endure elements*](../../magic/spells/endure-elements.md) spell. This ability alters ki pool.
 
 **Track Victim (Ex)**: Starting at 4th level, a frozen shadow adds half his ninja level on Survival checks to follow tracks and on Perception checks to see through disguises. Additionally, if the frozen shadow sees a creature that has changed its appearance using the Disguise skill, he can always attempt a Perception check to see through the disguise, even if the disguised creature did nothing to draw attention to itself. The frozen shadow also gains a +2 bonus on Will saving throws when attempting to disbelieve an illusion affecting a creature or creatures. This ability replaces uncanny dodge.
 
@@ -237,7 +237,7 @@ The order dispatches specially trained killers to hunt relentlessly and fight fr
 
 ## More Ninja Tricks
 
-**Blood Debt (Su)**: A ninja with this ability gains In Harm’s Way as a bonus feat, even if she doesn’t meet the prerequisites. When the ninja intercepts an attack using this feat, she can spend 1 ki point to impose a blood debt on the aided ally. The ninja’s ki pool is reduced by 1 until she ends this effect, which she may do as an immediate action. If the ninja ends the blood debt in response to a successful attack against her by a creature the indebted ally threatens, the ally (who must be willing) takes full damage from that attack and any associated effects instead of the ninja.
+**Blood Debt (Su)**: A ninja with this ability gains [In Harm’s Way](../../rules/feats/in-harm-s-way.md) as a bonus feat, even if she doesn’t meet the prerequisites. When the ninja intercepts an attack using this feat, she can spend 1 ki point to impose a blood debt on the aided ally. The ninja’s ki pool is reduced by 1 until she ends this effect, which she may do as an immediate action. If the ninja ends the blood debt in response to a successful attack against her by a creature the indebted ally threatens, the ally (who must be willing) takes full damage from that attack and any associated effects instead of the ninja.
 
 **Kamikaze (Su)**: A ninja with this ability strikes without concern for her own well-being. The ninja can spend 1 point from her *ki* pool to give her unarmed strikes and any weapons she wields the *vicious *weapon special ability for 1 round per level. The ninja can spend 1 *ki* point to dismiss this effect.
 

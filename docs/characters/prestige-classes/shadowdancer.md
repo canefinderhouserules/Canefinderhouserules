@@ -31,7 +31,7 @@ To qualify to become a shadowdancer, a character must fulfill all the following 
 
 **Skills**: Stealth 5 ranks, Perform (dance) 2 ranks.
 
-**Feats**: Combat Reflexes, Dodge, Mobility.
+**Feats**: [Combat Reflexes](../../rules/feats/combat-reflexes.md), Dodge, Mobility.
 
 ### Class Skills
 
@@ -65,7 +65,7 @@ If a shadow companion is destroyed, or the shadowdancer chooses to dismiss it, t
 
 **Shadow Call (Sp)**: At 4th level, a shadowdancer can create creatures and effects out of raw shadow. This ability functions as *shadow conjuration,* using the shadowdancer’s level as the caster level. A shadowdancer can use this ability once per day at 4th level, plus one additional time per day for every two levels attained beyond 4th (2/day at 6th level, 3/day at 8th level, and 4/day at 10th level). Upon reaching 10th level, this ability functions as *greater shadow* *conjuration*. The DC for this ability is Charisma-based.
 
-**Shadow Jump (Su)**: At 4th level, a shadowdancer gains the ability to travel between shadows as if by means of a *dimension door* spell. The limitation is that the magical transport must begin and end in an area with at least some dim light. A shadowdancer can jump up to a total of 40 feet each day in this way; this may be a single jump of 40 feet or four jumps of 10 feet each. Every two levels higher than 4th, the distance a shadowdancer can jump each day doubles (80 feet at 6th, 160 feet at 8th, and 320 feet at 10th). This amount can be split among many jumps, but each one, no matter how small, counts as a 10-foot increment.
+**Shadow Jump (Su)**: At 4th level, a shadowdancer gains the ability to travel between shadows as if by means of a [*dimension door*](../../magic/spells/dimension-door.md) spell. The limitation is that the magical transport must begin and end in an area with at least some dim light. A shadowdancer can jump up to a total of 40 feet each day in this way; this may be a single jump of 40 feet or four jumps of 10 feet each. Every two levels higher than 4th, the distance a shadowdancer can jump each day doubles (80 feet at 6th, 160 feet at 8th, and 320 feet at 10th). This amount can be split among many jumps, but each one, no matter how small, counts as a 10-foot increment.
 
 **Defensive Roll (Ex)**: Starting at 5th level, once per day, a shadowdancer can attempt to avoid a lethal blow. This functions as the rogue’s advanced talent of the same name.
 

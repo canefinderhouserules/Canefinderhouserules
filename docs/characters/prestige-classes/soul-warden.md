@@ -27,7 +27,7 @@ To qualify to become a soul warden, a character must fulfill all of the followin
 
 **Skills**: Knowledge (religion) 5 ranks.
 
-**Spells**: Ability to cast *command undead* or *consecrate*.
+**Spells**: Ability to cast [*command undead*](../../magic/spells/command-undead.md) or [*consecrate*](../../magic/spells/consecrate.md).
 
 ### Class Skills
 
@@ -57,11 +57,11 @@ The following are class features of the soul warden prestige class.
 | 8th | *Death ward*, *undeath inversion*, *wall of fire* |
 | 10th | *Breath of life*, *heal*, *undeath to death* |
 
-Starting at 3rd level, a soul warden adds his channel casting spells gained from the previous level to the class spell list of a class he belonged to before adding the prestige class. The spell level is equal to half the soul warden level necessary to channel cast the spell. For example, a 3rd-level soul warden who also has levels in sorcerer adds *decompose corpse*, *detect undead*, *hide from undead*, and *sanctify corpse* to his sorcerer spell list, treating them as 1st-level sorcerer spells (since half of 2nd level is 1st level).
+Starting at 3rd level, a soul warden adds his channel casting spells gained from the previous level to the class spell list of a class he belonged to before adding the prestige class. The spell level is equal to half the soul warden level necessary to channel cast the spell. For example, a 3rd-level soul warden who also has levels in sorcerer adds [*decompose corpse*](../../magic/spells/decompose-corpse.md), [*detect undead*](../../magic/spells/detect-undead.md), [*hide from undead*](../../magic/spells/hide-from-undead.md), and [*sanctify corpse*](../../magic/spells/sanctify-corpse.md) to his sorcerer spell list, treating them as 1st-level sorcerer spells (since half of 2nd level is 1st level).
 
-**Corpse Whisperer (Ex)**: At 2nd level, a soul warden adds half his soul warden level on Charisma checks and Charisma-based skill checks against undead creatures, including checks to assume control of undead creatures via feats like Command Undead or spells like *control undead*.
+**Corpse Whisperer (Ex)**: At 2nd level, a soul warden adds half his soul warden level on Charisma checks and Charisma-based skill checks against undead creatures, including checks to assume control of undead creatures via feats like [Command Undead](../../rules/feats/command-undead.md) or spells like [*control undead*](../../magic/spells/control-undead.md).
 
-**Bonus Feats**: At 3rd level and every 3 levels thereafter, a soul warden gains a bonus feat in addition to those gained from normal advancement. These bonus feats must be chosen from the following: Channel Smite, Ectoplasmic Spell, Greater Channel Smite, Quick Channel, Threnodic Spell, Turn Undead, and Undead Master. The soul warden must meet the prerequisites of the selected bonus feat.
+**Bonus Feats**: At 3rd level and every 3 levels thereafter, a soul warden gains a bonus feat in addition to those gained from normal advancement. These bonus feats must be chosen from the following: [Channel Smite](../../rules/feats/channel-smite.md), [Ectoplasmic Spell](../../rules/feats/ectoplasmic-spell.md), [Greater Channel Smite](../../rules/feats/greater-channel-smite.md), [Quick Channel](../../rules/feats/quick-channel.md), [Threnodic Spell](../../rules/feats/threnodic-spell.md), [Turn Undead](../../rules/feats/turn-undead.md), and [Undead Master](../../rules/feats/undead-master.md). The soul warden must meet the prerequisites of the selected bonus feat.
 
 **Harvest (Su)**: At 4th level, whenever a soul warden destroys an undead creature using channel positive energy, channel damage, or a spell with an instantaneous duration, he regains a use of channel damage. A soul warden can regain only one use of channel damage per round, and can regain a number of uses of channel damage per day up to his class level. A soul warden cannot use this to exceed his maximum number of uses of channel damage per day.
 
@@ -71,4 +71,4 @@ Starting at 3rd level, a soul warden adds his channel casting spells gained from
 
 **Necrotic Resistance (Su)**: At 8th level, a soul warden becomes resistant to ability drain and negative levels. Whenever a soul warden is targeted by an effect that would result in ability drain or impose negative levels, he takes 1 point of ability drain fewer and gains 1 negative level fewer than he normally would (to a minimum of 0). At 10th level, he takes 2 fewer points of ability drain and gains 2 fewer negative levels than he normally would.
 
-**Life Shell (Sp)**: At 10th level, a soul warden can create a dome of energy that repels undead creatures. This ability functions identically to *antilife shell*, except it hedges out only undead creatures and not creatures of any other type. Living creatures within the affected area gain fast healing 1 for the duration of the effect. A soul warden can activate this spell-like ability for up to 10 minutes per day. The duration need not be consecutive, but it must be expended in 1-minute increments.
+**Life Shell (Sp)**: At 10th level, a soul warden can create a dome of energy that repels undead creatures. This ability functions identically to [*antilife shell*](../../magic/spells/antilife-shell.md), except it hedges out only undead creatures and not creatures of any other type. Living creatures within the affected area gain fast healing 1 for the duration of the effect. A soul warden can activate this spell-like ability for up to 10 minutes per day. The duration need not be consecutive, but it must be expended in 1-minute increments.

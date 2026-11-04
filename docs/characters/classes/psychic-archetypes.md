@@ -183,7 +183,7 @@ This replaces the bonus spells normally granted by the psychic's discipline and 
 
 **Nature's Command (Ex)**: The primal telepath's mind-affecting spells can affect even plant creatures. When she casts a mind-affecting spell, the primal telepath can spend 2 points from her phrenic pool to overcome a plant creature's immunity to mind-affecting effects for the purposes of that spell. This ability functions even on mindless plant creatures, but it has no effect on creatures that aren't plants. At 11th level, when the primal telepath casts a mind-affecting or language-dependent spell, the psychic can spend 2 points from her phrenic pool to cause the spell to affect creatures of the plant and animal types as if they were humanoids that understood her language. This replaces the phrenic amplifications gained at 1st and 11th levels.
 
-**Know the Land (Sp)**: At 9th level, the primal telepath can cast *commune with nature* as a spell-like ability once per day, using her psychic level as her caster level. She can also expend any unused spell slot of 5th level or higher to cast *commune with nature*. This replaces telepathic bond.
+**Know the Land (Sp)**: At 9th level, the primal telepath can cast [*commune with nature*](../../magic/spells/commune-with-nature.md) as a spell-like ability once per day, using her psychic level as her caster level. She can also expend any unused spell slot of 5th level or higher to cast *commune with nature*. This replaces telepathic bond.
 
 **Wild Mind (Su)**: At 17th level, when the primal telepath gains the telepathy ability, she can also mentally communicate with any animal or plant creature as if it had a language. This alters telepathy.
 
@@ -191,11 +191,11 @@ This replaces the bonus spells normally granted by the psychic's discipline and 
 
 *Psychic archetype.* A number of exceptional half-orcs of the Underworld have developed potent psychic abilities, unlocked by generations of exposure to a specific combination of mind-altering fungi and radiation. Powerful half-orc manipulators often rule smaller Underworld tribes from the shadows, but with few orcs able to match their mental acuity, their only limit is their own ambition.
 
-**Manipulation (Sp)**: At 2nd level, a terror weaver can cast *charm person* once per day as a spell-like ability. He can also expend any unused spell slot of 1st level or higher to cast *charm person*. If he does so, he uses the level of the spell slot expended to determine the save DC. When a terror weaver gains this ability, if he already knows *charm person*, he can learn a different 1st-level spell in place of *charm person*, losing the old spell in exchange for the new one. This replaces detect thoughts.
+**Manipulation (Sp)**: At 2nd level, a terror weaver can cast [*charm person*](../../magic/spells/charm-person.md) once per day as a spell-like ability. He can also expend any unused spell slot of 1st level or higher to cast *charm person*. If he does so, he uses the level of the spell slot expended to determine the save DC. When a terror weaver gains this ability, if he already knows *charm person*, he can learn a different 1st-level spell in place of *charm person*, losing the old spell in exchange for the new one. This replaces detect thoughts.
 
-**Aura of Intimidation (Sp)**: Because he lacks the physical prowess of most orcs, a terror weaver seeks to end fights before they start. At 9th level, he can cast *aura of doom* as a spell-like ability once per day. He can also expend any unused spell slot of 4th level or higher to cast *aura of doom*. Casting the spell using a higher-level spell slot gives no benefit on its own, but the terror weaver can apply metamagic feats that would increase the spell level to the appropriate level. At 11th level, a terror weaver's *aura of doom* causes enemies to become frightened instead of shaken. At 19th level, it causes enemies to become panicked. This replaces telepathic bond and the phrenic amplifications gained at 11th and 19th levels.
+**Aura of Intimidation (Sp)**: Because he lacks the physical prowess of most orcs, a terror weaver seeks to end fights before they start. At 9th level, he can cast [*aura of doom*](../../magic/spells/aura-of-doom.md) as a spell-like ability once per day. He can also expend any unused spell slot of 4th level or higher to cast *aura of doom*. Casting the spell using a higher-level spell slot gives no benefit on its own, but the terror weaver can apply metamagic feats that would increase the spell level to the appropriate level. At 11th level, a terror weaver's *aura of doom* causes enemies to become frightened instead of shaken. At 19th level, it causes enemies to become panicked. This replaces telepathic bond and the phrenic amplifications gained at 11th and 19th levels.
 
-**Persistent Nightmare (Sp)**: Half-orcs of the Underworld often suffer from lifetimes of cruelty and abuse, and a terror weaver repays that suffering back onto his tormentors. At 15th level, when he successfully casts a mind-affecting spell on a target, he can spend 2 points from his phrenic pool to afflict the target with a *nightmare* spell the next time it goes to sleep. The day after *nightmare* has taken effect, regardless of the victim's saving throw, the target takes a –2 penalty on Will saves against the terror weaver's mind-affecting spells and abilities for 24 hours. This ability replaces the phrenic amplification gained at 15th level.
+**Persistent Nightmare (Sp)**: Half-orcs of the Underworld often suffer from lifetimes of cruelty and abuse, and a terror weaver repays that suffering back onto his tormentors. At 15th level, when he successfully casts a mind-affecting spell on a target, he can spend 2 points from his phrenic pool to afflict the target with a [*nightmare*](../../magic/spells/nightmare.md) spell the next time it goes to sleep. The day after *nightmare* has taken effect, regardless of the victim's saving throw, the target takes a –2 penalty on Will saves against the terror weaver's mind-affecting spells and abilities for 24 hours. This ability replaces the phrenic amplification gained at 15th level.
 
 ## Psychic Marauder
 
@@ -223,31 +223,31 @@ The celestial bodies travel through the sky in fixed patterns, and knowledgeable
 
 **Written in the Stars**: An esoteric starseeker can spend 1 hour each night in quiet contemplation of the stars to attune herself to a constellation of the Cosmic Caravan, gaining knowledge of new spells from it. She gains one bonus constellation spell slot for each spell level she can cast, and she can prepare a spell associated with her attuned constellation into that slot. At 11th level, she can attune herself to two constellations, choosing between the spells offered by both constellations when she prepares her constellation spells. Whenever she attunes herself to a constellation, the esoteric starseeker must also weaken her connection to one school of magic of her choice, increasing the casting time for all spells of that school to a full-round action or an additional full-round action, as though she were using a metamagic feat. She can change her attuned constellations and her weakened school each day when she prepares her constellation spells. The Cosmic Caravan and their associated spells are as follows.
 
-The Thrush: *comprehend languages* (1st),* magic mouth* (2nd),* tiny hut* (3rd),* dream* (4th),* remote viewing* (5th),* battlemind link* (6th),* phase door* (7th),* discern location* (8th),* wish* (9th).
+The Thrush: [*comprehend languages*](../../magic/spells/comprehend-languages.md) (1st),* magic mouth* (2nd),* tiny hut* (3rd),* dream* (4th),* remote viewing* (5th),* battlemind link* (6th),* phase door* (7th),* discern location* (8th),* wish* (9th).
 
-The Lantern Bearer: *liberating command* (1st),* glitterdust* (2nd),* guiding star* (3rd),* wandering star motes* (4th),* true seeing* (5th),* sonic form* (6th),* prismatic spray* (7th),* sunburst* (8th),* meteor swarm* (9th).
+The Lantern Bearer: [*liberating command*](../../magic/spells/liberating-command.md) (1st),* glitterdust* (2nd),* guiding star* (3rd),* wandering star motes* (4th),* true seeing* (5th),* sonic form* (6th),* prismatic spray* (7th),* sunburst* (8th),* meteor swarm* (9th).
 
 The Newlyweds: *charm person* (1st),* enthrall* (2nd),* synesthesia* (3rd),* break enchantment* (4th),* reincarnate* (5th),* joyful rapture* (6th),* mass synesthesia* (7th),* bilocation* (8th),* overwhelming presence* (9th).
 
-The Bridge: *endure elements* (1st),* resist energy* (2nd),* daylight* (3rd),* fire shield* (4th),* wall of force* (5th),* contagious flame* (6th),* reverse gravity* (7th),* create demiplane* (8th),* world wave* (9th).
+The Bridge: [*endure elements*](../../magic/spells/endure-elements.md) (1st),* resist energy* (2nd),* daylight* (3rd),* fire shield* (4th),* wall of force* (5th),* contagious flame* (6th),* reverse gravity* (7th),* create demiplane* (8th),* world wave* (9th).
 
-The Daughter: *bless* (1st),* hypnotic pattern* (2nd),* heroism* (3rd),* freedom of movement* (4th),* hostile juxtaposition* (5th),* cloak of dreams* (6th),* greater hostile juxtaposition* (7th),* irresistible dance* (8th),* freedom* (9th).
+The Daughter: [*bless*](../../magic/spells/bless.md) (1st),* hypnotic pattern* (2nd),* heroism* (3rd),* freedom of movement* (4th),* hostile juxtaposition* (5th),* cloak of dreams* (6th),* greater hostile juxtaposition* (7th),* irresistible dance* (8th),* freedom* (9th).
 
-The Rider: *anticipate peril* (1st),* acute senses* (2nd),* ablative barrier* (3rd),* dimensional anchor* (4th),* echolocation* (5th),* blade barrier* (6th),* grasping hand* (7th),* frightful aspect* (8th),* ride the lightning* (9th).
+The Rider: [*anticipate peril*](../../magic/spells/anticipate-peril.md) (1st),* acute senses* (2nd),* ablative barrier* (3rd),* dimensional anchor* (4th),* echolocation* (5th),* blade barrier* (6th),* grasping hand* (7th),* frightful aspect* (8th),* ride the lightning* (9th).
 
-The Patriarch: *command* (1st),* spiritual weapon* (2nd),* dispel magic* (3rd),* telekinetic charge* (4th),* contact other plane* (5th),* find the path* (6th),* mage’s sword* (7th),* brilliant inspiration* (8th),* gate* (9th).
+The Patriarch: [*command*](../../magic/spells/command.md) (1st),* spiritual weapon* (2nd),* dispel magic* (3rd),* telekinetic charge* (4th),* contact other plane* (5th),* find the path* (6th),* mage’s sword* (7th),* brilliant inspiration* (8th),* gate* (9th).
 
-The Wagon: *expeditious retreat* (1st),* twisted space* (2nd),* haste* (3rd),* mirror transport* (4th),* teleport* (5th),* fluid form* (6th),* walk through space* (7th),* etherealness* (8th),* time stop* (9th).
+The Wagon: [*expeditious retreat*](../../magic/spells/expeditious-retreat.md) (1st),* twisted space* (2nd),* haste* (3rd),* mirror transport* (4th),* teleport* (5th),* fluid form* (6th),* walk through space* (7th),* etherealness* (8th),* time stop* (9th).
 
-The Pack: *calm animals* (1st),* animal aspect* (2nd),* rage* (3rd),* greater animal aspect* (4th),* summon monster V* (5th),* mass bear’s endurance* (6th),* summon monster VII* (7th),* animal shapes* (8th),* shapechange* (9th).
+The Pack: [*calm animals*](../../magic/spells/calm-animals.md) (1st),* animal aspect* (2nd),* rage* (3rd),* greater animal aspect* (4th),* summon monster V* (5th),* mass bear’s endurance* (6th),* summon monster VII* (7th),* animal shapes* (8th),* shapechange* (9th).
 
-The Mother: *identify* (1st),* aid* (2nd),* invisibility purge* (3rd),* stoneskin* (4th),* spell resistance* (5th),* contingency* (6th),* mind blank* (7th),* refuge* (8th),* wall of suppression* (9th).
+The Mother: [*identify*](../../magic/spells/identify.md) (1st),* aid* (2nd),* invisibility purge* (3rd),* stoneskin* (4th),* spell resistance* (5th),* contingency* (6th),* mind blank* (7th),* refuge* (8th),* wall of suppression* (9th).
 
-The Stargazer: *know the enemy* (1st),* augury* (2nd),* arcane sight* (3rd),* locate creature* (4th),* feeblemind* (5th),* geas/quest* (6th),* arcane sight (greater)* (7th),* moment of prescience* (8th),* dream voyage* (9th).
+The Stargazer: [*know the enemy*](../../magic/spells/know-the-enemy.md) (1st),* augury* (2nd),* arcane sight* (3rd),* locate creature* (4th),* feeblemind* (5th),* geas/quest* (6th),* arcane sight (greater)* (7th),* moment of prescience* (8th),* dream voyage* (9th).
 
-The Stranger: *disguise self* (1st),* invisibility* (2nd),* displacement* (3rd),* riding possession* (4th),* prying eyes* (5th),* veil* (6th),* project image* (7th),* maze* (8th),* divide mind* (9th).
+The Stranger: [*disguise self*](../../magic/spells/disguise-self.md) (1st),* invisibility* (2nd),* displacement* (3rd),* riding possession* (4th),* prying eyes* (5th),* veil* (6th),* project image* (7th),* maze* (8th),* divide mind* (9th).
 
-The Follower: *forced quiet* (1st),* darkness* (2nd),* vision of hell* (3rd),* enervation* (4th),* waves of fatigue* (5th),* shadow walk* (6th),* simulacrum* (7th),* destruction* (8th),* energy drain* (9th).
+The Follower: [*forced quiet*](../../magic/spells/forced-quiet.md) (1st),* darkness* (2nd),* vision of hell* (3rd),* enervation* (4th),* waves of fatigue* (5th),* shadow walk* (6th),* simulacrum* (7th),* destruction* (8th),* energy drain* (9th).
 
 This replaces the bonus spells normally granted by the psychic’s discipline and the phrenic amplifications gained at 1st and 11th levels.
 

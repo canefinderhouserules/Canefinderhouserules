@@ -20,7 +20,7 @@
 
 *Dragonbreath (Su): At 4th level, you can use a breath weapon once per day as a standard action. When you gain this ability, choose what kind of damage your breath weapon deals: acid, cold, electricity, or fire. Once you make this choice, you can’t change it later. Your breath weapon fills a 15-foot cone and deals 3d6 points of damage; this damage increases by 1d6 points at every even-numbered level you gain beyond 4th level. A creature hit by your dragonbreath attack can attempt a Reflex save (DC = 10 + half your class level + your Wisdom modifier) to take half damage. At 9th level, you can use this ability two times per day, and at 14th level, you can use it three times per day.*
 
-***Replacement Domain Spells**: 3rd—draconic reservoir , 4th—dragon's breath , 6th—form of the dragon I.*
+***Replacement Domain Spells**: 3rd—draconic reservoir, 4th—dragon's breath, 6th—form of the dragon I.*
 
 ###  *Saurian Subdomain*
 

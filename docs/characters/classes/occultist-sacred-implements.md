@@ -39,10 +39,10 @@ Outsiders and divine servants leave especially lasting impressions when they int
 
 **Implement School** illusion; **Implement** mask; **Opposition School** conjuration
 
-**Psychic Mirage (Sp)**: You can expend 1 point of mental focus to become invisible to a single target within 30 feet, as per *invisibility*, and remain so for 1 minute per occultist level you have. This invisibility doesn't affect other creatures. While within 30 feet of the target, you can expend 1 point of mental focus to read the target's surface thoughts as per *detect thoughts*.
+**Psychic Mirage (Sp)**: You can expend 1 point of mental focus to become invisible to a single target within 30 feet, as per [*invisibility*](../../magic/spells/invisibility.md), and remain so for 1 minute per occultist level you have. This invisibility doesn't affect other creatures. While within 30 feet of the target, you can expend 1 point of mental focus to read the target's surface thoughts as per [*detect thoughts*](../../magic/spells/detect-thoughts.md).
 
 ## Mournful Eye
 
 **Implement School** enchantment; **Implement** necklace; **Opposition School** illusion
 
-**Forgotten (Sp)**: As a standard action, you can expend 3 points of mental focus to target a single creature within 30 feet using *modify memory*. This ability can be used only to cause the target to forget the last 5 minutes of interaction with you.
+**Forgotten (Sp)**: As a standard action, you can expend 3 points of mental focus to target a single creature within 30 feet using [*modify memory*](../../magic/spells/modify-memory.md). This ability can be used only to cause the target to forget the last 5 minutes of interaction with you.

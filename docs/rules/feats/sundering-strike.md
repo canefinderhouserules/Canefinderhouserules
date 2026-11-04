@@ -4,7 +4,7 @@
 
 Your critical hits can sunder your foes’ weapons.
 
-**Prerequisites**: Str 13, Improved Sunder, Power Attack, base attack bonus +9.
+**Prerequisites**: Str 13, [Improved Sunder](improved-sunder.md), [Power Attack](power-attack.md), base attack bonus +9.
 
 **Benefit**: Whenever you score a critical hit with a melee attack,youcansunderyouropponent’sweapon,inadditionto the normal damage dealt by the attack. If your confirmation roll exceeds your opponent’s CMD, you may deal damage to your opponent’s weapon as if from the sunder combat maneuver (roll normal damage to the weapon separately). This does not provoke an attack of opportunity.
 

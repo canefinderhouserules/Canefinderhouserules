@@ -4,7 +4,7 @@
 
 You know how to navigate your shield around weapons and can use it to keep your balance.
 
-**Prerequisites**: Improved Shield Bash, Shield Proficiency, Two-Weapon Fighting, base attack bonus +6.
+**Prerequisites**: [Improved Shield Bash](improved-shield-bash.md), [Shield Proficiency](shield-proficiency.md), [Two-Weapon Fighting](two-weapon-fighting.md), base attack bonus +6.
 
 **Benefit**: Any opponents hit by your shield bash are also targeted by a free disarm attempt, substituting your attack roll for the combat maneuver check. This disarm attempt does not provoke an attack of opportunity. You cannot use this ability during the same round as a bull rush attempt made with Shield Slam or with any other abilities that affect how your shield bash works.
 

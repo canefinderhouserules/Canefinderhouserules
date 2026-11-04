@@ -4,7 +4,7 @@
 
 You have learned to wait until your ranged attacks have the greatest effect.
 
-**Prerequisites**: Precise Shot, Rapid Shot, Weapon Focus with the chosen weapon.
+**Prerequisites**: [Precise Shot](precise-shot.md), [Rapid Shot](rapid-shot.md), Weapon Focus with the chosen weapon.
 
 **Benefit**: While using this style, as a full-round action you can ready two ranged attacks with the chosen weapon, each with its own triggering event. You take a –2 penalty on attack rolls made with these readied actions.
 

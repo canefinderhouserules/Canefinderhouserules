@@ -4,7 +4,7 @@
 
 Whenever a foes drops his guard, you can make him suffer with a dirty trick.
 
-**Prerequisites**: Fox Insight, Fox Style, Improved Dirty Trick.
+**Prerequisites**: [Fox Insight](fox-insight.md), [Fox Style](fox-style.md), [Improved Dirty Trick](improved-dirty-trick.md).
 
 **Benefit**: While using Fox Style, you can perform dirty trick combat maneuvers as attacks of opportunity. If your Intelligence is at least 19, you gain a +4 bonus on dirty trick combat maneuver checks.
 

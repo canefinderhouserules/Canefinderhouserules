@@ -40,7 +40,7 @@ Talents marked with an asterisk add effects to a rogue’s sneak attack. Only on
 
 *Fast Stealth (Ex)*: This ability allows a rogue to move at full speed using the Stealth skill without penalty.
 
-*Finesse Rogue*: A rogue that selects this talent gains Weapon Finesse as a bonus feat.
+*Finesse Rogue*: A rogue that selects this talent gains [Weapon Finesse](../../rules/feats/weapon-finesse.md) as a bonus feat.
 
 *Ledge Walker (Ex)*: This ability allows a rogue to move along narrow surfaces at full speed using the Acrobatics skill without penalty. In addition, a rogue with this talent is not flat-footed when using Acrobatics to move along narrow surfaces. In addition, you can do a 5-foot step in difficult terrain once a day.
 
@@ -115,11 +115,11 @@ If a character already has uncanny dodge (see above) from another class, the lev
 
 or other blow, not a spell or special ability), the rogue can attempt to roll with the damage. To use this ability, the rogue must attempt a Reflex saving throw (DC = damage dealt). If the save succeeds, she takes only half damage from the blow; if it fails, she takes full damage. She must be aware of the attack and able to react to it in order to execute her defensive roll—if she is denied her Dexterity bonus to AC, she can’t use this ability. Since this effect would not normally allow a character to make a Reflex save for half damage, the rogue’s evasion ability does not apply to the defensive roll.
 
-*Dispelling Attack* (Su)*: Opponents that are dealt sneak attack damage by a rogue with this ability are affected by a targeted *dispel magic*, targeting the lowest-level spell effect active on the target. The caster level for this ability is equal to the rogue’s level. A rogue must have the major magic rogue talent before choosing dispelling attack.
+*Dispelling Attack* (Su)*: Opponents that are dealt sneak attack damage by a rogue with this ability are affected by a targeted [*dispel magic*](../../magic/spells/dispel-magic.md), targeting the lowest-level spell effect active on the target. The caster level for this ability is equal to the rogue’s level. A rogue must have the major magic rogue talent before choosing dispelling attack.
 
 *Improved Evasion* *(Ex)*: This works like evasion, except that while the rogue still takes no damage on a successful Reflex saving throw against attacks, she henceforth takes only half damage on a failed save. A helpless rogue does not gain the benefit of improved evasion.
 
-*Opportunist* *(Ex)*: Once per round, the rogue can make an attack of opportunity against an opponent who has just been struck for damage in melee by another character. This attack counts as an attack of opportunity for that round. Even a rogue with the Combat Reflexes feat can’t use the opportunist ability more than once per round.
+*Opportunist* *(Ex)*: Once per round, the rogue can make an attack of opportunity against an opponent who has just been struck for damage in melee by another character. This attack counts as an attack of opportunity for that round. Even a rogue with the [Combat Reflexes](../../rules/feats/combat-reflexes.md) feat can’t use the opportunist ability more than once per round.
 
 *Skill Mastery*: The rogue becomes so confident in the use of certain skills that she can use them reliably even under adverse conditions.
 

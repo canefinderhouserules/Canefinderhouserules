@@ -4,7 +4,7 @@
 
 You move an opponent and use his momentum to send him reeling across the battlefield.
 
-**Prerequisites**: Improved Reposition, base attack bonus +3 or monk level 1st.
+**Prerequisites**: [Improved Reposition](improved-reposition.md), base attack bonus +3 or monk level 1st.
 
 **Benefit**: When you successfully reposition an opponent, its movement need not remain within your reach, though once the opponent leaves your reach, its remaining movement must be in a straight line. This movement doesn't provoke attacks of opportunity unless you have the Greater Reposition feat.
 

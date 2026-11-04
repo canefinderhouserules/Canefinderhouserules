@@ -56,7 +56,7 @@ A relic channeler carries relics of legend around with her. She need not rely on
 
 **Powerful Bond (Su)**: Because of habitually channeling the same spirits and possessing physical links to the spirits’ former lives and legends, a relic channeler possesses a strong bond with her spirits. She receives the benefit of the Alertness feat whenever she is suffering a spirit’s influence penalty. She chooses two spells of each level with the archmage arcana and divine surge spirit powers instead of one, two exotic weapon proficiencies with champion’s prowess instead of one, three combat feats with legendary champion instead of two, four skills with trickster’s edge instead of two, 1 extra use of Martial Flexibility with the champion, and 2 uses of spirit surge per round with the marshal. This ability alters spirit.
 
-**Legendary Influence**: At 5th level, a relic channeler gains Legendary Influence as a bonus feat.
+**Legendary Influence**: At 5th level, a relic channeler gains [Legendary Influence](../../rules/feats/legendary-influence.md) as a bonus feat.
 
 ??? note "Original rule"
 
@@ -74,7 +74,7 @@ A spirit dancer enacts an exuberant dance to the spirits, accepting many roles i
 
 **Spirit Dance (Su)**: Each day during his seance, a spirit dancer makes all his spirit power choices as if he were channeling one spirit of each of the six legends. He can’t choose to channel a weaker spirit to reduce his influence from spirit surge. He does not always possess the seance boon, spirit bonus, spirit powers, or spirit surge ability from any of these six spirits.
 
-**Agile Dancer**: A spirit dancer gains Lightning Reflexes as a bonus feat at 1st level and Improved Lightning Reflexes at 10th level.
+**Agile Dancer**: A spirit dancer gains [Lightning Reflexes](../../rules/feats/lightning-reflexes.md) as a bonus feat at 1st level and [Improved Lightning Reflexes](../../rules/feats/improved-lightning-reflexes.md) at 10th level.
 
 Instead, he can enter a spirit dance as a free action to gain the aforementioned abilities from one of the six spirits he prepared during his seance for the duration of his spirit dance. He can spirit dance for a total number of rounds per day equal to his Charisma modifier + double his medium level; these rounds don’t need to be consecutive. He also can’t enter a spirit dance while shaken, frightened, or panicked. He combines all influence incurred during spirit dances into a single pool. At 3 points of influence or higher, he takes a –2 penalty on initiative checks even when he’s not in a spirit dance, and at 5 points of influence or higher, his current spirit takes control as it would for a normal medium (this control is not limited by rounds of spirit dance). A spirit dancer can accept 1 point of influence to recover 4 rounds of spirit dance, up to his normal daily maximum.
 
@@ -140,7 +140,7 @@ The astral archmage echo grants modified or unique spirit powers. In all other w
 
 **Echo's Arcana (Lesser, Su)**: Rather than your normal spells per day for your medium level, you gain the spells per day of a mesmerist of your medium level. For each level of spell you can now cast (including level 0), each time you channel the echo, select a single spell from the sorcerer/wizard spell list of that level to add to your medium spell list and spells known until you lose contact with the echo. When you cast these spells, they count as arcane (though not for the purpose of fulfilling prerequisites), and thus you must provide verbal and somatic components instead of thought and emotion components. Because of the archmage's hatred of undeath, these spells can't be of the necromancy school.
 
-**Project Servitor (Intermediate, Su)**: You can create projections of the creatures trapped in the archmage's tower, just as the archmage did during a legendary siege. You can expend a spell slot to cast *shadow conjuration*, mimicking a *summon monster* or *summon nature's ally* spell of the spell slot's level (or that spell slot's level + 1 for 5th- and 6th-level slots). These shadows are 10% real per level of the spell slot expended. If you allow the echo to gain 1 point of influence over you, double the reality percentage (to a maximum of 100%; if the result would be greater than 100%, the creature or creatures instead gain the advanced template).
+**Project Servitor (Intermediate, Su)**: You can create projections of the creatures trapped in the archmage's tower, just as the archmage did during a legendary siege. You can expend a spell slot to cast [*shadow conjuration*](../../magic/spells/shadow-conjuration.md), mimicking a *summon monster* or *summon nature's ally* spell of the spell slot's level (or that spell slot's level + 1 for 5th- and 6th-level slots). These shadows are 10% real per level of the spell slot expended. If you allow the echo to gain 1 point of influence over you, double the reality percentage (to a maximum of 100%; if the result would be greater than 100%, the creature or creatures instead gain the advanced template).
 
 **Wild Arcana (Greater, Su)**: You can allow the echo to gain 1 point of influence over you in order to cast any sorcerer/wizard spell of a level you can cast (even necromancy spells). You must expend a spell slot of the appropriate level, and you can't apply metamagic feats to the spell.
 
@@ -182,7 +182,7 @@ If the First Emperor was the greatest leader of his empire’s history, then the
 
 **Conqueror’s Weapons (Lesser, Su)**: You are considered proficient with the weapon types you gathered in order to gain favor with this spirit (such as longswords or hand crossbows).
 
-**Conquered Blades (Greater, Su)**: You gain Improved Critical with the weapon types you gathered to gain favor with this spirit. In addition, your attacks with such weapons ignore up to 5 points of damage reduction, except for damage reduction without a type (such as DR 10/—).
+**Conquered Blades (Greater, Su)**: You gain [Improved Critical](../../rules/feats/improved-critical.md) with the weapon types you gathered to gain favor with this spirit. In addition, your attacks with such weapons ignore up to 5 points of damage reduction, except for damage reduction without a type (such as DR 10/—).
 
 ### Deceiver (Trickster)
 
@@ -242,7 +242,7 @@ The ancient founder of a desert kingdom, the First God-King brought his people t
 
 **Taboos**: If you accept a taboo while channeling the God-King, you must embrace any opportunity to spread the legend of that kingdom’s past greatness, even if doing so would be disadvantageous.
 
-**All-Seeing Eye (Greater, Su)**: While your eyes aren’t literally all-seeing, you can keep track of all your allies with ease. You can shift your senses to any ally who was present for your seance as a move action, as if you had the *witness* spell active on all of them at all times. This replaces decisive strike.
+**All-Seeing Eye (Greater, Su)**: While your eyes aren’t literally all-seeing, you can keep track of all your allies with ease. You can shift your senses to any ally who was present for your seance as a move action, as if you had the [*witness*](../../magic/spells/witness.md) spell active on all of them at all times. This replaces decisive strike.
 
 ### Forgiving Vintner (Hierophant)
 
@@ -268,7 +268,7 @@ A powerful genie binder from a great eastern empire, this spirit created many fa
 
 **Taboos**: If you accept a taboo while channeling the Binder, you must not suffer the presence of a rival’s summoned creatures and must target them if possible during combat, even if doing so would be disadvantageous to your allies.
 
-**Binder’s Spells (Lesser, Su)**: The Binder always grants *summon monster I–VI*, plus the cantrip *detect magic*. This ability alters archmage arcana.
+**Binder’s Spells (Lesser, Su)**: The Binder always grants *summon monster I–VI*, plus the cantrip [*detect magic*](../../magic/spells/detect-magic.md). This ability alters archmage arcana.
 
 **Master Summoner (Intermediate, Su)**: A number of times per day equal to 1/2 your medium level (minimum 1), you can cast any *summon monster* spell as a standard action instead of a full-round action. Additionally, you can allow the Binder to gain 1 point of influence over you and expend one of your highest-level spell slots to summon a monster that can be summoned with a *summon monster* spell 1 level higher than the highest one you can cast. This ability replaces arcane surge.
 
@@ -284,7 +284,7 @@ The Heretic warps the faith of a good deity.
 
 **Favored Locations**: Hidden shrines, repositories of dark knowledge, sacrificial altars, temples.
 
-**Heresy (Lesser, Su)**: This functions as the divine surge lesser spirit power but you gain the following inquisitor spells at the indicated spell levels, instead of selecting a set of cleric spells each day: 0—*guidance*; 1st—*divine favor*; 2nd— *castigate*; 3rd—*terrible remorse*; 4th—*reprobation*; 5th— *mass castigate*; 6th—*overwhelming presence*. Whenever you use your spirit surge on a skill check or ability check to convince or trick someone into perverting his faith in the good deity you chose with your vow, the Heretic is pleased and does not gain the usual point of influence over you.
+**Heresy (Lesser, Su)**: This functions as the divine surge lesser spirit power but you gain the following inquisitor spells at the indicated spell levels, instead of selecting a set of cleric spells each day: 0—[*guidance*](../../magic/spells/guidance.md); 1st—[*divine favor*](../../magic/spells/divine-favor.md); 2nd— [*castigate*](../../magic/spells/castigate.md); 3rd—[*terrible remorse*](../../magic/spells/terrible-remorse.md); 4th—[*reprobation*](../../magic/spells/reprobation.md); 5th— *mass castigate*; 6th—[*overwhelming presence*](../../magic/spells/overwhelming-presence.md). Whenever you use your spirit surge on a skill check or ability check to convince or trick someone into perverting his faith in the good deity you chose with your vow, the Heretic is pleased and does not gain the usual point of influence over you.
 
 **False Font (Intermediate, Su)**: You gain the effects of the energy font intermediate spirit power, but you must match the faith you chose to pervert, meaning that you always channel positive energy and add cure spells.
 
@@ -298,9 +298,9 @@ A ruthless monarch who changed the course of her nation’s history, the Inferna
 
 **Taboos**: If you accept a taboo while channeling the Queen, you must vow to fight against chaos wherever you see it.
 
-**Dynamic Decree (Lesser, Su)**: The Queen always grants the following spells of each level: 0—*bleed*, 1st—*bane*, 2nd—*enthrall*, 3rd—*agonize*, 4th—*greater infernal healing*, 5th—*true seeing*, 6th—*banishment*. This ability alters divine surge.
+**Dynamic Decree (Lesser, Su)**: The Queen always grants the following spells of each level: 0—[*bleed*](../../magic/spells/bleed.md), 1st—[*bane*](../../magic/spells/bane.md), 2nd—[*enthrall*](../../magic/spells/enthrall.md), 3rd—[*agonize*](../../magic/spells/agonize.md), 4th—*greater infernal healing*, 5th—[*true seeing*](../../magic/spells/true-seeing.md), 6th—[*banishment*](../../magic/spells/banishment.md). This ability alters divine surge.
 
-**Supernatural Aid (Greater, Su)**: Once per day, you can call an outsider with a number of Hit Dice equal to or less than yours (maximum 18 HD) as if casting the appropriate *planar ally* spell. You do not need to pay the material component required to cast the spell, but you still must bargain with and pay the outsider for its services. This ability replaces overflowing grace.
+**Supernatural Aid (Greater, Su)**: Once per day, you can call an outsider with a number of Hit Dice equal to or less than yours (maximum 18 HD) as if casting the appropriate [*planar ally*](../../magic/spells/planar-ally.md) spell. You do not need to pay the material component required to cast the spell, but you still must bargain with and pay the outsider for its services. This ability replaces overflowing grace.
 
 ### Leaping Lion (Hierophant)
 
@@ -314,9 +314,9 @@ The Leaping Lion is a favorite hero among the young of an old empire, due to bot
 
 **Natural Magic (Lesser, Su)**: You can draw upon the power of nature itself. This functions as the archmage arcana spirit power, except that you select spells from the druid list instead of the sorcerer/wizard list (these spells count as divine), and you must present a sprig of holly or another sacred plant to cast spells that require a divine focus.
 
-**Princely Allies (Intermediate, Su)**: Add the appropriate *summon nature’s ally* spell for each spell level you can cast to your medium spell list. As long as you have exactly 1 creature summoned, it gains the benefits of the Augment Summoning feat, even if you don’t have that feat.
+**Princely Allies (Intermediate, Su)**: Add the appropriate *summon nature’s ally* spell for each spell level you can cast to your medium spell list. As long as you have exactly 1 creature summoned, it gains the benefits of the [Augment Summoning](../../rules/feats/augment-summoning.md) feat, even if you don’t have that feat.
 
-**Breaking Chains (Greater, Su)**: As a swift action, you can allow the Lion to gain 1 point of influence over you to grant the benefits of *freedom of movement* to you and all allies within 60 feet for 1 minute.
+**Breaking Chains (Greater, Su)**: As a swift action, you can allow the Lion to gain 1 point of influence over you to grant the benefits of [*freedom of movement*](../../magic/spells/freedom-of-movement.md) to you and all allies within 60 feet for 1 minute.
 
 ### Lich (Archmage)
 
@@ -330,9 +330,9 @@ The Lich is a spirit of power over death and the undead.
 
 **Taboos**: If you accept a taboo while channeling the Lich, you must not use beneficial spells on living creatures (except yourself if you are a living creature).
 
-**Necromantic Arcana (Lesser, Su)**: This functions as the archmage arcana lesser spirit power, except you gain the following spells at the indicated spell levels (even if they are not the usual spell levels for the sorcerer/wizard spell list), instead of selecting them each day: 0—*bleed*; 1st—*chill touch*; 2nd—*command undead*; 3rd—*animate dead*; 4th—*enervation*; 5th—*magic jar*; 6th—*create greater undead*.
+**Necromantic Arcana (Lesser, Su)**: This functions as the archmage arcana lesser spirit power, except you gain the following spells at the indicated spell levels (even if they are not the usual spell levels for the sorcerer/wizard spell list), instead of selecting them each day: 0—*bleed*; 1st—[*chill touch*](../../magic/spells/chill-touch.md); 2nd—[*command undead*](../../magic/spells/command-undead.md); 3rd—[*animate dead*](../../magic/spells/animate-dead.md); 4th—[*enervation*](../../magic/spells/enervation.md); 5th—[*magic jar*](../../magic/spells/magic-jar.md); 6th—[*create greater undead*](../../magic/spells/create-greater-undead.md).
 
-**Lesser Lichdom (Greater, Su)**: In order to benefit from this power, you must have a proto-phylactery that costs you 10,000 gp to create (if you continue with the process of lichdom, you can upgrade this to a true phylactery by paying the difference in cost). If you die while channeling the Lich, you return from the dead in 1d10 days, reforming around the proto-phylactery and gaining 1 permanent negative level (as if subject to the *resurrection* spell). This process consumes the proto-phylactery. If you are already a lich, you can instead create a backup phylactery for 10,000 gp, at which you reform if your normal phylactery is destroyed. This consumes the backup phylactery.
+**Lesser Lichdom (Greater, Su)**: In order to benefit from this power, you must have a proto-phylactery that costs you 10,000 gp to create (if you continue with the process of lichdom, you can upgrade this to a true phylactery by paying the difference in cost). If you die while channeling the Lich, you return from the dead in 1d10 days, reforming around the proto-phylactery and gaining 1 permanent negative level (as if subject to the [*resurrection*](../../magic/spells/resurrection.md) spell). This process consumes the proto-phylactery. If you are already a lich, you can instead create a backup phylactery for 10,000 gp, at which you reform if your normal phylactery is destroyed. This consumes the backup phylactery.
 
 ### Monster-Slayer Spearcaptain (Champion)
 
@@ -344,9 +344,9 @@ A prodigy captain in a city guard whose spear forced a sea monster back into the
 
 **Taboo**: If you accept a taboo while channeling the spearcaptain, you must attack any hostile Huge or larger creature on sight.
 
-**Divine Vengeance (Intermediate, Su)**: As a divine warrior, you can cast each of the following spells once per day: *align weapon* (lawful), *magic weapon*, and *shield of faith*. Use your medium level in place of a cleric level. These spells do not count toward your regular allotment of spells per day, but you must have a Charisma score of at least 10 + the spell's level to cast them.
+**Divine Vengeance (Intermediate, Su)**: As a divine warrior, you can cast each of the following spells once per day: [*align weapon*](../../magic/spells/align-weapon.md) (lawful), [*magic weapon*](../../magic/spells/magic-weapon.md), and [*shield of faith*](../../magic/spells/shield-of-faith.md). Use your medium level in place of a cleric level. These spells do not count toward your regular allotment of spells per day, but you must have a Charisma score of at least 10 + the spell's level to cast them.
 
-**Spiritual Force (Greater, Su)**: Add *divine power*, *greater magic weapon*, and *magic vestment* to the list of spells you can cast once per day, following the same rules as the divine vengeance spirit power.
+**Spiritual Force (Greater, Su)**: Add [*divine power*](../../magic/spells/divine-power.md), *greater magic weapon*, and [*magic vestment*](../../magic/spells/magic-vestment.md) to the list of spells you can cast once per day, following the same rules as the divine vengeance spirit power.
 
 ### Overthrower (Archmage)
 
@@ -378,7 +378,7 @@ History has a divided memory when it comes to the Prankster Prince. Scholars of 
 
 **Taboos**: If you accept a taboo while channeling the Prince, you must embrace every opportunity to pull a prank or make a jest, but never at your own expense.
 
-**Princely Humor (Lesser, Su)**: You gain Improved Dirty Trick and Improved Feint as bonus feats. When you successfully perform a dirty trick, you can allow the Prince’s spirit to gain 1 point of influence over you to target that opponent with *hideous laughter* (DC = 10 + 1/2 your medium level + your Charisma modifier) as a free action that does not provoke an attack of opportunity, in addition to the effects of the dirty trick.
+**Princely Humor (Lesser, Su)**: You gain [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md) and [Improved Feint](../../rules/feats/improved-feint.md) as bonus feats. When you successfully perform a dirty trick, you can allow the Prince’s spirit to gain 1 point of influence over you to target that opponent with [*hideous laughter*](../../magic/spells/hideous-laughter.md) (DC = 10 + 1/2 your medium level + your Charisma modifier) as a free action that does not provoke an attack of opportunity, in addition to the effects of the dirty trick.
 
 **Atrocious Gift (Greater, Su)**: You can allow the Prince to gain 1 point of influence over you to make a melee touch attack against another creature as a standard action. If you hit, you can transfer one disease or poison from yourself to the touched creature. You are immediately cured of the disease or poison and the target must attempt a saving throw against the transferred affliction (at the affliction’s save DC) or suffer its effect or initial effect immediately. The target then continues to suffer from the affliction’s normal effects thereafter.
 
@@ -404,7 +404,7 @@ The Serpent Slayer was an ancient hero who descended into a serpentfolk city and
 
 **Ancient Heroics (Lesser, Su)**: The Slayer grants a +1 bonus on all attack rolls when you are wielding a greatsword in melee combat against evil monstrous humanoids instead of granting proficiency in an exotic weapon with champion’s prowess. For the legendary champion ability, the Slayer grants any two of the following feats: Disruptive, Greater Weapon Focus (greatsword), Greater Weapon Specialization (greatsword), Weapon Focus (greatsword), Weapon Specialization (greatsword), and Spellbreaker. This ability alters champion’s prowess and legendary champion.
 
-**Toe to Toe (Intermediate, Sp)**: When you are in melee combat with a creature that is at least one size category larger than you, if none of your allies are flanking it, you can spend a swift action to increase your own size as if through *enlarge person*, gaining all the effects of that spell. This does not provoke attacks of opportunity, and the effect lasts as long as you are in melee with that creature or until it is dead.
+**Toe to Toe (Intermediate, Sp)**: When you are in melee combat with a creature that is at least one size category larger than you, if none of your allies are flanking it, you can spend a swift action to increase your own size as if through [*enlarge person*](../../magic/spells/enlarge-person.md), gaining all the effects of that spell. This does not provoke attacks of opportunity, and the effect lasts as long as you are in melee with that creature or until it is dead.
 
 ### Shield General (Guardian)
 
@@ -450,7 +450,7 @@ The Warmonger is a spirit of unbridled strife, inspiring others to throw their l
 
 **No Mercy (Lesser, Su)**: You can use spirit surge on your own attack rolls or those of allies within 30 feet who participated in your seance, as long as you have line of sight and line of effect. You can also use your spirit surge when an enemy takes an action that would provoke an attack of opportunity from you or such an ally who threatens that enemy. If you do so, you or an ally of your choice who threatens that enemy can make an attack of opportunity and add your spirit surge, and that attack of opportunity does not count against your normal limit for the round or your ally’s. When you use a spirit surge on an attack roll and the attack hits, the spirit surge benefit also applies to the damage roll.
 
-**Warmonger’s Way (Intermediate, Su)**: Add the following spells of spell levels you can currently cast to your list of spells known of those levels: 1st—*command, murderous command*; 2nd—*rage, tactical acumen*; 3rd—*confusion, fear*; 4th—*battlemind link*, *song of discord*. You can also use your spirit surge on concentration and caster level checks when you cast these spells.
+**Warmonger’s Way (Intermediate, Su)**: Add the following spells of spell levels you can currently cast to your list of spells known of those levels: 1st—*command, murderous command*; 2nd—*rage, tactical acumen*; 3rd—*confusion, fear*; 4th—[*battlemind link*](../../magic/spells/battlemind-link.md), [*song of discord*](../../magic/spells/song-of-discord.md). You can also use your spirit surge on concentration and caster level checks when you cast these spells.
 
 **Inspiring Call (Greater, Su)**: You gain the marshal’s intermediate spirit power of the same name, but you can activate it as a move action. This improves to a swift action if you have the legendary marshal legendary spirit power.
 
@@ -472,7 +472,7 @@ Some storm dreamers become incapable of retaining their own personality and valu
 
     **Storm Trance (Su)**: A 3rd-level storm dreamer can enter a meditative trance during which she fuses her mind to the great storm, mentally becoming one with it. Entering the trance is a full-round action that doesn’t provoke attacks of opportunity, but once in a storm trance, the storm dreamer can maintain the trance as a free action for a number of minutes per day equal to her storm dreamer class level + her Charisma modifier. These minutes need not be consecutive, but they must be spent in 1-minute increments. While in a storm trance, the storm dreamer gains energy resistance 5 against cold and electricity, treats wind as one step less severe, and gains a bonus equal to her Charisma modifier on all saving throws against wind effects, spells with the air or electricity descriptors, and effects that deal electricity damage. This ability replaces haunt channeler.
 
-**Dream Storm (Sp)**: At 5th level, a storm dreamer’s thoughts can cause magical weather effects to manifest. While in a storm trance, she can cast *call lightning*, *sleet storm*, and *wind wall* as spell-like abilities (CL = her character level). At 10th level, she can also cast *control weather* in this way. Each time she casts one of these spell-like abilities, she reduces the number of remaining minutes for her storm trance by 1 minute; she can’t use these spell-like abilities if she has less than 1 minute remaining for the day to use her storm trance. This ability replaces location channel.
+**Dream Storm (Sp)**: At 5th level, a storm dreamer’s thoughts can cause magical weather effects to manifest. While in a storm trance, she can cast [*call lightning*](../../magic/spells/call-lightning.md), [*sleet storm*](../../magic/spells/sleet-storm.md), and [*wind wall*](../../magic/spells/wind-wall.md) as spell-like abilities (CL = her character level). At 10th level, she can also cast [*control weather*](../../magic/spells/control-weather.md) in this way. Each time she casts one of these spell-like abilities, she reduces the number of remaining minutes for her storm trance by 1 minute; she can’t use these spell-like abilities if she has less than 1 minute remaining for the day to use her storm trance. This ability replaces location channel.
 
 ??? note "Original rule"
 
@@ -508,7 +508,7 @@ Normally, storied figures who simply disappear don't form legendary spirits, but
 
 **Third Eye (Sp, Su)**: A third eye channeler knows one fewer knack than his level would normally indicate, but he gains [Third Eye](../../rules/feats/third-eye.md) as a bonus feat. Beginning at 2nd level, when he selects a taboo, the third eye channeler can use his third eye for 2 minutes per character level each day, instead of gaining free uses of spirit surge. This ability alters knacks and taboo.
 
-**Impossible Eye (Su)**: Starting at 3rd level, a third eye channeler gains additional powers from his third eye. At 3rd level, while his third eye is open, his caster level for divination spells increases by 1 and he gains darkvision with a range of 60 feet. At 5th level, while his third eye is open, he gains constant *detect magic*. At 7th level, while his third eye is open, he gains constant *arcane sight* instead of *detect magic*. At 9th level, while his third eye is open, his bonus on Perception checks against invisible creatures improves to *see invisibility*. At 13th level, he can concentrate for 1 minute to send his third eye from his body, as per *arcane eye* (this duration counts against the daily duration for which he can open his third eye, and if the *arcane eye* is destroyed, he loses all remaining minutes of his third eye ability for that day). At 14th level, as a standard action while his third eye is open, he can spend 1 minute of the duration he can open his third eye to use *analyze dweomer* on a single target. At 15th level, while his third eye is open, he gains *true seeing*. At 18th level, while his third eye is open, his *arcane sight* improves to *greater arcane sight*. This ability replaces haunt channeler, location channel, connection channel, propitiation, ask the spirits, astral journey, trance of three, and spacious soul.
+**Impossible Eye (Su)**: Starting at 3rd level, a third eye channeler gains additional powers from his third eye. At 3rd level, while his third eye is open, his caster level for divination spells increases by 1 and he gains darkvision with a range of 60 feet. At 5th level, while his third eye is open, he gains constant *detect magic*. At 7th level, while his third eye is open, he gains constant [*arcane sight*](../../magic/spells/arcane-sight.md) instead of *detect magic*. At 9th level, while his third eye is open, his bonus on Perception checks against invisible creatures improves to [*see invisibility*](../../magic/spells/see-invisibility.md). At 13th level, he can concentrate for 1 minute to send his third eye from his body, as per [*arcane eye*](../../magic/spells/arcane-eye.md) (this duration counts against the daily duration for which he can open his third eye, and if the *arcane eye* is destroyed, he loses all remaining minutes of his third eye ability for that day). At 14th level, as a standard action while his third eye is open, he can spend 1 minute of the duration he can open his third eye to use [*analyze dweomer*](../../magic/spells/analyze-dweomer.md) on a single target. At 15th level, while his third eye is open, he gains *true seeing*. At 18th level, while his third eye is open, his *arcane sight* improves to *greater arcane sight*. This ability replaces haunt channeler, location channel, connection channel, propitiation, ask the spirits, astral journey, trance of three, and spacious soul.
 
 **Third Eye Mastery (Su)**: At 19th level, a third eye channeler can open his third eye for longer than normal. He can open his third eye for 5 minutes per medium level (increasing to 10 minutes per medium level if he selects a taboo); this duration must be used in 5-minute increments. Uses of *analyze dweomer* cost him 5-minute increments instead of 1-minute increments, and he can use the read aura occult skill unlock with his third eye multiple times per day; each use takes only 1 minute but costs 5 minutes of the duration he can keep his third eye open. This ability replaces spirit mastery.
 
@@ -522,7 +522,7 @@ Rather than invite strange entities and departed souls into their bodies, outer 
 
 **Greater Invocation (Su)**: An outer channeler can spend 1 point of influence to gain access to his spirits’ normal intermediate power for the rest of the day.
 
-**Taboo (Ex)**: Whenever he invokes an outsider, an outer channeler must accept one taboo from among those listed by his chosen outsider's subtype before the outsider will enter his body. Accepting this taboo provides the outer channeler with no benefits other than those gained from channeling a spirit; if he wishes to gain additional uses of his spirit purge ability as described by the taboo class feature, he must accept a second taboo from among those listed by the legend that his chosen outsider subtype functions as. If the outer channeler breaks this mandatory taboo, the outsider immediately leaves and the outer channeler can't invoke a new outsider until he atones (as per *atonement*). This ability alters taboo.
+**Taboo (Ex)**: Whenever he invokes an outsider, an outer channeler must accept one taboo from among those listed by his chosen outsider's subtype before the outsider will enter his body. Accepting this taboo provides the outer channeler with no benefits other than those gained from channeling a spirit; if he wishes to gain additional uses of his spirit purge ability as described by the taboo class feature, he must accept a second taboo from among those listed by the legend that his chosen outsider subtype functions as. If the outer channeler breaks this mandatory taboo, the outsider immediately leaves and the outer channeler can't invoke a new outsider until he atones (as per [*atonement*](../../magic/spells/atonement.md)). This ability alters taboo.
 
 **Shared Seance (Su)**: An outer channeler's ally cannot gain the seance boon from an outer channeler's outsider spirit if that ally's alignment is more than one step away from the outsider's alignment. This ability alters shared seance.
 
@@ -562,7 +562,7 @@ An agathion is an animal-like spirit from the upper planes, a defender of innoce
 
 **Lay on Hands (Intermediate, Su)**: You gain the lay on hands class feature, using your medium level as your effective paladin level.
 
-**Voice of the Upper Planes (Gift, Su)**: You can speak to beasts and men alike as a standard action, gaining the benefits of *speak with animals* and *tongues* simultaneously. You can use this ability for up to 10 minutes per day per medium level. These minutes don't need to be consecutive, but must be used in 1-minute increments.
+**Voice of the Upper Planes (Gift, Su)**: You can speak to beasts and men alike as a standard action, gaining the benefits of [*speak with animals*](../../magic/spells/speak-with-animals.md) and [*tongues*](../../magic/spells/tongues.md) simultaneously. You can use this ability for up to 10 minutes per day per medium level. These minutes don't need to be consecutive, but must be used in 1-minute increments.
 
 #### Angel
 
@@ -574,7 +574,7 @@ An angel is a servant of the good-aligned planes, a voice of unity and cooperati
 
 **Taboos**: Choose one of the following: you must not ignore an opportunity to destroy or hinder an evil creature or organization unless doing so would put innocents in harm's way; you must always offer your foes a chance to peacefully surrender to you, and you must accept and honor any such terms that your foes agree to; you must offer whatever support and assistance you can spare to any creature that asks such service from you, provided your actions do not further the cause of evil.
 
-**Protective Aura (Intermediate, Su)**: You gain a +4 deflection bonus to your AC and a +4 resistance bonus on saving throws against attacks made by or effects created by evil creatures. In addition, you are protected from effects created by evil creatures that possess you or exert mental control over you, as per *protection from evil*. As a standard action, you can project this benefit to allies within 10 feet as an aura. You may use this ability for a number of rounds per day equal to your medium level. These rounds don't need to be consecutive.
+**Protective Aura (Intermediate, Su)**: You gain a +4 deflection bonus to your AC and a +4 resistance bonus on saving throws against attacks made by or effects created by evil creatures. In addition, you are protected from effects created by evil creatures that possess you or exert mental control over you, as per [*protection from evil*](../../magic/spells/protection-from-evil.md). As a standard action, you can project this benefit to allies within 10 feet as an aura. You may use this ability for a number of rounds per day equal to your medium level. These rounds don't need to be consecutive.
 
 **Truespeech (Gift, Su)**: You gain *tongues* as a constant spell-like ability, with a caster level equal to your medium level.
 
@@ -590,7 +590,7 @@ An archon is a celestial defender of the upper planes, righteousness and justice
 
 **Aura of Menace (Intermediate, Su)**: As a swift action, you activate a righteous aura that embodies your outsider's fury. Hostile creatures within a 20-foot radius of you must succeed at a Will save (DC = 10 + half your medium level + your Charisma modifier) or take a –2 penalty on attack rolls, on saving throws, and to AC. This penalty lasts for 1 minute, or until you become frightened, panicked, paralyzed, stunned, unconscious, or otherwise prevented from participating in the current encounter. Whether or not a creature fails its save, it can't be affected by your aura again for 24 hours.
 
-**Teleportation (Gift, Su)**: Add *dimension door* to your medium spell list and list of spells known as a 4th-level spell. In addition, you can cast *dimension door* as a spell-like ability a number of times per day equal to your Charisma modifier, using your medium level as the spell's caster level.
+**Teleportation (Gift, Su)**: Add [*dimension door*](../../magic/spells/dimension-door.md) to your medium spell list and list of spells known as a 4th-level spell. In addition, you can cast *dimension door* as a spell-like ability a number of times per day equal to your Charisma modifier, using your medium level as the spell's caster level.
 
 #### Azata
 
@@ -602,7 +602,7 @@ An azata is a whimsical outsider, a living embodiment of freedom and goodness.
 
 **Taboos**: Choose one of the following: whenever you encounter fine art, food, or performances, you must take no actions for 1d4+1 rounds other than to indulge in your find or until you see a potential or obvious threat (as per the fascinated condition); you must attempt any challenge or obstacle that blocks your path unless doing so would be obviously harmful to you or those under your care; you must always offer support and protection to any nonevil creature that is unable to protect itself.
 
-**Slip the Surly Bonds (Intermediate, Sp)**: You can ignore impediments to your mobility. For a number of rounds per day equal to your medium level, you can move normally regardless of magical effects that impede movement, as if you were affected by *freedom of movement*. In addition, you can cast *liberating command* as a spell-like ability a number of times per day equal to your Charisma modifier, using your medium level as the spell's caster level.
+**Slip the Surly Bonds (Intermediate, Sp)**: You can ignore impediments to your mobility. For a number of rounds per day equal to your medium level, you can move normally regardless of magical effects that impede movement, as if you were affected by *freedom of movement*. In addition, you can cast [*liberating command*](../../magic/spells/liberating-command.md) as a spell-like ability a number of times per day equal to your Charisma modifier, using your medium level as the spell's caster level.
 
 **Gift of Flight (Gift, Ex)**: You grow feathery wings as a swift action, which otherwise function as per *fly*. You can use this ability for a number of minutes each day equal to your medium level. These minutes don't need to be consecutive, but must be used in 1-minute increments.
 
@@ -618,7 +618,7 @@ A daemon is a nihilistic fiend, an entity obsessed with the eradication of morta
 
 **Summon Daemon (Intermediate, Sp)**: You can summon a servant of destruction as a standard action. This functions as per *summon monster II*, but you can summon only animals with the fiendish template or outsiders with the daemon subtype. This ability can summon only one creature. For every 2 medium levels beyond 6th, the level of the *summon monster* spell increases by 1 (to a maximum of *summon monster IX* at 20th level). You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
-**Consume the Soul (Gift, Sp)**: You can consume or imprison the soul of a dying creature. You gain the ability to cast *death knell* as a spell-like ability three times per day using your medium level as the spell's caster level. Instead of gaining the normal benefits of this spell when the target fails its save, you can instead lock the target's soul within a soul gem, functioning like the soul lock ability of a cacodaemon. You count as an evil outsider for the purpose of determining whether you receive a benefit when you ingest a soul gem created by the soul lock ability.
+**Consume the Soul (Gift, Sp)**: You can consume or imprison the soul of a dying creature. You gain the ability to cast [*death knell*](../../magic/spells/death-knell.md) as a spell-like ability three times per day using your medium level as the spell's caster level. Instead of gaining the normal benefits of this spell when the target fails its save, you can instead lock the target's soul within a soul gem, functioning like the soul lock ability of a cacodaemon. You count as an evil outsider for the purpose of determining whether you receive a benefit when you ingest a soul gem created by the soul lock ability.
 
 #### Demon
 
@@ -646,7 +646,7 @@ A devil is a legalistic fiend, nothing less than absolute law and order incarnat
 
 **Summon Devil (Intermediate, Sp)**: You can summon a denizen of the lower planes as a standard action. This functions as per *summon monster II*, but you can summon only animals with the fiendish template or outsiders with the devil subtype. This ability can summon only one creature. For every 2 medium levels beyond 6th, the level of the *summon monster* spell increases by 1 (to a maximum of *summon monster IX* at 20th level). You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
-**See in Darkness (Gift, Su)**: You gain darkvision 30 feet. If you already have darkvision, your darkvision range increases by 30 feet instead. This darkvision allows you to see perfectly in darkness of any kind, even that created by a *deeper darkness* spell.
+**See in Darkness (Gift, Su)**: You gain darkvision 30 feet. If you already have darkvision, your darkvision range increases by 30 feet instead. This darkvision allows you to see perfectly in darkness of any kind, even that created by a [*deeper darkness*](../../magic/spells/deeper-darkness.md) spell.
 
 #### Psychopomp
 
@@ -668,9 +668,9 @@ Among the most sacred roles in some jungle tribes is that of fiend keeper, a ves
 
 **Alignment**: A fiend keeper must choose a nonevil alignment.
 
-**Evil Spirit (Su)**: A fiend keeper serves as the vessel for a powerful evil spirit that fights and bargains for dominance. The legends a fiend keeper channels are all aspects of this evil presence. Willingly performing an evil act automatically grants the evil spirit 1 point of influence over him. *Protection from evil* temporarily suppresses all the spirit's benefits while the fiend keeper is under the spell's effects. When the spirit gains at least 3 points of influence over the fiend keeper, in addition to the penalties associated with each legend, he gains an evil aura as per a cleric of his level and treats his alignment as evil for the purposes of resisting or being vulnerable to spells and abilities (such as *unholy blight* or a paladin's smite evil class ability). This ability modifies spirit.
+**Evil Spirit (Su)**: A fiend keeper serves as the vessel for a powerful evil spirit that fights and bargains for dominance. The legends a fiend keeper channels are all aspects of this evil presence. Willingly performing an evil act automatically grants the evil spirit 1 point of influence over him. *Protection from evil* temporarily suppresses all the spirit's benefits while the fiend keeper is under the spell's effects. When the spirit gains at least 3 points of influence over the fiend keeper, in addition to the penalties associated with each legend, he gains an evil aura as per a cleric of his level and treats his alignment as evil for the purposes of resisting or being vulnerable to spells and abilities (such as [*unholy blight*](../../magic/spells/unholy-blight.md) or a paladin's smite evil class ability). This ability modifies spirit.
 
-**Dark Communion (Su)**: At 3rd level, a fiend keeper can entice the evil spirit to lend him its knowledge or its power as a full-round action a number of times per day equal to his class level. If the fiend keeper seeks knowledge, this behaves as *contact other plane* using his medium level as his caster level, but if he fails the Intelligence or Charisma check, his spirit gains 1 point of influence over him instead of reducing his ability scores. Treat the spirit as an entity from the Astral Plane for this ability. Its knowledge is equivalent to that of a demigod at 5th level, a lesser deity at 7th level, and an intermediate deity at 13th level.
+**Dark Communion (Su)**: At 3rd level, a fiend keeper can entice the evil spirit to lend him its knowledge or its power as a full-round action a number of times per day equal to his class level. If the fiend keeper seeks knowledge, this behaves as [*contact other plane*](../../magic/spells/contact-other-plane.md) using his medium level as his caster level, but if he fails the Intelligence or Charisma check, his spirit gains 1 point of influence over him instead of reducing his ability scores. Treat the spirit as an entity from the Astral Plane for this ability. Its knowledge is equivalent to that of a demigod at 5th level, a lesser deity at 7th level, and an intermediate deity at 13th level.
 
 If the fiend keeper requests power, he must instead succeed at an Intelligence or Charisma check (DC 10 at 3rd level, DC 12 at 7th level, or DC 14 at 13th level or higher), or his spirit gains 1 point of influence over him. Regardless of the outcome, he gains one of the following powers for 1 minute. At 5th level, he also gains a number of temporary hit points equal to his medium level for 1 minute. At 7th level, he selects two powers.
 
@@ -686,7 +686,7 @@ If the fiend keeper requests power, he must instead succeed at an Intelligence o
 
 This ability replaces haunt channeler, location channel, connection channel, and ask the spirits.
 
-**Ex-Fiend Keepers**: A fiend keeper who becomes permanently evil loses control of the spirit after 1d4+1 days, at which point he becomes an NPC under the GM's full control. Seeking an *atonement* spell before then can change the medium's alignment. This effect also can be undone with a *limited wish*, *miracle*, or *wish* spell.
+**Ex-Fiend Keepers**: A fiend keeper who becomes permanently evil loses control of the spirit after 1d4+1 days, at which point he becomes an NPC under the GM's full control. Seeking an *atonement* spell before then can change the medium's alignment. This effect also can be undone with a [*limited wish*](../../magic/spells/limited-wish.md), [*miracle*](../../magic/spells/miracle.md), or [*wish*](../../magic/spells/wish.md) spell.
 
 ## Ancestral Spirit Channeler
 
@@ -694,7 +694,7 @@ Ancestral spirit channelers are mediums who practice an ancient philosophy teach
 
 **Mind and Soul (Ex)**: An ancestral spirit channeler chooses whether she uses her Wisdom or Charisma score to determine the effects of her medium class abilities (including this archetype's abilities). This includes (but is not limited to) the minimum ability score needed to learn or cast a medium spell, the save DC of her medium spells, the number of bonus spells (if any) she receives for having a high ability score, the number of times per day she can use her medium abilities, and the effects of her spirit's abilities. This choice is made at 1st level, and once made, it can't be changed. An ancestral spirit channeler knows one fewer spell of each spell level that she can cast than is indicated on the medium spells known table. This alters the medium's spellcasting.
 
-**Iron Spirit**: An ancestral spirit channeler gains Iron Will as a bonus feat at 1st level and Improved Iron Will at 10th level.
+**Iron Spirit**: An ancestral spirit channeler gains [Iron Will](../../rules/feats/iron-will.md) as a bonus feat at 1st level and [Improved Iron Will](../../rules/feats/improved-iron-will.md) at 10th level.
 
 **Spiritual Invocation (Su)**: Rather than channel the legend of a single spirit for 24 hours, an ancestral spirit channeler can invite a nearby local spirit into her body for 24 hours. This functions exactly like the spirit dance ability of the spirit dancer medium archetype, except the ancestral spirit channeler doesn't need to find an appropriate location to channel her spirits since she invites nearby spirits into her body instead of channeling a legend. This alters spirit and replaces spirit bonus and spirit surge.
 
@@ -710,7 +710,7 @@ Fate vessels are powerful mediums who are sensitive to the presence and desires 
 
 **Class Skills**: A fate vessel adds Knowledge (geography) and Knowledge (nature) to his list of class skills, instead of Perform. This alters the medium's class skills.
 
-**Fate Spirit (Su)**: Rather than channeling spirits, a fate vessel channels fate spirits, otherworldly entities that walk among mortals. This functions like channeling a spirit, except instead of requiring a favored location to channel a fate spirit, a fate vessel must offer the spirit a sacrifice worth at least 50 gp per Hit Die the fate vessel has. Alternatively, the fate vessel can instead accept 1 point of burn, as per the kineticist class ability, instead of sacrificing material wealth. While channeling a fate spirit, the fate vessel gains the domain powers of two domains, chosen from the druid animal and terrain domains and the following cleric domains: Air, Animal, Community, Darkness, Death, Destruction, Earth, Fire, Healing, Knowledge, Protection, Rune, Strength, Sun, Trickery, War, Water, or Weather. The fate vessel has an effective cleric or druid level equal to his medium level for the purpose of this ability. In addition, he adds all spells from his chosen domain that are of a spell level he can cast (including modifications to his spellcasting from the archmage arcana or divine surge lesser spirit powers) to his medium spell list and medium spells known as medium spells of their domain spell level. A fate vessel cannot invite allies to a seance to summon a fate spirit, and by channeling one, the fate vessel allows the entity to gain 2 points of influence over him. If any sentient creature that doesn't revere the fate spirits witnesses the fate vessel's seance, both creatures become permanently cursed with a –2 penalty on all d20 rolls and checks (as per *bestow curse*) and the attempt fails. This ability alters spirit.
+**Fate Spirit (Su)**: Rather than channeling spirits, a fate vessel channels fate spirits, otherworldly entities that walk among mortals. This functions like channeling a spirit, except instead of requiring a favored location to channel a fate spirit, a fate vessel must offer the spirit a sacrifice worth at least 50 gp per Hit Die the fate vessel has. Alternatively, the fate vessel can instead accept 1 point of burn, as per the kineticist class ability, instead of sacrificing material wealth. While channeling a fate spirit, the fate vessel gains the domain powers of two domains, chosen from the druid animal and terrain domains and the following cleric domains: Air, Animal, Community, Darkness, Death, Destruction, Earth, Fire, Healing, Knowledge, Protection, Rune, Strength, Sun, Trickery, War, Water, or Weather. The fate vessel has an effective cleric or druid level equal to his medium level for the purpose of this ability. In addition, he adds all spells from his chosen domain that are of a spell level he can cast (including modifications to his spellcasting from the archmage arcana or divine surge lesser spirit powers) to his medium spell list and medium spells known as medium spells of their domain spell level. A fate vessel cannot invite allies to a seance to summon a fate spirit, and by channeling one, the fate vessel allows the entity to gain 2 points of influence over him. If any sentient creature that doesn't revere the fate spirits witnesses the fate vessel's seance, both creatures become permanently cursed with a –2 penalty on all d20 rolls and checks (as per [*bestow curse*](../../magic/spells/bestow-curse.md)) and the attempt fails. This ability alters spirit.
 
 ??? note "Original rule"
 
@@ -718,7 +718,7 @@ Fate vessels are powerful mediums who are sensitive to the presence and desires 
 
 **Whispered Secrets (Ex)**: At 2nd level, a fate vessel learns most of his information through tales and secrets whispered to him by the fate spirits. He adds his Charisma bonus (if any) to all Knowledge checks that he attempts in addition to his Intelligence modifier. This ability replaces shared seance.
 
-**Spirit Tongue (Su)**: At 3rd level, a fate vessel can invoke the fate spirits to commune with nearby spirits for a number of minutes per day equal to his level. These minutes don't need to be used consecutively, but they must be spent in 1-minute increments. The fate vessel can use this ability to speak with corpses (as per *speak with dead*) at 3rd level, with animals and plants (as per *speak with animals* or *speak with plants*) at 5th level, and with humanoids (as per *tongues*) at 7th level. This ability replaces haunt channeler, location channel, and connection channel.
+**Spirit Tongue (Su)**: At 3rd level, a fate vessel can invoke the fate spirits to commune with nearby spirits for a number of minutes per day equal to his level. These minutes don't need to be used consecutively, but they must be spent in 1-minute increments. The fate vessel can use this ability to speak with corpses (as per [*speak with dead*](../../magic/spells/speak-with-dead.md)) at 3rd level, with animals and plants (as per *speak with animals* or [*speak with plants*](../../magic/spells/speak-with-plants.md)) at 5th level, and with humanoids (as per *tongues*) at 7th level. This ability replaces haunt channeler, location channel, and connection channel.
 
 ## Medium of the Master
 
@@ -728,7 +728,7 @@ Fate vessels are powerful mediums who are sensitive to the presence and desires 
 
 **Armor Proficiency**: A medium of the master is proficient with only light armor. This alters the medium's armor proficiency.
 
-**Unarmed Strike**: A medium of the master gains Improved Unarmed Strike as a bonus feat.
+**Unarmed Strike**: A medium of the master gains [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat.
 
 **Dedicated Spirit (Su)**: A medium of the master can channel only a champion spirit. A medium of the master can channel that spirit in places of quiet introspection, such as an underground grotto, peaceful glade, or windswept peak, in addition to a champion spirit's favored locations. This alters spirit.
 
@@ -784,11 +784,11 @@ Fate vessels are powerful mediums who are sensitive to the presence and desires 
 
 **Spiritual Swan Song (Sp)**: At 15th level, when the circumstances are right, the vessel of the fallen can become a conduit for his spirit's brush with divinity. Whenever the vessel makes a successful saving throw via the will of the fallen ability to avoid completely losing control to his spirit, the vessel gains one use of a spell-like ability tied to the spirit's legend, as noted below. When he gains a use of a spell-like ability, the vessel of the fallen can expend it anytime before his next séance. (A vessel might gain multiple uses of these spell-like abilities, depending on how many times he successfully saves to avoid losing control to a spirit.) However, if he loses contact with a spirit during that time, he also loses all uses of the spell-like ability gained from avoiding losing control to that spirit. If the vessel does not expend his uses of these abilities, they disappear when he loses contact with that spirit or when he starts a new séance, whichever comes first. This replaces trance of three.
 
-*Archmage*: The vessel can cast *chain lightning*, *freezing sphere*, or *sirocco* as a spell-like ability. The vessel must choose which one when he gains a use of this ability. If he gains multiple uses of this ability in a single séance period, the vessel can make a different choice each time.
+*Archmage*: The vessel can cast [*chain lightning*](../../magic/spells/chain-lightning.md), [*freezing sphere*](../../magic/spells/freezing-sphere.md), or [*sirocco*](../../magic/spells/sirocco.md) as a spell-like ability. The vessel must choose which one when he gains a use of this ability. If he gains multiple uses of this ability in a single séance period, the vessel can make a different choice each time.
 
-*Champion*: The vessel can cast *blade barrier* as a spell-like ability.
+*Champion*: The vessel can cast [*blade barrier*](../../magic/spells/blade-barrier.md) as a spell-like ability.
 
-*Guardian*: The vessel can cast *antimagic field* as a spell-like ability.
+*Guardian*: The vessel can cast [*antimagic field*](../../magic/spells/antimagic-field.md) as a spell-like ability.
 
 *Hierophant*: The vessel can cast *cure moderate wounds (mass)* or *inflict moderate wounds (mass)* as a spell-like ability. The vessel must choose which of these two he can use when he gains a use of this ability. If the vessel gains multiple uses of this ability in a single séance period, he can choose a different spell-like ability each time.
 

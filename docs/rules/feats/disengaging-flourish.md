@@ -4,7 +4,7 @@
 
 Distracting your opponents gives you the opportunity to make a swift retreat.
 
-**Prerequisites**: Disengaging Feint, Improved Feint.
+**Prerequisites**: [Disengaging Feint](disengaging-feint.md), [Improved Feint](improved-feint.md).
 
 **Benefit**: As a standard action, make a Bluff check against each opponent that currently threatens you. If you succeed against at least one opponent, you can move up to your speed. This movement does not provoke attacks of opportunity from any opponent you succeeded at feinting against.
 

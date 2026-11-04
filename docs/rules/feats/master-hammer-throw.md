@@ -4,7 +4,7 @@
 
 Your ability to knock down foes with thrown weapons is second to none.
 
-**Prerequisites**: Hammer Throw, Improved Hammer Throw, Improved Trip, Point-Blank Shot, Precise Shot, base attack bonus +6, dwarf.
+**Prerequisites**: [Hammer Throw](hammer-throw.md), [Improved Hammer Throw](improved-hammer-throw.md), [Improved Trip](improved-trip.md), [Point-Blank Shot](point-blank-shot.md), [Precise Shot](precise-shot.md), base attack bonus +6, dwarf.
 
 **Benefit**: You can immediately attempt a trip combat maneuver against a target that you successfully hit and damage with a thrown bludgeoning weapon with any attack, even as part of a full-attack action.
 

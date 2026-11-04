@@ -26,7 +26,7 @@ Trox were once members of a much smaller and more docile race of subterranean bu
 
 ## Replaces Burrow, Frenzy
 
-** Tremorsense**
+**Tremorsense**
 
 Some trox have developed a closeness to the earth that helps them thwart the invisibility of their duergar enemies. They gain tremorsense to a range of 30 feet. This racial trait replaces frenzy and burrow.
 

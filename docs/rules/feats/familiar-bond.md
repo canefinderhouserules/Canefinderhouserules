@@ -2,7 +2,7 @@
 
 You have learned a ritual that allows you to gain a familiar.
 
-**Prerequisites**: Iron Will.
+**Prerequisites**: [Iron Will](iron-will.md).
 
 **Benefit**: You gain a familiar, as the wizard arcane bond class feature. You do not gain the special ability the familiar normally grants its master, and the familiar does not gain the deliver touch spells, scry on familiar, share spells, speak with animals of its kind, or spell resistance special abilities. Otherwise, your total Hit Dice are used as your wizard level for determining the familiar’s abilities.
 

@@ -8,7 +8,7 @@ Instead, they rely on the faculties of their familiar to aid them in their jobs 
 
 **Bonded Familiar (Ex)**
 
-At 1st level, the bonded investigator gains Familiar Bond feat as a bonus feat without having to meet the prerequisites. At 4th level, the bonded investigator gains Improved Familiar Bond as a bonus feat without needing to meet the prerequisites. This ability replaces the studied strike at 1st level.
+At 1st level, the bonded investigator gains [Familiar Bond](../../../rules/feats/familiar-bond.md) feat as a bonus feat without having to meet the prerequisites. At 4th level, the bonded investigator gains [Improved Familiar Bond](../../../rules/feats/improved-familiar-bond.md) as a bonus feat without needing to meet the prerequisites. This ability replaces the studied strike at 1st level.
 
 **Course of Study (Ex)**
 
@@ -28,7 +28,7 @@ At 6th level, the bonded investigator gains the 3rd-level benefits of danger sen
 
 **Improved Familiar (Ex)**
 
-At 7th level, the bonded investigator gains Improved Familiar as a bonus feat treating their legendary investigator level as their arcane caster level for the purposes of determining which familiars are available to them. This ability replaces the investigator talent gained at 7th level.
+At 7th level, the bonded investigator gains [Improved Familiar](../../../rules/feats/improved-familiar.md) as a bonus feat treating their legendary investigator level as their arcane caster level for the purposes of determining which familiars are available to them. This ability replaces the investigator talent gained at 7th level.
 
 ## Gadgeteer
 
@@ -120,7 +120,7 @@ At 3rd level, a lamplighter adds all spells with the light descriptor to his spe
 
 **Ready for Revelation (Ex)**
 
-At 3rd level, a lamplighter can use inspiration on initiative checks without spending a use of inspiration. They can use their Intelligence modifier in place of their Dexterity modifier on initiative checks. At 6th level, if the lamplighter has Quick Draw, they can draw a weapon as part of his initiative check. At 9th level, the lamplighter isn’t flatfooted before they acts in the first round of combat.
+At 3rd level, a lamplighter can use inspiration on initiative checks without spending a use of inspiration. They can use their Intelligence modifier in place of their Dexterity modifier on initiative checks. At 6th level, if the lamplighter has [Quick Draw](../../../rules/feats/quick-draw.md), they can draw a weapon as part of his initiative check. At 9th level, the lamplighter isn’t flatfooted before they acts in the first round of combat.
 
 At 12th level, the lamplighter adds their Intelligence bonus as well as their Dexterity bonus to initiative checks. At 15th level, the lamplighter can act last during the surprise round even if they are otherwise unaware combat has started. At 18th level, the lamplighter is not limited to just a move or standard action during the surprise round—they can act normally. This ability replaces keen recollection and danger sense.
 
@@ -140,7 +140,7 @@ A malice binder is unable to apply their inspiration to all Intelligence-based s
 
 **Take a Bit (Ex)**
 
-The malice binder gains Improved Steal as a bonus feat at 1st level. At 3rd level, they can use inspiration to improve a steal combat maneuver check by spending one use of inspiration rather than two.
+The malice binder gains [Improved Steal](../../../rules/feats/improved-steal.md) as a bonus feat at 1st level. At 3rd level, they can use inspiration to improve a steal combat maneuver check by spending one use of inspiration rather than two.
 
 This ability replaces keen recollection.
 
@@ -162,7 +162,7 @@ This ability replaces power source and the legendary investigator is unable to c
 
 **Take a Bit More (Ex)**
 
-At 7th level, taking a bit of clothing or hair to use as a token becomes second nature for the malice binder. He gains Quick Steal as a bonus feat. When attempting to steal a token, he gains a +2 competence bonus on combat maneuver checks. This ability replaces the investigator talent gained at 7th level.
+At 7th level, taking a bit of clothing or hair to use as a token becomes second nature for the malice binder. He gains [Quick Steal](../../../rules/feats/quick-steal.md) as a bonus feat. When attempting to steal a token, he gains a +2 competence bonus on combat maneuver checks. This ability replaces the investigator talent gained at 7th level.
 
 **Divine Dread (Su)**
 

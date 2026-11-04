@@ -25,13 +25,13 @@ To qualify to become a riftwarden, a character must fulfill all of the following
 
 **Alignment**: Any nonevil.
 
-**Feats**: Spell Focus (abjuration), Spell Penetration.
+**Feats**: Spell Focus (abjuration), [Spell Penetration](../../rules/feats/spell-penetration.md).
 
 **Skills**: Knowledge (planes) 5 ranks.
 
 **Special**: Able to speak Abyssal and Infernal.
 
-**Spells**: Able to cast *magic circle against evil* as a spell or spell-like ability.
+**Spells**: Able to cast [*magic circle against evil*](../../magic/spells/magic-circle-against-evil.md) as a spell or spell-like ability.
 
 ### Class Skills
 
@@ -45,7 +45,7 @@ The following are class features of the riftwarden prestige class.
 
 **Weapon and Armor Proficiency**: A riftwarden gains no additional weapon or armor proficiencies.
 
-**Counter-Summons (Su)**: A riftwarden can ready an action to use a *summon monster* spell or spell-like ability as a counterspell, even though the casting time for a *summon monster* spell is 1 full round. When used this way, the *summon monster* spell is treated as though quickened to a swift action via the Quicken Spell metamagic feat, though its spell level is not increased, and it can be used only to counterspell. When used to counterspell, a *summon monster* spell can counter any conjuration (summoning) spell or spell-like ability of its level or lower, including an outsider’s summon ability. At 5th level, this ability can be used as an immediate action, without the need to ready an action beforehand.
+**Counter-Summons (Su)**: A riftwarden can ready an action to use a *summon monster* spell or spell-like ability as a counterspell, even though the casting time for a *summon monster* spell is 1 full round. When used this way, the *summon monster* spell is treated as though quickened to a swift action via the [Quicken Spell](../../rules/feats/quicken-spell.md) metamagic feat, though its spell level is not increased, and it can be used only to counterspell. When used to counterspell, a *summon monster* spell can counter any conjuration (summoning) spell or spell-like ability of its level or lower, including an outsider’s summon ability. At 5th level, this ability can be used as an immediate action, without the need to ready an action beforehand.
 
 **Planar Guide (Ex)**: At 1st level and every three levels thereafter, a riftwarden chooses one of the following benefits. She may choose each benefit more than once, each time applying to a different plane or outsider subtype. These bonuses stack with similar bonuses from other classes, but unlike with a ranger’s abilities, these bonuses do not escalate when new enemies or terrains are selected.
 
@@ -63,6 +63,6 @@ The following are class features of the riftwarden prestige class.
 
 **Improved Counterport (Su)**: At 7th level, a riftwarden can use her counterport ability to forcibly redirect a creature using a teleportation effect within 30 feet to a new valid destination within 30 feet of her. The wrenching redirection deals 1d6 points of damage per class level to the redirected creature. A successful Fortitude save (DC 10 + the riftwarden’s character level + the riftwarden’s Cha modifier) halves the damage and negates the redirection. In addition, when a conjuration effect causes a creature to appear in a square threatened by the riftwarden, that creature provokes an attack of opportunity from the riftwarden.
 
-**Planar Purge (Su)**: At 8th level, an extraplanar creature that fails its save against a riftwarden’s planar channel is banished to its home plane (as the *banishment* spell; no save). Extraplanar creatures with Hit Dice greater than twice the riftwarden’s class level are unaffected by this ability, but still take damage from planar channel as normal.
+**Planar Purge (Su)**: At 8th level, an extraplanar creature that fails its save against a riftwarden’s planar channel is banished to its home plane (as the [*banishment*](../../magic/spells/banishment.md) spell; no save). Extraplanar creatures with Hit Dice greater than twice the riftwarden’s class level are unaffected by this ability, but still take damage from planar channel as normal.
 
 **Greater Counterport (Su)**: At 10th level, a riftwarden can counter a teleportation effect as an immediate action, without the need to ready an action beforehand. In addition, as a full-round action, the riftwarden can expend two uses of her planar channel ability to forcibly recall a creature that used teleportation to exit an area within 30 feet of the riftwarden since the end of the riftwarden’s last turn. Planar channel deals damage equal to the amount normally dealt by one use of planar channel. This damage affects only that target, and affects it regardless of its current distance from the riftwarden. If the target fails its save, the teleportation effect is reversed and the creature returns to the point from which it teleported (or the nearest available space, if that space is now occupied by another creature).

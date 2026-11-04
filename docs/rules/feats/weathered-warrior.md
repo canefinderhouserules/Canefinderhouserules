@@ -4,7 +4,7 @@
 
 You have a steady hand in any weather.
 
-**Prerequisites**: Endurance.
+**Prerequisites**: [Endurance](endurance.md).
 
 **Benefit**: In areas of strong or severe wind or when affected by wind effects or spells that penalize ranged attacks, you take only half the ranged attack penalty. You can make ranged attacks in windstorm-level winds at a –4 penalty.
 

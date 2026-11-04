@@ -4,7 +4,7 @@
 
 You use the weight of your armor to enhance the momentum of your charge.
 
-**Prerequisites**: Str 13, Improved Overrun, Power Attack, proficiency with heavy armor.
+**Prerequisites**: Str 13, [Improved Overrun](improved-overrun.md), [Power Attack](power-attack.md), proficiency with heavy armor.
 
 **Benefit**: While using this style, you gain a +4 bonus on combat maneuver checks to overrun an opponent. Any magic ability or material that reduces your armor check penalty also reduces the bonus you gain for this style.
 

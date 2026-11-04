@@ -105,11 +105,11 @@ At 4th level, aeon eidolons gain the benefits of the moderate fortification armo
 
 At 8th level, aeon eidolons gain the flight evolution (using magic) with a speed equal to their base speed.
 
-At 12th level, aeon eidolons gain the ability to influence either emotions or time as a standard action, as chosen by the summoner. Whenever the summoner gains a level, he can change which ability the eidolon influences. When affecting emotions, an aeon eidolon affects up to five targets within 30 feet as *crushing despair*. A target can negate this effect with a successful Will save (DC = 14 + the eidolon's Charisma modifier). For each target that fails its save, the eidolon can affect one other creature within 30 feet as *good hope*. The caster level equals the eidolon's Hit Dice, and the save DC is equal to 10 + half the eidolon's Hit Dice + the eidolon's Charisma modifier. When affecting time, the ability functions in the same way, but the eidolon affects primary targets as *slow* and secondary targets as *haste*. The eidolon can use this ability once per day for every 5 Hit Dice it has.
+At 12th level, aeon eidolons gain the ability to influence either emotions or time as a standard action, as chosen by the summoner. Whenever the summoner gains a level, he can change which ability the eidolon influences. When affecting emotions, an aeon eidolon affects up to five targets within 30 feet as [*crushing despair*](../../magic/spells/crushing-despair.md). A target can negate this effect with a successful Will save (DC = 14 + the eidolon's Charisma modifier). For each target that fails its save, the eidolon can affect one other creature within 30 feet as [*good hope*](../../magic/spells/good-hope.md). The caster level equals the eidolon's Hit Dice, and the save DC is equal to 10 + half the eidolon's Hit Dice + the eidolon's Charisma modifier. When affecting time, the ability functions in the same way, but the eidolon affects primary targets as [*slow*](../../magic/spells/slow.md) and secondary targets as [*haste*](../../magic/spells/haste.md). The eidolon can use this ability once per day for every 5 Hit Dice it has.
 
 At 16th level, aeon eidolons become immune to critical hits, poison, and sneak attacks.
 
-At 20th level, aeon eidolons gain the ability to cast *moment of prescience* (CL 20th) as a spell-like ability three times per day.
+At 20th level, aeon eidolons gain the ability to cast [*moment of prescience*](../../magic/spells/moment-of-prescience.md) (CL 20th) as a spell-like ability three times per day.
 
 ### Agathion
 
@@ -147,7 +147,7 @@ At 8th level, the ancestor eidolon gains the skilled evolution with two skills t
 
 At 12th level, the ancestor eidolon gains the abilities noted under its chosen simple class templates as if it were a creature with 5 Hit Dice, rather than 1 Hit Die. The eidolon doesn't gain any abilities that a character with 5 levels in the class associated with the chosen template wouldn't have.
 
-At 16th level, the ancestor eidolon gains a bonus feat, chosen from the following list: Dodge, Great Fortitude, Improved Initiative, Iron Will, Lightning Reflexes, Toughness, or any feat that lists the eidolon's chosen race as a prerequisite. The eidolon must meet all of the chosen feat's prerequisites.
+At 16th level, the ancestor eidolon gains a bonus feat, chosen from the following list: Dodge, [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Toughness, or any feat that lists the eidolon's chosen race as a prerequisite. The eidolon must meet all of the chosen feat's prerequisites.
 
 At 20th level, the ancestor eidolon gains the abilities noted under its chosen simple class templates as if it were a creature with 10 Hit Dice, rather than 5 Hit Dice. The eidolon doesn't gain any abilities that a character with 10 levels in the class associated with the chosen template wouldn't have.
 
@@ -337,9 +337,9 @@ At 4th level, genie eidolons gain the ability to grow in size twice per day as a
 
 At 8th level, genie eidolons gain either the flight evolution (using magic) with a speed equal to their base speed; the burrow evolution; or the gills evolution, plus the swim evolution twice, gaining a swim speed equal to their base speed + 20 feet.
 
-At 12th level, genie eidolons lose the resistance evolution gained at 1st level and instead gain the immunity evolution to the selected energy type. They can also cast *plane shift* as a spell-like ability once per day (CL 12th), but only to transport willing targets to the Astral Plane, Elemental Planes, or Material Plane.
+At 12th level, genie eidolons lose the resistance evolution gained at 1st level and instead gain the immunity evolution to the selected energy type. They can also cast [*plane shift*](../../magic/spells/plane-shift.md) as a spell-like ability once per day (CL 12th), but only to transport willing targets to the Astral Plane, Elemental Planes, or Material Plane.
 
-At 16th level, once per day as a standard action, genie eidolons can cast *cleanse* or *greater evolution surge* (CL 16th) on themselves as a spell-like ability, but only in response to their masters’ spoken wish (such as “I wish you were stronger”). The master can make such a wish as a free action.
+At 16th level, once per day as a standard action, genie eidolons can cast [*cleanse*](../../magic/spells/cleanse.md) or *greater evolution surge* (CL 16th) on themselves as a spell-like ability, but only in response to their masters’ spoken wish (such as “I wish you were stronger”). The master can make such a wish as a free action.
 
 At 20th level, genie eidolons gain the 20th-level base evolutions of an elemental eidolon of any one element.
 
@@ -413,9 +413,9 @@ At 8th level, radiant eidolons grow feathery wings, gaining the flight evolution
 
 At 12th level, radiant eidolons gain the fast healing evolution.
 
-At 16th level, radiant eidolons gain the ability to cast *cure serious wounds* three times per day. When a radiant eidolon's summoner dies or falls unconscious within 60 feet as a result of hit point loss, the eidolon can die as an immediate action to grant the summoner the benefits of *breath of life*. The caster level for both abilities equals the eidolon's Hit Dice.
+At 16th level, radiant eidolons gain the ability to cast [*cure serious wounds*](../../magic/spells/cure-serious-wounds.md) three times per day. When a radiant eidolon's summoner dies or falls unconscious within 60 feet as a result of hit point loss, the eidolon can die as an immediate action to grant the summoner the benefits of [*breath of life*](../../magic/spells/breath-of-life.md). The caster level for both abilities equals the eidolon's Hit Dice.
 
-At 20th level, radiant eidolons deal an additional 2 points of damage per die rolled against undead creatures when attacking with the energy attacks or breath weapon evolutions. Whenever radiant eidolons are subjected to a magical healing effect, the effect functions at its full potential, as if enhanced by Maximize Spell.
+At 20th level, radiant eidolons deal an additional 2 points of damage per die rolled against undead creatures when attacking with the energy attacks or breath weapon evolutions. Whenever radiant eidolons are subjected to a magical healing effect, the effect functions at its full potential, as if enhanced by [Maximize Spell](../../rules/feats/maximize-spell.md).
 
 ### Shadow
 
@@ -425,17 +425,17 @@ Summoned from the dreary shadowscapes of the Plane of Shadow, shadow eidolons ar
 
 **Base Form**: Biped (claws, limbs [arms], limbs [legs]), quadruped (limbs [legs, 2], bite), or serpentine (bite, improved natural armor, reach [bite], tail, tail slap).
 
-**Base Evolutions**: At 1st level, shadow eidolons gain the resistance (cold) and resistance (electricity) evolutions. They also gain the ability to cast *darkness* as a spell-like ability three times per day. The caster level for this spell-like ability is equal to the eidolon's Hit Dice.
+**Base Evolutions**: At 1st level, shadow eidolons gain the resistance (cold) and resistance (electricity) evolutions. They also gain the ability to cast [*darkness*](../../magic/spells/darkness.md) as a spell-like ability three times per day. The caster level for this spell-like ability is equal to the eidolon's Hit Dice.
 
 At 4th level, shadow eidolons effortlessly blend into the shadows, giving them concealment (20% miss chance) in any illumination other than bright light. In dim light or darkness, shadow eidolons have a 50% miss chance instead of the normal 20% miss chance; this doesn't grant the eidolons total concealment. A shadow eidolon can suspend or resume this ability as a free action.
 
 At 8th level, shadow eidolons gain DR 5/magic and increase the range of their darkvision to 90 feet. In addition, they add 1 point to their evolution pools.
 
-At 12th level, shadow eidolons lose the ability to cast *darkness* as a spell-like ability and instead gain the ability to cast *deeper darkness* as a spell-like ability three times per day. In addition, they gain the see in darkness universal monster ability.
+At 12th level, shadow eidolons lose the ability to cast *darkness* as a spell-like ability and instead gain the ability to cast [*deeper darkness*](../../magic/spells/deeper-darkness.md) as a spell-like ability three times per day. In addition, they gain the see in darkness universal monster ability.
 
 At 16th level, shadow eidolons' damage reduction increases to DR 10/magic and they gain the spell resistance evolution.
 
-At 20th level, shadow eidolons increase the range of their darkvision to 120 feet and gain the ability to cast *shadow step* as a spell-like ability at will. Three times per day, a shadow eidolon can quicken this spell-like ability, functioning as the Quicken Spell-Like Ability feat.
+At 20th level, shadow eidolons increase the range of their darkvision to 120 feet and gain the ability to cast [*shadow step*](../../magic/spells/shadow-step.md) as a spell-like ability at will. Three times per day, a shadow eidolon can quicken this spell-like ability, functioning as the Quicken Spell-Like Ability feat.
 
 ### Storykin
 
@@ -487,7 +487,7 @@ The vast, lightless reaches of the sea are home to creatures of unimaginable pow
 
 **Base Form**: Serpentine (bite, grab [tail slap], reach [tail slap], tail, tail slap).
 
-**Base Evolutions**: Starting at 1st level, deepwater eidolons gain the gills, resistance (cold), and swim evolutions. At 4th level, deepwater eidolons gain the jet ability at a speed of 200 feet and increase the range of their darkvision to 120 feet. At 8th level, deepwater eidolons gain the poison evolution for all tail slap and tentacle attacks, although the poison can be used only once per round. The summoner can spend 2 evolution points to make this poison deal Constitution damage instead of Strength damage, as normal for the poison evolution. At 12th level, deepwater eidolons gain DR 5/magic. They also gain the rend evolution for tentacle attacks rather than claw attacks. At 16th level, deepwater eidolons lose the resistance (cold) evolution and instead gain the immunity (cold) evolution. At 20th level, deepwater eidolons gain constant *freedom of movement* and fast healing 5.
+**Base Evolutions**: Starting at 1st level, deepwater eidolons gain the gills, resistance (cold), and swim evolutions. At 4th level, deepwater eidolons gain the jet ability at a speed of 200 feet and increase the range of their darkvision to 120 feet. At 8th level, deepwater eidolons gain the poison evolution for all tail slap and tentacle attacks, although the poison can be used only once per round. The summoner can spend 2 evolution points to make this poison deal Constitution damage instead of Strength damage, as normal for the poison evolution. At 12th level, deepwater eidolons gain DR 5/magic. They also gain the rend evolution for tentacle attacks rather than claw attacks. At 16th level, deepwater eidolons lose the resistance (cold) evolution and instead gain the immunity (cold) evolution. At 20th level, deepwater eidolons gain constant [*freedom of movement*](../../magic/spells/freedom-of-movement.md) and fast healing 5.
 
 ### Kami
 
@@ -649,7 +649,7 @@ The save DC is equal to 10 + 1/2 the eidolon’s Hit Dice + the eidolon’s Cons
 
 **Trip (Ex)**: The eidolon becomes adept at knocking foes to the ground with its bite, granting it a trip attack. Whenever the eidolon makes a successful bite attack, it can attempt a free combat maneuver check. If the eidolon succeeds at this check, the target is knocked prone. If the eidolon fails, it is not tripped in return. This ability works only on creatures of a size category equal to or smaller than the eidolon. Requirements: Daemon, demon, devil, elemental, or protean subtype; bite evolution.
 
-**Weapon Training (Ex)**: The eidolon learns to use a weapon, gaining Simple Weapon Proficiency as a bonus feat. If 2 additional evolution points are spent, it gains proficiency with all martial weapons as well.
+**Weapon Training (Ex)**: The eidolon learns to use a weapon, gaining [Simple Weapon Proficiency](../../rules/feats/simple-weapon-proficiency.md) as a bonus feat. If 2 additional evolution points are spent, it gains proficiency with all martial weapons as well.
 
 ### 3-Point Evolutions
 
@@ -732,7 +732,7 @@ Alien entities from the farthest stars, the lightless depths of the Underworld, 
 - At 8th level, aberrant eidolons gain immunity to mind-affecting effects (including morale bonuses).
 - At 12th level, aberrant eidolons gain DR 5/slashing. They also gain the blindsense evolution as a bonus evolution.
 - At 16th level, aberrant eidolons gain the blindsight evolution. They also gain telepathy with a range of up to 100 feet.
-- At 20th level, aberrant eidolons gain the ability to use *transmogrify* as a quickened spell-like ability once per day. These eidolons can gain the benefit of a *transmogrify* spell any number of times per day.
+- At 20th level, aberrant eidolons gain the ability to use [*transmogrify*](../../magic/spells/transmogrify.md) as a quickened spell-like ability once per day. These eidolons can gain the benefit of a *transmogrify* spell any number of times per day.
 
 ### Aberrant Base Form
 
@@ -746,7 +746,7 @@ The following evolutions are used by aberrant eidolons and other strange eidolon
 
 #### 1-Point Evolutions
 
-**Basic Psychic Magic**: Select one spell from the following list: *dancing lights*, *detect magic*, *ghost sound*, *grave words*, *know direction*, *lullaby*, *mage hand*, *open/close*, or *telekinetic projectile*. The eidolon can cast that spell as a psychic spell at will. The spell requires thought and emotion components as normal for psychic magic. The eidolon's caster level is equal to the eidolon's Hit Dice – 2 (minimum CL 1st). The save DC equals 10 + 1/2 the eidolon's HD + the eidolon's Charisma modifier. This evolution can be selected more than once, selecting a different spell each time. *Requirements*: Aberrant subtype, Charisma 10.
+**Basic Psychic Magic**: Select one spell from the following list: [*dancing lights*](../../magic/spells/dancing-lights.md), [*detect magic*](../../magic/spells/detect-magic.md), [*ghost sound*](../../magic/spells/ghost-sound.md), [*grave words*](../../magic/spells/grave-words.md), [*know direction*](../../magic/spells/know-direction.md), [*lullaby*](../../magic/spells/lullaby.md), [*mage hand*](../../magic/spells/mage-hand.md), *open/close*, or [*telekinetic projectile*](../../magic/spells/telekinetic-projectile.md). The eidolon can cast that spell as a psychic spell at will. The spell requires thought and emotion components as normal for psychic magic. The eidolon's caster level is equal to the eidolon's Hit Dice – 2 (minimum CL 1st). The save DC equals 10 + 1/2 the eidolon's HD + the eidolon's Charisma modifier. This evolution can be selected more than once, selecting a different spell each time. *Requirements*: Aberrant subtype, Charisma 10.
 
 **Tentacle Mass (Ex)**: The eidolon grows a thick mass of tentacles that can be used as a primary natural weapon. The tentacles deal 1d8 points of damage if the eidolon is Medium. Eidolons with the grab evolution that is linked to a tentacle mass can use that ability to grapple foes of up to the eidolon's size, and they can also use this evolution in place of the serpentine base form to qualify for the constrict evolution. *Requirements*: Aberrant subtype.
 
@@ -754,11 +754,11 @@ The following evolutions are used by aberrant eidolons and other strange eidolon
 
 **Blood Frenzy (Ex)**: When the eidolon is dealt damage, it enters a blood frenzy. It gains a +2 morale bonus on attack rolls and weapon damage rolls and attacks the nearest creature each round, friend or foe, although it ceases attacking its summoner after hitting once. The frenzy lasts for 5 rounds or until the eidolon can perceive no creatures. At the end of that time, the eidolon is fatigued for 1 minute. It cannot enter a blood frenzy while fatigued. *Requirements*: Aberrant, daemon, or demon subtype; summoner level 7th.
 
-**Intermediate Psychic Magic**: The eidolon gains 2 points of psychic energy that it can spend each day. Select one spell from the following list: *compel hostility*, *lesser confusion*, *hypnotism*, *mind thrust I*, or *vanish*. The eidolon can use that spell thereafter as a psychic spell by spending 1 point of psychic energy. The caster level and save DC are the same as for basic psychic magic. This evolution can be selected more than once, selecting a different spell each time. The eidolon's amount of psychic energy available to spend each day does not stack; it uses only the highest number of points granted by its most powerful psychic magic evolution. *Requirements*: Aberrant subtype; basic psychic magic evolution; Charisma 11; summoner level 5th.
+**Intermediate Psychic Magic**: The eidolon gains 2 points of psychic energy that it can spend each day. Select one spell from the following list: [*compel hostility*](../../magic/spells/compel-hostility.md), *lesser confusion*, [*hypnotism*](../../magic/spells/hypnotism.md), *mind thrust I*, or [*vanish*](../../magic/spells/vanish.md). The eidolon can use that spell thereafter as a psychic spell by spending 1 point of psychic energy. The caster level and save DC are the same as for basic psychic magic. This evolution can be selected more than once, selecting a different spell each time. The eidolon's amount of psychic energy available to spend each day does not stack; it uses only the highest number of points granted by its most powerful psychic magic evolution. *Requirements*: Aberrant subtype; basic psychic magic evolution; Charisma 11; summoner level 5th.
 
 #### 3-Point Evolutions
 
-**Advanced Psychic Magic**: The eidolon gains 5 points of psychic energy that it can spend each day. Select one spell from the following list: *darkness*, *detect thoughts*, *disfiguring touch*, *id insinuation I*, *mind thrust II*, or *touch of idiocy*. The eidolon can cast that spell as a psychic spell by spending 2 points of psychic energy. The caster level and save DC are the same as for basic psychic magic. This evolution can be selected more than once, selecting a different spell each time. The eidolon's amount of psychic energy available to spend each day does not stack; it uses only the highest number of points granted by its most powerful psychic magic evolution. *Requirements*: Aberrant subtype; intermediate psychic magic evolution; Charisma 12; summoner level 7th.
+**Advanced Psychic Magic**: The eidolon gains 5 points of psychic energy that it can spend each day. Select one spell from the following list: *darkness*, [*detect thoughts*](../../magic/spells/detect-thoughts.md), [*disfiguring touch*](../../magic/spells/disfiguring-touch.md), *id insinuation I*, *mind thrust II*, or [*touch of idiocy*](../../magic/spells/touch-of-idiocy.md). The eidolon can cast that spell as a psychic spell by spending 2 points of psychic energy. The caster level and save DC are the same as for basic psychic magic. This evolution can be selected more than once, selecting a different spell each time. The eidolon's amount of psychic energy available to spend each day does not stack; it uses only the highest number of points granted by its most powerful psychic magic evolution. *Requirements*: Aberrant subtype; intermediate psychic magic evolution; Charisma 12; summoner level 7th.
 
 **Alien Consciousness (Ex)**: The eidolon's mind is dangerously incomprehensible to mortals who contact it. Nonaberrations that read the eidolon's mind or make mental contact with it take 1d4 points of Wisdom damage (or 1d8 points of sanity damage, if you use the sanity rules). This contact also includes communication via telepathy; an eidolon that has telepathic capability must initiate this particular contact as a swift action against a single target in order to force its alien consciousness on another creature. A successful Will saving throw (DC = 10 + 1/2 the eidolon's HD + the eidolon's Charisma modifier) halves the damage. Once a creature has been subjected to the eidolon's alien consciousness, it is immune to further damage from that eidolon's alien consciousness for 24 hours. The eidolon's summoner is immune to his own eidolon's alien consciousness, but he can still be affected by other eidolons' alien consciousnesses. This is a mind-affecting effect. *Requirements*: Aberrant or protean subtype; summoner level 9th.
 
@@ -768,4 +768,4 @@ The following evolutions are used by aberrant eidolons and other strange eidolon
 
 **Disease (Ex)**: One of the eidolon's natural weapons carries a disease chosen from the following list: bubonic plague, filth fever, leprosy, red ache, or shakes. Each hit forces a saving throw against the disease's normal effects. The disease has no onset, however. The save DC equals 10 + 1/2 the eidolon's Hit Dice + the eidolon's Constitution modifier. The eidolon can expose a creature to its disease no more than once per round. By spending 2 additional evolution points, you can instead choose the following additional diseases: demon fever (only if the eidolon has the demon subtype), devil chills (only if the eidolon has the devil subtype), or slimy doom. *Requirements*: Aberrant, daemon, demon, or devil subtype or the undead appearance evolution; summoner level 7th.
 
-**Superior Psychic Magic**: The eidolon has 7 points of psychic magic to spend each day. Select one spell from the following list: *confusion*, *deeper darkness*, *displacement*, *jester's jaunt*, *id insinuation II*, or *mind thrust III*. The eidolon can cast that spell as a psychic spell by spending 3 points of psychic energy. The caster level and save DC are the same as for basic psychic magic. This evolution can be selected more than once, selecting a different spell each time. The eidolon's amount of psychic energy available to spend each day does not stack; it uses only the highest number of points granted by its most powerful psychic magic evolution. *Requirements*: Aberrant subtype; advanced psychic magic evolution; summoner level 11th; Charisma 13.
+**Superior Psychic Magic**: The eidolon has 7 points of psychic magic to spend each day. Select one spell from the following list: [*confusion*](../../magic/spells/confusion.md), *deeper darkness*, [*displacement*](../../magic/spells/displacement.md), [*jester's jaunt*](../../magic/spells/jesters-jaunt.md), *id insinuation II*, or *mind thrust III*. The eidolon can cast that spell as a psychic spell by spending 3 points of psychic energy. The caster level and save DC are the same as for basic psychic magic. This evolution can be selected more than once, selecting a different spell each time. The eidolon's amount of psychic energy available to spend each day does not stack; it uses only the highest number of points granted by its most powerful psychic magic evolution. *Requirements*: Aberrant subtype; advanced psychic magic evolution; summoner level 11th; Charisma 13.

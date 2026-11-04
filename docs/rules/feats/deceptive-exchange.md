@@ -2,7 +2,7 @@
 
 You trick an adversary into grabbing an object you hand them, even in the midst of combat.
 
-**Prerequisite**: Improved Feint.
+**Prerequisite**: [Improved Feint](improved-feint.md).
 
 **Benefit**: If you successfully feint an opponent, you can trick that opponent into accepting a one-handed object you are holding instead of denying that opponent its Dexterity bonus to AC against your next attack. The opponent must have appendages capable of holding the object you offer, and it must have one such appendage free to take the object.
 

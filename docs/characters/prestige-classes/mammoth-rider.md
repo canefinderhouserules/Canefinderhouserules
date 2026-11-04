@@ -45,7 +45,7 @@ The following are class features of the mammoth rider prestige class.
 
 **Wild Coercion (Ex)**: A mammoth rider gains the wild empathy ability; this functions exactly like the druid ability of the same name. For the purposes of this ability, her class level stacks with all other classes that have the wild empathy ability. In addition, a mammoth rider can use her wild empathy to demoralize an animal or magical beast, or force it to be friendly to her, as if using Intimidate rather than Diplomacy. She adds her Strength modifier to these checks in addition to her Charisma modifier.
 
-**Born Survivor (Ex)**: At 2nd level and again at 6th level, a mammoth rider gains a bonus feat from the following list: Great Fortitude, Improved Great Fortitude, Improved Iron Will, Improved Lightning Reflexes, Iron Will, Lightning Reflexes. She must meet the prerequisites for these feats.
+**Born Survivor (Ex)**: At 2nd level and again at 6th level, a mammoth rider gains a bonus feat from the following list: [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Great Fortitude](../../rules/feats/improved-great-fortitude.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Improved Lightning Reflexes](../../rules/feats/improved-lightning-reflexes.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md). She must meet the prerequisites for these feats.
 
 **Colossus Hunter (Ex)**: At 2nd level, a mammoth rider gains a +1 bonus on weapon attacks and damage rolls against Large and Huge creatures, and a +2 bonus on weapon attacks and damage rolls against Gargantuan and Colossal creatures.
 

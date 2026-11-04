@@ -53,10 +53,10 @@ The following are class features of the adventuring delver prestige class.
 
 **Vigilant Combatant (Ex)**: At 4th level, a delver adds half his class level on initiative checks.
 
-**Left for Dead (Su)**: At 5th level, a delver can cheat death once per day. If he would be killed by a melee attack, ranged attack, or effect that requires a saving throw, he is instead reduced to –1 hit points and knocked unconscious, but is stable. He appears dead (though a character who succeeds at a DC 25 Heal check or who uses an ability such as *deathwatch* can tell he is not) for 1 minute, after which he regains 1 hp and becomes conscious (unless healed sooner).
+**Left for Dead (Su)**: At 5th level, a delver can cheat death once per day. If he would be killed by a melee attack, ranged attack, or effect that requires a saving throw, he is instead reduced to –1 hit points and knocked unconscious, but is stable. He appears dead (though a character who succeeds at a DC 25 Heal check or who uses an ability such as [*deathwatch*](../../magic/spells/deathwatch.md) can tell he is not) for 1 minute, after which he regains 1 hp and becomes conscious (unless healed sooner).
 
 **Fortunate Soul (Su)**: Once per day at 6th level, the delver can reroll any saving throw he has just attempted. He must choose to use this ability before the results are revealed and must take the second result even if it’s worse. He can use this ability twice per day at 10th level.
 
-**True Seeing (Sp)**: At 9th level, a delver can use *true seeing* once per day (CL = his class level).
+**True Seeing (Sp)**: At 9th level, a delver can use [*true seeing*](../../magic/spells/true-seeing.md) once per day (CL = his class level).
 
 **Nick of Time (Ex)**: Once per day at 10th level, a delver can use an immediate action to perform an action that normally requires a standard action to perform.

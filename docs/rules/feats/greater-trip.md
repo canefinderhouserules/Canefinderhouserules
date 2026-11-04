@@ -4,7 +4,7 @@
 
 You can make free attacks on foes that you knock down.
 
-**Prerequisites**: Deft Maneuvers, Improved Trip, base attack bonus +6.
+**Prerequisites**: [Deft Maneuvers](deft-maneuvers.md), [Improved Trip](improved-trip.md), base attack bonus +6.
 
 **Benefit**: You receive a +2 bonus on checks made to trip a foe. This bonus stacks with the bonus granted by Improved Trip. Whenever you successfully trip an opponent, that opponent provokes attacks of opportunity.
 

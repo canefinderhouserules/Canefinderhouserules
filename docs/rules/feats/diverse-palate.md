@@ -2,7 +2,7 @@
 
 Your taste for blood is broader than that of other dhampirs.
 
-**Prerequisites**: Blood Drinker, dhampir.
+**Prerequisites**: [Blood Drinker](blood-drinker.md), dhampir.
 
 **Benefit**: Choose a humanoid subtype or the monstrous humanoid type. You may use your Blood Drinker feat on creatures of this subtype or type.
 

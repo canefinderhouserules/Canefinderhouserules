@@ -40,7 +40,7 @@ Imperial dragons see themselves as masters of their respective domains, and univ
 
 The interests of outer dragons take them across the cosmos. Strange devices or experimentation are most likely to lead to the addition of outer dragon blood into a world's ecosystem. The hidden blood of an outer dragon in a family's lineage is difficult to detect or stamp out.
 
-**Variant Bloodline Arcana**: Whenever you cast a spell with an energy descriptor that matches your draconic bloodline's energy type, if a creature is damaged by the spell, that creature cannot take a 5-foot step for 1 round. This effect occurs only when you're using spells that require an attack roll (such as *chill touch* or *scorching ray*) or spells that allow a save (such as *fireball* or *lightning bolt*). A successful save against the damage or effects of the spell also negates this additional effect.
+**Variant Bloodline Arcana**: Whenever you cast a spell with an energy descriptor that matches your draconic bloodline's energy type, if a creature is damaged by the spell, that creature cannot take a 5-foot step for 1 round. This effect occurs only when you're using spells that require an attack roll (such as [*chill touch*](../../magic/spells/chill-touch.md) or [*scorching ray*](../../magic/spells/scorching-ray.md)) or spells that allow a save (such as [*fireball*](../../magic/spells/fireball.md) or [*lightning bolt*](../../magic/spells/lightning-bolt.md)). A successful save against the damage or effects of the spell also negates this additional effect.
 
 | Dragon Type | Energy Type | Breath Shape |
 |---|---|---|

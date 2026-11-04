@@ -4,7 +4,7 @@
 
 You are ferocious at hewing your foes, even those a step apart.
 
-**Prerequisites**: Cleave, base attack bonus +4.
+**Prerequisites**: [Cleave](cleave.md), base attack bonus +4.
 
 **Benefit**: One of the squares you choose to attack with Cleave may be non-adjacent to the others you choose, as long as it is no more than 1 square away from them.
 

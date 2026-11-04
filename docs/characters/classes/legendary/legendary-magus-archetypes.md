@@ -42,9 +42,9 @@ As a swift action, the magus can spend 1 point of the black blade’s arcane pot
 
 **Bonded Blade (Ex)**
 
-A black blade can be enhanced as though its owner possessed the Craft Magic Arms and Armor feat.
+A black blade can be enhanced as though its owner possessed the [Craft Magic Arms and Armor](../../../rules/feats/craft-magic-arms-and-armor.md) feat.
 
-For the purposes of enhancement, the black blade does not follow the normal rules for weapon enhancement. A black blade can only be enhanced with special abilities, and its enhancement bonus to attack and damage is determined by its owners level. Special abilities can be applied to a black blade without first applying a +1 enhancement bonus. It can be enhanced to a maximum modified bonus of +5, and enhancements made to the black blade cost twice as much as a normal weapon. For example, enhancing the black blade with the *bane* and corrosive abilities would cost 16,000 gp, the cost of a +2 weapon doubled.
+For the purposes of enhancement, the black blade does not follow the normal rules for weapon enhancement. A black blade can only be enhanced with special abilities, and its enhancement bonus to attack and damage is determined by its owners level. Special abilities can be applied to a black blade without first applying a +1 enhancement bonus. It can be enhanced to a maximum modified bonus of +5, and enhancements made to the black blade cost twice as much as a normal weapon. For example, enhancing the black blade with the [*bane*](../../../magic/spells/bane.md) and corrosive abilities would cost 16,000 gp, the cost of a +2 weapon doubled.
 
 **Telepathy (Su)**
 
@@ -164,7 +164,7 @@ At 7th level, the drakeguard selects one of the following two paths, each granti
 
 **Path of the Exemplar**: The drake is an example of its kind, gaining a drake power based on its type: aether drakes gain aether bite, air drakes gain flight, cold and fire drakes gain energy bite, earth drakes gain improved burrow, and water drakes gain improved swim.
 
-**Path of the Steed**: The drake gains the mount drake power, even if it does not meet the prerequisites, and is considered one size category larger for determining what size riders it can carry. In addition, the drakeguard gains Mounted Combat as a bonus feat. If the drakeguard already has this feat, she gains another feat of her choice.
+**Path of the Steed**: The drake gains the mount drake power, even if it does not meet the prerequisites, and is considered one size category larger for determining what size riders it can carry. In addition, the drakeguard gains [Mounted Combat](../../../rules/feats/mounted-combat.md) as a bonus feat. If the drakeguard already has this feat, she gains another feat of her choice.
 
 The replaces spell recall.
 
@@ -194,7 +194,7 @@ A first magus adds Handle Animal, Heal, Knowledge (nature), Knowledge (religion)
 
 **Blessing of the Wild**
 
-At 1st level, a first magus gains two claw attacks. These are primary natural attacks and deal 1d6 points of damage (1d4 if the first magus is small). These attacks are counted as magic for the purposes of overcoming damage reduction and can be enchanted as if they were manufactured weapons. Whenever a first magus is under a polymorph effect, she can select two of her natural attacks in that form to gain the same enhancements as her claws. She gains the Natural Spell Combat legendary magus arcana, even if she does not meet the prerequisites. This arcana alone does not qualify her for the Extra Legendary Arcana feat.
+At 1st level, a first magus gains two claw attacks. These are primary natural attacks and deal 1d6 points of damage (1d4 if the first magus is small). These attacks are counted as magic for the purposes of overcoming damage reduction and can be enchanted as if they were manufactured weapons. Whenever a first magus is under a polymorph effect, she can select two of her natural attacks in that form to gain the same enhancements as her claws. She gains the [Natural Spell](../../../rules/feats/natural-spell.md) Combat legendary magus arcana, even if she does not meet the prerequisites. This arcana alone does not qualify her for the Extra Legendary Arcana feat.
 
 At 3rd level, a first magus gains the woodland stride and trackless step class features. Additionally, she gains the following potential technique:
 
@@ -230,7 +230,7 @@ Unlike a druid, a first magus need not prepare her spells in advance. She can ca
 
 This ability replaces the legendary magus’s spells class feature.
 
-**Primordial Strike**: A first magus is considered to be able to cast arcane spells for the purposes of qualifying for the Arcane Strike feat and treats their legendary magus level as their caster level for the purposes of the feat.
+**Primordial Strike**: A first magus is considered to be able to cast arcane spells for the purposes of qualifying for the [Arcane Strike](../../../rules/feats/arcane-strike.md) feat and treats their legendary magus level as their caster level for the purposes of the feat.
 
 ## Hexwielder
 
@@ -290,7 +290,7 @@ This modifies weapon and armor proficiencies.
 
 A legendary kensai focuses his combat prowess on a single weapon. This weapon is the single martial or exotic weapon with which he is proficient.
 
-Certain kensai abilities can only be used with his chosen weapon, or while wielding his chosen weapon. If the legendary kensai gains the Improved Unarmed Strike feat, he can treat his unarmed strike as his chosen weapon.
+Certain kensai abilities can only be used with his chosen weapon, or while wielding his chosen weapon. If the legendary kensai gains the [Improved Unarmed Strike](../../../rules/feats/improved-unarmed-strike.md) feat, he can treat his unarmed strike as his chosen weapon.
 
 **Intelligent Defense**
 
@@ -308,7 +308,7 @@ A legendary kensai gains a base attack bonus equal to his legendary magus level 
 
 **Perfect Strike (Su)**
 
-At 6th level, the legendary kensai gains Vital Strike as a bonus feat. Additionally, he gains the following potential technique:
+At 6th level, the legendary kensai gains [Vital Strike](../../../rules/feats/vital-strike.md) as a bonus feat. Additionally, he gains the following potential technique:
 
 **2 Potential**
 
@@ -324,7 +324,7 @@ This replaces spell recall.
 
 **Perfected Reflexes**
 
-At 11th level, the legendary kensai gains Improved Vital Strike as a bonus feat and can make a number of attacks of opportunity in a round equal to his Intelligence modifier (minimum 1). This effect stacks with the Combat Reflexes feat.
+At 11th level, the legendary kensai gains [Improved Vital Strike](../../../rules/feats/improved-vital-strike.md) as a bonus feat and can make a number of attacks of opportunity in a round equal to his Intelligence modifier (minimum 1). This effect stacks with the [Combat Reflexes](../../../rules/feats/combat-reflexes.md) feat.
 
 This replaces the bonus feat gained at 11th level.
 
@@ -338,7 +338,7 @@ This replaces the legendary magus arcana gained at 15th level.
 
 **Perfected Master**
 
-At 16th level, the legendary kensai gains Greater Vital Strike as a bonus feat and adds his Intelligence bonus (minimum 0) on critical hit confirmation rolls with his chosen weapon.
+At 16th level, the legendary kensai gains [Greater Vital Strike](../../../rules/feats/greater-vital-strike.md) as a bonus feat and adds his Intelligence bonus (minimum 0) on critical hit confirmation rolls with his chosen weapon.
 
 This replaces improved spell recall.
 
@@ -404,7 +404,7 @@ At 8th level the warp tempest’s ability to manipulate space using their potent
 
 This replaces the arcane redoubt, dimensional jaunt, magician’s assault and surging strike potential techniques.
 
-**Warp Spells**: The warp tempest adds the following spells to her spell list, treating them as spells of the specified level instead of their normal level: *jester’s jaunt* (2nd level), dimension door (3rd level), teleport (4th level), getaway (5th level), plane shift (5th level), greater teleport (6th level).
+**Warp Spells**: The warp tempest adds the following spells to her spell list, treating them as spells of the specified level instead of their normal level: [*jester’s jaunt*](../../../magic/spells/jesters-jaunt.md) (2nd level), dimension door (3rd level), teleport (4th level), getaway (5th level), plane shift (5th level), greater teleport (6th level).
 
 **Warp Combat**
 

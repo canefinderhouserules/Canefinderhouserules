@@ -4,7 +4,7 @@
 
 You are able to make stunning attacks with special monk weapons.
 
-**Prerequisites**: Stunning Fist.
+**Prerequisites**: [Stunning Fist](stunning-fist.md).
 
 **Benefit**: You may use Stunning Fist when making melee attacks with special monk weapons as well as when making unarmed attacks.
 

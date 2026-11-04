@@ -20,7 +20,7 @@ Talented bards can learn or create masterpieces, unusual applications of the bar
 
 In some cases, the bard can extend the duration of the masterpiece by expending additional rounds of bardic performance, just as if it were any other use of bardic performance. The bard expends the listed number of bardic performance rounds when he starts performing the masterpiece; if he is interrupted, the attempt fails and the spent performance rounds are lost.
 
-**Action**: This line indicates the type of action performing the masterpiece requires. If it only requires a standard action to activate, being able to activate a bardic performance more quickly (at 7th level, activation is a move action, and at 13th, it becomes a swift action) applies to the masterpiece as well. Unless otherwise stated, effects or feats that extend the duration of bardic performance (such as the Lingering Performance feat in the Advanced Player’s Guide) do not apply to masterpieces.
+**Action**: This line indicates the type of action performing the masterpiece requires. If it only requires a standard action to activate, being able to activate a bardic performance more quickly (at 7th level, activation is a move action, and at 13th, it becomes a swift action) applies to the masterpiece as well. Unless otherwise stated, effects or feats that extend the duration of bardic performance (such as the [Lingering Performance](../../rules/feats/lingering-performance.md) feat in the Advanced Player’s Guide) do not apply to masterpieces.
 
 GMs can use these masterpieces to inspire their own ideas for other masterpieces. Masterpieces should generally be no more powerful than a cleric or sorcerer/wizard spell available to a caster of the same level as the minimum level needed to select the masterpiece (a masterpiece requiring 7 ranks in Perform requires a 7th-level bard, and thus should not be more powerful than a 4th-level cleric or sorcerer/ wizard spell).
 
@@ -90,7 +90,7 @@ Your music makes animals act like people.
 
 **Cost**: Feat or 4th-level bard spell known.
 
-**Effect**: In a famous traveling musical, a lively tune plays whenever the eponymous bear tumbles onto stage. When played with skill, the song actually has the power to grant an animal temporary intelligence. Choose a non-hostile animal within line of sight that can see and hear you perform. This masterpiece affects the target as the *awaken* spell for as long as you maintain the performance. Abilities that extend the duration of a bardic performance (such as Lingering Performance) affect this masterpiece.
+**Effect**: In a famous traveling musical, a lively tune plays whenever the eponymous bear tumbles onto stage. When played with skill, the song actually has the power to grant an animal temporary intelligence. Choose a non-hostile animal within line of sight that can see and hear you perform. This masterpiece affects the target as the [*awaken*](../../magic/spells/awaken.md) spell for as long as you maintain the performance. Abilities that extend the duration of a bardic performance (such as Lingering Performance) affect this masterpiece.
 
 **Use**: 1 round of bardic performance per round.
 
@@ -160,7 +160,7 @@ You pray for assistance, invoking shelter from ice and snow.
 
 **Cost**: Feat or 4th-level bard spell known.
 
-**Effect**: This masterpiece can be performed only at or after dusk, or in weather conditions stormy enough to affect visibility. When completed, this masterpiece conjures a frozen shelter. This acts as the hemisphere form of *wall of ice* centered on you, except that the radius is 20 feet, the hemisphere has a single doorway large enough for a Medium creature, and the shelter lasts until the next sunrise or until you leave the shelter.
+**Effect**: This masterpiece can be performed only at or after dusk, or in weather conditions stormy enough to affect visibility. When completed, this masterpiece conjures a frozen shelter. This acts as the hemisphere form of [*wall of ice*](../../magic/spells/wall-of-ice.md) centered on you, except that the radius is 20 feet, the hemisphere has a single doorway large enough for a Medium creature, and the shelter lasts until the next sunrise or until you leave the shelter.
 
 **Use**: 5 rounds of bardic performance.
 
@@ -174,7 +174,7 @@ You perform a song of such beauty that it touches the soul of any who hear it, a
 
 **Cost**: Feat or 3rd-level bard spell known.
 
-**Effect**: At the end of the round on which you complete this song, all allies within 30 feet who observed your performance gain a new saving throw to end the ongoing effects of certain debilitating conditions. An ally who is exhausted, fatigued, nauseated, sickened, staggered, or stunned as the result of a previously failed saving throw can attempt a new saving throw to immediately end one of the above effects. Characters under multiple effects must choose which effect they wish to attempt to end prematurely. Effects that did not grant a save to resist (such as the stun effect of *power word stun*) can't be ended by this masterpiece. In addition, anyone who observed this performance gains the effects of *delay poison* at a caster level equal to your bard level.
+**Effect**: At the end of the round on which you complete this song, all allies within 30 feet who observed your performance gain a new saving throw to end the ongoing effects of certain debilitating conditions. An ally who is exhausted, fatigued, nauseated, sickened, staggered, or stunned as the result of a previously failed saving throw can attempt a new saving throw to immediately end one of the above effects. Characters under multiple effects must choose which effect they wish to attempt to end prematurely. Effects that did not grant a save to resist (such as the stun effect of [*power word stun*](../../magic/spells/power-word-stun.md)) can't be ended by this masterpiece. In addition, anyone who observed this performance gains the effects of [*delay poison*](../../magic/spells/delay-poison.md) at a caster level equal to your bard level.
 
 **Use**: 3 bardic performance rounds.
 
@@ -188,7 +188,7 @@ You cherish and love your home with such strength that your words weave protecti
 
 **Cost**: Feat or 5th-level bard spell known.
 
-**Effect**: You can perform this masterpiece only within 1 mile of a location where you've lived for at least 1 uninterrupted month. When you complete the performance, the area within 1,000 feet of your home is protected by the effects of *guards and wards* for 1 week. This masterpiece's effects do not affect or hinder other residents who have a home, no matter how small or neglected, within the affected area.
+**Effect**: You can perform this masterpiece only within 1 mile of a location where you've lived for at least 1 uninterrupted month. When you complete the performance, the area within 1,000 feet of your home is protected by the effects of [*guards and wards*](../../magic/spells/guards-and-wards.md) for 1 week. This masterpiece's effects do not affect or hinder other residents who have a home, no matter how small or neglected, within the affected area.
 
 **Use**: 30 rounds of bardic performance.
 
@@ -202,7 +202,7 @@ You beat a thunderous cacophony that strikes your foes with the fury of the kami
 
 **Cost**: Feat or 4th-level bard spell known.
 
-**Effect**: You produce a thunderous, rolling clamor in imitation of a storm kami's drums, culminating in a resounding blow akin to a massive thunderclap. At the completion of this performance, you call down a smiting bolt of lightning and thunder to strike your enemies. This functions as *flame strike*, with a caster level equal to your bard level, but half the damage is electricity damage and the other half is not subject to any energy resistance.
+**Effect**: You produce a thunderous, rolling clamor in imitation of a storm kami's drums, culminating in a resounding blow akin to a massive thunderclap. At the completion of this performance, you call down a smiting bolt of lightning and thunder to strike your enemies. This functions as [*flame strike*](../../magic/spells/flame-strike.md), with a caster level equal to your bard level, but half the damage is electricity damage and the other half is not subject to any energy resistance.
 
 **Use**: 5 rounds of bardic performance.
 
@@ -372,7 +372,7 @@ This medley of tales inspires listeners to new heights of bravery and self-sacri
 
 **Cost**: Feat or 2nd-level bard spell known.
 
-**Effect**: When you complete the performance, choose one adjacent creature. You and that creature are affected as if you had cast *shield other*.
+**Effect**: When you complete the performance, choose one adjacent creature. You and that creature are affected as if you had cast [*shield other*](../../magic/spells/shield-other.md).
 
 **Use**: 3 bardic performance rounds.
 
@@ -414,7 +414,7 @@ This complex dance makes you difficult to strike.
 
 **Cost**: Feat or 2nd-level bard spell known.
 
-**Effect**: The shuffling steps, bends, and leaps of this intricate dance make you a difficult target to hit, but also make it more difficult for you to perform other actions. When using this masterpiece, you take a –2 penalty on melee attack rolls and combat maneuver checks, and you must make a concentration check to cast any spell (DC 15 + the spell’s level), but you gain a +2 dodge bonus to your Armor Class. When you have 8 ranks in Perform (dance), and every 4 ranks thereafter, the penalty increases by –1 and the dodge bonus increases by +1. You can combine this masterpiece with fighting defensively and Combat Expertise, but not total defense. When you use this masterpiece, it lasts until the start of your next turn.
+**Effect**: The shuffling steps, bends, and leaps of this intricate dance make you a difficult target to hit, but also make it more difficult for you to perform other actions. When using this masterpiece, you take a –2 penalty on melee attack rolls and combat maneuver checks, and you must make a concentration check to cast any spell (DC 15 + the spell’s level), but you gain a +2 dodge bonus to your Armor Class. When you have 8 ranks in Perform (dance), and every 4 ranks thereafter, the penalty increases by –1 and the dodge bonus increases by +1. You can combine this masterpiece with fighting defensively and [Combat Expertise](../../rules/feats/combat-expertise.md), but not total defense. When you use this masterpiece, it lasts until the start of your next turn.
 
 Abilities that extend the duration of a bardic performance (such as Lingering Performance; see the Advanced Player’s Guide) affect this masterpiece; this allows you to get multiple rounds of its benefit (and its penalties) at the cost of only 1 round of bardic performance.
 
@@ -676,7 +676,7 @@ Thundering rhythms quicken your allies’ movements, but the effort of keeping u
 
 **Cost**: Feat or 3rd-level bard spell known.
 
-**Effect**: Up to one ally per bard level gains the benefits of *haste* while you maintain this masterpiece, except the bonus to AC and on attack rolls and Reflex saves is one-fifth of your bard level. These allies must be within 60 feet of you to receive this benefit. When you cease performing this masterpiece, any creature that received this benefit for at least 3 rounds must succeed at a Fortitude save at this masterpiece’s DC or be fatigued for twice as many rounds as they were affected.
+**Effect**: Up to one ally per bard level gains the benefits of [*haste*](../../magic/spells/haste.md) while you maintain this masterpiece, except the bonus to AC and on attack rolls and Reflex saves is one-fifth of your bard level. These allies must be within 60 feet of you to receive this benefit. When you cease performing this masterpiece, any creature that received this benefit for at least 3 rounds must succeed at a Fortitude save at this masterpiece’s DC or be fatigued for twice as many rounds as they were affected.
 
 **Use**: 1 round of bardic performance per round.
 
@@ -732,7 +732,7 @@ You use your own life force to create a phantasmagorical impression of eldritch 
 
 **Cost**: Feat or 5th-level bard spell known.
 
-**Effect**: When you enact this unnerving bardic performance, you take 2 points of Constitution drain or 2 points of Wisdom drain (your choice) to create an effect similar to *limited wish*, except that the effect is interpreted by an alien entity from beyond the stars. If you have at least 17 ranks in Perform (dance, sing, or string), and you destroy a magic or technological item worth at least 25,000 gp as a material component and take 4 points of Constitution drain or Wisdom drain, you can instead produce the effects of a *wish* with this performance. The GM interprets how precisely the effects of this bardic performance are granted by the entity that you contact. This performance has audible and visual components.
+**Effect**: When you enact this unnerving bardic performance, you take 2 points of Constitution drain or 2 points of Wisdom drain (your choice) to create an effect similar to [*limited wish*](../../magic/spells/limited-wish.md), except that the effect is interpreted by an alien entity from beyond the stars. If you have at least 17 ranks in Perform (dance, sing, or string), and you destroy a magic or technological item worth at least 25,000 gp as a material component and take 4 points of Constitution drain or Wisdom drain, you can instead produce the effects of a [*wish*](../../magic/spells/wish.md) with this performance. The GM interprets how precisely the effects of this bardic performance are granted by the entity that you contact. This performance has audible and visual components.
 
 **Use**: 1 round of bardic performance.
 
@@ -778,7 +778,7 @@ The divine sunlight caused by this dance banishes darkness and causes flowers to
 
 **Effect**: You begin your dance slowly, focusing on exact posture, the position of your limbs, even the direction of your gaze, then build to a blur of motion. Upon completing the performance, you summon a fixed aura of divine sunlight that glows in a 100-foot-radius circle centered on you. The divine sunlight acts as true daylight and affects creatures damaged or destroyed by such light. The light is as bright as sunlight at full noon and counters or dispels any darkness spells of 4th level or lower. If the dance is performed in an area of more powerful magical darkness, both the divine sunlight and darkness are temporarily negated so that otherwise prevailing light conditions exist in the overlapping areas of effect.
 
-Within the area of the sunlight, plants grow and blossom rapidly, becoming an overgrown tangle. This effect mimics the overgrowth version of *plant growth*. You and one ally per three bard levels are immune to the movement-impairing effects of the overgrowth. The divine sunlight and all its associated effects last for 1 minute per bard level you possess.
+Within the area of the sunlight, plants grow and blossom rapidly, becoming an overgrown tangle. This effect mimics the overgrowth version of [*plant growth*](../../magic/spells/plant-growth.md). You and one ally per three bard levels are immune to the movement-impairing effects of the overgrowth. The divine sunlight and all its associated effects last for 1 minute per bard level you possess.
 
 **Use**: 3 bardic performance rounds.
 
@@ -806,7 +806,7 @@ You spark notes of joy and freedom in your listeners.
 
 **Cost**: Feat or 3rd-level bard spell known.
 
-**Effect**: The complex arpeggios in this piece follow each other so quickly that the music can sound jumbled and disjointed at first. As the piece progresses, however, distinct phrases emerge, creating a wild but harmonious piece that inspires feelings of unfettered freedom. You and up to one ally per bard level within 30 feet who can hear you can move and attack normally for the duration of your performance, even if under the influence of magic that usually impedes movement. This effect is identical to that of *freedom of movement*, except that this masterpiece does not allow subjects to move and attack normally while underwater unless these creatures would already be able to do so, and only lasts as long as you continue the performance.
+**Effect**: The complex arpeggios in this piece follow each other so quickly that the music can sound jumbled and disjointed at first. As the piece progresses, however, distinct phrases emerge, creating a wild but harmonious piece that inspires feelings of unfettered freedom. You and up to one ally per bard level within 30 feet who can hear you can move and attack normally for the duration of your performance, even if under the influence of magic that usually impedes movement. This effect is identical to that of [*freedom of movement*](../../magic/spells/freedom-of-movement.md), except that this masterpiece does not allow subjects to move and attack normally while underwater unless these creatures would already be able to do so, and only lasts as long as you continue the performance.
 
 **Use**: 1 bardic performance round per round.
 
@@ -878,7 +878,7 @@ Your bombastic speech creates booming reverberations of sound.
 
 **Effect**: You provide an impassioned monologue from the point of view of a noble queen, voicing her inner turmoil at being betrayed by her own sister and calling for justice to strike from the heavens. If you perform this masterpiece with the Perform (sing) skill, it is a tempestuous aria instead of a rousing soliloquy.
 
-Upon completing the performance, you may conjure bolts of lightning as though you had cast *call lightning storm*, except the bolts are made of elemental thunder and deal sonic damage rather than electricity damage. The bolts do not increase in damage if outdoors in a stormy area. Instead, in any environment, you may attempt a DC 25 Perform check as part of the standard action to call a bolt. If your Perform check is successful, that bolt deals 5d10 points of sonic damage instead of 5d6.
+Upon completing the performance, you may conjure bolts of lightning as though you had cast [*call lightning storm*](../../magic/spells/call-lightning-storm.md), except the bolts are made of elemental thunder and deal sonic damage rather than electricity damage. The bolts do not increase in damage if outdoors in a stormy area. Instead, in any environment, you may attempt a DC 25 Perform check as part of the standard action to call a bolt. If your Perform check is successful, that bolt deals 5d10 points of sonic damage instead of 5d6.
 
 **Use**: 5 bardic performance rounds.
 
@@ -892,7 +892,7 @@ Channeling the mysterious power of the fey realm, you grant the listener the gif
 
 **Cost**: Feat or 4th-level bard spell known.
 
-**Effect**: When you complete the performance, one creature within 30 feet is affected by *beast shape I*. If your caster level is at least 10th, you can affect that creature with *baleful polymorph* instead; an affected creature automatically succeeds at the spell's secondary save. If your caster level is at least 15th and you spend 10 additional rounds of bardic performance, you can affect up to one creature per 3 bard levels with *beast shape II* instead. This performance allows a Fortitude save instead of a Will save to resist its effects.
+**Effect**: When you complete the performance, one creature within 30 feet is affected by *beast shape I*. If your caster level is at least 10th, you can affect that creature with [*baleful polymorph*](../../magic/spells/baleful-polymorph.md) instead; an affected creature automatically succeeds at the spell's secondary save. If your caster level is at least 15th and you spend 10 additional rounds of bardic performance, you can affect up to one creature per 3 bard levels with *beast shape II* instead. This performance allows a Fortitude save instead of a Will save to resist its effects.
 
 **Use**: 10 rounds of bardic performance.
 
@@ -906,7 +906,7 @@ Your saga magically weaves the counsel of sagacious ancestors into the telling.
 
 **Cost**: Feat or 5th-level bard spell known.
 
-**Effect**: You begin an epic tale of kings and queens in ages past, recounting their lineages and sage deeds. The epic has no fixed form and has substantial room for improvisation; many bards include tales of their own wise ancestors, or the ancestors of noteworthy members of their audience. When you activate the performance, one target creature other than you within close range (25 feet + 5 feet/2 levels) gains the benefit of a *commune* spell. You must continue the performance for the target to receive answers, as your retelling is magically guided to include relevant responses. If you cease the performance before the target has asked all of its questions, or if you run out of bardic performance rounds, any remaining questions are lost. Although this performance does have words, it is not a language-dependent effect.
+**Effect**: You begin an epic tale of kings and queens in ages past, recounting their lineages and sage deeds. The epic has no fixed form and has substantial room for improvisation; many bards include tales of their own wise ancestors, or the ancestors of noteworthy members of their audience. When you activate the performance, one target creature other than you within close range (25 feet + 5 feet/2 levels) gains the benefit of a [*commune*](../../magic/spells/commune.md) spell. You must continue the performance for the target to receive answers, as your retelling is magically guided to include relevant responses. If you cease the performance before the target has asked all of its questions, or if you run out of bardic performance rounds, any remaining questions are lost. Although this performance does have words, it is not a language-dependent effect.
 
 **Use**: 10 bardic performance rounds, plus 1 bardic performance round per question.
 
@@ -988,7 +988,7 @@ In some cultures, the professional entertainer is a prestigious role. Specially 
 
 **Geisha Knowledge**: A geisha adds half her class level (minimum 1) on Craft (calligraphy) checks, Diplomacy checks, Knowledge (nobility) checks, and one type of Perform check (act, dance, oratory, percussion, string instruments, or sing); she may make checks with these skills untrained. This replaces bardic knowledge.
 
-**Scribe Scroll**: A geisha gains Scribe Scroll as a bonus feat.
+**Scribe Scroll**: A geisha gains [Scribe Scroll](../../rules/feats/scribe-scroll.md) as a bonus feat.
 
 ## Songhealer
 
@@ -1020,7 +1020,7 @@ Presented below are several classic bardic themes.
 
 A master of the martial applications of steel and spell, the arcane duelist blends both into a lethal combination.
 
-**Arcane Strike**: Arcane duelists gain Arcane Strike as a bonus feat at 1st level. This ability replaces bardic knowledge.
+**Arcane Strike**: Arcane duelists gain [Arcane Strike](../../rules/feats/arcane-strike.md) as a bonus feat at 1st level. This ability replaces bardic knowledge.
 
 **Bardic Performance**: An arcane duelist gains the following types of bardic performance.
 
@@ -1034,7 +1034,7 @@ This enhancement bonus increases by +1 for every three levels after 6th (maximum
 
 **Mass Bladethirst (Su)**: An arcane duelist of 18th level or higher can use his bladethirst performance to enhance the weapons of as many allies as desired within 30 feet. The bonus provided by this power is +4 if conferred on two allies, +3 for three allies, +2 for four allies, and +1 for five or more allies. The power granted to each weapon must be identical. This ability replaces mass suggestion.
 
-**Bonus Feats**: An arcane duelist weaves might and magic in his combat style, gaining the following bonus feats at 2nd level and every four levels thereafter: 2nd level—Combat Casting, 6th level—Disruptive, 10th level—Spellbreaker, 14th level—Penetrating Strike, 18th level—Greater Penetrating Strike. This ability replaces versatile performance and well-versed.
+**Bonus Feats**: An arcane duelist weaves might and magic in his combat style, gaining the following bonus feats at 2nd level and every four levels thereafter: 2nd level—[Combat Casting](../../rules/feats/combat-casting.md), 6th level—Disruptive, 10th level—Spellbreaker, 14th level—[Penetrating Strike](../../rules/feats/penetrating-strike.md), 18th level—[Greater Penetrating Strike](../../rules/feats/greater-penetrating-strike.md). This ability replaces versatile performance and well-versed.
 
 **Arcane Bond (Ex)**: At 5th level, an arcane duelist gains the arcane bond ability as a wizard, using a weapon as his bonded item, allowing him to cast any one additional spell that he knows once per day. He may not choose a familiar or other type of bonded item. He may use the hand holding his bonded weapon for somatic components. This ability replaces lore master.
 
@@ -1114,7 +1114,7 @@ A magician dabbles in performance, but sees it as a means to tap into universal 
 
 **Magical Talent (Ex)**: A magician gains a bonus equal to half his level on Knowledge (arcana), Spellcraft, and Use Magic Device checks. This ability replaces bardic knowledge.
 
-**Improved Counterspell**: A magician gains Improved Counterspell as a bonus feat. This ability replaces countersong.
+**Improved Counterspell**: A magician gains [Improved Counterspell](../../rules/feats/improved-counterspell.md) as a bonus feat. This ability replaces countersong.
 
 **Extended Performance (Su)**: At 2nd level, a magician can extend the duration of bardic performance after he stops concentrating by sacrificing a spell slot as a swift action. The performance effect lingers for 1 extra round per level of the spell. Only one spell may be sacrificed per performance, and performance types that take affect after a specific number of rounds cannot be extended. This ability replaces well-versed.
 
@@ -1230,7 +1230,7 @@ check. Any ally within 30 feet of the bard that has caught on fire or is affecte
 
 Most bards are inspired by the art of civilization, yet the voice of the wild's muse is the grandeur and beauty of nature. The voice of the wild has discovered some of nature's magical secrets, and can use his performance to bring out the bestial side in his allies.
 
-**Wild Knowledge (Ex)**: At 1st level, a voice ' of the wild adds 1/2 his level (minimum 1) to all KKnowledge (nature) checks. He can use Knowledge (geography) and Knowledge (nature) untrained. This ability replaces bardic knowledge. Nature Magic: At 1st level, a voice of the 'wild can select a 1st-level druid or ranger spell as a bard spell known instead of a spell from the bard spell list. The voice of the wild can select another druid or ranger spell (of any bard spell level he can cast) at 4th, 7th, 10th, 13th, and 16th levels. If he chooses to learn a new spell in place of an old one, he can exchange a druid or ranger spell for another. This ability replaces countersong, all instances of versatile performance, and jack-of-all-trades.
+**Wild Knowledge (Ex)**: At 1st level, a voice ' of the wild adds 1/2 his level (minimum 1) to all KKnowledge (nature) checks. He can use Knowledge (geography) and Knowledge (nature) untrained. This ability replaces bardic knowledge. [Nature Magic](../../rules/feats/nature-magic.md): At 1st level, a voice of the 'wild can select a 1st-level druid or ranger spell as a bard spell known instead of a spell from the bard spell list. The voice of the wild can select another druid or ranger spell (of any bard spell level he can cast) at 4th, 7th, 10th, 13th, and 16th levels. If he chooses to learn a new spell in place of an old one, he can exchange a druid or ranger spell for another. This ability replaces countersong, all instances of versatile performance, and jack-of-all-trades.
 
 **Bardic Performance**: Voices of the wild gain the following bardic performance. Song of the Wild (Su): At 3rd level, the voice of the wild can use bardic performance to grant an animal aspect to an ally, as if using the hunter's animal focus class feature.
 
@@ -1246,7 +1246,7 @@ The phrenologist is an expert at reading creatures’ skulls, and he learns to u
 
 **Skull-Versed (Ex)**: Starting at 2nd level, a phrenologist can use knowledge gleaned from a creature’s skull to tailor a performance. All creatures on which the phrenologist has successfully used his phrenology skill unlock take a –2 penalty on all saving throws against the phrenologist’s bardic performances. This ability replaces well-versed.
 
-**Phrenological Savant**: At 10th level, a phrenologist gains either Psychic Maestro* or Psychic Virtuoso* as a bonus feat. If he chooses Psychic Maestro, he must select phrenology as one of his two skill unlocks to use an additional time. This ability replaces jack-of-all-trades.
+**Phrenological Savant**: At 10th level, a phrenologist gains either Psychic Maestro* or Psychic Virtuoso* as a bonus feat. If he chooses [Psychic Maestro](../../rules/feats/psychic-maestro.md), he must select phrenology as one of his two skill unlocks to use an additional time. This ability replaces jack-of-all-trades.
 
 **Bardic Performance**: A phrenologist gains the following types of bardic performance.
 
@@ -1330,7 +1330,7 @@ Dervish dancers gain the inspire courage, inspire greatness, and inspire heroics
 
 **Rain of Blows (Su)**: At 6th level, a dervish dancer can speed up his attacks. When making a full attack action, he may make one extra attack with any weapon he is holding, as though under the effects of a haste spell. He also gains a +1 bonus on attack rolls and a +1 dodge bonus to AC and on Reflex saves. At 9th level, and every three bard levels thereafter, these bonuses increase by +1, to a maximum of +5 at 18th level. These bonuses do not stack with the haste spell. This ability replaces suggestion and mass suggestion.
 
-**Razor’s Kiss (Su)**: At 8th level, a dervish dancer can use his battle dance to improve his weapons’ critical range. All attacks he makes with manufactured weapons are treated as though he had the Improved Critical feat. Natural weapons and spells are not affected. This ability replaces dirge of doom.
+**Razor’s Kiss (Su)**: At 8th level, a dervish dancer can use his battle dance to improve his weapons’ critical range. All attacks he makes with manufactured weapons are treated as though he had the [Improved Critical](../../rules/feats/improved-critical.md) feat. Natural weapons and spells are not affected. This ability replaces dirge of doom.
 
 **Leaf on the Wind (Su)**: At 14th level, a dervish dancer can use his battle dance to evade attacks with unearthly grace and to shake off the effects of his wounds. Unlike other battle dances, leaf on the wind requires a standard action each round to start or maintain the performance. Each round it is maintained, including the first, the dervish dancer gains a +6 dodge bonus to Armor Class and on Reflex saves. If wounded, he heals 1 hit point of damage per bard level. This ability replaces frightening performance.
 
@@ -1364,7 +1364,7 @@ Fey who associate with courts often become bards skilled at navigating the inhum
 | 14th | 8,000 gp | 50,000 gp |
 | 18th | 32,000 gp | 200,000 gp |
 
-**Summon Fey Allies**: At 3rd level, the fey courtier gains Augment Summoning as a bonus feat and can call upon natural allies who owe him favors. He adds summon nature’s ally I to his list of 1st-level bard spells known. Whenever he gains access to another spell level, he adds the next-higher summon nature’s ally spell to his list of bard spells known. The fey courtier adds the following creatures to the summon nature’s ally list: 1st—grimple (gremlin), mite, sprite; 2nd—atomie, fuath (gremlin), nixie; 3rd—leprechaun, nuglub (gremlin), pooka; 4th—kelpie, korred, twigjack; 5th—lampad, lurker in light, swan maiden; 6th—cold rider, oceanid, sangoi. This replaces inspire competence.
+**Summon Fey Allies**: At 3rd level, the fey courtier gains [Augment Summoning](../../rules/feats/augment-summoning.md) as a bonus feat and can call upon natural allies who owe him favors. He adds summon nature’s ally I to his list of 1st-level bard spells known. Whenever he gains access to another spell level, he adds the next-higher summon nature’s ally spell to his list of bard spells known. The fey courtier adds the following creatures to the summon nature’s ally list: 1st—grimple (gremlin), mite, sprite; 2nd—atomie, fuath (gremlin), nixie; 3rd—leprechaun, nuglub (gremlin), pooka; 4th—kelpie, korred, twigjack; 5th—lampad, lurker in light, swan maiden; 6th—cold rider, oceanid, sangoi. This replaces inspire competence.
 
 ## Plant Speaker
 
@@ -1446,7 +1446,7 @@ The watersinger’s song reaches from the depths of his soul into the elemental 
 
 *Lifewater (Su)*: At 5th level, the watersinger can spend 1 round of bardic performance as a standard action to manipulate the water, blood, and other fluids within a creature’s body, causing the target to become sickened for 1d4 rounds. Alternatively, he may use this ability to attempt a reposition combat maneuver (*Advanced Player’s Guide*), using his base attack bonus and his Charisma modifier as his CMB. This ability has a range of 30 feet, only works on creatures whose bodies contain fluid, and does not affect creatures that are immune to critical hits. This performance replaces the use of lore master gained at 5th level (though a watersinger still gains the use of lore master once per day at 11th level and twice per day at 17th).
 
-**Watersinger Spells**: A watersinger adds certain water-themed spells to his spell list. He adds these abilities to his spell list as soon as his bard level allows him to cast spells of that spell level. 0—*create water*; 1st—*hydraulic push* (*Advanced Player’s Guide*), *slipstream* (*Advanced Player’s Guide*); 2nd— *aqueous orb* (*Advanced Player’s Guide*), *hydraulic torrent* (*Advanced Player’s Guide*), *water walk*; 3rd—*fluid form* (*Advanced Player’s Guide*), *ride the waves* (*Ultimate Magic*); 4th—*control water*, *communal water walk* (*Ultimate Combat*); 5th—*vortex* (*Advanced Player’s Guide*); 6th—*seamantle* (*Advanced Player’s Guide*).
+**Watersinger Spells**: A watersinger adds certain water-themed spells to his spell list. He adds these abilities to his spell list as soon as his bard level allows him to cast spells of that spell level. 0—[*create water*](../../magic/spells/create-water.md); 1st—[*hydraulic push*](../../magic/spells/hydraulic-push.md) (*Advanced Player’s Guide*), [*slipstream*](../../magic/spells/slipstream.md) (*Advanced Player’s Guide*); 2nd— [*aqueous orb*](../../magic/spells/aqueous-orb.md) (*Advanced Player’s Guide*), [*hydraulic torrent*](../../magic/spells/hydraulic-torrent.md) (*Advanced Player’s Guide*), [*water walk*](../../magic/spells/water-walk.md); 3rd—[*fluid form*](../../magic/spells/fluid-form.md) (*Advanced Player’s Guide*), [*ride the waves*](../../magic/spells/ride-the-waves.md) (*Ultimate Magic*); 4th—[*control water*](../../magic/spells/control-water.md), *communal water walk* (*Ultimate Combat*); 5th—[*vortex*](../../magic/spells/vortex.md) (*Advanced Player’s Guide*); 6th—[*seamantle*](../../magic/spells/seamantle.md) (*Advanced Player’s Guide*).
 
 ## Shadow Puppeteer
 
@@ -1454,9 +1454,9 @@ A shadow puppeteer invokes amazing and terrifying shadow puppet shows, producing
 
 **Bardic Performance**: A shadow puppeteer gains the following types of bardic performance. The character must be able to perform shadow puppetry in order to activate any of these abilities. Shadow puppetry uses Perform (act), and requires a light source. These abilities replace all levels of inspire courage and inspire competence.
 
-*Shadow Servant (Sp)*: At 1st level, the puppeteer can create a *shadow servant* to perform simple tasks. The shadow servant is identical to an *unseen servant* (caster level equal to the shadow puppeteer’s bard level), except it appears as a formless shadow. Shadow servant relies on visual components.
+*Shadow Servant (Sp)*: At 1st level, the puppeteer can create a *shadow servant* to perform simple tasks. The shadow servant is identical to an [*unseen servant*](../../magic/spells/unseen-servant.md) (caster level equal to the shadow puppeteer’s bard level), except it appears as a formless shadow. Shadow servant relies on visual components.
 
-*Shadow Puppets (Sp)*: At 1st level, a shadow puppeteer can use bardic performance to create one quasi-real shadowy creature resembling a monster from the *summon monster I* list. These shadowy creatures otherwise work like *shadow conjuration*, and targets interacting with them get a Will saving throw (DC 10 + 1/2 your bard level + your Charisma bonus) to treat them as only 20% real. At 4th level and every three levels thereafter, this ability acts like the next higher version of *summon monster* (*summon monster II* at 4th level and so on).
+*Shadow Puppets (Sp)*: At 1st level, a shadow puppeteer can use bardic performance to create one quasi-real shadowy creature resembling a monster from the *summon monster I* list. These shadowy creatures otherwise work like [*shadow conjuration*](../../magic/spells/shadow-conjuration.md), and targets interacting with them get a Will saving throw (DC 10 + 1/2 your bard level + your Charisma bonus) to treat them as only 20% real. At 4th level and every three levels thereafter, this ability acts like the next higher version of *summon monster* (*summon monster II* at 4th level and so on).
 
 ## Prankster
 
@@ -1470,7 +1470,7 @@ Each creature within range receives a Will save (DC 10 + 1/2 the prankster’s l
 
 Mock is an enchantment (compulsion) mind-affecting ability. Mock relies on audible and visual components in order to function. This ability replaces fascinate.
 
-*Punchline (Sp)*: At 6th level, the prankster can use his performance to tell a punchline to amuse a creature he has already mocked (see above), goading it into *hideous laughter* (as the spell). Using this ability does not disrupt the mock effect, but it does require a standard action to activate (in addition to the free action to continue the mock effect). A prankster can use this ability more than once against an individual creature during an individual performance.
+*Punchline (Sp)*: At 6th level, the prankster can use his performance to tell a punchline to amuse a creature he has already mocked (see above), goading it into [*hideous laughter*](../../magic/spells/hideous-laughter.md) (as the spell). Using this ability does not disrupt the mock effect, but it does require a standard action to activate (in addition to the free action to continue the mock effect). A prankster can use this ability more than once against an individual creature during an individual performance.
 
 Telling a punchline does not count against a prankster’s daily use of bardic performance. A Will saving throw (DC 10 + 1/2 the bard’s level + the bard’s Charisma modifier) negates the effect. This ability affects only a single creature. Punchline is an enchantment (compulsion), mind affecting, language-dependent ability and relies on audible components. This ability replaces the suggestion ability.
 
@@ -1484,9 +1484,9 @@ The impervious messenger is capable of harnessing the unique qualities of bardic
 
 **Bardic Performance (Su)**: An impervious messenger gains the following types of bardic performances.
 
-**Chant of Perfect Recall (Su)**: At 1st level, an impervious messenger can spend 1 round of his bardic performance to commit something to memory. This ability functions exactly as per *memorize page*, but the impervious messenger is the only recipient and he requires only 1 round to commit a single page to memory. An impervious messenger can commit additional pages worth of material to memory by using additional rounds of his bardic performance, but he can never memorize more than half his total bard level in pages (minimum 1). This ability replaces fascinate.
+**Chant of Perfect Recall (Su)**: At 1st level, an impervious messenger can spend 1 round of his bardic performance to commit something to memory. This ability functions exactly as per [*memorize page*](../../magic/spells/memorize-page.md), but the impervious messenger is the only recipient and he requires only 1 round to commit a single page to memory. An impervious messenger can commit additional pages worth of material to memory by using additional rounds of his bardic performance, but he can never memorize more than half his total bard level in pages (minimum 1). This ability replaces fascinate.
 
-**Song of Subterfuge (Su)**: At 6th level, an impervious messenger learns to use his performances to project various thoughts into his own mind to disrupt divination attempts. This acts similarly to distraction, except it only affects the impervious messenger and allows him to use the result of his Perform check in place of saving throws against attempts to read his mind, such as *detect thoughts*. At 18th level, if the impervious messenger succeeds on a saving throw while using song of subterfuge, the character who attempted the divination effect must succeed on a Will save (DC = 20 + the impervious messenger’s Charisma modifier) or else the impervious messenger instantly learns the nature of the effect and can allow the effect to continue, but provide whatever information he chooses to the divining character rather than the true results of the divination effect. This ability replaces suggestion and mass suggestion.
+**Song of Subterfuge (Su)**: At 6th level, an impervious messenger learns to use his performances to project various thoughts into his own mind to disrupt divination attempts. This acts similarly to distraction, except it only affects the impervious messenger and allows him to use the result of his Perform check in place of saving throws against attempts to read his mind, such as [*detect thoughts*](../../magic/spells/detect-thoughts.md). At 18th level, if the impervious messenger succeeds on a saving throw while using song of subterfuge, the character who attempted the divination effect must succeed on a Will save (DC = 20 + the impervious messenger’s Charisma modifier) or else the impervious messenger instantly learns the nature of the effect and can allow the effect to continue, but provide whatever information he chooses to the divining character rather than the true results of the divination effect. This ability replaces suggestion and mass suggestion.
 
 **Unbroken Stride (Su)**: At 8th level, an impervious messenger draws upon his bardic abilities to imbue himself with grace and speed. While using this bardic performance, an impervious messenger gains an insight bonus equal to half his bard level on all Acrobatics, Climb, Fly, and Ride checks. In addition, while maintaining this performance, he gains the benefits of the ranger’s woodland stride ability and a +10-foot enhancement bonus to his base land speed. At 12th level, an impervious messenger using his unbroken stride bardic performance also acts as if under the effect of *freedom of movement*. In addition, the enhancement bonus to his base land speed increases to +30 feet. This ability replaces dirge of doom and frightening tune.
 
@@ -1506,13 +1506,13 @@ Unlike a vigilante, most people who know of the masked performer actually know t
 
 **Exaggerated Pose (Su)**: At 3rd level, a masked performer can enhance her own physical and social abilities by simply altering her posture. When she starts this performance, the masked performer chooses a Strength-, Dexterity-, or Charisma-based skill and gains a +2 competence bonus on checks with that skill as long as she maintains this performance. This bonus increases by 1 for every 4 bard levels the masked performer has beyond 3rd (+3 at 7th level, +4 at 11th level, +5 at 15th level, and +6 at 19th level). The masked performer can change the chosen skill as a swift action. Exaggerated pose is an emotion effect and relies on visual components. This ability replaces inspire competence.
 
-**Stage Combat (Su)**: At 6th level, a masked performer gains the benefit of a combat feat she doesn’t have as long as she maintains this performance. The masked performer chooses the feat when she starts this performance. The masked performer must meet all the feat’s prerequisites. As usual when temporarily gaining a feat, if the feat she chooses has any limitations on uses, such as Stunning Fist’s daily uses, all uses of that combat feat while maintaining stage combat count toward that feat’s limit. In the case of Stunning Fist, if the masked performer gained that feat again later the same day, the expended uses would remain expended. Stage combat relies on visual components. This ability replaces suggestion.
+**Stage Combat (Su)**: At 6th level, a masked performer gains the benefit of a combat feat she doesn’t have as long as she maintains this performance. The masked performer chooses the feat when she starts this performance. The masked performer must meet all the feat’s prerequisites. As usual when temporarily gaining a feat, if the feat she chooses has any limitations on uses, such as [Stunning Fist](../../rules/feats/stunning-fist.md)’s daily uses, all uses of that combat feat while maintaining stage combat count toward that feat’s limit. In the case of Stunning Fist, if the masked performer gained that feat again later the same day, the expended uses would remain expended. Stage combat relies on visual components. This ability replaces suggestion.
 
 **Multiplicity of Masks (Su)**: At 18th level, a masked performer can cause any number of her allies to appear as herself or as another ally within 60 feet. To be affected, an ally must be within 60 feet of the masker performer and able to see her. As long as the masked performer maintains this performance, enemies perceive all affected allies as the chosen character. If an affected ally is a different size or creature type than the chosen character, enemies can attempt a Will save (DC = 10 + 1/2 the masked performer’s bard level + her Charisma modifier) to disbelieve. Otherwise, there is no saving throw, but a successful attack against a disguised ally automatically reveals the ally’s true form. If an ally moves out of range, that ally reverts to his original form, and the entire effect ends if the ally providing his appearance to the others moves out of range. Multiplicity of masks is an illusion (glamer) effect that relies on visual components. This ability replaces mass suggestion.
 
 **Social Grace (Ex)**: At 2nd level, a masked performer gains the social grace vigilante social talent. She gains an additional skill with social grace 1 level later than a vigilante (at 6th level, 10th level, and so on). This ability replaces versatile performance.
 
-**Masked Talents**: At 5th level, a masked performer gains a rogue talent from the following list: expert leaper, fast stealth, ledge walker, rogue crawl, rope master, stand up, and wall scramble. At 17th level, a masked performer can choose any of the above talents or an advanced talent from the following list: defensive roll, fast tumble, hide in plain sight, and skill mastery. This ability does not qualify her for the Extra Rogue Talent feat. This ability replaces lore master.
+**Masked Talents**: At 5th level, a masked performer gains a rogue talent from the following list: expert leaper, fast stealth, ledge walker, rogue crawl, rope master, stand up, and wall scramble. At 17th level, a masked performer can choose any of the above talents or an advanced talent from the following list: defensive roll, fast tumble, hide in plain sight, and skill mastery. This ability does not qualify her for the [Extra Rogue Talent](../../rules/feats/extra-rogue-talent.md) feat. This ability replaces lore master.
 
 ## Ringleader
 
@@ -1548,7 +1548,7 @@ At 1st level, a sorrowsoul can use his lyric sorrow in conjunction with inspire 
 
 At 12th level, a sorrowsoul can use his lyric sorrow ability in conjunction with inspire greatness to grant himself 3 bonus Hit Dice, a +3 competence bonus on attack rolls, and a +2 competence bonus on Fortitude saves; if he does so, inspire greatness only affects him, not any other allies.
 
-At 15th level, a sorrowsoul can use his lyric sorrow ability in conjunction with the inspire heroics bardic performance. When using the lyric sorrow version of this performance, a sorrowsoul gains fast healing 5 and benefits from a 50% miss chance, as if under the effects of *displacement*, in addition to the standard bonuses conferred by this bardic performance, but if he does so, inspire heroics only affects him, not any other allies. This ability alters bardic performance and replaces soothing performance and versatile performance.
+At 15th level, a sorrowsoul can use his lyric sorrow ability in conjunction with the inspire heroics bardic performance. When using the lyric sorrow version of this performance, a sorrowsoul gains fast healing 5 and benefits from a 50% miss chance, as if under the effects of [*displacement*](../../magic/spells/displacement.md), in addition to the standard bonuses conferred by this bardic performance, but if he does so, inspire heroics only affects him, not any other allies. This ability alters bardic performance and replaces soothing performance and versatile performance.
 
 **Darkness Denied (Ex)**: At 2nd level, a sorrowsoul gains a +4 bonus on saving throws against negative energy and death effects. This ability replaces well-versed.
 
@@ -1634,7 +1634,7 @@ This ability replaces well-versed.
 
 The flamesinger finds inspiration in the mesmerizing beauty of fire.
 
-**Fire Music**: A flamesinger gains Fire Music as a bonus feat at 1st level (without needing to meet the normal prerequisites). At 4th level (when she gains access to 2nd-level spells), she adds *summon monster I* and *summon monster II* to her bard spells known; every 3 levels thereafter she gains the next level of *summon monster*, until she adds *summon monster VI* to her spells known at 16th level. The flamesinger must apply the Fire Music feat’s effect when casting these spells.
+**Fire Music**: A flamesinger gains [Fire Music](../../rules/feats/fire-music.md) as a bonus feat at 1st level (without needing to meet the normal prerequisites). At 4th level (when she gains access to 2nd-level spells), she adds *summon monster I* and *summon monster II* to her bard spells known; every 3 levels thereafter she gains the next level of *summon monster*, until she adds *summon monster VI* to her spells known at 16th level. The flamesinger must apply the Fire Music feat’s effect when casting these spells.
 
 This ability replaces bardic knowledge and lore master.
 
@@ -1672,7 +1672,7 @@ Additionally, when acting as a confidante (or any other type of advisor) to redu
 
 This ability replaces versatile performance.
 
-**Invigorating Artistry (Su)**: At 10th level, a solacer can use his performances to protect and heal a target’s soul. The solacer can perform for 1 hour (this requires no skill check) and grant several benefits for 24 hours to the creatures that can hear or see his performance, or both, depending on whether the performance has audible or visual components. Affected creatures gain a +3 bonus on saving throws against curses, possession spells and effects (such as *magic jar*), and domination and mind control spells and effects (such as *dominate person*). If the target is suffering any or multiple such effects, it immediately can attempt a new saving throw against each; the effect ends if the saving throw is successful. Only one such extra saving throw can be granted against each condition in any 24-hour period. If a creature benefits from the daily performance between saving throws against a corruption progressing, it gains a +3 bonus on the next saving throw against that corruption.
+**Invigorating Artistry (Su)**: At 10th level, a solacer can use his performances to protect and heal a target’s soul. The solacer can perform for 1 hour (this requires no skill check) and grant several benefits for 24 hours to the creatures that can hear or see his performance, or both, depending on whether the performance has audible or visual components. Affected creatures gain a +3 bonus on saving throws against curses, possession spells and effects (such as [*magic jar*](../../magic/spells/magic-jar.md)), and domination and mind control spells and effects (such as [*dominate person*](../../magic/spells/dominate-person.md)). If the target is suffering any or multiple such effects, it immediately can attempt a new saving throw against each; the effect ends if the saving throw is successful. Only one such extra saving throw can be granted against each condition in any 24-hour period. If a creature benefits from the daily performance between saving throws against a corruption progressing, it gains a +3 bonus on the next saving throw against that corruption.
 
 The amount of this bonus increases by 1 at 16th and 19th levels (maximum +5 at 19th level).
 
@@ -1742,11 +1742,11 @@ Starting a battle dance is a move action, but it can be maintained each round as
 
 When the dervish uses the inspire courage, inspire greatness, or inspire heroics bardic performance types as battle dances, these performance types only provide benefit to the dervish himself. All other types of bardic performance work normally (affecting the bard and his allies, or the bard's enemies, as appropriate). This ability alters the standard bardic performance ability.
 
-**Dervish Dance (Ex)**: A healing dervish gains the Dervish Dance feat as a bonus feat. This ability replaces bardic knowledge.
+**Dervish Dance (Ex)**: A healing dervish gains the [Dervish Dance](../../rules/feats/dervish-dance.md) feat as a bonus feat. This ability replaces bardic knowledge.
 
 **Spinning Spellcaster (Ex)**: At 5th level, a healing dervish gains a +4 bonus on concentration checks to cast spells defensively. This ability replaces lore master.
 
-**Meditative Whirl (Ex)**: At 8th level, when using battle dance, the healing dervish can enter a trance-like state where his spinning motion represents the movement of the planets around the sun, and his spirit is attuned to the healing aspects of his deity. By spending a move action focusing on his whirling, the dervish can apply the Quicken Spell feat to any cure spell he is about to cast (effectively spending a move action and swift action to cast the spell). This does not alter the level of the spell or the casting time. The dervish can use this ability once per day at 8th level and one additional time per day for every two dervish levels he has beyond 8th. This ability replaces the dirge of doom bardic performance.
+**Meditative Whirl (Ex)**: At 8th level, when using battle dance, the healing dervish can enter a trance-like state where his spinning motion represents the movement of the planets around the sun, and his spirit is attuned to the healing aspects of his deity. By spending a move action focusing on his whirling, the dervish can apply the [Quicken Spell](../../rules/feats/quicken-spell.md) feat to any cure spell he is about to cast (effectively spending a move action and swift action to cast the spell). This does not alter the level of the spell or the casting time. The dervish can use this ability once per day at 8th level and one additional time per day for every two dervish levels he has beyond 8th. This ability replaces the dirge of doom bardic performance.
 
 ## Syndicate Ringleader
 
@@ -1756,7 +1756,7 @@ Global operations are too extensive to conduct without relying on contractors an
 
 **Never Lose Face (Ex)**: A syndicate ringleader is never outdone by her minions. At 2nd level, she gains a +2 bonus on saving throws against effects that also target one or more of her allies. This ability replaces well-versed.
 
-**Sinister Mien (Ex)**: At 2nd level, a syndicate ringleader can use her Intimidate bonus in place of her Perform bonus when using her bardic performance class ability. When the syndicate ringleader uses Intimidate to improve a creature’s attitude, the creature’s attitude remains friendly for 10 additional minutes per point by which the syndicate ringleader exceeded the check’s DC. At 6th level, the syndicate ringleader gains Dazzling Display as a bonus feat and does not need a weapon in her hand to use the feat. At 10th level, the syndicate ringleader can activate Dazzling Display as a standard action. At 14th level, she can affect all enemies within 60 feet with Dazzling Display. At 18th level, the range increases to 120 feet. This ability replaces versatile performance.
+**Sinister Mien (Ex)**: At 2nd level, a syndicate ringleader can use her Intimidate bonus in place of her Perform bonus when using her bardic performance class ability. When the syndicate ringleader uses Intimidate to improve a creature’s attitude, the creature’s attitude remains friendly for 10 additional minutes per point by which the syndicate ringleader exceeded the check’s DC. At 6th level, the syndicate ringleader gains [Dazzling Display](../../rules/feats/dazzling-display.md) as a bonus feat and does not need a weapon in her hand to use the feat. At 10th level, the syndicate ringleader can activate Dazzling Display as a standard action. At 14th level, she can affect all enemies within 60 feet with Dazzling Display. At 18th level, the range increases to 120 feet. This ability replaces versatile performance.
 
 **Countless Contingencies (Su)**: At 6th level, whenever a syndicate ringleader creates a plan using her cunning plan ability, she can choose two different bardic performances. When she triggers the plan, she chooses which of the two performances takes effect. At 12th level, a syndicate ringleader can spend a standard action and 2 rounds of bardic performance to extend the duration of a triggered plan by 1d4 rounds. At 18th level, the syndicate ringleader can choose three different bardic performances when using her cunning plan ability. This ability replaces suggestion, mass suggestion, and soothing performance.
 
@@ -1770,7 +1770,7 @@ Where other thieves use stealth or intimidation to achieve their goals, the braz
 
 **Blatant Subtlety (Ex)**: At 2nd level, a brazen deceiver has mastered the art of using magic without being detected. The brazen deceiver gains Spellsong as a bonus feat. Observers do not automatically recognize his bardic performances as anything other than ordinary speech or performance. Those specifically looking for abnormal effects must succeed at a Sense Motive check (DC = 10 + half the brazen deceiver’s bard level + the brazen deceiver’s Charisma modifier) to detect his performances. This ability replaces well-versed.
 
-**Invoke Shadows (Ex)**: A brazen deceiver has a tiny piece of darkness lodged in his soul; as his skills increase, he learns to command this shadowy power. A brazen deceiver adds the following spells to his bard spells known at the listed class levels. At 2nd level, the brazen deceiver adds *bleed* and *touch of fatigue* to his 0-level bard spells known. At 6th level, the brazen deceiver adds *darkness* and *darkvision* to his 2nd-level bard spells known. At 10th level, he adds *shadow conjuration* and *shadow step* to his 4th-level bard spells known. At 14th level, he adds *shadow evocation* and *shadow walk* to his 5th-level bard spells known. At 18th level, he adds *greater shadow conjuration* and *greater shadow evocation* to his 6th-level bard spells known. This ability replaces versatile performance.
+**Invoke Shadows (Ex)**: A brazen deceiver has a tiny piece of darkness lodged in his soul; as his skills increase, he learns to command this shadowy power. A brazen deceiver adds the following spells to his bard spells known at the listed class levels. At 2nd level, the brazen deceiver adds [*bleed*](../../magic/spells/bleed.md) and [*touch of fatigue*](../../magic/spells/touch-of-fatigue.md) to his 0-level bard spells known. At 6th level, the brazen deceiver adds [*darkness*](../../magic/spells/darkness.md) and [*darkvision*](../../magic/spells/darkvision.md) to his 2nd-level bard spells known. At 10th level, he adds *shadow conjuration* and [*shadow step*](../../magic/spells/shadow-step.md) to his 4th-level bard spells known. At 14th level, he adds [*shadow evocation*](../../magic/spells/shadow-evocation.md) and [*shadow walk*](../../magic/spells/shadow-walk.md) to his 5th-level bard spells known. At 18th level, he adds *greater shadow conjuration* and *greater shadow evocation* to his 6th-level bard spells known. This ability replaces versatile performance.
 
 **Devil’s Tongue (Ex)**: At 5th level, a brazen deceiver beguiles others with astonishing skill. This functions as the lore master ability, but its effects apply to Bluff checks instead of Knowledge skill checks. This ability replaces lore master.
 
@@ -1780,11 +1780,11 @@ Freedom fighters are often patrons of the arts. Many are particularly active in 
 
 **Bardic Performance**: An argent voice gains the following bardic performances. The argent voice must use Perform (sing) with these performances.
 
-*Limning Verse (Su)*: At 1st level, the argent voice can sing a song that causes fiends to glow with an aura of silvery light. Outsiders with the evil subtype within 10 feet of the argent voice are affected as per *faerie fire*. At 4th level and every 4 levels thereafter, the range of this ability increases by 10 feet, to a maximum of 60 feet at 20th level. Any defense that prevents the detection of alignment or evil also prevents limning verse from outlining a creature. This replaces fascinate.
+*Limning Verse (Su)*: At 1st level, the argent voice can sing a song that causes fiends to glow with an aura of silvery light. Outsiders with the evil subtype within 10 feet of the argent voice are affected as per [*faerie fire*](../../magic/spells/faerie-fire.md). At 4th level and every 4 levels thereafter, the range of this ability increases by 10 feet, to a maximum of 60 feet at 20th level. Any defense that prevents the detection of alignment or evil also prevents limning verse from outlining a creature. This replaces fascinate.
 
-*Shattering Crescendo (Sp)*: At 6th level, the argent voice learns to sing at frequencies capable of shattering magical effects. As a full-round action, an argent voice can use 2 rounds of bardic performance to attempt to dispel a single evil spell or enchantment spell cast by an evil creature. This functions as per *dispel magic*, using the bard’s level as his caster level. At 18th level, this ability can be used on effects that can be removed by the spell *break enchantment*. This replaces suggestion and mass suggestion.
+*Shattering Crescendo (Sp)*: At 6th level, the argent voice learns to sing at frequencies capable of shattering magical effects. As a full-round action, an argent voice can use 2 rounds of bardic performance to attempt to dispel a single evil spell or enchantment spell cast by an evil creature. This functions as per [*dispel magic*](../../magic/spells/dispel-magic.md), using the bard’s level as his caster level. At 18th level, this ability can be used on effects that can be removed by the spell [*break enchantment*](../../magic/spells/break-enchantment.md). This replaces suggestion and mass suggestion.
 
-*Devilbane Refrain (Su)*: At 8th level, the argent voice learns how to mimic aspects of the magical “Song of Silver” with his performance, enhancing his allies’ ability to combat devils and similar fiends. To be affected, a creature must be able to hear the argent voice’s singing and be within 30 feet of him. Natural and manufactured weapons wielded by affected allies are treated as though they were silver for the purpose of bypassing damage reduction. At 14th level, allies’ natural and manufactured weapons also gain the benefit of the evil outsider *bane* weapon special ability. This replaces dirge of doom and frightening tune.
+*Devilbane Refrain (Su)*: At 8th level, the argent voice learns how to mimic aspects of the magical “Song of Silver” with his performance, enhancing his allies’ ability to combat devils and similar fiends. To be affected, a creature must be able to hear the argent voice’s singing and be within 30 feet of him. Natural and manufactured weapons wielded by affected allies are treated as though they were silver for the purpose of bypassing damage reduction. At 14th level, allies’ natural and manufactured weapons also gain the benefit of the evil outsider [*bane*](../../magic/spells/bane.md) weapon special ability. This replaces dirge of doom and frightening tune.
 
 **Dedicated Performance (Ex)**: An argent voice can call upon the training of the grand opera to influence and scrutinize his foes. At 2nd level, an argent voice must choose Perform (sing) as his versatile performance skill. At 6th level, the argent voice gains a bonus on Perform (sing) checks made as part of a versatile performance equal to the number of additional Perform skills in which he has the maximum number of ranks possible at his level. This bonus increases by 1 per maximized Perform skill at 10th level and every four levels thereafter, to a maximum of a +4 bonus per fully ranked Perform skill other than Perform (sing) at 18th level. This alters versatile performance.
 
@@ -1818,7 +1818,7 @@ A mute musician forswears speech for the unnatural songs and thunderous silences
 
 **Mute (Ex)**: A mute musician has a disability or injury (possibly self-inflicted or even psychological) that prevents her from speaking or vocalizing. Language-dependent effects (including Perform [oratory]) require the bard to be able to use telepathy, nonverbal languages, or writing to communicate. She cannot use Perform (sing) or speak languages, though she can still create audible bardic performances by means of a musical instrument. A mute musician can provide verbal and somatic components for spells she casts via any musical instrument in which she has ranks in the appropriate Perform skill.
 
-**Eschew Materials (Ex)**: A mute musician gains Eschew Materials as a bonus feat at 1st level. This ability replaces bardic knowledge.
+**Eschew Materials (Ex)**: A mute musician gains [Eschew Materials](../../rules/feats/eschew-materials.md) as a bonus feat at 1st level. This ability replaces bardic knowledge.
 
 **Bardic Performance**: A mute musician gains the following bardic performances.
 
@@ -1826,9 +1826,9 @@ A mute musician forswears speech for the unnatural songs and thunderous silences
 
 *Maddening Harmonics (Su)*: At 14th level, the mute musician can create a performance so baffling and discordant that it usurps all thought within a 30-foot radius with chaos and entropy. The mute musician can select which creatures in this area are affected by the maddening harmonics and which are not. All targeted creatures within this area must succeed at a Will saving throw (DC = 10 + 1/2 the bard's level + the bard's Charisma modifier) or be confused for as long as they can hear the performance. If the creature succeeds at its saving throw, it is immune to this ability for 24 hours. This performance relies on audible components. This bardic performance replaces frightening tune.
 
-*Ceaseless Performance (Su)*: At 15th level, the mute musician can continue taking the free action to maintain a bardic performance even while confused, cowering in fear, dazed, nauseated, panicked, paralyzed, petrified, silenced, staggered, stunned, or unconscious. Even if the mute musician is killed, she can continue to take the free action to maintain her performance as long as she has rounds remaining. Only the utter destruction of the mute musician's body (such as via *destruction* or *disintegrate*, or by reducing the bard to a negative hit point total equal to 10 × her Constitution score) causes the performance to end. This ability replaces inspire heroics.
+*Ceaseless Performance (Su)*: At 15th level, the mute musician can continue taking the free action to maintain a bardic performance even while confused, cowering in fear, dazed, nauseated, panicked, paralyzed, petrified, silenced, staggered, stunned, or unconscious. Even if the mute musician is killed, she can continue to take the free action to maintain her performance as long as she has rounds remaining. Only the utter destruction of the mute musician's body (such as via [*destruction*](../../magic/spells/destruction.md) or [*disintegrate*](../../magic/spells/disintegrate.md), or by reducing the bard to a negative hit point total equal to 10 × her Constitution score) causes the performance to end. This ability replaces inspire heroics.
 
-*Song of the Conjunction (Su)*: At 18th level, the mute musician can harmonize with the alien chorus beyond the music of the spheres, creating a portentous cosmic alignment. This effect duplicates a *gate* used to travel, save that the destination point must be on the same plane as the bard, but it is not otherwise limited by distance. This bardic performance replaces mass suggestion.
+*Song of the Conjunction (Su)*: At 18th level, the mute musician can harmonize with the alien chorus beyond the music of the spheres, creating a portentous cosmic alignment. This effect duplicates a [*gate*](../../magic/spells/gate.md) used to travel, save that the destination point must be on the same plane as the bard, but it is not otherwise limited by distance. This bardic performance replaces mass suggestion.
 
 **Insights from Beyond (Ex)**: At 2nd level, a mute musician adds two abjuration, conjuration (calling), conjuration (summoning), or conjuration (teleportation) spells from the sorcerer/wizard spell list to her list of bard spells known. At 6th level and every 4 bard levels thereafter, she can choose two more spells to add to her spells known. This class feature replaces versatile performance.
 
@@ -1872,7 +1872,7 @@ Kobolds' yammering songs distract opponents in combat, hindering their ability t
 
 Instead of using song and dance, a fortune-teller influences people by divining their fate. Though he learns a great deal about the paths of destiny, his true skill is in making others think he knows more than he truly does.
 
-**Fortune-Teller's Divinations**: Add the following spells to the fortune-teller's bard spell list. He doesn't automatically gain them and must still select them as spells known if he wants to use them. 0—*guidance*; 1st—*object reading*; 2nd—*augury*; 3rd—*analyze aura*; 4th—*divination*; 5th—*retrocognition*; 6th—*true seeing*, *vision*. This ability alters the bard's spell list.
+**Fortune-Teller's Divinations**: Add the following spells to the fortune-teller's bard spell list. He doesn't automatically gain them and must still select them as spells known if he wants to use them. 0—[*guidance*](../../magic/spells/guidance.md); 1st—[*object reading*](../../magic/spells/object-reading.md); 2nd—[*augury*](../../magic/spells/augury.md); 3rd—[*analyze aura*](../../magic/spells/analyze-aura.md); 4th—[*divination*](../../magic/spells/divination.md); 5th—[*retrocognition*](../../magic/spells/retrocognition.md); 6th—[*true seeing*](../../magic/spells/true-seeing.md), [*vision*](../../magic/spells/vision.md). This ability alters the bard's spell list.
 
 **Oracular Performance**: A fortune-teller can use Perform (oratory) to read a fortune as part of a bardic performance. Once per hour when the bard performs a fortune-telling using a fortune-teller's deck, a crystal ball, or a similar item, he can read the fortune of one subject of the bardic performance. This is part of the same action used to activate the performance. The fortune-teller rolls d%, adds his bard level to the result, and consults the table below. The outcome depends on whether the chosen creature is an ally (for a beneficial performance) or an enemy (for a detrimental performance).
 
@@ -1902,7 +1902,7 @@ Jugglers are masters of manipulating objects, most famously by keeping multiple 
 
 **Weapon and Armor Proficiencies**: A juggler is proficient with all simple weapons, plus martial thrown weapons. This replaces his normal weapon proficiencies. A juggler is not proficient with shields.
 
-**Fast Reactions (Ex)**: At 1st level, a juggler gains Deflect Arrows as a bonus feat. At 5th level, he gains Snatch Arrows as a bonus feat. The juggler doesn't need to meet the prerequisites for these feats. The juggler can use the ability granted by these feats an additional time each round at 11th level (with a –5 penalty on his second attack roll) and at 17th level (with a –10 penalty on his third attack roll). This ability replaces bardic knowledge and lore master.
+**Fast Reactions (Ex)**: At 1st level, a juggler gains [Deflect Arrows](../../rules/feats/deflect-arrows.md) as a bonus feat. At 5th level, he gains [Snatch Arrows](../../rules/feats/snatch-arrows.md) as a bonus feat. The juggler doesn't need to meet the prerequisites for these feats. The juggler can use the ability granted by these feats an additional time each round at 11th level (with a –5 penalty on his second attack roll) and at 17th level (with a –10 penalty on his third attack roll). This ability replaces bardic knowledge and lore master.
 
 **Combat Juggling (Ex)**: At 2nd level, a juggler can hold and wield (in other words, "juggle") up to three items or weapons in his hands. The juggler must be able to hold and wield an object in one hand in order to juggle it. This ability doesn't grant the juggler additional attacks, though it does allow him to use different weapons as part of a full attack. As long as he is juggling fewer than three objects, the juggler is considered to have a free hand (for the purposes of drawing a weapon, using somatic components, using Deflect Arrows, and so on). At 6th level and every 4 levels thereafter, the maximum number of objects the juggler can juggle increases by one, to a maximum of seven objects at 18th level.
 
@@ -1930,11 +1930,11 @@ Originating from the wooded wilds, longbow minstrels combine the elven tradition
 
 **Diminished Spellcasting**: A longbow minstrel casts one fewer spell of each level than normal. If this reduces the number to 0, she can cast spells of that level only if her Charisma score allows bonus spells of that level. This alters the bard's spellcasting.
 
-**Arcane Archery**: A longbow minstrel's skill at ranged martial arts allows her to learn to cast a number of powerful, offensive spells that would otherwise be unavailable to her. At 1st level, she selects a number of spells from the sorcerer/wizard spell list equal to her Charisma modifier (minimum 1) and adds them to her bard spell list as bard spells of the same level. The spells selected must not already be on the bard spell list, and must be 6th level or lower. At 4th level and every 4 bard levels thereafter, she adds an additional sorcerer/wizard spell to her bard spell list. A longbow minstrel is limited to the following spells when adding spells to her spell list in this manner: *acid arrow*, *arrow eruption*, *flame arrow*, *gravity bow*, *greater magic weapon*, *longshot*, *magic weapon*, *protection from arrows*, *spectral hand*, *true strike*, and sorcerer/wizard spells of the evocation school. A longbow minstrel must still select these spells as spells known before she can cast them.
+**Arcane Archery**: A longbow minstrel's skill at ranged martial arts allows her to learn to cast a number of powerful, offensive spells that would otherwise be unavailable to her. At 1st level, she selects a number of spells from the sorcerer/wizard spell list equal to her Charisma modifier (minimum 1) and adds them to her bard spell list as bard spells of the same level. The spells selected must not already be on the bard spell list, and must be 6th level or lower. At 4th level and every 4 bard levels thereafter, she adds an additional sorcerer/wizard spell to her bard spell list. A longbow minstrel is limited to the following spells when adding spells to her spell list in this manner: [*acid arrow*](../../magic/spells/acid-arrow.md), [*arrow eruption*](../../magic/spells/arrow-eruption.md), [*flame arrow*](../../magic/spells/flame-arrow.md), [*gravity bow*](../../magic/spells/gravity-bow.md), *greater magic weapon*, [*longshot*](../../magic/spells/longshot.md), [*magic weapon*](../../magic/spells/magic-weapon.md), [*protection from arrows*](../../magic/spells/protection-from-arrows.md), [*spectral hand*](../../magic/spells/spectral-hand.md), [*true strike*](../../magic/spells/true-strike.md), and sorcerer/wizard spells of the evocation school. A longbow minstrel must still select these spells as spells known before she can cast them.
 
 In addition, for the purpose of meeting the requirements of combat feats and prestige classes, a longbow minstrel treats her bard level as her base attack bonus (in addition to base attack bonuses gained from other classes and Hit Dice). Her skilled blending of archery and arcane magic also allows a longbow minstrel to fulfill a spell's somatic components even when using a bow in both hands (though not other ranged weapons). This ability replaces bardic knowledge, dirge of doom, distraction, fascinate, inspire competence, lore master, and soothing performance.
 
-**Precise Minstrel (Ex)**: At 2nd level, a longbow minstrel gains Precise Shot as a bonus feat. In addition, any creature that is affected by any of the longbow minstrel's bardic performance does not provide soft cover to enemies against her ranged attacks with a bow. This ability replaces the versatile performance gained at 2nd level and well-versed.
+**Precise Minstrel (Ex)**: At 2nd level, a longbow minstrel gains [Precise Shot](../../rules/feats/precise-shot.md) as a bonus feat. In addition, any creature that is affected by any of the longbow minstrel's bardic performance does not provide soft cover to enemies against her ranged attacks with a bow. This ability replaces the versatile performance gained at 2nd level and well-versed.
 
 **Bowsong Strike (Su)**: At 6th level, a longbow minstrel can use spellstrike (as per the magus class feature) to cast a single-target ranged touch attack spell and deliver it through a ranged weapon attack. Even if the spell can normally affect multiple targets, only a single missile, ray, or effect accompanies the attack. She cannot use spellstrike with normal touch attacks or melee attacks. At 18th level, a longbow minstrel using a multiple-target spell with this ability can deliver one ray or line of effect with each attack when using a full-attack action, up to the maximum allowed by the spell (in the case of ray effects). Any effects not used in the round the spell is cast are lost. This ability replaces suggestion and mass suggestion.
 
@@ -1968,7 +1968,7 @@ Sly and mischievous like the fey tricksters of legend, mischief makers learn sup
 
 *Embarrassing Satire (Su)*: At 8th level, a mischief maker's powerful satire raises painful blisters and ugly boils on the face of her target. The mischief maker selects one target within 30 feet to become sickened from the uncomfortable facial boils. The sickened effect continues for as long as the target is within 30 feet and the mischief maker continues the performance, though the boils remain for 1 day afterward. Embarrassing satire is a language-dependent, mind-affecting ability that relies on audible components. This ability replaces dirge of doom.
 
-**Dirty Trickster (Ex)**: At 2nd level, a mischief maker gains Improved Dirty Trick as a bonus feat and counts as having Combat Expertise for the purpose of meeting the prerequisites of feats that have Improved Dirty Trick as a prerequisite. This ability replaces well-versed.
+**Dirty Trickster (Ex)**: At 2nd level, a mischief maker gains [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md) as a bonus feat and counts as having Combat Expertise for the purpose of meeting the prerequisites of feats that have Improved Dirty Trick as a prerequisite. This ability replaces well-versed.
 
 **Master of Mischief (Ex)**: At 5th level, a mischief maker can take 10 on a Bluff, Disguise, Sleight of Hand, or Stealth skill check (if she has ranks in that skill), even if distracted or endangered. In addition, once per day, the mischief maker can take 20 on one of these skill checks (if she has ranks in that skill). She can use this ability one additional time per day for every 6 bard levels she has beyond 5th, to a maximum of three times per day at 17th level. This ability replaces lore master.
 
@@ -1998,7 +1998,7 @@ Bards may have different reasons for wanting to heal the sick and injured, both 
 
 **Channel Energy (Su)**: At 2nd level, an arcane healer gains the ability to channel positive energy as a cleric of one level lower than his level. If a creature within the channeled energy's area of effect would be allowed a save against its effects, the DC is equal to 10 + 1/2 the arcane healer's level + the arcane healer's Charisma modifier. An arcane healer can use this ability once per day at 2nd level, gaining an additional use per day every four levels thereafter (6th, 10th, 14th, and 18th), to a maximum of 5 times per day at 18th level. This ability replaces versatile performance.
 
-**Inspiring Healing (Sp)**: At 5th level, an arcane healer gains the ability to expend rounds of his bardic performance to provide extra healing to his allies. By expending 2 rounds of bardic performance, an arcane healer can cast *cure light wounds* as a spell-like ability. At 11th level, he can expend 2 rounds of bardic performance to cast *cure moderate wounds* as a spell-like ability. At 17th level, he may instead expend 2 rounds of bardic performance to cast *cure serious wounds* as a spell-like ability. No single target may be affected by an arcane healer's inspiring healing ability more than once in a 24-hour period. This ability replaces lore master.
+**Inspiring Healing (Sp)**: At 5th level, an arcane healer gains the ability to expend rounds of his bardic performance to provide extra healing to his allies. By expending 2 rounds of bardic performance, an arcane healer can cast [*cure light wounds*](../../magic/spells/cure-light-wounds.md) as a spell-like ability. At 11th level, he can expend 2 rounds of bardic performance to cast [*cure moderate wounds*](../../magic/spells/cure-moderate-wounds.md) as a spell-like ability. At 17th level, he may instead expend 2 rounds of bardic performance to cast [*cure serious wounds*](../../magic/spells/cure-serious-wounds.md) as a spell-like ability. No single target may be affected by an arcane healer's inspiring healing ability more than once in a 24-hour period. This ability replaces lore master.
 
 ## Dwarven Scholar
 
@@ -2022,7 +2022,7 @@ Hoaxers specialize in creating valuable-looking counterfeits and infusing these 
 
 **Bardic Performance (Su)**: A hoaxer dedicates his arcane energies to deceiving others rather than to entertaining them, granting him the following unique performances.
 
-*Bad Deal (Su)*: A hoaxer can use his performance to coax a bit of luck (good or bad) into a valuable-seeming object. As a standard action that provokes attacks of opportunity, the hoaxer can use 1 round of bardic performance to invest a single object in his possession with a hex he knows. This object must be light enough to hold in one hand, and cannot already have any magical properties. The object remains hexed as long as the hoaxer continues to spend 1 round of bardic performance each round as a swift action to maintain it, until the hoaxer drops the item, or until triggered. The hex triggers immediately upon being willingly accepted by another creature, targeting its new owner. A bad deal cannot be forced on a creature or slipped into its possession without its knowledge, but a hoaxer can lie or cheat to convince his mark to accept the object, or use spells like *beguiling gift*.
+*Bad Deal (Su)*: A hoaxer can use his performance to coax a bit of luck (good or bad) into a valuable-seeming object. As a standard action that provokes attacks of opportunity, the hoaxer can use 1 round of bardic performance to invest a single object in his possession with a hex he knows. This object must be light enough to hold in one hand, and cannot already have any magical properties. The object remains hexed as long as the hoaxer continues to spend 1 round of bardic performance each round as a swift action to maintain it, until the hoaxer drops the item, or until triggered. The hex triggers immediately upon being willingly accepted by another creature, targeting its new owner. A bad deal cannot be forced on a creature or slipped into its possession without its knowledge, but a hoaxer can lie or cheat to convince his mark to accept the object, or use spells like [*beguiling gift*](../../magic/spells/beguiling-gift.md).
 
 At 1st level, the hoaxer knows one witch hex from the following list: blight, charm, evil eye, fortune, healing, misfortune, slumber, or unnerve beasts. At 3rd level and every 3 bard levels thereafter, he can learn one additional hex. The save DC for a hoaxer's hexes is equal to 10 + 1/2 the hoaxer's bard level + his Charisma modifier. These hexes function identically to witch hexes, except they can only target single creatures, and the hoaxer can only use his hexes by investing them into objects. If the hoaxer learns hexes from any other source (such as the witch class), he cannot invoke them into an object.
 
@@ -2038,7 +2038,7 @@ Beginning at 12th level, the hoaxer adds the following major hexes to the list o
 
 **Versed in Curses (Ex)**: At 2nd level, a hoaxer gains a +4 bonus on saving throws against curses, hexes, and language-dependent effects. This ability replaces well-versed.
 
-**Curse Crafter (Ex)**: At 5th level, a hoaxer learns how to craft cursed items. He gains one item creation feat as a bonus feat at 5th level, plus an additional item creation feat every 6 levels thereafter. He can use these feats only to craft cursed items. In addition, he can craft items that appear magical but have no true magical properties—as if permanently affected by the *magic aura* spell—for 50 gp. This ability replaces lore master.
+**Curse Crafter (Ex)**: At 5th level, a hoaxer learns how to craft cursed items. He gains one item creation feat as a bonus feat at 5th level, plus an additional item creation feat every 6 levels thereafter. He can use these feats only to craft cursed items. In addition, he can craft items that appear magical but have no true magical properties—as if permanently affected by the [*magic aura*](../../magic/spells/magic-aura.md) spell—for 50 gp. This ability replaces lore master.
 
 ## Dragon Herald
 
@@ -2054,7 +2054,7 @@ Dragon heralds are messengers and evangelists of true dragonkind. They carry the
 
 **Bardic Performance**: A dragon herald gains the following types of bardic performance.
 
-*Diplomatic Immunity (Su)*: A dragon herald can use bardic performance to generate a *sanctuary* effect upon herself. Most use this to deliver the word of their patron or to safely complete Diplomacy or Intimidate checks in the presence of hostile foes. The effect persists for as long as the dragon herald performs and for 1 round after. This performance replaces countersong and fascinate.
+*Diplomatic Immunity (Su)*: A dragon herald can use bardic performance to generate a [*sanctuary*](../../magic/spells/sanctuary.md) effect upon herself. Most use this to deliver the word of their patron or to safely complete Diplomacy or Intimidate checks in the presence of hostile foes. The effect persists for as long as the dragon herald performs and for 1 round after. This performance replaces countersong and fascinate.
 
 *Diplomatic Protection (Su)*: At 3rd level, the dragon herald can use bardic performance to wrap a single ally in the colors and scales of her patron. The dragon herald must be able to see her ally, and that ally must be able to perceive her performance. While the herald performs, the target gains resistance equal to twice the dragon herald's level to the energy type associated with the dragon herald's patron, and an enhancement bonus to natural armor equal to 1/2 the dragon herald's level. This performance replaces inspire competence.
 
@@ -2141,7 +2141,7 @@ Bards of this archetype receive inspiration from a patron of craft and invention
 
 Once practiced by the dwarves during their ancient migration from the Underworld to the surface, the traditions of the stonesinger bards changed when the dwarves arrived on the surface. The tradition still hearkens back to its subterranean origins, however, and is practiced as a form of meditation or worship by many dwarves. Stonesingers are rare bards capable of vocalizing their bardic performances through subsonic harmonies, allowing their performances to carry as subtle vibrations through stone, rather than through the air. They command considerable power underground.
 
-**Earth Magic**: A stonesinger is treated as having the Eschew Materials feat so long as he is touching natural or manufactured stone. Additionally, a stonesinger adds the following spells to the bard spell list at the listed level: 1—*magic stone*, 2—*stone shield*, 3—*stone shape*, 4—*earth glide*, 5—*stoneskin*, 6—*stone tell*. This ability alters spellcasting.
+**Earth Magic**: A stonesinger is treated as having the Eschew Materials feat so long as he is touching natural or manufactured stone. Additionally, a stonesinger adds the following spells to the bard spell list at the listed level: 1—[*magic stone*](../../magic/spells/magic-stone.md), 2—[*stone shield*](../../magic/spells/stone-shield.md), 3—[*stone shape*](../../magic/spells/stone-shape.md), 4—[*earth glide*](../../magic/spells/earth-glide.md), 5—[*stoneskin*](../../magic/spells/stoneskin.md), 6—[*stone tell*](../../magic/spells/stone-tell.md). This ability alters spellcasting.
 
 **Stone Song (Su)**: A stonesinger’s bardic performance is a subsonic vibration that resonates from his body and travels through solid rock. This vibration is subtle enough to not be heard, though creatures with the tremorsense universal monster ability can distinctly hear the stone song out to a range of 100 feet per bard level. All allies within 30 feet of the stonesinger benefit from stone song, perceiving the effect due to proximity. An allied creature with tremorsense benefits from stone song as long as it’s within the extended range, provided that there is an unobstructed path of solid earth between the creature and stonesinger. Natural and manufactured stone does not inhibit stone song’s range. A stonesinger must use Perform (song) or Perform (oratory) for this bardic performance. This ability modifies bardic performance.
 
@@ -2173,7 +2173,7 @@ You lay a curse on those who have wronged you.
 
 **Cost**: Feat or 3rd-level bard spell known.
 
-**Effect**: You scream out a litany of every way you have been harmed by others, from physical abuse, to verbal insults, to subtle harassment, to any other number of contemptuous actions that denied you something you were rightfully due. When you complete the performance, you fall prone, the emotion or power behind your speech driving you to your knees. Any creature that damaged you within the last round must succeed at a Will save or be cursed, as per the *bestow curse* spell.
+**Effect**: You scream out a litany of every way you have been harmed by others, from physical abuse, to verbal insults, to subtle harassment, to any other number of contemptuous actions that denied you something you were rightfully due. When you complete the performance, you fall prone, the emotion or power behind your speech driving you to your knees. Any creature that damaged you within the last round must succeed at a Will save or be cursed, as per the [*bestow curse*](../../magic/spells/bestow-curse.md) spell.
 
 Once per day, if you are reduced to fewer than 0 hit points, you can activate this bardic masterpiece as an immediate action before you become dying or dead as long as you have at least 3 rounds of bardic performance remaining.
 
@@ -2189,7 +2189,7 @@ You contort your vocal cords to produce an eerie, melodious song about the wonde
 
 **Cost**: Feat or 5th-level bard spell known.
 
-**Effect**: The sinisterly seductive song bores its way into the target’s flesh, levitating it as per *reverse gravity* as long as the bard maintains the performance. Although the symphony does have words—and is often sung in Infernal—this is not a language-dependent effect.
+**Effect**: The sinisterly seductive song bores its way into the target’s flesh, levitating it as per [*reverse gravity*](../../magic/spells/reverse-gravity.md) as long as the bard maintains the performance. Although the symphony does have words—and is often sung in Infernal—this is not a language-dependent effect.
 
 **Use**: 1 round of bardic performance per round.
 
@@ -2217,7 +2217,7 @@ This performance replaces dirge of doom.
 
 Bards who have successfully mastered the strict curriculum of an academy of grand arts are more adept in their assigned field of performance, at the expense of versatility in other areas. Such bards have the focused performance alternate class ability, which replaces versatile performance.
 
-**Focused Performance (Ex)**: At 2nd level, a bard must choose one type of Perform skill. The bard gains Extra Performance as a bonus feat, usable only with the chosen category of the Perform skill. At 8th level, and every 6 levels thereafter, the bard gains Extra Performance as an additional bonus feat. The additional uses of bardic performance gained from these feats cannot be used with any category of the Perform skill other than the one chosen at 2nd level.
+**Focused Performance (Ex)**: At 2nd level, a bard must choose one type of Perform skill. The bard gains [Extra Performance](../../rules/feats/extra-performance.md) as a bonus feat, usable only with the chosen category of the Perform skill. At 8th level, and every 6 levels thereafter, the bard gains Extra Performance as an additional bonus feat. The additional uses of bardic performance gained from these feats cannot be used with any category of the Perform skill other than the one chosen at 2nd level.
 
 ## Masterpieces of the Long Roads
 
@@ -2229,7 +2229,7 @@ Your deliberate dancing causes your foes’ steps to fall in time to your own.
 
 **Cost**: Feat or 4th-level bard spell known.
 
-**Effect**: You enact a series of graceful, measured steps that your enemies cannot help but mimic. When you complete the performance, any foe within 60 feet that can see you is slowed (as per the *slow* spell) for as long as you continue the performance. A Will saving throw negates this effect.
+**Effect**: You enact a series of graceful, measured steps that your enemies cannot help but mimic. When you complete the performance, any foe within 60 feet that can see you is slowed (as per the [*slow*](../../magic/spells/slow.md) spell) for as long as you continue the performance. A Will saving throw negates this effect.
 
 Each round you continue the performance, each slowed creature within 60 feet (whether slowed by this masterpiece or by another effect) must succeed at another Will saving throw or its penalty on attack rolls, AC, and Reflex saves increases by 1 as the slow dance movements overtake it. This increased penalty lasts as long as you continue the performance. A creature that succeeds at this Will saving throw merely avoids increasing the penalty for that round; success does not remove the effect that slowed it.
 

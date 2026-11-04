@@ -40,7 +40,7 @@ Militant orders of lawful crusaders count a number of paladins among their ranks
 
 **Code of Conduct**: Spread the order of law wherever you go, so long as the law is just; do not serve as a tool of tyranny. Fight vigilantly the servants of chaos.
 
-**Oath Spells**: 1st—*command*; 2nd—*calm emotions*; 3rd—*suggestion*; 4th—*order's wrath*.
+**Oath Spells**: 1st—[*command*](../../magic/spells/command.md); 2nd—[*calm emotions*](../../magic/spells/calm-emotions.md); 3rd—[*suggestion*](../../magic/spells/suggestion.md); 4th—[*order's wrath*](../../magic/spells/orders-wrath.md).
 
 ### Oath against Corruption
 
@@ -94,7 +94,7 @@ Some paladins are champions of order, pledging to battle the hordes of goblinoid
 
 **Holy Reach (Su)**: At 2nd level, an oathbound paladin can expend one use of her smite evil ability to extend her natural reach by 5 feet for 1 minute. This does not stack with the Lunge feat. This ability replaces divine grace.
 
-**Hordebreaker (Su)**: At 11th level, when the paladin hits an evil humanoid with an attack of opportunity, she deals an additional 1d6 points of damage. When using holy reach, the paladin may make a number of additional attacks of opportunity per round equal to her Charisma bonus. This increase stacks with similar increases from other sources such as Combat Reflexes. This ability replaces aura of justice.
+**Hordebreaker (Su)**: At 11th level, when the paladin hits an evil humanoid with an attack of opportunity, she deals an additional 1d6 points of damage. When using holy reach, the paladin may make a number of additional attacks of opportunity per round equal to her Charisma bonus. This increase stacks with similar increases from other sources such as [Combat Reflexes](../../rules/feats/combat-reflexes.md). This ability replaces aura of justice.
 
 **Code of Conduct**: Always heed the call of a community in danger from savages. Be the first in line to defend a settlement and the last to retreat.
 
@@ -148,11 +148,11 @@ For these paladins, beauty is synonymous with virtue, and it is the lens through
 
 **Beauty Unyielding (Su)**: At 3rd level, a paladin gains spell resistance equal to 11 + her paladin level, but only against non-harmless transmutation effects. This spell resistance can be lowered as a standard action. Additionally, whenever the paladin would take Charisma damage or suffer Charisma drain, she reduces the amount of damage or drain by 1 (minimum 0). This ability replaces divine health.
 
-**Restore True Beauty (Su)**: At 14th level, a paladin can expend two uses of her lay on hands ability to attempt to dispel any non-harmless transmutation effect on a target, as *break enchantment*. Additionally, the paladin can expend two uses of her lay on hands ability to remove all of the target's temporary Charisma damage and restore all points drained from its Charisma score, as *restoration*. This ability replaces aura of faith.
+**Restore True Beauty (Su)**: At 14th level, a paladin can expend two uses of her lay on hands ability to attempt to dispel any non-harmless transmutation effect on a target, as [*break enchantment*](../../magic/spells/break-enchantment.md). Additionally, the paladin can expend two uses of her lay on hands ability to remove all of the target's temporary Charisma damage and restore all points drained from its Charisma score, as [*restoration*](../../magic/spells/restoration.md). This ability replaces aura of faith.
 
 **Code of Conduct**: Respect the innate beauty in all things, and strive to preserve it from corruption and perversion. Never willfully cause damage to crafted objects or works of art, nor cause a creature or object to be deformed in any way.
 
-**Oath Spells**: 1st—*sanctuary*; 2nd—*make whole*; 3rd—*banish seeming*; 4th—*true form*.
+**Oath Spells**: 1st—[*sanctuary*](../../magic/spells/sanctuary.md); 2nd—[*make whole*](../../magic/spells/make-whole.md); 3rd—[*banish seeming*](../../magic/spells/banish-seeming.md); 4th—[*true form*](../../magic/spells/true-form.md).
 
 ### Oath of Charity
 
@@ -212,7 +212,7 @@ A rift to the lower planes threatens the world with the uttermost depths of depr
 
 **Mercy (Su)**: At 12th level, the paladin can choose the following mercy.
 
-*Possessed*: If the subject is affected by *dominate person*, possessed, or otherwise magically controlled by an evil outsider, this mercy grants the victim a new saving throw against the effect to end the effect at once.
+*Possessed*: If the subject is affected by [*dominate person*](../../magic/spells/dominate-person.md), possessed, or otherwise magically controlled by an evil outsider, this mercy grants the victim a new saving throw against the effect to end the effect at once.
 
 **Code of Conduct**: Oppose demonic influence in all its forms and seek a way to close the rift.
 
@@ -226,13 +226,13 @@ Legendary mountain citadels stand as beacons of a people's culture. Paladins wit
 
 **Divine Bond (Su)**: At 5th level, the paladin adds mighty cleaving to the list of weapon special abilities that can be added to her weapon and removes flaming from the list. This ability alters divine bond.
 
-**Path to the Citadel (Sp)**: At 11th level, the paladin can use the hallowed citadels as a beacon leading her on the path to her deity. If she is on the Material Plane, the paladin can use *find the path* once per day at her paladin level, but only to find her way to a known hallowed citadel. If she is not on the Material Plane, she can instead use this ability to use *plane shift* as per the spell to travel to a known hallowed citadel. If she is in a hallowed citadel, she can expend her daily use of this ability to use *plane shift* to travel to the realm of her deity. This ability replaces aura of justice.
+**Path to the Citadel (Sp)**: At 11th level, the paladin can use the hallowed citadels as a beacon leading her on the path to her deity. If she is on the Material Plane, the paladin can use [*find the path*](../../magic/spells/find-the-path.md) once per day at her paladin level, but only to find her way to a known hallowed citadel. If she is not on the Material Plane, she can instead use this ability to use [*plane shift*](../../magic/spells/plane-shift.md) as per the spell to travel to a known hallowed citadel. If she is in a hallowed citadel, she can expend her daily use of this ability to use *plane shift* to travel to the realm of her deity. This ability replaces aura of justice.
 
 **Stalwart (Ex)**: At 14th level, the paladin's quest has strengthened her body and mind. If she succeeds at a Fortitude or Will saving throw against an effect that has a reduced effect on a successful save, she instead avoids the effect entirely. A helpless paladin does not gain the benefit of the stalwart ability. This ability replaces aura of faith.
 
 **Code of Conduct**: Reclaim a hallowed citadel in the name of honorable ideals. Defend citadels already held by her people.
 
-**Oath Spells**: 1st—*enlarge person*; 2nd—*find traps*; 3rd—*spiritual ally*; 4th—*blessing of fervor*.
+**Oath Spells**: 1st—[*enlarge person*](../../magic/spells/enlarge-person.md); 2nd—[*find traps*](../../magic/spells/find-traps.md); 3rd—[*spiritual ally*](../../magic/spells/spiritual-ally.md); 4th—[*blessing of fervor*](../../magic/spells/blessing-of-fervor.md).
 
 ### Oath of the Public Trust
 
@@ -250,7 +250,7 @@ Free peoples hold their elected officials to extremely high standards of conduct
 
 **Code of Conduct**: Know the laws of the land and do not exempt authorities from the application of the law.
 
-**Oath Spells**: 1st—*comprehend languages*; 2nd—*locate object*; 3rd—*tongues*; 4th—*true seeing*.
+**Oath Spells**: 1st—[*comprehend languages*](../../magic/spells/comprehend-languages.md); 2nd—[*locate object*](../../magic/spells/locate-object.md); 3rd—[*tongues*](../../magic/spells/tongues.md); 4th—[*true seeing*](../../magic/spells/true-seeing.md).
 
 ### Oath of Vengeance
 
@@ -378,7 +378,7 @@ Ghost hunters devote their lives to eliminating malevolent spirits and putting t
 
 Most paladins rush into battle, meeting evil toe-to-toe. The divine hunter prefers to engage evil from afar, striking down her foes before they can threaten her allies.
 
-**Precise Shot**: A divine hunter gains Precise Shot as a bonus feat at 1st level, even if she doesn’t meet the prerequisites. This ability replaces her Heavy Armor Proficiency.
+**Precise Shot**: A divine hunter gains [Precise Shot](../../rules/feats/precise-shot.md) as a bonus feat at 1st level, even if she doesn’t meet the prerequisites. This ability replaces her Heavy Armor Proficiency.
 
 **Shared Precision (Su)**: At 3rd level, when a divine hunter hits a creature with a ranged attack, she grants her allies within 10 feet of her the benefit of the Precise Shot feat against that target until the start of her next turn. Her allies must remain within 10 feet of her, and must be able both to see and hear the divine hunter to gain this benefit. This ability replaces aura of courage.
 
@@ -388,7 +388,7 @@ Most paladins rush into battle, meeting evil toe-to-toe. The divine hunter prefe
 
 **Aura** of Care (Su): At 8th level, a divine hunter and her allies gain a preternatural awareness of each other’s position in battle. She and any allies within 10 feet of her no longer provide cover against each other’s ranged attacks unless they wish to. Allies who cannot move or otherwise take actions still provide cover, as do flat-footed allies. The divine hunter and her allies must be able to see or hear each other to use this ability. This ability replaces aura of resolve.
 
-**Hunter’s Blessing (Su)**: At 11th level, a divine hunter can expend a use of her smite evil ability as a swift action to grant herself and all allies within 10 feet the Deadly Aim, Precise Shot, and Improved Precise Shot feats, even if they lack the prerequisites. The effects last for 1 minute. Evil creatures gain no benefit from this ability. This ability replaces aura of justice.
+**Hunter’s Blessing (Su)**: At 11th level, a divine hunter can expend a use of her smite evil ability as a swift action to grant herself and all allies within 10 feet the [Deadly Aim](../../rules/feats/deadly-aim.md), Precise Shot, and [Improved Precise Shot](../../rules/feats/improved-precise-shot.md) feats, even if they lack the prerequisites. The effects last for 1 minute. Evil creatures gain no benefit from this ability. This ability replaces aura of justice.
 
 **Righteous Hunter (Su)**: At 14th level, a divine hunter’s ranged weapons are treated as good-aligned for the purposes of overcoming damage reduction. Any ranged attacks made by an ally within 10 feet of her are likewise treated as good-aligned for the purposes of overcoming damage reduction.
 
@@ -420,7 +420,7 @@ Not all paladins are knights in shining armor. Holy guns roam the world searchin
 
 **Weapon and Armor Proficiency**: Holy guns are proficient with all simple and martial weapons, firearms, and light armor.
 
-**Have Gun**: At 1st level, the holy gun gains the Amateur Gunslinger feat and Gunsmithing as a bonus feat. She also gains a battered gun identical to the one gained by the gunslinger. This ability replaces detect evil.
+**Have Gun**: At 1st level, the holy gun gains the [Amateur Gunslinger](../../rules/feats/amateur-gunslinger.md) feat and Gunsmithing as a bonus feat. She also gains a battered gun identical to the one gained by the gunslinger. This ability replaces detect evil.
 
 **Divine Deed**: At 2nd level, the holy gun gains the following deed. This deed works and interacts with grit the same way as gunslinger deeds, but only the holy gun can use it. If the holy gun also has levels in gunslinger, she can spend grit points from that class to use this deed.
 
@@ -544,7 +544,7 @@ Wilderness wardens are vigilant guardians of natural places of all kinds, from m
 
 **Aura of Comfort (Ex)**: At 3rd level, a wilderness warden is comfortable in nearly any climate, as if she were affected by a constant endure elements spell, and she and allies within 10 feet of her gain a +4 bonus on Constitution checks and saving throws to resist fatigue; exhaustion; and the effects of hunger, thirst, and hot or cold climates (including from magical effects). This replaces aura of courage.
 
-**Favored Terrain (Ex)**: At 3rd level, a wilderness warden selects a favored terrain, as per the ranger class feature. Every 6 levels after 3rd, she selects an additional favored terrain; each time she does so, the bonuses she gains in her previous favored terrain or terrains increase by 2. This replaces the mercies gained at 3rd level , 9th level, and 15th level.
+**Favored Terrain (Ex)**: At 3rd level, a wilderness warden selects a favored terrain, as per the ranger class feature. Every 6 levels after 3rd, she selects an additional favored terrain; each time she does so, the bonuses she gains in her previous favored terrain or terrains increase by 2. This replaces the mercies gained at 3rd level, 9th level, and 15th level.
 
 **Spells**: For each level of spell she can cast, a wilderness warden can prepare and cast one spell per day from the druid spell list rather than the paladin spell list. This alters the paladin’s spells.
 
@@ -556,7 +556,7 @@ Wilderness wardens are vigilant guardians of natural places of all kinds, from m
 
 A tranquil guardian is a missionary of peace and tranquility, a soothing voice of succor in a violent and dangerous world. A tranquil guardian gains the following class features.
 
-**Touch of Serenity (Su)**: At 1st level, a tranquil guardian gains Touch of Serenity as a bonus feat, even if she does not meet the prerequisites. At 6th level, and every six levels thereafter, the duration of a tranquil guardian’s Touch of Serenity increases by 1 round. Each round on its turn, the target may attempt a new Will save to end the effect. The duration does not stack; only the longest remaining duration applies. This ability replaces smite evil.
+**Touch of Serenity (Su)**: At 1st level, a tranquil guardian gains [Touch of Serenity](../../rules/feats/touch-of-serenity.md) as a bonus feat, even if she does not meet the prerequisites. At 6th level, and every six levels thereafter, the duration of a tranquil guardian’s Touch of Serenity increases by 1 round. Each round on its turn, the target may attempt a new Will save to end the effect. The duration does not stack; only the longest remaining duration applies. This ability replaces smite evil.
 
 **Serene Strike (Su)**: At 3rd level, when a tranquil guardian confirms a critical hit, she may convert all damage from her attack to nonlethal damage, and when she does, she can activate Touch of Serenity through her weapon or unarmed strike. Using serene strike is a free action. This ability replaces aura of courage.
 
@@ -586,7 +586,7 @@ A stonelord is a devoted sentinel of dwarven enclaves, drawing the power of the 
 
 **Stone Servant (Su)**: At 5th level, a stonelord may call a Small earth elemental to her side, as a paladin calls her mount. This earth elemental is Lawful Good in alignment and possesses the celestial template, and it increases in size as the stonelord gains levels, becoming Medium at 8th level, Large at 11th level, Huge at 14th level, Greater at 17th level, and Elder at 20th level. This ability replaces divine bond.
 
-**Stonebane (Su)**: At 11th level, when using stonestrike, a stonelord’s attack gains the *bane* weapon special ability against creatures with the earth subtype and constructs or objects made of earth or stone. This ability replaces aura of justice.
+**Stonebane (Su)**: At 11th level, when using stonestrike, a stonelord’s attack gains the [*bane*](../../magic/spells/bane.md) weapon special ability against creatures with the earth subtype and constructs or objects made of earth or stone. This ability replaces aura of justice.
 
 **Phase Strike (Su)**: At 12th level, a stonelord’s stonestrike may pass through stone and metal as if they weren’t there. By spending 2 uses of her stonestrike ability, she may ignore any cover less than total cover provided by stone or metal, and she ignores any AC bonus from stone or metal armor or shields as if wielding a *brilliant energy* weapon. A phase strike cannot damage constructs, objects, or creatures with the earth subtype, but unlike a *brilliant energy* weapon, it can harm undead. This ability replaces her 12th-level mercy.
 
@@ -600,7 +600,7 @@ As most half-orcs are outcasts, a half-orc paladin recognizes that often those w
 
 **Merciful Smite (Su)**: At 1st level, when a redeemer chooses to smite a creature, she can have all of her attacks against the target deal nonlethal damage. She does not take the normal –4 attack roll penalty for using a lethal weapon to deal nonlethal damage. She cannot use this ability to deal nonlethal damage to outsiders with the evil subtype, evil-aligned dragons, or undead creatures (these creatures take lethal damage from her smite). This otherwise works like and replaces the standard paladin’s smite evil.
 
-**Monstrous Rapport (Ex)**: At 1st level, redeemers gain a +2 bonus on Diplomacy checks to influence creatures who are commonly considered monstrous. This includes but is not limited to “monstrous” races such as goblins and orcs, monstrous humanoids, and other intelligent non-humanoid monsters. This ability replaces *detect evil*.
+**Monstrous Rapport (Ex)**: At 1st level, redeemers gain a +2 bonus on Diplomacy checks to influence creatures who are commonly considered monstrous. This includes but is not limited to “monstrous” races such as goblins and orcs, monstrous humanoids, and other intelligent non-humanoid monsters. This ability replaces [*detect evil*](../../magic/spells/detect-evil.md).
 
 **Pact of Peace (Sp)**: At 8th level, a redeemer can force a defeated creature to accept a binding pact of peace as a condition of its surrender, as if using *lesser geas*. Her caster level for this ability is equal to her paladin level. Rather than assigning a mission or task, the redeemer gives the creature a simple set of prohibitions to protect others. Example geas include “Leave this city and do not return” or “Do not attack caravans.” The prohibition must be against an area no larger than 300 square miles or one specific group of people (such as a tribe or citizens of a particular city). This ability lasts 1 month per paladin level. This replaces aura of resolve.
 
@@ -624,7 +624,7 @@ Gray paladins have discovered that in a world of intrigue, a strict code of hono
 
 **Smite Foe (Su)**: At 4th level, a gray paladin can spend two uses of smite evil in order to smite a nongood creature that is not evil and gain her full benefits. The gray paladin must truly believe that the creature she smites is an opponent to the cause of good. Even if this nonevil foe is an outsider, undead, or dragon, she doesn’t add increased damage to her first attack. This ability replaces channel positive energy and alters smite evil.
 
-**Aura of Subtlety (Sp, Su)**: At 11th level, a gray paladin learns how to protect herself from detection. She and her allies within 10 feet gain a +4 morale bonus on saving throws against divination effects. Furthermore, casters of divinations that target the gray paladin or her nearby allies must succeed at a caster level check as though the gray paladin and her nearby allies were under the effect of a *nondetection* spell cast by the gray paladin, with a caster level equal to the gray paladin’s paladin level. This ability functions while the gray paladin is conscious and while she is sleeping, but not if she is unconscious for any other reason, or dead. This ability replaces aura of justice.
+**Aura of Subtlety (Sp, Su)**: At 11th level, a gray paladin learns how to protect herself from detection. She and her allies within 10 feet gain a +4 morale bonus on saving throws against divination effects. Furthermore, casters of divinations that target the gray paladin or her nearby allies must succeed at a caster level check as though the gray paladin and her nearby allies were under the effect of a [*nondetection*](../../magic/spells/nondetection.md) spell cast by the gray paladin, with a caster level equal to the gray paladin’s paladin level. This ability functions while the gray paladin is conscious and while she is sleeping, but not if she is unconscious for any other reason, or dead. This ability replaces aura of justice.
 
 ## Martyr
 
@@ -650,7 +650,7 @@ This ability replaces divine health.
 
 In a world of horrors, some holy warriors fight to safeguard the minds and spirits of those exposed to evil. Soul sentinels use the strength of their resolve to stem the tide of corruption and insanity, as they believe that the greatest tragedy is a soul lost to evil when it was within their power to save it.
 
-**Reprieve (Su)**: A soul sentinel relieves manic and tortured souls exposed to the harsh evil of the world. At 6th level, when the soul sentinel uses her lay on hands ability to heal a living creature, she can remove *confusion* effects in place of applying one of her other mercies. If used on a creature suffering from a permanent confusion effect, this removes the effect for only 1 minute.
+**Reprieve (Su)**: A soul sentinel relieves manic and tortured souls exposed to the harsh evil of the world. At 6th level, when the soul sentinel uses her lay on hands ability to heal a living creature, she can remove [*confusion*](../../magic/spells/confusion.md) effects in place of applying one of her other mercies. If used on a creature suffering from a permanent confusion effect, this removes the effect for only 1 minute.
 
 This replaces the mercy gained at 6th level.
 
@@ -714,7 +714,7 @@ The banishing warden is an expert at fighting all types of evil outsiders and se
 
 This modifies smite evil.
 
-**Banishing Smite (Su)**: At 3rd level, once per day when the banishing warden confirms a critical hit against a target of her smite evil effect, she can attempt to forcibly banish the target to its home plane. The creature struck must succeed at a Will save (DC = 10 + half the banishing warden’s level + the banishing warden’s Charisma modifier) or be sent back to its home plane as per *dismissal*. At 10th level, a creature dismissed in this manner takes an amount of damage equal to 2 points per paladin level at the start of its next turn. The banishing warden gains an additional daily use of this ability at 9th and 15th level.
+**Banishing Smite (Su)**: At 3rd level, once per day when the banishing warden confirms a critical hit against a target of her smite evil effect, she can attempt to forcibly banish the target to its home plane. The creature struck must succeed at a Will save (DC = 10 + half the banishing warden’s level + the banishing warden’s Charisma modifier) or be sent back to its home plane as per [*dismissal*](../../magic/spells/dismissal.md). At 10th level, a creature dismissed in this manner takes an amount of damage equal to 2 points per paladin level at the start of its next turn. The banishing warden gains an additional daily use of this ability at 9th and 15th level.
 
 This ability replaces the mercy gained at 3rd level. A banishing warden still receives the benefits of the mercy class ability starting at 6th level and onward.
 
@@ -742,7 +742,7 @@ This ability replaces smite evil.
 
 This ability replaces aura of justice.
 
-**Champion of Life (Sp)**: An invigorator’s holy resolve can sometimes overcome death—or smite the horror that is undeath. At 20th level, three times per day as a standard action, an invigorator can use *breath of life* as a spell-like ability, using her paladin level as her caster level. Creatures brought back to life with this ability do not suffer the normal temporary negative level the spell imposes.
+**Champion of Life (Sp)**: An invigorator’s holy resolve can sometimes overcome death—or smite the horror that is undeath. At 20th level, three times per day as a standard action, an invigorator can use [*breath of life*](../../magic/spells/breath-of-life.md) as a spell-like ability, using her paladin level as her caster level. Creatures brought back to life with this ability do not suffer the normal temporary negative level the spell imposes.
 
 This ability replaces holy champion.
 
@@ -753,12 +753,12 @@ Add the following new mercies to the list that paladins (and other characters wh
 ### 3rd-Level Mercies
 
 - *Deceived*: The target can immediately attempt a new saving throw to disbelieve any ongoing illusions that it failed to disbelieve within the last minute.
-- *Riled*: The paladin’s lay on hands also acts as *calm emotions*, but only for the purpose of suppressing morale bonuses (such as from the *rage* spell) and emotion effects that aren’t fear effects. Use the paladin’s level as the caster level.
+- *Riled*: The paladin’s lay on hands also acts as *calm emotions*, but only for the purpose of suppressing morale bonuses (such as from the [*rage*](../../magic/spells/rage.md) spell) and emotion effects that aren’t fear effects. Use the paladin’s level as the caster level.
 
 ### 6th-Level Mercies
 
 - *Enfeebled*: The paladin dispels any magical effects that are reducing one of the target’s ability scores (paladin’s choice).
-- *Haunted*: The paladin’s lay on hands also acts as *protection from evil*, but only for the purpose of allowing a new saving throw against enchantment (charm) and enchantment (compulsion) effects, making the target immune to any attempts to possess or exercise mental control over the target, or preventing a life force from controlling the target (all as described in the second effect of *protection from evil*). Use the paladin’s level as the caster level.
+- *Haunted*: The paladin’s lay on hands also acts as [*protection from evil*](../../magic/spells/protection-from-evil.md), but only for the purpose of allowing a new saving throw against enchantment (charm) and enchantment (compulsion) effects, making the target immune to any attempts to possess or exercise mental control over the target, or preventing a life force from controlling the target (all as described in the second effect of *protection from evil*). Use the paladin’s level as the caster level.
 - *Targeted*: The paladin’s lay on hands also acts as *sanctuary*, using the paladin’s level as the caster level. The saving throw DC to negate this effect is equal to 10 + 1/2 the paladin’s level + the paladin’s Charisma modifier.
 
 ### 9th-Level Mercies
@@ -769,9 +769,9 @@ Add the following new mercies to the list that paladins (and other characters wh
 
 ### 12th-Level Mercies
 
-- *Amputated*: The paladin’s lay on hands also acts as *regenerate*, but only for the purposes of regrowing severed body members, broken bones, and ruined organs. The paladin must have the injured mercy before she can select this mercy.
-- *Ensorcelled*: The paladin’s lay on hands also acts as *dispel magic*, using the paladin’s level as her caster level (maximum 20).
-- *Petrified*: The paladin’s lay on hands ability also acts as *stone to flesh*, but only for the purpose of removing the petrified condition from a creature.
+- *Amputated*: The paladin’s lay on hands also acts as [*regenerate*](../../magic/spells/regenerate.md), but only for the purposes of regrowing severed body members, broken bones, and ruined organs. The paladin must have the injured mercy before she can select this mercy.
+- *Ensorcelled*: The paladin’s lay on hands also acts as [*dispel magic*](../../magic/spells/dispel-magic.md), using the paladin’s level as her caster level (maximum 20).
+- *Petrified*: The paladin’s lay on hands ability also acts as [*stone to flesh*](../../magic/spells/stone-to-flesh.md), but only for the purpose of removing the petrified condition from a creature.
 
 ## Variant Divine Bonds
 
@@ -779,7 +779,7 @@ Although all paladins commune with divine forces and celestial spirits, some are
 
 **Agathion Bond**: As a standard action, the paladin can call forth an agathion spirit that bonds to her healing hands for 1 minute per paladin level, causing her to manifest physical traits evocative of one kind of agathion. This bond allows the paladin to add her Charisma bonus to the amount of hit points that she restores with her spells, her lay on hands ability, and her channel energy ability. For every 3 levels beyond 5th, she restores 1 additional hit point with those abilities, up to a maximum of 5 + her Charisma modifier at 20th level. The paladin can use this ability once per day at 5th level, and one additional time per day for every 4 levels beyond 5th, up to a total of four times per day at 17th level.
 
-**Angelic Bond**: As a standard action, the paladin can call forth an angel spirit that bonds to her, causing her to manifest a resplendent halo. This bond allows the paladin to shine light as per *continual flame* for 1 minute per paladin level. Additionally, while the halo shines, all allies within 20 feet gain the benefits of *protection from evil*, except the deflection and resistance bonuses are +3. For every 3 levels she has beyond 5th, the deflection bonus and resistance bonus provided by this effect increases by 1, up to a maximum of +8 at 20th level. The paladin can use this ability once per day at 5th level, and one additional time per day for every 4 levels beyond 5th, up to a total of four times per day at 17th level.
+**Angelic Bond**: As a standard action, the paladin can call forth an angel spirit that bonds to her, causing her to manifest a resplendent halo. This bond allows the paladin to shine light as per [*continual flame*](../../magic/spells/continual-flame.md) for 1 minute per paladin level. Additionally, while the halo shines, all allies within 20 feet gain the benefits of *protection from evil*, except the deflection and resistance bonuses are +3. For every 3 levels she has beyond 5th, the deflection bonus and resistance bonus provided by this effect increases by 1, up to a maximum of +8 at 20th level. The paladin can use this ability once per day at 5th level, and one additional time per day for every 4 levels beyond 5th, up to a total of four times per day at 17th level.
 
 **Archon Bond**: As a standard action, the paladin can call forth an archon spirit that bonds to her brow, causing her eyes to glow with righteous fury for 1 minute per paladin level. While this bond is active, any hostile creature within a 10-foot radius of the paladin that looks at her must succeed at a Will saving throw (DC = 10 + 1/2 her paladin level + her Charisma modifier) or take a –2 penalty on attack rolls and saving throws and to AC for 24 hours. Whether or not the saving throw is successful, a creature cannot be affected by the same paladin’s archon bond again for 24 hours, and the penalties from multiple archon bonds don’t stack. Creatures that don’t have eyesight are not affected by this ability. For every 3 levels beyond 5th, the radius of the paladin’s archon bond increases by 5 feet, up to a 35-foot radius at 20th level. The paladin can use this ability once per day at 5th level, and one additional time per day for every 4 levels beyond 5th, up to a total of four times per day at 17th level.
 
@@ -787,7 +787,7 @@ Although all paladins commune with divine forces and celestial spirits, some are
 
 Tempered champions are trained in a martial hall to master their deities’ favored weapons.
 
-**Divine Weapon Specialization (Ex)**: At 4th level and every 4 levels thereafter, a tempered champion gains a bonus feat from the following list: Disruptive, Divine Fighting Technique, Greater Penetrating Strike, Greater Weapon Focus, Greater Weapon Specialization, Penetrating Strike, Weapon Focus, Weapon Specialization, and Weapon Trick. If a feat requires choosing a weapon or weapon group, the tempered champion must choose her deity’s favored weapon, or its group. The tempered champion must meet the feat’s prerequisites, but treats her tempered champion levels as fighter levels for this purpose.
+**Divine Weapon Specialization (Ex)**: At 4th level and every 4 levels thereafter, a tempered champion gains a bonus feat from the following list: Disruptive, [Divine Fighting Technique](../../rules/feats/divine-fighting-technique.md), [Greater Penetrating Strike](../../rules/feats/greater-penetrating-strike.md), [Greater Weapon Focus](../../rules/feats/greater-weapon-focus.md), [Greater Weapon Specialization](../../rules/feats/greater-weapon-specialization.md), [Penetrating Strike](../../rules/feats/penetrating-strike.md), Weapon Focus, [Weapon Specialization](../../rules/feats/weapon-specialization.md), and [Weapon Trick](../../rules/feats/weapon-trick.md). If a feat requires choosing a weapon or weapon group, the tempered champion must choose her deity’s favored weapon, or its group. The tempered champion must meet the feat’s prerequisites, but treats her tempered champion levels as fighter levels for this purpose.
 
 In addition, the 4th-level tempered champion gains the increased base weapon damage of the warpriest’s sacred weapon ability at her tempered champion level. This ability replaces spellcasting.
 
@@ -797,7 +797,7 @@ In addition, the 4th-level tempered champion gains the increased base weapon dam
 
 Legates present themselves not as armed crusaders, but as peaceful envoys and advisors, bringing wisdom garnered from a long, stable history of service. Though they hold to the same strict paladin code, they often serve as diplomats (and sometimes spies) for good organizations. Yet woe to those who believe them defenseless, for a legate can call upon her divine patron to provide her with armor and weapons.
 
-**Celestial Armor (Sp)**: At 3rd level, a legate can conjure armor as a standard action. This ability acts as the spell *instant armor*, using her paladin level as her caster level, except as follows. At 6th level and every 3 paladin levels thereafter, the armor gains an additional +1 enhancement bonus. These bonuses can be used to add any of the following armor special abilities: champion, fortification (heavy, light, or medium), invulnerability, or spell resistance (13, 15, 17, or 19). In addition, the legate can grant her armor the energy resistance special ability at the cost of a +3 bonus, the improved energy resistance special ability at the cost of a +5 bonus, or the righteous special ability at a cost of a +4 bonus. The armor must have at least a +1 enhancement bonus before any special abilities can be added. The bonus and special abilities granted are determined when this ability is used and cannot be changed until this ability is used again. If the legate has a steed bond and is riding her steed, she can include her steed when summoning celestial armor, granting the steed barding with the same bonuses and special abilities as her own. The legate can use this ability a number of times per day equal to her Wisdom bonus plus half her paladin level. This ability replaces mercy.
+**Celestial Armor (Sp)**: At 3rd level, a legate can conjure armor as a standard action. This ability acts as the spell [*instant armor*](../../magic/spells/instant-armor.md), using her paladin level as her caster level, except as follows. At 6th level and every 3 paladin levels thereafter, the armor gains an additional +1 enhancement bonus. These bonuses can be used to add any of the following armor special abilities: champion, fortification (heavy, light, or medium), invulnerability, or spell resistance (13, 15, 17, or 19). In addition, the legate can grant her armor the energy resistance special ability at the cost of a +3 bonus, the improved energy resistance special ability at the cost of a +5 bonus, or the righteous special ability at a cost of a +4 bonus. The armor must have at least a +1 enhancement bonus before any special abilities can be added. The bonus and special abilities granted are determined when this ability is used and cannot be changed until this ability is used again. If the legate has a steed bond and is riding her steed, she can include her steed when summoning celestial armor, granting the steed barding with the same bonuses and special abilities as her own. The legate can use this ability a number of times per day equal to her Wisdom bonus plus half her paladin level. This ability replaces mercy.
 
 ## Paladin of Perfection
 
@@ -807,7 +807,7 @@ Paladins of a god of self-perfection meditate on mastery and train relentlessly,
 
 **Confident Defense (Ex)**: At 1st level, when wearing light or no armor and not using a shield, a paladin of perfection adds 1 point of his Charisma bonus (if any) per class level to his Dexterity bonus to his Armor Class. If he is caught flat-footed or otherwise denied his Dexterity bonus, he also loses this bonus. This ability replaces his proficiency with medium armor, heavy armor, and shields.
 
-**Unarmed Strike**: At 1st level, a paladin of perfection gains Improved Unarmed Strike as a bonus feat. In addition, he gains the unarmed strike monk ability, treating his monk level as half his paladin level (minimum 1) for calculating his unarmed strike damage.
+**Unarmed Strike**: At 1st level, a paladin of perfection gains [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat. In addition, he gains the unarmed strike monk ability, treating his monk level as half his paladin level (minimum 1) for calculating his unarmed strike damage.
 
 **Aura of Law (Su)**: The power of a paladin of perfection's aura of law is equal to his class level. This ability replaces aura of good.
 
@@ -857,7 +857,7 @@ Veterans of mystical battles against demonic hordes, mind swords merge psychic a
 
 **Touch Treatment (Su)**: At 3rd level, a mind sword can expend one use of her mind arsenal ability to remove minor harmful mental conditions, as per the mesmerist touch treatment class feature. At 9th level, she can remove moderate conditions, and at 15th level, she can remove major conditions. This ability replaces mercy.
 
-**Spells**: A mind sword adds the following psychic spells to her paladin spell list at the listed spell levels: 1st—*detect psychic significance*, *mage hand*, *telekinetic projectile*, *thought shield I*; 2nd—*apport object*, *enshroud thoughts*, *mental barrier I*, *thought shield II*; 3rd—*intellect fortress I*, *mental barrier II*, *telekinetic maneuver*, *thought shield III*; 4th—*intellect fortress II*, *telekinesis*, *thought shield IV*, *thoughtsense*, *tower of iron will I*. The mind sword can prepare and cast these psychic spells as divine paladin spells. However, the mind sword cannot use these spells for item creation, including making potions or scrolls of these spells. This ability replaces channel positive energy.
+**Spells**: A mind sword adds the following psychic spells to her paladin spell list at the listed spell levels: 1st—[*detect psychic significance*](../../magic/spells/detect-psychic-significance.md), [*mage hand*](../../magic/spells/mage-hand.md), [*telekinetic projectile*](../../magic/spells/telekinetic-projectile.md), *thought shield I*; 2nd—[*apport object*](../../magic/spells/apport-object.md), [*enshroud thoughts*](../../magic/spells/enshroud-thoughts.md), *mental barrier I*, *thought shield II*; 3rd—*intellect fortress I*, *mental barrier II*, [*telekinetic maneuver*](../../magic/spells/telekinetic-maneuver.md), *thought shield III*; 4th—*intellect fortress II*, [*telekinesis*](../../magic/spells/telekinesis.md), *thought shield IV*, [*thoughtsense*](../../magic/spells/thoughtsense.md), *tower of iron will I*. The mind sword can prepare and cast these psychic spells as divine paladin spells. However, the mind sword cannot use these spells for item creation, including making potions or scrolls of these spells. This ability replaces channel positive energy.
 
 ## Order Enforcer
 
@@ -865,7 +865,7 @@ Order enforcers have altered abilities that allow them to stand against the forc
 
 **Class Skills**: The order enforcer's class skills are Craft (Int), Handle Animal (Cha), Heal (Wis), Intimidate (Cha), Knowledge (local) (Int), Knowledge (religion) (Int), Profession (Wis), Ride (Dex), Sense Motive (Wis), and Spellcraft (Int). This replaces the paladin's class skills list.
 
-**Detect Chaos (Sp)**: At will, an order enforcer can use *detect chaos*, as per the spell. The order enforcer can, as a move action, concentrate on a single item or individual within 60 feet and determine whether it is chaotic, learning the strength of its aura as if she had studied it for 3 rounds. While focusing on one individual or object, the order enforcer can't use *detect chaos* on any other object or individual within range. This ability replaces detect evil.
+**Detect Chaos (Sp)**: At will, an order enforcer can use [*detect chaos*](../../magic/spells/detect-chaos.md), as per the spell. The order enforcer can, as a move action, concentrate on a single item or individual within 60 feet and determine whether it is chaotic, learning the strength of its aura as if she had studied it for 3 rounds. While focusing on one individual or object, the order enforcer can't use *detect chaos* on any other object or individual within range. This ability replaces detect evil.
 
 **Smite Chaos (Su)**: This ability functions as the paladin's smite evil ability, but against chaotic-aligned creatures. Smite chaos is twice as effective against chaotic-aligned aberrations, outsiders with the chaotic subtype, and fey. This ability replaces smite evil.
 
@@ -895,7 +895,7 @@ Some paladins focus their training to combat the shadows and use darkness to the
 
 **Illuminating Zeal (Su)**: At 4th level, a dusk knight gains the ability to grant darkvision to her allies. As a standard action, the dusk knight grants one target touched darkvision with a range of 60 feet for 1 hour. If the target already has darkvision, the range increases by 60 feet instead. If the dusk knight targets herself, using this ability is a swift action. Using this ability consumes two uses of her lay on hands ability. This ability replaces channel positive energy.
 
-**Shadow's Embrace (Su)**: At 5th level, a dusk knight learns to fight effectively in areas of darkness. She gains Blind-Fight as a bonus feat and darkvision with a range of 60 feet. If she already has darkvision, the range increases by 30 feet instead. At 10th level, a dusk knight gains Improved Blind-Fight as a bonus feat. At 15th level, a dusk knight gains the see in darkness ability. This ability replaces divine bond.
+**Shadow's Embrace (Su)**: At 5th level, a dusk knight learns to fight effectively in areas of darkness. She gains Blind-Fight as a bonus feat and darkvision with a range of 60 feet. If she already has darkvision, the range increases by 30 feet instead. At 10th level, a dusk knight gains [Improved Blind-Fight](../../rules/feats/improved-blind-fight.md) as a bonus feat. At 15th level, a dusk knight gains the see in darkness ability. This ability replaces divine bond.
 
 **Cloak of Shadow (Su)**: At 8th level, a dusk knight becomes adept at moving through darkness. She ignores her armor penalty when attempting Stealth checks and gains a bonus on Stealth checks equal to half her paladin level while in areas of dim light or darkness. This ability replaces aura of resolve.
 
@@ -907,9 +907,9 @@ Servants of gods who revere wealth, knights of coins promote fair trade and stab
 
 **Class Skills**: A knight of coins adds Appraise, Knowledge (local), Perception, and Use Magic Device to her list of class skills. She gains a number of skill ranks equal to 4 + her Intelligence modifier at each level, instead of a number of skill ranks equal to 2 + her Intelligence modifier. This alters the paladin's class skills and skill ranks per level.
 
-**Eye for Forgeries (Sp)**: At will, a knight of coins can concentrate on a single item within 30 feet as a move action. When she does, the knight of coins can detect if it is magical, as per the spell *detect magic*. The knight of coins cannot concentrate on more than one item in this way at a time. This replaces detect evil.
+**Eye for Forgeries (Sp)**: At will, a knight of coins can concentrate on a single item within 30 feet as a move action. When she does, the knight of coins can detect if it is magical, as per the spell [*detect magic*](../../magic/spells/detect-magic.md). The knight of coins cannot concentrate on more than one item in this way at a time. This replaces detect evil.
 
-**Blessing of Prosperity (Su)**: A knight of coins is a patron of wealth and seeks to even the playing field for those who have unfair economic disadvantages. At 3rd level and every 6 levels thereafter, the paladin can select a blessing (see Blessings below). By expending a use of lay on hands, the knight of coins can instead grant a boon to herself or a creature touched as a standard action. These boons do not stack with themselves or with blessings from another knight of coins. A blessing of prosperity lasts up to 1 hour, though the knight of coins who bestowed it can end a blessing's benefits early (whether it affects her or another creature) as a free action. Using this ability requires only one free hand and is a standard action, unless the knight of coins targets herself, in which case it is a swift action. If she knows multiple blessings of prosperity, the knight of coins can bestow multiple blessings on a single target as part of the action and the expenditure of a use of lay on hands required to use this ability. If she bestows multiple different blessings, these blessings are cumulative. For example, a 9th-level knight of coins' blessing of prosperity ability might grant a +4 sacred bonus on Appraise and Sense Motive checks as well as a +4 sacred bonus on Perception checks and to CMD against disarm and steal combat maneuvers. A knight of coins who takes the Extra Mercy feat can gain an extra blessing of prosperity instead of an extra mercy. Once a blessing of prosperity is chosen, it can't be changed. A character who has benefited from a blessing of prosperity cannot benefit from that same blessing again (whether bestowed by the same knight of coins or another knight of coins) for 24 hours.
+**Blessing of Prosperity (Su)**: A knight of coins is a patron of wealth and seeks to even the playing field for those who have unfair economic disadvantages. At 3rd level and every 6 levels thereafter, the paladin can select a blessing (see Blessings below). By expending a use of lay on hands, the knight of coins can instead grant a boon to herself or a creature touched as a standard action. These boons do not stack with themselves or with blessings from another knight of coins. A blessing of prosperity lasts up to 1 hour, though the knight of coins who bestowed it can end a blessing's benefits early (whether it affects her or another creature) as a free action. Using this ability requires only one free hand and is a standard action, unless the knight of coins targets herself, in which case it is a swift action. If she knows multiple blessings of prosperity, the knight of coins can bestow multiple blessings on a single target as part of the action and the expenditure of a use of lay on hands required to use this ability. If she bestows multiple different blessings, these blessings are cumulative. For example, a 9th-level knight of coins' blessing of prosperity ability might grant a +4 sacred bonus on Appraise and Sense Motive checks as well as a +4 sacred bonus on Perception checks and to CMD against disarm and steal combat maneuvers. A knight of coins who takes the [Extra Mercy](../../rules/feats/extra-mercy.md) feat can gain an extra blessing of prosperity instead of an extra mercy. Once a blessing of prosperity is chosen, it can't be changed. A character who has benefited from a blessing of prosperity cannot benefit from that same blessing again (whether bestowed by the same knight of coins or another knight of coins) for 24 hours.
 
 *Blessings*: The following blessings are available to a knight of coins.
 
@@ -933,7 +933,7 @@ While most paladins stride brazenly forth to battle evil in gleaming armor, fait
 
 **Stalk Evil (Su)**: A faithful wanderer isn't interested in going out in a blaze of glory after exhausting a limited ability to smite evil. Instead, she has developed techniques to evade, stalk, and punish evil whenever necessary. She gains a +2 bonus on Knowledge, Perception, Sense Motive, Stealth, and Survival checks against evil outsiders, as well as a +2 bonus on weapon attack and damage rolls against them. These bonuses don't stack with favored enemy bonuses. At 5th level and every 5 levels thereafter, these bonuses increase by 2 (to a maximum of +10 at 20th level). At 7th level, the faithful wanderer also gains these bonuses against undead, and at 13th level, she also gains these bonuses against evil dragons. This replaces smite evil.
 
-**Champion's Bond (Su)**: At 5th level, a faithful wanderer must choose the weapon option of her divine bond class feature. At 20th level, whenever her divine bond is active, she gains several additional benefits. Her DR improves to 5/—. Additionally, if she rolls a natural 20 on an attack roll against an evil outsider and confirms the critical hit, the outsider is also subject to *banishment*, using the faithful wanderer's paladin level as the caster level (her weapon and holy symbol automatically count as objects that the subject hates). Finally, whenever she uses lay on hands to heal herself, she heals the maximum possible amount of hit points. This alters divine bond and replaces holy champion.
+**Champion's Bond (Su)**: At 5th level, a faithful wanderer must choose the weapon option of her divine bond class feature. At 20th level, whenever her divine bond is active, she gains several additional benefits. Her DR improves to 5/—. Additionally, if she rolls a natural 20 on an attack roll against an evil outsider and confirms the critical hit, the outsider is also subject to [*banishment*](../../magic/spells/banishment.md), using the faithful wanderer's paladin level as the caster level (her weapon and holy symbol automatically count as objects that the subject hates). Finally, whenever she uses lay on hands to heal herself, she heals the maximum possible amount of hit points. This alters divine bond and replaces holy champion.
 
 ## Combat Healer Squire
 
@@ -951,7 +951,7 @@ While most paladins stride brazenly forth to battle evil in gleaming armor, fait
 
 **Weapon and Armor Proficiency**: Virtuous bravos aren't proficient with heavy armor or shields (except for bucklers). This ability alters the paladin's armor proficiency.
 
-**Bravo's Finesse (Ex)**: A virtuous bravo can use her Dexterity modifier instead of her Strength modifier on attack rolls with light or one-handed piercing melee weapons (though if she carries a shield, she applies its armor check penalty to such attack rolls), and she can use her Charisma score in place of her Intelligence score to meet prerequisites of combat feats. This ability counts as having the Weapon Finesse feat for the purpose of meeting feat prerequisites.
+**Bravo's Finesse (Ex)**: A virtuous bravo can use her Dexterity modifier instead of her Strength modifier on attack rolls with light or one-handed piercing melee weapons (though if she carries a shield, she applies its armor check penalty to such attack rolls), and she can use her Charisma score in place of her Intelligence score to meet prerequisites of combat feats. This ability counts as having the [Weapon Finesse](../../rules/feats/weapon-finesse.md) feat for the purpose of meeting feat prerequisites.
 
 **Bravo's Smite (Su)**: When using smite evil, a virtuous bravo doesn't gain a deflection bonus to AC. This ability alters smite evil.
 
@@ -969,13 +969,13 @@ While most paladins stride brazenly forth to battle evil in gleaming armor, fait
 
 **Martial Focus**: The divine guardian devotes herself to the concerns of the material world, eschewing some divine studies. She does not gain access to divine spellcasting and can't use spell-completion magic items.
 
-**Divine Troth (Sp)**: Once per day the divine guardian pledges her protection to a willing creature for the day. This is done at the same time she prepares her spells. When the paladin first selects a creature for divine troth, that creature must be present and agree to receive the paladin's protection, but if the paladin already has a creature selected for divine troth, she can maintain that selection each day without her charge being present. Once per day, the divine guardian can cast *locate creature* to find the current target of her divine troth. This ability replaces detect evil.
+**Divine Troth (Sp)**: Once per day the divine guardian pledges her protection to a willing creature for the day. This is done at the same time she prepares her spells. When the paladin first selects a creature for divine troth, that creature must be present and agree to receive the paladin's protection, but if the paladin already has a creature selected for divine troth, she can maintain that selection each day without her charge being present. Once per day, the divine guardian can cast [*locate creature*](../../magic/spells/locate-creature.md) to find the current target of her divine troth. This ability replaces detect evil.
 
 **Guarding Hands (Su)**: The paladin can use lay on hands to heal herself or her divine troth as a move action, but can't use lay on hands to heal herself as a swift action. The divine guardian can't use lay on hands more than once per round. This modifies lay on hands.
 
 **Courageous Defense (Ex)**: At 3rd level a divine guardian can intercept attacks directed at the target of her divine troth as if she had the Bodyguard and In Harm's Way feats. The divine guardian's aura of courage does not grant a bonus to allies within 10 feet, but still grants her immunity to fear effects. This ability modifies aura of courage.
 
-**Bonus Feat**: A divine guardian gains a bonus feat at 7th level, and additional bonus feats at 10th and 13th level. These bonus feats must be chosen from the following list: Diehard, Endurance, Greater Shield Focus, Greater Shield Specialization, Heroic Defiance, Heroic Recovery, Missile Shield, Ray Shield, Saving Shield, Shield Focus, Shield Specialization, or Tower Shield Proficiency. She must meet these feats' prerequisites, but for purposes of meeting the prerequisites of these bonus feats, she treats her paladin level as her fighter level, may use her Charisma score as her Dexterity score, and is considered to have the Spellbreaker feat.
+**Bonus Feat**: A divine guardian gains a bonus feat at 7th level, and additional bonus feats at 10th and 13th level. These bonus feats must be chosen from the following list: Diehard, Endurance, [Greater Shield Focus](../../rules/feats/greater-shield-focus.md), [Greater Shield Specialization](../../rules/feats/greater-shield-specialization.md), [Heroic Defiance](../../rules/feats/heroic-defiance.md), [Heroic Recovery](../../rules/feats/heroic-recovery.md), [Missile Shield](../../rules/feats/missile-shield.md), [Ray Shield](../../rules/feats/ray-shield.md), [Saving Shield](../../rules/feats/saving-shield.md), [Shield Focus](../../rules/feats/shield-focus.md), [Shield Specialization](../../rules/feats/shield-specialization.md), or [Tower Shield Proficiency](../../rules/feats/tower-shield-proficiency.md). She must meet these feats' prerequisites, but for purposes of meeting the prerequisites of these bonus feats, she treats her paladin level as her fighter level, may use her Charisma score as her Dexterity score, and is considered to have the Spellbreaker feat.
 
 ## Argent Champion
 
@@ -997,7 +997,7 @@ While most paladins stride brazenly forth to battle evil in gleaming armor, fait
 
 **Swiftsurge (Ex)**: At 3rd level, a champion of the cascade does not take any penalty on Acrobatics or Swim checks due to her armor check penalty. This replaces divine health.
 
-**Flowing Stride (Su)**: At 3rd level, whenever a champion of the cascade uses lay on hands to restore hit points to one target, she can grant a willing target the ability to walk on water as *water walk* for 1 minute. At 9th level, this extends to creatures healed by her channel positive energy. At 15th level, healed creatures can walk on water for 24 hours. This replaces mercy.
+**Flowing Stride (Su)**: At 3rd level, whenever a champion of the cascade uses lay on hands to restore hit points to one target, she can grant a willing target the ability to walk on water as [*water walk*](../../magic/spells/water-walk.md) for 1 minute. At 9th level, this extends to creatures healed by her channel positive energy. At 15th level, healed creatures can walk on water for 24 hours. This replaces mercy.
 
 **Rising Tide (Su)**: At 5th level, a champion of the cascade's connection to her deity allows her to summon rivers and alter her surroundings. As a standard action, she can change up to two 5-foot squares per paladin level within 100 feet to become freshwater pools with a depth of up to 5 feet per paladin level. The squares must be adjacent to each other. Each creature standing in the area where she first creates the water must attempt a Reflex save (DC = 10 + half the paladin's level + the paladin's Charisma modifier) to jump to the nearest unaffected space and avoid falling into the water. The champion of the cascade can use this ability for 1 minute per paladin level. These minutes do not need to be consecutive, but they must be spent in 1-minute increments. The changed squares revert back to their original form after the duration ends, and any creatures in the water are shunted out to the nearest open space. At 10th level, as a swift action, she may spend 1 minute of her rising tide's duration to create a geyser in any body of water she has created, lifting an allied creature in that square up to 10 feet per paladin level into the air for 1 round. This replaces divine bond.
 
@@ -1011,7 +1011,7 @@ While most paladins stride brazenly forth to battle evil in gleaming armor, fait
 
 **Vindictive Smite (Ex)**: A vindictive bastard is particularly ruthless against those who have harmed her or her allies. Once per day as a swift action, she can smite one target within sight who has dealt hit point damage to her or an ally. She adds her Charisma modifier to her attack rolls and adds her paladin level to damage rolls against the target of her smite. In addition, while vindictive smite is in effect, the vindictive bastard gains a deflection bonus equal to her Charisma bonus (if any) to her AC against attacks by the target of the smite. If the target of vindictive smite has rendered an ally of the vindictive bastard unconscious or dead within the last 24 hours, the bonus on damage rolls on the first attack that hits increases by 2 for every paladin level she has. The vindictive smite effect remains until the target of the smite is dead or the next time the vindictive bastard rests and regains her uses of this ability. At 4th level and every 3 levels thereafter, the vindictive bastard can invoke her vindictive smite one additional time per day, to a maximum of seven times per day at 19th level. This replaces smite evil.
 
-**Faded Grace (Ex)**: At 2nd level, a vindictive bastard gains one of the following as a bonus feat: Great Fortitude, Iron Will, or Lightning Reflexes. This replaces divine grace.
+**Faded Grace (Ex)**: At 2nd level, a vindictive bastard gains one of the following as a bonus feat: [Great Fortitude](../../rules/feats/great-fortitude.md), [Iron Will](../../rules/feats/iron-will.md), or [Lightning Reflexes](../../rules/feats/lightning-reflexes.md). This replaces divine grace.
 
 **Solo Tactics (Ex)**: At 2nd level, a vindictive bastard gains solo tactics, as per the inquisitor class feature. She can activate this ability as a swift action and gains the benefits of it for 1 round. She can use this ability a number of rounds per day equal to half her paladin level + her Charisma modifier. This replaces lay on hands.
 
@@ -1027,7 +1027,7 @@ While most paladins stride brazenly forth to battle evil in gleaming armor, fait
 
 **Aura of Self-Righteousness (Ex)**: At 17th level, a vindictive bastard gains DR 5/lawful or good and immunity to compulsion spells and spell-like abilities. Each ally within 10 feet of her gains a +4 morale bonus on saving throws against compulsion effects. Aura of self-righteousness functions only while the vindictive bastard is conscious, not if she is unconscious or dead. This replaces aura of righteousness.
 
-**Ultimate Vindication (Ex)**: At 20th level, if a foe kills one of a vindictive bastard's allies or knocks the vindictive bastard unconscious (and she later regains consciousness), the vindictive bastard musters a vindictive fury. The next time she hits that foe within 1 minute, the vindictive bastard can channel the effects of a *disintegrate* spell through her weapon, using her paladin level as her effective caster level. Whether or not the target succeeds at its save against the disintegrate effect, it is immune to this ability for the next 24 hours. This replaces holy champion.
+**Ultimate Vindication (Ex)**: At 20th level, if a foe kills one of a vindictive bastard's allies or knocks the vindictive bastard unconscious (and she later regains consciousness), the vindictive bastard musters a vindictive fury. The next time she hits that foe within 1 minute, the vindictive bastard can channel the effects of a [*disintegrate*](../../magic/spells/disintegrate.md) spell through her weapon, using her paladin level as her effective caster level. Whether or not the target succeeds at its save against the disintegrate effect, it is immune to this ability for the next 24 hours. This replaces holy champion.
 
 ## Chaos Knight
 
@@ -1050,7 +1050,7 @@ While most paladins stride brazenly forth to battle evil in gleaming armor, fait
 
 Some paladins devote themselves to locating constructs that are used for evil or that become uncontrollable, and are adept at battling constructed foes and guarding those they threaten. A construct seeker must worship a deity of creation, smithing, or craft.
 
-**Detect Construct (Sp)**: A construct seeker can detect the presence of constructs at will. This functions as *aura sight*, except the duration is 1 round and she learns the locations and power of all construct auras, similar to *detect undead*. This replaces detect evil.
+**Detect Construct (Sp)**: A construct seeker can detect the presence of constructs at will. This functions as [*aura sight*](../../magic/spells/aura-sight.md), except the duration is 1 round and she learns the locations and power of all construct auras, similar to [*detect undead*](../../magic/spells/detect-undead.md). This replaces detect evil.
 
 **Smite Construct (Su)**: This functions as smite evil, but only against constructs. Smiting a construct automatically bypasses any damage reduction or hardness. She can still smite evil, but adds only half her Charisma bonus on attack rolls, adds only half her level on damage rolls, and doesn't increase her bonus damage against evil outsiders, evil-aligned dragons, or undead. This otherwise functions as smite evil for feats and prerequisites. This alters smite evil.
 

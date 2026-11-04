@@ -4,7 +4,7 @@
 
 You can make a single attack that deals incredible damage.
 
-**Prerequisites**: Improved Vital Strike, Vital Strike, base attack bonus +16.
+**Prerequisites**: [Improved Vital Strike](improved-vital-strike.md), [Vital Strike](vital-strike.md), base attack bonus +16.
 
 **Benefit**: When you use the attack action, you can make one attack at your highest base attack bonus that deals additional damage. Choose one of these options:
 

@@ -4,6 +4,6 @@
 
 There's virtually no limit to your powerful throwing arm.
 
-**Prerequisites**: Str 17, Distance Thrower.
+**Prerequisites**: Str 17, [Distance Thrower](distance-thrower.md).
 
 **Benefit**: Thrown weapons wielded by you have twice their normal range.

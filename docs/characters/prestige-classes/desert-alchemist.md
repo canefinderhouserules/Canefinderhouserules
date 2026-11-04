@@ -23,7 +23,7 @@ Desert alchemy evolved from the herbalism and horticulture of an ancient league 
 
 To qualify to become a desert alchemist, a character must fulfill all of the following criteria.
 
-**Feat**: Brew Potion.
+**Feat**: [Brew Potion](../../rules/feats/brew-potion.md).
 
 **Skills**: Craft (alchemy) 5 ranks, Knowledge (nature) 5 ranks, Profession (herbalist) 5 ranks, Spellcraft 5 ranks.
 
@@ -43,13 +43,13 @@ The following are class features of the desert alchemist prestige class.
 
 **Extracts or Spells per Day**: When a desert alchemist gains a level, she gains new extracts or spells per day as if she had also gained a level in alchemist or in an arcane spellcasting class to which she belonged before adding the prestige class. She does not, however, gain other benefits a character of that class would have gained, except for additional extracts or spells per day, spells known (if she is a spontaneous caster), and an increased effective caster level for extracts or spells. If she had more than one arcane spellcasting class before becoming a desert alchemist, or had the alchemist class and an arcane spellcasting class, she must decide to which class she adds the new level for the purpose of determining extracts or spells per day.
 
-**Healing Solution (Su)**: A desert alchemist learns how to convert magical reagents into life-giving admixtures. As a full-round action, she can convert the magical energies of two extracts or spells of 1st level into a special extract of *cure light wounds*. This acts as an infused extract, but it must be used before the end of her next turn or its power is lost. At 3rd level and every 2 levels thereafter, a desert alchemist gains the ability to convert extracts or spells into more powerful forms of curative magic: 3rd—*cure moderate wounds*; 5th—*cure serious wounds*; 7th—*cure critical wounds*; 9th—*breath of life*. In all cases, the desert alchemist must expend two extracts or spells of the same level as the curative spell in order to complete the conversion.
+**Healing Solution (Su)**: A desert alchemist learns how to convert magical reagents into life-giving admixtures. As a full-round action, she can convert the magical energies of two extracts or spells of 1st level into a special extract of [*cure light wounds*](../../magic/spells/cure-light-wounds.md). This acts as an infused extract, but it must be used before the end of her next turn or its power is lost. At 3rd level and every 2 levels thereafter, a desert alchemist gains the ability to convert extracts or spells into more powerful forms of curative magic: 3rd—[*cure moderate wounds*](../../magic/spells/cure-moderate-wounds.md); 5th—[*cure serious wounds*](../../magic/spells/cure-serious-wounds.md); 7th—[*cure critical wounds*](../../magic/spells/cure-critical-wounds.md); 9th—[*breath of life*](../../magic/spells/breath-of-life.md). In all cases, the desert alchemist must expend two extracts or spells of the same level as the curative spell in order to complete the conversion.
 
 **Desert Discovery**: At 2nd level and again at 4th, 6th, and 8th level, a desert alchemist gains a new alchemist discovery from one of the rare desert discoveries below or from the following list: bottled ooze, combine extracts, dilution, elixir of life, enhance potion, eternal potion, extend potion, healing touch, infusion, mummification, preserve organs, sandstone solution (see [Alchemist Archetypes](../classes/alchemist-archetypes.md)), or spontaneous healing. The desert alchemist must still meet all prerequisites for a desert discovery, including level restrictions. Desert alchemist class levels stack with alchemist levels for the purpose of qualifying for and using these discoveries (but not others). Desert discoveries cannot be selected by characters without desert alchemist levels.
 
 **Bottled Elemental (Su)**: This functions like the bottled ooze discovery, but allows the desert alchemist to instead reconstitute an elemental that bursts forth when the bottle is broken. Creating a bottled elemental requires an extract 1 level lower than the elemental's CR (minimum 1st level). The desert alchemist must have the bottled ooze discovery and be at least 8th level before selecting this desert discovery.
 
-**Capture Elemental (Sp)**: A desert alchemist can capture an elemental inside a specially prepared bottle, vial, or flask, as if using *trap the soul* as a spell-like ability, though this ability affects only elementals. Preparing the bottle costs 500 gp per Hit Die of the elemental to be trapped and takes 1 day per 1,000 gp of value. If the desert alchemist tries to capture an elemental with too many Hit Dice, the bottle shatters. The desert alchemist must have the bottled elemental discovery and be at least 12th level before selecting this desert discovery.
+**Capture Elemental (Sp)**: A desert alchemist can capture an elemental inside a specially prepared bottle, vial, or flask, as if using [*trap the soul*](../../magic/spells/trap-the-soul.md) as a spell-like ability, though this ability affects only elementals. Preparing the bottle costs 500 gp per Hit Die of the elemental to be trapped and takes 1 day per 1,000 gp of value. If the desert alchemist tries to capture an elemental with too many Hit Dice, the bottle shatters. The desert alchemist must have the bottled elemental discovery and be at least 12th level before selecting this desert discovery.
 
 **Extra Curative Enhancement (Ex)**: The desert alchemist can select one additional curative enhancement that she can incorporate into her healing solution.
 
@@ -61,9 +61,9 @@ The following are class features of the desert alchemist prestige class.
 
 At 3rd level, a desert alchemist can select one of the following conditions that her healing solution can remove: fatigued, shaken, or sickened.
 
-At 5th level, she can also select dazed, diseased (as *remove disease*), or staggered.
+At 5th level, she can also select dazed, diseased (as [*remove disease*](../../magic/spells/remove-disease.md)), or staggered.
 
-At 7th level, she can also select cursed (as *remove curse*), exhausted (must already have selected fatigued), frightened (must already have selected shaken), nauseated (must already have selected sickened), or poisoned (as *neutralize poison*).
+At 7th level, she can also select cursed (as [*remove curse*](../../magic/spells/remove-curse.md)), exhausted (must already have selected fatigued), frightened (must already have selected shaken), nauseated (must already have selected sickened), or poisoned (as [*neutralize poison*](../../magic/spells/neutralize-poison.md)).
 
 At 9th level, she can also select blinded, deafened, paralyzed, or stunned.
 

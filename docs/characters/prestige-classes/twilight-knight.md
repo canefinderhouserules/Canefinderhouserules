@@ -25,7 +25,7 @@ To qualify to become a twilight knight, a character must fulfill all of the foll
 
 **Alignment**: Any nonevil.
 
-**Feats**: Catch Off-Guard, [Twilight Tattoo](../../rules/feats/twilight-tattoo.md).
+**Feats**: [Catch Off-Guard](../../rules/feats/catch-off-guard.md), [Twilight Tattoo](../../rules/feats/twilight-tattoo.md).
 
 **Skills**: Bluff 5 ranks, Disguise 5 ranks, Knowledge (local) 2 ranks, Linguistics 2 ranks, Stealth 5 ranks.
 
@@ -43,9 +43,9 @@ The following are class features of the twilight knight prestige class.
 
 **Sneak Attack**: This functions as the rogue ability of the same name. The extra damage dealt is 1d6 at 1st level, and it increases by 1d6 every 3 levels thereafter. If a twilight knight gets a sneak attack bonus from another source, the bonuses to damage stack.
 
-**Enhanced Tattoo (Sp)**: As a twilight knight gains levels, her Twilight Tattoo feat gains enhancements, allowing her to use certain spell-like abilities. At 2nd level and every 2 levels thereafter, the twilight knight gains access to one of the spells listed for that level as a spell-like ability: 2nd level—*disguise self* or *undetectable alignment*; 4th level—*alter self* or *invisibility*; 6th level—*glibness* or *secret page*; 8th level—*modify memory* or *zone of silence*; 10th level—*mislead* or *seeming*. These spell-like abilities function at a caster level equal to the twilight knight’s character level, and each ability can be used once per day. The save DC for these spell-like abilities is 10 + half the twilight knight’s level + her Charisma modifier.
+**Enhanced Tattoo (Sp)**: As a twilight knight gains levels, her [Twilight Tattoo](../../rules/feats/twilight-tattoo.md) feat gains enhancements, allowing her to use certain spell-like abilities. At 2nd level and every 2 levels thereafter, the twilight knight gains access to one of the spells listed for that level as a spell-like ability: 2nd level—[*disguise self*](../../magic/spells/disguise-self.md) or [*undetectable alignment*](../../magic/spells/undetectable-alignment.md); 4th level—[*alter self*](../../magic/spells/alter-self.md) or [*invisibility*](../../magic/spells/invisibility.md); 6th level—[*glibness*](../../magic/spells/glibness.md) or [*secret page*](../../magic/spells/secret-page.md); 8th level—[*modify memory*](../../magic/spells/modify-memory.md) or [*zone of silence*](../../magic/spells/zone-of-silence.md); 10th level—[*mislead*](../../magic/spells/mislead.md) or [*seeming*](../../magic/spells/seeming.md). These spell-like abilities function at a caster level equal to the twilight knight’s character level, and each ability can be used once per day. The save DC for these spell-like abilities is 10 + half the twilight knight’s level + her Charisma modifier.
 
-**Resourceful Agent (Ex)**: At 2nd level, a twilight knight increases the amount of damage she deals with improvised weapons by one step (for example, 1d4 becomes 1d6). At 5th level, all improvised weapons used by a twilight knight have a base critical threat range of 19–20, and she gains Critical Focus as a bonus feat. At 9th level, a twilight knight gains Staggering Critical as a bonus feat.
+**Resourceful Agent (Ex)**: At 2nd level, a twilight knight increases the amount of damage she deals with improvised weapons by one step (for example, 1d4 becomes 1d6). At 5th level, all improvised weapons used by a twilight knight have a base critical threat range of 19–20, and she gains [Critical Focus](../../rules/feats/critical-focus.md) as a bonus feat. At 9th level, a twilight knight gains [Staggering Critical](../../rules/feats/staggering-critical.md) as a bonus feat.
 
 **Eye for Detail (Ex)**: At 3rd level, when forging a document associated with any government, she automatically receives a +8 bonus on Linguistics checks to create a forgery (as though she had seen a similar document before).
 

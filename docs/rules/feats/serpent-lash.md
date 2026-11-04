@@ -4,7 +4,7 @@
 
 You are adept at vexing multiple foes with your whip.
 
-**Prerequisites**: Weapon Finesse, proficient in whip.
+**Prerequisites**: [Weapon Finesse](weapon-finesse.md), proficient in whip.
 
 **Benefit**: As a standard action, you can make a disarm or trip maneuver with your whip. If it succeeds, you can make an additional disarm or trip maneuver with the same bonus against a target adjacent to the first and also within your whip’s reach.
 

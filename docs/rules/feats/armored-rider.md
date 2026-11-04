@@ -2,7 +2,7 @@
 
 You are accustomed to riding while wearing armor, and your armor doesn’t hinder your riding skills.
 
-**Prerequisites**: Mounted Combat, Ride 3 ranks.
+**Prerequisites**: [Mounted Combat](mounted-combat.md), Ride 3 ranks.
 
 **Benefit**: You don’t take the usual armor check penalty on Ride checks. If you are knocked unconscious while in a saddle, you always remain in the saddle.
 

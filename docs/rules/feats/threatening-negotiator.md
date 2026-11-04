@@ -2,7 +2,7 @@
 
 Those who you intimidate know that you’ll go through with your threats.
 
-**Prerequisites**: Nerve-Racking Negotiator, Persuasive, Skill Focus (Intimidate).
+**Prerequisites**: [Nerve-Racking Negotiator](nerve-racking-negotiator.md), [Persuasive](persuasive.md), Skill Focus (Intimidate).
 
 **Benefit**: When you successfully use the Intimidate skill to force an opponent to act friendly toward you, the duration of the attitude change lasts 2d6 hours.
 

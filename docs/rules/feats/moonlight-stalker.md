@@ -4,7 +4,7 @@
 
 You are adept at using shadows to conceal your attacks.
 
-**Prerequisites**: Blind-Fight, Bluff 3 ranks, darkvision or low-light vision racial trait.
+**Prerequisites**: [Blind-Fight](blind-fight.md), Bluff 3 ranks, darkvision or low-light vision racial trait.
 
 **Benefit**: While you have concealment from an opponent, you gain a +2 bonus on attack and damage rolls against that opponent.
 

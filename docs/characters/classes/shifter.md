@@ -155,7 +155,7 @@ These aspects are the minor forms a Canefinder shifter can take with shifter asp
 
 ### Boar
 
-**Minor Form**: You gain Improved Initiative as a bonus feat. Any wildshape level allows for Powerful Charge if the form you take has it. At 8th level, you gain a +2 to Charge Attacks. At 13th level it increases to +4.
+**Minor Form**: You gain [Improved Initiative](../../rules/feats/improved-initiative.md) as a bonus feat. Any wildshape level allows for Powerful Charge if the form you take has it. At 8th level, you gain a +2 to Charge Attacks. At 13th level it increases to +4.
 
 ### Bull
 

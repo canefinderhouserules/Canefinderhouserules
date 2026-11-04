@@ -23,7 +23,7 @@ The fey lords appreciate a broad range of talents in their servants. While some 
 
 To qualify to become a feysworn, a character must fulfill all of the following criteria.
 
-**Feat**: Fey Obedience
+**Feat**: [Fey Obedience](../../rules/feats/fey-obedience.md)
 
 **Languages**: Aklo, First Speech, or Sylvan.
 
@@ -63,7 +63,7 @@ Feysworn creatures are immune to any spell not capable of targeting fey (such as
 
 **Alien Mind (Ex)**: At 5th level, for a number of rounds per day equal to her feysworn level, the feysworn gains a +4 sacred bonus to one mental ability score and on saving throws against mind-affecting effects. These rounds do not need to be used consecutively. Once selected, the mental ability score affected cannot be changed until the feysworn next performs her fey lord’s obedience. Activating or maintaining this ability is an immediate action.
 
-**Plane Swap (Sp)**: At 5th level, the feysworn gains the ability to transport herself and up to one touched willing creature per feysworn level from the Material Plane to the fey realm or vice versa. This ability can be used once per day as a standard action, and functions as *plane shift*.
+**Plane Swap (Sp)**: At 5th level, the feysworn gains the ability to transport herself and up to one touched willing creature per feysworn level from the Material Plane to the fey realm or vice versa. This ability can be used once per day as a standard action, and functions as [*plane shift*](../../magic/spells/plane-shift.md).
 
 **Tear Reality (Sp)**: At 10th level, once per day as long as she is on the Material Plane or in the fey realm, the feysworn can rip the planar fabric to unleash terrible magical energies. The area of effect is always centered on her (though she may otherwise determine its shape or targets according to the spell’s description) and chosen at random from the following spell effects.
 
@@ -82,4 +82,4 @@ This ripping of the planar fabric opens a breach to a random location on either 
 
 ## Ex-Feysworn
 
-A feysworn who goes against the will of her fey lord loses all class features of this prestige class, including all spellcasting ability enhanced by this class (even if that spellcasting ability comes from a class that normally doesn’t rely on the approval of a divine patron). She can’t thereafter gain levels as a feysworn until she atones for her misdeeds (either through *atonement* or negotiation with one of the fey lord’s chosen representatives), or until she appeals to and is accepted by another fey lord (symbolized by an *atonement* spell cast by a worshiper of that fey lord). This is the only method by which she can switch her fey lord patron, and even this may not be sufficient, as the fey lord are generally reluctant to take on unreliable servants.
+A feysworn who goes against the will of her fey lord loses all class features of this prestige class, including all spellcasting ability enhanced by this class (even if that spellcasting ability comes from a class that normally doesn’t rely on the approval of a divine patron). She can’t thereafter gain levels as a feysworn until she atones for her misdeeds (either through [*atonement*](../../magic/spells/atonement.md) or negotiation with one of the fey lord’s chosen representatives), or until she appeals to and is accepted by another fey lord (symbolized by an *atonement* spell cast by a worshiper of that fey lord). This is the only method by which she can switch her fey lord patron, and even this may not be sufficient, as the fey lord are generally reluctant to take on unreliable servants.

@@ -63,7 +63,7 @@ As a swift action, the storm worker can change the height of her whirlwind form 
 
 **Eye of the Storm (Su)**: At 7th level, a storm worker becomes immune to damage and detrimental effects from nonmagical wind and waves. In addition, she receives a +4 insight bonus on saving throws and to AC against spells and effects with the air or water descriptors.
 
-**Fickle Winds (Sp)**: At 8th level, as a swift action, a storm worker can call the winds to her defense, protecting her as per the spell *fickle winds* for a number of rounds per day equal to her level. These rounds need not be consecutive.
+**Fickle Winds (Sp)**: At 8th level, as a swift action, a storm worker can call the winds to her defense, protecting her as per the spell [*fickle winds*](../../magic/spells/fickle-winds.md) for a number of rounds per day equal to her level. These rounds need not be consecutive.
 
 **Echoing Thunder (Su)**: At 9th level, anytime a storm worker resists electricity or sonic damage with her oceanic spirit ability, she can spend an immediate action to redirect the damage to another creature within 30 feet. The creature must succeed at a Reflex save (DC = 10 + the storm worker’s class level + the storm worker’s Wisdom modifier) or take an amount of electricity or sonic damage equal to the amount the storm worker resisted.
 

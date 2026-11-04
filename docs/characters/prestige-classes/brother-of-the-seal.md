@@ -25,7 +25,7 @@ To qualify to become a brother of the seal, a character must fulfill all of the 
 
 **Alignment**: Any lawful.
 
-**Feats**: Improved Unarmed Strike, Stunning Fist.
+**Feats**: [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md), [Stunning Fist](../../rules/feats/stunning-fist.md).
 
 **Skills**: Knowledge (arcana) 3 ranks.
 
@@ -57,7 +57,7 @@ The following are class features of the brother of the seal prestige class.
 
 **Aligned Class (Ex)**: At 2nd level, a brother of the seal must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
 
-**Gatekeeper (Sp)**: At 2nd level, a Brother of the Seal may select either *hold portal* or *arcane lock*, and he gains the ability to cast the selected spell once per day. Once made, this choice cannot be reversed. At 6th level, and again at 10th level, a Brother of the Seal may cast the selected spell an additional time per day.
+**Gatekeeper (Sp)**: At 2nd level, a Brother of the Seal may select either [*hold portal*](../../magic/spells/hold-portal.md) or [*arcane lock*](../../magic/spells/arcane-lock.md), and he gains the ability to cast the selected spell once per day. Once made, this choice cannot be reversed. At 6th level, and again at 10th level, a Brother of the Seal may cast the selected spell an additional time per day.
 
 **Trapfinding (Ex)**: At 2nd level, a Brother of the Seal adds 1/2 his class level on Perception and Disable Device checks made to find or disarm traps, and he can use Disable Device to disarm magical traps.
 
@@ -69,14 +69,14 @@ A Brother of the Seal can expend 1 ki point or one use of Stunning Fist in conju
 
 At 8th level, a Brother of the Seal can affect creatures up to his size with his Awesome Blow feat without expending a use of Stunning Fist or a ki point. In addition, he may affect a creature of any size larger than itself by spending 1 ki point or one use of Stunning Fist per size category of difference.
 
-**Unsealing (Su)**: At 5th level, a Brother of the Seal can attempt to breach magical wards or protections, including abjurations, glyphs, runes, symbols, and other magical writings. He must touch the warded object, creature, or area—which can be done as part of an unarmed strike for normal damage or as a melee touch attack that deals no damage—and expend one use of Stunning Fist to dispel the effect (as *dispel magic*, caster level equal to his character level). If the unsealing is successful, the effect is destroyed and the Brother of the Seal suffers no harm from it, even if it normally harms those who touch it. If the unsealing fails, the Brother of the Seal suffers any normal effects for touching the warded area, object, or creature, and it remains intact unless it would normally be destroyed upon being interacted with.
+**Unsealing (Su)**: At 5th level, a Brother of the Seal can attempt to breach magical wards or protections, including abjurations, glyphs, runes, symbols, and other magical writings. He must touch the warded object, creature, or area—which can be done as part of an unarmed strike for normal damage or as a melee touch attack that deals no damage—and expend one use of Stunning Fist to dispel the effect (as [*dispel magic*](../../magic/spells/dispel-magic.md), caster level equal to his character level). If the unsealing is successful, the effect is destroyed and the Brother of the Seal suffers no harm from it, even if it normally harms those who touch it. If the unsealing fails, the Brother of the Seal suffers any normal effects for touching the warded area, object, or creature, and it remains intact unless it would normally be destroyed upon being interacted with.
 
 **Domino Strike (Ex)**: At 6th level, when a Brother of the Seal’s awesome blow combat maneuver succeeds and knocks his target into an obstacle (including another creature), he adds his class level to the normal 1d6 points of damage taken by the target and the obstacle.
 
 **Hands of Stone (Su)**: At 7th level, a Brother of the Seal increases his unarmed strike damage as though he were a creature one size larger.
 
-**Rapid Slam (Ex)**: At 8th level, a Brother of the Seal can use his Awesome Blow feat once per round as part of a flurry of blows. Alternatively, he can make an awesome blow combat maneuver as part of a charge or as part of the same standard action he uses to perform another combat feat that involves an attack (such as Cleave or Vital Strike). He can still only make an awesome blow maneuver once per round regardless of how many attacks he makes.
+**Rapid Slam (Ex)**: At 8th level, a Brother of the Seal can use his Awesome Blow feat once per round as part of a flurry of blows. Alternatively, he can make an awesome blow combat maneuver as part of a charge or as part of the same standard action he uses to perform another combat feat that involves an attack (such as Cleave or [Vital Strike](../../rules/feats/vital-strike.md)). He can still only make an awesome blow maneuver once per round regardless of how many attacks he makes.
 
 **Cascading Strike (Ex)**: At 9th level, when a Brother of the Seal’s awesome blow maneuver succeeds and knocks the target into another creature of its size or smaller, the Brother of the Seal may attempt an awesome blow combat maneuver at a –2 penalty against this second creature. If successful, the Brother deals his unarmed strike damage to this second target (rather than the normal damage for striking an obstacle) and knocks that target back 10 feet. The Brother of the Seal can make additional awesome blow combat maneuvers each time a target strikes a creature behind it, with a cumulative –2 penalty for each additional target. All targets must be in a straight line. If a target is knocked simultaneously into several smaller creatures, the Brother can choose only one of them to affect with cascading strike.
 
-**Unraveling (Su)**: At 10th level, a Brother of the Seal’s unsealing ability can destroy force effects and abjuration, conjuration, and evocation effects that create stationary barriers (such as *prismatic sphere*, *tiny hut*, or *wall of ice*), even if the effect cannot normally be subjected to *dispel magic*.
+**Unraveling (Su)**: At 10th level, a Brother of the Seal’s unsealing ability can destroy force effects and abjuration, conjuration, and evocation effects that create stationary barriers (such as [*prismatic sphere*](../../magic/spells/prismatic-sphere.md), [*tiny hut*](../../magic/spells/tiny-hut.md), or [*wall of ice*](../../magic/spells/wall-of-ice.md)), even if the effect cannot normally be subjected to *dispel magic*.

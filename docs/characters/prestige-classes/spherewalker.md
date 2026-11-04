@@ -26,7 +26,7 @@ To qualify to become a spherewalker, a character must fulfill all of the followi
 
 **Skills**: 5 ranks in any two of the following skills: Climb, Knowledge (geography), Knowledge (nature), Knowledge (religion), Perform, Ride, Survival, or Swim.
 
-**Feats**: Martial Weapon Proficiency (starknife), one survivor feat (Great Fortitude, Iron Will, or Lightning Reflexes), one explorer feat (Acrobatic, Agile, Athletic, Endurance, Run, or Self-Sufficient).
+**Feats**: Martial Weapon Proficiency (starknife), one survivor feat ([Great Fortitude](../../rules/feats/great-fortitude.md), [Iron Will](../../rules/feats/iron-will.md), or [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)), one explorer feat (Acrobatic, Agile, Athletic, Endurance, Run, or Self-Sufficient).
 
 **Special**: A spherewalker-to-be must have journeyed far in his lifetime, visiting two locations sacred to the goddess that are at least 200 miles apart.
 
@@ -48,13 +48,13 @@ If the spherewalker has no levels in a spellcasting class, she instead gains one
 
 **Landmark (Su)**: At 1st level, as a full-round action a spherewalker can create a mental landmark for her current location and thereafter take a standard action to note the general direction of that landmark. For example, if she sets her landmark in one city and later travels to another, she can determine that the first city is roughly west of her current location. The landmark doesn’t have to be a city or any kind of recognizable site—it could be in the middle of the ocean or even midair. This is a scrying effect. A landmark location is one category more familiar for the purpose of teleporting (“studied carefully” becomes “very familiar” and so on). A spherewalker can have one landmark per class level. She can discard an existing landmark as a standard action and does not need to be at that location to discard it. Spherewalkers can take a minute to share a landmark with another spherewalker, and often do so to arrange meetings in unusual places without the need for maps or directions. A spherewalker can only detect the location of landmarks on her current plane, though they do not vanish if she leaves the plane and she can reference them if she returns to that plane.
 
-**Longstrider (Sp)**: At 1st level, a spherewalker may use *longstrider* once per day. Her caster level is equal to her character level.
+**Longstrider (Sp)**: At 1st level, a spherewalker may use [*longstrider*](../../magic/spells/longstrider.md) once per day. Her caster level is equal to her character level.
 
 **Efficient Sleep (Su)**: At 2nd level, a spherewalker gains a +4 sacred bonus to resist sleep effects and only needs 4 hours of sleep (or restful calm, for creatures that do not need actual sleep) instead of the normal 8 hours to become rested. Most spherewalkers prefer to sleep the normal amount, and if they use this ability they like to make up for it on later days by sleeping late.
 
 **Star Slinger (Ex)**: At 2nd level, any starknife a spherewalker uses in combat is treated as if it had the returning magic weapon special ability. Such weapons gain no additional enhancement bonuses or magical properties beyond this effect.
 
-**Dream Link (Sp)**: A 3rd-level spherewalker can form a mental bond with another willing intelligent creature as if using the *telepathic bond* spell. To do so, she and the target must spend at least 4 hours sleeping within 10 feet of each other. Either person in the link can end it as a standard action; otherwise it is permanent. If one person in the link dies, the other is stunned for 1 round and staggered until she can rest for 10 minutes. A spherewalker can only maintain one such link at a time, though she may be the recipient of multiple links. Married spherewalkers often link themselves to their spouses.
+**Dream Link (Sp)**: A 3rd-level spherewalker can form a mental bond with another willing intelligent creature as if using the [*telepathic bond*](../../magic/spells/telepathic-bond.md) spell. To do so, she and the target must spend at least 4 hours sleeping within 10 feet of each other. Either person in the link can end it as a standard action; otherwise it is permanent. If one person in the link dies, the other is stunned for 1 round and staggered until she can rest for 10 minutes. A spherewalker can only maintain one such link at a time, though she may be the recipient of multiple links. Married spherewalkers often link themselves to their spouses.
 
 **Divine Luck (Su)**: At 4th level, a spherewalker can add a luck bonus equal to her class level on an attack roll, skill check, or saving throw a number of times per day equal to her Charisma modifier (minimum 1/day). She may add this bonus after she has rolled but before she knows if the unmodified result is a success or failure.
 

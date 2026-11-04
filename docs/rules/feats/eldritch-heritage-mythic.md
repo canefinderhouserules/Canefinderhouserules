@@ -4,7 +4,7 @@
 
 The blood of your sorcerous ancestor mingles with your mythic power to great effect.
 
-**Prerequisites**: Eldritch Heritage.
+**Prerequisites**: [Eldritch Heritage](eldritch-heritage.md).
 
 _,
 

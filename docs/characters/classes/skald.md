@@ -104,7 +104,7 @@ If an ally has her own rage class ability (such as barbarian's rage, bloodrager'
 
 **Song of the Fallen (Su)**: At 14th level, a skald can temporarily revive dead allies to continue fighting, with the same limitations as raise dead. The skald selects a dead ally within 60 feet and expends 1 round of raging song to bring that ally back to life. The revived ally is alive but staggered. Each round, the skald may expend another 1 round of raging song to keep that ally alive for another round. The ally automatically dies if the skald ends this performance or is interrupted. The skald may revive multiple allies with this ability (either at the same time or over successive rounds) but must expend 1 round of raging song per revived ally per round to maintain the effect.
 
-**Scribe Scroll**: At 1st level, a skald gains Scribe Scroll as a bonus feat.
+**Scribe Scroll**: At 1st level, a skald gains [Scribe Scroll](../../rules/feats/scribe-scroll.md) as a bonus feat.
 
 **Versatile Performance (Ex)**: At 2nd level, a skald can choose one type of Perform skill associated with the skald class. He can use his bonus in that skill in place of his bonus in the associated skills listed below. When substituting in this way, the skald uses his total Perform skill bonus, including class skill bonus, in place of the associated skill's bonus, whether or not he has ranks in that skill or if it is a class skill. At 7th level, and every 5 levels thereafter, the bard can select an additional type of Perform to substitute.
 

@@ -4,7 +4,7 @@
 
 Your blood burns with savage fury, giving you bestial powers and abilities.
 
-**Prerequisite**: Aspect of the Beast.
+**Prerequisite**: [Aspect of the Beast](aspect-of-the-beast.md).
 
 **Benefit**: Your bestial nature manifests itself in one of the following ways. You choose the manifestation when you choose the feat, and you can't change it.
 

@@ -2,7 +2,7 @@
 
 Choose a school of magic to which you have already applied the Spell Focus feat. Any spells you cast of this school are very hard to resist.
 
-**Prerequisite**: Spell Focus.
+**Prerequisite**: [Spell Focus](spell-focus.md).
 
 **Benefit**: Add +1 to the Difficulty Class for all saving throws against spells from the school of magic you select. This bonus stacks with the bonus from Spell Focus.
 

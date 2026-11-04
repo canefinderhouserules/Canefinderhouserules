@@ -61,7 +61,7 @@ The following are class features of the golden knight prestige class.
 
 **Defy Danger (Ex)**: A golden knight gains a +2 bonus on saving throws against one of the following dangers: charms and compulsions, curses, diseases, fear, poisons, traps, or the innate magical powers (spell-like abilities and supernatural abilities not gained from class levels) of one creature type (and subtype, if applicable) chosen from the ranger favored enemy list. At 5th level and again at 9th level, a golden knight gains an additional +2 bonus against a different danger; alternatively, he can increase the bonus against a previously selected danger by 2.
 
-**Legion Feats**: A golden knight gains the following bonus feats at the prescribed levels, even if he doesn’t meet the prerequisites: 2nd level—Stand Still, 4th level—Bodyguard, 6th level—In Harm’s Way, 8th level—Swift Aid. If he already has the feat for a given level, he can instead take any other combat feat whose prerequisites he meets.
+**Legion Feats**: A golden knight gains the following bonus feats at the prescribed levels, even if he doesn’t meet the prerequisites: 2nd level—[Stand Still](../../rules/feats/stand-still.md), 4th level—Bodyguard, 6th level—[In Harm’s Way](../../rules/feats/in-harm-s-way.md), 8th level—[Swift Aid](../../rules/feats/swift-aid.md). If he already has the feat for a given level, he can instead take any other combat feat whose prerequisites he meets.
 
 **Intercept (Ex)**: At 2nd level, a golden knight gains a bonus equal to half his class level on combat maneuver checks when using the Stand Still feat, and gains the same bonus to his CMD when an opponent attempts an Acrobatics check to move through a square he threatens.
 

@@ -4,7 +4,7 @@
 
 You and your allies can work together to trip larger foes.
 
-**Prerequisite**: Improved Trip.
+**Prerequisite**: [Improved Trip](improved-trip.md).
 
 **Benefit**: If you attempt to trip a foe that is larger than you, you gain a +1 bonus on your CMB check to trip the foe as long as an ally with Topple Foe is flanking the foe with you. If multiple allies with Topple Foe are flanking the foe with you, you gain an additional +2 bonus on your CMB check for each additional ally that’s flanking the target. The bonuses granted by this feat stack with those granted by Improved Trip and Greater Trip.
 

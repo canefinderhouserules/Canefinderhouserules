@@ -34,4 +34,4 @@ This ability replaces the first and second hexes.
 
 **Hex Strike (Ex)**
 
-At 5th level, The White-Haired Witch gains the Hex Strike feat as a bonus feat, but can only use her hair attack with it.
+At 5th level, The White-Haired Witch gains the [Hex Strike](../../rules/feats/hex-strike.md) feat as a bonus feat, but can only use her hair attack with it.

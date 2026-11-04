@@ -279,7 +279,7 @@ Phantoms with this emotional focus are filled with seething anger from events in
 
 **Strength Focus**: The phantom gains a +2 bonus to Strength and a –2 penalty to Dexterity. Instead of the phantom gaining a bonus to Dexterity as the spiritualist gains levels, an anger-focused phantom gains a bonus to Strength instead.
 
-**Powerful Strike (Ex)**: A phantom with this focus deals more damage with its slam attacks. It deals slam damage as a creature one size category larger than its current size. The phantom also gains Power Attack as a bonus feat.
+**Powerful Strike (Ex)**: A phantom with this focus deals more damage with its slam attacks. It deals slam damage as a creature one size category larger than its current size. The phantom also gains [Power Attack](../../rules/feats/power-attack.md) as a bonus feat.
 
 **Aura** of Fury (Su): When the spiritualist reaches 7th level, as a swift action, the phantom can emit a 20-foot-radius aura of fury. Creatures within the aura gain a +2 bonus on melee attack rolls but take a –2 penalty to AC. Ending the aura is a free action. The phantom can use this ability in either ectoplasmic or incorporeal form.
 
@@ -297,7 +297,7 @@ While confined in the spiritualist’s consciousness, the phantom grants the spi
 
 **Good Saves**: Reflex and Will.
 
-**Iron Will**: The phantom gains Iron Will as a bonus feat. Furthermore, when the phantom is within its master’s consciousness, it grants the benefits of Iron Will to its master if its master doesn’t have that feat.
+**Iron Will**: The phantom gains [Iron Will](../../rules/feats/iron-will.md) as a bonus feat. Furthermore, when the phantom is within its master’s consciousness, it grants the benefits of Iron Will to its master if its master doesn’t have that feat.
 
 **Dutiful Strike (Su)**: When a creature makes an attack against the phantom’s master, the phantom gains a +2 bonus on attack rolls against that target, and deals damage against that target as if the phantom were one size category larger. For the purposes of this ability, an attack includes any harmful spell targeting the spiritualist master of whose area or effect includes the spiritualist master. Dutiful strike lasts for 1 minute, until another creature attacks the phantom’s spiritualist master (at which point this effect transfers to the new attacker), or until the attacking creature is reduced to fewer than 0 hit points, whichever occurs first.
 
@@ -335,7 +335,7 @@ A phantom with this emotional focus died desperate and panicking—a victim of d
 
 **Good Saves**: Reflex and Will.
 
-**Combat Reflexes**: The phantom gains Combat Reflexes as a bonus feat. Furthermore, when the phantom is within its master’s consciousness, it grants the benefits of Combat Reflexes to its master (if its master doesn’t have that feat).
+**Combat Reflexes**: The phantom gains [Combat Reflexes](../../rules/feats/combat-reflexes.md) as a bonus feat. Furthermore, when the phantom is within its master’s consciousness, it grants the benefits of Combat Reflexes to its master (if its master doesn’t have that feat).
 
 **Frantic Grip (Ex)**: The phantom can add its Dexterity modifier instead of its Strength modifier to its combat maneuver bonus when attempting to grapple. When the phantom is below half its total hit points, it gains a +4 bonus on grapple attempts and to its CMD against grapple combat maneuvers.
 
@@ -343,7 +343,7 @@ A phantom with this emotional focus died desperate and panicking—a victim of d
 
 **Clutch of Terror (Su)**: When the spiritualist reaches 12th level, the phantom can summon a mass of hands to grapple an enemy within 60 feet as a standard action. The hands immediately attempt a grapple combat maneuver against the target using the phantom’s statistics (including the phantom’s CMB), except the hands are collectively considered to be the same size as the target. On following rounds, the hands attempt to maintain the grapple (the hands cannot pin the target, however). Each round that the hands successfully grapple a target, the hands also deal the phantom’s normal slam damage to the target. The hands immediately disappear and the effect ends if the hands fail to grapple their target, if the target escapes the grapple or dies, or if the phantom ceases to be manifested. The effect also ends if the phantom uses this ability against a different target. The phantom can use this ability three times per day.
 
-**Burst of Desperation (Sp)**: When the spiritualist reaches 17th level, once per day as a standard action, the phantom can affect itself and the spiritualist with the effects of *haste*. The caster level of this effect is equal to the spiritualist’s caster level. The phantom or the spiritualist can dismiss this effect as a free action. The duration of this ability must be used all at once, and any of the effect’s remaining rounds per day are lost after this ability is dismissed.
+**Burst of Desperation (Sp)**: When the spiritualist reaches 17th level, once per day as a standard action, the phantom can affect itself and the spiritualist with the effects of [*haste*](../../magic/spells/haste.md). The caster level of this effect is equal to the spiritualist’s caster level. The phantom or the spiritualist can dismiss this effect as a free action. The duration of this ability must be used all at once, and any of the effect’s remaining rounds per day are lost after this ability is dismissed.
 
 #### Fear
 
@@ -371,7 +371,7 @@ A phantom with this focus voraciously coveted gold, gems, and hedonistic possess
 
 **Good Saves**: Fortitude and Reflex.
 
-**Eye of Avarice**: The phantom adds half its number of Hit Dice (minimum 1) as a bonus on its Appraise checks. While it is confined to the spiritualist's consciousness, when the spiritualist attempts to identify the properties of a magic item using *detect magic*, the phantom grants the spiritualist this bonus on the Spellcraft check.
+**Eye of Avarice**: The phantom adds half its number of Hit Dice (minimum 1) as a bonus on its Appraise checks. While it is confined to the spiritualist's consciousness, when the spiritualist attempts to identify the properties of a magic item using [*detect magic*](../../magic/spells/detect-magic.md), the phantom grants the spiritualist this bonus on the Spellcraft check.
 
 **Ruthless Combatant (Su)**: A phantom with this focus threatens a critical hit with its slam attacks on a result of 19–20. At 11th level, its critical multiplier with slam attacks increases to ×3.
 
@@ -391,7 +391,7 @@ These phantoms typically spew a string of curses at their foes, often profane, s
 
 **Good Saves**: Fortitude and Reflex.
 
-**Weapon Finesse**: The phantom gains Weapon Finesse as a bonus feat.
+**Weapon Finesse**: The phantom gains [Weapon Finesse](../../rules/feats/weapon-finesse.md) as a bonus feat.
 
 **Hated Target (Su)**: The phantom can take a move action to designate one creature within its line of sight as a hated target. The phantom gains a +2 bonus on attack rolls against its hated target, and a bonus on damage rolls equal to 1/2 the phantom’s Hit Dice (minimum 1). The phantom is so focused on this hated target that it takes a –2 penalty on attack rolls against all other creatures. The phantom can maintain these bonuses against only one target at a time, and these bonuses remain in effect until either the hated opponent is dead or it has been out of the phantom’s line of sight for at least 1 minute. When the spiritualist reaches 7th level, the phantom can use this ability as a swift action, and takes no penalty when attacking creatures that are not designated as its hated enemy. The phantom must be manifested in ectoplasmic form to use this ability (unless the spiritualist is 17th level or higher; see Shared Hatred below).
 
@@ -437,7 +437,7 @@ A phantom with this emotional focus was a being with a generous heart in life an
 
 **Exceptional Aid (Su)**: When the spiritualist reaches 17th level, the phantom can use the aid another action as a swift action. Additionally, when designating an ally for an opening strike, that ally gains a bonus equal to the phantom's Charisma modifier on damage rolls for the attack granted to him.
 
-**Other Kindness-Focused Abilities**: If a spiritualist archetype allows the selection of an additional focus, add kindness to the list of available foci. In addition, a bloodrager with the id rager archetype can select kindness as his emotional focus. For spiritualists with kindness phantoms, the *emotional conduit* feat grants the spell-like abilities *charm person* (1st), *blessing of courage and life* (2nd), *good hope* (3rd), *mass charm person* (4th), *waves of ecstasy* (5th), and *sympathy* (6th). The fractured mind archetype gains *bless* (5th), *calm emotions* (7th), *heroism* (9th), and *good hope* (16th). The *spirit-bound blade* spell also grants the weapon the *allying* special ability.
+**Other Kindness-Focused Abilities**: If a spiritualist archetype allows the selection of an additional focus, add kindness to the list of available foci. In addition, a bloodrager with the id rager archetype can select kindness as his emotional focus. For spiritualists with kindness phantoms, the *emotional conduit* feat grants the spell-like abilities [*charm person*](../../magic/spells/charm-person.md) (1st), [*blessing of courage and life*](../../magic/spells/blessing-of-courage-and-life.md) (2nd), [*good hope*](../../magic/spells/good-hope.md) (3rd), *mass charm person* (4th), [*waves of ecstasy*](../../magic/spells/waves-of-ecstasy.md) (5th), and [*sympathy*](../../magic/spells/sympathy.md) (6th). The fractured mind archetype gains [*bless*](../../magic/spells/bless.md) (5th), [*calm emotions*](../../magic/spells/calm-emotions.md) (7th), [*heroism*](../../magic/spells/heroism.md) (9th), and *good hope* (16th). The [*spirit-bound blade*](../../magic/spells/spirit-bound-blade.md) spell also grants the weapon the *allying* special ability.
 
 #### Lust
 
@@ -455,7 +455,7 @@ A phantom with this focus aches for the intoxicating pleasures it experienced du
 
 **Aura of Ecstasy (Su)**: When the spiritualist reaches 12th level, the lust phantom emanates an aura of ecstasy. All creatures adjacent to the phantom must succeed at a Will save (DC = 10 + 1/2 the phantom's Hit Dice + the phantom's Charisma modifier) or be shaken and staggered each round that they remain within the aura of ecstasy. Creatures that succeed at this save are immune to this phantom's aura of ecstasy for 24 hours.
 
-**Sinful Command (Su)**: When the spiritualist reaches 17th level, once per day as a standard action, the phantom can attempt to assume control of another creature's mind as per the *dominate monster* spell. The DC of the effect is equal to 10 + 1/2 the phantom's Hit Dice + the phantom's Charisma modifier.
+**Sinful Command (Su)**: When the spiritualist reaches 17th level, once per day as a standard action, the phantom can attempt to assume control of another creature's mind as per the [*dominate monster*](../../magic/spells/dominate-monster.md) spell. The DC of the effect is equal to 10 + 1/2 the phantom's Hit Dice + the phantom's Charisma modifier.
 
 #### Pride
 
@@ -489,11 +489,11 @@ Spirits of creatures that died with heavy weights upon their consciences manifes
 
 **Aura of Regret (Su)**: When the spiritualist reaches 7th level, her phantom can emit a 10-foot-radius aura of regret as a swift action. Enemies within the aura take a –2 penalty on skill checks, on caster level checks, on combat maneuver checks, and to CMD. Ending the aura is a free action. The phantom can use this ability in either ectoplasmic or incorporeal form.
 
-**Keening (Su)**: When the spiritualist reaches 12th level, her phantom can wail about its misdeeds once per day as a standard action, affecting all creatures within a 30-foot cone with the *terrible remorse* spell. The phantom uses its Hit Dice as its caster level for the effect, and the DC equals 10 + 1/2 the phantom's Hit Dice + the phantom's Charisma modifier. The phantom can use this ability in either ectoplasmic or incorporeal form.
+**Keening (Su)**: When the spiritualist reaches 12th level, her phantom can wail about its misdeeds once per day as a standard action, affecting all creatures within a 30-foot cone with the [*terrible remorse*](../../magic/spells/terrible-remorse.md) spell. The phantom uses its Hit Dice as its caster level for the effect, and the DC equals 10 + 1/2 the phantom's Hit Dice + the phantom's Charisma modifier. The phantom can use this ability in either ectoplasmic or incorporeal form.
 
 **Utter Misery (Su)**: When the spiritualist reaches 17th level, her phantom's long-suffering strike also causes a creature that fails its save to become stunned until the beginning of the phantom's next turn.
 
-**Other Remorse-Focused Abilities**: If a spiritualist archetype allows the selection of an additional focus, add remorse to the list of available foci. For spiritualists with remorse phantoms, the *emotional conduit* feat grants the spell-like abilities *inflict light wounds* (1st), *disfiguring touch* (2nd), *howling agony* (3rd), *debilitating portent* (4th), *nightmare* (5th), and *harm* (6th). The fractured mind archetype gains *doom* (5th), *inflict pain* (7th), *stricken heart* (9th), and *mind fog* (16th). The *spirit-bound blade* spell also grants the weapon the *heartseeker* special ability.
+**Other Remorse-Focused Abilities**: If a spiritualist archetype allows the selection of an additional focus, add remorse to the list of available foci. For spiritualists with remorse phantoms, the *emotional conduit* feat grants the spell-like abilities [*inflict light wounds*](../../magic/spells/inflict-light-wounds.md) (1st), [*disfiguring touch*](../../magic/spells/disfiguring-touch.md) (2nd), [*howling agony*](../../magic/spells/howling-agony.md) (3rd), [*debilitating portent*](../../magic/spells/debilitating-portent.md) (4th), [*nightmare*](../../magic/spells/nightmare.md) (5th), and [*harm*](../../magic/spells/harm.md) (6th). The fractured mind archetype gains [*doom*](../../magic/spells/doom.md) (5th), [*inflict pain*](../../magic/spells/inflict-pain.md) (7th), [*stricken heart*](../../magic/spells/stricken-heart.md) (9th), and [*mind fog*](../../magic/spells/mind-fog.md) (16th). The *spirit-bound blade* spell also grants the weapon the *heartseeker* special ability.
 
 #### Suffering
 
@@ -521,17 +521,17 @@ Phantoms with this emotional focus carry a simplistic, childlike wonder and are 
 
 **Good Saves**: Reflex and Will.
 
-**Tricky Combatant**: A phantom with the whimsy focus gains Improved Dirty Trick as a bonus feat, even if it does not meet the prerequisites.
+**Tricky Combatant**: A phantom with the whimsy focus gains [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md) as a bonus feat, even if it does not meet the prerequisites.
 
-**Colorful Burst (Sp)**: Once per day, a phantom with this focus can produce an explosion of bright colors in a 15-foot cone. This functions as the spell *color spray*, except that creatures with fewer HD than the phantom are treated as if they had 2 HD or less, creatures with HD equal to that of the phantom are treated as if they had 3 or 4 HD, and creatures with more HD than the phantom are treated as if they had 5 or more HD. A creature can negate this effect with a successful Will saving throw (DC = 10 + half the phantom's Hit Dice + the phantom's Charisma modifier).
+**Colorful Burst (Sp)**: Once per day, a phantom with this focus can produce an explosion of bright colors in a 15-foot cone. This functions as the spell [*color spray*](../../magic/spells/color-spray.md), except that creatures with fewer HD than the phantom are treated as if they had 2 HD or less, creatures with HD equal to that of the phantom are treated as if they had 3 or 4 HD, and creatures with more HD than the phantom are treated as if they had 5 or more HD. A creature can negate this effect with a successful Will saving throw (DC = 10 + half the phantom's Hit Dice + the phantom's Charisma modifier).
 
 **Aura of Laughter (Sp)**: When the spiritualist reaches 7th level, the phantom can emit a 10-foot aura of childish laughter as a swift action. Enemies within the aura are distracted by the laughter, taking a –2 penalty on attack and damage rolls and a –5 penalty on Perception checks. This ability has no effect on creatures that cannot hear.
 
 **Telekinetic Prankster (Sp)**: When the spiritualist reaches 12th level, the phantom gains the ability to use limited telekinesis to trip up its foes. It can perform combat maneuvers against creatures up to 15 feet away. When doing so, it can use its Charisma modifier in place of its Strength modifier on its combat maneuver checks.
 
-**Invoke Laughter (Sp)**: When the spiritualist reaches 17th level, once per day as a standard action, the phantom can cause nearby creatures to fall into fits of uncontrollable laughter. Each creature in a 30-foot-radius burst centered on the phantom must succeed at a Will save (DC = 10 + half the phantom's Hit Dice + the phantom's Charisma modifier) or begin laughing uncontrollably, as the spell *hideous laughter*. The phantom can use this ability in either ectoplasmic or incorporeal form.
+**Invoke Laughter (Sp)**: When the spiritualist reaches 17th level, once per day as a standard action, the phantom can cause nearby creatures to fall into fits of uncontrollable laughter. Each creature in a 30-foot-radius burst centered on the phantom must succeed at a Will save (DC = 10 + half the phantom's Hit Dice + the phantom's Charisma modifier) or begin laughing uncontrollably, as the spell [*hideous laughter*](../../magic/spells/hideous-laughter.md). The phantom can use this ability in either ectoplasmic or incorporeal form.
 
-**Other Whimsy-Focused Abilities**: If a spiritualist archetype allows the selection of an additional focus, add whimsy to the list of available foci. The Emotional Conduit feat gives a whimsy-focused phantom's spiritualist these spells: 1st—*color spray*, 2nd—*hideous laughter*, 3rd—*major image*, 4th—*hallucinatory terrain*, 5th—*baleful polymorph*, 6th—*mislead*. A fractured mind spiritualist with a whimsy phantom gains these emotional power spell-like abilities: *ventriloquism* (5th), *absurdity* (7th), *major image* (9th), *rainbow pattern* (16th). *Spirit-bound blade* cast on a weapon by such a spiritualist also grants the weapon the merciful special ability.
+**Other Whimsy-Focused Abilities**: If a spiritualist archetype allows the selection of an additional focus, add whimsy to the list of available foci. The [Emotional Conduit](../../rules/feats/emotional-conduit.md) feat gives a whimsy-focused phantom's spiritualist these spells: 1st—*color spray*, 2nd—*hideous laughter*, 3rd—[*major image*](../../magic/spells/major-image.md), 4th—[*hallucinatory terrain*](../../magic/spells/hallucinatory-terrain.md), 5th—[*baleful polymorph*](../../magic/spells/baleful-polymorph.md), 6th—[*mislead*](../../magic/spells/mislead.md). A fractured mind spiritualist with a whimsy phantom gains these emotional power spell-like abilities: [*ventriloquism*](../../magic/spells/ventriloquism.md) (5th), [*absurdity*](../../magic/spells/absurdity.md) (7th), *major image* (9th), [*rainbow pattern*](../../magic/spells/rainbow-pattern.md) (16th). *Spirit-bound blade* cast on a weapon by such a spiritualist also grants the weapon the merciful special ability.
 
 #### Zeal
 
@@ -543,7 +543,7 @@ A phantom with this emotional focus fixates on every task given as if it were th
 
 **Tracking**: The phantom adds half its number of Hit Dice (minimum 1) to Survival skill checks to follow tracks.
 
-**Ruthless Combatant (Su)**: The phantom threatens a critical hit with its slam attacks on a roll of 19–20. When the spiritualist reaches 11th level, the phantom’s critical modifier with slam attacks increases to ×3. This doesn’t stack with Improved Critical or similar effects.
+**Ruthless Combatant (Su)**: The phantom threatens a critical hit with its slam attacks on a roll of 19–20. When the spiritualist reaches 11th level, the phantom’s critical modifier with slam attacks increases to ×3. This doesn’t stack with [Improved Critical](../../rules/feats/improved-critical.md) or similar effects.
 
 **Determination Aura (Su)**: When the spiritualist reaches 7th level, as a swift action, the phantom can emit a 20-foot-radius aura that grants its zeal to nearby allies. Allies within the aura gain a +2 competence bonus on attack rolls and saving throws. The phantom can use this ability in either ectoplasmic or incorporeal form.
 

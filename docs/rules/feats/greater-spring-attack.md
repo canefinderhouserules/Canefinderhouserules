@@ -4,7 +4,7 @@
 
 You are a scything wind cutting through the battlefield as you topple your foes.
 
-**Prerequisites**: Dex 17, Acrobatic Steps, Dodge, Improved Spring Attack, Mobility, Nimble Moves, Spring Attack, base attack bonus +16.
+**Prerequisites**: Dex 17, [Acrobatic Steps](acrobatic-steps.md), Dodge, [Improved Spring Attack](improved-spring-attack.md), [Mobility](mobility.md), [Nimble Moves](nimble-moves.md), [Spring Attack](spring-attack.md), base attack bonus +16.
 
 **Benefit**: When you use Spring Attack, you can select three targets to attack during your movement instead of one. The second attack made this way is made at your full base attack bonus – 5, and the third attack made this way is made at your full base attack bonus – 10. All restrictions of Spring Attack apply to each target, and your movement does not provoke attacks of opportunity from any of your targets. You can’t target the same creature more than once.
 

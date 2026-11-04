@@ -4,6 +4,6 @@
 
 You catch opponents off guard with your attacks.
 
-**Prerequisites**: Combat Expertise, Improved Feint, Swordplay Style, Weapon Focus with the chosen weapon, base attack bonus +5.
+**Prerequisites**: [Combat Expertise](combat-expertise.md), [Improved Feint](improved-feint.md), [Swordplay Style](swordplay-style.md), Weapon Focus with the chosen weapon, base attack bonus +5.
 
 **Benefit**: While using Swordplay Style, as an immediate action, you can attempt a feint against an opponent that makes a melee attack against you and misses.

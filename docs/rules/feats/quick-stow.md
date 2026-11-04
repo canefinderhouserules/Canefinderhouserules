@@ -4,7 +4,7 @@
 
 You effortlessly stow items and sheathe weapons.
 
-**Prerequisites**: Quick Draw, base attack bonus +1.
+**Prerequisites**: [Quick Draw](quick-draw.md), base attack bonus +1.
 
 **Benefit**: You do not provoke an attack of opportunity when sheathing a weapon, and you can combine a move action to sheathe a weapon with a regular move action. (You can both stow and draw a weapon as part of the same move action in this way.) If you have the Two-Weapon Fighting feat, you can sheathe two light or one-handed weapons in the time it would normally take to sheathe one.
 

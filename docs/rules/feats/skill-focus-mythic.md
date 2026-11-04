@@ -4,7 +4,7 @@
 
 You mastery with this skill is unmatched, even in difficult situations.
 
-**Prerequisite**: Skill Focus.
+**Prerequisite**: [Skill Focus](skill-focus.md).
 
 **Benefit**: You can always take 10 or 20 on checks with your choice of skill for Skill Focus, even when you are rushed or threatened.
 

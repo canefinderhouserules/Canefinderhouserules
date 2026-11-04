@@ -4,7 +4,7 @@
 
 You have learned to turn your pain into power, whipping yourself into a blood frenzy whenever you take damage.
 
-**Prerequisites**: Str 13, Improved Unarmed Strike, base attack bonus +1, aquatic subtype.
+**Prerequisites**: Str 13, [Improved Unarmed Strike](improved-unarmed-strike.md), base attack bonus +1, aquatic subtype.
 
 **Benefit**: While you are using Blood Frenzy Style, you gain a +2 bonus to your Strength and Constitution, and you take a –2 penalty to AC.
 

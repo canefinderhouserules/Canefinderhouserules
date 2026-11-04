@@ -31,7 +31,7 @@ A vampire hunter is proficient with all simple and martial weapons, as well as l
 
 ### Detect Undead (Sp)
 
-At will, a vampire hunter can use *detect undead*, as the spell. A vampire hunter can, as a move action, concentrate on a single item or individual within 60 feet and determine if it is undead, learning the strength of its aura as if he had studied it for 3 rounds. While focusing on one individual or object, the vampire hunter does not *detect undead* in any other object or individual within range.
+At will, a vampire hunter can use [*detect undead*](../../magic/spells/detect-undead.md), as the spell. A vampire hunter can, as a move action, concentrate on a single item or individual within 60 feet and determine if it is undead, learning the strength of its aura as if he had studied it for 3 rounds. While focusing on one individual or object, the vampire hunter does not *detect undead* in any other object or individual within range.
 
 ### Technique Feat
 
@@ -90,7 +90,7 @@ At 5th level, a vampire hunter’s resolve infects his traveling companions, inc
 
 ### Vampire Tracker (Ex)
 
-At 7th level, the vampire hunter can track gaseous creatures—such as vampires flying or moving in *gaseous form*—as though they were leaving physical tracks. The base DC of Survival checks to track gaseous creatures is 20. The modifiers for surfaces don’t apply (as a gaseous creature leaves no impressions during its passage) but other conditions do.
+At 7th level, the vampire hunter can track gaseous creatures—such as vampires flying or moving in [*gaseous form*](../../magic/spells/gaseous-form.md)—as though they were leaving physical tracks. The base DC of Survival checks to track gaseous creatures is 20. The modifiers for surfaces don’t apply (as a gaseous creature leaves no impressions during its passage) but other conditions do.
 
 ### Swift Tracker (Ex)
 
@@ -118,7 +118,7 @@ Items used in this manner are typically alchemical items, such as acid or holy w
 
 This ability can be used against incorporeal creatures.
 
-If the target creature is a vampire and the vampire hunter has a wooden stake in his *possession* (or a similar item affected by his stake ability), he can drive the stake through the vampire’s heart as though it were helpless, slaying it immediately. If the creature is not a vampire, this attempt fails at the last moment; the vampire hunter realizes that the target is not a vampire. A vampire hunter cannot drive a stake through the heart of a non-vampire using this ability.
+If the target creature is a vampire and the vampire hunter has a wooden stake in his [*possession*](../../magic/spells/possession.md) (or a similar item affected by his stake ability), he can drive the stake through the vampire’s heart as though it were helpless, slaying it immediately. If the creature is not a vampire, this attempt fails at the last moment; the vampire hunter realizes that the target is not a vampire. A vampire hunter cannot drive a stake through the heart of a non-vampire using this ability.
 
 ### Improved Quarry (Ex)
 
@@ -178,15 +178,15 @@ At 16th level, this bonus becomes +6.
 
 The vampire hunter is treated as being under the effects of the spell* feather fall*.
 
-At 8th level, he is also affected as if by the spell *spider climb* and can move normally through difficult terrain.
+At 8th level, he is also affected as if by the spell [*spider climb*](../../magic/spells/spider-climb.md) and can move normally through difficult terrain.
 
-At 16th level, he is treated as being under the effects of the spell *freedom of movement*, and can use up to two consecutive move actions in the same turn to cross areas of open air or calm water (or similar substances) as if they were solid ground, though the vampire hunter must begin and end this movement on solid ground. This allows the vampire hunter to cross water, open air, lava (though he takes fire damage as normal if not immune), and the like without falling or sinking.
+At 16th level, he is treated as being under the effects of the spell [*freedom of movement*](../../magic/spells/freedom-of-movement.md), and can use up to two consecutive move actions in the same turn to cross areas of open air or calm water (or similar substances) as if they were solid ground, though the vampire hunter must begin and end this movement on solid ground. This allows the vampire hunter to cross water, open air, lava (though he takes fire damage as normal if not immune), and the like without falling or sinking.
 
 ### Vampiric Presence
 
 The vampire hunter gains a +2 enhancement bonus to Charisma.
 
-At 8th level, this bonus increases to +4, and he can cast *charm person* as a spell-like ability a number of times per day equal to his adjusted Charisma modifier.
+At 8th level, this bonus increases to +4, and he can cast [*charm person*](../../magic/spells/charm-person.md) as a spell-like ability a number of times per day equal to his adjusted Charisma modifier.
 
 At 16th level, the enhancement bonus to Charisma increases to +6, and the vampire hunter can cast *dominate person *as a spell-like ability a number of times per day equal to his adjusted Charisma modifier. The vampire hunter treats his level as his caster level when using the spell-like abilities this ability grants.
 

@@ -4,7 +4,7 @@
 
 You can load crossbows with blinding speed and even fire them in melee with little fear of reprisal.
 
-**Prerequisites**: Dex 15, Point-Blank Shot, Rapid Reload, Rapid Shot.
+**Prerequisites**: Dex 15, [Point-Blank Shot](point-blank-shot.md), [Rapid Reload](rapid-reload.md), [Rapid Shot](rapid-shot.md).
 
 **Benefit**: The time required for you to reload any type of crossbow is reduced to a free action, regardless of the type of crossbow used. You can fire a crossbow as many times in a full attack action as you could attack if you were using a bow. Reloading a crossbow for the type of crossbow you chose when you took Rapid Reload no longer provokes attacks of opportunity.
 

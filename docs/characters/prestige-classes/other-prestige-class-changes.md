@@ -35,7 +35,7 @@
 
 ## [Moonlit Dancer](moonlit-dancer.md)
 
-- No longer requires Ghost Whisperer; it is granted at level 1. Requires Perform 3 and spell level 1.
+- No longer requires [Ghost Whisperer](../../rules/feats/ghost-whisperer.md); it is granted at level 1. Requires Perform 3 and spell level 1.
 - Deathwaking Dance is 1d6 per 2 levels + Charisma, and the save halves the damage instead of negating it.
 - Untethering Steps targets everything within 30 feet.
 - Exorcist's Waltz requires 1 full round instead of 4 rounds.
@@ -67,7 +67,7 @@
 ## [Champion of the Enlightened](champion-of-the-enlightened.md)
 
 - Skill requirements drop to 3.
-- Now requires Improved Unarmed Strike instead of Still Mind.
+- Now requires [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) instead of Still Mind.
 - Martial Artist lets you choose Wisdom or Charisma for the effects of the monk abilities it advances, and unlocks them if your monk levels have not done so yet.
 - Special: you can ignore all requirements and replace them with 4 levels of the matching order of paladin, in which case you gain Aligned Class (which only works with that paladin order).
 
@@ -79,7 +79,7 @@
 
 ## [Crimson Templar](crimson-templar.md)
 
-- No longer requires Vital Strike. The BAB requirement drops to 4.
+- No longer requires [Vital Strike](../../rules/feats/vital-strike.md). The BAB requirement drops to 4.
 - Heavenly Fire: the save halves instead of negating.
 - Immolate is optional.
 
@@ -110,18 +110,18 @@
 
 ## [Death Slayer](death-slayer.md)
 
-- No longer requires Great Fortitude, skill requirements drop to 3, and the spell requirement drops to 1st-level spells. (Its weapon may be negotiable for another one that reasonably suits some other fitting deity.)
+- No longer requires [Great Fortitude](../../rules/feats/great-fortitude.md), skill requirements drop to 3, and the spell requirement drops to 1st-level spells. (Its weapon may be negotiable for another one that reasonably suits some other fitting deity.)
 - Its channel rises to 1d10 (but keeps the same restrictions and inability to heal).
 
 ## [Demoniac](demoniac.md) / [Diabolist](diabolist.md)
 
-- Skill requirements drop to 5, and it no longer requires Iron Will.
+- Skill requirements drop to 5, and it no longer requires [Iron Will](../../rules/feats/iron-will.md).
 - The spell requirement drops to being able to cast 1st-level spells.
 - Gains full Aligned Class (as the Evangelist).
 
 ## [Devoted Muse](devoted-muse.md)
 
-- BAB requirement drops to +3. No longer requires Combat Expertise; it is given to you at level 1, ignoring prerequisites.
+- BAB requirement drops to +3. No longer requires [Combat Expertise](../../rules/feats/combat-expertise.md); it is given to you at level 1, ignoring prerequisites.
 - Its Deeds class feature is no longer level –3, and they have Parry and Riposte at level 1.
 - Artistic Flourish no longer removes the enemy's denied Dexterity bonus when using feint.
 - Gains Aligned Class at half rate.
@@ -130,7 +130,7 @@
 
 - Skill requirements drop to 3.
 - The Daylight requirement changes to "being a divine caster with at least 2nd-level spells".
-- Divine Deception counts for its Secret Caster roll.
+- [Divine Deception](../../rules/feats/divine-deception.md) counts for its Secret Caster roll.
 - Secret Caster lets you take an extra –5 on the roll to avoid it being a full-round action.
 - Burning Blade lasts 1 minute instead of 1 round per die of channel/inquisitor level/etc.
 
@@ -193,7 +193,7 @@
 
 - All skill requirements drop to 2.
 - The spell requirement drops to 1.
-- No longer requires Combat Reflexes.
+- No longer requires [Combat Reflexes](../../rules/feats/combat-reflexes.md).
 - No longer loses caster level at levels 5 and 9 (it works like the Eldritch Knight, which only loses the first level).
 
 ## [Green Faith Acolyte](green-faith-acolyte.md)
@@ -229,15 +229,15 @@
 ## [Hell Knight](hell-knight.md)
 
 - Requirements drop to BAB +3 and Intimidate 2; the rest stays the same.
-- Force of Will changes to directly give Iron Will at level 3, Improved Iron Will at level 6 and Mythic Iron Will at level 9.
+- Force of Will changes to directly give Iron Will at level 3, [Improved Iron Will](../../rules/feats/improved-iron-will.md) at level 6 and Mythic Iron Will at level 9.
 - Smite Chaos is not ×2 to EVERYTHING against chaotic outsiders; it is only an explanation of which creature types the normal ×2 of smite evil works against (chaotic subtype, chaotic aberrations and fey). The damage added per level is still ×2, or stacks with other smite classes you have, up to a maximum of your Hit Dice.
 - Gains Aligned Class at half rate (as the Mortal Usher).
-- If you have Hell Knight Obedience, you may choose to gain the boons at levels 3, 6 and 9 instead of gaining a discipline.
+- If you have [Hell Knight Obedience](../../rules/feats/hell-knight-obedience.md), you may choose to gain the boons at levels 3, 6 and 9 instead of gaining a discipline.
 
 ## [Hell Knight Signifer](hell-knight-signifer.md)
 
 - The spell level requirement drops to 1. Skill requirements drop to 3.
-- No longer requires Warrior Priest or Arcane Armor Training. It directly gives you them at level 1, depending on whether you are a divine or arcane caster, respectively.
+- No longer requires [Warrior Priest](../../rules/feats/warrior-priest.md) or [Arcane Armor Training](../../rules/feats/arcane-armor-training.md). It directly gives you them at level 1, depending on whether you are a divine or arcane caster, respectively.
 - Gains Aligned Class at half rate (as the Mortal Usher).
 - Catechesis changes to full Aligned Class (every level beyond 1st) for divine casters only.
 
@@ -247,10 +247,10 @@
 
 ## [Sword Duelist](sword-duelist.md)
 
-- Instead of Quick Draw, it grants an extra combat feat.
+- Instead of [Quick Draw](../../rules/feats/quick-draw.md), it grants an extra combat feat.
 - Deft Strike gives 1.5× Dexterity damage when wielding the sword two-handed, and level to damage whether one-handed or two-handed.
-- Skill requirements are 2 instead of 5 or 3, and it requires only Weapon Focus (heavy blades) and Weapon Finesse.
-- Gains proficiency with the order's dueling sword at level 1, and Dazzling Display.
+- Skill requirements are 2 instead of 5 or 3, and it requires only Weapon Focus (heavy blades) and [Weapon Finesse](../../rules/feats/weapon-finesse.md).
+- Gains proficiency with the order's dueling sword at level 1, and [Dazzling Display](../../rules/feats/dazzling-display.md).
 - At level 3 it also gives Panache and Parry and Riposte as if you were a swashbuckler of your level.
 - Confounding Duelist lets you use Shatter Confidence with any hit even if the enemy is not shaken, and gives +1 critical range or critical multiplier, which stacks with Improved Critical (that is, it makes the dueling sword 18–20/×2 or 19–20/×3, your choice).
 

@@ -4,7 +4,7 @@
 
 You can channel even more energy into weapons and armor to grant them several divine powers at once.
 
-**Prerequisites**: Bless Equipment, caster level 9th, channel energy class feature.
+**Prerequisites**: [Bless Equipment](bless-equipment.md), caster level 9th, channel energy class feature.
 
 **Benefit**: The number of uses of channeled energy you must expend to bless a piece of equipment using Bless Equipment and Align Equipment decreases by one (to a minimum of one use of channel energy per blessing).
 

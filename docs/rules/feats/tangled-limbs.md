@@ -4,7 +4,7 @@
 
 You twist your long weapon among your target's legs, knocking your foe off-balance.
 
-**Prerequisites**: Improved Trip, Weapon Focus with the chosen weapon.
+**Prerequisites**: [Improved Trip](improved-trip.md), Weapon Focus with the chosen weapon.
 
 **Benefit**: Choose one weapon with the reach special quality. When you attempt a trip combat maneuver check with the chosen weapon, your target doesn't receive a bonus to its CMD against your trip attempt for having more than two legs.
 

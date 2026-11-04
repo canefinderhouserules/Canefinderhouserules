@@ -2,7 +2,7 @@
 
 You can summon more creatures.
 
-**Prerequisites**: Augment Summoning, caster level 3rd.
+**Prerequisites**: [Augment Summoning](augment-summoning.md), caster level 3rd.
 
 **Benefit**: The maximum CR of the creatures you can summon increases by 1.
 

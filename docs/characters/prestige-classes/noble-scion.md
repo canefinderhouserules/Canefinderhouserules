@@ -61,17 +61,17 @@ A noble scion cannot permanently gain goods or wealth from this ability; boons a
 
 **Regional Expertise (Ex)**: At 4th level, and again at 6th and 8th level, a noble scion gains a bonus feat from one of the lists below, depending on the culture he is from. These feats must be taken from the same list at each level (except for feats under the “general” category, which can be taken by nobles from any culture). A noble scion need not meet the prerequisites for these feats. At their discretion, GMs may add other feats to these cultures or create lists for other cultures.
 
-- **Dueling Frontier**: Exotic Weapon Proficiency (dueling sword), Flanking Foil, Step Up, Weapon Focus (dueling sword).
-- **Infernal Empire**: Careful Speaker, Enforcer, Intimidating Prowess, Skill Focus (Knowledge [planes]).
-- **Island Mystics**: Improved Unarmed Strike, Skill Focus (Perform [dance]), Voice of the Sibyl, Weapon Focus (unarmed strike).
-- **Forest Elves**: Agile Maneuvers, Breadth of Experience, Skill Focus (Knowledge [nature]), Weapon Focus (longbow).
-- **Shadow Lands**: Blind-Fight, Diehard, Shadow Strike, Stealthy.
+- **Dueling Frontier**: Exotic Weapon Proficiency (dueling sword), [Flanking Foil](../../rules/feats/flanking-foil.md), Step Up, Weapon Focus (dueling sword).
+- **Infernal Empire**: [Careful Speaker](../../rules/feats/careful-speaker.md), Enforcer, [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), Skill Focus (Knowledge [planes]).
+- **Island Mystics**: [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md), Skill Focus (Perform [dance]), [Voice of the Sibyl](../../rules/feats/voice-of-the-sibyl.md), Weapon Focus (unarmed strike).
+- **Forest Elves**: [Agile Maneuvers](../../rules/feats/agile-maneuvers.md), [Breadth of Experience](../../rules/feats/breadth-of-experience.md), Skill Focus (Knowledge [nature]), Weapon Focus (longbow).
+- **Shadow Lands**: Blind-Fight, Diehard, [Shadow Strike](../../rules/feats/shadow-strike.md), Stealthy.
 - **Desert Kingdom**: Exotic Weapon Proficiency (khopesh), Self-Sufficient, Skill Focus (Knowledge [history]), Weapon Focus (khopesh).
-- **Eastern Empire**: Animal Affinity, Quick Draw, Skill Focus (Appraise), Weapon Focus (scimitar).
-- **Lawless Marches**: Improved Dirty Trick, Improved Steal, Irongut, Skill Focus (Knowledge [local]).
-- **Decadent Empire**: Dazzling Display, Exotic Weapon Proficiency (falcata), Skill Focus (Bluff), Weapon Focus (falcata).
-- **Gothic Realm**: Combat Reflexes, Focused Discipline, Skill Focus (Knowledge [nobility]), Stoic.
-- **General**: Acrobatic, Additional Traits, Alertness, Antagonize, Athletic, Cosmopolitan, Deceitful, Deft Hands, Fleet, Improved Initiative, Persuasive, Prodigy, Rhetorical Flourish, Run, Scholar.
+- **Eastern Empire**: [Animal Affinity](../../rules/feats/animal-affinity.md), [Quick Draw](../../rules/feats/quick-draw.md), Skill Focus (Appraise), Weapon Focus (scimitar).
+- **Lawless Marches**: [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md), [Improved Steal](../../rules/feats/improved-steal.md), Irongut, Skill Focus (Knowledge [local]).
+- **Decadent Empire**: [Dazzling Display](../../rules/feats/dazzling-display.md), Exotic Weapon Proficiency (falcata), Skill Focus (Bluff), Weapon Focus (falcata).
+- **Gothic Realm**: [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Focused Discipline](../../rules/feats/focused-discipline.md), Skill Focus (Knowledge [nobility]), Stoic.
+- **General**: Acrobatic, [Additional Traits](../../rules/feats/additional-traits.md), Alertness, Antagonize, Athletic, Cosmopolitan, Deceitful, [Deft Hands](../../rules/feats/deft-hands.md), Fleet, [Improved Initiative](../../rules/feats/improved-initiative.md), Persuasive, Prodigy, [Rhetorical Flourish](../../rules/feats/rhetorical-flourish.md), Run, Scholar.
 
 **Dilettante Studies**: At 5th level, a noble scion chooses two different dilettante studies from the list below. At 9th level, he again chooses two different dilettante studies to add to his repertoire. If either of these are duplicates of those chosen at 5th level, the bonuses stack.
 

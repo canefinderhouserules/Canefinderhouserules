@@ -51,7 +51,7 @@ The following are class features of the fate reader.
 
 **Spells**: When a fate reader gains a level, she gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before she added the prestige class. She does not, however, gain any other benefits a character of that class would have gained. This essentially means that she adds the level of fate reader to the level of whatever other spellcasting class she has. If the character had more than one spellcasting class before she became a fate reader, she must choose which class she adds each fate reader level to for the purposes of determining spells per day.
 
-A fate reader adds the *fate reading* spell (see [fate reading](../../magic/spells/fate-reading.md)) to all of her spell lists as a 3rd-level spell if it is not already on a spell list.
+A fate reader adds the [*fate reading*](../../magic/spells/fate-reading.md) spell (see [fate reading](../../magic/spells/fate-reading.md)) to all of her spell lists as a 3rd-level spell if it is not already on a spell list.
 
 **Blessing of the Deck (Su)**: Once per day, a fate reader may perform a fate reading for herself and all allies within 20 feet of her. This fate reading takes 10 minutes, and allies to be affected by it must remain within 20 feet of the fate reader for the entire time. At the conclusion of the fate reading, count up the number of cards from each suit that were used in the reading. This fate reading provides a bonus based upon the suit with the most cards showing. In case of a tie, choose one suit. The bonus lasts for 24 hours. The suits grant insight bonuses as follows. Strength: +1 on attack rolls; Dexterity: +1 to AC; Constitution: +1 on weapon damage rolls; Intelligence: +1 on all skill checks; Wisdom: +1 on all saving throws; Charisma: +1 on caster level and concentration checks.
 
@@ -77,7 +77,7 @@ A fate reader adds the *fate reading* spell (see [fate reading](../../magic/spel
 
 **Spirit Deck (Su)**: A 5th-level fate reader may, as a standard action, summon a shimmering, translucent fate deck made of force that flies through the air and engulfs a target within 30 feet in a whirling cloud of knife-edged cards. The fate reader then draws a number of fate cards equal to her fate reader level from her personal fate deck, and the spirit deck deals damage based on the number of drawn cards that match her alignment, as shown on the table above. Each exact match deals 5 points of damage, each partial match deals 3 points, each non-matched card deals 1 point, and each opposite match deals 0 points. The fate reader may use this ability a number of times per day equal to 1 + her Charisma modifier (minimum 1/day).
 
-**Divination (Sp)**: A 6th-level fate reader gains the ability to cast *divination* once per day as a spell-like ability. Her caster level equals her character level.
+**Divination (Sp)**: A 6th-level fate reader gains the ability to cast [*divination*](../../magic/spells/divination.md) once per day as a spell-like ability. Her caster level equals her character level.
 
 **Tower of Constitution (Ex)**: Beginning at 7th level, whenever a fate reader uses her deck casting ability, for each card she draws from the suit of shields (Constitution), she heals 1d6 points of damage.
 

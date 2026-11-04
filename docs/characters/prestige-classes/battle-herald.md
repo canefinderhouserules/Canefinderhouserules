@@ -63,7 +63,7 @@ Issuing an inspiring command is a move action.
 
 At 5th level, this becomes a swift action, and at 10th level, it becomes an immediate action.
 
-Maintaining an inspiring command is a free action that cannot be disrupted, but its effects end immediately if the battle herald is killed or otherwise prevented from taking actions (such as being dazed, helpless, or stunned). The battle herald cannot have more than one command in effect at a time. She may use this ability for a number of rounds per day equal to 4 + her Charisma modifier, plus 2 additional rounds per level after 1st. She may use rounds of bardic performance to issue inspiring commands, but not vice versa. Inspiring commands are language-dependent, mind-affecting effects. The battle herald cannot maintain an inspiring command and a bardic performance at the same time (this does not preclude abilities such as persistent command or the Lingering Performance feat, which continue an inspiring command or bardic performance after the battle herald stops maintaining it).
+Maintaining an inspiring command is a free action that cannot be disrupted, but its effects end immediately if the battle herald is killed or otherwise prevented from taking actions (such as being dazed, helpless, or stunned). The battle herald cannot have more than one command in effect at a time. She may use this ability for a number of rounds per day equal to 4 + her Charisma modifier, plus 2 additional rounds per level after 1st. She may use rounds of bardic performance to issue inspiring commands, but not vice versa. Inspiring commands are language-dependent, mind-affecting effects. The battle herald cannot maintain an inspiring command and a bardic performance at the same time (this does not preclude abilities such as persistent command or the [Lingering Performance](../../rules/feats/lingering-performance.md) feat, which continue an inspiring command or bardic performance after the battle herald stops maintaining it).
 
 Battle Magic*: One ally gains a bonus on caster level checks and concentration checks equal to the battle herald’s command bonus.
 
@@ -81,13 +81,13 @@ None Shall Fall*: A number of allies equal to the battle herald’s inspiring co
 
 **Reveille**: Allies affected by exhaustion, fatigue, or sleep effects may attempt a new saving throw against each such effect; this new save has a bonus equal to the battle herald’s inspiring command bonus. Allies who are sleeping normally automatically awaken when this ability is used.
 
-Scatter*: A number of allies equal to the battle herald’s inspiring command bonus gain the benefits of the Wind Stance feat.
+Scatter*: A number of allies equal to the battle herald’s inspiring command bonus gain the benefits of the [Wind Stance](../../rules/feats/wind-stance.md) feat.
 
 Shake It Off*: One ally subject to an ongoing condition may attempt a new saving throw to negate the effects with a bonus equal to the battle herald’s inspiring command bonus. This ability does not help against instantaneous effects, effects that require recurring saving throws to avoid additional penalties (such as diseases and poisons), or effects that do not allow a saving throw.
 
 **Sound the Charge**: Allies apply the battle herald’s inspiring command bonus to attack and damage rolls. Charging allies increase their speed by 5 feet times the battle herald’s inspiring command bonus.
 
-**Sound the Retreat**: Allies gain the benefit of the Lightning Stance feat. The battle herald must have the scatter ability to select this ability.
+**Sound the Retreat**: Allies gain the benefit of the [Lightning Stance](../../rules/feats/lightning-stance.md) feat. The battle herald must have the scatter ability to select this ability.
 
 **Stand Firm**: Allies apply the battle herald’s inspiring command bonus to CMD and on Fortitude saves.
 

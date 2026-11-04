@@ -38,7 +38,7 @@ During combat, you can attempt to perform a number of maneuvers that can hinder 
 
 **Combat Maneuver Bonus**: Each character and creature has a Combat Maneuver Bonus (or CMB) that represents its skill at performing combat maneuvers. A creature’s CMB is determined using the following formula:
 
-** CMB = Base attack bonus + Strength modifier + special size modifier**
+**CMB = Base attack bonus + Strength modifier + special size modifier**
 
 Creatures that are size Tiny or smaller use their
 
@@ -50,7 +50,7 @@ When you attempt to perform a combat maneuver, make an attack roll and add your 
 
 **Combat Maneuver Defense**: Each character and creature has a Combat Maneuver Defense (or CMD) that represents its ability to resist combat maneuvers. A creature’s CMD is determined using the following formula:
 
-** CMD = 10 + Base attack bonus + Strength modifier + Dexterity modifier + special size modifier**
+**CMD = 10 + Base attack bonus + Strength modifier + Dexterity modifier + special size modifier**
 
 The special size modifier for a creature’s Combat Maneuver Defense is as follows: Fine –8, Diminutive –4, Tiny –2, Small –1, Medium +0, Large +1, Huge +2, Gargantuan +4, Colossal +8. Some feats and abilities grant a bonus to your CMD when resisting specific maneuvers. A creature can also add any circumstance, deflection, dodge, insight, luck, morale, profane, and sacred bonuses to AC to its CMD. Any penalties to a creature’s AC also apply to its CMD. A flat-footed creature does not add its Dexterity bonus to its CMD.
 

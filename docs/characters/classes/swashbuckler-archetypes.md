@@ -20,7 +20,7 @@ Not known for their flashy entrances or for standing out in a crowd, a daring in
 
 **Class Skills**: A daring infiltrator gains Disguise and Stealth as class skills, but does not gain Diplomacy, Perform, and Profession as class skills. This alters the swashbuckler's class skill list.
 
-**Bonus Feats**: In addition to combat feats, a daring infiltrator's bonus feats at 2nd, 10th, and 18th level can come from the following list: Alertness, Antagonize, Cosmopolitan, Deceitful, Deft Hands, Disarming Threat*, Persuasive, Prodigy, and Skill Focus. (Those marked with an asterisk [*] are detailed in this book.) This alters the bonus feat class ability.
+**Bonus Feats**: In addition to combat feats, a daring infiltrator's bonus feats at 2nd, 10th, and 18th level can come from the following list: Alertness, Antagonize, Cosmopolitan, Deceitful, [Deft Hands](../../rules/feats/deft-hands.md), Disarming Threat*, Persuasive, Prodigy, and Skill Focus. (Those marked with an asterisk [*] are detailed in this book.) This alters the bonus feat class ability.
 
 **Quick-Tongued (Ex)**: At 2nd level, a daring infiltrator gains a +1 bonus on Bluff checks. This bonus increases by 1 for every 4 levels beyond 2nd. This ability replaces charmed life. Deeds: A daring infiltrator gains the following deeds, each of which replaces an existing deed.
 
@@ -68,7 +68,7 @@ While most swashbucklers prefer their battles up close, others prefer dealing de
 
 **Perfect Throw (Ex)**: At 15th level, a flying blade can pool all of her attack potential into a single attack. This deed functions as the swashbuckler's perfect strike .deed, but the flying blade must use this deed when making ranged attacks with either a dagger or a starknife, and she can use this deed only on targets within 60 feet of her. This deed replaces perfect thrust.
 
-**Flying Blade Training (Ex)**: At 5th level, a flying blade gains a +1 bonus on attack and damage rolls when using daggers or star knives in combat. When a flying blade wields a dagger or starknife, she gains the benefit of the Improved Critical feat with those weapons. Additionally, a flying blade increases the range increment of a thrown dagger or star knife by 5 feet. The increase of range increment stacks with that of precise throw.
+**Flying Blade Training (Ex)**: At 5th level, a flying blade gains a +1 bonus on attack and damage rolls when using daggers or star knives in combat. When a flying blade wields a dagger or starknife, she gains the benefit of the [Improved Critical](../../rules/feats/improved-critical.md) feat with those weapons. Additionally, a flying blade increases the range increment of a thrown dagger or star knife by 5 feet. The increase of range increment stacks with that of precise throw.
 
 Every 4 levels thereafter, the bonus on attack and damage rolls increases by 1, and the range increment increases by 5 feet. This ability replaces swashbuckler weapon training.
 
@@ -82,9 +82,9 @@ An inspired blade is both a force of personality and a sage of swordplay dedicat
 
 Unlike other swashbucklers, an inspired blade gains no panache from a killing blow. She gains panache only from scoring a critical hit with a rapier. This ability alters the panache class feature.
 
-**Inspired Finesse (Ex)**: At 1st level, an inspired blade gains the benefits of Weapon Finesse with the rapier (this ability counts as having the Weapon Finesse feat for the purpose of meeting feat prerequisites) and gains Weapon Focus (rapier) as a bonus feat. This ability replaces swashbuckler finesse. Deeds: The inspired blade gains the following deeds, each of which replaces an existing deed.
+**Inspired Finesse (Ex)**: At 1st level, an inspired blade gains the benefits of [Weapon Finesse](../../rules/feats/weapon-finesse.md) with the rapier (this ability counts as having the Weapon Finesse feat for the purpose of meeting feat prerequisites) and gains Weapon Focus (rapier) as a bonus feat. This ability replaces swashbuckler finesse. Deeds: The inspired blade gains the following deeds, each of which replaces an existing deed.
 
-**Inspired Strike (Ex)**: At 11th level, an inspired blade can spend 1 panache point when making an attack with a rapier to gain an insight bonus on that attack roll equal to her Intelligence modifier (minimum +1). When an inspired blade hits with an attack augmented by inspired strike, she can spend 1 additional panache point to make the hit a critical threat, though if she does so, she does not regain panache if she confirms that critical threat. The cost of this deed cannot be reduced by abilities such as Signature Deed. This ability replaces bleeding wound.
+**Inspired Strike (Ex)**: At 11th level, an inspired blade can spend 1 panache point when making an attack with a rapier to gain an insight bonus on that attack roll equal to her Intelligence modifier (minimum +1). When an inspired blade hits with an attack augmented by inspired strike, she can spend 1 additional panache point to make the hit a critical threat, though if she does so, she does not regain panache if she confirms that critical threat. The cost of this deed cannot be reduced by abilities such as [Signature Deed](../../rules/feats/signature-deed.md). This ability replaces bleeding wound.
 
 **Rapier Training (Ex)**: At 5th level, an inspired blade gains a +1 bonus on attack rolls and a +2 bonus on damage rolls with rapiers. While wielding a rapier, she gains the benefit of the Improved Critical feat. These attack and damage bonuses increase by 1 for every 4 levels beyond 5th (to a maximum of +4 on attack rolls and +5 on damage rolls at 17th level). This ability replaces swashbuckler weapon training.
 
@@ -146,9 +146,9 @@ While some swashbucklers take pride in their ability to wear down an opponent wi
 
 **Gun Feint (Ex)**: At 7th level, a picaroon can use the ferocious reputation of firearms to her advantage. A picaroon with at least 1 panache point can feint instead of attacking with her firearm as part of a full attack. She can spend 1 panache point to gain a +2 bonus on this check. This deed replaces superior feint.
 
-**Lightning Reload (Ex)**: At 11th level, once per round the picaroon can spend 1 panache point to reload a single barrel of a one-handed firearm as a swift action. If she has the Rapid Reload feat or is using an alchemical cartridge, she can instead reload a single barrel of the weapon as a free action each round. Using this deed doesn't provoke attacks of opportunity. This deed replaces bleeding wound.
+**Lightning Reload (Ex)**: At 11th level, once per round the picaroon can spend 1 panache point to reload a single barrel of a one-handed firearm as a swift action. If she has the [Rapid Reload](../../rules/feats/rapid-reload.md) feat or is using an alchemical cartridge, she can instead reload a single barrel of the weapon as a free action each round. Using this deed doesn't provoke attacks of opportunity. This deed replaces bleeding wound.
 
-**Two-Weapon Finesse (Ex)**: At 2nd level, a picaroon gains the benefits of the Weapon Finesse feat with light or one-handed piercing melee weapons. She also gains the effects of the Two-Weapon Fighting feat as long as she is wielding a light or one-handed piercing melee weapon in one hand and one-handed firearm in the other hand. This ability counts as having both the Weapon Finesse and Two-Weapon Fighting feats for the purposes of meeting feat requirements. This ability replaces swashbuckler finesse.
+**Two-Weapon Finesse (Ex)**: At 2nd level, a picaroon gains the benefits of the Weapon Finesse feat with light or one-handed piercing melee weapons. She also gains the effects of the [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md) feat as long as she is wielding a light or one-handed piercing melee weapon in one hand and one-handed firearm in the other hand. This ability counts as having both the Weapon Finesse and Two-Weapon Fighting feats for the purposes of meeting feat requirements. This ability replaces swashbuckler finesse.
 
 ## Arrow Champion
 
@@ -162,7 +162,7 @@ While the swashbuckler’s agile style of combat is equally suited to urban sett
 
 **Precise Aim (Ex)**: At 3rd level, when attacking with a light or one-handed piercing melee weapon, an arrow champion can add her swashbuckler level to the damage she deals, as the swashbuckler’s precise strike deed. She can also add one-quarter of her swashbuckler level to the damage dealt when attacking with a bow, but the target must be within 30 feet of her. As a swift action, an arrow champion can spend 1 panache point to increase the range of the effect to her bow’s first range increment. Unlike a normal swashbuckler, an arrow champion cannot spend panache to double the extra damage. This deed alters precise strike.
 
-**Swift Switch (Ex)**: At 3rd level, while the arrow champion has at least 1 panache point, she can sheathe or draw an unhidden light or one-handed piercing melee weapon or a bow as a swift action without provoking attacks of opportunity. If the arrow champion spends 1 panache point, she can perform either action as an immediate action. In addition, if she has the Quick Draw feat and one of her hands is free, she can sheathe a weapon and draw an unhidden weapon as part of the same swift action, provided that one of the weapons is a bow and the other is a light or one-handed piercing melee weapon. If she spends 1 panache point, she can perform the switch as an immediate action. This deed replaces swashbuckler’s initiative.
+**Swift Switch (Ex)**: At 3rd level, while the arrow champion has at least 1 panache point, she can sheathe or draw an unhidden light or one-handed piercing melee weapon or a bow as a swift action without provoking attacks of opportunity. If the arrow champion spends 1 panache point, she can perform either action as an immediate action. In addition, if she has the [Quick Draw](../../rules/feats/quick-draw.md) feat and one of her hands is free, she can sheathe a weapon and draw an unhidden weapon as part of the same swift action, provided that one of the weapons is a bow and the other is a light or one-handed piercing melee weapon. If she spends 1 panache point, she can perform the switch as an immediate action. This deed replaces swashbuckler’s initiative.
 
 **Archer’s Feint (Ex)**: At 7th level, when the arrow champion hits a foe within 30 feet with a bow attack, she can forgo the damage and instead attempt a Bluff check to feint against that foe as a swift action. If successful, in addition to the normal benefits of feinting, she doubles the extra damage from precise aim on her next melee attack before the end of her next turn. This deed replaces superior feint.
 
@@ -250,7 +250,7 @@ This deed replaces the menacing swordplay deed.
 
 This deed replaces the swashbuckler’s grace deed.
 
-**Soul Veil (Sp)**: At 15th level, a veiled blade can merge a light or one-handed piercing melee weapon with herself, as if using the spell *ghost brand*, except that it takes only a swift action to manifest or store the weapon. This ability lasts until it is dispelled or until the veiled blade merges with a different light or one-handed piercing melee weapon.
+**Soul Veil (Sp)**: At 15th level, a veiled blade can merge a light or one-handed piercing melee weapon with herself, as if using the spell [*ghost brand*](../../magic/spells/ghost-brand.md), except that it takes only a swift action to manifest or store the weapon. This ability lasts until it is dispelled or until the veiled blade merges with a different light or one-handed piercing melee weapon.
 
 This deed replaces the swashbuckler’s edge deed.
 
@@ -282,7 +282,7 @@ Cities with many dueling schools host students who are notoriously competitive, 
 
 **Deeds**: A sword duelist bravo’s training and personality set her apart from the typical swashbuckler, and she gains the following deeds. These deeds function only when the bravo is wielding just a dueling sword.
 
-**Inevitable Victory (Ex)**: The bravo’s technique is all about flair; a display of her skill is enough to make any brawler reconsider picking a fight. At 3rd level, the bravo gains Dazzling Display as a bonus feat. She can activate its effect only while wielding a dueling sword, and she must spend 1 panache point to do so. This deed replaces menacing swordplay.
+**Inevitable Victory (Ex)**: The bravo’s technique is all about flair; a display of her skill is enough to make any brawler reconsider picking a fight. At 3rd level, the bravo gains [Dazzling Display](../../rules/feats/dazzling-display.md) as a bonus feat. She can activate its effect only while wielding a dueling sword, and she must spend 1 panache point to do so. This deed replaces menacing swordplay.
 
 **Sweeping Wind Feint (Ex)**: At 7th level, the bravo masters an exotic feinting style, tossing her blade to the other hand and performing a sweeping attack or upward slash before the opponent reacts. Once per round, she can spend 1 point of panache to attempt a feint as a swift action. This deed replaces superior feint.
 
@@ -302,7 +302,7 @@ The dashing thief relies on swift swordplay, dazzling charm, and spirited courag
 
 **Dazing Charm Deed (Ex)**: A dashing thief takes foes aback with her forwardness, shocking them into submission long enough to rush past or stage a getaway. At 3rd level, as a free action when she successfully feints against a foe, she can spend 1 panache point to pull the enemy into a quick kiss (or similar gesture). The target is dazed for 1 round unless it succeeds at a Will save (DC = 10 + half the dashing thief’s class level + her Charisma modifier). A creature dazed this way is immune to that dashing thief’s dazing charm deed for 24 hours. Whether or not a creature could potentially be affected by a dazing charm deed is ultimately subject to GM adjudication. As a general rule, however, it works on creatures of the dashing thief’s creature type, or on those of a different type but who share significant thematic similarities (for example, a human dashing thief could use her dazing charm deed on any humanoid, but also potentially on creatures as diverse as dryads, tieflings, or even centaurs or sphinxes). This ability replaces the menacing swordplay deed.
 
-**Swaying Charm Deed (Su)**: A dashing thief eventually becomes truly irresistible. At 15th level, when a dashing thief successfully dazes a creature using her dazing charm deed, she can instead charm the target for 1 day (as per *charm monster*). Only one creature can be charmed this way at a time; if the dashing thief charms another creature this way, the first charm effect immediately ends. This ability replaces the dizzying defense deed.
+**Swaying Charm Deed (Su)**: A dashing thief eventually becomes truly irresistible. At 15th level, when a dashing thief successfully dazes a creature using her dazing charm deed, she can instead charm the target for 1 day (as per [*charm monster*](../../magic/spells/charm-monster.md)). Only one creature can be charmed this way at a time; if the dashing thief charms another creature this way, the first charm effect immediately ends. This ability replaces the dizzying defense deed.
 
 ## Azatariel
 
@@ -334,7 +334,7 @@ Many bird-folk hold some bitterness at their lack of wings, and while a small nu
 
 **Nimble Toes (Ex)**: At 3rd level, the AC bonus gained from the nimble class feature increases by 1 as long as the courser moves at least 20 feet during her turn, though it is reduced by 1 if she does not move at least 10 feet on her turn. These modifiers last until the beginning of the courser's next turn. This ability modifies nimble.
 
-**Confounding Target (Ex)**: At 4th level, the courser gains Spring Attack as a bonus feat even if she does not meet the prerequisites. As long as she has at least 1 panache point and is wearing light armor or no armor, her base speed increases by 10 feet rather than 5 feet. This ability replaces the bonus feat gained at 4th level.
+**Confounding Target (Ex)**: At 4th level, the courser gains [Spring Attack](../../rules/feats/spring-attack.md) as a bonus feat even if she does not meet the prerequisites. As long as she has at least 1 panache point and is wearing light armor or no armor, her base speed increases by 10 feet rather than 5 feet. This ability replaces the bonus feat gained at 4th level.
 
 **Deeds**: A courser gains the following deeds, each of which replaces an existing deed.
 

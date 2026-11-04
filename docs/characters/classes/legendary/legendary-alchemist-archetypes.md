@@ -36,7 +36,7 @@ At 5th level, the summoned horror can be 1 level higher than the extract’s lev
 
 *This ability replaces poison immunity.*
 
-**Reality Rip (Su):** At 20th level, an alienist gains 2 discoveries and can spend 2 points of quintessence to use the *gate* spell for planar travel. They can instead spend 5 points of quintessence to use gate to use the call creature effect, treating any creature summoned as though it was summoned by their nightmare summoner ability (thus allowing them to spend quintessence to enhance it).
+**Reality Rip (Su):** At 20th level, an alienist gains 2 discoveries and can spend 2 points of quintessence to use the [*gate*](../../../magic/spells/gate.md) spell for planar travel. They can instead spend 5 points of quintessence to use gate to use the call creature effect, treating any creature summoned as though it was summoned by their nightmare summoner ability (thus allowing them to spend quintessence to enhance it).
 
 *This ability replaces grand discovery.*
 
@@ -248,7 +248,7 @@ A esotericist need not prepare her spells in advance. They can cast any esoteric
 
 *This replaces discipline.*
 
-**Alchemical Distillery (Su):** When brewing a potion, a gourmand can instead distil it into an alcoholic beverage. Potions created with this ability increase all their numerical effects by 50% as though affected by the Empower Spell metamagic feat and grant an alchemical bonus to Charisma based skill and ability checks equal to the potion’s caster level for one hour, but impart a -2 penalty to Intelligence, Wisdom and Dexterity based checks for the same duration. This penalty stacks if multiple potions made with this ability are consumed. Effects that remove poison will negate both the bonus and the penalty.
+**Alchemical Distillery (Su):** When brewing a potion, a gourmand can instead distil it into an alcoholic beverage. Potions created with this ability increase all their numerical effects by 50% as though affected by the [Empower Spell](../../../rules/feats/empower-spell.md) metamagic feat and grant an alchemical bonus to Charisma based skill and ability checks equal to the potion’s caster level for one hour, but impart a -2 penalty to Intelligence, Wisdom and Dexterity based checks for the same duration. This penalty stacks if multiple potions made with this ability are consumed. Effects that remove poison will negate both the bonus and the penalty.
 
 *This alters brew potion.*
 
@@ -336,7 +336,7 @@ These alternative class features can be taken in place of alchemical fusion.
 
 *This alters the alchemist’s weapon and armor proficiency.*
 
-**Educated Fist (Ex):** The martial analyst gains the Improved Unarmed Strike feat, dealing damage equal to a monk of their class level. In addition, the martial analyst gains the Stunning Fist feat, although they use their Intelligence in place of their Wisdom to determine its saving throw and is treated as a monk for how often they can use it. A martial analyst also can spend 1 point of quintessence to use their Stunning Fist feat.
+**Educated Fist (Ex):** The martial analyst gains the [Improved Unarmed Strike](../../../rules/feats/improved-unarmed-strike.md) feat, dealing damage equal to a monk of their class level. In addition, the martial analyst gains the [Stunning Fist](../../../rules/feats/stunning-fist.md) feat, although they use their Intelligence in place of their Wisdom to determine its saving throw and is treated as a monk for how often they can use it. A martial analyst also can spend 1 point of quintessence to use their Stunning Fist feat.
 
 *This ability replaces throw anything.*
 
@@ -446,7 +446,7 @@ The red-headed merchant can also select the following social talents in place of
 
 *This ability replaces poison resistance +2 and +6.*
 
-**Item Crafter (Ex):** At 3rd level, a red-headed merchant gains the Craft Wondrous Item feat and is always treated as though they knew a spell for the purpose of being able to construct an item with it.
+**Item Crafter (Ex):** At 3rd level, a red-headed merchant gains the [Craft Wondrous Item](../../../rules/feats/craft-wondrous-item.md) feat and is always treated as though they knew a spell for the purpose of being able to construct an item with it.
 
 *This ability replaces swift alchemy.*
 
@@ -636,9 +636,9 @@ At 11th level and again at 17th, they can select an additional benefit upon succ
 
 *This ability replaces discipline breakthrough.*
 
-**Ratiocination (Ex):** Starting at 9th level an urban adept’s ability to draw conclusions from the smallest of evidence borders on the supernatural. They may spend 1 hour in consideration and reach an answer to a single question, as the spell *divination* with a caster level equal to their legendary alchemist level. The question they consider must be one they have some small bit of evidence. For example, they could not determine whether a suspect committed a crime unless they examined the crime scene, questioned the suspect, or in some other way procured some slight bit of evidence. The GM is the final arbiter of whether information counts as evidence but should err on the side of allowing it.
+**Ratiocination (Ex):** Starting at 9th level an urban adept’s ability to draw conclusions from the smallest of evidence borders on the supernatural. They may spend 1 hour in consideration and reach an answer to a single question, as the spell [*divination*](../../../magic/spells/divination.md) with a caster level equal to their legendary alchemist level. The question they consider must be one they have some small bit of evidence. For example, they could not determine whether a suspect committed a crime unless they examined the crime scene, questioned the suspect, or in some other way procured some slight bit of evidence. The GM is the final arbiter of whether information counts as evidence but should err on the side of allowing it.
 
-At 19th level the urban adept may use this ability at will in only 10 minutes, and once per day may spend 1 hour in consideration, gaining an effect similar to the spell *contact other plane* with a caster level equal to their legendary alchemist level, contacting a greater deity. They have no risk of suffering Intelligence or Charisma damage, but still must have some evidence relating to each question they ask.
+At 19th level the urban adept may use this ability at will in only 10 minutes, and once per day may spend 1 hour in consideration, gaining an effect similar to the spell [*contact other plane*](../../../magic/spells/contact-other-plane.md) with a caster level equal to their legendary alchemist level, contacting a greater deity. They have no risk of suffering Intelligence or Charisma damage, but still must have some evidence relating to each question they ask.
 
 Despite replicating a divination spell, this effect is nonmagical and not a divination effect, so is not blocked by mind blank or similar effects.
 
@@ -742,4 +742,4 @@ At 20th level, a void demolitionist can select one of the following grand discov
 
 *Quintessence Cost:* 1 or 2 (see text)
 
-**Benefit:** The void demolitionist can spend 1 point of quintessence to use plane shift or 2 points of quintessence to use either *gate* (planar travel only) or *interplanetary teleport*.
+**Benefit:** The void demolitionist can spend 1 point of quintessence to use plane shift or 2 points of quintessence to use either *gate* (planar travel only) or [*interplanetary teleport*](../../../magic/spells/interplanetary-teleport.md).

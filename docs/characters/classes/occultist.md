@@ -149,7 +149,7 @@ Implements used in conjuration allow the occultist to perform magic that transpo
 
 **Resonant Powers**: Each time the occultist invests mental focus into a conjuration implement, the implement grants the following resonant power. The implement’s bearer gains the benefits of this power until the occultist refreshes his focus.
 
-**Casting Focus (Su)**: The implement empowers the bearer’s ties to the worlds beyond, allowing his spells to maintain their power for a longer period of time. The bearer can add the implement as an additional focus component to any conjuration spell he casts that has a duration measured in rounds per level. If he does so, he adds 1 to his caster level for every 2 points of mental focus stored in the implement (to a maximum bonus equal to your occultist level). This increase applies only when determining the duration of the spell. Apply this increase after other effects that adjust a spell’s duration, such as Extend Spell.
+**Casting Focus (Su)**: The implement empowers the bearer’s ties to the worlds beyond, allowing his spells to maintain their power for a longer period of time. The bearer can add the implement as an additional focus component to any conjuration spell he casts that has a duration measured in rounds per level. If he does so, he adds 1 to his caster level for every 2 points of mental focus stored in the implement (to a maximum bonus equal to your occultist level). This increase applies only when determining the duration of the spell. Apply this increase after other effects that adjust a spell’s duration, such as [Extend Spell](../../rules/feats/extend-spell.md).
 
 **Base Focus Power**: All occultists who learn to use conjuration implements gain the following focus power.
 

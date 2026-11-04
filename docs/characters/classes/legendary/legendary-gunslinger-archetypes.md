@@ -88,7 +88,7 @@ An anthem gunner gains the following deeds:
 
 *Deadly Duet (Su):* At 7th level, whenever an anthem gunner begins a song of strife, she can choose to have it only affect a single ally. If she does, once per round, if that ally successfully confirms a critical hit or kills a creature, the anthem gunner regains 1 grit point. Confirming a critical hit on a helpless or unaware creature or defeating a creature that possesses fewer Hit Dice than half her ally’s own level does not restore grit.
 
-*Succor Symphony (Su):* At 7th level, whenever an anthem gunner has an active song of strife, she can spend 1 grit point as a swift action to heal all allies affected by the song of strife by an amount equal to 1/2 her class level + her Charisma modifier. The deed’s cost cannot be reduced by the true grit class ability, the Signature Deed feat, or any other effect that reduces the amount of grit a deed costs.
+*Succor Symphony (Su):* At 7th level, whenever an anthem gunner has an active song of strife, she can spend 1 grit point as a swift action to heal all allies affected by the song of strife by an amount equal to 1/2 her class level + her Charisma modifier. The deed’s cost cannot be reduced by the true grit class ability, the [Signature Deed](../../../rules/feats/signature-deed.md) feat, or any other effect that reduces the amount of grit a deed costs.
 
 *Strengthening Sonata (Su):* At 11th level, whenever an anthem gunner begins a song of strife, she can spend an additional grit point. If she does, all those affected by the song of strife gain a number of temporary hit points equal to 1/2 her class level for the duration of the song of strife or until they are lost. The deed’s cost cannot be reduced by the true grit class ability, the Signature Deed feat, or any other effect that reduces the amount of grit a deed costs.
 
@@ -272,7 +272,7 @@ Versed in not only the explosive nature of black powder but also bombs, demoliti
 
 **Bomb (Su)**
 
-At 1st level, a demolition soldier gains the ability to create bombs as per the alchemist class feature. She can use a number of bombs each day equal to her class level + her Wisdom modifier and on a direct hit, a demolition soldier’s bomb inflicts 1d6 points of fire damage + additional damage equal to the demolition soldier’s Wisdom modifier. The damage of a demolition soldier’s bomb increases by 1d6 points at 4th level and every three levels afterwards to a maximum of 7d6 at 19th level (this bonus damage is not multiplied on a critical hit or by using feats such as Vital Strike). The DC of the demolition soldier’s bombs saves is equal to 10 + 1/2 the demolition soldier’s level + her Wisdom modifier. This ability replaces the deadeye and dead shot deeds and gritty offense.
+At 1st level, a demolition soldier gains the ability to create bombs as per the alchemist class feature. She can use a number of bombs each day equal to her class level + her Wisdom modifier and on a direct hit, a demolition soldier’s bomb inflicts 1d6 points of fire damage + additional damage equal to the demolition soldier’s Wisdom modifier. The damage of a demolition soldier’s bomb increases by 1d6 points at 4th level and every three levels afterwards to a maximum of 7d6 at 19th level (this bonus damage is not multiplied on a critical hit or by using feats such as [Vital Strike](../../../rules/feats/vital-strike.md)). The DC of the demolition soldier’s bombs saves is equal to 10 + 1/2 the demolition soldier’s level + her Wisdom modifier. This ability replaces the deadeye and dead shot deeds and gritty offense.
 
 **Gunsmith (Ex)**
 
@@ -338,7 +338,7 @@ A firearm striker treats her unarmed strikes as firearms for the purpose of bein
 
 A firearm striker gains the following deeds:
 
-*Iron Knuckle:* At 1st level, as long as a firearm striker has at least 1 grit point, she gains the Improved Unarmed Strike feat and may use her Dexterity modifier in place of her Strength while making attack rolls with unarmed attacks.
+*Iron Knuckle:* At 1st level, as long as a firearm striker has at least 1 grit point, she gains the [Improved Unarmed Strike](../../../rules/feats/improved-unarmed-strike.md) feat and may use her Dexterity modifier in place of her Strength while making attack rolls with unarmed attacks.
 
 *Close Combat:* At 3rd level as long as a firearm striker has at least 1 grit point and one free hand, her unarmed strikes gain the enhancement bonus to attack and damage of a single firearm she is wielding.
 
@@ -406,7 +406,7 @@ A muzzle roarer cannot be lawful or good-aligned, and must choose a patron deity
 
 **Weapon and Armor Proficiency**
 
-A muzzle roarer is proficient with all simple weapons and all firearms. Muzzle roarers often learn the down and dirty skills of back-alley knifing and barroom brawling, and may select one of the following as a bonus feat: Catch Off-Guard, Improved Dirty Trick, Improved Sunder, Improved Unarmed Strike. The muzzle roarer need not meet prerequisites for this feat.
+A muzzle roarer is proficient with all simple weapons and all firearms. Muzzle roarers often learn the down and dirty skills of back-alley knifing and barroom brawling, and may select one of the following as a bonus feat: [Catch Off-Guard](../../../rules/feats/catch-off-guard.md), [Improved Dirty Trick](../../../rules/feats/improved-dirty-trick.md), [Improved Sunder](../../../rules/feats/improved-sunder.md), Improved Unarmed Strike. The muzzle roarer need not meet prerequisites for this feat.
 
 This alters weapon and armor proficiency.
 
@@ -548,7 +548,7 @@ The sky rider can also use this ability to influence a magical beast with an Int
 
 *This ability replaces eagle eyes.*
 
-**Aerial Mount (Ex):** At 4th level, a sky rider gains the Monstrous Mount feat, regardless of if she meets the prerequisites, although she can only choose a griffon or hippogriff with this feat. If she wishes, rather than needing to find a new animal companion, she can instead choose to let her previous animal companion transform into a griffon or hippogriff.
+**Aerial Mount (Ex):** At 4th level, a sky rider gains the [Monstrous Mount](../../../rules/feats/monstrous-mount.md) feat, regardless of if she meets the prerequisites, although she can only choose a griffon or hippogriff with this feat. If she wishes, rather than needing to find a new animal companion, she can instead choose to let her previous animal companion transform into a griffon or hippogriff.
 
 *This ability replaces the 4th level nimble; a sky rider gains nimble for the first time at 8th level.*
 
@@ -556,7 +556,7 @@ The sky rider can also use this ability to influence a magical beast with an Int
 
 *This ability alters nimble.*
 
-**Skybound (Ex)**At 6th level, a sky rider gains the Monstrous Mount Mastery feat, regardless of if she meets the prerequisites, being treated as though she was 7th level for the purpose of being able to access her mount’s mastery ability.
+**Skybound (Ex)**At 6th level, a sky rider gains the [Monstrous Mount Mastery](../../../rules/feats/monstrous-mount-mastery.md) feat, regardless of if she meets the prerequisites, being treated as though she was 7th level for the purpose of being able to access her mount’s mastery ability.
 
 *This ability replaces the gunner’s style gained at 6th level.*
 

@@ -4,7 +4,7 @@
 
 You can strike your enemy and use the blow as an opportunity to grab and hold him.
 
-**Prerequisites**: Improved Grapple, Improved Trip, Improved Unarmed Strike, Ki Throw.
+**Prerequisites**: [Improved Grapple](improved-grapple.md), [Improved Trip](improved-trip.md), [Improved Unarmed Strike](improved-unarmed-strike.md), [Ki Throw](ki-throw.md).
 
 **Benefit**: After you successfully use the Ki Throw feat on an opponent, you can use a swift action to attempt a grapple combat maneuver against that opponent.
 

@@ -4,7 +4,7 @@
 
 You emphasize and exploit the potential of the special material from which your shield is made.
 
-**Prerequisites**: Shield Focus, base attack bonus +6 or fighter level 4th.
+**Prerequisites**: [Shield Focus](shield-focus.md), base attack bonus +6 or fighter level 4th.
 
 **Benefit**: When wielding a shield made of one of the materials listed below, you can use the listed ability twice per day.
 

@@ -4,7 +4,7 @@
 
 Your critical hits are particularly deadly.
 
-**Prerequisites**: Critical Focus, base attack bonus +9, sneak attack class feature.
+**Prerequisites**: [Critical Focus](critical-focus.md), base attack bonus +9, sneak attack class feature.
 
 **Benefit**: Whenever you confirm a critical hit on a sneak attack, you can roll an additional number of sneak attack dice equal to your weapon's critical modifier.
 

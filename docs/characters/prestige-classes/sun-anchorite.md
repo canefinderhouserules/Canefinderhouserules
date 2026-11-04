@@ -63,11 +63,11 @@ The following are class features of the sun anchorite prestige class.
 
 **Credence**: Each sun anchorite develops a personal credence that guides his worship. He gains a credence at 2nd level and again every 2 class levels thereafter. Each credence can be chosen only once unless noted otherwise.
 
-- *Dervish Dance*: The sun anchorite gains Dervish Dance as a bonus feat.
+- *Dervish Dance*: The sun anchorite gains [Dervish Dance](../../rules/feats/dervish-dance.md) as a bonus feat.
 - *Divine Light (Su)*: The sun anchorite can use solar invocation indoors or underground, provided he is in an area of dim light, normal light, or bright light. He can use solar invocation 2 additional rounds per day.
 - *Extra Invocations (Ex)*: The sun anchorite can use solar invocation for twice as many rounds per day as normal.
 - *Focused Class Feature*: Choose one of the following class features: animal companion, bane, bardic performance, blessings, channel energy, domain, favored enemy, favored terrain, sacred weapon, or wild shape. The character adds his sun anchorite class levels to his effective class level in one class of his choice for the purpose of determining the effects of the chosen class feature. This credence can be selected twice, but the sun anchorite must select a different class feature each time.
-- *Shining Servants*: The sun anchorite gains Sunlight Summons as a bonus feat.
+- *Shining Servants*: The sun anchorite gains [Sunlight Summons](../../rules/feats/sunlight-summons.md) as a bonus feat.
 - *Solar Defense (Su)*: While using solar invocation, the sun anchorite adds his competence bonus on attack rolls to his Armor Class as a sacred bonus and to Reflex saving throws as a dodge bonus. The sun anchorite can select this credence twice—the second time he does so, the bonus to Armor Class and on Reflex saves also applies to any companions who gain bonuses from the sun anchorite's solar invocation.
 - *Solar Weapons (Su)*: While using solar invocation, the sun anchorite can select one weapon (natural or manufactured) wielded by a creature affected by his solar invocation. That weapon gains the flaming weapon special ability for as long as the sun anchorite's solar invocation persists. A sun anchorite can select this credence twice—the second time he does so, the credence grants the flaming burst special ability instead of flaming to the selected weapon. At 5th level, the sun anchorite can grant two weapons this ability; at 10th level, he can grant up to three weapons this ability.
 - *Sun Blade (Su)*: Any weapon wielded by the sun anchorite is treated having the undead-bane special ability against undead who are particularly harmed by sunlight. Ranged weapons impart this ability to any ammunition fired from the weapon. All weapons wielded by the sun anchorite shed light as per a sunrod, unless the sun anchorite chooses to suppress this light as a move action (the light activates again automatically the next time the anchorite draws the weapon).
@@ -75,6 +75,6 @@ The following are class features of the sun anchorite prestige class.
 
 **Bask in Radiance (Su)**: At 3rd level, when a sun anchorite uses his solar invocation ability, he can designate any number of allies within 30 feet to gain the bonuses granted by solar invocation for as long as he maintains the ability.
 
-**Sunbeam (Sp)**: At 7th level, a sun anchorite gains the ability to cast *sunbeam* once per day as a spell-like ability. His caster level is equal to his Hit Dice, and the save DC is Charisma-based. At 10th level, the sun anchorite can use this ability twice per day.
+**Sunbeam (Sp)**: At 7th level, a sun anchorite gains the ability to cast [*sunbeam*](../../magic/spells/sunbeam.md) once per day as a spell-like ability. His caster level is equal to his Hit Dice, and the save DC is Charisma-based. At 10th level, the sun anchorite can use this ability twice per day.
 
 **Sunrise Invocation (Su)**: At 10th level, a sun anchorite is able to, once per day, use his solar invocation ability for 1 minute. The sun anchorite can also use this ability indoors or underground. While using sunrise invocation, all bonuses gained from solar invocation increase by 1. Using this ability doesn't cost rounds per day of solar invocation.

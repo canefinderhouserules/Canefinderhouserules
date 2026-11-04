@@ -4,7 +4,7 @@
 
 Your skill with your chosen weapons is so great that you can use them underwater without impediment.
 
-**Prerequisites**: Weapon Focus, base attack bonus +1.
+**Prerequisites**: [Weapon Focus](weapon-focus.md), base attack bonus +1.
 
 **Benefit**: You don't take additional penalties on attack and damage rolls for fighting underwater with bludgeoning and slashing melee weapons for which you have taken the Weapon Focus feat.
 

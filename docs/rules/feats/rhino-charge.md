@@ -4,7 +4,7 @@
 
 Your charges are both violent and unpredictable.
 
-**Prerequisites**: Power Attack, Improved Bull Rush, base attack bonus +5.
+**Prerequisites**: [Power Attack](power-attack.md), [Improved Bull Rush](improved-bull-rush.md), base attack bonus +5.
 
 **Benefit**: You may ready a charge, though you may only move up to your speed on the charge.
 

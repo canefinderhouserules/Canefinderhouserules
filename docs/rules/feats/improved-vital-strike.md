@@ -4,7 +4,7 @@
 
 You can make a single attack that deals a large amount of damage.
 
-**Prerequisites**: Vital Strike, base attack bonus +11.
+**Prerequisites**: [Vital Strike](vital-strike.md), base attack bonus +11.
 
 **Benefit**: When you use the attack action, you can make one attack at your highest base attack bonus that deals additional damage. Choose one of these options:
 

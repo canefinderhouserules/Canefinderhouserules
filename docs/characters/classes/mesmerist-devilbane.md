@@ -19,7 +19,7 @@ The following mesmerist tricks are available to any mesmerist.
 
 The following masterful tricks are available to any mesmerist.
 
-**Concealing Veil**: When this trick is triggered, the subject is affected by a *nondetection* spell for 1 round per mesmerist level.
+**Concealing Veil**: When this trick is triggered, the subject is affected by a [*nondetection*](../../magic/spells/nondetection.md) spell for 1 round per mesmerist level.
 
 **Willful Ignorance**: The subject gains the ability to tell one undetectable lie. When the subject attempts to lie, the mesmerist can trigger this trick. That particular lie resists truth-detecting magic, and creatures attempting to use such magic must succeed at a caster level check against a DC equal to 15 + the mesmerist's class level to succeed; failure means the magic doesn't detect the subject's lie or force her to speak only the truth.
 
@@ -29,7 +29,7 @@ Some mesmerists have refined their hypnotic stares to include a suite of gaze at
 
 When a devilbane gaze is used against a creature with the outsider type, double the hypnotic stare penalty applied by the devilbane gaze improvement (but not the Will save penalty the original hypnotic stare imposes). Despite their moniker, devilbane gazes affect all outsiders equally well.
 
-**Devilbane Binding**: The hypnotic stare penalty also applies to all Charisma checks to escape *planar binding* spells, and applies to the target's spell resistance against a *planar binding* spell.
+**Devilbane Binding**: The hypnotic stare penalty also applies to all Charisma checks to escape [*planar binding*](../../magic/spells/planar-binding.md) spells, and applies to the target's spell resistance against a *planar binding* spell.
 
 **Devilbane Dampening**: The hypnotic stare penalty also applies to the target's resistance to a single form of energy, chosen by the mesmerist when he initiates the stare. If the mesmerist targets a form of energy to which his target has no resistance, this improvement has no effect.
 

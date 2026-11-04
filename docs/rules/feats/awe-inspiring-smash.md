@@ -4,7 +4,7 @@
 
 Your fury in combat translates into crowd-pleasing displays.
 
-**Prerequisites**: Str 15, Power Attack, base attack bonus +3.
+**Prerequisites**: Str 15, [Power Attack](power-attack.md), base attack bonus +3.
 
 **Benefit**: You can apply your Strength modifier instead of your Charisma modifier to performance combat checks.
 

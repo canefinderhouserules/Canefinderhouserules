@@ -4,7 +4,7 @@
 
 You can throw a hammer with such force that it knocks your foes over.
 
-**Prerequisites**: Improved Trip, Point-Blank Shot, Precise Shot, base attack bonus +1, dwarf.
+**Prerequisites**: [Improved Trip](improved-trip.md), [Point-Blank Shot](point-blank-shot.md), [Precise Shot](precise-shot.md), base attack bonus +1, dwarf.
 
 **Benefit**: As a standard action, you can make a single ranged attack with a weapon that deals bludgeoning damage against a creature no more than one size category larger than you that is within the weapon's first range increment. If you hit and damage the target, you can immediately attempt to perform a trip combat maneuver against that target. This does not provoke an attack of opportunity, and if your combat maneuver check fails by 10 or more, you do not fall prone.
 

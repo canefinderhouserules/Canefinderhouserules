@@ -4,7 +4,7 @@
 
 Your critical hits can move your foes where you wish.
 
-**Prerequisites**: Improved Reposition, base attack bonus +9.
+**Prerequisites**: [Improved Reposition](improved-reposition.md), base attack bonus +9.
 
 **Benefit**: Whenever you score a critical hit with a melee attack, you can move your opponent, in addition to the normal damage dealt by the attack. If your confirmation roll exceeds your opponent’s CMD, you may move your opponent as if from the reposition combat maneuver. This does not provoke an attack of opportunity.
 

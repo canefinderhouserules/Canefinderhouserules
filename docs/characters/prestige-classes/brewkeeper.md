@@ -31,7 +31,7 @@ To qualify to become a brewkeeper, a character must fulfill all of the following
 
 **Skills**: Craft (alchemy) 3 ranks or Profession (brewer) 3 ranks.
 
-**Feats**: Brew Potion.
+**Feats**: [Brew Potion](../../rules/feats/brew-potion.md).
 
 **Spells**: Caster level 1st, or able to prepare extracts.
 

@@ -2,7 +2,7 @@
 
 You have an amazing knack for sabotaging devices.
 
-**Prerequisites**: Deft Hands, Disable Device 5 ranks.
+**Prerequisites**: [Deft Hands](deft-hands.md), Disable Device 5 ranks.
 
 **Benefit**: When you use the Disable Device skill to rig simple or tricky devices (such as a saddle or wagon wheel) to work normally for a while and then fail or fall off some time later, you can designate the time the device will fail, up to 60 minutes after you successfully sabotaged it. The device fails 1d6–3 rounds after the designated time (a result of –1 or –2 means it fails 1 round or 2 rounds before the designated time).
 

@@ -4,6 +4,6 @@
 
 You can use strength and agility to send foes crashing to the ground.
 
-**Prerequisites**: Improved Trip.
+**Prerequisites**: [Improved Trip](improved-trip.md).
 
 **Benefit**: When making a trip attack, add your Dexterity bonus to your CMB.

@@ -4,6 +4,6 @@
 
 You can deflect incoming attacks.
 
-**Prerequisites**: Combat Expertise, Improved Feint, Swordplay Style, Swordplay Upset, Weapon Focus with the chosen weapon, base attack bonus +7.
+**Prerequisites**: [Combat Expertise](combat-expertise.md), [Improved Feint](improved-feint.md), [Swordplay Style](swordplay-style.md), [Swordplay Upset](swordplay-upset.md), Weapon Focus with the chosen weapon, base attack bonus +7.
 
 **Benefit**: While using Swordplay Style, when you make one or more melee attacks, you can forgo a single melee attack to prepare an action to disrupt an opponent’s attack. This functions as a swashbuckler’s opportune parry and riposte deed, except that if your result is greater than your opponent’s, you gain a +4 shield bonus to your Armor Class against attacks made by your opponent until the start of your next turn instead of preventing the hit, and you cannot attempt to riposte. If you have the opportune parry and riposte deed, you gain this Armor Class bonus anytime you successfully parry an opponent’s attack.

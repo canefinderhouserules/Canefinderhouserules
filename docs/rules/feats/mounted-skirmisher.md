@@ -4,7 +4,7 @@
 
 You are adept at attacking from upon a swift moving steed.
 
-**Prerequisites**: Ride rank 14, Mounted Combat, Trick Riding.
+**Prerequisites**: Ride rank 14, [Mounted Combat](mounted-combat.md), [Trick Riding](trick-riding.md).
 
 **Benefit**: If your mount moves its speed or less, you can still take a full-attack action.
 

@@ -100,7 +100,7 @@ Bloodrage counts as the barbarian's rage class feature for the purpose of feat p
 
 **Blood Casting (Su)**: At 4th level, the bloodrager gains the ability to cast spells even while bloodraging. He can also cast these spells defensively and can make concentration checks for these spells while bloodraging. While bloodraging, he can cast and concentrate on only his bloodrager spells (see below); spells from other classes cannot be cast during this state.
 
-**Eschew Materials**: At 4th level, the bloodrager gains Eschew Materials as a bonus feat.
+**Eschew Materials**: At 4th level, the bloodrager gains [Eschew Materials](../../rules/feats/eschew-materials.md) as a bonus feat.
 
 **Spells**: Beginning at 4th level, a bloodrager gains the ability to cast a small number of arcane spells drawn from the bloodrager spell list. To learn or cast a spell, a bloodrager must have a Charisma score equal to at least 10 + the spell level. He can cast spells he knows without preparing them ahead of time. The saving throw DC against a bloodrager's spell is 10 + the spell level + the bloodrager's Charisma modifier.
 

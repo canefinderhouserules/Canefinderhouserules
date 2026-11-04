@@ -40,7 +40,7 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 **Hexing Attack (minor)**: You can touch one weapon and enhance it to inflict a minor curse on the next target it strikes. The struck target must succeed at a Will saving throw or take a –2 penalty on attack rolls, saving throws, skill checks, or ability checks (warpriest's choice) for 1 minute.
 
-**Retributive Curse (major)**: At 10th level, as a swift or immediate action, you can inflict a curse on any adjacent creature that scores a critical hit against you or deals precision damage to you. The target must succeed at a Will saving throw or be cursed. Select one of the following effects: the target takes a –2 penalty to one ability score of your choice (the ability cannot be reduced below 1); the target takes a –2 penalty on attack rolls, saving throws, ability checks, and skill checks; each turn, the target has a 25% chance of taking no action (otherwise, it acts normally). This curse lasts for 1 hour. A creature can be subjected to only one instance of retributive curse at a time. This otherwise functions as *bestow curse*.
+**Retributive Curse (major)**: At 10th level, as a swift or immediate action, you can inflict a curse on any adjacent creature that scores a critical hit against you or deals precision damage to you. The target must succeed at a Will saving throw or be cursed. Select one of the following effects: the target takes a –2 penalty to one ability score of your choice (the ability cannot be reduced below 1); the target takes a –2 penalty on attack rolls, saving throws, ability checks, and skill checks; each turn, the target has a 25% chance of taking no action (otherwise, it acts normally). This curse lasts for 1 hour. A creature can be subjected to only one instance of retributive curse at a time. This otherwise functions as [*bestow curse*](../../magic/spells/bestow-curse.md).
 
 ## Darkness Blessing
 
@@ -89,7 +89,7 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 ## Healing Blessing
 
-**Powerful Healer (minor)**: At 1st level, you can add power to a cure spell as you cast it. As a swift action, you can treat any cure spell as if it were empowered (as the Empower Spell feat), causing it to heal 50% more damage (or deal 50% more damage if used against undead). This ability doesn't stack with itself or the Empower Spell feat.
+**Powerful Healer (minor)**: At 1st level, you can add power to a cure spell as you cast it. As a swift action, you can treat any cure spell as if it were empowered (as the [Empower Spell](../../rules/feats/empower-spell.md) feat), causing it to heal 50% more damage (or deal 50% more damage if used against undead). This ability doesn't stack with itself or the Empower Spell feat.
 
 **Fast Healing (major)**: At 10th level, you can touch an ally and grant it fast healing 3 for 1 minute.
 
@@ -169,7 +169,7 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 **Flicker of Shadows (minor)**: At 1st level, you can cause a weapon you touch to warp and become insubstantial for a split second before an attack. The first attack made with this weapon each round ignores any shield bonus to Armor Class, as well as bonuses from cover. Total cover still provides a creature its full benefit. This effect lasts for 1 minute.
 
-**Swift as Shadow (major)**: At 10th level, you can spend a swift action to empower yourself or an ally within 30 feet to move over the ground as easily as its shadow. The subject's land speed increases by 10 feet and it takes no movement penalties for darkness, difficult terrain, or slickness. The creature can safely move over areas of ice and even those affected by a *grease* spell. When a creature affected by this ability hits with a charge attack, that attack deals an amount of additional cold damage equal to your level.
+**Swift as Shadow (major)**: At 10th level, you can spend a swift action to empower yourself or an ally within 30 feet to move over the ground as easily as its shadow. The subject's land speed increases by 10 feet and it takes no movement penalties for darkness, difficult terrain, or slickness. The creature can safely move over areas of ice and even those affected by a [*grease*](../../magic/spells/grease.md) spell. When a creature affected by this ability hits with a charge attack, that attack deals an amount of additional cold damage equal to your level.
 
 ## Strength Blessing
 
@@ -199,7 +199,7 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 **Airless Touch (minor)**: At 1st level, with a successful melee touch attack you can steal the breath from an opponent's lungs, leaving it unable to speak, use breath weapons, cast spells with verbal components, or do anything else requiring breath for 1 round. If the target fails at a Fortitude saving throw, it's also staggered for 1 round as it catches its breath. If the target was attempting to hold its breath, it can no longer do so: it must breathe on its turn or risk suffocation and unconsciousness. Creatures that don't need to breathe are unaffected. Regardless of whether it succeeds at its saving throw, the target is immune to further uses of your airless touch for 24 hours.
 
-**Deny Gravity (major)**: At 10th level, as a standard action you can touch an ally to allow her to ignore the effects of gravity for 1 minute (as *fly*). The ally gains a fly speed of 40 feet with average maneuverability. The ally is also immune to dangerous environmental conditions (as *life bubble*) for 1 minute.
+**Deny Gravity (major)**: At 10th level, as a standard action you can touch an ally to allow her to ignore the effects of gravity for 1 minute (as *fly*). The ally gains a fly speed of 40 feet with average maneuverability. The ally is also immune to dangerous environmental conditions (as [*life bubble*](../../magic/spells/life-bubble.md)) for 1 minute.
 
 ## War Blessing
 
@@ -286,7 +286,7 @@ If a focused blessing ability calls for a saving throw, the DC of the save is eq
 
 **Replacement Blessing**: The following major blessing replaces the lead by example ability of the Nobility blessing.
 
-**Martyr’s Sacrifice (major)**: At 10th level, your body can accept wounds meant for others you deem worthy. You can shoulder the wounds of an ally within 50 feet for 1 minute, and during this time, the ally is affected as if you had cast *shield other* on her (except with a range of 50 feet). You can have only one use of this ability active at a time; if you use this major blessing again, the previous use immediately expires.
+**Martyr’s Sacrifice (major)**: At 10th level, your body can accept wounds meant for others you deem worthy. You can shoulder the wounds of an ally within 50 feet for 1 minute, and during this time, the ally is affected as if you had cast [*shield other*](../../magic/spells/shield-other.md) on her (except with a range of 50 feet). You can have only one use of this ability active at a time; if you use this major blessing again, the previous use immediately expires.
 
 ### Restoration Blessing
 
@@ -302,4 +302,4 @@ If a focused blessing ability calls for a saving throw, the DC of the save is eq
 
 **Replacement Blessing**: The following major blessing replaces the fast healing ability of the Healing blessing.
 
-**Return of the Fallen (major)**: At 10th level, your touch can defy the cold claws of death itself. You can temporarily revive a touched ally to continue fighting, as if you had cast *raise dead* on her. The revived ally is also staggered for a number of rounds equal to 1/2 your warpriest level, after which she immediately dies. The ally is free to act as she sees fit during this time, and you are granted no control over her.
+**Return of the Fallen (major)**: At 10th level, your touch can defy the cold claws of death itself. You can temporarily revive a touched ally to continue fighting, as if you had cast [*raise dead*](../../magic/spells/raise-dead.md) on her. The revived ally is also staggered for a number of rounds equal to 1/2 your warpriest level, after which she immediately dies. The ally is free to act as she sees fit during this time, and you are granted no control over her.

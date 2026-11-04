@@ -4,7 +4,7 @@
 
 You know just where to strike to temporarily stun a foe.
 
-**Prerequisites**: Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8.
+**Prerequisites**: Dex 13, Wis 13, [Improved Unarmed Strike](improved-unarmed-strike.md), base attack bonus +8.
 
 **Benefit**: You must declare that you are using this feat before you make your attack roll (thus, a failed attack roll ruins the attempt). Stunning Fist forces a foe damaged by your unarmed attack to make a Fortitude saving throw (DC 10 + 1/2 your character level + your Wis modifier), in addition to dealing damage normally. A defender who fails this saving throw is stunned for 1 round (until just before your next turn). A stunned character drops everything held, can’t take actions, loses any Dexterity bonus to AC, and takes a –2 penalty to AC. You may attempt a stunning attack once per day for every four levels you have attained (but see Special), and no more than once per round. Constructs, oozes, plants, undead, incorporeal creatures, and creatures immune to critical hits cannot be stunned.
 

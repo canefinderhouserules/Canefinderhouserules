@@ -29,7 +29,7 @@ To qualify to become a scar soldier, a character must fulfill all of the followi
 
 **Base Attack Bonus**: +5.
 
-**Feats**: Improved Shield Bash, Iron Will, Weapon Focus (longsword).
+**Feats**: [Improved Shield Bash](../../rules/feats/improved-shield-bash.md), [Iron Will](../../rules/feats/iron-will.md), Weapon Focus (longsword).
 
 **Gender**: Female.
 
@@ -47,7 +47,7 @@ The following are class features of the scar soldier prestige class.
 
 **Hardened Heart (Ex)**: A scar soldier adds twice her class level to the DC of any attempt to Intimidate her.
 
-**Maiden’s Shield (Ex)**: A scar soldier is treated as if she had the Two-Weapon Fighting feat as long as she is using a longsword and a shield. This allows her to take feats that require Two-Weapon Fighting as a prerequisite without meeting the Two-Weapon Fighting or Dexterity prerequisites, but she benefits from such feats only when she’s wielding a longsword and shield.
+**Maiden’s Shield (Ex)**: A scar soldier is treated as if she had the [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md) feat as long as she is using a longsword and a shield. This allows her to take feats that require Two-Weapon Fighting as a prerequisite without meeting the Two-Weapon Fighting or Dexterity prerequisites, but she benefits from such feats only when she’s wielding a longsword and shield.
 
 **Tyrant’s Discipline (Ex)**: At 2nd level, a scar soldier draws upon her indoctrination, tactical training, and devotion to tyranny to develop potent talents. A scar soldier selects a discipline from the following list at 2nd level and every 2 levels thereafter.
 
@@ -62,9 +62,9 @@ The following are class features of the scar soldier prestige class.
 
 **Armored Angel (Ex)**: At 3rd level, a scar soldier gains the armor training class feature, treating her class level as her fighter level while wearing scar soldier plate. If the scar soldier has levels in another class that grants the armor training class feature, the levels stack to determine its benefits, but only when she is wearing scar soldier plate.
 
-**Infernal Eye (Su)**: At 5th level, a scar soldier gains Alertness as a bonus feat and gains a +4 profane bonus on Will saves against illusions. In addition, once per day as a swift action, the scar soldier can take 1d4 points of Charisma damage to gain the benefits of the *true seeing* spell for a number of rounds equal to her class level.
+**Infernal Eye (Su)**: At 5th level, a scar soldier gains Alertness as a bonus feat and gains a +4 profane bonus on Will saves against illusions. In addition, once per day as a swift action, the scar soldier can take 1d4 points of Charisma damage to gain the benefits of the [*true seeing*](../../magic/spells/true-seeing.md) spell for a number of rounds equal to her class level.
 
-**Infernal Mystique (Ex and Sp)**: At 7th level, a scar soldier gains a +4 bonus on Diplomacy and Intimidate checks against targets of the same creature type as the scar soldier. Once per day, the scar soldier can use *dominate person* as a spell-like ability (CL = her character level).
+**Infernal Mystique (Ex and Sp)**: At 7th level, a scar soldier gains a +4 bonus on Diplomacy and Intimidate checks against targets of the same creature type as the scar soldier. Once per day, the scar soldier can use [*dominate person*](../../magic/spells/dominate-person.md) as a spell-like ability (CL = her character level).
 
 **Hollow Heart (Ex)**: At 9th level, a scar soldier gains Diehard as a bonus feat. In addition, she gains a +4 profane bonus on saving throws against emotion and pain effects, and she is immune to fear effects.
 

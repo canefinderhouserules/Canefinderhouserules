@@ -4,7 +4,7 @@
 
 Aiming outsized siege weapons poses little difficulty for you.
 
-**Prerequisites**: Siege Engineer, Profession (siege engineer) 5 ranks.
+**Prerequisites**: [Siege Engineer](siege-engineer.md), Profession (siege engineer) 5 ranks.
 
 **Benefit**: You take no size penalty for aiming a direct-fire siege weapon larger than yourself. If you operate an indirect-fire siege weapon and miss, you misdirect fire by 1 square per range increment.
 

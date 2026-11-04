@@ -6,13 +6,13 @@ When a bloodrager enters a bloodrage, he often takes on a physical transformatio
 
 There is a taint in your blood that is both alien and bizarre. When you bloodrage, this manifests in peculiar and terrifying ways.
 
-**Bonus Feats**: Combat Reflexes, Great Fortitude, Improved Disarm, Improved Grapple, Improved Initiative, Improved Unarmed Strike, Iron Will.
+**Bonus Feats**: [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Disarm](../../rules/feats/improved-disarm.md), [Improved Grapple](../../rules/feats/improved-grapple.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md), [Iron Will](../../rules/feats/iron-will.md).
 
 **Bonus Spells**: Enlarge person (7th), see invisibility (10th), displacement (13th), black tentacles (16th).
 
 **Bloodline Powers**: While bloodraging, you gain the abilities and immunities of some aberrations, but show signs of your tainted heritage.
 
-**Staggering Strike (Su)**: At 1st level, when you confirm a critical hit the target must succeed at a Fortitude saving throw or be staggered for 1 round. The DC of this save is equal to 10 + 1/2 your bloodrager level + your Constitution modifier. These effects stack with the Staggering Critical feat; the target must save against each effect individually.
+**Staggering Strike (Su)**: At 1st level, when you confirm a critical hit the target must succeed at a Fortitude saving throw or be staggered for 1 round. The DC of this save is equal to 10 + 1/2 your bloodrager level + your Constitution modifier. These effects stack with the [Staggering Critical](../../rules/feats/staggering-critical.md) feat; the target must save against each effect individually.
 
 **Abnormal Reach (Su)**: At 4th level, your limbs elongate; your reach increases by 5 feet.
 
@@ -28,7 +28,7 @@ There is a taint in your blood that is both alien and bizarre. When you bloodrag
 
 Generations ago, a demon spread its filth into the essence of your bloodline. While it doesn't manifest in all of your kin, in those moments when you're bloodraging, you embody its terrifying presence.
 
-**Bonus Feats**: Cleave, Great Fortitude, Improved Bull Rush, Improved Sunder, Intimidating Prowess, Power Attack, Toughness.
+**Bonus Feats**: Cleave, Great Fortitude, [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Sunder](../../rules/feats/improved-sunder.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Power Attack](../../rules/feats/power-attack.md), Toughness.
 
 **Bonus Spells**: Ray of enfeeblement (7th), bull's strength (10th), rage (13th), stoneskin (16th).
 
@@ -50,7 +50,7 @@ Generations ago, a demon spread its filth into the essence of your bloodline. Wh
 
 While others of your kin may be powerful wizards and sorcerers, the eldritch nature of the blood coursing through your veins transforms you into a spell-breaking terror.
 
-**Bonus Feats**: Combat Reflexes, Disruptive*, Improved Initiative, Iron Will, Power Attack, Quick Draw, Spellbreaker*. (Your bloodrager levels count as fighter levels for the purposes of qualifying for any feats marked with an asterisk [*].)This stacks with any levels in fighter you have.
+**Bonus Feats**: Combat Reflexes, Disruptive*, Improved Initiative, Iron Will, Power Attack, [Quick Draw](../../rules/feats/quick-draw.md), Spellbreaker*. (Your bloodrager levels count as fighter levels for the purposes of qualifying for any feats marked with an asterisk [*].)This stacks with any levels in fighter you have.
 
 **Bonus Spells**: Magic missile (7th), invisibility (10th), lightning bolt (13th), dimension door (16th).
 
@@ -94,7 +94,7 @@ Contact with a tainted, necromantic blood (by you or one of your ancestors) tran
 
 By way of a celestial ancestor or divine intervention, the blood of angels fills your body with a holy potency, granting you a majestic visage and angelic powers when you enter your bloodrage.
 
-**Bonus Feats**: Dodge, Improved Initiative, Iron Will, Mobility, Mounted Combat, Ride-By Attack, Weapon Focus.
+**Bonus Feats**: Dodge, Improved Initiative, Iron Will, Mobility, [Mounted Combat](../../rules/feats/mounted-combat.md), [Ride-By Attack](../../rules/feats/ride-by-attack.md), Weapon Focus.
 
 **Bonus Spells**: Bless (7th), resist energy (10th), heroism (13th), holy smite (16th).
 
@@ -116,7 +116,7 @@ By way of a celestial ancestor or divine intervention, the blood of angels fills
 
 Your bloodline is destined for great things. When you bloodrage, you exude a greatness that makes all but the most legendary creatures seem lesser.
 
-**Bonus Feats**: Diehard, Endurance, Improved Initiative, Intimidating Prowess, Leadership, Lightning Reflexes, Weapon Focus.
+**Bonus Feats**: Diehard, Endurance, Improved Initiative, Intimidating Prowess, Leadership, [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Weapon Focus.
 
 **Bonus Spells**: Shield (7th), blur (10th), protection from energy (13th), freedom of movement (16th).
 
@@ -248,7 +248,7 @@ The Pit lives in your blood. Maybe one of your ancestors was seduced by the powe
 
 The influence of the chain-wielding devils of pain, the kytons, taints your blood. Just as an eclipse drives animals wild, so too does the darkness unleash a madness from deep within you.
 
-**Bonus Feats**: Alertness, Blind-Fight, Exotic Weapon Proficiency (spiked chain), Great Fortitude, Improved Dirty Trick, Iron Will, Toughness.
+**Bonus Feats**: Alertness, Blind-Fight, Exotic Weapon Proficiency (spiked chain), Great Fortitude, [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md), Iron Will, Toughness.
 
 **Bonus Spells**: Persuasive goad (7th), pain strike (10th), deeper darkness (13th), fear (16th).
 
@@ -270,9 +270,9 @@ The influence of the chain-wielding devils of pain, the kytons, taints your bloo
 
 Salamanders are fierce warriors and master smiths, and you wield their might and mastery of metal by birthright. The bloodlines of the serpentine natives of the Plane of Fire known as salamanders occasionally mingle with those of mortals.
 
-**Bonus Feats**: Cleave, Improved Grapple, Improved Iron Will, Iron Will, Power Attack, Skill Focus (Perception), Toughness.
+**Bonus Feats**: Cleave, Improved Grapple, [Improved Iron Will](../../rules/feats/improved-iron-will.md), Iron Will, Power Attack, Skill Focus (Perception), Toughness.
 
-**Bonus Spells**: *Lead blades* (7th), *make whole* (10th), *versatile weapon* (13th), *fire shield* (warm only) (16th).
+**Bonus Spells**: *Lead blades* (7th), [*make whole*](../../magic/spells/make-whole.md) (10th), [*versatile weapon*](../../magic/spells/versatile-weapon.md) (13th), [*fire shield*](../../magic/spells/fire-shield.md) (warm only) (16th).
 
 **Bloodline Powers**: When you bloodrage, you gain the form and flame of the salamander and the following powers.
 
@@ -280,7 +280,7 @@ Salamanders are fierce warriors and master smiths, and you wield their might and
 
 **Salamander Scales (Ex)**: At 4th level, you gain fire resistance 5 and a +1 natural armor bonus to AC. At 8th level, your fire resistance increases to 10 and your natural armor bonus increases to +2. At 16th level, your fire resistance increases to 20 and your natural armor bonus increases to +3.
 
-**Bloodsmith (Su)**: At 8th level, when entering a bloodrage, you can choose one manufactured weapon you wield, shield you wield, or piece of armor you wear to gain the benefit of *greater magic weapon* (weapon) or *magic vestment* (shield or armor). The caster level of this effect is equal to your bloodrager level, and its effects end when your bloodrage ends or when you no longer wear or wield the weapon, shield, or armor.
+**Bloodsmith (Su)**: At 8th level, when entering a bloodrage, you can choose one manufactured weapon you wield, shield you wield, or piece of armor you wear to gain the benefit of *greater magic weapon* (weapon) or [*magic vestment*](../../magic/spells/magic-vestment.md) (shield or armor). The caster level of this effect is equal to your bloodrager level, and its effects end when your bloodrage ends or when you no longer wear or wield the weapon, shield, or armor.
 
 **Scorching Heat (Su)**: At 12th level, your weapons conduct heat. You deal 1d6 additional points of fire damage with natural weapons and melee attacks made with metal weapons. You also deal 2d6 points of fire damage per round to any creature you grapple. This does not damage your equipment.
 
@@ -298,7 +298,7 @@ The blood of doppelgangers, faceless stalkers, lycanthropes, or other shapechang
 
 **Bloodline Powers**: Transformative powers in your blood emerge when you bloodrage.
 
-**Shifting Aspect (Su)**: At 1st level, you gain the benefit of the Aspect of the Beast feat while bloodraging. As part of the action to enter a bloodrage, you can choose any one of the four manifestations to affect you for the duration of your bloodrage.
+**Shifting Aspect (Su)**: At 1st level, you gain the benefit of the [Aspect of the Beast](../../rules/feats/aspect-of-the-beast.md) feat while bloodraging. As part of the action to enter a bloodrage, you can choose any one of the four manifestations to affect you for the duration of your bloodrage.
 
 **Spontaneous Change (Sp)**: At 4th level, when entering a bloodrage, you can cast a transmutation spell that affects only you as a swift action, provided that the spell's normal casting time is 1 round or shorter. The spell lasts for as long as you continue bloodraging, regardless of the spell's normal duration. You can use this ability only to cast bloodrager spells you know.
 
@@ -306,7 +306,7 @@ The blood of doppelgangers, faceless stalkers, lycanthropes, or other shapechang
 
 **Beastskin (Su)**: At 12th level, when entering a bloodrage, you can cause your skin to grow thicker and more bestial. Your damage reduction from your bloodrager levels increases by 2, but it can be bypassed with silver weapons. Your natural attacks (including unarmed strikes) are then treated as silver for the purpose of overcoming damage reduction.
 
-**Shed Skin (Su)**: At 16th level, when your bloodrage ends, you can choose one spell or spell-like ability affecting you and attempt to shake it off as an immediate action. Attempt a dispel check (1d20 + your bloodrager level) as if you were casting *dispel magic*. If you succeed, the effect is dispelled.
+**Shed Skin (Su)**: At 16th level, when your bloodrage ends, you can choose one spell or spell-like ability affecting you and attempt to shake it off as an immediate action. Attempt a dispel check (1d20 + your bloodrager level) as if you were casting [*dispel magic*](../../magic/spells/dispel-magic.md). If you succeed, the effect is dispelled.
 
 **True Shapeshifter (Sp)**: At 20th level, you are immune to all transmutation spells and effects unless you are a willing target. You can also use *greater polymorph* at will as a spell-like ability with a caster level equal to your bloodrager level targeting only yourself. These effects function even while you're not bloodraging.
 
@@ -314,9 +314,9 @@ The blood of doppelgangers, faceless stalkers, lycanthropes, or other shapechang
 
 Those who successfully traded riddles with sphinxes sometimes find themselves or their descendants exhibiting both arcane power and violent fury. These bloodragers find being outwitted or outmaneuvered especially infuriating; though they are usually scholarly and erudite, their fits of frenzied rage are all the more terrifying in comparison.
 
-**Bonus Feats**: Alertness, Combat Casting, Dazzling Display, Improved Critical, Iron Will, Rending Fury, Skill Focus (Intimidate), Voice of the Sibyl.
+**Bonus Feats**: Alertness, [Combat Casting](../../rules/feats/combat-casting.md), [Dazzling Display](../../rules/feats/dazzling-display.md), [Improved Critical](../../rules/feats/improved-critical.md), Iron Will, [Rending Fury](../../rules/feats/rending-fury.md), Skill Focus (Intimidate), [Voice of the Sibyl](../../rules/feats/voice-of-the-sibyl.md).
 
-**Bonus Spells**: *Divine favor* (7th), *touch of idiocy* (10th), *searing light* (13th), *bestow curse* (16th).
+**Bonus Spells**: *Divine favor* (7th), [*touch of idiocy*](../../magic/spells/touch-of-idiocy.md) (10th), [*searing light*](../../magic/spells/searing-light.md) (13th), [*bestow curse*](../../magic/spells/bestow-curse.md) (16th).
 
 **Bloodline Powers**: You gain the ruthless claws and implacable voice of the sphinx while bloodraging.
 
@@ -324,11 +324,11 @@ Those who successfully traded riddles with sphinxes sometimes find themselves or
 
 **Roar (Su)**: At 4th level, the bloodrager learns the secrets of the sphinx's roar. He can roar as a standard action a number of times per day equal to 3 + his Charisma modifier. Enemies within 60 feet of the bloodrager that can hear the roar must succeed at a Will save (DC = 10 + half the bloodrager's character level + his Charisma modifier) or become frightened for 1d6 rounds. At 10th level, the bloodrager can instead cause the targets to be panicked or stunned (bloodrager's choice) and deafened for the duration; at 16th level, the bloodrager can instead cause the targets to be paralyzed for 1 round. Whether or not the save is successful, a creature cannot be the target of the bloodrager's roar again for 24 hours.
 
-**Desert Fortitude (Su)**: At 8th level, you gain resistance 5 to electricity and fire. In addition, you gain *endure elements* as a constant spell-like ability and a +2 competence bonus on saves against arcane spells. At 16th level, your resistance to electricity and fire increases to 10.
+**Desert Fortitude (Su)**: At 8th level, you gain resistance 5 to electricity and fire. In addition, you gain [*endure elements*](../../magic/spells/endure-elements.md) as a constant spell-like ability and a +2 competence bonus on saves against arcane spells. At 16th level, your resistance to electricity and fire increases to 10.
 
 **Rending Rage (Su)**: At 12th level, you gain a rend attack, as the universal monster rule, that deals extra damage equal to 2d4 + 1-1/2 times your Strength modifier. At 18th level, this damage increases to 2d6 + 1-1/2 times your Strength modifier.
 
-**Master of Mysteries (Su)**: At 16th level, you can cast either *maze* or *symbol of insanity* once per day as a spell-like ability, with a caster level equal to your character level. You also gain spell resistance equal to 11 + your level.
+**Master of Mysteries (Su)**: At 16th level, you can cast either [*maze*](../../magic/spells/maze.md) or [*symbol of insanity*](../../magic/spells/symbol-of-insanity.md) once per day as a spell-like ability, with a caster level equal to your character level. You also gain spell resistance equal to 11 + your level.
 
 **Final Riddle (Su)**: At 20th level, you gain immunity to fire and electricity and ignore environmental penalties due to temperature. Your competence bonus on saving throws against arcane spells increases to +6. You have these benefits constantly, even while not raging.
 
@@ -358,7 +358,7 @@ The foul corruption of undeath is a part of you. Somewhere in the past, death be
 
 Your body is suffused with raw plant life. When you bloodrage, your plantlike characteristics bolster your durability and grant you some control over vegetation.
 
-**Bonus Feats**: Bolstered Resilience, Diehard, Endurance, Great Fortitude, Power Attack, Raging Vitality, Toughness.
+**Bonus Feats**: [Bolstered Resilience](../../rules/feats/bolstered-resilience.md), Diehard, Endurance, Great Fortitude, Power Attack, [Raging Vitality](../../rules/feats/raging-vitality.md), Toughness.
 
 **Bonus Spells**: entangle (7th), greensight (10th), burst of nettles (13th), command plants (16th).
 
@@ -382,7 +382,7 @@ You are the descendant of great heroes from a lost civilization.
 
 **Bonus Feats**: Combat Casting, Exotic Weapon Proficiency, Greater Weapon Focus*, Greater Weapon Specialization*, Iron Will, Weapon Focus, Weapon Specialization*. (The bloodrager counts his total bloodrager levels as fighter levels for the purpose of qualifying for any feats marked with an asterisk [*]. If he also has levels in fighter, these levels stack.)
 
-**Bonus Spells**: *true strike* (7th), *false life* (10th), *phantom steed* (13th), *mass enlarge person* (16th).
+**Bonus Spells**: [*true strike*](../../magic/spells/true-strike.md) (7th), [*false life*](../../magic/spells/false-life.md) (10th), [*phantom steed*](../../magic/spells/phantom-steed.md) (13th), *mass enlarge person* (16th).
 
 **Bloodline Powers**: When you bloodrage, you transform into an ancestor or another notable figure from a lost civilization.
 
@@ -392,11 +392,11 @@ You are the descendant of great heroes from a lost civilization.
 
 **Legacy Style (Su)**: At 8th level, select any one style feat. You can use this style feat while bloodraging; however, if you do not meet all of the style feat's prerequisites, you must expend a spell slot when entering the style's stance, and the benefits last for only 1 round per level of the spell slot expended or for the duration of your bloodrage, whichever is shorter. If you already have this style feat, you can enter the style's stance as part of the free action to bloodrage.
 
-**War's Memory (Sp)**: At 12th level, you can manifest an illusion of an ancestor's bloody battlefield once per day. This functions as *hallucinatory terrain*, except it can create only battlefields drawn from a civilization's past, and the effect ends when your bloodrage ends. The saving throw to disbelieve is equal to 10 + 1/2 your bloodrager level + your Constitution modifier. The horrifying scene causes creatures within the area of effect to take a –2 penalty on saves versus fear effects until they disbelieve the illusion. If a creature fails the Will save to disbelieve the illusion, it gains the shaken condition until your bloodrage ends, or until it leaves the area of effect. This is an illusion (glamer) and fear effect.
+**War's Memory (Sp)**: At 12th level, you can manifest an illusion of an ancestor's bloody battlefield once per day. This functions as [*hallucinatory terrain*](../../magic/spells/hallucinatory-terrain.md), except it can create only battlefields drawn from a civilization's past, and the effect ends when your bloodrage ends. The saving throw to disbelieve is equal to 10 + 1/2 your bloodrager level + your Constitution modifier. The horrifying scene causes creatures within the area of effect to take a –2 penalty on saves versus fear effects until they disbelieve the illusion. If a creature fails the Will save to disbelieve the illusion, it gains the shaken condition until your bloodrage ends, or until it leaves the area of effect. This is an illusion (glamer) and fear effect.
 
 **Legacy Conduit (Su)**: At 16th level, when using the legacy style bloodline power, you can expend a spell slot as a swift action to share the benefits of the selected style feat with all allies within 30 feet. The benefits last for 1 round per level of the spell slot expended. Allies must still enter the style's stance as a swift action.
 
-**Call to Arms (Su)**: At 20th level, you can summon a ghostly army from a fallen civilization once per day. This functions as *spiritual ally* with a caster level equal to your level, except that it summons a number of allies equal to your Constitution modifier, and the allies use your Strength modifier for attack rolls. You can direct all of these allies with a single swift action. Each ally can attack a different target or the same target, as you direct. The allies remain until the spell's duration ends or your bloodrage ends, whichever comes first.
+**Call to Arms (Su)**: At 20th level, you can summon a ghostly army from a fallen civilization once per day. This functions as [*spiritual ally*](../../magic/spells/spiritual-ally.md) with a caster level equal to your level, except that it summons a number of allies equal to your Constitution modifier, and the allies use your Strength modifier for attack rolls. You can direct all of these allies with a single swift action. Each ally can attack a different target or the same target, as you direct. The allies remain until the spell's duration ends or your bloodrage ends, whichever comes first.
 
 ## Medusa
 
@@ -404,7 +404,7 @@ No magical creature is more iconic in some legends than the medusa. Perhaps your
 
 **Bonus Feats**: Alertness, Blind-Fight, Greater Fortitude, Improved Initiative, Improved Unarmed Strike, Intimidating Prowess, Toughness.
 
-**Bonus Spells**: *Cause fear* (7th), *resist energy* (10th), *hold person* (13th), *stoneskin* (16th).
+**Bonus Spells**: *Cause fear* (7th), [*resist energy*](../../magic/spells/resist-energy.md) (10th), [*hold person*](../../magic/spells/hold-person.md) (13th), [*stoneskin*](../../magic/spells/stoneskin.md) (16th).
 
 **Bloodline Powers**: The cold fury of your cursed rage can freeze others in their tracks.
 
@@ -418,7 +418,7 @@ No magical creature is more iconic in some legends than the medusa. Perhaps your
 
 **Stone Resistance (Su)**: At 16th level, you gain acid resistance 10 and are immune to disease, poison, and the sickened and staggered conditions. You also cannot be flanked.
 
-**True Petrification (Su)**: At 20th level, you can use your gaze bloodline ability to permanently turn a creature to stone, as *flesh to stone*. You can still use the less powerful versions of your gaze if you do not wish to turn the target to stone, but you must declare this at the time of the attack.
+**True Petrification (Su)**: At 20th level, you can use your gaze bloodline ability to permanently turn a creature to stone, as [*flesh to stone*](../../magic/spells/flesh-to-stone.md). You can still use the less powerful versions of your gaze if you do not wish to turn the target to stone, but you must declare this at the time of the attack.
 
 ## Naga
 
@@ -426,7 +426,7 @@ The blood of the powerful, serpentine aberrations known as nagas runs through yo
 
 **Bonus Feats**: Alertness, Combat Casting, Combat Reflexes, Dodge, Lightning Reflexes, Power Attack, Stealthy.
 
-**Bonus Spells**: *ray of enfeeblement* (7th), *invisibility* (10th), *lightning bolt* (13th), *poison* (16th).
+**Bonus Spells**: [*ray of enfeeblement*](../../magic/spells/ray-of-enfeeblement.md) (7th), [*invisibility*](../../magic/spells/invisibility.md) (10th), [*lightning bolt*](../../magic/spells/lightning-bolt.md) (13th), [*poison*](../../magic/spells/poison.md) (16th).
 
 **Bloodline Powers**: When you bloodrage, arcane power surges through your body, infusing you with the aberrant power and terrible strength of the nagas.
 
@@ -440,7 +440,7 @@ The blood of the powerful, serpentine aberrations known as nagas runs through yo
 
 **Naga Form (Sp)**: At 16th level, when entering a bloodrage, you can assume the form of a naga (as per [*naga shape III*](../../magic/spells/naga-shape-iii.md)).
 
-**Naga Thoughts (Sp, Su)**: At 20th level, when entering a bloodrage, you become immune to charm effects and all forms of mind reading, you gain a +2 bonus on saving throws against other mind-affecting effects, you gain the effects of the spell *see invisibility*, and you can use *detect thoughts* at will.
+**Naga Thoughts (Sp, Su)**: At 20th level, when entering a bloodrage, you become immune to charm effects and all forms of mind reading, you gain a +2 bonus on saving throws against other mind-affecting effects, you gain the effects of the spell [*see invisibility*](../../magic/spells/see-invisibility.md), and you can use [*detect thoughts*](../../magic/spells/detect-thoughts.md) at will.
 
 ## Shadow
 
@@ -448,7 +448,7 @@ Because of your heritage, you can move and see through shadows as if you are par
 
 **Bonus Feats**: Blind-Fight, Combat Reflexes, Improved Initiative, Lightning Reflexes, Quick Draw, Step Up.
 
-**Bonus Spells**: *Ray of enfeeblement* (7th), *darkvision* (10th), *deeper darkness* (13th), *shadow conjuration* (16th).
+**Bonus Spells**: *Ray of enfeeblement* (7th), [*darkvision*](../../magic/spells/darkvision.md) (10th), [*deeper darkness*](../../magic/spells/deeper-darkness.md) (13th), [*shadow conjuration*](../../magic/spells/shadow-conjuration.md) (16th).
 
 **Bloodline Powers**: Your bloodline gives you powers over light and darkness.
 
@@ -460,7 +460,7 @@ Because of your heritage, you can move and see through shadows as if you are par
 
 **Strike Through Shadow (Su)**: At 12th level, you can declare a single melee attack as a strike through shadow. This attack moves through its target's shadow and strikes from below or inside its armor. You make this attack against the target's touch AC. You can use this ability once per day, plus an additional time per day each at 15th and 18th levels.
 
-**Shadow Door (Su)**: At 16th level, you can take any part of your movement through shadows, teleporting to another location within 60 feet. This ability functions as *dimension door*, except you can't use shadow door in brightly lit areas. You can teleport in this manner a total of 10 feet per class level each day.
+**Shadow Door (Su)**: At 16th level, you can take any part of your movement through shadows, teleporting to another location within 60 feet. This ability functions as [*dimension door*](../../magic/spells/dimension-door.md), except you can't use shadow door in brightly lit areas. You can teleport in this manner a total of 10 feet per class level each day.
 
 **Shadow Warrior (Su)**: At 20th level, you become shadow and fury personified. You see perfectly in natural and magical darkness. Whenever you deal hit point damage with a spell or attack, you also deal 2 points of Strength damage to each creature that took damage.
 
@@ -470,7 +470,7 @@ Hags interbreed with other races frequently, and those children who escape their
 
 **Bonus Feats**: Blind-Fight, Deceitful, Great Fortitude, Improved Natural Attack, Intimidating Prowess, Mother's Gift.
 
-**Bonus Spells**: *Chill touch* (7th), *blindness/deafness* (10th), *bestow curse* (13th), *charm monster* (16th).
+**Bonus Spells**: *Chill touch* (7th), *blindness/deafness* (10th), *bestow curse* (13th), [*charm monster*](../../magic/spells/charm-monster.md) (16th).
 
 **Bloodline Powers**: While bloodraging, you manifest the physical power and arcane corruption of your hag ancestor.
 
@@ -488,9 +488,9 @@ Hags interbreed with other races frequently, and those children who escape their
 
 One of your ancestors paid the ultimate price for her beliefs. This distant relative martyred herself out of a devout dedication to some specific cause, and that sacrifice has infused you with power that you can use for good—or for ill. When you bloodrage, an inspiring fury conjures echoes of your forebear's incredible determination and selfless dedication, both offering you protection and amplifying your ability to punish any who dare incur your wrath.
 
-**Bonus Feats**: Diehard, Endurance, Heroic Defiance, Heroic Recovery, Leadership, Persuasive, Toughness.
+**Bonus Feats**: Diehard, Endurance, [Heroic Defiance](../../rules/feats/heroic-defiance.md), [Heroic Recovery](../../rules/feats/heroic-recovery.md), Leadership, Persuasive, Toughness.
 
-**Bonus Spells**: *Endure elements* (7th), *surmount affliction* (10th), *heroism* (13th), *blessing of fervor* (16th).
+**Bonus Spells**: *Endure elements* (7th), [*surmount affliction*](../../magic/spells/surmount-affliction.md) (10th), [*heroism*](../../magic/spells/heroism.md) (13th), [*blessing of fervor*](../../magic/spells/blessing-of-fervor.md) (16th).
 
 **Bloodline Powers**: When you bloodrage, you channel the power of your ancestor's self-sacrifice to urge yourself and your allies on to greater feats of strength than would otherwise be possible.
 
@@ -504,4 +504,4 @@ One of your ancestors paid the ultimate price for her beliefs. This distant rela
 
 **Sacrificial Exchange (Su)**: At 16th level, as a swift action once per day while you are bloodraging, you can take a –2 penalty to Armor Class to grant one ally within 30 feet a +4 morale bonus to one ability score. (This penalty to your AC stacks with the penalty from your bloodrage.) The penalty and bonus last for the duration of your bloodrage. At 20th level, the penalty this ability imposes changes to –4, and the ally's bonus increases to +6.
 
-**Eternal Martyr (Su)**: Your ancestor's sacrifice transcends time and space, keeping you alive when you otherwise shouldn't be and sanctifying your form. At 20th level, your ancestor's act of martyrdom infuses your spirit. You become immune to death effects. Material components for spells and effects to bring you back to life (such as *raise dead* or *resurrection*) cost half as much as normal. Your body cannot be turned into an undead creature, as though you were affected by a permanent *hallow* effect (caster level = your bloodrager level). You have these benefits constantly, even while not bloodraging.
+**Eternal Martyr (Su)**: Your ancestor's sacrifice transcends time and space, keeping you alive when you otherwise shouldn't be and sanctifying your form. At 20th level, your ancestor's act of martyrdom infuses your spirit. You become immune to death effects. Material components for spells and effects to bring you back to life (such as [*raise dead*](../../magic/spells/raise-dead.md) or [*resurrection*](../../magic/spells/resurrection.md)) cost half as much as normal. Your body cannot be turned into an undead creature, as though you were affected by a permanent [*hallow*](../../magic/spells/hallow.md) effect (caster level = your bloodrager level). You have these benefits constantly, even while not bloodraging.

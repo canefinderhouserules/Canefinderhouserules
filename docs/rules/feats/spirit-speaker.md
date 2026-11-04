@@ -2,7 +2,7 @@
 
 By absorbing spirits, you can learn how to set them free.
 
-**Prerequisites**: Cha 13, Con 13, Absorb Spirit, Diplomacy 5 ranks, must have died at least once or been possessed by an undead creature.
+**Prerequisites**: Cha 13, Con 13, [Absorb Spirit](absorb-spirit.md), Diplomacy 5 ranks, must have died at least once or been possessed by an undead creature.
 
 **Benefit**: When you absorb a spirit with the Absorb Spirit feat, you can converse with it through an internal dialogue in your mind. While conversing with the spirit, you can attempt Diplomacy checks to change its attitude toward you, as a normal use of that skill. If you are a medium with the haunt channeler class feature, you gain a +4 bonus on these Diplomacy checks. Once the spirit’s attitude is indifferent or better, you can request to know what must be done to lay the spirit to rest, though the DC to do so is the DC to change its current attitude + 15. This takes into account the circumstance modifiers for the request in a typical situation, though it could be higher or lower in an unusual circumstance.
 

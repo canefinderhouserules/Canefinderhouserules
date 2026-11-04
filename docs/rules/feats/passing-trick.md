@@ -4,7 +4,7 @@
 
 Slipping past a foe gives you the chance to feint.
 
-**Prerequisites**: Dodge, Improved Feint, Mobility, size Small or smaller.
+**Prerequisites**: Dodge, [Improved Feint](improved-feint.md), [Mobility](mobility.md), size Small or smaller.
 
 **Benefit**: Whenever you make a successful Acrobatics check to move through an opponent’s space, you can spend a swift action to make a Bluff check against that opponent to feint in combat.
 

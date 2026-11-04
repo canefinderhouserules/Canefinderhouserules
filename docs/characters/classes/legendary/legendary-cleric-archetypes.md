@@ -80,7 +80,7 @@ This replaces the cleric’s aura.
 
 **Ruinous Channel (Su)**
 
-The perverse powers of a faithless offer only capacity for destruction. A faithless can channel ruin as a legendary cleric channels negative or positive energy, releasing a wave of twisting void that harms creatures in the area of effect. The amount of damage dealt is equal to that an evil cleric of their level would deal by channeling negative energy, except it affects living, unliving, and undead creatures alike. This functions in all other ways as a cleric’s channel energy class feature, including benefiting from feats that affect channel energy (such as Selective Channeling).
+The perverse powers of a faithless offer only capacity for destruction. A faithless can channel ruin as a legendary cleric channels negative or positive energy, releasing a wave of twisting void that harms creatures in the area of effect. The amount of damage dealt is equal to that an evil cleric of their level would deal by channeling negative energy, except it affects living, unliving, and undead creatures alike. This functions in all other ways as a cleric’s channel energy class feature, including benefiting from feats that affect channel energy (such as [Selective Channeling](../../../rules/feats/selective-channeling.md)).
 
 This alters channel energy.
 
@@ -132,13 +132,13 @@ The following options can be taken in place of the legendary cleric’s normal w
 
 *AC Bonus (Ex):* When unarmored andunencumbered, the cleric adds their Wisdom bonus (if any) to their AC and their CMD. In addition, a cleric gains a +1 bonus to AC and CMD at 4th level. This bonus increases by 1 for every four cleric levels thereafter, up to a maximum of +5 at 20th level. These bonuses to AC apply even against touch attacks or when the cleric is flat-footed. They lose these bonuses when they are immobilized or helpless, when they wear any armor, when they carry a shield, or when they carry a medium or heavy load.
 
-**Weapon and Armor Proficiencies:** Clerics are proficient with the club, crossbow (light or heavy), dagger, handaxe, javelin, kama, nunchaku, quarterstaff, sai, short sword, shortspear, shuriken, siangham, sling, spear, and any weapon with the monk special weapon quality. They are not proficient in any armor or shields. In addition, they gain the AC bonus class feature (detailed above) as well as Improved Unarmed Strike as a bonus feat.
+**Weapon and Armor Proficiencies:** Clerics are proficient with the club, crossbow (light or heavy), dagger, handaxe, javelin, kama, nunchaku, quarterstaff, sai, short sword, shortspear, shuriken, siangham, sling, spear, and any weapon with the monk special weapon quality. They are not proficient in any armor or shields. In addition, they gain the AC bonus class feature (detailed above) as well as [Improved Unarmed Strike](../../../rules/feats/improved-unarmed-strike.md) as a bonus feat.
 
 **Blessing of the Faith**
 
 The following options can be taken in place of the legendary cleric’s blessing of the faith class feature.
 
-**Bonus Feats:** At 2nd level and every 8 levels thereafter, the cleric gains a bonus feat from the following list: any channeling feat, any combat feat, any metamagic feat, Bonded Holy Symbol, Command Undead, Expanded Domain Magic, Extra Faith, Sacred Summons, Turn Undead, or Warrior Priest. The cleric does not need to meet any ability score prerequisites for these feats but must meet other prerequisites for them.
+**Bonus Feats:** At 2nd level and every 8 levels thereafter, the cleric gains a bonus feat from the following list: any channeling feat, any combat feat, any metamagic feat, Bonded Holy Symbol, [Command Undead](../../../rules/feats/command-undead.md), Expanded Domain Magic, Extra Faith, [Sacred Summons](../../../rules/feats/sacred-summons.md), [Turn Undead](../../../rules/feats/turn-undead.md), or [Warrior Priest](../../../rules/feats/warrior-priest.md). The cleric does not need to meet any ability score prerequisites for these feats but must meet other prerequisites for them.
 
 **Sacred Weapon (Su):** At 2nd level, the cleric selects one type of weapon that they are proficient with (which can be changed any time they level up) The cleric can deal damage with this weapon based on the damage of the warpriest’s sacred weapon class feature, treating their cleric level as their warpriest level.
 
@@ -188,9 +188,9 @@ Planar envoys commune directly with the otherworldly powers of Heaven, Hell, or 
 
 At 1st level, the planar envoy gains a familiar as a wizard of their class level. In addition, they treat all summon monster spells as domain spells, their effective spell level being equal to their level on the sorcerer/wizard spell list.
 
-- At 4th level, the planar envoy gains Augment Summoning as a bonus feat even if they do not meet the prerequisites. In addition, they may spend a faith point as part of casting a summon monster spell to reduce the casting time to a standard action.
+- At 4th level, the planar envoy gains [Augment Summoning](../../../rules/feats/augment-summoning.md) as a bonus feat even if they do not meet the prerequisites. In addition, they may spend a faith point as part of casting a summon monster spell to reduce the casting time to a standard action.
 
-- At 8th level, the planar envoy gains Improved Familiar as a bonus feat. By spending a faith point as a standard action, the planar envoy may grant their familiar the Guardian Spirit template for a number of minutes equal to their planar envoy level. The effective conjuration spell level for the purpose of determining the effects of the Guardian Spirit template is equal to half the planar envoy’s level.
+- At 8th level, the planar envoy gains [Improved Familiar](../../../rules/feats/improved-familiar.md) as a bonus feat. By spending a faith point as a standard action, the planar envoy may grant their familiar the Guardian Spirit template for a number of minutes equal to their planar envoy level. The effective conjuration spell level for the purpose of determining the effects of the Guardian Spirit template is equal to half the planar envoy’s level.
 
 - At 12th level, the planar envoy adds lesser planar binding, planar binding, and greater planar binding to their spell list (as 4th, 6th, and 8th-level spells, respectively). In addition, they may spend a faith point as part of casting any planar binding spell to gain a +2 bonus on Charisma checks or as part of casting any planar ally spell to reduce the cost of payment by 20%.
 
@@ -200,7 +200,7 @@ This replaces the domain gained at 1st level. For the domain connection ability,
 
 **Planar Channeling (Su)**
 
-At 1st level, the planar envoy gains Alignment Channel as a bonus feat, but must spend a faith point or an additional use of channel energy to use channel energy without affecting it with the Alignment Channel feat. By spending a faith point, the planar envoy may have their alignment channel affect all creatures of the specified alignment, not just outsiders with the specified alignment subtype.
+At 1st level, the planar envoy gains [Alignment Channel](../../../rules/feats/alignment-channel.md) as a bonus feat, but must spend a faith point or an additional use of channel energy to use channel energy without affecting it with the Alignment Channel feat. By spending a faith point, the planar envoy may have their alignment channel affect all creatures of the specified alignment, not just outsiders with the specified alignment subtype.
 
 At 8th level, when the planar envoy spends a faith point in this way when using Alignment Channel, creatures that fail their saving throw against being damaged become sickened for a number of rounds equal to the planar envoy’s Wisdom modifier.
 

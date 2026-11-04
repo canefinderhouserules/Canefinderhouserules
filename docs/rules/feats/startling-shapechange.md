@@ -2,7 +2,7 @@
 
 You use your shapechanging abilities in order to demoralize your enemies.
 
-**Prerequisites**: Dazzling Display, change shape ability, shapechanger subtype.
+**Prerequisites**: [Dazzling Display](dazzling-display.md), change shape ability, shapechanger subtype.
 
 **Benefit**: You abruptly change shape, startling those who aren’t prepared for your reveal. Whenever you use your change shape ability to assume a new form or return to your true form, you can also use Dazzling Display as a free action. Reduce the result of your Intimidate check by 5 against opponents who know that you are a shapechanger. When using Dazzling Display in this manner, you can use the feat without needing a weapon in hand.
 

@@ -4,7 +4,7 @@
 
 Your defense relies on perfectly timed attacks.
 
-**Prerequisites**: Combat Expertise, Weapon Focus with the chosen weapon, base attack bonus +3.
+**Prerequisites**: [Combat Expertise](combat-expertise.md), Weapon Focus with the chosen weapon, base attack bonus +3.
 
 **Benefit**: Choose one weapon from the heavy blades or light blades fighter weapon group. While using this style, wielding the chosen weapon, and fighting defensively or using either the total defense action or the Combat Expertise feat, you gain a +1 shield bonus to your Armor Class. In addition, you do not take the penalty on melee attacks from Combat Expertise on the first attack roll you make each turn. You still take the penalty on additional attacks, including attacks of opportunity.
 

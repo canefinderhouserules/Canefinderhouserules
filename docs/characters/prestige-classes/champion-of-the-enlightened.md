@@ -29,7 +29,7 @@ To qualify to become a champion of the enlightened, a character must fulfill all
 
 **Skills**: Knowledge (religion) 3 ranks, 3 ranks total in Linguistics or other Knowledge skills.
 
-**Special**: Smite evil class feature, Improved Unarmed Strike. You can ignore all of these requirements and instead have 4 levels of [paladin of perfection](../classes/paladin-archetypes.md#paladin-of-perfection), in which case you also gain the aligned class ability (which only works with that paladin archetype).
+**Special**: Smite evil class feature, [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md). You can ignore all of these requirements and instead have 4 levels of [paladin of perfection](../classes/paladin-archetypes.md#paladin-of-perfection), in which case you also gain the aligned class ability (which only works with that paladin archetype).
 
 ??? note "Original requirements"
 
@@ -71,7 +71,7 @@ The following are class features of the champion of the enlightened prestige cla
 
 **Sweeping Smite (Ex)**: At 3rd level, as a standard action, a champion can make a single unarmed strike while using his smite evil or smite chaos ability. If the attack hits, he can make another attack at the same bonus against an evil or chaotic creature adjacent to the first and also within reach. He gains the benefits of smite chaos or smite evil (whichever he was already using), except for additional damage for the first attack, against that creature until the beginning of his next turn. This does not require an additional daily use of smite evil or smite chaos.
 
-At 6th level, a champion can use this ability to attack any number of opponents, as long as each is within his threatened area and adjacent to the previous target. This ability functions similarly to the Cleave and Great Cleave feats, but does not stack with them and does not result in an AC penalty.
+At 6th level, a champion can use this ability to attack any number of opponents, as long as each is within his threatened area and adjacent to the previous target. This ability functions similarly to the Cleave and [Great Cleave](../../rules/feats/great-cleave.md) feats, but does not stack with them and does not result in an AC penalty.
 
 **Valiant Stand (Su)**: At 4th level, a champion gains a sacred bonus on attack rolls and to AC equal to 1/2 his class level when adjacent to more than one opponent. He does not gain this bonus if he is also adjacent to an ally.
 
@@ -85,6 +85,6 @@ At 6th level, a champion can use this ability to attack any number of opponents,
 
 **Perfect Strike (Su)**: At 9th level, a champion can expend 1 point from his ki pool as a swift action to perfect the next unarmed attack he makes before the end of his turn. Attack and damage rolls are rolled twice and the champion selects which result to use.
 
-**Whirlwind Smite (Ex)**: At 10th level, as a full-round action, a champion can make one unarmed strike against every creature he threatens, as if he possessed the Whirlwind Attack feat (though he can use it only with unarmed strikes). He can also trigger either his smite evil or smite chaos ability while doing so, gaining its benefits against every creature he attacks for a number of rounds equal to his Wisdom bonus.
+**Whirlwind Smite (Ex)**: At 10th level, as a full-round action, a champion can make one unarmed strike against every creature he threatens, as if he possessed the [Whirlwind Attack](../../rules/feats/whirlwind-attack.md) feat (though he can use it only with unarmed strikes). He can also trigger either his smite evil or smite chaos ability while doing so, gaining its benefits against every creature he attacks for a number of rounds equal to his Wisdom bonus.
 
 **Code of Conduct**: A champion embraces law and goodness as other paladins do, conducting himself with honor and protecting the innocent; he loses all class features if he ever willingly commits an evil act. A champion must avoid entanglements that would distract him from the pursuit of perfection, and may not incur debts nor give loans to others—though he is encouraged to give freely to those in need. He likewise turns away potential followers of any sort, and may not recruit (and must discharge from service, if already acquired) any cohort, follower, animal companion, familiar, special mount, or similar creature.

@@ -166,7 +166,7 @@ The deinonychus is adept at racing from ambush to deliver grievous wounds with i
 
 **Minor Form**: You gain a +2 bonus on Initiative checks. This bonus increases to +4 at 8th level and +6 at 15th level.
 
-**Major Form**: Your shape changes to that of a deinonychus. While in this form, you gain a base speed of 60 feet, low-light vision, scent (30 feet), a bite attack, and two talon attacks (your talon attacks can use your shifter claws damage), and pounce. At 8th level, you gain two foreclaw attacks (these attacks cannot use your shifter claws damage) and a +4 racial bonus on Acrobatics checks. At 15th level, you gain a +1 dodge bonus to AC and Spring Attack as a bonus feat.
+**Major Form**: Your shape changes to that of a deinonychus. While in this form, you gain a base speed of 60 feet, low-light vision, scent (30 feet), a bite attack, and two talon attacks (your talon attacks can use your shifter claws damage), and pounce. At 8th level, you gain two foreclaw attacks (these attacks cannot use your shifter claws damage) and a +4 racial bonus on Acrobatics checks. At 15th level, you gain a +1 dodge bonus to AC and [Spring Attack](../../rules/feats/spring-attack.md) as a bonus feat.
 
 ### Dolphin
 
@@ -276,7 +276,7 @@ The snake is a sneaky and lethal foe who strikes unexpectedly with deadly effect
 
 **Minor Form**: You gain a +2 bonus on attack rolls when making attacks of opportunity and a +2 dodge bonus to your AC against attacks of opportunity. These bonuses increase to +4 at 8th level and +6 at 15th level.
 
-**Major Form**: Your shape changes to that of an emperor cobra. While in this form, you gain a climb speed of 30 feet, a swim speed of 30 feet, low-light vision, scent (30 feet), and the Combat Reflexes feat. If you already have Combat Reflexes or your Dexterity score is not high enough to gain more attacks of opportunity from Combat Reflexes, you can instead make one additional attack of opportunity each round. At 8th level, you gain a +4 racial bonus on Acrobatics and Stealth checks. At 15th level, when you make an attack of opportunity with your bite attack, that attack also applies the following poison.
+**Major Form**: Your shape changes to that of an emperor cobra. While in this form, you gain a climb speed of 30 feet, a swim speed of 30 feet, low-light vision, scent (30 feet), and the [Combat Reflexes](../../rules/feats/combat-reflexes.md) feat. If you already have Combat Reflexes or your Dexterity score is not high enough to gain more attacks of opportunity from Combat Reflexes, you can instead make one additional attack of opportunity each round. At 8th level, you gain a +4 racial bonus on Acrobatics and Stealth checks. At 15th level, when you make an attack of opportunity with your bite attack, that attack also applies the following poison.
 
 **Poison (Ex)**: Bite—injury; save Fort DC = 10 + half your shifter level + your Constitution modifier; frequency 1/round for 6 rounds; effect 1d3 Con damage; cure 2 consecutive saves.
 
@@ -376,7 +376,7 @@ The following favored class bonuses are available to shifters who come from the 
 
 **Half-Elves**: Add a +1/2 bonus on Survival checks to get along in the wild, to avoid getting lost, and to avoid all natural hazards.
 
-**Half-Orcs**: Add a +1/3 bonus on critical hit confirmation rolls when using shifter claws (maximum bonus of +5). This bonus does not stack with Critical Focus.
+**Half-Orcs**: Add a +1/3 bonus on critical hit confirmation rolls when using shifter claws (maximum bonus of +5). This bonus does not stack with [Critical Focus](../../rules/feats/critical-focus.md).
 
 **Halflings**: Increase the AC bonus from defensive instinct by 1/4 against creatures of size Large or larger.
 

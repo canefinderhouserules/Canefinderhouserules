@@ -4,7 +4,7 @@
 
 You take a moment to carefully aim your shots, causing them all to strike nearly the same spot.
 
-**Prerequisites**: Point-Blank Shot, Precise Shot, base attack bonus +6.
+**Prerequisites**: [Point-Blank Shot](point-blank-shot.md), [Precise Shot](precise-shot.md), base attack bonus +6.
 
 **Benefit**: When you use a full-attack action to make multiple ranged weapon attacks against the same opponent, total the damage from all hits before applying that opponent’s damage reduction.
 

@@ -23,7 +23,7 @@ For pain tasters, agony is more than a pleasure—it’s a path to power. Until 
 
 To become a pain taster, a character must fulfill all the following criteria.
 
-**Feats**: Diehard, Endurance, Great Fortitude.
+**Feats**: Diehard, Endurance, [Great Fortitude](../../rules/feats/great-fortitude.md).
 
 **Skills**: Heal 5 ranks, Intimidate 5 ranks.
 

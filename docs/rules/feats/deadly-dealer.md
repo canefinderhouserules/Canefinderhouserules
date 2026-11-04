@@ -2,7 +2,7 @@
 
 Your skill with handling a deck and your arcane talents allow you to turn mundane cards into weapons.
 
-**Prerequisites**: Arcane Strike, Sleight of Hand 5 ranks.
+**Prerequisites**: [Arcane Strike](arcane-strike.md), Sleight of Hand 5 ranks.
 
 **Benefit**: You can throw a card as though it were a dart, with the same damage, range, and other features. You must use the Arcane Strike feat when throwing a card in this way, or else the card lacks the magical force and precision to deal lethal damage. A card is destroyed when thrown in this way. Cards from a [fate deck](../../equipment/fate-deck.md) are treated as masterwork weapons when thrown using this feat, but are still destroyed after they are thrown. A fate deck can no longer be used as a fortune-telling device after even a single card is thrown.
 

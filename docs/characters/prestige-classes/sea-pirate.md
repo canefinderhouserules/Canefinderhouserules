@@ -69,6 +69,6 @@ The following are class features of the sea pirate prestige class.
 
 **Fearsome Advance* (Ex)**: If the sea pirate deals damage with her sneak attack, she can make an Intimidate check as an immediate action to demoralize the damaged opponent.
 
-**Foot Sweep* (Ex)**: If the sea pirate deals damage with a sneak attack, she can make a trip attack against the damaged opponent as an immediate action. All the usual rules for trip attacks apply, and feats such as Improved Trip modify the attack normally.
+**Foot Sweep* (Ex)**: If the sea pirate deals damage with a sneak attack, she can make a trip attack against the damaged opponent as an immediate action. All the usual rules for trip attacks apply, and feats such as [Improved Trip](../../rules/feats/improved-trip.md) modify the attack normally.
 
 **Shipboard Authority (Ex)**: As a full-round action once per day, the sea pirate can shout orders to her crew. All allies within 30 feet who can hear her gain a +1 morale bonus on attack rolls or on a particular skill check for 1 round per sea pirate level. She specifies which bonus applies when she uses this ability and may not change it for the duration.

@@ -4,7 +4,7 @@
 
 You study a combat style consisting of fluid, circular motions suited for moving and fighting underwater.
 
-**Prerequisites**: Wis 13, Improved Unarmed Strike, Acrobatics 3 ranks, Swim 3 ranks.
+**Prerequisites**: Wis 13, [Improved Unarmed Strike](improved-unarmed-strike.md), Acrobatics 3 ranks, Swim 3 ranks.
 
 **Benefit**: Your unarmed strikes deal normal damage underwater, and you don’t take penalties on attack rolls with unarmed strikes made underwater. You add your Wisdom modifier in addition to your Strength modifier on Swim checks.
 

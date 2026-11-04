@@ -2,7 +2,7 @@
 
 Your skin shines like burnished metal.
 
-**Prerequisites**: Angelic Blood, aasimar.
+**Prerequisites**: [Angelic Blood](angelic-blood.md), aasimar.
 
 **Benefit**: You take a –2 penalty on Disguise and Stealth checks but gain one of the following benefits, depending on the metallic affinity of your flesh (choose one).
 

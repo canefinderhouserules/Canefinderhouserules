@@ -55,7 +55,7 @@ The divine scion's class skills (and the key ability for each skill) are Diploma
 
 The following are class features of the divine scion prestige class.
 
-**Weapon and Armor Proficiency**: A divine scion gains no additional weapon or armor proficiencies. She can select Greater Weapon Focus, Weapon Specialization, and Greater Weapon Specialization as feats once she qualifies for them normally (although she does not have to fulfill the prerequisite of having fighter levels in order to select these feats).
+**Weapon and Armor Proficiency**: A divine scion gains no additional weapon or armor proficiencies. She can select [Greater Weapon Focus](../../rules/feats/greater-weapon-focus.md), [Weapon Specialization](../../rules/feats/weapon-specialization.md), and [Greater Weapon Specialization](../../rules/feats/greater-weapon-specialization.md) as feats once she qualifies for them normally (although she does not have to fulfill the prerequisite of having fighter levels in order to select these feats).
 
 **Spells**: When a divine scion gains a level, she gains new spells per day as if she had also gained a level in a divine spellcasting class she belonged to before she added the prestige class. She does not, however, gain any other benefits a character of that class would have gained. This essentially means that she adds the level of divine scion to the level of whatever other divine spellcasting class she has.
 

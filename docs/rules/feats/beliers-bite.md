@@ -4,7 +4,7 @@
 
 Your unarmed strikes cause your opponent to bleed.
 
-**Prerequisites**: Improved Unarmed Strike.
+**Prerequisites**: [Improved Unarmed Strike](improved-unarmed-strike.md).
 
 **Benefit**: When you damage an opponent with an unarmed strike, you deal an extra 1d4 bleed damage.
 

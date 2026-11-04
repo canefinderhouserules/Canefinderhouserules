@@ -2,7 +2,7 @@
 
 You have a sense of destiny about you and always seem to succeed, even when the odds are against you.
 
-**Prerequisites**: Hero’s Fortune.
+**Prerequisites**: [Hero’s Fortune](heros-fortune.md).
 
 **Benefit**: Whenever you gain a level, you gain 2 hero points instead of 1.
 

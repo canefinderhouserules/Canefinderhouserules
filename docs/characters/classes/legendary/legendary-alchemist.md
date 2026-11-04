@@ -110,7 +110,7 @@ Bombs are unstable, and if not used in the round they are created, they degrade 
 
 Drawing the components of, creating, and throwing a bomb can be done as an attack action that does not provoke an attack of opportunity (although making a ranged attack provokes an attack of opportunity as normal).
 
-Thrown bombs have a range of 30 feet and use the Throw Splash Weapon special attack. Bombs are considered weapons and can be selected using feats such as Point-Blank Shot and Weapon Focus. An alchemist is automatically proficient with all bombs they create. On a direct hit, an alchemist’s bomb inflicts 1d6 points of fire damage + additional damage equal to the alchemist’s Intelligence modifier (the alchemist’s Intelligence modifier is only applied once to the bomb’s damage). The damage of an alchemist’s bomb increases by 1d6 points at every odd-numbered alchemist level (this bonus damage is not multiplied on a critical hit or by using feats such as Vital Strike). Splash damage from an alchemist’s bomb is always equal to the bomb’s minimum damage (so if the bomb would deal 2d6+4 points of fire damage on a direct hit, its splash damage would be 6 points of fire damage).
+Thrown bombs have a range of 30 feet and use the Throw Splash Weapon special attack. Bombs are considered weapons and can be selected using feats such as [Point-Blank Shot](../../../rules/feats/point-blank-shot.md) and Weapon Focus. An alchemist is automatically proficient with all bombs they create. On a direct hit, an alchemist’s bomb inflicts 1d6 points of fire damage + additional damage equal to the alchemist’s Intelligence modifier (the alchemist’s Intelligence modifier is only applied once to the bomb’s damage). The damage of an alchemist’s bomb increases by 1d6 points at every odd-numbered alchemist level (this bonus damage is not multiplied on a critical hit or by using feats such as [Vital Strike](../../../rules/feats/vital-strike.md)). Splash damage from an alchemist’s bomb is always equal to the bomb’s minimum damage (so if the bomb would deal 2d6+4 points of fire damage on a direct hit, its splash damage would be 6 points of fire damage).
 
 Those caught in the splash damage can attempt a Reflex save for half damage. The DC of this save is equal to 10 + 1/2 the alchemist’s level + their Intelligence modifier. Due to the alchemist’s bond with their bombs, they are always aware if a creature within 60 feet of themselves has failed a saving throw against their bombs.
 
@@ -120,7 +120,7 @@ An alchemist must spend an amount of quintessence listed in each bomb’s descri
 
 #### Throw Anything (Ex)
 
-All alchemists gain the Throw Anything feat as a bonus feat at 1st level. An alchemist adds their Intelligence modifier to damage done with splash weapons (this does not effect bombs, as they already add the alchemist’s Intelligence modifier to damage), including the splash damage if any.
+All alchemists gain the [Throw Anything](../../../rules/feats/throw-anything.md) feat as a bonus feat at 1st level. An alchemist adds their Intelligence modifier to damage done with splash weapons (this does not effect bombs, as they already add the alchemist’s Intelligence modifier to damage), including the splash damage if any.
 
 #### Poison Resistance (Ex)
 
@@ -150,7 +150,7 @@ At 3rd level, a alchemist can combine two alchemical splash weapons (holy water 
 
 #### Brew Potion (Ex)
 
-At 3rd level, alchemists receive Brew Potion as a bonus feat. An alchemist can brew potions of any formulae they know (up to 3rd level), using their alchemist level as their caster level. The spell must be one that can be made into a potion. The alchemist does not need to meet the prerequisites for this feat.
+At 3rd level, alchemists receive [Brew Potion](../../../rules/feats/brew-potion.md) as a bonus feat. An alchemist can brew potions of any formulae they know (up to 3rd level), using their alchemist level as their caster level. The spell must be one that can be made into a potion. The alchemist does not need to meet the prerequisites for this feat.
 
 #### Swift Alchemy (Ex)
 

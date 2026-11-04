@@ -4,6 +4,6 @@
 
 You deal more damage by breaking nearby objects against your enemies.
 
-**Prerequisites**: Catch Off-Guard, base attack bonus +1.
+**Prerequisites**: [Catch Off-Guard](catch-off-guard.md), base attack bonus +1.
 
 **Benefit**: When you attack a target with an improvised weapon, you can give that weapon the broken condition to deal 1d4 points of additional damage on that attack. Additionally, you gain a +4 bonus on the roll to confirm a critical hit with this attack. If you confirm the crit, the extra damage granted by this feat is also multiplied and the improvised weapon is destroyed.

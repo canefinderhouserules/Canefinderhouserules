@@ -2,7 +2,7 @@
 
 You can use your mask to enhance your occult powers.
 
-**Prerequisites**: Nameless One, ability to cast one or more occult rituals.
+**Prerequisites**: [Nameless One](nameless-one.md), ability to cast one or more occult rituals.
 
 **Benefit**: While benefiting from the Nameless One feat, your masked identity affords you a greater spiritual connection when you act as the primary caster for an occult ritual you know. For any such occult ritual, you can attempt all required skill checks, even if untrained in such a skill. If you are trained in such a skill, you instead gain a +3 bonus on your skill check.
 

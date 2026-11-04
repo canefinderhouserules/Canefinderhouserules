@@ -10,7 +10,7 @@ Although they come in very different shapes, styles, and temperaments, all swash
 
 **Braggart (Ex)**
 
-At 2nd level, a braggart swashbuckler can spend a standard action to extol her own accomplishments and battle prowess. She receives Dazzling Display as a bonus feat. She does not need a weapon in hand to use this ability.
+At 2nd level, a braggart swashbuckler can spend a standard action to extol her own accomplishments and battle prowess. She receives [Dazzling Display](../../../rules/feats/dazzling-display.md) as a bonus feat. She does not need a weapon in hand to use this ability.
 
 The swashbuckler receives a +2 morale bonus on melee attack rolls made against demoralized targets and she ignores the Weapon Focus prerequisite for all feats that also list Dazzling Display as a prerequisite.
 
@@ -38,7 +38,7 @@ At 11th level, a braggart swashbuckler can use her overwhelming ego and self-con
 
 **Massive Ego (Ex)**
 
-At 15th level, while she has at least 1 panache point, a braggart swashbuckler adds her Charisma bonus (if any) as an insight bonus on saving throws against mind-affecting effects. If she has the Steadfast Personality feat, this ability grants her a +2 bonus on saving throws against mind-affecting effects instead. By spending 1 panache point as an immediate action after making a saving throw against a mind-affecting effect, she can reroll her saving throw.
+At 15th level, while she has at least 1 panache point, a braggart swashbuckler adds her Charisma bonus (if any) as an insight bonus on saving throws against mind-affecting effects. If she has the [Steadfast Personality](../../../rules/feats/steadfast-personality.md) feat, this ability grants her a +2 bonus on saving throws against mind-affecting effects instead. By spending 1 panache point as an immediate action after making a saving throw against a mind-affecting effect, she can reroll her saving throw.
 
 She must use the new result, even if it’s worse. She must use this ability before the result of her saving throw has been revealed.
 
@@ -50,7 +50,7 @@ At 19th level, while she has at least 1 panache point, a braggart swashbuckler g
 
 Whether she was born with a silver spoon in her mouth, trudged her way to the top, or is simply pretending, swashbucklers with the dandy personage radiate an air of privilege. Such swashbucklers are fueled by their haughty sense of self-worth, as they believe that the woes and fears of the common man are simply beneath them.
 
-**Personage Bonus**: A dandy swashbuckler gains either Deceitful or Persuasive as a bonus feat at 1st level (her choice). If she chooses Deceitful, this feat acts as Combat Expertise for the purpose of satisfying the prerequisites of Improved Feint and feats that list Improved Feint as a prerequisite. If she chooses Persuasive, this feat acts as Weapon Focus for the purpose of satisfying the prerequisites of Dazzling Display and feats that list Dazzling Display as a prerequisite. The swashbuckler doesn’t need to present a weapon when using Dazzling Display if she has satisfied its prerequisites using Persuasive instead of Weapon Focus.
+**Personage Bonus**: A dandy swashbuckler gains either Deceitful or Persuasive as a bonus feat at 1st level (her choice). If she chooses Deceitful, this feat acts as [Combat Expertise](../../../rules/feats/combat-expertise.md) for the purpose of satisfying the prerequisites of [Improved Feint](../../../rules/feats/improved-feint.md) and feats that list Improved Feint as a prerequisite. If she chooses Persuasive, this feat acts as Weapon Focus for the purpose of satisfying the prerequisites of Dazzling Display and feats that list Dazzling Display as a prerequisite. The swashbuckler doesn’t need to present a weapon when using Dazzling Display if she has satisfied its prerequisites using Persuasive instead of Weapon Focus.
 
 **Personage Abilities**: A swashbuckler with the dandy personage gains the following abilities as she increases in level.
 
@@ -58,7 +58,7 @@ Whether she was born with a silver spoon in her mouth, trudged her way to the to
 
 At 2nd level and every 4 levels thereafter, a dandy swashbuckler selects one Dexterity-, Intelligence-, or Charisma-based skill that she is trained in. She gains a bonus on skill checks made with the selected skill equal to half her swashbuckler level.
 
-In addition, the swashbuckler can choose the following feats, in addition to combat feats, as bonus feats: Deceitful, Leadership, Persuasive, Rhetorical Flourish, Signature Skill, Skill Focus, or Steadfast Personality.
+In addition, the swashbuckler can choose the following feats, in addition to combat feats, as bonus feats: Deceitful, Leadership, Persuasive, [Rhetorical Flourish](../../../rules/feats/rhetorical-flourish.md), Signature Skill, Skill Focus, or Steadfast Personality.
 
 **Aristocratic Negotiations (Ex)**
 
@@ -98,7 +98,7 @@ At 19th level, when a dandy succeeds on a Diplomacy or Intimidate check to chang
 
 Ever-ready to charge headfirst into trouble, a swashbuckler with the daredevil personage is fast on her feet and more than willing to meet trouble with the edge of her blade.
 
-**Personage Bonus**: At 1st level, a daredevil swashbuckler gains Nimble Moves as a bonus feat. In addition, the swashbuckler adds Acrobatic Steps to the list of bonus feats that she can select as a swashbuckler bonus feat.
+**Personage Bonus**: At 1st level, a daredevil swashbuckler gains [Nimble Moves](../../../rules/feats/nimble-moves.md) as a bonus feat. In addition, the swashbuckler adds [Acrobatic Steps](../../../rules/feats/acrobatic-steps.md) to the list of bonus feats that she can select as a swashbuckler bonus feat.
 
 **Personage Abilities**: A swashbuckler with the daredevil personage gains the following abilities as she increases in level.
 
@@ -108,7 +108,7 @@ At 2nd level, a daredevil swashbuckler does not take a penalty to her AC when sh
 
 **Spring Attack (Ex)**
 
-At 10th level, a daredevil swashbuckler gains the Spring Attack feat as a bonus feat, ignoring its prerequisites.
+At 10th level, a daredevil swashbuckler gains the [Spring Attack](../../../rules/feats/spring-attack.md) feat as a bonus feat, ignoring its prerequisites.
 
 **Precise Footwork (Ex)**
 
@@ -146,7 +146,7 @@ Not known for their flashy entrances or for standing out in a crowd, a daring in
 
 **Class Skills**: A daring infiltrator gains Disguise (Cha) and Stealth (Dex) as class skills, but does not gain Diplomacy (Cha), Perform (Cha), and Profession (Wis) as class skills. This ability alters the swashbuckler’s list of class skills.
 
-**Bonus Feats**: In addition to combat feats, a daring infiltrator’s bonus feats can come from the following list: Alertness, Antagonize, Cosmopolitan, Deceitful, Deft Hands, Disarming Threat, Persuasive, Prodigy, and Skill Focus. This alters the bonus feat class ability.
+**Bonus Feats**: In addition to combat feats, a daring infiltrator’s bonus feats can come from the following list: Alertness, Antagonize, Cosmopolitan, Deceitful, [Deft Hands](../../../rules/feats/deft-hands.md), Disarming Threat, Persuasive, Prodigy, and Skill Focus. This alters the bonus feat class ability.
 
 **Clandestine Expertise (Ex)**
 
@@ -174,7 +174,7 @@ The dashing commander gains the following deeds, each of which replaces an exist
 
 **Inspiring Swordplay (Ex)**
 
-At 1st level, while a dashing commander has at least 1 panache point, her Battle Cry feat’s range improves to 60 feet and its effects don’t end for an ally when that ally uses Battle Cry to reroll a saving throw. When an ally uses this reroll, a dashing commander can spend 1 panache point as an immediate action to grant the ally a bonus on its reroll equal to her Charisma modifier. This deed replaces daring stride.
+At 1st level, while a dashing commander has at least 1 panache point, her [Battle Cry](../../../rules/feats/battle-cry.md) feat’s range improves to 60 feet and its effects don’t end for an ally when that ally uses Battle Cry to reroll a saving throw. When an ally uses this reroll, a dashing commander can spend 1 panache point as an immediate action to grant the ally a bonus on its reroll equal to her Charisma modifier. This deed replaces daring stride.
 
 **Unshakable Panache (Ex)**
 
@@ -182,7 +182,7 @@ At 3rd level, a dashing commander is immune to fear effects while a she has at l
 
 **Commander Weapon Training (Ex)**
 
-At 1st level, a dashing commander selects one fighter weapon group. She gains the benefits of the Weapon Finesse feat with all melee weapons belonging to her chosen fighter weapon group. This ability counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites and as swashbuckler weapon training when determining which weapons the dashing commander can use in conjunction with her swashbuckler deeds and class features. In addition, she gains Battle Cry as a bonus feat.
+At 1st level, a dashing commander selects one fighter weapon group. She gains the benefits of the [Weapon Finesse](../../../rules/feats/weapon-finesse.md) feat with all melee weapons belonging to her chosen fighter weapon group. This ability counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites and as swashbuckler weapon training when determining which weapons the dashing commander can use in conjunction with her swashbuckler deeds and class features. In addition, she gains Battle Cry as a bonus feat.
 
 At 4th level, the dashing commander increases the number of times per day that she can use her Battle Cry feat by one. In addition, allies affected by her battle cry gain a +1 morale bonus on damage rolls in addition to its other effects. At 9th level and every 4 levels thereafter, the dashing commander gains one additional use of the Battle Cry feat and the morale bonuses granted by her battle cry increase by 1, to a maximum of +4 at 17th level. This ability replaces swashbuckler weapon training.
 
@@ -212,7 +212,7 @@ At 6th level, as a swift action she can spend 1 panache point to make all of her
 
 At 1st level, a flying blade gains the benefits of the Weapon Finesse feat with all melee weapons belonging to the thrown fighter weapon group. This ability counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites. In addition, a flying blade can use any swashbuckler deed that requires her to make a melee attack with a weapon that belongs to a fighter group that she selected with the swashbuckler weapon training class feature with a ranged attack made with such a weapon instead. The target must be within the thrown weapon’s first range increment of her.
 
-Every four levels thereafter (5th, 9th, 13th, and 17th), a flying blade gains a +1 bonus on attack rolls and damage rolls with weapons belonging to the thrown fighter weapon group. In addition, she gains the benefits of the Improved Critical feat with those weapons and increases the range increment of any such weapon that she throws as part of a ranged attack by 5 feet (up to a total increase of 20 feet at 17th level). This ability alters swashbuckler weapon training.
+Every four levels thereafter (5th, 9th, 13th, and 17th), a flying blade gains a +1 bonus on attack rolls and damage rolls with weapons belonging to the thrown fighter weapon group. In addition, she gains the benefits of the [Improved Critical](../../../rules/feats/improved-critical.md) feat with those weapons and increases the range increment of any such weapon that she throws as part of a ranged attack by 5 feet (up to a total increase of 20 feet at 17th level). This ability alters swashbuckler weapon training.
 
 ## Gallivant
 
@@ -244,7 +244,7 @@ Subject to GM discretion, the heightened blade can change his former ability to 
 
 - **Clouded Vision**: Your eyes are obscured, making it difficult for you to see. You cannot see anything beyond 30 feet, but you can see as if you had darkvision. At 5th level, this distance increases to 60 feet. At 10th level, you can blindsense out to a range of 30 feet. At 15th level, you gain blindsight out to a range of 15 feet.
 
-- **Deaf**: You cannot hear and suffer all of the usual penalties for being deafened. You gain the Aspect of the Beast feat as a bonus feat, ignoring its prerequisites. You must select the night senses manifestation of this feat. At 5th level, you receive a +3 competence bonus on Perception checks that do not rely upon hearing and the initiative penalty for being deaf is reduced to –2. At 10th level, you gain scent and you do not suffer any penalty on initiative checks due to being deaf. At 15th level, you gain tremorsense out to a range of 30 feet.
+- **Deaf**: You cannot hear and suffer all of the usual penalties for being deafened. You gain the [Aspect of the Beast](../../../rules/feats/aspect-of-the-beast.md) feat as a bonus feat, ignoring its prerequisites. You must select the night senses manifestation of this feat. At 5th level, you receive a +3 competence bonus on Perception checks that do not rely upon hearing and the initiative penalty for being deaf is reduced to –2. At 10th level, you gain scent and you do not suffer any penalty on initiative checks due to being deaf. At 15th level, you gain tremorsense out to a range of 30 feet.
 
 - **Dwarf**: You are smaller than average for a member of your race, reducing your base size category by one. You gain 2 additional skill ranks each time you gain a level or a Hit Die. At 5th level, you reduce the attack roll penalty for wielding a weapon whose intended wielder size is one size category larger than yours by –2. At 10th level, you are considered one size category larger then your actual size when determining your CMB and CMD as well as whether or not you can bull rush, overrun, or trip an opponent. At 15th level, you gain a +2 size bonus to your CMB and CMD against creatures that are larger than you.
 
@@ -268,7 +268,7 @@ The inspired blade gains the following deeds, each of which replaces an existing
 
 **Inspired Strike (Ex)**
 
-At 11th level, an inspired blade can spend 1 panache point when making a melee attack to gain an insight bonus on that attack roll equal to her Intelligence modifier (minimum +1). When an inspired blade hits with an attack augmented by inspired strike, she can spend 1 additional panache point to make the hit a critical threat, though if she does so, she does not regain panache if she confirms that critical threat. The swashbuckler may only use this deed in conjunction with a melee weapon that belongs to a fighter weapon group that she has selected with swashbuckler weapon training and its cost cannot be reduced by abilities such as Signature Deed. This ability replaces bleeding wound.
+At 11th level, an inspired blade can spend 1 panache point when making a melee attack to gain an insight bonus on that attack roll equal to her Intelligence modifier (minimum +1). When an inspired blade hits with an attack augmented by inspired strike, she can spend 1 additional panache point to make the hit a critical threat, though if she does so, she does not regain panache if she confirms that critical threat. The swashbuckler may only use this deed in conjunction with a melee weapon that belongs to a fighter weapon group that she has selected with swashbuckler weapon training and its cost cannot be reduced by abilities such as [Signature Deed](../../../rules/feats/signature-deed.md). This ability replaces bleeding wound.
 
 **Inspired Focus (Ex)**
 
@@ -372,7 +372,7 @@ Beginning at 3rd level, a musketeer can select a two-handed firearm that she is 
 
 **Picaroon Training (Ex)**
 
-At 1st level, a musketeer gains the benefits of the Weapon Finesse feat with light or one-handed melee weapons that belong to one fighter weapon group of her choice. This ability counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites. She also gains the benefits of the Rapid Reload (musket) feat. This ability counts as having both the Weapon Finesse and Rapid Reload feats for the purpose of meeting feat prerequisites.
+At 1st level, a musketeer gains the benefits of the Weapon Finesse feat with light or one-handed melee weapons that belong to one fighter weapon group of her choice. This ability counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites. She also gains the benefits of the Rapid Reload (musket) feat. This ability counts as having both the Weapon Finesse and [Rapid Reload](../../../rules/feats/rapid-reload.md) feats for the purpose of meeting feat prerequisites.
 
 Every four levels thereafter (5th, 9th, 13th, and 17th), a musketeer gains a +1 bonus on attack rolls and damage rolls with two-handed firearms and weapons belonging to her chosen fighter weapon group, and she gains the benefits of the Improved Critical feat with those weapons. This ability alters swashbuckler weapon training and the precise strike deed.
 
@@ -498,7 +498,7 @@ Beginning at 3rd level, a picaroon can select a one-handed firearm that she is p
 
 **Picaroon Training (Ex)**
 
-At 1st level, a picaroon gains the benefits of the Weapon Finesse feat with light or one-handed melee weapons that belong to one fighter weapon group of her choice. This ability counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites. She also gains the benefits of the Two-Weapon Fighting feat as long as she is wielding such a weapon in one hand and a onehanded firearm in the other. This ability counts as having both the Weapon Finesse and Two-Weapon Fighting feats for the purpose of meeting feat prerequisites, and she can fight with two weapons in this manner without losing the benefits of the precise strike deed.
+At 1st level, a picaroon gains the benefits of the Weapon Finesse feat with light or one-handed melee weapons that belong to one fighter weapon group of her choice. This ability counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites. She also gains the benefits of the [Two-Weapon Fighting](../../../rules/feats/two-weapon-fighting.md) feat as long as she is wielding such a weapon in one hand and a onehanded firearm in the other. This ability counts as having both the Weapon Finesse and Two-Weapon Fighting feats for the purpose of meeting feat prerequisites, and she can fight with two weapons in this manner without losing the benefits of the precise strike deed.
 
 Every four levels thereafter (5th, 9th, 13th, and 17th), a picaroon gains a +1 bonus on attack rolls and damage rolls with one-handed firearms and weapons belonging to her chosen fighter weapon group, and she gains the benefits of the Improved Critical feat with those weapons.
 
@@ -602,7 +602,7 @@ The ronin gains the following deeds, each of which replaces an existing deed.
 
 **Fluid Strike (Ex)**
 
-At 3rd level, while the ronin has at least 1 panache, she can draw a weapon as a free action and is treated as having the Quick Draw feat for the purpose of determining if she can draw a weapon with the swashbuckler’s initiative deed. Additionally, if the ronin draws a weapon on the first turn of a combat and attacks a foe within her reach, she can spend 1 panache point as a swift action to make a feint attempt against the target of her attack. This deed replaces kip-up.
+At 3rd level, while the ronin has at least 1 panache, she can draw a weapon as a free action and is treated as having the [Quick Draw](../../../rules/feats/quick-draw.md) feat for the purpose of determining if she can draw a weapon with the swashbuckler’s initiative deed. Additionally, if the ronin draws a weapon on the first turn of a combat and attacks a foe within her reach, she can spend 1 panache point as a swift action to make a feint attempt against the target of her attack. This deed replaces kip-up.
 
 **Favored Weapon Training (Ex)**
 
@@ -648,13 +648,13 @@ In addition, she always counts as having a running start when making jump checks
 
 **Dashing Attack (Ex)**
 
-At 7th level, a tumbler can spend 1 panache point as a full-round action in order to move up to her speed and use the attack action without provoking any attacks of opportunity from the target of her attack. She can move both before and after the attack, but she must move at least 10 feet before the attack and the total distance the tumbler moves cannot be greater than her speed. A tumbler cannot use this ability to attack a foe that is adjacent to her at the start of her turn. The tumbler can combine the attack granted by this deed with any feat or swashbuckler deed or class feature that is used in conjunction with the attack action, such as the Vital Strike feat. This deed replaces targeted strike.
+At 7th level, a tumbler can spend 1 panache point as a full-round action in order to move up to her speed and use the attack action without provoking any attacks of opportunity from the target of her attack. She can move both before and after the attack, but she must move at least 10 feet before the attack and the total distance the tumbler moves cannot be greater than her speed. A tumbler cannot use this ability to attack a foe that is adjacent to her at the start of her turn. The tumbler can combine the attack granted by this deed with any feat or swashbuckler deed or class feature that is used in conjunction with the attack action, such as the [Vital Strike](../../../rules/feats/vital-strike.md) feat. This deed replaces targeted strike.
 
 **Tumbler Weapon Training (Ex)**
 
 At 1st level, a swashbuckler selects one fighter weapon group. She gains the benefits of the Weapon Finesse feat with all melee weapons belonging to her chosen fighter weapon group. This ability counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites.
 
-Every four levels thereafter (5th, 9th, 13th, and 17th), a tumbler becomes further trained in another group of weapons. She gains the benefits of the Weapon Finesse feat with all melee weapons belonging to this group. In addition, she gains a +1 bonus on attack rolls and damage rolls as well as the benefits of the Vital Strike feat with weapons belonging to her previously selected weapon groups. When her bonus with a weapon group reaches +2, she gains the benefits of the Improved Vital Strike feat with weapons belonging to that weapon group. When her bonus with a weapon group reaches +3, she gains the benefits of the Greater Vital Strike feat with weapons belonging to that weapon group. For example, when a tumbler reaches 5th level, she gains the benefits of the Weapon Finesse feat with all melee weapons belonging to one weapon group and a +1 bonus on attack and damage rolls and the benefits of the Vital Strike feat with the weapon group selected at 1st level. Bonuses granted from overlapping groups do not stack. Take the highest bonus granted for a weapon if it resides in two or more groups.
+Every four levels thereafter (5th, 9th, 13th, and 17th), a tumbler becomes further trained in another group of weapons. She gains the benefits of the Weapon Finesse feat with all melee weapons belonging to this group. In addition, she gains a +1 bonus on attack rolls and damage rolls as well as the benefits of the Vital Strike feat with weapons belonging to her previously selected weapon groups. When her bonus with a weapon group reaches +2, she gains the benefits of the [Improved Vital Strike](../../../rules/feats/improved-vital-strike.md) feat with weapons belonging to that weapon group. When her bonus with a weapon group reaches +3, she gains the benefits of the [Greater Vital Strike](../../../rules/feats/greater-vital-strike.md) feat with weapons belonging to that weapon group. For example, when a tumbler reaches 5th level, she gains the benefits of the Weapon Finesse feat with all melee weapons belonging to one weapon group and a +1 bonus on attack and damage rolls and the benefits of the Vital Strike feat with the weapon group selected at 1st level. Bonuses granted from overlapping groups do not stack. Take the highest bonus granted for a weapon if it resides in two or more groups.
 
 A tumbler also adds this bonus on combat maneuver checks made with weapons from this group. This bonus also applies to the tumbler’s Combat Maneuver Defense when defending against disarm and sunder attempts made against weapons from this group. This ability alters swashbuckler weapon training.
 
@@ -698,7 +698,7 @@ Masters of dirty fighting and gang-up tactics, vagabond swashbucklers use their 
 
 **Bonus Feat**
 
-At 1st level, a vagabond swashbuckler gains Improved Dirty Trick as a bonus feat and is considered to have Combat Expertise for the purpose of meeting the prerequisites of feats that have Improved Dirty Trick as a prerequisite (such as Greater Dirty Trick).
+At 1st level, a vagabond swashbuckler gains [Improved Dirty Trick](../../../rules/feats/improved-dirty-trick.md) as a bonus feat and is considered to have Combat Expertise for the purpose of meeting the prerequisites of feats that have Improved Dirty Trick as a prerequisite (such as [Greater Dirty Trick](../../../rules/feats/greater-dirty-trick.md)).
 
 **Personage Abilities**: A swashbuckler with the vagabond personage gains the following abilities as she increases in level.
 
@@ -726,7 +726,7 @@ At 7th level, a vagabond swashbuckler with at least 1 panache point can, as a st
 
 **Flanking Foil (Ex)**
 
-At 11th level, while she has at least 1 panache point, a vagabond swashbuckler gains the benefits of the Flanking Foil feat. In addition, the swashbuckler also denies that opponent the ability to provide a flank for its allies until the start of the swashbuckler’s next turn.
+At 11th level, while she has at least 1 panache point, a vagabond swashbuckler gains the benefits of the [Flanking Foil](../../../rules/feats/flanking-foil.md) feat. In addition, the swashbuckler also denies that opponent the ability to provide a flank for its allies until the start of the swashbuckler’s next turn.
 
 **Corner Foe (Ex)**
 
@@ -746,7 +746,7 @@ The vainglory swashbuckler is a master of her panache, using it to perform super
 
 Personal deeds are abilities that draw on the swashbuckler’s panache. All of the standard swashbuckler’s deeds count as personal deeds. A vainglory swashbuckler can learn additional personal deeds, which replace an existing deed, such as riposte parry and dodge. Personal deeds are divided into two categories: *feats* and *swashbuckler deeds*.
 
-- **Feats**: These personal deeds duplicate the effects of specific feats. A swashbuckler does not need to qualify for a feat to select it as a personal deed. For example, a vainglory swashbuckler can select Power Attack as a personal deed even if she doesn’t meet the prerequisites for selecting Power Attack as a feat. A personal deed that duplicates the effects of a feat counts as having that feat for the purpose of meeting feat prerequisites. Activating one of these personal deeds is a free action on the swashbuckler’s turn; until the start of her next turn, the swashbuckler is treated as if she had that feat. Some of these personal deeds that duplicate feats may also be activated as an immediate action; these deeds are noted in the personal deeds list.
+- **Feats**: These personal deeds duplicate the effects of specific feats. A swashbuckler does not need to qualify for a feat to select it as a personal deed. For example, a vainglory swashbuckler can select [Power Attack](../../../rules/feats/power-attack.md) as a personal deed even if she doesn’t meet the prerequisites for selecting Power Attack as a feat. A personal deed that duplicates the effects of a feat counts as having that feat for the purpose of meeting feat prerequisites. Activating one of these personal deeds is a free action on the swashbuckler’s turn; until the start of her next turn, the swashbuckler is treated as if she had that feat. Some of these personal deeds that duplicate feats may also be activated as an immediate action; these deeds are noted in the personal deeds list.
 
 - **Swashbuckler Deeds**: Some personal deeds are standard swashbuckler deeds. Even if a swashbuckler selects a different personal deed in place of a standard swashbuckler deed, she can select that deed later as one of her personal deeds. Swashbuckler deeds do not list their panache costs; this information is located in the deed’s description in the swashbuckler base class. A swashbuckler can select a swashbuckler deed that she has altered or replaced as part of an archetype as a personal deed.
 
@@ -780,7 +780,7 @@ Personal deeds are abilities that draw on the swashbuckler’s panache. All of t
 
 - Quick Draw (0 panache points)
 
-- Stand Still† (1 panache point)
+- [Stand Still](../../../rules/feats/stand-still.md)† (1 panache point)
 
 **7th-Level Deeds**
 
@@ -800,7 +800,7 @@ Personal deeds are abilities that draw on the swashbuckler’s panache. All of t
 
 - Greater Sunder (1 panache point)
 
-- Heroic Recovery † (1 panache point)
+- [Heroic Recovery](../../../rules/feats/heroic-recovery.md) † (1 panache point)
 
 - Kip-up (swashbuckler deed)
 
@@ -814,9 +814,9 @@ Personal deeds are abilities that draw on the swashbuckler’s panache. All of t
 
 **11th-Level Deeds**
 
-- Bleeding Critical † (1 panache point)
+- [Bleeding Critical](../../../rules/feats/bleeding-critical.md) † (1 panache point)
 
-- Disarming Strike † (1 panache point)
+- [Disarming Strike](../../../rules/feats/disarming-strike.md) † (1 panache point)
 
 - Improved Vital Strike (1 panache point)
 
@@ -824,9 +824,9 @@ Personal deeds are abilities that draw on the swashbuckler’s panache. All of t
 
 - Penetrating Strike (1 panache point)
 
-- Sickening Critical† (1 panache point)
+- [Sickening Critical](../../../rules/feats/sickening-critical.md)† (1 panache point)
 
-- Step Up and Strike† (1 panache point)
+- [Step Up and Strike](../../../rules/feats/step-up-and-strike.md)† (1 panache point)
 
 - Swashbuckler’s grace (swashbuckler deed)
 
@@ -836,27 +836,27 @@ Personal deeds are abilities that draw on the swashbuckler’s panache. All of t
 
 - 15th-Level Deeds bleeding wound (swashbuckler deed)
 
-- Blinding Critical† (1 panache point)
+- [Blinding Critical](../../../rules/feats/blinding-critical.md)† (1 panache point)
 
-- Crippling Critical† (1 panache point)
+- [Crippling Critical](../../../rules/feats/crippling-critical.md)† (1 panache point)
 
-- Deafening Critical † (1 panache point)
+- [Deafening Critical](../../../rules/feats/deafening-critical.md) † (1 panache point)
 
 - Deflect Arrows* † (1 panache point)
 
 - Subtle blade (swashbuckler deed)
 
-- Tiring Critical† (1 panache point)
+- [Tiring Critical](../../../rules/feats/tiring-critical.md)† (1 panache point)
 
 **19th-Level Deeds**
 
 - Deadly Finish (1 panache point)
 
-- Exhausting Critical† (1 panache point)
+- [Exhausting Critical](../../../rules/feats/exhausting-critical.md)† (1 panache point)
 
 - Perfect thrust (swashbuckler deed)
 
-- Stunning Critical† (1 panache point)
+- [Stunning Critical](../../../rules/feats/stunning-critical.md)† (1 panache point)
 
 - Swashbuckler’s edge (swashbuckler deed)
 

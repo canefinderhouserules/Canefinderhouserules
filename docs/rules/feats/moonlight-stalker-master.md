@@ -4,6 +4,6 @@
 
 You leave your opponents swinging at shadows while you slide elusively through the darkness.
 
-**Prerequisites**: Int 13, Blind-Fight, Combat Expertise, Improved Feint, Moonlight Stalker, Moonlight Stalker Feint, Bluff 9 ranks, darkvision or low-light vision racial trait.
+**Prerequisites**: Int 13, [Blind-Fight](blind-fight.md), [Combat Expertise](combat-expertise.md), [Improved Feint](improved-feint.md), [Moonlight Stalker](moonlight-stalker.md), [Moonlight Stalker Feint](moonlight-stalker-feint.md), Bluff 9 ranks, darkvision or low-light vision racial trait.
 
 **Benefit**: While you have concealment, your opponents’ miss chance against you increases by 10%. If an opponent misses you due to your concealment, you can spend an immediate action to move 5 feet, this movement does not provoke attacks of opportunity and does not count as a 5-foot step.

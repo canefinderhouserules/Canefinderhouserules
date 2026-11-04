@@ -4,7 +4,7 @@
 
 Your ability to knock down your foes with ranged attacks is impressive.
 
-**Prerequisites**: Hammer Throw, Improved Trip, Point-Blank Shot, Precise Shot, base attack bonus +6, dwarf.
+**Prerequisites**: [Hammer Throw](hammer-throw.md), [Improved Trip](improved-trip.md), [Point-Blank Shot](point-blank-shot.md), [Precise Shot](precise-shot.md), base attack bonus +6, dwarf.
 
 **Benefit**: You can use the Hammer Throw feat against targets at any range and of any size.
 

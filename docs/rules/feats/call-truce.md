@@ -2,7 +2,7 @@
 
 You can passionately entreat your enemies with the aim of making combat unnecessary.
 
-**Prerequisites**: Cha 15, Persuasive, Diplomacy 5 ranks.
+**Prerequisites**: Cha 15, [Persuasive](persuasive.md), Diplomacy 5 ranks.
 
 **Benefit**: While in combat, as a 1-round action (as if it were a spell with a 1-round casting time), you can call for a truce with any creatures that have an Intelligence score of 4 or greater and can understand you. When doing so, you can’t be wielding a weapon or threatening implement, such as a charged spell, wand, or anything else the creatures you are entreating might consider threatening. You must also be in plain sight of most the creatures you are entreating.
 

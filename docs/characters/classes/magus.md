@@ -73,7 +73,7 @@ A magus can only enhance one weapon in this way at one time. If he uses this abi
 
 **Arcane Accuracy (Su)**: The magus can expend 1 point from his arcane pool as a swift action to grant himself an insight bonus equal to his Intelligence bonus on all attack rolls until the end of his turn.
 
-**Arcane Dealer (Su)**: The magus gains the [Deadly Dealer](../../rules/feats/deadly-dealer.md) feat, even if he does not meet the prerequisites. He can use his arcane pool to grant a deck of cards an enhancement bonus as though it were a ranged weapon with 54 pieces of ammunition. The magus must use either Arcane Strike or his arcane pool to enhance the cards in order to use them as weapons. The magus must be at least 6th level before selecting this arcana.
+**Arcane Dealer (Su)**: The magus gains the [Deadly Dealer](../../rules/feats/deadly-dealer.md) feat, even if he does not meet the prerequisites. He can use his arcane pool to grant a deck of cards an enhancement bonus as though it were a ranged weapon with 54 pieces of ammunition. The magus must use either [Arcane Strike](../../rules/feats/arcane-strike.md) or his arcane pool to enhance the cards in order to use them as weapons. The magus must be at least 6th level before selecting this arcana.
 
 **Broad Study (Ex)**: The magus selects another one of his spellcasting classes. The magus can use his spellstrike and spell combat abilities while casting or using spells from the spell list of that class. This does not allow him to cast arcane spells from that class’s spell list without suffering the normal chances of arcane spell failure, unless the spell lacks somatic components. The magus must be at least 6th level and must possess levels in at least one other spellcasting class before selecting this arcana.
 
@@ -85,7 +85,7 @@ A magus can only enhance one weapon in this way at one time. If he uses this abi
 
 **Dispelling Strike (Su)**: The magus can spend 1 or more points from his arcane pool as a swift action to imbue his weapon with a special power. If the weapon strikes a creature within the next minute, that creature is the subject of a targeted dispel magic using the magus’s level as the caster level, except that this effect cannot dispel a spell of a level higher than the number of arcane pool points expended to activate this ability (treat higher-level spells as if they do not exist and apply the dispel attempt to the remaining spells with the highest caster level). Once the strike is made, the power dissipates, even if the dispel attempt is unsuccessful. The magus must be at least 9th level before selecting this arcana.
 
-**Empowered Magic (Su)**: The magus can cast one spell per day as if it were modified by the Empower Spell feat. This does not increase the casting time or the level of the spell. The magus must be at least 6th level before selecting this magus arcana.
+**Empowered Magic (Su)**: The magus can cast one spell per day as if it were modified by the [Empower Spell](../../rules/feats/empower-spell.md) feat. This does not increase the casting time or the level of the spell. The magus must be at least 6th level before selecting this magus arcana.
 
 **Familiar (Ex)**: The magus gains a familiar, using his magus level as his effective wizard level. This familiar follows the rules for familiars presented in the arcane bond wizard class feature.
 
@@ -93,15 +93,15 @@ A magus can only enhance one weapon in this way at one time. If he uses this abi
 
 **Maneuver Mastery (Ex)**: The magus has mastered one combat maneuver. He selects one maneuver when selecting this arcana. Whenever he is attempting the selected maneuver, he uses his magus level in place of his base attack bonus (in addition to any base attack bonus gained from other classes). A magus can select this magus arcana more than once. Its effects do not stack. Each time he selects this arcana, he selects another combat maneuver.
 
-**Maximized Magic (Su)**: The magus can cast one spell per day as if it were modified by the Maximize Spell feat. This does not increase the casting time or the level of the spell. The magus must be at least 12th level before selecting this magus arcana.
+**Maximized Magic (Su)**: The magus can cast one spell per day as if it were modified by the [Maximize Spell](../../rules/feats/maximize-spell.md) feat. This does not increase the casting time or the level of the spell. The magus must be at least 12th level before selecting this magus arcana.
 
 **Pool Strike (Su)**: The magus can expend 1 point from his arcane pool as a standard action to charge his free hand with energy. He can make a melee touch attack with that hand as a free action as part of activating this ability. If the touch attack hits, it releases the charge and deals 2d6 points of energy damage (acid, cold, electricity, or fire, chosen when he spends the arcane pool point to activate this ability). He can use this ability with the spellstrike class feature. If he misses with this attack, he can hold the charge for up to 1 minute before it dissipates. At 6th level, and every three levels thereafter, the amount of damage dealt by this attack increases by 1d6.
 
-**Quickened Magic (Su)**: The magus can cast one spell per day as if it were modified by the Quicken Spell feat. This does not increase the level of the spell. The magus must be at least 15th level before selecting this magus arcana.
+**Quickened Magic (Su)**: The magus can cast one spell per day as if it were modified by the [Quicken Spell](../../rules/feats/quicken-spell.md) feat. This does not increase the level of the spell. The magus must be at least 15th level before selecting this magus arcana.
 
 **Reflection (Su)**: The magus can sacrifice 1 or more points from his arcane pool as an immediate action to reflect a spell back at its caster. This functions as spell turning, but only if the targeted spell is of a level equal to or lower than the number of points expended. If insufficient points are expended, they instead grant an insight bonus on any saving throws allowed by the spell, equal to the number of points spent. The magus must be at least 15th level before selecting this magus arcana.
 
-**Silent Magic (Su)**: The magus can cast one spell per day as if it were modified by the Silent Spell feat. This does not increase the casting time or the level of the spell.
+**Silent Magic (Su)**: The magus can cast one spell per day as if it were modified by the [Silent Spell](../../rules/feats/silent-spell.md) feat. This does not increase the casting time or the level of the spell.
 
 **Spell Blending (Ex)**: When a magus selects this arcana, he must select one spell from the wizard spell list that is of a magus spell level he can cast. He adds this spell to his spellbook and list of magus spells known as a magus spell of its wizard spell level. He can instead select two spells to add in this way, but both must be at least one level lower than the highest-level magus spell he can cast. A magus can select this magus arcana more than once.
 
@@ -109,7 +109,7 @@ A magus can only enhance one weapon in this way at one time. If he uses this abi
 
 **Spell Shield (Su)**: The magus can expend a point from his arcane pool as an immediate action to grant himself a shield bonus to AC equal to his Intelligence bonus until the end of his next turn.
 
-**Still Magic (Su)**: The magus can cast one spell per day as if it were modified by the Still Spell feat. This does not increase the casting time or the level of the spell.
+**Still Magic (Su)**: The magus can cast one spell per day as if it were modified by the [Still Spell](../../rules/feats/still-spell.md) feat. This does not increase the casting time or the level of the spell.
 
 **Wand Mastery (Su)**: Whenever The magus uses a wand, he calculates the DC for any spell it contains using his Intelligence modifier, instead of the minimum modifier needed to cast a spell of that level.
 

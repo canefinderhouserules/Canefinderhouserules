@@ -4,6 +4,6 @@
 
 You tear flesh when you damage an opponent that you have pinned.
 
-**Prerequisites**: Dex 13, Greater Grapple, Improved Grapple, Improved Unarmed Strike, base attack bonus +9 or monk level 9th.
+**Prerequisites**: Dex 13, [Greater Grapple](greater-grapple.md), [Improved Grapple](improved-grapple.md), [Improved Unarmed Strike](improved-unarmed-strike.md), base attack bonus +9 or monk level 9th.
 
 **Benefit**: While you have an opponent pinned, when you succeed at a grapple combat maneuver check to deal an opponent damage using an unarmed strike or a light or one-handed weapon, that opponent also takes bleed damage equal to your unarmed strike or weapon damage dice. Any creature that is immune to critical hits is immune to the effects of this feat.

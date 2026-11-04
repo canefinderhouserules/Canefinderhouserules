@@ -4,6 +4,6 @@
 
 You wield spears with poise and grace.
 
-**Prerequisites**: Dex 15, Spear Dancing Style, Two-Weapon Fighting, Weapon Finesse, Weapon Focus with the chosen weapon.
+**Prerequisites**: Dex 15, [Spear Dancing Style](spear-dancing-style.md), [Two-Weapon Fighting](two-weapon-fighting.md), [Weapon Finesse](weapon-finesse.md), Weapon Focus with the chosen weapon.
 
 **Benefit**: While using Spear Dancing Style, you gain the benefit of Weapon Finesse with the chosen weapon if it is appropriately sized for a creature of your size category. In addition, you can use any feat or ability that functions with a quarterstaff with your chosen weapon.

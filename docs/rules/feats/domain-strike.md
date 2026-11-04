@@ -4,7 +4,7 @@
 
 You unleash a domain power upon your enemy as part of your unarmed strike.
 
-**Prerequisites**: Domain class feature, Improved Unarmed Strike.
+**Prerequisites**: Domain class feature, [Improved Unarmed Strike](improved-unarmed-strike.md).
 
 **Benefit**: When you gain this feat, choose one domain-granted power that you can use to affect no more than one opponent. If you make a successful unarmed strike against an opponent, in addition to dealing your unarmed strike damage, you can use a swift action to deliver the effects of the chosen granted power to that opponent. Doing so provokes no attacks of opportunity.
 

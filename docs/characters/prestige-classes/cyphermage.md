@@ -23,7 +23,7 @@ Cyphermages are students of ancient history and runic lore, with a particular fo
 
 To qualify to become a cyphermage, a character must fulfill all the following criteria.
 
-**Feats**: Scribe Scroll.
+**Feats**: [Scribe Scroll](../../rules/feats/scribe-scroll.md).
 
 **Skills**: Knowledge (arcana) 2 ranks, Knowledge (history) 2 ranks, Linguistics 2 ranks.
 
@@ -59,7 +59,7 @@ If the character had more than one arcane spellcasting class before he became a 
 
 **Cypher Lore**: As a cyphermage gains levels, he begins mastering written magic such as scrolls, glyphs, and symbols. He also begins to discover ancient magics that further bolster his power. These discoveries are known collectively as cypher lore. Each level, the cyphermage learns a new way to enhance his magic, chosen from the list of cypher lores given below.
 
-**Analyze Scroll (Su)**: As a free action, a cyphermage can automatically discern the contents of a magic scroll, as if he were using *read magic*. He gains an insight bonus equal to his cyphermage level on Use Magic Device checks made to cast spells from scrolls.
+**Analyze Scroll (Su)**: As a free action, a cyphermage can automatically discern the contents of a magic scroll, as if he were using [*read magic*](../../magic/spells/read-magic.md). He gains an insight bonus equal to his cyphermage level on Use Magic Device checks made to cast spells from scrolls.
 
 **Bypass Symbol (Su)**: When a cyphermage makes a save against a magical glyph, symbol, sigil, or similar written trap, as an immediate action he may attempt a Spellcraft check against the same DC to delay the trap's effects for 1d6 rounds. Once the delay is over, the trap has its normal effect. The cyphermage must be at least 8th level to select this lore.
 
@@ -71,7 +71,7 @@ If the character had more than one arcane spellcasting class before he became a 
 
     **Enhance Scroll (Su)**: As a swift action, a cyphermage can cause any scroll spell he reads to function using his caster level rather than the scroll's caster level. He can use this ability a number of times per day equal to 1/3 his cyphermage level (minimum 1).
 
-**Extended Scroll (Su)**: As a swift action, a cyphermage can double the duration of any scroll spell he reads as if the spell were modified by Extend Spell. He can use this ability once per day, plus one additional time per day for every 2 cyphermage levels he has.
+**Extended Scroll (Su)**: As a swift action, a cyphermage can double the duration of any scroll spell he reads as if the spell were modified by [Extend Spell](../../rules/feats/extend-spell.md). He can use this ability once per day, plus one additional time per day for every 2 cyphermage levels he has.
 
 ??? note "Original rule"
 
@@ -93,7 +93,7 @@ If the character had more than one arcane spellcasting class before he became a 
 
     **Insightful Scroll (Su)**: As a swift action, a cyphermage can alter a spell he's casting from a scroll to use his own spellcasting ability score (Intelligence for wizards, and so on) and relevant feats to set the DC for the spell. He can use this ability a number of times per day equal to 1/3 his cyphermage level (minimum 1).
 
-**Rune Trap (Ex)**: Whenever the cyphermage casts a spell that creates a trap that uses magical writing (such as *explosive runes*, *illusory script*, *sepia snake sigil*, or a *symbol*), as a swift action he may include ancient runes in the writing. This adds +4 to the Perception DCs to notice it, Disable Device DCs to disarm it, and caster level DCs to dispel it. The cyphermage must be at least 6th level to select this lore.
+**Rune Trap (Ex)**: Whenever the cyphermage casts a spell that creates a trap that uses magical writing (such as [*explosive runes*](../../magic/spells/explosive-runes.md), [*illusory script*](../../magic/spells/illusory-script.md), [*sepia snake sigil*](../../magic/spells/sepia-snake-sigil.md), or a *symbol*), as a swift action he may include ancient runes in the writing. This adds +4 to the Perception DCs to notice it, Disable Device DCs to disarm it, and caster level DCs to dispel it. The cyphermage must be at least 6th level to select this lore.
 
 **Swift Scrivener (Ex)**: The cyphermage may scribe up to two scrolls per day, so long as the total market price of all scrolls scribed that day does not exceed 1,000 gp. The cyphermage reduces the casting time of all *symbol* spells to 1 minute. He also reduces the cost of scrolls to 25%.
 

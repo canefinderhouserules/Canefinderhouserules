@@ -4,7 +4,7 @@
 
 Your unarmed fighting style is nimble and unpredictable, full of ground rolls and short leaps.
 
-**Prerequisites**: Wis 13, Improved Unarmed Strike, Acrobatics 5 ranks, Climb 5 ranks.
+**Prerequisites**: Wis 13, [Improved Unarmed Strike](improved-unarmed-strike.md), Acrobatics 5 ranks, Climb 5 ranks.
 
 **Benefit**: You add your Wisdom bonus on Acrobatics checks. While using this style, you take no penalty on melee attack rolls or to AC while prone. Further, you can crawl and stand up from lying prone without provoking attacks of opportunity, and you can stand up as a swift action if you succeed at a DC 20 Acrobatics check.
 

@@ -2,7 +2,7 @@
 
 Your draconic aspect manifests as magical might.
 
-**Prerequisites**: Draconic Aspect, kobold.
+**Prerequisites**: [Draconic Aspect](draconic-aspect.md), kobold.
 
 **Benefit**: You gain a group of spell-like abilities based on the color of your dragon aspect. Each spell-like ability can be used once per day, and the DC of any of these spell-like abilities is 10 + 1/2 your Hit Dice + Charisma modifier.
 

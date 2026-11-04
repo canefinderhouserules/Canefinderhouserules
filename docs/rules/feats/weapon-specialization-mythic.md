@@ -4,7 +4,7 @@
 
 The damage you deal with your chosen weapon is truly awesome to behold.
 
-**Prerequisite**: Weapon Specialization.
+**Prerequisite**: [Weapon Specialization](weapon-specialization.md).
 
 **Benefit**: When using your chosen weapon, you gain a bonus equal to half your tier on damage rolls. This stacks with the bonus from Weapon Specialization and Greater Weapon Specialization.
 

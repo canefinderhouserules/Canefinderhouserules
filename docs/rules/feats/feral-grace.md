@@ -4,7 +4,7 @@
 
 The animal’s grace and agility are honed for battle, making it a deadly combatant.
 
-**Prerequisites**: Weapon Finesse, base attack bonus +3, animal companion.
+**Prerequisites**: [Weapon Finesse](weapon-finesse.md), base attack bonus +3, animal companion.
 
 **Benefit**: Choose one of the animal companion’s natural attack. When the animal companion makes a melee attack with the chosen natural attack using its Dexterity bonus on attack rolls and its Strength bonus on damage rolls, it adds 1/4 of its Hit Dice as a bonus on damage rolls. This bonus damage doesn’t increase or decrease based upon whether the natural attack is a primary or secondary natural attack.
 

@@ -33,11 +33,11 @@ Omduras are proficient with all simple weapons, light armor, medium armor, and s
 
 ### Aura (Ex)
 
-An omdura of a chaotic, evil, good, or lawful deity has a powerful aura corresponding to the deity’s alignment (see the *detect evil* spell for details).
+An omdura of a chaotic, evil, good, or lawful deity has a powerful aura corresponding to the deity’s alignment (see the [*detect evil*](../../magic/spells/detect-evil.md) spell for details).
 
 ### Spell Casting
 
-An omdura casts divine spells drawn from the cleric and inquisitor spell lists. Only cleric spells of 6th level and lower and inquisitor spells are considered to be part of the omdura spell list. If a spell appears on both the cleric and inquisitor spell lists, the omdura uses the lower of the two spell levels given for the spell. For instance, *dimensional anchor* is a 4th-level cleric spell and a 3rd-level inquisitor spell, which means it is a 3rd-level omdura spell.
+An omdura casts divine spells drawn from the cleric and inquisitor spell lists. Only cleric spells of 6th level and lower and inquisitor spells are considered to be part of the omdura spell list. If a spell appears on both the cleric and inquisitor spell lists, the omdura uses the lower of the two spell levels given for the spell. For instance, [*dimensional anchor*](../../magic/spells/dimensional-anchor.md) is a 4th-level cleric spell and a 3rd-level inquisitor spell, which means it is a 3rd-level omdura spell.
 
 The omdura can cast any spell she knows without preparing it ahead of time. To learn or cast a spell, an omdura must have a Charisma score equal to at least 10 + the spell’s level. The difficulty class for a saving throw against an omdura’s spell is equal to 10 + the spell’s level + the omdura’s Charisma modifier.
 
@@ -64,7 +64,7 @@ Unlike a cleric, an omdura need not prepare her spells in advance. She can cast 
 
 ### Detect Alignment (Sp)
 
-At will, an omdura can cast *detect chaos*, *detect evil*, *detect good*, or *detect law*. She can use only one of these at any given time.
+At will, an omdura can cast [*detect chaos*](../../magic/spells/detect-chaos.md), *detect evil*, [*detect good*](../../magic/spells/detect-good.md), or [*detect law*](../../magic/spells/detect-law.md). She can use only one of these at any given time.
 
 ### Invocation (Su)
 
@@ -100,7 +100,7 @@ At 2nd level, an omdura can deliver divine energy by touch. She can deliver eith
 
 Each day the omdura can use this ability a number of times equal to half her omdura level plus her Charisma modifier. With one use of this ability, an omdura can use divine energy to restore to a target 1d6 hit points for every 2 omdura levels she has. Using this ability is a standard action, unless the omdura targets herself, in which case it is a swift action. An omdura who delivers negative energy with her touch can instead deal 1d6 points of damage to a living creature for every 2 omdura levels she has. Alternatively, an omdura can use this divine energy to affect undead creatures, dealing damage when delivering positive energy or restoring hit points when delivering negative energy.
 
-An omdura needs only one free hand to use this ability. Using divine touch to harm a creature requires a successful melee touch attack and doesn’t provoke an attack of opportunity. Creatures do not receive a saving throw against the damage from divine touch. Divine touch is modified by any feat, spell, or effect that specifically works with the lay on hands paladin class feature. For example, the Extra Lay On Hands feat grants an omdura two additional uses of the divine touch class feature.
+An omdura needs only one free hand to use this ability. Using divine touch to harm a creature requires a successful melee touch attack and doesn’t provoke an attack of opportunity. Creatures do not receive a saving throw against the damage from divine touch. Divine touch is modified by any feat, spell, or effect that specifically works with the lay on hands paladin class feature. For example, the [Extra Lay On Hands](../../rules/feats/extra-lay-on-hands.md) feat grants an omdura two additional uses of the divine touch class feature.
 
 ### Divine Infusion (Su)
 
@@ -128,7 +128,7 @@ If a weapon bonded with a divine spirit is destroyed, the omdura loses the use o
 
 ### Commune (Sp)
 
-At 7th level, the omdura can cast *commune* once per day as a spell-like ability. She can cast this a second time per day at 15th level.
+At 7th level, the omdura can cast [*commune*](../../magic/spells/commune.md) once per day as a spell-like ability. She can cast this a second time per day at 15th level.
 
 ### Improved Invocation (Ex)
 
@@ -144,7 +144,7 @@ At 20th level, each day when the omdura regains her spell slots, she chooses one
 
 ## Ex-Omduras
 
-An omdura who grossly violates the code of conduct required by her god loses all spells and class features, except for her armor, shield, and weapon proficiencies and bonus feats. She cannot thereafter gain levels as an omdura of that god until she atones for her deeds (see the *atonement* spell).
+An omdura who grossly violates the code of conduct required by her god loses all spells and class features, except for her armor, shield, and weapon proficiencies and bonus feats. She cannot thereafter gain levels as an omdura of that god until she atones for her deeds (see the [*atonement*](../../magic/spells/atonement.md) spell).
 
 ## Arcane Exemplar
 
@@ -192,6 +192,6 @@ This replaces spells.
 
 **Chosen Warrior (Ex)**
 
-At 3rd level, an exemplar of war gains the Chosen One feat as a bonus feat. At 6th level and every 3 levels thereafter, the exemplar of war gains an additional bonus feat. These feats must be selected from the following list: Blessed by a God or Dragon, Chosen One’s Might, or Chosen One’s Resilience. At 9th level, the following feats are added to the list: Chosen One’s Determination and Chosen One’s Wrath. An exemplar of war can ignore any level prerequisites for these bonus feats, but she must meet all other prerequisites. If the exemplar of war selects Blessed by a God or Dragon as a bonus feat, she can plea for assistance from her god once per day instead of once per week.
+At 3rd level, an exemplar of war gains the [Chosen One](../../rules/feats/chosen-one.md) feat as a bonus feat. At 6th level and every 3 levels thereafter, the exemplar of war gains an additional bonus feat. These feats must be selected from the following list: [Blessed by a God or Dragon](../../rules/feats/blessed-by-a-god-or-dragon.md), [Chosen One’s Might](../../rules/feats/chosen-ones-might.md), or [Chosen One’s Resilience](../../rules/feats/chosen-ones-resilience.md). At 9th level, the following feats are added to the list: [Chosen One’s Determination](../../rules/feats/chosen-ones-determination.md) and [Chosen One’s Wrath](../../rules/feats/chosen-ones-wrath.md). An exemplar of war can ignore any level prerequisites for these bonus feats, but she must meet all other prerequisites. If the exemplar of war selects Blessed by a God or Dragon as a bonus feat, she can plea for assistance from her god once per day instead of once per week.
 
 This replaces divine infusion.

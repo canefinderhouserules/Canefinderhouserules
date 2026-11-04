@@ -4,7 +4,7 @@
 
 You can make a trip attack with your quarterstaff.
 
-**Prerequisites**: Improved Trip, Weapon Focus (quarterstaff ), base attack bonus +6.
+**Prerequisites**: [Improved Trip](improved-trip.md), Weapon Focus (quarterstaff ), base attack bonus +6.
 
 **Benefit**: You treat quarterstaves as if they had the trip special feature.
 

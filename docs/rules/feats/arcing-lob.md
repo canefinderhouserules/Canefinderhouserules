@@ -2,7 +2,7 @@
 
 You can hurl a splash weapon high into the air to break atop large opponents, cascading its contents down on your target or using your opponent's bulk to shield the surrounding area from the spray.
 
-**Prerequisites**: Dex 15, Point-Blank Shot, Precise Shot, Throw Anything.
+**Prerequisites**: Dex 15, [Point-Blank Shot](point-blank-shot.md), [Precise Shot](precise-shot.md), [Throw Anything](throw-anything.md).
 
 **Benefit**: When you hit a target that is Large or larger with a splash weapon, you can choose to deal splash damage to all creatures within 5 feet of the target, splash damage to no creatures, or splash damage as normal.
 

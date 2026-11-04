@@ -4,7 +4,7 @@
 
 You can draw your weapon with startling speed.
 
-**Prerequisites**: Quick Draw, swashbuckler initiative deed, swashbuckler level 7th.
+**Prerequisites**: [Quick Draw](quick-draw.md), swashbuckler initiative deed, swashbuckler level 7th.
 
 **Benefit**: You can spend 1 panache point to draw one or more light or one-handed piercing weapons, whether hidden or not, when you roll initiative, even at the start of a surprise round in which you can’t act. Drawing these weapons does not take an action.
 

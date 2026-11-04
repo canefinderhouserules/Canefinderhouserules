@@ -4,7 +4,7 @@
 
 You can make multiple called shots where others could land but one.
 
-**Prerequisites**: Improved Called Shot, base attack bonus +6.
+**Prerequisites**: [Improved Called Shot](improved-called-shot.md), base attack bonus +6.
 
 **Benefit**: Whenever you make an attack, you can choose to replace that attack with a called shot. You can make multiple called shots in a single round. Each additional called shot after the first made in the same round takes a –5 penalty. In addition, a called shot that deals half the creature’s hit points of damage (minimum 40) is a debilitating blow.
 

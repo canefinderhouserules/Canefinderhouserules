@@ -4,7 +4,7 @@
 
 You use the urban environment to your advantage, thrashing and bashing your foe and driving it back.
 
-**Prerequisites**: Str 15, Improved Bull Rush, Improved Unarmed Strike, Power Attack, base attack bonus +4 or monk level 3rd.
+**Prerequisites**: Str 15, [Improved Bull Rush](improved-bull-rush.md), [Improved Unarmed Strike](improved-unarmed-strike.md), [Power Attack](power-attack.md), base attack bonus +4 or monk level 3rd.
 
 **Benefit**: While using this style, once per round as a swift action when you hit a target with an unarmed strike, you can deal an extra 1d6 points of damage and attempt a bull rush combat maneuver against that target.
 

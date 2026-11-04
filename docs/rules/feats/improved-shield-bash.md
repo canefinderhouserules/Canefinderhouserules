@@ -4,7 +4,7 @@
 
 You can protect yourself with your shield, even if you use it to attack.
 
-**Prerequisite**: Shield Proficiency.
+**Prerequisite**: [Shield Proficiency](shield-proficiency.md).
 
 **Benefit**: When you perform a shield bash, you may still apply the shield’s shield bonus to your AC.
 

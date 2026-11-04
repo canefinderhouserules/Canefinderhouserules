@@ -112,7 +112,7 @@ At 3rd level, a fighter gains a +1 bonus on attack and damage rolls with all wea
 
 At 4th level, and every 2 levels thereafter (6th, 8th, and so on), a fighter can choose to learn a new combat feat in place of either a fighter bonus feat or a combat feat gained from character advancement. The fighter can choose to either lose this feat in exchange for the new one or to convert the old feat into a latent feat (see below).
 
-If the old feat was a prerequisite for another feat, prestige class, or other ability that the fighter possesses then he must still meet these prerequisites after retraining. A fighter can gain any feat he qualifies for at the time he retrains. He isn’t limited to the feat choices he qualified for when he first gained the feat. For example, a fighter who chooses Cleave as his 1st level bonus feat can then retrain this bonus feat into the Vital Strike feat (which has a prerequisite of +6 BAB) at 6th level, even though he did not qualify for Vital Strike at 1st level. A fighter can only change one feat at any given level and must choose whether or not to swap the feat at the time he gains the new level.
+If the old feat was a prerequisite for another feat, prestige class, or other ability that the fighter possesses then he must still meet these prerequisites after retraining. A fighter can gain any feat he qualifies for at the time he retrains. He isn’t limited to the feat choices he qualified for when he first gained the feat. For example, a fighter who chooses Cleave as his 1st level bonus feat can then retrain this bonus feat into the [Vital Strike](../../../rules/feats/vital-strike.md) feat (which has a prerequisite of +6 BAB) at 6th level, even though he did not qualify for Vital Strike at 1st level. A fighter can only change one feat at any given level and must choose whether or not to swap the feat at the time he gains the new level.
 
 #### Latent Feats (Ex)
 
@@ -126,9 +126,9 @@ A complete list of prowess options can be found above.
 
 #### Rapid Attack (Ex)
 
-At 11th level when making a full attack, a fighter can move up to his speed either before or after his attacks. He can also combine a full attack with a charge as a full-round action, as long as he only moves a distance less than or equal to his speed. In either case, his movement provokes attacks of opportunity as normal. When attacking in this way, the fighter must forgo one attack of his choice (usually the one at his lowest bonus) and all attacks after the first take a –2 penalty on the attack roll. When using this ability, if the fighter also has the Spring Attack feat, he can make melee attacks before, after, and at any point during his movement and the fighter can designate one opponent that his movement this turn does not provoke attacks of opportunity from.
+At 11th level when making a full attack, a fighter can move up to his speed either before or after his attacks. He can also combine a full attack with a charge as a full-round action, as long as he only moves a distance less than or equal to his speed. In either case, his movement provokes attacks of opportunity as normal. When attacking in this way, the fighter must forgo one attack of his choice (usually the one at his lowest bonus) and all attacks after the first take a –2 penalty on the attack roll. When using this ability, if the fighter also has the [Spring Attack](../../../rules/feats/spring-attack.md) feat, he can make melee attacks before, after, and at any point during his movement and the fighter can designate one opponent that his movement this turn does not provoke attacks of opportunity from.
 
-When using this ability, if the fighter has the Shot on the Run feat, he can take make ranged attacks before, after, and at any point during his movement.
+When using this ability, if the fighter has the [Shot on the Run](../../../rules/feats/shot-on-the-run.md) feat, he can take make ranged attacks before, after, and at any point during his movement.
 
 #### Weapon Unity (Ex)
 

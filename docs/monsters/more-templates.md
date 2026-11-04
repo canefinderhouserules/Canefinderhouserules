@@ -730,9 +730,7 @@ For the purpose of calculating the save DCs and damage for her kineticist abilit
 | 4–6 | *fly* (3/day), *tree shape* |
 | 7–9 | *charm monster*,* hallucinatory terrain* |
 | 10–13 | *polymorph* (3/day), *summon nature’s ally IV* |
-| 14–16 |
-
-*feeblemind*,* transport via plants*
+| 14–16 | *feeblemind*,* transport via plants* |
 | 17 or higher | *mass charm monster*,* summon nature’s ally VIII* |
 
 **Abilities**: Dex +4, Int +10 (to a maximum score of 12), Wis +2, Cha +4.

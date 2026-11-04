@@ -4,7 +4,7 @@
 
 You keep moving as your foes fall.
 
-**Prerequisites**: Cleaving Finish, base attack bonus +6.
+**Prerequisites**: [Cleaving Finish](cleaving-finish.md), base attack bonus +6.
 
 **Benefit**: When you trigger the effects of Cleaving Finish, you can take a 5-foot move before making the new attack.
 

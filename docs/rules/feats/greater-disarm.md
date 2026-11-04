@@ -4,7 +4,7 @@
 
 You can knock weapons far from an enemy’s grasp.
 
-**Prerequisites**: Deft Maneuvers, Improved Disarm, base attack bonus +6.
+**Prerequisites**: [Deft Maneuvers](deft-maneuvers.md), [Improved Disarm](improved-disarm.md), base attack bonus +6.
 
 **Benefit**: You receive a +2 bonus on checks made to disarm a foe. This bonus stacks with the bonus granted by Improved Disarm. Whenever you successfully disarm an opponent, the weapon lands 15 feet away from its previous wielder, in a random direction.
 

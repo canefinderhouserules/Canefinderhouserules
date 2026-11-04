@@ -4,7 +4,7 @@
 
 You can strike many adjacent foes with a single blow.
 
-**Prerequisites**: Cleave, base attack bonus +4.
+**Prerequisites**: [Cleave](cleave.md), base attack bonus +4.
 
 **Benefit**: Using Cleave no longer gives you a –2 penalty to AC.
 

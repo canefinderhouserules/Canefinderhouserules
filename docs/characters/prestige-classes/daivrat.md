@@ -65,7 +65,7 @@ All of the following are class features of the daivrat prestige class.
 
 **Spell Focus**: At 1st level, a daivrat gains Spell Focus (conjuration) as a bonus feat.
 
-**Elemental Focus (Su)**: At 1st level, the daivrat gains a measure of connection with elemental powers. Choose one of the following descriptors: acid, air, cold, earth, electricity, fire, or water. When casting spells of the chosen descriptor, the daivrat is considered to possess the Spell Focus feat for that spell. Only one Spell Focus or Greater Spell Focus applies to the casting of a spell.
+**Elemental Focus (Su)**: At 1st level, the daivrat gains a measure of connection with elemental powers. Choose one of the following descriptors: acid, air, cold, earth, electricity, fire, or water. When casting spells of the chosen descriptor, the daivrat is considered to possess the Spell Focus feat for that spell. Only one Spell Focus or [Greater Spell Focus](../../rules/feats/greater-spell-focus.md) applies to the casting of a spell.
 
 **Genie-Tongue**: A daivrat is well-versed in communicating with genies and genie-kin. A daivrat gains a +2 bonus on Charisma-based checks to influence the attitudes of genies and allies of genies, and a +4 bonus on Knowledge checks regarding genies.
 
@@ -83,7 +83,7 @@ At 2nd level, the genie can retrieve any spell of 3rd level or lower. At 5th lev
 
 **Elemental Attunement (Ex)**: At 4th level, the daivrat gains energy resistance 5 against acid, cold, electricity, or fire.
 
-**Zhyen Familiar**: At 6th level, a daivrat can select a zhyen to serve as his familiar, replacing any familiar he already possesses, as if he had the Improved Familiar feat. A zhyen is a Tiny minor genie (CR 1/2 neutral outsider with the air, earth, fire, or water subtype) that serves as a messenger and servant to greater beings; it appears as a miniature djinni from the waist up, its lower half trailing away into mist, water, flame, or stone. It flies (30 feet, perfect), has resistance 5 to acid, cold, electricity, and fire, makes a melee touch attack that deals 1d4 points of energy damage, and can use *mage hand* and *mending* at will and *endure elements* and *touch of fatigue* once per day. Zhyens can also be summoned with *summon monster II*.
+**Zhyen Familiar**: At 6th level, a daivrat can select a zhyen to serve as his familiar, replacing any familiar he already possesses, as if he had the [Improved Familiar](../../rules/feats/improved-familiar.md) feat. A zhyen is a Tiny minor genie (CR 1/2 neutral outsider with the air, earth, fire, or water subtype) that serves as a messenger and servant to greater beings; it appears as a miniature djinni from the waist up, its lower half trailing away into mist, water, flame, or stone. It flies (30 feet, perfect), has resistance 5 to acid, cold, electricity, and fire, makes a melee touch attack that deals 1d4 points of energy damage, and can use [*mage hand*](../../magic/spells/mage-hand.md) and [*mending*](../../magic/spells/mending.md) at will and [*endure elements*](../../magic/spells/endure-elements.md) and [*touch of fatigue*](../../magic/spells/touch-of-fatigue.md) once per day. Zhyens can also be summoned with *summon monster II*.
 
 **Greater Elemental Focus (Su)**: At 7th level, the daivrat’s connection with his chosen element deepens. When casting spells with the descriptor chosen for his elemental focus ability, the daivrat is now considered to possess the Greater Spell Focus feat. Only one Spell Focus or Greater Spell Focus applies to the casting of a spell.
 

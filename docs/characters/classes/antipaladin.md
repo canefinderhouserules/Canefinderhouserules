@@ -69,7 +69,7 @@ Each day he can use this ability a number of times equal to 1/2 his antipaladin 
 
 Using this ability is a standard action that does not provoke attacks of opportunity.
 
-Alternatively, an antipaladin can use this power to heal undead creatures, restoring 1d6 hit points for every two levels the antipaladin possesses. This ability is modified by any feat, spell, or effect that specifically works with the lay on hands paladin class feature. For example, the Extra Lay On Hands feat grants an antipaladin 2 additional uses of the touch of corruption class feature.
+Alternatively, an antipaladin can use this power to heal undead creatures, restoring 1d6 hit points for every two levels the antipaladin possesses. This ability is modified by any feat, spell, or effect that specifically works with the lay on hands paladin class feature. For example, the [Extra Lay On Hands](../../rules/feats/extra-lay-on-hands.md) feat grants an antipaladin 2 additional uses of the touch of corruption class feature.
 
 **Aura of Cowardice (Su)**: At 3rd level, an antipaladin radiates a palpably daunting aura that causes all enemies within 10 feet to take a –4 penalty on saving throws against fear effects. Creatures that are normally immune to fear lose that immunity while within 10 feet of an antipaladin with this ability. This ability functions only while the antipaladin remains conscious, not if he is unconscious or dead.
 

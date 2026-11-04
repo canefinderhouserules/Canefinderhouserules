@@ -22,7 +22,7 @@ At 11th level, he may also choose from the following combat maneuvers: bull rush
 
 **Volley (Ex)**: At 17th level, as a full-round action, an archer can make a single bow attack at his highest base attack bonus against any number of creatures in a 15-foot-radius burst, making separate attack and damage rolls for each creature. This ability replaces weapon training 4.
 
-**Ranged Defense (Ex)**: At 19th level, an archer gains DR 5/— against ranged attacks. In addition, as an immediate action, he can catch an arrow fired at him and shoot it any target he chooses, as if he had the Snatch Arrows feat. This ability replaces armor mastery.
+**Ranged Defense (Ex)**: At 19th level, an archer gains DR 5/— against ranged attacks. In addition, as an immediate action, he can catch an arrow fired at him and shoot it any target he chooses, as if he had the [Snatch Arrows](../../rules/feats/snatch-arrows.md) feat. This ability replaces armor mastery.
 
 **Weapon Mastery (Ex)**: An archer must choose a type of bow.
 
@@ -44,7 +44,7 @@ This bonus increases by +1 per four levels after 5th. This ability replaces weap
 
 **Safe Shot (Ex)**: At 13th level, a crossbowman does not provoke attacks of opportunity when making ranged attacks with a crossbow. This ability replaces weapon training 3.
 
-**Pinpoint Targeting**: At 15th level, a crossbowman gains Pinpoint Targeting as a bonus feat. This ability replaces armor training 4.
+**Pinpoint Targeting**: At 15th level, a crossbowman gains [Pinpoint Targeting](../../rules/feats/pinpoint-targeting.md) as a bonus feat. This ability replaces armor training 4.
 
 **Meteor Shot (Ex)**: At 17th level, as a standard action, a crossbowman can make one attack with a crossbow at a –4 penalty. If the attack hits, it inflicts damage normally and the target is subject to a bull rush or a trip maneuver using the attack roll as the combat maneuver check. The crossbowman must decide which maneuver to attempt before making his attack roll. This ability replaces weapon training 4.
 
@@ -86,7 +86,7 @@ This ability replaces armor training 3.
 
 **Fleet Footed (Ex)**: At 15th level, the mobile fighter’s speed increases by 10 feet. He can take 10 on Acrobatics checks even while distracted or threatened, and can take 20 on an Acrobatics check once per day for every five fighter levels he possesses. This ability replaces armor training 4.
 
-**Whirlwind Blitz (Ex)**: At 20th level, a mobile fighter can make a full-attack action as a standard action. He may also use the Whirlwind Attack feat as a standard action. This ability replaces weapon mastery.
+**Whirlwind Blitz (Ex)**: At 20th level, a mobile fighter can make a full-attack action as a standard action. He may also use the [Whirlwind Attack](../../rules/feats/whirlwind-attack.md) feat as a standard action. This ability replaces weapon mastery.
 
 ## Phalanx Soldier
 
@@ -172,7 +172,7 @@ Warriors’ might is not measured only by their skill with steel, but also by th
 
 A shielded fighter focuses on both offense and defense, blending weapon and shield in perfect balance to impede his enemies while delivering deadly blows, and even turning the shield itself into a formidable weapon. These fighting school benefits apply when wielding a weapon and a shield simultaneously.
 
-**Active Defense (Ex)**: At 3rd level, a shielded fighter gains a +1 dodge bonus to AC when wielding a shield and fighting defensively, using Combat Expertise, or using total defense. This bonus increases by +1 for every four levels beyond 3rd. As a swift action, he may share this bonus with one adjacent ally, or half of the bonus (minimum +0) with all adjacent allies, until the beginning of his next turn. This ability replaces armor training 1, 2, 3, and 4.
+**Active Defense (Ex)**: At 3rd level, a shielded fighter gains a +1 dodge bonus to AC when wielding a shield and fighting defensively, using [Combat Expertise](../../rules/feats/combat-expertise.md), or using total defense. This bonus increases by +1 for every four levels beyond 3rd. As a swift action, he may share this bonus with one adjacent ally, or half of the bonus (minimum +0) with all adjacent allies, until the beginning of his next turn. This ability replaces armor training 1, 2, 3, and 4.
 
 **Shield Fighter (Ex)**: At 5th level, a shielded fighter gains a +1 bonus on attack and damage rolls when making a shield bash. These bonuses increase by +1 every four levels beyond 5th. With a full attack action, a shielded fighter may alternate between using his weapon or his shield for each attack. This action does not grant additional attacks or incur penalties as two-weapon fighting does. This ability replaces weapon training 1.
 
@@ -200,7 +200,7 @@ Some fighters focus their efforts on finding the biggest, heaviest, most imposin
 
 **Piledriver (Ex)**: At 11th level, as a standard action, a two-handed fighter can make a single melee attack with a two-handed weapon. If the attack hits, he may make a bull rush or trip combat maneuver against the target of his attack as a free action that does not provoke an attack of opportunity. This ability replaces armor training 3.
 
-**Greater Power Attack (Ex)**: At 15th level, when using Power Attack with a two-handed melee weapon, the bonus damage from Power Attack is doubled (+100%) instead of increased by half (+50%). This ability replaces armor training 4.
+**Greater Power Attack (Ex)**: At 15th level, when using [Power Attack](../../rules/feats/power-attack.md) with a two-handed melee weapon, the bonus damage from Power Attack is doubled (+100%) instead of increased by half (+50%). This ability replaces armor training 4.
 
 **Devastating Blow (Ex)**: At 19th level, as a standard action, a two-handed fighter may make a single melee attack with a two-handed weapon at a –5 penalty. If the attack hits, it is treated as a critical threat. Special weapon abilities that activate only on a critical hit do not activate if this critical hit is confirmed. This ability replaces armor mastery.
 
@@ -250,7 +250,7 @@ There are those who learn the fighting arts though countless hours of repetition
 
 **Martial Flexibility (Ex)**: At 5th level, the martial master can use a move action to gain the benefit of a combat feat he doesn't possess. This effect lasts for 1 minute. The martial master must otherwise meet all the feat's prerequisites. He can use this ability a number of times per day equal to 3 + 1/2 his fighter level.
 
-The martial master can use this ability again before the duration expires in order to replace the previous combat feat with another choice. If a combat feat has a daily use limitation (such as Stunning Fist), any uses of that combat feat while using this ability count toward that feat's daily limit. At later levels, when he gains multiple feats through this ability, the martial master can use those feats to meet the prerequisites of other feats he gains with this ability. Doing so means he cannot replace a feat currently fulfilling another's prerequisite without also replacing those feats that require it. Each individual feat selected counts toward his daily uses of this ability.
+The martial master can use this ability again before the duration expires in order to replace the previous combat feat with another choice. If a combat feat has a daily use limitation (such as [Stunning Fist](../../rules/feats/stunning-fist.md)), any uses of that combat feat while using this ability count toward that feat's daily limit. At later levels, when he gains multiple feats through this ability, the martial master can use those feats to meet the prerequisites of other feats he gains with this ability. Doing so means he cannot replace a feat currently fulfilling another's prerequisite without also replacing those feats that require it. Each individual feat selected counts toward his daily uses of this ability.
 
 At 9th level, a martial master can use this ability to gain the benefit of two combat feats at the same time. He can select one feat as a swift action or two feats as a move action.
 
@@ -339,7 +339,7 @@ All melee is up close and personal, but some warriors bring it as close as they 
 
 **No Escape (Ex)**: At 9th level, taking a 5-foot step out of the area of a brawler’s menacing stance or moving out of the area of a brawler’s menacing stance with a withdraw action provokes an attack of opportunity from the brawler. This ability replaces weapon training 3 and 4.
 
-**Stand Still**: At 13th level, a brawler gains Stand Still as a bonus feat, even if he does not have the Combat Reflexes feat. If the brawler already has the Stand Still feat, he can take any other combat feat instead. Furthermore, he gains a bonus equal to 1/2 his fighter level on combat maneuver checks when using the Stand Still feat.
+**Stand Still**: At 13th level, a brawler gains [Stand Still](../../rules/feats/stand-still.md) as a bonus feat, even if he does not have the [Combat Reflexes](../../rules/feats/combat-reflexes.md) feat. If the brawler already has the Stand Still feat, he can take any other combat feat instead. Furthermore, he gains a bonus equal to 1/2 his fighter level on combat maneuver checks when using the Stand Still feat.
 
 **Weapon Mastery (Ex)**: A brawler must select a close weapon for this ability.
 
@@ -353,7 +353,7 @@ In combat, most fighters have some sort of code of honor. Some believe that one 
 
 **Dirty Maneuvers (Ex)**: At 2nd level, a cad becomes skilled at deceiving and discomfiting his opponents. The cad gains a +1 bonus on disarm, dirty trick, and steal combat maneuver checks. The cad also gains a +1 bonus to CMD when attacked with the disarm, dirty trick, and steal combat maneuvers. These bonuses increase by 1 for every four levels after 2nd (to a maximum of +5 at 18th level). This ability replaces bravery.
 
-**Catch Off-Guard**: At 3rd level, the cad gains the Catch Off-Guard feat. This ability replaces armor training 1.
+**Catch Off-Guard**: At 3rd level, the cad gains the [Catch Off-Guard](../../rules/feats/catch-off-guard.md) feat. This ability replaces armor training 1.
 
 **Payback (Ex)**: At 5th level, a cad gains a +1 bonus on attack and damage rolls against any creature that has attacked the cad since the beginning of his last turn. This bonus increases by +1 for every four levels beyond 5th (to a maximum of +4 at 17th level). This ability replaces weapon training 1, 3, and 4.
 
@@ -377,7 +377,7 @@ These gallant lancers serve in the vanguard of many armies or as knights-errant.
 
 **Weapon and Armor Proficiency**: A dragoon is not proficient with tower shields.
 
-**Skilled Rider (Ex)**: At 1st level, a dragoon gains both the Mounted Combat and Skill Focus (Ride) feats as bonus feats. This ability replaces the 1st-level fighter bonus combat feat.
+**Skilled Rider (Ex)**: At 1st level, a dragoon gains both the [Mounted Combat](../../rules/feats/mounted-combat.md) and Skill Focus (Ride) feats as bonus feats. This ability replaces the 1st-level fighter bonus combat feat.
 
 **Spear Training (Ex)**: At 5th level, a dragoon must select weapon training with the spear group. The dragoon’s weapon training bonus with spears improves by +1 on attack rolls and +2 on damage rolls for every four levels beyond 5th (to a maximum of +4 on attack rolls and +8 on damage rolls at 17th level). The dragoon does not gain weapon training in any other groups as he increases in level.
 
@@ -397,7 +397,7 @@ Most fighters battle out of necessity, with each battle a contest of life and de
 
 **Skills**: A gladiator gains Perform (act, comedy, and dance) (Cha) as class skills.
 
-**Weapon and Armor Proficiency**: A gladiator is not proficient with heavy armor or tower shields. Instead he gains the Performance Weapon Mastery feat at 1st level as a bonus feat. This bonus feat is in addition to the bonus feat a fighter gains at 1st level. Furthermore, a gladiator using piecemeal armor is considered to be wearing a suit of armor as long as he wearing two or three armor pieces, gaining the +1 to armor bonus but still taking the +5% chance of arcane spell failure if the pieces are mixed.
+**Weapon and Armor Proficiency**: A gladiator is not proficient with heavy armor or tower shields. Instead he gains the [Performance Weapon Mastery](../../rules/feats/performance-weapon-mastery.md) feat at 1st level as a bonus feat. This bonus feat is in addition to the bonus feat a fighter gains at 1st level. Furthermore, a gladiator using piecemeal armor is considered to be wearing a suit of armor as long as he wearing two or three armor pieces, gaining the +1 to armor bonus but still taking the +5% chance of arcane spell failure if the pieces are mixed.
 
 **Bonus Feats**: A gladiator may choose to take combat or performance feats as bonus feats.
 
@@ -463,7 +463,7 @@ Not all fighters need weapons to make their mark on the world. The unarmed fight
 
 **Weapon and Armor Proficiency**: An unarmed fighter is not proficient with medium armor, heavy armor, or shields. An unarmed fighter is proficient with all monk weapons, including exotic monk weapons.
 
-**Unarmed Style**: At 1st level, a unarmed fighter gains the Improved Unarmed Strike feat and any single style feat (see Chapter 3) as a bonus feat. The unarmed fighter need not meet all the prerequisites of the style feat he chooses, but style feats that grant additional uses of the Elemental Fist feat cannot be taken until the unarmed fighter has that feat. This ability replaces the bonus feat at 1st level.
+**Unarmed Style**: At 1st level, a unarmed fighter gains the [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) feat and any single style feat (see Chapter 3) as a bonus feat. The unarmed fighter need not meet all the prerequisites of the style feat he chooses, but style feats that grant additional uses of the [Elemental Fist](../../rules/feats/elemental-fist.md) feat cannot be taken until the unarmed fighter has that feat. This ability replaces the bonus feat at 1st level.
 
 **Harsh Training (Ex)**: At 2nd level, an unarmed fighter gains a +1 bonus on saving throws against effects that cause the exhausted, fatigued, or staggered conditions or temporary penalties to ability scores. This bonus increases by +1 for every four levels after 2nd (to a maximum of +5 at 18th level). This ability replaces bravery.
 
@@ -471,7 +471,7 @@ Not all fighters need weapons to make their mark on the world. The unarmed fight
 
 **Weapon Training (Ex)**: At 5th level, an unarmed fighter gains a +1 bonus on attack and damage rolls with weapons in the monk and natural weapon groups, improving by +1 for every four levels beyond 5th (to a maximum of +4 at 17th level). This ability replaces weapon training 1, 2, 3, and 4.
 
-**Clever Wrestler (Ex)**: At 7th level, an unarmed fighter takes no penalties to Dexterity or on attack rolls while grappled, and retains his Dexterity bonus to AC while pinning an opponent. The unarmed fighter can make attacks of opportunity even when grappled and even against creatures attempting to grapple him if the opponent has the Improved Grapple feat or the grab ability. This ability replaces armor training 2.
+**Clever Wrestler (Ex)**: At 7th level, an unarmed fighter takes no penalties to Dexterity or on attack rolls while grappled, and retains his Dexterity bonus to AC while pinning an opponent. The unarmed fighter can make attacks of opportunity even when grappled and even against creatures attempting to grapple him if the opponent has the [Improved Grapple](../../rules/feats/improved-grapple.md) feat or the grab ability. This ability replaces armor training 2.
 
 **Trick Throw (Ex)**: At 8th level, when an unarmed fighter successfully trips an opponent with an unarmed attack, he can attempt a dirty trick combat maneuver against that creature (before the opponent becomes prone) as an immediate action that does not provoke attacks of opportunity. This ability replaces the 8th-level bonus feat.
 
@@ -495,9 +495,9 @@ The unbreakable is a warrior of indomitable will, unstoppable and implacable onc
 
 **Unflinching (Ex)**: At 2nd level, an unbreakable gains a +1 bonus on Will saves against mind-affecting effects. This bonus increases by +1 for every four levels after 2nd level (to a maximum of +5 at 18th level). This ability replaces bravery.
 
-**Heroic Recovery (Ex)**: At 5th level, an unbreakable gains the Heroic Recovery feat as a bonus feat, if he does not have it already. If he already has this feat, the unbreakable can choose any combat feat instead. In addition, he may use this feat one additional time per day for every four levels after 5th (to a maximum of 4 times per day at 17th level). This ability replaces weapon training 1.
+**Heroic Recovery (Ex)**: At 5th level, an unbreakable gains the [Heroic Recovery](../../rules/feats/heroic-recovery.md) feat as a bonus feat, if he does not have it already. If he already has this feat, the unbreakable can choose any combat feat instead. In addition, he may use this feat one additional time per day for every four levels after 5th (to a maximum of 4 times per day at 17th level). This ability replaces weapon training 1.
 
-**Heroic Defiance (Ex)**: At 9th level, an unbreakable gains the Heroic Defiance feat as a bonus feat, if he does not have it already. If he already has this feat, the unbreakable can choose any combat feat instead. In addition, he may use this feat one additional time per day for every four levels after 9th (to a maximum of 3 times per day at 19th level). This ability replaces weapon training 2.
+**Heroic Defiance (Ex)**: At 9th level, an unbreakable gains the [Heroic Defiance](../../rules/feats/heroic-defiance.md) feat as a bonus feat, if he does not have it already. If he already has this feat, the unbreakable can choose any combat feat instead. In addition, he may use this feat one additional time per day for every four levels after 9th (to a maximum of 3 times per day at 19th level). This ability replaces weapon training 2.
 
 **Quick Recovery (Ex)**: At 11th level, an unbreakable needs only 15 minutes of rest or to be subject to a healing spell or effect to recover from the fatigued condition. This ability replaces armor training 3.
 
@@ -543,7 +543,7 @@ A tribal fighter knows that it is not the weapon that matters but the hand that 
 
 **Battle Focus (Ex)**: A tribal fighter learns to fight with his bare hands and wield traditional tribal weapons so effortlessly that they are almost extensions of his arms. He gains Improved Unarmed Strike as a bonus feat. For the purpose of meeting the prerequisites of style feats and feats that have style feats as prerequisites, the tribal fighter counts as having a number of skill ranks equal to his fighter level in all skills in which he is trained. This replaces the fighter feat gained at 1st level.
 
-**Tribal Weapon Training (Ex)**: At 5th level, when a tribal fighter gains the weapon training ability, he must choose the tribal weapon group and doesn’t later gain additional weapon groups, though the weapon training bonus for tribal weapons still improves at 9th level and every 4 levels thereafter. Additionally, if the tribal fighter has combat feats that apply to a specific weapon type (such as Improved Critical or Weapon Focus) and he has selected a weapon that belongs to the tribal weapon group, he can apply the benefits of that feat to all weapons that belong to the tribal weapon group that would legally apply (for instance, a feat that applies only to throwing weapons wouldn’t apply to greatclubs). This benefit applies only to feats selected as fighter bonus feats. This alters weapon training.
+**Tribal Weapon Training (Ex)**: At 5th level, when a tribal fighter gains the weapon training ability, he must choose the tribal weapon group and doesn’t later gain additional weapon groups, though the weapon training bonus for tribal weapons still improves at 9th level and every 4 levels thereafter. Additionally, if the tribal fighter has combat feats that apply to a specific weapon type (such as [Improved Critical](../../rules/feats/improved-critical.md) or Weapon Focus) and he has selected a weapon that belongs to the tribal weapon group, he can apply the benefits of that feat to all weapons that belong to the tribal weapon group that would legally apply (for instance, a feat that applies only to throwing weapons wouldn’t apply to greatclubs). This benefit applies only to feats selected as fighter bonus feats. This alters weapon training.
 
 ## Viking
 
@@ -567,7 +567,7 @@ Perfectly at home in the darkness, the cavern sniper capitalizes on stealth and 
 
 **Class Skills**: The cavern sniper adds Stealth to his list of class skills and removes Intimidate from his list of class skills.
 
-**Imbued Shot (Su)**: At 1st level, the cavern sniper gains the ability to imbue his arrows or bolts with the effect of one of his drow *faerie fire*, *darkness*, or *deeper darkness* spell-like abilities (provided he has access to the ability) as a swift action. When such an arrow or bolt is fired, the spell’s area is centered where the arrow or bolt lands. If the target of the attack has a space larger than 5 feet, the cavern sniper can choose which square of the creature’s space is the center of the spell-like ability’s effect, as long as that square is within line of sight of the cavern sniper. The cavern sniper can instead choose to target a single square within line of sight with an imbued arrow or bolt, and uses that square as the center of the spell-like ability’s area of effect on a hit (AC 5). The arrow must be fired during the round it was imbued, or the spell-like ability is wasted. If the arrow or bolt misses, the use of the spell-like ability is wasted. This ability replaces the 1st-level fighter bonus feat.
+**Imbued Shot (Su)**: At 1st level, the cavern sniper gains the ability to imbue his arrows or bolts with the effect of one of his drow [*faerie fire*](../../magic/spells/faerie-fire.md), [*darkness*](../../magic/spells/darkness.md), or [*deeper darkness*](../../magic/spells/deeper-darkness.md) spell-like abilities (provided he has access to the ability) as a swift action. When such an arrow or bolt is fired, the spell’s area is centered where the arrow or bolt lands. If the target of the attack has a space larger than 5 feet, the cavern sniper can choose which square of the creature’s space is the center of the spell-like ability’s effect, as long as that square is within line of sight of the cavern sniper. The cavern sniper can instead choose to target a single square within line of sight with an imbued arrow or bolt, and uses that square as the center of the spell-like ability’s area of effect on a hit (AC 5). The arrow must be fired during the round it was imbued, or the spell-like ability is wasted. If the arrow or bolt misses, the use of the spell-like ability is wasted. This ability replaces the 1st-level fighter bonus feat.
 
 **Silent Shooter (Ex)**: At 2nd level, a cavern sniper gains a +2 bonus on Stealth checks made when loading a bow or crossbow, poisoning ammunition, and making sniping attempts. This bonus increases by +2 for every four levels beyond 2nd. This ability replaces bravery.
 
@@ -697,7 +697,7 @@ This ability replaces armor training 1 through 4, but counts as armor training f
 
 The siegebreaker is trained to break through lines of enemy soldiers.
 
-**Breaker Rush (Ex)**: At 1st level, a siegebreaker can attempt bull rush or overrun combat maneuvers without provoking attacks of opportunity. When he performs either combat maneuver, he deals an amount of bludgeoning damage equal to his Strength bonus (minimum 1). If he has Improved Bull Rush or Improved Overrun, the damage dealt by the appropriate maneuver increases by 2 and he adds any enhancement bonus from his armor or shield (though such enhancement bonuses do not stack, if both armor and shield are magic). This ability replaces the feat gained at 1st level.
+**Breaker Rush (Ex)**: At 1st level, a siegebreaker can attempt bull rush or overrun combat maneuvers without provoking attacks of opportunity. When he performs either combat maneuver, he deals an amount of bludgeoning damage equal to his Strength bonus (minimum 1). If he has [Improved Bull Rush](../../rules/feats/improved-bull-rush.md) or [Improved Overrun](../../rules/feats/improved-overrun.md), the damage dealt by the appropriate maneuver increases by 2 and he adds any enhancement bonus from his armor or shield (though such enhancement bonuses do not stack, if both armor and shield are magic). This ability replaces the feat gained at 1st level.
 
 **Armored Vigor (Ex)**: At 2nd level as a swift action, a siegebreaker can gain 2 temporary hit points that last for 1 minute. He can use this ability a number of times per day equal to 3 + his Constitution modifier (minimum 1 per day), but only while wearing armor. At 6th level and every 4 levels thereafter, the number of temporary hit points the siegebreaker gains increases by 2, to a maximum of 10 at 18th level. This ability replaces bravery.
 
@@ -713,7 +713,7 @@ The siegebreaker is trained to break through lines of enemy soldiers.
 
 Elite mercenary soldiers are never a standing army, but gold buys loyalty, and the wealthy pay best of all. As a result, these soldiers are well equipped and dedicate themselves to training in small-unit tactics, quickly communicating strategies and tricks to handle any threat to their charges.
 
-**Bonus Feats**: In addition to combat feats, a contract soldier can choose Improved Iron Will, Iron Will, or any teamwork feat as bonus feats.
+**Bonus Feats**: In addition to combat feats, a contract soldier can choose [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Iron Will](../../rules/feats/iron-will.md), or any teamwork feat as bonus feats.
 
 **Well-Paid Loyalty (Ex)**: At 2nd level, a contract soldier gains a +1 bonus on Will saves against compulsion spells, spell-like abilities, and effects. This bonus increases by 1 for every 4 levels the contract soldier possesses beyond 2nd. This ability replaces bravery.
 
@@ -755,7 +755,7 @@ Some academies develop a reputation for churning out fearsome duelists. At the e
 
 **Duelist Training (Ex)**: At 5th level, a academy duelist must select the light blades group for the weapon training class feature. The duelist's weapon training bonus with light blades increases by 1 on attack and damage rolls for every 4 levels he possesses beyond 5th (to a maximum of +4 on attack and damage rolls at 17th level). If he is using his duelist stance, this damage bonus increases by 2. The duelist does not gain weapon training in any other groups as he increases in level. This ability replaces weapon training 1.
 
-**Academy Thrust (Ex)**: At 9th level, when using Vital Strike, Improved Vital Strike, or Greater Vital Strike, a academy duelist adds his Intelligence modifier to damage rolls (this bonus to damage is not multiplied on a critical hit). If the duelist confirms a critical hit while using one of these feats, he automatically deals maximum damage. This ability replaces weapon training 2.
+**Academy Thrust (Ex)**: At 9th level, when using [Vital Strike](../../rules/feats/vital-strike.md), [Improved Vital Strike](../../rules/feats/improved-vital-strike.md), or [Greater Vital Strike](../../rules/feats/greater-vital-strike.md), a academy duelist adds his Intelligence modifier to damage rolls (this bonus to damage is not multiplied on a critical hit). If the duelist confirms a critical hit while using one of these feats, he automatically deals maximum damage. This ability replaces weapon training 2.
 
 **Science of the Blade (Ex)**: At 13th level, a academy duelist is able to apply his specialized knowledge of anatomy and physiology to his bladework. The duelist can make dirty trick, disarm, and trip combat maneuvers using any one-handed piercing or slashing weapon. This ability replaces weapon training 3.
 
@@ -767,7 +767,7 @@ Sword duelists are among the deadliest and most feared fighters. They have spent
 
 The following benefits apply only when a sword duelist defender is wielding a dueling sword and carrying nothing in his other hand. A sword duelist defender fights with his sword wielded with both hands only in moments of desperation.
 
-**Suggested Feats**: Although this archetype replaces some of the bonus feats that a fighter would normally have access to, sword duelist defenders still have several opportunities to gain feats. The following feats are the most thematically appropriate, but the archetype does not require any of them: Combat Expertise, Dazzling Display, Duelist Mastery, Exotic Weapon Proficiency (dueling sword), Improved Disarm, Improved Feint, Improved Initiative, Lunge, Quick Draw, Weapon Finesse, Weapon Focus (dueling sword), Weapon Specialization (dueling sword).
+**Suggested Feats**: Although this archetype replaces some of the bonus feats that a fighter would normally have access to, sword duelist defenders still have several opportunities to gain feats. The following feats are the most thematically appropriate, but the archetype does not require any of them: Combat Expertise, [Dazzling Display](../../rules/feats/dazzling-display.md), [Duelist Mastery](../../rules/feats/duelist-mastery.md), Exotic Weapon Proficiency (dueling sword), [Improved Disarm](../../rules/feats/improved-disarm.md), [Improved Feint](../../rules/feats/improved-feint.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Lunge, [Quick Draw](../../rules/feats/quick-draw.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), Weapon Focus (dueling sword), Weapon Specialization (dueling sword).
 
 **Defensive Parry (Ex)**: At 3rd level, when a sword duelist defender makes a full attack with a dueling sword, he gains a +1 shield bonus to his AC against melee attacks until the beginning of his next turn. This bonus increases to +2 at 7th level, +3 at 11th level, and +4 at 15th level. This ability replaces armor training.
 
@@ -856,7 +856,7 @@ The seasoned commander excels at leading troops through inspiration and the use 
 
 **Tactician (Ex)**: At 3rd level, a seasoned commander gains the cavalier's tactician class feature, treating his fighter level as his cavalier level for the purposes of this ability. This ability replaces armor training 1.
 
-**Inspiring Speech (Ex)**: At 5th level, a seasoned commander can give an inspiring speech as a standard action once per day. If he does, all allies who can hear his speech gain the benefits of inspire courage, granting bonuses 1 lower than those granted by a bard of the seasoned commander's fighter level, lasting 1 round per fighter level + his Charisma modifier (abilities that affect a bardic performance, such as Lingering Performance, have no effect on this ability). At 7th level, he can perform the speech as a move action, and at 13th level, he can perform the speech as a swift action. This ability replaces weapon training 1 and 3.
+**Inspiring Speech (Ex)**: At 5th level, a seasoned commander can give an inspiring speech as a standard action once per day. If he does, all allies who can hear his speech gain the benefits of inspire courage, granting bonuses 1 lower than those granted by a bard of the seasoned commander's fighter level, lasting 1 round per fighter level + his Charisma modifier (abilities that affect a bardic performance, such as [Lingering Performance](../../rules/feats/lingering-performance.md), have no effect on this ability). At 7th level, he can perform the speech as a move action, and at 13th level, he can perform the speech as a swift action. This ability replaces weapon training 1 and 3.
 
 **Inspire Greatness (Ex)**: At 9th level, a seasoned commander gains an additional daily use of his inspiring speech ability, and he can also choose to use his inspiring speech to grant the effects of inspire greatness to one ally (instead of inspire courage). For every 2 levels a seasoned commander attains beyond 9th, he can target one additional ally while using this ability (up to a maximum of six at 19th level). This ability functions in all other respects like the seasoned commander's inspire courage ability. Whichever inspiring speech he chooses to use, if the seasoned commander uses an inspiring speech before the duration of his previous inspiring speech ends, the new inspiring speech replaces the old speech. This ability replaces weapon training 2.
 
@@ -894,7 +894,7 @@ Drill sergeants excel at training other combatants in fighting techniques.
 
 The venomblade has learned to take full advantage of his toxic spittle, blinding his targets and then rushing in to cut them down where they stand. The venomblade is an archetype of the fighter class that is available to nagaji characters.
 
-**Venom Projection (Ex)**: The venomblade must take the Spit Venom nagaji racial feat as his 1st-level fighter bonus feat if he does not already have that ability. At 2nd level, he does not provoke an attack of opportunity for using the ability granted by the Spit Venom feat. At 4th level, he can use the ability granted by the Spit Venom feat as a standard action; at 8th level, he can use it as a move action; and at 12th level, he can use it as a swift action. This replaces bravery and alters the bonus feat gained at 1st level.
+**Venom Projection (Ex)**: The venomblade must take the [Spit Venom](../../rules/feats/spit-venom.md) nagaji racial feat as his 1st-level fighter bonus feat if he does not already have that ability. At 2nd level, he does not provoke an attack of opportunity for using the ability granted by the Spit Venom feat. At 4th level, he can use the ability granted by the Spit Venom feat as a standard action; at 8th level, he can use it as a move action; and at 12th level, he can use it as a swift action. This replaces bravery and alters the bonus feat gained at 1st level.
 
 **Sneak Attack (Ex)**: At 6th level, a venomblade deals 1d6 additional points of damage to targets within 30 feet that he flanks or that are denied their Dexterity bonus to AC against him. This damage increases by 1d6 every 4 levels beyond 6th. This replaces the bonus feat gained at 6th level.
 
@@ -910,7 +910,7 @@ The eldritch defender has trained in nearly forgotten arts of an ancient civiliz
 
 **Ancestral Lore (Ex)**: At 2nd level, an eldritch defender is further initiated into arcane secrets passed down from an ancient civilization. This gives her minor spellcasting abilities and access to lore collected to give her an edge against the enemies of humanity. The eldritch defender gains a spellbook containing 4 0-level wizard spells of her choice. She can prepare and cast these spells as a wizard, using her fighter level as her caster level. She can prepare a number of 0-level spells each day equal to 1 + 1 per 6 fighter levels. She also gains a +2 bonus on Knowledge checks relating to that ancient civilization, and on Knowledge checks to identify and learn the powers and weaknesses of aboleths, demons, serpentfolk, and undead. This ability replaces the bonus feat gained at 2nd level.
 
-**Eldritch Armor Training (Ex)**: At 3rd level, an eldritch defender gains eldritch armor training. This functions as armor training, except as a swift action she can also reduce the arcane spell failure chance due to armor she is wearing by 15% for any spells she casts this round. This reduction increases to 20% at 7th level, 25% at 11th level, and 30% at 15th level. In addition, if she has Arcane Armor Training or Arcane Armor Mastery, rather than having their normal effects, each of those feats increases the arcane spell failure reduction of her eldritch armor training by 10%. This ability modifies armor training.
+**Eldritch Armor Training (Ex)**: At 3rd level, an eldritch defender gains eldritch armor training. This functions as armor training, except as a swift action she can also reduce the arcane spell failure chance due to armor she is wearing by 15% for any spells she casts this round. This reduction increases to 20% at 7th level, 25% at 11th level, and 30% at 15th level. In addition, if she has [Arcane Armor Training](../../rules/feats/arcane-armor-training.md) or [Arcane Armor Mastery](../../rules/feats/arcane-armor-mastery.md), rather than having their normal effects, each of those feats increases the arcane spell failure reduction of her eldritch armor training by 10%. This ability modifies armor training.
 
 **Spells**: Starting at 5th level, the spellcasting ability of an eldritch defender increases to allow her to cast a limited number of spells drawn from the bloodrager spell list. She automatically adds to her spellbook a number of 1st-level bloodrager spells equal to 3 + her Intelligence modifier. Her caster level for these spells is equal to her fighter level, and the bloodrager class spell list is considered to be her class spell list for the purposes of meeting prerequisites and using magic items. She uses the ranger's spells per day, but uses her Intelligence score to determine her bonus spells and spell saving throw DCs, just as a wizard does. She does not gain any other wizard abilities, such as an arcane bond or school. Each time she attains a new fighter level, she gains one bloodrager spell of her choice to add to her spellbook. The free spells must be of spell levels she can cast. She otherwise follows the rules for a wizard regarding her spellbook and learning or preparing spells. This replaces all weapon training and the bonus feats gained at 8th, 12th, 16th, and 20th level.
 
@@ -934,7 +934,7 @@ Opportunists believe every battle is one of wits rather than arms. Enforcers who
 
 **Duplicitous (Ex)**: An opportunist adds Bluff, Sense Motive, Sleight of Hand, and Stealth to his list of class skills. He gains 2 bonus skill ranks at each level, which must be allocated among these skills. This ability replaces bravery and alters the fighter's class skills.
 
-**Underhanded (Ex)**: An opportunist gains Improved Dirty Trick as a bonus feat at 1st level even if he does not meet the prerequisites. This ability replaces the bonus feat gained at 1st level.
+**Underhanded (Ex)**: An opportunist gains [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md) as a bonus feat at 1st level even if he does not meet the prerequisites. This ability replaces the bonus feat gained at 1st level.
 
 **Cunning Edge (Ex)**: At 4th level, an opportunist can select an edge from those listed below. Every 4 levels beyond 4th, he can select one additional edge, to a maximum of five at level 20. This ability replaces the bonus feats gained at 4th, 8th, 12th, 16th, and 20th levels.
 
@@ -1002,7 +1002,7 @@ Kobolds know there's strength in numbers, and they rarely send fewer than two ko
 
 **Strike the Underbelly (Ex)**: At 9th level, creatures with which the swarm fighter shares a space are denied their Dexterity bonus to Armor Class against the swarm fighter's attacks. This ability replaces weapon training 2.
 
-**Always Underfoot (Ex)**: At 13th level, the swarm fighter gains Step Up as a bonus feat. A creature sharing a square with the swarm fighter is considered adjacent for the purposes of this feat. At 17th level, the swarm fighter gains Following Step as a bonus feat. These abilities replace weapon training 3 and 4.
+**Always Underfoot (Ex)**: At 13th level, the swarm fighter gains Step Up as a bonus feat. A creature sharing a square with the swarm fighter is considered adjacent for the purposes of this feat. At 17th level, the swarm fighter gains [Following Step](../../rules/feats/following-step.md) as a bonus feat. These abilities replace weapon training 3 and 4.
 
 **Soft Underbelly (Ex)**: At 20th level, any attacks made against creatures with which the swarm fighter shares a space automatically confirm all critical threats. This ability replaces weapon mastery.
 
@@ -1016,7 +1016,7 @@ A corsair is a pirate who focuses on shipboard combat, relying on strength of ar
 
 **Armored Pirate (Ex)**: At 3rd level, the corsair reduces the armor check penalty of any light armor he wears to 0 for purposes of Acrobatics and Swim checks. At 7th level, this becomes true of medium armor as well, and at 11th level it includes heavy armor. This ability replaces armor training.
 
-**Improved Deck Fighting (Ex)**: At 6th level, the corsair gains Great Cleave as a bonus feat, even if he does not meet the prerequisites. A corsair does not take the normal –2 penalty to AC when using Great Cleave. This ability replaces the fighter's 6th-level bonus feat.
+**Improved Deck Fighting (Ex)**: At 6th level, the corsair gains [Great Cleave](../../rules/feats/great-cleave.md) as a bonus feat, even if he does not meet the prerequisites. A corsair does not take the normal –2 penalty to AC when using Great Cleave. This ability replaces the fighter's 6th-level bonus feat.
 
 ## Weapon Bearer Squire
 
@@ -1076,7 +1076,7 @@ A corsair is a pirate who focuses on shipboard combat, relying on strength of ar
 | Red | Fire | Gold | Fire |
 | White | Cold | Silver | Cold |
 
-**Eldritch Strikes (Su)**: At 1st level, a dragonheir scion gains Arcane Strike as a bonus feat. She does not need to meet its prerequisites. This ability replaces the bonus feat gained at 1st level.
+**Eldritch Strikes (Su)**: At 1st level, a dragonheir scion gains [Arcane Strike](../../rules/feats/arcane-strike.md) as a bonus feat. She does not need to meet its prerequisites. This ability replaces the bonus feat gained at 1st level.
 
 **Fearful Might (Ex)**: At 1st level, a dragonheir scion gains a +1 bonus on Intimidate checks to demoralize a foe. This bonus increases to +2 at 6th level and by an additional 1 every 4 fighter levels thereafter to a maximum of +5 at 18th level. This ability replaces bravery.
 
@@ -1096,17 +1096,17 @@ Scrappers collect the leftovers from enemy armor and use them to improve their o
 
 **Scrap Armor (Ex)**: At 3rd level, a scrapper can salvage scrap from a destroyed construct or another creature's armor (1 minute) and attach it to his own armor. Scrap from a construct grants a natural armor bonus to AC equal to one-quarter the construct's Hit Dice (minimum +1). Scrap from armor grants a natural armor bonus equal to 1 + the armor's enhancement bonus (if any). Scrap is flimsy: it is immediately destroyed by any sunder combat maneuver that targets the armor it is attached to, and otherwise crumbles away after a number of days equal to the bonus it grants. At 11th level, scrap salvaged from a construct also grants DR/adamantine equal to one-quarter of the construct's Hit Dice. This replaces armor training.
 
-**Scrapper Training (Ex)**: At 5th level, a scrapper selects one fighter weapon group. He gains a +1 bonus on attack and damage rolls when performing a sunder combat maneuver with a weapon from that group and does not provoke attacks of opportunity when doing so. If he has Improved Sunder, these bonuses double. At 9th level and every 4 levels thereafter, he can either take the weapon training class feature or improve his bonuses from scrapper training by 1. This replaces weapon training 1.
+**Scrapper Training (Ex)**: At 5th level, a scrapper selects one fighter weapon group. He gains a +1 bonus on attack and damage rolls when performing a sunder combat maneuver with a weapon from that group and does not provoke attacks of opportunity when doing so. If he has [Improved Sunder](../../rules/feats/improved-sunder.md), these bonuses double. At 9th level and every 4 levels thereafter, he can either take the weapon training class feature or improve his bonuses from scrapper training by 1. This replaces weapon training 1.
 
 ## Desert Dervish
 
 In the desert lands, no enemy is as feared as the dervishes of the sun goddess. While dervishes can be clerics, paladins, or rangers, zealous fighters join their ranks as well. These spinning warriors prefer light or no armor and wield scimitars with devastating consequences, moving swiftly over the treacherous desert sands to attack with lightning-fast strikes. They maneuver quickly among their enemies, relying on their speed and their skill to see them through the battle.
 
-**Suggested Feats**: Agile Maneuvers, Combat Expertise, Dazzling Display, Dervish Dance, Dodge, Mobility, Spring Attack, Step Up, Weapon Finesse, Weapon Focus (scimitar), Weapon Specialization (scimitar), Whirlwind Attack.
+**Suggested Feats**: [Agile Maneuvers](../../rules/feats/agile-maneuvers.md), Combat Expertise, Dazzling Display, [Dervish Dance](../../rules/feats/dervish-dance.md), Dodge, Mobility, [Spring Attack](../../rules/feats/spring-attack.md), Step Up, Weapon Finesse, Weapon Focus (scimitar), Weapon Specialization (scimitar), Whirlwind Attack.
 
 **Burst of Speed (Ex)**: At 3rd level, a desert dervish takes only a –1 penalty to her AC after charging. At 7th level, the desert dervish can charge with no penalty. This ability replaces armor training 1.
 
-**Desert Stride (Ex)**: At 7th level, a desert dervish can move through 10 feet of difficult terrain each round as if it were normal terrain. This benefit stacks with the benefits provided by the Acrobatic Steps and Nimble Moves feats. This ability replaces armor training 2.
+**Desert Stride (Ex)**: At 7th level, a desert dervish can move through 10 feet of difficult terrain each round as if it were normal terrain. This benefit stacks with the benefits provided by the [Acrobatic Steps](../../rules/feats/acrobatic-steps.md) and [Nimble Moves](../../rules/feats/nimble-moves.md) feats. This ability replaces armor training 2.
 
 **Rapid Attack (Ex)**: At 11th level, a desert dervish can combine a full attack with a single move. She must forgo the attack at her highest bonus but may take the remaining attacks at any point during her movement. This movement provokes attacks of opportunity as normal. This ability replaces armor training 3.
 
@@ -1116,7 +1116,7 @@ In the desert lands, no enemy is as feared as the dervishes of the sun goddess. 
 
 The warriors of an old empire have perfected the art of fighting with the falcata and buckler in an art they call rondelero. They use their bucklers both to defend themselves and to launch unexpected strikes while chopping and hewing at their foes’ unprotected bodies and heads with their falcatas. Rondeleros wear any type of armor, but favor bucklers, and are comfortable using both hands for offense and defense.
 
-**Suggested Feats**: Exotic Weapon Proficiency (falcata), Improved Shield Bash, Improved Two-Weapon Fighting, Power Attack, Shield Slam, Shield Master, Two-Weapon Fighting, Weapon Focus (falcata), Weapon Specialization (falcata).
+**Suggested Feats**: Exotic Weapon Proficiency (falcata), [Improved Shield Bash](../../rules/feats/improved-shield-bash.md), [Improved Two-Weapon Fighting](../../rules/feats/improved-two-weapon-fighting.md), Power Attack, [Shield Slam](../../rules/feats/shield-slam.md), [Shield Master](../../rules/feats/shield-master.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), Weapon Focus (falcata), Weapon Specialization (falcata).
 
 **Buckler Bash (Ex)**: At 2nd level, a rondelero can perform a shield bash with a buckler (use the same damage and critical modifier as for a light shield). This ability replaces bravery.
 

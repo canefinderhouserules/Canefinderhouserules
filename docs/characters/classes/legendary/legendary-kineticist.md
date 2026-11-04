@@ -78,7 +78,7 @@ This limit rises to 2 points of burn at 6th level, and rises by 1 additional poi
 
 At 1st level, a legendary kineticist gains a kinetic blast wild talent of their choice. This kinetic blast must be a simple blast that matches their element.
 
-As a standard action, the legendary kineticist can unleash a kinetic blast at a single target up to a range of 30 feet. they must have at least one hand free to aim the blast (or one prehensile appendage, if they don’t have hands). All damage from a kinetic blast is treated as magic for the purpose of bypassing damage reduction. Kinetic blasts count as a type of weapon for the purpose of feats such as Weapon Focus. The legendary kineticist is never considered to be wielding or gripping the kinetic blast (regardless of effects from form infusions), and they can’t use Vital Strike feats with kinetic blasts. Even the weakest kinetic blast involves a sizable mass of elemental matter or energy, so kinetic blasts always deal full damage to swarms of any size (though only area blasts deal extra damage to swarms).
+As a standard action, the legendary kineticist can unleash a kinetic blast at a single target up to a range of 30 feet. they must have at least one hand free to aim the blast (or one prehensile appendage, if they don’t have hands). All damage from a kinetic blast is treated as magic for the purpose of bypassing damage reduction. Kinetic blasts count as a type of weapon for the purpose of feats such as Weapon Focus. The legendary kineticist is never considered to be wielding or gripping the kinetic blast (regardless of effects from form infusions), and they can’t use [Vital Strike](../../../rules/feats/vital-strike.md) feats with kinetic blasts. Even the weakest kinetic blast involves a sizable mass of elemental matter or energy, so kinetic blasts always deal full damage to swarms of any size (though only area blasts deal extra damage to swarms).
 
 A readied kinetic blast can be used to counterspell any spell of equal or lower level that shares its descriptor.
 
@@ -134,7 +134,7 @@ At 5th level, whenever a legendary kineticist uses one or more infusions with a 
 
 #### Metakinesis (Su)
 
-At 5th level, a legendary kineticist gains the ability to alter their kinetic blasts as if with metamagic feats by accepting burn. By accepting 1 point of burn, they can empower their kinetic blast (as if using Empower Spell). At 9th level, by accepting 2 points of burn, if a foe makes a successful save against their kinetic blast, they can force their foe to make a second save against their kinetic blast as if using Persistent Spell. At 13th level, by accepting 3 points of burn, they can quicken their kinetic blast as if using Quicken Spell.
+At 5th level, a legendary kineticist gains the ability to alter their kinetic blasts as if with metamagic feats by accepting burn. By accepting 1 point of burn, they can empower their kinetic blast (as if using [Empower Spell](../../../rules/feats/empower-spell.md)). At 9th level, by accepting 2 points of burn, if a foe makes a successful save against their kinetic blast, they can force their foe to make a second save against their kinetic blast as if using [Persistent Spell](../../../rules/feats/persistent-spell.md). At 13th level, by accepting 3 points of burn, they can quicken their kinetic blast as if using [Quicken Spell](../../../rules/feats/quicken-spell.md).
 
 At 17th level, by accepting 4 points of burn, the legendary kineticist can use their kinetic blast twice with the same standard action, or swift action if they also use metakinesis to quicken the blast.
 
@@ -212,7 +212,7 @@ A few races receive an option of two potential alternate favored class bonuses. 
 
 - **Halfling**– Increase the capacity of the kineticist’s internal buffer by 1/6 point.
 
-- **Human**– Gain 1/6 of an Extra Wild Talent feat.
+- **Human**– Gain 1/6 of an [Extra Wild Talent](../../../rules/feats/extra-wild-talent.md) feat.
 
 #### Featured Races
 
@@ -238,7 +238,7 @@ A few races receive an option of two potential alternate favored class bonuses. 
 
 - **Oread**– Add 1/4 to the save DC of the kineticist’s earth infusions and wild talents.
 
-- **Ratfolk**– Add a 2-foot bonus to the burrow speed granted by the Burrowing Teeth feat. This bonus only applies while the flesh of stone defense wild talent is active.
+- **Ratfolk**– Add a 2-foot bonus to the burrow speed granted by the [Burrowing Teeth](../../../rules/feats/burrowing-teeth.md) feat. This bonus only applies while the flesh of stone defense wild talent is active.
 
 - **Sylph**– Add 1/4 to the save DC of the kineticist’s air infusions and wild talents.
 

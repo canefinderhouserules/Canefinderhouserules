@@ -22,7 +22,7 @@ To qualify to become an agent of the grave, a character must fulfill all of the 
 
 **Skills**: Knowledge (arcana) 5 ranks, Knowledge (religion) 5 ranks.
 
-**Spells**: Able to cast *animate dead*.
+**Spells**: Able to cast [*animate dead*](../../magic/spells/animate-dead.md).
 
 **Special**: Member of an undead-worshipping cult for 1 year.
 
@@ -54,11 +54,11 @@ The agent of the grave’s class skills are Bluff (Cha), Heal (Wis), Intimidate 
 
 **Aligned Class (Ex)**: At 2nd and 4th level, an agent of the grave gains the class features of an additional level of a class they belonged to before adding the prestige class.
 
-**Undead Manipulator (Ex)**: Your mind-affecting spells and spell-like abilities treat undead as their original type (for example, *charm person* works on a humanoid zombie).
+**Undead Manipulator (Ex)**: Your mind-affecting spells and spell-like abilities treat undead as their original type (for example, [*charm person*](../../magic/spells/charm-person.md) works on a humanoid zombie).
 
-**Negative Energy Conduit (Ex)**: Once per day, as a standard action, you can create an aura identical to *desecrate* that lasts 10 minutes per level. Undead you create are treated as created within a *desecrate* area.
+**Negative Energy Conduit (Ex)**: Once per day, as a standard action, you can create an aura identical to [*desecrate*](../../magic/spells/desecrate.md) that lasts 10 minutes per level. Undead you create are treated as created within a *desecrate* area.
 
-**Death’s Shroud (Su)**: Once per day, you can use *nondetection* or *undetectable alignment*, with a caster level equal to your highest caster level.
+**Death’s Shroud (Su)**: Once per day, you can use [*nondetection*](../../magic/spells/nondetection.md) or [*undetectable alignment*](../../magic/spells/undetectable-alignment.md), with a caster level equal to your highest caster level.
 
 **Negative Energy Affinity (Ex)**: You are healed by negative energy and harmed by positive energy, as if you were undead. This gives no added benefit if you are already undead.
 

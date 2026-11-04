@@ -44,7 +44,7 @@ Your kinetic blast creates darkness. Treat each square of the path of your range
 **Prerequisites** darkness infusion  
 **Associated Blasts** gravity, negative, void; **Saving Throw** none
 
-Your blast creates supernatural darkness, as per the darkness infusion, except it acts as *deeper darkness* and counts as a 6th-level darkness spell.
+Your blast creates supernatural darkness, as per the darkness infusion, except it acts as [*deeper darkness*](../../magic/spells/deeper-darkness.md) and counts as a 6th-level darkness spell.
 
 ### Emptiness
 
@@ -113,7 +113,7 @@ You have greater control over gravity, as per greater flame jet.
 
 **Prerequisites** gravity control, greater gravity control
 
-You can create areas of altered gravity. This functions as *reverse gravity*, but you can choose for the gravity in the area to pull toward any direction (not just up). If you use this wild talent, any previous use of this wild talent expires immediately.
+You can create areas of altered gravity. This functions as [*reverse gravity*](../../magic/spells/reverse-gravity.md), but you can choose for the gravity in the area to pull toward any direction (not just up). If you use this wild talent, any previous use of this wild talent expires immediately.
 
 ### Necrotic Blast
 

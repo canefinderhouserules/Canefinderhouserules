@@ -38,7 +38,7 @@ The halfling opportunist’s class skills are Acrobatics (Dex), Bluff (Cha), Cli
 
 **Weapon and Armor Proficiency**: A halfling opportunist gains no proficiency with any weapon or armor.
 
-**Defensive Combat Training**: At 1st level, you gain Defensive Combat Training as a bonus feat.
+**Defensive Combat Training**: At 1st level, you gain [Defensive Combat Training](../../rules/feats/defensive-combat-training.md) as a bonus feat.
 
 **Exploitive Maneuver (Ex)**: When an enemy that can reach you acts in combat, you can immediately take advantage of it, as though the enemy were using aid another on your behalf. You must succeed at a combat maneuver check against the enemy’s CMD, made as an immediate action. The GM may let you substitute another ability modifier for Strength, such as Dexterity or Charisma. On a success, on your next turn you gain the aid another bonus on your action and subtract that same bonus from the enemy’s roll for that action. The GM decides whether the enemy’s action can benefit you in the intended way.
 

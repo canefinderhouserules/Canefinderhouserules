@@ -4,7 +4,7 @@
 
 You make a combination of quick strikes, sacrificing accuracy for multiple, minor wounds that prove exceptionally deadly.
 
-**Prerequisites**: Dex 13, Weapon Finesse, base attack bonus +1.
+**Prerequisites**: Dex 13, [Weapon Finesse](weapon-finesse.md), base attack bonus +1.
 
 **No feat needed**: Any character who meets the prerequisites can use this. It does not take up a feat.
 

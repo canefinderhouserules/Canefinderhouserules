@@ -63,7 +63,7 @@ This replaces weapon guard, tenacious grip, and weapon unity.
 
 **Ascetic Discipline (Ex)**
 
-At 7th level, a living weapon counts his fighter levels as monk levels for the purpose of qualifying for combat feats and for the purpose of feats, magic items, and other options that have different effects based on whether the character has levels in the monk class (such as Stunning Fist or a monk’s robe). This ability does not automatically grant feats normally given to monks based on class level, such as Stunning Fist.
+At 7th level, a living weapon counts his fighter levels as monk levels for the purpose of qualifying for combat feats and for the purpose of feats, magic items, and other options that have different effects based on whether the character has levels in the monk class (such as [Stunning Fist](../../../rules/feats/stunning-fist.md) or a monk’s robe). This ability does not automatically grant feats normally given to monks based on class level, such as Stunning Fist.
 
 This ability replaces secure weaponry.
 
@@ -91,7 +91,7 @@ At 11th level, as part of an unarmed strike attack, a fighter can deliver a pene
 
 This ability replaces autonomic grasp.
 
-**Recommendation**: This archetype doesn’t automatically gain the Improved Unarmed Strike feat or a way to make unarmed strike damage scale with level (such as the focused weapon advanced weapon training option). We recommend taking feats and options to gain these abilities, as well as combining this archetype with the brawler archetype, unarmed fighter, or a similar archetype.
+**Recommendation**: This archetype doesn’t automatically gain the [Improved Unarmed Strike](../../../rules/feats/improved-unarmed-strike.md) feat or a way to make unarmed strike damage scale with level (such as the focused weapon advanced weapon training option). We recommend taking feats and options to gain these abilities, as well as combining this archetype with the brawler archetype, unarmed fighter, or a similar archetype.
 
 ## Lore Warden
 
@@ -103,7 +103,7 @@ This ability replaces the fighter’s proficiency with medium armor, heavy armor
 
 **Skillful Expertise (Ex)**
 
-At 2nd level, a lore warden qualifies for feats and other abilities as though she had the Combat Expertise feat. At 10th level, she gains Combat Expertise as a bonus feat, even if she would not normally qualify for the feat. If she already has Combat Expertise, she instead gains any one combat feat that includes Combat Expertise as a prerequisite (and for which she otherwise qualifies).
+At 2nd level, a lore warden qualifies for feats and other abilities as though she had the [Combat Expertise](../../../rules/feats/combat-expertise.md) feat. At 10th level, she gains Combat Expertise as a bonus feat, even if she would not normally qualify for the feat. If she already has Combat Expertise, she instead gains any one combat feat that includes Combat Expertise as a prerequisite (and for which she otherwise qualifies).
 
 This ability replaces determination.
 
@@ -141,7 +141,7 @@ Each day, a spirit warrior designates a weapon he is proficient with. He gains t
 
 **Eldritch Weapon (Su)**
 
-At 1st level, a spirit warrior gains the Arcane Strike feat, but he can only use this feat on his spirit weapon. He does not need to meet this feat’s prerequisites. In addition, three times per day as a standard action a spirit warrior can grant his spirit weapon a +1 enhancement bonus for 1 minute.
+At 1st level, a spirit warrior gains the [Arcane Strike](../../../rules/feats/arcane-strike.md) feat, but he can only use this feat on his spirit weapon. He does not need to meet this feat’s prerequisites. In addition, three times per day as a standard action a spirit warrior can grant his spirit weapon a +1 enhancement bonus for 1 minute.
 
 This ability replaces the spirit warrior’s 1st-level bonus feat.
 

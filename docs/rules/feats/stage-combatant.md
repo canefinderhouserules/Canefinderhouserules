@@ -4,7 +4,7 @@
 
 You are a master of stage and nonlethal combats.
 
-**Prerequisites**: Weapon Focus, base attack bonus +5
+**Prerequisites**: [Weapon Focus](weapon-focus.md), base attack bonus +5
 
 **Benefit**: When you make an attack with a weapon that you have Weapon Focus in, you take no penalty on the attack roll when you are attempting to make an attack that deals no damage or nonlethal damage.
 

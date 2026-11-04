@@ -4,7 +4,7 @@
 
 Your critical hits cause opponents to slow down.
 
-**Prerequisites**: Critical Focus, base attack bonus +13.
+**Prerequisites**: [Critical Focus](critical-focus.md), base attack bonus +13.
 
 **Benefit**: Whenever you score a critical hit, your opponent becomes staggered for 1d4+1 rounds. A successful Fortitude save reduces the duration to 1 round. The DC of this Fortitude save is equal to 10 + your base attack bonus. The effects of this feat do not stack. Additional hits instead add to the duration.
 

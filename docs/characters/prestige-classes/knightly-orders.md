@@ -34,8 +34,8 @@ The orders below use these generic names.
 **Boons**
 
 1. **Taken Alive (Ex).** You take no penalty on attack rolls for using a flail to deal nonlethal damage. While performing your reckoning, you can focus on understanding one specific individual: for the next 24 hours you gain a +4 bonus on Perception, Sense Motive and Survival checks that relate to noticing, seeing through the disguises of, interrogating others about the location of, or tracking that individual, or any activity directly related to doing so.
-2. **Pierce Disguise (Sp).** You can use *true seeing* as a spell-like ability for a number of minutes each day equal to half your character level, in 1-minute increments (not necessarily consecutive).
-3. **True Identities (Su).** +4 bonus on Will saves to disbelieve illusions. Three times per day, when you successfully disbelieve an illusion with a duration longer than instantaneous (normally or using *true seeing*), you can attempt to dispel it as a free action. This is a targeted *dispel magic* affecting only illusions, with a caster level equal to your character level.
+2. **Pierce Disguise (Sp).** You can use [*true seeing*](../../magic/spells/true-seeing.md) as a spell-like ability for a number of minutes each day equal to half your character level, in 1-minute increments (not necessarily consecutive).
+3. **True Identities (Su).** +4 bonus on Will saves to disbelieve illusions. Three times per day, when you successfully disbelieve an illusion with a duration longer than instantaneous (normally or using *true seeing*), you can attempt to dispel it as a free action. This is a targeted [*dispel magic*](../../magic/spells/dispel-magic.md) affecting only illusions, with a caster level equal to your character level.
 
 ## Order of the Portal
 
@@ -48,7 +48,7 @@ The orders below use these generic names.
 
 1. **Focus of Mind (Su).** You gain one gaze ability from the assiduous gaze list of the [Hell Knight Signifer](hell-knight-signifer.md) (only a gaze a signifer could choose at 4th level). If you already have assiduous gaze, you can select one additional gaze. If you don't already have one, you receive a signifer mask and the benefits of the signifer mask supernatural ability; you must wear the mask to use this ability.
 2. **Armored Spellcasting (Ex).** You ignore the spell failure chance of any hell knight armor (armor with "hell knight" in its name).
-3. **Unfathomable Gaze (Sp).** Once per day, while wearing a signifer mask, you can use *vision* as a spell-like ability, with your character level as caster level. Unlike casting the spell, you are not fatigued afterward.
+3. **Unfathomable Gaze (Sp).** Once per day, while wearing a signifer mask, you can use [*vision*](../../magic/spells/vision.md) as a spell-like ability, with your character level as caster level. Unlike casting the spell, you are not fatigued afterward.
 
 ## Order of the Faithful
 
@@ -59,7 +59,7 @@ The orders below use these generic names.
 
 **Boons**
 
-1. **Pentamic Zeal (Sp).** You can cast *bane*, *bless*, *tireless pursuit* or *wrath* as a spell-like ability three times per day, with caster level equal to your character level.
+1. **Pentamic Zeal (Sp).** You can cast [*bane*](../../magic/spells/bane.md), [*bless*](../../magic/spells/bless.md), [*tireless pursuit*](../../magic/spells/tireless-pursuit.md) or [*wrath*](../../magic/spells/wrath.md) as a spell-like ability three times per day, with caster level equal to your character level.
 2. **Tireless Judgment (Su).** Three times per day as a swift action, gain a +3 sacred bonus on attack rolls and a +6 sacred bonus to confirm critical hits. At 20th level, four times per day, with bonuses +4 and +8. Otherwise functions as the inquisitor's *justice* judgment. If you already have judgments, you can use *justice* three times per day (four at 20th level) without it counting toward your daily uses, or add its effects to another judgment without it counting as a second or third judgment.
 3. **Blessing of the Five (Su).** Once per day as a standard action, brandish a holy symbol to heal all living creatures in a 30-foot-radius burst for 10d6 hit points. You can choose up to three creatures in the area not to be healed. If a creature in the area died within 1 round and this brings its hit points to a negative total less than its Constitution score, it returns to life and stabilizes; this revives only one creature per use, and the revived creature gains a temporary negative level for 1 day. This cannot be modified by feats or abilities that affect channeled energy.
 
@@ -73,22 +73,22 @@ The orders below use these generic names.
 **Boons**
 
 1. **Domination (Ex).** Select a creature type from the ranger favored enemies table; you treat it as your favored enemy. If you choose humanoid (human), you can instead choose a clannish or tribal ethnicity (GM's approval); the bonuses on skill checks, attack rolls and damage rolls increase to +4, but you gain no bonuses against other humans. These bonuses stack with favored enemy bonuses from other classes.
-2. **Identification (Su).** Three times per day as a swift action, choose a living creature within sight and know its creature type, ethnicity (if any) and alignment. For a number of hours equal to your character level, it is treated as though you had cast *status* on it. The target can attempt a Will save (DC = 10 + ½ your Hit Dice + your Charisma modifier) to negate this without being aware of the probing. *Undetectable alignment* may prevent part of the information; *nondetection* stops it entirely. This is a divination effect.
-3. **End Superstition (Sp).** Once per day, cast *mage's disjunction*, with caster level equal to your character level.
+2. **Identification (Su).** Three times per day as a swift action, choose a living creature within sight and know its creature type, ethnicity (if any) and alignment. For a number of hours equal to your character level, it is treated as though you had cast [*status*](../../magic/spells/status.md) on it. The target can attempt a Will save (DC = 10 + ½ your Hit Dice + your Charisma modifier) to negate this without being aware of the probing. *Undetectable alignment* may prevent part of the information; [*nondetection*](../../magic/spells/nondetection.md) stops it entirely. This is a divination effect.
+3. **End Superstition (Sp).** Once per day, cast [*mage's disjunction*](../../magic/spells/mages-disjunction.md), with caster level equal to your character level.
 
-*Note.* Members of this order often install a sharp barb in their armor that deals damage to the wearer when subject to a critical hit; see Hell Knight Obsession.
+*Note.* Members of this order often install a sharp barb in their armor that deals damage to the wearer when subject to a critical hit; see [Hell Knight Obsession](../../rules/feats/hell-knight-obsession.md).
 
 ## Order of the Brazier
 
 **Members** atheists, former cultists, members of mainstream religions, victims of dangerous radicals.
 **Armor Features** bladed armor, horned and skull-like helm.
 **Favored Weapon** glaive.
-**Reckoning** Burn yourself over an open flame. Once per day as an immediate action, gain fire resistance 10 for 10 minutes. This does not stack with *resist energy* or other fire resistance and overlaps with *protection from energy*.
+**Reckoning** Burn yourself over an open flame. Once per day as an immediate action, gain fire resistance 10 for 10 minutes. This does not stack with [*resist energy*](../../magic/spells/resist-energy.md) or other fire resistance and overlaps with [*protection from energy*](../../magic/spells/protection-from-energy.md).
 
 **Boons**
 
 1. **Favored Cult (Ex).** Each day while performing your obedience, choose a divine power that grants four or fewer domains. You gain a +2 bonus on Intimidate, Knowledge, Sense Motive and Survival checks against its worshipers, and +1 on weapon attack and damage rolls against them.
-2. **Immolation (Sp).** Once per day, cast *delayed blast fireball*, with caster level equal to your character level.
+2. **Immolation (Sp).** Once per day, cast [*delayed blast fireball*](../../magic/spells/delayed-blast-fireball.md), with caster level equal to your character level.
 3. **Quell Zealotry (Su).** Once per day as a standard action, target a divine spellcaster within 100 feet. If it fails a Will save (DC = 10 + ½ your Hit Dice + your Charisma bonus), it loses access to all spellcasting and all supernatural and spell-like abilities from its divine spellcasting classes for rounds equal to half your character level. A creature trying to use a lost ability feels only a profound, black emptiness, as if its deity no longer existed.
 
 ## Order of Austerity
@@ -101,7 +101,7 @@ The orders below use these generic names.
 **Boons**
 
 1. **Mute (Su).** Three times per day as a standard action, target a creature within 100 feet. If it fails a Will save (DC = 10 + ½ your Hit Dice + your Charisma modifier), it cannot make any sounds for rounds equal to your character level, preventing speech, other noise, casting spells with verbal components and similar abilities with auditory effects. Each round on its turn the target can attempt a new save to end the effect. Dismissable. It does not make the target immune to sonic or language-based effects.
-2. **Dismantle (Su).** Once per day as a standard action, cause a thick brown fog to arise from a point within 200 feet. It functions as *fog cloud* (caster level equal to your character level) with a 10-foot radius, and every creature or object within is affected as by *rusting grasp* with no touch attack. Attended metal objects, including weapons and armor, get a Fortitude save to negate using their wielder's save bonus (DC = 10 + ½ your Hit Dice + your Charisma modifier). Creatures in the cloud are affected only once, but creatures that move back into the area are exposed again. You and your possessions are unaffected. Dismissable.
+2. **Dismantle (Su).** Once per day as a standard action, cause a thick brown fog to arise from a point within 200 feet. It functions as [*fog cloud*](../../magic/spells/fog-cloud.md) (caster level equal to your character level) with a 10-foot radius, and every creature or object within is affected as by [*rusting grasp*](../../magic/spells/rusting-grasp.md) with no touch attack. Attended metal objects, including weapons and armor, get a Fortitude save to negate using their wielder's save bonus (DC = 10 + ½ your Hit Dice + your Charisma modifier). Creatures in the cloud are affected only once, but creatures that move back into the area are exposed again. You and your possessions are unaffected. Dismissable.
 3. **Ruin (Sp).** Once per day as a standard action, use *greater shout* as a spell-like ability (DC = 18 + your Charisma modifier).
 
 ## Order of the Lash
@@ -113,6 +113,6 @@ The orders below use these generic names.
 
 **Boons**
 
-1. **Spill Guilty Blood (Sp).** Twice per day, cast *death knell* as a spell-like ability, with caster level equal to your character level (DC = 12 + your Charisma modifier). If you have no caster level, instead of a +1 increase in effective caster level, the ability grants a +1 bonus on attack and damage rolls for 10 minutes per Hit Die of the target. If you do have a caster level, you may choose this bonus instead of the caster level increase.
-2. **Terrible Justice (Sp).** Three times per day, when you perform a coup de grace, all foes within 30 feet must succeed at a Will save or be affected as by *fear* (DC = 14 + your Charisma modifier).
-3. **Reason to Fear (Su).** You are immune to fear. Three times per day, when you are the target or within the area of a fear effect, you can target the creature from which it originated with a *phantasmal killer* effect (DC = 14 + your Charisma modifier) as a free action when you strike it with a weapon. You must deal at least 1 point of damage. In all other ways it functions as a *spell storing* weapon with *phantasmal killer* stored in it.
+1. **Spill Guilty Blood (Sp).** Twice per day, cast [*death knell*](../../magic/spells/death-knell.md) as a spell-like ability, with caster level equal to your character level (DC = 12 + your Charisma modifier). If you have no caster level, instead of a +1 increase in effective caster level, the ability grants a +1 bonus on attack and damage rolls for 10 minutes per Hit Die of the target. If you do have a caster level, you may choose this bonus instead of the caster level increase.
+2. **Terrible Justice (Sp).** Three times per day, when you perform a coup de grace, all foes within 30 feet must succeed at a Will save or be affected as by [*fear*](../../magic/spells/fear.md) (DC = 14 + your Charisma modifier).
+3. **Reason to Fear (Su).** You are immune to fear. Three times per day, when you are the target or within the area of a fear effect, you can target the creature from which it originated with a [*phantasmal killer*](../../magic/spells/phantasmal-killer.md) effect (DC = 14 + your Charisma modifier) as a free action when you strike it with a weapon. You must deal at least 1 point of damage. In all other ways it functions as a *spell storing* weapon with *phantasmal killer* stored in it.

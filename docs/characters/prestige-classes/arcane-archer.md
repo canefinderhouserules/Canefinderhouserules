@@ -31,7 +31,7 @@ To qualify to become an arcane archer, a character must fulfill all the followin
 
 **Base Attack Bonus**: +3.
 
-**Feats**: Point Blank Shot, Precise Shot, Weapon Focus (longbow or shortbow).
+**Feats**: Point Blank Shot, [Precise Shot](../../rules/feats/precise-shot.md), Weapon Focus (longbow or shortbow).
 
 **Spells**: Ability to cast 1st-level arcane spells.
 
@@ -87,7 +87,7 @@ At 5th level, every nonmagical arrow fired by an arcane archer gains one of the 
 
 The bonuses granted by a magic bow apply as normal to arrows that have been enhanced with this ability. Only the larger enhancement bonus applies. Duplicate abilities do not stack.
 
-**Imbue Arrow (Sp)**: At 2nd level, an arcane archer gains the ability to place any spell upon an arrow. If it is an area spell, when the arrow is fired, the spell’s area is centered where the arrow lands, even if the spell could normally be centered only on the caster. This ability allows the archer to use the bow’s range rather than the spell’s range. A spell cast in this way uses its standard casting time and the arcane archer can fire the arrow as part of the casting. The arrow must be fired during the round that the casting is completed or the spell is wasted. If the arrow misses, the spell is wasted. If the spell makes multiple attacks or rays, the archer can fire as many rays or attacks as he has attacks (for example, he can fire *scorching ray* on a full attack).
+**Imbue Arrow (Sp)**: At 2nd level, an arcane archer gains the ability to place any spell upon an arrow. If it is an area spell, when the arrow is fired, the spell’s area is centered where the arrow lands, even if the spell could normally be centered only on the caster. This ability allows the archer to use the bow’s range rather than the spell’s range. A spell cast in this way uses its standard casting time and the arcane archer can fire the arrow as part of the casting. The arrow must be fired during the round that the casting is completed or the spell is wasted. If the arrow misses, the spell is wasted. If the spell makes multiple attacks or rays, the archer can fire as many rays or attacks as he has attacks (for example, he can fire [*scorching ray*](../../magic/spells/scorching-ray.md) on a full attack).
 
 ??? note "Original rule"
 
@@ -125,7 +125,7 @@ Dedicated followers of the god of farming and hunting become closer to their god
 
 *Base Attack Bonus*: +6.
 
-*Feats*: Point-Blank Shot, Precise Shot, Weapon Focus (longbow).
+*Feats*: [Point-Blank Shot](../../rules/feats/point-blank-shot.md), Precise Shot, Weapon Focus (longbow).
 
 *Spells*: Must be able to cast 1st-level divine spells. This alters requirements.
 

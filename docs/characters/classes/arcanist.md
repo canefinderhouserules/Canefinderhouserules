@@ -108,7 +108,7 @@ An arcanist begins play with a spellbook containing all 0-level wizard/sorcerer 
 
 **Energy Shield (Su)**: The arcanist can protect herself from energy damage as a standard action by expending 1 point from her arcane reservoir. She must pick one energy type and gains resistance 10 against that energy type for 1 minute per arcanist level. This protection increases by 5 for every 5 levels the arcanist possesses (up to a maximum of 30 at 20th level).
 
-**Face Thief (Su)**: The arcanist can expend 1 point from her arcane reservoir to assume an illusory disguise as *disguise self*. If she expends 2 points from her arcane reservoir instead of 1, the duration of the effect increases to 10 minutes per level.
+**Face Thief (Su)**: The arcanist can expend 1 point from her arcane reservoir to assume an illusory disguise as [*disguise self*](../../magic/spells/disguise-self.md). If she expends 2 points from her arcane reservoir instead of 1, the duration of the effect increases to 10 minutes per level.
 
 **Familiar (Ex)**: An arcanist with this exploit can acquire a familiar as the arcane bond wizard class feature, using her arcanist level as her wizard level to determine any of the statistics and abilities of the familiar. If the arcanist receives a familiar from another class, her levels of arcanist stack with the levels from that class when determining the familiar's statistics and abilities (this ability does not stack with a familiar gained through the bloodline development exploit; she must choose one or the other).
 
@@ -116,7 +116,7 @@ An arcanist begins play with a spellbook containing all 0-level wizard/sorcerer 
 
 **Flame Arc (Su)**: The arcanist can unleash an arc of flame by expending 1 point from her arcane reservoir. This creates a 30-foot line of flame that deals 1d6 points of fire damage + the arcanist's Charisma modifier, plus an additional 1d6 points of fire damage for every 2 levels beyond 1st (to a maximum of 10d6 at 19th level) to each target in the line. Creatures in the area of effect may attempt a Reflex saving throw to halve the damage.
 
-**Flame Control (Su)**: The arcanist can spend 1 point from her arcane reservoir to move or extinguish one 5-foot square per arcanist level of an ongoing nonmagical fire. If she chooses to move a portion of the fire, it must be moved to a square contiguous with that fire. If she also expends a spell slot of at least 3rd level when activating this ability, she can attempt to dispel a magical fire effect, as *dispel magic*.
+**Flame Control (Su)**: The arcanist can spend 1 point from her arcane reservoir to move or extinguish one 5-foot square per arcanist level of an ongoing nonmagical fire. If she chooses to move a portion of the fire, it must be moved to a square contiguous with that fire. If she also expends a spell slot of at least 3rd level when activating this ability, she can attempt to dispel a magical fire effect, as [*dispel magic*](../../magic/spells/dispel-magic.md).
 
 **Force Strike (Su)**: The arcanist can unleash a blast of force by expending 1 point from her arcane reservoir. This attack automatically strikes one target within 30 feet (as magic missile) and deals 1d4 points of force damage, plus 1 point of damage per arcanist level. Spells and effects that negate magic missile also negate this effect.
 
@@ -142,7 +142,7 @@ During this time, she is treated as if she had studied each aura for 3 rounds an
 
 **Shadow Veil (Su)**: By expending 1 point from her arcane reservoir, an arcanist can pull a veil of shadows around her, making her more difficult to spot and strike. The arcanist gains concealment (20% miss chance) and a +5 bonus on Stealth checks. This effect lasts a number of rounds equal to 1 + the arcanist's Charisma bonus.
 
-**Shifting Caster (Su)**: The arcanist can expend 1 point from her arcane reservoir to cast a spell while under the effects of a polymorph spell. This ability works like Natural Spell, except the arcanist uses the ability to cast while under the effects of a spell instead of wild shape.
+**Shifting Caster (Su)**: The arcanist can expend 1 point from her arcane reservoir to cast a spell while under the effects of a polymorph spell. This ability works like [Natural Spell](../../rules/feats/natural-spell.md), except the arcanist uses the ability to cast while under the effects of a spell instead of wild shape.
 
 **Sonic Blast (Su)**: The arcanist can loose a deafening blast of sonic energy by expending 1 point from her arcane reservoir and succeeding at a ranged touch attack against any one target within 30 feet. The blast deals an amount of sonic damage equal to 1d6 + the arcanist's Charisma modifier, plus an additional 1d6 points of sonic damage for every 2 levels beyond 1st (to a maximum of 10d6 at 19th level). The target is also deafened for 1 minute. The target can attempt a Fortitude save to halve the damage and negate the deafness.
 
@@ -170,7 +170,7 @@ This ability has no effect on spells that are instantaneous or have a duration o
 
 **Swift Consume (Ex)**: The arcanist can use the consume spells class feature or the consume magic items exploit as swift actions instead of as move actions.
 
-**Cantrips**: Arcanists can prepare a number of cantrips, or 0-level spells, each day as noted on the Spells Prepared table. These spells are cast like any other spell, but they do not consume spell , d_ slots. As with her other spells, these spells are not  I expended when cast.
+**Cantrips**: Arcanists can prepare a number of cantrips, or 0-level spells, each day as noted on the Spells Prepared table. These spells are cast like any other spell, but they do not consume spell, d_ slots. As with her other spells, these spells are not  I expended when cast.
 
 **Consume Spells (Su)**: At 1st level, an arcanist can expend an available arcanist spell slot as a move action, making it unavailable for the rest of the day, just as if she had used it to cast a spell. Doing this adds a number of points to her arcane reservoir equal to the level of the spell slot consumed. She cannot consume cantrips (0 level spells) in this way. Points gained in excess of the reservoir's maximum are lost.
 

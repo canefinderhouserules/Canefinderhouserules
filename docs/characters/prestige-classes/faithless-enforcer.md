@@ -43,11 +43,11 @@ The following are class features of the faithless enforcer prestige class.
 
 **Weapon and Armor Proficiency**: A faithless enforcer is proficient with all simple weapons, plus the falchion, scimitar, and shortbow. Faithless enforcers are proficient with all light and medium armor and shields (except tower shields).
 
-**Aura Sense (Sp)**: A faithless enforcer can cast *detect chaos*, *detect evil*, *detect good*, or *detect law* at will as a spell-like ability, though he can detect only auras of moderate or higher power. He can detect only one type of aura at any given time.
+**Aura Sense (Sp)**: A faithless enforcer can cast [*detect chaos*](../../magic/spells/detect-chaos.md), [*detect evil*](../../magic/spells/detect-evil.md), [*detect good*](../../magic/spells/detect-good.md), or [*detect law*](../../magic/spells/detect-law.md) at will as a spell-like ability, though he can detect only auras of moderate or higher power. He can detect only one type of aura at any given time.
 
 **Nonbeliever (Su)**: A faithless enforcer gains a bonus equal to 1/2 his class level (minimum +1) on saving throws against divine spells and spell-like abilities granted by a divine spellcasting class. The enforcer must always attempt a saving throw against the effects of beneficial divine magic.
 
-**Divine Detective (Sp)**: At 2nd level, a faithless enforcer gains the ability to cast *detect magic* at will as a spell-like ability. He also receives a bonus equal to 1/2 his faithless enforcer level on checks to identify religious paraphernalia, divine spells, or magic items that are divine in nature (such as divine scrolls, aligned weapons, and magic items keyed to specific deities). This bonus also applies to Spellcraft checks to identify the casting of divine spells, Knowledge (religion) checks to identify nonmagical religious items and iconography, and Perception checks to detect hidden or concealed holy symbols.
+**Divine Detective (Sp)**: At 2nd level, a faithless enforcer gains the ability to cast [*detect magic*](../../magic/spells/detect-magic.md) at will as a spell-like ability. He also receives a bonus equal to 1/2 his faithless enforcer level on checks to identify religious paraphernalia, divine spells, or magic items that are divine in nature (such as divine scrolls, aligned weapons, and magic items keyed to specific deities). This bonus also applies to Spellcraft checks to identify the casting of divine spells, Knowledge (religion) checks to identify nonmagical religious items and iconography, and Perception checks to detect hidden or concealed holy symbols.
 
 **Voice of Law (Ex)**: At 2nd level, a faithless enforcer can, as a standard action, attempt an Intimidate check to demoralize all worshipers of a specific deity within 30 feet. Spellcasters who are affected by this ability also take a –4 penalty on concentration checks to cast divine spells as long as they are shaken.
 
@@ -55,7 +55,7 @@ The following are class features of the faithless enforcer prestige class.
 
 **Decree of Law (Ex)**: At 4th level, the faithless enforcer can use his voice of law ability as a move action. Additionally, the enforcer gains a +2 morale bonus on attack and damage rolls against creatures affected by his voice of law ability.
 
-**Discern Lies (Sp)**: At 5th level, a faithless enforcer can *discern lies*, as per the spell, for a number of rounds per day equal to his enforcer level. These rounds don't need to be consecutive. Activating this ability is an immediate action.
+**Discern Lies (Sp)**: At 5th level, a faithless enforcer can [*discern lies*](../../magic/spells/discern-lies.md), as per the spell, for a number of rounds per day equal to his enforcer level. These rounds don't need to be consecutive. Activating this ability is an immediate action.
 
 **Disruptive Critical (Su)**: At 5th level, when a faithless enforcer confirms a critical hit against a divine spellcaster, he temporarily severs the divine conduit between the spellcaster and her deity, preventing her from casting divine spells or using supernatural or spell-like abilities granted by divine spellcasting classes. This effect lasts for 1 round per level or until the spellcaster succeeds at a concentration check (DC = 20 + 1/2 the enforcer's class level + his Charisma modifier).
 

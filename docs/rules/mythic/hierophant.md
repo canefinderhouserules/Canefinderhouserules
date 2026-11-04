@@ -21,8 +21,6 @@ Those who draw upon a god's power find themselves becoming closer to the divine.
 | 9th | Path ability |
 | 10th | Divine vessel, path ability |
 
-�
-
 ## Hierophant Features
 
 As you gain tiers, you gain the following abilities.

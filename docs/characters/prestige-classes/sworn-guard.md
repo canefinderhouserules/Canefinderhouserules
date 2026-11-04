@@ -49,7 +49,7 @@ The following are class features of the sworn guard prestige class.
 
 **Curiosity (Ex)**: The sworn guard's peculiar nature makes her an object of intrigue. Civilized people are fascinated by the "tamed" barbarian, while more barbaric cultures are fascinated by her choice to turn her back on her heritage. The sworn guard gains a bonus equal to her class level on Diplomacy checks.
 
-**Deflect Arrows (Ex)**: The sworn guard gains Deflect Arrows as a bonus feat. If she is adjacent to her chosen ally, she can use this ability to deflect an arrow targeting her chosen ally. The sworn guard does not need to meet the prerequisites for this bonus feat.
+**Deflect Arrows (Ex)**: The sworn guard gains [Deflect Arrows](../../rules/feats/deflect-arrows.md) as a bonus feat. If she is adjacent to her chosen ally, she can use this ability to deflect an arrow targeting her chosen ally. The sworn guard does not need to meet the prerequisites for this bonus feat.
 
 **Formal Training (Ex)**: When selecting this dedication, the sworn guard gains a bonus feat. She must select this feat from the list of fighter bonus feats. Additionally, the sworn guard adds her level to any levels of fighter she has for the purpose of meeting the prerequisites for feats (if she has no fighter levels, treat her sworn guard levels as fighter levels). The sworn guard must be at least 3rd level to select this dedication.
 

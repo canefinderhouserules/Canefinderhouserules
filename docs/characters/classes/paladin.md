@@ -18,7 +18,7 @@ All of the following are class features of the paladin.
 
 **Weapon and Armor Proficiency**: Paladins are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
 
-**Aura of Good (Ex)**: The power of a paladin’s aura of good (see the *detect good* spell) is equal to her paladin level.
+**Aura of Good (Ex)**: The power of a paladin’s aura of good (see the [*detect good*](../../magic/spells/detect-good.md) spell) is equal to her paladin level.
 
 **Detect Evil (Sp)**: At will, a paladin can use *detect evil,* as the spell. A paladin can, as a move action, concentrate on a single item or individual within 60 feet and determine if it is evil, learning the strength of its aura as if having studied it for 3 rounds. While focusing on one individual or object, the paladin does not detect evil in any other object or individual within range.
 
@@ -46,7 +46,7 @@ At 3rd level, the paladin can select from the following initial mercies.
 - *Shaken*: The target is no longer shaken.
 - *Sickened*: The target is no longer sickened. At 6th level, a paladin adds the following mercies to the list of those that can be selected.
 - *Dazed*: The target is no longer dazed.
-- *Diseased*: The paladin’s lay on hands ability also acts as *remove disease*, using the paladin’s level as the caster level.
+- *Diseased*: The paladin’s lay on hands ability also acts as [*remove disease*](../../magic/spells/remove-disease.md), using the paladin’s level as the caster level.
 - *Staggered*: The target is no longer staggered, unless the target is at exactly 0 hit points.
 
 **Table 3–11: Paladin**
@@ -83,7 +83,7 @@ At 9th level, a paladin adds the following mercies to the list of those that can
 - *Exhausted*: The target is no longer exhausted. The paladin must have the fatigue mercy before selecting this mercy.
 - *Frightened*: The target is no longer frightened. The paladin must have the shaken mercy before selecting this mercy.
 - *Nauseated*: The target is no longer nauseated. The paladin must have the sickened mercy before selecting this mercy.
-- *Poisoned*: The paladin’s lay on hands ability also acts as *neutralize poison*, using the paladin’s level as the caster level. At 12th level, a paladin adds the following mercies to the list of those that can be selected.
+- *Poisoned*: The paladin’s lay on hands ability also acts as [*neutralize poison*](../../magic/spells/neutralize-poison.md), using the paladin’s level as the caster level. At 12th level, a paladin adds the following mercies to the list of those that can be selected.
 - *Blinded*: The target is no longer blinded.
 - *Deafened*: The target is no longer deafened.
 - *Paralyzed*: The target is no longer paralyzed.
@@ -129,13 +129,13 @@ This ability functions only while the paladin is conscious, not if she is uncons
 
 This ability functions only while the paladin is conscious, not if she is unconscious or dead.
 
-**Holy Champion (Su)**: At 20th level, a paladin becomes a conduit for the power of her god. Her DR increases to 10/ evil. Whenever she uses smite evil and successfully strikes an evil outsider, the outsider is also subject to a *banishment,* using her paladin level as the caster level (her weapon and holy symbol automatically count as objects that the subject hates). After the *banishment* effect and the damage from the attack is resolved, the smite immediately ends. In addition, whenever she channels positive energy or uses lay on hands to heal a creature, she heals the maximum possible amount.
+**Holy Champion (Su)**: At 20th level, a paladin becomes a conduit for the power of her god. Her DR increases to 10/ evil. Whenever she uses smite evil and successfully strikes an evil outsider, the outsider is also subject to a *banishment,* using her paladin level as the caster level (her weapon and holy symbol automatically count as objects that the subject hates). After the [*banishment*](../../magic/spells/banishment.md) effect and the damage from the attack is resolved, the smite immediately ends. In addition, whenever she channels positive energy or uses lay on hands to heal a creature, she heals the maximum possible amount.
 
 **Code of Conduct**: A paladin must be of lawful good alignment and loses all class features except proficiencies if she ever willingly commits an evil act.
 
 Additionally, a paladin’s code requires that she respect legitimate authority, act with honor (not lying, not cheating, not using poison, and so forth), help those in need (provided they do not use the help for evil or chaotic ends), and punish those who harm or threaten innocents.
 
-**Associates**: While she may adventure with good or neutral allies, a paladin avoids working with evil characters or with anyone who consistently offends her moral code. Under exceptional circumstances, a paladin can ally with evil associates, but only to defeat what she believes to be a greater evil. A paladin should seek an *atonement* spell periodically during such an unusual alliance, and should end the alliance immediately should she feel it is doing more harm than good. A paladin may accept only henchmen, followers, or cohorts who are lawful good.
+**Associates**: While she may adventure with good or neutral allies, a paladin avoids working with evil characters or with anyone who consistently offends her moral code. Under exceptional circumstances, a paladin can ally with evil associates, but only to defeat what she believes to be a greater evil. A paladin should seek an [*atonement*](../../magic/spells/atonement.md) spell periodically during such an unusual alliance, and should end the alliance immediately should she feel it is doing more harm than good. A paladin may accept only henchmen, followers, or cohorts who are lawful good.
 
 ## Ex-Paladins
 

@@ -33,7 +33,7 @@ To qualify to become a devoted muse, a character must fulfill all of the followi
 
 **Skills**: Bluff 3 ranks, Knowledge (history) 3 ranks, Perform (dance) 5 ranks.
 
-**Feats**: Improved Feint and Weapon Finesse.
+**Feats**: [Improved Feint](../../rules/feats/improved-feint.md) and [Weapon Finesse](../../rules/feats/weapon-finesse.md).
 
 ??? note "Original requirements"
 
@@ -57,7 +57,7 @@ The devoted muse's class skills (and the key ability for each skill) are Acrobat
 
 The following are class features of the devoted muse prestige class.
 
-**Combat Expertise**: At 1st level, a devoted muse gains Combat Expertise as a bonus feat, ignoring its prerequisites.
+**Combat Expertise**: At 1st level, a devoted muse gains [Combat Expertise](../../rules/feats/combat-expertise.md) as a bonus feat, ignoring its prerequisites.
 
 **Artful Defense (Ex)**: When wearing light or no armor and not using a shield, a devoted muse adds 1 point of her Charisma bonus (if any) per class level as a dodge bonus to her Armor Class. If she is caught flat-footed or otherwise denied her Dexterity bonus, she also loses this bonus.
 
@@ -89,7 +89,7 @@ For the purpose of this ability, a devoted muse’s class levels stack with leve
 
     As a swift action, a devoted muse can spend 1 panache point to double her precise strike's damage bonus on the next attack. This benefit must be used before the end of her turn, or it is lost. This deed's cost cannot be reduced by any ability or effect that reduces the amount of panache points a deed costs (such as the Signature Deed feat).
 
-- **Swashbuckler Initiative (Ex)**: At 3rd level, while the devoted muse has at least 1 panache point, she gains a +2 bonus on initiative checks. In addition, if she has the Quick Draw feat, her hands are free and unrestrained, and she has any single light or one-handed piercing melee weapon that isn't hidden, she can draw that weapon as part of the initiative check.
+- **Swashbuckler Initiative (Ex)**: At 3rd level, while the devoted muse has at least 1 panache point, she gains a +2 bonus on initiative checks. In addition, if she has the [Quick Draw](../../rules/feats/quick-draw.md) feat, her hands are free and unrestrained, and she has any single light or one-handed piercing melee weapon that isn't hidden, she can draw that weapon as part of the initiative check.
 
 - **Swashbuckler's Grace (Ex)**: At 7th level, while the devoted muse has at least 1 panache point, she takes no penalty for moving at full speed when she uses Acrobatics to attempt to move through a threatened area or an enemy's space.
 
@@ -140,6 +140,6 @@ For the purpose of this ability, a devoted muse’s class levels stack with leve
 - *Inspirational Strike*: At 6th level, the devoted muse can inspire her comrades with her attack, granting her allies (including herself) within 30 feet a competence bonus on attack and weapon damage rolls until the end of her next turn. This bonus is equal to her weapon's critical modifier (i.e., +2 for ×2, +3 for ×3, etc.). If her attack was a critical hit, these benefits last a number of rounds equal to her Charisma modifier.
 - *Masterful Strike*: At 10th level, the devoted muse can feint against one creature within her reach as a free action after resolving the attack. If she performs an artistic flourish with this feint against a distracted target, the target's miss chance against the devoted muse increases by an amount equal to 5 × her weapon's critical multiplier.
 
-**Feinting Feat**: At 3rd level and every 3 class levels thereafter, a devoted muse gains one of the following as a bonus feat: Disengaging Feint, Disengaging Flourish, Feint Partner, Greater Feint, Improved Feint Partner, Passing Trick, Skill Focus (Bluff), Twinned Feint, or Wave Strike. The devoted muse must meet the prerequisites for the feat selected.
+**Feinting Feat**: At 3rd level and every 3 class levels thereafter, a devoted muse gains one of the following as a bonus feat: [Disengaging Feint](../../rules/feats/disengaging-feint.md), [Disengaging Flourish](../../rules/feats/disengaging-flourish.md), [Feint Partner](../../rules/feats/feint-partner.md), [Greater Feint](../../rules/feats/greater-feint.md), [Improved Feint Partner](../../rules/feats/improved-feint-partner.md), [Passing Trick](../../rules/feats/passing-trick.md), Skill Focus (Bluff), [Twinned Feint](../../rules/feats/twinned-feint.md), or [Wave Strike](../../rules/feats/wave-strike.md). The devoted muse must meet the prerequisites for the feat selected.
 
 **Limitless Art (Ex)**: At 4th level, a devoted muse starts each day with 1 additional panache point, and her maximum number of panache points increases by 1. At 7th level and again at 10th level, the number of additional panache points increases by 1.

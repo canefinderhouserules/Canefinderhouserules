@@ -38,7 +38,7 @@ Referred to as fanatics, lunatics, or obsessives, cultists see themselves as gen
 
 **Skill Ranks per Level**: 4 + Int modifier.
 
-**Weapon and Armor Proficiency**: Cult leaders are proficient with all simple weapons, plus the hand crossbow, rapier, sap, shortbow, and short sword, as well as the favored weapon of their deity. They are proficient with light armor and light shields. The cult leader does not gain Improved Unarmed Strike as a bonus feat as a warpriest normally would. This replaces the warpriest's weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: Cult leaders are proficient with all simple weapons, plus the hand crossbow, rapier, sap, shortbow, and short sword, as well as the favored weapon of their deity. They are proficient with light armor and light shields. The cult leader does not gain [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat as a warpriest normally would. This replaces the warpriest's weapon and armor proficiencies.
 
 **Well-Hidden (Ex)**: A cult leader gains a +2 bonus on Disguise and Stealth checks. This ability replaces focus weapon.
 
@@ -52,9 +52,9 @@ Referred to as fanatics, lunatics, or obsessives, cultists see themselves as gen
 
 While many warpriests focus on threats to the body, the disenchanter focuses on dangers to the mind and the soul. Using the power of his patron, the disenchanter seeks to keep the powers of magic in check.
 
-**Bonus Feats (Ex)**: Whenever a disenchanter gains a bonus feat, he must choose from the following list: Great Fortitude, Improved Counterspell, Iron Will, Lightning Reflexes, Skill Focus (Spellcraft), or Spell Focus (abjuration). At 6th level, he adds the following feats to this list: Dispel Synergy, Improved Great Fortitude, Improved Iron Will, and Improved Lightning Reflexes. At 12th level, he adds the following feats to this list:
+**Bonus Feats (Ex)**: Whenever a disenchanter gains a bonus feat, he must choose from the following list: [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Counterspell](../../rules/feats/improved-counterspell.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Skill Focus (Spellcraft), or Spell Focus (abjuration). At 6th level, he adds the following feats to this list: [Dispel Synergy](../../rules/feats/dispel-synergy.md), [Improved Great Fortitude](../../rules/feats/improved-great-fortitude.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), and [Improved Lightning Reflexes](../../rules/feats/improved-lightning-reflexes.md). At 12th level, he adds the following feats to this list:
 
-Destructive Dispel, Dispelling Critical, Parry Spell, and Ray Shield. He need not meet the prerequisites for these feats. This ability alters bonus feats.
+[Destructive Dispel](../../rules/feats/destructive-dispel.md), [Dispelling Critical](../../rules/feats/dispelling-critical.md), [Parry Spell](../../rules/feats/parry-spell.md), and [Ray Shield](../../rules/feats/ray-shield.md). He need not meet the prerequisites for these feats. This ability alters bonus feats.
 
 **Mystic Interference (Su)**: At 4th level, a disenchanter can channel a burst of pure abjuration magic to grant protection to himself and all allies with 30 feet. Affected creatures receive a +1 bonus on saving throws against spells and spell-like abilities for a number of rounds equal to his warpriest level. This is a sacred bonus if the warpriest is good-aligned or able to spontaneously cast cure spells, and a profane bonus if the warpriest is evil-aligned or able to spontaneously cast inflict spells. Using this ability consumes two uses of his fervor ability. At 8th level and every 4 levels thereafter, the bonus granted by mystic interference increases by 1 (to a maximum of+5 at 20th level). This ability replaces channel energy.
 
@@ -88,7 +88,7 @@ Armorers of exquisite skill, forgepriests take inspiration from their deity to p
 
 **Bonus Feats**: A forgepriest can select item creation feats in addition to combat feats when he gains a bonus feat. This ability alters bonus feats.
 
-Craft Magic Arms and Armor At 3rd level, a forgepriest gains Craft Magic Arms and Armor as a bonus feat. This ability replaces the bonus feat gained at 3rd level.
+[Craft Magic Arms and Armor](../../rules/feats/craft-magic-arms-and-armor.md) At 3rd level, a forgepriest gains Craft Magic Arms and Armor as a bonus feat. This ability replaces the bonus feat gained at 3rd level.
 
 **Creator's Bond (Su)**: At 4th level, when a forgepriest uses his sacred weapon ability with an item he created personally, he can expend two uses of his fervor ability to increase the bonus granted by 1 Once the forgepriest has the sacred armor ability, he can also use this ability in conjunction with that. This ability replaces channel energy.
 
@@ -102,7 +102,7 @@ There are some who find in the call to freedom something primal and spiritual. T
 
 **Devilslayer (Su)**: At 4th level, a liberty's blade adds devil-bane to the list of enhancements he can add to his sacred weapon. This ability alters sacred weapon.
 
-**Channel Liberty (Su)**: At 4th level, when a liberty's blade channels energy to heal, the effects of his healing are halved, but all creatures affected by his healing instantly benefit as if from a *liberating command* spell at the liberty's blade's caster level. When channeling to harm, the liberty's blade harms devils as if using Alignment Channel instead of harming undead, and he deals double the normal amount of damage. This ability alters channel energy.
+**Channel Liberty (Su)**: At 4th level, when a liberty's blade channels energy to heal, the effects of his healing are halved, but all creatures affected by his healing instantly benefit as if from a [*liberating command*](../../magic/spells/liberating-command.md) spell at the liberty's blade's caster level. When channeling to harm, the liberty's blade harms devils as if using [Alignment Channel](../../rules/feats/alignment-channel.md) instead of harming undead, and he deals double the normal amount of damage. This ability alters channel energy.
 
 **Shield Against Hellspawn (Su)**: At 7th level, a liberty's blade adds devil-defiant to the list of enhancements that he can add to his sacred armor. This ability alters sacred armor.
 
@@ -148,7 +148,7 @@ Arsenal chaplains are warpriests trained in a military arsenal. They bolster the
 
 **War Blessing (Su)**: An arsenal chaplain must choose War as his blessing, and can do so even if it is a domain not normally granted by his deity. He does not receive a second blessing.
 
-At 7th level, an arsenal chaplain gains Quicken Blessing (War) as a bonus feat even if he does not meet the prerequisites, but cannot grant a War blessing to himself as a swift action with Quicken Blessing until he is at least 10th level.
+At 7th level, an arsenal chaplain gains Quicken Blessing (War) as a bonus feat even if he does not meet the prerequisites, but cannot grant a War blessing to himself as a swift action with [Quicken Blessing](../../rules/feats/quicken-blessing.md) until he is at least 10th level.
 
 At 13th level, an arsenal chaplain can use the War blessing on an ally at a range of up to 30 feet by spending an additional use of the blessing ability.
 
@@ -166,7 +166,7 @@ This ability alters blessing and replaces sacred armor.
 
 Shieldbearers are divine warriors who stand on the front lines of battle, shoulder to shoulder with the soldiers of their people.
 
-**Shield Adept (Ex)**: At 1st level, a shieldbearer receives Improved Shield Bash as a bonus feat. When carrying a shield, the shieldbearer adds his shield bonus on concentration checks to cast defensively. This ability replaces focus weapon.
+**Shield Adept (Ex)**: At 1st level, a shieldbearer receives [Improved Shield Bash](../../rules/feats/improved-shield-bash.md) as a bonus feat. When carrying a shield, the shieldbearer adds his shield bonus on concentration checks to cast defensively. This ability replaces focus weapon.
 
 **Sacred Weapon (Su)**: A shieldbearer treats shields as sacred weapons (instead of his god’s favored weapon), though the shieldbearer can still designate additional weapons as sacred weapons by selecting them with the Weapon Focus feat. The shieldbearer’s sacred weapon damage applies only to attacks made with shields. The shieldbearer does not gain the ability to enhance sacred weapons until 7th level. For every 3 warpriest levels beyond 7th, this bonus increases by 1 (to a maximum of +5 at 19th level). This ability alters sacred weapon and also replaces sacred armor.
 
@@ -186,7 +186,7 @@ Some warpriests study the ancient magic that the magistrates of a lost imperium 
 
 **Bonus Languages**: An elemental magistrate's bonus language options include Aquan, Auran, Ignan, and Terran instead of Abyssal, Celestial, and Infernal. These choices are in addition to the bonus languages available to the character because of his race. This alters the warpriest's bonus languages.
 
-**Channel Element (Su)**: At 4th level, an elemental magistrate gains Elemental Channel as a bonus feat, choosing the elemental subtype that matches his blessing. He doesn't gain the ability to harm undead with channeled energy (if he channels positive energy) or heal undead (if he channels negative energy). Instead, he can channel a blast of elemental matter and energy that buffets his targets. The elemental magistrate's blessing determines the damage type of this attack, as indicated by the table below. A successful Reflex save halves the damage. This alters channel.
+**Channel Element (Su)**: At 4th level, an elemental magistrate gains [Elemental Channel](../../rules/feats/elemental-channel.md) as a bonus feat, choosing the elemental subtype that matches his blessing. He doesn't gain the ability to harm undead with channeled energy (if he channels positive energy) or heal undead (if he channels negative energy). Instead, he can channel a blast of elemental matter and energy that buffets his targets. The elemental magistrate's blessing determines the damage type of this attack, as indicated by the table below. A successful Reflex save halves the damage. This alters channel.
 
 | Blessing | Damage Type |
 |---|---|
@@ -211,7 +211,7 @@ A proclaimer is the polar opposite of a faithful wanderer, rushing into Abyss-tw
 
 **Weapon and Armor Proficiencies**: A proselytizer does not gain proficiency with heavy armor or with all martial weapons, though he does gain proficiency in his deity's favored weapon. If his deity's favored weapon is unarmed strike, he gains Improved Unarmed Strike as a bonus feat. This ability alters the warpriest's weapon and armor proficiencies.
 
-**Emotional Appeal**: A proselytizer has great power over the emotions of others, wielding his voice like a weapon to pierce the heart of listeners and bring them closer to communion with his deity's power. The warpriest adds the following spells to his warpriest spell list at the indicated levels. He casts these as divine warpriest spells: 1st—*charm person*, *rally point*, *wrath*; 2nd—*castigate*, *heroism*, *suggestion*; 3rd—*charm monster*, *lesser geas*; 4th—*forced repentance*, *serenity*; 5th—*mass castigate*, *mass suggestion*; 6th—*antipathy*, *sympathy*. This ability replaces sacred armor and the bonus feat gained at 3rd level.
+**Emotional Appeal**: A proselytizer has great power over the emotions of others, wielding his voice like a weapon to pierce the heart of listeners and bring them closer to communion with his deity's power. The warpriest adds the following spells to his warpriest spell list at the indicated levels. He casts these as divine warpriest spells: 1st—[*charm person*](../../magic/spells/charm-person.md), [*rally point*](../../magic/spells/rally-point.md), [*wrath*](../../magic/spells/wrath.md); 2nd—[*castigate*](../../magic/spells/castigate.md), [*heroism*](../../magic/spells/heroism.md), [*suggestion*](../../magic/spells/suggestion.md); 3rd—[*charm monster*](../../magic/spells/charm-monster.md), *lesser geas*; 4th—[*forced repentance*](../../magic/spells/forced-repentance.md), [*serenity*](../../magic/spells/serenity.md); 5th—*mass castigate*, *mass suggestion*; 6th—[*antipathy*](../../magic/spells/antipathy.md), [*sympathy*](../../magic/spells/sympathy.md). This ability replaces sacred armor and the bonus feat gained at 3rd level.
 
 **Sacred Subdual (Su)**: When a proselytizer uses his sacred weapon damage in place of his normal weapon damage, all damage he deals with that weapon is nonlethal damage. This ability modifies sacred weapon.
 
@@ -255,7 +255,7 @@ This replaces focus weapon, sacred weapon, and bonus feats.
 
 **Blessings of Law (Ex)**: A fist of law must select the Law blessing and the Dictate blessing (see below). This alters blessings.
 
-**Detect Chaos (Sp)**: At 3rd level, a fist of law can cast *detect chaos* three times per day as a spell-like ability, using his warpriest level as his caster level. If the fist of law already has, or later gains, the ability to cast *detect chaos*, then he can cast *detect chaos* at will as a spell-like ability. This replaces the bonus feat gained at 3rd level.
+**Detect Chaos (Sp)**: At 3rd level, a fist of law can cast [*detect chaos*](../../magic/spells/detect-chaos.md) three times per day as a spell-like ability, using his warpriest level as his caster level. If the fist of law already has, or later gains, the ability to cast *detect chaos*, then he can cast *detect chaos* at will as a spell-like ability. This replaces the bonus feat gained at 3rd level.
 
 **Alignment Channel (Su)**: At 6th level, a fist of law gains Alignment Channel as a bonus feat. When he uses this feat and spends fervor to channel energy, he can harm only outsiders with the chaotic subtype. Additionally, when using this feat, he expends only one use of his fervor to channel energy and deals 1d6 points of damage for every 2 warpriest levels he has. At 12th level, a fist of law can expend an additional use of fervor to channel energy as a move action. This replaces the bonus feats gained at 6th level and 12th level.
 
@@ -275,7 +275,7 @@ Many are the followers of the empyreal lord of vengeance who lead in battle. Far
 
 **Weapon and Armor Proficiency**: A burning wing bulwark gains proficiency in tower shields. This alters the warpriest’s weapon and armor proficiencies.
 
-**Focus Shield**: A burning wing bulwark gains Shield Focus as a bonus feat. This replaces focus weapon.
+**Focus Shield**: A burning wing bulwark gains [Shield Focus](../../rules/feats/shield-focus.md) as a bonus feat. This replaces focus weapon.
 
 **Sacred Shield (Su)**: Dedicated training and divine grace allow a burning wing bulwark to lessen the burden of a shield’s weight. As long as a burning wing bulwark is wielding a shield, she reduces her total armor check penalty by 1. This reduction improves by 1 for every 5 warpriest levels she has, to a maximum reduction of 5 at 20th level.
 
@@ -299,7 +299,7 @@ Divine champions are unswervingly devoted to their causes, and specialize in bri
 
 **Devotion**: A divine champion’s power comes from his close connection to his deity. He must worship a deity, and must maintain the same alignment as that deity.
 
-**Obedient Champion**: At 3rd level, the divine champion gains Deific Obedience as a bonus feat, even if he doesn’t meet the feat’s prerequisites. When a divine champion gains boons from this feat, he gains the appropriate sentinel boon offered by his deity, rather than gaining the exalted boon.
+**Obedient Champion**: At 3rd level, the divine champion gains [Deific Obedience](../../rules/feats/deific-obedience.md) as a bonus feat, even if he doesn’t meet the feat’s prerequisites. When a divine champion gains boons from this feat, he gains the appropriate sentinel boon offered by his deity, rather than gaining the exalted boon.
 
 This replaces the bonus feat gained at 3rd level.
 

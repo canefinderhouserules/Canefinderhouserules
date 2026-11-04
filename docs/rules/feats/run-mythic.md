@@ -4,7 +4,7 @@
 
 You run with preternatural speed and endurance.
 
-**Prerequisites**: Run.
+**Prerequisites**: [Run](run.md).
 
 **Benefit**: When running, you move seven times your normal speed if wearing medium, light, or no armor and carrying no more than a medium load, or six times your speed if wearing heavy armor or carrying a heavy load. When making a jump after a running start, you gain an additional bonus equal to your tier + 4 on your Acrobatics check.
 

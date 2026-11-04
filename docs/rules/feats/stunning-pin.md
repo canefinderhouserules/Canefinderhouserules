@@ -4,6 +4,6 @@
 
 You can render a pinned foe temporarily incapacitated.
 
-**Prerequisites**: Improved Grapple, Improved Unarmed Strike, Stunning Fist.
+**Prerequisites**: [Improved Grapple](improved-grapple.md), [Improved Unarmed Strike](improved-unarmed-strike.md), [Stunning Fist](stunning-fist.md).
 
 **Benefit**: Whenever you pin an opponent, you can spend a swift action to make a Stunning Fist attempt against that opponent.

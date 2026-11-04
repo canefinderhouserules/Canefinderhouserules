@@ -25,7 +25,7 @@ To qualify to become a first magic arcanist, a character must fulfill all of the
 
 **Alignment**: Any good.
 
-**Feats**: [Scholar](../../rules/feats/scholar.md), Spell Mastery.
+**Feats**: [Scholar](../../rules/feats/scholar.md), [Spell Mastery](../../rules/feats/spell-mastery.md).
 
 **Skills**: Spellcraft 5 ranks, Knowledge (arcana) 5 ranks, Knowledge (nature) 5 ranks.
 
@@ -41,7 +41,7 @@ The first magic arcanist's class skills (and the key ability for each skill) are
 
 The following are class features of the first magic arcanist prestige class.
 
-**Aura of Good (Ex)**: A first magic arcanist radiates an aura of good as if she were a cleric of a level equal to her class level (see the *detect good* spell).
+**Aura of Good (Ex)**: A first magic arcanist radiates an aura of good as if she were a cleric of a level equal to her class level (see the [*detect good*](../../magic/spells/detect-good.md) spell).
 
 **Halcyon Magic (Su)**: At each class level, a first magic arcanist chooses a spell from the druid spell list and treats it as if it were on the spell list of one of her arcane spellcasting classes. She must choose a druid spell at least 2 levels lower than the highest-level spell she can currently cast. The spell’s type becomes arcane and its save DC functions as normal for the arcane spellcasting class list she adds it to. The arcanist automatically learns this spell, adding it to her spellbook or familiar as appropriate for the class of the spell list to which she added the spell.
 
@@ -55,7 +55,7 @@ The following are class features of the first magic arcanist prestige class.
 
 **Spontaneous Spell Mastery (Ex)**: At 4th level, a first magic arcanist can lose any prepared spell to cast a spell of the same spell level or lower that she has mastered with the Spell Mastery feat. She can use this ability once per day, plus one additional time per day at 8th level.
 
-**Blessed Warding (Sp)**: At 5th level, a first magic arcanist is under a constant *protection from evil* effect (CL equal to her class level). If this effect is dispelled, she can reactivate it as a swift action.
+**Blessed Warding (Sp)**: At 5th level, a first magic arcanist is under a constant [*protection from evil*](../../magic/spells/protection-from-evil.md) effect (CL equal to her class level). If this effect is dispelled, she can reactivate it as a swift action.
 
 **Immediate Spell Mastery (Sp)**: At 6th level, once per day, a first magic arcanist can cast any spell she has mastered with the Spell Mastery feat, even if she hasn’t prepared it that day. This spell is treated like any other spell cast by the arcanist, but can’t be modified by metamagic feats or other abilities.
 

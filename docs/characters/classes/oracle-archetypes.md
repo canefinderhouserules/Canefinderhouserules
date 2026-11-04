@@ -28,7 +28,7 @@ The following are new mysteries for oracles. An oracle must pick one mystery upo
 
 **Sacred Council (Su)**: As a move action, you can call upon your ancestors to provide council. This advice grants you a +2 bonus on any one d20 roll. This effect lasts for 1 round. You can use this ability a number of times per day equal to your Charisma bonus.
 
-**Spirit of the Warrior (Su)**: You can summon the spirit of a great warrior ancestor and allow it to possess you, becoming a mighty warrior yourself. You gain a +4 enhancement bonus to Strength, Dexterity, and Constitution, and a +4 natural armor bonus to AC. Your base attack bonus while possessed equals your oracle level (which may give you additional attacks), and you gain the Improved Critical feat with a weapon of your choice. You can use this ability for 1 round for every 2 oracle levels you possess. This duration does not need to be consecutive, but it must be spent in 1-round increments. You must be at least 11th level to select this revelation.
+**Spirit of the Warrior (Su)**: You can summon the spirit of a great warrior ancestor and allow it to possess you, becoming a mighty warrior yourself. You gain a +4 enhancement bonus to Strength, Dexterity, and Constitution, and a +4 natural armor bonus to AC. Your base attack bonus while possessed equals your oracle level (which may give you additional attacks), and you gain the [Improved Critical](../../rules/feats/improved-critical.md) feat with a weapon of your choice. You can use this ability for 1 round for every 2 oracle levels you possess. This duration does not need to be consecutive, but it must be spent in 1-round increments. You must be at least 11th level to select this revelation.
 
 **Spirit Shield (Su)**: You can call upon the spirits of your ancestors to form a shield around you that blocks incoming attacks and grants you a +4 armor bonus. At 7th level, and every four levels thereafter, this bonus increases by +2. At 13th level, this shield causes arrows, rays, and other ranged attacks requiring an attack roll against you to have a 50% miss chance. You can use this shield for 1 hour per day per oracle level. This duration does not need to be consecutive, but it must be spent in 1-hour increments.
 
@@ -82,29 +82,29 @@ The randomly stolen thoughts remain in your mind for a number of rounds equal to
 
 **Class Skills**: An oracle with the juju mystery adds Bluff, Intimidate, Knowledge (nature), Perform (oratory), and Survival to her list of class skills.
 
-**Bonus Spells**: *speak with animals* (2nd), *hideous laughter* (4th), *fear* (6th), *charm monster* (8th), *mass suggestion* (10th), *contact other plane* (as a 6th-level spell) (12th), *summon nature's ally VII* (14th), *mass charm monster* (16th), *shapechange* (18th).
+**Bonus Spells**: [*speak with animals*](../../magic/spells/speak-with-animals.md) (2nd), [*hideous laughter*](../../magic/spells/hideous-laughter.md) (4th), [*fear*](../../magic/spells/fear.md) (6th), [*charm monster*](../../magic/spells/charm-monster.md) (8th), *mass suggestion* (10th), [*contact other plane*](../../magic/spells/contact-other-plane.md) (as a 6th-level spell) (12th), *summon nature's ally VII* (14th), *mass charm monster* (16th), [*shapechange*](../../magic/spells/shapechange.md) (18th).
 
 **Revelations**: An oracle with the juju mystery can choose from any of the following revelations. Juju oracles usually have the haunted, wasting, or tongues curse.
 
 **Beast Tongue (Ex)**: You can communicate with a single type of animal (birds, cats, snakes, fish, and so on) as if you were constantly using *speak with animals*. Although this ability grants you the ability to converse with such creatures, it grants you no special influence over them.
 
-**Connaissance (Su)**: You can spend a full-round action to attune yourself to the spirit world, gaining the benefit of a *moment of prescience* spell with the insight bonus equal to one half your oracle level (minimum 1). You may use this ability a number of times per day equal to your Charisma modifier (minimum 1), but you may only have one connaissance effect active at a time.
+**Connaissance (Su)**: You can spend a full-round action to attune yourself to the spirit world, gaining the benefit of a [*moment of prescience*](../../magic/spells/moment-of-prescience.md) spell with the insight bonus equal to one half your oracle level (minimum 1). You may use this ability a number of times per day equal to your Charisma modifier (minimum 1), but you may only have one connaissance effect active at a time.
 
-**Ensnare the Soul (Su)**: Your magic turns others into zombie-like servants. Add *charm person* and *dominate person* to your spell list. Creatures affected by either spell become listless and pale, appearing dead to observers (DC 20 Heal or Perception check to determine the creature is not undead). Affected creatures are slow to take any action unless you specifically direct them to do so. They are not mindless or helpless, however, and defend themselves if attacked.
+**Ensnare the Soul (Su)**: Your magic turns others into zombie-like servants. Add [*charm person*](../../magic/spells/charm-person.md) and [*dominate person*](../../magic/spells/dominate-person.md) to your spell list. Creatures affected by either spell become listless and pale, appearing dead to observers (DC 20 Heal or Perception check to determine the creature is not undead). Affected creatures are slow to take any action unless you specifically direct them to do so. They are not mindless or helpless, however, and defend themselves if attacked.
 
-**Juju Senses (Ex)**: When casting *detect magic* and *identify*, you gain a +2 bonus on Knowledge (arcana) and Spellcraft checks to recognize auras and identify their properties. You also gain a +2 bonus on Perception and Sense Motive checks made against spirit creatures, such as outsiders, fey, and incorporeal undead. At 10th level, this bonus increases to +4.
+**Juju Senses (Ex)**: When casting [*detect magic*](../../magic/spells/detect-magic.md) and [*identify*](../../magic/spells/identify.md), you gain a +2 bonus on Knowledge (arcana) and Spellcraft checks to recognize auras and identify their properties. You also gain a +2 bonus on Perception and Sense Motive checks made against spirit creatures, such as outsiders, fey, and incorporeal undead. At 10th level, this bonus increases to +4.
 
-**Night Terror (Su)**: You send your spirit to torment another being's dreams. Once per day, you may target a creature with the effects of a *nightmare* spell. Instead of the spell's normal damage, you make a full attack, using your Charisma modifier in place of your Strength modifier, against the victim's touch AC. You deal 1d10 damage for each successful hit. You must be at least 11th level before selecting this revelation.
+**Night Terror (Su)**: You send your spirit to torment another being's dreams. Once per day, you may target a creature with the effects of a [*nightmare*](../../magic/spells/nightmare.md) spell. Instead of the spell's normal damage, you make a full attack, using your Charisma modifier in place of your Strength modifier, against the victim's touch AC. You deal 1d10 damage for each successful hit. You must be at least 11th level before selecting this revelation.
 
 **Path of the Snake (Su)**: Once per day, as a standard action, you can become incorporeal. While in this form, you gain a +10 bonus on Stealth checks and can move in any direction and through any object (except for those made of force). You can take no action other than to move while in this form. You remain in this form for a number of rounds equal to your oracle level, but you can end this effect prematurely with a standard action. At 15th level, you can use this ability twice per day. You must be at least 11th level to select this revelation.
 
-**Spiritual Defense (Sp)**: Your chanting grants protection against your enemies. As a move action, you can begin chanting to gain the benefit of a protection spell (such as *protection from evil*) using your oracle level as your caster level. This protection lasts until you stop chanting or for the spell's normal duration, whichever comes first. Chanting after the initial round of the effect is a free action, and you can incorporate verbal components and communication into the chant; magical silence ends a chant and its protection effect. At 6th level, you can chant aloud to create a magic circle effect (such as *magic circle against evil*). You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+**Spiritual Defense (Sp)**: Your chanting grants protection against your enemies. As a move action, you can begin chanting to gain the benefit of a protection spell (such as [*protection from evil*](../../magic/spells/protection-from-evil.md)) using your oracle level as your caster level. This protection lasts until you stop chanting or for the spell's normal duration, whichever comes first. Chanting after the initial round of the effect is a free action, and you can incorporate verbal components and communication into the chant; magical silence ends a chant and its protection effect. At 6th level, you can chant aloud to create a magic circle effect (such as [*magic circle against evil*](../../magic/spells/magic-circle-against-evil.md)). You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
-**Summon Nature's Spirits (Sp)**: Once per day, as a standard action, you may cast a *summon monster* spell of a level up to the highest level you can cast. You may only summon elementals in this manner, but are treated as having the Augment Summoning feat when you do so. You must be at least 5th level to select this revelation.
+**Summon Nature's Spirits (Sp)**: Once per day, as a standard action, you may cast a *summon monster* spell of a level up to the highest level you can cast. You may only summon elementals in this manner, but are treated as having the [Augment Summoning](../../rules/feats/augment-summoning.md) feat when you do so. You must be at least 5th level to select this revelation.
 
-**Unwilling Host (Su)**: You command spirits to invade the bodies of your enemies. Once per day as a standard action you may target a number of creatures equal to your Charisma modifier within 100 feet, no two of which can be more than 30 feet apart. Targeted creatures must make a Will save or suffer the effects of a *confusion* spell as the spirits possess them and cause them to behave erratically for a number of rounds equal to your oracle level. You must be at least 7th level to select this revelation.
+**Unwilling Host (Su)**: You command spirits to invade the bodies of your enemies. Once per day as a standard action you may target a number of creatures equal to your Charisma modifier within 100 feet, no two of which can be more than 30 feet apart. Targeted creatures must make a Will save or suffer the effects of a [*confusion*](../../magic/spells/confusion.md) spell as the spirits possess them and cause them to behave erratically for a number of rounds equal to your oracle level. You must be at least 7th level to select this revelation.
 
-**Final Revelation**: At 20th level, you become a master of the connections between the mortal world and the spirit world. Your knowledge enables you to gain incredible insight and control over others by manipulating spiritual energy. You gain an insight bonus equal to your Charisma modifier to your AC and on all saving throws and Knowledge checks. Additionally, once per day, you may cast extended *dominate monster* as a spell-like ability. With this ability, you may dominate a number of creatures equal to double your Charisma modifier.
+**Final Revelation**: At 20th level, you become a master of the connections between the mortal world and the spirit world. Your knowledge enables you to gain incredible insight and control over others by manipulating spiritual energy. You gain an insight bonus equal to your Charisma modifier to your AC and on all saving throws and Knowledge checks. Additionally, once per day, you may cast extended [*dominate monster*](../../magic/spells/dominate-monster.md) as a spell-like ability. With this ability, you may dominate a number of creatures equal to double your Charisma modifier.
 
 ### Metal
 
@@ -132,11 +132,11 @@ The randomly stolen thoughts remain in your mind for a number of rounds equal to
 
 **Skill at Arms (Ex)**: You gain proficiency in all martial weapons and heavy armor.
 
-**Steel Scarf (Su)**: As a swift action, you can harden a scarf, sleeve, cloak, or other piece of your clothing into something as hard as steel that stretches out to be up to 30 feet long. You can then strike outward with it as if it were a weapon making a melee attack. For the purpose of this ability, you are proficient with this weapon. You can use the weapon to perform combat maneuvers. Make a melee attack roll against a creature within 30 feet; you may use Weapon Finesse with this attack. If you hit, the weapon deals 1d8 points of slashing damage + 1 point for every two oracle levels you possess. After this attack, the clothing returns to its normal length and hardness. You do not threaten an area with this weapon and cannot use it to make attacks of opportunity. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+**Steel Scarf (Su)**: As a swift action, you can harden a scarf, sleeve, cloak, or other piece of your clothing into something as hard as steel that stretches out to be up to 30 feet long. You can then strike outward with it as if it were a weapon making a melee attack. For the purpose of this ability, you are proficient with this weapon. You can use the weapon to perform combat maneuvers. Make a melee attack roll against a creature within 30 feet; you may use [Weapon Finesse](../../rules/feats/weapon-finesse.md) with this attack. If you hit, the weapon deals 1d8 points of slashing damage + 1 point for every two oracle levels you possess. After this attack, the clothing returns to its normal length and hardness. You do not threaten an area with this weapon and cannot use it to make attacks of opportunity. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 **Vision in Iron (Sp)**: You can use any piece of polished metal at least the size of a dagger as a scrying device, as if using the spell scrying. At 15th level, this functions like greater scrying. You can scry for a number of rounds per day equal to your oracle level; these rounds do not need to be consecutive. You must be at least 7th level to select this revelation.
 
-**Final Revelation**: Upon reaching 20th level, you become a master of iron and steel. You gain the benefits of Weapon Focus, Greater Weapon Focus, and Improved Critical with any one metal weapon that you are proficient with. Your armor is like a second skin to you—while wearing metal armor you are proficient with, the armor’s maximum Dexterity bonus increases by +5 and you take no armor check penalty. In addition, any metal you create with your magic (such as wall of iron) has its hardness increased by +10.
+**Final Revelation**: Upon reaching 20th level, you become a master of iron and steel. You gain the benefits of Weapon Focus, [Greater Weapon Focus](../../rules/feats/greater-weapon-focus.md), and Improved Critical with any one metal weapon that you are proficient with. Your armor is like a second skin to you—while wearing metal armor you are proficient with, the armor’s maximum Dexterity bonus increases by +5 and you take no armor check penalty. In addition, any metal you create with your magic (such as wall of iron) has its hardness increased by +10.
 
 ### Time
 
@@ -180,15 +180,15 @@ The randomly stolen thoughts remain in your mind for a number of rounds equal to
 
 **Revelations**: An oracle with the whimsy mystery can choose from any of the following revelations. Whimsy oracles gain powers from capricious fey tricksters.
 
-**Assumed Form (Sp)**: You can change your appearance at will, as *disguise self* with a caster level equal to your oracle level. At 7th level, you can instead physically transform, as *alter self*. At 11th level, this ability lasts until you dismiss it or use it again, allowing you to keep it active while you sleep.
+**Assumed Form (Sp)**: You can change your appearance at will, as [*disguise self*](../../magic/spells/disguise-self.md) with a caster level equal to your oracle level. At 7th level, you can instead physically transform, as [*alter self*](../../magic/spells/alter-self.md). At 11th level, this ability lasts until you dismiss it or use it again, allowing you to keep it active while you sleep.
 
-**Capricious Misdirection (Sp)**: Your ever-changing nature allows you to misdirect aura-reading divinations with ease. You are constantly under the effects of a *misdirection* spell, except that you can take a standard action to select a creature or object within 60 feet to serve as the target of detection spells used against you until you select a different creature or object. You must be at least 7th level to select this revelation.
+**Capricious Misdirection (Sp)**: Your ever-changing nature allows you to misdirect aura-reading divinations with ease. You are constantly under the effects of a [*misdirection*](../../magic/spells/misdirection.md) spell, except that you can take a standard action to select a creature or object within 60 feet to serve as the target of detection spells used against you until you select a different creature or object. You must be at least 7th level to select this revelation.
 
 **Feywise (Ex)**: Your whimsy grants you protection from fey mischief. You gain the resist nature's lure druid class feature. In addition, you gain a +2 bonus on Perception, Sense Motive, and Survival checks against fey. You must be at least 3rd level to select this revelation.
 
-**Flicker (Sp)**: You can flicker from sight for a short time, allowing you to escape or set up a prank. As a swift action, you can disappear for 1 round per oracle level. This ability functions as *invisibility*. You can use this revelation a number of times per day equal to half your oracle level (minimum 1).
+**Flicker (Sp)**: You can flicker from sight for a short time, allowing you to escape or set up a prank. As a swift action, you can disappear for 1 round per oracle level. This ability functions as [*invisibility*](../../magic/spells/invisibility.md). You can use this revelation a number of times per day equal to half your oracle level (minimum 1).
 
-**Misdirection Mastery (Su)**: You gleefully evade attacks and confound foes with your capricious misdirection. You receive Misdirection Tactics as a bonus feat. At 10th level, you receive Misdirection Redirection as a bonus feat, and at 15th level you receive Misdirection Attack as a bonus feat. You do not need to meet the prerequisites to receive these feats. You must be at least 3rd level to select this revelation.
+**Misdirection Mastery (Su)**: You gleefully evade attacks and confound foes with your capricious misdirection. You receive [Misdirection Tactics](../../rules/feats/misdirection-tactics.md) as a bonus feat. At 10th level, you receive [Misdirection Redirection](../../rules/feats/misdirection-redirection.md) as a bonus feat, and at 15th level you receive [Misdirection Attack](../../rules/feats/misdirection-attack.md) as a bonus feat. You do not need to meet the prerequisites to receive these feats. You must be at least 3rd level to select this revelation.
 
 **Pure Whimsy (Su)**: Once per day, you can release a stream of errant chaos from the fey realm as a standard action. When you do so, identify a target within 90 feet and generate a random effect as from a *rod of wonder* (or, at the GM's discretion, another random or unusual effect of similar power). The DC of any required saving throw is 10 + half your oracle level + your Charisma modifier, and no effect from this ability persists for more than 1 day. You can use this ability once per day at 7th level and one additional time per day for every 4 levels beyond 7th. You must be at least 7th level to select this revelation.
 
@@ -370,7 +370,7 @@ A warsighted's unique gifts are not in strange magical revelations, but in her a
 
 The warsighted can use this ability again before the duration expires in order to replace the previous combat feat with another choice.
 
-If a combat feat has a daily use limitation (for example, Stunning Fist), any uses of that combat feat while using this ability count toward that feat's daily limit. At later levels, when she gains multiple feats through this ability, she can use those feats to meet the prerequisites of other feats she gains with this ability. Doing so means that she cannot replace a feat currently fulfilling another's prerequisite without also replacing those feats that require it. Each individual feat selected counts toward her daily uses of this ability. At 7th level, a warsighted can use this ability to gain the benefit of two combat feats at the same time. She can select one feat as a swift action or two feats as a move action. At 11th level, a warsighted can use this ability to gain the benefits of three combat feats at the same time. She can select one feat as a free action, two feats as a swift action, or three feats as a move action.
+If a combat feat has a daily use limitation (for example, [Stunning Fist](../../rules/feats/stunning-fist.md)), any uses of that combat feat while using this ability count toward that feat's daily limit. At later levels, when she gains multiple feats through this ability, she can use those feats to meet the prerequisites of other feats she gains with this ability. Doing so means that she cannot replace a feat currently fulfilling another's prerequisite without also replacing those feats that require it. Each individual feat selected counts toward her daily uses of this ability. At 7th level, a warsighted can use this ability to gain the benefit of two combat feats at the same time. She can select one feat as a swift action or two feats as a move action. At 11th level, a warsighted can use this ability to gain the benefits of three combat feats at the same time. She can select one feat as a free action, two feats as a swift action, or three feats as a move action.
 
 At 15th level, a warsighted can use this ability to gain the benefit of one combat feat as an immediate action or three combat feats as a swift action.
 
@@ -392,7 +392,7 @@ An elementalist oracle shares an affinity with the elements and elemental creatu
 
 **Elemental Form (Su)**: At 11th level, you gain the air, earth, fire, or water subtype and an associated ability: • Air: Fly speed of 30 feet with perfect maneuverability. • Earth: Tremorsense with a range of 30 feet. • Fire: Immunity to fire and vulnerability to cold. • Water: Swim speed of 30 feet and the ability to breathe underwater.
 
-**Elemental Revelation (Su)**: At 20th level, you fully harness the power of the elements. You can apply the Elemental Spell metamagic feat to spells you cast without increasing the level or casting time. You can choose acid, cold, electricity, or fire each time you use this ability. Whenever you score a critical hit with an attack that deals energy damage, you ignore the target’s energy resistance (if any). If you score such a critical hit against a creature that has immunity to the energy type you are attacking with, the creature takes half damage from the attack. This replaces final revelation.
+**Elemental Revelation (Su)**: At 20th level, you fully harness the power of the elements. You can apply the [Elemental Spell](../../rules/feats/elemental-spell.md) metamagic feat to spells you cast without increasing the level or casting time. You can choose acid, cold, electricity, or fire each time you use this ability. Whenever you score a critical hit with an attack that deals energy damage, you ignore the target’s energy resistance (if any). If you score such a critical hit against a creature that has immunity to the energy type you are attacking with, the creature takes half damage from the attack. This replaces final revelation.
 
 ## River Soul
 
@@ -444,7 +444,7 @@ The purifier seeks out signs of possession or mind control that manifest from un
 
 **Recommended Mysteries**: ancestor, battle, heavens, lore.
 
-**Bonus Spells**: *veil of heaven* (2nd), *confess* (4th), *cast out* (6th), *denounce* (8th), *dispel evil* (10th), *banishment* (12th), *holy word* (14th), *mind blank* (16th), *freedom* (18th).
+**Bonus Spells**: [*veil of heaven*](../../magic/spells/veil-of-heaven.md) (2nd), [*confess*](../../magic/spells/confess.md) (4th), [*cast out*](../../magic/spells/cast-out.md) (6th), [*denounce*](../../magic/spells/denounce.md) (8th), [*dispel evil*](../../magic/spells/dispel-evil.md) (10th), [*banishment*](../../magic/spells/banishment.md) (12th), [*holy word*](../../magic/spells/holy-word.md) (14th), [*mind blank*](../../magic/spells/mind-blank.md) (16th), [*freedom*](../../magic/spells/freedom.md) (18th).
 
 **Diminished Spellcasting**: A purifier can use one fewer spell per day of each level and does not automatically learn cure or inflict spells. Her number of oracle spells known is unchanged.
 
@@ -456,13 +456,13 @@ The purifier seeks out signs of possession or mind control that manifest from un
 
 **Sin Eater (Su)**: At 11th level, a purifier can consume a curse, enchantment, or emotion effect by touch as a full-round action. She can do this a number of times per day equal to her Charisma modifier, and must make a Charisma check with a bonus equal to her oracle level against a DC of 11 + the caster level of the effect (or the Hit Dice of the creator for a supernatural effect). If the check succeeds, the effect is negated; however, the purifier is sickened for 1d4 rounds.
 
-If the target is possessed (such as by a *magic jar* effect or a ghost’s malevolence ability), the possessor is forced out on a successful check. Whether the check succeeds or fails, the possessor is sickened for 2d4 rounds.
+If the target is possessed (such as by a [*magic jar*](../../magic/spells/magic-jar.md) effect or a ghost’s malevolence ability), the possessor is forced out on a successful check. Whether the check succeeds or fails, the possessor is sickened for 2d4 rounds.
 
-**Sacred Scourge (Su)**: At 5th level, a purifier may channel holy power to harm evil outsiders as a cleric of her level using the Alignment Channel feat. She may use this ability a number of times per day equal to 1 + her Charisma modifier.
+**Sacred Scourge (Su)**: At 5th level, a purifier may channel holy power to harm evil outsiders as a cleric of her level using the [Alignment Channel](../../rules/feats/alignment-channel.md) feat. She may use this ability a number of times per day equal to 1 + her Charisma modifier.
 
-**Holy Terror (Su)**: At 9th level, a purifier may use her sacred scourge to panic evil outsiders as if using the Turn Undead feat against undead.
+**Holy Terror (Su)**: At 9th level, a purifier may use her sacred scourge to panic evil outsiders as if using the [Turn Undead](../../rules/feats/turn-undead.md) feat against undead.
 
-**Celestial Master (Su)**: At 13th level, a purifier may use her sacred scourge to compel good outsiders to serve her, as if using the Command Undead feat against undead.
+**Celestial Master (Su)**: At 13th level, a purifier may use her sacred scourge to compel good outsiders to serve her, as if using the [Command Undead](../../rules/feats/command-undead.md) feat against undead.
 
 ## Shigenjo
 
@@ -474,7 +474,7 @@ The shigenjo walks the path of enlightenment and transcendence by seeking onenes
 
 **Recommended Mysteries**: ancestor, battle, fire, heavens, lore, metal, nature, stone, time, waves, wood.
 
-**Bonus Spells**: *true strike* (2nd), *alter self* (4th), *divine power* (8th), *magic jar* (12th), *ki shout* (14th, *Ultimate Magic*), *moment of prescience* (16th). These bonus spells replace the shigenjo’s mystery bonus spells at these levels.
+**Bonus Spells**: [*true strike*](../../magic/spells/true-strike.md) (2nd), *alter self* (4th), [*divine power*](../../magic/spells/divine-power.md) (8th), *magic jar* (12th), [*ki shout*](../../magic/spells/ki-shout.md) (14th, *Ultimate Magic*), *moment of prescience* (16th). These bonus spells replace the shigenjo’s mystery bonus spells at these levels.
 
 **Ki Pool (Su)**: At 7th level, a shigenjo gains a pool of *ki* points, supernatural energy she can use to accomplish amazing feats. The number of points in the shigenjo’s *ki* pool is equal to 1/3 her oracle level + her Charisma modifier. The *ki* pool is replenished each morning after 8 hours of rest or meditation; these hours do not need to be consecutive. If the shigenjo possesses levels in another class that grants points to a *ki* pool, *ki* points gained from the shigenjo class stack with those gained from the other class to determine the total number of *ki* points in the combined pool, but only one ability score modifier is added to the total. The choice of which score to use is made when the second class ability is gained, and once made, the choice is permanent. The shigenjo can use *ki* points from this pool to power the abilities of every class she possesses that grants a *ki* pool.
 
@@ -490,7 +490,7 @@ This ability replaces the shigenjo’s 7th-level revelation.
 
 **Quivering Palm (Su)**: At 15th level, a shigenjo may learn quivering palm as the monk ability of the same name in place of a revelation. She treats her oracle level as her monk level for this ability, and the DC is based on her Charisma bonus instead of her Wisdom bonus.
 
-**Final Revelation**: Upon reaching 20th level, you achieve true enlightenment and becomes one with the celestial spirits. You gain the ability to speak with any creature that uses a language. For a number of days equal to your Wisdom score, you can ignore the negative effects of extreme weather, starvation, thirst, and exhaustion. If you die, your powerful connection to the celestial realm allows you to be reborn 3 days later (as *reincarnate*). This replaces the final revelation of the shigenjo’s mystery.
+**Final Revelation**: Upon reaching 20th level, you achieve true enlightenment and becomes one with the celestial spirits. You gain the ability to speak with any creature that uses a language. For a number of days equal to your Wisdom score, you can ignore the negative effects of extreme weather, starvation, thirst, and exhaustion. If you die, your powerful connection to the celestial realm allows you to be reborn 3 days later (as [*reincarnate*](../../magic/spells/reincarnate.md)). This replaces the final revelation of the shigenjo’s mystery.
 
 ## Reincarnated Oracle
 
@@ -500,7 +500,7 @@ A reincarnated oracle draws her knowledge and power from the experiences of her 
 
 **Oracle’s Curse**: A reincarnated oracle must choose the haunted or tongues curse at 1st level.
 
-**Bonus Spells**: *see alignment* (*Ultimate Combat*, 2nd), *detect thoughts* (4th), *contact other plane* (10th), *moment of prescience* (16th), *overwhelming presence* (*Ultimate Magic*, 18th). These spells replace the oracle’s mystery bonus spells at these levels.
+**Bonus Spells**: [*see alignment*](../../magic/spells/see-alignment.md) (*Ultimate Combat*, 2nd), [*detect thoughts*](../../magic/spells/detect-thoughts.md) (4th), *contact other plane* (10th), *moment of prescience* (16th), [*overwhelming presence*](../../magic/spells/overwhelming-presence.md) (*Ultimate Magic*, 18th). These spells replace the oracle’s mystery bonus spells at these levels.
 
 **Revelations**: A reincarnated oracle must take the following revelations at one of the listed levels.
 
@@ -528,7 +528,7 @@ The community guardian is chosen to protect and succor the weak and innocent wit
 
 **Class Skills**: A community guardian adds Knowledge (local), Linguistics, Perception, and Survival to her list of class skills. These replace the additional class skills from her mystery.
 
-**Bonus Spells**: *bless water* (2nd), *consecrate* (4th), *remove disease* (6th), *hallow* (10th), *heroes’ feast* (12th). These bonus spells replace the oracle’s mystery bonus spells from these levels.
+**Bonus Spells**: [*bless water*](../../magic/spells/bless-water.md) (2nd), [*consecrate*](../../magic/spells/consecrate.md) (4th), [*remove disease*](../../magic/spells/remove-disease.md) (6th), [*hallow*](../../magic/spells/hallow.md) (10th), [*heroes’ feast*](../../magic/spells/heroes-feast.md) (12th). These bonus spells replace the oracle’s mystery bonus spells from these levels.
 
 **Revelations**: A community guardian must take the following revelations at the listed levels.
 
@@ -569,7 +569,7 @@ Oracles and sorcerers gain their magical powers through strange and mysterious w
 
 **Seeker Lore (Ex)**: By 3rd level, a seeker has already learned much about his mystery, and is more comfortable using the bonus spells gained by that mystery. He gains a +4 bonus on all concentration checks, on caster level checks made to overcome spell resistance, and on all Knowledge (arcana) and Spellcraft checks made on topics associated with his bonus spells. This ability replaces the revelation gained at 3rd level.
 
-**Seeker Magic (Su)**: At 15th level, a seeker becomes skilled at modifying his mystery spells with metamagic. When a seeker applies a metamagic feat to any bonus spells granted by his mystery, he reduces the metamagic feat’s spell level adjustment by 1. Thus, applying a metamagic feat like Still Spell to a spell does not change its effective spell level at all, while applying Quicken Spell only increases the spell’s effective spell level by 3 instead of by 4. This reduction to the spell level adjustment for metamagic feats does not stack with similar reductions from other abilities. This ability replaces the revelation gained at 15th level.
+**Seeker Magic (Su)**: At 15th level, a seeker becomes skilled at modifying his mystery spells with metamagic. When a seeker applies a metamagic feat to any bonus spells granted by his mystery, he reduces the metamagic feat’s spell level adjustment by 1. Thus, applying a metamagic feat like [Still Spell](../../rules/feats/still-spell.md) to a spell does not change its effective spell level at all, while applying [Quicken Spell](../../rules/feats/quicken-spell.md) only increases the spell’s effective spell level by 3 instead of by 4. This reduction to the spell level adjustment for metamagic feats does not stack with similar reductions from other abilities. This ability replaces the revelation gained at 15th level.
 
 ## Black-Blooded Oracle
 
@@ -597,11 +597,11 @@ Desert prophets help guide and serve a vast desert empire and its interests acro
 
 **Class Skills**: A desert prophet adds Perception, Perform (dance), and all Knowledge skills to her list of class skills. These replace the additional skills gained from the oracle's mystery.
 
-**Bonus Spells**: A desert prophet gains the following bonus spells: *clairaudience/clairvoyance* (6th), *prying eyes* (10th), *true seeing* (12th), *prediction of failure* (16th), *foresight* (18th). These replace the bonus spells at those levels gained from the oracle's mystery.
+**Bonus Spells**: A desert prophet gains the following bonus spells: *clairaudience/clairvoyance* (6th), [*prying eyes*](../../magic/spells/prying-eyes.md) (10th), [*true seeing*](../../magic/spells/true-seeing.md) (12th), [*prediction of failure*](../../magic/spells/prediction-of-failure.md) (16th), [*foresight*](../../magic/spells/foresight.md) (18th). These replace the bonus spells at those levels gained from the oracle's mystery.
 
 **Revelations**: A desert prophet must take the following revelation at 1st level.
 
-*Divining Dance (Su)*: Once per day, you can perform a sacred meditative dance that gives you great clarity of mind and prepares you for what lies ahead. This dance must last for at least 1 minute, uninterrupted, and you can take no other actions during the dance. When you dance, attempt a Perform (dance) check; the results of the check determine the benefits you gain for the next 24 hours, as listed below. You can always choose the benefit from a lower result, if you wish (for example, if your Perform [dance] result is 15, you can choose to gain a +1 bonus on your divinations' saving throws instead of choosing to use *augury* once as a spell-like ability).
+*Divining Dance (Su)*: Once per day, you can perform a sacred meditative dance that gives you great clarity of mind and prepares you for what lies ahead. This dance must last for at least 1 minute, uninterrupted, and you can take no other actions during the dance. When you dance, attempt a Perform (dance) check; the results of the check determine the benefits you gain for the next 24 hours, as listed below. You can always choose the benefit from a lower result, if you wish (for example, if your Perform [dance] result is 15, you can choose to gain a +1 bonus on your divinations' saving throws instead of choosing to use [*augury*](../../magic/spells/augury.md) once as a spell-like ability).
 
 **Table: Divining Dance**
 
@@ -627,7 +627,7 @@ A cyclopean seer draws power from the mysterious prophetic abilities of ancient 
 
 **Assume Fate (Su)**: As an immediate action when targeted by an effect that requires a saving throw, you can choose another creature within line of sight that is attempting a save against the same effect. The target takes a penalty on its saving throw equal to 1d4 + 1 for every 4 levels you possess. You gain the value of their penalty as a luck bonus on your saving throw. You can use this ability a number of times per day equal to your Charisma bonus. This replaces the revelation gained at 1st level.
 
-**Brutal Trance (Su)**: Once per day as a standard action, you can enter a trance that lasts 1 round per oracle level you possess. While in this trance, you are confused, but each round that you can act normally, you can ask a single question as if using *commune*. This replaces the revelation gained at 7th level.
+**Brutal Trance (Su)**: Once per day as a standard action, you can enter a trance that lasts 1 round per oracle level you possess. While in this trance, you are confused, but each round that you can act normally, you can ask a single question as if using [*commune*](../../magic/spells/commune.md). This replaces the revelation gained at 7th level.
 
 **Revelations**: All cyclopean seers have access to the following revelations, regardless of their chosen mysteries.
 
@@ -639,7 +639,7 @@ A cyclopean seer draws power from the mysterious prophetic abilities of ancient 
 
 This ability alters the revelation class feature.
 
-**Final Revelation**: Upon reaching 20th level, you embody ancient cyclopes' insight. You can use each of the following once per day as a spell-like ability: *discern location*, *prying eyes*, and *stone tell*. In addition, using flash of insight to select a d20 roll result equal to or lower than your Charisma modifier doesn't expend that ability. This replaces the final revelation of the oracle's mystery.
+**Final Revelation**: Upon reaching 20th level, you embody ancient cyclopes' insight. You can use each of the following once per day as a spell-like ability: [*discern location*](../../magic/spells/discern-location.md), *prying eyes*, and [*stone tell*](../../magic/spells/stone-tell.md). In addition, using flash of insight to select a d20 roll result equal to or lower than your Charisma modifier doesn't expend that ability. This replaces the final revelation of the oracle's mystery.
 
 ## Hermit
 
@@ -649,11 +649,11 @@ A hermit is a recluse who gained her oracular powers from isolation in a deep de
 
 **Oracle's Curse**: A hermit must choose the reclusive curse at 1st level.
 
-**Bonus Spells**: *Blindness/deafness* (4th), *crushing despair* (8th), *wall of force* (12th), *maze* (16th). These bonus spells replace the oracle's normal mystery bonus spells at these levels.
+**Bonus Spells**: *Blindness/deafness* (4th), [*crushing despair*](../../magic/spells/crushing-despair.md) (8th), [*wall of force*](../../magic/spells/wall-of-force.md) (12th), [*maze*](../../magic/spells/maze.md) (16th). These bonus spells replace the oracle's normal mystery bonus spells at these levels.
 
 **Revelations**: A hermit must take the following revelations at the listed levels.
 
-*Recluse's Stride (Su)*: Your base speed increases by 10 feet. At 5th level, once per round when leaving a square, you can treat the square as though it isn't threatened by any opponents that you can see. At 10th level, you can teleport a distance equal to your base land speed (as per *dimension door*) as a move action, provided that there are no other creatures within 10 feet of you when you use this ability and no other creatures within 10 feet of your destination. You can teleport a number of times per day equal to 3 + your Charisma modifier. You must take this revelation at 1st level.
+*Recluse's Stride (Su)*: Your base speed increases by 10 feet. At 5th level, once per round when leaving a square, you can treat the square as though it isn't threatened by any opponents that you can see. At 10th level, you can teleport a distance equal to your base land speed (as per [*dimension door*](../../magic/spells/dimension-door.md)) as a move action, provided that there are no other creatures within 10 feet of you when you use this ability and no other creatures within 10 feet of your destination. You can teleport a number of times per day equal to 3 + your Charisma modifier. You must take this revelation at 1st level.
 
 *Fade from Memory (Su)*: At 7th level, whenever there are no creatures within 10 feet of you at the end of your turn, you gain 20% concealment until the beginning of your next turn as a free action. At 14th level, you instead gain 50% concealment until the beginning of your next turn. You can use this ability a number of times per day equal to your oracle level. You must take this revelation at 7th level.
 
@@ -665,7 +665,7 @@ Although many merfolk claim deep connections to both art and the natural world, 
 
 **Class Skills**: An ocean's echo adds Bluff, Intimidate, Knowledge (nature), and Perform to her list of class skills. These replace the additional class skills from her mystery.
 
-**Bonus Spells**: *Sound burst* (4th), *shout* (8th), *song of discord* (10th), *greater shout* (12th), and *pied piping* (14th). These bonus spells replace the oracle's mystery bonus spells at these levels.
+**Bonus Spells**: *Sound burst* (4th), [*shout*](../../magic/spells/shout.md) (8th), [*song of discord*](../../magic/spells/song-of-discord.md) (10th), *greater shout* (12th), and [*pied piping*](../../magic/spells/pied-piping.md) (14th). These bonus spells replace the oracle's mystery bonus spells at these levels.
 
 **Inspiring Song (Ex)**: The voice of an ocean's echo provides inspiration to allies. This ability is identical to bardic performance (using Perform [sing] only), allowing her to inspire courage at 1st level, inspire competence at 3rd level, and inspire heroics at 15th level, as a bard of the ocean's echo's level. It is usable a total number of rounds per day equal to her level + her Charisma modifier (minimum 1). This ability replaces the revelations gained at 1st, 3rd, and 15th level.
 
@@ -677,7 +677,7 @@ Although many merfolk claim deep connections to both art and the natural world, 
 
 **Recommended Mysteries**: ancestor, intrigue, life, lore.
 
-**Bonus Spells**: An inerrant voice gains the following bonus spells: *shield other* (2nd), *augury* (4th), *divination* (8th), *vision* (14th). These replace the bonus spells at those levels gained from the oracle's mystery.
+**Bonus Spells**: An inerrant voice gains the following bonus spells: [*shield other*](../../magic/spells/shield-other.md) (2nd), *augury* (4th), [*divination*](../../magic/spells/divination.md) (8th), [*vision*](../../magic/spells/vision.md) (14th). These replace the bonus spells at those levels gained from the oracle's mystery.
 
 **Revelations**: An inerrant voice must take the following revelation at 3rd level.
 

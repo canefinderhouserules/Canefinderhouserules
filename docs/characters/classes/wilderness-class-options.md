@@ -123,7 +123,7 @@ At 9th level and every 4 levels thereafter, you gain an additional daily use of 
 
 The following slayer talents can be taken by any slayer who meets their prerequisites.
 
-**Sticks and Stones (Ex)**: The slayer gains Catch Off-Guard as a bonus feat.
+**Sticks and Stones (Ex)**: The slayer gains [Catch Off-Guard](../../rules/feats/catch-off-guard.md) as a bonus feat.
 
 **Sunlight Strike (Ex)**: The slayer can reflect sunlight (or other sources of bright light) into the eyes of an adjacent target as a swift action, causing it to gain the dazzled condition for 1 round.
 
@@ -139,11 +139,11 @@ The following hexes are available to all witches and use the standard rules for 
 
 **Enemy Ground (Su)**: The witch curses a target with clumsiness when in dangerous terrain. The target takes a –4 penalty on Acrobatics checks to move over slippery or uneven surfaces and to avoid attacks of opportunity while moving through threatened squares. This effect lasts for 1 minute. On a successful Will save, the penalty is reduced by half and the duration is only 1 round. At 8th level, this penalty increases to –8.
 
-**Floating Lotus (Su)**: The witch can conjure a large lotus flower that floats by her side for a number of minutes per day equal to her level. This duration doesn't need to be consecutive, but must be spent in 1-minute increments. While summoned, the witch can use the lotus to cross water as if she was affected by *water walk*. She can also use the flower for short bursts of flight, gaining a +10 enhancement bonus on Acrobatics checks when attempting high jumps and long jumps. This bonus increases by 10 at 5th level, and again at 9th level.
+**Floating Lotus (Su)**: The witch can conjure a large lotus flower that floats by her side for a number of minutes per day equal to her level. This duration doesn't need to be consecutive, but must be spent in 1-minute increments. While summoned, the witch can use the lotus to cross water as if she was affected by [*water walk*](../../magic/spells/water-walk.md). She can also use the flower for short bursts of flight, gaining a +10 enhancement bonus on Acrobatics checks when attempting high jumps and long jumps. This bonus increases by 10 at 5th level, and again at 9th level.
 
 **Heralding Bloom (Su)**: A witch can compel a plant within 30 feet to spread a message, which must be 25 words or fewer and in a language the witch speaks. This message can't contain verbal spell components, command words, or other magical effects. An intelligent plant that's targeted can attempt a Will save to negate the effect. If the save fails, the plant is magically compelled to "speak" this message in an audible voice, repeating it each time one or more intelligent creatures to whom the message has not yet been repeated comes within range, until 24 hours after the hex has been placed. The plant under the effect of the hex does not gain any special intelligence from this hex or gain any ability to understand the message if it does not normally understand the language the message is delivered in, and it is in no way otherwise compelled to act in any way it would not normally. A witch can have a number of heralding blooms active equal to her witch level + her Charisma modifier.
 
-**Iceplant (Su)**: This hex grants the witch and her familiar a +2 natural armor bonus and the constant effects of *endure elements*. The effect leaves the witch's skin thick and stiff to the touch.
+**Iceplant (Su)**: This hex grants the witch and her familiar a +2 natural armor bonus and the constant effects of [*endure elements*](../../magic/spells/endure-elements.md). The effect leaves the witch's skin thick and stiff to the touch.
 
 **Leshy Summoning (Su)**: The witch counts as a plant creature for the purpose of growing leshys. She adds leaf leshys, gourd leshys, fungus leshys, seaweed leshys, and lotus leshys to the list of creatures she can summon with *summon monster I*, *II*, *III*, *IV*, and *V*, respectively.
 

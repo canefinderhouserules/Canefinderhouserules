@@ -2,7 +2,7 @@
 
 You are accustomed to diving deeper than most would dare swim and can do so with less risk of drowning than even other experienced swimmers.
 
-**Prerequisite**: Endurance.
+**Prerequisite**: [Endurance](endurance.md).
 
 **Benefit**: You gain a +4 bonus on Acrobatics checks to reduce falling damage when diving into water and on Perception checks in dim light or darkness underwater. When attempting a Swim check to swim downward (at least 45 degrees down from the horizontal), on a successful check you can swim half your speed as a move action, or your speed as a full-round action. If you have a swim speed, it increases by 10 feet when you spend a move action to swim only downward.
 

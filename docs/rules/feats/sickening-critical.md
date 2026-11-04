@@ -4,7 +4,7 @@
 
 Your critical hits cause opponents to become sickened.
 
-**Prerequisites**: Critical Focus, base attack bonus +11.
+**Prerequisites**: [Critical Focus](critical-focus.md), base attack bonus +11.
 
 **Benefit**: Whenever you score a critical hit, your opponent becomes sickened for 1 minute. The effects of this feat do not stack. Additional hits instead add to the effect’s duration.
 

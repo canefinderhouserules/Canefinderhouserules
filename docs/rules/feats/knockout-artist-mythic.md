@@ -4,6 +4,6 @@
 
 Your knockout punches are truly mighty.
 
-**Prerequisite**: Knockout Artist.
+**Prerequisite**: [Knockout Artist](knockout-artist.md).
 
 **Benefit**: When you use your unarmed strike to deal nonlethal damage and sneak attack damage to an opponent, roll d8s for each sneak attack die instead of d6s.

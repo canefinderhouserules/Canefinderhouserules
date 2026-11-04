@@ -25,7 +25,7 @@ To qualify to become a student of war, a character must fulfill all of the follo
 
 **Base Attack Bonus**: +5.
 
-**Feats**: Combat Expertise, Dodge, Skill Focus (any one Knowledge skill).
+**Feats**: [Combat Expertise](../../rules/feats/combat-expertise.md), Dodge, Skill Focus (any one Knowledge skill).
 
 **Proficiency**: Must be proficient with two martial weapons.
 
@@ -48,7 +48,7 @@ The following are class features of the student of war prestige class.
 **Know Your Enemy (Ex)**: As a move action, a student of war can study a foe she can see and attempt a Knowledge check appropriate to the creature’s type (DC = 10 + the target’s HD). Success grants her a +1 insight bonus against her enemy, which can be applied via one of the following stances (chosen when the check is attempted) to the indicated statistics and rolls.
 
 - **Defensive Stance**: The bonus applies to Armor Class and on saving throws against the target’s attacks. At 6th level, the student of war is treated as having the Mobility feat when provoking attacks of opportunity from the studied foe. If she already has Mobility, the bonus she gains to her AC in this case increases to +6.
-- **Martial Stance**: The bonus applies on attack and damage rolls against the target. At 4th level, the student of war is treated as having the Critical Focus feat for the purpose of attacks against the studied foe. If she already has Critical Focus, the bonus she gains when confirming her critical hits in this case is +6 instead.
+- **Martial Stance**: The bonus applies on attack and damage rolls against the target. At 4th level, the student of war is treated as having the [Critical Focus](../../rules/feats/critical-focus.md) feat for the purpose of attacks against the studied foe. If she already has Critical Focus, the bonus she gains when confirming her critical hits in this case is +6 instead.
 - **Tactical Stance**: The bonus applies on combat maneuver checks and to CMD when initiating or defending against bull rush, disarm, grapple, overrun, and trip combat maneuvers. At 8th level, the student of war no longer provokes attacks of opportunity from a studied foe when attempting to bull rush, disarm, grapple, overrun, or trip that target; this does not affect attacks of opportunity made by any creature other than the studied foe.
 
 A student of war can change her stance as a move action. The bonus lasts for 1 minute per class level or until the character uses this ability on another target. The bonus increases to +2 at 4th level and +3 at 7th level. At 7th level, the student can use this ability as a swift action rather than a move action.
@@ -57,9 +57,9 @@ A student of war can change her stance as a move action. The bonus lasts for 1 m
 
 **Mind Over Metal (Ex)**: At 2nd level, when a student of war is using armor or a shield, she can use her Intelligence modifier in place of her Dexterity modifier for determining her Armor Class. The armor’s normal maximum Dexterity bonus still applies (limiting how much of the character’s Intelligence bonus she can apply to her AC).
 
-**Anticipate (Ex)**: At 3rd level, once per day as an immediate action, a student of war can ignore any damage and effects of a spell or ability she successfully saved against, such as the outlining effect of a *glitterdust* spell or the half damage from an *inflict serious wounds* spell. This ability has no effect against effects that do not allow saving throws (such as *darkness*, difficult terrain, etc.). This ability is usable one additional time per day for every 3 class levels beyond 3rd.
+**Anticipate (Ex)**: At 3rd level, once per day as an immediate action, a student of war can ignore any damage and effects of a spell or ability she successfully saved against, such as the outlining effect of a [*glitterdust*](../../magic/spells/glitterdust.md) spell or the half damage from an [*inflict serious wounds*](../../magic/spells/inflict-serious-wounds.md) spell. This ability has no effect against effects that do not allow saving throws (such as [*darkness*](../../magic/spells/darkness.md), difficult terrain, etc.). This ability is usable one additional time per day for every 3 class levels beyond 3rd.
 
-**Telling Blow (Ex)**: At 6th level, a student of war can aim her blows at the weakest point in a studied foe’s defense, ignoring up to 5 points of damage reduction. This does not apply to damage reduction without a type (such as DR 10/—). This ability cannot be used against creatures that are immune to critical hits or otherwise lack discernible weak points. This ability stacks with the Penetrating Strike feat.
+**Telling Blow (Ex)**: At 6th level, a student of war can aim her blows at the weakest point in a studied foe’s defense, ignoring up to 5 points of damage reduction. This does not apply to damage reduction without a type (such as DR 10/—). This ability cannot be used against creatures that are immune to critical hits or otherwise lack discernible weak points. This ability stacks with the [Penetrating Strike](../../rules/feats/penetrating-strike.md) feat.
 
 **Nemesis (Su)**: At 9th level, once per day as a swift action, a student of war can focus on a weapon she holds and render it anathema to her studied foe. The weapon gains the bane special ability against the creature for 1 minute or until the student of war uses know your enemy against a different foe.
 

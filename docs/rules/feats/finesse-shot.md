@@ -4,7 +4,7 @@
 
 You can use ranged attacks to perform actions that require finesse.
 
-**Prerequisites**: Marksman’s Utility, base attack bonus +7, weapon training class feature with a ranged weapon.
+**Prerequisites**: [Marksman’s Utility](marksmans-utility.md), base attack bonus +7, weapon training class feature with a ranged weapon.
 
 **Benefit**: In addition to the options allowed by the utility shot gunslinger deed, you gain access to the following utility shots.
 

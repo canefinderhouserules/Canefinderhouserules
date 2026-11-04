@@ -105,7 +105,7 @@ At 1st level a legendary magus devotes herself to studying a blend of martial an
 
 #### Armaments of the Magi
 
-At 1st level, the legendary magus gains Arcane Strike as a bonus feat, and she may activate her Arcane Strike as a free action at the beginning of each turn. At 3rd level, the legendary magus gains Riving Strike as a bonus feat. When she uses her Arcane Strike ability with Vital Strike, Improved Vital Strike, or Greater Vital Strike, the bonus on damage rolls for Arcane Strike is multiplied by the number of times (two, three, or four) she rolls damage dice for one of those feats. This ability does not stack with other abilities or feats that multiply the damage of Arcane Strike dealt as part of an attack action.
+At 1st level, the legendary magus gains [Arcane Strike](../../../rules/feats/arcane-strike.md) as a bonus feat, and she may activate her Arcane Strike as a free action at the beginning of each turn. At 3rd level, the legendary magus gains [Riving Strike](../../../rules/feats/riving-strike.md) as a bonus feat. When she uses her Arcane Strike ability with [Vital Strike](../../../rules/feats/vital-strike.md), [Improved Vital Strike](../../../rules/feats/improved-vital-strike.md), or [Greater Vital Strike](../../../rules/feats/greater-vital-strike.md), the bonus on damage rolls for Arcane Strike is multiplied by the number of times (two, three, or four) she rolls damage dice for one of those feats. This ability does not stack with other abilities or feats that multiply the damage of Arcane Strike dealt as part of an attack action.
 
 #### Arcane Potential (Su)
 
@@ -147,7 +147,7 @@ At 2nd level, a magus learns to cast spells and wield her weapons at the same ti
 
 #### Combat Casting
 
-At 4th level the legendary magus gains Combat Casting as a bonus feat, and no longer provokes opportunity attacks for casting 0th level magus spells during spell combat.
+At 4th level the legendary magus gains [Combat Casting](../../../rules/feats/combat-casting.md) as a bonus feat, and no longer provokes opportunity attacks for casting 0th level magus spells during spell combat.
 
 #### Bonus Feats
 

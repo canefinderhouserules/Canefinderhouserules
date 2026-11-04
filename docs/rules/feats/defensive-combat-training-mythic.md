@@ -4,6 +4,6 @@
 
 Your defensive capabilities in combat are unmatched.
 
-**Prerequisite**: Defensive Combat Training, 4th mythic tier.
+**Prerequisite**: [Defensive Combat Training](defensive-combat-training.md), 4th mythic tier.
 
 **Benefit**: Add half your tier to your CMD.

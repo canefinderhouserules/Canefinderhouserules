@@ -6,7 +6,7 @@ Each shaman must select from the following spirits. Unless otherwise noted, the 
 
 A shaman that selects the ancestors spirit has wise eyes and thick white or silver hair. Fine wrinkles line the shaman's face, becoming more obvious when she smiles or glowers. When she calls upon one of this spirit's abilities, her hair glows as though lit from within, rustling of its own accord.
 
-**Spirit Magic Spells**: *Unseen servant* (1st), *spiritual weapon* (2nd), *heroism* (3rd), *spiritual ally* (4th), *telekinesis* (5th), *greater heroism* (6th), *ethereal jaunt* (7th), *vision* (8th), *astral projection* (9th).
+**Spirit Magic Spells**: *Unseen servant* (1st), [*spiritual weapon*](../../magic/spells/spiritual-weapon.md) (2nd), [*heroism*](../../magic/spells/heroism.md) (3rd), [*spiritual ally*](../../magic/spells/spiritual-ally.md) (4th), [*telekinesis*](../../magic/spells/telekinesis.md) (5th), *greater heroism* (6th), [*ethereal jaunt*](../../magic/spells/ethereal-jaunt.md) (7th), [*vision*](../../magic/spells/vision.md) (8th), [*astral projection*](../../magic/spells/astral-projection.md) (9th).
 
 **Hexes**: A shaman who chooses the ancestors spirit can select from the following hexes.
 
@@ -14,7 +14,7 @@ A shaman that selects the ancestors spirit has wise eyes and thick white or silv
 
 **Ghost Blade (Su)**: The shaman can touch a creature to grant all of her weapons the ghost touch weapon property for a number of rounds equal to her Charisma bonus. Once a creature has been the target of this ability, it can't be the target of this ability again for 24 hours.
 
-**Intercessor (Sp)**: The shaman can invoke an ancestor spirit into an intact, humanoid or monstrous humanoid corpse to learn what the body knew in life. This acts as *speak with dead*, but the shaman may ask only a single question. If an animated corpse or undead is targeted with this ability, the hex immediately fails. Once a corpse has answered a single question, it can't be targeted with this ability again.
+**Intercessor (Sp)**: The shaman can invoke an ancestor spirit into an intact, humanoid or monstrous humanoid corpse to learn what the body knew in life. This acts as [*speak with dead*](../../magic/spells/speak-with-dead.md), but the shaman may ask only a single question. If an animated corpse or undead is targeted with this ability, the hex immediately fails. Once a corpse has answered a single question, it can't be targeted with this ability again.
 
 **Might of the Fallen (Su)**: The shaman can call upon the ancestral heroes of her family to bolster ailing allies. As a standard action, the shaman can cure 1 point of temporary ability damage affecting the creature touched. At 7th level, this increases to 1d4 points of temporary ability damage. Once a creature has been the target of this hex, it can't be the target of this hex again for 24 hours.
 
@@ -32,7 +32,7 @@ A shaman that selects the ancestors spirit has wise eyes and thick white or silv
 
 **True Spirit Ability**: A shaman who chooses the ancestors spirit as her spirit or wandering spirit gains the following ability upon having access to the true version of that spirit.
 
-**Ancestral Guardian (Sp)**: The shaman can call on the ancient allies of her ancestors to physically appear and assist her, even if they have moved on to new roles in the cosmos. Once per day as a standard action, the shaman can cast *planar ally*. Although there is no cost to use the spell-like ability, the planar ally demands payment for services it performs as normal for the spell.
+**Ancestral Guardian (Sp)**: The shaman can call on the ancient allies of her ancestors to physically appear and assist her, even if they have moved on to new roles in the cosmos. Once per day as a standard action, the shaman can cast [*planar ally*](../../magic/spells/planar-ally.md). Although there is no cost to use the spell-like ability, the planar ally demands payment for services it performs as normal for the spell.
 
 **Manifestation**: Upon reaching 20th level, the shaman becomes one with the spirits of her ancestors. She gains a bonus on Will saving throws equal to her Charisma modifier, blindsense out to a range of 60 feet, and a +4 bonus to her caster level for all divination spells. She can cast *astral projection* as a spell-like ability once per day without requiring material components.
 
@@ -44,7 +44,7 @@ A shaman who selects the battle spirit gains scars from every wound she takes, a
 
 **Hexes**: A shaman who chooses the battle spirit can select from the following hexes.
 
-**Battle Master (Ex)**: The shaman makes an extra attack of opportunity each round. This ability stacks with the attacks of opportunity granted by the Combat Reflexes feat. At 8th level, the shaman gains the Weapon Specialization feat in a weapon of her choice as a bonus feat. At 16th level, the shaman gains the Greater Weapon Focus feat as a bonus feat, for the same weapon chosen for Weapon Specialization. The shaman doesn't need to meet the prerequisites of these feats.
+**Battle Master (Ex)**: The shaman makes an extra attack of opportunity each round. This ability stacks with the attacks of opportunity granted by the [Combat Reflexes](../../rules/feats/combat-reflexes.md) feat. At 8th level, the shaman gains the [Weapon Specialization](../../rules/feats/weapon-specialization.md) feat in a weapon of her choice as a bonus feat. At 16th level, the shaman gains the [Greater Weapon Focus](../../rules/feats/greater-weapon-focus.md) feat as a bonus feat, for the same weapon chosen for Weapon Specialization. The shaman doesn't need to meet the prerequisites of these feats.
 
 **Battle Ward (Su)**: The shaman touches a willing creature (including herself) and grants a battle ward. The next time a foe makes an attack roll against the target, the ward activates and grants a +3 deflection bonus to the warded creature's AC. Each subsequent time she's attacked, the defection bonus reduces by 1 (to +2 for the second time she's attacked and +1 for the third). The ward fades when the bonus is reduced to +0 or after 24 hours, whichever comes first. At 8th level, the ward's starting bonus increases to +4. At 16th level, it increases to +5. A creature affected by this hex cannot be affected by it again for 24 hours.
 
@@ -114,7 +114,7 @@ A shaman who selects the flame spirit has a radiant light behind her eyes and th
 
 **Hexes**: A shaman who chooses the flame spirit can select from the following hexes.
 
-**Cinder Dance (Ex)**: The shaman's base speed increases by 10 feet. At 5th level, the shaman receives Nimble Moves as a bonus feat. At 10th level, the shaman receives Acrobatic Steps as a bonus feat. The shaman doesn't need to meet the prerequisites of these feats.
+**Cinder Dance (Ex)**: The shaman's base speed increases by 10 feet. At 5th level, the shaman receives [Nimble Moves](../../rules/feats/nimble-moves.md) as a bonus feat. At 10th level, the shaman receives [Acrobatic Steps](../../rules/feats/acrobatic-steps.md) as a bonus feat. The shaman doesn't need to meet the prerequisites of these feats.
 
 **Fire Nimbus (Su)**: The shaman causes a creature within 30 feet to gain a nimbus of fire. Though this doesn't harm the creature, it does cause the creature to emit light like a torch, preventing it from gaining any benefit from concealment or invisibility. The target also takes a -2 penalty on saving throws against spells or effects that deal fire damage. The fire nimbus lasts for a number of rounds equal to the shaman's level. A successful Will saving throw negates this effect. Whether or not the save is successful, the creature cannot be the target of this hex again for 24 hours.
 
@@ -138,13 +138,13 @@ A shaman who selects the flame spirit has a radiant light behind her eyes and th
 
 **Elemental Form (Su)**: As a standard action, the shaman assumes the form of a Huge (or smaller) fire elemental, as if using elemental body IV with a duration of 1 hour per level. The shaman can use this ability once per day.
 
-**Manifestation**: Upon reaching 20th level, the shaman becomes a spirit of flame. The shaman gains fire resistance 30. She can also apply any one of the following feats to any fire spell she casts without increasing the spell's level or casting time: Enlarge Spell, Extend Spell, Silent Spell, or Still Spell. She doesn't need to possess these feats to use this ability.
+**Manifestation**: Upon reaching 20th level, the shaman becomes a spirit of flame. The shaman gains fire resistance 30. She can also apply any one of the following feats to any fire spell she casts without increasing the spell's level or casting time: [Enlarge Spell](../../rules/feats/enlarge-spell.md), [Extend Spell](../../rules/feats/extend-spell.md), [Silent Spell](../../rules/feats/silent-spell.md), or [Still Spell](../../rules/feats/still-spell.md). She doesn't need to possess these feats to use this ability.
 
 ## Frost
 
 Far to the north, tribes have adapted to life in the bitter cold. The frost spirit is seen by some as a protector of their way of life, and shamans who commune with the spirit are shown great respect in their communities. A shaman who selects the frost spirit has coarse white hair and always feels cold to the touch.
 
-**Spirit Magic Spells**: *Frostbite* (1st), *elemental touch* (cold only, 2nd), *elemental aura* (cold only, 3rd), *ice storm* (4th), *summon monster V* (ice elementals only, 5th), *freezing sphere* (6th), *ice body* (7th), *polar ray* (8th), *mass icy prison* (9th).
+**Spirit Magic Spells**: *Frostbite* (1st), [*elemental touch*](../../magic/spells/elemental-touch.md) (cold only, 2nd), [*elemental aura*](../../magic/spells/elemental-aura.md) (cold only, 3rd), [*ice storm*](../../magic/spells/ice-storm.md) (4th), *summon monster V* (ice elementals only, 5th), [*freezing sphere*](../../magic/spells/freezing-sphere.md) (6th), [*ice body*](../../magic/spells/ice-body.md) (7th), [*polar ray*](../../magic/spells/polar-ray.md) (8th), *mass icy prison* (9th).
 
 **Hexes**: A shaman who chooses the frost spirit can select from the following hexes.
 
@@ -156,7 +156,7 @@ Far to the north, tribes have adapted to life in the bitter cold. The frost spir
 
 **Tundra Dweller (Su)**: The shaman touches a willing creature and grants it cold resistance 10 for a number of rounds equal to her Charisma modifier (minimum 1). This resistance does not stack with any other cold resistance, such as from special abilities or magical items. At 8th and 16th levels, the duration of this hex is extended by 1 round. A creature targeted by this hex cannot be affected by it again for 24 hours.
 
-**Wilds-Attuned (Ex)**: The shaman receives Animal Affinity as a bonus feat and gains a +4 insight bonus on Knowledge (nature) checks when in a cold climate.
+**Wilds-Attuned (Ex)**: The shaman receives [Animal Affinity](../../rules/feats/animal-affinity.md) as a bonus feat and gains a +4 insight bonus on Knowledge (nature) checks when in a cold climate.
 
 **Spirit Animal**: The shaman's spirit animal is covered in a light layer of glimmering frost, and its breath comes out as mist regardless of the temperature. The animal has resistance 5 to cold and electricity.
 
@@ -184,7 +184,7 @@ A shaman who selects the heavens spirit has eyes that sparkle like starlight, ex
 
 **Enveloping Void (Su)**: The shaman curses one creature with the dark void. As a standard action, the shaman can cause one enemy within 30 feet to treat the light level as two steps lower: bright light becomes dim light, normal light becomes darkness, and areas of dim light and darkness become supernaturally dark (like darkness, but even creatures with darkvision cannot see). This effect lasts for a number of rounds equal to the shaman's level. A successful Will saving throw negates this effect. Whether or not the save is successful, the creature cannot be the target of this hex again for 24 hours.
 
-**Guiding Star (Su)**: Whenever the shaman can see the open sky at night, she can determine her precise location and can add her Wisdom modifier to her Charisma modifier on all Charisma-based skill checks. In addition, once per night while outdoors, she can cast one spell as if it were modified by the Empower Spell, Extend Spell, Silent Spell, or Still Spell feat without increasing the spell's casting time or level. The shaman doesn't need to possess the feat to use this ability.
+**Guiding Star (Su)**: Whenever the shaman can see the open sky at night, she can determine her precise location and can add her Wisdom modifier to her Charisma modifier on all Charisma-based skill checks. In addition, once per night while outdoors, she can cast one spell as if it were modified by the [Empower Spell](../../rules/feats/empower-spell.md), Extend Spell, Silent Spell, or Still Spell feat without increasing the spell's casting time or level. The shaman doesn't need to possess the feat to use this ability.
 
 **Heaven's Leap (Su)**: The shaman is adept at creating tiny tears in the fabric of space, and temporarily stitching them together to reach other locations through a limited, one-way wormhole. As a standard action, the shaman can designate herself or a single ally that she can see who is within 30 feet of her. She can move that creature as if it were subject to jester's jaunt. Once targeted by this hex, the ally cannot be the target of this hex again for 24 hours.
 
@@ -286,15 +286,15 @@ A shaman who selects the mammoth spirit is abnormally tall and stocky, with thic
 
 **Phantom Stampede (Su)**: The shaman summons a host of ghostly herd beasts to trample a single creature. These phantom beasts affect only the target creature, which is buffeted and pummeled by their passing. The creature takes no damage from the ability, but takes a –4 penalty to its CMD versus bull rush, overrun, and trip attempts. Additionally, spellcasters under the effect of this ability take a –4 penalty on concentration checks. The target receives no saving throw to negate this effect. This effect lasts a number of rounds equal to the shaman's level. The creature can't be the target of this hex again for 24 hours.
 
-**Primal Speaker (Ex)**: The shaman can speak with mammoths and any other megafauna or elephant creatures as if she were under the effects of *speak with animals*. At 5th level, the shaman gains a bonus on Handle Animal checks when dealing with those animals equal to 1/2 her shaman level. At 10th level, the shaman can affect one such animal within 30 feet as if she'd cast *charm animal*. A successful Will saving throw negates this effect. Whether or not the save is successful, the creature can't be the target of this hex again for 24 hours.
+**Primal Speaker (Ex)**: The shaman can speak with mammoths and any other megafauna or elephant creatures as if she were under the effects of [*speak with animals*](../../magic/spells/speak-with-animals.md). At 5th level, the shaman gains a bonus on Handle Animal checks when dealing with those animals equal to 1/2 her shaman level. At 10th level, the shaman can affect one such animal within 30 feet as if she'd cast [*charm animal*](../../magic/spells/charm-animal.md). A successful Will saving throw negates this effect. Whether or not the save is successful, the creature can't be the target of this hex again for 24 hours.
 
-**Thunder Foot (Ex)**: The shaman's body thickens and becomes more muscular. For the purpose of the overrun combat maneuver, she treats her shaman level as her base attack bonus when calculating her CMB and CMD. At 7th level, the shaman gains Improved Overrun as a bonus feat. At 11th level, the shaman gains Greater Overrun as a bonus feat. The shaman doesn't need to meet the prerequisites of these feats.
+**Thunder Foot (Ex)**: The shaman's body thickens and becomes more muscular. For the purpose of the overrun combat maneuver, she treats her shaman level as her base attack bonus when calculating her CMB and CMD. At 7th level, the shaman gains [Improved Overrun](../../rules/feats/improved-overrun.md) as a bonus feat. At 11th level, the shaman gains [Greater Overrun](../../rules/feats/greater-overrun.md) as a bonus feat. The shaman doesn't need to meet the prerequisites of these feats.
 
 **Spirit Animal**: The shaman's spirit animal appears more primal and prehistoric than an ordinary animal of its kind. It gains a +2 inherent bonus to its Strength score. The spirit animal loses this bonus when it manifests as a megafauna companion.
 
 **Spirit Ability**: A shaman who chooses the mammoth spirit as her spirit or wandering spirit gains the following ability.
 
-**Powerful Smash (Ex)**: As a standard action, the shaman can attack with unarmed strikes as if she had the Improved Unarmed Strike feat. If the shaman hits a creature in this way, that creature must succeed at a Fortitude save (DC = 10 + 1/2 the shaman's class level + her Charisma modifier) or be dazed for 1 round. The shaman can use this ability a number of times per day equal to 3 + her Charisma modifier.
+**Powerful Smash (Ex)**: As a standard action, the shaman can attack with unarmed strikes as if she had the [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) feat. If the shaman hits a creature in this way, that creature must succeed at a Fortitude save (DC = 10 + 1/2 the shaman's class level + her Charisma modifier) or be dazed for 1 round. The shaman can use this ability a number of times per day equal to 3 + her Charisma modifier.
 
 **Greater Spirit Ability**: A shaman who selects the mammoth spirit using her greater spirit or greater wandering spirit class feature gains the following special ability.
 
@@ -360,7 +360,7 @@ A shaman who selects the slums spirit gains the city's alleys and avenues as ste
 
 **Spirit Ability**: A shaman who chooses the slums spirit as her spirit or wandering spirit gains the following ability.
 
-**Doors to Everywhere (Ex)**: As a standard action, the shaman can step through any door and instantly exit through another distant doorway. Regardless of what spell this functions as, it can transport only you, and both your departure and arrival spaces must be adjacent to a door or similar opening. Initially, this functions as per *jester's jaunt*. At 9th level, the shaman can use this ability as per *dimension door*. At 14th level, the shaman can use this ability as per *tree stride* (treating all doors as generic coniferous trees). You can use this ability three times per day, plus one additional time per day at 12th level and at 20th level.
+**Doors to Everywhere (Ex)**: As a standard action, the shaman can step through any door and instantly exit through another distant doorway. Regardless of what spell this functions as, it can transport only you, and both your departure and arrival spaces must be adjacent to a door or similar opening. Initially, this functions as per [*jester's jaunt*](../../magic/spells/jesters-jaunt.md). At 9th level, the shaman can use this ability as per [*dimension door*](../../magic/spells/dimension-door.md). At 14th level, the shaman can use this ability as per [*tree stride*](../../magic/spells/tree-stride.md) (treating all doors as generic coniferous trees). You can use this ability three times per day, plus one additional time per day at 12th level and at 20th level.
 
 **Greater Spirit Ability**: A shaman who chooses the slums spirit as her spirit or wandering spirit gains the following ability upon having access to the greater version of that spirit.
 
@@ -386,7 +386,7 @@ The skin of a shaman who selects the stone spirit takes on a rough, stony appear
 
 **Metal Curse (Su)**: The shaman causes a creature within 30 feet to become slightly magnetic until the end of the shaman's next turn. Whenever the creature is attacked with a melee or ranged weapon constructed primarily of metal, it takes a -2 penalty to AC. At 8th and 16th levels, the penalty increases by -2 and the duration extends by 1 round. Once affected, the creature cannot be the target of this hex again for 24 hours.
 
-**Stone Stability (Ex)**: The shaman receives a +4 bonus to her CMD when resisting bull rush or trip attempts as long as she is standing on the ground. At 5th level, the shaman receives Improved Trip as a bonus feat. At 10th level, the shaman receives Greater Trip as a bonus feat. The shaman does not need to meet the prerequisites of these feats.
+**Stone Stability (Ex)**: The shaman receives a +4 bonus to her CMD when resisting bull rush or trip attempts as long as she is standing on the ground. At 5th level, the shaman receives [Improved Trip](../../rules/feats/improved-trip.md) as a bonus feat. At 10th level, the shaman receives [Greater Trip](../../rules/feats/greater-trip.md) as a bonus feat. The shaman does not need to meet the prerequisites of these feats.
 
 **Ward of Stone (Su)**: The shaman touches a willing creature (including herself) and grants a ward of stone. The next time the warded creature is struck with a melee attack, it is treated as if it has DR 5/adamantine. This ward lasts for 1 minute, after which it fades away if not already expended. At 8th and 16th levels, the ward lasts for one additional attack. Once this ward ends, the creature cannot be the target of this hex again for 24 hours.
 
@@ -412,7 +412,7 @@ A shaman who selects the Outer Dark spirit is often a misanthropic loner. While 
 
 The spirits of the Outer Dark have often been known to whisper dangerous secrets to mortals who dwell on sane worlds. Such spirits might be found anywhere touched by the light of baleful stars, but they are most frequently found lurking around unfathomably ancient ruins of aberrant civilizations.
 
-**Spirit Magic Spells**: *entropic shield* (1st), *contact entity I* (2nd), *contact entity II* (3rd), *black tentacles* (4th), *contact entity III* (5th), *feeblemind* (6th), *contact entity IV* (7th), *insanity* (8th), *interplanetary teleport* (9th).
+**Spirit Magic Spells**: [*entropic shield*](../../magic/spells/entropic-shield.md) (1st), *contact entity I* (2nd), *contact entity II* (3rd), [*black tentacles*](../../magic/spells/black-tentacles.md) (4th), *contact entity III* (5th), [*feeblemind*](../../magic/spells/feeblemind.md) (6th), *contact entity IV* (7th), [*insanity*](../../magic/spells/insanity.md) (8th), [*interplanetary teleport*](../../magic/spells/interplanetary-teleport.md) (9th).
 
 **Hexes**: A shaman who chooses the Outer Dark spirit can select from the following hexes. As with all hexes, the DC to save against the special abilities granted by this spirit is equal to 10 + 1/2 the shaman's level + the shaman's Wisdom modifier.
 
@@ -424,7 +424,7 @@ The spirits of the Outer Dark have often been known to whisper dangerous secrets
 
 **Maddening Whispers (Su)**: At will as a standard action, the shaman can invoke whispers from the spirits of the Outer Dark to speak directly into the mind of a single target within 30 feet. These whispers utilize no known language, yet the victim nevertheless feels convinced that, somehow, it was almost able to comprehend the message. The target must succeed at a Will saving throw or be confused for 1 round. At 8th level and again at 16th level, the confusion caused by this hex lasts for 1 additional round. Whether or not the save is successful, the shaman cannot target that creature with this hex again for 24 hours. This is a mind-affecting effect.
 
-**Pierce the Veil (Su)**: The shaman gains darkvision to a range of up to 30 feet. If the shaman already has darkvision, its range increases by 30 feet. At 8th level, this ability becomes enhanced, allowing the shaman to see perfectly in darkness of any kind, even that created by *deeper darkness*.
+**Pierce the Veil (Su)**: The shaman gains darkvision to a range of up to 30 feet. If the shaman already has darkvision, its range increases by 30 feet. At 8th level, this ability becomes enhanced, allowing the shaman to see perfectly in darkness of any kind, even that created by [*deeper darkness*](../../magic/spells/deeper-darkness.md).
 
 **Spirit Animal**: The shaman's spirit animal has an alien physiology, including twitching tentacles, additional but blind eyes, or strangely deformed limbs. The spirit animal gains the shaman's choice of a swim speed or a climb speed equal to its highest speed, and one of its natural weapons increases in reach by 5 feet. If it did not have a natural weapon, it gains a tentacle attack as a secondary natural weapon with 5-foot reach. Damage for this tentacle is standard for a creature of the spirit animal's size (1d2 for a Tiny spirit animal, or 1d3 for a Small one).
 
@@ -434,21 +434,21 @@ The spirits of the Outer Dark have often been known to whisper dangerous secrets
 
 **Greater Spirit Ability**: A shaman who chooses the Outer Dark spirit as her spirit or wandering spirit acquires the following ability upon gaining access to the greater version of that spirit.
 
-*Horrific Glimpse (Sp)*: Once per day, the shaman can gain the effects of *contact other plane* after 1 hour of meditation. No components are required in order to use this ability, but the shaman does not get to select which plane she contacts. Instead, this version of the spell contacts an alien mind from somewhere in the void between the stars, be it a hive mind of alien monstrosities, the disembodied sentience of a dead planet, or even the slumbering and insane mind of a being of cosmic power. The shaman must succeed at a DC 16 Wisdom check rather than an Intelligence check to avoid a decrease in Intelligence or Charisma when using this ability. If she fails the check, her Intelligence and Charisma scores each fall to 8 for 5 weeks, as the alien minds thus contacted prove as destructive to mortal thoughts as direct contact with the most powerful of deities. The types of answers provided by the horrific glimpse, be they true answers, ignorance, lies, or random answers, are considered equal to those of a greater deity if the questions being asked concern the Material Plane, but they are equal to those of a demigod if the questions posed concern any other plane.
+*Horrific Glimpse (Sp)*: Once per day, the shaman can gain the effects of [*contact other plane*](../../magic/spells/contact-other-plane.md) after 1 hour of meditation. No components are required in order to use this ability, but the shaman does not get to select which plane she contacts. Instead, this version of the spell contacts an alien mind from somewhere in the void between the stars, be it a hive mind of alien monstrosities, the disembodied sentience of a dead planet, or even the slumbering and insane mind of a being of cosmic power. The shaman must succeed at a DC 16 Wisdom check rather than an Intelligence check to avoid a decrease in Intelligence or Charisma when using this ability. If she fails the check, her Intelligence and Charisma scores each fall to 8 for 5 weeks, as the alien minds thus contacted prove as destructive to mortal thoughts as direct contact with the most powerful of deities. The types of answers provided by the horrific glimpse, be they true answers, ignorance, lies, or random answers, are considered equal to those of a greater deity if the questions being asked concern the Material Plane, but they are equal to those of a demigod if the questions posed concern any other plane.
 
-Also once per day (but only after first using this ability as per *contact other plane*), the shaman can reveal a fragment of this horrific vision to another creature, as per *phantasmal killer*, except that the target takes 1d4+1 points of Wisdom damage regardless of the results of any of its saving throws. The body of a creature slain by this effect is always hideously mutilated and savaged, making spells like *speak with dead* useless.
+Also once per day (but only after first using this ability as per *contact other plane*), the shaman can reveal a fragment of this horrific vision to another creature, as per [*phantasmal killer*](../../magic/spells/phantasmal-killer.md), except that the target takes 1d4+1 points of Wisdom damage regardless of the results of any of its saving throws. The body of a creature slain by this effect is always hideously mutilated and savaged, making spells like *speak with dead* useless.
 
 **True Spirit Ability**: A shaman who chooses the Outer Dark spirit as her spirit or wandering spirit acquires the following ability upon gaining access to the true version of that spirit.
 
 *Unbound Form (Su)*: The shaman can assume a variety of forms, as per *greater polymorph*, for 1 minute per day per shaman level. The minutes need not be consecutive, but they must be spent in 1-minute increments. When she assumes these forms, some element of the new shape always sets it apart from a typical specimen, such as strangely colored eyes, limbs that bend in unusual ways, or a slimy coating of mucus over the flesh.
 
-**Manifestation**: Upon reaching 20th level, the shaman becomes an unnatural spirit of the void. She gains damage reduction 5/— and immunity to acid, critical hits, and sneak attacks. While she retains much of her original appearance, several minor cosmetic changes leave no doubt as to her now-alien nature. Her eyes might appear as solid spheres of blackness, her fingers might writhe like tentacles, or her legs might bend backward at the knees. Once per day, the shaman can cast *shapechange* as a spell-like ability without requiring a material component, but the form the shaman assumes via this spell-like ability is never something that looks of natural origin to the shaman's home world.
+**Manifestation**: Upon reaching 20th level, the shaman becomes an unnatural spirit of the void. She gains damage reduction 5/— and immunity to acid, critical hits, and sneak attacks. While she retains much of her original appearance, several minor cosmetic changes leave no doubt as to her now-alien nature. Her eyes might appear as solid spheres of blackness, her fingers might writhe like tentacles, or her legs might bend backward at the knees. Once per day, the shaman can cast [*shapechange*](../../magic/spells/shapechange.md) as a spell-like ability without requiring a material component, but the form the shaman assumes via this spell-like ability is never something that looks of natural origin to the shaman's home world.
 
 ## Tribe
 
 A shaman who selects the tribe spirit strives to protect her allies, whether they be a traditional tribal unit or a chosen group of adventuring companions.
 
-**Spirit Magic Spells**: *bless* (1st), *shield other* (2nd), *create food and water* (3rd), *spiritual ally* (4th), *life bubble* (5th), *battlemind link* (6th), *vision* (7th), *discern location* (8th), *mass heal* (9th).
+**Spirit Magic Spells**: [*bless*](../../magic/spells/bless.md) (1st), [*shield other*](../../magic/spells/shield-other.md) (2nd), [*create food and water*](../../magic/spells/create-food-and-water.md) (3rd), *spiritual ally* (4th), [*life bubble*](../../magic/spells/life-bubble.md) (5th), [*battlemind link*](../../magic/spells/battlemind-link.md) (6th), *vision* (7th), [*discern location*](../../magic/spells/discern-location.md) (8th), *mass heal* (9th).
 
 **Hexes**: A shaman who chooses the tribe spirit can select from the following hexes.
 
@@ -470,13 +470,13 @@ A shaman who selects the tribe spirit strives to protect her allies, whether the
 
 **Greater Spirit Ability**: A shaman who chooses the tribe spirit as her spirit or wandering spirit gains the following ability upon having access to the greater version of that spirit.
 
-**Tribal Bond (Sp)**: The shaman and her tribe share a transcendent bond. Once per day when she communes with her spirit animal to regain spells, the shaman can select a number of creatures equal to half her shaman level to serve as her honorary tribe. These creatures can constantly communicate with each other, as *telepathic bond*.
+**Tribal Bond (Sp)**: The shaman and her tribe share a transcendent bond. Once per day when she communes with her spirit animal to regain spells, the shaman can select a number of creatures equal to half her shaman level to serve as her honorary tribe. These creatures can constantly communicate with each other, as [*telepathic bond*](../../magic/spells/telepathic-bond.md).
 
 **True Spirit Ability**: A shaman who chooses the tribe spirit as her spirit or wandering spirit gains the following ability upon having access to the true version of that spirit.
 
-**Guardian of the Tribe (Su)**: The shaman can cast a harmless spell with a range of touch on a member of her tribal bond as long as that creature is within 30 feet. The shaman can use this ability a number of times per day equal to her Charisma modifier (minimum 1). In addition, she is constantly aware of the condition of all members of her tribal bond ability, as *status*.
+**Guardian of the Tribe (Su)**: The shaman can cast a harmless spell with a range of touch on a member of her tribal bond as long as that creature is within 30 feet. The shaman can use this ability a number of times per day equal to her Charisma modifier (minimum 1). In addition, she is constantly aware of the condition of all members of her tribal bond ability, as [*status*](../../magic/spells/status.md).
 
-**Manifestation**: Upon reaching 20th level, the shaman embodies the strength and unity of her tribe. She gains a bonus on all of her saving throws equal to her Charisma modifier and becomes immune to compulsion spells and spell-like abilities. Once per day as a standard action, she can attempt to revive a creature connected to her by her tribal bond ability who has died within 1 round as *breath of life*, except that the spell can be cast at any range as long as the target is on the same plane, and the target regains a number of hit points equal to 10 × the shaman's level (maximum 200).
+**Manifestation**: Upon reaching 20th level, the shaman embodies the strength and unity of her tribe. She gains a bonus on all of her saving throws equal to her Charisma modifier and becomes immune to compulsion spells and spell-like abilities. Once per day as a standard action, she can attempt to revive a creature connected to her by her tribal bond ability who has died within 1 round as [*breath of life*](../../magic/spells/breath-of-life.md), except that the spell can be cast at any range as long as the target is on the same plane, and the target regains a number of hit points equal to 10 × the shaman's level (maximum 200).
 
 ## Waves
 
@@ -610,7 +610,7 @@ The target always loses these temporary hit points first, even before other temp
 
 **True Spirit Ability**: The following true spirit ability replaces the quick healing ability of the life spirit.
 
-**Spirit of Life (Su)**: The shaman’s spirit animal transforms into a conduit of life energy able to store succoring magic that can keep the shaman’s allies safe. This allows the spirit animal to cast *stabilize* as a spell-like ability at will using the shaman’s level as the spell’s caster level. In addition, the shaman can transfer any cure spell (a spell with “cure” in its name) she casts to her spirit animal as a swift action, provided that the spirit animal is within 30 feet of her. This functions like *imbue with spell ability*, except a spirit animal can be imbued with a cure spell of any spell level that its master can cast regardless of the spirit animal’s Intelligence or Wisdom score. The spirit animal can hold the spell indefinitely, but the shaman cannot prepare a new spell in the imbued spell’s spell slot until her spirit animal uses the spell or it is slain, or until she dismisses the *imbue with spell ability* effect (a free action).
+**Spirit of Life (Su)**: The shaman’s spirit animal transforms into a conduit of life energy able to store succoring magic that can keep the shaman’s allies safe. This allows the spirit animal to cast [*stabilize*](../../magic/spells/stabilize.md) as a spell-like ability at will using the shaman’s level as the spell’s caster level. In addition, the shaman can transfer any cure spell (a spell with “cure” in its name) she casts to her spirit animal as a swift action, provided that the spirit animal is within 30 feet of her. This functions like [*imbue with spell ability*](../../magic/spells/imbue-with-spell-ability.md), except a spirit animal can be imbued with a cure spell of any spell level that its master can cast regardless of the spirit animal’s Intelligence or Wisdom score. The spirit animal can hold the spell indefinitely, but the shaman cannot prepare a new spell in the imbued spell’s spell slot until her spirit animal uses the spell or it is slain, or until she dismisses the *imbue with spell ability* effect (a free action).
 
 A spirit animal can be imbued with only one spell at a time in this manner. If the spirit animal is slain while it is imbued with a cure spell, that spell is lost.
 

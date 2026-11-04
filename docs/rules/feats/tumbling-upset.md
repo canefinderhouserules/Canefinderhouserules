@@ -4,7 +4,7 @@
 
 You nimbly dodge beneath your opponent, creating an opportunity to upend your foe.
 
-**Prerequisites**: Improved Trip, Acrobatics 7 ranks.
+**Prerequisites**: [Improved Trip](improved-trip.md), Acrobatics 7 ranks.
 
 **Benefit**: When you succeed at an Acrobatics check to move through an enemy's space, you can spend a swift action to attempt a trip combat maneuver check against the opponent. Even if you fail this check by 10 or more, you do not fall prone.
 

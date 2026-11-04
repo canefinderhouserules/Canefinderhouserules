@@ -10,7 +10,7 @@ The following new rage powers can be taken by any barbarian that meets the prere
 
 For example, a barbarian that selects a beast totem rage power cannot later chose to gain any of the spirit totem rage powers.
 
-**Air Totem (Su)**: Once per rage, the barbarian can move for 1 round as if affected by *air walk*.
+**Air Totem (Su)**: Once per rage, the barbarian can move for 1 round as if affected by [*air walk*](../../magic/spells/air-walk.md).
 
 **Air Totem, Greater (Su)**: While raging, the barbarian is surrounded by an aura of howling winds. Creatures attempting to cast spells while adjacent to the barbarian must succeed at a concentration check (DC 15 + spell level), and ranged attack rolls against the barbarian take a –4 penalty. Creatures smaller than the barbarian that attack the barbarian in melee with a natural weapon or touch attack must succeed at a Fortitude save (DC 10 + 1/2 the barbarian's level + the barbarian's Constitution modifier) or the attack fails and the creature is flung back 5 feet and knocked prone. The barbarian can suspend this aura as a free action.
 
@@ -32,9 +32,9 @@ For example, a barbarian that selects a beast totem rage power cannot later chos
 
 **Boasting Taunt (Ex)**: While raging, the barbarian can incite a creature to attack her by making an Intimidate check to demoralize. If the check succeeds, the target is also shaken as long as the barbarian is visible and raging or until it makes a melee attack against the barbarian. The barbarian receives a +2 circumstance bonus on this check for every alcoholic drink she has consumed during this rage. This is a language-dependent mind-affecting effect, and it relies on audible components. The barbarian must be at least 6th level to select this power.
 
-**Brawler**: While raging, the barbarian is treated as if she has Improved Unarmed Strike. If she already has the feat, her unarmed strikes deal 1d6 points of damage (1d4 if she is Small).
+**Brawler**: While raging, the barbarian is treated as if she has [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md). If she already has the feat, her unarmed strikes deal 1d6 points of damage (1d4 if she is Small).
 
-**Brawler, Greater**: While raging, the barbarian is treated as if she has Two-Weapon Fighting when making unarmed strike attacks. A barbarian must have the brawler rage power to select this rage power.
+**Brawler, Greater**: While raging, the barbarian is treated as if she has [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md) when making unarmed strike attacks. A barbarian must have the brawler rage power to select this rage power.
 
 **Chaos Totem (Su)**: While raging, the barbarian’s form becomes infused with chaos. She gains a +4 bonus on Escape Artist checks and has a 25% chance to ignore extra damage from critical hits and sneak attacks. A barbarian must have the lesser chaos totem rage power to select this rage power. A barbarian must be at least 6th level to select this rage power.
 
@@ -86,7 +86,7 @@ For example, a barbarian that selects a beast totem rage power cannot later chos
 
 **Fire Totem (Su)**: While the barbarian is raging, any opponent that confirms a critical hit against her with a piercing or slashing melee weapon is sprayed with liquid fire. (Creatures with reach weapons are immune.) The attacker takes 1d6 points of fire damage per barbarian level (Reflex halves; DC 10 + 1/2 the barbarian's level + the barbarian's Constitution modifier).
 
-**Fire Totem, Greater (Su)**: While raging, the barbarian can envelop herself in a cloud of smoke that fills a 10-foot-radius sphere and follows her as she moves. Creatures in the affected area must succeed at Fortitude saves each round or suffer the effects of breathing heavy smoke. The barbarian is immune to the smoke's effects, including vision obstruction. She can end this smoke as a free action, or it can be dispersed by wind in the same manner as a *fog cloud* spell.
+**Fire Totem, Greater (Su)**: While raging, the barbarian can envelop herself in a cloud of smoke that fills a 10-foot-radius sphere and follows her as she moves. Creatures in the affected area must succeed at Fortitude saves each round or suffer the effects of breathing heavy smoke. The barbarian is immune to the smoke's effects, including vision obstruction. She can end this smoke as a free action, or it can be dispersed by wind in the same manner as a [*fog cloud*](../../magic/spells/fog-cloud.md) spell.
 
 **Flesh Wound (Ex)**: Once per rage, the barbarian can try to avoid serious harm from an attack. The barbarian must make a Fortitude save with a DC equal to the damage that would be dealt by the attack. The barbarian’s armor check penalty applies on this saving throw. If the save succeeds, the barbarian takes half damage from the attack and the damage is nonlethal. The barbarian must elect to use this ability after the attack roll is made, but before the damage is rolled. A barbarian must be at least 10th level to select this rage power.
 
@@ -100,7 +100,7 @@ For example, a barbarian that selects a beast totem rage power cannot later chos
 
 **Hurling, Greater (Ex)**: As hurling, but the barbarian can increase the range increment to 30 feet or increase the size of a hurled object by two size categories. A barbarian must have the hurling rage power to select this rage power. A barbarian must be at least 12th level to select this rage power.
 
-**Hurling, Lesser (Ex)**: As a full-round action while raging, the barbarian can lift and hurl an object up to one size category smaller than herself with both hands or two size categories smaller with one hand as an improvised weapon with a range increment of 10 feet. This inflicts damage as a falling object plus the barbarian’s Strength bonus. This damage is halved if the object is not made of stone, metal, or similar material. This is a ranged touch attack, and the target may attempt a Reflex save (DC 10 + 1/2 the barbarian’s level + the barbarian’s Strength modifier) for half damage. The barbarian may apply Power Attack to this attack as a one- or two-handed weapon, as appropriate.
+**Hurling, Lesser (Ex)**: As a full-round action while raging, the barbarian can lift and hurl an object up to one size category smaller than herself with both hands or two size categories smaller with one hand as an improvised weapon with a range increment of 10 feet. This inflicts damage as a falling object plus the barbarian’s Strength bonus. This damage is halved if the object is not made of stone, metal, or similar material. This is a ranged touch attack, and the target may attempt a Reflex save (DC 10 + 1/2 the barbarian’s level + the barbarian’s Strength modifier) for half damage. The barbarian may apply [Power Attack](../../rules/feats/power-attack.md) to this attack as a one- or two-handed weapon, as appropriate.
 
 **Hurling Charge (Ex)**: While raging and making a charge attack, the barbarian may draw and throw a hurled weapon during her charge, gaining the normal +2 attack roll bonus on the thrown weapon attack as well as on the melee attack at the end of the charge. The barbarian must move at least 10 feet before using a thrown weapon and at least 10 additional feet before making a melee attack at the end of her charge. The barbarian must have a thrown weapon in hand or have one hand free at the beginning of her charge. A barbarian must have the lesser hurling rage power to select this rage power. A barbarian must be at least 6th level to select this rage power.
 
@@ -112,7 +112,7 @@ For example, a barbarian that selects a beast totem rage power cannot later chos
 
 **Liquid Courage (Ex)**: While raging, the barbarian increases her morale bonus on saving throws against mind-affecting effects by +1 for each alcoholic drink she consumes during her rage, to a maximum of +1 increase per four barbarian levels.
 
-**Master of the Deep (Su)**: As a standard action, the barbarian commands an aquatic creature to do her bidding. The barbarian selects a creature with the aquatic type within 30 feet and gives a terse command from those listed in the *command* spell. Alternatively, if the creature has an Intelligence of 1 or 2, the barbarian may instead command the creature to attack the closest creature to it as a standard action. The creature must succeed at a Will save (DC equal to 10 + half the barbarian's level + her Strength modifier) or obey the command to the best of its ability on its next turn. Once a creature has attempted a saving throw against master of the deep (successful or not), it is immune to this power for 24 hours. This ability is a mind-affecting effect, but it is not language dependent; the creature need not understand the barbarian giving the command. A barbarian must be at least 8th level before selecting this power.
+**Master of the Deep (Su)**: As a standard action, the barbarian commands an aquatic creature to do her bidding. The barbarian selects a creature with the aquatic type within 30 feet and gives a terse command from those listed in the [*command*](../../magic/spells/command.md) spell. Alternatively, if the creature has an Intelligence of 1 or 2, the barbarian may instead command the creature to attack the closest creature to it as a standard action. The creature must succeed at a Will save (DC equal to 10 + half the barbarian's level + her Strength modifier) or obey the command to the best of its ability on its next turn. Once a creature has attempted a saving throw against master of the deep (successful or not), it is immune to this power for 24 hours. This ability is a mind-affecting effect, but it is not language dependent; the creature need not understand the barbarian giving the command. A barbarian must be at least 8th level before selecting this power.
 
 **Moon Totem (Su)**: While raging, the barbarian gains a bonus equal to half her level on Perception checks to pinpoint the location of an unseen creature, and unseen attackers gain no bonus on attacks against the barbarian. A barbarian must have the lesser moon totem rage power and be at least 6th level to select this rage power.
 
@@ -172,7 +172,7 @@ A barbarian must have the ferocious mount rage power to select this rage power. 
 
 **Water Totem (Ex)**: While raging, the barbarian can breathe water as well as air.
 
-**Water Totem, Greater (Su)**: While raging, the barbarian gains tremorsense to a range of 30 feet while underwater. She can attack and move underwater as if affected by *freedom of movement*.
+**Water Totem, Greater (Su)**: While raging, the barbarian gains tremorsense to a range of 30 feet while underwater. She can attack and move underwater as if affected by [*freedom of movement*](../../magic/spells/freedom-of-movement.md).
 
 **Witch Hunter (Ex)**: While raging, the barbarian gains a +1 bonus on damage rolls against creatures possessing spells or spell-like abilities. This damage bonus increases by +1 for every four levels the barbarian has obtained. A barbarian must have the superstition* rage power to select this rage power.
 
@@ -186,9 +186,9 @@ A barbarian must have the ferocious mount rage power to select this rage power. 
 
 **Erratic Charge, Greater (Ex)**: The barbarian can move 10 feet when using erratic charge. If she does so, the creature she is charging must be at least 20 feet away and the movement reduces the maximum distance of her charge by 20 feet. A barbarian must be at least 8th level and must have the erratic charge rage power before selecting this power.
 
-**Furious Barrage (Ex)**: The barbarian is treated as having the Rapid Shot feat, but only for the purpose of attacking with thrown weapons. She need not meet the feat's prerequisites. A barbarian must be at least 4th level and must have the furious draw rage power before selecting this power.
+**Furious Barrage (Ex)**: The barbarian is treated as having the [Rapid Shot](../../rules/feats/rapid-shot.md) feat, but only for the purpose of attacking with thrown weapons. She need not meet the feat's prerequisites. A barbarian must be at least 4th level and must have the furious draw rage power before selecting this power.
 
-**Furious Draw (Ex)**: The barbarian is treated as having the Quick Draw feat.
+**Furious Draw (Ex)**: The barbarian is treated as having the [Quick Draw](../../rules/feats/quick-draw.md) feat.
 
 **Savage Hurl (Ex)**: The barbarian gains a +1 bonus on ranged attack rolls with thrown weapons that add her Dexterity bonus to the attack roll. This bonus increases to +2 at 4th level if the barbarian's Strength modifier is at least +4, to +3 at 8th level if her Strength modifier is at least +6, and to +4 at 12th level if her Strength modifier is at least +8.
 
@@ -208,7 +208,7 @@ While most barbarians are skilled at breaking things, some find the need to dest
 
 Some barbarians focus on using their bare hands to tear their opponents limb from limb. These brutal pugilists also learn a great deal about various combat maneuvers, using them to cripple or crush their foes. A brutal pugilist has the following class features.
 
-**Savage Grapple (Ex)**: At 2nd level, the brutal pugilist takes only half the normal penalties to Dexterity, attack rolls, and combat maneuver checks when she has the grappled condition. She can make an attack of opportunity against creatures trying to grapple her even if they possess the Improved Grapple feat or the grab special attack. If she hits with this attack of opportunity, she gains a +2 circumstance bonus to her CMD against the grapple attempt. She cannot make these attacks of opportunity once a grapple has succeeded. This ability replaces uncanny dodge.
+**Savage Grapple (Ex)**: At 2nd level, the brutal pugilist takes only half the normal penalties to Dexterity, attack rolls, and combat maneuver checks when she has the grappled condition. She can make an attack of opportunity against creatures trying to grapple her even if they possess the [Improved Grapple](../../rules/feats/improved-grapple.md) feat or the grab special attack. If she hits with this attack of opportunity, she gains a +2 circumstance bonus to her CMD against the grapple attempt. She cannot make these attacks of opportunity once a grapple has succeeded. This ability replaces uncanny dodge.
 
 **Pit Fighter (Ex)**: At 3rd level, the brutal pugilist has learned combat tricks from fighting in pit brawls and gladiatorial arenas. She selects one combat maneuver and gains a +1 insight bonus on her CMB or to her CMD in that maneuver. This bonus increases to +2 if the barbarian is wearing no armor (shields are allowed). At every three levels after 3rd, the barbarian may select another combat maneuver and add this bonus on her CMB or to her CMD. This bonus can be applied to each maneuver no more than twice, once on CMB and once to CMD. This ability replaces trap sense.
 
@@ -314,7 +314,7 @@ Any barbarian meeting the prerequisites can take the following new rage powers. 
 
 Furthermore, the barbarian deals an additional 1d6 points of damage when she damages an evil outsider with a melee attack.
 
-**Celestial Totem (Su)**: While raging, the barbarian shines with a righteous light. This effect bestows upon the barbarian a halo of gleaming light that shines as if it were daylight and triggers an *invisibility purge* effect in the barbarian’s square and each adjacent square. The *invisibility purge* only affects nongood creatures. A barbarian must be at least 8th level to select this rage power.
+**Celestial Totem (Su)**: While raging, the barbarian shines with a righteous light. This effect bestows upon the barbarian a halo of gleaming light that shines as if it were daylight and triggers an [*invisibility purge*](../../magic/spells/invisibility-purge.md) effect in the barbarian’s square and each adjacent square. The *invisibility purge* only affects nongood creatures. A barbarian must be at least 8th level to select this rage power.
 
 **Celestial Totem, Greater (Su)**: While raging, the barbarian gains spell resistance equal to 11 + the barbarian’s class level against spells with the evil descriptor. She also gains a +2 bonus on all saving throws against spells and effects from evil creatures. A barbarian must have the celestial totem rage power and be at least 12th level to select this rage power.
 
@@ -642,7 +642,7 @@ Some barbarians are born or bred outside the reach of civilization. These wildbo
 
 **Illiteracy**: A wildborn cannot read or write. She can learn to read or write a language only if she takes a level in another class, and even then only by taking 1 or more ranks in Linguistics. Live Off the Land (Ex): At 3rd level, a wildborn can survive capably in the wilderness without any sort of manufactured equipment or gear. She adds half her barbarian level as a bonus on Survival checks to hunt or gather food and gains a +1 bonus on Fortitude saves to resist the effects of extreme temperatures or other environmental effects; the Fortitude save bonus increases by 1 at 6th level and every 3 levels thereafter. This replaces trap sense.
 
-**Bonus Feats**: At 4th level, 10th level and 16th level, a wildborn can choose a bonus feat from the following rather than select a rage power: Alertness, Animal Affinity, Athletic, Great Fortitude, Improvised Weapon Mastery, Iron Will, Lightning Reflexes, Self-Sufficient, Stealthy, or Throw Anything. This alters rage powers.
+**Bonus Feats**: At 4th level, 10th level and 16th level, a wildborn can choose a bonus feat from the following rather than select a rage power: Alertness, [Animal Affinity](../../rules/feats/animal-affinity.md), Athletic, [Great Fortitude](../../rules/feats/great-fortitude.md), [Improvised Weapon Mastery](../../rules/feats/improvised-weapon-mastery.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Self-Sufficient, Stealthy, or [Throw Anything](../../rules/feats/throw-anything.md). This alters rage powers.
 
 **Inexhaustible (Ex)**: Wildborn live ruggedly and sleep lightly. At 7th level, a wildborn recovers nonlethal damage for each minute of rest as if an hour had passed. She applies twice her damage reduction gained from barbarian levels against nonlethal damage. This alters damage reduction.
 
@@ -656,7 +656,7 @@ Feral gnashers grow up in the wild, either raised by animals or scraping by on t
 
 **Savage Bite (Ex)**: At 1st level, a feral gnasher gains a savage bite attack. This is a primary natural attack that deals 1d4 points of damage. If the goblin already has the hard head, big teeth racial trait, the damage increases to 1d6. At 10th level, the damage from a feral gnasher’s bite increases to 1d6 (or 1d8 if the goblin has the hard head, big teeth racial trait) and deals ×3 damage on a critical hit. This ability replaces fast movement.
 
-**Impromptu Armament (Ex)**: At 2nd level, a feral gnasher gains Throw Anything as a bonus feat and can pick up an unattended object that can be wielded in one hand as a free action. Additionally, the feral gnasher can take Catch Off-Guard in place of a rage power. This replaces the rage power gained at second level.
+**Impromptu Armament (Ex)**: At 2nd level, a feral gnasher gains Throw Anything as a bonus feat and can pick up an unattended object that can be wielded in one hand as a free action. Additionally, the feral gnasher can take [Catch Off-Guard](../../rules/feats/catch-off-guard.md) in place of a rage power. This replaces the rage power gained at second level.
 
 **Lockjaw (Ex)**: At 3rd level, a feral gnasher gains the grab ability with her bite attack. A feral gnasher can use this ability on a creature up to one size category larger than she is. This replaces trap sense +1.
 
@@ -764,11 +764,11 @@ Any barbarian (or other character that gains rage powers) who meets the prerequi
 
 There are no rules in the wild. Some barbarians enter combat with only victory in mind and do anything in their power to achieve it.
 
-**Despicable Tactics**: At 2nd level, the untamed rager gains Improved Dirty Trick as a bonus feat. This ability replaces uncanny dodge.
+**Despicable Tactics**: At 2nd level, the untamed rager gains [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md) as a bonus feat. This ability replaces uncanny dodge.
 
 **Feral Appearance (Ex)**: At 3rd level, the untamed rager gains a +1 bonus on Intimidate checks. This bonus increases by 1 every 3 barbarian levels thereafter. This ability replaces trap sense.
 
-**Deplorable Tactics**: At 5th level, the untamed rager gains Greater Dirty Trick as a bonus feat. This ability replaces improved uncanny dodge.
+**Deplorable Tactics**: At 5th level, the untamed rager gains [Greater Dirty Trick](../../rules/feats/greater-dirty-trick.md) as a bonus feat. This ability replaces improved uncanny dodge.
 
 **Dishonorable (Ex)**: At 7th level and every 3 barbarian levels thereafter, the untamed rager gains a +1 bonus on combat maneuver checks when performing dirty tricks and to her CMD to resist others' dirty tricks. This ability replaces damage reduction.
 
@@ -782,7 +782,7 @@ Though named for the wild savages who fight alongside rabid dogs, mad dogs emplo
 
 **Rage (Ex)**: A mad dog gains this ability at 4th level, except that her effective barbarian level for the ability is equal to her barbarian level – 3. This ability alters rage.
 
-**Ferocious Fetch (Ex)**: At 5th level, a mad dog's war beast gains Improved Drag as a bonus feat. As a swift action, a mad dog can command her war beast to move toward an opponent within 30 feet and attempt a drag combat maneuver to pull the target back toward the mad dog. The war beast can move before and after performing the maneuver, but this movement counts toward the war beast's total movement during its turn. This ability replaces improved uncanny dodge.
+**Ferocious Fetch (Ex)**: At 5th level, a mad dog's war beast gains [Improved Drag](../../rules/feats/improved-drag.md) as a bonus feat. As a swift action, a mad dog can command her war beast to move toward an opponent within 30 feet and attempt a drag combat maneuver to pull the target back toward the mad dog. The war beast can move before and after performing the maneuver, but this movement counts toward the war beast's total movement during its turn. This ability replaces improved uncanny dodge.
 
 **Damage Reduction (Ex)**: At 10th level, a mad dog gains damage reduction. At 13th level and every 3 barbarian levels thereafter, this damage reduction rises by 1, to a maximum of DR 4/— at 19th level. A mad dog's war beast gains the same damage reduction as the mad dog. This ability modifies damage reduction.
 
@@ -846,7 +846,7 @@ Geminate invokers are barbarians who use introspective traditions to invite spir
 
 **Contemplative (Ex)**: A geminate invoker adds Knowledge (history), Knowledge (religion), and Linguistics to his list of class skills. Unlike most barbarians, a geminate invoker can be lawful, but must maintain a neutral element to his alignment. A geminate invoker who ceases to be neutral-aligned cannot activate his trance ability. This alters the barbarian’s class skills and alignment.
 
-**Trance (Ex)**: As a free action, a geminate invoker can enter a self-imposed trance, ignoring the physical limits of his body. This ability functions similarly to a barbarian’s rage, except where noted below, and feats, spells, and abilities that affect a barbarian’s rage (such as the Extra Rage feat) apply to a geminate invoker’s trance. A geminate invoker gains rage powers as per a normal barbarian, but he can never gain totem rage powers via this ability.
+**Trance (Ex)**: As a free action, a geminate invoker can enter a self-imposed trance, ignoring the physical limits of his body. This ability functions similarly to a barbarian’s rage, except where noted below, and feats, spells, and abilities that affect a barbarian’s rage (such as the [Extra Rage](../../rules/feats/extra-rage.md) feat) apply to a geminate invoker’s trance. A geminate invoker gains rage powers as per a normal barbarian, but he can never gain totem rage powers via this ability.
 
 Instead of the normal rage bonuses and penalties, a geminate invoker in a trance gains a +4 morale bonus to his Constitution; gains a +2 morale bonus on Reflex and Will saving throws; takes no penalties to AC; can still use Dexterity-, Intelligence-, and Charisma-based skills; and gains Diehard as a bonus feat. The Constitution bonus increases to +6 and the save bonus increases to +3 when he gains greater rage, and they increase to a +8 Constitution bonus and a +4 bonus on saves when he gains mighty rage. This ability alters rage.
 
@@ -892,7 +892,7 @@ This ability replaces the damage reduction class feature.
 
 Rather than exploding with anger, primal hunters focus their rage to strike distant targets. Though able to hold their own in melee, primal hunters specialize in using some of the oldest of ranged weapons: bows, slings, and spears.
 
-**Exceptional Pull**: At 1st level, a primal hunter gains Exceptional Pull as a bonus feat, even if she doesn't meet the requirements. At 11th and 20th levels, the strength rating of weapons she wields increases by 1 (weapons without a strength rating are not affected). This ability replaces fast movement.
+**Exceptional Pull**: At 1st level, a primal hunter gains [Exceptional Pull](../../rules/feats/exceptional-pull.md) as a bonus feat, even if she doesn't meet the requirements. At 11th and 20th levels, the strength rating of weapons she wields increases by 1 (weapons without a strength rating are not affected). This ability replaces fast movement.
 
 **Focused Rage (Ex)**: While raging, a primal hunter gains a +2 bonus on attack rolls with ranged weapons. This bonus increases to +3 at 11th level and to +4 at 20th level. While raging, a primal hunter can attempt Stealth checks but doesn't gain a morale bonus on Will saves. This ability alters rage.
 
@@ -942,7 +942,7 @@ The barbarians who roam the badlands of a star-fallen land have a healthy mistru
 
 **Disruptor**: At 5th level, for any foes in a tribal liberator's threatened area, the DC to cast spells defensively increases by 1. The DC increases by 1 again for every 5 levels thereafter (to a maximum increase of 4 at 20th level). If the barbarian gains the disruptive rage power, the two abilities stack. This ability replaces improved uncanny dodge.
 
-**Hide from Constructs (Su)**: At 14th level, a tribal liberator can control her movement, breathing, body temperature, and other physiological signs to confuse the artificial visions of constructs. At will, the barbarian can make herself undetectable to constructs as if she were affected by a *hide from undead* spell that instead hides the subject from constructs. Intelligent constructs receive a Will save (DC 10 + 1/2 the barbarian's level + the barbarian's Constitution modifier) to see through this effect. The barbarian must expend 1 round of rage for each round she uses this ability. This ability replaces indomitable will.
+**Hide from Constructs (Su)**: At 14th level, a tribal liberator can control her movement, breathing, body temperature, and other physiological signs to confuse the artificial visions of constructs. At will, the barbarian can make herself undetectable to constructs as if she were affected by a [*hide from undead*](../../magic/spells/hide-from-undead.md) spell that instead hides the subject from constructs. Intelligent constructs receive a Will save (DC 10 + 1/2 the barbarian's level + the barbarian's Constitution modifier) to see through this effect. The barbarian must expend 1 round of rage for each round she uses this ability. This ability replaces indomitable will.
 
 **Rage Powers**: The following rage powers complement the tribal liberator archetype: deadly accuracy, energy absorption (fire), energy resistance (fire), greater energy resistance (fire), gearbreaker, guarded stance, lethal accuracy, low-light vision, night vision, rolling dodge, reflexive dodge, surprise accuracy.
 
@@ -966,7 +966,7 @@ The following rage powers can be selected by any barbarian or skald who is at le
 
 **Veil of Winds (Su)**: When raging, the barbarian can use Stealth, and she gains a bonus equal to 1/2 her barbarian level on Stealth checks plus the benefits of concealment against ranged attacks and attacks of opportunity.
 
-**Tide of Fury (Su)**: When the barbarian rages, enemies find it difficult to escape the vortex of her fury. As a full-round action while raging, she can attempt a single combat maneuver check against each creature within 10 feet of her. If her roll equals or exceeds a creature's CMD, she moves that creature 5 feet closer to her. Once per day after attempting this maneuver, she can attack each adjacent creature as a free action as if using the Whirlwind Attack feat. If she has the Whirlwind Attack feat, she can also use it as a free action in this way one additional time per day.
+**Tide of Fury (Su)**: When the barbarian rages, enemies find it difficult to escape the vortex of her fury. As a full-round action while raging, she can attempt a single combat maneuver check against each creature within 10 feet of her. If her roll equals or exceeds a creature's CMD, she moves that creature 5 feet closer to her. Once per day after attempting this maneuver, she can attack each adjacent creature as a free action as if using the [Whirlwind Attack](../../rules/feats/whirlwind-attack.md) feat. If she has the Whirlwind Attack feat, she can also use it as a free action in this way one additional time per day.
 
 **Purifying Pyre (Su)**: The barbarian visibly burns with an inner flame that consumes all impurities affecting her. Each round that she rages reduces the duration of negative spells and effects inflicted upon her as if 2 rounds had passed (no effect on the duration of such effects against other creatures). Once per day, she can expend 5 rounds of rage to attempt a new saving throw against each nonpermanent effect currently affecting her. Each successful saving throw ends the related effect, and she can choose not to make a save against an effect.
 

@@ -4,7 +4,7 @@
 
 Your possessed hand can painlessly pull free of your body or reattach itself, leaving you with a bloodless but raw-looking stump at the end of one arm while the hand itself performs remote tasks under your command, acting in many ways like a strange familiar.
 
-**Prerequisites**: Hand's Autonomy, Possessed Hand.
+**Prerequisites**: [Hand's Autonomy](hand-s-autonomy.md), [Possessed Hand](possessed-hand.md).
 
 **Benefit**: You can remove your possessed hand, allowing the possessing spirit to animate and control its motion. Removing or reattaching your possessed hand is a full-round action. This deals no damage to you, but you can't use the hand while it is removed. The hand acts as a wizard's familiar, using your character level as your effective wizard level, except it doesn't gain the alertness, share spells, deliver touch spells, spell resistance, or scry on familiar abilities. Use the statistics for a crawling hand to represent the detached hand, save that the hand isn't undead, doesn't have the mark quarry ability, and shares your alignment. If the hand is destroyed, the spirit regenerates your missing hand in 2d4 days. This process can be accelerated by *regenerate* or similar magic. You cannot use the Possessed Hand feat or any feat with the Possessed Hand feat as a prerequisite until the hand is fully regenerated.
 

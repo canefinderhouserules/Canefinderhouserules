@@ -2,7 +2,7 @@
 
 You are more aware of the supernatural forces that influence the world—and, consequently, are more easily noticed by them.
 
-**Prerequisites**: Wis 15, Iron Will.
+**Prerequisites**: Wis 15, [Iron Will](iron-will.md).
 
 **Benefit**: Select one specific category of spirit: fey, outsiders, or undead (including haunts). You gain a +1 bonus on Perception and Sense Motive checks against those creatures. If you have 10 or more ranks in one of these skills, the bonus increases to +2 for that skill.
 

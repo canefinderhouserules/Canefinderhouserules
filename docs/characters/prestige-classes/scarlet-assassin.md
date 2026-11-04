@@ -25,7 +25,7 @@ To qualify to become a scarlet assassin, a character must fulfill all of the fol
 
 **Alignment**: Lawful evil.
 
-**Feats**: Alertness, Exotic Weapon Proficiency (sawtooth sabre), Two-Weapon Fighting, Weapon Focus (sawtooth sabre).
+**Feats**: Alertness, Exotic Weapon Proficiency (sawtooth sabre), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), Weapon Focus (sawtooth sabre).
 
 **Skills**: Intimidate 5 ranks, Perception 5 ranks, Stealth 5 ranks.
 
@@ -43,7 +43,7 @@ The following are class features of the scarlet assassin prestige class.
 
 **Spells**: A scarlet assassin casts illusion and transmutation arcane spells drawn from the sorcerer/wizard spell list. She can cast any spell she knows without preparing it ahead of time. To cast a spell, she must have a Charisma score of at least 10 + the spell’s level, and her bonus spells are based on Charisma. Saving throws against these spells have a DC of 10 + the spell’s level + the caster’s Charisma modifier (if any). At each scarlet assassin level, she gains one or more new spells as indicated on the table below. At 4th, 6th, 8th, and 10th level, she can learn a new spell in place of one she already knows, provided the new spell is of the same level as the one she is replacing.
 
-As she gains levels, a small number of additional spells that are not otherwise available to her are added to her list. She does not automatically learn these spells when they become available—they must be selected as part of her total spells known. At 2nd level, she adds *obscuring mist* and *true strike* to her spell list. At 4th level, she adds *darkness* and *summon swarm*. At 6th level, she adds *fog cloud* and *see invisibility*. At 8th level, she adds *clairaudience/clairvoyance* and *hold person*. At 10th level, she adds *dimension door* and *modify memory*.
+As she gains levels, a small number of additional spells that are not otherwise available to her are added to her list. She does not automatically learn these spells when they become available—they must be selected as part of her total spells known. At 2nd level, she adds [*obscuring mist*](../../magic/spells/obscuring-mist.md) and [*true strike*](../../magic/spells/true-strike.md) to her spell list. At 4th level, she adds [*darkness*](../../magic/spells/darkness.md) and [*summon swarm*](../../magic/spells/summon-swarm.md). At 6th level, she adds [*fog cloud*](../../magic/spells/fog-cloud.md) and [*see invisibility*](../../magic/spells/see-invisibility.md). At 8th level, she adds *clairaudience/clairvoyance* and [*hold person*](../../magic/spells/hold-person.md). At 10th level, she adds [*dimension door*](../../magic/spells/dimension-door.md) and [*modify memory*](../../magic/spells/modify-memory.md).
 
 Table: Scarlet Assassin Spells
 
@@ -62,7 +62,7 @@ Table: Scarlet Assassin Spells
 
 **Sneak Attack (Ex)**: This functions as the rogue ability of the same name. The extra damage dealt is +1d6 at 1st level and increases by 1d6 every 3rd level thereafter. If the scarlet assassin gets a sneak attack bonus from another source, the damage bonuses stack.
 
-**Sabre Fighting (Ex)**: At 1st level, the scarlet assassin gains Weapon Specialization (sawtooth sabre) as a bonus feat and treats sawtooth sabres as a light weapon for all purposes, including being able to use a sawtooth sabre with Weapon Finesse. At 5th level, she gains Greater Weapon Focus (sawtooth sabre) as a bonus feat. At 7th level, she gains Greater Weapon Specialization (sawtooth sabre) as a bonus feat. She does not need to otherwise qualify for these feats by having the minimum number of fighter levels.
+**Sabre Fighting (Ex)**: At 1st level, the scarlet assassin gains Weapon Specialization (sawtooth sabre) as a bonus feat and treats sawtooth sabres as a light weapon for all purposes, including being able to use a sawtooth sabre with [Weapon Finesse](../../rules/feats/weapon-finesse.md). At 5th level, she gains Greater Weapon Focus (sawtooth sabre) as a bonus feat. At 7th level, she gains Greater Weapon Specialization (sawtooth sabre) as a bonus feat. She does not need to otherwise qualify for these feats by having the minimum number of fighter levels.
 
 **Prayer Attack (Su)**: At 2nd level, a scarlet assassin learns her signature assassination style. To initiate a prayer attack, she holds her sawtooth sabre (or sabres) out, point down, and weaves the blade in the air. She must be within 30 feet of and visible to her victim. Beginning a prayer attack is a standard action that causes her victim to be fascinated unless he succeeds at a Will save (DC = 10 + the scarlet assassin’s class level + her Charisma modifier; if she’s wielding two sawtooth sabres, the DC increases by 2). The fascination effect is a mind-affecting effect. She can maintain the fascination effect by concentrating. The victim can attempt a new save to escape this fascination each time a threat (other than the fascinating assassin) appears. At any point after 3 rounds, she can deliver a coup de grace to the target, provided the target is still fascinated; the scarlet assassin maintains this fascination effect while delivering a coup de grace. Activating or concentrating to maintain a prayer attack does not provoke an attack of opportunity.
 
@@ -79,4 +79,4 @@ Table: Scarlet Assassin Spells
 
 **Fading (Su)**: At 8th level, as an immediate action a number of times per day equal to her Constitution modifier (minimum 1), the scarlet assassin can become ethereal for an instant as she is attacked by a weapon or is forced to attempt a Reflex saving throw. She must choose to activate this ability before the weapon’s attack roll or the spell’s effects are adjudicated. This grants the scarlet assassin a 50% chance to avoid taking damage from the attack or effect.
 
-**Mantis Doom (Sp)**: At 9th level, a scarlet assassin can use *creeping doom* as a spell-like ability three times per day (with a caster level equal to her character level). This version of the spell summons swarms of venomous praying mantises, but the effects are otherwise the same as the spell.
+**Mantis Doom (Sp)**: At 9th level, a scarlet assassin can use [*creeping doom*](../../magic/spells/creeping-doom.md) as a spell-like ability three times per day (with a caster level equal to her character level). This version of the spell summons swarms of venomous praying mantises, but the effects are otherwise the same as the spell.

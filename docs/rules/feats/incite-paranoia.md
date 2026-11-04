@@ -4,7 +4,7 @@
 
 You can convince anyone of her allies’ ill intent.
 
-**Prerequisites**: Deceitful, Greater Feint, Improved Feint, base attack bonus +6.
+**Prerequisites**: [Deceitful](deceitful.md), [Greater Feint](greater-feint.md), [Improved Feint](improved-feint.md), base attack bonus +6.
 
 **Benefit**: When you successfully feint in combat, if you succeed by 5 or more, the target no longer provides flanking to its allies and no longer gains or grants the benefits of teamwork feats until the beginning of your next turn.
 

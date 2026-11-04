@@ -12,7 +12,7 @@ Either through the results of magical experimentation or bizarre natural sparks,
 
 **Brutish Fortitude (Ex)**: A brute’s base Fortitude save bonus from his vigilante levels is equal to 2 + half his vigilante level, and his base Reflex and Will save bonuses are equal to 1/3 his vigilante level. This ability alters the vigilante’s base saving throws.
 
-**Weapon and Armor Proficiency**: A brute isn’t proficient with medium armor or martial weapons. However, he gains Improved Unarmed Strike as a bonus feat. This alters the vigilante’s armor and weapon proficiencies.
+**Weapon and Armor Proficiency**: A brute isn’t proficient with medium armor or martial weapons. However, he gains [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat. This alters the vigilante’s armor and weapon proficiencies.
 
 **Brute Form (Ex)**: Though it is sometimes difficult to maintain, a brute has a measure of control over his abilities.
 
@@ -22,7 +22,7 @@ When a brute is in mortal peril, such as when combat starts, if he is in his soc
 
 While he still attacks enemies preferentially during a battle, when there are no more enemies around, each round he must succeed at a Will save (DC = 20 + 1/2 his vigilante level) or continue fighting against his allies or bystanders. Allies can use the aid another action to assist this saving throw with skills like Diplomacy, as they attempt to calm him down. On a successful save, he slowly turns back to his social identity over the course of 1 minute (or shorter if he has a social talent that reduces that time).
 
-A brute uses his vigilante level as his base attack bonus, but only while he is in his vigilante identity. At 5th level, while in his vigilante identity, the brute gains a +1 bonus on melee attack and damage rolls. This bonus increases to +2 at 13th level and to +3 at 19th level. He uses his normal base attack bonus to qualify for feats and other abilities, although when in his vigilante identity, he uses his increased base attack bonus to determine the effects of feats (such as Power Attack) and other abilities.
+A brute uses his vigilante level as his base attack bonus, but only while he is in his vigilante identity. At 5th level, while in his vigilante identity, the brute gains a +1 bonus on melee attack and damage rolls. This bonus increases to +2 at 13th level and to +3 at 19th level. He uses his normal base attack bonus to qualify for feats and other abilities, although when in his vigilante identity, he uses his increased base attack bonus to determine the effects of feats (such as [Power Attack](../../rules/feats/power-attack.md)) and other abilities.
 
 A brute’s mundane clothes and armor do not increase in size with him, and any such items he wears while changing into his vigilante identity lose one-quarter of their hit points. Magical clothes and accessories increase in size with the vigilante, however (though his magical armor and weapons initially do not, as normal).
 
@@ -40,7 +40,7 @@ An exhausted brute can only enter his vigilante identity for a number of rounds 
 
 **Sizing Equipment (Ex)**: The brute has learned how to adjust his magic armor so that it provides him some protection while in his vigilante identity. Magic armor the brute wears that is sized for his social identity provides an armor bonus equal to its normal armor bonus – 1 while he is in his vigilante identity. In addition, wielding a magic weapon properly sized for his social identity deals damage as if it were a magic weapon properly sized for his vigilante identity, but it imposes a –1 penalty on attack rolls. At 6th level, he takes no penalties when using such weapons and armor, and his weapons and armor work in all ways (including damage dice) as if they were of the vigilante’s new size. This talent only applies to magic arms and armor; inappropriately sized mundane arms and armor are not affected.
 
-**Total Destruction (Ex)**: The brute is adept at rampaging through an area, throwing whatever is available at his opponents. The brute gains Throw Anything as a bonus feat. As a standard action, while in his vigilante identity, he can throw any unattended object up to two size categories smaller than he is up to 60 feet if he is Medium and 80 feet if he is Large. This deals 1d6 points of bludgeoning damage if he is Medium or 1d8 if he is Large, and the brute adds 1-1/2 times his Strength modifier to this damage. At 8th level, he can also throw a creature up to two size categories smaller than himself, but he must succeed at a combat maneuver check against that creature’s CMD to do so. The thrown creature lands prone and takes an amount of damage equal to the damage dealt to the target of the throw (as noted above), whether the brute hits or misses. At 16th level, he can instead throw an object one size category larger than himself at creatures within a 10-foot radius from the object’s point of impact. These creatures must succeed at a Reflex save (DC = 10 + 1/2 the brute’s vigilante level + his Strength modifier) or take 1d6 points of damage per vigilante level.
+**Total Destruction (Ex)**: The brute is adept at rampaging through an area, throwing whatever is available at his opponents. The brute gains [Throw Anything](../../rules/feats/throw-anything.md) as a bonus feat. As a standard action, while in his vigilante identity, he can throw any unattended object up to two size categories smaller than he is up to 60 feet if he is Medium and 80 feet if he is Large. This deals 1d6 points of bludgeoning damage if he is Medium or 1d8 if he is Large, and the brute adds 1-1/2 times his Strength modifier to this damage. At 8th level, he can also throw a creature up to two size categories smaller than himself, but he must succeed at a combat maneuver check against that creature’s CMD to do so. The thrown creature lands prone and takes an amount of damage equal to the damage dealt to the target of the throw (as noted above), whether the brute hits or misses. At 16th level, he can instead throw an object one size category larger than himself at creatures within a 10-foot radius from the object’s point of impact. These creatures must succeed at a Reflex save (DC = 10 + 1/2 the brute’s vigilante level + his Strength modifier) or take 1d6 points of damage per vigilante level.
 
 **Tear Them Apart (Ex)**: At 20th level, a brute has learned how to tear at his enemies’ bodies when he hits with multiple attacks. When he takes a full attack action while in his vigilante identity, if a brute hits an opponent with at least two attacks, he deals an additional 1d10 points of damage plus 1-1/2 times his Strength modifier. If he hits an opponent with four attacks during a full attack action while in his vigilante identity, he instead deals an additional 3d10 points of damage plus 1-1/2 times his Strength modifier. The damage occurs after he has taken his last attack with the full attack action. This counts as a rend and does not stack with other abilities that grant rend. This ability replaces vengeance strike.
 
@@ -62,13 +62,13 @@ Appearing to be an upstanding member of society, the cabalist clandestinely foll
 
 **Cabalist Talents**: A cabalist can select from the following vigilante talents, in addition to general vigilante talents. This alters vigilante talents.
 
-**Bond of Blood (Sp, Su)**: The cabalist has a magical bond to life-giving blood. When the cabalist deals bleed damage or 5 or more points of piercing or slashing damage to an adjacent living creature, he gains 1d6 temporary hit points. These temporary hit points last for 1 hour, and the cabalist can’t gain temporary hit points again from bond of blood during that hour (even if he loses all the temporary hit points from bond of blood before that time). The number of temporary hit points gained increases by 1d6 for every 4 vigilante levels he has. At 4th level, the cabalist can also activate *blood armor* once per day as a spell-like ability as a swift action.
+**Bond of Blood (Sp, Su)**: The cabalist has a magical bond to life-giving blood. When the cabalist deals bleed damage or 5 or more points of piercing or slashing damage to an adjacent living creature, he gains 1d6 temporary hit points. These temporary hit points last for 1 hour, and the cabalist can’t gain temporary hit points again from bond of blood during that hour (even if he loses all the temporary hit points from bond of blood before that time). The number of temporary hit points gained increases by 1d6 for every 4 vigilante levels he has. At 4th level, the cabalist can also activate [*blood armor*](../../magic/spells/blood-armor.md) once per day as a spell-like ability as a swift action.
 
 **Familiar (Ex)**: The cabalist gains a familiar, using his vigilante level as his effective wizard level. The familiar also has a social identity as a seemingly normal animal, though cabalists with outlandish familiars might still need to hide them.
 
-**Living Shadow (Sp)**: Once per day, the cabalist can become a living shadow as though he were using *shadow body*. This effect lasts for 1 round per vigilante level, and the cabalist can’t cast spells while in this form. At 14th level, the cabalist can remain as a living shadow for 1 minute per vigilante level instead, and can cast spells while he is a living shadow. A cabalist must be at least 12th level to select this talent.
+**Living Shadow (Sp)**: Once per day, the cabalist can become a living shadow as though he were using [*shadow body*](../../magic/spells/shadow-body.md). This effect lasts for 1 round per vigilante level, and the cabalist can’t cast spells while in this form. At 14th level, the cabalist can remain as a living shadow for 1 minute per vigilante level instead, and can cast spells while he is a living shadow. A cabalist must be at least 12th level to select this talent.
 
-**Necromantic Focus (Ex)**: The cabalist gains Spell Focus (necromancy) as a bonus feat. He also adds additional spells to his spellbook from the following list, provided he can cast spells of the appropriate level: 1st—*cause fear*, 2nd— *blindness/deafness*, 3rd—*bestow curse*, 4th—*poison*, 5th—*feast on fear*, 6th—*slay living*.
+**Necromantic Focus (Ex)**: The cabalist gains Spell Focus (necromancy) as a bonus feat. He also adds additional spells to his spellbook from the following list, provided he can cast spells of the appropriate level: 1st—[*cause fear*](../../magic/spells/cause-fear.md), 2nd— *blindness/deafness*, 3rd—[*bestow curse*](../../magic/spells/bestow-curse.md), 4th—[*poison*](../../magic/spells/poison.md), 5th—[*feast on fear*](../../magic/spells/feast-on-fear.md), 6th—[*slay living*](../../magic/spells/slay-living.md).
 
 **Shadow Jump (Su)**: The cabalist gains the shadowdancer’s shadow jump ability with an effective shadowdancer level equal to his vigilante level – 6. If he has levels in shadowdancer, those levels stack with his vigilante levels to determine the total distance per day he can shadow jump (to a maximum of 320 feet per day). A cabalist must be at least 10th level to select this talent.
 
@@ -80,7 +80,7 @@ Appearing to be an upstanding member of society, the cabalist clandestinely foll
 
 Once a creature has been the target of this ability (regardless of whether or not it was successful), it is immune to that cabalist’s bloody horror for 24 hours. This is a mind-affecting fear effect. This ability replaces frightening appearance.
 
-**Shadowy Appearance (Sp)**: At 17th level, a cabalist becomes cloaked in shadow while in his vigilante identity. He gains a continuous 20% miss chance (as per *blur*). The cabalist can deactivate or reactivate this effect as a standard action. Once per day, he can spend an immediate action to gain the benefits of *greater invisibility* for 1d6 rounds. This ability replaces stunning appearance.
+**Shadowy Appearance (Sp)**: At 17th level, a cabalist becomes cloaked in shadow while in his vigilante identity. He gains a continuous 20% miss chance (as per [*blur*](../../magic/spells/blur.md)). The cabalist can deactivate or reactivate this effect as a standard action. Once per day, he can spend an immediate action to gain the benefits of *greater invisibility* for 1d6 rounds. This ability replaces stunning appearance.
 
 ## Gunmaster
 
@@ -96,9 +96,9 @@ Firearms can be potent tools for striking fear into the hearts of enemies, and c
 
 **Death’s Shot (Ex)**: Three times per day, as an immediate action when the gunmaster scores a critical hit, he can attempt to kill his enemy instantly. When the gunmaster uses this talent, the target must succeed at a Fortitude saving throw with a DC equal to 10 + 1/2 the gunmaster’s vigilante level + his Dexterity modifier. On a failed saving throw, the target dies instantly. A gunmaster must be 20th level to select this talent.
 
-**Gunmaster Initiative (Ex)**: The gunmaster gains a +2 bonus on initiative checks. Furthermore, if he has the Quick Draw feat, his hands are free and unrestrained, and the firearm is not hidden, he can draw a single firearm as part of the initiative check. A gunmaster must be at least 4th level to select this talent.
+**Gunmaster Initiative (Ex)**: The gunmaster gains a +2 bonus on initiative checks. Furthermore, if he has the [Quick Draw](../../rules/feats/quick-draw.md) feat, his hands are free and unrestrained, and the firearm is not hidden, he can draw a single firearm as part of the initiative check. A gunmaster must be at least 4th level to select this talent.
 
-**Lightning Reload (Ex)**: A number of times per day equal to half his vigilante level, a gunmaster can reload a single barrel of a one-handed or two-handed firearm as a swift action once per round. If he has the Rapid Reload feat or is using an alchemical cartridge (or both), he can reload a single barrel of the weapon as a free action each round instead. Using this talent does not provoke attacks of opportunity. A gunmaster must be at least 12th level to select this talent.
+**Lightning Reload (Ex)**: A number of times per day equal to half his vigilante level, a gunmaster can reload a single barrel of a one-handed or two-handed firearm as a swift action once per round. If he has the [Rapid Reload](../../rules/feats/rapid-reload.md) feat or is using an alchemical cartridge (or both), he can reload a single barrel of the weapon as a free action each round instead. Using this talent does not provoke attacks of opportunity. A gunmaster must be at least 12th level to select this talent.
 
 **Quick Clear (Ex)**: Once per day as a standard action, the gunmaster can remove the broken condition from a single firearm he is currently wielding, as long as that condition was gained by a firearm misfire. Starting at 12th level, once per day, when the gunmaster rolls a misfire with a gun that has the broken condition, she can prevent the gun from exploding, though it retains the broken condition.
 
@@ -120,7 +120,7 @@ Some vigilantes, no matter their age, carry a spark of capricious whimsy under w
 
 **Animal Guide (Ex)**: A magical child starts play with a magical spirit guide in the form of a familiar, using her vigilante level as her effective wizard level. The familiar also has a social identity as a seemingly normal animal, though vigilantes with outlandish familiars might still need to hide the familiar.
 
-At 3rd level, the magical child’s familiar reveals another aspect of its form, and its vigilante identity changes into a creature on the Improved Familiar list that would be available to a 3rd-level spellcaster (the animal guide’s social identity always remains as the original normal animal). The familiar can change its vigilante identity again when the magical child reaches 5th and 7th level, each time to familiars available at those levels. The Improved Familiar feat’s alignment restrictions apply to this ability, but only the magical child’s vigilante identity needs to have an alignment that fulfills the alignment requirements of the improved familiar. The familiar’s new vigilante form choices are permanent, and it cannot transform back into its former vigilante identities until 9th level, when the familiar gains the change shape universal monster ability if it doesn’t already have it. It can use this ability at will when in its vigilante identity to transform into any of its four vigilante identities.
+At 3rd level, the magical child’s familiar reveals another aspect of its form, and its vigilante identity changes into a creature on the [Improved Familiar](../../rules/feats/improved-familiar.md) list that would be available to a 3rd-level spellcaster (the animal guide’s social identity always remains as the original normal animal). The familiar can change its vigilante identity again when the magical child reaches 5th and 7th level, each time to familiars available at those levels. The Improved Familiar feat’s alignment restrictions apply to this ability, but only the magical child’s vigilante identity needs to have an alignment that fulfills the alignment requirements of the improved familiar. The familiar’s new vigilante form choices are permanent, and it cannot transform back into its former vigilante identities until 9th level, when the familiar gains the change shape universal monster ability if it doesn’t already have it. It can use this ability at will when in its vigilante identity to transform into any of its four vigilante identities.
 
 In vigilante form, a magical child’s familiar gains an amount of DR/magic equal to her vigilante level. This doesn’t stack with any DR/magic that her vigilante form might already possess.
 
@@ -156,7 +156,7 @@ Wise vigilantes know that there is power in certain seemingly unremarkable items
 
 **Class Skills**: A psychometrist adds Knowledge (arcana) and Knowledge (history) to his list of class skills, instead of Knowledge (dungeoneering) and Knowledge (engineering). This alters the vigilante’s class skills.
 
-**Occult Awareness**: At 1st level, a psychometrist gains Psychic Sensitivity as a bonus feat. This ability replaces the social talent gained at 1st level.
+**Occult Awareness**: At 1st level, a psychometrist gains [Psychic Sensitivity](../../rules/feats/psychic-sensitivity.md) as a bonus feat. This ability replaces the social talent gained at 1st level.
 
 **Implements and Focus Powers (Su)**: At 2nd level, a psychometrist learns to use the powers of one implement school from the occultist class; the conjuration implement school is not available to a psychometrist. This implement school does not allow the psychometrist to cast any spells of that school of magic, though, and he can’t use spell-trigger or spell-completion magic items from any schools without succeeding at the appropriate Use Magic Device check. A psychometrist can’t select an implement school more than once.
 
@@ -194,7 +194,7 @@ The warlock must choose one type of damage for her mystic bolt: acid, cold, elec
 
 Creating a mystic bolt requires the hand to be free, but the bolt appears only briefly, so a warlock using mystic bolts has a free hand any time she isn’t attacking with a mystic bolt.
 
-The warlock threatens with a mystic bolt, but only if she has a hand free. Because mystic bolts are impermanent, a spell that targets a single weapon (like *magic weapon*) can’t affect it, nor can a mystic bolt be made with magic weapon special abilities. Abilities that affect all weapon attacks the warlock makes, such as the arcane striker warlock talent, function with mystic bolts.
+The warlock threatens with a mystic bolt, but only if she has a hand free. Because mystic bolts are impermanent, a spell that targets a single weapon (like [*magic weapon*](../../magic/spells/magic-weapon.md)) can’t affect it, nor can a mystic bolt be made with magic weapon special abilities. Abilities that affect all weapon attacks the warlock makes, such as the arcane striker warlock talent, function with mystic bolts.
 
 At 7th level and every 6 vigilante levels thereafter, the warlock chooses another damage type from the list above. Each time she creates a mystic bolt, she can have it use any one of the damage types she has selected. This ability replaces vigilante specialization.
 
@@ -202,7 +202,7 @@ At 7th level and every 6 vigilante levels thereafter, the warlock chooses anothe
 
 **Warlock Talents**: A warlock can select from any of the following vigilante talents, in addition to general vigilante talents. This alters vigilante talents.
 
-**Arcane Striker (Su)**: The warlock gains Arcane Strike as a bonus feat. At 12th level, when she activates Arcane Strike, she can choose to also give her weapons the *flaming*, *frost*, *shock*, or *thundering* weapon special ability. She makes this choice each time she activates Arcane Strike, and it lasts for the same duration. At 16th level, she adds *anarchic*, *axiomatic*, *flaming burst*, *holy*, *icy burst*, *shocking burst*, and *unholy* to the list of special abilities she can select. She can choose to apply an alignment-based weapon special ability only while in her vigilante identity, and only if it matches the alignment of her vigilante identity.
+**Arcane Striker (Su)**: The warlock gains [Arcane Strike](../../rules/feats/arcane-strike.md) as a bonus feat. At 12th level, when she activates Arcane Strike, she can choose to also give her weapons the *flaming*, *frost*, *shock*, or *thundering* weapon special ability. She makes this choice each time she activates Arcane Strike, and it lasts for the same duration. At 16th level, she adds *anarchic*, *axiomatic*, *flaming burst*, *holy*, *icy burst*, *shocking burst*, and *unholy* to the list of special abilities she can select. She can choose to apply an alignment-based weapon special ability only while in her vigilante identity, and only if it matches the alignment of her vigilante identity.
 
 **Elemental Armor (Su)**: When in her vigilante identity, the warlock gains armor made of elemental energy. She is surrounded by a nimbus of ice, lightning, or flames, granting her resistance 5 to cold, electricity, or fire, respectively. The damage type must be chosen when she selects this talent, and it can’t be changed. At 4th level, the warlock’s armor deals 1d6 points of damage of the chosen energy type to any creature striking the warlock with a natural weapon or a non-reach melee weapon. A creature that attempts a grapple combat maneuver check against the warlock also takes this damage. A creature can take damage in this way no more than once per round. At 8th level, the energy resistance increases to 10. At 12th level, the damage increases to 2d6 points. At 16th level, the warlock becomes immune to the chosen damage type while in her vigilante identity.
 
@@ -278,7 +278,7 @@ This alter’s the vigilante’s skill ranks per level.
 
 **Alignment**: A zealot’s alignment must be within one step of his deity’s, along either the law/chaos axis or the good/evil axis, but only when in his vigilante identity. If his social identity’s alignment isn’t within one step of his deity’s, he can’t cast spells in his social identity.
 
-**Aura (Ex)**: A zealot of a chaotic, evil, good, or lawful deity has a particularly powerful aura corresponding to the deity’s alignment (see *detect evil* spell for details), but only when in his vigilante identity.
+**Aura (Ex)**: A zealot of a chaotic, evil, good, or lawful deity has a particularly powerful aura corresponding to the deity’s alignment (see [*detect evil*](../../magic/spells/detect-evil.md) spell for details), but only when in his vigilante identity.
 
 **Inquisition (Ex)**: A zealot picks a deity and picks a single inquisition tied to that deity. He uses his vigilante level as his inquisitor level to determine level dependent inquisition abilities. This ability replaces vigilante specialization.
 
@@ -286,9 +286,9 @@ This alter’s the vigilante’s skill ranks per level.
 
 **Channel Energy (Su)**: A zealot who takes this talent can channel energy with an effective cleric level equal to his vigilante level – 4 (minimum 1) while in his vigilante identity. If good in his vigilante identity (or if he worships a good deity), the vigilante channels positive energy and can choose to deal damage to undead creatures or to heal living creatures. If evil in his vigilante identity (or if he worships an evil deity), the vigilante channels negative energy and can choose to deal damage to living creatures or to heal undead creatures. If the vigilante is neutral in his vigilante identity and worships a neutral deity, the vigilante must choose whether he channels positive or negative energy. Once this choice is made, it can’t be reversed.
 
-**Discern Lies (Sp)**: The zealot can use *discern lies* as a spell-like ability for a number of rounds per day equal to his vigilante level. The rounds need not be consecutive. Activating this ability is an immediate action. A zealot must be 6th level before taking this talent.
+**Discern Lies (Sp)**: The zealot can use [*discern lies*](../../magic/spells/discern-lies.md) as a spell-like ability for a number of rounds per day equal to his vigilante level. The rounds need not be consecutive. Activating this ability is an immediate action. A zealot must be 6th level before taking this talent.
 
-**Empower Symbol (Su)**: As a standard action, the zealot can empower his holy symbol. If the zealot is of good alignment while in his vigilante identity (or worships a good deity), this works as if the holy symbol was the center of a *consecrate* effect. If the zealot is of evil alignment in his vigilante identity (or worships an evil deity), this works as if the holy symbol was the center of a *desecrate* effect. If the zealot is neutral in his vigilante identity and worships a neutral deity, he can choose whether this ability acts as per *consecrate* or *desecrate*, but once the choice is made, it cannot be changed. At 10th level, the zealot treats his holy symbol as a permanent fixture for the purpose of determining the consecration or desecration effects. A zealot must be at least 6th level to select this talent.
+**Empower Symbol (Su)**: As a standard action, the zealot can empower his holy symbol. If the zealot is of good alignment while in his vigilante identity (or worships a good deity), this works as if the holy symbol was the center of a [*consecrate*](../../magic/spells/consecrate.md) effect. If the zealot is of evil alignment in his vigilante identity (or worships an evil deity), this works as if the holy symbol was the center of a [*desecrate*](../../magic/spells/desecrate.md) effect. If the zealot is neutral in his vigilante identity and worships a neutral deity, he can choose whether this ability acts as per *consecrate* or *desecrate*, but once the choice is made, it cannot be changed. At 10th level, the zealot treats his holy symbol as a permanent fixture for the purpose of determining the consecration or desecration effects. A zealot must be at least 6th level to select this talent.
 
 **Stalwart (Ex)**: A zealot with this talent can use mental and physical resilience to avoid certain attacks. If he succeeds at a Fortitude or Will saving throw against an attack that has a reduced effect on a successful save, he avoids the effect entirely. A helpless zealot doesn’t gain the benefit of this ability. A zealot must be 12th level before selecting this talent.
 
@@ -322,7 +322,7 @@ This ability replaces vigilante specialization.
 
 This ability replaces the 1st-level social talent.
 
-**Brew Potion**: At 3rd level, an experimenter gains Brew Potion as a bonus feat. He treats his vigilante level as his caster level and can use Craft (alchemy) instead of Spellcraft to brew potions. He can use another potion of the same spell as a sample to provide the necessary spell without consuming the potion, increasing the DC by 5.
+**Brew Potion**: At 3rd level, an experimenter gains [Brew Potion](../../rules/feats/brew-potion.md) as a bonus feat. He treats his vigilante level as his caster level and can use Craft (alchemy) instead of Spellcraft to brew potions. He can use another potion of the same spell as a sample to provide the necessary spell without consuming the potion, increasing the DC by 5.
 
 This ability replaces unshakable.
 
@@ -346,11 +346,11 @@ This alters the vigilante’s weapon and armor proficiencies.
 
 This alters vigilante specialization.
 
-**Hangman’s Noose (Ex)**: At 2nd level, a hangman can wield a rope noose as a net or whip, and also can use it to grapple, gaining the benefits of Improved Grapple with it. He takes no penalty on combat maneuver checks with the noose for having the noose in his hand, but he still doesn’t add any bonuses he might have with a net or whip (such as weapon enhancement bonuses or benefits from Weapon Focus) on the check. He can spend 1 minute to weave a magical or masterwork net or whip into a noose, thereafter gaining these benefits with it.
+**Hangman’s Noose (Ex)**: At 2nd level, a hangman can wield a rope noose as a net or whip, and also can use it to grapple, gaining the benefits of [Improved Grapple](../../rules/feats/improved-grapple.md) with it. He takes no penalty on combat maneuver checks with the noose for having the noose in his hand, but he still doesn’t add any bonuses he might have with a net or whip (such as weapon enhancement bonuses or benefits from Weapon Focus) on the check. He can spend 1 minute to weave a magical or masterwork net or whip into a noose, thereafter gaining these benefits with it.
 
 This ability replaces the 2nd-level vigilante talent.
 
-**Bound to Truth (Ex, Sp)**: At 3rd level, a hangman adds half his vigilante level to his Sense Motive checks to notice lies told by a creature entangled or grappled by his noose, by feeling the creature’s throat clench or changes in its breathing. In addition, he can prevent a creature entangled or grappled in his noose from lying by tightening the noose, as per a single-target *zone of truth* (the caster level equals his vigilante level; the save DC is Charisma-based). He can use the latter ability a number of rounds per day equal to half his vigilante level. These rounds don’t need to be consecutive.
+**Bound to Truth (Ex, Sp)**: At 3rd level, a hangman adds half his vigilante level to his Sense Motive checks to notice lies told by a creature entangled or grappled by his noose, by feeling the creature’s throat clench or changes in its breathing. In addition, he can prevent a creature entangled or grappled in his noose from lying by tightening the noose, as per a single-target [*zone of truth*](../../magic/spells/zone-of-truth.md) (the caster level equals his vigilante level; the save DC is Charisma-based). He can use the latter ability a number of rounds per day equal to half his vigilante level. These rounds don’t need to be consecutive.
 
 This ability replaces unshakable.
 
@@ -396,7 +396,7 @@ This ability replaces the 6th-level vigilante talent.
 
 This replaces the 7th-level social talent.
 
-**Grisly Murder (Ex)**: At 11th level, a serial killer gains Dreadful Carnage as a bonus feat, and if she leaves a calling card, the murder is so horrifying that creatures examining the corpse are affected as per *nightmare* that night (DC = 10 + 1/2 the serial killer’s vigilante level + her Charisma modifier). The nightmare affects a number of creatures equal to the serial killer’s Charisma modifier, starting with the first creature to examine the corpse. This replaces frightening appearance.
+**Grisly Murder (Ex)**: At 11th level, a serial killer gains [Dreadful Carnage](../../rules/feats/dreadful-carnage.md) as a bonus feat, and if she leaves a calling card, the murder is so horrifying that creatures examining the corpse are affected as per [*nightmare*](../../magic/spells/nightmare.md) that night (DC = 10 + 1/2 the serial killer’s vigilante level + her Charisma modifier). The nightmare affects a number of creatures equal to the serial killer’s Charisma modifier, starting with the first creature to examine the corpse. This replaces frightening appearance.
 
 **Quiet Death (Ex)**: At 12th level, a serial killer gains the quiet death class feature as if she were an assassin. This ability replaces the 12th-level vigilante talent.
 
@@ -406,7 +406,7 @@ This replaces the 7th-level social talent.
 
 The tales of many lands teem with intelligent beasts who emerge from the wild to right wrongs perpetrated by a nation, aid a virtuous family, or extract long-overdue vengeance. Many of these trace back to the agathiel tradition, first stolen from agathion celestials by wandering scholars. Agathiels surrender a portion of their immortal souls to Nirvana in exchange for a measure of animalistic might to aid them in their righteous crusades. This exchange is permanent, and each agathiel commits the rest of his mortal life to service of others and the constant thrum of wild instincts.
 
-**Immortal Commitment (Su)**: Becoming an agathiel commits a portion of the vigilante’s soul to Nirvana, and in turn invests him with a portion of the plane’s power. An agathiel’s social and vigilante identity alignments must both be within one step of neutral good. If either of the agathiel’s alignments moves outside this range (because of his own actions or magical manipulation), he gains 1 permanent negative level and loses the ability to assume his vigilante identity until both of his alignments are within one step of neutral good. This negative level cannot be overcome in any way (including by *restoration* spells) until the agathiel’s alignment reverts.
+**Immortal Commitment (Su)**: Becoming an agathiel commits a portion of the vigilante’s soul to Nirvana, and in turn invests him with a portion of the plane’s power. An agathiel’s social and vigilante identity alignments must both be within one step of neutral good. If either of the agathiel’s alignments moves outside this range (because of his own actions or magical manipulation), he gains 1 permanent negative level and loses the ability to assume his vigilante identity until both of his alignments are within one step of neutral good. This negative level cannot be overcome in any way (including by [*restoration*](../../magic/spells/restoration.md) spells) until the agathiel’s alignment reverts.
 
 **Bestial Identity (Su)**: At 1st level, an agathiel’s vigilante identity must invoke the appearance and behavior of a single Small or Medium creature of the animal type. The vigilante can attempt to appear to be a normal member of this animal type, but doing so imposes a –10 penalty on his Disguise check. The bonus provided by seamless guise still applies to the vigilante’s attempts to appear to be an ordinary animal. Once the vigilante’s animal form is selected, it cannot be changed.
 
@@ -416,7 +416,7 @@ At 8th level, when assuming his vigilante identity, the vigilante can select two
 
 This ability alters dual identity and replaces the vigilante talents gained at 4th, 8th, 12th, and 16th levels.
 
-**Agathion Blessing (Su)**: Beginning at 2nd level, an agathiel gains Aspect of the Beast as a bonus feat while in his vigilante identity. If he selects the claws of the beast option, he can select a bite attack (1d8), a gore attack (1d8), or 2 slam attacks (1d4 each), as appropriate to his animal identity.
+**Agathion Blessing (Su)**: Beginning at 2nd level, an agathiel gains [Aspect of the Beast](../../rules/feats/aspect-of-the-beast.md) as a bonus feat while in his vigilante identity. If he selects the claws of the beast option, he can select a bite attack (1d8), a gore attack (1d8), or 2 slam attacks (1d4 each), as appropriate to his animal identity.
 
 This ability replaces the vigilante talent gained at 2nd level.
 
@@ -438,7 +438,7 @@ This ability replaces vigilante specialization.
 
 This ability replaces the social talent gained at 1st level.
 
-**Tend the Crop (Ex)**: Beginning at 2nd level, a servile infiltrator gains the ability to coordinate his crop to improve their performance in battle. He gains Stealth Synergy as a bonus feat. As a standard action, a servile infiltrator can grant any one teamwork feat he has to all members of his crop who can see and hear him. Members of his crop retain this feat for 1 round, plus 1 round for every 5 vigilante levels the servile infiltrator has beyond 2nd, to a maximum of 4 rounds at 17th level. A servile infiltrator can share only one teamwork feat at a time in this manner.
+**Tend the Crop (Ex)**: Beginning at 2nd level, a servile infiltrator gains the ability to coordinate his crop to improve their performance in battle. He gains [Stealth Synergy](../../rules/feats/stealth-synergy.md) as a bonus feat. As a standard action, a servile infiltrator can grant any one teamwork feat he has to all members of his crop who can see and hear him. Members of his crop retain this feat for 1 round, plus 1 round for every 5 vigilante levels the servile infiltrator has beyond 2nd, to a maximum of 4 rounds at 17th level. A servile infiltrator can share only one teamwork feat at a time in this manner.
 
 This ability replaces the vigilante talent gained at 6th level.
 
@@ -508,11 +508,11 @@ While in her vigilante identity, the masked maiden takes a –2 penalty on all C
 
 Silent thought-killers are secret assassins who cut out their own tongues to gain magical protection from exposure. They hunt down secrets to steal before they can be spread, which usually requires executing those who already knew them.
 
-**Tongue Sacrifice (Su)**: A silent thought-killer's social identity is as a priest who many people assume has taken a vow of silence since they speak so infrequently. In order to assume her vigilante identity, a silent thought-killer must cut out her own tongue as a standard action, an act that deals 1d4 points of damage plus 1 point of bleed damage and leaves her unable to speak (even to cast spells). The thought-killer gains the ability to cast *regenerate* as a spell-like ability once per day, and only to restore her own tongue.
+**Tongue Sacrifice (Su)**: A silent thought-killer's social identity is as a priest who many people assume has taken a vow of silence since they speak so infrequently. In order to assume her vigilante identity, a silent thought-killer must cut out her own tongue as a standard action, an act that deals 1d4 points of damage plus 1 point of bleed damage and leaves her unable to speak (even to cast spells). The thought-killer gains the ability to cast [*regenerate*](../../magic/spells/regenerate.md) as a spell-like ability once per day, and only to restore her own tongue.
 
 **Monastic Communication (Ex)**: At 2nd level, a silent thought-killer is skilled at maintaining a disguise without speaking. She can communicate simple concepts through body language and pantomime as though passing a secret message using the Bluff skill, in half the time normally required to do so. She gains a bonus on this check equal to 1/2 her vigilante level. This replaces the social talent gained at 2nd level.
 
-**Silent to Magic (Su)**: At 6th level, a silent thought-killer is protected by *nondetection* in her social identity, but only against mind-reading effects. Her effective caster level is equal to her vigilante level. At 10th level, this protection also applies to the thought-killer's vigilante identity. This ability replaces the social talent gained at 6th level.
+**Silent to Magic (Su)**: At 6th level, a silent thought-killer is protected by [*nondetection*](../../magic/spells/nondetection.md) in her social identity, but only against mind-reading effects. Her effective caster level is equal to her vigilante level. At 10th level, this protection also applies to the thought-killer's vigilante identity. This ability replaces the social talent gained at 6th level.
 
 **Thought-Scent (Su)**: At 7th level, a silent thought-killer can smell a significant thought. As a standard action, she can choose one fact or idea she already knows, such as a secret she wishes to keep hidden, and can locate any creature within 30 feet who knows it as with the scent ability. The range increases to 60 feet if the creature is upwind and drops to 15 feet if the creature is downwind. She can discern the direction to the creature until she is adjacent, at which point she can pinpoint the creature's square. This is a mind-affecting divination effect. She can use this ability for up to 1 minute per level. These minutes need not be consecutive but must be used in 1-minute intervals. This replaces the vigilante talent gained at 7th level.
 
@@ -524,7 +524,7 @@ Sometimes the best place to hide is in plain sight. The hidden current operates 
 
 **Guise of the Land Walker (Ex)**: At 1st level, a hidden current gains the many guises social talent, but the mundane identity assumed must be of a nonaquatic humanoid and functions only when he is on land. This ability replaces the hidden current's 1st-level social talent.
 
-**Sea's Return (Sp)**: At 11th level, a hidden current can magically slip between the sea and the land, as if using the spell *dimension door* with a caster level equal to the hidden current's vigilante level. The starting point of this ability must be on land and the ending point in water at least waist deep, or vice versa. Using this ability is a move action. The hidden current cannot take other creatures with him when he uses this ability. A hidden current can use this ability once per day at 11th level and an additional time per day every 4 levels thereafter (to a maximum of three uses per day at 19th level). This ability replaces frightening appearance.
+**Sea's Return (Sp)**: At 11th level, a hidden current can magically slip between the sea and the land, as if using the spell [*dimension door*](../../magic/spells/dimension-door.md) with a caster level equal to the hidden current's vigilante level. The starting point of this ability must be on land and the ending point in water at least waist deep, or vice versa. Using this ability is a move action. The hidden current cannot take other creatures with him when he uses this ability. A hidden current can use this ability once per day at 11th level and an additional time per day every 4 levels thereafter (to a maximum of three uses per day at 19th level). This ability replaces frightening appearance.
 
 **Stealthy Swimmer (Ex)**: Hidden currents can transition between land and sea at a moment's notice. If a hidden current begins his movement on land and ends his movement in water at least waist deep, or vice versa, he gains a +5 circumstance bonus on a Stealth check in the same turn. This ability replaces the hidden current's 2nd-level vigilante talent.
 
@@ -550,7 +550,7 @@ Occasionally a mutation takes hold of the body of a vigilante, but he learns to 
 
 *Mutant Evolution*: The mutated defender gains a 1-point evolution from the eidolon list other than climb, improved natural armor, mount, skilled, or swim. He must meet any prerequisites as normal, using his vigilante level for prerequisites that require a summoner level. He can select an evolution granting a natural attack without fulfilling the subtype requirement, though he must replace one of his hands with the natural weapon. A mutated defender can select this mutant talent multiple times, choosing a different evolution each time.
 
-*Mutated Lobe (Sp)*: A mutated defender's brain is enlarged and distended, granting him psychic powers. He can cast *detect thoughts* as a spell-like ability once per day for every 4 vigilante levels he has, with a caster level equal to his vigilante level. A vigilante must be at least 4th level to select this talent.
+*Mutated Lobe (Sp)*: A mutated defender's brain is enlarged and distended, granting him psychic powers. He can cast [*detect thoughts*](../../magic/spells/detect-thoughts.md) as a spell-like ability once per day for every 4 vigilante levels he has, with a caster level equal to his vigilante level. A vigilante must be at least 4th level to select this talent.
 
 ## Throne Loyalist
 
@@ -562,17 +562,17 @@ Occasionally a mutation takes hold of the body of a vigilante, but he learns to 
 
 **False Allegiance (Ex)**: Eventually, a loyalist begins training to infiltrate one of the realm's great houses. At 5th level, a throne loyalist chooses one of the seven great noble houses, gaining a bonus feat and a special ability appropriate to the chosen house. He need not meet the feat's prerequisites.
 
-- *House of Stone*: The loyalist gains Sure Grasp and the dwarves' stonecunning racial trait.
+- *House of Stone*: The loyalist gains [Sure Grasp](../../rules/feats/sure-grasp.md) and the dwarves' stonecunning racial trait.
 - *House of Coin*: The loyalist gains Skill Focus (Appraise). He can also resell items for 60% of their listed value, rather than 50%. The purchase limit of the settlement must be high enough to accommodate the increased value.
 - *House of the Sea*: The loyalist gains Sea Legs. When attempting Swim checks, he ignores the armor check penalty of light or medium armor. If the loyalist has the heavy training vigilante talent, this applies to heavy armor as well.
 - *House of the Wild*: The loyalist gains Endurance and the druid's resist nature's lure class feature.
-- *House of the Blade*: The loyalist gains Call Truce and a +3 bonus to his CMD.
+- *House of the Blade*: The loyalist gains [Call Truce](../../rules/feats/call-truce.md) and a +3 bonus to his CMD.
 - *House of the Fallen Dynasty*: The loyalist gains Skill Focus (Knowledge [history]) and a +2 bonus on Diplomacy checks to gather information. This bonus increases to +4 when gathering information related to the realm's former ruling dynasty.
 - *House of the Regent*: The loyalist gains Persuasive and a +4 bonus on Sense Motive checks against creatures that profess to be his allies.
 
 This ability replaces startling appearance.
 
-**Throne Vigilance (Su)**: A throne loyalist becomes supernaturally perceptive to plots against his lord. At 11th level, while in his vigilante identity, a throne loyalist is treated as constantly being under the effects of *perceive betrayal*. This effect's caster level is equal to the throne loyalist's vigilante level, and he doesn't require material components or a focus. This ability replaces the vigilante's frightening appearance.
+**Throne Vigilance (Su)**: A throne loyalist becomes supernaturally perceptive to plots against his lord. At 11th level, while in his vigilante identity, a throne loyalist is treated as constantly being under the effects of [*perceive betrayal*](../../magic/spells/perceive-betrayal.md). This effect's caster level is equal to the throne loyalist's vigilante level, and he doesn't require material components or a focus. This ability replaces the vigilante's frightening appearance.
 
 **Conqueror's Wrath (Ex)**: At 17th level, as a full-round action, a throne loyalist can make a full attack and move up to his speed. The loyalist can pause at any point or points during the movement, make one or more of his attacks, and continue moving. Creatures making attacks of opportunity against the loyalist during this movement gain a +4 bonus on their attack and damage rolls. Using this ability counts as using a vigilante talent. This ability replaces stunning appearance.
 
@@ -610,13 +610,13 @@ This ability replaces startling appearance.
 
 *Vigilante archetype.* Half-orcs with more distant orc ancestry often look almost indistinguishable from humans, aside from a slightly greenish tint to their skin or sharp teeth. The ability to move through the world without experiencing the same discrimination many of their kin face opens doors that might otherwise be closed, yet many of these half-orcs still take great pride in their heritage and have a powerful desire to show the world that half-orcs are deserving of respect. By taking on an alter-ego that allows them to show their true colors, they can become a champion of the downtrodden and a hero among half-orcs.
 
-**Hidden Heritage (Ex)**: A ferocious hunter must present as human for his social identity and as a half-orc for his vigilante identity in order to gain the benefits of dual identity. He gains Pass for Human as a bonus feat. In addition, his alignment stays the same when he switches between identities. This alters dual identity.
+**Hidden Heritage (Ex)**: A ferocious hunter must present as human for his social identity and as a half-orc for his vigilante identity in order to gain the benefits of dual identity. He gains [Pass for Human](../../rules/feats/pass-for-human.md) as a bonus feat. In addition, his alignment stays the same when he switches between identities. This alters dual identity.
 
 **Symbol of Pride**: At 2nd level, a ferocious hunter gains the signature weapon vigilante talent, but must select a falchion, greataxe, or a weapon with "orc" in its name as his chosen weapon. He gains this talent regardless of his chosen vigilante specialization. This replaces the vigilante talent gained at 2nd level.
 
 **Spirit of Ferocity (Ex)**: Starting at 3rd level, when using orc ferocity to continue fighting after falling below 0 hit points, a ferocious hunter fights on for a number of rounds equal to his Constitution modifier. This replaces unshakable.
 
-**Symbol of Mastery**: At 8th level, a ferocious hunter gains Improved Critical with the weapon chosen for the symbol of pride ability. His base attack bonus is equal to his vigilante level for the purpose of qualifying for Critical Focus and any feats that require Critical Focus as a prerequisite. This replaces the vigilante talent gained at 8th level.
+**Symbol of Mastery**: At 8th level, a ferocious hunter gains [Improved Critical](../../rules/feats/improved-critical.md) with the weapon chosen for the symbol of pride ability. His base attack bonus is equal to his vigilante level for the purpose of qualifying for [Critical Focus](../../rules/feats/critical-focus.md) and any feats that require Critical Focus as a prerequisite. This replaces the vigilante talent gained at 8th level.
 
 ## Splintersoul
 
@@ -650,7 +650,7 @@ Some elven orders are dedicated to the containment and eradication of the drow. 
 
 Transforming back into the darklantern’s social identity requires a move action. However, a darklantern must succeed at a Will save (DC = 10 + the number of hours she has been in her vigilante identity) in order to successfully transform back into her social identity; otherwise, the move action is wasted and the action cannot be attempted for 1 minute. Each time a darklantern fails this check, she takes 1 point of Wisdom damage and the DC for the save decreases by 2. This ability alters dual identity.
 
-**Drow Magic (Sp)**: At 1st level, when in her vigilante identity, a darklantern can cast *dancing lights*, *darkness*, and *faerie fire*, once each per day, using her vigilante level as her caster level. This replaces the social talent that the darklantern gains at 1st level.
+**Drow Magic (Sp)**: At 1st level, when in her vigilante identity, a darklantern can cast [*dancing lights*](../../magic/spells/dancing-lights.md), [*darkness*](../../magic/spells/darkness.md), and [*faerie fire*](../../magic/spells/faerie-fire.md), once each per day, using her vigilante level as her caster level. This replaces the social talent that the darklantern gains at 1st level.
 
 **Drow Paragon (Su)**: At 4th level, the darklantern gains Spell Resistance equal to 6 + her vigilante level, and the range of her darkvision increases to 120 feet while in her vigilante identity. This replaces the vigilante talent gained at 4th level.
 

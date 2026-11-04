@@ -793,3 +793,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     *Rogue Glory.* Copyright 2013, Drop Dead Studios; Author Adam Meyers.
 
     *Legacy of Fire Player’s Guide.* Paizo Inc.
+
+    *Pathfinder RPG NPC Codex.* Paizo Inc.

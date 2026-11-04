@@ -4,7 +4,7 @@
 
 Your blows are not only deadly, but debilitating as well.
 
-**Prerequisites**: Critical Focus, Improved Dirty Trick, base attack bonus +11.
+**Prerequisites**: [Critical Focus](critical-focus.md), [Improved Dirty Trick](improved-dirty-trick.md), base attack bonus +11.
 
 **Benefit**: Whenever you confirm a critical hit, you can also affect the target as if you had succeeded at a dirty trick combat maneuver check. Doing so normally causes the target to suffer for 1 round one of the conditions applied by a dirty trick, unless you have feats or abilities that give you more dirty trick options.
 

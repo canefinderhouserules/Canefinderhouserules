@@ -2,6 +2,6 @@
 
 You live a hard nomadic life in a cold climate and gain some benefit from it.
 
-**Prerequisites**: Endurance, member of a Mammoth Lord’s following.
+**Prerequisites**: [Endurance](endurance.md), member of a Mammoth Lord’s following.
 
 **Benefit**: You gain a +2 bonus on saving throws made against magical and natural effects that deal cold damage. In addition, you may move across ice without a movement penalty.

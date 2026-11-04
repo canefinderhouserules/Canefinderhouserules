@@ -32,7 +32,7 @@ A weapon used with armed jutsu is always considered loaded, and does not need to
 *Twin Shot (Ex):* An arsenal sniper can channel their kinetic blast through two weapons at once, allowing them to make ranged attacks with their armed jutsu while two weapon fighting. This is treated as the twin star advanced hadou technique for the purpose of how it interacts with other shinobi talents and class features.
 *Utility Jutsu (Ex):* As long as an arsenal sniper has 1 or more points of ki in their ki pool, they gain the utility shot deed from the gunslinger class. An arsenal sniper must be 3rd level or higher to select this talent.
 
-**Sniper’s Eye (Ex):** At 3rd level, an arsenal sniper gains the studied combat class feature of the investigator class as well as the Ranged Study feat even if they don’t meet the prerequisites, being able to apply it to both crossbows and non double barreled firearms. Any effect that would increase the distance from which a studied combat or studied strike can be made instead increases the distance in which a studied combat and studied strike can be made, and an arsenal sniper uses their Charisma modifier to determine the duration of this ability.
+**Sniper’s Eye (Ex):** At 3rd level, an arsenal sniper gains the studied combat class feature of the investigator class as well as the [Ranged Study](../../../rules/feats/ranged-study.md) feat even if they don’t meet the prerequisites, being able to apply it to both crossbows and non double barreled firearms. Any effect that would increase the distance from which a studied combat or studied strike can be made instead increases the distance in which a studied combat and studied strike can be made, and an arsenal sniper uses their Charisma modifier to determine the duration of this ability.
 
 At 5th level, an arsenal sniper gains the studied strike class feature of the investigator class, starting off at 1d6 at 5th level and increasing by 1d6 for every 3 arsenal sniper levels beyond the 5th (to a maximum of 6d6 at 20th level). Shinobi talents and class features that affect sneak attack can be used with this ability.
 
@@ -72,9 +72,9 @@ In addition, the brutal assassin uses their Strength modifier instead of their C
 
 *This ability alters ninjutsu specialist.*
 
-**Brutal Metajutsu (Su):** At 6th level, the brutal assassin can spend 1 point from their ki pool to increase any damage rolls made with their kinetic blast by half, as if using Empower Spell. This does not affect precision damage (such as sneak attack).
+**Brutal Metajutsu (Su):** At 6th level, the brutal assassin can spend 1 point from their ki pool to increase any damage rolls made with their kinetic blast by half, as if using [Empower Spell](../../../rules/feats/empower-spell.md). This does not affect precision damage (such as sneak attack).
 
-At 14th level, the brutal assassin can spend 3 points from their ki pool to increase the critical range of their kinetic blast by 1. They apply this effect after other effects which would multiply or increase their critical range (such as the Improved Critical feat or razor jutsu shinobi talent), and it stacks with these effects.
+At 14th level, the brutal assassin can spend 3 points from their ki pool to increase the critical range of their kinetic blast by 1. They apply this effect after other effects which would multiply or increase their critical range (such as the [Improved Critical](../../../rules/feats/improved-critical.md) feat or razor jutsu shinobi talent), and it stacks with these effects.
 
 *This ability replaces metajutsu (extend) and metajutsu (persistent).*
 
@@ -132,13 +132,13 @@ At 17th level, whenever the elemental shinobi has spent at least 7 points from t
 
 *One skill that greatly benefits a kinetic shinobi is the ability to seemingly vanish from existence entirely. Fading shadows don’t just rely on their stealth and cunning, but upon their supernatural ability to hide from all forms of detection. Even their most intimate colleagues and associates sometimes don’t know whether the fading shadow is real or not.*
 
-**Conceal Spell (Su):** At 1st level, the fading shadow receives Conceal Spell as a bonus feat without having to meet the prerequisites.
+**Conceal Spell (Su):** At 1st level, the fading shadow receives [Conceal Spell](../../../rules/feats/conceal-spell.md) as a bonus feat without having to meet the prerequisites.
 
 **Vanish (Su):** At 1st level, the fading shadow receives the vanishing trick ninja trick, and at 11th, they receive the invisible blade ninja master trick. In addition, the duration of vanishing trick is extended to minutes rather than rounds.
 
 *This ability replaces the shinobi talents gained at 1st and 11th levels.*
 
-**Fade Away (Su):** At 3rd level, the fading shadow is treated as constantly under the effects of *negate aroma*, as the spell. At 9th they are also under the effects of nondetection (treating it as having a CL equal to their fading shadow level), and at 15th level they are also under the effects of mind blank.
+**Fade Away (Su):** At 3rd level, the fading shadow is treated as constantly under the effects of [*negate aroma*](../../../magic/spells/negate-aroma.md), as the spell. At 9th they are also under the effects of nondetection (treating it as having a CL equal to their fading shadow level), and at 15th level they are also under the effects of mind blank.
 
 *This ability replaces no trace.*
 
@@ -160,7 +160,7 @@ At 17th level, whenever the elemental shinobi has spent at least 7 points from t
 
 *This replaces the kinetic shinobi’s weapon and armor proficiencies.*
 
-**Blessed Fists (Ex):** At 1st level the hand of the kami gains Improved Unarmed Strike as a bonus feat. In addition, their unarmed strikes deal damage as a monk 2/3 their hand of the kami level (minimum 1) and they treat their base attack bonus as equal to their class level. Levels in a class which provides increases to unarmed strike damage stack with effective levels provided by hand of the kami to determine damage.
+**Blessed Fists (Ex):** At 1st level the hand of the kami gains [Improved Unarmed Strike](../../../rules/feats/improved-unarmed-strike.md) as a bonus feat. In addition, their unarmed strikes deal damage as a monk 2/3 their hand of the kami level (minimum 1) and they treat their base attack bonus as equal to their class level. Levels in a class which provides increases to unarmed strike damage stack with effective levels provided by hand of the kami to determine damage.
 
 *This ability replaces sneak attack and the shinobi talent gained at 1st level.*
 
@@ -192,8 +192,8 @@ At 17th level, whenever the elemental shinobi has spent at least 7 points from t
 
 **Shinobi Talents:** The hand of the kami has access to the following shinobi talents:
 
-*Qinggong Power (Su):* The hand of the kami selects a qinggong monk ki power for which they qualify, treating their hand of the kami level -1 as their monk level. They can select this shinobi talent multiple times, but must select a different qinggong power each time, and cannot select the dragon’s breath or Elemental Fist ki powers.
-*Stunning Fist (Ex):* The hand of the kami gains Stunning Fist as a bonus feat, ignoring its prerequisites, treating themselves as a monk of their hand of the kami level to determine its effects.
+*Qinggong Power (Su):* The hand of the kami selects a qinggong monk ki power for which they qualify, treating their hand of the kami level -1 as their monk level. They can select this shinobi talent multiple times, but must select a different qinggong power each time, and cannot select the dragon’s breath or [Elemental Fist](../../../rules/feats/elemental-fist.md) ki powers.
+*Stunning Fist (Ex):* The hand of the kami gains [Stunning Fist](../../../rules/feats/stunning-fist.md) as a bonus feat, ignoring its prerequisites, treating themselves as a monk of their hand of the kami level to determine its effects.
 
 The hand of the kami cannot select the following shinobi talents: bomb blast, calculated strike, deadeye jutsu, double toxin art, hadou admixture, hadou expert, master trick, ninja trick, shadow hadou, sneaking jutsu, starstorm art, and swarm jutsu.
 
@@ -336,7 +336,7 @@ A shadow stepper spell cast by the shadow stepper can be affected by their metaj
 
 **Shadow Jutsu (Sp):** Upon reaching 2nd level, a shadow stepper gains their ki pool, but does not gain access to the normal abilities granted by that ki pool. Instead, the shadow stepper can spend 1 point from their ki pool and a spell slot to spontaneously cast certain spells as if they were shadow stepper spells. These spells and the levels they count as for the shadow stepper are as follows:
 
-1st—*shadow enchantment*, 2nd—*shadow conjuration*, *shadow step*, *shadow projection*, 3rd—*shadow evocation*, *shadow enchantment, greater*, *shadow walk* 4th—*shadow conjuration, greater*, *shadow evocation, greater*
+1st—[*shadow enchantment*](../../../magic/spells/shadow-enchantment.md), 2nd—[*shadow conjuration*](../../../magic/spells/shadow-conjuration.md), [*shadow step*](../../../magic/spells/shadow-step.md), [*shadow projection*](../../../magic/spells/shadow-projection.md), 3rd—[*shadow evocation*](../../../magic/spells/shadow-evocation.md), *shadow enchantment, greater*, [*shadow walk*](../../../magic/spells/shadow-walk.md) 4th—*shadow conjuration, greater*, *shadow evocation, greater*
 
 Consuming this ki requires a swift action. Any time a shadow stepper casts a spell in this way it is treated in all ways as identical to a normal spell of that level for the shadow stepper. The shadow stepper adds a bonus of +¼ their shadow stepper level -2 to the DCs of these spells.
 

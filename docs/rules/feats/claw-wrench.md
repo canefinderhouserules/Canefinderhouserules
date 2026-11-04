@@ -4,7 +4,7 @@
 
 You can pry open a mighty beast’s grasp or snapping jaws.
 
-**Prerequisites**: Dex 13, Improved Grapple, Improved Unarmed Strike.
+**Prerequisites**: Dex 13, [Improved Grapple](improved-grapple.md), [Improved Unarmed Strike](improved-unarmed-strike.md).
 
 **Benefit**: As a standard action, you can attempt a grapple combat maneuver with a –5 penalty against a creature that is currently grappling another creature via its grab special ability. If you succeed, you pry open the creature’s grasp, releasing any creatures it had grappled.
 

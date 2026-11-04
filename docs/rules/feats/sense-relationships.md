@@ -2,7 +2,7 @@
 
 You can quickly sense relationships between others and use that knowledge to manipulate them.
 
-**Prerequisite**: Street Smarts.
+**Prerequisite**: [Street Smarts](street-smarts.md).
 
 **Benefit**: After 1 minute or more of interaction or observation, you can attempt a DC 20 Sense Motive check to get a hunch in order to intuit the relationship between any two creatures interacting with one another. If you don’t understand the language they are speaking, you take a –5 penalty on the check, and if the creatures are a different type than you, you take an additional –5 penalty on the check.
 

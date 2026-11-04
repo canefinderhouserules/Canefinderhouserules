@@ -4,7 +4,7 @@
 
 You have embraced a style of swordplay known for its circuitous and canny footwork.
 
-**Prerequisites**: Swordlord Dueling Disciple, Weapon Finesse, Weapon Focus (dueling blade), base attack bonus +5.
+**Prerequisites**: [Swordlord Dueling Disciple](swordlord-dueling-disciple.md), [Weapon Finesse](weapon-finesse.md), Weapon Focus (dueling blade), base attack bonus +5.
 
 **Benefit**: When attempting a combat maneuver to bull rush or reposition a foe, you gain a +1 insight bonus on combat maneuver checks and a +4 dodge bonus to AC against any attack of opportunity you provoke. You also gain a +1 insight bonus to CMD against bull rush and reposition attempts.
 
