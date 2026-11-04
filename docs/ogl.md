@@ -733,3 +733,7 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Module: Conquest of Bloodsworn Vale © 2007, Paizo Publishing, LLC; Author: Jason Bulmahn.
 
     Pathfinder Module: Crown of the Kobold King © 2007, Paizo Publishing, LLC; Author: Nicolas Logue.
+
+    Pathfinder Roleplaying Game: Niobe © 2019, Paizo Inc.; Authors: Sebastian A. Jones, Darrell May, Joshua Cozine, and Luis Loza.
+
+    Pathfinder Roleplaying Game: The World of Vampire Hunter D © 2016, Paizo Inc.; Author: F. Wesley Schneider.

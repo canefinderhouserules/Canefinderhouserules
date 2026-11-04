@@ -1623,7 +1623,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Blades Above and Below](blades-above-and-below.md) | Combat, Teamwork | Base attack bonus +6 |
 | [Blazing Channel](blazing-channel.md) | — | Turn Undead, channel positive energy class feature |
 | [Bless Equipment](bless-equipment.md) | General | Caster level 3rd, channel energy class feature |
+| [Blessed by a God or Dragon](blessed-by-a-god-or-dragon.md) | — | Chosen One, character level 7th, must worship a god |
 | [Blessed Hammer](blessed-hammer.md) | — | Ability to cast 3rd-level divine spells, proficient with warhammer, worshiper of a deity whose favored weapon is the warhammer |
+| [Blessed Waters](blessed-waters.md) | Technique | — |
 | [Blight Guide](blight-guide.md) | — | Blight Survivalist, Skill Focus (Survival) |
 | [Blight Survivalist](blight-survivalist.md) | — | Skill Focus (Survival) |
 | [Blinded Blade Style](blinded-blade-style.md) | Combat, Style | Blind-Fight, Perception 5 ranks |
@@ -1735,6 +1737,11 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Chimeric Master](chimeric-master.md) | — | Chimeric Adept, greater chimeric aspect class feature, wild shape class feature |
 | [Choir of Blades](choir-of-blades.md) | Combat, Teamwork | — |
 | [Choral Support](choral-support.md) | Teamwork | Perform (sing) 3 ranks |
+| [Chosen One](chosen-one.md) | — | Character level 5th, must worship a god |
+| [Chosen One’s Determination](chosen-ones-determination.md) | — | Chosen One, Chosen One’s Resilience, character level 10th, must worship a god |
+| [Chosen One’s Might](chosen-ones-might.md) | — | Chosen One, character level 7th, must worship a god |
+| [Chosen One’s Resilience](chosen-ones-resilience.md) | — | Chosen One, character level 7th, must worship a god |
+| [Chosen One’s Wrath](chosen-ones-wrath.md) | — | Chosen One, Chosen One’s Might, character level 10th, must worship a god |
 | [Circling Mongoose](circling-mongoose.md) | Combat | Dex 13, Dodge, Mobility, Spring Attack, base attack bonus +6 |
 | [Circuitous Duelist](circuitous-duelist.md) | Combat | Swordlord Dueling Disciple, Weapon Finesse, Weapon Focus (dueling blade), base attack bonus +5 |
 | [Circuitous Shot](circuitous-shot.md) | Combat | Dex 19, Blind-Fight, Improved Precise Shot, Point-Blank Shot, Precise Shot, base attack bonus +11 |
@@ -1880,6 +1887,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Death from Below](death-from-below.md) | Combat | Base attack bonus +1 |
 | [Death Roll](death-roll.md) | Combat | Bite attack, reptilian subtype |
 | [Death's Host](death-s-host.md) | General | Spell Focus (necromancy) |
+| [Death’s Nightmare](deaths-nightmare.md) | Technique | Cha 14 |
 | [Death’s Suitor](deaths-suitor.md) | — | member of the sun-king’s guard |
 | [Deceitful Incompetence](deceitful-incompetence.md) | Combat | Combat Reflexes |
 | [Deconstruct Spell](deconstruct-spell.md) | — | Improved Counterspell or ability to cast *dispel magic* or *greater dispel magic*, aphorite, crystalline dust racial trait |
@@ -2060,6 +2068,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Exquisite Sneak](exquisite-sneak.md) | — | Dex 15, Careful Sneak, Stealth 6 ranks |
 | [Extend the Bulwark](extend-the-bulwark.md) | Combat, Teamwork | — |
 | [Extended Combat Meditation](extended-combat-meditation.md) | Combat, Meditation | Wis 13, [Combat Meditation](combat-meditation.md), [Meditation Master](meditation-master.md), character level 9th |
+| [Extended Vampiric Focus](extended-vampiric-focus.md) | Technique | Vampiric focus class feature |
 | [Extra Blood Hex](extra-blood-hex.md) | Blood Hex | Int 15, two or more blood hex feats, Spellcraft 5 ranks, Use Magic Device 5 ranks |
 | [Extra Contingency](extra-contingency.md) | — | Character level 19th |
 | [Extra Croaking](extra-croaking.md) | — | Boggard, terrifying croak |
@@ -2439,6 +2448,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Knight of the Twisted Word](knight-of-the-twisted-word.md) | — | Fey creature type or sworn fealty to a fey lord, character level 7th, you must have betrayed or deceived in a major fashion a demon with a CR at least 2 higher than your level when you took the feat |
 | [Knocking Blows](knocking-blows.md) | Armor Mastery | Str 13, Intense Blows, Power Attack, base attack bonus +11 or fighter level 8th, armor training class feature, proficiency with heavy armor |
 | [Knotted Nets](knotted-nets.md) | Combat, Teamwork | Exotic Weapon Proficiency (net), base attack bonus +1 |
+| [Know Master](know-master.md) | Technique | — |
 | [Know Weakness](know-weakness.md) | Combat | Bardic knowledge class feature |
 | [Knowledgeable Spellcaster](knowledgeable-spellcaster.md) | — | Knowledge (arcana, dungeoneering, local, nature, planes, or religion) 5 ranks, caster level 7th |
 | [Kobold Confidence](kobold-confidence.md) | General | Charisma 13, kobold |
@@ -2469,6 +2479,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Lesser Spell Synthesis](lesser-spell-synthesis.md) | — | Combined spells class feature |
 | [Let Them Come](let-them-come.md) | Combat | Dwarf, member of a dwarven veteran battalion |
 | [Letter Fury](letter-fury.md) | General | Goblin, rage class feature |
+| [Liberating Critical](liberating-critical.md) | Technique | Base attack bonus +9 |
 | [Liberating Shot](liberating-shot.md) | Weapon Mastery | Dex 13, Deadly Aim, base attack bonus +7, weapon training class feature with a ranged weapon |
 | [Liberation Channel](liberation-channel.md) | — | Channel energy 7d6, worshiper of a deity of freedom |
 | [Lie Low](lie-low.md) | — | — |
@@ -2486,6 +2497,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Lithe Attacker](lithe-attacker.md) | — | Narrow Frame, Escape Artist 5 ranks, animal or magical beast |
 | [Living Fortress](living-fortress.md) | Teamwork | Dwarf, hardy racial trait |
 | [Lob Shot](lob-shot.md) | Combat | Far Shot, Point-Blank Shot |
+| [Locked Will](locked-will.md) | Technique | Wis 14 |
 | [Lonely Death](lonely-death.md) | Origin | Duskwalker |
 | [Longshanks](longshanks.md) | — | Giant subtype, size Large or larger |
 | [Lost in the Crowd](lost-in-the-crowd.md) | — | — |
@@ -2809,12 +2821,14 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Repast of Heroes](repast-of-heroes.md) | — | Con 15, character level 8th, ghoran, natural magic racial trait |
 | [Resistance Mastery](resistance-mastery.md) | Item Mastery | Use Magic Device 3 ranks, base Fortitude saving throw bonus +3 |
 | [Resisting Grappler](resisting-grappler.md) | Combat | Dex 13 |
+| [Resolute Steed](resolute-steed.md) | Technique | Handle Animal 5 ranks |
 | [Respectful Prey](respectful-prey.md) | General | — |
 | [Restoration Mastery](restoration-mastery.md) | Item Mastery | Heal 5 ranks, Use Magic Device 5 ranks, base Fortitude saving throw bonus +3 |
 | [Restorative Vigor](restorative-vigor.md) | Combat | Con 15, Combat Vigor, character level 8th |
 | [Retributive Kick](retributive-kick.md) | Weapon Mastery | Improved Unarmed Strike, base attack bonus +5, weapon training class feature with a melee weapon |
 | [Retributive Summons](retributive-summons.md) | — | Spell Focus (conjuration) |
 | [Returning Throw](returning-throw.md) | Combat, Teamwork | Point-Blank Shot, Precise Shot, Sleight of Hand 3 ranks, goblinoid subtype |
+| [Revealing Waters](revealing-waters.md) | Technique | Blessed Waters, base attack bonus +9 |
 | [Revered Guidance](revered-guidance.md) | — | Aasimar, must be taken at 1st level |
 | [Reverse Somersault Throw](reverse-somersault-throw.md) | Combat | Str 13, Improved Drag, Power Attack, base attack bonus +6 or monk level 3rd |
 | [Reviving Channel](reviving-channel.md) | — | Channel energy 3d6 |
@@ -2988,6 +3002,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Soulblade](soulblade.md) | Combat | Knowledge (religion) 1 rank, Perception 1 rank |
 | [Soulless Gaze](soulless-gaze.md) | Damnation | Patronage of an evil outsider |
 | [Soulwrecking Strike](soulwrecking-strike.md) | Combat | Vital Strike, base attack bonus +6 |
+| [Soured Soul](soured-soul.md) | Technique | — |
 | [Sow Terror](sow-terror.md) | — | Stealthy |
 | [Spark of the Uncanny](spark-of-the-uncanny.md) | — | Familiar class feature |
 | [Spear Dancer](spear-dancer.md) | Combat | Weapon Focus (any two-handed reach weapon), Perform (dance) 4 ranks |
@@ -3265,6 +3280,8 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Usurper’s Guard](usurpers-guard.md) | Teamwork | Base attack bonus +3 or ability to cast 2nd-level spells |
 | [Usurping Spell](usurping-spell.md) | Metamagic | — |
 | [Valiant Steed](valiant-steed.md) | — | Animal or magical beast |
+| [Vampire Hunter Tradition](vampire-hunter-tradition.md) | — | — |
+| [Vampire Scholar](vampire-scholar.md) | Technique | — |
 | [Vampiric Animal Companion](vampiric-animal-companion.md) | — | Vampire, Charisma 18, animal companion class ability, sufficiently high level (see below) |
 | [Vampiric Companion](vampiric-companion.md) | — | Dhampir or vampire, nongood alignment, 10th level in a class that grants a familiar or animal companion |
 | [Vandal](vandal.md) | General | Goblin, sneak attack class feature |
