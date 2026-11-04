@@ -12,7 +12,15 @@ A kineticist gains a simple blast from her primary element at 1st level—some e
 
 When a kineticist gains a new element via the expanded element class feature, she gains a simple blast from that element as well. Each simple blast is either a physical blast or an energy blast.
 
-Physical blasts are ranged attacks that deal an amount of damage equal to 1d6+1 + the kineticist’s Constitution modifier, increasing by 1d6+1 for every 2 kineticist levels beyond 1st. Spell resistance doesn’t apply against physical blasts. Energy blasts are ranged touch attacks that deal an amount of damage equal to 1d6 + 1/2 the kineticist’s Constitution modifier, increasing by 1d6 for every 2 kineticist levels beyond 1st.
+Physical blasts are ranged attacks that deal an amount of damage equal to 1d6+1 + the kineticist’s Constitution modifier, increasing by 1d6+1 for every 2 kineticist levels beyond 1st. Spell resistance doesn’t apply against physical blasts. Energy blasts are ranged touch attacks that deal an amount of damage equal to 1d6 + 1/2 the kineticist’s Constitution modifier, increasing by 1d6 for every 2 kineticist levels beyond 1st. Bonuses to caster level also increase this damage (see [Kinetic Blast](kineticist.md)).
+
+### Acid Blast
+
+**Element** earth; **Type** simple blast (Sp); **Level** —; **Burn** 0
+
+**Blast Type** energy; **Damage** acid
+
+You spit a stream of searing acid to dissolve a single foe.
 
 ### Air Blast
 
@@ -76,7 +84,11 @@ You shoot a wave of superheated air to burn a single foe. This blast is availabl
 
 **Blast Type** physical; **Damage** bludgeoning, piercing, or slashing
 
-You throw a nearby unattended object at a single foe as a ranged attack. The object must weigh no more than 5 pounds per kineticist level you possess. If the attack hits, the target and the thrown object each take the blast’s damage. Since the object is enfolded in strands of aether, even if you use this power on a magic weapon or other unusual object, the attack doesn’t use any of the magic weapon’s bonuses or effects; it simply deals your blast damage. Alternatively, you can loosen the strands of aether in order to deal damage to both the object and the target as though you had thrown the object yourself (instead of dealing your normal blast damage).
+You throw a nearby unattended object at a single foe as a ranged attack. The object must weigh no more than 5 pounds per kineticist level you possess. If the attack hits, the target takes the blast’s damage. The thrown object takes no damage. Since the object is enfolded in strands of aether, even if you use this power on a magic weapon or other unusual object, the attack doesn’t use any of the magic weapon’s bonuses or effects; it simply deals your blast damage. Alternatively, you can loosen the strands of aether in order to deal damage to the target as though you had thrown the object yourself (instead of dealing your normal blast damage).
+
+??? note "Original rule"
+
+    You throw a nearby unattended object at a single foe as a ranged attack. The object must weigh no more than 5 pounds per kineticist level you possess. If the attack hits, the target and the thrown object each take the blast’s damage. Since the object is enfolded in strands of aether, even if you use this power on a magic weapon or other unusual object, the attack doesn’t use any of the magic weapon’s bonuses or effects; it simply deals your blast damage. Alternatively, you can loosen the strands of aether in order to deal damage to both the object and the target as though you had thrown the object yourself (instead of dealing your normal blast damage).
 
 You substitute your Constitution modifier for your Strength modifier if throwing the object would have added your Strength modifier on the damage roll, and you don’t take the –4 penalty on the attack roll for throwing an object that wasn’t designed to be thrown. In this case, the object’s special effects apply (including effects from its materials), and if the object is a weapon, you must be proficient with it and able to wield it with one hand; otherwise, the item deals damage as a one-handed improvised weapon for a creature of your size.
 
@@ -87,6 +99,15 @@ You substitute your Constitution modifier for your Strength modifier if throwing
 **Blast Type** physical; **Damage** bludgeoning
 
 You slam a single foe with a stream of water.
+
+### Radiation Blast
+
+**Element** earth; **Type** simple blast (Sp); **Level** —; **Burn** 0
+
+**Blast Type** energy; **Damage** radiation (untyped)
+
+You fire a beam of sickly green radiation at a single foe. This blast is available only to the [blightburner](kineticist-archetypes.md#blightburner) and deals 1d4 + 1/2 your Constitution modifier, increasing by 1d4 for every 2 kineticist levels beyond 1st.
+
 
 ## Composite Blasts
 
@@ -132,6 +153,26 @@ You unleash a concentrated blast of intense blue flame.
 
 You slam a single foe with a stream of electrically charged water.
 
+### Corrosive Blast
+
+**Element** earth; **Type** composite blast (Sp); **Level** —; **Burn** 2
+
+**Prerequisites** earth blast, acid blast
+
+**Blast Type** physical; **Damage** half bludgeoning, piercing, or slashing, half acid
+
+You hurl acid-soaked shards of earth that tear and dissolve a single foe.
+
+### Blightburn Blast
+
+**Element** earth; **Type** composite blast (Sp); **Level** —; **Burn** 2
+
+**Prerequisites** primary element (earth), expanded element (earth), radiation blast
+
+**Blast Type** energy; **Damage** radiation (untyped)
+
+You unleash a searing wave of concentrated radiation. This blast is available only to the [blightburner](kineticist-archetypes.md#blightburner) and deals 2d4 + 1/2 your Constitution modifier, increasing by 2d4 for every 2 kineticist levels beyond 1st.
+
 ### Force Blast
 
 **Element** aether; **Type** composite blast (Sp); **Level** —; **Burn** 2
@@ -140,7 +181,11 @@ You slam a single foe with a stream of electrically charged water.
 
 **Blast Type** energy; **Damage** force (see text)
 
-You throw a burst of force at a foe. Force blast deals damage as a simple energy blast instead of a composite energy blast.
+You throw a burst of force at a foe. Force blast deals 2d4 + 1/2 your Constitution modifier, increasing by 2d4 for every 2 kineticist levels beyond 1st.
+
+??? note "Original rule"
+
+    You throw a burst of force at a foe. Force blast deals damage as a simple energy blast instead of a composite energy blast.
 
 ### Ice Blast
 
@@ -218,9 +263,13 @@ You use your fire to superheat water into steam just as it strikes.
 
 **Prerequisites** primary element (air), expanded element (air)
 
-**Blast Type** physical; **Damage** half bludgeoning, half electricity
+**Blast Type** energy; **Damage** half bludgeoning, half electricity
 
 You batter a single foe with a gust of air crackling with electricity.
+
+??? note "Original rule"
+
+    **Blast Type** physical; **Damage** half bludgeoning, half electricity
 
 ## Defense Wild Talents
 
@@ -302,7 +351,7 @@ You bowl your foes over with the sheer mass of your kinetic blast. Attempt a tri
 
 **Prerequisite** flash infusion
 
-**Associated Blasts** blue flame, fire, plasma
+**Associated Blasts** acid, blue flame, fire, plasma
 
 **Saving Throw** none
 
@@ -314,7 +363,7 @@ Your kinetic blast leaves an afterglow that banishes the darkness. Treat each sq
 
 **Prerequisites** kinetic fist
 
-**Associated Blasts** ice, water
+**Associated Blasts** acid, ice, water
 
 **Saving Throw** none
 
@@ -324,7 +373,7 @@ Your infused blast buffets and redirects enemies with waves. Attempt a repositio
 
 **Element** fire; **Type** substance infusion; **Level** 1; **Burn** 1
 
-**Associated Blasts** blue flame, fire, magma, plasma
+**Associated Blasts** acid, blue flame, fire, magma, plasma
 
 **Saving Throw** Reflex negates
 
@@ -388,7 +437,7 @@ Your kinetic blast swirls with darkness, making it harder for your foes to see. 
 
 **Element** fire or wood; **Type** substance infusion; **Level** 1; **Burn** 1
 
-**Associated Blasts** blue flame, fire, plasma, positive, verdant
+**Associated Blasts** acid, blue flame, fire, plasma, positive, verdant
 
 **Saving Throw** Will negates
 
@@ -410,7 +459,7 @@ You infuse the ground in a 20-foot radius anywhere within 120 feet of you on an 
 
 **Element** fire; **Type** form infusion; **Level** 4; **Burn** 3
 
-**Associated Blasts** blue flame, fire; **Saving Throw** Reflex half
+**Associated Blasts** acid, blue flame, fire; **Saving Throw** Reflex half
 
 Flames explode outward from your body, dealing your blast damage to all creatures and objects within a 20-foot radius.
 
@@ -422,7 +471,11 @@ Flames explode outward from your body, dealing your blast damage to all creature
 
 **Saving Throw** Fortitude partial; see text
 
-You can use force to rip your targets apart. Against creatures, your kinetic blast deals double its normal amount of damage, but targets receive a saving throw to reduce the damage to half the blast’s normal amount of damage (for a total of 1/4 of the blast’s increased damage). Any creature reduced to 0 or fewer hit points by the blast is disintegrated, as the spell disintegrate. You can use the infused blast to destroy force effects or objects as disintegrate, but for each force effect or 10-foot cube of nonliving matter you destroy in this way, you must accept 1 point of burn, which can’t be reduced by effects such as infusion specialization or gather power.
+You can use force to rip your targets apart. Against creatures, your kinetic blast’s damage dice increase by one step (d4 becomes d6, d6 becomes d8, and so on), but targets receive a saving throw to reduce the damage by half. Any creature reduced to 0 or fewer hit points by the blast is disintegrated, as the spell disintegrate. You can use the infused blast to destroy force effects or objects as disintegrate, but for each force effect or 10-foot cube of nonliving matter you destroy in this way, you must accept 1 point of burn, which can’t be reduced by effects such as infusion specialization or gather power.
+
+??? note "Original rule"
+
+    You can use force to rip your targets apart. Against creatures, your kinetic blast deals double its normal amount of damage, but targets receive a saving throw to reduce the damage to half the blast’s normal amount of damage (for a total of 1/4 of the blast’s increased damage). Any creature reduced to 0 or fewer hit points by the blast is disintegrated, as the spell disintegrate. You can use the infused blast to destroy force effects or objects as disintegrate, but for each force effect or 10-foot cube of nonliving matter you destroy in this way, you must accept 1 point of burn, which can’t be reduced by effects such as infusion specialization or gather power.
 
 ### Draining Infusion
 
@@ -448,11 +501,15 @@ You touch an area of natural ground, drawing up elemental energy that roils just
 
 **Element** air, fire, void, or water; **Type** form infusion; **Level** 1; **Burn** 1
 
-**Associated Blasts** blue flame, cold, electric, fire, negative
+**Associated Blasts** acid, blue flame, cold, electric, fire, negative
 
 **Saving Throw** none
 
-Choose a manufactured weapon in your hand (not an unarmed strike or natural attack); if the weapon is a double weapon, you must choose one of its ends to receive this benefit. You imbue the chosen weapon with your elemental energy as part of an attack action, charge action, or full-attack action to add extra damage to each of your attacks with that weapon until the beginning of your next turn. Your attacks with the chosen weapon during that action deal 1d6 additional points of damage. At 7th level and every 6 levels thereafter, this bonus damage increases by 1d6 points. Blue flame blasts deal double this additional damage. The additional damage is of the same type as the infused blast’s damage. This additional damage ignores spell resistance and doesn’t apply any modifiers to your kinetic blast’s damage (such as your Constitution modifier).
+Choose a manufactured weapon in your hand (not an unarmed strike or natural attack); if the weapon is a double weapon, you must choose one of its ends to receive this benefit. You imbue the chosen weapon with your elemental energy as part of an attack action, charge action, or full-attack action to add extra damage to each of your attacks with that weapon until the beginning of your next turn. Your attacks with the chosen weapon during that action deal 1d6 additional points of damage, plus 1d6 for every 4 dice of your kinetic blast’s damage (2d6 at 7th level and 3d6 at 15th). Blue flame blasts deal double this additional damage. The additional damage is of the same type as the infused blast’s damage. This additional damage ignores spell resistance and doesn’t apply any modifiers to your kinetic blast’s damage (such as your Constitution modifier).
+
+??? note "Original rule"
+
+    Choose a manufactured weapon in your hand (not an unarmed strike or natural attack); if the weapon is a double weapon, you must choose one of its ends to receive this benefit. You imbue the chosen weapon with your elemental energy as part of an attack action, charge action, or full-attack action to add extra damage to each of your attacks with that weapon until the beginning of your next turn. Your attacks with the chosen weapon during that action deal 1d6 additional points of damage. At 7th level and every 6 levels thereafter, this bonus damage increases by 1d6 points. Blue flame blasts deal double this additional damage. The additional damage is of the same type as the infused blast’s damage. This additional damage ignores spell resistance and doesn’t apply any modifiers to your kinetic blast’s damage (such as your Constitution modifier).
 
 ### Entangling Infusion
 
@@ -470,7 +527,7 @@ Your kinetic blast surrounds your foes in elemental matter. Whenever a blast wit
 
 **Prerequisite** extended range
 
-**Associated Blasts** blue flame, fire, magma, steam
+**Associated Blasts** acid, blue flame, fire, magma, steam
 
 **Saving Throw** Reflex half
 
@@ -482,7 +539,7 @@ Your kinetic blast erupts from the ground in a pillar centered anywhere within 1
 
 **Prerequisite** extended range
 
-**Associated Blasts** blue flame, fire
+**Associated Blasts** acid, blue flame, fire
 
 **Saving Throw** Reflex half
 
@@ -514,7 +571,7 @@ Your kinetic blast can strike any target within 480 feet.
 
 **Element** fire; **Type** form infusion; **Level** 1; **Burn** 1
 
-**Associated Blasts** blue flame, fire
+**Associated Blasts** acid, blue flame, fire
 
 **Saving Throw** Reflex half
 
@@ -524,7 +581,7 @@ Your kinetic blast extends in a fan of flames, damaging all creatures and object
 
 **Element** fire; **Type** substance infusion; **Level** 4; **Burn** 3
 
-**Associated Blasts** blue flame, fire, plasma
+**Associated Blasts** acid, blue flame, fire, plasma
 
 **Saving Throw** Will negates
 
@@ -634,7 +691,15 @@ You extend a long, sharp spike of elemental matter along a line, impaling multip
 
 **Saving Throw** none
 
-You form a weapon using your kinetic abilities. You create a non-reach, light or one-handed weapon in your hand formed of pure energy or elemental matter. (If you’re a telekineticist, you instead transfer the power of your kinetic blast to any object held in one hand.) The kinetic blade’s shape is purely cosmetic and doesn’t affect the damage dice, critical threat range, or critical multiplier of the kinetic blade, nor does it grant the kinetic blade any weapon special features. The object held by a telekineticist for this form infusion doesn’t prevent her from using gather power.
+You form a weapon using your kinetic abilities. You create a non-reach weapon you are proficient with in your hand or hands, formed of pure energy or elemental matter. It can be a two-handed weapon. (If you’re a telekineticist, you instead transfer the power of your kinetic blast to any object you hold.) The kinetic blade has all of the weapon’s features, including its weapon special features, except its damage dice, critical threat range, critical multiplier, and flail effect. The object held by a telekineticist for this form infusion doesn’t prevent her from using gather power.
+
+If you wield a two-handed weapon formed from a physical blast, you add 1-1/2 times the ability modifier you add to the blast’s damage (normally Constitution, sometimes Strength). This doesn’t apply to energy blasts.
+
+You can form two weapons or a double weapon and fight with the Two-Weapon Fighting rules. If you do, each weapon deals half of your blast’s damage dice (if you have only 1d6, each deals 1d3). This doesn’t halve the blast’s other damage bonuses, though your off-hand weapon adds only half of your ability modifier unless you have Double Slice.
+
+??? note "Original rule"
+
+    You form a weapon using your kinetic abilities. You create a non-reach, light or one-handed weapon in your hand formed of pure energy or elemental matter. (If you’re a telekineticist, you instead transfer the power of your kinetic blast to any object held in one hand.) The kinetic blade’s shape is purely cosmetic and doesn’t affect the damage dice, critical threat range, or critical multiplier of the kinetic blade, nor does it grant the kinetic blade any weapon special features. The object held by a telekineticist for this form infusion doesn’t prevent her from using gather power.
 
 You can use this form infusion once as part of an attack action, a charge action, or a full-attack action in order to make melee attacks with your kinetic blade. Since it’s part of another action (and isn’t an action itself), using this wild talent doesn’t provoke any additional attacks of opportunity. The kinetic blade deals your kinetic blast damage on each hit (applying any modifiers to your kinetic blast’s damage as normal, but not your Strength modifier). The blade disappears at the end of your turn. The weapon deals the same damage type that your kinetic blast deals, and it interacts with Armor Class and spell resistance as normal for a blast of its type. Even if a telekineticist uses this power on a magic weapon or another unusual object, the attack doesn’t use any of the magic weapon’s bonuses or effects and simply deals the telekineticist’s blast damage. The kinetic blade doesn’t add the damage bonus from elemental overflow.
 
@@ -646,13 +711,27 @@ You can use this form infusion once as part of an attack action, a charge action
 
 **Saving Throw** none
 
-You surround your body with energy or elemental matter from your kinetic abilities. You can use this form infusion as part of an attack action, a charge action, or a full-attack action to add damage to each of your natural attacks and unarmed strikes until the beginning of your next turn. Since kinetic fist is part of another action, using this wild talent doesn’t provoke any additional attack of opportunity. You deal an additional 1d6 points of damage per 3 dice of your kinetic blast’s damage (minimum 1d6), and this damage is of the same type as your kinetic blast’s damage. This extra damage ignores spell resistance and doesn’t apply any modifiers to your kinetic blast’s damage, such as your Constitution modifier.
+You surround your body with energy or elemental matter from your kinetic abilities. You can use this form infusion as part of an attack action, a charge action, or a full-attack action to add damage to each of your natural attacks and unarmed strikes until the beginning of your next turn. Since kinetic fist is part of another action, using this wild talent doesn’t provoke any additional attack of opportunity. You deal an additional 1d6 points of damage, plus 1d6 for every 3 dice of your kinetic blast’s damage (2d6 at 5th level, 3d6 at 11th, and 4d6 at 17th), and this damage is of the same type as your kinetic blast’s damage. This extra damage ignores spell resistance and doesn’t apply any modifiers to your kinetic blast’s damage, such as your Constitution modifier.
+
+??? note "Original rule"
+
+    You surround your body with energy or elemental matter from your kinetic abilities. You can use this form infusion as part of an attack action, a charge action, or a full-attack action to add damage to each of your natural attacks and unarmed strikes until the beginning of your next turn. Since kinetic fist is part of another action, using this wild talent doesn’t provoke any additional attack of opportunity. You deal an additional 1d6 points of damage per 3 dice of your kinetic blast’s damage (minimum 1d6), and this damage is of the same type as your kinetic blast’s damage. This extra damage ignores spell resistance and doesn’t apply any modifiers to your kinetic blast’s damage, such as your Constitution modifier.
 
 ### Kinetic Whip
 
-**Element** universal; **Type** form
+**Element** universal; **Type** form infusion; **Level** 3; **Burn** 2
 
-infusion; Level 3; Burn 2 Prerequisite kinetic blade Associated Blasts any Saving Throw none You form a long tendril of energy or elemental matter. This functions as kinetic blade but counts as a reach weapon appropriate for your size. Unlike most reach weapons, the kinetic whip can also attack nearby creatures. The kinetic whip disappears at the beginning of your next turn, but in the intervening time, it threatens all squares within its reach, allowing you to make attacks of opportunity that deal the whip’s usual damage.
+**Prerequisite** kinetic blade
+
+**Associated Blasts** any
+
+**Saving Throw** none
+
+You extend your kinetic blade into a long tendril of energy or elemental matter. You apply this infusion together with kinetic blade, adding its burn cost, and the reach of your kinetic blade increases by 5 feet. Unlike most reach weapons, the kinetic whip can also attack nearby creatures. The kinetic whip disappears at the beginning of your next turn, but in the intervening time, it threatens all squares within its reach, allowing you to make attacks of opportunity that deal the whip’s usual damage.
+
+??? note "Original rule"
+
+    **Kinetic Whip**: You form a long tendril of energy or elemental matter. This functions as kinetic blade but counts as a reach weapon appropriate for your size. Unlike most reach weapons, the kinetic whip can also attack nearby creatures. The kinetic whip disappears at the beginning of your next turn, but in the intervening time, it threatens all squares within its reach, allowing you to make attacks of opportunity that deal the whip’s usual damage.
 
 ### Kundalini Infusion
 
@@ -671,7 +750,7 @@ You infuse your elemental energy with kundalini serpent fire. Choose a chakra yo
 **Element** water; **Type** substance infusion; **Level** 8; **Burn** 4
 
 **Prerequisites** extended range  
-**Associated Blasts** charged water, water; **Saving Throw** Reflex partial
+**Associated Blasts** acid, charged water, water; **Saving Throw** Reflex partial
 
 You create a 20-foot-radius whirling maelstrom in a body of water within 120 feet (the area of the maelstrom does not include any squares in the radius that aren't in the water). Any creature in the maelstrom immediately takes one-quarter your blast's normal damage regardless of whether it succeeds at its save. A creature that succeeds at its Reflex save can choose to exit the area at the closest space. A creature in the maelstrom must succeed at a DC 35 Swim check in order to swim, and any creature that enters the maelstrom or ends its turn in the maelstrom takes half your blast's normal damage. As a free action at the beginning of your turn, you can position each creature in the maelstrom anywhere you choose within the affected area. This effect lasts for a number of rounds equal to your Constitution modifier or until you use this infusion again. You can use grappling infusion with this infusion.
 
@@ -713,11 +792,11 @@ You can have only a single mobile blast in existence at a time. If the mobile bl
 
 **Element** air, fire, or water; **Type** substance infusion; **Level** 2; **Burn** 2
 
-**Associated Blasts** blue flame, cold, electric, fire
+**Associated Blasts** acid, blue flame, cold, electric, fire
 
 **Saving Throw** none
 
-The intensity of your blasts allows you to break through your foes’ resistances. Treat your foe’s cold, electricity, or fire resistance as if it were 5 lower for the purpose of determining the infused blast’s damage; this doesn’t stack with the reduction from searing flame. You can increase the burn cost of this infusion to further reduce the foe’s resistance against the infused blast by 5 per additional point of burn accepted. This has no effect on creatures with immunity.
+The intensity of your blasts allows you to break through your foes’ resistances. Treat your foe’s acid, cold, electricity, or fire resistance as if it were 5 lower for the purpose of determining the infused blast’s damage; this doesn’t stack with the reduction from searing flame. You can increase the burn cost of this infusion to further reduce the foe’s resistance against the infused blast by 5 per additional point of burn accepted. This has no effect on creatures with immunity.
 
 ### Pure-flame Infusion
 
@@ -733,7 +812,7 @@ You open a direct conduit to the purest elemental fire and send it surging forth
 
 **Element** aether, air, earth, or water; **Type** substance infusion; **Level** 1; **Burn** 1
 
-**Associated Blasts** air, blizzard, charged water, earth, magma, metal, mud, sandstorm, steam, telekinetic, water
+**Associated Blasts** acid, air, blizzard, charged water, earth, magma, metal, mud, sandstorm, steam, telekinetic, water
 
 **Saving Throw** none
 
@@ -743,7 +822,7 @@ The momentum of your kinetic blast knocks foes back. Attempt a bull rush combat 
 
 **Element** water; **Type** substance infusion; **Level** 1; **Burn** 1
 
-**Associated Blasts** charged water, water
+**Associated Blasts** acid, charged water, water
 
 **Saving Throw** none
 
@@ -765,7 +844,7 @@ You can control the properties of metal, allowing your metal blast to bypass dam
 
 **Prerequisites** kinetic fist
 
-**Associated Blasts** blue flame, fire
+**Associated Blasts** acid, blue flame, fire
 
 **Saving Throw** none
 
@@ -776,7 +855,7 @@ The flame of your infused blast illuminates and reveals the target as it really 
 **Element** water; **Type** substance infusion; **Level** 2; **Burn** 2
 
 **Prerequisites** slick  
-**Associated Blasts** blizzard, charged water, cold, ice, water; **Saving Throw** Reflex negates
+**Associated Blasts** acid, blizzard, charged water, cold, ice, water; **Saving Throw** Reflex negates
 
 Your blast leaves behind slippery water or ice in its area for as long as the blast is in that area and for 1 round thereafter, making the area difficult terrain and increasing the DC of Acrobatics checks attempted in the area by 5. You can use this infusion only if you also use a form infusion that has an area of effect.
 
@@ -806,7 +885,7 @@ You throw a long, roughly 5-foot-by-10-foot spindle of elemental matter or energ
 
 **Element** water; **Type** form infusion; **Level** 4; **Burn** 3
 
-**Associated Blasts** charged water, water
+**Associated Blasts** acid, charged water, water
 
 **Saving Throw** Reflex half
 
@@ -840,7 +919,11 @@ Your blast sends strange electric signals through the target's body, scrambling 
 
 **Associated Blasts** telekinetic; **Saving Throw** none
 
-This functions as telekinetic blast, except you maintain an elastic strand of aether attached to the object you throw. This allows you to pull it back to you after the attack and catch it if you have enough free hands (and assuming it is small enough for you to carry). This prevents the object from taking damage, but it also prevents you from loosening the strands of aether (see telekinetic blast). Alternatively, if the attack missed, on your next turn as a standard action, you can snap the elastic strand back to make another attack with the same substance infusion and metakinesis, as if using a normal telekinetic blast (at which point the object takes damage and doesn't return to you, and you can't try again).
+This functions as telekinetic blast, except you maintain an elastic strand of aether attached to the object you throw. This allows you to pull it back to you after the attack and catch it if you have enough free hands (and assuming it is small enough for you to carry). This prevents you from loosening the strands of aether (see telekinetic blast). Alternatively, if the attack missed, on your next turn as a standard action, you can snap the elastic strand back to make another attack with the same substance infusion and metakinesis, as if using a normal telekinetic blast (at which point the object doesn't return to you, and you can't try again).
+
+??? note "Original rule"
+
+    This functions as telekinetic blast, except you maintain an elastic strand of aether attached to the object you throw. This allows you to pull it back to you after the attack and catch it if you have enough free hands (and assuming it is small enough for you to carry). This prevents the object from taking damage, but it also prevents you from loosening the strands of aether (see telekinetic blast). Alternatively, if the attack missed, on your next turn as a standard action, you can snap the elastic strand back to make another attack with the same substance infusion and metakinesis, as if using a normal telekinetic blast (at which point the object takes damage and doesn't return to you, and you can't try again).
 
 ### Tempered Iron Infusion
 
@@ -868,7 +951,7 @@ Your lightning brings with it a peal of thunder. Whenever your infused blast hit
 
 **Element** air, fire, or water; **Type** form infusion; **Level** 3; **Burn** 2
 
-**Associated Blasts** air, blizzard, blue flame, charged water, fire, magma, mud, plasma, sandstorm, steam, thunderstorm, water
+**Associated Blasts** acid, air, blizzard, blue flame, charged water, fire, magma, mud, plasma, sandstorm, steam, thunderstorm, water
 
 **Saving Throw** Reflex half
 
@@ -896,7 +979,7 @@ Your kinetic blast sends the fear of oblivion into your foes. Whenever an infuse
 
 **Element** fire; **Type** substance infusion; **Level** 5; **Burn** 3
 
-**Associated Blasts** blue flame, fire
+**Associated Blasts** acid, blue flame, fire
 
 **Saving Throw** none
 

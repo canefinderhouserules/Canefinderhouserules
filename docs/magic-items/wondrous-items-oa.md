@@ -242,9 +242,15 @@ Set in a burnished copper pendant, the colors of this black opal shift with the 
 **Aura** moderate evocation; **CL** 10th  
 **Price** varies; **Slot** headband; **Weight** —
 
-- Lesser kineticist’s diadem: 18,000 gp
-- Kineticist’s diadem: 50,000 gp
-- Greater kineticist’s diadem: 98,000 gp
+- Lesser kineticist’s diadem: 6,000 gp
+- Kineticist’s diadem: 18,000 gp
+- Greater kineticist’s diadem: 35,000 gp
+
+??? note "Original rule"
+
+    - Lesser kineticist’s diadem: 18,000 gp
+    - Kineticist’s diadem: 50,000 gp
+    - Greater kineticist’s diadem: 98,000 gp
 
 This metal headband holds a glistening, diamond-shaped gem. A kineticist’s diadem includes one of five colors of gem, each corresponding to a different element: blue (water), clear (aether), green (earth), red (fire), and white (air). The diadem’s gem grants the wearer greater control over its associated element.
 

@@ -105,6 +105,10 @@ This defense denies another rogue the ability to sneak attack the character by f
 
 **Master Strike (Ex)**: At 20th level, a rogue becomes incredibly deadly when dealing sneak attack damage. Each time the rogue deals sneak attack damage, she can choose one of the following three effects: the target can be put to sleep for 1d4 hours, paralyzed for 2d6 rounds, or slain. Regardless of the effect chosen, the target can attempt a Fortitude save to negate the additional effect. The DC of this save is equal to 10 + 1/2 the rogue’s level + the rogue’s Dexterity modifier. Once a creature has been the target of a master strike, regardless of whether or not the save is successful, that creature is immune to that rogue’s master strike for 24 hours. Creatures that are immune to sneak attack damage are also immune to this ability.
 
+## Archetypes
+
+All [rogue archetypes](rogue-archetypes.md) can be used with the unchained rogue.
+
 ## Rogue Talents
 
 **Bleeding Attack\* (Ex)**: A rogue with this ability can cause living opponents to bleed by hitting them with a sneak attack. This attack causes the target to take 1 additional point of damage each round for each die of the rogue’s sneak attack (e.g., 4d6 equals 4 points of bleed). Bleeding Table 1–3: Rogue Level 1st 2nd 3rd 4th 5th 6th 7th 8th 9th 10th 11th 12th 13th 14th 15th 16th 17th 18th 19th 20th Base Attack Bonus +0 +1 +2 +3 +3 +4 +5 +6/+1 +6/+1 +7/+2 +8/+3 +9/+4 +9/+4 +10/+5 +11/+6/+1 +12/+7/+2 +12/+7/+2 +13/+8/+3 +14/+9/+4 +15/+10/+5 Fort Save +0 +0 +1 +1 +1 +2 +2 +2 +3 +3 +3 +4 +4 +4 +5 +5 +5 +6 +6 +6 Ref Save +2 +3 +3 +4 +4 +5 +5 +6 +6 +7 +7 +8 +8 +9 +9 +10 +10 +11 +11 +12 Will Save +0 +0 +1 +1 +1 +2 +2 +2 +3 +3 +3 +4 +4 +4 +5 +5 +5 +6 +6 +6 creatures take that amount of damage every round at the start of each of their turns. The bleeding can be stopped by a successful DC 15 Heal check or the application of any effect that heals hit point damage. Bleed damage from this ability does not stack with itself. Bleed damage bypasses any damage reduction the creature might possess.

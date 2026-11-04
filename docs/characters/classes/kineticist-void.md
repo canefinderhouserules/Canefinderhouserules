@@ -115,14 +115,15 @@ You have greater control over gravity, as per greater flame jet.
 
 You can create areas of altered gravity. This functions as *reverse gravity*, but you can choose for the gravity in the area to pull toward any direction (not just up). If you use this wild talent, any previous use of this wild talent expires immediately.
 
-### Negative Admixture
+### Necrotic Blast
 
 **Element** void; **Type** composite blast (Sp); **Level** —; **Burn** 2
 
-**Prerequisites** negative blast, any other energy simple blast  
-**Blast Type** energy; **Damage** see text
+**Prerequisites** primary element (void), expanded element (void), negative blast
 
-Choose another simple energy blast you know. Negative admixture's damage is half negative energy, and half the chosen blast's type.
+**Blast Type** energy; **Damage** negative energy
+
+You unleash a concentrated surge of pure negative energy. This functions as negative blast, but deals 2d8 + 1/2 your Constitution modifier, increasing by 2d8 for every 2 kineticist levels beyond 1st.
 
 ### Negative Blast
 
@@ -130,7 +131,11 @@ Choose another simple energy blast you know. Negative admixture's damage is half
 
 **Blast Type** energy; **Damage** negative energy
 
-You blast your foe with negative energy. This blast and its composite blasts never heal creatures, even if they would normally be healed by negative energy (though such creatures still take no damage).
+You blast your foe with negative energy. This blast uses d8s instead of d6s. Its negative energy damage harms only creatures harmed by negative energy. If you accept at least 1 point of burn when you use this blast or one of its composites, it can instead heal creatures that are healed by negative energy, restoring hit points equal to the damage it would deal.
+
+??? note "Original rule"
+
+    You blast your foe with negative energy. This blast and its composite blasts never heal creatures, even if they would normally be healed by negative energy (though such creatures still take no damage).
 
 ### No Breath
 

@@ -73,7 +73,7 @@ You surround a creature with glowing flames that outline it, as per faerie fire.
 
 **Prerequisite** foxfire or positive blast
 
-**Associated Blasts** blue flame, fire, positive
+**Associated Blasts** acid, blue flame, fire, positive
 
 **Saving Throw** Will partial
 
@@ -145,23 +145,27 @@ You can assume the shape of an immobile plant, as per tree shape but transformin
 
 You can control plants, causing them to attack your foes. This functions as the aether puppet wild talent, except it controls plants instead of objects. At 12th level, you can grant hardness 5 to Large and larger animated plants.
 
-### Positive Admixture
-
-**Element** wood; **Type** composite blast (Sp); **Level** —; **Burn** 2
-
-**Prerequisites** positive blast, any other energy simple blast
-
-**Blast Type** energy; **Damage** see text
-
-Choose another energy simple blast you know. Positive admixture’s damage is half positive energy and half the chosen blast’s type.
-
 ### Positive Blast
 
 **Element** wood; **Type** simple blast (Sp); **Level** —; **Burn** 0
 
 **Blast Type** energy; **Damage** positive energy
 
-You blast your foe with positive energy. The positive energy damage from positive blast and its composites harms only undead and other creatures harmed by positive energy. It never heals creatures, even if they would be healed by positive energy, but it damages haunts and deals full damage to incorporeal undead.
+You blast your foe with positive energy. This blast uses d8s instead of d6s. Its positive energy damage harms only undead and other creatures harmed by positive energy, damages haunts, and deals full damage to incorporeal undead. If you accept at least 1 point of burn when you use this blast or one of its composites, it can instead heal creatures that are healed by positive energy, restoring hit points equal to the damage it would deal.
+
+??? note "Original rule"
+
+    You blast your foe with positive energy. The positive energy damage from positive blast and its composites harms only undead and other creatures harmed by positive energy. It never heals creatures, even if they would be healed by positive energy, but it damages haunts and deals full damage to incorporeal undead.
+
+### Radiant Blast
+
+**Element** wood; **Type** composite blast (Sp); **Level** —; **Burn** 2
+
+**Prerequisites** primary element (wood), expanded element (wood), positive blast
+
+**Blast Type** energy; **Damage** positive energy
+
+You unleash a concentrated surge of pure positive energy. This functions as positive blast, but deals 2d8 + 1/2 your Constitution modifier, increasing by 2d8 for every 2 kineticist levels beyond 1st.
 
 ### Roots
 

@@ -95,22 +95,4 @@
 
 **Long Range:** –3 on attacks at 30 ft. or less.
 
-**- Sledgehammer:** No longer the outrageous 2d6; it follows the more normal rules of 1d4 if light, 1d6 if one-handed, and 1d8 if two-handed.
-
-**- Firearms:** They no longer target touch AC. A misfire only happens on a natural 1, and Gun Training (the gunslinger’s 5th-level class feature) removes misfires. One-handed firearms ignore 2 points of AC from armor (including natural armor), and two-handed firearms ignore 4 points of AC from armor (including natural armor). Rapid Reload also works with muskets.
-
-**- Bulletproof:** A new armor ability that gives +4 AC against firearms. In older settings (before kevlar existed) it may be +2 instead of +4.
-
-**- Magic Weapons and Armor, Enchantments:** The requirement that a weapon or armor be +1 in order to have an enchantment is abolished. That is, you can have a +0 flaming weapon by paying the cost of a +1 weapon; you are no longer forced to have it be +1 first and then flaming, paying for +2. Obviously, if something is +0, it gives no attack, damage, or AC bonus.
-
-**- Wild (Armor Enchantment):** No longer costs +3; it is now +1.
-
-**- Intelligent Items:** The base price to create one is now 5,000 gp instead of 500 gp.
-
-**- Kineticist’s Diadem:** The prices are now different, as follows:
-
-Price 6,000 gp (lesser), 18,000 gp (standard), 35,000 gp (greater)
-
-**- Medium Armors:** They lose 5 ft. of movement instead of 10 ft.
-
-**- Mighty Cleaving:** Lets you affect 1 extra square with Cleave (instead of what it originally does, which no longer works with the change to Cleave; it is still a +1 magic weapon effect value and all that).
+**Sledgehammer:** A sledgehammer deals 1d4 points of damage if light, 1d6 if one-handed, and 1d8 if two-handed.

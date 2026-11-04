@@ -32,7 +32,11 @@ A character’s encumbrance (the amount of gear carried, including armor) may al
 
 *Shields*: If a character is wearing armor and using a shield, add the two numbers together to get a single arcane spell failure chance.
 
-**Speed**: Medium or heavy armor slows the wearer down. The number on Table 6–6 is the character’s speed while wearing the armor. Humans, elves, half-elves, and half-orcs have an unencumbered speed of 30 feet. They use the first column. Dwarves, gnomes, and halflings have an unencumbered speed of 20 feet. They use the second column. Remember, however, that a dwarf’s land speed remains 20 feet even in medium or heavy armor or when carrying a medium or heavy load.
+**Speed**: Medium or heavy armor slows the wearer down. Medium armor costs 5 feet of speed instead of 10 feet (30 feet becomes 25 feet). The number on Table 6–6 is the character’s speed while wearing the armor. Humans, elves, half-elves, and half-orcs have an unencumbered speed of 30 feet. They use the first column. Dwarves, gnomes, and halflings have an unencumbered speed of 20 feet. They use the second column. Remember, however, that a dwarf’s land speed remains 20 feet even in medium or heavy armor or when carrying a medium or heavy load.
+
+??? note "Original rule"
+
+    **Speed**: Medium or heavy armor slows the wearer down. The number on Table 6–6 is the character’s speed while wearing the armor. Humans, elves, half-elves, and half-orcs have an unencumbered speed of 30 feet. They use the first column. Dwarves, gnomes, and halflings have an unencumbered speed of 20 feet. They use the second column. Remember, however, that a dwarf’s land speed remains 20 feet even in medium or heavy armor or when carrying a medium or heavy load.
 
 *Shields*: Shields do not affect a character’s speed.
 
@@ -68,10 +72,10 @@ Any special benefits or accessories to the types of armor found on Table 6–6 a
 | Studded leather | 25 gp | +3 | +5 | –1 | 15% | 30 ft. | 20 ft. | 20 lbs. |
 | Chain shirt | 100 gp | +4 | +4 | –2 | 20% | 30 ft. | 20 ft. | 25 lbs. |
 | **Medium armor** |  |  |  |  |  |  |  |  |
-| Hide | 15 gp | +4 | +4 | –3 | 20% | 20 ft. | 15 ft. | 25 lbs. |
-| Scale mail | 50 gp | +5 | +3 | –4 | 25% | 20 ft. | 15 ft. | 30 lbs. |
-| Chainmail | 150 gp | +6 | +2 | –5 | 30% | 20 ft. | 15 ft. | 40 lbs. |
-| Breastplate | 200 gp | +6 | +3 | –4 | 25% | 20 ft. | 15 ft. | 30 lbs. |
+| Hide | 15 gp | +4 | +4 | –3 | 20% | 25 ft. | 15 ft. | 25 lbs. |
+| Scale mail | 50 gp | +5 | +3 | –4 | 25% | 25 ft. | 15 ft. | 30 lbs. |
+| Chainmail | 150 gp | +6 | +2 | –5 | 30% | 25 ft. | 15 ft. | 40 lbs. |
+| Breastplate | 200 gp | +6 | +3 | –4 | 25% | 25 ft. | 15 ft. | 30 lbs. |
 | **Heavy armor** |  |  |  |  |  |  |  |  |
 | Splint mail | 200 gp | +7 | +0 | –7 | 40% | 20 ft.² | 15 ft.² | 45 lbs. |
 | Banded mail | 250 gp | +7 | +1 | –6 | 35% | 20 ft.² | 15 ft.² | 35 lbs. |

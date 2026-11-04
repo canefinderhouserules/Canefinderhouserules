@@ -1,5 +1,14 @@
 # Wondrous Items (A–B)
 
+### Amulet of Kinetic Blast
+
+**Aura** faint evocation; **CL** 5th  
+**Slot** neck; **Price** 5,000 gp (+1), 20,000 gp (+2), 45,000 gp (+3), 80,000 gp (+4), 125,000 gp (+5); **Weight** —
+
+This amulet grants an enhancement bonus of +1 to +5 on attack and damage rolls with physical kinetic blasts. It doesn’t affect energy blasts. Alternatively, this amulet can grant melee or ranged weapon special abilities, so long as they can be applied to a physical kinetic blast. Special abilities count as additional bonuses for determining the market value of the item, but do not modify attack or damage bonuses. An amulet of kinetic blast cannot have a modified bonus (enhancement bonus plus special ability bonus equivalents) higher than +5. An amulet of kinetic blast does not need to have a +1 enhancement bonus to grant a weapon special ability.
+
+**Requirements** Craft Wondrous Item, greater magic fang, creator’s caster level must be at least three times the amulet’s bonus, plus any requirements of the weapon special abilities; **Cost** 2,500 gp (+1), 10,000 gp (+2), 22,500 gp (+3), 40,000 gp (+4), 62,500 gp (+5)
+
 ### Amulet of Mighty Fists
 
 **Aura** faint evocation; **CL** 5th  

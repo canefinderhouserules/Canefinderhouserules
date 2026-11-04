@@ -963,7 +963,7 @@ This replaces the 6th and 12th-level utility wild talents.
 
 **Positive Composites (Sp)**
 
-At 7th level or later, if the twice-born repenter possesses light blast and at least one energy simple blast other than positive blast, they can use positive admixture, ignoring its prerequisites. If they possess both positive and wood simple blasts, they can use verdant blast, ignoring its prerequisites. At 15th level, if they possess positive admixture, light blast, and a composite blast for which light blast and an energy simple blast are prerequisites, they can use complex positive admixture, ignoring its prerequisites. They treat positive admixture, complex positive admixture, and verdant blast as being both light and wood elements.
+At 7th level or later, if the twice-born repenter possesses light blast and at least one energy simple blast other than positive blast, they can use radiant blast, ignoring its prerequisites. If they possess both positive and wood simple blasts, they can use verdant blast, ignoring its prerequisites. At 15th level, if they possess positive admixture, light blast, and a composite blast for which light blast and an energy simple blast are prerequisites, they can use complex positive admixture, ignoring its prerequisites. They treat positive admixture, complex positive admixture, and verdant blast as being both light and wood elements.
 
 **Servitor of Life (Su)**
 
@@ -979,7 +979,7 @@ This alters composite specialization.
 
 **Luminaire (Sp)**
 
-At 20th level, the twice-born repenter gains access to all light composite blasts with a base burn cost of 2 or less, ignoring their prerequisites. In addition, they reduce the burn cost of positive admixture and complex positive admixture by 1 each (stacking with the reduction from light composite specialization). When the twice-born repenter hits a creature with a blast which deals positive energy damage, if that creature would normally be healed by positive energy, it instead takes 1/2 the amount of positive energy damage. This effect does not apply to creatures of the good subtype and does not stack with the effects of bane of evil.
+At 20th level, the twice-born repenter gains access to all light composite blasts with a base burn cost of 2 or less, ignoring their prerequisites. In addition, they reduce the burn cost of radiant blast and complex positive admixture by 1 each (stacking with the reduction from light composite specialization). When the twice-born repenter hits a creature with a blast which deals positive energy damage, if that creature would normally be healed by positive energy, it instead takes 1/2 the amount of positive energy damage. This effect does not apply to creatures of the good subtype and does not stack with the effects of bane of evil.
 
 This replaces omnikinesis.
 

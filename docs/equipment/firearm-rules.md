@@ -42,9 +42,17 @@ All firearms are part of the same weapon group for the purposes of the fighter�
 
 or natural, provides little protection against the force of a bullet at short range.
 
-**Early Firearms**: When firing an early firearm, the attack resolves against the target’s touch AC when the target is within the first range increment of the weapon, but this type of attack is not considered a touch attack for the purposes of feats and abilities such as Deadly Aim. At higher range increments, the attack resolves normally, including taking the normal cumulative –2 penalty for each full range increment. Unlike other projectile weapons, early firearms have a maximum range of five range increments.
+**Early Firearms**: When firing an early firearm, the attack resolves against the target’s normal AC. One-handed firearms ignore 2 points of AC from armor (including natural armor), and two-handed firearms ignore 4. The attack resolves normally, including taking the normal cumulative –2 penalty for each full range increment. Unlike other projectile weapons, early firearms have a maximum range of five range increments.
 
-**Advanced Firearms**: Advanced firearms resolve their attacks against touch AC when the target is within the first five range increments, but this type of attack is not considered a touch attack for the purposes of feats such as Deadly Aim. At higher range increments, the attack resolves normally, including taking the normal cumulative –2 penalty for each full-range increment. Advanced firearms have a maximum range of 10 range increments.
+??? note "Original rule"
+
+    **Early Firearms**: When firing an early firearm, the attack resolves against the target’s touch AC when the target is within the first range increment of the weapon, but this type of attack is not considered a touch attack for the purposes of feats and abilities such as Deadly Aim. At higher range increments, the attack resolves normally, including taking the normal cumulative –2 penalty for each full range increment. Unlike other projectile weapons, early firearms have a maximum range of five range increments.
+
+**Advanced Firearms**: Advanced firearms resolve their attacks against normal AC. One-handed firearms ignore 2 points of AC from armor (including natural armor), and two-handed firearms ignore 4. The attack resolves normally, including taking the normal cumulative –2 penalty for each full-range increment. Advanced firearms have a maximum range of 10 range increments.
+
+??? note "Original rule"
+
+    **Advanced Firearms**: Advanced firearms resolve their attacks against touch AC when the target is within the first five range increments, but this type of attack is not considered a touch attack for the purposes of feats such as Deadly Aim. At higher range increments, the attack resolves normally, including taking the normal cumulative –2 penalty for each full-range increment. Advanced firearms have a maximum range of 10 range increments.
 
 **Loading a Firearm**: You need at least one hand free to load one-handed and two-handed firearms. In the case of two-handed firearms, you hold the weapon in one hand and load it with the other—you only need to hold it in two hands to aim and shoot the firearm. Loading siege firearms requires both hands, and one hand usually manipulates a large ramrod (which can be wielded as a club in combat). The Rapid Reload feat reduces the time required to load one-handed and two-handed firearms, but this feat does not reduce the time it takes to load siege firearms.
 
@@ -54,9 +62,17 @@ Other rules for loading a firearm depend on whether the firearm is an early fire
 
 **Early Firearms**: Early firearms are muzzle-loaded, requiring bullets or pellets and black powder to be rammed down the muzzle. If an early firearm has multiple barrels, each barrel must be loaded separately. It is a standard action to load each barrel of a one-handed early firearm and a full-round action to load each barrel of a two-handed early firearm. It takes three full-round actions by one person to load a siege firearm. This can be reduced to two full-round actions if more than one person is loading the cannon.
 
-**Advanced Firearms**: Advanced firearms are chamber-loaded. It is a move action to load a one-handed or two-handed advanced firearm to its full capacity. The Rapid Reload feat reduces this to a free action.
+**Advanced Firearms**: Advanced firearms are chamber-loaded. It is a move action to load a one-handed or two-handed advanced firearm to its full capacity. The Rapid Reload feat reduces this to a free action, and it also works with muskets.
 
-**Misfires**: If the natural result of your attack roll falls within a firearm’s misfire value, that shot misses, even if you would have otherwise hit the target. When a firearm misfires, it gains the broken condition. While it has the broken condition, it suffers the normal disadvantages that broken weapons do, and its misfire value increases by 4 unless the wielder has gun training in the particular type of firearm. In that case, the misfire value increases by 2 instead of 4.
+??? note "Original rule"
+
+    **Advanced Firearms**: Advanced firearms are chamber-loaded. It is a move action to load a one-handed or two-handed advanced firearm to its full capacity. The Rapid Reload feat reduces this to a free action.
+
+**Misfires**: A firearm misfires only on a natural 1, and the gunslinger’s gun training removes misfires with that firearm. When a firearm misfires, that shot misses, even if you would have otherwise hit the target. When a firearm misfires, it gains the broken condition. While it has the broken condition, it suffers the normal disadvantages that broken weapons do, and its misfire value increases by 4 unless the wielder has gun training in the particular type of firearm. In that case, the misfire value increases by 2 instead of 4.
+
+??? note "Original rule"
+
+    **Misfires**: If the natural result of your attack roll falls within a firearm’s misfire value, that shot misses, even if you would have otherwise hit the target. When a firearm misfires, it gains the broken condition. While it has the broken condition, it suffers the normal disadvantages that broken weapons do, and its misfire value increases by 4 unless the wielder has gun training in the particular type of firearm. In that case, the misfire value increases by 2 instead of 4.
 
 **Early Firearms**: If an early firearm with the broken condition misfires again, it explodes. When a nonmagical firearm explodes, the weapon is destroyed. Magical firearms are wrecked, which means they can’t fire until they are fully restored (which requires either the make whole spell or the Gunsmithing feat). When a gun explodes, pick one corner of your square—the explosion creates a burst from that point of origin. Each firearm has a burst size noted in parentheses after its misfire value. Any creature within this burst (including the firearm’s wielder) takes damage as if it had been hit by the weapon—a DC 12 Reflex save halves this damage.
 

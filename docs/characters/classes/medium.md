@@ -82,6 +82,8 @@ The medium’s selection of spells is limited. At 1st level, a medium knows two 
 
 **Spirit (Su)**: A medium serves as a vessel to channel spirits—astral echoes of powerful souls from ages past that live on in myth and legend. Each day, a medium can channel a spirit through a ritual known as a seance. Seances take 1 hour to perform and require the medium’s concentration. At the end of a seance, the medium invites a local spirit to inhabit him and serve as his spirit for that day. Each spirit arises from one of six legends, which are described further beginning. Though the medium can choose the legend to which the spirit he channels belongs, he must channel that spirit from an appropriate location. Each spirit has a favored location it usually inhabits, though spirits may also be present at other locations appropriate to their legends; such locations are listed in each legend’s Favored Locations entry. The medium gains the spirit’s listed seance boon and lesser spirit power for 24 hours. The medium also gains the spirit’s intermediate spirit power at 6th level, its greater spirit power at 11th level, and its supreme spirit power at 17th level. After 24 hours, the medium loses contact with the channeled spirit and can perform another seance. A medium can invite his allies to participate in his seance—shared seance and certain spirit powers affect other participants. A character counts as participating so long as she maintains physical contact with another participating character and willfully opens herself to the spirit; unlike the medium, other participating characters can take other actions during this time. Only creatures with an Intelligence score of at least 3 can participate in a seance. In addition to granting power to the medium, a channeled spirit can influence the medium. By channeling a spirit, the medium allows the spirit to gain 1 point of influence over him. If the medium loses that 1 point of influence, he loses contact with the spirit, though he is still unable to perform a new seance until the normal 24 hour period has elapsed since his last seance. When the spirit leaves after the 24-hour duration and before the next seance, the spirit’s influence over the medium resets to 0. Certain abilities allow the medium to gain additional power in exchange for allowing the spirit more influence over him.
 
+A medium doesn’t need to hold his seance in a location appropriate to the spirit, whether he uses the permanent all-day seance or spirit change, unless the GM forbids a spirit for story reasons.
+
 When a spirit gains at least 3 points of influence over the medium, the dual impulses housed within the same body cause the medium to meld with his spirit’s consciousness. The resulting muddled sense of self and struggle for control causes the medium to take a –2 penalty on initiative checks as well as a specific additional penalty listed in each spirit’s entry. However, the spirit’s mental presence grants the medium a +4 bonus against possession effects and a +2 bonus on saving throws against mind-affecting effects that are not related to possession.
 
 If a spirit ever attains 5 or more points of influence over the medium, the medium completely loses control to the spirit. He effectively becomes an NPC under the GM’s control until after he awakens the next day with the spirit gone. During his seance, the medium can choose to channel a weaker spirit to gain its help without incurring as much of its influence. If he does so, he can forgo any number of spirit powers, starting with his most powerful spirit power. For each spirit power he forgoes, the medium can use his spirit surge ability twice without incurring influence.
@@ -114,55 +116,36 @@ If a spirit ever attains 5 or more points of influence over the medium, the medi
 
 **Astral Beacon (Su)**: At 20th level, a medium is an open connection to the Astral Plane and a shining beacon for spirits. As a free action, he can channel spirits of any of the five legends he did not contact via his seance. This ability lasts for 1 round and grants access to the intermediate, greater, and supreme spirit powers of the chosen spirits. Unlike trance of three, astral beacon allows spirits of the chosen legends (for instance, archmage) to gain influence over the medium until 24 hours from when the medium contacted his primary spirit. Also unlike trance of three, if the medium would incur influence by using one of the new spirits’ abilities, that influence is added to the medium’s total influence from that spirit rather than from his primary spirit.
 
+### Spirit Change
+
+As an option, each day during his seance, a medium makes all his spirit power choices as if he were channeling one spirit of each of the six legends. He can’t choose to channel a weaker spirit to reduce his influence from spirit surge. He does not always possess the seance boon, spirit bonus, spirit powers, or spirit surge ability from any of these six spirits.
+
+Instead, he can enter a spirit trance as a free action to gain the aforementioned abilities from one of the six spirits he prepared during his seance for the duration of his spirit trance. He can spirit trance for a total number of rounds per day equal to his Charisma modifier + double his medium level; these rounds don’t need to be consecutive. After his spirit trance ends, the medium takes a –2 penalty on attack rolls, saving throws, and skill checks for 1 minute and can’t enter a spirit trance again during that time. He also can’t enter a spirit trance while shaken, frightened, or panicked. He combines all influence incurred during spirit trances into a single pool. At 3 points of influence or higher, he takes a –2 penalty on initiative checks even when he’s not in a spirit trance, and at 5 points of influence or higher, his current spirit takes control as it would for a normal medium (this control is not limited by rounds of spirit dance). A medium can accept 1 point of influence to recover 4 rounds of spirit trance, up to his normal daily maximum.
+
+A medium continues to track daily uses of abilities from each of his spirits even while he is not in a spirit trance. A medium with the supreme spirit power ability can use only one once-per-day ability from the supreme spirit power each day; he can’t use any other spirit’s once-per-day supreme spirit power until after his next seance.
+
+This ability alters spirit and replaces spirit bonus and spirit surge.
+
+A medium can use this version of spirit, along with any extra rule an archetype adds to it, with the base class or with any archetype, unless the archetype leaves him with only 1 spirit. Whether it works for archetypes of other classes that gain a spirit is decided case by case by the GM.
+
 ## Spirits
 
 A medium’s spirits are entities from the Astral Plane—the clinging echoes of heroes and villains from the distant past, sustained throughout time by myths and legends.
 
 The number of spirits is countless, and each has its own idiosyncrasies that make it distinct. Nonetheless, all spirits arise from one of the following six legends: archmage, champion, guardian, hierophant, marshal, or trickster.
 
-### Archmage
-
-An archmage spirit is a font of knowledge and arcane power.
-
-**Spirit Bonus**: When you channel an archmage, your spirit bonus applies on concentration checks, Intelligence checks, and Intelligence-based skill checks.
-
-**Seance Boon**: Your damaging spells deal an additional 2 points of damage of the same type that they would normally deal to each target.
-
-**Favored Locations**: Arcane redoubts, areas of unusual magic, libraries, schools.
-
-**Influence Penalty**: Your body begins to respond as if you were a frail, aged scholar. You take a penalty equal to your spirit bonus on Strength checks, Strength-based skill checks, Constitution checks, attack rolls, and non-spell damage rolls.
-
-**Taboos**: Choose one: You eschew all faith in the divine, so you must not be the willing target of divine spells or abilities and you must attempt a Will saving throw against even harmless divine spells and abilities; you must not pass up the opportunity to learn something new and significant (a nontrivial piece of information with a Knowledge check of DC 20 or higher) when that opportunity is directly present; you must use your own magical solution to a challenge if you can, even if a mundane solution that would require fewer resources is available.
-
-**Archmage Arcana (Lesser, Su)**: Instead of your normal spells per day for your medium level, you use the spells per day from Table 1–4: Mesmerist. For each level of spell you can now cast (including level 0), each time you channel an archmage spirit, select a single spell of that level from the sorcerer/wizard spell list to add to your medium spell list and spells known until you lose contact with the archmage. When you cast these spells, they count as arcane (though not for the purpose of fulfilling prerequisites), and thus you must provide verbal and somatic components instead of thought and emotion components.
-
-**Arcane Surge (Intermediate, Su)**: You can allow the archmage spirit to gain 1 point of influence over you in order to cast one of your medium spells known without expending a spell slot. When you do so, the caster level and DC of the spell increase by 1, and you can’t apply metamagic to the spell.
-
-**Wild Arcana (Greater, Su)**: You can allow the archmage spirit to gain 1 point of influence over you in order to cast any sorcerer/wizard spell of a level you can cast. You must expend a spell slot of the appropriate level, and you can’t apply metamagic to the spell.
-
-**Legendary Archmage (Supreme, Su)**: Once per day, you can cast any spell on the sorcerer/wizard spell list as if using the wild arcana ability, except the archmage doesn’t gain 1 point of influence over you, the spell doesn’t require a spell slot, and you can select a spell of any level.
-
 ### Champion
 
-A champion spirit is a paragon of skill at arms.
+**Spirit Bonus**: When you channel a champion, your spirit bonus applies on attack rolls, Strength checks and Strength-based skill checks.
 
-**Spirit Bonus**: When you channel a champion, your spirit bonus applies on attack rolls, non-spell damage rolls, Strength checks, Strength-based skill checks, and Fortitude saves.
-
-**Seance Boon**: You gain a +2 bonus on all non-spell damage rolls.
-
-**Favored Locations**: Arenas, battlefields, places of violence, practice yards.
-
+**Seance Boon**: You gain a +2 bonus on all non-spell damage rolls.  
 **Influence Penalty**: You are quick to violence and prefer a weapon to spells or contemplation. You take a penalty equal to your spirit bonus on Intelligence checks and Intelligence-based skill checks, and to your caster level (to a minimum of caster level 0); as usual, a reduced caster level may render you unable to cast spells. You can’t benefit from effects that increase your caster level.
 
 **Taboos**: Choose one: you are superstitious about arcane spellcasting, so you must not be the willing target of arcane spells or abilities and you must attempt a Will saving throw against even harmless arcane spells and abilities; you may not make an attack with any weapon except a specific manufactured weapon (such as “my father’s +2 falchion”) that you choose when you take the taboo, and you may not choose unarmed strike for this taboo; you must accept any challenge to prove your prowess in battle, including challenges to single combat—if you or an ally breaks the rules of the challenge, you break this taboo.
 
-**Champion’s Prowess (Lesser, Su)**: You gain proficiency in all martial weapons and in one exotic weapon of your choice, which you choose each time you channel a champion spirit.
+**Champion’s Prowess (Lesser, Su)**: You gain Martial Flexibility as a Brawler of your Medium Level.
 
-Sudden Attack (Intermediate, Su):
-
-Whenever you take a full-attack action, you gain one additional attack at your highest base attack bonus.
-
-This ability stacks with the extra attack from haste, but it doesn’t stack with special actions that grant extra attacks, such as flurry of blows or spell combat. Sudden attack works as normal with full-attack options such as two-weapon fighting.
+**Sudden Attack (Intermediate, Su)**: Whenever you take a full-attack action, you gain one additional attack at your highest base attack bonus. This ability stacks with the extra attack from haste, but it doesn’t stack with special actions that grant extra attacks, such as flurry of blows or spell combat. Sudden attack works as normal with full-attack options such as two-weapon fighting.
 
 **Fleet Charge (Greater, Su)**: You can take a swift action and a full-round action to move up to your speed and then make a full attack. This special action doesn’t combine with sudden attack, but works as normal with effects such as haste and two-weapon fighting. As soon as you begin moving, you are considered to have begun the full-round action, even if circumstances prevent you from attacking at the end of your movement.
 
@@ -170,69 +153,35 @@ This ability stacks with the extra attack from haste, but it doesn’t stack wit
 
 ### Guardian
 
-A guardian spirit is an exemplar of protection and defense.
+**Spirit Bonus**: Spirit bonus to AC, double spirit bonus to Constitution ability. (no da saves)
 
-**Spirit Bonus**: When you channel a guardian, your spirit bonus applies to AC and on Constitution checks, Fortitude saves, and Reflex saves.
-
-**Seance Boon**: You gain a +1 bonus to CMD.
-
-**Favored Locations**: City walls, forts, gates, keeps.
+**Seance Boon**: +1 cmd y +1 ac.
 
 **Influence Penalty**: You are incredibly cautious and guarded in all things, and your caution sometimes gets in the way. When attacking, you always fight defensively, and when casting a spell, you always cast defensively. Because of your focus on defense, you take a penalty on damage rolls equal to your spirit bonus.
 
 **Taboos**: Choose one: you must always protect others from danger when you can (including defeated enemies, but not enemies that are an active threat to you and others); you must keep your body in fit physical condition, and you break this taboo every time you drop below half your maximum hit points; you must speak no words and use no abilities with the sonic descriptor, and you break this taboo if you become enraged, frightened, or panicked.
 
-Guardian’s Shield (Lesser, Su):
+**Guardian's Shield (Lesser, Su)**: You gain proficiency in heavy armors and shields (including tower shields). You gain Divine Grace.
 
-You gain proficiency in heavy armors and shields (including tower shields).
-
-**Absorb Blow (Intermediate, Su)**: You gain DR/—and resistance to acid, cold, electricity, fire, and sonic equal to 1/2 your medium level. Add paladin’s sacrifice to your medium spells known as a 2nd-level spell.
+**Absorb Blow (Intermediate, Su)**: You gain DR/—and resistance to acid, cold, electricity, fire, and sonic equal to your medium level. Add paladin’s sacrifice to your medium spells known as a 2nd-level spell.
 
 **Sudden Block (Greater, Su)**: After an enemy’s attack would hit you or an adjacent creature, you can use spirit surge to increase the victim’s AC, possibly causing the attack to fail, by rolling your spirit surge die and adding it to the chosen character’s AC. You must not be flat-footed, and you must be aware of the attack. If use of this ability causes the enemy’s attack to miss, you can make an attack at your highest base attack bonus against that enemy as an immediate action.
 
 **Legendary Guardian (Supreme, Su)**: Once per day as an immediate action, you can ignore the effects of a single attack against you, including enemy spells targeting you or whose area or effect includes you. The attack affects other creatures as normal.
 
-### Hierophant
-
-A hierophant spirit is a being of true and pure faith.
-
-**Spirit Bonus**: When you channel a hierophant, your spirit bonus applies on Wisdom checks, Wisdom-based skill checks, and Will saves.
-
-**Seance Boon**: Your healing spells and abilities heal an additional 2 points of damage to each target. This does not affect healing conferred by magic items, nor does it add to fast healing or similar effects.
-
-**Favored Locations**: Altars, churches, sacred groves, shrines.
-
-**Influence Penalty**: Whether the spirit hopes to offer a chance for redemption or to sacrifice foes later on a dark altar, you must strike for nonlethal damage in combat whenever possible. You take a penalty equal to your spirit bonus on all Charisma checks and Charisma-based skill checks involving worshipers of faiths other than the spirit’s, except checks to convince others to convert to the spirit’s faith.
-
-**Taboos**: Choose one: you must strongly revere nature and may not wear metal armor or shields; you must follow a paladin or antipaladin code as appropriate for the spirit’s deity; you may not deliberately speak any lies, including bluffing, exaggerating, stating half-truths with intent to deceive, lies by omission, and so on, and if you know the answer to a question that someone asks you, you must give the answer.
-
-Divine Surge (Lesser, Su):
-
-This power functions as the archmage arcana spirit power, except that you add spells from the cleric/oracle list instead of the sorcerer/ wizard list (these spells count as divine), and you need a divine focus if the spell requires one.
-
-**Energy Font (Intermediate, Su)**: You can channel energy a number of times per day equal to 1 + your Charisma modifier. Choose whether you channel positive or negative energy each time you contact a hierophant spirit; this choice must match the spirit’s faith. If you choose positive energy, add cure spells of each level you can cast from the cleric list to your medium spell list and spells known. Otherwise, add inflict spells in the same way. These spells count as divine, as in the divine surge spirit power.
-
-**Overflowing Grace (Greater, Su)**: When you heal a creature to full hit points or a creature already at full hit points with your positive or negative energy, that creature gains a +1 sacred bonus on attack rolls, skill checks, ability checks, and saving throws for 1 round. The bonus is sacred if you use positive energy and profane if you use negative energy. If you destroy or kill one or more creatures with positive or negative energy, you gain a +1 bonus of the same type on attack rolls, skill checks, ability checks, and saving throws for 1 round.
-
-**Legendary Hierophant (Supreme, Su)**: Once per day, you can request a minor miracle. This request must be in line with the options for miracle that don’t cost powdered diamond. As usual for a miracle, the deity or other being the spirit worships can choose whether or not to grant the request at its whim.
-
 ### Marshal
-
-A marshal spirit is a towering presence and an inspiration to others.
 
 **Spirit Bonus**: When you channel a marshal, your spirit bonus applies on Charisma checks and Charisma-based skill checks, as well as on spirit surge rolls. This allows the bonus to apply twice to the total result if you use a spirit surge on a Charisma check or on a Charisma-based skill check.
 
-**Seance Boon**: Choose a seance boon from any of the other legends to benefit from. When using the shared seance class feature, each participant can choose a different boon.
-
-**Favored Locations**: Council rooms, stages, theaters, throne rooms.
+Seance Boon: Choose a seance boon from any of the other legends to benefit from. When using the shared seance class feature, each participant can choose a different boon.
 
 **Influence Penalty**: The time you spend concentrating on your allies prevents you from attending to other important matters. You take a penalty equal to your spirit bonus on Wisdom checks and Wisdom-based skill checks. Additionally, if you are not at least nominally in charge of your present allies, you lose the marshal’s spirit bonus and seance boon.
 
 **Taboos**: Choose one: you may not allow yourself or your allies to prevent a fleeing enemy from escaping, since an at-large villain makes a better tale (this applies only to enemies seeking to escape, not to those retreating to alert others or fight again from a better position); you may never leave an ally behind or allow yourself or your allies to sacrifice another ally, even a summoned creature; you must embrace any opportunity to spread the legend of yourself and your allies, even when a low profile would be helpful.
 
-**Marshal’s Order (Lesser, Su)**: You can use your spirit surge on attack rolls, saving throws, ability checks, concentration checks, and skill checks rolled by you or any allies who participated in your seance as long as you have line of sight and line of effect, and are within 30 feet of the chosen ally. You can still use spirit surge only once per round.
+**Marshal's Order (Lesser, Su)**: You can use your spirit surge on attack rolls, saving throws, ability checks, concentration checks, and skill checks rolled by you or any allies who participated in your seance as long as you have line of sight and line of effect, and are within 30 feet of the chosen ally. You can still use spirit surge only once per round.
 
-**Inspiring Call (Intermediate, Su)**: As a standard action, you can grant all allies who can see and hear you a competence bonus equal to your spirit bonus on either saving throws or attack and damage rolls. You choose which bonus to grant each time you use inspiring call. This ability lasts for 1 round. If you have the decisive strike greater spirit power, you can use inspiring call as a move action. If you have the legendary marshal supreme spirit power, you can use inspiring call as a swift action.
+**Inspiring Call (Intermediate, Su)**: As a move action, you can grant all allies who can see and hear you a competence bonus equal to your spirit bonus on either saving throws or attack and damage rolls. You choose which bonus to grant each time you use inspiring call. This ability lasts for 1 round. If you have the decisive strike greater spirit power, you can use inspiring call as a swift action. If you have the legendary marshal supreme spirit power, you can use inspiring call as a swift action.
 
 **Decisive Strike (Greater, Su)**: You can allow the marshal to gain 1 point of influence over you as a swift action to allow an ally within 30 feet who can see and hear you to make a single melee or ranged attack during your turn. You can use this ability as a standard action to instead allow the ally to perform any standard action.
 
@@ -240,176 +189,204 @@ A marshal spirit is a towering presence and an inspiration to others.
 
 ### Trickster
 
-A trickster spirit is a savvy and manipulative master of skills.
-
 **Spirit Bonus**: When you channel a trickster, your spirit bonus applies on Dexterity checks, skill checks, and Reflex saves.
 
 **Seance Boon**: Choose one skill when you gain this seance boon. You gain a +1 bonus on skill checks using that skill, and that skill counts as a class skill for you.
-
-**Favored Locations**: Alleys, mazes, taverns, trap-filled locations.
 
 **Influence Penalty**: The trickster within you is a protean manipulator, and you begin to see the possibility that everyone around you might have ulterior motives as well. You never count as an ally for the purpose of gaining benefits from another creature’s abilities, nor do you count as a willing target for spells. Anyone attempting to target you with a touch range spell, even a beneficial spell, must succeed at a melee touch attack, though you need not attempt saving throws against harmless spells. You gain no benefit from another creature’s aid another attempts, as you are too busy making sure they aren’t secretly tricking or sabotaging you.
 
 **Taboos**: Choose one: you can’t abide revealing your true identity, and you break this taboo when anyone pierces your disguise, even your own allies; you can never tell the truth; you can never pass up a more lucrative offer, even if it causes you to switch sides.
 
-**Trickster’s Edge (Lesser, Su)**: Choose any two skills.
+**Trickster's Edge (Lesser, Su)**: Choose any three skills. These skills count as class skills for you, and you are treated as if you had an additional number of ranks in those skills equal to your medium level (to a maximum of your character level).
 
-These skills count as class skills for you, and you are treated as if you had an additional number of ranks in those skills equal to your medium level (to a maximum of your character level).
+**Surprise Strike (Intermediate, Su)**: When you attack an opponent that’s denied its Dexterity bonus to AC, you deal 1d6 points of extra precision damage for every 2 medium levels. Your target counts as flat-footed against the first attack you make against that target in a day, regardless of abilities like uncanny dodge. After your first attack, that target is immune to being made flat-footed by your surprise strike for 24 hours.
 
-**Surprise Strike (Intermediate, Su)**: When you attack an opponent that’s denied its Dexterity bonus to AC, you deal 1d6 points of extra precision damage for every 3 medium levels. Your target counts as flat-footed against the first attack you make against that target in a day, regardless of abilities like uncanny dodge. After your first attack, that target is immune to being made flat-footed by your surprise strike for 24 hours.
-
-**Transfer Magic (Greater, Su)**: You can allow the trickster to gain 1 point of influence over you to make a melee touch attack against another creature as a standard action. If the attack succeeds, you randomly steal one of the harmless spells of the highest spell level active on that creature, ending the effect for the original creature and gaining all remaining duration for yourself. This ability does not work on personal-range or instantaneous- or permanent-duration spells.
+**Transfer Magic (Greater, Su)**: You can allow the trickster to gain 1 or 2 points of influence over you to make a melee touch attack against another creature as a standard action. If the attack succeeds, you randomly steal one or two (according to influence gained) of the harmless spells of the highest spell level active on that creature, ending the effect for the original creature and gaining all remaining duration for yourself.
 
 **Legendary Trickster (Supreme, Su)**: Once per day, instead of rolling for a skill check, you can choose your d20 result. Additionally, you gain the ability to change form at will as if using greater polymorph, except that you can mimic the form of a specific individual.
 
-## House Rules
+### Hierophant
 
-!!! warning "House rule"
-    -- Spirit Change (Class Feature Modular): Each day during his seance, a medium makes all his spirit power choices as if he were channeling one spirit of each of the six legends. He can’t choose to channel a weaker spirit to reduce his influence from spirit surge. He does not always possess the seance boon, spirit bonus, spirit powers, or spirit surge ability from any of these six spirits.
+**Spirit Bonus**: When you channel a hierophant, your spirit bonus applies on Wisdom checks, Wisdom-based skill checks, Will saves, and bonus to the DC of your spells.
 
-    Instead, he can enter a spirit trance as a free action to gain the aforementioned abilities from one of the six spirits he prepared during his seance for the duration of his spirit trance. He can spirit trance for a total number of rounds per day equal to his Charisma modifier + double his medium level; these rounds don’t need to be consecutive. After his spirit trance ends, the medium takes a –2 penalty on attack rolls, saving throws, and skill checks for 1 minute and can’t enter a spirit trance again during that time. He also can’t enter a spirit trance while shaken, frightened, or panicked. He combines all influence incurred during spirit trances into a single pool. At 3 points of influence or higher, he takes a –2 penalty on initiative checks even when he’s not in a spirit trance, and at 5 points of influence or higher, his current spirit takes control as it would for a normal medium (this control is not limited by rounds of spirit dance). A medium can accept 1 point of influence to recover 4 rounds of spirit trance, up to his normal daily maximum.
+**Seance Boon**: Your healing spells and abilities heal an additional 5 points of damage to each target. This does not affect healing conferred by magic items, nor does it add to fast healing or similar effects.
 
-    A medium continues to track daily uses of abilities from each of his spirits even while he is not in a spirit trance. A medium with the supreme spirit power ability can use only one once-per-day ability from the supreme spirit power each day; he can’t use any other spirit’s once-per-day supreme spirit power until after his next seance.
+**Influence Penalty**: Whether the spirit hopes to offer a chance for redemption or to sacrifice foes later on a dark altar, you must strike for nonlethal damage in combat whenever possible. You take a penalty equal to your spirit bonus on all Charisma checks and Charisma-based skill checks involving worshipers of faiths other than the spirit’s, except checks to convince others to convert to the spirit’s faith.
 
-    This ability alters spirit and replaces spirit bonus and spirit surge.  
+**Taboos**: Choose one: you must strongly revere nature and may not wear metal armor or shields; you must follow a paladin or antipaladin code as appropriate for the spirit’s deity; you may not deliberately speak any lies, including bluffing, exaggerating, stating half-truths with intent to deceive, lies by omission, and so on, and if you know the answer to a question that someone asks you, you must give the answer.
 
-    Basically, you can choose to use this version of the spirit (adding any extra rule another archetype gives it) with any archetype, or with the base medium if you want (archetypes of other classes that gain a spirit are debatable; we’ll see case by case). Obviously, if your archetype leaves you with only 1 spirit, you can’t.
+**Divine Surge (Lesser, Su)**: This power functions as the archmage arcana spirit power, except that you add spells from the cleric/oracle list instead of the sorcerer/wizard list (these spells count as divine), and you need a divine focus if the spell requires one.
 
-    **Appropriate Location:** You no longer need to hold the seance in “the spirit’s appropriate location”, unless the GM, for story reasons, wants to mess with you and forbid you from using a spirit in that roleplaying situation. (This applies to the medium itself, whether using the seance that can change each round or the permanent all-day one.)
+**Energy Font (Intermediate, Su)**: You can channel energy a number of times per day equal to 1 + your Charisma modifier. Choose whether you channel positive or negative energy each time you contact a hierophant spirit; this choice must match the spirit’s faith. If you choose positive energy, add cure spells of each level you can cast from the cleric list to your medium spell list and spells known. Otherwise, add inflict spells in the same way. These spells count as divine, as in the divine surge spirit power.
 
-    **Spirits Rework**
+**Overflowing Grace (Greater, Su)**: When you heal a creature to full hit points or a creature already at full hit points with your positive or negative energy, that creature gains a +1 sacred bonus on attack rolls, skill checks, ability checks, and saving throws for 1 round/level. The bonus is sacred if you use positive energy and profane if you use negative energy. If you destroy or kill one or more creatures with positive or negative energy, you gain a +1 bonus of the same type on attack rolls, skill checks, ability checks, DC of your spells, Concentration, and saving throws for 1 round/level.
 
-    **-- Champion Spirit:**
+**Legendary Hierophant (Supreme, Su)**: Once per day, you can request a minor miracle. This request must be in line with the options for miracle that don’t cost powdered diamond. As usual for a miracle, the deity or other being the spirit worships can choose whether or not to grant the request at its whim.
 
-    --- Spirit Bonus: When you channel a champion, your spirit bonus applies on attack rolls, Strength checks and Strength-based skill checks.
+### Archmage
 
-    -- Seance Boon: You gain a +2 bonus on all non-spell damage rolls.  
-    --- Influence Penalty: You are quick to violence and prefer a weapon to spells or contemplation. You take a penalty equal to your spirit bonus on Intelligence checks and Intelligence-based skill checks, and to your caster level (to a minimum of caster level 0); as usual, a reduced caster level may render you unable to cast spells. You can’t benefit from effects that increase your caster level.
+**Spirit Bonus**: When you channel an archmage, your spirit bonus applies on concentration checks, Intelligence checks, Intelligence-based skill checks, and bonus to the DC of your spells.
 
-    --- Taboos: Choose one: you are superstitious about arcane spellcasting, so you must not be the willing target of arcane spells or abilities and you must attempt a Will saving throw against even harmless arcane spells and abilities; you may not make an attack with any weapon except a specific manufactured weapon (such as “my father’s +2 falchion”) that you choose when you take the taboo, and you may not choose unarmed strike for this taboo; you must accept any challenge to prove your prowess in battle, including challenges to single combat—if you or an ally breaks the rules of the challenge, you break this taboo.
+**Seance Boon**: Your damaging spells have +1 Caster Level.
 
-    --- Champion’s Prowess (Lesser, Su): You gain Martial Flexibility as a Brawler of your Medium Level.
+**Influence Penalty**: Your body begins to respond as if you were a frail, aged scholar. You take a penalty equal to your spirit bonus on Strength checks, Strength-based skill checks, Constitution checks, attack rolls, and non-spell damage rolls.
 
-    --- Sudden Attack (Intermediate, Su): Whenever you take a full-attack action, you gain one additional attack at your highest base attack bonus. This ability stacks with the extra attack from haste, but it doesn’t stack with special actions that grant extra attacks, such as flurry of blows or spell combat. Sudden attack works as normal with full-attack options such as two-weapon fighting.
+**Taboos**: Choose one: You eschew all faith in the divine, so you must not be the willing target of divine spells or abilities and you must attempt a Will saving throw against even harmless divine spells and abilities; you must not pass up the opportunity to learn something new and significant (a nontrivial piece of information with a Knowledge check of DC 20 or higher) when that opportunity is directly present; you must use your own magical solution to a challenge if you can, even if a mundane solution that would require fewer resources is available.
 
-    --- Fleet Charge (Greater, Su): You can take a swift action and a full-round action to move up to your speed and then make a full attack. This special action doesn’t combine with sudden attack, but works as normal with effects such as haste and two-weapon fighting. As soon as you begin moving, you are considered to have begun the full-round action, even if circumstances prevent you from attacking at the end of your movement.
+**Archmage Arcana (Lesser, Su)**: Instead of your normal spells per day for your medium level, you use the spells per day from Table 1–4: Mesmerist. For each level of spell you can now cast (including level 0), each time you channel an archmage spirit, select a single spell of that level from the sorcerer/wizard spell list to add to your medium spell list and spells known until you lose contact with the archmage. When you cast these spells, they count as arcane (though not for the purpose of fulfilling prerequisites), and thus you must provide verbal and somatic components instead of thought and emotion components.
 
-    --- Legendary Champion (Supreme, Su): You gain two combat feats of your choice, and you can choose different feats each time you channel a champion spirit. You can treat your base attack bonus from your medium levels as equal to your medium level for the purposes of qualifying for combat feats and determining their effects, and you can count your medium levels as levels of one other class whose base attack bonus equals its class level (such as fighter, barbarian, or slayer) for the purpose of qualifying for the two new combat feats.
+**Arcane Surge (Intermediate, Su)**: You can allow the archmage spirit to gain 1 point of influence over you in order to cast one of your medium spells known without expending a spell slot. When you do so, the caster level and DC of the spell increase by 1, and you can only apply metamagic to the spell if they increase the spell level by 1 or 0 (up to your maximum spell level).
 
-    **-- Guardian Spirit:**
+**Wild Arcana (Greater, Su)**: You can allow the archmage spirit to gain 1 point of influence over you in order to cast any sorcerer/wizard spell of a level you can cast. You must expend a spell slot of the appropriate level, and you can only apply metamagic to the spell if they increase the spell level by 2 or less (This can go above your limit but not above 9th level spell).
 
-    --- Spirit Bonus: Spirit bonus to AC, double spirit bonus to Constitution ability. (no da saves)
+**Legendary Archmage (Supreme, Su)**: Once per day, you can cast any spell on the sorcerer/wizard spell list as if using the wild arcana ability, except the archmage doesn’t gain 1 point of influence over you, the spell doesn’t require a spell slot, and you can select a spell of any level.
 
-    --- Seance Boon: +1 cmd y +1 ac.
+??? note "Original spirits"
 
-    --- Influence Penalty: You are incredibly cautious and guarded in all things, and your caution sometimes gets in the way. When attacking, you always fight defensively, and when casting a spell, you always cast defensively. Because of your focus on defense, you take a penalty on damage rolls equal to your spirit bonus.
+    ## Spirits
 
-    --- Taboos: Choose one: you must always protect others from danger when you can (including defeated enemies, but not enemies that are an active threat to you and others); you must keep your body in fit physical condition, and you break this taboo every time you drop below half your maximum hit points; you must speak no words and use no abilities with the sonic descriptor, and you break this taboo if you become enraged, frightened, or panicked.
+    A medium’s spirits are entities from the Astral Plane—the clinging echoes of heroes and villains from the distant past, sustained throughout time by myths and legends.
 
-    --- Guardian's Shield (Lesser, Su): You gain proficiency in heavy armors and shields (including tower shields). You gain Divine Grace.
+    The number of spirits is countless, and each has its own idiosyncrasies that make it distinct. Nonetheless, all spirits arise from one of the following six legends: archmage, champion, guardian, hierophant, marshal, or trickster.
 
-    --- Absorb Blow (Intermediate, Su): You gain DR/—and resistance to acid, cold, electricity, fire, and sonic equal to your medium level. Add paladin’s sacrifice to your medium spells known as a 2nd-level spell.
+    ### Archmage
 
-    --- Sudden Block (Greater, Su): After an enemy’s attack would hit you or an adjacent creature, you can use spirit surge to increase the victim’s AC, possibly causing the attack to fail, by rolling your spirit surge die and adding it to the chosen character’s AC. You must not be flat-footed, and you must be aware of the attack. If use of this ability causes the enemy’s attack to miss, you can make an attack at your highest base attack bonus against that enemy as an immediate action.
+    An archmage spirit is a font of knowledge and arcane power.
 
-    --- Legendary Guardian (Supreme, Su): Once per day as an immediate action, you can ignore the effects of a single attack against you, including enemy spells targeting you or whose area or effect includes you. The attack affects other creatures as normal.
+    **Spirit Bonus**: When you channel an archmage, your spirit bonus applies on concentration checks, Intelligence checks, and Intelligence-based skill checks.
 
-    **-- Marshal Spirit:**
+    **Seance Boon**: Your damaging spells deal an additional 2 points of damage of the same type that they would normally deal to each target.
 
-    --- Spirit Bonus: When you channel a marshal, your spirit bonus applies on Charisma checks and Charisma-based skill checks, as well as on spirit surge rolls. This allows the bonus to apply twice to the total result if you use a spirit surge on a Charisma check or on a Charisma-based skill check.
+    **Favored Locations**: Arcane redoubts, areas of unusual magic, libraries, schools.
 
-    Seance Boon: Choose a seance boon from any of the other legends to benefit from. When using the shared seance class feature, each participant can choose a different boon.
+    **Influence Penalty**: Your body begins to respond as if you were a frail, aged scholar. You take a penalty equal to your spirit bonus on Strength checks, Strength-based skill checks, Constitution checks, attack rolls, and non-spell damage rolls.
 
-    --- Influence Penalty: The time you spend concentrating on your allies prevents you from attending to other important matters. You take a penalty equal to your spirit bonus on Wisdom checks and Wisdom-based skill checks. Additionally, if you are not at least nominally in charge of your present allies, you lose the marshal’s spirit bonus and seance boon.
+    **Taboos**: Choose one: You eschew all faith in the divine, so you must not be the willing target of divine spells or abilities and you must attempt a Will saving throw against even harmless divine spells and abilities; you must not pass up the opportunity to learn something new and significant (a nontrivial piece of information with a Knowledge check of DC 20 or higher) when that opportunity is directly present; you must use your own magical solution to a challenge if you can, even if a mundane solution that would require fewer resources is available.
 
-    --- Taboos: Choose one: you may not allow yourself or your allies to prevent a fleeing enemy from escaping, since an at-large villain makes a better tale (this applies only to enemies seeking to escape, not to those retreating to alert others or fight again from a better position); you may never leave an ally behind or allow yourself or your allies to sacrifice another ally, even a summoned creature; you must embrace any opportunity to spread the legend of yourself and your allies, even when a low profile would be helpful.
+    **Archmage Arcana (Lesser, Su)**: Instead of your normal spells per day for your medium level, you use the spells per day from Table 1–4: Mesmerist. For each level of spell you can now cast (including level 0), each time you channel an archmage spirit, select a single spell of that level from the sorcerer/wizard spell list to add to your medium spell list and spells known until you lose contact with the archmage. When you cast these spells, they count as arcane (though not for the purpose of fulfilling prerequisites), and thus you must provide verbal and somatic components instead of thought and emotion components.
 
-    --- Marshal's Order (Lesser, Su): You can use your spirit surge on attack rolls, saving throws, ability checks, concentration checks, and skill checks rolled by you or any allies who participated in your seance as long as you have line of sight and line of effect, and are within 30 feet of the chosen ally. You can still use spirit surge only once per round.
+    **Arcane Surge (Intermediate, Su)**: You can allow the archmage spirit to gain 1 point of influence over you in order to cast one of your medium spells known without expending a spell slot. When you do so, the caster level and DC of the spell increase by 1, and you can’t apply metamagic to the spell.
 
-    --- Inspiring Call (Intermediate, Su): As a move action, you can grant all allies who can see and hear you a competence bonus equal to your spirit bonus on either saving throws or attack and damage rolls. You choose which bonus to grant each time you use inspiring call. This ability lasts for 1 round. If you have the decisive strike greater spirit power, you can use inspiring call as a swift action. If you have the legendary marshal supreme spirit power, you can use inspiring call as a swift action.
+    **Wild Arcana (Greater, Su)**: You can allow the archmage spirit to gain 1 point of influence over you in order to cast any sorcerer/wizard spell of a level you can cast. You must expend a spell slot of the appropriate level, and you can’t apply metamagic to the spell.
 
-    --- Decisive Strike (Greater, Su): You can allow the marshal to gain 1 point of influence over you as a swift action to allow an ally within 30 feet who can see and hear you to make a single melee or ranged attack during your turn. You can use this ability as a standard action to instead allow the ally to perform any standard action.
+    **Legendary Archmage (Supreme, Su)**: Once per day, you can cast any spell on the sorcerer/wizard spell list as if using the wild arcana ability, except the archmage doesn’t gain 1 point of influence over you, the spell doesn’t require a spell slot, and you can select a spell of any level.
 
-    --- Legendary Marshal (Supreme, Su): You can use a lesser spirit surge without incurring influence. This lesser surge adds a maximum of 1d6 to the roll and does not apply your spirit bonus, regardless of other effects or abilities you have that alter your spirit surge. A lesser surge still counts as a spirit surge for the purpose of the limit of one spirit surge per round, but it does not consume any free uses of spirit surge you may have from effects such as taboo.
+    ### Champion
 
-    **-- Trickster Spirit:**
+    A champion spirit is a paragon of skill at arms.
 
-    --- Spirit Bonus: When you channel a trickster, your spirit bonus applies on Dexterity checks, skill checks, and Reflex saves.
+    **Spirit Bonus**: When you channel a champion, your spirit bonus applies on attack rolls, non-spell damage rolls, Strength checks, Strength-based skill checks, and Fortitude saves.
 
-    --- Seance Boon: Choose one skill when you gain this seance boon. You gain a +1 bonus on skill checks using that skill, and that skill counts as a class skill for you.
+    **Seance Boon**: You gain a +2 bonus on all non-spell damage rolls.
 
-    --- Influence Penalty: The trickster within you is a protean manipulator, and you begin to see the possibility that everyone around you might have ulterior motives as well. You never count as an ally for the purpose of gaining benefits from another creature’s abilities, nor do you count as a willing target for spells. Anyone attempting to target you with a touch range spell, even a beneficial spell, must succeed at a melee touch attack, though you need not attempt saving throws against harmless spells. You gain no benefit from another creature’s aid another attempts, as you are too busy making sure they aren’t secretly tricking or sabotaging you.
+    **Favored Locations**: Arenas, battlefields, places of violence, practice yards.
 
-    --- Taboos: Choose one: you can’t abide revealing your true identity, and you break this taboo when anyone pierces your disguise, even your own allies; you can never tell the truth; you can never pass up a more lucrative offer, even if it causes you to switch sides.
+    **Influence Penalty**: You are quick to violence and prefer a weapon to spells or contemplation. You take a penalty equal to your spirit bonus on Intelligence checks and Intelligence-based skill checks, and to your caster level (to a minimum of caster level 0); as usual, a reduced caster level may render you unable to cast spells. You can’t benefit from effects that increase your caster level.
 
-    --- Trickster's Edge (Lesser, Su): Choose any three skills. These skills count as class skills for you, and you are treated as if you had an additional number of ranks in those skills equal to your medium level (to a maximum of your character level).
+    **Taboos**: Choose one: you are superstitious about arcane spellcasting, so you must not be the willing target of arcane spells or abilities and you must attempt a Will saving throw against even harmless arcane spells and abilities; you may not make an attack with any weapon except a specific manufactured weapon (such as “my father’s +2 falchion”) that you choose when you take the taboo, and you may not choose unarmed strike for this taboo; you must accept any challenge to prove your prowess in battle, including challenges to single combat—if you or an ally breaks the rules of the challenge, you break this taboo.
 
-    --- Surprise Strike (Intermediate, Su): When you attack an opponent that’s denied its Dexterity bonus to AC, you deal 1d6 points of extra precision damage for every 2 medium levels. Your target counts as flat-footed against the first attack you make against that target in a day, regardless of abilities like uncanny dodge. After your first attack, that target is immune to being made flat-footed by your surprise strike for 24 hours.
+    **Champion’s Prowess (Lesser, Su)**: You gain proficiency in all martial weapons and in one exotic weapon of your choice, which you choose each time you channel a champion spirit.
 
-    --- Transfer Magic (Greater, Su): You can allow the trickster to gain 1 or 2 points of influence over you to make a melee touch attack against another creature as a standard action. If the attack succeeds, you randomly steal one or two (according to influence gained) of the harmless spells of the highest spell level active on that creature, ending the effect for the original creature and gaining all remaining duration for yourself.
+    Sudden Attack (Intermediate, Su):
 
-    --- Legendary Trickster (Supreme, Su): Once per day, instead of rolling for a skill check, you can choose your d20 result. Additionally, you gain the ability to change form at will as if using greater polymorph, except that you can mimic the form of a specific individual.
+    Whenever you take a full-attack action, you gain one additional attack at your highest base attack bonus.
 
-    **-- Hierophant Spirit:**
+    This ability stacks with the extra attack from haste, but it doesn’t stack with special actions that grant extra attacks, such as flurry of blows or spell combat. Sudden attack works as normal with full-attack options such as two-weapon fighting.
 
-    --- Spirit Bonus: When you channel a hierophant, your spirit bonus applies on Wisdom checks, Wisdom-based skill checks, Will saves, and bonus to the DC of your spells.
+    **Fleet Charge (Greater, Su)**: You can take a swift action and a full-round action to move up to your speed and then make a full attack. This special action doesn’t combine with sudden attack, but works as normal with effects such as haste and two-weapon fighting. As soon as you begin moving, you are considered to have begun the full-round action, even if circumstances prevent you from attacking at the end of your movement.
 
-    --- Seance Boon: Your healing spells and abilities heal an additional 5 points of damage to each target. This does not affect healing conferred by magic items, nor does it add to fast healing or similar effects.
+    **Legendary Champion (Supreme, Su)**: You gain two combat feats of your choice, and you can choose different feats each time you channel a champion spirit. You can treat your base attack bonus from your medium levels as equal to your medium level for the purposes of qualifying for combat feats and determining their effects, and you can count your medium levels as levels of one other class whose base attack bonus equals its class level (such as fighter, barbarian, or slayer) for the purpose of qualifying for the two new combat feats.
 
-    --- Influence Penalty: Whether the spirit hopes to offer a chance for redemption or to sacrifice foes later on a dark altar, you must strike for nonlethal damage in combat whenever possible. You take a penalty equal to your spirit bonus on all Charisma checks and Charisma-based skill checks involving worshipers of faiths other than the spirit’s, except checks to convince others to convert to the spirit’s faith.
+    ### Guardian
 
-    --- Taboos: Choose one: you must strongly revere nature and may not wear metal armor or shields; you must follow a paladin or antipaladin code as appropriate for the spirit’s deity; you may not deliberately speak any lies, including bluffing, exaggerating, stating half-truths with intent to deceive, lies by omission, and so on, and if you know the answer to a question that someone asks you, you must give the answer.
+    A guardian spirit is an exemplar of protection and defense.
 
-    --- Divine Surge (Lesser, Su): This power functions as the archmage arcana spirit power, except that you add spells from the cleric/oracle list instead of the sorcerer/wizard list (these spells count as divine), and you need a divine focus if the spell requires one.
+    **Spirit Bonus**: When you channel a guardian, your spirit bonus applies to AC and on Constitution checks, Fortitude saves, and Reflex saves.
 
-    --- Energy Font (Intermediate, Su): You can channel energy a number of times per day equal to 1 + your Charisma modifier. Choose whether you channel positive or negative energy each time you contact a hierophant spirit; this choice must match the spirit’s faith. If you choose positive energy, add cure spells of each level you can cast from the cleric list to your medium spell list and spells known. Otherwise, add inflict spells in the same way. These spells count as divine, as in the divine surge spirit power.
+    **Seance Boon**: You gain a +1 bonus to CMD.
 
-    --- Overflowing Grace (Greater, Su): When you heal a creature to full hit points or a creature already at full hit points with your positive or negative energy, that creature gains a +1 sacred bonus on attack rolls, skill checks, ability checks, and saving throws for 1 round/level. The bonus is sacred if you use positive energy and profane if you use negative energy. If you destroy or kill one or more creatures with positive or negative energy, you gain a +1 bonus of the same type on attack rolls, skill checks, ability checks, DC of your spells, Concentration, and saving throws for 1 round/level.
+    **Favored Locations**: City walls, forts, gates, keeps.
 
-    --- Legendary Hierophant (Supreme, Su): Once per day, you can request a minor miracle. This request must be in line with the options for miracle that don’t cost powdered diamond. As usual for a miracle, the deity or other being the spirit worships can choose whether or not to grant the request at its whim.
+    **Influence Penalty**: You are incredibly cautious and guarded in all things, and your caution sometimes gets in the way. When attacking, you always fight defensively, and when casting a spell, you always cast defensively. Because of your focus on defense, you take a penalty on damage rolls equal to your spirit bonus.
 
-    **-- Archmage Spirit:**
+    **Taboos**: Choose one: you must always protect others from danger when you can (including defeated enemies, but not enemies that are an active threat to you and others); you must keep your body in fit physical condition, and you break this taboo every time you drop below half your maximum hit points; you must speak no words and use no abilities with the sonic descriptor, and you break this taboo if you become enraged, frightened, or panicked.
 
-    --- Spirit Bonus: When you channel an archmage, your spirit bonus applies on concentration checks, Intelligence checks, Intelligence-based skill checks, and bonus to the DC of your spells.
+    Guardian’s Shield (Lesser, Su):
 
-    --- Seance Boon: Your damaging spells have +1 Caster Level.
+    You gain proficiency in heavy armors and shields (including tower shields).
 
-    --- Influence Penalty: Your body begins to respond as if you were a frail, aged scholar. You take a penalty equal to your spirit bonus on Strength checks, Strength-based skill checks, Constitution checks, attack rolls, and non-spell damage rolls.
+    **Absorb Blow (Intermediate, Su)**: You gain DR/—and resistance to acid, cold, electricity, fire, and sonic equal to 1/2 your medium level. Add paladin’s sacrifice to your medium spells known as a 2nd-level spell.
 
-    --- Taboos: Choose one: You eschew all faith in the divine, so you must not be the willing target of divine spells or abilities and you must attempt a Will saving throw against even harmless divine spells and abilities; you must not pass up the opportunity to learn something new and significant (a nontrivial piece of information with a Knowledge check of DC 20 or higher) when that opportunity is directly present; you must use your own magical solution to a challenge if you can, even if a mundane solution that would require fewer resources is available.
+    **Sudden Block (Greater, Su)**: After an enemy’s attack would hit you or an adjacent creature, you can use spirit surge to increase the victim’s AC, possibly causing the attack to fail, by rolling your spirit surge die and adding it to the chosen character’s AC. You must not be flat-footed, and you must be aware of the attack. If use of this ability causes the enemy’s attack to miss, you can make an attack at your highest base attack bonus against that enemy as an immediate action.
 
-    --- Archmage Arcana (Lesser, Su): Instead of your normal spells per day for your medium level, you use the spells per day from Table 1–4: Mesmerist. For each level of spell you can now cast (including level 0), each time you channel an archmage spirit, select a single spell of that level from the sorcerer/wizard spell list to add to your medium spell list and spells known until you lose contact with the archmage. When you cast these spells, they count as arcane (though not for the purpose of fulfilling prerequisites), and thus you must provide verbal and somatic components instead of thought and emotion components.
+    **Legendary Guardian (Supreme, Su)**: Once per day as an immediate action, you can ignore the effects of a single attack against you, including enemy spells targeting you or whose area or effect includes you. The attack affects other creatures as normal.
 
-    --- Arcane Surge (Intermediate, Su): You can allow the archmage spirit to gain 1 point of influence over you in order to cast one of your medium spells known without expending a spell slot. When you do so, the caster level and DC of the spell increase by 1, and you can only apply metamagic to the spell if they increase the spell level by 1 or 0 (up to your maximum spell level).
+    ### Hierophant
 
-    --- Wild Arcana (Greater, Su): You can allow the archmage spirit to gain 1 point of influence over you in order to cast any sorcerer/wizard spell of a level you can cast. You must expend a spell slot of the appropriate level, and you can only apply metamagic to the spell if they increase the spell level by 2 or less (This can go above your limit but not above 9th level spell).
+    A hierophant spirit is a being of true and pure faith.
 
-    --- Legendary Archmage (Supreme, Su): Once per day, you can cast any spell on the sorcerer/wizard spell list as if using the wild arcana ability, except the archmage doesn’t gain 1 point of influence over you, the spell doesn’t require a spell slot, and you can select a spell of any level.
+    **Spirit Bonus**: When you channel a hierophant, your spirit bonus applies on Wisdom checks, Wisdom-based skill checks, and Will saves.
 
-    **Archetypes**
+    **Seance Boon**: Your healing spells and abilities heal an additional 2 points of damage to each target. This does not affect healing conferred by magic items, nor does it add to fast healing or similar effects.
 
-    \- Kami Medium: Since it doesn’t have the Archmage, its Hierophant is stronger: it gains access to a domain of its choice, using its medium level as its cleric level while it uses the Hierophant, and gains twice as many spells with its lesser power.
+    **Favored Locations**: Altars, churches, sacred groves, shrines.
 
-    \- Medium of the Master: They have Ki Contact at 1st level. They gain a ki pool equal to a monk’s at 6th level (with the intermediate power).
+    **Influence Penalty**: Whether the spirit hopes to offer a chance for redemption or to sacrifice foes later on a dark altar, you must strike for nonlethal damage in combat whenever possible. You take a penalty equal to your spirit bonus on all Charisma checks and Charisma-based skill checks involving worshipers of faiths other than the spirit’s, except checks to convince others to convert to the spirit’s faith.
 
-    \- Nexian Channeler: The archmage’s lesser power gives you 2 spells of each level instead of 1. They gain the wizard’s Bonus Feat class feature.
+    **Taboos**: Choose one: you must strongly revere nature and may not wear metal armor or shields; you must follow a paladin or antipaladin code as appropriate for the spirit’s deity; you may not deliberately speak any lies, including bluffing, exaggerating, stating half-truths with intent to deceive, lies by omission, and so on, and if you know the answer to a question that someone asks you, you must give the answer.
 
-    \- Outer Channeler: You can spend 1 point of influence to gain access to your spirits’ normal intermediate power for the rest of the day.
+    Divine Surge (Lesser, Su):
 
-    \- Relic Channeler: Gains Legendary Influence for free at 5th level. Powerful Bond adapts to the spirit changes, giving what it says it gives and also: 1 extra use of Martial Flexibility for the Champion; 4 skills for the Trickster; 2 uses of Spirit Surge per round for the Marshal.
+    This power functions as the archmage arcana spirit power, except that you add spells from the cleric/oracle list instead of the sorcerer/ wizard list (these spells count as divine), and you need a divine focus if the spell requires one.
 
-    \- Rivethun Spirit Channeler: They don’t have the inability to enter another trance, dance, or seance for 1 minute, nor the –2 penalty to everything when the seance ends. They gain Iron Will at 1st level and Improved Iron Will at 10th level.
+    **Energy Font (Intermediate, Su)**: You can channel energy a number of times per day equal to 1 + your Charisma modifier. Choose whether you channel positive or negative energy each time you contact a hierophant spirit; this choice must match the spirit’s faith. If you choose positive energy, add cure spells of each level you can cast from the cleric list to your medium spell list and spells known. Otherwise, add inflict spells in the same way. These spells count as divine, as in the divine surge spirit power.
 
-    \- Spirit Dancer: They don’t have the inability to enter another trance, dance, or seance for 1 minute, nor the –2 penalty to everything when the seance ends. They gain Lightning Reflexes at 1st level and Improved Lightning Reflexes at 10th level.
+    **Overflowing Grace (Greater, Su)**: When you heal a creature to full hit points or a creature already at full hit points with your positive or negative energy, that creature gains a +1 sacred bonus on attack rolls, skill checks, ability checks, and saving throws for 1 round. The bonus is sacred if you use positive energy and profane if you use negative energy. If you destroy or kill one or more creatures with positive or negative energy, you gain a +1 bonus of the same type on attack rolls, skill checks, ability checks, and saving throws for 1 round.
 
-    \- Spirit Eater: If it wins the save to keep spirits, it gains no influence.
+    **Legendary Hierophant (Supreme, Su)**: Once per day, you can request a minor miracle. This request must be in line with the options for miracle that don’t cost powdered diamond. As usual for a miracle, the deity or other being the spirit worships can choose whether or not to grant the request at its whim.
 
-    \- Storm Dreamer: It does gain the second domain power. Storm Trance is a move action. At 10th level it gains *control weather* as part of its Dream Storm class feature.
+    ### Marshal
 
-    \- Storyteller: Does not lose Spirit Bonus.
+    A marshal spirit is a towering presence and an inspiration to others.
 
-    \- Uda Wendo: Full-level domain, and 2 domains instead of just 1. The rest stays the same.
+    **Spirit Bonus**: When you channel a marshal, your spirit bonus applies on Charisma checks and Charisma-based skill checks, as well as on spirit surge rolls. This allows the bonus to apply twice to the total result if you use a spirit surge on a Charisma check or on a Charisma-based skill check.
 
-    \- Vessel of the Failed: Reckless Surge doesn’t cost them 2 influence, and they can use it for free if they get a free surge. That is, they can opt for the normal surge or the reckless surge, under the same rules as any surge. Their maximum influence is 10 instead of 7. They lose control (or get their Will save to avoid it) at 6 influence instead of 5.
+    **Seance Boon**: Choose a seance boon from any of the other legends to benefit from. When using the shared seance class feature, each participant can choose a different boon.
 
-    \- Voice of the Void: Void Channeler counts as channel for feats and the like.
+    **Favored Locations**: Council rooms, stages, theaters, throne rooms.
+
+    **Influence Penalty**: The time you spend concentrating on your allies prevents you from attending to other important matters. You take a penalty equal to your spirit bonus on Wisdom checks and Wisdom-based skill checks. Additionally, if you are not at least nominally in charge of your present allies, you lose the marshal’s spirit bonus and seance boon.
+
+    **Taboos**: Choose one: you may not allow yourself or your allies to prevent a fleeing enemy from escaping, since an at-large villain makes a better tale (this applies only to enemies seeking to escape, not to those retreating to alert others or fight again from a better position); you may never leave an ally behind or allow yourself or your allies to sacrifice another ally, even a summoned creature; you must embrace any opportunity to spread the legend of yourself and your allies, even when a low profile would be helpful.
+
+    **Marshal’s Order (Lesser, Su)**: You can use your spirit surge on attack rolls, saving throws, ability checks, concentration checks, and skill checks rolled by you or any allies who participated in your seance as long as you have line of sight and line of effect, and are within 30 feet of the chosen ally. You can still use spirit surge only once per round.
+
+    **Inspiring Call (Intermediate, Su)**: As a standard action, you can grant all allies who can see and hear you a competence bonus equal to your spirit bonus on either saving throws or attack and damage rolls. You choose which bonus to grant each time you use inspiring call. This ability lasts for 1 round. If you have the decisive strike greater spirit power, you can use inspiring call as a move action. If you have the legendary marshal supreme spirit power, you can use inspiring call as a swift action.
+
+    **Decisive Strike (Greater, Su)**: You can allow the marshal to gain 1 point of influence over you as a swift action to allow an ally within 30 feet who can see and hear you to make a single melee or ranged attack during your turn. You can use this ability as a standard action to instead allow the ally to perform any standard action.
+
+    **Legendary Marshal (Supreme, Su)**: You can use a lesser spirit surge without incurring influence. This lesser surge adds a maximum of 1d6 to the roll and does not apply your spirit bonus, regardless of other effects or abilities you have that alter your spirit surge. A lesser surge still counts as a spirit surge for the purpose of the limit of one spirit surge per round, but it does not consume any free uses of spirit surge you may have from effects such as taboo.
+
+    ### Trickster
+
+    A trickster spirit is a savvy and manipulative master of skills.
+
+    **Spirit Bonus**: When you channel a trickster, your spirit bonus applies on Dexterity checks, skill checks, and Reflex saves.
+
+    **Seance Boon**: Choose one skill when you gain this seance boon. You gain a +1 bonus on skill checks using that skill, and that skill counts as a class skill for you.
+
+    **Favored Locations**: Alleys, mazes, taverns, trap-filled locations.
+
+    **Influence Penalty**: The trickster within you is a protean manipulator, and you begin to see the possibility that everyone around you might have ulterior motives as well. You never count as an ally for the purpose of gaining benefits from another creature’s abilities, nor do you count as a willing target for spells. Anyone attempting to target you with a touch range spell, even a beneficial spell, must succeed at a melee touch attack, though you need not attempt saving throws against harmless spells. You gain no benefit from another creature’s aid another attempts, as you are too busy making sure they aren’t secretly tricking or sabotaging you.
+
+    **Taboos**: Choose one: you can’t abide revealing your true identity, and you break this taboo when anyone pierces your disguise, even your own allies; you can never tell the truth; you can never pass up a more lucrative offer, even if it causes you to switch sides.
+
+    **Trickster’s Edge (Lesser, Su)**: Choose any two skills.
+
+    These skills count as class skills for you, and you are treated as if you had an additional number of ranks in those skills equal to your medium level (to a maximum of your character level).
+
+    **Surprise Strike (Intermediate, Su)**: When you attack an opponent that’s denied its Dexterity bonus to AC, you deal 1d6 points of extra precision damage for every 3 medium levels. Your target counts as flat-footed against the first attack you make against that target in a day, regardless of abilities like uncanny dodge. After your first attack, that target is immune to being made flat-footed by your surprise strike for 24 hours.
+
+    **Transfer Magic (Greater, Su)**: You can allow the trickster to gain 1 point of influence over you to make a melee touch attack against another creature as a standard action. If the attack succeeds, you randomly steal one of the harmless spells of the highest spell level active on that creature, ending the effect for the original creature and gaining all remaining duration for yourself. This ability does not work on personal-range or instantaneous- or permanent-duration spells.
+
+    **Legendary Trickster (Supreme, Su)**: Once per day, instead of rolling for a skill check, you can choose your d20 result. Additionally, you gain the ability to change form at will as if using greater polymorph, except that you can mimic the form of a specific individual.

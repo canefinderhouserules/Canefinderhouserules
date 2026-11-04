@@ -2,6 +2,8 @@
 
 The following rogue themes represent some of the most popular and effective roguish archetypes. Each archetype comes with one or more class features that must be taken. In addition, each archetype includes a number of new rogue talent suggestions that, while not mandatory, help to flesh out the character. Rogue talents and advanced rogue talents marked with an asterisk (\*) in the archetype sections can be found in the Core Rulebook; see [Rogue Talents](rogue-talents.md).
 
+
+These archetypes are written for the [unchained rogue](unchained-rogue.md), and the rogue keeps all of her other class features, including finesse training, rogue’s edge, guile pool, and ambush. If you use the core [rogue](rogue.md), read danger sense as trap sense.
 ## Acrobat
 
 Agility and daring are both excellent rogue traits, and their confluence can create spectacular feats of acrobatics. Whether they are daring thieves, infiltrating assassins, or intrepid spies, proper training in acrobatics is a valuable boon for rogues.
@@ -10,7 +12,7 @@ Agility and daring are both excellent rogue traits, and their confluence can cre
 
 This ability replaces trapfinding.
 
-**Second Chance (Ex)**: At 3rd level, an acrobat can reroll any Acrobatics, Climb, or Fly skill check she has just made. This reroll is made at a –5 penalty. She must take the second result, even if it is worse. An acrobat can use this ability only once on any given skill check. She can use this ability once per day at 3rd level, plus one additional time per day for every 3 levels beyond 3rd. This ability replaces trap sense.
+**Second Chance (Ex)**: At 3rd level, an acrobat can reroll any Acrobatics, Climb, or Fly skill check she has just made. This reroll is made at a –5 penalty. She must take the second result, even if it is worse. An acrobat can use this ability only once on any given skill check. She can use this ability once per day at 3rd level, plus one additional time per day for every 3 levels beyond 3rd. This ability replaces danger sense.
 
 **Rogue Talents**: The following rogue talents complement the acrobat archetype: expert leaper, ledge walker*, nimble climber, peerless maneuver, rogue crawl*, and stand up*.
 
@@ -20,7 +22,7 @@ This ability replaces trapfinding.
 
 Adept at infiltration, trap removal, and lock picking, burglars prey on the homes of the wealthy and forgotten tombs alike. Such riches are guarded with vicious traps and hazards, but the devious mind of the burglar allows her to find such dangers and avoid them.
 
-**Careful Disarm (Ex)**: At 4th level, whenever a burglar attempts to disarm a trap using Disable Device, she does not spring the trap unless she fails by 10 or more. If she does set off a trap she was attempting to disarm, she adds double her trap sense bonus to avoid the trap. This ability replaces uncanny dodge.
+**Careful Disarm (Ex)**: At 4th level, whenever a burglar attempts to disarm a trap using Disable Device, she does not spring the trap unless she fails by 10 or more. If she does set off a trap she was attempting to disarm, she adds double her danger sense bonus to avoid the trap. This ability replaces uncanny dodge.
 
 **Distraction (Ex)**: At 8th level, whenever a burglar is detected while using Stealth, she can immediately attempt a Bluff skill check opposed by the Sense Motive skill of the creature that spotted her. If this check succeeds, the target assumes that the noise was something innocent and disregards the detection. This only functions if the creature cannot see the rogue. This ability can only be used once during a given Stealth attempt. If the same creature detects the rogue’s presence again, the ability has no effect. This ability replaces improved uncanny dodge.
 
@@ -34,7 +36,7 @@ Everyone who lives in the city understands that a wealthy man stays wealthy by g
 
 **Measure the Mark (Ex)**: When a cutpurse makes a Sleight of Hand check to take something from a creature, the target makes its Perception check before the rogue makes her Sleight of Hand check, and the rogue knows the Perception check result. She can decide whether or not to make the check based on the results of the target’s Perception check. If the rogue elects not to make the check, she can make a Bluff check, opposed by the target’s Sense Motive, to prevent the target from noticing the attempt. This ability replaces trapfinding.
 
-**Stab and Grab (Ex)**: At 3rd level, as a full-round action, a cutpurse can make an attack and also make a Sleight of Hand check to steal something from the target of the attack. If the attack deals sneak attack damage, the rogue can use Sleight of Hand to take an item from the creature during combat; otherwise this ability can only be used in a surprise round before the target has acted. If the attack is successful, the target takes a –5 penalty on the Perception check to notice the theft. This ability replaces trap sense.
+**Stab and Grab (Ex)**: At 3rd level, as a full-round action, a cutpurse can make an attack and also make a Sleight of Hand check to steal something from the target of the attack. If the attack deals sneak attack damage, the rogue can use Sleight of Hand to take an item from the creature during combat; otherwise this ability can only be used in a surprise round before the target has acted. If the attack is successful, the target takes a –5 penalty on the Perception check to notice the theft. This ability replaces danger sense.
 
 **Rogue Talents**: The following rogue talents complement the cutpurse archetype: combat swipe, fast fingers, fast getaway, hard to fool, minor magic*, slow reactions*, and surprise attack*.
 
@@ -56,7 +58,7 @@ Some consider poisoning an evil act. The poisoner knows poison is just a tool to
 
 **Poison Use (Ex)**: At 1st level, a poisoner is trained in the use of poison and cannot accidentally poison herself when applying poison to a blade. This ability replaces trapfinding.
 
-**Master Poisoner (Ex)**: At 3rd level, a poisoner can use Craft (alchemy) to change the type of a poison. This requires 1 hour of work with an alchemist’s lab and a Craft (alchemy) skill check with a DC equal to the poison’s DC. If successful, the poison’s type changes to contact, ingested, inhaled, or injury. If the check fails, the poison is ruined. The poisoner also receives a bonus on Craft (alchemy) skill checks when working with poison equal to 1/2 her rogue level. This ability replaces trap sense.
+**Master Poisoner (Ex)**: At 3rd level, a poisoner can use Craft (alchemy) to change the type of a poison. This requires 1 hour of work with an alchemist’s lab and a Craft (alchemy) skill check with a DC equal to the poison’s DC. If successful, the poison’s type changes to contact, ingested, inhaled, or injury. If the check fails, the poison is ruined. The poisoner also receives a bonus on Craft (alchemy) skill checks when working with poison equal to 1/2 her rogue level. This ability replaces danger sense.
 
 **Rogue Talents**: The following rogue talents complement the poisoner archetype: distracting attack, lasting poison, surprise attack*, swift poison, and weapon training*.
 
@@ -68,7 +70,7 @@ The rake is a rogue who is open about her skills and talents, often to the point
 
 **Bravado’s Blade (Ex)**: When a rake hits an opponent and deals sneak attack damage, she can forgo 1d6 points of that damage and make a free Intimidate check to demoralize the foe. For every additional 1d6 points of sneak attack damage she forgoes, she receives a +5 circumstance bonus on this check. This ability replaces trapfinding.
 
-**Rake’s Smile (Ex)**: At 3rd level, a rake gains a +1 morale bonus on Bluff and Diplomacy checks. This bonus increases by +1 for every 3 levels beyond 3rd. This ability replaces trap sense.
+**Rake’s Smile (Ex)**: At 3rd level, a rake gains a +1 morale bonus on Bluff and Diplomacy checks. This bonus increases by +1 for every 3 levels beyond 3rd. This ability replaces danger sense.
 
 **Rogue Talents**: The following rogue talents complement the rake archetype: befuddling strike, charmer, honeyed words, and surprise attack*.
 
@@ -92,7 +94,7 @@ Not all rogues live in the city. Scouts frequently roam the wilderness, often ba
 
 **Accuracy (Ex)**: At 1st level, a sniper halves all range increment penalties when making ranged attacks with a bow or crossbow. This ability replaces trapfinding.
 
-**Deadly Range (Ex)**: At 3rd level, a sniper increases the range at which she can apply her sneak attack damage by 10 feet. This range increases by 10 feet for every 3 levels after 3rd. This ability replaces trap sense.
+**Deadly Range (Ex)**: At 3rd level, a sniper increases the range at which she can apply her sneak attack damage by 10 feet. This range increases by 10 feet for every 3 levels after 3rd. This ability replaces danger sense.
 
 **Rogue Talents**: The following rogue talents complement the sniper archetype: camouflage, snap shot, sniper’s eye, and weapon training*.
 
@@ -104,7 +106,7 @@ The best spies are like chameleons, but not only can they change their appearanc
 
 **Skilled Liar (Ex)**: Whenever a spy uses Bluff to attempt to deceive someone, she gains a bonus on the opposed roll equal to 1/2 her rogue level (minimum +1). This bonus does not apply to feint attempts or attempts to pass secret messages. This ability replaces trapfinding.
 
-**Poison Use (Ex)**: A 3rd level, a spy is trained in the use of poison and cannot accidentally poison herself when applying poison to a blade. This ability replaces trap sense.
+**Poison Use (Ex)**: A 3rd level, a spy is trained in the use of poison and cannot accidentally poison herself when applying poison to a blade. This ability replaces danger sense.
 
 **Rogue Talents**: The following rogue talents complement the spy archetype: canny observer, guileful polyglot, honeyed words, major magic*, minor magic*, and quick disguise.
 
@@ -116,7 +118,7 @@ A paragon of mobile swordplay, the swashbuckler is a rogue who focuses almost ex
 
 **Martial Training (Ex)**: At 1st level, the swashbuckler may select one martial weapon to add to her list of weapon proficiencies. In addition, she may take the combat trick rogue talent up to two times. This ability replaces trapfinding.
 
-**Daring (Ex)**: At 3rd level, a swashbuckler gains a +1 morale bonus on Acrobatics checks and saving throws against fear. This bonus increases by +1 for every 3 levels beyond 3rd. This ability replaces trap sense.
+**Daring (Ex)**: At 3rd level, a swashbuckler gains a +1 morale bonus on Acrobatics checks and saving throws against fear. This bonus increases by +1 for every 3 levels beyond 3rd. This ability replaces danger sense.
 
 **Rogue Talents**: The following rogue talents complement the swashbuckler archetype: offensive defense, positioning attack, powerful sneak, and weapon training*.
 
@@ -128,7 +130,7 @@ Some criminals steal with finesse, their victims only discovering the crime when
 
 **Frightening (Ex)**: Whenever a thug successfully uses Intimidate to demoralize a creature, the duration of the shaken condition is increased by 1 round. In addition, if the target is shaken for 4 or more rounds, the thug can instead decide to make the target frightened for 1 round. This ability replaces trapfinding.
 
-**Brutal Beating (Ex)**: At 3rd level, whenever a thug deals sneak attack damage, she can choose to forgo 1d6 points of sneak attack damage to make the target sickened for a number of rounds equal to 1/2 her rogue level. This ability does not stack with itself—only the most recent duration applies. This ability replaces trap sense.
+**Brutal Beating (Ex)**: At 3rd level, whenever a thug deals sneak attack damage, she can choose to forgo 1d6 points of sneak attack damage to make the target sickened for a number of rounds equal to 1/2 her rogue level. This ability does not stack with itself—only the most recent duration applies. This ability replaces danger sense.
 
 **Rogue Talents**: The following rogue talents complement the thug archetype: offensive defense, powerful sneak, strong impression, and weapon training*.
 
@@ -138,7 +140,7 @@ Some criminals steal with finesse, their victims only discovering the crime when
 
 Some rogues are not content with just disabling traps— they love to build them, finding a captivating beauty in the turning of gears and the slither of ropes over pulleys. The trapsmith may have started out putting together traps in order to better understand how to disable them, but for most, it’s long since gone beyond that—they now relish the challenge of creating the perfect combat machine.
 
-**Careful Disarm (Ex)**: At 4th level, whenever a trapsmith attempts to disarm a trap using Disable Device, she does not spring the trap unless she fails by 10 or more. If she does set off a trap she was attempting to disarm, she adds double her trap sense bonus to avoid the trap. This ability replaces uncanny dodge.
+**Careful Disarm (Ex)**: At 4th level, whenever a trapsmith attempts to disarm a trap using Disable Device, she does not spring the trap unless she fails by 10 or more. If she does set off a trap she was attempting to disarm, she adds double her danger sense bonus to avoid the trap. This ability replaces uncanny dodge.
 
 **Trap Master (Ex)**: At 8th level, whenever a trapsmith disarms a trap using Disable Device, she can bypass it even if her check did not exceed the DC by 10 or more. If it is a magic trap that allows specific creatures to pass it without danger, she can modify which creatures it allows to pass, adding her allies and restricting enemies if she desires. This ability replaces improved uncanny dodge.
 
@@ -196,7 +198,7 @@ This ability replaces trapfinding.
 
 Only one of these effects can be created or maintained in a given round. Observers can attempt either a Perception or Sense Motive check (whichever of their bonuses is higher) to oppose this Bluff check; the GM should roll these checks secretly. This is an extraordinary ability and not an illusion, so if the false medium succeeds at the opposed check, even powerful effects like true seeing don’t detect the fakery.
 
-This ability replaces trap sense.
+This ability replaces danger sense.
 
 **Rogue Talents**: The following rogue talents complement the false medium rogue archetype: esoteric scholar, fast fingers, honeyed words, major magic, minor magic, and quick trapsmith.
 
@@ -222,7 +224,7 @@ An absolute master of disguise, a chameleon effortlessly blends into any environ
 
 **Misdirection (Ex)**: At 1st level, a chameleon begins her career knowing that the secret to disappearing lies in deceiving the senses of her observers. Every day she gains a pool of stealth points equal to her ranks in Bluff. These points refresh at the start of each day. Before making a Stealth check, she can choose to put stealth points into the roll, gaining a bonus on Stealth checks equal to the number of stealth points she puts into the roll. If she gains a bonus on Bluff checks because of a feat (such as Skill Focus [Bluff ]), she adds a number of points to her stealth pool equal to the bonus the feat grants. This ability replaces trapfinding.
 
-**Effortless Sneak (Sp)**: At 3rd level, the chameleon chooses a single terrain from the ranger’s favored terrain class feature. While she is within that terrain, she can take 10 on any Stealth check she can make within that terrain. When the chameleon reaches 6th level, and every three levels thereafter, she chooses a new type of terrain from the ranger’s favored terrain list. She gains this ability with the newly picked terrain. This ability replaces trap sense.
+**Effortless Sneak (Sp)**: At 3rd level, the chameleon chooses a single terrain from the ranger’s favored terrain class feature. While she is within that terrain, she can take 10 on any Stealth check she can make within that terrain. When the chameleon reaches 6th level, and every three levels thereafter, she chooses a new type of terrain from the ranger’s favored terrain list. She gains this ability with the newly picked terrain. This ability replaces danger sense.
 
 **Rogue Talents**: The following rogue talents complement the chameleon archetype: camouflage, fast stealth, quick disguise, and terrain mastery.
 
@@ -234,7 +236,7 @@ A charlatan is a master of lies and deception. Whether creating simple cons or e
 
 **Natural Born Liar (Ex)**: At 1st level, when a charlatan successfully deceives a creature with a Bluff, that creature takes a –2 penalty on the charlatan’s Bluff checks for the next 24 hours. This ability does not stack with itself. This ability replaces trapfinding.
 
-**Grand Hoax (Ex)**: At 3rd level, the charlatan begins to master the art of the grand hoax and learns to create deceptions designed to bestow harm upon her foes. She gains the rumormonger advanced talent, even though she is not yet 10th level. This ability takes the place of trap sense.
+**Grand Hoax (Ex)**: At 3rd level, the charlatan begins to master the art of the grand hoax and learns to create deceptions designed to bestow harm upon her foes. She gains the rumormonger advanced talent, even though she is not yet 10th level. This ability takes the place of danger sense.
 
 **Rogue Talents**: The following rogue talents complement the charlatan archetype: black market connections, coax information, convincing lie, honeyed words, and underhanded.
 
@@ -246,7 +248,7 @@ A driver makes her living driving vehicles in the service of those who can pay f
 
 **Hard Drive (Ex)**: When driving a vehicle that uses a group of animals or magical beasts as muscle propulsion, the DCs of all driving checks are reduced by 2, the maximum speed of the vehicle increases by 10 feet, and the acceleration increases by 5 feet. This ability takes the place of trapfinding.
 
-**Driver’s Fortitude (Ex)**: At 3rd level, the driver learns to keep driving and maintain control of her vehicle, even when mortally wounded. If the driver drops below 0 hit points but is not dead, she can attempt a DC 15 Fortitude save each round to remain conscious and in control of her vehicle, though she may take no other actions. This ability replaces trap sense.
+**Driver’s Fortitude (Ex)**: At 3rd level, the driver learns to keep driving and maintain control of her vehicle, even when mortally wounded. If the driver drops below 0 hit points but is not dead, she can attempt a DC 15 Fortitude save each round to remain conscious and in control of her vehicle, though she may take no other actions. This ability replaces danger sense.
 
 **Rogue Talents**: The following rogue talents complement the driver archetype: firearm training and getaway artist.
 
@@ -260,7 +262,7 @@ The knife master is a trained killer who specializes in close-up combat and the 
 
 **Sneak Stab (Ex)**: A knife master focuses her ability to deal sneak attack damage with daggers and similar weapons to such a degree that she can deal more sneak attack damage with those weapons at the expense of sneak attacks with other weapons. When she makes a sneak attack with a dagger, kerambit, kukri, punching daggers, starknife, or swordbreaker dagger, she uses d8s to roll sneak attack damage instead of d6s. For sneak attacks with all other weapons, she uses d4s instead of d6s. This ability is identical in all other ways to sneak attack, and supplements that ability.
 
-**Blade Sense (Ex)**: At 3rd level, a knife master is so skilled in combat involving light blades that she gains a +1 dodge bonus to AC against attacks made against her with light blades. This bonus increases by +1 for every three levels, to a maximum of +6 at 18th level. This ability replaces trap sense.
+**Blade Sense (Ex)**: At 3rd level, a knife master is so skilled in combat involving light blades that she gains a +1 dodge bonus to AC against attacks made against her with light blades. This bonus increases by +1 for every three levels, to a maximum of +6 at 18th level. This ability replaces danger sense.
 
 **Rogue Talents**: The following rogue talents complement the knife master archetype: befuddling strike, combat trick, offensive defense, surprise attack, underhanded, and weapon training.
 
@@ -274,7 +276,7 @@ A pirate breaks from the confines of country and king to commit her crimes upon 
 
 **Swinging Reposition (Ex)**: At 2nd level, a pirate incorporates a ship’s masts, rigging, ropes, sails, and other such structures into her combat style. Provided she is wearing light armor or no armor, when fighting in an environment where such structures exist, the rogue incorporates them into her movement, and does not have to move in a straight line when making either a charge attack or a bull rush combat maneuver. Once she completes her attack or maneuver, she can reposition herself. Immediately after making the charge or bull rush, she can move 5 feet as a free action, even if the charge ends her turn. This movement does not provoke attacks of opportunity. This ability replaces the 2nd-level rogue talent.
 
-**Unflinching (Ex)**: Pirates are a salty and steadfast lot. At 3rd level, a pirate gains a +1 bonus on saving throws against fear and mind-affecting effects. This bonus increases by +1 for every three levels, to a maximum of +6 at 18th level. This ability replaces trap sense.
+**Unflinching (Ex)**: Pirates are a salty and steadfast lot. At 3rd level, a pirate gains a +1 bonus on saving throws against fear and mind-affecting effects. This bonus increases by +1 for every three levels, to a maximum of +6 at 18th level. This ability replaces danger sense.
 
 **Rogue Talents**: The following rogue talents complement the pirate archetype: black market connections, combat trick, finesse rogue, firearm training, hold breath, rope master, and strong stroke.
 
@@ -288,7 +290,7 @@ A specialized urban acrobat, the roof runner makes her home high atop the spires
 
 **Tumbling Descent (Ex)**: At 2nd level, a roof runner can use her acrobatics skill to attempt a rapid descent from a rooftop or another surface, ricocheting against another surface and then diving through an opening (such as a balcony or window) directly below. So long as she has at least two surfaces no farther than 10 feet apart to bounce against, she can ricochet her body back from one to the next, descending great distances with a single check.
 
-The DC is 10 + 5 for every additional 10-foot increment descended beyond the initial 10 feet dropped. If she fails, she falls the full distance. This ability replaces trap sense.
+The DC is 10 + 5 for every additional 10-foot increment descended beyond the initial 10 feet dropped. If she fails, she falls the full distance. This ability replaces danger sense.
 
 **Rogue Talents**: The following rogue talents complement the roof runner archetype: expert leaper, ledge walker, nimble climber, stand up, and terrain mastery.
 
@@ -314,7 +316,7 @@ The survivalist focuses her talents on surviving harsh and unforgiving condition
 
 **Hardy (Ex)**: At 1st level, a survivalist is already prepared to endure extreme hardships and environmental conditions. She can go twice the normal number of days without water and triple the normal number of days without food before feeling the effects of either thirst or starvation. This ability replaces trapfinding.
 
-**Endure Elements (Sp)**: At 3rd level, a survivalist rogue can use endure elements once per day as a spell-like ability. The survivalist’s caster level is the same as her rogue level. This ability replaces trap sense.
+**Endure Elements (Sp)**: At 3rd level, a survivalist rogue can use endure elements once per day as a spell-like ability. The survivalist’s caster level is the same as her rogue level. This ability replaces danger sense.
 
 **Rogue Talents**: The following rogue talents complement the survivalist archetype: hold breath, iron guts, resiliency, strong stroke, survivalist, terrain mastery, and wall scramble.
 
@@ -350,7 +352,7 @@ Though most often associated with hot deserts, desert raiders can also operate i
 
 **Sun at Your Back (Ex)**: At 2nd level, a desert raider can use the reflected light of the blinding sun to conceal her presence. A desert raider in bright light can attempt Stealth checks without cover or concealment but takes a –5 penalty on her check. The desert raider cannot use this ability to hide from creatures immune to the blinded or dazzled conditions. This replaces the rogue talent gained at 2nd level.
 
-**Light Step (Ex)**: At 3rd level, the DC of Survival checks to track the desert raider increase by 3. In addition, she gains a +1 bonus on Perception checks to avoid being surprised by a foe. The DC increase and the bonus on Perception checks increase by 1 every 3 rogue levels thereafter (to a maximum increase of 8 and a maximum bonus of +6 at 18th level). This replaces trap sense.
+**Light Step (Ex)**: At 3rd level, the DC of Survival checks to track the desert raider increase by 3. In addition, she gains a +1 bonus on Perception checks to avoid being surprised by a foe. The DC increase and the bonus on Perception checks increase by 1 every 3 rogue levels thereafter (to a maximum increase of 8 and a maximum bonus of +6 at 18th level). This replaces danger sense.
 
 **Rogue Talents**: The following rogue talents complement the desert raider archetype: fast stealth, getaway artist, ledge walker, rogue crawl, stand up, surprise attack.
 
@@ -364,7 +366,7 @@ What highway robbers are to roads, river rats are to waterways. Skilled at hidin
 
 **Swamper (Ex)**: At 1st level, a river rat gains a bonus equal to half her rogue level on Swim checks (minimum +1). A river rat ignores difficult terrain caused by light undergrowth and shallow bogs, and it costs her only 2 squares of movement to enter a square of deep bog or heavy undergrowth, rather than 4 squares of movement. She takes no penalty on Acrobatics or Stealth checks for being in bogs and undergrowth. All of these abilities apply only when she is wearing light or no armor and carrying no more than a light load. This replaces trapfinding.
 
-**Rat’s Resilience (Ex)**: A river rat is inured to dangers presented by disease-carrying parasites, poisonous fish, and other toxic river denizens. At 3rd level, a river rat gains a +1 bonus on saving throws against disease and poison effects. This bonus increases by 1 every 3 levels thereafter, to a maximum bonus of +6 at 18th level. This replaces trap sense.
+**Rat’s Resilience (Ex)**: A river rat is inured to dangers presented by disease-carrying parasites, poisonous fish, and other toxic river denizens. At 3rd level, a river rat gains a +1 bonus on saving throws against disease and poison effects. This bonus increases by 1 every 3 levels thereafter, to a maximum bonus of +6 at 18th level. This replaces danger sense.
 
 **Rogue Talents**: The following rogue talents complement the river rat archetype: camouflage, hold breath, rogue crawl, stand up, strong stroke, survivalist.
 
@@ -376,7 +378,7 @@ Sly saboteurs are irregular soldiers who specialize in sabotage and surprise att
 
 **Class Skills**: A sly saboteur adds Survival to her list of class skills instead of Knowledge (dungeoneering). This alters the rogue’s class skills.
 
-**Scamper (Ex)**: At 3rd level, a sly saboteur can move through 5 feet of difficult terrain each round as if it were normal terrain. At 6th level and every 3 levels thereafter, this distance increases by 5 feet (to a maximum of 30 feet at 18th level). This ability allows the sly saboteur to take a 5-foot step into difficult terrain. This ability applies only when she is wearing light armor or no armor and carrying no more than a light load, and it stacks with the Acrobatic Steps and Nimble Moves feats. This replaces trap sense.
+**Scamper (Ex)**: At 3rd level, a sly saboteur can move through 5 feet of difficult terrain each round as if it were normal terrain. At 6th level and every 3 levels thereafter, this distance increases by 5 feet (to a maximum of 30 feet at 18th level). This ability allows the sly saboteur to take a 5-foot step into difficult terrain. This ability applies only when she is wearing light armor or no armor and carrying no more than a light load, and it stacks with the Acrobatic Steps and Nimble Moves feats. This replaces danger sense.
 
 **Catastrophic Failure (Ex)**: At 4th level, when a sly saboteur uses Disable Device to rig a device to fail, she can increase the DC of the check by 5. If she does so and succeeds at the check, when the device fails, users take damage equal to the sly saboteur’s sneak attack, or they take half that amount with a successful Reflex save (DC = 10 + half the sly saboteur’s level + her Dexterity modifier). The type of damage depends on the nature of the device but is typically bludgeoning, fire, piercing, or slashing. This replaces uncanny dodge.
 
@@ -438,7 +440,7 @@ At 3rd level, the swordmaster chooses one trance from the list below. She choose
 
 **Tiger Trance (Ex)**: The swordmaster pounces upon her opponents, striking with the ferocity and brute force of a wild tiger. While in this trance, a swordmaster can make a combat maneuver check against an opponent within charge range. If she succeeds, she may charge that opponent and make a full attack against that opponent.
 
-This ability replaces all increments of trap sense.
+This ability replaces all increments of danger sense.
 
 **Rogue Talents**: The following rogue talents complement the swordmaster archetype: combat trick, stand up, surprise attack, weapon training (*Core Rulebook*); befuddling strike, positioning strike (*Advanced Player’s Guide*).
 
@@ -454,7 +456,7 @@ An eldritch raider is a rogue who seeks to unravel the mysteries of the destruct
 
 **Detect Magic (Sp)**: At 2nd level, an eldritch raider gains the ability to use *detect magic* at will. The eldritch raider treats her rogue level as her caster level for this ability. This ability counts as the minor magic rogue talent for purposes of qualifying for other rogue talents. This ability replaces the rogue talent rogues gained at 2nd level.
 
-**Eldritch Intuition (Ex)**: At 3rd level, an eldritch raider gains an intuitive sense that allows her to more easily activate sorcerer and wizard spell completion and spell trigger items. She gains a +1 bonus on Use Magic Device checks for this purpose. This bonus increases to +2 at 6th level, +3 at 9th level, +4 at 12th level, +5 at 15th level, and +6 at 18th level. This ability replaces the trap sense class feature.
+**Eldritch Intuition (Ex)**: At 3rd level, an eldritch raider gains an intuitive sense that allows her to more easily activate sorcerer and wizard spell completion and spell trigger items. She gains a +1 bonus on Use Magic Device checks for this purpose. This bonus increases to +2 at 6th level, +3 at 9th level, +4 at 12th level, +5 at 15th level, and +6 at 18th level. This ability replaces the danger sense class feature.
 
 **New Talents**: An eldritch raider has access to the following new advanced talents when selecting rogue advanced talents.
 
@@ -478,7 +480,7 @@ The kitsune trickster combines her sharpened wit with minor arcane powers of cha
 
 **Kitsune’s Guile (Ex)**: At 1st level, a trickster relies on her intellect as much as her personality. She adds her Intelligence modifier on Bluff, Diplomacy, Disguise, and Sense Motive checks. This ability replaces trapfinding.
 
-**Kitsune’s Charm (Sp)**: At 3rd level, a kitsune trickster can use *charm person* once per day as a spell-like ability (caster level equal to her rogue level – 2). At 6th level, and every three levels thereafter, the kitsune trickster gains an additional daily use of this ability. This ability replaces trap sense.
+**Kitsune’s Charm (Sp)**: At 3rd level, a kitsune trickster can use *charm person* once per day as a spell-like ability (caster level equal to her rogue level – 2). At 6th level, and every three levels thereafter, the kitsune trickster gains an additional daily use of this ability. This ability replaces danger sense.
 
 **Rogue Talents**: The following rogue talents complement the kitsune trickster archetype: major magic, minor magic (*Core Rulebook*); false friend, obfuscate story, steal the story (see below); charmer, coax information, honeyed words (*Advanced Player’s Guide*); convincing lie (*Ultimate Combat*).
 
@@ -492,7 +494,7 @@ Skilled at manipulation and diversion, the deadly courtesan builds up those arou
 
 **Bardic Performance (Su)**: At 2nd level, a deadly courtesan gains the bardic performance ability and the fascinate bardic performance. Her fascinate DC is 10 + 1/2 her rogue level + her Charisma modifier. She can use this bardic performance for a number of rounds per day equal to 1 + her Charisma modifier. At each level after 2nd, she can use bardic performance for 1 additional round per day. If the courtesan also has bard levels, she may use these rounds for either class’s fascinate bardic performance, and her bard and rogue levels stack for determining her fascinate DC. This ability replaces the rogue trick gained at 2nd level.
 
-**Inspire Competence (Su)**: At 3rd level, a deadly courtesan can use her bardic performance to inspire competence. The bonus begins at +2 and increases by +1 for every six levels the courtesan has attained beyond 3rd (+3 at 9th and +4 at 15th). This ability replaces all levels of trap sense.
+**Inspire Competence (Su)**: At 3rd level, a deadly courtesan can use her bardic performance to inspire competence. The bonus begins at +2 and increases by +1 for every six levels the courtesan has attained beyond 3rd (+3 at 9th and +4 at 15th). This ability replaces all levels of danger sense.
 
 **Performance Strike (Sp)**: At 8th level, as a swift action, a deadly courtesan may expend rounds of bardic performance to gain a morale bonus on one attack roll. The amount of the bonus is equal to the number of bardic performance rounds expended (maximum bonus equal to 1/2 her deadly courtesan level). This ability replaces improved uncanny dodge.
 
@@ -516,11 +518,11 @@ Pushed into a life of crime by the society around them, half-orcs gravitate towa
 
 **Bonus Feats**: At 2nd level, a skulking slayer can select the Surprise Follow-Through feat (see below) in place of a rogue talent. At 10th level, she can select the Improved Surprise Follow-Through feat in place of an advanced rogue talent.
 
-**Bold Strike (Ex)**: At 3rd level, when a skulking slayer charges and makes a sneak attack with a two-handed weapon, she rolls d8s instead of d6s for her sneak attack damage. This ability replaces trap sense +1 and +4.
+**Bold Strike (Ex)**: At 3rd level, when a skulking slayer charges and makes a sneak attack with a two-handed weapon, she rolls d8s instead of d6s for her sneak attack damage. This ability replaces danger sense +1 and +4.
 
-**Shifty (Ex)**: At 6th level, a skulking slayer gains a bonus on Bluff checks to feint equal to half her level. This ability replaces trap sense +2.
+**Shifty (Ex)**: At 6th level, a skulking slayer gains a bonus on Bluff checks to feint equal to half her level. This ability replaces danger sense +2.
 
-**Unexpected Charge (Ex)**: At 9th level, a skulking slayer can make a Bluff check to feint as a swift action before a charge. This ability replaces trap sense +3.
+**Unexpected Charge (Ex)**: At 9th level, a skulking slayer can make a Bluff check to feint as a swift action before a charge. This ability replaces danger sense +3.
 
 **Rogue Talents**: The following rogue talents complement the skulking slayer archetype: combat trick, surprise attack (*Core Rulebook*); combat swipe, powerful sneak (*Advanced Player’s Guide*); terrain mastery (*Ultimate Combat*).
 
@@ -534,7 +536,7 @@ A filcher steals valuables without their owners even realizing it. Whether cutti
 
 **Rummage (Ex)**: At 3rd level, a filcher learns how to assess the value of items at the quickest glance. She can even make startlingly accurate guesses about particular items merely by observing the bulges they make in pouches, backpacks, or similar containers. She gains a +1 bonus on Appraise checks and an additional +1 bonus every three levels thereafter.
 
-As a swift action, a filcher can make an Appraise check in order to determine the relative value of each object carried by her target (DC = 10 + 1 for every object the filcher is trying to ascertain the relative value of). Though she never learns the actual prices of items when using rummage, she does gain enough information to list these items in order, from the most valuable to the least valuable. She can, by taking a –20 penalty on the check, add to this assessment any items carried by her target that she cannot see. This ability replaces trap sense +1, +2, +3, +4, +5, and +6.
+As a swift action, a filcher can make an Appraise check in order to determine the relative value of each object carried by her target (DC = 10 + 1 for every object the filcher is trying to ascertain the relative value of). Though she never learns the actual prices of items when using rummage, she does gain enough information to list these items in order, from the most valuable to the least valuable. She can, by taking a –20 penalty on the check, add to this assessment any items carried by her target that she cannot see. This ability replaces danger sense +1, +2, +3, +4, +5, and +6.
 
 **Filch (Ex)**: At 4th level, a filcher learns how pluck items off her opponents even in combat. She gains Improved Steal as a bonus feat and can use her Sleight of Hand bonus instead of her CMB when performing a steal combat maneuver. If the filcher gains bonuses on combat maneuver checks from any feats, spells, magic items, or similar effects, they are added to the Sleight of Hand bonus when using the steal maneuver. This ability replaces uncanny dodge.
 
@@ -554,7 +556,7 @@ Consiglieres act as trusted mediators and administrators for crime families and 
 
 **Combat Advisor (Ex)**: At 4th level, whenever a consigliere misses with a melee attack against an opponent, he can designate an ally within 30 feet of the target to receive a +1 insight bonus on her next attack roll against that opponent before the consigliere’s next turn. At 8th level, the insight bonus increases to +2. This ability replaces uncanny dodge and improved uncanny dodge.
 
-**Bonus Feats (Ex)**: Starting at 4th level, a consigliere can choose to gain a single teamwork feat instead of a single rogue talent. Starting at 12th level, the consigliere can choose to gain teamwork feats instead of rogue talents as many times as he chooses. This ability replaces all instances of trap sense.
+**Bonus Feats (Ex)**: Starting at 4th level, a consigliere can choose to gain a single teamwork feat instead of a single rogue talent. Starting at 12th level, the consigliere can choose to gain teamwork feats instead of rogue talents as many times as he chooses. This ability replaces all instances of danger sense.
 
 **Field Boss (Ex)**: At 10th level, as a standard action, a consigliere can grant a teamwork feat to all allies within 30 feet who can see and hear her. This teamwork feat must be one the consigliere knows. Allies retain the use of this feat for 3 rounds plus 1 round for every 2 rogue levels the consigliere has. Allies do not need to meet the prerequisites of this teamwork feat. The consigliere can use this ability once per day at 10th level, plus 1 additional time per day every 4 rogue levels thereafter. This ability replaces the rogue talent normally gained at 10th level.
 
@@ -616,7 +618,7 @@ Also known as gentleman thieves or lady thieves, phantom thieves don’t know th
 
 **Broad Education (Ex)**: A phantom thief’s broad studies with expensive tutors keep her up to speed in both martial and magical knowledge, as well as in her skills. She can select the combat trick, minor magic, and major magic rogue talents as many times as she likes, and she can select the Skill Focus feat as a rogue talent, also as many times as she likes. Finally, she can select a vigilante social talent instead of a rogue talent, except for social grace and vigilante social talents that would require her to be a craftsman or professional. For the purpose of vigilante social talents, a phantom thief does not have a vigilante identity and is always considered to be in her social identity. This ability alters rogue talent.
 
-**Social Sense (Ex)**: At 3rd level, a phantom thief’s social sixth sense allows her to avoid danger in social situations and to act first when it breaks out. She receives a +1 bonus on Sense Motive checks to avoid being surprised by a foe, on Bluff checks to surprise a foe, and on initiative checks for surprise rounds that involved Bluff and Sense Motive checks to determine surprise. This bonus increases by 1 at 3rd level and every 3 rogue levels thereafter. This ability replaces trap sense.
+**Social Sense (Ex)**: At 3rd level, a phantom thief’s social sixth sense allows her to avoid danger in social situations and to act first when it breaks out. She receives a +1 bonus on Sense Motive checks to avoid being surprised by a foe, on Bluff checks to surprise a foe, and on initiative checks for surprise rounds that involved Bluff and Sense Motive checks to determine surprise. This bonus increases by 1 at 3rd level and every 3 rogue levels thereafter. This ability replaces danger sense.
 
 **Master of All (Ex)**: At 20th level, a phantom thief can reroll any skill check as long as it is a class skill in which she is trained. She must take the second result, even if it is worse. She can use this ability no more than once per minute. This ability replaces master strike.
 
@@ -632,7 +634,7 @@ Sharpers use trickery and deception to part an owner from his valuables. Patholo
 
 **Sticky Fingers (Ex)**: At 2nd level, a sharper receives Improved Steal as a bonus feat. At 6th level, she receives Greater Steal as a bonus feat, and at 8th level, she receives Quick Steal as a bonus feat. The sharper gains these feats even if she doesn’t meet the prerequisites. This ability replaces the rogue talents gained at 2nd, 6th, and 8th levels.
 
-**Lucky Save (Su)**: At 3rd level, when a sharper’s wits aren’t enough to pull her out of a bad situation, her luck still just might save her. She gains a +1 luck bonus on all saving throws. This bonus increases to +2 at 9th level and to +3 at 15th level. This ability replaces trap sense.
+**Lucky Save (Su)**: At 3rd level, when a sharper’s wits aren’t enough to pull her out of a bad situation, her luck still just might save her. She gains a +1 luck bonus on all saving throws. This bonus increases to +2 at 9th level and to +3 at 15th level. This ability replaces danger sense.
 
 **Audacious Overconfidence (Ex)**: At 4th level, after failing an attack roll, skill check, or saving throw, a sharper can reduce her saving throw bonus from lucky save by 1 for 24 hours in order to reroll the failed roll. She can use this ability once per day at 4th level, plus an additional time per day at 10th level and again at 16th level. The decreases to her bonus from lucky save stack with each other. This ability replaces the rogue talents gained at 4th, 10th, and 16th levels.
 
@@ -690,7 +692,7 @@ The pet performance ability otherwise functions identically to bardic performanc
 
 **Sneak Attack (Ex)**: A carnivalist gains this ability starting at 2nd level. The sneak attack damage dealt is 1d6 at 2nd level, and increases by 1d6 every 4 carnivalist levels thereafter. A carnivalist's familiar can also deal sneak attack damage as appropriate to foes as long as it is within 30 feet of her (though only Small and larger creatures may flank enemies, as usual). This ability alters sneak attack.
 
-**Animal Trainer (Ex)**: Starting at 3rd level, a carnivalist receives a bonus equal to 1/2 her rogue level whenever she uses Handle Animal on a Tiny or Small animal. In addition, she can increase the DC by 5 to reduce the time needed to teach an animal a new trick or train an animal for a general purpose to 1 day for every week normally required. She can also train more than one animal at once, although each animal after the first adds 2 to the DC. This ability replaces trap sense.
+**Animal Trainer (Ex)**: Starting at 3rd level, a carnivalist receives a bonus equal to 1/2 her rogue level whenever she uses Handle Animal on a Tiny or Small animal. In addition, she can increase the DC by 5 to reduce the time needed to teach an animal a new trick or train an animal for a general purpose to 1 day for every week normally required. She can also train more than one animal at once, although each animal after the first adds 2 to the DC. This ability replaces danger sense.
 
 ## Earthshadow
 
@@ -738,7 +740,7 @@ The scroll scoundrel is a rogue archetype that relies on cunning and quick wits 
 
 **Fast Talker (Ex)**: At 2nd level, a scroll scoundrel’s penalty on Bluff checks that are unlikely, far-fetched, or impossible to achieve is reduced by 5. When he makes a Diplomacy check to adjust a creature’s starting attitude, he gains a +3 competence bonus on the skill check. This ability replaces the rogue’s 2nd-level rogue talent.
 
-**Adaptive Learning (Ex)**: At 3rd level, a scroll scoundrel gains a +1 bonus on saving throws against abilities and spells he has already successfully saved against within the past minute (even if the spells or abilities in question were used by different creatures). This bonus increases by +1 when the scroll scoundrel reaches 6th level, and by an additional +1 for every three levels thereafter, to a maximum of +6 at 18th level. This ability replaces trap sense.
+**Adaptive Learning (Ex)**: At 3rd level, a scroll scoundrel gains a +1 bonus on saving throws against abilities and spells he has already successfully saved against within the past minute (even if the spells or abilities in question were used by different creatures). This bonus increases by +1 when the scroll scoundrel reaches 6th level, and by an additional +1 for every three levels thereafter, to a maximum of +6 at 18th level. This ability replaces danger sense.
 
 **Pay It Back (Ex)**: At 4th level, a scroll scoundrel receives a +1 bonus on attack rolls and weapon damage rolls against foes who made melee attacks against him in the previous round. This bonus increases to +2 at 10th level. This ability replaces uncanny dodge.
 
@@ -768,7 +770,7 @@ Some peoples are slavers and demon worshipers who hide in thick jungles and quic
 
 **Clean Capture (Ex)**: At 1st level, a kidnapper reduces the penalty to her combat maneuver check to tie up a pinned or otherwise restrained target by an amount equal to 1/2 her rogue level. In addition, she can take the feats Improved Grapple and Greater Grapple as rogue talents. She can ignore the Improved Unarmed Strike requirement when selecting these feats as rogue talents, but must meet all other prerequisites. This ability replaces trapfinding.
 
-**Abductor (Ex)**: At 3rd level, a kidnapper gains a +1 bonus on combat maneuver checks to grapple a foe. In addition, the kidnapper treats her combat maneuver bonus as 1 higher when a foe tries to grapple her or when a grappled target attempts to break free of her grapple. These bonuses increase by 1 for every 3 levels beyond 3rd. This ability replaces trap sense.
+**Abductor (Ex)**: At 3rd level, a kidnapper gains a +1 bonus on combat maneuver checks to grapple a foe. In addition, the kidnapper treats her combat maneuver bonus as 1 higher when a foe tries to grapple her or when a grappled target attempts to break free of her grapple. These bonuses increase by 1 for every 3 levels beyond 3rd. This ability replaces danger sense.
 
 **Rogue Talents**: The following rogue talents complement the kidnapper archetype: black market connections, camouflage, combat trick, rope master, survivalist, and terrain mastery.
 
@@ -778,7 +780,7 @@ Some peoples are slavers and demon worshipers who hide in thick jungles and quic
 
 In a thriving international port far from the seat of a rigid and bureaucratic empire, rebellion against the law comes easily. This rebellion is hardly malicious in intent; business is simply easier without the imposing bureaucracy. Whenever the imperial navy sails into port, these rebels are quick to appear agreeably subservient in order to conceal their noncompliance and avoid retribution.
 
-**Sophisticated Stealth (Ex)**: At 3rd level, a port rebel gains a +1 bonus on Knowledge (nobility) checks. In addition, she gains a +1 bonus on Bluff checks to convey a secret message and on Sense Motive checks to discern secret messages. These bonuses increase by 1 every 3 rogue levels thereafter. This ability replaces trap sense.
+**Sophisticated Stealth (Ex)**: At 3rd level, a port rebel gains a +1 bonus on Knowledge (nobility) checks. In addition, she gains a +1 bonus on Bluff checks to convey a secret message and on Sense Motive checks to discern secret messages. These bonuses increase by 1 every 3 rogue levels thereafter. This ability replaces danger sense.
 
 **Misdirection (Sp)**: At 4th level, a port rebel gains the ability to cast *misdirection* on herself once per day, though instead of choosing an object for the second target, she must choose a creature in range. The caster level for this ability is equal to her class level, and the save DC for this spell is 12 + the port rebel's Intelligence modifier. The save DC of this ability increases by 1 if the secondary target is lawful or evil. This ability replaces uncanny dodge.
 
@@ -792,7 +794,7 @@ The sight of slaving ships approaching a coast signals terror for most. Some fre
 
 **Bond Breaker (Ex)**: A slave liberator adds 1/2 her class level to Escape Artist checks, and never takes a penalty on Disable Device checks when using improvised tools to open locks. This ability replaces trapfinding.
 
-**Covert Commander (Ex)**: A slave liberator grants all allies within 30 feet who are in her line of sight (but not herself) a +1 competence bonus on Disguise and Stealth checks. This bonus increases by 1 for every 3 levels beyond 3rd. This ability replaces trap sense.
+**Covert Commander (Ex)**: A slave liberator grants all allies within 30 feet who are in her line of sight (but not herself) a +1 competence bonus on Disguise and Stealth checks. This bonus increases by 1 for every 3 levels beyond 3rd. This ability replaces danger sense.
 
 **Catch Off-Guard (Ex)**: At 4th level, the slave liberator is adept at improvising weapons. She gains Catch Off-Guard as a bonus feat. This ability replaces uncanny dodge.
 
@@ -820,7 +822,7 @@ A toxic talon is trained and deployed for one very specific purpose: to defeat f
 
 **Poison Adept (Ex)**: A toxic talon is trained in the use of poison and cannot accidentally poison himself when applying poison to a projectile weapon. He can apply poison to a projectile as a move action. This counts as the poison use ability for the purposes of qualifying for feats, prestige classes, and other options. This ability replaces trapfinding.
 
-**Toxin Resistance (Ex)**: At 3rd level, a toxic talon gains a +1 bonus on saving throws against diseases and poisons, and he gains a +1 bonus on Heal checks to treat diseases and poisons. He also gains a +1 bonus on caster level checks (including when he activates a magic item) to treat or remove poisons and diseases, such as when using *remove disease* or *neutralize poison*. Finally, he gains a +1 bonus on Perception checks to identify traps that utilize diseases or poisons. These bonuses increase to +2 at 6th level, to +3 at 9th level, to +4 at 12th level, to +5 at 15th level, and to +6 at 18th level. This replaces trap sense.
+**Toxin Resistance (Ex)**: At 3rd level, a toxic talon gains a +1 bonus on saving throws against diseases and poisons, and he gains a +1 bonus on Heal checks to treat diseases and poisons. He also gains a +1 bonus on caster level checks (including when he activates a magic item) to treat or remove poisons and diseases, such as when using *remove disease* or *neutralize poison*. Finally, he gains a +1 bonus on Perception checks to identify traps that utilize diseases or poisons. These bonuses increase to +2 at 6th level, to +3 at 9th level, to +4 at 12th level, to +5 at 15th level, and to +6 at 18th level. This replaces danger sense.
 
 **Catalyst (Su)**: At 4th level, a toxic talon can use secret alchemical techniques to enhance a poison as he applies it to a weapon, increasing the save DC of the poison by 1 (this bonus increases to +2 at 12th level). This increase to the save DC lasts for 1 minute or until the poison is used up, whichever comes first. A toxic talon can use catalyst once per hour. This ability replaces uncanny dodge.
 
@@ -842,7 +844,7 @@ Agitators fight mightily to cast down the enemies of their ideals within the sha
 
 **Reputation (Ex)**: This ability functions as the renown vigilante social talent. In addition to improving attitudes, it also improves the agitator's starting influence and reputation with contacts in the area by one level or step. For the purpose of vigilante social talents, the agitator does not have a vigilante identity and is always considered to be in her social identity, unless she has another identity (such as from the vigilante class). If the agitator has another identity, she does not gain any benefits from renown while in that identity unless she has the renown social talent or a similar ability. This ability replaces trapfinding.
 
-**Ready for Betrayal (Ex)**: At 3rd level, an agitator gains a +1 bonus on Perception checks to recognize disguises and notice hiding creatures and on Sense Motive checks to disbelieve lies. These bonuses increase by 1 every 3 rogue levels thereafter (to a maximum of +6 at 18th level). This ability replaces trap sense.
+**Ready for Betrayal (Ex)**: At 3rd level, an agitator gains a +1 bonus on Perception checks to recognize disguises and notice hiding creatures and on Sense Motive checks to disbelieve lies. These bonuses increase by 1 every 3 rogue levels thereafter (to a maximum of +6 at 18th level). This ability replaces danger sense.
 
 **Enthralling Agitation (Su)**: At 4th level, an agitator can captivate a crowd once per day, as per the spell *enthrall* (DC = 10 + 1/2 the agitator's rogue level + her Charisma modifier). During the spell's effect, the agitator can attempt a DC 15 Charisma check to increase her individual or organizational influence with the members of the crowd by 1 rank or step. Or, if the crowd members' attitudes toward the agitator are indifferent or worse, this check can improve their attitudes by 1 step. The agitator can never use this ability to increase her individual or organizational influence or improve the crowd's attitude by more than 2 ranks or steps. This replaces the rogue talent gained at 4th level.
 
@@ -862,7 +864,7 @@ Guerrillas fight against oppressive leadership and governments, often under cove
 
 **Cover of Night (Ex)**: At 2nd level, a guerrilla learns to use darkness to her advantage. She gains a +5 bonus on Disguise, Sleight of Hand, and Stealth checks while she is in areas of dim light or darkness, and can create mundane disguises in dim light or darkness with a full-round action (instead of the normal 1d3 × 10 minutes). Additionally, while in dim light or darkness, if a guerrilla would have concealment, she instead has total concealment. This ability replaces evasion.
 
-**Secret Messenger (Ex)**: At 3rd level, a guerrilla gains a +1 bonus on Bluff checks to convey secret messages and on Sense Motive checks to discern secret messages. These bonuses increase by 1 every 3 rogue levels thereafter (to a maximum of +6 at 18th level). This ability replaces trap sense.
+**Secret Messenger (Ex)**: At 3rd level, a guerrilla gains a +1 bonus on Bluff checks to convey secret messages and on Sense Motive checks to discern secret messages. These bonuses increase by 1 every 3 rogue levels thereafter (to a maximum of +6 at 18th level). This ability replaces danger sense.
 
 **Guerrilla Sniping (Ex)**: At 4th level, when a guerrilla is in an area of dim light or darkness, she takes only a –10 penalty on her Stealth check to maintain her obscured location while sniping. This ability replaces uncanny dodge.
 
@@ -882,7 +884,7 @@ The dreamthief is master of both waking and dreaming worlds. Each dreamthief bea
 
 Once per round when a dreamthief makes a melee attack, she can declare that attack to be a dreamstrike. This does not require an action, but a dreamthief must declare a dreamstrike before making the attack roll. A dreamstrike is treated as a slam attack for the purpose of emotional focus abilities that apply to a phantom's slam attacks, such as miserable strike. At 20th level, any melee attack a dreamthief makes automatically gains this benefit. This replaces sneak attack and master strike.
 
-**Lucid Dreamer (Ex)**: At 3rd level, a dreamthief can control her dreams, and gains Lucid Dreamer as a bonus feat. This replaces trap sense.
+**Lucid Dreamer (Ex)**: At 3rd level, a dreamthief can control her dreams, and gains Lucid Dreamer as a bonus feat. This replaces danger sense.
 
 **Soothe Dreaming (Su)**: At 4th level, a dreamthief can steal negative emotions, freeing allies from harmful conditions. This acts as the mesmerist's touch treatment ability, treating her rogue level as her mesmerist level; a dreamthief can use this ability once per day for every 3 rogue levels she has. This replaces uncanny dodge.
 
@@ -896,7 +898,7 @@ Vexing dodgers take advantage of their smaller size to outmaneuver larger foes s
 
 **Improved Dirty Trick (Ex)**: At 2nd level, a vexing dodger gains Improved Dirty Trick as a bonus feat, even if she doesn't meet the prerequisites. This ability replaces the rogue talent gained at 2nd level.
 
-**Underfoot Agility (Ex)**: At 3rd level, a vexing dodger gains a +1 morale bonus on Acrobatics, Climb, and Escape Artist attempts against creatures at least one size category larger than herself. This bonus increases by 1 for every 3 levels beyond 3rd. This ability replaces trap sense.
+**Underfoot Agility (Ex)**: At 3rd level, a vexing dodger gains a +1 morale bonus on Acrobatics, Climb, and Escape Artist attempts against creatures at least one size category larger than herself. This bonus increases by 1 for every 3 levels beyond 3rd. This ability replaces danger sense.
 
 **Underfoot Trickster (Ex)**: At 4th level, a vexing dodger can move through the space of a creature two size categories larger than herself without needing to attempt an Acrobatics check. She would still need to succeed at Acrobatics checks to avoid attacks of opportunity provoked by leaving a threatened space; this ability covers only the ability to move. Additionally, whenever the vexing dodger hits a larger foe with a melee sneak attack, she can choose to forgo the sneak attack bonus damage and instead attempt a dirty trick combat maneuver as a swift action. This ability replaces uncanny dodge.
 
@@ -912,7 +914,7 @@ Some combatants specialize in the study of certain weapons, but those without fo
 
 **Improvised Weapons (Ex)**: At 1st level, a makeshift scrapper gains Catch Off-Guard and Throw Anything as bonus feats. This ability replaces trapfinding.
 
-**Supernatural Improvisation (Su)**: At 3rd level, a makeshift scrapper gains the ability to enhance an item, making it a more effective weapon or changing the way it can be used. As a swift action, she can alter a single improvised weapon to either grant it a +1 enhancement bonus on attack rolls and damage rolls or use it to gain a +1 shield bonus to her AC. The makeshift scrapper can use this ability for a number of rounds per day equal to her rogue level. These rounds need not be consecutive, and the makeshift scrapper can change the enhancement each time she activates the ability. The bonus increases by 1 every 4 levels thereafter, up to a maximum bonus of +5 at 19th level. This ability replaces trap sense.
+**Supernatural Improvisation (Su)**: At 3rd level, a makeshift scrapper gains the ability to enhance an item, making it a more effective weapon or changing the way it can be used. As a swift action, she can alter a single improvised weapon to either grant it a +1 enhancement bonus on attack rolls and damage rolls or use it to gain a +1 shield bonus to her AC. The makeshift scrapper can use this ability for a number of rounds per day equal to her rogue level. These rounds need not be consecutive, and the makeshift scrapper can change the enhancement each time she activates the ability. The bonus increases by 1 every 4 levels thereafter, up to a maximum bonus of +5 at 19th level. This ability replaces danger sense.
 
 **Improvised Weapon Mastery (Ex)**: At 12th level, the makeshift scrapper gains Improvised Weapon Mastery as a bonus feat. This ability replaces the rogue talent gained at 12th level.
 
@@ -930,7 +932,7 @@ Swamp poisoners use their own toxins to defend their homes and level the playing
 
 **Mark the Vein (Ex)**: At 2nd level, when the swamp poisoner attacks a target that is currently affected by his grippli racial poison, that target is denied its Dexterity bonus to AC. The target must be actively poisoned, not just suffering the effects of poison, such as lingering ability damage. This replaces the rogue talent gained at 2nd level.
 
-**Poison the Well (Ex)**: At 3rd level as a standard action, a swamp poisoner can smear the poison generated through the use of his toxic skin alternate racial trait onto the ground in a 5-foot area, instead of onto a weapon or his own body. The first creature other than the swamp poisoner to enter the area is exposed to the poison. The poison loses its potency after 1 hour. This area is considered a trap, and the DCs of Perception checks to notice it and Disable Device checks to disable it are equal to 10 + half the swamp poisoner's level + the swamp poisoner's Constitution modifier. The swamp poisoner also gains an extra use per day of his toxic skin alternate racial trait, plus one additional use per day for every 3 levels beyond 3rd. This replaces trap sense. An unchained rogue replaces danger sense instead.
+**Poison the Well (Ex)**: At 3rd level as a standard action, a swamp poisoner can smear the poison generated through the use of his toxic skin alternate racial trait onto the ground in a 5-foot area, instead of onto a weapon or his own body. The first creature other than the swamp poisoner to enter the area is exposed to the poison. The poison loses its potency after 1 hour. This area is considered a trap, and the DCs of Perception checks to notice it and Disable Device checks to disable it are equal to 10 + half the swamp poisoner's level + the swamp poisoner's Constitution modifier. The swamp poisoner also gains an extra use per day of his toxic skin alternate racial trait, plus one additional use per day for every 3 levels beyond 3rd. This replaces danger sense. An unchained rogue replaces danger sense instead.
 
 ## Needler
 
@@ -966,7 +968,7 @@ Students of arcane magic, legerdemain, and stealth, eldritch scoundrels are a ra
 
 **Spells**: An eldritch scoundrel casts arcane spells drawn from the wizard spell list. An eldritch scoundrel must choose and prepare her spells ahead of time. She learns, prepares, and casts spells exactly as a wizard does, including adding new spells to her spellbook and gaining two additional spells known (of any level she can cast) each time she gains a rogue level with this archetype. An eldritch scoundrel can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is the same as the magus class.
 
-**Alarm Sense (Su)**: At 3rd level, an eldritch scoundrel gains an intuitive sense that warns her when she is near a magic trap. This functions as the trap spotter rogue talent, but applies only if the eldritch scoundrel comes within 10 feet of a magic trap. This ability replaces trap sense.
+**Alarm Sense (Su)**: At 3rd level, an eldritch scoundrel gains an intuitive sense that warns her when she is near a magic trap. This functions as the trap spotter rogue talent, but applies only if the eldritch scoundrel comes within 10 feet of a magic trap. This ability replaces danger sense.
 
 **Sneak Attack (Ex)**: The eldritch scoundrel doesn't acquire the sneak attack class feature until 3rd level, when she gains a +1d6 sneak attack. This increases by 1d6 at 7th level, and again at every 4 rogue levels thereafter. This modifies the rogue's normal sneak attack progression.
 
@@ -1000,7 +1002,7 @@ Aquatic elven adventurers descending into sunken ruins developed techniques to e
 
 **Underwater Striker (Ex)**: At 4th level, a seeker of the lost gains the ability to strike precisely underwater. When a seeker of the lost makes a sneak attack with a melee weapon, the damage is not halved for being made underwater, as is usually the case for attacks that deal slashing or bludgeoning damage or, if the rogue is off-balance, attacks that deal piercing damage. In addition, when a seeker of the lost makes a sneak attack with a melee weapon against a construct, she ignores any hardness the construct has. This ability replaces uncanny dodge.
 
-**Wary Disarm (Ex)**: At 8th level, whenever a seeker of the lost attempts to disarm a trap using Disable Device, she does not spring the trap unless she fails by an amount equal to her rogue level or more. If she does set off a trap she was attempting to disarm, she doubles her trap sense bonus to avoid the trap. This ability replaces improved uncanny dodge.
+**Wary Disarm (Ex)**: At 8th level, whenever a seeker of the lost attempts to disarm a trap using Disable Device, she does not spring the trap unless she fails by an amount equal to her rogue level or more. If she does set off a trap she was attempting to disarm, she doubles her danger sense bonus to avoid the trap. This ability replaces improved uncanny dodge.
 
 **Rogue Talents**: The following rogue talents complement the seeker of the lost archetype: canny observer, strong stroke, terrain mastery (water), and trap spotter.
 
@@ -1012,7 +1014,7 @@ Shadow walkers are comfortable in light, darkness, and the shadows in between. F
 
 **Expanded Sight (Su)**: At 1st level, a shadow walker gains darkvision with a range of 30 feet. If she already has darkvision, the range of her darkvision increases by 10 feet. When the shadow walker reaches 3rd level, and every 2 rogue levels thereafter, the range of her darkvision increases by 10 feet. Also at 3rd level, the shadow walker loses the light sensitivity weakness, if she has it. If she has light blindness, she instead treats it as light sensitivity. This ability replaces trapfinding.
 
-**Illumination Control (Sp)**: At 3rd level, a shadow walker can manipulate nearby illumination. At the start of each day, a shadow walker gains a number of illumination points equal to half her rogue level and can spend illumination points to use certain spell-like abilities. As long as she has at least 1 illumination point, she can cast *light* at will. She can spend 2 illumination points to cast *darkness*, and 3 illumination points to cast *daylight*, *deeper darkness*, or [motes of dusk and dawn](../../magic/spells/motes-of-dusk-and-dawn.md). These spell-like abilities have a caster level equal to the shadow walker's rogue level. Using these spell-like abilities does not hamper the shadow walker's vision; for example, she can see through the *deeper darkness* she creates, and does not take penalties for light sensitivity in the area of her own *daylight*. This ability replaces the rogue talent gained at 2nd level and trap sense.
+**Illumination Control (Sp)**: At 3rd level, a shadow walker can manipulate nearby illumination. At the start of each day, a shadow walker gains a number of illumination points equal to half her rogue level and can spend illumination points to use certain spell-like abilities. As long as she has at least 1 illumination point, she can cast *light* at will. She can spend 2 illumination points to cast *darkness*, and 3 illumination points to cast *daylight*, *deeper darkness*, or [motes of dusk and dawn](../../magic/spells/motes-of-dusk-and-dawn.md). These spell-like abilities have a caster level equal to the shadow walker's rogue level. Using these spell-like abilities does not hamper the shadow walker's vision; for example, she can see through the *deeper darkness* she creates, and does not take penalties for light sensitivity in the area of her own *daylight*. This ability replaces the rogue talent gained at 2nd level and danger sense.
 
 **Favored Illumination (Su)**: At 4th level, a shadow walker chooses one illumination level: bright light, normal light, dim light, or darkness (including supernatural darkness). While she is within her chosen illumination level, she gains a +2 bonus on initiative checks and Acrobatics, Perception, and Sleight of Hand skill checks, and can take 10 on any Stealth check attempted within that illumination level. When the shadow walker confirms a critical hit with a melee attack that deals sneak attack damage while in her chosen illumination level, she regains 1 illumination point (to a maximum of half her rogue level). Confirming a critical hit on a creature that has fewer Hit Dice than half the shadow walker's character level doesn't restore illumination points. When the shadow walker reaches 6th level, and every 3 rogue levels thereafter, the bonuses she gains within her chosen illumination level increase by 1. This ability replaces the rogue's uncanny dodge and improved uncanny dodge.
 
@@ -1072,7 +1074,7 @@ Cities that protect the secrets of gunpowder and control the sale of firearms cr
 
 **Selective Targeting (Ex)**: A gun smuggler focuses on concealable firearms for her sneak attacks. When she makes a sneak attack using any weapon other than a coat pistol, dagger pistol, or sword cane pistol (either firing the weapon or making a melee attack), her sneak attack damage dice are d4s instead of d6s. This alters sneak attack.
 
-**Stolen Shots (Ex)**: At 3rd level, a gun smuggler can access small quantities of cutting-edge firearm technology through clandestine dealers. She gains the benefits of the black market connections rogue talent, though only for the purpose of securing firearms and related equipment. At the beginning of each day, the gun smuggler gains a number of bullets (with accompanying black powder) or paper cartridges (referred to as shots), in any combination, equal to her rogue level, representing ammunition smuggled to her by contacts. Her contacts provide only enough shots to replenish this small supply, so she can't accumulate ammunition indefinitely, and these shots have a market price of 0 gp. At 6th level, the gun smuggler can elect to gain one or more pieces of magic ammunition, though each one replaces a number of her daily shots equal to the ammunition's enhancement bonus (maximum enhancement bonus of +2 for any one piece of ammunition). She can choose to add any of the following weapon special abilities to the shot, though the shot must have at least a +1 enhancement bonus, and these special abilities use an amount of bonus equal to the ability's normal price: distance, flaming, flaming burst, merciful, seeking, or thundering. At 9th level and every 3 rogue levels thereafter, the maximum enhancement bonus of a gun smuggler's shots increases by 1 (to a maximum of +6 at 18th level). This replaces trap sense and the rogue talent gained at 6th level.
+**Stolen Shots (Ex)**: At 3rd level, a gun smuggler can access small quantities of cutting-edge firearm technology through clandestine dealers. She gains the benefits of the black market connections rogue talent, though only for the purpose of securing firearms and related equipment. At the beginning of each day, the gun smuggler gains a number of bullets (with accompanying black powder) or paper cartridges (referred to as shots), in any combination, equal to her rogue level, representing ammunition smuggled to her by contacts. Her contacts provide only enough shots to replenish this small supply, so she can't accumulate ammunition indefinitely, and these shots have a market price of 0 gp. At 6th level, the gun smuggler can elect to gain one or more pieces of magic ammunition, though each one replaces a number of her daily shots equal to the ammunition's enhancement bonus (maximum enhancement bonus of +2 for any one piece of ammunition). She can choose to add any of the following weapon special abilities to the shot, though the shot must have at least a +1 enhancement bonus, and these special abilities use an amount of bonus equal to the ability's normal price: distance, flaming, flaming burst, merciful, seeking, or thundering. At 9th level and every 3 rogue levels thereafter, the maximum enhancement bonus of a gun smuggler's shots increases by 1 (to a maximum of +6 at 18th level). This replaces danger sense and the rogue talent gained at 6th level.
 
 **Uncanny Aim (Ex)**: At 4th level, a gun smuggler increases the range increment of any coat pistol, dagger pistol, or sword cane pistol she wields by 10 feet. At 8th level, the base damage of bullets fired by these weapons increases by one die step. This replaces uncanny dodge and improved uncanny dodge.
 
@@ -1080,7 +1082,7 @@ Cities that protect the secrets of gunpowder and control the sale of firearms cr
 
 Smugglers specialize in moving contraband from one area to another while avoiding detection by authorities. Sometimes the cargo is illegal goods; other times a smuggler hides legal goods to avoid duties or taxes, or helps smuggle escaped slaves to freedom.
 
-**Bribery**: At 3rd level, when dealing with officials working at a checkpoint, conducting an inspection, or performing a similar activity, a smuggler can make a Diplomacy check opposed by the presiding official's Sense Motive check to ensure her contraband makes it through. She gains a +1 bonus on this check. On a success, the smuggler pays a small bribe (5d4 gp) to guarantee her cargo remains undisturbed. The bonus rises to +2 at 6th level, +3 at 9th, +4 at 12th, +5 at 15th, and +6 at 18th. This ability replaces trap sense.
+**Bribery**: At 3rd level, when dealing with officials working at a checkpoint, conducting an inspection, or performing a similar activity, a smuggler can make a Diplomacy check opposed by the presiding official's Sense Motive check to ensure her contraband makes it through. She gains a +1 bonus on this check. On a success, the smuggler pays a small bribe (5d4 gp) to guarantee her cargo remains undisturbed. The bonus rises to +2 at 6th level, +3 at 9th, +4 at 12th, +5 at 15th, and +6 at 18th. This ability replaces danger sense.
 
 **Conceal Item**: A smuggler adds 1/2 her level on Sleight of Hand checks (minimum +1). She can use Sleight of Hand to conceal a small item in a container or room, such as a false bottom of a chest or beneath floorboards. Anyone attempting to find it makes a Perception check opposed by the Sleight of Hand check made when she concealed the object. This ability replaces trapfinding.
 
@@ -1094,7 +1096,7 @@ Smugglers specialize in moving contraband from one area to another while avoidin
 
 **Quicker Than the Eye (Ex)**: At 2nd level, when the card swindler uses Sleight of Hand, creatures take a penalty on their Perception checks equal to half the swindler's class level to notice the attempt. The swindler also reduces the normal –20 penalty by an amount equal to her class level when attempting a Sleight of Hand check as a move action instead of as a standard action. Lastly, the swindler can draw hidden weapons or objects from her person as a move action instead of the usual standard action. This ability replaces evasion.
 
-**Poker Face (Ex)**: At 3rd level, the card swindler gains a +1 bonus on Bluff, Profession (gambler), and Sense Motive checks. This bonus increases by 1 for every 3 levels beyond 3rd. The card swindler can also attempt to feint against non-humanoid targets without penalty, though she still takes a –8 penalty on feint attempts against creatures with animal Intelligence and she cannot feint against mindless creatures. This ability replaces trap sense.
+**Poker Face (Ex)**: At 3rd level, the card swindler gains a +1 bonus on Bluff, Profession (gambler), and Sense Motive checks. This bonus increases by 1 for every 3 levels beyond 3rd. The card swindler can also attempt to feint against non-humanoid targets without penalty, though she still takes a –8 penalty on feint attempts against creatures with animal Intelligence and she cannot feint against mindless creatures. This ability replaces danger sense.
 
 **No Fool (Ex)**: At 4th level, the card swindler gains a +1 bonus on Will saving throws. This bonus increases by 1 for every 4 levels beyond 4th (to a maximum of +5 at 20th level). This ability replaces uncanny dodge.
 
@@ -1159,7 +1161,7 @@ This replaces the ninja trick gained at 2nd level.
 
 **Fast Talker (Ex)**: A discretion specialist adds half her rogue level (minimum +1) as a bonus on Bluff, Diplomacy, and Intimidate checks. This replaces trapfinding.
 
-**Obfuscation (Su)**: A discretion specialist is highly skilled at convincing others not to trust their own senses. At 3rd level as a full-round action, the discretion specialist can convince one living creature within 30 feet that up to 5 minutes of its memories from the past hour are unreliable. If the target fails a Will saving throw (DC = 10 + half the discretion specialist's rogue level + her Intelligence modifier), the target is convinced that those memories didn't happen or that it's confusing the memories with a dream (or is otherwise hazy as to the memories' reality). Each hour after the discretion specialist uses this ability, the target can attempt a new Will saving throw to realize that its relevant memories have been tampered with, although not necessarily that the discretion specialist was the originator of the tampering. The discretion specialist can use this ability once per day, and one additional time per day for every 5 rogue levels she has. At 6th level and every 3 levels thereafter, the discretion specialist can obfuscate memories from an additional hour in the past (to a maximum of 6 hours at 18th level). This replaces trap sense (for a core rogue) or danger sense (for an unchained rogue).
+**Obfuscation (Su)**: A discretion specialist is highly skilled at convincing others not to trust their own senses. At 3rd level as a full-round action, the discretion specialist can convince one living creature within 30 feet that up to 5 minutes of its memories from the past hour are unreliable. If the target fails a Will saving throw (DC = 10 + half the discretion specialist's rogue level + her Intelligence modifier), the target is convinced that those memories didn't happen or that it's confusing the memories with a dream (or is otherwise hazy as to the memories' reality). Each hour after the discretion specialist uses this ability, the target can attempt a new Will saving throw to realize that its relevant memories have been tampered with, although not necessarily that the discretion specialist was the originator of the tampering. The discretion specialist can use this ability once per day, and one additional time per day for every 5 rogue levels she has. At 6th level and every 3 levels thereafter, the discretion specialist can obfuscate memories from an additional hour in the past (to a maximum of 6 hours at 18th level). This replaces danger sense (for a core rogue) or danger sense (for an unchained rogue).
 
 **Evidence Disposal (Sp)**: A discretion specialist can cover up a corpse's cause of death—or dispose of it entirely. At 4th level, the discretion specialist gains the ability to cast *dress corpse* as a spell-like ability, using her rogue level as her caster level. She can use this ability once per day, plus one additional time per day for every 5 rogue levels she has (to a maximum of five times at 20th level). At 12th level, she can spend two uses of this ability to disintegrate a corpse entirely as a full-round action, leaving behind only a trace of fine dust (a disintegrated creature's equipment is unaffected). The target cannot be an undead creature. A corpse disintegrated this way cannot be brought back to life except by *resurrection* or more powerful magic, including *miracle* or *wish*. This replaces the rogue talents gained at 4th and 12th levels.
 
@@ -1184,13 +1186,13 @@ The construct saboteur harnesses arcane energy to combat the golems and eldritch
 - **Overwhelming Jolt**: The construct is staggered for 1 round. A Will save negates.
 - **Slowing Pulse**: The construct's speed is reduced by 5 feet for a number of rounds equal to her Intelligence modifier. She can forgo 1d6 of sneak attack damage to reduce speed by an additional 5 feet per die forgone, but not below 5 feet. A Reflex save reduces the duration to 1 round.
 
-**Dismantling Strikes (Ex)**: At 3rd level, she ignores the first 2 points of damage reduction or hardness when attacking constructs. This increases by 2 every 3 levels after 3rd, to 12 points at 18th level. This replaces trap sense.
+**Dismantling Strikes (Ex)**: At 3rd level, she ignores the first 2 points of damage reduction or hardness when attacking constructs. This increases by 2 every 3 levels after 3rd, to 12 points at 18th level. This replaces danger sense.
 
 ## Planar Sneak
 
 A planar sneak finds creative ways to defy conventional limitations when trying to overcome extraplanar obstacles.
 
-**Planar Sense (Ex)**: At 3rd level, a planar sneak gains a +1 bonus on saving throws against all effects with the air, chaos, earth, evil, fire, good, law, or water descriptors. This bonus increases by 1 for every 3 rogue levels thereafter (maximum +6 at 18th level). This replaces trap sense.
+**Planar Sense (Ex)**: At 3rd level, a planar sneak gains a +1 bonus on saving throws against all effects with the air, chaos, earth, evil, fire, good, law, or water descriptors. This bonus increases by 1 for every 3 rogue levels thereafter (maximum +6 at 18th level). This replaces danger sense.
 
 **Elemental Execution (Su)**: At 4th level, a planar sneak treats creatures with the elemental subtype as though they were vulnerable to her sneak attack, but she deals only half as much sneak attack damage as normal. She can confirm critical hits against such creatures, though 50% of the time the critical hit is automatically negated and damage is rolled normally. At 8th level, this ability also applies to all outsiders otherwise immune to critical hits and sneak attack damage. This replaces uncanny dodge and improved uncanny dodge.
 
@@ -1202,7 +1204,7 @@ One of the many ethnicities found in the southern jungle, one people are slavers
 
 **Clean Capture (Ex)**: At 1st level, a Slaver kidnapper reduces the penalty to her combat maneuver check to tie up a pinned or otherwise restrained target by an amount equal to 1/2 her rogue level. In addition, she can take the feats Improved Grapple and Greater Grapple as rogue talents. She can ignore the Improved Unarmed Strike requirement when selecting these feats as rogue talents, but must meet all other prerequisites. This ability replaces trapfinding.
 
-**Abductor (Ex)**: At 3rd level, a Slaver kidnapper gains a +1 bonus on combat maneuver checks to grapple a foe. In addition, the Slaver kidnapper treats her combat maneuver bonus as 1 higher when a foe tries to grapple her or when a grappled target attempts to break free of her grapple. These bonuses increase by 1 for every 3 levels beyond 3rd. This ability replaces trap sense.
+**Abductor (Ex)**: At 3rd level, a Slaver kidnapper gains a +1 bonus on combat maneuver checks to grapple a foe. In addition, the Slaver kidnapper treats her combat maneuver bonus as 1 higher when a foe tries to grapple her or when a grappled target attempts to break free of her grapple. These bonuses increase by 1 for every 3 levels beyond 3rd. This ability replaces danger sense.
 
 **Rogue Talents**: The following rogue talents complement the Slaver kidnapper archetype: black market connections, camouflage, combat trick, rope master, survivalist, and terrain mastery.
 
@@ -1214,7 +1216,7 @@ The sight of yellow sails on the central sea signals the approach of a ship from
 
 **Bond Breaker (Ex)**: An Slaver Port liberator adds 1/2 her class level to Escape Artist checks, and never takes a penalty on Disable Device checks when using improvised tools to open locks. This ability replaces trapfinding.
 
-**Covert Commander (Ex)**: An Slaver Port liberator grants all allies within 30 feet who are in her line of sight (but not herself ) a +1 competence bonus on Disguise and Stealth checks. This bonus increases by 1 for every 3 levels beyond 3rd. This ability replaces trap sense.
+**Covert Commander (Ex)**: An Slaver Port liberator grants all allies within 30 feet who are in her line of sight (but not herself ) a +1 competence bonus on Disguise and Stealth checks. This bonus increases by 1 for every 3 levels beyond 3rd. This ability replaces danger sense.
 
 **Catch Off-Guard (Ex)**: At 4th level, the Slaver Port liberator is adept at improvising weapons. She gains Catch Off-Guard as a bonus feat. This ability replaces uncanny dodge.
 

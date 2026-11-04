@@ -48,7 +48,11 @@ As with armor, special abilities built into the shield add to the market value i
 
 ## Magic Armor and Shield Special Ability Descriptions
 
-Most magic armor and shields only have enhancement bonuses. Such items can also have one or more of the special abilities detailed below. Armor or a shield with a special ability must have at least a +1 enhancement bonus.
+Most magic armor and shields only have enhancement bonuses. Such items can also have one or more of the special abilities detailed below. Armor or a shield with a special ability doesn’t need an enhancement bonus; a +0 item with a +1 special ability costs the same as a +1 item.
+
+??? note "Original rule"
+
+    Most magic armor and shields only have enhancement bonuses. Such items can also have one or more of the special abilities detailed below. Armor or a shield with a special ability must have at least a +1 enhancement bonus.
 
 **Animated**: As a move action, an animated shield can be loosed to defend its wielder on its own. For the following 4 rounds, the shield grants its bonus to the one who loosed it and then drops. While animated, the shield provides its shield bonus and the bonuses from all of the other shield special abilities it possesses, but it cannot take actions on its own, such as those provided by the bashing and blinding abilities. It can, however, use special abilities that do not require an action to function, such as arrow deflection and reflecting. While animated, a shield shares the same space as the activating character and accompanies the character who activated it, even if the character moves by magical means. A character with an animated shield still takes any penalties associated with shield use, such as armor check penalty, arcane spell failure chance, and nonproficiency. If the wielder who loosed it has an unoccupied hand, she can grasp it to end its animation as a free action. Once a shield has been retrieved, it cannot be animated again for at least 4 rounds. This property cannot be added to a tower shield.
 
@@ -69,6 +73,10 @@ Most magic armor and shields only have enhancement bonuses. Such items can also 
 **Blinding**: A shield with this ability flashes with a brilliant light up to twice per day upon command of the wielder. Except for the wielder, anyone within 20 feet must make a DC 14 Reflex save or be blinded for 1d4 rounds.
 
 *Moderate evocation; CL 7th; Craft Magic Arms and Armor, searing light; Price +1 bonus.*
+
+**Bulletproof**: Armor with this ability grants a +4 bonus to AC against firearms. In older settings, before the invention of modern bulletproof materials, this bonus may be +2 instead.
+
+*Faint abjuration; CL 5th; Craft Magic Arms and Armor, *shield*; Price +1 bonus.*
 
 **Energy Resistance**: A suit of armor or a shield with this property protects against one type of energy (acid, cold, electricity, fire, or sonic) and is designed with patterns depicting the element it protects against. The armor absorbs the first 10 points of energy damage per attack that the wearer would normally take (similar to the resist energy spell).
 
@@ -148,7 +156,11 @@ Strong abjuration and evocation (if miracle is used); CL 18th; Craft Magic Arms 
 
 **Wild**: The wearer of a suit of armor or a shield with this ability preserves his armor bonus (and any enhancement bonus) while in a wild shape. Armor and shields with this ability usually appear to be covered in leaf patterns. While the wearer is in a wild shape, the armor cannot be seen.
 
-*Moderate transmutation; CL 9th; Craft Magic Arms and Armor, baleful polymorph; Price +3 bonus.*
+*Moderate transmutation; CL 9th; Craft Magic Arms and Armor, baleful polymorph; Price +1 bonus.*
+
+??? note "Original rule"
+
+    Price +3 bonus.
 
 Specific Armors
 
@@ -170,7 +182,7 @@ Specific Armors
 | — | 80–84 | 34–35 | Invulnerability | +3 bonus¹ |
 | — | 85–89 | 36–40 | Fortification, moderate | +3 bonus¹ |
 | — | 90–94 | 41–42 | Spell resistance (15) | +3 bonus¹ |
-| — | 95–99 | 43 | Wild | +3 bonus¹ |
+| — | 95–99 | 43 | Wild | +1 bonus¹ |
 | — | — | 44–48 | Slick, greater | +33,750 gp |
 | — | — | 49–58 | Shadow, greater | +33,750 gp |
 | — | — | 59–83 | Energy resistance, improved | +42,000 gp |
@@ -200,7 +212,7 @@ Specific Armors
 | — | 80–85 | 42–46 | Ghost touch | +3 bonus¹ |
 | — | 86–95 | 47–56 | Fortification, moderate | +3 bonus¹ |
 | — | 96–98 | 57–58 | Spell resistance (15) | +3 bonus¹ |
-| — | 99 | 59 | Wild | +3 bonus¹ |
+| — | 99 | 59 | Wild | +1 bonus¹ |
 | — | — | 60–84 | Energy resistance, improved | +42,000 gp |
 | — | — | 85–86 | Spell resistance (17) | +4 bonus¹ |
 | — | — | 87 | Undead controlling | +49,000 gp |

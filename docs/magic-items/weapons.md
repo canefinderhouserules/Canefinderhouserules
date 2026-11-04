@@ -54,7 +54,11 @@ Ammunition fired from a projectile weapon with an enhancement bonus of +1 or hig
 
 ## Magic Weapon Special Ability Descriptions
 
-A weapon with a special ability must also have at least a +1 enhancement bonus.
+A weapon with a special ability doesn’t need an enhancement bonus. A +0 *flaming* weapon costs the same as a +1 weapon and gives no bonus on attack or damage rolls.
+
+??? note "Original rule"
+
+    A weapon with a special ability must also have at least a +1 enhancement bonus.
 
 **Anarchic**: An anarchic weapon is infused with the power of chaos. It makes the weapon chaotically aligned and thus bypasses the corresponding damage reduction. It deals an extra 2d6 points of damage against all creatures of lawful alignment. It bestows one permanent negative level on any lawful creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level cannot be overcome in any way (including restoration spells) while the weapon is wielded.
 
@@ -146,7 +150,11 @@ Even if the frost ability is not active, the weapon still deals its extra cold d
 
 *Faint conjuration; CL 5th; Craft Magic Arms and Armor, cure light wounds; Price +1 bonus.*
 
-**Mighty Cleaving**: A mighty cleaving weapon allows a wielder using the Cleave feat to make one additional attack if the first attack hits, as long as the next foe is adjacent to the first and also within reach. This additional attack cannot be against the first foe. Only melee weapons can be mighty cleaving weapons.
+**Mighty Cleaving**: A mighty cleaving weapon allows a wielder using the Cleave feat to affect 1 additional square. Only melee weapons can be mighty cleaving weapons.
+
+??? note "Original rule"
+
+    **Mighty Cleaving**: A mighty cleaving weapon allows a wielder using the Cleave feat to make one additional attack if the first attack hits, as long as the next foe is adjacent to the first and also within reach. This additional attack cannot be against the first foe. Only melee weapons can be mighty cleaving weapons.
 
 *Moderate evocation; CL 8th; Craft Magic Arms and Armor, divine power; Price +1 bonus.*
 

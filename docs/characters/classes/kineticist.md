@@ -24,19 +24,19 @@ The kineticist’s class skills are Acrobatics (Dex), Craft (Int), Heal (Wis), I
 | 2nd | +1 | +3 | +3 | +0 | Elemental defense, utility wild talent |
 | 3rd | +2 | +3 | +3 | +1 | Elemental overflow +1, infusion |
 | 4th | +3 | +4 | +4 | +1 | Utility wild talent |
-| 5th | +3 | +4 | +4 | +1 | Infusion, infusion specialization 1, metakinesis (empower) |
+| 5th | +3 | +4 | +4 | +1 | Infusion, infusion specialization 1, metakinesis |
 | 6th | +4 | +5 | +5 | +2 | Elemental overflow +2, internal buffer 1, utility wild talent |
 | 7th | +5 | +5 | +5 | +2 | Expanded element |
 | 8th | +6/+1 | +6 | +6 | +2 | Infusion specialization 2, utility wild talent |
-| 9th | +6/+1 | +6 | +6 | +3 | Elemental overflow +3, infusion, metakinesis (maximize) |
+| 9th | +6/+1 | +6 | +6 | +3 | Elemental overflow +3, infusion, metakinesis |
 | 10th | +7/+2 | +7 | +7 | +3 | Utility wild talent |
 | 11th | +8/+3 | +7 | +7 | +3 | Infusion, infusion specialization 3, internal buffer 2, supercharge |
 | 12th | +9/+4 | +8 | +8 | +4 | Elemental overflow +4, utility wild talent |
-| 13th | +9/+4 | +8 | +8 | +4 | Infusion, metakinesis (quicken) |
+| 13th | +9/+4 | +8 | +8 | +4 | Infusion, metakinesis |
 | 14th | +10/+5 | +9 | +9 | +4 | Infusion specialization 4, utility wild talent |
 | 15th | +11/+6/+1 | +9 | +9 | +5 | Expanded element, elemental overflow +5 |
 | 16th | +12/+7/+2 | +10 | +10 | +5 | Composite specialization, internal buffer 3, utility wild talent |
-| 17th | +12/+7/+2 | +10 | +10 | +5 | Infusion, infusion specialization 5, metakinesis (twice) |
+| 17th | +12/+7/+2 | +10 | +10 | +5 | Infusion, infusion specialization 5, metakinesis |
 | 18th | +13/+8/+3 | +11 | +11 | +6 | Elemental overflow +6, utility wild talent |
 | 19th | +14/+9/+4 | +11 | +11 | +6 | Infusion, metakinetic master |
 | 20th | +15/+10/+5 | +12 | +12 | +6 | Infusion specialization 6, omnikinesis, utility wild talent |
@@ -47,7 +47,11 @@ The following are the class features of the kineticist.
 
 **Weapon and Armor Proficiency**: Kineticists are proficient with all simple weapons and light armor, but not shields.
 
-**Elemental Focus (Su)**: At 1st level, a kineticist chooses one primary element on which to focus. This element determines how she accesses the raw power of the Ethereal Plane, and grants her access to specific wild talents (see below) and additional class skills. She can select aether (telekinesis), air (aerokinesis), earth (geokinesis), fire (pyrokinesis), or water (hydrokinesis). She gains her selected element’s basic utility wild talent (basic telekinesis, basic aerokinesis, basic geokinesis, basic pyrokinesis, or basic hydrokinesis) as a bonus wild talent. See Elements for the specific abilities granted by each element.
+**Elemental Focus (Su)**: At 1st level, a kineticist chooses one primary element on which to focus. This element determines how she accesses the raw power of the Ethereal Plane, and grants her access to specific wild talents (see below) and additional class skills. She can select aether (telekinesis), air (aerokinesis), earth (geokinesis), fire (pyrokinesis), or water (hydrokinesis). A geokineticist can choose acid blast (see Earth). She gains her selected element’s basic utility wild talent (basic telekinesis, basic aerokinesis, basic geokinesis, basic pyrokinesis, or basic hydrokinesis) as a bonus wild talent. See Elements for the specific abilities granted by each element.
+
+??? note "Original rule"
+
+    **Elemental Focus (Su)**: At 1st level, a kineticist chooses one primary element on which to focus. This element determines how she accesses the raw power of the Ethereal Plane, and grants her access to specific wild talents (see below) and additional class skills. She can select aether (telekinesis), air (aerokinesis), earth (geokinesis), fire (pyrokinesis), or water (hydrokinesis). She gains her selected element’s basic utility wild talent (basic telekinesis, basic aerokinesis, basic geokinesis, basic pyrokinesis, or basic hydrokinesis) as a bonus wild talent. See Elements for the specific abilities granted by each element.
 
 **Wild Talents**: A kineticist can use wild talents—magical abilities similar to spells but drawn from the kineticist’s innate psychic talent and usable at will. Wild talents are typically spell-like abilities (though some are supernatural abilities), and take a standard action to use unless otherwise noted. A wild talent always has the elemental descriptor or descriptors (aether, air, earth, fire, or water) matching its Element entry. A wild talent that can be used with any of several elements gains the appropriate elemental descriptor when used with an element. For example, the wall wild talent gains the earth descriptor when used by a geokineticist. Every wild talent has an effective spell level. A kineticist can always select 1st-level wild talents, but she can select a wild talent of a higher level only if her kineticist level is at least double the wild talent’s effective spell level. Kinetic blast and defense wild talents are always considered to have an effective spell level equal to 1/2 the kineticist’s class level (to a maximum effective spell level of 9th at kineticist level 18th). Unless otherwise noted, the DC for a saving throw against a wild talent is equal to 10 + the wild talent’s effective spell level + the kineticist’s Constitution modifier. The kineticist uses her Constitution modifier on all concentration checks for wild talents.
 
@@ -60,6 +64,8 @@ overexert herself to channel more power than normal, pushing past the limit of w
 **Kinetic Blast (Sp)**: At 1st level, a kineticist gains a kinetic blast wild talent of her choice. This kinetic blast must be a simple blast that matches her element.
 
 As a standard action, the kineticist can unleash a kinetic blast at a single target up to a range of 30 feet. She must have at least one hand free to aim the blast (or one prehensile appendage, if she doesn’t have hands). All damage from a kinetic blast is treated as magic for the purpose of bypassing damage reduction. Kinetic blasts count as a type of weapon for the purpose of feats such as Weapon Focus. The kineticist is never considered to be wielding or gripping the kinetic blast (regardless of effects from form infusions; see Infusion), and she can’t use Vital Strike feats with kinetic blasts. Even the weakest kinetic blast involves a sizable mass of elemental matter or energy, so kinetic blasts always deal full damage to swarms of any size (though only area blasts deal extra damage to swarms). A readied kinetic blast can be used to counterspell any spell of equal or lower level that shares its descriptor. A kinetic blast that deals energy damage of any type (including force) has the corresponding descriptor. The various kinetic blasts, as well as additional rules for simple blasts, are described under Wild Talents below.
+
+A kinetic blast counts as a spell of the evocation school for effects that modify spells, and it still adds elemental overflow. Effects that increase a spell’s save DC also increase its DC, and a bonus that applies to one specific spell can apply to kinetic blast. Bonuses to caster level also increase its damage: a blast gains another damage die for every 2 caster levels, so a +4 bonus to caster level with fire adds 2 dice to a fire blast.
 
 **Gather Power (Su)**: If she has both hands free (or all of her prehensile appendages free, for unusual kineticists), a kineticist can gather energy or elemental matter as a move action. Gathering power creates an extremely loud, visible display in a 20-foot radius centered on the kineticist, as the energy or matter swirls around her. Gathering power in this way allows the kineticist to reduce the total burn cost of a blast wild talent she uses in the same round by 1 point. The kineticist can instead gather power for 1 full round in order to reduce the total burn cost of a blast wild talent used on her next turn by 2 points (to a minimum of 0 points). If she does so, she can also gather power as a move action during her next turn to reduce the burn cost by a total of 3 points. If the kineticist takes damage during or after gathering power and before using the kinetic blast that releases it, she must succeed at a concentration check (DC = 10 + damage taken + effective spell level of her kinetic blast) or lose the energy in a wild surge that forces her to accept a number of points of burn equal to the number of points by which her gathered power would have reduced the burn cost. This ability can never reduce the burn cost of a wild talent below 0 points.
 
@@ -75,7 +81,13 @@ The descriptions of infusions begin.
 
 **Infusion Specialization (Ex)**: At 5th level, whenever a kineticist uses one or more infusions with a blast, she reduces the combined burn cost of the infusions by 1. This can’t reduce the total cost of the infusions used below 0. She reduces the burn cost by 1 additional point at 8th, 11th, 14th, 17th, and 20th levels.
 
-**Metakinesis (Su)**: At 5th level, a kineticist gains the ability to alter her kinetic blasts as if with metamagic feats by accepting burn. By accepting 1 point of burn, she can empower her kinetic blast (as if using Empower Spell). At 9th level, by accepting 2 points of burn, she can maximize her kinetic blast as if using Maximize Spell. At 13th level, by accepting 3 points of burn, she can quicken her kinetic blast as if using Quicken Spell. At 17th level, by accepting 4 points of burn, the kineticist can use her kinetic blast twice with the same standard action, or swift action if she also uses metakinesis to quicken the blast. When she uses a double kinetic blast, all modifications, such as metakinesis and infusions, apply to both of the blasts, but the kineticist needs to pay the burn cost only once.
+**Metakinesis (Su)**: At 5th level, a kineticist learns to apply metamagic to her kinetic blasts. She gains metamagic feats of her choice as bonus feats, without needing to meet their prerequisites: either 1 feat of the Powerful category, 2 of the Common category, or 3 of the Trait category (see [Metamagic](../options/metamagic.md)). She gains this benefit again at 9th, 13th, and 17th levels.
+
+The kineticist can apply any metamagic feat she has to her kinetic blast. Instead of increasing a spell level, she accepts 1 point of burn for each +1 level the feat would add. The Metamagic Mastery trait reduces this burn cost as it would reduce the level increase. An archetype that replaces metakinesis (empower, maximize, quicken, or twice) instead replaces the benefit gained at 5th, 9th, 13th, or 17th level, respectively.
+
+??? note "Original rule"
+
+    **Metakinesis (Su)**: At 5th level, a kineticist gains the ability to alter her kinetic blasts as if with metamagic feats by accepting burn. By accepting 1 point of burn, she can empower her kinetic blast (as if using Empower Spell). At 9th level, by accepting 2 points of burn, she can maximize her kinetic blast as if using Maximize Spell. At 13th level, by accepting 3 points of burn, she can quicken her kinetic blast as if using Quicken Spell. At 17th level, by accepting 4 points of burn, the kineticist can use her kinetic blast twice with the same standard action, or swift action if she also uses metakinesis to quicken the blast. When she uses a double kinetic blast, all modifications, such as metakinesis and infusions, apply to both of the blasts, but the kineticist needs to pay the burn cost only once.
 
 **Internal Buffer (Su)**: At 6th level, a kineticist’s study of her body and the elemental forces that course through it allow her to form an internal buffer to store extra energy. The buffer starts empty and doesn’t replenish each day, but the kineticist can accept 1 point of burn to add 1 point to the buffer as a full-round action, to a maximum of 1 point total. This maximum increases to 2 points at 11th level and to 3 points at 16th level. Once the kineticist adds points to her buffer, they remain indefinitely until she spends them. When she would otherwise accept burn, a kineticist can spend 1 point from her buffer to avoid accepting 1 point of burn. She cannot spend more than 1 point from her buffer in this way for a single wild talent. Points spent from the internal buffer don’t activate elemental overflow or add to its effects. Similarly, this buffer can be used to exceed the limit on the number of points of burn the kineticist can accept in a single turn.
 
@@ -89,7 +101,11 @@ If the kineticist chooses to expand her understanding of an element she already 
 
 **Composite Specialization (Su)**: At 16th level, a kineticist becomes more adept at creating composite blasts. She reduces the burn cost of all composite blasts by 1 point. This can’t reduce the cost of a composite blast below 0 points.
 
-**Metakinetic Master (Su)**: At 19th level, a kineticist chooses one type of metakinesis, such as empower or quicken. She reduces the burn cost of that metakinesis by 1 point (to a minimum of 0 points).
+**Metakinetic Master (Su)**: At 19th level, a kineticist chooses one metamagic feat she can apply with metakinesis. She reduces the burn cost of that feat by 1 point (to a minimum of 0 points).
+
+??? note "Original rule"
+
+    **Metakinetic Master (Su)**: At 19th level, a kineticist chooses one type of metakinesis, such as empower or quicken. She reduces the burn cost of that metakinesis by 1 point (to a minimum of 0 points).
 
 **Omnikinesis (Su)**: At 20th level, a kineticist transcends the distinction between the different elements and can bend all creation to her will. By accepting 1 point of burn (in addition to any burn requirement of the kinetic blast she chooses), she can use any blast wild talent she doesn’t know. By accepting 1 point of burn as a standard action, she can change any of her wild talents into any other wild talent of the same category (such as simple blasts or defense) for 24 hours, ignoring any elemental requirements or restrictions (but not any other requirements or restrictions).
 
@@ -119,6 +135,8 @@ Kineticists who focus on the element of earth are called geokineticists. Geokine
 
 **Class Skills**: A geokineticist adds Climb and Knowledge (dungeoneering) to her list of class skills.
 
+**Simple Blast**: A geokineticist chooses earth blast or acid blast as her simple blast, as a hydrokineticist chooses water blast or cold blast. She must select earth again with expanded element to gain the other, and having both grants her the corrosive composite blast. A geokineticist with acid blast can select any fire or water wild talent that lists acid among its associated blasts as if it were an earth wild talent.
+
 **Wild Talents**: 1st—basic geokinesis, earth walk, kinetic cover, pushing infusion†; 2nd—bowling infusion†, earth climb, entangling infusion†; 3rd—impale†, jagged flesh, magnetic infusion†, rare-metal infusion†, tremorsense; 4th—enduring earth, shift earth; 5th—earth glide, stone sculptor, tremorsense (greater); 6th—deadly earth†; 7th—fragmentation†, shift earth (greater); 9th—seismic master.
 
 ### Fire
@@ -147,69 +165,3 @@ The following wild talents are available to all kineticists.
 
 The full list of wild talents (simple, utility, infusion and substance infusions, blasts and form infusions by element) is on the [Kineticist Wild Talents](kineticist-wild-talents.md) page.
 
-## House Rules
-
-!!! warning "House rule"
-    \- Kinetic Blade lets you choose a weapon, which can even be two-handed and benefit from ×1.5 damage and all the details of the weapon itself, except for its damage, critical range and multiplier, and flail effect. It can even be 2 weapons or a double weapon used with dual wielding, but this halves its damage (if you only have 1d6, it becomes 1d3). This does not halve bonuses (the off-hand weapon’s bonus is still halved as normal, unless you have Double Slice), only the number of dice, half for each weapon. It requires proficiency (that is, you can only turn your kinetic blade into a weapon you are proficient with).
-
-    \- Kinetic Whip simply gives +5 ft. of reach to the weapon you choose to use.
-
-    \- There is an equivalent to the *amulet of mighty fists*, let’s call it the “Amulet of Kinetic Blast”, which does the same as the *amulet of mighty fists* but specifically for kinetic blast. It only works for physical blasts.
-
-    \- Caster level bonuses also work for the kineticist (the logic being that the blast improves every 2 caster levels, so if you manage to steal +4 fire caster levels, your fire blast gets +2d6). Its school counts as evocation. Things that increase the DC also affect it. Bonuses to 1 specific spell essentially affect “kinetic blast”. In short, it now counts as a spell. To count as a spell, it must still be able to add its elemental overflow.
-
-    \- Kinetic Fist (Wild Talent): Now 1d6 + 1d6 every 3 damage dice (1-5-11-etc).
-
-    \- Energized Weapons (Wild Talent): Now 1d6 + 1d6 every 4 damage dice (1-7-15-etc).
-
-    \- Metakinesis lets you choose any metamagic you want, at 1 burn per +1 spell level to use it. The Metamagic Master trait works for them. (They follow the same logic as a metamagic feat: 1 powerful, 2 common, or 3-4 traits each time they get metakinesis.)
-
-    \- Aether does not damage what it uses when using it for a blast.
-
-    \- Force Blast deals composite damage but with d4 instead of d6 (instead of the damage of a simple blast).
-
-    \- Thunderstorm Blast is now a composite energy blast.
-
-    \- Earth has Acid as an energy blast element option (it can use all water talents, and possibly some fire ones, given acid burns).
-
-    \- Earth + Acid is a composite physical blast dealing half damage of each, like any other common composite blast.
-
-    \- Positive and Negative Admixture no longer exist; they are now composite energy blasts, of double positive and double negative respectively.
-
-    \- Any positive blast heals, but you must spend at least 1 burn; otherwise it only damages undead. The same applies to negative. Both increase their die to 1d8, since they are commonly resisted by essentially half of all enemies.
-
-    \- The few infusions (such as disintegrating) that double damage no longer double it, but increase the die by one step instead (if it is d4, it becomes d6; if it is d6, it becomes d8; and so on).
-
-    \- Archetypes:
-
-    -- Aquakineticist: Same, but its damage increases to 1d8.
-
-    -- Arakineticist: Its damage increases to 1d10, only for negative blast or double negative blast.
-
-    -- Blightburner: Its blast is a unique one called Radiation Blast, an energy blast dealing 1d4, but its damage is untyped/radiation. Its blightburn damage is also radiation, and its aura starts with a 5-ft. radius and grows by 5 ft. each time it would normally increase. It has access to fire talents instead of earth talents. It has a composite blast dealing 2d4, also radiation.
-
-    -- Blighted Defiler: Can use its defiling ability 3 times per area instead of 1.
-
-    -- Blood Kineticist: Wrack lowers the die to 1d4 instead of halving the damage. Bleeding Infusion costs only 1 burn.
-
-    -- Dark Elementalist: Consuming souls is a move action instead of a full-round action, and they can do it to creatures with at least half their CR. The GM may allow CR 0-1 civilians if they are people of pure soul, and shady things like that. They count as 3 levels higher for elemental overflow.
-
-    -- Elemental Annihilator: Its damage is no longer 1d8, but the same as the normal weapon.
-
-    -- Elemental Purist: At 7th level its damage increases, raising the die by 2 steps: from 1d6 to 1d8, from 1d8 to 1d10, and so on.
-
-    -- Elysiokineticist: Elysian Infusion costs them 0 burn. They get Ghaelelight Blast at 7th level; it is a composite energy blast dealing 2d4 instead of 2d6. At 15th level it increases to 2d8.
-
-    -- Ioun Kineticist: Counts as a crafter for ioun stones, at half the cost. Starts with 1,000 gp in ioun stones, and each time it gains an ioun stone it gains 1,000 gp more. Obviously, its blast does not damage the stone. They gain the resonant power of 2 stones per 3 burn. Ioun Buffer changes the prices to 1,000, 3,000, and 5,000, respectively.
-
-    -- Kinetic Chirurgeon: Its kinetic healer increases the die by one step (if water, from 1d6 to 1d8; if positive, from 1d8 to 1d10; and so on).
-
-    -- Kinetic Knight: No longer REQUIRES the attuned shield to use its elemental defense talent. Kinetic Whip is also free for them. They can apply elemental overflow to the blade.
-
-    -- Leshykineticist: Increases its wood blast die by one step (from 1d6 to 1d8). In wooded areas or areas with many trees, gather power reduces 1 extra burn.
-
-    -- Overwhelming Soul: Gains Force of Personality as a feat at 1st level, and can also use Charisma for the wild talents that would normally use Dexterity instead of Constitution.
-
-    -- Psamokinetic: Can use ki to gain an extra attack, like any monk, for kinetic blade, whip, or fist. It can also use ki to increase its element’s die from 1d6 to 1d8, for 1 round only.
-
-    -- Psychokineticist: Its maximum burn is 3 + Wisdom modifier.
