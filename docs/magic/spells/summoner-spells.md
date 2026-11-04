@@ -193,7 +193,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
 - **[Surface Excursion](surface-excursion.md)**: Teleport to the surface directly above you, with a beacon to return.
 - **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.
-- **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
+- **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a non-alignment subtype or outsider race.
 - **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[Vitriolic Mist](vitriolic-mist.md)**: As fire shield, except acid damage.
 - **[Wooden Wing Shield](wooden-wing-shield.md)**: Your wings become a barrier granting a +4 shield bonus to AC.

@@ -37,7 +37,7 @@
 
 - No longer requires Ghost Whisperer; it is granted at level 1. Requires Perform 3 and spell level 1.
 - Deathwaking Dance is 1d6 per 2 levels + Charisma, and the save halves the damage instead of negating it.
-- Untethering Steps automatically targets everything within 30 feet.
+- Untethering Steps targets everything within 30 feet.
 - Exorcist's Waltz requires 1 full round instead of 4 rounds.
 - Ghostly Grace grants its ally effect at level 7 instead of 9.
 - Levels of this class add to bard levels for bardic performance.
@@ -68,33 +68,33 @@
 
 - Skill requirements drop to 3.
 - Now requires Improved Unarmed Strike instead of Still Mind.
-- You choose whether to use Charisma or Wisdom for all the class features this prestige class advances (for example Charisma to AC, as the monk, even if you are not a scaled monk). It also gives you those class features even if you have not gained them yet, counting levels of this class as monk levels only to improve and unlock the class features mentioned there.
+- Martial Artist lets you choose Wisdom or Charisma for the effects of the monk abilities it advances, and unlocks them if your monk levels have not done so yet.
 - Special: you can ignore all requirements and replace them with 4 levels of the matching order of paladin, in which case you gain Aligned Class (which only works with that paladin order).
 
 ## [Chevalier](chevalier.md)
 
 - Requirements change to: BAB +3, Diplomacy 3 and Knowledge (local) 3. The rest stays the same.
-- This class stacks with any class that gives you a mount or animal companion.
+- This class stacks with any class that gives you a mount or animal companion, only for that mount or companion’s level.
 - Recklessness can be used once per day per level (2 times per day at level 2, 3 times per day at level 3).
 
 ## [Crimson Templar](crimson-templar.md)
 
 - No longer requires Vital Strike. The BAB requirement drops to 4.
 - Heavenly Fire: the save halves instead of negating.
-- Immolate is optional, so you do not harm an ally who uses pieces of enemies.
+- Immolate is optional.
 
 ## [Cyphermage](cyphermage.md)
 
 - Skill requirements drop to 2.
 - Gains the Evangelist's Aligned Class.
-- Every class feature that has 1 use per 3 levels becomes 1 use + 1 per 2 levels (so at level 2 you already have 2 uses).
+- Every class feature that has 1 use per 3 levels becomes 1 use per level.
 - Swift Scrivener reduces the cost of scrolls to 25%.
 
 ## [Daivrat](daivrat.md)
 
 - Skill requirements drop to 3. The caster level requirement drops to 1. Instead of requiring Spell Focus (conjuration), it gives it to you at level 1.
 - Raises caster level at every level, without skipping level 1.
-- Spell Fetch does not increase the spell's level.
+- Spell Fetch no longer treats the spell as higher level.
 
 ## [Darechaser](darechaser.md)
 
@@ -164,7 +164,7 @@
 
 ## [Exalted](exalted.md) / [Sentinel](sentinel.md) / [Evangelist](evangelist.md)
 
-- The skill requirements change to 5 and BAB +1 (Exalted), the ability to cast 1st-level spells (Evangelist), and 5 ranks in Religion (Sentinel). Alignment and deity requirements stay the same, as does the Obedience feat; ignore the rest.
+- Exalted requires Knowledge (religion) 5 and BAB +1. Sentinel requires Knowledge (religion) 5 and BAB +1. Evangelist requires Knowledge (religion) 5 and 5 ranks in one other skill. Alignment and deity requirements stay the same, as does the Obedience feat; ignore the rest.
 
 ## [Forest Warden](forest-warden.md)
 
@@ -200,7 +200,7 @@
 
 - Requirements drop to 2 for skills and 1 for spell level.
 - Companion Bond directly gives you a pet equal to your level, or scales any pet you already had, as any class with a pet does.
-- Wild Link directly gives you the wild shape class feature, or scales the one you already have if you have druid levels or any class/archetype with wild shape, adding the levels to unlock more forms.
+- Wild Link gives you the wild shape class feature at 2nd level, or scales the one you already have if you have druid levels or any class/archetype with wild shape, adding the levels to unlock more forms.
 
 ## [Consortium Agent](consortium-agent.md)
 
@@ -226,20 +226,20 @@
 - Scarecrow gives +1 to attack and damage against anyone threatening an ally (or rather, a crop).
 - At level 6 they gain tactician as a cavalier of their level +5, counting the teamwork feats the class already gives as part of this class feature (and adding 1 extra for the normal tactician effects).
 
-## [Infernal Knight](infernal-knight.md)
+## [Hell Knight](hell-knight.md)
 
 - Requirements drop to BAB +3 and Intimidate 2; the rest stays the same.
 - Force of Will changes to directly give Iron Will at level 3, Improved Iron Will at level 6 and Mythic Iron Will at level 9.
 - Smite Chaos is not ×2 to EVERYTHING against chaotic outsiders; it is only an explanation of which creature types the normal ×2 of smite evil works against (chaotic subtype, chaotic aberrations and fey). The damage added per level is still ×2, or stacks with other smite classes you have, up to a maximum of your Hit Dice.
 - Gains Aligned Class at half rate (as the Mortal Usher).
-- If you have Infernal Knight Obedience, you may choose to gain the boons at levels 3, 6 and 9 instead of gaining a discipline.
+- If you have Hell Knight Obedience, you may choose to gain the boons at levels 3, 6 and 9 instead of gaining a discipline.
 
-## [Infernal Knight Signifer](infernal-knight-signifer.md)
+## [Hell Knight Signifer](hell-knight-signifer.md)
 
 - The spell level requirement drops to 1. Skill requirements drop to 3.
 - No longer requires Warrior Priest or Arcane Armor Training. It directly gives you them at level 1, depending on whether you are a divine or arcane caster, respectively.
 - Gains Aligned Class at half rate (as the Mortal Usher).
-- Catechesis changes to full Aligned Class (–1 as the Evangelist) for divine casters only.
+- Catechesis changes to full Aligned Class (every level beyond 1st) for divine casters only.
 
 ## [Stargazer](stargazer.md)
 
@@ -247,11 +247,11 @@
 
 ## [Sword Duelist](sword-duelist.md)
 
-- Instead of Quick Draw, it simply grants an extra feat.
-- Deft Strike gives 1.5× Dexterity damage and level to damage.
+- Instead of Quick Draw, it grants an extra combat feat.
+- Deft Strike gives 1.5× Dexterity damage when wielding the sword two-handed, and level to damage whether one-handed or two-handed.
 - Skill requirements are 2 instead of 5 or 3, and it requires only Weapon Focus (heavy blades) and Weapon Finesse.
 - Gains proficiency with the order's dueling sword at level 1, and Dazzling Display.
-- Defensive Parry also gives Parry and Riposte and Panache as if you were a swashbuckler of your level.
+- At level 3 it also gives Panache and Parry and Riposte as if you were a swashbuckler of your level.
 - Confounding Duelist lets you use Shatter Confidence with any hit even if the enemy is not shaken, and gives +1 critical range or critical multiplier, which stacks with Improved Critical (that is, it makes the dueling sword 18–20/×2 or 19–20/×3, your choice).
 
 ## [Feysworn](feysworn.md)

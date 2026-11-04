@@ -158,7 +158,7 @@ This +3 adamantine heavy mace has a +5 enhancement bonus against constructs, and
 **Aura** strong necromancy; **CL** 13th  
 **Slot** none; **Price** 38,552 gp; **Weight** 8 lbs.
 
-This weapon usually appears to be a particularly frighteninglooking iron or steel mace. On command, this +2 heavy mace causes the wielder’s clothes and appearance to transform into an illusion of darkest horror such that living creatures in a 30-foot cone become panicked as if by a fear spell (Will DC 16 partial). Those who fail take a –2 morale penalty on saving throws, and they flee from the wielder. The wielder may use this ability up to three times per day.
+This weapon usually appears to be a particularly frightening-looking iron or steel mace. On command, this +2 heavy mace causes the wielder’s clothes and appearance to transform into an illusion of darkest horror such that living creatures in a 30-foot cone become panicked as if by a fear spell (Will DC 16 partial). Those who fail take a –2 morale penalty on saving throws, and they flee from the wielder. The wielder may use this ability up to three times per day.
 
 **Requirements** Craft Magic Arms and Armor, fear; **Cost** 19,432 gp
 

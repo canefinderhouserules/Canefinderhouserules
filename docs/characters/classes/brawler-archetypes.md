@@ -46,9 +46,7 @@ Lapsed disciples studied at a great monastic school, but while they grasped the 
 
 Not content with perfecting her body with natural methods, a mutagenic mauler resorts to alchemy to unlock the primal beast within.
 
-**Requirement**: Intelligence 15.
-
-**Mutagen (Su)**: At 1st level, a mutagenic mauler discovers how to create a mutagen that she can imbibe in order to heighten her physical prowess, though at the cost of her personality. This functions as an alchemist's mutagen and uses the brawler's class level as her alchemist level for this ability (alchemist levels stack with brawler levels for determining the effect of this ability). A mutagenic mauler counts as an alchemist for the purpose of imbibing a mutagen prepared by someone else.
+**Mutagen (Su)**: At 1st level, if a mutagenic mauler has an Intelligence score of at least 15, she discovers how to create a mutagen that she can imbibe in order to heighten her physical prowess, though at the cost of her personality. This functions as an alchemist's mutagen and uses the brawler's class level as her alchemist level for this ability (alchemist levels stack with brawler levels for determining the effect of this ability). A mutagenic mauler counts as an alchemist for the purpose of imbibing a mutagen prepared by someone else.
 
 At 6th level, a mutagenic mauler gains a +2 bonus on damage rolls when she attacks in melee while in her mutagenic form. This bonus increases to +3 at 11th level, and to +4 at 16th level. At 10th level, a mutagenic mauler learns one of the following alchemist discoveries: feral mutagen or infuse mutagen, preserve organs UM, spontaneous healing. At 12th level, the mutagenic mauler learns the greater mutagen discovery. This ability replaces martial flexibility.
 
@@ -56,11 +54,11 @@ At 6th level, a mutagenic mauler gains a +2 bonus on damage rolls when she attac
 
 ## Shield Champion
 
-Stalwart in battle, a shield champion has perfected an entire martial discipline relying on only her hand-tohand fighting skills and her ever-present shield. What she forgoes in weapon versatility and improved combat maneuvering, she makes up for in her ability to turn her defense into a weapon.
+Stalwart in battle, a shield champion has perfected an entire martial discipline relying on only her hand-to-hand fighting skills and her ever-present shield. What she forgoes in weapon versatility and improved combat maneuvering, she makes up for in her ability to turn her defense into a weapon.
 
 **Weapon and Armor Proficiency**: A shield champion is proficient with all simple weapons. She is also proficient with light armor, and with bucklers, light shields, and heavy shields. This replaces the brawler's weapon and armor proficiencies.
 
-**Throw Shield (Ex)**: At 3rd level, a shield champion can throw a medium or light shield as a normal (nonimprovised) thrown weapon with a range increment of 10 feet or the shield's range increment, whichever is greater. The thrown shield deals the same damage as a shield bash, and any damage increases from shield spikes apply to this attack. A shield champion is treated as having the Far Shot feat for the purpose of determining range increment penalties for throwing a shield.
+**Throw Shield (Ex)**: At 3rd level, a shield champion can throw a medium or light shield as a normal (non-improvised) thrown weapon with a range increment of 10 feet or the shield's range increment, whichever is greater. The thrown shield deals the same damage as a shield bash, and any damage increases from shield spikes apply to this attack. A shield champion is treated as having the Far Shot feat for the purpose of determining range increment penalties for throwing a shield.
 
 At 7th level, a shield champion can use a thrown shield to perform a bull rush, dirty trick, disarm, reposition, or trip combat maneuver as if she were making a melee shield bash attack. At 11th level, a shield champion gains Shield Master as a bonus feat. She must meet all prerequisites before selecting that feat.
 

@@ -8,18 +8,18 @@ Although most worshipers of a deity of healing, honesty, redemption, and the sun
 
 **Table: Sun Anchorite**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +0 | +1 | +1 | Solar invocation +1 |
-| 2nd | +1 | +1 | +1 | +1 | Credence, +1 level of existing spellcasting class |
-| 3rd | +2 | +1 | +2 | +2 | Solar invocation +2, Bask in radiance, +1 level of existing spellcasting class |
-| 4th | +3 | +1 | +2 | +2 | Credence, +1 level of existing spellcasting class |
-| 5th | +3 | +2 | +3 | +3 | Solar invocation (move action), +1 level of existing spellcasting class |
-| 6th | +4 | +2 | +3 | +3 | Solar invocation +3, Credence, +1 level of existing spellcasting class |
-| 7th | +5 | +2 | +4 | +4 | Sunbeam, +1 level of existing spellcasting class |
-| 8th | +6 | +3 | +4 | +4 | Credence, +1 level of existing spellcasting class |
-| 9th | +6 | +3 | +5 | +5 | Solar invocation +4, +1 level of existing spellcasting class |
-| 10th | +7 | +3 | +5 | +5 | Credence, sunrise invocation, solar invocation (swift action), +1 level of existing spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +1 | +1 | Solar invocation +1 | — |
+| 2nd | +1 | +1 | +1 | +1 | Credence | +1 level of existing spellcasting class |
+| 3rd | +2 | +1 | +2 | +2 | Solar invocation +2, Bask in radiance | +1 level of existing spellcasting class |
+| 4th | +3 | +1 | +2 | +2 | Credence | +1 level of existing spellcasting class |
+| 5th | +3 | +2 | +3 | +3 | Solar invocation (move action) | +1 level of existing spellcasting class |
+| 6th | +4 | +2 | +3 | +3 | Solar invocation +3, Credence | +1 level of existing spellcasting class |
+| 7th | +5 | +2 | +4 | +4 | Sunbeam | +1 level of existing spellcasting class |
+| 8th | +6 | +3 | +4 | +4 | Credence | +1 level of existing spellcasting class |
+| 9th | +6 | +3 | +5 | +5 | Solar invocation +4 | +1 level of existing spellcasting class |
+| 10th | +7 | +3 | +5 | +5 | Credence, sunrise invocation, solar invocation (swift action) | +1 level of existing spellcasting class |
 
 ### Requirements
 

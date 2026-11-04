@@ -180,7 +180,7 @@ Mutagenic discipline alchemists gain the following class feature:
 
 #### Mutagen (Su)
 
-At 1st level, a mutagenic alchemist discovers how to create a mutagen that they can imbibe in order to heighten their physical prowess at the cost of their personality. The mutagenic alchemist must spend 1 point of quintessence and 10 minutes to brew a dose of mutagen, and once brewed, it remains potent until 24 hours have passed, becoming inert after that. A mutagenic alchemist can create as many mutagens as they wish at a time, allowing them to create backups. A mutagen that is not in an alchemist’s possession becomes inert until an alchemist picks it up again.
+At 1st level, if a mutagenic alchemist has an Intelligence score of at least 15, they discover how to create a mutagen that they can imbibe in order to heighten their physical prowess at the cost of their personality. The mutagenic alchemist must spend 1 point of quintessence and 10 minutes to brew a dose of mutagen, and once brewed, it remains potent until 24 hours have passed, becoming inert after that. A mutagenic alchemist can create as many mutagens as they wish at a time, allowing them to create backups. A mutagen that is not in an alchemist’s possession becomes inert until an alchemist picks it up again.
 
 When a mutagenic alchemist brews a mutagen, they select one physical ability score—either Strength, Dexterity, or Constitution. It’s a standard action to drink a mutagen. Upon being imbibed, the mutagen causes the mutagenic alchemist to grow bulkier and more bestial, granting them a +2 natural armor bonus and a +4 alchemical bonus to the selected ability score for 10 minutes per alchemist level.
 

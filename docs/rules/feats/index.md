@@ -103,7 +103,7 @@ As a swift action, you can enter the stance employed by the fighting style a sty
 The styles that follow include specific feat paths — feats that complement each style.
 
 - **Boar Style**: A tribe of orcs who disdained the use of weapons originally developed this savage unarmed fighting style. They preferred to slaughter their enemies with their bare hands and teeth. Over the centuries, a variety of races have adopted the Boar Style, most notably goblinoids, ogres, and trolls. The objective of the Boar Style is to attack with as much viciousness and cruelty as possible in order to break enemy morale. Fanatical followers of the style use herbal and alchemical reagents to harden their nails and teeth, sometimes performing self-mutilating procedures that result in clawlike nails and sharpened teeth. *Feat path*: Boar Style, Boar Ferocity, Boar Shred.
-- **Crane Style**: Crane style focuses on defense and agile counterattacks. Practitioners are known for graceful, onelegged stances and folding arm techniques that mimic a crane’s enormous wings. *Feat path*: Crane Style, Crane Wing, Crane Riposte.
+- **Crane Style**: Crane style focuses on defense and agile counterattacks. Practitioners are known for graceful, one-legged stances and folding arm techniques that mimic a crane’s enormous wings. *Feat path*: Crane Style, Crane Wing, Crane Riposte.
 - **Djinni Style**: Adherents to this style call on the spirits of storms to outmaneuver and outwit their opponents. Masters of the style can absorb and deflect electrical attacks while summoning peals of thunder to pummel their enemies. *Feat path*: Djinni Style, Djinni Spirit, Djinni Spin.
 - **Dragon Style**: Dragon style captures the overwhelming power, grace, and ferocity of dragons. Practitioners use acrobatic footwork and strong attacks to overwhelm foes. The deepest secrets of the style require imbibing alchemical tonics and deep meditations similar to the long sleeps of dragons. *Feat path*: Dragon Style, Dragon Ferocity, Dragon Roar.
 - **Earth Child Style**: A warrior cadre of dwarves and gnomes dedicated to fighting and slaying giants developed this style. Students of the style learn how to enhance their defensive training to become even more elusive when facing giants. They also spend long hours studying the anatomy of the various giant races to increase the effectiveness of their unarmed strikes. Eventually, masters of this fighting style learn how to bring down even the mightiest creatures by targeting feet, ankles, and knees. *Feat path*: Earth Child Style, Earth Child Topple, Earth Child Binder.
@@ -369,7 +369,7 @@ Feats from *Ultimate Magic*. Each name links to its full description.
 | [Extra Cantrips or Orisons](extra-cantrips-or-orisons.md) | — | Ability to cast cantrips or orisons |
 | [Extra Evolution](extra-evolution.md) | — | Eidolon class feature |
 | [Extra Ranger Trap](extra-ranger-trap.md) | — | Trap class feature |
-| [Extra Summons](extra-summons.md) | — | Ability to cast summon monster as a spelllike ability, summoner 1st |
+| [Extra Summons](extra-summons.md) | — | Ability to cast summon monster as a spell-like ability, summoner 1st |
 | [Eyes of Judgment](eyes-of-judgment.md) | — | Detect alignment class feature, caster level 6th |
 | [Fast Empathy](fast-empathy.md) | — | Handle Animal 5 ranks, wild empathy class feature |
 | [Favored Judgment](favored-judgment.md) | — | Wis 13, judgment class feature |
@@ -529,7 +529,7 @@ Feats from the *Advanced Player's Guide*. Each name links to its full descriptio
 | [Gang Up](gang-up.md) | Combat | — |
 | [Gnome Trickster](gnome-trickster.md) | — | Cha 13, gnome, gnome magic racial trait |
 | [Go Unnoticed](go-unnoticed.md) | — | Dex 13, Small size or smaller |
-| [Greater Blind-Fight](greater-blind-fight.md) | Combat | Perception 15 ranks, Improved BlindFight |
+| [Greater Blind-Fight](greater-blind-fight.md) | Combat | Perception 15 ranks, Improved Blind-Fight |
 | [Greater Dirty Trick](greater-dirty-trick.md) | Combat | Deft Maneuvers, Improved Dirty Trick, base attack bonus +6 |
 | [Greater Drag](greater-drag.md) | Combat | Powerful Maneuvers, Str 13, Improved Drag, Power Attack, base attack bonus +6 |
 | [Greater Elemental Focus](greater-elemental-focus.md) | — | Elemental Focus |
@@ -1029,7 +1029,7 @@ Feats from *Ultimate Combat*. Each name links to its full description.
 | [Pin Down](pin-down.md) | Combat | Combat Reflexes, fighter level 11th |
 | [Pinning Knockout](pinning-knockout.md) | Combat | Dex 13, Greater Grapple, Improved Grapple, Improved Unarmed Strike, base attack bonus +9 or monk level 9th |
 | [Pinning Rend](pinning-rend.md) | Combat | Dex 13, Greater Grapple, Improved Grapple, Improved Unarmed Strike, base attack bonus +9 or monk level 9th |
-| [Pinpoint Poisoner](pinpoint-poisoner.md) | Combat | Poison use class feature, Craft (alchemy) 6 ranks, Adder Strike, Improved Unarmed Strike, TwoWeapon Fighting or flurry of blows class feature |
+| [Pinpoint Poisoner](pinpoint-poisoner.md) | Combat | Poison use class feature, Craft (alchemy) 6 ranks, Adder Strike, Improved Unarmed Strike, Two-Weapon Fighting or flurry of blows class feature |
 | [Planar Wild Shape](planar-wild-shape.md) | — | Wild shape class feature, Knowledge (planes) 5 ranks |
 | [Prone Shooter](prone-shooter.md) | Combat | Base attack bonus +1 |
 | [Prone Slinger](prone-slinger.md) | Combat | — |
@@ -1103,7 +1103,7 @@ Feats from *Ultimate Combat*. Each name links to its full description.
 | [Twin Thunders Flurry](twin-thunders-flurry.md) | Combat | Dwarf or gnome; defensive training racial trait; Improved Two-Weapon Fighting and Two-Weapon Fighting, or flurry of blows class feature; Twin Thunders; Weapon Focus with both wielded weapons; base attack bonus +6 |
 | [Twin Thunders Master](twin-thunders-master.md) | Combat | Dwarf or gnome; defensive training racial trait; Improved Two-Weapon Fighting and Two-Weapon Fighting, or flurry of blows class feature; Twin Thunders; Twin Thunders Flurry; Weapon Focus with both wielded weapons; base attack bonus +9 |
 | [Two-Handed Thrower](two-handed-thrower.md) | Combat | Str 15 |
-| [Two-Weapon Feint](two-weapon-feint.md) | Combat | Dex 15, TwoWeapon Fighting |
+| [Two-Weapon Feint](two-weapon-feint.md) | Combat | Dex 15, Two-Weapon Fighting |
 | [Vicious Stomp](vicious-stomp.md) | Combat | Combat Reflexes, Improved Unarmed Strike |
 | [Wave Strike](wave-strike.md) | Combat | Weapon expertise class feature or Quick Draw, Bluff 1 rank |
 | [Whip Mastery](whip-mastery.md) | Combat | Weapon Focus (whip), base attack bonus +2 |
@@ -2695,7 +2695,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ogre Crush](ogre-crush.md) | — | Str 25, Improved Grapple, Improved Unarmed Strike, ogre, size Large or larger |
 | [Old as Dust](old-as-dust.md) | — | [Sleeper](sleeper.md), [Warren Digger](warren-digger.md), creature has been a ghoul for at least 500 years |
 | [Old Cults Awakener](old-cults-awakener.md) | — | member of the old cults |
-| [Ominous Mien](ominous-mien.md) | — | member of the infernal knights |
+| [Ominous Mien](ominous-mien.md) | — | member of the hell knights |
 | [Omnipresent Mentor](omnipresent-mentor.md) | — | Cha 17, Inspiring Mentor, inspire competence bardic performance |
 | [One Mind](one-mind.md) | Teamwork | Alertness, Sense Motive 3 ranks, human |
 | [One-Inch Punch](one-inch-punch.md) | Combat | Improved Unarmed Strike, base attack bonus +6, brawler's flurry class feature or flurry of blows class feature |
@@ -3754,9 +3754,9 @@ Feats from Pathfinder Campaign Setting supplements.
 | [Extended Scrying](extended-scrying.md) | — | Ability to cast a spell of the scrying subschool |
 | [Favor of the Torrent Queen](favor-of-the-torrent-queen.md) | — | Worshiper of a deity of waters or pearl seeker paladin, character level 5th |
 | [Gate Breaker](gate-breaker.md) | Combat | Str 13, Improved Sunder, Power Attack, base attack bonus +1 |
-| [Infernal Knight Aegis](infernal-knight-aegis.md) | — | Heavy Armor Proficiency, base attack bonus +5, must swear allegiance to a single knightly order |
-| [Infernal Knight Obedience](infernal-knight-obedience.md) | — | Knowledge (planes) 3 ranks, must swear allegiance to a single knightly order |
-| [Infernal Knight Obsession](infernal-knight-obsession.md) | — | Infernal Knight Obedience, Knowledge (planes) 3 ranks, must swear allegiance to a single knightly order |
+| [Hell Knight Aegis](hell-knight-aegis.md) | — | Heavy Armor Proficiency, base attack bonus +5, must swear allegiance to a single knightly order |
+| [Hell Knight Obedience](hell-knight-obedience.md) | — | Knowledge (planes) 3 ranks, must swear allegiance to a single knightly order |
+| [Hell Knight Obsession](hell-knight-obsession.md) | — | Hell Knight Obedience, Knowledge (planes) 3 ranks, must swear allegiance to a single knightly order |
 | [Master Swimmer](master-swimmer.md) | — | Skill Focus (Swim), Swim 10 ranks |
 | [Murky Spell](murky-spell.md) | Metamagic | — |
 | [Pressure Adept](pressure-adept.md) | — | Swim 5 ranks |

@@ -6,18 +6,18 @@ Sigil mystics are renowned for both the artistry with which they adorn their bod
 
 **Table: Sigil Mystic**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Familiar tattoo |
-| 2nd | +1 | +1 | +1 | +1 | Mystic tattoo; +1 level of spellcasting class |
-| 3rd | +1 | +1 | +1 | +2 | Magical tattoo artist; +1 level of spellcasting class |
-| 4th | +2 | +1 | +1 | +2 | Mystic tattoo; +1 level of spellcasting class |
-| 5th | +2 | +2 | +2 | +3 | Skillful tattooist |
-| 6th | +3 | +2 | +2 | +3 | Mystic tattoo; +1 level of spellcasting class |
-| 7th | +3 | +2 | +2 | +4 | Tattoo mastery; +1 level of spellcasting class |
-| 8th | +4 | +3 | +3 | +4 | Mystic tattoo; +1 level of spellcasting class |
-| 9th | +4 | +3 | +3 | +5 | Potent tattoos |
-| 10th | +5 | +3 | +3 | +5 | Mystic tattoo; +1 level of spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +0 | +1 | Familiar tattoo | — |
+| 2nd | +1 | +1 | +1 | +1 | Mystic tattoo | +1 level of spellcasting class |
+| 3rd | +1 | +1 | +1 | +2 | Magical tattoo artist | +1 level of spellcasting class |
+| 4th | +2 | +1 | +1 | +2 | Mystic tattoo | +1 level of spellcasting class |
+| 5th | +2 | +2 | +2 | +3 | Skillful tattooist | — |
+| 6th | +3 | +2 | +2 | +3 | Mystic tattoo | +1 level of spellcasting class |
+| 7th | +3 | +2 | +2 | +4 | Tattoo mastery | +1 level of spellcasting class |
+| 8th | +4 | +3 | +3 | +4 | Mystic tattoo | +1 level of spellcasting class |
+| 9th | +4 | +3 | +3 | +5 | Potent tattoos | — |
+| 10th | +5 | +3 | +3 | +5 | Mystic tattoo | +1 level of spellcasting class |
 
 ### Requirements
 

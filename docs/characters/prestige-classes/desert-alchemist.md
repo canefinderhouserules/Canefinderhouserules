@@ -6,18 +6,18 @@ Desert alchemy evolved from the herbalism and horticulture of an ancient league 
 
 **Table: Desert Alchemist**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Healing solution; +1 level of arcane spellcasting class |
-| 2nd | +1 | +1 | +1 | +1 | Desert discovery; +1 level of arcane spellcasting class |
-| 3rd | +1 | +1 | +1 | +2 | Bombs, curative enhancement; +1 level of arcane spellcasting class |
-| 4th | +2 | +1 | +1 | +2 | Desert discovery; +1 level of arcane spellcasting class |
-| 5th | +2 | +2 | +2 | +3 | Curative enhancement; +1 level of arcane spellcasting class |
-| 6th | +3 | +2 | +2 | +3 | Bombs, desert discovery; +1 level of arcane spellcasting class |
-| 7th | +3 | +2 | +2 | +4 | Curative enhancement; +1 level of arcane spellcasting class |
-| 8th | +4 | +3 | +3 | +4 | Desert discovery; +1 level of arcane spellcasting class |
-| 9th | +4 | +3 | +3 | +5 | Bombs, curative enhancement; +1 level of arcane spellcasting class |
-| 10th | +5 | +3 | +3 | +5 | Eternal youth; +1 level of arcane spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +0 | +1 | Healing solution | +1 level of arcane spellcasting class |
+| 2nd | +1 | +1 | +1 | +1 | Desert discovery | +1 level of arcane spellcasting class |
+| 3rd | +1 | +1 | +1 | +2 | Bombs, curative enhancement | +1 level of arcane spellcasting class |
+| 4th | +2 | +1 | +1 | +2 | Desert discovery | +1 level of arcane spellcasting class |
+| 5th | +2 | +2 | +2 | +3 | Curative enhancement | +1 level of arcane spellcasting class |
+| 6th | +3 | +2 | +2 | +3 | Bombs, desert discovery | +1 level of arcane spellcasting class |
+| 7th | +3 | +2 | +2 | +4 | Curative enhancement | +1 level of arcane spellcasting class |
+| 8th | +4 | +3 | +3 | +4 | Desert discovery | +1 level of arcane spellcasting class |
+| 9th | +4 | +3 | +3 | +5 | Bombs, curative enhancement | +1 level of arcane spellcasting class |
+| 10th | +5 | +3 | +3 | +5 | Eternal youth | +1 level of arcane spellcasting class |
 
 ### Requirements
 

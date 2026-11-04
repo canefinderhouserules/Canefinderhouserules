@@ -370,7 +370,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
 - **[Straitjacket](straitjacket.md)**: Restrain a creature’s arms and grant it a second saving throw against certain magic.
 - **[Talisman of Reprieve](talisman-of-reprieve.md)**: Allies ignore planar alignment penalties.
-- **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
+- **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a non-alignment subtype or outsider race.
 - **[Tough Crowd](tough-crowd.md)**: Allies resist the next enchantment or illusion and manipulation.
 - **[Transplant Visage](transplant-visage.md)**: Wear a stolen face for +10 on Disguise.
 - **[Undeath Ward](undeath-ward.md)**: A silver barrier keeps out undead with fewer Hit Dice than your caster level.

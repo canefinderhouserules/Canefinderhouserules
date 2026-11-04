@@ -8,14 +8,14 @@ Blood bloatmages swell their bodies with magically charged blood, spending it to
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
 |---|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Blood pool, bloodsurge (1/day, 1d4), hemophilia | +1 level of existing arcane class |
+| 1st | +0 | +0 | +0 | +1 | Blood pool, bloat (1/day, 1d4), hemophilia | +1 level of existing arcane class |
 | 2nd | +1 | +0 | +0 | +1 | — | +1 level of existing arcane class |
 | 3rd | +1 | +1 | +1 | +2 | Corpulence (+1 natural armor) | +1 level of existing arcane class |
-| 4th | +2 | +1 | +1 | +2 | Bloodsurge (2/day, up to 1d8) | +1 level of existing arcane class |
+| 4th | +2 | +1 | +1 | +2 | Bloat (2/day, up to 1d8) | +1 level of existing arcane class |
 | 5th | +2 | +1 | +1 | +3 | Corpulence (+2 natural armor) | +1 level of existing arcane class |
 | 6th | +3 | +2 | +2 | +3 | — | +1 level of existing arcane class |
 | 7th | +3 | +2 | +2 | +4 | Corpulence (+3 natural armor, –10 ft. speed) | +1 level of existing arcane class |
-| 8th | +4 | +2 | +2 | +4 | Bloodsurge (3/day, up to 1d12) | +1 level of existing arcane class |
+| 8th | +4 | +2 | +2 | +4 | Bloat (3/day, up to 1d12) | +1 level of existing arcane class |
 | 9th | +4 | +3 | +3 | +5 | Corpulence (+4 natural armor) | +1 level of existing arcane class |
 | 10th | +5 | +3 | +3 | +5 | Absorb bloodline | +1 level of existing arcane class |
 
@@ -45,7 +45,7 @@ The blood bloatmage’s class skills are Fly (Dex), Heal (Wis), Knowledge (all, 
 
 **Blood Pool**: Your blood pool maximum equals your blood bloatmage level. You can spend blood points when casting a spell to cast it without using a spell slot: a prepared caster recalls the spell as if it had not been cast, and a spontaneous caster keeps the slot unused. Retaining a slot costs blood points equal to the spell’s level, paid at the time of casting. Blood points cannot teach you spells you do not know or have prepared.
 
-*Overextension*: Bloodsurge can push you past your normal limits. If your current blood points are above your class level but no more than twice it, you are sickened. If they exceed twice your class level, you enter a homicidal rage for 1d6 rounds or until your pool reaches 0, whichever comes first. You lose 10 hit points per round the rage lasts. Afterward, your blood points drop to 0.
+*Overextension*: Bloat can push you past your normal limits. If your current blood points are above your class level but no more than twice it, you are sickened. If they exceed twice your class level, you enter a homicidal rage for 1d6 rounds or until your pool reaches 0, whichever comes first. You lose 10 hit points per round the rage lasts. Afterward, your blood points drop to 0.
 
 ??? note "Original rule"
 
@@ -53,17 +53,17 @@ The blood bloatmage’s class skills are Fly (Dex), Heal (Wis), Knowledge (all, 
 
 *Daily recovery*: When you rest to regain spells, your blood points return to your class level, but never higher. Excess points remain until spent.
 
-*Regulation rituals*: Daily rituals during spell preparation let you subtract 1 point from a surge roll after the result is known. The cost is a noncumulative –2 penalty to Constitution, which lasts until you skip the rituals for one day.
+*Regulation rituals*: Daily rituals during spell preparation let you subtract 1 point from a bloat roll after the result is known. The cost is a noncumulative –2 penalty to Constitution, which lasts until you skip the rituals for one day.
 
-**Bloodsurge**: As a free action, you can gain extra blood points. At 1st level, you can do this once per day and gain 1d4 points. At 4th level, you can do it twice per day and choose to gain 1d4 or 1d8 points. At 8th level, you can do it three times per day and choose to gain 1d4, 1d8, or 1d12 points.
+**Bloat**: A blood bloatmage can exert herself as a free action to instantly gain extra blood points, but doing so puts her at risk of a dangerous collapse. At 1st level, she can bloat once per day to gain 1d4 points. At 4th level, she can bloat twice per day, and each time she chooses to gain 1d4 or 1d8 points. At 8th level, she can bloat three times per day, and each time she chooses to gain 1d4, 1d8, or 1d12 points.
 
 ??? note "Original rule"
 
-    **Bloodsurge**: The die was fixed by level: 1d4 at 1st, 1d8 at 4th, and 1d12 at 8th, with no choice.
+    **Bloat**: A bloatmage can exert herself as a free action to instantly gain extra blood points, but doing so puts her at risk of a dangerous collapse. At 1st level, the bloatmage can bloat once per day to gain 1d4 points. At 4th, she can bloat twice per day, and the die roll becomes 1d8. At 8th, she can bloat three times per day, and the roll becomes 1d12.
 
 **Hemophilia**: The DC of Heal checks to stop your bleed effects is 5 higher than normal. Each bleeding wound inflicted on you costs 1 blood point. Multiple bleed attacks stack this loss, but one attack that deals damage repeatedly does not cost extra points each time.
 
-**Corpulence**: You gain a +1 natural armor bonus at 3rd level. This bonus increases to +2 at 5th level, +3 at 7th level, and +4 at 9th level. At 7th level your speed also drops by 10 feet. This penalty stacks with that of the Bloatmage Initiate feat, cannot reduce your speed below 5 feet, and does not affect magical flight.
+**Corpulence**: At 3rd level, a blood bloatmage becomes so massive that her rolls of fatty, blood-laden flesh grant her a +1 natural armor bonus. At 5th level, this bonus increases to +2. At 7th level, this bonus increases to +3 but reduces her speed by 10 feet. This penalty stacks with the penalty from the Bloatmage Initiate feat. This reduction in speed can never reduce her speed below 5 feet, nor does it affect magical flying effects. At 9th level, this bonus increases to +4.
 
 ??? note "Original rule"
 

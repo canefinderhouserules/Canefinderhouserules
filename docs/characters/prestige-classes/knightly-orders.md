@@ -1,15 +1,15 @@
 # Knightly Orders
 
 !!! note "Source"
-    Mechanics from *Pathfinder Campaign Setting: Path of the Hellknight*, using generic names. These are the orders of the [Infernal Knight](infernal-knight.md) and [Infernal Knight Signifer](infernal-knight-signifer.md). Leaders, headquarters, symbols and history have been omitted, and the minor orders (which have no mechanics beyond a favored weapon and a reckoning) are not detailed.
+    Mechanics from *Pathfinder Campaign Setting: Path of the Hell Knight*, using generic names. These are the orders of the [Hell Knight](hell-knight.md) and [Hell Knight Signifer](hell-knight-signifer.md). Leaders, headquarters, symbols and history have been omitted, and the minor orders (which have no mechanics beyond a favored weapon and a reckoning) are not detailed.
 
 ## Reckonings
 
 A reckoning is a personal penance performed in private by a willing, unarmored knight while meditating on the code of her order. Knights are assumed to police themselves and perform reckonings as needed. A knight who regularly performs reckonings as part of her scheduled meditations doesn't lose any abilities or suffer negative effects if she skips one, but she might be censured by her fellows if they learn of it.
 
 - Performing the physical component takes 10 minutes and deals 1d4 nonlethal damage. A particularly righteous or conflicted knight can perform a longer, more extreme version, dealing an additional 1d4 lethal damage.
-- A devoted knight with the [Infernal Knight Obedience](../../rules/feats/infernal-knight-obedience.md) feat can undergo an hour-long nonlethal reckoning to gain the benefit of her order's special ability, in addition to the boons available to those with 12, 16 or 20 Hit Dice.
-- A knight with the [Infernal Knight Obsession](../../rules/feats/infernal-knight-obsession.md) feat who chooses to deal the lethal damage to herself can access a suite of beneficial effects.
+- A devoted knight with the [Hell Knight Obedience](../../rules/feats/hell-knight-obedience.md) feat can undergo an hour-long nonlethal reckoning to gain the benefit of her order's special ability, in addition to the boons available to those with 12, 16 or 20 Hit Dice.
+- A knight with the [Hell Knight Obsession](../../rules/feats/hell-knight-obsession.md) feat who chooses to deal the lethal damage to herself can access a suite of beneficial effects.
 - The damage a reckoning deals cannot be reduced by damage reduction or any other ability or effect.
 
 The orders below use these generic names.
@@ -46,8 +46,8 @@ The orders below use these generic names.
 
 **Boons**
 
-1. **Focus of Mind (Su).** You gain one gaze ability from the assiduous gaze list of the [Infernal Knight Signifer](infernal-knight-signifer.md) (only a gaze a signifer could choose at 4th level). If you already have assiduous gaze, you can select one additional gaze. If you don't already have one, you receive a signifer mask and the benefits of the signifer mask supernatural ability; you must wear the mask to use this ability.
-2. **Armored Spellcasting (Ex).** You ignore the spell failure chance of any infernal knight armor (armor with "infernal knight" in its name).
+1. **Focus of Mind (Su).** You gain one gaze ability from the assiduous gaze list of the [Hell Knight Signifer](hell-knight-signifer.md) (only a gaze a signifer could choose at 4th level). If you already have assiduous gaze, you can select one additional gaze. If you don't already have one, you receive a signifer mask and the benefits of the signifer mask supernatural ability; you must wear the mask to use this ability.
+2. **Armored Spellcasting (Ex).** You ignore the spell failure chance of any hell knight armor (armor with "hell knight" in its name).
 3. **Unfathomable Gaze (Sp).** Once per day, while wearing a signifer mask, you can use *vision* as a spell-like ability, with your character level as caster level. Unlike casting the spell, you are not fatigued afterward.
 
 ## Order of the Faithful
@@ -76,7 +76,7 @@ The orders below use these generic names.
 2. **Identification (Su).** Three times per day as a swift action, choose a living creature within sight and know its creature type, ethnicity (if any) and alignment. For a number of hours equal to your character level, it is treated as though you had cast *status* on it. The target can attempt a Will save (DC = 10 + ½ your Hit Dice + your Charisma modifier) to negate this without being aware of the probing. *Undetectable alignment* may prevent part of the information; *nondetection* stops it entirely. This is a divination effect.
 3. **End Superstition (Sp).** Once per day, cast *mage's disjunction*, with caster level equal to your character level.
 
-*Note.* Members of this order often install a sharp barb in their armor that deals damage to the wearer when subject to a critical hit; see Infernal Knight Obsession.
+*Note.* Members of this order often install a sharp barb in their armor that deals damage to the wearer when subject to a critical hit; see Hell Knight Obsession.
 
 ## Order of the Brazier
 

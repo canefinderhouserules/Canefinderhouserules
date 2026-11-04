@@ -71,7 +71,7 @@ You apply esoteric principles to temporarily suspend or remove curses, diseases,
 
 You use the power of suggestion and subtle psychic influence to alter a subject’s mind and dredge up repressed memories.
 
-**Check**: You can use hypnotism once per day. The DC of a Diplomacy check to hypnotize is 20 + the subject’s Will save modifier against mind-affecting enchantment (compulsion) effects. All uses of hypnotism are mindaffecting enchantment (compulsion) effects.
+**Check**: You can use hypnotism once per day. The DC of a Diplomacy check to hypnotize is 20 + the subject’s Will save modifier against mind-affecting enchantment (compulsion) effects. All uses of hypnotism are mind-affecting enchantment (compulsion) effects.
 
 **Implant Suggestion**: You can implant a suggested course of reasonable action in the mind of a willing creature, along with a defined trigger. To implant a suggestion, you spend 1 minute inducing a trance-like state in the subject, after which you attempt a Diplomacy check. If the check is successful, you implant the course of action, as a suggestion spell with a duration of 10 minutes plus 10 additional minutes for every 1 by which your check result exceeds the DC. If the subject ceases to be willing, it can attempt a Will save once each round to shake off the effects. The save DC is equal to 10 + 1/2 your character level + your Charisma modifier. You can attempt to subtly implant a suggestion in the mind of an unwilling creature with an attitude of indifferent or better after 1 minute of continuous, calm interaction with that creature, but the DC is 10 higher.
 

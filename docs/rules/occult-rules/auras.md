@@ -46,7 +46,7 @@ A character trained in auratic techniques sees an interplay of colors within a c
 
 **Flexibility (Emerald Green)**: A creature possessed of versatility, adaptability, and a willingness to please gives off an emerald green aura. Though green is usually associated with deception, it here represents compromise and low deceit—going along for the greater good despite personal misgivings or other preferences.
 
-**Greed (Brown-Red)**: A dull, brown-red aura—nearly the color of rust—suggests avarice and greed, and usually manifests in parallel bars across a creature’s body. Greenishbrown tinged with red flashes represents jealousy.
+**Greed (Brown-Red)**: A dull, brown-red aura—nearly the color of rust—suggests avarice and greed, and usually manifests in parallel bars across a creature’s body. Greenish-brown tinged with red flashes represents jealousy.
 
 **Hatred (Black)**: Thick black clouds within the aura denote hatred and malice. When a person is overcome with passionate anger, dark images twist and turn within the cloudy aura like ghostly snakes swimming through smoke.
 

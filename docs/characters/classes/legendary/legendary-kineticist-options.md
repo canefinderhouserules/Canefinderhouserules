@@ -990,7 +990,7 @@ You cause the synapses in the target’s mind to fire rapidly, making it hard fo
 
 **Associated Blast(s):** encephalon, false reality, mental.
 
-Treat this as the synapse shock infusion, except it lasts for 1 hour per kineticist level you possess.​​​
+Treat this as the synapse shock infusion, except it lasts for 1 hour per kineticist level you possess.
 
 **Notes**
 

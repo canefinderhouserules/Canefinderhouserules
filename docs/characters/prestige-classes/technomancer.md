@@ -6,18 +6,18 @@ The true power in a technocratic realm lies with its ruling order, and it is tec
 
 **Table: Technomancer**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +2 | Recondition (1 item), technical expertise |
-| 2nd | +1 | +0 | +0 | +3 | Efficient construction, technic spell mastery 1; +1 level of arcane spellcasting class |
-| 3rd | +1 | +1 | +1 | +3 | Arcane battery, study technology; +1 level of arcane spellcasting class |
-| 4th | +2 | +1 | +1 | +4 | Recondition (2 items), recycle technology; +1 level of arcane spellcasting class |
-| 5th | +2 | +1 | +1 | +4 | Command robot (1/day), technic spell mastery 2; +1 level of arcane spellcasting class |
-| 6th | +3 | +2 | +2 | +5 | Unified energy; +1 level of arcane spellcasting class |
-| 7th | +3 | +2 | +2 | +5 | Command robot (2/day), recondition (3 items); +1 level of arcane spellcasting class |
-| 8th | +4 | +2 | +2 | +6 | Applied learning, technic spell mastery 3; +1 level of arcane spellcasting class |
-| 9th | +4 | +3 | +3 | +6 | Command robot (3/day); +1 level of arcane spellcasting class |
-| 10th | +5 | +3 | +3 | +7 | Field improvisation, recondition (4 items); +1 level of arcane spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +0 | +2 | Recondition (1 item), technical expertise | — |
+| 2nd | +1 | +0 | +0 | +3 | Efficient construction, technic spell mastery 1 | +1 level of arcane spellcasting class |
+| 3rd | +1 | +1 | +1 | +3 | Arcane battery, study technology | +1 level of arcane spellcasting class |
+| 4th | +2 | +1 | +1 | +4 | Recondition (2 items), recycle technology | +1 level of arcane spellcasting class |
+| 5th | +2 | +1 | +1 | +4 | Command robot (1/day), technic spell mastery 2 | +1 level of arcane spellcasting class |
+| 6th | +3 | +2 | +2 | +5 | Unified energy | +1 level of arcane spellcasting class |
+| 7th | +3 | +2 | +2 | +5 | Command robot (2/day), recondition (3 items) | +1 level of arcane spellcasting class |
+| 8th | +4 | +2 | +2 | +6 | Applied learning, technic spell mastery 3 | +1 level of arcane spellcasting class |
+| 9th | +4 | +3 | +3 | +6 | Command robot (3/day) | +1 level of arcane spellcasting class |
+| 10th | +5 | +3 | +3 | +7 | Field improvisation, recondition (4 items) | +1 level of arcane spellcasting class |
 
 ### Requirements
 

@@ -118,7 +118,7 @@ When a spiritualist uses this ability, she must choose either ectoplasmic or inc
 
 **Incorporeal Bonded Manifestation**: When a spiritualist uses this ability and chooses incorporeal form, she becomes shrouded in a haze of insubstantial mist, granting her concealment against ranged attacks. At 8th level, the spiritualist can better affect incorporeal creatures with melee attacks; her unarmed strikes and melee weapon attacks are treated as if they had the ghost touch magic weapon special ability. At 13th level, the spiritualist can take a standard action to become invisible (as the invisibility spell) until the start of her next turn. At 18th level, the spiritualist gains the incorporeal subtype and a fly speed of 30 feet (good) while using this form of bonded manifestation.
 
-**Spiritual Interference (Ex or Su)**: At 4th level, whenever a spiritualist is within the reach of her ectoplasmic manifested phantom, she gains a +2 shield bonus to her Armor Class and a +2 circumstance bonus on her saving throws. She doesn’t gain these bonuses when the ectoplasmic manifested phantom is grappled, helpless, or unconscious. A spiritualist within 30 feet of her incorporeally manifested phantom receives a +2 circumstance bonus on saving throws against mindaffecting effects. This bonus is a supernatural ability and does not apply if the phantom is unconscious.
+**Spiritual Interference (Ex or Su)**: At 4th level, whenever a spiritualist is within the reach of her ectoplasmic manifested phantom, she gains a +2 shield bonus to her Armor Class and a +2 circumstance bonus on her saving throws. She doesn’t gain these bonuses when the ectoplasmic manifested phantom is grappled, helpless, or unconscious. A spiritualist within 30 feet of her incorporeally manifested phantom receives a +2 circumstance bonus on saving throws against mind-affecting effects. This bonus is a supernatural ability and does not apply if the phantom is unconscious.
 
 **Detect Undead (Sp)**: At 5th level, a spiritualist’s connection with the Ethereal Plane becomes so strong that she can use detect undead at will as a spell-like ability with a caster level equal to her spiritualist level.
 
@@ -323,7 +323,7 @@ Their coloration tends to have a grayish or sickly green cast. When they speak, 
 
 **Power from Despair**: The phantom gains a +2 bonus on attack and damage rolls against creatures that are shaken, frightened, panicked, cowering, or subject to effects such as aura of despair or crushing despair.
 
-**Miserable Strike (Su)**: If the phantom hits a creature with a slam attack, that creature must succeed at a Will saving throw (DC = 10 + 1/2 the phantom’s Hit Dice + the phantom’s Charisma modifier) or take a –2 penalty on attack and damage rolls for 1 round. This is a mindaffecting fear and emotion effect. Penalties from multiple hits don’t stack with themselves.
+**Miserable Strike (Su)**: If the phantom hits a creature with a slam attack, that creature must succeed at a Will saving throw (DC = 10 + 1/2 the phantom’s Hit Dice + the phantom’s Charisma modifier) or take a –2 penalty on attack and damage rolls for 1 round. This is a mind-affecting fear and emotion effect. Penalties from multiple hits don’t stack with themselves.
 
 **Aura** of Despair (Su): When the spiritualist reaches 7th
 
@@ -363,7 +363,7 @@ A phantom with this emotional focus suffered from overwhelming fear in life. As 
 
 **Horrifying Strike (Ex)**: If the phantom hits a creature with a slam attack, that creature must succeed at a Will saving throw (DC = 10 + 1/2 the phantom’s Hit Dice + the phantom’s Charisma modifier) or be shaken for 1d4 rounds. Multiple attacks against the same creature do not cause the creature to become frightened. This is a mind-affecting fear effect.
 
-**Increase Fear (Su)**: When the spiritualist reaches 7th level, as a swift action, the phantom can emit a 20-footradius aura that amplifies the fear conditions of enemies within it if they fail their Will saving throws (DC = 10 + 1/2 the phantom’s Hit Dice + the phantom’s Charisma modifier). A shaken enemy in the aura becomes frightened, a frightened creature becomes panicked, and a panicked creature cowers. This effect lasts either as long as the enemy stays within the aura and is under the condition of the initial fear effect, or for a number of rounds after it leaves the aura equal to 1/2 the phantom’s Hit Dice, or until the end of the original fear effect’s duration, whichever comes first. A creature that succeeds at the saving throw is immune to this effect from the same phantom for 24 hours. This is a mind-affecting fear effect. The phantom can use this ability in either ectoplasmic or incorporeal form.
+**Increase Fear (Su)**: When the spiritualist reaches 7th level, as a swift action, the phantom can emit a 20-foot-radius aura that amplifies the fear conditions of enemies within it if they fail their Will saving throws (DC = 10 + 1/2 the phantom’s Hit Dice + the phantom’s Charisma modifier). A shaken enemy in the aura becomes frightened, a frightened creature becomes panicked, and a panicked creature cowers. This effect lasts either as long as the enemy stays within the aura and is under the condition of the initial fear effect, or for a number of rounds after it leaves the aura equal to 1/2 the phantom’s Hit Dice, or until the end of the original fear effect’s duration, whichever comes first. A creature that succeeds at the saving throw is immune to this effect from the same phantom for 24 hours. This is a mind-affecting fear effect. The phantom can use this ability in either ectoplasmic or incorporeal form.
 
 **Frightful Attack (Su)**: When the spiritualist reaches 12th level, if the phantom hits with a slam attack, it can frighten those it hits instead of causing them to be shaken (the phantom chooses when it makes the attack). This is a mind-affecting fear effect.
 
@@ -419,7 +419,7 @@ A phantom with this emotional focus is covetous of everything—its master, thos
 
 **Jealous Combatant (Su)**: Each time the phantom hits a creature with a melee attack, for 1 round that creature takes a –2 penalty on all attack rolls made against anyone other than the phantom. This effect does not stack with itself.
 
-**Resentful Aura (Su)**: When the spiritualist reaches 7th level, as a swift action, the phantom can emit a 20-footradius aura that forces enemies within the aura who make an attack or cast a spell that does not include the phantom in its effect to succeed at a Will saving throw (DC = 10 + 1/2 the phantom’s Hit Dice + the phantom’s Charisma modifier) or become staggered until the end of the enemy’s next turn. Ending the aura is a free action. The phantom can use this ability in either ectoplasmic or incorporeal form.
+**Resentful Aura (Su)**: When the spiritualist reaches 7th level, as a swift action, the phantom can emit a 20-foot-radius aura that forces enemies within the aura who make an attack or cast a spell that does not include the phantom in its effect to succeed at a Will saving throw (DC = 10 + 1/2 the phantom’s Hit Dice + the phantom’s Charisma modifier) or become staggered until the end of the enemy’s next turn. Ending the aura is a free action. The phantom can use this ability in either ectoplasmic or incorporeal form.
 
 **Retribution (Su)**: When the spiritualist reaches 12th level, each time a creature attacks the phantom’s master, whether that attack hits or misses, it enrages the phantom. Until the end of the phantom’s next turn, any attack the phantom makes that hits the creature that has attacked her deals 2d8 extra points of damage. This extra damage is precision damage.
 
@@ -551,7 +551,7 @@ A phantom with this emotional focus fixates on every task given as if it were th
 
 **Ruthless Combatant (Su)**: The phantom threatens a critical hit with its slam attacks on a roll of 19–20. When the spiritualist reaches 11th level, the phantom’s critical modifier with slam attacks increases to ×3. This doesn’t stack with Improved Critical or similar effects.
 
-**Determination Aura (Su)**: When the spiritualist reaches 7th level, as a swift action, the phantom can emit a 20-footradius aura that grants its zeal to nearby allies. Allies within the aura gain a +2 competence bonus on attack rolls and saving throws. The phantom can use this ability in either ectoplasmic or incorporeal form.
+**Determination Aura (Su)**: When the spiritualist reaches 7th level, as a swift action, the phantom can emit a 20-foot-radius aura that grants its zeal to nearby allies. Allies within the aura gain a +2 competence bonus on attack rolls and saving throws. The phantom can use this ability in either ectoplasmic or incorporeal form.
 
 **Steadfast Servant (Su)**: When the spiritualist reaches 12th level, the phantom can stay manifested even when its spiritualist master is unconscious or asleep.
 

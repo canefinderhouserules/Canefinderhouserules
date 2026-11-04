@@ -4,7 +4,7 @@ The following options and archetypes are available to the cavalier.
 
 ## New Cavalier Orders
 
-In the deepest wilderness, there are cavaliers who are dedicated to the flora and fauna of unspoiled lands. Order of the Beast A cavalier who belongs to this order serves nature in all its forms. These cavaliers believe that animals make the most loyal companions, and keep close to woodland creatures. Edicts: An order of the beast cavalier must strive to protect nature-including animals and magical beastsfrom the encroachment of civilization and from those that seek to harm it. He can slay enraged animals and magical beasts only when attempts to calm or pacify them fail. Challenge: Whenever an order of the beast cavalier issues a challenge, his mount gains a +1 circumstance bonus on melee attack rolls against the target of his challenge whenever the cavalier is threatening the target. This bonus increases by 1 for every 4 cavalier levels.
+In the deepest wilderness, there are cavaliers who are dedicated to the flora and fauna of unspoiled lands. Order of the Beast A cavalier who belongs to this order serves nature in all its forms. These cavaliers believe that animals make the most loyal companions, and keep close to woodland creatures. Edicts: An order of the beast cavalier must strive to protect nature-including animals and magical beasts-from the encroachment of civilization and from those that seek to harm it. He can slay enraged animals and magical beasts only when attempts to calm or pacify them fail. Challenge: Whenever an order of the beast cavalier issues a challenge, his mount gains a +1 circumstance bonus on melee attack rolls against the target of his challenge whenever the cavalier is threatening the target. This bonus increases by 1 for every 4 cavalier levels.
 
 **Class Skills**: An order of the beast cavalier adds KKnowledge (nature) and Survival to his list of class skills. When the cavalier uses Survival to follow tracks, he gains a bonus on the check equal to 1/2 his cavalier level (minimum +1). Order Abilities: An order of the beast cavalier gains the following abilities as he increases in level.
 
@@ -144,7 +144,7 @@ While many cavaliers are the champions of old fighting forms, some younger, more
 
 **Advanced Deeds (Ex)**: At 11th level, a daring champion gains the following swashbuckler deeds: superior feint, targeted strike, subtle blade, and dizzying defense. This ability replaces mighty charge.
 
-**Champion's Weapon Mastery (Ex)**: At 20th level, when a daring champion threatens a critical hit with a light or onehanded piercing melee weapon, that critical is automatically confirmed. Furthermore, the critical modifier of those weapons increases by 1 (x2 becomes x3, for example). This ability replaces supreme charge.
+**Champion's Weapon Mastery (Ex)**: At 20th level, when a daring champion threatens a critical hit with a light or one-handed piercing melee weapon, that critical is automatically confirmed. Furthermore, the critical modifier of those weapons increases by 1 (x2 becomes x3, for example). This ability replaces supreme charge.
 
 ## Ghost Rider
 
@@ -270,7 +270,7 @@ Cavaliers of the order of the seal are a secretive order, each charged with the 
 
 Whenever the cavalier does not move more than a 5-foot step, he receives a +2 dodge bonus to his CMD to resist bull rush, overrun, reposition, and trip combat maneuvers until his next turn.
 
-**Staggering Assault (Ex)**: At 15th level, the cavalier can drive opponents back without giving ground. As a fullround action, the cavalier can make a single attack at his highest attack bonus. If the attack hits, the attack does damage as normal, and the cavalier may attempt a bull rush against the target. The cavalier gains a bonus on the bull rush combat maneuver check equal to half the amount of damage dealt on the initial attack.
+**Staggering Assault (Ex)**: At 15th level, the cavalier can drive opponents back without giving ground. As a full-round action, the cavalier can make a single attack at his highest attack bonus. If the attack hits, the attack does damage as normal, and the cavalier may attempt a bull rush against the target. The cavalier gains a bonus on the bull rush combat maneuver check equal to half the amount of damage dealt on the initial attack.
 
 ### Order of the Tome
 
@@ -398,7 +398,7 @@ Not all cavaliers are content to ride at the head of a charge, leading from the 
 
 **Banner of Solace (Ex)**: At 11th level, a standard bearer’s banner becomes an even more potent symbol of protection and inspiration to those around him. Once per day, while his banner is displayed, the standard bearer can wave it through the air as a full-round action, granting all allies within 60 feet temporary hit points equal to 1/2 his cavalier level, and a +2 morale bonus on their next damage rolls. At 15th level, and every four levels thereafter, this bonus increases by +1 (to a maximum of +4 at 19th level). The temporary hit points last for 10 minutes or until depleted, whichever occurs first. This ability replaces mighty charge.
 
-**Awesome Pennon (Ex)**: At 20th level, a standard bearer’s banner has become a powerful rallying point to his allies, and a bane to his foes. Whenever his banner is visible, allies of the standard bearer within 60 feet gain a +1 morale bonus on attack rolls, immunity to fear effects, and a +3 morale bonus on saving throws against mindaffecting effects. This ability replaces supreme charge.
+**Awesome Pennon (Ex)**: At 20th level, a standard bearer’s banner has become a powerful rallying point to his allies, and a bane to his foes. Whenever his banner is visible, allies of the standard bearer within 60 feet gain a +1 morale bonus on attack rolls, immunity to fear effects, and a +3 morale bonus on saving throws against mind-affecting effects. This ability replaces supreme charge.
 
 ## Strategist
 

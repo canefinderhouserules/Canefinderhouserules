@@ -8,18 +8,18 @@ A devotee who wishes to become one of his god’s most trusted priests must unde
 
 **Table: False Priest**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Domain of the pretender god, first ritual |
-| 2nd | +1 | +1 | +1 | +1 | False channel 1d6; +1 level of arcane spellcasting class |
-| 3rd | +2 | +1 | +1 | +2 | Master of lies; +1 level of arcane spellcasting class |
-| 4th | +3 | +1 | +1 | +2 | False channel 2d6; +1 level of arcane spellcasting class |
-| 5th | +3 | +2 | +2 | +3 | Domain of the pretender god, second ritual |
-| 6th | +4 | +2 | +2 | +3 | False channel 3d6; +1 level of arcane spellcasting class |
-| 7th | +5 | +2 | +2 | +4 | Conversion; +1 level of arcane spellcasting class |
-| 8th | +6 | +3 | +3 | +4 | False channel 4d6; +1 level of arcane spellcasting class |
-| 9th | +6 | +3 | +3 | +5 | Third ritual |
-| 10th | +7 | +3 | +3 | +5 | False channel 5d6, true pretender; +1 level of arcane spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +0 | +1 | Domain of the pretender god, first ritual | — |
+| 2nd | +1 | +1 | +1 | +1 | False channel 1d6 | +1 level of arcane spellcasting class |
+| 3rd | +2 | +1 | +1 | +2 | Master of lies | +1 level of arcane spellcasting class |
+| 4th | +3 | +1 | +1 | +2 | False channel 2d6 | +1 level of arcane spellcasting class |
+| 5th | +3 | +2 | +2 | +3 | Domain of the pretender god, second ritual | — |
+| 6th | +4 | +2 | +2 | +3 | False channel 3d6 | +1 level of arcane spellcasting class |
+| 7th | +5 | +2 | +2 | +4 | Conversion | +1 level of arcane spellcasting class |
+| 8th | +6 | +3 | +3 | +4 | False channel 4d6 | +1 level of arcane spellcasting class |
+| 9th | +6 | +3 | +3 | +5 | Third ritual | — |
+| 10th | +7 | +3 | +3 | +5 | False channel 5d6, true pretender | +1 level of arcane spellcasting class |
 
 ### Requirements
 

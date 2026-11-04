@@ -6,18 +6,18 @@ A first magic arcanist studies and follows traditions of magic originally discov
 
 **Table: First Magic Arcanist**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Aura of good, halcyon magic; +1 level of arcane spellcasting class |
-| 2nd | +1 | +1 | +1 | +1 | Superior spell mastery, virtuous spells; +1 level of arcane spellcasting class |
-| 3rd | +1 | +1 | +1 | +2 | Intoned recollection (1 minute), lasting goodness; +1 level of arcane spellcasting class |
-| 4th | +2 | +2 | +2 | +2 | Spontaneous spell mastery (1/day); +1 level of arcane spellcasting class |
-| 5th | +2 | +2 | +2 | +3 | Blessed warding; +1 level of arcane spellcasting class |
-| 6th | +3 | +2 | +2 | +3 | Immediate spell mastery; +1 level of arcane spellcasting class |
-| 7th | +3 | +2 | +2 | +4 | Righteous contravention; +1 level of arcane spellcasting class |
-| 8th | +4 | +3 | +3 | +4 | Spontaneous spell mastery (2/day); +1 level of arcane spellcasting class |
-| 9th | +4 | +3 | +3 | +5 | Holy arcana, intoned recollection (full round); +1 level of arcane spellcasting class |
-| 10th | +5 | +3 | +3 | +5 | Altruistic guardian, timeless body; +1 level of arcane spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +0 | +1 | Aura of good, halcyon magic | +1 level of arcane spellcasting class |
+| 2nd | +1 | +1 | +1 | +1 | Superior spell mastery, virtuous spells | +1 level of arcane spellcasting class |
+| 3rd | +1 | +1 | +1 | +2 | Intoned recollection (1 minute), lasting goodness | +1 level of arcane spellcasting class |
+| 4th | +2 | +2 | +2 | +2 | Spontaneous spell mastery (1/day) | +1 level of arcane spellcasting class |
+| 5th | +2 | +2 | +2 | +3 | Blessed warding | +1 level of arcane spellcasting class |
+| 6th | +3 | +2 | +2 | +3 | Immediate spell mastery | +1 level of arcane spellcasting class |
+| 7th | +3 | +2 | +2 | +4 | Righteous contravention | +1 level of arcane spellcasting class |
+| 8th | +4 | +3 | +3 | +4 | Spontaneous spell mastery (2/day) | +1 level of arcane spellcasting class |
+| 9th | +4 | +3 | +3 | +5 | Holy arcana, intoned recollection (full round) | +1 level of arcane spellcasting class |
+| 10th | +5 | +3 | +3 | +5 | Altruistic guardian, timeless body | +1 level of arcane spellcasting class |
 
 ### Requirements
 

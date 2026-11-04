@@ -6,18 +6,18 @@ The arclords trace their lineage to the personal retinue of a long-vanished arch
 
 **Table: Arclord of the Eye**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Mystic pedagogue, third eye; +1 level of arcane spellcasting class |
-| 2nd | +1 | +1 | +1 | +1 | Artificer’s touch; +1 level of arcane spellcasting class, aligned class |
-| 3rd | +1 | +1 | +1 | +2 | Scholiast 1; +1 level of arcane spellcasting class, aligned class |
-| 4th | +2 | +1 | +1 | +2 | Arcane architect; +1 level of arcane spellcasting class, aligned class |
-| 5th | +2 | +2 | +2 | +3 | Improved third eye; +1 level of arcane spellcasting class, aligned class |
-| 6th | +3 | +2 | +2 | +3 | Scholiast 2; +1 level of arcane spellcasting class, aligned class |
-| 7th | +3 | +2 | +2 | +4 | Extradimensional extension; +1 level of arcane spellcasting class, aligned class |
-| 8th | +4 | +3 | +3 | +4 | Call for aid; +1 level of arcane spellcasting class, aligned class |
-| 9th | +4 | +3 | +3 | +5 | Scholiast 3; +1 level of arcane spellcasting class, aligned class |
-| 10th | +5 | +3 | +3 | +5 | Greater third eye; +1 level of arcane spellcasting class, aligned class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +0 | +1 | Mystic pedagogue, third eye | +1 level of arcane spellcasting class |
+| 2nd | +1 | +1 | +1 | +1 | Artificer’s touch, aligned class | +1 level of arcane spellcasting class |
+| 3rd | +1 | +1 | +1 | +2 | Scholiast 1, aligned class | +1 level of arcane spellcasting class |
+| 4th | +2 | +1 | +1 | +2 | Arcane architect, aligned class | +1 level of arcane spellcasting class |
+| 5th | +2 | +2 | +2 | +3 | Improved third eye, aligned class | +1 level of arcane spellcasting class |
+| 6th | +3 | +2 | +2 | +3 | Scholiast 2, aligned class | +1 level of arcane spellcasting class |
+| 7th | +3 | +2 | +2 | +4 | Extradimensional extension, aligned class | +1 level of arcane spellcasting class |
+| 8th | +4 | +3 | +3 | +4 | Call for aid, aligned class | +1 level of arcane spellcasting class |
+| 9th | +4 | +3 | +3 | +5 | Scholiast 3, aligned class | +1 level of arcane spellcasting class |
+| 10th | +5 | +3 | +3 | +5 | Greater third eye, aligned class | +1 level of arcane spellcasting class |
 
 ### Requirements
 

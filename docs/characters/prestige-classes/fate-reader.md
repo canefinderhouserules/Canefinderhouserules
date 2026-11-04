@@ -71,7 +71,7 @@ A fate reader adds the *fate reading* spell (see [fate reading](../../magic/spel
 
 **Tower of Intelligence (Su)**: Beginning at 2nd level, whenever a fate reader uses her deck casting ability, for each card she draws from the suit of books (Intelligence), she gains a +1 bonus on caster level checks made to penetrate Spell Resistance.
 
-**Tower of Strength (Su)**: Beginning at 3rd level, whenever a fate reader uses her deck casting ability to augment a spell that deals damage to hit points, the spell deals +1 point of damage per die for each card from the suit of hammers (Strength) she draws.
+**Tower of Strength (Su)**: Beginning at 3rd level, whenever a fate reader uses her deck casting ability to augment a spell that deals damage to hit points, the spell gains a +1 enhancement bonus to damage per die rolled for each card from the suit of hammers (Strength) she draws.
 
 **Tower of Charisma (Su)**: Beginning at 4th level, whenever a fate reader uses her deck casting ability, for each card she draws from the suit of crowns (Charisma), the save DC of the spell increases by +1.
 

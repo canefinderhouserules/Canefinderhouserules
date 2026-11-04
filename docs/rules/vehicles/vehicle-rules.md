@@ -2,7 +2,7 @@
 
 From *Ultimate Combat*.
 
-In the Pathfinder Roleplaying Game, low-level characters do most of their traveling on their own two feet. At higher levels, magical travel becomes a common occurrence, as does travel by horseback, atop animal companions, or via more exotic mounts. Every so often, travel may involve a vehicle of some sort—the wagons of a caravan, a windtossed galley, some fantastic form of aerial transport, or even a planes-hopping device. If you like your games with a dose of weird, such vehicles may be as strange as a crashed space vessel. Whatever the case, vehicles in the Pathfinder RPG are often treated as either mobile terrain or adventure sites in their own right.
+In the Pathfinder Roleplaying Game, low-level characters do most of their traveling on their own two feet. At higher levels, magical travel becomes a common occurrence, as does travel by horseback, atop animal companions, or via more exotic mounts. Every so often, travel may involve a vehicle of some sort—the wagons of a caravan, a wind-tossed galley, some fantastic form of aerial transport, or even a planes-hopping device. If you like your games with a dose of weird, such vehicles may be as strange as a crashed space vessel. Whatever the case, vehicles in the Pathfinder RPG are often treated as either mobile terrain or adventure sites in their own right.
 
 Many of the iconic motifs that inspire roleplaying games touch on vehicular adventures, from the voyages of Jason and the Argonauts to pirate tales, from charioteers in blood-soaked arenas under a drone of cheers to those who would chase and tame dragons. History and fiction are full of interesting vehicles performing death-defying actions. The rules in this chapter allow you to run combats with vehicles in the Pathfinder RPG, rather than just treating them as objects or terrain.
 
@@ -50,7 +50,7 @@ When a driver makes a driving check to control an alchemically propelled vehicle
 
 **Water Current**: Vehicles that only rely on currents of water for their propulsion are somewhat limited. These vehicles can only move in the direction and at the speed of a current unless they also employ some other means of propulsion or manipulation, and thus often have an additional form of propulsion, such as muscle in the case of a canoe, and wind in the case of a galley. A current-driven ship such as a river barge with a crew of two or more creatures requires either a Profession (sailor) or Knowledge (nature) check for the driving check, as ships require precision, discipline, and knowledge of the natural world. Smaller water-current vehicles, like canoes, use the Survival skill as the drive skill, as reading the terrain is a very important aspect of maintaining control over those types of vehicles.
 
-If it moves with the current, a water-current vehicle’s maximum speed depends on the speed of the current (often as high as 120 feet). The acceleration of a watercurrent vehicle is 30 feet.
+If it moves with the current, a water-current vehicle’s maximum speed depends on the speed of the current (often as high as 120 feet). The acceleration of a water-current vehicle is 30 feet.
 
 **Air Current**: Air-current vehicles are rather diverse. They can be sailing ships, airships, land ships, or even gliders. A vehicle propelled by air with a crew of two or more creatures requires a Profession (sailor) or Knowledge (nature) check as its driving check. Because of their complexity, air-current vehicles always have their driving check DCs increased by 10. Smaller air-current vehicles, such as gliders and wind sleds, use Acrobatics or Fly instead. Much of their control depends on knowledge of flight or proper movements of the body to control the vehicle.
 
@@ -74,9 +74,9 @@ For intelligent creatures, use Diplomacy if the creatures providing the propulsi
 
 A creature that is pushing a vehicle with the proper mechanical help can push between 5 times to 20 times its space in vehicle squares.
 
-The maximum speed and acceleration of a musclepropelled vehicle depends on the mechanism used to assist the pushing—see the sample vehicle statistics for examples.
+The maximum speed and acceleration of a muscle-propelled vehicle depends on the mechanism used to assist the pushing—see the sample vehicle statistics for examples.
 
-**Mixed Methods of Propulsion**: Large and complicated vehicles, such as large sailing ships, often use multiple forms of propulsion. Sometimes multiple methods add flexibility, but often they work in concert to create faster movement. A vehicle with multiple methods of propulsion often requires a large crew to get it going and keep it moving. If a vehicle has two methods of propulsion, it uses its fastest speed and acceleration and then adds half the speed and acceleration of the secondfastest propulsion. Nothing is added for a third form of propulsion, except for the flexibility of having a back-up form of propulsion.
+**Mixed Methods of Propulsion**: Large and complicated vehicles, such as large sailing ships, often use multiple forms of propulsion. Sometimes multiple methods add flexibility, but often they work in concert to create faster movement. A vehicle with multiple methods of propulsion often requires a large crew to get it going and keep it moving. If a vehicle has two methods of propulsion, it uses its fastest speed and acceleration and then adds half the speed and acceleration of the second-fastest propulsion. Nothing is added for a third form of propulsion, except for the flexibility of having a back-up form of propulsion.
 
 ## Vehicle Size and Space
 

@@ -130,13 +130,13 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Horizon Walker](horizon-walker.md)**: A scout and wanderer comfortable in even the strangest terrain.
 
-**[Infernal Knight](infernal-knight.md)**: A lawful devil-slayer who smites chaos and wears specialized armor.
+**[Hell Knight](hell-knight.md)**: A lawful devil-slayer who smites chaos and wears specialized armor.
 
-**[Infernal Knight Signifer](infernal-knight-signifer.md)**: The spellcasting arm of a knightly order: masked, lawful casters with devil-resistant gifts and armor training.
+**[Hell Knight Signifer](hell-knight-signifer.md)**: The spellcasting arm of a knightly order: masked, lawful casters with devil-resistant gifts and armor training.
 
 **[Justicar](justicar.md)**: A lawful arbiter who carries the force of law into slums and frontier lands alike.
 
-**[Knightly Orders](knightly-orders.md)**: The generic orders of the infernal knights, with their reckonings and boons.
+**[Knightly Orders](knightly-orders.md)**: The generic orders of the hell knights, with their reckonings and boons.
 
 **[Introspective Emissary](introspective-emissary.md)**: A shaman-like spirit bonder who summons an animus hybrid through her spirit animal.
 

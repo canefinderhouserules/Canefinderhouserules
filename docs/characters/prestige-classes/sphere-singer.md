@@ -8,18 +8,18 @@ The faithful of a goddess of dreams, luck, stars, and travelers are legendary fo
 
 **Table: Sphere Singer**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +0 | +1 | +1 | Graceful hand, starsong, wanderer's hymn |
-| 2nd | +1 | +1 | +1 | +1 | Versatile performance, +1 level of existing spellcasting class |
-| 3rd | +2 | +1 | +2 | +2 | Sweet dreams, +1 level of existing spellcasting class |
-| 4th | +3 | +1 | +2 | +2 | Wandering dream (dream), +1 level of existing spellcasting class |
-| 5th | +3 | +2 | +3 | +3 | Butterfly, +1 level of existing spellcasting class |
-| 6th | +4 | +2 | +3 | +3 | Versatile performance, wandering dream (dream council), +1 level of existing spellcasting class |
-| 7th | +5 | +2 | +4 | +4 | Guide my steps, starsong (swift action), +1 level of existing spellcasting class |
-| 8th | +6 | +3 | +4 | +4 | Wandering dream (demand), +1 level of existing spellcasting class |
-| 9th | +6 | +3 | +5 | +5 | Fortune's favor |
-| 10th | +7 | +3 | +5 | +5 | Tapestry traveler, +1 level of existing spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +1 | +1 | Graceful hand, starsong, wanderer's hymn | — |
+| 2nd | +1 | +1 | +1 | +1 | Versatile performance | +1 level of existing spellcasting class |
+| 3rd | +2 | +1 | +2 | +2 | Sweet dreams | +1 level of existing spellcasting class |
+| 4th | +3 | +1 | +2 | +2 | Wandering dream (dream) | +1 level of existing spellcasting class |
+| 5th | +3 | +2 | +3 | +3 | Butterfly | +1 level of existing spellcasting class |
+| 6th | +4 | +2 | +3 | +3 | Versatile performance, wandering dream (dream council) | +1 level of existing spellcasting class |
+| 7th | +5 | +2 | +4 | +4 | Guide my steps, starsong (swift action) | +1 level of existing spellcasting class |
+| 8th | +6 | +3 | +4 | +4 | Wandering dream (demand) | +1 level of existing spellcasting class |
+| 9th | +6 | +3 | +5 | +5 | Fortune's favor | — |
+| 10th | +7 | +3 | +5 | +5 | Tapestry traveler | +1 level of existing spellcasting class |
 
 ### Requirements
 

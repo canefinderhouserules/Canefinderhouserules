@@ -10,9 +10,9 @@ Due to this prestige class’s emphasis on mastering numerous feats, sword dueli
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
 |---|---|---|---|---|---|
-| 1st | +1 | +0 | +1 | +0 | Deft strike, quick draw |
+| 1st | +1 | +0 | +1 | +0 | Deft strike, bonus combat feat |
 | 2nd | +2 | +1 | +1 | +1 | Display weapon prowess |
-| 3rd | +3 | +1 | +2 | +1 | Defensive parry +1 |
+| 3rd | +3 | +1 | +2 | +1 | Defensive parry +1, panache, opportune parry and riposte |
 | 4th | +4 | +1 | +2 | +1 | Adaptive tactics 1 |
 | 5th | +5 | +2 | +3 | +2 | Shatter confidence |
 | 6th | +6 | +2 | +3 | +2 | Saving slash |
@@ -49,13 +49,13 @@ The following are class features of the sword duelist prestige class.
 
 Unless stated otherwise, the following benefits apply only when a sword duelist is wielding a [dueling sword](../../equipment/gear-ag.md) and carrying nothing in his other hand.
 
-**Deft Strike (Ex)**: A sword duelist can add 1-1/2 times his Dexterity bonus (if any), plus his sword duelist level, to damage rolls made with a dueling sword instead of his Strength bonus. This bonus on damage rolls applies whether the duelist is wielding a dueling sword one-handed or two-handed. A sword duelist cannot use this ability if he is wielding a shield or using an off-hand weapon (including armor spikes, unarmed strikes, or natural weapons).
+**Deft Strike (Ex)**: A sword duelist can add his Dexterity bonus (if any) to damage rolls made with a dueling sword instead of his Strength bonus, or 1-1/2 times his Dexterity bonus if he wields it two-handed. He also adds his sword duelist level to these damage rolls, whether he wields the dueling sword one-handed or two-handed. A sword duelist cannot use this ability if he is wielding a shield or using an off-hand weapon (including armor spikes, unarmed strikes, or natural weapons).
 
 ??? note "Original rule"
 
     **Deft Strike (Ex)**: A sword duelist can add his Dexterity bonus (if any) to damage rolls made with a dueling sword instead of his Strength bonus. This bonus on damage rolls applies whether the duelist is wielding a dueling sword one-handed or two-handed. A sword duelist cannot use this ability if he is wielding a shield or using an off-hand weapon (including armor spikes, unarmed strikes, or natural weapons).
 
-**Bonus Feat**: A sword duelist gains one extra feat of his choice as a bonus feat. He must meet its prerequisites.
+**Bonus Feat**: At 1st level, a sword duelist gains one combat feat of his choice as a bonus feat. He must meet its prerequisites.
 
 ??? note "Original rule"
 
@@ -65,11 +65,15 @@ Unless stated otherwise, the following benefits apply only when a sword duelist 
 
 When involved in a duel, a sword duelist’s mastery of elaborate strikes and stances grants him a bonus equal to half his class level on performance combat checks (*Ultimate Combat*). These tricks can also be of great help in countering an enemy during a duel, granting him a bonus equal to half his class level on rolls to attempt a dueling parry or to use dueling resolve.
 
-**Defensive Parry (Ex)**: At 3rd level, a sword duelist gains a +1 dodge bonus to his AC when making a full attack with a dueling sword. This AC bonus increases to +2 at 7th level. If a sword duelist is also a fighter with the Sword Duelist Defender archetype, levels in this class stack with his fighter levels when determining the AC bonus from this ability. He also gains the swashbuckler’s parry and riposte deed and panache, as if he were a swashbuckler of his sword duelist level.
+**Defensive Parry (Ex)**: At 3rd level, a sword duelist gains a +1 dodge bonus to his AC when making a full attack with a dueling sword. This AC bonus increases to +2 at 7th level. If a sword duelist is also a fighter with the Sword Duelist Defender archetype, levels in this class stack with his fighter levels when determining the AC bonus from this ability.
 
-??? note "Original rule"
+**Panache (Ex)**: At 3rd level, a sword duelist gains panache, as a swashbuckler of his sword duelist level. More than just a lightly armored warrior, a sword duelist is a daring combatant. She fights with panache: a fluctuating measure of a sword duelist’s ability to perform amazing actions in combat. At the start of each day, a sword duelist gains a number of panache points equal to her Charisma modifier (minimum 1). Her panache goes up or down throughout the day, but usually cannot go higher than her Charisma modifier (minimum 1), though feats and magic items can affect this maximum. A sword duelist spends panache to accomplish deeds (see below), and regains panache in the following ways.
 
-    **Defensive Parry (Ex)**: At 3rd level, a sword duelist gains a +1 dodge bonus to his AC when making a full attack with a dueling sword. This AC bonus increases to +2 at 7th level. If a sword duelist is also a fighter with the Sword Duelist Defender archetype, levels in this class stack with his fighter levels when determining the AC bonus from this ability.
+- **Critical Hit with a Light or One-Handed Piercing Melee Weapon**: Each time the sword duelist confirms a critical hit with a light or one-handed piercing melee weapon, she regains 1 panache point. Confirming a critical hit on a helpless or unaware creature or a creature that has fewer Hit Dice than half the sword duelist’s character level doesn't restore panache.
+
+- **Killing Blow with a Light or One-Handed Piercing Melee Weapon**: When the sword duelist reduces a creature to 0 or fewer hit points with a light or one-handed piercing melee weapon attack while in combat, she regains 1 panache point. Destroying an unattended object, reducing a helpless or unaware creature to 0 or fewer hit points, or reducing a creature that has fewer Hit Dice than half the sword duelist’s character level to 0 or fewer hit points doesn't restore any panache.
+
+**Opportune Parry and Riposte (Ex)**: At 3rd level, when an opponent makes a melee attack against the sword duelist, she can spend 1 panache point and expend a use of an attack of opportunity to attempt to parry that attack. The sword duelist makes an attack roll as if she were making an attack of opportunity; for each size category the attacking creature is larger than the sword duelist, the sword duelist takes a -2 penalty on this roll. If her result is greater than the attacking creature's result, the creature's attack automatically misses. The sword duelist must declare the use of this ability after the creature's attack is announced, but before its attack roll is made. Upon performing a successful parry and if she has at least 1 panache point, the sword duelist can as an immediate action make an attack against the creature whose attack she parried, provided that creature is within her reach.
 
 **Adaptive Tactics (Ex)**: At 4th level, a sword duelist learns to adapt his fighting style to counter his enemy’s strengths. He reduces the attack roll penalty for fighting defensively or using Combat Expertise by 1 at 4th level and by 2 at 8th level. In addition, after he uses his dueling sword to attack a creature he attacked during the previous round, as a swift action he can attempt a Sense Motive check (DC = 10 + the opponent’s base attack bonus). If successful, he gains a +2 circumstance bonus either on attack rolls or to his AC against that creature until the beginning of his next turn.
 

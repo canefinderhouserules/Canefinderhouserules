@@ -10104,7 +10104,7 @@ This elegant, long-necked samisen is crafted of cat skin stretched over a wooden
 
 **Slot** neck; **Price** 67,500 gp; **Weight** —
 
-This crimson devil talisman once belonged to the diabolist an Old Diabolist, a conjurer who aided a founder of the infernal empire in investigating the ways of Hell. The wearer of this talisman gains a +3 profane bonus to Armor Class and a *telepathic bond* with the bearded devil bound within. Once per day, the wearer can attempt an opposed Charisma check against the barbazu’s +0 modifier to summon him forth for 8 rounds, as per the spell* summon monster*. The barbazu bound within this talisman is known as Lodveyn the Wizened. Rather than Weapon Focus (glaive), Lodveyn has Throw Anything—preferring to fling his polearm, then following it into the fray with his vicious claws. He claims to have been a servant of both the diabolist and an ice devil, and remembers much of the early days of the infernal knights’ founding.
+This crimson devil talisman once belonged to the diabolist an Old Diabolist, a conjurer who aided a founder of the infernal empire in investigating the ways of Hell. The wearer of this talisman gains a +3 profane bonus to Armor Class and a *telepathic bond* with the bearded devil bound within. Once per day, the wearer can attempt an opposed Charisma check against the barbazu’s +0 modifier to summon him forth for 8 rounds, as per the spell* summon monster*. The barbazu bound within this talisman is known as Lodveyn the Wizened. Rather than Weapon Focus (glaive), Lodveyn has Throw Anything—preferring to fling his polearm, then following it into the fray with his vicious claws. He claims to have been a servant of both the diabolist and an ice devil, and remembers much of the early days of the hell knights’ founding.
 
 **Construction**
 
@@ -12681,7 +12681,7 @@ Living creatures within a cloud of mustard gas take 3d6 points of acid damage wh
 
 **Category** Two-Handed; **Proficiency** Exotic
 
-This imposing machine gun is light enough to be transported and wielded by a single user. Chambered for the Russian military in 7.6254mmR, this machine gun uses a top-loading, detachable 20-, 30-, or 40-round magazine. Like most machine guns, it is only capable of automatic fire.
+This imposing machine gun is light enough to be transported and wielded by a single user. Chambered for the Russian military in 7.6254mmR, this machine gun uses a top-loading, detachable 20-, 30-, or 40-round magazine. Like most machine guns, it is only capable of automatic fire.
 
 ### Maxim M1910 machine gun
 
@@ -12693,7 +12693,7 @@ This imposing machine gun is light enough to be transported and wielded by a sin
 
 **Category** Two-Handed; **Proficiency** Exotic
 
-This heavy machine gun uses 7.6254mmR ammunition in 250-round belts. Although a single person can fire a Maxim, it typically has a two-person crew: the gunner, and a loader who assists with feeding the ammunition belt into the weapon. As a full-round action, the loader can use a special aid another action to grant the gunner a +2 bonus on his next attack roll. Because of its size and heavy weight, a Maxim is often either mounted on a wheeled chassis with a gun shield for trench defensive use, or on the back of a horse-drawn wagon. Assuming a user can even lift the weapon, firing a Maxim M1910 machine gun that is not mounted imparts a –4 penalty on attack rolls and the recoil knocks the wielder prone. The Maxim M1910 is automatic-fire only. The armored shield provides cover when firing the weapon from the prone position.
+This heavy machine gun uses 7.6254mmR ammunition in 250-round belts. Although a single person can fire a Maxim, it typically has a two-person crew: the gunner, and a loader who assists with feeding the ammunition belt into the weapon. As a full-round action, the loader can use a special aid another action to grant the gunner a +2 bonus on his next attack roll. Because of its size and heavy weight, a Maxim is often either mounted on a wheeled chassis with a gun shield for trench defensive use, or on the back of a horse-drawn wagon. Assuming a user can even lift the weapon, firing a Maxim M1910 machine gun that is not mounted imparts a –4 penalty on attack rolls and the recoil knocks the wielder prone. The Maxim M1910 is automatic-fire only. The armored shield provides cover when firing the weapon from the prone position.
 
 ### Mosin-Nagant M1891 rifle
 
@@ -12711,7 +12711,7 @@ the mainstay of Russian military forces. It is similar to the
 
 advanced firearms rifle with the following differences. It
 
-uses the same 7.6254mmR ammunition as the Madsen
+uses the same 7.6254mmR ammunition as the Madsen
 
 machine gun, and is fed from a 5-round internal, nondetachable
 
@@ -13371,15 +13371,15 @@ Incendiary catalyst can be thrown at a creature as a ranged touch attack with a 
 
 **Craft (Alchemy)** DC 20
 
-### Infernal Knight Barding
+### Hell Knight Barding
 
 **Price** varies; **Weight** varies
 
 **Category** Animal Gear
 
-infernal knights often equip their steeds with armor similar to their own. Typical barding for infernal knight steeds is spiked (the spikes are ornamental, however, and cannot deal damage). Such barding is usually designed to look similar to the armor of the horse’s rider, or to look skeletal, fiendish, or similar to a nightmare. infernal knight barding can be made from infernal knight leather, infernal knight plate, or infernal knight half-plate; it costs four times as much and weighs twice as much. infernal knight leather barding slows a mount from 40 feet to 30 feet, from 50 feet to 35 feet, or from 60 feet to 40 feet. infernal knight half-plate barding or infernal knight plate barding also slows a mount, and a mount wearing such armor moves at only triple its normal speed when running instead of quadruple.
+hell knights often equip their steeds with armor similar to their own. Typical barding for hell knight steeds is spiked (the spikes are ornamental, however, and cannot deal damage). Such barding is usually designed to look similar to the armor of the horse’s rider, or to look skeletal, fiendish, or similar to a nightmare. hell knight barding can be made from hell knight leather, hell knight plate, or hell knight half-plate; it costs four times as much and weighs twice as much. hell knight leather barding slows a mount from 40 feet to 30 feet, from 50 feet to 35 feet, or from 60 feet to 40 feet. hell knight half-plate barding or hell knight plate barding also slows a mount, and a mount wearing such armor moves at only triple its normal speed when running instead of quadruple.
 
-### Infernal Knight Half-plate
+### Hell Knight Half-plate
 
 **Cost** 850 gp **Weight** 50 lbs.
 
@@ -13387,9 +13387,9 @@ infernal knights often equip their steeds with armor similar to their own. Typic
 
 **Arcane Spell Failure Chance** 40%; **Speed** 20 ft./15 ft.
 
-The armor worn by an infernal knight signifer is a vestment of armored plates, chain, and dark fabric. It functions as half-plate, but it can be donned and removed as though it were medium armor. Any spellcaster who wears this armor is treated as if he were wearing infernal knight plate for the purposes of any feats and effects that require one to be wearing infernal knight plate. This armor includes a signifer mask, though signifer masks can be purchased separately.
+The armor worn by a hell knight signifer is a vestment of armored plates, chain, and dark fabric. It functions as half-plate, but it can be donned and removed as though it were medium armor. Any spellcaster who wears this armor is treated as if he were wearing hell knight plate for the purposes of any feats and effects that require one to be wearing hell knight plate. This armor includes a signifer mask, though signifer masks can be purchased separately.
 
-### Infernal Knight Leather
+### Hell Knight Leather
 
 **Cost** 30 gp **Weight** 25 lbs.
 
@@ -13397,9 +13397,9 @@ The armor worn by an infernal knight signifer is a vestment of armored plates, c
 
 **Arcane Spell Failure Chance** 15%; **Speed** 30 ft./20 ft.
 
-There are instances where wearing full plate armor can jeopardize an infernal knight’s life. Primarily worn by infernal knight sailors, this studded leather armor includes heavy gloves and a helm of sculpted leather designed to look like a skull— either a human’s or that of some aquatic creature. infernal knight leather’s statistics are identical to those of studded leather, except it costs 5 gp more and weighs 5 pounds more.
+There are instances where wearing full plate armor can jeopardize a hell knight’s life. Primarily worn by hell knight sailors, this studded leather armor includes heavy gloves and a helm of sculpted leather designed to look like a skull— either a human’s or that of some aquatic creature. hell knight leather’s statistics are identical to those of studded leather, except it costs 5 gp more and weighs 5 pounds more.
 
-### Infernal Knight Plate
+### Hell Knight Plate
 
 **Cost** 2,000 gp **Weight** 50 lbs.
 
@@ -13407,7 +13407,7 @@ There are instances where wearing full plate armor can jeopardize an infernal kn
 
 **Arcane Spell Failure Chance** 35%; **Speed** 20 ft./15 ft.
 
-These distinctive suits of armor are a special type of masterwork full plate that grant additional effects when worn by a character with levels in the infernal knight prestige class. Apart from its distinctive look (each order of infernal knights has its own style of armor), a suit of infernal knight plate functions the same as a suit of masterwork full plate.
+These distinctive suits of armor are a special type of masterwork full plate that grant additional effects when worn by a character with levels in the hell knight prestige class. Apart from its distinctive look (each order of hell knights has its own style of armor), a suit of hell knight plate functions the same as a suit of masterwork full plate.
 
 ### Kaava Musk
 

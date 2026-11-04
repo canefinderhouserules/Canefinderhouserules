@@ -266,7 +266,7 @@ Additionally, one can enhance summoning for specific kinds of devils by appealin
 
 **Lemure**: Lemures prefer reminders of their former lives, and so the best offering is food or pornography.
 
-**Pit Fiend (SR 31)**: Pit fiends, the greatest of all the nonnoble devils in Hell, are rarely tempted to answer a summons; when called, most of them come to see the stupidity or the arrogance that brought them to the Material Plane before snatching the wizard away for an eternity of torment.
+**Pit Fiend (SR 31)**: Pit fiends, the greatest of all the non-noble devils in Hell, are rarely tempted to answer a summons; when called, most of them come to see the stupidity or the arrogance that brought them to the Material Plane before snatching the wizard away for an eternity of torment.
 
 Only the greatest of promises, such as a noble offering the enslavement of an entire empire, a priest offering the destruction of holy relics, or an antipaladin pledging the delivery of a helpless and noteworthy angel for the pit fiend’s pleasure, might induce the pit fiend into service.
 
@@ -274,7 +274,7 @@ Only the greatest of promises, such as a noble offering the enslavement of an en
 
 True elementals are simple creatures, thriving spirits animating bodies of pure elemental matter. They regard their lives as an eternal struggle to best themselves and each other. Each elemental type is uniquely suited to adapting to conditions on its particular plane, and is arrogant about its powers when surrounded by its element... and uniquely frightened and cowed when shown a greater power or encased in an element not its own. Most elementals do not bargain for favors—they respect only strength. Genies are the more human-like denizens of the elemental planes, both in shape and mentality. They consider themselves physically and culturally superior to true elementals.
 
-In general, one summons an elemental for brute work and combat, and a genie for magical power or ancient wisdom, and would thus use summon monster and planar binding for those tasks, respectively. However, should a conjurer wish to bind an elemental as he would a genie or fiend, the ritual is one of wrestling with the elemental’s creativity in reaching its home element. Elementals are immune to bleed, paralysis, poison, sleep effects, and stunning. They are not subject to critical hits, precisionbased attacks like sneak attack, or flanking. Genies seek and value power, though they are more brash and boastful than most. It is said the best way to secure the attentions of a genie is to speak its true name, and to offer it aid in battles against its political enemies—a wise conjurer researches the inner battles of geniekind before summoning a genie, or else is prepared to cow the genie with strong magic.
+In general, one summons an elemental for brute work and combat, and a genie for magical power or ancient wisdom, and would thus use summon monster and planar binding for those tasks, respectively. However, should a conjurer wish to bind an elemental as he would a genie or fiend, the ritual is one of wrestling with the elemental’s creativity in reaching its home element. Elementals are immune to bleed, paralysis, poison, sleep effects, and stunning. They are not subject to critical hits, precision-based attacks like sneak attack, or flanking. Genies seek and value power, though they are more brash and boastful than most. It is said the best way to secure the attentions of a genie is to speak its true name, and to offer it aid in battles against its political enemies—a wise conjurer researches the inner battles of geniekind before summoning a genie, or else is prepared to cow the genie with strong magic.
 
 **Air Elemental**: When summoning an air elemental, inscribe the magic circle with diamond powder, and release the elemental only once it has acquiesced to the caster’s power. This costs an additional 2,000 gp but adds +4 to the Charisma check.
 
@@ -286,7 +286,7 @@ In general, one summons an elemental for brute work and combat, and a genie for 
 
 **Earth Elemental**: Prepare the summoning chamber with swirling wind- and air-based spells to prevent the elemental from touching the floor. Maintaining this state for 5 rounds demonstrates the binder’s superiority over the elemental, and grants a +4 bonus on the Charisma check.
 
-**Efreeti**: These warlike creatures value weapons with enhancement bonuses of at least +2 and scrolls of 4thlevel or higher spells; these provide a +2 bonus on the binder’s Charisma check. Efreet also appreciate attractive humanoid slaves, which give a +1 bonus on the binder’s Charisma check for every 10 slaves offered.
+**Efreeti**: These warlike creatures value weapons with enhancement bonuses of at least +2 and scrolls of 4th-level or higher spells; these provide a +2 bonus on the binder’s Charisma check. Efreet also appreciate attractive humanoid slaves, which give a +1 bonus on the binder’s Charisma check for every 10 slaves offered.
 
 **Fire Elementals**: When summoning a fire elemental, enclose the casting chamber with stone, remove flammable materials from the room, and prepare a magic circle and spells to protect against fire. Keeping large blocks of ice in the room saps the elemental’s power and cows it into submission more quickly, giving the caster a +4 bonus on the Charisma check to trap the elemental.
 

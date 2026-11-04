@@ -81,11 +81,11 @@ Siege engines hurl massive projectiles in one of two ways: direct fire or indire
 
 **Load Ammunition**: In order for a ranged siege engine to fire, it needs to be loaded with ammunition. Loading ammunition takes a number of full-round actions depending on the siege engine (this time can be reduced to move actions if the crew leader has the Master Siege Engineer feat; see the relevant section).
 
-**Aiming a Siege Engine**: Ranged siege engines must be aimed in order to attack a desired target (in the case of direct-fire siege engines) or square (in the case of indirectfire siege engines). Aiming takes a number of full-round actions (or move actions if the crew leader has the Master Siege Engineer feat presented), with the number depending on the specific siege engine. Aiming a siege engine with a diminished crew doubles the amount of time it takes to aim the siege engine. Each time a new target or square is chosen as the target of a siege engine’s attack, that engine must be aimed anew.
+**Aiming a Siege Engine**: Ranged siege engines must be aimed in order to attack a desired target (in the case of direct-fire siege engines) or square (in the case of indirect-fire siege engines). Aiming takes a number of full-round actions (or move actions if the crew leader has the Master Siege Engineer feat presented), with the number depending on the specific siege engine. Aiming a siege engine with a diminished crew doubles the amount of time it takes to aim the siege engine. Each time a new target or square is chosen as the target of a siege engine’s attack, that engine must be aimed anew.
 
 **Direct-Fire Ranged Siege Engines**: Direct-fire weapons launch their projectiles on a relatively flat trajectory, allowing them to more easily target creatures or pummel barriers directly in front of them.
 
-A direct-fire weapon uses a normal attack roll, with the normal penalty for nonproficient use. In addition, a directfire weapon takes a –2 attack roll penalty per size category that the weapon is larger than the creature aiming it. Creatures that have ranks in Knowledge (engineering) are not adversely affected by their size when firing direct-fire ranged siege engines.
+A direct-fire weapon uses a normal attack roll, with the normal penalty for nonproficient use. In addition, a direct-fire weapon takes a –2 attack roll penalty per size category that the weapon is larger than the creature aiming it. Creatures that have ranks in Knowledge (engineering) are not adversely affected by their size when firing direct-fire ranged siege engines.
 
 Sheer manpower can also reduce the penalties for size. Increasing the crew of these weapons by 1 or more can reduce the attack roll penalty for creature size: as long as an extra crew member is no smaller than three size categories smaller than the direct-fire weapon, it can reduce the penalty due to the aiming creature’s size by 2. For example, a Huge ballista fired by a Medium creature that is part of a crew of two (the creature aiming the ballista and someone to help position it) takes only a –2 penalty on attack rolls.
 
@@ -190,7 +190,7 @@ Galleries have a hardness of 5, and hit points based on their size. A Large gall
 
 Ladder, Escalade: Escalade ladders have spiked bases for stability, and the upper 5 feet are metal-shod, with hardness 10 and 20 hit points. The remainder of the ladder is wooden and has hardness 5 and hit points based on its size. Large escalade ladders have 20 hit points, Huge ones have 30 hit points, Gargantuan ones have 80 hit points, and Colossal ones have 120 hit points. Escalade ladders cannot be armored.
 
-**Rams**: The most basic close assault weapons are ironshod logs carried by one or more creatures to combine their strength. A ram can be used to deal damage or to make a Strength check against the target’s break DC.
+**Rams**: The most basic close assault weapons are iron-shod logs carried by one or more creatures to combine their strength. A ram can be used to deal damage or to make a Strength check against the target’s break DC.
 
 **Ramming Charge**: Rams require momentum to be effective. All creatures using the ram must use the charge action to gain its full effect. Creatures not wishing to charge may make a ram attack as a full-round action, taking a –4 penalty on attack and damage rolls and Strength checks with the ram.
 

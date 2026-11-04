@@ -31,7 +31,7 @@ To qualify to become an evangelist, a character must fulfill all of the followin
 
 **Feats**: [Deific Obedience](../../rules/feats/deific-obedience.md).
 
-**Spells**: Able to cast 1st-level spells.
+**Skills**: Knowledge (religion) 5 ranks, plus 5 ranks in one other skill.
 
 ??? note "Original requirements"
 

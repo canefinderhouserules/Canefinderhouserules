@@ -8,18 +8,18 @@ Among the most ardent and celebrated members of the faith of a drunken god of al
 
 **Table: Brewkeeper**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +1 | +1 | +0 | Distilled spells, faithful drinker |
-| 2nd | +1 | +1 | +1 | +1 | Brew reservoir, helpful homebrew, +1 level of existing spellcasting class |
-| 3rd | +2 | +2 | +2 | +1 | Harmful homebrew, potion master, +1 level of existing spellcasting class |
-| 4th | +3 | +2 | +2 | +1 | Helpful homebrew, +1 level of existing spellcasting class |
-| 5th | +3 | +3 | +3 | +2 | Brew specialization, +1 level of existing spellcasting class |
-| 6th | +4 | +3 | +3 | +2 | Helpful homebrew, harmful homebrew, +1 level of existing spellcasting class |
-| 7th | +5 | +4 | +4 | +2 | Quick brewing, +1 level of existing spellcasting class |
-| 8th | +6 | +4 | +4 | +3 | Helpful homebrew, +1 level of existing spellcasting class |
-| 9th | +6 | +5 | +5 | +3 | Harmful homebrew, +1 level of existing spellcasting class |
-| 10th | +7 | +5 | +5 | +3 | Helpful homebrew, true brewkeeper, +1 level of existing spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +1 | +1 | +0 | Distilled spells, faithful drinker | — |
+| 2nd | +1 | +1 | +1 | +1 | Brew reservoir, helpful homebrew | +1 level of existing spellcasting class |
+| 3rd | +2 | +2 | +2 | +1 | Harmful homebrew, potion master | +1 level of existing spellcasting class |
+| 4th | +3 | +2 | +2 | +1 | Helpful homebrew | +1 level of existing spellcasting class |
+| 5th | +3 | +3 | +3 | +2 | Brew specialization | +1 level of existing spellcasting class |
+| 6th | +4 | +3 | +3 | +2 | Helpful homebrew, harmful homebrew | +1 level of existing spellcasting class |
+| 7th | +5 | +4 | +4 | +2 | Quick brewing | +1 level of existing spellcasting class |
+| 8th | +6 | +4 | +4 | +3 | Helpful homebrew | +1 level of existing spellcasting class |
+| 9th | +6 | +5 | +5 | +3 | Harmful homebrew | +1 level of existing spellcasting class |
+| 10th | +7 | +5 | +5 | +3 | Helpful homebrew, true brewkeeper | +1 level of existing spellcasting class |
 
 ### Requirements
 

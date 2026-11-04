@@ -14,7 +14,7 @@ Drinking a potion or using an oil is a standard action. The potion or oil takes 
 
 A creature must be able to swallow a potion or smear on an oil. Because of this, incorporeal creatures cannot use potions or oils. Any corporeal creature can imbibe a potion or use an oil.
 
-A character can carefully administer a potion to an unconscious creature as a full-round action, trickling the liquid down the creature’s throat. Likewise, it takes a fullround action to apply an oil to an unconscious creature.
+A character can carefully administer a potion to an unconscious creature as a full-round action, trickling the liquid down the creature’s throat. Likewise, it takes a full-round action to apply an oil to an unconscious creature.
 
 **Table 15–12: Potions**
 

@@ -32,7 +32,7 @@ The builder sets the Perception and Disable Device DCs for a mechanical trap. Fo
 
 **Mechanical Trap**: The base DC for both Perception and Disable Device checks is 20. Raising or lowering either of these DCs affects the CR (Table 13–3).
 
-**Magic Trap**: The DC for both Perception and Disable Device checks is equal to 25 + the spell level of the highestlevel spell used. Only characters with the trapfinding class feature can attempt a Disable Device check involving a magic trap.
+**Magic Trap**: The DC for both Perception and Disable Device checks is equal to 25 + the spell level of the highest-level spell used. Only characters with the trapfinding class feature can attempt a Disable Device check involving a magic trap.
 
 ### Trigger
 

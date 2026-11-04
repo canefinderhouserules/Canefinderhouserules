@@ -6,18 +6,18 @@ Perhaps no event so shaped dwarven history or culture as the legendary Quest for
 
 **Table: Skyseeker**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +1 | +1 | +0 | +1 | Ancestral weapon +1d6, citadel keeper |
-| 2nd | +2 | +1 | +1 | +1 | Rune-carved armor; +1 level of divine spellcasting class |
-| 3rd | +3 | +2 | +1 | +2 | Commune 1/week; +1 level of divine spellcasting class |
-| 4th | +4 | +2 | +1 | +2 | Ancestral weapon +2d6, dwarven armor training; +1 level of divine spellcasting class |
-| 5th | +5 | +3 | +2 | +3 | Darkvision |
-| 6th | +6 | +3 | +2 | +3 | Runes of resistance; +1 level of divine spellcasting class |
-| 7th | +7 | +4 | +2 | +4 | Ancestral weapon +3d6, darkvision +30 ft.; +1 level of divine spellcasting class |
-| 8th | +8 | +4 | +3 | +4 | Paths of the ancients; +1 level of divine spellcasting class |
-| 9th | +9 | +5 | +3 | +5 | Stalwart |
-| 10th | +10 | +5 | +3 | +5 | Ancestral weapon +4d6, call to arms; +1 level of divine spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +1 | +1 | +0 | +1 | Ancestral weapon +1d6, citadel keeper | — |
+| 2nd | +2 | +1 | +1 | +1 | Rune-carved armor | +1 level of divine spellcasting class |
+| 3rd | +3 | +2 | +1 | +2 | Commune 1/week | +1 level of divine spellcasting class |
+| 4th | +4 | +2 | +1 | +2 | Ancestral weapon +2d6, dwarven armor training | +1 level of divine spellcasting class |
+| 5th | +5 | +3 | +2 | +3 | Darkvision | — |
+| 6th | +6 | +3 | +2 | +3 | Runes of resistance | +1 level of divine spellcasting class |
+| 7th | +7 | +4 | +2 | +4 | Ancestral weapon +3d6, darkvision +30 ft. | +1 level of divine spellcasting class |
+| 8th | +8 | +4 | +3 | +4 | Paths of the ancients | +1 level of divine spellcasting class |
+| 9th | +9 | +5 | +3 | +5 | Stalwart | — |
+| 10th | +10 | +5 | +3 | +5 | Ancestral weapon +4d6, call to arms | +1 level of divine spellcasting class |
 
 ### Requirements
 

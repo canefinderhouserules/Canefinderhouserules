@@ -8,18 +8,18 @@ Few introspective emissaries still exist, and many consider the art of mingling 
 
 **Table: Introspective Emissary**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Spirit animal, spirit bond, sixth sense (undead) |
-| 2nd | +1 | +1 | +1 | +1 | Animus (*summon monster IV*), sixth sense (fey); +1 level of existing spellcasting class |
-| 3rd | +2 | +1 | +1 | +2 | Manifest will, sixth sense (outsiders); +1 level of existing spellcasting class |
-| 4th | +3 | +1 | +1 | +2 | Animus (*summon monster V*, 2/day); +1 level of existing spellcasting class |
-| 5th | +3 | +2 | +2 | +3 | Parley, spirit conduit (augment) |
-| 6th | +4 | +2 | +2 | +3 | Animus (*summon monster VI*), manifest will; +1 level of existing spellcasting class |
-| 7th | +5 | +2 | +2 | +4 | Spirit conduit (recall); +1 level of existing spellcasting class |
-| 8th | +6 | +3 | +3 | +4 | Animus (*summon monster VII*, 3/day); +1 level of existing spellcasting class |
-| 9th | +6 | +3 | +3 | +5 | Manifest will |
-| 10th | +7 | +3 | +3 | +5 | Animus (*summon monster VIII*), spirit conduit (commune); +1 level of existing spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +0 | +1 | Spirit animal, spirit bond, sixth sense (undead) | — |
+| 2nd | +1 | +1 | +1 | +1 | Animus (*summon monster IV*), sixth sense (fey) | +1 level of existing spellcasting class |
+| 3rd | +2 | +1 | +1 | +2 | Manifest will, sixth sense (outsiders) | +1 level of existing spellcasting class |
+| 4th | +3 | +1 | +1 | +2 | Animus (*summon monster V*, 2/day) | +1 level of existing spellcasting class |
+| 5th | +3 | +2 | +2 | +3 | Parley, spirit conduit (augment) | — |
+| 6th | +4 | +2 | +2 | +3 | Animus (*summon monster VI*), manifest will | +1 level of existing spellcasting class |
+| 7th | +5 | +2 | +2 | +4 | Spirit conduit (recall) | +1 level of existing spellcasting class |
+| 8th | +6 | +3 | +3 | +4 | Animus (*summon monster VII*, 3/day) | +1 level of existing spellcasting class |
+| 9th | +6 | +3 | +3 | +5 | Manifest will | — |
+| 10th | +7 | +3 | +3 | +5 | Animus (*summon monster VIII*), spirit conduit (commune) | +1 level of existing spellcasting class |
 
 ### Requirements
 

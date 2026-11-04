@@ -33,6 +33,8 @@ To qualify to become a sentinel, a character must fulfill all of the following c
 
 **Skills**: Knowledge (religion) 5 ranks.
 
+**Base Attack Bonus**: +1.
+
 ??? note "Original requirements"
 
     **Alignment**: Within one step of chosen deity.

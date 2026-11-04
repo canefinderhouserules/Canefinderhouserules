@@ -108,7 +108,7 @@ A paladin with this oath vows to restore the natural state of death to any anima
 
 **Detect Undead (Su)**: This ability works like the standard paladin ability to detect evil, except as detect undead instead of detect evil. This ability replaces detect evil.
 
-**Ghost Touch Aura (Su)**: At 3rd level, the paladin’s armor is treated as if it had the ghost touch armor property. This does not affect the cost or effect of any other abilities of the armor. At 9th level, this ability also applies to the paladin’s shield. This ability replaces the paladin’s 3rdlevel and 9th-level mercies.
+**Ghost Touch Aura (Su)**: At 3rd level, the paladin’s armor is treated as if it had the ghost touch armor property. This does not affect the cost or effect of any other abilities of the armor. At 9th level, this ability also applies to the paladin’s shield. This ability replaces the paladin’s 3rd-level and 9th-level mercies.
 
 **Aura of Life (Su)**: At 8th level, the paladin gains a +4 morale bonus on saves against attacks that grant negative levels and saves to overcome negative levels.
 
@@ -126,7 +126,7 @@ This ability functions only while the paladin is conscious, not if she is uncons
 
 **Typical deities**: a god of cities, law, merchants, and wealth; a goddess of honor, justice, rulership, and valor; a god of the forge, protection, and strategy.
 
-Few dragons see the smaller races of the world as their equals—to most, humanoids are either food or an annoyance. Some paladins swear to protect others against the predation of dragonkind. Some include dragonblooded creatures (such as half-dragons or even sorcerers with the draconic bloodline) in their oath and team up with inquisitors to root out those whose ancestry carries the taint of dragon magic. Many paladins with this oath are thrill-seekers for the cause of good, channeling their divine power in ways that allow them to take on their powerful foes head on.
+Few dragons see the smaller races of the world as their equals—to most, humanoids are either food or an annoyance. Some paladins swear to protect others against the predation of dragonkind. Some include dragon-blooded creatures (such as half-dragons or even sorcerers with the draconic bloodline) in their oath and team up with inquisitors to root out those whose ancestry carries the taint of dragon magic. Many paladins with this oath are thrill-seekers for the cause of good, channeling their divine power in ways that allow them to take on their powerful foes head on.
 
 **Breath Evasion (Su)**: At 4th level, a paladin with this oath gains evasion, but only against the breath weapons of creatures with the dragon type. This ability replaces channel positive energy.
 
@@ -356,7 +356,7 @@ A holy guide believes that it's his sacred calling to clear the roads of bandits
 
 ## Temple Champion
 
-A temple champion is a powerful warrior dedicated to a good or lawful deity. She thinks of herself primarily as a servant of her deity and secondarily as an agent of her deity's church. She has a refined understanding of a specific aspect of that faith and gives up standard paladin spellcasting in favor of a warpriest's domainbased blessings and granted powers.
+A temple champion is a powerful warrior dedicated to a good or lawful deity. She thinks of herself primarily as a servant of her deity and secondarily as an agent of her deity's church. She has a refined understanding of a specific aspect of that faith and gives up standard paladin spellcasting in favor of a warpriest's domain-based blessings and granted powers.
 
 **Spells**: A temple champion does not gain access to paladin spells, and does not have a paladin caster level or spell list. This is not considered a spellcasting class. / Domain Granted Power: At 4th level, a temple champion # selects one domain granted by her deity (or a domain suitable for her ethos or goals, subject to GM approval). The temple champion gains the 1st-level granted power of that domain and uses her paladin level as her cleric level for determining the effects of that granted power. Any Wisdom-based aspects of that granted power instead use the temple champion's Charisma. The temple champion does not gain access to that domain's spell list.
 
@@ -466,7 +466,7 @@ The knight of the sepulcher archetype is available only to the antipaladin alter
 
 **Cloak of the Crypt (Ex)**: At 10th level, the knight of the sepulcher gains immunity to energy drain and harmful negative energy effects. His chance of ignoring critical hits and sneak attacks increases to 50%, as though he were wearing armor of moderate fortification. This ability replaces the smite good use gained at 10th level.
 
-**Will of the Crypt (Ex)**: At 11th level, a knight of the sepulcher’s bonus on saving throws against mindaffecting effects and death effects increases to +4. This ability replaces the aura of vengeance ability.
+**Will of the Crypt (Ex)**: At 11th level, a knight of the sepulcher’s bonus on saving throws against mind-affecting effects and death effects increases to +4. This ability replaces the aura of vengeance ability.
 
 **Weapons of Sin (Su)**: At 14th level, a knight of the sepulcher’s weapons are treated as evil-aligned for the purposes of overcoming damage reduction. This ability replaces aura of sin.
 

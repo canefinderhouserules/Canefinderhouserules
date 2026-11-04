@@ -12,9 +12,9 @@ Immediately upon completion of the spell, and once per round thereafter, you may
 
 You need not call a bolt of lightning immediately; other actions, even spellcasting, can be performed first. Each round after the first you may use a standard action (concentrating on the spell) to call a bolt. You may call a total number of bolts equal to your caster level (maximum 10 bolts).
 
-If you are outdoors and in a stormy area—a rain shower, clouds and wind, hot and cloudy conditions, or even a tornado (including a whirlwind formed by a djinni or an air elemental of at least Large size)—each bolt deals 3d10 points of electricity damage instead of 3d6.
+The damage increases by 1 die for every 2 caster levels above 5th (4d6 at 7th, 5d6 at 9th), to a maximum of 6d6 at 11th level.
 
-The damage increases by 1 die for every 2 caster levels above 5th (4 dice at 7th, 5 at 9th), to a maximum of 6 dice at 11th level.
+If you are outdoors and in a stormy area—a rain shower, clouds and wind, hot and cloudy conditions, or even a tornado (including a whirlwind formed by a djinni or an air elemental of at least Large size)—each bolt deals d10s of electricity damage instead of d6s (3d10 instead of 3d6, up to 6d10 at 11th level).
 
 This spell functions indoors or underground but not underwater.
 

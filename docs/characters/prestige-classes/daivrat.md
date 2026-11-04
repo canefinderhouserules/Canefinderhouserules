@@ -75,8 +75,6 @@ If the daivrat casts spells like a wizard, for the next 24 hours he can prepare 
 
 At 2nd level, the genie can retrieve any spell of 3rd level or lower. At 5th level, the genie can retrieve any spell of 6th level or lower. At 8th level, the genie can retrieve any spell of 8th level or lower. The genie is incorporeal and has no other powers or abilities (it cannot be used to scout, send messages, and so on) and vanishes once it delivers the spell.
 
-Preparing or casting the fetched spell does not increase its spell level.
-
 ??? note "Original rule"
 
     Preparing or casting the fetched spell is more difficult than using spells the daivrat actually knows. If the fetched spell is on the daivrat’s spellcasting class’s spell list, it is treated as 1 spell level higher than normal; otherwise it is treated as 2 spell levels higher than normal.

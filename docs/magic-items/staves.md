@@ -210,7 +210,7 @@ Crafted from bronzewood with brass bindings, this staff allows use of the follow
 **Aura** moderate evocation; **CL** 10th  
 **Slot** none; **Price** 41,400 gp; **Weight** 5 lbs.
 
-Tipped on either end with a glistening diamond, this runecovered staff allows use of the following spells:
+Tipped on either end with a glistening diamond, this rune-covered staff allows use of the following spells:
 
 - Ice storm (1 charge)
 

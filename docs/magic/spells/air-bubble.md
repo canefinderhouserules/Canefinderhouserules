@@ -4,7 +4,7 @@
 **Casting Time** 1 standard action  
 **Components** S, M/DF (a small bladder filled with air)  
 **Range** touch  
-**Target** one creature or one object no larger than a Large twohanded weapon  
+**Target** one creature or one object no larger than a Large two-handed weapon  
 **Duration** 1 minute/level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes
 

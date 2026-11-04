@@ -31,7 +31,7 @@ To qualify to become an exalted, a character must fulfill all of the following c
 
 **Feats**: [Deific Obedience](../../rules/feats/deific-obedience.md).
 
-**Skills**: Diplomacy 5 ranks, Knowledge (religion) 5 ranks.
+**Skills**: Knowledge (religion) 5 ranks.
 
 **Base Attack Bonus**: +1.
 

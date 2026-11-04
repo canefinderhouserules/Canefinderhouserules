@@ -2,7 +2,7 @@
 
 You can summon monsters more often each day.
 
-**Prerequisites**: Ability to cast summon monster as a spelllike ability, summoner 1st.
+**Prerequisites**: Ability to cast summon monster as a spell-like ability, summoner 1st.
 
 **Benefit**: You gain 1 additional use of your summon monster spell-like ability per day.
 

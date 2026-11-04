@@ -6,18 +6,18 @@ A secretive society brought into being during the early days of a bloody revolut
 
 **Table: Gray Warden**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +1 | +0 | +1 | Anonymity, sneak attack +1d6 |
-| 2nd | +1 | +1 | +1 | +1 | Harsh judgment 1/day, stern gaze; +1 level of divine spellcasting class |
-| 3rd | +2 | +2 | +1 | +2 | Bane, dramatic interrogation; +1 level of divine spellcasting class |
-| 4th | +3 | +2 | +1 | +2 | Execution feat, grim investigator, second judgment; +1 level of divine spellcasting class |
-| 5th | +3 | +3 | +2 | +3 | Improved bane, sneak attack +2d6, +1 level of divine spellcasting class |
-| 6th | +4 | +3 | +2 | +3 | Execution feat, harsh judgment 2/day; +1 level of divine spellcasting class |
-| 7th | +5 | +4 | +2 | +4 | Sinister bane; +1 level of divine spellcasting class |
-| 8th | +6 | +4 | +3 | +4 | Execution feat, slaying judgment; +1 level of divine spellcasting class |
-| 9th | +6 | +5 | +3 | +5 | Greater bane, sneak attack +3d6, +1 level of divine spellcasting class |
-| 10th | +7 | +5 | +3 | +5 | Execution feat, final demise, harsh judgment 3/day, true death; +1 level of divine spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +1 | +0 | +1 | Anonymity, sneak attack +1d6 | — |
+| 2nd | +1 | +1 | +1 | +1 | Harsh judgment 1/day, stern gaze | +1 level of divine spellcasting class |
+| 3rd | +2 | +2 | +1 | +2 | Bane, dramatic interrogation | +1 level of divine spellcasting class |
+| 4th | +3 | +2 | +1 | +2 | Execution feat, grim investigator, second judgment | +1 level of divine spellcasting class |
+| 5th | +3 | +3 | +2 | +3 | Improved bane, sneak attack +2d6 | +1 level of divine spellcasting class |
+| 6th | +4 | +3 | +2 | +3 | Execution feat, harsh judgment 2/day | +1 level of divine spellcasting class |
+| 7th | +5 | +4 | +2 | +4 | Sinister bane | +1 level of divine spellcasting class |
+| 8th | +6 | +4 | +3 | +4 | Execution feat, slaying judgment | +1 level of divine spellcasting class |
+| 9th | +6 | +5 | +3 | +5 | Greater bane, sneak attack +3d6 | +1 level of divine spellcasting class |
+| 10th | +7 | +5 | +3 | +5 | Execution feat, final demise, harsh judgment 3/day, true death | +1 level of divine spellcasting class |
 
 ### Requirements
 
@@ -48,6 +48,12 @@ The gray warden's class skills (and the key ability for each skill) are Bluff (C
 ### Class Features
 
 The following are class features of the gray warden prestige class.
+
+**Spells per Day**: At every level except 1st, a gray warden gains new spells per day as if he had also gained a level in a divine spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If he had more than one divine spellcasting class before becoming a gray warden, he must decide to which class he adds each level for the purpose of determining spells per day.
+
+??? note "Original rule"
+
+    **Spells per Day**: A gray warden did not gain a level of spellcasting at 5th or 9th level.
 
 **Weapon and Armor Proficiency**: A gray warden gains no additional weapon or armor proficiencies.
 

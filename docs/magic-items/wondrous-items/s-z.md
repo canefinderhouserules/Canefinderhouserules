@@ -194,7 +194,7 @@ This light garment is worn over normal clothing or armor. Most such vestments ar
 **Aura** strong conjuration; **CL** 17th  
 **Slot** none; **Price** 82,000 gp; **Weight** —
 
-This strange, interdimensional device looks just like a portable hole. Anything placed within it is immediately cast to another world—a parallel world, another planet, or a different plane (chosen randomly). If the well is moved, it opens to a new plane (also randomly determined). It can be picked up, folded, or rolled, just as a portable hole can be. Objects from the world the well touches can come through the opening just as easily—it is a twoway portal.
+This strange, interdimensional device looks just like a portable hole. Anything placed within it is immediately cast to another world—a parallel world, another planet, or a different plane (chosen randomly). If the well is moved, it opens to a new plane (also randomly determined). It can be picked up, folded, or rolled, just as a portable hole can be. Objects from the world the well touches can come through the opening just as easily—it is a two-way portal.
 
 **Requirements** Craft Wondrous Item, gate; **Cost** 41,000 gp
 

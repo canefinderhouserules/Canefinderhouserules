@@ -8,18 +8,18 @@ Not all winter witches have a blood connection to the nobility of the frozen rea
 
 **Table: Winter Witch**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Hyperboreal patronage, winter witchcraft |
-| 2nd | +1 | +1 | +1 | +1 | Freeze and thaw; +1 level of witch class |
-| 3rd | +1 | +1 | +1 | +2 | Unnatural cold; +1 level of witch class |
-| 4th | +2 | +1 | +1 | +2 | Sculpt ice and snow; +1 level of witch class |
-| 5th | +2 | +2 | +2 | +3 | Bonus hex (ice tomb); +1 level of witch class |
-| 6th | +3 | +2 | +2 | +3 | Blizzard sight; +1 level of witch class |
-| 7th | +3 | +2 | +2 | +4 | Bonus hex (hoarfrost); +1 level of witch class |
-| 8th | +4 | +3 | +3 | +4 | Unearthly cold; +1 level of witch class |
-| 9th | +4 | +3 | +3 | +5 | Bonus hex (numbing chill); +1 level of witch class |
-| 10th | +5 | +3 | +3 | +5 | Iceglide, inexorable cold; +1 level of witch class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +0 | +1 | Hyperboreal patronage, winter witchcraft | — |
+| 2nd | +1 | +1 | +1 | +1 | Freeze and thaw | +1 level of witch class |
+| 3rd | +1 | +1 | +1 | +2 | Unnatural cold | +1 level of witch class |
+| 4th | +2 | +1 | +1 | +2 | Sculpt ice and snow | +1 level of witch class |
+| 5th | +2 | +2 | +2 | +3 | Bonus hex (ice tomb) | +1 level of witch class |
+| 6th | +3 | +2 | +2 | +3 | Blizzard sight | +1 level of witch class |
+| 7th | +3 | +2 | +2 | +4 | Bonus hex (hoarfrost) | +1 level of witch class |
+| 8th | +4 | +3 | +3 | +4 | Unearthly cold | +1 level of witch class |
+| 9th | +4 | +3 | +3 | +5 | Bonus hex (numbing chill) | +1 level of witch class |
+| 10th | +5 | +3 | +3 | +5 | Iceglide, inexorable cold | +1 level of witch class |
 
 ### Requirements
 

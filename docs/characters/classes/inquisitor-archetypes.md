@@ -58,7 +58,7 @@ Marked by your deity for your impressive will, you are among the few with the wh
 
 **Granted Powers**: Fate is a powerful tool for those who dole out justice for their deity. You can read the strands of fate, and those strands guide your endeavors.
 
-**Augury (Sp)**: Once per day, you can use augury as a spelllike ability.
+**Augury (Sp)**: Once per day, you can use augury as a spell-like ability.
 
 **Agent of Fate (Su)**: At 8th level, when you use your augury spell-like ability, you gain a benefit that lasts until the end of your next combat. If the result was “weal,” all curing effects used on you cure an additional +1d10 hit points. If the result was “woe,” your melee attacks deal an additional +1d6 points of damage. If the result is “weal and woe” or “nothing,” you gain a +2 insight bonus to your Armor Class.
 
@@ -253,7 +253,7 @@ Moved by divine disapproval of your church's mistakes, you seek to correct them 
 
 **Torturer’s Presence (Ex)**: You gain a +2 bonus when using the Intimidate skill. This is in addition to your bonus for Stern Gaze.
 
-**Torturer’s Touch (Sp)**: You may use touch of fatigue as a spelllike ability. Creatures that are immune to pain effects are immune to this touch. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+**Torturer’s Touch (Sp)**: You may use touch of fatigue as a spell-like ability. Creatures that are immune to pain effects are immune to this touch. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 **Critical Precision (Ex)**: At 8th level, when you roll a critical threat, you may expend one use of your torturer’s touch ability to add +4 on your critical confirmation roll. This does not stack with Critical Focus.
 
@@ -495,7 +495,7 @@ Some inquisitors create a strong bond with an animal companion, and they hunt an
 
 **Improved Empathic Link (Su)**: At 8th level, the sacred huntsmaster gains an empathic link with her animal companion. This functions like an empathic link with a familiar, except the sacred huntsmaster can also see through a companion's eyes as a swift action, maintaining this connection as long as she likes (as long as the companion is within 1 mile) and ending it as a free action. The sacred huntsmaster is blinded while maintaining this connection. This ability replaces second judgment.
 
-**Raise Animal Companion (Sp)**: At 16th level, a sacred huntsmaster gains raise animal companion as a spelllike ability (not restricted to her own animal companion). Using this ability gives the sacred huntsmaster a negative level that cannot be overcome in any way (including by restoration), but automatically ends after 24 hours. At 16th level, this functions as resurrection instead of raise dead, but otherwise operates as normal. This ability replaces third judgment.
+**Raise Animal Companion (Sp)**: At 16th level, a sacred huntsmaster gains raise animal companion as a spell-like ability (not restricted to her own animal companion). Using this ability gives the sacred huntsmaster a negative level that cannot be overcome in any way (including by restoration), but automatically ends after 24 hours. At 16th level, this functions as resurrection instead of raise dead, but otherwise operates as normal. This ability replaces third judgment.
 
 **Second Animal Focus (Ex)**: At 17th level, whenever a sacred huntsmaster uses her animal focus ability, she selects two different animal aspects for herself instead of one, and can assign two aspects to her companion instead of one. As with the companion's previous aspect, the second one does not count against the minutes per day a sacred huntsmaster can take on an aspect. If her animal companion is dead and the sacred huntsmaster has applied that aspect to herself, that aspect counts toward her maximum of two aspects at once. The sacred huntsmaster can still only apply one of her dead companion's to herself, not both. This ability replaces slayer.
 
@@ -751,7 +751,7 @@ As a consummate lurker in the shadows, an umbral stalker observes the enemies of
 
 **Deadly Efficiency (Ex)**: At 14th level, an umbral stalker becomes even deadlier against enemies who haven’t yet noticed her in the shadows. Whenever she confirms a critical hit against a foe that is unaware of her presence, she ignores any damage reduction the target might have and adds her Wisdom bonus to her damage roll (this multiplies on the critical hit as normal); in addition, if the target has regeneration, the creature loses regeneration on the round following the critical hit and can die normally during that round. Creatures whose regeneration always functions are immune to this ability.
 
-Finally, if the umbral stalker deals energy damage to a creature unaware of her presence with vulnerability to that energy type, she deals 2 extra points of damage per die rolled. This ability alters exploit weakness.
+Finally, if the umbral stalker deals energy damage to a creature unaware of her presence with vulnerability to that energy type, she gains a +2 enhancement bonus to damage per die rolled. This ability alters exploit weakness.
 
 ## Vigilant Defender
 

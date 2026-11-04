@@ -40,7 +40,7 @@ The following are new mysteries for oracles. An oracle must pick one mystery upo
 
 **Wisdom of the Ancestors (Su)**: Once per day, you can enter a trance in which you commune with the spirits of your ancestors. This trance lasts for 10 minutes, which must be uninterrupted and during which you can take no other actions. When you come out of this trance, you have gained mystical insight into the future. At 1st level, this insight acts as an augury spell with 80% effectiveness. At 5th level, the insight takes the form of a divination with 90% effectiveness. At 8th level, the knowledge you gain is equivalent to a commune spell. None of these spell effects require material components.
 
-**Final Revelation**: Upon reaching 20th level, you become one with the spirits of your ancestors. You gain a bonus on Will saving throws equal to your Charisma modifier, blindsense out to a range of 60 feet, and a +4 bonus on your caster level for all divination spells. You can cast astral projection as a spelllike ability once per day without requiring material components.
+**Final Revelation**: Upon reaching 20th level, you become one with the spirits of your ancestors. You gain a bonus on Will saving throws equal to your Charisma modifier, blindsense out to a range of 60 feet, and a +4 bonus on your caster level for all divination spells. You can cast astral projection as a spell-like ability once per day without requiring material components.
 
 ### Dark Tapestry
 
@@ -60,7 +60,7 @@ The randomly stolen thoughts remain in your mind for a number of rounds equal to
 
 **Dweller in Darkness (Sp)**: Once per day, you cast your psyche into the void of space to attract the attention of a terrible otherworldly being. The dweller in darkness behaves in all ways as if you had cast phantasmal killer. At 17th level, the dweller in darkness can be perceived by more than one creature, as if you had cast weird. You must be at least 11th level to choose this revelation.
 
-**Gift of Madness (Su)**: You tap into the unthinkable void between the stars and cause a single living creature within 30 feet to become confused for 1 round. A successful Fortitude save negates the effect. This is a mindaffecting compulsion effect. At 7th level, the confusion lasts for a number of rounds equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+**Gift of Madness (Su)**: You tap into the unthinkable void between the stars and cause a single living creature within 30 feet to become confused for 1 round. A successful Fortitude save negates the effect. This is a mind-affecting compulsion effect. At 7th level, the confusion lasts for a number of rounds equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 **Interstellar Void (Su)**: You call upon the frigid depths of outer space to bring a terrible chill to your enemies. As a standard action, one target within 30 feet is cloaked in the void and takes 1d6 points of cold damage for every oracle level you possess. A successful Fortitude save halves this damage. At 10th level, the interstellar void is so extreme that a creature that fails its save is fatigued. At 15th level, a creature that fail its save is exhausted and stunned for 1 round. You can use this ability once per day plus one additional time per day at 10th level.
 
@@ -118,7 +118,7 @@ The randomly stolen thoughts remain in your mind for a number of rounds equal to
 
 **Armor Mastery (Ex)**: You become more maneuverable while wearing armor. You can move at your normal speed in medium armor that is made of metal. This does not grant proficiency in armor. At 5th level, whenever you are wearing metal armor, you reduce the armor check penalty by 1 (to a minimum of 0) and increase the maximum Dexterity bonus allowed by your armor by 1. At 10th level, and again at 15th level, these bonuses increase by 1.
 
-**Dance of the Blades (Ex)**: Your base speed increases by 10 feet. At 7th level, you gain a +1 bonus on attack rolls with a metal weapon in any round in which you move at least 10 feet. This bonus increases by +1 at 11th level, and every four levels thereafter. At 11th level, as a move action, you can maneuver your weapon to create a shield of whirling steel around yourself until the start of your next turn; nonincorporeal melee and ranged attacks against you have a 20% miss chance while the shield is active. You must be wielding a metal weapon to use this ability.
+**Dance of the Blades (Ex)**: Your base speed increases by 10 feet. At 7th level, you gain a +1 bonus on attack rolls with a metal weapon in any round in which you move at least 10 feet. This bonus increases by +1 at 11th level, and every four levels thereafter. At 11th level, as a move action, you can maneuver your weapon to create a shield of whirling steel around yourself until the start of your next turn; non-incorporeal melee and ranged attacks against you have a 20% miss chance while the shield is active. You must be wielding a metal weapon to use this ability.
 
 **Iron Constitution (Su)**: You gain a +1 bonus on Fortitude saves. At 7th level, and again at 14th level, this bonus increases by +1.
 

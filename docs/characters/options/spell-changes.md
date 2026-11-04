@@ -5,7 +5,7 @@
 
 ## Changed Spells
 
-**[Haste](../../magic/spells/haste.md):** grants the extra attack, but does not let you exceed your limit on the number of attacks. It also lets you cast one spell of 2 levels lower as if it were quickened (under the same rules as Quicken Spell), once per turn, and it does not stack with quicken. It is now a single-target 3rd-level spell; the normal 30-foot-area version, with its usual rules, is a 4th-level spell.
+**[Haste](../../magic/spells/haste.md):** grants the extra attack, but does not let you exceed your limit on the number of attacks. It also lets you cast one spell at least 2 levels lower than your highest-level spell as if it were quickened (under the same rules as Quicken Spell), once per turn, and it does not stack with quicken. It is now a single-target 3rd-level spell; the normal 30-foot-area version, with its usual rules, is a 4th-level spell.
 
 **[Instant Enemy](../../magic/spells/instant-enemy.md):** now lasts 1 round/level. It is a 1st-level spell exclusive to rangers, and a 2nd-level spell for other classes with 6th-level spellbooks that somehow steal favored enemy.
 
@@ -33,7 +33,7 @@
 
 **[Align Weapon](../../magic/spells/align-weapon.md):** now an area effect.
 
-**[Storm Trident](../../magic/spells/storm-trident.md) / [Flame Blade](../../magic/spells/flame-blade.md):** last 1 hour/level. Both can be used with Weapon Finesse. They gain +1 damage per caster level instead of per 2 levels (the maximum is still 10).
+**[Divine Trident](../../magic/spells/divine-trident.md) / [Flame Blade](../../magic/spells/flame-blade.md):** last 1 hour/level. Both can be used with Weapon Finesse. They gain +1 damage per caster level instead of per 2 levels (the maximum is still 10).
 
 **[Gravity Bow](../../magic/spells/gravity-bow.md):** divine classes can now cast it too.
 
@@ -56,11 +56,11 @@
 **Casting Time** 1 round; **Components** V, S, F/DF (a tiny bag and a small candle)
 **Range** close (25 ft. + 5 ft./2 levels); **Effect** one summoned creature; **Duration** 1 round/level (D); **Saving Throw** none; **Spell Resistance** no
 
-Summons one or more creatures. There is no longer a fixed list: you can choose any monster from the Bestiary (if it has a proper name, the GM is very likely to trick you, so be careful). The creature has its own desires and ambitions, so be careful with that too (though it is predisposed to obey you, because you can banish it with a thought).
+Summons one or more creatures. There is no longer a fixed list: you can choose any monster from the Bestiary (if it is a unique, named individual rather than an ordinary creature of its kind, the GM is very likely to mess with you, so be careful). The creature has its own desires and ambitions, so be careful with that too (though it is predisposed to obey you, because you can banish it with a thought).
 
 The creature's CR equals the spell's level × 2, up to a maximum of your level. For example, a 2nd-level character using *summon monster I* can summon one CR 2 creature, or two CR 1 creatures.
 
-More specific spells, or feats that expand the list in some way, will most likely be treated as +1 CR for that type of creature and –1 CR for everything else (for example, *summon nature's ally* gives +1 CR if the creature is an animal and –1 CR for all others; a spell that gives you devils gives +1 CR for devils and –1 CR for all others).
+More specific spells, or feats that expand the list in some way, raise this CR limit by 1 for that type of creature and lower it by 1 for everything else (for example, *summon nature’s ally* has a limit 1 CR higher for animals and 1 CR lower for everything else).
 
 The Superior Summoning feat increases the maximum CR you can summon by 1.
 

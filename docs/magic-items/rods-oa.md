@@ -48,7 +48,7 @@ checks and a +1 insight bonus on attack and damage rolls with alchemical items, 
 
 **Revive**: The wielder targets a creature within 40 feet with empowered breath of life.
 
-**Slumber**: As deep slumber, except that it affects a 20-footradius burst centered on the wielder, can affect up to 20 HD of creatures, and has a Will save DC of 19. The wielder of the rod is unaffected and can choose to exclude up to four other targets from the effects.
+**Slumber**: As deep slumber, except that it affects a 20-foot-radius burst centered on the wielder, can affect up to 20 HD of creatures, and has a Will save DC of 19. The wielder of the rod is unaffected and can choose to exclude up to four other targets from the effects.
 
 **Construction** Craft Rod, breath of life, deep slumber, heroism, universal formula, creator must have at least 10 ranks in Craft (alchemy); **Cost** 71,000 gp
 

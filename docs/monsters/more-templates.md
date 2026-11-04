@@ -2040,15 +2040,15 @@ Though the a night of battle Blood was a failure, many hobgoblins and werewolves
 
 *Change Shape (Su)*: All silverblood lycanthropes have three forms: a humanoid form, an animal form, and a hybrid form. Equipment does not meld with the new form when changing between humanoid and hybrid form, but does when changing between those forms and animal form. A silverblood lycanthrope can shift to any of its three forms as a move action. A slain silverblood lycanthrope reverts to its humanoid form, although it remains dead.
 
-*Curse of Lycanthropy (Su)*: A silverblood lycanthrope's bite attack in animal or hybrid form infects a humanoid target with lycanthropy (Fortitude DC 15 negates). If the victim's size is not within one size category of the silverblood lycanthrope, this ability has no effect. Creatures that become lycanthropes as a result of this curse become standard afflicted lycanthropes rather than silverblood lycanthropes.
+*Curse of Lycanthropy (Su)*: A silverblood lycanthrope's bite attack in animal or hybrid form infects a humanoid target with lycanthropy (Fortitude DC 15 negates). If the victim's size is not within one size category of the silverblood lycanthrope, this ability has no effect. Creatures that become lycanthropes as a result of this curse become standard afflicted lycanthropes rather than silverblood lycanthropes.
 
 *Lunar Sympathy (Su)*: A silverblood lycanthrope is filled with enthusiastic vigor when the light of the moon is strongest. When the moon is at least half full, a silverblood lycanthrope gains the benefit of* bless* whenever it is outdoors at night. On nights of the full moon, a silverblood lycanthrope gains the effect of* heroism* rather than* bless*, and retains the benefit indoors.
 
 When the moon is less than half full, a silverblood lycanthrope becomes fatigued during the night. On nights of the new moon, a silverblood lycanthrope becomes fatigued during the day and each night becomes exhausted and takes 1d4 points of Constitution damage. A successful DC 20 Fortitude save reduces the Constitution damage by half.
 
-*Lycanthropic Empathy (Ex)*: In any form, silverblood lycanthropes can communicate and empathize with animals of the same species as the base animal. They can use Diplomacy to alter such an animal's attitude, and when so doing gain a +4 racial bonus on the check. Due to their near-legendary reputation, silverblood lycanthropes gain a +8 racial bonus on Diplomacy and Intimidate checks against standard lycanthropes of the same base creature.
+*Lycanthropic Empathy (Ex)*: In any form, silverblood lycanthropes can communicate and empathize with animals of the same species as the base animal. They can use Diplomacy to alter such an animal's attitude, and when so doing gain a +4 racial bonus on the check. Due to their near-legendary reputation, silverblood lycanthropes gain a +8 racial bonus on Diplomacy and Intimidate checks against standard lycanthropes of the same base creature.
 
-**Ability Scores**: +2 Wis, -2 Cha in all forms; +2 Str, +2 Con in hybrid and animal forms. Silverblood lycanthropes have enhanced senses but are not fully in control of their emotions and animalistic urges. In addition to these adjustments to the base creature's statistics, a silverblood lycanthrope's ability scores change when she assumes animal or hybrid form. In human form, the silverblood lycanthrope’s ability scores are unchanged from the base creature’s form. In animal and hybrid forms, the silverblood lycanthrope's ability scores are the same as the base creature's or the base animal's, whichever ability score is higher.
+**Ability Scores**: +2 Wis, -2 Cha in all forms; +2 Str, +2 Con in hybrid and animal forms. Silverblood lycanthropes have enhanced senses but are not fully in control of their emotions and animalistic urges. In addition to these adjustments to the base creature's statistics, a silverblood lycanthrope's ability scores change when she assumes animal or hybrid form. In human form, the silverblood lycanthrope’s ability scores are unchanged from the base creature’s form. In animal and hybrid forms, the silverblood lycanthrope's ability scores are the same as the base creature's or the base animal's, whichever ability score is higher.
 
 ## Soulbound Construct
 
@@ -2433,7 +2433,7 @@ Black-blooded creatures are monstrosities warped by exposure to the vile fluids 
 
 "Black-blooded" is an acquired template that can be added to any corporeal aberration, animal, dragon, fey, giant, humanoid, magical beast, monstrous humanoid, ooze, plant, or vermin (referred to hereafter as the base creature).
 
-A black-blooded creature uses all the base creaturefs statistics and abilities except as noted here.
+A black-blooded creature uses all the base creaturefs statistics and abilities except as noted here.
 
 **Size and Type**: The creature’s type changes to aberration and it gains the aquatic subtype. Do not recalculate Hit Dice, base attack bonus, or saves. Size is unchanged.
 
@@ -2445,7 +2445,7 @@ A black-blooded creature uses all the base creaturefs statistics and abilities
 
 **Special Attacks**: A black-blooded creature retains all the special attacks of the base creature and gains the following special attack.
 
-*Breath Weapon (Su)*: 30-foot cone of black blood, once every 1d4 rounds, damage 6d6 cold. A successful Reflex save (DC 10 + 1.2 black-blooded creaturefs racial HD + black-blooded creaturefs Con modifier) reduces damage by half.
+*Breath Weapon (Su)*: 30-foot cone of black blood, once every 1d4 rounds, damage 6d6 cold. A successful Reflex save (DC 10 + 1.2 black-blooded creaturefs racial HD + black-blooded creaturefs Con modifier) reduces damage by half.
 
 **Special Qualities**: A black-blooded creature has all the special qualities of the base creature, plus darkvision out to 120 feet, low-light vision, and the amphibious quality. A black-blooded creature has immunity to ability drain, cold, energy drain, and poison.
 

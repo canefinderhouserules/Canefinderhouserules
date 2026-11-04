@@ -8,11 +8,11 @@
 **Duration** 1 round/level (D)  
 **Saving Throw** none; **Spell Resistance** no
 
-Summons one or more creatures. There is no longer a fixed list: you can choose any monster from the Bestiary (if it has a proper name, the GM is very likely to mess with you, so be careful). The creature has its own desires and ambitions, so be careful with that too, though it is somewhat inclined to obey you, because you can banish it with a thought.
+Summons one or more creatures. There is no longer a fixed list: you can choose any monster from the Bestiary (if it is a unique, named individual rather than an ordinary creature of its kind, the GM is very likely to mess with you, so be careful). The creature has its own desires and ambitions, so be careful with that too, though it is somewhat inclined to obey you, because you can banish it with a thought.
 
 The creature’s CR equals the spell’s level × 2, up to a maximum of your level. For example, a 2nd-level character using *summon monster I* can summon one CR 2 creature, or two CR 1 creatures.
 
-More specific spells, or feats that expand the list in some specific way, will most likely be treated as +1 CR for that type of creature and –1 CR for everything else (for example, *summon nature’s ally* gives +1 CR for animals and –1 CR for everything else, and a spell that summons devils gives +1 CR for devils and –1 CR for everything else).
+More specific spells, or feats that expand the list in some specific way, raise this CR limit by 1 for that type of creature and lower it by 1 for everything else (for example, [*summon nature’s ally*](summon-natures-ally-i.md) has a limit 1 CR higher for animals and 1 CR lower for everything else).
 
 The [Superior Summoning](../../rules/feats/superior-summoning.md) feat increases the maximum CR you can summon by 1.
 

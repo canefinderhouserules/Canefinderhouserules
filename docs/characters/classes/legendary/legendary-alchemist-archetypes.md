@@ -318,12 +318,6 @@ These alternative class features can be taken in place of poison resistance.
 
 **Mithridatic Healer (Ex)**: Starting at 2nd level, whenever the legendary alchemist succeeds on a saving throw against poison (but not their own toxins, if they have the toxicologist alchemical discipline), they heal 2 hit points. This increases to 4 hit points at 5th level and 6 hit points at 8th level. At 10th level, whenever the legendary alchemist succeeds on a saving throw against poison they also heal one point of ability damage to an ability score of their choice.
 
-**Evasion (Ex)**: This alternative class feature is no longer available.
-
-??? note "Original rule"
-
-    **Evasion (Ex)**: After frequently finding themselves at the at epicenter of an explosion, the legendary alchemist has learned to dodge them and gains evasion as a monk. At 10th level the legendary alchemist gains improved evasion as a monk.
-
 **Toughness (Ex)** At 2nd level, the legendary alchemist gains the Toughness feat.
 
 **Alchemical Weapon**

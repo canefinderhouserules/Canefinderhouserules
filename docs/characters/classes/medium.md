@@ -160,9 +160,9 @@ A champion spirit is a paragon of skill at arms.
 
 Sudden Attack (Intermediate, Su):
 
-Whenever you take a fullattack action, you gain one additional attack at your highest base attack bonus.
+Whenever you take a full-attack action, you gain one additional attack at your highest base attack bonus.
 
-This ability stacks with the extra attack from haste, but it doesn’t stack with special actions that grant extra attacks, such as flurry of blows or spell combat. Sudden attack works as normal with full-attack options such as twoweapon fighting.
+This ability stacks with the extra attack from haste, but it doesn’t stack with special actions that grant extra attacks, such as flurry of blows or spell combat. Sudden attack works as normal with full-attack options such as two-weapon fighting.
 
 **Fleet Charge (Greater, Su)**: You can take a swift action and a full-round action to move up to your speed and then make a full attack. This special action doesn’t combine with sudden attack, but works as normal with effects such as haste and two-weapon fighting. As soon as you begin moving, you are considered to have begun the full-round action, even if circumstances prevent you from attacking at the end of your movement.
 
@@ -258,7 +258,7 @@ These skills count as class skills for you, and you are treated as if you had an
 
 **Surprise Strike (Intermediate, Su)**: When you attack an opponent that’s denied its Dexterity bonus to AC, you deal 1d6 points of extra precision damage for every 3 medium levels. Your target counts as flat-footed against the first attack you make against that target in a day, regardless of abilities like uncanny dodge. After your first attack, that target is immune to being made flat-footed by your surprise strike for 24 hours.
 
-**Transfer Magic (Greater, Su)**: You can allow the trickster to gain 1 point of influence over you to make a melee touch attack against another creature as a standard action. If the attack succeeds, you randomly steal one of the harmless spells of the highest spell level active on that creature, ending the effect for the original creature and gaining all remaining duration for yourself. This ability does not work on personalrange or instantaneous- or permanent-duration spells.
+**Transfer Magic (Greater, Su)**: You can allow the trickster to gain 1 point of influence over you to make a melee touch attack against another creature as a standard action. If the attack succeeds, you randomly steal one of the harmless spells of the highest spell level active on that creature, ending the effect for the original creature and gaining all remaining duration for yourself. This ability does not work on personal-range or instantaneous- or permanent-duration spells.
 
 **Legendary Trickster (Supreme, Su)**: Once per day, instead of rolling for a skill check, you can choose your d20 result. Additionally, you gain the ability to change form at will as if using greater polymorph, except that you can mimic the form of a specific individual.
 

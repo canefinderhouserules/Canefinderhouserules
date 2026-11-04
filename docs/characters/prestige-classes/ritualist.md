@@ -8,18 +8,18 @@ Becoming a ritualist requires a vast amount of knowledge, time, and training. Th
 
 **Table: Ritualist**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Esoteric discovery, student of mysteries, +1 level of existing spellcasting class |
-| 2nd | +1 | +1 | +1 | +1 | Stabilize ritual, +1 level of existing spellcasting class |
-| 3rd | +1 | +1 | +1 | +2 | Esoteric discovery, occult expertise, +1 level of existing spellcasting class |
-| 4th | +2 | +1 | +1 | +2 | Cautious rituals, +1 level of existing spellcasting class |
-| 5th | +2 | +2 | +2 | +3 | Expedited rituals, +1 level of existing spellcasting class |
-| 6th | +3 | +2 | +2 | +3 | Esoteric discovery, +1 level of existing spellcasting class |
-| 7th | +3 | +2 | +2 | +4 | Independent rituals, +1 level of existing spellcasting class |
-| 8th | +4 | +3 | +3 | +4 | Focused rituals, +1 level of existing spellcasting class |
-| 9th | +4 | +3 | +3 | +5 | Esoteric discovery, +1 level of existing spellcasting class |
-| 10th | +5 | +3 | +3 | +5 | Master of mysteries, +1 level of existing spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +0 | +1 | Esoteric discovery, student of mysteries | +1 level of existing spellcasting class |
+| 2nd | +1 | +1 | +1 | +1 | Stabilize ritual | +1 level of existing spellcasting class |
+| 3rd | +1 | +1 | +1 | +2 | Esoteric discovery, occult expertise | +1 level of existing spellcasting class |
+| 4th | +2 | +1 | +1 | +2 | Cautious rituals | +1 level of existing spellcasting class |
+| 5th | +2 | +2 | +2 | +3 | Expedited rituals | +1 level of existing spellcasting class |
+| 6th | +3 | +2 | +2 | +3 | Esoteric discovery | +1 level of existing spellcasting class |
+| 7th | +3 | +2 | +2 | +4 | Independent rituals | +1 level of existing spellcasting class |
+| 8th | +4 | +3 | +3 | +4 | Focused rituals | +1 level of existing spellcasting class |
+| 9th | +4 | +3 | +3 | +5 | Esoteric discovery | +1 level of existing spellcasting class |
+| 10th | +5 | +3 | +3 | +5 | Master of mysteries | +1 level of existing spellcasting class |
 
 ### Requirements
 

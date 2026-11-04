@@ -200,7 +200,7 @@ Effect This trap bellows out thick, choking smoke that fills the trapped square 
 
 Effect The trap constricts around a limb or other part of the triggering creature’s body (Reflex avoids). The creature cannot move from the location of the trap, unless the ranger included a “leash” when setting the trap, in which case the creature is limited to the length of the leash.
 
-The trapped creature can escape with an Escape Artist check (DC equal to the trap’s DC) as a fullround action. The trap or its leash has a number of hit points equal to 1/2 the ranger’s level, or can be burst as a full-round action with a DC 25 Strength check. The trap can hold up to a Medium creature; each extra daily use of the ranger’s trap ability spent when the trap is set increases the maximum size of creature the trap can hold. At the ranger’s option, if there is a tall object or structure nearby, she can have the trap lift the creature.
+The trapped creature can escape with an Escape Artist check (DC equal to the trap’s DC) as a full-round action. The trap or its leash has a number of hit points equal to 1/2 the ranger’s level, or can be burst as a full-round action with a DC 25 Strength check. The trap can hold up to a Medium creature; each extra daily use of the ranger’s trap ability spent when the trap is set increases the maximum size of creature the trap can hold. At the ranger’s option, if there is a tall object or structure nearby, she can have the trap lift the creature.
 
 ### Spell-Stealing Trap (Su)
 
@@ -297,7 +297,7 @@ The ranger can choose feats from his selected combat style even if he does not h
 
 **Crossbow**: If the ranger selects crossbow style, he can choose from the following list whenever he gains a combat style feat: Deadly Aim, Focused Shot, Precise Shot, and Rapid Reload. At 6th level, he adds Crossbow Mastery and Improved Precise Shot to the list. At 10th level, he adds Pinpoint Targeting and Shot on the Run to the list.
 
-**Mounted Combat**: If the ranger selects mounted combat, he can choose from the following list whenever he gains a combat style feat: Mounted Combat, Mounted Archery, RideBy Attack, and Trick Riding*. At 6th level, he adds Mounted Shield* and Spirited Charge to the list. At 10th level, he adds Mounted Skirmisher* and Unseat to the list.
+**Mounted Combat**: If the ranger selects mounted combat, he can choose from the following list whenever he gains a combat style feat: Mounted Combat, Mounted Archery, Ride-By Attack, and Trick Riding*. At 6th level, he adds Mounted Shield* and Spirited Charge to the list. At 10th level, he adds Mounted Skirmisher* and Unseat to the list.
 
 **Natural Weapon**: If the ranger selects natural weapon style, he can choose from the following list whenever he gains a combat style feat: Aspect of the Beast*, Improved Natural Weapon**, Rending Claws*, and Weapon Focus. At 6th level, he adds Eldritch Fangs* and Vital Strike to the list. At 10th level, he adds Multiattack** and Improved Vital Strike to the list.
 
@@ -391,7 +391,7 @@ At 8th, 13th, and 15th-level, the ranger chooses another one of his favored enem
 
 **Humanoid (reptilian)**: darkvision 60 ft., kobold fast (as goblin fast), lizardfolk hold breath, natural armor +2, Skill Focus (choose Acrobatics, Perception, or Stealth).
 
-**Magical Beast**: darkvision 60 ft., Great Fortitude, lowlight vision, natural armor +2.
+**Magical Beast**: darkvision 60 ft., Great Fortitude, low-light vision, natural armor +2.
 
 **Monstrous Humanoid**: darkvision 60 ft., Lightning Reflexes, low-light vision, natural armor +2.
 

@@ -12,7 +12,7 @@ The weapons themselves are listed in [Eastern Weapons](weapons-eastern.md). The 
 
 **Grapple**: On a successful critical hit with a weapon of this type, you can grapple the target of the attack. The wielder can then attempt a combat maneuver check to grapple his opponent as a free action. This grapple attempt does not provoke an attack of opportunity from the creature you are attempting to grapple if that creature is not threatening you. While you grapple the target with a grappling weapon, you can only move or damage the creature on your turn. You are still considered grappled, though you do not have to be adjacent to the creature to continue the grapple. If you move far enough away to be out of the weapon’s reach, you end the grapple with that action.
 
-Weapon Descriptions Arrow, Iron-Tipped Distance: Used tactically for longrange attacks on troops, these arrows are fitted with heavy iron heads. While these heads help them travel great distances, they make the arrows less effective at dealing damage. Iron-tipped distance arrows increase their bow’s range increment by 10 feet but take a –1 penalty on damage dealt per range increment (minimum 1 point of damage). They are sold in leather quivers in quantities of 20.
+Weapon Descriptions Arrow, Iron-Tipped Distance: Used tactically for long-range attacks on troops, these arrows are fitted with heavy iron heads. While these heads help them travel great distances, they make the arrows less effective at dealing damage. Iron-tipped distance arrows increase their bow’s range increment by 10 feet but take a –1 penalty on damage dealt per range increment (minimum 1 point of damage). They are sold in leather quivers in quantities of 20.
 
 Arrow, Whistling: These arrows come with specially designed grooves and fletching that cause them to emit a loud keening sound audible within 500 feet of their flight path. They are sold in quantities of 20.
 
@@ -46,9 +46,9 @@ Kama, Double-Chained: This weapon comprises a pair of kama connected with an 8-f
 
 **Kusarigama**: This weapon has a single sickle held in the off-hand attached by 10 feet of fine chain to a weighted metal ball. The sickle is used to make trips, jabs, and blocks while the ball is whipped around at high speeds and then smashed into the opponent. For a Medium kusarigama, the sickle end deals 1d6 points of damage, and the chain end deals 1d3 points of bludgeoning damage.
 
-**Kyoketsu Shoge**: This weapon consists of a foot-long double-edged blade, with another smaller, curved hookblade sticking out the side like a rooster’s spur. The blade is strung to a large iron hoop with 10-foot length of rope. The blade can be used as an off-hand melee weapon or thrown like a dagger, while the rope and circlet can be whipped around and swung at opponents as a bludgeoning reach weapon.
+**Kyoketsu Shoge**: This weapon consists of a foot-long double-edged blade, with another smaller, curved hook-blade sticking out the side like a rooster’s spur. The blade is strung to a large iron hoop with 10-foot length of rope. The blade can be used as an off-hand melee weapon or thrown like a dagger, while the rope and circlet can be whipped around and swung at opponents as a bludgeoning reach weapon.
 
-**Lungchuan Tamo (Hidden Daggers)**: What appears to be an ordinary baton sheaths a pair of matching slenderbladed daggers, perfectly balanced throwing blades.
+**Lungchuan Tamo (Hidden Daggers)**: What appears to be an ordinary baton sheaths a pair of matching slender-bladed daggers, perfectly balanced throwing blades.
 
 **Meteor Hammer**: This weapon consists of one or two spherical weights attached by a 10-foot chain. You whirl the weights and wrap them around an opponent’s body. If you succeed at a trip attempt with a meteor hammer, you can drag your opponent 5 feet closer to you rather than knocking her prone. You may use this weapon in two different ways: in meteor mode you use it as a double weapon, while in fortress mode you cannot use it as a double weapon but gain reach and a +1 shield bonus to AC. Switching between these two modes is a free action decided at the start of your turn.
 
@@ -56,7 +56,7 @@ Kama, Double-Chained: This weapon comprises a pair of kama connected with an 8-f
 
 **Naginata**: The naginata consists of a 6-foot staff affixed to a 2-foot-long, swordlike slightly curved blade. The shaft is designed to keep the wielder out of reach from swords and shorter weapons.
 
-**Nine-Section Whip**: The nine-section whip consists of steel bars linked together. The final bar is a 6-inch weighted spike. This weapon can be wielded as a singlehanded weapon, a two-handed weapon, or in pairs.
+**Nine-Section Whip**: The nine-section whip consists of steel bars linked together. The final bar is a 6-inch weighted spike. This weapon can be wielded as a single-handed weapon, a two-handed weapon, or in pairs.
 
 **Nodachi**: This very long two-handed weapon has a slender but wickedly sharp 4-foot-long blade at one end. It is predominantly used by ground troops to attack mounted warriors, and can be used to hack riders from their mounts or set to receive a charge.
 
@@ -70,7 +70,7 @@ Kama, Double-Chained: This weapon comprises a pair of kama connected with an 8-f
 
 **Sibat**: This weapon is similar to a shortspear with a flexible rattan or bamboo shaft and an elaborately barbed head. On a critical hit, the spear grabs flesh or armor. The wielder can then attempt a combat maneuver check to attempt to grapple its opponent as a free action. This grapple attempt does not provoke an attack of opportunity from the creature you are attempting to grapple. While grappling the target with a sibat, the wielder can only move or damage the target on its turn. The wielder is still considered grappled, though it does not have to be adjacent to the target to continue the grapple. If you move far away to be out of the sibat’s reach, you end the grapple with that action.
 
-Sword, Seven-Branched: This unusual sword has a straight 2-foot-long blade with six shorter L-shaped blades protruding, three on each side in a staggered pattern. The shorter blades can be used to snag opponents’ clothing or armor, or can target weapons in order to disarm them. To snag armor or clothing, the attacker makes a trip attempt. If successful, the victim doesn’t fall prone, but instead is snagged and stumbles forward, leaving the victim flatfooted for the remainder of the round.
+Sword, Seven-Branched: This unusual sword has a straight 2-foot-long blade with six shorter L-shaped blades protruding, three on each side in a staggered pattern. The shorter blades can be used to snag opponents’ clothing or armor, or can target weapons in order to disarm them. To snag armor or clothing, the attacker makes a trip attempt. If successful, the victim doesn’t fall prone, but instead is snagged and stumbles forward, leaving the victim flat-footed for the remainder of the round.
 
 **Tekko-Kagi**: Also known as the iron claw, this device consists of a fanlike structure of five 10-inch blades secured to a sturdy handle strapped to the forearm of the off-hand. It can be used an offensive weapon, defensively like a buckler, or to disarm an opponent’s weapon without provoking an attack of opportunity. It provides its owner with a +2 circumstance bonus on attempts to disarm or sunder swords or other slender-bladed weapons.
 
@@ -84,7 +84,7 @@ Sword, Seven-Branched: This unusual sword has a straight 2-foot-long blade with 
 
 **Tube Arrow Shooter**: This weapon consists of a small metal tube hidden within a sleeve; the tube holds a short, spring-loaded bamboo shaft. The wielder gains a +2 bonus on Sleight of Hand skill checks made to conceal an arrow tube shooter on his body. Releasing the fastener allows the spring to force the arrow out. Once a shaft is fired, the tube must be reloaded before it can be used again. Reloading a tube is a full-round action, or a standard action if the wielder has the Rapid Reload feat.
 
-**Urumi**: Commonly known as a whip sword, this deadly weapon is fashioned from one to four 5-foot-long, razorsharp blades of flexible steel. The weapon is wielded by whipping the blades at one’s opponent. The coiled blade is fine and flexible enough to be worn as a belt.
+**Urumi**: Commonly known as a whip sword, this deadly weapon is fashioned from one to four 5-foot-long, razor-sharp blades of flexible steel. The weapon is wielded by whipping the blades at one’s opponent. The coiled blade is fine and flexible enough to be worn as a belt.
 
 **Wakizashi**: These short, slender blades are between 1 to 2 feet long. They are primarily used as back-up weapons, to decapitate defeated enemies, or to commit seppuku (ritual suicide) as a matter of honor. These blades are specifically worn by samurai and are intended to be paired with a katana. Together, this set of blades is referred to as a daisho.
 

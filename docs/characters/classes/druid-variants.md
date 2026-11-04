@@ -202,7 +202,7 @@ A shaman with this totem calls upon the noble eagle, stern and proud, soaring hi
 
 **Totem Transformation (Su)**: At 2nd level, an eagle shaman may adopt an aspect of the eagle while retaining her normal form. This ability functions as the bear shaman ability, but the druid may select from the following bonuses: movement (fly speed 30 feet [average], the druid must be 5th level to select this bonus), senses (low-light vision, +4 racial bonus to Perception), or natural weapons (bite [1d4], 2 talons [1d4] for a Medium shaman). While using totem transformation, the eagle shaman may speak normally and can cast speak with animals (birds only) at will.
 
-**Totemic Summons (Su)**: At 5th level, an eagle shaman may cast summon nature’s ally as a standard action when summoning eagles, rocs, and giant eagles (added to the 4thlevel list), and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the bear shaman ability.
+**Totemic Summons (Su)**: At 5th level, an eagle shaman may cast summon nature’s ally as a standard action when summoning eagles, rocs, and giant eagles (added to the 4th-level list), and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the bear shaman ability.
 
 **Wild Shape (Su)**: At 6th level, an eagle shaman’s wild shape ability functions at her druid level – 2. If she takes on the form of an eagle or roc, she instead uses her druid level + 2.
 

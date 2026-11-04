@@ -60,7 +60,7 @@ The following hexes are available to all witches and use the standard rules for 
 
 **Swamp's Grasp (Su)**: The witch can cause an area to become an entangling quagmire. One 10-foot square per witch level within 90 feet becomes difficult terrain for a number of rounds equal to 3 + the witch's Intelligence modifier. If the witch uses this hex again before the duration of the previous use has expired, the effects of the previous use of this hex end immediately.
 
-**Unnerve Beasts (Su)**: The target becomes offensive to animals (Will negates). Animals become distraught and aggressive in the victim’s presence—horses buck, dogs snap and bark, bulls charge, and so on. The hex lasts a number of hours equal to the witch’s Intelligence modifier. A creature that saves against the hex cannot be affected by the hex for 1 day. The reaction of the animals is a mindaffecting charm effect, but the hex on the target is not.
+**Unnerve Beasts (Su)**: The target becomes offensive to animals (Will negates). Animals become distraught and aggressive in the victim’s presence—horses buck, dogs snap and bark, bulls charge, and so on. The hex lasts a number of hours equal to the witch’s Intelligence modifier. A creature that saves against the hex cannot be affected by the hex for 1 day. The reaction of the animals is a mind-affecting charm effect, but the hex on the target is not.
 
 **Water Lung (Su)**: An air-breathing target can breathe water or an aquatic target can breathe air. This lasts 1 minute. If the witch uses this hex on herself, she can maintain it while she sleeps, allowing her to safely sleep underwater.
 
@@ -234,7 +234,7 @@ A sea witch’s affinities are tied to the vast oceans and the rolling waves. He
 
 **Spells**: A sea witch replaces some of her patron spells with the following: 2nd—touch of sea\*\*, 4th—gust of wind, 6th—water breathing, 8th—control water, 10th— cloudkill, 12th—control wind, 14th—control weather, 16th— vortex\*\*, 18th—tsunami\*\*.
 
-**Know Direction (Sp)**: So long as she near a sizable body of water (at least a lake with a diameter of 1 mile or more), a sea witch may cast know direction at will as a spelllike ability.
+**Know Direction (Sp)**: So long as she near a sizable body of water (at least a lake with a diameter of 1 mile or more), a sea witch may cast know direction at will as a spell-like ability.
 
 **Sea Creature Empathy (Ex)**: A sea witch can influence the attitude of water-dwelling animals and animals that live along coasts and shores, including birds, as if using wild empathy. The sea witch uses her witch level as her druid level for this ability. If the sea witch has wild empathy from another class, her witch levels stack with the other class’s levels to determine her wild empathy bonus for these kinds of creatures. This ability replaces the witch’s 1st-level hex.
 
@@ -795,7 +795,7 @@ The invoker uses her familiar to summon facets of her mysterious patron directly
 - **Fortune**: The invoker gains a +1 resistance bonus on saving throws. This bonus increases to +3 at 8th level and +5 at 16th level.
 - **Paradise**: The invoker gains a +3 competence bonus on Acrobatics checks and concentration checks. This bonus increases to +6 at 8th level and +9 at 16th level.
 - **Rapture**: The invoker can increase the duration of any spell she casts on herself by 1 round. This applies only to spells with a duration other than instantaneous. This increases to 2 rounds at 8th level and 3 rounds at 16th level.
-- **Reckoning**: The invoker adds an insight bonus on damage rolls from attacks made with spells and natural attacks, gaining 1 point of damage per die rolled. At 8th level, the invoker gains a +4 bonus to confirm critical hits threatened with spells and natural attacks. At 16th level, the critical threat range of the invoker's spells and natural attacks doubles, as if from Improved Critical.
+- **Reckoning**: The invoker gains a +1 enhancement bonus to damage per die rolled on attacks made with spells and natural attacks. At 8th level, the invoker gains a +4 bonus to confirm critical hits threatened with spells and natural attacks. At 16th level, the critical threat range of the invoker's spells and natural attacks doubles, as if from Improved Critical.
 - **Revelation**: The invoker gains a +1 insight bonus on attack rolls made with weapons. This bonus increases to +2 at 8th level and +3 at 16th level.
 
 **Second Invocation (Su)**: At 10th level, whenever an invoker uses her invoke patron ability, she selects two different facets of her patron for herself instead of one. Otherwise, this functions like a hunter's second animal focus ability. This ability replaces the witch's 10th-level hex.

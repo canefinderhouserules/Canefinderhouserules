@@ -8,18 +8,18 @@ Inspired by a deity of dancers, lonely spirits, and moonlight, moonlit dancers v
 
 **Table: Moonlit Dancer**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +0 | +1 | +1 | Moonlit performance (move action), deathwaking dance |
-| 2nd | +1 | +1 | +1 | +1 | Moonlit rites, peerless dancer, +1 level of existing spellcasting class |
-| 3rd | +2 | +1 | +2 | +2 | Untethering steps, +1 level of existing spellcasting class |
-| 4th | +3 | +1 | +2 | +2 | Ghostly grace (self), +1 level of existing spellcasting class |
-| 5th | +3 | +2 | +3 | +3 | Peerless dancer (first skill), +1 level of existing spellcasting class |
-| 6th | +4 | +2 | +3 | +3 | Soothing performance, +1 level of existing spellcasting class |
-| 7th | +5 | +2 | +4 | +4 | Ghostly grace (allies), Moonlit performance (swift action), exorcist's waltz, +1 level of existing spellcasting class |
-| 8th | +6 | +3 | +4 | +4 | Peerless dancer (second skill), +1 level of existing spellcasting class |
-| 9th | +6 | +3 | +5 | +5 | +1 level of existing spellcasting class |
-| 10th | +7 | +3 | +5 | +5 | Peerless dancer (third skill), true spark's guidance, +1 level of existing spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +1 | +1 | Moonlit performance (move action), deathwaking dance | — |
+| 2nd | +1 | +1 | +1 | +1 | Moonlit rites, peerless dancer | +1 level of existing spellcasting class |
+| 3rd | +2 | +1 | +2 | +2 | Untethering steps | +1 level of existing spellcasting class |
+| 4th | +3 | +1 | +2 | +2 | Ghostly grace (self) | +1 level of existing spellcasting class |
+| 5th | +3 | +2 | +3 | +3 | Peerless dancer (first skill) | +1 level of existing spellcasting class |
+| 6th | +4 | +2 | +3 | +3 | Soothing performance | +1 level of existing spellcasting class |
+| 7th | +5 | +2 | +4 | +4 | Ghostly grace (allies), Moonlit performance (swift action), exorcist's waltz | +1 level of existing spellcasting class |
+| 8th | +6 | +3 | +4 | +4 | Peerless dancer (second skill) | +1 level of existing spellcasting class |
+| 9th | +6 | +3 | +5 | +5 | — | +1 level of existing spellcasting class |
+| 10th | +7 | +3 | +5 | +5 | Peerless dancer (third skill), true spark's guidance | +1 level of existing spellcasting class |
 
 ### Requirements
 
@@ -67,7 +67,7 @@ The following are class features of the moonlit dancer prestige class.
 
     **Deathwaking Dance (Su)**: At 1st level, a moonlit dancer can unravel undead and haunts. When he starts the performance and each round he maintains it, all haunts and undead creatures within 30 feet take positive energy damage equal to 1d6 + the moonlit dancer's Charisma modifier. A successful Will save negates this damage.
 
-**Untethering Steps (Su)**: At 3rd level, a moonlit dancer can use his performance to hinder all undead creatures within 30 feet, automatically. Each round he maintains the performance, the moonlit dancer attempts a Perform (dance) skill check and compares the result to all of the targets' CMD scores. Any target whose CMD is equaled or exceeded by the result of the Perform (dance) check becomes sickened by the dancer's movements for 1 round. Any target with a CMD that is exceeded by 10 or more also becomes staggered for 1 round.
+**Untethering Steps (Su)**: At 3rd level, a moonlit dancer can use his performance to hinder all undead creatures within 30 feet. Each round he maintains the performance, the moonlit dancer attempts a Perform (dance) skill check and compares the result to all of the targets' CMD scores. Any target whose CMD is equaled or exceeded by the result of the Perform (dance) check becomes sickened by the dancer's movements for 1 round. Any target with a CMD that is exceeded by 10 or more also becomes staggered for 1 round.
 
 ??? note "Original rule"
 

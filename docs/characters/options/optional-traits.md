@@ -76,7 +76,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Godclaw Disciple** (*Lawful alignment*): You worship the amalgamation of lawful deities known as the Godclaw. You gain a +2 trait bonus on Knowledge (religion) checks related to lawful deities, their clergy, their mythology, and their tenets. Additionally, Knowledge (religion) is a class skill for you. You must be of a lawful alignment to take this trait.
 
-**Infernal Knight Inquisitor**: If you are an inquisitor, you can select any inquisition associated with your preferred infernal knight order (see below), as long as you and your patron deity are of a lawful alignment. Additionally, you gain a +1 trait bonus on saving throws against spells and effects with the chaos descriptor.
+**Hell Knight Inquisitor**: If you are an inquisitor, you can select any inquisition associated with your preferred hell knight order (see below), as long as you and your patron deity are of a lawful alignment. Additionally, you gain a +1 trait bonus on saving throws against spells and effects with the chaos descriptor.
 
 ## Magic
 
@@ -256,7 +256,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Commercial Savvy** (*the merchant desert city*): You excel at maximizing mercantile contacts and convincing merchants to dig just a bit deeper into their pockets for you. Whenever you buy from or sell to a merchant, you treat a settlement’s Base Value and Purchase Limit as 10% higher.
 
-**Crusader Road Acolyte** (*a frontier fort or a frontier wood*): You trained with the infernal knights at Fort Inevitable or the paladins of the goddess of valor at Fort Riverwatch. If you trained with the infernal knights, you gain a +1 trait bonus on saving throws against chaotic spells and the spell-like abilities of chaotic outsiders. If you trained with the valor-goddess Paladins, you gain this bonus against evil spells and evil outsiders instead.
+**Crusader Road Acolyte** (*a frontier fort or a frontier wood*): You trained with the hell knights at Fort Inevitable or the paladins of the goddess of valor at Fort Riverwatch. If you trained with the hell knights, you gain a +1 trait bonus on saving throws against chaotic spells and the spell-like abilities of chaotic outsiders. If you trained with the valor-goddess Paladins, you gain this bonus against evil spells and evil outsiders instead.
 
 **Cultist Lineage** (*the assassins’ isle*): Your parents were both Scarlet assassins and your family has a long tradition of service in the Scarlet cult. Your strict, fanatical upbringing and familiarity with murder have bestowed upon you an air of confidence and menace. This grants you a +1 trait bonus on Intimidate checks. If you act during the surprise round, as a free action during that round you can draw a light weapon (or two if you have the Two-Weapon Fighting feat) .
 
@@ -406,11 +406,11 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Inexorable Authority**: When you speak with the full weight of law, your conviction lends you a terrible presence. You gain a +2 trait bonus on Intimidate checks when enforcing or pronouncing a lawful judgment that you’re legitimately deputed to enforce or pronounce.
 
-**Infernal Knight Ancestry**: At least one of your parents was a infernal knight, and you see the orders as the embodiment of civic virtue. You gain a +2 trait bonus on Diplomacy checks to influence infernal knights and a +2 trait bonus on Intimidate checks to influence enemies of the infernal knights.
+**Hell Knight Ancestry**: At least one of your parents was a hell knight, and you see the orders as the embodiment of civic virtue. You gain a +2 trait bonus on Diplomacy checks to influence hell knights and a +2 trait bonus on Intimidate checks to influence enemies of the hell knights.
 
 **Night Market Navigator**: Long exposure to the endless variety of the Night Market grants you a +2 trait bonus on Diplomacy checks to gather information and on Knowledge (local) checks to recall information about criminal activities. One of these (your choice) is always a class skill for you.
 
-**Questing Infernal Knight** (*Lawful alignment*): You are a quick study when it comes to local laws. Once per day, you can attempt a Knowledge (local) check untrained to recall information about local laws, rulers, and popular locations. Additionally, you gain a +1 trait bonus on Knowledge (local) checks, and Knowledge (local) is a class skill for you. You must be of a lawful alignment to take this trait.
+**Questing Hell Knight** (*Lawful alignment*): You are a quick study when it comes to local laws. Once per day, you can attempt a Knowledge (local) check untrained to recall information about local laws, rulers, and popular locations. Additionally, you gain a +1 trait bonus on Knowledge (local) checks, and Knowledge (local) is a class skill for you. You must be of a lawful alignment to take this trait.
 
 **Red Silk Frankness**: You learned from the Forthright Men, the Coins’ peace-keeping thieves’ guild, to use candor to avoid trouble. You gain a +5 trait bonus on Diplomacy checks to convince others to overlook offensive or illegal acts. Diplomacy is always a class skill for you.
 
@@ -534,6 +534,6 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Fallen-technology Fluid Indulger** (*Associated with the court of the Palace of Fallen Stars in the land of fallen technology*): You have tasted fallen-technology fluids many times. Once per day after rolling to determine the side effects of consuming a fallen-technology fluid, you can roll on the table again, but you must take the second result.
 
-**Infernal Knight Ancestry**: At least one of your parents was an infernal knight, and you see the orders as the embodiment of civic virtue. You gain a +2 trait bonus on Diplomacy checks to influence infernal knights and a +2 trait bonus on Intimidate checks to influence enemies of the infernal knights.
+**Hell Knight Ancestry**: At least one of your parents was a hell knight, and you see the orders as the embodiment of civic virtue. You gain a +2 trait bonus on Diplomacy checks to influence hell knights and a +2 trait bonus on Intimidate checks to influence enemies of the hell knights.
 
 **Underworld Scholar**: Unsatisfied with mere stories, you have spent years researching journals and firsthand accounts of those who explored the underworld before you. You gain a +2 trait bonus on Knowledge checks to identify the weaknesses of underworld creatures.

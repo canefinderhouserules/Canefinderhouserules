@@ -7,4 +7,4 @@
 **Target** you  
 **Duration** 1 round
 
-You put a barrier of mental energy that protects you from harm. This barrier grants you a +4 shield bonus to AC. In addition, you take half damage from mind thrust I and II (reduced to onequarter on a successful Will save).
+You put a barrier of mental energy that protects you from harm. This barrier grants you a +4 shield bonus to AC. In addition, you take half damage from mind thrust I and II (reduced to one-quarter on a successful Will save).

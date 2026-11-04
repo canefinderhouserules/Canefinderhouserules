@@ -226,6 +226,7 @@
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Display Aversion](display-aversion.md)**: an illusion of a vampire's aversion keeps it at bay
 - **[Divine Smite](divine-smite.md)**: Deals 1d5 sacred or profane damage/level (max 10d5) to one or two targets.
+- **[Divine Trident](divine-trident.md)**: Wield a trident of electricity.
 - **[Dress Corpse](dress-corpse.md)**: Doctor the evidence on a corpse.
 - **[Drunkard’s Breath](drunkards-breath.md)**: A cone that works like *stinking cloud* and feels like a hangover.
 - **[Dwarven Veil](dwarven-veil.md)**: Target gains +2 on checks to influence dwarves.
@@ -332,7 +333,6 @@
 - **[Stoke the Inner Fire](stoke-the-inner-fire.md)**: You increase the natural heat within your body, transferring it to your weapons and armor.
 - **[Stone Throwing](stone-throwing.md)**: Subject can throw and catch rocks.
 - **[Storm Sight](storm-sight.md)**: Sense creatures caught in a storm.
-- **[Storm Trident](storm-trident.md)**: Wield a trident of electricity.
 - **[Summon Cacodaemon](summon-cacodaemon.md)**: This spell functions like summon monster, except it summons a single cacodaemon.
 - **[Summon Monster 2](summon-monster-2.md)**: This spell functions like summon monster I, except that you can summon one creature from the 2nd-level list or…
 - **[Summon Monster II](summon-monster-ii.md)**: Summons extraplanar creature to fight for you.
@@ -647,7 +647,7 @@
 - **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
-- **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
+- **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a non-alignment subtype or outsider race.
 - **[Tongues](tongues.md)**: Speak and understand any language.
 - **[Torpid Reanimation](torpid-reanimation.md)**: *Animate dead* when a specific trigger condition occurs.
 - **[Transplant Visage](transplant-visage.md)**: Wear a stolen face for +10 on Disguise.

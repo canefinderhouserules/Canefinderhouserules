@@ -34,7 +34,7 @@ Unlike smaller cities, metropolises often have interior walls as well as surroun
 
 ### Guards and Soldiers
 
-A city typically has full-time military personnel equal to 1% of its adult population, in addition to militia or conscript soldiers equal to 5% of the population. The fulltime soldiers are city guards responsible for maintaining order within the city, similar to the role of modern police, and (to a lesser extent) for defending the city from outside assault. Conscript soldiers are called up to serve in case of an attack on the city.
+A city typically has full-time military personnel equal to 1% of its adult population, in addition to militia or conscript soldiers equal to 5% of the population. The full-time soldiers are city guards responsible for maintaining order within the city, similar to the role of modern police, and (to a lesser extent) for defending the city from outside assault. Conscript soldiers are called up to serve in case of an attack on the city.
 
 A typical city guard force works on three 8-hour shifts, with 30% of the force on a day shift (8 a.m. to 4 p.m.), 35% on an evening shift (4 p.m. to 12 a.m.), and 35% on a night shift (12 a.m. to 8 a.m.). At any given time, 80% of the guards on duty are on the streets patrolling, while the remaining 20% are stationed at various posts throughout the city where they can respond to nearby alarms. At least one such guard post is present within each neighborhood of a city (each neighborhood consisting of several districts). The majority of a city guard force is made up of warriors, mostly 1st level. Officers include higher-level warriors, fighters, a fair number of clerics, and wizards or sorcerers, as well as multiclass fighter/spellcasters.
 
@@ -68,7 +68,7 @@ If a catapult stone misses, roll 1d8 to determine where it lands. This determine
 | Successive shots (crew can see where most recent misses landed) | Cumulative +2 per previous miss (maximum +10) |
 | Successive shots (crew can’t see where most recent misses landed, but observer is providing feedback) | Cumulative +1 per previous miss (maximum +5) |
 
-Loading a catapult requires a series of full-round actions. It takes a DC 15 Strength check to winch the throwing arm down; most catapults have wheels to allow up to two crew members to use the aid another action, assisting the main winch operator. A DC 15 Profession (siege engineer) check latches the arm into place, and then another DC 15 Profession (siege engineer) check loads the catapult ammunition. It takes four fullround actions to reaim a heavy catapult (multiple crew members can perform these full-round actions in the same round, so it would take a crew of four only 1 round to reaim the catapult).
+Loading a catapult requires a series of full-round actions. It takes a DC 15 Strength check to winch the throwing arm down; most catapults have wheels to allow up to two crew members to use the aid another action, assisting the main winch operator. A DC 15 Profession (siege engineer) check latches the arm into place, and then another DC 15 Profession (siege engineer) check loads the catapult ammunition. It takes four full-round actions to reaim a heavy catapult (multiple crew members can perform these full-round actions in the same round, so it would take a crew of four only 1 round to reaim the catapult).
 
 A heavy catapult takes up a space 15 feet across.
 
@@ -122,4 +122,4 @@ Most city buildings are made of a combination of stone or clay brick (on the low
 
 ### City Lights
 
-If a city has main thoroughfares, they are lined with lanterns hanging at a height of 7 feet from building awnings. These lanterns are spaced 60 feet apart, so their illumination is all but continuous. Secondary streets and alleys are not lit; it is common for citizens to hire lanternbearers when going out after dark. Alleys can be dark places even in daylight, thanks to the shadows of the tall buildings that surround them. A dark alley in daylight is rarely dark enough to afford true concealment, but it can lend a +2 circumstance bonus on Stealth checks.
+If a city has main thoroughfares, they are lined with lanterns hanging at a height of 7 feet from building awnings. These lanterns are spaced 60 feet apart, so their illumination is all but continuous. Secondary streets and alleys are not lit; it is common for citizens to hire lantern-bearers when going out after dark. Alleys can be dark places even in daylight, thanks to the shadows of the tall buildings that surround them. A dark alley in daylight is rarely dark enough to afford true concealment, but it can lend a +2 circumstance bonus on Stealth checks.

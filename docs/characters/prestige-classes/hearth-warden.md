@@ -8,18 +8,18 @@ Guards patrol great cities and druids protect the deep forests, but what of the 
 
 **Table: Hearth Warden**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Favored enemy +2, master archer bonus feat |
-| 2nd | +1 | +1 | +1 | +1 | Fast movement, favored terrain (hinterland) +2, +1 level of existing spellcasting class |
-| 3rd | +2 | +1 | +1 | +2 | Hinterland stride, master archer bonus feat, +1 level of existing spellcasting class |
-| 4th | +3 | +1 | +1 | +2 | Chosen kin, +1 level of existing spellcasting class |
-| 5th | +3 | +2 | +2 | +3 | Master archer bonus feat, +1 level of existing spellcasting class |
-| 6th | +4 | +2 | +2 | +3 | Defended hearth +2, +1 level of existing spellcasting class |
-| 7th | +5 | +2 | +2 | +4 | Imbue arrow, +1 level of existing spellcasting class |
-| 8th | +6 | +3 | +3 | +4 | Favored enemy +4, +1 level of existing spellcasting class |
-| 9th | +6 | +3 | +3 | +5 | Favored terrain (hinterland) +4, +1 level of existing spellcasting class |
-| 10th | +7 | +3 | +3 | +5 | Defended hearth +4, waymarker travel, +1 level of existing spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +0 | +1 | Favored enemy +2, master archer bonus feat | — |
+| 2nd | +1 | +1 | +1 | +1 | Fast movement, favored terrain (hinterland) +2 | +1 level of existing spellcasting class |
+| 3rd | +2 | +1 | +1 | +2 | Hinterland stride, master archer bonus feat | +1 level of existing spellcasting class |
+| 4th | +3 | +1 | +1 | +2 | Chosen kin | +1 level of existing spellcasting class |
+| 5th | +3 | +2 | +2 | +3 | Master archer bonus feat | +1 level of existing spellcasting class |
+| 6th | +4 | +2 | +2 | +3 | Defended hearth +2 | +1 level of existing spellcasting class |
+| 7th | +5 | +2 | +2 | +4 | Imbue arrow | +1 level of existing spellcasting class |
+| 8th | +6 | +3 | +3 | +4 | Favored enemy +4 | +1 level of existing spellcasting class |
+| 9th | +6 | +3 | +3 | +5 | Favored terrain (hinterland) +4 | +1 level of existing spellcasting class |
+| 10th | +7 | +3 | +3 | +5 | Defended hearth +4, waymarker travel | +1 level of existing spellcasting class |
 
 ### Requirements
 

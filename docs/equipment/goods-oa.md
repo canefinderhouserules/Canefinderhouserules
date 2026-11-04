@@ -156,7 +156,7 @@ This leather doctor’s bag contains all the accoutrements a phrenologist needs 
 
 **Price** 800 gp; **Weight** 35 lbs.
 
-This long, wooden case contains a complicated framework of brass armatures, balance weights, a foldable mat, and purplehued lenses of various shapes and sizes. When assembled, the case becomes a small bed over which looms a complicated, slowly revolving array of lenses that filter sunlight onto the mat below. Only usable on bright, sunny days, the solarium has enough room for one Medium or two Small creatures to recline beneath its lens array and bask in the healing rays of the filtered natural light. The solarium can be used in conjunction with the long-term care use of the Heal skill. Subjects who bask in the filtered light for an 8-hour rest period recover 1 additional hit point per level or 1 additional ability score point if their caregivers succeed at the required Heal check.
+This long, wooden case contains a complicated framework of brass armatures, balance weights, a foldable mat, and purple-hued lenses of various shapes and sizes. When assembled, the case becomes a small bed over which looms a complicated, slowly revolving array of lenses that filter sunlight onto the mat below. Only usable on bright, sunny days, the solarium has enough room for one Medium or two Small creatures to recline beneath its lens array and bask in the healing rays of the filtered natural light. The solarium can be used in conjunction with the long-term care use of the Heal skill. Subjects who bask in the filtered light for an 8-hour rest period recover 1 additional hit point per level or 1 additional ability score point if their caregivers succeed at the required Heal check.
 
 ### Portable Sweat Lodge
 

@@ -6,13 +6,13 @@ While genies chafe at being bound and bottled, they respect power—especially m
 
 **Table: Genie Binder**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Binding pool, elemental seal (seal of air), genie mastery |
-| 2nd | +1 | +0 | +0 | +1 | +1 level of existing spellcasting class, elemental seal (seal of earth), genie summoner |
-| 3rd | +1 | +1 | +1 | +2 | Elemental seal (seal of fire), extra seal 1 |
-| 4th | +2 | +1 | +1 | +2 | +1 level of existing spellcasting class, elemental seal (seal of water) |
-| 5th | +2 | +1 | +1 | +3 | +1 level of existing spellcasting class, extra seal 2, unstoppable seal |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +0 | +1 | Binding pool, elemental seal (seal of air), genie mastery | — |
+| 2nd | +1 | +0 | +0 | +1 | Elemental seal (seal of earth), genie summoner | +1 level of existing spellcasting class |
+| 3rd | +1 | +1 | +1 | +2 | Elemental seal (seal of fire), extra seal 1 | — |
+| 4th | +2 | +1 | +1 | +2 | Elemental seal (seal of water) | +1 level of existing spellcasting class |
+| 5th | +2 | +1 | +1 | +3 | Extra seal 2, unstoppable seal | +1 level of existing spellcasting class |
 
 ### Requirements
 

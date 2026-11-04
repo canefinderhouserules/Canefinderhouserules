@@ -84,7 +84,7 @@ If the manifestation allows a saving throw, the creator can spend additional MP 
 
 **Confused (3 MP)**: The affected creatures are confused for 1 round, breaking concentration automatically. If an affected creature is forced to attack the nearest creature, it attacks its opponent’s thought-form creature if one exists, or the opponent if not. A confused combatant never attacks her own thought-form creature, or vice versa. This condition can be applied only to manifestations that require Will saves.
 
-**Dazed (4 MP)**: The affected creatures are dazed for 1 round. A dazed combatant can continue to concentrate on thoughtform creatures and create defensive manifestations, but can’t create thought-form creatures or offensive manifestations. This condition can be applied only to manifestations that require Will saves.
+**Dazed (4 MP)**: The affected creatures are dazed for 1 round. A dazed combatant can continue to concentrate on thought-form creatures and create defensive manifestations, but can’t create thought-form creatures or offensive manifestations. This condition can be applied only to manifestations that require Will saves.
 
 **Entangled (2 MP)**: The affected creatures are entangled until they take a full-round action to end this condition. This condition can be applied only to manifestations that require Reflex saves.
 
@@ -108,11 +108,11 @@ When she does, any currently active thought-form creatures or defensive manifest
 
 **Nimble Mind (2 MP; immediate action)**: When the combatant is attacked with an offensive manifestation that targets her touch AC, this ability changes it to target her full AC.
 
-**Psychic Redirect (1 MP; immediate action)**: When the combatant would take damage while she has a thoughtform creature active, she can use this ability to apply the damage to her thought-form creature instead. If the attack targets both the combatant and the thought-form creature, the thought-form creature takes the damage for both itself and the combatant and suffers any condition conferred by the attack, but the combatant suffers no effects.
+**Psychic Redirect (1 MP; immediate action)**: When the combatant would take damage while she has a thought-form creature active, she can use this ability to apply the damage to her thought-form creature instead. If the attack targets both the combatant and the thought-form creature, the thought-form creature takes the damage for both itself and the combatant and suffers any condition conferred by the attack, but the combatant suffers no effects.
 
 ### Thought-Form Creature (1-Round Action)
 
-A thought-form creature is a mentally constructed thrall that takes any form its creator desires. Creating a thoughtform creature takes 1 full round (as if the creator were casting a spell with a 1-round casting time) and lasts as long as its creator concentrates on the creature’s existence as a fullround action; a combatant can manifest only one thoughtform creature at a time. A thought-form creature must make its attacks against another thought-form creature if one is manifested; if not, it can attack its creator’s opponent. The creature makes its attacks when its creator uses a full-round action to concentrate on the thought-form creature. When a thought-from creature is reduced to 0 or fewer hit points, it disappears and its creator takes an amount of damage equal to the thought-form creature’s psychic backlash (see Thought-Form Creature Statistics below). A thought-form creature can be dismissed as a free action.
+A thought-form creature is a mentally constructed thrall that takes any form its creator desires. Creating a thought-form creature takes 1 full round (as if the creator were casting a spell with a 1-round casting time) and lasts as long as its creator concentrates on the creature’s existence as a full-round action; a combatant can manifest only one thought-form creature at a time. A thought-form creature must make its attacks against another thought-form creature if one is manifested; if not, it can attack its creator’s opponent. The creature makes its attacks when its creator uses a full-round action to concentrate on the thought-form creature. When a thought-from creature is reduced to 0 or fewer hit points, it disappears and its creator takes an amount of damage equal to the thought-form creature’s psychic backlash (see Thought-Form Creature Statistics below). A thought-form creature can be dismissed as a free action.
 
 A basic thought-form creature costs 1 MP to create, and has the following base statistics.
 

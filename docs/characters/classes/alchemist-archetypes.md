@@ -10,7 +10,7 @@ discoveries The following new discoveries can be taken by any alchemist who meet
 
 **Alchemical Simulacrum (Su)**: The alchemist gains the ability to create a lesser simulacrum. This works like the lesser simulacrum\* spell, except it costs 100 gp in alchemical materials per Hit Die of the simulacrum, requires 24 hours to grow, and decays into inert flesh rather than ice or snow if killed. An alchemist must be at least 8th level before selecting this discovery. The created simulacrum is a creature, not a supernatural effect.
 
-**Alchemical Zombie (Su)**: The alchemist gains the ability to animate a relatively complete corpse as an alchemypowered zombie. This process takes 1 hour and costs 100 gp in alchemical reagents per HD of the corpse being animated; the dead creature gains the zombie template.
+**Alchemical Zombie (Su)**: The alchemist gains the ability to animate a relatively complete corpse as an alchemy-powered zombie. This process takes 1 hour and costs 100 gp in alchemical reagents per HD of the corpse being animated; the dead creature gains the zombie template.
 
 Zombies that are created in this manner count as undead created by animate dead for the purposes of determining how many undead the alchemist can control. An alchemist must be at least 8th level before selecting this discovery. The created zombie is a creature, not a supernatural effect.
 
@@ -64,7 +64,7 @@ Confusion Bomb\* (Su): The alchemist’s bombs twist the target’s perception o
 
 **Mummification (Ex)**: The alchemist has mastered preserving flesh and applied this knowledge to his own body, turning himself into an undeadlike creature. After learning this discovery, the alchemist must perform a 30-day regimen of a special diet, rigorous exercise, and drinking a mildly poisonous alchemical tea. At the end of this regimen, he falls unconscious for 24 hours, then awakens as a “living mummy.” The alchemist’s type does not change, but he becomes immune to cold, nonlethal damage, paralysis, and sleep. An alchemist must be at least 10th level and must have the preserve organs discovery before selecting this discovery.
 
-**Mutagen (Su)**: This discovery gives the alchemist the mutagen class ability, as described in the Advanced Player’s Guide. (This discovery exists so alchemist archetypes who have variant mutagens, such as the mindchemist, can learn how to make standard mutagens.)
+**Mutagen (Su)**: If the alchemist has an Intelligence score of at least 15, this discovery gives him the mutagen class ability, as described in the Advanced Player’s Guide. (This discovery exists so alchemist archetypes who have variant mutagens, such as the mindchemist, can learn how to make standard mutagens.)
 
 **Parasitic Twin (Ex)**: The alchemist’s vestigial limbs are part of a parasitic twin on his torso, consisting of a head, a torso, and two arms (from the vestigial limb discovery). Normally, the twin is mostly recessed within the alchemist’s body, with the visible arms acting like the vestigial arm discovery, though the alchemist can manifest or hide the twin as a standard action. The twin is helpless, fully subservient to the alchemist, and cannot be targeted or harmed. Once per day, if the alchemist succumbs to a mental effect that would make him unconscious, helpless, or not in control of his own actions (such as charm person, feeblemind, or hold person), he can reroll his saving throw; success means the twin absorbs the effect and the alchemist can ignore it. Using this ability sickens the alchemist for the duration of the absorbed effect (removing the effect from the twin ends the sickened condition), and he cannot use the twin’s limbs during that time, though passive effects (such as from rings worn on the vestigial limbs) continue normally. The alchemist must have selected the vestigial limb discovery twice before selecting this discovery.
 
@@ -86,7 +86,7 @@ Sunlight Bomb (Su)\*: The alchemist can throw bombs that explode with a searing 
 
 Tanglefoot Bomb (Su)\*: A creature that takes a direct hit from a tanglefoot bomb must save against the bomb’s DC or be entangled and glued to the floor as if it had failed its save against a tanglefoot bag. Creatures in the splash area that fail their saves are entangled but not glued to the floor; those who make this save are not entangled at all.
 
-**Tentacle (Ex)**: The alchemist gains a prehensile, armlength tentacle on his body. The tentacle is fully under his control and cannot be concealed except with magic or bulky clothing. The tentacle does not give the alchemist any extra attacks or actions per round, though he can use it to make a tentacle attack (1d4 damage for a Medium alchemist, 1d3 damage for a Small one) with the grab ability. The tentacle can manipulate or hold items as well as the alchemist’s original arms can (for example, allowing the alchemist to use one hand to wield a weapon, the tentacle to hold a potion, and the third hand to throw a bomb). Unlike an arm, the tentacle has no magic item slots.
+**Tentacle (Ex)**: The alchemist gains a prehensile, arm-length tentacle on his body. The tentacle is fully under his control and cannot be concealed except with magic or bulky clothing. The tentacle does not give the alchemist any extra attacks or actions per round, though he can use it to make a tentacle attack (1d4 damage for a Medium alchemist, 1d3 damage for a Small one) with the grab ability. The tentacle can manipulate or hold items as well as the alchemist’s original arms can (for example, allowing the alchemist to use one hand to wield a weapon, the tentacle to hold a potion, and the third hand to throw a bomb). Unlike an arm, the tentacle has no magic item slots.
 
 **Tumor Familiar (Ex)**: The alchemist creates a Diminutive or Tiny tumor on his body, usually on his back or stomach. As a standard action, the alchemist can have the tumor detach itself from his body as a separate creature vaguely resembling a kind of animal suitable for a familiar (bat, cat, and so on) and move about as if it were an independent creature. The tumor can reattach itself to the alchemist as a standard action. The tumor has all the abilities of the animal it resembles (for example, a batlike tumor can fly) and familiar abilities based on the alchemist’s caster level (though some familiar abilities may be useless to an alchemist). The tumor acts as the alchemist’s familiar whether attached or separated (providing a skill bonus, the Alertness feat, and so on). When attached to the alchemist, the tumor has fast healing 5. An alchemist’s extracts and mutagens are considered spells for the purposes of familiar abilities like share spells and deliver touch spells. If a tumor familiar is lost or dies, it can be replaced 1 week later through a specialized procedure that costs 200 gp per alchemist level. The ritual takes 8 hours to complete.
 
@@ -134,7 +134,7 @@ An internal alchemist studies medicine, diet, and the living body to purify the 
 
 **Disease Resistance**: At 3rd level, an internal alchemist gains a bonus on all saving throws against disease equal to his alchemist class bonus against poison. When he gains the poison immunity alchemist class ability, he becomes immune to disease as well. This ability replaces swift alchemy.
 
-**Uncanny Dodge**: Starting at 6th level, an internal alchemist can react to danger before his senses would normally allow him to do so. He cannot be caught flatfooted, nor does he lose his Dexterity bonus to AC if the attacker is invisible. However, he still loses his Dexterity bonus to AC if he is immobilized, or if an opponent successfully uses the feint action (see Bluff ) against him. If the internal alchemist already has uncanny dodge from a different class, he automatically gains improved uncanny dodge (as a rogue) instead. This ability replaces swift poisoning.
+**Uncanny Dodge**: Starting at 6th level, an internal alchemist can react to danger before his senses would normally allow him to do so. He cannot be caught flat-footed, nor does he lose his Dexterity bonus to AC if the attacker is invisible. However, he still loses his Dexterity bonus to AC if he is immobilized, or if an opponent successfully uses the feint action (see Bluff ) against him. If the internal alchemist already has uncanny dodge from a different class, he automatically gains improved uncanny dodge (as a rogue) instead. This ability replaces swift poisoning.
 
 **Discoveries**: The following discoveries complement the internal alchemist archetype: cognatogen\*, elixir of life, grand cognatogen\*, greater cognatogen\*, lingering spirit\*, mummification\*, and spontaneous healing\*.
 
@@ -180,7 +180,7 @@ A psychonaut uses his knowledge to explore altered states of consciousness and e
 
 **Psychic Senses**: At 8th level, a psychonaut adds clairaudience/clairvoyance, detect scrying, scrying, and speak with dead to his formula book as 3rd-level extracts (a scrying extract does not require a focus or divine focus component). When a psychonaut uses a speak with dead extract, he gains the power to hear the lingering spirit within a corpse rather than enabling the corpse to audibly speak, but the extract otherwise works as the spell. This ability replaces poison resistance +6.
 
-**Remote Consciousness**: At 10th level, a psychonaut adds dream, lesser astral projection, nightmare, plane shift, sending, and telepathic bond to his formula book as 4thlevel extracts (a plane shift extract does not require a focus component). This ability replaces poison immunity.
+**Remote Consciousness**: At 10th level, a psychonaut adds dream, lesser astral projection, nightmare, plane shift, sending, and telepathic bond to his formula book as 4th-level extracts (a plane shift extract does not require a focus component). This ability replaces poison immunity.
 
 **Greater Precognition**: At 15th level, a psychonaut adds moment of prescience to his formula book as a 5th-level extract. This ability replaces the increase to bomb damage at this level.
 
@@ -206,7 +206,13 @@ A reanimator is an alchemist who has discovered how to infuse a corpse with a se
 
 A vivisectionist studies bodies to better understand their function. Unlike a chirurgeon, a vivisectionist’s goals are not related to healing, but rather to experimentation and knowledge that most people would consider evil. A vivisectionist has the following class features.
 
-**Sneak Attack**: At 1st level, a vivisectionist gains the sneak attack ability as a rogue of the same level. This sneak attack works like that of any other class: if a character also has sneak attack from another class, the dice from each class are added together, and vivisectionist levels do not make other classes’ sneak attack advance. One level of vivisectionist grants only 1d6. This ability replaces bomb.
+**Sneak Attack**: If a vivisectionist can catch an opponent when he is unable to defend himself effectively from her attack, she can strike a vital spot for extra damage.
+
+The vivisectionist’s attack deals extra damage anytime her target would be denied a Dexterity bonus to AC (whether the target actually has a Dexterity bonus or not), or when the vivisectionist flanks her target. This extra damage is 1d6 at 1st level, and increases by 1d6 every two alchemist levels thereafter. Should the vivisectionist score a critical hit with a sneak attack, this extra damage is not multiplied. Ranged attacks can count as sneak attacks only if the target is within 30 feet.
+
+With a weapon that deals nonlethal damage (like a sap, whip, or an unarmed strike), a vivisectionist can make a sneak attack that deals nonlethal damage instead of lethal damage. She cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack, not even with the usual –4 penalty.
+
+The vivisectionist must be able to see the target well enough to pick out a vital spot and must be able to reach such a spot. A vivisectionist cannot sneak attack while striking a creature with concealment. This ability replaces bomb.
 
 ??? note "Original rule"
 
@@ -533,7 +539,7 @@ Fire bombers are exceptionally good at using bombs to burn creatures and blow th
 
 **Weapon and Armor Proficiency**: A fire bomber treats torches as a simple weapon.
 
-**Fire Bombardier (Su or Ex)**: At 1st level, when a fire bomber throws a bomb that deals fire damage, all creatures in the splash radius take an additional point of damage per die of fire damage dealt. Fire bombers only add their Intelligence bonus to damage from bombs or alchemical substances that deal fire damage. This otherwise works like the alchemist’s bomb and throw anything abilities. This ability alters bomb and throw anything.
+**Fire Bombardier (Su or Ex)**: At 1st level, when a fire bomber throws a bomb that deals fire damage, the splash gains a +1 enhancement bonus to damage per die of fire damage dealt. Fire bombers only add their Intelligence bonus to damage from bombs or alchemical substances that deal fire damage. This otherwise works like the alchemist’s bomb and throw anything abilities. This ability alters bomb and throw anything.
 
 **Bonus Feats**: A fire bomber can select the Burn! Burn! Burn!, Fire Tamer, or Flame Heart feat in place of a discovery.
 
@@ -709,7 +715,7 @@ Metamorphs eschew traditional alchemy, focusing on internal chemistry and the tr
 
 A metamorph can use this ability once per day at 1st level, and an additional time per day at 4th level, and every 2 alchemist levels thereafter, for a total of nine times at 18th level. At 20th level, a metamorph can use shapechanger as a free action once per round, either before or after all her other actions, with no daily limit. This ability can also function as *monstrous physique I* at 5th level, as *monstrous physique II* at 9th level, as *monstrous physique III* at 11th level, as *monstrous physique IV* or *giant form I* at 13th level, and as *giant form II* at 15th level. This ability replaces alchemy (which also includes bombs, extracts, and mutagen) and Throw Anything.
 
-**Mutagen (Ex)**: At 1st level, a metamorph gains mutagen as a normal alchemist. She can take mutagen and cognatogen discoveries despite not possessing the alchemy class feature that normally grants mutagen.
+**Mutagen (Ex)**: At 1st level, if a metamorph has an Intelligence score of at least 15, she gains mutagen as a normal alchemist. She can take mutagen and cognatogen discoveries despite not possessing the alchemy class feature that normally grants mutagen.
 
 **Adaptive Physiology (Ex)**: At 3rd level, a metamorph gains a 25% chance to negate critical hits and precision damage, similar to the preserve organs discovery. This chance increases to 50% at 6th level, and to 75% at 18th level. This ability replaces swift alchemy, swift poisoning, and instant alchemy.
 
@@ -923,7 +929,7 @@ Crypt breakers use their powers of perception and alchemical adaptation to safel
 
 **Discoveries**: A crypt breaker may take the following rogue talents as discoveries: quick disable, trap sense, and trap spotter. Treat the crypt breaker's alchemist level as his rogue level for these talents.
 
-**Enhanced Alkahest (Su)**: At 14th level, a crypt breaker's alkahest grows more potent. Against constructs and corporeal undead, the crypt breaker's alkahest bombs deal +1 points of damage per die, and the bomb threatens a critical hit on a 19–20. This does not stack with other effects that improve critical hit threat ranges. This ability replaces persistent mutagen.
+**Enhanced Alkahest (Su)**: At 14th level, a crypt breaker's alkahest grows more potent. Against constructs and corporeal undead, the crypt breaker's alkahest bombs gain a +1 enhancement bonus to damage per die rolled, and the bomb threatens a critical hit on a 19–20. This does not stack with other effects that improve critical hit threat ranges. This ability replaces persistent mutagen.
 
 ## Fleshforge Researcher
 

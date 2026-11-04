@@ -123,9 +123,9 @@ The link between the activator and the coin persists for 1 week, after which the
 
 A flying skiff is a long, flat-bottomed vehicle akin to a naval ship, and is covered in metallic veins. Without a psychic pilot, a flying skiff acts in all regards as a keelboat.
 
-A single Large directfire siege engine can be mounted on the front of a flying skiff.
+A single Large direct-fire siege engine can be mounted on the front of a flying skiff.
 
-A control helmet that fits a Small, Medium, or Large creature is linked by long, curling cables to the metal veins of the skiff. Whenever a psychic creature (one with levels in an occult class, the Psychic Sensitivity feat, or the ability to use psychic spelllike abilities) wears the control helmet, the flying skiff gains the following abilities.
+A control helmet that fits a Small, Medium, or Large creature is linked by long, curling cables to the metal veins of the skiff. Whenever a psychic creature (one with levels in an occult class, the Psychic Sensitivity feat, or the ability to use psychic spell-like abilities) wears the control helmet, the flying skiff gains the following abilities.
 
 - The skiff can fly with a maximum speed of 100 feet and acceleration of 30 feet.
 - The skiff gains fast healing 5 when reduced below half its starting hit points. Damage above this threshold must be repaired normally.
@@ -312,7 +312,7 @@ Once per day, if the wearer possesses the mesmerist trick class feature, he can 
 **Aura** moderate conjuration; **CL** 7th  
 **Price** 48,000 gp; **Slot** none; **Weight** 150 lbs.
 
-This cold-iron-lined wooden cabinet is the size of a large upright chest, with just enough room inside for a Mediumsized creature to sit comfortably on a small wooden seat. The cabinet is constructed of alternating layers of cold iron sheets and slats of cypress wood insulated with sheep’s wool, and is specially crafted to attract and focus atmospheric energy to recharge the internal reservoirs of characters capable of casting psychic magic.
+This cold-iron-lined wooden cabinet is the size of a large upright chest, with just enough room inside for a Medium-sized creature to sit comfortably on a small wooden seat. The cabinet is constructed of alternating layers of cold iron sheets and slats of cypress wood insulated with sheep’s wool, and is specially crafted to attract and focus atmospheric energy to recharge the internal reservoirs of characters capable of casting psychic magic.
 
 Activating an orgone accumulator requires spending hours inside it while meditating. The creature must remain conscious, taking no actions other than meditating. A creature inside the box that remains in this state automatically gains a +2 bonus on saving throws to recover from curses, diseases, and poisons. An orgone accumulator can also be used in conjunction with the faith healing occult skill unlock. If the subject of the faith healing is within the orgone accumulator, the creature attempting the Heal check for faith healing gains a +2 circumstance bonus on the check.
 
@@ -502,7 +502,7 @@ This silver powder typically comes in a fist-sized leather bag. When poured on t
 **Aura** strong abjuration; **CL** 15th  
 **Price** 15,000 gp; **Slot** head; **Weight** 2 lbs.
 
-This simple tin headpiece is a lesser replica of the powerful stannum crown. A tin cap feeds on its wearer’s paranoia, granting her a +4 insight bonus on saving throws against mindaffecting effects and divinations that gather information about her. Donning a tin cap saps the mind of the wearer, imposing a –2 penalty to her Intelligence, Wisdom, and Charisma. The increased paranoia causes the wearer to always attempt saving throws, even against harmless effects. Removing the tin cap removes both the benefits and drawbacks until it is donned again.
+This simple tin headpiece is a lesser replica of the powerful stannum crown. A tin cap feeds on its wearer’s paranoia, granting her a +4 insight bonus on saving throws against mind-affecting effects and divinations that gather information about her. Donning a tin cap saps the mind of the wearer, imposing a –2 penalty to her Intelligence, Wisdom, and Charisma. The increased paranoia causes the wearer to always attempt saving throws, even against harmless effects. Removing the tin cap removes both the benefits and drawbacks until it is donned again.
 
 **Construction** Craft Wondrous Item, mind blank; **Cost** 7,500 gp
 
@@ -511,7 +511,7 @@ This simple tin headpiece is a lesser replica of the powerful stannum crown. A t
 **Aura** strong transmutation; **CL** 12th  
 **Price** 13,500 gp; **Slot** none; **Weight** 15 lbs.
 
-This massive, metalbound tome is filled with thin pages of beaten copper, each of which is indented with arcane sigils indicating precise folding points for the creation of various origami creatures. Once one or more pages are torn out and folded, the copper sheets magically expand to create a pleated origami approximation of the desired creature. Once created, each origami creature is imbued with a semblance of life, just as if animated with animate objects, and obeys the commands of its creator. The user can fold pages to craft a fantastic variety of Small, Medium, and Large animated constructs. Crafting a Small creature uses up one page, crafting a Medium creature uses two, and crafting a Large creature uses four. Each construct crafted by the book is built with the default number of Construction Points (CP) and hit points for its size, though all origami animations gain the basic metal Construction Point quality for free. Constructs of other metals or stone cannot be built with the book, though additional CP can be otherwise added to the creation at the expense of one page per point. This follows all rules for creating animated objects, and origami animals can never select the same CP ability more than once.
+This massive, metal-bound tome is filled with thin pages of beaten copper, each of which is indented with arcane sigils indicating precise folding points for the creation of various origami creatures. Once one or more pages are torn out and folded, the copper sheets magically expand to create a pleated origami approximation of the desired creature. Once created, each origami creature is imbued with a semblance of life, just as if animated with animate objects, and obeys the commands of its creator. The user can fold pages to craft a fantastic variety of Small, Medium, and Large animated constructs. Crafting a Small creature uses up one page, crafting a Medium creature uses two, and crafting a Large creature uses four. Each construct crafted by the book is built with the default number of Construction Points (CP) and hit points for its size, though all origami animations gain the basic metal Construction Point quality for free. Constructs of other metals or stone cannot be built with the book, though additional CP can be otherwise added to the creation at the expense of one page per point. This follows all rules for creating animated objects, and origami animals can never select the same CP ability more than once.
 
 The book contains instructions for making innumerable variations of fantastic creatures, limited only by the user’s ingenuity and imagination. For example, the user may fold a Medium gorilla-like animal with two pages, then tear out an additional three pages to construct it with additional attack, grab, and constrict abilities, for a total of five pages. Crafting an origami animal requires a full-round action. Each one lasts for 1 hour before crumbling into useless copper shards. Tomes of origami animals have 50 pages when created, though most have 2d20+10 intact pages when found.
 

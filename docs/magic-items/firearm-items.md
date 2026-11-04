@@ -54,7 +54,7 @@ This special ability can only be placed on one-handed or two-handed firearms. A 
 
 **Aura** moderate enchantment; **CL** 12th; **Price** +3 bonus
 
-This special ability can only be placed on one-handed or twohanded firearms. A greater lucky firearm is nearly identical to a lucky gun, but its reservoir holds 3 grit points instead of 1. A firearm cannot have both this special ability and the lucky special ability.
+This special ability can only be placed on one-handed or two-handed firearms. A greater lucky firearm is nearly identical to a lucky gun, but its reservoir holds 3 grit points instead of 1. A firearm cannot have both this special ability and the lucky special ability.
 
 **Construction** Craft Magic Arms and Armor, greater heroism, creator must be a grit user
 
@@ -70,7 +70,7 @@ This special ability can only be placed on firearms. A reliable firearm is encha
 
 **Aura** moderate enchantment; **CL** 12th; **Price** +3 bonus
 
-This special ability can only be placed on one-handed or twohanded firearms. A greater reliable firearm is enchanted so as to be less likely to jam than other firearms. It reduces the misfire value of the affected firearm by 4 (minimum 0). This reduction occurs after any increases are calculated for firing with the broken condition, or for any other effect that might increase the misfire value of a firearm. A firearm with greater reliable cannot have the reliable special ability.
+This special ability can only be placed on one-handed or two-handed firearms. A greater reliable firearm is enchanted so as to be less likely to jam than other firearms. It reduces the misfire value of the affected firearm by 4 (minimum 0). This reduction occurs after any increases are calculated for firing with the broken condition, or for any other effect that might increase the misfire value of a firearm. A firearm with greater reliable cannot have the reliable special ability.
 
 **Construction** Craft Magic Arms and Armor, make whole
 

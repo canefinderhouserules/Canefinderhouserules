@@ -6,18 +6,18 @@ Savants are specialists in the theory and practice of magic, illuminating myster
 
 **Table: Adventuring Savant**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Adept activation, master scholar |
-| 2nd | +1 | +1 | +1 | +1 | Esoteric magic, glyph-finding; +1 level of existing class |
-| 3rd | +1 | +1 | +1 | +2 | Scroll master; +1 level of existing class |
-| 4th | +2 | +1 | +1 | +2 | Quick identification; +1 level of existing class |
-| 5th | +2 | +2 | +2 | +3 | Sigil master; +1 level of existing class |
-| 6th | +3 | +2 | +2 | +3 | Analyze dweomer, silence master; +1 level of existing class |
-| 7th | +3 | +2 | +2 | +4 | Dispelling master; +1 level of existing class |
-| 8th | +4 | +3 | +3 | +4 | Symbol master; +1 level of existing class |
-| 9th | +4 | +3 | +3 | +5 | Spellcasting master; +1 level of existing class |
-| 10th | +5 | +3 | +3 | +5 | Item master; +1 level of existing class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +0 | +1 | Adept activation, master scholar | — |
+| 2nd | +1 | +1 | +1 | +1 | Esoteric magic, glyph-finding | +1 level of existing class |
+| 3rd | +1 | +1 | +1 | +2 | Scroll master | +1 level of existing class |
+| 4th | +2 | +1 | +1 | +2 | Quick identification | +1 level of existing class |
+| 5th | +2 | +2 | +2 | +3 | Sigil master | +1 level of existing class |
+| 6th | +3 | +2 | +2 | +3 | Analyze dweomer, silence master | +1 level of existing class |
+| 7th | +3 | +2 | +2 | +4 | Dispelling master | +1 level of existing class |
+| 8th | +4 | +3 | +3 | +4 | Symbol master | +1 level of existing class |
+| 9th | +4 | +3 | +3 | +5 | Spellcasting master | +1 level of existing class |
+| 10th | +5 | +3 | +3 | +5 | Item master | +1 level of existing class |
 
 ### Requirements
 

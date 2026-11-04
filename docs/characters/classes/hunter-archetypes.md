@@ -30,7 +30,7 @@ This ability replaces teamwork feats.
 
 ## Feral Hunter
 
-A feral hunter has forged a bond with nature that's so strong that she doesn't merely channel the aspects of animalsshe actually becomes an animal herself Though she lacks an animal companion, a feral hunter is in tune with the beast lurking within her flesh and spirit, and lives in a near-wild state of being. A feral hunter often resembles a lycanthrope, but her power comes from her own nature and is not influenced by moonlight or silver.
+A feral hunter has forged a bond with nature that's so strong that she doesn't merely channel the aspects of animals-she actually becomes an animal herself Though she lacks an animal companion, a feral hunter is in tune with the beast lurking within her flesh and spirit, and lives in a near-wild state of being. A feral hunter often resembles a lycanthrope, but her power comes from her own nature and is not influenced by moonlight or silver.
 
 **Solitary**: Unlike most hunters, a feral hunter does not gain an animal companion.
 

@@ -8,18 +8,18 @@ Every esoteric knight is different. They rarely form orders or train apprentices
 
 **Table: Esoteric Knight**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +1 | +1 | +0 | +1 | Martial esoterica |
-| 2nd | +2 | +1 | +1 | +1 | Psychic esoterica, +1 level of existing class |
-| 3rd | +3 | +2 | +1 | +2 | Martial esoterica, +1 level of existing class |
-| 4th | +4 | +2 | +1 | +2 | Psychic esoterica, +1 level of existing class |
-| 5th | +5 | +3 | +2 | +3 | Martial esoterica, +1 level of existing class |
-| 6th | +6 | +3 | +2 | +3 | Psychic esoterica, +1 level of existing class |
-| 7th | +7 | +4 | +2 | +4 | Martial esoterica, +1 level of existing class |
-| 8th | +8 | +4 | +3 | +4 | Psychic esoterica, +1 level of existing class |
-| 9th | +9 | +5 | +3 | +5 | Martial esoterica, +1 level of existing class |
-| 10th | +10 | +5 | +3 | +5 | Psychic esoterica, +1 level of existing class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +1 | +1 | +0 | +1 | Martial esoterica | — |
+| 2nd | +2 | +1 | +1 | +1 | Psychic esoterica | +1 level of existing class |
+| 3rd | +3 | +2 | +1 | +2 | Martial esoterica | +1 level of existing class |
+| 4th | +4 | +2 | +1 | +2 | Psychic esoterica | +1 level of existing class |
+| 5th | +5 | +3 | +2 | +3 | Martial esoterica | +1 level of existing class |
+| 6th | +6 | +3 | +2 | +3 | Psychic esoterica | +1 level of existing class |
+| 7th | +7 | +4 | +2 | +4 | Martial esoterica | +1 level of existing class |
+| 8th | +8 | +4 | +3 | +4 | Psychic esoterica | +1 level of existing class |
+| 9th | +9 | +5 | +3 | +5 | Martial esoterica | +1 level of existing class |
+| 10th | +10 | +5 | +3 | +5 | Psychic esoterica | +1 level of existing class |
 
 ### Requirements
 
@@ -47,9 +47,13 @@ The following are class features of the esoteric knight prestige class.
 
 **Weapon and Armor Proficiency**: An esoteric knight is proficient with all simple and martial weapons, light armor, medium armor, and shields.
 
-**Spells per Day**: At the indicated levels, an esoteric knight gains new spells per day as if she had also gained a level in a psychic spellcasting class she belonged to before adding the prestige class. She does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one psychic spellcasting class before becoming an esoteric knight, she must decide to which class she adds the new level for purposes of determining spells per day.
+**Spells per Day**: At every level except 1st, an esoteric knight gains new spells per day as if she had also gained a level in a psychic spellcasting class she belonged to before adding the prestige class. She does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one psychic spellcasting class before becoming an esoteric knight, she must decide to which class she adds the new level for purposes of determining spells per day.
 
 Instead of choosing a spellcasting class, a character with levels in a class that grants the kinetic blast class feature can add these effective levels to that class. If she does, she increases her effective kineticist level for purposes of determining the highest level of wild talents she can select, the effective spell level of her kinetic blast and defense wild talents, and the amount of burn she can accept each round. She continues to gain utility wild talents and infusions as if these levels of esoteric knight were levels of her class that grants kinetic blast. She does not gain or increase other related class features, such as infusion specializations.
+
+??? note "Original rule"
+
+    **Spells per Day**: The book grants this only at every other level.
 
 **Martial Esoterica**: At 1st level and every 2 levels thereafter, the esoteric knight gains a bonus combat feat. She must meet the prerequisites of the feat. Her esoteric knight levels count as fighter levels and stack with any levels of fighter she might have for meeting the prerequisites for feats. An esoteric knight can learn a new combat feat in place of the most recent martial esoterica feat she has learned either by expending a 1st-level spell slot or, if she is a character with the burn class feature (such as the kineticist), by accepting 1 point of burn as a standard action. In effect, the esoteric knight loses the bonus feat in exchange for the new one. She can change only the most recent combat feat gained. Whenever she gains a new bonus combat feat, the previous feat becomes set and cannot be changed again.
 

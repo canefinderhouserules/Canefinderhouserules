@@ -4,7 +4,7 @@ Rules for firearms from *Ultimate Combat*. The weapon statistics are in [Firearm
 
 Guns are not strangers to fantasy. The earliest authors of fantasy and weird fiction often included guns in their stories. These authors likely included guns because they are exciting, but also because the guns they chose were primitive ones— relatively unpredictable weapons, prone to misfire and malfunction. This made firearms excellent storytelling devices. Such weapons could cause hero or villain to falter or triumph, changing the action within the tale in a flash or a fizzle. Still, a firearm remains an ominous and terrible weapon in the hands of a skilled gunman.
 
-This section presents an anachronistic collection of hand-held black powder weapons. Most of them are singleshot muzzle-loaders with highly inefficient triggering mechanisms—traditional sword and sorcery firearms. More advanced firearms are also presented for those brave enough to mix their fantasy with a technology much closer to that of the Old West than the slow and unstable weapons that gave musketeers their name. If you are interested in letting such weapons in your game, do so with the following warning: Advanced guns can substantially change the assumptions of your game world, in the same way that they changed the face of warfare in the real world. If you like your fantasy to be of the more traditional variety, stand clear. Or, better yet, run for cover.
+This section presents an anachronistic collection of hand-held black powder weapons. Most of them are single-shot muzzle-loaders with highly inefficient triggering mechanisms—traditional sword and sorcery firearms. More advanced firearms are also presented for those brave enough to mix their fantasy with a technology much closer to that of the Old West than the slow and unstable weapons that gave musketeers their name. If you are interested in letting such weapons in your game, do so with the following warning: Advanced guns can substantially change the assumptions of your game world, in the same way that they changed the face of warfare in the real world. If you like your fantasy to be of the more traditional variety, stand clear. Or, better yet, run for cover.
 
 ## Firearms in Your Campaign
 
@@ -36,7 +36,7 @@ feat grants you proficiency with all firearms, anytime you take a feat that modi
 
 All firearms are part of the same weapon group for the purposes of the fighter’s weapon training class feature.
 
-**Capacity**: A firearm’s capacity is the number of shots it can hold at one time. When making a full-attack action, you may fire a firearm as many times in a round as you have attacks, up to this limit, unless you can reload the weapon as a swift or free action while making a fullattack action. In the case of early firearms, capacity often indicates the number of barrels a firearm has. In the case of advanced firearms, it typically indicates the number of chambers the weapon has.
+**Capacity**: A firearm’s capacity is the number of shots it can hold at one time. When making a full-attack action, you may fire a firearm as many times in a round as you have attacks, up to this limit, unless you can reload the weapon as a swift or free action while making a full-attack action. In the case of early firearms, capacity often indicates the number of barrels a firearm has. In the case of advanced firearms, it typically indicates the number of chambers the weapon has.
 
 **Range** and Penetration: Armor, whether manufactured
 
@@ -54,7 +54,7 @@ Other rules for loading a firearm depend on whether the firearm is an early fire
 
 **Early Firearms**: Early firearms are muzzle-loaded, requiring bullets or pellets and black powder to be rammed down the muzzle. If an early firearm has multiple barrels, each barrel must be loaded separately. It is a standard action to load each barrel of a one-handed early firearm and a full-round action to load each barrel of a two-handed early firearm. It takes three full-round actions by one person to load a siege firearm. This can be reduced to two full-round actions if more than one person is loading the cannon.
 
-**Advanced Firearms**: Advanced firearms are chamberloaded. It is a move action to load a one-handed or twohanded advanced firearm to its full capacity. The Rapid Reload feat reduces this to a free action.
+**Advanced Firearms**: Advanced firearms are chamber-loaded. It is a move action to load a one-handed or two-handed advanced firearm to its full capacity. The Rapid Reload feat reduces this to a free action.
 
 **Misfires**: If the natural result of your attack roll falls within a firearm’s misfire value, that shot misses, even if you would have otherwise hit the target. When a firearm misfires, it gains the broken condition. While it has the broken condition, it suffers the normal disadvantages that broken weapons do, and its misfire value increases by 4 unless the wielder has gun training in the particular type of firearm. In that case, the misfire value increases by 2 instead of 4.
 
@@ -82,7 +82,7 @@ Firearms, Black Powder, and Water: Black powder becomes useless when exposed to 
 
 There are two general categories of firearms: early and advanced.
 
-Firearms are further divided into one-handed, twohanded, and siege firearms. As the category’s name implies, one-handed firearms need only one hand to wield and shoot. Two-handed firearms work best when you use twohands while shooting them. Two-handed firearms can be shot with one hand at a –4 penalty on the attack roll. Siege weapons are typically mounted on some sort of platform, movable or otherwise, and have greater power but a much slower rate of fire—they’re detailed in their own section, beginning.
+Firearms are further divided into one-handed, two-handed, and siege firearms. As the category’s name implies, one-handed firearms need only one hand to wield and shoot. Two-handed firearms work best when you use two-hands while shooting them. Two-handed firearms can be shot with one hand at a –4 penalty on the attack roll. Siege weapons are typically mounted on some sort of platform, movable or otherwise, and have greater power but a much slower rate of fire—they’re detailed in their own section, beginning.
 
 **Scatter Weapon Quality**: A weapon with the scatter weapon quality can shoot two different types of ammunition. It can fire normal bullets that target one creature, or it can make a scattering shot, attacking all creatures within a cone. Cannons with the scatter weapon quality only fire grapeshot, unless their descriptions state otherwise. When a scatter weapon attacks all creatures within a cone, it makes a separate attack roll against each creature within the cone. Each attack roll takes a –2 penalty, and its attack damage cannot be modified by precision damage or damage-increasing feats such as Vital Strike. Effects that grant concealment, such as fog or smoke, or the blur, invisibility, or mirror image spells, do not foil a scatter attack. If any of the attack rolls threaten a critical, confirm the critical for that attack roll alone. A firearm that makes a scatter shot misfires only if all of the attack rolls made misfire. If a scatter weapon explodes on a misfire, it deals triple its damage to all creatures within the misfire radius.
 
@@ -158,7 +158,7 @@ Firearm Ammunition and Adventuring Gear Those who wield guns have a number of op
 
 **Black Powder**: Black powder is the key explosive component within a firearm that enables it to function, but in larger amounts this alchemical material can be quite destructive on its own as well. A single dose of black powder is enough to power a single shot from most one-handed and two-handed firearms, while 10 doses are required to fire a cannon. Black powder is often stored and transported in kegs (which hold 100 doses), but in this quantity the powder itself becomes dangerous. Exposure to fire, electricity, or a misfire explosion causes black powder to explode—a single keg that explodes in this manner deals 5d6 points of fire damage to anyone within a 20-foot burst (DC 15 Reflex half ). Storing black powder in a powder horn protects the powder from explosion.
 
-**Bullet**: The ammunition of most one-handed and twohanded firearms, firearm bullets typically take the form of small balls of lead or some other metal.
+**Bullet**: The ammunition of most one-handed and two-handed firearms, firearm bullets typically take the form of small balls of lead or some other metal.
 
 Bullet, Adamantine: These expensive bullets are crafted from adamantine. They ignore hardness 20 or less when attacking objects.
 

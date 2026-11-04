@@ -98,7 +98,7 @@ This distinctive armor is one of the most iconic identifiers of scar soldiers. S
 
 This alchemical substance, originally developed to hide the marks of secretive devotion, has become popular among former scar soldiers. When applied to scarred areas of the body, scarsalve causes those scars to fade from view for 1 day. A character who gains benefits from having visible scars loses those benefits while under the effects of scarsalve, but she also gains a +2 alchemical bonus on Disguise checks.
 
-## Infernal Knights
+## Hell Knights
 
 ### Branding Iron
 
@@ -108,39 +108,39 @@ This length of bare metal is 2 to 4 feet long. One end serves as a handle, while
 
 If the branding iron is heated in an open fire for 10 minutes or more, it becomes red-hot. If then pressed against wood, leather, skin, or another surface capable of being scorched, it deals 1 point of fire damage, leaving behind a burn mark that becomes a mundane scar of the branding iron’s symbol. A willing or helpless creature can be marked with a hot branding iron. If employed as an improvised weapon in combat, a sufficiently heated branding iron deals damage and leaves behind its symbol on any creature struck. If the wielder is trying to mark a particular spot on a target creature, she takes a –4 penalty on her attack roll (in addition to any penalties from using improvised weapons). Creatures immune or resistant to fire damage cannot be marked by a branding iron. A hot branding iron loses its heat quickly. It can mark only one creature, within 5 minutes of being removed from a fire, before it needs to be reheated.
 
-### Infernal Knight Barding
+### Hell Knight Barding
 
 **Price** varies; **Weight** varies
 
-Infernal knights often equip their steeds with armor similar to their own. Typical barding for these steeds features ornamental spikes (these spikes deal no damage). Such barding is usually designed to look similar to the armor of the horse’s rider, or to look skeletal, fiendish, or similar to a nightmare. Infernal knight barding can be made from infernal knight leather, half-plate, or plate; it costs four times as much and weighs twice as much. Half-plate or plate barding slows a mount’s speed from 40 feet to 30 feet, from 50 feet to 35 feet, or from 60 feet to 40 feet. A mount wearing such armor moves at only triple its normal speed when running instead of quadruple.
+Hell knights often equip their steeds with armor similar to their own. Typical barding for these steeds features ornamental spikes (these spikes deal no damage). Such barding is usually designed to look similar to the armor of the horse’s rider, or to look skeletal, fiendish, or similar to a nightmare. Hell knight barding can be made from hell knight leather, half-plate, or plate; it costs four times as much and weighs twice as much. Half-plate or plate barding slows a mount’s speed from 40 feet to 30 feet, from 50 feet to 35 feet, or from 60 feet to 40 feet. A mount wearing such armor moves at only triple its normal speed when running instead of quadruple.
 
-### Infernal Knight Half-Plate
+### Hell Knight Half-Plate
 
 **Price** 850 gp; **Weight** 50 lbs.
 
-The armor worn by an infernal knight signifer is a vestment of armored plates, chain, and dark fabric. It functions as half-plate, but it can be donned and removed as though it were medium armor. Any spellcaster who wears this armor is treated as if he were wearing infernal knight plate for the purposes of any feats and effects that require it. This armor includes a signifer mask, though signifer masks can also be purchased separately.
+The armor worn by a hell knight signifer is a vestment of armored plates, chain, and dark fabric. It functions as half-plate, but it can be donned and removed as though it were medium armor. Any spellcaster who wears this armor is treated as if he were wearing hell knight plate for the purposes of any feats and effects that require it. This armor includes a signifer mask, though signifer masks can also be purchased separately.
 
-### Infernal Knight Leather
+### Hell Knight Leather
 
 **Price** 30 gp; **Weight** 25 lbs.
 
 There are instances where wearing full plate armor can jeopardize a knight’s life. Primarily worn by sailors, this studded leather armor includes heavy gloves and a helm of sculpted leather designed to look like a skull—either a human’s or that of some aquatic creature. Its statistics are identical to those of studded leather, except it costs 5 gp more and weighs 5 pounds more.
 
-### Infernal Knight Plate
+### Hell Knight Plate
 
 **Price** 2,000 gp; **Weight** 50 lbs.
 
 **Armor Bonus** +9; **Max Dex Bonus** +1; **Armor Check Penalty** –5; **Arcane Spell Failure Chance** 35%; **Speed** 20 ft./15 ft.
 
-These distinctive suits of armor are a special type of masterwork full plate that grant additional effects when worn by a character with levels in the infernal knight prestige class. Apart from its distinctive look (each order has its own style of armor), a suit of infernal knight plate functions the same as a suit of masterwork full plate.
+These distinctive suits of armor are a special type of masterwork full plate that grant additional effects when worn by a character with levels in the hell knight prestige class. Apart from its distinctive look (each order has its own style of armor), a suit of hell knight plate functions the same as a suit of masterwork full plate.
 
 ### Signifer Mask
 
 **Price** 75 gp; **Weight** 2 lbs.
 
-The menacing, eyeless masks of infernal knight signifers are semitransparent when viewed from the inside. This alchemical treating of the material obscures the face of the wearer as a full helm does but allows the wearer to see as if through a smoky pane of glass. When wearing a signifer mask, the wearer is always treated as averting her gaze when dealing with gaze attacks, and she gains a +8 circumstance bonus on saving throws against vision-based effects. However, the obscuring nature of the mask means that the wearer also takes a –4 penalty on vision-based Perception checks while wearing the mask, and all opponents are treated as having concealment (20% miss chance).
+The menacing, eyeless masks of hell knight signifers are semitransparent when viewed from the inside. This alchemical treating of the material obscures the face of the wearer as a full helm does but allows the wearer to see as if through a smoky pane of glass. When wearing a signifer mask, the wearer is always treated as averting her gaze when dealing with gaze attacks, and she gains a +8 circumstance bonus on saving throws against vision-based effects. However, the obscuring nature of the mask means that the wearer also takes a –4 penalty on vision-based Perception checks while wearing the mask, and all opponents are treated as having concealment (20% miss chance).
 
-A character with the infernal knight signifer prestige class can see through the mask as normal, but she can also adjust her mask as a standard action to function as detailed above. Signifer masks are often magically enhanced, becoming variants of items that take up the head item slot. Additionally, when a character takes levels in the infernal knight signifer prestige class, this mask grants the benefits and capabilities of the signifer mask class feature.
+A character with the hell knight signifer prestige class can see through the mask as normal, but she can also adjust her mask as a standard action to function as detailed above. Signifer masks are often magically enhanced, becoming variants of items that take up the head item slot. Additionally, when a character takes levels in the hell knight signifer prestige class, this mask grants the benefits and capabilities of the signifer mask class feature.
 
 ## Elven Sentinels
 

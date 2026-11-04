@@ -33,7 +33,7 @@ A meditation book is a secular version of a prayer book, recording theories and 
 
 *Level 1 Abjurer*
 
-This surprisingly ornate and heavy volume is more than threequarters empty. Tightly written notes on the precepts of arcane defense and the vulnerabilities of supernatural entities fill the first two pages.
+This surprisingly ornate and heavy volume is more than three-quarters empty. Tightly written notes on the precepts of arcane defense and the vulnerabilities of supernatural entities fill the first two pages.
 
 **Protection** Average lock (DC 25)
 
@@ -408,7 +408,7 @@ These three well-made books are covered with runes of warding against outsiders 
 
 *Level 16 Illusionist*
 
-Each volume of this three-book set is written in gold ink on jetblack paper. Illusory script hides descriptions of the geography and denizens of the Shadow Plane.
+Each volume of this three-book set is written in gold ink on jet-black paper. Illusory script hides descriptions of the geography and denizens of the Shadow Plane.
 
 **Protection** illusory script (Will DC 16; on failure the suggestion is “Forget the existence of the descriptions and notes”), phantom trap (opening any of the books seems to set off a trap)
 
@@ -511,7 +511,7 @@ This quartet of books is held together by a shining silver strand wound around t
 
 **Preparation Ritual**
 
-**Defensive Boon (Su)** You throw up a quick burst of arcane energy that deflects an incoming spell attack. As an immediate action when targeted with a touch spell or spelllike ability, you can spend this boon’s effect to gain a +4 deflection bonus to AC against the triggering attack.
+**Defensive Boon (Su)** You throw up a quick burst of arcane energy that deflects an incoming spell attack. As an immediate action when targeted with a touch spell or spell-like ability, you can spend this boon’s effect to gain a +4 deflection bonus to AC against the triggering attack.
 
 ## The Formulae of the Master Alchemist
 

@@ -45,7 +45,7 @@ Not all strains of the same disease are identical. Diseases mutate and change ov
 
 **Save** The disease can affect creatures that have Constitution scores and are normally immune to disease, whether that immunity comes from a racial trait, class feature, spell, magic item, or other source. However, such creatures receive a +4 bonus on saving throws when attempting to resist the disease’s effects.
 
-**Cure** The disease is particularly difficult to remove using magic. *Remove disease* can’t cure the disease, and even more powerful spells such as *heal* require a successful caster level check with a ­–10 penalty (DC = the disease’s save DC) to remove the disease.
+**Cure** The disease is particularly difficult to remove using magic. *Remove disease* can’t cure the disease, and even more powerful spells such as *heal* require a successful caster level check with a –10 penalty (DC = the disease’s save DC) to remove the disease.
 
 **Special** The disease responds violently to any attempts to heal it using magic. Whenever the diseased creature is subject to a spell or ability that cures diseases, it must succeed at a Fortitude save or suffer the disease’s effect. This does not reset the disease’s frequency, and succeeding at this check does not count toward the number of consecutive saves required to be cured of the disease.
 

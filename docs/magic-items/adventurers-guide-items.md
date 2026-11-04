@@ -208,9 +208,9 @@ This elegant mithral sword bears a blooming rose on the crossguard, with vines w
 
 Craft Magic Arms and Armor, *aid*, *break enchantment*; Cost 15,015 gp
 
-## Infernal Knights
+## Hell Knights
 
-### Infernal Knight’s Fist
+### Hell Knight’s Fist
 
 *Aura* faint conjuration and transmutation; *CL* 5th; *Slot* none; *Price* 10,305 gp; *Weight* 2 lbs.
 

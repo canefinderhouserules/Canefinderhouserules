@@ -14,7 +14,7 @@ Based on the type of energy the caster chose while casting, the ammunition also 
 
 **Acid**: The ammunition deals half its damage in a splash to all creatures and unattended objects within 15 feet of the target hit by the siege engine. Creatures can halve the splash damage with a Reflex saving throw. The DC of the splash is the same as the DC of the spell.
 
-**Cold**: The ammunition creates an ice sheen within a 20-footradius burst around the target of the siege engine’s attack. That sheen lasts 1d6 rounds. Creatures within the ice sheen are entangled. Any creature within the area of the ice sheen at the start of its turn takes 2d6 cold damage.
+**Cold**: The ammunition creates an ice sheen within a 20-foot-radius burst around the target of the siege engine’s attack. That sheen lasts 1d6 rounds. Creatures within the ice sheen are entangled. Any creature within the area of the ice sheen at the start of its turn takes 2d6 cold damage.
 
 **Electricity**: Creatures hit by the siege engine attack or within 15 feet of the attack are staggered for 1 round.
 

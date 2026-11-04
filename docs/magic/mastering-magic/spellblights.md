@@ -67,7 +67,7 @@ When called to randomly determine a spellblight, roll on the appropriate table.
 
 ## Description of Spellblights
 
-The following section details spellblights, split up based on their severity and featuring descriptions of effects and special methods to end those effects. Note that some of the effects of spellblights can be somewhat beneficial. Crafty spellcasters can make the best of even the worst situations, and the beneficial effects of any spellblights represent this. If a spellblight calls for a concentration check based on the level of the effect, and the caster is using a spell-like ability that doesn’t have an effective level, use half the caster level of the spelllike ability instead.
+The following section details spellblights, split up based on their severity and featuring descriptions of effects and special methods to end those effects. Note that some of the effects of spellblights can be somewhat beneficial. Crafty spellcasters can make the best of even the worst situations, and the beneficial effects of any spellblights represent this. If a spellblight calls for a concentration check based on the level of the effect, and the caster is using a spell-like ability that doesn’t have an effective level, use half the caster level of the spell-like ability instead.
 
 ## Minor Spellblights
 
@@ -85,7 +85,7 @@ Shouting and screaming is impossible while the creature is affected by this spel
 
 A heal spell or similar effect cures this spellblight, as does casting the shout spell, though doing so is still affected by the spellblight’s effects.
 
-**Confounded Casting**: A spellcaster with confounded casting has a mental disconnect between the spells she intends to cast and the spells she actually casts. The first time on her turn that she casts a spell or uses a spell-like ability, she makes a concentration check with a DC of 15 + twice the level of the spell being cast. If the concentration check fails, the caster must pick another spell or spelllike ability of the same level or lower to cast with the same casting time. If the spellcaster has no other spell or spelllike ability, the action is lost. The spell or spell-like ability she originally picked is not spent and she can attempt to cast that spell again later.
+**Confounded Casting**: A spellcaster with confounded casting has a mental disconnect between the spells she intends to cast and the spells she actually casts. The first time on her turn that she casts a spell or uses a spell-like ability, she makes a concentration check with a DC of 15 + twice the level of the spell being cast. If the concentration check fails, the caster must pick another spell or spell-like ability of the same level or lower to cast with the same casting time. If the spellcaster has no other spell or spell-like ability, the action is lost. The spell or spell-like ability she originally picked is not spent and she can attempt to cast that spell again later.
 
 Confounded casting is cured by any effect that removes confusion or insanity. Creatures that are immune to mind-affecting effects are immune to this spellblight.
 
@@ -93,7 +93,7 @@ Confounded casting is cured by any effect that removes confusion or insanity. Cr
 
 Disassociation can by cured by any effect that removes confusion or insanity.
 
-**Ebon Eyes**: A spellcaster with ebon eyes develops a jetblack film over her eyes, which inverts her capacity to perceive light and darkness. The creature treats darkness as bright light, dim light as normal light, normal light as dim light, and bright light as darkness. The ebon eyes protect against blinding, dazzling, patterns, or other visual effects, granting a +2 bonus on all saving throws against those effects.
+**Ebon Eyes**: A spellcaster with ebon eyes develops a jet-black film over her eyes, which inverts her capacity to perceive light and darkness. The creature treats darkness as bright light, dim light as normal light, normal light as dim light, and bright light as darkness. The ebon eyes protect against blinding, dazzling, patterns, or other visual effects, granting a +2 bonus on all saving throws against those effects.
 
 Ebon eyes can be removed with an effect that removes blindness.
 

@@ -8,18 +8,18 @@ The ancient traditions of rune magic in some lands became mired in a culture of 
 
 **Table: Runeguard**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Rune magic, virtuous rune |
-| 2nd | +1 | +1 | +1 | +1 | Virtuous rune, +1 level of existing spellcasting class |
-| 3rd | +1 | +1 | +1 | +2 | Rune focus +1, +1 level of existing spellcasting class |
-| 4th | +2 | +1 | +1 | +2 | Virtuous rune, +1 level of existing spellcasting class |
-| 5th | +2 | +2 | +2 | +3 | Virtuous rune, +1 level of existing spellcasting class |
-| 6th | +3 | +2 | +2 | +3 | Virtuous rune, +1 level of existing spellcasting class |
-| 7th | +3 | +2 | +2 | +4 | Rune focus +2, +1 level of existing spellcasting class |
-| 8th | +4 | +3 | +3 | +4 | Virtuous rune, +1 level of existing spellcasting class |
-| 9th | +4 | +3 | +3 | +5 | Virtuous rune, +1 level of existing spellcasting class |
-| 10th | +5 | +3 | +3 | +5 | Seven-rune mastery, +1 level of existing spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +0 | +1 | Rune magic, virtuous rune | — |
+| 2nd | +1 | +1 | +1 | +1 | Virtuous rune | +1 level of existing spellcasting class |
+| 3rd | +1 | +1 | +1 | +2 | Rune focus +1 | +1 level of existing spellcasting class |
+| 4th | +2 | +1 | +1 | +2 | Virtuous rune | +1 level of existing spellcasting class |
+| 5th | +2 | +2 | +2 | +3 | Virtuous rune | +1 level of existing spellcasting class |
+| 6th | +3 | +2 | +2 | +3 | Virtuous rune | +1 level of existing spellcasting class |
+| 7th | +3 | +2 | +2 | +4 | Rune focus +2 | +1 level of existing spellcasting class |
+| 8th | +4 | +3 | +3 | +4 | Virtuous rune | +1 level of existing spellcasting class |
+| 9th | +4 | +3 | +3 | +5 | Virtuous rune | +1 level of existing spellcasting class |
+| 10th | +5 | +3 | +3 | +5 | Seven-rune mastery | +1 level of existing spellcasting class |
 
 ### Requirements
 

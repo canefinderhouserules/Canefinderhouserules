@@ -97,7 +97,7 @@ To make your own loci spirit like the examples below, follow these steps.
 
 **Step 6—Save DCs**: If a loci spirit’s ceremonial effect allows a saving throw to resist or negate the effect, the save DC is equal to 10 + the level of the spell + the ability modifier of the minimum ability score needed to cast that level of spell. Normally, the ceremonial effect is harmless and thus applies only if a creature voluntarily wishes to resist or negate the effect.
 
-**Step 7—Determine Corruption Effect, Attack, and Save DCs**: A corrupted loci spirit manifests a mindaffecting fear effect with the same spell level as its unique effect. A corrupted loci spirit’s attack bonus (if needed) is usually equal to its CR.
+**Step 7—Determine Corruption Effect, Attack, and Save DCs**: A corrupted loci spirit manifests a mind-affecting fear effect with the same spell level as its unique effect. A corrupted loci spirit’s attack bonus (if needed) is usually equal to its CR.
 
 **Table: CR Modifiers for Loci Spirits**
 

@@ -315,7 +315,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Speak with Plane](speak-with-plane.md)**: Question a sentient plane.
 - **[Summon Monster IV](summon-monster-iv.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
 - **[Tail Strike](tail-strike.md)**: Grow a draconic tail with a slam attack.
-- **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a nonalignment subtype or outsider race.
+- **[Thaumaturgic Circle](thaumaturgic-circle.md)**: As magic circle, but affecting a non-alignment subtype or outsider race.
 - **[Threefold Face](threefold-face.md)**: Grow three faces; all-around vision and no flanking.
 - **[Threefold Sight](threefold-sight.md)**: Roll three d20 and take the middle result.
 - **[Vampiric Touch](vampiric-touch.md)**: Touch deals 1d6 damage/2 levels; caster gains damage as temporary hp.

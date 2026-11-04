@@ -40,7 +40,7 @@ Formally trained inspectors are tasked with assuming nothing and asking difficul
 
 ## Empiricist
 
-Champions of deductive reasoning and logical insight, empiricists put their faith in facts, data, confirmed observations, and consistently repeatable experimentsthese things are their currency of truth.
+Champions of deductive reasoning and logical insight, empiricists put their faith in facts, data, confirmed observations, and consistently repeatable experiments-these things are their currency of truth.
 
 **Ceaseless Observation (Ex)**: An empiricist's ability to notice the minutiae of almost everything that happens around him allows him to make shrewd and insightful calculations about people and even inanimate objects. At 2nd level, an empiricist uses his Intelligence modifier instead of the skill's typical ability for all Disable Device, Perception, Sense Motive, and Use Magic Device checks. He can also use his Intelligence modifier instead of Charisma on any Diplomacy checks made to gather information. This ability replaces poison lore and poison resistance.
 
@@ -64,7 +64,7 @@ Disguised Voice Voice is not your own, but not that of a distinct individual Voi
 
 ## Mastermind
 
-Although some investigators use their honed senses and cunning insight for personal gain, no one excels at such endeavors like the mastermind. Typically, these investigators dwell at the centers of complex networks of lies, minions, or simply precious information, from which they dispense commands, threats, and rumors, all carefully crafted to increase the power of their peculiar empires. While masterminds often act as the heads of illicit organizations like criminal families, thieves' guilds, or corruptionriddled bureaucracies, they aren't always evil.
+Although some investigators use their honed senses and cunning insight for personal gain, no one excels at such endeavors like the mastermind. Typically, these investigators dwell at the centers of complex networks of lies, minions, or simply precious information, from which they dispense commands, threats, and rumors, all carefully crafted to increase the power of their peculiar empires. While masterminds often act as the heads of illicit organizations like criminal families, thieves' guilds, or corruption-riddled bureaucracies, they aren't always evil.
 
 **Mastermind's Inspiration (Ex)**: A mastermind can use inspiration on any Diplomacy, Intimidate, Knowledge, or skill checks without spending a use of inspiration. This ability alters inspiration.
 
@@ -74,7 +74,7 @@ Furthermore, when a mastermind uses this ability, he can expend one use of inspi
 
 At 3rd level, a mastermind can use this ability an additional time each day, and the number of times he can use this ability per day increases by 1 for every third level thereafter. Multiple uses of this ability on the same ally grant that ally the benefit on additional Diplomacy or Intimidate checks.
 
-At 12th level, a mastermind can use this ability to bestow on his ally the use of his skill ranks, similar to the 1stlevel effects of this ability but with a wider range of skills to choose from. The mastermind can only bestow this for a skill check that he can use inspiration on without expending uses of inspiration. For instance, a mastermind with the underworld inspiration talent can bolster his ally's Bluff, Disable Device, Disguise, or Sleight of Hand skill checks, selecting a single skill for each use of the ability. This ability replaces trapfinding and trap sense.
+At 12th level, a mastermind can use this ability to bestow on his ally the use of his skill ranks, similar to the 1st-level effects of this ability but with a wider range of skills to choose from. The mastermind can only bestow this for a skill check that he can use inspiration on without expending uses of inspiration. For instance, a mastermind with the underworld inspiration talent can bolster his ally's Bluff, Disable Device, Disguise, or Sleight of Hand skill checks, selecting a single skill for each use of the ability. This ability replaces trapfinding and trap sense.
 
 **Mastermind Defense (Ex)**: At 4th level, a mastermind can, as an immediate action, expend two uses of inspiration to make an inspired defense. He rolls his inspiration die and applies the result as a penalty on an attack roll made against him. If the mastermind has the combat inspiration talent, he can expend one use of inspiration instead of two. This ability replaces swift alchemy.
 

@@ -150,7 +150,7 @@ The spiritual power of art and song runs strongly through your family line. This
 
 **Bloodline Powers**: You hear music whenever you cast spells, and can use the songs in your head to create magic effects.
 
-**Beguiling Voice (Ex)**: At 1st level, you can use the sound of your voice to lull a target creature into taking no action. This ability acts as the daze spell, except it is languagedependent, has a duration of 1 round, and affects a living creature whose Hit Dice do not exceed your sorcerer level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+**Beguiling Voice (Ex)**: At 1st level, you can use the sound of your voice to lull a target creature into taking no action. This ability acts as the daze spell, except it is language-dependent, has a duration of 1 round, and affects a living creature whose Hit Dice do not exceed your sorcerer level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 **Fascinate (Ex)**: At 3rd level, you gain the ability to use a Perform skill to cause one or more creatures to become fascinated with you. This acts as the fascinate bardic perform ability, except the save DC is 10 + 1/2 your sorcerer level + your Charisma bonus, and it lasts 1 round/level. You may use this ability once per day at 3rd level, twice per day at 8th level, three times per day at 13th level, and four times per day at 18th level.
 
@@ -272,7 +272,7 @@ The rage of your orc ancestors burns within you.
 
 **Bonus Feats**: Diehard, Endurance, Great Fortitude, Improved Overrun, Intimidating Prowess, Power Attack, Toughness, Widen Spell.
 
-**Bloodline Arcana**: You gain the orc subtype, which includes darkvision 60 feet. If you already have darkvision, its range increases to 90 feet. Spells you cast that deal damage gain +1 damage per die rolled. You do not have light sensitivity.
+**Bloodline Arcana**: You gain the orc subtype, which includes darkvision 60 feet. If you already have darkvision, its range increases to 90 feet. Spells you cast that deal damage gain a +1 enhancement bonus to damage per die rolled.
 
 **Touch of Rage (Sp)**: At 1st level, as a standard action, you can touch a creature to give it a morale bonus on attack rolls, damage rolls, and Will saves equal to half your sorcerer level (minimum 1) for 1 round. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
@@ -306,7 +306,7 @@ At some point in your family’s history, one of your ancestors was tainted by t
 
 Activating this ability is a swift action. You gain a +5 bonus on one Bluff check made to convince another of the truth of your words (similar to using glibness). If a magical effect is used against you that would detect your lies or force you to speak the truth, the user of the effect must succeed on a caster level check (DC 10 + your sorcerer level) to succeed. Failure means the effect does not detect your lies or force you to speak only the truth. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
-**Mind Reader (Sp)**: At 3rd level, you can read minds as a spelllike ability. This ability acts like detect thoughts, except it lasts only 1 round, you use it on a single target as a standard action, and if the target fails its Will save, you gain information as if you had concentrated on it for 3 rounds. You may use this ability once per day at 3rd level and one additional time per day for every four sorcerer levels you possess beyond 3rd, up to five times per day at 20th level.
+**Mind Reader (Sp)**: At 3rd level, you can read minds as a spell-like ability. This ability acts like detect thoughts, except it lasts only 1 round, you use it on a single target as a standard action, and if the target fails its Will save, you gain information as if you had concentrated on it for 3 rounds. You may use this ability once per day at 3rd level and one additional time per day for every four sorcerer levels you possess beyond 3rd, up to five times per day at 20th level.
 
 **Hide Aura (Sp)**: At 9th level, you can conceal yourself from prying magic. This ability acts like a constant nondetection spell cast upon yourself. You can end or restore this protection as a move action.
 
@@ -502,7 +502,7 @@ Your family is a long line of dreamers, who dream not as ordinary mortals do but
 
 **Bloodline Powers**: You reach out into and through the world of dreams to touch the minds and destinies of those around you.
 
-**Lullaby (Sp)**: At 1st level, you can use lullaby as a spelllike ability a number of times per day equal to 3 + your Charisma modifier. This effect lasts for 1 minute and does not require concentration. The penalty on saves versus sleep effects increases to –4.
+**Lullaby (Sp)**: At 1st level, you can use lullaby as a spell-like ability a number of times per day equal to 3 + your Charisma modifier. This effect lasts for 1 minute and does not require concentration. The penalty on saves versus sleep effects increases to –4.
 
 **Combat Precognition (Su)**: Your insight into the future grants you an advantage in combat. At 3rd level and every 4 levels thereafter, you gain a +1 insight bonus on initiative checks.
 
@@ -890,7 +890,7 @@ Your powers are attuned to the concentrated core of the elemental plane.
 
 **Associated Bloodline**: Elemental.
 
-**Bloodline Arcana**: Whenever you cast a spell with an energy descriptor that matches your elemental bloodline’s energy type, that spell deals +1 point of damage per die rolled.
+**Bloodline Arcana**: Whenever you cast a spell with an energy descriptor that matches your elemental bloodline’s energy type, that spell gains a +1 enhancement bonus to damage per die rolled.
 
 **Bloodline Powers**: You can infuse raw energy into your summoned minions.
 
@@ -942,7 +942,7 @@ Scholars of the arcane are always creating new means to use magic.
 
 You use your Intelligence, rather than your Charisma, to determine all class features and effects relating to your sorcerer class, such as bonus spells per day, the maximum spell level you can cast, the save DCs of your spells, and the number of daily uses of your bloodline powers. You gain a +2 bonus on all Knowledge (arcana) and Spellcraft checks.
 
-**Bloodline Powers**: Your preferred focus is a bolt of mindspun magic.
+**Bloodline Powers**: Your preferred focus is a bolt of mind-spun magic.
 
 **Arcane Bolt (Sp)**: Starting at 1st level, you can unleash a ray of magic force as a standard action, targeting any foe within 30 feet as a ranged touch attack. This ray deals 1d4 points of damage + 1 for every two sorcerer levels you possess. This damage is treated as a spell of a level equal to half your sorcerer level, and is a force effect. You can use this ability a number of times per day equal to 3 + your Charisma modifier. This bloodline power replaces arcane bond.
 
@@ -1081,7 +1081,7 @@ At 20th level, when activating her selected bloodline, a mongrel mage can instea
 
 This ability alters the bloodline class feature, bloodline powers, and bloodline spells.
 
-**Bloodline Spells**: At 7th level, each day when she selects her bloodline, a mongrel mage adds the 1st-, 2nd-, and 3rdlevel spells from her selected bloodline to her current list of spells known.
+**Bloodline Spells**: At 7th level, each day when she selects her bloodline, a mongrel mage adds the 1st-, 2nd-, and 3rd-level spells from her selected bloodline to her current list of spells known.
 
 At 13th level, each day when she selects her bloodline, a mongrel mage adds the 4th-, 5th-, and 6th-level spells from her selected bloodline to her current list of spells known. At 19th level, each day when she selects her bloodline, a mongrel mage adds the 7th-, 8th-, and 9th-level spells from her selected bloodline to her current list of spells known. This ability replaces the bloodline feats gained at 7th, 13th, and 19th level.
 

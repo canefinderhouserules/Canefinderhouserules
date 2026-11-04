@@ -8,18 +8,18 @@ Some devoted of a deity of devotion, sacrifice, and scars turn their own skins i
 
 **Table: Scar Seeker**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +1 | +1 | +0 | +1 | Enduring scar, painful purification |
-| 2nd | +2 | +1 | +1 | +1 | Lay on hands, +1 level of existing spellcasting class |
-| 3rd | +3 | +2 | +1 | +2 | Enduring scar |
-| 4th | +4 | +2 | +1 | +2 | Smite evil 1/day, +1 level of existing spellcasting class |
-| 5th | +5 | +3 | +2 | +3 | Enduring scar |
-| 6th | +6 | +3 | +2 | +3 | Sanguine sacrifice, +1 level of existing spellcasting class |
-| 7th | +7 | +4 | +2 | +4 | Enduring scar |
-| 8th | +8 | +4 | +3 | +4 | Smite evil 2/day, +1 level of existing spellcasting class |
-| 9th | +9 | +5 | +3 | +5 | Enduring scar |
-| 10th | +10 | +5 | +3 | +5 | True martyr, +1 level of existing spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +1 | +1 | +0 | +1 | Enduring scar, painful purification | — |
+| 2nd | +2 | +1 | +1 | +1 | Lay on hands | +1 level of existing spellcasting class |
+| 3rd | +3 | +2 | +1 | +2 | Enduring scar | — |
+| 4th | +4 | +2 | +1 | +2 | Smite evil 1/day | +1 level of existing spellcasting class |
+| 5th | +5 | +3 | +2 | +3 | Enduring scar | — |
+| 6th | +6 | +3 | +2 | +3 | Sanguine sacrifice | +1 level of existing spellcasting class |
+| 7th | +7 | +4 | +2 | +4 | Enduring scar | — |
+| 8th | +8 | +4 | +3 | +4 | Smite evil 2/day | +1 level of existing spellcasting class |
+| 9th | +9 | +5 | +3 | +5 | Enduring scar | — |
+| 10th | +10 | +5 | +3 | +5 | True martyr | +1 level of existing spellcasting class |
 
 ### Requirements
 

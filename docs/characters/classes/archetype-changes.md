@@ -11,7 +11,7 @@ House-rule changes to specific archetypes and class features. Changes to the cor
     **[Legendary Alchemist](legendary/legendary-alchemist.md):** can no longer trade poison resistance for evasion. Has bomb uses per day like a normal alchemist.
 
 !!! warning "House rule"
-    **Any archetype that grants mutagen:** requires Intelligence 15.
+    **[Mutagen](alchemist.md):** requires Intelligence 15, for the alchemist and for any class or archetype that grants it.
 
 ## Barbarian and Bloodrager
 
@@ -22,7 +22,7 @@ House-rule changes to specific archetypes and class features. Changes to the cor
     **[Bloodrager, Primalist](bloodrager-archetypes.md#primalist):** may swap 1 bloodline power for 1 rage power (instead of 2), and cannot take the powers exclusive to the unchained barbarian (see stances).
 
 !!! warning "House rule"
-    **[Bloodrager, Spirit Prowler](bloodrager-archetypes.md#spirit-prowler):** Spirit Bonus counts as Medium –2 to determine when improvements are gained, minimum 1.
+    **[Bloodrager, Prowler at World’s End](bloodrager-archetypes.md#prowler-at-worlds-end):** Spirit Bonus counts as Medium –2 to determine when improvements are gained, minimum 1.
 
 !!! warning "House rule"
     **[Blood Arcanist](arcanist-archetypes.md#blood-arcanist):** banned.
@@ -79,7 +79,7 @@ These changes are written into the [Unchained Rogue](unchained-rogue.md) and [Gl
 ## Sorcerer
 
 !!! warning "House rule"
-    **[Orc bloodline](sorcerer-archetypes.md#orc):** no longer has the light sensitivity penalty.
+    **[Orc bloodline](sorcerer-archetypes.md#orc):** no longer has the light sensitivity penalty, and its damage per die is an enhancement bonus.
 
 !!! warning "House rule"
     **[Blood Intensity](bloodline-mutations.md):** need not replace the 3rd power; it may replace the 1st or 2nd if you prefer.

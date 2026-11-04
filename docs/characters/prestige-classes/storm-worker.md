@@ -8,18 +8,18 @@ While some who successfully take levels in this prestige class arrogantly procla
 
 **Table: Storm Worker**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +1 | +0 | +1 | Oceanic spirit |
-| 2nd | +1 | +1 | +1 | +1 | Seasight, storm shape (20 ft., Small); +1 level of spellcasting class |
-| 3rd | +2 | +2 | +1 | +2 | Aura of calm (5 ft.); +1 level of spellcasting class |
-| 4th | +3 | +2 | +1 | +2 | Storm shape (30 ft., Medium), wave breaker; +1 level of spellcasting class |
-| 5th | +3 | +3 | +2 | +3 | Aura of calm (10 ft.), thunderstruck |
-| 6th | +4 | +3 | +2 | +3 | Storm shape (40 ft., Large), weather’s fury 3d6; +1 level of spellcasting class |
-| 7th | +5 | +4 | +2 | +4 | Aura of calm (15 ft.), eye of the storm; +1 level of spellcasting class |
-| 8th | +6 | +4 | +3 | +4 | Fickle winds, storm shape (50 ft., Huge), weather’s fury 4d6; +1 level of spellcasting class |
-| 9th | +6 | +5 | +3 | +5 | Aura of calm (20 ft.), echoing thunder |
-| 10th | +7 | +5 | +3 | +5 | Storm mastery, storm shape (60 ft., Huge), weather’s fury 5d6; +1 level of spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +1 | +0 | +1 | Oceanic spirit | — |
+| 2nd | +1 | +1 | +1 | +1 | Seasight, storm shape (20 ft., Small) | +1 level of spellcasting class |
+| 3rd | +2 | +2 | +1 | +2 | Aura of calm (5 ft.) | +1 level of spellcasting class |
+| 4th | +3 | +2 | +1 | +2 | Storm shape (30 ft., Medium), wave breaker | +1 level of spellcasting class |
+| 5th | +3 | +3 | +2 | +3 | Aura of calm (10 ft.), thunderstruck | — |
+| 6th | +4 | +3 | +2 | +3 | Storm shape (40 ft., Large), weather’s fury 3d6 | +1 level of spellcasting class |
+| 7th | +5 | +4 | +2 | +4 | Aura of calm (15 ft.), eye of the storm | +1 level of spellcasting class |
+| 8th | +6 | +4 | +3 | +4 | Fickle winds, storm shape (50 ft., Huge), weather’s fury 4d6 | +1 level of spellcasting class |
+| 9th | +6 | +5 | +3 | +5 | Aura of calm (20 ft.), echoing thunder | — |
+| 10th | +7 | +5 | +3 | +5 | Storm mastery, storm shape (60 ft., Huge), weather’s fury 5d6 | +1 level of spellcasting class |
 
 ### Requirements
 

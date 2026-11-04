@@ -6,18 +6,18 @@ Some cities have a long and proud association with the arts, particularly the th
 
 **Table: Argent Dramaturge**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +0 | +1 | +1 | Argent performance (“Song of Silver”); +1 level of existing class |
-| 2nd | +1 | +1 | +1 | +1 | Dramaturgical flourish; +1 level of existing class |
-| 3rd | +1 | +1 | +2 | +2 | Argent performance (anchoring aria); +1 level of existing class |
-| 4th | +2 | +1 | +2 | +2 | Dramaturgical flourish; +1 level of existing class |
-| 5th | +2 | +2 | +3 | +3 | Argent performance (60-ft. radius, *breath of life*); +1 level of existing class |
-| 6th | +3 | +2 | +3 | +3 | Dramaturgical flourish; +1 level of existing class |
-| 7th | +3 | +2 | +4 | +4 | Argent performance (swift); +1 level of existing class |
-| 8th | +4 | +3 | +4 | +4 | Dramaturgical flourish; +1 level of existing class |
-| 9th | +4 | +3 | +5 | +5 | Argent performance (righteous chord); +1 level of existing class |
-| 10th | +5 | +3 | +5 | +5 | Dramaturgical flourish; +1 level of existing class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +1 | +1 | Argent performance (“Song of Silver”) | +1 level of existing class |
+| 2nd | +1 | +1 | +1 | +1 | Dramaturgical flourish | +1 level of existing class |
+| 3rd | +1 | +1 | +2 | +2 | Argent performance (anchoring aria) | +1 level of existing class |
+| 4th | +2 | +1 | +2 | +2 | Dramaturgical flourish | +1 level of existing class |
+| 5th | +2 | +2 | +3 | +3 | Argent performance (60-ft. radius, *breath of life*) | +1 level of existing class |
+| 6th | +3 | +2 | +3 | +3 | Dramaturgical flourish | +1 level of existing class |
+| 7th | +3 | +2 | +4 | +4 | Argent performance (swift) | +1 level of existing class |
+| 8th | +4 | +3 | +4 | +4 | Dramaturgical flourish | +1 level of existing class |
+| 9th | +4 | +3 | +5 | +5 | Argent performance (righteous chord) | +1 level of existing class |
+| 10th | +5 | +3 | +5 | +5 | Dramaturgical flourish | +1 level of existing class |
 
 ### Requirements
 

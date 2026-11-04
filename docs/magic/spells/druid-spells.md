@@ -155,6 +155,7 @@
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
 - **[Determine Depth](determine-depth.md)**: Learn the exact thickness of a wall or barrier.
+- **[Divine Trident](divine-trident.md)**: Wield a trident of electricity.
 - **[Dousing Rain](dousing-rain.md)**: Call a downpour that douses fire
 - **[Dragon Turtle Shell](dragon-turtle-shell.md)**: Natural attacks against you deal reduced damage.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
@@ -235,7 +236,6 @@
 - **[Steal Breath](steal-breath.md)**: You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath.
 - **[Stone Throwing](stone-throwing.md)**: Subject can throw and catch rocks.
 - **[Storm Sight](storm-sight.md)**: Sense creatures caught in a storm.
-- **[Storm Trident](storm-trident.md)**: Wield a trident of electricity.
 - **[Summon Nature’s Ally 2](summon-natures-ally-2.md)**: This spell functions as summon nature’s ally I, except that you summon one 2nd-level creature or 1d3 1st-level…
 - **[Summon Nature’s Ally II](summon-natures-ally-ii.md)**: Summons creature to fight.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.

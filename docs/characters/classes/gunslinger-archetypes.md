@@ -26,7 +26,7 @@ Every four levels thereafter (8th, 12th, and 16th), the bonus increases by 1, to
 
 Pistols and other one-handed firearms are often easy to conceal and faster to load than other firearms, and do sufficient damage for most situations. But some gunslingers want a little more firepower and range. These are the musket masters; the best of these gunslingers can reload a musket with dazzling speed, potentially putting even their pistol-wielding brethren to shame.
 
-**Weapon Proficiency**: Instead of proficiency with all firearms, a musket master only gains proficiency with two-handed firearms. She must take the Exotic Weapon Proficiency (firearms) feat to gain proficiency with onehanded firearms and firearm siege engines.
+**Weapon Proficiency**: Instead of proficiency with all firearms, a musket master only gains proficiency with two-handed firearms. She must take the Exotic Weapon Proficiency (firearms) feat to gain proficiency with one-handed firearms and firearm siege engines.
 
 **Gunsmith**: A musket master must take a musket when she chooses a battered firearm at 1st level.
 
@@ -62,9 +62,9 @@ She can use this ability as a free action. This ability replaces gun training 1.
 
 ## Pistolero
 
-While most gunslingers have favorite firearms, there are those rare ones who choose to specialize in onehanded firearms exclusively. These gunslingers are called pistoleros. While they lack the flexibility of being able to pick up any kind of firearm and use it with reasonable proficiency, they are crackerjack shots with pistols and similar firearms. Their skill and aim with these firearms at close range is second to none, and they rarely misfire with these weapons.
+While most gunslingers have favorite firearms, there are those rare ones who choose to specialize in one-handed firearms exclusively. These gunslingers are called pistoleros. While they lack the flexibility of being able to pick up any kind of firearm and use it with reasonable proficiency, they are crackerjack shots with pistols and similar firearms. Their skill and aim with these firearms at close range is second to none, and they rarely misfire with these weapons.
 
-**Weapon Proficiency**: Instead of proficiency with all firearms, a pistolero only gains proficiency with onehanded firearms. She must take Exotic Weapon Proficiency (firearms) to gain proficiency with two-handed firearms and firearm siege engines.
+**Weapon Proficiency**: Instead of proficiency with all firearms, a pistolero only gains proficiency with one-handed firearms. She must take Exotic Weapon Proficiency (firearms) to gain proficiency with two-handed firearms and firearm siege engines.
 
 **Gunsmith**: A pistolero must take a pistol when she chooses a battered firearm at 1st level.
 
@@ -74,7 +74,7 @@ While most gunslingers have favorite firearms, there are those rare ones who cho
 
 **Deadeye (Ex)**: At 7th level, the pistolero gains the deadeye deed, which is normally a 1st-level gunslinger deed. This deed replaces the startling shot deed.
 
-**Twin Shot Knockdown (Ex)**: At 11th level, when the pistolero hits a single target with two or more onehanded firearm attacks during her turn, she can spend 1 grit point to knock the target prone. She can choose to spend the grit point after the attacks are made. This deed replaces the bleeding wound deed.
+**Twin Shot Knockdown (Ex)**: At 11th level, when the pistolero hits a single target with two or more one-handed firearm attacks during her turn, she can spend 1 grit point to knock the target prone. She can choose to spend the grit point after the attacks are made. This deed replaces the bleeding wound deed.
 
 **Pistol Training (Ex)**: Starting at 5th level, a pistolero increases her skill with one-handed firearms. She gains a bonus on damage rolls equal to her Dexterity modifier, and when she misfires with a one-handed firearm, the misfire value increases by 2 instead of 4. Every four levels thereafter (9th, 13th, and 17th), the bonus on damage rolls increases by +1. This ability replaces gun training 1 to 4.
 

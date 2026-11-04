@@ -18,7 +18,7 @@
 
 ***Replacement Power**: The following granted power replaces the fire bolt power of the Fire domain.*
 
-***Fire Fannatic (Su)**: Every single target spell you cast that causes fire damage, deals +1 point of damage per die rolled. Every Area of effect spell you cast that causes fire damage, has 5ft more area.*
+***Fire Fannatic (Su)**: Every single target spell you cast that causes fire damage, gains a +1 enhancement bonus to damage per die rolled. Every Area of effect spell you cast that causes fire damage, has 5ft more area.*
 
 ***Replacement Domain Spells**: 2nd—flaming sphere, 5th—flame strike, 7th—delayed blast fireball.*
 

@@ -48,7 +48,7 @@ Treasure none
 
 **Ink Cloud (Ex)**: While within water, an octopus can emit a 5-foot-radius sphere of ink once per minute as a swift action. This ink provides total concealment and persists for 1 minute.
 
-**Jet (Ex)**: The octopus can jet 60 feet in a straight line as a fullround action. This does not provoke attacks of opportunity.
+**Jet (Ex)**: The octopus can jet 60 feet in a straight line as a full-round action. This does not provoke attacks of opportunity.
 
 **Poison (Ex)**: Bite—injury; save Fort DC 10; frequency 1/round for 6 rounds; effect 1 Str; cure 1 save.
 

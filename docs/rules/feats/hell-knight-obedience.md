@@ -1,4 +1,4 @@
-# Infernal Knight Obedience
+# Hell Knight Obedience
 
 Performing daily reckonings grants you special boons.
 

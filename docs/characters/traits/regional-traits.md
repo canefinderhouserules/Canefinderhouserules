@@ -346,9 +346,9 @@ These traits may only be taken by worshipers of a deity of piracy and the sea.
 
 **Eye of the Falcon** *(freedom-fighting knightly order)*: You have a way of seeing right to the heart of things. You gain a +1 trait bonus on saving throws against illusion (phantasm) spells and a +1 trait bonus on Sense Motive checks to know when you are being lied to, so long as you are face to face with the speaker in question.
 
-**Cold Heart** *(infernal knightly order)*: You gain a +2 trait bonus on saving throws against spells and effects with the emotion descriptor.
+**Cold Heart** *(hell knightly order)*: You gain a +2 trait bonus on saving throws against spells and effects with the emotion descriptor.
 
-**Iron Mind** *(infernal knightly order)*: You gain a +2 trait bonus on saving throws against spells and effects that would reduce your Intelligence score or cause you to forget something.
+**Iron Mind** *(hell knightly order)*: You gain a +2 trait bonus on saving throws against spells and effects that would reduce your Intelligence score or cause you to forget something.
 
 **Orc Impaler** *(border-fortress knights)*: You gain a +2 trait bonus on rolls to confirm critical hits made as part of a charge. This bonus increases to +3 if the critical hit is made against a creature with the orc subtype.
 
@@ -550,7 +550,7 @@ These traits come from the many nations of a great inland sea. Each trait names 
 
 **Artifact Hunter (Jungle native)**: You know the legends of the great jungle and the places where great treasures were rumored to have fallen. You gain a +1 trait bonus on Knowledge (geography) and Knowledge (history) checks, and one of them is always a class skill for you.
 
-**Aspiring Infernal Knight (Infernal empire native)**: Your family has a long tradition of service in an order of infernal knights, and your strict upbringing and training have given you a forceful aura of command. You gain a +1 trait bonus on Intimidate checks, and Intimidate is always a class skill for you.
+**Aspiring Hell Knight (Infernal empire native)**: Your family has a long tradition of service in an order of hell knights, and your strict upbringing and training have given you a forceful aura of command. You gain a +1 trait bonus on Intimidate checks, and Intimidate is always a class skill for you.
 
 **Bandit (Lawless river lands native)**: Since you were young, you’ve been a member of one bandit gang or another. Choose one of the following skills: Escape Artist, Intimidate, or Stealth. You gain a +1 trait bonus on that skill, and it is always a class skill for you.
 

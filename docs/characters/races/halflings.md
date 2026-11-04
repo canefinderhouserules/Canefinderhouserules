@@ -48,7 +48,7 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Practicality**: Halflings are grounded in hard work and common sense. Halflings with this racial trait gain a +2 bonus on any one Craft or Profession skill, as well as on Sense Motive checks and saves against illusions. This racial trait replaces the fearless and sure-footed racial traits.
 
-**Swift as Shadows**: Halflings possess incredible stealth even while moving through obstructed areas. Halflings with this racial trait reduce the penalty for using Stealth while moving by 5, and reduce the Stealth check penalty for sniping by 10. This racial trait replaces the surefooted racial trait.
+**Swift as Shadows**: Halflings possess incredible stealth even while moving through obstructed areas. Halflings with this racial trait reduce the penalty for using Stealth while moving by 5, and reduce the Stealth check penalty for sniping by 10. This racial trait replaces the sure-footed racial trait.
 
 **Underfoot**: Halflings must train hard to effectively fight bigger opponents. Halflings with this racial trait gain a +1 dodge bonus to AC against foes larger than themselves and a +1 bonus on Reflex saving throws to avoid trample attacks. This racial trait replaces the halfling luck racial trait.
 

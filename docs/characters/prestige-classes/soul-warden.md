@@ -6,18 +6,18 @@ Soul wardens are an enigma. The original soul wardens were a specially trained c
 
 **Table: Soul Warden**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Channel damage 1d6, focus item; +1 level of spellcasting class |
-| 2nd | +1 | +1 | +1 | +1 | Channel casting, corpse whisperer; +1 level of spellcasting class |
-| 3rd | +1 | +1 | +1 | +2 | Bonus feat, channel damage 2d6; +1 level of spellcasting class |
-| 4th | +2 | +2 | +1 | +2 | Channel casting, harvest; +1 level of spellcasting class |
-| 5th | +2 | +2 | +2 | +3 | Channel damage 3d6, undead imposition; +1 level of spellcasting class |
-| 6th | +3 | +3 | +2 | +3 | Bonus feat, channel casting; +1 level of spellcasting class |
-| 7th | +3 | +3 | +2 | +4 | Channel damage 4d6, negative energy ward; +1 level of spellcasting class |
-| 8th | +4 | +4 | +3 | +4 | Channel casting, necrotic resistance; +1 level of spellcasting class |
-| 9th | +4 | +4 | +3 | +5 | Bonus feat, channel damage 5d6; +1 level of spellcasting class |
-| 10th | +5 | +5 | +3 | +5 | Channel casting, life shell; +1 level of spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +0 | +1 | Channel damage 1d6, focus item | +1 level of spellcasting class |
+| 2nd | +1 | +1 | +1 | +1 | Channel casting, corpse whisperer | +1 level of spellcasting class |
+| 3rd | +1 | +1 | +1 | +2 | Bonus feat, channel damage 2d6 | +1 level of spellcasting class |
+| 4th | +2 | +2 | +1 | +2 | Channel casting, harvest | +1 level of spellcasting class |
+| 5th | +2 | +2 | +2 | +3 | Channel damage 3d6, undead imposition | +1 level of spellcasting class |
+| 6th | +3 | +3 | +2 | +3 | Bonus feat, channel casting | +1 level of spellcasting class |
+| 7th | +3 | +3 | +2 | +4 | Channel damage 4d6, negative energy ward | +1 level of spellcasting class |
+| 8th | +4 | +4 | +3 | +4 | Channel casting, necrotic resistance | +1 level of spellcasting class |
+| 9th | +4 | +4 | +3 | +5 | Bonus feat, channel damage 5d6 | +1 level of spellcasting class |
+| 10th | +5 | +5 | +3 | +5 | Channel casting, life shell | +1 level of spellcasting class |
 
 ### Requirements
 

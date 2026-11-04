@@ -6,18 +6,18 @@ Guardians of the Great Beyond’s integrity and stability, riftwardens can be fo
 
 **Table: Riftwarden**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +1 | +0 | +1 | Counter-summons, planar guide |
-| 2nd | +1 | +1 | +1 | +1 | Planar channel; +1 level of spellcasting class |
-| 3rd | +2 | +2 | +1 | +2 | Eradication +1; +1 level of spellcasting class |
-| 4th | +3 | +2 | +1 | +2 | Counterport, planar guide; +1 level of spellcasting class |
-| 5th | +3 | +3 | +2 | +3 | Planar scourge |
-| 6th | +4 | +3 | +2 | +3 | Eradication +2; +1 level of spellcasting class |
-| 7th | +5 | +4 | +2 | +4 | Improved counterport, planar guide; +1 level of spellcasting class |
-| 8th | +6 | +4 | +3 | +4 | Planar purge; +1 level of spellcasting class |
-| 9th | +6 | +5 | +3 | +5 | Eradication +3 |
-| 10th | +7 | +5 | +3 | +5 | Greater counterport, planar guide; +1 level of spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +1 | +0 | +1 | Counter-summons, planar guide | — |
+| 2nd | +1 | +1 | +1 | +1 | Planar channel | +1 level of spellcasting class |
+| 3rd | +2 | +2 | +1 | +2 | Eradication +1 | +1 level of spellcasting class |
+| 4th | +3 | +2 | +1 | +2 | Counterport, planar guide | +1 level of spellcasting class |
+| 5th | +3 | +3 | +2 | +3 | Planar scourge | — |
+| 6th | +4 | +3 | +2 | +3 | Eradication +2 | +1 level of spellcasting class |
+| 7th | +5 | +4 | +2 | +4 | Improved counterport, planar guide | +1 level of spellcasting class |
+| 8th | +6 | +4 | +3 | +4 | Planar purge | +1 level of spellcasting class |
+| 9th | +6 | +5 | +3 | +5 | Eradication +3 | — |
+| 10th | +7 | +5 | +3 | +5 | Greater counterport, planar guide | +1 level of spellcasting class |
 
 ### Requirements
 

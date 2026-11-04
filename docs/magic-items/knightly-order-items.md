@@ -1,6 +1,6 @@
 # Knightly Order Items
 
-Items used by the knightly orders of infernal knights and their foes. See [Infernal Knight](../characters/prestige-classes/infernal-knight.md).
+Items used by the knightly orders of hell knights and their foes. See [Hell Knight](../characters/prestige-classes/hell-knight.md).
 
 ## Conquering Brand
 

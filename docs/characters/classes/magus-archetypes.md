@@ -305,7 +305,7 @@ If the kensai confirms a critical hit, he can instead spend 2 points from his ar
 
 **Superior Reflexes (Ex)**: At 11th level, kensai can make a number of attacks of opportunity in a round equal to his Intelligence modifier (minimum 1). This effect stacks with the Combat Reflexes feat. This ability replaces improved spell recall.
 
-**Iaijutsu Focus (Ex)**: At 13th level, a kensai may always act and may draw his weapon as a swift action during a surprise round, though he is considered flat-footed until he acts. During a surprise round or when attacking a flatfooted opponent, he adds his Intelligence modifier on damage with his chosen weapon (minimum 0). This ability replaces heavy armor.
+**Iaijutsu Focus (Ex)**: At 13th level, a kensai may always act and may draw his weapon as a swift action during a surprise round, though he is considered flat-footed until he acts. During a surprise round or when attacking a flat-footed opponent, he adds his Intelligence modifier on damage with his chosen weapon (minimum 0). This ability replaces heavy armor.
 
 **Iaijutsu Master (Ex)**: At 19th level, a kensai’s initiative roll is automatically a natural 20 and he is never surprised. This ability replaces greater spell access.
 
@@ -343,7 +343,7 @@ Sometimes called a shield-vassal or shieldmaiden, the skirnir has learned to inf
 
 **Arcane Pool**: At 1st level, a skirnir can use his arcane pool to grant an enhancement bonus to a weapon as normal, as well as to his shield, paying the arcane pool cost separately for each. At 5th level and above, he can also add the following shield special abilities: animated, arrow catching, arrow deflection, bashing, blinding, fortification (any), reflecting, spell resistance (any).
 
-**Sorcerous Shield (Ex)**: At 1st level, skirnirs are proficient with all types of shields, including tower shields, and do not suffer an arcane spell failure chance when casting magus spells while using a shield. They treat their magus levels as their fighter levels for the purpose of qualifying for shieldrelated feats. This ability replaces spell combat.
+**Sorcerous Shield (Ex)**: At 1st level, skirnirs are proficient with all types of shields, including tower shields, and do not suffer an arcane spell failure chance when casting magus spells while using a shield. They treat their magus levels as their fighter levels for the purpose of qualifying for shield-related feats. This ability replaces spell combat.
 
 **Spellstrike (Su)**: At 1st level, a skirnir may use this ability with a weapon or shield bash attack.
 

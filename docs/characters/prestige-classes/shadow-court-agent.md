@@ -8,18 +8,18 @@ Shadow Court agents’ loyalty to their overlords and ideals does not extend to 
 
 **Table: Shadow Court Agent**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +1 | +0 | +1 | Blessings of darkness, shadow courtier, tenebrous magic |
-| 2nd | +1 | +1 | +1 | +1 | Darkvision; +1 level of spellcasting class |
-| 3rd | +2 | +2 | +1 | +2 | Shadow chains; +1 level of spellcasting class |
-| 4th | +3 | +2 | +1 | +2 | Shadow jump (40 ft.); +1 level of spellcasting class |
-| 5th | +3 | +3 | +2 | +3 | Unnerving gaze (shaken 1 round) |
-| 6th | +4 | +3 | +2 | +3 | Grasping darkness, shadow jump (80 ft.); +1 level of spellcasting class |
-| 7th | +5 | +4 | +2 | +4 | Darkvision +30 ft., unnerving gaze (shaken 1d4 rounds); +1 level of spellcasting class |
-| 8th | +6 | +4 | +3 | +4 | Shadow jump (160 ft.); +1 level of spellcasting class |
-| 9th | +6 | +5 | +3 | +5 | Unnerving gaze (staggered 1 round) |
-| 10th | +7 | +5 | +3 | +5 | Crushing umbra, shadow jump (320 ft.); +1 level of spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +1 | +0 | +1 | Blessings of darkness, shadow courtier, tenebrous magic | — |
+| 2nd | +1 | +1 | +1 | +1 | Darkvision | +1 level of spellcasting class |
+| 3rd | +2 | +2 | +1 | +2 | Shadow chains | +1 level of spellcasting class |
+| 4th | +3 | +2 | +1 | +2 | Shadow jump (40 ft.) | +1 level of spellcasting class |
+| 5th | +3 | +3 | +2 | +3 | Unnerving gaze (shaken 1 round) | — |
+| 6th | +4 | +3 | +2 | +3 | Grasping darkness, shadow jump (80 ft.) | +1 level of spellcasting class |
+| 7th | +5 | +4 | +2 | +4 | Darkvision +30 ft., unnerving gaze (shaken 1d4 rounds) | +1 level of spellcasting class |
+| 8th | +6 | +4 | +3 | +4 | Shadow jump (160 ft.) | +1 level of spellcasting class |
+| 9th | +6 | +5 | +3 | +5 | Unnerving gaze (staggered 1 round) | — |
+| 10th | +7 | +5 | +3 | +5 | Crushing umbra, shadow jump (320 ft.) | +1 level of spellcasting class |
 
 ### Requirements
 

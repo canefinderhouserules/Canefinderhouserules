@@ -6,18 +6,18 @@ Enchanting courtesans are elite information brokers who perfect their bodies and
 
 **Table: Enchanting Courtesan**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +1 | +0 | +1 | Covert spells, enchanting touch, seducer's leverage, +1 level of spellcasting class |
-| 2nd | +1 | +1 | +1 | +1 | Poison use, seductive intuition, +1 level of spellcasting class, aligned class |
-| 3rd | +1 | +2 | +1 | +2 | Hidden spell +1, master poisoner, +1 level of spellcasting class |
-| 4th | +2 | +2 | +1 | +2 | Contact poison wielder, +1 level of spellcasting class, aligned class |
-| 5th | +2 | +3 | +2 | +3 | Deluding touch, +1 level of spellcasting class |
-| 6th | +3 | +3 | +2 | +3 | Hidden spell +2/+1, +1 level of spellcasting class, aligned class |
-| 7th | +3 | +4 | +2 | +4 | Informative liaisons, +1 level of spellcasting class |
-| 8th | +4 | +4 | +3 | +4 | Overwhelming touch, +1 level of spellcasting class, aligned class |
-| 9th | +4 | +5 | +3 | +5 | Hidden spell +3/+2, +1 level of spellcasting class |
-| 10th | +5 | +5 | +3 | +5 | Touch of ecstasy, +1 level of spellcasting class, aligned class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +1 | +0 | +1 | Covert spells, enchanting touch, seducer's leverage | +1 level of spellcasting class |
+| 2nd | +1 | +1 | +1 | +1 | Poison use, seductive intuition, aligned class | +1 level of spellcasting class |
+| 3rd | +1 | +2 | +1 | +2 | Hidden spell +1, master poisoner | +1 level of spellcasting class |
+| 4th | +2 | +2 | +1 | +2 | Contact poison wielder, aligned class | +1 level of spellcasting class |
+| 5th | +2 | +3 | +2 | +3 | Deluding touch | +1 level of spellcasting class |
+| 6th | +3 | +3 | +2 | +3 | Hidden spell +2/+1, aligned class | +1 level of spellcasting class |
+| 7th | +3 | +4 | +2 | +4 | Informative liaisons | +1 level of spellcasting class |
+| 8th | +4 | +4 | +3 | +4 | Overwhelming touch, aligned class | +1 level of spellcasting class |
+| 9th | +4 | +5 | +3 | +5 | Hidden spell +3/+2 | +1 level of spellcasting class |
+| 10th | +5 | +5 | +3 | +5 | Touch of ecstasy, aligned class | +1 level of spellcasting class |
 
 ### Requirements
 

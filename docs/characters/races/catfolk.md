@@ -98,7 +98,7 @@ Catfolk also have the following options.
 
 - [Cat Burglar](../classes/rogue-archetypes.md#cat-burglar) (rogue)
 - [Nimble Guardian](../classes/monk-archetypes.md#nimble-guardian) (monk)
-- [Spirit Prowler](../classes/bloodrager-archetypes.md#spirit-prowler) (bloodrager)
+- [Prowler at World’s End](../classes/bloodrager-archetypes.md#prowler-at-worlds-end) (bloodrager)
 - [Primeval Hunter](../classes/inquisitor-archetypes.md#primeval-hunter) (inquisitor)
 - [Serendipity Shaman](../classes/shaman-archetypes.md#serendipity-shaman) (shaman)
 - [Feline natural course](../classes/vigilante-archetypes.md#wildsoul) (vigilante wildsoul)

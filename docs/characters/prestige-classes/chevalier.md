@@ -40,7 +40,7 @@ The chevalier’s class skills are Acrobatics (Dex), Bluff (Cha), Craft (Int), D
 
 ### Class Features
 
-**Mounts and Companions**: Chevalier levels stack with any class that gives you a mount or animal companion.
+**Mounts and Companions**: Chevalier levels stack with any class that gives you a mount or animal companion, but only to determine the level of that mount or companion.
 
 **Aura of Courage (Su)**: You have an aura of courage equivalent to that of a 3rd-level paladin.
 

@@ -94,7 +94,7 @@ Many legendary magi study hard to learn the secrets of their tomes, while a rare
 
 A dragon fang is blessed with the power of a dragon, though mastering these abilities takes time. A dragon fang selects an eldritch tome and gains its 1st level ability, but does not gain the tomes abilities at 3rd, 9th, or 15th level. Additionally, she counts as having the eldritch tome ability for the purposes of the Expanded Training legendary magus arcana. She cannot select the tome of the magister with this ability, or the Expanded Training arcana.
 
-At 1st level, a dragon fang must select an energy type (acid, cold, fire, or electricity). Once this choice has been made it cannot be changed. Whenever the dragon fang casts a spell with an energy descriptor that matches her chosen energy type, that spell deals +1 damage per die rolled.
+At 1st level, a dragon fang must select an energy type (acid, cold, fire, or electricity). Once this choice has been made it cannot be changed. Whenever the dragon fang casts a spell with an energy descriptor that matches her chosen energy type, that spell gains a +1 enhancement bonus to damage per die rolled.
 
 At 3rd level, a dragon fang gains a +1 natural armor bonus.
 

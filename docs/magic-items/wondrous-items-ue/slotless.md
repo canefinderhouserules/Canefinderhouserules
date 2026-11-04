@@ -468,7 +468,7 @@ Using the alembic does not harm the potion, but the process makes it nearly boil
 **Aura** faint transmutation; **CL** 3rd  
 **Slot** none; **Price** Normal 2,000 gp, Greater 4,500 gp; **Weight** 1 lb.
 
-This small crude-looking drum is attached to a strap long enough to loop around the wearer’s neck. A successful DC 12 Perform (percussion) check activates the drum, which enhances any nearby natural or magical fire as long as the bearer spends a move action each round to continue playing. All fires (including fire spells and effects) within 30 feet of the bearer deal an additional +1 point of fire damage per die (maximum +10).
+This small crude-looking drum is attached to a strap long enough to loop around the wearer’s neck. A successful DC 12 Perform (percussion) check activates the drum, which enhances any nearby natural or magical fire as long as the bearer spends a move action each round to continue playing. All fires (including fire spells and effects) within 30 feet of the bearer gain a +1 enhancement bonus to fire damage per die rolled (maximum +10).
 
 All unattended flammable alchemical objects such as tindertwigs, flasks of oil or alchemist’s fire, and fireworks within this range have a 10% chance of spontaneously igniting or exploding (as appropriate to the item) when the drum activates. This chance increases by 5% each round and is checked at the start of the performer’s turn as long as the playing continues.
 

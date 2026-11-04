@@ -8,18 +8,18 @@ Some worshipers of a shimmering goddess said to dance among the lights of the au
 
 **Table: Stargazer**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +0 | +1 | +1 | Guiding light, mystery magic (hex), +1 level of existing spellcasting class |
-| 2nd | +1 | +1 | +1 | +1 | Sidereal arcana, +1 level of existing spellcasting class |
-| 3rd | +2 | +1 | +2 | +2 | Mystery magic (Stars subdomain), +1 level of existing spellcasting class |
-| 4th | +3 | +1 | +2 | +2 | Sidereal arcana, +1 level of existing spellcasting class |
-| 5th | +3 | +2 | +3 | +3 | Mystery magic (coat of many stars), +1 level of existing spellcasting class |
-| 6th | +4 | +2 | +3 | +3 | Sidereal arcana, +1 level of existing spellcasting class |
-| 7th | +5 | +2 | +4 | +4 | Mystery magic (star chart), +1 level of existing spellcasting class |
-| 8th | +6 | +3 | +4 | +4 | Sidereal arcana, +1 level of existing spellcasting class |
-| 9th | +6 | +3 | +5 | +5 | Mystery magic (hex), +1 level of existing spellcasting class |
-| 10th | +7 | +3 | +5 | +5 | Sidereal arcana, stars' dance, +1 level of existing spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +1 | +1 | Guiding light, mystery magic (hex) | +1 level of existing spellcasting class |
+| 2nd | +1 | +1 | +1 | +1 | Sidereal arcana | +1 level of existing spellcasting class |
+| 3rd | +2 | +1 | +2 | +2 | Mystery magic (Stars subdomain) | +1 level of existing spellcasting class |
+| 4th | +3 | +1 | +2 | +2 | Sidereal arcana | +1 level of existing spellcasting class |
+| 5th | +3 | +2 | +3 | +3 | Mystery magic (coat of many stars) | +1 level of existing spellcasting class |
+| 6th | +4 | +2 | +3 | +3 | Sidereal arcana | +1 level of existing spellcasting class |
+| 7th | +5 | +2 | +4 | +4 | Mystery magic (star chart) | +1 level of existing spellcasting class |
+| 8th | +6 | +3 | +4 | +4 | Sidereal arcana | +1 level of existing spellcasting class |
+| 9th | +6 | +3 | +5 | +5 | Mystery magic (hex) | +1 level of existing spellcasting class |
+| 10th | +7 | +3 | +5 | +5 | Sidereal arcana, stars' dance | +1 level of existing spellcasting class |
 
 ### Requirements
 

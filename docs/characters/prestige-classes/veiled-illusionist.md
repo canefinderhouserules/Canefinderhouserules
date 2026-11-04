@@ -8,18 +8,18 @@ While skilled in all forms of illusion, veiled illusionists primarily excel at c
 
 **Table: Veiled Illusionist**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Veil of the goddess (human), veil pool; +1 level of spellcasting class |
-| 2nd | +1 | +1 | +1 | +1 | Veil of the goddess (halfling); +1 level of spellcasting class |
-| 3rd | +1 | +1 | +1 | +2 | Veil pool (auditory); +1 level of spellcasting class |
-| 4th | +2 | +1 | +1 | +2 | Veil of the goddess (elf); +1 level of spellcasting class |
-| 5th | +2 | +2 | +2 | +3 | Quick veil (move), veil pool (tactile); +1 level of spellcasting class |
-| 6th | +3 | +2 | +2 | +3 | Veil of the goddess (gnome); +1 level of spellcasting class |
-| 7th | +3 | +2 | +2 | +4 | Quick veil (swift); +1 level of spellcasting class |
-| 8th | +4 | +3 | +3 | +4 | Veil of the goddess (cyclops); +1 level of spellcasting class |
-| 9th | +4 | +3 | +3 | +5 | Veil pool (extraordinary senses); +1 level of spellcasting class |
-| 10th | +5 | +3 | +3 | +5 | Veil of the goddess (naga), true veil; +1 level of spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +0 | +1 | Veil of the goddess (human), veil pool | +1 level of spellcasting class |
+| 2nd | +1 | +1 | +1 | +1 | Veil of the goddess (halfling) | +1 level of spellcasting class |
+| 3rd | +1 | +1 | +1 | +2 | Veil pool (auditory) | +1 level of spellcasting class |
+| 4th | +2 | +1 | +1 | +2 | Veil of the goddess (elf) | +1 level of spellcasting class |
+| 5th | +2 | +2 | +2 | +3 | Quick veil (move), veil pool (tactile) | +1 level of spellcasting class |
+| 6th | +3 | +2 | +2 | +3 | Veil of the goddess (gnome) | +1 level of spellcasting class |
+| 7th | +3 | +2 | +2 | +4 | Quick veil (swift) | +1 level of spellcasting class |
+| 8th | +4 | +3 | +3 | +4 | Veil of the goddess (cyclops) | +1 level of spellcasting class |
+| 9th | +4 | +3 | +3 | +5 | Veil pool (extraordinary senses) | +1 level of spellcasting class |
+| 10th | +5 | +3 | +3 | +5 | Veil of the goddess (naga), true veil | +1 level of spellcasting class |
 
 ### Requirements
 

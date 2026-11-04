@@ -33,9 +33,9 @@ Though most arcanists possess only a rudimentary innate arcane gift, the blood a
 
 ## Brown-Fur Transmuter
 
-Frequently called "brown-furs," these transmutationfocused arcanists are known for transforming themselves into animals. What few realize is that these specialized arcanists excel at turning themselves-and others-into all kinds of creatures.
+Frequently called "brown-furs," these transmutation-focused arcanists are known for transforming themselves into animals. What few realize is that these specialized arcanists excel at turning themselves-and others-into all kinds of creatures.
 
-**Powerful Change (Su)**: At 3rd level, the brown-fur transmuter learns to harness the power of her magic to empower her transmutations. Whenever the brown-fur transmuter casts a transmutation spell using one of her arcanist spell slots, she can expend 1 point from her arcane reservoir as a free action to bolster the spell. If the spell grants a bonus to an ability score, the bonus then increases by 2. If it grants a bonus to more than one ability score, only one of the ability scores gains this bonus. The brownfur transmuter cannot expend more than 1 point from her arcane reservoir in this way. This ability replaces the arcanist exploit gained at 3rd level.
+**Powerful Change (Su)**: At 3rd level, the brown-fur transmuter learns to harness the power of her magic to empower her transmutations. Whenever the brown-fur transmuter casts a transmutation spell using one of her arcanist spell slots, she can expend 1 point from her arcane reservoir as a free action to bolster the spell. If the spell grants a bonus to an ability score, the bonus then increases by 2. If it grants a bonus to more than one ability score, only one of the ability scores gains this bonus. The brown-fur transmuter cannot expend more than 1 point from her arcane reservoir in this way. This ability replaces the arcanist exploit gained at 3rd level.
 
 **Share Transmutation (Su)**: At 9th level, the brown-fur transmuter can target others with her transmutation spells. A brown-fur transmuter can expend 1 point from her arcane reservoir to change any transmutation spell with a range of personal to a range of touch. Such a spell automatically fails on unwilling creatures. This ability replaces the arcanist exploit gained at 9th level.
 

@@ -196,9 +196,9 @@ These traits suit characters raised in or around an empire ruled by devil-worshi
 
 **Diabolical Dabbler (Magic)**: Each fiendish animal you conjure with any summon spell gains +1 hit point per Hit Die for the duration of the spell that summoned it.
 
-**Infernal Knight Ancestry (Social)**: At least one of your parents was an infernal knight, and you see the knightly orders as the embodiment of civic virtue. You gain a +2 trait bonus on Diplomacy checks to influence infernal knights and a +2 trait bonus on Intimidate checks to influence enemies of the infernal knights.
+**Hell Knight Ancestry (Social)**: At least one of your parents was a hell knight, and you see the knightly orders as the embodiment of civic virtue. You gain a +2 trait bonus on Diplomacy checks to influence hell knights and a +2 trait bonus on Intimidate checks to influence enemies of the hell knights.
 
-**Lost Nobility (Social)**: Your family was prominent before the rise of the current devil-worshiping regime, but that legacy is now forgotten by all but you. You hold every government official of that regime (including infernal knights) personally responsible for your lost glory. You gain a +1 trait bonus on attack and damage rolls against these officials.
+**Lost Nobility (Social)**: Your family was prominent before the rise of the current devil-worshiping regime, but that legacy is now forgotten by all but you. You hold every government official of that regime (including hell knights) personally responsible for your lost glory. You gain a +1 trait bonus on attack and damage rolls against these officials.
 
 **Nonchalant Thuggery (Social)**: You are adept at keeping witnesses from noticing that anything is wrong. You gain a +4 trait bonus on Bluff checks to keep others from noticing your aggressive actions.
 

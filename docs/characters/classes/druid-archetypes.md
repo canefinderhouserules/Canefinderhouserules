@@ -26,7 +26,7 @@ Other nature-themed classes with access to domains may select an animal or terra
 
 ### Arctic Domain
 
-**Granted Powers**: You master the might of the endless, snowcovered wastes beneath the midnight sun, where icy polar winds blow.
+**Granted Powers**: You master the might of the endless, snow-covered wastes beneath the midnight sun, where icy polar winds blow.
 
 **Call Cold (Su)**: You can channel energy (as a cleric of your druid level) a number of times per day equal to 3 + your Charisma modifier, but only to heal creatures with the cold subtype or to command them (similar to using the Command Undead feat against undead). You can take other feats that add to this ability, such as Extra Channel and Improved Channel, but not feats that alter this ability, such as Elemental Channel and Alignment Channel. The DC to save against this ability is equal to 10 + 1/2 your druid level + your Charisma modifier.
 
@@ -226,7 +226,7 @@ In addition to the normal choices of animal companions listed in the Core Rulebo
 
 **Starting Statistics**: Size Medium; Speed 40 ft.; AC +1 natural armor; Attack 2 claws (1d4 plus grab) and sting (1d4 plus poison); Ability Scores Str 11, Dex 12, Con 12, Int —, Wis 10, Cha 2; Special Attacks poison ( frequency 1 round (6), effect 1 Str damage, cure 1 save, Con-based DC); Special Qualities darkvision, tremorsense 30 ft; CMD trip +12.
 
-7th-Level Advancement: Size Large; AC +3 natural armor; Attack 2 claws (1d6 plus grab) and sting (1d6 plus poison); Ability Scores Str +8, Dex –2, Con +4; Special Attacks poison ( frequency 1 round [6], effect 1d2 Str damage, cure 1 save, Conbased DC); Special Qualities tremorsense 60 ft.
+7th-Level Advancement: Size Large; AC +3 natural armor; Attack 2 claws (1d6 plus grab) and sting (1d6 plus poison); Ability Scores Str +8, Dex –2, Con +4; Special Attacks poison ( frequency 1 round [6], effect 1d2 Str damage, cure 1 save, Con-based DC); Special Qualities tremorsense 60 ft.
 
 ### Slug, Giant
 
@@ -278,9 +278,9 @@ Some druids study the paths of nature’s power through the nodes and ley lines 
 
 ## Mooncaller
 
-A mooncaller is bound to the subtle influences of the everchanging moon and its endless cycles from light to dark and back again.
+A mooncaller is bound to the subtle influences of the ever-changing moon and its endless cycles from light to dark and back again.
 
-**Night Sight (Ex)**: At 2nd level, a mooncaller gains lowlight vision. If she already has low-light vision, she gains darkvision with a range of 30 feet. If she already has darkvision, the range of her darkvision is increased by 30 feet. This ability replaces woodland stride.
+**Night Sight (Ex)**: At 2nd level, a mooncaller gains low-light vision. If she already has low-light vision, she gains darkvision with a range of 30 feet. If she already has darkvision, the range of her darkvision is increased by 30 feet. This ability replaces woodland stride.
 
 **Resist Call of the Wild (Ex)**: At 4th level, a mooncaller gains a +4 bonus on saving throws to avoid confusion, daze, feeblemind, and insanity effects. She also gains a +4 bonus against the exceptional, spell-like, and supernatural abilities of creatures with the shapechanger subtype. This ability replaces resist nature’s lure.
 
@@ -308,7 +308,7 @@ This ability replaces woodland stride.
 
 **Resist Death’s Touch (Ex)**: At 4th level, a reincarnated druid gains a +4 bonus on saving throws against death effects, energy drain, and necromancy effects, and on stabilization checks when dying. This ability replaces resist nature’s lure.
 
-**Many Lives (Ex)**: At 5th level, if a reincarnated druid is killed, she may automatically reincarnate (as the spell) 1 day later. The reincarnated druid appears in a safe location within 1 mile of her previous body. At will for the next 7 days, she can sense the presence of her remains as if using locate object as a spelllike ability. If she is killed during these 7 days, she remains dead and does not reincarnate. The many lives ability does not function if the reincarnated druid is slain by a death effect. A reincarnated druid cannot be raised from the dead or resurrected, though she can be reincarnated.
+**Many Lives (Ex)**: At 5th level, if a reincarnated druid is killed, she may automatically reincarnate (as the spell) 1 day later. The reincarnated druid appears in a safe location within 1 mile of her previous body. At will for the next 7 days, she can sense the presence of her remains as if using locate object as a spell-like ability. If she is killed during these 7 days, she remains dead and does not reincarnate. The many lives ability does not function if the reincarnated druid is slain by a death effect. A reincarnated druid cannot be raised from the dead or resurrected, though she can be reincarnated.
 
 **Wild Shape (Su)**: A reincarnated druid gains this ability at 6th level, and it functions at her druid level – 2.
 
@@ -929,6 +929,8 @@ Some druids draw upon power irreverently stolen from one of the most dangerous c
 **Resist the Waves' Lure (Ex)**: At 4th level, a kraken caller gains a +4 bonus on saving throws against the spell-like and supernatural abilities of creatures with the aquatic subtype. This ability replaces resist nature's lure.
 
 **Wild Shape (Su)**: A kraken caller's options for wild shape are limited to animals with the aquatic or water subtype or that have the amphibious special quality. The kraken caller can alternatively expend a daily use of wild shape to grow tentacles out of her body while otherwise retaining her own form. This effect lasts for 10 minutes per level, or until the kraken caller changes back.
+
+A kraken caller gains wild shape at 2nd level instead of 4th, with one use per day, but until 4th level she can only use it to grow tentacles. She gains the normal effects of changing form with wild shape at 4th level.
 
 At 2nd level, the kraken caller grows one tentacle while in this form. The tentacles have a reach of 5 feet regardless of the kraken caller's size, and the kraken caller can use them as secondary natural attacks that deal 1d4 points of damage (1d3 for a Small kraken caller). She also gains a racial bonus on Climb, Swim, and dirty trick combat maneuver checks equal to the number of tentacles grown.
 

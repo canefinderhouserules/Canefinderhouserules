@@ -20,7 +20,7 @@ At 11th level, he may also choose from the following combat maneuvers: bull rush
 
 **Evasive Archer (Ex)**: At 13th level, an archer gains a +2 dodge bonus to AC against ranged attacks. This bonus increases to +4 at 17th level. This ability replaces weapon training 3.
 
-**Volley (Ex)**: At 17th level, as a full-round action, an archer can make a single bow attack at his highest base attack bonus against any number of creatures in a 15-footradius burst, making separate attack and damage rolls for each creature. This ability replaces weapon training 4.
+**Volley (Ex)**: At 17th level, as a full-round action, an archer can make a single bow attack at his highest base attack bonus against any number of creatures in a 15-foot-radius burst, making separate attack and damage rolls for each creature. This ability replaces weapon training 4.
 
 **Ranged Defense (Ex)**: At 19th level, an archer gains DR 5/— against ranged attacks. In addition, as an immediate action, he can catch an arrow fired at him and shoot it any target he chooses, as if he had the Snatch Arrows feat. This ability replaces armor mastery.
 
@@ -214,7 +214,7 @@ Trained under great masters who preached the simple truth that two are better th
 
 **Doublestrike (Ex)**: At 9th level, a two-weapon warrior may, as a standard action, make one attack with both his primary and secondary weapons. The penalties for attacking with two weapons apply normally. This ability replaces weapon training 2.
 
-**Improved Balance (Ex)**: At 11th level, the attack penalties for fighting with two weapons are reduced by –1 for a twoweapon warrior. Alternatively, he may use a one-handed weapon in his off-hand, treating it as if it were a light weapon with the normal light weapon penalties. This ability replaces armor training 3.
+**Improved Balance (Ex)**: At 11th level, the attack penalties for fighting with two weapons are reduced by –1 for a two-weapon warrior. Alternatively, he may use a one-handed weapon in his off-hand, treating it as if it were a light weapon with the normal light weapon penalties. This ability replaces armor training 3.
 
 **Equal Opportunity (Ex)**: At 13th level, when a two-weapon warrior makes an attack of opportunity, he may attack once with both his primary and secondary weapons. The penalties for attacking with two weapons apply normally. This ability replaces weapon training 3.
 
@@ -222,7 +222,7 @@ Trained under great masters who preached the simple truth that two are better th
 
 **Deft Doublestrike (Ex)**: At 17th level, when a two-weapon warrior hits an opponent with both weapons, he can make a disarm or sunder attempt (or trip, if one or both weapons can be used to trip) against that opponent as an immediate action that does not provoke attacks of opportunity. This ability replaces weapon training 4.
 
-**Deadly Defense (Ex)**: At 19th level, when a twoweapon warrior makes a full attack with both weapons, every creature that hits him with a melee attack before the beginning of his next turn provokes an attack of opportunity from the warrior. This ability replaces armor mastery.
+**Deadly Defense (Ex)**: At 19th level, when a two-weapon warrior makes a full attack with both weapons, every creature that hits him with a melee attack before the beginning of his next turn provokes an attack of opportunity from the warrior. This ability replaces armor mastery.
 
 ## Weapon Master
 
@@ -262,9 +262,7 @@ This ability replaces weapon training and weapon mastery.
 
 While most fighters rely on physical fitness and rigorous training to achieve martial superiority, a few prefer to create and imbibe dangerous concoctions that mutate them into fearsome creatures.
 
-**Requirement**: Intelligence 15.
-
-**Mutagen (Su)**: At 1st level, a mutation warrior discovers how to create a mutagen that he can imbibe in order to heighten his physical prowess at the cost of his personality. This ability functions as the alchemist's mutagen ability. This ability replaces armor training 1.
+**Mutagen (Su)**: At 1st level, if a mutation warrior has an Intelligence score of at least 15, he discovers how to create a mutagen that he can imbibe in order to heighten his physical prowess at the cost of his personality. This ability functions as the alchemist's mutagen ability. This ability replaces armor training 1.
 
 **Mutagen Discovery (Su)**: At 7th level and every 4 levels thereafter, the mutation warrior can choose one of the follow alchemist discoveries to augment his abilities: feral mutagen, grand mutagen, greater mutagen, infuse mutagen, nauseating flesh, preserve organs, rag doll mutagen, spontaneous healing, tentacle, vestigial arm, wings. The mutagen warrior uses his fighter level as his effective alchemist level for determining whether he qualifies for these discoveries. This ability replaces armor training 2, 3, 4, and armor mastery.
 
@@ -781,11 +779,11 @@ The following benefits apply only when a sword duelist defender is wielding a du
 
 ## Armiger
 
-Until would-be infernal knights take the Test—in which they enter single combat with a conjured devil and either emerge victorious or die—they are known as armigers. The term applies to all infernal knights-in-training, but also specifically to fighters who focus their training to become infernal knights. Armigers live and train at their order’s citadel, following a brutally strict routine of combat practice and study. Roaming armigers perform frequent reckonings—painful acts of mortification—to keep themselves disciplined and focused on the order’s strictures.
+Until would-be hell knights take the Test—in which they enter single combat with a conjured devil and either emerge victorious or die—they are known as armigers. The term applies to all hell knights-in-training, but also specifically to fighters who focus their training to become hell knights. Armigers live and train at their order’s citadel, following a brutally strict routine of combat practice and study. Roaming armigers perform frequent reckonings—painful acts of mortification—to keep themselves disciplined and focused on the order’s strictures.
 
-**Bonus Feats**: When selecting fighter bonus feats, the armiger can select any feats whose names include the words “infernal knight,” or that require membership in an infernal knight order, as though they were combat feats. This alters the fighter’s bonus feats.
+**Bonus Feats**: When selecting fighter bonus feats, the armiger can select any feats whose names include the words “hell knight,” or that require membership in a hell knight order, as though they were combat feats. This alters the fighter’s bonus feats.
 
-**Infernal Knight Order**: At 1st level, an armiger must select which knightly order she intends to join. If the armiger later gains levels in an infernal knight prestige class, she must select that same order.
+**Hell Knight Order**: At 1st level, an armiger must select which knightly order she intends to join. If the armiger later gains levels in a hell knight prestige class, she must select that same order.
 
 **Studious Squire**: An armiger gains 2 additional skill ranks at each level. These ranks must be put into Intimidate and Knowledge (planes). In addition, the armiger treats Knowledge (local) and Knowledge (planes) as class skills. This alters the fighter’s class skills and skill points per level, and replaces the fighter’s bonus feats gained at 1st and 10th levels.
 

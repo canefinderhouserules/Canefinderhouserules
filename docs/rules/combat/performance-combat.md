@@ -32,13 +32,13 @@ The following are the general categories of crowd reaction and attitude. They ar
 
 If the crowd is hostile toward a side of the combat and a member of that side fails a performance combat check by 5 or more, that side automatically loses the performance part of the combat. This can be important for the story of the game, or if the PCs are participating in serialized performance combats.
 
-**Unfriendly**: While still biased against a side, the crowd reserves its most vocal disdain for failed performance combat checks. Unfriendly crowds demoralize combatants in a performance combat. In these battles, while the crowd is unfriendly toward a given side, those combatants take a –1 penalty on all attack rolls, combat maneuver checks, ability checks, skill checks, and saving throws. This is a mindaffecting effect.
+**Unfriendly**: While still biased against a side, the crowd reserves its most vocal disdain for failed performance combat checks. Unfriendly crowds demoralize combatants in a performance combat. In these battles, while the crowd is unfriendly toward a given side, those combatants take a –1 penalty on all attack rolls, combat maneuver checks, ability checks, skill checks, and saving throws. This is a mind-affecting effect.
 
 **Indifferent**: The crowd is waiting for something exciting to happen. Audience members show little emotion other than anticipation and a desire for daring feats of combat to occur.
 
-**Friendly**: The crowd is beginning to be swayed toward one side in the fray. Audience members cheer when that side achieves some impressive feat in the combat, and their reaction grants a +1 morale bonus on all attack rolls, combat maneuver checks, ability checks, skill checks, and saving throws for their chosen side. This is a mindaffecting effect.
+**Friendly**: The crowd is beginning to be swayed toward one side in the fray. Audience members cheer when that side achieves some impressive feat in the combat, and their reaction grants a +1 morale bonus on all attack rolls, combat maneuver checks, ability checks, skill checks, and saving throws for their chosen side. This is a mind-affecting effect.
 
-**Helpful**: The crowd loves what it is seeing from a given side. Audience members stand up, chant, cheer, and scream for the combatants to push on toward ultimate success. A helpful crowd grants its chosen champions a +2 morale bonus on all attack rolls, combat maneuver checks, ability checks, skill checks, and saving throws. This is a mindaffecting effect. If the crowd is helpful toward one side of the combat and a member of that side succeeds at a performance combat check, that side gains a victory point.
+**Helpful**: The crowd loves what it is seeing from a given side. Audience members stand up, chant, cheer, and scream for the combatants to push on toward ultimate success. A helpful crowd grants its chosen champions a +2 morale bonus on all attack rolls, combat maneuver checks, ability checks, skill checks, and saving throws. This is a mind-affecting effect. If the crowd is helpful toward one side of the combat and a member of that side succeeds at a performance combat check, that side gains a victory point.
 
 ## Crowd’s Starting Attitude
 
@@ -170,7 +170,7 @@ The following triggers allow a character participating in a performance combat t
 
 **Combat Maneuvers**: Whenever a combatant successfully performs any combat maneuver, she can make a performance combat check as a swift action.
 
-**Dealing Maximum Damage**: Whenever a combatant deals maximum damage with a damage roll (weapon or spell, but not including sneak attack or other variable precision damage), she can make a performance combat check as a swift action. She gains a penalty or bonus on this check based on the type of weapon or spell she uses. Light weapons take a –4 penalty on the check, one-handed weapons grant neither a bonus or a penalty, and twohanded or exotic weapons grant a +2 circumstance bonus on the check. Spells grant a bonus on the performance combat check equal to half their spell level.
+**Dealing Maximum Damage**: Whenever a combatant deals maximum damage with a damage roll (weapon or spell, but not including sneak attack or other variable precision damage), she can make a performance combat check as a swift action. She gains a penalty or bonus on this check based on the type of weapon or spell she uses. Light weapons take a –4 penalty on the check, one-handed weapons grant neither a bonus or a penalty, and two-handed or exotic weapons grant a +2 circumstance bonus on the check. Spells grant a bonus on the performance combat check equal to half their spell level.
 
 **Energy Spells and Effects**: Crowds tend to respond to flashy spells and effects. If a combatant casts a spell or produces an effect that deals acid, cold, fire, electricity, force, or sonic damage in a visible way (including weapons with special abilities like flaming burst or shocking burst that deal bursts of energy damage on critical hits), she can make a performance combat check as a swift action.
 

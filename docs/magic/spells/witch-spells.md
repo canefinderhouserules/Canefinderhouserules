@@ -192,6 +192,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Diminished Detection](diminished-detection.md)**: Detection spells have half their normal range against you.
 - **[Display Aversion](display-aversion.md)**: an illusion of a vampire's aversion keeps it at bay
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
+- **[Divine Trident](divine-trident.md)**: Wield a trident of electricity.
 - **[Dousing Rain](dousing-rain.md)**: Call a downpour that douses fire
 - **[Dragon Voice](dragon-voice.md)**: +6 on Charisma checks with dragons; louder voice.
 - **[Drain Construct](drain-construct.md)**: Strip a construct of DR, fast healing, speed, and Strength.
@@ -293,7 +294,6 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Steal Size](steal-size.md)**: Shrinks a larger target and enlarges you.
 - **[Steal Voice](steal-voice.md)**: Target gains the croaking spellblight.
 - **[Storm Sight](storm-sight.md)**: Sense creatures caught in a storm.
-- **[Storm Trident](storm-trident.md)**: Wield a trident of electricity.
 - **[Summon Cacodaemon](summon-cacodaemon.md)**: This spell functions like summon monster, except it summons a single cacodaemon.
 - **[Summon Monster 2](summon-monster-2.md)**: This spell functions like summon monster I, except that you can summon one creature from the 2nd-level list or…
 - **[Sun’s Disdain](suns-disdain.md)**: Target is hurt by sunlight.

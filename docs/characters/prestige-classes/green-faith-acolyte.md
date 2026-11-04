@@ -8,18 +8,18 @@ Adherents of the Green Faith follow a strict hierarchy that reflects their philo
 
 **Table: Green Faith Acolyte**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Companion bond +1, wild empathy; +1 level of divine spellcasting class |
-| 2nd | +1 | +1 | +1 | +1 | Wild link +1; +1 level of divine spellcasting class |
-| 3rd | +2 | +1 | +1 | +2 | Companion bond +2, hibernate; +1 level of divine spellcasting class |
-| 4th | +3 | +1 | +1 | +2 | Power over nature, wild link +2; +1 level of divine spellcasting class |
-| 5th | +3 | +2 | +2 | +3 | Animal covenant, companion bond +3; +1 level of divine spellcasting class |
-| 6th | +4 | +2 | +2 | +3 | Venom immunity, wild link +3; +1 level of divine spellcasting class |
-| 7th | +5 | +2 | +2 | +4 | Blighter of abominations, companion bond +4; +1 level of divine spellcasting class |
-| 8th | +6 | +3 | +3 | +4 | Archdruid, wild link +4; +1 level of divine spellcasting class |
-| 9th | +6 | +3 | +3 | +5 | Companion bond +5, Great Druid, wild link +5; +1 level of divine spellcasting class |
-| 10th | +7 | +3 | +3 | +5 | Companion bond +6, Grand Druid, longevity, timeless body, wild link +6; +1 level of divine spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +0 | +1 | Companion bond, wild empathy | +1 level of divine spellcasting class |
+| 2nd | +1 | +1 | +1 | +1 | Wild link | +1 level of divine spellcasting class |
+| 3rd | +2 | +1 | +1 | +2 | Hibernate | +1 level of divine spellcasting class |
+| 4th | +3 | +1 | +1 | +2 | Power over nature | +1 level of divine spellcasting class |
+| 5th | +3 | +2 | +2 | +3 | Animal covenant | +1 level of divine spellcasting class |
+| 6th | +4 | +2 | +2 | +3 | Venom immunity | +1 level of divine spellcasting class |
+| 7th | +5 | +2 | +2 | +4 | Blighter of abominations | +1 level of divine spellcasting class |
+| 8th | +6 | +3 | +3 | +4 | Archdruid | +1 level of divine spellcasting class |
+| 9th | +6 | +3 | +3 | +5 | Great Druid | +1 level of divine spellcasting class |
+| 10th | +7 | +3 | +3 | +5 | Grand Druid, longevity, timeless body | +1 level of divine spellcasting class |
 
 ### Requirements
 
@@ -55,7 +55,7 @@ The following are class features of the green faith acolyte prestige class.
 
 **Weapon and Armor Proficiency**: A Green Faith acolyte gains no additional weapon or armor proficiencies.
 
-**Companion Bond (Ex)**: At the indicated levels, a Green Faith acolyte increases her effective druid level by 1 for determining the abilities of her animal companion, or of any companion she already had, as any class with a companion does. If she has no animal companion, she instead gains a druid animal companion, using her class level as her effective druid level.
+**Companion Bond (Ex)**: At 1st level, a Green Faith acolyte forms a bond with an animal companion. This ability functions like the druid animal companion ability (which is part of the nature bond class feature), and her effective druid level is equal to her Green Faith acolyte level. If a character receives an animal companion from more than one source, her effective druid levels stack for the purposes of determining the statistics and abilities of the companion.
 
 ??? note "Original rule"
 
@@ -63,7 +63,7 @@ The following are class features of the green faith acolyte prestige class.
 
 **Wild Empathy (Ex)**: This ability is identical to the druid class ability. For the purpose of this ability, a Green Faith acolyte’s class level stacks with levels in any other class that grants the wild empathy ability.
 
-**Wild Link (Su)**: At the indicated levels, a Green Faith acolyte directly gains the wild shape class feature, or improves the one she already has if she has druid levels or any class or archetype with wild shape, adding her wild link levels to unlock more forms and uses.
+**Wild Link (Su)**: At 2nd level, a Green Faith acolyte gains the druid’s wild shape class feature, treating her Green Faith acolyte level as her effective druid level for the forms she can choose and its uses per day, with one use per day until 4th level. If she already has wild shape from druid levels or from any other class or archetype, her Green Faith acolyte levels stack with those levels instead.
 
 ??? note "Original rule"
 

@@ -6,18 +6,18 @@ A loosely organized order of nihilistic alienists and demonologists, darkfire ad
 
 **Table: Darkfire Adept**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Sacred Summons, +1 level of spellcasting class |
-| 2nd | +1 | +1 | +1 | +1 | Darkfire taint; +1 level of spellcasting class |
-| 3rd | +1 | +1 | +1 | +2 | 1st darkfire pact; +1 level of spellcasting class |
-| 4th | +2 | +1 | +1 | +2 | Darkfire eruption; +1 level of spellcasting class |
-| 5th | +2 | +2 | +2 | +3 | Breaching, +1 level of spellcasting class |
-| 6th | +3 | +2 | +2 | +3 | 2nd darkfire pact; +1 level of spellcasting class |
-| 7th | +3 | +2 | +2 | +4 | Breaching legion; +1 level of spellcasting class |
-| 8th | +4 | +3 | +3 | +4 | Accursed sympathy; +1 level of spellcasting class |
-| 9th | +4 | +3 | +3 | +5 | 3rd darkfire pact, +1 level of spellcasting class |
-| 10th | +5 | +3 | +3 | +5 | Riftward breaching; +1 level of spellcasting class |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
+|---|---|---|---|---|---|---|
+| 1st | +0 | +0 | +0 | +1 | Sacred Summons | +1 level of spellcasting class |
+| 2nd | +1 | +1 | +1 | +1 | Darkfire taint | +1 level of spellcasting class |
+| 3rd | +1 | +1 | +1 | +2 | 1st darkfire pact | +1 level of spellcasting class |
+| 4th | +2 | +1 | +1 | +2 | Darkfire eruption | +1 level of spellcasting class |
+| 5th | +2 | +2 | +2 | +3 | Breaching | +1 level of spellcasting class |
+| 6th | +3 | +2 | +2 | +3 | 2nd darkfire pact | +1 level of spellcasting class |
+| 7th | +3 | +2 | +2 | +4 | Breaching legion | +1 level of spellcasting class |
+| 8th | +4 | +3 | +3 | +4 | Accursed sympathy | +1 level of spellcasting class |
+| 9th | +4 | +3 | +3 | +5 | 3rd darkfire pact | +1 level of spellcasting class |
+| 10th | +5 | +3 | +3 | +5 | Riftward breaching | +1 level of spellcasting class |
 
 ### Requirements
 
