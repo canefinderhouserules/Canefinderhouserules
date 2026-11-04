@@ -211,3 +211,29 @@ On a successful touch attack, you daze a creature that fails a save.
 You create a completely real, nonmagical, unattended object of any sort of matter. The volume of the item created cannot exceed 1 cubic foot per caster level. Complex items require successful Craft checks. Objects created can be used as material components.
 
 **XP Cost**: The item’s gold piece value in XP (minimum 1 XP).
+
+## More
+
+### Status, Greater
+
+**School** divination
+
+**Casting**
+
+**Casting Time** 1 standard action
+
+**Components** V, S, DF
+
+**Effect**
+
+**Range** touch
+
+**Target** one creature touched/three levels
+
+**Duration** 1 hour/level
+
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes
+
+As *status*, but you can also cast a limited selection of spells through the link, as if you were touching the target. You can cast any spell that meets all of the following conditions:
+
+**Level** 0, 1st, or 2nd; **Range** touch; **Target** creature touched; **Saving Throw** harmless

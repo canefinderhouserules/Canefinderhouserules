@@ -380,6 +380,18 @@ This *+1 shadow leather armor* is usually a neutral brown or gray color and is t
 
 **Requirements** Craft Magic Arms and Armor, *acid splash*,* dancing lights*,* invisibility*,* mage hand*,* silence*; **Price** 2,940 gp
 
+### Greater Aquadynamic
+
+**Aura** varies **CL** 5th
+
+**Slot** none; **Price** (+3,750 gp), Improved (+15,000 gp), Greater (+33,750 gp); **Weight** —
+
+This sleek and mobile armor is magically streamlined to assist in swimming rather than making swimming more difficult, granting the wearer a +5 competence bonus on Swim checks for *aquadynamic* armor, a +10 competence bonus on Swim checks for* improved aquadynamic* armor, and a +15 competence bonus on Swim checks for* greater aquadynamic* armor.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *freedom of movement*; **Price** 1,875 gp (aquadynamic), 7,500 gp (improved aquadynamic), 16,875 gp (greater aquadynamic)
+
 ### Grim Gloom Mail
 
 **Aura** faint abjuration and necromancy **CL** 3rd
@@ -493,6 +505,18 @@ Carved from a single block of ice birthed from the breath of a great white wyrm,
 **Construction**
 
 **Requirements** Craft Magic Arms and Armor, *frigid touch*UM,* wall of ice*; **Price** 7,700 gp
+
+### Improved Aquadynamic
+
+**Aura** varies **CL** 5th
+
+**Slot** none; **Price** (+3,750 gp), Improved (+15,000 gp), Greater (+33,750 gp); **Weight** —
+
+This sleek and mobile armor is magically streamlined to assist in swimming rather than making swimming more difficult, granting the wearer a +5 competence bonus on Swim checks for *aquadynamic* armor, a +10 competence bonus on Swim checks for* improved aquadynamic* armor, and a +15 competence bonus on Swim checks for* greater aquadynamic* armor.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *freedom of movement*; **Price** 1,875 gp (aquadynamic), 7,500 gp (improved aquadynamic), 16,875 gp (greater aquadynamic)
 
 ### Kimlé Coat
 
@@ -4182,7 +4206,9 @@ An *alpine ice axe* is a tool, not a weapon, but it may be used as an improvised
 
 **Requirements** Craft Wondrous Item, *shatter*,* snow shape*HOG, creator must have 5 ranks in the Climb skill; **Cost** 4,176 gp
 
-### Amber Spindle
+### Amber Spindle Ioun Stone
+
+**Normal version**
 
 **Aura** moderate abjuration; **CL** 12th
 
@@ -4201,6 +4227,38 @@ maximum of a +5 resistance bonus to saving throws).
 **Construction**
 
 **Requirements** Craft Wondrous Item, *resistance*, creator must be 12th level; **Cost** 5,000 gp
+
+**Cracked version**
+
+**Aura** moderate abjuration; **CL** 12th
+
+**Slot** none; **Price** 3,400 gp; **Weight** —
+
+This stone grants a +1 resistance bonus on Fortitude, Reflex, or Will saves. The bonuses from multiple *amber spindles* (cracked or otherwise) stack, up to a maximum of a +5 resistance bonus.
+
+**Resonance**
+
+5% chance per Reflex saving throw of granting the wearer evasion against that effect; bonuses from multiple *amber spindles* stack.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *resistance*, creator must be 12th level; **Cost** 1,700 gp
+
+**Flawed version**
+
+**Aura** moderate abjuration; **CL** 12th
+
+**Slot** none; **Price** 6,000 gp; **Weight** —
+
+This stone grants a +1 resistance bonus on saving throws per stone, stacking up to +3 total with other* amber spindle ioun stones* (flawed or otherwise).
+
+**Resonance**
+
+5% chance per Reflex saving throw of granting the wearer evasion against that effect; bonuses from multiple *amber spindles* stack.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *resistance*, creator must be 12th level; **Cost** 3,000 gp
 
 ### Amethyst Pyramid (Cracked) Ioun Stone
 
@@ -5657,22 +5715,6 @@ If the animal is slain, it disappears and the heraldic image on the *crest of th
 
 **Requirements** Craft Wondrous Item, *deathwatch*, *summon nature’s ally II*; **Cost** 6,000 gp
 
-### Crimson Sphere
-
-**Aura** moderate transmutation; **CL** 12th
-
-**Slot** none; **Price** 24,000 gp; **Weight** —
-
-This stone grants you a +2 enhancement bonus to Intelligence. The bonuses from multiple* crimson spheres* stack (up to a maximum of a +6 enhancement bonus to Intelligence).
-
-**Resonance**
-
-+1 competence bonus on single Knowledge skill (chosen by the stone’s creator).
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, *fox’s cunning*, creator must be 12th level; **Cost** 12,000 gp
-
 ### Crimson Sphere (Cracked) Ioun Stone
 
 **Aura** moderate transmutation; **CL** 12th
@@ -5704,6 +5746,24 @@ This stone grants a +2 enhancement bonus to Intelligence per stone, stacking up 
 **Construction**
 
 **Requirements** Craft Wondrous Item, *fox’s cunning*, creator must be 12th level; **Cost** 8,000 gp
+
+### Crimson Sphere Ioun Stone
+
+**Normal version**
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 24,000 gp; **Weight** —
+
+This stone grants you a +2 enhancement bonus to Intelligence. The bonuses from multiple* crimson spheres* stack (up to a maximum of a +6 enhancement bonus to Intelligence).
+
+**Resonance**
+
++1 competence bonus on single Knowledge skill (chosen by the stone’s creator).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *fox’s cunning*, creator must be 12th level; **Cost** 12,000 gp
 
 ### Crimson Thorny (Cracked) Ioun Stone
 
@@ -6123,7 +6183,25 @@ This knee-length cape is decorated with images of butterflies, moths, and stars.
 
 **Requirements** Craft Wondrous Item, *cape of wasps*,* glitterdust*; **Cost** 8,750 gp
 
-### Dull Gray Stone
+### Dull Gray Stone (Normal) Ioun Stone
+
+**Aura** faint universal; **CL** 12th
+
+**Slot** none; **Price** 25 gp; **Weight** —
+
+These are *ioun stones* that have been burned out or otherwise rendered all but powerless. They retain the ability to float and orbit, and are useful as the target of spells such as *continual flame*,* daylight*, and* silence*, allowing you to keep your hands free. They may be any shape (cabochon, disk, ellipsoid, and so on).
+
+**Resonance**
+
+*Read magic* 1/day for 10 minutes.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 12 gp, 5 sp
+
+### Dull Gray Stone Ioun Stone
+
+**Cracked version**
 
 **Aura** faint universal; **CL** 12th
 
@@ -6139,13 +6217,13 @@ This stone has no powers.
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 12 gp, 5 sp
 
-### Dull Gray Stone (Normal) Ioun Stone
+**Flawed version**
 
 **Aura** faint universal; **CL** 12th
 
 **Slot** none; **Price** 25 gp; **Weight** —
 
-These are *ioun stones* that have been burned out or otherwise rendered all but powerless. They retain the ability to float and orbit, and are useful as the target of spells such as *continual flame*,* daylight*, and* silence*, allowing you to keep your hands free. They may be any shape (cabochon, disk, ellipsoid, and so on).
+This stone has no powers.
 
 **Resonance**
 
@@ -6405,22 +6483,6 @@ This minty-smelling salve is commonly used by lust-goddess elves to render unsus
 
 **Requirements** Craft Wondrous Item, *touch of idiocy*; **Cost** 250 gp
 
-### Emerald Ellipsoid
-
-**Aura** moderate necromancy; **CL** 12th
-
-**Slot** none; **Price** 20,000 gp; **Weight** —
-
-This stone grants you 5 temporary hit points, which are restored automatically at a specific time of day unique to each stone (typically sunrise or sunset). The bonuses from multiple *emerald ellipsoids* stack, with no known limit.
-
-**Resonance**
-
-5 additional temporary hit points.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, *false life*, creator must be 12th level; **Cost** 10,000 gp
-
 ### Emerald Ellipsoid (Cracked) Ioun Stone
 
 **Aura** moderate necromancy; **CL** 12th
@@ -6452,6 +6514,24 @@ This stone grants the wearer 5 temporary hit points (stacking to 25 for multiple
 **Construction**
 
 **Requirements** Craft Wondrous Item, *false life*, creator must be 12th level; **Cost** 5,000 gp
+
+### Emerald Ellipsoid Ioun Stone
+
+**Normal version**
+
+**Aura** moderate necromancy; **CL** 12th
+
+**Slot** none; **Price** 20,000 gp; **Weight** —
+
+This stone grants you 5 temporary hit points, which are restored automatically at a specific time of day unique to each stone (typically sunrise or sunset). The bonuses from multiple *emerald ellipsoids* stack, with no known limit.
+
+**Resonance**
+
+5 additional temporary hit points.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *false life*, creator must be 12th level; **Cost** 10,000 gp
 
 ### Emerald Wedge Ioun Stone
 
@@ -6945,7 +7025,9 @@ This simple copper coin establishes a connection with the most recent person to 
 
 **Requirements** Craft Wondrous Item, *detect magic*; **Cost** 225 gp
 
-### Gamboge Nodule
+### Gamboge Nodule Ioun Stone
+
+**Normal version**
 
 **Aura** moderate transmutation; **CL** 12th
 
@@ -6960,6 +7042,38 @@ This stone grants you immunity to poison, as if wearing a *periapt of proof agai
 **Construction**
 
 **Requirements** Craft Wondrous Item, *neutralize poison*, creator must be 12th level; **Cost** 27,000 gp
+
+**Cracked version**
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 1,500 gp; **Weight** —
+
+This stone grants immunity to one kind of poison, such as arsenic or scorpion venom.
+
+**Resonance**
+
++2 resistance bonus on saving throws against disease.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *neutralize poison*, creator must be 12th level; **Cost** 750 gp
+
+**Flawed version**
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 40,000 gp; **Weight** —
+
+This stone grants immunity to poison and a –4 penalty on saving throws against curses and diseases.
+
+**Resonance**
+
++2 resistance bonus on saving throws against disease.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *neutralize poison*, creator must be 12th level; **Cost** 20,000 gp
 
 ### Game of Fortunate Passing
 
@@ -8574,7 +8688,9 @@ When you take a full-round action to mold this perpetually moist lump of clay in
 
 **Requirements** Craft Wondrous Item, *summon nature’s ally V*; **Cost** 2,250 gp, 90 XP
 
-### Mulberry Pentacle
+### Mulberry Pentacle Ioun Stone
+
+**Normal version**
 
 **Aura** moderate transmutation; **CL** 12th
 
@@ -8589,6 +8705,38 @@ This stone grants you a +5 competence bonus on Bluff and Diplomacy checks.
 **Construction**
 
 **Requirements** Craft Wondrous Item, *eagle’s splendor*, creator must be 12th level; **Cost** 5,000 gp
+
+**Cracked version**
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 400 gp; **Weight** —
+
+This stone grants a +1 competence bonus on Bluff and Diplomacy checks.
+
+**Resonance**
+
++2 competence bonus on Sense Motive checks.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *eagle’s splendor*, creator must be 12th level; **Cost** 200 gp
+
+**Flawed version**
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 8,700 gp; **Weight** —
+
+This stone grants a +5 competence bonus on Bluff and Diplomacy checks and a –2 penalty on Will saving throws.
+
+**Resonance**
+
++2 competence bonus on Sense Motive checks.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *eagle’s splendor*, creator must be 12th level; **Cost** 4,350 gp
 
 ### Murktouch Cloak
 
@@ -8850,22 +8998,6 @@ This elixir is generally stored in a palm-sized crystal jar. When applied under 
 
 **Requirements** Craft Wondrous Item, *true seeing*, creator must be an northern; **Cost** 1,000 gp
 
-### Onyx Rhomboid
-
-**Aura** moderate transmutation; **CL** 12th
-
-**Slot** none; **Price** 24,000 gp; **Weight** —
-
-This stone grants you a +2 enhancement bonus to Constitution. The enhancement bonuses from multiple *onyx rhomboids* stack (up to a maximum of a +6 enhancement bonus to Constitution).
-
-**Resonance**
-
-*Virtue* at will (self only).
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 12,000 gp
-
 ### Onyx Rhomboid (Cracked) Ioun Stone
 
 **Aura** moderate transmutation; **CL** 12th
@@ -8898,6 +9030,24 @@ This stone grants a +2 enhancement bonus to Constitution per stone, stacking up 
 
 **Requirements** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 8,000 gp
 
+### Onyx Rhomboid Ioun Stone
+
+**Normal version**
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 24,000 gp; **Weight** —
+
+This stone grants you a +2 enhancement bonus to Constitution. The enhancement bonuses from multiple *onyx rhomboids* stack (up to a maximum of a +6 enhancement bonus to Constitution).
+
+**Resonance**
+
+*Virtue* at will (self only).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 12,000 gp
+
 ### Oozeclot Unguent
 
 **Aura** faint transmutation; **CL** 3rd
@@ -8910,7 +9060,9 @@ A single dose of *oozeclot unguent* can be applied to a 5-foot-square surface, w
 
 **Requirements** Craft Wondrous Item, *barkskin*; **Cost** 450 gp
 
-### Opalescent White Pyramid
+### Opalescent White Pyramid Ioun Stone
+
+**Normal version**
 
 **Aura** moderate transmutation; **CL** 12th
 
@@ -8925,6 +9077,42 @@ Weapon Focus with the stone’s keyed weapon.
 **Construction**
 
 **Requirements** Craft Wondrous Item, *transformation* or proficiency in the appropriate weapon, creator must be 12th level; **Cost** 5,000 gp
+
+**Cracked version**
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 1,500 gp; **Weight** —
+
+The stone grants the wearer
+
+weapon familiarity with the keyed weapon (it is treated as a
+
+martial weapon for him).
+
+**Resonance**
+
+Weapon Focus with the stone’s keyed weapon.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *transformation* or proficiency in the appropriate weapon, creator must be 12th level; **Cost** 750 gp
+
+**Flawed version**
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 3,000 gp; **Weight** —
+
+This stone grants proficiency with the keyed weapon and gives the wearer a –2 penalty to Dexterity.
+
+**Resonance**
+
+Weapon Focus with the stone’s keyed weapon.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *transformation* or proficiency in the appropriate weapon, creator must be 12th level; **Cost** 1,500 gp
 
 ### Orange Prism (Cracked) Ioun Stone
 
@@ -9194,7 +9382,9 @@ A soul held within the stone can remain there indefinitely as long as the *wayfi
 
 **Requirements** Craft Wondrous Item, *magic jar*, creator must be 12th level; **Cost** 6,000 gp
 
-### Pale Ruby Trillian
+### Pale Ruby Trillian Ioun Stone
+
+**Normal version**
 
 **Aura** moderate transmutation; **CL** 12th
 
@@ -9209,6 +9399,38 @@ Increase by 10 feet the distance the bearer may fall safely (stacks with other e
 **Construction**
 
 **Requirements** Craft Wondrous Item, *cat’s grace*, creator must be 12th level; **Cost** 2,500 gp
+
+**Cracked version**
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 200 gp; **Weight** —
+
+This stone grants a +1 competence bonus on Stealth checks.
+
+**Resonance**
+
+Increase by 10 feet the distance the bearer may fall safely (stacks with other effects that increase this distance, such as making Acrobatics checks or falling into water).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *cat’s grace*, creator must be 12th level; **Cost** 100 gp
+
+**Flawed version**
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 1,600 gp; **Weight** —
+
+This stone grants a +5 competence bonus on Stealth checks and –2 penalty to Dexterity.
+
+**Resonance**
+
+Increase by 10 feet the distance the bearer may fall safely (stacks with other effects that increase this distance, such as making Acrobatics checks or falling into water).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *cat’s grace*, creator must be 12th level; **Cost** 800 gp
 
 ### Panacea Flask
 
@@ -10060,22 +10282,6 @@ This stone grants a +2 enhancement bonus to Intelligence and a –2 penalty to C
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 4,000 gp
 
-### Scarlet and Green Cabochon
-
-**Aura** moderate transmutation; **CL** 12th
-
-**Slot** none; **Price** 10,000 gp; **Weight** —
-
-This stone grants you the Endurance feat.
-
-**Resonance**
-
-+5 bonus on Constitution checks made to stabilize.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, *bull’s strength*,* cat’s grace*, creator must be 12th level; **Cost** 5,000 gp
-
 ### Scarlet and Green Cabochon (Flawed) Ioun Stone
 
 **Aura** moderate transmutation; **CL** 12th
@@ -10091,6 +10297,40 @@ This stone grants the wearer the Endurance feat. Anything that would make the we
 **Construction**
 
 **Requirements** Craft Wondrous Item, *bull’s strength*,* cat’s grace*, creator must be 12th level; **Cost** 4,000 gp
+
+### Scarlet and Green Cabochon Ioun Stone
+
+**Normal version**
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 10,000 gp; **Weight** —
+
+This stone grants you the Endurance feat.
+
+**Resonance**
+
++5 bonus on Constitution checks made to stabilize.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *bull’s strength*,* cat’s grace*, creator must be 12th level; **Cost** 5,000 gp
+
+**Cracked version**
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 1,400 gp; **Weight** —
+
+This stone grants a +4 bonus on one type of check affected by the Endurance feat.
+
+**Resonance**
+
++5 bonus on Constitution checks made to stabilize.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *bull’s strength*,* cat’s grace*, creator must be 12th level; **Cost** 700 gp
 
 ### Scintillating Garment
 
@@ -11259,7 +11499,9 @@ This glowing violet liquid is ice-cold regardless of the surrounding temperature
 
 **Requirements** Craft Wondrous Item, *polar midnight*UM; **Cost** 750 gp
 
-### Turquoise Sphere
+### Turquoise Sphere Ioun Stone
+
+**Normal version**
 
 **Aura** moderate transmutation; **CL** 12th
 
@@ -11274,6 +11516,38 @@ This stone grants you a +5 competence bonus on Ride checks. Any horse or pony yo
 **Construction**
 
 **Requirements** Craft Wondrous Item, *charm animal*,* longstrider*, creator must be 12th level; **Cost** 3,000 gp
+
+**Cracked version**
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 200 gp; **Weight** —
+
+This stone grants a +1 competence bonus on Ride checks.
+
+**Resonance**
+
++2 competence bonus on Handle Animal checks.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *charm animal*,* longstrider*, creator must be 12th level; **Cost** 100 gp
+
+**Flawed version**
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 5,000 gp; **Weight** —
+
+This stone grants a +5 competence bonus to Ride checks.
+
+**Resonance**
+
++2 competence bonus on Handle Animal checks.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *charm animal*,* longstrider*, creator must be 12th level; **Cost** 2,500 gp
 
 ### Tyrant’s Mark
 
@@ -11359,7 +11633,9 @@ For as long as the slave mirror imposes a Charisma penalty upon a victim, the be
 
 **Requirements** Craft Wondrous Item, *bestow curse*, *eagle’s splendor*; **Cost** 25,500 gp, 2,040 XP
 
-### Vermilion Rhomboid
+### Vermilion Rhomboid Ioun Stone
+
+**Normal version**
 
 **Aura** moderate transmutation; **CL** 12th
 
@@ -11374,6 +11650,38 @@ Breathe water for up to 10 minutes per day, useable in 1-minute increments.
 **Construction**
 
 **Requirements** Craft Wondrous Item, *bull’s strength*,* cat’s grace*, creator must be 12th level; **Cost** 5,000 gp
+
+**Cracked version**
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 400 gp; **Weight** —
+
+This stone grants a +1 competence bonus on Acrobatics and Swim checks.
+
+**Resonance**
+
+Breathe water for up to 10 minutes per day, useable in 1-minute increments.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *bull’s strength*,* cat’s grace*, creator must be 12th level; **Cost** 200 gp
+
+**Flawed version**
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 8,000 gp; **Weight** —
+
+This stone grants a +5 competence bonus on Acrobatics and Swim checks and a –2 penalty to Constitution.
+
+**Resonance**
+
+Breathe water for up to 10 minutes per day, useable in 1-minute increments.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *bull’s strength*,* cat’s grace*, creator must be 12th level; **Cost** 4,000 gp
 
 ### Vest of Endure Elements
 
@@ -14003,6 +14311,20 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 **Spells**
 
+1st—*cure light wounds*, *expeditious retreat*, *keen senses*, *polypurpose panacea*, *youthful appearance*
+
+**Ritual**
+
+**Rejuvenating Infusion (Su)** Whenever you imbibe an alchemist extract of a conjuration spell, you can spend this boon as a swift action. If you do, you are healed of 1 point of damage and can ignore the effects of fatigue for 1 round.
+
+### Healer’s Remedies
+
+*The first three pages of this book contain pressed flowers and botanical diagrams relating to brewing desert remedies.*
+
+**Value** 50 gp (115 gp with the preparation ritual)
+
+**Spells**
+
 1st—*cure light wounds*,* expeditious retreat*,* keen senses*,* polypurpose panacea*,* youthful appearance*
 
 **Ritual**
@@ -14058,6 +14380,30 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 **Ritual**
 
 **Blast Finesse (Su)** As an immediate action when you throw a bomb, you can spend this boon to shape the blast by adding up to three 5-foot squares to the area, as long as these spaces are adjacent to the bomb’s normal area of effect.
+
+### Sage’s Workbook
+
+*This book appears to be more of a personal journal than a magical tome. The soft leather binding is worn, and many pages bear the telltale creases of dog-ears and stains of spilled wine.*
+
+**Value** 4,295 gp (4,670 gp with the preparation ritual)
+
+**Spells**
+
+6th—*mass eagle’s splendor*, *transformation*
+
+5th—*baleful polymorph*, *shadow evocation*, *telekinesis*, *teleport*, *vampiric shadow shield*, *wall of force*
+
+4th—*black tentacles*, *charm monster*, *greater flaming sphere*, *mass enlarge person*, *mass reduce person*, *tough crowd*, *wreath of blades*
+
+3rd—*burst of speed*, *dispel magic*, *fly*, *heckle*, *major image*, *stage fright*
+
+2nd—*alter self*, *darkness*, *hold person*, *minor image*, *pilfering hand*, *scorching ray*
+
+1st—*charm person*, *flare burst*, *grease*, *jump*, *mirror strike*, *mount*, *negative reaction*, *silent image*, *true strike*, *unseen servant*
+
+**Ritual**
+
+**Devilishly Reasonable (Su)** You can spend this boon to gain a +5 bonus on a Diplomacy check against a target that has an attitude of friendly or helpful toward you to request aid in the form of the target revealing an important secret.
 
 ### Sage’s Workbook
 

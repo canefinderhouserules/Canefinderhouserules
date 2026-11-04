@@ -1133,3 +1133,16 @@ The warriors of an old empire have perfected the art of fighting with the falcat
 Advances in technology have made archaic armors obsolete by the twentieth century, and modern soldiers concentrate training on firearms and swift feet.
 
 **Trench Warfare (Ex)**: Starting at 3rd level, a trench fighter can select one specific type of firearm (such as a machine gun, revolver, or rifle). He gains a bonus equal to his Dexterity modifier on damage rolls when firing that type of firearm. Every 4 levels thereafter (7th, 11th, and 15th), the trench fighter picks up another type of firearm, gaining these bonuses for those types as well. Furthermore, when behind partial, normal, or improved cover, a trench fighter gains an additional +2 AC bonus from the cover. This ability replaces armor training 1, 2, 3, and 4.
+
+## Additional Weapon Group Members
+
+These weapons also belong to the fighter weapon groups shown.
+
+- **Blades, Heavy**: noble dueling sword, nine-ring broadsword, rhoka sword
+- **Blades, Light**: katar, madu (leather or steel)
+- **Close**: katar, madu (leather or steel)
+- **Firearms**: all one-handed, two-handed and siege firearms
+- **Monk**: nine-ring broadsword
+- **Natural**: unarmed strike and all natural weapons, such as bite, claw, gore, tail and wing
+- **Siege Engines**: all siege engines
+- **Thrown**: highland tribal bolas

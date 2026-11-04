@@ -1754,3 +1754,28 @@ The air bends to your will, allowing you to soar to great heights. You are const
 
 Medium Mediums channel spirits into themselves, using their own bodies as vessels for astral entities spawned from myths and legends. A medium balances his need for the spirits’
 
+## Further Wild Talents
+
+### Primal Aether
+
+**Element** aether; **Type** utility (Su); **Level** 3; **Burn** 0
+
+You can gather strands of aether twisted and warped by your experiences in a magic-scarred desert, and wind them so tightly that they explode, creating a primal magic event with a CR equal to your kineticist level. See pages 12–13 of *Pathfinder Campaign Setting: central sea Magic* for more information on primal magic events.
+
+**Attunement**
+
+See the book **Occult Realms** for more information on elemental saturation and attunements.
+
+To locate the aether saturations deep within the desert, a telekineticist must first locate an etheric storm. Afterwards, she must succeed at both a DC 20 Knowledge (arcana) check and a DC 20 Survival check and spend 1d4 hours navigating the wasteland from the storm’s origin point to the saturation that spawned it. She can then learn the primal aether wild talent.
+
+### Untwisting Iron Infusion
+
+**Element** earth; **Type** substance infusion; **Level** 5; **Burn** 3
+
+**Prerequisite** kinetic fist, member of the Monastery of Untwisting Iron
+
+**Associated Blasts** earth, metal
+
+**Saving Throw** none
+
+Each time you hit a foe with an unarmed strike with your infused blast, increase your DR/adamantine from flesh of stone by 1 until the start of your next turn. You can use this infusion only while also using the kinetic fist form infusion.

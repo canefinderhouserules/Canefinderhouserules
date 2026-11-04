@@ -2531,19 +2531,19 @@ Under the influence of the cold rider, the frigid clutch of winter’s malice en
 
 The mummification process of ancient the desert kingdom results in a variant mummy. Although the desert mummy appears very similar to normal mummies-a desiccated husklike creature, draped in embalming wrap adorned with hieroglyphics-the desert mummy differs slightly in ability. desert mummies do not spread the curse of mummy rot through touch, nor does the very sight of them give rise to paralysis. They are still, however, resilient killing machines.
 
-"desert mummy" is an acquired template that can be added to any living, corporeal creature (hereafter referred to as the base creature). An desert mummy uses all of the base creature’s statistics except as noted here.
+"desert mummy" is an acquired template that can be added to any living, corporeal creature (hereafter referred to as the base creature). A desert mummy uses all of the base creature’s statistics except as noted here.
 
 **Size and Type**: The creature’s type changes to undead, and it gains the augmented subtype. It retains any other subtypes as well, except for alignment subtypes (such as good). Do not recalculate base attack bonuses, saves, or skill points. Size is unchanged.
 
 **Hit Dice**: Increase all current and future Hit Dice to d12.
 
-**AC**: An desert mummy’s natural armor bonus increases by +5.
+**AC**: A desert mummy’s natural armor bonus increases by +5.
 
-**Defensive Abilities**: An desert mummy retains the base creature’s defensive abilities and gains damage reduction.
+**Defensive Abilities**: A desert mummy retains the base creature’s defensive abilities and gains damage reduction.
 
-*Damage Reduction (Ex)* An desert mummy’s body is resilient, providing it with damage reduction 5/-.
+*Damage Reduction (Ex)* A desert mummy’s body is resilient, providing it with damage reduction 5/-.
 
-**Weaknesses**: An desert mummy retains the base creature’s weaknesses and gains energy vulnerability.
+**Weaknesses**: A desert mummy retains the base creature’s weaknesses and gains energy vulnerability.
 
 *Energy vulnerability (Ex)* The mummification process leaves the mummy vulnerable to a single energy type, from which it takes half again as much damage (+50%) as normal. Choose or determine randomly from the following list:
 
@@ -2555,9 +2555,9 @@ The mummification process of ancient the desert kingdom results in a variant mum
 | 9 | Electricity |
 | 10 | Sonic | As an emergency safeguard, it was common for the necromantic embalmers of ancient the desert kingdom to subtly mark the particular energy type to which the mummy would be vulnerable with a separate hieroglyph someplace inconspicuously on the mummy’s body or wrappings. A DC 20 Spot check uncovers the mark, but unless the viewer is capable of comprehending its meaning a DC 20 Decipher Script check is required to unlock its secret. |
 
-**Speed**: An desert mummy’s speeds all decrease by 10 feet (minimum 5 feet). If the base creature has a flight speed its maneuverability class worsenes by one step, to a minimum of clumsy.
+**Speed**: A desert mummy’s speeds all decrease by 10 feet (minimum 5 feet). If the base creature has a flight speed its maneuverability class worsenes by one step, to a minimum of clumsy.
 
-**Attack**: An desert mummy retains all the attacks of the base creature and also gains a slam attack if it did not already have one. If the base creature can use weapons, the desert mummy retains that ability. In addition, all of an desert mummy’s attacks are treated as magical for the purpose of overcoming damage reduction.
+**Attack**: A desert mummy retains all the attacks of the base creature and also gains a slam attack if it did not already have one. If the base creature can use weapons, the desert mummy retains that ability. In addition, all of an desert mummy’s attacks are treated as magical for the purpose of overcoming damage reduction.
 
 **Damage**: The mummification process hardens the mummy’s bones to a stonelike density, granting the mummy a powerful slam attack. The creature’s slam attack deals damage according to its size as listed below.
 
@@ -2571,13 +2571,13 @@ The mummification process of ancient the desert kingdom results in a variant mum
 | Large | 1d8 |
 | Huge | 2d6 |
 | Gargantuan | 2d8 |
-| Colossal | 4d6 | **Special Attacks**: An desert mummy retains the base creature’s special attacks and also gains the following. |
+| Colossal | 4d6 | **Special Attacks**: A desert mummy retains the base creature’s special attacks and also gains the following. |
 
 *Dust Stroke (Su)* A successful natural or slam attack by an desert mummy that drops its victim’s hit points to below -9 does more than just kill the victim, it also disintegrates the victim’s body into a cloud of dust and ash. A* raise dead* spell cannot bring back the victim, but a* resurrection* still works.
 
 *Sudden Burst of Vengeance (Su)* Despite its slow lumbering nature, an desert mummy is capable of lurching forward to attack with a short but surprising, explosion of speed. Twice per day, as a free action, an desert mummy may act as though augmented by a* haste* spell. The effect lasts for a single round.
 
-**Abilities**: An desert mummy’s ability scores are modified as follows: Str +4, Int -2 (minimum 1). As an undead creature, an Osmon mummy has no Constitution score.
+**Abilities**: A desert mummy’s ability scores are modified as follows: Str +4, Int -2 (minimum 1). As an undead creature, a desert mummy has no Constitution score.
 
 **Feats**: The creature gains Improved Natural Attack for each natural attack form as a bonus feat. If the creature previously had a slam attack before adding the template. the creature’s new slam attack also gains the Improved Natural Attack feat.
 

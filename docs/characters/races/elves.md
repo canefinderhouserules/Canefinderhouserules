@@ -298,3 +298,64 @@ the sea-spire elves speak the ancient languages of their ancestors, enemies, and
 - **Fighter**: Add +1 to the fighter’s CMD when resisting a disarm or sunder attempt.
 - **Oracle**: Add +1/6 to the oracle’s level for the purpose of determining the effects of one revelation.
 
+## Further Alternate Racial Traits
+
+### Behind the Veil
+
+Characters with this trait slyly cover their body language and movements by acting in a shadowed or partitioned areas. These characters gain a +2 bonus on Bluff and Sleight of Hand checks while benefiting from concealment or cover.
+
+Dwarves can take this trait in place of stonecunning. Elves, gnomes, and half-elves can take this trait in place of low-light vision. Half-orcs can take this trait in place of intimidating, also gaining the shadow blending fetchling racial trait. Halflings can take this trait in place of weapon familiarity.
+
+### Blended View
+
+*Prerequisite*: low-light vision. Half-drow whose non-drow parent had low-light vision might be blessed with a legacy of versatile senses. Characters with this trait keep their low-light vision but also gain darkvision to a distance of 60 feet.
+
+Elves or gnome can take this trait in place of keen senses. Half-elves can take this trait in place of multitalented.
+
+### Dimdweller
+
+Characters with this trait are at home in gloomy conditions. Whenever these characters benefit from concealment or full concealment due to darkness or dim light, they gain a +2 racial bonus on Intimidate, Perception, and Stealth checks.
+
+Dwarves can take this trait in place of the greed and stonecunning traits. Elves, gnomes, halflings, and half-orcs can take this trait in place of weapon familiarity. Half-elves can take this trait in place of adaptability. Humans can take this trait in place of the skilled trait, also gaining darkvision to a range of 60 feet.
+
+### Dusksight
+
+Characters who operate below canopies or fight in dimly lit caves and shadowy planes of existence learn to use their low-light vision to deduce a foe’s position from the flickers of shadows around a target. When making ranged attacks, characters with this trait can reroll the miss chance granted by cover to any target in dim light, and take the better of the two rolls. The miss chance for total concealment applies normally.
+
+Dwarves can take this trait in place of hatred and darkvision, also gaining low-light vision. Elves, gnomes, half-elves, and halflings can take this trait in place of keen senses. Half-orcs can take this trait in place of weapon familiarity, also gaining low-light vision.
+
+### Poison Minion
+
+Drow sometimes augment their slaves and frontline warriors by making them toxic, causing their bodies to internally produce mawbane poison (see below). The resulting poisonous creature makes a potent weapon in the effort to discourage neighboring monsters. Any creature that hits such a character with a bite attack is immediately exposed to its poison. The save DC for this poison is equal to 10 + 1/2 the character’s Hit Dice + the character’s Constitution modifier.
+
+*Mawbane Poison*—ingested;* save* Fortitude as above;* frequency* 1/round for 4 rounds;* effect* 1d2 Constitution damage;* cure* 1 save.
+
+Dwarves can take this trait in place of defensive training and hardy. Elves can take this trait in place of elven magic and weapon familiarity. Gnomes can take this trait in place of defensive training, gnome magic, and illusion resistance. Half-elves can take this trait in place of elven immunities and keen senses. Half-orcs can take this trait in place of orc ferocity and weapon familiarity. Humans can take this trait in place of skilled. Halfling physiology prevents them from taking this trait. Drow can take this trait in place of drow immunities, light blindness, spell resistance, and weapon familiarity. Wayangs can take this trait in place of light and dark, lurker, and shadow resistance.
+
+### Shadowhunter
+
+Those who understand the connection between shadows and the Negative Energy Plane know how to fight the spirits of darkness. Characters with this trait deal 50% weapon damage to incorporeal creatures when using nonmagical weapons (including natural and unarmed attacks), as if using magic weapons. They also gain a +2 bonus on saving throws to remove negative levels, and recover physical ability damage from attacks by undead creatures at a rate of 2 points per ability score per day (rather than the normal 1 point per ability score per day).
+
+Dwarves, elves, gnomes, half-orcs, and halflings can take this trait in place of weapon familiarity. Half-elves can take this trait in place of elven immunities. Humans can take this trait in place of their bonus feat, also gaining Iron Will as a bonus feat.
+
+### Shadowplay
+
+Some illusionists are experts in manipulating light and darkness. Characters with this trait cast spells with the darkness, light, or shadow descriptor at +1 caster level.
+
+Dwarves can take this trait in place of greed. Elves can take this trait in place of elven magic, also gaining the fetchling’s spell-like abilities racial trait. Gnomes can take this trait in place of gnome magic. Halflings can take this trait in place of weapon familiarity. Half-orcs can take this trait in place of intimidating, also gaining the gnome’s illusion resistance racial trait.
+
+### Voice in the Darkness
+
+*Prerequisite*: Charisma 13+. Characters who practice coercion and intimidation in the underworld or on the Shadow Plane learn to do so in dim light or no light at all. As long as they are in dim light or darker conditions, characters with this trait gain a +2 bonus on Intimidate and Stealth checks.
+
+Dwarves can take this trait in place of stonecunning. Drow and elves can take this trait in place of weapon familiarity. Half-elves can take this trait in place of adaptability. Half-orcs can take this trait in place of intimidating.
+
+### Fey Thoughts
+
+The character sees the world more like a native of the fey realm. Select two of the following skills: Acrobatics, Bluff, Climb, Diplomacy, Disguise, Escape Artist, Fly, Knowledge (nature), Perception, Perform, Sense Motive, Sleight of Hand, Stealth, Swim, or Use Magic Device. The selected skills are always class skills for the character.
+
+A dwarf can take this trait in place of hatred. An elf, gnome, or half-orc can take this trait in place of racial weapon familiarity. A half-elf can take this trait in place of multitalented. A halfling can take it in place of fearless. In the case of humans, this trait replaces the skilled trait (and the human also gains fey magic and low-light vision, as detailed in Fey Magic, above).
+
+### Draconic Consular
+
+Elves serving in the company of dragons are trained to assist and represent their draconic allies. Elves with this racial trait gain a +1 bonus on Diplomacy and Knowledge (arcana) checks. This racial trait replaces keen senses.

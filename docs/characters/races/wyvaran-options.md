@@ -28,3 +28,9 @@ The following options are available to all wyvarans who have the listed favored 
 ## Wyvaran Feats
 
 The following feats are tied to wyvaran physiology and dragon-influenced culture: [Brood Defender](../../rules/feats/brood-defender.md), [Draconian Law](../../rules/feats/draconian-law.md), [Relic Familiarity](../../rules/feats/relic-familiarity.md), [Sincere Flattery](../../rules/feats/sincere-flattery.md), [Tail Maneuvers](../../rules/feats/tail-maneuvers.md), and [Wyvaran Spellcasting](../../rules/feats/wyvaran-spellcasting.md).
+
+## Further Alternate Racial Traits
+
+### Vestigal Wings
+
+When resources are particularly scarce, some young wyvarans develop smaller-than-average wings incapable of flight. However, these wings are perfectly suited for other acrobatic maneuvers. These wyvarans gain a +2 racial bonus on Acrobatics and Climb checks, and one of these is a class skill for them. In addition, they can ignore the first 20 feet of falling damage when they make a successful Acrobatics check. This racial trait replaces flight.

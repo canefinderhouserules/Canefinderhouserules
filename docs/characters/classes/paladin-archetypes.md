@@ -1106,7 +1106,7 @@ For paladins of the goddess of beauty, beauty is synonymous with virtue, and it 
 
 The death cult is an enemy to all life in the world, and as a result many paladins feel called to contain its evil. This oath is identical to the oath against undeath except as noted here.
 
-**Deities**: the dwarven god of war, the watchful god, the goddess of valor, the goddess of the sun and redemption, the god of the forge, Vildeis.
+**Deities**: the dwarven god of war, the watchful god, the goddess of valor, the goddess of the sun and redemption, the god of the forge, and the scarred crusader empyreal.
 
 **Aura against Necromancy (Su)**: At 8th level, the paladin gains a +4 morale bonus on saves against necromancy spells and spell-like abilities. Each ally within 10 feet of her gains a +2 morale bonus on these saves. This ability functions only while the paladin is conscious, not if she is unconscious or dead.
 
@@ -1118,7 +1118,7 @@ This ability replaces aura of resolve instead of aura of life.
 
 The demonic rift threatens all of the world with the uttermost depths of depravity, and so paladins across the world stand firm against it. This oath is identical to the oath against fiends except as noted here.
 
-**Deities**: the dwarven god of war, the watchful god, the goddess of valor, the dwarven god of oaths, Ragathiel, the goddess of the sun and redemption, the god of the forge, Vildeis.
+**Deities**: the dwarven god of war, the watchful god, the goddess of valor, the dwarven god of oaths, the empyreal of vengeance, the goddess of the sun and redemption, the god of the forge, and the scarred crusader empyreal.
 
 **Divine Bond (Su):**: At 5th level, the paladin adds *evil outsider bane* to the list of weapon special abilities that can be added to her weapon and removes* flaming* from the list.
 

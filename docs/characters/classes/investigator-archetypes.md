@@ -666,3 +666,8 @@ Some investigators use their vast knowledge to build machines that replicate the
 
 **Atheist Inspiration (Ex)**: The investigator can use her inspiration on saving throws against divine spells without expending uses of inspiration. This talent counts as the Divine Defiance feat for the purpose of meeting the prerequisites of other feats.
 
+## Other Talents
+
+### Twilight Talon Improvisation
+
+Whenever the investigator deals studied strike damage with an improvised weapon, she can perform a dirty trick combat maneuver targeting that foe as a free action. This combat maneuver provokes attacks of opportunity as normal unless the investigator has a feat or other ability to prevent it.
