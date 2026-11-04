@@ -365,3 +365,111 @@ Slayers can also select these as slayer talents.
 **Shades of Gray (Ex)**: A rogue with this talent uses mental and emotional tricks to protect herself from attempts to discern her alignment. This offers her the benefits of undetectable alignment whenever she chooses, though she must be conscious to maintain the effect.
 
 **Weapon Snatcher (Ex)**: A rogue with this talent can make a Sleight of Hand check in place of a combat maneuver check when attempting to disarm an opponent.
+
+## Other Sources
+
+Additional talents, including third-party ones.
+
+### Rogue Talents
+
+| Talent | Prerequisites | Benefit | Source |
+|---|---|---|---|
+| Abduction Artist | Ambush class feature | Do ambush damage on a successful grapple | — |
+| Acrobatic Charge | — | Make an Acrobatics check to move through a threatened area or an opponents square as part of a charge | — |
+| Advanced Trap Training | Learn ranger trap feat or ranger trap class feature. | Learn how to create one ranger trap | — |
+| Aerial Acrobatics | Rope Mastery | Gain a climb speed while using a rope to climb | — |
+| Armor Mastery | — | Decrease the armor check penalty of your armor by 1 | — |
+| Artful Guile | — | Spend guile points to reduce Guile abilities to free actions | — |
+| Artistic Talent | Cha 10 | Select one spell from the 0-level bard spell list to use three times per day as a spell-like ability | — |
+| Brute Malice | Power Attack, Opportunities Aplenty | Wielding martial weapon two-handed increases opportunities aplenty bonus damage +3 per two levels | — |
+| Calculated Hit | — | Spend one guile point and make a single attack. Roll the attack twice and take the better result | — |
+| Coldhearted Precision | Rogue 4, Opportunities Aplenty | Add competence bonus to hit on opportunities aplenty attacks | — |
+| Combat Escapist | — | Escape grapples or pins as a move action | — |
+| Constellation Aspects | Ability to bind spirits | You gain the ability to bind a Constellation Aspect as though you were an occultist | — |
+| Crippling Missile | Rogue 4, Precise Shot | Hinder opponent’s combat ability using combat maneuvers with thrown weapons | — |
+| Crippling Shot | Rogue 4, Opportunities Aplenty | Choose to make opponents struck by opportunities aplenty attack save or be staggered | — |
+| Deadly Tricks | Rogue 6 | Gain Greater Dirty Trick and Quick Dirty Trick as bonus feats | — |
+| Defenses Aplenty | Opportunities Aplenty | Gain shields proficiency and competence bonus to your AC equal to 1/4 of your opportunities aplenty bonus damage | — |
+| Devastating Sneak | Powerful Sneak, Deadly Sneak, Advanced Rogue Talents | Treat all 1s, 2s and 3s on the sneak attack damage dice as 4s when using the powerful sneak rogue talent. | DDS:RG |
+| Dirty Strike | — | Perform a dirty trick combat maneuver as a free action when he deals sneak attack damage to an enemy | — |
+| Distracted Shot | — | Spend a guile point as a swift action to make that enemy flat-footed | — |
+| Fascinate | Major Artistic Talent, Advanced Rogue Talents | Use the Perform skill to cause one or more creatures to become fascinated. | DDS:RG |
+| Fearsome Tattoos | — | Reveal your tattoos to get a +2 bonus to Intimidate checks | — |
+| Feint Expert | — | Reroll a Feint check | — |
+| Fortify Skill | Ability to bind spirits | Expend spirit’s major granted ability to gain a bonus on next Str- or Dex-based skill check | — |
+| Group Feint | Advanced Rogue Talents, Feint Expert | Make a separate feint check against every threatened enemy. | DDS:RG |
+| Hidden Flight | Fast Stealth | Run or charge while using Stealth | — |
+| Hide Supernatural Abilities | Ability to bind spirits | You gain the Disguise Granted Abilities binder secret and you can spend a swift action to take 10 on the Bluff check | — |
+| Honest Lies | — | Make a Bluff check to avoid lie detection effects | — |
+| Improved Familiar | Advanced Rogue Talents, Familiar, Major Magic, Minor Magic | Gain the Improved Familiar feat. | DDS:RG |
+| Improved Ki Pool | Ki pool talent | Rogue: 1. Use Int as Wis to determine number of ki points in ki pool, plus 1/2 rogue level. Flanking bonuses gained in combat increase by +1 as long as you have at least one point in ki pool. | — |
+| Jaunter’s Filch | Rogue 6, Jaunter’s Hop, worship a deity of trickery or travel | As a move action, the rogue can expend a mote of movement to teleport one unattended object within 25 ft. + 5 ft./2 rogue class levels to any other location within the same range, including into the rogue’s hands. If used on any object attended by a creature, the subject gets a Will Save (DC 10+1/2 the rogue’s class level + her Charisma modifier) to negate and the subject is aware something attempted to teleport the object. This is considered a spell-like ability with a caster level equal to the rogue’s class level. | — |
+| Jaunter’s Hop | Rogue 2, worship a deity of trickery or travel | Each day, the rogue gains a pool of supernatural motes of movement equal to three plus her rogue class level. Using a mote of movement does not provoke an attack of opportunity nor does teleporting. | — |
+| Jaunter’s Mastery | Rogue 10, Jaunter’s Hop, worship a deity of trickery or travel | The rogue may spend multiple moments of chance per round if desired. | — |
+| Jaunter’s Prison | Rogue 4, Jaunter’s Hop, worship a deity of trickery or travel | As a move action, the rogue can expend a mote of movement to create an extradimensional prison for one day per rogue class level where the rogue can store a helpless or wiling creature (without gear) touched in stasis. This is often done when a foe is granted an option between this type of imprisonment and death, a subject will submit to this effect. Willing targets cannot be tricked or magically compelled. This places the subject into a state of suspended animation. | — |
+| Jaunter’s Rein | Rogue 8, Jaunter’s Hop, worship a deity of trickery or travel | As an immediate action, the rogue can expend a mote of movement to cast dimensional anchor as a spell-like ability (CL equal to the rogue’s class level). | — |
+| Jaunter’s Slice | Rogue 4, Jaunter’s Hop, worship a deity of trickery or travel | As a swift action, you can expend a mote of movement to teleport some part of a creatures body into the closest empty square chose by the jaunter, this deals 1d6 points of damage + 1d6 points of damage for every two rogue class levels. A successful Will Save (DC 10+1/2 the rogue’s class level + her Charisma modifier) results in half damage. The actual damage type is subject to GM determination but the default is slashing, resulting from a portal slicing off a portion of the victims exterior, a failed save usually resulting in more internal injury but it is still subject to Damage Reduction unless it is overcome by magic and slicing weapons. | — |
+| Jaunter’s Strike | Rogue 6, Jaunter’s Hop, worship a deity of trickery or travel | As a move action you can expend a mote of movement to momentarily whisk herself off to another location within 100 ft. + 10 ft./rogue class level, returning to her previous location seconds later. Upon activating this ability, you instantaneously appear anywhere within the ability’s range. You have enough time to perform a single standard action before you are transported back to where you were when you active the ability. | — |
+| Jaunter’s Wink | Rogue 8, Jaunter’s Hop, worship a deity of trickery or travel | As a move action, you can expend a mote of movement to dimension door as a spell-like ability, except you have minor selective control over blink’s effects. As a result, you can move through solid objects with no chance of failure. | — |
+| Lethal Acrobatics | — | Use Acrobatics to make an opponent flat-footed | — |
+| Magic Adept | — | Reroll a Use Magic Device check once per day | — |
+| Major Alchemy | Minor Alchemy, Int 11 | Choose a 1st-level formulae from the alchemist formulae list to use | — |
+| Major Artistic Talent | Artistic Talent, Cha 11 | Select one spell from the 1st level Bard spell list to use twice per day as a spell-like ability | — |
+| Maneuver Mastery | — | Use rogue level in place of her base attack bonus for one combat maneuver (selected with this talent) | — |
+| Master Sniper | Advanced Rogue Talents, Stealthy Sniper | Double the sniping penalty to a Stealth check to make a full attack and hide afterward. | DDS:RG |
+| Melee Archer | — | Flank enemies 10 feet away while using a ranged weapon | — |
+| Minor Alchemy | Int 10 | Choose one 1st-level formulae from the Alchemist formulae to memorize | — |
+| Monstrous Aspects | Ability to bind spirits | You gain the ability to bind a Monstrous Aspect as though you were an unbound occultist | — |
+| Mutagen | Major Alchemy, Advanced Rogue Talents | Prepare a mutagen as the alchemist class feature. | DDS:RG |
+| Occult Feat | Ability to bind spirits | Gain a bonus occult feat | — |
+| Opportunistic Archer | Advanced Rogue Talents, Distracted Shot | Flank opponents threatened by two allies with ranged attacks. | DDS:RG |
+| Quick Poison | Advanced Rogue Talents, Swift Poison | Apply poison to a weapon as a swift action. | DDS:RG |
+| Read Tells | — | Once per day, add +10 to a single Sense Motive skill check | — |
+| Samurai Trained | — | Gain the katana exotic weapon proficiency | — |
+| Scroll Rogue | Advanced Rogue Talents, Magic Adept | Gains a +4 bonus to Spellcraft and Use Magic Device checks with scrolls. | DDS:RG |
+| Smarter and Harder | Opportunities Aplenty | Add Intelligence modifier to opportunities aplenty attack rolls when wielding only one light or one-handed weapon | — |
+| Sprint | — | Spend one guile point as a swift action to increase base speed by 20 ft for one round | — |
+| Superior Senses | — | Gain a +10 to Perception rolls to locate creature who benefit from invisibility | — |
+| Tactical Master | Assault Leader, Advanced Rogue Talents | Use Assault Leader an additional 1 time per day for every 5 Rogue levels she possesses. | DDS:RG |
+| Tear the Wound | Two-Weapon Fighting, Opportunities Aplenty | Opponent dealt opportunities aplenty damage from two-weapon fighting is dealt additional damage | — |
+| Throw Off-Balance | — | Force a creature to take a 5-foot step and become flat-footed under certain conditions | — |
+| Trap Training | — | Gain the Learn Ranger Trap feat | — |
+| Trick Shot | — | Perform the feint combat maneuver with a ranged weapon | — |
+| Tricky Combatant | — | Use rogue level as BAB, for dirty tricks; vicious opportunists also receive Improved Dirty Trick as a bonus feat | — |
+| Wall Jumper | — | Run up a vertical surface at a cost of 20 feet of movement per 5 feet ascended | — |
+| Wall Mastery | — | Become an expert at leaping from surface to surface, and perching from walls and corners | — |
+| Wand Rogue | Advanced Rogue Talents, Magic Adept | Activate a wand with a move action. | DDS:RG |
+| Wasp’s Sting | Rogue 6, Coldhearted Precision | Attacks with piercing weapon ignore damage reduction equal to Intelligence modifier | — |
+
+### Advanced Rogue Talents
+
+| Talent | Prerequisites | Benefit | Source |
+|---|---|---|---|
+| Center of Combat | Advanced Talents | Gain a +1 dodge bonus to AC for every adjacent opponent beyond the first. | DDS:RG |
+| Combat Snatcher | Advanced Talents | Use Sleight of Hand bonus instead of CMB when performing a steal combat maneuver. | DDS:RG |
+| Concussive Strike | Advanced Talents | Deal 1 point of damage to target’s Intelligence, Wisdom, and Charisma in conjunction with sneak attack. | DDS:RG |
+| Entanglement of Blades* | Advanced talents | Targets damaged by sneak attack may not make 5-foot-steps | PZO1115 |
+| Eviscerating Strike | Advanced Talents | Use sneak attacks to disembowel an enemy. | DDS:RG |
+| Harrow Strike (Ex) | Advanced talents | 1/day when making a sneak attack, draw a random harrow card. If attack hits, instead of dealing sneak attack damage deal ability damage equal to number of sneak attack dice. | PZO9446 |
+| Jaunter’s Juxtaposition | Advanced talents, Rogue 10, Jaunter’s Hop, worship a deity of trickery or travel | See text | RP:SotD |
+| Jaunter’s Labyrinth | Advanced talents, Rogue 16, Jaunter’s Hop, worship a deity of trickery or travel | See text | RP:SotD |
+| Jaunter’s Ostracism | Advanced talents, Rogue 18, Jaunter’s Hop, worship a deity of trickery or travel | See text | RP:SotD |
+| Jaunter’s Rally | Advanced talents, Rogue 14, Jaunter’s Hop, worship a deity of trickery or travel | See text | RP:SotD |
+| Jaunter’s Removal | Advanced talents, Rogue 14, Jaunter’s Hop, Jaunter’s Slice, worship a deity of trickery or travel | See text | RP:SotD |
+| Jaunter’s Retreat | Advanced talents, Rogue 12, Jaunter’s Hop, worship a deity of trickery or travel | See text | RP:SotD |
+| Jaunter’s Seeking | Advanced talents, Rogue 10, Jaunter’s Hop, worship a deity of trickery or travel | See text | RP:SotD |
+| Jaunter’s Stride | Advanced talents, Rogue 10, Jaunter’s Hop, worship a deity of trickery or travel | See text | RP:SotD |
+| Jaunter’s Terminus | Advanced talents, Rogue 20, Jaunter’s Hop, 4 other Jaunter’s rogue talents, worship a deity of trickery or travel | See text | RP:SotD |
+| Jaunter’s Tomb | Advanced talents, Rogue 18, Jaunter’s Hop, worship a deity of trickery or travel | See text | RP:SotD |
+| Jaunter’s Void | Advanced talents, Rogue 16, Jaunter’s Hop, worship a deity of trickery or travel | See text | RP:SotD |
+| Jaunter’s Wake | Advanced talents, Rogue 12, Jaunter’s Hop, worship a deity of trickery or travel | See text | RP:SotD |
+| Leg Strike | Advanced Talents | Halve an enemy’s movement speed for 1d4 rounds with sneak attack damage. | DDS:RG |
+| Magebane Attack | Advanced Talents | Force an enemy to make concentration checks to cast spell the round after a successful sneak attack. | DDS:RG |
+| Magical Traps | Advanced Talents | Disarm magical traps; gain a bonus to finding and disarming traps. | DDS:RG |
+| Master Tricks | Advanced talents | Select a ninja trick from the list of master tricks in place of a rogue talent. | PZO1118 |
+| Quiet Death | Advanced Talents | Make a Stealth check to prevent others from identifying you as the assailant when you kill, knock unconscious, or stun a creature during a surprise round. | DDS:RG |
+| Reckless Charge | Advanced talents | You can choose to gain an additional +2 bonus to attack and damage when making a charge attack | RP:WotY |
+| Swift Kick | Advanced Talents | As a swift action, spend a guile point to give a swift kick to an adjacent target. | DDS:RG |
+| Thoughtful Reexamining | Advanced talents | Reroll a Knowledge, Sense Motive, or Perception check | PZO1115 |
+| Trap Master (Ex or Su) | Advanced Talents | Gain bonuses and abilities related to trap creation. | DDS:RG |
+| Vengeful | Advanced talents | Gain a +2 morale bonus to attack and damage rolls made against an opponent who has physically injured you | RP:WotY |

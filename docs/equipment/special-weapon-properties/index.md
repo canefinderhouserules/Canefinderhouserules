@@ -73,6 +73,8 @@
 
 **Group X:** A weapon sold in groups of X, all of which have any modifiers or enchantments placed on them. This is normally for thrown weapons designed to be compact and to come in identical groups. “Reloading” this type of weapon, such as recovering 5 javelins stuck in an enemy, requires a full-round action that provokes an attack of opportunity, next to the corpse with the projectiles (the ones that missed are assumed to be close enough that the full-round action also represents fetching them, unless the GM hates you and wants to mess with you).
 
+**Non-Finesseable:** This weapon can’t be used with Weapon Finesse, even if it is a light weapon.
+
 **Non-Melee:** –2 on attacks when using this weapon in melee. If a weapon has non-melee-X, the penalty increases by that X. If it has +X, it basically has less of a penalty.
 
 **Angled:** This weapon’s attacks are unpredictable or easy to move erratically or at unconventional angles, ignoring 2 points of AC from Dexterity or dodge.
