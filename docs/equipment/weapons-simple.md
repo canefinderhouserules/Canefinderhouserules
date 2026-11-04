@@ -18,7 +18,7 @@
 | Traveling kettle | 5 gp | 1d4 | 1d6 | ×2 | — | 2 lbs. | B | monk, Improvised [1d3 fire], see text |
 | Hook hand | 10 gp | 1d3 | 1d4 | x3 | — | 1 lb. | S | disarm, attached, see text |
 | Kunai | 2 gp | 1d3 | 1d4 | 19-20/x2 | 15 ft. | 2 lbs. | B or P | tool |
-| Mace, light | 5 gp | 1d6 | 1d8 | x3 | — | 4 lbs. | B | Sunder, anti-armor, Non-Finneseable. |
+| Mace, light | 5 gp | 1d6 | 1d8 | x3 | — | 4 lbs. | B | Sunder, anti-armor. |
 | Sickle | 6 gp | 1d4 | 1d6 | x2 | — | 2 lbs. | S | trip, Disarm, Tool. |
 | Spring blade | 70 gp | 1d2 | 1d3 | x3 | 10 ft. | 1 lb. | P or S | Quick. |
 | Wooden stake | — | 1d3 | 1d4 | x2 | 10 ft. | 1 lb. | P | Improvised. |

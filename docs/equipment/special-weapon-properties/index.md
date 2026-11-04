@@ -40,7 +40,6 @@
 
 **Anti-Armor:** Ignora 2 de ca de armadura pero solo de objetos o armadura natural, no obtenida por magia.
 
-**Non-Finneseable:** no se puede finnesear xd
 
 **Lunge Weapon:** Podes usar los efectos de la feat Lunge con esta arma.
 
