@@ -43,7 +43,7 @@
 
 **Lunge Weapon:** You can use the effects of the Lunge feat with this weapon.
 
-**Silent:** Using this weapon from stealth reduces the penalty by 10.
+**Silent:** When you use this ranged weapon to snipe with the Stealth skill, the –20 penalty on your Stealth check to stay hidden is reduced to –10.
 
 **Unarmed:** An “Unarmed” weapon increases you to the next unarmed damage die if you have a class that improves your unarmed damage (such as monk or brawler). This doesn’t take you above the maximum die you can obtain (for a monk, it can’t take you above 2d10 at 20th level).
 
@@ -94,5 +94,3 @@
 **Double-Barreled:** the two barrels can be fired independently as separate attacks, or both can be fired at once as a standard action (the attack action). A double shot that fires bullets is inaccurate, and takes a –2 penalty on both attacks. A double shot that fires bullets targets only a single creature. It doesn’t multiply Vital Strike, and it doesn’t applies sneak attack or any other type of precision damage more than once.
 
 **Long Range:** –3 on attacks at 30 ft. or less.
-
-**Sledgehammer:** A sledgehammer deals 1d4 points of damage if light, 1d6 if one-handed, and 1d8 if two-handed.

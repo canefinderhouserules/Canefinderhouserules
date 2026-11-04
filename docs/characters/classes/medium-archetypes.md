@@ -6,9 +6,7 @@ The techniques used by most mediums to become vessels for the spirits of legend 
 
 Some mediums channel the power of nature spirits called kami rather than the spirits of legend. See Bestiary 3 for more information on kami.
 
-**Kami Channeler (Su)**: A kami medium channels the kami at locations different from where a normal medium channels his spirits. The kami medium channels the dosojin (which acts as the trickster) at crossroads and other major roadway milestones; the fukujin (which acts as the marshal) at ornamental shrubs and bonsai trees; the kaminari (which acts as the champion)
-
-in the midst of storms; the suijin (which acts as the hierophant) at pure lakes, ponds, springs, and wells; and the zuishin (which acts as the guardian) at significant gates, doorways, and torii. The kami medium does not have access to the archmage legend. In exchange, while he channels a hierophant, he gains access to a domain of his choice, using his medium level as his cleric level, and he gains twice as many spells with the hierophant’s lesser power. This ability alters spirit.
+**Kami Channeler (Su)**: A kami medium channels the kami instead of normal spirits: the dosojin (which acts as the trickster), the fukujin (which acts as the marshal), the kaminari (which acts as the champion), the suijin (which acts as the hierophant), and the zuishin (which acts as the guardian). The kami medium does not have access to the archmage legend. In exchange, while he channels a hierophant, he gains access to a domain of his choice, using his medium level as his cleric level, and he gains twice as many spells with the hierophant’s lesser power. This ability alters spirit.
 
 ??? note "Original rule"
 
@@ -34,7 +32,7 @@ This ability replaces haunt channeler, location channel, and connection channel.
 
 Sometimes a departed soul destined for legend gains a second chance at life by possessing his own revived body.
 
-**Channel Self (Su)**: A reanimated medium is essentially a bodiless spirit using influence to possess his own spiritless body. “The reanimated medium” refers to this spirit. Unlike a normal medium, a reanimated medium becomes more powerful the more influence it has over its body. Each day, the reanimated medium can perform a seance at a location as normal to focus on one of his potential future legends. He channels that legendary potential as strongly as possible into his body. The spirit gains 3 points of influence over his body, to a maximum of 6 points. Since he is his own possessing spirit, he doesn’t lose control at 5 or more points of influence, though he still suffers the legend’s influence penalty as normal at 3 or more points of influence. All effects and abilities that normally increase or decrease influence (such as spirit surge and spirit powers) have the opposite effect on a reanimated medium (for instance, propitiation increases influence by 1 point and spirit surge reduces influence by 1 point); this does not apply to the new abilities from the reanimated medium archetype. A reanimated medium can’t choose to channel a weaker spirit to avoid losing influence from using spirit surge. The body of a reanimated medium who reaches 0  points of influence enters a deathlike coma and is helpless for 24 hours, after which the reanimated medium reverts to 1 point of influence if the body is still alive, but can’t perform a seance for another 24 hours.
+**Channel Self (Su)**: A reanimated medium is essentially a bodiless spirit using influence to possess his own spiritless body. “The reanimated medium” refers to this spirit. Unlike a normal medium, a reanimated medium becomes more powerful the more influence it has over its body. Each day, the reanimated medium can perform a seance as normal to focus on one of his potential future legends. He channels that legendary potential as strongly as possible into his body. The spirit gains 3 points of influence over his body, to a maximum of 6 points. Since he is his own possessing spirit, he doesn’t lose control at 5 or more points of influence, though he still suffers the legend’s influence penalty as normal at 3 or more points of influence. All effects and abilities that normally increase or decrease influence (such as spirit surge and spirit powers) have the opposite effect on a reanimated medium (for instance, propitiation increases influence by 1 point and spirit surge reduces influence by 1 point); this does not apply to the new abilities from the reanimated medium archetype. A reanimated medium can’t choose to channel a weaker spirit to avoid losing influence from using spirit surge. The body of a reanimated medium who reaches 0  points of influence enters a deathlike coma and is helpless for 24 hours, after which the reanimated medium reverts to 1 point of influence if the body is still alive, but can’t perform a seance for another 24 hours.
 
 A character who selects the reanimated medium archetype after 1st level can do so only after dying; at the GM’s discretion, a dead character of another class with an intact body who has earned enough experience points to level up can take a level in medium and gain the reanimated medium archetype, and a dead medium might be able to gain this archetype. In any case, being revived from gaining the reanimated medium archetype does not impart any negative levels or other ill effects. This ability alters spirit.
 
@@ -52,7 +50,7 @@ A character who selects the reanimated medium archetype after 1st level can do s
 
 A relic channeler carries relics of legend around with her. She need not rely on locating the specific spirits that she seeks, but the relics limit the number of unique spirits she can channel.
 
-**Relics (Su)**: A relic channeler begins with one relic for each of the six spirit legends. Each relic corresponds to a specific spirit, and could be any type of psychically resonant item—from a runestone with a symbol related to that spirit to a bone remnant from a legendary hero. Once a relic channeler selects a choice for taboos and spirit powers (such as archmage arcana and legendary champion), those choices remain in effect every time she channels that legend; unlike normal mediums, she can’t select a different option each time. A relic channeler can’t choose to channel a weaker spirit to reduce her influence from spirit surge. She doesn’t need to find an appropriate location to channel her spirits, since she can simply use her relics. If she loses one of her relics, she is incapable of channeling that legend until she recovers the relic. If the relic is destroyed, the relic channeler can use her strong bond with the spirit of that relic to forge a new relic for that spirit from her own essence. The process takes 1 week of intense seances and 500 gp per medium level she possesses. This ability alters spirit.
+**Relics (Su)**: A relic channeler begins with one relic for each of the six spirit legends. Each relic corresponds to a specific spirit, and could be any type of psychically resonant item—from a runestone with a symbol related to that spirit to a bone remnant from a legendary hero. Once a relic channeler selects a choice for taboos and spirit powers (such as archmage arcana and legendary champion), those choices remain in effect every time she channels that legend; unlike normal mediums, she can’t select a different option each time. A relic channeler can’t choose to channel a weaker spirit to reduce her influence from spirit surge. If she loses one of her relics, she is incapable of channeling that legend until she recovers the relic. If the relic is destroyed, the relic channeler can use her strong bond with the spirit of that relic to forge a new relic for that spirit from her own essence. The process takes 1 week of intense seances and 500 gp per medium level she possesses. This ability alters spirit.
 
 **Powerful Bond (Su)**: Because of habitually channeling the same spirits and possessing physical links to the spirits’ former lives and legends, a relic channeler possesses a strong bond with her spirits. She receives the benefit of the Alertness feat whenever she is suffering a spirit’s influence penalty. She chooses two spells of each level with the archmage arcana and divine surge spirit powers instead of one, two exotic weapon proficiencies with champion’s prowess instead of one, three combat feats with legendary champion instead of two, four skills with trickster’s edge instead of two, 1 extra use of Martial Flexibility with the champion, and 2 uses of spirit surge per round with the marshal. This ability alters spirit.
 
@@ -130,7 +128,7 @@ This ability replaces astral beacon.
 
 ## New Legendary Spirits
 
-Gaining the ability to channel one of the following legendary spirits involves performing a certain deed, swearing an oath, and succeeding at an ability check (DC = 10 + 1/2 the medium’s level). If the medium breaks the oath, the spirit will no longer answer when he calls. If the medium attempts to call another spirit of the legendary spirit’s legend, the legendary spirit similarly departs forever. A legendary spirit grants new abilities but otherwise uses the same rules as the original legend. For instance, the Butcher replaces the favored locations, taboos, lesser spirit power, and intermediate spirit power from the champion spirit but still uses the champion’s spirit bonus, seance boon, influence penalty, greater spirit power, and supreme spirit power.
+Gaining the ability to channel one of the following legendary spirits involves performing a certain deed, swearing an oath, and succeeding at an ability check (DC = 10 + 1/2 the medium’s level). If the medium breaks the oath, the spirit will no longer answer when he calls. If the medium attempts to call another spirit of the legendary spirit’s legend, the legendary spirit similarly departs forever. A legendary spirit grants new abilities but otherwise uses the same rules as the original legend. For instance, the Butcher replaces the taboos, lesser spirit power, and intermediate spirit power from the champion spirit but still uses the champion’s spirit bonus, seance boon, influence penalty, greater spirit power, and supreme spirit power.
 
 ### Astral Archmage Echo (Archmage)
 
@@ -164,8 +162,6 @@ The Butcher is a spirit of blood, violence, murder, and pain.
 
 **Gaining Favor**: To gain the Butcher’s favor, you must deal a total number of hit points of bleed damage equal to twice your medium level to two dozen non-mindless living creatures, inflicting as much pain and suffering as possible. You must next vow to never use the Heal skill or magical healing to heal or treat another creature, then succeed at a Strength check.
 
-**Favored Locations**: Abattoirs, battlefields, execution sites.
-
 **Taboo**: If you accept a taboo while channeling the Butcher, you must not attack with bludgeoning weapons in combat and must never deal nonlethal damage. You must also kill all your defeated foes in combat, although you can accept surrender or take prisoners for the purpose of torturing and then killing those prisoners later (but before the Butcher departs).
 
 **Bladesharp (Lesser, Ex)**: You gain proficiency in all slashing martial weapons and the spiked chain. Any slashing weapon or spiked chain you wield gains the deadly weapon special quality (*Ultimate Equipment* 22) and on a critical hit deals an amount of bleed damage equal to the weapon’s critical multiplier – 1.
@@ -192,8 +188,6 @@ The Deceiver is the prince of prevarication.
 
 **Spirit Bonus**: When you channel the Deceiver, your spirit bonus applies to Charisma checks, Charisma-based skill checks, and Will saves against compulsions and divinations.
 
-**Favored Locations**: Bordellos, courtrooms, gambling dens, taverns.
-
 **Skilled Deceiver (Lesser, Ex)**: You add 1/2 your medium level (minimum 1) as a bonus on all Bluff checks.
 
 **Shift Blame (Greater, Ex)**: When you provoke an attack of opportunity from a given enemy, you can divert that attack of opportunity to another target of your choice within the attacker’s reach. Afterward, the foe whose attack you diverted becomes immune to this ability for 24 hours. When you target a creature with a spell, spell-like ability, or supernatural ability, or when you fail a Bluff, Diplomacy, or Intimidate check, you can allow the Deceiver to gain 1 point of influence over you to make the target believe another creature adjacent to you created the effect or attempted to lie to, convince, or bully the target.
@@ -203,8 +197,6 @@ The Deceiver is the prince of prevarication.
 The Devilborn Scion is the spirit of a would-be ruler of a great city, slain atop its towering monument in a failed coup. He channels guile and ambition.
 
 **Gaining Favor**: To gain the scion’s favor, you must climb atop the towering monument in a great city. There, you must pour oil down the statue’s cheeks, then set the oil afire. You must vow to seek political influence, and then succeed at a Charisma check (DC = 10 + half your medium level). Tieflings gain a +5 bonus on this check.
-
-**Favored Locations**: Monuments, noble homes, thieves’ dens, anywhere in the spirit’s home city.
 
 **Taboo**: The scion’s pride demanded that his victims know whose hand they died by. If you accept a taboo while channeling the scion, you must not attack any foe who is completely unaware of your presence.
 
@@ -252,8 +244,6 @@ A farmer who was blessed by the great one-eyed giants of an island of hero-gods,
 
 **Spirit Bonus**: When you channel the vintner, your spirit bonus applies on Wisdom checks, Wisdom-based skill checks, and saving throws against spells with the evil descriptor.
 
-**Favored Locations**: Farms, gardens, orchards, and wooded areas.
-
 **Taboo**: If you accept a taboo while channeling the vintner, you may not deal lethal damage.
 
 **Student of the Earth (Lesser, Su)**: This power functions as the archmage arcana spirit power, except that you add spells from the druid spell list instead of the sorcerer/wizard spell list. When you cast these spells, they count as divine.
@@ -281,8 +271,6 @@ The Heretic warps the faith of a good deity.
 **Spirit Bonus**: When you channel the Heretic, your spirit bonus applies to Charisma checks, Charisma-based skill checks, and Will saves.
 
 **Seance Boon**: For the purpose of spells and effects that have an effect based on which deity you worship, you count as worshiping the deity chosen in your vow. For the purpose of divinations, your alignment is the same as the deity’s, and you have an aura corresponding to that deity’s alignment as if you were a cleric of that deity. This doesn’t alter other effects based on alignment, like smite evil.
-
-**Favored Locations**: Hidden shrines, repositories of dark knowledge, sacrificial altars, temples.
 
 **Heresy (Lesser, Su)**: This functions as the divine surge lesser spirit power but you gain the following inquisitor spells at the indicated spell levels, instead of selecting a set of cleric spells each day: 0—[*guidance*](../../magic/spells/guidance.md); 1st—[*divine favor*](../../magic/spells/divine-favor.md); 2nd— [*castigate*](../../magic/spells/castigate.md); 3rd—[*terrible remorse*](../../magic/spells/terrible-remorse.md); 4th—[*reprobation*](../../magic/spells/reprobation.md); 5th— *mass castigate*; 6th—[*overwhelming presence*](../../magic/spells/overwhelming-presence.md). Whenever you use your spirit surge on a skill check or ability check to convince or trick someone into perverting his faith in the good deity you chose with your vow, the Heretic is pleased and does not gain the usual point of influence over you.
 
@@ -325,8 +313,6 @@ The Lich is a spirit of power over death and the undead.
 **Gaining Favor**: To gain the Lich’s favor, you must research fragments of how to create a personal phylactery and then outline a plan for lichdom. This requires spending 2 months visiting libraries and sites of necromantic power, followed by a successful Intelligence check. You must then vow to never destroy an intelligent undead creature, even if it attacks you first (though it is perfectly acceptable to control it with magic).
 
 **Seance Boon**: You gain a +4 bonus on damage rolls with your necromancy spells.
-
-**Favored Locations**: Battlefields, graveyards, tombs.
 
 **Taboos**: If you accept a taboo while channeling the Lich, you must not use beneficial spells on living creatures (except yourself if you are a living creature).
 
@@ -434,8 +420,6 @@ The Terminator is a stoic spirit of relentless death.
 
 **Gaining Favor**: To gain the Terminator’s favor, you must engage in over 1 hour (600 combat rounds) of actual life-or-death battle in the same day, refusing to cease because of either fatigue or mercy. In addition to the battles themselves, this requires a Constitution check. If you succeed, you must swear an oath to never retreat from combat and to eschew all mercy, always killing unconscious, captured, or surrendered foes, regardless of extenuating circumstances.
 
-**Favored Locations**: Arenas, fortifications under siege, places of violence.
-
 **Bloodless (Lesser, Su)**: You automatically stabilize when at negative hit points, and you are killed only if your negative hit point total exceeds double your Constitution score. In addition, you can allow the Terminator to gain 1 point of influence over you to automatically end any bleed or blood drain effect or effect with the pain descriptor. Doing so is not an action, so you can do this even if you are unconscious.
 
 **Emotionless Killer (Intermediate, Su)**: You are immune to emotion effects, including fear, but you can’t benefit from morale bonuses or bardic performances.
@@ -445,8 +429,6 @@ The Terminator is a stoic spirit of relentless death.
 The Warmonger is a spirit of unbridled strife, inspiring others to throw their lives away in pursuit of hatred and vengeance.
 
 **Gaining Favor**: To gain the Warmonger’s favor, you must intentionally incite a war or blood feud between two groups (which could be nations but don’t have to be) that results in at least 36 deaths. You must then swear an oath to never allow quarter or truce or to compromise with those who will not meet your demands, and succeed at a Charisma check.
-
-**Favored Locations**: Barracks, battlefields, fortresses, throne rooms.
 
 **No Mercy (Lesser, Su)**: You can use spirit surge on your own attack rolls or those of allies within 30 feet who participated in your seance, as long as you have line of sight and line of effect. You can also use your spirit surge when an enemy takes an action that would provoke an attack of opportunity from you or such an ally who threatens that enemy. If you do so, you or an ally of your choice who threatens that enemy can make an attack of opportunity and add your spirit surge, and that attack of opportunity does not count against your normal limit for the round or your ally’s. When you use a spirit surge on an attack roll and the attack hits, the spirit surge benefit also applies to the damage roll.
 
@@ -498,13 +480,15 @@ Some mediums delve deeply into the spirit world and make contact with entities t
 
 ## Third Eye Channeler
 
-Normally, storied figures who simply disappear don't form legendary spirits, but a long-dead archmage once created an astral reflection of himself from which he can draw additional power. This echo now serves as an appropriate spirit for well-trained mediums to channel. The echo's legendary spirit is more powerful and willful than most legendary spirits, however; it embraces only mediums who visit distinct locations and master opening their third eyes.
+Normally, storied figures who simply disappear don't form legendary spirits, but a long-dead archmage once created an astral reflection of himself from which he can draw additional power. This echo now serves as an appropriate spirit for well-trained mediums to channel. The echo's legendary spirit is more powerful and willful than most legendary spirits, however; it embraces only mediums who master opening their third eyes.
 
-**Legend of the Echo (Su)**: A third eye channeler gains access to the astral archmage echo legendary spirit (see below) instead of an archmage spirit. The lesser power of this spirit grants him 2 spells of each level instead of 1, and he gains the wizard’s bonus feats class feature. This ability alters the spirit ability.
+**Legend of the Echo (Su)**: A third eye channeler gains access to the astral archmage echo legendary spirit (see below) instead of an archmage spirit. The lesser power of this spirit grants him 2 spells of each level instead of 1. This ability alters the spirit ability.
 
 ??? note "Original rule"
 
     **Legend of the Echo (Su)**: A third eye channeler gains access to the astral archmage echo legendary spirit (see below) instead of an archmage spirit. This ability alters the spirit ability.
+
+**Bonus Feats**: At 5th, 10th, 15th, and 20th level, a third eye channeler gains a bonus feat. At each such opportunity, he can choose a metamagic feat, an item creation feat, or [Spell Mastery](../../rules/feats/spell-mastery.md). He must still meet all prerequisites for a bonus feat, including caster level minimums.
 
 **Third Eye (Sp, Su)**: A third eye channeler knows one fewer knack than his level would normally indicate, but he gains [Third Eye](../../rules/feats/third-eye.md) as a bonus feat. Beginning at 2nd level, when he selects a taboo, the third eye channeler can use his third eye for 2 minutes per character level each day, instead of gaining free uses of spirit surge. This ability alters knacks and taboo.
 
@@ -696,7 +680,7 @@ Ancestral spirit channelers are mediums who practice an ancient philosophy teach
 
 **Iron Spirit**: An ancestral spirit channeler gains [Iron Will](../../rules/feats/iron-will.md) as a bonus feat at 1st level and [Improved Iron Will](../../rules/feats/improved-iron-will.md) at 10th level.
 
-**Spiritual Invocation (Su)**: Rather than channel the legend of a single spirit for 24 hours, an ancestral spirit channeler can invite a nearby local spirit into her body for 24 hours. This functions exactly like the spirit dance ability of the spirit dancer medium archetype, except the ancestral spirit channeler doesn't need to find an appropriate location to channel her spirits since she invites nearby spirits into her body instead of channeling a legend. This alters spirit and replaces spirit bonus and spirit surge.
+**Spiritual Invocation (Su)**: Rather than channel the legend of a single spirit for 24 hours, an ancestral spirit channeler can invite a nearby local spirit into her body for 24 hours. This functions exactly like the spirit dance ability of the spirit dancer medium archetype, since she invites nearby spirits into her body instead of channeling a legend. This alters spirit and replaces spirit bonus and spirit surge.
 
     **Spiritual Invocation (Su)**: Rather than channel the legend of a single spirit for 24 hours, an ancestral spirit channeler can invite a nearby local spirit into her body for 24 hours. This functions exactly like the spirit dance ability of the spirit dancer medium archetype, except the ancestral spirit channeler doesn't need to find an appropriate location to channel her spirits since she invites nearby spirits into her body instead of channeling a legend. This alters spirit and replaces spirit bonus and spirit surge.
 
@@ -710,7 +694,7 @@ Fate vessels are powerful mediums who are sensitive to the presence and desires 
 
 **Class Skills**: A fate vessel adds Knowledge (geography) and Knowledge (nature) to his list of class skills, instead of Perform. This alters the medium's class skills.
 
-**Fate Spirit (Su)**: Rather than channeling spirits, a fate vessel channels fate spirits, otherworldly entities that walk among mortals. This functions like channeling a spirit, except instead of requiring a favored location to channel a fate spirit, a fate vessel must offer the spirit a sacrifice worth at least 50 gp per Hit Die the fate vessel has. Alternatively, the fate vessel can instead accept 1 point of burn, as per the kineticist class ability, instead of sacrificing material wealth. While channeling a fate spirit, the fate vessel gains the domain powers of two domains, chosen from the druid animal and terrain domains and the following cleric domains: Air, Animal, Community, Darkness, Death, Destruction, Earth, Fire, Healing, Knowledge, Protection, Rune, Strength, Sun, Trickery, War, Water, or Weather. The fate vessel has an effective cleric or druid level equal to his medium level for the purpose of this ability. In addition, he adds all spells from his chosen domain that are of a spell level he can cast (including modifications to his spellcasting from the archmage arcana or divine surge lesser spirit powers) to his medium spell list and medium spells known as medium spells of their domain spell level. A fate vessel cannot invite allies to a seance to summon a fate spirit, and by channeling one, the fate vessel allows the entity to gain 2 points of influence over him. If any sentient creature that doesn't revere the fate spirits witnesses the fate vessel's seance, both creatures become permanently cursed with a –2 penalty on all d20 rolls and checks (as per [*bestow curse*](../../magic/spells/bestow-curse.md)) and the attempt fails. This ability alters spirit.
+**Fate Spirit (Su)**: Rather than channeling spirits, a fate vessel channels fate spirits, otherworldly entities that walk among mortals. This functions like channeling a spirit, except a fate vessel must offer the spirit a sacrifice worth at least 50 gp per Hit Die the fate vessel has. Alternatively, the fate vessel can instead accept 1 point of burn, as per the kineticist class ability, instead of sacrificing material wealth. While channeling a fate spirit, the fate vessel gains the domain powers of two domains, chosen from the druid animal and terrain domains and the following cleric domains: Air, Animal, Community, Darkness, Death, Destruction, Earth, Fire, Healing, Knowledge, Protection, Rune, Strength, Sun, Trickery, War, Water, or Weather. The fate vessel has an effective cleric or druid level equal to his medium level for the purpose of this ability. In addition, he adds all spells from his chosen domain that are of a spell level he can cast (including modifications to his spellcasting from the archmage arcana or divine surge lesser spirit powers) to his medium spell list and medium spells known as medium spells of their domain spell level. A fate vessel cannot invite allies to a seance to summon a fate spirit, and by channeling one, the fate vessel allows the entity to gain 2 points of influence over him. If any sentient creature that doesn't revere the fate spirits witnesses the fate vessel's seance, both creatures become permanently cursed with a –2 penalty on all d20 rolls and checks (as per [*bestow curse*](../../magic/spells/bestow-curse.md)) and the attempt fails. This ability alters spirit.
 
 ??? note "Original rule"
 
@@ -730,7 +714,7 @@ Fate vessels are powerful mediums who are sensitive to the presence and desires 
 
 **Unarmed Strike**: A medium of the master gains [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat.
 
-**Dedicated Spirit (Su)**: A medium of the master can channel only a champion spirit. A medium of the master can channel that spirit in places of quiet introspection, such as an underground grotto, peaceful glade, or windswept peak, in addition to a champion spirit's favored locations. This alters spirit.
+**Dedicated Spirit (Su)**: A medium of the master can channel only a champion spirit. This alters spirit.
 
 **Dedicated Surge (Su)**: A medium of the master can use her spirit surge ability twice per day without incurring any influence (this stacks with any additional uses she gains from accepting a taboo, starting at 2nd level). In addition, when she uses spirit surge, the die she rolls is one step larger (1d8 at 1st level, 1d10 at 10th level, and 2d6 at 20th level). This alters spirit surge.
 

@@ -110,7 +110,7 @@
 | Bow, thorn | 50 gp | 1d4 | 1d6 | x3 | 40 ft. | 2 lbs. | P | — |
 | Crossbow, crank (heavy) | 400 gp | 1d8 | 1d10 | 19-20/x2 | 120 ft. | 12 lbs. | P | Anti-Armor, see text. |
 | Crossbow, crank (light) | 250 gp | 1d6 | 1d8 | 19-20/x2 | 80 ft. | 6 lbs. | P | Anti-Armor, see text. |
-| Crossbow, double | 300 gp | 1d6 | 1d8 | 19-20/x2 | 80 ft. | 18 lbs. | P | Anti-Armor, see text (but with a penalty 2 lower than stated there). |
+| Crossbow, double | 300 gp | 1d6 | 1d8 | 19-20/x2 | 80 ft. | 18 lbs. | P | Anti-Armor, see text. |
 | Crossbow, hand | 100 gp | 1d3 | 1d4 | 18-20/x2 | 30 ft. | 2 lbs. | P | Anti-armor, see text. |
 | Crossbow, launching | 75 gp | — | — | — | 30 ft. | 8 lbs. | — | see text (may be reduced to a move action instead of a full-round action) |
 | Crossbow, repeating heavy | 400 gp | 1d8 | 1d10 | 19-20/x2 | 120 ft. | 12 lbs. | P | Anti-armor, see text. |

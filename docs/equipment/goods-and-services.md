@@ -56,6 +56,12 @@ You can pour a pint of oil on the ground to cover an area 5 feet square, provide
 
 **Shovel**: If a shovel is used in combat, treat it as a one-handed improvised weapon that deals bludgeoning damage equal to that of a club of its size.
 
+**Sledge**: This heavy, two-handed hammer is normally used in carpentry and other construction tasks, and is also useful for driving in tent stakes to help secure campsites in areas with strong winds. If used in combat, treat it as a two-handed improvised weapon that deals 1d8 points of damage.
+
+??? note "Original rule"
+
+    **Sledge**: This heavy, two-handed hammer is normally used in carpentry and other construction tasks, and is also useful for driving in tent stakes to help secure campsites in areas with strong winds. If used in combat, treat it as an improvised earth breaker, which deals 2d6 points of damage.
+
 **Spyglass**: Objects viewed through a spyglass are magnified to twice their size. Characters using a spyglass take a –1 penalty on Perception skill checks per 20 feet of distance to the target, if the target is visible.
 
 **Torch**: A torch burns for 1 hour, shedding normal light in a 20-foot radius and increasing the light level by one step for an additional 20 feet beyond that area (darkness becomes dim light and dim light becomes normal light). A torch does not increase the light level in normal light or bright light. If a torch is used in combat, treat it as a one-handed improvised weapon that deals bludgeoning damage equal to that of a gauntlet of its size, plus 1 point of fire damage.

@@ -1,6 +1,6 @@
 # Canefinder Shifter
 
-This class mixes the [Legendary Shifter](legendary/legendary-shifter.md) with the [Ultimate Wilderness shifter](shifter-ultimate-wilderness.md): it keeps the Legendary Shifter’s shifter shape, uses shifter claws instead of shifter evolution, and has improved aspects. Both original classes are kept for reference.
+Shifters are masters of the wild who focus their supernatural powers inward to gain control over their own forms, taking on the traits of the animals to which they are attuned. The [Legendary Shifter](legendary/legendary-shifter.md) and [Ultimate Wilderness shifter](shifter-ultimate-wilderness.md) this class is based on are kept for reference.
 
 **Alignment**: Any.
 
@@ -55,7 +55,7 @@ A shifter speaks Druidic, a secret language known only to druids and shifters, w
 
 #### Shifter Aspect (Su)
 
-At 1st level, a shifter gains their first aspect—a category of animal to which their body and soul have become supernaturally attuned. They can shift into their aspect’s form (see Aspects) as a swift action, while ending the effect is a free action that can be taken only on the shifter’s turn. A shifter can maintain their aspect indefinitely, and a shifter may switch which aspect’s form they are taking as a swift action.
+At 1st level, a shifter gains their first aspect—a category of animal to which their body and soul have become supernaturally attuned. They can shift into their aspect’s form (see Aspects) for a number of minutes per day equal to 3 + their shifter level. The duration need not be consecutive but must be spent in 1-minute increments. Shifting into a form is a swift action, while ending the effect is a free action that can be taken only on the shifter’s turn. A shifter may switch which aspect’s form they are taking as a swift action.
 
 Until a shifter reaches 9th level and gains the chimeric aspect class feature, they can assume only one form at a time. Shifting to a new aspect (or aspects, in the case of chimeric aspects or greater chimeric aspects) ends all forms currently manifested. The forms of aspects are not polymorph effects, and the shifter does not lose the benefits of a form while affected by polymorph effects.
 
@@ -134,8 +134,6 @@ At 14th level, when a shifter uses their shifter aspect ability to take on a for
 #### Master of the Many Forms (Ex)
 
 At 20th level, a shifter may use shifter shape at will and gains the shapechanger subtype, becoming immune to any transmutation effect unless they are willing to accept it.
-
-**Speed Shift, Lightning Shift, and Instant Shift**: A Canefinder shifter doesn’t have these class features. She can use shifter shape faster with [Quick Wild Shape](../../rules/feats/quick-wild-shape.md).
 
 ## Archetypes
 

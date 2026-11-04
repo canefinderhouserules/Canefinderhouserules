@@ -87,7 +87,11 @@ Adventurers are always on the look out for new or strange weapons to give them a
 
 **Chakram**: The chakram is a simple, elegant, and highly portable thrown weapon. It is a flat, open-centered metal discus with a sharpened edge. You can wield the chakram as a melee weapon, but it is not designed for such use; you take a –1 penalty on your attack roll with the weapon and must make a DC 15 Reflex save or cut yourself on the blade (half damage, no Strength modifier). You do not need to make this save if wearing heavy armor.
 
-**Double Crossbow**: This heavy weapon fires a pair of iron- tipped bolts with a single squeeze of the trigger. Due to its size and weight, you take a –4 penalty on your attack roll if you’re proficient with it, or –8 if you’re not. If the attack hits, the target takes damage from both bolts. Critical hits, sneak attack damage, and other precision-based damage only apply to the first bolt. Reloading one bolt is a standard action; the Rapid Reload feat reduces this to a move action. Crossbow Mastery allows you to reload both bolts as a move action.
+**Double Crossbow**: This heavy weapon fires a pair of iron- tipped bolts with a single squeeze of the trigger. Due to its size and weight, you take a –2 penalty on your attack roll if you’re proficient with it, or –6 if you’re not. If the attack hits, the target takes damage from both bolts. Critical hits, sneak attack damage, and other precision-based damage only apply to the first bolt. Reloading one bolt is a standard action; the Rapid Reload feat reduces this to a move action. Crossbow Mastery allows you to reload both bolts as a move action.
+
+??? note "Original rule"
+
+    **Double Crossbow**: This heavy weapon fires a pair of iron- tipped bolts with a single squeeze of the trigger. Due to its size and weight, you take a –4 penalty on your attack roll if you’re proficient with it, or –8 if you’re not. If the attack hits, the target takes damage from both bolts. Critical hits, sneak attack damage, and other precision-based damage only apply to the first bolt. Reloading one bolt is a standard action; the Rapid Reload feat reduces this to a move action. Crossbow Mastery allows you to reload both bolts as a move action.
 
 **Falcata**: This heavy blade has a single sharp, concave edge and a hook-shaped hilt. Its shape distributes the weight to give it the momentum of an axe with the cutting edge of a sword.
 
