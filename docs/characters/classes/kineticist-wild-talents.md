@@ -691,7 +691,7 @@ You extend a long, sharp spike of elemental matter along a line, impaling multip
 
 **Saving Throw** none
 
-You form a weapon using your kinetic abilities. You create a non-reach weapon you are proficient with in your hand or hands, formed of pure energy or elemental matter. It can be a two-handed weapon. (If you’re a telekineticist, you instead transfer the power of your kinetic blast to any object you hold.) The kinetic blade has all of the weapon’s features, including its weapon special features, except its damage dice, critical threat range, critical multiplier, and flail effect. The object held by a telekineticist for this form infusion doesn’t prevent her from using gather power.
+You form a weapon using your kinetic abilities. You create a weapon you are proficient with in your hand or hands, formed of pure energy or elemental matter. It can be a two-handed weapon or a reach weapon (with kinetic whip, a reach weapon reaches 15 feet). (If you’re a telekineticist, you instead transfer the power of your kinetic blast to any object you hold.) The kinetic blade has all of the weapon’s features, including its weapon special features, except its damage dice, critical threat range, critical multiplier, and flail effect. The object held by a telekineticist for this form infusion doesn’t prevent her from using gather power.
 
 If you wield a two-handed weapon formed from a physical blast, you add 1-1/2 times the ability modifier you add to the blast’s damage (normally Constitution, sometimes Strength). This doesn’t apply to energy blasts.
 

@@ -36,7 +36,7 @@ The kineticist’s class skills are Acrobatics (Dex), Craft (Int), Heal (Wis), I
 | 14th | +10/+5 | +9 | +9 | +4 | Infusion specialization 4, utility wild talent |
 | 15th | +11/+6/+1 | +9 | +9 | +5 | Expanded element, elemental overflow +5 |
 | 16th | +12/+7/+2 | +10 | +10 | +5 | Composite specialization, internal buffer 3, utility wild talent |
-| 17th | +12/+7/+2 | +10 | +10 | +5 | Infusion, infusion specialization 5, metakinesis |
+| 17th | +12/+7/+2 | +10 | +10 | +5 | Infusion, infusion specialization 5, double blast |
 | 18th | +13/+8/+3 | +11 | +11 | +6 | Elemental overflow +6, utility wild talent |
 | 19th | +14/+9/+4 | +11 | +11 | +6 | Infusion, metakinetic master |
 | 20th | +15/+10/+5 | +12 | +12 | +6 | Infusion specialization 6, omnikinesis, utility wild talent |
@@ -65,7 +65,7 @@ overexert herself to channel more power than normal, pushing past the limit of w
 
 As a standard action, the kineticist can unleash a kinetic blast at a single target up to a range of 30 feet. She must have at least one hand free to aim the blast (or one prehensile appendage, if she doesn’t have hands). All damage from a kinetic blast is treated as magic for the purpose of bypassing damage reduction. Kinetic blasts count as a type of weapon for the purpose of feats such as Weapon Focus. The kineticist is never considered to be wielding or gripping the kinetic blast (regardless of effects from form infusions; see Infusion), and she can’t use Vital Strike feats with kinetic blasts. Even the weakest kinetic blast involves a sizable mass of elemental matter or energy, so kinetic blasts always deal full damage to swarms of any size (though only area blasts deal extra damage to swarms). A readied kinetic blast can be used to counterspell any spell of equal or lower level that shares its descriptor. A kinetic blast that deals energy damage of any type (including force) has the corresponding descriptor. The various kinetic blasts, as well as additional rules for simple blasts, are described under Wild Talents below.
 
-A kinetic blast counts as a spell of the evocation school for effects that modify spells, and it still adds elemental overflow. Effects that increase a spell’s save DC also increase its DC, and a bonus that applies to one specific spell can apply to kinetic blast. Bonuses to caster level also increase its damage: a blast gains another damage die for every 2 caster levels, so a +4 bonus to caster level with fire adds 2 dice to a fire blast.
+A kinetic blast that adds the damage bonus from elemental overflow, or would add it once the kineticist gains that ability, counts as a spell of the evocation school for effects that modify spells. Effects that increase a spell’s save DC also increase its DC, and a bonus that applies to one specific spell can apply to kinetic blast. Bonuses to caster level also increase its damage: it gains another damage die for every 2 caster levels, so a +4 bonus to caster level with fire adds 2 dice to a fire blast. A blast that doesn’t add elemental overflow, such as one used with kinetic blade, gains none of these benefits.
 
 **Gather Power (Su)**: If she has both hands free (or all of her prehensile appendages free, for unusual kineticists), a kineticist can gather energy or elemental matter as a move action. Gathering power creates an extremely loud, visible display in a 20-foot radius centered on the kineticist, as the energy or matter swirls around her. Gathering power in this way allows the kineticist to reduce the total burn cost of a blast wild talent she uses in the same round by 1 point. The kineticist can instead gather power for 1 full round in order to reduce the total burn cost of a blast wild talent used on her next turn by 2 points (to a minimum of 0 points). If she does so, she can also gather power as a move action during her next turn to reduce the burn cost by a total of 3 points. If the kineticist takes damage during or after gathering power and before using the kinetic blast that releases it, she must succeed at a concentration check (DC = 10 + damage taken + effective spell level of her kinetic blast) or lose the energy in a wild surge that forces her to accept a number of points of burn equal to the number of points by which her gathered power would have reduced the burn cost. This ability can never reduce the burn cost of a wild talent below 0 points.
 
@@ -81,9 +81,9 @@ The descriptions of infusions begin.
 
 **Infusion Specialization (Ex)**: At 5th level, whenever a kineticist uses one or more infusions with a blast, she reduces the combined burn cost of the infusions by 1. This can’t reduce the total cost of the infusions used below 0. She reduces the burn cost by 1 additional point at 8th, 11th, 14th, 17th, and 20th levels.
 
-**Metakinesis (Su)**: At 5th level, a kineticist learns to apply metamagic to her kinetic blasts. She gains metamagic feats of her choice as bonus feats, without needing to meet their prerequisites: either 1 feat of the Powerful category, 2 of the Common category, or 3 of the Trait category (see [Metamagic](../options/metamagic.md)). She gains this benefit again at 9th, 13th, and 17th levels.
+**Metakinesis (Su)**: At 5th level, a kineticist learns to apply metamagic to her kinetic blasts. She gains metamagic feats of her choice as bonus feats, without needing to meet their prerequisites: either 1 feat of the Powerful category, 2 of the Common category, or 3 of the Trait category (see [Metamagic](../options/metamagic.md)). She gains this benefit again at 9th and 13th levels.
 
-The kineticist can apply any metamagic feat she has to her kinetic blast. Instead of increasing a spell level, she accepts 1 point of burn for each +1 level the feat would add. The Metamagic Mastery trait reduces this burn cost as it would reduce the level increase. An archetype that replaces metakinesis (empower, maximize, quicken, or twice) instead replaces the benefit gained at 5th, 9th, 13th, or 17th level, respectively.
+The kineticist can apply any metamagic feat she has to her kinetic blast. Instead of increasing a spell level, she accepts 1 point of burn for each +1 level the feat would add. The Metamagic Mastery trait reduces this burn cost as it would reduce the level increase. An archetype that replaces metakinesis (empower, maximize, or quicken) instead replaces the benefit gained at 5th, 9th, or 13th level, respectively. An archetype that replaces metakinesis (twice) replaces double blast.
 
 ??? note "Original rule"
 
@@ -100,6 +100,8 @@ If the kineticist chooses to expand her understanding of an element she already 
 **Supercharge (Su)**: At 11th level, when using gather power as a move action, a kineticist can reduce the total burn cost of a single wild talent by 2 points instead of 1. When using gather power for 1 full round, she can reduce the burn cost of a single wild talent by 3 points instead of 2.
 
 **Composite Specialization (Su)**: At 16th level, a kineticist becomes more adept at creating composite blasts. She reduces the burn cost of all composite blasts by 1 point. This can’t reduce the cost of a composite blast below 0 points.
+
+**Double Blast (Su)**: At 17th level, by accepting 4 points of burn, a kineticist can use her kinetic blast twice with the same standard action, or with a swift action if she also quickens the blast with metakinesis. When she uses a double kinetic blast, all modifications, such as metakinesis and infusions, apply to both of the blasts, but she needs to pay the burn cost only once.
 
 **Metakinetic Master (Su)**: At 19th level, a kineticist chooses one metamagic feat she can apply with metakinesis. She reduces the burn cost of that feat by 1 point (to a minimum of 0 points).
 

@@ -1,24 +1,155 @@
-# Shifter
+# Canefinder Shifter
 
-This class uses the [Legendary Shifter](legendary/legendary-shifter.md), with the following changes. Its [original version](shifter-ultimate-wilderness.md) is kept for reference.
+This class mixes the [Legendary Shifter](legendary/legendary-shifter.md) with the [Ultimate Wilderness shifter](shifter-ultimate-wilderness.md): it keeps the Legendary Shifter’s shifter shape, uses shifter claws instead of shifter evolution, and has improved aspects. Both original classes are kept for reference.
 
-## Class Features
+**Alignment**: Any.
 
-**Shifter Claws (Su)**: At will, a shifter in her natural form can extend her claws as a swift action to use as a weapon. This magical transformation is fueled as much by the shifter’s faith in the natural world as it is by inborn talent. The claws on each hand can be used as a primary natural attack, dealing 1d4 points of piercing and slashing damage (1d3 if she is Small). If she uses one of her claw attacks in concert with a weapon held in the other hand, the claw acts as a secondary natural attack instead.
+**Hit Die**: d10.
+
+**Starting Wealth**: 3d6 × 10 gp (average 105 gp.) In addition, each character begins play with an outfit worth 10 gp or less.
+
+### Class Skills
+
+The shifter’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Fly (Dex), Handle Animal (Cha). Intimidate (Cha), Knowledge (nature) (Int), Perception (Wis). Profession (Wis), Ride (Dex), Stealth (Dex), Survival (Wis), and Swim (Str).
+
+**Skill Ranks Per Level**: 4 + Int Modifier
+
+**Table: Canefinder Shifter**
+
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
+|---|---|---|---|---|---|
+| 1st | +1 | +2 | +2 | +0 | Shifter aspect, shifter claws (magic), shifter shape, wild empathy |
+| 2nd | +2 | +3 | +3 | +0 | Defensive instinct, track |
+| 3rd | +3 | +3 | +3 | +1 | Shifter claws (cold iron/silver), woodland stride |
+| 4th | +4 | +4 | +4 | +1 | Bonus feat, defensive instinct (+1) |
+| 5th | +5 | +4 | +4 | +1 | Additional aspect, trackless step |
+| 6th | +6/+1 | +5 | +5 | +2 | Shifter’s fury |
+| 7th | +7/+2 | +5 | +5 | +2 | Shifter claws (incorporeal) |
+| 8th | +8/+3 | +6 | +6 | +2 | Bonus feat, defensive instinct (+2) |
+| 9th | +9/+4 | +6 | +6 | +3 | Additional aspect, chimeric aspect |
+| 10th | +10/+5 | +7 | +7 | +3 | — |
+| 11th | +11/+6/+1 | +7 | +7 | +3 | Shifter claws (alignment) |
+| 12th | +12/+7/+2 | +8 | +8 | +4 | Bonus feat, defensive instinct (+3) |
+| 13th | +13/+8/+3 | +8 | +8 | +4 | Additional aspect |
+| 14th | +14/+9/+4 | +9 | +9 | +4 | Greater chimeric aspect |
+| 15th | +15/+10/+5 | +9 | +9 | +5 | Shifter claws (adamantine) |
+| 16th | +16/+11/+6/+1 | +10 | +10 | +5 | Bonus feat, defensive instinct (+4) |
+| 17th | +17/+12/+7/+2 | +10 | +10 | +5 | Additional aspect |
+| 18th | +18/+13/+8/+3 | +11 | +11 | +6 | — |
+| 19th | +19/+14/+9/+4 | +11 | +11 | +6 | Shifter claws (—) |
+| 20th | +20/+15/+10/+5 | +12 | +12 | +6 | Bonus feat, defensive instinct (+5), master of many forms |
+
+### Class Features
+
+#### Weapon and Armor Proficiencies
+
+A shifter is proficient with all simple and martial weapons and the natural attacks (claw, bite, and so forth) from the shifter claws class feature and of forms they assume with shifter shape.
+
+Shifters are proficient with light and medium armor and shields (except tower shields).
+
+#### Bonus Languages
+
+A shifter’s bonus language options include Sylvan, the language of woodland creatures, and Aklo, the tongue spoken by certain sinister fey or otherworldly denizens of reaches of the wild rarely explored by humanity. These choices are in addition to the bonus languages available to the character because of their race.
+
+A shifter speaks Druidic, a secret language known only to druids and shifters, which they learn upon becoming a 1st-level shifter. Druidic is a free language for a shifter; that is, they know it in addition to their regular allotment of languages, and it doesn’t take up a language slot. Shifters are forbidden to teach this language to non-druids or non-shifters, although they do not suffer any consequences for doing so.
+
+#### Shifter Aspect (Su)
+
+At 1st level, a shifter gains their first aspect—a category of animal to which their body and soul have become supernaturally attuned. They can shift into their aspect’s form (see Aspects) as a swift action, while ending the effect is a free action that can be taken only on the shifter’s turn. A shifter can maintain their aspect indefinitely, and a shifter may switch which aspect’s form they are taking as a swift action.
+
+Until a shifter reaches 9th level and gains the chimeric aspect class feature, they can assume only one form at a time. Shifting to a new aspect (or aspects, in the case of chimeric aspects or greater chimeric aspects) ends all forms currently manifested. The forms of aspects are not polymorph effects, and the shifter does not lose the benefits of a form while affected by polymorph effects.
+
+As the shifter gains levels, they gain more aspects; they gain their second aspect at 5th level and an additional aspect every four levels afterwards, to a maximum number of 5 at 17th level.
+
+#### Shifter Shape (Su)
+
+At 1st level, a shifter gains the ability to turn herself into any small or Medium animal and back again, although they is limited to the following forms; badger, bird, camel, cat (small), dire rat, dog, dolphin, horse, manta ray, pony, snake (viper or constrictor), or wolf. This ability functions like the beast shape I spell, except as noted here. The effect lasts for a number of hours equal to 1/2 their shifter level + their Wisdom modifier (minimum 1), and they may split the duration of this ability however they want. Each use of this ability uses up at least an hour of its duration, regardless of how long they stay in it. A shifter can change form while in their shifter shape but doing so reduces their total duration by 1 hour. Shifter shape is treated as wild shape for the purpose of feats which would affect it.
+
+A shifter loses their ability to speak while in animal form because they are limited to the sounds that a normal, untrained animal can make, but they can communicate normally with other animals of the same general grouping as their new form. (The normal sound a wild parrot makes is a squawk, so changing to this form does not permit speech.)
+
+In addition, a shifter can change their form while in shifter shape as a standard action a number of times per day equal to 1/2 their character level + their Wisdom modifier (minimum 1); doing so does not consume any duration of their shifter shape ability.
+
+At 3rd level, a shifter is no longer limited in which forms they can take from the options provided by beast shape I.
+
+At 6th level, a shifter can use shifter shape to change into a Large or Tiny animal. When taking the form of an animal, a shifter’s shifter shape now functions as beast shape II.
+
+At 8th level, a shifter can use shifter shape to change into a Huge or Diminutive animal or a small or medium magical beast. When taking the form of animals or magical beasts, a shifter’s shifter shape now functions as beast shape III.
+
+At 12th level, a shifter can use shifter shape to transform into a Tiny or Large magical beast. When taking the form of magical beasts, a shifter’s shifter shape now functions as beast shape IV.
+
+At 16th level, a shifter can use shifter shape to transform into a Diminutive or Huge magical beast. When taking the form of magical beasts, a shifter’s shifter shape now functions as magical beast shape.
+
+#### Shifter Claws (Su)
+
+At will, a shifter in her natural form can extend her claws as a swift action to use as a weapon. This magical transformation is fueled as much by the shifter’s faith in the natural world as it is by inborn talent. The claws on each hand can be used as a primary natural attack, dealing 1d4 points of piercing and slashing damage (1d3 if she is Small). If she uses one of her claw attacks in concert with a weapon held in the other hand, the claw acts as a secondary natural attack instead.
 
 As the shifter gains levels, the power of her claws increases. At 3rd level, her claws ignore DR/cold iron and DR/silver. At 7th level, her claw damage increases to 1d6 (1d4 if Small). At 11th level, her claw damage increases to 1d8 (1d6 if Small). At 13th level, her claw damage increases to 1d10 (1d8 if Small). At 17th level, the damage die does not increase, but the critical multiplier becomes ×3. Lastly, at 19th level, the claws ignore DR/adamantine and DR/—.
 
-While a shifter uses wild shape to assume her aspect’s major form, her natural attacks gain the same benefits granted by her shifter claws ability. If the form she takes has claw attacks, she can use either the base damage of her shifter claws or the damage of the form’s claws, whichever is greater. If the form does not have claw attacks, she can choose up to two natural attacks that would deal less damage than her shifter claw damage and have those attacks instead deal the same damage as her shifter claws.
+While a shifter uses shifter shape to assume another form, her natural attacks gain the same benefits granted by her shifter claws ability. If the form she takes has claw attacks, she can use either the base damage of her shifter claws or the damage of the form’s claws, whichever is greater. If the form does not have claw attacks, she can choose up to two natural attacks that would deal less damage than her shifter claw damage and have those attacks instead deal the same damage as her shifter claws.
 
-Instead of the Legendary Shifter’s shifter evolution, a shifter uses shifter claws. If her wild shape form has only 1 attack, she can choose to have 2 natural attacks in that form, as long as they make sense (claws in most cases), instead of increasing the damage of that attack with this class feature. These two attacks are always secondary.
+If her shifter shape form has only 1 attack, she can choose to have 2 natural attacks in that form, as long as they make sense (claws in most cases), instead of increasing the damage of that attack with this class feature. These two attacks are always secondary.
 
-**Shifter’s Fury (Ex)**: At 6th level, a shifter gains the ability to make several ferocious attacks with the same natural weapon. Instead of attacking with all her natural weapons, the shifter can choose a single natural weapon and make a full attack with that natural weapon, gaining a second iterative attack at a –5 as if it was a manufactured weapon. When she does so, all her other natural attacks count as secondary attacks and don’t benefit from shifter’s claws. At 11th level, she gains a third iterative attack at a –10, and at 16th level, she gains a fourth iterative attack at –15. This replaces speed shift.
+#### Wild Empathy (Ex)
 
-**Speed Shift, Lightning Shift, and Instant Shift**: A shifter doesn’t have these class features. She can use wild shape faster with [Quick Wild Shape](../../rules/feats/quick-wild-shape.md).
+A shifter can improve the attitude of an animal. This ability functions as a Diplomacy check to improve the attitude of a person. The shifter rolls 1d20 and adds their shifter level and Charisma modifier to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
+
+To use wild empathy, the shifter and the animal must be within 30 feet of one another and under normal conditions. Generally, influencing an animal in this way takes 1 minute but, as with influencing people, it might take more or less time.
+
+The shifter can also use this ability to influence a magical beast with an Intelligence score of 1 or 2, but they take a –4 penalty on the check.
+
+#### Defensive Instinct (Ex)
+
+At 2nd level, when unarmored, not using a shield, unencumbered, and conscious, the shifter adds their Wisdom bonus (if any) to their AC and CMD. If they are wearing armor or using a shield, they instead add half their Wisdom bonus to their AC (minimum 0). In addition, the shifter gains a +1 bonus to their AC and CMD at 4th level. This bonus increases by 1 for every 4 shifter levels thereafter (up to a maximum of +5 at 20th level).
+
+These bonuses to AC apply even against touch attacks and when the shifter is flat-footed, they lose these bonuses when they are immobilized or helpless. These bonuses do not stack with the monk AC bonus class feature.
+
+#### Track (Ex)
+
+At 2nd level, a shifter adds half their level as a bonus on Survival checks to follow tracks.
+
+#### Woodland Stride (Ex)
+
+At 3rd level, a shifter can move through any sort of undergrowth (such as briars, natural thorns, overgrown areas, and similar terrain) at their normal speed and without taking damage or suffering any other impairment. Briars, thorns, and overgrown areas that are enchanted or magically manipulated to impede motion still affect the shifter.
+
+#### Bonus Feat (Ex)
+
+At 4th level, and every four levels thereafter, a shifter gains a bonus feat in addition to those gained by normal advancement. These bonus feats must be combat feats or feats which have wild shape as a prerequisite. They treat their shifter shape class feature as the Wild Shape class feature, and use their shifter level as their druid level for qualifying for such feats.
+
+#### Trackless Step (Ex)
+
+At 5th level, a shifter leaves no trail in natural surroundings and cannot be tracked, they can choose to leave a trail if they so desire.
+
+#### Shifter’s Fury (Ex)
+
+At 6th level, a shifter gains the ability to make several ferocious attacks with the same natural weapon. Instead of attacking with all her natural weapons, the shifter can choose a single natural weapon and make a full attack with that natural weapon, gaining a second iterative attack at a –5 as if it was a manufactured weapon. When she does so, all her other natural attacks count as secondary attacks and don’t benefit from shifter’s claws. At 11th level, she gains a third iterative attack at a –10, and at 16th level, she gains a fourth iterative attack at –15.
+
+#### Chimeric Aspect (Su)
+
+At 9th level, when a shifter uses their shifter aspect ability to take on a form, they can choose two aspects and assume the form of each aspect.
+
+#### Greater Chimeric Aspect (Su)
+
+At 14th level, when a shifter uses their shifter aspect ability to take on a form, they can choose up to three aspects and assume the form of each aspect.
+
+#### Master of the Many Forms (Ex)
+
+At 20th level, a shifter may use shifter shape at will and gains the shapechanger subtype, becoming immune to any transmutation effect unless they are willing to accept it.
+
+**Speed Shift, Lightning Shift, and Instant Shift**: A Canefinder shifter doesn’t have these class features. She can use shifter shape faster with [Quick Wild Shape](../../rules/feats/quick-wild-shape.md).
+
+## Archetypes
+
+A Canefinder shifter can use the archetypes of [both](shifter-archetypes.md) [versions](legendary/legendary-shifter-archetypes.md). Read them as follows.
+
+- **Wild shape** means shifter shape, and any ability that alters or replaces one alters or replaces the other. A **major form** means the form of the aspect’s animal taken with shifter shape.
+- **Minor form** means the aspect’s form taken with shifter aspect.
+- **Shifter evolution** means shifter claws, including abilities that alter or replace it. Its bonus damage is the claw damage of this class.
+- **Final aspect** means master of the many forms.
+- An archetype that replaces **speed shift** replaces shifter’s fury. Lightning shift and instant shift don’t exist, so an archetype that replaces them gives up nothing for them.
 
 ## Shifter Aspects
 
-These aspects replace the minor forms of the aspects with the same names. Their major forms don’t change. See the [Swarm Shifter](shifter-archetypes.md#swarm-shifter) for the vermin aspect.
+These aspects are the minor forms a Canefinder shifter can take with shifter aspect. See the [Swarm Shifter](shifter-archetypes.md#swarm-shifter) for the vermin aspect.
 
 ### Bat
 

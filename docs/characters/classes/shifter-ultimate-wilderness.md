@@ -1,7 +1,7 @@
 # Shifter (Ultimate Wilderness)
 
 !!! note "House rule"
-    The campaign uses the [house-rule shifter](shifter.md), based on the Legendary shifter. This page presents the original shifter class from Ultimate Wilderness for reference, along with its aspects. [Shifter archetypes](shifter-archetypes.md) are listed separately.
+    The campaign uses the [Canefinder Shifter](shifter.md), a mix of this class and the Legendary shifter. This page presents the original shifter class from Ultimate Wilderness for reference, along with its aspects. [Shifter archetypes](shifter-archetypes.md) are listed separately.
 
 Whether riding on the wind as a falcon or hiding in some fetid bog waiting to strike, the shifter is a true master of the wild. Both a devoted defender of druidic circles and a fierce predator, the shifter can take on the forms of nature and even fuse them together with devastating effect and unbridled savagery. By way of the druidic discipline of wild shape, they become living aspects of the wild. At first, they are able to assume only a minor aspect, but with time and practice they can fully transform into ever more powerful forms.
 
