@@ -5,7 +5,7 @@
 
 ## Changed Spells
 
-**[Haste](../../magic/spells/haste.md):** grants the extra attack, but does not let you exceed your limit on the number of attacks. It also lets you cast one spell at least 2 levels lower than your highest-level spell as if it were quickened (under the same rules as Quicken Spell), once per turn, and it does not stack with quicken. It is now a single-target 3rd-level spell; the normal 30-foot-area version, with its usual rules, is a 4th-level spell.
+**[Haste](../../magic/spells/haste.md):** grants the extra attack, but does not let you exceed your limit on the number of attacks. It also lets you cast one spell at least 2 levels lower than your highest-level spell as if it were quickened (under the same rules as Quicken Spell), once per turn, and it does not stack with quicken. It is now a single-target 3rd-level spell; the normal 30-foot-area version, with its usual rules, is the 4th-level [*haste, mass*](../../magic/spells/haste-mass.md).
 
 **[Instant Enemy](../../magic/spells/instant-enemy.md):** now lasts 1 round/level. It is a 1st-level spell exclusive to rangers, and a 2nd-level spell for other classes with 6th-level spellbooks that somehow steal favored enemy.
 

@@ -23,10 +23,10 @@
 | Careful Stab (Ex) | — | When a rogue with this talent reduces a creature to fewer than 0 hp with precision damage, she can choose to leave that creature at -1 hp and stable . |
 | Castling (Ex) | — | You treat soft cover granted by creatures of your size or larger as though it were Full cover instead. |
 | Charmer | — | Once per day, the rogue can roll two dice while making a Diplomacy check, and take the better result. She must choose to use this talent before making the Diplomacy check. A rogue can use this ability one additional time per day for every 5 rogue levels she possesses. |
-| Climbing Stunt (Ex) | Trained in Climb | yoqc imaginate climbear ¿te da climb speed por 1 turnocomo swift pero no podes terminar en climb? a lo wall run op |
+| Climbing Stunt (Ex) | Trained in Climb | As a swift action, gain a climb speed for 1 round, but you can’t end your movement climbing (see Monster Hunter’s Handbook Rogue Talents below). |
 | Cloying Shades (Su) | Dimension door as a spell or spell-like ability (including from the abundant step or shadow jump class features) | All creatures adjacent to you when you dimension door or abundant step or shadow jump at the start and end of your teleportation are entangled by grasping shadows. |
-| Coax Information | — | Lets you use Bluff, Diplomacy and Intimidate interchangeably: you can roll and do anything an Intimidate check would do using Bluff or Diplomacy instead, and so on. In short, it saves you from having to raise the other two. |
-| Combat Swipe | — | Gain Deft Maneuvers as a bonus feat (the new feat that gives you all the more agile combat maneuvers). |
+| Coax Information | — | Lets you use Bluff, Diplomacy and Intimidate interchangeably: you can roll and do anything an Intimidate check would do using Bluff or Diplomacy instead, and so on. |
+| Combat Swipe | — | Gain [Deft Maneuvers](../../rules/feats/deft-maneuvers.md) as a bonus feat. |
 | Combat Trick | — | Gain a bonus combat feat |
 | Convincing Lie | — | Allows your allies to use your Bluff bonus to lie, if you created that lie. |
 | Cunning Trigger | — | Set off any number of your traps within 30 ft as a swift action |
@@ -91,7 +91,7 @@
 | Extra Magic (Sp) | Int 12 | You can cast every spell like you have, an extra time. |
 | Nimble Climber | — | You gain Advantage on Climb Skill checks, and Skill Focus: Climb. |
 | Ninja Trick | — | Gain a ninja trick |
-| Obfuscate Story (Ex) | — | Muddle another’s account with opposed Diplomacy checks (see Advanced Race Guide Rogue Talents below). |
+| Obfuscate Story (Ex) | — | Muddle another’s account with opposed Bluff or Diplomacy checks, making the truth harder to learn (see Advanced Race Guide Rogue Talents below). |
 | Obscuring Blow* (Ex) | — | Once per day for every 5 rogue levels, the rogue can sacrifice a sneak attack die to attempt to cloud an opponent’s vision. She must declare the use of obscuring blow before she makes the attack. If the attack hits, it does normal damage but, instead reduces one die of sneak attack damage, the target treats all other creatures as if they had concealment , suffering a 20% miss chance on all attack rolls for a number of rounds equal to the rogue’s level. You can chose to forgo more than one sneak attack die, to improve the duration by 1 turn or the miss chance by 5% (up to a maximum of 50% wich counts as blinded). A successful Fortitude saving throw reduces this effect to 1 round. The DC of this saving throw is equal to 10 + 1/2 the rogue’s level + the rogue’s Intelligence modifier. |
 | Occult Dungeoneer (Su) | — | You can use spell-trigger and spell-completion items as if the following spells were on a spell list to which you have access: detect secret doors , detect traps , knock , locate object , and obscure object . If the spell-trigger device allows a wielder to apply his own caster level (such as with a staff), you may use your class level as your caster level . You may also use knock as a supernatural ability once per day, using your rogue level as your caster level . |
 | Occult Mysticism (Ex) | — | The rogue has been trained in a minor occult technique. The rogue gains Psychic Sensitivity as a bonus feat. Those you choose from your Rogue’s Edge Class Feature, count as 5 levels higher, allowing you to unlock higher level powers. |
@@ -99,7 +99,7 @@
 | One of those Faces (Sp) | — | You can use disguise self as a spell-like ability for up to 10 minutes per character level each day. |
 | Papercraft Tools (Ex) | — | So long as the rogue has access to a deck of cards, she can destroy one card to attempt a single Disable Device check as if she had a set of thieves tools. If she uses a card from a fortune-telling deck for this purpose, she can treat the card as a set of masterwork thieves’ tools (granting her a +2 circumstance bonus on the Disable Device check) and gains advantage, though the card is still destroyed after use. |
 | Peerless Maneuver | — | Roll two dice when making a Acrobatics check and take the better result. |
-| Philologist | — | May reroll a failed Linguistics check to decipher writing. |
+| Philologist | — | May reroll any Linguistics check made to decipher writing. |
 | Pierce the Darkness (Ex) | — | She gains blinds ight out to a range of 5 feet, but only against creatures concealed by darkness or her own blindness. |
 | Poison Use (Ex) | — | You are trained in the use of poison , and can’t accidentally poison yourself when applying poison to a weapon. |
 | Positioning Attack | — | When you hit, reposition yourself around the target |
@@ -133,7 +133,7 @@
 | Sniper’s Eye | — | Gain sneak attack on ranged attacks |
 | Spell Storing (Su) | Use Magic Device 1 rank | You can store a spell of up to 2nd level within yourself. |
 | Stand Up | — | A rogue with this ability can stand up from a prone position as a free action . This still provokes attacks of opportunity for standing up while threatened by a foe. |
-| Steal the Story | Obfuscate Story | Destroy someone’s reputation with his/her listeners. |
+| Steal the Story | Obfuscate Story | Destroy someone’s reputation with his/her listeners and take the credit for yourself. |
 | Stealth Stunt (Ex) | Trained in Stealth | See text. |
 | Stem the Flow | — | When making a successful sneak attack against a creature with the ability to channel energy , the rogue may forgo 3d6 points of sneak attack damage to instead prevent the target from channeling energy for a number of rounds equal to half her rogue level. |
 | Strong Impression | — | Gain Intimidating Prowess as a bonus feat |
@@ -164,9 +164,17 @@ The following rogue talents can be taken by any rogue who meets the prerequisite
 
 **False Friend (Ex)**: A rogue with this talent gains a +4 bonus when making Bluff checks to convince someone she has never met or who doesn’t know her well that they are previously acquainted or know each other well.
 
-**Obfuscate Story (Ex)**: While another individual attempts to give an account of an event, the rogue makes an opposed Diplomacy check to deftly interject comments or statements over the course of the storytelling that cause the individual to muddle his ability to recall accurate or specific details. If the rogue succeeds, her target remains unaware that the rogue’s interjections caused the confusion. However, if she fails, the target is allowed a Sense Motive check (DC equal to the rogue’s failed Diplomacy check) to figure out that she made deliberate attempts to confuse the story.
+**Obfuscate Story (Ex)**: While another individual attempts to give an account of an event, the rogue makes an opposed Bluff or Diplomacy check, adding half her rogue level, to deftly interject comments or statements over the course of the storytelling that cause the individual to muddle his ability to recall accurate or specific details. If the rogue succeeds, her target remains unaware that the rogue’s interjections caused the confusion, and anyone who heard the account takes a penalty equal to half the rogue’s level on checks to learn the truth about that event for 1 week. However, if she fails, the target is allowed a Sense Motive check (DC equal to the rogue’s failed check) to figure out that she made deliberate attempts to confuse the story.
 
-**Steal the Story (Ex)**: After muddling another’s account using obfuscate story, the rogue may make another opposed Diplomacy check to alter the details further in order to discredit, insult, or humiliate the target. If the check succeeds, the target takes a penalty on Diplomacy and Intimidate checks against anyone who heard the altered story. This penalty is equal to the rogue’s Intelligence, Wisdom, or Charisma bonus (whichever is highest), and lasts until the target is able to repair his reputation or discredit the rogue. The rogue must have the obfuscate story talent to select this talent.
+??? note "Original rule"
+
+    **Obfuscate Story (Ex)**: While another individual attempts to give an account of an event, the rogue makes an opposed Diplomacy check to deftly interject comments or statements over the course of the storytelling that cause the individual to muddle his ability to recall accurate or specific details. If the rogue succeeds, her target remains unaware that the rogue’s interjections caused the confusion. However, if she fails, the target is allowed a Sense Motive check (DC equal to the rogue’s failed Diplomacy check) to figure out that she made deliberate attempts to confuse the story.
+
+**Steal the Story (Ex)**: After muddling another’s account using obfuscate story, the rogue may make another opposed check to alter the details further in order to discredit, insult, or humiliate the target. If the check succeeds, the target takes a penalty on Diplomacy and Intimidate checks against anyone who heard the altered story, and the rogue, who takes the credit for the target’s deeds, gains the same amount as a bonus on her own Diplomacy and Intimidate checks against them. This penalty and bonus are equal to the rogue’s Intelligence, Wisdom, or Charisma bonus (whichever is highest), and last until the target is able to repair his reputation or discredit the rogue. The rogue must have the obfuscate story talent to select this talent.
+
+??? note "Original rule"
+
+    **Steal the Story (Ex)**: After muddling another’s account using obfuscate story, the rogue may make another opposed Diplomacy check to alter the details further in order to discredit, insult, or humiliate the target. If the check succeeds, the target takes a penalty on Diplomacy and Intimidate checks against anyone who heard the altered story. This penalty is equal to the rogue’s Intelligence, Wisdom, or Charisma bonus (whichever is highest), and lasts until the target is able to repair his reputation or discredit the rogue. The rogue must have the obfuscate story talent to select this talent.
 
 ## Monster Hunter’s Handbook Rogue Talents
 
@@ -226,7 +234,11 @@ Skill stunts are new rogue talents that can be taken by any rogue who meets the 
 
 **Acrobatic Stunt (Ex)**: Once per day, when flanked by at least two opponents, a rogue with this talent can, as an immediate action when any of the threatening opponents attacks her, attempt an Acrobatics check against the highest CMD of the threatening creatures plus 2 per threatening creature beyond the second. If successful, the rogue may take a 5-foot step in any direction, so long as she remains within the reach of the attacker triggering the movement. The rogue's final position is used to determine whether the attacker benefits from flanking. On a failed check, the rogue falls prone in her original position and the attack resolves as normal (the opponent gains a +4 bonus for attacking a prone target). A rogue may use this ability one additional time per day for every 5 rogue levels she possesses. A rogue must be trained in Acrobatics to select this talent.
 
-**Climbing Stunt (Ex)**: A rogue with this talent can take a –10 penalty on a Climb check to move at full speed while climbing. A rogue must be trained in Climb to select this talent.
+**Climbing Stunt (Ex)**: As a swift action, a rogue with this talent gains a climb speed equal to her base speed until the end of her turn. She must end her movement on solid footing; if she ends it while climbing, she falls. A rogue must be trained in Climb to select this talent.
+
+??? note "Original rule"
+
+    **Climbing Stunt (Ex)**: A rogue with this talent can take a –10 penalty on a Climb check to move at full speed while climbing. A rogue must be trained in Climb to select this talent.
 
 **Disabling Stunt (Ex)**: A rogue with this talent can attempt a Disable Device check against a construct's CMD as a standard action that does not provoke attacks of opportunity. If the check is successful, the rogue can ignore the construct's damage reduction when dealing sneak attack damage for 1 minute. The normal penalties apply to this check if the rogue attempts it without using thieves' tools. A rogue must be trained in Disable Device to select this talent.
 

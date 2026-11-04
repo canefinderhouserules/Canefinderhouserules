@@ -415,7 +415,7 @@ At 12th level, radiant eidolons gain the fast healing evolution.
 
 At 16th level, radiant eidolons gain the ability to cast *cure serious wounds* three times per day. When a radiant eidolon's summoner dies or falls unconscious within 60 feet as a result of hit point loss, the eidolon can die as an immediate action to grant the summoner the benefits of *breath of life*. The caster level for both abilities equals the eidolon's Hit Dice.
 
-At 20th level, radiant eidolons gain a +2 enhancement bonus to damage per die rolled against undead creatures when attacking with the energy attacks or breath weapon evolutions. Whenever radiant eidolons are subjected to a magical healing effect, the effect functions at its full potential, as if enhanced by Maximize Spell.
+At 20th level, radiant eidolons deal an additional 2 points of damage per die rolled against undead creatures when attacking with the energy attacks or breath weapon evolutions. Whenever radiant eidolons are subjected to a magical healing effect, the effect functions at its full potential, as if enhanced by Maximize Spell.
 
 ### Shadow
 

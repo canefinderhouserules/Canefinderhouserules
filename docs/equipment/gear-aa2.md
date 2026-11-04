@@ -300,7 +300,7 @@ If you are a vishkanya, the snake-tongue concoction instead applies the poison g
 | 41–50 | The concoctions sap your energy. You are fatigued until you rest for 2d12 minutes. |
 | 51–60 | The concoctions sharpen your senses. You gain low-light vision and a +2 alchemical bonus on Perception checks; if you already have low-light vision, increase the bonus on Perception checks to +4. This effect lasts for 1d6 minutes. |
 | 61–69 | The concoctions grant you a sudden burst of energy. You gain the benefits of the *haste* spell for 1d3+1 rounds. This effect is nonmagical and cannot be dispelled. |
-| 70–75 | Any melee attacks you make with natural weapons or metal manufactured weapons deal an extra 1d4 points of electricity damage. Any electricity spell you cast gains a +1 enhancement bonus to damage per die rolled. This effect is magical and lasts for 3d6 rounds. |
+| 70–75 | Any melee attacks you make with natural weapons or metal manufactured weapons deal an extra 1d4 points of electricity damage. Any electricity spell you cast deals 1 extra point of damage per die rolled. This effect is magical and lasts for 3d6 rounds. |
 | 76–85 | The concoctions toughen your skin, granting you a +1d3 enhancement bonus to your natural armor for 3d10 minutes. |
 | 86–92 | The concoctions accelerate your natural healing process. You gain fast healing 1d4 (roll each round) for 2d6 rounds. |
 | 93–99 | The concoctions fill you with euphoric morale. For the next 10d6 minutes, you gain the benefits of the *good hope* spell. This effect is nonmagical and cannot be dispelled. |

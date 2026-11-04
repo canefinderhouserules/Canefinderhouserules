@@ -50,7 +50,7 @@ House-rule changes to specific archetypes and class features. Changes to the cor
 
 ## Rogue
 
-These changes are written into the [Unchained Rogue](unchained-rogue.md) and [Glory Rogue](rogue-archetypes.md#glory-rogue).
+These changes are written into the [Unchained Rogue](unchained-rogue.md).
 
 !!! warning "House rule"
     **Finesse Training:** instead of Dexterity to damage at 3rd, 11th and 19th level, the unchained rogue gains 1 bonus combat feat, chosen from the normal list or two unique options:
@@ -62,7 +62,7 @@ These changes are written into the [Unchained Rogue](unchained-rogue.md) and [Gl
     **Rogue's Edge:** at 5th level a rogue gains the Skill Unlock powers of any 5 skills of their choice. At 10th level a rogue gains the Skill Unlock powers for all skills in which they have sufficient ranks.
 
 !!! warning "House rule"
-    **Glory Rogue:** may use Intelligence instead of Charisma (one or the other).
+    **Glory Rogue:** its class features (extra weapon proficiencies, guile pool and ambush) are part of the unchained rogue, and the guile pool may use Intelligence instead of Charisma (one or the other).
 
 ## Samurai
 

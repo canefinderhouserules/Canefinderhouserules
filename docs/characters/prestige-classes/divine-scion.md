@@ -107,7 +107,7 @@ In addition, each domain specialization grants a spell-like ability (which funct
 | Water | *water walk* 1/day | +4 on Swim checks |
 | Weather | *cloak of winds* 1/day | +4 on Survival checks |
 
-**Divine Wrath (Su)**: At 4th level, a divine scion's damaging spells gain a +1 enhancement bonus to damage per die rolled against creatures with an alignment subtype that matches the divine scion's opposition alignment.
+**Divine Wrath (Su)**: At 4th level, a divine scion's damaging spells deal +1 point of damage per die against creatures with an alignment subtype that matches the divine scion's opposition alignment.
 
 **Deific Defense (Su)**: At 7th level, a divine scion gains DR 2, bypassed by attacks with the alignment subtype of her opposition alignment (so a divine scion with "evil" as her opposition alignment gains DR 2/evil).
 

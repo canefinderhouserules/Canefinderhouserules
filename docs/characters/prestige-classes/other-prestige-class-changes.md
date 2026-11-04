@@ -87,7 +87,7 @@
 
 - Skill requirements drop to 2.
 - Gains the Evangelist's Aligned Class.
-- Every class feature that has 1 use per 3 levels becomes 1 use per level.
+- Every class feature that has 1 use per 3 levels becomes 1 use, plus 1 for every 2 levels (2 uses at 2nd level, 3 at 4th level).
 - Swift Scrivener reduces the cost of scrolls to 25%.
 
 ## [Daivrat](daivrat.md)

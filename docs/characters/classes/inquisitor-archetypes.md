@@ -751,7 +751,7 @@ As a consummate lurker in the shadows, an umbral stalker observes the enemies of
 
 **Deadly Efficiency (Ex)**: At 14th level, an umbral stalker becomes even deadlier against enemies who haven’t yet noticed her in the shadows. Whenever she confirms a critical hit against a foe that is unaware of her presence, she ignores any damage reduction the target might have and adds her Wisdom bonus to her damage roll (this multiplies on the critical hit as normal); in addition, if the target has regeneration, the creature loses regeneration on the round following the critical hit and can die normally during that round. Creatures whose regeneration always functions are immune to this ability.
 
-Finally, if the umbral stalker deals energy damage to a creature unaware of her presence with vulnerability to that energy type, she gains a +2 enhancement bonus to damage per die rolled. This ability alters exploit weakness.
+Finally, if the umbral stalker deals energy damage to a creature unaware of her presence with vulnerability to that energy type, she deals 2 extra points of damage per die rolled. This ability alters exploit weakness.
 
 ## Vigilant Defender
 

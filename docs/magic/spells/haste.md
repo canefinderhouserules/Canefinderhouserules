@@ -18,8 +18,6 @@ All of the hasted creature’s modes of movement (including land movement, burro
 
 Once per turn, a hasted creature can cast a spell at least 2 levels lower than the highest-level spell it can cast as if it were quickened, under the same rules as the [Quicken Spell](../../rules/feats/quicken-spell.md) feat. This does not stack with Quicken Spell.
 
-**Area version**: A separate 4th-level version of this spell works exactly like this one, except that it targets one creature/level, no two of which can be more than 30 ft. apart.
-
 ??? note "Original rule"
 
     **School** transmutation; **Level** bard 3, sorcerer/wizard 3  

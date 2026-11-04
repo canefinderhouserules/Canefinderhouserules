@@ -284,7 +284,7 @@ You create a kinetic blade and swing it in an arc around you, making a single at
 
 **Associated Blasts** electric blast, thunderstorm blast; **Saving Throw** Reflex half
 
-You unleash a bolt of lightning above an enemy within 30 feet and send it spiraling down with tremendous force. Each bolt is a 5-foot-wide, 30-foot-long, vertical bolt, dealing your full blast damage to creatures within the line. If all squares in the bolt's area are outdoors and in a storm, the blast gains a +1 enhancement bonus to damage per die rolled. The saving throw is Dexterity-based.
+You unleash a bolt of lightning above an enemy within 30 feet and send it spiraling down with tremendous force. Each bolt is a 5-foot-wide, 30-foot-long, vertical bolt, dealing your full blast damage to creatures within the line. If all squares in the bolt's area are outdoors and in a storm, the blast deals an additional 1 point of damage per die. The saving throw is Dexterity-based.
 
 ### Bowling Infusion
 

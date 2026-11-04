@@ -65,19 +65,19 @@ If the character had more than one arcane spellcasting class before he became a 
 
 **Defensive Scrollcaster (Ex)**: A cyphermage gains a +4 bonus on concentration checks to cast defensively when casting spells from scrolls.
 
-**Enhance Scroll (Su)**: As a swift action, a cyphermage can cause any scroll spell he reads to function using his caster level rather than the scroll's caster level. He can use this ability a number of times per day equal to his cyphermage level.
+**Enhance Scroll (Su)**: As a swift action, a cyphermage can cause any scroll spell he reads to function using his caster level rather than the scroll's caster level. He can use this ability once per day, plus one additional time per day for every 2 cyphermage levels he has.
 
 ??? note "Original rule"
 
     **Enhance Scroll (Su)**: As a swift action, a cyphermage can cause any scroll spell he reads to function using his caster level rather than the scroll's caster level. He can use this ability a number of times per day equal to 1/3 his cyphermage level (minimum 1).
 
-**Extended Scroll (Su)**: As a swift action, a cyphermage can double the duration of any scroll spell he reads as if the spell were modified by Extend Spell. He can use this ability a number of times per day equal to his cyphermage level.
+**Extended Scroll (Su)**: As a swift action, a cyphermage can double the duration of any scroll spell he reads as if the spell were modified by Extend Spell. He can use this ability once per day, plus one additional time per day for every 2 cyphermage levels he has.
 
 ??? note "Original rule"
 
     **Extended Scroll (Su)**: As a swift action, a cyphermage can double the duration of any scroll spell he reads as if the spell were modified by Extend Spell. He can use this ability a number of times per day equal to 1/3 his cyphermage level (minimum 1).
 
-**Focused Scroll (Su)**: As a swift action, a cyphermage can add a bonus equal to twice his Intelligence modifier on any caster level checks made with a scroll spell, including checks to overcome spell resistance. He can use this ability a number of times per day equal to his cyphermage level.
+**Focused Scroll (Su)**: As a swift action, a cyphermage can add a bonus equal to twice his Intelligence modifier on any caster level checks made with a scroll spell, including checks to overcome spell resistance. He can use this ability once per day, plus one additional time per day for every 2 cyphermage levels he has.
 
 ??? note "Original rule"
 
@@ -87,7 +87,7 @@ If the character had more than one arcane spellcasting class before he became a 
 
 **Glyph Finder (Ex)**: A cyphermage can locate *glyphs of warding*, symbols, and similar magical spell traps that utilize writing as if he were a rogue. He can use Perception or Knowledge (arcana) to notice such traps, and can use Disable Device or Spellcraft to disable these types of traps.
 
-**Insightful Scroll (Su)**: As a swift action, a cyphermage can alter a spell he's casting from a scroll to use his own spellcasting ability score (Intelligence for wizards, and so on) and relevant feats to set the DC for the spell. He can use this ability a number of times per day equal to his cyphermage level.
+**Insightful Scroll (Su)**: As a swift action, a cyphermage can alter a spell he's casting from a scroll to use his own spellcasting ability score (Intelligence for wizards, and so on) and relevant feats to set the DC for the spell. He can use this ability once per day, plus one additional time per day for every 2 cyphermage levels he has.
 
 ??? note "Original rule"
 

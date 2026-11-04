@@ -539,7 +539,7 @@ Fire bombers are exceptionally good at using bombs to burn creatures and blow th
 
 **Weapon and Armor Proficiency**: A fire bomber treats torches as a simple weapon.
 
-**Fire Bombardier (Su or Ex)**: At 1st level, when a fire bomber throws a bomb that deals fire damage, the splash gains a +1 enhancement bonus to damage per die of fire damage dealt. Fire bombers only add their Intelligence bonus to damage from bombs or alchemical substances that deal fire damage. This otherwise works like the alchemist’s bomb and throw anything abilities. This ability alters bomb and throw anything.
+**Fire Bombardier (Su or Ex)**: At 1st level, when a fire bomber throws a bomb that deals fire damage, all creatures in the splash radius take an additional point of damage per die of fire damage dealt. Fire bombers only add their Intelligence bonus to damage from bombs or alchemical substances that deal fire damage. This otherwise works like the alchemist’s bomb and throw anything abilities. This ability alters bomb and throw anything.
 
 **Bonus Feats**: A fire bomber can select the Burn! Burn! Burn!, Fire Tamer, or Flame Heart feat in place of a discovery.
 
@@ -929,7 +929,7 @@ Crypt breakers use their powers of perception and alchemical adaptation to safel
 
 **Discoveries**: A crypt breaker may take the following rogue talents as discoveries: quick disable, trap sense, and trap spotter. Treat the crypt breaker's alchemist level as his rogue level for these talents.
 
-**Enhanced Alkahest (Su)**: At 14th level, a crypt breaker's alkahest grows more potent. Against constructs and corporeal undead, the crypt breaker's alkahest bombs gain a +1 enhancement bonus to damage per die rolled, and the bomb threatens a critical hit on a 19–20. This does not stack with other effects that improve critical hit threat ranges. This ability replaces persistent mutagen.
+**Enhanced Alkahest (Su)**: At 14th level, a crypt breaker's alkahest grows more potent. Against constructs and corporeal undead, the crypt breaker's alkahest bombs deal +1 points of damage per die, and the bomb threatens a critical hit on a 19–20. This does not stack with other effects that improve critical hit threat ranges. This ability replaces persistent mutagen.
 
 ## Fleshforge Researcher
 

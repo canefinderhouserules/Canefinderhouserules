@@ -131,7 +131,7 @@ The First World is a place of rampant life, and you can use some of its energy t
 
 **Saving Throw** none
 
-Your blast damages living creatures with light. This deals normal damage to undead creatures but also deals minimum damage (1 point of damage per d6, can’t be increased by the 9th-level improvement to metakinesis) to living creatures. Undead creatures that are particularly vulnerable to sunlight, such as vampires, take damage from the infused blast with a +1 enhancement bonus per die rolled.
+Your blast damages living creatures with light. This deals normal damage to undead creatures but also deals minimum damage (1 point of damage per d6, can’t be increased by the 9th-level improvement to metakinesis) to living creatures. Undead creatures that are particularly vulnerable to sunlight, such as vampires, take 1 extra point of damage per die from the infused blast.
 
 ### Plant Disguise
 

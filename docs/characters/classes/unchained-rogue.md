@@ -19,8 +19,8 @@ The rogue’s class skills are Acrobatics (Dex), Appraise (Int), Bluff (Cha), Cl
 | Level | Base Attack Bonus | Fort | Ref | Will | Special |
 |---|---|---|---|---|---|
 | 1st | +0 | +0 | +2 | +0 | Finesse training, sneak attack +1d6, trapfinding |
-| 2nd | +1 | +0 | +3 | +0 | Evasion, rogue talent |
-| 3rd | +2 | +1 | +3 | +1 | Danger sense +1, bonus combat feat, sneak attack +2d6 |
+| 2nd | +1 | +0 | +3 | +0 | Evasion, guile pool, rogue talent |
+| 3rd | +2 | +1 | +3 | +1 | Ambush, danger sense +1, bonus combat feat, sneak attack +2d6 |
 | 4th | +3 | +1 | +4 | +1 | Debilitating injury, rogue talent, uncanny dodge |
 | 5th | +3 | +1 | +4 | +1 | Rogue’s edge, sneak attack +3d6 |
 | 6th | +4 | +2 | +5 | +2 | Danger sense +2, rogue talent |
@@ -43,7 +43,7 @@ The rogue’s class skills are Acrobatics (Dex), Appraise (Int), Bluff (Cha), Cl
 
 The following are the class features of the rogue.
 
-**Weapon and Armor Proficiencies**: Rogues are proficient with all simple weapons, plus the hand crossbow, rapier, sap, short sword, and shortbow. They are proficient with light armor, but not with shields.
+**Weapon and Armor Proficiencies**: Rogues are proficient with all simple weapons, plus the blade boot, hand crossbow, rapier, sap, short sword, shortbow, sword cane, and switchblade knife. They are proficient with light armor, but not with shields.
 
 **Sneak Attack**: If a rogue can catch an opponent when he is unable to defend himself effectively from her attack, she can strike a vital spot for extra damage.
 
@@ -65,9 +65,17 @@ The rogue must be able to see the target well enough to pick out a vital spot an
 
 **Evasion (Ex)**: At 2nd level, a rogue can avoid even magical and unusual attacks with great agility. If she succeeds at a Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the rogue is wearing light armor or no armor. A helpless rogue does not gain the benefit of evasion.
 
+**Guile Pool (Ex)**: At 2nd level, a rogue gains a guile pool equal to half her rogue level + her Charisma modifier or her Intelligence modifier (choose one; minimum 1). She can spend 1 point on any skill check for a +2 bonus on that check; at 10th level, this bonus becomes +4. As a swift action, she can spend 1 point for a +1 circumstance bonus on attack rolls until the end of her turn. This bonus increases by 1 for every 4 levels beyond 2nd (+2 at 6th, +3 at 10th, +4 at 14th), to a maximum of +5 at 18th level. While she has at least 1 point in the pool, she is treated as having the Improved Feint feat.
+
+??? note "Original rule"
+
+    **Guile Pool (Ex)**: The pool used only the Charisma modifier.
+
 **Rogue Talents**: As a rogue gains experience, she learns a number of talents that aid her and confound her foes. Starting at 2nd level, a rogue gains one rogue talent. She gains an additional rogue talent for every 2 levels of rogue attained after 2nd level. A rogue cannot select an individual talent more than once.
 
 Talents marked with an asterisk add effects to a rogue’s sneak attack. Only one of these talents can be applied to an individual attack, and the decision must be made before the attack roll is made.
+
+**Ambush (Ex)**: At 3rd level, during a surprise round, a rogue can designate one attack as an ambush. If the ambush hits and deals sneak attack damage, it also deals extra precision damage equal to her class level. A target damaged by an ambush must succeed at a Fortitude save (DC 10 + half her rogue level + her Dexterity modifier) or be sickened for 1d4+1 rounds. She can change this effect to staggered at 8th level, nauseated at 13th level, and stunned at 18th level.
 
 **Danger Sense (Ex)**: At 3rd level, a rogue gains a +1 bonus on Reflex saves to avoid traps and a +1 dodge bonus to AC against attacks made by traps. In addition, she gains a +1 bonus on Perception checks to avoid being surprised by a foe. These bonuses increase by 1 every 3 rogue levels thereafter (to a maximum of +6 at 18th level). This ability counts as trap sense for the purpose of any feat or class prerequisite, and can be replaced by any archetype class feature that replaces trap sense. The bonuses gained from this ability stack with those gained from trap sense (from another class).
 
@@ -105,13 +113,13 @@ This defense denies another rogue the ability to sneak attack the character by f
 
 **Certainty (Ex)**: The rogue chooses one of the skills she selected with rogue’s edge. Once per day, the rogue can reroll a skill check she just made with the selected skill and take the better result. She can use this reroll with the selected skill one additional time per day at 10th level and every 5 levels thereafter. A rogue can select this talent multiple times. Each time, the rogue must choose a different skill. A rogue must have the rogue’s edge class feature before selecting this talent.
 
-**Coax Information (Ex)**: Lets you use Bluff, Diplomacy and Intimidate interchangeably: you can roll and do anything an Intimidate check would do using Bluff or Diplomacy instead, and so on. In short, it saves you from having to raise the other two.
+**Coax Information (Ex)**: Lets you use Bluff, Diplomacy and Intimidate interchangeably: you can roll and do anything an Intimidate check would do using Bluff or Diplomacy instead, and so on.
 
 ??? note "Original rule"
 
-    **Coax Information (Ex)**: A rogue with this talent can use Bluff or Diplomacy in place of Intimidate to force an opponent to act friendly toward her. When the duration Special Finesse training, sneak attack +1d6, trapfinding Evasion, rogue talent Danger sense +1, finesse training, sneak attack +2d6 Debilitating injury, rogue talent, uncanny dodge Rogue’s edge, sneak attack +3d6 Danger sense +2, rogue talent Sneak attack +4d6 Improved uncanny dodge, rogue talent Danger sense +3, sneak attack +5d6 Advanced talents, rogue talent, rogue’s edge Finesse training, sneak attack +6d6 Danger sense +4, rogue talent Sneak attack +7d6 Rogue talent Danger sense +5, rogue’s edge, sneak attack +8d6 Rogue talent Sneak attack +9d6 Danger sense +6, rogue talent Finesse training, sneak attack +10d6 Master strike, rogue talent, rogue’s edge of the attitude shift ends, that opponents’ attitude toward the rogue returns to its previous level, rather than dropping one level.
+    **Coax Information (Ex)**: A rogue with this talent can use Bluff or Diplomacy in place of Intimidate to force an opponent to act friendly toward her. When the duration of the attitude shift ends, that opponents’ attitude toward the rogue returns to its previous level, rather than dropping one level.
 
-**Combat Swipe**: Gain Deft Maneuvers as a bonus feat (the new feat that gives you all the more agile combat maneuvers).
+**Combat Swipe**: Gain [Deft Maneuvers](../../rules/feats/deft-maneuvers.md) as a bonus feat.
 
 ??? note "Original rule"
 
