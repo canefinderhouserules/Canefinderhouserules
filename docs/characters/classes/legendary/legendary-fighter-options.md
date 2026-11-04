@@ -383,7 +383,7 @@ While wearing a heavy, light, or tower shield, if the fighter makes a successful
 
 Giving the fighter 2 armor training options at 3rd level and 7th level, and then only 1 option at 11th level and 15th level (a total of 6 options) would mirror how the standard fighter functions. However, we recommend giving 2 options at each of those levels for a total of 8 options. This gives higher level fighters a small but much-needed boost. Also, instead of giving 2 options every 4 levels (2 at 3rd, 2 at 7th etc.), consider spreading out these options and giving an option every 2 levels instead. This evens out the progression and still gives the same number of options in total.
 
-Several of the advanced armor training options from the , including the versatile training option, are now prowess options (see below).
+Several of the advanced armor training options from the *Armor Master’s Handbook*, including the versatile training option, are now prowess options (see below).
 
 As a GM if you are using prowess options, allow one of these or the other, but not both.
 
@@ -403,7 +403,7 @@ Your familiarity with a specific type of armor increases the amount of protectio
 
 In addition to the armor mastery and shield mastery feats listed in the Armor Master’s Handbook, the following feats now also count as armor mastery or shield mastery feats for the purpose of a fighter selecting them with the armored master armor training option.
 
-In addition to the armor mastery and shield mastery feats listed in the , the following feats now also count as armor mastery or shield mastery feats for the purpose of a fighter selecting them with the armored master armor training option.
+In addition to the armor mastery and shield mastery feats listed in the *Armor Master’s Handbook*, the following feats now also count as armor mastery or shield mastery feats for the purpose of a fighter selecting them with the armored master armor training option.
 
 **Table: Armor and Shield Feats**
 
