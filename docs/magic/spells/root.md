@@ -1,6 +1,6 @@
 # Root
 
-**School** transmutation [ earth ]; **Level** arcanist 0, sorcerer/wizard 0  
+**School** transmutation [earth]; **Level** arcanist 0, sorcerer/wizard 0  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a pinch of dirt)  
 **Range** touch  

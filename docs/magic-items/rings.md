@@ -63,6 +63,63 @@ A character can only effectively wear two magic rings. A third magic ring doesn�
 
 ## Ring Descriptions
 
+### Band of Triumph
+
+**Aura** strong enchantment and evocation; **CL** 13th  
+**Slot** ring; **Price** 50,000 gp; **Weight** —
+
+This white-gold ring bears the relief image of a roaring lion. Once per day on command, the wearer can point the ring and mentally designate one or more creatures or objects in a 60-foot cone as enemies, after which the ring roars triumphantly. Selected targets in the area are affected by shout (Fortitude DC 20). All other objects in the area are unharmed, and all other creatures in the area receive the benefits of the inspire courage bardic performance as performed by a 7th-level bard for 3 rounds. When activating the ring, the wearer can expend 1 round of her bardic performance ability to use her own bard level to calculate the performance’s effect.
+
+In addition, the ring grants the wearer a +4 enhancement bonus to Charisma; treat this as a temporary ability bonus for the first 24 hours the ring is worn. Construction
+
+Requirements Forge Ring, eagle’s splendor, good hope, shout; Cost 25,000 gp
+
+### Commander’s Signet
+
+**Aura** moderate abjuration and illusion; **CL** 6th  
+**Slot** ring; **Price** 14,500 gp; **Weight** —
+
+This ornate ring of protection +2 is emblazoned with a winged eye in ruby and jet. The wearer of a commander’s signet projects an air of commanding authority that affects large groups; the wearer does not treat crowds as difficult terrain and gains a +5 competence bonus on Diplomacy or Intimidate checks to direct or influence crowds. The wearer can also cast magic mouth at will, but the message trigger must be “upon seeing a creature wearing the Eye of the last god” (which triggers the magic mouth for any dottari in uniform). Construction
+
+Requirements Forge Ring, eagle's splendor, magic mouth, shield of faith; Cost 7,750 gp
+
+### Guiding Ring of the Toil God
+
+**Aura** faint enchantment; **CL** 3rd  
+**Slot** ring; **Price** 2,600 gp; **Weight** —
+
+This gold ring is misshapen and uncomfortable to wear for long periods of time; inscribed on it is a crude symbol of a fire burning under an arch. Once per day, the wearer may use charm person. If the god of toil is the wearer’s patron deity, any time the wearer crafts a magic item, she may choose to pay half of the item’s construction cost instead of the full cost. The wearer spends time working on the item normally, but at the time of completion there is a 50% chance that the item turns out nonmagical and worthless. For example, if creating a magic bracer that normally costs 1,000 gp to craft, the wearer may craft it for only 500 gp, but there is a 50% chance the wearer’s shortcuts and cheap materials result in a valueless, nonfunctional item. Construction
+
+Requirements Craft Wondrous Item, charm person, fabricate; Cost 1,300 gp
+
+### Maintenance Overseer's Ring
+
+**Aura** faint divination; **CL** 4th  
+**Slot** ring; **Price** 8,000 gp; **Weight** —
+
+This tarnished signet is marked as belonging to a specific city no smaller than a large town, though it functions in any settlement of at least that size. After spending 5 days in a settlement with the maintenance overseer’s ring equipped, its wearer learns a great deal about the schematics of any sewers, tunnels, basements, and passages beneath the settlement. This knowledge is not necessarily absolute, but allows the wearer to act as though trained in Knowledge (dungeoneering) when answering questions about the settlement’s underground with a +5 bonus on all such checks.
+
+A maintenance overseer’s ring also grants the wearer an automatic Perception check to notice secret doors within 10 feet in any area beneath street level of a city to which the ring is attuned. A wearer who already receives a Perception check to perceive a secret door (such as a dwarf using stonecunning) rolls her Perception check twice and takes the better result. Construction
+
+Requirements Forge Ring, create treasure map; Cost 4,000 gp
+
+### Planefarer's Band
+
+**Aura** moderate transmutation; **CL** 10th  
+**Slot** ring; **Price** 30,000 gp; **Weight** —
+
+Once per day, the wearer of this ring can attune it to one of the four Elemental Planes for 24 hours. While on that plane, the ring grants the wearer the corresponding benefits below. Once per day on command, the wearer can gain these benefits even when on a different plane, but the effects last only 10 minutes.
+
+Plane of Air: The wearer gains a fly speed of 20 feet (average) and gains a +4 insight bonus on Wisdom checks to change the direction of gravity in an area with the subjective gravity planar trait.
+
+Plane of Earth: The wearer gains darkvision with a range of 60 feet, and she can walk across rock, metal, and other earthen surfaces as if under the effects of spider climb.
+
+Plane of Fire: The wearer gains fire resistance 20 and is able to walk atop lava, bubbling tar, and other dangerously hot surfaces as if under the effects of water walk.
+
+Plane of Water: The wearer can breathe underwater and gains a swim speed of 40 feet. Construction
+
+Requirements Forge Ring, planar adaptation; Cost 15,000 gp
+
 ### Ring of Animal Friendship
 
 **Aura** faint enchantment; **CL** 3rd  
@@ -193,6 +250,17 @@ The ring appears to be a major ring of energy resistance (fire) until the establ
 The ring appears to be a ring of water walking until the established condition is met.
 
 **Requirements** Forge Ring, summon monster VI, all appropriate spells; **Cost** 100,000 gp
+
+### Ring of Emancipation
+
+**Aura** faint transmutation and moderate evocation; **CL** 7th  
+**Slot** ring; **Price** 2,100 gp; **Weight** —
+
+This single thick iron band makes for a rather ugly ring. Rust pits the surface of the ring in places and the item seems on the brink of falling apart. Occasionally, these rings bear a tiny chain link or dented tankard symbol.
+
+While wearing a ring of emancipation, you gain a +2 competence bonus on all Open Lock and Escape Artist checks, in addition to all attack rolls made to sunder. Also, the ring has three charges, which can be expended at any time to cast shatter as a spell-like ability with a caster level equal to your character level. Each time a charge is expended, the ring becomes more rusted and marred. Upon the third charge being expended, the ring is destroyed. Construction
+
+Requirements Forge Ring, cat's grace, shatter; Cost 1,050 gp, 84 XP
 
 ### Ring of Energy Resistance
 
@@ -411,6 +479,24 @@ This ring allows the caster to use the spell telekinesis on command.
 
 **Requirements** Forge Ring, telekinesis; **Cost** 37,500 gp
 
+### Ring of the Forge God
+
+**Aura** faint abjuration; **CL** 3rd  
+**Slot** ring; **Price** 1,200 gp; **Weight** —
+
+This simple golden ring has a large red gemstone set into it that sparkles with an inner fire. The wearer of the ring gains fire resistance 10 against the first fire attack that hits him that day. This protection renews itself every morning at dawn. In addition, the wearer receives a +1 resistance bonus on saves made against fire spells and effects. The ring must be worn for 24 hours to have any effect. Construction
+
+Requirements Forge Ring, resist energy; Cost 600 gp, 48 XP
+
+### Ring of the Holy Knight
+
+**Aura** faint enchantment and transmutation; **CL** 5th  
+**Slot** ring; **Price** 3,000 gp; **Weight** —
+
+This simple gold band is engraved with the holy symbol of the goddess of valor. It functions as a ring of protection +1. In addition, the wearer can cast bless weapon and wartrain mount each once per day. At will, the wearer can make himself presentable as if using prestidigitation to clean up his clothing, skin, hair, and armor. Construction
+
+Requirements Forge Ring, bless weapon, prestidigitation, shield of faith, wartrain mount, creator must be at least 3rd level; Cost 1,500 gp
+
 ### Ring of the Ram
 
 **Aura** moderate transmutation; **CL** 9th  
@@ -421,6 +507,21 @@ The ring of the ram is an ornate ring forged of hard metal, usually iron or an i
 A newly created ring has 50 charges. When all the charges are expended, the ring becomes a nonmagical item.
 
 **Requirements** Forge Ring, bull’s strength, telekinesis; **Cost** 4,300 gp
+
+### Ring of the Stone Sibling
+
+**Aura** moderate conjuration; **CL** 9th  
+**Slot** ring; **Price** 7,400 gp; **Weight** —
+
+This gray ring looks like stone, but the material is soft and flexible. Once per day, as a standard action, you can touch a stone wall with your hand to create a stone duplicate of yourself.
+
+Immediately upon activating the ring of the stone sibling, your double steps out of the wall. It appears to be a stone statue carved in an exact likeness of you. The stone double stands 10 feet away from you and mimics your movements, as if reflected in a mirror. As a move-equivalent action, you can mentally command the stone sibling to move to a new location, but it must remain within 30 feet of you at all times.
+
+The stone sibling has hardness 8 and 50 hit points. It can take no actions other than to aid you, which it does every round on your turn. The stone sibling makes a +5 aid another check each round, either to aid your attack rolls or your Armor Class, as you command. It continues to render the same aid indefinitely until you command it otherwise (which requires a move action).
+
+The stone sibling lasts for 10 minutes, until it is destroyed, or until you dismiss it (a standard action), whichever comes first. Construction
+
+Requirements Forge Ring, mirror image, stone shape; Cost 3,700 gp, 296 XP
 
 ### Ring of Three Wishes
 
@@ -457,3 +558,34 @@ This special ring comes in four kinds (ring of wizardry I, ring of wizardry II, 
 On command, this ring gives its wearer the ability to see into and through solid matter. Vision range is 20 feet, with the viewer seeing as if he were looking at something in normal light even if there is no illumination. X-ray vision can penetrate 1 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker substances or a thin sheet of lead blocks the vision. Using the ring is exhausting, causing the wearer 1 point of Constitution damage per minute after the first 10 minutes of use in a single day. The ring must be used in 1-minute increments.
 
 **Requirements** Forge Ring, true seeing; **Cost** 12,500 gp rods
+
+### Sigil of the Sky Citadel
+
+**Aura** moderate abjuration; **CL** 10th  
+**Slot** ring; **Price** 16,000 gp; **Weight** —
+
+This adamantine band is capped with a stone sigil of the first clan to settle a sky citadel. This ring is keyed to interact with several devices and traps within the vaults—storehouses of ancient history and family wealth—of the sky citadel. The ring grants its wearer acid resistance 10. Three times per day as a swift action, the wearer can make himself undetectable by crafted and magical traps and creatures of the construct type for the following minute. This functions like greater invisibility within these limits and also prevents the character’s weight or presence from triggering traps. Construction
+
+Requirements Forge Ring, resist energy, sanctuary; Cost 8,000 gp
+
+### Swarmwalker's Ring
+
+**Aura** moderate conjuration; **CL** 7th  
+**Slot** ring; **Price** 26,000 gp; **Weight** —
+
+This shining, ash-white ring of bone is crafted to look like countless interlocking rat fangs, set with a dozen dark, garnet eyes like those of albino sewer-hunters. The wearer of this ring can utter a command word to call forth 1d3 rat swarms within 40 feet. These swarms each act immediately and vanish after 7 rounds. They are independent and not under the wearer’s control, though the wearer is immune to the effects and attacks of any swarm created through use of this ring.
+
+Alternatively, upon command, the ring’s wearer can use dimension door. This magical transportation must begin and end in a square that includes a swarm summoned by use of this ring.
+
+This ring’s abilities can be used a total of three times per day, in any combination. An urban druid (Pathfinder RPG Advanced Player’s Guide 101) wearing this ring can gain one additional use per day by expending three daily uses of her wild shape ability. Construction
+
+Requirements Forge Ring, dimension door, summon swarm; Cost 13,000 gp
+
+### Witness Hunter's Ring
+
+**Aura** moderate divination; **CL** 7th  
+**Slot** ring; **Price** 25,200 gp; **Weight** —
+
+This ring’s deep red stone hides the image of an eye within an eye or the symbol of a secret society, since many secret societies create these rings to protect their most important agents and leaders. By concentrating on the ring as a move action, the wearer learns whether he is being observed and whether it is by one or by more than one creature. Once per day, the wearer can use locate creature on command to target creatures that are currently observing him. In addition, the wearer can cast detect scrying once per day on command. Construction
+
+Requirements Forge Ring, detect scrying, locate creature; Cost 12,600 gp

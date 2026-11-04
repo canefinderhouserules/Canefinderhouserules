@@ -1,6 +1,6 @@
 # Touch of Madness
 
-**School** enchantment [ mind-affecting ]  
+**School** enchantment [mind-affecting]  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

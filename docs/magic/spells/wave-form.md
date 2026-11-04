@@ -1,6 +1,6 @@
 # Wave Form
 
-**School** transmutation [ water ]; **Level** arcanist 4, bloodrager 4, cleric 4, druid 4, hunter 4, oracle 4, shaman 4, sorcerer/wizard 4, warpriest 4  
+**School** transmutation [water]; **Level** arcanist 4, bloodrager 4, cleric 4, druid 4, hunter 4, oracle 4, shaman 4, sorcerer/wizard 4, warpriest 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

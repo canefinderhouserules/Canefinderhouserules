@@ -1,6 +1,6 @@
 # Steam Ray Fusillade
 
-**School** evocation [ fire , water ]; **Level** arcanist 7, sorcerer/wizard 7  
+**School** evocation [fire , water]; **Level** arcanist 7, sorcerer/wizard 7  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a scraping from a hydrothermal vent)  
 **Range** personal  

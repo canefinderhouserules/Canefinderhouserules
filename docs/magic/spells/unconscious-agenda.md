@@ -1,6 +1,6 @@
 # Unconscious Agenda
 
-**School** enchantment (compulsion) [ language-dependent , mind-affecting ]; **Level** arcanist 6, bard 6, inquisitor 6, skald 6, sorcerer/wizard 6, witch 6  
+**School** enchantment (compulsion) [language-dependent , mind-affecting]; **Level** arcanist 6, bard 6, inquisitor 6, skald 6, sorcerer/wizard 6, witch 6  
 **Casting Time** 10 minutes  
 **Components** V  
 **Range** Close (25 ft. + 5 ft./2 levels)  

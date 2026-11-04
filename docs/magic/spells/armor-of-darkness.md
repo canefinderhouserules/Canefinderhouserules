@@ -1,6 +1,6 @@
 # Armor of Darkness
 
-**School** abjuration [ darkness ]  
+**School** abjuration [darkness]  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

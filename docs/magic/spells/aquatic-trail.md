@@ -1,6 +1,6 @@
 # Aquatic Trail
 
-**School** divination [ water ]; **Level** druid 3, hunter 2, inquisitor 3, ranger 2, shaman 3  
+**School** divination [water]; **Level** druid 3, hunter 2, inquisitor 3, ranger 2, shaman 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  
