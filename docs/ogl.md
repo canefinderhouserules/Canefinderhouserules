@@ -763,3 +763,23 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Haunting of Harrowstone © 2011, Paizo Publishing, LLC; Author: Michael Kortes.
 
     Spires of Xin-Shalast © 2008, Paizo Publishing, LLC; Author: Greg A. Vaughan.
+
+    Legendary Fighters © 2018, Legendary Games; Author: Matt Goodall.
+
+    Legendary Shifters © 2017, Legendary Games; Authors: N. Jolly and Siobhan Bjorknas.
+
+    Legendary Magus © 2018, Legendary Games; Authors: Dave Nelson and Hal Kennette.
+
+    Legendary Alchemists © 2019, Legendary Games; Authors: N. Jolly, Jeff Collins, Mansoor Al-Shehail, Nathan Reinecke, Paul Fossgreen, and Jade Ripley.
+
+    Legendary Kineticists © 2016, Legendary Games; Author: Brian Jolly.
+
+    Legendary Swashbucklers © 2015, Legendary Games; Authors: Alex Augunas and Jason Nelson.
+
+    Legendary Gunslingers © 2017, Legendary Games; Authors: N. Jolly, Jason Nelson, Clinton J. Boomer, Robert Brookes, and Alex Augunas.
+
+    Legendary Hybrids: Kinetic Shinobi © 2016, Legendary Games; Author: N. Jolly.
+
+    Legendary Hybrids: Deadeye Hexer © 2016, Legendary Games; Author: Jeff Lee.
+
+    Ultimate Kineticist Compendium © 2019, Legendary Games; Lead Developer Onyx Tanuki.
