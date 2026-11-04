@@ -6,6 +6,8 @@ Race traits are tied to specific races or ethnicities. In order to select a race
 
 Only dwarfs may select one of these traits.
 
+**Child of the Lost Mines**: You come from a family whose ancestors worked in platinum mines that have since fallen to the dead. Your parents never explained why they’ve never returned, but they did make sure that you knew your way around a fight against undead foes. You gain a +1 trait bonus to weapon damage against undead.
+
 **Clearheaded**: You see through deception and lies. You gain a +1 trait bonus on opposed checks against the Bluff and Disguise skills and a +1 trait bonus on saving throws against illusion effects.
 
 **Deep Guardian**: The subtle power of the deep places of the world flows within you, and grants you mastery of summoning beings of earth and stone. Any creature you conjure with a summon spell that has the earth subtype or a burrow speed gains a +1 morale bonus on attack rolls and a +1 enhancement bonus to Armor Class for the duration of the spell that summoned it.
@@ -188,6 +190,8 @@ Only half-orcs may select one of these traits.
 
 **Lasting Ferociousness**: Increase the number of rounds you can act as disabled from your orc ferocity racial trait to 2 rounds.
 
+**Legacy of Sand**: A large tribe of orcs once adapted to life in the desert. Although this tribe is long extinct, some half-orcs carry its traits in their particularly large jaws, broad shoulders, and shockingly pale eyes. You often have dreams of hunts and strange ceremonies held under moonlight in the desert sands, which have instilled in you a fierce sense of tradition. You gain a +1 trait bonus on all Will saving throws.
+
 **Outcast**: Driven from town after town because of your heritage, you have become adept at living apart from others. You gain a +1 trait bonus on Survival skill checks, and Survival is always a class skill for you.
 
 **Iron Control** (raised in human society): You learned the hard way that expressing the rage you inherited from your orc blood exacerbates humans' fearful and hostile reactions to you; after years of effort, you've mastered self-control and buried your anger deep. Whenever you're confused and roll to determine behavior in a given round, subtract 10 from the result.
@@ -230,7 +234,11 @@ Only halflings may select one of these traits.
 
 Only humans may select one of these traits.
 
+**Latent Psion**: The power to affect the world with the mind is very much a reality in your distant homeland, and it remains potent in your mind and protects you from mental assault. You gain a +2 trait bonus on saves against mind-affecting effects.
+
 **Scholar of Ruins**: From the moment you could walk and talk, the ruins of ancient civilizations have fascinated you. Because of this, you have special insight into geography as well as expertise in exploring lost places. You gain a +1 trait bonus on Knowledge (geography) and Knowledge (dungeoneering) checks. One of these skills (your choice) is always a class skill for you.
+
+**Spirits in the Stone**: You have an almost instinctive ability to sense danger and peril in ruined structures. Whenever you’re in ruins, you gain a +2 trait bonus on initiative checks and a +1 trait bonus on saving throws against traps and natural hazards.
 
 **World Traveler**: Your family has taken the love of travel to an extreme, roaming the world extensively. You’ve seen dozens of cultures and have learned to appreciate the diversity of what the world has to offer. Select one of the following skills: Diplomacy, Knowledge (local), or Sense Motive. You gain a +1 trait bonus on that skill, and it is always a class skill for you.
 

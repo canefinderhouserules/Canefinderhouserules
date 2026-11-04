@@ -71,6 +71,8 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Heirloom Sword Training**: Your family has passed down training in the longsword, a tradition older than anyone can remember. You are proficient with the longsword. If your class grants longsword proficiency as well, you gain a +1 trait bonus on attacks of opportunity with longswords.
 
+**Hell Knight Initiate**: You have laboriously studied the training rites of various hell knight orders with the intent of joining one yourself. You gain a +2 trait bonus on damage rolls against outsiders summoned through conjuration (calling) and conjuration (summoning) spells and effects.
+
 **Helpful**: You always know the best way to assist your companions, be it assisting them with a task, defending them in battle, or helping them place a well-aimed strike. When using the aid another action, you grant your ally a +3 bonus instead of a +2 bonus.
 
 **Hidden Hand**: Your concealed weapons strike fast and true. You gain a +1 trait bonus on Sleight of Hand checks made to conceal light weapons and a +1 trait bonus on attack rolls when making an attack with a light weapon during a surprise round.
@@ -307,6 +309,8 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Urban Acolyte**: Growing up in a city has broadened your philosophy, and helped you interpret your patron’s divine will in a novel way. You gain Knowledge (local) as a class skill. Additionally, you can select one of the following subdomains using the normal rules for subdomains so long as your deity grants access to its associated domain: Competition, Duels, Education, Espionage, Fortifications, Industry, Legislation, Plague, or Riot.
 
+**Vile Domain**: Your connection with a malignant force has granted you great power. Choose a domain granted by an evil aligned deity, such as an archdevil or demon lord. You gain a +1 trait bonus to your caster level when casting spells that are granted by that domain. This doesn’t grant you the ability to cast such spells—you must still have access to the spells through some other means.
+
 **Wanderer’s Shroud**: Your wanderings often go unnoticed. Efforts to use the Diplomacy skill to gather information about you take a –1 penalty, and you gain a +1 trait bonus on all saving throws against scrying and mind-reading effects that allow saving throws.
 
 **Watchful Eye**: You once fell asleep during a task that required your attention. A vision of your patron awakened you just in time to avoid failing at your task. You gain a +3 trait bonus on Perception checks attempted while you are alone on guard duty.
@@ -421,6 +425,8 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Outcast’s Intuition**: You are able to sense the motives of others and use that sense to bolster your magic against dispelling. You gain a +1 trait bonus on Sense Motive checks, and Sense Motive is always a class skill for you. In addition, your caster level is treated as 1 level higher for the purposes of any attempts to dispel your magic.
 
+**Outsider Ties**: An outsider visited you at a young age, and you have had a significant affinity with that type of outsider ever since. Choose a subtype of outsider, such as angel or elemental. When you summon an outsider of that subtype via *summon monster*, *planar ally*, *planar binding*, or similar spells and abilities, the summoned creature gains a number of temporary hit points equal to the level of spell used to summon it.
+
 **Partial Protege**: You are adept at disguising your true talents. You gain a +1 trait bonus on Bluff checks and on Use Magic Device checks made to emulate a class feature.
 
 **Perfectionist’s Brew**: You know that potion recipes should be followed with exact precision. You gain a +2 trait bonus on all Craft (alchemy) checks and on Spellcraft checks made to brew potions.
@@ -497,6 +503,8 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Scorned by Magic**: As a youth, you assisted a wise woman or witch doctor who removed magical maladies from the needy and was present for the breaking of many spells, or perhaps you passed through a dead magic zone. Whatever the cause, magic seems a little more reluctant to affect you than others. Reduce the caster level of spells and spell-like abilities cast upon you by 1 for the purpose of attempting dispel checks and overcoming your spell resistance (if any).
 
+**Winter Witchcraft Survivor**: You narrowly escaped death when a winter witch punished you for opposing her. You gain cold resistance 5 against the first cold damage you take each day, and gain a +2 bonus on saving throws against the fear effects of creatures with the cold subtype.
+
 ## Social Traits
 
 Social traits reflect your upbringing; your background in high society or lack thereof; and your history with respect to your parents, siblings, friends, competitors, and enemies.
@@ -516,6 +524,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 **Bastard**: You were born out of wedlock. You have always been an outsider in society, and in your own family. This perspective has sharpened your insight. You gain a +1 trait bonus on Sense Motive checks, and Sense Motive is always a class skill for you.
 
 **Beast Bond**: You share a close bond with animals. You gain a +1 bonus on Handle Animal checks and Ride checks. One of these skills (your choice) is always a class skill for you.
+
+**Binder’s Blood**: Your lineage features a large number of genie callers, granting you insight into the intricacies of genie binding. You gain a +2 trait bonus on any Charisma-based checks when directly interacting with a genie.
 
 **Bruising Intellect**: Your sharp intellect and rapier-like wit bruise egos. Intimidate is always a class skill for you, and you may use your Intelligence modifier when making Intimidate checks instead of your Charisma modifier.
 
@@ -538,6 +548,8 @@ Social traits reflect your upbringing; your background in high society or lack t
 **Elemental Negotiator**: You have traveled to the Elemental Planes under the protection of a powerful group of merchants or spellcasters. At character creation, you learn one of the following languages as a bonus language: Aquan, Auran, Ignan, or Terran. Additionally, your options for bonus languages from having a high Intelligence score include the other three elemental languages, in addition to those language options allowed by your race and class. You gain a +2 trait bonus on Diplomacy and Bluff checks when using one of these languages to communicate with a creature originating from the language’s corresponding Elemental Plane.
 
 **Excellent Penmanship**: You are a master of calligraphy, an art once highly valued in a fallen empire. The DC to detect forgeries you create increases by 2. If you attempt to persuade someone via a written message, you gain a +2 bonus on any Bluff, Diplomacy, or Intimidate check attempted for that communication. Linguistics is always a class skill for you.
+
+**Expressive Pantomime**: You have learned to express yourself without having to depend on words. When attempting a Bluff check to deliver a secret message, you can take a –5 penalty on the check to communicate a simple message even to creatures that do not share a language with you. You cannot communicate with mindless creatures.
 
 **Fast Talker**: You had a knack for getting yourself into trouble as a child, and as a result developed a silver tongue at an early age. You gain a +1 trait bonus on Bluff checks, and Bluffis always a class skill for you.
 
