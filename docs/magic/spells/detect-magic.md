@@ -8,7 +8,7 @@
 **Duration** concentration, up to 1 min./level (D)  
 **Saving Throw** none; **Spell Resistance** no
 
-**Component**: V, S **Range** 60 ft. **Area** cone-shaped emanation **Duration** concentration, up to 1 min./level (D) **Saving Throw** none; **Spell Resistance** no You detect magical auras. The amount of information revealed depends on how long you study a particular area or subject.
+You detect magical auras. The amount of information revealed depends on how long you study a particular area or subject.
 
 *1st Round*: Presence or absence of magical auras.
 

@@ -8,7 +8,7 @@
 **Duration** 1 round/level (D)  
 **Saving Throw** none; **Spell Resistance** no
 
-**Saving Throw**: none; **Spell Resistance**: no This spell causes a field of rubbery black tentacles to appear, burrowing up from the floor and reaching for any creature in the area.
+This spell causes a field of rubbery black tentacles to appear, burrowing up from the floor and reaching for any creature in the area.
 
 Every creature within the area of the spell is the target of a combat maneuver check made to grapple each round at the beginning of your turn, including the round that *black tentacles* is cast. Creatures that enter the area of effect are also automatically attacked. The tentacles do not provoke attacks of opportunity. When determining the tentacles’ CMB, the tentacles use your caster level as their base attack bonus and receive a +4 bonus due to their Strength and a +1 size bonus. Roll only once for the entire spell effect each round and apply the result to all creatures in the area of effect.
 

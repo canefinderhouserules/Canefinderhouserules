@@ -7,8 +7,9 @@
 **Duration** see text  
 **Saving Throw** see text; **Spell Resistance** yes
 
-**Target, Effect, or Area** see text **Duration** see text **Saving Throw** see text; **Spell Resistance** yes You don’t so much cast a *miracle* as request one. You state what you would like to have happen and request that your deity (or the power you pray to for spells) intercede.
+**Target, Effect, or Area** see text **Duration** see text **Saving Throw** see text; **Spell Resistance** yes
 
+You don’t so much cast a *miracle* as request one. You state what you would like to have happen and request that your deity (or the power you pray to for spells) intercede.
 A *miracle* can do any of the following things. • Duplicate any cleric spell of 8th level or lower. • Duplicate any other spell of 7th level or lower. • Undo the harmful effects of certain spells, such as *feeblemind* or
 
 *insanity*. • Have any effect whose power level is in line with the above effects.

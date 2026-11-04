@@ -8,4 +8,4 @@
 **Duration** 1 round/level (D); see text  
 **Saving Throw** Will negates; see text; **Spell Resistance** yes
 
-**Components**: V, S **Target** one animal This spell functions like *hold person,* except that it affects an animal instead of a humanoid.
+This spell functions like *hold person,* except that it affects an animal instead of a humanoid.

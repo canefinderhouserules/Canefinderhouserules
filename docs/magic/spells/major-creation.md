@@ -8,8 +8,9 @@
 **Duration** see text  
 **Saving Throw** none; **Spell Resistance** no
 
-**Casting Time**: 10 minutes **Range** close (25 ft. + 5 ft./2 levels) **Duration** see text This spell functions like *minor creation,* except that you can also create an object of mineral nature: stone, crystal, metal, or the like. The duration of the created item varies with its relative hardness and rarity, as indicated on the following table.
+**Casting Time**: 10 minutes **Range** close (25 ft. + 5 ft./2 levels) **Duration** see text
 
+This spell functions like *minor creation,* except that you can also create an object of mineral nature: stone, crystal, metal, or the like. The duration of the created item varies with its relative hardness and rarity, as indicated on the following table.
 | Hardness and Rarity Examples | Duration |
 |---|---|
 | Vegetable matter | 2 hr./level |

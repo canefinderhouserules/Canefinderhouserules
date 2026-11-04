@@ -8,7 +8,7 @@
 **Duration** 2 hours/level  
 **Saving Throw** none; **Spell Resistance** yes
 
-**Component** V, S, M (a vial of unholy water and 25 gp worth (5 pounds) of silver dust, all of which must be sprinkled around the area), DF **Range** close (25 ft. + 5 ft./2 levels) **Area** 20-ft.-radius emanation **Duration** 2 hours/level **Saving Throw** none; **Spell Resistance** yes This spell imbues an area with negative energy. The DC to resist negative channeled energy within this area gains a +3 profane bonus. Every undead creature entering a *desecrated* area gains a +1 profane bonus on all attack rolls, damage rolls, and saving throws. An undead creature created within or summoned into such an area gains +1 hit points per HD.
+This spell imbues an area with negative energy. The DC to resist negative channeled energy within this area gains a +3 profane bonus. Every undead creature entering a *desecrated* area gains a +1 profane bonus on all attack rolls, damage rolls, and saving throws. An undead creature created within or summoned into such an area gains +1 hit points per HD.
 
 Detect Chaos/Evil/Good/Law
 

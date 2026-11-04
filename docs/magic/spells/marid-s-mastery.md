@@ -6,4 +6,6 @@
 **Range** touch  
 **Target** creature touched  
 **Duration** 1 minute/level  
-**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless) The target gains a +1 bonus on attack and damage rolls if it and its opponent are touching water. If the opponent or the target is touching the ground, the target takes a –4 penalty on attack and damage rolls.
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
+
+The target gains a +1 bonus on attack and damage rolls if it and its opponent are touching water. If the opponent or the target is touching the ground, the target takes a –4 penalty on attack and damage rolls.

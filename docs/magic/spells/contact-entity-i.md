@@ -40,7 +40,6 @@ Each *contact entity* spell is tied to a single kind of entity, which determines
 | Shantak | A shard of rock harvested from another world [chaotic] |
 | Yangethe | Scroll of an emotion spell of 4th level or higher |
 
-
 | Contact Entity III | Material Component |
 |---|---|
 | Aatheriexa | A swatch of flesh recently damaged by magic [evil] |
@@ -52,7 +51,6 @@ Each *contact entity* spell is tied to a single kind of entity, which determines
 | Spawn of Yog-Sothoth | All blood drained from a sacrificed intelligent humanoid [chaotic, evil] |
 | Wendigo | Must devour the flesh of sentient creatures with 8 HD total [chaotic, evil] |
 | Yithian | Quartz geode |
-
 
 | Contact Entity IV | Material Component |
 |---|---|

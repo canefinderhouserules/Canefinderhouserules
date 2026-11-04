@@ -8,4 +8,6 @@
 **Duration** instantaneous  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-**Saving Throw**: Will negates (harmless); **Spell Resistance**: yes (harmless) Upon casting this spell, you target a living creature that has –1 or fewer hit points. That creature is automatically stabilized and does not lose any further hit points. If the creature later takes damage, it continues dying normally.
+**Saving Throw**: Will negates (harmless); **Spell Resistance**: yes (harmless)
+
+Upon casting this spell, you target a living creature that has –1 or fewer hit points. That creature is automatically stabilized and does not lose any further hit points. If the creature later takes damage, it continues dying normally.

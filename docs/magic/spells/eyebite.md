@@ -8,8 +8,9 @@
 **Duration** 1 round/level  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-**Saving Throw**: Fortitude negates; **Spell Resistance**: yes Each round, you can target a single living creature, striking it with waves of power. Depending on the target’s HD, this attack has as many as three effects.
+**Saving Throw**: Fortitude negates; **Spell Resistance**: yes
 
+Each round, you can target a single living creature, striking it with waves of power. Depending on the target’s HD, this attack has as many as three effects.
 | HD | Effect |
 |---|---|
 | 10 or more | Sickened |

@@ -4,8 +4,9 @@
 **Casting Time** 10 minutes  
 **Components** V, S, M (a ball of pitch)  
 **Range** close (25 ft. + 5 ft./2 levels)  
-**Target** one siege engine of any size This spell functions like energy siege shot, except it can target siege engines of any size, not just Large siege engines.  
+**Target** one siege engine of any size  
 **Duration** 10 minute/level  
 **Saving Throw** Fortitude negates (harmless, object); **Spell Resistance** yes (harmless/object)
 
+This spell functions like energy siege shot, except it can target siege engines of any size, not just Large siege engines.
 
