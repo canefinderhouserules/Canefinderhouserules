@@ -18,12 +18,6 @@ This amulet grants an enhancement bonus of +1 to +5 on attack and damage rolls w
 
 **Requirements** Craft Wondrous Item, greater magic fang, creator’s caster level must be at least three times the amulet’s bonus, plus any requirements of the melee weapon special abilities; **Cost** 2,000 gp (+1), 8,000 gp (+2), 18,000 gp (+3), 32,000 gp (+4), 50,000 gp (+5)
 
-??? note "Original rule"
-
-    **Price** 5,000 gp (+1), 20,000 gp (+2), 45,000 gp (+3), 80,000 gp (+4), 125,000 gp (+5)
-
-    **Cost** 2,500 gp (+1), 10,000 gp (+2), 22,500 gp (+3), 40,000 gp (+4), 62,500 gp (+5)
-
 ### Amulet of Natural Armor
 
 **Aura** faint transmutation; **CL** 5th  

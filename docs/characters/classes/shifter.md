@@ -139,17 +139,11 @@ At 20th level, a shifter may use shifter shape at will and gains the shapechange
 
 ## Archetypes
 
-A Canefinder shifter can use the archetypes of [both](shifter-archetypes.md) [versions](legendary/legendary-shifter-archetypes.md). Read them as follows.
-
-- **Wild shape** means shifter shape, and any ability that alters or replaces one alters or replaces the other. A **major form** means the form of the aspect’s animal taken with shifter shape.
-- **Minor form** means the aspect’s form taken with shifter aspect.
-- **Shifter evolution** means shifter claws, including abilities that alter or replace it. Its bonus damage is the claw damage of this class.
-- **Final aspect** means master of the many forms.
-- An archetype that replaces **speed shift** replaces shifter’s fury. Lightning shift and instant shift don’t exist, so an archetype that replaces them gives up nothing for them.
+See [Canefinder Shifter Archetypes](canefinder-shifter-archetypes.md).
 
 ## Shifter Aspects
 
-These aspects are the minor forms a Canefinder shifter can take with shifter aspect. See the [Swarm Shifter](shifter-archetypes.md#swarm-shifter) for the vermin aspect.
+These aspects are the minor forms a Canefinder shifter can take with shifter aspect. See the [Swarm Shifter](canefinder-shifter-archetypes.md#swarm-shifter) for the vermin aspect.
 
 ### Bat
 
@@ -242,6 +236,10 @@ These aspects are the minor forms a Canefinder shifter can take with shifter asp
 ### Scorpion
 
 **Minor Form**: You gain a +1 competence bonus on any poison DC you use. Any wildshape level allows for Poison if the form you take has it. This bonus increases to +2 at 8th level and +3 at 13th level.
+
+### Shark
+
+**Minor Form**: You deal an additional +2 damage on attacks made against foes whose hit points are lower than their maximum. This bonus increases to +3 at 8th level and +4 at 15th level.
 
 ### Snake
 
