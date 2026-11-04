@@ -111,6 +111,8 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Instigate Psychic Duel](instigate-psychic-duel.md)**: Start a psychic duel between yourself and another creature.
 - **[Intensify Psyche](intensify-psyche.md)**: +2 on social checks and emotion DCs, –2 on saves against emotion and pain.
 - **[Invisibility](invisibility.md)**: Subject is invisible for 1 min./level or until it attacks.
+- **[Invisibility Bubble](invisibility-bubble.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
+- **[Invisibility Bubble, Mass](invisibility-bubble-mass.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
 - **[Jealous Rage](jealous-rage.md)**: Target attacks anyone who receives a benefit it does not.
 - **[Levitate](levitate.md)**: Subject moves up and down at your direction.
 - **[Life Pact](life-pact.md)**: Affected creatures automatically donate hp to stabilize fallen ally.
@@ -181,6 +183,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
 - **[Force Punch](force-punch.md)**: Target takes 1d4 force damage per level and is pushed away.
 - **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
+- **[Free Swim](free-swim.md)**: The target can move and attack underwater normally without the usual penalties involved with underwater combat, as…
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
 - **[Haste](haste.md)**: One creature moves faster, gains an extra attack and +1 on attack rolls, AC, and Reflex saves, and can quicken a spell once per turn.
 - **[Helping Hand](helping-hand.md)**: Ghostly hand leads subject to you.
@@ -408,6 +411,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Mislead](mislead.md)**: Turns you invisible and creates illusory double.
 - **[Object Possession, Greater](object-possession-greater.md)**: As possess object, but the object is more powerful and you can possess a construct.
 - **[Phasic Challenge](phasic-challenge.md)**: An enemy and an ally can affect only each other.
+- **[Possession, Greater](possession-greater.md)**: This spell functions as possession, but when you possess a host, you enter the host’s body and your physical body…
 - **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
 - **[Repulsion](repulsion.md)**: Creatures can’t approach you.
 - **[Sealed Life, Greater](sealed-life-greater.md)**: As sealed life, plus death ward and immunity to soul transference.

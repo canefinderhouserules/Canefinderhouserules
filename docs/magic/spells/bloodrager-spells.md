@@ -158,6 +158,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Spider Climb](spider-climb.md)**: Grants ability to walk on walls and ceilings.
 - Steal Breath
 - **[Splinter Spell Resistance](splinter-spell-resistance.md)**: Your weapon lowers a foe's spell resistance by 5.
+- **[Stabilize Pressure](stabilize-pressure.md)**: You instantly stabilize the target’s pressure, causing it to adjust to its current pressure all at once.
 - **[Steal Size](steal-size.md)**: Shrinks a larger target and enlarges you.
 - **[Stone Call](stone-call.md)**: 2d6 damage to all creatures in area.
 - **[Stone Discus](stone-discus.md)**: Flying discus deals bludgeoning or slashing damage.
@@ -227,6 +228,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Pain Strike](pain-strike.md)**: Inflicts 1d6 nonlethal damage 1 round/level.
 - Paragon Surge
 - **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
+- **[Pressure Adaptation](pressure-adaptation.md)**: The target adapts incredibly quickly to changes in pressure, adjusting to 100 feet of new pressure (or the entire…
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 - **[Psychic Leech](psychic-leech.md)**: Fatigue a target and gain +2 Strength and Dexterity.
 - **[Pyrotechnic Eruption](pyrotechnic-eruption.md)**: Erupting flames burn a target several times.
@@ -331,12 +333,14 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Wall of Ice](wall-of-ice.md)**: *Ice plane* creates wall or *hemisphere* creates dome.
 - **[Wall of Sound](wall-of-sound.md)**: Sonic wall deflects and damages creatures.
 - **[Warp Metal](warp-metal.md)**: Permanently warps metal objects.
+- **[Wave Form](wave-form.md)**: You transform into a wave of frothing water up to 15 feet wide and 15 feet tall, as space permits, and then surge…
 - **[Wooden Wing Shield](wooden-wing-shield.md)**: Your wings become a barrier granting a +4 shield bonus to AC.
 - Wreath of Blades
 
 ## 5th-Level Bloodrager Spells
 
 - **[Naga Shape II](naga-shape-ii.md)**: Assume a naga form with more abilities.
+- **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: This spell functions like sun’s disdain, except that it can affect multiple creatures.
 
 ## 6th-Level Bloodrager Spells
 

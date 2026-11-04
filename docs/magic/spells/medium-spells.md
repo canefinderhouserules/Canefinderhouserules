@@ -155,6 +155,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./ level.
 - **[Enchantment Sight](enchantment-sight.md)**: See which creatures are under enchantment effects.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
+- **[Extreme Buoyancy](extreme-buoyancy.md)**: The target’s buoyancy becomes and stays swiftly rising, regardless of how dense the target and its gear are.
 - **[Extreme Flexibility](extreme-flexibility.md)**: Gain a bonus to AC, on Escape Artist checks, and when grappling.
 - **[False Life](false-life.md)**: Gain 1d10 temporary hp + 1/level (max +10).
 - **[Find Traps](find-traps.md)**: Notice traps as a rogue does.
@@ -180,9 +181,12 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Intensify Psyche](intensify-psyche.md)**: +2 on social checks and emotion DCs, –2 on saves against emotion and pain.
 - **[Investigative Mind](investigative-mind.md)**
 - **[Invisibility](invisibility.md)**: Subject is invisible for 1 min./level or until it attacks.
+- **[Invisibility Bubble](invisibility-bubble.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
+- **[Invisibility Bubble, Mass](invisibility-bubble-mass.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
 - **[Irregular Size](irregular-size.md)**: Curse shrivels arms, legs, or wings.
 - **[Knock](knock.md)**: Opens locked or magically sealed door.
 - Lend Path
+- **[Lead Anchor](lead-anchor.md)**: The target’s buoyancy becomes and stays swiftly sinking, regardless of how dense the target and its gear are.
 - **[Levitate](levitate.md)**: Subject moves up and down at your direction.
 - **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
 - **[Magic Mouth](magic-mouth.md)**: Object speaks once when triggered.
@@ -192,6 +196,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you.
 - **[Misdirection](misdirection.md)**: Misleads divinations for 1 creature or object.
 - Mythic Severance
+- **[Neutral Buoyancy](neutral-buoyancy.md)**: The target’s buoyancy becomes and stays neutral, regardless of how dense the target and its gear are.
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
 - **[Object Possession, Lesser](object-possession-lesser.md)**: Project your soul into an object, animating it.
 - **[Oneiric Horror, Greater](oneiric-horror-greater.md)**: As oneiric horror, plus Str damage.
@@ -270,6 +275,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Find Fault](find-fault.md)**: Learn a creature's weaknesses and gain +5 on your first attack.
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
 - **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
+- **[Free Swim](free-swim.md)**: The target can move and attack underwater normally without the usual penalties involved with underwater combat, as…
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
 - **[Geomessage](geomessage.md)**: Leave an invisible message on a surface
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
@@ -393,6 +399,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 
 ## 5th-Level Medium Spells
 
+- **[Seeds of Influence, Greater](seeds-of-influence-greater.md)**: This spell functions as seeds of influence, except that if the target is protected by a spell that grants immunity,…
 - **[Subjective Reality](subjective-reality.md)**: Treat a creature or object as an illusion that cannot harm you.
 
 ## 6th-Level Medium Spells

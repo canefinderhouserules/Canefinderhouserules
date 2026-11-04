@@ -3,11 +3,13 @@
 ## 1st-Level Paladin Spells
 
 - **[Alleviate Addiction](alleviate-addiction.md)**: Subject ignores the effects of addictions.
+- **[Animal Purpose Training](animal-purpose-training.md)**: You instill the target animal with a general purpose (see the Handle Animal skill), which can be any purpose except…
 - **[Aspect of the Nightingale](aspect-of-the-nightingale.md)**: Clear voice, bonus on Diplomacy and Perform.
 - **[Bed of Iron](bed-of-iron.md)**: Lets targets sleep comfortably in armor.
 - **[Bless](bless.md)**: Allies gain a +1 divine bonus on attack rolls and saves against fear.
 - **[Bless Water](bless-water.md)**: Makes holy water.
 - **[Bless Weapon](bless-weapon.md)**: Weapon strikes true against evil foes.
+- **[Blessed Fist](blessed-fist.md)**: The target is considered to be armed even when unarmed, so it doesn’t provoke attacks of opportunity when it attacks…
 - **[Blessing of the Watch](blessing-of-the-watch.md)**: *Bless* that works only in the caster’s home city.
 - **[Bowstaff](bowstaff.md)**: A shortbow may double as a club, or a longbow as a quarterstaff.
 - **[Brightest Night](brightest-night.md)**: grant or enhance low-light vision
@@ -54,16 +56,20 @@
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
 - **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
 - **[Preserve Grace](preserve-grace.md)**: Grant a phylactery of faithfulness effect.
+- **[Protection from Chaos](protection-from-chaos.md)**: This spell functions like protection from evil, except that the deflection and resistance bonuses apply to attacks…
+- **[Protection from Evil](protection-from-evil.md)**: This spell wards a creature from attacks by evil creatures, from mental control, and from summoned creatures.
 - **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
 - **[Resistance](resistance.md)**: Subject gains +1 on saving throws.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
 - **[Rite of Bodily Purity](rite-of-bodily-purity.md)**: Meditative spell: bonus against disease and poison, with a reroll.
+- **[Shield of Fortification](shield-of-fortification.md)**: You create a magical barrier that protects a target's vital areas.
 - **[Shield of Shards](shield-of-shards.md)**: Your shield breaks into orbiting shards that attack.
 - **[Sign of the Dawn](sign-of-the-dawn.md)**: Silently tell creatures you worship the sun deity.
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
 - **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
 - **[Steady Saddle](steady-saddle.md)**: Steady a saddle for mounted ranged attacks
+- **[Stunning Barrier](stunning-barrier.md)**: You are closely surrounded by a barely visible magical field.
 - **[Sun Metal](sun-metal.md)**: Weapon touched bursts into flames.
 - **[Swift Girding](swift-girding.md)**: Instantly clads willing targets in chosen armor.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
@@ -79,13 +85,16 @@
 
 ## 2nd-Level Paladin Spells
 
+- **[Abeyance](abeyance.md)**: Abeyance suppresses the effects of a single curse on a creature.
 - **[Angelic Aspect, Lesser](angelic-aspect-lesser.md)**: Gain some physical characteristics of an angelic being.
 - **[Aquatic Cavalry](aquatic-cavalry.md)**: Summon hippocampi to serve as aquatic mounts.
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
 - **[Blade Tutor's Spirit](blade-tutors-spirit.md)**: Reduces penalties on your melee attacks.
 - **[Blessing of Luck and Resolve](blessing-of-luck-and-resolve.md)**: A favored blessing of halfling clerics, this spell grants its target a +2 morale bonus on saving throws.
+- **[Blessing of Luck and Resolve, Mass](blessing-of-luck-and-resolve-mass.md)**: cleric 6, inquisitor 6, paladin 4
 - **[Blinding Ray](blinding-ray.md)**: School evocation [good, light]; Level cleric 2, inquisitor 3, paladin 2 Casting Time 1 standard action.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
+- **[Bullet Ward](bullet-ward.md)**: You toss several adamantine bullets into the air, which then hover protectively nearby and intercept firearm attacks…
 - **[Carry Companion](carry-companion.md)**: Turns a willing animal into a stone figurine.
 - **[Contest of Skill](contest-of-skill.md)**: Target’s critical threats fail to confirm.
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
@@ -127,6 +136,7 @@
 - **[Sea Steed](sea-steed.md)**: Your mount adapts to an aquatic environment.
 - **[Sense Madness](sense-madness.md)**: Determine mental disturbances in nearby creatures.
 - **[Shared Training](shared-training.md)**: grant a teamwork feat to allies
+- **[Shield Companion](shield-companion.md)**: This spell creates a special mystical connection between you and your companion creature—animal companion, bonded…
 - **[Shield Other](shield-other.md)**: You take half of subject’s damage.
 - **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
 - **[Soothing Word](soothing-word.md)**: The target of this spell causes several conditions that he suffers from to be lessened in severity by one step…
@@ -144,6 +154,7 @@
 - **[Accept Affliction](accept-affliction.md)**: Transfer an affliction or condition from a creature to yourself.
 - **[Angelic Aspect](angelic-aspect.md)**: Gain wings, resistances and DR 5/evil.
 - **[Aura of Inviolate Ownership](aura-of-inviolate-ownership.md)**: Targets gain +20 to CMD against disarm and steal.
+- **[Bestow Auras](bestow-auras.md)**: You transfer one or more of your paladin or antipaladin auras (such as aura of courage and aura of resolve) to…
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage +1/level (max. +10).
 - **[Damnation](damnation.md)**: Punish creatures for evil spells they know or that affect them.
@@ -161,12 +172,16 @@
 - **[Flame Steed](flame-steed.md)**: Conjure a mount made of flame.
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
 - **[Heal Mount](heal-mount.md)**: As *heal* on horse or other special mount.
+- **[Life Current](life-current.md)**: You infuse the current with positive energy.
 - **[Litany of Admonition](litany-of-admonition.md)**: Stagger a creature by pointing out its failures.
 - **[Litany of Dependability](litany-of-dependability.md)**: A creature takes the average result on its next roll.
 - **[Litany of Escape](litany-of-escape.md)**: Teleports a friend out of a grapple.
 - **[Litany of Sight](litany-of-sight.md)**: You can see invisible creatures and objects within 30 feet of you.
 - **Magic Circle against Chaos/Evil**: As *protection from chaos*, but 10-ft. radius and 10 min./level.
+- **[Magic Circle against Chaos](magic-circle-against-chaos.md)**: This spell functions like magic circle against evil, except that it is similar to protection from chaos instead of…
+- **[Magic Circle against Evil](magic-circle-against-evil.md)**: All creatures within the area gain the effects of a protection from evil spell, and evil summoned creatures cannot…
 - **[Magic Weapon, Greater](magic-weapon-greater.md)**: Weapon gains +1 bonus/four levels (max +5).
+- **[Mantle of Calm](mantle-of-calm.md)**: You surround yourself with a mantle of calm serenity.
 - **[Moonrise Arrow](moonrise-arrow.md)**: Ammunition counts as magic and silver and harms incorporeal undead and shapechangers.
 - **[Planned Assault](planned-assault.md)**: Planned actions grant bonuses for the first round.
 - **[Positive Pulse, Greater](positive-pulse-greater.md)**: A large pulse of positive energy damages undead and bolsters living creatures
@@ -179,17 +194,20 @@
 - **[Sanctify Weapons](sanctify-weapons.md)**: Weapons in the area bypass the DR of one subtype of evil outsider.
 - **[Scales of Deflection](scales-of-deflection.md)**: Touch attacks against you resolve against your normal AC.
 - **[Second Wind](second-wind.md)**: Heal 2d8 + 1/level when below one-quarter hit points.
+- **[Shield of Fortification, Greater](shield-of-fortification-greater.md)**: This spell functions as shield of fortification, except there is a 50% chance that the critical hit or sneak attack…
 - **[Shield of Wings](shield-of-wings.md)**: Gain five burning wings that grant flight and fire resistance.
 - **[Silverlight](silverlight.md)**: Silvery light dazzles and sickens creatures with DR/silver.
 - **[Sky Steed](sky-steed.md)**: Grant your mount angelic wings.
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
 - **[Spotlight](spotlight.md)**: bright light on a target suppresses nearby light and ruins its Stealth
+- **[Stunning Barrier, Greater](stunning-barrier-greater.md)**: This spell functions as stunning barrier, except as noted above, and it provides a +2 bonus to AC and on saving throws.
 - **[Tactical Formation](tactical-formation.md)**: Adjacent allies gain a deflection bonus to AC.
 - **[Tail Strike](tail-strike.md)**: Grow a draconic tail with a slam attack.
 - **[Talisman of Reprieve](talisman-of-reprieve.md)**: Allies ignore planar alignment penalties.
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
 - **[Titanic Anchoring](titanic-anchoring.md)**: You become nearly immovable by combat maneuvers.
 - **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
+- **[Unlife Current](unlife-current.md)**: You infuse the current with positive energy.
 - **[Untold Wonder](untold-wonder.md)**: Childlike wonder turns emotion penalties into bonuses.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 
@@ -220,6 +238,7 @@
 - **[Eaglesoul](eaglesoul.md)**: Combat bonuses against evil creatures, especially evil outsiders.
 - **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
 - **[Forceful Strike](forceful-strike.md)**: Melee hit deals extra force damage and bull rush.
+- **[Guardian of Faith](guardian-of-faith.md)**: The target gains the benefit of shield of faith and your choice of protection from chaos, evil, good, or law.
 - **[Healing Flames](healing-flames.md)**: Holy flames heal good creatures and burn evil ones.
 - **[Holy Sword](holy-sword.md)**: Weapon becomes +5, deals +2d6 damage against evil.
 - **[Inspiring Recovery](inspiring-recovery.md)**: Heals and can revive a creature dead for 1 round, rallying its allies.
@@ -232,6 +251,7 @@
 - **[Mighty Strength](mighty-strength.md)**: As bull's strength, but +8.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Paragon Surge](paragon-surge.md)**: You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind.
+- **[Planeslayer’s Call](planeslayers-call.md)**: The magic of your allies in the area becomes more potent against certain outsiders.
 - **[Purify Body](purify-body.md)**: Heals, grants temporary hit points, and removes pain, ability damage, and conditions.
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
 - **[Remove Radioactivity](remove-radioactivity.md)**: Cure radiation effects.

@@ -254,6 +254,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Enthrall](enthrall.md)**: Captivates all within 100 ft. + 10 ft./level.
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
 - **[Euphoric Cloud](euphoric-cloud.md)**
+- **[Extreme Buoyancy](extreme-buoyancy.md)**: The target’s buoyancy becomes and stays swiftly rising, regardless of how dense the target and its gear are.
 - **[Extreme Flexibility](extreme-flexibility.md)**: Gain a bonus to AC, on Escape Artist checks, and when grappling.
 - **[False Age](false-age.md)**: Appear one age category older or younger.
 - **[False Belief](false-belief.md)**: Temporarily plant a false memory.
@@ -295,8 +296,11 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Ironskin
 - Jitterbugs
 - Kinetic Reverberation
+- **[Invisibility Bubble](invisibility-bubble.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
+- **[Invisibility Bubble, Mass](invisibility-bubble-mass.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
 - **[Knock](knock.md)**: Opens locked or magically sealed door.
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
+- **[Lead Anchor](lead-anchor.md)**: The target’s buoyancy becomes and stays swiftly sinking, regardless of how dense the target and its gear are.
 - **[Levitate](levitate.md)**: Subject moves up and down at your direction.
 - **[Life Pact](life-pact.md)**: Affected creatures automatically donate hp to stabilize fallen ally.
 - **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
@@ -318,6 +322,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Miserable Pity](miserable-pity.md)**: Opponents cannot attack a pathetic creature.
 - **[Mortal Terror](mortal-terror.md)**: Target is shaken and grows more afraid each time it is hurt.
 - **[Muffle Sound](muffle-sound.md)**
+- **[Neutral Buoyancy](neutral-buoyancy.md)**: The target’s buoyancy becomes and stays neutral, regardless of how dense the target and its gear are.
 - **[Object Reading](object-reading.md)**: Read psychic impressions left on an object.
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
 - **[Obscured Script](obscured-script.md)**: Text becomes hard to read and deciphers falsely.
@@ -370,6 +375,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Spider Climb](spider-climb.md)**: Grants ability to walk on walls and ceilings.
 - Spontaneous Immolation
 - **[Splinter Spell Resistance](splinter-spell-resistance.md)**: Your weapon lowers a foe's spell resistance by 5.
+- **[Stabilize Pressure](stabilize-pressure.md)**: You instantly stabilize the target’s pressure, causing it to adjust to its current pressure all at once.
 - **[Status](status.md)**: Monitors condition, position of allies.
 - Steal Breath
 - **[Steal Voice](steal-voice.md)**: Target gains the croaking spellblight.
@@ -454,6 +460,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Fleeting Memory](fleeting-memory.md)**: Target forgets everything that happens while the spell lasts.
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
 - **[Force Punch](force-punch.md)**: Target takes 1d4 force damage per level and is pushed away.
+- **[Free Swim](free-swim.md)**: The target can move and attack underwater normally without the usual penalties involved with underwater combat, as…
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
 - **[Guardian Wasps](guardian-wasps.md)**: A wasp swarm builds a nest that guards an area.
@@ -504,6 +511,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Protection from Arrows, Communal
 - **[Pillow Talk](pillow-talk.md)**: Question a sleeping creature
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
+- **[Pressure Adaptation](pressure-adaptation.md)**: The target adapts incredibly quickly to changes in pressure, adjusting to 100 feet of new pressure (or the entire…
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 - **[Purge Spirit](purge-spirit.md)**: Deal 1d6 points of damage per level to one haunt or spirit creature and stagger it.
 - **[Quell Energy](quell-energy.md)**: Reduce a creature's energy damage of one type.

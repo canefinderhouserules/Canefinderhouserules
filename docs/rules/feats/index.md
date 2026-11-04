@@ -149,186 +149,186 @@ The following format is used for all feat descriptions.
 
 | Feat | Prerequisites | Benefits |
 |---|---|---|
-| Acrobatic | — | +2 bonus on Acrobatics and Fly checks |
-| Agile Maneuvers | — | Now part of Weapon Finesse |
-| Alertness | — | +2 bonus on Perception and Sense Motive checks |
-| Alignment Channel | Channel energy class feature | Channel energy can heal or harm outsiders |
-| Animal Affinity | — | +2 bonus on Handle Animal and Ride checks |
-| Arcane Armor Training* | Armor Proficiency, Light, caster level 3rd | Reduce your arcane spell failure chance by 10% |
-| Arcane Armor Mastery* | Arcane Armor Training, Armor Proficiency, Medium, caster level 7th | Reduce your arcane spell failure chance by 20% |
-| Arcane Strike* | Ability to cast arcane spells | +1 damage and weapons are considered magic |
-| Armor Proficiency, Light* | — | No penalties on attack rolls while wearing light armor |
-| Armor Proficiency, Medium* | Armor Proficiency, Light | No penalties on attack rolls while wearing medium armor |
-| Armor Proficiency, Heavy* | Armor Proficiency, Medium | No penalties on attack rolls while wearing heavy armor |
-| Athletic | — | +2 bonus on Climb and Swim checks |
-| Augment Summoning | Spell Focus (conjuration) | Summoned creatures gain +4 Str and Con |
-| Blind-Fight* | — | Reroll miss chances for concealment |
-| Catch Off-Guard | — | Now part of Throw Anything |
-| Channel Smite* | Channel energy class feature | Channel energy through your attack |
-| Combat Casting | — | +4 bonus on concentration checks for defensive casting |
-| Combat Expertise* | Int 13 | Trade attack bonus for AC bonus |
-| Improved Disarm* | Combat Expertise | +2 bonus on disarm attempts, no attack of opportunity |
-| Greater Disarm* | Improved Disarm, base attack bonus +6 | Disarmed weapons are knocked away from your enemy |
-| Improved Feint* | Combat Expertise | Feint as a move action |
-| Greater Feint* | Improved Feint, base attack bonus +6 | Enemies you feint lose their Dex bonus for 1 round |
-| Improved Trip* | Combat Expertise | +2 bonus on trip attempts, no attack of opportunity |
-| Greater Trip* | Improved Trip, base attack bonus +6 | Enemies you trip provoke attacks of opportunity |
-| Whirlwind Attack* | Dex 13, Combat Expertise, Spring Attack, base attack bonus +4 | Make one melee attack against all foes within reach |
-| Combat Reflexes* | — | Make additional attacks of opportunity |
-| Stand Still* | Combat Reflexes | Stop enemies from moving past you |
-| Command Undead | Channel negative energy class feature | Channel energy can be used to control undead |
-| Critical Focus* | Base attack bonus +9 | +4 bonus on attack rolls made to confirm critical hits |
-| Bleeding Critical* | Critical Focus, base attack bonus +11 | Whenever you score a critical hit, the target takes 2d6 bleed |
-| Blinding Critical* | Critical Focus, base attack bonus +15 | Whenever you score a critical hit, the target is blinded |
-| Critical Mastery* | Any two critical feats, 14th-level fighter | Apply two effects to your critical hits |
-| Deafening Critical* | Critical Focus, base attack bonus +13 | Whenever you score a critical hit, the target is deafened |
-| Sickening Critical* | Critical Focus, base attack bonus +11 | Whenever you score a critical hit, the target is sickened |
-| Staggering Critical* | Critical Focus, base attack bonus +13 | Whenever you score a critical hit, the target is staggered |
-| Stunning Critical* | Staggering Critical, base attack bonus +17 | Whenever you score a critical hit, the target is stunned |
-| Tiring Critical* | Critical Focus, base attack bonus +13 | Whenever you score a critical hit, the target is fatigued |
-| Exhausting Critical* | Tiring Critical, base attack bonus +15 | Whenever you score a critical hit, the target is exhausted |
-| Deadly Aim* | Dex 13, base attack bonus +1 | Trade ranged attack bonus for damage |
-| Deceitful | — | +2 bonus on Bluff and Disguise checks |
-| Defensive Combat Training* | — | Use your total Hit Dice as your base attack bonus for CMD |
-| Deft Hands | — | +2 bonus on Disable Device and Sleight of Hand checks |
-| Disruptive* | 6th-level fighter | Increases the DC to cast spells adjacent to you |
-| Spellbreaker* | Disruptive, 10th-level fighter | Enemies provoke attacks if their spells fail |
+| [Acrobatic](acrobatic.md) | — | +2 bonus on Acrobatics and Fly checks |
+| [Agile Maneuvers](agile-maneuvers.md) | — | Now part of Weapon Finesse |
+| [Alertness](alertness.md) | — | +2 bonus on Perception and Sense Motive checks |
+| [Alignment Channel](alignment-channel.md) | Channel energy class feature | Channel energy can heal or harm outsiders |
+| [Animal Affinity](animal-affinity.md) | — | +2 bonus on Handle Animal and Ride checks |
+| [Arcane Armor Training\*](arcane-armor-training.md) | Armor Proficiency, Light, caster level 3rd | Reduce your arcane spell failure chance by 10% |
+| [Arcane Armor Mastery\*](arcane-armor-mastery.md) | Arcane Armor Training, Armor Proficiency, Medium, caster level 7th | Reduce your arcane spell failure chance by 20% |
+| [Arcane Strike\*](arcane-strike.md) | Ability to cast arcane spells | +1 damage and weapons are considered magic |
+| [Armor Proficiency, Light\*](armor-proficiency-light.md) | — | No penalties on attack rolls while wearing light armor |
+| [Armor Proficiency, Medium\*](armor-proficiency-medium.md) | Armor Proficiency, Light | No penalties on attack rolls while wearing medium armor |
+| [Armor Proficiency, Heavy\*](armor-proficiency-heavy.md) | Armor Proficiency, Medium | No penalties on attack rolls while wearing heavy armor |
+| [Athletic](athletic.md) | — | +2 bonus on Climb and Swim checks |
+| [Augment Summoning](augment-summoning.md) | Spell Focus (conjuration) | Summoned creatures gain +4 Str and Con |
+| [Blind-Fight\*](blind-fight.md) | — | Reroll miss chances for concealment |
+| [Catch Off-Guard](catch-off-guard.md) | — | Now part of Throw Anything |
+| [Channel Smite\*](channel-smite.md) | Channel energy class feature | Channel energy through your attack |
+| [Combat Casting](combat-casting.md) | — | +4 bonus on concentration checks for defensive casting |
+| [Combat Expertise\*](combat-expertise.md) | Int 13 | Trade attack bonus for AC bonus |
+| [Improved Disarm\*](improved-disarm.md) | Combat Expertise | +2 bonus on disarm attempts, no attack of opportunity |
+| [Greater Disarm\*](greater-disarm.md) | Improved Disarm, base attack bonus +6 | Disarmed weapons are knocked away from your enemy |
+| [Improved Feint\*](improved-feint.md) | Combat Expertise | Feint as a move action |
+| [Greater Feint\*](greater-feint.md) | Improved Feint, base attack bonus +6 | Enemies you feint lose their Dex bonus for 1 round |
+| [Improved Trip\*](improved-trip.md) | Combat Expertise | +2 bonus on trip attempts, no attack of opportunity |
+| [Greater Trip\*](greater-trip.md) | Improved Trip, base attack bonus +6 | Enemies you trip provoke attacks of opportunity |
+| [Whirlwind Attack\*](whirlwind-attack.md) | Dex 13, Combat Expertise, Spring Attack, base attack bonus +4 | Make one melee attack against all foes within reach |
+| [Combat Reflexes\*](combat-reflexes.md) | — | Make additional attacks of opportunity |
+| [Stand Still\*](stand-still.md) | Combat Reflexes | Stop enemies from moving past you |
+| [Command Undead](command-undead.md) | Channel negative energy class feature | Channel energy can be used to control undead |
+| [Critical Focus\*](critical-focus.md) | Base attack bonus +9 | +4 bonus on attack rolls made to confirm critical hits |
+| [Bleeding Critical\*](bleeding-critical.md) | Critical Focus, base attack bonus +11 | Whenever you score a critical hit, the target takes 2d6 bleed |
+| [Blinding Critical\*](blinding-critical.md) | Critical Focus, base attack bonus +15 | Whenever you score a critical hit, the target is blinded |
+| [Critical Mastery\*](critical-mastery.md) | Any two critical feats, 14th-level fighter | Apply two effects to your critical hits |
+| [Deafening Critical\*](deafening-critical.md) | Critical Focus, base attack bonus +13 | Whenever you score a critical hit, the target is deafened |
+| [Sickening Critical\*](sickening-critical.md) | Critical Focus, base attack bonus +11 | Whenever you score a critical hit, the target is sickened |
+| [Staggering Critical\*](staggering-critical.md) | Critical Focus, base attack bonus +13 | Whenever you score a critical hit, the target is staggered |
+| [Stunning Critical\*](stunning-critical.md) | Staggering Critical, base attack bonus +17 | Whenever you score a critical hit, the target is stunned |
+| [Tiring Critical\*](tiring-critical.md) | Critical Focus, base attack bonus +13 | Whenever you score a critical hit, the target is fatigued |
+| [Exhausting Critical\*](exhausting-critical.md) | Tiring Critical, base attack bonus +15 | Whenever you score a critical hit, the target is exhausted |
+| [Deadly Aim\*](deadly-aim.md) | Dex 13, base attack bonus +1 | Trade ranged attack bonus for damage |
+| [Deceitful](deceitful.md) | — | +2 bonus on Bluff and Disguise checks |
+| [Defensive Combat Training\*](defensive-combat-training.md) | — | Use your total Hit Dice as your base attack bonus for CMD |
+| [Deft Hands](deft-hands.md) | — | +2 bonus on Disable Device and Sleight of Hand checks |
+| [Disruptive\*](disruptive.md) | 6th-level fighter | Increases the DC to cast spells adjacent to you |
+| [Spellbreaker\*](spellbreaker.md) | Disruptive, 10th-level fighter | Enemies provoke attacks if their spells fail |
 | Dodge* | Dex 13 | Dodgility: +1 dodge bonus to AC and +4 against attacks of opportunity from moving |
-| Mobility | Dodge | Now part of Dodgility |
-| Spring Attack* | Mobility, base attack bonus +4 | Move before and after melee attack |
-| Wind Stance* | Dex 15, Dodge, base attack bonus +6 | Gain 20% concealment if you move |
-| Lightning Stance* | Dex 17, Wind Stance, base attack bonus +11 | Gain 50% concealment if you move |
-| Elemental Channel | Channel energy class feature | Channel energy can harm or heal elementals |
-| Endurance | — | Now part of Toughness |
-| Diehard | Endurance | Now part of Toughness |
-| Eschew Materials | — | Cast spells without material components |
-| Exotic Weapon Proficiency* | Base attack bonus +1 | No penalty on attacks made with one exotic weapon |
-| Extra Channel | Channel energy class feature | Channel energy two additional times per day |
-| Extra *Ki* | *Ki* pool class feature | Increase your *ki* pool by 2 points |
-| Extra Lay On Hands | Lay on hands class feature | Use lay on hands two additional times per day |
-| Extra Mercy | Mercy class feature | Your lay on hands benefits from one additional mercy |
-| Extra Performance | Bardic performance class feature | Use bardic performance for 6 additional rounds per day |
-| Extra Rage | Rage class feature | Use rage for 6 additional rounds per day |
-| Fleet | — | Your base speed increases by 5 feet |
-| Great Fortitude | — | +2 on Fortitude saves |
-| Improved Great Fortitude | Great Fortitude | Once per day, you may reroll a Fortitude save |
-| Improved Channel | Channel energy class feature | +2 bonus on channel energy DC |
-| Improved Counterspell | — | Counterspell with spell of the same school |
-| Improved Critical* | Proficiency with weapon, base attack bonus +8 | Double the threat range of one weapon |
-| Improved Familiar | Ability to acquire a familiar, see feat | Gain a more powerful familiar |
-| Improved Initiative* | — | +4 bonus on initiative checks, and you can take 10 on them |
-| Improved Unarmed Strike* | — | Always considered armed |
-| Deflect Arrows* | Dex 13, Improved Unarmed Strike | Avoid one ranged attack per round |
-| Snatch Arrows* | Dex 15, Deflect Arrows | Catch one ranged attack per round |
-| Improved Grapple* | Dex 13, Improved Unarmed Strike | +2 bonus on grapple attempts, no attack of opportunity |
-| Greater Grapple* | Improved Grapple, base attack bonus +6 | Maintain your grapple as a move action |
-| Scorpion Style* | Improved Unarmed Strike | Reduce target’s speed to 5 ft. |
-| Gorgon’s Fist* | Scorpion Style, base attack bonus +6 | Stagger a foe whose speed is reduced |
-| Medusa’s Wrath* | Gorgon’s Fist, base attack bonus +11 | Make 2 extra attacks against a hindered foe |
-| Stunning Fist* | Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8 | Stun opponent with an unarmed strike |
-| Improvised Weapon Mastery* | Catch Off-Guard or Throw Anything, base attack bonus +8 | Make an improvised weapon deadly |
-| Intimidating Prowess* | — | Add Str to Intimidate in addition to Cha |
-| Iron Will | — | +2 bonus on Will saves |
-| Improved Iron Will | Iron Will | Once per day, you may reroll a Will save |
-| Leadership | Character level 7th | Gain a cohort and followers |
-| Lightning Reflexes | — | +2 bonus on Reflex saves |
-| Improved Lightning Reflexes | Lightning Reflexes | Once per day, you may reroll a Reflex save |
-| Lunge* | Base attack bonus +6 | Take a –2 penalty to your AC to attack with reach |
-| Magical Aptitude | — | +2 bonus on Spellcraft and Use Magic Device checks |
-| Martial Weapon Proficiency* | — | No penalty on attacks made with one martial weapon |
-| Master Craftsman | 5 ranks in any Craft or Profession skill | You can craft magic items without being a spellcaster |
-| Mounted Combat* | Ride 1 rank | Avoid attacks on mount with Ride check |
-| Mounted Archery* | Mounted Combat | Halve the penalty for ranged attacks while mounted |
-| Ride-By Attack* | Mounted Combat | Move before and after a charge attack while mounted |
-| Spirited Charge* | Ride-By Attack | Double damage on a mounted charge |
-| Trample* | Mounted Combat | Overrun targets while mounted |
-| Unseat* | Improved Bull Rush, Mounted Combat | Knock opponents from their mounts |
-| Natural Spell | Wis 13, wild shape class feature | Cast spells while using wild shape |
-| Nimble Moves | Dex 13 | Ignore 5 feet of difficult terrain when you move |
-| Acrobatic Steps | Dex 15, Nimble Moves | Ignore 20 feet of difficult terrain when you move |
-| Persuasive | — | +2 bonus on Diplomacy and Intimidate checks |
-| Point-Blank Shot* | — | +1 attack and damage on targets within 30 feet |
-| Far Shot* | Point-Blank Shot | Decrease ranged penalties by half |
-| Precise Shot | Point-Blank Shot | Now part of Point-Blank Shot |
-| Improved Precise Shot* | Dex 19, Precise Shot, base attack bonus +11 | No cover or concealment chance on ranged attacks |
-| Pinpoint Targeting* | Improved Precise Shot, base attack bonus +16 | No armor or shield bonus on one ranged attack |
-| Shot on the Run* | Dex 13, Mobility, Point-Blank Shot, base attack bonus +4 | Make ranged attack at any point during movement |
-| Rapid Shot* | Dex 13, Point-Blank Shot | Make one extra ranged attack |
-| Manyshot* | Dex 17, Rapid Shot, base attack bonus +6 | Shoot two arrows simultaneously |
-| Power Attack* | Str 13, base attack bonus +1 | Trade melee attack bonus for damage (no feat needed) |
-| Cleave* | Str 13, base attack bonus +1 | Melee attack against 2 adjacent squares, 3 with a two-handed weapon |
-| Great Cleave* | Cleave, base attack bonus +4 | Cleave no longer costs you 2 AC |
-| Improved Bull Rush* | Power Attack | +2 bonus on bull rush attempts, no attack of opportunity |
-| Greater Bull Rush* | Improved Bull Rush, base attack bonus +6 | Enemies you bull rush provoke attacks of opportunity |
-| Improved Overrun* | Power Attack | +2 bonus on overrun attempts, no attack of opportunity |
-| Greater Overrun* | Improved Overrun, base attack bonus +6 | Enemies you overrun provoke attacks of opportunity |
-| Improved Sunder* | Power Attack | +2 bonus on sunder attempts, no attack of opportunity |
-| Greater Sunder* | Improved Sunder, base attack bonus +6 | Damage from sunder attempts transfers to your enemy |
-| Quick Draw* | Base attack bonus +1 | Draw weapon as a free action |
-| Rapid Reload* | Weapon proficiency (crossbow) | Reload crossbow quickly |
-| Run | — | Run at 5 times your normal speed |
-| Selective Channeling | Cha 13, channel energy class feature | Choose whom to affect with channel energy |
-| Self-Sufficient | — | +2 bonus on Heal and Survival checks |
-| Shield Proficiency* | — | No penalties on attack rolls when using a shield |
-| Improved Shield Bash* | Shield Proficiency | Keep your shield bonus when shield bashing |
-| Shield Slam* | Improved Shield Bash, Two-Weapon Fighting, base attack bonus +6 | Free bull rush with a bash attack |
-| Shield Master* | Shield Slam, base attack bonus +11 | No two-weapon penalties when attacking with a shield |
-| Shield Focus* | Shield Proficiency, base attack bonus +1 | Gain a +1 bonus to your AC when using a shield |
-| Greater Shield Focus* | Shield Focus, 8th-level fighter | Gain a +1 bonus to your AC when using a shield |
-| Tower Shield Proficiency* | Shield Proficiency | No penalties on attack rolls when using a tower shield |
-| Simple Weapon Proficiency* | — | No penalty on attacks made with simple weapons |
-| Skill Focus | — | +3 bonus on one skill (+6 at 10 ranks) |
-| Spell Focus | — | +1 bonus on save DCs for one school |
-| Greater Spell Focus | Spell Focus | +1 bonus on save DCs for one school |
-| Spell Mastery | 1st-level Wizard | Prepare some spells without a spellbook |
-| Spell Penetration | — | +2 bonus on level checks to beat spell resistance |
-| Greater Spell Penetration | Spell Penetration | +2 bonus on level checks to beat spell resistance |
-| Stealthy | — | +2 bonus on Escape Artist and Stealth checks |
-| Step Up* | Base attack bonus +1 | Take a 5-foot step as an immediate action |
-| Strike Back* | Base attack bonus +11 | Attack foes that strike you while using reach |
-| Throw Anything* | — | No penalties for improvised ranged weapons |
-| Toughness | — | Combines Toughness, Endurance and Diehard |
-| Turn Undead | Channel positive energy class feature | Channel energy can be used to make undead flee |
-| Two-Weapon Fighting* | Dex 14 | Reduce two-weapon fighting penalties |
-| Double Slice* | Two-Weapon Fighting | Add your Str bonus to off-hand damage rolls |
-| Two-Weapon Rend* | Double Slice, Improved Two-Weapon Fighting, base attack bonus +11 | Rend a foe hit by both your weapons |
-| Improved Two-Weapon Fighting* | Dex 15, Two-Weapon Fighting, base attack bonus +6 | Second off-hand attack, and a third at base attack bonus +11 |
+| [Mobility](mobility.md) | Dodge | Now part of Dodgility |
+| [Spring Attack\*](spring-attack.md) | Mobility, base attack bonus +4 | Move before and after melee attack |
+| [Wind Stance\*](wind-stance.md) | Dex 15, Dodge, base attack bonus +6 | Gain 20% concealment if you move |
+| [Lightning Stance\*](lightning-stance.md) | Dex 17, Wind Stance, base attack bonus +11 | Gain 50% concealment if you move |
+| [Elemental Channel](elemental-channel.md) | Channel energy class feature | Channel energy can harm or heal elementals |
+| [Endurance](endurance.md) | — | Now part of Toughness |
+| [Diehard](diehard.md) | Endurance | Now part of Toughness |
+| [Eschew Materials](eschew-materials.md) | — | Cast spells without material components |
+| [Exotic Weapon Proficiency\*](exotic-weapon-proficiency.md) | Base attack bonus +1 | No penalty on attacks made with one exotic weapon |
+| [Extra Channel](extra-channel.md) | Channel energy class feature | Channel energy two additional times per day |
+| [Extra \*Ki\*](extra-ki.md) | *Ki* pool class feature | Increase your *ki* pool by 2 points |
+| [Extra Lay On Hands](extra-lay-on-hands.md) | Lay on hands class feature | Use lay on hands two additional times per day |
+| [Extra Mercy](extra-mercy.md) | Mercy class feature | Your lay on hands benefits from one additional mercy |
+| [Extra Performance](extra-performance.md) | Bardic performance class feature | Use bardic performance for 6 additional rounds per day |
+| [Extra Rage](extra-rage.md) | Rage class feature | Use rage for 6 additional rounds per day |
+| [Fleet](fleet.md) | — | Your base speed increases by 5 feet |
+| [Great Fortitude](great-fortitude.md) | — | +2 on Fortitude saves |
+| [Improved Great Fortitude](improved-great-fortitude.md) | Great Fortitude | Once per day, you may reroll a Fortitude save |
+| [Improved Channel](improved-channel.md) | Channel energy class feature | +2 bonus on channel energy DC |
+| [Improved Counterspell](improved-counterspell.md) | — | Counterspell with spell of the same school |
+| [Improved Critical\*](improved-critical.md) | Proficiency with weapon, base attack bonus +8 | Double the threat range of one weapon |
+| [Improved Familiar](improved-familiar.md) | Ability to acquire a familiar, see feat | Gain a more powerful familiar |
+| [Improved Initiative\*](improved-initiative.md) | — | +4 bonus on initiative checks, and you can take 10 on them |
+| [Improved Unarmed Strike\*](improved-unarmed-strike.md) | — | Always considered armed |
+| [Deflect Arrows\*](deflect-arrows.md) | Dex 13, Improved Unarmed Strike | Avoid one ranged attack per round |
+| [Snatch Arrows\*](snatch-arrows.md) | Dex 15, Deflect Arrows | Catch one ranged attack per round |
+| [Improved Grapple\*](improved-grapple.md) | Dex 13, Improved Unarmed Strike | +2 bonus on grapple attempts, no attack of opportunity |
+| [Greater Grapple\*](greater-grapple.md) | Improved Grapple, base attack bonus +6 | Maintain your grapple as a move action |
+| [Scorpion Style\*](scorpion-style.md) | Improved Unarmed Strike | Reduce target’s speed to 5 ft. |
+| [Gorgon’s Fist\*](gorgons-fist.md) | Scorpion Style, base attack bonus +6 | Stagger a foe whose speed is reduced |
+| [Medusa’s Wrath\*](medusas-wrath.md) | Gorgon’s Fist, base attack bonus +11 | Make 2 extra attacks against a hindered foe |
+| [Stunning Fist\*](stunning-fist.md) | Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8 | Stun opponent with an unarmed strike |
+| [Improvised Weapon Mastery\*](improvised-weapon-mastery.md) | Catch Off-Guard or Throw Anything, base attack bonus +8 | Make an improvised weapon deadly |
+| [Intimidating Prowess\*](intimidating-prowess.md) | — | Add Str to Intimidate in addition to Cha |
+| [Iron Will](iron-will.md) | — | +2 bonus on Will saves |
+| [Improved Iron Will](improved-iron-will.md) | Iron Will | Once per day, you may reroll a Will save |
+| [Leadership](leadership.md) | Character level 7th | Gain a cohort and followers |
+| [Lightning Reflexes](lightning-reflexes.md) | — | +2 bonus on Reflex saves |
+| [Improved Lightning Reflexes](improved-lightning-reflexes.md) | Lightning Reflexes | Once per day, you may reroll a Reflex save |
+| [Lunge\*](lunge.md) | Base attack bonus +6 | Take a –2 penalty to your AC to attack with reach |
+| [Magical Aptitude](magical-aptitude.md) | — | +2 bonus on Spellcraft and Use Magic Device checks |
+| [Martial Weapon Proficiency\*](martial-weapon-proficiency.md) | — | No penalty on attacks made with one martial weapon |
+| [Master Craftsman](master-craftsman.md) | 5 ranks in any Craft or Profession skill | You can craft magic items without being a spellcaster |
+| [Mounted Combat\*](mounted-combat.md) | Ride 1 rank | Avoid attacks on mount with Ride check |
+| [Mounted Archery\*](mounted-archery.md) | Mounted Combat | Halve the penalty for ranged attacks while mounted |
+| [Ride-By Attack\*](ride-by-attack.md) | Mounted Combat | Move before and after a charge attack while mounted |
+| [Spirited Charge\*](spirited-charge.md) | Ride-By Attack | Double damage on a mounted charge |
+| [Trample\*](trample.md) | Mounted Combat | Overrun targets while mounted |
+| [Unseat\*](unseat.md) | Improved Bull Rush, Mounted Combat | Knock opponents from their mounts |
+| [Natural Spell](natural-spell.md) | Wis 13, wild shape class feature | Cast spells while using wild shape |
+| [Nimble Moves](nimble-moves.md) | Dex 13 | Ignore 5 feet of difficult terrain when you move |
+| [Acrobatic Steps](acrobatic-steps.md) | Dex 15, Nimble Moves | Ignore 20 feet of difficult terrain when you move |
+| [Persuasive](persuasive.md) | — | +2 bonus on Diplomacy and Intimidate checks |
+| [Point-Blank Shot\*](point-blank-shot.md) | — | +1 attack and damage on targets within 30 feet |
+| [Far Shot\*](far-shot.md) | Point-Blank Shot | Decrease ranged penalties by half |
+| [Precise Shot](precise-shot.md) | Point-Blank Shot | Now part of Point-Blank Shot |
+| [Improved Precise Shot\*](improved-precise-shot.md) | Dex 19, Precise Shot, base attack bonus +11 | No cover or concealment chance on ranged attacks |
+| [Pinpoint Targeting\*](pinpoint-targeting.md) | Improved Precise Shot, base attack bonus +16 | No armor or shield bonus on one ranged attack |
+| [Shot on the Run\*](shot-on-the-run.md) | Dex 13, Mobility, Point-Blank Shot, base attack bonus +4 | Make ranged attack at any point during movement |
+| [Rapid Shot\*](rapid-shot.md) | Dex 13, Point-Blank Shot | Make one extra ranged attack |
+| [Manyshot\*](manyshot.md) | Dex 17, Rapid Shot, base attack bonus +6 | Shoot two arrows simultaneously |
+| [Power Attack\*](power-attack.md) | Str 13, base attack bonus +1 | Trade melee attack bonus for damage (no feat needed) |
+| [Cleave\*](cleave.md) | Str 13, base attack bonus +1 | Melee attack against 2 adjacent squares, 3 with a two-handed weapon |
+| [Great Cleave\*](great-cleave.md) | Cleave, base attack bonus +4 | Cleave no longer costs you 2 AC |
+| [Improved Bull Rush\*](improved-bull-rush.md) | Power Attack | +2 bonus on bull rush attempts, no attack of opportunity |
+| [Greater Bull Rush\*](greater-bull-rush.md) | Improved Bull Rush, base attack bonus +6 | Enemies you bull rush provoke attacks of opportunity |
+| [Improved Overrun\*](improved-overrun.md) | Power Attack | +2 bonus on overrun attempts, no attack of opportunity |
+| [Greater Overrun\*](greater-overrun.md) | Improved Overrun, base attack bonus +6 | Enemies you overrun provoke attacks of opportunity |
+| [Improved Sunder\*](improved-sunder.md) | Power Attack | +2 bonus on sunder attempts, no attack of opportunity |
+| [Greater Sunder\*](greater-sunder.md) | Improved Sunder, base attack bonus +6 | Damage from sunder attempts transfers to your enemy |
+| [Quick Draw\*](quick-draw.md) | Base attack bonus +1 | Draw weapon as a free action |
+| [Rapid Reload\*](rapid-reload.md) | Weapon proficiency (crossbow) | Reload crossbow quickly |
+| [Run](run.md) | — | Run at 5 times your normal speed |
+| [Selective Channeling](selective-channeling.md) | Cha 13, channel energy class feature | Choose whom to affect with channel energy |
+| [Self-Sufficient](self-sufficient.md) | — | +2 bonus on Heal and Survival checks |
+| [Shield Proficiency\*](shield-proficiency.md) | — | No penalties on attack rolls when using a shield |
+| [Improved Shield Bash\*](improved-shield-bash.md) | Shield Proficiency | Keep your shield bonus when shield bashing |
+| [Shield Slam\*](shield-slam.md) | Improved Shield Bash, Two-Weapon Fighting, base attack bonus +6 | Free bull rush with a bash attack |
+| [Shield Master\*](shield-master.md) | Shield Slam, base attack bonus +11 | No two-weapon penalties when attacking with a shield |
+| [Shield Focus\*](shield-focus.md) | Shield Proficiency, base attack bonus +1 | Gain a +1 bonus to your AC when using a shield |
+| [Greater Shield Focus\*](greater-shield-focus.md) | Shield Focus, 8th-level fighter | Gain a +1 bonus to your AC when using a shield |
+| [Tower Shield Proficiency\*](tower-shield-proficiency.md) | Shield Proficiency | No penalties on attack rolls when using a tower shield |
+| [Simple Weapon Proficiency\*](simple-weapon-proficiency.md) | — | No penalty on attacks made with simple weapons |
+| [Skill Focus](skill-focus.md) | — | +3 bonus on one skill (+6 at 10 ranks) |
+| [Spell Focus](spell-focus.md) | — | +1 bonus on save DCs for one school |
+| [Greater Spell Focus](greater-spell-focus.md) | Spell Focus | +1 bonus on save DCs for one school |
+| [Spell Mastery](spell-mastery.md) | 1st-level Wizard | Prepare some spells without a spellbook |
+| [Spell Penetration](spell-penetration.md) | — | +2 bonus on level checks to beat spell resistance |
+| [Greater Spell Penetration](greater-spell-penetration.md) | Spell Penetration | +2 bonus on level checks to beat spell resistance |
+| [Stealthy](stealthy.md) | — | +2 bonus on Escape Artist and Stealth checks |
+| [Step Up\*](step-up.md) | Base attack bonus +1 | Take a 5-foot step as an immediate action |
+| [Strike Back\*](strike-back.md) | Base attack bonus +11 | Attack foes that strike you while using reach |
+| [Throw Anything\*](throw-anything.md) | — | No penalties for improvised ranged weapons |
+| [Toughness](toughness.md) | — | Combines Toughness, Endurance and Diehard |
+| [Turn Undead](turn-undead.md) | Channel positive energy class feature | Channel energy can be used to make undead flee |
+| [Two-Weapon Fighting\*](two-weapon-fighting.md) | Dex 14 | Reduce two-weapon fighting penalties |
+| [Double Slice\*](double-slice.md) | Two-Weapon Fighting | Add your Str bonus to off-hand damage rolls |
+| [Two-Weapon Rend\*](two-weapon-rend.md) | Double Slice, Improved Two-Weapon Fighting, base attack bonus +11 | Rend a foe hit by both your weapons |
+| [Improved Two-Weapon Fighting\*](improved-two-weapon-fighting.md) | Dex 15, Two-Weapon Fighting, base attack bonus +6 | Second off-hand attack, and a third at base attack bonus +11 |
 | Greater Two-Weapon* | Dex 19, Improved Two-Weapon Fighting, | Gain a third off-hand attack |
 | Fighting | base attack bonus +11 |  |
-| Two-Weapon Defense* | Two-Weapon Fighting | Gain +1 shield bonus when fighting with two weapons |
-| Vital Strike* | base attack bonus +6 | ×3 weapon dice or ×2 static damage |
-| Improved Vital Strike* | Vital Strike, base attack bonus +11 | ×4 weapon dice or ×3 static damage |
-| Greater Vital Strike* | Improved Vital Strike, base attack bonus +16 | ×5 weapon dice or ×4 static damage |
-| Weapon Finesse* | — | Use Dex on attack and damage rolls and on combat maneuvers |
-| Weapon Focus* | Proficiency with weapon group, base attack bonus +1 | +1 base attack bonus with one weapon group |
-| Dazzling Display* | Weapon Focus | Intimidate all foes within 30 feet |
-| Shatter Defenses* | Dazzling Display, base attack bonus +6 | Hindered foes are flat-footed |
-| Deadly Stroke* | Greater Weapon Focus, Shatter Defenses, base attack bonus +11 | Deal double damage plus 1 Con bleed |
-| Greater Weapon Focus* | Weapon Focus, 8th-level fighter | +1 bonus on attack rolls with one weapon |
-| Penetrating Strike* | Weapon Focus, 12th-level fighter | Your attacks ignore 5 points of damage reduction |
-| Greater Penetrating Strike* | Penetrating Strike, 16th-level fighter | Your attacks ignore 10 points of damage reduction |
-| Weapon Specialization* | Weapon Focus, 4th-level fighter | +2 bonus on damage rolls with one weapon |
+| [Two-Weapon Defense\*](two-weapon-defense.md) | Two-Weapon Fighting | Gain +1 shield bonus when fighting with two weapons |
+| [Vital Strike\*](vital-strike.md) | base attack bonus +6 | ×3 weapon dice or ×2 static damage |
+| [Improved Vital Strike\*](improved-vital-strike.md) | Vital Strike, base attack bonus +11 | ×4 weapon dice or ×3 static damage |
+| [Greater Vital Strike\*](greater-vital-strike.md) | Improved Vital Strike, base attack bonus +16 | ×5 weapon dice or ×4 static damage |
+| [Weapon Finesse\*](weapon-finesse.md) | — | Use Dex on attack and damage rolls and on combat maneuvers |
+| [Weapon Focus\*](weapon-focus.md) | Proficiency with weapon group, base attack bonus +1 | +1 base attack bonus with one weapon group |
+| [Dazzling Display\*](dazzling-display.md) | Weapon Focus | Intimidate all foes within 30 feet |
+| [Shatter Defenses\*](shatter-defenses.md) | Dazzling Display, base attack bonus +6 | Hindered foes are flat-footed |
+| [Deadly Stroke\*](deadly-stroke.md) | Greater Weapon Focus, Shatter Defenses, base attack bonus +11 | Deal double damage plus 1 Con bleed |
+| [Greater Weapon Focus\*](greater-weapon-focus.md) | Weapon Focus, 8th-level fighter | +1 bonus on attack rolls with one weapon |
+| [Penetrating Strike\*](penetrating-strike.md) | Weapon Focus, 12th-level fighter | Your attacks ignore 5 points of damage reduction |
+| [Greater Penetrating Strike\*](greater-penetrating-strike.md) | Penetrating Strike, 16th-level fighter | Your attacks ignore 10 points of damage reduction |
+| [Weapon Specialization\*](weapon-specialization.md) | Weapon Focus, 4th-level fighter | +2 bonus on damage rolls with one weapon |
 | Greater Weapon | Weapon Specialization, 12th-level fighter | +2 bonus on damage rolls with one weapon |
 | Specialization* |  |  |
 | **Item Creation Feats** |  |  |
-| Brew Potion | Caster level 3rd | Create magic potions |
-| Craft Magic Arms and Armor | Caster level 5th | Create magic armors, shields, and weapons |
-| Craft Rod | Caster level 9th | Create magic rods |
-| Craft Staff | Caster level 11th | Create magic staves |
-| Craft Wand | Caster level 5th | Create magic wands |
-| Craft Wondrous Item | Caster level 3rd | Create magic wondrous items |
-| Forge Ring | Caster level 7th | Create magic rings |
-| Scribe Scroll | Caster level 1st | Create magic scrolls |
+| [Brew Potion](brew-potion.md) | Caster level 3rd | Create magic potions |
+| [Craft Magic Arms and Armor](craft-magic-arms-and-armor.md) | Caster level 5th | Create magic armors, shields, and weapons |
+| [Craft Rod](craft-rod.md) | Caster level 9th | Create magic rods |
+| [Craft Staff](craft-staff.md) | Caster level 11th | Create magic staves |
+| [Craft Wand](craft-wand.md) | Caster level 5th | Create magic wands |
+| [Craft Wondrous Item](craft-wondrous-item.md) | Caster level 3rd | Create magic wondrous items |
+| [Forge Ring](forge-ring.md) | Caster level 7th | Create magic rings |
+| [Scribe Scroll](scribe-scroll.md) | Caster level 1st | Create magic scrolls |
 | **Metamagic Feats** |  |  |
-| Empower Spell | — | Increase spell variables by 50% |
-| Enlarge Spell | — | Double spell range |
-| Extend Spell | — | Double spell duration |
-| Heighten Spell | — | Treat spell as a higher level |
-| Maximize Spell | — | Maximize spell variables |
-| Quicken Spell | — | Cast spell as a swift action |
-| Silent Spell | — | Cast spell without verbal components |
-| Still Spell | — | Cast spell without somatic components |
-| Widen Spell | — | Double spell area |
+| [Empower Spell](empower-spell.md) | — | Increase spell variables by 50% |
+| [Enlarge Spell](enlarge-spell.md) | — | Double spell range |
+| [Extend Spell](extend-spell.md) | — | Double spell duration |
+| [Heighten Spell](heighten-spell.md) | — | Treat spell as a higher level |
+| [Maximize Spell](maximize-spell.md) | — | Maximize spell variables |
+| [Quicken Spell](quicken-spell.md) | — | Cast spell as a swift action |
+| [Silent Spell](silent-spell.md) | — | Cast spell without verbal components |
+| [Still Spell](still-spell.md) | — | Cast spell without somatic components |
+| [Widen Spell](widen-spell.md) | — | Double spell area |
 
 \* This is a combat feat and can be selected as a fighter bonus feat.
 
@@ -3779,3 +3779,45 @@ Feats from Pathfinder Campaign Setting supplements.
 | [Steam Spell](steam-spell.md) | Metamagic | — |
 | [Touch of the Brine Emperor](touch-of-the-brine-emperor.md) | — | Worshiper of a deity of the sea's depths, character level 5th |
 | [Traditional Weapons](traditional-weapons.md) | Combat | Int 13 |
+
+## Other Feats
+
+Feats from other sources. Each name links to its full description.
+
+| Feat | Type | Prerequisites |
+|---|---|---|
+| [Blood Hexes](blood-hexes.md) | — | — |
+| [Bonded Mind](bonded-mind.md) | Teamwork | — |
+| [Breach](breach.md) | — | Str 15, bunyip |
+| [Careful Speaker](careful-speaker.md) | — | Wis 13 |
+| [Circling Offense](circling-offense.md) | Combat, Teamwork | Dodge, Mobility, base attack bonus +3 |
+| [Citystep](citystep.md) | — | Stealth 1 rank, half-elf |
+| [Client](client.md) | — | The character must own a business that can supply a single type of good worth 10 gp or more in bulk to an eastern imperial merchant house, or a business that ca |
+| [Colleague](colleague.md) | — | The character must be of character level 4th and must have been a client for at least 1 year, during which the character must have changed the attitudes of any  |
+| [Demonic Possession](demonic-possession.md) | — | Demon or half-demon, Cha 21, Wis 17 |
+| [Dilettante](dilettante.md) | — | 2 ranks each in 5 different Knowledge skills |
+| [Dodgility](dodge.md) | Combat | Dex 13 |
+| [Endure Pain](endure-pain.md) | Pain God’s Kiss | Survived being tortured 10 or more times |
+| [Eye of the Arclord](eye-of-the-arclord.md) | — | Knowledge (arcana) 4 ranks, ability to cast arcane spells |
+| [Flagbearer](flagbearer.md) | Combat | Cha 15 |
+| [Focused Discipline](focused-discipline.md) | Combat | — |
+| [Gifts from the Sea](gifts-from-the-sea.md) | — | Half-elf of aquatic elf descent |
+| [Greater Two-Weapon Fighting](greater-two-weapon-fighting.md) | — | — |
+| [Greater Weapon Specialization](greater-weapon-specialization.md) | Combat | Proficiency with selected weapon, Greater Weapon Focus with selected weapon, Weapon Focus with selected weapon, Weapon Specialization with selected weapon, 12th |
+| [Implacable](implacable.md) | Combat | — |
+| [Indigestible](indigestible.md) | — | Favored enemy (ooze) or survived engulfing by an ooze |
+| [Instrumental](instrumental.md) | — | Bardic Performance class feature, Perform (any instrument) 3 ranks |
+| [Pinch Time](pinch-time.md) | — | Character level 5th, half-elf of tower-elf descent |
+| [Rugged](rugged.md) | — | Endurance, member of a Mammoth Lord’s following |
+| [Scent of Fear](scent-of-fear.md) | — | Possess the scent ability, any evil |
+| [Sense Allies](sense-allies.md) | — | Perception 3 ranks, half-elf of jungle elf descent |
+| [Special Delivery](special-delivery.md) | Teamwork | Bonded Mind, Share Spells, ability to deliver spells through an animal companion, eidolon, familiar, or phantom, caster level 3rd |
+| [Stone Magic](stone-magic.md) | — | Cha 17, stone giant elder (age 700 years or older) |
+| [Strength in Defeat](strength-in-defeat.md) | Combat | Base attack bonus +1, half-elf of drow descent |
+| [Totem Spirit](totem-spirit.md) | — | Member of a highland tribal tribe |
+| [Trade Initiative](trade-initiative.md) | Teamwork | — |
+| [Twilight Words](twilight-words.md) | — | Diplomacy 3 ranks, half-elf of snow elf descent |
+| [Twisted Flesh](twisted-flesh.md) | — | Con 15, demonic rift affinity |
+| [Unaging](unaging.md) | — | Half-elf |
+| [Unusual Heritage (Changeling)](unusual-heritage-changeling.md) | Teamwork | Changeling |
+| [Unusual Heritage](unusual-heritage.md) | Dhampir | Dhampir |

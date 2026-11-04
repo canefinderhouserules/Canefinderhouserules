@@ -13,9 +13,11 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
 - **[Bed of Iron](bed-of-iron.md)**: Lets targets sleep comfortably in armor.
 - **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
+- **[Blade Lash](blade-lash.md)**: Your weapon elongates and becomes whiplike.
 - **[Blade Tutor's Spirit](blade-tutors-spirit.md)**: Reduces penalties on your melee attacks.
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
 - **[Blood Money](blood-money.md)**: Your blood becomes a material component for your next spell.
+- **[Blurred Movement](blurred-movement.md)**: This spell functions as blur, except that the blurring occurs only when you move at least 10 feet on your turn and…
 - **[Call Weapon](call-weapon.md)**: Pull an ally’s weapon into your hand.
 - **[Celestial Healing](celestial-healing.md)**: Target gains fast healing 1.
 - **[Clarion Call](clarion-call.md)**: Creates a horn blast and a booming voice.
@@ -24,12 +26,14 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Dancing Darkness](dancing-darkness.md)**: up to four spheres of moving darkness
 - **[Darting Duplicate](darting-duplicate.md)**: Illusory duplicate baits attacks of opportunity.
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
+- **[Disguise Weapon](disguise-weapon.md)**: You make one manufactured weapon look like a different manufactured weapon of the same size and relative encumbrance…
 - **[Duelist’s Parry](duelists-parry.md)**: Parry a melee attack as an immediate action.
 - **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
 - **[Emblazon Crest](emblazon-crest.md)**: Displays a crest on worn tabards and shields.
 - **[Enlarge Tail](enlarge-tail.md)**: Your tail gains reach and a bonus to attack and damage.
 - **[Fallback Strategy](fallback-strategy.md)**: Reroll one attack, maneuver, or skill check.
 - **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.
+- **[Glue Seal](glue-seal.md)**: You cover a solid surface with a layer of sticky glue.
 - **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Hide Weapon](hide-weapon.md)**: Meld a weapon into your arm.
 - **[Hobble](hobble.md)**: Halve the movement speed of several creatures
@@ -40,13 +44,17 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Keep Watch](keep-watch.md)**: Lets subjects keep watch all night yet gain a full rest.
 - **[Kreighton’s Perusal](kreightons-perusal.md)**: You gain a brief but incomplete understanding of one book’s contents, equivalent to having skimmed its pages f…
 - **[Lighten Object](lighten-object.md)**: Halve an object’s weight.
+- **[Line in the Sand](line-in-the-sand.md)**: You create a glowing crimson line around the area.
 - **[Linebreaker](linebreaker.md)**: You gain a +20 foot bonus to your base speed when charging and a +2 bonus on combat maneuver checks made to.
 - **[Lock Gaze](lock-gaze.md)**: Compels the target to look only at you for the duration of the spell.
+- **[Long Arm](long-arm.md)**: Your arms temporarily grow in length, increasing your reach with those limbs by 5 feet.
 - **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
 - **[Mirror Strike](mirror-strike.md)**: You may strike multiple opponents with a single attack.
+- **[Monkey Fish](monkey-fish.md)**: Your hands and feet alter to make you better at climbing and swimming.
 - **[Mudball](mudball.md)**: When you cast this spell, you conjure a single ball of sticky mud and launch it at an enemy’s face as a.
 - **[Negative Reaction](negative-reaction.md)**: Targeted creature may not positively influence anyone.
 - **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
+- **[Phantom Blood](phantom-blood.md)**: You bolster your life energy.
 - **[Poisoned Egg](poisoned-egg.md)**: Turn an egg into a dose of poison.
 - **[Punishing Armor](punishing-armor.md)**: Reflects nonlethal damage back at attackers.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
@@ -58,9 +66,12 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
 - **[Spiked Armor](spiked-armor.md)**: A suit of metal armor or shield sprouts spikes that hurt natural attackers.
+- **[Sunder Breaker](sunder-breaker.md)**: You place an invisible ward upon the target.
+- **[Sundering Shards](sundering-shards.md)**: You channel power into a melee weapon.
 - **[Swift Girding](swift-girding.md)**: Instantly clads willing targets in chosen armor.
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
 - **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
+- **[Thunderstomp](thunderstomp.md)**: You stomp your foot or strike your weapon against the ground or floor, creating a ripple of power that you can use…
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
 - **[True Skill](true-skill.md)**: Gain an insight bonus on your next check with a chosen skill.
 - **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
@@ -75,6 +86,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 ## 2nd-Level Magus Spells
 
 - **[Ablative Barrier](ablative-barrier.md)**: Surrounds the target with layers of force.
+- **[Aggressive Thundercloud](aggressive-thundercloud.md)**: A crackling, spherical storm cloud flies in whichever direction you point and deals electricity damage to those it…
 - **[Animal Aspect](animal-aspect.md)**: You gain some of the beneficial qualities of an animal.
 - **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
 - **[Arcane Disruption](arcane-disruption.md)**: Subject must make concentration checks to use arcane magic.
@@ -96,6 +108,8 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Duelist’s Alacrity](duelists-alacrity.md)**: Faster, with fancy footwork.
 - **[Erode Defenses](erode-defenses.md)**: Target's DR and natural armor wear away.
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
+- **[Euphoric Cloud](euphoric-cloud.md)**: You create a bank of fog similar to that created by fog cloud except its vapors are intoxicating.
+- **[Extreme Flexibility](extreme-flexibility.md)**: You gain a +1 dodge bonus to AC, a +4 circumstance bonus on Escape Artist checks and combat maneuver checks to…
 - **[Fiery Runes](fiery-runes.md)**: Weapon rune deals fire damage when discharged.
 - **[Fire’s Friend](fires-friend.md)**: You cloak yourself in flames that do not harm you or your carried equipment but damage other creatures and obj…
 - **[Fleeting Defect](fleeting-defect.md)**: An object temporarily gains the broken condition.
@@ -113,8 +127,11 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Ice Slick](ice-slick.md)**: Coat the area in slippery ice and cold damage
 - **[Imbue with Elemental Might](imbue-with-elemental-might.md)**: School evocation [see text]; Level cleric 2, magus 2, sorcerer/wizard 2 Components V, S Duration 24 hours or.
 - **[Instant Weapon](instant-weapon.md)**: Create a masterwork melee weapon of force.
+- **[Invisibility Bubble](invisibility-bubble.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
+- **[Invisibility Bubble, Mass](invisibility-bubble-mass.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
 - **[Knell of the Depths](knell-of-the-depths.md)**: Curse: the target sinks in water.
 - **[Light Prison](light-prison.md)**: Cage of light damages and blinds those who leave it.
+- **[Molten Orb](molten-orb.md)**: You create a fist-sized, red-hot ball of molten metal that you immediately hurl as a splash weapon.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
 - **[Page-Bound Epiphany](page-bound-epiphany.md)**: Study magical notes for up to +10 on one Knowledge check.
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
@@ -125,6 +142,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Reinforce Armaments, Communal](reinforce-armaments-communal.md)**: As reinforce armaments, but you may divide the duration among objects touched.
 - **[Reloading Hands](reloading-hands.md)**: Loads a single shot into your weapon every round.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
+- **[River Whip](river-whip.md)**: You create a coil of flowing fresh water, functioning a whip appropriate for your size, except you make a melee…
 - **[Rock Whip](rock-whip.md)**: Whip of stone ignores stone cover and bull rushes foes it hits.
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
 - **[Shadow Claws](shadow-claws.md)**: Gain shadow claws that damage Strength
@@ -132,6 +150,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Shield of Shards](shield-of-shards.md)**: Your shield breaks into orbiting shards that attack.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Slick Walls](slick-walls.md)**: Walls and ceilings become much harder to climb.
+- **[Sonic Scream](sonic-scream.md)**: Up to three times during this spell’s duration, you can emit a cone of powerful sound as a standard action.
 - **[Splinter Spell Resistance](splinter-spell-resistance.md)**: Your weapon lowers a foe's spell resistance by 5.
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
 - **[Stone Throwing](stone-throwing.md)**: Subject can throw and catch rocks.
@@ -140,6 +159,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Telekinetic Assembly](telekinetic-assembly.md)**
 - **[Telekinetic Strikes](telekinetic-strikes.md)**: Unarmed attacks and natural weapons deal +1d4 force damage.
 - **[Telekinetic Volley](telekinetic-volley.md)**: Hurl touched items as ranged attacks.
+- **[Time Shudder](time-shudder.md)**: You cause a ripple in time that affects all creatures in the area.
 - **[Twisted Space](twisted-space.md)**: Targeted creature’s attacks target a random square instead of the intended target.
 - **[Umbral Weapon](umbral-weapon.md)**: Reroll missed attacks for cold damage.
 - **[Visualization of the Body](visualization-of-the-body.md)**: Meditative spell: bonus to one physical ability's skills, plus a one-time boost.
@@ -174,6 +194,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Gloomblind Bolts](gloomblind-bolts.md)**: You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane.
 - **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
+- **[Heart of the Metal](heart-of-the-metal.md)**: You lend the nature of adamantine, cold iron, or silver to the targeted weapons, with the following effects:
 - **[Heckle](heckle.md)**: Sour a target's mood and impose –2 penalties.
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
 - **[Horrifying Visage](horrifying-visage.md)**: Haunt gives victims a phobia of a named thing.
@@ -187,6 +208,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Monstrous Physique I](monstrous-physique-i.md)**: Take the form and some of the powers of a Small or Medium monstrous humanoid.
 - **[Moonrise Arrow](moonrise-arrow.md)**: Ammunition counts as magic and silver and harms incorporeal undead and shapechangers.
 - **[Motes of Dusk and Dawn](motes-of-dusk-and-dawn.md)**: up to four motes that shed light or darkness
+- **[Nauseating Trail](nauseating-trail.md)**: The target exudes stinking vapors that fill its space.
 - **[Numerological Evocation](numerological-evocation.md)**: Assign a dice pool to set energy type, targets, range and damage.
 - **[Oni Aspect](oni-aspect.md)**: Gain fast healing 3, and dismiss the spell to reroll a failed Will save.
 - **[Perfect Placement](perfect-placement.md)**: Allies gain +1 insight to AC and Reflex saves.
@@ -200,12 +222,14 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Shining Cord](shining-cord.md)**: Silver cord links you and a foe; blasts the one who moves away.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
+- **[Silver Darts](silver-darts.md)**: A cone of silver darts springs from your hand.
 - **[Siphon Might](siphon-might.md)**: Drains target's Strength and grants it to an ally.
 - **[Spotlight](spotlight.md)**: bright light on a target suppresses nearby light and ruins its Stealth
 - **[Steal Size](steal-size.md)**: Shrinks a larger target and enlarges you.
 - **[Storm Step](storm-step.md)**: teleport short distance as a bolt of lightning
 - **[Sundered Serpent Coil](sundered-serpent-coil.md)**: Summon a grappling serpent coil
 - **[Tactical Adaptation](tactical-adaptation.md)**: Gain a combat feat temporarily.
+- **[Thunderstomp, Greater](thunderstomp-greater.md)**: This spell functions as thunderstomp, except as noted.
 - **[Titanic Anchoring](titanic-anchoring.md)**: You become nearly immovable by combat maneuvers.
 - **[Toxic Blood](toxic-blood.md)**: Target's blood sprays black adder venom when cut.
 - **[Trial of Fire and Acid](trial-of-fire-and-acid.md)**: Cover a creature in burning acid
@@ -220,6 +244,8 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 ## 4th-Level Magus Spells
 
 - **[Absorb Rune I](absorb-rune-i.md)**: Absorb a magical rune and move it elsewhere.
+- **[Adjustable Polymorph](adjustable-polymorph.md)**: This spell functions as alter self, except you can as a swift action alter the disguise (within the limitations of…
+- **[Aggressive Thundercloud, Greater](aggressive-thundercloud-greater.md)**: This spell functions as aggressive thundercloud, except it deals 6d6 points of electricity damage to any creature it…
 - **[Anywhere But Here](anywhere-but-here.md)**: Transport yourself and willing creatures to a random planar destination
 - **[Arcana Theft](arcana-theft.md)**: Targeted dispel transfers an effect to you.
 - **[Bestow Planar Infusion II](bestow-planar-infusion-ii.md)**: Grant a target the effects of an improved planar infusion
@@ -233,6 +259,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Ethereal Fists](ethereal-fists.md)**: Your claws, unarmed strikes, and touch spells affect ethereal creatures.
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
 - **[Flaming Aura](flaming-aura.md)**: Gain the fire subtype, or an aura of fire if you already have it.
+- **[Flaming Sphere, Greater](flaming-sphere-greater.md)**: This spell functions as flaming sphere, except that it deals 6d6 points of fire damage to any creature it strikes.
 - **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
 - **[Forceful Strike](forceful-strike.md)**: Melee hit deals extra force damage and bull rush.
 - **[Frosty Aura](frosty-aura.md)**: Gain the cold subtype, or an aura of cold if you already have it.
@@ -301,6 +328,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Symbol of Striking](symbol-of-striking.md)**
 - **[Transplant Visage](transplant-visage.md)**: Wear a stolen face for +10 on Disguise.
 - **[Undead Anatomy II](undead-anatomy-ii.md)**: Take the form and some of the powers of a Tiny or Large undead.
+- **[Vampiric Shadow Shield](vampiric-shadow-shield.md)**: This spell wreathes you in shadowy energy and damages those that make melee attacks against you.
 - **[Vermin Shape II](vermin-shape-ii.md)**: As vermin shape, but Tiny or Large.
 - **[Waft](waft.md)**: Targets become light enough to be carried by the wind.
 - **[Wind Blades](wind-blades.md)**: You harden the air around the target into jagged invisible blades that deal damage based on how fast the.

@@ -63,3 +63,23 @@ Any spell whose name begins with *greater* is alphabetized in this chapter accor
 Any spell whose name begins with *lesser* is alphabetized in this chapter according to the spell name. Thus, the description of a *lesser* spell appears near the description of the spell on which it is based. Spell chains that have *lesser* spells in them include those based on the spells *confusion, geas, globe of invulnerability, planar* *ally, planar binding,* and *restoration.*
 
 Any spell whose name begins with *mass* is alphabetized in this chapter according to the spell name. Thus, the description of a *mass* spell appears near the description of the spell on which it is based. Spell chains that have *mass* spells in them include those based on the spells *bear’s endurance, bull’s strength, cat’s grace,* *charm monster, cure critical wounds, cure light wounds, cure moderate* *wounds, cure serious wounds, eagle’s splendor, enlarge person, fox’s* *cunning, heal, hold monster, hold person, inflict critical wounds,* *inflict light wounds, inflict moderate wounds, inflict serious wounds,* *invisibility, owl’s wisdom, reduce person,* and *suggestion.*
+
+## Spells Without a Class List
+
+These spells are not on any class spell list; they are granted by other means or set by the GM.
+
+- [Armor of Darkness](armor-of-darkness.md)
+- [Bolt of Glory](bolt-of-glory.md)
+- [Crown of Glory](crown-of-glory.md)
+- [Defensive Grace](defensive-grace.md)
+- [Fey Blight](fey-blight.md)
+- [Fey Boon](fey-boon.md)
+- [Genesis](genesis.md)
+- [Pesh Addiction, Lesser](pesh-addiction-lesser.md)
+- [Pesh Addiction](pesh-addiction.md)
+- [Status, Greater](status-greater.md)
+- [Suffocation, Instant](suffocation-instant.md)
+- [Suffocation, Slow](suffocation-slow.md)
+- [Surelife](surelife.md)
+- [Touch of Madness](touch-of-madness.md)
+- [True Creation](true-creation.md)

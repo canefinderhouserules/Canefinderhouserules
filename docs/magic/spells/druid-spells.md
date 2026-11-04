@@ -58,13 +58,17 @@
 - **[Faerie Fire](faerie-fire.md)**: Outlines subjects with light, canceling *blur*, concealment, and the like.
 - **[Ferment](ferment.md)**: Imbue a drink with an intoxicant
 - **[Firebelly](firebelly.md)**: Fire resistance 5 and a small fire breath.
+- **[Gentle Breeze](gentle-breeze.md)**: You create a light wind that blows only against the target, from a direction of your choice.
 - **[Goodberry](goodberry.md)**: 2d4 berries each cure 1 hp (max 8 hp/24 hours).
 - **[Gravity Bow](gravity-bow.md)**: Arrows do damage as though one size category bigger.
 - **[Hairline Fractures](hairline-fractures.md)**: Weaken stone or earth creatures.
+- **[Heightened Awareness](heightened-awareness.md)**: You enter a heightened state of awareness that allows you to notice more about your surroundings and recall…
+- **[Hibernate](hibernate.md)**: You place a willing subject into a cataleptic state.
 - **[Hidden Spring](hidden-spring.md)**: Discover a temporary spring of fresh, flowing water.
 - **[Hide from Animals](hide-from-animals.md)**: Animals can’t perceive one subject/level.
 - **[Ice Armor](ice-armor.md)**: Breastplate made of ice.
 - **[Instant Clot](instant-clot.md)**: end bleeding and stop blood flowing from wounds
+- **[Ironbloom Sprouts](ironbloom-sprouts.md)**: This spell functions like goodberry, except as noted above and that it transforms 2d4 mushrooms into magical…
 - **[Itching Curse](itching-curse.md)**: Itch gives –1 penalty unless scratched.
 - **[Jump](jump.md)**: Subject gets bonus on Acrobatics checks.
 - **[Lead Blades](lead-blades.md)**: Melee weapons damage as if one size bigger.
@@ -75,8 +79,10 @@
 - **[Magic Stone](magic-stone.md)**: Three stones gain +1 on attack rolls, deal 1d6+1 damage.
 - **[Marid’s Mastery](marid-s-mastery.md)**: School transmutation [water]; Level cleric 1, druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Mighty Fist of the Earth](mighty-fist-of-the-earth.md)**: You create a fist-sized rock that flies toward one enemy.
+- **[Monkey Fish](monkey-fish.md)**: Your hands and feet alter to make you better at climbing and swimming.
 - **[Mudball](mudball.md)**: When you cast this spell, you conjure a single ball of sticky mud and launch it at an enemy’s face as a.
 - **[Nature's Paths](natures-paths.md)**: Find the fastest way through the wilderness
+- **[Nauseating Dart](nauseating-dart.md)**: You spit a poisonous stinger around the size of a quill at a creature within range, as though you had fired a dart…
 - **[Nereid’s Grace](nereid-s-grace.md)**: You radiate the unearthly grace of a nereid.
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
@@ -104,7 +110,9 @@
 - **[Summon Nature’s Ally I](summon-natures-ally-i.md)**: Summons creature to fight.
 - **[Suspend Drowning](suspend-drowning.md)**: temporarily stop drowning
 - **[Tears to Wine](tears-to-wine.md)**: Turn liquids into wine that sharpens the mind.
+- **[Thorn Javelin](thorn-javelin.md)**: A wooden thorn the size of a javelin (appropriate for your size) appears in your open hand.
 - **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
+- **[Thunderstomp](thunderstomp.md)**: You stomp your foot or strike your weapon against the ground or floor, creating a ripple of power that you can use…
 - **[Touch of Bloodletting](touch-of-bloodletting.md)**: Wounded target bleeds and is exhausted.
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
 - **[Tracking Mark](tracking-mark.md)**: Easier to track a target.
@@ -121,18 +129,22 @@
 ## 2nd-Level Druid Spells
 
 - **[Aboleth’s Lung](aboleth-s-lung.md)**: The targets are able to breathe water, freely.
+- **[Aggressive Thundercloud](aggressive-thundercloud.md)**: A crackling, spherical storm cloud flies in whichever direction you point and deals electricity damage to those it…
+- **[Air Step](air-step.md)**: This spell functions as air walk, except you can rise no higher than 1 foot off the ground, you cannot pass over…
 - **[Alluring Spores](alluring-spores.md)**: Spores weaken enchantment saves.
 - **[Alpha Instinct](alpha-instinct.md)**: Gain bonuses when you’re interacting with animals.
 - **[Alter Summoned Monster](alter-summoned-monster.md)**: Swap a summoned creature for another
 - **[Amplify Stench](amplify-stench.md)**: Make your stench stronger and more potent
 - **[Animal Aspect](animal-aspect.md)**: You gain some of the beneficial qualities of an animal.
 - **[Animal Messenger](animal-messenger.md)**: Sends a Tiny animal to a specific place.
+- **[Animal Purpose Training](animal-purpose-training.md)**: You instill the target animal with a general purpose (see the Handle Animal skill), which can be any purpose except…
 - **[Animal Trance](animal-trance.md)**: Fascinates 2d6 HD of animals.
 - **[Ant Haul, Communal](ant-haul-communal.md)**: As ant haul, but you may divide the duration among creatures touched.
 - **[Aquatic Cavalry](aquatic-cavalry.md)**: Summon hippocampi to serve as aquatic mounts.
 - **[Ashen Path](ashen-path.md)**: breathe contaminated air and see through ash and smoke
 - **[Barkskin](barkskin.md)**: Grants +2 (or higher) enhancement to natural armor, and DR/magic.
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
+- **[Beastspeak](beastspeak.md)**: When you're in the form of an animal (such as when you are using wild shape or are affected by a polymorph effect),…
 - **[Binding Earth](binding-earth.md)**: If the target of this spell fails its Fortitude save, areas of earth and stone floor act as a snapping.
 - **[Bone Fists](bone-fists.md)**: Targets gain natural armor, natural weapon damage, and armor spikes.
 - **[Brittle Portal](brittle-portal.md)**: Reduce the hardness of a surface.
@@ -145,7 +157,9 @@
 - **[Celestial Companion](celestial-companion.md)**: Your companion gains spell resistance against evil, DR, and a sacred bonus on saves.
 - **[Certain Grip](certain-grip.md)**: You gain a +4 competence bonus on Acrobatics and Climb checks and to CMD.
 - **[Chill Metal](chill-metal.md)**: Cold metal damages those who touch it.
+- **[Climbing Beanstalk](climbing-beanstalk.md)**: You cause a thick, sturdy beanstalk to sprout from the ground and grow upward to a height of 10 feet + 5 feet per 2…
 - **[Cloud of Seasickness](cloud-of-seasickness.md)**: As *stinking cloud*, but it sickens rather than nauseates.
+- **[Companion Life Link](companion-life-link.md)**: You create a life link between yourself and the target.
 - **[Compel Tongue](compel-tongue.md)**: Target can speak and write only in one imparted language.
 - **[Control Vermin](control-vermin.md)**: Control vermin as if they were animals
 - **[Crafter's Nightmare](crafters-nightmare.md)**: Haunt sabotages crafting, ritual, and long-casting-time work.
@@ -160,6 +174,8 @@
 - **[Dragon Turtle Shell](dragon-turtle-shell.md)**: Natural attacks against you deal reduced damage.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
 - **[Eroding Ray](eroding-ray.md)**: Rays crumble constructs and objects.
+- **[Euphoric Cloud](euphoric-cloud.md)**: You create a bank of fog similar to that created by fog cloud except its vapors are intoxicating.
+- **[Extreme Buoyancy](extreme-buoyancy.md)**: The target’s buoyancy becomes and stays swiftly rising, regardless of how dense the target and its gear are.
 - **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Fiery Runes](fiery-runes.md)**: Weapon rune deals fire damage when discharged.
 - **[Fire Sneeze](fire-sneeze.md)**: Sneeze cones of fire and wind.
@@ -194,11 +210,13 @@
 - **[Invigorating Poison](invigorating-poison.md)**: Poison ability damage becomes a bonus instead.
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Lay of the Land](lay-of-the-land.md)**: Instantly learn the geography around you.
+- **[Lead Anchor](lead-anchor.md)**: The target’s buoyancy becomes and stays swiftly sinking, regardless of how dense the target and its gear are.
 - **[Lead Plating](lead-plating.md)**: Sheathe a target in lead to block radiation and divinations.
 - **[Locate Portal](locate-portal.md)**: You feel a pull toward the nearest active portal to another plane.
 - **[Magic Boulder](magic-boulder.md)**: Enchant boulders for throwing
 - **[Make Lost](make-lost.md)**: You strip the targets of their senses of direction and recent memories of travel.
 - **[Mud Buddy](mud-buddy.md)**: Create a small mud servant that can trip foes
+- **[Neutral Buoyancy](neutral-buoyancy.md)**: The target’s buoyancy becomes and stays neutral, regardless of how dense the target and its gear are.
 - **[Outbreak](outbreak.md)**: Make diseased creatures contagious
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
@@ -226,6 +244,7 @@
 - **[Sea Steed](sea-steed.md)**: Your mount adapts to an aquatic environment.
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
+- **[Sickening Entanglement](sickening-entanglement.md)**: This spell functions as entangle, except the plants are coated with an irritating sap that creates a painful,…
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Soften Earth and Stone](soften-earth-and-stone.md)**: Turns stone to clay, or dirt to sand or mud.
 - **[Solidify Earth](solidify-earth.md)**: Packs earth tight, hindering burrowing creatures.
@@ -233,6 +252,7 @@
 - **[Spider Climb](spider-climb.md)**: Grants ability to walk on walls and ceilings.
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
 - **[Spore Burst](spore-burst.md)**: A plant creature can burst spores that sicken nearby creatures.
+- **[Stabilize Pressure](stabilize-pressure.md)**: You instantly stabilize the target’s pressure, causing it to adjust to its current pressure all at once.
 - **[Steal Breath](steal-breath.md)**: You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath.
 - **[Stone Throwing](stone-throwing.md)**: Subject can throw and catch rocks.
 - **[Storm Sight](storm-sight.md)**: Sense creatures caught in a storm.
@@ -260,9 +280,11 @@
 - **[Accept Affliction](accept-affliction.md)**: Transfer an affliction or condition from a creature to yourself.
 - **[Aggravate Affliction](aggravate-affliction.md)**: All recurring afflictions on the target trigger at once.
 - **[Air Breathing](air-breathing.md)**: Let aquatic creatures breathe air
+- **[Anchored Step](anchored-step.md)**: Powerful tendrils grow out of the bottom of your feet or footwear, partially anchoring you to the ground and making…
 - **[Animal Aspect, Greater](animal-aspect-greater.md)**: As animal aspect, but you gain two animal qualities.
 - **[Ape Walk](ape-walk.md)**: Gain a climb speed of 30 ft. and a +8 bonus on Climb checks.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
+- **[Aquatic Trail](aquatic-trail.md)**: You use divination magic to enhance the underwater trails in the area around you, allowing you to track creatures…
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
 - **[Bite the Hand](bite-the-hand.md)**: Summoned creature attacks its summoner.
 - **[Blade Snare](blade-snare.md)**: Snare a weapon or limb that strikes you.
@@ -293,6 +315,7 @@
 - **[Fins to Feet](fins-to-feet.md)**: School transmutation (polymorph); Level druid 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard action.
 - **[Flashfire](flashfire.md)**: Cause smoky fires to spring up to burn foes and set them alight.
 - **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
+- **[Free Swim](free-swim.md)**: The target can move and attack underwater normally without the usual penalties involved with underwater combat, as…
 - **[Guardian Wasps](guardian-wasps.md)**: A wasp swarm builds a nest that guards an area.
 - **[Hag's Seasoning](hags-seasoning.md)**: Curse: the target becomes a delicious meal.
 - **[Heatstroke](heatstroke.md)**: Ray deals 1d4 nonlethal damage and exhausts like ray of exhaustion.
@@ -306,8 +329,10 @@
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
 - **[Knell of the Depths](knell-of-the-depths.md)**: Curse: the target sinks in water.
 - **[Leshy Swarm](leshy-swarm.md)**: Summon a swarm of Tiny leshys.
+- **[Life Current](life-current.md)**: You infuse the current with positive energy.
 - **[Life Shield](life-shield.md)**: Undead that hit you take positive energy damage
 - **[Lightning Conductor](lightning-conductor.md)**: Absorb electricity damage and discharge it as a touch or ray.
+- **[Longstrider, Greater](longstrider-greater.md)**: personal Target you Duration 1 hour/level (D)
 - **[Magic Fang, Greater](magic-fang-greater.md)**: One natural weapon gets + 1/four levels (max +5).
 - **[Mark and Recall](mark-and-recall.md)**: Mark a place, then cast again to teleport back to it (100 miles/level).
 - **[Meld into Stone](meld-into-stone.md)**: You and your gear merge with stone.
@@ -320,6 +345,7 @@
 - **[Plant Growth](plant-growth.md)**: Grows vegetation, improves crops.
 - **[Pocketful of Vipers](pocketful-of-vipers.md)**: Ward a container with summoned vipers.
 - **[Poison](poison.md)**: Touch deals 1d3 Con damage 1/round for 6 rounds.
+- **[Pressure Adaptation](pressure-adaptation.md)**: The target adapts incredibly quickly to changes in pressure, adjusting to 100 feet of new pressure (or the entire…
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 - **[Pup Shape](pup-shape.md)**: Transforms a single animal or magical beast into a younger and cuter version of itself for a short time.
 - **[Quell Energy](quell-energy.md)**: Reduce a creature's energy damage of one type.
@@ -349,6 +375,7 @@
 - **[Spotlight](spotlight.md)**: bright light on a target suppresses nearby light and ruins its Stealth
 - **[Steal Size](steal-size.md)**: Shrinks a larger target and enlarges you.
 - **[Steal Years](steal-years.md)**: drain years from a target to make yourself younger
+- **[Stench of Prey](stench-of-prey.md)**: The target exudes a strong odor that most predators recognize as the scent of helpless prey.
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
 - **[Summon Nature’s Ally 3](summon-natures-ally-3.md)**: This spell functions like summon nature’s ally I, except that you can summon one 3rd-level creature, 1d3 2nd-l…
 - **[Summon Nature’s Ally III](summon-natures-ally-iii.md)**: Summons creature to fight.
@@ -358,9 +385,12 @@
 - **[Sylvan Hideaway](sylvan-hideaway.md)**: Creates a hidden extradimensional room under a trap door.
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
+- **[Thorny Entanglement](thorny-entanglement.md)**: This spell functions as entangle, except the plants also grow thorns and can fling them up to 15 feet.
+- **[Thunderstomp, Greater](thunderstomp-greater.md)**: This spell functions as thunderstomp, except as noted.
 - **[Toxic Blood](toxic-blood.md)**: Target's blood sprays black adder venom when cut.
 - **[Toxic Rupture](toxic-rupture.md)**: A poisonous creature is poisoned by its own venom.
 - **[Transfer Regeneration](transfer-regeneration.md)**: Give your regeneration to another creature
+- **[Unlife Current](unlife-current.md)**: You infuse the current with positive energy.
 - **[Vampiric Hunger](vampiric-hunger.md)**: Target drains blood while pinning to heal or gain temporary hit points.
 - **[Vengeful Comets](vengeful-comets.md)**: Orbiting comets protect from fire and retaliate against casters.
 - **[Virulent Miasma](virulent-miasma.md)**: Create a fog that weakens resistance to disease
@@ -377,6 +407,7 @@
 - **[Absorb Toxicity](absorb-toxicity.md)**: You become immune to diseases and toxins, absorb one, and then spread it to others.
 - **[Absorbing Inhalation](absorbing-inhalation.md)**: You grant your lungs inhuman strength and capacity, allowing you to harmlessly and completely inhale one gas.
 - **[Aerial Tracks](aerial-tracks.md)**: Track flying creatures through the air.
+- **[Aggressive Thundercloud, Greater](aggressive-thundercloud-greater.md)**: This spell functions as aggressive thundercloud, except it deals 6d6 points of electricity damage to any creature it…
 - **[Air Walk](air-walk.md)**: Subject treads on air as if solid (climb or descend at 45-degree angle).
 - **[Alter River](alter-river.md)**: Changes a river's current speed or diverts its course.
 - **[Ancestral Memory](ancestral-memory.md)**: When you cast this spell, you open your mind to the vast experiences of your ancestors in the hope of learning…
@@ -396,6 +427,7 @@
 - **[Concealed Breath](concealed-breath.md)**: Touched creatures need not breathe.
 - **[Control Water](control-water.md)**: Raises or lowers bodies of water.
 - **[Create Holds](create-holds.md)**: Creates a path of climbing handholds on a wall.
+- **[Creeping Ice](creeping-ice.md)**: This spell covers the floor, the ground, or some other calm horizontal surface (such as a placid lake or a gentle…
 - **[Crimson Breath](crimson-breath.md)**: Spit a dose of breath of the assassin poison.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
 - **[Curse Terrain](curse-terrain.md)**: Curse an area with four hazards.
@@ -407,6 +439,7 @@
 - **[Firewalker's Meditation](firewalkers-meditation.md)**: Meditative spell: damage reduction, fire resistance, and pain resistance.
 - **[Flame Steed](flame-steed.md)**: Conjure a mount made of flame.
 - **[Flame Strike](flame-strike.md)**: Smites foes with divine fire (1d6/level damage).
+- **[Flaming Sphere, Greater](flaming-sphere-greater.md)**: This spell functions as flaming sphere, except that it deals 6d6 points of fire damage to any creature it strikes.
 - **[Forest’s Sense](forests-sense.md)**: Sense the location of a distant target that is near a plant or fungus.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Frigid Souls](frigid-souls.md)**: Haunt strips protection against cold.
@@ -426,6 +459,7 @@
 - **[Minotaur’s Blessing](minotaurs-blessing.md)**: Turn a creature’s head into a bull’s.
 - **[Obsidian Flow](obsidian-flow.md)**: Converts the surface of the ground into molten glass. Spells 6 Protection from Energy, Communal: As protection from energy, but you may divide the duration among creatures touched.
 - **[Phantom Hunt](phantom-hunt.md)**: You and your companion gain senses, speed, and fast tracking.
+- **[Protection from Energy, Communal](protection-from-energy-communal.md)**: This spell functions like protection from energy, except you divide the duration in 10-minute intervals among the…
 - **[Protection from Natural Attacks](protection-from-natural-attacks.md)**: Target gains DR 5/— against one type of natural attack.
 - **[Rebuke Technology](rebuke-technology.md)**: Render a technological target inert.
 - **[Reincarnate](reincarnate.md)**: Brings dead subject back in a random body.
@@ -440,6 +474,7 @@
 - **[See Through Stone](see-through-stone.md)**: See through stone as if it were glass.
 - **[Sensory Amplifier](sensory-amplifier.md)**: Creatures nearby sense more keenly but take extra damage.
 - **[Shield Speech, Greater](shield-speech-greater.md)**: Creatures within 30 ft. talk without being overheard.
+- **[Slowing Mud](slowing-mud.md)**: You coat the targets in thick, sticky mud.
 - **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
 - **[Spike Stones](spike-stones.md)**: Creatures in area take 1d8 damage, may also be slowed*.*
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
@@ -454,6 +489,7 @@
 - **[Wall of Brine](wall-of-brine.md)**: You conjure a 5-foot-thick wall of seawater with a powerful current flowing toward one side of the wall, selec…
 - **[Warp Metal](warp-metal.md)**: Permanently warps metal objects.
 - **[Watchful Animal](watchful-animal.md)**: Your animal companion or familiar becomes a scrying sensor.
+- **[Wave Form](wave-form.md)**: You transform into a wave of frothing water up to 15 feet wide and 15 feet tall, as space permits, and then surge…
 - **[Wooden Wing Shield](wooden-wing-shield.md)**: Your wings become a barrier granting a +4 shield bonus to AC.
 - **[Zone of Foul Flames](zone-of-foul-flames.md)**: Casters take full damage from their own fire effects.
 
@@ -520,6 +556,7 @@
 - **[Vile Dog Transformation](vile-dog-transformation.md)**: Transform ordinary dogs into fiendish minions.
 - **[Waft](waft.md)**: Targets become light enough to be carried by the wind.
 - **[Wall of Fire](wall-of-fire.md)**: Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level.
+- **[Wall of Light](wall-of-light.md)**: An immobile, blinding curtain of white light that blocks line of sight springs into existence.
 - **[Wall of Thorns](wall-of-thorns.md)**: Thorns damage anyone who tries to pass.
 - **[Whip of Centipedes](whip-of-centipedes.md)**: As whip of spiders, but with centipedes.
 - **[Wind Blades](wind-blades.md)**: You harden the air around the target into jagged invisible blades that deal damage based on how fast the.
@@ -531,6 +568,7 @@
 - **[Bear’s Endurance, Mass](bears-endurance-mass.md)**: As *bear’s endurance*, affects 1 subject/level.
 - **[Binding Earth, Mass](binding-earth-mass.md)**: School transmutation [earth]; Level druid 6, witch 6 Target one creature or object/level, no two of which can.
 - **[Bite the Hand, Mass](bite-the-hand-mass.md)**: As bite the hand, multiple targets.
+- **[Blazing Rainbow](blazing-rainbow.md)**: You create a spectrum of multicolored solid light that can be used for one of two effects.
 - **[Bleaching Resistance](bleaching-resistance.md)**: Ability score drain from the Bleaching doesn’t affect your ability score modifiers while you’re affected by th…
 - **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As *bull’s strength*, affects 1 subject/level.
 - **[Cat’s Grace, Mass](cats-grace-mass.md)**: As *cat’s grace*, affects one subject/level.
@@ -596,6 +634,7 @@
 - **[Delectable Flesh](delectable-flesh.md)**: Creatures near the target become depraved and attack it to feast.
 - **[Elemental Bombardment](elemental-bombardment.md)**: You summon elementals from their elemental planes and hurl them onto your enemies with great force.
 - **[Entice Fey](entice-fey.md)**: Entice service from a fey of 12 Hit Dice or fewer.
+- **[Fairy Ring Retreat](fairy-ring-retreat.md)**: You conjure up an extradimensional meadow that can be accessed from a single entrance on the plane from which the…
 - **[Fire Storm](fire-storm.md)**: Deals 1d6/level fire damage.
 - **[Form of the Exotic Dragon I](form-of-the-exotic-dragon-i.md)**: Become a Medium imperial or primal dragon.
 - **[Frost Mammoth](frost-mammoth.md)**: Conjure a rideable snow mammoth.

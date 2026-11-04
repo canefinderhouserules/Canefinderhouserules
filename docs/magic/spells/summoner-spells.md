@@ -8,6 +8,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Batrachian Surge](batrachian-surge.md)**: gain gills, leaping, swimming, or a long tongue
 - **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
 - **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
+- **[Blurred Movement](blurred-movement.md)**: This spell functions as blur, except that the blurring occurs only when you move at least 10 feet on your turn and…
 - **[Celestial Companion](celestial-companion.md)**: Your companion gains spell resistance against evil, DR, and a sacred bonus on saves.
 - **[Celestial Healing](celestial-healing.md)**: Target gains fast healing 1.
 - **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
@@ -15,12 +16,14 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Detect Metal](detect-metal.md)**: Detects metal objects and creatures in a cone.
 - **[Enlarge Tail](enlarge-tail.md)**: Your tail gains reach and a bonus to attack and damage.
 - **[Flotsam Vessel](flotsam-vessel.md)**: Builds a raft from river debris that always travels downstream.
+- **[Glue Seal](glue-seal.md)**: You cover a solid surface with a layer of sticky glue.
 - **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
 - **[Infernal Healing](infernal-healing.md)**: Devil’s blood or unholy water grants fast healing 1 for 1 minute.
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
 - **[Life Conduit](life-conduit.md)**: You are bound even tighter to your eidolon than normal, and may share hit points with it through your life link ability.
 - **[Lighten Object](lighten-object.md)**: Halve an object’s weight.
+- **[Long Arm](long-arm.md)**: Your arms temporarily grow in length, increasing your reach with those limbs by 5 feet.
 - **[Lucky Number](lucky-number.md)**: When the target rolls a chosen number it can reroll or add +2 luck.
 - **[Murderous Crow](murderous-crow.md)**: You conjure a supernaturally vicious and clever crow to watch over you on the battlefield.
 - **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
@@ -41,6 +44,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Anti-Summoning Shield](anti-summoning-shield.md)**: Summoning effects in the area may fail.
 - **[Aquatic Cavalry](aquatic-cavalry.md)**: Summon hippocampi to serve as aquatic mounts.
 - **[Blade Tutor's Spirit](blade-tutors-spirit.md)**: Reduces penalties on your melee attacks.
+- **[Blood Armor](blood-armor.md)**: Your blood becomes as hard as iron upon contact with air.
 - **[Contact Entity I](contact-entity-i.md)**: Ask eldritch entities to find and converse with you.
 - **[Covetous Urge](covetous-urge.md)**: Curse a creature to steal valuables
 - **[Cushioning Bands](cushioning-bands.md)**: Force bands protect against crushing.
@@ -56,6 +60,8 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Hidden Blades](hidden-blades.md)**: Weapon becomes invisible and easy to conceal.
 - **[Identifier's Eye](identifiers-eye.md)**: Detect magic and +5 on Spellcraft to identify items.
 - **[Influence Wild Magic](influence-wild-magic.md)**: Roll twice on wild magic effects and choose.
+- **[Invisibility Bubble](invisibility-bubble.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
+- **[Invisibility Bubble, Mass](invisibility-bubble-mass.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
 - **[Lesser Nondetection](lesser-nondetection.md)**: Blocks area-targeted divinations.
 - **[Locate Portal](locate-portal.md)**: You feel a pull toward the nearest active portal to another plane.
 - **[Mark and Recall](mark-and-recall.md)**: Mark a place, then cast again to teleport back to it (100 miles/level).
@@ -70,8 +76,10 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Restore Eidolon, Lesser](restore-eidolon-lesser.md)**: Lesser restoration for an eidolon.
 - **[Shackle](shackle.md)**: Conjure manacles or fetters.
 - **[Slick Walls](slick-walls.md)**: Walls and ceilings become much harder to climb.
+- **[Stabilize Pressure](stabilize-pressure.md)**: You instantly stabilize the target’s pressure, causing it to adjust to its current pressure all at once.
 - **[Summon Cacodaemon](summon-cacodaemon.md)**: This spell functions like summon monster, except it summons a single cacodaemon.
 - **[Summon Monster 2](summon-monster-2.md)**: This spell functions like summon monster I, except that you can summon one creature from the 2nd-level list or…
+- **[Time Shudder](time-shudder.md)**: You cause a ripple in time that affects all creatures in the area.
 - **[Twisted Space](twisted-space.md)**: Targeted creature’s attacks target a random square instead of the intended target.
 - **[Unseen Engineers](unseen-engineers.md)**: Invisible engineers build a mechanical trap.
 - **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
@@ -94,6 +102,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Conjure Carriage](conjure-carriage.md)**: Create a fine carriage.
 - **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
 - **[Control Summoned Creature](control-summoned-creature.md)**: Direct a summoned monster as if you had summoned it.
+- **[Creeping Ice](creeping-ice.md)**: This spell covers the floor, the ground, or some other calm horizontal surface (such as a placid lake or a gentle…
 - **[Deft Digits](deft-digits.md)**: Animate a glove to manipulate objects at a distance.
 - **[Draconic Ally](draconic-ally.md)**: Create an intelligent draconic servant.
 - **[Fiendish Wrath](fiendish-wrath.md)**: Willing creatures enter a combat frenzy and can rend.
@@ -117,9 +126,11 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
 - **[Pellet Blast](pellet-blast.md)**
 - **[Phantom Chariot](phantom-chariot.md)**: Conjures a quasi-real heavy chariot pulled by four horses.
+- **[Phantom Steed, Communal](phantom-steed-communal.md)**: This spell functions like phantom steed, except you can summon up to six steeds, and you divide the duration in…
 - **[Phase Step](phase-step.md)**: Short-range teleport of a willing creature with line of sight.
 - **[Planar Inquiry](planar-inquiry.md)**: Call an outsider to answer questions.
 - **[Positive Pulse, Greater](positive-pulse-greater.md)**: A large pulse of positive energy damages undead and bolsters living creatures
+- **[Pressure Adaptation](pressure-adaptation.md)**: The target adapts incredibly quickly to changes in pressure, adjusting to 100 feet of new pressure (or the entire…
 - **[Protection from Arrows, Communal](protection-from-arrows-communal.md)**: As protection from arrows, but you may divide the duration among creatures touched.
 - **[Protection from Natural Attacks](protection-from-natural-attacks.md)**: Target gains DR 5/— against one type of natural attack.
 - **[Rain of Frogs](rain-of-frogs.md)**: Summon a swarm of poisonous frogs.
@@ -129,6 +140,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Selective Alarm](selective-alarm.md)**: As *alarm*, but only against selected creatures.
 - **[Selective Invisibility](selective-invisibility.md)**: Invisible, except to one chosen creature you may attack.
 - **[Shared Sacrifice](shared-sacrifice.md)**: Redirect half your damage to a target.
+- **[Shield Companion](shield-companion.md)**: This spell creates a special mystical connection between you and your companion creature—animal companion, bonded…
 - **[Siphon Might](siphon-might.md)**: Drains target's Strength and grants it to an ally.
 - **[Speak with Plane](speak-with-plane.md)**: Question a sentient plane.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
@@ -148,6 +160,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 ## 4th-Level Summoner Spells
 
 - **[Absorbing Barrier](absorbing-barrier.md)**: Ward an area with DR 20/magic against ranged weapons.
+- **[Adjustable Polymorph](adjustable-polymorph.md)**: This spell functions as alter self, except you can as a swift action alter the disguise (within the limitations of…
 - **[Anywhere But Here](anywhere-but-here.md)**: Transport yourself and willing creatures to a random planar destination
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Beanstalk](beanstalk.md)**: When casting this spell, you must plant the material components in soil.
@@ -245,6 +258,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Bite the Hand, Mass](bite-the-hand-mass.md)**: As bite the hand, multiple targets.
 - **[Contact Entity IV](contact-entity-iv.md)**: Ask extraordinarily powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Create Demiplane](create-demiplane.md)**: As lesser create demiplane, but larger and with planar traits.
+- **[Dimensional Bounce](dimensional-bounce.md)**: You designate two locations within range and create a dimensional link between them; you must have line of effect to…
 - **[Dissolution](dissolution.md)**: Make a small object vanish from reality temporarily.
 - **[Eagle Aerie](eagle-aerie.md)**: Summon 1 giant eagle/3 levels.
 - **[Energy Siege Shot, Greater](energy-siege-shot-greater.md)**: As energy siege shot, but you can affect any size siege engine.

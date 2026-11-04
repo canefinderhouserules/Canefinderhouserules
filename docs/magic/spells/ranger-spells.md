@@ -9,6 +9,7 @@
 - **[Alleviate Addiction](alleviate-addiction.md)**: Subject ignores the effects of addictions.
 - **[Ally Across Time](ally-across-time.md)**: Summon a brief duplicate of yourself to aid you.
 - **[Animal Messenger](animal-messenger.md)**: Sends a Tiny animal to a specific place.
+- **[Animal Purpose Training](animal-purpose-training.md)**: You instill the target animal with a general purpose (see the Handle Animal skill), which can be any purpose except…
 - **[Antitoxin Touch](antitoxin-touch.md)**: Target can't poison itself accidentally and safely milks venom.
 - **[Aspect of the Nightingale](aspect-of-the-nightingale.md)**: Clear voice, bonus on Diplomacy and Perform.
 - **[Batrachian Surge](batrachian-surge.md)**: gain gills, leaping, swimming, or a long tongue
@@ -41,6 +42,7 @@
 - **[Entangle](entangle.md)**: Plants entangle everyone in 40-ft. radius.
 - **[Flotsam Vessel](flotsam-vessel.md)**: Builds a raft from river debris that always travels downstream.
 - **[Handy Grapnel](handy-grapnel.md)**: Transform a ropelike object into a retracting grapple.
+- **[Heightened Awareness](heightened-awareness.md)**: You enter a heightened state of awareness that allows you to notice more about your surroundings and recall…
 - **[Hidden Spring](hidden-spring.md)**: Discover a temporary spring of fresh, flowing water.
 - **[Hide from Animals](hide-from-animals.md)**: Animals can’t perceive one subject/level.
 - **[Hide Weapon](hide-weapon.md)**: Meld a weapon into your arm.
@@ -50,6 +52,7 @@
 - **[Inner Focus](inner-focus.md)**: Cast divine spells without displaying a holy symbol.
 - **[Instant Clot](instant-clot.md)**: end bleeding and stop blood flowing from wounds
 - **[Instant Enemy](instant-enemy.md)**: Target is treated as a favored enemy type of your choice.
+- **[Invisibility Alarm](invisibility-alarm.md)**: This spell functions as alarm, except it is triggered only by invisible creatures entering or leaving the warded area.
 - **[Ironbeard](ironbeard.md)**: School transmutation; Level antipaladin 1, cleric 1, magus 1, paladin 1, ranger 1 Casting Time 1 standard.
 - **[Jump](jump.md)**: Subject gets bonus on Acrobatics checks.
 - **[Keep Watch](keep-watch.md)**: Lets subjects keep watch all night yet gain a full rest.
@@ -71,6 +74,7 @@
 - **[Radiation Ward](radiation-ward.md)**: +4 on saves against radiation; sense radiation levels.
 - **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
 - **[Read Weather](read-weather.md)**: Forecast the weather for 48 hours.
+- **[Refine Improvised Weapon](refine-improvised-weapon.md)**: You transform an improvised weapon into an equivalent simple or martial weapon of masterwork quality.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Reveal Mirage](reveal-mirage.md)**: Discern whether terrain at one point is an illusion, or a natural mirage.
@@ -90,7 +94,9 @@
 - **[Sun Metal](sun-metal.md)**: Weapon touched bursts into flames.
 - **[Suspend Drowning](suspend-drowning.md)**: temporarily stop drowning
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
+- **[Thorn Javelin](thorn-javelin.md)**: A wooden thorn the size of a javelin (appropriate for your size) appears in your open hand.
 - **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
+- **[Thunderstomp](thunderstomp.md)**: You stomp your foot or strike your weapon against the ground or floor, creating a ripple of power that you can use…
 - **[Tracking Mark](tracking-mark.md)**: Easier to track a target.
 - **[Unbreakable Heart](unbreakable-heart.md)**: +4 morale bonus against negative emotions and effects that would make the target harm an ally.
 - **[Underbrush Decoy](underbrush-decoy.md)**: Create a rustling distraction to hide.
@@ -101,28 +107,34 @@
 
 ## 2nd-Level Ranger Spells
 
+- **[Air Step](air-step.md)**: This spell functions as air walk, except you can rise no higher than 1 foot off the ground, you cannot pass over…
 - **[Alpha Instinct](alpha-instinct.md)**: Gain bonuses when you’re interacting with animals.
 - **[Alter Summoned Monster](alter-summoned-monster.md)**: Swap a summoned creature for another
 - **[Animal Aspect](animal-aspect.md)**: You gain some of the beneficial qualities of an animal.
 - **[Ant Haul, Communal](ant-haul-communal.md)**: As ant haul, but you may divide the duration among creatures touched.
 - **[Ape Walk](ape-walk.md)**: Gain a climb speed of 30 ft. and a +8 bonus on Climb checks.
 - **[Aquatic Cavalry](aquatic-cavalry.md)**: Summon hippocampi to serve as aquatic mounts.
+- **[Aquatic Trail](aquatic-trail.md)**: You use divination magic to enhance the underwater trails in the area around you, allowing you to track creatures…
 - **[Ashen Path](ashen-path.md)**: breathe contaminated air and see through ash and smoke
 - **[Barkskin](barkskin.md)**: Grants +2 (or higher) enhancement to natural armor, and DR/magic.
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
 - **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
 - **[Brow Gasher](brow-gasher.md)**: Slashing weapon deals bleed damage to an opponent’s head.
+- **[Bullet Ward](bullet-ward.md)**: You toss several adamantine bullets into the air, which then hover protectively nearby and intercept firearm attacks…
 - **[Carry Companion](carry-companion.md)**: Turns a willing animal into a stone figurine.
 - **[Cat’s Grace](cats-grace.md)**: Subject gains +4 to Dex for 1 min./level.
 - **[Cauterizing Weapon](cauterizing-weapon.md)**: Weapon or ammunition overcomes regeneration.
 - **[Celestial Companion](celestial-companion.md)**: Your companion gains spell resistance against evil, DR, and a sacred bonus on saves.
 - **[Clear Grove](clear-grove.md)**: Vegetation withdraws from a 20-ft.-radius clearing.
+- **[Companion Life Link](companion-life-link.md)**: You create a life link between yourself and the target.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Detoxify](detoxify.md)**: Neutralize a creature’s poison attacks.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
+- **[Enemy Insight](enemy-insight.md)**: You forge a mental bond between yourself and the other targets, each of which must have an Intelligence score of 3…
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
+- **[Extreme Buoyancy](extreme-buoyancy.md)**: The target’s buoyancy becomes and stays swiftly rising, regardless of how dense the target and its gear are.
 - **[Forest Friend](forest-friend.md)**: Plants in a forested area become helpful instead of hindering you and your allies.
 - **[Garden of Peril](garden-of-peril.md)**: Poisonous mushrooms sicken nearby creatures.
 - **[Grasping Vine](grasping-vine.md)**: A vine from your body manipulates objects within 20 ft.
@@ -142,9 +154,11 @@
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Lament of Summer’s Last Breath](lament-of-summers-last-breath.md)**: You wrap the target in a mantle of summery air, within which the ambient temperature never falls below 70 degr…
 - **[Lay of the Land](lay-of-the-land.md)**: Instantly learn the geography around you.
+- **[Lead Anchor](lead-anchor.md)**: The target’s buoyancy becomes and stays swiftly sinking, regardless of how dense the target and its gear are.
 - **[Lead Plating](lead-plating.md)**: Sheathe a target in lead to block radiation and divinations.
 - **[Lightning Lash](lightning-lash.md)**: You create a crackling lash of unholy lightning that flickers and flashes in your hand like a whip, shifting c…
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
+- **[Neutral Buoyancy](neutral-buoyancy.md)**: The target’s buoyancy becomes and stays neutral, regardless of how dense the target and its gear are.
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
@@ -170,10 +184,13 @@
 - **[Sense Vitals](sense-vitals.md)**: Gain sneak attack with any manufactured weapon.
 - **[Shackle](shackle.md)**: Conjure manacles or fetters.
 - **[Shared Training](shared-training.md)**: grant a teamwork feat to allies
+- **[Shield Companion](shield-companion.md)**: This spell creates a special mystical connection between you and your companion creature—animal companion, bonded…
+- **[Sickening Entanglement](sickening-entanglement.md)**: This spell functions as entangle, except the plants are coated with an irritating sap that creates a painful,…
 - **[Snare](snare.md)**: Creates a magic booby trap.
 - **[Soothing Word](soothing-word.md)**: The target of this spell causes several conditions that he suffers from to be lessened in severity by one step…
 - **[Speak with Plants](speak-with-plants.md)**: You can talk to plants and plant creatures.
 - **[Spike Growth](spike-growth.md)**: Creatures in area take 1d4 damage, may be slowed*.*
+- **[Stabilize Pressure](stabilize-pressure.md)**: You instantly stabilize the target’s pressure, causing it to adjust to its current pressure all at once.
 - **[Summon Nature’s Ally 2](summon-natures-ally-2.md)**: This spell functions as summon nature’s ally I, except that you summon one 2nd-level creature or 1d3 1st-level…
 - **[Summon Nature’s Ally II](summon-natures-ally-ii.md)**: Summons creature to fight for you.
 - **[Surefoot Boots](surefoot-boots.md)**: Footwear grants perfect balance.
@@ -203,6 +220,7 @@
 - **[Bloody Arrows](bloody-arrows.md)**: Ranged hits cause stacking bleed.
 - **[Burning Entanglement](burning-entanglement.md)**: Entangling plants burst into flame
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
+- **[Chameleon Stride, Greater](chameleon-stride-greater.md)**: This spell functions as chameleon stride (Pathfinder RPG Advanced Player’s Guide 210), except it confers its bonuses…
 - **[Channel the Gift](channel-the-gift.md)**: Your spell slot powers an ally’s spell.
 - **[Cold Iron Fetters](cold-iron-fetters.md)**: Shackle a target, halving its speeds and blocking magical movement.
 - **[Command Plants](command-plants.md)**: Sway the actions of plant creatures.
@@ -216,6 +234,7 @@
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Film of Filth](film-of-filth.md)**: You cause the target’s flesh to exude a layer of putrescent slime so foul that the target is sickened (Fortitu…
 - **[Forest’s Sense](forests-sense.md)**: Sense the location of a distant target that is near a plant or fungus.
+- **[Free Swim](free-swim.md)**: The target can move and attack underwater normally without the usual penalties involved with underwater combat, as…
 - **[Frigid Souls](frigid-souls.md)**: Haunt strips protection against cold.
 - **[Frosthammer](frosthammer.md)**: A hurled hammer of ice damages and may trip the target.
 - **[Full Pouch](full-pouch.md)**: Duplicate an alchemical item as you draw it.
@@ -225,6 +244,8 @@
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
 - **[Lesser Nondetection](lesser-nondetection.md)**: Blocks area-targeted divinations.
 - **[Life Blast](life-blast.md)**: Drain life from local vegetation to launch a blast of positive energy.
+- **[Life Current](life-current.md)**: You infuse the current with positive energy.
+- **[Longstrider, Greater](longstrider-greater.md)**: personal Target you Duration 1 hour/level (D)
 - **[Magic Fang, Greater](magic-fang-greater.md)**: One natural weapon gets + 1/four levels (max. +5).
 - **[Martyr’s Last Blessing](martyrs-last-blessing.md)**: Your death releases *mass cure light wounds* on your allies.
 - **[Meticulous Match](meticulous-match.md)**: Determine if two things are identical.
@@ -236,6 +257,7 @@
 - **[Planar Aegis](planar-aegis.md)**: A force shield of planar essence damages attackers and halves related damage.
 - **[Plant Growth](plant-growth.md)**: Grows vegetation, improves crops.
 - **[Pocketful of Vipers](pocketful-of-vipers.md)**: Ward a container with summoned vipers.
+- **[Pressure Adaptation](pressure-adaptation.md)**: The target adapts incredibly quickly to changes in pressure, adjusting to 100 feet of new pressure (or the entire…
 - **[Protection from Energy, Communal](protection-from-energy-communal.md)**: As protection from energy, but you may divide the duration among creatures touched.
 - **[Quieting Weapons](quieting-weapons.md)**: Weapons make no sound and quiet their victims.
 - **[Reduce Animal](reduce-animal.md)**: Shrinks one willing animal.
@@ -255,6 +277,7 @@
 - **[Spectral Scout](spectral-scout.md)**: A spectral Tiny animal scouts for you and reports what it sees.
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
 - **[Spore Burst](spore-burst.md)**: A plant creature can burst spores that sicken nearby creatures.
+- **[Stench of Prey](stench-of-prey.md)**: The target exudes a strong odor that most predators recognize as the scent of helpless prey.
 - **[Summon Nature’s Ally 3](summon-natures-ally-3.md)**: This spell functions like summon nature’s ally I, except that you can summon one 3rd-level creature, 1d3 2nd-l…
 - **[Summon Nature’s Ally III](summon-natures-ally-iii.md)**: Summons creature to fight for you.
 - **[Summon Totem Creature](summon-totem-creature.md)**: Summon creatures sacred to your totem clan.
@@ -264,9 +287,12 @@
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
 - **[Thorn Snare](thorn-snare.md)**: As *snare*, and the thorny vine damages whoever it traps.
+- **[Thorny Entanglement](thorny-entanglement.md)**: This spell functions as entangle, except the plants also grow thorns and can fling them up to 15 feet.
+- **[Thunderstomp, Greater](thunderstomp-greater.md)**: This spell functions as thunderstomp, except as noted.
 - **[Titanic Anchoring](titanic-anchoring.md)**: You become nearly immovable by combat maneuvers.
 - **[Toxic Blood](toxic-blood.md)**: Target's blood sprays black adder venom when cut.
 - **[Tree Shape](tree-shape.md)**: You look exactly like a tree for 1 hour/level.
+- **[Unlife Current](unlife-current.md)**: You infuse the current with positive energy.
 - **[Vex Giant](vex-giant.md)**: Deal more damage and avoid attacks of opportunity against larger foes.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 - **[Wall of Brine](wall-of-brine.md)**: You conjure a 5-foot-thick wall of seawater with a powerful current flowing toward one side of the wall, selec…

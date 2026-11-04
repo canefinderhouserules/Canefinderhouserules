@@ -204,12 +204,17 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Debasing Touch](debasing-touch.md)**: Target's touch turns coins to copper.
 - **[Enchantment Sight](enchantment-sight.md)**: See which creatures are under enchantment effects.
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
+- **[Extreme Buoyancy](extreme-buoyancy.md)**: The target’s buoyancy becomes and stays swiftly rising, regardless of how dense the target and its gear are.
 - **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Force Sword](force-sword.md)**: Create a longsword of pure force.
 - **[Hidden Knowledge](hidden-knowledge.md)**: Store knowledge in a tattoo, forgetting it temporarily.
 - **[Hoodwink](hoodwink.md)**: Befuddle targets so they can be led away
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
+- **[Invisibility Bubble](invisibility-bubble.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
+- **[Invisibility Bubble, Mass](invisibility-bubble-mass.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
+- **[Lead Anchor](lead-anchor.md)**: The target’s buoyancy becomes and stays swiftly sinking, regardless of how dense the target and its gear are.
 - **[Mindshock](mindshock.md)**: Your attacks deal extra nonlethal damage and can confuse.
+- **[Neutral Buoyancy](neutral-buoyancy.md)**: The target’s buoyancy becomes and stays neutral, regardless of how dense the target and its gear are.
 - **[Node of Blasting](node-of-blasting.md)**: Place a trap on an object to mentally damage a creature that touches it.
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
 - **[Obscured Script](obscured-script.md)**: Text becomes hard to read and deciphers falsely.
@@ -372,6 +377,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Explosive Runes](explosive-runes.md)**: Deals 6d6 damage when read.
 - **[Fleeting Memory](fleeting-memory.md)**: Target forgets everything that happens while the spell lasts.
 - **[Forced Mutation](forced-mutation.md)**: Twist a creature, imposing penalties and a deformity.
+- **[Free Swim](free-swim.md)**: The target can move and attack underwater normally without the usual penalties involved with underwater combat, as…
 - **[Full Pouch](full-pouch.md)**: Duplicate an alchemical item as you draw it.
 - **[Geomessage](geomessage.md)**: Leave an invisible message on a surface
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
@@ -672,6 +678,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 **Abjuration**:
 
 - **[Bind Sage](bind-sage.md)**: This variant of planar binding is specifically used to call one of the most knowledgeable types of outsiders: …
+- **[Bloodstone Mirror](bloodstone-mirror.md)**: Developed due to the undead queen’s fear that her stolen organs might be used to control her, this spell reflects any attempts…
 - **[Cold Iron Fetters](cold-iron-fetters.md)**: Shackle a target, halving its speeds and blocking magical movement.
 - **[Contagious Suggestion](contagious-suggestion.md)**: a suggestion that spreads from target to target
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.

@@ -5,11 +5,14 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 ## 1st-Level Alchemist Spells
 
 - **[Abjuring Step](abjuring-step.md)**: You can move slowly and safely and still cast spells, until you move quickly, make an attack, or cast a harmful spell.
+- **[Adhesive Spittle](adhesive-spittle.md)**: Once during this spell’s duration, you can spit a viscous liquid as a standard action.
 - **[Alleviate Addiction](alleviate-addiction.md)**: Subject ignores the effects of addictions.
 - **[Anticipate Peril](anticipate-peril.md)**: Target gains a bonus on one initiative check.
 - **[Antitoxin Touch](antitoxin-touch.md)**: Target can't poison itself accidentally and safely milks venom.
 - **[Authenticating Gaze](authenticating-gaze.md)**: Gain insight on Appraise and Linguistics checks about written works.
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
+- **[Blurred Movement](blurred-movement.md)**: This spell functions as blur, except that the blurring occurs only when you move at least 10 feet on your turn and…
+- **[Body Capacitance](body-capacitance.md)**: If you take electricity damage while this spell is active, some of the energy is stored on your skin, as with…
 - **[Bouncy Body](bouncy-body.md)**: Become rubbery and bounce when falling
 - **[Chameleon Scales](chameleon-scales.md)**: Change the color of your skin or scales.
 - **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
@@ -20,14 +23,19 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[False Face](false-face.md)**: Change your appearance so you are unrecognizable.
 - **[Ferment](ferment.md)**: Imbue a drink with an intoxicant
 - **[Firebelly](firebelly.md)**: Fire resistance 5 and a small fire breath.
+- **[Heightened Awareness](heightened-awareness.md)**: You enter a heightened state of awareness that allows you to notice more about your surroundings and recall…
 - **[Identity Validation](identity-validation.md)**: Confirm a creature’s identity from a sample.
 - **[Illusion of Calm](illusion-of-calm.md)**: You appear to be standing still, even when you take some actions.
 - **[Instant Clot](instant-clot.md)**: end bleeding and stop blood flowing from wounds
+- **[Invisibility Alarm](invisibility-alarm.md)**: This spell functions as alarm, except it is triggered only by invisible creatures entering or leaving the warded area.
 - **[Linebreaker](linebreaker.md)**: You gain a +20 foot bonus to your base speed when charging and a +2 bonus on combat maneuver checks made to.
 - **[Locksight](locksight.md)**: Sense a lock’s state and quality.
+- **[Long Arm](long-arm.md)**: Your arms temporarily grow in length, increasing your reach with those limbs by 5 feet.
 - **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
+- **[Monkey Fish](monkey-fish.md)**: Your hands and feet alter to make you better at climbing and swimming.
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
+- **[Phantom Blood](phantom-blood.md)**: You bolster your life energy.
 - **[Pierce Facade](pierce-facade.md)**: +5 insight on Perception to see through disguises.
 - **[Polypurpose Panacea](polypurpose-panacea.md)**: Gain a relaxing or entertaining effect.
 - **[Punishing Armor](punishing-armor.md)**: Reflects nonlethal damage back at attackers.
@@ -53,6 +61,8 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 
 - **[Ablative Barrier](ablative-barrier.md)**: Surrounds the target with layers of force.
 - **[Acute Senses](acute-senses.md)**: Subject gains a bonus on Perception checks.
+- **[Adhesive Blood](adhesive-blood.md)**: Your blood thickens to becomes a glue-like substance upon contact with air.
+- **[Air Step](air-step.md)**: This spell functions as air walk, except you can rise no higher than 1 foot off the ground, you cannot pass over…
 - **[Ancestral Regression](ancestral-regression.md)**: School transmutation (polymorph); Level alchemist 2, antipaladin 3, cleric 2, sorcerer/wizard 3, witch 2.
 - **[Ancestral Revision](ancestral-revision.md)**: a wayang appears as a gnome-like version of herself
 - **[Animal Aspect](animal-aspect.md)**: You gain some of the beneficial qualities of an animal.
@@ -60,6 +70,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Beloved of the Forge](beloved-of-the-forge.md)**: Sense of direction home; luck on Craft.
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
 - **[Blistering Invective](blistering-invective.md)**: Make an Intimidate check against all foes within 30 feet; those demoralized also take fire damage.
+- **[Blood Armor](blood-armor.md)**: Your blood becomes as hard as iron upon contact with air.
 - **[Blood Blaze](blood-blaze.md)**: School transmutation [fire]; Level alchemist 2, antipaladin 1, cleric 2, magus 2, sorcerer/wizard 2, witch 2.
 - **[Blood Transcription](blood-transcription.md)**: Learn a spell from the target’s blood.
 - **[Bullet Shield](bullet-shield.md)**: You gain a +4 deflection bonus to AC against firearm attacks.
@@ -78,11 +89,14 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Empower Holy Water](empower-holy-water.md)**: Holy water deals extra damage to undead
 - **[Enchantment Sight](enchantment-sight.md)**: See which creatures are under enchantment effects.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
+- **[Extreme Buoyancy](extreme-buoyancy.md)**: The target’s buoyancy becomes and stays swiftly rising, regardless of how dense the target and its gear are.
+- **[Extreme Flexibility](extreme-flexibility.md)**: You gain a +1 dodge bonus to AC, a +4 circumstance bonus on Escape Artist checks and combat maneuver checks to…
 - **[False Age](false-age.md)**: Appear one age category older or younger.
 - **[Fiery Runes](fiery-runes.md)**: Weapon rune deals fire damage when discharged.
 - **[Fire Sneeze](fire-sneeze.md)**: Sneeze cones of fire and wind.
 - **[Fire’s Friend](fires-friend.md)**: You cloak yourself in flames that do not harm you or your carried equipment but damage other creatures and obj…
 - **[Flesh Facade](flesh-facade.md)**: Make an undead look alive
+- **[Focused Scrutiny](focused-scrutiny.md)**: You gain heightened sensitivity to the mannerisms, reactions, and body language of one creature you can perceive,…
 - **[Full Pouch](full-pouch.md)**: Duplicate an alchemical item as you draw it.
 - **[Fungal Blisters](fungal-blisters.md)**: Blisters on your body burst into harmful spores when you are hit.
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
@@ -92,13 +106,18 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Identifier's Eye](identifiers-eye.md)**: Detect magic and +5 on Spellcraft to identify items.
 - **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form
 - **[Imbue with Addiction](imbue-with-addiction.md)**: target becomes addicted to the drug used as a component
+- **[Investigative Mind](investigative-mind.md)**: Your mind is able to correlate information effectively.
 - **[Invigorating Poison](invigorating-poison.md)**: Poison ability damage becomes a bonus instead.
+- **[Invisibility Bubble](invisibility-bubble.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
+- **[Invisibility Bubble, Mass](invisibility-bubble-mass.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Kinetic Reverberation](kinetic-reverberation.md)**: Channels the force of an enemy’s attack back into its weapon.
 - **[Languid Venom](languid-venom.md)**: Delay a poison’s onset and hide its presence.
+- **[Lead Anchor](lead-anchor.md)**: The target’s buoyancy becomes and stays swiftly sinking, regardless of how dense the target and its gear are.
 - **[Lesser Nondetection](lesser-nondetection.md)**: Blocks area-targeted divinations.
 - **[Merge with Familiar](merge-with-familiar.md)**: Merge the body of your familiar or spirit animal into your own.
 - **[Minor Dream](minor-dream.md)**: School illusion (figment) [mind-affecting]; Level alchemist 2, bard 3, sorcerer/wizard 3, witch 2 Casting.
+- **[Neutral Buoyancy](neutral-buoyancy.md)**: The target’s buoyancy becomes and stays neutral, regardless of how dense the target and its gear are.
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
@@ -112,6 +131,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Skinsend](skinsend.md)**: Animate and possess your own skin as if it were a separate creature.
 - **[Squeeze](squeeze.md)**: School transmutation (polymorph); Level alchemist 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard.
+- **[Stabilize Pressure](stabilize-pressure.md)**: You instantly stabilize the target’s pressure, causing it to adjust to its current pressure all at once.
 - **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
 - **[Sweat Poison](sweat-poison.md)**: exude an injury poison from your own glands
 - **[Tattoo Potion](tattoo-potion.md)**: Turn a potion into a spell tattoo.
@@ -126,13 +146,17 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 ## 3rd-Level Alchemist Spells
 
 - **[Absorb Toxicity](absorb-toxicity.md)**: You become immune to diseases and toxins, absorb one, and then spread it to others.
+- **[Adjustable Disguise](adjustable-disguise.md)**: This spell functions as disguise self, except as a swift action you can alter the disguise (within the limitations…
 - **[Age Resistance, Lesser](age-resistance-lesser.md)**: Ignore penalties from middle age.
 - **[Air Breathing](air-breathing.md)**: Let aquatic creatures breathe air
+- **[Anchored Step](anchored-step.md)**: Powerful tendrils grow out of the bottom of your feet or footwear, partially anchoring you to the ground and making…
 - **[Animal Aspect, Greater](animal-aspect-greater.md)**: As animal aspect, but you gain two animal qualities.
 - **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
+- **[Aura Sight](aura-sight.md)**: This spell makes your eyes glow and allows you to see alignment auras within 120 feet of you.
 - **[Barghest Feast](barghest-feast.md)**: The target gains bonuses by devouring a humanoid corpse.
 - **[Battle Trance](battle-trance.md)**: 3, witch 4 Casting Time 1 standard action Components V, S Range personal Target you Duration 1 minute/level.
 - **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
+- **[Blood Sentinel](blood-sentinel.md)**: After casting this spell, you pour a few drops of your blood and saliva into the mouth of the animal sculpture…
 - **[Bouncing Bomb Admixture](bouncing-bomb-admixture.md)**: Your next bomb directly hits a splash target.
 - **[Burrow](burrow.md)**: Target gains a burrow speed of 15.
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
@@ -145,6 +169,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Darkvault](darkvault.md)**: wards an area so light cannot change its illumination
 - **[Darkvision, Communal](darkvision-communal.md)**: As darkvision, but you may divide the duration among creatures touched.
 - **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
+- **[Disable Construct](disable-construct.md)**: You can make a melee touch attack to send a pulse into the target, interfering with the magic that endows it with life.
 - **[Dragon Turtle Shell](dragon-turtle-shell.md)**: Natural attacks against you deal reduced damage.
 - **[Drain Poison](drain-poison.md)**: Drain a creature's poison onto your weapon.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
@@ -152,6 +177,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
 - **[Fiendish Wrath](fiendish-wrath.md)**: Willing creatures enter a combat frenzy and can rend.
 - **[Fire Trail](fire-trail.md)**: When you cast this spell, flammable liquid oozes from your pores, dripping onto the ground and spontaneously.
+- **[Free Swim](free-swim.md)**: The target can move and attack underwater normally without the usual penalties involved with underwater combat, as…
 - **[Glimpse the Hidden](glimpse-the-hidden.md)**: As *see invisibility*, but cannot be made permanent.
 - **[God of Good Dragons’s Shining Scales](god-of-good-dragonss-shining-scales.md)**: You envelop your body with silver radiance that manifests as scales surrounding your body, granting you a +5 a…
 - **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
@@ -162,12 +188,14 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Liquefy](liquefy.md)**: Turn an object into a harmless liquid.
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
 - **[Monstrous Physique I](monstrous-physique-i.md)**: Take the form and some of the powers of a Small or Medium monstrous humanoid.
+- **[Nauseating Trail](nauseating-trail.md)**: The target exudes stinking vapors that fill its space.
 - **[Oni Aspect](oni-aspect.md)**: Gain fast healing 3, and dismiss the spell to reroll a failed Will save.
 - **[Orchid’s Drop](orchids-drop.md)**: Drinking a mutagen heals 2d10 damage.
 - **[Paragon Surge](paragon-surge.md)**: You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind.
 - **[Penumbral Disguise](penumbral-disguise.md)**: shadowy illumination masks your features
 - **[Phase Step](phase-step.md)**: Short-range teleport of a willing creature with line of sight.
 - **[Prehensile Pilfer](prehensile-pilfer.md)**: School transmutation; Level alchemist 3, bard 3, magus 3, sorcerer/wizard 3 Casting Time 1 standard action.
+- **[Pressure Adaptation](pressure-adaptation.md)**: The target adapts incredibly quickly to changes in pressure, adjusting to 100 feet of new pressure (or the entire…
 - **[Protection from Arrows, Communal](protection-from-arrows-communal.md)**: As protection from arrows, but you may divide the duration among creatures touched.
 - **[Protection from Natural Attacks](protection-from-natural-attacks.md)**: Target gains DR 5/— against one type of natural attack.
 - **[Qlippoth Appearance](qlippoth-appearance.md)**: Your face looks subtly wrong, and you can reveal the face beneath to harm one viewer.
@@ -189,6 +217,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 
 - **[Absorbing Barrier](absorbing-barrier.md)**: Ward an area with DR 20/magic against ranged weapons.
 - **[Absorbing Inhalation](absorbing-inhalation.md)**: You grant your lungs inhuman strength and capacity, allowing you to harmlessly and completely inhale one gas.
+- **[Adjustable Polymorph](adjustable-polymorph.md)**: This spell functions as alter self, except you can as a swift action alter the disguise (within the limitations of…
 - **[Age Resistance](age-resistance.md)**: Ignore penalties from old age.
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Bit of Luck](bit-of-luck.md)**: reservoir of luck points for attack rolls and skill checks
@@ -204,6 +233,8 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Earsend](earsend.md)**: Your ear flies off as a spy.
 - **[Earth Glide](earth-glide.md)**: School transmutation [earth]; Level alchemist 4, druid 4, sorcerer/wizard 4 Casting Time 1 standard action.
 - **[Echolocation](echolocation.md)**: Sonic sense gives you blindsight 40 ft.
+- **[Enchantment Foil](enchantment-foil.md)**: You gain a +4 bonus on saving throws against enchantment effects.
+- **[Eyes of the Void](eyes-of-the-void.md)**: You gain darkvision, the ability to see 60 feet even in total darkness, including that created by deeper darkness.
 - **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
 - **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
@@ -214,6 +245,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Monstrous Physique II](monstrous-physique-ii.md)**: Take the form and some of the powers of a Tiny or Large monstrous humanoid.
 - **[Mutagenic Touch](mutagenic-touch.md)**: You can pass a weaker version of your mutagen to another creature.
 - **[Naga Shape I](naga-shape-i.md)**: assume the form of a Large naga
+- **[Persistent Vigor](persistent-vigor.md)**: You are filled with a persistent vigor.
 - **[Purify Body](purify-body.md)**: Heals, grants temporary hit points, and removes pain, ability damage, and conditions.
 - **[Rubberskin](rubberskin.md)**: Bludgeoning and falling damage become nonlethal.
 - **[Rune of Ruin](rune-of-ruin.md)**: Curse a magic item, breaking it and weakening its bonuses.
@@ -223,6 +255,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[Touch of Slime](touch-of-slime.md)**: Touch infests a target with green slime.
 - **[Umbral Infusion](umbral-infusion.md)**: a mindless undead gains the advanced template but may go out of control
+- **[Unbearable Brightness](unbearable-brightness.md)**: Your body glows with a terrible light.
 - **[Vermin Shape I](vermin-shape-i.md)**: Take the form and some of the powers of a Small or Medium vermin.
 - **[Viper Bomb Admixture](viper-bomb-admixture.md)**: Empowers bombs you throw to summon poisonous biting vipers that bite those hit or splashed by the bomb.
 - **[Vitriolic Mist](vitriolic-mist.md)**: As fire shield, except acid damage.
@@ -269,6 +302,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
 - **[Ooze Form II](ooze-form-ii.md)**: Assume the form of a Large ooze creature.
 - **[Plague Bearer](plague-bearer.md)**: Target spreads contagion to adjacent creatures.
+- **[Sonic Form](sonic-form.md)**: Upon casting this spell, you keep your relative shape, but you and your equipment are transformed into semisolid sound.
 - **[Transmute Golem](transmute-golem.md)**: Turn one type of golem into another.
 - **[Undead Anatomy III](undead-anatomy-iii.md)**: Take the form and some of the powers of a Diminutive or Huge undead.
 - **[Verminous Transformation](verminous-transformation.md)**: Partially transform into a swarm.

@@ -4,6 +4,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 
 ## 1st-Level Antipaladin Spells
 
+- **[Animal Purpose Training](animal-purpose-training.md)**: You instill the target animal with a general purpose (see the Handle Animal skill), which can be any purpose except…
 - **[Barbed Chains](barbed-chains.md)**: Hellish chains attack and cause a target to become shaken.
 - **[Bleeding Strike](bleeding-strike.md)**: You imbue a slashing melee weapon with the ability to create a bleeding wound.
 - **[Blood Blaze](blood-blaze.md)**: School transmutation [fire]; Level alchemist 2, antipaladin 1, cleric 2, magus 2, sorcerer/wizard 2, witch 2.
@@ -27,6 +28,8 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Grasping Corpse](grasping-corpse.md)**: Cause a corpse to grab or trip a foe.
 - **[Gravity Bow](gravity-bow.md)**: Arrows do damage as though one size category bigger.
 - **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
+- **[Halfling Vengeance](halfling-vengeance.md)**: You grant the touched target the ability to ascertain the weaknesses of foes.
+- **[Halfling Vengeance, Mass](halfling-vengeance-mass.md)**: You grant the touched target the ability to ascertain the weaknesses of foes.
 - **[Haunting Reminder](haunting-reminder.md)**: Coerced target becomes shaken if it betrays you.
 - **[Hedging Weapons](hedging-weapons.md)**: Floating weapons protect you and make ranged attacks.
 - **[Hide Bruises](hide-bruises.md)**: Make wounds appear to vanish
@@ -73,6 +76,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
 - **[Borrow Corruption](borrow-corruption.md)**: Temporarily gain the effects of a corrupted creature’s manifestations.
 - **[Brittle Portal](brittle-portal.md)**: Reduce the hardness of a surface.
+- **[Bullet Ward](bullet-ward.md)**: You toss several adamantine bullets into the air, which then hover protectively nearby and intercept firearm attacks…
 - **[Curse of Keeping](curse-of-keeping.md)**: Target cannot sell, barter, or give away its items.
 - **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
 - **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
@@ -89,6 +93,8 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
+- **[Invisibility Bubble](invisibility-bubble.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
+- **[Invisibility Bubble, Mass](invisibility-bubble-mass.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Jealous Rage](jealous-rage.md)**: Target attacks anyone who receives a benefit it does not.
 - **[Lesser Nondetection](lesser-nondetection.md)**: Blocks area-targeted divinations.
@@ -135,9 +141,11 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 ## 3rd-Level Antipaladin Spells
 
 - **[Accursed Glare](accursed-glare.md)**: Target rolls attacks and saves twice and takes the lower result.
+- **[Adjustable Disguise](adjustable-disguise.md)**: This spell functions as disguise self, except as a swift action you can alter the disguise (within the limitations…
 - **[Ancestral Regression](ancestral-regression.md)**: School transmutation (polymorph); Level alchemist 2, antipaladin 3, cleric 2, sorcerer/wizard 3, witch 2.
 - **[Ancestral Revision](ancestral-revision.md)**: a wayang appears as a gnome-like version of herself
 - **[Battle Trance](battle-trance.md)**: 3, witch 4 Casting Time 1 standard action Components V, S Range personal Target you Duration 1 minute/level.
+- **[Bestow Auras](bestow-auras.md)**: You transfer one or more of your paladin or antipaladin auras (such as aura of courage and aura of resolve) to…
 - **[Black Sword of War](black-sword-of-war.md)**: A weapon deals bleed damage equal to half your caster level.
 - **[Blade of Dark Triumph](blade-of-dark-triumph.md)**: Bonded weapon gains ghost touch.
 - **[Bloody Arrows](bloody-arrows.md)**: Ranged hits cause stacking bleed.
@@ -191,6 +199,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 ## 4th-Level Antipaladin Spells
 
 - **[Banishing Blade](banishing-blade.md)**: The weapon bull rushes foes and can banish outsiders.
+- **[Bloatbomb](bloatbomb.md)**: The target creature dies if it fails a Fortitude saving throw and its Hit Dice are no more than half your caster level.
 - **[Blood Tentacles](blood-tentacles.md)**: Blood tentacles attack and heal you.
 - **[Blood Ties](blood-ties.md)**: When a target is harmed, so is the target’s relative.
 - **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
@@ -204,6 +213,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Decollate](decollate.md)**: A target can safely remove its head.
 - **[Die for Your Master](die-for-your-master.md)**: Companion intercepts any attack against you.
 - **[Dimensional Blade](dimensional-blade.md)**: Your melee weapon makes touch attacks.
+- **[Eyes of the Void](eyes-of-the-void.md)**: You gain darkvision, the ability to see 60 feet even in total darkness, including that created by deeper darkness.
 - **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
 - **[Foster Hatred](foster-hatred.md)**: Cause creatures to hate one type of creature.
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
