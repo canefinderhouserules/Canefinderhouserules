@@ -86,9 +86,7 @@ You can spend a swift action to transform the weapon into a dull black metal rin
 
 ## Shatter
 
-Add your tier to your caster level when determining the maximum object weight you can affect. When targeting a
-
-crystalline creature, the spell's damage increases to 1d8 points of sonic damage per caster level (maximum 10d8). You may damage a single magical object as if it were a crystalline creature. If the spell destroys an object or damages a crystalline creature, broken shards litter the spell area or creature's space and act as caltrops.
+Add your tier to your caster level when determining the maximum object weight you can affect. When targeting a crystalline creature, the spell's damage increases to 1d8 points of sonic damage per caster level (maximum 10d8). You may damage a single magical object as if it were a crystalline creature. If the spell destroys an object or damages a crystalline creature, broken shards litter the spell area or creature's space and act as caltrops.
 
 ## Shield of Faith
 
@@ -112,11 +110,7 @@ The duration that creatures in the area are deafened increases to 4d6 rounds, an
 
 ## Silence
 
-This spell also applies to telepathy, cutting off any mental communication within the area. At the time of casting, you can
-
-choose to be immune to your own mythic silence effect and can designate up to one creature per tier to
-
-also gain this immunity. Creatures immune to the mythic silence are subject to sonic effects as normal.
+This spell also applies to telepathy, cutting off any mental communication within the area. At the time of casting, you can choose to be immune to your own mythic silence effect and can designate up to one creature per tier to also gain this immunity. Creatures immune to the mythic silence are subject to sonic effects as normal.
 
 ## Silent Image
 
@@ -128,9 +122,7 @@ The duration increases to concentration + 1 round per caster level, and the effe
 
 ## Sleep
 
-The spell affects up to 8 Hit Dice of creatures, and you can choose the order in which creatures are affected by the spell. Any effect that would automatically awaken a sleeping
-
-creature instead allows it to attempt a new Will saving throw to awaken.
+The spell affects up to 8 Hit Dice of creatures, and you can choose the order in which creatures are affected by the spell. Any effect that would automatically awaken a sleeping creature instead allows it to attempt a new Will saving throw to awaken.
 
 **Augmented (8th)**: If you expend three uses of mythic power, you can target all living creatures other than you that have 8 Hit Dice or fewer in a 1-mile radius centered on you. Creatures that fail their saving throws fall asleep for a number of days equal to your tier. You can select a number of creatures up to your tier to not be affected by the spell.
 

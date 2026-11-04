@@ -480,9 +480,7 @@ Many events allow a skill check to affect the outcome of the event. If you’re 
 
 **Forced Commission**: A government official requires a specific commission, but refuses to pay for the service, claiming it is your duty to support the government. If you comply with this demand, completing the work takes 1d4 days, and the building generates no income for that period of time. If you resist, the official goes elsewhere, and you lose 1d6 points of Influence.
 
-**Forge Waste**: An employee ruins some equipment or refined metal. Attempt a DC 30 Craft check appropriate to your Smithy. If you succeed, you are able to salvage much
-
-of the metal and only lose 1 point of Goods. If you fail, you lose 1d3 points of Goods.
+**Forge Waste**: An employee ruins some equipment or refined metal. Attempt a DC 30 Craft check appropriate to your Smithy. If you succeed, you are able to salvage much of the metal and only lose 1 point of Goods. If you fail, you lose 1d3 points of Goods.
 
 **Special Request**: A famous hero, noble, military commander, or similar notable comes to your Smithy with a special request for an unusual or masterwork item— perhaps manacles, a cage, exotic barding, or a replacement piece for an iron golem. For 1d4 days, as payments come in for the request, your building gains a +20 bonus on its first check to generate capital each day. At the end of this period, attempt a DC 30 Craft check of the appropriate type. On a success, your Smithy has done so well on the request that the customer spreads the word of your skill and you gain 1d6 points of Influence.
 
@@ -561,9 +559,7 @@ of the metal and only lose 1 point of Goods. If you fail, you lose 1d3 points of
 
 **Healing Request**: Someone has been hurt, has fallen ill, or is otherwise in need of magical healing. You can perform the healing yourself by expending 1d4 spell levels worth of healing spells, or by spending 1d6 points of Magic. If you perform the healing for free, you gain 2d4 points of Influence. If you charge for the healing, your building gains a +20 bonus on its next check to generate capital.
 
-**Important Visitor**: A cleric, inquisitor, paladin, or other notable holy person associated with your faith or an allied faith visits your Temple. If you succeed at a DC 20 Diplomacy check, the visitor stays 1d8 days. Each day
-
-the visitor remains, you gain 1 point of Influence and the building gains a +5 bonus on its first check to generate capital each day.
+**Important Visitor**: A cleric, inquisitor, paladin, or other notable holy person associated with your faith or an allied faith visits your Temple. If you succeed at a DC 20 Diplomacy check, the visitor stays 1d8 days. Each day the visitor remains, you gain 1 point of Influence and the building gains a +5 bonus on its first check to generate capital each day.
 
 **Major Miracle**: A major miracle occurs at your Temple or to one of its faithful, such as recovering from a terminal illness, permanent blindness, or another debilitating affliction. You gain 2d4 points of Influence, and for 1d6 days you and all allies who worship your deity gain a +2 sacred bonus on Fortitude and Will saving throws. You may also tread this as a sacred ritual event.
 

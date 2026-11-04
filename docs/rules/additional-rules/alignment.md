@@ -37,12 +37,6 @@ Occasionally the rules refer to “steps” when dealing with alignment. In this
 | Lawful Neutral | True Neutral | Chaotic Neutral |
 | Lawful Evil | Neutral Evil | Chaotic Evil |
 
-## Good
-
-## Neutral
-
-## Evil
-
 ## The Nine Alignments
 
 Nine distinct alignments define the possible combinations of the lawful-chaotic axis with the good-evil axis. Each description below depicts a typical character of that alignment. Remember that individuals vary from this norm, and that a given character may act more or less in accord with his alignment from day to day. Use these descriptions as guidelines, not as scripts.

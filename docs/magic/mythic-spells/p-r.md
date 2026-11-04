@@ -80,21 +80,11 @@ When you cast the spell, you simultaneously create a prismatic spray that origin
 
 The spell automatically blinds creatures with up to 12 Hit Dice instead of 8 Hit Dice. Attempt one bull rush combat maneuver and apply its results to each creature in the area. Your CMB for this bull rush is equal to your caster level plus your Intelligence, Wisdom, or Charisma modifier, whichever is highest. This bull rush doesn't provoke an attack of opportunity.
 
-**Augmented (6th)**: If you expend two uses of mythic power, the area changes from a cone into a line. Creatures in the line are struck by two beams (or three, if the creature rolls an 8 on the table). The spell bypasses energy resistance
-
-and immunity.
+**Augmented (6th)**: If you expend two uses of mythic power, the area changes from a cone into a line. Creatures in the line are struck by two beams (or three, if the creature rolls an 8 on the table). The spell bypasses energy resistance and immunity.
 
 ## Protection from Arrows
 
-The damage reduction increases to 15/magic. The maximum damage prevented by the spell increases to 15 points per caster level (maximum 150 points). If the spell prevents all damage from a ranged
-
-weapon attack, it turns the projectile or weapon back
-
-on the attacker, using the same attack roll result. If the attacker is also protected by mythic protection from arrows and its spell completely prevents the damage
-
-from the rebounded attack, the weapon or
-
-projectile is destroyed.
+The damage reduction increases to 15/magic. The maximum damage prevented by the spell increases to 15 points per caster level (maximum 150 points). If the spell prevents all damage from a ranged weapon attack, it turns the projectile or weapon back on the attacker, using the same attack roll result. If the attacker is also protected by mythic protection from arrows and its spell completely prevents the damage from the rebounded attack, the weapon or projectile is destroyed.
 
 ## Protection from Chaos
 

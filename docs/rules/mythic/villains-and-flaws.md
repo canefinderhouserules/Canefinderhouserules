@@ -18,9 +18,7 @@ The following mythic flaws are optional rules the GM may want to include in a my
 
 Flaws don't provide great benefits to the characters including them is purely for dramatic purposes, not to create an optimal character. The GM should carefully weigh whether or not to include them in the game, and decide if their addition is a benefit to the story as a whole and (more importantly) something the players will enjoy playing.
 
-If you decide to include mythic flaws in the game, they are gained at the same time the character gains mythic power, during the moment of ascension. You can select these flaws yourself, making them an aspect of the theme used to grant the PCs mythic power, or you can allow the PCs to select them, integrating the flaws into their backstories. The following
-
-mythic flaws are examples of the types of flaws you could include in your game.
+If you decide to include mythic flaws in the game, they are gained at the same time the character gains mythic power, during the moment of ascension. You can select these flaws yourself, making them an aspect of the theme used to grant the PCs mythic power, or you can allow the PCs to select them, integrating the flaws into their backstories. The following mythic flaws are examples of the types of flaws you could include in your game.
 
 Select one specific type of food or drink (other than water). If you don't ingest that food or drink at least once per day, you begin to lose your mythic powers. After the first day of absence, you can no longer regain uses of mythic power. After the second day, you lose all the powers and abilities granted by your mythic path. After the third day, you lose all of your mythic abilities, with the exception of ability score increases, bonus hit points, and bonus mythic feats. These powers and abilities are immediately restored as soon as you consume that food or drink.
 

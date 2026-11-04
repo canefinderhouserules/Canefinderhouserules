@@ -45,20 +45,6 @@ In addition to the grand bullet hexes provided below, the following grand witch 
 
 ### Deadeye Hexer Deed
 
-**Contents**
-
-- 1 Deadeye Hexer Deeds 1.1 Level 2
-
-- 1.2 Level 6
-
-- 1.3 Level 10
-
-- 1.4 Level 14
-
-- 1.5 Level 18
-
-- 2 Related
-
 **Deadeye Hexer Deeds**
 
 *Gunslinger Deed*: At any level where a deadeye hexer gains deeds, he can choose to replace any one deed with a gunslinger deed received by a gunslinger at a lower level.

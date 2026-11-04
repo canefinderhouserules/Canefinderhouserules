@@ -120,16 +120,6 @@ This alters domains and replaces blessing of the faith and true faith.
 
 Alternate class features are small, modular archetypes. They swap out a single class feature (or a few related class features) for new abilities. By affecting only small parts of the class at a time, a player is able to build the legendary cleric that best fits their ideas. With these alternate class features, the legendary cleric is more flexible than ever before. If an archetype or alternate class replaces one of the below class features, the replacement class feature may not be exchanged for an alternate class feature.
 
-**Contents**
-
-- 1 Legendary Clerics 1.1 Weapon and Armor Proficiencies
-
-- 1.2 Blessing of the Faith
-
-- 1.3 Secondary Domain
-
-- 2 Related
-
 **Legendary Clerics**
 
 **Weapon and Armor Proficiencies**

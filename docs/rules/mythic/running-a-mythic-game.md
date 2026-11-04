@@ -1,8 +1,6 @@
 # Running a Mythic Game
 
-Running a mythic game has many similarities to
-
-running other games. The PCs still go on adventures, fight monsters, discover treasure, and gain experience. The difference is that mythic games have an added level of drama, theater, and tension. Compared to non-mythic parties of the same character level, a mythic party's adventures feature incredibly difficult foes and far greater challenges. Of course, there are also splendorous rewards for the bold mythic adventurer (see Chapter 5: Mythic Magic Items).
+Running a mythic game has many similarities to running other games. The PCs still go on adventures, fight monsters, discover treasure, and gain experience. The difference is that mythic games have an added level of drama, theater, and tension. Compared to non-mythic parties of the same character level, a mythic party's adventures feature incredibly difficult foes and far greater challenges. Of course, there are also splendorous rewards for the bold mythic adventurer (see Chapter 5: Mythic Magic Items).
 
 This chapter gives guidelines for running a mythic campaign, including a discussion of what makes a game mythic, types of mythic games, rules for adjudicating the difficulty of encounters, and guidelines for advancing play and fulfilling trials.
 
@@ -52,27 +50,13 @@ The actual means by which the PCs receive this power may vary (see [Mythic Theme
 
 Often, the source of this power gives them a clue to their journey. For example, the tarrasque is tearing through the countryside, devouring entire towns. The PCs are forced to flee into a secluded valley near where the beast was slumbering, only to find that the valley contains an ancient seal recently broken. A guardian spirit explains to them that it has failed in its duty to keep the beast contained, and beseeches the PCs to intervene if they are brave enough. Giving the last of its strength, the spirit imbues the PCs with mythic power. As the spirit fades away, it tells them to seek out a legendary blade capable of ending the tarrasque.
 
-After receiving aid, the PCs are ready to begin their journey, but first they must leave their old world behind. Make this a painful choice for them, as the PCs must leave loved ones and comfort to venture into the unknown and ready themselves against true danger. This is a good time to present their first major challenge, so they can fully grasp the power they now command. The GM should also mark this point with some sort of loss or setback, to emphasize the gravity of the situation and the need for the PCs to undertake their quest. In the example
-
-above, the PCs might leave the valley
-
-only to find that their hometown is completely gone, devoured by the tarrasque. Before the PCs have a chance to mourn, they're beset by a group of cultists who helped to weaken the seal. After a deadly fight, the PCs see that they must leave to retrieve
-
-the blade if they're going to
-
-save other towns from this horrible fate.
+After receiving aid, the PCs are ready to begin their journey, but first they must leave their old world behind. Make this a painful choice for them, as the PCs must leave loved ones and comfort to venture into the unknown and ready themselves against true danger. This is a good time to present their first major challenge, so they can fully grasp the power they now command. The GM should also mark this point with some sort of loss or setback, to emphasize the gravity of the situation and the need for the PCs to undertake their quest. In the example above, the PCs might leave the valley only to find that their hometown is completely gone, devoured by the tarrasque. Before the PCs have a chance to mourn, they're beset by a group of cultists who helped to weaken the seal. After a deadly fight, the PCs see that they must leave to retrieve the blade if they're going to save other towns from this horrible fate.
 
 ### Journey
 
 The second part of the mythic structure is the journey. This part of the story can be nearly any length, from composing the middle of one session to encompassing dozens of sessions. The PCs, now enhanced with mythic power, must contend with various trials and dangers. Although these tests can take many different forms, there are some common types.
 
-One type of test is that of the heart, compelling the PCs to struggle for
-
-something they care about other
-
-than themselves. These tests
-
-provide the PCs with a goal other than their own well-being and power. There should be something threatened if they fail, which serves to give the PCs resolve, a reason to carry on. As they visit a city in the path of the monster, the PCs might encounter people who remind them of home, or of friends lost. Or they could find a child in the clutches of a enemy, only to learn that he's the key to their diabolical plan, and the PCs must succeed if they're to save him in time. If the threat is powerful enough, the PCs may even come to learn that their own survival is secondary their quest's completion.
+One type of test is that of the heart, compelling the PCs to struggle for something they care about other than themselves. These tests provide the PCs with a goal other than their own well-being and power. There should be something threatened if they fail, which serves to give the PCs resolve, a reason to carry on. As they visit a city in the path of the monster, the PCs might encounter people who remind them of home, or of friends lost. Or they could find a child in the clutches of a enemy, only to learn that he's the key to their diabolical plan, and the PCs must succeed if they're to save him in time. If the threat is powerful enough, the PCs may even come to learn that their own survival is secondary their quest's completion.
 
 Temptation is another type of test, one that has different twists. Some temptations are obvious, and you expect the heroes to refuse, such as discovering a bucolic valley where they could forgo their journey and retire in peace, or a dubious stranger offering them a shortcut through a cursed forest. Such temptations are important to a mythic tale because refusal defines the characters and shows us their limits. Then there are the subtle temptations, ones that heroes might actually consider—either because the price seems small (or even nonexistent) compared to the gain or because the source seems trustworthy: taking food from an evil witch after starving for days, or choosing to give up a child they're protecting in exchange for an entire city's safety. Keep in mind that forces of good and evil are equally likely to test the heroes, to either reveal their mettle or lead them down the path of corruption. In any case, the PCs might be tempted a number of times along their journey and they must find the resolve to carry on and stay on the path.
 

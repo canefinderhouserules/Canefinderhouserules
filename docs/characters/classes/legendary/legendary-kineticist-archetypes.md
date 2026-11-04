@@ -210,16 +210,6 @@ As a full-round action, a nihilicist can accept 6 points of burn to create an ar
 
 *This replaces omnikinesis.*
 
-**Contents**
-
-- 1 Unique Wild Talents 1.1 Empty Blast
-
-- 1.2 Zero Blast
-
-- 1.3 Nihilistic Infusion
-
-- 2 Related
-
 **Unique Wild Talents**
 
 **Empty Blast**
@@ -524,22 +514,6 @@ lingering in their blood to unleash great bursts of energy.
 Although not as versatile as kineticists, surge fist monks
 still have the ability to shape their ki energy to adapt to the
 current fight.
-
-**Contents**
-
-- 1 Kinetic Talent
-
-- 2 Surge Fist (Ex)
-
-- 3 Wild Ki (Su)
-
-- 4 Style Strike (Ex)
-
-- 5 Great Surge Fist (Ex)
-
-- 6 Surge Fist Ki Powers
-
-- 7 Related
 
 **Kinetic Talent**
 

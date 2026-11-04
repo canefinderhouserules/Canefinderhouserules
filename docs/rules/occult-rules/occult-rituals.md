@@ -383,9 +383,7 @@ Each summary below specifies the range, target, duration, and other aspects of a
 
 **Conjuration**: Range close; Target one creature;
 
-**Duration** hours (instantaneous for teleportation
-
-subschool); Saving Throw Will negates (harmless); SR yes (harmless).
+**Duration** hours (instantaneous for teleportation subschool); Saving Throw Will negates (harmless); SR yes (harmless).
 
 **Divination**: Range long; Target personal; Duration minutes; Saving Throw none; SR no.
 

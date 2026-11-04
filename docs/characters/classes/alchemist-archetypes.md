@@ -420,9 +420,7 @@ Homunculus Companion Base Statistics A homunculus companion has the following fe
 
 **Speech (Ex)**: At 6th level, the homunculus gains the ability to speak any languages it knows.
 
-**Spell Resistance** (Su): At 9th level, the
-
-homunculus gains spell resistance equal to 11 + its master’s alchemist level.
+**Spell Resistance (Su)**: At 9th level, the homunculus gains spell resistance equal to 11 + its master’s alchemist level.
 
 **Improved Evasion (Ex)**: At 15th level, when subjected to an attack that allows a Reflex save for half damage, the homunculus takes no damage if it succeeds at the saving throw and only half damage if it fails the saving throw.
 

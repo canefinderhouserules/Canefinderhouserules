@@ -17,9 +17,7 @@ You can observe a creature at any distance. If the subject succeeds on a Will sa
 | Firsthand (you have met the subject) | +0 |
 | Familiar (you know the subject well) | –5 |
 
-*You must have some sort of connection (see below) to a
-
-creature of which you have no knowledge.
+*You must have some sort of connection (see below) to a creature of which you have no knowledge.
 
 | Connection | Will Save Modifier |
 |---|---|

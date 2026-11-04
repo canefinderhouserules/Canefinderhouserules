@@ -36,9 +36,7 @@ The PCs realize that each of them inherited a curved piece of metal inscribed wi
 
 Ancient artifacts and items from distant planes carry secrets and abilities rarely accessible to those living today. Interacting with such items is dangerous, and will forever change the wielder in unforeseen ways. These items find their ways into the collections of great and long-living creatures, such as dragons and liches, or are buried in the most remote areas beyond the known world. Not only will interacting with these items change a character, but the power released is a beacon for frightening entities linked into that same source.
 
-Some of these items are part of a set or pieces of a larger item. Collecting the various pieces will increase the PCs' powers and give them further insight into the world of mythic creatures that surrounds them. But such items are jealously guarded, and it may cost the PCs even more than
-
-they expect to attain this greater power.
+Some of these items are part of a set or pieces of a larger item. Collecting the various pieces will increase the PCs' powers and give them further insight into the world of mythic creatures that surrounds them. But such items are jealously guarded, and it may cost the PCs even more than they expect to attain this greater power.
 
 **Challenges**: The PCs must face off against foes who have harnessed the same power they have, or who seek to take it from them. If the PCs' power stems from an event, perhaps they are not the only ones to gain power in this way. If their power comes from an artifact, perhaps there are other relics granting power to their enemies. In either case, the PCs must deal with foes who not only understand their power (possibly better than the PCs do), but wield it as well.
 

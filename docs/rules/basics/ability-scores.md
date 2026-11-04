@@ -63,11 +63,7 @@ You apply your character’s Strength modifier to:
 | High Fantasy | 20 |
 | Epic Fantasy | 25 |
 
-two-handed attacks receive 1–1/2 times the Strength
-
-bonus. A Strength penalty, but not a bonus, applies to
-
-attacks made with a bow that is not a composite bow.)
+two-handed attacks receive 1–1/2 times the Strength bonus. A Strength penalty, but not a bonus, applies to attacks made with a bow that is not a composite bow.)
 
 - Climb and Swim checks.
 - Strength checks (for breaking down doors and the like).

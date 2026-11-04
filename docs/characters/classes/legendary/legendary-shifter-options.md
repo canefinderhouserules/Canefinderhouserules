@@ -8,48 +8,6 @@ A legendary shifter draws strength from an association with a specific type of a
 
 The following options represent only the most common choices used by legendary shifters. Other aspects based on different animals certainly exist, and might grant similar powers or entirely new abilities based on the animal’s themes and nature. You can use the following aspects as guides for developing aspects of your own design, but if you wish to do so, you must secure your GM’s permission.
 
-**Contents**
-
-- 1 Legendary Shifters 1.1 Bat
-
-- 1.2 Bear
-
-- 1.3 Bull
-
-- 1.4 Chameleon
-
-- 1.5 Deinonychus
-
-- 1.6 Falcon
-
-- 1.7 Frog
-
-- 1.8 Lizard
-
-- 1.9 Monkey
-
-- 1.10 Mouse
-
-- 1.11 Narwhal
-
-- 1.12 Owl
-
-- 1.13 Porcupine
-
-- 1.14 Shark
-
-- 1.15 Snake
-
-- 1.16 Stag
-
-- 1.17 Tiger
-
-- 1.18 Wolf
-
-- 1.19 Wolverine
-
-- 2 Related
-
 **Legendary Shifters**
 
 **Bat**

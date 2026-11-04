@@ -8,9 +8,7 @@ Here is the format for armor entries (given as column headings on Table 6–6).
 
 **Armor/Shield Bonus**: Each type of armor grants an armor bonus to AC, while shields grant a shield bonus to AC. The armor bonus from a suit of armor doesn’t stack with other effects or items that grant an armor bonus. Similarly, the shield bonus from a shield doesn’t stack with other effects that grant a shield bonus.
 
-**Maximum Dex Bonus**: This number is the maximum Dexterity bonus to AC that this type of armor allows. Dexterity bonuses in excess of this number are reduced to this number for the purposes of determining the wearer’s AC. Heavier armors limit mobility, reducing the wearer’s
-
-ability to dodge blows. This restriction doesn’t affect any other Dexterity-related abilities.
+**Maximum Dex Bonus**: This number is the maximum Dexterity bonus to AC that this type of armor allows. Dexterity bonuses in excess of this number are reduced to this number for the purposes of determining the wearer’s AC. Heavier armors limit mobility, reducing the wearer’s ability to dodge blows. This restriction doesn’t affect any other Dexterity-related abilities.
 
 Even if a character’s Dexterity bonus to AC drops to 0 because of armor, this situation does not count as losing his Dexterity bonus to AC.
 

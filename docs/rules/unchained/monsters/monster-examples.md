@@ -746,9 +746,7 @@ It adds +4 to the DC of its breath weapon to reflect at ability’s raw power. T
 
 Init +4; Perception +31 (blindsense 60 ft., darkvision 60 ft., low-light vision)
 
-**Aura** electricity (10 ft., 2d6 electricity), frightful
-
-presence (300 ft., DC 25)
+**Aura** electricity (10 ft., 2d6 electricity), frightful presence (300 ft., DC 25)
 
 Size Gargantuan (20 ft.); Speed 40 ft., burrow 20 ft., fly 250 ft. (clumsy, hover)
 

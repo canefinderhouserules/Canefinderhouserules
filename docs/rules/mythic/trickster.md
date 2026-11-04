@@ -129,11 +129,7 @@ You must be at least 3rd tier to select these path abilities.
 
 **Sardonic Wit (Su)**: You know exactly when to lighten the mood and help shake off the doldrums. As a move action, you can expend one use of mythic power to remove a single mind-affecting effect from one creature within 30 feet. This ability doesn't work on effects with an instantaneous or permanent duration.
 
-**Vanishing Move (Su)**: When you wish to not be seen, you aren't. As a swift action, you
-
-make yourself invisible until the end of your turn. This effect ends
-
-if you do anything other than move. If you expend one use of mythic power when using this ability, it instead acts as greater invisibility using double your tier as your caster level.
+**Vanishing Move (Su)**: When you wish to not be seen, you aren't. As a swift action, you make yourself invisible until the end of your turn. This effect ends if you do anything other than move. If you expend one use of mythic power when using this ability, it instead acts as greater invisibility using double your tier as your caster level.
 
 ## 6th-Tier Trickster Path Abilities
 

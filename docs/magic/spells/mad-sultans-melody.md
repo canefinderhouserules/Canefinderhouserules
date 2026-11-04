@@ -1,6 +1,6 @@
 # Mad Sultan’s Melody
 
-**School** enchantment (compulsion) [mind-affecting, sonic]; **Level**   
+**School** enchantment (compulsion) [mind-affecting, sonic]; **Level** bard 3, mesmerist 4, occultist 4, psychic 4, skald 4, sorcerer/wizard 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S, F (masterwork flute, pipe, or string instrument)  
 **Range** close (25 ft. + 5 ft./2 levels)  

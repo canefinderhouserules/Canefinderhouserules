@@ -24,9 +24,7 @@ Melee called shots are at a –2 penalty if the target isn’t adjacent to its a
 
 **Concealment**: The miss chance for a called shot against a creature with concealment increases to 50%. It’s not possible to make a called shot against a creature with total concealment. For effects that function like concealment, such as blink and displacement, a miss chance of 50% or more prevents called shots, a miss chance of 20% increases to 50%, and miss chances of other values are doubled.
 
-**Damage** Reduction: If damage reduction completely
-
-negates the damage from a called shot, the called shot has no effect. If hit point damage does get through, the called shot has normal effects. Damage reduction does not reduce any ability damage, ability drain, penalties, or bleed damage caused by the called shot.
+**Damage** Reduction: If damage reduction completely negates the damage from a called shot, the called shot has no effect. If hit point damage does get through, the called shot has normal effects. Damage reduction does not reduce any ability damage, ability drain, penalties, or bleed damage caused by the called shot.
 
 **Immunity**: Immunity to critical hits protects against the extra effects of called shots. Partial protection, such as that provided by the fortification special ability of some magical armors, protects the creature as though the called shot were a critical hit.
 

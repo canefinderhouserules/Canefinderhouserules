@@ -20,25 +20,11 @@ This powerful spell is primarily used to defend a stronghold or fortress by crea
 
 *Lost Doors*: One door per caster level is covered by a *silent image* to appear as if it were a plain wall. Saving Throw: Will disbelief (if interacted with). Spell Resistance: no.
 
-In addition, you can place your choice of one of the following five magical effects. 1. *Dancing lights* in four corridors. You can designate a simple
-
-program that causes the lights to repeat as long as the *guards and*
+In addition, you can place your choice of one of the following five magical effects. 1. *Dancing lights* in four corridors. You can designate a simple program that causes the lights to repeat as long as the *guards and*
 
 *wards* spell lasts. Saving Throw: none. Spell Resistance: no. 2. A *magic mouth* in two places. Saving Throw: none. Spell
 
-Resistance: no. 3. A *stinking cloud* in two places. The vapors appear in the places you
-
-designate; they return within 10 minutes if dispersed by wind
-
-while the *guards and wards* spell lasts. Saving Throw: Fortitude
-
-negates; see text for *stinking cloud.* Spell Resistance: no. 4. A *gust of wind* in one corridor or room. Saving Throw: Fortitude
-
-negates. Spell Resistance: yes. 5. A *suggestion* in one place. You select an area of up to 5 feet
-
-square, and any creature who enters or passes through the area
-
-receives the *suggestion* mentally. Saving Throw: Will negates.
+Resistance: no. 3. A *stinking cloud* in two places. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while the *guards and wards* spell lasts. Saving Throw: Fortitude negates; see text for *stinking cloud.* Spell Resistance: no. 4. A *gust of wind* in one corridor or room. Saving Throw: Fortitude negates. Spell Resistance: yes. 5. A *suggestion* in one place. You select an area of up to 5 feet square, and any creature who enters or passes through the area receives the *suggestion* mentally. Saving Throw: Will negates.
 
 Spell Resistance: yes.
 

@@ -193,9 +193,7 @@ While it’s often enough to simply tell your players they’ve found 5,000 gp i
 
 **Jewels (1,000 gp)**: emerald; white, black, or fire opal; blue sapphire; fiery yellow or rich purple corundum; blue or black star sapphire
 
-**Grand Jewels (5,000 gp or more)**: clearest bright green emerald; diamond; jacinth; ruby Nonmagical Treasures: This expansive category includes jewelry, fine clothing, trade goods, alchemical items, masterwork objects, and more. Unlike gemstones, many of these objects have set values, but you can always increase an object’s value by having it be bejeweled or of particularly fine craftsmanship. This increase in cost doesn’t grant additional abilities—a gem-encrusted masterwork cold iron scimitar worth 40,000 gp functions the same as a
-
-typical masterwork cold iron scimitar worth the base price of 330 gp. Listed below are numerous examples of several types of nonmagical treasures, along with typical values.
+**Grand Jewels (5,000 gp or more)**: clearest bright green emerald; diamond; jacinth; ruby Nonmagical Treasures: This expansive category includes jewelry, fine clothing, trade goods, alchemical items, masterwork objects, and more. Unlike gemstones, many of these objects have set values, but you can always increase an object’s value by having it be bejeweled or of particularly fine craftsmanship. This increase in cost doesn’t grant additional abilities—a gem-encrusted masterwork cold iron scimitar worth 40,000 gp functions the same as a typical masterwork cold iron scimitar worth the base price of 330 gp. Listed below are numerous examples of several types of nonmagical treasures, along with typical values.
 
 **Fine Artwork (100 gp or more)**: Although some artwork is composed of precious materials, the value of most paintings, sculptures, works of literature, fine clothing, and the like come from their skill and craftsmanship. Artwork is often bulky or cumbersome to move and fragile to boot, making salvage an adventure in and of itself.
 

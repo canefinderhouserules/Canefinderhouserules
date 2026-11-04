@@ -26,9 +26,7 @@ Humans possess exceptional drive and a great capacity to endure and expand, and 
 
 A character’s class is one of his most defining features.
 
-It’s the source of most of his abilities, and gives him a
-
-specific role in any adventuring party. The following eleven classes represent the core classes of the game.
+It’s the source of most of his abilities, and gives him a specific role in any adventuring party. The following eleven classes represent the core classes of the game.
 
 **Barbarian**: The barbarian is a brutal berserker from beyond the edge of civilized lands.
 

@@ -2,23 +2,7 @@
 
 Deep one hybrids are the spawn of humans and deep ones.
 
-They are most comfortable with others of their kind, and
-
-typically cluster in small, insular settlements where they
-
-can assume positions of authority. They keep any humans
-
-within their towns subservient and cowed, making sure
-
-those other residents know better than to act against
-
-local laws. Though deep ones are devoutly religious, they
-
-usually cloak their true beliefs under a facade of more
-
-conventional worship, believing that by doing so they can
-
-avoid suspicion from visitors and nearby societies.
+They are most comfortable with others of their kind, and typically cluster in small, insular settlements where they can assume positions of authority. They keep any humans within their towns subservient and cowed, making sure those other residents know better than to act against local laws. Though deep ones are devoutly religious, they usually cloak their true beliefs under a facade of more conventional worship, believing that by doing so they can avoid suspicion from visitors and nearby societies.
 
 ## Deep One Hybrid Racial Traits
 

@@ -177,9 +177,7 @@ Unless otherwise indicated, drawbacks remain in effect as long as the item is po
 
 Perhaps the most dangerous and insidious of all cursed items are those whose intended functions are completely replaced by a curse. Yet even these items can have their uses, particularly as traps or weapons. The following are provided as specific examples of cursed items. Instead of prerequisites, each cursed item is associated with one or more ordinary magic items whose creation might result in the cursed item. Cursed items can be sold, if the curse is not known to the buyer, as if they were the item they appear to be.
 
-Cursed suits of armor and weapons can come in many
-
-forms, and the examples listed here are merely the most common. For example, a cursed –2 sword, might appear as a +3 shortsword or a +1 dagger, with a similar negative instead of the listed –2.
+Cursed suits of armor and weapons can come in many forms, and the examples listed here are merely the most common. For example, a cursed –2 sword, might appear as a +3 shortsword or a +1 dagger, with a similar negative instead of the listed –2.
 
 ### Amulet of Inescapable Location
 

@@ -60,9 +60,7 @@ The damage dealt to good outsiders increases to 1 d 10 points of damage per cast
 
 **Source** *Ultimate Magic*
 
-On a failed save, the target immediately takes 1d6 points of nonlethal cold damage per tier. Add your tier to the DC of any other Fortitude saves the target attempts to resist severe cold as
-
-part of the spell's effects. The target also takes a -4 penalty on saves against spells or effects with the cold descriptor.
+On a failed save, the target immediately takes 1d6 points of nonlethal cold damage per tier. Add your tier to the DC of any other Fortitude saves the target attempts to resist severe cold as part of the spell's effects. The target also takes a -4 penalty on saves against spells or effects with the cold descriptor.
 
 **Augmented (5th)**: If you expend two uses of mythic power, the target gains vulnerability to fire.
 
@@ -94,9 +92,7 @@ The wall's damage increases to 2d6 points of fire damage to creatures within 10 
 
 The wall's hardness increases to 40, and its hit points increase to
 
-30 per caster level. A non-
-
-mythic disintegrate spell or rod of cancellation negates a 10-foot-square section of a mythic wall of force for 1 round, after which the wall reforms at full strength. One side of the wall (chosen by you) repels creatures within 5 feet as a repulsion spell (using the DC wall of force would have if it allowed a saving throw).
+30 per caster level. A non- mythic disintegrate spell or rod of cancellation negates a 10-foot-square section of a mythic wall of force for 1 round, after which the wall reforms at full strength. One side of the wall (chosen by you) repels creatures within 5 feet as a repulsion spell (using the DC wall of force would have if it allowed a saving throw).
 
 ## Wall of Ice
 
@@ -106,11 +102,7 @@ The wall's hit points increase to 5 hit points per inch of thickness. Add your t
 
 ## Wall of Iron
 
-The wall is 1 inch thick per 2 caster levels. If you create
-
-an unattached wall, you can weight it so there is a 75%
-
-chance it falls on its own in the direction you want. SubtractS from the DC to push it in the direction you want, and addS to the DC to push the wall in the other direction.
+The wall is 1 inch thick per 2 caster levels. If you create an unattached wall, you can weight it so there is a 75% chance it falls on its own in the direction you want. SubtractS from the DC to push it in the direction you want, and addS to the DC to push the wall in the other direction.
 
 **Augmented (7th)**: If you expend two uses of mythic power, one side of the wall (your choice) has a powerful magnetic charge that attracts metal within 10 feet. The wall automatically attempts a combat maneuver check to pull once per round against any creature that comes in range wearing metal armor, wielding a metal weapon, or otherwise carrying a significant amount of metal.
 

@@ -233,9 +233,7 @@ As diverse as they are widespread, humans tend to grow up in small or large soci
 
 #### Siblings
 
-If you have at least one sibling, roll on Table 1–22 to determine
-
-the relative age of each sibling. For each adopted sibling,
+If you have at least one sibling, roll on Table 1–22 to determine the relative age of each sibling. For each adopted sibling,
 
 roll on Table 1–23 to determine that sibling’s race.
 

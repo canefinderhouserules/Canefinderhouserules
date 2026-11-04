@@ -38,9 +38,7 @@ All firearms are part of the same weapon group for the purposes of the fighter�
 
 **Capacity**: A firearm’s capacity is the number of shots it can hold at one time. When making a full-attack action, you may fire a firearm as many times in a round as you have attacks, up to this limit, unless you can reload the weapon as a swift or free action while making a full-attack action. In the case of early firearms, capacity often indicates the number of barrels a firearm has. In the case of advanced firearms, it typically indicates the number of chambers the weapon has.
 
-**Range** and Penetration: Armor, whether manufactured
-
-or natural, provides little protection against the force of a bullet at short range.
+**Range** and Penetration: Armor, whether manufactured or natural, provides little protection against the force of a bullet at short range.
 
 **Early Firearms**: When firing an early firearm, the attack resolves against the target’s normal AC. One-handed firearms ignore 2 points of AC from armor (including natural armor), and two-handed firearms ignore 4. The attack resolves normally, including taking the normal cumulative –2 penalty for each full range increment. Unlike other projectile weapons, early firearms have a maximum range of five range increments.
 

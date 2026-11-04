@@ -136,9 +136,7 @@ If a weapon gains the broken condition from an effect, that weapon is considered
 
 When an effect that grants the broken condition is removed, the weapon regains the hit points it lost when the broken condition was applied.
 
-**Damage** done by an attack against a weapon
-
-cannot be repaired by an effect that removes the broken condition.
+**Damage** done by an attack against a weapon cannot be repaired by an effect that removes the broken condition.
 
 ## Primitive Weapon Tables
 

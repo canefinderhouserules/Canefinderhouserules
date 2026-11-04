@@ -790,20 +790,6 @@ At 16th level, you have perfected a combination of pheromones and movements to m
 
 ### Legendary Investigator Power Source
 
-**Contents**
-
-- 1 Legendary Investigators 1.1 Arcane
-
-- 1.2 Divine (Ideal)
-
-- 1.3 Divine (Nature)
-
-- 1.4 Extracts
-
-- 1.5 Occult
-
-- 2 Related
-
 **Legendary Investigators**
 
 **Arcane**
@@ -887,20 +873,6 @@ If you have at least 12 Hit Dice, you also gain the first boon granted by your a
 If you ever fail to indulge in your vice in a day you lose all access to resistances and boons granted by this feat until the next time, and may suffer the effects of withdrawal associated with your addiction. If you are healed of damage, conditions, or penalties caused in the course of indulging in your vice, you similarly lose all boons granted by this feat, but don’t suffer from withdrawal.
 
 If your addiction is cured by magic, you lose access to this feat until you have developed a new addiction (this requires 30 consecutive days indulging in the same vice or a different one). Alternatively, you can decide to stay cured and immediately exchange the Addiction feat with another. You can also detoxify yourself voluntarily by spending 30 consecutive days without indulging in your vice, suffering all the time from the effects of withdrawal. At the end of this period, you can lose the Addiction feat and replace it with another.
-
-**Contents**
-
-- 1 Addictions 1.1 Behaviors
-
-- 1.2 Entertainment
-
-- 1.3 Food
-
-- 1.4 Gaming
-
-- 1.5 Substances
-
-- 2 Related
 
 **Addictions**
 

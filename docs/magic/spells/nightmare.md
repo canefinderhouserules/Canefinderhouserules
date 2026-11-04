@@ -21,9 +21,7 @@ The difficulty of the save depends on your knowledge the subject and the physica
 | Firsthand (you have met the subject) | +0 |
 | Familiar (you know the subject well) | –5 |
 
-*You must have some sort of connection to a creature of
-
-which you have no knowledge.
+*You must have some sort of connection to a creature of which you have no knowledge.
 
 | Connection | Will Save Modifier |
 |---|---|

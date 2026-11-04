@@ -90,9 +90,7 @@ The following descriptions detail each arcane school and its corresponding power
 
 The abjurer uses magic against itself, and masters the art of defensive and warding magics.
 
-*Resistance (Ex)*: You gain resistance 5 to an energy type of your choice, chosen when you prepare spells. This resistance can be changed each day. At 11th level, this
-
-resistance increases to 10. At 20th level, this resistance changes to immunity to the chosen energy type.
+*Resistance (Ex)*: You gain resistance 5 to an energy type of your choice, chosen when you prepare spells. This resistance can be changed each day. At 11th level, this resistance increases to 10. At 20th level, this resistance changes to immunity to the chosen energy type.
 
 *Protective Ward (Su)*: As a standard action, you can create a 10-foot-radius field of protective magic centered on you that lasts for a number of rounds equal to your Intelligence modifier. All allies in this area (including you) receive a +1 deflection bonus to their AC. This bonus increases by +1 for every five wizard levels you possess. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
 
@@ -260,8 +258,4 @@ Armor restricts the complicated gestures required while casting any spell that h
 
 If a spell doesn’t have a somatic component, an arcane spellcaster can cast it with no arcane spell failure chance while wearing armor. Such spells can also be cast even if the caster’s hands are bound or he is grappling (although concentration checks still apply normally). The metamagic feat Still Spell allows a spellcaster to prepare or cast a spell without the somatic component at one spell level higher than normal. This also provides a way to cast a spell while wearing armor without risking arcane spell failure.
 
-Skills represent some of the most basic and yet most
-
-fundamental abilities your character possesses. As
-
-your character advances in level, he can gain new skills and improve his existing skills dramatically.
+Skills represent some of the most basic and yet most fundamental abilities your character possesses. As your character advances in level, he can gain new skills and improve his existing skills dramatically.

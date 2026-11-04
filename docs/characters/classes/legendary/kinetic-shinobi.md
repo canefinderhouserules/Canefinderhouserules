@@ -27,16 +27,6 @@ Masters of hidden lore, kinetic shinobi are blessed with an abundance of element
 
 ## Contents
 
-- 1 Class Features 1.1 Kinetic Shinobi Infusions 1.1.1 Physical Jutsu
-
-- 1.1.2 Elemental Jutsu
-
-- 2 Favored Class Bonuses
-
-- 3 Archetypes
-
-- 4 Related
-
 ## Class Features
 
 **Table: Kinetic Shinobi**

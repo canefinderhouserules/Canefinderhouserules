@@ -1181,9 +1181,9 @@ You can weave metal into clockwork parts, creating clockwork constructs to attac
 
 ### Cold Adaptation
 
-**Element** fire or water; **Type** 
+**Element** fire or water; **Type** utility (Sp); **Level** 1; **Burn** 0
 
-utility (Sp); Level 1; Burn 0 You are constantly protected by endure elements against cold temperatures only.
+You are constantly protected by endure elements against cold temperatures only.
 
 You gain cold resistance equal to twice your current amount of burn.
 
@@ -1589,11 +1589,11 @@ Your shroud bends light, creating a shimmering mirage. While your shroud of wate
 
 ### Skilled Kineticist, Greater
 
-**Element** universal; **Type** utility
+**Element** universal; **Type** utility (Su); **Level** 2; **Burn** —
 
-(Su); Level 2; Burn —**Prerequisite** skilled
+**Prerequisite** skilled kineticist
 
-kineticist By delving into study of the Ethereal and Elemental Planes, you are able to use your primary element to assist with your skills in an unusual way. Add Knowledge (planes) to your list of class skills. Choose one of your kineticist class skills that wasn’t granted by your primary element to also receive the bonus from skilled kineticist.
+By delving into study of the Ethereal and Elemental Planes, you are able to use your primary element to assist with your skills in an unusual way. Add Knowledge (planes) to your list of class skills. Choose one of your kineticist class skills that wasn’t granted by your primary element to also receive the bonus from skilled kineticist.
 
 ### Sky Walk
 

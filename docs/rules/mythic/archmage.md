@@ -71,15 +71,11 @@ You can select these path abilities at any tier.
 
 **Flexible Counterspell (Su)**: Your mythic power enhances your ability to counter others' spells. As an immediate action, you can expend one use of mythic power to attempt to counter a spell. This ability otherwise works like readying an action to counter a spell, except instead of using the exact spell or dispel magic, you can instead expend a spell or spell slot of a level equal to or higher than the target spell.
 
-**Flexible School (Ex)**: Select one wizard arcane school that is not your arcane school. You gain powers from that arcane school, treating your tier as your wizard level for the purposes of these powers. Once you have chosen the arcane school, it cannot be changed. You cannot select an arcane school that is one of your opposition schools. You must have the arcane school class feature to select
-
-this ability. You can choose this ability up to three times, each time selecting another arcane school other than your own.
+**Flexible School (Ex)**: Select one wizard arcane school that is not your arcane school. You gain powers from that arcane school, treating your tier as your wizard level for the purposes of these powers. Once you have chosen the arcane school, it cannot be changed. You cannot select an arcane school that is one of your opposition schools. You must have the arcane school class feature to select this ability. You can choose this ability up to three times, each time selecting another arcane school other than your own.
 
 **Greater Familiar Link (Su)**: You have bound yourself so deeply to your familiar that your life forces are intertwined. Anytime you or your familiar takes damage, you may split the damage evenly between you and your familiar as if using shield other. Using this ability doesn't require an action, but it works only if you're conscious and both you and your familiar are alive. You must have a familiar to select this ability.
 
-**Harmonious Mage (Ex)**: Your wizardly studies have moved beyond the concept of opposition schools. Select two opposition schools. These are no longer opposition schools for you, preparing spells from one of these schools now only requires one spell slot of the appropriate level instead of two, and you no longer take the -4 Spellcraft penalty for crafting items from an opposition school. You must have the arcane school class ability to
-
-select this ability, and your arcane school can't be universal.
+**Harmonious Mage (Ex)**: Your wizardly studies have moved beyond the concept of opposition schools. Select two opposition schools. These are no longer opposition schools for you, preparing spells from one of these schools now only requires one spell slot of the appropriate level instead of two, and you no longer take the -4 Spellcraft penalty for crafting items from an opposition school. You must have the arcane school class ability to select this ability, and your arcane school can't be universal.
 
 **Mythic Bloodline (Su)**: When determining the effects of your bloodline powers, you'are considered 4 levels higher. This increases the effects of powers you have access to, but doesn't grant you powers at a lower level than normal. If you have a sorcerer bloodline power that can be used multiple times per day, such as metamagic adept, you gain a number of extra uses of that power equal to half your tier (minimum 1). You must have the bloodline class feature to select this ability.
 

@@ -50,13 +50,6 @@ Beyond the specific awards that each magic school grants, students can spend the
 
 **Spellcasting**: By spending the listed Prestige Point total, you can have any of the following spells cast for you (the caster level in each case is the minimum possible for the spell).
 
-- 1 PP: *cure moderate wounds*, *dispel magic*, *lesser restoration*, *make whole*, *remove blindness/deafness*, *remove curse*, *remove disease*, *remove paralysis*
-- 2 PP: *atonement* (8 PP to restore cleric/druid powers), *break enchantment*, *cure serious wounds*, *greater dispel magic*, *neutralize poison*, *restoration* (4 PP to remove permanent negative levels)
-- 3 PP: *heal*, *regenerate*
-- 16 PP: *greater restoration*, *raise dead*
-- 32 PP: *resurrection*
-- 77 PP: *true resurrection*
-
 ## Academies
 
 Magic academies tend to focus primarily on research, theory, history, and debate. Many spellcasters attend academies in order to bolster their powers and become better adventurers, while others do so in order to prepare for a guild or even a secret society membership. Some attend academies simply from a joy of learning, and may desire nothing more than to become part of the academy's staff and tradition. Academies appeal primarily to arcane spellcasters, particularly those who must prepare their spells (like magi, wizards, and witches), although these schools are open to any who can pass the entrance exam and pay the fees. As the Fame scores of students of an academy increase, they gain the following rewards.

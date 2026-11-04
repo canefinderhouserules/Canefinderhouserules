@@ -134,8 +134,6 @@ Gaining the ability to channel one of the following legendary spirits involves p
 
 ### Astral Archmage Echo (Archmage)
 
-### Astral Archmage Echo (Archmage)
-
 This legendary spirit offers the power of one of the greatest archmages in history. Unlike normal archmage spirits, the echo grants strange abilities shaped by the lost wizard's unique experiments. Mediums channeling the echo eventually realize that the spirit has its own long-term plans for them, usually involving the archmage's lost tower, but so far no medium has gleaned the full scope of that plan.
 
 The astral archmage echo grants modified or unique spirit powers. In all other ways, it functions identically to a standard archmage spirit.

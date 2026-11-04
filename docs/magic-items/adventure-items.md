@@ -4170,9 +4170,7 @@ An *alpine ice axe* is a tool, not a weapon, but it may be used as an improvised
 
 This stone grants you a +1 resistance bonus on saving throws.
 
-The bonuses from multiple *amber spindles* stack (up to a
-
-maximum of a +5 resistance bonus to saving throws).
+The bonuses from multiple *amber spindles* stack (up to a maximum of a +5 resistance bonus to saving throws).
 
 **Resonance**
 
@@ -9016,11 +9014,7 @@ Weapon Focus with the stone’s keyed weapon.
 
 **Slot** none; **Price** 1,500 gp; **Weight** —
 
-The stone grants the wearer
-
-weapon familiarity with the keyed weapon (it is treated as a
-
-martial weapon for him).
+The stone grants the wearer weapon familiarity with the keyed weapon (it is treated as a martial weapon for him).
 
 **Resonance**
 
@@ -12245,51 +12239,17 @@ Forge Ring, *charm monster*,* resist energy*; **Price** 7,400 gp
 
 The Aasen
 
-mortar is an indirect-fire
+mortar is an indirect-fire advanced siege firearm, consisting of a heavy steel barrel, a loading mechanism,
 
-advanced siege firearm, consisting of a heavy steel barrel, a loading mechanism,
+and a folding bipod stand, and is used to launch explosives to penetrate enemy defensive lines. Aiming the mortar is part of the standard action required to fire it. Reloading the mortar is a full-round action, and the user loads a grenade-like projectile into the breech of the weapon’s steel barrel, along with a blank rifle round that propels the bomb when triggered. The weapon uses indirect fire to lob bombs in slow-moving, high arcs, and the user targets a specific square. Rules for indirect-fire siege weapons are
 
-and a folding bipod stand, and is used to launch explosives
-
-to penetrate enemy defensive lines. Aiming the mortar is
-
-part of the standard action required to fire it. Reloading
-
-the mortar is a full-round action, and the user loads a
-
-grenade-like projectile into the breech of the weapon’s
-
-steel barrel, along with a blank rifle round that propels
-
-the bomb when triggered. The weapon uses indirect fire to
-
-lob bombs in slow-moving, high arcs, and the user targets
-
-a specific square. Rules for indirect-fire siege weapons are
-
-. Mortars can also
-
-be fired as direct-fire siege engines. When used for direct
-
-fire, they take a –4 penalty on attack rolls and their range
-
-increment is halved, but they do not have a minimum
-
-range. After the point of impact is determined, the shell
-
-explodes and deals 6d6 points of bludgeoning, piercing,
+. Mortars can also be fired as direct-fire siege engines. When used for direct fire, they take a –4 penalty on attack rolls and their range increment is halved, but they do not have a minimum range. After the point of impact is determined, the shell explodes and deals 6d6 points of bludgeoning, piercing,
 
 and slashing damage to all creatures in a 30-foot radius
 
-(Reflex DC 20 for half). An Aasen mortar has hardness 10
+(Reflex DC 20 for half). An Aasen mortar has hardness 10 and 35 hit points; it fires special, finned fragmentation bombs that cost 10 gp each and weigh 4 pounds each.
 
-and 35 hit points; it fires special, finned fragmentation
-
-bombs that cost 10 gp each and weigh 4 pounds each.
-
-These bombs usually arrive on the battlefront in wooden
-
-cases containing 6 mortars each.
+These bombs usually arrive on the battlefront in wooden cases containing 6 mortars each.
 
 ### Bamboo Shaft Arrows
 
@@ -12465,31 +12425,11 @@ This spiked bolas functions as a standard bolas, but deals lethal damage rather 
 
 **Category** Siege; **Proficiency** Exotic
 
-The Hotchkiss 6 pounder
-
-gun is a shortened version of the Hotchkiss 6 pounder
-
-naval gun, designed for use in the sponsons of World
+The Hotchkiss 6 pounder gun is a shortened version of the Hotchkiss 6 pounder naval gun, designed for use in the sponsons of World
 
 War I-era tanks such as the Mark IV. The Hotchkiss
 
-6 pounder is a direct-f ire advanced siege f firearm that
-
-must be mounted in place on a vehicle to be used. It
-
-f ires high explosive (HE) shells that deal 8d6 points
-
-of bludgeoning, piercing, and slashing
-
-damage in a 30-foot radius around the
-
-point of impact (Reflex DC 20 for
-
-half). A Hotchkiss 6 pounder is a Medium weapon and
-
-has hardness 10 and 70 hit points. Hotchkiss HE shells
-
-cost 25 gp each and weigh 6 pounds each.
+6 pounder is a direct-f ire advanced siege f firearm that must be mounted in place on a vehicle to be used. It f ires high explosive (HE) shells that deal 8d6 points of bludgeoning, piercing, and slashing damage in a 30-foot radius around the point of impact (Reflex DC 20 for half). A Hotchkiss 6 pounder is a Medium weapon and has hardness 10 and 70 hit points. Hotchkiss HE shells cost 25 gp each and weigh 6 pounds each.
 
 ### Lawrence 1917 flamethrower
 
@@ -12501,89 +12441,33 @@ cost 25 gp each and weigh 6 pounds each.
 
 **Category** Two-Handed; **Proficiency** Exotic
 
-One of the most infamous
-
-devices to evolve as a result of
-
-trench warfare, the flamethrower is still
-
-in its infancy in the early twentieth century.
+One of the most infamous devices to evolve as a result of trench warfare, the flamethrower is still in its infancy in the early twentieth century.
 
 The British military produced the Lawrence
 
 1917, which found its way into the hands of
 
-Russia’s soldiers. The device consists
+Russia’s soldiers. The device consists of a cumbersome backpack of two tanks and a swivelmounted,
 
-of a cumbersome backpack
-
-of two tanks and a swivelmounted,
-
-handheld projection
-
-unit, or “lance.” When the device
-
-is aimed and a small hand lever
-
-depressed, a small gas burner ignites the oil, which is
-
-propelled forth in a blazing stream of intense flame. A
-
-flamethrower with full tanks is capable of unleashing up
-
-to 6 charges of ignited oil, to devastating effect.
+handheld projection unit, or “lance.” When the device is aimed and a small hand lever depressed, a small gas burner ignites the oil, which is propelled forth in a blazing stream of intense flame. A flamethrower with full tanks is capable of unleashing up to 6 charges of ignited oil, to devastating effect.
 
 When using a flamethrower, the wielder projects a
 
-60-foot-long line of fire, attempting a separate attack roll
+60-foot-long line of fire, attempting a separate attack roll against each creature within the line. Each attack roll takes a –2 penalty, and its attack damage cannot be modified by precision damage or damage-increasing feats such as
 
-against each creature within the line. Each attack roll takes
-
-a –2 penalty, and its attack damage cannot be modified
-
-by precision damage or damage-increasing feats such as
-
-Vital Strike. Effects that grant concealment, such as fog or
-
-smoke, or the *blur*,* invisibility*, or* mirror image* spells, do not
-
-foil this line attack. If any of the rolls threatens a critical
-
-hit, the wielder confirms the critical for that roll alone.
+Vital Strike. Effects that grant concealment, such as fog or smoke, or the *blur*,* invisibility*, or* mirror image* spells, do not foil this line attack. If any of the rolls threatens a critical hit, the wielder confirms the critical for that roll alone.
 
 All affected creatures take 4d6 points of damage,
 
-and any creature hit by the flaming stream must also
+and any creature hit by the flaming stream must also succeed at succeed at a DC 20 Reflex save or catch fire,
 
-succeed at succeed at a DC 20 Reflex save or catch fire,
+taking an additional 2d6 points of damage each round until the flames are extinguished. A burning creature can attempt a new save as a full-round action, and dropping and rolling on the ground grants a +2 bonus on this save.
 
-taking an additional 2d6 points of damage each round
+The device’s tanks and backpacks are awkward, and the wielder takes a –4 armor check penalty when wearing the cumbersome device. In addition, the tanks have hardness
 
-until the flames are extinguished. A burning creature
+10 and 5 hit points, and if the tank is ruptured in the presence of any adjacent flame (including the device’s own gas igniter), a mighty conflagration erupts, the wielder takes 6d6 points of fire damage, and all creatures within a
 
-can attempt a new save as a full-round action, and
-
-dropping and rolling on the ground grants a +2 bonus
-
-on this save.
-
-The device’s tanks and backpacks are awkward, and the
-
-wielder takes a –4 armor check penalty when wearing the
-
-cumbersome device. In addition, the tanks have hardness
-
-10 and 5 hit points, and if the tank is ruptured in the
-
-presence of any adjacent flame (including the device’s own
-
-gas igniter), a mighty conflagration erupts, the wielder
-
-takes 6d6 points of fire damage, and all creatures within a
-
-20-foot radius take 3d6 points of fire damage (Reflex DC 20
-
-for half). Any creatures who take damage must succeed at a
+20-foot radius take 3d6 points of fire damage (Reflex DC 20 for half). Any creatures who take damage must succeed at a
 
 DC 20 Reflex save or catch on fire.
 
@@ -12605,27 +12489,7 @@ This crossbow shoots ammunition called bolas bolts instead of crossbow bolts. It
 
 **Category** Explosive; **Proficiency** Exotic
 
-This time-delayed
-
-concussion grenade is a mainstay of trench warfare. The
-
-device appears to be little more than a metal cylinder
-
-tapering to a handle containing a spring-loaded lever. To
-
-detonate the device, you disengage the safety pin while
-
-depressing the handle’s lever, which releases the firing
-
-pin when thrown. The device detonates at the beginning
-
-of your next turn, hopefully in the area you targeted. The
-
-device relies on a concussive blast to deal damage, and
-
-all creatures within a 20-foot radius take 3d6 points of
-
-bludgeoning damage (Reflex DC 15 for half).
+This time-delayed concussion grenade is a mainstay of trench warfare. The device appears to be little more than a metal cylinder tapering to a handle containing a spring-loaded lever. To detonate the device, you disengage the safety pin while depressing the handle’s lever, which releases the firing pin when thrown. The device detonates at the beginning of your next turn, hopefully in the area you targeted. The device relies on a concussive blast to deal damage, and all creatures within a 20-foot radius take 3d6 points of bludgeoning damage (Reflex DC 15 for half).
 
 ### M1914 grenade (fragmentation)
 
@@ -12637,19 +12501,9 @@ bludgeoning damage (Reflex DC 15 for half).
 
 Standard M1914
 
-grenades can be fitted with an optional fragmentation
+grenades can be fitted with an optional fragmentation sleeve. This sleeve converts the normal concussive blasts into a cloud of deadly shrapnel at the expense of a decreased damage radius. The device is armed and detonated in the same manner as a regular M1914 grenade,
 
-sleeve. This sleeve converts the normal concussive
-
-blasts into a cloud of deadly shrapnel at the expense of
-
-a decreased damage radius. The device is armed and
-
-detonated in the same manner as a regular M1914 grenade,
-
-though the explosion radius is reduced to a 15-foot radius
-
-and the grenade instead deals 4d6 bludgeoning, piercing,
+though the explosion radius is reduced to a 15-foot radius and the grenade instead deals 4d6 bludgeoning, piercing,
 
 and slashing damage (Reflex DC 15 for half).
 
@@ -12705,31 +12559,7 @@ This heavy machine gun uses 7.6254mmR ammunition in 250-round belts. Although a 
 
 **Category** Two-Handed; **Proficiency** Exotic
 
-This bolt-action rifle is
-
-the mainstay of Russian military forces. It is similar to the
-
-advanced firearms rifle with the following differences. It
-
-uses the same 7.6254mmR ammunition as the Madsen
-
-machine gun, and is fed from a 5-round internal, nondetachable
-
-magazine that is typically loaded with 5-round
-
-stripper clips (loading it is a move action). Without stripper
-
-clips, you may only reload up to 2 rounds of ammunition
-
-as a move action. Ammunition is typically sold in groups
-
-of 5 rounds. The rifle has a lug for the
-
-attachment of a socket bayonet, and
-
-can be equipped with a unique sidemount
-
-scope system (see below).
+This bolt-action rifle is the mainstay of Russian military forces. It is similar to the advanced firearms rifle with the following differences. It uses the same 7.6254mmR ammunition as the Madsen machine gun, and is fed from a 5-round internal, nondetachable magazine that is typically loaded with 5-round stripper clips (loading it is a move action). Without stripper clips, you may only reload up to 2 rounds of ammunition as a move action. Ammunition is typically sold in groups of 5 rounds. The rifle has a lug for the attachment of a socket bayonet, and can be equipped with a unique sidemount scope system (see below).
 
 ### Nagant M1895 revolver
 
@@ -12981,9 +12811,7 @@ This flask of volatile chemicals contains traces of graveyard dirt and a few dro
 
 **Price** 5,900 gp; **Weight** 1/2 lb.
 
-**Category** Black Market
-
-the Boyar’s signet ring still encircles the severed finger of this long-dead king of the infernal empire. Clipped from his hand almost a century ago by an unknown assassin, both ring and finger are preserved in a small glass jar of honey that’s sealed with solder. The ring itself has a thick gold band, etched into the inside of which is an drowned imperial phrase that reads, “Hail the dead god of humanity, Bringer of the Age of Glory.” The ring’s large bezel is engraved with the seal of the infernal empire.
+**Category** Black Market the Boyar’s signet ring still encircles the severed finger of this long-dead king of the infernal empire. Clipped from his hand almost a century ago by an unknown assassin, both ring and finger are preserved in a small glass jar of honey that’s sealed with solder. The ring itself has a thick gold band, etched into the inside of which is an drowned imperial phrase that reads, “Hail the dead god of humanity, Bringer of the Age of Glory.” The ring’s large bezel is engraved with the seal of the infernal empire.
 
 The craftsmanship of the signet is so intricate that it’s extremely difficult to create a duplicate capable of convincing those familiar with the original. A creature who has closely observed the Boyar’s signet receives a +4 circumstance bonus on any Appraise skill check to detect a forgery of the relic.
 
@@ -13375,9 +13203,7 @@ Incendiary catalyst can be thrown at a creature as a ranged touch attack with a 
 
 **Price** varies; **Weight** varies
 
-**Category** Animal Gear
-
-hell knights often equip their steeds with armor similar to their own. Typical barding for hell knight steeds is spiked (the spikes are ornamental, however, and cannot deal damage). Such barding is usually designed to look similar to the armor of the horse’s rider, or to look skeletal, fiendish, or similar to a nightmare. hell knight barding can be made from hell knight leather, hell knight plate, or hell knight half-plate; it costs four times as much and weighs twice as much. hell knight leather barding slows a mount from 40 feet to 30 feet, from 50 feet to 35 feet, or from 60 feet to 40 feet. hell knight half-plate barding or hell knight plate barding also slows a mount, and a mount wearing such armor moves at only triple its normal speed when running instead of quadruple.
+**Category** Animal Gear hell knights often equip their steeds with armor similar to their own. Typical barding for hell knight steeds is spiked (the spikes are ornamental, however, and cannot deal damage). Such barding is usually designed to look similar to the armor of the horse’s rider, or to look skeletal, fiendish, or similar to a nightmare. hell knight barding can be made from hell knight leather, hell knight plate, or hell knight half-plate; it costs four times as much and weighs twice as much. hell knight leather barding slows a mount from 40 feet to 30 feet, from 50 feet to 35 feet, or from 60 feet to 40 feet. hell knight half-plate barding or hell knight plate barding also slows a mount, and a mount wearing such armor moves at only triple its normal speed when running instead of quadruple.
 
 ### Hell Knight Half-plate
 
@@ -13833,9 +13659,7 @@ A greater splash weapon can be used only by Large or larger creatures, though it
 
 **Price** 25 gp; **Weight** —
 
-**Category** Adventuring Gear
-
-the false god’s realm’s faithful utilize a number of tools to help them control the populace, but few are more insidious than the tears of the false god’s realm. This alchemical concoction contains mild narcotics and hallucinogens that bolster the user’s energy and resistance to pain. It is also highly addictive. Although the clergy gives away tears of the false god’s realm to non-users, it eventually demands payment—as much as 10 gp per dose from wealthy addicts. See pages 236–237 of the *Pathfinder RPG GameMastery Guide* for additional rules on drugs and addiction.
+**Category** Adventuring Gear the false god’s realm’s faithful utilize a number of tools to help them control the populace, but few are more insidious than the tears of the false god’s realm. This alchemical concoction contains mild narcotics and hallucinogens that bolster the user’s energy and resistance to pain. It is also highly addictive. Although the clergy gives away tears of the false god’s realm to non-users, it eventually demands payment—as much as 10 gp per dose from wealthy addicts. See pages 236–237 of the *Pathfinder RPG GameMastery Guide* for additional rules on drugs and addiction.
 
 **Type** ingested; **Addiction** major, Fortitude DC 18
 
@@ -14411,130 +14235,6 @@ While the Shield of the dead god of humanity, now known as the *Shattered Shield
 
 **Five-Item Benefit**: When wearing and wielding all five pieces of this set, once per day as an immediate action you can maximize the effects of a single healing effect targeting you, treating all dice rolled as part of the effect as though they had rolled the maximum possible value.
 
-(adsbygoogle = window.adsbygoogle || []).push({});
-
-initiateToggle(document.getElementById('theme-toggle'));
-
-initializeMenuToggle(document.getElementById('minMaxMenu'));
-
-var initializeSearch = function (search) {
-
-var button;
-
-var text;
-
-if (search.firstElementChild.classList.contains('search-input'))
-
-text = search.firstElementChild;
-
-if (search.lastElementChild.classList.contains('search-input'))
-
-text = search.lastElementChild;
-
-if (search.firstElementChild.classList.contains('search-button'))
-
-button = search.firstElementChild;
-
-if (search.lastElementChild.classList.contains('search-button'))
-
-button = search.lastElementChild;
-
-if (search) {
-
-search.addEventListener('keypress', function (e) {
-
-if (e.keyCode == 13) {
-
-e.preventDefault();
-
-if (text.value != null && text.value.length > 0)
-
-window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
-
-}
-
-})
-
-}
-
-if (button) {
-
-button.addEventListener('click', function (e) {
-
-window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
-
-});
-
-}
-
-};
-
-var initializeExpand = function (toggle) {
-
-var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
-
-//target = menu to be collapsed
-
-var target = document.querySelector(targetAttrString);
-
-toggle.addEventListener('click', function () {
-
-var expanded = target.classList.contains('expanded');
-
-expanded = !expanded;
-
-if (expanded) {
-
-//hide other in group if exists
-
-if (target.dataset.group) {
-
-var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
-
-if (otherExpanded) {
-
-otherExpanded.classList.remove('expanded');
-
-}
-
-}
-
-target.classList.add('expanded');
-
-} else {
-
-target.classList.remove('expanded');
-
-}
-
-});
-
-};
-
-(function () {
-
-//toggles = link that expands/collapses target
-
-var toggles = document.querySelectorAll('[data-toggle]');
-
-toggles.forEach(function (toggle) {
-
-initializeExpand(toggle);
-
-});
-
-//searches
-
-var searches = document.querySelectorAll('.search');
-
-searches.forEach(function (search) {
-
-initializeSearch(search);
-
-});
-
-})();
-
 ### Dread Demonic Armor
 
 As the locust lord’s dread hordes surged forth from the demonic rift, many mortals joined the demon lord’s forces, some willingly and some through the most wicked coercions. To the most powerful and deadly of these mortal conscripts were given sets of *Dread Demoniac Armor*, giving them powers akin to those wielded by the demons themselves. These sets of armor are said to buzz with the sound of locusts.
@@ -14563,9 +14263,7 @@ initiateToggle(document.getElementById('theme-toggle'));
 
 initializeMenuToggle(document.getElementById('minMaxMenu'));
 
-var initializeSearch = function (search) {
-
-var button;
+var initializeSearch = function (search) { var button;
 
 var text;
 
@@ -14587,11 +14285,7 @@ button = search.lastElementChild;
 
 if (search) {
 
-search.addEventListener('keypress', function (e) {
-
-if (e.keyCode == 13) {
-
-e.preventDefault();
+search.addEventListener('keypress', function (e) { if (e.keyCode == 13) { e.preventDefault();
 
 if (text.value != null && text.value.length > 0)
 
@@ -14605,9 +14299,7 @@ window.location = window.location.origin + "/Search.aspx?Query=" + text.value + 
 
 if (button) {
 
-button.addEventListener('click', function (e) {
-
-window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+button.addEventListener('click', function (e) { window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
 
 });
 
@@ -14615,31 +14307,19 @@ window.location = window.location.origin + "/Search.aspx?Query=" + text.value + 
 
 };
 
-var initializeExpand = function (toggle) {
+var initializeExpand = function (toggle) { var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
 
-var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+//target = menu to be collapsed var target = document.querySelector(targetAttrString);
 
-//target = menu to be collapsed
-
-var target = document.querySelector(targetAttrString);
-
-toggle.addEventListener('click', function () {
-
-var expanded = target.classList.contains('expanded');
+toggle.addEventListener('click', function () { var expanded = target.classList.contains('expanded');
 
 expanded = !expanded;
 
 if (expanded) {
 
-//hide other in group if exists
+//hide other in group if exists if (target.dataset.group) { var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
 
-if (target.dataset.group) {
-
-var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
-
-if (otherExpanded) {
-
-otherExpanded.classList.remove('expanded');
+if (otherExpanded) { otherExpanded.classList.remove('expanded');
 
 }
 
@@ -14659,13 +14339,9 @@ target.classList.remove('expanded');
 
 (function () {
 
-//toggles = link that expands/collapses target
+//toggles = link that expands/collapses target var toggles = document.querySelectorAll('[data-toggle]');
 
-var toggles = document.querySelectorAll('[data-toggle]');
-
-toggles.forEach(function (toggle) {
-
-initializeExpand(toggle);
+toggles.forEach(function (toggle) { initializeExpand(toggle);
 
 });
 
@@ -14673,9 +14349,7 @@ initializeExpand(toggle);
 
 var searches = document.querySelectorAll('.search');
 
-searches.forEach(function (search) {
-
-initializeSearch(search);
+searches.forEach(function (search) { initializeSearch(search);
 
 });
 
@@ -14701,9 +14375,7 @@ initiateToggle(document.getElementById('theme-toggle'));
 
 initializeMenuToggle(document.getElementById('minMaxMenu'));
 
-var initializeSearch = function (search) {
-
-var button;
+var initializeSearch = function (search) { var button;
 
 var text;
 
@@ -14725,11 +14397,7 @@ button = search.lastElementChild;
 
 if (search) {
 
-search.addEventListener('keypress', function (e) {
-
-if (e.keyCode == 13) {
-
-e.preventDefault();
+search.addEventListener('keypress', function (e) { if (e.keyCode == 13) { e.preventDefault();
 
 if (text.value != null && text.value.length > 0)
 
@@ -14743,9 +14411,7 @@ window.location = window.location.origin + "/Search.aspx?Query=" + text.value + 
 
 if (button) {
 
-button.addEventListener('click', function (e) {
-
-window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+button.addEventListener('click', function (e) { window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
 
 });
 
@@ -14753,31 +14419,19 @@ window.location = window.location.origin + "/Search.aspx?Query=" + text.value + 
 
 };
 
-var initializeExpand = function (toggle) {
+var initializeExpand = function (toggle) { var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
 
-var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+//target = menu to be collapsed var target = document.querySelector(targetAttrString);
 
-//target = menu to be collapsed
-
-var target = document.querySelector(targetAttrString);
-
-toggle.addEventListener('click', function () {
-
-var expanded = target.classList.contains('expanded');
+toggle.addEventListener('click', function () { var expanded = target.classList.contains('expanded');
 
 expanded = !expanded;
 
 if (expanded) {
 
-//hide other in group if exists
+//hide other in group if exists if (target.dataset.group) { var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
 
-if (target.dataset.group) {
-
-var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
-
-if (otherExpanded) {
-
-otherExpanded.classList.remove('expanded');
+if (otherExpanded) { otherExpanded.classList.remove('expanded');
 
 }
 
@@ -14797,13 +14451,9 @@ target.classList.remove('expanded');
 
 (function () {
 
-//toggles = link that expands/collapses target
+//toggles = link that expands/collapses target var toggles = document.querySelectorAll('[data-toggle]');
 
-var toggles = document.querySelectorAll('[data-toggle]');
-
-toggles.forEach(function (toggle) {
-
-initializeExpand(toggle);
+toggles.forEach(function (toggle) { initializeExpand(toggle);
 
 });
 
@@ -14811,9 +14461,7 @@ initializeExpand(toggle);
 
 var searches = document.querySelectorAll('.search');
 
-searches.forEach(function (search) {
-
-initializeSearch(search);
+searches.forEach(function (search) { initializeSearch(search);
 
 });
 
@@ -14847,9 +14495,7 @@ initiateToggle(document.getElementById('theme-toggle'));
 
 initializeMenuToggle(document.getElementById('minMaxMenu'));
 
-var initializeSearch = function (search) {
-
-var button;
+var initializeSearch = function (search) { var button;
 
 var text;
 
@@ -14871,11 +14517,7 @@ button = search.lastElementChild;
 
 if (search) {
 
-search.addEventListener('keypress', function (e) {
-
-if (e.keyCode == 13) {
-
-e.preventDefault();
+search.addEventListener('keypress', function (e) { if (e.keyCode == 13) { e.preventDefault();
 
 if (text.value != null && text.value.length > 0)
 
@@ -14889,9 +14531,7 @@ window.location = window.location.origin + "/Search.aspx?Query=" + text.value + 
 
 if (button) {
 
-button.addEventListener('click', function (e) {
-
-window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+button.addEventListener('click', function (e) { window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
 
 });
 
@@ -14899,31 +14539,19 @@ window.location = window.location.origin + "/Search.aspx?Query=" + text.value + 
 
 };
 
-var initializeExpand = function (toggle) {
+var initializeExpand = function (toggle) { var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
 
-var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+//target = menu to be collapsed var target = document.querySelector(targetAttrString);
 
-//target = menu to be collapsed
-
-var target = document.querySelector(targetAttrString);
-
-toggle.addEventListener('click', function () {
-
-var expanded = target.classList.contains('expanded');
+toggle.addEventListener('click', function () { var expanded = target.classList.contains('expanded');
 
 expanded = !expanded;
 
 if (expanded) {
 
-//hide other in group if exists
+//hide other in group if exists if (target.dataset.group) { var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
 
-if (target.dataset.group) {
-
-var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
-
-if (otherExpanded) {
-
-otherExpanded.classList.remove('expanded');
+if (otherExpanded) { otherExpanded.classList.remove('expanded');
 
 }
 
@@ -14943,13 +14571,9 @@ target.classList.remove('expanded');
 
 (function () {
 
-//toggles = link that expands/collapses target
+//toggles = link that expands/collapses target var toggles = document.querySelectorAll('[data-toggle]');
 
-var toggles = document.querySelectorAll('[data-toggle]');
-
-toggles.forEach(function (toggle) {
-
-initializeExpand(toggle);
+toggles.forEach(function (toggle) { initializeExpand(toggle);
 
 });
 
@@ -14957,9 +14581,7 @@ initializeExpand(toggle);
 
 var searches = document.querySelectorAll('.search');
 
-searches.forEach(function (search) {
-
-initializeSearch(search);
+searches.forEach(function (search) { initializeSearch(search);
 
 });
 
@@ -14993,9 +14615,7 @@ initiateToggle(document.getElementById('theme-toggle'));
 
 initializeMenuToggle(document.getElementById('minMaxMenu'));
 
-var initializeSearch = function (search) {
-
-var button;
+var initializeSearch = function (search) { var button;
 
 var text;
 
@@ -15017,11 +14637,7 @@ button = search.lastElementChild;
 
 if (search) {
 
-search.addEventListener('keypress', function (e) {
-
-if (e.keyCode == 13) {
-
-e.preventDefault();
+search.addEventListener('keypress', function (e) { if (e.keyCode == 13) { e.preventDefault();
 
 if (text.value != null && text.value.length > 0)
 
@@ -15035,9 +14651,7 @@ window.location = window.location.origin + "/Search.aspx?Query=" + text.value + 
 
 if (button) {
 
-button.addEventListener('click', function (e) {
-
-window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+button.addEventListener('click', function (e) { window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
 
 });
 
@@ -15045,31 +14659,19 @@ window.location = window.location.origin + "/Search.aspx?Query=" + text.value + 
 
 };
 
-var initializeExpand = function (toggle) {
+var initializeExpand = function (toggle) { var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
 
-var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+//target = menu to be collapsed var target = document.querySelector(targetAttrString);
 
-//target = menu to be collapsed
-
-var target = document.querySelector(targetAttrString);
-
-toggle.addEventListener('click', function () {
-
-var expanded = target.classList.contains('expanded');
+toggle.addEventListener('click', function () { var expanded = target.classList.contains('expanded');
 
 expanded = !expanded;
 
 if (expanded) {
 
-//hide other in group if exists
+//hide other in group if exists if (target.dataset.group) { var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
 
-if (target.dataset.group) {
-
-var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
-
-if (otherExpanded) {
-
-otherExpanded.classList.remove('expanded');
+if (otherExpanded) { otherExpanded.classList.remove('expanded');
 
 }
 
@@ -15089,13 +14691,9 @@ target.classList.remove('expanded');
 
 (function () {
 
-//toggles = link that expands/collapses target
+//toggles = link that expands/collapses target var toggles = document.querySelectorAll('[data-toggle]');
 
-var toggles = document.querySelectorAll('[data-toggle]');
-
-toggles.forEach(function (toggle) {
-
-initializeExpand(toggle);
+toggles.forEach(function (toggle) { initializeExpand(toggle);
 
 });
 
@@ -15103,9 +14701,7 @@ initializeExpand(toggle);
 
 var searches = document.querySelectorAll('.search');
 
-searches.forEach(function (search) {
-
-initializeSearch(search);
+searches.forEach(function (search) { initializeSearch(search);
 
 });
 
@@ -15139,9 +14735,7 @@ initiateToggle(document.getElementById('theme-toggle'));
 
 initializeMenuToggle(document.getElementById('minMaxMenu'));
 
-var initializeSearch = function (search) {
-
-var button;
+var initializeSearch = function (search) { var button;
 
 var text;
 
@@ -15163,11 +14757,7 @@ button = search.lastElementChild;
 
 if (search) {
 
-search.addEventListener('keypress', function (e) {
-
-if (e.keyCode == 13) {
-
-e.preventDefault();
+search.addEventListener('keypress', function (e) { if (e.keyCode == 13) { e.preventDefault();
 
 if (text.value != null && text.value.length > 0)
 
@@ -15181,9 +14771,7 @@ window.location = window.location.origin + "/Search.aspx?Query=" + text.value + 
 
 if (button) {
 
-button.addEventListener('click', function (e) {
-
-window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+button.addEventListener('click', function (e) { window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
 
 });
 
@@ -15191,31 +14779,19 @@ window.location = window.location.origin + "/Search.aspx?Query=" + text.value + 
 
 };
 
-var initializeExpand = function (toggle) {
+var initializeExpand = function (toggle) { var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
 
-var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+//target = menu to be collapsed var target = document.querySelector(targetAttrString);
 
-//target = menu to be collapsed
-
-var target = document.querySelector(targetAttrString);
-
-toggle.addEventListener('click', function () {
-
-var expanded = target.classList.contains('expanded');
+toggle.addEventListener('click', function () { var expanded = target.classList.contains('expanded');
 
 expanded = !expanded;
 
 if (expanded) {
 
-//hide other in group if exists
+//hide other in group if exists if (target.dataset.group) { var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
 
-if (target.dataset.group) {
-
-var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
-
-if (otherExpanded) {
-
-otherExpanded.classList.remove('expanded');
+if (otherExpanded) { otherExpanded.classList.remove('expanded');
 
 }
 
@@ -15235,13 +14811,9 @@ target.classList.remove('expanded');
 
 (function () {
 
-//toggles = link that expands/collapses target
+//toggles = link that expands/collapses target var toggles = document.querySelectorAll('[data-toggle]');
 
-var toggles = document.querySelectorAll('[data-toggle]');
-
-toggles.forEach(function (toggle) {
-
-initializeExpand(toggle);
+toggles.forEach(function (toggle) { initializeExpand(toggle);
 
 });
 
@@ -15249,9 +14821,7 @@ initializeExpand(toggle);
 
 var searches = document.querySelectorAll('.search');
 
-searches.forEach(function (search) {
-
-initializeSearch(search);
+searches.forEach(function (search) { initializeSearch(search);
 
 });
 

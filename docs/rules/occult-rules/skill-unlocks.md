@@ -2,9 +2,7 @@
 
 Characters capable of casting psychic spells or who have the Psychic Sensitivity feat gain access to skill unlocks—a host of esoteric skill uses not available to other PCs. These are not entirely new skills, but rather new uses of existing skills for those trained in the occult arts. A character must be trained in the appropriate skill to use that skill’s unlock, even if the skill can normally be used untrained. It’s impossible to take 10 for an occult skill unlock. Occult skill unlocks require intense concentration and strenuous effort, so the amount a character can use each skill unlock is limited to once per day or per week. This limit is for all uses of the skill unlock; if a character uses hypnotism to implant a suggestion, he can’t also use it to recall memories on the same day.
 
-This section describes each new skill unlock and the typical DCs and modifiers for associated checks. Some new types of gear in this book
-
-grant bonuses on specific occult skill unlocks.
+This section describes each new skill unlock and the typical DCs and modifiers for associated checks. Some new types of gear in this book grant bonuses on specific occult skill unlocks.
 
 ### Automatic Writing (Linguistics)
 

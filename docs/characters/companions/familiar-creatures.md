@@ -339,9 +339,7 @@ N Diminutive vermin
 
 **Treasure** none
 
-Cockroaches are hardy insects commonly viewed as pests— especially for being attracted to warm buildings and
-
-unattended food in urban areas. They are famously skittish,
+Cockroaches are hardy insects commonly viewed as pests— especially for being attracted to warm buildings and unattended food in urban areas. They are famously skittish,
 
 fleeing from larger creatures and sources of light.
 
@@ -729,17 +727,7 @@ N Diminutive animal
 
 Blood Squirt Once per day as a standard action that doesn’t provoke attacks of opportunity, a horned lizard can squirt a 5-foot-long stream of blood from the corners of its eyes. The animal’s blood contains noxious chemicals, and a creature hit by the blood must succeed at a DC 9 Fortitude save or be sickened for 1d4 rounds. The save DC is Constitution-based.
 
-Camouflage While in desert terrain, a horned lizard can use
-
-the Stealth skill to hide even if the terrain doesn’t grant
-
-cover or concealment. Puff Up When taking the total defense action, a horned
-
-lizard puffs up its body, appearing larger and more horned
-
-and gaining an additional +4 bonus to CMD against
-
-grapple attempts. Despite their sluggish, toad-like appearance, these creatures are reptiles with dry, spiny skin adapted to prevent water loss in their native desert environment. They are typically found sunning themselves on rocks during all but the hottest parts of the day, retreating beneath the shade of ridges or rocks when the sun is directly overhead. Their main method of defense is to avoid detection, but when their desert coloration fails to fool predators, they attempt to flee or use their other defensive methods, such as their unique ability to rupture blood vessels in their eyes so they can spray noxious blood at approaching predators. Due to their fierce defensive displays, horned lizards are often thought to be overly aggressive, though people who keep them as pets or familiars know that they can be affectionate creatures.
+Camouflage While in desert terrain, a horned lizard can use the Stealth skill to hide even if the terrain doesn’t grant cover or concealment. Puff Up When taking the total defense action, a horned lizard puffs up its body, appearing larger and more horned and gaining an additional +4 bonus to CMD against grapple attempts. Despite their sluggish, toad-like appearance, these creatures are reptiles with dry, spiny skin adapted to prevent water loss in their native desert environment. They are typically found sunning themselves on rocks during all but the hottest parts of the day, retreating beneath the shade of ridges or rocks when the sun is directly overhead. Their main method of defense is to avoid detection, but when their desert coloration fails to fool predators, they attempt to flee or use their other defensive methods, such as their unique ability to rupture blood vessels in their eyes so they can spray noxious blood at approaching predators. Due to their fierce defensive displays, horned lizards are often thought to be overly aggressive, though people who keep them as pets or familiars know that they can be affectionate creatures.
 
 ### Ioun Wyrd (CR 1/3)
 
@@ -1337,9 +1325,7 @@ N Small animal
 
 #### Special Abilities
 
-**Toboggan (Ex)** On snow-or ice-covered terrain, a penguin can move at a rate of 30 feet by sliding on its belly rather than walking. Many varieties of penguins exist, though most display similar characteristics. The penguin’s most distinctive trait is the tuxedo-style coloration of its feathers, which acts as
-
-camouflage while the penguin hunts for fish underwater; the black back and flippers allow the penguin to blend in with the water when viewed from above, while its white belly matches the bright sky when seen from below.
+**Toboggan (Ex)** On snow-or ice-covered terrain, a penguin can move at a rate of 30 feet by sliding on its belly rather than walking. Many varieties of penguins exist, though most display similar characteristics. The penguin’s most distinctive trait is the tuxedo-style coloration of its feathers, which acts as camouflage while the penguin hunts for fish underwater; the black back and flippers allow the penguin to blend in with the water when viewed from above, while its white belly matches the bright sky when seen from below.
 
 A penguin of the most common variety stands roughly 3 feet tall and weighs 70 pounds. Larger species of penguin can grow to heights of 4 feet and weigh as much as 100 pounds.
 
@@ -2143,9 +2129,7 @@ N Diminutive vermin (aquatic)
 
 #### Special Abilities
 
-**Hardy (Ex)** A giant tardigrade is able to endure extreme conditions for extended periods of time. It is unharmed by extreme cold, extreme heat, and less extreme temperatures. It takes no damage from decompression (such as in the vacuum of space) or high-pressure environments (such as in extremely deep water). Giant tardigrades, sometimes referred to as water bears, are miniscule, eight-legged creatures that live in water but can survive almost anywhere. The giant tardigrade grows
-
-as large as 1 foot in length and feeds on patches of bacteria, fungus, and plant matter.
+**Hardy (Ex)** A giant tardigrade is able to endure extreme conditions for extended periods of time. It is unharmed by extreme cold, extreme heat, and less extreme temperatures. It takes no damage from decompression (such as in the vacuum of space) or high-pressure environments (such as in extremely deep water). Giant tardigrades, sometimes referred to as water bears, are miniscule, eight-legged creatures that live in water but can survive almost anywhere. The giant tardigrade grows as large as 1 foot in length and feeds on patches of bacteria, fungus, and plant matter.
 
 ### Tarsier (CR 1/6)
 
@@ -2297,17 +2281,7 @@ N Small animal
 
 **Treasure** none
 
-Wallabies are squat mammals that are often mistakenly identified as small kangaroos. Like all marsupials, wallabies
-
-carry their newborn young in pouches at the front
-
-of their bodies. The wallaby defends itself using its
-
-strong hind legs, which it can launch quickly from
-
-under its body to deliver a powerful kick that sends
-
-would-be predators reeling.
+Wallabies are squat mammals that are often mistakenly identified as small kangaroos. Like all marsupials, wallabies carry their newborn young in pouches at the front of their bodies. The wallaby defends itself using its strong hind legs, which it can launch quickly from under its body to deliver a powerful kick that sends would-be predators reeling.
 
 A wallaby stands about 2 feet tall and weighs
 

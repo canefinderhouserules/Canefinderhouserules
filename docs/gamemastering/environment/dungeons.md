@@ -74,9 +74,7 @@ As with walls, dungeon floors come in many types.
 
 **Flagstone**: Like masonry walls, flagstone floors are made of fitted stones. They are usually cracked and only somewhat level. Slime and mold grows in the cracks. Sometimes water runs in rivulets between the stones or sits in stagnant puddles. Flagstone is the most common dungeon floor.
 
-**Uneven Flagstone**: Over time, some floors can become so uneven that a DC 10 Acrobatics check is required to run or charge across the surface. Failure means the character
-
-can’t move that round. Floors as treacherous as this should be the exception, not the rule.
+**Uneven Flagstone**: Over time, some floors can become so uneven that a DC 10 Acrobatics check is required to run or charge across the surface. Failure means the character can’t move that round. Floors as treacherous as this should be the exception, not the rule.
 
 **Hewn Stone Floors**: Rough and uneven, hewn floors are usually covered with loose stones, gravel, dirt, or other debris. A DC 10 Acrobatics check is required to run or charge across such a floor. Failure means the character can still act, but can’t run or charge in this round.
 
@@ -112,9 +110,7 @@ Dungeon doors come in three basic types: wooden, stone, and iron.
 
 **Wooden Doors**: Constructed of thick planks nailed together, sometimes bound with iron for strength (and to reduce swelling from dungeon dampness), wooden doors are the most common type. Wooden doors come in varying strengths: simple, good, and strong. Simple doors (break DC 15) are not meant to keep out motivated attackers. Good doors (break DC 18), while sturdy and long-lasting, are still not meant to take much punishment. Strong doors (break DC 25) are bound in iron and are a sturdy barrier to those attempting to get past them. Iron hinges fasten the door to its frame, and typically a circular pull-ring in the center is there to help open it. Sometimes, instead of a pull-ring, a door has an iron pull-bar on one or both sides of the door to serve as a handle. In inhabited dungeons, these doors are usually well-maintained (not stuck) and unlocked, although important areas are locked up if possible.
 
-**Stone**: Carved from solid blocks of stone, these heavy, unwieldy doors are often built so that they pivot when opened, although dwarves and other skilled craftsfolk are able to fashion hinges strong enough to hold up a
-
-stone door. Secret doors concealed within a stone wall are usually stone doors. Otherwise, such doors stand as tough barriers protecting something important beyond. Thus, they are often locked or barred.
+**Stone**: Carved from solid blocks of stone, these heavy, unwieldy doors are often built so that they pivot when opened, although dwarves and other skilled craftsfolk are able to fashion hinges strong enough to hold up a stone door. Secret doors concealed within a stone wall are usually stone doors. Otherwise, such doors stand as tough barriers protecting something important beyond. Thus, they are often locked or barred.
 
 **Iron**: Rusted but sturdy, iron doors in a dungeon are hinged like wooden doors. These doors are the toughest form of nonmagical door. They are usually locked or barred.
 

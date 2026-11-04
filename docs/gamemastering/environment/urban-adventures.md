@@ -18,9 +18,7 @@ Walls, doors, poor lighting, and uneven footing: in many ways a city is much lik
 
 ### Walls and Gates
 
-Many cities are surrounded by walls. A typical small city wall is a fortified stone wall 5 feet thick and 20 feet high. Such a
-
-wall is fairly smooth, requiring a DC 30 Climb check to scale. The walls are crenellated on one side to provide a low wall for the guards atop it, and there is just barely room for guards to walk along the top of the wall. A typical small city wall has AC 3, hardness 8, and 450 hp per 10-foot section.
+Many cities are surrounded by walls. A typical small city wall is a fortified stone wall 5 feet thick and 20 feet high. Such a wall is fairly smooth, requiring a DC 30 Climb check to scale. The walls are crenellated on one side to provide a low wall for the guards atop it, and there is just barely room for guards to walk along the top of the wall. A typical small city wall has AC 3, hardness 8, and 450 hp per 10-foot section.
 
 A typical large city wall is 10 feet thick and 30 feet high, with crenellations on both sides for the guards on top of the wall. It is likewise smooth, requiring a DC 30 Climb check to scale. Such a wall has AC 3, hardness 8, and 720 hp per 10-foot section.
 
@@ -76,9 +74,7 @@ A heavy catapult takes up a space 15 feet across.
 
 A light catapult takes up a space 10 feet across.
 
-**Ballista**: A ballista is essentially a Huge heavy crossbow fixed in place. Its size makes it hard for most creatures to aim it. Thus, a Medium creature takes a –4
-
-penalty on attack rolls when using a ballista, and a Small creature takes a –6 penalty. It takes a creature smaller than Large two full-round actions to reload the ballista after firing.
+**Ballista**: A ballista is essentially a Huge heavy crossbow fixed in place. Its size makes it hard for most creatures to aim it. Thus, a Medium creature takes a –4 penalty on attack rolls when using a ballista, and a Small creature takes a –6 penalty. It takes a creature smaller than Large two full-round actions to reload the ballista after firing.
 
 A ballista takes up a space 5 feet across.
 

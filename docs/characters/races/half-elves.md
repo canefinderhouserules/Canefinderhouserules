@@ -4,11 +4,7 @@ Elves have long drawn the covetous gazes of other races. Their generous life spa
 
 Sometimes this mutual infatuation leads to romantic relationships. Though usually short-lived, even by human standards, these trysts commonly lead to the birth of half-elves, a race descended of two cultures yet inheritor of neither. Halfelves can breed with one another, but even these “pureblood” half-elves tend to be viewed as bastards by humans and elves alike.
 
-**Physical Description**: Half-elves stand taller than humans but shorter
-
-than elves. They inherit the lean
-
-build and comely features of their elven lineage, but their skin color is dictated by their human side. While half-elves retain the pointed ears of elves, theirs are more rounded and less pronounced. A half-elf’s human-like eyes tend to range a spectrum of exotic colors running from amber or violet to emerald green and deep blue.
+**Physical Description**: Half-elves stand taller than humans but shorter than elves. They inherit the lean build and comely features of their elven lineage, but their skin color is dictated by their human side. While half-elves retain the pointed ears of elves, theirs are more rounded and less pronounced. A half-elf’s human-like eyes tend to range a spectrum of exotic colors running from amber or violet to emerald green and deep blue.
 
 **Society**: The lack of a unified homeland and culture forces half-elves to remain versatile, able to conform to nearly any environment. While often attractive to both races for the same reasons as their parents, half-elves rarely fit in with either humans or elves, as both races see too much evidence of the other in them. This lack of acceptance weighs heavily on many half-elves, yet others are bolstered by their unique status, seeing in their lack of a formalized culture the ultimate freedom. As a result, half-elves are incredibly adaptable, capable of adjusting their mindsets and talents to whatever societies they find themselves in.
 

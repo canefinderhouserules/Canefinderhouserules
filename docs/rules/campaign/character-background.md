@@ -27,13 +27,9 @@ Sometimes, creating a character that feels original and stands out from others o
 
 **The Third Idea**: When you’re brainstorming ideas, it sometimes helps to reject the first and second ideas that leap to mind, and instead consider the third, fourth, and fifth ideas you come up with. This way, you’re challenging yourself to explore wider, more interesting possibilities full of unexplored story potential. The easy ideas that spring to mind first probably do so because you’ve seen them before.
 
-**Opposites**: When you’re stuck on an characteristic that strikes you as boring, plain, or stereotypical, decide that the opposite is instead true of yourself. For instance, if you’re playing the aforementioned dwarven fighter, perhaps one of the following holds: • You have taken a vow against drinking, can’t hold your
+**Opposites**: When you’re stuck on an characteristic that strikes you as boring, plain, or stereotypical, decide that the opposite is instead true of yourself. For instance, if you’re playing the aforementioned dwarven fighter, perhaps one of the following holds: • You have taken a vow against drinking, can’t hold your liquor, or act in a peculiar, eccentric way when drunk. • You can’t grow a beard. • You favor a weapon that is not a hammer, axe, crossbow,
 
-liquor, or act in a peculiar, eccentric way when drunk. • You can’t grow a beard. • You favor a weapon that is not a hammer, axe, crossbow,
-
-or other typical dwarven weapon. • You live in a forest or on an island rather than in the
-
-hills and mountains favored by most dwarves. • You are a pacifist who loathes violence. • You deeply pity or love orcs and goblins.
+or other typical dwarven weapon. • You live in a forest or on an island rather than in the hills and mountains favored by most dwarves. • You are a pacifist who loathes violence. • You deeply pity or love orcs and goblins.
 
 Any one of these character quirks can prove ripe for character development and story hooks in the campaign.
 
@@ -175,15 +171,7 @@ Very few characters consider themselves evil. Evil characters justify their self
 
 ### Vulnerability
 
-As you grow up, you struggle against various opposing forces and people in your environment—siblings, parents, peers, bullies, laws, and so on. You learn to insulate
-
-yourself against physical and emotional harm while
-
-making decisions that will protect you, your
-
-loved ones, or your interests. These
-
-conflicts can leave emotional scars,
+As you grow up, you struggle against various opposing forces and people in your environment—siblings, parents, peers, bullies, laws, and so on. You learn to insulate yourself against physical and emotional harm while making decisions that will protect you, your loved ones, or your interests. These conflicts can leave emotional scars,
 
 or vulnerabilities.
 
@@ -201,61 +189,25 @@ It’s not necessary for you to know all of your adventuring companions when you
 
 #### Two Quirks and a Flaw: Quick and Dirty Character Establishment
 
-If you’re pressed for time or you’re looking to create the
+If you’re pressed for time or you’re looking to create the basics of a character as simply as possible, establish the essence of your personality by thinking of two quirks and a flaw. Quirks are specific attributes of your personality or psyche: character traits, compulsions, eccentricities,
 
-basics of a character as simply as possible, establish the
+or uncommon physical features. These shouldn’t be commonplace or mundane. “Tall” is a poor one, but “too big for my body” could be great. “Charismatic” is weak,
 
-essence of your personality by thinking of two quirks and
-
-a flaw. Quirks are specific attributes of your personality
-
-or psyche: character traits, compulsions, eccentricities,
-
-or uncommon physical features. These shouldn’t be
-
-commonplace or mundane. “Tall” is a poor one, but “too
-
-big for my body” could be great. “Charismatic” is weak,
-
-but “flirts with nearly everybody I meet” is specific and
-
-actionable. “Homebody” is not as good a quirk as “feels
-
-tired, uncomfortable, and hungry away from home.”
+but “flirts with nearly everybody I meet” is specific and actionable. “Homebody” is not as good a quirk as “feels tired, uncomfortable, and hungry away from home.”
 
 Add a flaw the same way. Instead of merely being
 
 “arrogant,” maybe you “believe I’m smarter than anyone
 
-I know.” Perhaps you’re not so much “proud” as “afraid of
-
-being wrong and looking stupid.” Rather than “greedy,”
+I know.” Perhaps you’re not so much “proud” as “afraid of being wrong and looking stupid.” Rather than “greedy,”
 
 you may be “terrified of dying poor and hungry.”
 
-When you choose an attribute or trait to use as a quirk
+When you choose an attribute or trait to use as a quirk or flaw, you can dig deeper into the concept by asking yourself how and why. If you’re shy, *how* shy are you?
 
-or flaw, you can dig deeper into the concept by asking
+So shy that you can never look anyone directly in the eye? If you’re paranoid, *why* are you paranoid? Maybe everyone you’ve ever trusted betrayed you? Homing in on desires and fears will help answer those questions.
 
-yourself how and why. If you’re shy, *how* shy are you?
-
-So shy that you can never look anyone directly in the
-
-eye? If you’re paranoid, *why* are you paranoid? Maybe
-
-everyone you’ve ever trusted betrayed you? Homing in
-
-on desires and fears will help answer those questions.
-
-For the sake of brevity, the [background generator](background-generator.md) uses
-
-basic descriptors for quirks and flaws. Take a little
-
-time to further build on those bare-bones descriptors
-
-with these sort of details, which will help color in an
-
-otherwise simple, nondescript character. one another. In contrast, campaigns that begin with one or two characters knowing each another are easier to get moving, since those characters have history—a set of shared memories that ties them together. In drama, scenes between people who know one another, even if only by reputation, tend to be more compelling than scenes between people with no prior relationship.
+For the sake of brevity, the [background generator](background-generator.md) uses basic descriptors for quirks and flaws. Take a little time to further build on those bare-bones descriptors with these sort of details, which will help color in an otherwise simple, nondescript character. one another. In contrast, campaigns that begin with one or two characters knowing each another are easier to get moving, since those characters have history—a set of shared memories that ties them together. In drama, scenes between people who know one another, even if only by reputation, tend to be more compelling than scenes between people with no prior relationship.
 
 Consider the other characters in your group. Pick one or more of them and establish a prior acquaintance or connection. Did you meet once in the past while working for the same employer? Have you been lifelong friends? Were you competitors for the love of someone else? Did you have a past or current rivalry? Are you related? Do you know one another by reputation? If so, what have you heard?
 

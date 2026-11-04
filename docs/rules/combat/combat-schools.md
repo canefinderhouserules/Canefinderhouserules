@@ -50,13 +50,6 @@ Beyond the specific prestige awards that each combat school grants, students can
 
 **Spellcasting**: By spending the listed Prestige Point total, you can have any of the following spells cast for you (the caster level in each case is the minimum possible for the spell).
 
-- 1 PP: *cure moderate wounds*, *dispel magic*, *lesser restoration*, *make whole*, *remove blindness/deafness*, *remove curse*, *remove disease*, *remove paralysis*
-- 2 PP: *atonement* (8 PP to restore alignment-based class abilities), *break enchantment*, *cure serious wounds*, *greater dispel magic*, *neutralize poison*, *restoration* (4 PP to remove permanent negative levels)
-- 3 PP: *heal*, *regenerate*
-- 16 PP: *greater restoration*, *raise dead*
-- 32 PP: *resurrection*
-- 77 PP: *true resurrection*
-
 ## Dojos
 
 Dojos are training schools or academies that teach unarmed styles of combat and the exotic weapon forms that accompany such disciplines. As a dojo student's Fame score increases, he gains the following rewards.

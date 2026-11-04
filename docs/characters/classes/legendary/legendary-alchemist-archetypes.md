@@ -276,20 +276,6 @@ A esotericist need not prepare her spells in advance. They can cast any esoteric
 
 Alternate class features are small, modular archetypes. They swap out a single class feature (or a few related class features) for new abilities. By affecting only small parts of the class at a time, a player is able to build the legendary alchemist that best fits their ideas. With these alternate class features, the legendary alchemist is more flexible than ever before. If an archetype or alternate class replaces one of the below class features, the replacement class feature may not be exchanged for an alternate class feature. Mix and match these alternate class features to build your perfect legendary alchemist!
 
-**Contents**
-
-- 1 Weapon and Armor Proficiencies
-
-- 2 Throw Anything
-
-- 3 Poison Resistance
-
-- 4 Alchemical Weapon
-
-- 5 Alchemical Fusion
-
-- 6 Related
-
 **Weapon and Armor Proficiencies**
 
 The following options can be taken in place of the legendary alchemist’s normal weapon and armor proficiencies:
@@ -691,32 +677,6 @@ A void demolitionist can maintain a number of rips equal to twice the amount the
 **Infinite Explosion (Ex):** At 19th level, a void demolitionist can split their assault by using their attacks from parallel dimensions, spending 3 points of quintessence to make an attack action through one of their rips. If they do so, the bomb emerges from each rip except for the one being used to make the attack, dealing damage as an alchemist of half their class level (a 19th level void demolitionist’s bombs would deal 5d6+ Intelligence modifier damage). If the void demolitionist applies a [substance] discovery to this bomb, for every two additional bombs that hit a creature using this ability, the DC of the saving throw associated with this bomb increases by +1.
 
 *This ability replaces ultimate bomb.*
-
-**Contents**
-
-- 1 Dimensional Discoveries 1.1 Corporeal Rip
-
-- 1.2 Deceptive Rip
-
-- 1.3 Distant Rip
-
-- 1.4 Enlarged Rip
-
-- 1.5 Fast Quantum Charges
-
-- 1.6 Lingering Rips
-
-- 1.7 Mobile Rips
-
-- 1.8 Rip Bomb
-
-- 2 Universal Discoveries 2.1 Spatial Collapse
-
-- 2.2 Planar Breach
-
-- 3 Archetype List
-
-- 4 Related
 
 **Dimensional Discoveries**
 

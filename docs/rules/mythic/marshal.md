@@ -73,17 +73,11 @@ You can select these path abilities at any tier.
 
 **Lightning Performance (Ex)**: Your tongue is as quick as any blade. You can start a bardic performance as a swift action instead of a standard action. If you expend one use of mythic power, you can instead start a bardic performance as a free action.
 
-**Loyalty (Ex)**: You gain Leadership as a bonus feat. If you already have the Leadership feat ( or if you take it at a later level ), add your tier to your Leadership score. Whenever you use your marshal's order ability and your cohort
-
-is within 100 feet, you can include your cohort as an
-
-additional ally affected by your order.
+**Loyalty (Ex)**: You gain Leadership as a bonus feat. If you already have the Leadership feat ( or if you take it at a later level ), add your tier to your Leadership score. Whenever you use your marshal's order ability and your cohort is within 100 feet, you can include your cohort as an additional ally affected by your order.
 
 **Menacing Presence (Su)**: Something about you puts others on edge. You can attempt an Intimidate check to influence a creature's attitude as full-round action instead of it taking 1 minute. In combat, you can attempt an
 
-Intimidate check to demoralize an opponent as a move
-
-action. If you expend one use of mythic power, you can attempt to use Intimidate to demoralize all enemies within 30 feet as a standard action, or as a move action if using the Dazzling Display feat.
+Intimidate check to demoralize an opponent as a move action. If you expend one use of mythic power, you can attempt to use Intimidate to demoralize all enemies within 30 feet as a standard action, or as a move action if using the Dazzling Display feat.
 
 **Mythic Fascination (Su)**: When you use the fascinate or suggestion bardic performance ability, non-mythic creatures take a penalty on their saving throws against it equal to half your tier. If you expend one use of mythic power when you activate the performance, the penalty also applies to mythic creatures.
 

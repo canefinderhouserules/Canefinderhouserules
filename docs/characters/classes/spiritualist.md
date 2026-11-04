@@ -257,9 +257,7 @@ Each time she fully manifests her phantom, the spiritualist must choose whether 
 
 **Ectoplasmic**: When the spiritualist manifests her phantom in ectoplasmic form, the phantom gains the following abilities.
 
-**Damage** Reduction: A phantom manifested in ectoplasmic
-
-form has DR 5/slashing. When the spiritualist reaches 5th level, the phantom gains DR 5/magic. At 10th level, the damage resistance increases to 10/magic. At 15th level, it increases to 15/magic, and at 20th level, the damage reduction becomes DR 15/—.
+**Damage** Reduction: A phantom manifested in ectoplasmic form has DR 5/slashing. When the spiritualist reaches 5th level, the phantom gains DR 5/magic. At 10th level, the damage resistance increases to 10/magic. At 15th level, it increases to 15/magic, and at 20th level, the damage reduction becomes DR 15/—.
 
 **Phase Lurch (Su)**: A phantom in ectoplasmic form has the ability to pass through walls or material obstacles. In order to use this ability, it must begin and end its turn outside whatever wall or obstacle it’s moving through. An ectoplasmic phantom can’t move through corporeal creatures with this ability, and its movement speed is halved while moving through a wall or obstacle. Any surface it moves through is coated with a thin, silvery mucus that lingers for 1 minute.
 
@@ -283,9 +281,7 @@ Phantoms with this emotional focus are filled with seething anger from events in
 
 **Powerful Strike (Ex)**: A phantom with this focus deals more damage with its slam attacks. It deals slam damage as a creature one size category larger than its current size. The phantom also gains Power Attack as a bonus feat.
 
-**Aura** of Fury (Su): When the spiritualist reaches 7th level, as a swift action, the phantom can emit a 20-foot-radius
-
-aura of fury. Creatures within the aura gain a +2 bonus on melee attack rolls but take a –2 penalty to AC. Ending the aura is a free action. The phantom can use this ability in either ectoplasmic or incorporeal form.
+**Aura** of Fury (Su): When the spiritualist reaches 7th level, as a swift action, the phantom can emit a 20-foot-radius aura of fury. Creatures within the aura gain a +2 bonus on melee attack rolls but take a –2 penalty to AC. Ending the aura is a free action. The phantom can use this ability in either ectoplasmic or incorporeal form.
 
 **Ferocious Mien (Su)**: When the spiritualist reaches 12th level, once per day as a swift action, a phantom in ectoplasmic form can grow more ferocious and frightening. It becomes one size category larger than its current size, as affected by an enlarge person spell, and grows fiercer in combat, as if affected by a rage spell. This effect lasts for 1 round per class level of the spiritualist. When the spiritualist reaches 18th level, a phantom using ferocious mien also gains the frightful presence extraordinary ability (Bestiary 300; range 30 feet, duration 5d6 rounds).
 
@@ -325,9 +321,7 @@ Their coloration tends to have a grayish or sickly green cast. When they speak, 
 
 **Miserable Strike (Su)**: If the phantom hits a creature with a slam attack, that creature must succeed at a Will saving throw (DC = 10 + 1/2 the phantom’s Hit Dice + the phantom’s Charisma modifier) or take a –2 penalty on attack and damage rolls for 1 round. This is a mind-affecting fear and emotion effect. Penalties from multiple hits don’t stack with themselves.
 
-**Aura** of Despair (Su): When the spiritualist reaches 7th
-
-level, as a swift action, the phantom can emit a 10-foot aura of despair. Enemies within the aura take a –2 penalty on all saving throws. This is a fear effect. Deactivating the aura is a free action.
+**Aura** of Despair (Su): When the spiritualist reaches 7th level, as a swift action, the phantom can emit a 10-foot aura of despair. Enemies within the aura take a –2 penalty on all saving throws. This is a fear effect. Deactivating the aura is a free action.
 
 **Despairing Shout (Su)**: When the spiritualist reaches 12th level, three times per day as a standard action, the phantom can emit a shout that acts as crushing despair. The phantom uses its Hit Dice as its caster level for the effect, and the DC of the effect equals 10 + 1/2 the phantom’s Hit Dice + the phantom’s Charisma modifier. The phantom can use this ability in either ectoplasmic or incorporeal form.
 

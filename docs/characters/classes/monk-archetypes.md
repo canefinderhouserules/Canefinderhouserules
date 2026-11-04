@@ -54,51 +54,23 @@ The saving throw against a monk’s ki power, if any, is equal to 10 + 1/2 the m
 
 Feats or spells marked with a single asterisk (\*) are described in this book. Feats or spells marked with two asterisks (\*\*) are in the Advanced Player’s Guide. Feats marked with a dagger (†) are ki powers that can be activated as an immediate action.
 
-4th-Level Ki Powers Acrobatic Steps (1 ki point) augury (1 ki point) barkskin (self only, 1 ki point) Deny Death\*, † (0 ki points) feather step\*\* (self only, 1 ki point) hydraulic push\*\* (1 ki point) ki arrow\* (1 ki point) Ki Stand\*, † (0 ki points) message (1 ki point)
+**4th-Level Ki Powers**: Acrobatic Steps (1 ki point), augury (1 ki point), barkskin (self only, 1 ki point), Deny Death\*, † (0 ki points), feather step\*\* (self only, 1 ki point), hydraulic push\*\* (1 ki point), ki arrow\* (1 ki point), Ki Stand\*, † (0 ki points), message (1 ki point), Power Attack (1 ki point), Quick Draw (1 ki point), scorching ray (2 ki points), Throw Anything (1 ki point), true strike (self only, 1 ki point).
 
-### Power Attack (1 ki point)
+**6th-Level Ki Powers**: cloak of winds\*\* (self only, 2 ki points), gaseous form (self only, 1 ki point), Heroic Recovery\*\*, † (1 ki point), high jump (monk ability, 1 ki point), hydraulic torrent \*\* (2 ki points), remove disease (2 ki points), Sidestep \*\*, † (1 ki point), Snatch Arrows† (1 ki point), Spring Attack (1 ki point).
 
-Quick Draw (1 ki point) scorching ray (2 ki points) Throw Anything (1 ki point) true strike (self only, 1 ki point) 6th-Level Ki Powers cloak of winds\*\* (self only, 2 ki points) gaseous form (self only, 1 ki point) Heroic Recovery\*\*, † (1 ki point) high jump (monk ability, 1 ki point) hydraulic torrent \*\* (2 ki points) remove disease (2 ki points) Sidestep \*\*, † (1 ki point)
+**8th-Level Ki Powers**: dragon’s breath\*\* (2 ki points), Gliding Steps\*, † (1 ki point), neutralize poison (3 ki points), poison (2 ki points), restoration (self only, 2 ki points), share memory\* (0 ki points), silk to steel\* (1 ki point), Spider Step\*\* (1 ki point), Whirlwind Attack (2 ki points), wholeness of body (monk ability, level 7, 2 ki points).
 
-### Snatch Arrows† (1 ki point)
+**10th-Level Ki Powers**: discordant blast\*\* (2 ki points), Greater Bull Rush (2 ki points), Greater Disarm (2 ki points), Greater Feint (2 ki points), Greater Sunder (2 ki points), Improved Blind-Fight\*\*, † (1 ki point), ki leech\* (0 ki points), Lunge (1 ki point), shadow step\* (1 ki point), spit venom\* (2 ki points), Step Up and Strike\*\*, † (2 ki points), Wind Stance (2 ki points).
 
-Spring Attack (1 ki point) 8th-Level Ki Powers dragon’s breath\*\* (2 ki points) Gliding Steps\*, † (1 ki point) neutralize poison (3 ki points) poison (2 ki points) restoration (self only, 2 ki points) share memory\* (0 ki points) silk to steel\* (1 ki point)
+**12th-Level Ki Powers**: abundant step (monk ability, 2 ki points), battlemind link\* (4 ki points), diamond body (monk ability), Elemental Fists\*\* (2 ki points), Improvised Weapon Mastery (2 ki points), Ki Throw\*\* (2 ki points), Punishing Kick\*\* (2 ki points), shadow walk (3 ki points).
 
-### Spider Step\*\* (1 ki point)
+**14th-Level Ki Powers**: blood crow strike\* (2 ki points), Cloud Step\*\* (3 ki points), cold ice strike\* (3 ki points), diamond soul (monk ability), Disarming Strike\*\* (2 ki points), Improved Ki Throw\*\* (2 ki points), ki shout\* (3 ki points), sonic thrust\* (2 ki points).
 
-Whirlwind Attack (2 ki points) wholeness of body (monk ability, level 7, 2 ki points) 10th-Level Ki Powers discordant blast\*\* (2 ki points)
+**16th-Level Ki Powers**: Bleeding Critical (3 ki points), Greater Blind-Fight\*\*, † (2 ki points), Improved Vital Strike (2 ki points), Lightning Stance (3 ki points), Penetrating Strike (2 ki points), quivering palm (monk ability, 2 ki points), strangling hair\* (3 ki points).
 
-### Greater Bull Rush (2 ki points)
+**18th-Level Ki Powers**: timeless body (monk ability, 1 ki point), tongue of the sun and moon (monk ability, 1 ki point).
 
-### Greater Disarm (2 ki points)
-
-### Greater Feint (2 ki points)
-
-### Greater Sunder (2 ki points)
-
-Improved Blind-Fight\*\*, † (1 ki point) ki leech\* (0 ki points) Lunge (1 ki point) shadow step\* (1 ki point) spit venom\* (2 ki points) Step Up and Strike\*\*, † (2 ki points) Wind Stance (2 ki points) 12th-Level Ki Powers abundant step (monk ability, 2 ki points) battlemind link\* (4 ki points) diamond body (monk ability)
-
-### Elemental Fists\*\* (2 ki points)
-
-### Improvised Weapon Mastery (2 ki points)
-
-### Ki Throw\*\* (2 ki points)
-
-Punishing Kick\*\* (2 ki points) shadow walk (3 ki points) 14th-Level Ki Powers blood crow strike\* (2 ki points) Cloud Step\*\* (3 ki points) cold ice strike\* (3 ki points) diamond soul (monk ability)
-
-### Disarming Strike\*\* (2 ki points)
-
-Improved Ki Throw\*\* (2 ki points) ki shout\* (3 ki points) sonic thrust\* (2 ki points) 16th-Level Ki Powers Bleeding Critical (3 ki points) Greater Blind-Fight\*\*, † (2 ki points)
-
-### Improved Vital Strike (2 ki points)
-
-### Lightning Stance (3 ki points)
-
-Penetrating Strike (2 ki points) quivering palm (monk ability, 2 ki points) strangling hair\* (3 ki points) 18th-Level Ki Powers timeless body (monk ability, 1 ki point) tongue of the sun and moon (monk ability, 1 ki point) 20th-Level Ki Powers Blinding Critical (3 ki points)
-
-### Crippling Critical\*\* (3 ki points)
-
-Deafening Critical (3 ki points) empty body (monk ability, 3 ki points) Greater Penetrating Strike (3 ki points) perfect self (monk ability, level 20) Tiring Critical (3 ki points)
+**20th-Level Ki Powers**: Blinding Critical (3 ki points), Crippling Critical\*\* (3 ki points), Deafening Critical (3 ki points), empty body (monk ability, 3 ki points), Greater Penetrating Strike (3 ki points), perfect self (monk ability, level 20), Tiring Critical (3 ki points).
 
 ## Advanced Player's Guide Archetypes
 
