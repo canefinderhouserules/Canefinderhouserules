@@ -403,8 +403,6 @@ Your familiarity with a specific type of armor increases the amount of protectio
 
 In addition to the armor mastery and shield mastery feats listed in the Armor Master’s Handbook, the following feats now also count as armor mastery or shield mastery feats for the purpose of a fighter selecting them with the armored master armor training option.
 
-In addition to the armor mastery and shield mastery feats listed in the *Armor Master’s Handbook*, the following feats now also count as armor mastery or shield mastery feats for the purpose of a fighter selecting them with the armored master armor training option.
-
 **Table: Armor and Shield Feats**
 
 | Name | Prerequisites | Benefit | Type |
