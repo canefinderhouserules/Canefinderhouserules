@@ -1489,3 +1489,15 @@ This ability replaces spontaneous casting.
 This ability replaces resist nature’s lure.
 
 **Locate Moon-Phase City (Sp)**: At 9th level, a Moon-Phase City adept can cast *find the path* as a spell-like ability, but only to locate Moon-Phase City. The spell’s duration is extended until the druid reaches her destination or until Moon-Phase City recedes from the Material Plane at the end of the new moon. This ability can be used only once per month, during the new moon.
+
+## Other Druid Domains
+
+### The Shadow Bond Domain
+
+**Granted Powers**: The Shadow Bond functions as a unique domain with the granted powers and domain spells below. A druid who takes the Shadow Bond must be neutral evil and worship the god of darkness and pain. A druid who has taken an archetype that alters or replaces nature bond cannot take the Shadow Bond.
+
+*Absorb Pain (Su)*: Whenever you take lethal damage, you can choose as an immediate action to convert a number of points of this damage equal to 1d6 + your Wisdom modifier into nonlethal damage. When you use this ability, you gain a +4 profane bonus on all saving throws versus pain effects during the following round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+
+*Gruesome Display (Ex)*: At 8th level, as a standard action you can alter your appearance in such intense, horrific ways that onlookers become nauseated. One creature you select within 30 feet who can see you must succeed at a Will save (DC = 10 + 1/2 your druid level + your Wisdom modifier) or be nauseated for a number of rounds equal to 1/2 your druid level. Every 2 levels beyond 8th, you can affect one additional creature, to a maximum of seven targets within 30 feet at 20th level. Each time you activate your gruesome display, you must affect at least one target, but you can choose to affect fewer targets than your maximum. Once you’ve targeted the maximum number of creatures granted by level (regardless of whether they successfully save to resist the effect or not), you cannot use gruesome display again for the remainder of the day. This is a mind-affecting fear effect.
+
+**Domain Spells**: 1st—*delay pain*, 2nd—*lesser curse terrain*, 3rd—*excruciating deformation*, 4th—*curse terrain*, 5th—*symbol of pain*, 6th—*greater curse terrain*, 7th—*verminous transformation*, 8th—*supreme curse terrain*, 9th—*maze of madness* and suffering (haunted forest only).

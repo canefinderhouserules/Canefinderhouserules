@@ -739,3 +739,27 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Roleplaying Game: The World of Vampire Hunter D © 2016, Paizo Inc.; Author: F. Wesley Schneider.
 
     Pathfinder Adventure Path #142: Gardens of Gallowspire © 2019, Paizo Inc.; Author: Crystal Frasier.
+
+    Inner Sea Bestiary © 2012, Paizo Publishing, LLC; Authors: Jim Groves, James Jacobs, Robert G. McCreary, Erik Mona, Jason Nelson, Patrick Renie, James L. Sutter, Russ Taylor, Greg A. Vaughan, and F. Wesley Schneider.
+
+    Adventurer's Armory © 2010, Paizo Publishing, LLC; Authors: Jonathan H. Keith, Hal Maclean, Jeff Quick, Chris Self, JD Wiker, and Keri Wiker.
+
+    Adventurer's Guide © 2017, Paizo Inc.; Authors: Benjamin Bruck, John Compton, Crystal Frasier, Tim Hitchcock, Jenny Jarzabski, Isabelle Thorne, Joe Pasini, Jessica Price, David Schwartz, and Josh Vogt.
+
+    Into the Darklands © 2008, Paizo Publishing, LLC; Authors: James Jacobs, and Greg A. Vaughan.
+
+    Darklands Revisited © 2016, Paizo Inc.; Author: Thurston Hillman.
+
+    Rise of the Runelords Anniversary Edition © 2012, Paizo Publishing, LLC; Authors: James Jacobs, Richard Pett, Nicolas Logue, Wolfgang Baur, Stephen S. Greer, and Greg A. Vaughan.
+
+    Curse of the Crimson Throne Player's Guide © 2008, Paizo Publishing, LLC; Authors: James Jacobs, and Mike McArtor.
+
+    Rise of the Runelords Player's Guide © 2007, Paizo Publishing, LLC; Author: F. Wesley Schneider.
+
+    Ruins of Azlant Player's Guide © 2017, Paizo Inc.; Author: Adam Daigle.
+
+    Fortress of the Stone Giants © 2007, Paizo Publishing, LLC; Author: Wolfgang Baur.
+
+    Haunting of Harrowstone © 2011, Paizo Publishing, LLC; Author: Michael Kortes.
+
+    Spires of Xin-Shalast © 2008, Paizo Publishing, LLC; Author: Greg A. Vaughan.

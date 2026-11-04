@@ -132,6 +132,49 @@ A spellcaster with the Improved Familiar feat can also select these creatures, g
 | Dweomercat cub | Chaotic neutral | 7th |
 | Galluvix | Any | 7th |
 | Impundulu | Neutral evil | 7th |
+| Familiar automaton | Lawful | 7th |
+| Cat sith | Chaotic neutral | 7th |
+| Caypup | Chaotic good | 7th |
+| Pseudosphinx | Neutral | 7th |
+| Caligraphy Wyrm | Neutral | 7th |
+| Pyrausta | Chaotic neutral (within 1 step) | 3rd |
+| Arbiter inevitable | Lawful neutral | 7th |
+| Cacodaemon daemon | Neutral evil | 7th |
+| Cassisian angel | Neutral good | 7th |
+| Cythnigot qlippoth | Chaotic evil | 7th |
+| Lyrakien azata | Chaotic good | 7th |
+| Paracletus aeon | Neutral | 7th |
+| Silvanshee agathion | Neutral good | 7th |
+| Voidworm protean | Chaotic neutral | 7th |
+| Augur kyton | Lawful evil | 7th |
+| Carbuncle | Neutral | 5th |
+| Dragon, faerie | Chaotic good (within 1 step) | 7th |
+| Harbinger archon | Lawful good | 7th |
+| Raktavarna rakshasa | Lawful evil | 7th |
+| Spirit oni | Lawful evil | 7th |
+| Sprite | Chaotic neutral | 5th |
+| Zoog | Chaotic evil | 5th |
+| Almiraj | Any | 5th |
+| Beheaded | Neutral evil | 3rd |
+| Aether wysp | Any | 7th |
+| Air wysp | Any | 7th |
+| Brain Mole | One step of neutral | 5th |
+| Earth wysp | Any | 7th |
+| Fire wysp | Any | 7th |
+| Liminal sprite | Chaotic | 7th |
+| Water wysp | Any | 7th |
+| Xiao | Any | 7th |
+| Seru | Any evil | 7th |
+| Celestial hawk | Neutral good | 3rd |
+| Fiendish viper | Neutral evil | 3rd |
+| Homunculus | Any | 7th |
+| Entropic monkey | Chaotic neutral | 3rd |
+| Nuglub gremlin | Chaotic evil | 7th |
+| Resolute owl | Lawful neutral | 3rd |
+| House drake | Chaotic good | 7th |
+| Mandragora | Chaotic evil | 9th |
+| Dragon, tidepool | Chaotic neutral (within one step) | 7th |
+| Katroome | Any | 5th |
 | Fey-touched toad | Any | 3rd |
 | Psyche serpent | Any neutral | 7th |
 | Esipil sahkil | Neutral Evil | 7th |

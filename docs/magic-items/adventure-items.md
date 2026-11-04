@@ -13451,7 +13451,7 @@ A second-story harness is a series of straps, trusses, and buckles that can be w
 
 **Category** Mounts/Pets
 
-These livestock animals are kept for their fur, meat, and hide, and can be found in virtually any civilized settlement. They are especially prized in colder environs, where their wool and hide can be used to make durable and highly insulated clothing. Sheep have the same statistics as goats (see *Bestiary 3*).
+These livestock animals are kept for their fur, meat, and hide, and can be found in virtually any civilized settlement. They are especially prized in colder environs, where their wool and hide can be used to make durable and highly insulated clothing. Sheep have the same statistics as goats.
 
 ### Sheep (Trade Good)
 
