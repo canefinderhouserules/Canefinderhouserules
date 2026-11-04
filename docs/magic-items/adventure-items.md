@@ -2916,7 +2916,7 @@ The wearer can also activate the ring once per day as an immediate action to gai
 
 **Requirements** Forge Ring, *break enchantment*,* spell resistance*; **Cost** 16,250 gp
 
-### Ring of Resistance (+2)
+### Ring of Resistance
 
 **Aura** faint abjuration **CL** 5th
 
@@ -7095,7 +7095,7 @@ Tiny white crystals hang suspended in a clear fluid inside this fist-sized glass
 
 **Requirements** Craft Wondrous Item, *control weather*; **Cost** 2,275 gp
 
-### Glorious Tabard (Greater)
+### Glorious Tabard
 
 **Aura** faint abjuration; **CL** 3rd
 
@@ -8009,7 +8009,7 @@ This headband grants a +4 bonus on saving throws against all enchantment spells.
 
 **Requirements** Craft Wondrous Item, *break enchantment*, creator must have the giant subtype; **Cost** 7,500 gp
 
-### Iron Beard (Greater)
+### Iron Beard
 
 **Aura** strong evocation; **CL** 13th
 
@@ -11108,7 +11108,7 @@ Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The 
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,450 gp
 
-### Terra-Cotta Talisman (Warrior)
+### Terra-Cotta Talisman
 
 **Aura** moderate evocation; **CL** 6th
 
