@@ -661,3 +661,8 @@ Some investigators use their vast knowledge to build machines that replicate the
 **Custom Mechanism (Ex)**: An engineer can create a mechanism, a small device that assists with an activity. Creating one takes 1 minute and expends 1 use of inspiration. The engineer chooses a skill to associate with it. As an immediate action, a mechanism can be activated to grant the engineer's inspiration die on a check with the associated skill. A mechanism that affects attack rolls or saving throws expends 2 uses of inspiration. Any creature can use a mechanism, but a creature can have only 1 at a time, since multiple mechanisms interfere with each other. A mechanism remains active for a number of minutes equal to the engineer's Intelligence modifier (minimum 1); at 5th level, a number of minutes equal to his level; at 11th level, a number of hours equal to his level. This replaces trapfinding, poison lore, and poison resistance.
 
 **Mechanical Understanding (Ex)**: At 3rd level, an engineer gains a +1 bonus on Knowledge (arcana) checks to identify constructs and a +1 bonus on Knowledge (engineering) checks. This bonus increases by 1 at 6th level and every 3 levels thereafter. This replaces trap sense.
+
+## More Investigator Talents
+
+**Atheist Inspiration (Ex)**: The investigator can use her inspiration on saving throws against divine spells without expending uses of inspiration. This talent counts as the Divine Defiance feat for the purpose of meeting the prerequisites of other feats.
+

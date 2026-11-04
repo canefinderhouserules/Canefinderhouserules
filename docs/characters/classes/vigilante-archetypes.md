@@ -677,3 +677,10 @@ This replaces vigilante specialization.
 **Wild Shape (Su)**: At 5th level, when in his vigilante identity, the avenging beast gains the ability to take on the shape of the animal represented by his animal mask. This ability functions identically to the druid’s wild shape ability, except the ability does not improve beyond functioning as *beast shape I*. The avenging beast treats his vigilante level as his druid level for the purposes of this ability. An avenging beast can use wild shape once per day at 5th level and one additional time per day at 7th level and every 2 levels thereafter, for a total of eight times per day at 19th level.
 
 This replaces startling appearance, frightening appearance, and stunning appearance.
+
+## More Vigilante Talents
+
+**Companion to the Lonely (Ex)**: Whether religiously motivated, as are followers of Arshea, the goddess of lust and revenge, or the goddess of beauty, or for purely carnal reasons, physical intimacy helps the vigilante cope with the loneliness of his double life. Once per day, the vigilante can spend at least 1 hour engaged in acts of physical pleasure with a willing partner to gain a pool of morale points equal to his Charisma bonus or his partner’s Charisma bonus, whichever is higher. For the next 24 hours, the vigilante can spend a morale point as an immediate action to roll a Charisma-based skill check or a Will saving throw again after rolling the die but before learning the consequences; he must take the second result even if it is lower.
+
+**merchant-priest’s Acumen (Ex)**: A vigilante with this talent must follow the dietary and sexual prohibitions of the Prophecies of the Merchant Prophet in his social identity or he loses the talent’s benefit until he atones. He can treat settlements as one size category larger when determining their base values and purchase limits. At 9th level, the vigilante can treat settlements as two size categories larger for the above purposes. At 15th level, the vigilante can treat settlements as four size categories larger for the above purposes.
+

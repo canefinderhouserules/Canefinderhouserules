@@ -447,3 +447,12 @@ This deed replaces the bleeding wound deed.
 This deed replaces the menacing shot deed.
 
 **Supernatural Awareness (Ex)**: At 4th level, the graveslinger gains Blind-Fight as a bonus feat. Additionally, as long as she has 1 grit point, she can always act in surprise rounds that are triggered by haunts and incorporeal undead, even if she fails to notice them. This replaces the bonus feat gained at 4th level.
+
+## More Dares
+
+**Desperate Evasion (Ex)**: While this dare is active, you gain the evasion class feature. If you already have this class feature, while this dare is active you roll twice when making a Reflex saving throw and take the higher result. You regain 1 grit or panache point when you succeed at two Reflex saving throws while using this dare.
+
+**Frantically Nimble (Ex)**: While this dare is active, you gain a +2 dodge bonus to AC. You regain 1 grit or panache point when any enemy making a ranged or melee attack against you misses you three consecutive times. The attacks need not come from the same enemy.
+
+**Run Like Hell (Ex)**: While this dare is active, your speed increases by 10 feet, and you retain your Dexterity bonus to your AC while running. You regain 1 grit or panache point the first time you are more than 100 feet away from your closest enemy.
+
