@@ -492,6 +492,7 @@
 - **[Summon Totem Creature](summon-totem-creature.md)**: Summon creatures sacred to your totem clan.
 - **[Symbol of Exsanguination](symbol-of-exsanguination.md)**: Triggered rune causes nearby creatures to bleed.
 - **[Tactical Formation](tactical-formation.md)**: Adjacent allies gain a deflection bonus to AC.
+- **[Teratoid Caress](teratoid-caress.md)**: A curse deforms the target’s body and punishes good acts.
 - **[Titanic Anchoring](titanic-anchoring.md)**: You become nearly immovable by combat maneuvers.
 - **[Toxic Blood](toxic-blood.md)**: Target's blood sprays black adder venom when cut.
 - **[Transfer Regeneration](transfer-regeneration.md)**: Give your regeneration to another creature
@@ -611,6 +612,7 @@
 - **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
 - **[Summon Accuser](summon-accuser.md)**: Summons an accuser devil to spy for you.
+- **[Summon Barghest I](summon-barghest-i.md)**: Summons one barghest.
 - **[Summon Genie, Lesser](summon-genie-lesser.md)**: Summons a janni.
 - **[Summon Monster IV](summon-monster-iv.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Ship](summon-ship.md)**: conjure a ship
@@ -762,6 +764,7 @@
 - **[Curse of the Outcast](curse-of-the-outcast.md)**: Curse someone to rub people the wrong way.
 - **[Curse Terrain, Greater](curse-terrain-greater.md)**: Curse an area with six dangerous hazards.
 - **[Death Knell Aura, Greater](death-knell-aura-greater.md)**: Death knell aura that also hurts spirits
+- **[Demon Dream](demon-dream.md)**: As *nightmare*, with demonic dreams that drain Wisdom.
 - **[Dimensional Blade](dimensional-blade.md)**: Your melee weapon makes touch attacks.
 - **[Discharge, Greater](discharge-greater.md)**: Discharge many objects or an area.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
@@ -811,6 +814,7 @@
 - **[Source Severance](source-severance.md)**: Suppress either arcane or divine magic around you.
 - **[Speak with Soul](speak-with-soul.md)**: Hold an extended conversation with a soul
 - **[Spellfire Jinx](spellfire-jinx.md)**: Cursed caster burns and may lose spells.
+- **[Summon Barghest II](summon-barghest-ii.md)**: Summons one greater barghest or 1d3 barghests.
 - **[Summon Genie, Greater](summon-genie-greater.md)**: Summons a shaitan, djinn or janni.
 - **[Summon Laborers](summon-laborers.md)**: Summon petitioners to help downtime work
 - **[Summon Monster VI](summon-monster-vi.md)**: Summons extraplanar creature to fight for you.

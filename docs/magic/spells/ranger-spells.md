@@ -253,6 +253,7 @@
 - **[Symbol of Storms](symbol-of-storms.md)**: rune that unleashes hurricane winds and lightning
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
+- **[Thorn Snare](thorn-snare.md)**: As *snare*, and the thorny vine damages whoever it traps.
 - **[Titanic Anchoring](titanic-anchoring.md)**: You become nearly immovable by combat maneuvers.
 - **[Toxic Blood](toxic-blood.md)**: Target's blood sprays black adder venom when cut.
 - **[Tree Shape](tree-shape.md)**: You look exactly like a tree for 1 hour/level.

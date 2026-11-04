@@ -68,3 +68,21 @@ At 7th level, an arcane trickster can use this ability twice per day.
 **Invisible Thief (Su)**: At 9th level, an arcane trickster can become invisible, as if under the effects of *greater* *invisibility,* as a free action. She can remain invisible for a number of rounds per day equal to her arcane trickster level. Her caster level for this effect is equal to her caster level. These rounds need not be consecutive.
 
 **Surprise Spells**: At 10th level, an arcane trickster can add her sneak attack damage to any spell that deals damage, if the targets are flat-footed. This additional damage only applies to spells that deal hit point damage, and the additional damage is of the same type as the spell. If the spell allows a saving throw to negate or halve the damage, it also negates or halves the sneak attack damage.
+
+## Thought Thief
+
+A thought thief will happily rip ideas from their victim's head and their gold from their purse.
+
+**Requirements**: To qualify to become a thought thief, a character must fulfill all the following criteria.
+
+*Alignment*: Any nonlawful.
+
+*Skills*: Disable Device 4 ranks, Escape Artist 4 ranks, Knowledge (arcana) 4 ranks.
+
+*Spells*: Ability to cast *mage hand* and at least one psychic spell of 2nd level or higher.
+
+*Special*: Sneak attack +2d6. This alters requirements.
+
+**Mental Assault (Su)**: At 3rd level, once per day as a standard action, a thought thief can pinpoint a target's trauma and exploit weakness with a deluge of psychic power. This is a melee touch attack that deals damage equal to her sneak attack damage and grants the thought thief control of the target as *dominate person* for a number of rounds equal to her thought thief level. A successful Will save (DC = 10 + the thought thief's level + her Charisma modifier) negates the dominate effect. A thought thief can only use this ability against a target that is susceptible to her sneak attack, such as a target she is flanking. This attack has no effect on creatures without an intelligence score. At 7th level, a thought thief can use this ability twice per day. This replaces impromptu sneak attack.
+
+**Unseen Compulsion**: At 5th level a thought thief can hide the effects of any spell she casts with the mind-affecting and compulsion spell descriptors. Creatures that observe her casting such a spell can attempt a Sense Motive check to notice the spell (DC = 15 + the thought thief's ranks in Bluff + the thought thief's Charisma modifier). Creatures that fail their check are unaware of any effects of the thought thief's spell. This replaces tricky spells.

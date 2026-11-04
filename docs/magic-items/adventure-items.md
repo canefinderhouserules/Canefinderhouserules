@@ -28,6 +28,18 @@ Crafted by shamans of a mountain tribe for their mightiest chieftains, this unde
 
 **Requirements** Craft Magic Arms and Armor, *invigorate*,* rage*,* waves of fatigue*; **Price** 13,030 gp
 
+### Breach Barrier
+
+**Aura** faint abjuration **CL** 3rd
+
+**Slot** none; **Price** 2,370 gp; **Weight** 15 lbs.
+
+This *+1 heavy steel shield* is often stylized by its dwarven crafters to look like a door or archway. Once per day after uttering a command word, the wielder can press this shield against a portal to secure it as per the *hold portal* spell. The shield remains adhered to the portal for 3 minutes, after which the shield comes free. The wielder can remove the shield from her arm as a move action, leaving the shield attached to the portal for the remainder of the duration. Before the end of the duration, the wielder can pull the shield from the portal, automatically ending the effect.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *hold portal*; **Price** 1,270 gp
+
 ### Celestial Plate Armor
 
 **Aura** faint transmutation (good) **CL** 8th
@@ -66,6 +78,24 @@ This red *+2 slick electricity resistance leather armor* is crafted from the ski
 
 **Requirements** Craft Magic Arms and Armor, *elemental aura*,* grease*,* resist energy*; **Price** 16,985 gp
 
+### Flowing Fortress Armor
+
+**Aura** moderate evocation **CL** 10th
+
+**Slot** armor; **Price** 30,350 gp; **Weight** 30 lbs.
+
+This pale-blue *+2 breastplate* is made from flowing ocean water enchanted to retain its shape. The armor check penalty of a suit of *flowing fortress armor* doesn’t apply to Swim checks. When the wearer speaks a command word, the armor flows on or off the wearer, allowing it to be donned or removed with a single move action from up to 10 feet away.
+
+A suit of *flowing fortress armor* has 3 charges, which refresh automatically every day at sunrise. By spending 1 charge as a standard action, the wearer transforms into water for one of two effects.
+
+**Gush**: The wearer transforms into water and bursts forward like a geyser up to 40 feet in any direction, then returns to her normal form, allowing her to cross chasms or vault obstacles. The wearer may attempt bull rush combat maneuvers against any creatures and moveable objects along her path, regardless of size. The wearer rolls a single combat maneuver check and applies the result to each creature within the area. This bull rush does not provoke an attack of opportunity. If the wearer encounters an immovable object, she may attempt a Strength check to destroy that object as a free action. On a failed bull rush combat maneuver check or Strength check, the wearer’s progress is stopped and she reforms next to the obstacle that blocked her path.
+
+**Melt**: The wearer melts into a puddle, gaining a swim speed of 60 feet, the ability to flow through any space a Tiny creature could squeeze through, and a +8 circumstance bonus on Stealth checks. The wearer can see and hear normally, but can’t speak, attack, or cast spells in this form. This transformation lasts up to 10 minutes, but may be dismissed as a free action.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *control water*, *elemental body I*; **Price** 15,350 gp
+
 ### Ghost Mirror Armor
 
 **Aura** strong abjuration and transmutation **CL** 15th
@@ -101,6 +131,18 @@ Crafted from the scaled hide of a black dragon and lined with wolliped fur for w
 **Construction**
 
 **Requirements** Craft Magic Arms and Armor, *heroism*,* resist energy*,* shield* or *shield of faith*, creator must have 5 ranks in the Ride skill; **Price** 9,405 gp
+
+### Hide of the Hagfish
+
+**Aura** moderate transmutation **CL** 10th
+
+**Slot** armor; **Price** 18,165 gp; **Weight** 25 lbs.
+
+When a great permanent storm drowned their coast, its inhabitants have been forced to look to strange new places for resources. Hagfish hide may well be one of the most unusual replacement materials. This suit of *+1 slick hide armor* appears to constantly drip a viscous ooze. When immersed in water, the wearer gains a swim speed of 20 feet and the ability to breathe underwater. The slime exuded by the armor is particularly unpleasant and foul-tasting—the first time a creature successfully bites a character wearing *hide of the hagfish* in a 24 hour period, that creature must succeed at a DC 14 Fortitude saving throw to avoid being nauseated by the slime for 1 round.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *grease*, *water breathing*; **Price** 9,165 gp
 
 ### Honor's Panoply
 
@@ -238,6 +280,20 @@ This *+1 scale mail* is made from hardened, reinforced snakeskin scales. The arm
 
 **Requirements** Craft Magic Arms and Armor, *invisibility*,* silence*,* spider climb*; **Price** 4,450 gp
 
+### Starsling Buckler
+
+**Aura** moderate evocation and transmutation **CL** 6th
+
+**Slot** none; **Price** 14,000 gp; **Weight** 5 lbs.
+
+This *+2 buckler* is emblazoned with a swirl of stars and comets. Many star-gazing monks commissioned these bucklers as markers of high social standing; they had them each decorated with unique depictions of constellations, comets, phases of the moon, or other distinctive astronomical sights, and used them as much as decor as for defense.
+
+As a swift action, the user of a *starsling buckler* can cause the face to illuminate and whirl to life, duplicating the effect of the *light* spell. The stars, comets, and sun begin to glow as they lift off the shield and spin around in a brilliant display. They can be fired from the spinning celestial vortex as if via a *+2 sling* (the user is considered proficient with the sling for purposes of resolving such attacks from a *starsling buckler*). All feats and proficiencies related to slings apply to stars fired from a *starsling buckler*. These sling attacks cannot be made as offhand weapon attacks. The shield contains five sling stars— once all five have been fired, new sling stars are restored to the shield automatically after 1 minute.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *light*, *magic stone*; **Price** 7,000 gp
+
 ### Suit of Inverted Jade
 
 **Aura** strong necromancy **CL** 14th
@@ -290,6 +346,22 @@ This reflective *+1 breastplate* is decorated with a sword-and-starburst symbol.
 
 **Requirements** Craft Magic Arms and Armor, *bless weapon*,* remove fear*; **Price** 1,390 gp
 
+### Vibrant Frog Hide
+
+**Aura** moderate transmutation **CL** 7th
+
+**Slot** armor; **Price** 28,165 gp; **Weight** 25 lbs.
+
+Cut from the colorful flesh of an enormous frog, this *+1 hide armor* squishes thickly and tightly around the body as it is donned. Light sheens brightly off the slippery skin, revealing vivid patterns in myriad hues.
+
+Five times per day as a swift action, the wearer of a *vibrant frog hide* can cause the armor to ooze a virulent toxin. The next creature that touches the wearer must succeed at a DC 16 Fortitude save or take 1d3 points of Wisdom damage every round for 4 rounds. A poisoned creature can attempt the save again at the beginning of each of its turns, and is cured after one successful save. Successful unarmed strikes and natural weapon attacks made by or against the wearer count as touching. The wearer is immune to his own *vibrant frog hide’s* poison.
+
+After being worn for 24 hours, a suit of *vibrant frog hide* armor causes the wearer to grow a froglike tongue. The tongue acts as a whip for the purposes of damage, reach, and special features, except that it is a natural weapon with which the wearer is automatically proficient. In addition to its normal trip and disarm weapon features, the tongue may also be used to perform a dragAPG combat maneuver with a +2 circumstance bonus, but only to pull a creature closer to the wearer (the wearer cannot step back as part of this attack). The wearer cannot speak or cast spells with verbal components for 1 round after he uses his new tongue to attack (including any attacks of opportunity).
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *beast shape II*, *poison*; **Price** 14,000 gp
+
 ### Warlord’s Armor
 
 **Aura** faint transmutation **CL** 5th
@@ -302,7 +374,39 @@ This battered, well-used suit of *+1 half-plate* automatically resizes itself to
 
 **Requirements** Craft Magic Arms and Armor, *righteous might*; **Price** 6,350 gp
 
+### Windstrider Mail
+
+**Aura** faint evocation and transmutation **CL** 5th
+
+**Slot** armor; **Price** 10,100 gp; **Weight** 10 lbs.
+
+Sleek dull gray stripes line the sides of this *+1 mithral chain shirt*, slightly marring the otherwise shining metal. When worn, the wearer’s clothing and hair dance about as though caught in a faint breeze, no matter the prevailing weather conditions.
+
+Three times per day as a standard action, the wearer can momentarily transform into a surge of living wind, moving up to 60 feet in a straight line. This line need not be horizontal; the effect can be used to traverse hazards or reach elevated platforms. All creatures in the line between the wearer’s starting point and destination are blasted by the squall. The wearer attempts a trip combat maneuver against every creature in the area, with a +5 circumstance bonus on those checks. Failed trip attempts do not stop the wearer’s movement, and these maneuvers and movement do not provoke any attacks of opportunity. Any flying creature in the area must succeed at a DC 15 Fly check or fall 20 feet, taking appropriate damage and falling prone if it reaches a solid surface.
+
+Creatures more than one size category larger than the wearer are not affected by a wearer taking advantage of a suit of *windstrider mail’s* living wind effect, but they do not inhibit the wearer’s movement. If the wearer’s path is blocked by an object, such as a door, she may continue moving forward with a successful Strength check to break the obstacle as a free action. If this check fails, her movement is halted and she takes damage as if she had fallen the distance that she traveled. If the wearer’s movement does not end on a surface that can support her weight, she falls to the ground upon transforming back.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *gaseous form*, *gust of wind*; **Price** 4,100 gp
+
 ## Weapons
+
+### Angelfall Bow
+
+**Aura** moderate evocation **CL** 7th
+
+**Slot** none; **Price** 26,900 gp; **Weight** 3 lbs.
+
+Black feathers adorn the tips of this ebony *+1 composite longbow* (+5 Strength bonus). The bow gives off the faint scent of brimstone when the string is drawn back.
+
+Three times per day as a swift action, the wielder of an *angelfall bow* can imbue the next arrow she fires that round with the bow’s inherent raging energy. On a hit, the attack deals damage as normal and acts as a trip combat maneuver to knock the target prone, treating the result of the wielder’s attack roll as the combat maneuver check result. If the target is flying, it must immediately succeed at a DC 25 Fly check to stay aloft or plummet to the ground.
+
+Once per day when the wielder of an *angelfall bow* would be affected by a spell or spell-like ability with the light descriptor, she can attempt an immediate dispel check (using the caster level of the bow) to counter the effect. This manifests as a pulsating darkness emerging from the bow and swallowing the light.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *dust of twilight*APG,* thundering drums*APG; **Price** 13,750 gp
 
 ### Ash Hammer
 
@@ -330,6 +434,18 @@ An *axe of the imperative* is a *+1 battleaxe* that cuts through willpower and r
 
 **Requirements** Craft Magic Arms and Armor, *mark of justice*; **Price** 2,830 gp
 
+### Barracuda's Bite
+
+**Aura** moderate transmutation **CL** 6th
+
+**Price** 4,315 gp; **Weight** —
+
+The tines of this trident are fang-like, and its haft is wrapped in small-scaled dark green leather. Three times per day on command as a swift action, the weapon can extend its reach by 10 feet for a single attack. The weapon is otherwise a *+1 trident*.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *blink*; **Price** 2,315 gp, 160 XP
+
 ### Betrothed’s Love
 
 **Aura** moderate transmutation [good] **CL** 7th
@@ -341,6 +457,18 @@ The fire-blackened blade of this hopeknife bears the inscription “my love” i
 **Construction**
 
 **Requirements** Craft Magic Arms and Armor, *blade of bright victory*UM,* daylight*; **Price** 2,677 gp
+
+### Blade of the Ice Stalker
+
+**Aura** strong evocation **CL** 12th
+
+**Slot** none; **Price** 32,310 gp; **Weight** 2 lbs.
+
+An unnaturally cold, razor-thin blade of magically-hardened ice juts from the pommel of this *+1 frost keen short sword*. On a confirmed critical hit, an ice shard breaks off into the wound and inflicts numbing cold. For the next 5 rounds, the victim takes 2 points of cold damage and is staggered for that round if he takes this damage. This is a bleed effect. The shard can be removed as a standard action with a successful DC 15 Heal check or with the application of any magical healing, and is destroyed instantly if the victim takes at least 5 points of fire damage from any attack. The shard lasts for only 1 round when inflicted on a creature with the fire subtype. A *blade of the ice stalker* can implant an ice shard once per minute.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *bleed*, *chill metal*, *keen edge*; **Price** 16,310 gp
 
 ### Blade of the Leopard
 
@@ -382,6 +510,20 @@ This *+1 boarding pike* is an 8-foot-long pole topped with a tapered metal spear
 
 **Requirements** Craft Magic Arms and Armor, *wood shape*; **Price** 2,308 gp
 
+### Bonespur Dagger
+
+**Aura** moderate necromancy **CL** 6th
+
+**Slot** none; **Price** 6,302 gp; **Weight** 2 lbs.
+
+A *bonespur dagger* appears to have been crafted from a humanoid radius and ulna, sharpened to a razor edge and needle point just below where the elbow would be located and fitted with a hilt made of wood and bone. While the weapon looks fragile, the magic that infuses the grisly blade tempers and strengthens it to the level of steel. A bonespur dagger functions as a *+1 punching dagger*, save that on a successful critical hit, the weapon strikes bone and cracks it. The creature so struck must make a DC 15 Fortitude save to resist suffering a -2 penalty to Strength for 1 minute from this pain; penalties from multiple successful critical hits stack up to 3 times.
+
+As a curious side effect, bonespur daggers penetrate the damage reduction of animated skeletons and skeletal champions (but not other skeletal undead) as if they were bludgeoning weapons rather than piercing weapons.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor; *ray of enfeeblement*; **Price** 3,302 gp
+
 ### Brine’s Sting
 
 **Aura** moderate necromancy **CL** 8th
@@ -409,6 +551,18 @@ Up to three times per day as a swift action, the wielder can modify a loaded bol
 **Construction**
 
 **Requirements** Craft Magic Arms and Armor, *break enchantment*,* calm emotions*,* mind fog*; **Price** 41,175 gp
+
+### Conflagration Pike
+
+**Aura** faint evocation **CL** 3rd
+
+**Slot** none; **Price** 3,110 gp; **Weight** 12 lbs.
+
+This *+1 ranseur* is warm to the touch. Once per day as an immediate action after successfully attacking a target with the ranseur, the wielder can command it to burst into flames, dealing an extra 2d6 points of fire damage to the target and 1d6 points of fire damage to the wielder. The fire goes out immediately afterward.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *burning hands*; **Price** 1,710 gp
 
 ### Crossbow of the Crab
 
@@ -445,6 +599,18 @@ The original *crystalline starknife* was the weapon of a powerful priestess of t
 **Construction**
 
 **Requirements** Craft Magic Arms and Armor, *daylight*,* shatter*; **Price** 10,324 gp
+
+### Dagger of Repose
+
+**Aura** moderate conjuration **CL** 8th
+
+**Slot** none; **Price** 8,902 gp; **Weight** 1 lb.
+
+This short, curved dagger shimmers with folded layers of iron and steel. It acts as a *+1 undead-bane dagger*. Once per day when the dagger of repose is used to perform a coup de grace to slay a living creature, the wielder can bless the victim’s corpse, preventing the victim from rising as an undead because of ongoing diseases or curse effects. This protection also prevents the victim’s corpse from being animated by necromancy magic such as *animate dead* or *create undead* for 24 hours.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *sanctify corpse*, *summon monster I*; **Price** 4,602 gp
 
 ### Daikyu of Commanding Presence
 
@@ -484,6 +650,20 @@ This *+1 kusarigama* makes a shrill whistling sound whenever it is used in comba
 
 **Requirements** Craft Magic Arms and Armor, *death knell*,* inflict critical wounds*; **Price** 7,318 gp
 
+### Depth Charger
+
+**Aura** moderate conjuration and transmutation **CL** 11th
+
+**Slot** none; **Price** 58,800 gp; **Weight** 3 lbs.
+
+Carved to look like the bones of fish, the barrel and mechanical components of this blunderbuss are made of mithral. A *depth charger* is a *+2 reliable*UE* blunderbuss*UE that gains an additional +2 enhancement bonus on attack rolls against creatures with the aquatic subtype, and deals an additional 2d6 points of damage to such creatures with a successful attack. All ammunition used by a* depth charger* is considered to have the *dry load*UE weapon special ability in addition to any other magical enhancements it previously contained.
+
+When a *depth charger* is wielded underwater, it enables its wielder to breathe normally. The wielder can continue to breathe underwater for a total of 12 hours as long as she continues to hold the blunderbuss. These hours do not have to be consecutive but must be used in 1-hour increments. The available breathing time is reset only if a *depth charger* is kept dry for 12 continuous hours.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, GunsmithingUC, *air bubble*UC,* mending*, *summon monster I*, *water breathing*; **Price** 30,550 gp
+
 ### Dimensional Grenade
 
 **Aura** moderate conjuration **CL** 7th
@@ -509,6 +689,18 @@ In addition, in the round following a successful disarm attack with the *dragonm
 **Construction**
 
 **Requirements** Craft Magic Arms and Armor, *blade barrier*,* confusion*; **Price** 15,102 gp
+
+### Earthcracker
+
+**Aura** moderate evocation **CL** 12th
+
+**Slot** none; **Price** 20,340 gp; **Weight** 18 lbs.
+
+Molded and crafted from a single large chunk of raw iron ore, this *+1 thundering earth breaker*UE is as cool as loose soil to the touch. Three times per day as a standard action, the wielder may slam an* earthcracker* against the ground, causing earth and stone to rise and fall in a violent wave that travels in a 30-foot line from the wielder’s location. All of the affected squares become difficult terrain. The wielder can perform a free trip combat maneuver on a single creature within the affected squares; this attempt does not provoke attacks of opportunity and the wielder is not knocked prone if the attempt fails. If the trip combat maneuver check is a natural 20, the blow is so mighty that it also deals 2d8 points of sonic damage to the target.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *blindness/deafness*, *stone shape*; **Price** 28,300 gp
 
 ### Emberchill
 
@@ -638,6 +830,24 @@ This *+2 scythe* has a handle carved of bone and topped with a single onyx gem. 
 
 **Requirements** Craft Magic Arms and Armor, *enervation*; **Price** 9,918 gp
 
+### Heartripper Blade
+
+**Aura** moderate conjuration, divination, and evocation **CL** 10th
+
+**Slot** weapon; **Price** 11,302 gp; **Weight** —
+
+This *+1 dagger* is granted baleful powers when used in bloody sacrifice. Whenever used to deliver a coup de grace, the *Heartripper Blade* pulls the victim’s still-beating heart free from his body. You may then consume the heart to gain any of the following abilities.
+
+You may eat the heart to gain a simultaneous *remove disease*, *restoration*, and *cure serious wounds* effect.
+
+You may utter a command word and cause the heart to burst into flames, after which the Blade becomes a *+2 flaming burst dagger* for 1 hour. This consumes the heart.
+
+You may speak a blasphemous second command word to cause the heart to boil and smoke. Breathing in the smoke gives you glimpses of the future or far off places and objects, granting you the ability to use *divination* or *scrying*. This consumes the heart.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *flame blade*, *keen edge*, *restoration*, *scrying*; **Price** 5,802 gp, 440 XP
+
 ### Heartspit
 
 **Aura** moderate evocation **CL** 8th
@@ -663,6 +873,20 @@ On a critical hit, *hunter’s harpoon* lodges into the target’s flesh or armo
 **Construction**
 
 **Requirements** Craft Magic Arms and Armor, *keen edge*,* telekinesis*; **Price** 25,302 gp
+
+### Ice Fang
+
+**Aura** moderate evocation **CL** 9th
+
+**Slot** none; **Price** 39,515 gp; **Weight** 2 lbs.
+
+This *+2 frost short sword* has a blade made of sparkling blue ice. Anyone wielding an *ice fang* is protected from cold weather as if they were affected by *endure elements*. As a move action, the wielder may cause the blade to either grow to the size of a longsword, melt away to the size of a dagger, or return to its original size. An *ice fang* left unattended automatically reverts to its original size in 1 minute. An *ice fang* functions as a dagger, short sword, or longsword depending on the current size of its blade.
+
+Once per day upon confirming a critical hit, the wielder may choose to have the blade shatter and send razor-sharp shards of ice flying in a 15-foot cone. The original target of the attack must be within this cone’s area of effect. Roll the damage for the critical hit normally and apply to the original target. All other creatures in the cone take damage equal to the amount of the critical hit; one half of this damage is piercing, the other half is cold damage. A successful DC 16 Reflex saving throw reduces the damage by half. After using this ability, the wielder must spend a standard action to reform the blade of the *ice fang*, at any size, before it can be used as a weapon again.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *endure elements*, *ice storm*, *shrink item*; **Price** 19,915 gp
 
 ### Icicle Wand
 
@@ -690,6 +914,44 @@ An *impaler of thorns* is a *+1 longspear*. Once per day as it strikes a foe, th
 
 **Requirements** Craft Magic Arms and Armor, *cat’s grace*,* crushing despair*,* delay poison*; **Price** 4,500 gp
 
+### Iron Lash
+
+**Aura** strong necromancy **CL** 15th
+
+**Slot** none; **Price** 90,335 gp; **Weight** 6 lbs.
+
+This *+2 cold iron bastard sword *becomes a* +2 unholy cold iron bastard sword *in the hands of an antipaladin sworn to a demon lord of lust and darkness. In the hands of a good creature,* Iron Lash *bestows one permanent negative level as though it were* unholy *while granting none of the associated benefits of the unholy special ability.
+
+Once per day, the wielder of this sword can cast *finger of death* with a range of 60 feet, dealing 150 points of damage on a successful hit. If the target succeeds at a DC 20 Fortitude saving throw, the attack instead deals 3d6+15 points of damage. This is a death effect.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor,* finger of death*, *unholy blight*, creator must be chaotic evil; **Price** 45,335 gp
+
+### Jackal's Blade
+
+**Aura** strong evocation [evil] **CL** 13th
+
+**Slot** none; **Price** 43,375 gp; **Weight** 7 lbs.
+
+A *jackal’s blade* appears as a well-used falchion. The handle looks aged and unpleasant, but despite these cosmetic features, the blade is quite sharp, functioning as a *+2 unholy falchion*. The weapon inflicts particularly grievous wounds on paladins and lawful good clerics, functioning as a *bane* weapon against such targets. It also functions as a divine focus for worshipers of the goddess of monsters. When used as such for casting a spell, the user gains a +4 bonus on any concentration checks needed to complete that spell.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *bane, unholy blight*; **Price** 22,875 gp
+
+### Keyhole Stiletto
+
+**Aura** moderate transmutation **CL** 11th
+
+**Slot** none; **Price** 23,002 gp; **Weight** 1 lb.
+
+This sturdy *+1 ghost touch adamantine dagger* can be used as a punch to destroy the workings of a lock or other mechanical device, granting a +2 bonus to Disable Device checks for that purpose, but leaving obvious signs of tampering. Its true usefulness becomes evident when wielded against force magic. The wielder of a *keyhole stiletto* ignores armor bonuses granted by a force effect (such as the *mage armor* spell or *bracers of armor*). Once per day, the user may whisper a command word to allow the stiletto to cut a single small hole in a force effect such as a *wall of force* or *resilient sphere*. The hole can be any shape, but the blade cannot cut a line longer than 3 feet or carve a circle wider than 1 foot.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *disintegrate*, *plane shift*; **Price** 13,002 gp
+
 ### Korrigan Club
 
 **Aura** moderate transmutation **CL** 8th
@@ -713,6 +975,20 @@ The *lashing aklys* was first invented by derro magisters to bolster their abili
 **Construction**
 
 **Requirements** Craft Magic Arms and Armor, *animate rope*; **Price** 2,305 gp
+
+### Leviathan's Terror
+
+**Aura** faint evocation and necromancy **CL** 5th
+
+**Slot** none; **Price** 22,105 gp; **Weight** 16 lbs.
+
+This *+2 ominous harpoon* is carved from a bleached whale bone and bound with the spirit of an ancient beast that rumbles with a low, mournful call each time the barbed tip strikes. Holding the weapon fills the wielder with the nerve to face even the most imposing foes, granting her a +2 morale bonus on saving throws against the frightful presence universal monster ability. She does not take the usual –4 penalty to use the Intimidate skill on a target larger than her as long as she carries the *leviathan’s terror* on her person.
+
+Three times per day, the wielder of a *leviathan’s terror* can call on the spirit in the weapon to enlarge her musculature, drain the color from her skin, and turn her exhalations to rolling fog for a 1-minute period. During this time, once as a standard action, she can attempt an Intimidate check to demoralize all enemies that are at least one size category larger than her within a 30-foot radius. During this period, the wielder also gains a +1 size bonus on combat maneuver checks and to CMD and is treated as one size category larger for the purposes of determining the effects of attacks and abilities that limit their use on larger creatures (such as tripping creatures of a larger size category or for determining what creatures can be targeted by the grab ability), although her actual size category does not change.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *enlarge person*, *scare*; **Price** 11,705 gp
 
 ### Master's Lash
 
@@ -861,6 +1137,20 @@ In addition, once per day as a swift action before an attack, a *rimeblade’s* 
 **Construction**
 
 **Requirements** Craft Magic Arms and Armor, *chill touch*; **Price** 2,812 gp
+
+### Sacrificial Spear
+
+**Aura** faint evocation **CL** 5th
+
+**Slot** held; **Price** 1,802 gp; **Weight** —
+
+An ashen shaft with a steel blade, this finely crafted masterwork shortspear holds a removable shard of carnelian at its base. By crushing the gem as a move action, the spear explodes as per the spell *fireball*. This detonation is centered on the spear and deals 5d6 points of fire damage to all creatures within a 20-foot-radius spread. The spear’s bearer or allies are not immune to this damage (unless they have immunity to fire from another source) and the weapon is destroyed.
+
+A *sacrificial spear* can be detonated at a range by spending a full-round action to throw the spear and crush the gem. If the attack roll hits the target, the *fireball* is centered on the target, otherwise refer to the thrown weapons chart to determine where the spear lands (PH 158). Each spear has a specific shard attuned to it at the time of its creation, which can be removed or reaffixed to its spear as a standard action.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *fireball*; **Price** 1,052 gp, 60 XP
 
 ### Sadist's Lash
 
@@ -1150,6 +1440,20 @@ This *+1 returning harpoon* is made from the jagged, scrimshaw-carved tusk of a 
 
 **Requirements** Craft Magic Arms and Armor,* freedom of movement*,* telekinesis*; **Price** 5,305 gp
 
+### Water Scorpion
+
+**Aura** faint transmutation **CL** 1st
+
+**Slot** none; **Price** 5,360 gp; **Weight** —
+
+This wood and iron weapon resembles a light crossbow with a very short prod. The prod itself is non-functional, but provides the *water scorpion* with excellent balance. The *water scorpion* functions as a *+1 weapon* that magically produces a stream of holy water with a range of 30 feet each time it is fired. The stream strikes its opponent as a ranged touch attack that deals 2d4+1 points of damage to undead and evil outsiders. To other creatures it is harmless. Only one stream might be fired each round, but there are rumors of *water scorpions of speed* created from the original.
+
+Anyone proficient with crossbows may use a *water scorpion* without penalty.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *bless water*, *create water*, *magic weapon*; **Price** 2,680 gp, 107 XP
+
 ### Wavecutter
 
 **Aura** moderate abjuration **CL** 10th
@@ -1161,6 +1465,22 @@ This unusual *+1 keen terbutje* is made of sharp chunks of quartz embedded along
 **Construction**
 
 **Requirements** Craft Magic Arms and Armor, *freedom of movement*,* keen edge*; **Price** 5,320 gp
+
+### Whisper and Shadow
+
+**Aura** moderate illusion **CL** 10th
+
+**Slot** weapon; **Price** 12,310 gp; **Weight** —
+
+12,310 gp is the price for each sword in the pair.
+
+These cruel, paired *+1 cold iron shortswords* where once wielded by the Doom Bringers at the end of the First World and were thought to be lost. Recently, pairs of these blades have emerged once more, finding their way into the hands of men and elves. Most sages consider their reappearance a dark omen, though only the most erudite even know these weapons’ true origins. When you use *Whisper and Shadow* in tandem you gain the Two Weapon Fighting feat (even if you do not qualify for it).
+
+Additionally, three times per day, *Whisper* may be used to cast *silence* (CL 10th, DC 20). Three times per day, *Shadow* may be used to cast *invisibility* (CL 10th), or the blade itself can be turned invisible for one round, making it incredibly difficult to parry and dodge. If your opponent cannot see invisible objects and does not succeed on a DC 25 Spot check to follow your arm motions, he is considered flat-footed against all your attacks with *Shadow* that round.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *invisibility*, *silence*; **Price** 6,155 gp, 480 XP
 
 ### Whispering Shrike
 
@@ -1186,6 +1506,32 @@ A *wizard hook* is a *+1 hook hand* and a useful item for any arcane spellcaster
 
 **Requirements** Craft Magic Arms and Armor, *spectral hand*; **Price** 2,310 gp
 
+### Wolflord's Fang
+
+**Aura** moderate transmutation **CL** 9th
+
+**Slot** none; **Price** 34,335 gp; **Weight** 6 lbs.
+
+This *+2 huntsman bastard sword* has a grip bound in leather and trimmed with fur. Once per round when the wielder strikes a target with the sword, he can allow an ally of his choice to perform a trip combat maneuver against the target as an immediate action, provided the ally is adjacent to the target struck. This trip attempt doesn’t provoke attacks of opportunity. If the attempt fails, the wielder’s ally is not tripped in return.
+
+As a standard action on command three times per day, the wielder can unleash a spine-chilling howl. When he does so, he attempts a single Intimidate check to demoralize all opponents within 30 feet that can hear the howl. Allies within 30 feet can join the howl as an immediate action to aid the wielder’s Intimidate check, granting a +2 bonus to the wielder’s check for each ally who succeeds at a DC 10 Intimidate check. Allies who howl can also immediately take a 5-foot step. This movement does not count against their ability to move or take a 5-foot step earlier or later in the round.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *aspect of the wolf*, *detect animals or plants*; **Price** 17,335 gp
+
+### Wyvernsting
+
+**Aura** moderate transmutation **CL** 9th
+
+**Slot** weapon; **Price** 8,335 gp; **Weight** —
+
+This fell *+1 light crossbow*, made from wyvern sinew and bone and marked with ancient sigils, bestows a minor poison upon its ammunition (injury DC 15, 1d4 Dex/1d4 Con).
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *poison*; **Price** 4,167 gp, 320 XP
+
 ## Rings
 
 ### Commander’s Signet
@@ -1199,6 +1545,24 @@ This ornate *ring of protection +2* is emblazoned with a winged eye, emblem of t
 **Construction**
 
 **Requirements** Forge Ring, *eagle’s splendor*,* magic mouth*,* shield of faith*; **Cost** 7,750 gp
+
+### Ophidian Coil
+
+**Aura** faint transmutation **CL** 5th
+
+**Slot** ring; **Price** 15,000 gp; **Weight** —
+
+This small wooden ring resembles a serpent with tiny gemstone eyes coiling around the wearer’s finger. If worn for 24 hours, it causes its wearer to manifest many serpentine traits. The wearer’s skin develops a faint, diamond-shaped pattern, and the pupils of her eyes elongate. The wearer grows a pair of fangs, gaining a bite attack as a primary natural attack that deals 1d4 points of piercing damage for a Medium wearer or 1d3 points of damage for a Small wearer.
+
+Three times per day as a free action, the wearer of the ring may cause her fangs to drip with venom, making her bite attack poisonous for 1 round. The save DC of this poison is equal to 10 + 1/2 the wearer’s Hit Dice + the wearer’s Constitution modifier, but otherwise acts as black adder venom. If the wearer rolls a natural 1 on an attack with her poisonous bite, she is exposed to the poison.
+
+Once per day as a standard action, the wearer may command her tongue to lengthen and become forked for 1 minute, gaining the scent special ability. While this ability is active, the wearer has a 20% chance of failure when casting any spell with a verbal component, as the tongue makes it difficult to speak.
+
+The ring makes its wearer more sensitive to cold. She takes a –2 penalty to saves against spells with the cold descriptor and the effects of cold weather. Additionally, if the wearer is successfully affected by a spell with the cold descriptor, she is slowed for 1 round.
+
+**Construction**
+
+**Requirements** Forge Ring, *beast shape I*, *poison*; **Cost** 7,500 gp
 
 ### Ring of Blood Calling
 
@@ -1225,6 +1589,18 @@ A *ring of immolation* is made of pumice and hardened ash but is as strong as me
 **Construction**
 
 **Requirements** Forge Ring, *fire shield*; **Cost** 6,000 gp
+
+### Ring of Inurement
+
+**Aura** faint abjuration **CL** 1st
+
+**Slot** ring; **Price** 1,000 gp; **Weight** —
+
+This humble ring is crafted from smooth red and blue porcelain and wrapped with threads of copper. Each morning, the ring’s wearer must select either hot or cold, and for the next 24 hours the *ring of inurement* affords basic protection from the selected condition as if she were using *endure elements* and superficially alters the wearer’s clothing to better accommodate her, growing fur linings and extra layers in frigid environs or lightening fabric in response to high temperatures. The ring protects only the wearer who determined its properties for the day, and its protection immediately ends for the day if it is removed.
+
+**Construction**
+
+**Requirements** Forge Ring, *endure elements*, *prestidigitation*; **Cost** 500 gp
 
 ### Ring of Resistance
 
@@ -1322,6 +1698,28 @@ A *ring of stony flesh* gives the wearer’s skin the appearance of flexible sto
 
 **Requirements** Forge Ring, *stone to flesh*,* stoneskin*; **Cost** 9,000 gp
 
+### Ring of the Clean Hands
+
+**Aura** strong transmutation **CL** 9th
+
+**Price** 18,000 gp; **Weight** —
+
+This delicate ring of forged bronze is formed into the shape of two hands, which do not quite touch as they meet at the top of the wearer’s finger. A *ring of the clean hands* grants use of *telekinesis* as a standard action and has 10 charges. These charges return at the start of the next day.
+
+The ring’s charges can be expended to create the following effects:
+
+*Combat maneuver*: This effect costs 3 charges for each round it is active, but otherwise functions as described by the spell *telekinesis*. The force created by this effect has a +9 base attack bonus, and is considered to have Strength 20 and Dexterity 20.
+
+*Force lash*: This effect costs 3 charges, striking out as if with an invisible whip. One target within 60 feet must make a DC 17 Will save or be struck for 4d6 points of nonlethal damage. This attack does not affect targets with a +3 or higher natural armor bonus, or a +1 or higher armor bonus.
+
+*Sustained force*: This effect costs 1 charge for each round it is active, but otherwise functions as described by the spell *telekinesis*, making it capable of lifting 225 lbs.
+
+*Violent thrust*: This effect costs 5 charges, but otherwise functions as described by the spell *telekinesis*, allowing you to throw up to 9 creatures or objects up to 90 feet, with a total weight of 225 lbs. The attack roll has a +9 modifier. The Will save is DC 17.
+
+**Construction**
+
+**Requirements** Forge Ring, *telekinesis*; **Cost** 9,000 gp, 720 XP
+
 ### Ring of the Iron Skull
 
 **Aura** faint divination **CL** 5th
@@ -1378,6 +1776,18 @@ A *seven-pointed ring* grants a +3 deflection bonus to AC, a +3 resistance bonus
 
 **Requirements** Forge Ring, *endure elements*,* resistance*,* shield*; **Cost** 17,500 gp
 
+### The Bloodflame Ring
+
+**Aura** strong transmutation **CL** 15th
+
+**Slot** ring; **Price** 26,000 gp; **Weight** —
+
+This beautiful adamantine ring is warm to the touch. Artful pictures etched inside it tell the tale of its creation; the imagery claims that this ring was one of the first items crafted by employing heat to coerce metal into shape. When worn, it transforms your blood into pure molten iron, which does not harm you, and provides certain benefits: you gain the fire subtype. Any creature striking you with its body or a handheld weapon deals normal damage, but at the same time the attacker takes 1d6 points of fire damage. Creatures that drain blood (such as stirges and vampires) take the standard fire damage for attacking you and you do not suffer any effects of their blood drain special ability. you count as a ferrous creature for the purpose of rusting grasp and similar effects.
+
+**Construction**
+
+**Requirements** Forge Ring, *fire shield*, *iron body*; **Cost** 13,000 gp, 1,040 XP
+
 ### Valor Knight’s Ring
 
 **Aura** faint enchantment and transmutation **CL** 5th
@@ -1403,6 +1813,36 @@ This 3-foot-long iron rod has a flanged, conical head and strikes as a *+1 light
 **Construction**
 
 **Requirements** Craft Rod, *locate object*; **Cost** 4,250 gp
+
+### Famine Rod
+
+**Aura** moderate necromancy **CL** 6th
+
+**Slot** held; **Price** 24,000 gp; **Weight** 3 lbs.
+
+A *famine rod* is a 2-foot length of ebony carved in the likeness of a gaunt, emaciated man. As a standard action, the wielder can expend 1 charge to make a ranged touch attack against a foe within 60 feet, dealing 2d6 points of damage on a hit. The wielder gains temporary hit points equal to half of the damage the rod deals. The temporary hit points disappear 1 hour later. The wielder can expend 3 charges to deal 4d6 points of damage instead.
+
+A *famine rod* has 10 charges when found. Spent charges are renewed once per week, so that a wielder can expend up to 10 charges in any 1-week period.
+
+**Construction**
+
+**Requirements** Craft Rod, *vampiric touch*; **Cost** 12,000 gp, 960 XP
+
+### Fool's Scepter
+
+**Aura** strong divination and enchantment **CL** 12th
+
+**Slot** none; **Price** 50,000 gp; **Weight** 3 lbs.
+
+This wooden marotte is topped with a jester’s head whose comical face takes on the likeness of the wielder. As a free action, the wielder of a *fool’s scepter* can speak through the jester’s head and imitate voices and sounds with a volume up to that of a dragon’s roar. The wielder can also cause the jester’s face to transform into the comic likeness of any creature she can visualize. Using a *fool’s scepter* in this manner grants a +5 circumstance bonus to Perform (comedy) checks.
+
+Once per day as a standard action, the wielder can cause the jester head to take on the likeness of an individual creature within 60 feet and then harangue that creature with magically honed mockery. If the creature possesses an Intelligence of 3 or higher, they are dazed with humiliation for 2d6 rounds and shaken for 10 minutes. This is a mind-affecting, language-dependent compulsion effect, and is negated by a successful DC 15 Will saving throw.
+
+Once per week as a standard action, the wielder can query the jester’s head for information regarding an individual creature. The head transforms into the likeness of that creature and recites a number of jocular stories over the next 2d6 × 10 minutes, providing information as per the *legend lore* spell. If the subject of the wielder’s query is present and within 60 feet, the head also provides information regarding the subject’s thoughts, desires, personality, and motivations as if using *detect thoughts*, though the subject may negate this divination with a successful DC 15 Will save. In this circumstance, the head always answers in a voice that is loud enough to be audible to the subject of the query.
+
+**Construction**
+
+**Requirements** Craft Rod, *ghost sound*, *hideous laughter*, *legend lore*; **Cost** 25,000 gp
 
 ### Lava Rod
 
@@ -1431,6 +1871,36 @@ A *nightmare rod* is a wooden rod with a smooth, purple, crystalline octopus clu
 
 **Requirements** Craft Rod, *fear*,* nightmare*,* phantasmal killer*,* remove fear*; **Cost** 40,000 gp
 
+### Pyroclastic Spike
+
+**Aura** moderate transmutation **CL** 7th
+
+**Slot** none; **Price** 28,000 gp; **Weight** 5 lbs.
+
+This 3-foot-long, magically reinforced obsidian rod is capped with a globe of volcanic glass at one end, and a gleaming spike at the other. Veins of molten earth glow faintly beneath the rod’s surface, flowing from a swirling fiery mass at the orb’s core.
+
+Once per day, the spiked end can be driven into sand, mud, or loose earth as a move action, into dense soil or loose gravel as a standard action, or into stone or metal as a full-round action. Once anchored, the earth in a path that is 5 feet wide and 30 feet long cracks and erupts with superheated gases in the direction of the wielder’s choosing, originating in a square adjacent to the *pyroclastic spike*. Creatures standing in the path take 2d6 points of fire damage (Reflex DC 16 half) from the flaming jets of sulfuric gases as the ground beneath them begins to liquefy.
+
+One round after anchoring the rod, liquid fire begins to pour from the *pyroclastic spike* along the affected area, creating a molten river 2 feet deep. The pyroclastic flow deals 10d6 points of fire damage to any barriers it encounters until it is able to flow freely forward to the full range of effect. Creatures in the area of effect automatically take 2d6 points of fire damage each round; those falling prone or held under the liquid fire take 10d6 points of fire damage each round. The molten river persists until the *pyroclastic spike* is removed from the ground as a full-round action, at which point the affected area immediately cools. Any creature in the molten terrain becomes entangled when the rock cools, but may escape with a successful DC 16 Reflex save.
+
+**Construction**
+
+**Requirements** Craft Rod, *firefall*APG; **Cost** 14,000 gp
+
+### Rod of Fire Walls
+
+**Aura** moderate evocation **CL** 7th
+
+**Slot** held; **Price** 22,400 gp; **Weight** —
+
+This 14-inch rod of simple white oak is sheathed with a 3-inch sleeve of rune-carved steel in the middle. The ends are seared, as if the wood had endured a forest fire. Once per day, the wielder of a *rod of fire walls* can surround a target with four *walls of fire*, forming a square around the target. The caster determines whether the walls spring up within 10 or 20 feet of the target and whether the heat affects creatures within or outside the barrier of flames. If the walls are raised within 10 feet of the target with the heat spreading inward, the target takes 8d4 points of fire damage by standing at the centermost space; if they are created within 20 feet, the target takes no damage if he does not move from the centermost space. The size of the target does not affect how far away from a creature the walls appear. Passing through any of the walls deals 2d6+7 points of fire damage (double damage to undead).
+
+The rod creates as many of the four *walls of fire* as it can, though barriers and cramped quarters might prevent the walls from appearing at their full size. The flames created by the rod last for 1 minute.
+
+**Construction**
+
+**Requirements** Craft Rod, *wall of fire*; **Cost** 11,200 gp, 896 XP
+
 ### Rod of Gripping Smoke
 
 **Aura** moderate transmutation **CL** 11th
@@ -1444,6 +1914,18 @@ Additionally, three times per day as a move action, the wielder of a *rod of gri
 **Construction**
 
 **Requirements** Craft Rod, *solid fog*,* telekinesis*; **Cost** 7,500 gp
+
+### Rod of Metamagic, Stable
+
+**Aura** strong universal **CL** 17th
+
+**Slot** none; **Price** 3,000 gp (lesser), 11,000 gp (normal), 24,500 gp (greater); **Weight** 5 lbs.
+
+Three times per day, the wielder can lower the chance of a spell he casts triggering a primal magic event, as though using the Stable Spell feat.
+
+**Construction**
+
+**Requirements** Craft Rod, Stable Spell; **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
 
 ### Rod of Mortared Walls
 
@@ -1500,6 +1982,18 @@ In addition, the wielder may create an opaque sphere of force to protect himself
 
 **Requirements** Craft Rod, *deep slumber*,* good hope*,* restful sleep*,* tiny hut*; **Cost** 31,000 gp
 
+### Rod of Writhing
+
+**Aura** moderate transmutation **CL** 9th
+
+**Slot** none; **Price** 10,000 gp; **Weight** —
+
+This curved, snake-headed scepter is cool and moist to the touch. When you hold the rod aloft and speak the command word, tiny blue-tinged vipers pour out of your eyes, ears, and mouth until you collapse and vanish into a writhing mass of intertwined snakes. Treat this effect as the *polymorph* spell, but use the stats for a centipede swarm, MM 238, except that the swarm is considered to have a hive mind. The disturbing transformation can be performed once per day and lasts up to 10 minutes or until you discontinue it (as a free action).
+
+**Construction**
+
+**Requirements** Craft Rod, *polymorph*, *summon swarm*; **Cost** 5,000 gp, 400 XP
+
 ### Scepter of Divine Providence
 
 **Aura** strong (no school) **CL** 17th
@@ -1512,7 +2006,55 @@ This iron rod is crowned with a metallic sphere and functions as a *+1 heavy mac
 
 **Requirements** Craft Rod, Widen Spell, creator must have the channel energy class feature; **Cost** 8,812 gp
 
+### Wracking Rod
+
+**Aura** moderate necromancy **CL** 9th
+
+**Slot** none; **Price** 2,250 gp; **Weight** —
+
+This black poker has a cherry-red tip, as though fresh from a searing fire. The more artful interrogators of the infernal empire well understand that their subjects soon learn to welcome unconsciousness and even death as a means to escape torture. To frustrate their victim’s respite, a torturer’s *wracking rod* delivers a painful jolt that keeps the target alert for an extended session of interrogation. On a successful touch attack, the victim receives the benefit of a *cure light wounds* spell (ld8+1) but must also make a DC 16 Fortitude save or be sickened for 2d4 rounds. Over the decades, desperate members of the empire’s underclass have found that these rods double as black market sources of emergency healing. A *wracking rod* can be used up to 5 times per day.
+
+**Construction**
+
+**Requirements** Craft Rod, *cure light wounds*; **Cost** 1,125 gp, 90 XP
+
 ## Staves
+
+### Crook of the Deep Woods
+
+**Aura** moderate illusion **CL** 9th
+
+**Slot** none; **Price** 16,800 gp; **Weight** 4 lbs.
+
+This twisted and gnarled black oak staff draws upon the formless magic of the Shadow Plane to allow use of the following spells:
+- *major image* (1 charge)
+- *shadow conjuration* (2 charges)
+- *shadow evocation* (3 charges)
+
+In addition, the staff can further influence *shadow conjuration* and *shadow evocation* spells, whether cast from the staff or the wielder’s daily allotment of spells, without increasing the spell’s level. By expending extra charges, the wielder can increase the shadowy substance used to form such spells by +10% per charge, up to a maximum of +50%. Using the staff for this purpose does not increase the casting time of these spells.
+
+**Construction**
+
+**Requirements** Craft Staff, *major image*, *shadow conjuration*, *shadow evocation*; **Cost** 8,400 gp
+
+### Crook of Unseen Forces
+
+**Aura** strong conjuration and evocation **CL** 12th
+
+**Slot** none; **Price** 56,300 gp; **Weight** 5 lbs.
+
+This iron staff, silvered and inlaid with diamonds, curves at one end like a shepherd’s crook. It functions as a *+1/+1 quarterstaff* and grants an additional +2 bonus on dragAPG and repositionAPG combat maneuvers. However, its true power is to summon and command invisible forces, allowing the use of the following spells.
+- *Spiritual weapon* (1 charge)
+- *Spiritual ally*APG (2 charges)
+- *Summon monster VI* (3 charges, invisible stalker only)
+
+Both the *spiritual weapon* and *spiritual ally* gain a +1 enhancement bonus to attack and damage, and any *spiritual weapon* or *spiritual ally* created by the crook is invisible as per *greater invisibility*, gaining the usual benefits when attacking creatures are unable to see it.
+
+The wielder of a *crook of unseen forces* can spend 1 or more charges as a standard action to create an invisible wave of force in a 30-foot line. This wave of force attempts a dragAPG, repositionAPG, or trip combat maneuver (wielder’s choice) against one creature in this line for each charge expended. This special combat maneuver check does not provoke attacks of opportunity and uses the better of the wielder’s Charisma, Intelligence, or Wisdom modifiers in place of his Strength modifier to his CMB.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, Craft Staff, *spiritual ally*APG,* spiritual weapon*, *summon monster VI*, *telekinesis*; **Cost** 28,300 gp
 
 ### Doomsday Staff
 
@@ -1605,6 +2147,29 @@ The staff may be used as a weapon, functioning as a *+1 impact quarterstaff*UE e
 
 **Requirements** Craft Magic Arms and Armor, Craft Staff, *bull’s strength*,* confusion*,* darkness*,* fear*,* irradiate*,* planetary adaptation*; **Cost** 21,900 gp
 
+### Staff of the Prime Mover
+
+**Aura** moderate evocation **CL** 10th
+
+**Slot** none; **Price** 38,300 gp; **Weight** 2 lbs.
+
+This slender silver cane feels more unwieldy than its low weight might suggest, as if a hidden force fights its wielder for control. The staff functions as a *+1/+1 anchoring*UE* mithral quarterstaff*, and allows use of the following spells.
+- *Kinetic reverberation*UC (1 charge)
+- *Force hook charge*UM (2 charges)
+- *Force punch*UM (2 charges)
+
+As long as the staff’s *anchoring* special ability is in effect, these spells work differently when cast by the wielder, as noted below.
+
+*Kinetic reverberation* not only damages an attacker’s weapon, but also pushes the attacker away. Immediately after the spell’s damage is dealt, as an immediate action, the wielder may attempt a bull rush combat maneuver against his attacker, using his opponent’s attack bonus as his combat maneuver bonus. This combat maneuver does not provoke attacks of opportunity and the wielder does not move with his opponent.
+
+*Force hook charge* pulls the target to a square adjacent to the staff on a successful ranged touch attack, rather than pulling the staff and wielder toward the target. The spell’s target may resist this pull with a successful Fortitude save. This movement does not provoke attacks of opportunity.
+
+*Force punch* deals 1d6 points of force damage to its target per caster level (maximum 10d6) against an opponent that is affected by the staff’s *anchoring* special ability, rather than 1d4 points of force damage per caster level. An anchored opponent is not pushed away.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, Craft Staff, *force hook charge*UM,* force punch*UM,* kinetic reverberation*UC,* levitate*; **Cost** 20,300 gp
+
 ## Wondrous Items
 
 ### Alpine Ice Axe
@@ -1633,6 +2198,49 @@ This amulet is crafted from a dragon scale hung on a thin wire of twisted mithra
 
 **Requirements** Craft Wondrous Item, *dragon’s breath*APG; **Cost** 2,400 gp
 
+### Amulet of Grasping Souls
+
+**Aura** strong transmutation; **CL** 13th
+
+**Slot** neck; **Price** 21,000 gp; **Weight** —
+
+This amulet can be worn by both corporeal and incorporeal creatures. If worn by a corporeal creature, it confers the *ghost touch* special ability on her natural attacks and weapons she wields (even thrown weapons and projectiles). Once per day as a swift action, the wearer can make the next spell she casts affect incorporeal creatures as though she were using the Ectoplasmic SpellAPG metamagic feat but without increasing the spell level.
+
+When an incorporeal creature wears the amulet, it can interact with its surroundings. Any item in its possession becomes incorporeal, allowing the incorporeal creature to take items and phase through objects with them. An incorporeal creature without a Strength score uses its Charisma score to determine how much it can carry.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, Ectoplasmic Spell, *plane shift*; **Cost** 10,500 gp
+
+### Amulet of Primal Mastery
+
+**Aura** strong evocation; **CL** 17th
+
+**Slot** neck; **Price** 24,200 gp; **Weight** —
+
+The dark green orb on this silver necklace is covered in what looks like thorns, but it’s not sharp or painful to the touch. While wearing this amulet, whenever you cast a spell that triggers a primal magic event, roll d% twice when generating the result. You may pick which of the two results actually occurs. Additionally, you gain a +2 bonus on all saving throws to resist primal magic events. This bonus doesn’t stack with other bonuses on saves to resist primal magic events.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *miracle*, crafter must be an oracle with the spellscar mysteryISM; **Cost** 12,100 gp
+
+### Amulet of Reverse Incantation
+
+**Aura** moderate abjuration; **CL** 8th
+
+**Slot** head; **Price** 20,000 gp; **Weight** —
+
+An ivory cameo depicting two elderly, bearded wizards with identical faces hangs on this amulet’s delicate silver chain. Three times per day, when casting a spell with a verbal component, the wearer of an *amulet of reverse incantation* can recite the spell’s words backward as a free action in order to invert the spell’s effect, as described below.
+- If the wearer casts a spell that can counter or dispel another specific spell, she can activate the amulet to convert the spell being cast into the spell it specifically counters. For example, *haste* would become *slow*, or *reduce person* would become *enlarge person*.
+- If the wearer casts a spell that detects or affects creatures of a certain alignment, the spell instead affects creatures of the opposite alignment. For example, *chaos hammer* would damage and blind chaotic creatures and outsiders instead of lawful ones.
+- If the wearer casts a cure or inflict spell, she can activate the amulet to convert the spell being cast into the other type of the same spell level, such as converting *cure moderate wounds* into *inflict moderate wounds*.
+
+Alignment restrictions still apply for casters who can’t cast spells with certain alignment descriptors.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *dispel magic*, *tongues*; **Cost** 10,000 gp
+
 ### Amulet of Wind Defiance
 
 **Aura** moderate transmutation [air]; **CL** 9th
@@ -1644,6 +2252,32 @@ This circular stone amulet is engraved with a fine, spiraling line that winds in
 **Construction**
 
 **Requirements** Craft Wondrous Item, *control winds*; **Cost** 5,000 gp
+
+### Animator Brush
+
+**Aura** moderate transmutation; **CL** 11th
+
+**Price** 40,000 gp; **Weight** —
+
+With a few strokes to an inanimate object, this ordinary-looking brush animates the item just as if *animate objects* had been cast on it. Each use of this ability expends 1 charge. An *animator brush* has 25 charges when created.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *animate objects*; **Cost** 20,000 gp, 1,600 XP
+
+### Antiquarian's Monocle
+
+**Aura** faint divination; **CL** 3rd
+
+**Slot** eyes; **Price** 1,350 gp; **Weight** —
+
+This lens, mounted in a round silver frame, fits snugly in the eye orbit of any Medium or Small user. Three times per day on command, the monocle allows the user to read magical inscriptions (including scrolls) as if affected by *read magic*.
+
+Once per day, by speaking a second command word, the user can activate a 1st-level spell from a scroll even if she doesn’t have the spell on her class list or meet the other requirements. Activating a scroll with the monocle is a full-round action (or the spell’s casting time, whichever is longer).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *read magic*; **Cost** 675 gp
 
 ### Arbalest Cloak
 
@@ -1675,6 +2309,18 @@ An *armband of the golden serpent* allows its wearer to cast spells with the ran
 
 **Requirements** Combat Casting, Craft Wondrous Item, *spectral hand*; **Cost** 10,000 gp
 
+### Armillary Amulet
+
+**Aura** faint divination; **CL** 5th
+
+**Slot** neck; **Price** 2,500 gp; **Weight** —
+
+This thin chain of silvery-gray metal holds a series of interlocking rings that slowly turn within themselves in an accurate replication of the celestial sphere. The amulet grants its wearer a +5 competence bonus on Spellcraft checks.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must have 5 ranks in the Spellcraft skill; **Cost** 1,250 gp
+
 ### Attentive Mirror
 
 **Aura** faint abjuration and divination; **CL** 5th
@@ -1695,13 +2341,17 @@ This small, ornate mirror is mounted inside an enclosing case, such as a locket,
 
 This pear-shaped ioun stone sparkles in a brilliant blue color. Whenever a creature fails a saving throw against a mind-affecting spell cast by this ioun stone’s user, the user gains a number of temporary hit points equal to the targeted creature’s Charisma bonus (minimum 0) until the start of the user’s next turn. These temporary hit points do not stack. The user doesn’t gain temporary hit points from a creature that voluntarily fails its saving throw against the spell.
 
-### Resonance
+### Belt of the Famine Horseman
 
-This stone allows the user to pick up on psychic resonance from corpses. So long as the user has carried the ioun stone continuously for at least 24 hours, the first three corpses touched by the user each day babble residual psychic impressions into the bearer’s mind. This functions as the *grave words* spell, except that only the user can hear the corpse speak.
+**Aura** faint conjuration and necromancy; **CL** 5th
+
+**Slot** belt; **Price** 4,000 gp; **Weight** 1 lb.
+
+Often created by those who venerate the Horseman of Famine, this dark leather belt has a piece of a cracked soul gem in its plain brass buckle. the wearer of a *belt of the famine horseman* doesn’t need to eat and is immune to the effects of starvation, though she begins to take on an emaciated appearance after several days. Three times per day, the wearer can touch a creature (requiring a successful touch melee attack) to affect it with incredibly painful pangs of hunger. If the target fails a DC 15 Fortitude save, it takes 2d6 points of nonlethal damage and is fatigued. Creatures that don’t need to eat or are immune to nonlethal damage are immune to this ability.
 
 **Construction**
 
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 7,500 gp
+**Requirements** Craft Wondrous Item, *create food and water*, *touch of fatigue*; **Cost** 2,000 gp
 
 ### Bilious Bottle
 
@@ -1725,6 +2375,22 @@ A *bilious bottle* appears to be a tightly stoppered container of water. It can 
 **Construction**
 
 **Requirements** Craft Wondrous Item, *stinking cloud*; **Cost** 250 gp
+
+### Bitter Widow's Veil
+
+**Aura** faint enchantment and divination; **CL** 5th
+
+**Slot** head; **Price** 14,000 gp; **Weight** 1/2 lb.
+
+This delicate black veil is made of black lace and crepe and affixed to a midnight blue bonnet. When it’s donned, amorphous shadows swirl beneath the veil across the wearer’s face.
+
+Whenever an ally within 30 feet of the wearer falls unconscious by taking lethal damage, the *bitter widow’s veil* gains 1 charge. The wearer can expend 1 charge as a standard action to unleash a bereaved scream in a 30-foot cone. Creatures within the area must succeed at a DC 16 Will save or become shaken for 4 minutes. If a creature that brought a humanoid or monstrous humanoid to fewer than 0 hit points within the past 12 hours fails the save, it’s dazed for 1 round as it is consumed with sorrow, after which it’s subject to the shaken effect.
+
+As long as the *bitter widow’s veil* has an unspent charge, the wearer can see and hear ethereal creatures as though affected by *see invisibility*. The veil can contain only 1 charge at a time. Unused charges dissipate after 1 hour.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *crushing despair*, *overwhelming grief*UM,* see invisibility*; **Cost** 7,000 gp
 
 ### Blackwick Cauldron
 
@@ -1802,6 +2468,26 @@ In addition, when held, the gem provides the bearer resistance 20 against electr
 
 **Requirements** Craft Wondrous Item, Elemental SpellAPG, *resist energy*; **Cost** 48,000 gp
 
+### Bog Boots
+
+**Aura** moderate transmutation; **CL** 9th
+
+**Slot** feet; **Price** 12,000 gp; **Weight** 1 lb.
+
+These boots are well worn and caked with mud, but still sturdy, comfortable, and dry on the inside.
+
+Three times per day, the wearer can activate the boots to cause up to 9 5-foot squares of nearby terrain to become a shallow bog. All affected squares are instantly filled with 1 foot of water, mud, and plant life. The wearer can move through these squares at her normal speed, but other creatures treat the squares as a shallow bog, costing 2 squares of movement to move into each affected square.
+
+The initial affected square must be adjacent to the wearer. Each additional affected square must be adjacent to another affected square, but otherwise the effect can take any shape the wearer desires.
+
+As a standard action, the wearer can rearrange the affected squares. Multiple uses of the boots can create larger areas of bog. The effect lasts until dismissed by the wearer (a free action), the wearer moves more than 5 feet beyond the affected area, the wearer becomes unconscious, or the boots are removed.
+
+Additionally, once per day, the wearer can travel as per *dimension door* from one affected square to another.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *dimension door*, *transmute rock to mud*; **Cost** 6,000 gp
+
 ### Bone Beads
 
 **Aura** faint necromancy; **CL** 3rd
@@ -1813,6 +2499,22 @@ This bracelet of tiny carved skulls allows its wearer to command up to 8 HD wort
 **Construction**
 
 **Requirements** Craft Wondrous Item, *command undead*; **Cost** 3,000 gp
+
+### Bonedancer Bodhran
+
+**Aura** faint necromancy; **CL** 3rd
+
+**Slot** none; **Price** 6,700 gp; **Weight** 2 lbs.
+
+This calfskin drum is painted with an image of a grinning skull, and comes with a giant’s finger bones to use as beaters. A creature with at least 1 rank in Perform (percussion) can play a steady rhythm on the drum as a standard action each round. Doing so grants all undead creatures within 30 feet of the drummer a +2 profane bonus on attack rolls, damage rolls, and Will saves each round the drum is played.
+
+Alternatively, the drummer can instead force undead creatures in the area to dance in place to the beat of the drum. Affected undead within 30 feet can’t leave their spaces and take a –2 penalty to Armor Class and on Reflex saves for as long as the drummer plays. Intelligent undead can attempt a DC 12 Will save to resist this effect; those that succeed can move and take actions normally, but still take the –2 penalty on Reflex saves and must succeed at concentration checks to cast spells (DC = 10 + the spell’s level). Mindless undead receive no save and can take no actions other than dancing.
+
+A *bonedancer bodhran* can be used for 9 rounds per day; these rounds need not be consecutive.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *command undead*, creator must have the bardic performance class ability; **Cost** 3,350 gp
 
 ### Bones of the Pirate Goddess
 
@@ -1826,6 +2528,24 @@ Named for the goddess of piracy, strife, and sea monsters, this figurehead must 
 
 **Requirements** Craft Wondrous Item, *bestow curse*,* false life*; **Cost** 5,400 gp
 
+### Book of Night without Moon
+
+**Aura** moderate illusion; **CL** 8th
+
+**Slot** none; **Price** 15,000 gp; **Weight** 4 lbs.
+
+This black grimoire’s pages are mostly blank, but a few contain rough watercolor silhouettes. The *Book of Night without Moon* is a repository for trapped shadows. To sever a shadow from its owner and add it to the book, the user must speak a command word and snap the book shut on the shadow. The shadow must be very still when it is severed, so the victim must be either willing or helpless. The book has 40 pages; a shadow takes up a number of pages equal to the Hit Dice of the creature that cast it.
+
+A creature whose shadow is stolen must succeed at a DC 18 Will save or be sickened by a nameless melancholy until its shadow is returned (in the meantime, the creature casts no shadow). Losing its shadow has no adverse effect on a creature that cannot be sickened. A *remove curse* spell cast on the creature ends the effect and retrieves the shadow from the book.
+
+As a standard action, the book’s bearer may release a shadow from the book, conjuring an illusory duplicate of the shadow’s owner as if with the spell *shadow conjuration* (DC 18 Will save to recognize that the conjuration is an illusion). The shadow is intelligent and can follow complex commands, but cannot speak and lacks the memories or personality of the creature that cast it. The shadow serves the character who released it for 1 hour or until destroyed, whichever comes first. The shadow then returns instantly and permanently to its original owner, wherever he or she may be. It cannot be commanded to return to the book and cannot be stolen again. The book’s magic can sustain up to five active shadows at a time.
+
+A *Book of Night without Moon* purchased or found as treasure contains 2d6 shadows, chosen by the GM.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *shadow conjuration*; **Cost** 7,500 gp
+
 ### Boots of the Winter Jarl
 
 **Aura** moderate transmutation; **CL** 10th
@@ -1837,6 +2557,34 @@ Crafted of stout, wax-treated leather and wrapped with warm fur reminiscent of a
 **Construction**
 
 **Requirements** Craft Wondrous Item, *cat’s grace*,* endure elements*,* giant form I*,* pass without trace*; **Cost** 10,000 gp
+
+### Bosun's Call
+
+**Aura** moderate abjuration; **CL** 8th
+
+**Slot** none; **Price** 12,000 gp; **Weight** 1 lb.
+
+This copper-and-bronze whistle is played by blowing through the mouthpiece while opening and closing one’s hand over the hole to modify the pitch. The whistle has 3 charges, which are automatically restored at sunrise each day. As a standard action, the user can attempt a Perform (wind) check and expend the indicated number of charges to produce one of the following effects.
+
+*0 charges*: Wake all allies within 30 feet (DC 15).
+
+*1 charge*: Wake all allies aboard the same ship (DC 20).
+
+*1 charge*: Convey a secret message to all allies within 60 feet, as the Bluff skill (DC 20).
+
+*1 charge*: Perform a countersong as the bardic performance ability, with a +2 bonus on the Perform (wind) check (DC 20).
+
+*2 charges*: Grant up to six allies, no two of whom can be more than 30 feet apart, climb and swim speeds of 20 feet each for 4 rounds (DC 20).
+
+*2 charges*: Grant all allies within 60 feet a +5 morale bonus on Swim checks for 10 minutes (DC 25).
+
+The charge is expended even if the Perform check fails.
+
+A user of the *bosun’s call* who has the bardic performance class feature can, as a swift action, expend a number of rounds of bardic performance equal to the number of charges needed to produce the effect instead of expending those charges.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *alarm*, *alter self*, creator must have the bardic performance class ability; **Cost** 3,350 gp
 
 ### Bottle of Shifting Sand
 
@@ -1851,6 +2599,24 @@ If a *bottle of shifting sand* is thrown at a creature, a direct hit instead thr
 **Construction**
 
 **Requirements** Craft Wondrous Item, *shifting sand*APG; **Cost** 375 gp
+
+### Bottled Cloud
+
+**Aura** faint conjuration; **CL** 3rd
+
+**Slot** none; **Price** 600 gp; **Weight** —
+
+The iridescent, hazy contents of this glass container eddy briefly into different shapes. A *bottled cloud* can be thrown as a splash weapon. When it strikes, it unleashes a bank of whitish-gray, semi-solid clouds in one of two configurations—a 20-foot-radius cloud or a 40-foot-radius sheet of mist that hovers a few inches above the ground. The user selects which version of the clouds she wishes to create as she throws the *bottled cloud*.
+
+If the *bottled cloud* forms a 20-foot-radius cloud, it functions as a *solid fog* spell.
+
+If the *bottled cloud* is instead used to form a sheet, the layer of mist can be walked upon as if it were solid ground. While the *bottled cloud* must be thrown against solid ground in order to shatter the container and release the cloud, it can be deliberately poured out on a liquid surface to form a sheet as well. The cloud sheet extends over liquid surfaces, but pours into concavities and holes—one can use a *bottled cloud* to traverse water, but not a pit or chasm. The sheet of mist also allows safe movement over caltrops, difficult terrain that lies low to the ground (GM’s discretion), and other low-lying hazards (such as a sheet of green slime) and traps that are triggered via pressure plates.
+
+Either use of a *bottled cloud* can be dispersed by a severe wind (31+ mph) in a single round, but otherwise the effect created lasts for 3 minutes.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *solid fog*; **Cost** 300 gp
 
 ### Boulder Bag
 
@@ -1906,6 +2672,18 @@ When in the area of an *unhallow* spell cast by a worshiper of the minotaur lord
 
 **Requirements** Craft Wondrous Item, *bless*,* augury*, must worship the minotaur lord; **Cost** 3,250 gp
 
+### Bridle of the Death Horseman
+
+**Aura** strong transmutation; **CL** 14th
+
+**Slot** head; **Price** 40,000 gp; **Weight** 2 lbs.
+
+Studded with shards of inert soul gems, this bridle imbues its wearer with a fraction of the power of the Pale Horse, the Horseman of Death’s steed. Once per day as an immediate action, the rider of a creature wearing this item can activate it as part of the mount’s movement. It becomes incorporeal during its movement, though it must stop in an unoccupied space. Any object the creature passes through during its incorporeal movement begins to crumble, having its hit points reduced by half (ignoring hardness). Any living creatures’ spaces the mount passes through during its incorporeal movement feel the cold wind of death and must succeed at a DC 20 Fortitude save or take a -4 penalty to its Strength, Dexterity, and Constitution scores that lasts for 1 minute.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *Bestow Curse*, *ethereal jaunt*; **Cost** 20,000 gp
+
 ### Brimstone Barbazu
 
 **Aura** moderate conjuration; **CL** 11th
@@ -1958,6 +2736,26 @@ This statue takes the form of a bull or a bull-headed humanoid. A hatch in the i
 **Construction**
 
 **Requirements** Craft Wondrous Item, *bless*,* produce flame*,* unholy blight*; **Cost** 5,000 gp
+
+### Caber Twig
+
+**Aura** faint transmutation; **CL** 5th
+
+**Slot** none; **Price** 300 gp; **Weight** 4 lbs.
+
+Exquisitely carved from the very finest dark mahogany and polished to a smooth sheen, this 4-inch-long stick feels surprisingly heavy for its size when hefted in the palm. Three notches divide the twig into four 1-inch segments. Snapping the twig at any notch is a swift action that creates smaller twigs of appropriate sizes.
+
+The first *caber twigs* were created not for combat applications but for performances at tournaments or other festivities. When thrown, a length of *caber twig* releases a thunderous crack and transforms into a massive log. For every segment of twig used, this log measures 5 feet long and weighs 300 pounds. No matter the length, the log created is always 2 feet in diameter. Only one length can be thrown at a time. The dramatic expansion of a *caber twig* segment proved a popular element of festivals throughout a coast later drowned by a great storm, in much the same way fireworks help accentuate celebrations elsewhere in the world.
+
+The thrower can toss a *caber twig* at a creature, object, or space within 30 feet. The resulting log always lands upright upon the target. A targeted creature must succeed at a DC 16 Reflex saving throw or be forced into an adjacent space while taking an amount of bludgeoning damage equal to 2d6 points per *caber twig* length used.
+
+Immediately after striking its primary target, the log tilts and crashes down in a direction of the thrower’s choosing. All creatures within a straight line that is the length of the log extending from the space of impact must succeed at a DC 13 Reflex saving throw or take 2d6 points of bludgeoning damage.
+
+Once created, a *caber twig* log is permanent.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *plant growth*; **Cost** 150 gp
 
 ### Canopic Jar of Unlife
 
@@ -2054,6 +2852,18 @@ Typically crafted of bronze, brass, or copper with an upper section of silver or
 
 **Requirements** Craft Wondrous Item, *dream*; **Cost** 4,000 gp
 
+### Chalice of Communal Dweomer
+
+**Aura** moderate transmutation; **CL** 7th
+
+**Slot** none; **Price** 3,750 gp; **Weight** 1 lb.
+
+Once per day, a creature can pour a potion with a duration longer than instantaneous into the chalice, then drink it as a standard action that provokes attacks of opportunity. The bearer and up to two willing allies within 30 feet gain the benefits as though they had consumed the potion; however, the duration is divided evenly between all recipients (including the bearer), rounded down to the nearest round.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *alchemical allocation*APG,* amplify elixir*APG; **Cost** 1,875 gp
+
 ### Chariot of the Conqueror
 
 **Aura** strong abjuration and conjuration; **CL** 18th
@@ -2069,6 +2879,22 @@ The *chariot of the conqueror* can carry up to two Medium creatures: one driver 
 **Construction**
 
 **Requirements** Craft Wondrous Item, *mage armor*,* phantom driver*UC,* phantom steed*; **Cost** 45,000 gp
+
+### Charlatan's Symbol
+
+**Aura** faint illusion (see text); **CL** 5th
+
+**Slot** neck; **Price** 2,000 gp; **Weight** 1 lb.
+
+This small relic is designed to resemble a holy symbol of a genuine or fictional deity and can be worn about the neck. A *charlatan’s symbol* contains an extradimensional compartment that can hold one wand of a 1st-level cleric spell, which becomes attuned to the symbol after 24 hours. Speaking a command word or phrase activates the wand as if the user had succeeded at a DC 20 Use Magic Device check, which also causes the symbol to glow faintly. Those observing a spell cast through the use of a *charlatan’s symbol* must succeed at a DC 20 Spellcraft check in order to determine that the spell was cast from a wand rather than through normal divine spellcasting.
+
+After using the symbol, the wearer receives a +5 circumstance bonus on Bluff checks related to the assumed religion against witnesses for 24 hours.
+
+To anyone using *detect magic*, the *charlatan’s symbol* appears to be nonmagical (as *magic aura*), as if it were a standard holy symbol.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *eagle’s splendor*, *magic aura*, creator must have 5 ranks in both Bluff and Use Magic Device; **Cost** 1,000 gp
 
 ### Charm of Fate
 
@@ -2112,6 +2938,52 @@ A *chest of keeping* is a large container capable of holding up to 1,000 pounds 
 
 **Requirements** Craft Wondrous Item, *gentle repose*,* secret chest*; **Cost** 4,500 gp
 
+### Chime of Storm Calling
+
+**Aura** faint conjuration and evocation; **CL** 5th
+
+**Slot** none; **Price** 6,750 gp; **Weight** 1 lb.
+
+This copper chime can be struck as a standard action, producing a cloud of mist around the user equivalent to an *obscuring mist* spell. If struck again before the mist disperses, the user can call down the fury of a storm on a single target within the clouded area, either striking it with a bolt of lightning (3d6 electricity damage, Reflex DC 15 half) or buffeting it with a *gust of wind* for 1 round, equivalent to the spell *gust of wind*. Either use immediately disperses the cloud of mist and renders the *chime of storm calling* inert for 24 hours. If the *chime of storm calling* is not struck again, the mist disperses after 5 minutes, after which it may be used again to create new banks of mist.
+
+A *chime of storm calling* cannot summon lightning or wind while underground, indoors, or in an arid climate.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *call lightning*, *gust of wind*, *obscuring mist*; **Cost** 3,375 gp
+
+### Choker of the Queen Bee
+
+**Aura** moderate transmutation; **CL** 6th
+
+**Slot** neck; **Price** 8,000 gp; **Weight** 1 lb.
+
+A detailed bronze figurine of a crowned honeybee adorns this iron choker. The first chokers of this type were created by a cabal of gnome priests of the fey lords from a drowned coast, who believed pain could forestall the bleaching.
+
+When this choker is placed on a living creature’s neck, the bee springs to life and latches itself to the wearer, embeds its stinger deep into her neck, and fills the wearer’s throat with swarming bees. Although it produces a disconcerting feeling, this sting and the bees do no harm to the wearer other than to give her voice an aggressive buzzing quality that grants her a +2 competence bonus on Intimidate checks.
+
+Once per day as a standard action, the wearer can swallow some of the bees in her throat as a swift action, which coats her throat in soothing, golden honey. For the next hour, her voice sounds silken and smooth, and she gains a +2 competence bonus on Diplomacy checks rather than on Intimidate checks.
+
+Finally, the wearer can release the entire swarm as a standard action once per day. When she does so, she exhales a 15-foot cone of angry bees from her mouth. Those caught in the cone take 4d6 points of piercing damage and are staggered by the painful stings for 1d4 rounds. A successful DC 16 Reflex saving throw halves the damage inflicted and negates the staggered condition.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *eagle’s splendor*, *vomit swarm*; **Cost** 4,000 gp
+
+### Choker of the Siphoning Scorpion
+
+**Aura** moderate necromancy; **CL** 9th
+
+**Slot** neck; **Price** 8,000 gp; **Weight** —
+
+This choker consists of a thin gold chain with a small scorpion charm that presses snugly against the neck when worn. Once per day as an immediate action, the wearer of this item can forgo her saving throw against a poison effect, and instead let the scorpion charm siphon the poison, filling to its maximum capacity of 1 dose. The wearer suffers no effects from the poison in this manner. While filled, the charm doesn’t protect against poison.
+
+As a full-round action, the wearer can remove the choker and affix it to her melee weapon by pressing the scorpion against the weapon and allowing the chain to automatically secure itself around the weapon’s hilt or handle. If the weapon hits, the wearer can choose to dose the target with the poison (in addition to any effects the attack would normally have) as though the weapon were coated with a dose of the poison. This drains the scorpion of its stored dose. The target can attempt a Fortitude save as normal (using the poison’s original DC) to resist the effect.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *absorb toxicity*UC,* greater magic weapon*; **Cost** 4,000 gp
+
 ### Chon Chon Elixir
 
 **Aura** moderate transmutation; **CL** 11th
@@ -2152,6 +3024,44 @@ The wearer may use this effect 1d3 times per day. The GM determines how many tim
 **Construction**
 
 **Requirements** Craft Wondrous Item, *detect thoughts*,* shout*; **Cost** 6,400 gp
+
+### Clasp of the Pestilence Horseman
+
+**Aura** moderate conjuration; **CL** 8th
+
+**Slot** neck; **Price** 8,000 gp; **Weight** —
+
+This dark iron pin used to fasten a cloak or cape is the shape of a fly with glittering fragments of soul gems for eyes and is usually crafted by those who venerate the Horseman of Pestilence. Once per day as a standard action, the wearer can exhale a cloud of black flies in a 15-foot cone. Any creature caught in the cone takes 8d6 points of slashing damage as the flies bite its flesh. A successful DC 18 Reflex save halves this damage. If a living creature takes damage from these flies, it must also succeed at a DC 18 Fortitude save or be sickened for 1 minute. Daemons are immune to these effects
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *vomit swarm*; **Cost** 4,000 gp
+
+### Clavis Somnus
+
+**Aura** moderate transmutation and divination; **CL** 10th
+
+**Slot** none; **Price** 10,300 gp; **Weight** —
+
+The *Clavis Somnus* is a large, ornate, silver and mithral key. It is very cold to the touch and always gives off a faint vapor of condensation. Its construction and value satisfy the focus component of the breach the veil of dreams occult ritual and grants a +5 competence bonus on the primary caster’s skill checks to perform the ceremony.
+
+The key also grants its wielder a +4 bonus on saving throws to resist illusion effects, as well as on Charisma checks made in the Dimension of Dreams. But the key imposes a –2 penalty on saving throws against sleep effects, and its holder is considered to have 2 fewer Hit Dice for the purpose of determining the number of Hit Dice used in sleep effects and the number of creatures affected. The key’s holder is always counted first when determining which creatures are affected.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, Lucid Dreamer, *deep slumber*, *eagle’s splendor*, *guidance*; **Cost** 5,150 gp
+
+### Cloak of Nightmares
+
+**Aura** strong conjuration; **CL** 14th
+
+**Slot** back; **Price** 30,000 gp; **Weight** —
+
+The beauty of this red cloak hides its sinister nature, as at any moment it is capable of shredding into numerous hideous creatures known as nightmare bats. As a free action, you can release 1d4 nightmare bats. These bats remain until destroyed and can be recalled into the cloak as a move action. Bats recalled to the cloak are healed of all damage after 1 hour. A newly crafted *cloak of nightmares* contains eight bats. When a bat is destroyed completely before it can be recalled, it cannot be replaced and the cloak’s upper limit is reduced by one.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *summon monster IV*; **Cost** 18,000 gp, 1,200 XP
 
 ### Cloak of the Yeti
 
@@ -2247,6 +3157,70 @@ This folding fan made from cypress wood and lacquered paper is said to have belo
 
 **Requirements** Craft Wondrous Item, *calm emotions*,* cat’s grace*,* forceful hand*,* whispering wind*; **Cost** 15,420 gp
 
+### Creeping Glyph
+
+**Aura** moderate abjuration and evocation; **CL** 11th
+
+**Slot** none; **Price** 7,750 gp; **Weight** —
+
+This glyph is a coruscating pattern of ancient arcane symbols stretching across a flat surface in a tight 5-foot-radius circle. It is also a mobile trap with a speed of 20 feet that responds to your commands. After it rests in place for a full round, it blends with the floor and becomes a creeping glyph trap.
+
+**Creeping Glyph Trap**—**CR 2**
+
+**Type** magic device; **Search** DC 28; **Disable Device** DC 28
+
+**Trigger** touch; **Reset** automatic after 3 rounds
+
+**Effect** An explosion in a single 5-foot square that deals 4d4 points of nonlethal damage.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *animate objects*, *glyph of warding*; **Cost** 3,875 gp, 310 XP
+
+### Cresset of Grisly Interrogation
+
+**Aura** moderate necromancy; **CL** 5th
+
+**Slot** none; **Price** 10,000 gp; **Weight** 1 lb.
+
+This small iron cage is engraved with dozens of ancient funerary runes. On opposing sides of the cage frame, two large bolts can be adjusted to hold a humanoid head in a stationary position within. When a head is placed inside and the command word is spoken, you can sequester information from it as if it were under the effect of a *speak with dead* spell. The cage can coerce three answers per day, which do not need to be from the same head or asked in a limited period of time (for example, you could ask a kobold’s head a question in the morning, an orc’s head a question in the afternoon, and an ogre’s head a question in the evening).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *speak with dead*; **Cost** 5,000 gp, 400 XP
+
+### Crest of the Fallen
+
+**Aura** faint conjuration; **CL** 5th
+
+**Slot** neck; **Price** 12,000 gp; **Weight** —
+
+This fist-sized silver badge bears a stylized image of a heraldic animal. The first time a character wears the crest, the animal changes to match that of the wearer’s heraldic symbol. If the wearer doesn’t have a heraldic animal, it takes the form of an animal appropriate to the character’s personality. The animal depicted must be one suitable for use as a druid animal companion. Once a character has worn the crest, the animal depicted on the crest is always the same for that character and can’t be changed.
+
+Once per day, if the wearer of the crest of the fallen falls unconscious (other than voluntary sleep), the animal on the crest jumps out of the badge and becomes a living creature in an unoccupied square adjacent to the wearer. The creature has the same statistics as a 1st-level druid’s animal companion of the same type as depicted on the crest, except its hit points are equal to one-quarter of the wearer’s maximum hit points. The creature also gains the 4th- or 7th-level advancement as described in the animal companion’s statistics if the wearer is of sufficient level (treating his character level as the effective druid level). It doesn’t, however, gain any of the other bonuses or abilities of an animal companion.
+
+The creature guards the fallen wearer to the best of its ability. It protects the wearer by attacking enemies, assisting allies using the aid another action, dragging the character’s body to a safe location, or taking other helpful actions. The creature can’t move more than 50 feet from the badge, and it disappears after 5 rounds. It can’t use equipment or magic items, including potions.
+
+If the animal is slain, it disappears and the heraldic image on the *crest of the fallen* fades to a dark gray for 1 week, during which time the crest can’t be activated.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *deathwatch*, *summon nature’s ally II*; **Cost** 6,000 gp
+
+### Crow Brother's Cloak
+
+**Aura** moderate transmutation; **CL** 7th
+
+**Slot** shoulders; **Price** 8,000 gp; **Weight** 1 lb.
+
+This flowing, black silken cloak glitters with an iridescent sheen like the feathers of a crow’s wing. When the wearer moves, the fabric seems to dance on the air, as though it longed to take flight. The wearer can speak with birds while wearing the cloak, as if under the effects of *speak with animals*. Northern druids have long favored these cloaks as a means of communicating with birds of the region, but they grew increasingly popular among several sects in a southern land as well— despite the fact that crows themselves are not native to that particular land. Certainly, the exotic nature of the ebon feathers had an aesthetic appeal, for in a land where brightly colored songbirds were the norm, the concept of a midnight black avian couldn’t help but to be somewhat intriguing to the residents.
+
+As a move action, the wearer of a *crow brother’s cloak* can command the item to dissolve into a swirling murder of crows, which faithfully surround the wearer for up to 13 rounds per day. These rounds need not be consecutive. The murder of crows functions as a bat swarm. The murder of crows deals no damage to the wearer and provides concealment as long as the wearer remains within it. As a free action, the wearer can recall the swarm into cloak form or issue it a simple command (such as to direct its movement or to instruct it to follow the wearer). If the swarm is reduced to 0 hit points, it returns to its cloak form immediately and cannot be transformed again for 24 hours.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *speak with animals*, *summon swarm*; **Cost** 4,000 gp
+
 ### Crown of Ash
 
 **Aura** strong divination and transmutation; **CL** 12th
@@ -2260,6 +3234,18 @@ The wearer can speak, read, and understand Sylvan, If the wearer of the *crown o
 **Construction**
 
 **Requirements** Craft Wondrous Item, *comprehend languages*,* eagle’s splendor*; **Cost** 14,950 gp
+
+### Crown of the Kobold King
+
+**Aura** strong transmutation; **CL** 12th
+
+**Slot** helmet; **Price** 15,000 gp; **Weight** —
+
+This crown is as old as its kobold tribe, and the burnished bronze heirloom has passed from king to king for centuries. The crown invests its wearer with power. Wearing the crown grants a +2 enhancement bonus to Charisma and a +2 natural armor bonus. You are immune to the frightful presence ability of all dragons. If you are a sorcerer you cast spells at +1 caster level.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *barkskin*, *eagle’s splendor*; **Cost** 7,500 gp, 600 XP
 
 ### Crystal Ball of the Dark Void
 
@@ -2277,6 +3263,30 @@ Every time a *crystal ball of the dark void* is used, there’s a 5% chance that
 
 **Requirements** Craft Wondrous Item, *scrying*,* sending*; **Cost** 30,000 gp
 
+### Culling Goggles
+
+**Aura** faint necromancy; **CL** 3rd
+
+**Slot** goggles; **Price** 9,000 gp; **Weight** —
+
+These goggles have dark, almost black lenses bound in brown leather cured from the skin of a sentient humanoid. Wearing these goggles lets you view your surroundings as if under the constant effect of a *deathwatch* spell extending 30 feet. Additionally, three times per day, you may touch a creature and trigger a *death knell* effect, as the spell.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *death knell*, *deathwatch*; **Cost** 4,500 gp, 360 XP
+
+### Cyclops Helm
+
+**Aura** faint divination; **CL** 1st
+
+**Slot** head; **Price** 5,600 gp; **Weight** 5 lbs.
+
+This helm is made from the husk of a cyclops’s shrunken head, and grants a limited version of that creature’s flash of insight ability. Once per day as an immediate action, the wearer can choose the result of the die roll instead of rolling her next attack roll, saving throw, skill check, or ability check.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *true strike*; **Cost** 2,800 gp
+
 ### Dance of Seven Veils
 
 **Aura** moderate illusion and transmutation; **CL** 9th
@@ -2288,6 +3298,38 @@ This scarf is crafted from fine, almost transparent silk of a deep red hue. When
 **Construction**
 
 **Requirements** Craft Wondrous Item, *disguise self*,* eagle’s splendor*,* fox’s cunning*,* levitate*,* feather fall*; **Cost** 13,500 gp
+
+### Daylight Diadem
+
+**Aura** moderate evocation; **CL** 9th
+
+**Slot** head; **Price** 20,000 gp; **Weight** 1 lb.
+
+Four sunstone-embedded sunflowers adorn this golden diadem. The first *daylight diadems* were created far to the east by worshipers of the goddess of the sun and redemption, but their usefulness in battling undead has seen them become quite widespread. In often overcast lands, these magical diadems offer an additional comfort to those who enjoy the sun as well, serving as a constant reminder that regardless of the cloud cover above, the sun remains steadfast in its guardianship over the day.
+
+As part of a standard action taken to channel positive energy, the wearer can activate a *daylight diadem* by removing a flower to extend the range of her channel positive energy ability to 60 feet. The removed flower is consumed upon use.
+
+The wearer can also release the full brilliance of her *daylight diadem* in a single burst. With a command word, she causes all of the sunflowers remaining on the daylight diadem to be consumed and shed bright light in a 60-foot radius. This light counters or dispels any darkness spells of 4th level or lower and is treated as natural sunlight—the effect persists for a number of rounds equal to double the number of sunflowers consumed. While within the area of this light, all weapons are treated as good-aligned for the purpose of bypassing damage reduction and deal an additional 1d6 points of damage to evil creatures. This additional damage results directly from divine power and is therefore not subject to being reduced by resistance to energy. Creatures that are specifically hindered or harmed by sunlight take double this amount (2d6 points of damage per hit).
+
+Once all four flowers have been used, a *daylight diadem* can no longer be activated, but each time the crown is exposed to the light of the rising sun, a new sunflower (to a maximum of four sunflowers) blooms on the diadem.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *daylight*, *sunbeam*; **Cost** 10,000 gp
+
+### Death Mask
+
+**Aura** moderate necromancy; **CL** 6th
+
+**Slot** head; **Price** 16,000 gp; **Weight** 4 lbs.
+
+This elaborate wooden mask is carved in the image of the goddess of death. The owner of a *death mask* can place the mask upon a corpse to ask the corpse up to three questions as if by *speak with dead*, except the corpse does not get a Will saving throw if the mask’s owner is of a different alignment than the corpse had in life. This effect works as long as the head of the corpse is intact enough to fit the mask onto, no matter how damaged the corpse is otherwise. A *death mask* functions on a given corpse only once in this way; additional attempts to ask the corpse questions fail.
+
+If a living person dons the *death mask*, her appearance changes to that of the last person whose corpse was spoken with using the mask, as *alter self*. The wearer resembles the deceased person as she looked in life.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *alter self*, *speak with dead*; **Cost** 8,000 gp
 
 ### Death's Head Coffer
 
@@ -2316,6 +3358,32 @@ Death cults use this elixir to prevent their enemies from stealing their members
 **Construction**
 
 **Requirements** Craft Wondrous Item, *contagion*; **Cost** 700 gp
+
+### Deck of the Hellwasp's Sting
+
+**Aura** moderate conjuration; **CL** 9th
+
+**Slot** none; **Price** 10,380 gp; **Weight** 1 lb.
+
+This seemingly ordinary deck of 54 playing cards is held in an ornate wooden box with a simple clasp, decorated with wasp-themed art. The clergy of the goddess of lust and revenge sometimes gifts decks of this kind to its more devout and covert spies. As a move action, the owner of a *deck of the hellwasp’s sting* can draw a card from the deck and speak a command word to transform that card into a thrown weapon (treat as a *+1 flaming dart*). Alternatively, the user can draw and activate a card covertly as a standard action, using Sleight of Hand to palm it and treat it as a hidden weapon for a subsequent attack. A card is always destroyed after being thrown, even if it doesn’t hit the target. If the thrower uses the Arcane Strike feat with this attack, the feat’s bonus damage doubles.
+
+In addition, as long as there are at least 20 cards remaining in the deck, the entire deck can be sacrificed by speaking a command word and tossing the cards into the air as a full-round action. The cards transform into a swarm of burning, poisonous paper with the same statistics as a hellwasp swarm, except the swarm doesn’t gain the inhabit ability, and all damage dealt by its swarm attack is fire damage. The character who activated the ability can control the swarm as if it were summoned by the *summon swarm* spell for up to 10 rounds, at which point the swarm dissipates.
+
+**Construction**
+
+**Requirements** Arcane Strike, Craft Wondrous Item, *flame arrow*, *summon swarm*; **Cost** 5,190 gp
+
+### Decorum Band
+
+**Aura** faint divination; **CL** 3rd
+
+**Slot** wrists; **Price** 1,000 gp; **Weight** —
+
+This slim black leather bracer fits easily onto the wrist, growing tight against the skin within moments of putting it on. The wearer of a A *decorum band* is aware of any action that could cause a creature’s attitude toward the wearer to shift negatively. He acquires this information prior to performing such an action.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *detect thoughts*; **Cost** 500 gp
 
 ### Discord Bottle
 
@@ -2361,6 +3429,20 @@ Fashioned from bound reeds in traditional desert style, a *dune boat* is a wondr
 
 **Requirements** Craft Wondrous Item, *fabricate*,* shifting sand*APG, creator must have 2 ranks in Craft (ships); **Cost** 4,500 gp
 
+### Dust of Envy
+
+**Aura** moderate abjuration; **CL** 6th
+
+**Slot** amulet; **Price** 900 gp; **Weight** —
+
+Upon a frail silver chain dangles a tiny crystalline phial filled with light blue dust. When one shatters the phial, it releases a potent flash of abjuration magic that affects all evocation and necromancy magic in a 30-foot-radius with a targeted *dispel magic*. Each phial holds one use of the dust and, once used, the item is destroyed. This phial can be used as a thrown weapon (PH 158).
+
+While legends credit an ancient archmage of envy with creating *dust of envy*, further historical accounts imply that her rivals also uncovered the secrets of making their own virtue-related dusts — all of which activate under similar circumstances and produce similar effects, being attuned to a specific sin and targeting spells of the schools related to the two opposing sins.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *dispel magic*; **Cost** 450 gp, 36 XP
+
 ### Effigy of the Burial God
 
 **Aura** strong necromancy; **CL** 13th
@@ -2374,6 +3456,20 @@ In addition, an *effigy of the burial god* can be used to bring a dead creature 
 **Construction**
 
 **Requirements** Craft Wondrous Item, *speak with dead*,* temporary resurrection*UM; **Cost** 3,700 gp
+
+### Effigy of the Favored Servant
+
+**Aura** strong transmutation and necromancy; **CL** 15th
+
+**Slot** hand; **Price** 60,000 gp; **Weight** —
+
+An *effigy of the favored servant* is a thumb-sized *figurine of wondrous power* depicting a marble, toga-wearing slave. When commanded, the statue grows and animates with the same statistics as a hill giant. The giant has no hint of personality, but is capable of telepathically receiving orders from the item’s possessor up to a range of 100 feet. The item can be used twice a week for up to 6 hours per use. If animated in an area too small for the giant to appear in, the figurine simply doesn’t animate, with no weekly use expended.
+
+In addition to its use as a *figurine of wondrous power*, an *effigy of the favored servant* can be used as the repository of a dying soul once per day. By spending a full round action on a sentient, living creature reduced to –1 or fewer hit points, the effigy’s bearer can draw its soul into the statuette, killing the creature if it fails a DC 22 Will save. From that time forward, the giant summoned by the figurine has the same personality as the killed creature. The creature must obey the figurine bearer’s commands, and the effigy functions as normal. The creature retains none of the skills or abilities it had in life, being effectively trapped within the statuette. The creature cannot be resurrected or otherwise returned to life unless the effigy is destroyed. If the effigy is used to trap another dying soul, the first is released and may be raised normally.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *animate objects*, *death knell*, *trap the soul*; **Cost** 30,000 gp, 2,400 XP
 
 ### Electro-Temporal Bracer
 
@@ -2400,6 +3496,32 @@ This elixir is barely an ounce of blue-gold bubbling liquid. For 1 minute after 
 **Construction**
 
 **Requirements** Craft Wondrous Item, *arcane concordance*; **Cost** 650 gp
+
+### Elixir of Last Will
+
+**Aura** faint necromancy; **CL** 1st
+
+**Slot** none; **Price** 150 gp; **Weight** —
+
+If a character drinks this gray liquid, the next time (within 24 hours) he falls below 0 hit points, he exhales a sliver of his consciousness—whether he is alive or dead. If a character drinks multiple elixirs in a 24-hour period, only one is effective.
+
+As an immediate action, the sliver can guide the action of one ally within 30 feet of the drinker’s body. This guidance gives a +2 luck bonus on that ally’s next attack roll, to the ally’s AC against the next attack made against her, or on the ally’s next skill check. The drinker decides the type of bonus and the ally. The bonus must be used within 1 round.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *guidance*; **Cost** 75 gp
+
+### Elixir of Rancid Breath
+
+**Aura** faint conjuration; **CL** 5th
+
+**Slot** none; **Price** 1,400 gp; **Weight** —
+
+This foul-smelling concoction bestows upon the drinker the ability to exhale a 15-foot cone of disgusting vapor as a standard action up to three times. Living creatures caught in the cone must succeed at a DC 14 Fortitude save or become nauseated for 1d4+1 rounds. Unused rancid breaths dissipate 1 hour after the liquid is consumed.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *stinking cloud*; **Cost** 700 gp
 
 ### Elixir of Shadewalking
 
@@ -2437,6 +3559,30 @@ When imbibed, an *elixir of the peaks* gives the user the ability to scale and s
 
 **Requirements** Craft Wondrous Item, *endure elements*,* spider climb*; **Cost** 1,225 gp
 
+### Elixir of True Form
+
+**Aura** moderate abjuration; **CL** 8th
+
+**Slot** none; **Price** 1,600 gp; **Weight** —
+
+This elixir removes all curses and transmutation effects from the imbiber, including the unnatural mutations resulting from arcane warping or gained through an ancestor’s unspeakable interbreeding with ulat-kini. The elixir stops gillmen from transforming into skum but cannot reverse the transformation if a gillman has already become a skum.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *remove curse*; **Cost** 800 gp
+
+### Elocution Tooth
+
+**Aura** faint illusion; **CL** 5th
+
+**Slot** none; **Price** 6,400 gp; **Weight** —
+
+When placed in an open socket within the mouth, an *elocution tooth* translates the wearer’s crude, poorly chosen words into the finest grammar and diction. The excellent enunciation and polysyllabic utterances grant a +4 competence bonus on Diplomacy and Perform (oratory) checks.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *glibness*; **Cost** 3,200 gp
+
 ### Eloko Bell
 
 **Aura** moderate enchantment; **CL** 7th
@@ -2461,6 +3607,18 @@ An *emerald wedge ioun* stone is a bit larger than most ioun stones. This *ioun 
 
 **Requirements** Craft Wondrous Item, creator must be 12th level.; **Cost** 16,000 gp
 
+### Empty Hands
+
+**Aura** moderate illusion; **CL** 7th
+
+**Slot** gloves; **Price** 18,000 gp; **Weight** —
+
+The *empty hands* are an innocuous looking pair of wellcrafted gloves made of soft, tanned brown leather. As a standard action, the wearer can cause any weapon or item he holds to become invisible for 3 minutes, during which it is clear the wearer is holding something, but it’s not possible to see exactly what it is. The wearer gains a +1 circumstance bonus on attack rolls with an invisible weapon, a +5 circumstance bonus on opposed Bluff checks made to feint in combat or claim to be unarmed, and a +10 circumstance bonus on opposed Sleight of Hand checks made to conceal a weapon or item. This invisibility can be dismissed as a free action. The 3 minutes a held item is invisible need not be consecutive, but must be expended in 1-minute increments. Empty hands grant no bonuses against foes able to see invisible objects, as per spells like *see invisibility* or *true seeing*. *Empty hands* can only affect one item at a time, even if one item is held in each hand.
+
+**Construction**
+
+**Requirements** Craft Rod, *greater invisibility*; **Cost** 9,000 gp, 720 XP
+
 ### Entwined Syrinx
 
 **Aura** moderate illusion; **CL** 7th
@@ -2474,6 +3632,18 @@ Anytime anyone attempts to play the *entwined syrinx*, however, he must make a D
 **Construction**
 
 **Requirements** Craft Wondrous Item, *hypnotic pattern*; **Cost** 7,150 gp
+
+### Evergreen Seed Pouch
+
+**Aura** moderate conjuration; **CL** 9th
+
+**Slot** none; **Price** 16,000 gp; **Weight** 1/2 lb.
+
+This leather pouch is decorated with fresh mistletoe and sprigs of holly that are shaped to resemble the druidic symbol of the Green Faith. The pouch contains seeds of various small plants and grasses. When the pouch is used as a divine focus component for a spell that affects or creates plant matter—such as *entangle* or *spike growth*—its magic manifests as the pouch opens and the seeds float out. The seeds plant themselves in the ground and instantly grow to create any vegetation or grass that the spell requires to function inside of the spell’s area of effect. The vegetation created by the pouch grows regardless of the terrain, and lasts the full duration of the spell, allowing the user to cast plant-altering or plant-creating spells in deserts, badlands, and other harsh terrains.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *wall of thorns*; **Cost** 8,000 gp
 
 ### Expended Lightning Gun
 
@@ -2511,6 +3681,30 @@ Once per day, an *extraction scarificator* can be used to extract and concentrat
 
 **Requirements** Craft Wondrous Item, *bleed*,* calm emotions*,* cure moderate wounds*,* lesser restoration*,* rage*; **Cost** 1,250 gp
 
+### Eye of Scrying
+
+**Aura** moderate divination (scrying); **CL** 7th
+
+**Slot** none; **Price** 6,000 gp; **Weight** 7 lbs.
+
+This bloodshot eye is larger than a grown man’s fist. Its vivid green iris suggests strange depths, and is unnerving to look at for too long. Once per day you may use it to cast *clairaudiance/clairvoyance*. If you can cast *scrying*, you may use the eye as your focus object for the spell.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *clairaudience/clairvoyance*; **Cost** 3,000 gp, 240 XP
+
+### Eye of the Cyclops
+
+**Aura** moderate transmutation; **CL** 8th
+
+**Slot** eyes; **Price** 32,000 gp; **Weight** —
+
+Captured in a battle of wits with a brilliant cyclops by a goblin hero, this handsome monocle grants a +4 enhancement bonus to Intelligence. The wearer also understands all written words read through the monocle, as *comprehend languages*. He further gains a +2 insight bonus on Knowledge checks, and may make Knowledge checks even if untrained.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *fox’s cunning*, *comprehend languages*; **Cost** 16,000 gp
+
 ### Eye of the Deep Lord
 
 **Aura** faint divination and evocation; **CL** 5th
@@ -2539,6 +3733,20 @@ This peculiar idol, carved from some unknown green stone, depicts a seven-legged
 
 **Requirements** Craft Wondrous Item, *commune*,* water breathing*; **Cost** 14,000 gp
 
+### Faith Orb
+
+**Aura** moderate evocation; **CL** 9th
+
+**Slot** none; **Price** 2,250 gp; **Weight** —
+
+This brass orb is a bit larger than a human fist. It is covered with symbols of goodness and law and thick studs. If used as an improvised weapon, it deals 1d6 points of bludgeoning damage and serves as a good weapon for the purpose of overcoming damage reduction.
+
+The *faith orb* is activated when a special stud is depressed (usually marked by a different metal). activating the orb is a standard action, but the orb may be thrown as a ranged touch attack (10-foot range increment) with the same action that is used to activate it. at the end of the action or when it hits its target (use the chart on PHB 158 to see where it goes if you miss), it triggers a *flame strike* centered on the orb. Creatures caught in the blast area suffer 9d6 damage as the spell, or half with a Dc 17 Reflex save. The *faith orb* is consumed in the process.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *flame strike*; **Cost** 1,125 gp, 45 XP
+
 ### Falcon Crown
 
 **Aura** moderate transmutation; **CL** 10th
@@ -2553,6 +3761,22 @@ The wearer of the *falcon crown* gains a +2 insight bonus to her Armor Class. In
 
 **Requirements** Arcane BlastAPG, Craft Wondrous Item, *foresight*,* haste*; **Cost** 21,000 gp
 
+### Familiar's Soulstone
+
+**Aura** moderate necromancy; **CL** 9th
+
+**Slot** none; **Price** 10,500 gp; **Weight** 1 lb.
+
+A *familiar’s soulstone* looks like an unpolished, rough red gem the size of a fist. The bearer can use the *familiar’s soulstone* to perform an hour-long ritual that binds the soul of his familiar, animal companion, or bonded mount to the soulstone. Once this bond is established, the only way to sever it is to destroy the gem.
+
+If the bonded creature dies while on the same plane as its *familiar’s soulstone*, its soul is siphoned into the gem, where it’s preserved for 24 hours. Within this period, holding the gem to the body of the deceased bonded creature for 1 full minute restores that creature to life, as *raise dead*. The gem is destroyed in the process. A witch’s familiar brought back to life using a *familiar’s soulstone* retains all of its stored spells. If the soul isn’t extracted from the gem within 24 hours, the gem crumbles to dust, automatically releasing the soul to the Great Beyond.
+
+A creature can have only one *familiar’s soulstone* bound to it at a time, and a *familiar’s soulstone* can be bound only to a single creature.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *raise dead*; **Cost** 5,250 gp
+
 ### Farglass
 
 **Aura** faint divination; **CL** 5th
@@ -2564,6 +3788,57 @@ This telescoping brass spyglass functions as a normal spyglass and allows clear 
 **Construction**
 
 **Requirements** Craft Wondrous Item, *clairaudience/ clairvoyance*; **Cost** 3,700 gp
+
+### Fate-Woven Braid of the Norns
+
+**Aura** strong abjuration and evocation; **CL** 16th
+
+**Slot** wrists; **Price** 9,000 gp; **Weight** —
+
+At first glance, this circlet of plaited hair interwoven with a single gold thread appears to be nothing more than a personal memento or a lover’s token. Closer examination reveals that each strand of hair seems to have neither a beginning nor an end. Most of these braids are blonde in color, but other hues are not unknown.
+
+Up to three times per day, the wearer of a *fate-woven braid of the norns* can potentially negate a disastrous turn of fortune. Upon rolling a natural 1 on a saving throw or after failing a saving throw against a death effect, the wearer can activate the braid as a free action to reroll the saving throw.
+
+The golden thread is vulnerable to severe twists of fate, though. If the result of any reroll obtained by the braid is ever a natural 20, the golden thread frays, permanently reducing the braid’s daily reroll uses by one. If all three daily uses are eliminated in this manner, the golden thread snaps and the *fate-woven braid of the norns* falls apart into a nonmagical pile of wispy gray hair. A *fate-woven braid of the norns* uses up the entire wrists slot, even though the user wears only one at a time. The user can’t use another item (even another *fate-woven braid of the norns*) that also uses the wrists slot.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *death ward*; **Cost** 4,500 gp
+
+### Fetish of Natural Armor
+
+**Aura** faint transmutation; **CL** 5th
+
+**Slot** amulet; **Price** 1,500 gp (+1), 7,000 gp (+2), 16,500 gp (+3); **Weight** —
+
+This fetish is a small charm made of bound sticks and ornamental stones worn around the neck on a thong. Wearing it toughens your body and flesh, giving you an enhancement bonus to your natural armor bonus from +1 to +3, depending on the kind of fetish, similar to an *amulet of natural armor*. in the creation of one of these amulets, a portion of your spirit is bound up in it so that once worn, if removed, you gain a negative level until this fetish or another ekujae fetish is worn again. This negative level can be permanently removed and your connection with the fetish broken with a *restoration* spell or a *remove curse* spell immediately followed by a successful Dc 15 fortitude save. if you fail the save, you must receive another *remove curse* before you can attempt another save.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *barkskin*, creator’s caster level must be at least 3 times the fetish’s bonus; **Cost** 750 gp, 60 XP (+1), 3,500 gp, 280 XP (+2), 8,250 gp, 660 XP (+3)
+
+### Fetish of the Frog Queen
+
+**Aura** strong transmutation; **CL** 17th
+
+**Slot** none; **Price** 9,000 gp (Lesser), 32,500 gp (Standard), 73,000 gp (Greater); **Weight** 4 lbs.
+
+Created from the bodies of certain frogs whose poisons induce potent hallucinations and delusions, these mummified husks are variously cited as the invention of either grippli druids or an unusually cunning boggard priest-king. Regardless, their powers are a boon to any caster favoring mental manipulation and alteration.
+
+Three times per day while casting a targeted mind-affecting spell that allows a Will save, a caster holding a *fetish of the frog queen* can lace the spell’s energies with a magical poisonous essence. Instead of affecting the target’s mind directly, the altered spell attacks through the victim’s body as a psychotropic toxin, requiring the victim to use his Fortitude modifier in place of Will for the purposes of any Will saving throws the spell normally allows.
+
+An altered spell is considered a poison effect, with the following conditions.
+- An altered spell can be suppressed by effects such as *delay poison*. Time spent suppressed still counts against the spell’s duration.
+- If *accelerate poison* is used on the spell, the poison effect’s duration is halved but its saving throws are unaffected.
+- An altered spell transferred to another target, such as by *absorb toxicity*, is still considered cast by the original caster for the purposes of adjudicating spell effects, such as which creature a charmed victim regards as its friend.
+
+An altered spell is still vulnerable to spell resistance, dispelling, and other effects as normal.
+
+Three varieties of *fetish of the frog queen* exist: lesser, standard, and greater. A lesser fetish affects spells of up to 3rd level; a standard fetish affects spells of up to 6th level; and a greater fetish affects any spell.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *poison*; **Cost** 4,500 gp (Lesser), 16,250 gp (Standard), 36,500 gp (Greater)
 
 ### Flask of Ebon Flame
 
@@ -2617,6 +3892,18 @@ The wearer of a flayer’s mask gains a +2 competence bonus on Perception checks
 **Construction**
 
 **Requirements** Craft Wondrous Item, *deathwatch*; **Cost** 750 gp
+
+### Flute of Persuasion
+
+**Aura** moderate conjuration; **CL** 4th
+
+**Slot** none; **Price** 14,000 gp; **Weight** 2 lbs.
+
+This slender flute inscribed with diabolical symbols grants additional control over charmed creatures. When played by a person who succeeds at a DC 13 Perform (wind instruments) check, the flute allows the player to issue a telepathic command to a single creature within 30 feet he has previously charmed, per the *suggestion* spell. If the player issues a suggestion that would put the charmed creature in harm’s way, the creature receives a DC 13 Will save to resist. A successful save prevents the victim from following the order that round, but the creature remains charmed in any case.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *suggestion*; **Cost** 7,000 gp
 
 ### Flying Platform
 
@@ -2786,6 +4073,35 @@ A *glorious tabard* functions only for wearers who are both members of the crusa
 
 **Requirements** Craft Wondrous Item, *veil of heaven*,* weapons against evil* (*greater glorious tabard only*), creator must be a member of crusading order and follower of the goddess of valor; **Cost** 200 gp (Lesser), 1,625 gp (Greater)
 
+### Glove of Strength-Stealing
+
+**Aura** moderate necromancy; **CL** 6th
+
+**Slot** gloves; **Price** 6,000 gp; **Weight** —
+
+This single, seamless glove of gray calfskin is fitted with silver finger bones, covering the wearer’s hand snugly yet stretching to accommodate movement. Once per day, the wearer of a *glove of strength-stealing* may spend a free action to activate a *chill touch* effect, as per the spell. Any Strength damage inflicted by the wearer’s touch for the 6 rounds it remains in effect is added to his Strength score as an enhancement bonus (to a maximum of +6). This bonus fades 1 hour after the glove is activated.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *bull’s strength*, *chill touch*; **Cost** 3,000 gp, 240 XP
+
+### Goblet of Liquefied Cognition
+
+**Aura** moderate divination and transmutation; **CL** 7th
+
+**Slot** none; **Price** 18,000 gp; **Weight** 5 lbs.
+
+This ornate, oversized silver goblet is wrought with runes and letters in a profusion of languages. When written words are placed in the goblet—whether written on a piece of parchment, carved into stone, or other such means of delivering physical text—the text detaches itself from the source, liquefying into a sweet wine over the next 10 minutes. The liquid can then be drunk, granting the imbiber benefits based on the nature of the text.
+- Pages from a spellbook representing a single spell can be drunk, allowing an arcane spontaneous caster to add that spell to her list of spells known for 24 hours. The spell must be on the imbiber’s spell list.
+- An arcane scroll can be drunk, allowing the immediate memorization of its contents by an arcane caster who prepares spells. The memorized spell must be on the imbiber’s class spell list and still requires an open spell slot of the appropriate level to use. The imbiber uses her own caster level and spellcasting ability modifier to cast the spell, rather than the caster level of the scroll.
+- Nonmagical writing can also be drunk, granting a complete understanding of the text’s contents. This doesn’t require an understanding of the text’s language. The goblet can liquefy the text of up to 10 standard-sized pages at once.
+
+In all cases, the text is destroyed once drunk, and the knowledge gained fades after 24 hours. The goblet can be used three times per day.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *comprehend languages*, *create water*, *mnemonic enhancer*; **Cost** 9,000 gp
+
 ### Golden Dragon Kite
 
 **Aura** faint evocation; **CL** 3rd
@@ -2800,6 +4116,58 @@ Rumors say that in the far east, versions of these kites exist that deliver othe
 
 **Requirements** Craft Wondrous Item, *burning hands*; **Cost** 1,800 gp
 
+### Golden Guard Helm
+
+**Aura** strong transmutation; **CL** 15th
+
+**Slot** head; **Price** 48,000 gp; **Weight** —
+
+This ornate, crested helmet of gold is typical of those worn by palace and household guards in and around a lost imperial city. Topped with a brush of platinum bristles and filigreed with silver around the rim and nose guard, the golden helm is as much a display of wealth and status as it is a powerful magic tool. When donning a *golden guard helm*, the wearer takes on the appearance of a masterfully sculpted golden statue. This change is purely cosmetic, except for 10 minutes per day when the owner can activate the effects of an *iron body* spell. The *iron body* effect can be activated as a free action.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *iron body*; **Cost** 24,000 gp, 1,920 XP
+
+### Gorget of Living Whispers
+
+**Aura** moderate conjuration and enchantment; **CL** 9th
+
+**Slot** neck; **Price** 15,000 gp; **Weight** —
+
+Once per day as a standard action, the wearer of this collar can speak a suggested course of action. Her words coalesce into a living whisper—a sinuous creature with blue runes lining its back—that appears in a square adjacent to her. The living whisper uses the statistics of a fiendish venomous snake, but has an Intelligence score of 3 and can communicate telepathically with the gorget’s wearer. Instead of being poisoned, any creature bitten by the living whisper must succeed at a DC 14 Will save or be affected by a *suggestion* spell (CL 9th). This *suggestion* is determined when the living whisper is summoned and affects all creatures bitten by it. Creatures that can read Aklo can read the runes on the living whisper and know what *suggestion* is carried by its bite. A living whisper lasts for 1 minute or until slain.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *suggestion*, *summon monster III*; **Cost** 7,500 gp
+
+### Gossiper's Gourd
+
+**Aura** faint divination; **CL** 3rd
+
+**Slot** none; **Price** 12,500 gp; **Weight** 1 lb.
+
+This drinking gourd has a slender neck capped with a tethered cork, as well as a leather strap so it can be hung from a belt or pack. Once per day, the *gossiper’s gourd* can be filled with water from a village well or other local water source, becoming attuned to that source as long as the gourd is full of water. The bearer gains a +2 insight bonus on any Knowledge (local) checks she attempts within a 1-mile radius of the water source, and can speak and understand (though not read or write) the dominant local language in that area. These effects persist as long as the attuned gourd is full.
+
+By drinking all the local water from a *gossiper’s gourd*, the imbiber gains a +5 insight bonus on all Bluff, Diplomacy, Knowledge (local), and Sense Motive checks within a 1-mile radius of the water source for 1 hour. In addition, during that hour, the user can plant an idea or suspicion in the mind of one local person within 30 feet by whispering the idea into the empty gourd. This effect functions as *sow thought*, except the target must be from the local area. A successful DC 12 Will save negates the effect.
+
+A *gossiper’s gourd* can’t become attuned to a water source more than once per day. For example, if the owner fills the gourd from a well at the beginning of the day, then drinks the water, she must wait until the beginning of the next day to benefit from the gourd again.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *share language*APG,* sow thought*ARG, creator must have at least 5 ranks in Knowledge (local); **Cost** 6,250 gp
+
+### Gourd of Fire Burping
+
+**Aura** faint evocation; **CL** 4th
+
+**Slot** none; **Price** 250 gp; **Weight** —
+
+A lesser version of the *elixir of fire breath*, a *gourd of fire burping* can be imbibed as a normal elixir or, in the case of a user with a large enough mouth and low enough standards, be completely consumed in one crunchy gulp. Once the user has consumed the gourd, she can immediately expel a belch of fire in a 15-foot cone, dealing 2d6 points of fire damage to all creatures in the area. A successful DC 12 Reflex save halves the damage. If the user elects not to use the fire breath at once, she can store the breath for up to an hour before it dissipates.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *burning hands* or *produce flame*; **Cost** 125 gp
+
 ### Great War Mask
 
 **Aura** faint necromancy; **CL** 4th
@@ -2811,6 +4179,18 @@ This oversized wooden mask covers the face and extends down to a point at the we
 **Construction**
 
 **Requirements** Craft Wondrous Item, *scare*,* shield*; **Cost** 1,850 gp
+
+### Greater Hat of Disguise
+
+**Aura** faint illusion; **CL** 3rd
+
+**Slot** head; **Price** 12,000 gp; **Weight** —
+
+Like a *hat of disguise*, this garment allows its wearer to alter her appearance. It functions as an *alter self* spell (as opposed to *disguise self*). The hat becomes a part of the disguise and can be a hat, a helmet, a headscarf, and so forth.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *alter self*; **Cost** 6,000 gp
 
 ### Gremlin Bell
 
@@ -2870,6 +4250,22 @@ A creature that comes within 20 feet of the wearer must succeed at a Will save (
 
 **Requirements** Craft Wondrous Item, *calm emotions*; **Cost** 24,000 gp
 
+### Groundbreaker Cloak
+
+**Aura** moderate transmutation; **CL** 9th
+
+**Slot** shoulders; **Price** 22,000 gp; **Weight** 6 lbs.
+
+This heavy cloak is made from the hide of a bulette, its thick gray leather heavily abraded and seemingly always dusty, and features a plated dorsal fin that protrudes from between the wearer’s shoulders.
+
+As a standard action, the wearer of a *groundbreaker cloak* can dive into the ground, gaining a burrow speed of 20 feet through sand, soil, gravel, and loose stone. While burrowing, the wearer cannot run or charge and must travel along the surface, leaving the exposed dorsal plate visible from above. As the wearer burrows, displaced dirt swells before her and collapses behind her to create difficult terrain in her wake. She has cover from attacks while burrowing. Unless the wearer has some other means of breathing while submerged, she must hold her breath while burrowing. Emerging from the ground is a move action that doesn’t provoke attacks of opportunity.
+
+Once per day, the wearer can perform a charge attack by diving deep into the ground, burrowing up to 40 feet in a straight line (ignoring any obstacles that don’t extend at least 10 feet into the ground) and bursting forth into a square adjacent to a target creature. This use of the cloak does not disturb the terrain as noted above, except where the wearer enters and exits the ground. The wearer ends this movement standing and the target of the charge is considered flat-footed against the attack.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *beast shape III*, *burrow*UM; **Cost** 11,000 gp
+
 ### Habit of the Winter Explorer
 
 **Aura** faint abjuration and transmutation; **CL** 3rd
@@ -2914,6 +4310,18 @@ This nearly perfect pearl replica of a hand is attached to a gold chain and can 
 
 **Requirements** Craft Wondrous Item, *interposing hand*; **Cost** 10,129 gp
 
+### Hand of the Theurge
+
+**Aura** strong transmutation; **CL** 15th
+
+**Slot** none; **Price** 16,000 gp; **Weight** —
+
+This large crystal, sized and shaped like a loosely clenched human fist, perfectly accepts any wand. As a standard action, the hand can be loosed to activate a wand on its own at any target within range. Any such activation costs 3 charges from the wand. The hand can activate the wand for up to 4 rounds and then drops. It is considered attended by you for all effects that target items, and it exists within your space. The *hand of the theurge* accompanies you everywhere, whether you move by physical or magical means. If you have an unoccupied hand, you can grasp it while it is activating on its own as a free action; when so retrieved, the hand can’t animate again for 4 rounds.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *animate objects*; **Cost** 8,000 gp, 640 XP
+
 ### Headband of Twisted Intellect
 
 **Aura** moderate transmutation; **CL** 10th
@@ -2945,6 +4353,18 @@ If the user takes a full-round action to carefully spread a *hearth mantle* on t
 **Construction**
 
 **Requirements** Craft Wondrous Item, *nap stack*,* produce flame*; **Cost** 1,800 gp
+
+### Hellfire Infusion
+
+**Aura** moderate enchantment **CL** 5th
+
+**Slot** none; **Price** 1,900 gp; **Weight** —
+
+This bubbling red liquid is stored within a glass and iron syringe of diabolical craftsmanship that is warm to the touch. When injected into a living creature (a standard action that provokes attacks of opportunity), the fiery liquid surges through the subject’s veins, filling it with hellish ferocity and an outwardly fiendish appearance. While under the effects of a *hellfire infusion*, the subject creature gains a +2 morale bonus on attack rolls, saves, and skill checks. Its skin turns crimson, its eyes change to burnished yellow, and short horns sprout from its head. By all appearances, the subject transforms into a fiendish creature, although the alteration is only superficial. These effects last for 50 minutes.
+
+**Construction**
+
+**Requirements** Brew Potion, *alter self*, *heroism*; **Cost** 950 gp, 38 XP
 
 ### Hivebrain Symbiote
 
@@ -2993,6 +4413,20 @@ As a standard action, this gold-plated drinking horn can produce a golden draugh
 **Construction**
 
 **Requirements** Craft Wondrous Item, *break enchantment*,* stoneskin*; **Cost** 3,500 gp, 280 XP
+
+### Horned Helm of the Wild Stag
+
+**Aura** moderate transmutation; **CL** 7th
+
+**Slot** head; **Price** 14,000 gp; **Weight** 3 lbs.
+
+Numerous antlers protrude from this ornate leather helm, creating an impressive array of bony points that jut out in several directions. When the *horned helm of the wild stag* is donned, the wearer’s facial structure subtly elongates in a manner reminiscent of a stag’s head. He gains a +2 dodge bonus to AC against attacks of opportunity.
+
+Once per day when the wearer charges an enemy or attempts an overrun combat maneuver, he can as part of his action activate the helm to summon dozens of spectral stags to accompany him during his movement. These ghostly stags gallop around him in a frenzy, with the unmistakable sound of pounding hooves, and stampede through any creature within 5 feet of the wearer at any point during his movement. Although this stampede causes no physical damage, each affected creature must attempt a DC 16 Will save to avoid being overcome by the frenzy of the rampaging herd. A creature that fails this save must use its next turn to charge the nearest valid target (including its allies), if possible. Creatures that are unable to charge must instead move away from the wearer of the helm as quickly as possible on their next turn. This is a mind-affecting compulsion effect.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *aspect of the stag*APG,* moonstruck*UM; **Cost** 7,000 gp
 
 ### Hospitality's Hammock
 
@@ -3059,6 +4493,30 @@ Alternatively, instead of drinking the ice floe elixir, the vial can be uncorked
 **Construction**
 
 **Requirements** Craft Wondrous Item, *faerie fire*,* meld into stone*,* resist energy*; **Cost** 1,125 gp
+
+### Icon of Aspects
+
+**Aura** moderate evocation; **CL** 7th
+
+**Slot** none; **Price** 5,500 gp; **Weight** 1 lb.
+
+When a cleric with an *icon of aspects* prepares spells, she may replace the granted powers of one of her domains with those of a different domain she doesn’t have but that is associated with her deity. This lasts until the next time she prepares spells. The cleric must meet the level requirements for both abilities. For example, a 6th-level cleric with the Good domain who swaps for the Healing domain can’t use healer’s blessing even though she meets the level requirement, because the holy lance power of the Good domain requires her to be 8th level. The icon affects only granted powers, not domain spells, bonus feats, or other benefits. The icon can affect only one person at a time.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *imbue with spell ability*, creator must be a divine spellcaster; **Cost** 2,750 gp
+
+### Idol of the Eye
+
+**Aura** moderate divination; **CL** 9th
+
+**Slot** none; **Price** 19,000 gp; **Weight** 5 lbs.
+
+This squat, golden idol looks like a bald, obese wise man with an extra eye in his forehead. It can be used once per day to gain information as with an *augury* spell, and once per day as a *divination* spell. Once per week, a single yes-or-no question can be asked of it (as with a *commune* spell). The answers do not come from a deity, but instead from insights granted by celestial movements and conjunctions; a sample insight might be, “Because the two wandering stars are in conjunction in the House of the Eagle, the answer is yes.”
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *augury*, *commune*, *divination*; **Cost** 9,500 gp
 
 ### Impossible Bottle
 
@@ -3231,6 +4689,52 @@ A *greater iron beard* functions identically to the lesser version, but offers m
 
 **Requirements** Craft Wondrous Item, *grasping hand* (lesser and greater), *ill omen*APG (greater); **Cost** 17,625 gp (Lesser), 21,125 gp (Greater)
 
+### Ironmorph Dust
+
+**Aura** faint transmutation; **CL** 5th
+
+**Slot** none; **Price** 500 gp; **Weight** 1 lb.
+
+This bag of powder has a sharp metallic odor. *Ironmorph dust* can be applied to a willing adjacent creature as a standard action, or thrown as a ranged touch attack with a range increment of 10 feet. On contact, it causes the target’s clothing to stiffen and harden (Reflex DC 15 negates). If the target is wearing light or no armor, his clothing is treated as chainmail for all purposes—including armor bonus, arcane spell failure chance, and armor check penalty—except weight. Exceptionally light clothing (such as a nightshirt or silks) is instead treated as a chain shirt. Exceptionally heavy clothing (such as a cold-weather outfit or elaborate ceremonial garb) is instead treated as full plate. If the target is already wearing medium or heavy armor, he instead gains DR 5/adamantine, but the maximum Dexterity bonus of his armor decreases by 3 (to a minimum of +0), and its armor check penalty increases by 3.
+
+After 5 rounds, affected clothing returns to normal. *Ironmorph dust* has no effect on creatures not wearing clothing or armor.
+
+Armor or clothing affected by *ironmorph dust* is effectively metal, and counts as such for abilities or classes that are restricted to certain types of armor (such as druids); however, any abilities that are suppressed or lost due to the *ironmorph dust’s* effects are restored at the end of the dust’s duration, instead of after their normal time limit.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *silk to steel*UM; **Cost** 250 gp
+
+### Jade Mantis
+
+**Aura** moderate transmutation; **CL** 11th
+
+**Slot** none; **Price** 9,450 gp; **Weight** —
+
+A tiny emerald statuette, the jade mantis is part of the broader collection of *figurines of wondrous power* (often referred to as jeweled life). When activated, the statuette transforms into a giant praying mantis under your command. You may call upon it three times per week for up to 1 hour per use.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *animate objects*; **Cost** 4,725 gp, 378 XP
+
+### Jar of Mottled Clay
+
+**Aura** faint transmutation; **CL** 3rd
+
+**Slot** none; **Price** 600 gp; **Weight** 1 lb.
+
+This empty clay jar, suitable for holding a few ounces of liquid, smells of freshly tilled earth and changes hue in sunlight. A *jar of mottled clay* can be thrown as a ranged touch attack with a range increment of 10 feet.
+
+When the jar strikes a creature or a solid object, a mound of earth and clay rises up from where it struck. The mound is 5 feet wide and 10 feet tall, and has a hardness of 2 and 40 hit points. A creature struck by a direct hit must succeed at a DC 13 Reflex save or be pushed back 5 feet and knocked prone as the mound erupts where the target was standing. Success allows the creature struck to move 5 feet in any direction and avoid being knocked prone.
+
+The mound lasts for 3 rounds before losing its structure and collapsing into a pile of dirt. A creature can topple a mound with a successful DC 18 Strength check; creatures within 10 feet on the opposite side of the mound must attempt Reflex saves as if directly struck by the *jar of mottled clay*. When a mound collapses or is destroyed, it creates difficult terrain in a 5-foot-radius area centered on the square where it was created.
+
+A *jar of mottled clay* can optionally be filled with an alchemical item. Filling a jar requires a successful DC 15 Craft (alchemy) check. When thrown, a modified jar applies the effects of the alchemical item along with its own effect; contradictory or bizarre combinations of effects are subject to the GM’s discretion.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *soften earth and stone*; **Cost** 300 gp
+
 ### Kapre Cigar
 
 **Aura** faint evocation and necromancy; **CL** 7
@@ -3362,6 +4866,18 @@ This item takes the form of a half-dozen brown beans, usually contained in a sim
 
 **Requirements** Craft Wondrous Item, *beanstalk*; **Cost** 700 gp
 
+### Mantle of Lordly Command
+
+**Aura** moderate illusion and enchantment; **CL** 10th
+
+**Slot** mantle; **Price** 23,000 gp; **Weight** —
+
+This intimidating mantle of gold and silver is set with several large gems, which seem to change in cut and type of stone every time it’s viewed. The wearer of this mantle always appears to be clean, uninjured, and calm, granting him a +5 bonus on Diplomacy checks. Also, once per day as a standard action, the wearer can bellow a single word in a thundering, imperious tone. This functions as the spell *shout*, and the word can be heard by any creature within 200 feet. If this word is one of the five orders detailed by the spell *command*, in addition to the effects of shout, all creatures within 25 feet must make a DC 16 Will save or be affected as if by the spell *command*. Those damaged by *shout* take a –4 penalty on this Will save.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *disguise self*, *greater command*, *shout*; **Cost** 11,500 gp, 920 XP
+
 ### Map of the High Ice
 
 **Aura** moderate divination; **CL** 11th
@@ -3385,6 +4901,18 @@ This pirate’s eye patch typically features at least one jewel set into a leath
 **Construction**
 
 **Requirements** Craft Wondrous Item, *comprehend languages*,* scorching ray*,* see invisibility*; **Cost** 6,000 gp
+
+### Memory Mud
+
+**Aura** faint enchantment (compulsion); **CL** 10th
+
+**Slot** none; **Price** 1,500 gp; **Weight** —
+
+When rubbed into the scalp, *memory mud* allows the user to recall the previous 10 minutes in perfect detail. So elaborate is the memory that the wearer may always attempt additional Perception checks that allow him to notice details missed during the event itself.
+
+**Construction**
+
+**Requirements** *Craft Wondrous Item*, *modify memory*; **Cost** 750 gp
 
 ### Mi-Go Mist Projector
 
@@ -3412,6 +4940,22 @@ The information in a *mnemonic repository* can be recalled in a similar fashion,
 
 **Requirements** Craft Wondrous Item, *mindlink*; **Cost** 1,500 gp
 
+### Monkey King’s Puzzle Box
+
+**Aura** moderate conjuration and illusion; **CL** 10th
+
+**Slot** none; **Price** 15,200 gp; **Weight** 1 lb.
+
+The plainly lacquered exterior of this wooden puzzle box cunningly hides the devious clockwork mechanism inside. To those unversed in its abilities, *Monkey King’s puzzle box* seems to be little more than a frustratingly impossible child’s toy that is adorned with the holy symbol of the Monkey King.
+
+Once per day as a standard action, the user can unlock *Monkey King’s puzzle box* to create two simultaneous effects. First, a shower of golden sparks envelops the user, causing her to become invisible and immediately teleporting her exactly 20 feet in a direction of her choice. Second, a monkey swarm bursts from the same square the user left.
+
+Although the monkey swarm isn’t under the control of the user, the monkeys keep at least 20 feet from the user at all times and attempt to surround as many of her opponents as possible. This effect otherwise acts as *mad monkeys* with a CMB of +12. Both the invisibility effect and the monkey swarm last for 10 rounds.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *dimension door*, *invisibility*, *mad monkeys*UM, creator must be chaotic; **Cost** 7,600 gp
+
 ### Monument's Truth
 
 **Aura** strong divination and necromancy; **CL** 12th
@@ -3438,6 +4982,18 @@ Greater agents of a death cult use these silver medallions as keys to their sanc
 
 **Requirements** Craft Wondrous Item, *detect undead*,* knock*,* message*,* spectral hand*,* vampiric touch*; **Cost** 20,000 gp
 
+### Mortuary Mask
+
+**Aura** moderate necromancy; **CL** 6th
+
+**Slot** head; **Price** 3,500 gp; **Weight** 2 lbs.
+
+A *mortuary mask* covers the top half of the face, leavrng the mouth and chin exposed. The design of this eerie mask evokes that of a human skull, although some *mortuary masks* have more canine or even demonic features. Regardless of the mask’s appearance, once it is donned, a *mortuary mask* works to enhance the wearer’s presence, making him or her appear more horrific and frightening and granting a resonant tone to the wearer’s voice. These enhancements grant a +3 circumstance bonus on all lntimidate checks made while the mask is worn. In addition to this unnerving effect, a *mortuary mask* also grants constant *deathwatch* while it is worn, allowing the wearer to see the auras of living and dead creatures within 30 feet. The wearer loses the ability if he is blinded or cannot see (such as might occur while in darkness). Furthermore, the mask guides the wearer’s hand against foes who are heavily wounded. When the wearer of a mortuary mask attacks a creature that has 3 or fewer hit points remaining, the wearer gains a +2 insight bonus on the attack roll.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *cause fear, deathwatch*; **Cost** 1,750 gp
+
 ### Mossy Disk Ioun Stone
 
 **Aura** strong divination and evocation; **CL** 12th
@@ -3445,14 +5001,6 @@ Greater agents of a death cult use these silver medallions as keys to their sanc
 **Slot** none; **Price** 5,000 gp; **Weight** —
 
 This stone grants you a +5 competence bonus on checks with one Knowledge skill (chosen by the stone’s creator).
-
-### Resonance
-
-This stone grants a +1 competence bonus on Appraise checks.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, *fox’s cunning*, creator must be 12th level; **Cost** 2,500 gp
 
 ### Mouthpiece of the Dominion
 
@@ -3470,6 +5018,36 @@ Any neh-thalggu within telepathic range of the wearer can speak audibly through 
 
 **Requirements** Craft Wondrous Item, *beast shape I*,* magic mouth*; **Cost** 4,000 gp
 
+### Mudstone Minion
+
+**Aura** moderate conjuration; **CL** 9th
+
+**Slot** none; **Price** 9,250 gp; **Weight** 1 lb.
+
+When you take a full-round action to mold this perpetually moist lump of clay into an animal, it flashes to life and grows to full size, attacking your enemies or following your commands if you have the means to communicate with animals. After 9 rounds the animal reverts to nonmagical clay. You may use the clay to create any sort of creature that *summon nature’s ally I*, *II*, *III*, *IV*, or *V* can summon. There is enough clay to create up to five spell levels of creatures. For example, you could expend 3 spell levels of clay to create a lion (from the *summon nature’s ally III* list) and still have 2 spell levels left over. Each use of the clay produces only one creature.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *summon nature’s ally V*; **Cost** 2,250 gp, 90 XP
+
+### Murktouch Cloak
+
+**Aura** moderate conjuration; **CL** 9th
+
+**Slot** shoulders; **Price** 20,000 gp; **Weight** 1 lb.
+
+This lustrous crimson cloak has an ethereal quality to it, and is unnaturally light. When the wearer speaks the item’s command word, a *murktouch cloak* dissolves into a vortex of red fog that churns around her and extends her awareness.
+
+The fog forms a 15-foot-radius emanation around the wearer and remains centered on her for as long as the cloak is activated. All creatures in the fog gain concealment (20% miss chance), but the wearer has blindsight within the area. The vortex is unaffected by wind or any similar effect.
+
+Whenever the wearer casts a spell or uses an ability that requires a successful touch attack, she can attempt that touch attack against any creature within the fog, even if she is not adjacent to the targeted creature.
+
+The cloak can be activated for up to 10 rounds per day, though these rounds need not be consecutive. Its magic can be dismissed as a free action.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *echolocation*UM,* fog cloud*, *mage hand*; **Cost** 10,000 gp
+
 ### Mutineer's Bane Earring
 
 **Aura** moderate divination; **CL** 7th
@@ -3483,6 +5061,18 @@ A *mutineer’s bane earring* has additional effects if worn by a commodore or a
 **Construction**
 
 **Requirements** Craft Wondrous Item, *detect thoughts*; **Cost** 2,000 gp
+
+### Muzzle of Suppression
+
+**Aura** faint abjuration and illusion; **CL** 5th
+
+**Slot** head; **Price** 8,000 gp; **Weight** 5 lbs.
+
+A *muzzle of suppression* hardly resembles the long-snouted devices often equipped to dogs or other dangerous creatures. More mask than anything, this leather garment sports an orange metallic ball that’s inserted in the creature’s mouth, after which the mask’s straps and chains are secured around the back of the creature’s head and neck. The muzzle can be strapped around a humanoid-shaped head (such as that of a capramace) to negate the creature’s ability to speak, mumble, or make any noise at all, identical to the effect of a *silence* spell. Not even muffled cries for help can pierce the barrier created by a *muzzle of suppression*. The garment’s keystone strap can only be opened by the creature that placed the muzzle on its subject; other creatures attempting to disassemble the strap must succeed at a DC 30 Disable Device check to do so. A *dispel magic* or *knock* spell can also unlock a *muzzle of suppression*.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *arcane lock*, *silence*; **Cost** 4,000 gp
 
 ### Mythopoeic Sphinx
 
@@ -3540,6 +5130,32 @@ The magic of a *necklace of lovelies* can also be released by breaking open one 
 
 **Requirements** Craft Wondrous Item, *imprisonment*,* shield other*, 6 willing or helpless pixies; **Cost** 18,000 gp
 
+### Necrobinding Serum
+
+**Aura** faint necromancy; **CL** 7th
+
+**Slot** none; **Price** 700 gp; **Weight** —
+
+This potent alchemical serum is distilled from the body of an intelligent corporeal undead who seeks to establish absolute control over his undead minions. In a wicked ritual, the creator sloughs his own flesh into specially prepared receptacles filled with mystic herbs, where it dissolves and ferments in fluids siphoned from his body.
+
+When completed, the creator can then inject the fluids into an undead creature, allowing him to control it for 7 days if under the effect of a *command undead* spell.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *command undead*, creator must be undead; **Cost** 350 gp, 28 XP
+
+### Nightbane Quiver
+
+**Aura** faint evocation; **CL** 5th
+
+**Slot** none; **Price** 16,000 gp; **Weight** 3 lbs.
+
+This black silk quiver bears a silver star-and-moon motif. It can transform up to 20 arrows per day into tangible beams of light. When drawn from the quiver, these arrows produce light as the *daylight* spell for 5 rounds, after which they disappear. Arrows enhanced in this way prove particularly deadly to light-sensitive and shadowy creatures—an arrow altered by a *nightbane quiver* bypasses the DR of any creature with light sensitivity and counts as a force effect against shadows and wraiths. Arrows gain these benefits only when shot by the current owner of the quiver. Arrows placed in this quiver retain any magical effect already placed on them.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *daylight*; **Cost** 8,000 gp
+
 ### Nightgaunt Mask
 
 **Aura** moderate divination; **CL** 11th
@@ -3594,6 +5210,30 @@ A single dose of *oozeclot unguent* can be applied to a 5-foot-square surface, w
 
 **Requirements** Craft Wondrous Item, *barkskin*; **Cost** 450 gp
 
+### Padma Blossom
+
+**Aura** faint abjuration and enchantment; **CL** 3rd
+
+**Slot** none; **Price** 8,000 gp; **Weight** —
+
+This perfect lotus flower formed from pink jade offers purity of mind and spiritual calm. While grasped, the blossom grants its holder a +3 competence bonus on concentration checks and suppresses the following on its holder: morale bonuses, fear effects, and the confused, dazed, or stunned conditions. Twice per day, the bearer can cast *calm emotions*.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *calm emotions*, *remove fear*; **Cost** 4,000 gp
+
+### Panacea Flask
+
+**Aura** faint evocation; **CL** 5th
+
+**Slot** none; **Price** 6,000 gp; **Weight** 1/2 lb.
+
+This unassuming pewter flask is dented and tarnished. When filled with alcohol of any kind, a *panacea flask* imparts the benefits of *remove disease* once per day on whoever drinks out of it. Whether or not the *remove disease* effect is successful, the drinker gains a +1 morale bonus to saving throws for 1 hour, after which he is sickened until he sleeps for 8 hours.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *remove disease, resistance*, creator must worship the god of freedom and ale; **Cost** 3,000 gp
+
 ### Paradox Box
 
 **Aura** moderate abjuration and conjuration; **CL** 9th
@@ -3610,6 +5250,18 @@ Once the proper command is given, a seam appears around the chest, and nested hi
 
 **Requirements** Craft Wondrous Item, *arcane lock*,* secret chest*; **Cost** 2,500 gp
 
+### Patternward Spectacles
+
+**Aura** moderate abjuration; **CL** 7th
+
+**Slot** eyes; **Price** 750 gp; **Weight** 1 lb.
+
+These spectacles fit firmly over eyes and are held in place by two crystalline stems. The lenses are initially clear and don’t hinder the wearer’s vision. When the wearer is targeted with an illusion spell or spell-like ability of the pattern subschool (such as *color spray*), the spectacles absorb the magic and darken, protecting the wearer from the pattern effect. Once the spectacles absorb a spell and become opaque, the wearer becomes blinded until the spectacles are removed (a swift action). *Patternward spectacles* protect against spells or spell-like abilities of only 3rd level or lower; higher-level effects affect the wearer as normal. Once the spectacles absorb an effect, they lose their magic.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *minor globe of invulnerability*; **Cost** 375 gp
+
 ### Pearlescent Pyramid Ioun Stone
 
 **Aura** strong conjuration; **CL** 12th
@@ -3617,14 +5269,6 @@ Once the proper command is given, a seam appears around the chest, and nested hi
 **Slot** none; **Price** 48,000 gp; **Weight** —
 
 This *ioun stone* resembles a small, pearl-white tetrahedron. This stone grants the *ghost touch* special ability to the user’s unarmed strikes and to melee weapons she wields. The user can also focus her gaze as a standard action and gain the benefits of *see invisibility* for 1 round. If the user is incorporeal, corporeal melee weapons she touches gain the *ghost touch* special ability, allowing her to pick up and use corporeal melee weapons as normal.
-
-### Resonance
-
-This stone grants the *ghost touch* special ability to normal or masterwork light armor the user has worn for at least 24 hours. This benefit lasts as long as the armor is in the user’s possession.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 24,000 gp
 
 ### Pendant of the Souk
 
@@ -3722,6 +5366,88 @@ While at a height greater than 40 feet, the wearer of the *plumed mantle* receiv
 
 **Requirements** Craft Wondrous Item, *feather fall*,* fly*,* minor image*; **Cost** 19,775 gp
 
+### Poltergeist Knot
+
+**Aura** faint transmutation; **CL** 3rd
+
+**Slot** none; **Price** 650 gp; **Weight** 1/2 lb.
+
+This hopelessly knotted ball of golden twine defies any efforts to untangle it, forming new snarls out of nowhere just when it appears to be nearly unraveled.
+
+On command, the twine unrolls and snakes out through the air toward a target within 50 feet. Unless the target succeeds at a DC 13 Reflex save to avoid the *poltergeist knot*, at the twine’s touch, the bindings of any containers the target is carrying (packs, pouches, sheaths, quivers, and so on) come undone and all their contents are swept up in a whirlwind, performing a madcap dance around the target’s head.
+
+Anyone can grab an item as it spins by succeeding at a steal combat maneuver against a CMD of 12. In addition, the spinning objects obstruct the target’s sight; other creatures gain concealment against attacks made by the target. The equipment moves with the victim, whirling around her head for 3 rounds before falling to the ground.
+
+A *poltergeist knot* affects laces and buckles only on exterior containers—bottles in a pouch or a bag of caltrops in a backpack, for example, are swept into the whirlwind but don’t spill their contents. The *poltergeist knot* works on inanimate objects, but can’t open locks. A creature who isn’t carrying a significant amount of gear may be immune to the *poltergeist knot*’s effect, at the GM’s discretion.
+
+Once used, the knot loses its magic and becomes 50 feet of tangle, mundane twine.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *open/close*, *pilfering hand*UC; **Cost** 325 gp
+
+### Portrait of Health
+
+**Aura** moderate conjuration (healing); **CL** 11th
+
+**Price** 35,650 gp; **Weight** —
+
+This beautiful watercolor painting depicts a clear mountain stream flanked by moss-covered stones and dew-drenched ferns. Mountains rise up in the background, casting rippled shadows across the water’s surface. The silver frame is etched with symbols of healing.
+
+By touching the painting while uttering one of three seperate command words, you may cast the following spells: 3/day - maximized *cure light wounds* (13 points); 1/day - maximized *cure moderate wounds* (26 points); 1/week - *heal*.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, Maximize Spell, *cure light wounds*, *cure moderate wounds*, *heal*; **Cost** 17,825 gp, 1,426 XP
+
+### Quicksand Cloak
+
+**Aura** faint transmutation; **CL** 5th
+
+**Slot** shoulders; **Price** 15,000 gp; **Weight** 4 lbs.
+
+The exterior of the cloak is an extradimensional space filled with water and sand. Each time a creature of the wearer’s size or smaller attempts to grapple the wearer, it must succeed at a DC 15 Reflex save or fail at the attempt and be engulfed by quicksand. Every round it’s trapped in the extradimensional space, the trapped creature must make a Swim check (DC 15) to climb out, landing prone adjacent to the wearer. Crawling out doesn’t provoke an attack of opportunity from the wearer, but does provoke from others. A creature that fails its Swim check by 5 or more submerges and begins to drown. A creature that succeeds at the initial save grapples the wearer normally, and doesn’t need to save again unless the wearer escapes and the creature tries to grapple the wearer again.
+
+A *quicksand cloak* left on the ground behaves as a patch of quicksand filling one 5-foot square, and swimming out works the same. Others may use aid another to help a creature trapped in the cloak, as though the creature were grappled.
+
+A *quicksand cloak* of any size can contain only one creature at a time; a creature attempting to grapple the wearer while the cloak already contains a body is not affected by the cloak.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *create water*, *shifting sand*APG; **Cost** 7,500 gp
+
+### Quicksilver Gloves
+
+**Aura** faint transmutation; **CL** 5th
+
+**Slot** hands; **Price** 7,000 gp; **Weight** 1 lb.
+
+These tight-fitting gloves have silver tips at the end of each finger. When worn, the silver spreads to cover the gloves so they appear to be covered in liquid metal.
+
+As a swift action, the wearer can command the gloves to coat a held weapon with silver. The affected weapon is treated as silver for the purpose of overcoming damage reduction. The effect can be applied only to light or onehanded weapons made primarily of metal. This ability can be used for up to 10 rounds each day, though these rounds need not be consecutive.
+
+Once per day, the gloves’ wearer can make an extra attack with a melee weapon as if using a *speed* weapon. This benefit does not stack with similar effects, such as a *haste* spell.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *haste*, *versatile weapon*; **Cost** 3,500 gp
+
+### Rat-Tread Boots
+
+**Aura** faint conjuration; **CL** 3rd
+
+**Slot** feet; **Price** 8,500 gp; **Weight** 1 lb.
+
+On command, these rat-fur boots summon a rat swarm underneath the wearer that moves with her and acts as a living carpet. As a move action, the wearer can travel on the backs of the rats as they swim, moving up to 15 feet across the surface of calm waters. If surface conditions become worse than calm, the rats disperse and the wearer falls. On land, the swarm allows the wearer to ignore difficult terrain’s effects on her movement for up to 15 feet of movement per round. The swarm can be used for up to 10 minutes per day. This duration doesn’t need to be continuous, but must be used in 1-minute increments.
+
+If the wearer falls unconscious while *rat-tread boots* are active, on the wearer’s next turn the swarm tries to move her away from the nearest foe, moving 5 feet before dispersing. This movement doesn’t provoke attacks of opportunity. If such movement is impossible, the swarm disperses.
+
+The swarm is a normal rat swarm, except its area doesn’t exceed that of the wearer and it can’t move out of the wearer’s space. The swarm disperses when the effect’s duration ends or when the swarm is reduced to 0 hit points or fewer. *Rat-tread boots* grant the wearer immunity from the attacks of rat swarms, including their special attacks.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *charm animal*, *summon swarm*; **Cost** 4,250 gp
+
 ### Reaper's Mask
 
 **Aura** moderate enchantment [evil]; **CL** 7th
@@ -3751,6 +5477,44 @@ A *regression mine* is a single-use item; once triggered, the mine is inert and 
 **Construction**
 
 **Requirements** Craft Wondrous Item, *confusion*; **Cost** 750 gp
+
+### Resonance
+
+This stone allows the user to pick up on psychic resonance from corpses. So long as the user has carried the ioun stone continuously for at least 24 hours, the first three corpses touched by the user each day babble residual psychic impressions into the bearer’s mind. This functions as the *grave words* spell, except that only the user can hear the corpse speak.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 7,500 gp
+
+### Resonance
+
+This stone grants a +1 competence bonus on Appraise checks.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *fox’s cunning*, creator must be 12th level; **Cost** 2,500 gp
+
+### Resonance
+
+This stone grants the *ghost touch* special ability to normal or masterwork light armor the user has worn for at least 24 hours. This benefit lasts as long as the armor is in the user’s possession.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 24,000 gp
+
+### Resplendent Diplomat's Palette
+
+**Aura** minor enchantment and illusion; **CL** 3rd
+
+**Slot** none; **Price** 5,500 gp; **Weight** 2 lbs.
+
+This shallow box contains an assortment of beeswax, oils, pigments, brushes, and quills, and allows a user to blend seemlessly into new cultures and fashion scenes. By spending 5 minutes applying these contents, a user may adopt the hairstyle, fashion, and social cues of any culture with which he is familiar, granting a +2 circumstance bonus on Bluff or Diplomacy checks with members of that culture, but leaving him otherwise recognizable. Alternatively, the palette may be used to conceal the user’s identity entirely; it cannot make the user appear shorter or taller or otherwise alter their body, but otherwise allows him to adopt the appearance of another creature of the same type with the same body type and build. Either application lasts for 5 hours or until removed with soap and water. A *resplendent diplomat’s palette* has 50 charges when created, and each use consumes 1 charge.
+
+The palette qualifies as a disguise kit, granting a +2 circumstance bonus on Disguise checks. Using it as such does not consume a charge.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *disguise self*, *eagle’s splendor*; **Cost** 2,750 gp
 
 ### Righteous Medal
 
@@ -3864,6 +5628,30 @@ A *sashimono of comfort* is a purple silk banner, typically 3 feet tall and 1 fo
 
 **Requirements** Craft Wondrous Item, *endure elements*; **Cost** 1,200 gp
 
+### Scabbard of the War Horseman
+
+**Aura** moderate transmutation; **CL** 6th
+
+**Slot** none; **Price** 30,000 gp; **Weight** 1 lb.
+
+A single shattered soul gem is located on the tip of this leather-and-ceramic sheath. This scabbard fits only a greatsword, the favored blade of the Horseman of War. Any magical greatsword sheathed in the scabbard for 24 hours gains the *keen* weapon special ability [this doesn’t stack with other methods that increase a weapon’s critical threat range). If another blade gains the benefit of the scabbard, the previous blade loses the *keen* weapon special ability. In addition, if the greatsword has been sheathed in the scabbard for 1 minute, the wielder can invoke the Horseman’s name as part of the action to draw the sword, affecting the wielder with the *rage* spell for 1 minute or until she slays a creature, whichever comes first.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *keen edge*, *rage*; **Cost** 15,000 gp
+
+### Scale of the Mariner
+
+**Aura** faint abjuration and transmutation; **CL** 5th
+
+**Slot** amulet; **Price** 8,000 gp; **Weight** —
+
+These simple silver brooches are often found pinned to the capes of merchant marine captains. The wearer of this brooch gains a +1 enhancement bonus to natural armor and fire resistance 5. In addition, the wearer can always choose to take 10 on a Swim check, even if distracted or endangered.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *barkskin*, *resist energy*; **Cost** 4,000 gp, 320 XP
+
 ### Scarab of Mummy Defense
 
 **Aura** faint abjuration; **CL** 5th
@@ -3876,6 +5664,18 @@ This gold amulet is fashioned in the shape of a winged scarab beetle holding a l
 
 **Requirements** Craft Wondrous Item, *detect undead*,* remove curse*,* remove disease*,* remove fear*; **Cost** 6,000 gp
 
+### Scintillating Garment
+
+**Aura** moderate enchantment; **CL** 7th
+
+**Slot** torso; **Price** 14,000 gp; **Weight** —
+
+A *scintillating garment* can become either a tight-fitting tunic of any style or a long, tight dress of any cut. It appears to be made of mist and shimmering silks, hinting at the form and color of the skin beneath without revealing it. When worn, it gives any successful Diplomacy check made by the wearer the chance to increase one target’s attitude by one additional step (PH 72). The wearer chooses a single target affected by her Diplomacy check to make a DC 13 Will save. If the target fails, his attitude improves by one step above the attitude indicated by the check. If the target succeeds, he is unaffected by the garment but his attitude is still adjusted by the successful Diplomacy check as normal. Any target that successfully saves against the garment’s effects is immune to its magic for 24 hours. A *scintillating garment* has no affect on a failed Diplomacy check.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *eagle’s splendor*; **Cost** 7,000 gp, 560 XP
+
 ### Scope of Stormsight
 
 **Aura** moderate divination; **CL** 7th
@@ -3887,6 +5687,36 @@ This sight can be attached to a single direct-fire siege engine. When this is do
 **Construction**
 
 **Requirements** Craft Wondrous Item, *hunter’s eye*APG; **Cost** 9,000 gp
+
+### Scourge Vial
+
+**Aura** faint transmutation; **CL** 5th
+
+**Slot** none; **Price** 1,200 gp; **Weight** —
+
+Hurling this crystalline, ember-filled vial at an enemy causes the vessel to erupt in a burst of green smoke and burning ash that coalesces into a fire-blackened skull with burning eyes. Wreathed in oily, acrid smoke and trailing hot embers, the skull corkscrews around its target uttering biting insults and dire curses. The black smoke left in its wake causes watering eyes and wracking coughs.
+
+When a *scourge vial* is thrown as a ranged touch attack, the skull torments any single struck creature of size Large or smaller. The skull moves with the target, distracting it in combat with its chaotic orbit. Any combatant in melee with the target is considered to be flanking with the skull.
+
+The skull’s trailing smoke and embers cause the target (and any creature occupying the same square as the target) to become dazzled. Furthermore, each round, the target must succeed at a DC 14 Fortitude save or become sickened by the smoke. Targets with the scent ability take a –4 penalty on their Fortitude saves. Creatures with the fire subtype are immune to the sickening effect. The skull and smoke dissipate in 5 rounds.
+
+If an attack roll made to throw a *scourge vial* fails, the vial is treated as a splash weapon to determine where it lands instead. If there is creature of size Large or smaller in the resulting square, make a touch attack against that target. If that attack misses, or there is no valid target in that square, the skull shrieks harmlessly before dissipating.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *pyrotechnics*; **Cost** 600 gp
+
+### Seed of Fire
+
+**Aura** strong evocation; **CL** 18th
+
+**Price** 14,400 gp; **Weight** —
+
+Created by the infernal empire as a weapon capable of scouring the battlefield in cleansing flame, this magic item consists of a pair of red gemstones. When the command word and a period of time is spoken into one of the gems, the other becomes permanently stationary and begins to glow with flame. When the period of time expires, the gemstone explodes, raining fire on a 60-foot square area directly below it. This fire deals 18d6 points of fire damage to all creatures and structures in the area. A DC 22 Reflex save halves this damage. Once activated, the seed can only be deactivated by destroying its partner gem (which destroys the item) or by speaking a special command word into the partner gem, which allows the *seed of fire* to be reused.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *firestorm*; **Cost** 7,200 gp, 576 XP
 
 ### Senate Aid Badge
 
@@ -3901,6 +5731,18 @@ This brooch features the heraldry of a noble family, marking the wearer as an ai
 **Construction**
 
 **Requirements** Craft Wondrous Item, *sending*,* status*; **Cost** 750 gp
+
+### Seven-Sided Coin
+
+**Aura** moderate necromancy; **CL** 9th
+
+**Slot** none; **Price** 5,000 gp; **Weight** —
+
+This brass coin is smooth on both faces. Once per week when touched to a creature, it affects that creature with a *mark of justice* (CL 9th). The user chooses the behavior that activates the mark, but it must be one of the seven deadly sins (greed, lust, pride, gluttony, envy, wrath, or sloth).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *mark of justice*; **Cost** 2,500 gp
 
 ### Shadow Stylus
 
@@ -3988,6 +5830,18 @@ If the wearer suffers from one or more permanent mental afflictions that alter h
 
 **Requirements** Craft Wondrous Item, *calm emotions*,* resistance*,* blindness/deafness*; **Cost** 2,250 gp
 
+### Skill Slug
+
+**Aura** faint divination; **CL** 5th
+
+**Slot** none; **Price** 750 gp; **Weight** —
+
+*Skill slugs* are tiny, segmented parasites incubated primarily in the exposed brains of imprisoned caulborn. Long as a baby’s finger and twice as plump, these quivering gastropods draw sustenance from the memory fragments extracted from the caulborn. A measure of those memories lives on within the slug. When consumed, the *skill slug* grants a +10 competence bonus on a single Intelligence-based skill for 1 hour. Each slug’s associated skill is determined at the time of its creation, and cannot be changed. The swallower counts as trained in the skill even if he does not have ranks in it.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *share memory*; **Cost** 375 gp
+
 ### Skin Harp
 
 **Aura** moderate enchantment and necromancy; **CL** 9th
@@ -4001,6 +5855,18 @@ A *skin harp* functions as a masterwork harp. In addition, once per day, it can 
 **Construction**
 
 **Requirements** Craft Wondrous Item, *command undead*,* dominate person*; **Cost** 8,550 gp
+
+### Skull Mask
+
+**Aura** faint necromancy; **CL** 3rd
+
+**Slot** head; **Price** 9,100 gp; **Weight** 2 lbs.
+
+This plain mask is made of a reflective, dark gray ceramic. When worn, the mask transforms to look like the wearer’s skull, and it gradually becomes eerier and more fearsome the closer a viewer gets to the wearer. Whenever a creature enters a square adjacent to the wearer of *skull mask*, that creature must succeed at a DC 13 Will save or become shaken for as long as it remains adjacent to the wearer. An affected creature can attempt a new save by moving away from the wearer and reentering a square adjacent to the wearer. A creature that succeeds at the save is immune to the mask’s effect for 24 hours. A creature shaken by *skull mask* does not become frightened if affected by the mask again, but other fear effects stack with the creature’s shaken condition as normal.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *scare*; **Cost** 4,550 gp
 
 ### Sky God’s Eye Amulet
 
@@ -4057,6 +5923,18 @@ These masterwork snowshoes provide greater stability and weight distribution in 
 **Construction**
 
 **Requirements** Craft Wondrous Item, *feather step*APG,* longstrider*,* pass without trace*; **Cost** 2,150 gp
+
+### Sorcerous Pigments
+
+**Aura** strong evocation; **CL** 12th
+
+**Price** 9,900 gp; **Weight** —
+
+This set of magical paints comes in a set of three small clay pots, each containing a different color - blue, yellow, and red. You may use the *sorcerous pigments* to store spells in a painting and set a specific condition that triggers the spells. You must succeed at a Craft (painting) check (DC 10 + spell level) in order to successfully store each spell. On a failed check, the spell and the *sorcerous pigments* that would have been used are wasted. A set of *sorcerous pigments* can be used to "paint" up to 12 levels of spells.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *contingency*; **Cost** 36,000 gp, 1,440 XP
 
 ### Sovereign Shabti
 
@@ -4164,6 +6042,20 @@ A worshiper of the god of farming and hunting who wears this helm may utilize th
 
 **Requirements** Craft Wondrous Item, creator must have at least 5 ranks in Perception, *true strike*; **Cost** 1,750 gp
 
+### Star Cinder
+
+**Aura** strong abjuration; **CL** 12th
+
+**Slot** neck; **Price** 50,000 gp; **Weight** 4 lbs.
+
+This tiny flake of dark, extraordinarily dense material is hung on a simple wire chain and seems to absorb the light around it. When activated, streaks of alien color play across its surface. Once per day, the wearer of a *star cinder* can choose one energy type (acid, cold, electricity, fire, or sonic). Creatures within 60 feet of the wearer with resistance or immunity to the selected energy type have that resistance or immunity suppressed for 12 rounds. Creatures with the elemental subtype are unaffected.
+
+An affected creature of the outsider type must succeed at a DC 17 Will save each round it remains within the area of effect or be forced to return to its home plane (as per the *dismissal* spell). Even if the outsider succeeds at its save, it is sickened for as long as it remains in the area of effect.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *antimagic field*, *dismissal*, *resist energy*; **Cost** 25,000 gp
+
 ### Steadfast Grapple
 
 **Aura** faint transmutation; **CL** 3rd
@@ -4175,6 +6067,20 @@ This iron grappling hook is attached to a 50-foot length of silk rope. When a *s
 **Construction**
 
 **Requirements** Craft Wondrous Item, *animate rope*,* true strike*; **Cost** 2,500 gp
+
+### Stormcrusher Gauntlets
+
+**Aura** moderate abjuration and evocation; **CL** 10th
+
+**Slot** hands; **Price** 45,000 gp; **Weight** 5 lbs.
+
+These speckled metal gauntlets provide a noticeable prickling sensation when donned. Three times per day when the wearer would take electricity damage, she can attempt a Strength check as an immediate action to catch the electricity and crush it into harmless sparks that deal no damage (DC = 10 + 1 per 10 points of damage).
+
+If the wearer possesses mythic tiers (see *Pathfinder RPG Mythic Adventures*), she can also expend one use of her mythic power to reshape the crushed lightning into a variety of forms: blasts of electric force, blinding showers of sparks, or even lassos. This allows the wearer to perform a bull rush, dirty trick, grapple, reposition, or trip combat maneuver on her next turn against any opponent within range (10 feet per mythic tier she possesses). If the wearer succeeds at this combat maneuver check, her opponent also takes an amount of electricity damage equal to the wearer’s combat maneuver check result (up to a maximum of the original electricity effect’s damage). Creatures immune to electricity damage are immune to this ability. If the wearer expends the mythic power but doesn’t attempt to use the crushed lightning by her next turn, the energy surges out, dealing the original effect’s electricity damage to the wearer with no save granted.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, Mythic Crafter, *lightning bolt*, *shock shield*UC; **Cost** 22,500 gp
 
 ### Stunstone
 
@@ -4215,6 +6121,20 @@ Indoors, underground, or in areas of darkness, the wearer can instead create a *
 **Construction**
 
 **Requirements** Craft Wondrous Item, *daylight*; **Cost** 2,700 gp
+
+### Swindler's Gloves
+
+**Aura** moderate illusion; **CL** 9th
+
+**Slot** hands; **Price** 9,000 gp; **Weight** 1 lb.
+
+When the wearer of these jet-black leather gloves reaches for an item carried by another creature, inky strands of gloom swirl around the gloves, making the wearer’s hand movements difficult to follow. The wearer does not provoke an attack of opportunity when attempting a disarm or steal combat maneuver check while wearing a pair of *swindler’s gloves*. She also ignores the penalty on her combat maneuver check for attempting to disarm a foe while she is unarmed.
+
+Once per day as a swift action, upon using the *swindler’s gloves* to steal from or disarm a foe, the wearer can activate an illusion that causes the enemy to believe the maneuver failed. The item taken via the maneuver becomes invisible and an illusory duplicate of the item appears in the target’s possession for 1 minute. This illusory item looks and feels like the original, but the target can attempt a DC 14 Will saving throw to realize the item he now holds is an illusory duplicate. In any event, when the user drops the item or attempts to use it, the shadow item fades away into shadows and is gone. The illusory duplicate is a shadow effect.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *darkness*, *invisibility*; **Cost** 4,500 gp
 
 ### Tablet of Languages Lost
 
@@ -4262,6 +6182,18 @@ A *talisman of pure faith* looks like a set of six of black and red hexagons nes
 
 **Requirements** Craft Wondrous Item, *detect chaos*,* detect evil*,* detect good*,* detect law*; **Cost** 1,500 gp
 
+### Tallowheart Mass
+
+**Aura** faint abjuration, conjuration, and transmutation; **CL** 5th
+
+**Slot** none; **Price** 2,250 gp; **Weight** 1 lb.
+
+This disgusting mass of hardened beef tallow is always found divided into three parts, each with a different function. If you rub the first piece on a weapon it acts as a *potion of haste*. If you eat the second piece it acts as a *potion of cure serious wounds*. If you eat the third piece it acts as a *potion of protection from fire*, absorbing 60 points of damage before losing its effectiveness, but any round you take fire damage causes you to cough sticky black smoke like a pan of grease on fire (harmless to you or others but disturbing to see or experience). You can separate the three pieces of the mass without harming its properties. Each piece can only be used once.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *cure serious wounds*, *haste*, *protection from energy*; **Cost** 1,125 gp, 90 XP
+
 ### Terra-Cotta Talisman (Horse)
 
 **Aura** moderate evocation; **CL** 6th
@@ -4306,6 +6238,32 @@ These ceramic statuettes are molded in the likenesses of armored soldiers, horse
 **Construction**
 
 **Requirements** Craft Wondrous Item, *borrow fortune*,* mage’s faithful hound* (hound), *phantom steed* (horse), or *spiritual ally* (warrior); **Cost** 6,500 gp (Horse), 8,000 gp (Warrior), 11,000 gp (Hound)
+
+### The Crimson Raven’s Cape
+
+**Aura** strength conjuration; **CL** 5th
+
+**Slot** shoulders; **Price** 5,000 gp; **Weight** —
+
+What once was a fine red cape is now tattered and torn nearly in two. Once per day, as a standard action, you can *dimension door* to a range of 40 feet, but you cannot bring additional targets. When you disappear, you leave behind a cloud of smoke, appearing in a similar fashion at your destination.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *dimension door*; **Cost** 6,500 gp, 200 XP
+
+### The Storied Orb
+
+**Aura** faint divination; **CL** 1st
+
+**Slot** none; **Price** 1,000 gp; **Weight** —
+
+From this cup poured the poison that killed the Caliph of the Djinn. According to a djinn fable, the Caliph berated the cup for failing to warn him of the treachery, and so abashed was the vessel that it swore from that time on to warn if it was ever again filled with poison.
+
+The *storied cup* is a golden chalice decorated with scenes of the djinn court. If a poisonous liquid is poured into the cup the images change from those of friendly discourse to impressions of angry fighting. A character unaware of this property must make a DC 20 Spot check to notice the sudden change.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *detect poison*; **Cost** 500 gp, 40 XP
 
 ### Three-Faced Helmet
 
@@ -4469,6 +6427,18 @@ Three times per day as a standard action, the unctuous waders can exude slimy wa
 
 **Requirements** Craft Wondrous Item, *ride the waves*,* slipstream*; **Cost** 36,600 gp
 
+### Unerring Compass
+
+**Aura** faint divination; **CL** 5th
+
+**Slot** amulet; **Price** 10,000 gp; **Weight** —
+
+This gold and silver compass has a single mithral needle that always points toward the nearest flying city. These were common items for flying city dwellers to take when they went “below” to visit the groundlings, as otherwise it could be difficult to return to their homes.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *locate object*; **Cost** 5,000 gp, 400 XP
+
 ### Ushabti of the Willing Servant
 
 **Aura** moderate evocation; **CL** 7th
@@ -4496,6 +6466,34 @@ This large, furry hat is sewn from the thick pelt of an animal native to the fro
 **Construction**
 
 **Requirements** Craft Wondrous Item, *resistance*, creator must have 5 ranks in Survival; **Cost** 2,250 gp
+
+### Vanity's Eye
+
+**Aura** moderate enchantment and transmutation; **CL** 12th
+
+**Slot** none; **Price** 51,000 gp; **Weight** 1 lb.
+
+This pair of fine, silver hand mirrors secretly steals the confidence and finesse of one bearer and transfers them to another. Two distinct components make up vanity’s eye: a silver hand mirror set with flawless glass (the master) and a silver hand mirror set with slightly warped glass (the slave).
+
+The mirrors have no effect until one looks into the slave mirror. Once a creature looks into the slave mirror, it must make a DC 20 Will save or be deceived by the mirror into believing that it has magically made him more dashing, suave, and glib. In truth, however, the slave mirror is cursed and steals the bearer’s Charisma, causing him to take a –6 penalty to his Charisma score. The bearer is unaware of this penalty, and will not willingly part with the magical mirror. This penalty persists for as long as the mirror’s curse lasts. Should the mirror be lost or taken, the bearer does all he can to retrieve the mirror. Only *break enchantment*, *limited wish*, *remove curse*, *miracle*, or *wish* can make the mirror’s holder willingly part with the item and return his stolen Charisma. Breaking the slave mirror also restores the victim’s Charisma. The slave mirror can only affect one creature at a time and has no affect on other creatures that look into it.
+
+For as long as the slave mirror imposes a Charisma penalty upon a victim, the bearer of the master mirror gains a +6 enhancement bonus to his Charisma. This bonus applies as long as the master mirror’s bearer is within 10 feet of the mirror. If the master mirror is destroyed, its bearer loses this bonus and the slave mirror is rendered inert, freeing any victim and restoring his Charisma.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *bestow curse*, *eagle’s splendor*; **Cost** 25,500 gp, 2,040 XP
+
+### Vest of Endure Elements
+
+**Aura** faint abjuration; **CL** 1st
+
+**Slot** torso; **Price** 1,000 gp; **Weight** —
+
+This long sheepskin vest grants the benefits of an *endure elements* spell when worn. You must wear a *vest of endure elements* for 24 hours before it begins to take effect.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *endure elements*; **Cost** 500 gp, 40 XP
 
 ### Vest of the Deep
 
@@ -4539,6 +6537,18 @@ Undead that contain such an item benefit from the +2 bonus hit points per Hit Di
 
 **Requirements** Craft Wondrous Item, *animate dead*,* desecrate*, Creator must have 5 ranks in Knowledge (religion); **Cost** 1,750 gp
 
+### Wanderer Compass
+
+**Aura** moderate divination; **CL** 6th
+
+**Slot** none; **Price** 18,000 gp; **Weight** 2 lbs.
+
+This brass compass’s needle appears to be of a weird material, one that shimmers silver and blue. When held in hand in a magic-warped region such as a magical wasteland, a *wanderer compass* points toward the nearest pocket of magical non-interference-an area where there is little or no chance of spellcasting being warped by primal magic. This effect has a range of 1 mile. If no pockets of non-interference are within range, the compass’s needle slowly spins clockwise. If the bearer of a *wanderer compass* is already within a pocket of non-interference, the compass needle spins counter-clockwise.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, Enlarge Spell, *arcane sight*, *clairaudience/clairvoyance*; **Cost** 9,000 gp
+
 ### War Mask of Terror
 
 **Aura** moderate necromancy; **CL** 9th
@@ -4554,6 +6564,20 @@ Other war masks exist with different abilities; some have higher deflection bonu
 **Construction**
 
 **Requirements** Craft Wondrous Item, *scare*,* shield*; **Cost** 4,500 gp
+
+### Watchtower Tattoo
+
+**Aura** moderate abjuration **CL** 8th
+
+**Slot** none; **Price** 9,500 gp; **Weight** —
+
+A *watchtower tattoo* must be applied to the back of a hand. Once applied, it provides a +4 resistance bonus against the spells and spell-like abilities of daemons, and the bearer cannot be possessed by daemons using *magic jar* or similar effects.
+
+Daemons immediately recognize any bearer of this tattoo as an enemy, even if the mark is covered or disguised. This revulsion may trigger strange reactions in daemonic magic or artifacts.
+
+**Construction**
+
+**Requirements** Inscribe Magical Tattoo, *protection from evil*; **Cost** 4,750 gp
 
 ### Wave Harp
 
@@ -4598,6 +6622,18 @@ This bronze *wayfinder* is decorated with garnets and emeralds, and even without
 **Construction**
 
 **Requirements** Craft Wondrous Item, *detect secret doors*,* dimension door*,* knock*,* word of recall*; **Cost** 27,500 gp
+
+### Weirding Watch
+
+**Aura** faint transmutation; **CL** 5th
+
+**Slot** none; **Price** 22,000 gp; **Weight** —
+
+This gold-plated watch is divided into five pieces. The *weirding watch* keeps flawless time without ever needing to be wound or repaired. In addition, the bearer of any piece of the watch can activate it to exercise power over time for herself and her allies. Once a watch piece is activated, the bearer gains the benefits of *haste* and *lesser age resistance*UM for 3 rounds. Anyone bearing a piece from the same* weirding watch *within 30 feet receives the same effect. Each piece of the watch can be activated once per day. The price of a* weirding watch* includes all five pieces. Pieces are rarely sold separately.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *haste*, *lesser age resistance*UM; **Cost** 11,000 gp
 
 ### Witching Gown
 
@@ -4668,6 +6704,20 @@ Designed to resemble the wide scales on a serpent’s belly, this armor function
 **Construction**
 
 **Requirements** *+1 breastplate of fire resistance*; **Cost** —
+
+### Grasp of the Toil God
+
+**Aura** moderate transmutation and divination **CL** 10th
+
+**Slot** gauntlet; **Price** 12,302 gp; **Weight** —
+
+This left-handed black iron gauntlet appears little more than a dull soot-stained plated glove at first glance, but in truth it is a powerful boon granted by a dark dwarven god of toil to his most faithful subjects. Placing the glove on your left hand causes excruciating pain as your appendage curls into a tight fist and then slowly transforms to supernaturally hard black stone. You cannot use your left hand for anything beyond smashing it into objects or creatures (you cannot carry a shield or secondary weapon and you take a -4 on skill checks that usually require two hands). The gauntlet cannot be removed without a successful casting of *remove curse*, *break enchantment*, or similar spell.
+
+The gauntlet grants you a +2 enhancement bonus to Strength and acts as a *+1 adamantine gauntlet*. The item also grants you the ability to use the gauntlet as a secondary natural weapon. In addition, the *grasp of the toil god* allows its wearer to use *stone shape* once per day.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *bull’s strength*, *magic fang*, *stone shape*; **Cost** 7,802 gp
 
 ### Unspeakable One's Vestments
 
@@ -4777,219 +6827,71 @@ cases containing 6 mortars each.
 
 This large metal canister releases a cloud of toxic gas. It is usually placed on the ground and triggered so that the wind blows the gas toward enemy positions. Normally, multiple gas cylinders are placed in line and triggered together to cover a wider area of the battlefield. First, determine what direction the wind is blowing by rolling 1d4 (1 is north, 2 is east, 3 is south, and 4 is west). When triggered, a gas cylinder releases a cloud of mustard gas in a 15- foot cone. On the following 2 rounds, the cloud extends by an additional 15-foot square away from the canister, forming a 15-foot-wide, 45-foot-long cloud at the end of 3 rounds. The cloud moves with the wind, rolling along the surface of the ground, and disperses after 10 rounds. A strong wind (21+ mph) disperses the cloud in 4 rounds, and a severe wind (31+ mph) disperses it in 1 round.
 
-## Mustard Gas
+### Giant radium rifle
 
-Used in warfare during the Great War, mustard gas (along with other gases such as chlorine and phosgene) were responsible for the grisly and painful deaths of nearly 90,000 people, and permanently scarred more than a million.
+**Cost** 6,500 gp **Weight** 12 lbs.
 
-Mustard gas is normally deployed via gas cylinders or chemical grenades. A cloud of mustard gas obscures vision like fog cloud and looks like a bank of fog, except that its vapors are yellowish-brown.
+**Damage** 1d8 (small), 1d10 (medium); **Critical** x4; **Range** 1 mile; **Type** B and P; **Special** see text
 
-Living creatures within a cloud of mustard gas take 3d6 points of acid damage when first exposed to the gas and must succeed at a DC 18 Fortitude save each round or become nauseated and blinded for as long as they are in the cloud and for 1d4+1 rounds after leaving the cloud. Creatures that succeed at their save but remain in the cloud must continue to save each round on their turn. This is a poison effect. Because mustard gas is heavier than air, its vapors sink to the lowest level of the land, pouring down into holes and trenches. A gas mask completely protects the wearer from the nausea and blindness effects of mustard gas, though holding one’s breath does not.
-
-### Hotchkiss 6 pounder
-
-**Cost** 2,000 gp **Weight** special
-
-**Damage** 8d6; **Critical** x3; **Range** 300 ft.; **Type** B, P, and S
-
-**Misfire** 1; **Crew** 2; **Aim** 0; **Load** 2
-
-**Category** Siege; **Proficiency** Exotic
-
-The Hotchkiss 6 pounder
-
-gun is a shortened version of the Hotchkiss 6 pounder
-
-naval gun, designed for use in the sponsons of World
-
-War I-era tanks such as the Mark IV. The Hotchkiss
-
-6 pounder is a direct-f ire advanced siege f irearm that
-
-must be mounted in place on a vehicle to be used. It
-
-f ires high explosive (HE) shells that deal 8d6 points
-
-of bludgeoning, piercing, and slashing
-
-damage in a 30-foot radius around the
-
-point of impact (Reflex DC 20 for
-
-half). A Hotchkiss 6 pounder is a Medium weapon and
-
-has hardness 10 and 70 hit points. Hotchkiss HE shells
-
-cost 25 gp each and weigh 6 pounds each.
-
-### Lawrence 1917 flamethrower
-
-**Cost** 800 gp **Weight** 20 lbs.
-
-**Damage** 4d6 (medium); **Critical** —; **Range** —; **Type** fire; **Special** —
-
-**Misfire**; **Capacity** 6
+**Misfire** 1-2; **Capacity** 1
 
 **Category** Two-Handed; **Proficiency** Exotic
 
-One of the most infamous
+Similar in construction to the standard radium rifle, the giant radium rifle offers a staggering range and greater damage capacity fitting the brutality of its Large wielder. The giant radium rifle is a Large two-handed weapon.
 
-devices to evolve as a result of
+## Radium Weapons
 
-trench warfare, the flamethrower is still
+Red-planet firearms are stocked with rare local woods. Metal components consist of an alloy of aluminum and steel that exceeds the strength of Earth metals (giving Red-planet firarms a hardness of 12). Radium weapons fire special cartridges that must be manufactured under artificial light, as exposure to sunlight results in an explosion. When the cartridges strike their target they shatter exposing the radium powder within. The moment sunlight strikes this substance it explodes with considerable violence, making the weapons versatile for either direct fire or suppressive fire. Radium weapons follow the general rules for advanced firearms found in the firearm rules.
 
-in its infancy in the early twentieth century.
+All radium weapons use radium cartridges for ammunition. As a result. in addition to targeting specific creatures or objects. the wielder may fire a radium weapon at an unoccupied square similar to throwing a splash weapon. All creatures within 15 feet of the targeted square take 2d6 points of bludgeoning, piercing, and slashing damage (Reflex DC 15 half). Radium cartridge damage does not change based on the size of the weapon used to fire them. Radium cartridges cannot be fired effectively in this way outside the rays of the sun, such as underground or at night. Radium cartridges cost 3 gp per cartridge.
 
-The British military produced the Lawrence
+### Radium pistol
 
-1917, which found its way into the hands of
+**Cost** 4,500 gp **Weight** 3 lbs.
 
-Russia’s soldiers. The device consists
+**Damage** 1d6 (small), 1d8 (medium); **Critical** x4; **Range** 30 ft.; **Type** B and P; **Special** see text
 
-of a cumbersome backpack
+**Misfire** 1; **Capacity** 6
 
-of two tanks and a swivelmounted,
+**Category** One-Handed; **Proficiency** Exotic
 
-handheld projection
+A radium pistol is a one-handed weapon with a revolving cylinder containing six chambers. Each chamberholdsaspecial radium-powder cartridge, and when one cartridge is fired, the cylinder automatically rotates (no extra hand or action required). readying the next cartridge for firing.
 
-unit, or “lance.” When the device
+## Radium Weapons
 
-is aimed and a small hand lever
+Red-planet firearms are stocked with rare local woods. Metal components consist of an alloy of aluminum and steel that exceeds the strength of Earth metals (giving Red-planet fimrms a hardness of 12). Radium weapons fire special cartridges that must be manufactured under artificial light, as exposure to sunlight results in an explosion. When the cartridges strike their target they shatter exposingthe radium powder within. The moment sunlight strikes this substance it explodes with considerable violence, making the weapons versatile for either direct fire or suppressive fire. Radium weapons follow the general rules for advanced firearms found in the firearm rules.
 
-depressed, a small gas burner ignites the oil, which is
+All radium weapons use radium cartridges for ammunition. As a result. in addition to targeting specific creatures or objects. the wielder may fire a radium weapon at an unoccupied square similar to throwing a splash weapon. All creatures within 15 feet of the targeted square take 2d6 points of bludgeoning, piercing, and slashing damage (Reflex DC 15 half). Radium cartridge damage does not change based on the size of the weapon used to fire them. Radium cartridges cannot be fired effectively in this way outside the rays of the sun, such as underground or at night. Radium cartridges cost 3 gp per cartridge.
 
-propelled forth in a blazing stream of intense flame. A
+### Radium rifle
 
-flamethrower with full tanks is capable of unleashing up
+**Cost** 5,500 gp **Weight** 10 lbs.
 
-to 6 charges of ignited oil, to devastating effect.
+**Damage** 1d8 (small), 1d10 (medium); **Critical** x4; **Range** 100 ft.; **Type** B and P; **Special** see text
 
-When using a flamethrower, the wielder projects a
+**Misfire** 1; **Capacity** 1
 
-60-foot-long line of fire, attempting a separate attack roll
+**Category** Two-Handed; **Proficiency** Exotic
 
-against each creature within the line. Each attack roll takes
+The long barrel and line construction ofthis two handed weapon allows for a range superior to even modern Earth rifles.
 
-a –2 penalty, and its attack damage cannot be modified
+## Radium Weapons
 
-by precision damage or damage-increasing feats such as
+Red-planet firearms are stocked with rare local woods. Metal components consist of an alloy of aluminum and steel that exceeds the strength of Earth metals (giving Red-planet fimrms a hardness of 12). Radium weapons fire special cartridges that must be manufactured under artificial light, as exposure to sunlight results in an explosion. When the cartridges strike their target they shatter exposingthe radium powder within. The moment sunlight strikes this substance it explodes with considerable violence, making the weapons versatile for either direct fire or suppressive fire. Radium weapons follow the general rules for advanced firearms found in the firearm rules.
 
-Vital Strike. Effects that grant concealment, such as fog or
+All radium weapons use radium cartridges for ammunition. As a result. in addition to targeting specific creatures or objects. the wielder may fire a radium weapon at an unoccupied square similar to throwing a splash weapon. All creatures within 15 feet of the targeted square take 2d6 points of bludgeoning, piercing, and slashing damage (Reflex DC 15 half). Radium cartridge damage does not change based on the size of the weapon used to fire them. Radium cartridges cannot be fired effectively in this way outside the rays of the sun, such as underground or at night. Radium cartridges cost 3 gp per cartridge.
 
-smoke, or the *blur*,* invisibility*, or* mirror image* spells, do not
+### Spider-leg sickle
 
-foil this line attack. If any of the rolls threatens a critical
+**Cost** 15 gp **Weight** 2 lbs.
 
-hit, the wielder confirms the critical for that roll alone.
+**Damage** 1d4 (small), 1d6 (medium); **Critical** x2; **Range** —; **Type** P; **Special** trip
 
-All affected creatures take 4d6 points of damage,
+**Category** Light; **Proficiency** Simple
 
-and any creature hit by the flaming stream must also
-
-succeed at succeed at a DC 20 Reflex save or catch fire,
-
-taking an additional 2d6 points of damage each round
-
-until the flames are extinguished. A burning creature
-
-can attempt a new save as a full-round action, and
-
-dropping and rolling on the ground grants a +2 bonus
-
-on this save.
-
-The device’s tanks and backpacks are awkward, and the
-
-wielder takes a –4 armor check penalty when wearing the
-
-cumbersome device. In addition, the tanks have hardness
-
-10 and 5 hit points, and if the tank is ruptured in the
-
-presence of any adjacent flame (including the device’s own
-
-gas igniter), a mighty conflagration erupts, the wielder
-
-takes 6d6 points of fire damage, and all creatures within a
-
-20-foot radius take 3d6 points of fire damage (Reflex DC 20
-
-for half). Any creatures who take damage must succeed at a
-
-DC 20 Reflex save or catch on fire.
-
-### M1914 grenade (concussion)
-
-**Cost** 50 gp **Weight** 1 lb.
-
-**Damage** 3d6 (medium); **Critical** x2; **Range** 20 ft.; **Type** B; **Special** see description
-
-**Category** Explosive; **Proficiency** Exotic
-
-This time-delayed
-
-concussion grenade is a mainstay of trench warfare. The
-
-device appears to be little more than a metal cylinder
-
-tapering to a handle containing a spring-loaded lever. To
-
-detonate the device, you disengage the safety pin while
-
-depressing the handle’s lever, which releases the firing
-
-pin when thrown. The device detonates at the beginning
-
-of your next turn, hopefully in the area you targeted. The
-
-device relies on a concussive blast to deal damage, and
-
-all creatures within a 20-foot radius take 3d6 points of
-
-bludgeoning damage (Reflex DC 15 for half).
-
-### M1914 grenade (fragmentation)
-
-**Cost** 75 gp **Weight** 1 lb.
-
-**Damage** 4d6 (medium); **Critical** x2; **Range** 20 ft.; **Type** B, P, and S; **Special** see description
-
-**Category** Explosive; **Proficiency** Exotic
-
-Standard M1914
-
-grenades can be fitted with an optional fragmentation
-
-sleeve. This sleeve converts the normal concussive
-
-blasts into a cloud of deadly shrapnel at the expense of
-
-a decreased damage radius. The device is armed and
-
-detonated in the same manner as a regular M1914 grenade,
-
-though the explosion radius is reduced to a 15-foot radius
-
-and the grenade instead deals 4d6 bludgeoning, piercing,
-
-and slashing damage (Reflex DC 15 for half).
-
-### M1917 chemical grenade
-
-**Cost** 100 gp **Weight** 2 lbs.
-
-**Damage** see description (medium); **Critical** —; **Range** 20 ft.; **Type** acid; **Special** see description
-
-**Category** Explosive; **Proficiency** Exotic
-
-The M1917 is a modified M1914 grenade specially modified and enlarged to release a cloud of toxic gas upon detonation. Resembling an overlarge metal can with a small lever and handle protruding from the bottom, the grenade is armed by pulling back on a metal firing pin held in place by the handle’s depressed lever, which is released when thrown. At the beginning of your next turn, the grenade spews forth a cloud of mustard gas (see the sidebar on this page) in a 20-foot radius. The cloud disperses naturally after 4 rounds; a strong wind (21+ mph) disperses the cloud in 1 round.
+This wickedly curved sickle is cast in the form of a segmented spider’s leg. It has the same statistics as a normal sickle and can trip opponents, but deals piercing damage rather than slashing damage. The leatherwrapped handle contains a hollow recess that can hold a single dose of poison. Filling the reservoir is a full-round action that carries the usual risks of poisoning yourself. Once filled, the reservoir keeps the blade saturated and viable for up to 2 hours. The first successful attack made with the spider-leg sickle during this time administers and expends the dose of poison. Mog-Lathar’s deacons carry masterwork versions of these weapons. The cult uses blue whinnis poison, and within the radius of the *dreamstone*’s effects the unconsciousness effect may trigger lucid dreaming.
 
 ## Mustard Gas
-
-Used in warfare during the Great War, mustard gas (along with other gases such as chlorine and phosgene) were responsible for the grisly and painful deaths of nearly 90,000 people, and permanently scarred more than a million.
-
-Mustard gas is normally deployed via gas cylinders or chemical grenades. A cloud of mustard gas obscures vision like fog cloud and looks like a bank of fog, except that its vapors are yellowish-brown.
-
-Living creatures within a cloud of mustard gas take 3d6 points of acid damage when first exposed to the gas and must succeed at a DC 18 Fortitude save each round or become nauseated and blinded for as long as they are in the cloud and for 1d4+1 rounds after leaving the cloud. Creatures that succeed at their save but remain in the cloud must continue to save each round on their turn. This is a poison effect. Because mustard gas is heavier than air, its vapors sink to the lowest level of the land, pouring down into holes and trenches. A gas mask completely protects the wearer from the nausea and blindness effects of mustard gas, though holding one’s breath does not.
 
 ### Madsen light machine gun
 
@@ -5063,6 +6965,12 @@ scope system (see below).
 
 This firearm is identical in operation to the advanced firearms revolver, though it has a capacity of 7 instead of 6.
 
+Used in warfare during the Great War, mustard gas (along with other gases such as chlorine and phosgene) were responsible for the grisly and painful deaths of nearly 90,000 people, and permanently scarred more than a million.
+
+Mustard gas is normally deployed via gas cylinders or chemical grenades. A cloud of mustard gas obscures vision like fog cloud and looks like a bank of fog, except that its vapors are yellowish-brown.
+
+Living creatures within a cloud of mustard gas take 3d6 points of acid damage when first exposed to the gas and must succeed at a DC 18 Fortitude save each round or become nauseated and blinded for as long as they are in the cloud and for 1d4+1 rounds after leaving the cloud. Creatures that succeed at their save but remain in the cloud must continue to save each round on their turn. This is a poison effect. Because mustard gas is heavier than air, its vapors sink to the lowest level of the land, pouring down into holes and trenches. A gas mask completely protects the wearer from the nausea and blindness effects of mustard gas, though holding one’s breath does not.
+
 ## Alchemical and Mundane Equipment
 
 ### Aboleth Mucus Extract
@@ -5125,97 +7033,17 @@ These strange books are fashioned from a metallic alloy, the crafting of which i
 
 A fiery boulder is a large, roughly boulder-shaped version of alchemist’s fire favored by giants. A direct hit from a fiery boulder deals 2d6 points of fire damage and 5 points of fire damage to every creature affected by its splash damage. All creatures affected by a fiery boulder’s direct damage take an additional 2d6 points of fire damage the following round; affected creatures can use a full-round action to attempt to extinguish the flames before taking this additional damage.
 
-## Greater Splash Weapon
+### Rosewood armor
 
-This splash weapon works in some ways like a normal splash weapon, but its effects cover a larger area. Like a normal splash weapon, a greater splash weapon requires no weapon proficiency, and you throw it by making a ranged touch attack. A hit deals direct hit damage to the target and to creatures and objects in squares within 5 feet of that target. It then deals splash damage to all creatures within 10 feet of the target. If the target takes up more than a 5-foot square, you can chose one of its squares as the center of the effect. The direct damage affects the squares normally, so a Large or larger creature could take both the direct damage and the splash damage depending on the square you choose. The splash damage for a greater splash weapon is 5 points of the appropriate damage type for the weapon.
+**Cost** 50 gp **Weight** 15 lbs.
 
-Like a normal splash weapon, you can also choose to target a specific grid intersection (treating it as a ranged attack against AC 5). If it hits, the greater splash weapon deals direct damage to creatures and objects in squares within 5 feet of the targeted intersection, and splash damage to creatures within 10 feet of the targeted intersection. As with a normal splash weapon, you cannot target a grid intersection occupied by a creature.
+**Armor Bonus** +2; **Max Dex Bonus** +6; **Armor Check Penalty** 0
 
-Greater splash weapons can be thrown as if they were a rock using the rock throwing universal monster rule, and caught with rock catching, though the DC to catch a greater splash weapon is 10 higher than normal due to its fragile and volatile nature. If a creature fails its Reflex saving throw to catch a greater splash weapon, the weapon automatically breaks, treating the creature attempting to catch it as the splash weapon’s target.
+**Arcane Spell Failure Chance** 10%; **Speed** 30 ft./20 ft.
 
-A greater splash weapon can be used only by Large or larger creatures, though it can be used as ammunition in a catapult or trebuchet. When used as ammunition in one of these siege engines, use the range for the engine rather than the greater splash weapon’s range.
-
-**Construction**
-
-**Craft (Alchemy)** DC 30
-
-### Fool's glow
-
-**Price** 45 gp; **Weight** 1 lb.
-
-**Category** Alchemical Tools
-
-A greasy paste of beeswax, pyrite, and various monster fluids, fool’s glow reacts with light to confuse magical senses. For 12 hours after being smeared over an object or creature (a process requiring 1 minute), the fool’s glow detects as faintly magical if examined with a *detect magic* or *arcane sight* spell, though no school or specific spell can be identified. With a successful DC 21 Craft (alchemy) or Spellcraft check, a character identifies the coating for what it is. A single jar of fool’s glow can coat one Medium, two Small, or four Tiny or smaller objects. Crafting a jar of fool’s glow requires a successful DC 20 Craft (alchemy) check.
-
-**Construction**
-
-**Craft (Alchemy)** DC 20
-
-### Frostbite ointment
-
-**Price** 50 gp; **Weight** 1 lb.
-
-**Category** Alchemical Remedies
-
-One hour after being applied, this alchemical salve cures any creature suffering from frostbite, though any nonlethal damage from cold or exposure remains until the victim recovers. A creature cannot benefit from frostbite ointment more than once in 24 hours.
-
-### Houndbane dust
-
-**Price** 75 gp; **Weight** 3 lbs.
-
-**Category** Alchemical Tools
-
-A blend of finely ground plaster, burning spices, and insect secretions, houndbane dust deters tracking animals. A single pouch can be spread over a 5-foot area as a standard action. For 24 hours thereafter, any creature with the scent ability that enters that square takes 1d2 points of damage and loses its sense of smell for 24 hours. Creatures that succeed at a DC 15 Fortitude saving throw take no damage and lose their sense of smell for only 3d6 minutes. Crafting a pouch of houndbane dust requires a successful DC 25 Craft (alchemy) check.
-
-**Construction**
-
-**Craft (Alchemy)** DC 25
-
-### Incendiary catalyst
-
-**Price** 40 gp; **Weight** 1 lb.
-
-**Category** Alchemical Weapons
-
-Incendiary catalyst can be thrown at a creature as a ranged touch attack with a range increment of 10 feet. On a hit, the target is doused with accelerants that give the target vulnerability to fire for 1 round. Incendiary catalyst does not affect creatures that are already vulnerable to fire, and the target’s fire immunity and resistances apply as normal. Crafting this item requires a successful DC 20 Craft (alchemy) check.
-
-**Construction**
-
-**Craft (Alchemy)** DC 20
-
-### Loping ointment
-
-**Price** 60 gp; **Weight** 1 lb.
-
-**Category** Alchemical Remedies
-
-This gray, greasy topical lotion strengthens and straightens the leg muscles of bandy-legged hobgoblins. Applying loping ointment requires 1 full-round action. A hobgoblin under the effects of loping ointment gains a 10-foot alchemical bonus to his speed when using the charge, run, or withdraw action. This bonus lasts for 10 minutes. Loping ointment is specifically created to enhance hobgoblin physiology; other creatures gain no benefit from this ointment and find it unpleasantly itchy. Crafting this item requires a successful DC 25 Craft (alchemy) check.
-
-**Construction**
-
-**Craft (Alchemy)** DC 25
-
-### Noxious pig
-
-**Price** 150 gp; **Weight** 25 lbs.
-
-**Category** Alchemical Weapons
-
-Giant alchemists make these items by manipulating the controlled decomposition of a dead hog. This greater splash weapon deals no damage, but those within its primary area of effect—the target and those within 5 feet of the target or those within 5 feet of the intersection—must succeed at a DC 20 Fortitude save or be nauseated for 1d4 rounds.
+This suit of leather armor is wrapped in special rose vines. Treat this as leather armor with armor spikes. The vines must be watered with at least 1 gallon of water each day or they wither and die, turning the armor into normal leather armor.
 
 ## Greater Splash Weapon
-
-This splash weapon works in some ways like a normal splash weapon, but its effects cover a larger area. Like a normal splash weapon, a greater splash weapon requires no weapon proficiency, and you throw it by making a ranged touch attack. A hit deals direct hit damage to the target and to creatures and objects in squares within 5 feet of that target. It then deals splash damage to all creatures within 10 feet of the target. If the target takes up more than a 5-foot square, you can chose one of its squares as the center of the effect. The direct damage affects the squares normally, so a Large or larger creature could take both the direct damage and the splash damage depending on the square you choose. The splash damage for a greater splash weapon is 5 points of the appropriate damage type for the weapon.
-
-Like a normal splash weapon, you can also choose to target a specific grid intersection (treating it as a ranged attack against AC 5). If it hits, the greater splash weapon deals direct damage to creatures and objects in squares within 5 feet of the targeted intersection, and splash damage to creatures within 10 feet of the targeted intersection. As with a normal splash weapon, you cannot target a grid intersection occupied by a creature.
-
-Greater splash weapons can be thrown as if they were a rock using the rock throwing universal monster rule, and caught with rock catching, though the DC to catch a greater splash weapon is 10 higher than normal due to its fragile and volatile nature. If a creature fails its Reflex saving throw to catch a greater splash weapon, the weapon automatically breaks, treating the creature attempting to catch it as the splash weapon’s target.
-
-A greater splash weapon can be used only by Large or larger creatures, though it can be used as ammunition in a catapult or trebuchet. When used as ammunition in one of these siege engines, use the range for the engine rather than the greater splash weapon’s range.
-
-**Construction**
-
-**Craft (Alchemy)** DC 35
 
 ### Quieting needles
 
@@ -5298,6 +7126,18 @@ When imbibed, this effervescent solution causes a heavy warmth to spread from yo
 **Category** Alchemical Weapons
 
 This larger version of a tanglefoot bag entangles its target as normal and requires a successful DC 20 Reflex saving throw to avoid being stuck to the floor. In addition, it can affect Huge and smaller creatures, and has a range increment of 60 feet. A creature that is glued to the floor can break free by succeeding at a DC 30 Strength check or by dealing 25 points of damage to the goo with a slashing weapon.
+
+**Construction**
+
+**Craft (Alchemy)** DC 35
+
+This splash weapon works in some ways like a normal splash weapon, but its effects cover a larger area. Like a normal splash weapon, a greater splash weapon requires no weapon proficiency, and you throw it by making a ranged touch attack. A hit deals direct hit damage to the target and to creatures and objects in squares within 5 feet of that target. It then deals splash damage to all creatures within 10 feet of the target. If the target takes up more than a 5-foot square, you can chose one of its squares as the center of the effect. The direct damage affects the squares normally, so a Large or larger creature could take both the direct damage and the splash damage depending on the square you choose. The splash damage for a greater splash weapon is 5 points of the appropriate damage type for the weapon.
+
+Like a normal splash weapon, you can also choose to target a specific grid intersection (treating it as a ranged attack against AC 5). If it hits, the greater splash weapon deals direct damage to creatures and objects in squares within 5 feet of the targeted intersection, and splash damage to creatures within 10 feet of the targeted intersection. As with a normal splash weapon, you cannot target a grid intersection occupied by a creature.
+
+Greater splash weapons can be thrown as if they were a rock using the rock throwing universal monster rule, and caught with rock catching, though the DC to catch a greater splash weapon is 10 higher than normal due to its fragile and volatile nature. If a creature fails its Reflex saving throw to catch a greater splash weapon, the weapon automatically breaks, treating the creature attempting to catch it as the splash weapon’s target.
+
+A greater splash weapon can be used only by Large or larger creatures, though it can be used as ammunition in a catapult or trebuchet. When used as ammunition in one of these siege engines, use the range for the engine rather than the greater splash weapon’s range.
 
 **Construction**
 

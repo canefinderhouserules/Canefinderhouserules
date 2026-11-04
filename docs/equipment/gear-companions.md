@@ -4002,3 +4002,55 @@ A humanoid afflicted with ghoul’s delectation must attempt a new Will save eac
 **Damage** 1d4 Cha damage
 
 These small mushrooms, grown in dark forests, have red caps dotted with white spots. Able to induce strong hallucinogenic states, they have long been used by shamans and other spiritual leaders to enter trances to seek flashes of insight.
+
+## Module Poisons and Diseases
+
+### Lethe Water
+
+**Weight** —
+
+**Type** ingested; **Save** Will DC 16
+
+**Frequency** 1/round for 6 rounds
+
+**Effect** 1d4 Int and Cha damage (cannot reduce a creature's Int or Cha below 1)
+
+**Cure** 2 saves
+
+Creatures reduced below 3 Intelligence gain the fiendish creature simple template and a +4 enhancement bonus to Strength and Constitution; these effects vanish if a creature’s Intelligence score rises above 3.
+
+Lethe water loses its magical potency 24 hours after being removed from its hot spring, but remains mildly poisonous thanks to its mineral content (treat as bloodroot, but ingested rather than injury; *Pathfinder RPG Core Rulebook* 558).
+
+### Dream Crystal Toxin
+
+**Price** 2,500 gp; **Weight** —
+
+**Type** ingested or injury; **Save** Will DC 20
+
+**Frequency** 1/hour for 6 hours
+
+**Effect** 1d2 Int drain
+
+**Cure** 3 consecutive saves
+
+This supernatural toxin exists either in powdered form or, if mixed with an alchemically prepared solution of blood and magical reagents, as a sticky paste. The primary ingredient is a dream crystal whose stored dreams have been corrupted by otherworldly powers into nightmarish energies—a single crystal yields 1 dose of toxin. Only the few dream crystals that remain in the crashed *Lirgen’s Glory* can be used to create more of this toxin, but if the Emissary from Beyond establishes a domain in Dustpawn, it can create more dream crystals, given time. Dream crystal toxin introduced in significant quantities to a water supply dilutes the venom so that any who drink the water suffer a lesser version of its effects—see the curse of bestial dreams on page 4 for details. In any event, dream crystal toxin counts as both a poison and a curse for determining what can negate its effects. A creature must be immune to both poison and curses to be immune to dream crystal toxin.
+
+### Demon Nettle Sap
+
+**Price** 1,500 gp; **Weight** —
+
+**Type** injury; **Save** Fortitude DC 21
+
+**Frequency** 1/round for 6 rounds
+
+**Effect** 1d2 Wis drain
+
+### Crypt Fever
+
+**Type** contact or inhaled; **Fortitude Save** DC 22
+
+**Onset** 1 minute; **Frequency** 1/day
+
+**Effect** 1d6 Str damage, 1d6 Cha damage, and victim is exhausted
+
+**Cure** crypt fever can only be cured by successfully casting *remove curse* and *remove disease* within 1 minute of each other.

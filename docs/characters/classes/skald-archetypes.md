@@ -449,3 +449,17 @@ Sunsingers are particularly religious skalds of the goddess of the sun and redem
 **Channel Solar Energy (Su)**: At 5th level, a sunsinger skald can channel energy as a cleric once per day to heal wounds or harm undead like a good-aligned cleric. When she does so, she fills the area affected by the channeled energy with light, and can outline creatures in the area of effect as per *faerie fire*. The sunsinger uses her skald level as her effective cleric level when channeling positive energy. Undead who are particularly harmed by sunlight take a –2 penalty on saving throws against this channeled energy, and take 1 additional point of damage per die of damage dealt by the effect.
 
 At 11th level, a sunsinger can channel energy twice per day. At 17th level, she can use this ability three times per day. This ability replaces spell kenning.
+
+## Elegist
+
+Some skalds internalize the saddest and most mournful of stories, so much that they are able to manifest the emotions caused by these tales in physical form. These spirits are able to inflict the misery onto the elegist's enemies.
+
+**Melancholic Apparition (Su)**: By using music, oration, and similar performances, an elegist can call forth a physical manifestation of the sorrow of his tales. This functions as a spiritualist's phantom with the despair focus. He can manifest his melancholic apparition as a standard action and dismiss it as a free action. The phantom appears adjacent to the skald and can act immediately. The melancholic apparition is immediately dismissed if the elegist is killed, paralyzed, stunned, knocked unconscious, or otherwise prevented from taking a free action each round to maintain the performance that keeps the phantom manifested. At 1st level, an elegist can keep his apparition manifested for a total number of rounds each day equal to 3 + his Charisma modifier. For each skald level beyond 1st, he can manifest his apparition 2 additional rounds per day.
+
+Unlike a spiritualist's phantom, a melancholic apparition can't be harbored in the elegist's consciousness. When manifested, the melancholic apparition has the same number of hit points it had when previously manifested that day. It regains all of its hit points when the elegist regains his spells for the day. If the melancholic apparition is slain, the elegist can manifest it again in the same day by spending a number of additional rounds of this ability equal to half his skald level (minimum 1); the melancholic apparition returns with half its normal total of hit points. This replaces raging song and all related performances, as well as rage powers.
+
+**Steady Hearted (Ex)**: At 2nd level, an elegist receives a +4 bonus to saving throws against emotion effects. This replaces well-versed.
+
+**Somber Damage Reduction (Ex)**: The damage reduction an elegist gains at 9th level is shared by his melancholic apparition when it is manifested. This alters damage reduction.
+
+**Master Elegist (Su)**: At 20th level, the elegist can manifest his melancholic apparition as a swift action. If it is slain, the elegist can manifest a new phantom in the same day with no additional expenditure of rounds of the melancholic apparition ability, and the new phantom has all of its hit points.

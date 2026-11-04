@@ -665,3 +665,71 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Adventure Path #11: Skeletons of Scarwall © 2008, Paizo Publishing, LLC; Author: Greg A. Vaughan.
 
     Pathfinder Adventure Path #10: A History of Ashes © 2008, Paizo Publishing, LLC; Author: Michael Kortes.
+
+    Pathfinder Module: Seers of the Drowned City © 2016, Paizo Inc.; Author: Nicholas Wasko.
+
+    Pathfinder Module: Gallows of Madness © 2016, Paizo Inc.; Authors: Mikko Kallio, Mike Kimmel, and Benjamin Bruck.
+
+    Pathfinder Module: Ire of the Storm © 2016, Paizo Inc.; Author: Thurston Hillman.
+
+    Pathfinder Module: Down the Blighted Path © 2016, Paizo Inc.; Author: Monica Marlowe.
+
+    Pathfinder Module: The House on Hook Street © 2015, Paizo Inc.; Author: Brandon Hodge.
+
+    Pathfinder Module: Feast of Dust © 2015, Paizo Inc.; Author: Nicolas Logue.
+
+    Pathfinder Module: Daughters of Fury © 2015, Paizo Inc.; Author: Victoria Jaczko.
+
+    Pathfinder Module: Tears at Bitter Manor © 2014, Paizo Publishing, LLC; Author: Steven Helt.
+
+    Pathfinder Module: Wardens of the Reborn Forge © 2013, Paizo Publishing, LLC; Author: Patrick Renie.
+
+    Pathfinder Module: Doom Comes to Dustpawn © 2013, Paizo Publishing, LLC; Author: Mike Welham.
+
+    Pathfinder Module: We Be Goblins Too! © 2013, Paizo Publishing, LLC; Author: Richard Pett.
+
+    Pathfinder Module: The Moonscar © 2012, Paizo Publishing, LLC; Author: Richard Pett.
+
+    Pathfinder Module: The Midnight Mirror © 2012, Paizo Publishing, LLC; Author: Sam Zeitlin.
+
+    Pathfinder Module: We Be Goblins! © 2011, Paizo Publishing, LLC; Author: Richard Pett.
+
+    Pathfinder Module: Tomb of the Iron Medusa © 2011, Paizo Publishing, LLC; Author: Mike Shel.
+
+    Pathfinder Module: Cult of the Ebon Destroyers © 2011, Paizo Publishing, LLC; Author: Matthew Goodall.
+
+    Pathfinder Module: Curse of the Riven Sky © 2010, Paizo Publishing, LLC; Author: Monte Cook.
+
+    Pathfinder Module: From Shore to Sea © 2010, Paizo Publishing, LLC; Author: Brandon Hodge.
+
+    Pathfinder Module: Realm of the Fellnight Queen © 2010, Paizo Publishing, LLC; Author: Neil Spicer.
+
+    Pathfinder Module: Clash of the Kingslayers © 2009, Paizo Publishing, LLC; Author: Christine Schneider.
+
+    Pathfinder Module: The Pact Stone Pyramid © 2008, Paizo Publishing, LLC; Author: Michael Kortes.
+
+    Pathfinder Module: Treasure of Chimera Cove © 2008, Paizo Publishing, LLC; Author: Anson Caralya.
+
+    Pathfinder Module: Tower of the Last Baron © 2008, Paizo Publishing, LLC; Author: Stephen S. Greer.
+
+    Pathfinder Module: Flight of the Red Raven © 2008, Paizo Publishing, LLC; Author: David Schwartz.
+
+    Pathfinder Module: The Demon Within © 2008, Paizo Publishing, LLC; Authors: Stephen S. Greer, and Tim Hitchcock.
+
+    Pathfinder Module: River into Darkness © 2008, Paizo Publishing, LLC; Author: Greg A. Vaughan.
+
+    Pathfinder Module: Crucible of Chaos © 2008, Paizo Publishing, LLC; Author: Wolfgang Baur.
+
+    Pathfinder Module: Guardians of Dragonfall © 2007, Paizo Publishing, LLC; Author: Anson Caralya.
+
+    Pathfinder Module: Carnival of Tears © 2007, Paizo Publishing, LLC; Authors: Tim Hitchcock, and Nicolas Logue.
+
+    Pathfinder Module: Entombed with the Pharaohs © 2007, Paizo Publishing, LLC; Author: Michael Kortes.
+
+    Pathfinder Module: Gallery of Evil © 2007, Paizo Publishing, LLC; Author: Stephen S. Greer.
+
+    Pathfinder Module: Seven Swords of Sin © 2007, Paizo Publishing, LLC; Author: James L. Sutter.
+
+    Pathfinder Module: Conquest of Bloodsworn Vale © 2007, Paizo Publishing, LLC; Author: Jason Bulmahn.
+
+    Pathfinder Module: Crown of the Kobold King © 2007, Paizo Publishing, LLC; Author: Nicolas Logue.

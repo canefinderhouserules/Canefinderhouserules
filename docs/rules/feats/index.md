@@ -2064,6 +2064,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Extra Contingency](extra-contingency.md) | — | Character level 19th |
 | [Extra Croaking](extra-croaking.md) | — | Boggard, terrifying croak |
 | [Extra Crystalline Dust](extra-crystalline-dust.md) | — | Aphorite, crystalline dust racial trait |
+| [Extra Death Vow](extra-death-vow.md) | — | Death vow class feature |
 | [Extra Feature](extra-feature.md) | — | Con 13, skinwalker |
 | [Extra Gnome Magic](extra-gnome-magic.md) | General | Cha 13, gnome |
 | [Extra Hail of Arrows](extra-hail-of-arrows.md) | Combat | Hail of arrows class feature |
@@ -2194,6 +2195,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Friendly Shroud](friendly-shroud.md) | — | Stealth 1 rank |
 | [Friendly Switch](friendly-switch.md) | — | Base attack bonus +1 |
 | [Frightening Ambush](frightening-ambush.md) | Combat | Intimidate 1 rank |
+| [Frightful Suggestion](frightful-suggestion.md) | — | Frightful presence, true dragon |
 | [Frost Warrior](frost-warrior.md) | Combat | Cold subtype, giant subtype |
 | [Frozen Skin](frozen-skin.md) | — | Con 15, half-orc of winter descent |
 | [Fury of the Tainted](fury-of-the-tainted.md) | Combat | Cha 13, rage class feature, tiefling |
@@ -2747,6 +2749,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Protective Line](protective-line.md) | Combat, Teamwork | Exotic Weapon Proficiency (firearms) |
 | [Protector’s Strike](protector-s-strike.md) | — | Base attack bonus +5, smite evil class feature |
 | [Proxy Summoning](proxy-summoning.md) | — | Ability to cast conjuration (summoning) spells or a conjuration (summoning) spell-like ability, caster level 5th |
+| [Psychovore Master](psychovore-master.md) | Combat | Improved Unarmed Strike, Psychovore Strike, Psychovore Style, Sense Motive 15 ranks |
+| [Psychovore Strike](psychovore-strike.md) | Combat | Improved Unarmed Strike, Psychovore Style, Sense Motive 9 ranks |
+| [Psychovore Style](psychovore-style.md) | Combat, Style | Improved Unarmed Strike, Sense Motive 3 ranks |
 | [Punch Through](punch-through.md) | Combat, Teamwork | Base attack bonus +6 |
 | [Pungent Stench](pungent-stench.md) | — | Stench universal monster ability, Improved Stench, Great Fortitude |
 | [Punishing Step](punishing-step.md) | Combat | Dex 13, Dodge |
@@ -2954,6 +2959,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Slipslinger Bombardment](slipslinger-bombardment.md) | Combat | Quick Draw, Slipslinger Grenadier, Slipslinger Style, Throw Anything, Weapon Focus (sling) or weapon training (thrown) class feature, warslinger racial trait |
 | [Slipslinger Grenadier](slipslinger-grenadier.md) | Combat | Slipslinger Style, Throw Anything, Weapon Focus (sling) or weapon training (thrown) class feature, warslinger racial trait |
 | [Slipslinger Style](slipslinger-style.md) | Combat, Style | Weapon Focus (sling) or weapon training (thrown) class feature, warslinger racial trait |
+| [Slow Exhalation](slow-exhalation.md) | — | Breath weapon, true dragon |
 | [Slow Time](slow-time.md) | Combat | Wis 15, Combat Meditation, Meditation Master, character level 7th |
 | [Sluggish Jinx](sluggish-jinx.md) | General | Halfling Jinx racial trait |
 | [Slurk Rider](slurk-rider.md) | Combat | Kobold |
@@ -3271,6 +3277,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Veiled Contempt](veiled-contempt.md) | — | Bluff 3 ranks |
 | [Veiled Purity](veiled-purity.md) | — | 5 or more Hit Dice, good alignment |
 | [Vengeful Banisher](vengeful-banisher.md) | Story | You witnessed at least one family member or a close friend being killed by demons or demonic cultists, or you have the Hated Foe or An Eye for an Eye background |
+| [Vengeful Death Vow](vengeful-death-vow.md) | — | Death vow class feature |
 | [Venomous Spray](venomous-spray.md) | Combat | Serpentfolk |
 | [Venomous Stare](venomous-stare.md) | Stare | Mesmerist level 11th, painful stare class feature |
 | [Verbose Performer](verbose-performer.md) | — | Bardic performance class feature, Extra Performance, Master Performer, bard level 8th, member of a bardic academy |

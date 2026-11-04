@@ -1087,6 +1087,7 @@
 - **[Alter River](alter-river.md)**: Changes a river's current speed or diverts its course.
 - **[Angelic Aspect](angelic-aspect.md)**: Gain wings, resistances and DR 5/evil.
 - **[Apathy](apathy.md)**: A target loses interest in a chosen pursuit.
+- **[Apparent Master](apparent-master.md)**: A mindless construct regards you as its master.
 - **[Appearance of Life, Greater](appearance-of-life-greater.md)**: Perfectly disguise any undead creature as a living one
 - **[Arid Refuge](arid-refuge.md)**: conjure an air-filled stone shelter underwater
 - **[Army Across Time](army-across-time.md)**: As ally across time, with many duplicates.

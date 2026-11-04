@@ -700,3 +700,13 @@ For some wandering nomads, their traditional dances pulse with the power of thei
 *Spirit Step (Su)*: Whenever the kapenia dancer scores a critical hit with a bladed scarf, he may expend 1 point from his arcane pool to teleport to any point within 30 feet. The kapenia dancer’s turn ends after being teleported. The kapenia dancer must be at least 12th level before selecting this arcana.
 
 **Magus Arcana**: The following magus arcana complement the kapenia dancer archetype: arcane cloak, dispelling strike, hastened assault, maneuver mastery, prescient attack, prescient defense.
+
+## Sorrowblade
+
+A magus who has suffered greatly over the course of her life can learn to channel that misery into her weapon and inflict it on others.
+
+**Despairing Strike (Su)**: At 3rd level, the sorrowblade can wield the power of despair. By spending 1 point from her arcane pool as a swift action, she can imbue the weapon she is wielding with pure anguish. The first creature she strikes with this weapon within the next minute must succeed at a Will saving throw (DC = 10 + 1/2 the sorrowblade’s magus level + her intelligence modifier) or become shaken for 1 minute. Multiple despairing strikes can't make a creature frightened. This ability replaces the magus arcana gained at 3rd level.
+
+**Cruel Weapon (Su)**: At 5th level, the sorrowblade adds *cruel* to the list of magic weapon properties she can infuse with her arcane pool, but removes *speed* from that list.
+
+**Wretched Strike (Su)**: At 12th level, the sorrowblade can cause foes to lose all hope. By spending 1 point from her arcane pool as a swift action, she can imbue the weapon she is wielding with the power of unbridled pessimism. The first creature she strikes with this weapon within the next minute must succeed at a Will saving throw (DC = 10 + 1/2 the sorrowblade's magus level + her intelligence modifier) or take a -2 penalty on attack rolls, saving throws, ability checks, skill checks, and weapon damage rolls for 1 hour. Additionally, during this time, the creature can't gain morale bonuses of any kind, and whenever the creature rolls a natural 1 on an attack roll or saving throw, fails an ability or skill check by more than 5, or takes additional damage as a result of a foe's confirmed critical hit, the penalty on rolls imposed by the wretched strike becomes -3 for 1 round. This increased penalty doesn’t stack, even if multiple catastrophes occur on the same round. This ability replaces the magus arcana gained at 12th level.

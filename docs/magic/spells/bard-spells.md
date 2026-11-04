@@ -494,6 +494,7 @@
 - **[Animal Ambassador](animal-ambassador.md)**: Grant an animal messenger sentience to deliver your message.
 - **[Antithetical Constraint](antithetical-constraint.md)**: Target automatically misses all creatures not of the opposite alignment.
 - **[Apathy](apathy.md)**: A target loses interest in a chosen pursuit.
+- **[Apparent Master](apparent-master.md)**: A mindless construct regards you as its master.
 - **[Army Across Time](army-across-time.md)**: As ally across time, with many duplicates.
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Blood Song](blood-song.md)**: Imbue spells with your blood.
