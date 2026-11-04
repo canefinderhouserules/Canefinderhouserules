@@ -5,6 +5,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 ## 1st-Level Antipaladin Spells
 
 - **[Barbed Chains](barbed-chains.md)**: Hellish chains attack and cause a target to become shaken.
+- **[Bleeding Strike](bleeding-strike.md)**: You imbue a slashing melee weapon with the ability to create a bleeding wound.
 - **[Blood Blaze](blood-blaze.md)**: School transmutation [fire]; Level alchemist 2, antipaladin 1, cleric 2, magus 2, sorcerer/wizard 2, witch 2.
 - **[Bloodbath](bloodbath.md)**: Cause yourself and enemies to bleed.
 - **[Boneshaker](boneshaker.md)**: Momentarily control a living or undead creature’s skeleton.

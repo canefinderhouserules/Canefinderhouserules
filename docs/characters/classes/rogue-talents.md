@@ -338,3 +338,16 @@ Slayers can also select these as slayer talents.
 
 **Stalker Talent**: The rogue can select a vigilante talent. For the purposes of selecting and using this talent, she counts as a 10th-level vigilante with the stalker specialization, regardless of her actual rogue level. Her sneak attack counts as a hidden strike with reduced damage for the purpose of determining the effects of her vigilante talent, which means, among other things, that she can’t apply any of the vigilante talents marked with an asterisk (*) to her sneak attacks.
 
+## Other Rogue Talents
+
+**Confounding Blades (Ex)**: When a rogue with this talent hits a creature with a melee weapon that deals sneak attack damage, her target cannot make attacks of opportunity for 1d4+1 rounds. The rogue must have the slow reactions rogue talent before she can choose this talent.
+
+**Follow Along (Ex)**: A rogue with this talent is familiar enough with enchantment magic to fool it, using spellcasters’ complacency to set them up for a surprise attack. Whenever she succeeds at a saving throw against an enchantment effect, the rogue learns the spell’s effect on a failed save, allowing her to play along and pretend to have failed her save. If she does so, the spellcaster does not learn that she succeeded at her saving throw, even if she was the only target, though she must succeed at an opposed Bluff check against a spellcaster’s Sense Motive check to determine whether she is under the enchantment’s effects. While this ruse is in place, the spellcaster is flat-footed against the rogue’s first attack. If the spellcaster sees the rogue perform (or fail to perform) an action that would be impossible if she were under the enchantment’s effect, he automatically discovers her ruse.
+
+**Getaway Master (Ex)**: A rogue with this talent gains a +10 bonus on all drive checks. The rogue must have the getaway artist rogue talent before choosing this talent.
+
+**Hard Minded (Ex)**: A rogue with this talent is hard to fool with illusions. She automatically receives a save to disbelieve any illusion she can see each round at the start of her turn, even if she hasn’t interacted with it. If she fails a saving throw against an illusion that is not to disbelieve, she can attempt to save again again 1 round later at the same DC. She gets only one extra chance to succeed at her saving throw.
+
+**Shades of Gray (Ex)**: A rogue with this talent uses mental and emotional tricks to protect herself from attempts to discern her alignment. This offers her the benefits of undetectable alignment whenever she chooses, though she must be conscious to maintain the effect.
+
+**Weapon Snatcher (Ex)**: A rogue with this talent can make a Sleight of Hand check in place of a combat maneuver check when attempting to disarm an opponent.

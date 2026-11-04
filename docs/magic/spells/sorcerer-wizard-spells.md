@@ -4,11 +4,15 @@
 
 **Abjuration**
 
+- **[Breeze](breeze.md)**: You create a light wind that blows against the target, from a direction of your choice.
 - **[Chameleon Scales](chameleon-scales.md)**: Change the color of your skin or scales.
 - **[Detect Fiendish Presence](detect-fiendish-presence.md)**: Detects evil outsiders and their servants.
+- **[Drench](drench.md)**: A sudden downpour soaks the target creature or object.
 - **[Grasp](grasp.md)**: Reattempt a failed Climb check to avoid falling.
 - **[Haunted Fey Aspect](haunted-fey-aspect.md)**: You surround yourself with disturbing illusions.
+- **[Jolt](jolt.md)**: You cause a spark of electricity to strike the target with a successful ranged touch attack.
 - **[Oath of Anonymity](oath-of-anonymity.md)**: Magically conceal your identity behind an alternate persona.
+- **[Penumbra](penumbra.md)**: This spell keeps the creature or object touched slightly in shadow.
 - **[Resistance](resistance.md)**: Subject gains +1 on saving throws.
 
 **Conjuration**
@@ -40,7 +44,9 @@
 
 - **[Bleed](bleed.md)**: Cause a stabilized creature to resume dying.
 - **[Disrupt Undead](disrupt-undead.md)**: Deals 1d6 damage to one undead.
+- **[Scoop](scoop.md)**: You will a small vessel of force into existence.
 - **[Scrivener’s Chant](scriveners-chant.md)**: An animated quill copies nonmagical writing at one page per minute.
+- **[Sotto Voce](sotto-voce.md)**: Your dry, rasping whisper fills a living creature of 4 or fewer Hit Dice with unnatural dread.
 - **[Touch of Fatigue](touch-of-fatigue.md)**: Touch attack fatigues target.
 
 **Transmutation**
@@ -80,6 +86,7 @@
 - **[Burning Sands](burning-sands.md)**: Burning sand slows and damages creatures.
 - **[Celestial Healing](celestial-healing.md)**: Target gains fast healing 1.
 - **[Charm Fey](charm-fey.md)**: As *charm person*, but affects a fey.
+- **[Chastise](chastise.md)**: You gain a +5 bonus on Bluff, Diplomacy, and Intimidate checks to convince a listener that they will get in tr…
 - **[Clarion Call](clarion-call.md)**: Creates a horn blast and a booming voice.
 - **[Cloak of Secrets](cloak-of-secrets.md)**: Bubble disguises speech and spell components.
 - **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
@@ -602,6 +609,7 @@
 - **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
 - **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
 - **[Control Vermin](control-vermin.md)**: Control vermin as if they were animals
+- **[Create Soul Gem](create-soul-gem.md)**: You draw forth the ebbing life force of a dying creature or one that has died in the past round, focusing it t…
 - **[Cursed Snake Sigil](cursed-snake-sigil.md)**: As *sepia snake sigil*, but the sigil inflicts one of seven curses.
 - **[Dark-Light](dark-light.md)**: Blind or dazzle creatures that lack light sensitivity.
 - **[Darkvision, Communal](darkvision-communal.md)**: As darkvision, but you may divide the duration among creatures touched.
@@ -776,6 +784,7 @@
 - **[Sundered Serpent Coil](sundered-serpent-coil.md)**: Summon a grappling serpent coil
 - **[Sunstalker](sunstalker.md)**: Invisible while in sunlight.
 - **[Swarm of Fangs](swarm-of-fangs.md)**: Summon a swarm of flying teeth
+- **[Swipe](swipe.md)**: By flicking a finger in the appropriate direction and proclaiming ownership, you attempt to magically wrest an…
 - **[Symbol of Exsanguination](symbol-of-exsanguination.md)**: Triggered rune causes nearby creatures to bleed.
 - **[Tail Strike](tail-strike.md)**: Grow a draconic tail with a slam attack.
 - **[Threefold Face](threefold-face.md)**: Grow three faces; all-around vision and no flanking.
@@ -864,6 +873,7 @@
 - **[Apparent Treachery](apparent-treachery.md)**: Paranoid targets have no allies for any purpose.
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Aura of the Unremarkable](aura-of-the-unremarkable.md)**: Make actions seem mundane to nearby creatures.
+- **[Beanstalk](beanstalk.md)**: When casting this spell, you must plant the material components in soil.
 - **[Bestow Planar Infusion II](bestow-planar-infusion-ii.md)**: Grant a target the effects of an improved planar infusion
 - **[Bind Sage](bind-sage.md)**: This variant of planar binding is specifically used to call one of the most knowledgeable types of outsiders: …
 - **[Bit of Luck](bit-of-luck.md)**: reservoir of luck points for attack rolls and skill checks
@@ -903,12 +913,14 @@
 - **[Dream Shield](dream-shield.md)**: Protect a sleeper's mind from intrusion and control.
 - **[Earsend](earsend.md)**: Your ear flies off as a spy.
 - **[Earth Glide](earth-glide.md)**: School transmutation [earth]; Level alchemist 4, druid 4, sorcerer/wizard 4 Casting Time 1 standard action.
+- **[Elemental Mastery](elemental-mastery.md)**: You gain mastery over the element matching the elemental essence in your blood (fire for ifrits, earth for ore…
 - **[Emergency Force Sphere](emergency-force-sphere.md)**: Immediate dome of force shelters you from collapses and ambushes.
 - **[Energy Hack](energy-hack.md)**: After taking energy damage, swap your spells' energy types.
 - **[Enticing Adulation](enticing-adulation.md)**: Target rages to defend you.
 - **[Fair Is Foul](fair-is-foul.md)**: Curse: the target gains a random arcane malignancy.
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
 - **[Fiendish Wrath](fiendish-wrath.md)**: Willing creatures enter a combat frenzy and can rend.
+- **[Film of Filth](film-of-filth.md)**: You cause the target’s flesh to exude a layer of putrescent slime so foul that the target is sickened (Fortitu…
 - **[Fire Trap](fire-trap.md)**: Opened object deals 1d4 damage + 1/level.
 - **[Firewalker's Meditation](firewalkers-meditation.md)**: Meditative spell: damage reduction, fire resistance, and pain resistance.
 - **[Flaming Aura](flaming-aura.md)**: Gain the fire subtype, or an aura of fire if you already have it.
@@ -1368,6 +1380,7 @@
 - **[Genius Avaricious](genius-avaricious.md)**: A sacrifice imbues a coin with luck, protection or power.
 - **[Globe of Invulnerability](globe-of-invulnerability.md)**: As *lesser globe of invulnerability*, plus 4th-level spell effects.
 - **[Guards and Wards](guards-and-wards.md)**: Array of magic effects protect area.
+- **[Hardening](hardening.md)**: This spell increases the hardness of materials by 1 point per 2 caster levels.
 - **[Harrowing, Greater](harrowing-greater.md)**: This spell functions as harrowing, except it can affect an entire group of creatures and allows its subjects s…
 - **[Hasten Judgment](hasten-judgment.md)**: Quicken a soul's journey to judgment, hampering resurrection or weakening undead foes
 - **[Hellfire Ray](hellfire-ray.md)**: Ray of unholy fire; may damn the slain
@@ -1483,6 +1496,7 @@
 - **[Stone to Flesh](stone-to-flesh.md)**: Restores petrified creature.
 - **[Transformation](transformation.md)**: You gain combat bonuses.
 - **[Wall of Silver](wall-of-silver.md)**: A silver barrier harms evil and silver-vulnerable creatures.
+- **[What Grows Within](what-grows-within.md)**: By speaking the name “a Great Old One,” you infuse yourself with the essence of the Inmost Blot and gain a +3 …
 - **[Whip of Ants](whip-of-ants.md)**: As whip of spiders, but with army ants.
 - **[Wither Limb](wither-limb.md)**: Make one of the target’s limbs useless.
 - **[Janni's Jaunt](jannis-jaunt.md)**: Plane shift for willing creatures to the Elemental, Astral, or Material Planes.
@@ -1561,6 +1575,7 @@
 - **[Submerge Ship](submerge-ship.md)**: A ship in a bubble of air sails underwater.
 - **[Summon Monster 7](summon-monster-7.md)**: This spell functions like summon monster I, except that you can summon one creature from the 7th-level list, 1…
 - **[Summon Monster VII](summon-monster-vii.md)**: Summons extraplanar creature to fight for you.
+- **[Teleport Trap](teleport-trap.md)**: Teleport trap wards an area, redirecting all teleportation into or out of the area to a specific point within …
 - **[Teleport, Greater](teleport-greater.md)**: As *teleport,* but no range limit and no off-target arrival.
 - **[Teleport Object](teleport-object.md)**: As *teleport,* but affects a touched object.
 
@@ -1623,6 +1638,7 @@
 **Abjuration**
 
 - **[Angelic Aspect, Greater](angelic-aspect-greater.md)**: Gain greater angelic powers, including a protective aura.
+- **[Bestow Curse, Greater](bestow-curse-greater.md)**: You place a curse on the subject.
 - **[Curse of Night](curse-of-night.md)**: Curse an area with eternal night.
 - **[Curse Terrain, Supreme](curse-terrain-supreme.md)**: Curse an area with seven deadly hazards.
 - **[Death Clutch](death-clutch.md)**: Rip out someone’s heart.
@@ -1655,6 +1671,7 @@
 - **[Secret Vault](secret-vault.md)**: As secret chest, but stores a whole chamber.
 - **[Soulreaver](soulreaver.md)**: Favored by the necromancer the necromancer’s realm as a tool to turn his enemies’ armies against themselves, t…
 - **[Spell Absorption, Greater](spell-absorption-greater.md)**: Counterspell a 6th-level or lower spell to regain a spell.
+- **[Spellscar](spellscar.md)**: This potent spell invokes the same sort of magical devastation that created the magical wasteland so long ago—…
 - **[Summon Erodaemon](summon-erodaemon.md)**: This spell functions like summon monster, except it summons a single erodaemon.
 - **[Summon Meladaemon](summon-meladaemon.md)**: This spell functions like summon monster, except it summons a single meladaemon.
 - **[Summon Monster 8](summon-monster-8.md)**: This spell functions like summon monster I, except that you can summon one creature from the 8th-level list, 1…
@@ -1746,10 +1763,12 @@
 - **[Rune of Order](rune-of-order.md)**: A rune stabilizes an area against chaos and drains chaotic creatures.
 - **[Salvage](salvage.md)**: Rebuilds a shipwreck and raises it to the surface.
 - **[Scourge of Ruin](scourge-of-ruin.md)**: Negative levels and acid in a burst
+- **[Scourge of the Horsemen](scourge-of-the-horsemen.md)**: This spell blasts the area with a horrific combination of soul-rending energy and physical corrosion.
 - **[Scribe’s Binding](scribes-binding.md)**: Bind a creature and its memories into a book.
 - **[Shadow Transmutation, Greater](shadow-transmutation-greater.md)**: mimics greater polymorph with shadow-stuff
 - **[Spawn Calling](spawn-calling.md)**: Having attained the highest and most profane form of magical achievement in the Great Destroyer’s service, you…
 - **[Spellbane](spellbane.md)**: Block selected spells within an emanation.
+- **[Summon Derghodaemon](summon-derghodaemon.md)**: This spell functions like summon monster, except it summons a single derghodaemon.
 - **[Summon Greater Demon](summon-greater-demon.md)**: Summons a coloxus, omox or 1d3 kalavakus demons.
 - **[Summon Monster 9](summon-monster-9.md)**: This spell functions like summon monster I, except that you can summon one creature from the 9th-level list, 1…
 - **[Summon Monster IX](summon-monster-ix.md)**: Summons extraplanar creature to fight for you.
@@ -1793,6 +1812,7 @@
 **Universal**
 
 - **[Wish](wish.md)**: As *limited wish,* but with fewer limits.
+- **[Yellow Sign](yellow-sign.md)**: This spell functions as per symbol of death, save that creatures that succumb to this spell become dominated (…
 
 ## Ultimate Magic Spells
 

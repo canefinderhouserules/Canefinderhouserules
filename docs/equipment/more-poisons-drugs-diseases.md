@@ -195,3 +195,151 @@ This poison is used by Twilight Talons to render targets too ill to work for a d
 **Effect** 1 hour; +1 alchemical bonus to initiative. If addicted, the user also gains a +1d4 alchemical bonus to Strength for as long as he is addicted
 
 **Damage** 1d2 Con damage
+
+## Other Afflictions
+
+### Mindscape Drug
+
+**Type** contact; **Addiction** major, Fortitude DC 20
+
+**Price** 2,000 gp
+
+**Effect** An affected creature that succeeds at an additional DC 20 Will saving throw has its consciousness transported into a distant mindscape, where it can linger for as long as it likes and return as a full-round action whenever it so pleases. Those that fail this secondary saving throw sleep fitfully for 2d4 hours and wake remembering snippets of surreal dreams.
+
+**Damage** 1d4 Str damage
+
+The drug adyton is central to a daemon harbinger of illusions’s worship and the spreading of her mysteries. It can be purchased only from worshipers of a daemon harbinger of illusions, and typically only by servants of the goddess.
+
+### Blood Veil
+
+**Type** contact or injury; **Fortitude Save** DC 16 (the first time ethnically wandering nomad humanoids, including human, half-elves, and half-orcs with wandering nomad parentage, are exposed to blood veil, each such character has a flat 5% chance that she is immune to the disease)
+
+**Onset** 1 day; **Frequency** 1/day
+
+**Effect** 1d4 Con damage and 1d4 Cha damage
+
+**Cure**
+
+Blood veil takes its name from its most apparent symptoms: a rash and mask of blisters that cover the face. In its initial stages, the disease is characterized by headache, fatigue, coughing, and the aforementioned rash. As it progresses, the cough becomes more obtrusive; the rash spreads to the neck, face, and limbs and develops into poxlike blisters; and the lymph glands swell into painful buboes. At its most advanced stage, the blisters grow to the size of grapes or larger, internal bleeding creates black patches on the skin, and the victim expectorates blood. Ultimately, a bloody, wheezing death occurs. If left untreated, blood veil kills the average human in 7 days.
+
+### Brinestump Special
+
+**Price** 400 gp; **Weight** —
+
+**Type** ingested; **Save** Fortitude DC 15
+
+**Onset** 1 round
+
+**Effect** nauseated for 5 rounds
+
+**Cure** 1 save
+
+Invented as part of a series of dares between feuding goblin camps, this noxious brew fermented from a slurry of swamp flora is a favored concoction of the Licktoad tribe. The potent intoxicant is popular among goblinoids (who are immune to its nauseating effect), but all other races that partake of this frothy drink are wracked with nausea.
+
+### Burnt Other Fumes
+
+**Price** N/A; **Weight** —
+
+**Type** inhaled; **Save** Fortitude DC 18
+
+**Frequency** 1/round for 6 rounds
+
+**Initial Effect** 1 Con drain; **Secondary Effect** 1d3 Con damage
+
+**Cure** 2 consecutive saves
+
+### Dysentary
+
+**Type** contact or injury; **Fortitude Save** DC 16
+
+**Onset** 1d3 days; **Frequency** 1/day
+
+**Effect** 1d6 nonlethal damage and target is fatigued and staggered
+
+**Cure** 2 consecutive saves
+
+### Goddess of Lust and Revenge’s Revenge
+
+**Price** 500 gp; **Weight** —
+
+**Type** ingested; **Save** Fortitude DC 16
+
+**Onset** consuming one or more alchoholic drink; **Frequency** 1/minute for 6 minutes
+
+**Effect** 1d2 Dexterity damage
+
+**Cure** 2 saves
+
+This poison is traditionally brewed as part of lust-goddess revenge plots against traitorous lovers.
+
+### Indigo Dreams
+
+**Price** 150 gp; **Weight** —
+
+**Type** ingested; **Save** Fortitude DC 13
+
+**Onset** 10 minutes; **Frequency** 1/minute for 6 minutes
+
+**Effect** 1d3 Wis
+
+**Cure** 2 saves
+
+### Kiss of the Gatekeeper
+
+**Price** 7,500 gp; **Weight** —
+
+**Type** contact, ingested; **Save** Fortitude DC 23
+
+**Onset** 1d6 days; **Frequency** 1/day
+
+**Effect** fatigued, 1d2 Str drain, and 1 Con drain
+
+**Cure** 3 consecutive saves
+
+### Malaria (Jungle Fever)
+
+**Type** injury; **Fortitude Save** DC 18
+
+**Onset** 1d3 days; **Frequency** 1/day
+
+**Effect** 1d3 Str damage and 1d3 Con damage and target is fatigued
+
+**Cure** 2 consecutive saves
+
+### Mumia
+
+**Type** inhaled, ingested, or injury; **Addiction** major, Fortitude DC 18
+
+**Price** 500 gp
+
+**Effect** 1 hour; +1d8 temporary hit points, +2 alchemical bonus on saving throws made against spells and effects with the curse or disease descriptor, fatigue. If the user is addicted for more than a week straight, she has a cumulative +5% chance of transforming into a ghoul every week she remains addicted.
+
+**Damage** 1d2 Wis damage
+
+Perhaps the strangest of the valuables removed from the dusty tombs of the desert kingdom is the flesh of the dead itself. During the years of satrapy-dominated the desert kingdom and later under the rule of eastern imperial sultans, a highly prized royal physician of desert descent by the name of Merenfren used a previously unknown black, tarlike substance as an ingredient in numerous salves, potions, and pills she concocted to treat ailments and revitalize her wealthy clientele.
+
+Calling the drug mumia, Merenfren managed to keep the key ingredient of her potent cure-all hidden from her patients until 2271 AR, when a rival scholar finally discovered her sinister secret: Mumia was nothing more than the f lesh of carefully preserved corpses excavated from desert tombs. Even the sweet elixir that she sold as the “water of life” was merely a diluted substance derived from the body of a young child preserved in a jar of honey. Merenfren was quickly tried and executed for her crimes, including the desecration of the dead as well as tricking her noble patients into consuming the vile substance. However, it was too late to undo the chemist’s discoveries—she had already left her mark on desert society by inspiring an entire subculture based on the trade and consumption of mumia. An extensive black market took hold in the desert kingdom’s grisly underworld, and even the eastern imperial masters of the desert kingdom continued to partake of the foul drug made from the dead. The mysterious disappearances of mumia addicts were often attributed to their contact with the desert criminal element rather than any of the drug’s long-lasting side effects, but mumia sellers knew better and took care to not get hooked to the drug themselves.
+
+Even today, mumia made from the bodies of properly prepared and aged corpses—as well as cheap, knock-off mumia made from the embalmed bodies of animals or the recently dead—fetches a fine price in the back alleysof the desert capital and other major cities in northern the southern continent. An unscrupulous graverobber need not hawk only fineries and art anymore, but can profit immensely from the act of plundering mummified bodies as well if she knows where to pawn them.
+
+Cheap, imitation mumia made from the recently deceased or improperly treated bodies has the same stats as mumia, but the benefits are rendered at 50% their normal potency and for half the duration.
+
+### Shiver
+
+**Type** injury or ingested; **Addiction** major, Fortitude DC 18
+
+**Price** 500 gp
+
+**Effect** variable; 50% chance to sleep for 1d4 hours or gain immunity to fear for 1d4 minutes
+
+**Damage** 1d2 Con damage
+
+### The Scales
+
+**Type** contact or injury; **Fortitude Save** DC 16
+
+**Onset** 1d4 days; **Frequency** 1/2 days
+
+**Effect** 1d2 Dex damage and 1d2 Cha damage
+
+**Cure** 2 consecutive saves. Reptiles and creatures with the reptilian subtype receive a -2 penalty on saving throws and require 3 consecutive saves to recover.

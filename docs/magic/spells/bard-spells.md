@@ -44,6 +44,7 @@
 - **[Cause Fear](cause-fear.md)**: One creature of 5 HD or less flees for 1d4 rounds.
 - **[Charm Fey](charm-fey.md)**: As *charm person*, but affects a fey.
 - **[Charm Person](charm-person.md)**: Makes one person your friend.
+- **[Chastise](chastise.md)**: You gain a +5 bonus on Bluff, Diplomacy, and Intimidate checks to convince a listener that they will get in tr…
 - **[Clarion Call](clarion-call.md)**: Creates a horn blast and a booming voice.
 - **[Cloak of Secrets](cloak-of-secrets.md)**: Bubble disguises speech and spell components.
 - **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
@@ -139,6 +140,7 @@
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
+- **[Sotto Voce](sotto-voce.md)**: Your dry, rasping whisper fills a living creature of 4 or fewer Hit Dice with unnatural dread.
 - **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Speak Local Language](speak-local-language.md)**: Speak and understand one known regional human language.
 - **[Speechreader's Sight](speechreaders-sight.md)**: Read the lips of speakers within 100 ft.
@@ -339,6 +341,7 @@
 - **[Summon Monster II](summon-monster-ii.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
 - **[Suppress Charms and Compulsions](suppress-charms-and-compulsions.md)**: Bolster or suppress charm and compulsion effects.
+- **[Swipe](swipe.md)**: By flicking a finger in the appropriate direction and proclaiming ownership, you attempt to magically wrest an…
 - **[Sympathetic Aura](sympathetic-aura.md)**: Magic aura that also covers similar nearby items.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
 - **[Tactical Miscalculation](tactical-miscalculation.md)**: Target must save to make attacks of opportunity.
@@ -447,6 +450,7 @@
 - **[Mirage](mirage.md)**: Create illusory terrain.
 - **[Motes of Dusk and Dawn](motes-of-dusk-and-dawn.md)**: up to four motes that shed light or darkness
 - **[Mydriatic Spontaneity](mydriatic-spontaneity.md)**: flashing light and dark nauseate and impair a target's sight
+- **[Overlook](overlook.md)**: You enhance your natural ability to seem small and unimportant, causing those around you to overlook you.
 - **[Penumbral Disguise](penumbral-disguise.md)**: shadowy illumination masks your features
 - **[Pernicious Pranksters](pernicious-pranksters.md)**: Invisible pranksters trip, disarm, and steal from your foes.
 - **[Phantom Driver](phantom-driver.md)**: Conjures a phantom to drive vehicles.
@@ -711,7 +715,9 @@
 - **[Touch of Slumber](touch-of-slumber.md)**: Nonhostile creature falls asleep for hours.
 - **[Triggered Hallucination](triggered-hallucination.md)**: As *scripted hallucination*, but it only appears when triggered.
 - **[Veil](veil.md)**: Changes appearance of group of creatures.
+- **[What Grows Within](what-grows-within.md)**: By speaking the name “a Great Old One,” you infuse yourself with the essence of the Inmost Blot and gain a +3 …
 - **[Whip of Ants](whip-of-ants.md)**: As whip of spiders, but with army ants.
+- **[Yellow Sign](yellow-sign.md)**: This spell functions as per symbol of death, save that creatures that succumb to this spell become dominated (…
 
 ## Ultimate Magic Spells
 

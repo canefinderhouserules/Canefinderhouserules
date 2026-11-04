@@ -238,3 +238,24 @@ Monitors are listed by their portfolio rather than by name.
 1. **Aeon Arbiter (Sp)**: *unseen servant* 3/day, *spectral hand* 2/day, or *gaseous form* 1/day
 2. **Immaterial Flesh (Su)**: You gain the constant benefits of the *moderate fortification* armor special ability. If you already have a similar defensive ability, you increase that ability's chance to negate the additional damage by 10%.
 3. **Creative Destruction (Su)**: Once per day as a standard action, you can touch two adjacent creatures (including yourself). One takes 150 points of damage (Fortitude half; DC = 10 + half your HD + your Charisma modifier), and the other regains a number of hit points equal to the damage taken by the first target.
+
+## Protean lord of fate, freedom and paradox
+
+**Obedience**: Ritually bleach your hair and whisper prayers in protean song for an hour, naked, in public view. Gain a +4 sacred bonus on saves against the spells, spell-like abilities, and supernatural abilities of creatures with the lawful subtype.
+
+### None Boons
+
+1. **Fated (Sp)**: *liberating command* 3/day, *shard of chaos* 2/day, or *borrow fortune* 1/day
+2. **Inviolate Freedom (Ex)**: Once per day as an immediate action when subjected to any circumstance or condition that impedes your movement, you can swap positions or conditions with another creature within 60 feet. An unwilling creature can resist this effect with a Will save (DC = 10 + half your HD + your Charisma modifier).
+3. **Herald of Paradox (Su)**: You can tinker with probability as a swift action. This manifests as a swirling halo of protean symbols and grants you prescience for a number of rounds equal to half your character level. This prescience allows you to roll twice and use the better result on a single d20 roll each round.
+
+## Psychopomp usher of aging, poison and venomous creatures
+
+**Obedience**: Drink a diluted preparation of poison—a single dose of poison is sufficient to prepare five such draughts, and the dilution grants you a +5 circumstance bonus on your saving throw—or allows a venomous creature to bite you. You gain an innate sense of poison, per *detect poison*, as an extraordinary ability with a range of 20 feet.
+
+### None Boons
+
+1. **Serpent’s Kiss (Sp)**: *polypurpose panacea* 3/day, *touch injection* 2/day, or *sands of time* 1/day
+2. **Breath of Life (Sp)**: You can cast *restoration* once per day.
+3. **Wonders of Age (Su)**: You no longer take ability score penalties from aging and cannot be magically aged. Any penalties you may have already incurred remain in place, however. Bonuses still accrue, and you still die of old age when your time is up.
+

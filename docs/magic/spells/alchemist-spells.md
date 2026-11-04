@@ -102,6 +102,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Poison Exchange](poison-exchange.md)**: Swallow one poison and regurgitate another.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
+- **[Protection from Spores](protection-from-spores.md)**: With a touch, you bolster a creature’s body to protect it from the harmful effects of spores and similar affli…
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Radiation Ward](radiation-ward.md)**: +4 on saves against radiation; sense radiation levels.
 - **[Scale Spikes](scale-spikes.md)**: Grow armor spikes from scales
@@ -140,6 +141,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Claim Identity](claim-identity.md)**: Steal a touched humanoid’s face and identity.
 - **[Clay Skin](clay-skin.md)**: Target gains DR 5/adamantine.
 - **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
+- **[Create Drug](create-drug.md)**: The caster conjures into being one of the following drugs: aether, flayleaf, opium, pesh, scour, shiver, or ze…
 - **[Darkvault](darkvault.md)**: wards an area so light cannot change its illumination
 - **[Darkvision, Communal](darkvision-communal.md)**: As darkvision, but you may divide the duration among creatures touched.
 - **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
@@ -229,6 +231,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 
 - **[Age Resistance, Greater](age-resistance-greater.md)**: Ignore any penalties from venerable age.
 - **[Air Walk, Communal](air-walk-communal.md)**: As air walk, but you may divide the duration among creatures touched.
+- **[Ancestral Memory](ancestral-memory.md)**: When you cast this spell, you open your mind to the vast experiences of your ancestors in the hope of learning…
 - **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
 - **[Dream Reality](dream-reality.md)**: The target perceives the world as a dream and forgets it.
 - **[Dust Form](dust-form.md)**: You become an incorporeal creature of dust for a short period of time.

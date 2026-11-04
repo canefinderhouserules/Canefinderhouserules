@@ -417,3 +417,123 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 **Unabashed Gall**: Your total indifference to the law even as you’re breaking it is such that those watching you are stunned. Whenever you commit an unexpected and outrageously unlawful act (such as knowingly destroying or stealing something) that would elicit a hostile response from another creature, you may attempt a Bluff check opposed by the opponent’s Sense Motive check. If you’re successful, you and any allies who were willfully expecting your unlawful deed may act in a surprise round. For each ally willfully expecting your unlawful deed, you take a cumulative –2 penalty on your Bluff check. If your Bluff check fails, there is no surprise round. Regardless of whether your Bluff check succeeds, you and any allies willfully taking advantage of your unlawful deed treat your initiative checks for the duration of combat as though you had each rolled a 1.
 
 **Underworld Scholar**: Unsatisfied with mere stories, you have spent years researching journals and firsthand accounts of those who explored the underworld before you. You gain a +2 trait bonus on Knowledge checks to identify the weaknesses of underworld creatures.
+
+## More Campaign Traits
+
+**Close Allies**: You and another PC are close allies—friends, lovers, siblings, or even twins. Work with the other player to build a shared history—both you and the other player must choose Close Allies as a campaign trait, and both must agree to the nature of the relationship between the two characters. (At the GM’s option, more than two PCs can be linked by this trait.) You and your close ally have always supported each other. You might have the tendency to complete each other’s sentences, dress similarly, share the same religion or faith, or have endured a dangerous event together in the past. If you and the other player agree (and have chosen either the siblings or twins option below), you might not even particularly like your close “ally,” yet you still respect them and can utilize this trait’s benefits all the same. If your relationship with your close ally ends (as a result of death, a parting of ways, or other catastrophe), you immediately lose this campaign trait and replace it with Spirit Touched as a result of your emotional distress. When you and the other PC agree to take this shared trait, you must also agree on the nature of your characters’ bond by choosing one of the following: friends, lovers, siblings, or twins. If you choose twins, both PCs must be of the same race. If you choose siblings, one or both of you are adopted if you aren’t of the same race. Whenever you are adjacent to your close ally, you gain a +1 trait bonus on all saving throws. Once per adventure as an immediate action, you may grant your close ally a bonus equal to the result of 1d6 to a single d20 roll. You must have line of sight to your ally to use this ability. You may choose to grant this bonus after your ally has rolled, but must do so before the result of the roll is known.
+
+**Wandering Nomad Immunity**: Your family is particularly hearty, and has even passed down tales of a wandering nomad ancestor who sought to cure (or, some loose-lipped relatives say, create) diseases. You gain a +1 trait bonus on saving throws made to resist diseases. Additionally, you are immune to the diseases Wasting’s phage and blood veil. You do not need to be of the wandering nomad ethnicity to take this campaign trait, but if you’re not, your background should explain how you have a wandering nomad ancestor.
+
+## More Cosmic Traits
+
+**The Bridge**: The Bridge spans the rushing waters that separate the darkness of winter from the warmth of spring. You gain a +1 trait bonus on saving throws against spells and effects with the cold or darkness descriptors.
+
+**The Daughter**: You are filled with the light-hearted joy of the Daughter, who dances her way into springtime. Every creature within 10 feet of you adds +2 moral bonuses to the DCs of checks to demoralize them.
+
+**The Follower**: You are born under the sign of the dark figure that trails the Caravan—the specter of death itself. You receive a +2 bonus on saving throws against death effects. All allies within 10 feet of you take a –1 penalty on saving throws against death effects.
+
+**The Lantern Bearer**: You are bathed in the light of the Lantern Bearer, who guides the Caravan through the darkest nights. You can cast *light* three times per day as a spell-like ability, treating your character level as your caster level.
+
+**The Mother**: Granting warmth and comfort against the forbidding cold of the wilderness, the Mother is the heart of the Caravan. Allies within 10 feet of you gain a +1 morale bonus on saving throws to resist fear effects. This trait functions only while you are conscious.
+
+**The Newlyweds**: Your sign is of two lovers, intertwined as one. You gain a +2 bonus on Diplomacy checks to influence those who might be romantically attracted to you, and Diplomacy becomes a class skill for you.
+
+**The Pack**: You are blessed by the beasts that trail the caravan, which represent protection in numbers. You gain a +2 trait bonus on Handle Animal checks to teach animals tricks, and Handle Animal becomes a class skill for you.
+
+**The Patriarch**: Like the father of the Cosmic Caravan, you have an innate sense of direction. Three times per day, you can use *know direction* as a spell-like ability, treating your character level as your caster level.
+
+**The Rider**: You are born under the auspice of the mounted caravan guard, whose very presence deters danger. Once per day, when you succeed at a Ride check, you can attempt an immediate Intimidate check against the nearest foe. If you fail this check, the DC of your next Intimidate check against that opponent does not increase (as it normally would).
+
+**The Stranger**: Like the lone traveler that walks alongside the caravan for but a brief while, you have a way with strangers. You gain a +1 trait bonus on Diplomacy and Knowledge (local) checks to gather information. Additionally, either Diplomacy or Knowledge (local) becomes a class skill for you.
+
+**The Thrush**: Like the curious songbirds that welcome weary travelers, your voice rings with sweet clarity. You gain a +1 bonus on Perform (sing) checks, and Perform (sing) becomes a class skill for you.
+
+**The Wagon**: Like the vehicle that conveys travelers across the heavens, you are blessed with extraordinary movement capabilities. Once per day as a swift action, you can increase your move speed by 10 feet for 1 round.
+
+## More Faction Traits
+
+**Force for Good**: Your good-aligned spells are especially powerful, and they function at +1 caster level. This trait makes your aura more powerful (one step higher), as outlined in the *detect evil* spell.
+
+**Proper Training**: Your time at the great explorers’ lodge has served you well. Choose either Knowledge (geography) or Knowledge (history). You gain a +1 trait bonus on all checks for the chosen skill, and the chosen skill becomes a class skill for you.
+
+**Secrets of the Sphinx**: Your ancestors paid the proper obeisance to the god of magic, who granted their heirs special divinatory gifts. Once per day, you may gain a +2 trait bonus on any single Knowledge check. Additionally, choose one Knowledge skill—this skill becomes a class skill for you.
+
+**Tomb Raider**: You’ve spent most of your life exploring the ancient tombs and catacombs of the desert kingdom. You gain a +1 bonus on Perception and Knowledge (dungeoneering) checks, and one of these skills (your choice) becomes a class skill for you.
+
+**Upstanding**: Your preferred means of doing business involves giving your clients a fair deal and winning their continued business and good will. You gain a +1 trait bonus on Diplomacy and Sense Motive checks, and one of these skills (your choice) becomes a class skill for you.
+
+## More Mount Traits
+
+**Clever Mount** (*Any animal can be a clever mount.*): This mount can learn four tricks per point of Intelligence, instead of the typical three. Commanding the mount with the Handle an Animal use of the Handle Animal skill requires a successful DC 15 skill check instead of the usual DC 10, however, as it is willful and easily bored.
+
+**Lucky Hound** (*Riding dog*): Lucky hounds gain a +1 luck bonus on saves against spells or effects with the evil descriptor or which originate from evil outsiders or undead.
+
+**Warthog** (*Boar*): Warthogs are quicker than they look, with a base speed of 45 feet instead of the boar’s 40 feet.
+
+## More Race Traits
+
+**Disciplined Body** (*Human—distant southern*): You respect your mind’s mastery over your body’s full potential. Once per day, you can use your Wisdom modifier instead of either your Strength or Dexterity modifier on an attack roll, a combat maneuver check, a Strength or Dexterity-based skill check, a Strength check, a Dexterity check, or a Reflex save. You must choose to use this trait before rolling.
+
+**Fate Born** (*Human—wandering nomad*): You grew up around the mysterious fortune-tellers known throughout the gothic realm and the frontier. You start play with a fate deck passed down from a relative. Because of your skill with fortune-telling, you gain a +1 trait bonus on initiative checks.
+
+**Favored Champion** (*Human—highland tribal*): Omens from the spirits indicated you would be a great champion against your tribe’s enemies. Once per day as an immediate action when you fail a combat maneuver check, you can reroll it. You must take the second result even if it is worse.
+
+**Frustrating** (*Gathlain*): You can get anyone’s attention, even when they are focused elsewhere. You can make Bluff checks to create a diversion for allies within 30 feet to hide (provided they readied an action to hide), and you can make Bluff checks to feint for one adjacent ally of your choice. Either use of this ability is a standard action.
+
+**Hard to Pin Down** (*Tiefling*): Only more pressing dangers kept bullies from victimizing you. You gain a +2 trait bonus to AC against attacks of opportunity made by opponents whom you flank and opponents denied their Dexterity bonus to AC against you.
+
+**Highland Tribal Tattoo** (*Human—highland tribal*): Upon reaching adulthood, you received a tribal tattoo, marking you with the symbols of your quah and totem spirits (see the inside back cover for suggestions and designs for highland tribal tattoos). You gain a +1 trait bonus on saving throws against fear effects. Additionally, you are proficient with earth breakers, klars, and highland tribal bolas.
+
+**Kobold Faith** (*Kobold*): You are one of the diehard kobold faithful, respected in your kobold community. You gain a +2 trait bonus on Diplomacy checks when dealing with other kobolds. Additionally, if your deity grants the Artifice, Earth, or Trickery domain, then your kobold faith unlocks a corresponding subdomain: Trap, Radiation, or Ambush.
+
+**My Word Is My Bond** (*Human—old imperial*): Your reliability is a core part of your self-image. Once per day, you can gain a +1 trait bonus on an attack roll, saving throw, or skill check if success on that check is directly relevant to fulfilling a verbal or written agreement you have made. You must choose to use this trait before rolling, and this ability does not work if you initiated the agreement for the purpose of activating this ability.
+
+**Vexed** (*Kobold*): You had multiple narrow escapes from gremlin saboteurs and learned to avoid their magic. You gain a +1 trait bonus on saving throws against curses and fear effects.
+
+**Winter-witch Scion** (*Human—winter-witch*): You come from a family that commands respect. You gain a +1 trait bonus on Intimidate checks, and Intimidate is always a class skill for you. In addition, you gain a +1 trait bonus on Knowledge (nobility) checks related to the winter realm aristocracy.
+
+## More Region Traits
+
+**Acolyte of the False God’s Realm** (*False-God*): You are an adherent of the false-god faith, or once were and have since renounced it. You gain a +1 trait bonus on Knowledge (local) and Knowledge (religion) checks, and one of these skills is always a class skill for you. This bonus increases to +2 when dealing with specifics of the false-god faith.
+
+**Citizen of a Colonial Port** (*a colonial port*): You live and work in a colonial port. You gain a +1 trait bonus on all Knowledge (local) and Knowledge (nobility) checks regarding a colonial port.
+
+**Dead-Planet Experiment** (*the dead planet*): You were raised on the dead planet, where you were overseen by alien forces and subjected to horrifying experimentation. You gain a +1 trait bonus on saving throws against pain effects and the spell-like abilities of undead.
+
+**Desert Scholar** (*the desert kingdom*): You have studied the history of ancient the desert kingdom, and may have even ventured inside one of the great pyramids. You gain a +1 trait bonus on Knowledge (engineering) and Knowledge (history) checks, and one of them is always a class skill for you. In addition, you may choose Ancient the desert tongue as one of your bonus languages.
+
+**Drowned Imperial Scholar** (*Ironbound Archipelago, non-elf*): Your interactions with the elves of the sea-spire have taught you much about drowned imperial artifacts, and you now share the sea-spire elves’ fascination with these relics. You gain drowned imperial as a bonus language, and you gain a +2 trait bonus on Appraise and Use Magic Device checks when attempting to identify or use authentic drowned imperial artifacts.
+
+**Drowned-Town Diver** (*The drowned lands*): You know how to operate the diving bells of a drowned town at the mouth of the Black Flow. You’ve dived the streets of a sunken land yourself, and you know what to expect. You gain a +1 trait bonus on Swim checks, and Swim is always a class skill for you.
+
+**Infernal Capital School Apprentice** (*the infernal capital*): You studied under one of the masters of the infernal capital School style of architecture. You gain a +3 trait bonus on Knowledge (engineering) checks and a +2 trait bonus on Perception checks to find secret doors or traps in buildings built in the infernal capital School style.
+
+**Justiciar** (*the godless kingdom*): You are experienced in interpreting and applying legal doctrine, notably the Laws of Man, independent of any divine mandates. You gain a +1 trait bonus on Diplomacy and Knowledge (local) checks to settle disputes or arbitrate laws. Once per day if you succeed at an Intimidate check to demoralize a foe who has repudiated or ignored a pronounced judgment you’ve made, you may choose to cause the creature to be sickened instead of shaken. The duration of the effect remains the same.
+
+**Left Behind** (*[Elf] the southern jungle or the frontier*): Having been born to those who chose to remain on the world during the Age of Darkness in the southern jungle, you understand the people of this world better than most elves. You gain a +1 trait bonus on Diplomacy and Gather Information checks when interacting with Forlorn elves and non-elf races.
+
+**Peninsula Artist** (*an eastern peninsula*): You grew up in an eastern peninsula, and your artistic talents were cherished and honed from an early age. You have been nurtured on the artistic spirit of an eastern peninsula. Choose one Perform skill. You gain a +1 trait bonus on checks with that skill, and it becomes a class skill for you.
+
+**Underworld Delver** (*the far east underworld*): You are familiar with the byways and passages of the far east’s underworld. You gain a +1 trait bonus on Knowledge (dungeoneering) checks, and a +1 trait bonus on Survival checks made in the underworld. One of these skills becomes class skill for you.
+
+**Unstuck** (*a broken, timeless ruin*): Spending time in a broken, timeless ruin has made you more adept at using warps in time and space. Increase your caster level by 2 when casting spells with the teleportation descriptor.
+
+**Watching the Old Empire** (*Characters from the desert satrapy who have had family members, neighbors, or friends affected by old imperial aggression or who have fallen victim to this hatred themselves.*): You have spent your adult life waiting for the old empire to give you an excuse to fight. You gain a +1 trait bonus on initiative checks, and if you are able to act during the surprise round of an encounter, you can draw a weapon (but not a potion or magic item) as a free action during that round.
+
+## More Religion Traits
+
+**Adherent of Ancient the Desert Kingdom** (*Catfolk native to the desert kingdom*): Although Bastet has been all but forgotten by the native desert people, you either sojourned with or were raised in a cult dedicated to the cat-headed goddess of Ancient the desert kingdom. You treat the tekko-kagi as a martial weapon instead of an exotic weapon. You also treat the tekko-kagi as if it were a set of claw blades when determining how it interacts with other effects.
+
+**Eye of the Watchful God** (*the watchful god*): You once fell asleep during a task that required your attention. A vision of the watchful god awakened you just in time to avoid failing at your task. You gain a +3 trait bonus on Perception checks attempted while you are alone on guard duty.
+
+**Pain-god Caster** (*the god of darkness and pain*): You gain a +4 trait bonus on concentration checks when casting spells with the darkness, pain, or shadow descriptor.
+
+## More Social Traits
+
+**Ancient Golem-empire Scholar**: You have specialized in studying ancient golem-empire history and culture. You gain an ancient golem empire as a bonus language and a +1 trait bonus on all Knowledge checks related to the an ancient golem empire Imperium.
+
+**Fallen-technology Fluid Indulger** (*Associated with the court of the Palace of Fallen Stars in the land of fallen technology*): You have tasted fallen-technology fluids many times. Once per day after rolling to determine the side effects of consuming a fallen-technology fluid, you can roll on the table again, but you must take the second result.
+
+**Infernal Knight Ancestry**: At least one of your parents was an infernal knight, and you see the orders as the embodiment of civic virtue. You gain a +2 trait bonus on Diplomacy checks to influence infernal knights and a +2 trait bonus on Intimidate checks to influence enemies of the infernal knights.
+
+**Underworld Scholar**: Unsatisfied with mere stories, you have spent years researching journals and firsthand accounts of those who explored the underworld before you. You gain a +2 trait bonus on Knowledge checks to identify the weaknesses of underworld creatures.

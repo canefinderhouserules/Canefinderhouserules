@@ -283,3 +283,23 @@ Mutants whose mutations make using standard weapons or other gear difficult some
 **Strong-Side Fist (Ex)**: A strong-side boxer can spend 1 minute to wrap one of her hands in rope or cord. The strong-side boxer can carry items or wield weapons in a wrapped hand, but she takes a –2 penalty on Dexterity-based skill checks that requires the use of that hand (such as Disable Device and Sleight of Hand checks). Unwrapping a hand is a move action that provokes attacks of opportunity. At 3rd level, as a full-round action that provokes attacks of opportunity, a strong-side boxer can dip her wrapped hand in resin and then crushed glass or small metal spikes, which remain on her wrapped hand for 1 hour. If she chooses crushed glass, she can deal slashing damage with her unarmed strikes; if she chooses spikes, she can deal piercing damage with her unarmed strikes for the duration. Whether she chooses crushed glass or metal spikes, she deals an additional 1 point of bleed damage with her unarmed strikes. At 7th level, the bleed damage increases to 1d4. At 11th level, the bleed damage increases to 1d6. At 15th level, the bleed damage increases to 2d4. At 19th level, the bleed damage is multiplied on a critical hit. Bleed damage from this ability does not stack with bleed damage from other sources. This replaces maneuver training.
 
 **Lead Leg (Ex)**: At 5th level, a strong-side boxer can spend 1 minute to wrap one of her legs in a chain, and can thereafter use the chain-wrapped leg both defensively and offensively. While her leg is wrapped, she is considered to be wearing a chain shirt, gaining all the appropriate bonuses and penalties. The chain can be enchanted as armor and is treated as masterwork. Once per round while wearing the chain, she can apply a +4 circumstance bonus to a trip attempt as an immediate action. This replaces close weapon mastery.
+
+## Bouncer
+
+Some taverns employ bouncers to keep out undesirables or for when their customers get too rowdy.
+
+**Crowd Control (Ex)**: When in a bar fight, a bouncer has her tenacity reduced by the crowd at the end of a round by the minimum possible amount. In addition, when she takes the mix it up action, she reduces the tenacity of the crowd by an additional amount equal to her brawler level.
+
+**Lesser Flexibility (Ex)**: A bouncer can use her martial flexibility only a number of times per day equal to 2 + half her brawler level (minimum 3 times per day).
+
+This alters martial flexibility.
+
+**Drunk Handler (Ex)**: At 2nd level, a bouncer gains a +2 circumstance bonus on Intimidate and Sense Motive checks against foes that are tipsy or worse. In addition, when in a bar fight, she ignores damage reduction against nonlethal damage her targets have from being drunk or worse.
+
+This replaces the bonus feat gained at 2nd level.
+
+**Drunk Knockout (Ex)**: At 4th level, a bouncer can use one use of her knockout ability to attempt a similar maneuver in a bar fight against a major participant who is drunk or worse. She must declare her intent before attempting her brawling check, and if she hits and reduces the target’s tenacity, that target must succeed at a Fortitude saving throw (DC = 10 + half the bouncer’s brawler level + the higher of the bouncer’s Strength or Dexterity modifiers) or immediately be reduced to 0 tenacity.
+
+**Bar Fight Mastery (Ex)**: At 5th level, in addition to the benefits of close weapon mastery, when a bouncer confirms a critical hit against a major participant in a bar fight, she also reduces the tenacity of the crowd by her normal brawling damage amount (this amount isn’t doubled).
+
+This alters close weapon mastery.

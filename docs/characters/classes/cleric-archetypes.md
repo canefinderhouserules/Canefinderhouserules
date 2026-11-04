@@ -747,3 +747,15 @@ This ability alters domains.
 **Divine Brand (Ex)**: At 1st level, a mark appears somewhere on the divine paragon’s body. The mark’s location varies by individual and faith, but takes the form of the deity’s holy symbol and generally appears in a location easy to display, such as on the hand, forearm, chest, or face. An uncovered divine brand functions as a holy (or unholy) symbol and as a divine focus for spellcasting. The divine paragon’s aura is even more powerful than a typical cleric’s as a result of her devotion, and her cleric level is treated as 1 higher for the purpose of determining the strength of her aura when it is viewed by spells like detect good.
 
 This ability alters aura.
+
+## Crusader Priest
+
+People of high and low character flock to the crusader land for glory, plunder, or the desire to slay demons from the demonic rift. Crusade-minded clerics of the goddess of valor, the god of battle, and other churches come to the crusader land, learn battlefield tactics and the weaknesses of demons, and strike out to make a name for themselves. A crusader priest has the following class features.
+
+**Weapon and Armor Proficiency**: A crusader priest is proficient with all simple weapons, light armor, medium armor, heavy armor, shields (except tower shields), and the favored weapon of her deity.
+
+**Diminished Spellcasting**: A crusader priest chooses only one domain from her deity’s list of domains rather than the normal two domains. In all other respects, this works like and replaces the standard cleric domain ability.
+
+**Demonic Knowledge (Ex)**: At 1st level, when making Knowledge (planes) checks regarding demons, demonic cults, and their magic, a crusader priest gains a bonus on the check equal to half her class level (minimum +1) and can make these Knowledge skill checks untrained.
+
+**Teamwork Feat**: At 4th level and 8th level, the crusader priest gains a bonus feat. This must be a teamwork feat, Alignment Channel, Greater Spell Penetration, Leadership, or Spell Penetration. The cleric must meet the prerequisites of the selected bonus feat.

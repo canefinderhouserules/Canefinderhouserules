@@ -930,3 +930,14 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 1. **First Boon (Sp)**: *wood shape* 1/day
 2. **Second Boon (Sp)**: *summon monster IV* (1d3 sharks only) 1/day
 3. **Third Boon (Sp)**: *beast shape IV* (sharks only) 1/day
+
+## Nascent demon lord of the forgotten and hidden agendas
+
+**Obedience**: Pierce your flesh with red-hot metal barbs in the shape of serpent fangs; gain a +4 bonus on saving throws against fire.
+
+### Demoniac Boons
+
+1. **First Boon (Sp)**: *burning hands* 1/day
+2. **Second Boon (Sp)**: *invisibility* 1/day
+3. **Third Boon (Sp)**: *sepia snake sigil* 1/day
+

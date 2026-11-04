@@ -384,3 +384,14 @@ Empyreal lords are listed by their portfolio rather than by name, with their ali
 1. **Motley Magic (Sp)**: *color spray* 3/day, *hypnotic pattern* 2/day, or *deep slumber* 1/day
 2. **Prismatic Body (Su)**: You gain a +4 sacred bonus on saves against effects that would blind you. In addition, whenever you make a successful saving throw against a spell or effect with the light descriptor (such as *sunbeam*), you can choose to ignore the effect entirely and redirect its path toward two different creatures or spaces within 30 feet of you. The designated creatures or spaces are affected as though they were caught in the effect’s area or were targeted by the effect.
 3. **Rainbow Orb (Sp)**: You can cast *prismatic sphere* once per day.
+
+## Empyreal lord of dreams, hallucinations and mists
+
+**Obedience**: Drape yourself in gauze and eat hallucinogenic mushrooms or fungi while meditating on the teachings of your patron. Gain a +4 sacred bonus on saving throws against poison.
+
+### Mystery Cultist Boons
+
+1. **Kaleidoscopic Images (Sp)**: *color spray *3/day, *hypnotic pattern *2/day, or *gaseous form *1/day
+2. **Wispy Form (Su)**: Your body becomes misty when you are under attack, diluting the damage of edged weapons. Though outwardly you appear the same, you gain DR 5/bludgeoning.
+3. **Terrible Reverie (Sp)**: You can cast *weird *once per day.
+

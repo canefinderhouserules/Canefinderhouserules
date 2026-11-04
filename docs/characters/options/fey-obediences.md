@@ -96,3 +96,14 @@ Fey lords are listed by their portfolio rather than by name.
 1. **Pass Freely (Sp)**: *expeditious retreat* 3/day, *invisibility* 2/day, or *blink* 1/day
 2. **Planeswalker (Sp)**: You gain the ability to cast *plane shift* once per day.
 3. **Home at the Crossroads (Sp)**: Once per day, you can cast *maze*—the resulting extradimensional labyrinth takes the form of an endless network of empty roads running through a lonely forest. Conversely, you can also choose to target yourself with this ability, in which case you travel to the same extradimensional crossroads yourself, along with any willing targets within 100 feet, and can stay there indefinitely without needing food or drink. Anyone brought there by this second method can leave the crossroads at any time by willing it, but cannot return without another use of this ability.
+
+## Fey lord of complexity, fate and triplets
+
+**Obedience**: Paint two dots above each ear to represent your patron’s three sets of eyes. Cast leaves, bones, or coins into a bowl of clear water, and attempt to divine meaning from the way they land. You gain a +4 bonus on Intelligence-based skill checks.
+
+### Feysworn Boons
+
+1. **Secret Knowledge (Sp)**: *identify* 3/day, *augury* 2/day, or *clairaudience/clairvoyance* 1/day
+2. **Sight Beyond Time (Su)**: You constantly see a few moments down your own line of fate, and thus are never surprised or flat-footed. In addition, you gain a +2 insight bonus to AC and on Reflex saves.
+3. **Baleful Revelation (Sp)**: You can cast *prediction of failure* once per day.
+

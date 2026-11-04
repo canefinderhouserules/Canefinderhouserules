@@ -216,3 +216,39 @@ At 19th level, when a creature would roll to determine the effects of a confusio
 **Cracked Perspectives (Ex)**: At 9th level, a psychic marauder’s growing madness renders her immune to confusion and insanity effects. This ability replaces telepathic bond.
 
 **Unreal Understanding (Ex)**: At 20th level, a psychic marauder’s mindset becomes completely aberrant, to the point that no outside force can penetrate her psyche. Because of this, the psychic marauder becomes immune to all mind-affecting effects. This ability replaces remade self.
+
+## Esoteric Starseeker
+
+The celestial bodies travel through the sky in fixed patterns, and knowledgeable astrologers rely on these stellar constants to make accurate predictions, but the constellations can also be a source of power. An esoteric starseeker is a psychic who focuses her studies on uncovering the secrets of the sky and the constellations of the Cosmic Caravan, able to read the stars as well as she can read minds. For more information on the Cosmic Caravan, see pages 36 and 37 of *Pathfinder Campaign Setting: Occult Mysteries*.
+
+**Written in the Stars**: An esoteric starseeker can spend 1 hour each night in quiet contemplation of the stars to attune herself to a constellation of the Cosmic Caravan, gaining knowledge of new spells from it. She gains one bonus constellation spell slot for each spell level she can cast, and she can prepare a spell associated with her attuned constellation into that slot. At 11th level, she can attune herself to two constellations, choosing between the spells offered by both constellations when she prepares her constellation spells. Whenever she attunes herself to a constellation, the esoteric starseeker must also weaken her connection to one school of magic of her choice, increasing the casting time for all spells of that school to a full-round action or an additional full-round action, as though she were using a metamagic feat. She can change her attuned constellations and her weakened school each day when she prepares her constellation spells. The Cosmic Caravan and their associated spells are as follows.
+
+The Thrush: *comprehend languages* (1st),* magic mouth* (2nd),* tiny hut* (3rd),* dream* (4th),* remote viewing* (5th),* battlemind link* (6th),* phase door* (7th),* discern location* (8th),* wish* (9th).
+
+The Lantern Bearer: *liberating command* (1st),* glitterdust* (2nd),* guiding star* (3rd),* wandering star motes* (4th),* true seeing* (5th),* sonic form* (6th),* prismatic spray* (7th),* sunburst* (8th),* meteor swarm* (9th).
+
+The Newlyweds: *charm person* (1st),* enthrall* (2nd),* synesthesia* (3rd),* break enchantment* (4th),* reincarnate* (5th),* joyful rapture* (6th),* mass synesthesia* (7th),* bilocation* (8th),* overwhelming presence* (9th).
+
+The Bridge: *endure elements* (1st),* resist energy* (2nd),* daylight* (3rd),* fire shield* (4th),* wall of force* (5th),* contagious flame* (6th),* reverse gravity* (7th),* create demiplane* (8th),* world wave* (9th).
+
+The Daughter: *bless* (1st),* hypnotic pattern* (2nd),* heroism* (3rd),* freedom of movement* (4th),* hostile juxtaposition* (5th),* cloak of dreams* (6th),* greater hostile juxtaposition* (7th),* irresistible dance* (8th),* freedom* (9th).
+
+The Rider: *anticipate peril* (1st),* acute senses* (2nd),* ablative barrier* (3rd),* dimensional anchor* (4th),* echolocation* (5th),* blade barrier* (6th),* grasping hand* (7th),* frightful aspect* (8th),* ride the lightning* (9th).
+
+The Patriarch: *command* (1st),* spiritual weapon* (2nd),* dispel magic* (3rd),* telekinetic charge* (4th),* contact other plane* (5th),* find the path* (6th),* mage’s sword* (7th),* brilliant inspiration* (8th),* gate* (9th).
+
+The Wagon: *expeditious retreat* (1st),* twisted space* (2nd),* haste* (3rd),* mirror transport* (4th),* teleport* (5th),* fluid form* (6th),* walk through space* (7th),* etherealness* (8th),* time stop* (9th).
+
+The Pack: *calm animals* (1st),* animal aspect* (2nd),* rage* (3rd),* greater animal aspect* (4th),* summon monster V* (5th),* mass bear’s endurance* (6th),* summon monster VII* (7th),* animal shapes* (8th),* shapechange* (9th).
+
+The Mother: *identify* (1st),* aid* (2nd),* invisibility purge* (3rd),* stoneskin* (4th),* spell resistance* (5th),* contingency* (6th),* mind blank* (7th),* refuge* (8th),* wall of suppression* (9th).
+
+The Stargazer: *know the enemy* (1st),* augury* (2nd),* arcane sight* (3rd),* locate creature* (4th),* feeblemind* (5th),* geas/quest* (6th),* arcane sight (greater)* (7th),* moment of prescience* (8th),* dream voyage* (9th).
+
+The Stranger: *disguise self* (1st),* invisibility* (2nd),* displacement* (3rd),* riding possession* (4th),* prying eyes* (5th),* veil* (6th),* project image* (7th),* maze* (8th),* divide mind* (9th).
+
+The Follower: *forced quiet* (1st),* darkness* (2nd),* vision of hell* (3rd),* enervation* (4th),* waves of fatigue* (5th),* shadow walk* (6th),* simulacrum* (7th),* destruction* (8th),* energy drain* (9th).
+
+This replaces the bonus spells normally granted by the psychic’s discipline and the phrenic amplifications gained at 1st and 11th levels.
+
+**Major Amplifications**: An esoteric starseeker gains this ability at 15th level.

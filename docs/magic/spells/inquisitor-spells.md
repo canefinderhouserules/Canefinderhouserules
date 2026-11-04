@@ -192,11 +192,13 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Shared Training](shared-training.md)**: grant a teamwork feat to allies
 - **[Shield of Shards](shield-of-shards.md)**: Your shield breaks into orbiting shards that attack.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
+- **[Soothing Word](soothing-word.md)**: The target of this spell causes several conditions that he suffers from to be lessened in severity by one step…
 - **[Spell Gauge](spell-gauge.md)**: Reveal some of a target’s spells.
 - **[Spellcurse](spellcurse.md)**: Deals 1d6 damage per ongoing spell on the target.
 - **[Spindrift Spritz](spindrift-spritz.md)**: Ally rerolls a save against fatigue, shaken, sickened, or staggered.
 - **[Spiral Descent](spiral-descent.md)**: Teleport downward as a helical beam
 - **[Spiritual Squire](spiritual-squire.md)**: A force servant helps carry, aid, and armor allies.
+- **[Stoke the Inner Fire](stoke-the-inner-fire.md)**: You increase the natural heat within your body, transferring it to your weapons and armor.
 - **[Sun’s Disdain](suns-disdain.md)**: Target is hurt by sunlight.
 - **[Surmount Affliction](surmount-affliction.md)**: Temporarily suppress one condition.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
@@ -257,6 +259,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
 - **[Isolate](isolate.md)**: Separate your prey from support
 - **[Light of Purity](light-of-purity.md)**: Illuminate undead and weaken their channel resistance.
+- **[Lightning Lash](lightning-lash.md)**: You create a crackling lash of unholy lightning that flickers and flashes in your hand like a whip, shifting c…
 - **[Litany of Eloquence](litany-of-eloquence.md)**: Fascinates a single creature for 1 round.
 - **[Litany of Entanglement](litany-of-entanglement.md)**: Entangles a creature for 1 round.
 - **[Litany of Order](litany-of-order.md)**: Chaotic creatures take double damage from lawful attackers.

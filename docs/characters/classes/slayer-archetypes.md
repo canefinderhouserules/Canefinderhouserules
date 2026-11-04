@@ -407,3 +407,31 @@ In the depths of the Underworld, betraying others before they have the chance to
 **Sudden Betrayal (Ex)**: At 14th level, as a standard action a turncoat can choose a single creature within 30 feet. He gains a +4 circumstance bonus on Diplomacy checks against this target. If the target has an attitude of indifferent or better toward him, the first attack roll the turncoat makes against that target is automatically treated as threatening a critical hit. If the target’s attitude is friendly or better, a successful attack is treated as a confirmed critical hit. This ability can be used only once per day.
 
 At 19th level, the bonus increases to +6, and the attack is treated as a confirmed critical hit if the target is at least indifferent to the turncoat. This ability replaces quarry and improved quarry.
+
+## Spire Diver
+
+Peerless divers, assassins, and scouts, spire divers operate in and out of water using the same weapons and equipment. Although the elves of the sea-spire originally developed the techniques that spire divers use, people living in coastal areas and archipelagos near the southern jungle and the far east have similar, independently developed warrior and diving traditions.
+
+**Studied Target (Ex)**: A spire diver does not gain the ability to add her studied target bonus on Bluff and Survival checks against an opponent she has studied. At 7th level, she cannot add her studied target bonus on Disguise checks. Instead, when using any bow or crossbow against her studied target underwater, the spire diver ignores the normal penalty for shooting underwater and instead treats the weapon as though its range increment were 10 feet. At 5th, 10th, 15th, and 20th levels, the range increment increases by 10 feet, to a maximum of 50 feet.
+
+When using a bow or crossbow that already has an underwater range increment, such as an underwater crossbow, the spire diver adds the range increment gained from studied target as a bonus to the weapon’s usual underwater range increment, though the combined range increment cannot exceed the weapon’s normal range increment.
+
+This alters studied target and stalker.
+
+**Hold Breath (Ex)**: A spire diver increases the number of rounds she can hold her breath before she is required to start attempting Constitution checks to avoid drowning by 2 per slayer level she has.
+
+This replaces track.
+
+**Slayer Talents**: A spire diver can select the strong stroke rogue talent as a slayer talent.
+
+**Swift Swimmer (Ex)**: At 11th level, a spire diver gains a swim speed equal to her base speed.
+
+This replaces swift tracker.
+
+**Diver’s Advance (Ex)**: At 13th level, a spire diver can swim up to twice her swim speed once per day as a move action. She can use Stealth as part of this movement but takes a –10 penalty on her check for doing so. At 17th level, she can use this ability twice per day.
+
+This replaces slayer’s advance.
+
+**Diver’s Quarry (Ex)**: A spire diver gains quarry and improved quarry as a normal slayer, but she does not gain the ability to take 10 or take 20 on Survival checks while moving at normal speed without penalty. Instead, at 14th level, a spire diver can take 10 on Knowledge checks to identify a monster she has selected as her quarry. At 19th level, she can take 20 on these checks without spending extra time to do so. The spire diver must be trained in the appropriate Knowledge skill to use this ability.
+
+This alters quarry and improved quarry.

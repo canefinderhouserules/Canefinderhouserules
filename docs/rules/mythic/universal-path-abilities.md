@@ -132,3 +132,58 @@ Mythic characters of at least 1st tier who gain mythic power from a cyclops myth
 
 **World Breaker (Ex)**: As a free action after you confirm a critical hit with a melee weapon, you can expend one use of mythic power to shatter the ground beneath your foe. This creates difficult terrain in an area centered on your target with a radius equal to 10 feet × your tier. You movement is not impeded by the difficult terrain created by this effect. By expending two uses of mythic power when you use this ability, you can create an additional shock wave that extends beneath your target’s feet in a cylinder with a depth equal to 5 feet × your tier. If this shock wave breaks the surface of the floor (such as if you used this ability on the second floor of a building), the area beneath the target collapses entirely and anyone in the area lands prone on the level below (possibly incurring falling damage in the process).
 
+## Other Path Abilities
+
+**Divine Patron (Su)**: When you encounter a creature who serves your sworn deity, treat its attitude as one step better. When you cast divine spells upon yourself or another creature who serves your deity, treat your caster level as 2 higher.
+
+In addition, every deity grants a modified version of a 3rd-tier hierophant ability (see following page). You must select this path ability in order to gain the additional benefits; it is not automatically granted. If you already have mythic power and the listed ability upon taking divine patron, the other ability immediately turns into its modified version. In addition, a deity grants access to an ability from another path that reflects its interests and power.
+
+**Eldritch Insight (Su)**: The arcane might of the god of magic infuses your every use of magic. The save DCs of any metamagic spells you cast are determined according to the level of the spell slot they occupy after applying the metamagic feat. As a free action while casting a spell prepared with one of more metamagic feats, you can expend one use of mythic power to replace those metamagic feats with any other metamagic feats you know as long as the spell’s effective spell level is no higher than it was before.
+
+**God of Battle (Hurling Vengeance)**: Any greatsword you wield also gains the *keen* weapon special ability. If the weapon already has the* keen* weapon special ability, its critical multiplier instead increases to ×3.* Bonus Path Ability*: Blowback (champion).
+
+**God of Cities and Wealth (Divine Metamastery)**: You can expend one additional use of mythic power to increase the maximum spell slot level increase of the metamagic feat by 1 (to a maximum of 5 if you’ve taken this ability multiple times). For example, if you have this ability once, you can expend two uses of mythic power to pick a metamagic feat that increases the slot level of a spell by 2. *Bonus Path Ability*: Assured skill (marshal).
+
+**God of Darkness and Pain (Hand of Mercy)**: You can expend one use of channel energy to bestow any condition this ability can remove. *Bonus Path Ability*: Painful gambit (marshal).
+
+**God of Farming and Hunting (Blessed Companion)**: Your companion also can select Ability Focus, Improved Natural Armor, Improved Natural Attack, or Multiattack as a bonus feat. *Bonus Path Ability*: Limitless range (champion).
+
+**God of Freedom and Ale (Domain Immunity)**: Whenever you are targeted by a spell you’re immune to, you can expend one use of mythic power to either turn the spell or heal 1d6 hit points per level of the spell that targeted you. *Bonus Path Ability*: Assured drinker (trickster).
+
+**God of Magic (Arcane Knowledge)**: You can select this path ability at 3rd tier instead of 6th. The spells you select can only be from the sorcerer/wizard spell list. You can only choose this ability once before 6th tier, after which you can choose it multiple times as normal. *Bonus Path Ability*: Energy conversion (archmage).
+
+**God of Nature and Weather (Animal Friend)**: You can also use this ability to influence creatures of the plant and vermin creature types. *Bonus Path Ability*: Raise animal (guardian).
+
+**God of Secrets and Murder (Hurling Vengeance)**: You can use this ability to affect a dagger or short sword. When you damage a creature using a ranged attack, you can expend one use of mythic power to cast *poison* upon the target as a spell-like ability.* Bonus Path Ability*: Shadow stealth (trickster).
+
+**God of Self-perfection (Divine Metamastery)**: You are treated as though you had taken this ability an additional time. *Bonus Path Ability*: Adamantine mind (guardian).
+
+**God of the Forge (Hurling Vengeance)**: Whenever you make a successful critical hit using a warhammer (whether this is a ranged or melee attack), as an immediate action you may make an additional attack against a different target within 10 feet of the creature you just critically hit. *Bonus Path Ability*: Immovable (guardian).
+
+**God of Tyranny and Contracts (Alignment Insight)**: You can recognize outsiders of an alignment within one step of your own, even when they’re magically disguised or polymorphed. *Bonus Path Ability*: Eldritch breach (archmage).
+
+**God of Wrath and Destruction (Hurling Vengeance)**: Any greataxe you wield also gains the *vicious* weapon special ability. If the weapon is already vicious, it deals an addition 1d6 points of damage to the target.* Bonus Path Ability*: Flash of rage (champion).
+
+**Goddess of Beauty (Enduring Blessing)**: Select a single spell with a duration of 1 minute per level. You can use this ability to change that spell’s duration to 24 hours. *Bonus Path Ability*: Inspiring surge (marshal).
+
+**Goddess of Death (Domain Immunity)**: You can select a third domain (granted by any deity). You are immune to the harmful effects of this domain. *Bonus Path Ability*: Flash of omniscience (archmage).
+
+**Goddess of Dreams and Stars (Divine Potency)**: Every time you prepare spells, roll 1d4. You gain one bonus spell slot of a level equal to the result of that roll (with a maximum of the highest spell level you can cast). Once you’ve achieved 6th tier, you can select this ability a second time, allowing you to roll 2d4. *Bonus Path Ability*: Impossible speed (champion).
+
+**Goddess of Lust and Revenge (Domain Immunity)**: Whenever you turn a spell, you can either reflect it back at the original caster or any other creature within 15 feet. *Bonus Path Ability*: Treacherous critical (trickster).
+
+**Goddess of Monsters (Blessed Companion)**: You can perform a coup de grace action to kill your own blessed companion and regain 1d3 uses of mythic power. This ability also applies to your new companion when your class ability allows you to regain one. *Bonus Path Ability*: Menacing presence (marshal).
+
+**Goddess of the Sun and Redemption (Life Current)**: You are treated as though you had taken this ability an additional time. *Bonus Path Ability*: Sacrificial shield (guardian).
+
+**Goddess of Undeath and Gluttony (Abundant Healing)**: You can use this ability to affect spells that deal damage. After rolling damage when using a spell or class ability that uses negative energy to deal damage (such as an *inflict moderate wounds* spell or an antipaladin’s touch of corruption), you can deal a portion of that damage to other adjacent targets. You must deal at least 10 points of damage to a creature before selecting an additional creature to damage.* Bonus Path Ability*: Control the mindless (trickster).
+
+**Goddess of Valor (Enduring Blessing)**: You can either extend the duration of the effect or immediately cast the same spell on a second adjacent creature. If you take this ability a second time, you can use this ability to affect three creatures. *Bonus Path Ability*: Crusader (champion).
+
+**Seat of Power (Su)**: Mythic characters of at least 1st tier who gain mythic power from a cyclops myth-speaker can select the following mythic path abilities.
+
+You can grant divine spells, but doing so requires considerable effort and only functions over a limited area. When you choose this path ability, choose a temple, monument, tree, or similar structure to serve as the principle holy site for your burgeoning religion. This site has a limited area of influence that extends in all directions a number of miles equal to 10 times your mythic tier. This functions in all ways as the Divine Source universal path ability with two limitations. First, you can only grant spells to followers who prepare their spells within your holy site’s area of influence. Second, you must spend at least 10 minutes in contact with the holy site and expend one use of mythic power each day to continue granting spells to your followers. While doing so, you may choose to expend two additional uses of mythic power in order to increase your effective tier by one when determining what level spells you can grant. If you later gain the Divine Source path ability, this ability instead permanently increases your effective tier by one when determining what level spells you can grant, and once per day by spending at least 10 minutes in contact with your holy site, you can regain one use of mythic power for every 3 tiers you possess.
+
+**Tempered Steel (Su)**: As a swift action while wearing armor, you can expend one use of mythic power to gain DR 5/adamantine. Once this effect has prevented a total of 20 points of damage per tier you possess, the protection ends. For example, a mythic character with 3 mythic tiers could prevent a total of 60 points of non-adamantine damage with this effect.
+
+**Way of Knowing (Su)**: As a standard action, you can expend one use of mythic power and name a creature to determine what direction it lies from you. You must choose a creature you have encountered before and can unambiguously identify. If this creature is on another plane, you instead become aware of this fact, but not which plane. This effect doesn’t reveal the distance to the selected creature. This ability can be blocked only by effects that can also block *discern location*.

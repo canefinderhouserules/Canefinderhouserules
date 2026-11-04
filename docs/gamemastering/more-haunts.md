@@ -202,3 +202,21 @@ The boundless and ever-shifting fey realm is home to fey and all manner of stran
 Unlike a typical haunt, an echo of the fey realm is healed by positive energy. In fact, when these manifestations interact with positive energy, they typically become stronger. When an echo of the fey realm is healed beyond its normal maximum hit points, any excess hit points persist for 1 minute as temporary hit points. As long as it has any temporary hit points, it gains the effects listed in the overcharge section of its stat block.
 
 While positive energy is a boon for these unusual haunts, negative energy damages them as if they were living creatures. Damaging spells with the death descriptor also harm them. Echoes of the fey realm are almost always chaotic neutral.
+
+## Other Haunts
+
+### Bleeding Walls
+
+**CR** 5; **XP** 1,600
+
+CE haunt (5ft. by 20 ft. hallway)
+
+**Caster Level** 5th
+
+**Notice** Perception DC 20 (to hear the sound of soft sobbing)
+
+**hp** 10; **Trigger** proximity; **Reset** 1 day
+
+**Effect** When this haunt is triggered, thick rivulets of blood course down the walls accompanied by the shrill shriek of a woman’s scream. All creatures in the hallway are targeted by a *fear* spell (save DC 16).
+
+**Destruction** The body of the maid entombed behind the walls must be extracted and given a proper burial.

@@ -584,3 +584,4 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Veil](veil.md)**: Changes appearance of a group of creatures.
 - **[Waves of Ecstasy](waves-of-ecstasy.md)**: Pleasure stuns and staggers creatures.
 - **[Waves of Exhaustion](waves-of-exhaustion.md)**: Several targets become exhausted.
+- **[What Grows Within](what-grows-within.md)**: By speaking the name “a Great Old One,” you infuse yourself with the essence of the Inmost Blot and gain a +3 …

@@ -1489,6 +1489,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Acupuncture Specialist](acupuncture-specialist.md) | — | Heal 5 ranks |
 | [Acute Shot](acute-shot.md) | — | Far Shot, Precise Shot |
 | [Adept Channel](adept-channel.md) | General | Ability to cast divine spells, summon familiar class ability, caster level 4th, Cha 13 |
+| [Advance Warning](advance-warning.md) | — | Cha 15 |
 | [Advanced Armor Training](advanced-armor-training.md) | Combat | Armor training class feature, fighter level 3rd |
 | [Advanced Defensive Combat Training](advanced-defensive-combat-training.md) | Combat | Defensive Combat Training, member of the freed-slave network |
 | [Advanced Weapon Training](advanced-weapon-training.md) | Combat | Fighter level 5th, weapon training class feature |
@@ -1504,6 +1505,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Aligned Crafting](aligned-crafting.md) | Item Creation | Craft Magic Arms and Armor or Craft Wondrous Item |
 | [All-Consuming Swing](all-consuming-swing.md) | Combat | Str 13, Power Attack, Cleave, Vital Strike, base attack bonus +8 |
 | [Ally Caller](ally-caller.md) | — | Triton, *summon nature's ally II* spell-like ability, character level 3rd |
+| [Ally Shield](ally-shield.md) | Betrayal, Teamwork | — |
 | [Altitude Affinity](altitude-affinity.md) | — | Endurance |
 | [Ambuscading Spell](ambuscading-spell.md) | — | — |
 | [Ambush Sense](ambush-sense.md) | Combat | Int 13, trap sense class feature |
@@ -1620,6 +1622,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Biological Lattice](biological-lattice.md) | General | Gathlain, racial fly speed |
 | [Black Market Dealings](black-market-dealings.md) | General | — |
 | [Black Market Sleuth](black-market-sleuth.md) | General | Diplomacy 1 rank, Knowledge (local) 1 rank |
+| [Black Marketeer](black-marketeer.md) | — | Appraise 4 ranks, Gather Information 4 ranks, Knowledge (local) 4 ranks |
 | [Black Powder Spectacle](black-powder-spectacle.md) | Combat, Grit, Performance | Amateur Gunslinger or the grit class feature, base attack bonus +4 |
 | [Blade Binder](blade-binder.md) | — | Base attack bonus +4, proficiency with khopesh or temple sword |
 | [Blade of the Purge](blade-of-the-purge.md) | — | Bane class feature |
@@ -1791,6 +1794,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Confabulist](confabulist.md) | — | Bluff 9 ranks, Sense Motive 9 ranks |
 | [Confusing Stare](confusing-stare.md) | Combat, Stare | Mesmerist level 7th, painful stare class feature |
 | [Connected Criminal](connected-criminal.md) | General | Knowledge (local) 5 ranks |
+| [Consecrate Spell](consecrate-spell.md) | Metamagic | Aasimar, able to prepare or cast *consecrate* |
 | [Conservatory-Trained](conservatory-trained.md) | — | Sense Motive 1 rank |
 | [Consortium Partner](consortium-partner.md) | — | — |
 | [Consume Power](consume-power.md) | — | Spellcraft 3 ranks, wyrwood |
@@ -2156,9 +2160,11 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Fey Spell Versatility](fey-spell-versatility.md) | — | Cha 13, Spellcraft 1 rank, ability to cast ranger spells |
 | [Fiendish Darkness](fiendish-darkness.md) | — | *Darkness* spell-like ability, tiefling |
 | [Fiendish Facade](fiendish-facade.md) | — | Must be taken at 1st level, tiefling |
+| [Fiendish Heritage](fiendish-heritage.md) | — | Tiefling, must be taken at 1st level |
 | [Fiendish Obedience](fiendish-obedience.md) | — | Knowledge (religion) 3 ranks; must worship a fiendish deity, demigod, or quasi deity |
 | [Fiendish Resilience](fiendish-resilience.md) | — | Dex 13, evasion class feature, tiefling |
 | [Fiendish Serpent](fiendish-serpent.md) | — | Bipedal body shape, non-native outsider with the evil subtype |
+| [Fiendish Wings](fiendish-wings.md) | — | Non-native outsider with the evil subtype |
 | [Fiendskin](fiendskin.md) | Damnation | Patronage of an evil outsider |
 | [Fighting Frenzy](fighting-frenzy.md) | Combat, Teamwork | Cha 13, rage class feature |
 | [Figment’s Fluidity](figments-fluidity.md) | Familiar | Must have a familiar with the figment archetype |
@@ -2748,6 +2754,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Pesh Euphoria](pesh-euphoria.md) | General | Pesh Adept or pesh addict |
 | [Pesh Healing](pesh-healing.md) | General | Pesh Adept or pesh addict |
 | [Pesh Rejuvenation](pesh-rejuvenation.md) | General | Pesh Adept or pesh addict |
+| [Pestilent](pestilent.md) | — | Ability to cause disease via a spell, spell-like ability, or supernatural means |
 | [Phalanx Formation](phalanx-formation.md) | Combat | Base attack bonus +1 |
 | [Phantom Ally](phantom-ally.md) | General | Phantom class feature |
 | [Phasestrike](phasestrike.md) | Combat, Conduit | Knowledge (planes) 10 ranks |
@@ -2778,6 +2785,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Poppet Familiar](poppet-familiar.md) | — | Ability to acquire a new familiar, caster level 3rd |
 | [Porcupine Defense](porcupine-defense.md) | Combat | Combat Expertise, Combat Reflexes, base attack bonus +6 |
 | [Position of Strength](position-of-strength.md) | Combat | Intimidate 5 ranks |
+| [Possess Creature](possess-creature.md) | Monster | Cha 20, any evil outsider with 10 or more Hit Dice |
 | [Possess Location](possess-location.md) | — | Cha 16, any evil outsider with 8 or more Hit Dice |
 | [Possessed Hand](possessed-hand.md) | General | — |
 | [Potent Holy Symbol](potent-holy-symbol.md) | — | Good alignment, worshiper of a good deity |
@@ -2843,6 +2851,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ready for Anything](ready-for-anything.md) | Combat | Alertness, Improved Initiative, Lightning Reflexes, Quick Draw, base attack bonus +6 or uncanny dodge class feature |
 | [Reap the Infirm](reap-the-infirm.md) | Combat | Base attack bonus +3 |
 | [Reaper’s Scythe](reapers-scythe.md) | — | Character level 9th, duskwalker, ghost hunter racial trait |
+| [Recalcitrant](recalcitrant.md) | — | Iron Will, hobgoblin |
 | [Recall Ammunition](recall-ammunition.md) | Combat, Grit | Amateur Gunslinger feat or grit class feature, base attack bonus +9, Spellcraft 5 ranks |
 | [Reckless Aim](reckless-aim.md) | Combat | Point-Blank Shot, Precise Shot |
 | [Redeemed Kobold](redeemed-kobold.md) | General | Good alignment, kobold |
@@ -3046,6 +3055,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Sniper Shot](sniper-shot.md) | — | Int 13, Wis 13, Far Shot, Focused Shot, Point-Blank Shot, Precise Shot, the elven kingdom affinity |
 | [Sniper's Lantern](snipers-lantern.md) | — | Point-Blank Shot, *dancing lights* racial spell-like ability |
 | [Snoutgrip](snoutgrip.md) | Combat | Combat Expertise, Combat Reflexes, Improved Grapple, Improved Unarmed Strike, base attack bonus +12 or 10th-level monk |
+| [Snuffing Spell](snuffing-spell.md) | Metamagic | — |
 | [Social Bravery](social-bravery.md) | Combat | Cha 13, bravery class feature |
 | [Solid Shadows](solid-shadows.md) | Metamagic | Spell Focus (illusion) |
 | [Solitary Survivor](solitary-survivor.md) | Combat | Str 17, base attack bonus +4, half-orc |
@@ -3102,6 +3112,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Squire](squire.md) | — | Character level 4th, proficient with all martial weapons |
 | [Squirming Pile](squirming-pile.md) | Combat, Teamwork | Acrobatics 5 ranks, swarming racial trait |
 | [Stable Gallop](stable-gallop.md) | — | Animal or magical beast |
+| [Stable Spell](stable-spell.md) | Metamagic | — |
 | [Stag Horns](stag-horns.md) | Combat, Style | Dex 13, Charging Stag Style, Dodge, Improved Unarmed Strike, Mobility |
 | [Stag Submission](stag-submission.md) | Combat, Style | Charging Stag Style, Dodge, Improved Unarmed Strike, Mobility, Stag Horns |
 | [Staggering Blow](staggering-blow.md) | Combat | Str 13, Power Attack, Vital Strike, base attack bonus +8 |
@@ -3292,7 +3303,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Trepanation](trepanation.md) | — | Heal 5 ranks, Knowledge (arcana) 2 ranks |
 | [Triangulate](triangulate.md) | Teamwork | Blind-Fight, Greater Blind-Fight, Improved Blind-Fight, Perception 15 ranks, human |
 | [Tribal Scars](tribal-scars.md) | — | — |
+| [Tribe Mentality](tribe-mentality.md) | Teamwork | — |
 | [Trick Shooter](trick-shooter.md) | Combat | Dex 13, Deadly Aim, base attack bonus +6 |
+| [Trick Spell](trick-spell.md) | Metamagic | Ability to cast 1st-level spells, chaotic neutral alignment, worshiper of the goddess of lust and revenge |
 | [Triple-Baron](triple-baron.md) | — | Fey creature type or sworn fealty to a fey lord, you must have collected three gifts worth at least 100 gp each from three different planes across the Great Beyond (at least two of the planes must be diametrically opposed to one another in terms of planar traits) |
 | [Troth of the Buried Pharaoh](troth-of-the-buried-pharaoh.md) | — | Must be a member of a buried pharaoh’s cult |
 | [True Breed](true-breed.md) | — | Two subtypes, elf blood or orc blood racial trait |
@@ -3386,6 +3399,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Vulpine Pounce](vulpine-pounce.md) | Combat | Swift Kitsune Shapechanger, base attack bonus +10, kitsune |
 | [Waking Dream](waking-dream.md) | — | Cha 17, [Ephemeral Tread](ephemeral-tread.md), [Lucid Dreamer](lucid-dreamer.md), Knowledge (planes) 10 ranks |
 | [Walking Sleight](walking-sleight.md) | — | Deft Hands, Sleight of Hand 5 ranks |
+| [Wall of Flesh](wall-of-flesh.md) | Teamwork | Small size or smaller |
 | [Wand Dancer](wand-dancer.md) | — | Dex 13, Dodge, Mobility, Perform (dance) 5 ranks |
 | [Wanderer's Fortune](wanderers-fortune.md) | Conduit | Knowledge (planes) 3 ranks |
 | [Wandering Nomad Tattoo](wandering-nomad-tattoo.md) | — | Spell Focus |

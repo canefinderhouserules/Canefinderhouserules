@@ -387,6 +387,30 @@ Fiends are listed by their portfolio rather than by name. These obediences are m
 2. **Second Boon (Sp)**: *polymorph* 1/day
 3. **Third Boon (Sp)**: *elemental body III* 1/day
 
+## Infernal duke of discovery, hubris and scholarship
+
+**Obedience**: Carve your patron’s symbol onto six coins of different mintings. Gain a +4 profane bonus on Appraise checks.
+
+## Infernal duke of lies, propaganda and rhetoric
+
+**Obedience**: Write propaganda that insidiously promotes your patron and his deeds. Gain a +4 profane bonus on saving throws against mind-affecting effects.
+
+## Malebranche of deceit, poison and temptation
+
+**Obedience**: Weave a fabric of lies glorifying yourself and your malebranche liege, but never name him, instead hinting at glorious truths your faith reveals. Gain a +4 profane bonus on saving throws against language-dependent effects.
+
+## Rakshasa immortal, Beastmaster
+
+**Obedience**: Howl prayers to your patron and pay homage to each of his mighty heads. Gain a +4 profane bonus on saving throws against effects from summoned creatures.
+
+## Rakshasa immortal, Desecrator
+
+**Obedience**: Spew blasphemies against a random goodaligned god and curse the names of all those you know who worship that deity. Gain a +4 profane bonus on saving throws against language-dependent effects.
+
+## Sahkil tormentor of despair, restless spirits and sadism
+
+**Obedience**: Torment or berate another sentient creature to instill a sense worthlessness. Gain a +4 profane bonus on Intimidate checks.
+
 ## Patrons Without Boons
 
 These lesser fiends grant only the benefit of their obedience: they have no boon lists. They are listed by portfolio, or by the theme of their obedience where they have no known portfolio.

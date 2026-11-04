@@ -1101,3 +1101,29 @@ This ability alters the inquisitor’s spells.
 This ability replaces the teamwork feat gained at 3rd level.
 
 **Solo Tactics (Ex)**: A ravener hunter gains this ability at 6th level instead of 3rd level.
+
+## Sworn of the Fey Lords
+
+Sworn of the fey lords are gathlains who have pledged their loyalty to one of fey lords of the fey realm. Although the fey lords rarely have adherents as other deities do, they still occasionally require mortal agents to advance their aims. Sworn of the fey lords consider their chosen fey lords to be akin to powerful patrons or fey royalty and serve them faithfully.
+
+**Whimsical Worship (Ex)**: A sworn of the fey lords uses her Charisma modifier, rather than her Wisdom modifier, to determine all class features and effects relating to her inquisitor class, including her spells, cunning initiative, and true judgment abilities.
+
+**Deity**: A sworn of the fey lords must select one of the fey lords as a deity and must select a domain or subdomain of that fey lords for her domain ability; she cannot be devoted to an ideal or philosophy.
+
+This alters domain.
+
+**Disarming Discernment (Ex)**: A sworn of the fey lords adds her Charisma modifier on Sense Motive skill checks, in addition to her Wisdom modifier.
+
+This replaces monster lore.
+
+**Feytongue (Ex)**: A sworn of the fey lords receives a morale bonus equal to half her inquisitor level (minimum +1) on Bluff and Diplomacy checks.
+
+This replaces stern gaze.
+
+**Feywatcher (Ex)**: Resistant to the tricky ways of other fey, a sworn of the fey lords gains the resist nature’s lure druid class feature.
+
+This replaces solo tactics.
+
+**Magic of the fey lords**: At 3rd level and every 3 levels thereafter, a sworn of the fey lords gains a bonus spell slot of the highest spell level she can cast, and she learns the corresponding spell listed for her domain as a bonus spell known. She can use this bonus spell slot only to cast the domain spell of that level.
+
+This replaces all teamwork feats.

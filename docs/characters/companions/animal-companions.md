@@ -470,3 +470,17 @@ The iconic black and white stripes of the zebra make it instantly recognizable.
 **4th-Level Advancement**: Ability Scores Dex +2, Con +2.
 
 † The hooves are primary attacks.
+
+## Other Companions
+
+### Porcupine, Giant
+
+**Companion Type** Animal
+
+**Monster Entry** *Link*
+
+This lumbering forest creature is adorned with an array of long, sharp quills that protrude from its coarse pelt.
+
+**Starting Statistics**: **Size** Small; **Speed** 30 ft.; **AC** +1 natural armor; **Attack** tail slap (1d4); **Ability Scores** Str 14, Dex 12, Con 15, Int 2, Wis 13, Cha5; **Special Attacks** quills (as porupine quills 222); **Special Qualities** low-light vision, scent.
+
+**4th-Level Advancement**: **Size** Medium; **AC** +2 natural armor; **Attack** tail slap (1d6); **Ability Scores** Str +2, Dex -2, Con +4; **Special Attacks** quills (as giant porcupine quills 222).

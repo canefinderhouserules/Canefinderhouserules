@@ -519,3 +519,21 @@ This lightweight, formfitting bodysuit features a variety of pockets, straps, an
 **Craft** DC 22; **Cost** 600 gp
 
 Craft Technological Arms and Armor, production lab
+
+## More Technology
+
+### Detonator
+
+**Price** 500 gp
+
+**Slot** none; **Weight** 1 lb.
+
+**Capacity** 10; **Usage** 1 charge
+
+A detonator is a small device that can be used to trigger cranial bombs, cylex, and other explosives remotely. While an explosive is being set, the user can key the explosive to a detonator with a standard action that costs the detonator one charge. Once the explosive is keyed, as a standard action the user can push a button to trigger the explosive. A typical detonator has a range of 1,000 feet— though some may have a reduced range (intentionally or otherwise) and others might be enhanced by a signal booster.
+
+**Construction**
+
+**Craft** DC 23; **Cost** 250 gp
+
+Craft Technological Arms and Armor, military lab

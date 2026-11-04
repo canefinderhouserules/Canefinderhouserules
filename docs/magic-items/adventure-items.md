@@ -16,6 +16,18 @@ This *+1 chain shirt* is made of shiny, bright rings on the left side and dull, 
 
 **Requirements** Craft Magic Arms and Armor, *comprehend languages*,* detect magic*,* read magic*; **Price** 2,910 gp
 
+### Aquadynamic
+
+**Aura** varies **CL** 5th
+
+**Slot** none; **Price** (+3,750 gp), Improved (+15,000 gp), Greater (+33,750 gp); **Weight** —
+
+This sleek and mobile armor is magically streamlined to assist in swimming rather than making swimming more difficult, granting the wearer a +5 competence bonus on Swim checks for *aquadynamic* armor, a +10 competence bonus on Swim checks for* improved aquadynamic* armor, and a +15 competence bonus on Swim checks for* greater aquadynamic* armor.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *freedom of movement*; **Price** 1,875 gp (aquadynamic), 7,500 gp (improved aquadynamic), 16,875 gp (greater aquadynamic)
+
 ### Armor of Grim Triumph (Orc)
 
 **Aura** moderate necromancy **CL** 7th
@@ -1794,6 +1806,20 @@ Three times per day, the wielder of a *leviathan’s terror* can call on the spi
 
 **Requirements** Craft Magic Arms and Armor, *enlarge person*, *scare*; **Price** 11,705 gp
 
+### Lust-goddess Kiss
+
+**Aura** moderate necromancy **CL** 7th
+
+**Slot** none; **Price** 26,380 gp; **Weight** 7 lbs.
+
+The long blade of this weapon bears shifting black and yellow patterns, resembling the markings of a wasp. This *+1 heartseeker* *elven curve blade* has three slots built into the hilt for storing doses of poison. Adding or removing a dose of poison from the blade is a swift action that requires a free hand.
+
+Any creatures struck by a *lust-goddess kiss* take a –4 penalty on any saving throw against the poison applied to the weapon. The frequency of any poison applied to the lust-goddess kiss increases by 2 (for example, black adder venom lasts 8 rounds instead of 6, and arsenic lasts for 6 minutes instead of 4). Attempts to cure the poisoned target with a skill or magic take a –4 penalty.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *death knell*,* pernicious poison*; **Price** 13,380 gp
+
 ### Master's Lash
 
 **Aura** strong evocation **CL** 15th
@@ -2201,6 +2227,18 @@ This bright *+1 starknife* is engraved with a beautiful moth icon. When wielded,
 **Construction**
 
 **Requirements** Craft Magic Arms and Armor, *color spray*,* jump*; **Price** 4,024 gp
+
+### Signifer’s Fist
+
+**Aura** faint conjuration and transmutation **CL** 5th
+
+**Slot** none; **Price** 10,305 gp; **Weight** 2 lbs.
+
+This *+1 light mace* is forged of black iron and topped with what appears to be a clenched fist with spikes protruding from between the fingers. As a move action, the wielder can expend 1 point from his arcane pool (as per a magus), 1 point from his arcane reservoir (as per an arcanist), or one use of fervor (as per a warpriest) to make a single melee attack with the* signifer’s fist*. Characters without any of these options can instead activate a signifer’s fist in this way as a standard action once per day. If the attack deals damage to a creature, the* signifer’s fist* gains the* bane* weapon special ability against that creature’s type (or subtype if the creature is a humanoid or outsider) for 1 minute. This benefit doesn’t apply if the target is immune to bleed, though the attack still deals damage normally.
+
+**Construction**
+
+**Requirements** Craft Magic Arms and Armor, *haste, summon monster I*; **Price** 5,305 gp
 
 ### Skyrocket Crossbow
 
@@ -3383,6 +3421,54 @@ The wielder can cast up to three spells per day that have full effect against in
 
 **Requirements** Craft Rod, Ectoplasmic Spell; **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
 
+### Rod of Metamagic, Elemental
+
+**Aura** strong (no school) **CL** 17th
+
+**Slot** none; **Price** 3,000 gp (lesser), 11,000 gp (normal), 24,500 gp (greater); **Weight** 5 lbs.
+
+Each *elemental metamagic rod* is built with the power to control and transform a specific energy type (acid, cold, electricity, or fire). The wielder can cast up to three spells per day that deal damage of the rod’s energy type instead of the spell’s normal damage type, as though using the Elemental Spell feat. For example, an *elemental metamagic rod* (cold) always makes spells deal cold damage.
+
+**Construction**
+
+**Requirements** Craft Rod, Elemental Spell; **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
+
+### Rod of Metamagic, Empower
+
+**Aura** strong (no school) **CL** 17th
+
+**Slot** none; **Price** 9,000 gp (lesser), 32,500 gp (normal), 73,000 gp (greater); **Weight** 5 lbs.
+
+The wielder can cast up to three spells per day that are empowered as though using the Empower Spell feat.
+
+**Construction**
+
+**Requirements** Craft Rod, Empower Spell; **Cost** 4,500 gp (lesser), 16,250 gp (normal), 36,500 gp (greater)
+
+### Rod of Metamagic, Enlarge
+
+**Aura** strong (no school) **CL** 17th
+
+**Slot** none; **Price** 3,000 gp (lesser), 11,000 gp (normal), 24,500 gp (greater); **Weight** 5 lbs.
+
+The wielder can cast up to three spells per day that are enlarged as though using the Enlarge Spell feat.
+
+**Construction**
+
+**Requirements** Craft Rod, Enlarge Spell; **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
+
+### Rod of Metamagic, Extend
+
+**Aura** strong (no school) **CL** 17th
+
+**Slot** none; **Price** 3,000 gp (lesser), 11,000 gp (normal), 24,500 gp (greater); **Weight** 5 lbs.
+
+The wielder can cast up to three spells per day that are extended as though using the Extend Spell feat.
+
+**Construction**
+
+**Requirements** Craft Rod, Extend Spell; **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
+
 ### Rod of Metamagic, Familiar (greater)
 
 **Aura** strong (no school) **CL** 17th
@@ -3479,6 +3565,18 @@ The wielder of this rod can cast up to three spells per day without emotion comp
 
 **Requirements** Craft Rod, Logical Spell; **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
 
+### Rod of Metamagic, Maximize
+
+**Aura** strong (no school) **CL** 17th
+
+**Slot** none; **Price** 14,000 gp (lesser), 54,000 gp (normal), 121,500 gp (greater); **Weight** 5 lbs.
+
+The wielder can cast up to three spells per day that are maximized as though using the Maximize Spell feat.
+
+**Construction**
+
+**Requirements** Craft Rod, Maximize Spell; **Cost** 7,000 gp (lesser), 27,000 gp (normal), 60,750 gp (greater)
+
 ### Rod of Metamagic, Merciful (greater)
 
 **Aura** strong (no school) **CL** 17th
@@ -3527,6 +3625,18 @@ The wielder can cast up to three spells per day that overcome the spell resistan
 
 **Requirements** Craft Rod, Piercing Spell; **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
 
+### Rod of Metamagic, Quicken
+
+**Aura** strong (no school) **CL** 17th
+
+**Slot** none; **Price** 35,000 gp (lesser), 75,500 gp (normal), 170,000 gp (greater); **Weight** 5 lbs.
+
+The wielder can cast up to three spells per day that are quickened as though using the Quicken Spell feat.
+
+**Construction**
+
+**Requirements** Craft Rod, Quicken Spell; **Cost** 17,500 gp (lesser), 37,750 gp (normal), 85,000 gp (greater)
+
 ### Rod of Metamagic, Reach (greater)
 
 **Aura** strong (no school) **CL** 17th
@@ -3574,6 +3684,18 @@ The wielder can cast up to three spells per day that sicken affected creatures a
 **Construction**
 
 **Requirements** Craft Rod, Sickening Spell; **Cost** 4,500 gp (lesser), 16,250 gp (normal), 36,500 gp (greater)
+
+### Rod of Metamagic, Silent
+
+**Aura** strong (no school) **CL** 17th
+
+**Slot** none; **Price** 3,000 gp (lesser), 11,000 gp (normal), 24,500 gp (greater); **Weight** 5 lbs.
+
+The wielder can cast up to three spells per day without verbal components as though using the Silent Spell feat.
+
+**Construction**
+
+**Requirements** Craft Rod, Silent Spell; **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
 
 ### Rod of Metamagic, Snuffing (greater)
 
@@ -4014,6 +4136,38 @@ As long as the staff’s *anchoring* special ability is in effect, these spells 
 
 ## Wondrous Items
 
+### Agate Ellipsoid (Cracked) Ioun Stone
+
+**Aura** strong divination; **CL** 12th
+
+**Slot** none; **Price** 500 gp; **Weight** —
+
+This stone grants you a single use of augury with an 80% success rate. It otherwise functions as a normal *agate ellipsoid ioun stone*.
+
+**Resonance**
+
+Increases the caster level of divination spells by 1.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *augury*, creator must be 12th level; **Cost** 250 gp
+
+### Agate Ellipsoid (Flawed) Ioun Stone
+
+**Aura** strong divination; **CL** 12th
+
+**Slot** none; **Price** 800 gp; **Weight** —
+
+This stone functions as a normal *agate ellipsoid ioun stone*, but you lose any abilities to reroll ability checks, skill checks, or saving throws for 24 hours after equipping it.
+
+**Resonance**
+
+Increases the caster level of divination spells by 1.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *augury*, creator must be 12th level; **Cost** 400 gp
+
 ### Alpine Ice Axe
 
 **Aura** faint transmutation; **CL** 3rd
@@ -4040,13 +4194,45 @@ The bonuses from multiple *amber spindles* stack (up to a
 
 maximum of a +5 resistance bonus to saving throws).
 
-### Resonance
+**Resonance**
 
 5% chance per Reflex saving throw of granting the wearer evasion against that effect; bonuses from multiple *amber spindles* stack.
 
 **Construction**
 
 **Requirements** Craft Wondrous Item, *resistance*, creator must be 12th level; **Cost** 5,000 gp
+
+### Amethyst Pyramid (Cracked) Ioun Stone
+
+**Aura** strong abjuration; **CL** 12th
+
+**Slot** none; **Price** 150 gp; **Weight** —
+
+This stone grants a +2 competence bonus on Knowledge (religion) checks to identify undead and their special abilities.
+
+**Resonance**
+
++2 circumstance bonus on Stealth checks against undead.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *hide from undead*, creator must be 12th level; **Cost** 75 gp
+
+### Amethyst Pyramid (Flawed) Ioun Stone
+
+**Aura** strong abjuration; **CL** 12th
+
+**Slot** none; **Price** 6,000 gp; **Weight** —
+
+This stone functions as a normal *amethyst pyramid ioun stone*, but against undead you take a –1 penalty to AC and on saves.
+
+**Resonance**
+
++2 circumstance bonus on Stealth checks against undead.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *hide from undead*, creator must be 12th level; **Cost** 3,000 gp
 
 ### Amulet of Dragon's Breath
 
@@ -4068,7 +4254,7 @@ This amulet is crafted from a dragon scale hung on a thin wire of twisted mithra
 
 These glass amulets hold bubbling red liquid and often feature a religion’s or deity’s holy symbol, most commonly that of the god of tyranny and contracts or the god of darkness and pain. While worn, the amulet tinges the user’s healing magic with a wash of ecstasy that acts as a magical drug, making the recipient of the magical healing susceptible to mental manipulation by the wearer. Anytime the wearer casts a healing spell or uses a spell-like ability on a single target, the recipient of the magical healing additionally must succeed at a DC 13 Fortitude save or become addicted to the wearer’s healing spells. The wearer can suppress this effect by shielding the amulet from view with a hand or held item as a free action. The drug has the following statistics.
 
-## Euphoric Healing
+**Euphoric Healing**
 
 **Type **spell **Addiction **minor, Fortitude DC 13
 
@@ -4819,6 +5005,38 @@ When active, a *bronze sentinel* has the following statistics: **Size **Large; *
 
 **Requirements** Craft Wondrous Item, *animate objects*,* continual flame*, creator must have 8 ranks in Knowledge (engineering); **Cost** 45,000 gp
 
+### Brown Thorny (Cracked) Ioun Stone
+
+**Aura** strong varies; **CL** 12th
+
+**Slot** none; **Price** 3,200 gp; **Weight** —
+
+A cracked *thorny ioun stone* provides a +1 competence bonus on its corresponding type of combat maneuver check.
+
+**Resonance**
+
+Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The feat varies by individual *ioun stone*, and each is equally likely (50% chance).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,600 gp
+
+### Brown Thorny (Flawed) Ioun Stone
+
+**Aura** strong varies; **CL** 12th
+
+**Slot** none; **Price** 6,900 gp; **Weight** —
+
+The flawed version of a *thorny ioun stone* of any type functions as the normal version, but the wearer also takes a -2 penalty to CMD against the corresponding type of combat maneuver check.
+
+**Resonance**
+
+Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The feat varies by individual *ioun stone*, and each is equally likely (50% chance).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,450 gp
+
 ### Bull Idol
 
 **Aura** strong enchantment and evocation [evil]; **CL** 12th
@@ -5207,6 +5425,54 @@ The key also grants its wielder a +4 bonus on saving throws to resist illusion e
 
 **Requirements** Craft Wondrous Item, Lucid Dreamer, *deep slumber*, *eagle’s splendor*, *guidance*; **Cost** 5,150 gp
 
+### Clear Spindle (Cracked) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 1,000 gp; **Weight** —
+
+This stone sustains the wearer on half the normal amount of food.
+
+**Resonance**
+
+The wearer can cast *protection from chaos/evil/good/law* on himself once per day (CL 12th). He can activate this ability as an immediate action, but doing so drains the ioun stone of its magic, turning it into a dull gray ioun stone.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 500 gp
+
+### Clear Spindle (Flawed) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 2,000 gp; **Weight** —
+
+This stone sustains the wearer without food but he must consume twice the normal amount of water.
+
+**Resonance**
+
+The wearer can cast *protection from chaos/evil/good/law* on himself once per day (CL 12th). He can activate this ability as an immediate action, but doing so drains the ioun stone of its magic, turning it into a dull gray ioun stone.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,000 gp
+
+### Clear Spindle (Normal) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 4,000 gp; **Weight** —
+
+Sustains creature without food or water.
+
+**Resonance**
+
+The wearer can cast *protection from chaos/evil/good/law* on himself once per day (CL 12th). He can activate this ability as an immediate action, but doing so drains the ioun stone of its magic, turning it into a dull gray ioun stone.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 2,000 gp
+
 ### Cloak of Nightmares
 
 **Aura** strong conjuration; **CL** 14th
@@ -5399,13 +5665,77 @@ If the animal is slain, it disappears and the heraldic image on the *crest of th
 
 This stone grants you a +2 enhancement bonus to Intelligence. The bonuses from multiple* crimson spheres* stack (up to a maximum of a +6 enhancement bonus to Intelligence).
 
-### Resonance
+**Resonance**
 
 +1 competence bonus on single Knowledge skill (chosen by the stone’s creator).
 
 **Construction**
 
 **Requirements** Craft Wondrous Item, *fox’s cunning*, creator must be 12th level; **Cost** 12,000 gp
+
+### Crimson Sphere (Cracked) Ioun Stone
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 12,000 gp; **Weight** —
+
+Individually these have no effect; when used in pairs, each pair grants a +2 enhancement bonus to Intelligence. The bonuses from multiple* crimson spheres* (cracked or otherwise) stack, up to a maximum of a +6 enhancement bonus.
+
+**Resonance**
+
++1 competence bonus on single Knowledge skill (chosen by the stone’s creator).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *fox’s cunning*, creator must be 12th level; **Cost** 6,000 gp
+
+### Crimson Sphere (Flawed) Ioun Stone
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 16,000 gp; **Weight** —
+
+This stone grants a +2 enhancement bonus to Intelligence per stone, stacking up to +4 total. These stones do not stack with non-flawed *crimson sphere ioun stones*.
+
+**Resonance**
+
++1 competence bonus on single Knowledge skill (chosen by the stone’s creator).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *fox’s cunning*, creator must be 12th level; **Cost** 8,000 gp
+
+### Crimson Thorny (Cracked) Ioun Stone
+
+**Aura** strong varies; **CL** 12th
+
+**Slot** none; **Price** 3,200 gp; **Weight** —
+
+A cracked *thorny ioun stone* provides a +1 competence bonus on its corresponding type of combat maneuver check.
+
+**Resonance**
+
+Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The feat varies by individual *ioun stone*, and each is equally likely (50% chance).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,600 gp
+
+### Crimson Thorny (Flawed) Ioun Stone
+
+**Aura** strong varies; **CL** 12th
+
+**Slot** none; **Price** 6,900 gp; **Weight** —
+
+The flawed version of a *thorny ioun stone* of any type functions as the normal version, but the wearer also takes a -2 penalty to CMD against the corresponding type of combat maneuver check.
+
+**Resonance**
+
+Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The feat varies by individual *ioun stone*, and each is equally likely (50% chance).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,450 gp
 
 ### Crow Brother's Cloak
 
@@ -5499,6 +5829,54 @@ This scarf is crafted from fine, almost transparent silk of a deep red hue. When
 
 **Requirements** Craft Wondrous Item, *disguise self*,* eagle’s splendor*,* fox’s cunning*,* levitate*,* feather fall*; **Cost** 13,500 gp
 
+### Dark Blue Rhomboid (Cracked) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 400 gp; **Weight** —
+
+This stone grants a +1 competence bonus on Perception and Sense motive checks.
+
+**Resonance**
+
+The wearer no longer takes penalties on Perception checks for being distracted or asleep; while asleep, the wearer can remain open-eyed and fully aware of his environment, though he is still helpless against undetected threats until he actually wakes up.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 200 gp
+
+### Dark Blue Rhomboid (Flawed) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 300 gp; **Weight** —
+
+This stone grants a +2 competence bonus on Perception checks and a –1 penalty to initiative checks.
+
+**Resonance**
+
+The wearer no longer takes penalties on Perception checks for being distracted or asleep; while asleep, the wearer can remain open-eyed and fully aware of his environment, though he is still helpless against undetected threats until he actually wakes up.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 150 gp
+
+### Dark Blue Rhomboid (Normal) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 10,000 gp; **Weight** —
+
+Alertness (as the feat).
+
+**Resonance**
+
+The wearer no longer takes penalties on Perception checks for being distracted or asleep; while asleep, the wearer can remain open-eyed and fully aware of his environment, though he is still helpless against undetected threats until he actually wakes up.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 5,000 gp
+
 ### Daylight Diadem
 
 **Aura** moderate evocation; **CL** 9th
@@ -5584,6 +5962,54 @@ This slim black leather bracer fits easily onto the wrist, growing tight against
 **Construction**
 
 **Requirements** Craft Wondrous Item, *detect thoughts*; **Cost** 500 gp
+
+### Deep Red Sphere (Cracked) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 200 gp; **Weight** —
+
+This stone grants a +1 competence bonus on one Dexterity-based skill.
+
+**Resonance**
+
+Improved Unarmed Strike.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 100 gp
+
+### Deep Red Sphere (Flawed) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 6,000 gp; **Weight** —
+
+This stone grants a +2 enhancement bonus to Dexterity, and a –2 penalty to Constitution.
+
+**Resonance**
+
+Improved Unarmed Strike.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,000 gp
+
+### Deep Red Sphere (Normal) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 8,000 gp; **Weight** —
+
++2 enhancement bonus to Dexterity.
+
+**Resonance**
+
+Improved Unarmed Strike.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 4,000 gp
 
 ### Demon-Forged Nugget
 
@@ -5705,7 +6131,23 @@ This knee-length cape is decorated with images of butterflies, moths, and stars.
 
 This stone has no powers.
 
-### Resonance
+**Resonance**
+
+*Read magic* 1/day for 10 minutes.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 12 gp, 5 sp
+
+### Dull Gray Stone (Normal) Ioun Stone
+
+**Aura** faint universal; **CL** 12th
+
+**Slot** none; **Price** 25 gp; **Weight** —
+
+These are *ioun stones* that have been burned out or otherwise rendered all but powerless. They retain the ability to float and orbit, and are useful as the target of spells such as *continual flame*,* daylight*, and* silence*, allowing you to keep your hands free. They may be any shape (cabochon, disk, ellipsoid, and so on).
+
+**Resonance**
 
 *Read magic* 1/day for 10 minutes.
 
@@ -5738,6 +6180,54 @@ While legends credit an ancient archmage of envy with creating *dust of envy*, f
 **Construction**
 
 **Requirements** Craft Wondrous Item, *dispel magic*; **Cost** 450 gp, 36 XP
+
+### Dusty Rose Prism (Cracked) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 500 gp; **Weight** —
+
+This stone grants a +1 competence bonus on initiative checks.
+
+**Resonance**
+
++1 insight bonus on combat maneuver checks.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 250 gp
+
+### Dusty Rose Prism (Flawed) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 4,000 gp; **Weight** —
+
+This stone grants a +1 insight bonus to AC and a –2 penalty to Strength.
+
+**Resonance**
+
++1 insight bonus on combat maneuver checks.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 2,000 gp
+
+### Dusty Rose Prism (Normal) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 5,000 gp; **Weight** —
+
++1 insight bonus to AC.
+
+**Resonance**
+
++1 insight bonus on combat maneuver checks.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 2,500 gp
 
 ### Effigy of the Burial God
 
@@ -5923,13 +6413,45 @@ This minty-smelling salve is commonly used by lust-goddess elves to render unsus
 
 This stone grants you 5 temporary hit points, which are restored automatically at a specific time of day unique to each stone (typically sunrise or sunset). The bonuses from multiple *emerald ellipsoids* stack, with no known limit.
 
-### Resonance
+**Resonance**
 
 5 additional temporary hit points.
 
 **Construction**
 
 **Requirements** Craft Wondrous Item, *false life*, creator must be 12th level; **Cost** 10,000 gp
+
+### Emerald Ellipsoid (Cracked) Ioun Stone
+
+**Aura** moderate necromancy; **CL** 12th
+
+**Slot** none; **Price** 2,000 gp; **Weight** —
+
+This stone grants 1 temporary hit point, which is restored automatically at a specific time of day unique to each stone (typically sunrise or sunset). The bonuses from multiple cracked *emerald ellipsoids* stack (limit 5 temporary hit points).
+
+**Resonance**
+
+5 additional temporary hit points.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *false life*, creator must be 12th level; **Cost** 1,000 gp
+
+### Emerald Ellipsoid (Flawed) Ioun Stone
+
+**Aura** moderate necromancy; **CL** 12th
+
+**Slot** none; **Price** 10,000 gp; **Weight** —
+
+This stone grants the wearer 5 temporary hit points (stacking to 25 for multiple *emerald ellipsoids* of any kind), which are restored automatically at a specif ic time of day unique to each stone (typically sunrise or sunset). Each stone inf licts one negative level upon you (no known limit); these negative levels remain as long as the stone is in use, and disappear when it is no longer in use. These negative levels never result in actual level loss, but they cannot be overcome in any way while the stone is used.
+
+**Resonance**
+
+5 additional temporary hit points.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *false life*, creator must be 12th level; **Cost** 5,000 gp
 
 ### Emerald Wedge Ioun Stone
 
@@ -6411,6 +6933,18 @@ These small grenades are made from hollowed eggshells filled with assorted powde
 
 **Requirements** Craft Wondrous Item, *fog cloud*,* rope trick*; **Cost** 375 gp
 
+### Gambler’s Coin
+
+**Aura** weak divination; **CL** 1st
+
+**Slot** none; **Price** 450 gp; **Weight** —
+
+This simple copper coin establishes a connection with the most recent person to keep it under her tongue for 24 hours. Once established, this connection allows its owner to determine its current direction and distance each time she casts *detect magic*. The connection instantly breaks if the coin travels to another plane or enters an* antimagic field*.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *detect magic*; **Cost** 225 gp
+
 ### Gamboge Nodule
 
 **Aura** moderate transmutation; **CL** 12th
@@ -6419,7 +6953,7 @@ These small grenades are made from hollowed eggshells filled with assorted powde
 
 This stone grants you immunity to poison, as if wearing a *periapt of proof against poison*.
 
-### Resonance
+**Resonance**
 
 +2 resistance bonus on saving throws against disease.
 
@@ -6579,6 +7113,54 @@ These simple goggles, made of two emeralds attached to a twin frame, grant the w
 **Construction**
 
 **Requirements** Craft Wondrous Item, *beast shape II*,* guidance*; **Cost** 4,250 gp
+
+### Gold Nodule (Cracked) Ioun Stone
+
+**Aura** strong divination; **CL** 12th
+
+**Slot** none; **Price** 150 gp; **Weight** —
+
+This stone grants a +1 competence bonus on Linguistics checks.
+
+**Resonance**
+
++1 bonus on saves against languagedependent effects.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *tongues*, creator must be 12th level; **Cost** 75 gp
+
+### Gold Nodule (Flawed) Ioun Stone
+
+**Aura** strong divination; **CL** 12th
+
+**Slot** none; **Price** 1,000 gp; **Weight** —
+
+This stone grants you the ability to comprehend and read, but not speak or write, a single language (chosen by the *ioun stone’s* creator).
+
+**Resonance**
+
++1 bonus on saves against languagedependent effects.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *tongues*, creator must be 12th level; **Cost** 500 gp
+
+### Gold Nodule (Normal) Ioun Stone
+
+**Aura** strong divination; **CL** 12th
+
+**Slot** none; **Price** 5,000 gp; **Weight** —
+
+This stone grants you the ability to comprehend, speak, read, and write a single language (chosen by the *ioun stone*’s creator).
+
+**Resonance**
+
++1 bonus on saves against languagedependent effects.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *tongues*, creator must be 12th level; **Cost** 2,500 gp
 
 ### Golden Carriage of a Wandering Showman
 
@@ -6880,6 +7462,22 @@ This large crystal, sized and shaped like a loosely clenched human fist, perfect
 
 **Requirements** Craft Wondrous Item, *animate objects*; **Cost** 8,000 gp, 640 XP
 
+### Haunt Siphon
+
+**Aura** faint necromancy; **CL** 3rd
+
+**Slot** none; **Price** 400 gp; **Weight** 1 lb.
+
+These glass vials are held within stylized cold-iron casings etched with strange runes, necromantic designs, or other eldritch markings. Within the vial roils a small wisp of white vapor, churning as if caught in a miniature vortex of air.
+
+To capture a haunt’s energies within a *haunt siphon*, you need only twist the metal casing to open the vial in the same round that the haunt manifests (a standard action)—this can be before or after the haunt has acted. You must be within the haunt’s area of influence to use a* haunt siphon*. When you activate a* haunt siphon*, it deals 3d6 points of positive energy damage to a single haunt. If it deals enough damage to the haunt to reduce the haunt’s hit points to 0, the mist inside the* haunt siphon* glows green—if it does not reduce the haunt to 0 hit points, the* haunt siphon* is still expended and becomes nonmagical. It may take multiple* haunt siphons* to destroy powerful haunts. A haunt that is neutralized by a* haunt siphon* takes a –5 penalty on its caster level check to manifest again after its reset time passes.
+
+A *haunt siphon* that neutralizes a haunt can no longer be used to harm haunts, but it can be used as a grenadelike splash weapon that deals 1d6 points of negative energy damage with a direct hit. Every creature within 5 feet of the point where the* haunt siphon* hits takes 1 point of negative energy damage from the splash.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *cure moderate wounds*,* gentle repose*; **Cost** 200 gp
+
 ### Headband of Twisted Intellect
 
 **Aura** moderate transmutation; **CL** 10th
@@ -7146,6 +7744,54 @@ Lastly, an *impossible bottle* can be used to repair an unattuned ship. As long 
 
 **Requirements** Craft Wondrous Item, *make whole*,* shield other*,* shrink item*, creator must have 5 ranks in the Craft (ships) skill; **Cost** 10,000 gp
 
+### Incandescent Blue Sphere (Cracked) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 200 gp; **Weight** —
+
+This stone grants a +1 competence bonus on one Wisdom-based skill.
+
+**Resonance**
+
+Blind-Fight.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 100 gp
+
+### Incandescent Blue Sphere (Flawed) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 7,200 gp; **Weight** —
+
+This stone grants a +2 enhancement bonus to Wisdom and a –2 penalty on Perception checks.
+
+**Resonance**
+
+Blind-Fight.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,600 gp
+
+### Incandescent Blue Sphere (Normal) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 8,000 gp; **Weight** —
+
++2 enhancement bonus to Wisdom.
+
+**Resonance**
+
+Blind-Fight.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 4,000 gp
+
 ### Infernal Crux
 
 **Aura** moderate conjuration; **CL** 9th
@@ -7252,6 +7898,54 @@ The skills, languages, and alignment are chosen when the node is created. The no
 **Construction**
 
 **Requirements** Craft Wondrous Item, *awaken construct*; **Cost** 3,000 gp (Type I), 7,000 gp (Type II), 12,000 gp (Type III), 18,000 gp (Type IV)
+
+### Iridescent Spindle (Cracked) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 500 gp; **Weight** —
+
+This stone grants a +4 competence bonus on Constitution checks to hold your breath.
+
+**Resonance**
+
+The wearer gains the constant effects of *endure elements* and takes only half damage from exposure to vacuum and underwater pressure.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 250 gp
+
+### Iridescent Spindle (Flawed) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 12,000 gp; **Weight** —
+
+This stone sustains the wearer without air, but he is always staggered.
+
+**Resonance**
+
+The wearer gains the constant effects of *endure elements* and takes only half damage from exposure to vacuum and underwater pressure.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 6,000 gp
+
+### Iridescent Spindle (Normal) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 18,000 gp; **Weight** —
+
+Sustains creature without air.
+
+**Resonance**
+
+The wearer gains the constant effects of *endure elements* and takes only half damage from exposure to vacuum and underwater pressure.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 9,000 gp
 
 ### Iron Band of Iron Mind
 
@@ -7446,6 +8140,54 @@ This coin-sized black disk is engraved with a spiral on one side and a whippoorw
 
 **Requirements** Craft Wondrous Item, *cure light wounds*; **Cost** 75 gp
 
+### Lavender and Green Ellipsoid (Cracked) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 10,000 gp; **Weight** —
+
+This stone absorbs spells of 2nd level or lower. After absorbing 10 spell levels, the stone burns out and turns dull gray.
+
+**Resonance**
+
+If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action instead of a readied action.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 5,000 gp
+
+### Lavender and Green Ellipsoid (Flawed) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 36,000 gp; **Weight** —
+
+This stone absorbs spells of 6th level or lower, which deals 2 hit points of damage to the wearer for each spell level absorbed. After absorbing 50 spell levels, the stone burns out and turns dull gray.
+
+**Resonance**
+
+If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action instead of a readied action.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 18,000 gp
+
+### Lavender and Green Ellipsoid (Normal) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 40,000 gp; **Weight** —
+
+Absorbs spells of 8th level or lower. After absorbing 50 spell levels, the stone burns out and turns dull gray, forever useless.
+
+**Resonance**
+
+If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action instead of a readied action.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 20,000 gp
+
 ### Lidless Charm Bracelet
 
 **Aura** moderate abjuration; **CL** 9th
@@ -7509,6 +8251,38 @@ This animal-skin cloak comes in eight varieties (one for each kind of skinwalker
 **Construction**
 
 **Requirements** Craft Wondrous Item, *beast shape I*,* speak with animals*, creator must be a skinwalker; **Cost** 12,000 gp (boar, rat, wolf), 20,000 gp (brown bear, bat, crocodile, shark, tiger)
+
+### Magenta Prism (Cracked) Ioun Stone
+
+**Aura** strong transmutation; **CL** 12th
+
+**Slot** none; **Price** 800 gp; **Weight** —
+
+This stone grants you a +2 competence bonus on checks with any one skill you choose, and you can change the skill modified once per day, as a normal *magenta prism ioun stone*.
+
+**Resonance**
+
++1 bonus on one saving throw not modified by the ability score the stone is currently attuned to (chosen at the same time as the ability score).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *bear’s endurance*,* bull’s strength*,* cat’s grace*,* eagle’s splendor*,* fox’s cunning*,* owl’s wisdom*, creator must be 12th level; **Cost** 400 gp
+
+### Magenta Prism (Flawed) Ioun Stone
+
+**Aura** strong transmutation; **CL** 12th
+
+**Slot** none; **Price** 12,000 gp; **Weight** —
+
+This stone functions as a normal *magenta prism ioun stone* that has 4 charges. Changing the ability score modified uses 1 charge, and the stone loses the ability to change when reduced to 0 charges, though it still grants a bonus to the ability score to which it was last changed.
+
+**Resonance**
+
++1 bonus on one saving throw not modified by the ability score the stone is currently attuned to (chosen at the same time as the ability score).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *bear’s endurance*,* bull’s strength*,* cat’s grace*,* eagle’s splendor*,* fox’s cunning*,* owl’s wisdom*, creator must be 12th level; **Cost** 6,000 gp
 
 ### Magic Beans
 
@@ -7716,6 +8490,54 @@ A *mortuary mask* covers the top half of the face, leavrng the mouth and chin ex
 
 **Requirements** Craft Wondrous Item, *cause fear, deathwatch*; **Cost** 1,750 gp
 
+### Mossy Disk (Cracked) Ioun Stone
+
+**Aura** strong divination and evocation; **CL**
+
+**Price** 200 gp; **Weight** —
+
+This stone grants a +1 competence bonus on checks with one Knowledge skill (chosen by the stone’s creator).
+
+**Resonance**
+
+This stone grants a +1 competence bonus on Appraise checks.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *fox’s cunning*, creator must be 12th level; **Cost** 100 gp
+
+### Mossy Disk (Flawed) Ioun Stone
+
+**Aura** strong divination and evocation; **CL**
+
+**Price** 1,600 gp; **Weight** —
+
+This stone grants a +5 competence bonus on checks with one Knowledge skill (chosen by the stone’s creator) and imparts a –2 penalty to Constitution.
+
+**Resonance**
+
+This stone grants a +1 competence bonus on Appraise checks.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *fox’s cunning*, creator must be 12th level; **Cost** 800 gp
+
+### Mossy Disk (Normal) Ioun Stone
+
+**Aura** strong divination and evocation; **CL** 12th
+
+**Slot** none; **Price** 5,000 gp; **Weight** —
+
+This stone grants you a +5 competence bonus on checks with one Knowledge skill (chosen by the stone’s creator).
+
+**Resonance**
+
+This stone grants a +1 competence bonus on Appraise checks.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *fox’s cunning*, creator must be 12th level; **Cost** 2,500 gp
+
 ### Mossy Disk Ioun Stone
 
 **Aura** strong divination and evocation; **CL** 12th
@@ -7760,7 +8582,7 @@ When you take a full-round action to mold this perpetually moist lump of clay in
 
 This stone grants you a +5 competence bonus on Bluff and Diplomacy checks.
 
-### Resonance
+**Resonance**
 
 +2 competence bonus on Sense Motive checks.
 
@@ -7834,13 +8656,45 @@ The possessor of a *mythopoeic sphinx* can also use the figurine to call a gynos
 
 This stone protects you from ability score penalties from aging and you cannot be magically aged. Any penalties you have already incurred remain in place. Bonuses still accrue, and you still die of old age when your time is up. If you lose the stone or its abilities are negated in some way, all age and penalties apply immediately.
 
-### Resonance
+**Resonance**
 
 Miss chance against incorporeal creatures decreases to 25%.
 
 **Construction**
 
 **Requirements** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 5,000 gp
+
+### Nacreous Gray Sphere (Cracked) Ioun Stone
+
+**Aura** moderate abjuration; **CL** 12th
+
+**Slot** none; **Price** 3,400 gp; **Weight** —
+
+This stone protects the wearer from one type of ability damage (such as Strength or Constitution) caused by natural or magical aging. It otherwise functions as a normal *nacreous gray sphere ioun stone*.
+
+**Resonance**
+
+Miss chance against incorporeal creatures decreases to 25%.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 1,700 gp
+
+### Nacreous Gray Sphere (Flawed) Ioun Stone
+
+**Aura** moderate abjuration; **CL** 12th
+
+**Slot** none; **Price** 1,000 gp; **Weight** —
+
+Protects wearer from appearing older but does not protect against ability damage from aging. The stone remembers the wearer’s age at the time he first wore it and always restores his appearance to that age, even if he hasn’t worn it for years or it has been worn by other people.
+
+**Resonance**
+
+Miss chance against incorporeal creatures decreases to 25%.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 500 gp
 
 ### Navigator’s Eye
 
@@ -8004,13 +8858,45 @@ This elixir is generally stored in a palm-sized crystal jar. When applied under 
 
 This stone grants you a +2 enhancement bonus to Constitution. The enhancement bonuses from multiple *onyx rhomboids* stack (up to a maximum of a +6 enhancement bonus to Constitution).
 
-### Resonance
+**Resonance**
 
 *Virtue* at will (self only).
 
 **Construction**
 
 **Requirements** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 12,000 gp
+
+### Onyx Rhomboid (Cracked) Ioun Stone
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 12,000 gp; **Weight** —
+
+Individually has no effect; when used in pairs, each pair grants a +2 enhancement bonus to Constitution. The bonuses from multiple stones (cracked or otherwise) stack, up to a maximum of a +6 bonus.
+
+**Resonance**
+
+*Virtue* at will (self only).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 6,000 gp
+
+### Onyx Rhomboid (Flawed) Ioun Stone
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 16,000 gp; **Weight** —
+
+This stone grants a +2 enhancement bonus to Constitution per stone, stacking up to +4 total. These stones do not stack with non-f lawed *onyx rhomboid ioun stones*.
+
+**Resonance**
+
+*Virtue* at will (self only).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 8,000 gp
 
 ### Oozeclot Unguent
 
@@ -8032,13 +8918,93 @@ A single dose of *oozeclot unguent* can be applied to a 5-foot-square surface, w
 
 Each stone of this type is keyed to a particular kind of weapon (heavy flail, light crossbow, short sword, and so on) and grants you proficiency with that weapon.
 
-### Resonance
+**Resonance**
 
 Weapon Focus with the stone’s keyed weapon.
 
 **Construction**
 
 **Requirements** Craft Wondrous Item, *transformation* or proficiency in the appropriate weapon, creator must be 12th level; **Cost** 5,000 gp
+
+### Orange Prism (Cracked) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 1,000 gp; **Weight** —
+
+Wearer adds one cantrip or orison (determined when the stone is created) to his list of spells known or spells prepared.
+
+**Resonance**
+
+Every time the bearer casts a spell, he rolls 1d4–2 and adds the result (as well as the +1 caster level granted by the normal power of the ioun stone) to his caster level.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 500 gp
+
+### Orange Prism (Flawed) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 25,000 gp; **Weight** —
+
+This stone grants a +1 caster level and a –2 penalty to the wearer’s primary casting ability score (Wisdom for clerics, Intelligence for wizards, and so on).
+
+**Resonance**
+
+Every time the bearer casts a spell, he rolls 1d4–2 and adds the result (as well as the +1 caster level granted by the normal power of the ioun stone) to his caster level.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 12,500 gp
+
+### Orange Prism (Normal) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 30,000 gp; **Weight** —
+
++1 caster level.
+
+**Resonance**
+
+Every time the bearer casts a spell, he rolls 1d4–2 and adds the result (as well as the +1 caster level granted by the normal power of the ioun stone) to his caster level.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 15,000 gp
+
+### Orange Thorny (Cracked) Ioun Stone
+
+**Aura** strong varies; **CL** 12th
+
+**Slot** none; **Price** 3,200 gp; **Weight** —
+
+A cracked *thorny ioun stone* provides a +1 competence bonus on its corresponding type of combat maneuver check.
+
+**Resonance**
+
+Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The feat varies by individual *ioun stone*, and each is equally likely (50% chance).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,600 gp
+
+### Orange Thorny (Flawed) Ioun Stone
+
+**Aura** strong varies; **CL** 12th
+
+**Slot** none; **Price** 6,900 gp; **Weight** —
+
+The flawed version of a *thorny ioun stone* of any type functions as the normal version, but the wearer also takes a -2 penalty to CMD against the corresponding type of combat maneuver check.
+
+**Resonance**
+
+Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The feat varies by individual *ioun stone*, and each is equally likely (50% chance).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,450 gp
 
 ### Padma Blossom
 
@@ -8052,6 +9018,182 @@ This perfect lotus flower formed from pink jade offers purity of mind and spirit
 
 **Requirements** Craft Wondrous Item, *calm emotions*, *remove fear*; **Cost** 4,000 gp
 
+### Pale Blue Rhomboid (Cracked) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 200 gp; **Weight** —
+
+This stone grants a +1 competence bonus on one Strength-based skill.
+
+**Resonance**
+
++1 bonus on Fortitude saves.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 100 gp
+
+### Pale Blue Rhomboid (Flawed) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 6,000 gp; **Weight** —
+
+This stone grants a +2 enhancement bonus to Strength and a –2 penalty to Constitution.
+
+**Resonance**
+
++1 bonus on Fortitude saves.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,000 gp
+
+### Pale Blue Rhomboid (Normal) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 8,000 gp; **Weight** —
+
++2 enhancement bonus to Strength.
+
+**Resonance**
+
++1 bonus on Fortitude saves.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 4,000 gp
+
+### Pale Green Prism (Cracked) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 4,000 gp; **Weight** —
+
+This stone grants a +1 competence bonus on attack rolls or saving throws.
+
+**Resonance**
+
+Twice per day as a free action, the bearer can remove the fatigued condition from himself (or reduce the exhausted condition to fatigued).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 2,000 gp
+
+### Pale Green Prism (Flawed) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 28,000 gp; **Weight** —
+
+This stone grants a +1 morale bonus on attack rolls, saves, skill checks, and ability checks.
+
+**Resonance**
+
+Twice per day as a free action, the bearer can remove the fatigued condition from himself (or reduce the exhausted condition to fatigued).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 14,000 gp
+
+### Pale Green Prism (Normal) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 30,000 gp; **Weight** —
+
++1 competence bonus on attack rolls, saves, skill checks, and ability checks.
+
+**Resonance**
+
+Twice per day as a free action, the bearer can remove the fatigued condition from himself (or reduce the exhausted condition to fatigued).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 15,000 gp
+
+### Pale Lavender Ellipsoid (Cracked) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 2,500 gp; **Weight** —
+
+This stone absorbs spells of 1st level or lower. After absorbing 5 spell levels, the stone burns out and turns dull gray.
+
+**Resonance**
+
+If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action instead of a readied action.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,250 gp
+
+### Pale Lavender Ellipsoid (Flawed) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 18,000 gp; **Weight** —
+
+This stone absorbs spells of 3rd level or lower, which deals 2 hit points of damage to the user for each spell level absorbed. After absorbing 20 spell levels, the stone burns out and turns dull gray.
+
+**Resonance**
+
+If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action instead of a readied action.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 9,000 gp
+
+### Pale Lavender Ellipsoid (Normal) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 20,000 gp; **Weight** —
+
+Absorbs spells of 4th level or lower. After absorbing 20 spell levels, the stone burns out and turns to dull gray, forever useless.
+
+**Resonance**
+
+If the bearer is holding the *wayfinder*, he can use the stone’s absorption ability as an immediate action instead of a readied action.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 10,000 gp
+
+### Pale Orange Rhomboid (Cracked) Ioun Stone
+
+**Aura** strong necromancy; **CL** 12th
+
+**Slot** none; **Price** 1,800 gp; **Weight** —
+
+If you die while using this* ioun stone*, the stone can be used as an additional material component in any spell to return you to life, reducing the spell’s total material component cost by 20%.
+
+**Resonance**
+
+A soul held within the stone can remain there indefinitely as long as the *wayfinder* remains on the soul’s original body. If the* wayfinder *is removed from the body, the* ioun stone’s* resonant power is suppressed until the* wayfinder *is replaced.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *magic jar*, creator must be 12th level; **Cost** 900 gp
+
+### Pale Orange Rhomboid (Flawed) Ioun Stone
+
+**Aura** strong necromancy; **CL** 12th
+
+**Slot** none; **Price** 12,000 gp; **Weight** —
+
+This stone functions as a normal *pale orange rhomboid*, but only once, after which it burns out and turns dull gray.
+
+**Resonance**
+
+A soul held within the stone can remain there indefinitely as long as the *wayfinder* remains on the soul’s original body. If the* wayfinder *is removed from the body, the* ioun stone’s* resonant power is suppressed until the* wayfinder *is replaced.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *magic jar*, creator must be 12th level; **Cost** 6,000 gp
+
 ### Pale Ruby Trillian
 
 **Aura** moderate transmutation; **CL** 12th
@@ -8060,7 +9202,7 @@ This perfect lotus flower formed from pink jade offers purity of mind and spirit
 
 This stone grants you a +5 competence bonus on Stealth checks.
 
-### Resonance
+**Resonance**
 
 Increase by 10 feet the distance the bearer may fall safely (stacks with other effects that increase this distance, such as making Acrobatics checks or falling into water).
 
@@ -8108,6 +9250,38 @@ These spectacles fit firmly over eyes and are held in place by two crystalline s
 
 **Requirements** Craft Wondrous Item, *minor globe of invulnerability*; **Cost** 375 gp
 
+### Pearlescent Pyramid (Cracked) Ioun Stone
+
+**Aura** strong conjuration; **CL**
+
+**Price** 32,000 gp; **Weight** —
+
+This stone functions as normal, but the user’s unarmed strikes and melee weapons lose all enhancement bonuses and other weapon special abilities except for the *ghost touch* special ability granted by this stone (although a magic weapon that loses its enhancement bonuses still counts as a magic weapon for the purpose of overcoming damage reduction).
+
+**Resonance**
+
+This stone grants the *ghost touch* special ability to normal or masterwork light armor the user has worn for at least 24 hours. This benefit lasts as long as the armor is in the user’s possession.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 16,000 gp
+
+### Pearlescent Pyramid (Flawed) Ioun Stone
+
+**Aura** strong conjuration; **CL**
+
+**Price** 45,000 gp; **Weight** —
+
+This stone functions as normal, but it doesn’t grant the user the benefits of *see invisibility*.
+
+**Resonance**
+
+This stone grants the *ghost touch* special ability to normal or masterwork light armor the user has worn for at least 24 hours. This benefit lasts as long as the armor is in the user’s possession.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 22,500 gp
+
 ### Pearlescent Pyramid Ioun Stone
 
 **Aura** strong conjuration; **CL** 12th
@@ -8115,6 +9289,54 @@ These spectacles fit firmly over eyes and are held in place by two crystalline s
 **Slot** none; **Price** 48,000 gp; **Weight** —
 
 This *ioun stone* resembles a small, pearl-white tetrahedron. This stone grants the *ghost touch* special ability to the user’s unarmed strikes and to melee weapons she wields. The user can also focus her gaze as a standard action and gain the benefits of *see invisibility* for 1 round. If the user is incorporeal, corporeal melee weapons she touches gain the *ghost touch* special ability, allowing her to pick up and use corporeal melee weapons as normal.
+
+### Pearly White Spindle (Cracked) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 3,400 gp; **Weight** —
+
+Regenerate 1 point of damage per hour.
+
+**Resonance**
+
++2 sacred bonus on saves against death effects and attacks that rely on negative energy.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,700 gp
+
+### Pearly White Spindle (Flawed) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 18,000 gp; **Weight** —
+
+The user regenerates 4 points of damage per hour.
+
+**Resonance**
+
++2 sacred bonus on saves against death effects and attacks that rely on negative energy.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 9,000 gp
+
+### Pearly White Spindle (Normal) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 20,000 gp; **Weight** —
+
+Regenerate 1 point of damage per 10 minutes.
+
+**Resonance**
+
++2 sacred bonus on saves against death effects and attacks that rely on negative energy.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 10,000 gp
 
 ### Pendant of the Souk
 
@@ -8193,6 +9415,102 @@ An undead wearing this golden mask is treated as both an undead and a creature o
 **Construction**
 
 **Requirements** Craft Wondrous Item, *polymorph*,* sanctify corpse*; **Cost** 4,500 gp
+
+### Pink and Green Sphere (Cracked) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 200 gp; **Weight** —
+
+This stone grants a +1 bonus on one Charisma-based skill.
+
+**Resonance**
+
++1 bonus on Will saves.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 100 gp
+
+### Pink and Green Sphere (Flawed) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 6,000 gp; **Weight** —
+
+This stone grants a +2 enhancement bonus to Charisma and a –2 penalty to Constitution.
+
+**Resonance**
+
++1 bonus on Will saves.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,000 gp
+
+### Pink and Green Sphere (Normal) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 8,000 gp; **Weight** —
+
++2 enhancement bonus to Charisma.
+
+**Resonance**
+
++1 bonus on Will saves.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 4,000 gp
+
+### Pink Rhomboid (Cracked) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 1,400 gp; **Weight** —
+
+This stone grants a +4 competence bonus on one type of check affected by the Endurance feat.
+
+**Resonance**
+
++1 bonus on Reflex saves.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 700 gp
+
+### Pink Rhomboid (Flawed) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 6,000 gp; **Weight** —
+
+This stone grants a +2 enhancement bonus to Constitution and –2 penalty to Dexterity.
+
+**Resonance**
+
++1 bonus on Reflex saves.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,000 gp
+
+### Pink Rhomboid (Normal) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 8,000 gp; **Weight** —
+
++2 enhancement bonus to Constitution.
+
+**Resonance**
+
++1 bonus on Reflex saves.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 4,000 gp
 
 ### Pirate Ensign
 
@@ -8388,7 +9706,7 @@ A *regression mine* is a single-use item; once triggered, the mine is inert and 
 
 **Requirements** Craft Wondrous Item, *confusion*; **Cost** 750 gp
 
-### Resonance
+**Resonance**
 
 This stone allows the user to pick up on psychic resonance from corpses. So long as the user has carried the ioun stone continuously for at least 24 hours, the first three corpses touched by the user each day babble residual psychic impressions into the bearer’s mind. This functions as the *grave words* spell, except that only the user can hear the corpse speak.
 
@@ -8396,7 +9714,7 @@ This stone allows the user to pick up on psychic resonance from corpses. So long
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 7,500 gp
 
-### Resonance
+**Resonance**
 
 This stone grants a +1 competence bonus on Appraise checks.
 
@@ -8404,7 +9722,7 @@ This stone grants a +1 competence bonus on Appraise checks.
 
 **Requirements** Craft Wondrous Item, *fox’s cunning*, creator must be 12th level; **Cost** 2,500 gp
 
-### Resonance
+**Resonance**
 
 This stone grants the *ghost touch* special ability to normal or masterwork light armor the user has worn for at least 24 hours. This benefit lasts as long as the armor is in the user’s possession.
 
@@ -8694,6 +10012,54 @@ If the wearer rightfully owns a kapenia and wears it at the same time as the sca
 
 **Requirements** Craft Wondrous Item; creator must have 5 ranks in Intimidate, Knowledge (history), and Perform (dance); creator must be a wandering nomad; **Cost** 4,500 gp
 
+### Scarlet and Blue Sphere (Cracked) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 200 gp; **Weight** —
+
+This stone grants a +1 competence bonus on one Intelligence-based skill.
+
+**Resonance**
+
++1 bonus on Will saves.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 100 gp
+
+### Scarlet and Blue Sphere (Flawed) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 6,000 gp; **Weight** —
+
+This stone grants a +2 enhancement bonus to Intelligence and a –2 penalty to Constitution.
+
+**Resonance**
+
++1 bonus on Will saves.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,000 gp
+
+### Scarlet and Blue Sphere (Normal) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 8,000 gp; **Weight** —
+
++2 enhancement bonus to Intelligence.
+
+**Resonance**
+
++1 bonus on Will saves.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 4,000 gp
+
 ### Scarlet and Green Cabochon
 
 **Aura** moderate transmutation; **CL** 12th
@@ -8702,13 +10068,29 @@ If the wearer rightfully owns a kapenia and wears it at the same time as the sca
 
 This stone grants you the Endurance feat.
 
-### Resonance
+**Resonance**
 
 +5 bonus on Constitution checks made to stabilize.
 
 **Construction**
 
 **Requirements** Craft Wondrous Item, *bull’s strength*,* cat’s grace*, creator must be 12th level; **Cost** 5,000 gp
+
+### Scarlet and Green Cabochon (Flawed) Ioun Stone
+
+**Aura** moderate transmutation; **CL** 12th
+
+**Slot** none; **Price** 8,000 gp; **Weight** —
+
+This stone grants the wearer the Endurance feat. Anything that would make the wearer fatigued instead makes him sickened. Anything that would make the wearer exhausted instead makes him nauseated.
+
+**Resonance**
+
++5 bonus on Constitution checks made to stabilize.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *bull’s strength*,* cat’s grace*, creator must be 12th level; **Cost** 4,000 gp
 
 ### Scintillating Garment
 
@@ -8914,6 +10296,70 @@ This dapper, halfling-sized gray vest has dull black buttons and several hidden 
 
 **Requirements** Craft Wondrous Item, *invisibility*, creator must have 5 ranks in Sleight of Hand; **Cost** 2,150 gp
 
+### Silver Spindle (Cracked) Ioun Stone
+
+**Aura** strong evocation; **CL** 12th
+
+**Slot** none; **Price** 12,000 gp; **Weight** —
+
+This stone functions as a normal *silver spindle ioun stone*, but instead grants a 0-level spell.
+
+**Resonance**
+
+All spell-like abilities granted by race are treated as 1 caster level higher.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *imbue with spell ability*, creator must be 12th level; **Cost** 6,000 gp
+
+### Silver Spindle (Flawed) Ioun Stone
+
+**Aura** strong evocation; **CL** 12th
+
+**Slot** none; **Price** 16,000 gp; **Weight** —
+
+This stone functions as a normal *silver spindle ioun stone*, but it deals 1d3 Charisma damage to you each time you use the spell-like ability.
+
+**Resonance**
+
+All spell-like abilities granted by race are treated as 1 caster level higher.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *imbue with spell ability*, creator must be 12th level; **Cost** 8,000 gp
+
+### Silver Thorny (Cracked) Ioun Stone
+
+**Aura** strong varies; **CL** 12th
+
+**Slot** none; **Price** 3,200 gp; **Weight** —
+
+A cracked *thorny ioun stone* provides a +1 competence bonus on its corresponding type of combat maneuver check.
+
+**Resonance**
+
+Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The feat varies by individual *ioun stone*, and each is equally likely (50% chance).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,600 gp
+
+### Silver Thorny (Flawed) Ioun Stone
+
+**Aura** strong varies; **CL** 12th
+
+**Slot** none; **Price** 6,900 gp; **Weight** —
+
+The flawed version of a *thorny ioun stone* of any type functions as the normal version, but the wearer also takes a -2 penalty to CMD against the corresponding type of combat maneuver check.
+
+**Resonance**
+
+Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The feat varies by individual *ioun stone*, and each is equally likely (50% chance).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,450 gp
+
 ### Sinner’s Wage
 
 **Aura** moderate enchantment; **CL** 7th
@@ -9013,6 +10459,18 @@ Lastly, if the wearer of an *sky god’s eye amulet* is targeted by an effect th
 **Construction**
 
 **Requirements** Craft Wondrous Item, *dispel evil*,* remove blindness/deafness*,* resistance*; **Cost** 11,500 gp
+
+### Slave Collar
+
+**Aura** moderate divination; **CL** 9th
+
+**Slot** neck; **Price** 25,000 gp; **Weight** 1 lb.
+
+*Slave collars* are popular items among drow, duergar, and other underworld societies that require obedience and servitude from slave castes. As these collars are relatively costly, they are typically reserved for use on particularly powerful or desirable slaves. A *slave collar* consists of a simple ring of metal (typically brass or bronze) that latches in place with a lock. Many feature additional adornments like short lengths of chain. Each *slave collar’s* lock is attuned to a unique key. The person who carries a collar’s key is aware of that collar’s wearer as if it were the target of a constant status spell. In addition, the key carrier can communicate telepathically with the wearer of the collar as long as the wearer is within 100 feet of her. As long as a *slave collar* is worn, that collar’s key carrier automatically penetrates the collar wearer’s spell resistance (if any), and the collared creature takes a –5 penalty on all saving throws against the key carrier’s spells. A *slave collar’s* lock can be picked with a successful DC 40 Disable Device check, or broken open with a successful DC 30 Strength check—either method immediately destroys the *slave collar*. The wearer of a* slave collar *takes a –10 penalty on Disable Device or Strength checks made to disable the* slave collar *it wears.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *status*,* telepathic bond*; **Cost** 12,500 gp
 
 ### Smoke Bomb of Forgetfulness
 
@@ -9147,6 +10605,28 @@ Souls within *desert spirit jars* are permanently affected by *magic jar*, and c
 **Construction**
 
 **Requirements** Craft Wondrous Item, *gentle repose*,* magic jar*; **Cost** 13,125 gp
+
+### Spirit Planchette
+
+**Aura** moderate divination; **CL** 9th
+
+**Slot** none; **Price** 4,000 gp (Brass), 10,000 gp (Cold Iron), 18,000 gp (Silver); **Weight** 5 lbs.
+
+A *spirit planchette* is typically found in a wooden case along with a thin wooden board printed with numerous letters and numbers. Nonmagical versions of these divination tools can be purchased in curiosity shops (typically costing 25 gp); while these items can be used as alternative components for augury spells, only magical* spirit planchettes* allow users to communicate with the other side. Three types of* spirit planchettes* exist—brass, cold iron, and silver. Each in turn allows an increasingly potent form of divination effect to be utilized. A* spirit planchette* requires a board to move upon, but this “board” can be made up of letters scribed upon any smooth surface—it need not be a prepared board for a spirit planchette to work.
+
+To use a *spirit planchette*, you must rest your fingers lightly upon the planchette’s surface and then concentrate on the planchette (as if maintaining a spell with a duration of concentration) for 2d6 rounds while the planchette attunes itself to the ambient spirits of the area. After this time, the planchette begins to slowly slide in random patterns across the board—at this point, questions may be asked of the spirits by any of the individuals involved in the séance. The consequences of each question asked of the spirits depends upon what type of planchette is used for the divination, as summarized on the table below. The spirits reply in a language understood by the character who asked the question, but resent such contact and give only brief answers to the questions. All questions are answered with “yes,” “no,” or “maybe,” or by spelling out a single word from the letters arranged on the board. The spirits answer each question either in the same round the question is asked (in the case of a yes, no, or maybe answer) or at a rate of one letter per round (in the case of a single word being spelled out). A* spirit planchette* may be used once per day—the maximum number of questions you can ask with it depends on the type of planchette being used (as detailed on the table below).
+
+Communication with spirits can be a dangerous task, for many spirits are jealous or hateful of the living. Every time a *spirit planchette* is used, the user must succeed on a Will save to avoid being temporarily possessed and harmed by the angry spirits. In some areas where the spirits are particularly violent or hateful (such as in a haunted prison), this Will save takes a –2 penalty. The DC of this save depends on the type of* spirit planchette* being used. Anyone who fails the Will save becomes confused for a number of rounds (depending on the type of planchette being used), and no answer is received. The spirits in the area are not omniscient—the GM should decide whether or not the spirits would actually know the answer to the question asked, and if they do not, the answer granted is automatically “maybe.” If the GM determines that the spirits are knowledgeable about the answer, roll d% to determine whether the spirits speak truthfully or whether they lie.
+
+| **Planchette Type** | **Questions per Use** | **Will Save DC** | **Confusion Duration** | **True Answer** | **Lie** |
+|---|---|---|---|---|---|
+| Brass | 1 | 11 | 1 round | 01-60 | 61-100 |
+| Cold Iron | 3 | 15 | 2 rounds | 01-75 | 76-100 |
+| Silver | 5 | 19 | 3 rounds | 01-90 | 91-100 |
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *contact other planes*,* speak with dead*; **Cost** 2,000 gp (*brass spirit planchette*), 5,000 gp (*cold iron spirit planchette*), 9,000 gp (*silver spirit planchette*)
 
 ### Spiteful Cookie
 
@@ -9438,6 +10918,38 @@ This disgusting mass of hardened beef tallow is always found divided into three 
 
 **Requirements** Craft Wondrous Item, *cure serious wounds*, *haste*, *protection from energy*; **Cost** 1,125 gp, 90 XP
 
+### Teal Thorny (Cracked) Ioun Stone
+
+**Aura** strong varies; **CL** 12th
+
+**Slot** none; **Price** 3,200 gp; **Weight** —
+
+A cracked *thorny ioun stone* provides a +1 competence bonus on its corresponding type of combat maneuver check.
+
+**Resonance**
+
+Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The feat varies by individual *ioun stone*, and each is equally likely (50% chance).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,600 gp
+
+### Teal Thorny (Flawed) Ioun Stone
+
+**Aura** strong varies; **CL** 12th
+
+**Slot** none; **Price** 6,900 gp; **Weight** —
+
+The flawed version of a *thorny ioun stone* of any type functions as the normal version, but the wearer also takes a -2 penalty to CMD against the corresponding type of combat maneuver check.
+
+**Resonance**
+
+Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The feat varies by individual *ioun stone*, and each is equally likely (50% chance).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,450 gp
+
 ### Terra-Cotta Talisman (Horse)
 
 **Aura** moderate evocation; **CL** 6th
@@ -9625,6 +11137,38 @@ A *touch of avolition* works best when damp. The save DC to resist a dry *touch 
 
 **Requirements** Craft Wondrous Item, *bestow curse*,* hold person*; **Cost** 1,250 gp
 
+### Tourmaline Sphere (Cracked) Ioun Stone
+
+**Aura** strong transmutation; **CL**
+
+**Price** 800 gp; **Weight** —
+
+This stone grants a +1 insight bonus on saving throws against death effects.
+
+**Resonance**
+
+This stone grants a +1 bonus on Constitution checks to stabilize when dying.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 400 gp
+
+### Tourmaline Sphere (Flawed) Ioun Stone
+
+**Aura** strong transmutation; **CL**
+
+**Price** 600 gp; **Weight** —
+
+This stone functions as a normal *tourmaline sphere ioun stone*, but you take a –1 penalty on Constitution checks to stabilize when dying.
+
+**Resonance**
+
+This stone grants a +1 bonus on Constitution checks to stabilize when dying.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *bear’s endurance*, creator must be 12th level; **Cost** 300 gp
+
 ### Traveler’s Grandiose Carrying Case
 
 **Aura** moderate illusion and transmutation; **CL** 5th
@@ -9723,7 +11267,7 @@ This glowing violet liquid is ice-cold regardless of the surrounding temperature
 
 This stone grants you a +5 competence bonus on Ride checks. Any horse or pony you ride gains the benefits of the Fleet feat.
 
-### Resonance
+**Resonance**
 
 +2 competence bonus on Handle Animal checks.
 
@@ -9823,7 +11367,7 @@ For as long as the slave mirror imposes a Charisma penalty upon a victim, the be
 
 This stone grants you a +5 competence bonus on Acrobatics and Swim checks.
 
-### Resonance
+**Resonance**
 
 Breathe water for up to 10 minutes per day, useable in 1-minute increments.
 
@@ -9855,6 +11399,54 @@ A *vest of the deep* creates a constant shell of magical energy that protects th
 
 **Requirements** Craft Wondrous Item, *life bubble*; **Cost** 1,000 gp
 
+### Vibrant Purple Prism (Cracked) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 2,000 gp; **Weight** —
+
+This stone stores one spell level, as a *ring of spell storing (minor)*.
+
+**Resonance**
+
+As a standard action, the bearer can expend a stored spell to refresh a cast spell of the same level as if using a *pearl of power*. The bearer can refresh up to 3 spell levels per day using this ability.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,000 gp
+
+### Vibrant Purple Prism (Flawed) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 36,000 gp; **Weight** —
+
+This stone stores three levels of spells, as a *ring of spell storing (minor)*, except casting spells out of the stone requires at least a full-round action.
+
+**Resonance**
+
+As a standard action, the bearer can expend a stored spell to refresh a cast spell of the same level as if using a *pearl of power*. The bearer can refresh up to 3 spell levels per day using this ability.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 18,000 gp
+
+### Vibrant Purple Prism (Normal) Ioun Stone
+
+**Aura** strong varied; **CL** 12th
+
+**Slot** none; **Price** 36,000 gp; **Weight** —
+
+Stores three levels of spells, as a *ring of spell storing*.
+
+**Resonance**
+
+As a standard action, the bearer can expend a stored spell to refresh a cast spell of the same level as if using a *pearl of power*. The bearer can refresh up to 3 spell levels per day using this ability.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 18,000 gp
+
 ### Viol of Potent Summoning
 
 **Aura** strong conjuration; **CL** 13th
@@ -9866,6 +11458,38 @@ Whenever the bearer casts a conjuration (summoning) spell, he can expend a numbe
 **Construction**
 
 **Requirements** Augment Summoning, Craft Wondrous Item, *summon monster III*, Perform (string instruments) 5 ranks; **Cost** 12,200 gp
+
+### Violet Thorny (Cracked) Ioun Stone
+
+**Aura** strong varies; **CL** 12th
+
+**Slot** none; **Price** 3,200 gp; **Weight** —
+
+A cracked *thorny ioun stone* provides a +1 competence bonus on its corresponding type of combat maneuver check.
+
+**Resonance**
+
+Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The feat varies by individual *ioun stone*, and each is equally likely (50% chance).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,600 gp
+
+### Violet Thorny (Flawed) Ioun Stone
+
+**Aura** strong varies; **CL** 12th
+
+**Slot** none; **Price** 6,900 gp; **Weight** —
+
+The flawed version of a *thorny ioun stone* of any type functions as the normal version, but the wearer also takes a -2 penalty to CMD against the corresponding type of combat maneuver check.
+
+**Resonance**
+
+Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The feat varies by individual *ioun stone*, and each is equally likely (50% chance).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,450 gp
 
 ### Voidstick
 
@@ -9983,6 +11607,30 @@ Swirling green and blue patterns bedeck the surface of this fine oak *wayfinder*
 
 **Requirements** Craft Wondrous Item, *alter winds*,* control winds*; **Cost** 7,500 gp
 
+### Wayfinder, Shining
+
+**Aura** faint divination; **CL** 3rd
+
+**Slot** none; **Price** 2,000 gp; **Weight** 1 lb.
+
+A *shining wayfinder* appears as a polished silver compass. In addition to the usual functions of a* wayfinder* (including the ability to create* light*) a shining wayfinder can be used to cast* detect evil*—when so used, its needle points not to the north but rather to the nearest source of evil within 60 feet. Once per day, a* shining wayfinder* can be used to cast* protection from evil* upon the wayfinder’s bearer. A* shining wayfinder* functions only for a creature that is good-aligned. When held by an evil creature, the* shining wayfinder*’s needle spins in a frantic circle. When held by any creature that is both nonevil and nongood, the needle does not point to anything in particular (not even to the north).
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *detect evil, light, protection from evil*; **Cost** 1,000 gp
+
+### Wayfinder, Vanishing
+
+**Aura** faint illusion; **CL** 5th
+
+**Slot** none; **Price** 8,000 gp; **Weight** 1 lb.
+
+*Vanishing wayfinders* are crafted of ivory chased with gold and silver. In addition to the usual functions of a* wayfinder* (including the ability to create* light*), the bearer of a* vanishing wayfinder* can press a hidden catch as a standard action to become invisible (as the spell* invisibility*) for as long as she concentrates, up to a maximum duration of 5 minutes per day. These minutes need not be consecutive, but each activation uses 1 minute of duration, even if the user becomes visible by making an attack or by some other means before that minute is up.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *invisibility, light*; **Cost** 4,000 gp
+
 ### Weirding Watch
 
 **Aura** faint transmutation; **CL** 5th
@@ -10040,6 +11688,24 @@ This small, smooth stone is made of a delicate, light blue larimar polished to a
 **Construction**
 
 **Requirements** Craft Wondrous Item, *tree stride*; **Cost** 9,000 gp
+
+### Xensh Spores
+
+**Aura** faint necromancy; **CL** 5th
+
+**Slot** ; **Price** 1,200 gp; **Weight** —
+
+These Shadow Plane spores inhibit a victim’s ability to absorb positive energy.
+
+**Type **poison, inhaled; **Save **Fortitude DC 16
+
+**Onset **10 minutes; **Frequency **1/hour for 6 hours
+
+**Effect **1d2 Dex damage, and until the Dex damage is healed, the victim regains only half the normal amount of hit points from channeled energy and conjuration (healing) spells; **Cure **2 consecutive saves
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *undead anatomy I*; **Cost** 225 gp
 
 ### Yithian Thought Ring
 
@@ -10142,6 +11808,26 @@ The robe’s curse activates after 1 month of being worn regularly, or just as a
 **Requirements** *robe of stars*; **Cost** —
 
 ## Intelligent Items
+
+### A Gambler’s Lucky Rock
+
+**Aura** moderate enchantment and evocation **CL** 11th
+
+**Slot** none; **Price** 35,000 gp
+
+**Alignment** neutral good; **Ego** 10
+
+**Senses** 120 ft.
+
+**Int** 10, **Wis** 16, **Cha** 14
+
+**Communication** speech (Common, Halfling)
+
+This *stone of good luck* is weathered and resembles nothing so much as a hard piece of shale. The stone can cast *good hope* once per day, and its bearer gains a +2 insight bonus on saving throws against fear effects and effects with the emotion descriptor. The stone is very chatty, making friendly observations about its bearer and offering unsolicited advice about the bearer’s current situation. The stone speaks with a slight drawl and uses simple words, but its advice is usually quite sound. Around obvious followers of the god of darkness and pain, the stone is instead silent and shudders slightly.
+
+**Construction**
+
+Craft Wondrous Item, *divine favor*,* good hope*; **Price** 17,500 gp
 
 ### Balgorrah
 
@@ -10369,6 +12055,38 @@ cases containing 6 mortars each.
 
 These foot-long arrows are used as ammunition for arrow tubes. As an improvised melee weapon, they deal damage equivalent to that of a spiked gauntlet. They come in a bamboo tube that holds 10 shafts.
 
+### Blowgun Darts (10)
+
+**Cost** 5 sp **Weight** —
+
+**Category** Ammunition; **Proficiency** Ammunition
+
+The thin, light darts used in a blowgun are usually made of hardwood with a stabilizing fletching of down or fur. A dart is usually loaded from the back end just before firing.
+
+### Blunt Arrows (20)
+
+**Cost** 2 gp **Weight** 3 lbs.
+
+**Category** Ammunition; **Proficiency** Ammunition
+
+These arrows have rounded wooden tips that deal bludgeoning damage rather than piercing. An archer can use a blunt arrow to deal nonlethal damage (at the normal –4 attack penalty for using a lethal weapon to deal nonlethal damage).
+
+### Bolt, Fire
+
+**Cost** 50 gp **Weight** —
+
+**Category** Ammunition; **Proficiency** Ammunition
+
+These carefully crafted wooden bolts have a hollow core filled with alchemist’s fire. On a successful hit, they deal normal damage plus 1d4 points of fire damage. Alchemical fire bolts do not cause any splash damage, and the fire burst isn’t enough to ignite targets (unless they are particularly flammable).
+
+### Crossbow Bolts (10)
+
+**Cost** 1 gp **Weight** 1 lb.
+
+**Category** Ammunition; **Proficiency** Ammunition
+
+A crossbow bolt used as a melee weapon is treated as a light improvised weapon (–4 penalty on attack rolls) and deals damage as a dagger of its size (critical multiplier ×2). Bolts come in a case or quiver that holds 10 bolts. All crossbows except repeating crossbows use these kinds of crossbow bolts, which are sometimes called “quarrels.”
+
 ### Deer Horn Knife
 
 **Cost** 10 gp **Weight** 3 lbs.
@@ -10470,6 +12188,16 @@ These bullets are actually made from a porous stone or heavy wood that absorbs l
 **Category** Ranged; **Proficiency** Exotic
 
 Technically not a unique kind of weapon, a stitched sling is a sling, staff sling, or double sling whose cup is sewn closed around the ammunition, creating a weak sort of light flail. The ammunition sewn into the sling is irrelevant to the type and amount of damage it causes. A stitched sling cannot be used to fire ammunition unless the thread or cord holding the cup closed is cut open (a full-round action that provokes attacks of opportunity).
+
+### Heavy Slaver’s Crossbow
+
+**Cost** 400 gp **Weight** 12 lbs.
+
+**Damage** 1d6 (small), 1d8 (medium); **Critical** 19-20/see "bolas bolts" text; **Range** 80 ft.; **Type** B; **Special** nonlethal, trip, see text
+
+**Category** Ranged; **Proficiency** Exotic
+
+This crossbow shoots ammunition called bolas bolts instead of crossbow bolts. It comes in both light and heavy varieties (but not double, hand, or repeating crossbow varieties) with the same reload action as a conventional crossbow of its type.
 
 ### Highland Tribal Bolas
 
@@ -10614,6 +12342,16 @@ takes 6d6 points of fire damage, and all creatures within a
 for half). Any creatures who take damage must succeed at a
 
 DC 20 Reflex save or catch on fire.
+
+### Light Slaver’s Crossbow
+
+**Cost** 250 gp **Weight** 6 lbs.
+
+**Damage** 1d3 (small), 1d4 (medium); **Critical** 19-20/see "bolas bolts" text; **Range** 40 ft.; **Type** B; **Special** nonlethal, trip, see text
+
+**Category** Ranged; **Proficiency** Exotic
+
+This crossbow shoots ammunition called bolas bolts instead of crossbow bolts. It comes in both light and heavy varieties (but not double, hand, or repeating crossbow varieties) with the same reload action as a conventional crossbow of its type.
 
 ### M1914 grenade (concussion)
 
@@ -10767,6 +12505,18 @@ Mustard gas is normally deployed via gas cylinders or chemical grenades. A cloud
 
 Living creatures within a cloud of mustard gas take 3d6 points of acid damage when first exposed to the gas and must succeed at a DC 18 Fortitude save each round or become nauseated and blinded for as long as they are in the cloud and for 1d4+1 rounds after leaving the cloud. Creatures that succeed at their save but remain in the cloud must continue to save each round on their turn. This is a poison effect. Because mustard gas is heavier than air, its vapors sink to the lowest level of the land, pouring down into holes and trenches. A gas mask completely protects the wearer from the nausea and blindness effects of mustard gas, though holding one’s breath does not.
 
+### Nine-ring Broadsword
+
+**Cost** 15 gp **Weight** 4 lbs.
+
+**Damage** 1d6 (small), 1d8 (medium); **Critical** x3; **Range** —; **Type** S; **Special** monk
+
+**Category** One-Handed; **Proficiency** Martial
+
+**Weapon Groups** Blades, Heavy; Monk
+
+This broad-bladed weapon has nine heavy rings threaded through its spine, providing additional weight to add to the force of its impressive chopping power.
+
 ### Noble Dueling Sword
 
 **Cost** 20 gp **Weight** 3 lbs.
@@ -10826,6 +12576,18 @@ All radium weapons use radium cartridges for ammunition. As a result. in additio
 **Weapon Groups** Crossbows
 
 This weapon functions identically to a repeating heavy crossbow, except that its damage, critical, and range values are equivalent to those of a light crossbow instead of a heavy crossbow. Its significantly lighter construction and pull make it both more portable and more useful to those who rely on stealth or speed.
+
+### Rhoka Sword
+
+**Cost** 25 gp **Weight** 6 lbs.
+
+**Damage** 1d6 (small), 1d8 (medium); **Critical** 18-20/x2; **Range** —; **Type** S; **Special** —
+
+**Category** One-Handed; **Proficiency** Exotic
+
+**Weapon Groups** Blades, Heavy
+
+This sword is used almost exclusively by the life-hating urdefhans. The sword is the size of a longsword but consists of two serrated blades placed side by side.
 
 ### Smoke Bullet
 
@@ -10889,6 +12651,12 @@ An underwater light crossbow functions like its normal counterpart above water, 
 
 This jar contains 6 ounces of alchemically preserved aboleth mucus. When 1 ounce of the extract is applied to a living creature’s mouth, nose, and throat (a full-round action), the target loses its ability to breathe air but gains the ability to breathe water for 1 hour. An unwilling target can attempt a DC 14 Fortitude save to negate the effect. If additional doses are applied to the same creature, the duration of the effect extends by 1 hour for each ounce used, to a maximum of 3 hours.
 
+### Alchemical Recipe
+
+**Recipe** (20 magnesium + 25 saltpeter + 30 spirit of wine)/congelation; **Craft** 30
+
+**Time** 1 hour; **Tools** alchemist’s lab; **Type** alchemical weapon
+
 ### Alchemist’s Fire
 
 **Price** 100 gp; **Weight** 1 lb.
@@ -10899,11 +12667,19 @@ This congealed incendiary functions like alchemist’s fire, but its white-hot f
 
 **Mythic**: You can expend one use of mythic power while throwing a flask of Alchemist’s fire to cause the substance to burn hotter and longer than normal. A creature struck by a direct hit of Alchemist’s fire must succeed at a DC 15 Reflex save or continue to take 1d4 points of fire damage each round at the beginning of its turn. A burning creature can attempt a new save as a full-round action. This effect lasts for a number of rounds equal to the user’s mythic tier, and otherwise acts as the burn universal monster rule. Alchemist’s fire used in this way burns even underwater, offering no relief to creatures that try to extinguish the fire by dousing or immersing themselves in water.
 
-### Alchemical Recipe
+### Alchemy Crafting Kit
 
-**Recipe** (20 magnesium + 25 saltpeter + 30 spirit of wine)/congelation; **Craft** 30
+**Price** 25 gp; **Weight** 5 lbs.
 
-**Time** 1 hour; **Tools** alchemist’s lab; **Type** alchemical weapon
+**Category** Tools
+
+An alchemist with an alchemy crafting kit is assumed to have all the material components needed for his extracts, mutagens, and bombs, except for those components that have a specific cost. An alchemy crafting kit provides no bonuses on Craft (alchemy) checks. (This item was called an “alchemist’s kit” in the *Advanced Player’s Guide*, and was renamed to avoid confusion with this book’s pre-selected set of adventuring gear called an “alchemist’s kit.”)
+
+### Allspice (1 Lb.)
+
+**Price** 1 gp; **Weight** 1 lb.
+
+**Category**
 
 ### Armored Kilt
 
@@ -10924,6 +12700,26 @@ When you add an armored kilt to a suit of light armor, the set counts as medium 
 This white sea-bird feather is millennia old and coated with a thin, resinous substance that has rendered the feather as rigid as steel. When the feather is rubbed or struck, its barbs jangle against each other, emitting a curious polytonal hum like that of several tuning forks. The feather is firmly affixed to a jeweled turban pin.
 
 The shaft of the feather is covered with tiny eastern script. If read—a difficult task without magnification due to the miniscule writing—the text reveals the history of the lands of the desert satrapy before and during the establishment of the eastern imperial satrapy at the end of the Age of Destiny. This acts as a library on the history of the desert satrapy. A character with access to the feather can attempt Knowledge (history) checks about the desert satrapy that have a DC higher than 10, even if untrained in the skill. Characters trained in Knowledge (history) can attempt a second check after studying the feather for an hour if they fail a Knowledge (history) check on such subjects.
+
+### Beans (1 Lb.)
+
+**Price** 2 cp; **Weight** 1 lb.
+
+**Category**
+
+### Beaver Pelt
+
+**Price** 2 gp; **Weight** —
+
+**Category**
+
+### Belt Pouch
+
+**Price** 1 gp; **Weight** 1/2 lb.
+
+**Category** Adventuring Gear
+
+A typical leather or cloth belt pouch has a leather cord to cinch it shut and another to tie it to your belt. It is large enough to hold 100–200 coins or two apples.
 
 ### Bone Burn
 
@@ -10955,6 +12751,66 @@ The craftsmanship of the signet is so intricate that it’s extremely difficult 
 
 These specially modified caltrops have clusters of needle-sharp spines that are slightly longer and more brittle than those on normal caltrops. Like standard caltrops, a 2-pound bag of vicious caltrops covers a 5-foot-square area. Vicious caltrops work just like normal caltrops, save that they have an attack bonus of +4, do 1d2 points of damage, and require a DC 20 Heal check to fully treat.
 
+### Candlestick
+
+**Price** 1 cp; **Weight** 1/2 lb.
+
+**Category** Adventuring Gear
+
+This saucerlike object has a flat bottom, a handle, and a spike on top. You can affix a candle onto the spike (up to 3 inches in diameter) and hold the candlestick by the handle. The flat bottom means you’re able to set it down and not worry about the candle falling over and extinguishing itself. A typical candlestick is crafted from baked clay or a cheap metal such as copper, but elaborate and expensive ones exist.
+
+### Canteen
+
+**Price** 2 gp; **Weight** 1 lb.
+
+**Category** Adventuring Gear
+
+This hollow container is made of wood, a gourd, or metal, and carries liquid like a waterskin, but is more resistant to punctures and cuts.
+
+### Cardamom (1 Lb.)
+
+**Price** 2 gp; **Weight** 1 lb.
+
+**Category**
+
+### Cards
+
+**Price** 1 sp–100 gp; **Weight** 1 lb.
+
+**Category** Entertainment
+
+Playing cards range from block-printed symbols on thick paper to elaborate, hand-painted works of art on waxed vellum, ivory, wood, or even metal.
+
+### Chilies (1 Lb.)
+
+**Price** 2 gp; **Weight** 1 lb.
+
+**Category**
+
+### Cinnamon (1 Lb.)
+
+**Price** 1 gp; **Weight** 1 lb.
+
+**Category**
+
+### Citrus (1 Lb.)
+
+**Price** 3 cp; **Weight** 1 lb.
+
+**Category**
+
+### Cloves (1 Lb.)
+
+**Price** 15 gp; **Weight** 1 lb.
+
+**Category**
+
+### Coal (20 Lbs.)
+
+**Price** 5 cp; **Weight** 20 lbs.
+
+**Category**
+
 ### Cobbled Item
 
 **Price** Special; **Weight** Special
@@ -10962,6 +12818,12 @@ These specially modified caltrops have clusters of needle-sharp spines that are 
 **Category** Adventuring Gear
 
 Goblins are masters at crafting things from bits of rubbish. The category of “cobbled item” is a general catchall to describe any piece of equipment that has been repaired or modified by goblins. Such items are of an inferior quality—whenever they’re used as part of a skill check or attack roll, they have a 10% chance of being broken. Cobbled items can never be masterwork items. A cobbled item is of lesser quality than a normal item, and thus costs only 75% as much as the normal item, but is often much bulkier. Any cobbled item of 1 pound or more in weight actually weighs twice as much as a normal item of its type. Any item that normally costs more than 50 gp can never be a cobbled item, nor can alchemical items be cobbled. At the GM’s discretion, other items may not be able to be cobbled items either.
+
+### Coffee Beans (1 Lb.)
+
+**Price** 5 cp; **Weight** 1 lb.
+
+**Category**
 
 ### Consecrated Salts
 
@@ -10975,9 +12837,19 @@ The powdered salts in this stoppered glass sphere contains reagents blessed by a
 
 **Craft (Alchemy)** DC 30
 
+### Cotton (1 Lb. Or 1 Sq. Yard)
+
+**Price** 8 gp; **Weight** 1 lb.
+
+**Category**
+
+### Cumin (1 Lb.)
+
+**Price** 2 gp; **Weight** 1 lb.
+
+**Category**
+
 ### Cytillesh Spores
-
-
 
 ### Dampening Ointment
 
@@ -10990,6 +12862,12 @@ This pale salve is always cool to the touch, regardless of the surrounding tempe
 **Construction**
 
 **Craft (Alchemy)** DC 25
+
+### Dill (1 Lb.)
+
+**Price** 1 gp; **Weight** 1 lb.
+
+**Category**
 
 ### Elder Record
 
@@ -11006,6 +12884,12 @@ These strange books are fashioned from a metallic alloy, the crafting of which i
 **Category** Clothing
 
 Embroidered with sapphires, this blue sash stands out in stark contrast to the fiery tones of the City of Brass. Emissary’s sashes mark contacts whose business necessitates visiting the Noble and Slave Quarters, but who cannot be trusted to roam the city unsupervised. Noble families assign slaves to follow sash-bearers through restricted areas and report on their activities.
+
+### Ermine Pelt
+
+**Price** 4 gp; **Weight** —
+
+**Category**
 
 ### Fangfile
 
@@ -11031,6 +12915,12 @@ This small darkwood case contains a recessed area to hold a fate deck and a fate
 
 This thick leather mat is large enough to fit all the cards necessary for a standard fate deck reading. If you use a fate deck mat as part of a reading, you gain a +4 circumstance bonus on Bluff or Diplomacy checks (harrower’s choice) to convince the subjects of your harrowing that your words are true.
 
+### Fennel (1 Lb.)
+
+**Price** 2 gp; **Weight** 1 lb.
+
+**Category**
+
 ### Fetish, Tribal
 
 **Price** 5 gp; **Weight** —
@@ -11038,6 +12928,16 @@ This thick leather mat is large enough to fit all the cards necessary for a stan
 **Category** Tools
 
 Tribal fetishes vary from tribe to tribe, but are generally small, carved wooden or stone religious symbols, luck tokens, or curious naturally occurring objects specially carved to resemble something of significance (such as an acorn with a wolf fangs, a dried mushroom with skull-shaped blotches, or a stone with a lizard carved on it). A goblin divine spellcaster can use a tribal fetish as a divine focus for spellcasting.
+
+### Field Plate
+
+**Cost** 1,200 gp **Weight** 50 lbs.
+
+**Armor Bonus** +7; **Max Dex Bonus** +1; **Armor Check Penalty** -5
+
+**Arcane Spell Failure Chance** 35%; **Speed** 20 ft./15 ft.
+
+This heavy armor is similar to full plate but lighter in construction, sacrificing a bit of protection for greater flexibility and mobility.
 
 ### Fiery boulder
 
@@ -11054,6 +12954,14 @@ A fiery boulder is a large, roughly boulder-shaped version of alchemist’s fire
 **Category** Tools
 
 A fire carrier is a conical device made of thickly insulated leather and wood designed to carry a live coal under a layer of ash. A fire carrier can keep a coal red hot for 24 hours and allows anyone to light a fire in normal conditions without having to resort to Survival checks, alchemical devices, or magic.
+
+### Fire-resistant Boots
+
+**Price** 20 gp; **Weight** 2 lbs.
+
+**Category** Clothing
+
+These heavy leather boots contain a layer of brick dust that protects your feet from heat. You gain fire resistance 2 against fire attacks directed at or under your feet, such as walking across hot coals. Repeat or prolonged exposure to fire damage eventually burns the outer leather of the boots, ruining them (typically after about 1d10+20 rounds of exposure).
 
 ### Fool's glow
 
@@ -11074,6 +12982,20 @@ A greasy paste of beeswax, pyrite, and various monster fluids, fool’s glow rea
 **Category** Tools
 
 This quick-drying cast is perfect for preserving a set of footprints in order to examine them later. By spending 1 minute setting the cast and waiting for it to dry, you can copy footprints, allowing others to examine them without traveling to the scene, and preventing the DC of the Survival check to analyze them from increasing because of time or weather.
+
+### Formula Book
+
+**Price** 15 gp; **Weight** 3 lbs.
+
+**Category** Tools
+
+A formula book has 100 pages of parchment, and each alchemical extract formula takes up one page per extract level. A newly purchased formula book contains no extract formulas. An alchemist character begins play with a formula book containing the extract formulae he knows. This is the alchemist equivalent of a spellbook for wizards (a spellbook and a formula book are essentially the same item).
+
+### Fox Pelt
+
+**Price** 3 gp; **Weight** —
+
+**Category**
 
 ### Frostbite ointment
 
@@ -11137,6 +13059,50 @@ This tonic reduces menstrual pains and dramatically reduces the chances of conce
 
 These crystalline fragments are all that remains of an *orb of dragonkind* that was destroyed by the great wyrm gold dragon the Gold Dragon at the outset of his grand experiment. The owner of a shard receives a +2 circumstance bonus on Diplomacy checks with citizens of the dragon’s isle. The individual shards are nonmagical, but many believe that were they to be reunited into a complete sphere, the item would regain its powers over gold dragons, including the Gold Dragon himself.
 
+### Guinea Pig
+
+**Price** 1 cp; **Weight** —
+
+**Category**
+
+### Hot-Air Balloon
+
+Huge air vehicle
+
+**Squares** 9 (15 ft. by 15 ft.; 0 feet high); **Cost** 5,000 gp
+
+**Defense**
+
+**AC** 8; **Hardness** 0
+
+**hp** 80 (39)
+
+**Base Save** +0
+
+**Offense**
+
+**Maximum Speed** 30 ft. (60 ft. ascent/descent only); **Acceleration** 10 ft.
+
+**CMB** +1; **CMD** 11
+
+**Ramming Damage** 1d8
+
+This massive balloon is connected to a large basket for passengers. It ascends and descends through the use of a burner, but its only means of propulsion is through natural or magical wind. When deflated, the vehicle’s balloon can be placed within the passengers’ basket for transportation. A hot-air balloon can carry 1,000 pounds of cargo or four passengers.
+
+**Propulsion** current (air; 8 squares of balloon, hp 60) and burner
+
+**Driving Check** Acrobatics or Fly
+
+**Forward Facing** the dome of the balloon or its basket
+
+**Driving Device** burner
+
+**Driving Space** any square in the passenger basket attached to the balloon
+
+**Crew** 1
+
+**Decks** 1
+
 ### Houndbane dust
 
 **Price** 75 gp; **Weight** 3 lbs.
@@ -11161,6 +13127,44 @@ Incendiary catalyst can be thrown at a creature as a ranged touch attack with a 
 
 **Craft (Alchemy)** DC 20
 
+### Infernal Knight Barding
+
+**Price** varies; **Weight** varies
+
+**Category** Animal Gear
+
+infernal knights often equip their steeds with armor similar to their own. Typical barding for infernal knight steeds is spiked (the spikes are ornamental, however, and cannot deal damage). Such barding is usually designed to look similar to the armor of the horse’s rider, or to look skeletal, fiendish, or similar to a nightmare. infernal knight barding can be made from infernal knight leather, infernal knight plate, or infernal knight half-plate; it costs four times as much and weighs twice as much. infernal knight leather barding slows a mount from 40 feet to 30 feet, from 50 feet to 35 feet, or from 60 feet to 40 feet. infernal knight half-plate barding or infernal knight plate barding also slows a mount, and a mount wearing such armor moves at only triple its normal speed when running instead of quadruple.
+
+### Infernal Knight Half-plate
+
+**Cost** 850 gp **Weight** 50 lbs.
+
+**Armor Bonus** +8; **Max Dex Bonus** +0; **Armor Check Penalty** -7
+
+**Arcane Spell Failure Chance** 40%; **Speed** 20 ft./15 ft.
+
+The armor worn by an infernal knight signifer is a vestment of armored plates, chain, and dark fabric. It functions as half-plate, but it can be donned and removed as though it were medium armor. Any spellcaster who wears this armor is treated as if he were wearing infernal knight plate for the purposes of any feats and effects that require one to be wearing infernal knight plate. This armor includes a signifer mask, though signifer masks can be purchased separately.
+
+### Infernal Knight Leather
+
+**Cost** 30 gp **Weight** 25 lbs.
+
+**Armor Bonus** +3; **Max Dex Bonus** +5; **Armor Check Penalty** -1
+
+**Arcane Spell Failure Chance** 15%; **Speed** 30 ft./20 ft.
+
+There are instances where wearing full plate armor can jeopardize an infernal knight’s life. Primarily worn by infernal knight sailors, this studded leather armor includes heavy gloves and a helm of sculpted leather designed to look like a skull— either a human’s or that of some aquatic creature. infernal knight leather’s statistics are identical to those of studded leather, except it costs 5 gp more and weighs 5 pounds more.
+
+### Infernal Knight Plate
+
+**Cost** 2,000 gp **Weight** 50 lbs.
+
+**Armor Bonus** +9; **Max Dex Bonus** +1; **Armor Check Penalty** -5
+
+**Arcane Spell Failure Chance** 35%; **Speed** 20 ft./15 ft.
+
+These distinctive suits of armor are a special type of masterwork full plate that grant additional effects when worn by a character with levels in the infernal knight prestige class. Apart from its distinctive look (each order of infernal knights has its own style of armor), a suit of infernal knight plate functions the same as a suit of masterwork full plate.
+
 ### Kaava Musk
 
 **Price** 40 gp; **Weight** 1/2 lb.
@@ -11173,6 +13177,16 @@ This emerald-colored adhesive is made from animal glands, urine, and other power
 
 **Craft (Alchemy)** DC 20
 
+### Leaf Armor
+
+**Cost** 500 gp **Weight** 20 lbs.
+
+**Armor Bonus** +3; **Max Dex Bonus** +5; **Armor Check Penalty** 0
+
+**Arcane Spell Failure Chance** 15%; **Speed** 30 ft./20 ft.
+
+Druidic elves use alchemical compounds to treat special leaves used in crafting armor for their warriors. Leaf armor is always of masterwork quality.
+
 ### Leng Ruby
 
 **Price** 500 gp; **Weight** —
@@ -11182,6 +13196,32 @@ This emerald-colored adhesive is made from animal glands, urine, and other power
 Leng rubies are red gemstones all identical in size and appearance, distinguishable from ordinary rubies by their complete lack of imperfections or inclusions. Mined on the desolate Plateau of Leng—an outer plane connected to the ever-shifting Dimension of Dreams—these rubies are used as currency by the sinister denizens of Leng. These denizens travel the planes, bartering Leng rubies for goods, slaves, and assistance in their inscrutable schemes. Possession of these rubies is seen as suspicious and shameful by scholars who understand their origin, as the rubies mark the owner as someone willing to deal with enigmatic foes of light and life.
 
 A small number of Leng rubies (10%) can be used as the focus of a *plane shift* spell, though it is impossible to determine what location a particular ruby is attuned to before the spell is cast. Some Leng rubies are substantially larger than the common size, and can fetch prices of 50,000 gp or more. The denizens of Leng trade these larger rubies for armies of slaves or as part of nation-ending plots.
+
+### Light Steel Quickdraw
+
+**Cost** 59 gp **Weight** 7 lbs.
+
+**Armor Bonus** +1; **Max Dex Bonus** —; **Armor Check Penalty** -2
+
+**Arcane Spell Failure Chance** 5%; **Speed** —/—
+
+This light steel shield is specially crafted with a series of straps to allow a character proficient in shields to ready or stow it on her back quickly and easily. If you have a base attack bonus of +1 or higher, you may don or put away a quickdraw shield as a swift action combined with a regular move. If you have the Two-Weapon Fighting feat, you can draw a light or onehanded weapon with one hand and a quickdraw shield with the other in the time it would normally take you to draw one weapon. If you have the Quick Draw feat, you may don or put away a quickdraw shield as a free action.
+
+### Light Wooden Quickdraw
+
+**Cost** 53 gp **Weight** 6 lbs.
+
+**Armor Bonus** +1; **Max Dex Bonus** —; **Armor Check Penalty** -2
+
+**Arcane Spell Failure Chance** 5%; **Speed** —/—
+
+A wooden quickdraw shield is essentially the same as a steel quickdraw shield, except it responds differently to some spells and effects (such as *rusting grasp*). A druid can use a heavy wooden quickdraw shield, but not a steel quickdraw shield.
+
+### Linen (1 Sq. Yard)
+
+**Price** 4 gp; **Weight** —
+
+**Category**
 
 ### Loping ointment
 
@@ -11194,6 +13234,32 @@ This gray, greasy topical lotion strengthens and straightens the leg muscles of 
 **Construction**
 
 **Craft (Alchemy)** DC 25
+
+### Maplee Syrup (1 Lb.)
+
+**Price** 1 gp; **Weight** 1 lb.
+
+**Category**
+
+### Masonry Stone (1 Lb.)
+
+**Price** 5 cp; **Weight** 1 lb.
+
+**Category**
+
+### Mess Kit
+
+**Price** 2 sp; **Weight** 1 lb.
+
+**Category** Kits
+
+This kit includes a plate, bowl, cup, fork, knife, and spoon, made of wood, horn, or tin. Each item has a handle or small hole, and can be tied together using the included leather cord.
+
+### Mink Pelt
+
+**Price** 3 gp; **Weight** —
+
+**Category**
 
 ### Necrotic Talisman
 
@@ -11225,6 +13291,44 @@ A greater splash weapon can be used only by Large or larger creatures, though it
 
 **Craft (Alchemy)** DC 35
 
+### Nutmeg (1 Lb.)
+
+**Price** 1 gp; **Weight** 1 lb.
+
+**Category**
+
+### Nuts (1 Lb.)
+
+**Price** 3 cp; **Weight** 1 lb.
+
+**Category**
+
+### Oregano (1 Lb.)
+
+**Price** 5 sp; **Weight** 1 lb.
+
+**Category**
+
+### Ox
+
+**Price** 15 gp; **Weight** —
+
+**Category**
+
+### Pack Animal
+
+**Price** 8 gp Pack animal (donkey/mule), 15 gp Pack animal (ox), 24 gp Pack animal (yak); **Weight** 600 lbs. Pack animal (donkey/mule), 1 ton Pack animal (ox), 2 tons Pack animal (yak)
+
+Working animals are universal, but the animal type varies according to local availability. Elephants carry goods in much of the southern jungle. Yaks pull loads in mountainous regions. In many other parts of the central sea, donkeys, mules, and oxen pull carts or plows. The donkey market in the merchant desert city is particularly brisk.
+
+### Pack Animal (musk Ox)
+
+**Price** 24 gp; **Weight** —
+
+**Category** Mounts/Pets
+
+These husky, shaggy beasts are sometimes domesticated as pack animals in the Crown of the World. Their statistics are identical to aurochs, but they are immune to cold weather effects (though not severe cold and extreme cold effects). Domesticated musk oxen have the docile special quality (see horse; *Bestiary* 177), and treat their gore attack as a secondary natural weapon. In the polar rim mountains of the far east, yaks are used as pack animals and have identical statistics.
+
 ### Pallid Suspension
 
 **Price** 324 gp; **Weight** —
@@ -11233,6 +13337,14 @@ A greater splash weapon can be used only by Large or larger creatures, though it
 
 This small vial contains an alchemical suspension that preserves a sample of pallid gift. This functions like plague powder for pallid gift, allowing the user to apply pallid gift to a weapon (a standard action, or whatever action the character normally takes to apply poison to a weapon if that is better) and deliver it as with an injury poison. Just as for plague powder, the creation of a pallid suspension exposes the crafter to the disease on each day of crafting.
 
+### Pathfinder Chronicle
+
+**Price** 50 gp; **Weight** 1 lb.
+
+**Category** Adventuring Gear
+
+Numerous volumes and editions of the Pathfinder Chronicles exist. When used as a reference (an action that takes 1d4 full rounds of searching the text), a Pathfinder Chronicle grants a +2 circumstance bonus on a specific Knowledge check. Each Pathfinder Chronicle grants this bonus to a different type of Knowledge. Regardless of which type that particular chronicle is focused on, the cost of the book remains the same.
+
 ### Pathfinder’s Kit
 
 **Price** 12 gp; **Weight** 22 lbs.
@@ -11240,6 +13352,12 @@ This small vial contains an alchemical suspension that preserves a sample of pal
 **Category** Kits
 
 This kit consists of a backpack, a bedroll, a belt pouch, a clay mug, a dagger, two fishhooks, a flint and steel, a sewing needle, a signal whistle, 50 feet of string, 50 feet of thread, a week’s worth of trail rations, a waterskin, and a whetstone. For Small creatures, the weight of a Pathfinder’s kit is 7–1/2 pounds. Leaving the bedroll and rations at camp or on a mount reduces the weight by 12 pounds for Medium creatures and by 3 pounds for Small creatures.
+
+### Peat (20 Lbs.)
+
+**Price** 3 cp; **Weight** 20 lbs.
+
+**Category**
 
 ### Pickles, Goblin (1 Jar)
 
@@ -11256,6 +13374,18 @@ Goblins pickle everything, and thus goblin pickles can be composed of almost any
 **Category** Tools
 
 Maybe it’s the wide heads, but more likely it’s the lack of common sense that causes goblins to so often get stuck in narrow spaces. In such cases, a dose of pig grease is really helpful. An application of pig grease applied to the body grants a +2 circumstance bonus on all Escape Artist checks for 1 hour.
+
+### Potatoes (1 Lb.)
+
+**Price** 2 cp; **Weight** 1 lb.
+
+**Category**
+
+### Powder Ball
+
+**Price** 400 gp (empty), 300 gp (fuel); **Weight** 4 lbs. (empty), 1 lb. (fuel)
+
+This steel sphere is about the size of a standard cannon ball, though it’s significantly lighter. Small holes pock the surface of the sphere, which can be unscrewed into two hemispherical pieces. By filling the intricate hollows in an opened powder ball with a specific mixture of volatile chemical reagents (which can typically be purchased in a great dwarven hold for around 200 gp) and inserting a proprietary fuse, an individual can use the weapon as a time-delayed explosive device, throwing it as a splash weapon or simply placing it where she wants it to explode. The fuse can be ignited as a move action; 1d4 rounds afterward, the powder ball explodes, dealing 2d6 points of fire damage to anything in a 10-foot-radius burst (DC 15 for half ). A powder ball explodes in this way three times— the second explosion occurs 1d3 rounds after the initial explosion, and the third explosion occurs 1d2 rounds after the second. After the third explosion, the empty powder ball can be refilled and used again.
 
 ### Quieting needles
 
@@ -11274,6 +13404,12 @@ Removing quieting needles from a dead body takes 1d6+6 rounds (and a DC 20 Heal 
 The use of quieting needles is relatively uncommon, meant as much to punish enemies for attempting to raise dead allies and force them to waste the resources on such expensive magic as well as to cause the restored creature agonizing pain—using quieting needles is an evil act that is as illegal as murder in most civilized regions.
 
 A set of quieting needles costs 25 gp.
+
+### Rosemary (1 Lb.)
+
+**Price** 1 gp; **Weight** 1 lb.
+
+**Category**
 
 ### Rosewood armor
 
@@ -11295,6 +13431,12 @@ This suit of leather armor is wrapped in special rose vines. Treat this as leath
 
 Developed by desert riders, a satrapy saddle is sturdy but minimal, allowing horse and rider to communicate through slight muscle shifts and delicate balance adjustments. A satrapy saddle gives a rider a +2 circumstance bonus on Ride checks, and it allows a rider to ignore the AC penalty from a charge when she is mounted and her mount charges.
 
+### Seal Pelt
+
+**Price** 5 gp; **Weight** —
+
+**Category**
+
 ### Second-story harness
 
 **Price** 55 gp; **Weight** 3 lbs.
@@ -11303,6 +13445,20 @@ Developed by desert riders, a satrapy saddle is sturdy but minimal, allowing hor
 
 A second-story harness is a series of straps, trusses, and buckles that can be worn over clothing or armor. A second-story harness allows the wearer to, as a move action, secure herself in place on a vertical surface so that both her hands are free. The wearer can remain in this position without needing to make additional Climb checks, and does not lose her Dexterity bonus to AC as long as she remains anchored. As long as the wearer is anchored in this way, she cannot move and gains a +5 circumstance bonus on Climb checks made to avoid falling whenever she takes damage. The wearer can release herself to start moving again as a move action. A second-story harness costs 55 gp and weighs 3 pounds.
 
+### Sheep
+
+**Price** 2-20 gp; **Weight** 150 lbs.
+
+**Category** Mounts/Pets
+
+These livestock animals are kept for their fur, meat, and hide, and can be found in virtually any civilized settlement. They are especially prized in colder environs, where their wool and hide can be used to make durable and highly insulated clothing. Sheep have the same statistics as goats (see *Bestiary 3*).
+
+### Sheep (Trade Good)
+
+**Price** 2 gp; **Weight** —
+
+**Category**
+
 ### Shovel, Common
 
 **Price** 2 cp; **Weight** 3 lbs.
@@ -11310,6 +13466,14 @@ A second-story harness is a series of straps, trusses, and buckles that can be w
 **Category** Adventuring Gear
 
 This tool lets you dig a pit at a rate of 2 cubic feet per minute.
+
+### Skates
+
+**Price** 10 gp; **Weight** 3 lbs.
+
+**Category** Clothing
+
+These honed metal blades are worn on boots to enable swift passage over ice. The wearer may move (but not climb) at her full speed on level icy surfaces. Her speed is halved when moving up an icy slope, but she may run or charge downhill on gentle or steep snowy slopes at quadruple speed. However, any skill check penalties for traversing rough ice while wearing skates are doubled, and the wearer takes a –4 penalty on combat maneuver checks to bull rush, drag, or trip, and to CMD against these maneuvers. Donning or removing skates takes 1 minute.
 
 ### Skis and poles
 
@@ -11337,6 +13501,14 @@ Nearly 50 ancient tales and songs have been collected on this long scroll. Contr
 
 This folio is the most complete extant collection of poems by the legendary marid bard a Desert Poet. Most of the poems recount the binding of the god of wrath and destruction by the gods and the fates of his terrible spawn, but several pieces, told from the point of view of a genie princess, speak of defending the princess’s home and allies against bandit-kings, tempests, and evil magic. A bard with access to a complete copy of these poems can learn the defensive songs in the folio as the masterpiece presented below by paying the normal masterpiece cost.
 
+### Stationery
+
+**Price** 1 gp; **Weight** —
+
+**Category** Adventuring Gear
+
+Generally used only by the wealthy, fancy stationery is a finerquality 9-inch-by-6-inch paper, often embossed or engraved with the owner’s personal seal.
+
 ### Stench-gas bladder
 
 **Price** 30 gp; **Weight** 1/2 lb.
@@ -11344,6 +13516,18 @@ This folio is the most complete extant collection of poems by the legendary mari
 **Category** Alchemical Weapons
 
 This thin bladder splits when it hits a target. You can throw a gas bladder as a ranged weapon with a range increment of 10 feet. Any creature struck by a gas bladder must succeed at a DC 14 Fortitude save or be sickened for 1d6 rounds.
+
+### Stilts
+
+**Price** 2 sp (common), 5 gp (masterwork); **Weight** 10 lbs. (common), 10 lbs. (masterwork)
+
+This item consists of a pair of wooden poles with a footrest halfway up. By standing on the footrests and holding the tops of the poles you can avoid certain ground-based threats to your feet. For example, you can use stilts to cross water without getting wet, but you would still activate a trap that triggers when you walk in a certain area. Using stilts reduces your base speed from 30 feet to 20 feet, or from 20 feet to 15 feet. You can hop off your stilts as a move action, or as a free action with a successful DC 10 Acrobatics check.
+
+You must use both your hands to walk with stilts. Walking with stilts requires a DC 5 Acrobatics check for each move. Failing this check means you do not move for that move action; failing by 5 or more means you fall off the stilts. If you want to use one hand for something else while standing on stilts, you must succeed at a DC 10 Acrobatics check or lose the action; if you want to use two hands, the DC increases to 20.
+
+Stilts for a Medium creature raise you 2 feet above the ground; stilts for a Small creature raise you 1 foot from the ground. You can use taller stilts, but each additional foot of elevation increases the Acrobatics DCs of using stilts by +5. A stilt has hardness 5 and 10 hit points. If you only have one stilt, your speed drops to 5 feet because you can only hop rather than walk.
+
+*Masterwork Stilts*: These stilts strap to your feet and legs, allowing you to use your hands for other tasks without penalty. Walking on masterwork stilts requires a DC 10 Acrobatics check. Attaching or removing a masterwork stilt is a full-round action.
 
 ### Sting grenade
 
@@ -11368,6 +13552,14 @@ When imbibed, this effervescent solution causes a heavy warmth to spread from yo
 **Construction**
 
 **Craft (Alchemy)** DC 20
+
+### Tabard
+
+**Price** 5 gp; **Weight** 1 lb.
+
+**Category** Clothing
+
+Often worn over armor, this outer garment is usually sleeveless and open at the sides. The broad front provides a canvas for insignias and coats of arms, making a wearer’s membership in an order readily apparent.
 
 ### Tanglefoot bundle
 
@@ -11407,6 +13599,24 @@ the false god’s realm’s faithful utilize a number of tools to help them cont
 
 **Damage** 1d2 Con damage
 
+### Thick Leather (1 Sq. Yard)
+
+**Price** 3 gp; **Weight** —
+
+**Category**
+
+### Thin Leather (1 Sq. Yard)
+
+**Price** 5 sp; **Weight** —
+
+**Category**
+
+### Tobacco (1 Lb.)
+
+**Price** 5 sp; **Weight** 1 lb.
+
+**Category**
+
 ### Tossglove
 
 **Price** 1 sp; **Weight** 1 lb.
@@ -11414,6 +13624,54 @@ the false god’s realm’s faithful utilize a number of tools to help them cont
 **Category** Tools
 
 A tossglove is a hefty leather and metal glove made for holding and throwing an insect, snake, or other tiny creature that would otherwise bite the goblin. Those who don’t use a tossglove when attempting to sling such creatures provoke an attack of opportunity from the animal they attempt to throw or stash. The glove has overlapping plates that cover the goblin’s arm up to the elbow. It’s a full-round action to put on or take off a tossglove, and while it’s worn, that hand can’t be used to perform acts of fine manipulation (such as making a Disable Device check or firing an arrow). The gloved hand can still wield a melee weapon.
+
+### Trail Rations
+
+**Price** 5 sp; **Weight** 1 lb.
+
+**Category** Food/Drink
+
+The listed price is for a day’s worth of food. This bland food is usually some kind of hard tack, jerky, and dried fruit, though the contents vary from region to region and the race of those creating it. As long as it stays dry, it can go for months without spoiling.
+
+### Turnips (1 Lb.)
+
+**Price** 2 cp; **Weight** 1 lb.
+
+**Category**
+
+### Vanilla (1 Lb.)
+
+**Price** 2 gp; **Weight** 1 lb.
+
+**Category**
+
+### Wheat (1 Lb.)
+
+**Price** 1 cp; **Weight** 1 lb.
+
+**Category**
+
+### Wig
+
+**Price** 5 gp–500 gp; **Weight** 1/2 lb.–4 lbs.
+
+**Category** Clothing
+
+False hair comes in many forms, from the severe coif of a judge to the towering confection adorning a noble to the simple curls worn by a housewife whose hair is thinning. Wigs can be found for sale in any major city and can be special-ordered in most towns. As they are usually made of hair, the available colors are likely limited by the locally predominant hair color, but others can be obtained by applying dye.
+
+### Woolly Mammoth
+
+**Price** 4,500 gp (combat-trained), 3,000 gp (normal); **Weight** 6 tons (combat-trained), 6 tons (normal)
+
+Poached from the northern plains, these hairy pachyderms are used by the orcs of the orc hold as mounts and living siege engines. As if these mounts weren’t intimidating enough, the orcs outfit them with spiked metal barding and tusk blades.
+
+### Wrist Sheath
+
+**Price** 1 gp; **Weight** 1 lb.
+
+**Category** Adventuring Gear
+
+This is a sheath designed to be strapped to your forearm and hidden under a long sleeve. The sheath can hold one forearmlength item, such as a dagger, dart, or wand, or up to five arrows or crossbow bolts. As a move action, you can bend your wrist to cause some or all of these items to drop into your hand (provoking attacks of opportunity as normal). You have a +2 bonus on Sleight of Hand checks made to oppose the Perception check of someone observing or frisking you to determine items in the sheath. You can only wear one wrist sheath per arm.
 
 ## Altars
 
@@ -11691,7 +13949,7 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 **Value** 1,200 gp (2,200 gp with the preparation ritual)
 
-### Spells
+**Spells**
 
 3rd—*contingent action*,* cloak of winds*,* fireball*,* lightning bolt*
 
@@ -11699,7 +13957,7 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 1st—*blend*,* gravity bow*,* identify*,* longshot*,* magic missile*,* shield*,* true strike*
 
-### Ritual
+**Ritual**
 
 **Disruption Master (Ex)** Arrowsong’s claims about the imperfections of spellcasting and the failings of magic provide additional insight into interrupting spellcasting. Unlike other boons, you do not spend this one. Until you prepare spells again, when you damage a foe or the foe fails a saving throw against a spell of yours, the foe also takes a –2 penalty on all concentration checks it attempts for 1 round.
 
@@ -11709,7 +13967,7 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 **Value** 1,565 gp ( gp with the preparation ritual)
 
-### Spells
+**Spells**
 
 4th—*dimension door*,* lesser age resistance*,* liquefy*
 
@@ -11725,7 +13983,7 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 **Value** 575 gp (1,100 gp with the preparation ritual)
 
-### Spells
+**Spells**
 
 3rd—*dispel magic*,* haste*
 
@@ -11733,7 +13991,7 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 1st—*chill touch*,* color spray*,* enlarge person*,* grease*,* jump*,* reduce person*,* shield*,* silent image*
 
-### Ritual
+**Ritual**
 
 **Avoiding Spell (Su)** Whenever you cast a transmutation spell, you can spend this boon as a swift action to gain a +1 dodge bonus to your AC for a number of rounds equal to the spell’s level.
 
@@ -11743,11 +14001,25 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 **Value** 50 gp (115 gp with the preparation ritual)
 
-### Spells
+**Spells**
 
 1st—*cure light wounds*,* expeditious retreat*,* keen senses*,* polypurpose panacea*,* youthful appearance*
 
-### Ritual
+**Ritual**
+
+**Rejuvenating Infusion (Su)** Whenever you imbibe an alchemist extract of a conjuration spell, you can spend this boon as a swift action. If you do, you are healed of 1 point of damage and can ignore the effects of fatigue for 1 round.
+
+### Healer’s Remedies (Formula Book, Level 3 Alchemist)
+
+*The first three pages of this book contain pressed flowers and botanical diagrams relating to brewing desert remedies.*
+
+**Value** 50 gp (115 gp with the preparation ritual)
+
+**Spells**
+
+1st—*cure light wounds*,* expeditious retreat*,* keen senses*,* polypurpose panacea*,* youthful appearance*
+
+**Ritual**
 
 **Rejuvenating Infusion (Su)** Whenever you imbibe an alchemist extract of a conjuration spell, you can spend this boon as a swift action. If you do, you are healed of 1 point of damage and can ignore the effects of fatigue for 1 round.
 
@@ -11757,7 +14029,7 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 **Value** 670 gp (1,270 gp with the preparation ritual)
 
-### Spells
+**Spells**
 
 3rd—*absorbing touch*,* arcane sight*,* draconic reservoir*,* seek thoughts*
 
@@ -11765,7 +14037,25 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 1st—*ant haul*,* bomber’s eye*,* comprehend languages*,* detect secret doors*,* disguise self*,* expeditious retreat*,* true strike*
 
-### Ritual
+**Ritual**
+
+**Blast Finesse (Su)** As an immediate action when you throw a bomb, you can spend this boon to shape the blast by adding up to three 5-foot squares to the area, as long as these spaces are adjacent to the bomb’s normal area of effect.
+
+### Revolutionary Cookbook (Formula Book, Level 8 Alchemist)
+
+*This book’s cover is illegibly scorched and the pages are wrinkled from water damage.*
+
+**Value** 670 gp (1,270 gp with the preparation ritual)
+
+**Spells**
+
+3rd—*absorbing touch*,* arcane sight*,* draconic reservoir*,* seek thoughts*
+
+2nd—*cat’s grace*,* invisibility*,* perceive cues*,* resist energy*,* see invisibility*,* undetectable alignment*
+
+1st—*ant haul*,* bomber’s eye*,* comprehend languages*,* detect secret doors*,* disguise self*,* expeditious retreat*,* true strike*
+
+**Ritual**
 
 **Blast Finesse (Su)** As an immediate action when you throw a bomb, you can spend this boon to shape the blast by adding up to three 5-foot squares to the area, as long as these spaces are adjacent to the bomb’s normal area of effect.
 
@@ -11775,7 +14065,7 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 **Value** 4,295 gp (4,670 gp with the preparation ritual)
 
-### Spells
+**Spells**
 
 6th—*mass eagle’s splendor*,* transformation*
 
@@ -11789,7 +14079,31 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 1st—*charm person*,* flare burst*,* grease*,* jump*,* mirror strike*,* mount*,* negative reaction*,* silent image*,* true strike*,* unseen servant*
 
-### Ritual
+**Ritual**
+
+**Devilishly Reasonable (Su)** You can spend this boon to gain a +5 bonus on a Diplomacy check against a target that has an attitude of friendly or helpful toward you to request aid in the form of the target revealing an important secret.
+
+### Sage’s Workbook (Spellbook, Level 16 Magus with Bard Spells)
+
+*This book appears to be more of a personal journal than a magical tome. The soft leather binding is worn, and many pages bear the telltale creases of dog-ears and stains of spilled wine.*
+
+**Value** 4,295 gp (4,670 gp with the preparation ritual)
+
+**Spells**
+
+6th—*mass eagle’s splendor*,* transformation*
+
+5th—*baleful polymorph*,* shadow evocation*,* telekinesis*,* teleport*,* vampiric shadow shield*,* wall of force*
+
+4th—*black tentacles*,* charm monster*,* greater flaming sphere*,* mass enlarge person*,* mass reduce person*,* tough crowd*,* wreath of blades*
+
+3rd—*burst of speed*,* dispel magic*,* fly*,* heckle*,* major image*,* stage fright*
+
+2nd—*alter self*,* darkness*,* hold person*,* minor image*,* pilfering hand*,* scorching ray*
+
+1st—*charm person*,* flare burst*,* grease*,* jump*,* mirror strike*,* mount*,* negative reaction*,* silent image*,* true strike*,* unseen servant*
+
+**Ritual**
 
 **Devilishly Reasonable (Su)** You can spend this boon to gain a +5 bonus on a Diplomacy check against a target that has an attitude of friendly or helpful toward you to request aid in the form of the target revealing an important secret.
 
@@ -11799,7 +14113,7 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 **Value** 180 gp (440 gp with the preparation ritual)
 
-### Spells
+**Spells**
 
 2nd—*marching chant*,* path of glory*,* scare*
 
@@ -11807,7 +14121,25 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 0 (at will)—*dancing lights*,* ghost sound*,* lullaby*,* mage hand*,* mending*,* resistance*
 
-### Ritual
+**Ritual**
+
+**Storied Spell Lore (Su)** When you use this meditation ritual, choose a spell of 2nd level or lower in this meditation book. Whenever you cast a bard or skald conjuration spell, you can spend this boon as a swift action to add the chosen spell to your list of bard or skald spells known for 1 round.
+
+### Songs of the Sea Kings (Meditation Book, Level 5 Skald)
+
+*This book’s cover is made of scales that are warm to the touch.*
+
+**Value** 180 gp (440 gp with the preparation ritual)
+
+**Spells**
+
+2nd—*marching chant*,* path of glory*,* scare*
+
+1st—*cure light wounds*,* heightened awareness*,* remove fear*
+
+0 (at will)—*dancing lights*,* ghost sound*,* lullaby*,* mage hand*,* mending*,* resistance*
+
+**Ritual**
 
 **Storied Spell Lore (Su)** When you use this meditation ritual, choose a spell of 2nd level or lower in this meditation book. Whenever you cast a bard or skald conjuration spell, you can spend this boon as a swift action to add the chosen spell to your list of bard or skald spells known for 1 round.
 
@@ -11817,7 +14149,7 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 **Value** 690 gp (990 gp with the preparation ritual)
 
-### Spells
+**Spells**
 
 3rd—*the dead god of humanity’s spellsword*,* heroism*,* lesser guardian monument*,* magic circle against evil*
 
@@ -11825,7 +14157,7 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 1st—*detect undead*,* endure elements*,* expeditious construction*,* heightened awareness*,* linked legacy*,* mage armor*
 
-### Ritual
+**Ritual**
 
 **Glorious Blade (Su)** When you attack with a sword (including swordlike effects created by spells such as spiritual weapon, as long as they require attack rolls), you can expend a prepared spell or spell slot as a free action to spend this boon. If you do, you gain an insight bonus on the attack roll equal to the level of the prepared spell or spell slot expended.
 
@@ -11835,7 +14167,7 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 **Value** 375 gp (875 gp with the preparation ritual)
 
-### Spells
+**Spells**
 
 3rd—*beast shape I*,* clairaudience/clairvoyance*,* planar inquiry*,* tongues*
 
@@ -11843,7 +14175,7 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 1st—*celestial healing*,* comprehend languages*,* detect undead*,* endure elements*,* heightened awareness*,* hydraulic push*,* identify*,* obscuring mist*
 
-### Ritual
+**Ritual**
 
 **Eyes of the Ancient Sage (Su)** Several of the stories within this spellbook suggest ways to take what information you have and use it to infer the answers to questions for which you don’t have proven solutions. Spend this boon when you cast a divination spell to increase the spell’s caster level by +2.
 
@@ -12936,3 +15268,23 @@ Three times per day, the bearer of this rune can cause a creature she touches to
 **Construction**
 
 **Requirements** Inscribe Rune, *dominate monster*; **Cost** 54,000 gp
+
+## Devil Talismans
+
+### Melancholic Talisman
+
+**Aura** strong conjuration; **CL** 18th
+
+**Slot** neck; **Price** 50,000 gp; **Weight** —
+
+With the power to conjure a hellmouth—a monstrous, semiliving portal connecting two regions of Hell—*melancholic talismans* rely on the power of a greater devil.
+
+These talismans grant the wearer no communication with or power over the devil bound within. Each talisman conjures only a specific hellmouth.
+
+As each end of this worm-like creature connects to a different layer of Hell, the user can call upon either end. Conjured hellmouths are treated as 10-foot-square portals, like those created by *gate*, connecting to one of two layers of Hell (with the two layers fixed when the item is created). While the bearer of a* melancholic talisman* can choose which end of a hellmouth she wishes to summon—and thus which of the two layers of Hell she wishes to open a portal to—the specific location at which each end exits is the same every time (and determined by the GM upon the portal’s first use). The talisman’s wearer can conjure the hellmouth once per day, using it to travel or call creatures through it as per* gate*. The hellmouth remains open for up to 10 minutes or until the talisman’s wearer dismisses it. The hellmouth connects only to Hell, so should the talisman wearer pass through the gate and linger in Hell for more than 10 minutes, the hellmouth closes behind her, trapping her in Hell.
+
+For example, a specific *melancholic talisman* could be linked to a great hellmouth, each of whose two portal-heads appears as a massive snake with three gigantic compound eyes. The hellmouth’s maws connect to a shadowy alley in the city of Dis known as a shadowy street and to an outlying bolgia of Malebolge, where monstrous worms slither through a waist-deep sea of ash. Once per day, the wearer of this talisman can open a 10- foot portal to either of these layers. This portal remains open for 10 minutes (or until dismissed) and functions as per* gate*.
+
+**Construction**
+
+**Requirements** Craft Wondrous Item, *gate*; **Cost** 25,000 gp

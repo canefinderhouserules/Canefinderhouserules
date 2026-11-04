@@ -1310,3 +1310,33 @@ If the ritual succeeds, the vast and alien mind of the Drowned God overwhelms th
 **Backlash** The primary caster takes 1 permanent negative level.
 
 **Failure** All casters take 6d6 points of damage and are exhausted. The primary caster is the target of a *flesh to stone* spell (DC = 16 + the primary caster’s Charisma bonus) but instead of stone the spell turns the caster into the resource used in the material component.EffectThe ritual teleports a specific natural resource from the ritual’s area and transports it adjacent to the primary caster. The natural resource is the same as the material component used in the ritual (for example, using 500 gp of gold as a material component causes the ritual to teleport all gold in the area). The area must be one the primary caster is familiar with and can clearly visualize, although he need not have line of sight or line of effect to the area at the time the ritual is performed. The sudden removal of these resources can cause the ground in the selected area to shift or collapse.
+
+## Other Occult Rituals
+
+### Welcome the Blighted Soul
+
+**School** necromancy [evil]; **Level** 9
+
+**Casting Time** 9 hours (only during the new moon)
+
+**Components** V, S, F (ring of standing stones empowered with necromancy that cost 25,000 gp to create via Craft Wondrous Item), sacrifice (18 living intelligent beings of the same type as the caster, sacrificed every 30 minutes during the ritual’s casting time)
+
+**Skill Checks** Intimidate DC 31, 2 successes; Knowledge (nature) DC 31, 3 successes; Knowledge (religion) DC 31, 4 successes
+
+**Range** touch
+
+**Target** caster
+
+**Effect** NUL
+
+**Duration** instantaneous
+
+**Saving Throw** none; **SR** no
+
+**Backlash** The caster is reduced to -1 hp
+
+**Failure** The caster is immediately slain.
+
+**Effect**
+
+After sacrificing 18 lives (traditionally, these lives are those of unwilling druids who would have tried to stand against the blasphemy the caster is attempting), the caster sacrifices himself and immediately rises from death as a siabrae.

@@ -956,6 +956,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Unwilling Shield](unwilling-shield.md)**
 - **[Veil](veil.md)**: Changes appearance of a group of creatures.
 - **[Vengeful Outrage](vengeful-outrage.md)**: Target is compelled to destroy one enemy.
+- **[What Grows Within](what-grows-within.md)**: By speaking the name “a Great Old One,” you infuse yourself with the essence of the Inmost Blot and gain a +3 …
 - **[Withdraw Affliction](withdraw-affliction.md)**: Remove an affliction and inflict it on another creature.
 
 ## 7th-Level Psychic Spells

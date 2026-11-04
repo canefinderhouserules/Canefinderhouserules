@@ -281,6 +281,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Dragon’s Breath](dragons-breath.md)**: Gives you a dragon’s breath weapon.
 - Earth Glide
 - **[Elemental Body I](elemental-body-i.md)**: Turns you into a Small elemental.
+- **[Elemental Mastery](elemental-mastery.md)**: You gain mastery over the element matching the elemental essence in your blood (fire for ifrits, earth for ore…
 - **[Enervation](enervation.md)**: Subject gains 1d4 negative levels.
 - **[Enlarge Person, Mass](enlarge-person-mass.md)**: 1 humanoid creature/level doubles in size.
 - **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.

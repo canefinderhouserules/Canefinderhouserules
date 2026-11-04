@@ -999,3 +999,7 @@ At 12th level, a beastkin berserker is able to use feral transformation to take 
 **Psychopomp Totem, Greater**: While raging, the barbarian can detect and locate undead creatures within 30 feet, just as if it had the blindsight ability, and any weapons she wields are treated as if they had the ghost touch special ability. A barbarian must have the psychopomp totem rage power and be at least 10th level to select this rage power.
 
 **Unrestrained Rage**: While raging, the barbarian is immune to paralysis. If the barbarian is targeted by an effect that would cause her to become paralyzed, she can enter a rage as an immediate action, as long as she still has rounds of rage remaining. A barbarian must be at least 12th level to select this rage power.
+
+## Other Rage Powers
+
+**Spiritual Awareness**: While raging, the barbarian’s dodge bonus to AC from trap sense applies against attacks made by incorporeal creatures. The barbarian must have trap sense to select this ability.

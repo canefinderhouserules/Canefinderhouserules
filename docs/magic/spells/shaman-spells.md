@@ -192,6 +192,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Pale Flame](pale-flame.md)**: As produce flame, but dim and deals 2d6 + 1/level.
 - **[Pinecone Bomb](pinecone-bomb.md)**: A thrown pinecone explodes for piercing damage.
 - **[Plant Voice](plant-voice.md)**: A plant creature can speak and understand your languages.
+- **[Protection from Spores](protection-from-spores.md)**: With a touch, you bolster a creature’s body to protect it from the harmful effects of spores and similar affli…
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Radiation Ward](radiation-ward.md)**: +4 on saves against radiation; sense radiation levels.
 - **[Raven's Flight](ravens-flight.md)**: Become a Tiny raven shape with fly speed 50 ft. for one turn.
@@ -252,6 +253,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
 - **[Contact High](contact-high.md)**: Share the effects of a drug you are under with others.
 - **[Create Food and Water](create-food-and-water.md)**: Feeds three humans (or one horse)/level.
+- **[Create Soul Gem](create-soul-gem.md)**: You draw forth the ebbing life force of a dying creature or one that has died in the past round, focusing it t…
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
 - **[Curse of Befouled Fortune](curse-of-befouled-fortune.md)**: curse a target so it rolls twice and takes the worse result
 - **[Cursed Treasure](cursed-treasure.md)**: Curse treasure so the next thief is afflicted
@@ -440,6 +442,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 
 ## 5th-Level Shaman Spells
 
+- **[Ancestral Memory](ancestral-memory.md)**: When you cast this spell, you open your mind to the vast experiences of your ancestors in the hope of learning…
 - **[Animal Growth](animal-growth.md)**: One animal doubles in size.
 - **[Baleful Polymorph](baleful-polymorph.md)**: Transforms subject into harmless animal.
 - **[Ban Corruption](ban-corruption.md)**: Eliminate the gifts of nearby corrupted creatures.

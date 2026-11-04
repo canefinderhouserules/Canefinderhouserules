@@ -241,3 +241,5 @@ Here are definitions of some terms used in this section.
 **Character Level**: The total level of the character, which is the sum of all class levels held by that character.
 
 **Class Level**: The level of a character in a particular class. For a character with levels in only one class, class level and character level are the same.
+- [Diabolist](diabolist.md): Though diabolists seek to enslave the forces of Hell and turn them toward goals other than corruption, only the most sta
+- [Mortal Usher](mortal-usher.md): Whether the trouble is a formidable lich draining power from thousands of enslaved ghosts or a qlippoth funneling stolen
