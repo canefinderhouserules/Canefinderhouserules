@@ -1,9 +1,13 @@
 # Greater Two-Weapon Fighting
 
-*(Combat)*
+This feat no longer exists on its own: it is now part of [Improved Two-Weapon Fighting](improved-two-weapon-fighting.md).
 
-You are incredibly skilled at fighting with two weapons at the same time.
+??? note "Original rule"
 
-**Prerequisites**: Dex 19, Improved Two-Weapon Fighting, Two-Weapon Fighting, base attack bonus +11.
+    *(Combat)*
 
-**Benefit**: You get a third attack with your off-hand weapon, albeit at a –10 penalty.
+    You are incredibly skilled at fighting with two weapons at the same time.
+
+    **Prerequisites**: Dex 19, Improved Two-Weapon Fighting, Two-Weapon Fighting, base attack bonus +11.
+
+    **Benefit**: You get a third attack with your off-hand weapon, albeit at a –10 penalty.

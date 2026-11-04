@@ -2,6 +2,14 @@
 
 Choose a skill. You are particularly adept at that skill.
 
-**Benefit**: You get a +3 bonus on all checks involving the chosen skill. If you have 10 or more ranks in that skill, this bonus increases to +6.
+**Benefit**: You get a +3 bonus on all checks involving the chosen skill. If you have 10 or more ranks in that skill, this bonus increases to +6. This bonus also counts as skill ranks for prerequisites. You can take 10 with the chosen skill even in stressful or combat situations.
 
 **Special**: You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new skill.
+
+??? note "Original rule"
+
+    Choose a skill. You are particularly adept at that skill.
+
+    **Benefit**: You get a +3 bonus on all checks involving the chosen skill. If you have 10 or more ranks in that skill, this bonus increases to +6.
+
+    **Special**: You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new skill.

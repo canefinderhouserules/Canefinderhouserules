@@ -150,7 +150,7 @@ The following format is used for all feat descriptions.
 | Feat | Prerequisites | Benefits |
 |---|---|---|
 | Acrobatic | — | +2 bonus on Acrobatics and Fly checks |
-| Agile Maneuvers* | — | Use your Dex bonus when calculating your CMB |
+| Agile Maneuvers | — | Now part of Weapon Finesse |
 | Alertness | — | +2 bonus on Perception and Sense Motive checks |
 | Alignment Channel | Channel energy class feature | Channel energy can heal or harm outsiders |
 | Animal Affinity | — | +2 bonus on Handle Animal and Ride checks |
@@ -163,7 +163,7 @@ The following format is used for all feat descriptions.
 | Athletic | — | +2 bonus on Climb and Swim checks |
 | Augment Summoning | Spell Focus (conjuration) | Summoned creatures gain +4 Str and Con |
 | Blind-Fight* | — | Reroll miss chances for concealment |
-| Catch Off-Guard* | — | No penalties for improvised melee weapons |
+| Catch Off-Guard | — | Now part of Throw Anything |
 | Channel Smite* | Channel energy class feature | Channel energy through your attack |
 | Combat Casting | — | +4 bonus on concentration checks for defensive casting |
 | Combat Expertise* | Int 13 | Trade attack bonus for AC bonus |
@@ -193,14 +193,14 @@ The following format is used for all feat descriptions.
 | Deft Hands | — | +2 bonus on Disable Device and Sleight of Hand checks |
 | Disruptive* | 6th-level fighter | Increases the DC to cast spells adjacent to you |
 | Spellbreaker* | Disruptive, 10th-level fighter | Enemies provoke attacks if their spells fail |
-| Dodge* | Dex 13 | +1 dodge bonus to AC |
-| Mobility* | Dodge | +4 AC against attacks of opportunity from movement |
+| Dodge* | Dex 13 | Dodgility: +1 dodge bonus to AC and +4 against attacks of opportunity from moving |
+| Mobility | Dodge | Now part of Dodgility |
 | Spring Attack* | Mobility, base attack bonus +4 | Move before and after melee attack |
 | Wind Stance* | Dex 15, Dodge, base attack bonus +6 | Gain 20% concealment if you move |
 | Lightning Stance* | Dex 17, Wind Stance, base attack bonus +11 | Gain 50% concealment if you move |
 | Elemental Channel | Channel energy class feature | Channel energy can harm or heal elementals |
-| Endurance | — | +4 bonus on checks to avoid nonlethal damage |
-| Diehard | Endurance | Automatically stabilize and remain conscious below 0 hp |
+| Endurance | — | Now part of Toughness |
+| Diehard | Endurance | Now part of Toughness |
 | Eschew Materials | — | Cast spells without material components |
 | Exotic Weapon Proficiency* | Base attack bonus +1 | No penalty on attacks made with one exotic weapon |
 | Extra Channel | Channel energy class feature | Channel energy two additional times per day |
@@ -216,7 +216,7 @@ The following format is used for all feat descriptions.
 | Improved Counterspell | — | Counterspell with spell of the same school |
 | Improved Critical* | Proficiency with weapon, base attack bonus +8 | Double the threat range of one weapon |
 | Improved Familiar | Ability to acquire a familiar, see feat | Gain a more powerful familiar |
-| Improved Initiative* | — | +4 bonus on initiative checks |
+| Improved Initiative* | — | +4 bonus on initiative checks, and you can take 10 on them |
 | Improved Unarmed Strike* | — | Always considered armed |
 | Deflect Arrows* | Dex 13, Improved Unarmed Strike | Avoid one ranged attack per round |
 | Snatch Arrows* | Dex 15, Deflect Arrows | Catch one ranged attack per round |
@@ -249,15 +249,15 @@ The following format is used for all feat descriptions.
 | Persuasive | — | +2 bonus on Diplomacy and Intimidate checks |
 | Point-Blank Shot* | — | +1 attack and damage on targets within 30 feet |
 | Far Shot* | Point-Blank Shot | Decrease ranged penalties by half |
-| Precise Shot* | Point-Blank Shot | No penalty for shooting into melee |
+| Precise Shot | Point-Blank Shot | Now part of Point-Blank Shot |
 | Improved Precise Shot* | Dex 19, Precise Shot, base attack bonus +11 | No cover or concealment chance on ranged attacks |
 | Pinpoint Targeting* | Improved Precise Shot, base attack bonus +16 | No armor or shield bonus on one ranged attack |
 | Shot on the Run* | Dex 13, Mobility, Point-Blank Shot, base attack bonus +4 | Make ranged attack at any point during movement |
 | Rapid Shot* | Dex 13, Point-Blank Shot | Make one extra ranged attack |
 | Manyshot* | Dex 17, Rapid Shot, base attack bonus +6 | Shoot two arrows simultaneously |
-| Power Attack* | Str 13, base attack bonus +1 | Trade melee attack bonus for damage |
-| Cleave* | Power Attack | Make an additional attack if the first one hits |
-| Great Cleave* | Cleave, base attack bonus +4 | Make an additional attack after each attack hits |
+| Power Attack* | Str 13, base attack bonus +1 | Trade melee attack bonus for damage (no feat needed) |
+| Cleave* | Str 13, base attack bonus +1 | Melee attack against 2 adjacent squares, 3 with a two-handed weapon |
+| Great Cleave* | Cleave, base attack bonus +4 | Cleave no longer costs you 2 AC |
 | Improved Bull Rush* | Power Attack | +2 bonus on bull rush attempts, no attack of opportunity |
 | Greater Bull Rush* | Improved Bull Rush, base attack bonus +6 | Enemies you bull rush provoke attacks of opportunity |
 | Improved Overrun* | Power Attack | +2 bonus on overrun attempts, no attack of opportunity |
@@ -287,20 +287,20 @@ The following format is used for all feat descriptions.
 | Step Up* | Base attack bonus +1 | Take a 5-foot step as an immediate action |
 | Strike Back* | Base attack bonus +11 | Attack foes that strike you while using reach |
 | Throw Anything* | — | No penalties for improvised ranged weapons |
-| Toughness | — | +3 hit points, +1 per Hit Die beyond 3 |
+| Toughness | — | Combines Toughness, Endurance and Diehard |
 | Turn Undead | Channel positive energy class feature | Channel energy can be used to make undead flee |
-| Two-Weapon Fighting* | Dex 15 | Reduce two-weapon fighting penalties |
+| Two-Weapon Fighting* | Dex 14 | Reduce two-weapon fighting penalties |
 | Double Slice* | Two-Weapon Fighting | Add your Str bonus to off-hand damage rolls |
 | Two-Weapon Rend* | Double Slice, Improved Two-Weapon Fighting, base attack bonus +11 | Rend a foe hit by both your weapons |
-| Improved Two-Weapon Fighting* | Dex 17, Two-Weapon Fighting, base attack bonus +6 | Gain additional off-hand attack |
+| Improved Two-Weapon Fighting* | Dex 15, Two-Weapon Fighting, base attack bonus +6 | Second off-hand attack, and a third at base attack bonus +11 |
 | Greater Two-Weapon* | Dex 19, Improved Two-Weapon Fighting, | Gain a third off-hand attack |
 | Fighting | base attack bonus +11 |  |
 | Two-Weapon Defense* | Two-Weapon Fighting | Gain +1 shield bonus when fighting with two weapons |
-| Vital Strike* | Base attack bonus +6 | Deal twice the normal damage on a single attack |
-| Improved Vital Strike* | Vital Strike, base attack bonus +11 | Deal three times the normal damage on a single attack |
-| Greater Vital Strike* | Improved Vital Strike, base attack bonus +16 | Deal four times the normal damage on a single attack |
-| Weapon Finesse* | — | Use Dex instead of Str on attack rolls with light weapons |
-| Weapon Focus* | Proficiency with weapon, base attack bonus +1 | +1 bonus on attack rolls with one weapon |
+| Vital Strike* | base attack bonus +6 | ×3 weapon dice or ×2 fixed damage |
+| Improved Vital Strike* | Vital Strike, base attack bonus +11 | ×4 weapon dice or ×3 fixed damage |
+| Greater Vital Strike* | Improved Vital Strike, base attack bonus +16 | ×5 weapon dice or ×4 fixed damage |
+| Weapon Finesse* | — | Use Dex on attack and damage rolls and on combat maneuvers |
+| Weapon Focus* | Proficiency with weapon group, base attack bonus +1 | +1 base attack bonus with one weapon group |
 | Dazzling Display* | Weapon Focus | Intimidate all foes within 30 feet |
 | Shatter Defenses* | Dazzling Display, base attack bonus +6 | Hindered foes are flat-footed |
 | Deadly Stroke* | Greater Weapon Focus, Shatter Defenses, base attack bonus +11 | Deal double damage plus 1 Con bleed |
@@ -351,12 +351,14 @@ Feats from *Ultimate Magic*. Each name links to its full description.
 | [Create Reliquary Arms and Shields](create-reliquary-arms-and-shields.md) | Item Creation | Craft Magic Arms and Armor, ability to cast consecrate or desecrate |
 | [Create Sanguine Elixir](create-sanguine-elixir.md) | Item Creation | Cha 15, Brew Potion, Craft (alchemy) 12 ranks, sorcerer level 3rd |
 | [Defending Eidolon](defending-eidolon.md) | — | Shield ally feature |
+| [Deft Maneuvers](deft-maneuvers.md) | Combat | Int 10 |
 | [Deny Death](deny-death.md) | — | Ki pool, Endurance |
 | [Detect Expertise](detect-expertise.md) | — | Int 13; ability to cast detect chaos, detect evil, detect good, detect law, or detect magic |
 | [Die for Your Master](die-for-your-master.md) | — | Tumor familiar alchemist discovery |
 | [Divine Interference](divine-interference.md) | — | Divine spellcaster, caster level 10th |
 | [Dragonbane Aura](dragonbane-aura.md) | — | Aura of courage class feature, caster level 8th |
 | [Echoing Spell](echoing-spell.md) | Metamagic | — |
+| [Eclectic Training](eclectic-training.md) | — | Ability to cast spells, Knowledge (arcana or religion) 3 ranks, Spellcraft 3 ranks |
 | [Eldritch Heritage](eldritch-heritage.md) | — | Cha 13, Skill Focus with the class skill of bloodline selected for this feat (see below), character level 3rd |
 | [Ensemble](ensemble.md) | Teamwork | Perform 5 ranks |
 | [Evolved Familiar](evolved-familiar.md) | — | Int 13, Cha 13, familiar class feature |
@@ -383,6 +385,7 @@ Feats from *Ultimate Magic*. Each name links to its full description.
 | [Greater Spell Specialization](greater-spell-specialization.md) | — | Int 13, Spell Focus, Spell Specialization, able to prepare 5th-level spells |
 | [Greater Wild Empathy](greater-wild-empathy.md) | — | Knowledge (nature) 5 ranks, wild empathy class feature |
 | [Implant Bomb](implant-bomb.md) | — | Heal 5 ranks, delayed bomb alchemist discovery |
+| [Improved Coup de Grace](improved-coup-de-grace.md) | Combat | Character level 9th |
 | [Improved Eldritch Heritage](improved-eldritch-heritage.md) | — | Cha 15, Eldritch Heritage, character level 11th |
 | [Improved Monster Lore](improved-monster-lore.md) | — | Monster lore class feature |
 | [Insightful Gaze](insightful-gaze.md) | — | Stern gaze class feature, Sense Motive 5 ranks |
@@ -396,7 +399,11 @@ Feats from *Ultimate Magic*. Each name links to its full description.
 | [Oracular Intuition](oracular-intuition.md) | — | Mystery class feature |
 | [Painful Anchor](painful-anchor.md) | — | Anchoring aura class feature |
 | [Piercing Spell](piercing-spell.md) | Metamagic | — |
+| [Pinpoint Attack](pinpoint-attack.md) | Combat | Base attack bonus +1 |
+| [Pinpoint Mastery](pinpoint-mastery.md) | Combat | Pinpoint Attack, base attack bonus +4 |
 | [Planar Preservationist](planar-preservationist.md) | — | Preservationist alchemist archetype |
+| [Powerful Maneuvers](powerful-maneuvers.md) | Combat | Str 13, base attack bonus +1 |
+| [Powerful Nature](powerful-nature.md) | Combat | Base attack bonus +6 |
 | [Powerful Shape](powerful-shape.md) | — | Wild shape class feature, druid level 8th |
 | [Prodigy](prodigy.md) | — | — |
 | [Prophetic Visionary](prophetic-visionary.md) | — | Mystery class feature |
@@ -522,25 +529,25 @@ Feats from the *Advanced Player's Guide*. Each name links to its full descriptio
 | [Gnome Trickster](gnome-trickster.md) | — | Cha 13, gnome, gnome magic racial trait |
 | [Go Unnoticed](go-unnoticed.md) | — | Dex 13, Small size or smaller |
 | [Greater Blind-Fight](greater-blind-fight.md) | Combat | Perception 15 ranks, Improved BlindFight |
-| [Greater Dirty Trick](greater-dirty-trick.md) | Combat | Int 13, Combat Expertise, Improved Dirty Trick, base attack bonus +6 |
-| [Greater Drag](greater-drag.md) | Combat | Str 13, Improved Drag, Power Attack, base attack bonus +6 |
+| [Greater Dirty Trick](greater-dirty-trick.md) | Combat | Deft Maneuvers, Improved Dirty Trick, base attack bonus +6 |
+| [Greater Drag](greater-drag.md) | Combat | Powerful Maneuvers, Str 13, Improved Drag, Power Attack, base attack bonus +6 |
 | [Greater Elemental Focus](greater-elemental-focus.md) | — | Elemental Focus |
-| [Greater Reposition](greater-reposition.md) | Combat | Int 13, Combat Expertise, Improved Reposition, base attack bonus +6 |
+| [Greater Reposition](greater-reposition.md) | Combat | Deft Maneuvers, Improved Reposition, base attack bonus +6 |
 | [Greater Shield Specialization](greater-shield-specialization.md) | Combat | Proficiency with selected shield, Greater Shield Focus, Shield Focus, Shield Specialization with selected shield, fighter level 12th |
-| [Greater Steal](greater-steal.md) | Combat | Int 13, Combat Expertise, Improved Steal, base attack bonus +6 |
+| [Greater Steal](greater-steal.md) | Combat | Deft Maneuvers, Improved Steal, base attack bonus +6 |
 | [Groundling](groundling.md) | — | Cha 13, gnome, gnome magic racial trait |
 | [Heroic Defiance](heroic-defiance.md) | — | Diehard, Endurance, base Fortitude save +8 |
 | [Heroic Recovery](heroic-recovery.md) | — | Diehard, Endurance, base Fortitude save +4 |
 | [Hero’s Fortune](heros-fortune.md) | — | — |
 | [Improved Blind-Fight](improved-blind-fight.md) | Combat | Perception 10 ranks, Blind-Fight |
-| [Improved Dirty Trick](improved-dirty-trick.md) | Combat | Int 13, Combat Expertise |
+| [Improved Dirty Trick](improved-dirty-trick.md) | Combat | Int 13 |
 | [Improved Drag](improved-drag.md) | Combat | Str 13, Power Attack, base attack bonus +1 |
 | [Improved Ki Throw](improved-ki-throw.md) | Combat | Improved Bull Rush, Ki Throw |
-| [Improved Reposition](improved-reposition.md) | Combat | Int 13, Combat Expertise |
+| [Improved Reposition](improved-reposition.md) | Combat | Int 13 |
 | [Improved Second Chance](improved-second-chance.md) | Combat | Int 13, Combat Expertise, Second Chance, base attack bonus +11 |
 | [Improved Share Spells](improved-share-spells.md) | — | Spellcraft 10 ranks, ability to acquire an animal companion, eidolon, familiar, or special mount |
 | [Improved Sidestep](improved-sidestep.md) | Combat | Dex 15, Dodge, Mobility, Sidestep |
-| [Improved Steal](improved-steal.md) | Combat | Int 13, Combat Expertise |
+| [Improved Steal](improved-steal.md) | Combat | Int 13 |
 | [Improved Stonecunning](improved-stonecunning.md) | — | Wis 13, dwarf, stonecunning racial trait |
 | [In Harm’s Way](in-harm-s-way.md) | Combat | Bodyguard |
 | [Intensified Spell](intensified-spell.md) | Metamagic | — |
@@ -864,7 +871,7 @@ Feats from *Ultimate Combat*. Each name links to its full description.
 | [Channeling Scourge](channeling-scourge.md) | — | Channel energy class feature, inquisitor level 1st |
 | [Charging Hurler](charging-hurler.md) | Combat | Point-Blank Shot |
 | [Chokehold](chokehold.md) | Combat | Improved Grapple, Improved Unarmed Strike, base attack bonus +6 or monk level 5th |
-| [Cleaving Finish](cleaving-finish.md) | Combat | Str 13, Cleave, Power Attack |
+| [Cleaving Finish](cleaving-finish.md) | Combat | Cleave, base attack bonus +6 |
 | [Close-Quarters Thrower](close-quarters-thrower.md) | Combat | Dex 13, Dodge, Weapon Focus with selected thrown weapon |
 | [Clustered Shots](clustered-shots.md) | Combat | Point-Blank Shot, Precise Shot, base attack bonus +6 |
 | [Combat Medic](combat-medic.md) | Teamwork | Heal 5 ranks |
@@ -959,7 +966,7 @@ Feats from *Ultimate Combat*. Each name links to its full description.
 | [Improved Back to Back](improved-back-to-back.md) | Teamwork | Back to Back, Perception 5 ranks |
 | [Improved Called Shot](improved-called-shot.md) | Combat | Int 13, Combat Expertise |
 | [Improved Charging Hurler](improved-charging-hurler.md) | Combat | Charging Hurler, Point-Blank Shot |
-| [Improved Cleaving Finish](improved-cleaving-finish.md) | Combat | Str 13, Cleave, Cleaving Finish, Great Cleave, Power Attack, base attack bonus +6 |
+| [Improved Cleaving Finish](improved-cleaving-finish.md) | Combat | Cleaving Finish, base attack bonus +8 |
 | [Improved Devastating Strike](improved-devastating-strike.md) | Combat | Devastating Strike, Vital Strike, base attack bonus +13 |
 | [Improved Feint Partner](improved-feint-partner.md) | Combat, Teamwork | Bluff 1 rank, Combat Reflexes, Feint Partner, base attack bonus +6 |
 | [Improved Impaling Critical](improved-impaling-critical.md) | Combat, Critical | Impaling Critical, Critical Focus, Weapon Specialization with selected piercing melee weapon, base attack bonus +13 |
@@ -1276,8 +1283,8 @@ Racial feats from the *Advanced Race Guide*. Each feat lists the race it require
 | [Adaptive Fortune](adaptive-fortune.md) | — | Fortunate One, adaptable luck racial trait, character level 10th, halfling |
 | [Agile Tongue](agile-tongue.md) | — | Grippli |
 | [Airy Step](airy-step.md) | — | Sylph |
-| [Angel Wings](angel-wings.md) | — | Angelic Blood, aasimar, character level 10th |
-| [Angelic Blood](angelic-blood.md) | — | Con 13, aasimar |
+| [Angel Wings](angel-wings.md) | — | Aasimar, character level 9th |
+| [Angelic Blood](angelic-blood.md) | — | Now part of Angel Wings |
 | [Angelic Flesh](angelic-flesh.md) | — | Angelic Blood, aasimar |
 | [Aquatic Ancestry](aquatic-ancestry.md) | — | Undine |
 | [Armor of the Pit](armor-of-the-pit.md) | — | Tiefling |
@@ -1305,7 +1312,7 @@ Racial feats from the *Advanced Race Guide*. Each feat lists the race it require
 | [Celestial Servant](celestial-servant.md) | — | Aasimar, animal companion, familiar, or mount class feature |
 | [Channel Force](channel-force.md) | — | Aasimar, channel energy 2d6 |
 | [Claw Pounce](claw-pounce.md) | Combat | Str 13, Dex 15, Nimble Striker, base attack bonus +10, catfolk, cat’s claws racial trait or Aspect of the Beast (claws of the beast manifestation) |
-| [Cleave Through](cleave-through.md) | Combat | Str 13, Cleave, Power Attack, base attack bonus +11, dwarf |
+| [Cleave Through](cleave-through.md) | Combat | Cleaving Finish, base attack bonus +6 |
 | [Cloud Gazer](cloud-gazer.md) | — | Sylph |
 | [Cloven Helm](cloven-helm.md) | Combat | Dented Helm, Hard-Headed, base attack bonus +11, dwarf |
 | [Courageous Resolve](courageous-resolve.md) | — | Craven racial trait or fearless racial trait, half ling |
@@ -1354,7 +1361,7 @@ Racial feats from the *Advanced Race Guide*. Each feat lists the race it require
 | [Gloom Sight](gloom-sight.md) | — | Fetchling |
 | [Gloom Strike](gloom-strike.md) | Combat | Blind-Fight, fetchling |
 | [Gnome Weapon Focus](gnome-weapon-focus.md) | Combat | Base attack bonus +1, gnome, proficient with all martial weapons |
-| [Goblin Cleaver](goblin-cleaver.md) | Combat | Str 13, Cleave, Power Attack, dwarf |
+| [Cleaver](goblin-cleaver.md) | Combat | Cleave, base attack bonus +4 |
 | [Goblin Gunslinger](goblin-gunslinger.md) | Combat | Goblin |
 | [Gore Fiend](gore-fiend.md) | — | Half-orc or orc, rage class feature |
 | [Grasping Tail](grasping-tail.md) | — | Tiefling |
@@ -1522,7 +1529,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Ancient Kingdom Scholar](ancient-kingdom-scholar.md) | — | Knowledge (history) 4 ranks, Knowledge (local) 4 ranks, speaks the kingdom’s modern and ancient languages |
 | [Ancient Tradition](ancient-tradition.md) | — | Knowledge (history) 3 ranks, must have a connection to a lost culture (see text) |
 | [Angelbane Strike](angelbane-strike.md) | — | Channel Smite, divine caster level 5th, channel negative energy class feature, evil patron deity |
-| [Animal Ally](animal-ally.md) | — | Nature Soul, character level 4th, must not have an animal companion or mount that advances as an animal companion |
+| [Animal Ally](animal-ally.md) | — | character level 4th, must not have an animal companion or mount that advances as an animal companion |
 | [Ankle Biter](ankle-biter.md) | Combat | Goblin, Escape Artist 1 rank |
 | [Anti-Divine Assault](anti-divine-assault.md) | Combat | Bluff 1 rank, Knowledge (religion) 1 rank, must have been trained to oppose divine servitors |
 | [Aphotic Explorer](aphotic-explorer.md) | — | Endurance, gillman |
@@ -2763,7 +2770,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Piercing Grapple](piercing-grapple.md) | Combat | Dex 13, Improved Grapple, Improved Unarmed Strike, Quick Draw, Intimidate 7 ranks |
 | [Pile On](pile-on.md) | Combat | Str 13, [Hurtful](hurtful.md), Power Attack |
 | [Pinpoint Jab](pinpoint-jab.md) | Combat | Improved Unarmed Strike, base attack bonus +6, ki pool or martial flexibility class feature |
-| [Piranha Strike](piranha-strike.md) | Combat | Weapon Finesse, base attack bonus +1 |
+| [Piranha Strike](piranha-strike.md) | Combat | Dex 13, Weapon Finesse, base attack bonus +1 |
 | [Plague Resistance](plague-resistance.md) | — | Constitution 13 |
 | [Planar Focus](planar-focus.md) | General | Knowledge (planes) 5 ranks, animal focus class feature |
 | [Planar Heritage](planar-heritage.md) | — | Human |
@@ -2997,6 +3004,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Shifting Patterns](shifting-patterns.md) | — | Spell Focus (illusion), caster level 5th |
 | [Shikigami Manipulation](shikigami-manipulation.md) | — | Catch Off-Guard or Throw Anything, Shikigami Mimicry, Shikigami Style, Use Magic Device 5 ranks |
 | [Shikigami Mimicry](shikigami-mimicry.md) | — | Catch Off- Guard or Throw Anything, Shikigami Style |
+| [Shikigami Style](shikigami-style.md) | Combat, Style | Throw Anything |
 | [Shingle Runner](shingle-runner.md) | — | Dex 13, Acrobatic |
 | [Shocking Amplification](shocking-amplification.md) | — | — |
 | [Shocking Bellow](shocking-bellow.md) | Combat | Intimidating Prowess |

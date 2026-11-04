@@ -129,7 +129,7 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Startling Report**: Through either perfect timing or the determination of your action, the sound of your firearm going off sets your enemies on edge. When you shoot a firearm, you gain a +2 trait bonus on Intimidate checks for 1 round against those who heard the shot.
 
-**Surprise Weapon**: You are skilled at fighting with objects not traditionally considered weapons. You gain a +2 trait bonus on attack rolls with improvised weapons.
+**Surprise Weapon**: You are skilled at fighting with objects not traditionally considered weapons. You gain a +1 trait bonus on attack rolls with improvised weapons.
 
 **Tactician**: You know how to take advantage of enemies who are unprepared for your assault. You gain a +1 trait bonus on initiative checks. In addition, once per day when you make an attack of opportunity, you gain a +2 trait bonus on the attack roll.
 
@@ -412,8 +412,6 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 **Low Blow**: When targeting a good-aligned creature with a spell or spell-like ability with the pain descriptor or that imposes a morale penalty, increase its effective caster level by 1. If you are of an evil alignment, increase the save DC of the effect by 1 as well.
 
 **Magic Crafter**: Your early magical training involved study of the properties and creation of magic items. You gain a +1 trait bonus on Appraise checks and a +1 bonus on any Craft checks attempted while making magic items.
-
-**Magical Lineage**: One of your parents was a gifted spellcaster who not only used metamagic often, but also developed many magical items and perhaps even a new spell or two—and you have inherited a fragment of this greatness. Pick one spell when you choose this trait. When you apply metamagic feats to this spell that add at least 1 level to the spell, treat its actual level as 1 lower for determining the spell’s final adjusted level.
 
 **Malleable Magic**: Once per day as a swift action, you can lose a single 1st-, 2nd- or 3rd-level magus spell to regain 1 arcane pool point. You can’t exceed the maximum number of arcane pool points in your arcane pool by using this trait.
 

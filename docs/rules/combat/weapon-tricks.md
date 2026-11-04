@@ -64,7 +64,7 @@ You can use these tricks only while wielding two weapons.
 
 **Arm Bind (Two-Weapon Defense, Two-Weapon Fighting)**: You can attempt a combat maneuver check to disarm a foe even if the foe has no weapons. This functions as the disarm combat maneuver. If you succeed and the foe has no weapon, you ensnare an arm of your choice, preventing your foe from using that limb until the end of your next turn. A foe can take a standard action to free its arm.
 
-**Dual Strike (Double Slice, Improved Vital Strike)**: As a standard action, you can make two attacks, one with each weapon you’re wielding, applying the normal penalties for two-weapon fighting to each.
+**Dual Strike (Double Slice)**: As a standard action, you can make two attacks, one with each weapon you’re wielding, applying the normal penalties for two-weapon fighting to each.
 
 **Off-Hand Opportunity (Combat Reflexes)**: You can make one additional attack of opportunity each round with your off-hand weapon.
 

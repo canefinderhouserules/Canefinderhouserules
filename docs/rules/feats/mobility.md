@@ -1,11 +1,15 @@
 # Mobility
 
-*(Combat)*
+This feat no longer exists on its own: it is now part of [Dodgility](dodge.md).
 
-You can easily move through a dangerous melee.
+??? note "Original rule"
 
-**Prerequisites**: Dex 13, Dodge.
+    *(Combat)*
 
-**Benefit**: You get a +4 dodge bonus to Armor Class against attacks of opportunity caused when you move out of or within a threatened area. A condition that makes you lose your Dexterity bonus to Armor Class (if any) also makes you lose dodge bonuses.
+    You can easily move through a dangerous melee.
 
-Dodge bonuses stack with each other, unlike most types of bonuses.
+    **Prerequisites**: Dex 13, Dodge.
+
+    **Benefit**: You get a +4 dodge bonus to Armor Class against attacks of opportunity caused when you move out of or within a threatened area. A condition that makes you lose your Dexterity bonus to Armor Class (if any) also makes you lose dodge bonuses.
+
+    Dodge bonuses stack with each other, unlike most types of bonuses.

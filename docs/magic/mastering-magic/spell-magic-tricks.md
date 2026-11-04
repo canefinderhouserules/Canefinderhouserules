@@ -22,7 +22,7 @@ You must have the Magic Trick (daylight) feat to use these tricks.
 
 ## Fireball Tricks
 
-You must have the Magic Trick (fireball) feat to use these tricks.
+You must have the Magic Trick (fireball) feat to use these tricks. You can choose only 1 trick at a time.
 
 **Alchemist's Inferno (Craft [alchemy] 9 ranks, Spellcraft 9 ranks)**: Using alchemist's fire as a material component, your fireball sets everything it touches ablaze. The initial blast deals half as much damage, but targets that fail their Reflex saves also catch fire. A creature that catches fire in this way must attempt a Reflex save against the DC of the fireball spell to stop burning instead of the typical DC. Unattended objects automatically catch fire, though nonflammable objects burn for only 1 additional round.
 
