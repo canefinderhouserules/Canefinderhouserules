@@ -4,16 +4,16 @@
 
 | Armor | Cost | Armor/Shield Bonus | Max Dex Bonus | Armor Check Penalty | Arcane Spell Failure | Speed (30 ft.) | Speed (20 ft.) | Weight |
 |---|---|---|---|---|---|---|---|---|
-| *Light armor* ||||||||
+| *Light armor* | | | | | | | | |
 | Reinforced tunic | 1 gp | +1 | +5 | 0 | 5% | 30 ft. | 20 ft. | 5 lbs. |
 | Spider-silk bodysuit | 850 gp | +3 | +6 | –1 | 10% | 30 ft. | 20 ft. | 4 lbs. |
 | Dancing scarves | 150 gp | see text | — | 0 | — | 30 ft. | 20 ft. | 8 lbs. |
-| *Medium armor* ||||||||
+| *Medium armor* | | | | | | | | |
 | Chain coat | 75 gp | +4 | +5 | –2 | 30% | 20 ft. | 15 ft. | 40 lbs. |
 | Arctic coat | 80 gp | +4 | +3 | –2 | 20% | 20 ft. | 15 ft. | 24 lbs. |
-| *Heavy armor* ||||||||
+| *Heavy armor* | | | | | | | | |
 | Fortress plate | 2,100 gp | +8 | +0 | –7 | 40% | 20 ft. | 15 ft. | 75 lbs. |
-| *Shields* ||||||||
+| *Shields* | | | | | | | | |
 | Snarlshield, steel | 50 gp | +2 | — | –3 | 15% | — | — | 20 lbs. |
 | Snarlshield, wooden | 37 gp | +2 | — | –3 | 15% | — | — | 15 lbs. |
 | War-shield, dwarven | 50 gp | +1 | — | –1 | 20% | — | — | 8 lbs. |

@@ -2340,6 +2340,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Harvest Parts](harvest-parts.md) | — | Craft (any) 1 rank or Heal 1 rank |
 | [Haunt Scavenger](haunt-scavenger.md) | Item Creation | Any one item creation feat or Craft (alchemy) 3 ranks |
 | [Healer's Hands](healers-hands.md) | Conduit | Heal 1 rank, Knowledge (planes) 1 rank |
+| [Healer’s Touch](healers-touch.md) | Achievement | Cure a cumulative total of 1,000 points of damage for other creatures using healing spells |
 | [Healing Potion](healing-potion.md) | Versatile Brewing | Brew Potion, ability to cast *cure serious wounds* |
 | [Heaven's Light](heavens-light.md) | Conduit | Knowledge (planes) 1 rank |
 | [Heaven’s Step](heavens-step.md) | Combat | Dex 15, Following Step, Step Up, Step Up and Strike, Two-Weapon Fighting, base attack bonus +10 |

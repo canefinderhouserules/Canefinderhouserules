@@ -48,4 +48,4 @@ Intelligent, strong willed, and fast as the wind, zefaheens are silvery gray in 
 
 **Desert Walker (Ex)** A zefaheen suffers no harm from hot environments, and it never treats natural desert terrain as difficult terrain. It gains a +4 bonus on all Survival checks made while in a desert. A zefaheen does not leave tracks in a desert, as if under the effects of *pass without trace*.
 
-**Sand Sense (Ex)** A zefaheen gains a +5 racial bonus on Perception checks in sandy desert environments, as well as a +2 racial bonus on Will saves against illusions (including mirages). The zefaheen can see through mist or sandstorm winds" />
+**Sand Sense (Ex)** A zefaheen gains a +5 racial bonus on Perception checks in sandy desert environments, as well as a +2 racial bonus on Will saves against illusions (including mirages). The zefaheen can see through mist or sandstorm winds.

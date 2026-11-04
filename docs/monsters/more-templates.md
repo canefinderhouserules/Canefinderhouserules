@@ -496,7 +496,9 @@ An element-infused creature can select a number of movement abilities (see the S
 | 10-12 | 1 | 2 | 1 | 2 |
 | 13-15 | 1 | 2 | 2 | 2 |
 | 16-18 | 1 | 2 | 2 | 3 |
-| 19+ | 1 | 3 | 2 | 3 | **CR**: If 9 HD or fewer, base creature’s CR + 1; if 10 HD or more, base creature’s + 2. |
+| 19+ | 1 | 3 | 2 | 3 |
+
+**CR**: If 9 HD or fewer, base creature’s CR + 1; if 10 HD or more, base creature’s + 2.
 
 **Type**: The creature’s type chances to outsider (native). In addition, the creature gains the air, earth, fire, or water subtypes corresponding to its element or elements. Do not recalculate HD, BAB, or saves.
 
@@ -722,13 +724,15 @@ For the purpose of calculating the save DCs and damage for her kineticist abilit
 
 **Spell-Like Abilities**: A fey animal has a cumulative number of spell-like abilities set by its HD. Unless otherwise noted, an ability is usable 1/day. The CL equals the fey animal’s CR.
 
-| **HD ****Spell-Like Abilities** |
-|---|
+| HD | Spell-Like Abilities |
+|---|---|
 | 1–3 | *charm person*,* faerie fire* |
 | 4–6 | *fly* (3/day), *tree shape* |
 | 7–9 | *charm monster*,* hallucinatory terrain* |
 | 10–13 | *polymorph* (3/day), *summon nature’s ally IV* |
-| 14–16 | *feeblemind*,* transport via plants* |
+| 14–16 |
+
+*feeblemind*,* transport via plants*
 | 17 or higher | *mass charm monster*,* summon nature’s ally VIII* |
 
 **Abilities**: Dex +4, Int +10 (to a maximum score of 12), Wis +2, Cha +4.
@@ -950,7 +954,9 @@ Caster level equals the creature’s level, and the save DC is Charisma-based.
 | 3-6 | *Enlarge person* or* reduce person* 2/day in any combination |
 | 7-8 | *Invisibility* (self only) 3/day |
 | 9-14 | *Create food and water* 1/day |
-| 15-16 | *Ethereal jaunt* 1/day |**Special Qualities**: A half-janni has all the special qualities of the base creature, plus the following special qualities.Darkvision out to 60 feetImmunity to diseaseFire resistance 10**Abilities**: Increase from the base creature as follows: Str +2, Dex +2, Int +2, Wis +4, Cha +4 |
+| 15-16 | *Ethereal jaunt* 1/day |
+
+**Special Qualities**: A half-janni has all the special qualities of the base creature, plus the following special qualities.Darkvision out to 60 feetImmunity to diseaseFire resistance 10**Abilities**: Increase from the base creature as follows: Str +2, Dex +2, Int +2, Wis +4, Cha +4
 
 **Challenge Rating**: Same as base creature +2
 
@@ -2503,7 +2509,9 @@ Under the influence of the cold rider, the frigid clutch of winter’s malice en
 | Large | 1d8 |
 | Huge | 2d6 |
 | Gargantuan | 3d6 |
-| Colossal | 4d6 |**Special Attacks**: A dark ice creature retains the base creature’s special attacks and gains the ones listed below: |
+| Colossal | 4d6 |
+
+**Special Attacks**: A dark ice creature retains the base creature’s special attacks and gains the ones listed below:
 
 *Frigid Touch (Su)* Once per day, a dark ice creature may make a touch attack against a foe to deal 1d6 points of Dexterity damage by freezing its blood in its veins and numbing its bones.
 
@@ -2551,7 +2559,9 @@ The mummification process of ancient the desert kingdom results in a variant mum
 | 5-6 | Acid |
 | 7-8 | Cold |
 | 9 | Electricity |
-| 10 | Sonic | As an emergency safeguard, it was common for the necromantic embalmers of ancient the desert kingdom to subtly mark the particular energy type to which the mummy would be vulnerable with a separate hieroglyph someplace inconspicuously on the mummy’s body or wrappings. A DC 20 Spot check uncovers the mark, but unless the viewer is capable of comprehending its meaning a DC 20 Decipher Script check is required to unlock its secret. |
+| 10 | Sonic |
+
+As an emergency safeguard, it was common for the necromantic embalmers of ancient the desert kingdom to subtly mark the particular energy type to which the mummy would be vulnerable with a separate hieroglyph someplace inconspicuously on the mummy’s body or wrappings. A DC 20 Spot check uncovers the mark, but unless the viewer is capable of comprehending its meaning a DC 20 Decipher Script check is required to unlock its secret.
 
 **Speed**: A desert mummy’s speeds all decrease by 10 feet (minimum 5 feet). If the base creature has a flight speed its maneuverability class worsenes by one step, to a minimum of clumsy.
 
@@ -2569,7 +2579,9 @@ The mummification process of ancient the desert kingdom results in a variant mum
 | Large | 1d8 |
 | Huge | 2d6 |
 | Gargantuan | 2d8 |
-| Colossal | 4d6 | **Special Attacks**: A desert mummy retains the base creature’s special attacks and also gains the following. |
+| Colossal | 4d6 |
+
+**Special Attacks**: A desert mummy retains the base creature’s special attacks and also gains the following.
 
 *Dust Stroke (Su)* A successful natural or slam attack by an desert mummy that drops its victim’s hit points to below -9 does more than just kill the victim, it also disintegrates the victim’s body into a cloud of dust and ash. A* raise dead* spell cannot bring back the victim, but a* resurrection* still works.
 
@@ -2619,7 +2631,9 @@ Granule construct swarms are the product of powerful artificers pushing the boun
 | Large | 1d8 |
 | Huge | 2d6 |
 | Gargantuan | 2d8 |
-| Colossal | 4d6 |**Special Attack**: A granule construct host retains all the special attacks of the base creature and gains infest. |
+| Colossal | 4d6 |
+
+**Special Attack**: A granule construct host retains all the special attacks of the base creature and gains infest.
 
 *Infest (Ex)*: Once per week, a granule construct host may make a touch attack to allow the swarm inhabiting it to split and infest another creature. If it succeeds, both creatures become infested, otherwise the granule constructs remain in the pre-existing host.
 

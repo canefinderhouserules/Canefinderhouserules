@@ -88,4 +88,5 @@ When the pirate isles pirate creates a fogcraft, she can chose its size from any
 | Sailing Ship | 6 | 30 | 220 | 4 hours | +8 |
 | Warship | 6 | 32 | 240 | 2 hours | +6 |
 | Galley | 4 | 34 | 450 | 2 hours | +4 |
-| 1 Including the pirate isles pirate herself.
+
+1 Including the pirate herself.

@@ -100,5 +100,5 @@
 | (Exotic – Eastern) Ranged Weapons | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weight 1 | Type 2 | Special | Source |
 |---|---|---|---|---|---|---|---|---|---|
 | Chakram, crystal | 20 gp | 1d4 | 1d6 | 18-20/x2 | — | 2 lbs. | S | — | PCh:CHR |
-| Rope dart | 1 gp | 1d3 | 1d4 | ×2 | 20 ft. | — | P | blocking , distracting , monk |
+| Rope dart | 1 gp | 1d3 | 1d4 | ×2 | 20 ft. | — | P | blocking, distracting, monk | — |
 

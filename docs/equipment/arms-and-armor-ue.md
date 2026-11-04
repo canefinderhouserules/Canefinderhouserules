@@ -6,9 +6,9 @@ These armors, shields, weapons and ammunition follow the same rules as those pre
 
 | Armor | Cost | Armor/Shield Bonus | Max Dex Bonus | Armor Check Penalty | Arcane Spell Failure | Speed (30 ft.) | Speed (20 ft.) | Weight |
 |---|---|---|---|---|---|---|---|---|
-| *Light armor* ||||||||
+| *Light armor* | | | | | | | | |
 | Parade | 25 gp | +3 | +5 | –1 | 15% | 30 ft. | 20 ft. | 20 lbs. |
-| *Heavy armor* ||||||||
+| *Heavy armor* | | | | | | | | |
 | Stoneplate | 1,800 gp | +9 | +1 | –6 | 35% | 15 ft.¹ | 10 ft.¹ | 75 lbs. |
 
 Spiked light and heavy shields have the same armor statistics as the shield they are built on (see the weapon table below for the cost of the spikes and the damage they deal). Weight figures are for armor sized to fit Medium characters. Armor fitted for Small characters weighs half as much, and armor fitted for Large characters weighs twice as much.
@@ -35,12 +35,12 @@ Spiked shields are intimidating weapons, and can have a single protruding centra
 
 | Weapon | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weight | Type | Special |
 |---|---|---|---|---|---|---|---|---|
-| *Martial melee weapons* ||||||||
+| *Martial melee weapons* | | | | | | | | |
 | Spiked light shield | +50 gp | 1d3 | 1d4 | ×2 | — | special | P | — |
 | Spiked heavy shield | +50 gp | 1d4 | 1d6 | ×2 | — | special | P | — |
-| *Exotic melee weapons* ||||||||
+| *Exotic melee weapons* | | | | | | | | |
 | Double-chained kama | 8 gp | 1d4/1d4 | 1d6/1d6 | ×2 | — | 4 lbs. | S | see text |
-| *Exotic ranged weapons* ||||||||
+| *Exotic ranged weapons* | | | | | | | | |
 | Repeating hand crossbow | 800 gp | 1d3 | 1d4 | 19–20/×2 | 30 ft. | 4 lbs. | P | — |
 | Snag net | 30 gp | — | — | — | 10 ft. | 10 lbs. | P | trip, see text |
 

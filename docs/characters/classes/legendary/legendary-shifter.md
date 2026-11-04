@@ -49,14 +49,14 @@ The legendary shifter’s class skills are Acrobatics (Dex), Climb (Str), Craft 
 | 10th | +10/+5 | +7 | +7 | +3 | Lightning shift | 1d10 |
 | 11th | +11/+6/+1 | +7 | +7 | +3 | Shifter evolution (alignment) | 1d10 |
 | 12th | +12/+7/+2 | +8 | +8 | +4 | Bonus feat, defensive instinct (+3) | 2d6 |
-| 13th | +13/+8/+3 | +8 | +8 | +4 | Additional aspect | 1d6 |
-| 14th | +14/+9/+4 | +9 | +9 | +4 | Greater chimeric aspect | 1d6 |
-| 15th | +15/+10/+5 | +9 | +9 | +5 | Shifter evolution (adamantine) | 1d6 |
+| 13th | +13/+8/+3 | +8 | +8 | +4 | Additional aspect | 2d6 |
+| 14th | +14/+9/+4 | +9 | +9 | +4 | Greater chimeric aspect | 2d6 |
+| 15th | +15/+10/+5 | +9 | +9 | +5 | Shifter evolution (adamantine) | 2d6 |
 | 16th | +16/+11/+6/+1 | +10 | +10 | +5 | Bonus feat, defensive instinct (+4) | 2d8 |
-| 17th | +17/+12/+7/+2 | +10 | +10 | +5 | Additional aspect | 1d8 |
-| 18th | +18/+13/+8/+3 | +11 | +11 | +6 | Instant shift | 1d8 |
-| 19th | +19/+14/+9/+4 | +11 | +11 | +6 | Shifter evolution (—) | 1d8 |
-| 20th | +20/+15/+10/+5 | +12 | +12 | +6 | Bonus feat, defensive instinct (+5), master of many forms | 1d10 |
+| 17th | +17/+12/+7/+2 | +10 | +10 | +5 | Additional aspect | 2d8 |
+| 18th | +18/+13/+8/+3 | +11 | +11 | +6 | Instant shift | 2d8 |
+| 19th | +19/+14/+9/+4 | +11 | +11 | +6 | Shifter evolution (—) | 2d8 |
+| 20th | +20/+15/+10/+5 | +12 | +12 | +6 | Bonus feat, defensive instinct (+5), master of many forms | 2d10 |
 
 ### Class features
 
