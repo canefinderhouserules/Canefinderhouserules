@@ -178,7 +178,7 @@
 - **[See Alignment](see-alignment.md)**: Pick an alignment; in your sight, creatures and items with that alignment emit a ghostly radiance.
 - **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
 - **[Shadowfade](shadowfade.md)**: Target is invisible to darkvision in darkness.
-- **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
+- **[Shield](shield.md)**: Invisible disc gives +3 to AC, blocks *magic missiles.*
 
 **Conjuration**
 
@@ -233,7 +233,7 @@
 
 - **[Burning Hands](burning-hands.md)**: 1d4/level fire damage (max 5d4).
 - **[Floating Disk](floating-disk.md)**: Creates 3-ft.-diameter horizontal disk that holds 100 lbs./level.
-- **[Magic Missile](magic-missile.md)**: 1d4+1 damage; +1 missile per two levels above 1st (max 5).
+- **[Magic Missile](magic-missile.md)**: 1d4+2 damage; +1 missile per two levels above 1st (max 5).
 - **[Shocking Grasp](shocking-grasp.md)**: Touch delivers 1d6/level electricity damage (max 5d6).
 
 **Illusion**
@@ -848,7 +848,7 @@
 - **[Flame Arrow](flame-arrow.md)**: Arrows deal +1d6 fire damage.
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
-- **[Haste](haste.md)**: One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
+- **[Haste](haste.md)**: One creature moves faster, gains an extra attack and +1 on attack rolls, AC, and Reflex saves, and can quicken a spell once per turn.
 - **[Keen Edge](keen-edge.md)**: Doubles normal weapon’s threat range.
 - **[Magic Weapon, Greater](magic-weapon-greater.md)**: Weapon gains +1 bonus/four levels (max +5).
 - **[Secret Page](secret-page.md)**: Changes one page to hide its real content.
@@ -936,6 +936,7 @@
 - **[Gravel Vortex](gravel-vortex.md)**: A hail of rock damages an area and leaves dust and difficult terrain.
 - **[Greater Hypnotism](greater-hypnotism.md)**: hypnotize more creatures and make several requests
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
+- **[Haste, Area](haste.md)**: As *haste*, but affects one creature/level, no two more than 30 ft. apart.
 - **[Hellmouth Lash](hellmouth-lash.md)**: Upon casting this spell, your tongue transforms into an energy whip weapon that can deal acid, electricity.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Homeward Bound](homeward-bound.md)**: Return a creature to its home plane

@@ -14,7 +14,7 @@ Many are the names of the genies, and so similar that most cannot discern them. 
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
 |---|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Elemental focus, genie-tongue | — |
+| 1st | +0 | +0 | +0 | +1 | Elemental focus, genie-tongue | +1 level of existing arcane spellcasting class |
 | 2nd | +1 | +1 | +1 | +1 | Spell-fetch (3rd) | +1 level of existing arcane spellcasting class |
 | 3rd | +1 | +1 | +1 | +2 | Genie’s friend (+2) | +1 level of existing arcane spellcasting class |
 | 4th | +2 | +1 | +1 | +2 | Elemental attunement | +1 level of existing arcane spellcasting class |
@@ -29,15 +29,25 @@ Many are the names of the genies, and so similar that most cannot discern them. 
 
 To qualify to become a daivrat, a character must fulfill all the following criteria.
 
-**Skills**: Knowledge (arcana) 7 ranks, Knowledge (planes) 7 ranks, Spellcraft 5 ranks.
+**Skills**: Knowledge (arcana) 3 ranks, Knowledge (planes) 3 ranks, Spellcraft 3 ranks.
 
-**Feats**: Spell Focus (conjuration).
-
-**Spellcasting**: Ability to cast 3rd-level spells.
+**Spellcasting**: Caster level 1st.
 
 **Languages**: Aquan, Auran, Ignan or Terran.
 
 **Special**: The character must have had peaceful contact with a true genie (djinni, efreeti, marid, or shaitan).
+
+??? note "Original requirements"
+
+    **Skills**: Knowledge (arcana) 7 ranks, Knowledge (planes) 7 ranks, Spellcraft 5 ranks.
+
+    **Feats**: Spell Focus (conjuration).
+
+    **Spellcasting**: Ability to cast 3rd-level spells.
+
+    **Languages**: Aquan, Auran, Ignan or Terran.
+
+    **Special**: The character must have had peaceful contact with a true genie (djinni, efreeti, marid, or shaitan).
 
 ### Class Skills
 
@@ -51,6 +61,8 @@ All of the following are class features of the daivrat prestige class.
 
 **Weapon and Armor Proficiency**: A daivrat gains no proficiency with any weapon or armor.
 
+**Spell Focus**: At 1st level, a daivrat gains Spell Focus (conjuration) as a bonus feat.
+
 **Spells**: At the indicated levels, a daivrat gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a daivrat, he must decide to which class he adds the new level for purposes of determining spells per day.
 
 **Elemental Focus (Su)**: At 1st level, the daivrat gains a measure of connection with elemental powers. Choose one of the following descriptors: acid, air, cold, earth, electricity, fire, or water. When casting spells of the chosen descriptor, the daivrat is considered to possess the Spell Focus feat for that spell. Only one Spell Focus or Greater Spell Focus applies to the casting of a spell.
@@ -63,7 +75,11 @@ If the daivrat casts spells like a wizard, for the next 24 hours he can prepare 
 
 At 2nd level, the genie can retrieve any spell of 3rd level or lower. At 5th level, the genie can retrieve any spell of 6th level or lower. At 8th level, the genie can retrieve any spell of 8th level or lower. The genie is incorporeal and has no other powers or abilities (it cannot be used to scout, send messages, and so on) and vanishes once it delivers the spell.
 
-Preparing or casting the fetched spell is more difficult than using spells the daivrat actually knows. If the fetched spell is on the daivrat’s spellcasting class’s spell list, it is treated as 1 spell level higher than normal; otherwise it is treated as 2 spell levels higher than normal.
+Preparing or casting the fetched spell does not increase its spell level.
+
+??? note "Original rule"
+
+    Preparing or casting the fetched spell is more difficult than using spells the daivrat actually knows. If the fetched spell is on the daivrat’s spellcasting class’s spell list, it is treated as 1 spell level higher than normal; otherwise it is treated as 2 spell levels higher than normal.
 
 **Genie’s Friend (Su)**: At 3rd level, a daivrat gains a +2 bonus to his caster level when conjuring genies. At 9th level, this bonus increases to +4.
 

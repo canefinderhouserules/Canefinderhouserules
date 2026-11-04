@@ -29,9 +29,19 @@ To qualify to become a crimson templar, a character must fulfill all of the foll
 
 **Deity**: Must worship a deity whose portfolio includes chivalry, duty, or vengeance.
 
-**Base Attack Bonus**: +6.
+**Base Attack Bonus**: +4.
 
-**Feats**: Exotic Weapon Proficiency (bastard sword), Power Attack, Vital Strike.
+**Feats**: Exotic Weapon Proficiency (bastard sword), Power Attack.
+
+??? note "Original requirements"
+
+    **Alignment**: Lawful good.
+
+    **Deity**: Must worship a deity whose portfolio includes chivalry, duty, or vengeance.
+
+    **Base Attack Bonus**: +6.
+
+    **Feats**: Exotic Weapon Proficiency (bastard sword), Power Attack, Vital Strike.
 
 ### Class Skills
 
@@ -53,8 +63,16 @@ The following are class features of the crimson templar prestige class.
 
 **Bonus Feat**: At 1st level, 3rd level, 4th level, 6th level, 7th level, 9th level, and 10th level, the crimson templar gains a bonus combat feat. He must still meet any prerequisites for these bonus feats.
 
-**Heavenly Fire (Su)**: At 4th level, the crimson templar can incinerate unaware evil foes with pure celestial flame. If the crimson templar deals sneak attack damage to a creature he has successfully used his fiendish studies ability on, the sneak attack wreathes the target in crimson fire. The target must attempt a Fortitude saving throw (DC = 10 + the crimson templar's class level + his Charisma modifier). If the target fails this save, it takes an additional 1d6 points of damage per class level the crimson templar has. Half of this damage is fire damage, but the other half results directly from divine power and is therefore not subject to being reduced by resistance or immunity to fire-based attacks. On a successful save, the target takes the sneak attack damage as normal but does not take any of the heavenly fire damage. A crimson templar can use heavenly fire a number of times per day equal to his crimson templar level.
+**Heavenly Fire (Su)**: At 4th level, the crimson templar can incinerate unaware evil foes with pure celestial flame. If the crimson templar deals sneak attack damage to a creature he has successfully used his fiendish studies ability on, the sneak attack wreathes the target in crimson fire. The target must attempt a Fortitude saving throw (DC = 10 + the crimson templar's class level + his Charisma modifier). If the target fails this save, it takes an additional 1d6 points of damage per class level the crimson templar has. Half of this damage is fire damage, but the other half results directly from divine power and is therefore not subject to being reduced by resistance or immunity to fire-based attacks. On a successful save, the target takes the sneak attack damage as normal and half of the heavenly fire damage. A crimson templar can use heavenly fire a number of times per day equal to his crimson templar level.
 
-**Immolate (Su)**: At 7th level, whenever the crimson templar reduces a creature with an evil alignment to negative hit points with a sneak attack or coup de grace, the target must attempt a Fortitude saving throw (DC = 10 + the crimson templar's class level + his Charisma modifier). If the target fails this save, it is entirely disintegrated, leaving behind only a trace of fine ash (as per *disintegrate*). If an evil target is reduced to negative hit points from the heavenly fire ability, it receives no saving throw against this effect. This ability has no effect if the target does not have an evil alignment.
+??? note "Original rule"
+
+    **Heavenly Fire (Su)**: At 4th level, the crimson templar can incinerate unaware evil foes with pure celestial flame. If the crimson templar deals sneak attack damage to a creature he has successfully used his fiendish studies ability on, the sneak attack wreathes the target in crimson fire. The target must attempt a Fortitude saving throw (DC = 10 + the crimson templar's class level + his Charisma modifier). If the target fails this save, it takes an additional 1d6 points of damage per class level the crimson templar has. Half of this damage is fire damage, but the other half results directly from divine power and is therefore not subject to being reduced by resistance or immunity to fire-based attacks. On a successful save, the target takes the sneak attack damage as normal but does not take any of the heavenly fire damage. A crimson templar can use heavenly fire a number of times per day equal to his crimson templar level.
+
+**Immolate (Su)**: At 7th level, whenever the crimson templar reduces a creature with an evil alignment to negative hit points with a sneak attack or coup de grace, the target must attempt a Fortitude saving throw (DC = 10 + the crimson templar's class level + his Charisma modifier). If the target fails this save, it is entirely disintegrated, leaving behind only a trace of fine ash (as per *disintegrate*). If an evil target is reduced to negative hit points from the heavenly fire ability, it receives no saving throw against this effect. This ability has no effect if the target does not have an evil alignment. This ability is optional: the crimson templar can choose not to use it, so he does not harm an ally who uses pieces of enemies.
+
+??? note "Original rule"
+
+    **Immolate (Su)**: At 7th level, whenever the crimson templar reduces a creature with an evil alignment to negative hit points with a sneak attack or coup de grace, the target must attempt a Fortitude saving throw (DC = 10 + the crimson templar's class level + his Charisma modifier). If the target fails this save, it is entirely disintegrated, leaving behind only a trace of fine ash (as per *disintegrate*). If an evil target is reduced to negative hit points from the heavenly fire ability, it receives no saving throw against this effect. This ability has no effect if the target does not have an evil alignment.
 
 **Ex-Crimson Templars**: A crimson templar who ceases to be lawful good or who kills any creature with a good alignment loses all crimson templar class features. He can't progress any further in levels as a crimson templar. He regains his abilities and advancement potential if he atones for his violations (as per *atonement*), as appropriate.

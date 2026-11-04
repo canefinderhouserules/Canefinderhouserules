@@ -11,23 +11,29 @@ Consortium agents research ancient lore to discover long-lost treasures; then th
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
 |---|---|---|---|---|---|
 | 1st | +0 | +0 | +1 | +0 | Trap sense +1, trapfinding |
-| 2nd | +1 | +1 | +1 | +1 | Agency secrets, mask alignment |
-| 3rd | +2 | +1 | +2 | +1 | Ambush trap, sneak attack +1d6 |
-| 4th | +3 | +1 | +2 | +1 | Agency secrets, trap sense +2 |
-| 5th | +3 | +2 | +3 | +2 | Crucial taunt |
-| 6th | +4 | +2 | +3 | +2 | Agency secrets, sneak attack +2d6 |
-| 7th | +5 | +2 | +4 | +2 | Improved trap sense, trap sense +3 |
-| 8th | +6 | +3 | +4 | +3 | Agency secrets, remote activation |
-| 9th | +6 | +3 | +5 | +3 | Sneak attack +3d6 |
-| 10th | +7 | +3 | +5 | +3 | Agency secrets, trap sense +4 |
+| 2nd | +1 | +1 | +1 | +1 | Agency secrets, mask alignment, aligned class |
+| 3rd | +2 | +1 | +2 | +1 | Ambush trap, sneak attack +1d6, aligned class |
+| 4th | +3 | +1 | +2 | +1 | Agency secrets, trap sense +2, aligned class |
+| 5th | +3 | +2 | +3 | +2 | Crucial taunt, aligned class |
+| 6th | +4 | +2 | +3 | +2 | Agency secrets, sneak attack +2d6, aligned class |
+| 7th | +5 | +2 | +4 | +2 | Improved trap sense, trap sense +3, aligned class |
+| 8th | +6 | +3 | +4 | +3 | Agency secrets, remote activation, aligned class |
+| 9th | +6 | +3 | +5 | +3 | Sneak attack +3d6, aligned class |
+| 10th | +7 | +3 | +5 | +3 | Agency secrets, trap sense +4, aligned class |
 
 ### Requirements
 
 To qualify to become a consortium agent, a character must fulfill all of the following criteria.
 
-**Skills**: Appraise 5 ranks, Bluff 5 ranks, Craft (traps) 5 ranks, Disable Device 5 ranks, Intimidate 5 ranks, Knowledge (history) 5 ranks, Perception 5 ranks.
+**Skills**: Appraise 2 ranks, Bluff 2 ranks, Craft (traps) 2 ranks, Disable Device 2 ranks, Intimidate 2 ranks, Knowledge (history) 2 ranks, Perception 2 ranks.
 
 **Special**: Proficiency with the whip, as well as either the trap sense class feature or the ability to cast *detect secret doors*.
+
+??? note "Original requirements"
+
+    **Skills**: Appraise 5 ranks, Bluff 5 ranks, Craft (traps) 5 ranks, Disable Device 5 ranks, Intimidate 5 ranks, Knowledge (history) 5 ranks, Perception 5 ranks.
+
+    **Special**: Proficiency with the whip, as well as either the trap sense class feature or the ability to cast *detect secret doors*.
 
 ### Class Skills
 
@@ -36,6 +42,8 @@ The consortium agent's class skills (and the key ability for each skill) are Blu
 **Skill Ranks at Each Level**: 4 + Int modifier.
 
 ### Class Features
+
+**Aligned Class (Ex)**: At 2nd level, a consortium agent must choose a class they belonged to before adding the prestige class to be their aligned class. They gain all the class features of this class, essentially adding every consortium agent level beyond 1st to their aligned class to determine what class features they gain. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class, but gain all other class features of their aligned class as well as those of this prestige class.
 
 The following are class features of the consortium agent prestige class.
 

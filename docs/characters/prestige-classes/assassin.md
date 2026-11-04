@@ -35,10 +35,6 @@ To qualify to become an assassin, a character must fulfill all the following cri
 
 **Special**: The character must kill someone for no other reason than to become an assassin.
 
-!!! warning "House rules"
-    - Add your assassin level to the DC of any poison you use.
-    - Add your assassin level to the DC of your death attack (naturally, the target rolls 2 saves under our house rules for save-or-die effects).
-
 ### Class Skills
 
 The assassin’s class skills (and the key ability for each skill) are Acrobatics (Dex), Bluff (Cha), Climb (Str), Diplomacy (Cha), Disable Device (Int), Disguise (Cha), Escape Artist (Dex), Intimidate (Cha), Linguistics (Int), Perception (Wis), Sense Motive (Wis), Sleight of Hand (Dex), Stealth (Dex), Swim (Str), and Use Magic Device (Cha).
@@ -53,13 +49,21 @@ All of the following are class features of the assassin prestige class.
 
 **Sneak Attack**: This is exactly like the rogue ability of the same name. The extra damage dealt increases by +1d6 every other level (1st, 3rd, 5th, 7th, and 9th). If an assassin gets a sneak attack bonus from another source, the bonuses on damage stack.
 
-**Death Attack (Ex)**: If an assassin studies his victim for 3 rounds and then makes a sneak attack with a melee weapon that successfully deals damage, the sneak attack has the additional effect of possibly either paralyzing or killing the target (assassin’s choice). Studying the victim is a standard action. The death attack fails if the target detects the assassin or recognizes the assassin as an enemy (although the attack might still be a sneak attack if the target is denied his Dexterity bonus to his Armor Class or is flanked). If the victim of such a death attack fails a Fortitude save (DC 10 + the assassin’s class level + the assassin’s Int modifier) against the kill effect, she dies. If the saving throw fails against the paralysis effect, the victim is rendered helpless and unable to act for 1d6 rounds plus 1 round per level of the assassin.
+**Death Attack (Ex)**: If an assassin studies his victim for 3 rounds and then makes a sneak attack with a melee weapon that successfully deals damage, the sneak attack has the additional effect of possibly either paralyzing or killing the target (assassin’s choice). Studying the victim is a standard action. The death attack fails if the target detects the assassin or recognizes the assassin as an enemy (although the attack might still be a sneak attack if the target is denied his Dexterity bonus to his Armor Class or is flanked). If the victim of such a death attack fails a Fortitude save (DC 10 + twice the assassin’s class level + the assassin’s Int modifier) against the kill effect, she dies. If the saving throw fails against the paralysis effect, the victim is rendered helpless and unable to act for 1d6 rounds plus 1 round per level of the assassin. Because this is a save-or-die effect, the target rolls its [saving throw twice](../../magic/casting-spells.md#save-or-die-spells) and keeps the higher result.
+
+??? note "Original rule"
+
+    **Death Attack (Ex)**: If an assassin studies his victim for 3 rounds and then makes a sneak attack with a melee weapon that successfully deals damage, the sneak attack has the additional effect of possibly either paralyzing or killing the target (assassin’s choice). Studying the victim is a standard action. The death attack fails if the target detects the assassin or recognizes the assassin as an enemy (although the attack might still be a sneak attack if the target is denied his Dexterity bonus to his Armor Class or is flanked). If the victim of such a death attack fails a Fortitude save (DC 10 + the assassin’s class level + the assassin’s Int modifier) against the kill effect, she dies. If the saving throw fails against the paralysis effect, the victim is rendered helpless and unable to act for 1d6 rounds plus 1 round per level of the assassin.
 
 If the victim’s saving throw succeeds, the attack is just a normal sneak attack. Once the assassin has completed the 3 rounds of study, he must make the death attack within the next 3 rounds.
 
 If a death attack is attempted and fails (the victim makes her save) or if the assassin does not launch the attack within 3 rounds of completing the study, 3 new rounds of study are required before he can attempt another death attack.
 
-**Poison Use**: Assassins are trained in the use of poison and cannot accidentally poison themselves when applying poison to a blade.
+**Poison Use**: Assassins are trained in the use of poison and cannot accidentally poison themselves when applying poison to a blade. An assassin adds his assassin level to the DC of any poison he uses.
+
+??? note "Original rule"
+
+    **Poison Use**: Assassins are trained in the use of poison and cannot accidentally poison themselves when applying poison to a blade.
 
 **Save Bonus against Poison**: At 2nd level, the assassin gains a +1 saving throw bonus against poisons. This bonus increase by +1 every two levels.
 

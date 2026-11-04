@@ -9,15 +9,15 @@ Infernal knights are lawful warriors who enforce order against chaos, feared and
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
 |---|---|---|---|---|---|
 | 1st | +1 | +1 | +0 | +0 | Aura of law, detect chaos, order, smite chaos 1/day |
-| 2nd | +2 | +1 | +1 | +1 | Discern lies, infernal knight armor 1 |
+| 2nd | +2 | +1 | +1 | +1 | Discern lies, infernal knight armor 1, aligned class |
 | 3rd | +3 | +2 | +1 | +1 | 1st discipline, force of will 1 |
-| 4th | +4 | +2 | +1 | +1 | Smite chaos 2/day |
+| 4th | +4 | +2 | +1 | +1 | Smite chaos 2/day, aligned class |
 | 5th | +5 | +3 | +2 | +2 | Infernal knight armor 2 |
-| 6th | +6 | +3 | +2 | +2 | 2nd discipline, force of will 2 |
+| 6th | +6 | +3 | +2 | +2 | 2nd discipline, force of will 2, aligned class |
 | 7th | +7 | +4 | +2 | +2 | Lawbringer, smite chaos 3/day |
-| 8th | +8 | +4 | +3 | +3 | Infernal knight armor 3 |
+| 8th | +8 | +4 | +3 | +3 | Infernal knight armor 3, aligned class |
 | 9th | +9 | +5 | +3 | +3 | 3rd discipline, force of will 3, infernal armor |
-| 10th | +10 | +5 | +3 | +3 | Hell’s knight, smite chaos 4/day |
+| 10th | +10 | +5 | +3 | +3 | Hell’s knight, smite chaos 4/day, aligned class |
 
 ### Requirements
 
@@ -27,11 +27,23 @@ To qualify to become an infernal knight, a character must fulfill all of the fol
 
 **Armor Proficiency**: Must be proficient with heavy armor.
 
-**Base Attack Bonus**: +5.
+**Base Attack Bonus**: +3.
 
-**Skills**: Intimidate 5 ranks, Knowledge (planes) 2 ranks.
+**Skills**: Intimidate 2 ranks, Knowledge (planes) 2 ranks.
 
 **Special**: The character must slay a devil with Hit Dice greater than his character level. This victory must be witnessed by an infernal knight.
+
+??? note "Original requirements"
+
+    **Alignment**: Any lawful.
+
+    **Armor Proficiency**: Must be proficient with heavy armor.
+
+    **Base Attack Bonus**: +5.
+
+    **Skills**: Intimidate 5 ranks, Knowledge (planes) 2 ranks.
+
+    **Special**: The character must slay a devil with Hit Dice greater than his character level. This victory must be witnessed by an infernal knight.
 
 ### Class Skills
 
@@ -41,6 +53,8 @@ The infernal knight's class skills (and the key ability for each skill) are Inti
 
 ### Class Features
 
+**Aligned Class (Ex)**: At 2nd level, a infernal knight must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
+
 The following are class features of the infernal knight prestige class.
 
 **Aura of Law (Ex)**: An infernal knight’s lawful aura (see the *detect law* spell) functions as that of a cleric whose level is equal to the infernal knight’s character level.
@@ -49,13 +63,21 @@ The following are class features of the infernal knight prestige class.
 
 **Order**: A character must choose one knightly order to join at 1st level: the order of Shackles (bounty hunters who seek escaped convicts and fugitives and often jail politically inconvenient prisoners), Portal (spellcasting signifers who use infernal magic to learn of catastrophic crimes before they occur), Faithful (faith-driven knights devoted to a pantheon of lawful deities), Spike (knights who crusade against “uncivilized” peoples), Brazier (hunters of shamans, witches, occult practitioners, and disciples of less-established faiths), Austerity (destroyers of dangerous knowledge and revolutionary philosophies), or Lash (opponents of criminal activity and watchers for corruption among authorities). The choice of order determines which disciplines the character later gains access to. See [Knightly Orders](knightly-orders.md) for each order's reckoning and boons.
 
-**Smite Chaos (Su)**: This ability functions as the paladin’s smite evil class feature but against chaotic-aligned creatures. This ability is twice as effective against outsiders with the chaotic subtype, chaotic-aligned aberrations, and fey.
+**Smite Chaos (Su)**: This ability functions as the paladin’s smite evil class feature but against chaotic-aligned creatures. It is not doubled for everything against chaotic outsiders: this only explains which creatures the normal doubled damage of smite evil works against (outsiders with the chaotic subtype, chaotic-aligned aberrations, and fey). The damage added per level is still doubled against them, or stacks with other smite classes you have, up to a maximum of your Hit Dice.
+
+??? note "Original rule"
+
+    **Smite Chaos (Su)**: This ability functions as the paladin’s smite evil class feature but against chaotic-aligned creatures. This ability is twice as effective against outsiders with the chaotic subtype, chaotic-aligned aberrations, and fey.
 
 **Discern Lies (Sp)**: At 2nd level, an infernal knight can use *discern lies* as a spell-like ability a number of times per day equal to 3 + his Charisma modifier with a caster level equal to his character level.
 
 **Infernal Knight Armor (Ex)**: At 2nd level, an infernal knight earns the right to wear [infernal knight plate](../../equipment/gear-ag.md), which does not reduce his speed. While wearing this armor, the infernal knight reduces its armor check penalty by 1 and increases the maximum Dexterity bonus allowed by 1. At 5th level, these adjustments increase to 2. At 8th level, these adjustments increase to 3.
 
-**Disciplines**: At 3rd level, an infernal knight gains access to his first discipline, choosing one associated with his specific order. At 6th level, he gains a second discipline, choosing from any listed as being available to “any order.” At 9th level, he gains his third discipline, choosing this one from any of the disciplines listed below, even those from another order, with the exception of pentamic faith. When applicable, the save DC to resist a discipline’s effect is equal to 10 + the infernal knight’s level + his Charisma modifier.
+**Disciplines**: At 3rd level, an infernal knight gains access to his first discipline, choosing one associated with his specific order. At 6th level, he gains a second discipline, choosing from any listed as being available to “any order.” At 9th level, he gains his third discipline, choosing this one from any of the disciplines listed below, even those from another order, with the exception of pentamic faith. When applicable, the save DC to resist a discipline’s effect is equal to 10 + the infernal knight’s level + his Charisma modifier. If an infernal knight has the Infernal Knight Obedience feat, he can choose to gain its boons at 3rd, 6th, and 9th level, respectively, instead of gaining a discipline.
+
+??? note "Original rule"
+
+    **Disciplines**: At 3rd level, an infernal knight gains access to his first discipline, choosing one associated with his specific order. At 6th level, he gains a second discipline, choosing from any listed as being available to “any order.” At 9th level, he gains his third discipline, choosing this one from any of the disciplines listed below, even those from another order, with the exception of pentamic faith. When applicable, the save DC to resist a discipline’s effect is equal to 10 + the infernal knight’s level + his Charisma modifier.
 
 The infernal knight can use any one discipline a number of times per day equal to the total number of disciplines he has access to, so at 3rd level he can use his discipline once per day. At 6th level, he can use both disciplines twice per day each. At 9th level, he can use all three of his disciplines three times per day.
 
@@ -79,7 +101,11 @@ The infernal knight can use any one discipline a number of times per day equal t
 - **Trace (Su; any order)**: The infernal knight can study a single personal belonging of a creature for 1 minute, after which he knows the general direction of the creature's current location as long as it is within 1 mile and on the same plane, and which direction it is moving, if any. The effect lasts 10 minutes per character level. An object can be the focus of this ability only once. A "personal belonging" is any object the creature owned or carried for more than a week. If the target is under *nondetection* or a similar effect, or is on a different plane, the ability gives no result.
 - **Versatile Intimidation (Ex; any order)**: The infernal knight can use Intimidate to reproduce the effects of another Charisma-based skill: choose Bluff, Diplomacy, Handle Animal, or Perform (oratory). Each time he wishes to use that skill, he can attempt an Intimidate check and treat it as a check of the desired type. At 9th level he can choose one additional skill from the list.
 
-**Force of Will (Ex)**: At 3rd level, an infernal knight gains a +2 bonus on Will saves against spells with any one of the following subschools or descriptors: charm, compulsion, glamer, fear, figment, pattern, or phantasm. At 6th level, the infernal knight chooses another subschool or descriptor from the list and gains a +2 bonus on his Will saves against spells of that type, and the bonus provided by his first selection increases to +4. At 9th level, he chooses from the list again, and both previous selections increase by 2, so that he has a +6, a +4, and a +2 bonus, respectively, against spells of three different groups.
+**Force of Will (Ex)**: An infernal knight gains Iron Will as a bonus feat at 3rd level, Improved Iron Will at 6th level, and Mythic Iron Will at 9th level.
+
+??? note "Original rule"
+
+    **Force of Will (Ex)**: At 3rd level, an infernal knight gains a +2 bonus on Will saves against spells with any one of the following subschools or descriptors: charm, compulsion, glamer, fear, figment, pattern, or phantasm. At 6th level, the infernal knight chooses another subschool or descriptor from the list and gains a +2 bonus on his Will saves against spells of that type, and the bonus provided by his first selection increases to +4. At 9th level, he chooses from the list again, and both previous selections increase by 2, so that he has a +6, a +4, and a +2 bonus, respectively, against spells of three different groups.
 
 **Lawbringer (Ex)**: At 7th level, an infernal knight’s attacks are treated as being lawful for the purpose of overcoming damage reduction.
 

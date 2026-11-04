@@ -12,22 +12,28 @@ Every esoteric knight is different. They rarely form orders or train apprentices
 |---|---|---|---|---|---|
 | 1st | +1 | +1 | +0 | +1 | Martial esoterica |
 | 2nd | +2 | +1 | +1 | +1 | Psychic esoterica, +1 level of existing class |
-| 3rd | +3 | +2 | +1 | +2 | Martial esoterica |
+| 3rd | +3 | +2 | +1 | +2 | Martial esoterica, +1 level of existing class |
 | 4th | +4 | +2 | +1 | +2 | Psychic esoterica, +1 level of existing class |
-| 5th | +5 | +3 | +2 | +3 | Martial esoterica |
+| 5th | +5 | +3 | +2 | +3 | Martial esoterica, +1 level of existing class |
 | 6th | +6 | +3 | +2 | +3 | Psychic esoterica, +1 level of existing class |
-| 7th | +7 | +4 | +2 | +4 | Martial esoterica |
+| 7th | +7 | +4 | +2 | +4 | Martial esoterica, +1 level of existing class |
 | 8th | +8 | +4 | +3 | +4 | Psychic esoterica, +1 level of existing class |
-| 9th | +9 | +5 | +3 | +5 | Martial esoterica |
+| 9th | +9 | +5 | +3 | +5 | Martial esoterica, +1 level of existing class |
 | 10th | +10 | +5 | +3 | +5 | Psychic esoterica, +1 level of existing class |
 
 ### Requirements
 
 To qualify to become an esoteric knight, a character must fulfill all of the following criteria.
 
-**Base Attack Bonus**: +5.
+**Base Attack Bonus**: +3.
 
 **Special**: Kinetic blast class feature or ability to cast 1st-level psychic spells.
+
+??? note "Original requirements"
+
+    **Base Attack Bonus**: +5.
+
+    **Special**: Kinetic blast class feature or ability to cast 1st-level psychic spells.
 
 ### Class Skills
 

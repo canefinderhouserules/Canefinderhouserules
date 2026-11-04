@@ -12,13 +12,13 @@ This title is earned only by those who have overcome insurmountable odds and sur
 |---|---|---|---|---|---|
 | 1st | +0 | +0 | +1 | +1 | Forest magic 1, unchained heart +2 |
 | 2nd | +1 | +1 | +1 | +1 | Aligned class, bonus feat |
-| 3rd | +2 | +1 | +2 | +2 | Forest magic 2, guerrila tactics |
+| 3rd | +2 | +1 | +2 | +2 | Forest magic 2, guerrila tactics, aligned class |
 | 4th | +3 | +1 | +2 | +2 | Aligned class, unchained heart +3 |
-| 5th | +3 | +2 | +3 | +3 | Bonus feat, forest magic 3 |
+| 5th | +3 | +2 | +3 | +3 | Bonus feat, forest magic 3, aligned class |
 | 6th | +4 | +2 | +3 | +3 | Advanced tactics, aligned class |
-| 7th | +5 | +2 | +4 | +4 | Forest magic 4, unchained heart +4 |
+| 7th | +5 | +2 | +4 | +4 | Forest magic 4, unchained heart +4, aligned class |
 | 8th | +6 | +3 | +4 | +4 | Aligned class, bonus feat |
-| 9th | +6 | +3 | +5 | +5 | Forest magic 5, second tactic |
+| 9th | +6 | +3 | +5 | +5 | Forest magic 5, second tactic, aligned class |
 | 10th | +7 | +3 | +5 | +5 | Aligned class, phantom strike |
 
 ### Requirements
@@ -27,11 +27,21 @@ To qualify to become a forest warden, a character must fulfill all the following
 
 **Alignment**: Any nonevil and nonlawful.
 
-**Base Attack Bonus**: +5.
+**Base Attack Bonus**: +3.
 
-**Skills**: Stealth 5 ranks, Survival 5 ranks.
+**Skills**: Stealth 3 ranks, Survival 3 ranks.
 
 **Special**: You must defeat an evil enemy of a CR 5 levels higher than your character level. This victory must be witnessed by a a forest ranger.
+
+??? note "Original requirements"
+
+    **Alignment**: Any nonevil and nonlawful.
+
+    **Base Attack Bonus**: +5.
+
+    **Skills**: Stealth 5 ranks, Survival 5 ranks.
+
+    **Special**: You must defeat an evil enemy of a CR 5 levels higher than your character level. This victory must be witnessed by a a forest ranger.
 
 ### Class Skills
 
@@ -57,7 +67,11 @@ At 9th level, she gains a fifth spell-like ability and adds the following spells
 
 **Unchained Heart (Ex)**: A forest warden’s free spirit goes far beyond simple stubbornness. At 1st level, she gains a +2 bonus on Will saving throws made against compulsions and mind-affecting effects. If she succeeds at this saving throw, the forest warden gains a +1 bonus on attack rolls against the source of the spell or effect for 1d4 rounds. The bonus on saving throws increases to +3 at 4th level and +4 at 7th level.
 
-**Aligned Class (Ex)**: Forest wardens come from all walks of life, each offering a unique perspective and skill set. At 2nd level, a forest warden must choose a class she belonged to before adding the prestige class to be her aligned class. She gains all the class features for one additional level of her aligned class as if she had gained a level in it. She gains the class features of an additional level of her aligned class at 4th, 6th, 8th, and 10th levels. She still retains the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
+**Aligned Class (Ex)**: Forest wardens come from all walks of life, each offering a unique perspective and skill set. At 2nd level, a forest warden must choose a class she belonged to before adding the prestige class to be her aligned class. She gains all the class features of this class, essentially adding every forest warden level beyond 1st to her aligned class to determine what class features she gains. She still retains the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
+
+??? note "Original rule"
+
+    **Aligned Class (Ex)**: Forest wardens come from all walks of life, each offering a unique perspective and skill set. At 2nd level, a forest warden must choose a class she belonged to before adding the prestige class to be her aligned class. She gains all the class features for one additional level of her aligned class as if she had gained a level in it. She gains the class features of an additional level of her aligned class at 4th, 6th, 8th, and 10th levels. She still retains the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
 
 **Bonus Feats**: At 2nd, 5th, and 8th levels, a forest warden gains a bonus feat. She must meet the bonus feat’s prerequisites. She can choose one from the following list: Broken Wing Gambit, Combat Expertise, Combat Patrol, Delayed Spell, Greater Dirty Trick, Improved Dirty Trick, Learn Ranger Trap, Overwatch Style, Overwatch Tactician†, Overwatch Vortex†, Paired Opportunists, Quick Trapper, Shot on the Run, Silent Spell, Spring Attack, Still Spell, Target of Opportunity, Weapon Trick, and Whirlwind Attack.
 

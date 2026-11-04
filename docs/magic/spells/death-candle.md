@@ -9,3 +9,5 @@
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
 This spell functions like *death knell*, except instead of using the slain target’s life energy to enhance yourself, you use it to summon a Small fire elemental resembling a burning, howling version of the slain creature. The elemental acts immediately on your turn and otherwise behaves as if you had summoned it with *summon monster II*. The elemental remains for a number of rounds equal to the Hit Dice of the slain creature.
+
+**Save-or-die**: The target rolls its saving throw twice and keeps the higher result, as explained in [Save-or-Die Spells](../casting-spells.md#save-or-die-spells).

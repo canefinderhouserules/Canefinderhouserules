@@ -12,13 +12,13 @@ Although most worshipers of a deity of healing, honesty, redemption, and the sun
 |---|---|---|---|---|---|
 | 1st | +0 | +0 | +1 | +1 | Solar invocation +1 |
 | 2nd | +1 | +1 | +1 | +1 | Credence, +1 level of existing spellcasting class |
-| 3rd | +2 | +1 | +2 | +2 | Bask in radiance, +1 level of existing spellcasting class |
+| 3rd | +2 | +1 | +2 | +2 | Solar invocation +2, Bask in radiance, +1 level of existing spellcasting class |
 | 4th | +3 | +1 | +2 | +2 | Credence, +1 level of existing spellcasting class |
-| 5th | +3 | +2 | +3 | +3 | Solar invocation +2 (move action), +1 level of existing spellcasting class |
-| 6th | +4 | +2 | +3 | +3 | Credence, +1 level of existing spellcasting class |
+| 5th | +3 | +2 | +3 | +3 | Solar invocation (move action), +1 level of existing spellcasting class |
+| 6th | +4 | +2 | +3 | +3 | Solar invocation +3, Credence, +1 level of existing spellcasting class |
 | 7th | +5 | +2 | +4 | +4 | Sunbeam, +1 level of existing spellcasting class |
 | 8th | +6 | +3 | +4 | +4 | Credence, +1 level of existing spellcasting class |
-| 9th | +6 | +3 | +5 | +5 | Solar invocation +3, +1 level of existing spellcasting class |
+| 9th | +6 | +3 | +5 | +5 | Solar invocation +4, +1 level of existing spellcasting class |
 | 10th | +7 | +3 | +5 | +5 | Credence, sunrise invocation, solar invocation (swift action), +1 level of existing spellcasting class |
 
 ### Requirements
@@ -29,9 +29,19 @@ To qualify to become a sun anchorite, a character must fulfill all of the follow
 
 **Deity**: Must worship a deity whose portfolio includes healing, honesty, redemption, or the sun.
 
-**Skills**: Knowledge (nature) 5 ranks or Knowledge (religion) 5 ranks.
+**Skills**: Knowledge (nature) 3 ranks or Knowledge (religion) 3 ranks.
 
-**Spells**: Able to cast 2nd-level spells.
+**Spells**: Able to cast 1st-level spells.
+
+??? note "Original requirements"
+
+    **Alignment**: Neutral good.
+
+    **Deity**: Must worship a deity whose portfolio includes healing, honesty, redemption, or the sun.
+
+    **Skills**: Knowledge (nature) 5 ranks or Knowledge (religion) 5 ranks.
+
+    **Spells**: Able to cast 2nd-level spells.
 
 ### Class Skills
 
@@ -43,7 +53,11 @@ The sun anchorite's class skills (and the key ability for each skill) are Climb 
 
 The following are class features of the sun anchorite prestige class.
 
-**Solar Invocation (Su)**: A sun anchorite can harness the sun's life-giving warmth to protect the innocent and smite the wicked. At 1st level, he can invoke the sun as a standard action, granting him a +1 competence bonus on attack rolls and damage rolls against evil creatures and adding 1 to the DC of his spells and domain powers (if any) against evil creatures. The bonus on attack rolls and damage rolls increases to +2 at 5th level and +3 at 9th level. If a sun anchorite has an animal companion, the companion also gains the competence bonus on attack and damage rolls while this ability is active. A sun anchorite can invoke the sun for a number of rounds per day equal to twice his sun anchorite class level + his Charisma modifier. Maintaining this ability on subsequent rounds is a free action. These bonuses apply only when the sun anchorite is standing in an outdoor area of dim light, normal light, or bright light, and only while he is clearly presenting his holy symbol or any scimitar. At 5th level, a sun anchorite can invoke the sun as a move action instead of a standard action. At 10th level, he can invoke the sun as a swift action.
+**Solar Invocation (Su)**: A sun anchorite can harness the sun's life-giving warmth to protect the innocent and smite the wicked. At 1st level, he can invoke the sun as a standard action, granting him a +1 competence bonus on attack rolls and damage rolls against evil creatures and adding 1 to the DC of his spells and domain powers (if any) against evil creatures. The bonus on attack rolls and damage rolls increases to +2 at 3rd level, +3 at 6th level, and +4 at 9th level. If a sun anchorite has an animal companion, the companion also gains the competence bonus on attack and damage rolls while this ability is active. A sun anchorite can invoke the sun for a number of rounds per day equal to twice his sun anchorite class level + his Charisma modifier. Maintaining this ability on subsequent rounds is a free action. These bonuses apply only when the sun anchorite is standing in an outdoor area of dim light, normal light, or bright light, and only while he is clearly presenting his holy symbol or any scimitar. At 5th level, a sun anchorite can invoke the sun as a move action instead of a standard action. At 10th level, he can invoke the sun as a swift action.
+
+??? note "Original rule"
+
+    **Solar Invocation (Su)**: A sun anchorite can harness the sun's life-giving warmth to protect the innocent and smite the wicked. At 1st level, he can invoke the sun as a standard action, granting him a +1 competence bonus on attack rolls and damage rolls against evil creatures and adding 1 to the DC of his spells and domain powers (if any) against evil creatures. The bonus on attack rolls and damage rolls increases to +2 at 5th level and +3 at 9th level. If a sun anchorite has an animal companion, the companion also gains the competence bonus on attack and damage rolls while this ability is active. A sun anchorite can invoke the sun for a number of rounds per day equal to twice his sun anchorite class level + his Charisma modifier. Maintaining this ability on subsequent rounds is a free action. These bonuses apply only when the sun anchorite is standing in an outdoor area of dim light, normal light, or bright light, and only while he is clearly presenting his holy symbol or any scimitar. At 5th level, a sun anchorite can invoke the sun as a move action instead of a standard action. At 10th level, he can invoke the sun as a swift action.
 
 **Credence**: Each sun anchorite develops a personal credence that guides his worship. He gains a credence at 2nd level and again every 2 class levels thereafter. Each credence can be chosen only once unless noted otherwise.
 

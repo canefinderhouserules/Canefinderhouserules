@@ -12,24 +12,32 @@ A secretive society brought into being during the early days of a bloody revolut
 | 2nd | +1 | +1 | +1 | +1 | Harsh judgment 1/day, stern gaze; +1 level of divine spellcasting class |
 | 3rd | +2 | +2 | +1 | +2 | Bane, dramatic interrogation; +1 level of divine spellcasting class |
 | 4th | +3 | +2 | +1 | +2 | Execution feat, grim investigator, second judgment; +1 level of divine spellcasting class |
-| 5th | +3 | +3 | +2 | +3 | Improved bane, sneak attack +2d6 |
+| 5th | +3 | +3 | +2 | +3 | Improved bane, sneak attack +2d6, +1 level of divine spellcasting class |
 | 6th | +4 | +3 | +2 | +3 | Execution feat, harsh judgment 2/day; +1 level of divine spellcasting class |
 | 7th | +5 | +4 | +2 | +4 | Sinister bane; +1 level of divine spellcasting class |
 | 8th | +6 | +4 | +3 | +4 | Execution feat, slaying judgment; +1 level of divine spellcasting class |
-| 9th | +6 | +5 | +3 | +5 | Greater bane, sneak attack +3d6 |
+| 9th | +6 | +5 | +3 | +5 | Greater bane, sneak attack +3d6, +1 level of divine spellcasting class |
 | 10th | +7 | +5 | +3 | +5 | Execution feat, final demise, harsh judgment 3/day, true death; +1 level of divine spellcasting class |
 
 ### Requirements
 
 To qualify to become a gray warden, a character must fulfill all of the following criteria.
 
-**Feats**: Combat Reflexes.
+**Skills**: Bluff 2 ranks, Diplomacy 2 ranks, Disguise 2 ranks, Intimidate 2 ranks, Perception 2 ranks, Sense Motive 2 ranks.
 
-**Skills**: Bluff 2 ranks, Diplomacy 2 ranks, Disguise 2 ranks, Intimidate 5 ranks, Perception 2 ranks, Sense Motive 5 ranks.
-
-**Spells**: Able to cast 2nd-level divine spells.
+**Spells**: Able to cast 1st-level divine spells.
 
 **Special**: The character must publicly execute a tried and sentenced individual. Whether the victim is actually guilty or innocent is irrelevant.
+
+??? note "Original requirements"
+
+    **Feats**: Combat Reflexes.
+
+    **Skills**: Bluff 2 ranks, Diplomacy 2 ranks, Disguise 2 ranks, Intimidate 5 ranks, Perception 2 ranks, Sense Motive 5 ranks.
+
+    **Spells**: Able to cast 2nd-level divine spells.
+
+    **Special**: The character must publicly execute a tried and sentenced individual. Whether the victim is actually guilty or innocent is irrelevant.
 
 ### Class Skills
 

@@ -9,3 +9,5 @@
 **Saving Throw** Fortitude partial; **Spell Resistance** yes
 
 This spell instantly delivers 10 points of damage per caster level. If the target’s Fortitude saving throw succeeds, it instead takes 3d6 points of damage + 1 point per caster level. The subject might die from damage even if it succeeds on its saving throw.
+
+**Save-or-die**: The target rolls its saving throw twice and keeps the higher result, as explained in [Save-or-Die Spells](../casting-spells.md#save-or-die-spells).

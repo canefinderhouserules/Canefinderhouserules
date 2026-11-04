@@ -59,6 +59,7 @@
 - **[Ferment](ferment.md)**: Imbue a drink with an intoxicant
 - **[Firebelly](firebelly.md)**: Fire resistance 5 and a small fire breath.
 - **[Goodberry](goodberry.md)**: 2d4 berries each cure 1 hp (max 8 hp/24 hours).
+- **[Gravity Bow](gravity-bow.md)**: Arrows do damage as though one size category bigger.
 - **[Hairline Fractures](hairline-fractures.md)**: Weaken stone or earth creatures.
 - **[Hidden Spring](hidden-spring.md)**: Discover a temporary spring of fresh, flowing water.
 - **[Hide from Animals](hide-from-animals.md)**: Animals can’t perceive one subject/level.
@@ -66,6 +67,7 @@
 - **[Instant Clot](instant-clot.md)**: end bleeding and stop blood flowing from wounds
 - **[Itching Curse](itching-curse.md)**: Itch gives –1 penalty unless scratched.
 - **[Jump](jump.md)**: Subject gets bonus on Acrobatics checks.
+- **[Lead Blades](lead-blades.md)**: Melee weapons damage as if one size bigger.
 - **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
 - **[Longstrider](longstrider.md)**: Your speed increases by 10 ft.
 - **[Lucky Number](lucky-number.md)**: When the target rolls a chosen number it can reroll or add +2 luck.
@@ -129,7 +131,7 @@
 - **[Ant Haul, Communal](ant-haul-communal.md)**: As ant haul, but you may divide the duration among creatures touched.
 - **[Aquatic Cavalry](aquatic-cavalry.md)**: Summon hippocampi to serve as aquatic mounts.
 - **[Ashen Path](ashen-path.md)**: breathe contaminated air and see through ash and smoke
-- **[Barkskin](barkskin.md)**: Grants +2 (or higher) enhancement to natural armor.
+- **[Barkskin](barkskin.md)**: Grants +2 (or higher) enhancement to natural armor, and DR/magic.
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
 - **[Binding Earth](binding-earth.md)**: If the target of this spell fails its Fortitude save, areas of earth and stone floor act as a snapping.
 - **[Bone Fists](bone-fists.md)**: Targets gain natural armor, natural weapon damage, and armor spikes.
@@ -307,6 +309,7 @@
 - **[Life Shield](life-shield.md)**: Undead that hit you take positive energy damage
 - **[Lightning Conductor](lightning-conductor.md)**: Absorb electricity damage and discharge it as a touch or ray.
 - **[Magic Fang, Greater](magic-fang-greater.md)**: One natural weapon gets + 1/four levels (max +5).
+- **[Mark and Recall](mark-and-recall.md)**: Mark a place, then cast again to teleport back to it (100 miles/level).
 - **[Meld into Stone](meld-into-stone.md)**: You and your gear merge with stone.
 - **[Mirage](mirage.md)**: Create illusory terrain.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.

@@ -8,16 +8,16 @@ Gray knights are privateers who hunt seaborne slavers, augmenting their class sk
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
 |---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | 1st favored port, gray focus |
-| 2nd | +1 | +1 | +1 | +1 | Gray boon, know the ropes |
-| 3rd | +2 | +1 | +1 | +2 | 2nd favored port, slaver slayer +2 |
-| 4th | +3 | +1 | +1 | +2 | Breathe easy 1/day, gray boon |
-| 5th | +3 | +2 | +2 | +3 | 3rd favored port, grim resolve |
-| 6th | +4 | +2 | +2 | +3 | Gray boon, slaver slayer +4 |
-| 7th | +5 | +2 | +2 | +4 | 4th favored port, breathe easy 2/day |
-| 8th | +6 | +3 | +3 | +4 | Gray boon |
-| 9th | +6 | +3 | +3 | +5 | 5th favored port, grant freedom, slaver slayer +6 |
-| 10th | +7 | +3 | +3 | +5 | Breathe easy 3/day, gray boon, whisk to freedom |
+| 1st | +0 | +0 | +0 | +1 | 1st favored port |
+| 2nd | +1 | +1 | +1 | +1 | know the ropes, aligned class |
+| 3rd | +2 | +1 | +1 | +2 | 2nd favored port, slaver slayer +2, aligned class |
+| 4th | +3 | +1 | +1 | +2 | Breathe easy 1/day, aligned class |
+| 5th | +3 | +2 | +2 | +3 | 3rd favored port, grim resolve, aligned class |
+| 6th | +4 | +2 | +2 | +3 | slaver slayer +4, aligned class |
+| 7th | +5 | +2 | +2 | +4 | 4th favored port, breathe easy 2/day, aligned class |
+| 8th | +6 | +3 | +3 | +4 | aligned class |
+| 9th | +6 | +3 | +3 | +5 | 5th favored port, grant freedom, slaver slayer +6, aligned class |
+| 10th | +7 | +3 | +3 | +5 | Breathe easy 3/day, whisk to freedom, aligned class |
 
 ### Requirements
 
@@ -25,9 +25,15 @@ To qualify to become a gray knight, a character must fulfill all of the followin
 
 **Alignment**: Any nonevil.
 
-**Feat**: Sea Legs.
+**Skills**: Acrobatics 3 ranks, Profession (sailor) 3 ranks, Stealth 3 ranks.
 
-**Skills**: Acrobatics 5 ranks, Profession (sailor) 5 ranks, Stealth 5 ranks.
+??? note "Original requirements"
+
+    **Alignment**: Any nonevil.
+
+    **Feat**: Sea Legs.
+
+    **Skills**: Acrobatics 5 ranks, Profession (sailor) 5 ranks, Stealth 5 ranks.
 
 ### Class Skills
 
@@ -37,19 +43,25 @@ The gray knight's class skills (and the key ability for each skill) are Acrobati
 
 ### Class Features
 
+**Sea Legs**: At 1st level, a gray knight gains [Sea Legs](../../rules/feats/sea-legs.md) as a bonus feat.
+
 The following are class features of the gray knight prestige class.
 
 **Favored Port (Ex)**: A gray knight can pick any coastal settlement as a favored port. While in that settlement, a gray knight gains a +2 bonus on all Bluff, Diplomacy, Intimidate, and Knowledge (local) checks, as well as on initiative checks and Will saving throws. He need not pay for room and board in a favored port. At 3rd level and every 2 levels thereafter, a gray knight can select another favored port. A gray knight also gains his favored port bonuses when aboard any ship whose home port is one of his favored ports.
 
-**Gray Focus**: When a character gains his first level as a gray knight, he must choose one of the following classes as his gray focus: bard, cleric, fighter, gunslinger, inquisitor, investigator, magus, mesmerist, psychic, rogue, swashbuckler, sorcerer, or wizard.
+**Aligned Class (Ex)**: At 2nd level, a gray knight must choose a class they belonged to before adding the prestige class to be their aligned class. They gain all the class features of this class, essentially adding every gray knight level beyond 1st to their aligned class to determine what class features they gain. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class, but gain all other class features of their aligned class as well as those of this prestige class.
 
-If he chose a spellcasting class, the gray knight automatically succeeds at any concentration checks required to cast a spell while being subjected to vigorous or violent motion while either swimming or on a ship. If he chose a non-spellcasting class, the gray knight doesn’t provoke attacks of opportunity as a result of moving through a threatened square while on a ship or while swimming, unless he chooses to do so.
+??? note "Original rule"
 
-A gray knight who has no levels in any of the above classes must still choose a class as his gray focus, but until he gains a level in that chosen class, he does not gain any benefit for his gray focus or gray boons. Once he gains at least 1 level in his gray focus class, he immediately gains the appropriate powers and boons due him from his gray knight class levels.
+    **Gray Focus**: When a character gains his first level as a gray knight, he must choose one of the following classes as his gray focus: bard, cleric, fighter, gunslinger, inquisitor, investigator, magus, mesmerist, psychic, rogue, swashbuckler, sorcerer, or wizard.
 
-**Gray Boon**: At 2nd level and every 2 levels thereafter, a gray knight gains some of the class features of the class he chose as his gray focus, provided he has at least 1 level in the class chosen.
+    If he chose a spellcasting class, the gray knight automatically succeeds at any concentration checks required to cast a spell while being subjected to vigorous or violent motion while either swimming or on a ship. If he chose a non-spellcasting class, the gray knight doesn’t provoke attacks of opportunity as a result of moving through a threatened square while on a ship or while swimming, unless he chooses to do so.
 
-If his gray focus class is bard, cleric, inquisitor, magus, mesmerist, psychic, sorcerer, or wizard, he gains spells per day as if he’d gained an additional level of the class chosen. If his gray focus class is fighter, gunslinger, or swashbuckler, he gains a bonus combat feat. If his gray focus class is investigator, he gains a +1d6 studied strike, as per the investigator class feature. This extra damage stacks with other sources of studied strike. If his gray focus class is rogue, he gains a +1d6 sneak attack, as per the rogue class feature. This extra damage stacks with other sources of sneak attack damage.
+    A gray knight who has no levels in any of the above classes must still choose a class as his gray focus, but until he gains a level in that chosen class, he does not gain any benefit for his gray focus or gray boons. Once he gains at least 1 level in his gray focus class, he immediately gains the appropriate powers and boons due him from his gray knight class levels.
+
+    **Gray Boon**: At 2nd level and every 2 levels thereafter, a gray knight gains some of the class features of the class he chose as his gray focus, provided he has at least 1 level in the class chosen.
+
+    If his gray focus class is bard, cleric, inquisitor, magus, mesmerist, psychic, sorcerer, or wizard, he gains spells per day as if he’d gained an additional level of the class chosen. If his gray focus class is fighter, gunslinger, or swashbuckler, he gains a bonus combat feat. If his gray focus class is investigator, he gains a +1d6 studied strike, as per the investigator class feature. This extra damage stacks with other sources of studied strike. If his gray focus class is rogue, he gains a +1d6 sneak attack, as per the rogue class feature. This extra damage stacks with other sources of sneak attack damage.
 
 **Know the Ropes (Ex)**: At 2nd level, while climbing ropes or rigging, a gray knight gains a +4 circumstance bonus on Climb checks and needs only one hand free to do so. In addition, in such circumstances he doesn’t take a penalty when using the accelerated climbing option, doesn’t lose his Dexterity bonus to AC, and doesn’t need to attempt a Climb check to avoid falling when he takes damage.
 

@@ -9,21 +9,21 @@ Many are the mortals who serve the gods, in small ways and large. Some give offe
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells |
 |---|---|---|---|---|---|---|
 | 1st | +0 | +0 | +0 | +1 | Opposition alignment | +1 level of divine spellcasting class |
-| 2nd | +1 | +1 | +1 | +1 | — | +1 level of divine spellcasting class |
+| 2nd | +1 | +1 | +1 | +1 | aligned class | +1 level of divine spellcasting class |
 | 3rd | +2 | +1 | +1 | +2 | Domain specialization | +1 level of divine spellcasting class |
-| 4th | +3 | +1 | +1 | +2 | Divine wrath | +1 level of divine spellcasting class |
+| 4th | +3 | +1 | +1 | +2 | Divine wrath, aligned class | +1 level of divine spellcasting class |
 | 5th | +3 | +2 | +2 | +3 | — | +1 level of divine spellcasting class |
-| 6th | +4 | +2 | +2 | +3 | — | +1 level of divine spellcasting class |
+| 6th | +4 | +2 | +2 | +3 | aligned class | +1 level of divine spellcasting class |
 | 7th | +5 | +2 | +2 | +4 | Deific defense | +1 level of divine spellcasting class |
-| 8th | +6 | +3 | +3 | +4 | Divine awe | +1 level of divine spellcasting class |
+| 8th | +6 | +3 | +3 | +4 | Divine awe, aligned class | +1 level of divine spellcasting class |
 | 9th | +6 | +3 | +3 | +5 | — | +1 level of divine spellcasting class |
-| 10th | +7 | +3 | +3 | +5 | True scion | +1 level of divine spellcasting class |
+| 10th | +7 | +3 | +3 | +5 | True scion, aligned class | +1 level of divine spellcasting class |
 
 ### Requirements
 
 To qualify to become a divine scion, a character must fulfill all the following criteria.
 
-**Feats**: Iron Will, Weapon Focus (deity's favored weapon).
+**Feats**: Weapon Focus (deity’s favored weapon).
 
 **Skills**: Knowledge (planes) 5 ranks, Knowledge (religion) 5 ranks, Spellcraft 5 ranks.
 
@@ -32,6 +32,18 @@ To qualify to become a divine scion, a character must fulfill all the following 
 **Deity**: Must have a patron deity.
 
 **Alignment**: Must be identical to patron deity's.
+
+??? note "Original requirements"
+
+    **Feats**: Iron Will, Weapon Focus (deity's favored weapon).
+
+    **Skills**: Knowledge (planes) 5 ranks, Knowledge (religion) 5 ranks, Spellcraft 5 ranks.
+
+    **Spells**: Able to cast divine spells.
+
+    **Deity**: Must have a patron deity.
+
+    **Alignment**: Must be identical to patron deity's.
 
 ### Class Skills
 
@@ -44,6 +56,8 @@ The divine scion's class skills (and the key ability for each skill) are Diploma
 The following are class features of the divine scion prestige class.
 
 **Weapon and Armor Proficiency**: A divine scion gains no additional weapon or armor proficiencies. She can select Greater Weapon Focus, Weapon Specialization, and Greater Weapon Specialization as feats once she qualifies for them normally (although she does not have to fulfill the prerequisite of having fighter levels in order to select these feats).
+
+**Aligned Class (Ex)**: At 2nd level, a divine scion must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
 
 **Spells**: When a divine scion gains a level, she gains new spells per day as if she had also gained a level in a divine spellcasting class she belonged to before she added the prestige class. She does not, however, gain any other benefits a character of that class would have gained. This essentially means that she adds the level of divine scion to the level of whatever other divine spellcasting class she has.
 

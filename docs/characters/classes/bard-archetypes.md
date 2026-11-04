@@ -1582,6 +1582,8 @@ Cutting remark is a mind-affecting, language-dependent effect, and relies on aud
 
 Whether singing a delicate duo with a nightingale or slipping coins from purses while a trained monkey distracts the crowd, the duettist blends his bond to his familiar with his natural talent for performance to create amazing effects.
 
+**Restriction**: This archetype can no longer be combined with [Sound Striker](#sound-striker).
+
 **Diminished Competency**: A duettist does not gain the well-versed or jack-of-all-trades class features.
 
 **Familiar (Ex)**: At 1st level, a duettist gains a familiar, treating his bard level as his effective wizard level for the purpose of this ability. This ability replaces bardic knowledge.

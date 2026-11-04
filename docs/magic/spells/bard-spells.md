@@ -424,7 +424,7 @@
 - **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
 - **[Gullibility](gullibility.md)**: target believes lies more readily
 - **[Hallucinatory Decor](hallucinatory-decor.md)**: Reimagine the decor of a structure.
-- **[Haste](haste.md)**: One creature/level moves faster, receives +1 on attack rolls, AC, and Reflex saves.
+- **[Haste](haste.md)**: One creature moves faster, gains an extra attack and +1 on attack rolls, AC, and Reflex saves, and can quicken a spell once per turn.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Horrifying Visage](horrifying-visage.md)**: Haunt gives victims a phobia of a named thing.
 - **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
@@ -543,6 +543,7 @@
 - **[Greater Hypnotism](greater-hypnotism.md)**: hypnotize more creatures and make several requests
 - **[Hallucinatory Terrain](hallucinatory-terrain.md)**: Makes one type of terrain appear like another (field as forest, or the like).
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
+- **[Haste, Area](haste.md)**: As *haste*, but affects one creature/level, no two more than 30 ft. apart.
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
 - **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
 - **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.

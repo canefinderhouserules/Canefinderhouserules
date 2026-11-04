@@ -22,19 +22,31 @@ The following archetypes are available to samurai.
 
 **Flourish (Ex)**: The warrior poet is skilled at performing elegant moves in battle. At 1st level, the warrior poet gains a flourish of her choice from the list below. She gains another flourish at 3rd, 5th, 9th, 13th, 17th, and 20th levels.
 
-*Chrysanthemum's Blooming*: The warrior poet gains Vital Strike as a bonus feat and can apply its benefit when using Spring Attack. If the warrior poet is at least 16th level and has Improved Vital Strike, she can apply that feat's benefit instead. The warrior poet must be at least 11th level to select this flourish.
+*Chrysanthemum’s Blooming*: The warrior poet gains Vital Strike as a bonus feat and can apply its benefit when using Spring Attack. The warrior poet must be at least 5th level to select this flourish. She can select it again at 9th level or higher to gain Improved Vital Strike, and again at 13th level or higher to gain Greater Vital Strike. If she has Improved Vital Strike, she can use Improved Spring Attack with Vital Strike. If she has Greater Vital Strike, she can use Greater Spring Attack with Improved Vital Strike.
+
+??? note "Original rule"
+
+    *Chrysanthemum's Blooming*: The warrior poet gains Vital Strike as a bonus feat and can apply its benefit when using Spring Attack. If the warrior poet is at least 16th level and has Improved Vital Strike, she can apply that feat's benefit instead. The warrior poet must be at least 11th level to select this flourish.
 
 *Fleet Exodus*: As long as the warrior poet is wearing light or no armor and carrying no more than a light load, her land speed increases by 10 feet. A warrior poet can select this flourish up to three times.
 
 *Guiding Grace*: The warrior poet gains the rogue's uncanny dodge class feature. This flourish can be selected up to twice; selecting it a second time grants the warrior poet the rogue's improved uncanny dodge class feature. The warrior poet must be at least 4th level to select this flourish the first time and at least 8th level to select this flourish the second time.
 
-*Harmony of the Tranquil Garden*: The warrior poet can focus her senses as a move action to gain blindsense out to 5 feet for 1 round. For every 5 samurai levels she has, the range of this blindsense increases by 5 feet.
+*Harmony of the Tranquil Garden*: The warrior poet can focus her senses as a move action to gain blindsense out to 10 feet for 1 round. For every 5 samurai levels she has, the range of this blindsense increases by 10 feet. This flourish can be selected more than once: if she selects it 3 times, it becomes blindsight instead of blindsense, and if she selects it 5 times, focusing her senses becomes a free action.
+
+??? note "Original rule"
+
+    *Harmony of the Tranquil Garden*: The warrior poet can focus her senses as a move action to gain blindsense out to 5 feet for 1 round. For every 5 samurai levels she has, the range of this blindsense increases by 5 feet.
 
 *Kitsune's Mystique*: The warrior poet gains Improved Feint as a bonus feat, ignoring its prerequisites. When the warrior poet uses Spring Attack or takes a move action to move, she can attempt to feint against one creature she threatens during her movement as part of her movement.
 
 *Petals on the Wind*: Whenever a foe provokes an attack of opportunity from the warrior poet, she can move 5 feet before making the attack of opportunity. This movement does not provoke attacks of opportunity. If the warrior poet takes an action to move during her next turn, she subtracts 5 feet from her total movement for each time she has used this ability since her last turn.
 
-*Wrath of the Heavens*: The warrior poet gains Shot on the Run as a bonus feat, ignoring its prerequisites.
+*Wrath of the Heavens*: The warrior poet gains [Deific Obedience](../../rules/feats/deific-obedience.md) as a bonus feat, ignoring its prerequisites.
+
+??? note "Original rule"
+
+    *Wrath of the Heavens*: The warrior poet gains Shot on the Run as a bonus feat, ignoring its prerequisites.
 
 This replaces mount, weapon expertise, banner, and greater banner.
 
@@ -42,9 +54,17 @@ This replaces mount, weapon expertise, banner, and greater banner.
 
 **Skirmisher's Challenge (Ex)**: The warrior poet adds her samurai level to her damage rolls only on her first successful attack against a challenged target each round. This modifies challenge.
 
-**Graceful Strike (Ex)**: At 4th level, when the warrior poet uses Weapon Finesse to make a melee attack that adds her Dexterity bonus to attack rolls and her Strength bonus to damage rolls, she also adds half her samurai level to damage rolls. This replaces mounted archer and demanding challenge.
+**Graceful Strike (Ex)**: At 4th level, when the warrior poet uses Weapon Finesse to make a melee attack that adds her Dexterity bonus to attack rolls and her Strength bonus to damage rolls, she also adds her samurai level to damage rolls. This replaces mounted archer and demanding challenge.
 
-**Battle Dance (Ex)**: At 6th level, the warrior poet gains Spring Attack as a bonus feat. At 12th level, she gains Improved Spring Attack as a bonus feat, and at 18th level, she gains Greater Spring Attack as a bonus feat. The warrior poet does not need to meet the prerequisites for these feats. This replaces the samurai's bonus combat feats.
+??? note "Original rule"
+
+    **Graceful Strike (Ex)**: At 4th level, when the warrior poet uses Weapon Finesse to make a melee attack that adds her Dexterity bonus to attack rolls and her Strength bonus to damage rolls, she also adds half her samurai level to damage rolls. This replaces mounted archer and demanding challenge.
+
+**Battle Dance (Ex)**: At 4th level, the warrior poet gains Spring Attack as a bonus feat. At 8th level, she gains Improved Spring Attack as a bonus feat, and at 12th level, she gains Greater Spring Attack as a bonus feat. The warrior poet does not need to meet the prerequisites for these feats. This replaces the samurai's bonus combat feats.
+
+??? note "Original rule"
+
+    **Battle Dance (Ex)**: At 6th level, the warrior poet gains Spring Attack as a bonus feat. At 12th level, she gains Improved Spring Attack as a bonus feat, and at 18th level, she gains Greater Spring Attack as a bonus feat. The warrior poet does not need to meet the prerequisites for these feats. This replaces the samurai's bonus combat feats.
 
 ## Ward Speaker
 

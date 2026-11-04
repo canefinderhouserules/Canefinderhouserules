@@ -86,7 +86,11 @@ Any creature that is within 30 feet that is under the effects of an agony hex, c
 
 **Misfortune (Su)**: The witch can cause a creature within 30 feet to suffer grave misfortune for 1 round. Anytime the creature makes an ability check, attack roll, saving throw, or skill check, it must roll twice and take the worse result. A Will save negates this hex. At 8th level and 16th level, the duration of this hex is extended by 1 round. This hex affects all rolls the target must make while it lasts. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day.
 
-**Slumber (Su)**: A witch can cause a creature within 30 feet to fall into a deep, magical sleep, as per the spell sleep. The creature receives a Will save to negate the effect. If the save fails, the creature falls asleep for a number of rounds equal to the witch’s level. This hex can affect a creature of any HD. The creature will not wake due to noise or light, but others can rouse it with a standard action.
+**Slumber (Su)**: A witch can cause a creature within 30 feet to fall into a deep, magical sleep, as per the spell sleep. The creature receives a Will save to negate the effect. If the save fails, the creature falls asleep for a number of rounds equal to the witch’s level. This hex can affect a creature of any HD. The creature will not wake due to noise or light, but others can rouse it with a standard action. A witch can use this hex on the same target twice per 24 hours. The Accursed Hex feat lets her use it on that target 2 more times, instead of 1 more time.
+
+??? note "Original rule"
+
+    **Slumber (Su)**: A witch can cause a creature within 30 feet to fall into a deep, magical sleep, as per the spell sleep. The creature receives a Will save to negate the effect. If the save fails, the creature falls asleep for a number of rounds equal to the witch’s level. This hex can affect a creature of any HD. The creature will not wake due to noise or light, but others can rouse it with a standard action.
 
 This hex ends immediately if the creature takes damage.
 

@@ -162,7 +162,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Fox’s Cunning](foxs-cunning.md)**: Subject gains +4 to Int for 1 min./level.
 - **[Gentle Repose](gentle-repose.md)**: Preserves one corpse.
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
-- **[Haste](haste.md)**: One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
+- **[Haste](haste.md)**: One creature moves faster, gains an extra attack and +1 on attack rolls, AC, and Reflex saves, and can quicken a spell once per turn.
 - **[Helping Hand](helping-hand.md)**: Ghostly hand leads subject to you.
 - **[Heroism](heroism.md)**: Gives +2 bonus on attack rolls, saves, skill checks.
 - **[Hidden Knowledge](hidden-knowledge.md)**: Store knowledge in a tattoo, forgetting it temporarily.
@@ -273,6 +273,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
 - **[Geomessage](geomessage.md)**: Leave an invisible message on a surface
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
+- **[Haste, Area](haste.md)**: As *haste*, but affects one creature/level, no two more than 30 ft. apart.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
 - **[Impossible Angles](impossible-angles.md)**: Distort geometry in an area.

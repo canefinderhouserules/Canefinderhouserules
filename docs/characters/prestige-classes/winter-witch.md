@@ -27,9 +27,17 @@ To qualify to become a winter witch, a character must fulfill all of the followi
 
 **Skills**: Knowledge (arcana) 5 ranks, Spellcraft 5 ranks.
 
-**Spells**: Able to cast at least three different spells with the cold descriptor, one of which must be of 3rd level or higher.
+**Spells**: Able to cast at least three different spells with the cold descriptor, one of which must be of 1st level or higher.
 
 **Special**: Must have a patron and the ice magic class feature.
+
+??? note "Original requirements"
+
+    **Skills**: Knowledge (arcana) 5 ranks, Spellcraft 5 ranks.
+
+    **Spells**: Able to cast at least three different spells with the cold descriptor, one of which must be of 3rd level or higher.
+
+    **Special**: Must have a patron and the ice magic class feature.
 
 ### Class Skills
 

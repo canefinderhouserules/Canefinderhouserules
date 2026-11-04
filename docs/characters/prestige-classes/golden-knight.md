@@ -27,9 +27,19 @@ To qualify to become a golden knight, a character must fulfill all of the follow
 
 **Armor Proficiency**: Must be proficient with heavy armor.
 
-**Base Attack Bonus**: +5.
+**Base Attack Bonus**: +2.
 
-**Skills**: Diplomacy 5 ranks, Intimidate 5 ranks.
+**Skills**: Diplomacy 2 ranks, Intimidate 2 ranks.
+
+??? note "Original requirements"
+
+    **Alignment**: Any good.
+
+    **Armor Proficiency**: Must be proficient with heavy armor.
+
+    **Base Attack Bonus**: +5.
+
+    **Skills**: Diplomacy 5 ranks, Intimidate 5 ranks.
 
 ### Class Skills
 
@@ -43,7 +53,11 @@ The following are class features of the golden knight prestige class.
 
 **Weapon and Armor Proficiency**: A golden knight gains proficiency with all simple and martial weapons and with all forms of armor and shields.
 
-**Authoritative Command (Ex)**: As a move action, a golden knight can issue orders to a number of allies up to half his character level who are within 30 feet and can see, hear, and understand him. As long as at least one selected ally obeys the golden knight’s orders during that round, the golden knight and each compliant ally gain a +1 competence bonus on attack rolls, weapon damage rolls, and saving throws and to Armor Class for 1 round. Affected allies are not under any obligation to obey these commands, but do not gain the bonuses if they ignore the commands. At 6th level, this bonus increases to +2. At 8th level, a golden knight can use authoritative command as a swift action.
+**Authoritative Command (Ex)**: As a swift action, a golden knight can issue orders to a number of allies up to half his character level who are within 30 feet and can see, hear, and understand him. As long as at least one selected ally obeys the golden knight’s orders during that round, the golden knight and each compliant ally gain a +1 competence bonus on attack rolls, weapon damage rolls, and saving throws and to Armor Class for 1 round. Affected allies are not under any obligation to obey these commands, but do not gain the bonuses if they ignore the commands. At 6th level, this bonus increases to +2. At 8th level, a golden knight can use authoritative command as a free action.
+
+??? note "Original rule"
+
+    **Authoritative Command (Ex)**: As a move action, a golden knight can issue orders to a number of allies up to half his character level who are within 30 feet and can see, hear, and understand him. As long as at least one selected ally obeys the golden knight’s orders during that round, the golden knight and each compliant ally gain a +1 competence bonus on attack rolls, weapon damage rolls, and saving throws and to Armor Class for 1 round. Affected allies are not under any obligation to obey these commands, but do not gain the bonuses if they ignore the commands. At 6th level, this bonus increases to +2. At 8th level, a golden knight can use authoritative command as a swift action.
 
 **Defy Danger (Ex)**: A golden knight gains a +2 bonus on saving throws against one of the following dangers: charms and compulsions, curses, diseases, fear, poisons, traps, or the innate magical powers (spell-like abilities and supernatural abilities not gained from class levels) of one creature type (and subtype, if applicable) chosen from the ranger favored enemy list. At 5th level and again at 9th level, a golden knight gains an additional +2 bonus against a different danger; alternatively, he can increase the bonus against a previously selected danger by 2.
 

@@ -796,9 +796,17 @@ Some druids hear the whispers of the natural world like fey creatures do, and le
 
 **Fey Magic**: At 1st level, a feyspeaker allows the strange idylls of the fey to guide her magic. The feyspeaker uses her Charisma score instead of her Wisdom score as her key spellcasting ability score (to determine her spell DCs, bonus spells per day, concentration checks, and so on).
 
-At 4th, 6th, 8th, 10th, 12th, 14th, 16th, and 18th levels, a feyspeaker adds one enchantment or illusion spell from the sorcerer/wizard spell list to her druid spell list as a spell of 1 level higher (for instance, at 4th level, she could add *color spray* as a 2nd-level druid spell). In order to select a spell, she must be of a level high enough (including the increased spell level) to cast it. Once selected, the spell cannot be changed.
+At 4th, 6th, 8th, 10th, 12th, 14th, 16th, and 18th levels, a feyspeaker adds one enchantment or illusion spell from the sorcerer/wizard spell list to her druid spell list at the same level it has on the sorcerer/wizard spell list (for instance, she could add *color spray* as a 1st-level druid spell). In order to select a spell, she must be of a level high enough to cast it. Once selected, the spell cannot be changed.
 
-A feyspeaker loses the ability to spontaneously cast *summon nature’s ally* spells. She gains the wild shape ability at 6th level and gains all benefits related to wild shape 2  druid levels later than usual. She can never use wild shape to transform into an elemental. This ability alters wild shape and spellcasting.
+??? note "Original rule"
+
+    At 4th, 6th, 8th, 10th, 12th, 14th, 16th, and 18th levels, a feyspeaker adds one enchantment or illusion spell from the sorcerer/wizard spell list to her druid spell list as a spell of 1 level higher (for instance, at 4th level, she could add *color spray* as a 2nd-level druid spell). In order to select a spell, she must be of a level high enough (including the increased spell level) to cast it. Once selected, the spell cannot be changed.
+
+A feyspeaker loses the ability to spontaneously cast *summon nature’s ally* spells. She gains the wild shape ability at 6th level and gains all benefits related to wild shape 2  druid levels later than usual. She can never use wild shape to transform into an elemental, but she can use it to take the form of fey, and can use their spell-like abilities by expending spell slots of a level appropriate to the spell-like ability (with no need to prepare it). This ability alters wild shape and spellcasting.
+
+??? note "Original rule"
+
+    A feyspeaker loses the ability to spontaneously cast *summon nature’s ally* spells. She gains the wild shape ability at 6th level and gains all benefits related to wild shape 2  druid levels later than usual. She can never use wild shape to transform into an elemental. This ability alters wild shape and spellcasting.
 
 **Fey Speech (Ex)**: At 1st level, a feyspeaker’s words carry a tiny fragment of the otherworldly power of the fey’s voices. She gains Bluff, Diplomacy, Disguise, and Sense Motive as class skills. A feyspeaker also learns Sylvan as a bonus language. In addition, the feyspeaker gains a number of skill ranks at each level equal to 6 + her Intelligence modifier, instead of 4 + her Intelligence modifier. The feyspeaker’s base attack bonus from her druid levels is equal to half her druid level (much like a sorcerer’s base attack bonus is calculated), rather than the usual druid base attack bonus. This ability replaces nature sense and alters the druid’s base attack bonus, class skills, and skills ranks per level.
 
@@ -922,9 +930,17 @@ Some druids draw upon power irreverently stolen from one of the most dangerous c
 
 **Wild Shape (Su)**: A kraken caller's options for wild shape are limited to animals with the aquatic or water subtype or that have the amphibious special quality. The kraken caller can alternatively expend a daily use of wild shape to grow tentacles out of her body while otherwise retaining her own form. This effect lasts for 10 minutes per level, or until the kraken caller changes back.
 
-At 4th level, the kraken caller grows two tentacles while in this form. The tentacles have a reach of 5 feet regardless of the kraken caller's size, and the kraken caller can use them as secondary natural attacks that deal 1d4 points of damage (1d3 for a Small kraken caller). She also gains a racial bonus on Climb, Swim, and dirty trick combat maneuver checks equal to the number of tentacles grown.
+At 2nd level, the kraken caller grows one tentacle while in this form. The tentacles have a reach of 5 feet regardless of the kraken caller's size, and the kraken caller can use them as secondary natural attacks that deal 1d4 points of damage (1d3 for a Small kraken caller). She also gains a racial bonus on Climb, Swim, and dirty trick combat maneuver checks equal to the number of tentacles grown.
 
-At each of 6th, 8th, 10th, and 12th levels, a kraken caller can grow an additional tentacle. As a move action, she can retract or regrow any number of the additional tentacles, redistributing the mass of any retracted tentacles. For every 2 retracted tentacles, she can increase the reach of the remaining tentacles by 5 feet (to a maximum of 15 feet), or increase the damage dealt by her tentacles as if she were one size category larger.
+??? note "Original rule"
+
+    At 4th level, the kraken caller grows two tentacles while in this form. The tentacles have a reach of 5 feet regardless of the kraken caller's size, and the kraken caller can use them as secondary natural attacks that deal 1d4 points of damage (1d3 for a Small kraken caller). She also gains a racial bonus on Climb, Swim, and dirty trick combat maneuver checks equal to the number of tentacles grown.
+
+At every level after 2nd, up to 12th level, a kraken caller can grow an additional tentacle. These tentacles are not affected by the eidolon’s natural attack limit. As a move action, she can retract or regrow any number of the additional tentacles, redistributing the mass of any retracted tentacles. For every 2 retracted tentacles, she can increase the reach of the remaining tentacles by 5 feet (to a maximum of 15 feet), or increase the damage dealt by her tentacles as if she were one size category larger.
+
+??? note "Original rule"
+
+    At each of 6th, 8th, 10th, and 12th levels, a kraken caller can grow an additional tentacle. As a move action, she can retract or regrow any number of the additional tentacles, redistributing the mass of any retracted tentacles. For every 2 retracted tentacles, she can increase the reach of the remaining tentacles by 5 feet (to a maximum of 15 feet), or increase the damage dealt by her tentacles as if she were one size category larger.
 
 While in this form, a kraken caller can expel a 10-foot-radius cloud of ink once per minute as a standard action. This cloud provides total concealment in water and persists for 1 round per level. The ink has no effect out of water. This ability alters wild shape.
 
@@ -933,6 +949,8 @@ While in this form, a kraken caller can expel a 10-foot-radius cloud of ink once
 ## Green Scourge
 
 Green scourges are militant druids sworn to restore natural order. They’re less concerned with nurturing the natural world than most druids, instead focusing their efforts on slaying corrupted creatures.
+
+**Wisdom for Flame Blade**: A green scourge can use Wisdom instead of Charisma for feats and anything else that uses or requires *flame blade*.
 
 **Nature’s Armaments**: A green scourge can lose a prepared 1st- or 2nd-level spell in order to cast *shillelagh* or *flame blade*, respectively. She can instead choose to lose a higher-level spell in order to increase the enhancement bonus of her *shillelagh*, or to add any of the following weapon special abilities to her *shillelagh* or *flame blade*: bane (aberrations only), frost, mighty cleaving, returning, shock, throwing, or vicious. If the target weapon is a quarterstaff, these bonuses apply to only one of its ends. If a *flame blade* gains the frost or shock special ability, the base damage of the spell changes to match the energy type; neither a *flame blade* nor *shillelagh* can gain both of these special abilities. A green scourge cannot add the throwing property to a *flame blade* unless she also adds the returning property.
 

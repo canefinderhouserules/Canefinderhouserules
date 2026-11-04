@@ -9,3 +9,5 @@
 **Saving Throw** Fortitude half; **Spell Resistance** yes
 
 Favored by the necromancer the necromancer’s realm as a tool to turn his enemies’ armies against themselves, this potent death spell deals 1d6 points of damage per caster level (maximum 20d6) to living creatures in the area of effect.
+
+**Save-or-die**: The target rolls its saving throw twice and keeps the higher result, as explained in [Save-or-Die Spells](../casting-spells.md#save-or-die-spells).

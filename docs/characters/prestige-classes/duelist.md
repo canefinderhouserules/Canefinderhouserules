@@ -15,34 +15,33 @@ The path to the duelist is natural for rogues and bards, as those classes do not
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
 |---|---|---|---|---|---|
 | 1st | +1 | +0 | +1 | +0 | Canny defense, precise strike |
-| 2nd | +2 | +1 | +1 | +1 | Improved reaction +2, parry |
+| 2nd | +2 | +1 | +1 | +1 | Improved reaction +2, panache, parry and riposte, deed |
 | 3rd | +3 | +1 | +2 | +1 | Enhanced mobility |
-| 4th | +4 | +1 | +2 | +1 | Combat Reflexes, grace |
-| 5th | +5 | +2 | +3 | +2 | Riposte |
-| 6th | +6 | +2 | +3 | +2 | Acrobatic charge |
+| 4th | +4 | +1 | +2 | +1 | Combat Reflexes, grace, deed |
+| 5th | +5 | +2 | +3 | +2 | Riposte, evasion |
+| 6th | +6 | +2 | +3 | +2 | Acrobatic charge, deed |
 | 7th | +7 | +2 | +4 | +2 | Elaborate defense |
-| 8th | +8 | +3 | +4 | +3 | Improved reaction +4 |
+| 8th | +8 | +3 | +4 | +3 | Improved reaction +4, deed |
 | 9th | +9 | +3 | +5 | +3 | Deflect Arrows, no retreat |
-| 10th | +10 | +3 | +5 | +3 | Crippling critical |
+| 10th | +10 | +3 | +5 | +3 | Crippling critical, deed |
 
 ### Requirements
 
 To qualify to become a duelist, a character must fulfill all the following criteria.
 
-**Base Attack Bonus**: +6.
+**Base Attack Bonus**: +3.
 
 **Skills**: Acrobatics 2 ranks, Perform 2 ranks.
 
 **Feats**: Dodge, Mobility, Weapon Finesse.
 
-!!! warning "House rules"
-    - Requirement: base attack bonus +3 (instead of +6).
-    - Precise Strike works like the Legendary Swashbuckler's.
-    - Improved Reaction also grants Improved Initiative (in addition to what it already gives).
-    - Parry is replaced by the swashbuckler's Panache class feature, but using Intelligence instead of Charisma. You automatically gain Parry and Riposte.
-    - You gain 1 deed at every even level.
-    - At 5th level you gain evasion. If you already have evasion, it becomes improved evasion.
-    - Elaborate Defense: you may choose between increasing AC or reducing the attack penalty, and it also works with Combat Expertise.
+??? note "Original requirements"
+
+    **Base Attack Bonus**: +6.
+
+    **Skills**: Acrobatics 2 ranks, Perform 2 ranks.
+
+    **Feats**: Dodge, Mobility, Weapon Finesse.
 
 ### Class Skills
 
@@ -56,15 +55,31 @@ All of the following are class features of the duelist prestige class.
 
 **Weapon and Armor Proficiency**: The duelist is proficient with all simple and martial weapons. Duelists are proficient with light armor but not with shields.
 
+**Evasion (Ex)**: At 5th level, a duelist gains evasion. If she already has evasion, it becomes improved evasion.
+
+**Deeds**: A duelist gains 1 deed at every even level.
+
 **Canny Defense (Ex)**: When wearing light or no armor and not using a shield, a duelist adds 1 point of Intelligence bonus (if any) per duelist class level to her Dexterity bonus to modify Armor Class while wielding a melee weapon. If a duelist is caught flat-footed or otherwise denied her Dexterity bonus, she also loses this bonus.
 
-**Precise Strike (Ex)**: A duelist gains the ability to strike precisely with a light or one-handed piercing weapon, adding her duelist level to her damage roll.
+**Precise Strike (Ex)**: This works like the precise strike deed of the [Legendary Swashbuckler](../classes/legendary/legendary-swashbuckler.md), using the duelist’s class level as her swashbuckler level.
+
+??? note "Original rule"
+
+    **Precise Strike (Ex)**: A duelist gains the ability to strike precisely with a light or one-handed piercing weapon, adding her duelist level to her damage roll.
 
 When making a precise strike, a duelist cannot attack with a weapon in her other hand or use a shield. A duelist’s precise strike only works against living creatures with discernible anatomies. Any creature that is immune to critical hits is also immune to a precise strike, and any item or ability that protects a creature from critical hits also protects a creature from a precise strike.
 
-**Improved Reaction (Ex)**: At 2nd level, a duelist gains a +2 bonus on initiative checks. At 8th level, the bonus increases to +4. This bonus stacks with the benefit provided by the Improved Initiative feat.
+**Improved Reaction (Ex)**: At 2nd level, a duelist gains a +2 bonus on initiative checks. At 8th level, the bonus increases to +4. This bonus stacks with the benefit provided by the Improved Initiative feat. She also gains Improved Initiative as a bonus feat.
 
-**Parry (Ex)**: At 2nd level, a duelist learns to parry the attacks of other creatures, causing them to miss. Whenever the duelist takes a full attack action with a light or one-handed piercing weapon, she can elect not to take one of her attacks. At any time before her next turn, she can attempt to parry an attack against her or an adjacent ally as an immediate action. To parry the attack, the duelist makes an attack roll, using the same bonuses as the attack she chose to forego during her previous action. If her attack roll is greater than the roll of the attacking creature, the attack automatically misses. For each size category that the attacking creature is larger than the duelist, the duelist takes a –4 penalty on her attack roll. The duelist also takes a –4 penalty when attempting to parry an attack made against an adjacent ally. The duelist must declare the use of this ability after the attack is announced, but before the roll is made.
+??? note "Original rule"
+
+    **Improved Reaction (Ex)**: At 2nd level, a duelist gains a +2 bonus on initiative checks. At 8th level, the bonus increases to +4. This bonus stacks with the benefit provided by the Improved Initiative feat.
+
+**Panache (Ex)**: At 2nd level, a duelist gains the swashbuckler’s panache class feature, using Intelligence instead of Charisma. She automatically gains the parry and riposte deed.
+
+??? note "Original rule"
+
+    **Parry (Ex)**: At 2nd level, a duelist learns to parry the attacks of other creatures, causing them to miss. Whenever the duelist takes a full attack action with a light or one-handed piercing weapon, she can elect not to take one of her attacks. At any time before her next turn, she can attempt to parry an attack against her or an adjacent ally as an immediate action. To parry the attack, the duelist makes an attack roll, using the same bonuses as the attack she chose to forego during her previous action. If her attack roll is greater than the roll of the attacking creature, the attack automatically misses. For each size category that the attacking creature is larger than the duelist, the duelist takes a –4 penalty on her attack roll. The duelist also takes a –4 penalty when attempting to parry an attack made against an adjacent ally. The duelist must declare the use of this ability after the attack is announced, but before the roll is made.
 
 **Enhanced Mobility (Ex)**: Starting at 3rd level, when wearing light or no armor and not using a shield, a duelist gains an additional +4 bonus to AC against attacks of opportunity caused when she moves out of a threatened square.
 
@@ -76,7 +91,11 @@ When making a precise strike, a duelist cannot attack with a weapon in her other
 
 **Acrobatic Charge (Ex)**: At 6th level, a duelist gains the ability to charge in situations where others cannot. She may charge over difficult terrain that normally slows movement. Depending on the circumstance, she may still need to make appropriate checks to successfully move over the terrain.
 
-**Elaborate Defense (Ex)**: At 7th level and higher, if a duelist chooses to fight defensively or use total defense in melee combat, she gains an additional +1 dodge bonus to AC for every 3 levels of duelist she has attained.
+**Elaborate Defense (Ex)**: At 7th level and higher, if a duelist chooses to fight defensively or use total defense in melee combat, she gains an additional +1 dodge bonus to AC for every 3 levels of duelist she has attained. She can choose to reduce the attack penalty by the same amount instead of increasing her AC. This ability also works with Combat Expertise.
+
+??? note "Original rule"
+
+    **Elaborate Defense (Ex)**: At 7th level and higher, if a duelist chooses to fight defensively or use total defense in melee combat, she gains an additional +1 dodge bonus to AC for every 3 levels of duelist she has attained.
 
 **Deflect Arrows**: At 9th level, a duelist gains the benefit of the Deflect Arrows feat when using a light or one-handed piercing weapon. The duelist does not need a free hand to use this feat.
 

@@ -25,6 +25,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
 - **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Grasping Corpse](grasping-corpse.md)**: Cause a corpse to grab or trip a foe.
+- **[Gravity Bow](gravity-bow.md)**: Arrows do damage as though one size category bigger.
 - **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Haunting Reminder](haunting-reminder.md)**: Coerced target becomes shaken if it betrays you.
 - **[Hedging Weapons](hedging-weapons.md)**: Floating weapons protect you and make ranged attacks.

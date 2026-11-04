@@ -16,10 +16,10 @@ Because the road to becoming an eldritch knight requires both martial prowess an
 |---|---|---|---|---|---|---|
 | 1st | +1 | +1 | +0 | +0 | Bonus combat feat, diverse training | — |
 | 2nd | +2 | +1 | +1 | +1 | — | +1 level of existing arcane spellcasting class |
-| 3rd | +3 | +2 | +1 | +1 | — | +1 level of existing arcane spellcasting class |
+| 3rd | +3 | +2 | +1 | +1 | Arcing Weapon | +1 level of existing arcane spellcasting class |
 | 4th | +4 | +2 | +1 | +1 | — | +1 level of existing arcane spellcasting class |
 | 5th | +5 | +3 | +2 | +2 | Bonus combat feat | +1 level of existing arcane spellcasting class |
-| 6th | +6 | +3 | +2 | +2 | — | +1 level of existing arcane spellcasting class |
+| 6th | +6 | +3 | +2 | +2 | Explosive Weapon | +1 level of existing arcane spellcasting class |
 | 7th | +7 | +4 | +2 | +2 | — | +1 level of existing arcane spellcasting class |
 | 8th | +8 | +4 | +3 | +3 | — | +1 level of existing arcane spellcasting class |
 | 9th | +9 | +5 | +3 | +3 | Bonus combat feat | +1 level of existing arcane spellcasting class |
@@ -31,12 +31,13 @@ To qualify to become an eldritch knight, a character must fulfill all the follow
 
 **Weapon Proficiency**: Must be proficient with all martial weapons.
 
-**Spells**: Able to cast 3rd-level arcane spells.
+**Spells**: Able to cast 1st-level arcane spells.
 
-!!! warning "House rules"
-    - Requirement: able to cast 1st-level arcane spells (instead of 3rd).
-    - At 3rd level you gain Arcing Weapon (or an extra combat feat if you already have it).
-    - At 6th level you gain Explosive Weapon (or an extra combat feat if you already have it).
+??? note "Original requirements"
+
+    **Weapon Proficiency**: Must be proficient with all martial weapons.
+
+    **Spells**: Able to cast 3rd-level arcane spells.
 
 ### Class Skills
 
@@ -49,6 +50,10 @@ The eldritch knight’s class skills (and the key ability for each skill) are Cl
 All of the following are features of the eldritch knight prestige class.
 
 **Weapon and Armor Proficiency**: Eldritch knights gain no proficiency with any weapon or armor.
+
+**Explosive Weapon**: At 6th level, you gain [Explosive Weapon](../../rules/feats/explosive-weapon.md) as a bonus feat, or an extra combat feat if you already have it.
+
+**Arcing Weapon**: At 3rd level, you gain [Arcing Weapon](../../rules/feats/arcing-weapon.md) as a bonus feat, or an extra combat feat if you already have it.
 
 **Bonus Feat**: At 1st level, an eldritch knight may choose a bonus combat feat. This is in addition to the feats that a character of any class normally gets from advancing levels. The character must still meet any prerequisites for these bonus feats. An eldritch knight gains an additional combat feat at 5th and 9th level.
 

@@ -39,7 +39,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Line in the Sand](line-in-the-sand.md)**: Increase your attacks of opportunity per round.
 - **[Long Arm](long-arm.md)**: Your arms lengthen, giving you extra reach.
 - **[Mage Armor](mage-armor.md)**: Gives subject +4 armor bonus.
-- **[Magic Missile](magic-missile.md)**: 1d4+1 damage; +1 missile per two levels above 1st (max 5).
+- **[Magic Missile](magic-missile.md)**: 1d4+2 damage; +1 missile per two levels above 1st (max 5).
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
 - Marid's Mastery
 - Mirror Strike
@@ -57,7 +57,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
 - **[Shadow Weapon](shadow-weapon.md)**: Create a quasi-real masterwork weapon.
-- **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
+- **[Shield](shield.md)**: Invisible disc gives +3 to AC, blocks *magic missiles.*
 - **[Shield of Shards](shield-of-shards.md)**: Your shield breaks into orbiting shards that attack.
 - **[Shocking Grasp](shocking-grasp.md)**: Touch delivers 1d6/level electricity damage (max 5d6).
 - Shock Shield
@@ -209,7 +209,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - Gloomblind Bolts
 - **[God of Good Dragons’s Shining Scales](god-of-good-dragonss-shining-scales.md)**: You envelop your body with silver radiance that manifests as scales surrounding your body, granting you a +5 a…
 - **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
-- **[Haste](haste.md)**: One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
+- **[Haste](haste.md)**: One creature moves faster, gains an extra attack and +1 on attack rolls, AC, and Reflex saves, and can quicken a spell once per turn.
 - **[Heroism](heroism.md)**: Gives +2 bonus on attack rolls, saves, skill checks.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - Hostile Levitation
@@ -295,6 +295,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
 - **[Frosty Aura](frosty-aura.md)**: Gain the cold subtype, or an aura of cold if you already have it.
 - **[Furious Fire Barrage](furious-fire-barrage.md)**: Throw fireballs fueled by anger.
+- **[Haste, Area](haste.md)**: As *haste*, but affects one creature/level, no two more than 30 ft. apart.
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.

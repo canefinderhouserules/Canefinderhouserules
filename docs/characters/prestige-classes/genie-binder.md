@@ -20,11 +20,21 @@ To qualify to become a genie binder, a character must fulfill the following crit
 
 **Alignment**: Any nongood.
 
-**Feats**: Persuasive, Spell Focus (conjuration).
+**Feats**: Spell Focus (conjuration).
 
-**Skills**: Diplomacy 4 ranks, Knowledge (nobility) 4 ranks, Knowledge (planes) 11 ranks.
+**Skills**: Diplomacy 2 ranks, Knowledge (nobility) 2 ranks, Knowledge (planes) 6 ranks.
 
-**Special**: Able to cast either *planar ally* or *planar binding*, or able to cast *summon monster VI* as a spell-like ability.
+**Special**: Able to cast *summon monster II* as a spell or spell-like ability.
+
+??? note "Original requirements"
+
+    **Alignment**: Any nongood.
+
+    **Feats**: Persuasive, Spell Focus (conjuration).
+
+    **Skills**: Diplomacy 4 ranks, Knowledge (nobility) 4 ranks, Knowledge (planes) 11 ranks.
+
+    **Special**: Able to cast either *planar ally* or *planar binding*, or able to cast *summon monster VI* as a spell-like ability.
 
 ### Class Skills
 
@@ -37,6 +47,8 @@ The genie binder’s class skills (and the key ability for each skill) are Bluff
 The following are class features of the genie binder prestige class.
 
 **Weapon and Armor Proficiency**: A genie binder gains no additional weapon or armor proficiencies.
+
+**Persuasive**: At 1st level, a genie binder gains Persuasive as a bonus feat.
 
 **Binding Pool (Su)**: Using a combination of blackmail, contracts, magical finesse, and negotiation, a genie binder can command genies and channel their magic. A genie binder has a binding pool equal to twice her genie binder class level, and the pool recharges each day, typically after she gets a restful night’s sleep. As a free action before attempting a Charisma check or Charisma-based skill check to interact with a genie, the genie binder can expend 1 point from her binding pool to add 1d6 to the result.
 

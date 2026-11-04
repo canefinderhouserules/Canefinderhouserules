@@ -79,7 +79,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Rune Trace](rune-trace.md)**: Learn a rune’s age, language, and purpose.
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
 - **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
-- **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
+- **[Shield](shield.md)**: Invisible disc gives +3 to AC, blocks *magic missiles.*
 - Shock Shield
 - Warding Weapon
 
@@ -499,7 +499,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
 - **[Ghost Brand](ghost-brand.md)**: Allow an item to transform into a brand and back.
-- **[Haste](haste.md)**: One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
+- **[Haste](haste.md)**: One creature moves faster, gains an extra attack and +1 on attack rolls, AC, and Reflex saves, and can quicken a spell once per turn.
 - **[Heart of the Metal](heart-of-the-metal.md)**
 - Hostile Levitation
 - **[Keen Edge](keen-edge.md)**: Doubles normal weapon’s threat range.
@@ -535,6 +535,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Globe of Invulnerability, Lesser](globe-of-invulnerability-lesser.md)**: Stops 1st- through 3rd- level spell effects.
 - **[Greater Hypnotism](greater-hypnotism.md)**: hypnotize more creatures and make several requests
+- **[Haste, Area](haste.md)**: As *haste*, but affects one creature/level, no two more than 30 ft. apart.
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
 - **[Life Bubble](life-bubble.md)**: Protects creatures from sustained environmental effects.
 - Nondetection, Communal

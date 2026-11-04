@@ -58,7 +58,11 @@ While metamagic is difficult for many bloodragers to utilize, a talented few are
 
 While bloodrage powers come from the very essence of a bloodrager's being and are often strict and immutable, some bloodragers tap into ancient traditions and primitive wisdom to enhance their rages with something more primal. The primalist mixes his bloodline with more traditional rage powers.
 
-**Primal Choices**: At 4th level and every 4 levels thereafter, a primalist can choose to take either his bloodline power or two barbarian rage powers. If the primalist chooses rage powers, those rage powers can be used in conjunction with his bloodrage, and his bloodrager level acts as his barbarian level when determining the effect of those bloodrage powers and any prerequisites. Any other prerequisites for a rage power must be met before a primalist can choose it. This ability does not count as the rage power class feature for determining feat prerequisites and other requirements. This ability alters the bloodline class feature.
+**Primal Choices**: At 4th level and every 4 levels thereafter, a primalist can choose to take either his bloodline power or one barbarian rage power. He cannot choose rage powers exclusive to the unchained barbarian (see stances). If the primalist chooses a rage power, that rage power can be used in conjunction with his bloodrage, and his bloodrager level acts as his barbarian level when determining the effect of those bloodrage powers and any prerequisites. Any other prerequisites for a rage power must be met before a primalist can choose it. This ability does not count as the rage power class feature for determining feat prerequisites and other requirements. This ability alters the bloodline class feature.
+
+??? note "Original rule"
+
+    **Primal Choices**: At 4th level and every 4 levels thereafter, a primalist can choose to take either his bloodline power or two barbarian rage powers. If the primalist chooses rage powers, those rage powers can be used in conjunction with his bloodrage, and his bloodrager level acts as his barbarian level when determining the effect of those bloodrage powers and any prerequisites. Any other prerequisites for a rage power must be met before a primalist can choose it. This ability does not count as the rage power class feature for determining feat prerequisites and other requirements. This ability alters the bloodline class feature.
 
 ## Rageshaper
 
@@ -185,7 +189,11 @@ Ancient legends claim that a race of great-cat folk was created to protect the w
 
 **Spirit**: At 1st level, a spirit prowler gains the ability to channel the spirits of creation, granting him the medium's spirit and spirit surge abilities. A prowler channels the cheetah (which acts as the trickster), the leopard (which acts as the guardian), the lion (which acts as the marshal), and the tiger (which acts as the champion). The prowler does not have access to the archmage or hierophant legends. The favored locations for these spirits are altars, churches, sacred groves, and shrines, and their taboo requires the prowler to strongly revere nature and attempt to either destroy or incapacitate evil wherever he encounters it.
 
-A spirit prowler gains his spirit's lesser power at 1st level, its intermediate power at 8th level, and its greater power at 16th level. A prowler's spirit surge bonus never advances beyond 1d6. This ability replaces the 1st-, 8th-, and 16th-level bloodline powers.
+A spirit prowler gains his spirit's lesser power at 1st level, its intermediate power at 8th level, and its greater power at 16th level. A prowler's spirit surge bonus never advances beyond 1d6. His spirit bonus is calculated as that of a medium with a level equal to his bloodrager level –2 (minimum 1). This ability replaces the 1st-, 8th-, and 16th-level bloodline powers.
+
+??? note "Original rule"
+
+    A spirit prowler gains his spirit's lesser power at 1st level, its intermediate power at 8th level, and its greater power at 16th level. A prowler's spirit surge bonus never advances beyond 1d6. This ability replaces the 1st-, 8th-, and 16th-level bloodline powers.
 
 **Bloodline Powers**: At 4th level, a spirit prowler gains the bloodline power normally granted by his bloodline at 1st level. At 9th level, he gains the bloodline power normally granted by his bloodline at 4th level. At 12th level, he gains the bloodline power normally granted by his bloodline at 8th level. At 15th level, he gains the bloodline power normally granted by his bloodline at 12th level. At 20th level, he gains the bloodline power normally granted by his bloodline at 16th level. This ability alters the 4th-, 16th-, and 20th-level bloodline powers and replaces the 9th-level and 15th-level bloodline feats.
 

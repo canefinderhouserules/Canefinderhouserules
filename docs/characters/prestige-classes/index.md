@@ -6,17 +6,25 @@ This chapter presents 10 prestige classes for you to choose from, and other pres
 
 The prestige classes presented in this chapter are summarized below.
 
+**[Agent of the Grave](agent-of-the-grave.md)**: An evil spellcaster who serves undead masters and studies the secrets of undeath.
+
 **[Arcane Archer](arcane-archer.md)**: An arcane spellcaster who draws upon ancient elven traditions to infuse his arrows with potent magical power.
 
 **[Arcane Trickster](arcane-trickster.md)**: A troublemaker and a scoundrel who uses arcane magic to enhance her thievery and trickery.
 
 **[Assassin](assassin.md)**: A remorseless murderer who kills for money and the sheer thrill of death-dealing.
 
+**[Blood Bloatmage](blood-bloatmage.md)**: An arcane caster who swells with magically charged blood and spends it to fuel spells.
+
+**[Chevalier](chevalier.md)**: A daring hero who rides into danger with little regard for personal safety.
+
 **[Dragon Disciple](dragon-disciple.md)**: An arcane spellcaster who has embraced his latent draconic heritage and, over the course of training and devotion, undergoes a partial transformation into a dragon.
 
 **[Duelist](duelist.md)**: A swashbuckling swordfighter who relies upon grace, poise, and acrobatics to win the day.
 
 **[Eldritch Knight](eldritch-knight.md)**: An arcane spellcaster who augments his magical skills with combat to create a deadly combination of weapons and magic.
+
+**[Halfling Opportunist](halfling-opportunist.md)**: A halfling who turns the actions of larger foes to their own advantage.
 
 **[Loremaster](loremaster.md)**: A spellcaster who devotes his life to research and rumination upon the mysteries of the world.
 

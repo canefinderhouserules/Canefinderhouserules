@@ -9,3 +9,5 @@
 **Saving Throw** Will negates; **Spell Resistance** yes
 
 This spell functions as *death knell aura*, except a dying creature in the area cannot stabilize on its own and automatically takes 1 point of bleed damage on its turn each round. An incorporeal undead or living spirit traveling outside the body (such as a person using *astral projection* or *magic jar*) within the aura at the start of its turn takes 1d8 points of damage.
+
+**Save-or-die**: The target rolls its saving throw twice and keeps the higher result, as explained in [Save-or-Die Spells](../casting-spells.md#save-or-die-spells).

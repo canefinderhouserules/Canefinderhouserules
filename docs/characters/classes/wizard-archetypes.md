@@ -488,6 +488,8 @@ This ability does not turn you invisible and opponents are not considered flat-f
 
 forgoes the tried and true methods of arcane focus and arcane schools for the exploits favored by an arcanist. Some wizards regard this blatant exploitation of arcane magic as somehow "cheating," but most exploiters believe this prejudice is close-minded and overly traditional.
 
+**Bonus Feats**: An exploiter wizard also gives up the wizard’s bonus feats.
+
 **Arcane Reservoir (Su)**: At 1st level, the exploiter wizard gains the arcanist's arcane reservoir class feature. The exploiter wizard uses his wizard level as his arcanist level for determining how many arcane reservoir points he gains at each level. This ability replaces arcane bond. Exploiter Exploit: At 1st level and every 4 levels thereafter, the exploiter wizard gains a single arcanist exploit. The exploiter wizard uses his wizard level as his arcanist level for determining the effects and DCs of his arcanist exploits. This ability replaces arcane school.
 
 ## Spell Sage

@@ -100,7 +100,11 @@ At 1st level, an alchemist must focus on a particular path of alchemy, devoting 
 
 #### Bomb (Su)
 
-Alchemists are adept at swiftly mixing various volatile chemicals and infusing them with their magical reserves to create powerful bombs that they can hurl at their enemies. An alchemist can create a single bomb per round.
+Alchemists are adept at swiftly mixing various volatile chemicals and infusing them with their magical reserves to create powerful bombs that they can hurl at their enemies. An alchemist can use a number of bombs each day equal to their class level + their Intelligence modifier, and can create a single bomb per round.
+
+??? note "Original rule"
+
+    Alchemists are adept at swiftly mixing various volatile chemicals and infusing them with their magical reserves to create powerful bombs that they can hurl at their enemies. An alchemist can create a single bomb per round.
 
 Bombs are unstable, and if not used in the round they are created, they degrade and become inert—their method of creation prevents large volumes of explosive material from being created and stored. In order to create a bomb, the alchemist must use a small vial containing an ounce of liquid catalyst—the alchemist can create this liquid catalyst from small amounts of chemicals from an alchemy lab, and these supplies can be readily refilled in the same manner as a spellcaster’s component pouch. Once created, a catalyst vial remains usable by the alchemist for years.
 

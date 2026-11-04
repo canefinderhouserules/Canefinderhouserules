@@ -29,11 +29,23 @@ To qualify to become an exalted, a character must fulfill all of the following c
 
 **Deity**: Must worship a single, specific deity.
 
-**Feats**: Skill Focus (Knowledge [religion]).
+**Feats**: [Deific Obedience](../../rules/feats/deific-obedience.md).
 
 **Skills**: Diplomacy 5 ranks, Knowledge (religion) 5 ranks.
 
-**Spells**: Ability to cast 3rd-level divine spells.
+**Base Attack Bonus**: +1.
+
+??? note "Original requirements"
+
+    **Alignment**: Same as chosen deity.
+
+    **Deity**: Must worship a single, specific deity.
+
+    **Feats**: Skill Focus (Knowledge [religion]).
+
+    **Skills**: Diplomacy 5 ranks, Knowledge (religion) 5 ranks.
+
+    **Spells**: Ability to cast 3rd-level divine spells.
 
 ### Class Skills
 

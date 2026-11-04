@@ -27,9 +27,19 @@ To qualify to become a champion of the enlightened, a character must fulfill all
 
 **Deity**: Must worship a deity of perfection, knowledge, or self-improvement.
 
-**Skills**: Knowledge (religion) 5 ranks, 5 ranks total in Linguistics or other Knowledge skills.
+**Skills**: Knowledge (religion) 3 ranks, 3 ranks total in Linguistics or other Knowledge skills.
 
-**Special**: Smite evil class feature, still mind class feature.
+**Special**: Smite evil class feature, Improved Unarmed Strike. You can ignore all of these requirements and instead have 4 levels of [paladin of perfection](../classes/paladin-archetypes.md#paladin-of-perfection), in which case you also gain the aligned class ability (which only works with that paladin archetype).
+
+??? note "Original requirements"
+
+    **Alignment**: Lawful good.
+
+    **Deity**: Must worship a deity of perfection, knowledge, or self-improvement.
+
+    **Skills**: Knowledge (religion) 5 ranks, 5 ranks total in Linguistics or other Knowledge skills.
+
+    **Special**: Smite evil class feature, still mind class feature.
 
 ### Class Skills
 
@@ -42,6 +52,10 @@ The champion of the enlightened's class skills (and the key ability for each ski
 The following are class features of the champion of the enlightened prestige class.
 
 **Weapon and Armor Proficiency**: A champion gains no additional weapon or armor proficiencies.
+
+**Aligned Class (Ex)**: At 2nd level, a champion of the enlightened must choose a class they belonged to before adding the prestige class to be their aligned class. They gain all the class features of this class, essentially adding every champion of the enlightened level beyond 1st to their aligned class to determine what class features they gain. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class, but gain all other class features of their aligned class as well as those of this prestige class. A champion of the enlightened gains this ability only if they qualified with levels of paladin of perfection, and it only works with that archetype.
+
+**Enlightened Training**: You choose whether to use Charisma or Wisdom for all the class features this prestige class advances (for example, Charisma to AC, like the monk’s, even if you are not a scaled fist monk). This prestige class also gives you those class features even if you have not gained them yet, counting levels of this class as monk levels only to improve and unlock the class features it mentions.
 
 **Detect Chaos (Sp)**: This ability functions like a paladin’s detect evil ability, but detects chaos instead of evil.
 

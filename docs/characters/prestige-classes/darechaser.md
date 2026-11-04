@@ -25,15 +25,25 @@ While the faithful of a god of bravery, competition, and sport thrive in sportin
 
 To qualify to become a darechaser, a character must fulfill all of the following criteria.
 
-**Base Attack Bonus**: +5.
+**Base Attack Bonus**: +2.
 
 **Alignment**: Lawful good, neutral good, or chaotic good.
 
 **Deity**: Must worship a deity whose portfolio includes bravery, competition, or sport.
 
-**Feats**: Athletic.
+**Skills**: Acrobatics 3 ranks, Climb 3 ranks, Swim 3 ranks.
 
-**Skills**: Acrobatics 5 ranks, Climb 5 ranks, Swim 5 ranks.
+??? note "Original requirements"
+
+    **Base Attack Bonus**: +5.
+
+    **Alignment**: Lawful good, neutral good, or chaotic good.
+
+    **Deity**: Must worship a deity whose portfolio includes bravery, competition, or sport.
+
+    **Feats**: Athletic.
+
+    **Skills**: Acrobatics 5 ranks, Climb 5 ranks, Swim 5 ranks.
 
 ### Class Skills
 
@@ -43,9 +53,15 @@ The darechaser's class skills (and the key ability for each skill) are Acrobatic
 
 ### Class Features
 
+**Athletic**: At 1st level, a darechaser gains Athletic as a bonus feat.
+
 The following are class features of the darechaser prestige class.
 
-**Adrenaline Rush (Ex)**: A darechaser can call upon her inner reserves of strength and speed as a free action to overcome otherwise insurmountable obstacles. A darechaser can harness this energy for a number of rounds per day equal to 4 + her Constitution modifier. At each level after 1st, she can use adrenaline rush for an additional 2 rounds. Temporary increases to Constitution do not allow her to use this ability for additional rounds per day. If she has the rage class feature, she can expend rounds of rage to activate and sustain her adrenaline rush (e.g. for making Constitution checks). While experiencing an adrenaline rush, a darechaser gains a +1 bonus on Acrobatics, Climb, Constitution, Dexterity, Escape Artist, Ride, Strength, and Swim checks. This bonus increases by 1 at 3rd level and every 2 levels thereafter (maximum +5). A darechaser can end her adrenaline rush as a free action and is fatigued afterward for a number of rounds equal to double the number of rounds she used this ability. A darechaser can't begin an adrenaline rush while fatigued or exhausted. If she falls unconscious, she can choose to continue her adrenaline rush.
+**Adrenaline Rush (Ex)**: A darechaser can call upon her inner reserves of strength and speed as a free action to overcome otherwise insurmountable obstacles. A darechaser can harness this energy for a number of rounds per day equal to 4 + her Constitution modifier. At each level after 1st, she can use adrenaline rush for an additional 2 rounds. Temporary increases to Constitution do not allow her to use this ability for additional rounds per day. If she has the rage class feature, she can expend rounds of rage to activate and sustain her adrenaline rush (e.g. for making Constitution checks). While experiencing an adrenaline rush, a darechaser gains a +1 bonus on Acrobatics, Climb, Constitution, Dexterity, Escape Artist, Ride, Strength, and Swim checks. This bonus increases by 1 at 3rd level and every 2 levels thereafter (maximum +5). She also gains a +2 morale bonus to all physical ability scores, which improves to +4 at 6th level. A darechaser can end her adrenaline rush as a free action and is fatigued afterward for a number of rounds equal to double the number of rounds she used this ability. A darechaser can't begin an adrenaline rush while fatigued or exhausted. If she falls unconscious, she can choose to continue her adrenaline rush.
+
+??? note "Original rule"
+
+    **Adrenaline Rush (Ex)**: A darechaser can call upon her inner reserves of strength and speed as a free action to overcome otherwise insurmountable obstacles. A darechaser can harness this energy for a number of rounds per day equal to 4 + her Constitution modifier. At each level after 1st, she can use adrenaline rush for an additional 2 rounds. Temporary increases to Constitution do not allow her to use this ability for additional rounds per day. If she has the rage class feature, she can expend rounds of rage to activate and sustain her adrenaline rush (e.g. for making Constitution checks). While experiencing an adrenaline rush, a darechaser gains a +1 bonus on Acrobatics, Climb, Constitution, Dexterity, Escape Artist, Ride, Strength, and Swim checks. This bonus increases by 1 at 3rd level and every 2 levels thereafter (maximum +5). A darechaser can end her adrenaline rush as a free action and is fatigued afterward for a number of rounds equal to double the number of rounds she used this ability. A darechaser can't begin an adrenaline rush while fatigued or exhausted. If she falls unconscious, she can choose to continue her adrenaline rush.
 
 **Dare (Ex)**: As a swift action while using her adrenaline rush, a darechaser can expend a round of her adrenaline rush to dare herself to accomplish a great deed. Although many announce these dares aloud, the ability functions as long as she can coherently and mentally articulate her dare; she cannot use this ability while confused, dazed, stunned, or panicked. She can use it while using the rage class feature, but only if she loudly announces the dare (treat this as having audible components—it can be defeated by magical silence). Once she declares her dare, the darechaser can add 1d6 to the result of any one attack roll, saving throw, or other check that directly helps her fulfill the dare. If the result of the d6 roll is a natural 6, she can roll another 1d6 and add it to the check. She can continue to do this as long as she rolls natural 6s, up to a number of times equal to her Constitution modifier (minimum 1). At 5th level, she can instead add 1d8 to the result of one check to fulfill a dare, rolling an additional die only if she rolls a natural 8. At 10th level, she can instead add 1d10 to the result of one check, rolling an additional die only if she rolls a natural 10. A darechaser thrives on challenging herself to accomplish difficult goals, and she receives little satisfaction when fulfilling easy objectives. If her check succeeded only because of the additional die's (or dice's) result, she benefits from one of the following effects (chosen by her) immediately after fulfilling the dare. If she succeeds at the check despite the added die's result, she gains no additional benefit.
 

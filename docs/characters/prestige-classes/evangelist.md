@@ -29,7 +29,17 @@ To qualify to become an evangelist, a character must fulfill all of the followin
 
 **Deity**: Must worship a single, specific deity. While any worshiper of any deity can become an evangelist, the unique focus of each faith inspires individuals of different backgrounds to aspire to this path within that faith.
 
-**Special**: Any one of the following: base attack bonus +5, 5 ranks in any skill other than Knowledge (religion), or ability to cast 3rd-level spells.
+**Feats**: [Deific Obedience](../../rules/feats/deific-obedience.md).
+
+**Spells**: Able to cast 1st-level spells.
+
+??? note "Original requirements"
+
+    **Alignment**: Within one step of chosen deity.
+
+    **Deity**: Must worship a single, specific deity. While any worshiper of any deity can become an evangelist, the unique focus of each faith inspires individuals of different backgrounds to aspire to this path within that faith.
+
+    **Special**: Any one of the following: base attack bonus +5, 5 ranks in any skill other than Knowledge (religion), or ability to cast 3rd-level spells.
 
 ### Class Skills
 

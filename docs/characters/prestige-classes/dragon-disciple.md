@@ -37,9 +37,6 @@ To qualify to become a dragon disciple, a character must fulfill all the followi
 
 **Spellcasting**: Ability to cast 1st-level arcane spells without preparation. If the character has sorcerer levels, he must have the draconic bloodline. If the character gains levels of sorcerer after taking this class, he must take the draconic bloodline.
 
-!!! warning "House rules"
-    - Your dragon disciple level counts double for the duration and number of uses of your draconic bloodline abilities.
-
 ### Class Skills
 
 The dragon disciple’s class skills (and the key ability for each skill) are Diplomacy (Cha), Escape Artist (Dex), Fly (Dex), Knowledge (all skills taken individually) (Int), Perception (Wis), and Spellcraft (Int).
@@ -51,6 +48,8 @@ The dragon disciple’s class skills (and the key ability for each skill) are Di
 All of the following are class features of the dragon disciple prestige class.
 
 **Weapon and Armor Proficiency**: Dragon disciples gain no proficiency with any weapon or armor.
+
+**Draconic Power**: Your dragon disciple level counts double for the duration and number of uses of your draconic bloodline abilities.
 
 **Spells per Day**: At the indicated levels, a dragon disciple gains new spells per day as if he had also gained a level in an arcane spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one arcane spellcasting class before becoming a dragon disciple, he must decide to which class he adds the new level for purposes of determining spells per day.
 

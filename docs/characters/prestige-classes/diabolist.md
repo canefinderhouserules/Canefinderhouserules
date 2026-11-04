@@ -10,13 +10,27 @@ To qualify to become a diabolist, a character must fulfill all of the following 
 
 ** Feat**: Fiendish Obedience.
 
-** Skills**: Knowledge (planes) 7 ranks, Knowledge (religion) 7 ranks, Spellcraft 7 ranks.
+**Skills**: Knowledge (planes) 5 ranks, Knowledge (religion) 5 ranks, Spellcraft 5 ranks.
 
 ** Language**: Infernal.
 
-** Spells**: Ability to cast at least two conjuration spells of two different spell levels.
+**Spells**: Ability to cast 1st-level spells.
 
 ** Special**: Must worship an archdevil, infernal duke, or malebranche; must have conjured a devil using *lesser planar ally* or* lesser planar binding* (or a similar spell) to successfully command the devil to perform a task that takes a minimum of 1 day to complete.
+
+??? note "Original requirements"
+
+    ** Alignment**: Lawful evil.
+
+    ** Feat**: Fiendish Obedience.
+
+    ** Skills**: Knowledge (planes) 7 ranks, Knowledge (religion) 7 ranks, Spellcraft 7 ranks.
+
+    ** Language**: Infernal.
+
+    ** Spells**: Ability to cast at least two conjuration spells of two different spell levels.
+
+    ** Special**: Must worship an archdevil, infernal duke, or malebranche; must have conjured a devil using *lesser planar ally* or* lesser planar binding* (or a similar spell) to successfully command the devil to perform a task that takes a minimum of 1 day to complete.
 
 **Class Skills**
 
@@ -28,18 +42,20 @@ The Diabolist’s class skills are Bluff (Cha), Diplomacy (Cha), Intimidate (Cha
 
 **Class Features**
 
+**Aligned Class (Ex)**: At 2nd level, a diabolist must choose a class they belonged to before adding the prestige class to be their aligned class. They gain all the class features of this class, essentially adding every diabolist level beyond 1st to their aligned class to determine what class features they gain. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class, but gain all other class features of their aligned class as well as those of this prestige class.
+
 | **Level** | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** | **Special** | **Spells Per Day** |
 |---|---|---|---|---|---|---|
 | 1st | +0 | +0 | +0 | +1 | Damned, imp familiar, infernal charisma +2, obedience | — |
-| 2nd | +1 | +1 | +1 | +1 | Channel hellfire, infernal bargain | +1 level of existing class |
-| 3rd | +1 | +1 | +1 | +2 | Augment Summoning, diabolic boon 1, heresy +2 | +1 level of existing class |
-| 4th | +2 | +1 | +1 | +2 | Infernal charisma +4 | +1 level of existing class |
-| 5th | +2 | +2 | +2 | +3 | Hellish soul, imp spell-like abilities | +1 level of existing class |
-| 6th | +3 | +2 | +2 | +3 | Diabolic boon 2, infernal transport | +1 level of existing class |
-| 7th | +3 | +2 | +2 | +4 | Infernal charisma +6 | +1 level of existing class |
-| 8th | +4 | +3 | +3 | +4 | Hellfire ray, imp spell-like abilities | +1 level of existing class |
-| 9th | +4 | +3 | +3 | +5 | Diabolic boon 3, heresy +4 | +1 level of existing class |
-| 10th | +5 | +3 | +3 | +5 | Master conjurer | +1 level of existing class |
+| 2nd | +1 | +1 | +1 | +1 | Channel hellfire, infernal bargain, aligned class | +1 level of existing class |
+| 3rd | +1 | +1 | +1 | +2 | Augment Summoning, diabolic boon 1, heresy +2, aligned class | +1 level of existing class |
+| 4th | +2 | +1 | +1 | +2 | Infernal charisma +4, aligned class | +1 level of existing class |
+| 5th | +2 | +2 | +2 | +3 | Hellish soul, imp spell-like abilities, aligned class | +1 level of existing class |
+| 6th | +3 | +2 | +2 | +3 | Diabolic boon 2, infernal transport, aligned class | +1 level of existing class |
+| 7th | +3 | +2 | +2 | +4 | Infernal charisma +6, aligned class | +1 level of existing class |
+| 8th | +4 | +3 | +3 | +4 | Hellfire ray, imp spell-like abilities, aligned class | +1 level of existing class |
+| 9th | +4 | +3 | +3 | +5 | Diabolic boon 3, heresy +4, aligned class | +1 level of existing class |
+| 10th | +5 | +3 | +3 | +5 | Master conjurer, aligned class | +1 level of existing class |
 
 The following are class features of this prestige class.
 

@@ -29,9 +29,19 @@ To qualify to become a green faith acolyte, a character must fulfill all of the 
 
 **Feats**: Green Faith Acolyte.
 
-**Skills**: Handle Animal 5 ranks, Knowledge (nature) 5 ranks, Survival 5 ranks.
+**Skills**: Handle Animal 2 ranks, Knowledge (nature) 2 ranks, Survival 2 ranks.
 
-**Spells**: Able to cast 3rd-level divine spells.
+**Spells**: Able to cast 1st-level divine spells.
+
+??? note "Original requirements"
+
+    **Alignment**: Any neutral.
+
+    **Feats**: Green Faith Acolyte.
+
+    **Skills**: Handle Animal 5 ranks, Knowledge (nature) 5 ranks, Survival 5 ranks.
+
+    **Spells**: Able to cast 3rd-level divine spells.
 
 ### Class Skills
 
@@ -45,11 +55,19 @@ The following are class features of the green faith acolyte prestige class.
 
 **Weapon and Armor Proficiency**: A Green Faith acolyte gains no additional weapon or armor proficiencies.
 
-**Companion Bond (Ex)**: At the indicated levels, a Green Faith acolyte increases her effective druid level by 1 for determining the abilities of her animal companion. If she has no animal companion, she instead gains a druid animal companion, treating her effective druid level as 1/2 her class level (minimum 1).
+**Companion Bond (Ex)**: At the indicated levels, a Green Faith acolyte increases her effective druid level by 1 for determining the abilities of her animal companion, or of any companion she already had, as any class with a companion does. If she has no animal companion, she instead gains a druid animal companion, using her class level as her effective druid level.
+
+??? note "Original rule"
+
+    **Companion Bond (Ex)**: At the indicated levels, a Green Faith acolyte increases her effective druid level by 1 for determining the abilities of her animal companion. If she has no animal companion, she instead gains a druid animal companion, treating her effective druid level as 1/2 her class level (minimum 1).
 
 **Wild Empathy (Ex)**: This ability is identical to the druid class ability. For the purpose of this ability, a Green Faith acolyte’s class level stacks with levels in any other class that grants the wild empathy ability.
 
-**Wild Link (Su)**: At the indicated levels, a Green Faith acolyte increases her effective druid level by 1 for determining the powers and uses per day of her wild shape ability. If a Green Faith acolyte doesn’t have the wild shape class ability, she instead gains the wild shape ability of a 4th-level druid when she has a wild link bonus of +4, increasing her effective druid level by 1 for each iteration of this ability beyond +4.
+**Wild Link (Su)**: At the indicated levels, a Green Faith acolyte directly gains the wild shape class feature, or improves the one she already has if she has druid levels or any class or archetype with wild shape, adding her wild link levels to unlock more forms and uses.
+
+??? note "Original rule"
+
+    **Wild Link (Su)**: At the indicated levels, a Green Faith acolyte increases her effective druid level by 1 for determining the powers and uses per day of her wild shape ability. If a Green Faith acolyte doesn’t have the wild shape class ability, she instead gains the wild shape ability of a 4th-level druid when she has a wild link bonus of +4, increasing her effective druid level by 1 for each iteration of this ability beyond +4.
 
 **Hibernate (Su)**: At 3rd level, a Green Faith acolyte can enter a state of suspended animation as a full-round action. This state is similar to the effect of *sepia snake sigil*, except that the Green Faith acolyte is aware of changes in her surroundings or harm to her body as if deeply asleep. She can end this state at any time as a full-round action. If she remains in hibernation for at least a week before emerging, her body is renewed as if by both a *heal* spell and a *restoration* spell. A Green Faith acolyte can remain in this state for up to 1 week per class level, after which she must wait 1 day for each week spent hibernating before entering hibernation again.
 

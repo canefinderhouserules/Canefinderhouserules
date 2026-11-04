@@ -29,9 +29,19 @@ To qualify to become a dissident of dawn, a character must fulfill all of the fo
 
 **Feats**: Dervish Dance, Weapon Finesse.
 
-**Skills**: Bluff 5 ranks, Disguise 5 ranks, Knowledge (religion) 5 ranks, Sleight of Hand 5 ranks.
+**Skills**: Bluff 3 ranks, Disguise 3 ranks, Knowledge (religion) 3 ranks, Sleight of Hand 3 ranks.
 
-**Spells**: Able to cast *daylight* as a divine spell.
+**Spells**: Must be a divine caster able to cast at least 2nd-level spells.
+
+??? note "Original requirements"
+
+    **Deity**: Must worship a deity of the sun, healing, and redemption.
+
+    **Feats**: Dervish Dance, Weapon Finesse.
+
+    **Skills**: Bluff 5 ranks, Disguise 5 ranks, Knowledge (religion) 5 ranks, Sleight of Hand 5 ranks.
+
+    **Spells**: Able to cast *daylight* as a divine spell.
 
 ### Class Skills
 
@@ -45,7 +55,11 @@ The following are class features of the dissident of dawn prestige class.
 
 **Weapon and Armor Proficiency**: A dissident of dawn gains no additional weapon or armor proficiencies.
 
-**Divine Deception (Ex)**: A dissident of dawn adds a sacred bonus equal to 1/2 his level on Bluff or Sense Motive checks to send, interpret, or intercept coded messages, and increases the DC of Spellcraft checks made to identify his spells by the same amount. He also adds the following spells to his spell list: *illusion of calm* (1st), *rope trick* (2nd), *nondetection* (3rd), *detect scrying* (4th), *mage’s private sanctum* (5th), *veil* (6th), *mage’s magnificent mansion* (7th), *screen* (8th), and *communal mind blank* (9th). In addition, the duration of these spells doubles when they target worshipers of his deity (including the caster). This does not affect the level of the spell or its casting time, and does not stack with feats or effects such as Extend Spell.
+**Divine Deception (Ex)**: A dissident of dawn adds a sacred bonus equal to 1/2 his level on his secret caster checks and on Bluff or Sense Motive checks to send, interpret, or intercept coded messages, and increases the DC of Spellcraft checks made to identify his spells by the same amount. He also adds the following spells to his spell list: *illusion of calm* (1st), *rope trick* (2nd), *nondetection* (3rd), *detect scrying* (4th), *mage’s private sanctum* (5th), *veil* (6th), *mage’s magnificent mansion* (7th), *screen* (8th), and *communal mind blank* (9th). In addition, the duration of these spells doubles when they target worshipers of his deity (including the caster). This does not affect the level of the spell or its casting time, and does not stack with feats or effects such as Extend Spell.
+
+??? note "Original rule"
+
+    **Divine Deception (Ex)**: A dissident of dawn adds a sacred bonus equal to 1/2 his level on Bluff or Sense Motive checks to send, interpret, or intercept coded messages, and increases the DC of Spellcraft checks made to identify his spells by the same amount. He also adds the following spells to his spell list: *illusion of calm* (1st), *rope trick* (2nd), *nondetection* (3rd), *detect scrying* (4th), *mage’s private sanctum* (5th), *veil* (6th), *mage’s magnificent mansion* (7th), *screen* (8th), and *communal mind blank* (9th). In addition, the duration of these spells doubles when they target worshipers of his deity (including the caster). This does not affect the level of the spell or its casting time, and does not stack with feats or effects such as Extend Spell.
 
 **Eschew Materials**: A dissident of dawn gains Eschew Materials as a bonus feat, and he can ignore any divine focus (holy symbol) components for his spells.
 
@@ -60,11 +74,19 @@ The following are class features of the dissident of dawn prestige class.
 | Spell has a visible, audible, or otherwise observable effect | –Spell level ×2 |
 | Spell has an observable effect that clearly emanates from the caster | Automatic failure |
 
-Casting a spell in this fashion increases its casting time to a full-round action (if normally a standard action or less), or doubles the casting time of spells with a casting time longer than a full-round action. A spell cast in this way does not provoke attacks of opportunity from observers that fail to recognize it for what it is. For spells with both verbal and somatic components, the spell still provokes attacks of opportunity from observers unless they fail both their Sense Motive and Perception checks.
+Casting a spell in this fashion increases its casting time to a full-round action (if normally a standard action or less), or doubles the casting time of spells with a casting time longer than a full-round action. A spell cast in this way does not provoke attacks of opportunity from observers that fail to recognize it for what it is. For spells with both verbal and somatic components, the spell still provokes attacks of opportunity from observers unless they fail both their Sense Motive and Perception checks. He can take an extra –5 penalty on the check to avoid increasing the casting time to a full-round action.
+
+??? note "Original rule"
+
+    Casting a spell in this fashion increases its casting time to a full-round action (if normally a standard action or less), or doubles the casting time of spells with a casting time longer than a full-round action. A spell cast in this way does not provoke attacks of opportunity from observers that fail to recognize it for what it is. For spells with both verbal and somatic components, the spell still provokes attacks of opportunity from observers unless they fail both their Sense Motive and Perception checks.
 
 **Schismatic Apostle (Ex)**: At 3rd level, a dissident of dawn adds a +1 bonus to the DC of mind-affecting effects used against followers of both his own deity and the deity of destruction his faith opposes. If he is an inquisitor, any bonuses he gains from his judgment increase by 1 when used against followers of those deities.
 
-**Burning Blade (Su)**: At 4th level, a dissident of dawn can expend one use of channel energy as a swift action to grant a scimitar he touches the *flaming* weapon special ability for 1 round per 1d6 points of damage the channeled energy would normally heal. If a worshiper of his deity wields the scimitar and strikes another worshiper of that deity, as a free action the wielder may choose to make all damage from the attack nonlethal, as if wielding a weapon with the *merciful* weapon special ability. An inquisitor may instead choose to expend one use of his judgment ability to imbue the scimitar with the *flaming* weapon special ability for a number of rounds equal to his caster level, or may use this ability in place of his bane ability. At 8th level, this power grants the touched scimitar the *flaming burst* weapon special ability instead.
+**Burning Blade (Su)**: At 4th level, a dissident of dawn can expend one use of channel energy as a swift action to grant a scimitar he touches the *flaming* weapon special ability for 1 minute per 1d6 points of damage the channeled energy would normally heal. If a worshiper of his deity wields the scimitar and strikes another worshiper of that deity, as a free action the wielder may choose to make all damage from the attack nonlethal, as if wielding a weapon with the *merciful* weapon special ability. An inquisitor may instead choose to expend one use of his judgment ability to imbue the scimitar with the *flaming* weapon special ability for a number of minutes equal to his caster level, or may use this ability in place of his bane ability. At 8th level, this power grants the touched scimitar the *flaming burst* weapon special ability instead.
+
+??? note "Original rule"
+
+    **Burning Blade (Su)**: At 4th level, a dissident of dawn can expend one use of channel energy as a swift action to grant a scimitar he touches the *flaming* weapon special ability for 1 round per 1d6 points of damage the channeled energy would normally heal. If a worshiper of his deity wields the scimitar and strikes another worshiper of that deity, as a free action the wielder may choose to make all damage from the attack nonlethal, as if wielding a weapon with the *merciful* weapon special ability. An inquisitor may instead choose to expend one use of his judgment ability to imbue the scimitar with the *flaming* weapon special ability for a number of rounds equal to his caster level, or may use this ability in place of his bane ability. At 8th level, this power grants the touched scimitar the *flaming burst* weapon special ability instead.
 
 **Shift Blame (Su)**: At 6th level, when a dissident of dawn provokes an attack of opportunity, he can attempt to deceive the creature making the attack of opportunity into believing the provoking action was performed by another creature as long as it is adjacent to the dissident and also threatened by the attacker. Doing so requires a Bluff check opposed by the attacker’s Sense Motive check. The attacker gains a bonus equal to its base attack bonus on this Sense Motive check. If the Bluff check is successful, the attack of opportunity instead targets an adjacent creature chosen by the dissident, and the attacker must reroll her attack roll to see whether she hits this new target.
 

@@ -10,22 +10,22 @@ A cultural tradition of passionate muses trains and dispatches the faithful of a
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
 |---|---|---|---|---|---|
-| 1st | +1 | +0 | +1 | +0 | Artful defense, deeds, panache |
-| 2nd | +2 | +1 | +1 | +1 | Artistic flourish, circling strike, deadly strike, distracted, harmonious strike |
+| 1st | +1 | +0 | +1 | +0 | Artful defense, deeds, panache, opportune parry and riposte |
+| 2nd | +2 | +1 | +1 | +1 | Artistic flourish, circling strike, deadly strike, distracted, harmonious strike, aligned class |
 | 3rd | +3 | +1 | +2 | +1 | Feinting feat |
-| 4th | +4 | +1 | +2 | +1 | Deeds (opportune parry and riposte), limitless art +1 |
+| 4th | +4 | +1 | +2 | +1 | limitless art +1, aligned class |
 | 5th | +5 | +2 | +3 | +2 | Confused, staggered |
-| 6th | +6 | +2 | +3 | +2 | Feinting feat, inspirational strike |
+| 6th | +6 | +2 | +3 | +2 | Feinting feat, inspirational strike, aligned class |
 | 7th | +7 | +2 | +4 | +2 | Limitless art +2 |
-| 8th | +8 | +3 | +4 | +3 | Dazed |
+| 8th | +8 | +3 | +4 | +3 | Dazed, aligned class |
 | 9th | +9 | +3 | +5 | +3 | Feinting feat |
-| 10th | +10 | +3 | +5 | +3 | Limitless art +3, masterful strike |
+| 10th | +10 | +3 | +5 | +3 | Limitless art +3, masterful strike, aligned class |
 
 ### Requirements
 
 To qualify to become a devoted muse, a character must fulfill all of the following criteria.
 
-**Base Attack Bonus**: +5.
+**Base Attack Bonus**: +3.
 
 **Alignment**: Lawful good, neutral good, or chaotic good.
 
@@ -33,7 +33,19 @@ To qualify to become a devoted muse, a character must fulfill all of the followi
 
 **Skills**: Bluff 3 ranks, Knowledge (history) 3 ranks, Perform (dance) 5 ranks.
 
-**Feats**: Combat Expertise, Improved Feint, and Weapon Finesse.
+**Feats**: Improved Feint and Weapon Finesse.
+
+??? note "Original requirements"
+
+    **Base Attack Bonus**: +5.
+
+    **Alignment**: Lawful good, neutral good, or chaotic good.
+
+    **Deity**: Must worship a deity whose portfolio includes art, beauty, love, or music.
+
+    **Skills**: Bluff 3 ranks, Knowledge (history) 3 ranks, Perform (dance) 5 ranks.
+
+    **Feats**: Combat Expertise, Improved Feint, and Weapon Finesse.
 
 ### Class Skills
 
@@ -43,15 +55,27 @@ The devoted muse's class skills (and the key ability for each skill) are Acrobat
 
 ### Class Features
 
+**Aligned Class (Ex)**: At 2nd level, a devoted muse must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
+
+**Combat Expertise**: At 1st level, a devoted muse gains Combat Expertise as a bonus feat, ignoring its prerequisites.
+
 The following are class features of the devoted muse prestige class.
 
 **Artful Defense (Ex)**: When wearing light or no armor and not using a shield, a devoted muse adds 1 point of her Charisma bonus (if any) per class level as a dodge bonus to her Armor Class. If she is caught flat-footed or otherwise denied her Dexterity bonus, she also loses this bonus.
 
-**Deeds (Ex)**: This ability functions exactly as the swashbuckler ability of the same name with two exceptions. First, the devoted muse qualifies for and benefits from deeds as if she were a swashbuckler 3 levels lower than her class level (minimum 1). Second, the devoted muse doesn't gain the opportune parry and riposte deed until 4th level. For the purpose of this ability, a devoted muse's class levels otherwise stack with levels in any other class that grants the deeds ability.
+**Deeds (Ex)**: This ability functions exactly as the swashbuckler ability of the same name and the devoted muse qualifies for and benefits from deeds as if she were a swashbuckler of her class level. She gains the opportune parry and riposte deed at 1st level. For the purpose of this ability, a devoted muse's class levels otherwise stack with levels in any other class that grants the deeds ability.
+
+??? note "Original rule"
+
+    **Deeds (Ex)**: This ability functions exactly as the swashbuckler ability of the same name with two exceptions. First, the devoted muse qualifies for and benefits from deeds as if she were a swashbuckler 3 levels lower than her class level (minimum 1). Second, the devoted muse doesn't gain the opportune parry and riposte deed until 4th level. For the purpose of this ability, a devoted muse's class levels otherwise stack with levels in any other class that grants the deeds ability.
 
 **Panache (Ex)**: This ability functions exactly as the swashbuckler ability of the same name. For the purpose of this ability, a devoted muse's class levels stack with levels in any other class that grants the panache ability.
 
-**Artistic Flourish (Su)**: At 2nd level, when a devoted muse has at least 1 panache point and successfully feints against an opponent in combat, instead of denying the opponent its Dexterity bonus, she can instead create one of the following effects (all of which are mind-affecting effects). A creature can be affected by only one such effect at a time, and imposing a second effect immediately ends the first. The DC of any saving throws to resist these effects is equal to 10 + the devoted muse's class level + her Charisma modifier.
+**Artistic Flourish (Su)**: At 2nd level, when a devoted muse has at least 1 panache point and successfully feints against an opponent in combat, in addition to denying the opponent its Dexterity bonus, she can create one of the following effects (all of which are mind-affecting effects). A creature can be affected by only one such effect at a time, and imposing a second effect immediately ends the first. The DC of any saving throws to resist these effects is equal to 10 + the devoted muse's class level + her Charisma modifier.
+
+??? note "Original rule"
+
+    **Artistic Flourish (Su)**: At 2nd level, when a devoted muse has at least 1 panache point and successfully feints against an opponent in combat, instead of denying the opponent its Dexterity bonus, she can instead create one of the following effects (all of which are mind-affecting effects). A creature can be affected by only one such effect at a time, and imposing a second effect immediately ends the first. The DC of any saving throws to resist these effects is equal to 10 + the devoted muse's class level + her Charisma modifier.
 
 - *Distracted*: The target treats all other creatures as though they had concealment, suffering a 20% miss chance on all attack rolls (even if the creature has blindsight). This effect lasts for a number of rounds equal to the devoted muse's Charisma modifier, though a successful Will save reduces the duration to 1 round.
 - *Confused*: At 5th level, the devoted muse can cause the target to be confused for 1 round (Will negates). Whether or not the save is successful, a creature cannot be the target of this artistic flourish again for 1 day.

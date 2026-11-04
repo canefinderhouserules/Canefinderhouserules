@@ -12,10 +12,10 @@ The nomad horse rider is a tribal warrior who leads infantry in defense of a hol
 | 2nd | +2 | +1 | +1 | +1 | Shaitan’s blessing +2, thunderous charge (5 ft.) |
 | 3rd | +3 | +2 | +1 | +2 | Aura of courage, flank breaker |
 | 4th | +4 | +2 | +1 | +2 | Djinni’s blessing (10 ft.), controlled charge |
-| 5th | +5 | +3 | +2 | +3 | Camaraderie +2 |
+| 5th | +5 | +3 | +2 | +3 | Camaraderie +2, efreeti’s blessing |
 | 6th | +6 | +3 | +2 | +3 | Marid’s blessing, thunderous charge (10 ft.), trampling gallop |
 | 7th | +7 | +4 | +2 | +4 | All eyes on me |
-| 8th | +8 | +4 | +3 | +4 | Djinni’s blessing (20 ft.), efreeti’s blessing |
+| 8th | +8 | +4 | +3 | +4 | Djinni’s blessing (20 ft.) |
 | 9th | +9 | +5 | +3 | +5 | Camaraderie +3, inspiring leader, shaitan’s blessing +4 |
 | 10th | +10 | +5 | +3 | +5 | Janni’s blessing, thunderous charge (20 ft.) |
 
@@ -23,11 +23,19 @@ The nomad horse rider is a tribal warrior who leads infantry in defense of a hol
 
 To qualify to become a nomad horse rider, a character must fulfill all of the following criteria.
 
-**Base Attack Bonus**: +4.
+**Base Attack Bonus**: +3.
 
 **Feats**: Mounted Combat.
 
-**Skills**: Handle Animal 5 ranks, Ride 5 ranks.
+**Skills**: Handle Animal 3 ranks, Ride 3 ranks.
+
+??? note "Original requirements"
+
+    **Base Attack Bonus**: +4.
+
+    **Feats**: Mounted Combat.
+
+    **Skills**: Handle Animal 5 ranks, Ride 5 ranks.
 
 ### Class Skills
 
@@ -43,7 +51,11 @@ The following are class features of the nomad horse rider prestige class.
 
 **Camaraderie (Ex)**: A nomad horse rider is skilled at forging those who battle by her side into a loyal and well-coordinated team and exhorting them to fight bravely. As long as she can speak aloud, the bonus she grants to any allies within 30 feet when she takes the aid another action in combat increases by 1. At 5th level, the bonus instead increases by 2, and at 9th level, it instead increases by 3. These bonuses do not stack with other abilities that enhance the aid another action.
 
-**Equine Bond (Ex)**: A nomad horse rider gains a horse as a loyal steed. This mount functions as a druid’s animal companion, using her level + 2 as her effective druid level (for example, at 3rd level, the mount functions as a 5th-level druid’s animal companion). The companion must be a horse or pony, though the GM might approve other equine animals as suitable mounts (especially in the case of unusually large or small riders). If she has a horse companion from another class that grants a similar ability (such as cavalier, druid, or ranger), her nomad horse rider levels stack with levels from one of these other classes (her choice) for the purposes of determining her mount’s statistics and abilities—she does not gain a second companion for having this ability from a different class. Her total effective druid level for determining her mount’s statistics can never exceed her total character level. A nomad horse rider doesn’t take an armor check penalty on Ride checks while riding her mount, and her mount is always considered combat trained and begins play with Light Armor Proficiency as a bonus feat.
+**Equine Bond (Ex)**: A nomad horse rider gains a horse as a loyal steed. This mount functions as a druid’s animal companion, using her level + 3 as her effective druid level (for example, at 3rd level, the mount functions as a 6th-level druid’s animal companion). The companion must be a horse or pony, though the GM might approve other equine animals as suitable mounts (especially in the case of unusually large or small riders). If she has a horse companion from another class that grants a similar ability (such as cavalier, druid, or ranger), her nomad horse rider levels stack with levels from one of these other classes (her choice) for the purposes of determining her mount’s statistics and abilities—she does not gain a second companion for having this ability from a different class. Her total effective druid level for determining her mount’s statistics can never exceed her total character level. A nomad horse rider doesn’t take an armor check penalty on Ride checks while riding her mount, and her mount is always considered combat trained and begins play with Light Armor Proficiency as a bonus feat.
+
+??? note "Original rule"
+
+    **Equine Bond (Ex)**: A nomad horse rider gains a horse as a loyal steed. This mount functions as a druid’s animal companion, using her level + 2 as her effective druid level (for example, at 3rd level, the mount functions as a 5th-level druid’s animal companion). The companion must be a horse or pony, though the GM might approve other equine animals as suitable mounts (especially in the case of unusually large or small riders). If she has a horse companion from another class that grants a similar ability (such as cavalier, druid, or ranger), her nomad horse rider levels stack with levels from one of these other classes (her choice) for the purposes of determining her mount’s statistics and abilities—she does not gain a second companion for having this ability from a different class. Her total effective druid level for determining her mount’s statistics can never exceed her total character level. A nomad horse rider doesn’t take an armor check penalty on Ride checks while riding her mount, and her mount is always considered combat trained and begins play with Light Armor Proficiency as a bonus feat.
 
 **Shaitan’s Blessing (Su)**: When a nomad horse rider reaches 2nd level, her mount receives the blessing of the shaitans. It receives a +2 racial bonus on saving throws against all mind-affecting and fear effects. When she reaches 9th level, this bonus increases to +4.
 
@@ -63,7 +75,11 @@ The following are class features of the nomad horse rider prestige class.
 
 **All Eyes on Me (Su)**: At 7th level, three times per day as a swift action, a nomad horse rider can call out a challenge. Each opponent within 30 feet must succeed at a Will save (DC = 10 + her character level + her Charisma bonus) or be distracted by the display until the beginning of her next turn. Any creature that fails is considered to be flat-footed and takes a –2 penalty to AC against attacks from her allies. This is a mind-affecting, visual effect.
 
-**Efreeti’s Blessing (Su)**: When a nomad horse rider reaches 8th level, her mount receives the blessing of the efreet, gaining fire resistance 5. It also deals an additional 1d6 points of fire damage with its hoof attacks.
+**Efreeti’s Blessing (Su)**: When a nomad horse rider reaches 5th level, her mount receives the blessing of the efreet, gaining fire resistance 5. It also deals an additional 1d6 points of fire damage with its hoof attacks.
+
+??? note "Original rule"
+
+    **Efreeti’s Blessing (Su)**: When a nomad horse rider reaches 8th level, her mount receives the blessing of the efreet, gaining fire resistance 5. It also deals an additional 1d6 points of fire damage with its hoof attacks.
 
 **Inspiring Leader (Su)**: At 9th level, a nomad horse rider can call out encouragement to her allies as a move action, bolstering their courage. Allies within 60 feet who can hear her receive a morale bonus equal to her Charisma bonus on attack and damage rolls with weapons for 1 round. She can use this ability three times per day. This is a mind-affecting, language-dependent effect.
 

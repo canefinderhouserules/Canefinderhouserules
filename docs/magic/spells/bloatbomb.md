@@ -9,3 +9,5 @@
 **Saving Throw** Fortitude negates or Reflex half (see text); **Spell Resistance** yes
 
 The target creature dies if it fails a Fortitude saving throw and its Hit Dice are no more than half your caster level. If it dies, its corpse rapidly putrefies. The next creature to touch the corpse within 1 minute per level of the target's death causes the corpse to explode in a 10-foot-radius burst, dealing 3d6 points of acid damage (Reflex half).
+
+**Save-or-die**: The target rolls its saving throw twice and keeps the higher result, as explained in [Save-or-Die Spells](../casting-spells.md#save-or-die-spells).

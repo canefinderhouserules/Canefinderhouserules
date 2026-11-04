@@ -15,7 +15,7 @@ A freedom tiller’s duty relies in part on her ability to establish a believabl
 | 3rd | +2 | +1 | +2 | +1 | Sneak attack +1d6 |
 | 4th | +3 | +1 | +2 | +1 | Scarecrow +2 |
 | 5th | +3 | +2 | +3 | +2 | 1st favored barn |
-| 6th | +4 | +2 | +3 | +2 | Scarecrow +3, sneak attack +2d6, swift sower +20 ft., teamwork feat |
+| 6th | +4 | +2 | +3 | +2 | Scarecrow +3, sneak attack +2d6, swift sower +20 ft., teamwork feat, tactician |
 | 7th | +5 | +2 | +4 | +2 | 2nd favored barn |
 | 8th | +6 | +3 | +4 | +3 | Scarecrow +4 |
 | 9th | +6 | +3 | +5 | +3 | 3rd favored barn, sneak attack +3d6 |
@@ -41,15 +41,25 @@ The freedom tiller's class skills (and the key ability for each skill) are Acrob
 
 ### Class Features
 
+**Tactician**: At 6th level, a freedom tiller gains the tactician ability of a cavalier of her level + 5. The teamwork feats the class already grants count as part of this ability, plus 1 extra for the normal tactician effects.
+
 The following are class features of the freedom tiller prestige class.
 
 **Crop (Ex)**: As a standard action, a freedom tiller can designate a number of allies up to 3 + her Charisma modifier as part of her crop. Members of a crop must remain within 30 feet of the tiller to gain any benefits from abilities that affect a crop, regardless of the ability’s source (whether it’s a freedom harvester, irrigator, or tiller). If any leave this range, the tiller must designate these allies again for them to be included in her crop. At 7th level, this range increases to 60 feet.
 
 **Swift Sower (Ex)**: A freedom tiller’s base land speed is treated as being +10 feet faster when determining her overland travel speed while traveling long distances and while outside of combat. Members of her crop can use either the tiller’s overland travel speed or their own, whichever is better. At 6th level, the bonus to speed increases to +20 feet.
 
-**Crop Guardian (Ex)**: At 2nd level, whenever a freedom tiller uses the aid another action for a member of her crop, she grants a +3 bonus instead of the normal +2. Levels in the freedom tiller prestige class stack with any vigilante levels she has when calculating the effects of the freedom harvester’s crop vigilance ability.
+**Crop Guardian (Ex)**: At 2nd level, whenever a freedom tiller uses the aid another action for a member of her crop, she grants a +4 bonus instead of the normal +2. Levels in the freedom tiller prestige class stack with any vigilante levels she has when calculating the effects of the freedom harvester’s crop vigilance ability.
 
-**Scarecrow (Ex)**: At 2nd level, a freedom tiller receives a +1 morale bonus on attack and damage rolls against creatures that threaten attacks of opportunity against members of her crop. At 4th level and every 2 levels thereafter, these bonuses increase by 1, to a maximum of +5 at 10th level.
+??? note "Original rule"
+
+    **Crop Guardian (Ex)**: At 2nd level, whenever a freedom tiller uses the aid another action for a member of her crop, she grants a +3 bonus instead of the normal +2. Levels in the freedom tiller prestige class stack with any vigilante levels she has when calculating the effects of the freedom harvester’s crop vigilance ability.
+
+**Scarecrow (Ex)**: At 2nd level, a freedom tiller receives a +1 morale bonus on attack and damage rolls against any creature threatening an ally or member of her crop. At 4th level and every 2 levels thereafter, these bonuses increase by 1, to a maximum of +5 at 10th level.
+
+??? note "Original rule"
+
+    **Scarecrow (Ex)**: At 2nd level, a freedom tiller receives a +1 morale bonus on attack and damage rolls against creatures that threaten attacks of opportunity against members of her crop. At 4th level and every 2 levels thereafter, these bonuses increase by 1, to a maximum of +5 at 10th level.
 
 **Teamwork Feat**: At 2nd level, a freedom tiller gains a bonus feat in addition to those gained from normal advancement. This bonus feat must be a teamwork feat, and the tiller must meet the prerequisites of the selected bonus feat. At 6th level and 10th level, the tiller gains an additional bonus teamwork feat.
 

@@ -12,26 +12,34 @@ While the majority of death slayers worship an assassin god, worshipers of any d
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
 |---|---|---|---|---|---|
-| 1st | +0 | +1 | +0 | +1 | Channel energy 1d6, channel smite, gravegaze |
+| 1st | +0 | +1 | +0 | +1 | Channel energy 1d10, channel smite, gravegaze |
 | 2nd | +1 | +1 | +1 | +1 | Bonus feat, favored enemy +2; +1 level of existing spellcasting class |
-| 3rd | +2 | +2 | +1 | +2 | Channel energy 2d6, swift smite; +1 level of existing spellcasting class |
+| 3rd | +2 | +2 | +1 | +2 | Channel energy 2d10, swift smite; +1 level of existing spellcasting class |
 | 4th | +3 | +2 | +1 | +2 | Infuse sabre 1/day; +1 level of existing spellcasting class |
 | 5th | +3 | +3 | +2 | +3 | Bonus feat, channel energy 3d6; +1 level of existing spellcasting class |
 | 6th | +4 | +3 | +2 | +3 | Deadly conviction, favored enemy +4 |
-| 7th | +5 | +4 | +2 | +4 | Channel energy 4d6, infuse sabre 2/day; +1 level of existing spellcasting class |
+| 7th | +5 | +4 | +2 | +4 | Channel energy 4d10, infuse sabre 2/day; +1 level of existing spellcasting class |
 | 8th | +6 | +4 | +3 | +4 | Bonus feat, undead bane; +1 level of existing spellcasting class |
-| 9th | +6 | +5 | +3 | +5 | Channel energy 5d6; +1 level of existing spellcasting class |
+| 9th | +6 | +5 | +3 | +5 | Channel energy 5d10; +1 level of existing spellcasting class |
 | 10th | +7 | +5 | +3 | +5 | Aura of life, infuse sabre 3/day; +1 level of existing spellcasting class |
 
 ### Requirements
 
 To qualify to become a death slayer, a character must fulfill all of the following criteria.
 
-**Feats**: Exotic Weapon Proficiency (sawtooth sabre), Great Fortitude, Weapon Focus (sawtooth sabre).
+**Feats**: Exotic Weapon Proficiency (sawtooth sabre), Weapon Focus (sawtooth sabre).
 
-**Skills**: Knowledge (religion) 5 ranks, Perception 5 ranks, Stealth 5 ranks.
+**Skills**: Knowledge (religion) 3 ranks, Perception 3 ranks, Stealth 3 ranks.
 
-**Spells**: Ability to cast 3rd-level divine spells.
+**Spells**: Ability to cast 1st-level divine spells.
+
+??? note "Original requirements"
+
+    **Feats**: Exotic Weapon Proficiency (sawtooth sabre), Great Fortitude, Weapon Focus (sawtooth sabre).
+
+    **Skills**: Knowledge (religion) 5 ranks, Perception 5 ranks, Stealth 5 ranks.
+
+    **Spells**: Ability to cast 3rd-level divine spells.
 
 ### Class Skills
 
@@ -41,9 +49,15 @@ The death slayer's class skills (and the key ability for each skill) are Disguis
 
 ### Class Features
 
+**Favored Weapon**: With the GM’s approval, the sawtooth sabre can be swapped for another weapon that reasonably suits some other fitting deity.
+
 The following are class features of the death slayer prestige class.
 
-**Channel Energy (Su)**: At 1st level, a death slayer gains the power to harm undead with positive energy. This ability functions as a cleric’s ability to channel positive energy to deal damage to undead (but not to heal living creatures), and it counts as channel energy for the purposes of qualifying for feats or determining effects that rely on channel energy. A death slayer uses her class level as her effective cleric level when channeling energy. She can channel energy a number of times per day equal to 3 + her Charisma modifier. She deals 1d6 points of damage at 1st level and an additional 1d6 points of damage every 2 levels thereafter. Death slayer levels stack with levels in any class that grants channel energy (if any) for the purpose of determining the number of damage dice her channel energy ability deals to undead, but this channel energy can never do anything other than harm undead. An undead creature that takes damage from this channeled energy can attempt a Will save to halve the damage; the DC of this save is equal to 10 + the death slayer’s class level + her Charisma modifier. The death slayer must be able to present either her holy symbol or a [sawtooth sabre](../../equipment/gear-aa-armory.md) to use this ability.
+**Channel Energy (Su)**: At 1st level, a death slayer gains the power to harm undead with positive energy. This ability functions as a cleric’s ability to channel positive energy to deal damage to undead (but not to heal living creatures), and it counts as channel energy for the purposes of qualifying for feats or determining effects that rely on channel energy. A death slayer uses her class level as her effective cleric level when channeling energy. She can channel energy a number of times per day equal to 3 + her Charisma modifier. She deals 1d10 points of damage at 1st level and an additional 1d10 points of damage every 2 levels thereafter. Death slayer levels stack with levels in any class that grants channel energy (if any) for the purpose of determining the number of damage dice her channel energy ability deals to undead, but this channel energy can never do anything other than harm undead. An undead creature that takes damage from this channeled energy can attempt a Will save to halve the damage; the DC of this save is equal to 10 + the death slayer’s class level + her Charisma modifier. The death slayer must be able to present either her holy symbol or a [sawtooth sabre](../../equipment/gear-aa-armory.md) to use this ability.
+
+??? note "Original rule"
+
+    **Channel Energy (Su)**: At 1st level, a death slayer gains the power to harm undead with positive energy. This ability functions as a cleric’s ability to channel positive energy to deal damage to undead (but not to heal living creatures), and it counts as channel energy for the purposes of qualifying for feats or determining effects that rely on channel energy. A death slayer uses her class level as her effective cleric level when channeling energy. She can channel energy a number of times per day equal to 3 + her Charisma modifier. She deals 1d6 points of damage at 1st level and an additional 1d6 points of damage every 2 levels thereafter. Death slayer levels stack with levels in any class that grants channel energy (if any) for the purpose of determining the number of damage dice her channel energy ability deals to undead, but this channel energy can never do anything other than harm undead. An undead creature that takes damage from this channeled energy can attempt a Will save to halve the damage; the DC of this save is equal to 10 + the death slayer’s class level + her Charisma modifier. The death slayer must be able to present either her holy symbol or a [sawtooth sabre](../../equipment/gear-aa-armory.md) to use this ability.
 
 **Channel Smite**: A death slayer gains Channel Smite as a bonus feat. If she already has this feat, she instead gains a different feat selected from those bonus feats normally available to her at 2nd level (see below).
 

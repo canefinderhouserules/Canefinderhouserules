@@ -244,7 +244,11 @@ A raging barbarian is frightening enough in melee, but some become skilled at th
 
 Some barbarians learn to take whatever comes their way, shrugging off mortal wounds with ease. These barbarians invite their enemies to attack them, and use pain to fuel their rage. An invulnerable rager has the following class features.
 
-**Invulnerability (Ex)**: At 2nd level, the invulnerable rager gains DR/— equal to half her barbarian level. This damage reduction is doubled against nonlethal damage.
+**Invulnerability (Ex)**: At 1st level, the invulnerable rager gains DR 1/—. This damage reduction increases by 1 at every barbarian level after 1st. This damage reduction is doubled against nonlethal damage.
+
+??? note "Original rule"
+
+    **Invulnerability (Ex)**: At 2nd level, the invulnerable rager gains DR/— equal to half her barbarian level. This damage reduction is doubled against nonlethal damage.
 
 This ability replaces uncanny dodge, improved uncanny dodge, and damage reduction.
 

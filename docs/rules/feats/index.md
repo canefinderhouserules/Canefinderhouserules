@@ -513,6 +513,7 @@ Feats from the *Advanced Player's Guide*. Each name links to its full descriptio
 | [Expanded Arcana](expanded-arcana.md) | — | Caster level 1st, see Special |
 | [Extra Bombs](extra-bombs.md) | — | Bomb class feature |
 | [Extra Discovery](extra-discovery.md) | — | Discovery class feature |
+| [Extra Flourish](extra-flourish.md) | — | Flourish class feature, character level 5th |
 | [Extra Hex](extra-hex.md) | — | Hex class feature |
 | [Extra Rage Power](extra-rage-power.md) | — | Rage power class feature |
 | [Extra Revelation](extra-revelation.md) | — | Revelation class feature |

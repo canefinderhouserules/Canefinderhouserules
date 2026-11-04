@@ -22,6 +22,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Detect the Faithful](detect-the-faithful.md)**: Find others of the same faith.
 - **[Ear-Piercing Scream](ear-piercing-scream.md)**: Deal sonic damage and daze target.
 - **[Ears of the City](ears-of-the-city.md)**: Gather information from echoes of local talk.
+- **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
 - **[Fabricate Disguise](fabricate-disguise.md)**: Create a disguise in an instant.
 - **[Fallback Strategy](fallback-strategy.md)**: Reroll one attack, maneuver, or skill check.
 - **[False Face](false-face.md)**: Change your appearance so you are unrecognizable.
@@ -29,6 +30,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Forced Quiet](forced-quiet.md)**: Target cannot make loud noises.
 - **[Funereal Weapon](funereal-weapon.md)**: Weapon ignores 5 points of undead DR
 - **[Grappling Scarf](grappling-scarf.md)**: Your scarf becomes a grappling hook and rope.
+- **[Gravity Bow](gravity-bow.md)**: Arrows do damage as though one size category bigger.
 - **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Handy Grapnel](handy-grapnel.md)**: Transform a ropelike object into a retracting grapple.
 - **[Haze of Dreams](haze-of-dreams.md)**: Halve a creature’s speed with waking dreams.
@@ -127,7 +129,6 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Display Aversion](display-aversion.md)**: an illusion of a vampire's aversion keeps it at bay
 - **[Distressing Tone](distressing-tone.md)**: Sound sickens 1d4 creatures.
 - **[Early Judgment](early-judgment.md)**: Show a creature its fate: fascinated, confused, or shaken.
-- **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
 - **[Enchantment Sight](enchantment-sight.md)**: See which creatures are under enchantment effects.
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
@@ -238,6 +239,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Detoxify](detoxify.md)**: Neutralize a creature’s poison attacks.
 - **[Disrupt Link](disrupt-link.md)**: Sever the link between a creature and her companion or familiar.
 - **[Disrupt Silence](disrupt-silence.md)**: Disrupt all silence effects in an area.
+- **[Divine Smite](divine-smite.md)**: Deals 1d5 sacred or profane damage/level (max 10d5) to one or two targets.
 - **[Domination Link](domination-link.md)**: learn about the creature controlling a target's mind
 - **[Draconic Malice](draconic-malice.md)**: Fear-immune foes lose their immunity to your fear effects.
 - **[Eldritch Fever](eldritch-fever.md)**: Target gains the eldritch ague spellblight.

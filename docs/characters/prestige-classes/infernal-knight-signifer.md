@@ -9,15 +9,15 @@ Infernal knight signifers form the spellcasting arm of the knightly orders. They
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
 |---|---|---|---|---|---|
 | 1st | +0 | +0 | +0 | +1 | Aura of law, catechesis, order, signifer mask; +1 level of spellcasting class |
-| 2nd | +1 | +1 | +1 | +1 | Arcane armor expertise; +1 level of spellcasting class |
+| 2nd | +1 | +1 | +1 | +1 | Arcane armor expertise; +1 level of spellcasting class, aligned class |
 | 3rd | +2 | +1 | +1 | +2 | Signifer armor training 1; +1 level of spellcasting class |
-| 4th | +3 | +1 | +1 | +2 | Assiduous gaze; +1 level of spellcasting class |
+| 4th | +3 | +1 | +1 | +2 | Assiduous gaze; +1 level of spellcasting class, aligned class |
 | 5th | +3 | +2 | +2 | +3 | Arcane armor expertise (immediate action); +1 level of spellcasting class |
-| 6th | +4 | +2 | +2 | +3 | Discern lies; +1 level of spellcasting class |
+| 6th | +4 | +2 | +2 | +3 | Discern lies; +1 level of spellcasting class, aligned class |
 | 7th | +5 | +2 | +2 | +4 | Assiduous gaze; +1 level of spellcasting class |
-| 8th | +6 | +3 | +3 | +4 | Signifer armor training 2; +1 level of spellcasting class |
+| 8th | +6 | +3 | +3 | +4 | Signifer armor training 2; +1 level of spellcasting class, aligned class |
 | 9th | +6 | +3 | +3 | +5 | Infernal resilience; +1 level of spellcasting class |
-| 10th | +7 | +3 | +3 | +5 | Diabolic harbinger; +1 level of spellcasting class |
+| 10th | +7 | +3 | +3 | +5 | Diabolic harbinger; +1 level of spellcasting class, aligned class |
 
 ### Requirements
 
@@ -27,13 +27,25 @@ To qualify to become an infernal knight signifer, a character must fulfill all o
 
 **Armor Proficiency**: Proficient with medium armor.
 
-**Feats**: Arcane Armor Training or Warrior Priest.
+**Skills**: Intimidate 2 ranks, Knowledge (planes) 3 ranks, Spellcraft 3 ranks.
 
-**Skills**: Intimidate 2 ranks, Knowledge (planes) 5 ranks, Spellcraft 5 ranks.
-
-**Spells**: Able to cast 3rd-level spells.
+**Spells**: Able to cast 1st-level spells.
 
 **Special**: The character must slay a devil with Hit Dice greater than his character level. This victory must be witnessed by an infernal knight.
+
+??? note "Original requirements"
+
+    **Alignment**: Any lawful.
+
+    **Armor Proficiency**: Proficient with medium armor.
+
+    **Feats**: Arcane Armor Training or Warrior Priest.
+
+    **Skills**: Intimidate 2 ranks, Knowledge (planes) 5 ranks, Spellcraft 5 ranks.
+
+    **Spells**: Able to cast 3rd-level spells.
+
+    **Special**: The character must slay a devil with Hit Dice greater than his character level. This victory must be witnessed by an infernal knight.
 
 ### Class Skills
 
@@ -47,9 +59,17 @@ The following are class features of the infernal knight signifer prestige class.
 
 **Weapon and Armor Proficiency**: An infernal knight signifer gains proficiency with heavy armor and with one of his order’s favored weapons (see Order below).
 
+**Aligned Class (Ex)**: At 2nd level, a infernal knight signifer must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
+
+**Bonus Feat**: At 1st level, a divine caster gains Warrior Priest as a bonus feat, and an arcane caster gains Arcane Armor Training as a bonus feat.
+
 **Aura of Law (Ex)**: An infernal knight signifer’s lawful aura (see the *detect law* spell) functions as that of a cleric whose level is equal to the signifer’s character level.
 
-**Catechesis (Ex)**: If an infernal knight signifer has the Warrior Priest feat, his class level stacks with other divine spellcasting classes for determining the effects of those classes’ domain powers, inquisitions, and mysteries. This doesn’t grant any new powers or abilities. In addition, a signifer with the Warrior Priest feat gains Alignment Channel (chaos) as a bonus feat, and treats his signifer levels as cleric levels when determining the amount of damage healed or dealt and saving throw DCs of his channeled energy.
+**Catechesis (Ex)**: A divine caster gains the full aligned class ability instead of the half version, essentially adding every infernal knight signifer level beyond 1st to their aligned class (as the evangelist).
+
+??? note "Original rule"
+
+    **Catechesis (Ex)**: If an infernal knight signifer has the Warrior Priest feat, his class level stacks with other divine spellcasting classes for determining the effects of those classes’ domain powers, inquisitions, and mysteries. This doesn’t grant any new powers or abilities. In addition, a signifer with the Warrior Priest feat gains Alignment Channel (chaos) as a bonus feat, and treats his signifer levels as cleric levels when determining the amount of damage healed or dealt and saving throw DCs of his channeled energy.
 
 **Order**: An infernal knight signifer chooses a knightly order to join at 1st level. The most common orders (and their favored weapon or weapons) are: Shackles (flail), Portal (dagger), Faithful (morningstar), Spike (halberd or lance), Brazier (glaive), Austerity (longsword or whip), and Lash (heavy mace or whip).
 

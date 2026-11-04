@@ -8,15 +8,15 @@ A loosely organized order of nihilistic alienists and demonologists, darkfire ad
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
 |---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +1 | Sacred Summons |
+| 1st | +0 | +0 | +0 | +1 | Sacred Summons, +1 level of spellcasting class |
 | 2nd | +1 | +1 | +1 | +1 | Darkfire taint; +1 level of spellcasting class |
 | 3rd | +1 | +1 | +1 | +2 | 1st darkfire pact; +1 level of spellcasting class |
 | 4th | +2 | +1 | +1 | +2 | Darkfire eruption; +1 level of spellcasting class |
-| 5th | +2 | +2 | +2 | +3 | Breaching |
+| 5th | +2 | +2 | +2 | +3 | Breaching, +1 level of spellcasting class |
 | 6th | +3 | +2 | +2 | +3 | 2nd darkfire pact; +1 level of spellcasting class |
 | 7th | +3 | +2 | +2 | +4 | Breaching legion; +1 level of spellcasting class |
 | 8th | +4 | +3 | +3 | +4 | Accursed sympathy; +1 level of spellcasting class |
-| 9th | +4 | +3 | +3 | +5 | 3rd darkfire pact |
+| 9th | +4 | +3 | +3 | +5 | 3rd darkfire pact, +1 level of spellcasting class |
 | 10th | +5 | +3 | +3 | +5 | Riftward breaching; +1 level of spellcasting class |
 
 ### Requirements
@@ -27,11 +27,23 @@ To qualify to become a darkfire adept, a character must fulfill all of the follo
 
 **Feats**: Augment Summoning, Spell Focus (conjuration).
 
-**Skills**: Knowledge (planes) 5 ranks, Spellcraft 5 ranks.
+**Skills**: Knowledge (planes) 3 ranks, Spellcraft 3 ranks.
 
-**Spells**: Able to cast *summon monster III* as a spell or spell-like ability.
+**Spells**: Able to cast *summon monster II* as a spell or spell-like ability.
 
 **Special**: Able to speak Abyssal and Infernal.
+
+??? note "Original requirements"
+
+    **Alignment**: Any non-good.
+
+    **Feats**: Augment Summoning, Spell Focus (conjuration).
+
+    **Skills**: Knowledge (planes) 5 ranks, Spellcraft 5 ranks.
+
+    **Spells**: Able to cast *summon monster III* as a spell or spell-like ability.
+
+    **Special**: Able to speak Abyssal and Infernal.
 
 ### Class Skills
 
@@ -47,7 +59,11 @@ The following are class features of the darkfire adept prestige class.
 
 **Sacred Summons**: A darkfire adept gains Sacred Summons as a bonus feat at 1st level, as if she had an evil aura (regardless of her actual alignment).
 
-**Darkfire Taint (Su)**: At 2nd level, as a standard action, a darkfire adept can corrupt the planar substrate into strands of darkfire that create a destructive resonance between herself and a target within 30 feet. She gains a +1 profane bonus on attack rolls and caster level checks against the target, and the target takes a –1 penalty on saving throws against the adept’s attacks (or –2 if the attack is a conjuration effect). The taint lasts a number of rounds equal to her class level, though a successful Will save (DC 10 + the darkfire adept’s class level + the darkfire adept’s Charisma modifier) reduces this to 1 round. The effect immediately ends if the target moves more than 30 feet away from the darkfire adept. The profane bonus and penalty become +2 and –2 (–3 against conjuration effects) at 6th level. They become +3 and –3 (–4 against conjuration effects) at 10th level.
+**Darkfire Taint (Su)**: At 2nd level, as a move action, a darkfire adept can corrupt the planar substrate into strands of darkfire that create a destructive resonance between herself and a target within 30 feet. She gains a +1 profane bonus on attack rolls and caster level checks against the target, and the target takes a –1 penalty on saving throws against the adept’s attacks (or –2 if the attack is a conjuration effect). The taint lasts a number of rounds equal to her class level, though a successful Will save (DC 10 + the darkfire adept’s class level + the darkfire adept’s Charisma modifier) reduces this to 1 round. The effect immediately ends if the target moves more than 30 feet away from the darkfire adept. The profane bonus and penalty become +2 and –2 (–3 against conjuration effects) at 6th level. They become +3 and –3 (–4 against conjuration effects) at 10th level.
+
+??? note "Original rule"
+
+    **Darkfire Taint (Su)**: At 2nd level, as a standard action, a darkfire adept can corrupt the planar substrate into strands of darkfire that create a destructive resonance between herself and a target within 30 feet. She gains a +1 profane bonus on attack rolls and caster level checks against the target, and the target takes a –1 penalty on saving throws against the adept’s attacks (or –2 if the attack is a conjuration effect). The taint lasts a number of rounds equal to her class level, though a successful Will save (DC 10 + the darkfire adept’s class level + the darkfire adept’s Charisma modifier) reduces this to 1 round. The effect immediately ends if the target moves more than 30 feet away from the darkfire adept. The profane bonus and penalty become +2 and –2 (–3 against conjuration effects) at 6th level. They become +3 and –3 (–4 against conjuration effects) at 10th level.
 
 **Darkfire Pact (Su)**: At 3rd level, a darkfire adept may choose one evil outsider subtype from among the following: asura, daemon, demodand, demon, devil, div, kyton, oni, qlippoth, or rakshasa. Against outsiders with that subtype, she gains a +1 profane bonus on saving throws, caster level checks, Charisma checks, and Charisma-based skill checks. When using the *planar ally* or *planar binding* spells, she can call 2 additional Hit Dice of outsiders with the chosen subtype, and those creatures gain temporary hit points equal to her class level, a +1 profane bonus on saving throws, and a +1 profane bonus to the caster level DC for effects that would banish, dismiss, or dispel them.
 

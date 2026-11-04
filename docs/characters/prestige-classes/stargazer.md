@@ -29,9 +29,19 @@ To qualify to become a stargazer, a character must fulfill all of the following 
 
 **Deity**: Must worship a deity whose portfolio includes constellations, homesickness, or northern lights.
 
-**Skills**: Knowledge (geography) 5 ranks, Knowledge (planes) 5 ranks, Survival 3 ranks.
+**Skills**: Knowledge (geography) 3 ranks, Knowledge (planes) 3 ranks, Survival 3 ranks.
 
-**Spells**: Able to cast 3rd-level spells.
+**Spells**: Caster level 1st.
+
+??? note "Original requirements"
+
+    **Alignment**: Neutral good, chaotic good, or chaotic neutral.
+
+    **Deity**: Must worship a deity whose portfolio includes constellations, homesickness, or northern lights.
+
+    **Skills**: Knowledge (geography) 5 ranks, Knowledge (planes) 5 ranks, Survival 3 ranks.
+
+    **Spells**: Able to cast 3rd-level spells.
 
 ### Class Skills
 

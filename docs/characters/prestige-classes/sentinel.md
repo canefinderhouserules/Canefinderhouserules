@@ -29,9 +29,19 @@ To qualify to become a sentinel, a character must fulfill all of the following c
 
 **Deity**: Must worship a single, specific deity.
 
-**Feats**: Weapon Focus (deity's favored weapon).
+**Feats**: [Deific Obedience](../../rules/feats/deific-obedience.md).
 
-**Special**: Base attack bonus +5 or higher.
+**Skills**: Knowledge (religion) 5 ranks.
+
+??? note "Original requirements"
+
+    **Alignment**: Within one step of chosen deity.
+
+    **Deity**: Must worship a single, specific deity.
+
+    **Feats**: Weapon Focus (deity's favored weapon).
+
+    **Special**: Base attack bonus +5 or higher.
 
 ### Class Skills
 

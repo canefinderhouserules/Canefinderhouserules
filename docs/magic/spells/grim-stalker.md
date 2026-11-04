@@ -17,3 +17,5 @@ Alternatively, a haunted creature can attempt to force the grim stalker to manif
 **Haunt Statistics**: Notice Perception DC 30 (to see a black dog darting toward the target out of the corner of the eye); hp 4 hp/level; Trigger touch (object); Reset none
 
 *This is a haunted spell; see [haunted spells](../../rules/occult-rules/haunted-spells.md).*
+
+**Save-or-die**: The target rolls its saving throw twice and keeps the higher result, as explained in [Save-or-Die Spells](../casting-spells.md#save-or-die-spells).

@@ -8,7 +8,7 @@ Balanced scales fulfill a specialized role in their faith. In addition to utiliz
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells Per Day |
 |---|---|---|---|---|---|---|
-| 1st | +0 | +0 | +0 | +2 | Bypass ward | — |
+| 1st | +0 | +0 | +0 | +2 | Bypass ward | +1 level of divine spellcasting class |
 | 2nd | +1 | +0 | +0 | +3 | Appraising eye | +1 level of divine spellcasting class |
 | 3rd | +1 | +1 | +1 | +3 | Bottomless bag (type II), access the Vault (non-magical item) | +1 level of divine spellcasting class |
 | 4th | +2 | +1 | +1 | +4 | Eloquent bargainer | +1 level of divine spellcasting class |
@@ -23,7 +23,15 @@ To qualify to become a balanced scale, a character must fulfill all the followin
 
 **Skills**: Appraise 4 ranks, Disable Device 4 ranks
 
-**Spellcasting**: Ability to cast 3rd-level divine spells
+**Spellcasting**: Ability to cast 2nd-level divine spells.
+
+??? note "Original requirements"
+
+    **Deity**: The god of cities and wealth
+
+    **Skills**: Appraise 4 ranks, Disable Device 4 ranks
+
+    **Spellcasting**: Ability to cast 3rd-level divine spells
 
 ### Class Skills
 
@@ -35,11 +43,19 @@ The Balanced Scale’s class skills are Appraise, Craft, Diplomacy, Disable Devi
 
 The following are class features of the balanced scale prestige class.
 
-**Spellcasting**: At levels 2–6, the balanced scale gains new spells per day as if she had also gained a level in a divine spellcasting class she belonged to before. She adds the level of balanced scale to the level of whatever other spellcasting class she has for the purposes of determining her caster level.
+**Spellcasting**: At every level, the balanced scale gains new spells per day as if she had also gained a level in a divine spellcasting class she belonged to before. She adds the level of balanced scale to the level of whatever other spellcasting class she has for the purposes of determining her caster level.
+
+??? note "Original rule"
+
+    **Spellcasting**: At levels 2–6, the balanced scale gains new spells per day as if she had also gained a level in a divine spellcasting class she belonged to before. She adds the level of balanced scale to the level of whatever other spellcasting class she has for the purposes of determining her caster level.
 
 **Bypass Ward (Ex)**: Ancient ruins often contain locked and sometimes warded doors; as such, a balanced scale can pick the lock of even a magically locked door (such as one sealed by *arcane lock* or *hold portal*). The Disable Device DC for the door is considered 10 higher than normal due to the effect of the warding spell. A balanced scale also gains a +2 sacred bonus on Disable Device checks. As a full-round action, a balanced scale can make a Disable Device check to disable a magical trap (such as a *glyph of warding*) for 1 minute.
 
-**Appraising Eye (Ex)**: A balanced scale must estimate value quickly and accurately, particularly when in a dangerous environment such as an underground tomb. She gains a +2 sacred bonus to all Appraise checks, and can appraise an item with 1 full-round action, instead of 1 minute, if she takes a –10 penalty.
+**Appraising Eye (Ex)**: A balanced scale must estimate value quickly and accurately, particularly when in a dangerous environment such as an underground tomb. She gains a +2 sacred bonus to all Appraise checks, and can appraise an item with 1 full-round action, instead of 1 minute, with no penalty.
+
+??? note "Original rule"
+
+    **Appraising Eye (Ex)**: A balanced scale must estimate value quickly and accurately, particularly when in a dangerous environment such as an underground tomb. She gains a +2 sacred bonus to all Appraise checks, and can appraise an item with 1 full-round action, instead of 1 minute, if she takes a –10 penalty.
 
 **Bottomless Bag (Su)**: Sometimes a balanced scale finds an unexpected treasure too large to transport. Once per day she can turn any ordinary sack, backpack, or other container into a *bag of holding type II*. The container remains a *bag of holding* for 1 hour per class level; after the duration expires, the container resumes its normal properties, and any items too large to fit within its true dimensions immediately and harmlessly fall out of the opening. Unlike a permanent *bag of holding*, the bag created by this ability cannot be overloaded or ruptured, nor does it have any special interaction with other kinds of extradimensional spaces.
 

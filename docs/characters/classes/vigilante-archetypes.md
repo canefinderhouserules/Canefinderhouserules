@@ -184,7 +184,11 @@ Practicing magic in secret, the warlock obscures her arcane scholarship from pub
 
 **Spellbook**: A warlock has a spellbook that functions in the same way as a magus’s spellbook but uses the 6th-level and lower spells from the sorcerer/wizard spell list.
 
-**Mystic Bolts (Su)**: A warlock can sling projectiles of magical energy at will by shooting a bolt or touching her foe. A melee mystic bolt requires the target to be within reach, and a ranged mystic bolt is a ranged attack with a range of 30 feet. A mystic bolt deals 1d6 points of damage plus 1 for every 4 vigilante levels the warlock has.
+**Mystic Bolts (Su)**: A warlock can sling projectiles of magical energy at will by shooting a bolt or touching her foe. A melee mystic bolt requires the target to be within reach, and a ranged mystic bolt is a ranged attack with a range of 30 feet. A mystic bolt deals 1d6 points of damage + half the warlock’s Intelligence modifier.
+
+??? note "Original rule"
+
+    **Mystic Bolts (Su)**: A warlock can sling projectiles of magical energy at will by shooting a bolt or touching her foe. A melee mystic bolt requires the target to be within reach, and a ranged mystic bolt is a ranged attack with a range of 30 feet. A mystic bolt deals 1d6 points of damage plus 1 for every 4 vigilante levels the warlock has.
 
 The warlock must choose one type of damage for her mystic bolt: acid, cold, electricity, or fire. Attacking with a mystic bolt takes the place of one of the warlock’s normal attacks, and she can make a full attack using mystic bolts. The warlock vigilante attacks with mystic bolts as though they were light one-handed weapons, and the bolts can be used for two-weapon fighting (with each hand creating one mystic bolt) and feats and abilities that apply to weapon attacks (unless they’re excluded from that feat, such as with Power Attack). Weapon Focus (ray) doesn’t apply to mystic bolts, but a warlock can take Weapon Focus (mystic bolt) and apply it to both melee and ranged mystic bolts.
 

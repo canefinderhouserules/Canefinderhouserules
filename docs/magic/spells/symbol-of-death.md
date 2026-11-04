@@ -29,3 +29,5 @@ A *symbol of death* can be removed by a successful *dispel magic* targeted solel
 *Symbol of death* can be made permanent with a *permanency* spell. A permanent *symbol of death* that is disabled or has affected its maximum number of hit points becomes inactive for 10 minutes, but then can be triggered again as normal.
 
 *Note*: Magic traps such as *symbol of death* are hard to detect and disable. A character with trapfinding can use the Perception skill to find a *symbol of death* and Disable Device to thwart it. The DC in each case is 25 + spell level, or 33 for *symbol of death*.
+
+**Save-or-die**: The target rolls its saving throw twice and keeps the higher result, as explained in [Save-or-Die Spells](../casting-spells.md#save-or-die-spells).

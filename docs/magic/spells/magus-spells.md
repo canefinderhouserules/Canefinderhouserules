@@ -25,6 +25,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Darting Duplicate](darting-duplicate.md)**: Illusory duplicate baits attacks of opportunity.
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
 - **[Duelist’s Parry](duelists-parry.md)**: Parry a melee attack as an immediate action.
+- **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
 - **[Emblazon Crest](emblazon-crest.md)**: Displays a crest on worn tabards and shields.
 - **[Enlarge Tail](enlarge-tail.md)**: Your tail gains reach and a bonus to attack and damage.
 - **[Fallback Strategy](fallback-strategy.md)**: Reroll one attack, maneuver, or skill check.
@@ -93,7 +94,6 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Duelist’s Alacrity](duelists-alacrity.md)**: Faster, with fancy footwork.
-- **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
 - **[Erode Defenses](erode-defenses.md)**: Target's DR and natural armor wear away.
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
 - **[Fiery Runes](fiery-runes.md)**: Weapon rune deals fire damage when discharged.

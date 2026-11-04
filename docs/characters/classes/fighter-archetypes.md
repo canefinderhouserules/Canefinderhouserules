@@ -262,6 +262,8 @@ This ability replaces weapon training and weapon mastery.
 
 While most fighters rely on physical fitness and rigorous training to achieve martial superiority, a few prefer to create and imbibe dangerous concoctions that mutate them into fearsome creatures.
 
+**Requirement**: Intelligence 15.
+
 **Mutagen (Su)**: At 1st level, a mutation warrior discovers how to create a mutagen that he can imbibe in order to heighten his physical prowess at the cost of his personality. This ability functions as the alchemist's mutagen ability. This ability replaces armor training 1.
 
 **Mutagen Discovery (Su)**: At 7th level and every 4 levels thereafter, the mutation warrior can choose one of the follow alchemist discoveries to augment his abilities: feral mutagen, grand mutagen, greater mutagen, infuse mutagen, nauseating flesh, preserve organs, rag doll mutagen, spontaneous healing, tentacle, vestigial arm, wings. The mutagen warrior uses his fighter level as his effective alchemist level for determining whether he qualifies for these discoveries. This ability replaces armor training 2, 3, 4, and armor mastery.

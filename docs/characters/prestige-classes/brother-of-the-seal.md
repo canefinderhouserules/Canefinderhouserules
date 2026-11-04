@@ -9,15 +9,15 @@ In a city known for its secrets, one of the greatest mysteries is a massive eldr
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
 |---|---|---|---|---|---|
 | 1st | +0 | +1 | +1 | +1 | Unarmed combat, water splitting stone |
-| 2nd | +1 | +1 | +1 | +1 | Gatekeeper, trapfinding |
+| 2nd | +1 | +1 | +1 | +1 | Gatekeeper, trapfinding, aligned class |
 | 3rd | +2 | +2 | +2 | +2 | Runefinding |
-| 4th | +3 | +2 | +2 | +2 | Awesome Blow |
+| 4th | +3 | +2 | +2 | +2 | Awesome Blow, aligned class |
 | 5th | +3 | +3 | +3 | +3 | Unsealing |
-| 6th | +4 | +3 | +3 | +3 | Domino strike |
+| 6th | +4 | +3 | +3 | +3 | Domino strike, aligned class |
 | 7th | +5 | +4 | +4 | +4 | Hands of stone |
-| 8th | +6 | +4 | +4 | +4 | Rapid slam |
+| 8th | +6 | +4 | +4 | +4 | Rapid slam, aligned class |
 | 9th | +6 | +5 | +5 | +5 | Cascading strike |
-| 10th | +7 | +5 | +5 | +5 | Unraveling |
+| 10th | +7 | +5 | +5 | +5 | Unraveling, aligned class |
 
 ### Requirements
 
@@ -27,9 +27,17 @@ To qualify to become a brother of the seal, a character must fulfill all of the 
 
 **Feats**: Improved Unarmed Strike, Stunning Fist.
 
-**Skills**: Knowledge (arcana) 5 ranks.
+**Skills**: Knowledge (arcana) 3 ranks.
 
-**Special**: Flurry of blows class feature.
+??? note "Original requirements"
+
+    **Alignment**: Any lawful.
+
+    **Feats**: Improved Unarmed Strike, Stunning Fist.
+
+    **Skills**: Knowledge (arcana) 5 ranks.
+
+    **Special**: Flurry of blows class feature.
 
 ### Class Skills
 
@@ -42,6 +50,8 @@ The brother of the seal's class skills (and the key ability for each skill) are 
 The following are class features of the brother of the seal prestige class.
 
 **Weapon and Armor Proficiency**: A Brother of the Seal gains no additional weapon or armor proficiencies.
+
+**Aligned Class (Ex)**: At 2nd level, a brother of the seal must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
 
 **Unarmed Combat (Ex)**: A Brother of the Seal’s class levels stack with any monk levels for the purposes of determining his flurry of blows, stunning fist, and unarmed strike class features (including determining damage dealt by his unarmed strike attacks).
 

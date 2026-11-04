@@ -5,7 +5,7 @@
 - **[Alleviate Addiction](alleviate-addiction.md)**: Subject ignores the effects of addictions.
 - **[Aspect of the Nightingale](aspect-of-the-nightingale.md)**: Clear voice, bonus on Diplomacy and Perform.
 - **[Bed of Iron](bed-of-iron.md)**: Lets targets sleep comfortably in armor.
-- **[Bless](bless.md)**: Allies gain +1 on attack rolls and saves against fear.
+- **[Bless](bless.md)**: Allies gain a +1 divine bonus on attack rolls and saves against fear.
 - **[Bless Water](bless-water.md)**: Makes holy water.
 - **[Bless Weapon](bless-weapon.md)**: Weapon strikes true against evil foes.
 - **[Blessing of the Watch](blessing-of-the-watch.md)**: *Bless* that works only in the caster’s home city.
@@ -23,6 +23,7 @@
 - **[Detect the Faithful](detect-the-faithful.md)**: Find others of the same faith.
 - **[Detect Undead](detect-undead.md)**: Reveals undead within 60 ft.
 - **[Divine Favor](divine-favor.md)**: You gain +1 per three levels on attack and damage rolls.
+- **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
 - **[Emblazon Crest](emblazon-crest.md)**: Displays a crest on worn tabards and shields.
 - **[Empower Holy Water](empower-holy-water.md)**: Holy water deals extra damage to undead
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
@@ -31,6 +32,7 @@
 - **[Fastidiousness](fastidiousness.md)**: Stay clean and gain a bonus against inhaled and ingested diseases.
 - **[Firebelly](firebelly.md)**: Fire resistance 5 and a small fire breath.
 - **[Funereal Weapon](funereal-weapon.md)**: Weapon ignores 5 points of undead DR
+- **[Gravity Bow](gravity-bow.md)**: Arrows do damage as though one size category bigger.
 - **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Haze of Dreams](haze-of-dreams.md)**: Halve a creature’s speed with waking dreams.
 - **[Hedging Weapons](hedging-weapons.md)**: Floating weapons protect you and make ranged attacks.
@@ -89,9 +91,9 @@
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
 - **[Divine Arrow](divine-arrow.md)**: Imbues a projectile with holy energy.
+- **[Divine Smite](divine-smite.md)**: Deals 1d5 sacred or profane damage/level (max 10d5) to one or two targets.
 - **[Dwarven Veil](dwarven-veil.md)**: Target gains +2 on checks to influence dwarves.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
-- **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
 - **[Enchantment Sight](enchantment-sight.md)**: See which creatures are under enchantment effects.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
 - **[Fairness](fairness.md)**: Affected creatures must trade fairly.

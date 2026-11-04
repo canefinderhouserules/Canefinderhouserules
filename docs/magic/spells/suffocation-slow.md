@@ -9,3 +9,5 @@
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
 The target is unable to breathe and is treated as if she is holding her breath (see the rules for suffocation). Strong stimulants, effects that increase the target’s Constitution, or physical trauma (such as taking 10 or more points of damage from a single attack) negate the spell immediately. Creatures that do not need to breathe are immune to this spell. The target is considered to have taken a dose of pesh for the purpose of addiction and withdrawal effects. Canny pesh adepts use this spell to subtly kill enemies, as the spell mimics a pesh overdose.
+
+**Save-or-die**: The target rolls its saving throw twice and keeps the higher result, as explained in [Save-or-Die Spells](../casting-spells.md#save-or-die-spells).

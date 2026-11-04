@@ -206,7 +206,11 @@ A reanimator is an alchemist who has discovered how to infuse a corpse with a se
 
 A vivisectionist studies bodies to better understand their function. Unlike a chirurgeon, a vivisectionist’s goals are not related to healing, but rather to experimentation and knowledge that most people would consider evil. A vivisectionist has the following class features.
 
-**Sneak Attack**: At 1st level, a vivisectionist gains the sneak attack ability as a rogue of the same level. If a character already has sneak attack from another class, the levels from the classes that grant sneak attack stack to determine the effective rogue level for the sneak attack’s extra damage dice (so an alchemist 1/rogue 1 has a +1d6 sneak attack like a 2nd-level rogue, an alchemist 2/rogue 1 has a +2d6 sneak attack like a 3rd-level rogue, and so on). This ability replaces bomb.
+**Sneak Attack**: At 1st level, a vivisectionist gains the sneak attack ability as a rogue of the same level. This sneak attack works like that of any other class: if a character also has sneak attack from another class, the dice from each class are added together, and vivisectionist levels do not make other classes’ sneak attack advance. One level of vivisectionist grants only 1d6. This ability replaces bomb.
+
+??? note "Original rule"
+
+    **Sneak Attack**: At 1st level, a vivisectionist gains the sneak attack ability as a rogue of the same level. If a character already has sneak attack from another class, the levels from the classes that grant sneak attack stack to determine the effective rogue level for the sneak attack’s extra damage dice (so an alchemist 1/rogue 1 has a +1d6 sneak attack like a 2nd-level rogue, an alchemist 2/rogue 1 has a +2d6 sneak attack like a 3rd-level rogue, and so on). This ability replaces bomb.
 
 **Torturer’s Eye**: At 2nd level, a vivisectionist adds deathwatch to his formula book as a 1st-level extract.
 

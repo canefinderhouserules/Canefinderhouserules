@@ -36,6 +36,7 @@
 - **[Detect the Faithful](detect-the-faithful.md)**: Find others of the same faith.
 - **[Dream Feast](dream-feast.md)**: A dream feast sates the sleeper.
 - **[Echo](echo.md)**: Cause a sound to repeat itself.
+- **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Entangle](entangle.md)**: Plants entangle everyone in 40-ft. radius.
 - **[Flotsam Vessel](flotsam-vessel.md)**: Builds a raft from river debris that always travels downstream.
@@ -48,6 +49,7 @@
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
 - **[Inner Focus](inner-focus.md)**: Cast divine spells without displaying a holy symbol.
 - **[Instant Clot](instant-clot.md)**: end bleeding and stop blood flowing from wounds
+- **[Instant Enemy](instant-enemy.md)**: Target is treated as a favored enemy type of your choice.
 - **[Ironbeard](ironbeard.md)**: School transmutation; Level antipaladin 1, cleric 1, magus 1, paladin 1, ranger 1 Casting Time 1 standard.
 - **[Jump](jump.md)**: Subject gets bonus on Acrobatics checks.
 - **[Keep Watch](keep-watch.md)**: Lets subjects keep watch all night yet gain a full rest.
@@ -106,7 +108,7 @@
 - **[Ape Walk](ape-walk.md)**: Gain a climb speed of 30 ft. and a +8 bonus on Climb checks.
 - **[Aquatic Cavalry](aquatic-cavalry.md)**: Summon hippocampi to serve as aquatic mounts.
 - **[Ashen Path](ashen-path.md)**: breathe contaminated air and see through ash and smoke
-- **[Barkskin](barkskin.md)**: Grants +2 (or higher) enhancement to natural armor.
+- **[Barkskin](barkskin.md)**: Grants +2 (or higher) enhancement to natural armor, and DR/magic.
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
 - **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
 - **[Brow Gasher](brow-gasher.md)**: Slashing weapon deals bleed damage to an opponent’s head.
@@ -118,7 +120,6 @@
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Detoxify](detoxify.md)**: Neutralize a creature’s poison attacks.
-- **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
 - **[Endure Elements, Communal](endure-elements-communal.md)**: As endure elements, but you may divide the duration among creatures touched.
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
@@ -399,7 +400,6 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Bloody Claws](bloody-claws.md)**: Gives creature the ability to deal bleed damage with natural attacks.
 - **[Cloak of Winds](cloak-of-winds.md)**: Creates a whirling screen of strong wind around you.
 - **[Feather Step, Mass](feather-step-mass.md)**: As feather step, but affects many targets rather than one.
-- **[Instant Enemy](instant-enemy.md)**: Target is treated as a favored enemy type of your choice.
 - **[Life Bubble](life-bubble.md)**: Protects creatures from sustained environmental effects.
 - **[Strong Jaw](strong-jaw.md)**: Natural attacks damage as two sizes bigger.
 - **[Tireless Pursuers](tireless-pursuers.md)**: As tireless pursuit, but affects many targets rather than one.

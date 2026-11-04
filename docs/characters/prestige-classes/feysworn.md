@@ -9,15 +9,15 @@ The fey lords appreciate a broad range of talents in their servants. While some 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells Per Day |
 |---|---|---|---|---|---|---|
 | 1st | +0 | +0 | +0 | +1 | Feymarked, obedience | — |
-| 2nd | +1 | +1 | +1 | +1 | Breacher, feyskinned | +1 level of existing class |
+| 2nd | +1 | +1 | +1 | +1 | Breacher, feyskinned, aligned class | +1 level of existing class |
 | 3rd | +2 | +1 | +1 | +2 | Fey boon 1 | +1 level of existing class |
-| 4th | +3 | +1 | +1 | +2 | Summon fey 1 (*summon monster IV*) | +1 level of existing class |
+| 4th | +3 | +1 | +1 | +2 | Summon fey 1 (*summon monster IV*), aligned class | +1 level of existing class |
 | 5th | +3 | +2 | +2 | +3 | Alien mind, plane swap | +1 level of existing class |
-| 6th | +4 | +2 | +2 | +3 | Fey boon 2 | +1 level of existing class |
+| 6th | +4 | +2 | +2 | +3 | Fey boon 2, aligned class | +1 level of existing class |
 | 7th | +5 | +2 | +2 | +4 | Feyskinned (constant) | +1 level of existing class |
-| 8th | +6 | +3 | +3 | +4 | Summon fey 2 (*summon monster VIII*) | +1 level of existing class |
+| 8th | +6 | +3 | +3 | +4 | Summon fey 2 (*summon monster VIII*), aligned class | +1 level of existing class |
 | 9th | +6 | +3 | +3 | +5 | Fey boon 3 | +1 level of existing class |
-| 10th | +7 | +3 | +3 | +5 | Tear reality | +1 level of existing class |
+| 10th | +7 | +3 | +3 | +5 | Tear reality, aligned class | +1 level of existing class |
 
 ### Requirements
 
@@ -42,6 +42,8 @@ The Feysworn’s class skills are Bluff (Cha), Handle Animal (Cha), Intimidate (
 The following are the class features of the feysworn prestige class.
 
 **Weapon and Armor Proficiency**: A feysworn gains proficiency with all simple weapons and with her fey lord’s favored weapon. She gains no additional proficiency with armor or shields.
+
+**Aligned Class (Ex)**: At 2nd level, a feysworn must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
 
 **Spells per Day or Spells Known**: At the indicated levels, when a new feysworn level is gained, the character gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before taking the prestige class. She doesn't gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If the character had levels in more than one spellcasting class before becoming a feysworn, she must choose to which class she adds the new level for the purposes of determining spells per day.
 

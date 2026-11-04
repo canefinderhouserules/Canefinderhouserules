@@ -8,16 +8,16 @@ Enchanting courtesans are elite information brokers who perfect their bodies and
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
 |---|---|---|---|---|---|
-| 1st | +0 | +1 | +0 | +1 | Covert spells, enchanting touch, seducer's leverage |
-| 2nd | +1 | +1 | +1 | +1 | Poison use, seductive intuition, +1 level of spellcasting class |
+| 1st | +0 | +1 | +0 | +1 | Covert spells, enchanting touch, seducer's leverage, +1 level of spellcasting class |
+| 2nd | +1 | +1 | +1 | +1 | Poison use, seductive intuition, +1 level of spellcasting class, aligned class |
 | 3rd | +1 | +2 | +1 | +2 | Hidden spell +1, master poisoner, +1 level of spellcasting class |
-| 4th | +2 | +2 | +1 | +2 | Contact poison wielder, +1 level of spellcasting class |
+| 4th | +2 | +2 | +1 | +2 | Contact poison wielder, +1 level of spellcasting class, aligned class |
 | 5th | +2 | +3 | +2 | +3 | Deluding touch, +1 level of spellcasting class |
-| 6th | +3 | +3 | +2 | +3 | Hidden spell +2/+1, +1 level of spellcasting class |
+| 6th | +3 | +3 | +2 | +3 | Hidden spell +2/+1, +1 level of spellcasting class, aligned class |
 | 7th | +3 | +4 | +2 | +4 | Informative liaisons, +1 level of spellcasting class |
-| 8th | +4 | +4 | +3 | +4 | Overwhelming touch, +1 level of spellcasting class |
+| 8th | +4 | +4 | +3 | +4 | Overwhelming touch, +1 level of spellcasting class, aligned class |
 | 9th | +4 | +5 | +3 | +5 | Hidden spell +3/+2, +1 level of spellcasting class |
-| 10th | +5 | +5 | +3 | +5 | Touch of ecstasy, +1 level of spellcasting class |
+| 10th | +5 | +5 | +3 | +5 | Touch of ecstasy, +1 level of spellcasting class, aligned class |
 
 ### Requirements
 
@@ -25,9 +25,17 @@ To qualify to become an enchanting courtesan, a character must fulfill all of th
 
 **Feats**: Either Spell Focus (divination) or Spell Focus (enchantment).
 
-**Skills**: Bluff 5 ranks; Knowledge (arcana) 2 ranks; Sense Motive 5 ranks; Perform (act) or Perform (dance) 2 ranks.
+**Skills**: Bluff 3 ranks; Knowledge (arcana) 2 ranks; Sense Motive 3 ranks; Perform (act) or Perform (dance) 2 ranks.
 
-**Spells**: Ability to cast two different divination spells and two different enchantment spells. One of each must be 2nd level or higher.
+**Spells**: Ability to cast 1st-level spells.
+
+??? note "Original requirements"
+
+    **Feats**: Either Spell Focus (divination) or Spell Focus (enchantment).
+
+    **Skills**: Bluff 5 ranks; Knowledge (arcana) 2 ranks; Sense Motive 5 ranks; Perform (act) or Perform (dance) 2 ranks.
+
+    **Spells**: Ability to cast two different divination spells and two different enchantment spells. One of each must be 2nd level or higher.
 
 ### Class Skills
 
@@ -41,6 +49,8 @@ The following are class features of the enchanting courtesan prestige class.
 
 **Weapon and Armor Proficiency**: An enchanting courtesan gains no proficiency with any weapons or armor.
 
+**Aligned Class (Ex)**: At 2nd level, a enchanting courtesan must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class. The caster level used to determine which spells she knows cannot exceed her Hit Dice.
+
 **Covert Spells (Su)**: An enchanting courtesan can cast divination and enchantment spells covertly. Upon doing so, the enchanting courtesan must attempt a Bluff check, as well as a Sleight of Hand check if the spell has somatic, material, or focus components. Observers do not notice that a spell has been cast unless they succeed at both a Sense Motive check opposing the courtesan’s Bluff check and a Perception check opposing the courtesan’s Sleight of Hand check (if any). If the enchanting courtesan has another ability that allows spells to be hidden in a similar fashion, he gains a +2 bonus on these checks. Casting the spell does not provoke attacks of opportunity from foes unaware of the spellcasting.
 
 **Enchanting Touch (Su)**: An enchanting courtesan can deliver a divination or enchantment spell with a touch, usually a kiss or caress, to a target that is willing to be touched by him. The target takes a –4 penalty on skill checks to notice or identify the spell being cast.
@@ -51,7 +61,11 @@ The following are class features of the enchanting courtesan prestige class.
 
 **Seductive Intuition (Su)**: At 2nd level, an enchanting courtesan gains a competence bonus equal to half his class level on Bluff, Diplomacy, Sense Motive, and Sleight of Hand checks. He can use his total Sense Motive modifier in place of his total modifiers on Diplomacy and Sleight of Hand checks against targets who could be sexually attracted to him.
 
-**Spellcasting**: At each level except 1st, an enchanting courtesan gains new spells per day (and spells known, if applicable) as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not gain any other benefit a character of that class would have gained, except for additional spells per day, spells known, and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming an enchanting courtesan, he must decide to which class he adds each level for the purpose of determining spells per day.
+**Spellcasting**: At every level, an enchanting courtesan gains new spells per day (and spells known, if applicable) as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not gain any other benefit a character of that class would have gained, except for additional spells per day, spells known, and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming an enchanting courtesan, he must decide to which class he adds each level for the purpose of determining spells per day.
+
+??? note "Original rule"
+
+    **Spellcasting**: At each level except 1st, an enchanting courtesan gains new spells per day (and spells known, if applicable) as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not gain any other benefit a character of that class would have gained, except for additional spells per day, spells known, and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming an enchanting courtesan, he must decide to which class he adds each level for the purpose of determining spells per day.
 
 **Hidden Spell (Su)**: At 3rd level, an enchanting courtesan can undermine a foe’s mental defenses with surprise. The enchanting courtesan gains a +1 circumstance bonus to the save DC of his spells against foes who are unaware of his presence or consider him an ally. In these circumstances, the enchanting courtesan also gains a +1 circumstance bonus on caster level checks to overcome targets’ spell resistance and to penetrate abjurations such as *nondetection*. At 6th level, the bonuses increase to +2. A 6th-level enchanting courtesan can also undermine the mental defenses of a target that he is flanking or that is denied its Dexterity bonus to AC, but in these cases, the bonuses are each reduced by 1. At 9th level, the bonuses increase to +3, or +2 if the foe is merely flanked or denied its Dexterity bonus to AC.
 

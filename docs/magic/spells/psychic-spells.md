@@ -121,7 +121,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Longshot
 - **[Mage Armor](mage-armor.md)**: Gives subject +4 armor bonus.
 - **[Magic Aura](magic-aura.md)**: Alters object’s magic aura.
-- **[Magic Missile](magic-missile.md)**: 1d4+1 damage; +1 missile per two levels above 1st (max 5).
+- **[Magic Missile](magic-missile.md)**: 1d4+2 damage; +1 missile per two levels above 1st (max 5).
 - **[Mask Dweomer](mask-dweomer.md)**: Hides presence of a spell from detect magic.
 - **[Memorize Page](memorize-page.md)**
 - **[Mind Thrust I](mind-thrust-i.md)**: Mentally deal 1d6 points of damage per level.
@@ -152,7 +152,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
 - **[Shadow Weapon](shadow-weapon.md)**: Create a quasi-real masterwork weapon.
 - **[Share Language](share-language.md)**: Subject understands chosen language.
-- **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks *magic missiles.*
+- **[Shield](shield.md)**: Invisible disc gives +3 to AC, blocks *magic missiles.*
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
@@ -461,7 +461,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Guiding Star](guiding-star.md)**: Know approximate distance from where you cast this spell.
 - **[Gullibility](gullibility.md)**: target believes lies more readily
 - **[Hallucinatory Decor](hallucinatory-decor.md)**: Reimagine the decor of a structure.
-- **[Haste](haste.md)**: One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
+- **[Haste](haste.md)**: One creature moves faster, gains an extra attack and +1 on attack rolls, AC, and Reflex saves, and can quicken a spell once per turn.
 - Healing Thief
 - **[Helping Hand](helping-hand.md)**: Ghostly hand leads subject to you.
 - **[Heroism](heroism.md)**: Gives +2 bonus on attack rolls, saves, skill checks.
@@ -632,6 +632,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Hallucinatory Terrain](hallucinatory-terrain.md)**: Makes one type of terrain appear like another (field as forest, or the like).
 - Healing Warmth
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
+- **[Haste, Area](haste.md)**: As *haste*, but affects one creature/level, no two more than 30 ft. apart.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
 - **[Horseman of Death’s Dispensation](horseman-of-deaths-dispensation.md)**: The target of this spell gains immunity to the harmful effects of touching or drinking from the River Styx and…

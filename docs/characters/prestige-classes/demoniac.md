@@ -9,15 +9,15 @@ Many demon worshipers understand that sinful souls become demons once the Abyss 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
 |---|---|---|---|---|---|---|
 | 1st | +0 | +1 | +0 | +0 | Damned, demonic mark, obedience | — |
-| 2nd | +1 | +1 | +1 | +1 | Energumen +2 | +1 level of existing class |
-| 3rd | +2 | +2 | +1 | +1 | Demonic boon 1 | +1 level of existing class |
-| 4th | +3 | +2 | +1 | +1 | Summon demon 1 | +1 level of existing class |
-| 5th | +3 | +3 | +2 | +2 | Energumen +4 (resistance) | +1 level of existing class |
-| 6th | +4 | +3 | +2 | +2 | Demonic boon 2 | +1 level of existing class |
-| 7th | +5 | +4 | +2 | +2 | Energumen +6 (immunities) | +1 level of existing class |
-| 8th | +6 | +4 | +3 | +3 | Summon demon 2 | +1 level of existing class |
-| 9th | +6 | +5 | +3 | +3 | Demonic boon 3 | +1 level of existing class |
-| 10th | +7 | +5 | +3 | +3 | Demonic form | +1 level of existing class |
+| 2nd | +1 | +1 | +1 | +1 | Energumen +2, aligned class | +1 level of existing class |
+| 3rd | +2 | +2 | +1 | +1 | Demonic boon 1, aligned class | +1 level of existing class |
+| 4th | +3 | +2 | +1 | +1 | Summon demon 1, aligned class | +1 level of existing class |
+| 5th | +3 | +3 | +2 | +2 | Energumen +4 (resistance), aligned class | +1 level of existing class |
+| 6th | +4 | +3 | +2 | +2 | Demonic boon 2, aligned class | +1 level of existing class |
+| 7th | +5 | +4 | +2 | +2 | Energumen +6 (immunities), aligned class | +1 level of existing class |
+| 8th | +6 | +4 | +3 | +3 | Summon demon 2, aligned class | +1 level of existing class |
+| 9th | +6 | +5 | +3 | +3 | Demonic boon 3, aligned class | +1 level of existing class |
+| 10th | +7 | +5 | +3 | +3 | Demonic form, aligned class | +1 level of existing class |
 
 ### Requirements
 
@@ -25,15 +25,29 @@ To qualify to become a demoniac, a character must fulfill all of the following c
 
 **Alignment**: Chaotic evil.
 
-**Feats**: [Demonic Obedience](../../rules/feats/demonic-obedience.md), Iron Will.
+**Feats**: [Demonic Obedience](../../rules/feats/demonic-obedience.md).
 
-**Skills**: Intimidate 7 ranks, Knowledge (planes) 7 ranks, Spellcraft 7 ranks.
+**Skills**: Intimidate 5 ranks, Knowledge (planes) 5 ranks, Spellcraft 5 ranks.
 
 **Language**: Abyssal.
 
-**Spells**: Ability to cast at least two enchantment spells of two different spell levels.
+**Spells**: Ability to cast 1st-level spells.
 
 **Special**: Must worship a demon lord or nascent demon lord; must have been mentally, physically, or spiritually traumatized by a demon—either being reduced to negative hit points by a demon’s physical attacks, taking a total of 10 or more points of ability damage or drain from a demon’s special attack (this total damage can be from multiple attacks as long as the total is 10 or more in all), or spending at least 1 day under a demon’s control (either via charm or compulsion effects or via demonic possession).
+
+??? note "Original requirements"
+
+    **Alignment**: Chaotic evil.
+
+    **Feats**: [Demonic Obedience](../../rules/feats/demonic-obedience.md), Iron Will.
+
+    **Skills**: Intimidate 7 ranks, Knowledge (planes) 7 ranks, Spellcraft 7 ranks.
+
+    **Language**: Abyssal.
+
+    **Spells**: Ability to cast at least two enchantment spells of two different spell levels.
+
+    **Special**: Must worship a demon lord or nascent demon lord; must have been mentally, physically, or spiritually traumatized by a demon—either being reduced to negative hit points by a demon’s physical attacks, taking a total of 10 or more points of ability damage or drain from a demon’s special attack (this total damage can be from multiple attacks as long as the total is 10 or more in all), or spending at least 1 day under a demon’s control (either via charm or compulsion effects or via demonic possession).
 
 ### Class Skills
 
@@ -46,6 +60,8 @@ The demoniac’s class skills are Bluff (Cha), Intimidate (Cha), Knowledge (plan
 The following are class features of this prestige class.
 
 **Weapon and Armor Proficiency**: A demoniac gains proficiency with all simple weapons and with her demonic patron’s favored weapon.
+
+**Aligned Class (Ex)**: At 2nd level, a demoniac must choose a class they belonged to before adding the prestige class to be their aligned class. They gain all the class features of this class, essentially adding every demoniac level beyond 1st to their aligned class to determine what class features they gain. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class, but gain all other class features of their aligned class as well as those of this prestige class.
 
 **Spells per Day/Spells Known**: At the indicated levels, a demoniac gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before adding the prestige class. She does not gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If the character had more than one spellcasting class before becoming a demoniac, she must decide to which class she adds the new level for purposes of determining spells per day.
 

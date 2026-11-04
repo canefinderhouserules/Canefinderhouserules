@@ -262,6 +262,32 @@ As slaves of capricious oni lords, your ancestors were forced to yield to their 
 
 **Hedonistic Master (Su)**: At 20th level, you fully embrace your oni heritage to unlock its maximum potential. You gain the ability to change your shape between your natural form and that of any one Large humanoid creature of the giant subtype at will (as the spell *giant form I*). You must choose which creature you wish to be able to change into when you reach 20th level; once you make this decision, you cannot change it. You can switch between your forms at will, and can assume your giant form for as long as you want. In addition, you gain SR equal to 6 + your sorcerer level, and whenever you cast a spell of the charm or compulsion subschool, the spell’s DC increases by +2.
 
+### Orc
+
+The rage of your orc ancestors burns within you.
+
+**Class Skill**: Survival.
+
+**Bonus Spells**: *burning hands* (3rd), *bull’s strength* (5th), *rage* (7th), *wall of fire* (9th), *cloudkill* (11th), *transformation* (13th), *delayed blast fireball* (15th), *iron body* (17th), *meteor swarm* (19th).
+
+**Bonus Feats**: Diehard, Endurance, Great Fortitude, Improved Overrun, Intimidating Prowess, Power Attack, Toughness, Widen Spell.
+
+**Bloodline Arcana**: You gain the orc subtype, which includes darkvision 60 feet. If you already have darkvision, its range increases to 90 feet. Spells you cast that deal damage gain +1 damage per die rolled. You do not have light sensitivity.
+
+**Touch of Rage (Sp)**: At 1st level, as a standard action, you can touch a creature to give it a morale bonus on attack rolls, damage rolls, and Will saves equal to half your sorcerer level (minimum 1) for 1 round. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+
+**Fearless (Ex)**: At 3rd level, you gain a +4 bonus on saves against fear and +1 natural armor. At 9th level, you become immune to fear and your natural armor bonus increases to +2.
+
+**Strength of the Beast (Ex)**: At 9th level, you gain a +2 inherent bonus to Strength. This increases to +4 at 13th level and +6 at 17th level.
+
+**Power of Giants (Sp)**: At 15th level, as a standard action, you can grow to Large size, gaining a +6 size bonus to Strength, a –2 penalty to Dexterity, a +4 size bonus to Constitution, and +4 natural armor. Returning to normal size is also a standard action. You can remain in this form for 1 minute per character level per day; this duration need not be consecutive, but must be spent in 1-minute increments.
+
+**Warlord Reborn (Su)**: At 20th level, you gain immunity to fire and DR 5/—. Once per day, you can cast *transformation* as a spell-like ability, using your sorcerer level as your caster level.
+
+??? note "Original rule"
+
+    **Bloodline Arcana**: The orc subtype also includes light sensitivity. **Fearless**: At 9th level you also lose light sensitivity.
+
 ### Rakshasa
 
 At some point in your family’s history, one of your ancestors was tainted by the influence of a rakshasa. Though most of your family seem entirely normal, you have always felt your own skin is a prison from which magic allows you to escape. Your birthright is a secret you may be forced to keep from societies that would never deal with you if your heritage were known.
@@ -1219,7 +1245,11 @@ Stories often tell of fox-folk with multiple tails, but not many realize that fe
 
 This archetype is available only to kitsune characters.
 
-**Magical Tail**: At 3rd level and every 4 levels thereafter, a nine-tailed heir gains [Magical Tail](../../rules/feats/magical-tail.md) as a bonus feat. If the nine-tailed heir already has nine tails, each additional time the feat is taken, the sorcerer gains one additional daily use of the lowest level Magical Tail ability not already affected by this effect. This ability replaces the bloodline spell class feature.
+**Magical Tail**: Each time she would gain a bloodline spell, a nine-tailed heir instead gains [Magical Tail](../../rules/feats/magical-tail.md) as a bonus feat. She can swap the spells granted by her tails for other appropriately themed spells (this change is permanent), up to the highest spell level she can cast when she receives the tail. For example, if she receives her second tail at 5th level, she can swap its spell for another kitsune-themed spell of 2nd level or lower. If the nine-tailed heir already has nine tails, each additional time the feat is taken, the sorcerer gains one additional daily use of the lowest level Magical Tail ability not already affected by this effect. This ability replaces the bloodline spell class feature.
+
+??? note "Original rule"
+
+    **Magical Tail**: At 3rd level and every 4 levels thereafter, a nine-tailed heir gains [Magical Tail](../../rules/feats/magical-tail.md) as a bonus feat. If the nine-tailed heir already has nine tails, each additional time the feat is taken, the sorcerer gains one additional daily use of the lowest level Magical Tail ability not already affected by this effect. This ability replaces the bloodline spell class feature.
 
 ## Umbral Scion
 

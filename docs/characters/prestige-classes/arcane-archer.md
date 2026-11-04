@@ -15,32 +15,33 @@ Those who have trained as both rangers and wizards excel as arcane archers, alth
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
 |---|---|---|---|---|---|---|
 | 1st | +1 | +1 | +1 | +0 | Enhance arrows (magic) | — |
-| 2nd | +2 | +1 | +1 | +1 | Imbue arrow | +1 level of existing class |
-| 3rd | +3 | +2 | +2 | +1 | Enhance arrows (elemental) | +1 level of existing class |
-| 4th | +4 | +2 | +2 | +1 | Seeker arrow | +1 level of existing class |
-| 5th | +5 | +3 | +3 | +2 | Enhance arrows ( *distance* ) | — |
+| 2nd | +2 | +1 | +1 | +1 | Imbue arrow, enhance arrows (elemental) | +1 level of existing class |
+| 3rd | +3 | +2 | +2 | +1 | Enhance arrows (*distance*) | +1 level of existing class |
+| 4th | +4 | +2 | +2 | +1 | Seeker arrow, enhance arrows (elemental burst) | +1 level of existing class |
+| 5th | +5 | +3 | +3 | +2 | Enhance arrows (aligned) | — |
 | 6th | +6 | +3 | +3 | +2 | Phase arrow | +1 level of existing class |
-| 7th | +7 | +4 | +4 | +2 | Enhance arrows (elemental burst) | +1 level of existing class |
+| 7th | +7 | +4 | +4 | +2 | — | +1 level of existing class |
 | 8th | +8 | +4 | +4 | +3 | Hail of arrows | +1 level of existing class |
-| 9th | +9 | +5 | +5 | +3 | Enhance arrows (aligned) | — |
+| 9th | +9 | +5 | +5 | +3 | — | — |
 | 10th | +10 | +5 | +5 | +3 | Arrow of death | +1 level of existing class |
 
 ### Requirements
 
 To qualify to become an arcane archer, a character must fulfill all the following criteria.
 
-**Base Attack Bonus**: +6.
+**Base Attack Bonus**: +3.
 
 **Feats**: Point Blank Shot, Precise Shot, Weapon Focus (longbow or shortbow).
 
 **Spells**: Ability to cast 1st-level arcane spells.
 
-!!! warning "House rules"
-    - Requirement: base attack bonus +3 (instead of +6).
-    - Enhance Arrow: arrows are enhanced at levels 1, 2, 3, 4 and 5 (instead of 1, 3, 5, 7 and 9).
-    - Imbue Arrow: can imbue any spell, not just area spells. If you use a spell with multiple attacks or rays, you can fire as many rays or attacks as you have attacks (for example, you can fire *scorching ray* on a full attack).
-    - Seeker Arrow and Phase Arrow: double the uses, and you can spend 1 use per attack so that it affects more than one attack in the same round (effectively 2 uses per day plus 1 per level; you can make a full attack spending 1 use per attack).
-    - Hail of Arrows: double the uses.
+??? note "Original requirements"
+
+    **Base Attack Bonus**: +6.
+
+    **Feats**: Point Blank Shot, Precise Shot, Weapon Focus (longbow or shortbow).
+
+    **Spells**: Ability to cast 1st-level arcane spells.
 
 ### Class Skills
 
@@ -60,23 +61,55 @@ All of the following are class features of the arcane archer prestige class.
 
 In addition, the arcane archer’s arrows gain a number of additional qualities as he gains additional levels. The elemental, elemental burst, and aligned qualities can be changed once per day, when the arcane archer prepares spells or, in the case of spontaneous spellcasters, after 8 hours of rest.
 
-At 3rd level, every nonmagical arrow fired by an arcane archer gains one of the following elemental themed weapon qualities: *flaming*, *frost*, or *shock*.
+At 2nd level, every nonmagical arrow fired by an arcane archer gains one of the following elemental themed weapon qualities: *flaming*, *frost*, or *shock*.
 
-At 5th level, every nonmagical arrow fired by an arcane archer gains the *distance* weapon quality.
+??? note "Original rule"
 
-At 7th level, every nonmagical arrow fired by an arcane archer gains one of the following elemental burst weapon qualities: *flaming burst*, *icy burst*, or *shocking burst*. This ability replaces the ability gained at 3rd level.
+    At 3rd level, every nonmagical arrow fired by an arcane archer gains one of the following elemental themed weapon qualities: *flaming*, *frost*, or *shock*.
 
-At 9th level, every nonmagical arrow fired by an arcane archer gains one of the following aligned weapon qualities: *anarchic*, *axiomatic*, *holy*, or *unholy*. The arcane archer cannot choose an ability that is the opposite of his alignment (for example, a lawful good arcane archer could not choose *anarchic* or *unholy* as his weapon quality).
+At 3rd level, every nonmagical arrow fired by an arcane archer gains the *distance* weapon quality.
+
+??? note "Original rule"
+
+    At 5th level, every nonmagical arrow fired by an arcane archer gains the *distance* weapon quality.
+
+At 4th level, every nonmagical arrow fired by an arcane archer gains one of the following elemental burst weapon qualities: *flaming burst*, *icy burst*, or *shocking burst*. This ability replaces the ability gained at 2nd level.
+
+??? note "Original rule"
+
+    At 7th level, every nonmagical arrow fired by an arcane archer gains one of the following elemental burst weapon qualities: *flaming burst*, *icy burst*, or *shocking burst*. This ability replaces the ability gained at 3rd level.
+
+At 5th level, every nonmagical arrow fired by an arcane archer gains one of the following aligned weapon qualities: *anarchic*, *axiomatic*, *holy*, or *unholy*. The arcane archer cannot choose an ability that is the opposite of his alignment (for example, a lawful good arcane archer could not choose *anarchic* or *unholy* as his weapon quality).
+
+??? note "Original rule"
+
+    At 9th level, every nonmagical arrow fired by an arcane archer gains one of the following aligned weapon qualities: *anarchic*, *axiomatic*, *holy*, or *unholy*. The arcane archer cannot choose an ability that is the opposite of his alignment (for example, a lawful good arcane archer could not choose *anarchic* or *unholy* as his weapon quality).
 
 The bonuses granted by a magic bow apply as normal to arrows that have been enhanced with this ability. Only the larger enhancement bonus applies. Duplicate abilities do not stack.
 
-**Imbue Arrow (Sp)**: At 2nd level, an arcane archer gains the ability to place an area spell upon an arrow. When the arrow is fired, the spell’s area is centered where the arrow lands, even if the spell could normally be centered only on the caster. This ability allows the archer to use the bow’s range rather than the spell’s range. A spell cast in this way uses its standard casting time and the arcane archer can fire the arrow as part of the casting. The arrow must be fired during the round that the casting is completed or the spell is wasted. If the arrow misses, the spell is wasted.
+**Imbue Arrow (Sp)**: At 2nd level, an arcane archer gains the ability to place any spell upon an arrow. If it is an area spell, when the arrow is fired, the spell’s area is centered where the arrow lands, even if the spell could normally be centered only on the caster. This ability allows the archer to use the bow’s range rather than the spell’s range. A spell cast in this way uses its standard casting time and the arcane archer can fire the arrow as part of the casting. The arrow must be fired during the round that the casting is completed or the spell is wasted. If the arrow misses, the spell is wasted. If the spell makes multiple attacks or rays, the archer can fire as many rays or attacks as he has attacks (for example, he can fire *scorching ray* on a full attack).
 
-**Seeker Arrow (Sp)**: At 4th level, an arcane archer can launch an arrow at a target known to him within range, and the arrow travels to the target, even around corners. Only an unavoidable obstacle or the limit of the arrow’s range prevents the arrow’s flight. This ability negates cover and concealment modifiers, but otherwise the attack is rolled normally. Using this ability is a standard action (and shooting the arrow is part of the action). An arcane archer can use this ability once per day at 4th level, and one additional time per day for every two levels beyond 4th, to a maximum of four times per day at 10th level.
+??? note "Original rule"
 
-**Phase Arrow (Sp)**: At 6th level, an arcane archer can launch an arrow once per day at a target known to him within range, and the arrow travels to the target in a straight path, passing through any nonmagical barrier or wall in its way. (Any magical barrier stops the arrow.) This ability negates cover, concealment, armor, and shield modifiers, but otherwise the attack is rolled normally. Using this ability is a standard action (and shooting the arrow is part of the action). An arcane archer can use this ability once per day at 6th level, and one additional time per day for every two levels beyond 6th, to a maximum of three times per day at 10th level.
+    **Imbue Arrow (Sp)**: At 2nd level, an arcane archer gains the ability to place an area spell upon an arrow. When the arrow is fired, the spell’s area is centered where the arrow lands, even if the spell could normally be centered only on the caster. This ability allows the archer to use the bow’s range rather than the spell’s range. A spell cast in this way uses its standard casting time and the arcane archer can fire the arrow as part of the casting. The arrow must be fired during the round that the casting is completed or the spell is wasted. If the arrow misses, the spell is wasted.
 
-**Hail of Arrows (Sp)**: In lieu of his regular attacks, once per day an arcane archer of 8th level or higher can fire an arrow at each and every target within range, to a maximum of one target for every arcane archer level she has earned. Each attack uses the archer’s primary attack bonus, and each enemy may only be targeted by a single arrow.
+**Seeker Arrow (Sp)**: At 4th level, an arcane archer can launch an arrow at a target known to him within range, and the arrow travels to the target, even around corners. Only an unavoidable obstacle or the limit of the arrow’s range prevents the arrow’s flight. This ability negates cover and concealment modifiers, but otherwise the attack is rolled normally. Using this ability is a standard action (and shooting the arrow is part of the action). An arcane archer can use this ability twice per day at 4th level, and one additional time per day for every level beyond 4th. He can spend 1 use per attack so that it affects more than one attack in the same round, including on a full attack.
+
+??? note "Original rule"
+
+    **Seeker Arrow (Sp)**: At 4th level, an arcane archer can launch an arrow at a target known to him within range, and the arrow travels to the target, even around corners. Only an unavoidable obstacle or the limit of the arrow’s range prevents the arrow’s flight. This ability negates cover and concealment modifiers, but otherwise the attack is rolled normally. Using this ability is a standard action (and shooting the arrow is part of the action). An arcane archer can use this ability once per day at 4th level, and one additional time per day for every two levels beyond 4th, to a maximum of four times per day at 10th level.
+
+**Phase Arrow (Sp)**: At 6th level, an arcane archer can launch an arrow once per day at a target known to him within range, and the arrow travels to the target in a straight path, passing through any nonmagical barrier or wall in its way. (Any magical barrier stops the arrow.) This ability negates cover, concealment, armor, and shield modifiers, but otherwise the attack is rolled normally. Using this ability is a standard action (and shooting the arrow is part of the action). An arcane archer can use this ability twice per day at 6th level, and one additional time per day for every level beyond 6th. He can spend 1 use per attack so that it affects more than one attack in the same round, including on a full attack.
+
+??? note "Original rule"
+
+    **Phase Arrow (Sp)**: At 6th level, an arcane archer can launch an arrow once per day at a target known to him within range, and the arrow travels to the target in a straight path, passing through any nonmagical barrier or wall in its way. (Any magical barrier stops the arrow.) This ability negates cover, concealment, armor, and shield modifiers, but otherwise the attack is rolled normally. Using this ability is a standard action (and shooting the arrow is part of the action). An arcane archer can use this ability once per day at 6th level, and one additional time per day for every two levels beyond 6th, to a maximum of three times per day at 10th level.
+
+**Hail of Arrows (Sp)**: In lieu of his regular attacks, twice per day an arcane archer of 8th level or higher can fire an arrow at each and every target within range, to a maximum of one target for every arcane archer level she has earned. Each attack uses the archer’s primary attack bonus, and each enemy may only be targeted by a single arrow.
+
+??? note "Original rule"
+
+    **Hail of Arrows (Sp)**: In lieu of his regular attacks, once per day an arcane archer of 8th level or higher can fire an arrow at each and every target within range, to a maximum of one target for every arcane archer level she has earned. Each attack uses the archer’s primary attack bonus, and each enemy may only be targeted by a single arrow.
 
 **Arrow of Death (Sp)**: At 10th level, an arcane archer can create a special type of *slaying arrow* that forces the target, if damaged by the arrow’s attack, to make a Fortitude save or be slain immediately. The DC of this save is equal to 20 + the arcane archer’s Charisma modifier. It takes 1 day to make a *slaying arrow*, and the arrow only functions for the arcane archer who created it. The *slaying arrow* lasts no longer than 1 year, and the archer can only have one such arrow in existence at a time.
 

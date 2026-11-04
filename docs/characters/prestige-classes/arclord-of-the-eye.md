@@ -9,27 +9,37 @@ The arclords trace their lineage to the personal retinue of a long-vanished arch
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
 |---|---|---|---|---|---|
 | 1st | +0 | +0 | +0 | +1 | Mystic pedagogue, third eye; +1 level of arcane spellcasting class |
-| 2nd | +1 | +1 | +1 | +1 | Artificer’s touch; +1 level of arcane spellcasting class |
-| 3rd | +1 | +1 | +1 | +2 | Scholiast 1; +1 level of arcane spellcasting class |
-| 4th | +2 | +1 | +1 | +2 | Arcane architect; +1 level of arcane spellcasting class |
-| 5th | +2 | +2 | +2 | +3 | Improved third eye; +1 level of arcane spellcasting class |
-| 6th | +3 | +2 | +2 | +3 | Scholiast 2; +1 level of arcane spellcasting class |
-| 7th | +3 | +2 | +2 | +4 | Extradimensional extension; +1 level of arcane spellcasting class |
-| 8th | +4 | +3 | +3 | +4 | Call for aid; +1 level of arcane spellcasting class |
-| 9th | +4 | +3 | +3 | +5 | Scholiast 3; +1 level of arcane spellcasting class |
-| 10th | +5 | +3 | +3 | +5 | Greater third eye; +1 level of arcane spellcasting class |
+| 2nd | +1 | +1 | +1 | +1 | Artificer’s touch; +1 level of arcane spellcasting class, aligned class |
+| 3rd | +1 | +1 | +1 | +2 | Scholiast 1; +1 level of arcane spellcasting class, aligned class |
+| 4th | +2 | +1 | +1 | +2 | Arcane architect; +1 level of arcane spellcasting class, aligned class |
+| 5th | +2 | +2 | +2 | +3 | Improved third eye; +1 level of arcane spellcasting class, aligned class |
+| 6th | +3 | +2 | +2 | +3 | Scholiast 2; +1 level of arcane spellcasting class, aligned class |
+| 7th | +3 | +2 | +2 | +4 | Extradimensional extension; +1 level of arcane spellcasting class, aligned class |
+| 8th | +4 | +3 | +3 | +4 | Call for aid; +1 level of arcane spellcasting class, aligned class |
+| 9th | +4 | +3 | +3 | +5 | Scholiast 3; +1 level of arcane spellcasting class, aligned class |
+| 10th | +5 | +3 | +3 | +5 | Greater third eye; +1 level of arcane spellcasting class, aligned class |
 
 ### Requirements
 
 To qualify to become an arclord of the eye, a character must fulfill all of the following criteria.
 
-**Feats**: Craft Construct, Craft Wondrous Item, Eye of the Arclord.
+**Feats**: Eye of the Arclord.
 
-**Skills**: Diplomacy 5 ranks, Knowledge (arcana) 5 ranks, Knowledge (engineering) 5 ranks, Spellcraft 5 ranks.
+**Skills**: Diplomacy 3 ranks, Knowledge (arcana) 3 ranks, Knowledge (engineering) 3 ranks, Spellcraft 3 ranks.
 
-**Special**: You must be able to cast *arcane sight*, and have at least two spells from every school of magic scribed in your spellbook.
+**Special**: You must have at least two spells from every school of magic scribed in your spellbook.
 
 **Special**: Arcane school class feature. You must have the ability to use hand of the apprentice or a different arcane school power that you can use a number of times per day equal to 3 + your Intelligence modifier. For arclord abilities that require you to expend a number of uses of hand of the apprentice, if you can’t use hand of the apprentice you can substitute an equivalent arcane school power you can use a number of times per day equal to 3 + your Intelligence modifier. If you do, you must expend one additional use.
+
+??? note "Original requirements"
+
+    **Feats**: Craft Construct, Craft Wondrous Item, Eye of the Arclord.
+
+    **Skills**: Diplomacy 5 ranks, Knowledge (arcana) 5 ranks, Knowledge (engineering) 5 ranks, Spellcraft 5 ranks.
+
+    **Special**: You must be able to cast *arcane sight*, and have at least two spells from every school of magic scribed in your spellbook.
+
+    **Special**: Arcane school class feature. You must have the ability to use hand of the apprentice or a different arcane school power that you can use a number of times per day equal to 3 + your Intelligence modifier. For arclord abilities that require you to expend a number of uses of hand of the apprentice, if you can’t use hand of the apprentice you can substitute an equivalent arcane school power you can use a number of times per day equal to 3 + your Intelligence modifier. If you do, you must expend one additional use.
 
 ### Class Skills
 
@@ -42,6 +52,10 @@ The arclord of the eye's class skills (and the key ability for each skill) are D
 The following are class features of the arclord of the eye prestige class.
 
 **Weapon and Armor Proficiency**: An arclord gains no additional weapon or armor proficiencies.
+
+**Aligned Class (Ex)**: At 2nd level, a arclord of the eye must choose a class they belonged to before adding the prestige class to be their aligned class. They gain all the class features of this class, essentially adding every arclord of the eye level beyond 1st to their aligned class to determine what class features they gain. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class, but gain all other class features of their aligned class as well as those of this prestige class.
+
+**Arcane Sight**: *Arcane sight* is a 1st-level spell for an arclord of the eye.
 
 **Mystic Pedagogue (Ex)**: An arclord adds a bonus equal to 1/2 his class level on Spellcraft checks to learn a wizard spell or craft a magical item.
 

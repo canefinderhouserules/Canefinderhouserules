@@ -9,23 +9,29 @@ Poison is a common weapon of cultures and nations everywhere, but the craft reac
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
 |---|---|---|---|---|---|
 | 1st | +0 | +1 | +0 | +0 | Master poisoner, poison resistance +2, quick poisoning |
-| 2nd | +1 | +1 | +1 | +1 | Toxic apothecary, toxic trick |
+| 2nd | +1 | +1 | +1 | +1 | Toxic apothecary, toxic trick, aligned class |
 | 3rd | +2 | +2 | +1 | +1 | Toxic manufactory, trapster +1 |
-| 4th | +3 | +2 | +1 | +1 | Poison resistance +4, toxic trick |
+| 4th | +3 | +2 | +1 | +1 | Poison resistance +4, toxic trick, aligned class |
 | 5th | +3 | +3 | +2 | +2 | Sneak attack +1d6, treacherous toxin |
-| 6th | +4 | +3 | +2 | +2 | Swift poisoning, toxic trick, trapster +2 |
+| 6th | +4 | +3 | +2 | +2 | Swift poisoning, toxic trick, trapster +2, aligned class |
 | 7th | +5 | +4 | +2 | +2 | Poison resistance +6 |
-| 8th | +6 | +4 | +3 | +3 | Instantaneous toxicology, toxic trick |
+| 8th | +6 | +4 | +3 | +3 | Instantaneous toxicology, toxic trick, aligned class |
 | 9th | +6 | +5 | +3 | +3 | Poison immunity, trapster +3 |
-| 10th | +7 | +5 | +3 | +3 | Sneak attack +2d6, toxic trick |
+| 10th | +7 | +5 | +3 | +3 | Sneak attack +2d6, toxic trick, aligned class |
 
 ### Requirements
 
 To qualify to become a guild poisoner, a character must fulfill all of the following criteria.
 
-**Skills**: Craft (alchemy) 5 ranks, Craft (traps) 5 ranks, Heal 5 ranks, Sleight of Hand 5 ranks.
+**Skills**: Craft (alchemy) 3 ranks, Craft (traps) 3 ranks, Heal 3 ranks, Sleight of Hand 3 ranks.
 
 **Special**: Poison use class ability. The character must craft at least 1,000 gp worth of poisons and donate them to a poisoners’ guild.
+
+??? note "Original requirements"
+
+    **Skills**: Craft (alchemy) 5 ranks, Craft (traps) 5 ranks, Heal 5 ranks, Sleight of Hand 5 ranks.
+
+    **Special**: Poison use class ability. The character must craft at least 1,000 gp worth of poisons and donate them to a poisoners’ guild.
 
 ### Class Skills
 
@@ -39,6 +45,10 @@ The following are class features of the guild poisoner prestige class.
 
 **Weapon and Armor Proficiency**: A guild poisoner gains no additional weapon or armor proficiencies.
 
+**Aligned Class (Ex)**: At 2nd level, a guild poisoner must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
+
+**Deadly Poisons**: The DC of any poison a guild poisoner applies increases by her class level.
+
 **Master Poisoner (Ex)**: A guild poisoner adds 1/2 her level on Craft (alchemy) checks dealing with poison. In addition, she can use Craft (alchemy) to change the type of a poison with 1 hour of work and an alchemist’s lab. If the Craft (alchemy) check (DC equals the poison’s save DC) is successful, the poison’s type changes to contact, ingested, inhaled, or injury; on a failed check, the poison is ruined.
 
 **Poison Resistance (Ex)**: A guild poisoner gains a +2 bonus on saves against poison, increasing to +4 at 4th level, +6 at 7th level, and total immunity at 9th level. Alchemist levels stack with guild poisoner levels when determining the effect of this ability.
@@ -47,7 +57,11 @@ The following are class features of the guild poisoner prestige class.
 
 **Toxic Apothecary (Ex and Sp)**: At 2nd level, a guild poisoner can use *detect poison* at will (range 5 feet, caster level equal to the guild poisoner’s class level) as a swift action. She gains a bonus equal to 1/2 her class level on Heal checks dealing with poison, and on a successful check she adds this bonus to the save bonus she provides her patient against the treated poison.
 
-**Toxic Trick**: At 2nd level and every two levels thereafter, a guild poisoner learns a toxic trick. She can use a number of toxic tricks each day equal to her Intelligence modifier + 1/2 her class level. The save DC of any saving throw called for by a toxic trick is equal to 10 + the guild poisoner’s class level + her Intelligence modifier. Spell-like abilities have a caster level equal to her class level.
+**Toxic Trick**: At 2nd level and every two levels thereafter, a guild poisoner learns a toxic trick. She can use a number of toxic tricks each day equal to her Intelligence modifier + 1/2 her class level. The save DC of any saving throw called for by a toxic trick is equal to 10 + the guild poisoner’s character level + her Intelligence modifier. Spell-like abilities have a caster level equal to her class level.
+
+??? note "Original rule"
+
+    **Toxic Trick**: At 2nd level and every two levels thereafter, a guild poisoner learns a toxic trick. She can use a number of toxic tricks each day equal to her Intelligence modifier + 1/2 her class level. The save DC of any saving throw called for by a toxic trick is equal to 10 + the guild poisoner’s class level + her Intelligence modifier. Spell-like abilities have a caster level equal to her class level.
 
 - **Choking Bomb (Su)**: As the ninja trick, but with a DC as noted above.
 - **Combine Poison (Ex)**: A guild poisoner can combine two different poisons without reducing their efficacy, applying them to the same weapon, object, or trap. A creature exposed to the poisons must save against both.

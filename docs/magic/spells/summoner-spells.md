@@ -58,6 +58,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Influence Wild Magic](influence-wild-magic.md)**: Roll twice on wild magic effects and choose.
 - **[Lesser Nondetection](lesser-nondetection.md)**: Blocks area-targeted divinations.
 - **[Locate Portal](locate-portal.md)**: You feel a pull toward the nearest active portal to another plane.
+- **[Mark and Recall](mark-and-recall.md)**: Mark a place, then cast again to teleport back to it (100 miles/level).
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
 - **[Planetarium](planetarium.md)**: Project the night sky.

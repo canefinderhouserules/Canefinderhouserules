@@ -30,7 +30,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - Blend
 - **[Barbed Chains](barbed-chains.md)**: Hellish chains attack and cause a target to become shaken.
 - **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
-- **[Bless](bless.md)**: Allies gain +1 on attack rolls and saves against fear.
+- **[Bless](bless.md)**: Allies gain a +1 divine bonus on attack rolls and saves against fear.
 - **[Burning Hands](burning-hands.md)**: 1d4/level fire damage (max 5d4).
 - **[Burning Sands](burning-sands.md)**: Burning sand slows and damages creatures.
 - **[Calm Animals](calm-animals.md)**: Calms 2d4 + level HD of animals.
@@ -60,6 +60,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Gentle Breeze](gentle-breeze.md)**: Light wind protects one target from
 - **[Goodberry](goodberry.md)**: 2d4 berries each cure 1 hp (max 8 hp/24 hours).
 - **[Grasping Corpse](grasping-corpse.md)**: Cause a corpse to grab or trip a foe.
+- **[Gravity Bow](gravity-bow.md)**: Arrows do damage as though one size category bigger.
 - **[Heightened Awareness](heightened-awareness.md)**: Your recall and ability to process information improve.
 - **[Hex Vulnerability](hex-vulnerability.md)**: Reuse a hex on a specific target.
 - **[Hex Ward](hex-ward.md)**: Target gains +4 on saves against witch hexes.
@@ -126,7 +127,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Animate Dead, Lesser](animate-dead-lesser.md)**: Create one skeleton or zombie.
 - **[Aquatic Cavalry](aquatic-cavalry.md)**: Summon hippocampi to serve as aquatic mounts.
 - **[Augury](augury.md)**: Learns whether an action will be good or bad.
-- **[Barkskin](barkskin.md)**: Grants +2 (or higher) enhancement to natural armor.
+- **[Barkskin](barkskin.md)**: Grants +2 (or higher) enhancement to natural armor, and DR/magic.
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
 - **[Beastspeak](beastspeak.md)**: Speak normally while in animal form.
 - **[Beloved of the Forge](beloved-of-the-forge.md)**: Sense of direction home; luck on Craft.
@@ -182,6 +183,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Life Pact](life-pact.md)**: Affected creatures automatically donate hp to stabilize fallen ally.
 - **[Locate Portal](locate-portal.md)**: You feel a pull toward the nearest active portal to another plane.
 - **[Mage's Crawl Space](mages-crawl-space.md)**: Merge into stone inside a 5-ft. pocket of air.
+- **[Mark and Recall](mark-and-recall.md)**: Mark a place, then cast again to teleport back to it (100 miles/level).
 - **[Merge with Familiar](merge-with-familiar.md)**: Merge the body of your familiar or spirit animal into your own.
 - **[Mindshock](mindshock.md)**: Your attacks deal extra nonlethal damage and can confuse.
 - **[Mortal Terror](mortal-terror.md)**: Target is shaken and grows more afraid each time it is hurt.

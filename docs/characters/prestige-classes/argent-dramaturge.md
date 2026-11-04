@@ -25,9 +25,17 @@ To qualify to become an argent dramaturge, a character must fulfill all of the f
 
 **Feat**: Skill Focus (Perform).
 
-**Skills**: Knowledge (arcana) 2 ranks, Knowledge (history) 2 ranks, Perform (sing) 6 ranks, Spellcraft 6 ranks.
+**Skills**: Knowledge (arcana) 2 ranks, Knowledge (history) 2 ranks, Perform (sing) 4 ranks, Spellcraft 4 ranks.
 
 **Spells**: Able to cast spells, including at least one 2nd-level spell with the language-dependent descriptor or the sonic descriptor.
+
+??? note "Original requirements"
+
+    **Feat**: Skill Focus (Perform).
+
+    **Skills**: Knowledge (arcana) 2 ranks, Knowledge (history) 2 ranks, Perform (sing) 6 ranks, Spellcraft 6 ranks.
+
+    **Spells**: Able to cast spells, including at least one 2nd-level spell with the language-dependent descriptor or the sonic descriptor.
 
 ### Class Skills
 
@@ -37,19 +45,29 @@ The argent dramaturge's class skills (and the key ability for each skill) are Bl
 
 ### Class Features
 
+**Bardic Performance**: Argent dramaturge levels stack with bard levels to improve bardic performances.
+
 The following are class features of the argent dramaturge prestige class.
 
 **Argent Performance**: An argent dramaturge can use Perform (sing) to create special magical effects that hinder outsiders (particularly those affected by silver, such as devils) as per the bardic performance bard class feature. She can use this ability for 2 rounds per day for each argent dramaturge level she has, and can use rounds of bardic performance gained from bard levels to perform argent performances and vice-versa. Starting an argent performance is a move action, but it can be maintained each round as a free action.
 
 An argent performance cannot be disrupted, but ends immediately if the argent dramaturge is killed, paralyzed, stunned, knocked unconscious, or otherwise prevented from taking a free action to maintain it each round. An argent performance counts as a bardic performance when determining how many performances the argent dramaturge can have in effect at one time. An argent performance has audible components but not visual components. The save DC against an argent dramaturge’s performance is equal to 10 + the argent dramaturge’s level + her Charisma modifier.
 
-At 13th level, an argent dramaturge can start an argent performance as a swift action if she chooses.
+At 7th level, an argent dramaturge can start an argent performance as a swift action if she chooses.
+
+??? note "Original rule"
+
+    At 13th level, an argent dramaturge can start an argent performance as a swift action if she chooses.
 
 The performance abilities that an argent dramaturge gains are noted below.
 
 **Song of Silver (Su)**: The recovery of the lost lyrics and melody of the famed “Song of Silver” can aid freedom fighters immeasurably in their fight against tyrants. While the true “Song of Silver” must be performed in a grand opera house by a skilled performer, argent dramaturges have learned to create a lesser version that can take effect when performed in any location.
 
-When the argent dramaturge uses her argent performance to create the “Song of Silver,” all weapons (both natural and manufactured) within a 30-foot radius of the argent dramaturge are treated as if they were silver for the purpose of overcoming damage reduction, and a number of targets equal to the argent dramaturge’s Charisma modifier (minimum 1 target) become immune to fear effects and gain a +4 sacred bonus on saving throws against charm and compulsion effects.
+When the argent dramaturge uses her argent performance to create the “Song of Silver,” all weapons (both natural and manufactured) within a 30-foot radius of the argent dramaturge are treated as if they were silver for the purpose of overcoming damage reduction, and a number of targets equal to the argent dramaturge’s Charisma modifier (minimum 1 target) become immune to fear effects and gain a +4 sacred bonus on saving throws against charm and compulsion effects. If she spends double the rounds, she can add the “Song of Silver” to any other song she wants to use, letting her have 2 at once.
+
+??? note "Original rule"
+
+    When the argent dramaturge uses her argent performance to create the “Song of Silver,” all weapons (both natural and manufactured) within a 30-foot radius of the argent dramaturge are treated as if they were silver for the purpose of overcoming damage reduction, and a number of targets equal to the argent dramaturge’s Charisma modifier (minimum 1 target) become immune to fear effects and gain a +4 sacred bonus on saving throws against charm and compulsion effects.
 
 At 5th level, once per day as an immediate action, an argent dramaturge can grant a single ally who is currently benefiting from the saving throw bonus from the “Song of Silver” the effects of a *breath of life* spell (CL = the argent dramaturge’s character level). Granting this effect immediately ends the “Song of Silver” performance, and the argent dramaturge must wait 3 rounds before activating a new “Song of Silver” (but she can activate other argent or bardic performances in the meantime). At 5th level, the “Song of Silver” affects a 60-foot-radius area around the argent dramaturge.
 

@@ -18,11 +18,11 @@ The path to becoming an arcane trickster is a natural progression for rogues who
 | 2nd | +1 | +1 | +1 | +1 | Sneak attack +1d6 | +1 level of existing class |
 | 3rd | +1 | +1 | +2 | +2 | Impromptu sneak attack 1/day | +1 level of existing class |
 | 4th | +2 | +1 | +2 | +2 | Sneak attack +2d6 | +1 level of existing class |
-| 5th | +2 | +2 | +3 | +3 | Tricky spells 3/day | +1 level of existing class |
+| 5th | +2 | +2 | +3 | +3 | Tricky spells 3/day, impromptu sneak attack 2/day | +1 level of existing class |
 | 6th | +3 | +2 | +3 | +3 | Sneak attack +3d6 | +1 level of existing class |
-| 7th | +3 | +2 | +4 | +4 | Impromptu sneak attack 2/day, Tricky spells 4/day | +1 level of existing class |
+| 7th | +3 | +2 | +4 | +4 | Impromptu sneak attack 3/day, Tricky spells 4/day | +1 level of existing class |
 | 8th | +4 | +3 | +4 | +4 | Sneak attack +4d6 | +1 level of existing class |
-| 9th | +4 | +3 | +5 | +5 | Invisible thief, Tricky spells 5/day | +1 level of existing class |
+| 9th | +4 | +3 | +5 | +5 | Invisible thief, Tricky spells 5/day, impromptu sneak attack 4/day | +1 level of existing class |
 | 10th | +5 | +3 | +5 | +5 | Sneak attack +5d6, surprise spells | +1 level of existing class |
 
 ### Requirements
@@ -31,15 +31,21 @@ To qualify to become an arcane trickster, a character must fulfill all of the fo
 
 **Alignment**: Any nonlawful.
 
-**Skills**: Disable Device 4 ranks, Escape Artist 4 ranks, Knowledge (arcana) 4 ranks.
+**Skills**: Disable Device 1 rank, Escape Artist 1 rank, Knowledge (arcana) 3 ranks.
 
-**Spells**: Ability to cast *mage hand* and at least one arcane spell of 2nd level or higher.
+**Spells**: Caster level 1st.
 
-**Special**: Sneak attack +2d6.
+**Special**: Sneak attack +1d6.
 
-!!! warning "House rules"
-    - Requirements: Disable Device 1 rank, Escape Artist 1 rank, Knowledge (arcana) 3 ranks, caster level 1, and 1d6 sneak attack.
-    - Impromptu Sneak Attack: gains 1 use every 2 levels.
+??? note "Original requirements"
+
+    **Alignment**: Any nonlawful.
+
+    **Skills**: Disable Device 4 ranks, Escape Artist 4 ranks, Knowledge (arcana) 4 ranks.
+
+    **Spells**: Ability to cast *mage hand* and at least one arcane spell of 2nd level or higher.
+
+    **Special**: Sneak attack +2d6.
 
 ### Class Skills
 
@@ -59,7 +65,11 @@ All of the following are class features of the arcane trickster prestige class.
 
 **Sneak Attack**: This is exactly like the rogue ability of the same name. The extra damage dealt increases by +1d6 every other level (2nd, 4th, 6th, 8th, and 10th). If an arcane trickster gets a sneak attack bonus from another source, the bonuses on damage stack.
 
-**Impromptu Sneak Attack (Ex)**: Beginning at 3rd level, once per day an arcane trickster can declare one melee or ranged attack she makes to be a sneak attack (the target can be no more than 30 feet distant if the impromptu sneak attack is a ranged attack). The target of an impromptu sneak attack loses any Dexterity bonus to AC, but only against that attack. The power can be used against any target, but creatures that are not subject to critical hits take no extra damage (though they still lose any Dexterity bonus to AC against the attack).
+**Impromptu Sneak Attack (Ex)**: Beginning at 3rd level, once per day, plus one additional time per day for every 2 levels beyond 3rd, an arcane trickster can declare one melee or ranged attack she makes to be a sneak attack (the target can be no more than 30 feet distant if the impromptu sneak attack is a ranged attack). The target of an impromptu sneak attack loses any Dexterity bonus to AC, but only against that attack. The power can be used against any target, but creatures that are not subject to critical hits take no extra damage (though they still lose any Dexterity bonus to AC against the attack).
+
+??? note "Original rule"
+
+    **Impromptu Sneak Attack (Ex)**: Beginning at 3rd level, once per day an arcane trickster can declare one melee or ranged attack she makes to be a sneak attack (the target can be no more than 30 feet distant if the impromptu sneak attack is a ranged attack). The target of an impromptu sneak attack loses any Dexterity bonus to AC, but only against that attack. The power can be used against any target, but creatures that are not subject to critical hits take no extra damage (though they still lose any Dexterity bonus to AC against the attack).
 
 At 7th level, an arcane trickster can use this ability twice per day.
 

@@ -23,11 +23,19 @@ In every army there are leaders who surpass the average cold-hearted mercenary, 
 
 To qualify to become a battle herald, a character must fulfill all the following criteria.
 
-**Base Attack Bonus**: +4.
+**Base Attack Bonus**: +2.
 
 **Special**: Challenge and inspire courage class features.
 
-**Skills**: Diplomacy 5 ranks, Intimidate 5 ranks, Perform (oratory) 5 ranks, Profession (soldier) 2 ranks.
+**Skills**: Diplomacy 2 ranks, Intimidate 2 ranks, Perform (oratory) 2 ranks, Profession (soldier) 2 ranks.
+
+??? note "Original requirements"
+
+    **Base Attack Bonus**: +4.
+
+    **Special**: Challenge and inspire courage class features.
+
+    **Skills**: Diplomacy 5 ranks, Intimidate 5 ranks, Perform (oratory) 5 ranks, Profession (soldier) 2 ranks.
 
 ### Class Skills
 
@@ -41,7 +49,11 @@ The following are class features of the battle herald prestige class.
 
 **Weapon and Armor Proficiency**: A battle herald gains no proficiency with any weapon or armor.
 
-**Inspiring Command (Ex)**: A battle herald uses her keen tactical acumen and decisive judgment to lead others to victory, as well as her mastery of command to assist herself and her allies in battle.
+**Inspiring Command (Ex)**: A battle herald uses her keen tactical acumen and decisive judgment to lead others to victory, as well as her mastery of command to assist herself and her allies in battle. Any song that grants her inspiring command bonus can be activated at the same time as any other bardic performance if she pays double the rounds, letting her have 2 bardic performances at once (one of those and, for example, inspire courage, or two of those).
+
+??? note "Original rule"
+
+    **Inspiring Command (Ex)**: A battle herald uses her keen tactical acumen and decisive judgment to lead others to victory, as well as her mastery of command to assist herself and her allies in battle.
 
 All battle heralds may use inspiring command to inspire courage (as the bardic performance ability); bard and battle herald levels stack to determine the bonuses provided by inspire courage.
 
@@ -83,7 +95,11 @@ Shake It Off*: One ally subject to an ongoing condition may attempt a new saving
 
 **Tuck and Roll**: Allies apply the battle herald’s inspiring command bonus on Reflex saves and Acrobatics checks.
 
-**Improved Leadership (Ex)**: A battle herald with the Leadership feat adds her inspiring command bonus to her leadership score.
+**Commanding Presence (Ex)**: A battle herald gains a bonus equal to half her level on social checks with people below her, whether socially or militarily.
+
+??? note "Original rule"
+
+    **Improved Leadership (Ex)**: A battle herald with the Leadership feat adds her inspiring command bonus to her leadership score.
 
 **Voice of Authority (Ex)**: A battle herald is skilled at shouting commands over the din of the battlefield and signaling allies when speech is impossible. She gains a +2 bonus on Diplomacy and Intimidate checks with creatures with which she shares a language. In addition, her allies gain a bonus equal to the battle herald’s class level on Perception or Sense Motive checks to hear her commands or interpret her secret messages conveyed with Bluff.
 

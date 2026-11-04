@@ -15,3 +15,5 @@ Choose an initial target, which must be alive, and a secondary target, which mus
 If the secondary target is a living creature, it regains a number of hit points equal to the amount of damage taken by the initial target. If the secondary target is undead, it instead takes an amount of damage equal to that dealt to the initial target. The secondary target can halve the healing imparted or harm inflicted to it with a successful Will saving throw (although a secondary target receiving healing can forgo this saving throw as normal).
 
 This spell is subject to the spell resistance of the initial target; if the secondary target is unwilling, this spell is also subject to the secondary target’s spell resistance. If the spell does not penetrate the initial target’s spell resistance, it fizzles with no effect. If it does not penetrate the secondary target’s spell resistance, the initial target is still harmed as described, but the secondary target is not healed or harmed.
+
+**Save-or-die**: The target rolls its saving throw twice and keeps the higher result, as explained in [Save-or-Die Spells](../casting-spells.md#save-or-die-spells).

@@ -29,11 +29,23 @@ To qualify to become a brewkeeper, a character must fulfill all of the following
 
 **Deity**: Must worship a deity whose portfolio includes ale, bravery, freedom, or wine.
 
-**Skills**: Craft (alchemy) 5 ranks or Profession (brewer) 5 ranks.
+**Skills**: Craft (alchemy) 3 ranks or Profession (brewer) 3 ranks.
 
 **Feats**: Brew Potion.
 
-**Spells**: Able to cast 2nd-level spells or prepare 2nd-level extracts.
+**Spells**: Caster level 1st, or able to prepare extracts.
+
+??? note "Original requirements"
+
+    **Alignment**: Neutral good or chaotic good.
+
+    **Deity**: Must worship a deity whose portfolio includes ale, bravery, freedom, or wine.
+
+    **Skills**: Craft (alchemy) 5 ranks or Profession (brewer) 5 ranks.
+
+    **Feats**: Brew Potion.
+
+    **Spells**: Able to cast 2nd-level spells or prepare 2nd-level extracts.
 
 ### Class Skills
 

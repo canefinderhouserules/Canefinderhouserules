@@ -109,6 +109,10 @@ When a living creature dies, its soul departs its body, leaves the Material Plan
 
 *Revivification against One’s Will*: A soul can’t be returned to life if it doesn’t wish to be. A soul knows the name, alignment, and patron deity (if any) of the character attempting to revive it and may refuse to return on that basis.
 
+## Save-or-Die Spells
+
+The target of a save-or-die spell rolls its saving throw twice and keeps the higher result. If something would let you make the enemy roll twice and take the worse result, it rolls only once instead. This includes every spell that directly causes death.
+
 ## Combining Magic Effects
 
 Spells or magical effects usually work as described, no matter how many other spells or magical effects happen to be operating in the same area or on the same recipient. Except in special cases, a spell does not affect the way another spell operates. Whenever a spell has a specific effect on other spells, the spell description explains that effect. Several other general rules apply when spells or magical effects operate in the same place:
