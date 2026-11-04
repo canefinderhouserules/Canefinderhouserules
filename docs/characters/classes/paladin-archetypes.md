@@ -1087,3 +1087,71 @@ This replaces aura of faith.
 **Forge God’s Champion (Su)**: At 20th level, a Forge God’s seeker becomes capable of completely dismantling constructs. Her DR increases to 10/evil. Whenever she uses smite construct and hits a construct, she can immediately attempt to destroy the construct. The construct is reduced to 0 hit points and destroyed unless it succeeds at a Will save (DC = 10 + half the Forge God’s seeker’s level + the Forge God’s seeker’s Charisma modifier). After this destruction effect and the damage from the attack is resolved, the smite immediately ends. In addition, whenever a Forge God’s seeker channels positive energy or uses lay on hands to heal a creature, she heals the maximum possible amount.
 
 This replaces holy champion.
+
+## Further Paladin Oaths
+
+### Oath against Grotesquery
+
+For paladins of the goddess of beauty, beauty is synonymous with virtue, and it is the lens through which all goodness is filtered. For champions of the goddess of beauty, who are aware that aesthetics is subjective, beauty is the form inviolate.
+
+**Beauty Unyielding (Su)**: At 3rd level, a paladin gains spell resistance equal to 11 + her paladin level, but only against non-harmless transmutation effects. This spell resistance can be lowered as a standard action. Additionally, whenever the paladin would take Charisma damage or suffer Charisma drain, she reduces the amount of damage or drain by 1 (minimum 0). This ability replaces divine health.
+
+**Restore True Beauty (Su)**: At 14th level, a paladin can expend two uses of her lay on hands ability to attempt to dispel any non-harmless transmutation effect on a target, as *break enchantment*. Additionally, the paladin can expend two uses of her lay on hands ability to remove all of the target’s temporary Charisma damage and restore all points drained from its Charisma score, as restoration. This ability replaces aura of faith.
+
+**Code of Conduct**: Respect the innate beauty in all things, and strive to preserve it from corruption and perversion. Never willfully cause damage to crafted objects or works of art, nor cause a creature or object to be deformed in any way.
+
+**Oath Spells**: 1st—*sanctuary*; 2nd—*make whole*; 3rd—*banish seeming*; 4th—*true form*.
+
+### Oath against the Death Cult
+
+The death cult is an enemy to all life in the world, and as a result many paladins feel called to contain its evil. This oath is identical to the oath against undeath except as noted here.
+
+**Deities**: the dwarven god of war, the watchful god, the goddess of valor, the goddess of the sun and redemption, the god of the forge, Vildeis.
+
+**Aura against Necromancy (Su)**: At 8th level, the paladin gains a +4 morale bonus on saves against necromancy spells and spell-like abilities. Each ally within 10 feet of her gains a +2 morale bonus on these saves. This ability functions only while the paladin is conscious, not if she is unconscious or dead.
+
+This ability replaces aura of resolve instead of aura of life.
+
+**Code of Conduct**: Destroy agents of the a death cult and stop the spread of their philosophy.
+
+### Oath of the Crusade
+
+The demonic rift threatens all of the world with the uttermost depths of depravity, and so paladins across the world stand firm against it. This oath is identical to the oath against fiends except as noted here.
+
+**Deities**: the dwarven god of war, the watchful god, the goddess of valor, the dwarven god of oaths, Ragathiel, the goddess of the sun and redemption, the god of the forge, Vildeis.
+
+**Divine Bond (Su):**: At 5th level, the paladin adds *evil outsider bane* to the list of weapon special abilities that can be added to her weapon and removes* flaming* from the list.
+
+This ability alters divine bond.
+
+**Mercy (Su)**: At 12th level, the paladin can choose the following mercy.
+
+*Possessed*: If the subject is affected by dominate person, possessed, or otherwise magically controlled by an evil outsider, this mercy grants the victim a new saving throw against the effect to end the effect at once.
+
+**Code of Conduct**: Oppose demonic influence in all its forms and seek a way to close the demonic rift.
+
+### Oath of the Skyseeker
+
+The dwarven people look to the legendary Sky Citadels as beacons of dwarven culture. Paladins with the oath of the skyseeker swear to defend those citadels their people retain and to help reclaim those the dwarves have lost, hoping to one day rebuild them on the greatest, most honorable ideals of the dwarven gods.
+
+**Deities**: the dwarven god of war, the dwarven goddess of mothers, the dwarven god of oaths, the god of the forge, the dwarven god of strength.
+
+**Smite Evil Hordes (Su)**: When the paladin or an ally defeats the target of the paladin’s smite evil ability, the paladin can change the target of her smite to a different target within 30 feet of the previously defeated target without using an action. The new target must be of the same creature type and subtype as the previous target. If no applicable target is within 30 feet, then the smite evil effect ends. The paladin’s smite does not deal more damage to evil outsiders, dragons, or undead than to other evil creatures.
+
+This ability alters smite evil.
+
+**Divine Bond (Su)**: At 5th level, the paladin adds *mighty cleaving* to the list of weapon special abilities that can be added to her weapon and removes flaming from the list.
+
+This ability alters divine bond.
+
+**Mercy for the Lost (Sp)**: At 11th level, the paladin can use the Sky Citadels as a beacon leading her on the path to her deity. If she is on the Material Plane, the paladin can use find the path once per day at her paladin level, but only to find her way to a known Sky Citadel. If she is not on the Material Plane, she can instead use this ability to use plane shift as per the spell to travel to a known Sky Citadel. If she is in a Sky Citadel, she can expend her daily use of this ability to use plane shift to travel to the realm of her deity.
+
+This ability replaces aura of justice.
+
+**Stalwart (Ex)**: At 14th level, the paladin’s quest has strengthened her body and mind. If she succeeds at a Fortitude or Will saving throw against an effect that has a reduced effect on a successful save, she instead avoids the effect entirely. A helpless paladin does not gain the benefit of the stalwart ability.
+
+This ability replaces aura of faith.
+
+**Code of Conduct**: Reclaim a Sky Citadel in the name of honorable dwarven ideals. Defend Sky Citadels already held by dwarves.
+
+**Oath Spells**: 1st—*enlarge person*; 2nd—*find traps*; 3rd—*spiritual ally*; 4th—* blessing of fervor*.

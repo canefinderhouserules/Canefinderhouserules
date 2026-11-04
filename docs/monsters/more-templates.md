@@ -2418,3 +2418,295 @@ Chief among the allies of an ancient witch queen and the white witches of the wi
 The winter-touched fey simple template can be applied to any creature of the fey type. This template cannot be applied to a creature with the fire subtype. A winter-touched fey’s quick and rebuild rules are the same.
 
 **Rebuild Rules**: The creature’s alignment changes to evil and it gains the cold subtype; **Special Attacks**: *Numbing Cold (Su)* Any creature hit by a winter-touched creature’s attacks (natural or weapon) must succeed at a Fortitude save or be staggered for 1 round. The save DC is Constitution-based.
+
+## Black-Blooded Creature
+
+**Acquired/Inherited Template** Acquired
+
+**Simple Template** No
+
+**Usable with Summons** No
+
+None can claim to fully understand all of the properties of the black blood that courses through the depths of the underworld. Freezing regardless of temperature and fundamentally charged with deadly negative energies, the viscous ooze empowers the magic of the dead while it fouls and destroys nearly every living thing it touches. Yet not everything is destroyed by the profane substance’s corruptive touch. Some rare beings refuse to be drained of life, and for their tenacity the black blood disfigures them as if by some cruel whim.
+
+Black-blooded creatures are monstrosities warped by exposure to the vile fluids that pervade the Land of Black Blood. Sometimes born of creatures living on the shores of a black underworld sea or those subjected to the necromantic fluids as part of cruel experiments, such beings prove exceedingly rare. Those that do exist, however, are crazed and physically warped abominations, living manifestations of the destructive black blood, their paths tainted by endless secretions of the freezing pollution and the ruined lifeless forms of all they encounter. Fortunately, most mutated by the black blood don’t live for long, as no mortal form can suffer the negatively charged. But, in the depths of the underworld—to the fright of the inhabitants of those already deadly realms—there are known to be some terrifying exceptions.
+
+"Black-blooded" is an acquired template that can be added to any corporeal aberration, animal, dragon, fey, giant, humanoid, magical beast, monstrous humanoid, ooze, plant, or vermin (referred to hereafter as the base creature).
+
+A black-blooded creature uses all the base creaturefs statistics and abilities except as noted here.
+
+**Size and Type**: The creature’s type changes to aberration and it gains the aquatic subtype. Do not recalculate Hit Dice, base attack bonus, or saves. Size is unchanged.
+
+**Speed**: A black-blooded creature gains a swim speed equal to its base movement speed. If it can already swim, use the higher of the two swim speeds.
+
+**Armor Class**: Natural armor increases by +2 (this stacks with any natural armor bonus the base creature has).
+
+**Damage**: A black-blooded creature retains all of the attacks and damage of the base creature, but deals an additional 1d6 points of cold damage on all attacks.
+
+**Special Attacks**: A black-blooded creature retains all the special attacks of the base creature and gains the following special attack.
+
+*Breath Weapon (Su)*: 30-foot cone of black blood, once every 1d4 rounds, damage 6d6 cold. A successful Reflex save (DC 10 + 1.2 black-blooded creaturefs racial HD + black-blooded creaturefs Con modifier) reduces damage by half.
+
+**Special Qualities**: A black-blooded creature has all the special qualities of the base creature, plus darkvision out to 120 feet, low-light vision, and the amphibious quality. A black-blooded creature has immunity to ability drain, cold, energy drain, and poison.
+
+*Blood Rain (Su)*: Black-blooded creatures constantly leak and spray bursts of freezing black blood. Any creature within 15 feet of a black-blooded creature takes an amount of cold damage equal to the black-blooded creature’s Constitution modifier.
+
+*Tainted Life (Ex)*: The black blood is antithetical to all life and consumes all but the heartiest hosts. Any creature with the black-blooded template must make a DC 15 Fortitude save every day or take 1d4 points of Constitution damage.
+
+**Abilities**: Increase from the base creature as follows: Str +2, Dex +2, Con +4, Int –4, Cha +2.
+
+**Skills**: A black-blooded creature has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered.
+
+**Environment**: The Land of Black Blood.
+
+**Challenge Rating**: Same as base creature +1.
+
+**Alignment**: Always chaotic evil.
+
+**Level Adjustment**: Same as base creature +3.
+
+## Dark Ice
+
+**Acquired/Inherited Template** Acquired
+
+**Simple Template** No
+
+**Usable with Summons** No
+
+Under the influence of the cold rider, the frigid clutch of winter’s malice entered the hearts of Syntira’s fey and transformed them to ice. Now, empowered by the cold hate of the Witch Queen, her former companions are ready to exact a brutal vengeance against the people of Falcon’s Hollow.
+
+“Dark ice creature” is an acquired template that can be added to any fey without the fire subtype (hereafter referred to as the base creature). A dark ice creature uses all of the base creature’s statistics except as noted here.
+
+**Size and Type**: The creature’s type is unchanged, but it gains the cold subtype. Its size is unchanged.
+
+**AC**: A dark ice creature’s natural armor bonus improves by +4, as a layer of thick permafrost toughens its now leathery skin and coats its body with a thin but durable shell of ice.
+
+**Defensive Abilities**: A dark ice creature retains the base creature’s defensive abilities and gains the following.
+
+*Fast Healing (Su)*: As long as a dark ice creature is in contact with ice or snow it heals 3 hit points per round.
+
+*Immunity to Cold (Ex)*: A dark ice creature is immune to cold.
+
+**Weaknesses**: A dark ice creature retains the base creature’s weaknesses and gains the following.
+
+*Fire vulnerability (Ex)* A dark ice creature takes 1-1/2 times as much damage from fire.
+
+**Attack**: A dark ice creature grows jagged oversized icicle talons in place of fingers, paws, or hooves, and it gains two vicious claw attacks if it did not already have them.
+
+**Damage**: Use the damage below or the base creature’s claw damage, whichever is better.
+
+| **Size** | **Claw Damage** |
+|---|---|
+| Fine | 1 |
+| Diminutive | 1d2 |
+| Tiny | 1d3 |
+| Small | 1d4 |
+| Medium | 1d6 |
+| Large | 1d8 |
+| Huge | 2d6 |
+| Gargantuan | 3d6 |
+| Colossal | 4d6 |**Special Attacks**: A dark ice creature retains the base creature’s special attacks and gains the ones listed below: |
+
+*Frigid Touch (Su)* Once per day, a dark ice creature may make a touch attack against a foe to deal 1d6 points of Dexterity damage by freezing its blood in its veins and numbing its bones.
+
+*Frosty Grasp (Su)* A dark ice creature’s natural attacks, as well as any weapons it wields, deal an additional 1d6 points of cold damage.
+
+**Abilities**: A dark ice creature’s ability scores are modified as follows: Str +2, Con +2.
+
+**Environment**: Any cold.
+
+**Challenge Rating**: As base creature +1.
+
+**Alignment**: Always evil (any).
+
+**Level Adjustment**: —
+
+## Desert Mummy
+
+**Acquired/Inherited Template** Acquired
+
+**Simple Template** No
+
+**Usable with Summons** No
+
+The mummification process of ancient the desert kingdom results in a variant mummy. Although the desert mummy appears very similar to normal mummies-a desiccated husklike creature, draped in embalming wrap adorned with hieroglyphics-the desert mummy differs slightly in ability. desert mummies do not spread the curse of mummy rot through touch, nor does the very sight of them give rise to paralysis. They are still, however, resilient killing machines.
+
+"desert mummy" is an acquired template that can be added to any living, corporeal creature (hereafter referred to as the base creature). An desert mummy uses all of the base creature’s statistics except as noted here.
+
+**Size and Type**: The creature’s type changes to undead, and it gains the augmented subtype. It retains any other subtypes as well, except for alignment subtypes (such as good). Do not recalculate base attack bonuses, saves, or skill points. Size is unchanged.
+
+**Hit Dice**: Increase all current and future Hit Dice to d12.
+
+**AC**: An desert mummy’s natural armor bonus increases by +5.
+
+**Defensive Abilities**: An desert mummy retains the base creature’s defensive abilities and gains damage reduction.
+
+*Damage Reduction (Ex)* An desert mummy’s body is resilient, providing it with damage reduction 5/-.
+
+**Weaknesses**: An desert mummy retains the base creature’s weaknesses and gains energy vulnerability.
+
+*Energy vulnerability (Ex)* The mummification process leaves the mummy vulnerable to a single energy type, from which it takes half again as much damage (+50%) as normal. Choose or determine randomly from the following list:
+
+| **d10** | **Energy** |
+|---|---|
+| 1-4 | Fire |
+| 5-6 | Acid |
+| 7-8 | Cold |
+| 9 | Electricity |
+| 10 | Sonic | As an emergency safeguard, it was common for the necromantic embalmers of ancient the desert kingdom to subtly mark the particular energy type to which the mummy would be vulnerable with a separate hieroglyph someplace inconspicuously on the mummy’s body or wrappings. A DC 20 Spot check uncovers the mark, but unless the viewer is capable of comprehending its meaning a DC 20 Decipher Script check is required to unlock its secret. |
+
+**Speed**: An desert mummy’s speeds all decrease by 10 feet (minimum 5 feet). If the base creature has a flight speed its maneuverability class worsenes by one step, to a minimum of clumsy.
+
+**Attack**: An desert mummy retains all the attacks of the base creature and also gains a slam attack if it did not already have one. If the base creature can use weapons, the desert mummy retains that ability. In addition, all of an desert mummy’s attacks are treated as magical for the purpose of overcoming damage reduction.
+
+**Damage**: The mummification process hardens the mummy’s bones to a stonelike density, granting the mummy a powerful slam attack. The creature’s slam attack deals damage according to its size as listed below.
+
+| **Size** | **Damage** |
+|---|---|
+| Fine | 1 |
+| Diminutive | 1d2 |
+| Tiny | 1d3 |
+| Small | 1d4 |
+| Medium | 1d6 |
+| Large | 1d8 |
+| Huge | 2d6 |
+| Gargantuan | 2d8 |
+| Colossal | 4d6 | **Special Attacks**: An desert mummy retains the base creature’s special attacks and also gains the following. |
+
+*Dust Stroke (Su)* A successful natural or slam attack by an desert mummy that drops its victim’s hit points to below -9 does more than just kill the victim, it also disintegrates the victim’s body into a cloud of dust and ash. A* raise dead* spell cannot bring back the victim, but a* resurrection* still works.
+
+*Sudden Burst of Vengeance (Su)* Despite its slow lumbering nature, an desert mummy is capable of lurching forward to attack with a short but surprising, explosion of speed. Twice per day, as a free action, an desert mummy may act as though augmented by a* haste* spell. The effect lasts for a single round.
+
+**Abilities**: An desert mummy’s ability scores are modified as follows: Str +4, Int -2 (minimum 1). As an undead creature, an Osmon mummy has no Constitution score.
+
+**Feats**: The creature gains Improved Natural Attack for each natural attack form as a bonus feat. If the creature previously had a slam attack before adding the template. the creature’s new slam attack also gains the Improved Natural Attack feat.
+
+**Environment**: Any.
+
+**Challenge Rating**: As base creature +1.
+
+**Alignment**: Usually lawful evil.
+
+**Level Adjustment**: +3.
+
+## Granule Construct Host
+
+**Acquired/Inherited Template** Acquired
+
+**Simple Template** No
+
+**Usable with Summons** No
+
+Granule construct swarms are the product of powerful artificers pushing the boundaries of their craft. Alone, each individual is a barely sentient construct so tiny as to be practically invisible, a speck of dust that moves under its own power. Brought together by the thousands into a swarm, however, the complex linking of simple systems creates an emergent consciousness of humanlike intelligence, although alien enough to make communication nearly impossible. Granule construct swarms exist solely to infest larger living organisms and reproduce in the relative safety and comfort provided by their bodies. Capable of repairing and replicating out of the raw elements around them, granule constructs within a host are almost unstoppable through physical means, burrowing their way into flesh and sending signals through the bloodstream. Once safely ensconced, granule construct swarms modify their hosts to maximize survival potential, a trait that leads certain people to intentionally cultivate granule construct swarms inside themselves, despite the resulting deformities. Energy damage to a host damages the granule construct swarm equally, but normal weapon damage does not. Granule constructs can vacate dead or dying creatures whenever they so choose, emerging as a standard swarm.
+
+**Environment:** Although created in arcane laboratories, granule construct swawrms can travel anywhere safe to their host creatures.
+
+**Typical Physical Characteristics:** Up close, each microscopic granule construct appears as a silver sphere with an all-purpose orifice at one end that it uses to gather information, take in nutrients, and focus the electromagnetic charges that propel it through the air. At the opposite end emerges a single manipulator claw. In a swarm, they appear as a dense cloud, somewhere between dust and a shadow, that constantly shifts shape and emits a faint hum. Once inside a host’s body, a granule construct swarm makes a number of modifications which it finds beneficial, toughening it and making it more aware to ensure maximum survival.
+
+"Granule construct host" is an acquired template that can be added to any corporeal aberration, animal, dragon, fey, giant, humanoid, magical beast, monstrous humanoid, or vermin (referred to hereafter as the base creature). Granule construct hosts use all of the base creature’s statistics except as noted below.
+
+**Armor Class**: Creatures with this template gain +2 to their natural armor bonus as their skin thickens and toughens.
+
+**Attack**: A granule construct host retains all the attacks of the base creature and also gains a claw attack if it didn’t already have one. if the base creature can use weapons, the granule construct host retains this ability. A creature with natural weapons retains those natural weapons. A granule construct host fighting without weapons uses either its claw attack or its primary natural weapon (if it has any). A granule construct host armed with a weapon uses its claw or a weapon, as it desires.
+
+**Damage**: Granule construct hosts have 2 claw attacks. If the base creatue does not have this attack form, use the appropriate damage value from the table below according to the granule construct host’s size. Creatures that have other kinds of natural weapons retain their old damage values or use the appropriate value from the table below, whichever is better.
+
+| **Size** | **Damage** |
+|---|---|
+| Fine | 1 |
+| Diminutive | 1d2 |
+| Tiny | 1d3 |
+| Small | 1d4 |
+| Medium | 1d6 |
+| Large | 1d8 |
+| Huge | 2d6 |
+| Gargantuan | 2d8 |
+| Colossal | 4d6 |**Special Attack**: A granule construct host retains all the special attacks of the base creature and gains infest. |
+
+*Infest (Ex)*: Once per week, a granule construct host may make a touch attack to allow the swarm inhabiting it to split and infest another creature. If it succeeds, both creatures become infested, otherwise the granule constructs remain in the pre-existing host.
+
+**Special Qualities**: A granule construct host retains all the special qualities of the base creature and gains those described below.
+
+*Uncanny Dodge (Ex)*: Granule construct swarms retain an awareness of their surroundings even while inhabiting a body, and as a result granule construct hosts retain their Dexterity bonus to AC even if caught flat-footed or attacked by an invisible opponent, although they still lose their Dexterity bonus if immobilized.
+
+*Blindsight*: To a range of 100 feet.
+
+*Hive Mind (Ex)*: While a creature hosting a granule construct swarm normally maintains free will, the swarm living inside maintains contact with any other granule construct swarms or hosts within 100 feet and shares this link in brief, painful flashes. As long as one of the connected creatures is not flanked, none of them are, and if one is aware of a foe, all are.
+
+In addition, if at any point a granule construct swarm infesting a host body feels threatened, it may attempt to take over control of the host’s body. At that point, the host must make a DC 15 Will save or obey the swarm’s commands for 1d10 rounds, which normally translates to attacking or fleeing from the source of the overwhelming threat.
+
+**Abilities**: Modify from the base creature as follows: +2 Con, -6 Cha (minimum of 1). A granule construct host’s body twists into a monsterous mockery of its former shape, all bulging veins and dark shadows moving beneath their skin.
+
+**Challenge Rating**: As base creature.
+
+## Sea-Sworn
+
+**Acquired/Inherited Template** Acquired
+
+**Simple Template** No
+
+**Usable with Summons** Yes
+
+This creature stares with cold, black eyes, its bluish-green skin slick with moisture and stinking of brine and the muck of the tidal flats. Its hands and feet are webbed, and its facial features are blunted by the smooth, frog-like skin that covers them. It makes no sound as it marches out of the shallows, water and seaweed streaming from its unkempt hair and barnacle-encrusted armor. It merely approaches with cold menace, sword raised and sharp beneath a crusting of salt.
+
+During the troubled times following the free republic’s break with the infernal empire, infernal imperial necromancers created the sea-sworn to fill the need for ruthless and overpowering marines who would serve the navy tirelessly. “Volunteered” by their captains, these sailors and warriors were forced to undergo hideous rites culminating in their dying and being reborn as undead monstrosities uniquely suited to making war at sea. Powerful swimmers without the need to breathe or eat, and nearly impossible to destroy in their natural element, these crack teams were the bane of free republic ships, with just a handful of the fast-healing horrors capable of overrunning the mightiest frigates. Concerned that such effective troops might reach too far, the infernal imperial government ordered them anchored to their role with the “curse of the sea-sworn,” rendering them incapable of abandoning their ships or the sea. As further protection, the infernal imperial leaders frequently placed geas spells on the sea-sworn leaders, tasking them with policing their own and making sure that the undead sailors never strove to become more than what they were intended as: cold, heartless tools of infernal imperial ambition.
+
+**Creating a Sea-Sworn**
+
+“Sea-sworn” is an acquired template that can be added to any corporeal creature that does not possess the aquatic sub-type. A sea-sworn uses all of the base creature’s statistics except as noted here.
+
+**Size and Type**: The creature’s type changes to undead and it gains the augmented and aquatic sub-types. It retains any other subtypes except alignment subtypes. Do not recalculate base attack bonus, saves, or skill points. Size is unchanged.
+
+**Hit Dice**: Increase all current and future Hit Dice to d12s.
+
+**Armor Class**: The base creature’s natural armor bonus improves by +3. Sea-sworn often wear the armor they wore in life.
+
+**Defensive Abilities**: A sea-sworn retains the base creature’s defensive abilities and gains damage reduction.
+
+**Damage Reduction (Ex)**: A sea-sworn has damage reduction 5/piercing. Their skin is incredibly tough, but deep stabs allow their salt water essence to seep out.
+
+**Weaknesses**: A sea-sworn retains the base creature’s weaknesses and gains the curse of the sea-sworn.
+
+**Curse of the Sea-Sworn (Ex)**: Sea-sworn function normally whenever in contact with salt water or aboard a vessel floating (or sunken) in salt water. A sea-sworn taken outside these conditions by any means quickly withers away, taking 2d6 points of damage per round.
+
+**Speed**: The creature gains a swim speed equal to its land speed, or retains its original swim speed if it is faster than its land speed.
+
+**Attacks**: A sea-sworn retains all the natural weapons, manufactured weapon attacks, and weapon proficiencies of the base creature. A sea-sworn also gains a slam attack that also inflicts its drowning touch.
+
+**Damage**: Natural and manufactured weapons deal damage normally. A slam attack deals damage depending on the sea-sworn’s size. (Use the base creature’s slam damage if it’s better.)
+
+**Special Attacks**: A sea-sworn retains the base creature’s special attacks and also gains the following.
+
+**Drowning Touch (Ex)**: The touch of a sea-sworn causes the lungs of a living creature to fill with salt water dealing 1 point of Constitution damage. Creatures with the aquatic or water sub-types, creatures that do not need to breathe, and creatures which can breathe water are all immune to this special attack.
+
+**Special Qualities**: A sea-sworn loses most special qualities of the base creature. It retains any extraordinary special qualities that improve its melee or ranged attacks. A sea-sworn gains the following special quality.
+
+**Fast Healing (Ex)**: A sea-sworn gains fast healing 2 whenever it is immersed in salt water to a depth of at least one-quarter of the creature’s height.
+
+**Abilities**: A sea-sworn’s Strength score increases by +4, it has no Constitution score, and its Charisma score decreases by 2.
+
+**Feats**: Same as the base creature.
+
+**Skills**: A sea-sworn has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. Otherwise same as the base creature.
+
+**Environment**: In contact with salt water or aboard a vessel in salt water.
+
+**Challenge Rating**: As base creature +1.
+
+**Treasure**: None.
+
+**Alignment**: Usually neutral evil.
+
+**Level Adjustment**: —
+
+| **Sea-Sworn Size** | **Slam Damage** |
+|---|---|
+| Fine | 1 |
+| Diminutive | 1d2 |
+| Tiny | 1d3 |
+| Small | 1d4 |
+| Medium | 1d6 |
+| Large | 1d8 |
+| Huge | 2d6 |
+| Gargantuan | 2d8 |
+| Colossal | 4d6 |
