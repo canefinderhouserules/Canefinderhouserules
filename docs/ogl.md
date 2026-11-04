@@ -789,3 +789,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Legendary Clerics © 2020, Legendary Games; Authors: Matt Daley and Nathan Reinecke.
 
     Legendary Investigators © 2022, Legendary Games; Authors: Connor Bates, Andrew J Gibson, Norman Mitchell, Margherita Tramontano, and Tara Collins.
+
+    *Rogue Glory.* Copyright 2013, Drop Dead Studios; Author Adam Meyers.

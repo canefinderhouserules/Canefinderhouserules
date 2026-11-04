@@ -1,7 +1,7 @@
 # Rogue Talents
 
 !!! warning "House rules"
-    The Core Rulebook rogue talents plus the additional rogue talents used at this table. Some talents have been changed or added by house rule (for example *Coax Information*, *Combat Swipe*, *Convincing Lie*, *Favored Terrain*, *Ledge Walker*, *Scavenger*). See [Rogue](rogue.md) and [Rogue Changes](archetype-changes.md).
+    The Core Rulebook rogue talents plus the additional rogue talents used at this table. Some talents have been changed or added by house rule (for example *Coax Information*, *Combat Swipe*, *Convincing Lie*, *Favored Terrain*, *Ledge Walker*, *Scavenger*). These talents can be used by the [Rogue](rogue.md) and the [Unchained Rogue](unchained-rogue.md).
 
 | Talent | Prerequisites | Benefit |
 |---|---|---|
@@ -62,6 +62,7 @@
 | Focusing Attack* (Ex) | — | When you have confused , shaken , or sickened condition and hit a creature with a melee attack that deals sneak attack damage, you no longer have that condition. She can remove only a single effect on herself with each melee attack that deals sneak attack damage. |
 | Follow Clues | — | Skill Focus: Perception. |
 | Fortified Position (Ex) | — | When you gain a bonus on Reflex saves due to cover , you gains an equal bonus on all saves, doubling the reflex bonus. |
+| Founders’ Blessing (Su) | — | Once per day, choose a skill in which you have no ranks. After 10 minutes, gain a luck bonus equal to your rogue level with that skill, and can attempt checks with that skill as if you were trained in it. |
 | Getaway Artist | — | Add Fly , Handle Animal , and Ride to your list of class skills, and skill focus on one of them. |
 | Gloom Magic (Sp) | Int 12, Rogue magic | You gain the ability to cast darkness two times per day as a spell-like ability and it does not impair your vision. |
 | Got Your Back (Ex) | — | Once per round as an immediate action , you may expend an attack of opportunity to attempt an aid another check to improve an ally’s attack. You and your ally must both be flanking the same opponent. This counts as an attack of opportunity . |
@@ -75,6 +76,7 @@
 | Heads Up (Ex) | — | When you make an Initiative check, as an immediate or swift action you can allow one adjacent ally to act as if they had also made that check with the same result. |
 | Hold Breath | — | Hold your breath longer |
 | Honeyed Words | — | Once per day, the rogue can roll two dice while making a Bluff check, and take the better result. She must choose to use this talent before making the Bluff check. Special : A rogue can use this ability one additional time per day for every five rogue levels she possesses. |
+| Improved Shadow’s Chill* (Su) | Cold resistance racial trait, Shadow’s Chill | Sneak attack damage you deal is cold damage. |
 | Innocent Facade (Sp) | — | Once per day, you can use innocence as a spell-like ability , using your rogue level as the spell’s caster level . |
 | Iron Guts | — | A rogue with this talent has a cast-iron stomach or has trained herself to withstand poisons, especially ingested ones. She gains a +4 bonus on all saves against ingested poisons as well as a +2 bonus and advantage on saves against all spells and effects that cause the rogue to be nauseated or sickened . |
 | Just a Face in the Crowd (Su) | — | You gain a bonus equal to half your class level on Disguise and Perception checks when 10 or more creatures of your size are within 30 feet of you. |

@@ -1,6 +1,6 @@
 # Archetype and Class Changes
 
-House-rule changes to specific archetypes and class features. Changes to the core classes themselves (barbarian rage powers, monk anti-dip and unarmed scaling, ranger favored terrain, draconic bloodline) are written directly into the class pages. The changes below are also written into each archetype’s own page, with the book version in a closed box, except for the rogue ones.
+House-rule changes to specific archetypes and class features. Changes to the core classes themselves (barbarian rage powers, monk anti-dip and unarmed scaling, ranger favored terrain, draconic bloodline) are written directly into the class pages. The changes below are also written into each archetype’s own page, with the book version in a closed box.
 
 ## Alchemist
 
@@ -50,8 +50,10 @@ House-rule changes to specific archetypes and class features. Changes to the cor
 
 ## Rogue
 
+These changes are written into the [Unchained Rogue](unchained-rogue.md) and [Glory Rogue](rogue-archetypes.md#glory-rogue).
+
 !!! warning "House rule"
-    A rogue archetype that replaces Dexterity-to-damage (gained at 3rd, 11th and 19th level) instead gains 1 combat bonus feat, chosen from the normal list plus two unique options:
+    **Finesse Training:** instead of Dexterity to damage at 3rd, 11th and 19th level, the unchained rogue gains 1 bonus combat feat, chosen from the normal list or two unique options:
 
     - **Combat Deceiver:** sacrifice one of your attacks during a full attack to feint. On a successful feint, the second attack gains sneak attack; with Greater Feint, all other attacks do.
     - **Ranged Sneak Attacker:** whenever you are within Point-Blank Shot range and the enemy is flanked by you or by two of your allies, you may make sneak attacks with ranged weapons.

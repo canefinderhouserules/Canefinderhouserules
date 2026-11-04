@@ -42,7 +42,11 @@ Talents marked with an asterisk add effects to a rogue’s sneak attack. Only on
 
 *Finesse Rogue*: A rogue that selects this talent gains Weapon Finesse as a bonus feat.
 
-*Ledge Walker (Ex)*: This ability allows a rogue to move along narrow surfaces at full speed using the Acrobatics skill without penalty. In addition, a rogue with this talent is not flat-footed when using Acrobatics to move along narrow surfaces.
+*Ledge Walker (Ex)*: This ability allows a rogue to move along narrow surfaces at full speed using the Acrobatics skill without penalty. In addition, a rogue with this talent is not flat-footed when using Acrobatics to move along narrow surfaces. In addition, you can do a 5-foot step in difficult terrain once a day.
+
+??? note "Original rule"
+
+    *Ledge Walker (Ex)*: This ability allows a rogue to move along narrow surfaces at full speed using the Acrobatics skill without penalty. In addition, a rogue with this talent is not flat-footed when using Acrobatics to move along narrow surfaces.
 
 *Major Magic* *(Sp)*: A rogue with this talent gains the ability to cast a 1st-level spell from the sorcerer/wizard spell list two times a day as a spell-like ability. The caster level for this ability is equal to the rogue’s level. The save DC for this spell is 11 + the rogue’s Intelligence modifier. The rogue must have an Intelligence of at least 11 to select this talent. A rogue must have the minor magic rogue talent before choosing this talent.
 

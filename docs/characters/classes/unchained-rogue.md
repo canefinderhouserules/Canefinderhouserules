@@ -20,7 +20,7 @@ The rogue’s class skills are Acrobatics (Dex), Appraise (Int), Bluff (Cha), Cl
 |---|---|---|---|---|---|
 | 1st | +0 | +0 | +2 | +0 | Finesse training, sneak attack +1d6, trapfinding |
 | 2nd | +1 | +0 | +3 | +0 | Evasion, rogue talent |
-| 3rd | +2 | +1 | +3 | +1 | Danger sense +1, finesse training, sneak attack +2d6 |
+| 3rd | +2 | +1 | +3 | +1 | Danger sense +1, bonus combat feat, sneak attack +2d6 |
 | 4th | +3 | +1 | +4 | +1 | Debilitating injury, rogue talent, uncanny dodge |
 | 5th | +3 | +1 | +4 | +1 | Rogue’s edge, sneak attack +3d6 |
 | 6th | +4 | +2 | +5 | +2 | Danger sense +2, rogue talent |
@@ -28,16 +28,16 @@ The rogue’s class skills are Acrobatics (Dex), Appraise (Int), Bluff (Cha), Cl
 | 8th | +6/+1 | +2 | +6 | +2 | Improved uncanny dodge, rogue talent |
 | 9th | +6/+1 | +3 | +6 | +3 | Danger sense +3, sneak attack +5d6 |
 | 10th | +7/+2 | +3 | +7 | +3 | Advanced talents, rogue talent, rogue’s edge |
-| 11th | +8/+3 | +3 | +7 | +3 | Finesse training, sneak attack +6d6 |
+| 11th | +8/+3 | +3 | +7 | +3 | Bonus combat feat, sneak attack +6d6 |
 | 12th | +9/+4 | +4 | +8 | +4 | Danger sense +4, rogue talent |
 | 13th | +9/+4 | +4 | +8 | +4 | Sneak attack +7d6 |
 | 14th | +10/+5 | +4 | +9 | +4 | Rogue talent |
-| 15th | +11/+6/+1 | +5 | +9 | +5 | Danger sense +5, rogue’s edge, sneak attack +8d6 |
+| 15th | +11/+6/+1 | +5 | +9 | +5 | Danger sense +5, sneak attack +8d6 |
 | 16th | +12/+7/+2 | +5 | +10 | +5 | Rogue talent |
 | 17th | +12/+7/+2 | +5 | +10 | +5 | Sneak attack +9d6 |
 | 18th | +13/+8/+3 | +6 | +11 | +6 | Danger sense +6, rogue talent |
-| 19th | +14/+9/+4 | +6 | +11 | +6 | Finesse training, sneak attack +10d6 |
-| 20th | +15/+10/+5 | +6 | +12 | +6 | Master strike, rogue talent, rogue’s edge |
+| 19th | +14/+9/+4 | +6 | +11 | +6 | Bonus combat feat, sneak attack +10d6 |
+| 20th | +15/+10/+5 | +6 | +12 | +6 | Master strike, rogue talent |
 
 ## Class Features
 
@@ -53,7 +53,15 @@ The rogue must be able to see the target well enough to pick out a vital spot an
 
 **Trapfinding**: A rogue adds 1/2 her level on Perception checks to locate traps and on Disable Device checks (minimum +1). A rogue can use Disable Device to disarm magic traps.
 
-**Finesse Training (Ex)**: At 1st level, a rogue gains Weapon Finesse as a bonus feat. In addition, starting at 3rd level, she can select any one type of weapon that can be used with Weapon Finesse (such as rapiers or daggers). Once this choice is made, it cannot be changed. Whenever she makes a successful melee attack with the selected weapon, she adds her Dexterity modifier instead of her Strength modifier to the damage roll. If any effect would prevent the rogue from adding her Strength modifier to the damage roll, she does not add her Dexterity modifier. The rogue can select a second weapon at 11th level and a third at 19th level.
+**Finesse Training (Ex)**: At 1st level, a rogue gains Weapon Finesse as a bonus feat. At 3rd, 11th, and 19th levels, she gains 1 bonus combat feat, and she must meet its prerequisites. In addition to the normal combat feats, she can choose either of these two unique options:
+
+*Combat Deceiver*: You can sacrifice one of your attacks during a full attack to feint. If the feint succeeds, your second attack can deal sneak attack damage, or all your other attacks can if you have Greater Feint.
+
+*Ranged Sneak Attacker*: Whenever you are within Point-Blank Shot range and the enemy is flanked by you or by two of your allies, you can make sneak attacks with ranged weapons.
+
+??? note "Original rule"
+
+    **Finesse Training (Ex)**: At 1st level, a rogue gains Weapon Finesse as a bonus feat. In addition, starting at 3rd level, she can select any one type of weapon that can be used with Weapon Finesse (such as rapiers or daggers). Once this choice is made, it cannot be changed. Whenever she makes a successful melee attack with the selected weapon, she adds her Dexterity modifier instead of her Strength modifier to the damage roll. If any effect would prevent the rogue from adding her Strength modifier to the damage roll, she does not add her Dexterity modifier. The rogue can select a second weapon at 11th level and a third at 19th level.
 
 **Evasion (Ex)**: At 2nd level, a rogue can avoid even magical and unusual attacks with great agility. If she succeeds at a Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the rogue is wearing light armor or no armor. A helpless rogue does not gain the benefit of evasion.
 
@@ -75,7 +83,11 @@ These penalties do not stack with themselves, but additional attacks that deal s
 
 **Uncanny Dodge (Ex)**: At 4th level, a rogue can react to danger before her senses would normally allow her to do so. She cannot be caught flat-footed, nor does she lose her Dexterity bonus to AC if the attacker is invisible. She still loses her Dexterity bonus to AC if immobilized. A rogue with this ability can still lose her Dexterity bonus to AC if an opponent successfully uses the feint action against her. If a rogue already has uncanny dodge from a different class, she automatically gains improved uncanny dodge (see below) instead.
 
-**Rogue’s Edge (Ex)**: At 5th level, a rogue has mastered a single skill beyond that skill’s normal boundaries, gaining results that others can only dream about. She gains the skill unlock powers for that skill as appropriate for her number of ranks in that skill. At 10th, 15th, and 20th levels, she chooses an additional skill and gains skill unlock powers for that skill as well.
+**Rogue’s Edge (Ex)**: At 5th level, a rogue gains the skill unlock powers of any 5 skills of her choice, as appropriate for her number of ranks in those skills. At 10th level, she gains the skill unlock powers for all skills in which she has sufficient ranks.
+
+??? note "Original rule"
+
+    **Rogue’s Edge (Ex)**: At 5th level, a rogue has mastered a single skill beyond that skill’s normal boundaries, gaining results that others can only dream about. She gains the skill unlock powers for that skill as appropriate for her number of ranks in that skill. At 10th, 15th, and 20th levels, she chooses an additional skill and gains skill unlock powers for that skill as well.
 
 **Improved Uncanny Dodge (Ex)**: At 8th level, a rogue can no longer be flanked.
 
@@ -93,9 +105,17 @@ This defense denies another rogue the ability to sneak attack the character by f
 
 **Certainty (Ex)**: The rogue chooses one of the skills she selected with rogue’s edge. Once per day, the rogue can reroll a skill check she just made with the selected skill and take the better result. She can use this reroll with the selected skill one additional time per day at 10th level and every 5 levels thereafter. A rogue can select this talent multiple times. Each time, the rogue must choose a different skill. A rogue must have the rogue’s edge class feature before selecting this talent.
 
-**Coax Information (Ex)**: A rogue with this talent can use Bluff or Diplomacy in place of Intimidate to force an opponent to act friendly toward her. When the duration Special Finesse training, sneak attack +1d6, trapfinding Evasion, rogue talent Danger sense +1, finesse training, sneak attack +2d6 Debilitating injury, rogue talent, uncanny dodge Rogue’s edge, sneak attack +3d6 Danger sense +2, rogue talent Sneak attack +4d6 Improved uncanny dodge, rogue talent Danger sense +3, sneak attack +5d6 Advanced talents, rogue talent, rogue’s edge Finesse training, sneak attack +6d6 Danger sense +4, rogue talent Sneak attack +7d6 Rogue talent Danger sense +5, rogue’s edge, sneak attack +8d6 Rogue talent Sneak attack +9d6 Danger sense +6, rogue talent Finesse training, sneak attack +10d6 Master strike, rogue talent, rogue’s edge of the attitude shift ends, that opponents’ attitude toward the rogue returns to its previous level, rather than dropping one level.
+**Coax Information (Ex)**: Lets you use Bluff, Diplomacy and Intimidate interchangeably: you can roll and do anything an Intimidate check would do using Bluff or Diplomacy instead, and so on. In short, it saves you from having to raise the other two.
 
-**Combat Swipe**: A rogue with this talent gains Improved Steal as a bonus feat. At 6th level, she is treated as if she met all the prerequisites for Greater Steal (although she must take the feat as normal).
+??? note "Original rule"
+
+    **Coax Information (Ex)**: A rogue with this talent can use Bluff or Diplomacy in place of Intimidate to force an opponent to act friendly toward her. When the duration Special Finesse training, sneak attack +1d6, trapfinding Evasion, rogue talent Danger sense +1, finesse training, sneak attack +2d6 Debilitating injury, rogue talent, uncanny dodge Rogue’s edge, sneak attack +3d6 Danger sense +2, rogue talent Sneak attack +4d6 Improved uncanny dodge, rogue talent Danger sense +3, sneak attack +5d6 Advanced talents, rogue talent, rogue’s edge Finesse training, sneak attack +6d6 Danger sense +4, rogue talent Sneak attack +7d6 Rogue talent Danger sense +5, rogue’s edge, sneak attack +8d6 Rogue talent Sneak attack +9d6 Danger sense +6, rogue talent Finesse training, sneak attack +10d6 Master strike, rogue talent, rogue’s edge of the attitude shift ends, that opponents’ attitude toward the rogue returns to its previous level, rather than dropping one level.
+
+**Combat Swipe**: Gain Deft Maneuvers as a bonus feat (the new feat that gives you all the more agile combat maneuvers).
+
+??? note "Original rule"
+
+    **Combat Swipe**: A rogue with this talent gains Improved Steal as a bonus feat. At 6th level, she is treated as if she met all the prerequisites for Greater Steal (although she must take the feat as normal).
 
 **Combat Trick**: A rogue who selects this talent gains a bonus combat feat.
 
@@ -111,7 +131,11 @@ This defense denies another rogue the ability to sneak attack the character by f
 
 **Lasting Poison (Ex)**: A rogue with this talent can apply poison to a weapon in such a way that it is effective for a number of successful attacks equal to her Dexterity modifier (minimum two) instead of one. This poison has a reduced effect, however, and saves made against the poison gain a +2 circumstance bonus. Applying poison in this way is a full-round action, or a standard action if the rogue has the swift poison rogue talent.
 
-**Ledge Walker (Ex)**: This ability allows a rogue to move along narrow, uneven, or slippery surfaces (such as ice) at full speed using the Acrobatics skill without penalty. In addition, a rogue with this talent is not flat-footed when using Acrobatics to move along such surfaces, and retains her Dexterity bonus to AC.
+**Ledge Walker (Ex)**: This ability allows a rogue to move along narrow surfaces at full speed using the Acrobatics skill without penalty. In addition, a rogue with this talent is not flat-footed when using Acrobatics to move along narrow surfaces. In addition, you can do a 5-foot step in difficult terrain once a day.
+
+??? note "Original rule"
+
+    **Ledge Walker (Ex)**: This ability allows a rogue to move along narrow, uneven, or slippery surfaces (such as ice) at full speed using the Acrobatics skill without penalty. In addition, a rogue with this talent is not flat-footed when using Acrobatics to move along such surfaces, and retains her Dexterity bonus to AC.
 
 **Major Magic (Sp)**: A rogue with this talent gains the ability to cast a 1st-level spell from the sorcerer/wizard spell list once per day as a spell-like ability for every 2 rogue levels she possesses. The rogue’s caster level for this ability is equal to her rogue level. The save DC for this spell is 11 + the rogue’s Intelligence modifier. A rogue must have the minor magic rogue talent and an Intelligence score of at least 11 to select this talent.
 

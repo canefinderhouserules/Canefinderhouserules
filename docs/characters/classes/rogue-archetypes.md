@@ -40,6 +40,20 @@ Everyone who lives in the city understands that a wealthy man stays wealthy by g
 
 **Advanced Talents**: The following advanced rogue talents complement the cutpurse archetype: crippling strike*, fast tumble, and skill mastery*.
 
+## Glory Rogue
+
+This option adds abilities to the rogue that put it on a more equal footing with other classes, without rebuilding the class.
+
+**Weapon Proficiency**: A glory rogue is proficient with the blade boot, sword cane, and switchblade knife, in addition to her usual proficiencies.
+
+**Guile Pool (Ex)**: At 2nd level, a glory rogue gains a guile pool equal to half her rogue level + her Charisma modifier or her Intelligence modifier (choose one; minimum 1). She can spend 1 point on any skill check for a +2 bonus on that check; at 10th level, this bonus becomes +4. As a swift action, she can spend 1 point for a +1 circumstance bonus on attack rolls until the end of her turn. This bonus increases by 1 for every 4 levels beyond 2nd (+2 at 6th, +3 at 10th, +4 at 14th), to a maximum of +5 at 18th level. While she has at least 1 point in the pool, she is treated as having the Improved Feint feat.
+
+??? note "Original rule"
+
+    **Guile Pool (Ex)**: The pool used only the Charisma modifier.
+
+**Ambush (Ex)**: At 3rd level, during a surprise round, a glory rogue can designate one attack as an ambush. If the ambush hits and deals sneak attack damage, it also deals extra precision damage equal to her class level. A target damaged by an ambush must succeed at a Fortitude save (DC 10 + half her rogue level + her Dexterity modifier) or be sickened for 1d4+1 rounds. She can change this effect to staggered at 8th level, nauseated at 13th level, and stunned at 18th level.
+
 ## Investigator
 
 Not all rogues work against the law. Investigators use their skills to serve the law, often in the employ of nobles or in the pursuit of noble causes. In some cities cabals of investigators work for rulers or bureaucracies, but often an investigator is a free agent who pursues whatever mysteries come across her path. Of course, not all investigators serve the law. Crime lords and guildmasters often have squads of investigators serving their own nefarious purposes.
