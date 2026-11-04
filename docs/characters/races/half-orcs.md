@@ -210,7 +210,7 @@ Some half-orcs are descended from clans that remained in the eternal darkness be
 
 ### Desert Half-Orcs (Sandkin)
 
-Desert half-orcs are born primarily in northern the southern continent and the desert kingdom and often hold a level of esteem and self-assurance that is rare for half-orcs. Among desert orc tribes, the ability to tolerate harsh sunlight is a sign of strength, and weathering the sun is a rite of passage. Lacking their ancestors’ light sensitivity, half-orcs excel at these contests of endurance and easily earn high positions within their tribes.
+Desert half-orcs are born primarily in the northern part of the southern continent and the desert kingdom and often hold a level of esteem and self-assurance that is rare for half-orcs. Among desert orc tribes, the ability to tolerate harsh sunlight is a sign of strength, and weathering the sun is a rite of passage. Lacking their ancestors’ light sensitivity, half-orcs excel at these contests of endurance and easily earn high positions within their tribes.
 
 Desert half-orcs also fare better than most among human civilizations. The strong presence of the goddess of the sun and redemption’s followers has led to a culture of forgiveness and understanding that is rare in other parts of the world, making it easier for half-orcs to thrive. Many desert half-orcs believe they are blessed by the goddess of the sun and redemption and become clerics or paladins of her church.
 

@@ -465,3 +465,29 @@ Some devotees of the Four Horsemen can form spiritual manifestations of the daem
 When the grim phantom is banished to the Ethereal Plane, the grim apostle takes an amount of damage equal to 1d4 × the grim phantom’s number of Hit Dice. This ability modifies the phantom ability and replaces the phantom’s emotional focus.
 
 **Hardened Soul (Su)**: At 1st level, while a grim phantom is confined in the grim apostle’s consciousness, the grim apostle gains a +4 bonus on saving throws against death effects and effects that would remove or subsume the grim apostle’s soul (such as *possession* or *trap the soul*). At 6th level and every 6 levels thereafter, this bonus increases by 2 (to a maximum of +10 at 18th level). This ability replaces shared consciousness and fused consciousness.
+
+## Fated Guide (Spiritualist)
+
+Not all phantoms are restless dead escaping the afterlife. On rare occasions, the goddess of death returns a judged soul to the Material Plane—linking the spirit to a devout believer—to complete some final task, make amends for a crime, or grant a sharply divided soul a second chance. Sadly, from a soul’s perspective, the journey along the River of Souls and its trials in the Boneyard last eons, and most phantoms return with little, if any, idea of who they were or the nature of their dedicated purposes. The fated guide helps her phantom uncover details about its life and what it can do to finally move on.
+
+**Shepherd to the Dead**: A fated guide adds *disrupt undead* and* sanctify corpse* to her list of spells known.
+
+**Phantom**: A phantom who bonds with a fated guide must have the remorse emotional focus.
+
+**Divine Purpose**: A fated guide’s phantom gains Deific Obedience as a bonus feat, though the spiritualist must obey her god’s obedience to gain any benefit. This replaces the phantom’s antagonistic ability.
+
+**Thanatopic Bonded Manifestation (Su)**: A 3rd level, a fated guide can bond with her phantom to channel the influence of the goddess of death and her servitors. When a spiritualist gains this ability, she must replace her ability to form either an ectoplasmic bonded manifestation or an incorporeal bonded manifestation.
+
+When the fated guide uses this thanatopic bond, she gains access to the benefits of her phantom’s Deific Obedience feat, and can use *speak with dead* as per the spell, asking a maximum of one question per spiritualist level she has each day, and no more than one question per corpse; asking a question and getting an answer requires 2 full rounds.
+
+At 8th level, the fated guide can act normally even after being reduced below 0 hit points. The spiritualist immediately dies if reduced to a number of negative hit points equal to her Constitution score. She takes 1 extra point of damage each round she performs a strenuous action, such as attacking or casting a spell, and immediately falls unconscious and begins dying if she dismisses the thanatopic bond or the duration of bonded manifestation expires. Maintaining her nearly dead form is taxing, and each round that she remains active below 0 hit points consumes 2 rounds of bonded manifestation’s duration.
+
+At 13th level, while using her thanatopic bonded manifestation, the fated guide can cast *antilife shell* as a spell-like ability. Maintaining this spell quickly exhausts her phantom, and each round she maintains the spell consumes 2 rounds of bonded manifestation’s duration.
+
+At 18th level, the fated guide’s touch banishes the unquiet dead. She can deal 10d6 points of positive energy damage (Will half; DC = 10 + 1/2 the fated guide’s spiritualist level + her Wisdom modifier) as a touch attack against undead creatures. An undead creature that successfully saves against this touch attack is immune to the same fated guide’s positive energy touch for 24 hours.
+
+This ability modifies bonded manifestation.
+
+**Iron Bond (Ex)**: When the fated guide reaches 9th level, her phantom gains a +4 bonus on saving throws against banishment, dismissal, or other similar effects. This ability replaces the *see invisibility* ability.
+
+**Undeniable Bond (Ex)**: When the fated guide reaches 16th level, her phantom gains an additional +4 bonus on saving throws against banishment, dismissal, or other similar effects, for a total of +8. This ability replaces the *call spirit* ability.

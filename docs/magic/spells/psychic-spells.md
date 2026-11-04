@@ -375,6 +375,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Steal Voice](steal-voice.md)**: Target gains the croaking spellblight.
 - **[Stricken Heart](stricken-heart.md)**: Touch attack deals 346 damage and staggers target.
 - **[Suggestion](suggestion.md)**: Compels a subject to follow stated course of action.
+- **[Summon Monster 2](summon-monster-2.md)**: This spell functions like summon monster I, except that you can summon one creature from the 2nd-level list or…
 - **[Summon Monster II](summon-monster-ii.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
 - Tactical Acumen
 - Telekinetic Assembly
@@ -470,6 +471,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Illusory Script](illusory-script.md)**: Only select creatures can read text.
 - **[Implanted Projection](implanted-projection.md)**: A telempathic projection triggered later by a command word.
 - **[Inveigle Person](inveigle-person.md)**: The target treats all creatures as friendly.
+- **[Invisibility Bubble, Giant](invisibility-bubble-giant.md)**: This functions as per invisibility bubble, but the bubble is larger, which allows you to target a creature of …
 - **[Invisibility Sphere](invisibility-sphere.md)**: Makes everyone within 10 ft. invisible.
 - Isolate
 - **[Jealous Rage](jealous-rage.md)**: Target attacks anyone who receives a benefit it does not.
@@ -533,6 +535,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
 - **[Strangling Hair](strangling-hair.md)**: Your hair animates and grapples.
 - **[Stunning Barrier, Greater](stunning-barrier-greater.md)**
+- **[Summon Monster 3](summon-monster-3.md)**: This spell functions like summon monster I, except that you can summon one creature from the 3rd-level list, 1…
 - **[Summon Monster III](summon-monster-iii.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
 - Swarm of Fangs
 - **[Synaptic Pulse](synaptic-pulse.md)**: Stun creatures in a 30-ft. radius.
@@ -631,6 +634,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
+- **[Horseman of Death’s Dispensation](horseman-of-deaths-dispensation.md)**: The target of this spell gains immunity to the harmful effects of touching or drinking from the River Styx and…
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
 - **[Id Insinuation III](id-insinuation-iii.md)**: As id insinuation I, but affects three creatures and has a stronger confusion effect.
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
@@ -692,6 +696,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Spell Immunity](spell-immunity.md)**: Subject is immune to one spell per 4 levels.
 - **[Spellcrash, Lesser](spellcrash-lesser.md)**
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
+- **[Summon Monster 4](summon-monster-4.md)**: This spell functions like summon monster I, except that you can summon one creature from the 4th-level list, 1…
 - **[Summon Monster IV](summon-monster-iv.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
 - **[Summon Ship](summon-ship.md)**: conjure a ship
 - **[Synaptic Scramble](synaptic-scramble.md)**: Prevent the target from communicating and cause it to act randomly.
@@ -732,6 +737,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Astral Projection, Lesser](astral-projection-lesser.md)**: Limited astral travel.
 - **[Banish Seeming](banish-seeming.md)**: Dispels touched illusion or a creature's change in form.
 - **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
+- **[Bind Sage](bind-sage.md)**: This variant of planar binding is specifically used to call one of the most knowledgeable types of outsiders: …
 - **[Blood Ties](blood-ties.md)**: When a target is harmed, so is the target’s relative.
 - **[Burst of Force](burst-of-force.md)**: Force damage in a burst around you and knock foes prone.
 - **[Charm Person, Mass](charm-person-mass.md)**: As *charm person*, but affects multiple creatures within 30 ft.
@@ -830,6 +836,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Stoneskin, Communal
 - **[Suffocation](suffocation.md)**: Target quickly suffocates to death.
 - **[Suggestion, Mass](suggestion-mass.md)**: As *suggestion,* affects 1 subject/level.
+- **[Summon Monster 5](summon-monster-5.md)**: This spell functions like summon monster I, except that you can summon one creature from the 5th-level list, 1…
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
 - Summoner Conduit
 - **[Surface Excursion](surface-excursion.md)**: Teleport to the surface directly above you, with a beacon to return.
@@ -937,6 +944,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Spellfire Jinx](spellfire-jinx.md)**: Cursed caster burns and may lose spells.
 - **[Stone Tell](stone-tell.md)**: Talk to natural or worked stone.
 - **[Subjective Reality](subjective-reality.md)**: Treat a creature or object as an illusion that cannot harm you.
+- **[Summon Monster 6](summon-monster-6.md)**: This spell functions like summon monster I, except you can summon one creature from the 6th-level list, 1d3 cr…
 - **[Summon Monster VI](summon-monster-vi.md)**: Summons extraplanar creature to fight for you.
 - **[Symbol of Distraction](symbol-of-distraction.md)**: Symbol that fascinates creatures nearby.
 - **[Thought Shield V](thought-shield-v.md)**: As thought shield IV, but lasts 1 round per level.
@@ -1007,6 +1015,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Sequester](sequester.md)**: Subject is invisible to sight and scrying; renders creature comatose.
 - **[Simulacrum](simulacrum.md)**: Creates partially real double of a creature.
 - **[Spell Turning](spell-turning.md)**: Reflect 1d4+6 spell levels back at caster.
+- **[Summon Monster 7](summon-monster-7.md)**: This spell functions like summon monster I, except that you can summon one creature from the 7th-level list, 1…
 - **[Summon Monster VII](summon-monster-vii.md)**: Summons extraplanar creature to fight for you.
 - **[Synesthesia, Mass](synesthesia-mass.md)**: As synesthesia, but affecting multiple creatures.
 - **[Telekinetic Sphere](telekinetic-sphere.md)**: As *resilient sphere,* but you move the sphere telekinetically.
@@ -1071,6 +1080,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Shout, Greater](shout-greater.md)**: Devastating yell deals 10d6 sonic damage; stuns creatures.
 - **[Song of Discord, Greater](song-of-discord-greater.md)**: As song of discord, but creatures always attack and gain +4 Strength.
 - **[Spell Immunity, Greater](spell-immunity-greater.md)**: As *spell immunity,* but up to 8th-level spells.
+- **[Summon Monster 8](summon-monster-8.md)**: This spell functions like summon monster I, except that you can summon one creature from the 8th-level list, 1…
 - **[Summon Monster VIII](summon-monster-viii.md)**: Summons extraplanar creature to fight for you.
 - **[Sympathy](sympathy.md)**: Object or location attracts certain creatures.
 - **[Temporal Regression](temporal-regression.md)**: Return to a marked place and condition.
@@ -1113,6 +1123,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Soul Bind](soul-bind.md)**: Traps newly dead soul to prevent *resurrection*.
 - Spell Immunity, Greater Communal
 - **[Suffocation, Mass](suffocation-mass.md)**: One creature/level suffocates to death.
+- **[Summon Monster 9](summon-monster-9.md)**: This spell functions like summon monster I, except that you can summon one creature from the 9th-level list, 1…
 - **[Summon Monster IX](summon-monster-ix.md)**: Summons extraplanar creature to fight for you.
 - **[Telekinetic Storm](telekinetic-storm.md)**: Deal 1d6 points of damage per level plus daze and stun in a 40-ft. radius.
 - **[Teleportation Circle](teleportation-circle.md)**: Teleports creatures inside circle.

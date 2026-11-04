@@ -57,6 +57,7 @@
 - **[Longstrider](longstrider.md)**: Your base speed increases by 10 ft.
 - **[Lose the Trail](lose-the-trail.md)**: Harder to track.
 - **[Magic Fang](magic-fang.md)**: One natural weapon of subject creature gets +1 on attack and damage rolls.
+- **[Make Lost](make-lost.md)**: You strip the targets of their senses of direction and recent memories of travel.
 - **[Marid’s Mastery](marid-s-mastery.md)**: School transmutation [water]; Level cleric 1, druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Nature's Paths](natures-paths.md)**: Find the fastest way through the wilderness
 - **[Pass without Trace](pass-without-trace.md)**: One subject/level leaves no tracks.
@@ -136,6 +137,7 @@
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
+- **[Lament of Summer’s Last Breath](lament-of-summers-last-breath.md)**: You wrap the target in a mantle of summery air, within which the ambient temperature never falls below 70 degr…
 - **[Lay of the Land](lay-of-the-land.md)**: Instantly learn the geography around you.
 - **[Lead Plating](lead-plating.md)**: Sheathe a target in lead to block radiation and divinations.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
@@ -167,6 +169,7 @@
 - **[Snare](snare.md)**: Creates a magic booby trap.
 - **[Speak with Plants](speak-with-plants.md)**: You can talk to plants and plant creatures.
 - **[Spike Growth](spike-growth.md)**: Creatures in area take 1d4 damage, may be slowed*.*
+- **[Summon Nature’s Ally 2](summon-natures-ally-2.md)**: This spell functions as summon nature’s ally I, except that you summon one 2nd-level creature or 1d3 1st-level…
 - **[Summon Nature’s Ally II](summon-natures-ally-ii.md)**: Summons creature to fight for you.
 - **[Surefoot Boots](surefoot-boots.md)**: Footwear grants perfect balance.
 - **[Sweat Poison](sweat-poison.md)**: exude an injury poison from your own glands
@@ -246,6 +249,7 @@
 - **[Spectral Scout](spectral-scout.md)**: A spectral Tiny animal scouts for you and reports what it sees.
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
 - **[Spore Burst](spore-burst.md)**: A plant creature can burst spores that sicken nearby creatures.
+- **[Summon Nature’s Ally 3](summon-natures-ally-3.md)**: This spell functions like summon nature’s ally I, except that you can summon one 3rd-level creature, 1d3 2nd-l…
 - **[Summon Nature’s Ally III](summon-natures-ally-iii.md)**: Summons creature to fight for you.
 - **[Summon Totem Creature](summon-totem-creature.md)**: Summon creatures sacred to your totem clan.
 - **[Sunstalker](sunstalker.md)**: Invisible while in sunlight.
@@ -259,9 +263,11 @@
 - **[Tree Shape](tree-shape.md)**: You look exactly like a tree for 1 hour/level.
 - **[Vex Giant](vex-giant.md)**: Deal more damage and avoid attacks of opportunity against larger foes.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
+- **[Wall of Brine](wall-of-brine.md)**: You conjure a 5-foot-thick wall of seawater with a powerful current flowing toward one side of the wall, selec…
 - **[Ward of the Season](ward-of-the-season.md)**: This spell harnesses the power of the seasons to protect the target and grant a number of bonuses.
 - **[Water Walk](water-walk.md)**: Subject treads on water as if solid.
 - **[Woodland Rune](woodland-rune.md)**: A rune sprouts entangling roots when enemies approach.
+- **[Zephyr’s Fleetness](zephyrs-fleetness.md)**: You can call upon the spirits of the air to grant agility to your allies.
 
 ## 4th-Level Ranger Spells
 
@@ -295,9 +301,11 @@
 - **[Sea Stallion](sea-stallion.md)**: You and your mount adapt to an aquatic environment.
 - **[Shield of Dawn](shield-of-dawn.md)**: A disk of sunlight burns those who strike you in melee.
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
+- **[Siege Scatter](siege-scatter.md)**: A roiling blast of rough rock and dirt scatters along the ground in the area, dealing 1d6 points of slashing d…
 - **[Sturdy Tree Fort](sturdy-tree-fort.md)**: Create a tree with a defensive fort within it.
 - **[Substitute Trail](substitute-trail.md)**: Make the targets’ trails look like another creature’s.
 - **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.
+- **[Summon Nature’s Ally 4](summon-natures-ally-4.md)**: This spell functions like summon nature’s ally I, except that you can summon one 4th-level creature, 1d3 3rd-l…
 - **[Summon Nature’s Ally IV](summon-natures-ally-iv.md)**: Summons creature to fight for you.
 - **[Tactical Formation](tactical-formation.md)**: Adjacent allies gain a deflection bonus to AC.
 - **[Terrain Bond](terrain-bond.md)**: Treat the terrain you are in as a favored terrain for the spell’s duration.

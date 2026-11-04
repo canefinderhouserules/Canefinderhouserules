@@ -1061,3 +1061,29 @@ Some paladins devote themselves to locating constructs that are used for evil or
 **Aura of Unmaking (Su)**: At 14th level, her weapons are treated as adamantine for overcoming damage reduction, and so is any attack against an enemy within 10 feet of her. This works only while she is conscious. This replaces aura of faith.
 
 **Champion of Unmaking (Su)**: At 20th level, her damage reduction increases to 10/evil. Whenever she uses smite construct and hits a construct, she can attempt to destroy it: it is reduced to 0 hit points and destroyed unless it succeeds at a Will save (DC = 10 + half her level + her Charisma modifier). After this effect and the attack's damage are resolved, the smite ends. In addition, whenever she channels positive energy or uses lay on hands to heal a creature, she heals the maximum possible amount. This replaces holy champion.
+
+## Forge God’s Seeker (Paladin)
+
+the god of the forge constantly seeks those who would use the power of creation to threaten or harm others. To this end, he sends his seekers to locate constructs that are used for evil or that become uncontrollable. These paladins are adept at battling constructed foes and guarding those threatened by such creations.
+
+**the god of the forge Worshiper**: A Forge God’s seeker must select the god of the forge as her patron deity.
+
+**Detect Construct (Sp)**: A Forge God’s seeker can detect the presence of constructs at will. This functions as the spell *aura sight*, except the duration is 1 round and a Forge God’s seeker learns the locations and power of all auras of all constructs, similar to* detect undead*.
+
+This replaces detect evil.
+
+**Smite Construct (Su)**: This ability functions as the paladin’s smite evil ability, but it functions only against constructs. Smiting a construct automatically bypasses any DR or hardness a construct might have. A Forge God’s seeker can still smite evil, but she adds only half her Charisma bonus on attack rolls, adds only half of her level on damage rolls, and doesn’t increase her bonus damage against outsiders with the evil subtype, evil-aligned dragons, or undead. This otherwise functions as smite evil for the purposes of feats, prerequisites, and other effects.
+
+This alters smite evil.
+
+**Aura of Destruction (Su)**: At 11th level, a Forge God seeker grants her allies smite construct with her aura of justice ability instead of smite evil.
+
+This alters aura of justice.
+
+**Aura of Unmaking (Su)**: At 14th level, a Forge God’s seeker’s weapons are treated as adamantine for the purpose of overcoming damage reduction. Any attack made against an enemy within 10 feet of her is treated as adamantine for the purpose of overcoming damage reduction. This ability functions only while a Forge God’s seeker is conscious, not if she is unconscious or dead.
+
+This replaces aura of faith.
+
+**Forge God’s Champion (Su)**: At 20th level, a Forge God’s seeker becomes capable of completely dismantling constructs. Her DR increases to 10/evil. Whenever she uses smite construct and hits a construct, she can immediately attempt to destroy the construct. The construct is reduced to 0 hit points and destroyed unless it succeeds at a Will save (DC = 10 + half the Forge God’s seeker’s level + the Forge God’s seeker’s Charisma modifier). After this destruction effect and the damage from the attack is resolved, the smite immediately ends. In addition, whenever a Forge God’s seeker channels positive energy or uses lay on hands to heal a creature, she heals the maximum possible amount.
+
+This replaces holy champion.

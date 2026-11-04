@@ -291,3 +291,27 @@ At 11th level, whenever the kineticist has at least 5 points of burn, the blight
 At 16th level, whenever a blightburner has at least 7 points of burn, any creature that takes damage from the blightburn aura and fails its Fortitude save also become fatigued. This ability replaces the ability score boosts granted by elemental overflow and earth’s elemental defense, but the blightburner can still gain elemental defenses from other elements with expanded defense.
 
 **Radiation Resistance (Su)**: At 6th level, a blightburner becomes resistant to all forms of radiation, and can use the radiation’s energy as gathered power. She gains a bonus on saving throws to resist the effects of radiation equal to her elemental overflow bonus. When she succeeds at a save against radiation, she can reduce the total burn cost of a blast wild talent used before the end of her next turn as if she had gathered power with a move action. Once she gains this benefit, she can’t do so again for 1 minute, even if she’s exposed to radiation again before that. She can’t use this ability if she’s immune to poison or radiation. A blightburner gains an internal buffer at 11th level, and it has a capacity as if she were 5 levels lower. This ability alters gather power and internal buffer.
+
+## Aquakinetcist (Kineticist)
+
+While all hydrokineticists have the ability to control water, aquakineticists’ powers are tied to their determination to explore the world beneath the waves.
+
+**Aquatic Focus**: An aquakineticist must choose water as her primary element and for both expanded elements, and must choose water blast as her first simple blast.
+
+This ability alters expanded element.
+
+**Basis Aquakinesis (Sp)**: An aquakineticist can create mild currents, as per basic hydrokinesis. Additionally, she can adjust her buoyancy to whatever level she wishes as a standard action, lasting until she uses basic aquakinesis again.
+
+This ability replaces basic hydrokinesis as her basic utility talent, and alters elemental focus.
+
+**Call of the Deep**: At 2nd level, an aquakineticist gains waterdancer as a bonus utility wild talent. At 6th level, she gains watersense as a bonus utility wild talent, and she can choose to ignore the effects of currents with speeds up to 60 feet while her waterdancer ability is active.
+
+This replaces the 2nd and 6th level utility wild talents.
+
+**Ocean’s Caress (Su)**: At 2nd level, an aquakineticist can breathe underwater as easily as she breathes air, and she gains cold adaptation as a bonus utility wild talent, adding half her kineticist level to her cold resistance from cold adaptation. By accepting 1 point of burn, she can increase her cold resistance by an additional 3, stacking with the resistance she gains from cold adaptation. If her total cold resistance from this ability would ever be 40 or higher, she gains cold immunity instead. All cold resistance and immunity from this ability also applies to pressure damage, and she adjusts to a new pressure all at once after making five Fortitude saves, rather than 100 feet at a time (see Pressure on page 48). Whenever she accepts burn while using a water wild talent, the water coalescing around her doubles her cold resistance for 1 round (which might trigger cold immunity). She can dismiss or restore this effect as an immediate action.
+
+This ability replaces the defense wild talent from elemental defense.
+
+**Ice Propagation (Su)**: At 7th level, an aquakineticist’s connection to the water around her allows her greater control over the ice formed by her cold attacks. When using her cold blast underwater (which freezes water into ice and deals half piercing damage; see cold spells on page 46), she can make the cold blast a physical blast and apply any form or substance infusions that she could apply to an ice composite blast. This still deals damage as per a simple physical blast, not a composite blast.
+
+This ability alters her cold simple blast.

@@ -22,6 +22,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Life Conduit](life-conduit.md)**: You are bound even tighter to your eidolon than normal, and may share hit points with it through your life link ability.
 - **[Lighten Object](lighten-object.md)**: Halve an object’s weight.
 - **[Lucky Number](lucky-number.md)**: When the target rolls a chosen number it can reroll or add +2 luck.
+- **[Murderous Crow](murderous-crow.md)**: You conjure a supernaturally vicious and clever crow to watch over you on the battlefield.
 - **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Planar Orientation](planar-orientation.md)**: Points you toward the seat of the ruler of the plane you are on.
 - **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
@@ -68,6 +69,8 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Restore Eidolon, Lesser](restore-eidolon-lesser.md)**: Lesser restoration for an eidolon.
 - **[Shackle](shackle.md)**: Conjure manacles or fetters.
 - **[Slick Walls](slick-walls.md)**: Walls and ceilings become much harder to climb.
+- **[Summon Cacodaemon](summon-cacodaemon.md)**: This spell functions like summon monster, except it summons a single cacodaemon.
+- **[Summon Monster 2](summon-monster-2.md)**: This spell functions like summon monster I, except that you can summon one creature from the 2nd-level list or…
 - **[Twisted Space](twisted-space.md)**: Targeted creature’s attacks target a random square instead of the intended target.
 - **[Unseen Engineers](unseen-engineers.md)**: Invisible engineers build a mechanical trap.
 - **[Venomous Bite](venomous-bite.md)**: Target's bite delivers a stored poison.
@@ -93,11 +96,13 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Deft Digits](deft-digits.md)**: Animate a glove to manipulate objects at a distance.
 - **[Draconic Ally](draconic-ally.md)**: Create an intelligent draconic servant.
 - **[Fiendish Wrath](fiendish-wrath.md)**: Willing creatures enter a combat frenzy and can rend.
+- **[Fleshwarping Swarm (Drow)](fleshwarping-swarm-drow.md)**: This spell functions as summon swarm, except that living and undead creatures that fail their saving throw aga…
 - **[Glimpse the Hidden](glimpse-the-hidden.md)**: As *see invisibility*, but cannot be made permanent.
 - **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
 - **[Infernal Challenger](infernal-challenger.md)**: Call a bearded devil to duel one challenger.
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Insect Spies](insect-spies.md)**: Use magic beetles as spies.
+- **[Invisibility Bubble, Giant](invisibility-bubble-giant.md)**: This functions as per invisibility bubble, but the bubble is larger, which allows you to target a creature of …
 - **[Irradiate](irradiate.md)**: Flood an area with radiation.
 - **[Knell of the Depths](knell-of-the-depths.md)**: Curse: the target sinks in water.
 - **[Leshy Swarm](leshy-swarm.md)**: Summon a swarm of Tiny leshys.
@@ -126,7 +131,9 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Siphon Might](siphon-might.md)**: Drains target's Strength and grants it to an ally.
 - **[Speak with Plane](speak-with-plane.md)**: Question a sentient plane.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
+- **[Summon Cacodaemon, Greater](summon-cacodaemon-greater.md)**: This spell functions like summon cacodaemon, except that it summons 1d4+1 cacodaemons.
 - **[Summon Genie, Lesser](summon-genie-lesser.md)**: Summons a janni.
+- **[Summon Monster 4](summon-monster-4.md)**: This spell functions like summon monster I, except that you can summon one creature from the 4th-level list, 1…
 - **[Summon Ship](summon-ship.md)**: conjure a ship
 - **[Summon Totem Creature](summon-totem-creature.md)**: Summon creatures sacred to your totem clan.
 - **[Sundered Serpent Coil](sundered-serpent-coil.md)**: Summon a grappling serpent coil
@@ -143,6 +150,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Anywhere But Here](anywhere-but-here.md)**: Transport yourself and willing creatures to a random planar destination
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Bestow Planar Infusion II](bestow-planar-infusion-ii.md)**: Grant a target the effects of an improved planar infusion
+- **[Bind Sage](bind-sage.md)**: This variant of planar binding is specifically used to call one of the most knowledgeable types of outsiders: …
 - **[Blood Tentacles](blood-tentacles.md)**: Blood tentacles attack and heal you.
 - **[Calm Air](calm-air.md)**: Calms winds and disperses fog.
 - **[Caustic Blood](caustic-blood.md)**: Wounds spray acid at attackers.
@@ -174,9 +182,11 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Skeleton Crew](skeleton-crew.md)**: Animates corpses as skeleton sailors.
 - **[Stoneskin, Communal](stoneskin-communal.md)**
 - **[Summon Accuser](summon-accuser.md)**: Summons an accuser devil to spy for you.
+- **[Summon Ceustodaemon](summon-ceustodaemon.md)**: This spell functions like summon monster, except it summons a single ceustodaemon.
 - **[Summon Genie](summon-genie.md)**: Summons a djinni or janni.
 - **[Summon Lesser Demon](summon-lesser-demon.md)**: Summons one of several minor demons.
 - **[Summon Lesser Psychopomp](summon-lesser-psychopomp.md)**: Summons esobok or nosoi psychopomps.
+- **[Summon Monster 5](summon-monster-5.md)**: This spell functions like summon monster I, except that you can summon one creature from the 5th-level list, 1…
 - **[Summon Stampede](summon-stampede.md)**: A conjured herd tramples everything in its straight-line path.
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
 - **[Surface Excursion](surface-excursion.md)**: Teleport to the surface directly above you, with a beacon to return.
@@ -215,6 +225,8 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Straitjacket](straitjacket.md)**: Restrain a creature’s arms and grant it a second saving throw against certain magic.
 - **[Summon Genie, Greater](summon-genie-greater.md)**: Summons a shaitan, djinn or janni.
 - **[Summon Infernal Host](summon-infernal-host.md)**: Summons 1d4+1 lesser host devils or 1 greater host devil.
+- **[Summon Monster 6](summon-monster-6.md)**: This spell functions like summon monster I, except you can summon one creature from the 6th-level list, 1d3 cr…
+- **[Summon Monster 7](summon-monster-7.md)**: This spell functions like summon monster I, except that you can summon one creature from the 7th-level list, 1…
 - **[Summon Vanth](summon-vanth.md)**: Summons a vanth psychopomp.
 - **[Tar Pool](tar-pool.md)**: Converts the top layer of the ground into hot tar.
 - **[Unleash Pandemonium](unleash-pandemonium.md)**: Howling winds deafen and frighten creatures in an area.
@@ -246,8 +258,11 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Planetary Adaptation, Mass](planetary-adaptation-mass.md)**: As planetary adaptation, on many creatures.
 - **[Plundered Power](plundered-power.md)**: Kill a creature and steal its strongest spell-like ability.
 - **[Shadow Transmutation](shadow-transmutation.md)**: mimics a polymorph or size-changing spell with shadow-stuff
+- **[Summon Erodaemon](summon-erodaemon.md)**: This spell functions like summon monster, except it summons a single erodaemon.
 - **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.
 - **[Summon Laborers](summon-laborers.md)**: Summon petitioners to help downtime work
+- **[Summon Meladaemon](summon-meladaemon.md)**: This spell functions like summon monster, except it summons a single meladaemon.
+- **[Summon Monster 8](summon-monster-8.md)**: This spell functions like summon monster I, except that you can summon one creature from the 8th-level list, 1…
 - **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
 - **[Uncanny Reminder](uncanny-reminder.md)**: Conjure a living memory that attacks and unsettles the target.
 - **[Vermicious Assumption](vermicious-assumption.md)**: A vermlek demon inhabits a corpse and may serve you.

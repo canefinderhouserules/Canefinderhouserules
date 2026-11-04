@@ -1,0 +1,11 @@
+# Summon Nature’s Ally 2
+
+**School** conjuration (summoning); **Level** druid 2, ranger 2, shaman 2  
+**Casting Time** 1 round  
+**Components** V, S, DF  
+**Range** close (25 ft. + 5 ft./2 levels)  
+**Effect** one summoned creature  
+**Duration** 1 round/level (D)  
+**Saving Throw** none; **Spell Resistance** no
+
+This spell functions as *summon nature’s ally I*, except that you summon one 2nd-level creature or 1d3 1st-level creatures of the same kind.

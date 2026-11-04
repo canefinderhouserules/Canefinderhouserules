@@ -264,6 +264,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Litany of Warding](litany-of-warding.md)**: You gain two additional attacks of opportunity for 1 round.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
 - **[Meticulous Match](meticulous-match.md)**: Determine if two things are identical.
+- **[Miasmal Dread](miasmal-dread.md)**: A cloud of sickly green mist pours from your mouth and coalesces around creatures in the cone.
 - **[Moonrise Arrow](moonrise-arrow.md)**: Ammunition counts as magic and silver and harms incorporeal undead and shapechangers.
 - **[Night of Blades](night-of-blades.md)**: Wall of whirling blades.
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
@@ -274,6 +275,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Raven's Flight](ravens-flight.md)**: Become a Tiny raven shape with fly speed 50 ft. for one turn.
 - **[Reaper's Coterie](reapers-coterie.md)**: Weapon gains profane damage bonus for each kill.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
+- **[Respectful Quiet](respectful-quiet.md)**: All targets are rendered silent, as per silence.
 - **[Retributive Reparations](retributive-reparations.md)**: Thieves of the warded item grow fatigued, then exhausted.
 - **[Righteous Condemnation](righteous-condemnation.md)**: Nongood, nonlawful spellcasters who target you take penalties on mental ability checks.
 - **[Riversight](riversight.md)**: Scry along a river you touch.
@@ -333,6 +335,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Healing Flames](healing-flames.md)**: Holy flames heal good creatures and burn evil ones.
 - **[Healing Warmth](healing-warmth.md)**: This spell grants you temporary immunity to fire damage as protection from energy.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
+- **[Horseman of Death’s Dispensation](horseman-of-deaths-dispensation.md)**: The target of this spell gains immunity to the harmful effects of touching or drinking from the River Styx and…
 - **[Interrogation, Greater](interrogation-greater.md)**: As interrogation, except with more pain and more questions. Leashed Shackles : Target is restricted to a specific location.
 - **[Judgment Light](judgment-light.md)**: You gain an additional effect while a judgment is active.
 - **[Litany of Admonition](litany-of-admonition.md)**: Stagger a creature by pointing out its failures.
@@ -345,6 +348,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Peacebond, Greater](peacebond-greater.md)**: As *peacebond*, but on multiple weapons, even if they aren’t sheathed.
 - **[Perceive Betrayal](perceive-betrayal.md)**: Sense traitorous intent toward your liege.
 - **[Positive Pulse, Greater](positive-pulse-greater.md)**: A large pulse of positive energy damages undead and bolsters living creatures
+- **[Probe History](probe-history.md)**: You gain a glimpse of a potential reality similar to this one but that never was.
 - **[Protection from Energy, Communal](protection-from-energy-communal.md)**: As protection from energy, but you may divide the duration among creatures touched.
 - **[Quieting Weapons](quieting-weapons.md)**: Weapons make no sound and quiet their victims.
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.

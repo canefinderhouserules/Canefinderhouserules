@@ -941,3 +941,13 @@ Clocksmiths pursue the study and creation of clockwork constructs to near obsess
 **Craft Construct**: A clocksmith gains Craft Construct as a bonus feat, even if he does not meet the prerequisites. He can create any construct, but increases the cost to create constructs without the clockwork subtype by 50%. This replaces Scribe Scroll.
 
 **Familiar Tinkering (Ex)**: At 5th level, a clocksmith can grant his familiar 1 evolution point's worth of eidolon evolutions for every 5 wizard levels he has, though he cannot select any evolution that requires a specific base form. Each time he gains a level, he can change his familiar's evolutions. These evolutions stack with those from the Evolved Familiar feat. This replaces the bonus feats gained at 5th, 10th, 15th, and 20th levels.
+
+## Great City: Great Arcane College Crafter (Wizard)
+
+The most famous magical college of the central sea region, the great arcane college of the great city teaches a broad array of specialties, but its most intensive specialty is no specialization at all. It is one of the primary training academies of universalist magic on the world, and the wizards who graduate from the school become well respected, well paid, and highly soughtafter in their homelands. An great arcane college crafter is one of the builders of the arcane world, assembling magic items with facility, skill, and power. He is intimately familiar with the craft and practice of imbuing items with arcane power, and works with precision even early in his career to help create some of the most powerful magic items of the world.
+
+**Associated School**: Universalist.
+
+**Replacement Power**: The following school power replaces the hand of the apprentice power of the universalist school.
+
+**Metacharge (Ex)**: As an great arcane college crafter, you gain a bonus feat at 3rd level, which must be an item creation feat or metamagic feat. You must still meet all prerequisites for a bonus feat, including caster level minimums. When using metamagic feats to create magic items, your skill and understanding of the principles involved in the item’s creation give you a +2 bonus on the skill check made to create the item.

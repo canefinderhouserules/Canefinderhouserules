@@ -719,3 +719,31 @@ Priest-judges presided over justice in a fallen realm, driven by a zeal for disc
 **Power of the Unknown**: A channeler of the unknown has lost the benefit of the domains granted by her deity, but the unknown entity that answers her supplications instead grants her the benefits of one domain from the following list: Darkness, Destruction, Luck, Madness, or Void. Instead of a single domain spell slot, the channeler of the unknown gains two domain spell slots per spell level she can cast. A channeler of the unknown cannot select a subdomain in place of the domain available to her. This alters the cleric's domains.
 
 **Spontaneous Casting**: Instead of converting prepared spells into *cure* or *inflict* spells, a channeler of the unknown can channel stored spell energy into her domain spells. She can lose a prepared spell, including a domain spell, to spontaneously cast a domain spell of the same spell level or lower. This alters spontaneous casting.
+
+## Crusader Priest (Cleric)
+
+People of high and low character flock to the crusader land for glory, plunder, or the desire to slay demons from the demonic rift. Crusade-minded clerics of the goddess of valor, the god of battle, and other churches come to the crusader land, learn battlefield tactics and the weaknesses of demons, and strike out to make a name for themselves. A crusader priest has the following class features.
+
+**Weapon and Armor Proficiency**: A crusader priest is proficient with all simple weapons, light armor, medium armor, heavy armor, shields (except tower shields), and the favored weapon of her deity.
+
+**Diminished Spellcasting**: A crusader priest chooses only one domain from her deity’s list of domains rather than the normal two domains. In all other respects, this works like and replaces the standard cleric domain ability.
+
+**Demonic Knowledge (Ex)**: At 1st level, when making Knowledge (planes) checks regarding demons, demonic cults, and their magic, a crusader priest gains a bonus on the check equal to half her class level (minimum +1) and can make these Knowledge skill checks untrained.
+
+**Teamwork Feat**: At 4th level and 8th level, the crusader priest gains a bonus feat. This must be a teamwork feat, Alignment Channel, Greater Spell Penetration, Leadership, or Spell Penetration. The cleric must meet the prerequisites of the selected bonus feat.
+
+## Divine Paragon (Cleric)
+
+Divine paragons strive to emulate their god’s ideals as closely as possible. They might see themselves as an incarnation of their deity in the flesh, or they could simply seek to embody the physical and spiritual ideals set forth by their deity. Many divine paragons go as far as to alter their appearance, as best as possible, to look similar to their chosen deity, but such a level of devotion is not required by the archetype.
+
+**Devoted Domain**: A divine paragon is intensely devoted to a single deity, and her alignment must be identical to her deity’s alignment. She gains Deific Obedience as a bonus feat, even if she doesn’t meet the feat’s prerequisites. She gains access to her boons at an accelerated rate (see below) rather than the standard HD-based rate granted by Deific Obedience (and as such cannot benefit from the accelerated rate granted by the Diverse Obedience feat).
+
+When the divine paragon selects her domains, she must designate one of the two domains she gains as her devoted domain. She gains all of this domain’s granted powers and domain spells normally. For her other domain, she gains only its domain spells—she does not gain any of the granted powers of that domain. Instead, she must choose from the evangelist, exalted, or sentinel boons granted by her deity (as detailed in *Pathfinder Campaign Setting: central sea Gods*). At 5th level, she gains access to the first boon granted by her deity. At 11th level, she gains access to the second boon. At 14th level, she gains access to the third boon.
+
+In order to retain access to her domain spells, the domain powers of her devoted domain, and the boons granted by Deific Obedience, the divine paragon must perform her obedience daily. If she fails to do so, she loses access to these abilities until she next performs her obedience (but she can still cast spells, channel energy, and perform other abilities granted by her cleric levels).
+
+This ability alters domains.
+
+**Divine Brand (Ex)**: At 1st level, a mark appears somewhere on the divine paragon’s body. The mark’s location varies by individual and faith, but takes the form of the deity’s holy symbol and generally appears in a location easy to display, such as on the hand, forearm, chest, or face. An uncovered divine brand functions as a holy (or unholy) symbol and as a divine focus for spellcasting. The divine paragon’s aura is even more powerful than a typical cleric’s as a result of her devotion, and her cleric level is treated as 1 higher for the purpose of determining the strength of her aura when it is viewed by spells like detect good.
+
+This ability alters aura.

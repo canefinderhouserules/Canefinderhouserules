@@ -81,6 +81,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[False Age](false-age.md)**: Appear one age category older or younger.
 - **[Fiery Runes](fiery-runes.md)**: Weapon rune deals fire damage when discharged.
 - **[Fire Sneeze](fire-sneeze.md)**: Sneeze cones of fire and wind.
+- **[Fire’s Friend](fires-friend.md)**: You cloak yourself in flames that do not harm you or your carried equipment but damage other creatures and obj…
 - **[Flesh Facade](flesh-facade.md)**: Make an undead look alive
 - **[Full Pouch](full-pouch.md)**: Duplicate an alchemical item as you draw it.
 - **[Fungal Blisters](fungal-blisters.md)**: Blisters on your body burst into harmful spores when you are hit.
@@ -150,6 +151,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Fiendish Wrath](fiendish-wrath.md)**: Willing creatures enter a combat frenzy and can rend.
 - **[Fire Trail](fire-trail.md)**: When you cast this spell, flammable liquid oozes from your pores, dripping onto the ground and spontaneously.
 - **[Glimpse the Hidden](glimpse-the-hidden.md)**: As *see invisibility*, but cannot be made permanent.
+- **[God of Good Dragons’s Shining Scales](god-of-good-dragonss-shining-scales.md)**: You envelop your body with silver radiance that manifests as scales surrounding your body, granting you a +5 a…
 - **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
 - **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
 - **[Infuse Self](infuse-self.md)**: Assume the form of a native outsider
@@ -188,6 +190,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Age Resistance](age-resistance.md)**: Ignore penalties from old age.
 - **[Assume Appearance, Greater](assume-appearance-greater.md)**: Use a likeness to adopt a dead creature’s form.
 - **[Bit of Luck](bit-of-luck.md)**: reservoir of luck points for attack rolls and skill checks
+- **[Bleaching Resistance](bleaching-resistance.md)**: Ability score drain from the Bleaching doesn’t affect your ability score modifiers while you’re affected by th…
 - **[Blightburn Weapon](blightburn-weapon.md)**: Turn a weapon into radioactive blightburn.
 - **[Caustic Blood](caustic-blood.md)**: Wounds spray acid at attackers.
 - **[Concealed Breath](concealed-breath.md)**: Touched creatures need not breathe.
@@ -251,6 +254,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 ## 6th-Level Alchemist Spells
 
 - **[Baleful Shadow Transmutation](baleful-shadow-transmutation.md)**: a target's shadow tricks it into believing it is another creature
+- **[Borrowed Time](borrowed-time.md)**: A creation of the archmage the archmage’s realm, this spell allows you to reach ahead in time and draw alacrit…
 - **[Caging Bomb Admixture](caging-bomb-admixture.md)**: Your bombs create a cage of force that traps creatures inside the bomb’s splash radius.
 - **[Fey Form III](fey-form-iii.md)**: Assume the form of a Diminutive or Huge fey creature.
 - **[Form of the Alien Dragon I](form-of-the-alien-dragon-i.md)**: Become a Medium esoteric or outer dragon.

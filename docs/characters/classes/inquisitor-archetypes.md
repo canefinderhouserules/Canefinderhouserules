@@ -1055,3 +1055,49 @@ This ability modifies judgment, second judgment, and third judgment.
 **Feywatcher (Ex)**: Resistant to the tricky ways of other fey, a fey-sworn gains the resist nature's lure druid class feature. This replaces solo tactics.
 
 **Magic of the Fey Court**: At 3rd level and every 3 levels thereafter, a fey-sworn gains a bonus spell slot of the highest spell level she can cast, and she learns the corresponding spell listed for her domain as a bonus spell known. She can use this bonus spell slot only to cast the domain spell of that level. This replaces all teamwork feats.
+
+## Sworn of the Fey Lords (Inquisitor)
+
+Sworn of the fey lords are gathlains who have pledged their loyalty to one of fey lords of the fey realm. Although the fey lords rarely have adherents as other deities do, they still occasionally require mortal agents to advance their aims. Sworn of the fey lords consider their chosen fey lords to be akin to powerful patrons or fey royalty and serve them faithfully.
+
+**Whimsical Worship (Ex)**: A sworn of the fey lords uses her Charisma modifier, rather than her Wisdom modifier, to determine all class features and effects relating to her inquisitor class, including her spells, cunning initiative, and true judgment abilities.
+
+**Deity**: A sworn of the fey lords must select one of the fey lords as a deity and must select a domain or subdomain of that fey lords for her domain ability; she cannot be devoted to an ideal or philosophy.
+
+This alters domain.
+
+**Disarming Discernment (Ex)**: A sworn of the fey lords adds her Charisma modifier on Sense Motive skill checks, in addition to her Wisdom modifier.
+
+This replaces monster lore.
+
+**Feytongue (Ex)**: A sworn of the fey lords receives a morale bonus equal to half her inquisitor level (minimum +1) on Bluff and Diplomacy checks.
+
+This replaces stern gaze.
+
+**Feywatcher (Ex)**: Resistant to the tricky ways of other fey, a sworn of the fey lords gains the resist nature’s lure druid class feature.
+
+This replaces solo tactics.
+
+**Magic of the fey lords**: At 3rd level and every 3 levels thereafter, a sworn of the fey lords gains a bonus spell slot of the highest spell level she can cast, and she learns the corresponding spell listed for her domain as a bonus spell known. She can use this bonus spell slot only to cast the domain spell of that level.
+
+This replaces all teamwork feats.
+
+## Ravener Hunter (Inquisitor)
+
+Throughout the southern jungle, cults of the ape demon lord pollute the pristine jungle with demonic influence and wanton bloodshed. For generations, the catfolk of a catfolk city have viewed such faiths with loathing and hatred, and they believe it is their sacred duty to hunt down the followers of the Ravener King and expel them from the Material Plane.
+
+**Alignment**: Any nonevil.
+
+**Charged by Nature**: Rather than having a deity patron, a ravener hunter is charged by the spirits of the southern jungle to eradicate evil wherever it appears. At 1st level, a ravener hunter chooses an oracle mystery from the following list: ancestor, battle, flame, heavens, life, lunar, nature, solar, stone, time, volcano , waves, wind, or wood. She gains one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.
+
+This ability replaces domain.
+
+**Holy Magic**: A ravener hunter adds all spells of 6th-level and lower on the cleric spell list with the good descriptor to her inquisitor spell list as inquisitor spells of the same level. If a spell appears on both the cleric and inquisitor spell lists, the ravener hunter uses the lower of the two spell levels listed for the spell. She cannot cast 2 with the chaotic, evil, or lawful descriptors, even from spell trigger or spell completion items.
+
+This ability alters the inquisitor’s spells.
+
+**Demon Hunter**: At 3rd level, a ravener hunter gains Demon Hunter as a bonus feat, ignoring its prerequisites. She also gains a +2 bonus on Knowledge (religion) checks to recognize the worshipers of any deity with the Demon subdomain, as well as a +2 morale bonus on attack rolls and caster level checks to overcome spell resistance of creatures that she recognizes as followers of such a deity.
+
+This ability replaces the teamwork feat gained at 3rd level.
+
+**Solo Tactics (Ex)**: A ravener hunter gains this ability at 6th level instead of 3rd level.

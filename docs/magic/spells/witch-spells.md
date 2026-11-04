@@ -77,6 +77,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Lucky Number](lucky-number.md)**: When the target rolls a chosen number it can reroll or add +2 luck.
 - **[Marid’s Mastery](marid-s-mastery.md)**: School transmutation [water]; Level cleric 1, druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Mudball](mudball.md)**: When you cast this spell, you conjure a single ball of sticky mud and launch it at an enemy’s face as a.
+- **[Murderous Crow](murderous-crow.md)**: You conjure a supernaturally vicious and clever crow to watch over you on the battlefield.
 - **[Nature's Paths](natures-paths.md)**: Find the fastest way through the wilderness
 - **[Negative Reaction](negative-reaction.md)**: Targeted creature may not positively influence anyone.
 - **[Nereid’s Grace](nereid-s-grace.md)**: You radiate the unearthly grace of a nereid.
@@ -221,6 +222,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Hold Fey](hold-fey.md)**: As *hold person*, but affects a fey.
 - **[Ice Slick](ice-slick.md)**: Coat the area in slippery ice and cold damage
 - **[Identifier's Eye](identifiers-eye.md)**: Detect magic and +5 on Spellcraft to identify items.
+- **[Illusory Maze](illusory-maze.md)**: This spell creates the illusion of a translucent, ever-changing maze of glass in the target area.
 - **[Influence Wild Magic](influence-wild-magic.md)**: Roll twice on wild magic effects and choose.
 - **[Intensify Psyche](intensify-psyche.md)**: +2 on social checks and emotion DCs, –2 on saves against emotion and pain.
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
@@ -289,6 +291,8 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Steal Voice](steal-voice.md)**: Target gains the croaking spellblight.
 - **[Storm Sight](storm-sight.md)**: Sense creatures caught in a storm.
 - **[Storm Trident](storm-trident.md)**: Wield a trident of electricity.
+- **[Summon Cacodaemon](summon-cacodaemon.md)**: This spell functions like summon monster, except it summons a single cacodaemon.
+- **[Summon Monster 2](summon-monster-2.md)**: This spell functions like summon monster I, except that you can summon one creature from the 2nd-level list or…
 - **[Sun’s Disdain](suns-disdain.md)**: Target is hurt by sunlight.
 - **[Symbol of Mirroring](symbol-of-mirroring.md)**: Triggered rune creates mirror images.
 - **[Tattoo Potion](tattoo-potion.md)**: Turn a potion into a spell tattoo.
@@ -365,6 +369,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Find Fault](find-fault.md)**: Learn a creature's weaknesses and gain +5 on your first attack.
 - **[Fins to Feet](fins-to-feet.md)**: School transmutation (polymorph); Level druid 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard action.
 - **[Flash Fire](flash-fire.md)**: Ammunition in the targeted firearm creates a tremendous flash capable of blinding the weapon’s bearer and those around him.
+- **[Fleshwarping Swarm (Drow)](fleshwarping-swarm-drow.md)**: This spell functions as summon swarm, except that living and undead creatures that fail their saving throw aga…
 - **[Flexile Curse](flexile-curse.md)**: Curse degrades worn armor and shields.
 - **[Forced Mutation](forced-mutation.md)**: Twist a creature, imposing penalties and a deformity.
 - **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
@@ -402,6 +407,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
 - **[Mark of Spite](mark-of-spite.md)**: Hurt yourself to deal double damage to the marked foe.
 - **[Matchmaker](matchmaker.md)**: Cause two creatures to fall in love.
+- **[Mind Maze](mind-maze.md)**: This spell causes the target to act as though it’s wandering through a maze.
 - **[Mirror Sight](mirror-sight.md)**: See through another mirror, or the reflection of a known person or place.
 - **[Motes of Dusk and Dawn](motes-of-dusk-and-dawn.md)**: up to four motes that shed light or darkness
 - **[Nature’s Ravages](natures-ravages.md)**: Rapidly decomposes a corpse.
@@ -453,6 +459,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Steal Years](steal-years.md)**: drain years from a target to make yourself younger
 - **[Storm Step](storm-step.md)**: teleport short distance as a bolt of lightning
 - **[Strangling Hair](strangling-hair.md)**: Your hair animates and grapples.
+- **[Summon Monster 3](summon-monster-3.md)**: This spell functions like summon monster I, except that you can summon one creature from the 3rd-level list, 1…
 - **[Sundered Serpent Coil](sundered-serpent-coil.md)**: Summon a grappling serpent coil
 - **[Swarm of Fangs](swarm-of-fangs.md)**: Summon a swarm of flying teeth
 - **[Symbol of Exsanguination](symbol-of-exsanguination.md)**: Triggered rune causes nearby creatures to bleed.
@@ -506,6 +513,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Crimson Breath](crimson-breath.md)**: Spit a dose of breath of the assassin poison.
 - **[Curse of Magic Negation](curse-of-magic-negation.md)**: Target gains the negated spellblight.
 - **[Curse Terrain](curse-terrain.md)**: Curse an area with four hazards.
+- **[Daemon Ward](daemon-ward.md)**: This spell functions like death ward, except as noted above and it only protects against these attacks from da…
 - **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
 - **[Deadman’s Contingency](deadmans-contingency.md)**: Set one of a list of contingencies for your demise.
 - **[Death Knell Aura](death-knell-aura.md)**: Aura kills dying creatures nearby
@@ -536,6 +544,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Hellmouth Lash](hellmouth-lash.md)**: Upon casting this spell, your tongue transforms into an energy whip weapon that can deal acid, electricity.
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
+- **[Horseman of Death’s Dispensation](horseman-of-deaths-dispensation.md)**: The target of this spell gains immunity to the harmful effects of touching or drinking from the River Styx and…
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
 - **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form
 - **[Infernal Healing, Greater](infernal-healing-greater.md)**: As *infernal healing*, but fast healing 4.
@@ -554,6 +563,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Mnemonic Siphon](mnemonic-siphon.md)**: rune that steals spells cast near an object
 - **[Monstrous Extremities](monstrous-extremities.md)**: Change limbs into tentacles, hooves, or wings.
 - **[Mydriatic Spontaneity](mydriatic-spontaneity.md)**: flashing light and dark nauseate and impair a target's sight
+- **[Necromancer’s Realm’s Hammer](necromancers-realms-hammer.md)**: Centuries of war with the archmage’s realm trained the necromancers of the necromancer’s realm to extract ever…
 - **[Numerological Evocation](numerological-evocation.md)**: Assign a dice pool to set energy type, targets, range and damage.
 - **[Object Possession, Lesser](object-possession-lesser.md)**: Project your soul into an object, animating it.
 - **[Phantasmal Asphyxiation](phantasmal-asphyxiation.md)**: Trick a creature into thinking it can’t breathe.
@@ -578,7 +588,9 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
 - **[Speak with Plane](speak-with-plane.md)**: Question a sentient plane.
 - **[Summon Accuser](summon-accuser.md)**: Summons an accuser devil to spy for you.
+- **[Summon Cacodaemon, Greater](summon-cacodaemon-greater.md)**: This spell functions like summon cacodaemon, except that it summons 1d4+1 cacodaemons.
 - **[Summon Genie, Lesser](summon-genie-lesser.md)**: Summons a janni.
+- **[Summon Monster 4](summon-monster-4.md)**: This spell functions like summon monster I, except that you can summon one creature from the 4th-level list, 1…
 - **[Symbol of Healing](symbol-of-healing.md)**: Triggered rune heals living creatures.
 - **[Symbol of Revelation](symbol-of-revelation.md)**: Triggered symbol reveals illusions.
 - **[Symbol of Slowing](symbol-of-slowing.md)**: Triggered rune slows creatures.
@@ -602,6 +614,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Arid Refuge](arid-refuge.md)**: conjure an air-filled stone shelter underwater
 - **[Awaken the Devoured](awaken-the-devoured.md)**: Memories of devoured souls torment a daemon
 - **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
+- **[Bind Sage](bind-sage.md)**: This variant of planar binding is specifically used to call one of the most knowledgeable types of outsiders: …
 - **[Blightburn Weapon](blightburn-weapon.md)**: Turn a weapon into radioactive blightburn.
 - **[Blood Boil](blood-boil.md)**: target's blood heats, causing fatigue, Constitution damage, and finally boiling damage
 - **[Blood Tentacles](blood-tentacles.md)**: Blood tentacles attack and heal you.
@@ -671,10 +684,12 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Sphere of Warding](sphere-of-warding.md)**: Sphere ejects possessors and harms incorporeal creatures
 - **[Steal Years, Greater](steal-years-greater.md)**: steal years with a longer duration and more years
 - **[Strip Scales](strip-scales.md)**: Reduce a creature's racial natural armor.
+- **[Summon Ceustodaemon](summon-ceustodaemon.md)**: This spell functions like summon monster, except it summons a single ceustodaemon.
 - **[Summon Genie](summon-genie.md)**: Summons a djinni or janni.
 - **[Summon Infernal Host](summon-infernal-host.md)**: Summons 1d4+1 lesser host devils or 1 greater host devil.
 - **[Summon Lesser Demon](summon-lesser-demon.md)**: Summons one of several minor demons.
 - **[Summon Lesser Psychopomp](summon-lesser-psychopomp.md)**: Summons esobok or nosoi psychopomps.
+- **[Summon Monster 5](summon-monster-5.md)**: This spell functions like summon monster I, except that you can summon one creature from the 5th-level list, 1…
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
 - **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As *sun’s disdain*, on multiple creatures.
 - **[Surface Excursion](surface-excursion.md)**: Teleport to the surface directly above you, with a beacon to return.
@@ -701,6 +716,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Baleful Shadow Transmutation](baleful-shadow-transmutation.md)**: a target's shadow tricks it into believing it is another creature
 - **[Betraying Sting](betraying-sting.md)**: Smite those who trusted you
 - **[Binding Earth, Mass](binding-earth-mass.md)**: School transmutation [earth]; Level druid 6, witch 6 Target one creature or object/level, no two of which can.
+- **[Bleaching Resistance](bleaching-resistance.md)**: Ability score drain from the Bleaching doesn’t affect your ability score modifiers while you’re affected by th…
 - **[Contact Nalfeshnee](contact-nalfeshnee.md)**: Telepathically question a nalfeshnee demon, risking ability drain.
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport near them.
 - **[Curse of the Outcast](curse-of-the-outcast.md)**: Curse someone to rub people the wrong way.
@@ -717,8 +733,10 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Fey Form II](fey-form-ii.md)**: Assume the form of a Tiny or Large fey creature.
 - **[Flesh Wall](flesh-wall.md)**: Create a wall of zombies.
 - **[Green Caress](green-caress.md)**: Slowly transform a creature into an inanimate plant.
+- **[Harrowing, Greater](harrowing-greater.md)**: This spell functions as harrowing, except it can affect an entire group of creatures and allows its subjects s…
 - **[Ice Crystal Teleport](ice-crystal-teleport.md)**: Target is frozen, then teleported.
 - **[Invoke Deity](invoke-deity.md)**: Infuse yourself with the powers of your deity's planar realm
+- **[Lash of the Astradaemon](lash-of-the-astradaemon.md)**: You draw on the essence of astradaemons to cause one of your hands to elongate and sprout fearsome translucent…
 - **[Lost Legacy](lost-legacy.md)**: Others forget positive interactions with the target.
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
 - **[Metabolic Molting](metabolic-molting.md)**: seven days of encased healing, even bringing back the recently dead
@@ -745,6 +763,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.
 - **[Summon Genie, Greater](summon-genie-greater.md)**: Summons a shaitan, djinn or janni.
 - **[Summon Laborers](summon-laborers.md)**: Summon petitioners to help downtime work
+- **[Summon Monster 6](summon-monster-6.md)**: This spell functions like summon monster I, except you can summon one creature from the 6th-level list, 1d3 cr…
 - **[Summon Vanth](summon-vanth.md)**: Summons a vanth psychopomp.
 - **[Symbol of Distraction](symbol-of-distraction.md)**: Symbol that fascinates creatures nearby.
 - **[Symbol of Sealing](symbol-of-sealing.md)**: Create triggered wall of force.
@@ -801,6 +820,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Shadow Body](shadow-body.md)**: Turn your body into a living shadow.
 - **[Soul Transfer](soul-transfer.md)**: Move or capture bodiless souls
 - **[Spell Scourge](spell-scourge.md)**: Strip harmless spells from a creature or confuse it.
+- **[Summon Monster 7](summon-monster-7.md)**: This spell functions like summon monster I, except that you can summon one creature from the 7th-level list, 1…
 - **[Temporal Divergence](temporal-divergence.md)**: Cast two spells, then choose which one actually happened.
 - **[Temporary Resurrection](temporary-resurrection.md)**: Bring a creature to life for 24 hours.
 - **[Umbral Strike](umbral-strike.md)**: a bolt of dark energy deals cold and negative damage and blinds
@@ -828,7 +848,11 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Rotting Alliance](rotting-alliance.md)**: Curse several creatures to waste away when near one another.
 - **[Secret Vault](secret-vault.md)**: As secret chest, but stores a whole chamber.
 - **[Share Skin, Greater](share-skin-greater.md)**: Possess any creature as with magic jar.
+- **[Soulreaver](soulreaver.md)**: Favored by the necromancer the necromancer’s realm as a tool to turn his enemies’ armies against themselves, t…
 - **[Soulseeker](soulseeker.md)**: Determine a soul's location
+- **[Summon Erodaemon](summon-erodaemon.md)**: This spell functions like summon monster, except it summons a single erodaemon.
+- **[Summon Meladaemon](summon-meladaemon.md)**: This spell functions like summon monster, except it summons a single meladaemon.
+- **[Summon Monster 8](summon-monster-8.md)**: This spell functions like summon monster I, except that you can summon one creature from the 8th-level list, 1…
 - **[Symbol of Debauchery](symbol-of-debauchery.md)**: Symbol that fills creatures with lust.
 - **[Symbol of Dispelling](symbol-of-dispelling.md)**: Symbol that dispels magic in an area.
 - **[Temporal Regression](temporal-regression.md)**: Return to a marked place and condition.
@@ -853,7 +877,10 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Rune of Order](rune-of-order.md)**: A rune stabilizes an area against chaos and drains chaotic creatures.
 - **[Scribe’s Binding](scribes-binding.md)**: Bind a creature and its memories into a book.
 - **[Shadow Transmutation, Greater](shadow-transmutation-greater.md)**: mimics greater polymorph with shadow-stuff
+- **[Spawn Calling](spawn-calling.md)**: Having attained the highest and most profane form of magical achievement in the Great Destroyer’s service, you…
 - **[Summon Greater Demon](summon-greater-demon.md)**: Summons a coloxus, omox or 1d3 kalavakus demons.
+- **[Summon Monster 9](summon-monster-9.md)**: This spell functions like summon monster I, except that you can summon one creature from the 9th-level list, 1…
+- **[Summon Thanadaemon](summon-thanadaemon.md)**: This spell functions like summon monster, except it summons a single thanadaemon.
 - **[Symbol of Strife](symbol-of-strife.md)**: Triggered rune makes creatures attack.
 - **[Symbol of Vulnerability](symbol-of-vulnerability.md)**: Triggered rune gives penalties.
 - **[Threefold Form](threefold-form.md)**: Split into three copies of yourself.

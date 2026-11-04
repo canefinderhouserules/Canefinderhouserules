@@ -1467,3 +1467,25 @@ Add Intimidate and Knowledge (arcana).
 **Wild Shape (Su)**: The druid does not gain her second daily use of her wild shape ability at level 6. Hereafter she has one fewer daily use of the ability than a standard druid of her level.
 
 **Venom Immunity (Ex)**: The druid does not gain this ability.
+
+## Moon-Phase City Adept (Druid)
+
+Moon-Phase City adepts learn the secret magic of the fey realm fey in the moving, reality-phasing city of Moon-Phase City, which appears on the new moon at seemingly random locations in a northern forest in the Lands of the sea kings. The most common deities worshiped by these druids are the Green Mother and the Lantern King, fey lords patrons of intrigue and trickery.
+
+**Moon-Phase City Skills**: A Moon-Phase City adept adds Bluff, Diplomacy, Disguise, Sense Motive, Perform (any), and Stealth to her list of class skills.
+
+This ability replaces nature sense.
+
+**Nature Bond (Su)**: A Moon-Phase City adept cannot select an animal companion, and can take only a domain. If she worships an fey lords, the Moon-Phase City trickster can choose any of the domains or subdomains granted by that fey lords in addition to those normally available to druids.
+
+This ability alters nature bond.
+
+**Animal Speech (Su)**: A Moon-Phase City adept can imbue normal animals with the ability to speak for a brief period. Once per day as a standard action, the Moon-Phase City adept can touch an animal to grant it the ability to speak any language the druid knows for 1 minute per druid level. This does not increase the animal’s Intelligence or improve its attitude, and the animal behaves as though communicating with someone under the effects of a *speak with animals* spell, save that it can speak with anyone who understands the language the Moon-Phase City adept grants it. The Moon-Phase City adept gains one additional use of this ability at 4th level and every 4 levels thereafter.
+
+This ability replaces spontaneous casting.
+
+**Resist Fey Influence (Ex)**: At 4th level, a Moon-Phase City adept gains a +4 bonus on saving throws against the spell-like and supernatural abilities of fey. Once per day before attempting such a saving throw, the Moon-Phase City adept can choose to roll two dice and take the better result, applying the +4 bonus as normal.
+
+This ability replaces resist nature’s lure.
+
+**Locate Moon-Phase City (Sp)**: At 9th level, a Moon-Phase City adept can cast *find the path* as a spell-like ability, but only to locate Moon-Phase City. The spell’s duration is extended until the druid reaches her destination or until Moon-Phase City recedes from the Material Plane at the end of the new moon. This ability can be used only once per month, during the new moon.

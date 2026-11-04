@@ -2250,3 +2250,27 @@ This effect can be used only defensively. Forcing the hemispherical barrier agai
 **Use**: 1 bardic performance round per minute.
 
 **Action**: 1 full round.
+
+## Voice of the Goddess of Invention (Bard)
+
+The goddess of invention sometimes sends inspiration to her favorite followers in the form of music. These songs hold the notes of creation and unmaking that allow her followers to affect constructs. The bards who learn these songs take on the title of Voice of the goddess of invention and typically play custom-made instruments that are themselves marvels of engineering and invention.
+
+**the goddess of invention’s Knowledge (Ex)**: A bard adds half his class level (minimum 1) as a bonus on Knowledge (arcana), Knowledge (dungeoneering), Knowledge (engineering), and Knowledge (religion) checks and can attempt these skill checks untrained. In addition, a Voice of the goddess of invention can affect constructs with his bardic performance, even if they would normally be immune to or unaffected by his performance.
+
+**Bardic Performance**: A Voice of the goddess of invention gains the following bardic performances.
+
+*the goddess of invention’s Soothing (Su)*: A Voice of the goddess of invention can use the goddess of invention’s calming voice to pacify constructs. This functions as the fascinate bardic performance, except it can target only constructs.
+
+This replaces fascinate.
+
+*the goddess of invention’s Anger (Su)*: At 8th level, a Voice of the goddess of invention can use the goddess of invention’s enraged voice to instill constructs with a sense of dread. This functions as the dirge of doom bardic performance, except it can target only constructs.
+
+This replaces dirge of doom.
+
+*the goddess of invention’s Spark (Su)*: At 12th level, a Voice of the goddess of invention can use the goddess of invention’s animating spark to reanimate a destroyed construct. The Voice of the goddess of invention selects a destroyed construct within 60 feet and expends 1 round of bardic performance to reanimate the chosen construct. The construct reanimates with a number of hit points equal to the Voice of the goddess of invention’s level, but it is staggered. The affected construct follows the Voice of the goddess of invention’s orders while reanimated. Each round, the bard can expend another round of bardic performance to keep that construct reanimated for another round. The construct regains a number of hit points equal to the Voice of the goddess of invention’s level for every round it remains reanimated. If the construct recovers all of its hit points in this way, it becomes fully reanimated and no longer requires bardic performance to remain animated. A construct fully reanimated in this way follows the orders of the Voice of the goddess of invention that reanimated it, as if the Voice of the goddess of invention were its original creator, for 24 hours. Afterwards, the construct reverts to its original programming. The construct is completely destroyed if the Voice of the goddess of invention ends this performance before the construct regains its full hit points, is interrupted, or is reduced to 0 hit points. A completely destroyed construct cannot be repowered or reanimated, even by another Voice of the goddess of invention. The Voice of the goddess of invention can reanimate multiple constructs with this ability (either at the same time or over successive rounds) but must expend 1 round of bardic performance per reanimated construct per round to maintain the effect.
+
+This replaces soothing performance.
+
+*the goddess of invention’s Wrath (Su)*: At 14th level, a Voice of the goddess of invention can use the goddess of invention’s furious voice to instill in constructs a fear of destruction. This functions as the frightening tune bardic performance, except it can target only constructs.
+
+This replaces frightening tune.

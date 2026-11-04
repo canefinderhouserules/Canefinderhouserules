@@ -170,6 +170,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Ritualist](ritualist.md)**: A spellcaster who masters dangerous occult rituals, making them faster, safer and more reliable.
 
+**[River Pirate](river-pirate.md)**: A river-faring raider who prowls waterways in search of easy prey.
+
 **[Rose Warden](rose-warden.md)**: A rebel infiltrator who uses disguise, sneak attacks and insurgent techniques against tyranny.
 
 **[Runeguard](runeguard.md)**: A defensive spellcaster who masters the seven virtuous runes.

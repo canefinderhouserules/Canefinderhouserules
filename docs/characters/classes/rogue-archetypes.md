@@ -1195,3 +1195,29 @@ A planar sneak finds creative ways to defy conventional limitations when trying 
 **Elemental Execution (Su)**: At 4th level, a planar sneak treats creatures with the elemental subtype as though they were vulnerable to her sneak attack, but she deals only half as much sneak attack damage as normal. She can confirm critical hits against such creatures, though 50% of the time the critical hit is automatically negated and damage is rolled normally. At 8th level, this ability also applies to all outsiders otherwise immune to critical hits and sneak attack damage. This replaces uncanny dodge and improved uncanny dodge.
 
 **Rogue Talents**: The following rogue talents complement this archetype: guileful polyglot, strong stroke, terrain mastery. **Advanced Rogue Talents**: defensive roll, hide in plain sight, and skill mastery.
+
+## Slaver Kidnapper (Rogue)
+
+One of the many ethnicities found in the southern jungle, one people are slavers and demon worshipers. A Slaver kidnapper is not only adept at hiding herself in thick jungles and quickly subduing her prey, but also at spreading rumors of hidden ruins, buried treasure, and other such valuables that might lure an unwary foreigner into her traps.
+
+**Clean Capture (Ex)**: At 1st level, a Slaver kidnapper reduces the penalty to her combat maneuver check to tie up a pinned or otherwise restrained target by an amount equal to 1/2 her rogue level. In addition, she can take the feats Improved Grapple and Greater Grapple as rogue talents. She can ignore the Improved Unarmed Strike requirement when selecting these feats as rogue talents, but must meet all other prerequisites. This ability replaces trapfinding.
+
+**Abductor (Ex)**: At 3rd level, a Slaver kidnapper gains a +1 bonus on combat maneuver checks to grapple a foe. In addition, the Slaver kidnapper treats her combat maneuver bonus as 1 higher when a foe tries to grapple her or when a grappled target attempts to break free of her grapple. These bonuses increase by 1 for every 3 levels beyond 3rd. This ability replaces trap sense.
+
+**Rogue Talents**: The following rogue talents complement the Slaver kidnapper archetype: black market connections, camouflage, combat trick, rope master, survivalist, and terrain mastery.
+
+**Advanced Talents**: The following advanced rogue talents complement the Slaver kidnapper archetype: crippling strike, hide in plain sight, knock-out blow, rumormonger, and weapon snatcher.
+
+## Slaver Port Liberator (Rogue)
+
+The sight of yellow sails on the central sea signals the approach of a ship from Slaver Port, home port of the most ruthless and feared of all slaving operations. Most who see these sails flee in terror, but some freedom fighters actually endeavor to be captured, knowing that being taken to the slaver isle in manacles is the easiest way to infiltrate the city, liberate other slaves, and lead them to freedom.
+
+**Bond Breaker (Ex)**: An Slaver Port liberator adds 1/2 her class level to Escape Artist checks, and never takes a penalty on Disable Device checks when using improvised tools to open locks. This ability replaces trapfinding.
+
+**Covert Commander (Ex)**: An Slaver Port liberator grants all allies within 30 feet who are in her line of sight (but not herself ) a +1 competence bonus on Disguise and Stealth checks. This bonus increases by 1 for every 3 levels beyond 3rd. This ability replaces trap sense.
+
+**Catch Off-Guard (Ex)**: At 4th level, the Slaver Port liberator is adept at improvising weapons. She gains Catch Off-Guard as a bonus feat. This ability replaces uncanny dodge.
+
+**Rogue Talents**: The following rogue talents complement the Slaver Port liberator archetype: deft palm, fast picks, fast stealth, quick disguise, slow reactions, underhanded.
+
+**Advanced Talents**: The following advanced rogue talents complement the Slaver Port liberator archetype: defensive roll, fast tumble, knock-out blow, skill mastery, weapon snatcher.

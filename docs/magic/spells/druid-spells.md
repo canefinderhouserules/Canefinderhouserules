@@ -194,6 +194,7 @@
 - **[Lead Plating](lead-plating.md)**: Sheathe a target in lead to block radiation and divinations.
 - **[Locate Portal](locate-portal.md)**: You feel a pull toward the nearest active portal to another plane.
 - **[Magic Boulder](magic-boulder.md)**: Enchant boulders for throwing
+- **[Make Lost](make-lost.md)**: You strip the targets of their senses of direction and recent memories of travel.
 - **[Mud Buddy](mud-buddy.md)**: Create a small mud servant that can trip foes
 - **[Outbreak](outbreak.md)**: Make diseased creatures contagious
 - **[Overstimulate](overstimulate.md)**: Grant ferocity to keep a creature conscious
@@ -231,6 +232,7 @@
 - **[Stone Throwing](stone-throwing.md)**: Subject can throw and catch rocks.
 - **[Storm Sight](storm-sight.md)**: Sense creatures caught in a storm.
 - **[Storm Trident](storm-trident.md)**: Wield a trident of electricity.
+- **[Summon Nature’s Ally 2](summon-natures-ally-2.md)**: This spell functions as summon nature’s ally I, except that you summon one 2nd-level creature or 1d3 1st-level…
 - **[Summon Nature’s Ally II](summon-natures-ally-ii.md)**: Summons creature to fight.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
 - **[Surefoot Boots](surefoot-boots.md)**: Footwear grants perfect balance.
@@ -342,6 +344,7 @@
 - **[Steal Size](steal-size.md)**: Shrinks a larger target and enlarges you.
 - **[Steal Years](steal-years.md)**: drain years from a target to make yourself younger
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
+- **[Summon Nature’s Ally 3](summon-natures-ally-3.md)**: This spell functions like summon nature’s ally I, except that you can summon one 3rd-level creature, 1d3 2nd-l…
 - **[Summon Nature’s Ally III](summon-natures-ally-iii.md)**: Summons creature to fight.
 - **[Summon Totem Creature](summon-totem-creature.md)**: Summon creatures sacred to your totem clan.
 - **[Swarm of Fangs](swarm-of-fangs.md)**: Summon a swarm of flying teeth
@@ -433,11 +436,13 @@
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
 - **[Strip Scales](strip-scales.md)**: Reduce a creature's racial natural armor.
 - **[Substitute Trail](substitute-trail.md)**: Make the targets’ trails look like another creature’s.
+- **[Summon Nature’s Ally 4](summon-natures-ally-4.md)**: This spell functions like summon nature’s ally I, except that you can summon one 4th-level creature, 1d3 3rd-l…
 - **[Summon Nature’s Ally IV](summon-natures-ally-iv.md)**: Summons creature to fight.
 - **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.
 - **[Thirsting Entanglement](thirsting-entanglement.md)**: As entangle, but the plants drain Constitution.
 - **[Thorn Snare](thorn-snare.md)**: As *snare*, and the thorny vine damages whoever it traps.
 - **[Traveling Dream](traveling-dream.md)**: You sleep while a dreamscryer shaped like you scouts unlimited distances.
+- **[Wall of Brine](wall-of-brine.md)**: You conjure a 5-foot-thick wall of seawater with a powerful current flowing toward one side of the wall, selec…
 - **[Warp Metal](warp-metal.md)**: Permanently warps metal objects.
 - **[Watchful Animal](watchful-animal.md)**: Your animal companion or familiar becomes a scrying sensor.
 - **[Wooden Wing Shield](wooden-wing-shield.md)**: Your wings become a barrier granting a +4 shield bonus to AC.
@@ -453,12 +458,14 @@
 - **[Blood Ties](blood-ties.md)**: When a target is harmed, so is the target’s relative.
 - **[Call Lightning Storm](call-lightning-storm.md)**: As *call lightning,* but 5d6 damage per bolt.
 - **[Callback, Greater](callback-greater.md)**: Teleport a familiar or spirit animal from miles away to your side when it is injured.
+- **[Carve Passage](carve-passage.md)**: You can excavate and move an amount of snow, earth, dust, sand, and loose or packed rocks or ice chunks (each …
 - **[Cave Fangs](cave-fangs.md)**: Create a trap from stalactites and stalagmites.
 - **[Commune with Nature](commune-with-nature.md)**: Learn about terrain for 1 mile/level.
 - **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
 - **[Compel Tongue, Mass](compel-tongue-mass.md)**: As compel tongue, but affects multiple creatures.
 - **[Control Winds](control-winds.md)**: Changes wind direction and speed.
 - **[Cure Critical Wounds](cure-critical-wounds.md)**: Cures 4d8 damage + 1/level (max +20).
+- **[Daemon Ward](daemon-ward.md)**: This spell functions like death ward, except as noted above and it only protects against these attacks from da…
 - **[Darkvault](darkvault.md)**: wards an area so light cannot change its illumination
 - **[Death Ward](death-ward.md)**: Grants bonuses against death spells and negative energy.
 - **[Destroy Robot](destroy-robot.md)**: Deals 12d6 + 1/level damage to a robot.
@@ -475,6 +482,7 @@
 - **[Insect Plague](insect-plague.md)**: Wasp swarms attack creatures.
 - **[Invoke Primal Power](invoke-primal-power.md)**: Enhance a Large-or-larger wild shape with primal traits.
 - **[Jungle Mind](jungle-mind.md)**: Sense and link minds with animals of one type.
+- **[Mantle of the Magic Warriors](mantle-of-the-magic-warriors.md)**: You weave golden masks shaped like animals around the targets’ faces, imbuing each target with an animal spiri…
 - **[Master's Mutation](masters-mutation.md)**: Grant abilities to a summoned creature
 - **[Neutralize Poison, Greater](neutralize-poison-greater.md)**: As neutralize poison, but it also reverses poison damage.
 - **[Oasis](oasis.md)**: Creates a permanent spring.
@@ -485,10 +493,13 @@
 - **[Release the Hounds](release-the-hounds.md)**: Summons a swarm-like pack of canines.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
 - **[Sawtooth Terrain](sawtooth-terrain.md)**: Serrated blades erupt from a surface.
+- **[Siege Scatter](siege-scatter.md)**: A roiling blast of rough rock and dirt scatters along the ground in the area, dealing 1d6 points of slashing d…
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
 - **[Steal Years, Greater](steal-years-greater.md)**: steal years with a longer duration and more years
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
 - **[Sturdy Tree Fort](sturdy-tree-fort.md)**: Create a tree with a defensive fort within it.
+- **[Summon Kami](summon-kami.md)**: This spell functions as summon nature’s ally V, except you can summon one kodama, 1d3 fukujin, or 1d4+1 shikig…
+- **[Summon Nature’s Ally 5](summon-natures-ally-5.md)**: This spell functions like summon nature’s ally I, except that you can summon one 5th-level creature, 1d3 4th-l…
 - **[Summon Nature’s Ally V](summon-natures-ally-v.md)**: Summons creature to fight.
 - **[Swallow Poison](swallow-poison.md)**: Protect yourself from ingested poison, then spit it out in a cone.
 - **[Tidal Surge](tidal-surge.md)**: Create a surge of water to bludgeon foes and extinguish fires.
@@ -511,6 +522,7 @@
 - **[Bear’s Endurance, Mass](bears-endurance-mass.md)**: As *bear’s endurance*, affects 1 subject/level.
 - **[Binding Earth, Mass](binding-earth-mass.md)**: School transmutation [earth]; Level druid 6, witch 6 Target one creature or object/level, no two of which can.
 - **[Bite the Hand, Mass](bite-the-hand-mass.md)**: As bite the hand, multiple targets.
+- **[Bleaching Resistance](bleaching-resistance.md)**: Ability score drain from the Bleaching doesn’t affect your ability score modifiers while you’re affected by th…
 - **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As *bull’s strength*, affects 1 subject/level.
 - **[Cat’s Grace, Mass](cats-grace-mass.md)**: As *cat’s grace*, affects one subject/level.
 - **[Claim Identity, Greater](claim-identity-greater.md)**: As claim identity, but the target becomes a mask others can wear.
@@ -550,6 +562,8 @@
 - **[Stone Tell](stone-tell.md)**: Talk to natural or worked stone.
 - **[Stoneskin, Communal](stoneskin-communal.md)**
 - **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.
+- **[Summon Giant Ally I](summon-giant-ally-i.md)**: This spell functions as summon nature’s ally VI, except its casting time is shorter and you can summon one cav…
+- **[Summon Nature’s Ally 6](summon-natures-ally-6.md)**: This spell functions like summon nature’s ally I, except that you can summon one 6th-level creature, 1d3 5th-l…
 - **[Summon Nature’s Ally VI](summon-natures-ally-vi.md)**: Summons creature to fight.
 - **[Summon Stampede](summon-stampede.md)**: A conjured herd tramples everything in its straight-line path.
 - **[Symbol of Storms](symbol-of-storms.md)**: rune that unleashes hurricane winds and lightning
@@ -570,6 +584,7 @@
 - **[Creeping Doom](creeping-doom.md)**: Swarms of centipedes attack at your command.
 - **[Cure Moderate Wounds, Mass](cure-moderate-wounds-mass.md)**: Cures 2d8 damage + 1/level, affects 1 subject/level.
 - **[Delectable Flesh](delectable-flesh.md)**: Creatures near the target become depraved and attack it to feast.
+- **[Elemental Bombardment](elemental-bombardment.md)**: You summon elementals from their elemental planes and hurl them onto your enemies with great force.
 - **[Entice Fey](entice-fey.md)**: Entice service from a fey of 12 Hit Dice or fewer.
 - **[Fire Storm](fire-storm.md)**: Deals 1d6/level fire damage.
 - **[Form of the Exotic Dragon I](form-of-the-exotic-dragon-i.md)**: Become a Medium imperial or primal dragon.
@@ -583,6 +598,8 @@
 - **[Scrying, Greater](scrying-greater.md)**: As *scrying*, but faster and longer.
 - **[Seismic Fissure](seismic-fissure.md)**: Split the earth with a deep fissure.
 - **[Siege of Trees](siege-of-trees.md)**: Transforms Large trees into arboreal catapults of the same size.
+- **[Summon Giant Ally II](summon-giant-ally-ii.md)**: This spell functions as summon giant ally I, except you can summon one desert, fire, frost, or jungle giant or…
+- **[Summon Nature’s Ally 7](summon-natures-ally-7.md)**: This spell functions like summon nature’s ally I, except that you can summon one 7th-level creature, 1d3 6th-l…
 - **[Summon Nature’s Ally VII](summon-natures-ally-vii.md)**: Summons creature to fight.
 - **[Sunbeam](sunbeam.md)**: Beam blinds and deals 4d6 damage.
 - **[Tectonic Communion](tectonic-communion.md)**: Commune with nature over a huge range.
@@ -610,6 +627,8 @@
 - **[Repel Metal or Stone](repel-metal-or-stone.md)**: Pushes away metal and stone.
 - **[Reverse Gravity](reverse-gravity.md)**: Objects and creatures fall upward.
 - **[Rotting Alliance](rotting-alliance.md)**: Curse several creatures to waste away when near one another.
+- **[Summon Giant Ally III](summon-giant-ally-iii.md)**: This spell functions as summon giant ally I, except you can summon one ash or cloud giant; 1d3 desert, fire, f…
+- **[Summon Nature’s Ally 8](summon-natures-ally-8.md)**: This spell functions like summon nature’s ally I, except that you can summon one 8th-level creature, 1d3 7th-l…
 - **[Summon Nature’s Ally VIII](summon-natures-ally-viii.md)**: Summons creature to fight.
 - **[Sunburst](sunburst.md)**: Blinds all within 10 ft., deals 6d6 damage.
 - **[Vinetrap](vinetrap.md)**: Thorny vines progressively slow a target, with blessed, noxious, or swift variants.
@@ -635,6 +654,7 @@
 - **[Siege of Trees, Greater](siege-of-trees-greater.md)**: As siege of trees, but can transform Huge and Gargantuan trees into arboreal catapults of the same size.
 - **[Storm of Vengeance](storm-of-vengeance.md)**: Storm rains acid, lightning, and hail.
 - **[Summon Elemental Steed](summon-elemental-steed.md)**: A greater elemental becomes a chariot that carries nine creatures.
+- **[Summon Nature’s Ally 9](summon-natures-ally-9.md)**: This spell functions like summon nature’s ally I, except that you can summon one 9th-level creature, 1d3 8th-l…
 - **[Summon Nature’s Ally IX](summon-natures-ally-ix.md)**: Summons creature to fight.
 - **[Sympathy](sympathy.md)**: Object or location attracts certain creatures.
 - **[Temporal Regression](temporal-regression.md)**: Return to a marked place and condition.

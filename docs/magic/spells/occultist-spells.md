@@ -374,6 +374,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Geomessage](geomessage.md)**: Leave an invisible message on a surface
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
 - **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
+- **[Invisibility Bubble, Giant](invisibility-bubble-giant.md)**: This functions as per invisibility bubble, but the bubble is larger, which allows you to target a creature of …
 - **[Irregular Size](irregular-size.md)**: Curse shrivels arms, legs, or wings.
 - **[Magic Circle against Chaos](magic-circle-against-chaos.md)**
 - **[Magic Circle against Evil](magic-circle-against-evil.md)**
@@ -667,6 +668,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 
 **Abjuration**:
 
+- **[Bind Sage](bind-sage.md)**: This variant of planar binding is specifically used to call one of the most knowledgeable types of outsiders: …
 - **[Cold Iron Fetters](cold-iron-fetters.md)**: Shackle a target, halving its speeds and blocking magical movement.
 - **[Contagious Suggestion](contagious-suggestion.md)**: a suggestion that spreads from target to target
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.

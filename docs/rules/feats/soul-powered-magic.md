@@ -1,0 +1,19 @@
+# Soul-Powered Magic
+
+You can use captured souls as material components.
+
+**Prerequisites**: Any evil alignment, caster level 5th.
+
+**Benefit**: When casting a spell would require an expensive material component, you can substitute a captured soul in its place. The soul can be captured in any way (the spells *create soul gem*,* soul trap*, and* trap the soul* are the most common methods), but you must be able to touch the soul or the object in which it is trapped (usually a crystal or gem) to use it as a material component. Using a soul in this way does not harm the object in which it was trapped. The soul itself must be at least equal in value to the gp cost of the material component you are replacing (any excess gp value is lost). See the section blow for the gp values of various souls.
+
+A soul used as a material component is damaged but not destroyed. Once used, such a soul is no longer trapped and cannot be used as a material component again. A creature whose soul has been used as a material component cannot be restored to life via *raise dead*.* Reincarnate*,* resurrection*, and* true resurrection* can restore such a creature to life if the caster succeeds at a DC 20 caster level check.* Miracle* and* wish* can restore the creature to life without requiring a caster level check. Using Soul-Powered Magic is an evil act. 
+
+## The Value of Souls
+
+Trapped souls are one of the fundamental currencies throughout Abaddon, the Abyss, and Hell. Three key factors influence a soul’s value in the soul trade: the strength of the soul’s life force (which relates directly to the CR of the creature from which the soul was harvested), the soul’s age (how long the soul has been cycled through reincarnation, which directly relates to the sapience of the creature from which the soul was harvested), and the soul’s flavor (which is determined by factors that include the alignment, personality, and religion of the creature from which the soul was harvested). Of course, it’s worth noting that while trading in souls may prove lucrative, the practice is undeniably evil and an affront to the natural order, and thus it is considered to be an evil act unless one is trading souls for an altruistic purpose (such as to smash purchased prisons and release the souls trapped within). 
+
+**Life Force**: A soul’s life force sets its base gp value. This is equal to the CR of the creature from which the soul was harvested × 1,000. Thus, the base value of a CR 1 creature’s soul is 1,000 gp, while the base value of a CR 20 creature’s soul is 20,000 gp.
+
+**Age**: A soul from a creature who in life had an Intelligence, Wisdom, or Charisma score of 2 or less (including the lack of a score at all in one of those categories, and regardless of how high the other ability scores were) is less refined and younger in age, and as such is worth half its base value. Thus, the soul of a CR 1 animal with an Intelligence of 1 is worth 500 gp, while the soul of a CR 20 vermin with no intelligence score at all would be worth 10,000 gp.
+
+**Flavor**: As a general rule, a soul’s flavor has no direct impact on its gp value for the purposes of functioning as a material component or raw materials for magic item creation, but in certain circumstances subject to the GM’s discretion, the soul’s flavor can halve or double its final value. For example, a paladin’s soul might have double its normal value to a daemon who finds lawful good souls to be particularly delicious, while the soul of a devout worshiper of the goddess of dreams and stars might be worth only half as much when used to create a magic item designed to be particularly deadly when used against chaotic good creatures, since such a soul would inherently resist being used in such a way.

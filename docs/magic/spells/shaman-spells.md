@@ -214,6 +214,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Splinter Spell Resistance](splinter-spell-resistance.md)**: Your weapon lowers a foe's spell resistance by 5.
 - **[Spore Burst](spore-burst.md)**: A plant creature can burst spores that sicken nearby creatures.
 - **[Storm Sight](storm-sight.md)**: Sense creatures caught in a storm.
+- **[Summon Nature’s Ally 2](summon-natures-ally-2.md)**: This spell functions as summon nature’s ally I, except that you summon one 2nd-level creature or 1d3 1st-level…
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
 - **[Sun’s Disdain](suns-disdain.md)**: Target is hurt by sunlight.
 - **[Suppress Charms and Compulsions](suppress-charms-and-compulsions.md)**: Bolster or suppress charm and compulsion effects.
@@ -286,6 +287,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Lover’s Vengeance](lovers-vengeance.md)**: You or a lover gain *rage* the next time you fight a chosen enemy.
 - **[Magic Vestment](magic-vestment.md)**: Armor or shield gains +1 enhancement per four levels.
 - **[Mantle of Calm](mantle-of-calm.md)**: Neutralize the rage effects of those who have attacked you.
+- **[Mind Maze](mind-maze.md)**: This spell causes the target to act as though it’s wandering through a maze.
 - **[Mindlocked Messenger](mindlocked-messenger.md)**: ‘Target gains a message that can be given only to its intended recipient.
 - **[Motes of Dusk and Dawn](motes-of-dusk-and-dawn.md)**: up to four motes that shed light or darkness
 - **[Nauseating Trail](nauseating-trail.md)**: Creature leaves a trail of stinking
@@ -318,6 +320,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Stinking Cloud](stinking-cloud.md)**: Nauseating vapors, 1 round/level.
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
 - **[Stricken Heart](stricken-heart.md)**: Touch attack deals 346 damage and staggers target.
+- **[Summon Nature’s Ally 3](summon-natures-ally-3.md)**: This spell functions like summon nature’s ally I, except that you can summon one 3rd-level creature, 1d3 2nd-l…
 - **[Sylvan Hideaway](sylvan-hideaway.md)**: Creates a hidden extradimensional room under a trap door.
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
@@ -378,6 +381,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Globe of Tranquil Water](globe-of-tranquil-water.md)**: A calm bubble of water blocks precipitation and water attacks.
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
+- **[Horseman of Death’s Dispensation](horseman-of-deaths-dispensation.md)**: The target of this spell gains immunity to the harmful effects of touching or drinking from the River Styx and…
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
 - **[Imbue with Spell Ability](imbue-with-spell-ability.md)**: Transfer spells to subject.
@@ -418,6 +422,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
 - **[Spirit-Bound Blade](spirit-bound-blade.md)**: Give a weapon ghost touch and another ability tied to an emotion.
 - **[Spit Venom](spit-venom.md)**: Spit blinding black adder venom.
+- **[Summon Nature’s Ally 4](summon-natures-ally-4.md)**: This spell functions like summon nature’s ally I, except that you can summon one 4th-level creature, 1d3 3rd-l…
 - **[Sword to Snake](sword-to-snake.md)**: An item bites whoever handles it.
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
 - **[Thirsting Entanglement](thirsting-entanglement.md)**: As entangle, but the plants drain Constitution.
@@ -428,6 +433,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Vicarious View](vicarious-view.md)**: Plant a scrying sensor that you can use to spy on a creature, object, or location.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
+- **[Wall of Brine](wall-of-brine.md)**: You conjure a 5-foot-thick wall of seawater with a powerful current flowing toward one side of the wall, selec…
 - **[Wandering Star Motes](wandering-star-motes.md)**: Outlines subject and produces light as a sunrod.
 - **[Watchful Animal](watchful-animal.md)**: Your animal companion or familiar becomes a scrying sensor.
 - **[Wooden Wing Shield](wooden-wing-shield.md)**: Your wings become a barrier granting a +4 shield bonus to AC.
@@ -439,6 +445,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Ban Corruption](ban-corruption.md)**: Eliminate the gifts of nearby corrupted creatures.
 - **[Banishing Blade](banishing-blade.md)**: The weapon bull rushes foes and can banish outsiders.
 - **[Befuddled Combatant](befuddled-combatant.md)**: Reduces a target’s ability DCs by 4 and its damage to minimum.
+- **[Bind Sage](bind-sage.md)**: This variant of planar binding is specifically used to call one of the most knowledgeable types of outsiders: …
 - **[Blight](blight.md)**: Withers one plant or deals 1d6/level damage to plant creature.
 - **[Blood Tentacles](blood-tentacles.md)**: Blood tentacles attack and heal you.
 - **[Blood Ties](blood-ties.md)**: When a target is harmed, so is the target’s relative.
@@ -473,6 +480,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Imbue Hex](imbue-hex.md)**: Give another creature one use of a hex you know.
 - **[Inflict Light Wounds, Mass](inflict-light-wounds-mass.md)**: Deals 1d8 damage + 1/level, affects 1 subject/level.
 - **[Insect Plague](insect-plague.md)**: Wasp swarms attack creatures.
+- **[Mantle of the Magic Warriors](mantle-of-the-magic-warriors.md)**: You weave golden masks shaped like animals around the targets’ faces, imbuing each target with an animal spiri…
 - **[Mask from Divination](mask-from-divination.md)**: Adhere a mask that foils divination.
 - **[Overland Flight](overland-flight.md)**: You fly at a speed of 40 ft. and can hustle over long distances.
 - **[Pernicious Pranksters](pernicious-pranksters.md)**: Invisible pranksters trip, disarm, and steal from your foes.
@@ -480,9 +488,12 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Rest Eternal](rest-eternal.md)**
 - **[Shadow Endurance](shadow-endurance.md)**: Shadow duplicate takes your place when you fall.
 - **[Shroud of Darkness](shroud-of-darkness.md)**: Plunge targets into supernatural darkness
+- **[Siege Scatter](siege-scatter.md)**: A roiling blast of rough rock and dirt scatters along the ground in the area, dealing 1d6 points of slashing d…
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
 - **[Spellfire Jinx](spellfire-jinx.md)**: Cursed caster burns and may lose spells.
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
+- **[Summon Kami](summon-kami.md)**: This spell functions as summon nature’s ally V, except you can summon one kodama, 1d3 fukujin, or 1d4+1 shikig…
+- **[Summon Nature’s Ally 5](summon-natures-ally-5.md)**: This spell functions like summon nature’s ally I, except that you can summon one 5th-level creature, 1d3 4th-l…
 - **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As *sun’s disdain*, on multiple creatures.
 - **[Surface Excursion](surface-excursion.md)**: Teleport to the surface directly above you, with a beacon to return.
 - **[Swallow Poison](swallow-poison.md)**: Protect yourself from ingested poison, then spit it out in a cone.
@@ -541,6 +552,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Stone to Flesh](stone-to-flesh.md)**: Restores petrified creature.
 - **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.
 - **[Summon Laborers](summon-laborers.md)**: Summon petitioners to help downtime work
+- **[Summon Nature’s Ally 6](summon-natures-ally-6.md)**: This spell functions like summon nature’s ally I, except that you can summon one 6th-level creature, 1d3 5th-l…
 - **[Wall of Stone](wall-of-stone.md)**: Creates a stone wall that can be shaped.
 - **[Withdraw Affliction](withdraw-affliction.md)**: Remove an affliction and inflict it on another creature.
 - **[Wither Limb](wither-limb.md)**: Make one of the target’s limbs useless.
@@ -579,6 +591,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Seismic Fissure](seismic-fissure.md)**: Split the earth with a deep fissure.
 - **[Speak with Waves](speak-with-waves.md)**: Converse with a body of fresh water.
 - **[Stone Tell](stone-tell.md)**: Talk to natural or worked stone.
+- **[Summon Nature’s Ally 7](summon-natures-ally-7.md)**: This spell functions like summon nature’s ally I, except that you can summon one 7th-level creature, 1d3 6th-l…
 - **[Sunbeam](sunbeam.md)**: Beam blinds and deals 4d6 damage.
 - **[Transport via Plants](transport-via-plants.md)**: Move instantly from one plant to another of the same kind.
 - **[Umbral Strike](umbral-strike.md)**: a bolt of dark energy deals cold and negative damage and blinds
@@ -595,6 +608,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Create Greater Undead](create-greater-undead.md)**: Creates shadows, wraiths, spectres, or devourers.
 - **[Cure Critical Wounds, Mass](cure-critical-wounds-mass.md)**: Cures 4d8 damage + 1/level for many creatures.
 - **[Curse Terrain, Supreme](curse-terrain-supreme.md)**: Curse an area with seven deadly hazards.
+- **[Dead God of Humanity’s Magic Army](dead-god-of-humanitys-magic-army.md)**: You imbue all manufactured weapons carried by allies within range with magic, granting each weapon a +1 enhanc…
 - **[Destruction](destruction.md)**: Kills subject and destroys remains.
 - **[Discern Location](discern-location.md)**: Reveals exact location of creature or object.
 - **[Earthquake](earthquake.md)**: Intense tremor shakes 80-ft.-radius.
@@ -611,6 +625,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Resurrection](resurrection.md)**: Fully restore dead subject.
 - **[Soulseeker](soulseeker.md)**: Determine a soul's location
 - **[Stormbolts](stormbolts.md)**: 1d8 damage/level (max 20d8) to targets.
+- **[Summon Nature’s Ally 8](summon-natures-ally-8.md)**: This spell functions like summon nature’s ally I, except that you can summon one 8th-level creature, 1d3 7th-l…
 - **[Sunburst](sunburst.md)**: Blinds all within 10 ft., deals 6d6 damage.
 - **[True Prognostication](true-prognostication.md)**: Gain incredibly cryptic information from the distant future.
 - **[Wandering Weather](wandering-weather.md)**: Control weather in a large area that moves with you.
@@ -634,6 +649,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Shapechange](shapechange.md)**: Transforms you into certain creatures, and you can change forms once per round.
 - **[Soul Bind](soul-bind.md)**: Traps newly dead soul to prevent *resurrection*.
 - **[Storm of Vengeance](storm-of-vengeance.md)**: Storm rains acid, lightning, and hail.
+- **[Summon Nature’s Ally 9](summon-natures-ally-9.md)**: This spell functions like summon nature’s ally I, except that you can summon one 9th-level creature, 1d3 8th-l…
 - **[Tsunami](tsunami.md)**: Huge wave damages and sweeps up all in its path.
 - **[Wail of the Banshee](wail-of-the-banshee.md)**: Deals 10 damage/level to 1 creature/level.
 - **[Winds of Vengeance](winds-of-vengeance.md)**: You can fly and attack with wind.

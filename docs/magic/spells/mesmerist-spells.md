@@ -335,6 +335,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
 - **[Inveigle Person](inveigle-person.md)**: The target treats all creatures as friendly.
 - **[Invigorate, Mass](invigorate-mass.md)**: As invigorate, but multiple creatures.
+- **[Invisibility Bubble, Giant](invisibility-bubble-giant.md)**: This functions as per invisibility bubble, but the bubble is larger, which allows you to target a creature of …
 - **[Invisibility Sphere](invisibility-sphere.md)**: Makes everyone within 10 ft. invisible.
 - Isolate
 - **[Irregular Size](irregular-size.md)**: Curse shrivels arms, legs, or wings.
@@ -431,6 +432,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
 - Hostile Juxtaposition
 - **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
+- **[Horseman of Death’s Dispensation](horseman-of-deaths-dispensation.md)**: The target of this spell gains immunity to the harmful effects of touching or drinking from the River Styx and…
 - **[Illusion of Treachery, Greater](illusion-of-treachery-greater.md)**: Make it seem like another is responsible for your attacks while concealing your own actions.
 - **[Illusory Wall](illusory-wall.md)**: Wall, floor, or ceiling looks real, but anything can pass through.
 - **[Impossible Angles](impossible-angles.md)**: Distort geometry in an area.
