@@ -783,3 +783,5 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Legendary Hybrids: Deadeye Hexer © 2016, Legendary Games; Author: Jeff Lee.
 
     Ultimate Kineticist Compendium © 2019, Legendary Games; Lead Developer Onyx Tanuki.
+
+    Legendary Kineticists II © 2017, Legendary Games; Authors: N. Jolly and Onyx Tanuki.
