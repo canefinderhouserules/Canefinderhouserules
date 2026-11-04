@@ -132,7 +132,7 @@ A spellcaster with the Improved Familiar feat can also select these creatures, g
 | Dweomercat cub | Chaotic neutral | 7th |
 | Galluvix | Any | 7th |
 | Impundulu | Neutral evil | 7th |
-| Fey-touched toad | &nbsp; | 3rd |
+| Fey-touched toad | Any | 3rd |
 | Psyche serpent | Any neutral | 7th |
 | Esipil sahkil | Neutral Evil | 7th |
 | Bat, sootwing | Any evil | 5th |
