@@ -6,4 +6,18 @@ You can pour the churning chaos of the Maelstrom into your magic, causing foes t
 
 **Benefit**: You can enhance any spell that targets a single creature to become a tumultuous spell. A creature hit by a tumultuous spell (if the spell requires an attack roll) or that fails its saving throw against a tumultuous spell immediately moves 1d4×5 feet in a random direction. This movement does not provoke attacks of opportunity. If this movement would force a creature into a solid object or another creature, the movement ends harmlessly just before impact.
 
-A tumultuous spell uses a spell slot 1 level higher than the spell's normal spell level. Spells with the lawful descriptor can't be tumultuous spells.
+Spells with the lawful descriptor can't be tumultuous spells.
+
+**Level Increase**: +0
+
+**Category**: Common
+
+??? note "Original rule"
+
+    *(Metamagic)*
+
+    You can pour the churning chaos of the Maelstrom into your magic, causing foes to scatter unpredictably.
+
+    **Benefit**: You can enhance any spell that targets a single creature to become a tumultuous spell. A creature hit by a tumultuous spell (if the spell requires an attack roll) or that fails its saving throw against a tumultuous spell immediately moves 1d4×5 feet in a random direction. This movement does not provoke attacks of opportunity. If this movement would force a creature into a solid object or another creature, the movement ends harmlessly just before impact.
+
+    A tumultuous spell uses a spell slot 1 level higher than the spell's normal spell level. Spells with the lawful descriptor can't be tumultuous spells.

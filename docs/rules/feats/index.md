@@ -3821,3 +3821,38 @@ Feats from other sources. Each name links to its full description.
 | [Unaging](unaging.md) | — | Half-elf |
 | [Unusual Heritage (Changeling)](unusual-heritage-changeling.md) | Teamwork | Changeling |
 | [Unusual Heritage](unusual-heritage.md) | Dhampir | Dhampir |
+| [Benthic Spell](benthic-spell.md) | Metamagic | — |
+| [Brackish Spell](brackish-spell.md) | Metamagic | — |
+| [Cherry Blossom Spell](cherry-blossom-spell.md) | Metamagic | — |
+| [Coaxing Spell](coaxing-spell.md) | Metamagic | — |
+| [Conditional Spell](conditional-spell.md) | Metamagic | — |
+| [Contingent Spell](contingent-spell.md) | Metamagic | — |
+| [Delayed Spell](delayed-spell.md) | Metamagic | — |
+| [Eclipsed Spell](eclipsed-spell.md) | Metamagic | — |
+| [Jinxed Spell](jinxed-spell.md) | Metamagic | — |
+| [Shadow Grasp](shadow-grasp.md) | Metamagic | — |
+| [Solar Spell](solar-spell.md) | Metamagic | — |
+| [Tenebrous Spell](tenebrous-spell.md) | Metamagic | — |
+| [Threatening Illusion](threatening-illusion.md) | Metamagic | — |
+| [Toxic Spell](toxic-spell.md) | Metamagic | — |
+| [Umbral Spell](umbral-spell.md) | Metamagic | — |
+| [Powerful Metamagic](powerful-metamagic.md) | General | — |
+| [Common Metamagic](common-metamagic.md) | General | — |
+| [Powerful Teamwork Feat](powerful-teamwork-feat.md) | General | — |
+| [Common Teamwork Feat](common-teamwork-feat.md) | General | — |
+| [Callous Casting](callous-casting.md) | Teamwork | Spellcraft 1 rank |
+| [Friendly Fire](friendly-fire.md) | Teamwork | Precise Shot |
+| [Reckless Moves](reckless-moves.md) | Teamwork | Acrobatics 3 ranks |
+| [Amplified Rage](amplified-rage.md) | Teamwork | Half-orc or orc, rage class feature |
+| [Basic Harmony](basic-harmony.md) | Teamwork | Bardic performance or raging song |
+| [Brutal Grappler](brutal-grappler.md) | Teamwork | — |
+| [Compelling Harmonies](compelling-harmonies.md) | Teamwork | Basic Harmony, Perform (keyboard, percussion, sing, string, or wind) 5 ranks, bardic performance or raging song |
+| [Darting Retrieval](darting-retrieval.md) | Teamwork | Deft Maneuvers |
+| [Exceptional Aid](exceptional-aid.md) | Teamwork | Bonded Mind |
+| [Phalanx Fighter](phalanx-fighter.md) | Teamwork | base attack bonus +3, good alignment |
+| [Share Spells](share-spells.md) | Combat | Bonded Mind, ability to share spells with an animal companion, eidolon, familiar, or phantom, caster level 1st |
+| [Splash Volley](splash-volley.md) | Teamwork | base attack bonus +1 |
+| [Swap Places](swap-places.md) | Teamwork | — |
+| [Take the Hit](take-the-hit.md) | Teamwork | Bonded Mind |
+| [Improved Underhanded](improved-underhanded.md) | Teamwork | — |
+| [Wild Flanking](wild-flanking.md) | Teamwork | Power Attack, base attack bonus +4 |

@@ -133,6 +133,10 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Surprise Weapon**: You are skilled at fighting with objects not traditionally considered weapons. You gain a +1 trait bonus on attack rolls with improvised weapons.
 
+??? note "Original rule"
+
+    **Surprise Weapon**: You are skilled at fighting with objects not traditionally considered weapons. You gain a +2 trait bonus on attack rolls with improvised weapons.
+
 **Tactician**: You know how to take advantage of enemies who are unprepared for your assault. You gain a +1 trait bonus on initiative checks. In addition, once per day when you make an attack of opportunity, you gain a +2 trait bonus on the attack roll.
 
 **Tavern Bouncer**: You learned to fight while serving as a bodyguard in rough taverns, where keeping the patrons alive through bloody bar brawls was just part of your job. When you make an attack that deals nonlethal damage with an unarmed strike, you gain a +1 bonus on your damage roll.

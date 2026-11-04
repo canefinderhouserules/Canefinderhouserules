@@ -24,3 +24,5 @@ Commixed spells cannot be counterspelled normally. A creature with Improved Coun
 - **Steam (Fire/Water)**: Damage caused by the primary spell (if any) is treated as nonlethal, untyped damage (neither cold nor fire damage) and is not affected by energy resistance or absorbed by protection from energy. The targets become blinded for 1d4 rounds unless they succeed at a Will save.
 
 **Special**: An inquisitor or any other character with the solo tactics class feature can use this teamwork feat without the aid of an ally. In order to do so, the character must be able to cast two qualifying spells within the same round, such as by using the Quicken Spell metamagic feat to cast one spell as a swift action or by using effects such as the *time stop* spell. *House rule*: see the summary in [Teamwork Feats](../../characters/options/teamwork-feats.md).
+
+**Category**: Powerful

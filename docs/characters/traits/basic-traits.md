@@ -30,6 +30,8 @@ There are 40 basic traits, split evenly among four categories. Combat traits foc
 
 **Vandal**: You gain a +2 bonus on Strength checks to break objects, and when damaging an object with a weapon, natural weapon, or unarmed attack, you ignore 2 points of its hardness.
 
+**Teamwork Trait**: this trait gives you 1 teamwork "feat" of the Trait category. Depending on the feat, it may count as Combat, Magic or Social.
+
 ## Faith Traits
 
 **Birthmark**: You were born with a strange birthmark that looks very similar to the holy symbol of the god you chose to worship later in life. This birthmark can serve you as a divine focus for casting spells, and as a physical manifestation of your faith, it increases your devotion to your god—you gain a +2 trait bonus on all saving throws against charm and compulsion effects as a result.
@@ -78,6 +80,10 @@ There are 40 basic traits, split evenly among four categories. Combat traits foc
 
 **Green-Blooded**: You are touched by the supernatural essence of nature, marking you since birth as something other than purely mortal. Choose a single 0-level druid spell. You can cast this spell once per day as a spell-like ability with a caster level equal to your character level.
 
+**Metamagic Mastery**: choose 1 metamagic feat. That metamagic always costs 1 less spell level, to a minimum of 0. Taking it more than once for different metamagic feats is negotiable with the GM, paid for with XP. The GM will very likely allow it no more than twice, and then only for Common or Trait metamagic (no Powerful ones), but ask.
+
+**Trait Metamagic**: this trait gives you 1 metamagic feat of the Trait category. It counts as a Magic category trait, but ignores the limit of 1 per category.
+
 ## Social Traits
 
 **Adopted**: You were adopted and raised by someone not of your actual race, and raised in a society not your own. As a result, you picked up a race trait from your adoptive parents and society, and may immediately select a race trait from your adoptive parents’ race.
@@ -121,6 +127,20 @@ There are 40 basic traits, split evenly among four categories. Combat traits foc
 **Self-Sufficient**: You know how to work with your hands and aren't dependent on complex tools. When attempting Craft checks, you take no penalty when using improvised tools. At the GM's discretion, you can attempt certain Craft checks even when no tools are available, though you take a –2 penalty.
 
 **Wild Tongue**: You were raised in a community that included numerous individuals who spoke with creatures of the wild. You gain one of the following languages of your choice as a bonus language: Aklo, Aquan, Auran, Giant, Ignan, or Sylvan. With your GM's permission, you can instead select Druidic, but druids are protective of their language and may hunt you as a threat to their sole ownership of their secrets.
+
+## Skill Traits
+
+For reasons relevant to your character, you gain one of the following. The trait's type depends on the skills involved: Combat if the skill is useful in combat, otherwise Social, and in a few specific cases it may be considered Faith or Religion. Each of these traits can be taken multiple times as long as different skills are chosen (and, at character creation, from different categories).
+
+**Good Class Skill**: you gain a new skill of your choice as a class skill and a +1 bonus on its checks.
+
+**Improved Skills**: you improve two different skills of your choice, giving each a +1 bonus on its checks.
+
+**Skill Up**: you improve one skill of your choice, gaining a +1 bonus on its checks. This also counts as a rank for prerequisites.
+
+**Double Skill**: you gain two new skills of your choice as class skills.
+
+**Different Approach**: you are able to use a skill with a different ability score. You can change which ability a skill uses, from one mental ability to another or one physical ability to another (as long as it makes sense).
 
 ## Underworld Traits
 

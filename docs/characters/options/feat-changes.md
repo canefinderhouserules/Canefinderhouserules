@@ -114,7 +114,7 @@ See [Metamagic Feats](metamagic.md) and [Teamwork Feats](teamwork-feats.md).
 
 **[Animal Ally](../../rules/feats/animal-ally.md):** no longer requires Nature Soul. Ask the GM if you want a pet that is not on that list.
 
-**Fireball Trick:** you can no longer choose more than 1 trick at a time.
+**[Fireball Tricks](../../magic/mastering-magic/spell-magic-tricks.md#fireball-tricks):** you can no longer choose more than 1 trick at a time.
 
 **[Superior Summoning](../../rules/feats/superior-summoning.md)** *(rework of Summon Monster)*: increases the maximum CR you can summon by 1.
 
