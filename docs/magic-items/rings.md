@@ -72,7 +72,7 @@ This white-gold ring bears the relief image of a roaring lion. Once per day on c
 
 In addition, the ring grants the wearer a +4 enhancement bonus to Charisma; treat this as a temporary ability bonus for the first 24 hours the ring is worn. Construction
 
-Requirements Forge Ring, eagle’s splendor, good hope, shout; Cost 25,000 gp
+**Requirements** Forge Ring, eagle’s splendor, good hope, shout; **Cost** 25,000 gp
 
 ### Commander’s Signet
 
@@ -81,7 +81,7 @@ Requirements Forge Ring, eagle’s splendor, good hope, shout; Cost 25,000 gp
 
 This ornate ring of protection +2 is emblazoned with a winged eye in ruby and jet. The wearer of a commander’s signet projects an air of commanding authority that affects large groups; the wearer does not treat crowds as difficult terrain and gains a +5 competence bonus on Diplomacy or Intimidate checks to direct or influence crowds. The wearer can also cast magic mouth at will, but the message trigger must be “upon seeing a creature wearing the Eye of the last god” (which triggers the magic mouth for any dottari in uniform). Construction
 
-Requirements Forge Ring, eagle's splendor, magic mouth, shield of faith; Cost 7,750 gp
+**Requirements** Forge Ring, eagle's splendor, magic mouth, shield of faith; **Cost** 7,750 gp
 
 ### Guiding Ring of the Toil God
 
@@ -90,7 +90,7 @@ Requirements Forge Ring, eagle's splendor, magic mouth, shield of faith; Cost 7,
 
 This gold ring is misshapen and uncomfortable to wear for long periods of time; inscribed on it is a crude symbol of a fire burning under an arch. Once per day, the wearer may use charm person. If the god of toil is the wearer’s patron deity, any time the wearer crafts a magic item, she may choose to pay half of the item’s construction cost instead of the full cost. The wearer spends time working on the item normally, but at the time of completion there is a 50% chance that the item turns out nonmagical and worthless. For example, if creating a magic bracer that normally costs 1,000 gp to craft, the wearer may craft it for only 500 gp, but there is a 50% chance the wearer’s shortcuts and cheap materials result in a valueless, nonfunctional item. Construction
 
-Requirements Craft Wondrous Item, charm person, fabricate; Cost 1,300 gp
+**Requirements** Craft Wondrous Item, charm person, fabricate; **Cost** 1,300 gp
 
 ### Maintenance Overseer's Ring
 
@@ -101,7 +101,7 @@ This tarnished signet is marked as belonging to a specific city no smaller than 
 
 A maintenance overseer’s ring also grants the wearer an automatic Perception check to notice secret doors within 10 feet in any area beneath street level of a city to which the ring is attuned. A wearer who already receives a Perception check to perceive a secret door (such as a dwarf using stonecunning) rolls her Perception check twice and takes the better result. Construction
 
-Requirements Forge Ring, create treasure map; Cost 4,000 gp
+**Requirements** Forge Ring, create treasure map; **Cost** 4,000 gp
 
 ### Planefarer's Band
 
@@ -118,7 +118,7 @@ Plane of Fire: The wearer gains fire resistance 20 and is able to walk atop lava
 
 Plane of Water: The wearer can breathe underwater and gains a swim speed of 40 feet. Construction
 
-Requirements Forge Ring, planar adaptation; Cost 15,000 gp
+**Requirements** Forge Ring, planar adaptation; **Cost** 15,000 gp
 
 ### Ring of Animal Friendship
 
@@ -260,7 +260,7 @@ This single thick iron band makes for a rather ugly ring. Rust pits the surface 
 
 While wearing a ring of emancipation, you gain a +2 competence bonus on all Open Lock and Escape Artist checks, in addition to all attack rolls made to sunder. Also, the ring has three charges, which can be expended at any time to cast shatter as a spell-like ability with a caster level equal to your character level. Each time a charge is expended, the ring becomes more rusted and marred. Upon the third charge being expended, the ring is destroyed. Construction
 
-Requirements Forge Ring, cat's grace, shatter; Cost 1,050 gp, 84 XP
+**Requirements** Forge Ring, cat's grace, shatter; **Cost** 1,050 gp, 84 XP
 
 ### Ring of Energy Resistance
 
@@ -486,7 +486,7 @@ This ring allows the caster to use the spell telekinesis on command.
 
 This simple golden ring has a large red gemstone set into it that sparkles with an inner fire. The wearer of the ring gains fire resistance 10 against the first fire attack that hits him that day. This protection renews itself every morning at dawn. In addition, the wearer receives a +1 resistance bonus on saves made against fire spells and effects. The ring must be worn for 24 hours to have any effect. Construction
 
-Requirements Forge Ring, resist energy; Cost 600 gp, 48 XP
+**Requirements** Forge Ring, resist energy; **Cost** 600 gp, 48 XP
 
 ### Ring of the Holy Knight
 
@@ -495,7 +495,7 @@ Requirements Forge Ring, resist energy; Cost 600 gp, 48 XP
 
 This simple gold band is engraved with the holy symbol of the goddess of valor. It functions as a ring of protection +1. In addition, the wearer can cast bless weapon and wartrain mount each once per day. At will, the wearer can make himself presentable as if using prestidigitation to clean up his clothing, skin, hair, and armor. Construction
 
-Requirements Forge Ring, bless weapon, prestidigitation, shield of faith, wartrain mount, creator must be at least 3rd level; Cost 1,500 gp
+**Requirements** Forge Ring, bless weapon, prestidigitation, shield of faith, wartrain mount, creator must be at least 3rd level; **Cost** 1,500 gp
 
 ### Ring of the Ram
 
@@ -521,7 +521,7 @@ The stone sibling has hardness 8 and 50 hit points. It can take no actions other
 
 The stone sibling lasts for 10 minutes, until it is destroyed, or until you dismiss it (a standard action), whichever comes first. Construction
 
-Requirements Forge Ring, mirror image, stone shape; Cost 3,700 gp, 296 XP
+**Requirements** Forge Ring, mirror image, stone shape; **Cost** 3,700 gp, 296 XP
 
 ### Ring of Three Wishes
 
@@ -566,7 +566,7 @@ On command, this ring gives its wearer the ability to see into and through solid
 
 This adamantine band is capped with a stone sigil of the first clan to settle a sky citadel. This ring is keyed to interact with several devices and traps within the vaults—storehouses of ancient history and family wealth—of the sky citadel. The ring grants its wearer acid resistance 10. Three times per day as a swift action, the wearer can make himself undetectable by crafted and magical traps and creatures of the construct type for the following minute. This functions like greater invisibility within these limits and also prevents the character’s weight or presence from triggering traps. Construction
 
-Requirements Forge Ring, resist energy, sanctuary; Cost 8,000 gp
+**Requirements** Forge Ring, resist energy, sanctuary; **Cost** 8,000 gp
 
 ### Swarmwalker's Ring
 
@@ -579,7 +579,7 @@ Alternatively, upon command, the ring’s wearer can use dimension door. This ma
 
 This ring’s abilities can be used a total of three times per day, in any combination. An urban druid (Pathfinder RPG Advanced Player’s Guide 101) wearing this ring can gain one additional use per day by expending three daily uses of her wild shape ability. Construction
 
-Requirements Forge Ring, dimension door, summon swarm; Cost 13,000 gp
+**Requirements** Forge Ring, dimension door, summon swarm; **Cost** 13,000 gp
 
 ### Witness Hunter's Ring
 
@@ -588,4 +588,4 @@ Requirements Forge Ring, dimension door, summon swarm; Cost 13,000 gp
 
 This ring’s deep red stone hides the image of an eye within an eye or the symbol of a secret society, since many secret societies create these rings to protect their most important agents and leaders. By concentrating on the ring as a move action, the wearer learns whether he is being observed and whether it is by one or by more than one creature. Once per day, the wearer can use locate creature on command to target creatures that are currently observing him. In addition, the wearer can cast detect scrying once per day on command. Construction
 
-Requirements Forge Ring, detect scrying, locate creature; Cost 12,600 gp
+**Requirements** Forge Ring, detect scrying, locate creature; **Cost** 12,600 gp
