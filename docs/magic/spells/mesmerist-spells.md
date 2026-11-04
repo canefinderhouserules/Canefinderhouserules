@@ -102,6 +102,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Obscure Object](obscure-object.md)**: Masks object against scrying.
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
+- **[Opportunistic Loyalty](opportunistic-loyalty.md)**: Count as an ally for a spell an enemy casts on its allies.
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
 - **[Perfected Potential](perfected-potential.md)**: Target rolls twice on its next attack, save, or check.
 - **[Polypurpose Panacea](polypurpose-panacea.md)**: Gain a relaxing or entertaining effect.
@@ -553,6 +554,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[False Vision, Greater](false-vision-greater.md)**: As *false vision*, but moves with the target.
 - **[Geas/Quest](geas-quest.md)**: As *lesser geas,* but affects any creature.
 - **[Getaway](getaway.md)**: Teleports you and select creatures to predetermined location.
+- **[Heretic’s Tongue](heretics-tongue.md)**: Blasphemous knowledge stops the target from casting spells.
 - **[Hold Person, Mass](hold-person-mass.md)**: As *hold person*, but all within 30 ft.
 - Hostile Juxtaposition, Greater
 - **[Impenetrable Veil](impenetrable-veil.md)**: Target is nearly impossible to detect.

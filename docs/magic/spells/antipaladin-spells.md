@@ -42,6 +42,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Murderous Command](murderous-command.md)**: Target is compelled to kill its ally.
 - **[Night Blindness](night-blindness.md)**: Lighting around the target counts as one step darker.
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
+- **[Opportunistic Loyalty](opportunistic-loyalty.md)**: Count as an ally for a spell an enemy casts on its allies.
 - **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Resist Starvation](resist-starvation.md)**: Delay the effects of starvation
 - **[Reveal Secrets](reveal-secrets.md)**: Learn whether a target has a secret
@@ -59,6 +60,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 
 ## 2nd-Level Antipaladin Spells
 
+- **[Abyssal Vermin](abyssal-vermin.md)**: A vermin or swarm gains the fiendish simple template.
 - **[Agonizing Rebuke](agonizing-rebuke.md)**: Component V, S Range close (25 ft.
 - **[Alter Summoned Monster](alter-summoned-monster.md)**: Swap a summoned creature for another
 - **[Aquatic Cavalry](aquatic-cavalry.md)**: Summon hippocampi to serve as aquatic mounts.
@@ -103,6 +105,8 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Pernicious Poison](pernicious-poison.md)**: Target takes a –4 penalty against poison.
 - **[Protection from Good, Communal](protection-from-good-communal.md)**: As protection from good, but you may divide the duration among creatures touched.
 - **[Protection from Law, Communal](protection-from-law-communal.md)**: As protection from law, but you may divide the duration among creatures touched.
+- **[Qlippoth Appearance](qlippoth-appearance.md)**: Your face looks subtly wrong, and you can reveal the face beneath to harm one viewer.
+- **[Quick Throwing](quick-throwing.md)**: Targets draw thrown weapons freely and make full attacks with them.
 - **[Reaper's Coterie](reapers-coterie.md)**: Weapon gains profane damage bonus for each kill.
 - **[Rotgut](rotgut.md)**: Turn water into cheap alcohol
 - **[Sense Vitals](sense-vitals.md)**: Gain sneak attack with any manufactured weapon.
@@ -129,6 +133,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Ancestral Regression](ancestral-regression.md)**: School transmutation (polymorph); Level alchemist 2, antipaladin 3, cleric 2, sorcerer/wizard 3, witch 2.
 - **[Ancestral Revision](ancestral-revision.md)**: a wayang appears as a gnome-like version of herself
 - **[Battle Trance](battle-trance.md)**: 3, witch 4 Casting Time 1 standard action Components V, S Range personal Target you Duration 1 minute/level.
+- **[Black Sword of War](black-sword-of-war.md)**: A weapon deals bleed damage equal to half your caster level.
 - **[Blade of Dark Triumph](blade-of-dark-triumph.md)**: Bonded weapon gains ghost touch.
 - **[Bloody Arrows](bloody-arrows.md)**: Ranged hits cause stacking bleed.
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
@@ -144,6 +149,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Drain Poison](drain-poison.md)**: Drain a creature's poison onto your weapon.
 - **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
 - **[Flesh Puppet Horde](flesh-puppet-horde.md)**: Control multiple zombies in human guise.
+- **[Frosthammer](frosthammer.md)**: A hurled hammer of ice damages and may trip the target.
 - **[Gullibility](gullibility.md)**: target believes lies more readily
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
@@ -165,6 +171,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Shield of Darkness](shield-of-darkness.md)**: magical darkness grants you total concealment
 - **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
 - **[Tail Strike](tail-strike.md)**: Grow a draconic tail with a slam attack.
+- **[Titanic Anchoring](titanic-anchoring.md)**: You become nearly immovable by combat maneuvers.
 - **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
 - **[Unhallowed Blows, Greater](unhallowed-blows-greater.md)**: As unhallowed blows, with a larger bonus and longer duration.
 - **[Unholy Ward](unholy-ward.md)**: Resist 10 damage from holy sources.

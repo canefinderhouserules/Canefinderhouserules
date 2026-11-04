@@ -381,6 +381,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Magic Circle against Law](magic-circle-against-law.md)**
 - **[Mark of Buoyancy](mark-of-buoyancy.md)**: make an object lighter than air
 - **[Mnemonic Siphon](mnemonic-siphon.md)**: rune that steals spells cast near an object
+- **[Moonrise Arrow](moonrise-arrow.md)**: Ammunition counts as magic and silver and harms incorporeal undead and shapechangers.
 - **[Motes of Dusk and Dawn](motes-of-dusk-and-dawn.md)**: up to four motes that shed light or darkness
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
 - **[Penumbral Disguise](penumbral-disguise.md)**: shadowy illumination masks your features

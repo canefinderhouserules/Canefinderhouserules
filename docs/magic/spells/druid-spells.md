@@ -24,6 +24,7 @@
 
 - **[Abstemiousness](abstemiousness.md)**: Food sates a creature for a full day.
 - **[Acid Maw](acid-maw.md)**: Companion's bite deals extra acid damage.
+- **[Advanced Scurvy](advanced-scurvy.md)**: The target contracts a fatiguing, slow-healing scurvy.
 - **[Air Bubble](air-bubble.md)**: Creates a small pocket of air around your head or an object.
 - **[Alleviate Addiction](alleviate-addiction.md)**: Subject ignores the effects of addictions.
 - **[Antitoxin Touch](antitoxin-touch.md)**: Target can't poison itself accidentally and safely milks venom.
@@ -142,6 +143,7 @@
 - **[Celestial Companion](celestial-companion.md)**: Your companion gains spell resistance against evil, DR, and a sacred bonus on saves.
 - **[Certain Grip](certain-grip.md)**: You gain a +4 competence bonus on Acrobatics and Climb checks and to CMD.
 - **[Chill Metal](chill-metal.md)**: Cold metal damages those who touch it.
+- **[Cloud of Seasickness](cloud-of-seasickness.md)**: As *stinking cloud*, but it sickens rather than nauseates.
 - **[Compel Tongue](compel-tongue.md)**: Target can speak and write only in one imparted language.
 - **[Control Vermin](control-vermin.md)**: Control vermin as if they were animals
 - **[Crafter's Nightmare](crafters-nightmare.md)**: Haunt sabotages crafting, ritual, and long-casting-time work.
@@ -167,6 +169,7 @@
 - **[Forest Friend](forest-friend.md)**: Plants in a forested area become helpful instead of hindering you and your allies.
 - **[Frost Fall](frost-fall.md)**: The area is covered in a chilling frost.
 - **[Full Pouch](full-pouch.md)**: Duplicate an alchemical item as you draw it.
+- **[Fungal Blisters](fungal-blisters.md)**: Blisters on your body burst into harmful spores when you are hit.
 - **[Fury of the Sun](fury-of-the-sun.md)**: You curse the target to suffer unbearable heat.
 - **[Garden of Peril](garden-of-peril.md)**: Poisonous mushrooms sicken nearby creatures.
 - **[Gird Ally](gird-ally.md)**: Summoned creatures gain a deflection bonus to AC
@@ -209,6 +212,7 @@
 - **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
 - **[Reveal Mirage](reveal-mirage.md)**: Discern whether terrain at one point is an illusion, or a natural mirage.
+- **[Reveal True Shape](reveal-true-shape.md)**: Shows the true form of a disguised or transformed creature.
 - **[Riversight](riversight.md)**: Scry along a river you touch.
 - **[Rock Whip](rock-whip.md)**: Whip of stone ignores stone cover and bull rushes foes it hits.
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
@@ -248,6 +252,7 @@
 ## 3rd-Level Druid Spells
 
 - **[Accept Affliction](accept-affliction.md)**: Transfer an affliction or condition from a creature to yourself.
+- **[Aggravate Affliction](aggravate-affliction.md)**: All recurring afflictions on the target trigger at once.
 - **[Air Breathing](air-breathing.md)**: Let aquatic creatures breathe air
 - **[Animal Aspect, Greater](animal-aspect-greater.md)**: As animal aspect, but you gain two animal qualities.
 - **[Ape Walk](ape-walk.md)**: Gain a climb speed of 30 ft. and a +8 bonus on Climb checks.
@@ -285,6 +290,7 @@
 - **[Hag's Seasoning](hags-seasoning.md)**: Curse: the target becomes a delicious meal.
 - **[Heatstroke](heatstroke.md)**: Ray deals 1d4 nonlethal damage and exhausts like ray of exhaustion.
 - **[Hunter's Friend](hunters-friend.md)**: Share ranger class abilities with your companion.
+- **[Hurricane Blast](hurricane-blast.md)**: A burst of severe wind knocks down and blows back creatures.
 - **[Hydrophobia](hydrophobia.md)**: targets are terrified of water and drowning
 - **[Ice Spears](ice-spears.md)**: Icy spears deal piercing and cold damage and trip foes.
 - **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form
@@ -300,6 +306,7 @@
 - **[Mirage](mirage.md)**: Create illusory terrain.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Nixie’s Lure](nixie-s-lure.md)**: This spell creates an unearthly and infectious song that seductively summons all who hear it.
+- **[Oni Aspect](oni-aspect.md)**: Gain fast healing 3, and dismiss the spell to reroll a failed Will save.
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
 - **[Planar Inquiry](planar-inquiry.md)**: Call an outsider to answer questions.
 - **[Plant Growth](plant-growth.md)**: Grows vegetation, improves crops.
@@ -316,6 +323,7 @@
 - **[Resinous Skin](resinous-skin.md)**: You gain DR 5/piercing and +4 to CMD against disarm attempts.
 - **[Resist Energy, Communal](resist-energy-communal.md)**: As resist energy, but you may divide the duration among creatures touched.
 - **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
+- **[Sebaceous Twin](sebaceous-twin.md)**: A parasitic clone bursts from the target and drains its Constitution.
 - **[Shadowmind](shadowmind.md)**: targets perceive the light level as one step darker
 - **[Share Language, Communal](share-language-communal.md)**: As share language, but you may divide the duration among creatures touched.
 - **[Sheet Lightning](sheet-lightning.md)**: A flash of electricity dazes or dazzles creatures in a 20-foot spread.
@@ -327,6 +335,7 @@
 - **[Snare](snare.md)**: Creates a magic booby trap.
 - **[Soothing Mud](soothing-mud.md)**: Create restorative mud that heals hit point and ability damage.
 - **[Speak with Plants](speak-with-plants.md)**: You can talk to plants and plant creatures.
+- **[Spectral Scout](spectral-scout.md)**: A spectral Tiny animal scouts for you and reports what it sees.
 - **[Spider Climb, Communal](spider-climb-communal.md)**: As spider climb, but you may divide the duration among creatures touched.
 - **[Spike Growth](spike-growth.md)**: Creatures in area take 1d4 damage, may be slowed*.*
 - **[Spotlight](spotlight.md)**: bright light on a target suppresses nearby light and ruins its Stealth
@@ -337,6 +346,7 @@
 - **[Summon Totem Creature](summon-totem-creature.md)**: Summon creatures sacred to your totem clan.
 - **[Swarm of Fangs](swarm-of-fangs.md)**: Summon a swarm of flying teeth
 - **[Sweat Poison](sweat-poison.md)**: exude an injury poison from your own glands
+- **[Sylvan Hideaway](sylvan-hideaway.md)**: Creates a hidden extradimensional room under a trap door.
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
 - **[Toxic Blood](toxic-blood.md)**: Target's blood sprays black adder venom when cut.
@@ -347,6 +357,7 @@
 - **[Virulent Miasma](virulent-miasma.md)**: Create a fog that weakens resistance to disease
 - **[Ward of the Season](ward-of-the-season.md)**: This spell harnesses the power of the seasons to protect the target and grant a number of bonuses.
 - **[Water Breathing](water-breathing.md)**: Subjects can breathe underwater.
+- **[Water Shield](water-shield.md)**: A spout of acid halves acid and fire damage and burns attackers.
 - **[Waters of Corruption](waters-of-corruption.md)**: Creates foul water that acts as unholy water and damages Intelligence and Dexterity.
 - **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.
 - **[Wing Thorns](wing-thorns.md)**: Wings sprout poisonous thorns you can attack with.
@@ -389,6 +400,7 @@
 - **[Frigid Souls](frigid-souls.md)**: Haunt strips protection against cold.
 - **[Giant Vermin](giant-vermin.md)**: Turns centipedes, scorpions, or spiders into giant vermin.
 - **[Globe of Tranquil Water](globe-of-tranquil-water.md)**: A calm bubble of water blocks precipitation and water attacks.
+- **[Gravel Vortex](gravel-vortex.md)**: A hail of rock damages an area and leaves dust and difficult terrain.
 - **[Healing Warmth](healing-warmth.md)**: This spell grants you temporary immunity to fire damage as protection from energy.
 - **[Heavy Water](heavy-water.md)**: water becomes hard to swim through and slows ships
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.

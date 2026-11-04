@@ -2216,3 +2216,37 @@ This performance replaces dirge of doom.
 Bards who have successfully mastered the strict curriculum of an academy of grand arts are more adept in their assigned field of performance, at the expense of versatility in other areas. Such bards have the focused performance alternate class ability, which replaces versatile performance.
 
 **Focused Performance (Ex)**: At 2nd level, a bard must choose one type of Perform skill. The bard gains Extra Performance as a bonus feat, usable only with the chosen category of the Perform skill. At 8th level, and every 6 levels thereafter, the bard gains Extra Performance as an additional bonus feat. The additional uses of bardic performance gained from these feats cannot be used with any category of the Perform skill other than the one chosen at 2nd level.
+
+## Masterpieces of the Long Roads
+
+### The Waning Bolero (Dance)
+
+Your deliberate dancing causes your foes’ steps to fall in time to your own.
+
+**Prerequisite**: Perform (dance) 10 ranks.
+
+**Cost**: Feat or 4th-level bard spell known.
+
+**Effect**: You enact a series of graceful, measured steps that your enemies cannot help but mimic. When you complete the performance, any foe within 60 feet that can see you is slowed (as per the *slow* spell) for as long as you continue the performance. A Will saving throw negates this effect.
+
+Each round you continue the performance, each slowed creature within 60 feet (whether slowed by this masterpiece or by another effect) must succeed at another Will saving throw or its penalty on attack rolls, AC, and Reflex saves increases by 1 as the slow dance movements overtake it. This increased penalty lasts as long as you continue the performance. A creature that succeeds at this Will saving throw merely avoids increasing the penalty for that round; success does not remove the effect that slowed it.
+
+**Use**: 1 bardic performance round per round.
+
+**Action**: 1 full round.
+
+### Fugue of the Silent Street (String Instruments)
+
+Your music provides a bastion that hedges out horrors and fiends.
+
+**Prerequisite**: Perform (string instruments) 15 ranks.
+
+**Cost**: Feat or 6th-level bard spell known.
+
+**Effect**: This piece of music combines two discordant melodies: one that represents humanity, and another that represents the unsettling horror of the places between the stars. When you activate this performance, you create a hemispherical field that hedges out outsiders, aberrations, and undead. When you begin this performance, roll a Perform (string instruments) check; the radius of the hemisphere may be any size, measured in feet, up to the result of your check.
+
+This effect can be used only defensively. Forcing the hemispherical barrier against creatures that the effect keeps at bay immediately collapses the barrier.
+
+**Use**: 1 bardic performance round per minute.
+
+**Action**: 1 full round.

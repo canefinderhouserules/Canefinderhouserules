@@ -1127,3 +1127,9 @@ The warriors of an old empire have perfected the art of fighting with the falcat
 **Armor Training (Ex)**: At 7th level, a rondelero gains armor training 1, and can move at his normal speed in medium armor. At 15th level, the rondelero gains armor training 2, and can move at his normal speed in heavy armor. This ability replaces armor training 2.
 
 **Chopping Blow (Ex)**: At 11th level, as a standard action, a rondelero can make a single melee attack with a falcata. If the attack hits, he may make a sunder combat maneuver against the target of his attack as a free action that does not provoke an attack of opportunity. This ability replaces armor training 3.
+
+## Trench Fighter
+
+Advances in technology have made archaic armors obsolete by the twentieth century, and modern soldiers concentrate training on firearms and swift feet.
+
+**Trench Warfare (Ex)**: Starting at 3rd level, a trench fighter can select one specific type of firearm (such as a machine gun, revolver, or rifle). He gains a bonus equal to his Dexterity modifier on damage rolls when firing that type of firearm. Every 4 levels thereafter (7th, 11th, and 15th), the trench fighter picks up another type of firearm, gaining these bonuses for those types as well. Furthermore, when behind partial, normal, or improved cover, a trench fighter gains an additional +2 AC bonus from the cover. This ability replaces armor training 1, 2, 3, and 4.

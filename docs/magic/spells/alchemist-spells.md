@@ -67,6 +67,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Certain Grip](certain-grip.md)**: You gain a +4 competence bonus on Acrobatics and Climb checks and to CMD.
 - **[Contact High](contact-high.md)**: Share the effects of a drug you are under with others.
 - **[Curative Distillation](curative-distillation.md)**: Heals and grants the benefits of a consumed healing item.
+- **[Deathwine](deathwine.md)**: A healing potion boosts your next necromancy spell instead.
 - **[Debasing Touch](debasing-touch.md)**: Target's touch turns coins to copper.
 - **[Defensive Shock](defensive-shock.md)**: Electricity damages your attackers.
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
@@ -82,6 +83,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Fire Sneeze](fire-sneeze.md)**: Sneeze cones of fire and wind.
 - **[Flesh Facade](flesh-facade.md)**: Make an undead look alive
 - **[Full Pouch](full-pouch.md)**: Duplicate an alchemical item as you draw it.
+- **[Fungal Blisters](fungal-blisters.md)**: Blisters on your body burst into harmful spores when you are hit.
 - **[Ghostly Disguise](ghostly-disguise.md)**: You look like a ghost of yourself.
 - **[Grasping Vine](grasping-vine.md)**: A vine from your body manipulates objects within 20 ft.
 - **[Hidden Blades](hidden-blades.md)**: Weapon becomes invisible and easy to conceal.
@@ -126,6 +128,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Air Breathing](air-breathing.md)**: Let aquatic creatures breathe air
 - **[Animal Aspect, Greater](animal-aspect-greater.md)**: As animal aspect, but you gain two animal qualities.
 - **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
+- **[Barghest Feast](barghest-feast.md)**: The target gains bonuses by devouring a humanoid corpse.
 - **[Battle Trance](battle-trance.md)**: 3, witch 4 Casting Time 1 standard action Components V, S Range personal Target you Duration 1 minute/level.
 - **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
 - **[Bouncing Bomb Admixture](bouncing-bomb-admixture.md)**: Your next bomb directly hits a splash target.
@@ -155,6 +158,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Liquefy](liquefy.md)**: Turn an object into a harmless liquid.
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
 - **[Monstrous Physique I](monstrous-physique-i.md)**: Take the form and some of the powers of a Small or Medium monstrous humanoid.
+- **[Oni Aspect](oni-aspect.md)**: Gain fast healing 3, and dismiss the spell to reroll a failed Will save.
 - **[Orchid’s Drop](orchids-drop.md)**: Drinking a mutagen heals 2d10 damage.
 - **[Paragon Surge](paragon-surge.md)**: You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind.
 - **[Penumbral Disguise](penumbral-disguise.md)**: shadowy illumination masks your features
@@ -162,6 +166,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Prehensile Pilfer](prehensile-pilfer.md)**: School transmutation; Level alchemist 3, bard 3, magus 3, sorcerer/wizard 3 Casting Time 1 standard action.
 - **[Protection from Arrows, Communal](protection-from-arrows-communal.md)**: As protection from arrows, but you may divide the duration among creatures touched.
 - **[Protection from Natural Attacks](protection-from-natural-attacks.md)**: Target gains DR 5/— against one type of natural attack.
+- **[Qlippoth Appearance](qlippoth-appearance.md)**: Your face looks subtly wrong, and you can reveal the face beneath to harm one viewer.
 - **[Rags to Riches](rags-to-riches.md)**: Objects function as masterwork with extra bonuses.
 - **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated.
 - **[Resinous Skin](resinous-skin.md)**: You gain DR 5/piercing and +4 to CMD against disarm attempts.
@@ -198,6 +203,7 @@ New alchemist spells from *Ultimate Magic* and *Ultimate Combat*. Spells from ot
 - **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Healing Warmth](healing-warmth.md)**: This spell grants you temporary immunity to fire damage as protection from energy.
+- **[Hobbling Bomb Admixture](hobbling-bomb-admixture.md)**: Your bombs can cut the speed of up to three targets.
 - **[Innocuous Shape](innocuous-shape.md)**: Target looks like a harmless creature.
 - **[Miasmatic Form](miasmatic-form.md)**: This spell functions like gaseous form, except the target’s vaporous body is dangerous to creatures that.
 - **[Monstrous Physique II](monstrous-physique-ii.md)**: Take the form and some of the powers of a Tiny or Large monstrous humanoid.

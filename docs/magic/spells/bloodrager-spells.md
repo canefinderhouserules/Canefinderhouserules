@@ -142,6 +142,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Protection from Arrows](protection-from-arrows.md)**: Subject gains DR 10/magic against ranged attacks.
 - **[Pyrotechnics](pyrotechnics.md)**: Turns fire into blinding light or thick smoke.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
+- **[Quick Throwing](quick-throwing.md)**: Targets draw thrown weapons freely and make full attacks with them.
 - **[Reaper's Coterie](reapers-coterie.md)**: Weapon gains profane damage bonus for each kill.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 (or more) points of damage/attack from specified energy type.
 - **[Scale Spikes](scale-spikes.md)**: Grow armor spikes from scales
@@ -217,6 +218,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - Locate Weakness
 - **[Magic Weapon, Greater](magic-weapon-greater.md)**: Weapon gains +1 bonus/four levels (max +5).
 - **[Monstrous Physique I](monstrous-physique-i.md)**: Take the form and some of the powers of a Small or Medium monstrous humanoid.
+- **[Oni Aspect](oni-aspect.md)**: Gain fast healing 3, and dismiss the spell to reroll a failed Will save.
 - **[Outbreak](outbreak.md)**: Make diseased creatures contagious
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
 - **[Pain Strike](pain-strike.md)**: Inflicts 1d6 nonlethal damage 1 round/level.
@@ -239,6 +241,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Tail Strike](tail-strike.md)**: Grow a draconic tail with a slam attack.
 - **[Temporary Graft](temporary-graft.md)**: Graft a body part onto yourself to gain one of several benefits.
 - **[Thunderstomp, Greater](thunderstomp-greater.md)**: Trip multiple creatures within
+- **[Titanic Anchoring](titanic-anchoring.md)**: You become nearly immovable by combat maneuvers.
 - **[Toxic Blood](toxic-blood.md)**: Target's blood sprays black adder venom when cut.
 - **[Trial of Fire and Acid](trial-of-fire-and-acid.md)**: Cover a creature in burning acid
 - **[Twilight Knife](twilight-knife.md)**: Floating knife attacks with you.
@@ -280,10 +283,12 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
 - **[Firefall](firefall.md)**: Causes fire to burst up, dealing 2d6 fire damage.
 - **[Fire Shield](fire-shield.md)**: Creatures attacking you take fire damage; you’re protected from heat or cold.
+- **[Flaming Aura](flaming-aura.md)**: Gain the fire subtype, or an aura of fire if you already have it.
 - **[Flaming Sphere, Greater](flaming-sphere-greater.md)**: Rolling ball of fire deals 6d6 fire damage and ignites targets.
 - Ghost Wolf
 - Hellmouth Lash
 - **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
+- **[Frosty Aura](frosty-aura.md)**: Gain the cold subtype, or an aura of cold if you already have it.
 - **[Furious Fire Barrage](furious-fire-barrage.md)**: Throw fireballs fueled by anger.
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.

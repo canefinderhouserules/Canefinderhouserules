@@ -60,6 +60,7 @@
 - **[Marid’s Mastery](marid-s-mastery.md)**: School transmutation [water]; Level cleric 1, druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Nature's Paths](natures-paths.md)**: Find the fastest way through the wilderness
 - **[Pass without Trace](pass-without-trace.md)**: One subject/level leaves no tracks.
+- **[Peasant Armaments](peasant-armaments.md)**: Improvised weapons function as simple or martial weapons.
 - **[Planar Orientation](planar-orientation.md)**: Points you toward the seat of the ruler of the plane you are on.
 - **[Preserve](preserve.md)**: Stop spoilage of objects for a week
 - **[Radiation Ward](radiation-ward.md)**: +4 on saves against radiation; sense radiation levels.
@@ -145,6 +146,7 @@
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 - **[Protection from Natural Attacks](protection-from-natural-attacks.md)**: Target gains DR 5/— against one type of natural attack.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
+- **[Quick Throwing](quick-throwing.md)**: Targets draw thrown weapons freely and make full attacks with them.
 - **[Raven's Flight](ravens-flight.md)**: Become a Tiny raven shape with fly speed 50 ft. for one turn.
 - **[Reloading Hands](reloading-hands.md)**: Loads a single shot into your weapon every round.
 - **[Replay Tracks](replay-tracks.md)**: Reconstruct past events from a set of tracks.
@@ -186,6 +188,7 @@
 - **[Animal Aspect, Greater](animal-aspect-greater.md)**: As animal aspect, but you gain two animal qualities.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
 - **[Army Across Time](army-across-time.md)**: As ally across time, with many duplicates.
+- **[Black Sword of War](black-sword-of-war.md)**: A weapon deals bleed damage equal to half your caster level.
 - **[Blade Snare](blade-snare.md)**: Snare a weapon or limb that strikes you.
 - **[Blast Barrier](blast-barrier.md)**: Unstable wall that explodes for damage.
 - **[Bleed for Your Master](bleed-for-your-master.md)**: Compel a companion to take damage for you.
@@ -205,6 +208,7 @@
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Forest’s Sense](forests-sense.md)**: Sense the location of a distant target that is near a plant or fungus.
 - **[Frigid Souls](frigid-souls.md)**: Haunt strips protection against cold.
+- **[Frosthammer](frosthammer.md)**: A hurled hammer of ice damages and may trip the target.
 - **[Full Pouch](full-pouch.md)**: Duplicate an alchemical item as you draw it.
 - **[Geomessage](geomessage.md)**: Leave an invisible message on a surface
 - **[Guardian Wasps](guardian-wasps.md)**: A wasp swarm builds a nest that guards an area.
@@ -213,10 +217,12 @@
 - **[Lesser Nondetection](lesser-nondetection.md)**: Blocks area-targeted divinations.
 - **[Life Blast](life-blast.md)**: Drain life from local vegetation to launch a blast of positive energy.
 - **[Magic Fang, Greater](magic-fang-greater.md)**: One natural weapon gets + 1/four levels (max. +5).
+- **[Martyr’s Last Blessing](martyrs-last-blessing.md)**: Your death releases *mass cure light wounds* on your allies.
 - **[Meticulous Match](meticulous-match.md)**: Determine if two things are identical.
 - **[Mirage](mirage.md)**: Create illusory terrain.
 - **[Named Bullet](named-bullet.md)**: Imbues ammunition with accuracy against a specific creature type.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
+- **[Oni Aspect](oni-aspect.md)**: Gain fast healing 3, and dismiss the spell to reroll a failed Will save.
 - **[Pinecone Bomb](pinecone-bomb.md)**: A thrown pinecone explodes for piercing damage.
 - **[Planar Aegis](planar-aegis.md)**: A force shield of planar essence damages attackers and halves related damage.
 - **[Plant Growth](plant-growth.md)**: Grows vegetation, improves crops.
@@ -237,14 +243,17 @@
 - **[Shield of Wings](shield-of-wings.md)**: Gain five burning wings that grant flight and fire resistance.
 - **[Signs of the Land](signs-of-the-land.md)**: Learn up to three details about the surrounding territory.
 - **[Soothing Mud](soothing-mud.md)**: Create restorative mud that heals hit point and ability damage.
+- **[Spectral Scout](spectral-scout.md)**: A spectral Tiny animal scouts for you and reports what it sees.
 - **[Spindrift Spritz, Mass](spindrift-spritz-mass.md)**: As spindrift spritz, affecting multiple creatures.
 - **[Spore Burst](spore-burst.md)**: A plant creature can burst spores that sicken nearby creatures.
 - **[Summon Nature’s Ally III](summon-natures-ally-iii.md)**: Summons creature to fight for you.
 - **[Summon Totem Creature](summon-totem-creature.md)**: Summon creatures sacred to your totem clan.
 - **[Sunstalker](sunstalker.md)**: Invisible while in sunlight.
+- **[Sylvan Hideaway](sylvan-hideaway.md)**: Creates a hidden extradimensional room under a trap door.
 - **[Symbol of Storms](symbol-of-storms.md)**: rune that unleashes hurricane winds and lightning
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
+- **[Titanic Anchoring](titanic-anchoring.md)**: You become nearly immovable by combat maneuvers.
 - **[Toxic Blood](toxic-blood.md)**: Target's blood sprays black adder venom when cut.
 - **[Tree Shape](tree-shape.md)**: You look exactly like a tree for 1 hour/level.
 - **[Vex Giant](vex-giant.md)**: Deal more damage and avoid attacks of opportunity against larger foes.

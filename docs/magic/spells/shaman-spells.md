@@ -294,6 +294,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Pocketful of Vipers](pocketful-of-vipers.md)**: Ward a container with summoned vipers.
 - **[Polymorph Familiar](polymorph-familiar.md)**: Give your familiar the shape of another animal.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
+- **[Qlippoth Appearance](qlippoth-appearance.md)**: Your face looks subtly wrong, and you can reveal the face beneath to harm one viewer.
 - **[Quell Energy](quell-energy.md)**: Reduce a creature's energy damage of one type.
 - **[Remove Blindness/Deafness](remove-blindness-deafness.md)**: Cures normal or magical blindness or deafness.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
@@ -310,12 +311,14 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Soul Vault](soul-vault.md)**: Protect a soul from being trapped
 - **[Speak with Dead](speak-with-dead.md)**: Corpse answers one question/two levels.
 - **[Speak with Haunt](speak-with-haunt.md)**: Haunt answers one question/2 levels.
+- **[Spectral Scout](spectral-scout.md)**: A spectral Tiny animal scouts for you and reports what it sees.
 - **[Spirit Bonds](spirit-bonds.md)**: Meditative spell: track bonded creatures and send a telepathic message.
 - **[Spotlight](spotlight.md)**: bright light on a target suppresses nearby light and ruins its Stealth
 - **[Stench of Prey](stench-of-prey.md)**: Predatory animals must successfully save or attack the target.
 - **[Stinking Cloud](stinking-cloud.md)**: Nauseating vapors, 1 round/level.
 - **[Stone Shape](stone-shape.md)**: Sculpts stone into any shape.
 - **[Stricken Heart](stricken-heart.md)**: Touch attack deals 346 damage and staggers target.
+- **[Sylvan Hideaway](sylvan-hideaway.md)**: Creates a hidden extradimensional room under a trap door.
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
 - **[Thorny Entanglement](thorny-entanglement.md)**: As entangle, plus plants make ranged attacks.
@@ -366,9 +369,11 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
 - **[Firewalker's Meditation](firewalkers-meditation.md)**: Meditative spell: damage reduction, fire resistance, and pain resistance.
 - **[Flame Steed](flame-steed.md)**: Conjure a mount made of flame.
+- **[Flaming Aura](flaming-aura.md)**: Gain the fire subtype, or an aura of fire if you already have it.
 - **[Flesh Puppet Horde](flesh-puppet-horde.md)**: Control multiple zombies in human guise.
 - **[Forest’s Sense](forests-sense.md)**: Sense the location of a distant target that is near a plant or fungus.
 - **[Frigid Souls](frigid-souls.md)**: Haunt strips protection against cold.
+- **[Frosty Aura](frosty-aura.md)**: Gain the cold subtype, or an aura of cold if you already have it.
 - **[Giant Vermin](giant-vermin.md)**: Turns centipedes, scorpions, or spiders into giant vermin.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Globe of Tranquil Water](globe-of-tranquil-water.md)**: A calm bubble of water blocks precipitation and water attacks.
@@ -451,6 +456,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Contact Entity III](contact-entity-iii.md)**: Ask very powerful eldritch entities to find and converse with you, or they may reply telepathically.
 - **[Control Winds](control-winds.md)**: Changes wind direction and speed.
 - **[Cure Light Wounds, Mass](cure-light-wounds-mass.md)**: Cures 1d8 damage + 1/level, affects 1 subject/level.
+- **[Curse of Unexpected Death](curse-of-unexpected-death.md)**: Each minute the target has a 5% chance of sudden heavy damage.
 - **[Curse, Major](curse-major.md)**: As bestow curse, but harder to remove.
 - Dispel Chaos/evil/good/law
 - **[Darkvault](darkvault.md)**: wards an area so light cannot change its illumination

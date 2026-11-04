@@ -15,6 +15,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
 - **[Blade Tutor's Spirit](blade-tutors-spirit.md)**: Reduces penalties on your melee attacks.
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
+- **[Blood Money](blood-money.md)**: Your blood becomes a material component for your next spell.
 - **[Call Weapon](call-weapon.md)**: Pull an ally’s weapon into your hand.
 - **[Celestial Healing](celestial-healing.md)**: Target gains fast healing 1.
 - **[Clarion Call](clarion-call.md)**: Creates a horn blast and a booming voice.
@@ -117,6 +118,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
+- **[Quick Throwing](quick-throwing.md)**: Targets draw thrown weapons freely and make full attacks with them.
 - **[Raven's Flight](ravens-flight.md)**: Become a Tiny raven shape with fly speed 50 ft. for one turn.
 - **[Reinforce Armaments, Communal](reinforce-armaments-communal.md)**: As reinforce armaments, but you may divide the duration among objects touched.
 - **[Reloading Hands](reloading-hands.md)**: Loads a single shot into your weapon every round.
@@ -181,8 +183,10 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Mark of Buoyancy](mark-of-buoyancy.md)**: make an object lighter than air
 - **[Mnemonic Siphon](mnemonic-siphon.md)**: rune that steals spells cast near an object
 - **[Monstrous Physique I](monstrous-physique-i.md)**: Take the form and some of the powers of a Small or Medium monstrous humanoid.
+- **[Moonrise Arrow](moonrise-arrow.md)**: Ammunition counts as magic and silver and harms incorporeal undead and shapechangers.
 - **[Motes of Dusk and Dawn](motes-of-dusk-and-dawn.md)**: up to four motes that shed light or darkness
 - **[Numerological Evocation](numerological-evocation.md)**: Assign a dice pool to set energy type, targets, range and damage.
+- **[Oni Aspect](oni-aspect.md)**: Gain fast healing 3, and dismiss the spell to reroll a failed Will save.
 - **[Perfect Placement](perfect-placement.md)**: Allies gain +1 insight to AC and Reflex saves.
 - **[Phase Step](phase-step.md)**: Short-range teleport of a willing creature with line of sight.
 - **[Prehensile Pilfer](prehensile-pilfer.md)**: School transmutation; Level alchemist 3, bard 3, magus 3, sorcerer/wizard 3 Casting Time 1 standard action.
@@ -200,6 +204,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Storm Step](storm-step.md)**: teleport short distance as a bolt of lightning
 - **[Sundered Serpent Coil](sundered-serpent-coil.md)**: Summon a grappling serpent coil
 - **[Tactical Adaptation](tactical-adaptation.md)**: Gain a combat feat temporarily.
+- **[Titanic Anchoring](titanic-anchoring.md)**: You become nearly immovable by combat maneuvers.
 - **[Toxic Blood](toxic-blood.md)**: Target's blood sprays black adder venom when cut.
 - **[Trial of Fire and Acid](trial-of-fire-and-acid.md)**: Cover a creature in burning acid
 - **[Twisted Innards](twisted-innards.md)**: Crits and sneak attacks may fail.
@@ -224,8 +229,10 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Controlled Fireball](controlled-fireball.md)**: As *fireball,* but secretly deals less damage to your allies.
 - **[Ethereal Fists](ethereal-fists.md)**: Your claws, unarmed strikes, and touch spells affect ethereal creatures.
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
+- **[Flaming Aura](flaming-aura.md)**: Gain the fire subtype, or an aura of fire if you already have it.
 - **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
 - **[Forceful Strike](forceful-strike.md)**: Melee hit deals extra force damage and bull rush.
+- **[Frosty Aura](frosty-aura.md)**: Gain the cold subtype, or an aura of cold if you already have it.
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
 - **[Infernal Healing, Greater](infernal-healing-greater.md)**: As *infernal healing*, but fast healing 4.
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.

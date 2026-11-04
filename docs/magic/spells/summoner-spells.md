@@ -131,6 +131,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Summon Totem Creature](summon-totem-creature.md)**: Summon creatures sacred to your totem clan.
 - **[Sundered Serpent Coil](sundered-serpent-coil.md)**: Summon a grappling serpent coil
 - **[Swarm of Fangs](swarm-of-fangs.md)**: Summon a swarm of flying teeth
+- **[Thunderous Footfalls](thunderous-footfalls.md)**: A large creature slows but knocks smaller creatures prone as it passes.
 - **[Toxic Blood](toxic-blood.md)**: Target's blood sprays black adder venom when cut.
 - **[Trade Items](trade-items.md)**: Swap a focus object with a target object.
 - **[Urban Step](urban-step.md)**: Step into one doorway and out another.
@@ -152,6 +153,8 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Curse of Dragonflies](curse-of-dragonflies.md)**: Curse: flying becomes difficult for the target.
 - **[Damnation Stride](damnation-stride.md)**: This spell functions like dimension door, except you leave behind a burst of fire.
 - **[Daze, Mass](daze-mass.md)**: As daze, but affecting multiple creatures.
+- **[Flaming Aura](flaming-aura.md)**: Gain the fire subtype, or an aura of fire if you already have it.
+- **[Frosty Aura](frosty-aura.md)**: Gain the cold subtype, or an aura of cold if you already have it.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Hostile Juxtaposition](hostile-juxtaposition.md)**: You create a dimensional link with a targeted creature, and switch spots with it.
 - **[Infernal Healing, Greater](infernal-healing-greater.md)**: As *infernal healing*, but fast healing 4.
@@ -172,6 +175,8 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Stoneskin, Communal](stoneskin-communal.md)**
 - **[Summon Accuser](summon-accuser.md)**: Summons an accuser devil to spy for you.
 - **[Summon Genie](summon-genie.md)**: Summons a djinni or janni.
+- **[Summon Lesser Demon](summon-lesser-demon.md)**: Summons one of several minor demons.
+- **[Summon Lesser Psychopomp](summon-lesser-psychopomp.md)**: Summons esobok or nosoi psychopomps.
 - **[Summon Stampede](summon-stampede.md)**: A conjured herd tramples everything in its straight-line path.
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
 - **[Surface Excursion](surface-excursion.md)**: Teleport to the surface directly above you, with a beacon to return.
@@ -210,7 +215,9 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Straitjacket](straitjacket.md)**: Restrain a creature’s arms and grant it a second saving throw against certain magic.
 - **[Summon Genie, Greater](summon-genie-greater.md)**: Summons a shaitan, djinn or janni.
 - **[Summon Infernal Host](summon-infernal-host.md)**: Summons 1d4+1 lesser host devils or 1 greater host devil.
+- **[Summon Vanth](summon-vanth.md)**: Summons a vanth psychopomp.
 - **[Tar Pool](tar-pool.md)**: Converts the top layer of the ground into hot tar.
+- **[Unleash Pandemonium](unleash-pandemonium.md)**: Howling winds deafen and frighten creatures in an area.
 - **[Unseen Crew](unseen-crew.md)**: Invisible sailors crew a ship.
 - **[Vengeful Stinger](vengeful-stinger.md)**: Stinging tail retaliates against melee attackers.
 - **[Walk the Plank](walk-the-plank.md)**: Open a shark-filled pit in the ground
@@ -243,6 +250,7 @@ New summoner spells from *Ultimate Magic*. Spells from other books will be added
 - **[Summon Laborers](summon-laborers.md)**: Summon petitioners to help downtime work
 - **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
 - **[Uncanny Reminder](uncanny-reminder.md)**: Conjure a living memory that attacks and unsettles the target.
+- **[Vermicious Assumption](vermicious-assumption.md)**: A vermlek demon inhabits a corpse and may serve you.
 - **[Walk Through Space](walk-through-space.md)**: You can spend a move action to teleport 30 feet or to stand while prone without provoking attacks of opportunity.
 - **[Whip of Ants](whip-of-ants.md)**: As whip of spiders, but with army ants.
 

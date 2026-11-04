@@ -113,6 +113,7 @@
 - **[Protection from Chaos, Communal](protection-from-chaos-communal.md)**: As protection from chaos, but you may divide the duration among creatures touched.
 - **[Protection from Evil, Communal](protection-from-evil-communal.md)**: As protection from evil, but you may divide the duration among creatures touched.
 - **[Protection from Outsiders](protection-from-outsiders.md)**: Protection from one race of outsiders.
+- **[Quick Throwing](quick-throwing.md)**: Targets draw thrown weapons freely and make full attacks with them.
 - **[Remove Paralysis](remove-paralysis.md)**: Frees one or more creatures from paralysis or slow effect.
 - **[Resist Energy](resist-energy.md)**: Ignores 10 or more points of damage per attack from specified energy type.
 - **[Restful Cloak](restful-cloak.md)**: Turn your cloak into a healing tent.
@@ -162,6 +163,7 @@
 - **[Litany of Sight](litany-of-sight.md)**: You can see invisible creatures and objects within 30 feet of you.
 - **Magic Circle against Chaos/Evil**: As *protection from chaos*, but 10-ft. radius and 10 min./level.
 - **[Magic Weapon, Greater](magic-weapon-greater.md)**: Weapon gains +1 bonus/four levels (max +5).
+- **[Moonrise Arrow](moonrise-arrow.md)**: Ammunition counts as magic and silver and harms incorporeal undead and shapechangers.
 - **[Planned Assault](planned-assault.md)**: Planned actions grant bonuses for the first round.
 - **[Positive Pulse, Greater](positive-pulse-greater.md)**: A large pulse of positive energy damages undead and bolsters living creatures
 - **[Prayer](prayer.md)**: Allies get +1 bonus on most rolls, enemies –1 penalty.
@@ -182,6 +184,7 @@
 - **[Tail Strike](tail-strike.md)**: Grow a draconic tail with a slam attack.
 - **[Talisman of Reprieve](talisman-of-reprieve.md)**: Allies ignore planar alignment penalties.
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
+- **[Titanic Anchoring](titanic-anchoring.md)**: You become nearly immovable by combat maneuvers.
 - **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
 - **[Untold Wonder](untold-wonder.md)**: Childlike wonder turns emotion penalties into bonuses.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.

@@ -447,3 +447,133 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
     Pathfinder Campaign Setting: Misfit Monsters Redeemed © 2010, Paizo Publishing, LLC; Authors: Colin McComb, Robert G. McCreary, and James L. Sutter.
 
     Pathfinder Campaign Setting: Lands of the Linnorm Kings © 2011, Paizo Publishing, LLC; Authors: Matthew Goodall, Jonathan H. Keith, Colin McComb, and Rob McCreary.
+
+    Pathfinder Adventure Path #139: The Dead Roads © 2019, Paizo Inc.; Author: Ron Lundeen.
+
+    Pathfinder Adventure Path #135: Runeplague © 2018, Paizo Inc.; Authors: Richard Pett, Jason Keeley, Eleanor Ferron, Mike Kimmel, Andrew Mullen, and Jeffrey Swank.
+
+    Pathfinder Adventure Path #132: The Six-Legend Soul © 2018, Paizo Inc.; Authors: Amber E. Scott, Kate Baker, Jay Erickson, Crystal Frasier, Tom Hansen, Lyz Liddell, Aerick Lim, Ron Lundeen, and Nathan Reinecke.
+
+    Pathfinder Adventure Path #128: Songbird, Scion, Saboteur © 2018, Paizo Inc.; Authors: Crystal Frasier and Richard Pett.
+
+    Pathfinder Adventure Path #124: City in the Deep © 2017, Paizo Inc.; Author: Amber E. Scott.
+
+    Pathfinder Adventure Path #123: The Flooded Cathedral © 2017, Paizo Inc.; Author: Mikko Kallio.
+
+    Pathfinder Adventure Path #121: The Lost Outpost © 2017, Paizo Inc.; Author: Jim Groves.
+
+    Pathfinder Adventure Path #119: Prisoners of the Blight © 2017, Paizo Inc.; Author: Amanda Hamon.
+
+    Pathfinder Adventure Path #118: Siege of Stone © 2017, Paizo Inc.; Author: Thurston Hillman.
+
+    Pathfinder Adventure Path #116: Fangs of War © 2017, Paizo Inc.; Author: Ron Lundeen.
+
+    Pathfinder Adventure Path #115: Trail of the Hunted © 2017, Paizo Inc.; Author: Amber E. Scott.
+
+    Pathfinder Adventure Path #114: Black Stars Beckon © 2017, Paizo Inc.; Authors: Jim Groves, Adam Daigle, James Jacobs, and Benjamin Bruck.
+
+    Pathfinder Adventure Path #107: Scourge of the Godclaw © 2016, Paizo Inc.; Author: Larry Wilhelm.
+
+    Pathfinder Adventure Path #105: The Inferno Gate © 2016, Paizo Inc.; Author: Patrick Renie.
+
+    Pathfinder Adventure Path #103: The Hellfire Compact © 2016, Paizo Inc.; Author: F. Wesley Schneider.
+
+    Pathfinder Adventure Path #102: Breaking the Bones of Hell © 2016, Paizo Inc.; Author: Amber E. Scott.
+
+    Pathfinder Adventure Path #90: The Divinity Drive © 2015, Paizo Inc.; Author: Crystal Frasier.
+
+    Pathfinder Adventure Path #89: Palace of Fallen Stars © 2014, Paizo Publishing, LLC; Author: Tim Hitchcock.
+
+    Pathfinder Adventure Path #88: Valley of the Brain Collectors © 2014, Paizo Publishing, LLC; Author: Mike Shel.
+
+    Pathfinder Adventure Path #86: Lords of Rust © 2014, Paizo Publishing, LLC; Author: Nicolas Logue.
+
+    Pathfinder Adventure Path #85: Fires of Creation © 2014, Paizo Publishing, LLC; Author: Neil Spicer.
+
+    Pathfinder Adventure Path #82: Secrets of the Sphinx © 2014, Paizo Publishing, LLC; Author: Amber E. Scott.
+
+    Pathfinder Adventure Path #81: Shifting Sands © 2014, Paizo Publishing, LLC; Author: Richard Pett.
+
+    Pathfinder Adventure Path #80: Empty Graves © 2014, Paizo Publishing, LLC; Author: Crystal Frasier.
+
+    Pathfinder Adventure Path #78: City of Locusts © 2014, Paizo Publishing, LLC; Author: Richard Pett.
+
+    Pathfinder Adventure Path #77: Herald of the Ivory Labyrinth © 2014, Paizo Publishing, LLC; Author: Wolfgang Baur.
+
+    Pathfinder Adventure Path #74: Sword of Valor © 2013, Paizo Publishing, LLC; Author: Neil Spicer.
+
+    Pathfinder Adventure Path #73: The Worldwound Incursion © 2013, Paizo Publishing, LLC; Author: Amber E. Scott.
+
+    Pathfinder Adventure Path #71: Rasputin Must Die! © 2013, Paizo Publishing, LLC; Author: Brandon Hodge.
+
+    Pathfinder Adventure Path #69: Maiden, Mother, Crone © 2013, Paizo Publishing, LLC; Author: Tim Hitchcock.
+
+    Pathfinder Adventure Path #68: The Shackled Hut © 2013, Paizo Publishing, LLC; Author: Jim Groves.
+
+    Pathfinder Adventure Path #67: The Snows of Summer © 2013, Paizo Publishing, LLC; Author: Neil Spicer.
+
+    Pathfinder Adventure Path #65: Into the Nightmare Rift © 2012, Paizo Publishing, LLC; Author: Richard Pett.
+
+    Pathfinder Adventure Path #64: Beyond the Doomsday Door © 2012, Paizo Publishing, LLC; Author: Tito Leati.
+
+    Pathfinder Adventure Path #61: Shards of Sin © 2012, Paizo Publishing, LLC; Author: Greg A. Vaughan.
+
+    Pathfinder Adventure Path #58: Island of Empty Eyes © 2012, Paizo Publishing, LLC; Author: Neil Spicer.
+
+    Pathfinder Adventure Path #56: Raiders of the Fever Sea © 2012, Paizo Publishing, LLC; Author: Greg A. Vaughan.
+
+    Pathfinder Adventure Path #55: The Wormwood Mutiny © 2012, Paizo Publishing, LLC; Author: Richard Pett.
+
+    Pathfinder Adventure Path #54: The Empty Throne © 2012, Paizo Publishing, LLC; Author: Neil Spicer.
+
+    Pathfinder Adventure Path #51: The Hungry Storm © 2011, Paizo Publishing, LLC; Author: Jason Nelson.
+
+    Pathfinder Adventure Path #42: Sanctum of the Serpent God © 2011, Paizo Publishing, LLC; Author: Neil Spicer.
+
+    Pathfinder Adventure Path #41: The Thousand Fangs Below © 2011, Paizo Publishing, LLC; Author: Graeme Davis.
+
+    Pathfinder Adventure Path #40: Vaults of Madness © 2010, Paizo Publishing, LLC; Author: Greg A. Vaughan.
+
+    Pathfinder Adventure Path #39: The City of Seven Spears © 2010, Paizo Publishing, LLC; Author: Kevin Kulp.
+
+    Pathfinder Adventure Path #36: Sound of a Thousand Screams © 2010, Paizo Publishing, LLC; Author: Richard Pett.
+
+    Pathfinder Adventure Path #35: War of the River Kings © 2010, Paizo Publishing, LLC; Author: Jason Nelson.
+
+    Pathfinder Adventure Path #34: Blood for Blood © 2010, Paizo Publishing, LLC; Author: Neil Spicer.
+
+    Pathfinder Adventure Path #30: The Twice-Damned Prince © 2010, Paizo Publishing, LLC; Authors: Brian Cortijo and James Jacobs.
+
+    Pathfinder Adventure Path #29: Mother of Flies © 2010, Paizo Publishing, LLC; Author: Greg A. Vaughan.
+
+    Pathfinder Adventure Path #28: The Infernal Syndrome © 2010, Paizo Publishing, LLC; Authors: Clinton Boomer and James Jacobs.
+
+    Pathfinder Adventure Path #26: The Sixfold Trial © 2009, Paizo Publishing, LLC; Author: Richard Pett.
+
+    Pathfinder Adventure Path #25: The Bastards of Erebus © 2009, Paizo Publishing, LLC; Author: Sean K Reynolds.
+
+    Pathfinder Adventure Path #24: The Final Wish © 2009, Paizo Publishing, LLC; Author: Robert G. McCreary.
+
+    Pathfinder Adventure Path #23: The Impossible Eye © 2009, Paizo Publishing, LLC; Author: Greg A. Vaughan.
+
+    Pathfinder Adventure Path #19: Howl of the Carrion King © 2009, Paizo Publishing, LLC; Author: Erik Mona.
+
+    Pathfinder Adventure Path #18: Descent into Midnight © 2009, Paizo Publishing, LLC; Author: Brian Cortijo.
+
+    Pathfinder Adventure Path #16: Endless Night © 2008, Paizo Publishing, LLC; Author: F. Wesley Schneider.
+
+    Pathfinder Adventure Path #14: Children of the Void © 2008, Paizo Publishing, LLC; Author: Mike McArtor.
+
+    Pathfinder Adventure Path #13: Shadow in the Sky © 2008, Paizo Publishing, LLC; Author: Greg A. Vaughan.
+
+    Pathfinder Adventure Path #9: Escape from Old Korvosa © 2008, Paizo Publishing, LLC; Author: Richard Pett.
+
+    Pathfinder Adventure Path #8: Seven Days to the Grave © 2008, Paizo Publishing, LLC; Author: F. Wesley Schneider.
+
+    Pathfinder Adventure Path #7: Edge of Anarchy © 2008, Paizo Publishing, LLC; Author: Nicolas Logue.
+
+    Pathfinder Adventure Path #5: Sins of the Saviors © 2008, Paizo Publishing, LLC; Author: Stephen S. Greer.
+
+    Pathfinder Adventure Path #2: The Skinsaw Murders © 2007, Paizo Publishing, LLC; Author: Richard Pett.
+
+    Pathfinder Adventure Path #1: Burnt Offerings © 2007, Paizo Publishing, LLC; Author: James Jacobs.

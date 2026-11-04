@@ -423,3 +423,27 @@ Punishing firearms such as the blunderbuss and dragon pistol can lay waste to in
 **Planar Resistance (Su)**: At 2nd level, when a planar rifter infuses his grit with the essence of a plane, he gains protection against that plane's dangers. If he attunes his grit pool to chaos, good, evil, or law, he gains resistance to magical effects that deal damage based on the chosen alignment, such as *holy smite*, *order's wrath*, a paladin's smite evil attack, or an *unholy* weapon. If he attunes his grit pool to air, earth, fire, or water, he gains protection against the energy type associated with that element (see infused bullet). He reduces the amount of damage taken from attacks of the chosen type by 2 points per gunslinger level. This replaces nimble.
 
 **Planar Strike (Su)**: At 5th level, as long as he has at least 1 point in his grit pool, a planar rifter's weapon attacks deal an extra 1d6 points of damage of the same damage type reduced by his planar resistance. Aligned damage harms only creatures of an opposed alignment. At 13th level, this damage increases to 2d6. This replaces gun training.
+
+## Graveslinger
+
+Graveslingers craft signature bullets to hunt down wandering undead. With this infused ammunition, they can take on the most resilient spectral foes with ease.
+
+**Deeds**: A graveslinger gains the following deeds.
+
+*Ghostbane Shot (Ex)*: At 1st level, once per day by spending 10 minutes to combine mundane ammunition with a mixture of grave dirt and powdered bone, the graveslinger can prepare a number of special bullets equal to her graveslinger level plus her Wisdom modifier (minimum 1). When attacking incorporeal undead, these bullets are treated as if they had the *ghost touch* special ability. These bullets function only for the graveslinger, and if not fired within 24 hours, the bullets become inert, losing their *ghost touch* special ability.
+
+This deed replaces the deadeye deed.
+
+*Ectoplasmic Anchor (Su)*: At 7th level, an incorporeal undead creature hit by one of the graveslinger's ghostbane shots becomes infused with ectoplasm, interfering with its defenses and mobility. The creature must succeed at a Will save (DC = 10 + half the graveslinger's level + the graveslinger's Wisdom modifier) or become semicorporeal for 1 round. A semicorporeal creature takes half damage (50%) from nonmagical attack forms, and it takes full damage from magic weapons, spells, spell-like effects, and supernatural effects. During this time, it cannot enter or pass through solid objects.
+
+This deed replaces the startling shot deed.
+
+*Undead Hunter (Ex)*: At 11th level, the graveslinger's ghostbane shots are treated as if they also had the *undead bane* special ability.
+
+This deed replaces the bleeding wound deed.
+
+*Staggering Shot (Ex)*: At 15th level, when a graveslinger confirms a critical hit against an undead creature with one of her ghostbane shots, the creature is staggered for 1 round.
+
+This deed replaces the menacing shot deed.
+
+**Supernatural Awareness (Ex)**: At 4th level, the graveslinger gains Blind-Fight as a bonus feat. Additionally, as long as she has 1 grit point, she can always act in surprise rounds that are triggered by haunts and incorporeal undead, even if she fails to notice them. This replaces the bonus feat gained at 4th level.

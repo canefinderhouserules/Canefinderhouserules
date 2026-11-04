@@ -31,6 +31,7 @@
 - **[Abstemiousness](abstemiousness.md)**: Food sates a creature for a full day.
 - **[Abundant Ammunition](abundant-ammunition.md)**: Replaces nonmagical ammunition every round. Spells 6 Adoration: You gain a bonus on Diplomacy checks and performance combat checks.
 - **[Alarm](alarm.md)**: Wards an area for 2 hours/level.
+- **[Alluring Light](alluring-light.md)**: Enemies who fail their saves must walk toward your glow.
 - **[Animate Rope](animate-rope.md)**: Makes a rope move at your command.
 - **[Aphasia](aphasia.md)**: Prevent a target from understanding language.
 - **[Aspect of the Nightingale](aspect-of-the-nightingale.md)**: Clear voice, bonus on Diplomacy and Perform.
@@ -145,6 +146,7 @@
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
 - **[Sure Casting](sure-casting.md)**: +5 caster level to overcome spell resistance with your next spell.
 - **[Suspend Drowning](suspend-drowning.md)**: temporarily stop drowning
+- **[Swallow Your Fear](swallow-your-fear.md)**: Frightened subjects gain bonuses and hold their ground.
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
 - **[Tap Inner Beauty](tap-inner-beauty.md)**: +2 insight bonus on Charisma checks.
 - **[Tears to Wine](tears-to-wine.md)**: Turn liquids into wine that sharpens the mind.
@@ -230,6 +232,7 @@
 - **[Dousing Rain](dousing-rain.md)**: Call a downpour that douses fire
 - **[Dragon Voice](dragon-voice.md)**: +6 on Charisma checks with dragons; louder voice.
 - **[Dream Shield](dream-shield.md)**: Protect a sleeper's mind from intrusion and control.
+- **[Drunkard’s Breath](drunkards-breath.md)**: A cone that works like *stinking cloud* and feels like a hangover.
 - **[Duelist’s Alacrity](duelists-alacrity.md)**: Faster, with fancy footwork.
 - **[Duelist’s Feint](duelists-feint.md)**: Distract a foe so it is vulnerable to your attacks.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./level.
@@ -298,12 +301,14 @@
 - **[Qualm](qualm.md)**: Target gains penalties on ability checks, skill checks, and concentration checks until it spends an entire round doing nothing.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Rage](rage.md)**: Gives +2 to Str and Con, +1 on Will saves, –2 to AC.
+- **[Raiment of Command](raiment-of-command.md)**: You seem an authority: +5 on Diplomacy and Intimidate, penalties to oppose you.
 - **[Recharge](recharge.md)**: Restore charges to a technological item.
 - **[Reinvigorating Wind](reinvigorating-wind.md)**: Wake and invigorate allies with a magical wind
 - **[Remarkable Legerdemain](remarkable-legerdemain.md)**: Treat held objects as coin-sized for Sleight of Hand.
 - **[Resounding Clang](resounding-clang.md)**: Metal objects vibrate, penalizing attacks, skills and armor.
 - **[Retrieve Item](retrieve-item.md)**: A small prepared object appears in your hand when you snap your fingers.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
+- **[Reveal True Shape](reveal-true-shape.md)**: Shows the true form of a disguised or transformed creature.
 - **[Rotgut](rotgut.md)**: Turn water into cheap alcohol
 - **[Rumormonger](rumormonger.md)**: Follow a rumor to see where it spreads.
 - **[Rune of Rule](rune-of-rule.md)**: Paint a rune on an ally that grants a one-time boost.
@@ -352,6 +357,7 @@
 - **[Akashic Communion](akashic-communion.md)**: Many Knowledge checks with +10 insight.
 - **[Allied Cloak](allied-cloak.md)**: Animate your cloak to shield you and aid your actions.
 - **[Alpha Instinct](alpha-instinct.md)**: Gain bonuses when you’re interacting with animals.
+- **[Apparent Treachery](apparent-treachery.md)**: Paranoid targets have no allies for any purpose.
 - **[Assume Appearance](assume-appearance.md)**: Use a creature’s corpse to adopt its form.
 - **[Audiovisual Hallucination](audiovisual-hallucination.md)**: Create a phantasm with auditory and visual effects.
 - **[Aura of the Unremarkable](aura-of-the-unremarkable.md)**: Make actions seem mundane to nearby creatures.
@@ -463,6 +469,7 @@
 - **[Skyshroud](skyshroud.md)**: Shows the real sky above you, even underground.
 - **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 - **[Speak with Animals](speak-with-animals.md)**: You can communicate with animals.
+- **[Spectral Scout](spectral-scout.md)**: A spectral Tiny animal scouts for you and reports what it sees.
 - **[Spotlight](spotlight.md)**: bright light on a target suppresses nearby light and ruins its Stealth
 - **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
 - **[Stolen Light](stolen-light.md)**: Store an image within a gem.

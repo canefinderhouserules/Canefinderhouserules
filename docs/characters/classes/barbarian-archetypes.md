@@ -987,3 +987,15 @@ At 12th level, a beastkin berserker is able to use feral transformation to take 
 **Sun Totem (Su)**: The touch of flame fuels and bolsters the barbarian’s rage. She gains fire resistance 10 when raging. In addition, for 1d6 rounds after coming in direct contact with open flame, her speed increases by 10 feet. A barbarian must have the lesser sun totem rage power and be at least 6th level to select this rage power.
 
 **Sun Totem, Greater (Su)**: The barbarian takes on aspects of the sun. She gains fire resistance 20 when raging. While raging, she is surrounded by a halo of flame that deals 1d6 points of fire damage to anyone that hits her with a touch attack or unarmed attack or succeeds at a bull rush, drag, or grapple combat maneuver against her. Her unarmed strikes and attacks with natural weapons deal 1d6 additional points of fire damage. A barbarian must have the sun totem rage power and be at least 10th level to select this rage power.
+
+## Psychopomp Rage Powers
+
+**Inured to the Dead**: Once per rage, when the barbarian fails a saving throw against an effect created by an undead creature, she can reroll the saving throw. She must use the second result, even if it is worse. This does not require spending an action. A barbarian must be at least 4th level to select this rage power.
+
+**Psychopomp Totem, Lesser**: While raging, the barbarian gains a +1 deflection bonus to AC against the attacks of undead creatures and a +1 bonus on saving throws against death effects, diseases, and poisons. This bonus increases by 1 for each psychopomp totem rage power she has, excepting this one.
+
+**Psychopomp Totem**: The first time each round a creature with regeneration or fast healing is struck by the barbarian while she is raging, the creature must succeed at a Will save (DC = 10 + half the barbarian's level + the barbarian's Strength modifier) or that ability is suppressed for 1 round. A barbarian must have the lesser psychopomp totem rage power and be at least 6th level to select this rage power.
+
+**Psychopomp Totem, Greater**: While raging, the barbarian can detect and locate undead creatures within 30 feet, just as if it had the blindsight ability, and any weapons she wields are treated as if they had the ghost touch special ability. A barbarian must have the psychopomp totem rage power and be at least 10th level to select this rage power.
+
+**Unrestrained Rage**: While raging, the barbarian is immune to paralysis. If the barbarian is targeted by an effect that would cause her to become paralyzed, she can enter a rage as an immediate action, as long as she still has rounds of rage remaining. A barbarian must be at least 12th level to select this rage power.

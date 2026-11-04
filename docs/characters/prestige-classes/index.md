@@ -98,6 +98,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[First Magic Arcanist](first-magic-arcanist.md)**: An arcane caster who adapts druid magic and fights evil with good-descriptor spells.
 
+**[Forest Warden](forest-warden.md)**: A guerrilla master of the forest who strikes unseen and blends his martial skill with nature magic.
+
 **[Freedom Tiller](freedom-tiller.md)**: A liberator who escorts a crop of allies to safety, empowering them with teamwork and local contacts.
 
 **[Genie Binder](genie-binder.md)**: A conjurer who seals and commands genies, either as an eidolon-like minion or as a source of spellcasting power.
@@ -123,6 +125,8 @@ The prestige classes presented in this chapter are summarized below.
 **[Infernal Knight](infernal-knight.md)**: A lawful devil-slayer who smites chaos and wears specialized armor.
 
 **[Infernal Knight Signifer](infernal-knight-signifer.md)**: The spellcasting arm of a knightly order: masked, lawful casters with devil-resistant gifts and armor training.
+
+**[Justicar](justicar.md)**: A lawful arbiter who carries the force of law into slums and frontier lands alike.
 
 **[Knightly Orders](knightly-orders.md)**: The generic orders of the infernal knights, with their reckonings and boons.
 
@@ -194,6 +198,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Sphere Singer](sphere-singer.md)**: A wandering singer who hastens steps, shapes dreams, bends luck and grows butterfly wings.
 
+**[Spherewalker](spherewalker.md)**: A far-traveling devotee of the goddess of dreams and stars, skilled in journeys, dreams and thrown starknives.
+
 **[Stalwart Defender](stalwart-defender.md)**: A master of defending territory and holding the line at all costs.
 
 **[Stargazer](stargazer.md)**: A star-watching caster who draws on constellations and is trained against demons.
@@ -215,6 +221,8 @@ The prestige classes presented in this chapter are summarized below.
 **[Technomancer](technomancer.md)**: An arcane caster who blends magic and super-science.
 
 **[Twilight Knight](twilight-knight.md)**: A deep-cover spy with disguise magic, improvised weapons, and a dead-drop network.
+
+**[Valor Crusader](valor-crusader.md)**: A divine champion of honor, justice and valor who breaks tyranny and fear.
 
 **[Veiled Illusionist](veiled-illusionist.md)**: An illusionist who masters glamers and shifts between racial veils.
 

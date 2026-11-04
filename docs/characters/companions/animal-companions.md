@@ -71,6 +71,14 @@ This animal resembles an alpaca with voluminous, shiny wool.
 
 **Spit (Ex)**: Once per hour, a bacallia can spit at a single target within 10 feet. The target must succeed at a DC 13 Fortitude save or be sickened for 1d4 rounds.
 
+### Blackwisp Egret
+
+This jet-black bird has a long, hooked beak. Its piercing orange eyes reflect any light that hits them, making them appear to glow ominously.
+
+**Starting Statistics**: **Size** Small; **Speed** 30 ft., fly 30 ft. (poor); **AC** +1 natural armor; **Attack** bite (1d4); **Ability Scores** Str 8, Dex 17, Con 8, Int 2, Wis 13, Cha 5; **Special Qualities** low-light vision.
+
+**4th-Level Advancement**: **Size** Medium; **Attack** bite (1d6); **Ability Scores** Str +4, Dex -2, Con +2; **Special Qualities** deceptive target.
+
 ### Bristle Boar
 
 The vicious spines surrounding this boar’s head are almost as unnerving as the wild look in its eyes.
@@ -103,6 +111,22 @@ This small primate is more dangerous than its size suggests.
 
 **4th-Level Advancement**: Size Medium; Attack bite (1d6), slam (1d4 plus grab); Ability Scores Str +4, Dex –2, Con +2.
 
+### Dallo
+
+This squat, grunting creature stinks of musk and earth. Leathery plates and black horns protect its woolly underside.
+
+**Starting Statistics**: **Size** Small; **Speed** 30 ft., burrow 10 ft.; **AC** +2 natural armor; **Attack** 2 claws (1d3), gore (1d4); **Ability Scores** Str 11, Dex 12, Con 13, Int 2, Wis 13, Cha 8; **Special Qualities** darkvision 30 ft., low-light vision, scent.
+
+**4th-Level Advancement**: **Size** Medium; **AC** +2 natural armor; **Attack** gore (1d6), 2 claws (1d4); **Ability Scores** Str +4, Dex -2, Con +2.
+
+### Enchanter Heron
+
+This large bird has gray-and-white feathers, a long beak, and a bulbous sac on its throat that glows with a pale, sapphire light.
+
+**Starting Statistics**: **Size** Medium; **Speed** 30 ft., fly 20 ft. (average); **AC** +2 natural armor; **Attack** bite (1d6); **Ability Scores** Str 13, Dex 15, Con 12, Int 2, Wis 11, Cha 7; **Special Qualities** low-light vision, throat sack.
+
+**7th-Level Advancement**: **Size** Large; **AC** +2 natural armor; **Attack** bite (1d8); **Ability Scores** Str +4, Dex -2, Con +2; **Special Attacks** swallow whole.
+
 ### Eohippus
 
 The eohippus is a small, primeval ancestor of the modern horse. It has three-toed feet rather than hooves.
@@ -110,6 +134,14 @@ The eohippus is a small, primeval ancestor of the modern horse. It has three-toe
 **Starting Statistics**: Size Small; Speed 40 ft.; AC +2 natural armor; Attack bite (1d4); Ability Scores Str 11, Dex 15, Con 12, Int 2, Wis 11, Cha 4; Special Qualities low-light vision, scent.
 
 **4th-Level Advancement**: Ability Scores Dex +2, Con +2.
+
+### Faerie Mount
+
+Short legs and overlarge ears make this broad-chested canine seem almost comical.
+
+**Starting Statistics**: **Size** Small; **Speed** 30 ft.; **AC** +1 natural armor; **Attack** bite (1d4); **Ability Scores** Str 9, Dex 12, Con 15, Int 2, Wis 13, Cha 12; **Special Qualities** low-light vision, scent, stability.
+
+**4th-Level Advancement**: **Size** Medium; **Speed** 40 ft.; **Attack** bite (1d6); **Ability Scores** Str +4, Dex -2, Con +2; **Special Qualities** sure-footed.
 
 ### Falcon
 
@@ -119,6 +151,14 @@ This swift raptor has amazing eyesight and sharp talons.
 
 **4th-Level Advancement**: Ability Scores Dex +2, Con +2.
 
+### Gallerok
+
+This stout, serpentine creature’s body ripples with muscle. Jagged fangs line its broad, powerful jaws.
+
+**Starting Statistics**: **Size** Medium; **Speed** 30 ft., climb 20 ft.; **AC** +2 natural armor; **Attack** bite (1d4); **Ability Scores** Str 12, Dex 16, Con 13, Int 1, Wis 10, Cha 5; **Special Qualities** darkvision 60 ft., low-light vision.
+
+**4th-Level Advancement**: **Size** Large; **AC** +2 natural armor; **Attack** bite (1d6); **Ability Scores** Str +4, Dex -2, Con +2; **Special Attacks** constrict (1d6), grab.
+
 ### Giant Frilled Lizard
 
 This large lizard can display a frightening frill on its neck when it charges.
@@ -126,6 +166,14 @@ This large lizard can display a frightening frill on its neck when it charges.
 **Starting Statistics**: Size Medium; Speed 30 ft., climb 30 ft.; AC +4 natural armor; Attack bite (1d6), tail (1d4); Ability Scores Str 13, Dex 15, Con 13, Int 2, Wis 14, Cha 10; Special Attacks intimidating charge; Special Qualities low-light vision, scent.
 
 **7th-Level Advancement**: Size Large; AC +2 natural armor; Attack bite (1d8), tail (1d6); Ability Scores Str +8, Dex –2, Con +4.
+
+### Gliding Turtle
+
+This giant turtle has a large, thin membrane of scaly skin extending from its shell to its legs.
+
+**Starting Statistics**: **Size** Medium; **Speed** 10 ft., swim 20 ft.; **AC** +2 natural armor; **Attack** bite (1d6); **Ability Scores** Str 12, Dex 12, Con 12, Int 2, Wis 11, Cha 5; **Special Qualities** low-light vision, shell.
+
+**4th-Level Advancement**: **Size** Large; **Speed** fly 30 ft. (clumsy); **AC** +3 natural armor; **Attack** bite (1d8); **Ability Scores** Str +2, Dex -2, Con +2; **Special Attacks** gliding charge; **Special Qualities** glide.
 
 ### Grizzly Bear
 
@@ -143,6 +191,14 @@ This unusual shark is named for its blocky, rectangular head. The creature’s e
 
 **7th-Level Advancement**: Size Large; AC +3 natural armor; Attack bite (1d8); Ability Scores Str +2, Dex –2, Con +4; Special Qualities blindsense 30 ft.
 
+### Hobbe Hound
+
+Hobgoblin druids, hunters, and rangers who can take an animal companion can choose a hobbe hound.
+
+**Starting Statistics**: **Size** Medium; **Speed** 40 ft.; **AC** +1 natural armor; **Attack** bite (1d4 plus allergic reaction); **Ability Scores** Str 12, Dex 15, Con 15, Int 2, Wis 10, Cha 7; **Special Qualities** allergic reaction, low-light vision, scent.
+
+**7th-Level Advancement**: **AC** +3 natural armor; **Attack** bite (1d6 plus allergic reaction); **Ability Scores** Str +6, Dex -2, Con +2; **Special Qualities** fire resistance 3.
+
 ### Hunting Vulture
 
 This dark-winged vulture has a wickedly hooked beak stained with bright red blood.
@@ -158,6 +214,14 @@ While some value it for its hair, the llama makes a fine animal companion as wel
 **Starting Statistics**: Size Small; Speed 40 ft.; AC +1 natural armor; Attack bite (1d4); Ability Scores Str 11, Dex 16, Con 12, Int 2, Wis 13, Cha 9; Special Qualities low-light vision.
 
 **4th-Level Advancement**: Size Medium; Attack bite (1d6); Ability Scores Str +4, Dex –2, Con +4.
+
+### Marax
+
+Dense, bony growths line the back of this bipedal predator. Between its gnashing, toothy underbite, scythe-like claws, and spiked tail, no part of this beast offers mercy.
+
+**Starting Statistics**: **Size** Medium; **Speed** 30 ft.; **AC** +3 natural armor; **Attack** bite (1d6), tail barbs (secondary natural attack; 1d4 plus poison); **Ability Scores** Str 16, Dex 15, Con 12, Int 2, Wis 12, Cha 6; **Special Attacks** poison (*frequency* 1 round [4], *effect* 1d2 Dex damage, *cure* 1 save, Con-based DC); **Special Qualities** low-light vision, scent.
+
+**7th-Level Advancement**: **Size** Large; **AC** +2 natural armor; **Attack** bite (1d8), 2 claws (1d4); **Ability Scores** Str +6, Dex -2, Con +2; **Special Attacks** pounce.
 
 ### Marsupial Devil
 
@@ -182,6 +246,22 @@ This large-clawed burrowing mammal is slow but can burrow through loose earth an
 **Starting Statistics**: Size Small; Speed 20 ft., burrow 10 ft.; AC +1 natural armor; Attack 2 claws (1d4); Ability Scores Str 12, Dex 15, Con 13, Int 2, Wis 10, Cha 5; Special Qualities low-light vision, tremorsense 30 ft.
 
 **4th-Level Advancement**: Size Medium; Speed burrow 20 ft.; AC +2 natural armor; Attack 2 claws (1d6); Ability Scores Str +2, Dex –2, Con +4; Special Attacks rend (2 claws, 1d6).
+
+### Mindspin Ram
+
+This stark white ram’s curved horns appear to have sharp thorns studding every inch of their surface.
+
+**Starting Statistics**: **Size** Small; **Speed** 40 ft.; **AC** +1 natural armor; **Attack** gore (1d4); **Ability Scores** Str 10, Dex 17, Con 11, Int 2, Wis 14, Cha 7; **Special Qualities** low-light vision, scent.
+
+**4th-Level Advancement**: **Size** Medium; **Attack** gore (1d6); **Ability Scores** Str +4, Dex -2, Con +2; **Special Attacks** bleed (gore, 1), powerful charge (gore, 1d8).
+
+### Mome Rath
+
+Moss and lichen grow from the shaggy back of this boar-like animal. Its curving claws and prehensile tail hold it in the trees.
+
+**Starting Statistics**: **Size** Small; **Speed** 30 ft., climb 10 ft.; **AC** +1 natural armor; **Attack** 2 claws (1d3 plus poison); **Ability Scores** Str 12, Dex 14, Con 15, Int 2, Wis 14, Cha 17; **Special Attacks** poison (*frequency* 1 round [3], *effect* sickened for 1d3 rounds, *cure* 1 save, Con-based DC); **Special Qualities** low-light vision, scent.
+
+**4th-Level Advancement**: **Size** Medium; **Attack** 2 claws (1d4 plus poison); **Special Attacks** poison (*frequency* 1 round [3], *effect* sickened for 1d6 rounds, *cure* 1 save, Con-based DC).
 
 ### Moose
 
@@ -255,6 +335,14 @@ A denizen of the frozen tundra, the reindeer is a sure-footed companion in icy t
 
 **4th-Level Advancement**: Ability Scores Str +2, Dex +2, Con +2.
 
+### Ringhorn
+
+The horns of this goatlike deer grow up and curve around into a pair of massive, spiraling rings atop its head.
+
+**Starting Statistics**: **Size** Small; **Speed** 40 ft.; **AC** +1 natural armor; **Attack** 2 hooves (1d3); **Ability Scores** Str 11, Dex 18, Con 11, Int 2, Wis 12, Cha 13; **Special Qualities** low-light vision, scent.
+
+**4th-Level Advancement**: **Size** Medium; **Attack** 2 hooves (1d4); **Ability Scores** Str +2, Dex -2, Con +2; **Bonus Feat(s)** Nimble Moves.
+
 ### Saber-Toothed Cat
 
 Somewhat smaller than the more ferocious saber-toothed tiger, the saber-toothed cat is nonetheless an impressive predatory creature.
@@ -279,6 +367,14 @@ Its unmistakable black-and-white-striped coloration gives a clear warning sign t
 
 **7th-Level Advancement**: Size Large; AC +2 natural armor; Attack bite (1d8), 2 claws (1d6); Ability Scores Str +8, Dex –2, Con +4; Special Attacks spray (usable 2/day); Special Qualities musk (Fort save or nauseated for 1d3 rounds).
 
+### Sea Crawler
+
+This furred creature has long tentacles that are covered in ridges and suction discs in place of arms, legs, and a tail.
+
+**Starting Statistics**: **Size** Small; **Speed** 10 ft., climb 30 ft., swim 10 ft.; **AC** +1 natural armor; **Attack** bite (1d4), 2 tentacles (1d3); **Ability Scores** Str 9 Dex 17, Con 10, Int 2, Wis 12, Cha 6; **Special Attacks** remarkable grip; **Special Qualities** low-light vision.
+
+**4th-Level Advancement**: **Size** Medium; **Attack** bite (1d8); **Ability Scores** Str +2, Dex -2, Con +2; **Special Attacks** grab; **Special Qualities** regrowth.
+
 ### Shissah
 
 This sleek equine is slightly smaller than an average horse, but its eyes contain a gleam of higher intelligence. It starts with slightly less natural armor than a typical horse and doesn’t advance until 7th level, but it is easier to train.
@@ -292,6 +388,22 @@ This sleek equine is slightly smaller than an average horse, but its eyes contai
 **Desert Senses (Ex)**: A shissah gains a +4 racial bonus on saving throws against mirage effects and against effects that cause the dazzled condition, and a +4 racial bonus on Perception checks in deserts.
 
 **Easily Trained (Ex)**: Anyone attempting to train a shissah gains a +2 bonus on her Handle Animal checks. A shissah can learn an additional 2 tricks beyond what an animal of its intelligence can normally be taught.
+
+### Skittergoat
+
+This small goat has sharp horns that wrap around its head to point forward, making it resemble a tiny bull.
+
+**Starting Statistics**: **Size** Small; **Speed** 30 ft.; **AC** +1 natural armor; **Attack** gore (1d4); **Ability Scores** Str 13, Dex 14, Con 11, Int 2, Wis 10, Cha 5; **Special Qualities** low-light vision.
+
+**4th-Level Advancement**: **Size** Medium; **Attack** gore (1d6); **Ability Scores** Str +4, Dex -2, Con +2; **Special Qualities** egg cracker.
+
+### Sorico
+
+This large, tawny rodent has powerful forelimbs ending in spade-like claws. Sand and mud cakes the creature’s fur.
+
+**Starting Statistics**: **Size** Small; **Speed** 30 ft., burrow 10 ft.; **Attack** bite (1d4), 2 claws (1d4); **Ability Scores** Str 10, Dex 13, Con 15, Int 2, Wis 14, Cha 7; **Special Qualities** low-light vision, scent.
+
+**4th-Level Advancement**: **Size** Medium; **AC** +2 natural armor; **Attack** bite (1d6), 2 claws (1d6); **Ability Scores** Str +4, Dex +2, Con +2; **Special Attacks** dust cloud.
 
 ### Spitting Cobra
 
@@ -308,6 +420,14 @@ Although this creature isn’t nearly the size of a true giant squid, it remains
 **Starting Statistics**: Size Medium; Speed swim 40 ft., jet 90 ft.; AC +1 natural armor; Attack bite (1d6), tentacles (1d4 plus grab); Ability Scores Str 12, Dex 15, Con 13, Int 2, Wis 12, Cha 3; Special Qualities aquatic, low-light vision.
 
 **7th-Level Advancement**: Size Large; AC +2 natural armor; Attack bite (1d8), tentacles (1d6 plus grab); Ability Scores Str +8, Dex –2, Con +4; Special Attacks constrict (1d6); Special Qualities ink cloud (20-ft. radius)
+
+### Switchback Jackal
+
+Resembling a small, half-starved wolf, this canine stares with deep intensity and undeniable hunger.
+
+**Starting Statistics**: **Size** Small; **Speed** 40 ft.; **AC** +1 natural armor; **Attack** bite (1d4), 2 claws (1d3); **Ability Scores** Str 11, Dex 13, Con 14, Int 2, Wis 13, Cha 6; **Special Qualities** low-light vision, problem solver, scent.
+
+**4th-Level Advancement**: **Ability Scores** Dex +4, Con +2, Wis +2; **Bonus Feat(s)** Overwhelm.
 
 ### Walrus
 

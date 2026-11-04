@@ -1431,3 +1431,39 @@ A druid can use this ability an additional time per day at 6th level and every 2
 **Fungal Companion**: At 4th level, a fungal pilgrim who selected an animal companion for her nature bond initiates a transformation in her companion. The animal companion gains the fungal creature template, but does not gain the create spawn, poison spore cloud, and poisonous blood special attacks. At 10th level, the animal companion gains the poisonous blood special attack. At 14th level, the animal companion gains the poison spore cloud special attack. At 20th level, the animal companion gains the create spawn special attack; created spawn are under the control of the fungal pilgrim. Spawn created in this way last for only 48 hours before rotting away. This ability replaces wild shape if the fungal pilgrim selected an animal companion as her nature bond.
 
 **Mycological Transformation (Ex)**: Fungal spores become fully integrated into the druid’s body, inside and out. At 15th level, she gains all immunities granted by the plant creature type as well as the light sensitivity universal monster rule. She counts as a plant for the purposes of effects that would negatively affect or damage plants. In addition, she no longer needs to eat or sleep in the typical manner, and instead gains the fungal creature’s rejuvenation ability. She can perform her daily meditation during her rejuvenation. This ability replaces timeless body.
+
+## Monster Tamer
+
+The monster tamer is a variant that allows a druid to bond with strange and monstrous creatures. Given the unusual nature of these companions, the tamer also learns ways to strengthen his valuable ally. Most tamers worship the goddess of monsters, though a few have discovered these practices independently. Tamers develop a stronger bond with their companion than some of the most powerful druids or rangers, and often travel to exotic locations to find strange specimens to tame, with bragging rights going to those with the most unusual creature.
+
+**Class Skills**: Eliminate Diplomacy and Heal from the druid’s class skill list.
+
+Add Intimidate and Knowledge (arcana).
+
+**Bestial Bond (Sp)**: At 4th level, the druid can call out to savage powers of the wilds, entreating them to aid her and her companion. Doing so allows her to cast *cure serious wounds*, *neutralize poison*, or *remove disease* on her animal companion as a spell-like ability by channeling the power of nature. The druid does not need to have these spells prepared as they come directly from the goddess. Using this ability, however, causes the druid to take 1d4 points of Wisdom damage. Any effect that prevents this Wisdom damage from occurring also prevents the use of this ability.
+
+**Variant Companion (Ex)**: At 4th level the druid adds additional non-animals to her alternate list of animal companions. If she chooses one of these creatures as an animal companion, she may use her wild empathy ability to influence the creature (even though it is not an animal and its intelligence may be above 2), though she takes a –4 penalty on this check. If the druid and the companion share a common language these checks are not needed. If the companion’s intelligence is 3 or higher, the number of “tricks” the druid can teach it refers to the number of commands the creature understands regardless of language.
+
+**1st Level or Higher**: darkmantle, krenshar, shocker lizard
+
+**4th Level or Higher (Level –3)**: hippogriff
+
+**10th Level or Higher (Level –9)**: girallon, griffon, owlbear, sea cat
+
+**13th Level or Higher (Level –12)**: bulette, chimera
+
+**Undying Bond (Sp)**: At 6th level the druid can use her bestial bond ability to cast *resurrection* on her animal companion.
+
+**Exotic Companion (Ex)**: At 9th level the druid adds additional non-animals to her alternate list of animal companions, all of them with higher intelligence and strange shapes. It otherwise functions as the variant companion ability.
+
+**7th Level or Higher (Level –6)**: worg
+
+**10th Level or Higher (Level –9)**: ettercap, manticore, minotaur, winter wolf
+
+**13th Level or Higher (Level –12)**: behir, dragonne, hieracosphinx
+
+**Resist Nature's Lure**: The druid does not gain this ability.
+
+**Wild Shape (Su)**: The druid does not gain her second daily use of her wild shape ability at level 6. Hereafter she has one fewer daily use of the ability than a standard druid of her level.
+
+**Venom Immunity (Ex)**: The druid does not gain this ability.

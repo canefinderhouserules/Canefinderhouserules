@@ -13,11 +13,13 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Air Bubble](air-bubble.md)**: Creates a small pocket of air around your head or an object.
 - **[Alchemical Tinkering](alchemical-tinkering.md)**: You transform one alchemical item or firearm into another alchemical item or firearm of the same or lesser.
 - **[Alleviate Addiction](alleviate-addiction.md)**: Subject ignores the effects of addictions.
+- **[Alluring Light](alluring-light.md)**: Enemies who fail their saves must walk toward your glow.
 - **[Antitoxin Touch](antitoxin-touch.md)**: Target can't poison itself accidentally and safely milks venom.
 - **[Aphasia](aphasia.md)**: Prevent a target from understanding language.
 - **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
 - **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
+- **[Blood Money](blood-money.md)**: Your blood becomes a material component for your next spell.
 - **[Bouncy Body](bouncy-body.md)**: Become rubbery and bounce when falling
 - **[Brightest Night](brightest-night.md)**: grant or enhance low-light vision
 - **[Bungle](bungle.md)**: Target takes a –20 penalty on its next attack roll or check.
@@ -81,6 +83,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Night Blindness](night-blindness.md)**: Lighting around the target counts as one step darker.
 - **[Obscure Poison](obscure-poison.md)**: Make it harder to detect a poison or a venomous creature.
 - **[Open and Shut](open-and-shut.md)**: Obfuscate whether a door is open or closed.
+- **[Opportunistic Loyalty](opportunistic-loyalty.md)**: Count as an ally for a spell an enemy casts on its allies.
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
 - **[Peacebond](peacebond.md)**: Locks a weapon in place on the target’s body.
 - **[Perfected Potential](perfected-potential.md)**: Target rolls twice on its next attack, save, or check.
@@ -124,6 +127,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Undine’s Curse](undine-s-curse.md)**: The target loses its body’s natural ability to breathe automatically.
 - **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
 - **[Unhallowed Blows](unhallowed-blows.md)**: Give undead a +1 enhancement bonus on one natural attack or unarmed strikes.
+- **[Unlock Flesh](unlock-flesh.md)**: Staggers a living creature or damages corporeal undead.
 - **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Reflex saves.
 - **[Urban Grace](urban-grace.md)**: You become one with the city around you, allowing you to move more easily through its crowds and buildings.
 - **[Vocal Alteration](vocal-alteration.md)**: Disguise target’s voice.
@@ -203,6 +207,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Flurry of Snowballs](flurry-of-snowballs.md)**: Cone of snowballs dealing 4d6 cold damage.
 - **[Force Sword](force-sword.md)**: Create a longsword of pure force.
 - **[Frost Fall](frost-fall.md)**: The area is covered in a chilling frost.
+- **[Fungal Blisters](fungal-blisters.md)**: Blisters on your body burst into harmful spores when you are hit.
 - **[Fury of the Sun](fury-of-the-sun.md)**: You curse the target to suffer unbearable heat.
 - **[Garden of Peril](garden-of-peril.md)**: Poisonous mushrooms sicken nearby creatures.
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
@@ -308,6 +313,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 
 - **[Accept Affliction](accept-affliction.md)**: Transfer an affliction or condition from a creature to yourself.
 - **[Accursed Glare](accursed-glare.md)**: Target rolls attacks and saves twice and takes the lower result.
+- **[Aggravate Affliction](aggravate-affliction.md)**: All recurring afflictions on the target trigger at once.
 - **[Agonizing Rebuke](agonizing-rebuke.md)**: Component V, S Range close (25 ft.
 - **[Akashic Communion](akashic-communion.md)**: Many Knowledge checks with +10 insight.
 - **[Anthropomorphic Animal](anthropomorphic-animal.md)**: Animal becomes bipedal.
@@ -338,6 +344,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Curse of Befouled Fortune](curse-of-befouled-fortune.md)**: curse a target so it rolls twice and takes the worse result
 - **[Curse of Dragonflies](curse-of-dragonflies.md)**: Curse: flying becomes difficult for the target.
 - **[Cursed Treasure](cursed-treasure.md)**: Curse treasure so the next thief is afflicted
+- **[Deathwine](deathwine.md)**: A healing potion boosts your next necromancy spell instead.
 - **[Debilitating Pain](debilitating-pain.md)**: Overcome a creature with pain so it is stunned or dazed.
 - **[Delay Poison, Communal](delay-poison-communal.md)**: As delay poison, but you may divide the duration among creatures touched.
 - **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
@@ -415,6 +422,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Project Weakness](project-weakness.md)**: a living creature takes on your vampire weaknesses
 - **[Pugwampi’s Grace](pugwampis-grace.md)**: Target rolls 2d20 and takes the lower result.
 - **[Pup Shape](pup-shape.md)**: Transforms a single animal or magical beast into a younger and cuter version of itself for a short time.
+- **[Qlippoth Appearance](qlippoth-appearance.md)**: Your face looks subtly wrong, and you can reveal the face beneath to harm one viewer.
 - **[Quell Energy](quell-energy.md)**: Reduce a creature's energy damage of one type.
 - **[Raging Rubble](raging-rubble.md)**: You animate an area of rubble, gravel, or other small stones, creating a dangerous, rolling area of debris.
 - **[Rain of Frogs](rain-of-frogs.md)**: Summon a swarm of poisonous frogs.
@@ -427,6 +435,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Riversight](riversight.md)**: Scry along a river you touch.
 - **[Sands of Time](sands-of-time.md)**: Target temporarily ages.
 - **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
+- **[Sebaceous Twin](sebaceous-twin.md)**: A parasitic clone bursts from the target and drains its Constitution.
 - **[See Beyond](see-beyond.md)**: Meditative spell: large Perception bonus and brief x-ray vision.
 - **[Seed Spies](seed-spies.md)**: Wafting seeds act as spies, as insect spies.
 - **[Sensory Amplifier](sensory-amplifier.md)**: Creatures nearby sense more keenly but take extra damage.
@@ -473,6 +482,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 ## 4th-Level Witch Spells
 
 - **[Absorb Toxicity](absorb-toxicity.md)**: You become immune to diseases and toxins, absorb one, and then spread it to others.
+- **[Abyssal Vermin](abyssal-vermin.md)**: A vermin or swarm gains the fiendish simple template.
 - **[Age Resistance, Lesser](age-resistance-lesser.md)**: Ignore penalties from middle age.
 - **[Antithetical Constraint](antithetical-constraint.md)**: Target automatically misses all creatures not of the opposite alignment.
 - **[Anywhere But Here](anywhere-but-here.md)**: Transport yourself and willing creatures to a random planar destination
@@ -511,11 +521,13 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Fiendish Wrath](fiendish-wrath.md)**: Willing creatures enter a combat frenzy and can rend.
 - **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
 - **[Flame Steed](flame-steed.md)**: Conjure a mount made of flame.
+- **[Flaming Aura](flaming-aura.md)**: Gain the fire subtype, or an aura of fire if you already have it.
 - **[Flesh Puppet](flesh-puppet.md)**: Control a zombie in human guise.
 - **[Fleshworm Infestation](fleshworm-infestation.md)**: Worms deal hp and Dex damage.
 - **[Foretell Failure](foretell-failure.md)**: Learn whether an action would succeed on a roll of 10.
 - **[Forgetful Slumber](forgetful-slumber.md)**: This spell acts as the deeper slumber spell, but only affects one creature of 10 Hit Dice or fewer.
 - **[Frigid Souls](frigid-souls.md)**: Haunt strips protection against cold.
+- **[Frosty Aura](frosty-aura.md)**: Gain the cold subtype, or an aura of cold if you already have it.
 - **[Ghost Brand](ghost-brand.md)**: Allow an item to transform into a brand and back.
 - **[Globe of Tranquil Water](globe-of-tranquil-water.md)**: A calm bubble of water blocks precipitation and water attacks.
 - **[Greater Hypnotism](greater-hypnotism.md)**: hypnotize more creatures and make several requests
@@ -527,6 +539,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
 - **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form
 - **[Infernal Healing, Greater](infernal-healing-greater.md)**: As *infernal healing*, but fast healing 4.
+- **[Infuse Decay](infuse-decay.md)**: As *imbue with spell ability*, on undead and with touch spells only.
 - **[Innocuous Shape](innocuous-shape.md)**: Target looks like a harmless creature.
 - **[Insect Spies](insect-spies.md)**: Use magic beetles as spies.
 - **[Instant Restoration](instant-restoration.md)**: Heal a summoned creature as it falls
@@ -569,6 +582,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Symbol of Healing](symbol-of-healing.md)**: Triggered rune heals living creatures.
 - **[Symbol of Revelation](symbol-of-revelation.md)**: Triggered symbol reveals illusions.
 - **[Symbol of Slowing](symbol-of-slowing.md)**: Triggered rune slows creatures.
+- **[Thanatotic Fury](thanatotic-fury.md)**: Giants only: your hits block divine casting and overcome epic DR.
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
 - **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[Touch of Slime](touch-of-slime.md)**: Touch infests a target with green slime.
@@ -605,6 +619,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Contagion, Greater](contagion-greater.md)**: Infect a subject with a magical disease.
 - **[Contagious Suggestion](contagious-suggestion.md)**: a suggestion that spreads from target to target
 - **[Curse of Disgust](curse-of-disgust.md)**: Target is sickened while viewing trigger.
+- **[Curse of Unexpected Death](curse-of-unexpected-death.md)**: Each minute the target has a 5% chance of sudden heavy damage.
 - **[Curse, Major](curse-major.md)**: As bestow curse, but harder to remove.
 - **[Damnation Stride](damnation-stride.md)**: This spell functions like dimension door, except you leave behind a burst of fire.
 - **[Darkvault](darkvault.md)**: wards an area so light cannot change its illumination
@@ -658,6 +673,8 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Strip Scales](strip-scales.md)**: Reduce a creature's racial natural armor.
 - **[Summon Genie](summon-genie.md)**: Summons a djinni or janni.
 - **[Summon Infernal Host](summon-infernal-host.md)**: Summons 1d4+1 lesser host devils or 1 greater host devil.
+- **[Summon Lesser Demon](summon-lesser-demon.md)**: Summons one of several minor demons.
+- **[Summon Lesser Psychopomp](summon-lesser-psychopomp.md)**: Summons esobok or nosoi psychopomps.
 - **[Summoner Conduit](summoner-conduit.md)**: The target takes damage whenever its summoned creature does.
 - **[Sun’s Disdain, Mass](suns-disdain-mass.md)**: As *sun’s disdain*, on multiple creatures.
 - **[Surface Excursion](surface-excursion.md)**: Teleport to the surface directly above you, with a beacon to return.
@@ -666,6 +683,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Symbol of Striking](symbol-of-striking.md)**
 - **[Transplant Visage](transplant-visage.md)**: Wear a stolen face for +10 on Disguise.
 - **[Truespeak](truespeak.md)**: You can communicate with any creature that is not mindless.
+- **[Unleash Pandemonium](unleash-pandemonium.md)**: Howling winds deafen and frighten creatures in an area.
 - **[Unseen Crew](unseen-crew.md)**: Invisible sailors crew a ship.
 - **[Vengeful Stinger](vengeful-stinger.md)**: Stinging tail retaliates against melee attackers.
 - **[Vile Dog Transformation](vile-dog-transformation.md)**: Transform ordinary dogs into fiendish minions.
@@ -727,6 +745,7 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.
 - **[Summon Genie, Greater](summon-genie-greater.md)**: Summons a shaitan, djinn or janni.
 - **[Summon Laborers](summon-laborers.md)**: Summon petitioners to help downtime work
+- **[Summon Vanth](summon-vanth.md)**: Summons a vanth psychopomp.
 - **[Symbol of Distraction](symbol-of-distraction.md)**: Symbol that fascinates creatures nearby.
 - **[Symbol of Sealing](symbol-of-sealing.md)**: Create triggered wall of force.
 - **[Symbol of Storms](symbol-of-storms.md)**: rune that unleashes hurricane winds and lightning
@@ -831,8 +850,10 @@ New witch spells from *Ultimate Magic*. Spells from other books will be added as
 - **[Mind Blank, Communal](mind-blank-communal.md)**: As mind blank, but you may divide the duration among creatures touched.
 - **[Parasitic Soul](parasitic-soul.md)**: Place a trapped soul in a victim's body
 - **[Polar Midnight](polar-midnight.md)**: Cold darkness paralyzes and deals damage. The following spells are presented in alphabetical order, with the exception of those whose names begin with “greater,” “lesser,” or “mass.” These spells are alphabetized
+- **[Rune of Order](rune-of-order.md)**: A rune stabilizes an area against chaos and drains chaotic creatures.
 - **[Scribe’s Binding](scribes-binding.md)**: Bind a creature and its memories into a book.
 - **[Shadow Transmutation, Greater](shadow-transmutation-greater.md)**: mimics greater polymorph with shadow-stuff
+- **[Summon Greater Demon](summon-greater-demon.md)**: Summons a coloxus, omox or 1d3 kalavakus demons.
 - **[Symbol of Strife](symbol-of-strife.md)**: Triggered rune makes creatures attack.
 - **[Symbol of Vulnerability](symbol-of-vulnerability.md)**: Triggered rune gives penalties.
 - **[Threefold Form](threefold-form.md)**: Split into three copies of yourself.

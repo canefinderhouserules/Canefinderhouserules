@@ -1,0 +1,11 @@
+# Mark of the Monster Mother
+
+You are marked as one of the goddess of monsters’ favored minions.
+
+**Prerequisites**: Con 13, the goddess of monsters as patron deity.
+
+**Benefit**:  Your abdomen bears several ugly scars, as if your belly had been torn open by a clawed hand. The mark identifies you as a favored worshiper of the goddess, and if it is visible, you gain a +2 bonus on Intimidate checks but a –2 penalty on Diplomacy checks.
+
+Once per day as a free action, you may invoke your goddess’s name as you strike a nonevil foe with any melee attack. As you do, you cause the creature struck to become temporarily deformed in some hideous manner. Common deformities caused by this attack include cloven hooves, horns, forked tongues, vestigial limbs like wings and tails, organs inexplicably forming on the outside of the skin, additional (and useless) eyes, and skin that hardens into pus-weeping plates. The deformity reduces the target’s Charisma score by 1d4 points for 1 hour; the target can resist this effect by making a Fortitude save (DC 10 + your character level + your Charisma modifier). The physical deformity vanishes as soon as the Charisma penalty fades.
+
+In addition, any offspring you sire or give birth to gain the fiendish template.

@@ -3755,3 +3755,250 @@ Dwarven siege engineers fill these 20-foot-diameter cloth balloons with a secret
 *Clothing.* Entertainers often employ seductive garb and entrancing props in their performances. Scarves of colorful cloth or transparent silk, often embroidered with elaborate scenes or motifs, are favorite accessories.
 
 For the pocketed and reinforced versions, see Clothing in the Ultimate Equipment goods.
+
+## Adventure Path Poisons, Diseases and Drugs
+
+### Bloodbrain Venom
+
+**Price** 400 gp; **Weight** —
+
+**Type** injury; **Save** Fortitude DC 17
+
+**Frequency** 1/round for 6 rounds
+
+**Initial Effect** 1d6 Str damage and scented for 10 minutes; **Secondary Effect** 1d3 Str damage
+
+**Cure** 1 save
+
+The morlock creepers brew a potent and fragrant poison harvested from the bright red sap of brain-shaped mushrooms that flourish in the lower caverns. Creatures struck by the poisoned darts are marked with a pungent fungal aroma for 10 minutes, even if they succeed at their Fortitude save. The scent is particularly potent to morlocks, allowing them to detect creatures tainted by it with their scent ability at a range of 100 feet even in the still air of the caves. The smell can be scrubbed off as a full round action with an alkalai substance, such as milk or soap.
+
+One dose of bloodbrain venom costs 400 gp.
+
+### Fool’s Leprosy
+
+**Price** 10,000 gp; **Weight** —
+
+**Type** ingested; **Save** Fortitude DC 20
+
+**Onset** 1 day; **Frequency** 1/day for 6 days
+
+**Effect** 1d2 Cha damage and 1d2 Con drain
+
+**Cure** 3 consecutive saves
+
+This cunning supernatural venom was originally engineered by an order of assassins’ alchemists. Fool’s leprosy is a slow-acting but ultimately fatal ingested toxin that, once it takes hold in its victim’s system, closely mimics the effects of a fast-moving form of leprosy. An attempt to divine its nature via *detect poison* fails unless the caster succeeds at a DC 25 caster level check, and use of a spell like *diagnose disease* always misidentifies the venom as a disease unless the caster succeeds at a DC 25 caster level check. In either event, the GM should roll for these caster level checks in secret. *Neutralize poison* and *slow poison* function normally on a person suffering from fool’s leprosy, but spells like *remove disease* do not, as the condition is a poison effect, not a disease effect. *Heal* can cure the effects of fool’s leprosy but does nothing to educate the caster about the nature of the effect it removes. As long as the truth about fool’s leprosy remains hidden, a successful DC 35 Heal check is required to recognize that someone suffering from its effects is affected by poison, not a disease.
+
+### Muddling Heresy
+
+**Price** 750 gp; **Weight** —
+
+**Type** injury; **Save** Fortitude DC 20
+
+**Frequency** 1/round for 6 rounds
+
+**Effect** 1d4+1 Wis damage
+
+**Cure** 2 saves
+
+The poison muddling heresy is often used by worshipers of a heretical archdevil to make others more susceptible to being convinced of blasphemies and revelations of heretical truths. While the poison can be used on its own, when used as part of a deific boon, the save DC, duration, or other effects may differ from normal.
+
+### Quicklime
+
+**Weight** —
+
+**Type** contact or inhaled; **Save** Fortitude DC 18
+
+**Frequency** 1/round for 6 rounds
+
+**Effect** 1d2 Con damage, blindness and nausea for 1d10 minutes
+
+**Cure** 2 consecutive saves
+
+This caustic substance is a poisonous irritant, and reacts with water (including moisture in the eyes, nose, mouth, and lungs) to create heat.
+
+### Slow Nectar
+
+**Price** N/A; **Weight** —
+
+**Type** injury; **Save** Fortitude DC 17
+
+**Frequency** 1/round for 6 rounds
+
+**Effect** 1d3 Dex damage plus paralysis for 1 round
+
+**Cure** 1 save
+
+The ettercaps collect the sap of small white flowers that grow on the nearby cliffs to create a paralytic poison known as slow nectar, which the creatures use in their traps.
+
+### Frostspore
+
+**Price** 100 gp; **Weight** —
+
+**Type** ingested or injury; **Save** Fortitude DC 13
+
+**Frequency** 1/round for 6 rounds
+
+**Effect** 1d6 cold damage plus staggered for 1 round
+
+**Cure** 2 saves
+
+### Blackfrost
+
+**Price** N/A; **Weight** —
+
+**Type** contact; **Save** Fortitude DC 15
+
+**Onset** 1 minute; **Frequency** 1/minute for 6 minutes
+
+**Initial Effect** 2d6 hp damage (half acid, half cold); **Secondary Effect** 1d2 Con damage
+
+**Cure** 2 consecutive saves
+
+### Bloodwine
+
+**Price** 100 gp; **Weight** —
+
+**Type** ingested; **Save** Fortitude DC 25
+
+**Frequency** 1/minute for 6 minutes
+
+**Initial Effect** sickened for 1d4 hours; **Secondary Effect** 1d3 Wis damage
+
+**Cure** 2 consecutive saves
+
+### Swampseer Poison
+
+**Price** 400 gp; **Weight** —
+
+**Type** ingested; **Save** Fortitude DC 18
+
+**Onset** 10 minutes; **Frequency** 1/minute for 3 minutes
+
+**Initial Effect** 1d4 Wis; **Secondary Effect** 1d2 Wis and confusion 1 minute
+
+**Cure** 2 saves
+
+### Numbing Poison
+
+**Price** 100 gp; **Weight** —
+
+**Type** injury; **Save** Fortitude DC 13
+
+**Initial Effect** 1d3 Str and 1d3 Dex; **Secondary Effect** 1d3 Str and 1d3 Dex
+
+### Spellscar Fever
+
+**Type** ingested or inhaled; **Fortitude Save** DC 15 (+1 per previous save)
+
+**Onset** 2d6+1 days; **Frequency** 1/day
+
+**Effect** 1d2 Con damage, 1d2 Cha drain
+
+**Cure** 2 consecutive saves
+
+**Ongoing Save** Fort DC equal to the save DC of the failed saving throw
+
+Anyone who lives with spellscar fever for a week straight without dying becomes immune to the disease and to mana fever, but also becomes a mutant, chosen by the GM.
+
+| d4 | Effect |
+|---|---|
+| 1 | **Echolocation (Ex)**: The mutant constantly emits a yipping noise, causing it to take a –4 penalty on Stealth checks. It can never cast spells with verbal components, but it gains blindsight out to a range of 15 feet. |
+| 2 | **Gigantism (Ex)**: The mutant takes a –2 penalty on all Intelligence-based skill checks, but it gains the benefit of a permanent enlarge person effect. |
+| 3 | **Proteanism (Ex)**: The mutant takes a –2 penalty on all Strength-based skill checks, but it gains a +2 bonus on its Disguise skill check and it gains the compression universal monster ability. |
+| 4 | **Reality Shift (Ex)**: The mutant takes a –5 penalty on initiative checks and can never act in the surprise round, but it gains the benefit of a permanent blur effect. |
+
+### Trembling Plague
+
+**Type** ingested or inhaled; **Fortitude Save** DC 16
+
+**Onset** 1d4 days; **Frequency** 1/day
+
+**Effect** 1d4 Con damage and 1 Dex damage
+
+**Cure** 2 consecutive saves
+
+Days after contracting the virus, the victim becomes stricken with a high fever and begins sweating profusely. Later, the victim begins suffering from extreme tremors, followed by a thinning of the blood and bleeding from the tear ducts, nose, ears, and other orifices.
+
+### Ghoul’s Delectation
+
+**Type** injury; **Fortitude Save** DC 15
+
+**Onset** 1 day; **Frequency** 1/day
+
+**Effect** 1d3 Con and 1d3 Wis damage
+
+**Cure** 2 consecutive saves
+
+A humanoid afflicted with ghoul’s delectation must attempt a new Will save each day. If the humanoid fails, it attacks and attempts to eat the weakest humanoid nearby. If the save is successful, it resists. A humanoid who dies or is killed while afflicted rises as a ghast at the next midnight. The save DC is Charisma-based.
+
+### Daemonic Wasting
+
+**Type** contact; **Fortitude Save** DC 23
+
+**Onset** 1 day; **Frequency** 1/day
+
+**Effect** 1d4 Con damage and 1d4 Cha damage
+
+**Cure** 2 consecutive saves
+
+### Bonechill
+
+**Type** injury; **Fortitude Save** DC 16
+
+**Onset** 1 day; **Frequency** 1/day
+
+**Effect** 1d4 Dex damage and any nonlethal damage incurred from being in a cold environment becomes lethal damage (though it can still cause hypothermia)
+
+**Cure** 2 consecutive saves
+
+### Ergia
+
+**Type** contact; **Fortitude Save** DC 20
+
+**Onset** 1 day; **Frequency** 1/day
+
+**Effect** 1d4 Str damage and 1d4 Con damage, target must make a second Fort save or 1 point of the damage is drain instead, and a creature that has suffered ability drain glows blue as if limned with *faerie fire*
+
+**Cure** 2 consecutive saves
+
+### Fungal Flu
+
+**Type** inhaled; **Fortitude Save** DC 12
+
+**Onset** 3d6 days; **Frequency** 1/day
+
+**Effect** 1d4 Con. Rolling a 1 on any Fortitude save to resist taking damage from fungal flu results in blindness. The blindness persists - even resisting spells like *remove blindness/deafness* - until the disease is cured.
+
+**Cure** 2 consecutive saves
+
+### Wasting Phage
+
+**Type** contact or ingested; **Fortitude Save** DC 20
+
+**Onset** 1 day; **Frequency** 1/day
+
+**Effect** 1d4 Cha and 1d4 Con.
+
+**Cure** 2 consecutive saves
+
+### Tetanus
+
+**Type** injury; **Fortitude Save** DC 14
+
+**Onset** 1d6 days; **Frequency** 1/day
+
+**Effect**  1d4 Dex. Each time someone takes Dexterity damage from tetanus, there's a 50% chance his jaw muscles stiffen, preventing speech and the use of spells with verbal components for the next 24 hours.
+
+**Cure** 2 consecutive saves
+
+### Muscaria
+
+**Type** ingested; **Addiction** minor, Fortitude DC 14
+
+**Price** 15 gp
+
+**Effect** 3 hours; +1d6 alchemical bonus on a single Knowledge (any one), Perception, or Sense Motive check once per minute for the duration of the effect **Onset** 30 minutes
+
+**Damage** 1d4 Cha damage
+
+These small mushrooms, grown in dark forests, have red caps dotted with white spots. Able to induce strong hallucinogenic states, they have long been used by shamans and other spiritual leaders to enter trances to seek flashes of insight.

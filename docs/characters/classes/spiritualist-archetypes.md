@@ -455,3 +455,13 @@ When the pressure to grow wars with a personal need for simplicity, a mortal sou
 **Exemplar**: Instead of bonding to the phantom of a dead soul, a quintessentialist forges her best qualities into a spiritual aspect called an exemplar, which resides in her subconscious mind at all times rather than on the Ethereal Plane. An exemplar uses the quintessentialist’s ability scores when fully manifested rather than those of a standard phantom, but otherwise advances as a phantom. The exemplar can cast any of the spiritualist’s spells while fully manifested, sharing the same spells known and spell slots, and does not suffer from the quintessentialist’s unfocused spellcasting ability.
 
 A quintessentialist can fully manifest her exemplar as a full-round action rather than a 1-minute ritual, and she can dismiss it back into her mind as a standard action. When fully manifested, a quintessentialist can transfer any equipment she is currently wearing or carrying to her exemplar, allowing it to manifest with weapons, armor, and other equipment, but doing so removes these possessions from the quintessentialist. She can likewise grant her exemplar any feats she knows, losing access to those feats herself while the exemplar remains fully manifested. Projecting an exemplar is draining, however. A quintessentialist cannot cast any spells herself and she takes a –2 penalty to all ability scores while her exemplar is fully manifested. Every round the exemplar remains fully manifested, the quintessentialist takes 1d6 points of damage; this damage cannot be reduced or prevented in any way. This alters phantom.
+
+## Grim Apostle
+
+Some devotees of the Four Horsemen can form spiritual manifestations of the daemonic demigods.
+
+**Grim Phantom (Su)**: The spirit linked to a grim apostle functions in all respects as a regular spiritualist’s phantom, but each day when the grim apostle regains her daily spell slots, she can choose which Horseman focus (see below) is dominant within the grim phantom.
+
+When the grim phantom is banished to the Ethereal Plane, the grim apostle takes an amount of damage equal to 1d4 × the grim phantom’s number of Hit Dice. This ability modifies the phantom ability and replaces the phantom’s emotional focus.
+
+**Hardened Soul (Su)**: At 1st level, while a grim phantom is confined in the grim apostle’s consciousness, the grim apostle gains a +4 bonus on saving throws against death effects and effects that would remove or subsume the grim apostle’s soul (such as *possession* or *trap the soul*). At 6th level and every 6 levels thereafter, this bonus increases by 2 (to a maximum of +10 at 18th level). This ability replaces shared consciousness and fused consciousness.

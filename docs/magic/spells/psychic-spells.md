@@ -134,6 +134,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - Negative Reaction
 - Peacebond
 - **[Night Blindness](night-blindness.md)**: Lighting around the target counts as one step darker.
+- **[Opportunistic Loyalty](opportunistic-loyalty.md)**: Count as an ally for a spell an enemy casts on its allies.
 - **[Perfected Potential](perfected-potential.md)**: Target rolls twice on its next attack, save, or check.
 - **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Pierce Facade](pierce-facade.md)**: +5 insight on Perception to see through disguises.

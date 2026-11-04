@@ -1379,3 +1379,11 @@ Certain alchemists focus on mastering the chemical reactions between alcohol and
 **Alcoholic Resistance (Ex)**: At 2nd level, a mixologist’s bonus on saving throws against poison also applies on saving throws to become less drunk and to avoid passing out. This doesn’t allow a mixologist to become immune to alcohol. This alters poison resistance.
 
 **Mixologist Master (Su)**: At 14th level, a mixologist can have up to two alcoholic extracts for each level of extracts he can prepare as long as he can prepare at least two extracts of that level. This replaces persistent mutagen.
+
+## Aquatic Discoveries
+
+**Air Lung**: An alchemist with this discovery has conditioned his body to adapt to life above water. He gains the amphibious special quality. Only an alchemist with the aquatic subtype can select this discovery.
+
+**Webbed Extremities**: An alchemist with this discovery grows membranes between his fingers and toes, greatly improving his movement underwater. The alchemist gains a +4 alchemical bonus on Swim checks and can take 10 on a Swim check even if distracted or endangered while swimming.
+
+**Wet Coat**: An alchemist with this discovery has conditioned his body so that it never completely dries out when on land. He effectively becomes immune to any detrimental effects of his water dependency. Only an alchemist with the aquatic subtype and the water dependency special quality can select this discovery. An alchemist must be at least 4th level before selecting this discovery.

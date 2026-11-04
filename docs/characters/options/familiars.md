@@ -109,3 +109,32 @@
 **Mockingfey**: This tiny avian has the head of a humanoid and the body of a brilliantly colored parrot. (CN Tiny fey; speed 20 ft., fly 60 ft.; at will *daze*; mock: as a standard action, take on the appearance of any creature it can see, as *veil*.)
 
 **Smokeshade**: This tube of roiling mist writhes through the air. A spellcaster of at least 7th level with an alignment within one step of neutral evil who has the Improved Familiar feat can select a smokeshade as a familiar. (NE Tiny aberration (incorporeal); fly 60 ft.; tendril 2d6 negative energy plus cloying shade; hide in plain sight.)
+
+## Familiars of the Adventure Paths
+
+These animals work as standard familiars.
+
+| Familiar | Master’s Benefit |
+|---|---|
+| Lich newt | +2 bonus on Fortitude saves against disease and poison |
+| Petromin | +3 bonus on Stealth checks |
+| Rock tuatara | +3 bonus on Stealth checks in rocky environments |
+| Snark | +3 bonus on Stealth checks |
+| Torble | +2 bonus on Craft (alchemy) checks |
+| Tullimonstrum | +3 bonus on Perception checks |
+
+A spellcaster with the Improved Familiar feat can also select these creatures, given the alignment and level shown.
+
+| Familiar | Alignment | Arcane Spellcaster Level |
+|---|---|---|
+| Coral capuchin | Within one step of neutral | 3rd |
+| Doru div | Neutral evil | 7th |
+| Dweomercat cub | Chaotic neutral | 7th |
+| Galluvix | Any | 7th |
+| Impundulu | Neutral evil | 7th |
+| Nehushtan | Good | 7th |
+| Sin seeker | See its entry | 5th |
+| Skvader | Neutral | 3rd |
+| Tidepool dragon | Within one step of chaotic neutral | 7th |
+| Typhilipede | Lawful evil | 7th |
+| Wolpertinger | Neutral | 5th |

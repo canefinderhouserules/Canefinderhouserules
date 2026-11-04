@@ -56,8 +56,10 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Lucky Number](lucky-number.md)**: When the target rolls a chosen number it can reroll or add +2 luck.
 - **[Nature's Paths](natures-paths.md)**: Find the fastest way through the wilderness
 - **[Open and Shut](open-and-shut.md)**: Obfuscate whether a door is open or closed.
+- **[Opportunistic Loyalty](opportunistic-loyalty.md)**: Count as an ally for a spell an enemy casts on its allies.
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
 - **[Peacebond](peacebond.md)**: Locks a weapon in place on the target’s body.
+- **[Peasant Armaments](peasant-armaments.md)**: Improvised weapons function as simple or martial weapons.
 - **[Persuasive Goad](persuasive-goad.md)**: Target takes 1d6 nonlethal damage; you gain an Intimidate bonus.
 - **[Pick Your Poison](pick-your-poison.md)**: Poison becomes mere intoxication for a time.
 - **[Pierce Facade](pierce-facade.md)**: +5 insight on Perception to see through disguises.
@@ -208,6 +210,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 
 - **[Agonizing Rebuke](agonizing-rebuke.md)**: Component V, S Range close (25 ft.
 - **[Anti-Summoning Shield](anti-summoning-shield.md)**: Summoning effects in the area may fail.
+- **[Apparent Treachery](apparent-treachery.md)**: Paranoid targets have no allies for any purpose.
 - **[Aura of Inviolate Ownership](aura-of-inviolate-ownership.md)**: Targets gain +20 to CMD against disarm and steal.
 - **[Battle Trance](battle-trance.md)**: 3, witch 4 Casting Time 1 standard action Components V, S Range personal Target you Duration 1 minute/level.
 - **[Bite the Hand](bite-the-hand.md)**: Summoned creature attacks its summoner.
@@ -241,6 +244,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Find Fault](find-fault.md)**: Learn a creature's weaknesses and gain +5 on your first attack.
 - **[Flexile Curse](flexile-curse.md)**: Curse degrades worn armor and shields.
 - **[Forced Mutation](forced-mutation.md)**: Twist a creature, imposing penalties and a deformity.
+- **[Frosthammer](frosthammer.md)**: A hurled hammer of ice damages and may trip the target.
 - **[Full Pouch](full-pouch.md)**: Duplicate an alchemical item as you draw it.
 - **[Glimpse the Hidden](glimpse-the-hidden.md)**: As *see invisibility*, but cannot be made permanent.
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
@@ -260,6 +264,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Litany of Warding](litany-of-warding.md)**: You gain two additional attacks of opportunity for 1 round.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
 - **[Meticulous Match](meticulous-match.md)**: Determine if two things are identical.
+- **[Moonrise Arrow](moonrise-arrow.md)**: Ammunition counts as magic and silver and harms incorporeal undead and shapechangers.
 - **[Night of Blades](night-of-blades.md)**: Wall of whirling blades.
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
 - **[Penumbral Disguise](penumbral-disguise.md)**: shadowy illumination masks your features
@@ -376,6 +381,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Forbid Action, Greater](forbid-action-greater.md)**: As forbid action, but 1 creature/level. Lend Greater Judgment: Ally receives all your judgments.
 - **[Foster Hatred](foster-hatred.md)**: Cause creatures to hate one type of creature.
 - **[Guardian Monument, Greater](guardian-monument-greater.md)**: Humans defending the area gain DR 4/magic.
+- **[Heretic’s Tongue](heretics-tongue.md)**: Blasphemous knowledge stops the target from casting spells.
 - **[Hunter’s Blessing](hunters-blessing.md)**: Group gains favored enemy and favored terrain bonuses.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
 - **[Litany of Thunder](litany-of-thunder.md)**: A single target is deafened until the condition is removed, and is confused for 1 round.
@@ -420,6 +426,7 @@ New inquisitor spells from *Ultimate Magic*. Spells from other books will be add
 - **[Prognostication](prognostication.md)**: Gain cryptic information from further in the future than *divination*.
 - **[Realm Retribution](realm-retribution.md)**: The target sends creatures it hits to your alignment's Outer Plane.
 - **[Rotting Alliance](rotting-alliance.md)**: Curse several creatures to waste away when near one another.
+- **[Seer’s Bane](seers-bane.md)**: As *nondetection*, and those who fail to pierce it take damage or a curse.
 - **[Shadow Memory](shadow-memory.md)**: Learn a target’s secrets to aid an assassination.
 - **[Tactical Insight](tactical-insight.md)**: Grants an army mastery of one tactic.
 - **[Umbral Strike](umbral-strike.md)**: a bolt of dark energy deals cold and negative damage and blinds

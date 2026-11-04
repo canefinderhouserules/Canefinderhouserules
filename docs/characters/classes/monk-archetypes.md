@@ -1095,3 +1095,17 @@ When a sin monk gains a level in the monk class and would gain one of the follow
 **Simultaneous Sins (Su)**: At 19th level, a sin monk can spend 3 points from his sin pool as a swift action to gain the benefits of two different sins simultaneously. This replaces empty body.
 
 **Spawn of Sin (Ex)**: At 20th level, the sin monk becomes the physical manifestation of his sins. He is forevermore treated as an aberration rather than a humanoid (or whatever the monk's creature type was) for the purpose of spells and magical effects, and his mind is so consumed by sin that he gains immunity to mind-affecting effects. He does not change in appearance or gain other abilities; however, should the sin monk be slain and brought back from the dead, he returns to life as a sinspawn, retaining his class levels but otherwise replacing his creature type and racial abilities with those of his new form and becoming an NPC under the GM's control. This replaces perfect self.
+
+## Soul Shepherd
+
+Whether studying at the feet of psychopomps or merely imitating the creatures' philosophy and methods, soul shepherds believe in safeguarding the Cycle of Souls.
+
+**Calming Strike (Su)**: As an immediate action after hitting an incorporeal undead creature with an unarmed strike, a soul shepherd can attempt to calm the creature, encouraging it to move peacefully to the next stage of its metaphysical journey. The target must succeed at a Will save (DC = 10 + half soul shepherd's level + the soul shepherd's Wisdom modifier) or be calmed, as *calm spirit*, for 1 minute.
+
+The soul shepherd can use this ability against a haunt by making a touch attack against an AC of 10 + the haunt's CR. A haunt does not receive a saving throw against this ability, but the ability's duration changes to concentration + 1 round, up to 1 round per level. A soul shepherd can use this ability a number of times per day equal to his soul shepherd level. This replaces stunning fist.
+
+**Otherworldly Resilience (Ex)**: At 2nd level, a soul shepherd gains DR 2/adamantine, cold resistance 5, and electricity resistance 5. At 9th level, this improves to DR 5/adamantine, cold resistance 10, and electricity resistance 10. This replaces evasion and improved evasion.
+
+**Spirit Sense (Su)**: At 12th level, a soul shepherd can spend 1 point from his ki pool as a swift action to grant himself the ability to notice, locate, and distinguish between living and undead creatures within 30 feet, just as if he had a psychopomp's spiritsense ability for a number of rounds equal to his Wisdom modifier (minimum 1). This replaces abundant step.
+
+**Final Judgment (Sp)**: At 15th level, a soul shepherd can spend 1 point from his ki pool as a standard action to attempt to free an enslaved soul from an effect that is imprisoning it, such as *soul bind* or *trap the soul*. This functions as a targeted *dispel magic* spell with a caster level equal to the soul shepherd's level. He can spend an additional ki point when he activates this ability to gain a +4 bonus on the caster level check. If the soul is held prisoner by a creature or a non-spell effect, the soul shepherd frees it if his caster level check result is at least 11 + the creature or effect's CR. This replaces quivering palm.
