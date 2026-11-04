@@ -273,9 +273,9 @@ These skills count as class skills for you, and you are treated as if you had an
 
     This ability alters spirit and replaces spirit bonus and spirit surge.  
 
-    Basicamente podes elegir usar esta version del spirit (sumandole cualquier regla extra que le agregue otro arquetipo) a cualquier arquetipo o al medium base si te pinta (debatible arquetipos de otras clases que ganen spirit, lo vemos case by case). Obviamente si tu arquetipo te deja con 1 solo spirit, no se puede.
+    Basically, you can choose to use this version of the spirit (adding any extra rule another archetype gives it) with any archetype, or with the base medium if you want (archetypes of other classes that gain a spirit are debatable; we’ll see case by case). Obviously, if your archetype leaves you with only 1 spirit, you can’t.
 
-    **Apropiate Location:** Ya no es mas necesario hacer el seance en “la ubicacion adecuada del espiritu” a menos que el master por motivos narrativos quiera trollearte y prohibirte usar algun spirit en la situación de rol que se dé. (esto se aplica al medium en si, ya sea usando el seance cambiable de ronda o el permanente de todo el día).
+    **Appropriate Location:** You no longer need to hold the seance in “the spirit’s appropriate location”, unless the GM, for story reasons, wants to mess with you and forbid you from using a spirit in that roleplaying situation. (This applies to the medium itself, whether using the seance that can change each round or the permanent all-day one.)
 
     **Spirits Rework**
 
@@ -388,28 +388,28 @@ These skills count as class skills for you, and you are treated as if you had an
 
     **Archetypes**
 
-    \- Kami Medium: Al no tener Archmage, su Hierophant es mas fuerte, ganando acceso a un domain a eleccion tomando su medium level como su cleric level mientras use Hierophant, y ganando el doble de spells con su lesser power.
+    \- Kami Medium: Since it doesn’t have the Archmage, its Hierophant is stronger: it gains access to a domain of its choice, using its medium level as its cleric level while it uses the Hierophant, and gains twice as many spells with its lesser power.
 
-    \- Medium of the Master: Ki Contact lo tienen a lvl 1. Ganan una Ki Pool igual a la de un monk, a lvl 6 (con el intermediate Power).
+    \- Medium of the Master: They have Ki Contact at 1st level. They gain a ki pool equal to a monk’s at 6th level (with the intermediate power).
 
-    \- Nexian Channeler: el lesser power de archmage te da 2 spells de cada nivel en vez de 1. Ganan la Bonus Feat class feature del Wizard.
+    \- Nexian Channeler: The archmage’s lesser power gives you 2 spells of each level instead of 1. They gain the wizard’s Bonus Feat class feature.
 
-    \- Outer Channeler: Podes gastar 1 de influencia para ganar acceso a la intermediate normal de tus spirits por el resto del día.
+    \- Outer Channeler: You can spend 1 point of influence to gain access to your spirits’ normal intermediate power for the rest of the day.
 
-    \- Relic Channeler: Gana Legendary Influence gratis a lvl 5. Powerful Bond se adapta a los cambios de spirits, dando lo que dice que da y además: 1 uso extra de Martial Flexibility para el Champion; 4 skills para el trickster; 2 usos de Spirit Surge por ronda para Marshal.
+    \- Relic Channeler: Gains Legendary Influence for free at 5th level. Powerful Bond adapts to the spirit changes, giving what it says it gives and also: 1 extra use of Martial Flexibility for the Champion; 4 skills for the Trickster; 2 uses of Spirit Surge per round for the Marshal.
 
-    \- Rivethun Spirit Channeler: La incapacidad de entrar en otro trance/dance/seance por 1 minuto y el -2 a todo al terminar el seance no lo tienen. Ganan Iron Will a nivel 1, e Improved Iron Will a nivel 10.
+    \- Rivethun Spirit Channeler: They don’t have the inability to enter another trance, dance, or seance for 1 minute, nor the –2 penalty to everything when the seance ends. They gain Iron Will at 1st level and Improved Iron Will at 10th level.
 
-    \- Spirit Dancer: La incapacidad de entrar en otro trance/dance/seance por 1 minuto y el -2 a todo al terminar el seance no lo tienen. Ganan Lightning Reflexes a nivel 1, e Improved Lightning Reflexes a nivel 10.
+    \- Spirit Dancer: They don’t have the inability to enter another trance, dance, or seance for 1 minute, nor the –2 penalty to everything when the seance ends. They gain Lightning Reflexes at 1st level and Improved Lightning Reflexes at 10th level.
 
-    \- Spirit Eater: Si gana en la save para conservar espiritus, no gana influencia.
+    \- Spirit Eater: If it wins the save to keep spirits, it gains no influence.
 
-    \- Storm Dreamer: Si gana el second domain power. Storm Trance es una Move Action. a lvl 10 gana Control Weather como parte de su Dream Storm class feature.
+    \- Storm Dreamer: It does gain the second domain power. Storm Trance is a move action. At 10th level it gains *control weather* as part of its Dream Storm class feature.
 
-    \- Storyteller: No pierde Spirit Bonus.
+    \- Storyteller: Does not lose Spirit Bonus.
 
-    \- Uda Wendo: Full level domain, y 2 domains en vez de 1 solo. el resto igual.
+    \- Uda Wendo: Full-level domain, and 2 domains instead of just 1. The rest stays the same.
 
-    \- Vessel of the Failed: Reckless Surge no les gasta 2 influence y pueden usarlo de manera gratuita si sacan algun surge gratuito. Vease pueden optar por el surge normal o por el surge reckless con las mismas reglas que cualquier surge. Su maximo de Influence es 10 en lugar de 7. Pierden control (o tienen su will save para evitarlo) a 6 influencia en vez de 5.
+    \- Vessel of the Failed: Reckless Surge doesn’t cost them 2 influence, and they can use it for free if they get a free surge. That is, they can opt for the normal surge or the reckless surge, under the same rules as any surge. Their maximum influence is 10 instead of 7. They lose control (or get their Will save to avoid it) at 6 influence instead of 5.
 
-    \- Voice of the Void: Void Channeler cuenta como channel para feats y etc.
+    \- Voice of the Void: Void Channeler counts as channel for feats and the like.

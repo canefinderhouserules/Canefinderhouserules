@@ -150,66 +150,66 @@ The full list of wild talents (simple, utility, infusion and substance infusions
 ## House Rules
 
 !!! warning "House rule"
-    \- Kinetic Blade te permite elegir un arma, que puede incluso ser de 2 manos y beneficiarse de conx1,5 de daño y todos los detalles en si de las armas, exceptuando el daño, el rango/daño critico y el efecto de flail. Puede incluso ser 2 armas o arma doble y dual wielder, pero esto último divide su daño a la mitad (si solo tenes 1d6, pos 1d3. Los bonus no los divide a la mitad (o sea el de la secondary si a menos que tengas double slice), solo la cantidad de dados, mitad para cada arma). Requieren la proficiency (es decir solo podes convertir tu kinetic blade en un arma con la que seas proficient).
+    \- Kinetic Blade lets you choose a weapon, which can even be two-handed and benefit from ×1.5 damage and all the details of the weapon itself, except for its damage, critical range and multiplier, and flail effect. It can even be 2 weapons or a double weapon used with dual wielding, but this halves its damage (if you only have 1d6, it becomes 1d3). This does not halve bonuses (the off-hand weapon’s bonus is still halved as normal, unless you have Double Slice), only the number of dice, half for each weapon. It requires proficiency (that is, you can only turn your kinetic blade into a weapon you are proficient with).
 
-    \- Kinetic Whip simplemente te da +5ft de rango al arma que decidas usar
+    \- Kinetic Whip simply gives +5 ft. of reach to the weapon you choose to use.
 
-    \- Existe un equivalente al amulet of mighty fist, digamos “Amulet of Kinetic Blast” que hace lo mismo que el mighty fist pero para especificamente kinetic blast. Solo sirve para physical blasts.
+    \- There is an equivalent to the *amulet of mighty fists*, let’s call it the “Amulet of Kinetic Blast”, which does the same as the *amulet of mighty fists* but specifically for kinetic blast. It only works for physical blasts.
 
-    \- Los bonos de Caster Level también sirven para kineticist (con la logica de que el blast levea cada 2 caster level, así que ponele que logras robar +4 caster level de fuego, pos tu blast de fuego tiene +2d6). Cuenta como evocacion su escuela. Cosas que aumentan el DC también le afectan. Bonos a 1 spell especifico afectan esencialmente a “kinetic blast”. En resumen, ahora cuenta como spell. Para contar como spell igual tiene que poder sumar su elemental overflow.
+    \- Caster level bonuses also work for the kineticist (the logic being that the blast improves every 2 caster levels, so if you manage to steal +4 fire caster levels, your fire blast gets +2d6). Its school counts as evocation. Things that increase the DC also affect it. Bonuses to 1 specific spell essentially affect “kinetic blast”. In short, it now counts as a spell. To count as a spell, it must still be able to add its elemental overflow.
 
-    \- Kinetic Fist (Wild Talent): Ahora es 1d6 + 1d6 cada 3 dados de daño (1-5-11-etc).
+    \- Kinetic Fist (Wild Talent): Now 1d6 + 1d6 every 3 damage dice (1-5-11-etc).
 
-    \- Energized Weapons (Wild Talent): Ahora es 1d6 + 1d6 cada 4 dados de daño (1-7-15-etc).
+    \- Energized Weapons (Wild Talent): Now 1d6 + 1d6 every 4 damage dice (1-7-15-etc).
 
-    \- Metakinesis te da a elegir cualquier metamagia que quieras, con 1 de burn por cada +1 de spell level para poder usarla. La trait de metamagic master les sirve. (siguen la misma logica de una feat de metamagia, vease 1 powerful o 2 common, o 3-4 trait cada vez que sacan metakinesis)
+    \- Metakinesis lets you choose any metamagic you want, at 1 burn per +1 spell level to use it. The Metamagic Master trait works for them. (They follow the same logic as a metamagic feat: 1 powerful, 2 common, or 3-4 traits each time they get metakinesis.)
 
-    \- Aether no daña lo que usa al usarlo para blast.
+    \- Aether does not damage what it uses when using it for a blast.
 
-    \- Force Blast hace el daño de composite pero con d4 en vez de d6 (en lugar de el daño de un simple blast)
+    \- Force Blast deals composite damage but with d4 instead of d6 (instead of the damage of a simple blast).
 
-    \- Thunderstorm Blast ahora es un composite energy blast
+    \- Thunderstorm Blast is now a composite energy blast.
 
-    \- Tierra tiene Acid como opcion de elemento energy blast (puede usar todos los talents de agua, y negociable algunos de fuego por tema de quemaduras acidas).
+    \- Earth has Acid as an energy blast element option (it can use all water talents, and possibly some fire ones, given acid burns).
 
-    \- Earth + Acid es un composite physical blast de mitad de daño de cada uno, como cualquier otro composite blast comun.
+    \- Earth + Acid is a composite physical blast dealing half damage of each, like any other common composite blast.
 
-    \- Positive y Negative admixture no existen mas, ahora son composite energy blasts, de doble positive y de doble negative, respectivamente.
+    \- Positive and Negative Admixture no longer exist; they are now composite energy blasts, of double positive and double negative respectively.
 
-    \- Cualquier blast de positive cura, pero tiene que gastar al menos 1 de burn, sino solo sirve para dañar undeads. Lo mismo aplica a negative. Ambos suben a 1d8 el dado, por ser tan comunmente resistidos por esencialmente la mitad de los enemigos.
+    \- Any positive blast heals, but you must spend at least 1 burn; otherwise it only damages undead. The same applies to negative. Both increase their die to 1d8, since they are commonly resisted by essentially half of all enemies.
 
-    \- Las pocas infusiones (creo que son solo disintegrating y alguna otra) que dupliquen daño, ya no lo duplican mas, pero aumentan el dado un nivel (vease si es d4, sube a d6, si es d6, sube a d8, etc.)
+    \- The few infusions (such as disintegrating) that double damage no longer double it, but increase the die by one step instead (if it is d4, it becomes d6; if it is d6, it becomes d8; and so on).
 
     \- Archetypes:
 
-    -- Aquakineticist: lo mismo pero sube su daño a 1d8.
+    -- Aquakineticist: Same, but its damage increases to 1d8.
 
-    -- Arakineticist: su daño sube a 1d10 solo de negative blast o doble negative blast.
+    -- Arakineticist: Its damage increases to 1d10, only for negative blast or double negative blast.
 
-    -- Blightburner: su blast es uno único llamado Radiation Blast que es un energy blast de 1d4 pero su daño es untyped/radiation. Su Blightburner también es daño de radiation, y su aura empieza con 5ft de radio, y aumenta en 5ft cada vez que aumentaria normalmente. Tiene acceso a los talents de fuego en lugar de los de tierra. Tiene un composite blast que hace 2d4, también de radiación.
+    -- Blightburner: Its blast is a unique one called Radiation Blast, an energy blast dealing 1d4, but its damage is untyped/radiation. Its blightburn damage is also radiation, and its aura starts with a 5-ft. radius and grows by 5 ft. each time it would normally increase. It has access to fire talents instead of earth talents. It has a composite blast dealing 2d4, also radiation.
 
-    -- Blighted Defiler: puede usar su cosa loca 3 veces por zona en vez de 1.
+    -- Blighted Defiler: Can use its defiling ability 3 times per area instead of 1.
 
-    -- Blood Kineticist: Wrack baja el dado a 1d4 en vez de reducir el daño a la mitad. Bleeding Infusion solo cuesta 1 de burn.
+    -- Blood Kineticist: Wrack lowers the die to 1d4 instead of halving the damage. Bleeding Infusion costs only 1 burn.
 
-    -- Dark Elementalist: hacer pito almas es una move en vez de full round, y pueden hacerlo en cosaas con al menos la mitad de su cr, se puede llegar a permitir cosas civiles de cr0-1 si es gente de alma pura y cosas turbias asi. Cuentan como 3 niveles mas alto para Elemental Overflow.
+    -- Dark Elementalist: Consuming souls is a move action instead of a full-round action, and they can do it to creatures with at least half their CR. The GM may allow CR 0-1 civilians if they are people of pure soul, and shady things like that. They count as 3 levels higher for elemental overflow.
 
-    -- Elemental Anihilator: el daño no es mas 1d8 sino el mismo del arma normal.
+    -- Elemental Annihilator: Its damage is no longer 1d8, but the same as the normal weapon.
 
-    -- Elemental Purist: A nivel 7 su daño aumenta, subiendo en 2 el dado, vease de 1d6 a 1d8, 1d8 a 1d10, etc.
+    -- Elemental Purist: At 7th level its damage increases, raising the die by 2 steps: from 1d6 to 1d8, from 1d8 to 1d10, and so on.
 
-    -- Elysiokineticist: Elysian Infusion les cuesta 0 burn. Ghaelelight Blast lo sacan a lvl 7 y es un composite energy blast que hace 2d4 en vez de 2d6. A lvl 15 sube a 2d8.
+    -- Elysiokineticist: Elysian Infusion costs them 0 burn. They get Ghaelelight Blast at 7th level; it is a composite energy blast dealing 2d4 instead of 2d6. At 15th level it increases to 2d8.
 
-    -- Ioun Kineticist: cuenta como crafter para iouns costandoles la mitad. Empieza con 1000gp en ioun stones y cada vez que gane una ioun stone gana 1000gp mas. Obviamente su blast no daña la stone. Ganan el resonant power de 2 piedras cada 3 de burn. Ioun Buffer cambia los precios por 1000, 3000 y 5000 respectivamente.
+    -- Ioun Kineticist: Counts as a crafter for ioun stones, at half the cost. Starts with 1,000 gp in ioun stones, and each time it gains an ioun stone it gains 1,000 gp more. Obviously, its blast does not damage the stone. They gain the resonant power of 2 stones per 3 burn. Ioun Buffer changes the prices to 1,000, 3,000, and 5,000, respectively.
 
-    -- Kinetic Chirurgeon: Su kinetic healer aumenta un nivel el dado (si es agua, de 1d6 a 1d8, si es positive, de 1d8 a 1d10, etc.)
+    -- Kinetic Chirurgeon: Its kinetic healer increases the die by one step (if water, from 1d6 to 1d8; if positive, from 1d8 to 1d10; and so on).
 
-    -- Kinetic Knight: ya no REQUIERE el shield attuneado para poder usar su elemental defense talent. Kinetic Whip les sale gratis también. Pueden aplicar elemental Overflow a la blade.
+    -- Kinetic Knight: No longer REQUIRES the attuned shield to use its elemental defense talent. Kinetic Whip is also free for them. They can apply elemental overflow to the blade.
 
-    -- Leshikyneticist: aumenta un nivel su wood blast (de 1d6 a 1d8). En terrenos boscosos o con muchos arboles, gather power le reduce 1 burn extra.
+    -- Leshykineticist: Increases its wood blast die by one step (from 1d6 to 1d8). In wooded areas or areas with many trees, gather power reduces 1 extra burn.
 
-    -- Overwhelming Soul: Gana Force of Personality de feat a lvl 1, y también puede usar cha para los wild talents que normalmente usarian dex en vez de con.
+    -- Overwhelming Soul: Gains Force of Personality as a feat at 1st level, and can also use Charisma for the wild talents that would normally use Dexterity instead of Constitution.
 
-    -- Psamokinetic: Puede usar ki para darse un ataque extra como cualquier monk para kinetic blade/whip/fist. También puede usar ki para aumentar el dado de su elemento de 1d6 a 1d8, solo por 1 turno.
+    -- Psamokinetic: Can use ki to gain an extra attack, like any monk, for kinetic blade, whip, or fist. It can also use ki to increase its element’s die from 1d6 to 1d8, for 1 round only.
 
-    -- Psychokineticist: su maximo de burn es 3 + wis.
+    -- Psychokineticist: Its maximum burn is 3 + Wisdom modifier.

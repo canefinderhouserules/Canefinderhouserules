@@ -1,14 +1,14 @@
 # Shifter
 
-Se usa el Legendary, con los siguientes cambios. [Shifter (Legendary) \| Library of Metzofitz Wiki](https://libraryofmetzofitz.fandom.com/wiki/Shifter_(Legendary))
+This class uses the Legendary version, with the following changes. [Shifter (Legendary) \| Library of Metzofitz Wiki](https://libraryofmetzofitz.fandom.com/wiki/Shifter_(Legendary))
 
--- Shifter Claws: En vez de la Shifter Evolution de legendary, seguimos usando las shifter claws, con este agregado: Si tu Wild Shape tiene 1 solo ataque, podes elegir ganar 2 ataques naturales para dicha forma, siempre que tengan sentido (Garras en la mayoria de los casos) en lugar de aumentar el daño de tu unico ataque en base a las reglas de esta class feature. Estos dos ataques seran siempre secundarios.
+-- Shifter Claws: Instead of the Legendary version’s Shifter Evolution, we still use shifter claws, with this addition: if your wild shape has only 1 attack, you can choose to gain 2 natural attacks for that form, as long as they make sense (claws in most cases), instead of increasing the damage of your only attack based on the rules of this class feature. These two attacks are always secondary.
 
--- Shifter's Fury: Sigue estando a lvl 6, en lugar de Speed Shift.
+-- Shifter’s Fury: Remains at 6th level, instead of Speed Shift.
 
--- Speed/lightning/instant shift: no existen, busquense la feat que anda por ahi o coman accion como dios manda.
+-- Speed, Lightning, and Instant Shift: These do not exist. Look for the feat that’s around somewhere, or spend the action like you’re supposed to.
 
-\- Shifter Aspects: Versiones mejoradas de las minor forms para que haya variedad interesante y no usen siempre el del stat de turno que usen re triste todos iguales.
+\- Shifter Aspects: Improved versions of the minor forms, so that there is interesting variety and not everyone just uses the aspect of whichever stat they use, which is sad.
 
 -- Bat:
 
@@ -130,20 +130,20 @@ Minor Form: You gain Outflank. You gain the scent ability with a range of 10 fee
 
 Minor Form: You gain 1 additional hit point per Hit Die you have, and treat your Constitution score as 4 points higher than it is for the purpose of determining when you die at negative hit points. At 8th level, you gain Diehard as a bonus feat. Any wildshape level allows for Rage if the form you take has it. At 13th level, you treat your Constitution as being 8 points higher for the purpose of determining when you die at negative hit points.
 
-**-- Weretouched:** Sigue limitado a 1 sola minor form, que es lo que le limita en que tipo de animles se puede convertir (solo pudiendo el de esa forma, pero con mas variedad entre distintos tipos de ese mismo animal)
+**-- Weretouched:** Still limited to only 1 minor form, which limits the type of animals it can turn into (only those of that form, but with more variety among different kinds of that same animal).
 
---- La Hybrid form sigue con las mismas reglas, pero a lvl 6 puede elegir una hybrid form large, y a lvl 8 una huge, sumando los bonos de stats normales de cambiar de tamaño.
+--- The hybrid form follows the same rules, but at 6th level it can choose a Large hybrid form, and at 8th level a Huge one, adding the normal ability score bonuses for changing size.
 
---- El DR ahora es igual al nivel.
+--- DR now equals its level.
 
---- Tiene fast healing 1 y sube 1 mas cada vez que debería ganar un aspecto nuevo.
+--- It has fast healing 1, which increases by 1 each time it would gain a new aspect.
 
-**-- Swarm Shifter:** Solo tiene acceso a Vermin Aspect, y gana “Swarm Shape” a lvl 1 pero como standard, vease como cualquier otro shifter normal.
+**-- Swarm Shifter:** Only has access to Vermin Aspect, and gains “Swarm Shape” at 1st level, but as a standard action, like any other normal shifter.
 
 -- Vermin Aspect:
 
 Minor Form: You gain a +4 bonus on Will saves against mind-affecting affects. This bonus increases to +6 at 8th level and +8 at 13th level.
 
--- Swarm Shape: Te convertir en una swarm, ganando su tipo, sus inmunidades y todas sus reglas. Solo puede ser como mínimo, Tiny, no menos. A lvl 6 desbloquea Diminutive. El daño usa las reglas de Hit Die del swarm type contando el nivel de wild shape como hit die.
+-- Swarm Shape: You turn into a swarm, gaining its type, its immunities, and all its rules. It must be at least Tiny, no smaller. At 6th level it unlocks Diminutive. Its damage uses the swarm type’s Hit Die rules, counting your wild shape level as Hit Dice.
 
--- Swarmer: Los efectos de nivel 10 y 15 se eliminan. Ahora gana esta class feature a nivel 1. Es un touch attack que no suma atributo al daño, que causa 1d6 cada 2 niveles.
+-- Swarmer: The 10th- and 15th-level effects are removed. You now gain this class feature at 1st level. It is a touch attack that adds no ability score to damage, and deals 1d6 per 2 levels.

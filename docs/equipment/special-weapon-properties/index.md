@@ -16,9 +16,9 @@
 
 **Grapple Crit:** On a successful critical hit with a weapon of this type, you can grapple the target of the attack. The wielder can then attempt a combat maneuver check to grapple his opponent as a free action. This grapple attempt does not provoke an attack of opportunity from the creature you are attempting to grapple if that creature is not threatening you. While you grapple the target with a grappling weapon, you can only move or damage the creature on your turn. You are still considered grappled, though you do not have to be adjacent to the creature to continue the grapple. If you move far enough away to be out of the weapon’s reach, you end the grapple with that action.
 
-**Grapple**: usar Grapple con esta arma equipada no tiene penalizador, e incluso tiene un +1 a la tirada.
+**Grapple**: Using grapple with this weapon equipped has no penalty, and it even has a +1 bonus on the roll.
 
-**Grapple-:** Usar grapple con esta arma no tiene penalizador (lo normal es -4).
+**Grapple-:** Using grapple with this weapon has no penalty (normally –4).
 
 **Monk**: A monk weapon can be used by a monk to perform a flurry of blows
 
@@ -34,50 +34,50 @@
 
 **Trip Crit**: On a successful critical hit with a weapon of this type, you can trip the target of the attack. The wielder can then attempt a combat maneuver check to trip his opponent as a free action. This trip attempt does not provoke an attack of opportunity from the creature you are attempting to trip if that creature is not threatening you.
 
-**Quick:** Puede ser desenfundada como swift action incluso si esta escondida, requiere una tirada de dex dc 15 o de 10 con sleight of hand (si tenes al menos 3 ranks de sleight of hands, podes hacer take 10 en combate para esta accion).
+**Quick:** Can be drawn as a swift action even if hidden; this requires a DC 15 Dexterity check, or DC 10 with Sleight of Hand (if you have at least 3 ranks in Sleight of Hand, you can take 10 on this action in combat).
 
-**Hideable:** Facil de esconder, nadie sabe que estas armado a menos que te revisen.
+**Hideable:** Easy to hide; nobody knows you are armed unless they search you.
 
-**Anti-Armor:** Ignora 2 de ca de armadura pero solo de objetos o armadura natural, no obtenida por magia.
+**Anti-Armor:** Ignores 2 points of AC from armor, but only from objects or natural armor, not from armor obtained through magic.
 
 
-**Lunge Weapon:** Podes usar los efectos de la feat Lunge con esta arma.
+**Lunge Weapon:** You can use the effects of the Lunge feat with this weapon.
 
-**Silent:** usar esta arma desde sigilo reduce el penalizador en -10.
+**Silent:** Using this weapon from stealth reduces the penalty by 10.
 
-**Unarmed:** Un arma "Unarmed" te aumenta al siguiente dado de daño desarmado si posees una clase que te mejore el daño desarmado (como Monje, o brawler), esto no te hace superar el dado maximo obtenible (vease en caso de monje no te hace ir por encima de 2d10 a lvl 20).
+**Unarmed:** An “Unarmed” weapon increases you to the next unarmed damage die if you have a class that improves your unarmed damage (such as monk or brawler). This doesn’t take you above the maximum die you can obtain (for a monk, it can’t take you above 2d10 at 20th level).
 
-**Useful Reach:** Es un arma de reach que en vez de -4 al ser usada como improvised weapon para pegar a 5ft, tiene -2.
+**Useful Reach:** A reach weapon that, instead of –4 when used as an improvised weapon to strike at 5 ft., has –2.
 
-**Disarm-:** Igual a disarm pero +1 en vez de +2.
+**Disarm-:** Like disarm, but +1 instead of +2.
 
-**Natural:** Si tenes algo que haga que tu ataque natural haga mas daño que esta arma, usas el daño de tu arma natural pero mantenes el critico y otros efectos que te da esta arma.
+**Natural:** If you have something that makes your natural attack deal more damage than this weapon, you use your natural weapon’s damage but keep the critical and other effects this weapon gives you.
 
-**Torturer:** Mas que un arma, una herramienta de tortura, y por ende tiene +4 a tiradas que involucren una tortura de por medio, y un posible +1 circunstancial a intimidar si involucra amenazas de tortura, segun le pinte al master.
+**Torturer:** More a torture tool than a weapon, so it gives +4 on rolls that involve torture, and possibly a +1 circumstance bonus to Intimidate if threats of torture are involved, as the GM sees fit.
 
-**Monk Double:** el monje puede stackear dual wield y flurry con esta arma, pero no puede gastar ki para ganar ataques extra al mismo tiempo.
+**Monk Double:** A monk can stack two-weapon fighting and flurry of blows with this weapon, but cannot spend ki to gain extra attacks at the same time.
 
-**Anti-parry:** Ignora CA agregada por armas y no se puede usar parry and riposte en contra de esta arma.
+**Anti-parry:** Ignores AC added by weapons, and parry and riposte cannot be used against this weapon.
 
-**Anti-shield:** Ignora 2 de CA de escudos (fisicos reales, no cuenta Shield spell).
+**Anti-shield:** Ignores 2 points of AC from shields (real, physical ones; the *shield* spell doesn’t count).
 
-**Light Flail:** Si gastas una swift action, tu proximo ataque tiene el doble de daño del arma (solo del arma, vease 1d6 a 2d6, nada de fuerza x2 ni nada de eso). Esta acción tiene -1 al ataque.
+**Light Flail:** If you spend a swift action, your next attack deals double the weapon’s damage (only the weapon’s: 1d6 becomes 2d6, with no double Strength or anything like that). This attack takes a –1 penalty.
 
-**Heavy Flail:** Si gastas una move action, tu proximo ataque tiene el doble de daño del arma (solo del arma, vease 1d8 a 2d8, nada de fuerza x2 ni nada de eso). Esta acción tiene -1 al ataque.
+**Heavy Flail:** If you spend a move action, your next attack deals double the weapon’s damage (only the weapon’s: 1d8 becomes 2d8, with no double Strength or anything like that). This attack takes a –1 penalty.
 
-**Versatile:** Gastando una swift action, puede ganar una weapon special ability entre las cuales estan: Disarm-, Grapple-, Heavy Part (la misma swift activa eso, no gasta 2 swifts), Lunge Weapon.
+**Versatile:** By spending a swift action, it can gain one of these weapon special abilities: Disarm-, Grapple-, Heavy Part (the same swift action activates it; you don’t spend 2 swift actions), or Lunge Weapon.
 
-**Heavy Part:** Gastando una swift action cambias el modo de usar tu arma para que pase a hacer Bludgeoning damage.
+**Heavy Part:** By spending a swift action, you change how you use your weapon so it deals bludgeoning damage.
 
-**Coup:** El arma puede aumente x1 extra el multiplicador de daño critico a la hora de hacer un Coup, o decidir no generar ataque de oportunidad pero tener x1 menos de multiplicador.
+**Coup:** The weapon can increase its critical multiplier by an extra ×1 when making a coup de grace, or you can choose not to provoke an attack of opportunity but have a ×1 lower multiplier.
 
-**Group X:** Arma que se vende en grupos de X numero, todas cuentan con los modificadores o encantamientos que se les pongan. Normalmente en arrojadizas diseñadas para ser compactas y estar en grupos identicos. "Recargar" este tipo de arma por ejemplo recuperar 5 javalinas que fueron clavadas en un enemigo, requiere full round action que provoca ataque de oportunidad, junto al cadaver con los proyectiles (se asume que los que fallaron quedaron suficientemente cerca como para que la full round represente ir a buscarlos tambien, a menos que el master te odie y te quiera trollear).
+**Group X:** A weapon sold in groups of X, all of which have any modifiers or enchantments placed on them. This is normally for thrown weapons designed to be compact and to come in identical groups. “Reloading” this type of weapon, such as recovering 5 javelins stuck in an enemy, requires a full-round action that provokes an attack of opportunity, next to the corpse with the projectiles (the ones that missed are assumed to be close enough that the full-round action also represents fetching them, unless the GM hates you and wants to mess with you).
 
-**Non-Melee:** -2 ataque al usar esta arma a melee. Si algun arma tiene non-melee-X, aumenta el penalizador en ese X. Si tiene +X entonces basicamente tiene menos penalizador.
+**Non-Melee:** –2 on attacks when using this weapon in melee. If a weapon has non-melee-X, the penalty increases by that X. If it has +X, it basically has less of a penalty.
 
-**Angled:** Los ataques de esta arma son impredecibles o faciles de mover de formas erraticas o por angulos poco convencionales, ignora 2 de CA de dex/dodge.
+**Angled:** This weapon’s attacks are unpredictable or easy to move erratically or at unconventional angles, ignoring 2 points of AC from Dexterity or dodge.
 
-**Whip:** Cuenta como whip para feats y demas cosas que afecten whips.
+**Whip:** Counts as a whip for feats and anything else that affects whips.
 
 **Automatic Weapon Quality:** Modern firearms include a new type of firearm—the automatic firearm. A weapon with the automatic weapon quality fires a burst of bullets with a single pull of the trigger, attacking all creatures in a line. This line starts from any corner of your space and extends to the limit of the weapon’s range or until it strikes a barrier it cannot penetrate. When an automatic weapon attacks all creatures in a line, it makes a separate attack roll against each creature in the line. Each creature in the line can only be attacked with one bullet from each burst. Each attack roll takes a –2 penalty to account for recoil, and its attack damage cannot be modified by precision damage or damage-increasing feats such as Vital Strike. Effects that grant concealment, such as fog or smoke, or the blur, invisibility, or mirror image spells, do not foil an automatic weapon’s line attack. If any of the attack rolls threaten a critical hit, confirm the critical for that attack roll alone. An automatic weapon misfires only if all of the attack rolls made misfire. A single attack with an automatic weapon fires 10 bullets. An automatic weapon cannot fire single bullets that target one creature. When taking a full-attack action with an automatic weapon, you can fire as many bursts in a round as you have attacks.
 
@@ -87,30 +87,30 @@
 
 **Scatter Weapon Quality:** A weapon with the scatter weapon quality can shoot two different types of ammunition. It can fire normal bullets that target one creature, or it can make a scattering shot, attacking all creatures within a cone. Cannons with the scatter weapon quality only fire grapeshot, unless their descriptions state otherwise. When a scatter weapon attacks all creatures within a cone, it makes a separate attack roll against each creature within the cone. Each attack roll takes a –2 penalty, and its attack damage cannot be modified by precision damage or damage-increasing feats such as Vital Strike. Effects that grant concealment, such as fog or smoke, or the blur, invisibility, or mirror image spells, do not foil a scatter attack. If any of the attack rolls threaten a critical, confirm the critical for that attack roll alone. A firearm that makes a scatter shot misfires only if all of the attack rolls made misfire. If a scatter weapon explodes on a misfire, it deals triple its damage to all creatures within the misfire radius.
 
-**Armor Pen X:** Ignora X de ca de armadura/escudo/natural. En lugar del generalizado “todas las firearms ignoran 2” ahora todas ignoran el numerito este distinto de cada armar.
+**Armor Pen X:** Ignores X points of AC from armor, shields, or natural armor. Instead of the general “all firearms ignore 2”, each firearm now ignores its own number.
 
-**Recoil X:** Siempre que hagas mas de 1 disparo en un mismo turno, sea por Rapid Shot o Itteratives, tenes - X a todas las tiradas después de la primera. Two-handear un arma de 1 mano con recoil reduce en 1 el penalizador, hasta un máximo de 0.
+**Recoil X:** Whenever you fire more than 1 shot in the same turn, whether from Rapid Shot or iterative attacks, you take –X on all rolls after the first. Using a one-handed weapon with recoil in two hands reduces the penalty by 1, to a minimum of 0.
 
 **Double-Barreled:** the two barrels can be fired independently as separate attacks, or both can be fired at once as a standard action (the attack action). A double shot that fires bullets is inaccurate, and takes a –2 penalty on both attacks. A double shot that fires bullets targets only a single creature. It doesn’t multiply Vital Strike, and it doesn’t applies sneak attack or any other type of precision damage more than once.
 
-**Long Range:** -3 ataque en 30ft o menos.
+**Long Range:** –3 on attacks at 30 ft. or less.
 
-**- Sledge hammer:** no es mas la negreada de 2d6, sigue las reglas mas normales de 1d4 si es light, 1d6 si es one handed y 1d8 si es two handed.
+**- Sledgehammer:** No longer the outrageous 2d6; it follows the more normal rules of 1d4 if light, 1d6 if one-handed, and 1d8 if two-handed.
 
-**- Firearms:** No van mas contra touch ac. El misfire es solo con pifia, y Gun Training (habi de clase lvl 5 de gunslinger) te anula el misfire. las de 1 mano ignoran 2 de AC proveniente de Armadura (incluye armadura natural), y las de 2 manos ignoran 4 de AC proveniente de armadura (incluye natural). Rapid Reload tambien sirve en mosquetes.
+**- Firearms:** They no longer target touch AC. A misfire only happens on a natural 1, and Gun Training (the gunslinger’s 5th-level class feature) removes misfires. One-handed firearms ignore 2 points of AC from armor (including natural armor), and two-handed firearms ignore 4 points of AC from armor (including natural armor). Rapid Reload also works with muskets.
 
-**- Bulletproof:** nueva habilidad de armadura que te da +4ca contra armas de fuego. En settings antiguos (previo a la existencia de kevlar) puede tomarse 2 en vez de 4.
+**- Bulletproof:** A new armor ability that gives +4 AC against firearms. In older settings (before kevlar existed) it may be +2 instead of +4.
 
-**- Magic Weapons and Armor, enchantments:** El requisito de que un arma o armadura sea +1 para poder tener un encantamiento, queda abolido. Es decir, podes tener un arma +0 flaming, pagando el coste de un arma +1, no estas mas obligado a que si o si sea +1 primero y luego flaming, teniend oque pagar +2. Obviamente si algo es +0, no te da ataque y daño o ca.
+**- Magic Weapons and Armor, Enchantments:** The requirement that a weapon or armor be +1 in order to have an enchantment is abolished. That is, you can have a +0 flaming weapon by paying the cost of a +1 weapon; you are no longer forced to have it be +1 first and then flaming, paying for +2. Obviously, if something is +0, it gives no attack, damage, or AC bonus.
 
-**- Wild (Armor Enchant):** Ya no tiene de coste +3, ahora es +1.
+**- Wild (Armor Enchantment):** No longer costs +3; it is now +1.
 
-**- Intelligent Items:** Ahora el precio base para crear uno es 5000gp en vez de 500gp.
+**- Intelligent Items:** The base price to create one is now 5,000 gp instead of 500 gp.
 
-**- Kineticist’s Diadem:** Ahora los precios son diferentes, pasando a ser los siguientes:
+**- Kineticist’s Diadem:** The prices are now different, as follows:
 
 Price 6,000 gp (lesser), 18,000 gp (standard), 35,000 gp (greater)
 
-**- Medium Armors:** Pierden 5ft en vez de 10ft de move.
+**- Medium Armors:** They lose 5 ft. of movement instead of 10 ft.
 
-**- Mighty Cleaving:** Te permite afectar 1 cuadrado extra con cleave (en lugar de lo que hace originalmente que con el cambio a cleave ya no sirve, sigue siendo +1 de valor de efecto mágico de arma y todo eso).
+**- Mighty Cleaving:** Lets you affect 1 extra square with Cleave (instead of what it originally does, which no longer works with the change to Cleave; it is still a +1 magic weapon effect value and all that).

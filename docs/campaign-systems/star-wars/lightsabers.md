@@ -27,7 +27,7 @@
 | Heavy Spear | 69420 gp | 2d4 | 2d6 | 19-20/×2 | 6 lbs. | Energy | Reach. Lunge Weapon. Undefensive. |
 | Staff | 69420 gp | 2d4/2d4 | 2d6/2d6 | x3 | 4 lbs. | Energy | Double. Undefensive. |
 
-**Defensive:** +1 AC. Se duplica si no la usaste para atacar en el turno previo.  
+**Defensive:** +1 AC. This doubles if you didn’t use it to attack on your previous turn.  
   
 **Light Flail:** If you spend a swift action, your next attack deals double the weapon's damage (only the weapon's dice, e.g. 1d6 becomes 2d6; no doubling Strength or anything like that). This action carries a –1 penalty on the attack.
 

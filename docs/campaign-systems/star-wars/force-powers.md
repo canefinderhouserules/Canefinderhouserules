@@ -304,7 +304,7 @@ Components: S
 Range: medium (100 ft. + 10 ft./level)  
 Targets up to five creatures, no two of which can be more than 15 ft. apart  
 Duration: Instantaneous  
-Description: You hurl a small object from the surroundings, weighing no more than 1 lb., at the enemy, extremely fast and over a long distance. You make a ranged touch attack that deals 1d4+2 points of bludgeoning, piercing or slashing damage, depending on what you throw. You can throw one extra object for every 2 caster levels above 1, up to a maximum of 5 objects at caster level 9. You can use your casting ability instead of Dexterity for the ranged attack. You can throw multiple objects at the same target. con una sola tirada, o dividirlos entre distintos objetivos, no menos de 1 para cada objetivo, y a no mas de 15ft entre si.
+Description: You hurl a small object from the surroundings, weighing no more than 1 lb., at the enemy, extremely fast and over a long distance. You make a ranged touch attack that deals 1d4+2 points of bludgeoning, piercing or slashing damage, depending on what you throw. You can throw one extra object for every 2 caster levels above 1, up to a maximum of 5 objects at caster level 9. You can use your casting ability instead of Dexterity for the ranged attack. You can throw multiple objects at the same target with a single roll, or divide them among different targets, with at least 1 for each target and no more than 15 ft. between them.
 
 **Force Jump**
 

@@ -43,7 +43,7 @@
 | (Martial) One-Handed Melee Weapons | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weight 1 | Type 2 | Special |
 |---|---|---|---|---|---|---|---|---|
 | Ankus | 8 gp | 1d6 | 1d8 | x3 | — | 5 lbs. | P | disarm, trip, Lunge Weapon. |
-| Battleaxe | 10 gp | 1d6 | 1d8 | 19-20/x3 | — | 6 lbs. | S | Sunder (solo contra escudos) Grapple-, Disarm-. |
+| Battleaxe | 10 gp | 1d6 | 1d8 | 19-20/x3 | — | 6 lbs. | S | Sunder (shields only) Grapple-, Disarm-. |
 | Combat scabbard | 1 gp | 1d4 | 1d6 | x2 | — | 1 lb. | B | improvised , see text |
 | Cutlass | 15 gp | 1d4 | 1d6 | 18-20/x2 | — | 4 lbs. | S | — |
 | Flail, light | 8 gp | 1d6 | 1d8 | x2 | — | 5 lbs. | B | disarm, trip, anti-parry, anti-shield, Heavy flail. |
@@ -76,7 +76,7 @@
 | Flail, heavy | 15 gp | 1d8 | 1d10 | 19-20/x2 | — | 10 lbs. | B | disarm, trip, anti-parry, anti-shield, Heavy flail. |
 | Glaive | 8 gp | 1d6 | 2d4 | 19-20/x2 | — | 10 lbs. | S | reach, Useful reach. |
 | Glaive-guisarme | 12 gp | 1d8 | 1d10 | x3 | — | 10 lbs. | S | brace , reach , see text |
-| Greataxe | 20 gp | 1d10 | 1d12 | 19-20/x3 | — | 12 lbs. | S | Sunder (solo contra escudos), Grapple-, Disarm-. |
+| Greataxe | 20 gp | 1d10 | 1d12 | 19-20/x3 | — | 12 lbs. | S | Sunder (shields only), Grapple-, Disarm-. |
 | Greatclub | 5 gp | 1d8 | 1d10 | x2 | — | 8 lbs. | B | Anti-armor. |
 | Greatsword | 50 gp | 1d10 | 2d6 | 19-20/x2 | — | 8 lbs. | S | Versatility. |
 | Guisarme | 9 gp | 1d6 | 2d4 | 19-20/x2 | — | 12 lbs. | S | Brace, reach, trip, anti-armor, Lunge Weapon. |
@@ -102,7 +102,7 @@
 | Hurlbat | 8 gp | 1d6 | 1d8 | x3 | 15 ft. | 2 lbs. | P and S | Group [10], Non-melee+1. |
 | Longbow | 75 gp | 1d6 | 1d8 | 19-20/x2 | 100 ft. | 3 lbs. | P | — |
 | Longbow, composite | 100 gp | 1d6 | 1d8 | 19-20/x2 | 110 ft. | 3 lbs. | P | Strength |
-| Pilum | 5 gp | 2d4 | 2d6 | x3 | 20 ft. | 4 lbs. | P | Group [3], Son Longspears como melee. |
+| Pilum | 5 gp | 2d4 | 2d6 | x3 | 20 ft. | 4 lbs. | P | Group [3], Counts as a longspear in melee. |
 | Shortbow | 30 gp | 1d4 | 1d6 | 18-20/x2 | 60 ft. | 2 lbs. | P | — |
 | Shortbow, composite | 75 gp | 1d4 | 1d6 | 18-20/x2 | 70 ft. | 2 lbs. | P | Strength |
 | Spear-sling | 50 gp | 1d6 | 1d8 | x3 | see text | 2 lbs. | P | see text |

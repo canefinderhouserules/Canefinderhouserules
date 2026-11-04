@@ -26,7 +26,7 @@
 | Razor, drow | 25 gp | 1d3 | 1d4 | 18–20/×2 | — | 2 lbs. | S | see text |
 | Rope gauntlet | 2 sp | 1d3 | 1d4 | x2 | — | 2 lbs. | B (or S) | — |
 | Sabre, sawtoothAA1 | 35 gp | 1d6 | 1d8 | 19-20/x2 | — | 2 lbs. | S | — |
-| Sai | 1 gp | 1d3 | 1d4 | 19-20/x2 | — | 1 lb. | B | disarm, monk, monk double, sunder (armas). |
+| Sai | 1 gp | 1d3 | 1d4 | 19-20/x2 | — | 1 lb. | B | disarm, monk, monk double, sunder (weapons). |
 | Sanpkhang | 60 gp | 1d3 | 1d4 | 18-20/×2 | — | 1 lb. | P or S | monk , see text |
 | Siangham | 3 gp | 1d4 | 1d6 | 18-20/x2 | — | 1 lb. | P | monk |
 | Sica | 10 gp | 1d4 | 1d6 | 19-20/x2 | — | 2 lbs. | S | performance , anti-shield. |
@@ -39,8 +39,8 @@
 
 | (Exotic) One-Handed Melee Weapons | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weight 1 | Type 2 | Special |
 |---|---|---|---|---|---|---|---|---|
-| Axe-Gauntlet, Dwarven Heavy | 21 gp | 1d6 | 1d8 | 19-20/x3 | — | 5 lbs. | S | Sunder [Solo contra escudos] Grapple-, Disarm-, Blocking, attached. |
-| Axe, hooked | 20 gp | 1d6 | 1d8 | 19-20/x3 | — | 7 lbs. | S | Sunder (solo contra escudos) Grapple, Disarm, trip. |
+| Axe-Gauntlet, Dwarven Heavy | 21 gp | 1d6 | 1d8 | 19-20/x3 | — | 5 lbs. | S | Sunder [shields only] Grapple-, Disarm-, Blocking, attached. |
+| Axe, hooked | 20 gp | 1d6 | 1d8 | 19-20/x3 | — | 7 lbs. | S | Sunder (shields only) Grapple, Disarm, trip. |
 | Broken-back seax | 40 gp | 1d8 | 1d10 | 19–20/×2 | — | 4 lbs. | P & S | see text |
 | Estoc | 50 gp | 2d3 | 2d4 | 18–20/x2 | — | 4 lbs. | P | Finnese. |
 | Falcata | 18 gp | 1d6 | 1d8 | 19-20/x3 | — | 4 lbs. | S | Versatile, Coup, Finnese. |
@@ -58,8 +58,8 @@
 | Sword, dueling | 20 gp | 1d6 | 1d8 | 19-20/x2 | — | 3 lbs | S | Versatile, Finnese, lunge weapon. |
 | Sword, bastard | 35 gp | 1d8 | 1d10 | 19-20/x2 | — | 6 lbs. | S | Versatile. |
 | Tongi | 18 gp | 1d4 | 1d6 | 19-20/x3 | — | 4 lbs. | P | — |
-| Waraxe, dwarven | 30 gp | 1d8 | 1d10 | 19-20/x3 | — | 8 lbs. | S | Sunder [Solo contra escudos] Grapple-, Disarm-. |
-| Waraxe, dwarven double | 60 gp | 1d8 | 1d10 | x3 | — | 12 lbs. | S | Sunder [Solo contra escudos] Grapple-, Disarm-. see text |
+| Waraxe, dwarven | 30 gp | 1d8 | 1d10 | 19-20/x3 | — | 8 lbs. | S | Sunder [shields only] Grapple-, Disarm-. |
+| Waraxe, dwarven double | 60 gp | 1d8 | 1d10 | x3 | — | 12 lbs. | S | Sunder [shields only] Grapple-, Disarm-. see text |
 | Whip | 1 gp | 1d2 | 1d3 | x2 | — | 2 lbs. | S | disarm , nonlethal , reach , trip |
 
 ## Exotic Two Handed Melee Weapons
@@ -78,7 +78,7 @@
 | Double spear | 25 gp | 1d6/1d6 | 1d8/1d8 | ×3 | — | 12 lbs. | P | double, brace, Lunge |
 | Elven branched spear | 20 gp | 1d6 | 1d8 | x3 | — | 10 lbs. | P | brace, reach, finnesse, see text. |
 | Fauchard | 14 gp | 1d8 | 1d10 | 18-20/x2 | — | 10 lbs. | S | reach , trip |
-| Flail, dire | 90 gp | 1d6/1d6 | 1d8/1d8 | x3 | — | 10 lbs. | B | disarm, double, trip, Light flail (tambien afecta al primer golpe secundario.) |
+| Flail, dire | 90 gp | 1d6/1d6 | 1d8/1d8 | x3 | — | 10 lbs. | B | disarm, double, trip, Light flail (also affects the first secondary hit.) |
 | Flailpole | 15 gp | 1d6 | 1d8 | 18-20/x2 | — | 10 lbs. | B | disarm, reach, trip, Heavy flail. |
 | Flambard | 50 gp | 1d8 | 1d10 | 19-20/x2 | — | 6 lbs. | S | sunder, versatile, see text. |
 | Flying blade | 40 gp | 1d10 | 1d12 | x3 | — | 12 lbs. | S | performance, reach, Heavy flail, see text. |
@@ -110,7 +110,7 @@
 | Bow, thorn | 50 gp | 1d4 | 1d6 | x3 | 40 ft. | 2 lbs. | P | — |
 | Crossbow, crank (heavy) | 400 gp | 1d8 | 1d10 | 19-20/x2 | 120 ft. | 12 lbs. | P | Anti-Armor, see text. |
 | Crossbow, crank (light) | 250 gp | 1d6 | 1d8 | 19-20/x2 | 80 ft. | 6 lbs. | P | Anti-Armor, see text. |
-| Crossbow, double | 300 gp | 1d6 | 1d8 | 19-20/x2 | 80 ft. | 18 lbs. | P | Anti-Armor, see text (pero 2 menos del penalizador ahi dicho). |
+| Crossbow, double | 300 gp | 1d6 | 1d8 | 19-20/x2 | 80 ft. | 18 lbs. | P | Anti-Armor, see text (but with a penalty 2 lower than stated there). |
 | Crossbow, hand | 100 gp | 1d3 | 1d4 | 18-20/x2 | 30 ft. | 2 lbs. | P | Anti-armor, see text. |
 | Crossbow, launching | 75 gp | — | — | — | 30 ft. | 8 lbs. | — | see text (may be reduced to a move action instead of a full-round action) |
 | Crossbow, repeating heavy | 400 gp | 1d8 | 1d10 | 19-20/x2 | 120 ft. | 12 lbs. | P | Anti-armor, see text. |
@@ -127,7 +127,7 @@
 | Shield, throwing | +50 gp | 1d4 | 1d6 | x2 | 20 ft. | — | B | performance , trip |
 | Shrillshaft javelin | 35 gp | 1d4 | 1d6 | x2 | 30 ft. | 3 lbs. | P | see text |
 | Shuriken | 1 gp | 1 | 1d2 | 18-20/x2 | 10 ft. | 1/2 lbs. | P | monk, quick, hideable, group [15]. |
-| Sling, double | 10 gp | 1d3 | 1d4 | 19-20/x2 | 50 ft. | 1 lb. | B | Light flail (tambien afecta al primer golpe secundario), double, see text, Strength. |
+| Sling, double | 10 gp | 1d3 | 1d4 | 19-20/x2 | 50 ft. | 1 lb. | B | Light flail (also affects the first secondary hit), double, see text, Strength. |
 | Sling glove | 5 gp | 1d3 | 1d4 | x2 | 50 ft. | 2 lbs. | B | — |
 | Sling staff, halfling | 20 gp | 1d6 | 1d8 | 19-20/x3 | 80 ft. | 3 lbs. | B | Light flail, Strength. |
 | Sling, stitched | — | 1d4 | 1d6 | x2 | — | 1 lb. | B | disarm , trip |

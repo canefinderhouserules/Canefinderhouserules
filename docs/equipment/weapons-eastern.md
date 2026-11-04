@@ -66,7 +66,7 @@
 | Madu (steel) | 40 gp | 1d3 | 1d4 | x2 | — | 6 lbs. | P | performance |
 | Nunchaku | 2 gp | 1d4 | 1d6 | 18-20/x2 | — | 2 lbs. | B | disarm, monk, Light Flail. |
 | Pata | 14 gp | 1d4 | 1d6 | 19-20/x3 | — | 3 lbs. | P | performance , see text. |
-| Sai | 1 gp | 1d3 | 1d4 | 19-20/x2 | — | 1 lb. | B | disarm, monk, monk double, sunder (armas). |
+| Sai | 1 gp | 1d3 | 1d4 | 19-20/x2 | — | 1 lb. | B | disarm, monk, monk double, sunder (weapons). |
 | Siangham | 3 gp | 1d4 | 1d6 | 18-20/x2 | — | 1 lb. | P | monk |
 | Tekko-kagi (iron claw) | 2 gp | 1d4 | 1d6 | 19-20/×2 | — | — | P | disarm , see text |
 | Wakizashi | 35 gp | 1d4 | 1d6 | 18–20/×2 | — | 2 lbs. | P or S | deadly |
