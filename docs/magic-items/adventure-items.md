@@ -380,18 +380,6 @@ This *+1 shadow leather armor* is usually a neutral brown or gray color and is t
 
 **Requirements** Craft Magic Arms and Armor, *acid splash*,* dancing lights*,* invisibility*,* mage hand*,* silence*; **Price** 2,940 gp
 
-### Greater Aquadynamic
-
-**Aura** varies **CL** 5th
-
-**Slot** none; **Price** (+3,750 gp), Improved (+15,000 gp), Greater (+33,750 gp); **Weight** —
-
-This sleek and mobile armor is magically streamlined to assist in swimming rather than making swimming more difficult, granting the wearer a +5 competence bonus on Swim checks for *aquadynamic* armor, a +10 competence bonus on Swim checks for* improved aquadynamic* armor, and a +15 competence bonus on Swim checks for* greater aquadynamic* armor.
-
-**Construction**
-
-**Requirements** Craft Magic Arms and Armor, *freedom of movement*; **Price** 1,875 gp (aquadynamic), 7,500 gp (improved aquadynamic), 16,875 gp (greater aquadynamic)
-
 ### Grim Gloom Mail
 
 **Aura** faint abjuration and necromancy **CL** 3rd
@@ -505,18 +493,6 @@ Carved from a single block of ice birthed from the breath of a great white wyrm,
 **Construction**
 
 **Requirements** Craft Magic Arms and Armor, *frigid touch*UM,* wall of ice*; **Price** 7,700 gp
-
-### Improved Aquadynamic
-
-**Aura** varies **CL** 5th
-
-**Slot** none; **Price** (+3,750 gp), Improved (+15,000 gp), Greater (+33,750 gp); **Weight** —
-
-This sleek and mobile armor is magically streamlined to assist in swimming rather than making swimming more difficult, granting the wearer a +5 competence bonus on Swim checks for *aquadynamic* armor, a +10 competence bonus on Swim checks for* improved aquadynamic* armor, and a +15 competence bonus on Swim checks for* greater aquadynamic* armor.
-
-**Construction**
-
-**Requirements** Craft Magic Arms and Armor, *freedom of movement*; **Price** 1,875 gp (aquadynamic), 7,500 gp (improved aquadynamic), 16,875 gp (greater aquadynamic)
 
 ### Kimlé Coat
 
@@ -2917,54 +2893,6 @@ The wearer can also activate the ring once per day as an immediate action to gai
 **Requirements** Forge Ring, *break enchantment*,* spell resistance*; **Cost** 16,250 gp
 
 ### Ring of Resistance
-
-**Aura** faint abjuration **CL** 5th
-
-**Slot** ring; **Price** 1,500 gp (+1), 6,000 gp (+2), 13,500 gp (+3), 24,000 gp (+4), 37,500 gp (+5); **Weight** —
-
-Protective symbols adorn this magic ring. It functions as a *cloak of resistance* with an equivalent bonus.
-
-**Construction**
-
-**Requirements** Forge Ring, *resistance*, creator’s caster level must be at least three times the ring’s bonus; **Cost** 750 gp (+1), 3,000 gp (+2), 6,750 gp (+3), 12,000 gp (+4), 17,750 gp (+5)
-
-### Ring of Resistance (+2)
-
-**Aura** faint abjuration **CL** 5th
-
-**Slot** ring; **Price** 1,500 gp (+1), 6,000 gp (+2), 13,500 gp (+3), 24,000 gp (+4), 37,500 gp (+5); **Weight** —
-
-Protective symbols adorn this magic ring. It functions as a *cloak of resistance* with an equivalent bonus.
-
-**Construction**
-
-**Requirements** Forge Ring, *resistance*, creator’s caster level must be at least three times the ring’s bonus; **Cost** 750 gp (+1), 3,000 gp (+2), 6,750 gp (+3), 12,000 gp (+4), 17,750 gp (+5)
-
-### Ring of Resistance (+3)
-
-**Aura** faint abjuration **CL** 5th
-
-**Slot** ring; **Price** 1,500 gp (+1), 6,000 gp (+2), 13,500 gp (+3), 24,000 gp (+4), 37,500 gp (+5); **Weight** —
-
-Protective symbols adorn this magic ring. It functions as a *cloak of resistance* with an equivalent bonus.
-
-**Construction**
-
-**Requirements** Forge Ring, *resistance*, creator’s caster level must be at least three times the ring’s bonus; **Cost** 750 gp (+1), 3,000 gp (+2), 6,750 gp (+3), 12,000 gp (+4), 17,750 gp (+5)
-
-### Ring of Resistance (+4)
-
-**Aura** faint abjuration **CL** 5th
-
-**Slot** ring; **Price** 1,500 gp (+1), 6,000 gp (+2), 13,500 gp (+3), 24,000 gp (+4), 37,500 gp (+5); **Weight** —
-
-Protective symbols adorn this magic ring. It functions as a *cloak of resistance* with an equivalent bonus.
-
-**Construction**
-
-**Requirements** Forge Ring, *resistance*, creator’s caster level must be at least three times the ring’s bonus; **Cost** 750 gp (+1), 3,000 gp (+2), 6,750 gp (+3), 12,000 gp (+4), 17,750 gp (+5)
-
-### Ring of Resistance (+5)
 
 **Aura** faint abjuration **CL** 5th
 
@@ -5765,38 +5693,6 @@ This stone grants you a +2 enhancement bonus to Intelligence. The bonuses from m
 
 **Requirements** Craft Wondrous Item, *fox’s cunning*, creator must be 12th level; **Cost** 12,000 gp
 
-### Crimson Thorny (Cracked) Ioun Stone
-
-**Aura** strong varies; **CL** 12th
-
-**Slot** none; **Price** 3,200 gp; **Weight** —
-
-A cracked *thorny ioun stone* provides a +1 competence bonus on its corresponding type of combat maneuver check.
-
-**Resonance**
-
-Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The feat varies by individual *ioun stone*, and each is equally likely (50% chance).
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,600 gp
-
-### Crimson Thorny (Flawed) Ioun Stone
-
-**Aura** strong varies; **CL** 12th
-
-**Slot** none; **Price** 6,900 gp; **Weight** —
-
-The flawed version of a *thorny ioun stone* of any type functions as the normal version, but the wearer also takes a -2 penalty to CMD against the corresponding type of combat maneuver check.
-
-**Resonance**
-
-Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The feat varies by individual *ioun stone*, and each is equally likely (50% chance).
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,450 gp
-
 ### Crow Brother's Cloak
 
 **Aura** moderate transmutation; **CL** 7th
@@ -7159,22 +7055,6 @@ A *glorious tabard* functions only for wearers who are both members of the crusa
 
 **Requirements** Craft Wondrous Item, *veil of heaven*,* weapons against evil* (*greater glorious tabard only*), creator must be a member of crusading order and follower of the goddess of valor; **Cost** 200 gp (Lesser), 1,625 gp (Greater)
 
-### Glorious Tabard (Lesser)
-
-**Aura** faint abjuration; **CL** 3rd
-
-**Slot** body; **Price** 400 gp (Lesser), 3,250 gp (Greater); **Weight** 2 lbs.
-
-This sleeveless white tabard, worn over armor or other clothing, prominently bears the symbol of the crusading order and can be used as a divine focus by members of a crusading order who are followers of the goddess of valor. Once per day, the wearer of a *lesser glorious tabard* can activate the tabard to gain a +2 sacred bonus to her AC and on saving throws for 10 minutes. Both bonuses apply only against attacks made or effects created by outsiders with the evil subtype or creatures with an evil aura.
-
-A *greater glorious tabard* bears the symbol of the crusading order in gold. It has all the powers of a *lesser glorious tabard* but can be used twice per day. In addition, whenever a *greater glorious tabard* is activated, all longswords within 20 feet shed light as per a torch and ignore the DR of evil creatures (except DR/epic) for 3 rounds. When a *greater glorious tabard* is used as a divine focus to cast a spell, the wearer does not need any material components that cost more than 5 gp.
-
-A *glorious tabard* functions only for wearers who are both members of the crusading order and followers of the goddess of valor.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, *veil of heaven*,* weapons against evil* (*greater glorious tabard only*), creator must be a member of crusading order and follower of the goddess of valor; **Cost** 200 gp (Lesser), 1,625 gp (Greater)
-
 ### Glove of Strength-Stealing
 
 **Aura** moderate necromancy; **CL** 6th
@@ -8074,24 +7954,6 @@ This headband grants a +4 bonus on saving throws against all enchantment spells.
 **Requirements** Craft Wondrous Item, *break enchantment*, creator must have the giant subtype; **Cost** 7,500 gp
 
 ### Iron Beard (Greater)
-
-**Aura** strong evocation; **CL** 13th
-
-**Slot** head; **Price** 32,250 gp (Lesser), 42,250 gp (Greater); **Weight** 2 lbs.
-
-This mithral helm has a faceplate resembling a frost giant’s face, complete with a beard formed from layered, thin metal rods. While wearing a *iron beard*, a creature gains a +5 competence bonus on Intimidate checks and a +2 circumstance bonus on Disguise checks to impersonate a frost giant or svathurim (though the helm does nothing to increase the wearer’s size).
-
-Once per day as an immediate action after being successfully hit by a melee weapon, the wearer of a *lesser iron beard* can order the helm to animate, whereupon the thin metal rods of the helm’s beard reach out to grasp the weapon. This functions as a disarm combat maneuver that does not provoke an attack of opportunity.
-
-A *lesser iron beard* has a CMB of +23; the wearer can use the helm’s CMB or her own CMB, whichever is higher.
-
-A *greater iron beard* functions identically to the lesser version, but offers more protection for the wearer’s vulnerable neck. Once per day as an immediate action after a critical hit is confirmed against the wearer with a melee weapon, the wearer can force the attacker to reroll the confirmation roll and take the worse result.
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, *grasping hand* (lesser and greater), *ill omen*APG (greater); **Cost** 17,625 gp (Lesser), 21,125 gp (Greater)
-
-### Iron Beard (Lesser)
 
 **Aura** strong evocation; **CL** 13th
 
@@ -9161,38 +9023,6 @@ Every time the bearer casts a spell, he rolls 1d4–2 and adds the result (as we
 **Construction**
 
 **Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 15,000 gp
-
-### Orange Thorny (Cracked) Ioun Stone
-
-**Aura** strong varies; **CL** 12th
-
-**Slot** none; **Price** 3,200 gp; **Weight** —
-
-A cracked *thorny ioun stone* provides a +1 competence bonus on its corresponding type of combat maneuver check.
-
-**Resonance**
-
-Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The feat varies by individual *ioun stone*, and each is equally likely (50% chance).
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,600 gp
-
-### Orange Thorny (Flawed) Ioun Stone
-
-**Aura** strong varies; **CL** 12th
-
-**Slot** none; **Price** 6,900 gp; **Weight** —
-
-The flawed version of a *thorny ioun stone* of any type functions as the normal version, but the wearer also takes a -2 penalty to CMD against the corresponding type of combat maneuver check.
-
-**Resonance**
-
-Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The feat varies by individual *ioun stone*, and each is equally likely (50% chance).
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,450 gp
 
 ### Padma Blossom
 
@@ -10568,38 +10398,6 @@ All spell-like abilities granted by race are treated as 1 caster level higher.
 
 **Requirements** Craft Wondrous Item, *imbue with spell ability*, creator must be 12th level; **Cost** 8,000 gp
 
-### Silver Thorny (Cracked) Ioun Stone
-
-**Aura** strong varies; **CL** 12th
-
-**Slot** none; **Price** 3,200 gp; **Weight** —
-
-A cracked *thorny ioun stone* provides a +1 competence bonus on its corresponding type of combat maneuver check.
-
-**Resonance**
-
-Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The feat varies by individual *ioun stone*, and each is equally likely (50% chance).
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,600 gp
-
-### Silver Thorny (Flawed) Ioun Stone
-
-**Aura** strong varies; **CL** 12th
-
-**Slot** none; **Price** 6,900 gp; **Weight** —
-
-The flawed version of a *thorny ioun stone* of any type functions as the normal version, but the wearer also takes a -2 penalty to CMD against the corresponding type of combat maneuver check.
-
-**Resonance**
-
-Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The feat varies by individual *ioun stone*, and each is equally likely (50% chance).
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,450 gp
-
 ### Sinner’s Wage
 
 **Aura** moderate enchantment; **CL** 7th
@@ -11158,69 +10956,7 @@ This disgusting mass of hardened beef tallow is always found divided into three 
 
 **Requirements** Craft Wondrous Item, *cure serious wounds*, *haste*, *protection from energy*; **Cost** 1,125 gp, 90 XP
 
-### Teal Thorny (Cracked) Ioun Stone
-
-**Aura** strong varies; **CL** 12th
-
-**Slot** none; **Price** 3,200 gp; **Weight** —
-
-A cracked *thorny ioun stone* provides a +1 competence bonus on its corresponding type of combat maneuver check.
-
-**Resonance**
-
-Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The feat varies by individual *ioun stone*, and each is equally likely (50% chance).
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,600 gp
-
-### Teal Thorny (Flawed) Ioun Stone
-
-**Aura** strong varies; **CL** 12th
-
-**Slot** none; **Price** 6,900 gp; **Weight** —
-
-The flawed version of a *thorny ioun stone* of any type functions as the normal version, but the wearer also takes a -2 penalty to CMD against the corresponding type of combat maneuver check.
-
-**Resonance**
-
-Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The feat varies by individual *ioun stone*, and each is equally likely (50% chance).
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,450 gp
-
 ### Terra-Cotta Talisman (Horse)
-
-**Aura** moderate evocation; **CL** 6th
-
-**Slot** none; **Price** 13,000 gp (Horse), 16,000 gp (Warrior), 22,000 gp (Hound); **Weight** 1 lb.
-
-These ceramic statuettes are molded in the likenesses of armored soldiers, horses, or dogs, and are considered symbols of good fortune in battle. Once per day, the possessor of a *terra-cotta talisman* can reroll a single attack roll as an immediate action, with a +1 luck bonus on the reroll, and keep the most favorable result. A *terra-cotta talisman* also contains the vestige of a spirit of an ancient warrior or warbeast that can be called upon once per day as a standard action to manifest itself as a spiritual force. The powers of the talismans are as follows:
-- Terra-Cotta Horse: *phantom steed* 
-- Terra-Cotta Hound: *mage’s faithful hound* 
-- Terra-Cotta Warrior: *spiritual ally* 
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, *borrow fortune*,* mage’s faithful hound* (hound), *phantom steed* (horse), or *spiritual ally* (warrior); **Cost** 6,500 gp (Horse), 8,000 gp (Warrior), 11,000 gp (Hound)
-
-### Terra-Cotta Talisman (Hound)
-
-**Aura** moderate evocation; **CL** 6th
-
-**Slot** none; **Price** 13,000 gp (Horse), 16,000 gp (Warrior), 22,000 gp (Hound); **Weight** 1 lb.
-
-These ceramic statuettes are molded in the likenesses of armored soldiers, horses, or dogs, and are considered symbols of good fortune in battle. Once per day, the possessor of a *terra-cotta talisman* can reroll a single attack roll as an immediate action, with a +1 luck bonus on the reroll, and keep the most favorable result. A *terra-cotta talisman* also contains the vestige of a spirit of an ancient warrior or warbeast that can be called upon once per day as a standard action to manifest itself as a spiritual force. The powers of the talismans are as follows:
-- Terra-Cotta Horse: *phantom steed* 
-- Terra-Cotta Hound: *mage’s faithful hound* 
-- Terra-Cotta Warrior: *spiritual ally* 
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, *borrow fortune*,* mage’s faithful hound* (hound), *phantom steed* (horse), or *spiritual ally* (warrior); **Cost** 6,500 gp (Horse), 8,000 gp (Warrior), 11,000 gp (Hound)
-
-### Terra-Cotta Talisman (Warrior)
 
 **Aura** moderate evocation; **CL** 6th
 
@@ -11766,38 +11502,6 @@ Whenever the bearer casts a conjuration (summoning) spell, he can expend a numbe
 **Construction**
 
 **Requirements** Augment Summoning, Craft Wondrous Item, *summon monster III*, Perform (string instruments) 5 ranks; **Cost** 12,200 gp
-
-### Violet Thorny (Cracked) Ioun Stone
-
-**Aura** strong varies; **CL** 12th
-
-**Slot** none; **Price** 3,200 gp; **Weight** —
-
-A cracked *thorny ioun stone* provides a +1 competence bonus on its corresponding type of combat maneuver check.
-
-**Resonance**
-
-Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The feat varies by individual *ioun stone*, and each is equally likely (50% chance).
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 1,600 gp
-
-### Violet Thorny (Flawed) Ioun Stone
-
-**Aura** strong varies; **CL** 12th
-
-**Slot** none; **Price** 6,900 gp; **Weight** —
-
-The flawed version of a *thorny ioun stone* of any type functions as the normal version, but the wearer also takes a -2 penalty to CMD against the corresponding type of combat maneuver check.
-
-**Resonance**
-
-Grants the bearer the benefit of either the Acrobatic or the Athletic feat. The feat varies by individual *ioun stone*, and each is equally likely (50% chance).
-
-**Construction**
-
-**Requirements** Craft Wondrous Item, creator must be 12th level; **Cost** 3,450 gp
 
 ### Voidstick
 
@@ -13089,18 +12793,6 @@ This hollow container is made of wood, a gourd, or metal, and carries liquid lik
 
 Playing cards range from block-printed symbols on thick paper to elaborate, hand-painted works of art on waxed vellum, ivory, wood, or even metal.
 
-### Chilies (1 Lb.)
-
-**Price** 2 gp; **Weight** 1 lb.
-
-**Category**
-
-### Cinnamon (1 Lb.)
-
-**Price** 1 gp; **Weight** 1 lb.
-
-**Category**
-
 ### Citrus (1 Lb.)
 
 **Price** 3 cp; **Weight** 1 lb.
@@ -13151,12 +12843,6 @@ The powdered salts in this stoppered glass sphere contains reagents blessed by a
 
 **Category**
 
-### Cumin (1 Lb.)
-
-**Price** 2 gp; **Weight** 1 lb.
-
-**Category**
-
 ### Cytillesh Spores
 
 ### Dampening Ointment
@@ -13170,12 +12856,6 @@ This pale salve is always cool to the touch, regardless of the surrounding tempe
 **Construction**
 
 **Craft (Alchemy)** DC 25
-
-### Dill (1 Lb.)
-
-**Price** 1 gp; **Weight** 1 lb.
-
-**Category**
 
 ### Elder Record
 
@@ -13222,12 +12902,6 @@ This small darkwood case contains a recessed area to hold a fate deck and a fate
 **Category** Entertainment
 
 This thick leather mat is large enough to fit all the cards necessary for a standard fate deck reading. If you use a fate deck mat as part of a reading, you gain a +4 circumstance bonus on Bluff or Diplomacy checks (harrower’s choice) to convince the subjects of your harrowing that your words are true.
-
-### Fennel (1 Lb.)
-
-**Price** 2 gp; **Weight** 1 lb.
-
-**Category**
 
 ### Fetish, Tribal
 
@@ -13525,12 +13199,6 @@ This light steel shield is specially crafted with a series of straps to allow a 
 
 A wooden quickdraw shield is essentially the same as a steel quickdraw shield, except it responds differently to some spells and effects (such as *rusting grasp*). A druid can use a heavy wooden quickdraw shield, but not a steel quickdraw shield.
 
-### Linen (1 Sq. Yard)
-
-**Price** 4 gp; **Weight** —
-
-**Category**
-
 ### Loping ointment
 
 **Price** 60 gp; **Weight** 1 lb.
@@ -13543,18 +13211,6 @@ This gray, greasy topical lotion strengthens and straightens the leg muscles of 
 
 **Craft (Alchemy)** DC 25
 
-### Maplee Syrup (1 Lb.)
-
-**Price** 1 gp; **Weight** 1 lb.
-
-**Category**
-
-### Masonry Stone (1 Lb.)
-
-**Price** 5 cp; **Weight** 1 lb.
-
-**Category**
-
 ### Mess Kit
 
 **Price** 2 sp; **Weight** 1 lb.
@@ -13562,12 +13218,6 @@ This gray, greasy topical lotion strengthens and straightens the leg muscles of 
 **Category** Kits
 
 This kit includes a plate, bowl, cup, fork, knife, and spoon, made of wood, horn, or tin. Each item has a handle or small hole, and can be tied together using the included leather cord.
-
-### Mink Pelt
-
-**Price** 3 gp; **Weight** —
-
-**Category**
 
 ### Necrotic Talisman
 
@@ -13598,18 +13248,6 @@ A greater splash weapon can be used only by Large or larger creatures, though it
 **Construction**
 
 **Craft (Alchemy)** DC 35
-
-### Nutmeg (1 Lb.)
-
-**Price** 1 gp; **Weight** 1 lb.
-
-**Category**
-
-### Nuts (1 Lb.)
-
-**Price** 3 cp; **Weight** 1 lb.
-
-**Category**
 
 ### Oregano (1 Lb.)
 
@@ -13683,12 +13321,6 @@ Goblins pickle everything, and thus goblin pickles can be composed of almost any
 
 Maybe it’s the wide heads, but more likely it’s the lack of common sense that causes goblins to so often get stuck in narrow spaces. In such cases, a dose of pig grease is really helpful. An application of pig grease applied to the body grants a +2 circumstance bonus on all Escape Artist checks for 1 hour.
 
-### Potatoes (1 Lb.)
-
-**Price** 2 cp; **Weight** 1 lb.
-
-**Category**
-
 ### Powder Ball
 
 **Price** 400 gp (empty), 300 gp (fuel); **Weight** 4 lbs. (empty), 1 lb. (fuel)
@@ -13712,12 +13344,6 @@ Removing quieting needles from a dead body takes 1d6+6 rounds (and a DC 20 Heal 
 The use of quieting needles is relatively uncommon, meant as much to punish enemies for attempting to raise dead allies and force them to waste the resources on such expensive magic as well as to cause the restored creature agonizing pain—using quieting needles is an evil act that is as illegal as murder in most civilized regions.
 
 A set of quieting needles costs 25 gp.
-
-### Rosemary (1 Lb.)
-
-**Price** 1 gp; **Weight** 1 lb.
-
-**Category**
 
 ### Rosewood armor
 
@@ -13760,12 +13386,6 @@ A second-story harness is a series of straps, trusses, and buckles that can be w
 **Category** Mounts/Pets
 
 These livestock animals are kept for their fur, meat, and hide, and can be found in virtually any civilized settlement. They are especially prized in colder environs, where their wool and hide can be used to make durable and highly insulated clothing. Sheep have the same statistics as goats.
-
-### Sheep (Trade Good)
-
-**Price** 2 gp; **Weight** —
-
-**Category**
 
 ### Shovel, Common
 
@@ -13907,21 +13527,9 @@ the false god’s realm’s faithful utilize a number of tools to help them cont
 
 **Damage** 1d2 Con damage
 
-### Thick Leather (1 Sq. Yard)
-
-**Price** 3 gp; **Weight** —
-
-**Category**
-
 ### Thin Leather (1 Sq. Yard)
 
 **Price** 5 sp; **Weight** —
-
-**Category**
-
-### Tobacco (1 Lb.)
-
-**Price** 5 sp; **Weight** 1 lb.
 
 **Category**
 
@@ -13940,18 +13548,6 @@ A tossglove is a hefty leather and metal glove made for holding and throwing an 
 **Category** Food/Drink
 
 The listed price is for a day’s worth of food. This bland food is usually some kind of hard tack, jerky, and dried fruit, though the contents vary from region to region and the race of those creating it. As long as it stays dry, it can go for months without spoiling.
-
-### Turnips (1 Lb.)
-
-**Price** 2 cp; **Weight** 1 lb.
-
-**Category**
-
-### Vanilla (1 Lb.)
-
-**Price** 2 gp; **Weight** 1 lb.
-
-**Category**
 
 ### Wheat (1 Lb.)
 
@@ -14331,39 +13927,7 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 **Rejuvenating Infusion (Su)** Whenever you imbibe an alchemist extract of a conjuration spell, you can spend this boon as a swift action. If you do, you are healed of 1 point of damage and can ignore the effects of fatigue for 1 round.
 
-### Healer’s Remedies (Formula Book, Level 3 Alchemist)
-
-*The first three pages of this book contain pressed flowers and botanical diagrams relating to brewing desert remedies.*
-
-**Value** 50 gp (115 gp with the preparation ritual)
-
-**Spells**
-
-1st—*cure light wounds*,* expeditious retreat*,* keen senses*,* polypurpose panacea*,* youthful appearance*
-
-**Ritual**
-
-**Rejuvenating Infusion (Su)** Whenever you imbibe an alchemist extract of a conjuration spell, you can spend this boon as a swift action. If you do, you are healed of 1 point of damage and can ignore the effects of fatigue for 1 round.
-
 ### Revolutionary Cookbook
-
-*This book’s cover is illegibly scorched and the pages are wrinkled from water damage.*
-
-**Value** 670 gp (1,270 gp with the preparation ritual)
-
-**Spells**
-
-3rd—*absorbing touch*,* arcane sight*,* draconic reservoir*,* seek thoughts*
-
-2nd—*cat’s grace*,* invisibility*,* perceive cues*,* resist energy*,* see invisibility*,* undetectable alignment*
-
-1st—*ant haul*,* bomber’s eye*,* comprehend languages*,* detect secret doors*,* disguise self*,* expeditious retreat*,* true strike*
-
-**Ritual**
-
-**Blast Finesse (Su)** As an immediate action when you throw a bomb, you can spend this boon to shape the blast by adding up to three 5-foot squares to the area, as long as these spaces are adjacent to the bomb’s normal area of effect.
-
-### Revolutionary Cookbook (Formula Book, Level 8 Alchemist)
 
 *This book’s cover is illegibly scorched and the pages are wrinkled from water damage.*
 
@@ -14429,49 +13993,7 @@ This altar consists of a tiled blue box detailed with mosaics of doves in flight
 
 **Devilishly Reasonable (Su)** You can spend this boon to gain a +5 bonus on a Diplomacy check against a target that has an attitude of friendly or helpful toward you to request aid in the form of the target revealing an important secret.
 
-### Sage’s Workbook (Spellbook, Level 16 Magus with Bard Spells)
-
-*This book appears to be more of a personal journal than a magical tome. The soft leather binding is worn, and many pages bear the telltale creases of dog-ears and stains of spilled wine.*
-
-**Value** 4,295 gp (4,670 gp with the preparation ritual)
-
-**Spells**
-
-6th—*mass eagle’s splendor*,* transformation*
-
-5th—*baleful polymorph*,* shadow evocation*,* telekinesis*,* teleport*,* vampiric shadow shield*,* wall of force*
-
-4th—*black tentacles*,* charm monster*,* greater flaming sphere*,* mass enlarge person*,* mass reduce person*,* tough crowd*,* wreath of blades*
-
-3rd—*burst of speed*,* dispel magic*,* fly*,* heckle*,* major image*,* stage fright*
-
-2nd—*alter self*,* darkness*,* hold person*,* minor image*,* pilfering hand*,* scorching ray*
-
-1st—*charm person*,* flare burst*,* grease*,* jump*,* mirror strike*,* mount*,* negative reaction*,* silent image*,* true strike*,* unseen servant*
-
-**Ritual**
-
-**Devilishly Reasonable (Su)** You can spend this boon to gain a +5 bonus on a Diplomacy check against a target that has an attitude of friendly or helpful toward you to request aid in the form of the target revealing an important secret.
-
 ### Songs of the Sea Kings
-
-*This book’s cover is made of scales that are warm to the touch.*
-
-**Value** 180 gp (440 gp with the preparation ritual)
-
-**Spells**
-
-2nd—*marching chant*,* path of glory*,* scare*
-
-1st—*cure light wounds*,* heightened awareness*,* remove fear*
-
-0 (at will)—*dancing lights*,* ghost sound*,* lullaby*,* mage hand*,* mending*,* resistance*
-
-**Ritual**
-
-**Storied Spell Lore (Su)** When you use this meditation ritual, choose a spell of 2nd level or lower in this meditation book. Whenever you cast a bard or skald conjuration spell, you can spend this boon as a swift action to add the chosen spell to your list of bard or skald spells known for 1 round.
-
-### Songs of the Sea Kings (Meditation Book, Level 5 Skald)
 
 *This book’s cover is made of scales that are warm to the touch.*
 
