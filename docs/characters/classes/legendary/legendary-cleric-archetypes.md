@@ -34,86 +34,7 @@ This modifies base attack bonus.
 
 A cloistered cleric gains two additional skill points per level and treats all Intelligence-based skills as class skills.
 
-## Embodiment
-
-**Note**: This archetype makes use of alternate magic rules via Spheres of Power.
-
-The Embodiment is a being directly connected to some primordial force of existence, a mage-warrior who channels the fundamental aspects of being in a variety of ways to achieve victory over their foes. Their connection may take any number of forms but is often deep and overwhelming.
-
-**Weapon and Armor Proficiencies**
-
-Embodiments are proficient with simple weapons, as well as light armor and bucklers. In addition, if this is their first level in any class, they may select a martial tradition of their choice.
-
-This modifies weapon and armor proficiencies.
-
-**Spellcasting**
-
-The embodiment may combine spheres and talents to create magical effects. The embodiment is considered a High-Caster. (**Note**: All casters gain 2 bonus talents and may select a casting tradition the first time they gain the casting class feature.)
-
-This replaces spells and orisons.
-
-**Spell Pool**
-
-An embodiment gains a small reservoir of energy they can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to their class level + their casting ability modifier (minimum: 1). This pool replenishes once per day after roughly 8 hours of rest.
-
-**Blended Training**
-
-An embodiment gains a combat or magic talent at every even level. This does not stack with caster levels gained from other sources. An embodiment uses their casting ability modifier as their practitioner modifier.
-
-Flexible Manifestation: The DCs and effects of all of the embodiment’s class abilities are based on the embodiment’s casting ability modifier rather than Wisdom.
-
-**Esoteric Romance (Su)**
-
-In place of the benefits of Blessing of the Faith, an embodiment may choose to gain an additional magic or combat talent at 2nd, 6th, 10th, and 14th levels. This does not render the archetype incompatible with others which replace Blessing of the Faith so long as the embodiment does not choose to replace the class feature with these talents.
-
-**Domain Connection (Su)**
-
-An embodiment gains domains as normal, but does not gain domain spells.
-
-Instead, they gain a bonus magic talent at 1st level and every odd level thereafter, chosen from the spheres associated with their selected domains (see Table 6-1: Domains and Associated Spheres).
-
-This replaces domain spells but can be replaced as if it were domain spells.
-
-/magic/variant-magic-rules/spheres-of-power/using-the-spheres/#Conjuration
-
-**Table 6-1: Domains and Associated Spheres**
-
-| Domain | Associated Spheres |
-|---|---|
-| Air | Nature or Telekinesis |
-| Animal | Alteration or Bear |
-| Artifice | Creation or Enhancement |
-| Charm | Mana or Mind |
-| Community | Mind or War |
-| Darkness | Dark or Illusion |
-| Death | Blood or Death |
-| Destruction | Destruction or Weather |
-| Earth | Enhancement or Nature |
-| Freedom | Fate or Warp |
-| Fire | Nature or Light |
-| Glory | Light or War |
-| Healing | Fate or Life |
-| Knowledge | Divination or Fate |
-| Life | Alteration or Life |
-| Luck | Fate or Time |
-| Magic | Divination or Mana |
-| Nobility | Telekinesis or War |
-| Plant | Creation or Nature |
-| Protection | Divination or Protection |
-| Repose | Life or Protection |
-| Rune | Enhancement or Mana |
-| Scalykind | Alteration or Mind |
-| Strength | Alteration or Enhancement |
-| Sun | Destruction or Light |
-| Travel | Telekinesis or Warp |
-| Trickery | Illusion or Mind |
-| Void | Time or Warp |
-| War | Enhancement or War |
-| Water | Blood or Nature |
-
 ## Evangelist
-
-**Note**: This archetype makes use of alternate magic rules via Spheres of Power.
 
 The power of faith, according to some, lies not in miracles but rather in the inspiration and guidance of the masses. Evangelists embody this approach with their honeyed words and awesome performances, rallying allies and cowing enemies.
 
@@ -139,7 +60,7 @@ This modifies faith and replaces the domain gained at 1st level.
 
 **Songs of the Faith**
 
-An evangelist can cast the following spells as domain spells of the corresponding levels. If the evangelist possesses the embodiment archetype, they instead gain a talent from the War sphere or Warleader sphere at 1st level and every even level thereafter.
+An evangelist can cast the following spells as domain spells of the corresponding levels.
 
 **1st**–saving finale **2nd**-allegro **3rd**–purging finale **4th**-exquisite accompaniment **5th**-virtuoso performance **6th**–heroic finale **7th**-shadowbard **8th**–deadly finale **9th**–pied piping
 
@@ -165,7 +86,7 @@ This alters channel energy.
 
 **Hollow Faith (Su)**
 
-A faithless does not possess any faith points and does not gain them when they would regain spells as a normal cleric. However, a faithless may expend a use of channel energy or a prepared spell as a free action to gain temporary faith points which last for 1 minute. The number of faith points gained is equal to half the level of the expended spell (minimum 1) or 1 if a use of channel energy is expended. A faithless cannot expend cantrips to gain temporary faith. A faithless with the embodiment archetype may spend a spell point to gain 1 temporary faith point.
+A faithless does not possess any faith points and does not gain them when they would regain spells as a normal cleric. However, a faithless may expend a use of channel energy or a prepared spell as a free action to gain temporary faith points which last for 1 minute. The number of faith points gained is equal to half the level of the expended spell (minimum 1) or 1 if a use of channel energy is expended. A faithless cannot expend cantrips to gain temporary faith.
 
 This alters faith.
 
@@ -183,8 +104,6 @@ This replaces blessing of the faith.
 
 ## Generalist Disciple
 
-**Note**: This archetype makes use of alternate magic rules via Spheres of Power.
-
 Having studied a wide variety of doctrines and dogmas, generalist disciples have learned to take up a wide variety of mantles as the situation demands. They can be found in numerous different positions fulfilling whatever role is most appropriate for the occasion.
 
 **Versatile Domain (Su)**
@@ -195,7 +114,7 @@ At 2nd level, the generalist disciple gains the ability to exchange any domains 
 
 - At 20th level, the generalist disciple no longer needs to spend faith points to change domains and may do so as a swift action rather than a full-round action.
 
-This alters domains and replaces blessing of the faith and true faith. If the generalist disciple also possesses the embodiment archetype, they do not gain the domain connection ability. Rather, they gain an additional magic talent from any sphere at 1st level and every odd level thereafter.
+This alters domains and replaces blessing of the faith and true faith.
 
 ## Legendary Cleric Alternate Class Features
 
@@ -217,7 +136,7 @@ Alternate class features are small, modular archetypes. They swap out a single c
 
 The following options can be taken in place of the egendary cleric’s normal weapon and armor proficiencies
 
-**Weapon and Armor Proficiencies:** Clerics are proficient with all simple weapons, light armor, and bucklers, plus one weapon appropriate to their faith. They may select a single martial tradition of their choice.
+**Weapon and Armor Proficiencies:** Clerics are proficient with all simple weapons, light armor, and bucklers, plus one weapon appropriate to their faith.
 
 **Weapon and Armor Proficiencies:** Clerics are proficient with all simple weapons and one weapon appropriate to their faith They are not proficient in any armor or shields. In addition, they gain the following class feature:
 
@@ -243,8 +162,6 @@ The following options can be taken in place of the legendary cleric’s second d
 
 ## Machinist Priest
 
-**Note**: This archetype makes use of alternate magic rules via Spheres of Power.
-
 Among mechanized societies, it is common for members of the clergy to dedicate themselves to the maintenance or development of technology, some even going so far as to transform themselves into partial robots or golems. These are known as machinist priests, keepers of complex technologies intertwined with the faith.
 
 **Technological Disciple (Su)**
@@ -269,7 +186,7 @@ A machinist priest gains Repairing Channel as a bonus feat at 1st level. However
 
 **Deus Ex Machina**
 
-The machinist priest treats the following spells as domain spells of the corresponding levels. If the machinist priest possesses the embodiment archetype, they instead select a talent from the technomancy or tech sphere at 1st level and every odd level thereafter.
+The machinist priest treats the following spells as domain spells of the corresponding levels.
 
 **1st**-technomancy **2nd**–make whole **3rd**-discharge **4th**–greater make whole **5th**–fabricate **6th**-control construct **7th**-memory of function **8th**-greater instant summons **9th**–wish
 
@@ -289,7 +206,7 @@ At 1st level, the planar envoy gains a familiar as a wizard of their class level
 
 - At 16th level, the planar envoy may spend a faith point as part of casting a conjuration (summoning) spell in order to summon one additional creature of the same kind.
 
-This replaces the domain gained at 1st level. A planar envoy with the embodiment archetype gains the Conjuration sphere (or a talent from that sphere) at 1st level and an additional conjuration sphere talent at 4th, 8th, 12th, and 16th levels in place of the benefits listed above. For the domain connection ability, they may select talents from the conjuration or fate spheres. A planar envoy may select another archetype which replaces domain abilities at specific levels, replacing the corresponding abilities gained from this class feature.
+This replaces the domain gained at 1st level. For the domain connection ability, they may select talents from the conjuration or fate spheres. A planar envoy may select another archetype which replaces domain abilities at specific levels, replacing the corresponding abilities gained from this class feature.
 
 **Planar Channeling (Su)**
 
@@ -386,7 +303,7 @@ With a ritual requiring 8 hours, an undead lord can animate a single skeleton or
 | 19th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 3 | 2 |
 | 20th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 3 | 3 |
 
-This replaces the domain gained at 1st level and true faith. An undead lord with the embodiment archetype may exchange any of these abilities for a bonus talent from the death sphere.
+This replaces the domain gained at 1st level and true faith.
 
 **Necromantic Channel (Su)**
 
@@ -394,6 +311,6 @@ The undead lord must choose to channel negative energy at 1st level. The undead 
 
 **Dominion of Undeath**
 
-The undead lord treats the following spells as domain spells of the corresponding levels. If the undead lord possesses the embodiment archetype, they instead select a talent from the death sphere at 1st level and every odd level thereafter.
+The undead lord treats the following spells as domain spells of the corresponding levels.
 
 **1st**–command undead **2nd**–lesser animate dead **3rd**–animate dead **4th**-torpid reanimation **5th**-flesh puppet horde **6th**–create undead **7th**–control undead **8th**–create greater undead **9th**–soul bind

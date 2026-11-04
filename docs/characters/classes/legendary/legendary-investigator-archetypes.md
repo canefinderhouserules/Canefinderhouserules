@@ -223,15 +223,3 @@ legendary investigator can use a move action to study a single enemy that they c
 At 1st level, when the maverick detective successfully hits and damages their studied enemy, there is a chance that they will immediately. If the target’s current hit points are less than a threshold equal to twice the detective’s class level + their Intelligence modifier, the target is immediately reduced to 0 hit points.
 
 The maverick can choose whether the target is dying or is merely unconscious. This replaces studied strike.
-
-## Two-Fisted Detective
-
-**Proficiencies**: Two-fisted detectives are proficient with simple weapons, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
-
-This alters weapon and armor proficiencies.
-
-**Casting**: The two-fisted detective may combine spheres and talents to create magical effects. The two-fisted detective is considered a low-caster. This replaces source of power.
-
-**Spell Pool**: A two-fisted detective gains a small reservoir of energy they can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to their class level + their casting ability modifier. This pool replenishes once per day after roughly 8 hours of rest.
-
-**Blended Training**: A two-fisted detective gains a combat or magic talent every class level except 1st, 5th, 9th, 13th, and 17th. Two-fisted detectives use their casting ability modifier as their practitioner modifier.

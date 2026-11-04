@@ -219,18 +219,3 @@ The following favored class bonuses are available to all characters, regardless 
 
 - **All**: Add +1/5 to the penalty on saving throws imposed by Riving Strike.
 
-### Using the Legendary Magus with Spheres of Might and Spheres of Power
-
-Some of the following archetypes utilize the Spheres of Might and Power subsystems, when using these systems (whether through these archetypes, or through feats added as part of these subsystems) the legendary magus has the following changes to their core abilities:
-
-**Armaments of the Magi**: The damage multiplication when used in conjunction with Vital Strike does not stack with the Champion’s Strike feat. If a legendary magus has both this ability and that feat, they use the highest bonus provided between the two of them. For example, if the Legendary Magus has 10 base attack bonus, but only has the Vital Strike feat (rather than Improved Vital Strike), they would triple their Arcane Strike damage as part of an attack action, rather than only doubling it with Vital Strike.
-
-**Rapid Spell Combat**: This ability is now treated as a special attack action, allowing it to benefit from Vital Strike, as well as combat spheres that augment attack actions (but not other special attack actions, such as the Spell Attack feat or the Brutal Strike ability of the Berserker sphere).
-
-Additionally, the following magus arcana becomes available in games using the Spheres of Might and Power subsystems:
-
-#### Sphere Combat Arcana
-
-**Prerequisite(s)**: Spell combat ability
-
-When using spell combat, the legendary magus may substitute her attacks granted by that ability for a single attack and combine it with her combat sphere abilities. This attack can benefit from the Vital Strike feat, and counts as an attack action for the purposes of combat spheres that modify an attack action (such as the Brutal Strike ability of the Berserker sphere) but not for the purposes of other feats or abilities that modify an attack action (such as the Spell Attack feat).

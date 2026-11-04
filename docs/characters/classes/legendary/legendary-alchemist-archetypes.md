@@ -8,7 +8,7 @@
 
 At 5th level, the summoned horror can be 1 level higher than the extract’s level (a 5th level alienist who used a summon monster II extract could instead summon a creature as though using summon monster III). At 11th level, the summoned monster can be 2 levels higher than the extract’s level. At 17th level, summoned monster can be 3 levels higher than the extract’s level.
 
-*This ability alters extract but does not prevent the alienist from taking the combat scientist archetype and replaces discipline breakthrough.*
+*This ability alters extract and replaces discipline breakthrough.*
 
 **Godless Research (Ex):** Whenever an alienist throws a summon monster extract, they can spend 1 quintessence while doing so to further modify their summoned horror, pulling it from the darkest depths of the outer reaches. The summoned horror instead takes on a far more disturbing form, inimical to the world into which it was summoned and gains a +4 alchemical bonus to its Strength and 2 additional hit points per hit die it possesses. In addition, the summoned horror is immune to mind-affecting effects. At 10th level, this alchemical bonus increases to +6, the summoned horror gains 6 additional hit points per level, and whenever the summoned horror damages a creature with its natural attacks, that creature must make a successful Will saving throw (DC 10 + 1/2 the alienist’s level + their Intelligence modifier) or take 2 Wisdom damage; if a creature takes Wisdom damage from this ability, the summoned horror gains temporary hit points equal to the alienist’s level which last for 1 hour (these hit points do not stack with each other). At 16th level, this alchemical bonus increases to +8, the summoned horror gains 8 additional hit points per level, and the summoned horror instead deals Wisdom drain, the summoned horror gaining temporary hit points equal to two times the alienist’s level.
 
@@ -165,7 +165,7 @@ At 6th level, a beastborn shifter can use bestial transformation to change into 
 
 **Weapon and Armor proficiencies:** Black powder researchers are proficient with all simple weapons and firearms. They are also proficient with light armor and bucklers.
 
-*This alters the alchemist’s weapon and armor proficiencies but does not stop them from selecting the combat scientist archetype.*
+*This alters the alchemist’s weapon and armor proficiencies.*
 
 **Gunsmith (Ex):** At 1st level, a black powder researcher gains one of the following firearms of their choice: blunderbuss, musket, or pistol. Their starting weapon is battered, and only they know how to use it properly. All other creatures treat their gun as if it had the broken condition. If the weapon already has the broken condition, it does not work at all for anyone else trying to use it. This starting weapon can only be sold for scrap (it’s worth 4d10 gp when sold). The black powder researcher also gains Gunsmithing as a bonus feat, although they can craft bullets, pellets, and black powder for a cost in raw materials equal to 1% of the price rather than 10%.
 
@@ -214,18 +214,6 @@ In addition, the black powder researcher can select [[Legendary Gunslinger Deed 
 
 **Rogue Talents:** A chirurgeon can select a rogue talent that adds effects to sneak attack in place of a discovery. At 10th level they can select an advanced rogue talent that adds effects to sneak attack in place of a discovery.
 
-## Combat Scientist
-
-*To a combat scientist, the tools of alchemy simply aren’t enough for them. Devoted to combat in all of its forms, combat scientists study rare and esoteric forms of combat, their search for knowledge forcing them to focus on strange and unique combat styles.*
-
-**Weapon and Armor proficiencies:** In addition to the normal proficiencies granted by the alchemist class and any other archetypes or alternative class features, if this is this character’s first level in any class, they can select a martial tradition of their choice.
-
-**Combat Training (Ex):** A combat scientist is considered a Proficient practitioner, gaining spheres and talents as appropriate. Combat scientists use Intelligence as their practitioner modifier.
-
-**Reduced Extracts:** The combat scientist gains 1 fewer extract of each level than normal. If this reduces the number to 0, they only gain an extract of that level if their Intelligence allows bonus extracts of that level.
-
-*This ability alters extracts.*
-
 ## Esotericist
 
 *Most alchemists must make careful note of the laws of nature, bending and shaping them to achieve fantastic results. The esotericist, on the other hand, needs exert no such effort. When they formulate a hypothesis, the world bends itself to accommodate it. Because of this supernatural ability to warp reality, esotericists do not train as rigorously in mixing chemicals to create wondrous effects and instead produce them directly through magic.*
@@ -247,24 +235,6 @@ A esotericist need not prepare her spells in advance. They can cast any esoteric
 **Magnetic Surge (Su):** At 4th level, the esotericist can spend 1 quintessence as a swift action. If they do, they gain a +1 alchemical bonus to the caster level of the next spell they cast before the end of their next turn. At 8th level and every four levels afterwards, this alchemical bonus increases by 1 (to a maximum of +5 at 20th level).
 
 *This ability replaces quintessence surge.*
-
-## Etheric Mystic
-
-*The path of potions and reagents is a tempting one, but etheric mystics eschew such things, seeking power from more unique sources. Seeking knowledge that would normally be locked behind other studies, etheric mystics are some of the rarest and exotic of alchemists, some not even considering them among their brethren.*
-
-**Weapon and Armor Proficiencies:** Etheric mystics are proficient with simple weapons, as well as light armor and bucklers. In addition, if this is this character’s first level in any class, they may select a martial tradition of their choice.
-
-*This modifies the alchemist’s weapon and armor proficiencies.*
-
-**Spells:** The etheric mystic may combine spheres and talents to create magical effects. The etheric mystic is considered a Mid-Caster and uses Intelligence as their casting ability modifier. (Note: All casters gain 2 bonus talents and may select a casting tradition the first time they gain the casting class feature.)
-
-*This replaces the extracts class feature*
-
-**Spell Pool (Su):** The etheric mystic gains a small reservoir of energy they can call on to create truly wondrous effects, called a spell pool. This pool contains a number of spell points equal to their class level + their Intelligence modifier (minimum 1). This pool replenishes once per day after roughly 8 hours of rest.
-
-**Blended Training (Ex):** An etheric mystic gains a combat or magic talent every time they gain a class level. Etheric mystics use their casting ability modifier as their practitioner modifier.
-
-*This replaces poison resistance and poison immunity.*
 
 ## Gourmand
 
@@ -380,7 +350,7 @@ These alternative class features can be taken in place of alchemical fusion.
 
 **Weapon and Armor proficiency:** Martial analysts are proficient with all simple weapons and light armor but not shields.
 
-*This alters the alchemist’s weapon and armor proficiency but does not stop them from selecting the combat scientist archetype.*
+*This alters the alchemist’s weapon and armor proficiency.*
 
 **Educated Fist (Ex):** The martial analyst gains the Improved Unarmed Strike feat, dealing damage equal to a monk of their class level. In addition, the martial analyst gains the Stunning Fist feat, although they use their Intelligence in place of their Wisdom to determine its saving throw and is treated as a monk for how often they can use it. A martial analyst also can spend 1 point of quintessence to use their Stunning Fist feat.
 
@@ -481,16 +451,6 @@ At 5th level the Constitution damage form zombie virus increases to 1d6; at 9th 
 **Zombie Plague:** At 20th level, zombies created by a reanimator’s zombie plague no longer fall inert after one minute
 
 *This replaces grand discovery.*
-
-## Recondite Mechanist
-
-*Despite a drive for creating unique machines, a recondite mechanist attempts to create machines that push the bounds of what is normally thought possible. Using experimental techniques, these creators hope to bring their creations to the absolute edge of robotics, often eschewing rational thought to do so.*
-
-**Tinker Discipline:** At 1st level, a recondite mechanist must select tinkerer for their alchemical discipline.
-
-*This ability alters alchemical discipline, but does not prevent the alchemist from taking another archetype which also requires them to select tinkerer for their alchemical discipline.*
-
-**Versatile Automaton:** The recondite mechanist’s automaton has only half as many customizations (rounded up) as normal. However, it gains one combat talent at 1st level and every odd alchemist level thereafter. It uses either its Strength or its Dexterity as its practitioner ability modifier. It may select the Extra Combat Talent feat with the feat customization. It may only choose from the Athletics, Barrage, Berserker, Boxing, Brute, Lancer, and Sniper spheres.
 
 ## Red-Headed Merchant
 

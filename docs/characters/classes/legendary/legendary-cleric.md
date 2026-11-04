@@ -148,7 +148,7 @@ Alternate class features are small, modular archetypes. They swap out a single c
 
 The following options can be taken in place of the legendary cleric’s normal weapon and armor proficiencies:
 
-**A**: Legendary clerics are proficient with all simple weapons, light armor, and bucklers, plus one weapon appropriate to their faith. They may select a single martial tradition of their choice.
+**A**: Legendary clerics are proficient with all simple weapons, light armor, and bucklers, plus one weapon appropriate to their faith.
 
 **B**: Legendary clerics are proficient with all simple weapons and one weapon appropriate to their faith They are not proficient in any armor or shields. In addition, they gain the following class feature:
 
