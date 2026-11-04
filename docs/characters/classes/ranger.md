@@ -65,10 +65,7 @@ The benefits of the ranger’s chosen style feats apply only when he wears light
 
 **Favored Terrain (Ex)**: At 3rd level, a ranger may select a type of terrain from the Favored Terrains table. The ranger gains a +2 bonus on initiative checks and Knowledge (geography), Perception, Stealth, and Survival skill checks when he is in this terrain. A ranger traveling through his favored terrain normally leaves no trail and cannot be tracked (though he may leave a trail if he so chooses).
 
-!!! warning "House rule"
-    A ranger may change any of his favored terrains by spending 48 continuous hours in the new terrain of his choice.
-
-At 8th level and every five levels thereafter, the ranger may select an additional favored terrain.
+At 8th level and every five levels thereafter, the ranger may select an additional favored terrain. A ranger may change any of his favored terrains by spending 48 continuous hours in the new terrain of his choice.
 
 In addition, at each such interval, the skill bonus and initiative bonus in any one favored terrain (including the one just selected, if so desired), increases by +2.
 

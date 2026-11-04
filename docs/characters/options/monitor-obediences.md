@@ -2,8 +2,7 @@
 
 A character who worships a monitor demigod and has the [Monitor Obedience](../../rules/feats/monitor-obedience.md) feat performs a daily obedience and gains its benefit. As she advances, she also gains her patron’s boons. Monitors are the neutral powers that keep the order of the planes, such as psychopomps, inevitables, proteans and aeons.
 
-!!! warning "House rule"
-    Obedience boons are gained at character levels 6, 10 and 14. The player chooses any one boon list her patron offers, whatever its name and whatever her class; the choice is permanent once made (see [Feat Changes](feat-changes.md#obedience)).
+Obedience boons are gained at character levels 6, 10 and 14. The player chooses any one boon list her patron offers, whatever its name and whatever her class; the choice is permanent once made (see [Feat Changes](feat-changes.md#obedience)).
 
 Monitors are listed by their portfolio rather than by name.
 

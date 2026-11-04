@@ -1,7 +1,6 @@
 # Improved Familiars
 
-!!! warning "House rule"
-    Familiar options available to arcane bond and similar abilities. Where a familiar grants its master a special ability, it is listed here.
+Familiar options available to arcane bond and similar abilities. Where a familiar grants its master a special ability, it is listed here.
 
 | Familiar | Special Ability |
 |---|---|

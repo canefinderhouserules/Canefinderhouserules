@@ -1,11 +1,10 @@
 # Favored Class Bonuses
 
-!!! warning "House rule"
-    Favored class bonuses (FCBs) are now more general (and more useful, or in line with the most useful ones), and everyone can access all of them regardless of race. Instead of dozens of repeats per class, there is a single list adaptable to any class.
+Favored class bonuses (FCBs) are now more general (and more useful, or in line with the most useful ones), and everyone can access all of them regardless of race. Instead of dozens of repeats per class, there is a single list adaptable to any class.
 
-    The only rule to keep in mind: bonuses that grant something class-specific (extra combat feat, extra wild talent, extra rogue talent, and so on) require that you actually have a class with those features. If your class does not give extra combat feats, you cannot take that FCB; if it does not give discoveries, you cannot gain discoveries this way; and so on.
+The only rule to keep in mind: bonuses that grant something class-specific (extra combat feat, extra wild talent, extra rogue talent, and so on) require that you actually have a class with those features. If your class does not give extra combat feats, you cannot take that FCB; if it does not give discoveries, you cannot gain discoveries this way; and so on.
 
-    The official FCB system can still be used in case a very specific case was removed or nerfed by making the list general, following the normal rules (being of the appropriate race and so on). The official racial options are listed in [Racial Favored Class Options](racial-favored-class-options.md).
+The official FCB system can still be used in case a very specific case was removed or nerfed by making the list general, following the normal rules (being of the appropriate race and so on). The official racial options are listed in [Racial Favored Class Options](racial-favored-class-options.md).
 
 ## FCBs
 

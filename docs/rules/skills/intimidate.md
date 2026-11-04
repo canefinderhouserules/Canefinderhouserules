@@ -2,8 +2,7 @@
 
 *(Cha or Str)*
 
-!!! warning "House rule"
-    You can use your Strength modifier or your Charisma modifier on Intimidate checks (choose one; you use only one, not both).
+You can use your Strength modifier or your Charisma modifier on Intimidate checks (choose one; you use only one, not both).
 
 You can use this skill to frighten your opponents or to get them to act in a way that benefits you. This skill includes verbal threats and displays of prowess.
 

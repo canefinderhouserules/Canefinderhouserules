@@ -45,8 +45,7 @@ A number of factors and conditions can influence an attack roll. Many of these s
 
 3 The defender is denied his Dexterity bonus to his Armor Class.
 
-!!! warning "House rule"
-    **Prone and instantaneous-fire weapons:** if an attacker is adjacent to a prone defender and uses a weapon that fires instantaneously (such as a firearm or a crossbow), the +4 AC bonus a prone defender normally gets against ranged attacks does not apply. The attack is treated as a melee attack for this purpose, and the prone defender takes the –4 penalty to AC.
+**Prone and instantaneous-fire weapons:** if an attacker is adjacent to a prone defender and uses a weapon that fires instantaneously (such as a firearm or a crossbow), the +4 AC bonus a prone defender normally gets against ranged attacks does not apply. The attack is treated as a melee attack for this purpose, and the prone defender takes the –4 penalty to AC.
 
 ## Cover
 
@@ -86,8 +85,7 @@ In addition, some magical effects provide concealment against all attacks, regar
 
 **Total Concealment**: If you have line of effect to a target but not line of sight, he is considered to have total concealment from you. You can’t attack an opponent that has total concealment, though you can attack into a square that you think he occupies. A successful attack into a square occupied by an enemy with total concealment has a 50% miss chance (instead of the normal 20% miss chance for an opponent with concealment).
 
-!!! warning "House rule"
-    Total concealment from blindness or invisibility gives a **30%** miss chance instead of 50%. This applies to attacks against invisible creatures, and to attacks made by (or against) a blinded character.
+Total concealment from blindness or invisibility gives a **30%** miss chance instead of 50%. This applies to attacks against invisible creatures, and to attacks made by (or against) a blinded character.
 
 You can’t execute an attack of opportunity against an opponent with total concealment, even if you know what square or squares the opponent occupies.
 
@@ -117,8 +115,9 @@ A helpless opponent is someone who is bound, sleeping, paralyzed, unconscious, o
 
 You automatically hit and score a critical hit. The defender does not get a Fortitude save to avoid death: the attack simply deals its critical hit damage, and a coup de grace only kills if that damage is enough to reduce the target to death by itself. A rogue also gets her extra sneak attack damage against a helpless opponent when delivering a coup de grace.
 
-!!! warning "House rule"
-    A coup de grace no longer forces a death save. It cannot kill a helpless target outright.
+??? note "Original rule"
+
+    You automatically hit and score a critical hit. If the defender survives the damage, he must make a Fortitude save (DC 10 + damage dealt) or die. A rogue also gets her extra sneak attack damage against a helpless opponent when delivering a coup de grace.
 
 Delivering a coup de grace provokes attacks of opportunity from threatening opponents.
 

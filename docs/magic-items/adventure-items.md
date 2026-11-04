@@ -1946,7 +1946,7 @@ Each ring holds 1 charge; when a charge is expended, one ring stops glowing. The
 
 **Slot** none; **Price** 150,320 gp; **Weight** 24 lbs.
 
-This Large *+2 keen vorpal greataxe* has an adamantine haft and a chipped, pitted guillotine blade instead of a curved axehead. Obviously made for a giant’s hands, the axe laughs evilly whenever it kills. Like the* final blades* of the land of revolution, any creature killed by it (whether from decapitation or simple damage) finds its soul trapped within the blade, and it cannot be raised from the dead while so trapped. Presumably the Gray Gardeners would know how to release a soul from the blade.
+This Large *+2 keen vorpal greataxe* has an adamantine haft and a chipped, pitted guillotine blade instead of a curved axehead. Obviously made for a giant’s hands, the axe laughs evilly whenever it kills. Like the* final blades* of the land of revolution, any creature killed by it (whether from decapitation or simple damage) finds its soul trapped within the blade, and it cannot be raised from the dead while so trapped. Presumably the Gray Wardens would know how to release a soul from the blade.
 
 **Construction**
 
@@ -10104,7 +10104,7 @@ This elegant, long-necked samisen is crafted of cat skin stretched over a wooden
 
 **Slot** neck; **Price** 67,500 gp; **Weight** —
 
-This crimson devil talisman once belonged to the diabolist an Old Diabolist, a conjurer who aided a founder of the infernal empire in investigating the ways of Hell. The wearer of this talisman gains a +3 profane bonus to Armor Class and a *telepathic bond* with the bearded devil bound within. Once per day, the wearer can attempt an opposed Charisma check against the barbazu’s +0 modifier to summon him forth for 8 rounds, as per the spell* summon monster*. The barbazu bound within this talisman is known as Lodveyn the Wizened. Rather than Weapon Focus (glaive), Lodveyn has Throw Anything—preferring to fling his polearm, then following it into the fray with his vicious claws. He claims to have been a servant of both the diabolist and an ice devil, and remembers much of the early days of the hell knights’ founding.
+This crimson devil talisman once belonged to the diabolist an Old Diabolist, a conjurer who aided a founder of the infernal empire in investigating the ways of Hell. The wearer of this talisman gains a +3 profane bonus to Armor Class and a *telepathic bond* with the bearded devil bound within. Once per day, the wearer can attempt an opposed Charisma check against the barbazu’s +0 modifier to summon him forth for 8 rounds, as per the spell* summon monster*. The barbazu bound within this talisman is known as the Wizened One. Rather than Weapon Focus (glaive), the Wizened One has Throw Anything—preferring to fling his polearm, then following it into the fray with his vicious claws. He claims to have been a servant of both the diabolist and an ice devil, and remembers much of the early days of the hell knights’ founding.
 
 **Construction**
 

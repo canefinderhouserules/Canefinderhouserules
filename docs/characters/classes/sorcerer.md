@@ -230,8 +230,11 @@ At some point in your family’s history, a dragon interbred with your bloodline
 
 **Bloodline Arcana**: Whenever you cast a spell with an energy descriptor that matches your draconic bloodline’s energy type, that spell gains a +1 enhancement bonus to damage per die rolled. In addition, the saving throw DC of such spells increases by 1.
 
-!!! warning "House rule"
-    Draconic bloodline arcana also grants **+1 to the save DC** of spells with the descriptor matching your dragon type's energy. The +1 damage per die is an enhancement bonus: see [Damage-Per-Die Bonuses](damage-per-die-bonuses.md).
+This bonus follows the rules for [Damage-Per-Die Bonuses](damage-per-die-bonuses.md).
+
+??? note "Original rule"
+
+    **Bloodline Arcana**: Whenever you cast a spell with an energy descriptor that matches your draconic bloodline’s energy type, that spell deals +1 point of damage per die rolled.
 
 **Bloodline Powers**: The power of dragons flows through you and manifests in a number of ways. At 1st level, you must select one of the chromatic or metallic dragon types (see the *Pathfinder RPG* *Bestiary*). This choice cannot be changed. A number of your abilities grant resistances and deal damage based on your dragon type, as noted on the following table.
 

@@ -1,7 +1,6 @@
 # Monster PC Races
 
-!!! warning "House rule"
-    Race builds for monster PCs using the race-point (RP) system. Each build lists an XP cost to take it at character creation. See [Monster PCs](monster-pcs.md).
+Race builds for monster PCs using the race-point (RP) system. Each build lists an XP cost to take it at character creation. See [Monster PCs](monster-pcs.md).
 
 ## Succubus [3500xp]
 

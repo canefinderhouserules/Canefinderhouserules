@@ -153,18 +153,17 @@ You can make attacks with natural weapons in combination with attacks made with 
 
 **Multiple Attacks**: A character who can make more than one attack per round must use the full-attack action (see Full-Round Actions) in order to get more than one attack.
 
-!!! warning "House rule"
-    **Natural attacks:** the same limit that applies to summoner eidolons applies to player characters. The number of natural attacks you can make in a round is capped by your character level, as shown below.
+**Natural attacks:** the same limit that applies to summoner eidolons applies to player characters. The number of natural attacks you can make in a round is capped by your character level, as shown below.
 
-    | Character level | Maximum natural attacks |
-    |---|---|
-    | 1st–3rd | 3 |
-    | 4th–8th | 4 |
-    | 9th–13th | 5 |
-    | 14th–18th | 6 |
-    | 19th–20th | 7 |
+| Character level | Maximum natural attacks |
+|---|---|
+| 1st–3rd | 3 |
+| 4th–8th | 4 |
+| 9th–13th | 5 |
+| 14th–18th | 6 |
+| 19th–20th | 7 |
 
-    A creature or form that has only one natural attack can spend one feat to gain iterative attacks with it (each extra attack at the usual iterative progression).
+A creature or form that has only one natural attack can spend one feat to gain iterative attacks with it (each extra attack at the usual iterative progression).
 
 **Shooting or Throwing into a Melee**: If you shoot or throw a ranged weapon at a target engaged in melee with a friendly character, you take a –2 penalty on your attack roll. Two characters are engaged in melee if they are enemies of each other and either threatens the other. (An unconscious or otherwise immobilized character is not considered engaged unless he is actually being attacked.)
 
@@ -172,8 +171,13 @@ If your target (or the part of your target you’re aiming at, if it’s a big t
 
 If your target is two size categories larger than the friendly characters it is engaged with, this penalty is reduced to –1. There is no penalty for firing at a creature that is three size categories larger than the friendly characters it is engaged with.
 
-!!! warning "House rule"
-    The penalty for shooting or throwing into melee is –2 instead of –4.
+??? note "Original rule"
+
+    **Shooting or Throwing into a Melee**: If you shoot or throw a ranged weapon at a target engaged in melee with a friendly character, you take a –4 penalty on your attack roll. Two characters are engaged in melee if they are enemies of each other and either threatens the other. (An unconscious or otherwise immobilized character is not considered engaged unless he is actually being attacked.)
+
+    If your target (or the part of your target you’re aiming at, if it’s a big target) is at least 10 feet away from the nearest friendly character, you can avoid the –4 penalty, even if the creature you’re aiming at is engaged in melee with a friendly character.
+
+    If your target is two size categories larger than the friendly characters it is engaged with, this penalty is reduced to –2. There is no penalty for firing at a creature that is three size categories larger than the friendly characters it is engaged with.
 
 *Precise Shot*: If you have the Precise Shot feat, you don’t take this penalty.
 

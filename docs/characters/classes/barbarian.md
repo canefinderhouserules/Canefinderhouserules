@@ -51,10 +51,7 @@ While in rage, a barbarian gains a +4 morale bonus to her Strength and Constitut
 
 A barbarian can end her rage as a free action and is fatigued after rage for a number of rounds equal to 2 times the number of rounds spent in the rage. A barbarian cannot enter a new rage while fatigued or exhausted but can otherwise enter rage multiple times during a single encounter or combat. If a barbarian falls unconscious, her rage immediately ends, placing her in peril of death.
 
-**Rage Powers (Ex)**: As a barbarian gains levels, she learns to use her rage in new ways. Starting at 2nd level, a barbarian gains a rage power. She gains another rage power for every two levels of barbarian attained after 2nd level. A barbarian gains the benefits of rage powers only while raging, and some of these powers require the barbarian to take an action first. Unless otherwise noted, a barbarian cannot select an individual power more than once.
-
-!!! warning "House rule"
-    Barbarians may also choose rage powers from the **unchained barbarian** rage power list.
+**Rage Powers (Ex)**: As a barbarian gains levels, she learns to use her rage in new ways. Starting at 2nd level, a barbarian gains a rage power. She gains another rage power for every two levels of barbarian attained after 2nd level. A barbarian gains the benefits of rage powers only while raging, and some of these powers require the barbarian to take an action first. Unless otherwise noted, a barbarian cannot select an individual power more than once. Barbarians may also choose rage powers from the **unchained barbarian** rage power list.
 
 *Animal Fury (Ex)*: While raging, the barbarian gains a bite attack. If used as part of a full attack action, the bite attack is made at the barbarian’s full base attack bonus –5. If the bite hits, it deals 1d4 points of damage (assuming the barbarian is Medium; 1d3 points of damage if Small) plus half the barbarian’s Strength modifier. A barbarian can make a bite attack as part of the action to maintain or break free from a grapple. This attack is resolved before the grapple check is made. If the bite attack hits, any grapple checks made by the barbarian against the target this round are at a +2 bonus.
 
@@ -124,8 +121,9 @@ If a character already has uncanny dodge (see above) from another class, the lev
 
 **Damage Reduction (Ex)**: At 2nd level, a barbarian gains damage reduction. Subtract 1 from the damage the barbarian takes each time she is dealt damage from a weapon or a natural attack. At 4th level, and every two barbarian levels thereafter (6th, 8th, 10th, and so on), this damage reduction rises by 1 point, up to 10 at 20th level. Damage reduction can reduce damage to 0 but not below 0.
 
-!!! warning "House rule"
-    Barbarians gain damage reduction starting at **2nd level**, increasing by 1 **every 2 levels** (instead of starting at 7th level and increasing every 3 levels).
+??? note "Original rule"
+
+    **Damage Reduction (Ex)**: At 7th level, a barbarian gains damage reduction. Subtract 1 from the damage the barbarian takes each time she is dealt damage from a weapon or a natural attack. At 10th level, and every three barbarian levels thereafter (13th, 16th, and 19th), this damage reduction rises by 1 point. Damage reduction can reduce damage to 0 but not below 0.
 
 **Greater Rage (Ex)**: At 11th level, when a barbarian enters rage, the morale bonus to her Strength and Constitution increases to +6 and the morale bonus on her Will saves increases to +3.
 

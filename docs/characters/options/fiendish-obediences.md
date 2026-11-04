@@ -2,8 +2,7 @@
 
 A character who worships a fiendish patron and has the [Fiendish Obedience](../../rules/feats/fiendish-obedience.md) feat performs a daily obedience and gains its benefit. As she advances, she also gains the boons of the list she chose from her patron. Demon lords have their own page: [Demonic Obediences](demonic-obediences.md).
 
-!!! warning "House rule"
-    Obedience boons are gained at character levels 6, 10 and 14. The player chooses any one boon list her patron offers, whatever its name and whatever her class; the choice is permanent once made (see [Feat Changes](feat-changes.md#obedience)).
+Obedience boons are gained at character levels 6, 10 and 14. The player chooses any one boon list her patron offers, whatever its name and whatever her class; the choice is permanent once made (see [Feat Changes](feat-changes.md#obedience)).
 
 Fiends are listed by their portfolio rather than by name. These obediences are meant for evil characters and villains.
 

@@ -91,8 +91,7 @@ Panicked is a more extreme state of fear than shaken or frightened.
 
 **Prone**: The character is lying on the ground. A prone attacker has a –4 penalty on melee attack rolls and cannot use a ranged weapon (except for a crossbow). A prone defender gains a +4 bonus to Armor Class against ranged attacks, but takes a –4 penalty to AC against melee attacks. Standing up is a move-equivalent action that provokes an attack of opportunity.
 
-!!! warning "House rule"
-    **Prone and instantaneous-fire weapons:** if an attacker is adjacent to a prone defender and uses a weapon that fires instantaneously (such as a firearm or a crossbow), the +4 AC bonus a prone defender normally gets against ranged attacks does not apply. The attack is treated as a melee attack for this purpose, and the prone defender takes the –4 penalty to AC.
+**Prone and instantaneous-fire weapons:** if an attacker is adjacent to a prone defender and uses a weapon that fires instantaneously (such as a firearm or a crossbow), the +4 AC bonus a prone defender normally gets against ranged attacks does not apply. The attack is treated as a melee attack for this purpose, and the prone defender takes the –4 penalty to AC.
 
 **Shaken**: A shaken character takes a –2 penalty on attack rolls, saving throws, skill checks, and ability checks. Shaken is a less severe state of fear than frightened or panicked.
 

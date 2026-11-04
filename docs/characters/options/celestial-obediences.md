@@ -2,8 +2,7 @@
 
 A character who worships an empyreal lord (a demigod of good) and has the [Celestial Obedience](../../rules/feats/celestial-obedience.md) feat performs a daily obedience and gains its benefit. As she advances, she also gains her empyreal lord’s three boons. A [mystery cultist](../prestige-classes/mystery-cultist.md) gains them earlier.
 
-!!! warning "House rule"
-    Obedience boons are gained at character levels 6, 10 and 14. The player chooses any one boon list her patron offers, whatever its name and whatever her class; the choice is permanent once made (see [Feat Changes](feat-changes.md#obedience)).
+Obedience boons are gained at character levels 6, 10 and 14. The player chooses any one boon list her patron offers, whatever its name and whatever her class; the choice is permanent once made (see [Feat Changes](feat-changes.md#obedience)).
 
 Empyreal lords are listed by their portfolio rather than by name, with their alignment in parentheses.
 
