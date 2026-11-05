@@ -25,7 +25,7 @@ You are skilled at flying, through either the use of wings or magic, and can per
 
 **Action**: None. A Fly check doesn’t require an action; it is made as part of another action or as a reaction to a situation.
 
-**Try Again**: Varies. You can attempt a Fly check to perform the same maneuver on subsequent rounds. If you are using wings and you fail a Fly check by 5 or more, you plummet to the ground, taking the appropriate falling damage (see Chapter 13).
+**Try Again**: Varies. You can attempt a Fly check to perform the same maneuver on subsequent rounds. If you are using wings and you fail a Fly check by 5 or more, you plummet to the ground, taking the appropriate falling damage.
 
 **Special**: A spellcaster with a bat familiar gains a +3 bonus on Fly checks.
 
@@ -49,4 +49,4 @@ You cannot take ranks in this skill without a natural means of flight or gliding
 
 in Fly if they possess a reliable means of flying every day (either through a spell or other special ability).
 
-If you have the Acrobatic feat, you get a bonus on Fly checks (see Chapter 5).
+If you have the Acrobatic feat, you get a bonus on Fly checks.

@@ -73,7 +73,7 @@ Followers have different priorities from cohorts. When you try to attract a foll
 | 25 or higher     | 17th         | 135                          | 13  | 7   | 4   | 2   | 2   |
 
 
-*Cohort Level*: You can attract a cohort of up to this level. Regardless of your Leadership score, you can only recruit a cohort who is two or more levels lower than yourself. The cohort should be equipped with gear appropriate for its level (see Chapter 14). A cohort can be of any race or class. The cohort’s alignment may not be opposed to your alignment on either the law/chaos or good/evil axis, and you take a –1 penalty to your Leadership score if you recruit a cohort of an alignment different from your own.
+*Cohort Level*: You can attract a cohort of up to this level. Regardless of your Leadership score, you can only recruit a cohort who is two or more levels lower than yourself. The cohort should be equipped with gear appropriate for its level. A cohort can be of any race or class. The cohort’s alignment may not be opposed to your alignment on either the law/chaos or good/evil axis, and you take a –1 penalty to your Leadership score if you recruit a cohort of an alignment different from your own.
 
 A cohort does not count as a party member when determining the party’s XP. Instead, divide the cohort’s level by your level. Multiply this result by the total XP awarded to you, then add that number of experience points to the cohort’s total.
 

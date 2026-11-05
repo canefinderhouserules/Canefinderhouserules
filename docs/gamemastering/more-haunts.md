@@ -32,7 +32,7 @@ CN persistent variant haunt (30-ft. radius)
 
 **hp** 54; **Weakness** negative energy (immune to positive energy); **Trigger** proximity; **Reset** 1d20 days
 
-**Effect** Colorful light and raw chaotic energy lash out in a dizzying display. All living creatures become the target of a random quickening effect (see table on page 61; DC 21 Fortitude saving throw negates). A creature that remains in the breach’s area of effect must attempt an additional saving throw each round against a new random effect.
+**Effect** Colorful light and raw chaotic energy lash out in a dizzying display. All living creatures become the target of a random quickening effect (DC 21 Fortitude saving throw negates). A creature that remains in the breach’s area of effect must attempt an additional saving throw each round against a new random effect.
 
 **Overcharge** Each affected target rolls twice on the quickening effect table if they fail to resist this haunt’s effects.
 

@@ -26,7 +26,7 @@ Although they are thrown weapons, shuriken are treated as ammunition for the pur
 
 **Light, One-Handed, and Two-Handed Melee Weapons**: This designation is a measure of how much effort it takes to wield a weapon in combat. It indicates whether a melee weapon, when wielded by a character of the weapon’s size category, is considered a light weapon, a one-handed weapon, or a two-handed weapon.
 
-*Light*: A light weapon is used in one hand. It is easier to use in one’s off hand than a one-handed weapon is, and can be used while grappling (see Chapter 8). Add the wielder’s Strength modifier to damage rolls for melee attacks with a light weapon if it’s used in the primary hand, or half the wielder’s Strength bonus if it’s used in the off hand. Using two hands to wield a light weapon gives no advantage on damage; the Strength bonus applies as though the weapon were held in the wielder’s primary hand only.
+*Light*: A light weapon is used in one hand. It is easier to use in one’s off hand than a one-handed weapon is, and can be used while grappling. Add the wielder’s Strength modifier to damage rolls for melee attacks with a light weapon if it’s used in the primary hand, or half the wielder’s Strength bonus if it’s used in the off hand. Using two hands to wield a light weapon gives no advantage on damage; the Strength bonus applies as though the weapon were held in the wielder’s primary hand only.
 
 An unarmed strike is always considered a light weapon.
 
@@ -199,15 +199,15 @@ In other cases, a weapon can deal either of two types of damage. In a situation 
 
 **Special**: Some weapons have special features in addition to those noted in their descriptions.
 
-*Brace*: If you use a readied action to set a brace weapon against a charge, you deal double damage on a successful hit against a charging character (see Chapter 8).
+*Brace*: If you use a readied action to set a brace weapon against a charge, you deal double damage on a successful hit against a charging character.
 
 *Disarm*: When you use a disarm weapon, you get a +2 bonus on Combat Maneuver Checks to disarm an enemy.
 
 *Double*: You can use a double weapon to fight as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just as if you were using a one-handed weapon and a light weapon. You can choose to wield one end of a double weapon two-handed, but it cannot be used as a double weapon when wielded in this way—only one end of the weapon can be used in any given round.
 
-*Monk*: A monk weapon can be used by a monk to perform a flurry of blows (see Chapter 3).
+*Monk*: A monk weapon can be used by a monk to perform a flurry of blows.
 
-*Nonlethal*: These weapons deal nonlethal damage (see Chapter 8).
+*Nonlethal*: These weapons deal nonlethal damage.
 
 *Reach*: You use a reach weapon to strike opponents 10 feet away, but you can’t use it against an adjacent foe.
 
@@ -267,7 +267,7 @@ You can fire a repeating crossbow with one hand or fire a repeating crossbow in 
 
 You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with an elven curve blade sized for you, even though it isn’t a light weapon.
 
-**Dagger**: A dagger has a blade that is about 1 foot in length. You get a +2 bonus on Sleight of Hand skill checks made to conceal a dagger on your body (see Chapter 4).
+**Dagger**: A dagger has a blade that is about 1 foot in length. You get a +2 bonus on Sleight of Hand skill checks made to conceal a dagger on your body.
 
 **Dagger, Punching**: A punching dagger’s blade is attached to a horizontal handle that projects out from the fist when held.
 
@@ -367,7 +367,7 @@ A halfling sling staff can be used as a simple weapon that deals bludgeoning dam
 
 **Strike, Unarmed**: A Medium character deals 1d3 points of nonlethal damage with an unarmed strike. A Small character deals 1d2 points of nonlethal damage. A monk or any character with the Improved Unarmed Strike feat can deal lethal or nonlethal damage with unarmed strikes, at his discretion. The damage from an unarmed strike is considered weapon damage for the purposes of effects that give you a bonus on weapon damage rolls.
 
-An unarmed strike is always considered a light weapon. Therefore, you can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with an unarmed strike. Unarmed strikes do not count as natural weapons (see Chapter 8).
+An unarmed strike is always considered a light weapon. Therefore, you can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with an unarmed strike. Unarmed strikes do not count as natural weapons.
 
 **Sword, Bastard**: A bastard sword is about 4 feet in length, making it too large to use in one hand without special training; thus, it is an exotic weapon. A character can use a bastard sword two-handed as a martial weapon.
 

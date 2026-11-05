@@ -45,4 +45,4 @@ You need both hands free to climb, but you may cling to a wall with one hand whi
 
 A creature with a climb speed has a +8 racial bonus on all Climb checks. The creature must make a Climb check to climb any wall or slope with a DC higher than 0, but it can always choose to take 10, even if rushed or threatened while climbing. If a creature with a climb speed chooses an accelerated climb (see above), it moves at double its climb speed (or at its land speed, whichever is slower) and makes a single Climb check at a –5 penalty. Such a creature retains its Dexterity bonus to Armor Class (if any) while climbing, and opponents get no special bonus to their attacks against it. It cannot, however, use the run action while climbing.
 
-If you have the Athletic feat, you get a bonus on Climb checks (see Chapter 5).
+If you have the Athletic feat, you get a bonus on Climb checks.

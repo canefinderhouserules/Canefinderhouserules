@@ -12,7 +12,7 @@ Your training allows you to slip out of bonds and escape from grapples.
 
 *Tight Space*: The DC noted is for getting through a space through which your head fits but your shoulders don’t. If the space is long, you may need to make multiple checks. You can’t squeeze through a space that your head does not fit through.
 
-*Grappler*: You can make an Escape Artist check in place of a combat maneuver check to escape a grapple (see Chapter 8) or a pin.
+*Grappler*: You can make an Escape Artist check in place of a combat maneuver check to escape a grapple or a pin.
 
 | Restraint | Escape Artist DC |
 |---|---|
@@ -29,4 +29,4 @@ Your training allows you to slip out of bonds and escape from grapples.
 
 **Try Again**: Varies. You can make another check after a failed check if you’re squeezing your way through a tight space, making multiple checks. If the situation permits, you can make additional checks, or even take 20, as long as you’re not being actively opposed. If the DC to escape from rope or bindings is higher than 20 + your Escape Artist skill bonus, you cannot escape from the bonds using Escape Artist.
 
-**Special**: If you have the Stealthy feat, you gain a bonus on Escape Artist checks (see Chapter 5).
+**Special**: If you have the Stealthy feat, you gain a bonus on Escape Artist checks.

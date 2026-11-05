@@ -39,7 +39,7 @@ The magus’s class skills are Climb (Str), Craft (Int), Fly (Dex), Intimidate (
 | 19th | +14/+9/+4 | +11 | +6 | +11 | Greater spell access | 5 | 5 | 5 | 5 | 5 | 5 | 4 |
 | 20th | +15/+10/+5 | +12 | +6 | +12 | True magus | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
 
-##
+## Class Features
 
 The following are the class features of the magus.
 
@@ -53,7 +53,7 @@ A magus may know any number of spells. He must choose and prepare his spells ahe
 
 **Spellbooks**: A magus must study his spellbook each day to prepare his spells. He cannot prepare any spell not recorded in his spellbook except for read magic, which all magi can prepare from memory. A magus begins play with a spellbook containing all 0-level magus spells plus three 1st-level magus spells of his choice. The magus also selects a number of additional 1st-level magus spells equal to his Intelligence modifier to add to his spellbook. At each new magus level, he gains two new magus spells of any spell level or levels that he can cast (based on his new magus level) for his spellbook. At any time, a magus can also add spells found in other spellbooks to his own (see the Core Rulebook rules on spellbooks).
 
-A magus can learn spells from a wizard’s spellbook, just as a wizard can from a magus’s spellbook. The spells learned must be on the magus spell list, as normal. An alchemist  can learn formulae from a magus’s spellbook, if the spells are also on the alchemist spell list. A magus cannot learn spells from an alchemist.
+A magus can learn spells from a wizard’s spellbook, just as a wizard can from a magus’s spellbook. The spells learned must be on the magus spell list, as normal. An alchemist can learn formulae from a magus’s spellbook, if the spells are also on the alchemist spell list. A magus cannot learn spells from an alchemist.
 
 **Arcane Pool (Su)**: At 1st level, the magus gains a reservoir of mystical arcane energy that he can draw upon to fuel his powers and enhance his weapon. This arcane pool has a number of points equal to 1/2 his magus level (minimum 1) + his Intelligence modifier. The pool refreshes once per day when the magus prepares his spells.
 

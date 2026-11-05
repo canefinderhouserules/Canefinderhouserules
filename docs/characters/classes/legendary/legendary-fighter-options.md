@@ -124,7 +124,7 @@ When the fighter makes a ranged attack with a thrown weapon he is proficient wit
 
 A fighter selects one group of weapons, as noted below. Whenever he attacks with a weapon from this group, he gains a +1 bonus on attack and damage rolls. A fighter also adds this bonus on any combat maneuver checks made with weapons from this group. Bonuses granted from overlapping groups do not stack. A fighter can choose this option more than once, choosing a different weapon group each time.
 
-Weapon groups are defined on page 7. (GMs may add other weapons to these groups, or add entirely new groups).
+(GMs may add other weapons to these groups, or add entirely new groups).
 
 **Weapon Mastery**
 
@@ -138,7 +138,7 @@ When damage would cause the fighter or an adjacent ally to be knocked unconsciou
 
 Offering these new options as choices for any fighter is simple.
 
-Observant readers may notice that several advanced weapon training options seem to be missing, such as armed bravery and adaptable training. These have been reclassified into new fighter class feature types called perseverance options and prowess options (see below). The missing options should still be available as advanced weapon training options if the perseverance and prowess class features aren’t being used. One advanced weapon training option that may seem unusual is the weapon group option. This option only functions with the legendary fighter and is redundant for a standard fighter, although the updated list of weapon groups on page 7 is a useful reference for any fighter.
+Observant readers may notice that several advanced weapon training options seem to be missing, such as armed bravery and adaptable training. These have been reclassified into new fighter class feature types called perseverance options and prowess options (see below). The missing options should still be available as advanced weapon training options if the perseverance and prowess class features aren’t being used. One advanced weapon training option that may seem unusual is the weapon group option. This option only functions with the legendary fighter and is redundant for a standard fighter, although the updated list of weapon groups is a useful reference for any fighter.
 
 **Table: Weapon Training Options**
 

@@ -43,7 +43,7 @@ then you’ve completed the task in one-half or one- third of the time. Other mu
 | High-quality item (bell) | Varies | 15 |
 | Complex or superior item (lock) | Varies | 20 |
 
-* Traps have their own rules for construction (see Chapter 13).
+* Traps have their own rules for construction.
 
 If you fail a check by 4 or less, you make no progress this week. If you fail by 5 or more, you ruin half the raw materials and have to pay half the original raw material cost again.
 

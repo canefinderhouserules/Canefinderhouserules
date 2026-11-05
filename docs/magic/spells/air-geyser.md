@@ -1,6 +1,6 @@
 # Air Geyser
 
-**School** evocation [air], Level bloodrager 3, druid 3, magus 3, shaman 4, sorcerer/wizard 3, witch 3  
+**School** evocation [air]; **Level** bloodrager 3, druid 3, magus 3, shaman 4, sorcerer/wizard 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

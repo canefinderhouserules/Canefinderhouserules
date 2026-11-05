@@ -14,7 +14,7 @@ Unlike when pricing magic items, there are no formulae for how to correctly “p
 
 ## Spell Terminology
 
-It is essential for you to understand the terminology used in the game to describe spells and the effects they can create. Before designing a new spell, familiarize yourself with “Chapter 9: Magic” in the Core Rulebook. In particular, be sure you understand the various schools and subschools  and the spell stat block categories (components, range, and so on) in the Core Rulebook. The following sections address aspects of spell design in order of their importance and relevance to making a balanced spell. For example, the components of a spell have very little to do with its power level unless an expensive focus or material component is involved, so components are discussed well after damage, range, duration, and saving throws.
+It is essential for you to understand the terminology used in the game to describe spells and the effects they can create. Before designing a new spell, familiarize yourself with “Chapter 9: Magic” in the Core Rulebook. In particular, be sure you understand the various schools and subschools and the spell stat block categories (components, range, and so on) in the Core Rulebook. The following sections address aspects of spell design in order of their importance and relevance to making a balanced spell. For example, the components of a spell have very little to do with its power level unless an expensive focus or material component is involved, so components are discussed well after damage, range, duration, and saving throws.
 
 ## Intended Level
 

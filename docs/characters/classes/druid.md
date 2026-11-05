@@ -78,7 +78,7 @@ Unlike normal animals of its kind, an animal companion’s Hit Dice, abilities, 
 
 **Nature Sense (Ex)**: A druid gains a +2 bonus on Knowledge (nature) and Survival checks.
 
-**Wild Empathy (Ex)**: A druid can improve the attitude of an animal. This ability functions just like a Diplomacy check made to improve the attitude of a person (see Chapter 4). The druid rolls 1d20 and adds her druid level and her Charisma modifier to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
+**Wild Empathy (Ex)**: A druid can improve the attitude of an animal. This ability functions just like a Diplomacy check made to improve the attitude of a person. The druid rolls 1d20 and adds her druid level and her Charisma modifier to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
 
 To use wild empathy, the druid and the animal must be within 30 feet of one another under normal conditions. Generally, influencing an animal in this way takes 1 minute but, as with influencing people, it might take more or less time.
 

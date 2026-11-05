@@ -24,4 +24,4 @@ You are skilled at detecting falsehoods and true intentions.
 
 **Special**: A ranger gains a bonus on Sense Motive checks when using this skill against a favored enemy.
 
-If you have the Alertness feat, you get a bonus on Sense Motive checks (see Chapter 5).
+If you have the Alertness feat, you get a bonus on Sense Motive checks.

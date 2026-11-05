@@ -1,6 +1,6 @@
 # Stone Discus
 
-**School** conjuration (creation) [earth], Level bloodrager 2, druid 2, magus 2, sorcerer/wizard 2, witch 2  
+**School** conjuration (creation) [earth]; **Level** bloodrager 2, druid 2, magus 2, sorcerer/wizard 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a pinch of earth or metal)  
 **Range** close (25 ft. + 5 ft./2 levels)  

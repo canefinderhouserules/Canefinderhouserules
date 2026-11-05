@@ -32,4 +32,4 @@ You can attempt to feint against someone again if you fail. Secret messages can 
 
 **Special**: A spellcaster with a viper familiar gains a +3 bonus on Bluff checks.
 
-If you have the Deceitful feat, you get a bonus on Bluff checks (see Chapter 5).
+If you have the Deceitful feat, you get a bonus on Bluff checks.

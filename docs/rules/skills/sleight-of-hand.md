@@ -30,4 +30,4 @@ You can also use Sleight of Hand to entertain an audience as though you were usi
 
 **Untrained**: An untrained Sleight of Hand check is simply a Dexterity check. Without actual training, you can’t succeed on any Sleight of Hand check with a DC higher than 10, except for hiding an object on your body.
 
-**Special**: If you have the Deft Hands feat, you get a bonus on Sleight of Hand checks (see Chapter 5).
+**Special**: If you have the Deft Hands feat, you get a bonus on Sleight of Hand checks.

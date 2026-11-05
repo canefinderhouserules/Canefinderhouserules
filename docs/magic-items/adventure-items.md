@@ -9790,7 +9790,7 @@ The *Praenomen* can be rededicated to a new master by replacing the front plate 
 
 **Slot** neck; **Price** 1,800 gp; **Weight** —
 
-A hand-sized clay rebus of the Master of Masters (see the sidebar on page 86 for more information on the god of self-perfection’s rebus), sometimes inlaid with copper or tiny gemstones, hangs from this braided hair necklace. It is normally worn under clothing against the skin, and grants the wearer a +2 resistance bonus on saving throws against disease and poison. Once per day, the wearer can use *purify food and drink*, cleansing 1 cubic foot of food and water.
+A hand-sized clay rebus of the Master of Masters, sometimes inlaid with copper or tiny gemstones, hangs from this braided hair necklace. It is normally worn under clothing against the skin, and grants the wearer a +2 resistance bonus on saving throws against disease and poison. Once per day, the wearer can use *purify food and drink*, cleansing 1 cubic foot of food and water.
 
 **Construction**
 
@@ -13241,7 +13241,7 @@ These distinctive suits of armor are a special type of masterwork full plate tha
 
 **Category** Alchemical Tools
 
-This emerald-colored adhesive is made from animal glands, urine, and other powerful scents that are difficult to wash off. A target splashed with it smells like weak prey to predators. Creatures with the scent ability can detect a marked creature at five times the normal range, note its direction as a free action, pinpoint it when it is within 25 feet, and track it by scent with a +5 bonus on their Survival checks. Immersion in water within 1 round of exposure washes the musk off; otherwise the effect decreases by 1 range increment per day (four times normal range after 1 day, three times normal range after 2 days, and so on) until the creature is again at normal scent levels. One dose of Kaava musk costs 40 gp and weighs 1/2 lb.; the Craft (alchemy) DC to create Kaava musk is 20. For more information on Kaava musk, see page 31.
+This emerald-colored adhesive is made from animal glands, urine, and other powerful scents that are difficult to wash off. A target splashed with it smells like weak prey to predators. Creatures with the scent ability can detect a marked creature at five times the normal range, note its direction as a free action, pinpoint it when it is within 25 feet, and track it by scent with a +5 bonus on their Survival checks. Immersion in water within 1 round of exposure washes the musk off; otherwise the effect decreases by 1 range increment per day (four times normal range after 1 day, three times normal range after 2 days, and so on) until the creature is again at normal scent levels. One dose of Kaava musk costs 40 gp and weighs 1/2 lb.; the Craft (alchemy) DC to create Kaava musk is 20.
 
 **Construction**
 

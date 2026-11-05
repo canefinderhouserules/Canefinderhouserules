@@ -210,7 +210,7 @@ Your family is destined for greatness in some way. Your birth could have been fo
 
 *Touch of Destiny* *(Sp)*: At 1st level, you can touch a creature as a standard action, giving it an insight bonus on attack rolls, skill checks, ability checks, and saving throws equal to 1/2 your sorcerer level (minimum 1) for 1 round. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
-*Fated* *(Su)*: Starting at 3rd level, you gain a +1 luck bonus on all of your saving throws and to your AC during surprise rounds (see Chapter 8) and when you are otherwise unaware of an attack. At 7th level and every four levels thereafter, this bonus increases by +1, to a maximum of +5 at 19th level.
+*Fated* *(Su)*: Starting at 3rd level, you gain a +1 luck bonus on all of your saving throws and to your AC during surprise rounds and when you are otherwise unaware of an attack. At 7th level and every four levels thereafter, this bonus increases by +1, to a maximum of +5 at 19th level.
 
 *It Was Meant To Be* *(Su)*: At 9th level, you may reroll any one attack roll, critical hit confirmation roll, or level check made to overcome spell resistance. You must decide to use this ability after the first roll is made but before the results are revealed by the GM. You must take the second result, even if it is worse. At 9th level, you can use this ability once per day. At 17th level, you can use this ability twice per day.
 
@@ -362,7 +362,7 @@ Somewhere in your family’s history, a relative made a deal with a devil, and t
 
 **Bloodline Powers**: You can draw upon the power of Hell, although you must be wary of its corrupting influence. Such power does not come without a price.
 
-*Corrupting Touch* *(Sp)*: At 1st level, you can cause a creature to become shaken (see [Conditions](../../rules/appendices/conditions.md#shaken)) as a melee touch attack. This effect persists for a number of rounds equal to 1/2 your sorcerer level (minimum 1). Creatures shaken by this ability radiate an aura of evil, as if they were an evil outsider (see [*detect evil*](../../magic/spells/detect-evil.md)). Multiple touches do not stack, but they do add to the duration. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+*Corrupting Touch* *(Sp)*: At 1st level, you can cause a creature to become shaken (see [Conditions](../../rules/appendices/conditions.md)) as a melee touch attack. This effect persists for a number of rounds equal to 1/2 your sorcerer level (minimum 1). Creatures shaken by this ability radiate an aura of evil, as if they were an evil outsider (see [*detect evil*](../../magic/spells/detect-evil.md)). Multiple touches do not stack, but they do add to the duration. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 *Infernal Resistances* *(Ex)*: At 3rd level, you gain resist fire 5 and a +2 bonus on saving throws made against poison. At 9th level, your resistance to fire increases to 10 and your bonus on poison saving throws increases to +4.
 
@@ -434,7 +434,7 @@ The taint of the grave runs through your family. Perhaps one of your ancestors b
 
 **Bloodline Powers**: You can call upon the foul powers of the afterlife. Unfortunately, the more you draw upon them, the closer you come to joining them.
 
-*Grave Touch (Sp)*: Starting at 1st level, you can make a melee touch attack as a standard action that causes a living creature to become shaken for a number of rounds equal to 1/2 your sorcerer level (minimum 1). If you touch a shaken creature with this ability, it becomes frightened (see [Conditions](../../rules/appendices/conditions.md#frightened)) for 1 round if it has fewer Hit Dice than your sorcerer level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+*Grave Touch (Sp)*: Starting at 1st level, you can make a melee touch attack as a standard action that causes a living creature to become shaken for a number of rounds equal to 1/2 your sorcerer level (minimum 1). If you touch a shaken creature with this ability, it becomes frightened (see [Conditions](../../rules/appendices/conditions.md)) for 1 round if it has fewer Hit Dice than your sorcerer level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 *Death’s Gift* *(Su)*: At 3rd level, you gain resist cold 5 and DR 5/— against nonlethal damage. At 9th level, your resistance to cold increases to 10 and your DR increases to 10/— against nonlethal damage.
 

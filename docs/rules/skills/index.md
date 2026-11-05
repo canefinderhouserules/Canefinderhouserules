@@ -70,7 +70,7 @@ Skill descriptions adhere to the following guidelines.
 
 *Trained Only*: If this notation is included in the skill name line, you must have at least 1 rank in the skill to use it. If this notation is omitted, the skill can be used untrained (with a rank of 0). If any special notes apply to trained or untrained use, they are covered in the Untrained section (see below).
 
-*Armor Check Penalty*: If this notation is included in the skill name line, an armor check penalty applies (see Chapter 6) to checks using this skill. If this entry is absent, an armor check penalty does not apply.
+*Armor Check Penalty*: If this notation is included in the skill name line, an armor check penalty applies to checks using this skill. If this entry is absent, an armor check penalty does not apply.
 
 **Description**: The skill name line is followed by a general description of what using the skill represents.
 

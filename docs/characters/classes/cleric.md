@@ -6,7 +6,7 @@ In faith and the miracles of the divine, many find a greater purpose. Called to 
 
 As their powers are influenced by their faith, all clerics must focus their worship upon a divine source. While the vast majority of clerics revere a specific deity, a small number dedicate themselves to a divine concept worthy of devotion—such as battle, death, justice, or knowledge— free of a deific abstraction. (Work with your GM if you prefer this path to selecting a specific deity.)
 
-**Alignment**: A cleric’s alignment must be within one step of her deity’s, along either the law/chaos axis or the good/evil axis (see Chapter 7).
+**Alignment**: A cleric’s alignment must be within one step of her deity’s, along either the law/chaos axis or the good/evil axis.
 
 **Hit Die**: d8.
 

@@ -150,7 +150,7 @@ While a kobold is wearing a kobold tail attachment, the attack deals the tail at
 ## Magic Items
 
 - [Rubble Gloves](../../magic-items/racial-items-arg.md#rubble-gloves)
-- [Trapmaker’s Sack](../../magic-items/racial-items-arg.md#trapmaker-s-sack)
+- [Trapmaker’s Sack](../../magic-items/racial-items-arg.md#trapmakers-sack)
 
 ## Spells
 

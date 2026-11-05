@@ -108,7 +108,7 @@ Words marked with an asterisk (\*) are boosted versions of lower level words. A 
 
 ### 1st-Level Druid Words
 
-[Decipher\*](effect-words/language-words.md#decipher-language) (Language), [Fleet](effect-words/time-words.md#fleet-time) (Time), [Fog Bank](effect-words/weather-words.md#fog-bank-weather) (Weather), [Lesser Cure](effect-words/healing-words.md#lesser-cure-healing) (Healing), [Nature’s Calm](effect-words/animal-words.md#nature-s-calm-animal) (Animal), [Radiance](effect-words/illumination-words.md#radiance-illumination) (Illumination), [Servitor I](effect-words/summoning-words.md#servitor-i-summoning) (Summoning), [Soothing Touch\*](effect-words/healing-words.md#soothing-touch-healing) (Healing)
+[Decipher\*](effect-words/language-words.md#decipher-language) (Language), [Fleet](effect-words/time-words.md#fleet-time) (Time), [Fog Bank](effect-words/weather-words.md#fog-bank-weather) (Weather), [Lesser Cure](effect-words/healing-words.md#lesser-cure-healing) (Healing), [Nature’s Calm](effect-words/animal-words.md#natures-calm-animal) (Animal), [Radiance](effect-words/illumination-words.md#radiance-illumination) (Illumination), [Servitor I](effect-words/summoning-words.md#servitor-i-summoning) (Summoning), [Soothing Touch\*](effect-words/healing-words.md#soothing-touch-healing) (Healing)
 
 ### 2nd-Level Druid Words
 
@@ -120,7 +120,7 @@ Words marked with an asterisk (\*) are boosted versions of lower level words. A 
 
 ### 4th-Level Druid Words
 
-[Altered Form\*](effect-words/change-words.md#altered-form-change) (Change), [Bestial Form](effect-words/change-words.md#bestial-form-change) (Change), [Fire Wall](effect-words/wall-words.md#fire-wall-wall) (Wall), [Greater Cure](effect-words/healing-words.md#greater-cure-healing) (Healing), [Ice Blast](effect-words/cold-words.md#ice-blast-cold) (Cold), [Ice Wall](effect-words/wall-words.md#ice-wall-wall) (Wall), [Nature’s Command](effect-words/animal-words.md#nature-s-command-animal) (Animal), [Paralyze Creature](effect-words/binding-words.md#paralyze-creature-binding) (Binding), [Perfect Form](effect-words/body-words.md#perfect-form-body) (Body), [Purify](effect-words/life-words.md#purify-life) (Life), [Servitor IV](effect-words/summoning-words.md#servitor-iv-summoning) (Summoning)
+[Altered Form\*](effect-words/change-words.md#altered-form-change) (Change), [Bestial Form](effect-words/change-words.md#bestial-form-change) (Change), [Fire Wall](effect-words/wall-words.md#fire-wall-wall) (Wall), [Greater Cure](effect-words/healing-words.md#greater-cure-healing) (Healing), [Ice Blast](effect-words/cold-words.md#ice-blast-cold) (Cold), [Ice Wall](effect-words/wall-words.md#ice-wall-wall) (Wall), [Nature’s Command](effect-words/animal-words.md#natures-command-animal) (Animal), [Paralyze Creature](effect-words/binding-words.md#paralyze-creature-binding) (Binding), [Perfect Form](effect-words/body-words.md#perfect-form-body) (Body), [Purify](effect-words/life-words.md#purify-life) (Life), [Servitor IV](effect-words/summoning-words.md#servitor-iv-summoning) (Summoning)
 
 ### 5th-Level Druid Words
 
@@ -136,7 +136,7 @@ Words marked with an asterisk (\*) are boosted versions of lower level words. A 
 
 ### 8th-Level Druid Words
 
-[Inferno](effect-words/fire-words.md#inferno-fire) (Fire), [Rumble](effect-words/destruction-words.md#rumble-destruction) (Destruction), [Servitor VIII](effect-words/summoning-words.md#servitor-viii-summoning) (Summoning), [Thunder Strike](effect-words/electricity-words.md#thunder-strike-electricity) (Electricity), [Winter’s Wrath](effect-words/cold-words.md#winter-s-wrath-cold) (Cold)
+[Inferno](effect-words/fire-words.md#inferno-fire) (Fire), [Rumble](effect-words/destruction-words.md#rumble-destruction) (Destruction), [Servitor VIII](effect-words/summoning-words.md#servitor-viii-summoning) (Summoning), [Thunder Strike](effect-words/electricity-words.md#thunder-strike-electricity) (Electricity), [Winter’s Wrath](effect-words/cold-words.md#winters-wrath-cold) (Cold)
 
 ### 9th-Level Druid Words
 
@@ -224,7 +224,7 @@ Words marked with an asterisk (\*) are boosted versions of lower level words. A 
 
 ### 1st-Level Ranger Words
 
-[Beacon](effect-words/divination-words.md#beacon-divination) (Divination), [Decipher](effect-words/language-words.md#decipher-language) (Language), [Energy Resistance](effect-words/body-words.md#energy-resistance-body) (Body), [Fleet](effect-words/time-words.md#fleet-time) (Time), [Fortify](effect-words/body-words.md#fortify-body) (Body), [Nature’s Calm](effect-words/animal-words.md#nature-s-calm-animal) (Animal), [Servitor I](effect-words/summoning-words.md#servitor-i-summoning) (Summoning)
+[Beacon](effect-words/divination-words.md#beacon-divination) (Divination), [Decipher](effect-words/language-words.md#decipher-language) (Language), [Energy Resistance](effect-words/body-words.md#energy-resistance-body) (Body), [Fleet](effect-words/time-words.md#fleet-time) (Time), [Fortify](effect-words/body-words.md#fortify-body) (Body), [Nature’s Calm](effect-words/animal-words.md#natures-calm-animal) (Animal), [Servitor I](effect-words/summoning-words.md#servitor-i-summoning) (Summoning)
 
 ### 2nd-Level Ranger Words
 
@@ -236,7 +236,7 @@ Words marked with an asterisk (\*) are boosted versions of lower level words. A 
 
 ### 4th-Level Ranger Words
 
-[Greater Cure](effect-words/healing-words.md#greater-cure-healing) (Healing), [Nature’s Command](effect-words/animal-words.md#nature-s-command-animal) (Animal), [Purify](effect-words/life-words.md#purify-life) (Life), [Servitor IV](effect-words/summoning-words.md#servitor-iv-summoning) (Summoning)
+[Greater Cure](effect-words/healing-words.md#greater-cure-healing) (Healing), [Nature’s Command](effect-words/animal-words.md#natures-command-animal) (Animal), [Purify](effect-words/life-words.md#purify-life) (Life), [Servitor IV](effect-words/summoning-words.md#servitor-iv-summoning) (Summoning)
 
 ## Sorcerer/Wizard Words
 
@@ -258,7 +258,7 @@ Words marked with an asterisk (\*) are boosted versions of lower level words. A 
 
 ### 4th-Level Sorcerer/Wizard
 
-[Words Acid Wave](effect-words/acid-words.md#words-acid-wave-acid) (Acid), [Altered Form\*](effect-words/change-words.md#altered-form-change) (Change), [Bestial Form](effect-words/change-words.md#bestial-form-change) (Change), [Borrow Future](effect-words/time-words.md#borrow-future-time) (Time), [Disappear\*](effect-words/concealing-words.md#disappear-concealing) (Concealing), [Fire Wall](effect-words/wall-words.md#fire-wall-wall) (Wall), [Ice Blast](effect-words/cold-words.md#ice-blast-cold) (Cold), [Ice Wall](effect-words/wall-words.md#ice-wall-wall) (Wall), [Life Leech](effect-words/death-words.md#life-leech-death) (Death), [Perfect Form](effect-words/body-words.md#perfect-form-body) (Body), [Servitor IV](effect-words/summoning-words.md#servitor-iv-summoning) (Summoning), [Simple Order\*](effect-words/command-words.md#simple-order-command) (Command), [Sound Blast](effect-words/sonic-words.md#sound-blast-sonic) (Sonic), [Terror](effect-words/fear-words.md#terror-fear) (Fear), [Unseen Shell](effect-words/concealing-words.md#unseen-shell-concealing) (Concealing)
+[Words Acid Wave](effect-words/acid-words.md) (Acid), [Altered Form\*](effect-words/change-words.md#altered-form-change) (Change), [Bestial Form](effect-words/change-words.md#bestial-form-change) (Change), [Borrow Future](effect-words/time-words.md#borrow-future-time) (Time), [Disappear\*](effect-words/concealing-words.md#disappear-concealing) (Concealing), [Fire Wall](effect-words/wall-words.md#fire-wall-wall) (Wall), [Ice Blast](effect-words/cold-words.md#ice-blast-cold) (Cold), [Ice Wall](effect-words/wall-words.md#ice-wall-wall) (Wall), [Life Leech](effect-words/death-words.md#life-leech-death) (Death), [Perfect Form](effect-words/body-words.md#perfect-form-body) (Body), [Servitor IV](effect-words/summoning-words.md#servitor-iv-summoning) (Summoning), [Simple Order\*](effect-words/command-words.md#simple-order-command) (Command), [Sound Blast](effect-words/sonic-words.md#sound-blast-sonic) (Sonic), [Terror](effect-words/fear-words.md#terror-fear) (Fear), [Unseen Shell](effect-words/concealing-words.md#unseen-shell-concealing) (Concealing)
 
 ### 5th-Level Sorcerer/Wizard Words
 
@@ -274,7 +274,7 @@ Words marked with an asterisk (\*) are boosted versions of lower level words. A 
 
 ### 8th-Level Sorcerer/Wizard Words
 
-[Inferno](effect-words/fire-words.md#inferno-fire) (Fire), [Permanent Paralysis](effect-words/binding-words.md#permanent-paralysis-binding) (Binding), [Repulse](effect-words/gravity-words.md#repulse-gravity) (Gravity), [Servitor VIII](effect-words/summoning-words.md#servitor-viii-summoning) (Summoning), [Stun](effect-words/power-words.md#stun-power) (Power), [Thunder Strike](effect-words/electricity-words.md#thunder-strike-electricity) (Electricity), [Winter’s Wrath](effect-words/cold-words.md#winter-s-wrath-cold) (Cold)
+[Inferno](effect-words/fire-words.md#inferno-fire) (Fire), [Permanent Paralysis](effect-words/binding-words.md#permanent-paralysis-binding) (Binding), [Repulse](effect-words/gravity-words.md#repulse-gravity) (Gravity), [Servitor VIII](effect-words/summoning-words.md#servitor-viii-summoning) (Summoning), [Stun](effect-words/power-words.md#stun-power) (Power), [Thunder Strike](effect-words/electricity-words.md#thunder-strike-electricity) (Electricity), [Winter’s Wrath](effect-words/cold-words.md#winters-wrath-cold) (Cold)
 
 ### 9th-Level Sorcerer/Wizard Words
 
@@ -304,7 +304,7 @@ Words marked with an asterisk (\*) are boosted versions of lower level words. A 
 
 ### 5th-Level Summoner Words
 
-[Blade Wall](effect-words/wall-words.md#blade-wall-wall) (Wall), [Cinder Storm](effect-words/fire-words.md#cinder-storm-fire) (Fire), [Dimensional Jump](effect-words/teleportation-words.md#dimensional-jump-teleportation) (Teleportation), [Nature’s Command](effect-words/animal-words.md#nature-s-command-animal) (Animal), [Paralyze Creature](effect-words/binding-words.md#paralyze-creature-binding) (Binding), [Servitor VII](effect-words/summoning-words.md#servitor-vii-summoning) (Summoning), [Stone Wall](effect-words/wall-words.md#stone-wall-wall) (Wall)
+[Blade Wall](effect-words/wall-words.md#blade-wall-wall) (Wall), [Cinder Storm](effect-words/fire-words.md#cinder-storm-fire) (Fire), [Dimensional Jump](effect-words/teleportation-words.md#dimensional-jump-teleportation) (Teleportation), [Nature’s Command](effect-words/animal-words.md#natures-command-animal) (Animal), [Paralyze Creature](effect-words/binding-words.md#paralyze-creature-binding) (Binding), [Servitor VII](effect-words/summoning-words.md#servitor-vii-summoning) (Summoning), [Stone Wall](effect-words/wall-words.md#stone-wall-wall) (Wall)
 
 ### 6th-Level Summoner Words
 
@@ -318,7 +318,7 @@ Words marked with an asterisk (\*) are boosted versions of lower level words. A 
 
 ### 1st-Level Witch Words
 
-[Burning Flash](effect-words/fire-words.md#burning-flash-fire) (Fire), [Decipher\*](effect-words/language-words.md#decipher-language) (Language), [Fade](effect-words/concealing-words.md#fade-concealing) (Concealing), [Fog Bank](effect-words/weather-words.md#fog-bank-weather) (Weather), [Force Shield](effect-words/armor-words.md#force-shield-armor) (Armor), [Friendship](effect-words/command-words.md#friendship-command) (Command), [Glide](effect-words/flight-words.md#glide-flight) (Flight), [Lesser Cure](effect-words/healing-words.md#lesser-cure-healing) (Healing), [Lesser Wound](effect-words/wounding-words.md#lesser-wound-wounding) (Wounding), [Nature’s Calm](effect-words/animal-words.md#nature-s-calm-animal) (Animal), [Radiance](effect-words/illumination-words.md#radiance-illumination) (Illumination), [Servitor I](effect-words/summoning-words.md#servitor-i-summoning) (Summoning), [Shock Arc](effect-words/electricity-words.md#shock-arc-electricity) (Electricity), [Simple Order](effect-words/command-words.md#simple-order-command) (Command), [Soothing Touch\*](effect-words/healing-words.md#soothing-touch-healing) (Healing), [Spook](effect-words/fear-words.md#spook-fear) (Fear), [Wrack](effect-words/pain-words.md#wrack-pain) (Pain)
+[Burning Flash](effect-words/fire-words.md#burning-flash-fire) (Fire), [Decipher\*](effect-words/language-words.md#decipher-language) (Language), [Fade](effect-words/concealing-words.md#fade-concealing) (Concealing), [Fog Bank](effect-words/weather-words.md#fog-bank-weather) (Weather), [Force Shield](effect-words/armor-words.md#force-shield-armor) (Armor), [Friendship](effect-words/command-words.md#friendship-command) (Command), [Glide](effect-words/flight-words.md#glide-flight) (Flight), [Lesser Cure](effect-words/healing-words.md#lesser-cure-healing) (Healing), [Lesser Wound](effect-words/wounding-words.md#lesser-wound-wounding) (Wounding), [Nature’s Calm](effect-words/animal-words.md#natures-calm-animal) (Animal), [Radiance](effect-words/illumination-words.md#radiance-illumination) (Illumination), [Servitor I](effect-words/summoning-words.md#servitor-i-summoning) (Summoning), [Shock Arc](effect-words/electricity-words.md#shock-arc-electricity) (Electricity), [Simple Order](effect-words/command-words.md#simple-order-command) (Command), [Soothing Touch\*](effect-words/healing-words.md#soothing-touch-healing) (Healing), [Spook](effect-words/fear-words.md#spook-fear) (Fear), [Wrack](effect-words/pain-words.md#wrack-pain) (Pain)
 
 ### 2nd-Level Witch Words
 
@@ -330,7 +330,7 @@ Words marked with an asterisk (\*) are boosted versions of lower level words. A 
 
 ### 4th-Level Witch Words
 
-[Altered Form\*](effect-words/change-words.md#altered-form-change) (Change), [Complex Order](effect-words/command-words.md#complex-order-command) (Command), [Disappear\*](effect-words/concealing-words.md#disappear-concealing) (Concealing), [Elder Wound](effect-words/wounding-words.md#elder-wound-wounding) (Wounding), [Greater Cure](effect-words/healing-words.md#greater-cure-healing) (Healing), [Ice Blast](effect-words/cold-words.md#ice-blast-cold) (Cold), [Nature’s Command](effect-words/animal-words.md#nature-s-command-animal) (Animal), [Servitor IV](effect-words/summoning-words.md#servitor-iv-summoning) (Summoning), [Simple Order\*](effect-words/command-words.md#simple-order-command) (Command), [Terror](effect-words/fear-words.md#terror-fear) (Fear), [Unseen Shell](effect-words/concealing-words.md#unseen-shell-concealing) (Concealing)
+[Altered Form\*](effect-words/change-words.md#altered-form-change) (Change), [Complex Order](effect-words/command-words.md#complex-order-command) (Command), [Disappear\*](effect-words/concealing-words.md#disappear-concealing) (Concealing), [Elder Wound](effect-words/wounding-words.md#elder-wound-wounding) (Wounding), [Greater Cure](effect-words/healing-words.md#greater-cure-healing) (Healing), [Ice Blast](effect-words/cold-words.md#ice-blast-cold) (Cold), [Nature’s Command](effect-words/animal-words.md#natures-command-animal) (Animal), [Servitor IV](effect-words/summoning-words.md#servitor-iv-summoning) (Summoning), [Simple Order\*](effect-words/command-words.md#simple-order-command) (Command), [Terror](effect-words/fear-words.md#terror-fear) (Fear), [Unseen Shell](effect-words/concealing-words.md#unseen-shell-concealing) (Concealing)
 
 ### 5th-Level Witch Words
 

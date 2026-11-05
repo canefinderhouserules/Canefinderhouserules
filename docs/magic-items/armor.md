@@ -2,7 +2,7 @@
 
 In general, magic armor protects the wearer to a greater extent than nonmagical armor. Magic armor bonuses are enhancement bonuses, never rise above +5, and stack with regular armor bonuses (and with shield and magic shield enhancement bonuses). All magic armor is also masterwork armor, reducing armor check penalties by 1.
 
-In addition to an enhancement bonus, armor may have special abilities. Special abilities usually count as additional bonuses for determining the market value of an item, but do not improve AC. A suit of armor cannot have an effective bonus (enhancement plus special ability bonus equivalents, including from character abilities and spells) higher than +10. A suit of armor with a special ability must also have at least a +1 enhancement bonus. A suit of armor or a shield may be made of an unusual material. Roll d%: 01–95 indicates that the item is of a standard sort, and 96–100 indicates that it is made of a special material (see Chapter 6).
+In addition to an enhancement bonus, armor may have special abilities. Special abilities usually count as additional bonuses for determining the market value of an item, but do not improve AC. A suit of armor cannot have an effective bonus (enhancement plus special ability bonus equivalents, including from character abilities and spells) higher than +10. A suit of armor with a special ability must also have at least a +1 enhancement bonus. A suit of armor or a shield may be made of an unusual material. Roll d%: 01–95 indicates that the item is of a standard sort, and 96–100 indicates that it is made of a special material.
 
 Armor is always created so that if the type of armor comes with a pair of boots, a helm, or a set of gauntlets, these pieces can be switched for other magic boots, helms, or gauntlets.
 
@@ -16,7 +16,7 @@ As with armor, special abilities built into the shield add to the market value i
 
 **Activation**: Usually a character benefits from magic armor and shields in exactly the way a character benefits from nonmagical armor and shields: by wearing them. If armor or a shield has a special ability that the user needs to activate, then the user usually needs to utter the command word (a standard action).
 
-**Armor for Unusual Creatures**: The cost of armor for nonhumanoid creatures, as well as for creatures who are neither Small nor Medium, varies (see Chapter 6). The cost of the masterwork quality and any magical enhancement remains the same.
+**Armor for Unusual Creatures**: The cost of armor for nonhumanoid creatures, as well as for creatures who are neither Small nor Medium, varies. The cost of the masterwork quality and any magical enhancement remains the same.
 
 **Table 15–3: Armor and Shields**
 

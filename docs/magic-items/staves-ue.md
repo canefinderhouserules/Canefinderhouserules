@@ -375,7 +375,7 @@ When the wielder of this hollow wooden staff speaks or shouts, it reverberates w
 
 ### Staff of Spiders
 
-**Aura** moderate conjuration and  transmutation; **CL** 8th  
+**Aura** moderate conjuration and transmutation; **CL** 8th  
 **Slot** none; **Price** 30,200 gp; **Weight** 5 lbs.
 
 This staff is constructed from thousands of carefully prepared spiderwebs packed around a base and layered to make a shaft just as hard as oak, if not harder. A *staff of spiders* functions as a *+1/+1 quarterstaff*. It allows the use of the following spells:

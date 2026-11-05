@@ -68,4 +68,4 @@ Several modifiers may apply to the Survival check, as given on the table above.
 
 A ranger gains a bonus on Survival checks when using this skill to find or follow the tracks of a favored enemy.
 
-If you have the Self-Sufficient feat, you get a bonus on Survival checks (see Chapter 5).
+If you have the Self-Sufficient feat, you get a bonus on Survival checks.

@@ -24,7 +24,7 @@ When attempting to break an object, you have two choices: smash it with a weapon
 
 ### Smashing an Object
 
-Smashing a weapon or shield with a slashing or bludgeoning weapon is accomplished with the sunder combat maneuver (see Chapter 8). Smashing an object is like sundering a weapon or shield, except that your combat maneuver check is opposed by the object’s AC. Generally, you can smash an object only with a bludgeoning or slashing weapon.
+Smashing a weapon or shield with a slashing or bludgeoning weapon is accomplished with the sunder combat maneuver. Smashing an object is like sundering a weapon or shield, except that your combat maneuver check is opposed by the object’s AC. Generally, you can smash an object only with a bludgeoning or slashing weapon.
 
 **Armor Class**: Objects are easier to hit than creatures because they don’t usually move, but many are tough enough to shrug off some damage from each blow. An object’s Armor Class is equal to 10 + its size modifier (see Table 7–11) + its Dexterity modifier. An inanimate object has not only a Dexterity of 0 (–5 penalty to AC), but also an additional –2 penalty to its AC. Furthermore, if you take a full-round action to line up a shot, you get an automatic hit with a melee weapon and a +5 bonus on attack rolls with a ranged weapon.
 
@@ -123,7 +123,7 @@ If an item has lost half or more of its hit points, the item gains the broken co
 
 Larger and smaller creatures get size bonuses and size penalties on Strength checks to break open doors as follows: Fine –16, Diminutive –12, Tiny –8, Small –4, Large +4, Huge +8, Gargantuan +12, Colossal +16.
 
-A crowbar or portable ram improves a character’s chance of breaking open a door (see Chapter 6).
+A crowbar or portable ram improves a character’s chance of breaking open a door.
 
 **Table 7–13: Substance Hardness and Hit Points**
 

@@ -36,7 +36,7 @@ Using an item creation feat also requires access to a laboratory or magical work
 - Potions: Base price = spell level × caster level × 50 gp.
 - Wands: Base price = spell level × caster level × 750 gp.
 
-*Staves*: The price for staves is calculated using more complex formulas (see Chapter 15).
+*Staves*: The price for staves is calculated using more complex formulas.
 
 A 0-level spell is considered to have a spell level of 1/2 for the purpose of this calculation.
 
@@ -68,7 +68,7 @@ Metamagic feats cannot be used with all spells. See the specific feat descriptio
 
 **Magic Items and Metamagic Spells**: With the right item creation feat, you can store a metamagic version of a spell in a scroll, potion, or wand. Level limits for potions and wands apply to the spell’s higher spell level (after the application of the metamagic feat). A character doesn’t need the metamagic feat to activate an item storing a metamagic version of a spell.
 
-**Counterspelling Metamagic Spells**: Whether or not a spell has been enhanced by a metamagic feat does not affect its vulnerability to counterspelling or its ability to counterspell another spell (see Chapter 9).
+**Counterspelling Metamagic Spells**: Whether or not a spell has been enhanced by a metamagic feat does not affect its vulnerability to counterspelling or its ability to counterspell another spell.
 
 ### Grit Feats
 

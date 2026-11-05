@@ -45,4 +45,4 @@ This use of the skill also applies to other spell completion magic items.
 
 **Special**: You cannot take 10 with this skill. You can’t aid another on Use Magic Device checks. Only the user of the item may attempt such a check.
 
-If you have the Magical Aptitude feat, you gain a bonus on Use Magic Device checks (see Chapter 5).
+If you have the Magical Aptitude feat, you gain a bonus on Use Magic Device checks.

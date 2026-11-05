@@ -50,4 +50,4 @@ Perception is also used to notice fine details in the environment. The DC to not
 
 **Special**: Elves, half-elves, gnomes, and halflings receive a +2 racial bonus on Perception checks. Creatures with the scent special quality have a +8 bonus on Perception checks made to detect a scent. Creatures with the tremorsense special quality have a +8 bonus on Perception checks against creatures touching the ground and automatically make any such checks within their range. For more on special qualities, see Appendix 1.
 
-A spellcaster with a hawk or owl familiar gains a +3 bonus on Perception checks. If you have the Alertness feat, you get a bonus on Perception checks (see Chapter 5).
+A spellcaster with a hawk or owl familiar gains a +3 bonus on Perception checks. If you have the Alertness feat, you get a bonus on Perception checks.

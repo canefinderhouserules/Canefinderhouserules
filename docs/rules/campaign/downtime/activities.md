@@ -73,7 +73,7 @@ You can use downtime to help others rest and recover using the Heal skill. For l
 
 ## Lead Your Kingdom
 
-If you are using the kingdom-building rules (see Chapter 4) and have a leadership role in the kingdom, you must spend 7 days per month performing various leadership duties. In the downtime system, performing leadership duties for a day costs 1 day of downtime. You can’t perform any other downtime activities on a day you perform kingdom leadership duties.
+If you are using the kingdom-building rules and have a leadership role in the kingdom, you must spend 7 days per month performing various leadership duties. In the downtime system, performing leadership duties for a day costs 1 day of downtime. You can’t perform any other downtime activities on a day you perform kingdom leadership duties.
 
 ## Manipulate Evidence
 

@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** Will negates (object); **Spell Resistance** yes (object)
 
-This spell imbues a flask (1 pint) of water with negative energy, turning it into unholy water (see Chapter 6). Unholy water damages good outsiders the way holy water damages undead and evil outsiders.
+This spell imbues a flask (1 pint) of water with negative energy, turning it into unholy water. Unholy water damages good outsiders the way holy water damages undead and evil outsiders.

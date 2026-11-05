@@ -51,7 +51,7 @@ This device is a single leather glove. On command, one item held in the hand wea
 **Aura** faint abjuration; **CL** 3rd  
 **Slot** hands; **Price** 4,000 gp; **Weight** —
 
-Once worn, these snug gloves seem to meld with the hands, becoming almost invisible to casual observation. Twice per day, the wearer can act as if he had the Snatch Arrows feat (see Chapter 5 for details), even if he does not meet the prerequisites for the feat. Both gloves must be worn for the magic to be effective, and at least one hand must be free to take advantage of the magic.
+Once worn, these snug gloves seem to meld with the hands, becoming almost invisible to casual observation. Twice per day, the wearer can act as if he had the Snatch Arrows feat, even if he does not meet the prerequisites for the feat. Both gloves must be worn for the magic to be effective, and at least one hand must be free to take advantage of the magic.
 
 **Requirements** Craft Wondrous Item, shield; **Cost** 2,000 gp
 
@@ -330,6 +330,6 @@ These four iron shoes are affixed like normal horseshoes. They allow a horse to 
 **Aura** faint transmutation; **CL** 3rd  
 **Slot** feet; **Price** 3,000 gp; **Weight** 12 lbs. (for four)
 
-These iron shoes come in sets of four like ordinary horseshoes. When affixed to an animal’s hooves, they increase the animal’s base land speed by 30 feet; this counts as an enhancement bonus. As with other effects that increase speed, jumping distances increase proportionally (see Chapter 4). All four shoes must be worn by the same animal for the magic to be effective.
+These iron shoes come in sets of four like ordinary horseshoes. When affixed to an animal’s hooves, they increase the animal’s base land speed by 30 feet; this counts as an enhancement bonus. As with other effects that increase speed, jumping distances increase proportionally. All four shoes must be worn by the same animal for the magic to be effective.
 
 **Requirements** Craft Wondrous Item, haste; **Cost** 1,500 gp

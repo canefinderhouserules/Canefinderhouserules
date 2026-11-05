@@ -191,7 +191,7 @@ A critical hit means that you roll your damage more than once, with all your usu
 
 *Increased Threat Range*: Sometimes your threat range is greater than 20. That is, you can score a threat on a lower number. In such cases, a roll of lower than 20 is not an automatic hit. Any attack roll that doesn’t result in a hit is not a threat.
 
-*Increased Critical Multiplier*: Some weapons deal better than double damage on a critical hit (see Chapter 6).
+*Increased Critical Multiplier*: Some weapons deal better than double damage on a critical hit.
 
 *Spells and Critical Hits*: A spell that requires an attack roll can score a critical hit. A spell attack that requires no attack roll cannot score a critical hit. If a spell causes ability damage or drain (see Appendix 1), the damage or drain is doubled on a critical hit.
 
@@ -215,7 +215,7 @@ To cast a spell with a somatic (S) component, you must gesture freely with at le
 
 To cast a spell with a material (M), focus (F), or divine focus (DF) component, you have to have the proper materials, as described by the spell. Unless these components are elaborate, preparing them is a free action. For material components and focuses whose costs are not listed in the spell description, you can assume that you have them if you have your spell component pouch.
 
-**Concentration**: You must concentrate to cast a spell. If you can’t concentrate, you can’t cast a spell. If you start casting a spell but something interferes with your concentration, you must make a concentration check or lose the spell. The check’s DC depends on what is threatening your concentration (see Chapter 9). If you fail, the spell fizzles with no effect. If you prepare spells, it is lost from preparation. If you cast at will, it counts against your daily limit of spells even though you did not cast it successfully.
+**Concentration**: You must concentrate to cast a spell. If you can’t concentrate, you can’t cast a spell. If you start casting a spell but something interferes with your concentration, you must make a concentration check or lose the spell. The check’s DC depends on what is threatening your concentration. If you fail, the spell fizzles with no effect. If you prepare spells, it is lost from preparation. If you cast at will, it counts against your daily limit of spells even though you did not cast it successfully.
 
 **Concentrating to Maintain a Spell**: Some spells require continued concentration to keep them going. Concentrating to maintain a spell is a standard action that doesn’t provoke an attack of opportunity. Anything that could break your concentration when casting a spell can keep you from concentrating to maintain a spell. If your concentration breaks, the spell ends.
 

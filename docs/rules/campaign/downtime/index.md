@@ -32,7 +32,7 @@ This section explains the basic game terms for the downtime system. It uses exis
 
 **Building**: A building is a physical structure you construct or purchase, such as a house, inn, or temple. The downtime system allows you to construct buildings out of specialized rooms—see Rooms and Teams.
 
-**Build Points**: A build point (BP) is a unit of wealth and productivity used in the kingdom-building rules (see Chapter 4). The downtime system doesn’t normally use BP, but if you are using the kingdom-building rules, you may have ways to spend BP as part of your downtime. BP are a larger-scale combination of Goods, Influence, Labor, and Prestige.
+**Build Points**: A build point (BP) is a unit of wealth and productivity used in the kingdom-building rules. The downtime system doesn’t normally use BP, but if you are using the kingdom-building rules, you may have ways to spend BP as part of your downtime. BP are a larger-scale combination of Goods, Influence, Labor, and Prestige.
 
 **Business**: A business is a building or organization that earns you one or more kinds of capital, such as a blacksmith’s shop or thieves’ guild.
 

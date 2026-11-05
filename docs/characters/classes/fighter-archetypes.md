@@ -463,7 +463,7 @@ Not all fighters need weapons to make their mark on the world. The unarmed fight
 
 **Weapon and Armor Proficiency**: An unarmed fighter is not proficient with medium armor, heavy armor, or shields. An unarmed fighter is proficient with all monk weapons, including exotic monk weapons.
 
-**Unarmed Style**: At 1st level, a unarmed fighter gains the [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) feat and any single style feat (see Chapter 3) as a bonus feat. The unarmed fighter need not meet all the prerequisites of the style feat he chooses, but style feats that grant additional uses of the [Elemental Fist](../../rules/feats/elemental-fist.md) feat cannot be taken until the unarmed fighter has that feat. This ability replaces the bonus feat at 1st level.
+**Unarmed Style**: At 1st level, a unarmed fighter gains the [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) feat and any single style feat as a bonus feat. The unarmed fighter need not meet all the prerequisites of the style feat he chooses, but style feats that grant additional uses of the [Elemental Fist](../../rules/feats/elemental-fist.md) feat cannot be taken until the unarmed fighter has that feat. This ability replaces the bonus feat at 1st level.
 
 **Harsh Training (Ex)**: At 2nd level, an unarmed fighter gains a +1 bonus on saving throws against effects that cause the exhausted, fatigued, or staggered conditions or temporary penalties to ability scores. This bonus increases by +1 for every four levels after 2nd (to a maximum of +5 at 18th level). This ability replaces bravery.
 

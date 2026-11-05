@@ -150,7 +150,7 @@ If you use two move actions in a round (sometimes called a “double move” act
 
 ## Saving Throws
 
-Generally, when you are subject to an unusual or magical attack, you get a saving throw to avoid or reduce the effect. Like an attack roll, a saving throw is a d20 roll plus a bonus based on your class and level (see Chapter 3), and an associated ability score. Your saving throw modifier is:
+Generally, when you are subject to an unusual or magical attack, you get a saving throw to avoid or reduce the effect. Like an attack roll, a saving throw is a d20 roll plus a bonus based on your class and level, and an associated ability score. Your saving throw modifier is:
 
 **Base save bonus + ability modifier**
 

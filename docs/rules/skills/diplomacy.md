@@ -36,7 +36,7 @@ If a creature’s attitude toward you is at least indifferent, you can make requ
 
 **Try Again**: You cannot use Diplomacy to influence a given creature’s attitude more than once in a 24-hour period. If a request is refused, the result does not change with additional checks, although other requests might be made. You can retry Diplomacy checks made to gather information.
 
-**Special**: If you have the Persuasive feat, you gain a bonus on Diplomacy checks (see Chapter 5).
+**Special**: If you have the Persuasive feat, you gain a bonus on Diplomacy checks.
 
 ## Courtly Manners
 

@@ -1,6 +1,11 @@
 # Mind Blank, Communal
 
-**Level** sorcerer/wizard 9, witch 9  
-**Target** creatures touched
+**School** abjuration; **Level** sorcerer/wizard 9, witch 9  
+**Casting Time** 1 standard action  
+**Components** V, S  
+**Range** close (25 ft. + 5 ft./2 levels)  
+**Target** creatures touched  
+**Duration** 24 hours  
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
 This spell functions like mind blank, except you divide the duration in 1-hour increments among the creatures touched.

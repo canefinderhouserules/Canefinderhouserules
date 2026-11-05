@@ -47,7 +47,7 @@ If the ranger chooses humanoids or outsiders as a favored enemy, he must also ch
 
 **Track (Ex)**: A ranger adds half his level (minimum 1) to Survival skill checks made to follow or identify tracks.
 
-**Wild Empathy (Ex)**: A ranger can improve the initial attitude of an animal. This ability functions just like a Diplomacy check to improve the attitude of a person (see Chapter 4). The ranger rolls 1d20 and adds his ranger level and his Charisma bonus to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
+**Wild Empathy (Ex)**: A ranger can improve the initial attitude of an animal. This ability functions just like a Diplomacy check to improve the attitude of a person. The ranger rolls 1d20 and adds his ranger level and his Charisma bonus to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
 
 To use wild empathy, the ranger and the animal must be within 30 feet of one another under normal visibility conditions. Generally, influencing an animal in this way takes 1 minute, but, as with influencing people, it might take more or less time.
 

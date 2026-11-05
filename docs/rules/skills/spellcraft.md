@@ -14,4 +14,4 @@ You are skilled at the art of casting spells, identifying magic items, crafting 
 
 An elf gets a +2 racial bonus on Spellcraft checks to identify the properties of magic items.
 
-If you have the Magical Aptitude feat, you gain a bonus on Spellcraft checks (see Chapter 5).
+If you have the Magical Aptitude feat, you gain a bonus on Spellcraft checks.

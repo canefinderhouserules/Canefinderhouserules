@@ -37,7 +37,7 @@ Disabling a simple device takes 1 round and is a full-round action. A tricky or 
 
 **Try Again**: Varies. You can retry checks made to disable traps if you miss the check by 4 or less. You can retry checks made to open locks.
 
-**Special**: If you have the Deft Hands feat, you get a bonus on Disable Device checks (see Chapter 5).
+**Special**: If you have the Deft Hands feat, you get a bonus on Disable Device checks.
 
 A rogue who beats a trap’s DC by 10 or more can study the trap, figure out how it works, and bypass it without disarming it. A rogue can rig a trap so her allies can bypass it as well.
 

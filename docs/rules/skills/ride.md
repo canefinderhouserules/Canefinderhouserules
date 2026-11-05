@@ -40,7 +40,7 @@ You are skilled at riding mounts, usually a horse, but possibly something more e
 
 **Special**: If you are riding bareback, you take a –5 penalty on Ride checks.
 
-If you have the Animal Affinity feat, you get a bonus on Ride checks (see Chapter 5).
+If you have the Animal Affinity feat, you get a bonus on Ride checks.
 
 If you use a military saddle you get a +2 circumstance bonus on Ride checks related to staying in the saddle.
 

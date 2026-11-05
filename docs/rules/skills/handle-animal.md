@@ -57,6 +57,6 @@ A druid or ranger gains a +4 circumstance bonus on Handle Animal checks involvin
 
 In addition, a druid’s or ranger’s animal companion knows one or more bonus tricks, which don’t count against the normal limit on tricks known and don’t require any training time or Handle Animal checks to teach.
 
-If you have the Animal Affinity feat, you get a bonus on Handle Animal checks (see Chapter 5).
+If you have the Animal Affinity feat, you get a bonus on Handle Animal checks.
 
 **Untrained**: If you have no ranks in Handle Animal, you can use a Charisma check to handle and push domestic animals, but you can’t teach, rear, or train animals. A druid or ranger with no ranks in Handle Animal can use a Charisma check to handle and push her animal companion, but she can’t teach, rear, or train other nondomestic animals.

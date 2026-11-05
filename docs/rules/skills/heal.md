@@ -36,6 +36,6 @@ A creature wounded by a *spike growth* or *spike stones* spell must succeed on a
 
 **Try Again**: Varies. Generally speaking, you can’t try a Heal check again without witnessing proof of the original check’s failure. You can always retry a check to provide first aid, assuming the target of the previous attempt is still alive.
 
-**Special**: A character with the Self-Sufficient feat gets a bonus on Heal checks (see Chapter 5).
+**Special**: A character with the Self-Sufficient feat gets a bonus on Heal checks.
 
 A healer’s kit gives you a +2 circumstance bonus on Heal checks.

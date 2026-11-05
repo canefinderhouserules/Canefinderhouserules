@@ -86,7 +86,7 @@
 
 ### Boons
 
-**1: Focus of Mind (Su)** You gain one gaze ability from the list detailed as part of the assiduous gaze class feature of the hell knight signifer prestige class. You can choose only a gaze that a hell knight signifer could choose at 4th level. If you already have the assiduous gaze ability, you can select one additional gaze. Additionally, if you do not already have one, you receive the mask described in the prestige class’s signifer mask class feature (and also detailed on page 63), as well as the benefits of the hell knight signifer prestige class’s signifer mask supernatural ability; you must be wearing a signifer mask to use this ability.
+**1: Focus of Mind (Su)** You gain one gaze ability from the list detailed as part of the assiduous gaze class feature of the hell knight signifer prestige class. You can choose only a gaze that a hell knight signifer could choose at 4th level. If you already have the assiduous gaze ability, you can select one additional gaze. Additionally, if you do not already have one, you receive the mask described in the prestige class’s signifer mask class feature, as well as the benefits of the hell knight signifer prestige class’s signifer mask supernatural ability; you must be wearing a signifer mask to use this ability.
 
 **2: Armored Spellcasting (Ex)** You have mastered the delicate and yet taxing art of casting spells in your hell knight armor. You can ignore the spell failure chance of any armor with “hell knight” in the name.
 

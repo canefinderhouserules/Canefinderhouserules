@@ -113,23 +113,3 @@ Although satyrs are famously ardent in their attempts to persuade others to join
 Boon : You take on physical characteristics that the satyr believes will make you more attractive (whether or not his aesthetic preferences match your own). If you are male, you become tall and ruggedly handsome, with a sculpted physique; if you are female, you become beautiful and curvaceous, with long, luxurious hair; if you are agender or nonbinary, you become slender and androgynously beautiful. In addition, you gain powerful sexual magnetism, granting you a +4 enhancement bonus on all Charisma-based skill and ability checks against creatures that could be sexually attracted to you. This boon lasts for 1 day per caster level (8 days for a typical satyr).
 
 Bane : Your mindset becomes coarse and brutish, and your Intelligence, Wisdom, and Charisma scores are reduced by 2 each (to a minimum of 3). In addition, whenever presented with the opportunity to indulge in hedonistic pleasures such as revelry, food and drink, or sexual pleasure, you must succeed at a Will save (with a DC equal to the DC of the fey blight spell-like ability) or be compelled to ecstatically indulge yourself to the fullest. This bane is permanent. Fey Blight
-
-Source Pathfinder #119: Prisoners of the Blight pg. 73
-
-School transmutation [ curse, ruse ] Casting
-
-Casting Time 1 minute
-
-Components V Effect
-
-Range touch or close (25 ft. + 5 ft./2 levels)
-
-Target one living non-fey, non-plant creature
-
-Duration see below (D)
-
-Saving Throw Will negates (harmless); Spell Resistance yes (harmless) Description
-
-The target is cursed, gaining the bane of the caster’s fey race (see below for details on each specific fey race’s bane and duration). A creature that succeeds at its saving throw is immune to further castings of fey blight from the same type of fey for 24 hours. Fey blight cannot be dispelled, but effects that remove curses function against it.
-
-Attempts to identify fey blight with a skill check incorrectly identify it as fey boon (see the ruse descriptor on page 192 of Pathfinder RPG Ultimate Intrigue ).

@@ -31,4 +31,4 @@ diversion you need to attempt a Stealth check while people are aware of you.
 
 **Special**: If you are invisible, you gain a +40 bonus on Stealth checks if you are immobile, or a +20 bonus on Stealth checks if you’re moving.
 
-If you have the Stealthy feat, you get a bonus on Stealth checks (see Chapter 5).
+If you have the Stealthy feat, you get a bonus on Stealth checks.

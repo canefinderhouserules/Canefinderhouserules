@@ -4,7 +4,7 @@ The Pathfinder RPG uses a number of terms, abbreviations, and definitions in pre
 
 **Ability Score**: Each creature has six ability scores: Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. These scores represent a creature’s most basic attributes. The higher the score, the more raw potential and talent your character possesses.
 
-**Action**: An action is a discrete measurement of time during a round of combat. Using abilities, casting spells, and making attacks all require actions to perform. There are a number of different kinds of actions, such as a standard action, move action, swift action, free action, and full-round action (see Chapter 8).
+**Action**: An action is a discrete measurement of time during a round of combat. Using abilities, casting spells, and making attacks all require actions to perform. There are a number of different kinds of actions, such as a standard action, move action, swift action, free action, and full-round action.
 
 **Alignment**: Alignment represents a creature’s basic moral and ethical attitude. Alignment has two components: one describing whether a creature is lawful, neutral, or chaotic, followed by another that describes whether a character is good, neutral, or evil. Alignments are usually abbreviated using the first letter of each alignment component, such as LN for lawful neutral or CE for chaotic evil. Creatures that are neutral in both components are denoted by a single “N.”
 
@@ -16,17 +16,17 @@ The Pathfinder RPG uses a number of terms, abbreviations, and definitions in pre
 
 **Caster Level (CL)**: Caster level represents a creature’s power and ability when casting spells. When a creature casts a spell, it often contains a number of variables, such as range or damage, that are based on the caster’s level.
 
-**Class**: Classes represent chosen professions taken by characters and some other creatures. Classes give a host of bonuses and allow characters to take actions that they otherwise could not, such as casting spells or changing shape. As a creature gains levels in a given class, it gains new, more powerful abilities. Most PCs gain levels in the core classes or prestige classes, since these are the most powerful (see Chapters 3 and 11). Most NPCs gain levels in NPC classes, which are less powerful (see Chapter 14).
+**Class**: Classes represent chosen professions taken by characters and some other creatures. Classes give a host of bonuses and allow characters to take actions that they otherwise could not, such as casting spells or changing shape. As a creature gains levels in a given class, it gains new, more powerful abilities. Most PCs gain levels in the core classes or prestige classes, since these are the most powerful (see Chapters 3 and 11). Most NPCs gain levels in NPC classes, which are less powerful.
 
 **Check**: A check is a d20 roll which may or may not be modified by another value. The most common types are attack rolls, skill checks, ability checks, and saving throws.
 
-**Combat Maneuver**: This is an action taken in combat that does not directly cause harm to your opponent, such as attempting to trip him, disarm him, or grapple with him (see Chapter 8).
+**Combat Maneuver**: This is an action taken in combat that does not directly cause harm to your opponent, such as attempting to trip him, disarm him, or grapple with him.
 
 **Combat Maneuver Bonus (CMB)**: This value represents how skilled a creature is at performing a combat maneuver. When attempting to perform a combat maneuver, this value is added to the character’s d20 roll.
 
 **Combat Maneuver Defense (CMD)**: This score represents how hard it is to perform a combat maneuver against this creature. A creature’s CMD is used as the difficulty class when performing a maneuver against that creature.
 
-**Concentration Check**: When a creature is casting a spell, but is disrupted during the casting, he must make a concentration check or fail to cast the spell (see Chapter 9).
+**Concentration Check**: When a creature is casting a spell, but is disrupted during the casting, he must make a concentration check or fail to cast the spell.
 
 **Creature**: A creature is an active participant in the story or world. This includes PCs, NPCs, and monsters.
 

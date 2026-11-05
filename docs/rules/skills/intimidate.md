@@ -16,7 +16,7 @@ You can use this skill to frighten your opponents or to get them to act in a way
 
 **Special**: You also gain a +4 bonus on Intimidate checks if you are larger than your target and a –4 penalty on Intimidate checks if you are smaller than your target.
 
-If you have the Persuasive feat, you get a bonus on Intimidate checks (see Chapter 5).
+If you have the Persuasive feat, you get a bonus on Intimidate checks.
 
 A half-orc gets a +2 bonus on Intimidate checks.
 

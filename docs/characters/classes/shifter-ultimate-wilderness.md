@@ -294,7 +294,7 @@ The stag can outrun or stand its ground against almost any foe. This aspect offe
 
 **Minor Form**: You gain an enhancement bonus of +5 feet to your base speed. This bonus increases to +10 feet at 8th level and +20 feet at 15th level.
 
-**Major Form**: Your shape changes to that of a Large stag, but its space changes to 10 feet. While in this form, you gain a base speed of 50 feet, low-light vision, and scent (30 feet). At 8th level, you gain a +4 racial bonus on Acrobatic checks when jumping. At 15th level, you gain the Awesome Blow and Improved Natural Attack feats  for gore attacks, and you can use Awesome Blow against a creature of your size or smaller.
+**Major Form**: Your shape changes to that of a Large stag, but its space changes to 10 feet. While in this form, you gain a base speed of 50 feet, low-light vision, and scent (30 feet). At 8th level, you gain a +4 racial bonus on Acrobatic checks when jumping. At 15th level, you gain the Awesome Blow and Improved Natural Attack feats for gore attacks, and you can use Awesome Blow against a creature of your size or smaller.
 
 ### Tiger
 

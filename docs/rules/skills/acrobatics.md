@@ -67,4 +67,4 @@ Many conditions can affect your chances of success with Acrobatics checks. The f
 
 **Special**: If you have 3 or more ranks in Acrobatics, you gain a +3 dodge bonus to AC when fighting defensively instead of the usual +2, and a +6 dodge bonus to AC when taking the total defense action instead of the usual +4.
 
-If you have the Acrobatic feat, you get a bonus on Acrobatics checks (see Chapter 5).
+If you have the Acrobatic feat, you get a bonus on Acrobatics checks.

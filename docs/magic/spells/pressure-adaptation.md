@@ -8,4 +8,4 @@
 **Duration** 1 hour/level  
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
-The target adapts incredibly quickly to changes in pressure, adjusting to 100 feet of new pressure (or the entire shift, in the case of an instantaneous shift within its native range; see page 48) after just one successful Fortitude saving throw instead of the usual five.
+The target adapts incredibly quickly to changes in pressure, adjusting to 100 feet of new pressure (or the entire shift, in the case of an instantaneous shift within its native range) after just one successful Fortitude saving throw instead of the usual five.

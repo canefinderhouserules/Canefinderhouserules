@@ -79,7 +79,7 @@ The following are class features of the deadeye hexer.
 
 To learn or cast a spell, a deadeye hexer must have an Intelligence score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a deadeye hexer’s spell is 10 + the spell level + the deadeye hexer’s Intelligence modifier.
 
-A deadeye hexer can cast only a certain number of spells of each spell level per day. His base daily spell allotment is given on the Deadeye Hexer Table. In addition, he receives bonus spells per day if he has a high Intelligence score (see Chapter 1 of the *Pathfinder RPG Core Rulebook*).
+A deadeye hexer can cast only a certain number of spells of each spell level per day. His base daily spell allotment is given on the Deadeye Hexer Table. In addition, he receives bonus spells per day if he has a high Intelligence score.
 
 A deadeye hexer may know any number of spells. He must choose and prepare his spells ahead of time by getting 8 hours of sleep and spending 1 hour communing with his firearm familiar. While communing, the deadeye hexer chooses which spells to prepare.
 

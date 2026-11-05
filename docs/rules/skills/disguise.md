@@ -45,4 +45,4 @@ An individual makes a Perception check to see through your disguise immediately 
 
 You must make a Disguise check when you cast a *simulacrum* spell to determine how good the likeness is.
 
-If you have the Deceitful feat, you gain a bonus on Disguise checks (see Chapter 5).
+If you have the Deceitful feat, you gain a bonus on Disguise checks.

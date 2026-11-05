@@ -6,7 +6,7 @@ Miniatures are on the 30mm scale—a miniature of a 6-foot-tall man is approxima
 
 Your speed is determined by your race and your armor (see Table 8–3). Your speed while unarmored is your base land speed.
 
-**Encumbrance**: A character encumbered by carrying treasure. a large amount of gear, or fallen comrades may move slower than normal (see Chapter 7).
+**Encumbrance**: A character encumbered by carrying treasure. a large amount of gear, or fallen comrades may move slower than normal.
 
 **Hampered Movement**: Difficult terrain, obstacles, or poor visibility can hamper movement.
 

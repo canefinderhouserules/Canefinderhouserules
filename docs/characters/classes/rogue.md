@@ -36,7 +36,7 @@ Talents marked with an asterisk add effects to a rogue’s sneak attack. Only on
 
 *Bleeding Attack* (Ex)*: A rogue with this ability can cause living opponents to bleed by hitting them with a sneak attack. This attack causes the target to take 1 additional point of damage each round for each die of the rogue’s sneak attack (e.g., 4d6 equals 4 points of bleed). Bleeding creatures take that amount of damage every round at the start of each of their turns. The bleeding can be stopped by a DC 15 Heal check or the application of any effect that heals hit point damage. Bleeding damage from this ability does not stack with itself. Bleeding damage bypasses any damage reduction the creature might possess.
 
-*Combat Trick*: A rogue that selects this talent gains a bonus combat feat (see Chapter 5).
+*Combat Trick*: A rogue that selects this talent gains a bonus combat feat.
 
 *Fast Stealth (Ex)*: This ability allows a rogue to move at full speed using the Stealth skill without penalty.
 
@@ -72,7 +72,7 @@ Talents marked with an asterisk add effects to a rogue’s sneak attack. Only on
 
 Trap sense bonuses gained from multiple classes stack.
 
-**Uncanny Dodge (Ex)**: Starting at 4th level, a rogue can react to danger before her senses would normally allow her to do so. She cannot be caught flat-footed, nor does she lose her Dex bonus to AC if the attacker is invisible. She still loses her Dexterity bonus to AC if immobilized. A rogue with this ability can still lose her Dexterity bonus to AC if an opponent successfully uses the feint action (see Chapter 8) against her.
+**Uncanny Dodge (Ex)**: Starting at 4th level, a rogue can react to danger before her senses would normally allow her to do so. She cannot be caught flat-footed, nor does she lose her Dex bonus to AC if the attacker is invisible. She still loses her Dexterity bonus to AC if immobilized. A rogue with this ability can still lose her Dexterity bonus to AC if an opponent successfully uses the feint action against her.
 
 If a rogue already has uncanny dodge from a different class, she automatically gains improved uncanny dodge (see below) instead.
 

@@ -42,7 +42,7 @@ The witch’s class skills are Craft (Int), Fly (Dex), Heal (Wis), Intimidate (C
 
 The following are the class features of the witch.
 
-**Weapon and Armor Proficiency**: Witches are proficient with all simple weapons. They are not proficient with any type of armor or shield. Armor interferes with a witch’s gestures, which can cause her spells with somatic components to fail (see Arcane Spells and Armor  of the Pathfinder RPG Core Rulebook).
+**Weapon and Armor Proficiency**: Witches are proficient with all simple weapons. They are not proficient with any type of armor or shield. Armor interferes with a witch’s gestures, which can cause her spells with somatic components to fail (see Arcane Spells and Armor of the Pathfinder RPG Core Rulebook).
 
 **Spells**: A witch casts arcane spells drawn from the witch spell list. A witch must choose and prepare her spells ahead of time.
 

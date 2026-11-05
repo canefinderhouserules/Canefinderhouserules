@@ -6,7 +6,7 @@ Weapons come in two basic categories: melee and ranged. Some of the weapons list
 
 Some magic weapons have special abilities. Special abilities count as additional bonuses for determining the market value of the item, but do not modify attack or damage bonuses (except where specifically noted). A single weapon cannot have a modified bonus (enhancement bonus plus special ability bonus equivalents, including from character abilities and spells) higher than +10. A weapon with a special ability must also have at least a +1 enhancement bonus. Weapons cannot possess the same special ability more than once.
 
-Weapons or ammunition can be made of an unusual material. Roll d%: 01–95 indicates that the item is of a standard sort, and 96– 100 indicates that it is made of a special material (see Chapter 6).
+Weapons or ammunition can be made of an unusual material. Roll d%: 01–95 indicates that the item is of a standard sort, and 96– 100 indicates that it is made of a special material.
 
 **Caster Level for Weapons**: The caster level of a weapon with a special ability is given in the item description. For an item with only an enhancement bonus and no other abilities, the caster level is three times the enhancement bonus. If an item has both an enhancement bonus and a special ability, the higher of the two caster level requirements must be met.
 
@@ -26,7 +26,7 @@ Ammunition fired from a projectile weapon with an enhancement bonus of +1 or hig
 
 **Magic Weapons and Critical Hits**: Some weapon qualities and some specific weapons have an extra effect on a critical hit. This special effect also functions against creatures not normally subject to critical hits. On a successful critical roll, apply the special effect, but do not multiply the weapon’s regular damage.
 
-**Weapons for Unusually Sized Creatures**: The cost of weapons for creatures who are neither Small nor Medium varies (see Chapter 6). The cost of the masterwork quality and any magical enhancement remains the same.
+**Weapons for Unusually Sized Creatures**: The cost of weapons for creatures who are neither Small nor Medium varies. The cost of the masterwork quality and any magical enhancement remains the same.
 
 **Special Qualities**: Roll d%. A 01–30 result indicates that the item sheds light, 31–45 indicates that something (a design, inscription, or the like) provides a clue to the weapon’s function, and 46–100 indicates no special qualities.
 

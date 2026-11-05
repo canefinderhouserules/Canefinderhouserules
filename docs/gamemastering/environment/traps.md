@@ -494,7 +494,7 @@ Building a magic device trap involves the expenditure of gp and requires the ser
 | **Automatic reset trap**: each spell used | +500 gp × caster level × spell level |
 | **Automatic reset trap**: material components | + Material component costs × 100 |
 
-The costs derived from Table 13–5 assume that the builder is casting the necessary spells himself (or perhaps some other PC is providing the spells for free). If an NPC spellcaster must be hired to cast them, those costs must be factored in as well (see Chapter 6).
+The costs derived from Table 13–5 assume that the builder is casting the necessary spells himself (or perhaps some other PC is providing the spells for free). If an NPC spellcaster must be hired to cast them, those costs must be factored in as well.
 
 A magic device trap takes 1 day to construct per 500 gp of its cost.
 

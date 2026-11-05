@@ -80,7 +80,7 @@ Each arcane school gives the wizard a number of school powers. In addition, spec
 
 **Spellbooks**: A wizard must study his spellbook each day to prepare his spells. He cannot prepare any spell not recorded in his spellbook, except for [*read magic*](../../magic/spells/read-magic.md), which all wizards can prepare from memory.
 
-A wizard begins play with a spellbook containing all 0-level wizard spells (except those from his opposed schools, if any; see Arcane Schools) plus three 1st-level spells of his choice. The wizard also selects a number of additional 1st-level spells equal to his Intelligence modifier to add to the spellbook. At each new wizard level, he gains two new spells of any spell level or levels that he can cast (based on his new wizard level) for his spellbook. At any time, a wizard can also add spells found in other wizards’ spellbooks to his own (see Chapter 9).
+A wizard begins play with a spellbook containing all 0-level wizard spells (except those from his opposed schools, if any; see Arcane Schools) plus three 1st-level spells of his choice. The wizard also selects a number of additional 1st-level spells equal to his Intelligence modifier to add to the spellbook. At each new wizard level, he gains two new spells of any spell level or levels that he can cast (based on his new wizard level) for his spellbook. At any time, a wizard can also add spells found in other wizards’ spellbooks to his own.
 
 ## Arcane Schools
 

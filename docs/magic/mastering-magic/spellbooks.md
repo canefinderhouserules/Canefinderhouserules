@@ -14,7 +14,7 @@ Each book features a value, which represents what a character must pay for the b
 
 When a spellcaster who prepares spells uses a spellbook or formula book with a preparation ritual, as long as he prepares at least three spells (not including cantrips) or formulae from the spellbooks, he gains a temporary boon granted by the ritual. The boon lasts until its effect is spent (as specified by the boon description) or the spellcaster prepares spells again (at which time it can be reapplied by preparing at least three spells from the book). A spellcaster can only take the effect of one preparation ritual when she prepares spells, no matter how many spellbooks with preparation rituals she uses to prepare spells.
 
-A superscript <sup>S</sup> indicates a spell from the caster’s specialty school, whereas a superscript  indicates a spell from the spellbook creator’s opposition school. A single asterisk (\*) marks a spell from *Ultimate Magic* and two asterisks (\*\*) mark a spell from the *Advanced Player’s Guide*.
+A superscript <sup>S</sup> indicates a spell from the caster’s specialty school, whereas a superscript indicates a spell from the spellbook creator’s opposition school. A single asterisk (\*) marks a spell from *Ultimate Magic* and two asterisks (\*\*) mark a spell from the *Advanced Player’s Guide*.
 
 
 ## Transcribing Preparation Rituals

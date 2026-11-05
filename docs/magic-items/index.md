@@ -169,7 +169,7 @@ For potions, scrolls, and wands, the creator can set the caster level of an item
 
 **Weight**: This is the weight of an item. When a weight figure is not given, the item has no weight worth noting (for purposes of determining how much of a load a character can carry).
 
-**Description**: This section of a magic item describes the item’s powers and abilities. Potions, scrolls, staves, and wands refer to various spells as part of their descriptions (see Chapter 10 for details on these spells).
+**Description**: This section of a magic item describes the item’s powers and abilities. Potions, scrolls, staves, and wands refer to various spells as part of their descriptions.
 
 **Construction**: With the exception of artifacts, most magic items can be built by a spellcaster with the appropriate feats and prerequisites. This section describes those prerequisites.
 

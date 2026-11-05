@@ -134,7 +134,7 @@ Catfolk have access to the following equipment.
 
 ## Magic Items
 
-- [Cat’s Eye Crown](../../magic-items/racial-items-arg.md#cat-s-eye-crown)
+- [Cat’s Eye Crown](../../magic-items/racial-items-arg.md#cats-eye-crown)
 - [Daredevil Softpaws](../../magic-items/racial-items-arg.md#daredevil-softpaws)
 - [Rending Claw Blade](../../magic-items/racial-items-arg.md#rending-claw-blade)
 
