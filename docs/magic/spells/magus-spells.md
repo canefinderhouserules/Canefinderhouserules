@@ -98,6 +98,7 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Blood Transcription](blood-transcription.md)**: Learn a spell from the target’s blood.
 - **[Body Double](body-double.md)**: Two creatures look alike; attacks may hit the wrong one.
 - **[Brow Gasher](brow-gasher.md)**: Slashing weapon deals bleed damage to an opponent’s head.
+- **[Burning Gaze](burning-gaze.md)**: Inflict 1d6 fire damage to creature by looking at it.
 - **[Cauterizing Weapon](cauterizing-weapon.md)**: Weapon or ammunition overcomes regeneration.
 - **[Contest of Skill](contest-of-skill.md)**: Target’s critical threats fail to confirm.
 - **[Debasing Touch](debasing-touch.md)**: Target's touch turns coins to copper.

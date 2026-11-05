@@ -1,6 +1,6 @@
 # Burning Gaze
 
-**School** evocation [fire]; **Level** druid 2, sorcerer/wizard 2, witch 2  
+**School** evocation [fire]; **Level** bloodrager 2, druid 2, magus 2, mesmerist 2, occultist 2, shaman 2, sorcerer/wizard 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (eye of a mundane salamander)  
 **Range** personal  
