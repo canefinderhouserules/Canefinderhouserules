@@ -40,7 +40,7 @@ Oreads are humans whose ancestry includes the touch of an elemental being of ear
 
 The following racial traits may be selected instead of existing oread racial traits. Consult your GM before selecting any of these new options.
 
-**Crystalline Form**: Oreads with this trait gain a +2 racial bonus to AC against rays thanks to their reflective crystalline skin. In addition, once per day, they can deflect a single ray attack targeted at them as if they were using the Deflect Arrows feat. This racial trait replaces earth affinity.
+**Crystalline Form**: Oreads with this trait gain a +2 racial bonus to AC against rays thanks to their reflective crystalline skin. In addition, once per day, they can deflect a single ray attack targeted at them as if they were using the [Deflect Arrows](../../rules/feats/deflect-arrows.md) feat. This racial trait replaces earth affinity.
 
 **Earth Insight**: Oread spellcasters sometimes find that their elemental heritage makes creatures of earth more willing to serve them. *Summon monster* and *summon nature’s ally* spells that such oreads cast last 2 rounds longer than normal when used to summon creatures with the earth subtype. This racial trait replaces earth affinity.
 
@@ -64,7 +64,7 @@ The following racial traits may be selected instead of existing oread racial tra
 - *Clashing rocks*: +1 damage per damage die. Cost: emeralds worth 1,500 gp.
 - *Earthquake*: +2 Reflex save DC in whatever application the spell is used; area increases to 100-foot-radius shapeable spread. Cost: jet worth 500 gp.
 - *Elemental body*: Duration increases to 10 minutes/level. Cost: amber worth 250 gp for *elemental body I*, +100 gp per spell level for greater versions.
-- *Elemental swarm*: Earth elementals summoned gain the advanced simple template (this does not stack with the Augment Summoning feat). Cost: rubies worth 1,200 gp.
+- *Elemental swarm*: Earth elementals summoned gain the advanced simple template (this does not stack with the [Augment Summoning](../../rules/feats/augment-summoning.md) feat). Cost: rubies worth 1,200 gp.
 - *Magic stone*: Range increment increases by 10 feet. Cost: moonstone worth 25 gp.
 - *Meld into stone*: Can bring up to 200 pounds of equipment with you; you can see as normal out of the stone. Cost: peridots worth 150 gp.
 - *Mighty fist of earth*: Increase unarmed strike damage by one step (to 1d4 in most instances). Cost: sard or sardonyx worth 25 gp.
@@ -138,5 +138,5 @@ Many oreads are loners and raise their families in isolated groups, either in de
 
 ### Mostly Human
 
-A few ifrits, oreads, sulis, sylphs, and undines have appearances much closer to those of their human ancestors; in fact, they may not even realize their true race. Such geniekin appear to be human, save perhaps minor features like unusual eye color, and they count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells such as *charm person* or *enlarge person*). These geniekin do not automatically gain their associated elemental language (but may select it as a bonus language if their Intelligence is high enough). This ability alters the geniekin’s type, subtype, and languages.
+A few ifrits, oreads, sulis, sylphs, and undines have appearances much closer to those of their human ancestors; in fact, they may not even realize their true race. Such geniekin appear to be human, save perhaps minor features like unusual eye color, and they count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells such as [*charm person*](../../magic/spells/charm-person.md) or [*enlarge person*](../../magic/spells/enlarge-person.md)). These geniekin do not automatically gain their associated elemental language (but may select it as a bonus language if their Intelligence is high enough). This ability alters the geniekin’s type, subtype, and languages.
 

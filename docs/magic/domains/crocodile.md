@@ -8,6 +8,6 @@
 
 **Ambush (Ex)**: At 6th level, you gain sneak attack +1d6. This increase to sneak attack damage stacks with sneak attack damage you may have from other sources. This sneak attack damage increases by +1d6 for every 5 druid levels you possess beyond 6th, to a maximum of +3d6 at 16th level.
 
-**Domain Spells**: 1st—*touch of the sea*, 2nd—*savage maw*, 3rd—*water walk*, 4th—*strong jaw*, 5th—*legend lore*, 6th—*mass owl's wisdom*, 7th—*true seeing*, 8th—*mass heal*, 9th—*regenerate*.
+**Domain Spells**: 1st—[*touch of the sea*](../spells/touch-of-the-sea.md), 2nd—[*savage maw*](../spells/savage-maw.md), 3rd—[*water walk*](../spells/water-walk.md), 4th—[*strong jaw*](../spells/strong-jaw.md), 5th—[*legend lore*](../spells/legend-lore.md), 6th—*mass owl's wisdom*, 7th—[*true seeing*](../spells/true-seeing.md), 8th—*mass heal*, 9th—[*regenerate*](../spells/regenerate.md).
 
 This domain is available to druids.

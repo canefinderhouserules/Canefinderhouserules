@@ -8,4 +8,4 @@
 **Duration** 10 min./level  
 **Saving Throw** none; **Spell Resistance** yes (harmless)
 
-This spell functions like air walk, except divide the duration in 10-minute intervals among the creatures touched.
+This spell functions like [*air walk*](air-walk.md), except divide the duration in 10-minute intervals among the creatures touched.

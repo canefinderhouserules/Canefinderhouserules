@@ -7,4 +7,4 @@
 **Duration** 1 minute/level  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-This spell functions as atavism, except it affects multiple creatures.
+This spell functions as [*atavism*](atavism.md), except it affects multiple creatures.

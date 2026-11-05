@@ -14,4 +14,4 @@ As long as the two targets are of the same size category, they are indistinguish
 
 Any action that would affect both of the creatures affects them both normally.
 
-This spell does not deceive creatures that have *true seeing*. Likewise, a creature that can't perceive one of the targets is not fooled by this spell (even if the spell fooled that creature earlier), and its attacks, targeted spells, and other actions affect targets as normal.
+This spell does not deceive creatures that have [*true seeing*](true-seeing.md). Likewise, a creature that can't perceive one of the targets is not fooled by this spell (even if the spell fooled that creature earlier), and its attacks, targeted spells, and other actions affect targets as normal.

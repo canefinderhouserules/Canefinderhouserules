@@ -8,4 +8,4 @@
 **Duration** concentration + 3 rounds  
 **Saving Throw** Will disbelief; **Spell Resistance** yes
 
-This spell functions as *audiovisual hallucination*, except that the phantasm you create can also include olfactory, tactile, and thermal effects.
+This spell functions as [*audiovisual hallucination*](audiovisual-hallucination.md), except that the phantasm you create can also include olfactory, tactile, and thermal effects.

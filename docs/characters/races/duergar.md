@@ -18,7 +18,7 @@ Duergar dwell in subterranean caverns far from the touch of light. They detest a
 
 **Stability**: Duergar receive a +4 racial bonus to their CMD against bull rush or trip attempts while on solid ground.
 
-**Spell-Like Abilities**: A duergar can use *enlarge person* and *invisibility* once each per day, using its character level as its caster level and affecting itself only.
+**Spell-Like Abilities**: A duergar can use [*enlarge person*](../../magic/spells/enlarge-person.md) and [*invisibility*](../../magic/spells/invisibility.md) once each per day, using its character level as its caster level and affecting itself only.
 
 **Light Sensitivity**: Duergar are dazzled in areas of bright light.
 
@@ -36,9 +36,9 @@ The following racial traits may be selected instead of existing duergar racial t
 
 **Dwarf Traits**: Duergar can select any dwarf racial trait that replaces stability. They can select dwarf racial traits that replace the hardy dwarf racial trait by giving up duergar immunities instead.
 
-**Ironskinned**: The soul of the earth infuses some duergar, giving them the ability to harden their skin. Duergar with this racial trait can use *ironskin* once per day as a spell-like ability, using their character level as their caster level. This racial trait replaces the *enlarge person* spell-like ability.
+**Ironskinned**: The soul of the earth infuses some duergar, giving them the ability to harden their skin. Duergar with this racial trait can use [*ironskin*](../../magic/spells/ironskin.md) once per day as a spell-like ability, using their character level as their caster level. This racial trait replaces the *enlarge person* spell-like ability.
 
-**Twilight-Touched**: While most duergar have the power to become invisible, a few are instead able to extinguish the light around them. Duergar with this racial trait can use *dust of twilight* once per day as a spell-like ability, using their character level as their caster level. This racial trait replaces the *invisibility* spell-like ability.
+**Twilight-Touched**: While most duergar have the power to become invisible, a few are instead able to extinguish the light around them. Duergar with this racial trait can use [*dust of twilight*](../../magic/spells/dust-of-twilight.md) once per day as a spell-like ability, using their character level as their caster level. This racial trait replaces the *invisibility* spell-like ability.
 
 ## Favored Class Options
 
@@ -70,6 +70,6 @@ Some duergar demonstrate magic of a more insidious kind than the rest of their k
 
 ## More Favored Class Options
 
-- **Kineticist**: Add 1/5 of an Extra Wild Talent feat that must be spent on an earth element wild talent.
+- **Kineticist**: Add 1/5 of an [Extra Wild Talent](../../rules/feats/extra-wild-talent.md) feat that must be spent on an earth element wild talent.
 - **Psychic**: The psychic treats her Wisdom bonus as 1/3 point higher for the purpose of determining the number of uses or rounds per day of her discipline powers.
 

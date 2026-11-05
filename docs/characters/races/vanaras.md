@@ -52,7 +52,7 @@ Vanaras also have the following options.
 
 **Occultist**: Gain 1/6 of a new focus power.
 
-**Psychic**: When casting psychic divination spells, the psychic adds 1/2 to the effective caster level of the spell, but only to determine the spell's range and its d% chance to provide correct or meaningful information (such as with *augury* or *divination*).
+**Psychic**: When casting psychic divination spells, the psychic adds 1/2 to the effective caster level of the spell, but only to determine the spell's range and its d% chance to provide correct or meaningful information (such as with [*augury*](../../magic/spells/augury.md) or [*divination*](../../magic/spells/divination.md)).
 
 **Shaman**: Add one spell from the cleric spell list that isn't on the shaman spell list to the list of spells the shaman knows. This spell must be at least 1 level below the highest level the shaman can cast.
 
@@ -60,7 +60,7 @@ Vanaras also have the following options.
 
 **Witch**: Add 1/4 to the witch's caster level when determining the effects of spells granted to her by her patron (to a maximum of +2).
 
-**Wizard**: Gain 1/6 of a bonus feat. This feat must be an item creation feat, a metamagic feat, or Spell Mastery.
+**Wizard**: Gain 1/6 of a bonus feat. This feat must be an item creation feat, a metamagic feat, or [Spell Mastery](../../rules/feats/spell-mastery.md).
 
 ## Archetypes and Class Options
 
@@ -77,7 +77,7 @@ These archetypes are typically only taken by vanaras, but members of other races
 
 Vanaras are known to use equipment crafted from the following material.
 
-**Whipwood**: Vanara woodworkers craft this extremely flexible material in a time-consuming process. Whipwood is actually a composite of several bendable wooden fibers woven and fused together to form a flexible but sturdy unit. Only wooden weapons or weapons with wooden hafts (such as axes and spears) can be made out of whipwood. A creature wielding a whipwood weapon treats its CMD as +2 higher for the purpose of avoiding sunder attempts against that weapon. A whipwood weapon’s hit points increase by +5. Whipwood loses its special qualities if under the effect of an *ironwood* spell.
+**Whipwood**: Vanara woodworkers craft this extremely flexible material in a time-consuming process. Whipwood is actually a composite of several bendable wooden fibers woven and fused together to form a flexible but sturdy unit. Only wooden weapons or weapons with wooden hafts (such as axes and spears) can be made out of whipwood. A creature wielding a whipwood weapon treats its CMD as +2 higher for the purpose of avoiding sunder attempts against that weapon. A whipwood weapon’s hit points increase by +5. Whipwood loses its special qualities if under the effect of an [*ironwood*](../../magic/spells/ironwood.md) spell.
 
 | Type of Whipwood Item | Cost Modifier |
 |---|---|

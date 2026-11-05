@@ -18,7 +18,7 @@ All samsarans are humanoids with the samsaran subtype. They have the following r
 
 **Lifebound (Ex)**: Samsarans gain a +2 racial bonus on all saving throws made to resist death effects, saving throws against negative energy effects, Fortitude saves made to remove negative levels, and Constitution checks made to stabilize if reduced to negative hit points.
 
-**Samsaran Magic (Sp)**: Samsarans with a Charisma score of 11 or higher gain the following spell-like abilities: 1/day—*comprehend languages*, *deathwatch*, and *stabilize*. The caster level for these effects is equal to the samsaran’s level.
+**Samsaran Magic (Sp)**: Samsarans with a Charisma score of 11 or higher gain the following spell-like abilities: 1/day—[*comprehend languages*](../../magic/spells/comprehend-languages.md), [*deathwatch*](../../magic/spells/deathwatch.md), and [*stabilize*](../../magic/spells/stabilize.md). The caster level for these effects is equal to the samsaran’s level.
 
 **Shards of the Past (Ex)**: A samsaran’s past lives grant her bonuses on two particular skills. A samsaran chooses two skills—she gains a +2 racial bonus on both of these skills, and they are treated as class skills regardless of what class she actually takes.
 
@@ -28,7 +28,7 @@ All samsarans are humanoids with the samsaran subtype. They have the following r
 
 The following racial trait may be selected instead of existing samsaran racial traits. Consult your GM before selecting this new options.
 
-**Mystic Past Life (Su)**: You can add spells from another spellcasting class to the spell list of your current spellcasting class. You add a number of spells equal to 1 + your spellcasting class’s key ability score bonus (Wisdom for clerics, and so on). The spells must be the same type (arcane or divine) as the spellcasting class you’re adding them to. For example, you could add *divine power* to your druid class spell list, but not to your wizard class spell list because *divine power* is a divine spell. These spells do not have to be spells you can cast as a 1st-level character. The number of spells granted by this ability is set at 1st level. Changes to your ability score do not change the number of spells gained. This racial trait replaces shards of the past.
+**Mystic Past Life (Su)**: You can add spells from another spellcasting class to the spell list of your current spellcasting class. You add a number of spells equal to 1 + your spellcasting class’s key ability score bonus (Wisdom for clerics, and so on). The spells must be the same type (arcane or divine) as the spellcasting class you’re adding them to. For example, you could add [*divine power*](../../magic/spells/divine-power.md) to your druid class spell list, but not to your wizard class spell list because *divine power* is a divine spell. These spells do not have to be spells you can cast as a 1st-level character. The number of spells granted by this ability is set at 1st level. Changes to your ability score do not change the number of spells gained. This racial trait replaces shards of the past.
 
 ## Favored Class Options
 

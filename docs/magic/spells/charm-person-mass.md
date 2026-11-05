@@ -7,4 +7,4 @@
 **Duration** 1 hour/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions like *charm person*, except that *mass charm person* affects a number of humanoid creatures whose combined Hit Dice don’t exceed twice your level. If there are more potential targets than you can affect, you choose them one at a time until you reach the limit of HD you can affect. If you cast *mass charm person* on only one creature, you ignore the spell’s HD limit.
+This spell functions like [*charm person*](charm-person.md), except that *mass charm person* affects a number of humanoid creatures whose combined Hit Dice don’t exceed twice your level. If there are more potential targets than you can affect, you choose them one at a time until you reach the limit of HD you can affect. If you cast *mass charm person* on only one creature, you ignore the spell’s HD limit.

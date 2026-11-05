@@ -8,4 +8,4 @@
 **Duration** 1 min./level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-*Bane* fills your enemies with fear and doubt. Each affected creature takes a –1 penalty on attack rolls and a –1 penalty on saving throws against fear effects. *Bane* counters and dispels *bless*.
+*Bane* fills your enemies with fear and doubt. Each affected creature takes a –1 penalty on attack rolls and a –1 penalty on saving throws against fear effects. *Bane* counters and dispels [*bless*](bless.md).

@@ -18,7 +18,7 @@ Trox were once members of a much smaller and more docile race of subterranean bu
 
 **Frenzy**: Once per day when a trox takes damage, it flies into a frenzy for 1 minute, gaining a +2 racial bonus to Constitution and Strength, but a –2 penalty to their AC.
 
-**Grabbing Appendages**: A trox’s smaller arms are useful for little more than aiding it with grappling. Trox gain Improved Grapple as a bonus feat, and can maintain a grapple and still make attacks with their main arms.
+**Grabbing Appendages**: A trox’s smaller arms are useful for little more than aiding it with grappling. Trox gain [Improved Grapple](../../rules/feats/improved-grapple.md) as a bonus feat, and can maintain a grapple and still make attacks with their main arms.
 
 **Languages**: Trox begin play speaking Terran. A trox with a high Intelligence score can choose from the following: Common, Dwarven, Giant, Orc, and Undercommon.
 

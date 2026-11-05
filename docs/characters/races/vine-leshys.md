@@ -68,7 +68,7 @@ The leshy can use this ability a number of times per day equal to its Constituti
 
 **Lashvine**: Some vine leshys can sprout whip-like appendages. These individuals gain proficiency with whips and scorpion whips. As a free action, the vine leshy can turn one hand into a lashvine. A lashvine is a primary natural attack that deals 1d3 points of bludgeoning damage. A lashvine cannot hold items, wield weapons, or perform fine manipulation. This replaces change shape and verdant burst.
 
-**Seasoned Spirit**: Long-lived vine leshys are less flexible, but they have established stronger bonds with the natural world. These leshys can spend an hour in concentration to cast *speak with plants* as a spell-like ability with a caster level equal to their character level. This alters plantspeech and replaces climber and unassuming foliage.
+**Seasoned Spirit**: Long-lived vine leshys are less flexible, but they have established stronger bonds with the natural world. These leshys can spend an hour in concentration to cast [*speak with plants*](../../magic/spells/speak-with-plants.md) as a spell-like ability with a caster level equal to their character level. This alters plantspeech and replaces climber and unassuming foliage.
 
 **Writhing Eye**: Some vine leshys can grow thin vines that serve as sensory organs. Growing or controlling the vine is a full-round action that provokes attacks of opportunity. The vine can extend up to 15 feet and is small enough to pass through a keyhole. A leshy can perceive, using all of her senses, within 20 feet of the vine's tip. This replaces darkvision and low-light vision.
 
@@ -125,6 +125,6 @@ Vine leshys have access to the following equipment.
 
 **Vine Leshy** — CL 5th; Price 1,500 gp
 
-**Requirements**: Knowledge (nature) 5 ranks, *entangle*, *plant growth*, *summon nature's ally I*; **Skill**: Knowledge (nature) DC 13; **Cost**: 750 gp
+**Requirements**: Knowledge (nature) 5 ranks, [*entangle*](../../magic/spells/entangle.md), [*plant growth*](../../magic/spells/plant-growth.md), *summon nature's ally I*; **Skill**: Knowledge (nature) DC 13; **Cost**: 750 gp
 
 **Growing a Vine Leshy**: Vine leshys grow best in areas where they can receive ample sunlight. After a vine leshy sprouts, the leshy's creator must use a sturdy tree, trellis, or other support to guide it as it grows.

@@ -26,7 +26,7 @@ The nagaji are a race of ophidian humanoids with scaled skin that mimics the dra
 
 The following racial trait may be selected instead of an existing nagaji racial trait. Consult your GM before selecting this option.
 
-**Hypnotic Gaze (Sp)**: The nagaji’s gaze is so intense it stops others in their tracks. Once per day, it can attempt to hypnotize a single target, as per the spell *hypnotism* (caster level equal to the nagaji’s Hit Dice). The DC of this effect is equal to 11 + the nagaji’s Charisma modifier. The effects of the hypnotic gaze only last a single round. This racial trait replaces serpent’s sense.
+**Hypnotic Gaze (Sp)**: The nagaji’s gaze is so intense it stops others in their tracks. Once per day, it can attempt to hypnotize a single target, as per the spell [*hypnotism*](../../magic/spells/hypnotism.md) (caster level equal to the nagaji’s Hit Dice). The DC of this effect is equal to 11 + the nagaji’s Charisma modifier. The effects of the hypnotic gaze only last a single round. This racial trait replaces serpent’s sense.
 
 ## Favored Class Options
 

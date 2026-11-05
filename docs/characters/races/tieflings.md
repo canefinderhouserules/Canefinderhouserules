@@ -32,7 +32,7 @@ Tieflings seldom see another of their own kind, and thus they usually simply ado
 
 **Skilled**: Tieflings gain a +2 racial bonus on Bluff and Stealth checks.
 
-**Spell-Like Ability**: Tieflings can use *darkness* once per day as a spell-like ability. The caster level for this ability equals the tiefling’s class level.
+**Spell-Like Ability**: Tieflings can use [*darkness*](../../magic/spells/darkness.md) once per day as a spell-like ability. The caster level for this ability equals the tiefling’s class level.
 
 **Fiendish Resistance**: Tieflings have cold resistance 5, electricity resistance 5, and fire resistance 5.
 
@@ -58,7 +58,7 @@ The following racial traits may be selected instead of existing tiefling racial 
 
 **Smite Good**: Once per day, a tiefling with this racial trait can smite a good-aligned creature. As a swift action, the tiefling chooses one target within sight to smite. If this target is good, the tiefling adds her Charisma bonus (if any) to attack rolls against the target and gains a bonus on damage rolls against the target equal to her number of Hit Dice. This effect lasts until the first time the tiefling successfully hits her designated target. This racial trait replaces fiendish sorcery and the tiefling's spell-like ability.
 
-**Soul Seer**: Rare tieflings have a peculiar sight that allows them to see the state of a creature’s soul. They can use *deathwatch* at will as spell-like ability. This racial trait replaces the spell-like ability and fiendish sorcery racial traits.
+**Soul Seer**: Rare tieflings have a peculiar sight that allows them to see the state of a creature’s soul. They can use [*deathwatch*](../../magic/spells/deathwatch.md) at will as spell-like ability. This racial trait replaces the spell-like ability and fiendish sorcery racial traits.
 
 **Vestigial Wings**: Some tieflings possess a pair of undersized, withered, or stunted wings like a mockery of those of their fiendish forbearer. Sometimes these wings are leathery, like those of a bat. Other times they are covered with a scattering of black, red, or violet feathers. Rare manifestations can take even more bizarre forms. These wings do not provide the lift required for actual flight, but do have enough power to aid flight attained by some other method, and grant a +4 racial bonus on Fly skill checks. This racial trait replaces skilled.
 
@@ -236,7 +236,7 @@ Endowed with brawny muscles and thick bones, hungerseed always seem poised to ex
 
 ### Pass for Human
 
-Discrimination against tieflings with horrifically fiendish features is so intense that even tieflings look up to those precious few of their kind who can pass as human. These tieflings have otherworldly features that are so subtle, they aren’t often noticed unless the tiefling points them out (for example, eyes that flash red in the throes of passion, or fingernails that are naturally hard and pointed). Such a tiefling doesn’t need to succeed at a Disguise check to appear to be human and count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells like *charm person* or *enlarge person*). The tiefling does not automatically gain his associated outsider language (but may select it as a bonus language if his Intelligence score is high enough), and he may not select other racial traits that would grant him obviously fiendish features (such as the fiendish sprinter, maw or claw, prehensile tail, scaled skin, or vestigial wings alternate racial traits listed in the *Advanced Race Guide*). This ability alters the tiefling’s type, subtype, and languages.
+Discrimination against tieflings with horrifically fiendish features is so intense that even tieflings look up to those precious few of their kind who can pass as human. These tieflings have otherworldly features that are so subtle, they aren’t often noticed unless the tiefling points them out (for example, eyes that flash red in the throes of passion, or fingernails that are naturally hard and pointed). Such a tiefling doesn’t need to succeed at a Disguise check to appear to be human and count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells like [*charm person*](../../magic/spells/charm-person.md) or [*enlarge person*](../../magic/spells/enlarge-person.md)). The tiefling does not automatically gain his associated outsider language (but may select it as a bonus language if his Intelligence score is high enough), and he may not select other racial traits that would grant him obviously fiendish features (such as the fiendish sprinter, maw or claw, prehensile tail, scaled skin, or vestigial wings alternate racial traits listed in the *Advanced Race Guide*). This ability alters the tiefling’s type, subtype, and languages.
 
 ### Qlippoth-Spawn (the Motherless)
 

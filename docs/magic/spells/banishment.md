@@ -8,7 +8,7 @@
 **Duration** instantaneous  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-A *banishment* spell is a more powerful version of the *dismissal* spell. It enables you to force extraplanar creatures out of your home plane. As many as 2 Hit Dice of creatures per caster level can be banished.
+A *banishment* spell is a more powerful version of the [*dismissal*](dismissal.md) spell. It enables you to force extraplanar creatures out of your home plane. As many as 2 Hit Dice of creatures per caster level can be banished.
 
 You can improve the spell’s chance of success by presenting at least one object or substance that the target hates, fears, or otherwise opposes. For each such object or substance, you gain a +1 bonus on your caster level check to overcome the target’s spell resistance (if any), and the saving throw DC increases by 2.
 

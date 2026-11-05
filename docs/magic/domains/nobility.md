@@ -74,6 +74,6 @@
 
 *As worshipers of the goddess of drowning, romantic tragedy, and suicide, her faithful are often fraught with encounters of the supernatural variety. Her followers contend more with undead than they do outsiders or magical possession, more as a matter of her portfolio than because of any actual training against such forces. Her divine worshipers use conventional means of defeating haunts or possessing spirits, but have additional power over those tied to means of death in her portfolio.*
 
-***Romance Beyond Death (Su)**: You receive Command Undead or Turn Undead as a bonus feat, depending on the type of energy you channel. Increase the DC of the saving throw against these feats’ effects by 2 as long as the spirits involved were slain by drowning or killed themselves. If the circumstances of the affected undead’s creation was linked to romance, increase the save DC by 4 instead.*
+***Romance Beyond Death (Su)**: You receive [Command Undead](../../rules/feats/command-undead.md) or [Turn Undead](../../rules/feats/turn-undead.md) as a bonus feat, depending on the type of energy you channel. Increase the DC of the saving throw against these feats’ effects by 2 as long as the spirits involved were slain by drowning or killed themselves. If the circumstances of the affected undead’s creation was linked to romance, increase the save DC by 4 instead.*
 
 *This replaces the leadership domain power of the Nobility domain.*

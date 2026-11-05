@@ -8,7 +8,7 @@
 
 *Chaos Blade (Su)*: At 4th level, you can give a weapon touched the anarchic special weapon quality for a number of rounds equal to your cleric level. You can use this ability once per day at 4th level, and an additional time per day for every four levels beyond 4th.
 
-**Domain Spells**: 1st—*protection from law*, 2nd—*align weapon* (chaos only), 3rd—*magic circle against law*, 4th—*chaos hammer*, 5th—*dispel law*, 6th—*animate objects*, 7th—*word of chaos*, 8th—*cloak of chaos*, 9th—*summon monster IX* (chaos spell only).
+**Domain Spells**: 1st—[*protection from law*](../spells/protection-from-law.md), 2nd—[*align weapon*](../spells/align-weapon.md) (chaos only), 3rd—[*magic circle against law*](../spells/magic-circle-against-law.md), 4th—[*chaos hammer*](../spells/chaos-hammer.md), 5th—[*dispel law*](../spells/dispel-law.md), 6th—[*animate objects*](../spells/animate-objects.md), 7th—[*word of chaos*](../spells/word-of-chaos.md), 8th—[*cloak of chaos*](../spells/cloak-of-chaos.md), 9th—*summon monster IX* (chaos spell only).
 
 ###  Azata Subdomain
 
@@ -18,9 +18,9 @@
 
 **Replacement Power**: The following granted power replaces the touch of chaos power of the Chaos domain or the touch of good power of the Good domain. Azatas are a race of chaotic good outsiders.
 
-*Elysium’s Call (Su)*: As an immediate action with 30ft range, you can imbue a creature with the spirit of Elysium, lifting their spirits and freeing them from bonds. The creature can immediately reroll any failed saving throws against spells and spell-like abilities of the enchantment (charm) and enchantment (compulsion) subschools. In addition, target receive a +2 sacred bonus on such saving throws and a +2 sacred bonus on CMB checks to escape a grapple. Finally, target can ignore up to 5 feet of difficult terrain each round, as if they had the Nimble Moves feat. These bonuses last for a number of rounds equal to your cleric level, although the saving throw reroll only applies once. You can use this ability for a number of rounds per day equal to 3 + your Wisdom modifier.
+*Elysium’s Call (Su)*: As an immediate action with 30ft range, you can imbue a creature with the spirit of Elysium, lifting their spirits and freeing them from bonds. The creature can immediately reroll any failed saving throws against spells and spell-like abilities of the enchantment (charm) and enchantment (compulsion) subschools. In addition, target receive a +2 sacred bonus on such saving throws and a +2 sacred bonus on CMB checks to escape a grapple. Finally, target can ignore up to 5 feet of difficult terrain each round, as if they had the [Nimble Moves](../../rules/feats/nimble-moves.md) feat. These bonuses last for a number of rounds equal to your cleric level, although the saving throw reroll only applies once. You can use this ability for a number of rounds per day equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 1st—*expeditious retreat*, 3rd—*fly*, 6th—*planar ally* (azata only).
+**Replacement Domain Spells**: 1st—[*expeditious retreat*](../spells/expeditious-retreat.md), 3rd—*fly*, 6th—[*planar ally*](../spells/planar-ally.md) (azata only).
 
 ### Demodand Subdomain
 
@@ -32,7 +32,7 @@
 
 *Faith-Stealing Strike (Su)*: You can make a single attack using your highest base attack bonus against a creature capable of casting divine spells. If you damage the creature, it must succeed at a Will save (DC = 10 + 1/2 your cleric level + your Wisdom modifier) or be unable to cast any divine spells for as many rounds as your cleric level. If you do not damage your target with the attack, this ability is expended with no effect. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 2nd—*align weapon* (chaos or evil only), 6th—*corrosive consumption*.
+**Replacement Domain Spells**: 2nd—*align weapon* (chaos or evil only), 6th—[*corrosive consumption*](../spells/corrosive-consumption.md).
 
 ###  Demon Subdomain
 
@@ -44,7 +44,7 @@
 
 *Fury of the Abyss (Su)*: As a swift action, you can give yourself an enhancement bonus equal to 1/2 your cleric level (minimum +1) on melee attacks, melee damage rolls, and combat maneuver checks. This bonus stack with magic weapons up to +5. This bonus lasts for 1 round. During this round, you take a –2 penalty to AC. You can use this ability for a number of times per day equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 1st—*doom*, 3rd—*rage*, 6th—*planar binding* (demons only).
+**Replacement Domain Spells**: 1st—[*doom*](../spells/doom.md), 3rd—[*rage*](../spells/rage.md), 6th—[*planar binding*](../spells/planar-binding.md) (demons only).
 
 ###  Entropy Subdomain
 
@@ -56,7 +56,7 @@
 
 *Hasten the End (Su)*: At 8th level, as an immediate action upon successfully hitting an opponent with a melee attack, you reduce the remaining duration of all beneficial magical effects currently affecting the target by 1 round, minute, hour, or day/level—whichever measurement is used to determine the duration of each particular magical effect. You can use this ability once per day at 8th level, and an additional time per day for every 4 levels beyond 8th.
 
-**Replacement Domain Spells**: 1st—*entropic shield*, 3rd— *dispel magic*, 5th—*confusion*, 7th—*destruction*.
+**Replacement Domain Spells**: 1st—[*entropic shield*](../spells/entropic-shield.md), 3rd— [*dispel magic*](../spells/dispel-magic.md), 5th—[*confusion*](../spells/confusion.md), 7th—[*destruction*](../spells/destruction.md).
 
 ###  Protean Subdomain
 
@@ -68,7 +68,7 @@
 
 *Aura of Chaos (Su)*: At 6th level, you can surround yourself with a field wild energies. Thee energies manifest as a 30-foot aura of chaos for a number of rounds per day equal to your cleric level. All enemies within this aura must declare one type of action at the start of their turn (attack, cast a spell, move, use an item, or activate a special ability) and make a Will save. Creatures that fail the Will save must take an action other than their declared action. If they succeed, they must take the declared action. Creatures cannot select actions that they cannot perform.
 
-**Replacement Domain Spells**: 1st—*confusion (lesser)*, 3rd—*displacement*, 6th—*planar binding* (proteans only).
+**Replacement Domain Spells**: 1st—*confusion (lesser)*, 3rd—[*displacement*](../spells/displacement.md), 6th—*planar binding* (proteans only).
 
 ###  Revelry Subdomain
 
@@ -80,7 +80,7 @@
 
 *Intense Celebration (Su)*: At 6th level, spells you cast that confer a morale effect upon you or your allies gain a +1 to their effects (+2 if its an ability score).
 
-**Replacement Domain Spells**: 2nd—*hideous laughter*, 3rd—*good hope*, 6th—*heroes’ feast*, 8th—*irresistible dance*
+**Replacement Domain Spells**: 2nd—[*hideous laughter*](../spells/hideous-laughter.md), 3rd—[*good hope*](../spells/good-hope.md), 6th—[*heroes’ feast*](../spells/heroes-feast.md), 8th—[*irresistible dance*](../spells/irresistible-dance.md)
 
 ###  Riot Subdomain
 
@@ -92,7 +92,7 @@
 
 *Aura of Bedlam (Su)*: At 4th level, you can emit a 30-foot-radius aura of chaos and strife for 1 round per cleric level. Enemies in the aura take a –4 penalty on concentration checks and are treated as experiencing vigorous motion (concentration DC = 10 + spell level) when attempting to cast spells. This penalty increases by 1 for every 2 cleric levels you have beyond 4th. This is a mind-affecting effect. These rounds need not be consecutive.
 
-**Replacement Domain Spells**: 4th—*confusion*, 7th—*song of discord*, 9th—*symbol of strife*.
+**Replacement Domain Spells**: 4th—*confusion*, 7th—[*song of discord*](../spells/song-of-discord.md), 9th—[*symbol of strife*](../spells/symbol-of-strife.md).
 
 ### Whimsy Subdomain
 
@@ -104,7 +104,7 @@
 
 *Unexpected Whimsy (Su)*: As a standard action, you dance, act like a buffoon, or commit some other act of whimsy. When you do, enemies within 30 feet of you that can see and hear you must succeed a Will saving throw (DC = 10 + 1/2 your cleric level + half your Wisdom modifier) or they collapse into gales of manic laughter, falling prone. Those who fail their saving throws can take no actions other than laughing for 1 round, but are not considered helpless. You can use this ability once per day at 6th level and one additional time for every 4 levels you possess beyond 6th.
 
-**Replacement Domain Spells**: 1st—*hideous laughter*, 4th—*confusion*, 6th—*cloak of dreams*.
+**Replacement Domain Spells**: 1st—*hideous laughter*, 4th—*confusion*, 6th—[*cloak of dreams*](../spells/cloak-of-dreams.md).
 
 ## Variant Domain Powers
 

@@ -8,4 +8,4 @@
 **Duration** 1 hour/level (D)  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions as *compel tongue*, except it affects multiple creatures. The same language restriction applies to all creatures, and the same language must be imparted to all creatures affected by the same casting of this spell.
+This spell functions as [*compel tongue*](compel-tongue.md), except it affects multiple creatures. The same language restriction applies to all creatures, and the same language must be imparted to all creatures affected by the same casting of this spell.

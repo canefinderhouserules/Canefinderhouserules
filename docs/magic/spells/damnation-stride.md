@@ -7,4 +7,4 @@
 **Duration** 1 minutes/level  
 **Saving Throw** Reflex half, see text; **Spell Resistance** no
 
-This spell functions like *dimension door*, except you leave behind a burst of fire. Choose one corner of your starting square. A 10-foot-radius burst of flame explodes from that corner the moment you leave, dealing 4d6 points of fire damage (Reflex negates).
+This spell functions like [*dimension door*](dimension-door.md), except you leave behind a burst of fire. Choose one corner of your starting square. A 10-foot-radius burst of flame explodes from that corner the moment you leave, dealing 4d6 points of fire damage (Reflex negates).

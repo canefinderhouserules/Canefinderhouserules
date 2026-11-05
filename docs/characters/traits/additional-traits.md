@@ -39,7 +39,7 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Cold and Calculating**: You are adept at tricking favored enemies of your race or those related to your race. You gain a +1 trait bonus on all Bluff checks against favored enemies that share one of your subtypes. You also gain a +1 trait bonus on attack rolls made against such favored enemies during the surprise round.
 
-**Crimson Carapace**: A combination of armor and agility protects you from deadly attacks. When wearing light armor and fighting defensively or using Combat Expertise, you receive a +2 trait bonus to your AC against attack rolls to confirm a critical threat.
+**Crimson Carapace**: A combination of armor and agility protects you from deadly attacks. When wearing light armor and fighting defensively or using [Combat Expertise](../../rules/feats/combat-expertise.md), you receive a +2 trait bonus to your AC against attack rolls to confirm a critical threat.
 
 **Dedicated Defender**: When a companion is down, you fight harder. You gain a +1 trait bonus on attack rolls and on checks made to overcome spell resistance while you are adjacent to a dying or disabled ally, animal companion, eidolon, familiar, or mount.
 
@@ -47,7 +47,7 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Devil Fighter**: Learning how devils think helps you resist their trickery. You gain a +1 trait bonus to your AC against attacks made by lawful outsiders.
 
-**Dispelled Battler**: When deprived of magic, you fight harder. You gain a +1 trait bonus on weapon attack and damage rolls while within an area of antimagic such as that created by an *antimagic field*. You also gain this bonus for 1 round after you are subject to an area or targeted *dispel magic* spell, regardless of the effect’s success or failure in dispelling your spells and magical effects.
+**Dispelled Battler**: When deprived of magic, you fight harder. You gain a +1 trait bonus on weapon attack and damage rolls while within an area of antimagic such as that created by an [*antimagic field*](../../magic/spells/antimagic-field.md). You also gain this bonus for 1 round after you are subject to an area or targeted [*dispel magic*](../../magic/spells/dispel-magic.md) spell, regardless of the effect’s success or failure in dispelling your spells and magical effects.
 
 **Dragon Armor**: Elite warriors in your homeland are trained to deflect energy attacks. Choose an energy type (acid, cold, electricity, fire, or sonic) when you acquire this trait. When you are wearing medium or heavy armor, you gain a +2 trait bonus on Reflex saves against spells and effects of the chosen energy type.
 
@@ -199,7 +199,7 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Blind Zeal**: You are blind but trained to sense your surroundings by sound and touch. You need not attempt a skill check to move at full speed. You take a –4 penalty from blindness on only Acrobatics, Ride, Sleight of Hand, and Stealth checks. You gain Blind-Fight as a bonus feat. You lose the benefits of this trait whenever you can see, but regain them if you once again become blind.
 
-**Bloody Vengeance**: You were slain by evil forces as a child, but a servant of your faith restored you to life. Now you live on in service to your deity, battling the forces of evil so no other child will know the icy grip of death. You gain a +2 trait bonus on attack rolls to confirm critical hits against any creature that has at least a faint evil aura (see *detect evil*).
+**Bloody Vengeance**: You were slain by evil forces as a child, but a servant of your faith restored you to life. Now you live on in service to your deity, battling the forces of evil so no other child will know the icy grip of death. You gain a +2 trait bonus on attack rolls to confirm critical hits against any creature that has at least a faint evil aura (see [*detect evil*](../../magic/spells/detect-evil.md)).
 
 **Consolation**: You had a close encounter with a servant or worshiper of a god of consolation who provided you with a memorable, if unconventional, consolation after a loss. As a result, you gain a +2 trait bonus on saving throws against emotion and fear effects. If you are immune to fear, you instead gain a +4 trait bonus on saves against emotion effects.
 
@@ -251,13 +251,13 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Mighty Protector**: When you were too young to fight, you witnessed a great tragedy befall an innocent and you swore you'd become strong enough to prevent something like that from happening again. Once per day when you hit a foe with a melee attack, you can attempt an aid another action as a free action to increase an adjacent ally's AC against that foe. If you succeed, you grant the ally a +4 bonus to AC instead of a +2 bonus for that round.
 
-**Mischievous Smite**: You consider mischief a sacred rite in humbling enemies. You do not provoke attacks of opportunity when performing a dirty trick combat maneuver while your smite evil bonus applies to combat maneuver checks. If you already do not provoke such attacks of opportunity (such as by having Improved Dirty Trick), you instead gain a +2 trait bonus on dirty trick combat maneuver checks against creatures that are the targets of your smite.
+**Mischievous Smite**: You consider mischief a sacred rite in humbling enemies. You do not provoke attacks of opportunity when performing a dirty trick combat maneuver while your smite evil bonus applies to combat maneuver checks. If you already do not provoke such attacks of opportunity (such as by having [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md)), you instead gain a +2 trait bonus on dirty trick combat maneuver checks against creatures that are the targets of your smite.
 
 **Natural Magic**: You were taught that all magic can ultimately be traced back to nature. Choose two 0-level druid spells. You treat each spell as being on your class spell list and as a spell known for all spellcasting classes you have.
 
 **Oathbound**: You have made a solemn oath, and you pursue that oath with headstrong determination. Once per day, you may reroll a saving throw against a charm or compulsion effect. You must take the second result even if it is worse.
 
-**Oathkeeper's Vow**: You were trained to make unbreakable vows. You add the following spells to the paladin spell list at the indicated levels: *command* (1st), *forbid action* (1st), *suggestion* (to fulfill a prior promise only; 2nd), *lesser geas* (3rd), *geas/quest* (4th).
+**Oathkeeper's Vow**: You were trained to make unbreakable vows. You add the following spells to the paladin spell list at the indicated levels: [*command*](../../magic/spells/command.md) (1st), [*forbid action*](../../magic/spells/forbid-action.md) (1st), [*suggestion*](../../magic/spells/suggestion.md) (to fulfill a prior promise only; 2nd), *lesser geas* (3rd), *geas/quest* (4th).
 
 **Omen**: You are the harbinger of some future event. Whether this event bodes good or ill, you exude an ominous presence. You gain a +1 trait bonus on Intimidate checks, and Intimidate is always a class skill for you. Once per day, you may attempt to demoralize an opponent as a swift action.
 
@@ -379,7 +379,7 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Bladed Magic**: You have an innate talent for using magical weaponry and those weapons capable of becoming magical. You gain a +1 trait bonus on Craft checks made to craft magic or masterwork weapons. In addition, when you use your arcane pool class ability to grant a weapon an enhancement bonus, that bonus lasts for 2 minutes instead of 1.
 
-**Celestial Transmuter**: You learned the secrets of transmutation from a celestial mentor. Whenever you cast a spell from the transmutation school, its effects manifest at +1 caster level. Additionally, select one of the following transmutation spells: *bear’s endurance*, *bull’s strength*, *cat’s grace*, *eagle’s splendor*, *fox’s cunning*, or *owl’s wisdom*. Once per day when you cast that spell, its duration is doubled. A spell affected by this trait cannot be modified further by the Extend Spell metamagic feat or similar abilities.
+**Celestial Transmuter**: You learned the secrets of transmutation from a celestial mentor. Whenever you cast a spell from the transmutation school, its effects manifest at +1 caster level. Additionally, select one of the following transmutation spells: [*bear’s endurance*](../../magic/spells/bears-endurance.md), [*bull’s strength*](../../magic/spells/bulls-strength.md), [*cat’s grace*](../../magic/spells/cats-grace.md), [*eagle’s splendor*](../../magic/spells/eagles-splendor.md), [*fox’s cunning*](../../magic/spells/foxs-cunning.md), or [*owl’s wisdom*](../../magic/spells/owls-wisdom.md). Once per day when you cast that spell, its duration is doubled. A spell affected by this trait cannot be modified further by the [Extend Spell](../../rules/feats/extend-spell.md) metamagic feat or similar abilities.
 
 **Child of the Moon**: Your lunar gift becomes much more powerful when the moon is full. Choose either Climb, Stealth or Swim. You gain a +1 trait bonus on checks made with the chosen skill. On nights from the first quarter of the lunar cycle until the end of the last quarter (the half of the cycle where the moon is fuller), this bonus increases to +2. During the full moon, this bonus increases to +4.
 
@@ -429,7 +429,7 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Outcast’s Intuition**: You are able to sense the motives of others and use that sense to bolster your magic against dispelling. You gain a +1 trait bonus on Sense Motive checks, and Sense Motive is always a class skill for you. In addition, your caster level is treated as 1 level higher for the purposes of any attempts to dispel your magic.
 
-**Outsider Ties**: An outsider visited you at a young age, and you have had a significant affinity with that type of outsider ever since. Choose a subtype of outsider, such as angel or elemental. When you summon an outsider of that subtype via *summon monster*, *planar ally*, *planar binding*, or similar spells and abilities, the summoned creature gains a number of temporary hit points equal to the level of spell used to summon it.
+**Outsider Ties**: An outsider visited you at a young age, and you have had a significant affinity with that type of outsider ever since. Choose a subtype of outsider, such as angel or elemental. When you summon an outsider of that subtype via *summon monster*, [*planar ally*](../../magic/spells/planar-ally.md), [*planar binding*](../../magic/spells/planar-binding.md), or similar spells and abilities, the summoned creature gains a number of temporary hit points equal to the level of spell used to summon it.
 
 **Partial Protege**: You are adept at disguising your true talents. You gain a +1 trait bonus on Bluff checks and on Use Magic Device checks made to emulate a class feature.
 
@@ -447,13 +447,13 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Resilient Caster**: Your great force of will makes your magic harder to dispel. Your caster level is treated as 1 level higher whenever someone attempts to dispel one of your spells.
 
-**Scholar of Annotated Tomes**: You studied annotated collections of spells from a young age and became skilled at using magic written by others. You can cast *read magic* as a spell-like ability three times per day, using your character level as your caster level.
+**Scholar of Annotated Tomes**: You studied annotated collections of spells from a young age and became skilled at using magic written by others. You can cast [*read magic*](../../magic/spells/read-magic.md) as a spell-like ability three times per day, using your character level as your caster level.
 
 **Secret Scrolls**: You were inducted into a secret magical tradition. You can cast *read magic* once per day as a spell-like ability, and gain a +1 trait bonus on Use Magic Device checks to activate scrolls you cannot normally use.
 
 **Self-Taught Scholar**: Being self-taught has made it necessary for you to scour all documentation you can get your hands on. You gain a +1 trait bonus on Linguistics checks to decipher unfamiliar languages, and Linguistics is always a class skill for you. In addition, you gain a +1 trait bonus on Spellcraft checks made to decipher the writing on a scroll.
 
-**Shrouded Casting**: You have learned the secret to casting some spells without lesser material components. Choose one school of magic when you pick this trait. You can cast spells from that school as if you had the Eschew Materials feat.
+**Shrouded Casting**: You have learned the secret to casting some spells without lesser material components. Choose one school of magic when you pick this trait. You can cast spells from that school as if you had the [Eschew Materials](../../rules/feats/eschew-materials.md) feat.
 
 **Spark of Creation**: You have always had a knack for making useful things, and your talent as an artisan was evident even at an early age. You gain a +1 trait bonus on Craft checks, and the cost of creating magic items is reduced by 5%.
 
@@ -469,7 +469,7 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Unscathed**: You are amazingly resistant to energy attacks because of either your upbringing or magical experimentation. Each type of energy resistance you have (if any) increases by 2 points.
 
-**Unseen but Not Undone**: Without a single gesture, you can unleash a bloodline spell. Once per day, you can cast a bloodline spell as if you had the Still Spell feat. Using this trait does not modify the spell’s level.
+**Unseen but Not Undone**: Without a single gesture, you can unleash a bloodline spell. Once per day, you can cast a bloodline spell as if you had the [Still Spell](../../rules/feats/still-spell.md) feat. Using this trait does not modify the spell’s level.
 
 **Unstable Mutagen**: You discovered or were given a secret to make your mutagens more unstable—but also more potent. Once per day, you can create an unstable mutagen. It is like a normal mutagen in most ways, but also gains a single benefit or hindrance due to its instability. Roll 1d6 to determine the result of the instability. **d6 RESULT** 1 The unstable mutagen lasts for 5 minutes per alchemist level. 2 The unstable mutagen lasts for 20 minutes per alchemist level. 3 The unstable mutagen does not grant a natural armor bonus. 4 The natural armor bonus granted by the mutagen increases by 2. 5 The penalty that the mutagen applies to the corresponding mental ability score increases by 2. 6 The unstable mutagen does not apply a penalty to the corresponding mental ability score.
 
@@ -479,9 +479,9 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Bountiful Herb-Lore**: Once per day after 10 minutes of foraging, you can sprinkle nutritious herbs into a magical consumable item (such as a *potion of cure light wounds*). If the item is consumed within 1 minute, it provides nourishment as if it were a normal meal to the creature that partakes of it.
 
-**Eye for the Wondrous**: Your experience with magic items clues you in to their properties more quickly than others. You can identify the properties of a magic item using *detect magic* in 1 round.
+**Eye for the Wondrous**: Your experience with magic items clues you in to their properties more quickly than others. You can identify the properties of a magic item using [*detect magic*](../../magic/spells/detect-magic.md) in 1 round.
 
-**Eldritch Auditor**: You are a magically adept merchant who has learned tricks to protect your own goods, or you serve a city as an impartial auditor who guards against arcane trickery in the bazaars. You gain a +2 trait bonus on Spellcraft checks and Will saves to identify an item's true properties, such as against spells like *magic aura*.
+**Eldritch Auditor**: You are a magically adept merchant who has learned tricks to protect your own goods, or you serve a city as an impartial auditor who guards against arcane trickery in the bazaars. You gain a +2 trait bonus on Spellcraft checks and Will saves to identify an item's true properties, such as against spells like [*magic aura*](../../magic/spells/magic-aura.md).
 
 **Guiding Spirit**: Few understand the medium's willingness to harbor powerful spirits, but even if you aren't one of these talented few, you've always identified with their abilities. You've always felt that you were not alone in this world and that a mysterious guiding spirit watches over you with singular focus. Once per day as a swift action, you can look to your guiding spirit for advice. The next time you roll a d20 in that same round, roll twice and pick the better result. If one of these two rolls is a natural 20, you can use this ability again that same day.
 
@@ -497,7 +497,7 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Fey Protection**: Your birth brought an unexpected guest to your parents' home: a helpful fey who prophesied about your future and gave you a magical gift in exchange for your parents' hospitality, a cup of milk, and a drop of your blood. You gain a +1 trait bonus to AC against attacks of opportunity made by fey and a +1 trait bonus on saving throws against the effects of fey creatures.
 
-**Fortunate**: You are blessed by fate. Once per day when you use a spell or magic item with a randomized effect (such as *confusion*, *mirror image*, *prismatic spray*, or a *bag of tricks*), before you roll to determine the result, you may choose to roll twice and pick either result.
+**Fortunate**: You are blessed by fate. Once per day when you use a spell or magic item with a randomized effect (such as [*confusion*](../../magic/spells/confusion.md), [*mirror image*](../../magic/spells/mirror-image.md), [*prismatic spray*](../../magic/spells/prismatic-spray.md), or a *bag of tricks*), before you roll to determine the result, you may choose to roll twice and pick either result.
 
 **Inured to Death**: You have been around death or the undead all of your life; you have become accustomed to its shadowy presence, and are no longer overwhelmed by it. You gain a +2 trait bonus on saving throws against death effects.
 
@@ -579,7 +579,7 @@ Social traits reflect your upbringing; your background in high society or lack t
 
 **Lore Historian**: You believe there is much useful information to glean from the marks great figures left on history, and learn all you can about their exploits and teachings. This has given you significant insights on how different kinds of information are interconnected. If you fail a Knowledge (arcana, history, or religion) check, you can reroll the check 1 round later using your bonus for one of the other two skills.
 
-**Mediator**: You have a way with calming tempers, using cool logic to soothe heated disagreements. You receive a +1 trait bonus on Diplomacy checks. In addition, you receive a +1 trait bonus to the DC of any charm or compulsion effect that does not provide ongoing control and results in peaceful acts, such as *calm emotions*, *sleep*, or a *suggestion* to lay down arms.
+**Mediator**: You have a way with calming tempers, using cool logic to soothe heated disagreements. You receive a +1 trait bonus on Diplomacy checks. In addition, you receive a +1 trait bonus to the DC of any charm or compulsion effect that does not provide ongoing control and results in peaceful acts, such as [*calm emotions*](../../magic/spells/calm-emotions.md), [*sleep*](../../magic/spells/sleep.md), or a *suggestion* to lay down arms.
 
 **Mentored**: A tutor or private instructor guided you in learning your art, profession, or trade, and through your education, you became capable of teaching and guiding others. Choose a single Craft, Perform, or Profession skill. You gain a +1 trait bonus on checks with that skill. You also gain a +1 trait bonus when you aid another’s skill check with any skill.
 
@@ -859,7 +859,7 @@ The following traits are appropriate for those who have felt the influence of co
 
 **Preternatural Awareness (Social)**: Multiple encounters with fell magic have left you wary. You gain a +2 trait bonus on Perception and Sense Motive checks to notice cursed objects, haunts, and magically disguised creatures.
 
-**Rebuke the Curse (Faith)**: Once per day, you can attempt to suppress the effects of a curse on a single creature with a touch. This functions as a *remove curse* spell, treating your character level as your caster level. If you succeed at your caster level check against the curse, the curse's effects are negated for 1 minute. This trait does not allow a person burdened with a cursed item to remove or discard it. Use of this trait is a supernatural ability.
+**Rebuke the Curse (Faith)**: Once per day, you can attempt to suppress the effects of a curse on a single creature with a touch. This functions as a [*remove curse*](../../magic/spells/remove-curse.md) spell, treating your character level as your caster level. If you succeed at your caster level check against the curse, the curse's effects are negated for 1 minute. This trait does not allow a person burdened with a cursed item to remove or discard it. Use of this trait is a supernatural ability.
 
 ## Antihero Traits
 

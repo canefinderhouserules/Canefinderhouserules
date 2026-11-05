@@ -8,7 +8,7 @@
 
 *Eyes of Darkness (Su)*: At 4th level, your vision is not impaired by lighting conditions, even in absolute darkness and magic darkness. You can use this ability for a number of rounds per day equal to your cleric level. These rounds do not need to be consecutive.
 
-**Domain Spells**: 1st—*obscuring mist*, 2nd—*blindness/deafness* (only to cause blindness), 3rd—*deeper darkness*, 4th—*shadow conjuration*, 5th—*summon monster V* (summons 1d3 shadows), 6th—*shadow walk*, 7th—*power word blind*, 8th—*greater shadow evocation*, 9th—*shades*.
+**Domain Spells**: 1st—[*obscuring mist*](../spells/obscuring-mist.md), 2nd—*blindness/deafness* (only to cause blindness), 3rd—[*deeper darkness*](../spells/deeper-darkness.md), 4th—[*shadow conjuration*](../spells/shadow-conjuration.md), 5th—*summon monster V* (summons 1d3 shadows), 6th—[*shadow walk*](../spells/shadow-walk.md), 7th—[*power word blind*](../spells/power-word-blind.md), 8th—*greater shadow evocation*, 9th—[*shades*](../spells/shades.md).
 
 ###  Loss Subdomain
 
@@ -20,7 +20,7 @@
 
 *Aura of Forgetfulness (Su)*: At 4th level, you can emit a 30-foot aura of forgetfulness for a number of rounds per day equal to your cleric level. Creatures you target in this area must make a Will save or have no memory of any time spent inside the area. In addition, spellcasters in the area lose one prepared spell or available spell slot per round spent in the area, starting with 1st-level spells and going up through higher-level spells. Spellcasters are allowed a save each round to negate this loss (this save is separate from the memory loss save). These rounds do not need to be consecutive.
 
-**Replacement Domain Spells**: 5th—*enervation*, 6th—*modify memory*, 9th—*energy drain*.
+**Replacement Domain Spells**: 5th—[*enervation*](../spells/enervation.md), 6th—[*modify memory*](../spells/modify-memory.md), 9th—[*energy drain*](../spells/energy-drain.md).
 
 ###  Moon Subdomain
 
@@ -32,7 +32,7 @@
 
 *Moonfire (Su)*: At 4th level, as a standard action, you can shoot a blast of divine moonlight from your eyes as a ranged touch attack against a single target within 30 feet. Moonfire deals 1d6 points of damage per class levels you have, and the target is dazzled for 1 round per class level you have. Moonfire deals 1d10 points of damage per class level you have against lycanthropes. You can use this ability once per day at 4th level, and one additional time per day for every 2 levels beyond 4th.
 
-**Replacement Domain Spells**: 1st—*faerie fire*, 4th—*moonstruck*, 6th—*dream*.
+**Replacement Domain Spells**: 1st—[*faerie fire*](../spells/faerie-fire.md), 4th—[*moonstruck*](../spells/moonstruck.md), 6th—[*dream*](../spells/dream.md).
 
 ###  Night Subdomain
 
@@ -42,9 +42,9 @@
 
 **Replacement Power**: The following granted power replaces the touch of darkness power of the Darkness domain.
 
-*Night Hunter (Su)*: As a swift action, you can blend into the shadows of the night, becoming nearly invisible. As long as you are in an area of dim light or darkness, you are invisible (as per *invisibility*) to creatures without darkvision. This ability lasts for a number of rounds equal to your cleric level. You can use this ability for a number of times per day equal to 3 + your Wisdom modifier.
+*Night Hunter (Su)*: As a swift action, you can blend into the shadows of the night, becoming nearly invisible. As long as you are in an area of dim light or darkness, you are invisible (as per [*invisibility*](../spells/invisibility.md)) to creatures without darkvision. This ability lasts for a number of rounds equal to your cleric level. You can use this ability for a number of times per day equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 1st—*sleep*, 6th—*nightmare*.
+**Replacement Domain Spells**: 1st—[*sleep*](../spells/sleep.md), 6th—[*nightmare*](../spells/nightmare.md).
 
 ### Shadow Subdomain
 
@@ -56,4 +56,4 @@
 
 *Whispering Shadows (Su)*: You can darken the shadows around you and cause them to hiss, confounding and distracting your enemies. As an immediate action, you can force a target within 30 feet to reroll a miss chance due to concealment or a saving throw against an illusion or necromancy spell. The target of this ability must keep the result of the second roll, even if it is worse than the original roll. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 1st—*ray of enfeeblement*, 4th—*phantasmal killer*, 8th—*orb of the void*
+**Replacement Domain Spells**: 1st—[*ray of enfeeblement*](../spells/ray-of-enfeeblement.md), 4th—[*phantasmal killer*](../spells/phantasmal-killer.md), 8th—[*orb of the void*](../spells/orb-of-the-void.md)

@@ -14,4 +14,4 @@ You alter the flow of water in a natural freshwater channel such as a river, str
 
 **Divert River**: The river diverts its course in a direction of your choosing. The river flows in the general direction indicated, but otherwise conforms to the shape of the local terrain. This spell cannot cause a river to flow uphill, though the river surges over its natural banks and inundates terrain lower than its average depth. Creatures in the path of the redirected river are in danger of being swept away; if directed properly, this spell causes a flood. See Aquatic Terrain in the core rules for more details.
 
-*Alter river* can be made permanent with a *permanency* spell. Clever application of spells such as *move earth* can be combined with this spell to likewise make the river's new course permanent.
+*Alter river* can be made permanent with a [*permanency*](permanency.md) spell. Clever application of spells such as [*move earth*](move-earth.md) can be combined with this spell to likewise make the river's new course permanent.

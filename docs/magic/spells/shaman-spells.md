@@ -622,7 +622,6 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Create Greater Undead](create-greater-undead.md)**: Creates shadows, wraiths, spectres, or devourers.
 - **[Cure Critical Wounds, Mass](cure-critical-wounds-mass.md)**: Cures 4d8 damage + 1/level for many creatures.
 - **[Curse Terrain, Supreme](curse-terrain-supreme.md)**: Curse an area with seven deadly hazards.
-- **[Dead God of Humanity’s Magic Army](dead-god-of-humanitys-magic-army.md)**: You imbue all manufactured weapons carried by allies within range with magic, granting each weapon a +1 enhanc…
 - **[Destruction](destruction.md)**: Kills subject and destroys remains.
 - **[Discern Location](discern-location.md)**: Reveals exact location of creature or object.
 - **[Earthquake](earthquake.md)**: Intense tremor shakes 80-ft.-radius.

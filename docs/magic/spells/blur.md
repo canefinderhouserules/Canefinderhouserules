@@ -10,6 +10,6 @@
 
 The subject’s outline appears blurred, shifting, and wavering. This distortion grants the subject concealment (20% miss chance).
 
-A *see invisibility* spell does not counteract the *blur* effect, but a *true seeing* spell does.
+A [*see invisibility*](see-invisibility.md) spell does not counteract the *blur* effect, but a [*true seeing*](true-seeing.md) spell does.
 
 Opponents that cannot see the subject ignore the spell’s effect (though fighting an unseen opponent carries penalties of its own).

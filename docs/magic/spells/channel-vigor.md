@@ -9,7 +9,7 @@
 
 You focus the energy of your mind, body, and spirit into a specific part of your being, granting yourself an exceptional ability to perform certain tasks. When you cast the spell, choose one of the following portions of your self as your focus target. Thereafter, you may change the focus target as a move action. You can gain the benefit of only one *channel vigor* spell at a time.
 
-**Limbs**: You gain the benefits of a *haste* spell.
+**Limbs**: You gain the benefits of a [*haste*](haste.md) spell.
 
 **Mind**: You gain a +4 competence bonus on Knowledge and Perception skill checks and on ranged attack rolls.
 

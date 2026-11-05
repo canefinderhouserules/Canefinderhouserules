@@ -4,11 +4,11 @@
 
 **Granted Powers**: You can speak with and befriend animals with ease. In addition, you treat Knowledge (nature) as a class skill.
 
-*Speak with Animals (Sp)*: You can *speak with animals*, as per the spell, for a number of rounds per day equal to 3 + your cleric level.
+*Speak with Animals (Sp)*: You can [*speak with animals*](../spells/speak-with-animals.md), as per the spell, for a number of rounds per day equal to 3 + your cleric level.
 
 *Animal Companion (Ex)*: At 4th level, you gain the service of an animal companion. Your effective druid level for this animal companion is equal to your cleric level – 3. (Druids who take this ability through their nature bond class feature use their druid level – 3 to determine the abilities of their animal companions).
 
-**Domain Spells**: 1st—*calm animals*, 2nd—*hold animal*, 3rd—*dominate animal*, 4th—*summon nature's ally IV* (animals only), 5th—*beast shape III* (animals only), 6th—*antilife shell*, 7th—*animal shapes*, 8th—*summon nature's ally VIII* (animals only), 9th—*shapechange*.
+**Domain Spells**: 1st—[*calm animals*](../spells/calm-animals.md), 2nd—[*hold animal*](../spells/hold-animal.md), 3rd—[*dominate animal*](../spells/dominate-animal.md), 4th—*summon nature's ally IV* (animals only), 5th—*beast shape III* (animals only), 6th—[*antilife shell*](../spells/antilife-shell.md), 7th—[*animal shapes*](../spells/animal-shapes.md), 8th—*summon nature's ally VIII* (animals only), 9th—[*shapechange*](../spells/shapechange.md).
 
 ###  Feather Subdomain
 
@@ -22,7 +22,7 @@ The following granted power replaces the speak with animals power of the Animal 
 
 *Eyes of the Hawk (Ex)*: You gain a racial bonus on Perception checks equal to 1/2 your cleric level (minimum +1). In addition, if you can act during a surprise round, you receive a +2 racial bonus on your Initiative check.
 
-**Replacement Domain Spells**: 2nd—*feather fall*, 3rd—*fly*, 6th—*fly (mass)*.
+**Replacement Domain Spells**: 2nd—[*feather fall*](../spells/feather-fall.md), 3rd—*fly*, 6th—*fly (mass)*.
 
 ###  Fur Subdomain
 
@@ -34,7 +34,7 @@ The following granted power replaces the speak with animals power of the Animal 
 
 *Predator’s Grace (Su)*: You can, as a swift action, grant yourself a +10-foot bonus to your base speed for a number of rounds equal to your Cleric Level. This bonus increases by 5 feet for every 5 cleric levels you possess. In addition, you gain low-light vision. If you already possess low-light vision, the range of your sight becomes three times that of a human in dim light. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 1st—*magic fang*, 3rd—*beast shape I* (animals only).
+**Replacement Domain Spells**: 1st—[*magic fang*](../spells/magic-fang.md), 3rd—*beast shape I* (animals only).
 
 ###  Insect Subdomain
 
@@ -50,4 +50,4 @@ The following granted power replaces the speak with animals power of the Animal 
 
 *Exoskeleton (Su)*: As a swift action, you can grow an exoskeleton that grants you a +1 enhancement bonus to your natural armor and 1d4 temporary hit points + 1 for every 2 cleric levels you have. The natural armor bonus increases by 1 for every 5 cleric levels you have. The exoskeleton lasts for a number of rounds equal to your Cleric Level. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 4th—*giant vermin*, 5th—*vermin shape II*, 8th—*summon nature’s ally VIII* (1d3 goliath stag beetles).
+**Replacement Domain Spells**: 4th—[*giant vermin*](../spells/giant-vermin.md), 5th—*vermin shape II*, 8th—*summon nature’s ally VIII* (1d3 goliath stag beetles).

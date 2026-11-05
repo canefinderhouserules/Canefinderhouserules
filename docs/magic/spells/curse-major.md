@@ -8,4 +8,4 @@
 **Duration** permanent  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions as bestow curse, except the DC to remove the curse is equal to the save DC + 5.
+This spell functions as [*bestow curse*](bestow-curse.md), except the DC to remove the curse is equal to the save DC + 5.

@@ -24,7 +24,7 @@ In the dark below earth, svirfneblin protect their enclaves, keeping their small
 
 **Spell Resistance**: Svirfneblin have SR equal to 11 + their class levels.
 
-**Svirfneblin Magic**: Svirfneblin add +1 to the DC of any illusion spells they cast. Svirfneblin also gain the following spell-like abilities: Constant—*nondetection*; 1/day— *blindness/deafness*, *blur*, *disguise self*; caster level equals the svirfneblin’s class levels.
+**Svirfneblin Magic**: Svirfneblin add +1 to the DC of any illusion spells they cast. Svirfneblin also gain the following spell-like abilities: Constant—[*nondetection*](../../magic/spells/nondetection.md); 1/day— *blindness/deafness*, [*blur*](../../magic/spells/blur.md), [*disguise self*](../../magic/spells/disguise-self.md); caster level equals the svirfneblin’s class levels.
 
 **Languages**: Svirfneblin begin play speaking Gnome and Undercommon. Those with high Intelligence scores can choose from the following: Aklo, Common, Draconic, Dwarven, Elven, Giant, Goblin, Orc, and Terran.
 
@@ -34,7 +34,7 @@ The following racial traits may be selected instead of existing svirfneblin raci
 
 **Healthy**: Svirfneblin gain a +4 bonus on Fortitude saves against disease and poison, including magical diseases. This racial trait replaces fortunate.
 
-**Stoneseer**: Svirfneblin add +1 to the caster level of any spells with the earth descriptor they cast. Svirfneblin also gain the following spell-like abilities: Constant— *nondetection*; 1/day—*magic stone*, *stone shape*, *stone tell*; caster level equals the svirfneblin’s class levels. This racial trait replaces svirfneblin magic.
+**Stoneseer**: Svirfneblin add +1 to the caster level of any spells with the earth descriptor they cast. Svirfneblin also gain the following spell-like abilities: Constant— *nondetection*; 1/day—[*magic stone*](../../magic/spells/magic-stone.md), [*stone shape*](../../magic/spells/stone-shape.md), [*stone tell*](../../magic/spells/stone-tell.md); caster level equals the svirfneblin’s class levels. This racial trait replaces svirfneblin magic.
 
 ## Favored Class Options
 

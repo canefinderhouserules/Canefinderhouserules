@@ -14,4 +14,4 @@ cleric 6, inquisitor 6, paladin 4
 
 **Targets** one creature/level, no two of which can be more than
 
-30 ft. apart This spell functions like *blessing of luck and resolve*, except that it affects multiple creatures.
+30 ft. apart This spell functions like [*blessing of luck and resolve*](blessing-of-luck-and-resolve.md), except that it affects multiple creatures.

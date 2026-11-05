@@ -8,4 +8,4 @@
 **Duration** 1 min./level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes
 
-This spell functions like *cat’s grace*, except that it affects multiple creatures.
+This spell functions like [*cat’s grace*](cats-grace.md), except that it affects multiple creatures.

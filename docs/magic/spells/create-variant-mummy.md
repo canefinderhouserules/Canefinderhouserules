@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions as *create undead*, except it creates one of the following variant mummies: bog mummy, ice mummy, or desert tomb guardian.
+This spell functions as [*create undead*](create-undead.md), except it creates one of the following variant mummies: bog mummy, ice mummy, or desert tomb guardian.

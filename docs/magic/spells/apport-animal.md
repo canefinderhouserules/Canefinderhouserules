@@ -7,4 +7,4 @@
 **Duration** instantaneous or 1 hour/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions like apport object except the target is an animal. Only normal, nonmagical creatures of the animal type can be teleported.
+This spell functions like [*apport object*](apport-object.md) except the target is an animal. Only normal, nonmagical creatures of the animal type can be teleported.

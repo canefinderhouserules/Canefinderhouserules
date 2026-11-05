@@ -7,4 +7,4 @@
 **Target** you  
 **Duration** instantaneous
 
-This spell functions like *bladed dash*, save that you can make a single melee attack against every creature you pass during the 30 feet of your dash. You cannot attack an individual creature more than once with this spell.
+This spell functions like [*bladed dash*](bladed-dash.md), save that you can make a single melee attack against every creature you pass during the 30 feet of your dash. You cannot attack an individual creature more than once with this spell.

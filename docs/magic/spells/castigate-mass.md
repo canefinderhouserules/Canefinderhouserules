@@ -8,4 +8,4 @@
 **Duration** 1 round/level or 1 round; see text  
 **Saving Throw** Will partial; **Spell Resistance** yes
 
-This spell functions as castigate, except it affects many creatures.
+This spell functions as [*castigate*](castigate.md), except it affects many creatures.

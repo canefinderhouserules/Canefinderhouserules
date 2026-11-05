@@ -7,4 +7,4 @@
 **Target** you  
 **Duration** 1 round/level
 
-This spell functions as dance of a hundred cuts, except you also gain the benefits of haste.
+This spell functions as [*dance of a hundred cuts*](dance-of-a-hundred-cuts.md), except you also gain the benefits of haste.

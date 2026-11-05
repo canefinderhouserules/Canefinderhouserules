@@ -8,4 +8,4 @@
 **Duration** 2 hours/level  
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions like ant haul, except you may divide the duration in 2-hour intervals among the creatures touched.
+This spell functions like [*ant haul*](ant-haul.md), except you may divide the duration in 2-hour intervals among the creatures touched.

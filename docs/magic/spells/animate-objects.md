@@ -14,4 +14,4 @@ An animated object can be of any nonmagical material. You may animate one Small 
 
 This spell cannot affect objects carried or worn by a creature.
 
-*Animate objects* can be made permanent with a *permanency* spell.
+*Animate objects* can be made permanent with a [*permanency*](permanency.md) spell.

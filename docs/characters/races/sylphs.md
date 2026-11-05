@@ -46,7 +46,7 @@ The following racial traits may be selected instead of existing sylph racial tra
 
 **Like the Wind**: A sylph with this racial trait gains a +5 foot bonus to her base speed. This racial trait replaces energy resistance.
 
-**Sky Speaker**: Sylphs with this racial trait feel kinship toward the creatures of the air, and can use *speak with animals* once per day to speak to birds or other flying animals. Her caster level for these effects is equal to her level. This racial trait replaces the sylph’s spell-like ability racial trait.
+**Sky Speaker**: Sylphs with this racial trait feel kinship toward the creatures of the air, and can use [*speak with animals*](../../magic/spells/speak-with-animals.md) once per day to speak to birds or other flying animals. Her caster level for these effects is equal to her level. This racial trait replaces the sylph’s spell-like ability racial trait.
 
 **Storm in the Blood**: A sylph with this racial trait gains fast healing 2 for 1 round anytime she takes electricity damage (whether or not this electricity damage gets through her electricity resistance). The sylph can heal up to 2 hit points per level per day with this ability, after which it ceases to function. This racial trait replaces air affinity.
 
@@ -73,7 +73,7 @@ Sylphs have access to the following equipment.
 
 **Elemental Breath**: This vial at first seems to be empty, but when it’s opened, a rush of wind issues forth from within. When elemental breath is inhaled (as drinking a potion) by an air-breathing creature, that creature does not need to breath air for 10 rounds. A vial of elemental breath must be inhaled on the round it was opened to gain this effect. If it is not, the item is wasted.
 
-**Wing Cloak**: This strange piece of equipment only works for sylphs and similar creatures, whose light, airy bodies can be borne upon the winds. Looking like a fine silk traveler’s cloak, a wing cloak is secretly reinforced with a series of wooden struts that, when locked into place, stretch the cloak’s fabric into a rudimentary wing. Arranging the struts into a wing or reversing the change is a move action. When the cloak is shaped into a wing, the wearer can make a DC 15 Fly check to fall safely from any height without taking falling damage, as if using *feather fall*. When falling, the wearer may make an additional DC 15 Fly check to glide, moving 5 feet laterally for every 20 feet she falls. Readying and using a wing cloak requires two hands and provokes an attack of opportunity. A wing cloak has hardness 0 and 5 hit points. If the wing cloak is broken, the Fly DCs to use it increase by +10.
+**Wing Cloak**: This strange piece of equipment only works for sylphs and similar creatures, whose light, airy bodies can be borne upon the winds. Looking like a fine silk traveler’s cloak, a wing cloak is secretly reinforced with a series of wooden struts that, when locked into place, stretch the cloak’s fabric into a rudimentary wing. Arranging the struts into a wing or reversing the change is a move action. When the cloak is shaped into a wing, the wearer can make a DC 15 Fly check to fall safely from any height without taking falling damage, as if using [*feather fall*](../../magic/spells/feather-fall.md). When falling, the wearer may make an additional DC 15 Fly check to glide, moving 5 feet laterally for every 20 feet she falls. Readying and using a wing cloak requires two hands and provokes an attack of opportunity. A wing cloak has hardness 0 and 5 hit points. If the wing cloak is broken, the Fly DCs to use it increase by +10.
 
 | Item | Cost | Weight | Craft DC |
 |---|---|---|---|
@@ -107,7 +107,7 @@ Sylphs have access to the following equipment.
 
 ### Mostly Human
 
-A few ifrits, oreads, sulis, sylphs, and undines have appearances much closer to those of their human ancestors; in fact, they may not even realize their true race. Such geniekin appear to be human, save perhaps minor features like unusual eye color, and they count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells such as *charm person* or *enlarge person*). These geniekin do not automatically gain their associated elemental language (but may select it as a bonus language if their Intelligence is high enough). This ability alters the geniekin’s type, subtype, and languages.
+A few ifrits, oreads, sulis, sylphs, and undines have appearances much closer to those of their human ancestors; in fact, they may not even realize their true race. Such geniekin appear to be human, save perhaps minor features like unusual eye color, and they count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells such as [*charm person*](../../magic/spells/charm-person.md) or [*enlarge person*](../../magic/spells/enlarge-person.md)). These geniekin do not automatically gain their associated elemental language (but may select it as a bonus language if their Intelligence is high enough). This ability alters the geniekin’s type, subtype, and languages.
 
 ### Secretive
 

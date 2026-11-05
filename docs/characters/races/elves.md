@@ -56,11 +56,11 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Arcane Focus**: Some elven families have such long traditions of producing wizards (and other arcane spellcasters) that they raise their children with the assumption each is destined to be a powerful magic-user, with little need for mundane concerns such as skill with weapons. Elves with this racial trait gain a +2 racial bonus on concentration checks made to cast arcane spells defensively. This racial trait replaces weapon familiarity.
 
-**Darkvision**: Though uncommon, some groups of elves are born with darkvision, rather than low-light vision. In many cases this is taken as a sign of a drow in the elf’s ancestry, and can lead to persecution within the elf’s home community. Elves with this racial trait gain darkvision with a range of 60 feet, but also gain sensitivity to light and are dazzled in areas of bright light or within the radius of a *daylight* spell. This racial trait replaces low-light vision.
+**Darkvision**: Though uncommon, some groups of elves are born with darkvision, rather than low-light vision. In many cases this is taken as a sign of a drow in the elf’s ancestry, and can lead to persecution within the elf’s home community. Elves with this racial trait gain darkvision with a range of 60 feet, but also gain sensitivity to light and are dazzled in areas of bright light or within the radius of a [*daylight*](../../magic/spells/daylight.md) spell. This racial trait replaces low-light vision.
 
 **Elemental Resistance**: Elves who dwell in the most extreme environments, from arctic wastelands to volcanic plains, develop natural resistance to the dangers of their homelands over the course of a few generations. Elves with this racial trait gain elemental resistance 5 to acid, cold, electricity, or fire. This choice is made at character creation, and once made it cannot be changed. This racial trait replaces elven immunities.
 
-**Envoy**: Elves often have trouble relating to neighbors of other races, especially those with much shorter lifespans. As a result, some are trained in minor magics that are particularly useful when dealing with non-elves. Elves with this racial trait and an Intelligence score of 11 or higher gain the following spell-like abilities once per day: *comprehend languages*, *detect magic*, *detect poison*, and *read magic*. The caster level for these effects is equal to the elf’s level. This racial trait replaces elven magic.
+**Envoy**: Elves often have trouble relating to neighbors of other races, especially those with much shorter lifespans. As a result, some are trained in minor magics that are particularly useful when dealing with non-elves. Elves with this racial trait and an Intelligence score of 11 or higher gain the following spell-like abilities once per day: [*comprehend languages*](../../magic/spells/comprehend-languages.md), [*detect magic*](../../magic/spells/detect-magic.md), [*detect poison*](../../magic/spells/detect-poison.md), and [*read magic*](../../magic/spells/read-magic.md). The caster level for these effects is equal to the elf’s level. This racial trait replaces elven magic.
 
 **Fleet-Footed**: While all elves are naturally lithe and agile, some also are naturally speedy and have a strong desire to rush into situations rather than worrying about looking ahead. Elves with this racial trait receive Run as a bonus feat and a +2 racial bonus on initiative checks. This racial trait replaces keen senses and weapon familiarity.
 
@@ -98,11 +98,11 @@ Elves from different cultures often take alternate racial traits and also have a
 
 **Eastern Weapon Mastery**: Some elves are proficient with many of the weapons of distant eastern lands. Elves with this racial trait are proficient with fighting fans and tonfa, and they treat katanas, kusarigamas, and wakizashis as martial weapons. This replaces weapon familiarity.
 
-**Frostmelding**: A few rare elves from the far north are able to supernaturally blend with their surroundings to avoid the eyes of outsiders. Elves with this alternate racial trait can use *meld into stone* as a spell-like ability once per day, with a caster level equal to their character level, except that they instead meld with snow and ice and the spell duration is 1 round per level. This replaces elven magic.
+**Frostmelding**: A few rare elves from the far north are able to supernaturally blend with their surroundings to avoid the eyes of outsiders. Elves with this alternate racial trait can use [*meld into stone*](../../magic/spells/meld-into-stone.md) as a spell-like ability once per day, with a caster level equal to their character level, except that they instead meld with snow and ice and the spell duration is 1 round per level. This replaces elven magic.
 
 **Moonkissed**: Some elves, especially those born in secluded and mystically protected enclaves, are warded from birth against dangers both mental and physical. Elves with this alternate racial trait gain a +1 racial bonus on saving throws. This replaces elven immunities and keen senses.
 
-**Sense Thoughts**: Some elves are so closely attuned to each other and their environment that they seem able to read each other's minds and their foes' thoughts. Elves with this alternate racial trait can use *detect thoughts* as a spell-like ability once per day, with a caster level equal to their character level. This replaces elven immunities and keen senses.
+**Sense Thoughts**: Some elves are so closely attuned to each other and their environment that they seem able to read each other's minds and their foes' thoughts. Elves with this alternate racial trait can use [*detect thoughts*](../../magic/spells/detect-thoughts.md) as a spell-like ability once per day, with a caster level equal to their character level. This replaces elven immunities and keen senses.
 
 ## Racial Subtypes
 
@@ -204,7 +204,7 @@ These elves were born and raised in the frozen lands of the far north or south, 
 
 ### Crossbow Training
 
-the sea-spire elves train with weapons that can be used underwater. An elf with this trait can reload a light crossbow as a free action and a heavy crossbow as a move action, provided that she is proficient with the weapon. If she selects the Rapid Reload feat for a heavy crossbow, she can reload the weapon as a free action. This racial trait replaces weapon familiarity.
+the sea-spire elves train with weapons that can be used underwater. An elf with this trait can reload a light crossbow as a free action and a heavy crossbow as a move action, provided that she is proficient with the weapon. If she selects the [Rapid Reload](../../rules/feats/rapid-reload.md) feat for a heavy crossbow, she can reload the weapon as a free action. This racial trait replaces weapon familiarity.
 
 ### Disinterested Observer
 
@@ -330,7 +330,7 @@ Dwarves can take this trait in place of defensive training and hardy. Elves can 
 
 Those who understand the connection between shadows and the Negative Energy Plane know how to fight the spirits of darkness. Characters with this trait deal 50% weapon damage to incorporeal creatures when using nonmagical weapons (including natural and unarmed attacks), as if using magic weapons. They also gain a +2 bonus on saving throws to remove negative levels, and recover physical ability damage from attacks by undead creatures at a rate of 2 points per ability score per day (rather than the normal 1 point per ability score per day).
 
-Dwarves, elves, gnomes, half-orcs, and halflings can take this trait in place of weapon familiarity. Half-elves can take this trait in place of elven immunities. Humans can take this trait in place of their bonus feat, also gaining Iron Will as a bonus feat.
+Dwarves, elves, gnomes, half-orcs, and halflings can take this trait in place of weapon familiarity. Half-elves can take this trait in place of elven immunities. Humans can take this trait in place of their bonus feat, also gaining [Iron Will](../../rules/feats/iron-will.md) as a bonus feat.
 
 ### Shadowplay
 

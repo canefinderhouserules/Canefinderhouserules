@@ -107,7 +107,7 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Heart of the Sun**: Humans born in tropical climates treat hot climates as one category less severe. They also gain a +2 racial bonus on Fortitude saving throws against the effects of a hot climate, as well as against the poison and distraction ability of swarms and vermin. This racial trait replaces skilled.
 
-**Heroic**: Some humans are born heroes. In campaigns that use the optional hero point system, each time these humans gain a level, they gain 2 hero points instead of 1. If they take the Blood of Heroes feat, they gain 3 hero points each level instead of 2. This racial trait replaces the bonus feat trait.
+**Heroic**: Some humans are born heroes. In campaigns that use the optional hero point system, each time these humans gain a level, they gain 2 hero points instead of 1. If they take the [Blood of Heroes](../../rules/feats/blood-of-heroes.md) feat, they gain 3 hero points each level instead of 2. This racial trait replaces the bonus feat trait.
 
 **Mixed Heritage**: Often human civilization is defined by more than one characteristic. A human with this trait may select a second “Heart of the” racial trait. This replaces the bonus feat racial trait.
 
@@ -131,7 +131,7 @@ The following racial traits represent a fey ancestor in the family line. They ca
 
 These traits can be selected in place of specific racial traits, but their racial point (RP) values are also listed for campaigns using the race builder rules.
 
-**Draconic Heritage (4 RP)**: At times, a human's family history can have a dragon's power bound to the bloodline. Humans with this trait gain darkvision with a range of 10 feet and low-light vision. They can also ignore the Charisma prerequisite for Eldritch Heritage and any feat that has Eldritch Heritage as a prerequisite, but can select only the draconic bloodline with these feats. This replaces the bonus skill rank humans receive at each level.
+**Draconic Heritage (4 RP)**: At times, a human's family history can have a dragon's power bound to the bloodline. Humans with this trait gain darkvision with a range of 10 feet and low-light vision. They can also ignore the Charisma prerequisite for [Eldritch Heritage](../../rules/feats/eldritch-heritage.md) and any feat that has Eldritch Heritage as a prerequisite, but can select only the draconic bloodline with these feats. This replaces the bonus skill rank humans receive at each level.
 
 **Dragon Scholar (4 RP)**: Humans with this trait receive a +2 racial bonus on caster level checks to overcome a dragon's spell resistance. In addition, they receive a +3 racial bonus on Knowledge (arcana) checks related to creatures of the dragon type. This trait replaces humans' bonus feat racial trait.
 

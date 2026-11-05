@@ -10,7 +10,7 @@
 
 *Bless* fills your allies with courage. Each ally gains a +1 divine bonus on attack rolls and on saving throws against fear effects.
 
-*Bless* counters and dispels *bane*.
+*Bless* counters and dispels [*bane*](bane.md).
 
 ??? note "Original rule"
 

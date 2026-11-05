@@ -10,7 +10,7 @@
 
 By touching the ground, you curse the land with three unnatural hazards, as the minor perilous demesne curse. Though this makes the hazards appear frequently, their manifestations are still unpredictable—you can’t control when the hazards begin or end, nor where they appear within the cursed terrain.
 
-*Curse terrain* spells can be made permanent with a *permanency* spell. The minimum caster level and gp cost are shown on the table. The spell is still dismissable if made permanent.
+*Curse terrain* spells can be made permanent with a [*permanency*](permanency.md) spell. The minimum caster level and gp cost are shown on the table. The spell is still dismissable if made permanent.
 
 | Spell | Minimum Caster Level | GP Cost |
 |---|---|---|

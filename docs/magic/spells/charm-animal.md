@@ -7,4 +7,4 @@
 **Duration** 1 hour/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions like *charm person*, except that it affects a creature of the animal type.
+This spell functions like [*charm person*](charm-person.md), except that it affects a creature of the animal type.

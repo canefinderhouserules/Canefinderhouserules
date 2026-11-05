@@ -32,7 +32,7 @@ Orcs look upon half-orcs with a strange mixture of contempt, envy, and pride. Th
 
 **Darkvision**: Orcs can see in the dark up to 60 feet.
 
-**Light Sensitivity**: Orcs are dazzled in areas of bright sunlight or within the radius of a *daylight* spell.
+**Light Sensitivity**: Orcs are dazzled in areas of bright sunlight or within the radius of a [*daylight*](../../magic/spells/daylight.md) spell.
 
 **Ferocity**: Orcs can remain conscious and continue fighting even if their hit point totals fall below 0. Orcs are still staggered at 0 hit points or lower and lose 1 hit point each round as normal.
 

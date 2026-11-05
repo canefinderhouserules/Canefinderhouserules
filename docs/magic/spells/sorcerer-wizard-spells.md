@@ -421,7 +421,6 @@
 - **[Intensify Psyche](intensify-psyche.md)**: +2 on social checks and emotion DCs, –2 on saves against emotion and pain.
 - **[Investigative Mind](investigative-mind.md)**: Your mind is able to correlate information effectively.
 - **[Invisibility Bubble](invisibility-bubble.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
-- **[Invisibility Bubble, Mass](invisibility-bubble-mass.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
 - **[Jitterbugs](jitterbugs.md)**: School illusion (figment) [mind-affecting]; Level bard 1, sorcerer/wizard 2 Casting Time 1 standard action.
 - **[Kinetic Reverberation](kinetic-reverberation.md)**: Channels the force of an enemy’s attack back into its weapon.
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
@@ -736,6 +735,7 @@
 - **[Infuse Self](infuse-self.md)**: Assume the form of a native outsider
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Invisibility Bubble, Giant](invisibility-bubble-giant.md)**: This functions as per invisibility bubble, but the bubble is larger, which allows you to target a creature of …
+- **[Invisibility Bubble, Greater](invisibility-bubble-greater.md)**: This functions as per invisibility bubble, but the bubble is larger, which allows you to target a creature of up to s
 - **[Iron Spine](iron-spine.md)**: Target takes damage and is sickened whenever it moves.
 - **[Iron Stake](iron-stake.md)**: Hurl a spike of cold iron at a foe.
 - **[Irradiate](irradiate.md)**: Flood an area with radiation.
@@ -1616,7 +1616,6 @@
 - **[Create Mindscape, Greater](create-mindscape-greater.md)**: As create mindscape, but affecting more creatures, having a longer duration, and allowing magic alteration.
 - **[Create Variant Mummy](create-variant-mummy.md)**: As *create undead*, creating a bog, ice or tomb guardian mummy.
 - **[Crime Wave](crime-wave.md)**: Compel targets to commit criminal actions.
-- **[Dead God of Humanity’s Magic Army](dead-god-of-humanitys-magic-army.md)**: You imbue all manufactured weapons carried by allies within range with magic, granting each weapon a +1 enhanc…
 - **[Demanding Message, Mass](demanding-message-mass.md)**: Send messages as per *message* with one *suggestion* for each creature.
 - **[Dimensional Bounce](dimensional-bounce.md)**: You designate two locations within range and create a dimensional link between them; you must have line of effect to…
 - **[Dream Council](dream-council.md)**: Communicate with multiple sleeping creatures.
@@ -1637,6 +1636,7 @@
 - **[Infuse Robot](infuse-robot.md)**: Turn a robot into a magical construct you command.
 - **[Insect Spies, Greater](insect-spies-greater.md)**: Use magic beetles as spies and also share their senses.
 - **[Inveigle Monster](inveigle-monster.md)**: As inveigle person, but affects any living creature for 1 day/level.
+- **[Invisibility Bubble, Mass](invisibility-bubble-mass.md)**: This functions as per invisibility bubble, but the spell affects the areas of each target creature, regardless of the
 - **[Legendary Proportions](legendary-proportions.md)**: Increase a creature's size category with large bonuses.
 - **[Lost Legacy](lost-legacy.md)**: Others forget positive interactions with the target.
 - **[Maddening Oubliette](maddening-oubliette.md)**: Send a creature to a maddening demiplane prison.
@@ -1865,7 +1865,6 @@
 - **[Rune of Order](rune-of-order.md)**: A rune stabilizes an area against chaos and drains chaotic creatures.
 - **[Salvage](salvage.md)**: Rebuilds a shipwreck and raises it to the surface.
 - **[Scourge of Ruin](scourge-of-ruin.md)**: Negative levels and acid in a burst
-- **[Scourge of the Horsemen](scourge-of-the-horsemen.md)**: This spell blasts the area with a horrific combination of soul-rending energy and physical corrosion.
 - **[Scribe’s Binding](scribes-binding.md)**: Bind a creature and its memories into a book.
 - **[Shadow Transmutation, Greater](shadow-transmutation-greater.md)**: mimics greater polymorph with shadow-stuff
 - **[Spawn Calling](spawn-calling.md)**: Having attained the highest and most profane form of magical achievement in the Great Destroyer’s service, you…

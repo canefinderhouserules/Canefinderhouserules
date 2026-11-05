@@ -8,6 +8,6 @@
 **Duration** 1 round/level  
 **Saving Throw** Fortitude negates; see text; **Spell Resistance** no
 
-This spell functions like *stinking cloud*, except as noted above and that the vapors make creatures sickened instead of nauseated.
+This spell functions like [*stinking cloud*](stinking-cloud.md), except as noted above and that the vapors make creatures sickened instead of nauseated.
 
-*Cloud of seasickness* can be made permanent with a *permanency* spell (requiring a 9th-level caster and costing 2,500 gp). A permanent *cloud of seasickness* dispersed by wind reforms in 10 minutes.
+*Cloud of seasickness* can be made permanent with a [*permanency*](permanency.md) spell (requiring a 9th-level caster and costing 2,500 gp). A permanent *cloud of seasickness* dispersed by wind reforms in 10 minutes.

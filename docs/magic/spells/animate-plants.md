@@ -14,4 +14,4 @@ Use the statistics for animated objects (see *Pathfinder RPG* *Bestiary*)*,* exc
 
 *Animate plants* cannot affect plant creatures, nor does it affect nonliving vegetable material.
 
-*Entangle*: Alternatively, you may imbue all plants within range with a degree of mobility, which allows them to entwine around creatures in the area. This usage of the spell duplicates the effect of an *entangle* spell. Spell resistance does not keep creatures from being entangled. This effect lasts 1 hour per caster level.
+*Entangle*: Alternatively, you may imbue all plants within range with a degree of mobility, which allows them to entwine around creatures in the area. This usage of the spell duplicates the effect of an [*entangle*](entangle.md) spell. Spell resistance does not keep creatures from being entangled. This effect lasts 1 hour per caster level.

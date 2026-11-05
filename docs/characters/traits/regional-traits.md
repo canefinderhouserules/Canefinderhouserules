@@ -334,7 +334,7 @@ These traits may only be taken by worshipers of a deity of piracy and the sea.
 
 ## Knightly Traits
 
-**Absolute Loyalty** *(family of loyal soldier-engineers)*: You gain the one-time ability to immediately cast *atonement* upon yourself as a spell-like ability upon performing an act or being subjected to an effect that spell affects. This ability can only be used while you are acting in the service of your liege (an individual of higher social standing chosen when you take this trait).
+**Absolute Loyalty** *(family of loyal soldier-engineers)*: You gain the one-time ability to immediately cast [*atonement*](../../magic/spells/atonement.md) upon yourself as a spell-like ability upon performing an act or being subjected to an effect that spell affects. This ability can only be used while you are acting in the service of your liege (an individual of higher social standing chosen when you take this trait).
 
 **Dueling Cloak Adept** *(family of dueling-sword knights)*: You are trained in using your cloak to disguise your body and deceive your enemies. While wearing a cloak and using a rapier or other dueling blade, you gain a +2 trait bonus on Bluff checks made to feint. Additionally, every time you successfully feint while wearing a cloak, you gain a +1 dodge bonus to your Armor Class until your next turn.
 
@@ -418,7 +418,7 @@ Potions and poisons are common everywhere, but in some regions they are more com
 
 **Palm Potion** *(lands of fraudulent priesthoods)*: Priests who do not truly receive spells from their deity often make subtle use of potions to hide that fact, and they become quite adept at imbibing potions surreptitiously. You have mastered these techniques; whenever you consume a potion, you can attempt a Sleight of Hand check with a +2 trait bonus opposed by onlookers' Perception checks to hide the fact that you are drinking a potion (as if you were using Sleight of Hand to hide an object). The observer's success doesn't prevent you from drinking the potion, just from doing so unnoticed. This does not hide any visible effects that the potion might have on you, only the physical act of drinking the potion.
 
-**Poison Connoisseur** *(courtly intrigue)*: When the ceaseless bickering and elaborate posturing of politics proves ineffective, it is not unheard of for the nobility to turn to poison to solve their problems, and therefore many are taught to identify the telltale signs of commonly used toxins. You gain a +2 trait bonus on saving throws against ingested poisons. Additionally, you can cast *detect poison* as a spell-like ability once per day, using your character level as your caster level.
+**Poison Connoisseur** *(courtly intrigue)*: When the ceaseless bickering and elaborate posturing of politics proves ineffective, it is not unheard of for the nobility to turn to poison to solve their problems, and therefore many are taught to identify the telltale signs of commonly used toxins. You gain a +2 trait bonus on saving throws against ingested poisons. Additionally, you can cast [*detect poison*](../../magic/spells/detect-poison.md) as a spell-like ability once per day, using your character level as your caster level.
 
 **Poisoned Blade Resistance** *(lawless river towns)*: In places where odds are good that any given blade is coated in some kind of poison, people are used to both poisoning and being poisoned. You gain a +2 trait bonus on Fortitude saving throws against injury poisons. Additionally, you are immune to one specific nonmagical injury poison. You must choose this poison when you choose this trait and cannot change it.
 
@@ -478,7 +478,7 @@ These traits represent ways a character could gain a draconic legacy, and the in
 
 **Rugged Dragon Hunter** *(social; mountain dwarf holds)*: You gain a +2 trait bonus on Survival checks to track dragons. If you have the favored terrain class ability, add a +1 bonus to checks for skills affected by this ability, as long as you're using these skills in regards to a dragon.
 
-**Untapped Potential** *(social; island nation ruled by a gold dragon)*: You've been part of one of a dragon's experiments in awakening psychic potential. Once per day, you can cast *detect psychic significance* or *telekinetic projectile* as a spell-like ability, with a caster level equal to your character level.
+**Untapped Potential** *(social; island nation ruled by a gold dragon)*: You've been part of one of a dragon's experiments in awakening psychic potential. Once per day, you can cast [*detect psychic significance*](../../magic/spells/detect-psychic-significance.md) or [*telekinetic projectile*](../../magic/spells/telekinetic-projectile.md) as a spell-like ability, with a caster level equal to your character level.
 
 ## Wilderness Origin Traits
 
@@ -630,13 +630,13 @@ These traits come from the many nations of a great inland sea. Each trait names 
 
 **Orphanage Survivor (Bandit-plagued vassal state native)**: You grew up in one of the many orphanages run by a devil-worshiping church. Whether or not you took to their teachings, your strict indoctrination at the hands of the “devil nuns” has toughened your body to punishment. You gain a +1 trait bonus on Fortitude saves.
 
-**Perseverance (Dwarven mountains native)**: Your time in the mountains has taught you that any obstacle can be endured and overcome. When you have more than one Will saving throw to overcome an effect (such as from *greater command* or *hold person*, or by using the good fortune ability of the Luck domain), you receive a +3 trait bonus on the extra Will saves against that effect.
+**Perseverance (Dwarven mountains native)**: Your time in the mountains has taught you that any obstacle can be endured and overcome. When you have more than one Will saving throw to overcome an effect (such as from *greater command* or [*hold person*](../../magic/spells/hold-person.md), or by using the good fortune ability of the Luck domain), you receive a +3 trait bonus on the extra Will saves against that effect.
 
 **Pesh Addict (Trade city native)**: You spent several years addicted to pesh, a habit that you may or may not have kicked. You start with only half of the normal starting cash, but your knowledge of the pesh lifestyle grants you a +1 trait bonus on Bluff, Knowledge (local), and Sense Motive checks. One of these skills (your choice) is always a class skill for you.
 
 **Pirate Isles Seafarer (Pirate isles native)**: You’re familiar with the treacherous coastlines, currents, and tides of the pirate isles, and can use that knowledge anywhere. You gain a +1 trait bonus on Knowledge (nature) and Knowledge (geography) checks while on the ocean. You also gain a +1 trait bonus on Swim checks, and Swim is always a class skill for you.
 
-**Plains Rider (Desert satrapy native)**: You call the great grassy plains home, whether you were born among the plains’ tribes or in a glittering city. The horses are your kin. When mounted and making a charge, your mount’s speed is increased by 10 feet. You must have the Mounted Combat feat to take this trait.
+**Plains Rider (Desert satrapy native)**: You call the great grassy plains home, whether you were born among the plains’ tribes or in a glittering city. The horses are your kin. When mounted and making a charge, your mount’s speed is increased by 10 feet. You must have the [Mounted Combat](../../rules/feats/mounted-combat.md) feat to take this trait.
 
 **Purchased Loyalty (Merchant nation native)**: As a member of a mercenary league, you are utterly loyal to the holder of your contract—at least until it expires. Once per day, when protecting someone who has bought your services, you may roll twice when making a Will save against charm effects and take the better result.
 
@@ -666,7 +666,7 @@ These traits come from the many nations of a great inland sea. Each trait names 
 
 **Sunken City Diver (Hurricane coast native)**: You know how to operate diving bells, and you’ve dived the streets of a sunken city yourself, so you know what to expect. You gain a +1 trait bonus on Swim checks, and Swim is always a class skill for you.
 
-**Superstitious Ward (Haunted land native)**: You’re not frightened of the old wives’ tales of vampires and ghosts, and though you try to avoid the undead, you’ve learned how to deal with them. You may cast *disrupt undead* once per day as a spell-like ability. This is cast at your highest caster level gained; if you have no caster level, it functions at CL 1st.
+**Superstitious Ward (Haunted land native)**: You’re not frightened of the old wives’ tales of vampires and ghosts, and though you try to avoid the undead, you’ve learned how to deal with them. You may cast [*disrupt undead*](../../magic/spells/disrupt-undead.md) once per day as a spell-like ability. This is cast at your highest caster level gained; if you have no caster level, it functions at CL 1st.
 
 **Swordlord’s Page (Feuding northern kingdom native)**: You have trained under the dueling swordlords, and though not yet a swordlord yourself, you have learned how to strike hard with your weapon. You gain a +1 attack bonus to confirm critical hits when using an edged weapon you are proficient with.
 
@@ -684,7 +684,7 @@ These traits come from the many nations of a great inland sea. Each trait names 
 
 **Winter Warrior (Witch-ruled land native)**: You grew up in icy lands of eternal winter, and surviving in the cold snows is second nature to you. You gain a +1 trait bonus on Stealth and Survival checks in ice- or snow-covered terrain.
 
-**Winter’s Soul (Witch-ruled land native)**: The eternal winter of your homeland is as much a part of you as it is the land. You may cast *ray of frost* once per day as a spell-like ability. This is cast at your highest caster level gained; if you have no caster level, it functions at CL 1st.
+**Winter’s Soul (Witch-ruled land native)**: The eternal winter of your homeland is as much a part of you as it is the land. You may cast [*ray of frost*](../../magic/spells/ray-of-frost.md) once per day as a spell-like ability. This is cast at your highest caster level gained; if you have no caster level, it functions at CL 1st.
 
 ## Regional Traits of the Eastern Lands
 
@@ -758,7 +758,7 @@ These traits come from the empires and wilds of a distant eastern continent. Eac
 
 **Passionate Believer (Eastern oracle state native)**: Your faith was stifled while you lived in religiously oppressive slums, and the persecutions against you only spurred your own beliefs and made your convictions stronger. You gain a +1 trait bonus on saving throws against divine spells.
 
-**Peasant Rebel (Eastern rebel province native)**: You come from a family of farmers, but are determined to fight for your rights. You gain a +1 trait bonus on attacks made with improvised weapons. If you do not possess the Catch Off-Guard or Throw Anything feats, you still take penalties on these attack rolls as normal.
+**Peasant Rebel (Eastern rebel province native)**: You come from a family of farmers, but are determined to fight for your rights. You gain a +1 trait bonus on attacks made with improvised weapons. If you do not possess the [Catch Off-Guard](../../rules/feats/catch-off-guard.md) or [Throw Anything](../../rules/feats/throw-anything.md) feats, you still take penalties on these attack rolls as normal.
 
 **Privileged Slave (Hobgoblin empire native)**: You were enslaved by hobgoblins, and obeyed your masters dutifully, turning your back on comrades in order to find favor with your slavers—all the while plotting your escape. You gain a +1 trait bonus on Bluff checks, and Bluff becomes a class skill for you.
 

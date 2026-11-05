@@ -8,7 +8,7 @@ There are 40 basic traits, split evenly among four categories. Combat traits foc
 
 **Armor Expert**: You have worn armor as long as you can remember, either as part of your training to become a knight’s squire or simply because you were seeking to emulate a hero. Your childhood armor wasn’t the real thing as far as protection, but it did encumber you as much as real armor would have, and you’ve grown used to moving in such suits with relative grace. When you wear armor of any sort, reduce that suit’s armor check penalty by 1, to a minimum check penalty of 0.
 
-**Bullied**: You were bullied often as a child, and you are now constantly ready to defend yourself with your fists when an enemy comes near. You gain a +1 trait bonus on attacks of opportunity attack rolls made with unarmed strikes. Note that this trait does not grant the ability to make attacks of opportunity with your unarmed strikes— you must have a level of monk, the Improved Unarmed Strike feat, or some other similar power to gain the use of this character trait. However, that doesn’t prevent you from selecting this trait. You simply cannot make use of it until a later point if you do.
+**Bullied**: You were bullied often as a child, and you are now constantly ready to defend yourself with your fists when an enemy comes near. You gain a +1 trait bonus on attacks of opportunity attack rolls made with unarmed strikes. Note that this trait does not grant the ability to make attacks of opportunity with your unarmed strikes— you must have a level of monk, the [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) feat, or some other similar power to gain the use of this character trait. However, that doesn’t prevent you from selecting this trait. You simply cannot make use of it until a later point if you do.
 
 **Courageous**: Your childhood was brutal, yet you persevered primarily through force of will and faith that no matter how hard things might get, as long as you kept a level head you’d make it through. You gain a +2 trait bonus on saving throws against fear effects.
 
@@ -26,7 +26,7 @@ There are 40 basic traits, split evenly among four categories. Combat traits foc
 
 **Improvised Defense**: You're never defenseless, even when you are caught off guard. Whenever you wield an improvised weapon, you gain a +1 shield bonus to AC. If you use the improvised weapon to attack, you lose this shield bonus until the beginning of your next turn.
 
-**Splash Attack**: You catch others off-guard when a confrontation escalates. As long as you are standing in or adjacent to water, or holding at least a pint of liquid (including insoluble liquids like oil or alchemist's fire), you can perform a dirty trick combat maneuver to blind a foe within reach without provoking an attack of opportunity. If you select the Improved Dirty Trick feat, you gain a +2 trait bonus on dirty trick combat maneuvers to blind foes as long as you are standing in or adjacent to water or holding a pint of liquid.
+**Splash Attack**: You catch others off-guard when a confrontation escalates. As long as you are standing in or adjacent to water, or holding at least a pint of liquid (including insoluble liquids like oil or alchemist's fire), you can perform a dirty trick combat maneuver to blind a foe within reach without provoking an attack of opportunity. If you select the [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md) feat, you gain a +2 trait bonus on dirty trick combat maneuvers to blind foes as long as you are standing in or adjacent to water or holding a pint of liquid.
 
 **Vandal**: You gain a +2 bonus on Strength checks to break objects, and when damaging an object with a weapon, natural weapon, or unarmed attack, you ignore 2 points of its hardness.
 
@@ -116,13 +116,13 @@ There are 40 basic traits, split evenly among four categories. Combat traits foc
 
 **Heart of Two Worlds**: Born into a world split in twain, you are particularly skilled at understanding and empathizing with those around you. You gain a +2 trait bonus on Diplomacy and Sense Motive checks involving creatures that belong to the same race (or, if human, ethnicity) as your mother or father.
 
-**Marked by Unknown Forces**: That which has marked you for power has also given you proof to show others. You may cast *light* three times per day as a spell-like ability, but this ability only targets the palm of your hand, and it manifests as a glowing sigil representing your ominous birth: a holy or unholy symbol, a demonic symbol, or perhaps some other distinctive marking established by you and your GM. Those who recognize this symbol have a starting attitude toward you one step closer to friendly (if they are followers of or scholars studying the sign) or one step closer to hostile (if they are opposed to the sign or its followers).
+**Marked by Unknown Forces**: That which has marked you for power has also given you proof to show others. You may cast [*light*](../../magic/spells/light.md) three times per day as a spell-like ability, but this ability only targets the palm of your hand, and it manifests as a glowing sigil representing your ominous birth: a holy or unholy symbol, a demonic symbol, or perhaps some other distinctive marking established by you and your GM. Those who recognize this symbol have a starting attitude toward you one step closer to friendly (if they are followers of or scholars studying the sign) or one step closer to hostile (if they are opposed to the sign or its followers).
 
 **Rest for the Wicked**: Often forced to go without food or stimulation for days at a time, you have learned to use prolonged sleep as a means of escape and a way to heal your wounds. You heal temporary ability damage at a rate of 3 points per day of complete bed rest. A normal night of rest (8 hours) still heals you at a rate of only 1 point of temporary ability damage per night of rest.
 
 **Signature Moves**: You're known for some unique item that has become your trademark. Your starting equipment includes a single masterwork item worth less than 900 gp, and you gain a +1 trait bonus on Bluff and Intimidate checks while wielding this item in one or both hands.
 
-**Beastkin**: Select one specific type of animal (such as wolves or apes). You were raised from infancy by an animal or pack of animals of that type. You learned their ways and have more in common with your beastly kin than members of any humanoid race. You gain a +1 trait bonus on Survival checks and can use *speak with animals* as a spell-like ability at will to communicate with the type of animal that raised you.
+**Beastkin**: Select one specific type of animal (such as wolves or apes). You were raised from infancy by an animal or pack of animals of that type. You learned their ways and have more in common with your beastly kin than members of any humanoid race. You gain a +1 trait bonus on Survival checks and can use [*speak with animals*](../../magic/spells/speak-with-animals.md) as a spell-like ability at will to communicate with the type of animal that raised you.
 
 **Self-Sufficient**: You know how to work with your hands and aren't dependent on complex tools. When attempting Craft checks, you take no penalty when using improvised tools. At the GM's discretion, you can attempt certain Craft checks even when no tools are available, though you take a –2 penalty.
 
@@ -224,7 +224,7 @@ These traits suit characters raised in or around an empire ruled by devil-worshi
 
 **Theoretical Magician (Magic)**: You’ve studied more magic than what you can actually perform. You gain a +2 trait bonus on Spellcraft checks, or a +3 bonus if you aren’t a spellcaster.
 
-**Threatening Defender (Combat)**: You know how to avoid a blow while still maintaining your offensive posture. When you use Combat Expertise, reduce the number you subtract from your melee attack rolls by 1.
+**Threatening Defender (Combat)**: You know how to avoid a blow while still maintaining your offensive posture. When you use [Combat Expertise](../../rules/feats/combat-expertise.md), reduce the number you subtract from your melee attack rolls by 1.
 
 ## Jungle Colony Traits
 
@@ -238,7 +238,7 @@ These traits suit characters from a jungle colony and its wild surroundings. Eac
 
 **Savanna Hunter (Combat)**: You have been trained to hunt and fight on the open plains since birth. You gain a +1 trait bonus on attacks of opportunity attack rolls made with a shortspear, as well as a +1 racial bonus on Constitution checks to continue running and avoid nonlethal damage from a forced march.
 
-**Two-World Magic (Magic)**: You have bridged the gap between the natural magic of the jungle peoples and the refined magic of the colonists. Select one 0-level spell from a class spell list other than your own. This spell is a 0-level spell on your class spell list (or a 1st-level spell if your class doesn’t have 0-level spells). For example, if you are a druid, you could select *mage hand* and thereafter prepare it as a 0-level druid spell; if you are a sorcerer, you could select *know direction* as a 0-level sorcerer spell known.
+**Two-World Magic (Magic)**: You have bridged the gap between the natural magic of the jungle peoples and the refined magic of the colonists. Select one 0-level spell from a class spell list other than your own. This spell is a 0-level spell on your class spell list (or a 1st-level spell if your class doesn’t have 0-level spells). For example, if you are a druid, you could select [*mage hand*](../../magic/spells/mage-hand.md) and thereafter prepare it as a 0-level druid spell; if you are a sorcerer, you could select [*know direction*](../../magic/spells/know-direction.md) as a 0-level sorcerer spell known.
 
 ## Desert Satrapy Traits
 
@@ -258,7 +258,7 @@ These traits suit characters from a jungle colony and its wild surroundings. Eac
 
 **Faithful Feedback (Faith)**: A shared religious fervor makes your healing magic more effective. Whenever you cast a spell belonging to the healing subschool on someone of your religion, increase the hit points healed by +1.
 
-**Lucid Dreamer (Magic)**: Your dreams are a special place of power that only you get to enjoy; driving away threats to your subconscious is as easy as slamming a door. You receive a +1 trait bonus on Knowledge (planes) checks and a +2 trait bonus on Will saves against effects on your dreaming mind or subconscious, such as a night hag’s dream haunting ability, the *nightmare* spell, and illusions of the phantasm subschool. You must be a member of the wandering nomads to take this trait.
+**Lucid Dreamer (Magic)**: Your dreams are a special place of power that only you get to enjoy; driving away threats to your subconscious is as easy as slamming a door. You receive a +1 trait bonus on Knowledge (planes) checks and a +2 trait bonus on Will saves against effects on your dreaming mind or subconscious, such as a night hag’s dream haunting ability, the [*nightmare*](../../magic/spells/nightmare.md) spell, and illusions of the phantasm subschool. You must be a member of the wandering nomads to take this trait.
 
 **Necrotic Aura (Faith)**: Your exposure to the necromantic arts has strengthened your defenses against its vile rot. You gain a +1 trait bonus on saving throws against spells from the necromancy school or any effect that deals negative energy damage. You must be a member of a whispering necromancer cult to take this trait.
 
@@ -268,9 +268,9 @@ These traits suit characters from a jungle colony and its wild surroundings. Eac
 
 **Second Tongue (Magic)**: Using an ancient and painful surgical technique, you’ve reshaped your tongue. These surgical mutilations permit you to speak ancient words unpronounceable to most mortals, enhancing your ability to work magic associated with the Great Old Ones. Any summoning or divination spell you cast to summon or contact a Great Old One or one of their minions is cast at +1 caster level. You must be a member of the old cults to take this trait.
 
-**Saint’s Ward (Faith)**: You have learned the secrets of an ancient prayer that wards off the attacks of demons. As a standard action, you can recite a holy chant that affects demons as if you were under the effect of a *sanctuary* spell (caster level equal to 1/2 your Hit Dice + your Charisma modifier). You must be a member of a demon-hunting crusade to take this trait.
+**Saint’s Ward (Faith)**: You have learned the secrets of an ancient prayer that wards off the attacks of demons. As a standard action, you can recite a holy chant that affects demons as if you were under the effect of a [*sanctuary*](../../magic/spells/sanctuary.md) spell (caster level equal to 1/2 your Hit Dice + your Charisma modifier). You must be a member of a demon-hunting crusade to take this trait.
 
-**Lich King’s Whisper (Magic)**: You have learned the secrets of sotto voce, the eerie, dry whispering voice used to pass on cult secrets. You may cast *sotto voce* three times per day as a spell-like ability. This spell-like ability is cast at your highest caster level; if you have no caster level, it functions at CL 1st. You must be a member of a whispering necromancer cult to take this trait.
+**Lich King’s Whisper (Magic)**: You have learned the secrets of sotto voce, the eerie, dry whispering voice used to pass on cult secrets. You may cast [*sotto voce*](../../magic/spells/sotto-voce.md) three times per day as a spell-like ability. This spell-like ability is cast at your highest caster level; if you have no caster level, it functions at CL 1st. You must be a member of a whispering necromancer cult to take this trait.
 
 **Unnatural Presence (Faith)**: Your prolonged association with alien forces leaks from your pores. You can use your Intimidate skill to demoralize animals and vermin; Intimidate is a class skill for you. You must be a member of the old cults to take this trait.
 
@@ -280,6 +280,6 @@ These traits suit characters from a jungle colony and its wild surroundings. Eac
 
 **Empyreal Pantheon (Faith)**: Your faith in the empyreal lords accommodates numerous gods, and you are gifted at adapting their wide variety of focuses and lessons to your own life. Select either the law or chaos alignment descriptor. You may cast spells with that descriptor, even if your alignment or that of your god would normally not allow it. Doing so applies the good descriptor to the spell if it does not already apply.
 
-**Druidic School Pupil (Magic)**: You studied at a center for druidic magic long enough to begin bonding with a familiar. You gain a +1 trait bonus on Handle Animal checks. You may substitute this trait for Iron Will as the prerequisite for the Familiar Bond feat.
+**Druidic School Pupil (Magic)**: You studied at a center for druidic magic long enough to begin bonding with a familiar. You gain a +1 trait bonus on Handle Animal checks. You may substitute this trait for [Iron Will](../../rules/feats/iron-will.md) as the prerequisite for the [Familiar Bond](../../rules/feats/familiar-bond.md) feat.
 
 **Pact Servant (Faith)**: Your faith focuses on finding the good in unusual places and appreciating the nuances of virtue in the world. You may treat the god of tyranny and contracts as if he were a lawful neutral deity for the purposes of determining your own alignment as a cleric, inquisitor, or other divine spellcaster. You may not select the evil domain unless your own alignment also contains an evil aspect.

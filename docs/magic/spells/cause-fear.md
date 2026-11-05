@@ -8,4 +8,4 @@
 **Duration** 1d4 rounds or 1 round; see text  
 **Saving Throw** Will partial; **Spell Resistance** yes
 
-The affected creature becomes frightened. If the subject succeeds on a Will save, it is shaken for 1 round. Creatures with 6 or more HD are immune to this effect. *Cause fear* counters and dispels *remove fear*.
+The affected creature becomes frightened. If the subject succeeds on a Will save, it is shaken for 1 round. Creatures with 6 or more HD are immune to this effect. *Cause fear* counters and dispels [*remove fear*](remove-fear.md).

@@ -144,7 +144,7 @@ Dwarves have access to the following equipment.
 
 **Longhammer, Dwarven**: These heavy-headed bludgeons are often carved or cast with monstrous faces or drilled with tiny holes to create a menacing whistling as they are swung through the air.
 
-**Waraxe, Dwarven Double**: This hefty waraxe is similar to the common dwarven waraxe, but its recurved blade spans forward and back from its head like a deadly butterfly. A dwarven double waraxe grants a +1 bonus on all attack rolls after the first when using Cleave or Great Cleave.
+**Waraxe, Dwarven Double**: This hefty waraxe is similar to the common dwarven waraxe, but its recurved blade spans forward and back from its head like a deadly butterfly. A dwarven double waraxe grants a +1 bonus on all attack rolls after the first when using Cleave or [Great Cleave](../../rules/feats/great-cleave.md).
 
 **Table 1–1: Dwarven Weapons**
 

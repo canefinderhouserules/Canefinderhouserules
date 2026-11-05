@@ -106,7 +106,7 @@ A character who chooses monk as his secondary class gains the following secondar
 
 **Armor**: At 1st level, he loses all his secondary monk abilities when wearing armor, using a shield, or carrying a medium or heavy load.
 
-**Unarmed Strike**: At 3rd level, he gains the Improved Unarmed Strike feat and the unarmed damage of a monk of his character level – 2.
+**Unarmed Strike**: At 3rd level, he gains the [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) feat and the unarmed damage of a monk of his character level – 2.
 
 **Ki Pool**: At 7th level, he gains the *ki* pool class feature of a monk of his character level – 2, with a number of *ki* points equal to 1/2 his character level. He only ever gains *ki* pool (lawful) if he is of lawful alignment.
 
@@ -122,7 +122,7 @@ A character who chooses paladin as her secondary class gains the following secon
 
 **Code**: At 1st level, she must follow the paladin’s code of conduct and gains the paladin’s aura of good.
 
-**Detect Evil**: At 3rd level, she can *detect evil* as a 1st-level paladin.
+**Detect Evil**: At 3rd level, she can [*detect evil*](../spells/detect-evil.md) as a 1st-level paladin.
 
 **Smite Evil**: At 7th level, she gains the ability to smite evil once per day as a paladin of her character level – 4.
 
@@ -273,7 +273,7 @@ A character who chooses magus as his secondary class gains the following seconda
 
 A character who chooses oracle as her secondary class gains the following secondary class features.
 
-**Mystery**: At 1st level, she must select a mystery. She never qualifies for the Extra Revelation feat.
+**Mystery**: At 1st level, she must select a mystery. She never qualifies for the [Extra Revelation](../../rules/feats/extra-revelation.md) feat.
 
 **Curse**: At 1st level, she must select a curse. She gains all effects of the curse, treating her effective oracle level as equal to 1/2 her character level.
 
@@ -322,7 +322,7 @@ A character who chooses summoner as his secondary class gains the following seco
 
 A character who chooses witch as her secondary class gains the following secondary class features.
 
-**Patron**: At 1st level, she chooses a patron. She never qualifies for the Extra Hex feat.
+**Patron**: At 1st level, she chooses a patron. She never qualifies for the [Extra Hex](../../rules/feats/extra-hex.md) feat.
 
 **Witch’s Familiar**: At 3rd level, she gains a familiar, treating her character level as her effective witch level.
 
@@ -414,7 +414,7 @@ If you already have a spellbook, you can add them to your spellbook instead of g
 
 A character who chooses spiritualist as her secondary class gains the following secondary class features.
 
-**Phantom:** At 3rd level she gains the Phantom Class Feature as her character level -4. She can use Boon Companion to upgrade it to her character level.
+**Phantom:** At 3rd level she gains the Phantom Class Feature as her character level -4. She can use [Boon Companion](../../rules/feats/boon-companion.md) to upgrade it to her character level.
 
 **Shared Consciousness:** At 7th level, she gains the Shared Consciousness class feature.
 

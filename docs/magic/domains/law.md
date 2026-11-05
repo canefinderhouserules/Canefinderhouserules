@@ -138,7 +138,7 @@
 
 ***Replacement Power**: The following granted power replaces the touch of law power of the Law domain or the blast rune power of the Rune domain.*
 
-*Prohibition (Su)*: As a standard action, you can command a creature within 30 feet to refrain from committing a particular action (including any referenced in the spell *forbid action*). If the creature performs the named action before the beginning of your next turn, it takes 1d6 points of damage + 1 point for every 2 cleric levels you possess and the effect ends. This is a language-dependent effect. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+*Prohibition (Su)*: As a standard action, you can command a creature within 30 feet to refrain from committing a particular action (including any referenced in the spell [*forbid action*](../spells/forbid-action.md)). If the creature performs the named action before the beginning of your next turn, it takes 1d6 points of damage + 1 point for every 2 cleric levels you possess and the effect ends. This is a language-dependent effect. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 If you have the spell rune domain power, you can attach a spell effect to the prohibition as if it were the spell rune domain ability; the spell takes effect if the creature performs the named action. This spell must be of at least 1 level lower than the highest-level cleric spell you can cast, and it must target one or more creatures. Regardless of the number of targets the spell can normally affect, it affects only the creature that triggers the rune. Attaching a spell in this way extends the duration of the prohibition by a number of rounds equal to the spell’s level, or until it is discharged.
 

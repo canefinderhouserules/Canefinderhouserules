@@ -12,4 +12,4 @@ You render the target unable to understand any language, including spoken langua
 
 At the end of each of its turns, the subject can attempt a new saving throw to end the effect.
 
-*Tongues* counters and dispels *aphasia*, and a creature with the *tongues* spell active is immune to *aphasia*. Oracles with the tongues curse ignore *aphasia* in combat.
+*Tongues* counters and dispels *aphasia*, and a creature with the [*tongues*](tongues.md) spell active is immune to *aphasia*. Oracles with the tongues curse ignore *aphasia* in combat.

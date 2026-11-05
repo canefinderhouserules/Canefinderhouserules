@@ -16,8 +16,8 @@ Shabti are facsimiles of wealthy or powerful mortals seeking to escape judgement
 - **Immune to Undeath**: Shabti can't become undead. Spells and abilities that would transform a shabti into an undead creature have no effect.
 - **Past-Life Knowledge**: Shabti remember bits of their past lives. As a result, they treat all Knowledge skills as class skills.
 - **Resist Level Drain**: A shabti takes no penalties from energy drain effects, though it can still be killed if it accrues more negative levels than it has Hit Dice. After 24 hours, any negative levels a shabti takes are automatically removed without the need for additional saving throws.
-- **Shattered Soul**: Shabti who are killed are exceptionally difficult to return to life. Anyone who attempts to return a shabti to life using *raise dead*, *resurrection*, or a similar spell must succeed at a caster level check whose DC is equal to 10 + the shabti's Hit Dice. If it fails, the spell fails and the caster can't return the shabti to life for the next 24 hours (though the caster can try again after this period).
-- **Spell-Like Ability**: A shabti can use *suggestion* once per day as a spell-like ability, with a caster level equal to the shabti's class level.
+- **Shattered Soul**: Shabti who are killed are exceptionally difficult to return to life. Anyone who attempts to return a shabti to life using [*raise dead*](../../magic/spells/raise-dead.md), [*resurrection*](../../magic/spells/resurrection.md), or a similar spell must succeed at a caster level check whose DC is equal to 10 + the shabti's Hit Dice. If it fails, the spell fails and the caster can't return the shabti to life for the next 24 hours (though the caster can try again after this period).
+- **Spell-Like Ability**: A shabti can use [*suggestion*](../../magic/spells/suggestion.md) once per day as a spell-like ability, with a caster level equal to the shabti's class level.
 
 ## Alternate Racial Traits
 
@@ -25,7 +25,7 @@ The following racial traits can be selected instead of existing shabti racial tr
 
 **Blank Slate**: Some shabti are bereft of memories of their past lives but can accomplish great improvisations. Shabti with this racial trait can, once per day as a free action, treat any skill as though they had a number of ranks equal to half of their character levels for one skill check (minimum 1 rank). This racial trait replaces past life knowledge.
 
-**Facsimile**: A few shabti are made with such skill they are nearly perfect copies of a mortal. Shabti with this racial trait appear to be human, save perhaps for minor features like unusual skin color. They count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells like *charm person*). This racial trait replaces immune to undeath and alters the native subtype.
+**Facsimile**: A few shabti are made with such skill they are nearly perfect copies of a mortal. Shabti with this racial trait appear to be human, save perhaps for minor features like unusual skin color. They count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells like [*charm person*](../../magic/spells/charm-person.md)). This racial trait replaces immune to undeath and alters the native subtype.
 
 **Pharaonic Will**: Rather than working to influence others, some shabti focus inward. Once per day as an immediate action after failing a save against a charm, compulsion, or fear effect, a shabti with this racial trait can reroll the save with a +2 racial bonus. This racial trait replaces spell-like ability.
 

@@ -69,7 +69,7 @@
 
 ***Replacement Power**: The following granted power replaces the bleeding touch power of the Death domain.*
 
-*Death’s Kiss (Su): As a standard action, you can emit a 30ft aura that causes allies to take on some of the traits of the undead. Allies are treated as undead for the purposes of effects that heal or cause damage based on positive and negative energy. This effect lasts for a number of rounds equal to your cleric level. It does not apply to the Turn Undead or Command Undead feats. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
+*Death’s Kiss (Su): As a standard action, you can emit a 30ft aura that causes allies to take on some of the traits of the undead. Allies are treated as undead for the purposes of effects that heal or cause damage based on positive and negative energy. This effect lasts for a number of rounds equal to your cleric level. It does not apply to the [Turn Undead](../../rules/feats/turn-undead.md) or [Command Undead](../../rules/feats/command-undead.md) feats. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 2nd—ghoul touch, 4th—enervation, 9th—energy drain.*
 

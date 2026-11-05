@@ -32,7 +32,7 @@ However, even if they generally tend toward human societies, aasimars can become
 
 **Skilled**: Aasimars have a +2 racial bonus on Diplomacy and Perception checks.
 
-**Spell-Like Ability**: Aasimars can use *daylight* once per day as a spell-like ability (caster level equal to the aasimar’s class level).
+**Spell-Like Ability**: Aasimars can use [*daylight*](../../magic/spells/daylight.md) once per day as a spell-like ability (caster level equal to the aasimar’s class level).
 
 **Celestial Resistance**: Aasimars have acid resistance 5, cold resistance 5, and electricity resistance 5.
 
@@ -50,13 +50,13 @@ The following racial traits may be selected instead of existing aasimar racial t
 
 **Exalted Resistance**: An aasimar with this racial trait gains spell resistance equal to 5 + her level against spells and spell-like abilities with the evil descriptor, as well as any spells and spell-like abilities cast by evil outsiders. This racial trait replaces celestial resistance.
 
-**Halo**: Some aasimars possess the ability to manifest halos. An aasimar with this racial trait can create *light* centered on her head at will as a spell-like ability. When using her halo, she gains a +2 circumstance bonus on Intimidate checks against evil creatures and on saving throws against becoming blinded or dazzled. This racial trait replaces the darkvision racial trait.
+**Halo**: Some aasimars possess the ability to manifest halos. An aasimar with this racial trait can create [*light*](../../magic/spells/light.md) centered on her head at will as a spell-like ability. When using her halo, she gains a +2 circumstance bonus on Intimidate checks against evil creatures and on saving throws against becoming blinded or dazzled. This racial trait replaces the darkvision racial trait.
 
 **Heavenborn**: Born in the celestial realms, aasimars with this racial trait gain a +2 bonus on Knowledge (planes) checks and they cast spells with the good or light descriptor at +1 caster level. This racial trait replaces the skilled and spell-like ability racial traits.
 
 **Immortal Spark**: Aasimars with this racial trait defy the powers of death. They gain a +2 bonus on Knowledge (history) checks and saving throws against death effects and can use *lesser age resistance* once per day as a spell-like ability. This racial trait replaces the skilled and spell-like ability racial traits.
 
-**Incorruptible**: Occasionally, aasimars arise with the ability to further ward away evil. Aasimars with this racial trait can cast *corruption resistance* against evil once per day as a spell-like ability. If an aasimar uses this ability on herself, the duration increases to 1 hour per level. This racial trait replaces the spell-like ability racial trait.
+**Incorruptible**: Occasionally, aasimars arise with the ability to further ward away evil. Aasimars with this racial trait can cast [*corruption resistance*](../../magic/spells/corruption-resistance.md) against evil once per day as a spell-like ability. If an aasimar uses this ability on herself, the duration increases to 1 hour per level. This racial trait replaces the spell-like ability racial trait.
 
 **Scion of Humanity**: Some aasimars’ heavenly ancestry is extremely distant. An aasimar with this racial trait counts as an outsider (native) and a humanoid (human) for any effect related to race, including feat prerequisites and spells that affect humanoids. She can pass for human without using the Disguise skill. This racial trait replaces the Celestial language and alters the native subtype.
 
@@ -83,7 +83,7 @@ Aasimars have access to the following equipment.
 
 **Celestial Censer**: This blessed thurible holds up to 10 pieces of incense, and burns at a rate of 1 stick per hour. If a smokestick is added to the incense in the censer while it burns, creatures with the evil subtype are dazzled for as long as they remain within the area of the resulting smoke.
 
-**Celestial Lamp**: This polished lantern contains a *continual flame* and sheds light as a common lamp. If its font of consecrated crystal and metalwork is filled with holy water, the lamp’s light is sanctified for 24 hours, adding a +1 bonus to the save DC of channeled positive energy or energy channeled to harm evil outsiders within a 30-foot radius.
+**Celestial Lamp**: This polished lantern contains a [*continual flame*](../../magic/spells/continual-flame.md) and sheds light as a common lamp. If its font of consecrated crystal and metalwork is filled with holy water, the lamp’s light is sanctified for 24 hours, adding a +1 bonus to the save DC of channeled positive energy or energy channeled to harm evil outsiders within a 30-foot radius.
 
 **Incense**: This aromatic resin, imbued with fragrant oils, is often formed into sticks, cones, or balls and burned in ceremonies or during meditation. A piece of incense burns for 1 hour.
 

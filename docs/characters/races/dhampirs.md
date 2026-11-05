@@ -42,11 +42,11 @@ Almost universally, those inclined toward magic pursue the field of necromancy, 
 
 **Undead Resistance**: Dhampirs gain a +2 racial bonus on saving throws against disease and mind-affecting effects.
 
-**Light Sensitivity**: Dhampirs are dazzled in areas of bright sunlight or within the radius of a *daylight* spell.
+**Light Sensitivity**: Dhampirs are dazzled in areas of bright sunlight or within the radius of a [*daylight*](../../magic/spells/daylight.md) spell.
 
 **Negative Energy Affinity**: Though a living creature, a dhampir reacts to positive and negative energy as if it were undead—positive energy harms it, while negative energy heals it.
 
-**Spell-Like Ability**: A dhampir can use *detect undead* three times per day as a spell-like ability. The caster level for this ability equals the dhampir’s class level.
+**Spell-Like Ability**: A dhampir can use [*detect undead*](../../magic/spells/detect-undead.md) three times per day as a spell-like ability. The caster level for this ability equals the dhampir’s class level.
 
 **Resist Level Drain (Ex)**: A dhampir takes no penalties from energy drain effects, though he can still be killed if he accrues more negative levels then he has Hit Dice. After 24 hours, any negative levels a dhampir takes are removed without the need for an additional saving throw.
 
@@ -60,7 +60,7 @@ The following racial traits may be selected instead of existing dhampir racial t
 
 **Fangs**: On occasion, a dhampir may inherit his father’s lengthy canines. Whenever the dhampir makes a grapple combat maneuver check to damage an opponent, he can choose to bite his opponent, dealing 1d3 points of damage as if using a natural bite attack. As a standard action, the dhampir can bite a creature that is bound, helpless, paralyzed, or similarly unable to defend itself. This racial trait replaces the spell-like ability racial trait.
 
-**Vampiric Empathy**: Though dhampirs often relate poorly to humanoids, some share an affinity with baser creatures. These dhampirs gain the ability to communicate with bats, rats, and wolves as if under the effects of a *speak with animals* spell (caster level equal to 1/2 the dhampir’s Hit Dice). In addition, they gain a +2 racial bonus on Diplomacy checks when dealing with these animals. Whenever these dhampirs initiate an exchange, animals begin with a starting attitude of indifferent. This is a supernatural ability. This racial trait replaces manipulative.
+**Vampiric Empathy**: Though dhampirs often relate poorly to humanoids, some share an affinity with baser creatures. These dhampirs gain the ability to communicate with bats, rats, and wolves as if under the effects of a [*speak with animals*](../../magic/spells/speak-with-animals.md) spell (caster level equal to 1/2 the dhampir’s Hit Dice). In addition, they gain a +2 racial bonus on Diplomacy checks when dealing with these animals. Whenever these dhampirs initiate an exchange, animals begin with a starting attitude of indifferent. This is a supernatural ability. This racial trait replaces manipulative.
 
 ## Dhampir Heritages
 
@@ -118,7 +118,7 @@ More often the result of curiosity or experimentation than mating, the dhampir o
 
 **Alternate Spell-Like Ability**: *Comprehend languages* as a spell-like ability.
 
-**Alternate Weakness**: A –1 penalty to their caster level whenever they are in an area affected by *consecrate*, *hallow*, or a similar spell that makes an area holy.
+**Alternate Weakness**: A –1 penalty to their caster level whenever they are in an area affected by [*consecrate*](../../magic/spells/consecrate.md), [*hallow*](../../magic/spells/hallow.md), or a similar spell that makes an area holy.
 
 **Traits**: Half-Forgotten Secrets, Unidentifiable Appeal.
 

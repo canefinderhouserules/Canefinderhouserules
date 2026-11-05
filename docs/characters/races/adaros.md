@@ -28,7 +28,7 @@ Adaros normally have racial Hit Dice, skills, and other abilities, but PCs calcu
 
 **Powerful Bite (3 RP)**: Adaros have a natural bite attack that deals 1d6 points of damage. This bite is a primary attack, or a secondary attack if the creature is wielding manufactured weapons.
 
-**Rain Frenzy (4 RP)**: Adaros revere storms, and their lust for blood is amplified exponentially while it is raining. While fighting in the rain or during other stormy weather, adaros act as though affected by the *rage* spell. An adaro gains this benefit even if it is underwater, but only as long as it remains within its swim speed of the water's surface.
+**Rain Frenzy (4 RP)**: Adaros revere storms, and their lust for blood is amplified exponentially while it is raining. While fighting in the rain or during other stormy weather, adaros act as though affected by the [*rage*](../../magic/spells/rage.md) spell. An adaro gains this benefit even if it is underwater, but only as long as it remains within its swim speed of the water's surface.
 
 **Amphibious**: Adaros have the aquatic subtype, but they can breathe both water and air.
 

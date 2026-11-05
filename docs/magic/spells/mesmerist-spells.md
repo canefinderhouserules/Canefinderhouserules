@@ -214,7 +214,6 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Investigative Mind](investigative-mind.md)**
 - **[Invisibility](invisibility.md)**: Subject is invisible for 1 min./level or until it attacks.
 - **[Invisibility Bubble](invisibility-bubble.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
-- **[Invisibility Bubble, Mass](invisibility-bubble-mass.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
 - **[Jealous Rage](jealous-rage.md)**: Target attacks anyone who receives a benefit it does not.
 - **[Knock](knock.md)**: Opens locked or magically sealed door.
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
@@ -339,6 +338,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Inveigle Person](inveigle-person.md)**: The target treats all creatures as friendly.
 - **[Invigorate, Mass](invigorate-mass.md)**: As invigorate, but multiple creatures.
 - **[Invisibility Bubble, Giant](invisibility-bubble-giant.md)**: This functions as per invisibility bubble, but the bubble is larger, which allows you to target a creature of …
+- **[Invisibility Bubble, Greater](invisibility-bubble-greater.md)**: This functions as per invisibility bubble, but the bubble is larger, which allows you to target a creature of up to s
 - **[Invisibility Sphere](invisibility-sphere.md)**: Makes everyone within 10 ft. invisible.
 - Isolate
 - **[Irregular Size](irregular-size.md)**: Curse shrivels arms, legs, or wings.
@@ -564,6 +564,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - Hostile Juxtaposition, Greater
 - **[Impenetrable Veil](impenetrable-veil.md)**: Target is nearly impossible to detect.
 - **[Insanity](insanity.md)**: Subject suffers continuous *confusion*.
+- **[Invisibility Bubble, Mass](invisibility-bubble-mass.md)**: This functions as per invisibility bubble, but the spell affects the areas of each target creature, regardless of the
 - **[Invisibility, Mass](invisibility-mass.md)**: As *invisibility*, but affects all in range.
 - **[Irresistible Dance](irresistible-dance.md)**: Forces subject to dance.
 - **[Knock, Mass](knock-mass.md)**: Open many locks or closures at once

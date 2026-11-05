@@ -10,4 +10,4 @@
 
 The subject gains the ability to see 60 feet even in total darkness. Darkvision is black and white only but otherwise like normal sight.
 
-*Darkvision* can be made permanent with a *permanency* spell.
+*Darkvision* can be made permanent with a [*permanency*](permanency.md) spell.

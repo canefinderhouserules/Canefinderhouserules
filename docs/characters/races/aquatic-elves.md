@@ -28,7 +28,7 @@ The following options are available to all members of this race who have the lis
 
 **Druid**: Add 1 hit point to the druid's animal companion. If the druid ever replaces her animal companion, the new animal companion gains these bonus hit points. For a druid whose nature bond gives her a cleric domain, select one cleric domain power at 1st level that is normally usable a number of times per day equal to 3 + the druid's Wisdom modifier. The druid adds 1/2 to the number of uses per day of that domain power.
 
-**Fighter**: Choose a weapon from the following list: rapier, short sword, trident, or any weapon with "elven" in its name. Gain a +1/2 bonus on critical hit confirmation rolls made while using that type of weapon (maximum bonus +4). This bonus does not stack with those gained through Critical Focus and similar effects.
+**Fighter**: Choose a weapon from the following list: rapier, short sword, trident, or any weapon with "elven" in its name. Gain a +1/2 bonus on critical hit confirmation rolls made while using that type of weapon (maximum bonus +4). This bonus does not stack with those gained through [Critical Focus](../../rules/feats/critical-focus.md) and similar effects.
 
 **Magus**: Add one spell from the cleric, druid, or wizard spell list with the water descriptor to the magus's spellbook. This spell must be at least 1 level below the highest spell level he can cast. This spell is treated as 1 level higher unless it also appears on the magus spell list.
 

@@ -48,11 +48,11 @@ The following racial traits may be selected instead of existing tengu racial tra
 
 **Carrion Sense**: Many tengus have a natural ability to sniff out carrion. While their sense of smell isn’t as keen as that of other species, it is particularly attuned to the scent of injuries or death. Tengus with this racial trait have a limited scent ability, which only functions for corpses and badly wounded creatures (50% or fewer hit points). This racial trait replaces gifted linguist.
 
-**Claw Attack**: Tengus with this racial trait have learned to use their claws as natural weapons. They gain two claw attacks as primary natural attacks that deal 1d3 points of damage, and are treated as having the Improved Unarmed Strike feat for the purpose of qualifying for other feats. This racial trait replaces swordtrained.
+**Claw Attack**: Tengus with this racial trait have learned to use their claws as natural weapons. They gain two claw attacks as primary natural attacks that deal 1d3 points of damage, and are treated as having the [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) feat for the purpose of qualifying for other feats. This racial trait replaces swordtrained.
 
 **Exotic Weapon Training**: Instead of swords, some tengus are trained in exotic weaponry. Such tengus choose a number of eastern weapons equal to 3 + their Intelligence bonus, and gain proficiency with these weapons. This racial trait replaces swordtrained.
 
-**Glide**: Some tengus can use their feathered arms and legs to glide. Tengus with this racial trait can make a DC 15 Fly check to fall safely from any height without taking falling damage, as if using *feather fall*. When falling safely, a tengu may make an additional DC 15 Fly check to glide, moving 5 feet laterally for every 20 feet he falls. This racial trait replaces gifted linguist.
+**Glide**: Some tengus can use their feathered arms and legs to glide. Tengus with this racial trait can make a DC 15 Fly check to fall safely from any height without taking falling damage, as if using [*feather fall*](../../magic/spells/feather-fall.md). When falling safely, a tengu may make an additional DC 15 Fly check to glide, moving 5 feet laterally for every 20 feet he falls. This racial trait replaces gifted linguist.
 
 ## Favored Class Options
 
@@ -68,7 +68,7 @@ Tengus also have the following options.
 
 **Hunter**: Add 1 skill rank to the hunter's animal companion. If the hunter ever replaces her animal companion, the new companion gains these bonus skill ranks.
 
-**Kineticist**: Gain 1/6 of an Extra Wild Talent feat.
+**Kineticist**: Gain 1/6 of an [Extra Wild Talent](../../rules/feats/extra-wild-talent.md) feat.
 
 **Medium**: Add 1/4 to the bonus on checks when the medium uses the spirit surge ability.
 
@@ -96,7 +96,7 @@ Tengus have access to the following equipment.
 
 **Signal Kite Kit**: Though wingless, tengus have long cast their thoughts toward the sky and flight. Built from paper glued to bamboo frames, their kites are painted with various colors and pictures. In addition to flying kites as a leisure activity, tengus also fly kites of various shades and patterns to send signal messages. Tengus have developed an extensive code of signals and can use their kites to display complex messages visible at great distances. A signal kite kit includes six small colored kites that can be hooked together in different patterns to facilitate complex messages. The kit also includes a spool and 300 feet of twine. Sending or interpreting a signal kite’s message functions as described in the Bluff skill, but the sender and anyone trying to understand the message must also know Tengu.
 
-**Terror Kite**: This small kite is usually painted with a fierce face and bright colors and is edged with serrated wooden blades. Its twine is strengthened by soaking it in glue and sometimes with crushed glass to give it a slight cutting edge. The kite has hardness 5 and 3 hit points. Participants in a kite battle make alternating sunder combat maneuvers against each other’s kites; each successful maneuver allows a competitor to roll 1d6 points of damage against the opponent’s kite. When a kite reaches 0 hit points, it is broken or its string is cut, and its player loses the match. In some matches, points are awarded for touching the kite’s top to the opponent’s string, with the winner being the first to reach a set point total. Those interested in kite-fighting may select the terror kite as a weapon for the purpose of feats such as Weapon Focus and Weapon Specialization, and apply these bonuses on kite damage rolls and on their sunder combat maneuver attempts made while using terror kites.
+**Terror Kite**: This small kite is usually painted with a fierce face and bright colors and is edged with serrated wooden blades. Its twine is strengthened by soaking it in glue and sometimes with crushed glass to give it a slight cutting edge. The kite has hardness 5 and 3 hit points. Participants in a kite battle make alternating sunder combat maneuvers against each other’s kites; each successful maneuver allows a competitor to roll 1d6 points of damage against the opponent’s kite. When a kite reaches 0 hit points, it is broken or its string is cut, and its player loses the match. In some matches, points are awarded for touching the kite’s top to the opponent’s string, with the winner being the first to reach a set point total. Those interested in kite-fighting may select the terror kite as a weapon for the purpose of feats such as Weapon Focus and [Weapon Specialization](../../rules/feats/weapon-specialization.md), and apply these bonuses on kite damage rolls and on their sunder combat maneuver attempts made while using terror kites.
 
 **Wing Oil**: Tengus mix special salves to protect their feathers from the elements. This one-ounce vial of wing oil gives a feathered creature a +1 bonus on all saving throws to resist the effects of cold weather. Its effects last 24 hours.
 

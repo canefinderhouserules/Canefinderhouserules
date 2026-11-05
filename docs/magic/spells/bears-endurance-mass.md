@@ -8,4 +8,4 @@
 **Duration** 1 min./level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes
 
-*Mass bear’s endurance* works like *bear’s endurance*, except that it affects multiple creatures.
+*Mass bear’s endurance* works like [*bear’s endurance*](bears-endurance.md), except that it affects multiple creatures.

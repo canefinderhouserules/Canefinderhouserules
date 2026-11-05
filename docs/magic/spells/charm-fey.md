@@ -8,4 +8,4 @@
 **Duration** 1 hour/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions as *charm person*, except it affects a fey instead of a humanoid.
+This spell functions as [*charm person*](charm-person.md), except it affects a fey instead of a humanoid.

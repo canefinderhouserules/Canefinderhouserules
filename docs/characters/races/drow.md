@@ -36,7 +36,7 @@ Cruel and cunning, drow are a dark reflection of the elven race. Also called dar
 
 **Spell Resistance**: Drow possess spell resistance equal to 6 plus their class levels.
 
-**Spell**-**Like Abilities**: A drow can cast *dancing lights*, *darkness*, and *faerie fire*, once each per day, using her total character level as her caster level.
+**Spell**-**Like Abilities**: A drow can cast [*dancing lights*](../../magic/spells/dancing-lights.md), [*darkness*](../../magic/spells/darkness.md), and [*faerie fire*](../../magic/spells/faerie-fire.md), once each per day, using her total character level as her caster level.
 
 **Light Blindness**: Abrupt exposure to bright light blinds drow for 1 round; on subsequent rounds, they are dazzled as long as they remain in the affected area.
 
@@ -52,13 +52,13 @@ The following racial traits may be selected instead of existing drow racial trai
 
 **Ancestral Grudge**: The enmity between the drow and elves and dwarves is long-standing and deeply entrenched. Drow with this racial trait gain a +1 bonus on attack rolls against humanoids with the dwarf or elf subtypes (with the exception of drow) because of their special training against these reviled foes. This racial trait replaces poison use.
 
-**Blasphemous Covenant**: Since their twisted beginnings, the drow have consorted with demons. Some drow have strong ties with these creatures and may call upon ancient and obscene associations to sway demonic cooperation. Drow with this racial trait gain a +2 bonus on Diplomacy checks made against unbound creatures with the demon subtype. Furthermore, demons conjured with any *summon* spell gain +2 hit points per Hit Die. Lastly, the cost of bribes or offerings for any *planar ally* spell cast by these drow to summon a demon is reduced by 20%. This racial trait replaces keen senses and poison use.
+**Blasphemous Covenant**: Since their twisted beginnings, the drow have consorted with demons. Some drow have strong ties with these creatures and may call upon ancient and obscene associations to sway demonic cooperation. Drow with this racial trait gain a +2 bonus on Diplomacy checks made against unbound creatures with the demon subtype. Furthermore, demons conjured with any *summon* spell gain +2 hit points per Hit Die. Lastly, the cost of bribes or offerings for any [*planar ally*](../../magic/spells/planar-ally.md) spell cast by these drow to summon a demon is reduced by 20%. This racial trait replaces keen senses and poison use.
 
 **Champion of Dark Powers**: Some drow offer themselves to dark patrons, particularly demon lords. Drow with this racial trait apply their spell resistance only against spells with the good or healing descriptor or against spells cast by a divine spellcaster who worships a good-aligned deity. Anytime a drow with this racial trait casts a spell with the evil descriptor, the DC to resist the spell's effects increases by 2. This modifies the spell resistance racial trait.
 
-**Underworld Stalker**: The lands outside of drow cities, from rough-hewn tunnels to rocky caverns, are treacherous to navigate. Drow with this racial trait may move through difficult terrain without penalty while underground. In addition,  drow  with a Dexterity of 13 or higher gain Nimble Moves as a bonus feat. This racial trait replaces the spell-like abilities racial trait.
+**Underworld Stalker**: The lands outside of drow cities, from rough-hewn tunnels to rocky caverns, are treacherous to navigate. Drow with this racial trait may move through difficult terrain without penalty while underground. In addition,  drow  with a Dexterity of 13 or higher gain [Nimble Moves](../../rules/feats/nimble-moves.md) as a bonus feat. This racial trait replaces the spell-like abilities racial trait.
 
-**Seducer**: Certain drow possess an innate understanding of the darkest desires that lurk in every heart. Drow with this racial trait add +1 to the saving throw DCs for spells and spell-like abilities of the enchantment school. In addition, drow with a Wisdom score of 15 or higher may use *charm person* once per day as a spell-like ability (caster level equal to the drow’s character level). This racial trait replaces drow immunities.
+**Seducer**: Certain drow possess an innate understanding of the darkest desires that lurk in every heart. Drow with this racial trait add +1 to the saving throw DCs for spells and spell-like abilities of the enchantment school. In addition, drow with a Wisdom score of 15 or higher may use [*charm person*](../../magic/spells/charm-person.md) once per day as a spell-like ability (caster level equal to the drow’s character level). This racial trait replaces drow immunities.
 
 **Surface Infiltrator**: Some drow dwell close to the surface lands, either because they serve drow causes or they were exiled. Drow with this racial trait gain low-light vision, allowing them to see twice as far as humans in conditions of dim light. This racial trait replaces the darkvision and light blindness racial traits.
 
@@ -68,15 +68,15 @@ The following traits can be selected by drow or half-elves instead of existing d
 
 **Drow Heritage**: Half-elves with this trait count as drow for the purposes of any effect related to race, including prerequisites. This racial trait replaces the ability to choose any language as a bonus language, instead limiting the character to the bonus languages offered to drow.
 
-**Flexible Half-Breed**: Once per day, half-elves with this trait can use *alter self* as a spell-like ability to appear as humans, drow, or elves. The half-elf can change the race of this form each time she uses this ability, but the specific form for each race is static. She gains a +10 bonus to Disguise checks to appear as a member of the chosen race. The caster level for this ability is equal to the character's Hit Dice. This racial trait replaces multitalented.
+**Flexible Half-Breed**: Once per day, half-elves with this trait can use [*alter self*](../../magic/spells/alter-self.md) as a spell-like ability to appear as humans, drow, or elves. The half-elf can change the race of this form each time she uses this ability, but the specific form for each race is static. She gains a +10 bonus to Disguise checks to appear as a member of the chosen race. The caster level for this ability is equal to the character's Hit Dice. This racial trait replaces multitalented.
 
 **Hidden Half-Breed**: In benign communities, half-elves endure assumptions and bigotry based on ignorance and suspicion. In drow society, public knowledge of one's mixed ancestry can mean a cruel death. Half-elves with this trait gain a +2 bonus on Bluff and Disguise checks to pass as full-blooded drow, elves, or humans. This racial trait replaces the ability to choose any language as a bonus language, instead limiting the character to the bonus languages offered to drow.
 
 **Lesser Spell-Like Abilities**: Half-elves with this trait can cast *dancing lights*, *darkness*, and *faerie fire* once each per day. The caster level for these effects is equal to the user's character level. This racial trait replaces adaptability and multitalented.
 
-**Psychic Sensitivity**: The Underworld is full of strange energies, and the drow or half-drow who live there practice bloody rituals in exchange for favor and power. Drow or half-elves with this trait gain the Psychic Sensitivity feat, gaining access to occult skill unlocks normally only available to psychic spellcasters. This racial trait replaces keen senses for drow and half-elves and drow immunities for drow or elven immunities for half-elves.
+**Psychic Sensitivity**: The Underworld is full of strange energies, and the drow or half-drow who live there practice bloody rituals in exchange for favor and power. Drow or half-elves with this trait gain the [Psychic Sensitivity](../../rules/feats/psychic-sensitivity.md) feat, gaining access to occult skill unlocks normally only available to psychic spellcasters. This racial trait replaces keen senses for drow and half-elves and drow immunities for drow or elven immunities for half-elves.
 
-**Shade Magic**: Drow with this trait can cast *cloak of shade*, *dust of twilight*, and *ghost sound* as spell-like abilities each once per day. This racial trait replaces a drow's normal spell-like abilities.
+**Shade Magic**: Drow with this trait can cast [*cloak of shade*](../../magic/spells/cloak-of-shade.md), [*dust of twilight*](../../magic/spells/dust-of-twilight.md), and [*ghost sound*](../../magic/spells/ghost-sound.md) as spell-like abilities each once per day. This racial trait replaces a drow's normal spell-like abilities.
 
 **Shadow Sorcery**: Drow with this trait have a supernatural affinity for shadow. A drow sorcerer with the shadow bloodline treats her Charisma score as 2 points higher for all sorcerer class abilities and for spells with the shadow descriptor she casts. This racial trait replaces poison use.
 

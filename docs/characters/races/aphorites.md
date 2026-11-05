@@ -13,7 +13,7 @@ Aphorites are defined by their class levels—they do not have racial Hit Dice. 
 - **Base Speed**: Aphorites have a base speed of 30 feet.
 - **Darkvision**: Aphorites can see in the dark up to 60 feet.
 - **Skilled**: Aphorites gain a +2 racial bonus on checks with a single Craft skill of their choice.
-- **Spell-Like Ability**: Aphorites can use *protection from chaos* once per day as a spell-like ability (caster level equal to the aphorite's class level).
+- **Spell-Like Ability**: Aphorites can use [*protection from chaos*](../../magic/spells/protection-from-chaos.md) once per day as a spell-like ability (caster level equal to the aphorite's class level).
 - **Aphorite Resistances (Ex)**: Aphorites have electricity resistance 5 and a +2 bonus on saves versus poison and mind-affecting effects.
 - **Crystalline Dust (Su)**: An aphorite can manifest a haze of crystalline dust that forms into indistinct runes and glyphs surrounding its body. This effect grants the aphorite a 20% miss chance against melee and ranged attacks. Activating this dust is a move action, but it can be maintained each round as a free action. The effect cannot be disrupted, but it ends immediately if the aphorite is killed, paralyzed, stunned, knocked unconscious, or otherwise prevented from taking a free action to maintain it each round. An aphorite can use this ability a number of rounds per day equal to its Hit Dice, but the rounds do not need to be consecutive.
 - **Languages**: Aphorites speak Common and either Celestial or Infernal. An aphorite with a high Intelligence score can choose from the following as bonus languages: Abyssal, Aquan, Auran, Celestial, Ignan, Infernal, or Terran.
@@ -28,7 +28,7 @@ The following racial traits can be selected instead of existing aphorite racial 
 
 **Share Knowledge**: Certain aphorites have a sliver of their creators' ability to combine their collective intellect and solve problems they could not solve on their own. When an aphorite with this racial trait successfully uses the aid another action to aid a character on a Knowledge check the aphorite is trained in, the character receives a +4 bonus instead of the normal +2 bonus. As a result of this increased openness, aphorites with this racial trait don't receive a +2 bonus on saves against mind-affecting effects. This racial trait modifies aphorite resistances.
 
-**Urban Memories**: With vague memories of a perfect city resting somewhere deep in their minds, aphorites with this racial trait gain a +2 racial bonus on Knowledge (local) checks and can cast *urban grace* once per day as a spell-like ability (caster level equal to the aphorite's character level). This racial trait replaces the spell-like ability racial trait.
+**Urban Memories**: With vague memories of a perfect city resting somewhere deep in their minds, aphorites with this racial trait gain a +2 racial bonus on Knowledge (local) checks and can cast [*urban grace*](../../magic/spells/urban-grace.md) once per day as a spell-like ability (caster level equal to the aphorite's character level). This racial trait replaces the spell-like ability racial trait.
 
 ## Feats
 

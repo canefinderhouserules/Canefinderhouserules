@@ -1,6 +1,6 @@
 # Faith Traits
 
-Faith traits are religion traits that tie a character to the portfolio of a deity. Each is labeled with the kind of deity whose followers may take it (for example, a deity of magic, or a deity of the sea). You need not be a divine spellcaster to pick one, but you must worship a deity that fits the label and have enough religion in your background to justify the trait. Like all traits, they can be selected at character creation or with the Additional Traits feat. See [Religion Traits](religion-traits.md) for further examples.
+Faith traits are religion traits that tie a character to the portfolio of a deity. Each is labeled with the kind of deity whose followers may take it (for example, a deity of magic, or a deity of the sea). You need not be a divine spellcaster to pick one, but you must worship a deity that fits the label and have enough religion in your background to justify the trait. Like all traits, they can be selected at character creation or with the [Additional Traits](../../rules/feats/additional-traits.md) feat. See [Religion Traits](religion-traits.md) for further examples.
 
 **A Shining Beacon** *(deity of valor and justice)*: You carry a burning hatred in your heart for all things demonic, and have studied their weaknesses carefully. You deal an amount of additional damage equal to your weapon’s critical hit modifier when you score a successful critical hit with a weapon against a demon. This damage is added only after the damage is totaled, and is not multiplied by the critical hit multiplier.
 
@@ -14,7 +14,7 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Agent of Chance** *(deity of luck)*: You can change the fortunes of others, typically for the better. Once per day, you can allow an adjacent ally to reroll a skill check as an immediate action before the result is revealed. The ally must take the second roll, even if it is worse.
 
-**Always Threatening** *(deity of thieves)*: You are fast on the draw. As a move action, you can draw a light, concealed weapon for which you have Weapon Focus. If you have the Quick Draw feat, drawing this weapon is a free action.
+**Always Threatening** *(deity of thieves)*: You are fast on the draw. As a move action, you can draw a light, concealed weapon for which you have Weapon Focus. If you have the [Quick Draw](../../rules/feats/quick-draw.md) feat, drawing this weapon is a free action.
 
 **Arcane Depth** *(deity of magic)*: You have studied the great masters of spellcraft, and your knowledge is exceptional. You gain a bonus of either +1 on Spellcraft checks or +2 on Knowledge (arcana) checks. You must choose which bonus you receive when you take the trait; once chosen, it cannot be changed.
 
@@ -40,11 +40,11 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Covenant of the End** *(any deity of death or plague)*: Because your soul is pledged to a power of death, you gain a +2 trait bonus on Fortitude saving throws against level-draining effects.
 
-**Crisis of Faith** *(any faith)*: You were raised to uphold a specific set of tenets, and you never had reason to doubt their veracity. Recent events, however, have undermined that certainty, and you now find yourself wondering if any of the universal truths you once believed in can actually hold up to scrutiny. Perhaps you witnessed a mentor or church official fall from grace or violate your shared tenets. Maybe you watched a friend injured terribly despite (or because of) her pure faith. Whatever the case, your shaken confidence grants you a +1 trait bonus on saving throws against illusions. You may replace any other faith trait with the Crisis of Faith trait whenever you gain a level. This replacement is permanent until you receive *atonement*.
+**Crisis of Faith** *(any faith)*: You were raised to uphold a specific set of tenets, and you never had reason to doubt their veracity. Recent events, however, have undermined that certainty, and you now find yourself wondering if any of the universal truths you once believed in can actually hold up to scrutiny. Perhaps you witnessed a mentor or church official fall from grace or violate your shared tenets. Maybe you watched a friend injured terribly despite (or because of) her pure faith. Whatever the case, your shaken confidence grants you a +1 trait bonus on saving throws against illusions. You may replace any other faith trait with the Crisis of Faith trait whenever you gain a level. This replacement is permanent until you receive [*atonement*](../../magic/spells/atonement.md).
 
 **Deadeye Bowman** *(deity of the hunt and farming)*: When you are using a longbow, if only a single creature is providing soft cover to your target, your target does not receive the +4 bonus to AC.
 
-**Deathspeaker** *(deity of undeath)*: Your experience with undead creatures gives you a +2 trait bonus on Diplomacy checks when dealing with undead, as well as a +2 trait bonus on Charisma checks to influence undead (such as with the *command undead* spell).
+**Deathspeaker** *(deity of undeath)*: Your experience with undead creatures gives you a +2 trait bonus on Diplomacy checks when dealing with undead, as well as a +2 trait bonus on Charisma checks to influence undead (such as with the [*command undead*](../../magic/spells/command-undead.md) spell).
 
 **Deck Fighter** *(deity of the sea and piracy)*: Your long experience in compensating for the pitch and yaw of ocean-going ships grants you a +1 trait bonus on attacks of opportunity when fighting aboard a ship.
 
@@ -86,7 +86,7 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Eternal Understanding** *(deity of perfection and knowledge)*: Though you haven’t been traditionally educated, you’re blessed with potent observation and discernment. You can attempt Knowledge checks with a DC of 15 or lower untrained.
 
-**Extended Toil** *(deity of toil and drudgery)*: Your faith teaches you to push magical servants to the limit. When you cast a spell that creates a loyal servant to fulfill a specific or mindless task (such as *unseen servant*, *mount*, or *spiritual weapon*, but not *summon monster* spells), you may choose to increase its duration by 50%. This does not stack with the Extend Spell feat. The effect weakens the spell, however; dispel checks against spells you cast in this manner gain a +4 bonus.
+**Extended Toil** *(deity of toil and drudgery)*: Your faith teaches you to push magical servants to the limit. When you cast a spell that creates a loyal servant to fulfill a specific or mindless task (such as [*unseen servant*](../../magic/spells/unseen-servant.md), [*mount*](../../magic/spells/mount.md), or [*spiritual weapon*](../../magic/spells/spiritual-weapon.md), but not *summon monster* spells), you may choose to increase its duration by 50%. This does not stack with the [Extend Spell](../../rules/feats/extend-spell.md) feat. The effect weakens the spell, however; dispel checks against spells you cast in this manner gain a +4 bonus.
 
 **Eye for Quality** *(deity of law and trade)*: Your deity has granted you an uncanny ability to find the true worth of items. You gain a +1 trait bonus on Appraise checks, you don’t suffer the effects of failing such checks by 5 or more, and Appraise is a class skill for you.
 
@@ -104,7 +104,7 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Flames of Hell** *(any archdevil)*: Your bond with the archdevil you worship strengthens your ability to channel powers of the divine. Add 1 to the DC of saving throws made to resist the effects of your channel energy ability.
 
-**Juju Apprentice** *(any juju or spirit-worship tradition)*: For a time during your childhood, you were left in the care of a juju oracle, who saw your potential and taught you simple juju magic to influence the weak-minded for brief periods of time. You can use *daze* as a spell-like ability once per day, using your character level as your caster level (minimum 1). The save DC of this effect is Charisma-based. The dazed individual looks ashen and deathly for the duration of the effect.
+**Juju Apprentice** *(any juju or spirit-worship tradition)*: For a time during your childhood, you were left in the care of a juju oracle, who saw your potential and taught you simple juju magic to influence the weak-minded for brief periods of time. You can use [*daze*](../../magic/spells/daze.md) as a spell-like ability once per day, using your character level as your caster level (minimum 1). The save DC of this effect is Charisma-based. The dazed individual looks ashen and deathly for the duration of the effect.
 
 **Lessons of Luck** *(halfling deity of luck and daring)*: Your studies of your deity's exploits have given you a knack for avoiding trouble. Once per day, when you fail a saving throw, you can reroll the saving throw. You must take the second result even if it is worse.
 
@@ -128,7 +128,7 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Furious Vengeance** *(deity of vengeance)*: Once wronged, your vengeance can be swift and brutal. Once per day as an immediate action, you gain a +1 trait bonus on a single attack roll. In addition, if the target has damaged you within the last round, you deal 1 additional point of damage on a successful hit. You must choose to use this ability before making the attack roll.
 
-**Gifted Medium** *(deity of spirits and ancestors)*: Your understanding of your deity’s teachings makes you a perfect conduit for mystical forces. You gain a +1 trait bonus on your caster level when using divinations to reach out to other entities, such as *commune* or *speak with dead*.
+**Gifted Medium** *(deity of spirits and ancestors)*: Your understanding of your deity’s teachings makes you a perfect conduit for mystical forces. You gain a +1 trait bonus on your caster level when using divinations to reach out to other entities, such as [*commune*](../../magic/spells/commune.md) or [*speak with dead*](../../magic/spells/speak-with-dead.md).
 
 **Good-Natured** *(deity of freedom and ale)*: You have an unusually sunny spirit, and it takes something truly intimidating to dampen your mood. You gain a +2 trait bonus on saving throws against fear effects.
 
@@ -158,11 +158,11 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Light Sleeper** *(deity of rivers and travelers)*: Because of a blessing from your god, or worries inspired by the way he died as a mortal, you are a light sleeper. Your modifier to Perception DCs when sleeping is +5 instead of +10.
 
-**Light-Bringer** *(deity of the sun and redemption)*: You were born with a blessing of the dawn. Once per day, you can use *light* as a spell-like ability. Your caster level is equal to your character level.
+**Light-Bringer** *(deity of the sun and redemption)*: You were born with a blessing of the dawn. Once per day, you can use [*light*](../../magic/spells/light.md) as a spell-like ability. Your caster level is equal to your character level.
 
 **Lover of the Law** *(deity of law and trade)*: You have a strong belief in the righteousness of law and justice. You receive a +1 trait bonus on saving throws against charm and compulsion effects, and may attempt a new saving throw with an additional +1 bonus (for a total of +2) if you are directed to break the law.
 
-**Loyal Bond** *(deity of loyalty and service)*: You are at your best when you serve others. When you cast spells that offer protection to an ally at your expense (such as *shield other*) or spells whose duration is divided when shared among many (such as *water breathing* or any of the communal spells), you do so at +1 caster level.
+**Loyal Bond** *(deity of loyalty and service)*: You are at your best when you serve others. When you cast spells that offer protection to an ally at your expense (such as [*shield other*](../../magic/spells/shield-other.md)) or spells whose duration is divided when shared among many (such as [*water breathing*](../../magic/spells/water-breathing.md) or any of the communal spells), you do so at +1 caster level.
 
 **Magic’s Might** *(deity of magic)*: Your natural affinity for magic allows you to affect even those who resist it. You gain a +1 trait bonus on caster level checks to overcome spell resistance.
 
@@ -214,7 +214,7 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Split-Second Defense** *(deity of hope and uprising)*: When you are the target of an attack by an opponent that is flanking you, as an immediate action once per day you can foil that opponent’s attack. For that attack, the opponent does not gain any of the bonuses or effects that are associated with flanking.
 
-**Stabilizing Touch** *(deity of death, fate, and prophecy)*: You were born with the ability to stop the passage to death’s door. Once per day, you can use *stabilize* as a spell-like ability, but with a range of touch.
+**Stabilizing Touch** *(deity of death, fate, and prophecy)*: You were born with the ability to stop the passage to death’s door. Once per day, you can use [*stabilize*](../../magic/spells/stabilize.md) as a spell-like ability, but with a range of touch.
 
 **Steady Strength** *(deity of strength)*: Your strength training conditioned you to wearing heavy armor. When you wear medium or heavy armor, your armor check penalty on Strength-based skills is reduced by 2.
 
@@ -222,7 +222,7 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Strength’s Fanfare** *(deity of strength and protection)*: Songs of your glory and prowess bolster your strength. When you are the subject of any sonic effect that grants a morale bonus on attack or damage rolls, you also gain a +1 trait bonus on Strength-based skill checks; on combat maneuver checks to bull rush, grapple, and reposition; and to your CMD against those combat maneuvers.
 
-**Strict Judgment** *(deity of law and judgment)*: Your respect for the letter of the law bleeds into your spellcasting. Any spells you cast that prescribe certain behaviors with a consequence for breaking these directives (such as *mark of justice* or *geas*) have their save DC increased by 1.
+**Strict Judgment** *(deity of law and judgment)*: Your respect for the letter of the law bleeds into your spellcasting. Any spells you cast that prescribe certain behaviors with a consequence for breaking these directives (such as [*mark of justice*](../../magic/spells/mark-of-justice.md) or *geas*) have their save DC increased by 1.
 
 **Strip the Veils** *(deity of illusion and secrets)*: You are unusually perceptive when dealing with others. You gain a +1 trait bonus on Sense Motive checks, and Sense Motive is a class skill for you.
 
@@ -240,7 +240,7 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Thrill-Seeker** *(deity of dreams and travelers)*: Your deity has blessed you not just with a love of taking chances, but also the fortune to come out of such risky situations unscathed. Once per day, when you attempt an Acrobatics check, you can roll twice and take the better result. You must choose to use this ability before making the check.
 
-**Totemist** *(any totemism)*: You grew up in a culture where the touch of totem spirits was felt in everyday life, their subtle urgings constantly guiding you and keeping you safe. As a result, you learned quickly to ask for their help when trouble arises. Once per day, you may call upon your totem's wisdom as a standard action. You gain the benefits of *guidance*, except that the granted competence bonus is equal to half your character level (minimum +1). This is a supernatural ability.
+**Totemist** *(any totemism)*: You grew up in a culture where the touch of totem spirits was felt in everyday life, their subtle urgings constantly guiding you and keeping you safe. As a result, you learned quickly to ask for their help when trouble arises. Once per day, you may call upon your totem's wisdom as a standard action. You gain the benefits of [*guidance*](../../magic/spells/guidance.md), except that the granted competence bonus is equal to half your character level (minimum +1). This is a supernatural ability.
 
 **Traditionalist** *(any communal belief)*: You spent a part of your youth far away from your homeland and your people. The experience of being a stranger in a strange land taught you to appreciate the support and understanding of the other members of your communal belief, and to never take it for granted. Though you still respect other cultures, you have come to see the way in which your particular culture keeps the knowledge of your people and their history alive, and feel that you have a responsibility to guard their traditions even when you are far from home. You gain a +1 trait bonus on Knowledge (history) and Knowledge (local) checks, and one of those skills (your choice) becomes a class skill for you.
 
@@ -294,4 +294,4 @@ The following traits are common among those whose form of worship diverges from 
 
 **Natural Ritualist (Faith)**: You venerate nature, either by paying homage to your totem spirit or by appeasing the spirits around you. In return, the spirits bless your path. Once per week, you can build a small shrine of natural materials and pay your respects in a ritual that takes 15 minutes. Spellcasters can do this as part of their daily spell preparation. You gain a +2 trait bonus on Knowledge (nature) and Survival checks for 24 hours.
 
-**Self-Sustaining (Faith)**: As a follower of a tradition that preaches self-reliance, you make a point of not seeking divine aid for minor matters. When you gain this trait, choose one of the following 0-level spells: *create water*, *mending*, *purify food and drink*, or *stabilize*. You can cast this spell once per day as a spell-like ability, using your character level as your caster level. Once chosen, this selection can't change.
+**Self-Sustaining (Faith)**: As a follower of a tradition that preaches self-reliance, you make a point of not seeking divine aid for minor matters. When you gain this trait, choose one of the following 0-level spells: [*create water*](../../magic/spells/create-water.md), [*mending*](../../magic/spells/mending.md), [*purify food and drink*](../../magic/spells/purify-food-and-drink.md), or *stabilize*. You can cast this spell once per day as a spell-like ability, using your character level as your caster level. Once chosen, this selection can't change.

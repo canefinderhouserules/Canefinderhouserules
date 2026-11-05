@@ -38,7 +38,7 @@
 
 **Hatred** (100/200/300 XP): you hate someone: a hatred of a gender, of humanity, of a particular race, and so on. The larger the group and the more likely the interaction, the more XP. An orc who hates humans is worth 100; a character who hates women is worth 300; an elf who hates the horde is worth 200. In combat you must make a DC 14 Will save or go attack that person in some way. You take –4 on Diplomacy when talking to them and need a Bluff check to hide your annoyance.
 
-**Old Battle Wound** (150 XP): one of your old wounds never healed well. If you roll a natural 1 on any physical check (Athletics, Acrobatics, a combat maneuver, etc.), you suffer an effect similar to *pain strike*, cast by a wizard of your level.
+**Old Battle Wound** (150 XP): one of your old wounds never healed well. If you roll a natural 1 on any physical check (Athletics, Acrobatics, a combat maneuver, etc.), you suffer an effect similar to [*pain strike*](../../magic/spells/pain-strike.md), cast by a wizard of your level.
 
 **Lame** (750 XP): the character cannot use one leg well. They lose 5 feet of their maximum movement speed and take –4 on Acrobatics and Athletics checks. Difficult terrain is also more severe for them.
 

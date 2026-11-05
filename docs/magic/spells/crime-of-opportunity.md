@@ -8,4 +8,4 @@
 **Duration** 1 round  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-You awaken a sudden criminal impulse in the target, compelling it to commit a criminal act as if affected by the *crime wave* spell.
+You awaken a sudden criminal impulse in the target, compelling it to commit a criminal act as if affected by the [*crime wave*](crime-wave.md) spell.

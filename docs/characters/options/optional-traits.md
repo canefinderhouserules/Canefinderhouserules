@@ -70,7 +70,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 ## Faith
 
-**Chosen of the Goddess of Valor**: At your birth, your parents dedicated your soul to the goddess of valor to mold into a sword of her light. The goddess blessed you, granting you a gift of light to brighten your path through darkness and a fine sword with which to spread her will. You may cast *light* once per day as a spell-like ability (caster level 1st), and you begin play with a masterwork longsword. In addition, whenever *light* is cast upon this sword, the radius of *light* and its duration is doubled.
+**Chosen of the Goddess of Valor**: At your birth, your parents dedicated your soul to the goddess of valor to mold into a sword of her light. The goddess blessed you, granting you a gift of light to brighten your path through darkness and a fine sword with which to spread her will. You may cast [*light*](../../magic/spells/light.md) once per day as a spell-like ability (caster level 1st), and you begin play with a masterwork longsword. In addition, whenever *light* is cast upon this sword, the radius of *light* and its duration is doubled.
 
 **Covert Channeler**: Your mentor in a hidden caravan faith taught you to hide holy symbols quickly. You can draw or stow a holy symbol as a swift action.
 
@@ -84,7 +84,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Hex-Proof**: You’ve dealt too often with cruel fey magic, and so gain a +2 bonus on Will saves against hexes and fey creatures’ spells and spell-like abilities.
 
-**House of Green Mothers Pupil**: You studied at a jungle druid city’s center for druidic magic long enough to begin bonding with a familiar. You gain a +1 trait bonus on Handle Animal checks. You may substitute this trait for Iron Will as the prerequisite for the Familiar Bond feat.
+**House of Green Mothers Pupil**: You studied at a jungle druid city’s center for druidic magic long enough to begin bonding with a familiar. You gain a +1 trait bonus on Handle Animal checks. You may substitute this trait for [Iron Will](../../rules/feats/iron-will.md) as the prerequisite for the [Familiar Bond](../../rules/feats/familiar-bond.md) feat.
 
 ## Mount
 
@@ -110,7 +110,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Carrying Voice** (*Sylph*): You grew up amid powerful storms and mimicked the rolling thunder with your voice. Treat your caster level as 2 higher to determine the range of sonic spells and effects. Others do not suffer a penalty on Perception checks to hear your voice due to wind.
 
-**Celestial Community** (*Aasimar*): Having been raised among other aasimars, you have a stronger connection to your planar heritage than most of your kind, and have more thoroughly explored your magical talent. You may expend your once per day spell-like ability to spontaneously cast *cure light wounds* (CL equal to your character level), but doing so is draining and you take an amount of nonlethal damage equal to half the number of hit points you heal.
+**Celestial Community** (*Aasimar*): Having been raised among other aasimars, you have a stronger connection to your planar heritage than most of your kind, and have more thoroughly explored your magical talent. You may expend your once per day spell-like ability to spontaneously cast [*cure light wounds*](../../magic/spells/cure-light-wounds.md) (CL equal to your character level), but doing so is draining and you take an amount of nonlethal damage equal to half the number of hit points you heal.
 
 **Celestial Contact** (*Aasimar*): Witnessing a celestial intervention by your ancestor or a similar being inspired you with the power of good. Treat your caster level as 1 higher when you cast spells with the good descriptor.
 
@@ -258,7 +258,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Crusader Road Acolyte** (*a frontier fort or a frontier wood*): You trained with the hell knights at Fort Inevitable or the paladins of the goddess of valor at Fort Riverwatch. If you trained with the hell knights, you gain a +1 trait bonus on saving throws against chaotic spells and the spell-like abilities of chaotic outsiders. If you trained with the valor-goddess Paladins, you gain this bonus against evil spells and evil outsiders instead.
 
-**Cultist Lineage** (*the assassins’ isle*): Your parents were both Scarlet assassins and your family has a long tradition of service in the Scarlet cult. Your strict, fanatical upbringing and familiarity with murder have bestowed upon you an air of confidence and menace. This grants you a +1 trait bonus on Intimidate checks. If you act during the surprise round, as a free action during that round you can draw a light weapon (or two if you have the Two-Weapon Fighting feat) .
+**Cultist Lineage** (*the assassins’ isle*): Your parents were both Scarlet assassins and your family has a long tradition of service in the Scarlet cult. Your strict, fanatical upbringing and familiarity with murder have bestowed upon you an air of confidence and menace. This grants you a +1 trait bonus on Intimidate checks. If you act during the surprise round, as a free action during that round you can draw a light weapon (or two if you have the [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md) feat) .
 
 **Cyphermage Backer** (*the port of thieves*): You’ve sold relics to a Cyphermage in the past, and she’s agreed to assist you with future findings. When in the port of thieves, you can use your contact to gain information about artifacts and history. Treat this ability as a single Knowledge (arcana) or Knowledge (history) check with a skill bonus of +15. You may make this check once per day that you spend in the port of thieves. You can make a new check every day. Each time you do so, you can choose whether to use Knowledge (arcana) or Knowledge (history).
 
@@ -316,19 +316,19 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Merchant of the Eastern Capital** (*the desert satrapy*): You grew up among the market stalls of the greatest trading post in all the world, and can almost smell the value of an item before you touch it. You gain a +1 trait bonus to Appraise checks, and Appraise is always a class skill for you.
 
-**Obsequious Morsel** (*the necromancer’s realm*): Survival in the necromancer’s realm requires convincing your betters that you would be of more service to them if they let you live another day than if they turn you into an unliving thrall, and you have mastered the art of buying time against undead attacks. Once per day as a swift action, you can use *sanctuary* as a spell-like ability (caster level = your highest caster level, or 1st if you have no caster level), with a DC equal to 10 + 1/2 your caster level (minimum 0) + your Charisma modifier. Only undead must save to attack you (other creature types are not affected). The effect ends as soon as you attack a creature, as normal.
+**Obsequious Morsel** (*the necromancer’s realm*): Survival in the necromancer’s realm requires convincing your betters that you would be of more service to them if they let you live another day than if they turn you into an unliving thrall, and you have mastered the art of buying time against undead attacks. Once per day as a swift action, you can use [*sanctuary*](../../magic/spells/sanctuary.md) as a spell-like ability (caster level = your highest caster level, or 1st if you have no caster level), with a DC equal to 10 + 1/2 your caster level (minimum 0) + your Charisma modifier. Only undead must save to attack you (other creature types are not affected). The effect ends as soon as you attack a creature, as normal.
 
 **Peninsula Artist** (*an eastern peninsula*): You grew up in an eastern peninsula, and your artistic talents were cherished and honed from an early age. You have been nurtured on the artistic spirit of an eastern peninsula. Choose one Perform skill. You gain a +1 trait bonus on checks with that skill, and it becomes a class skill for you.
 
 **Prism Player** (*the free republic*): You’ve grown up playing the confusing game of prismatic and throw stones with accuracy and ease. You gain a +1 trait bonus on attack rolls with fistsized rocks or similarly shaped objects, and a +1 trait bonus on concentration checks.
 
-**Scion of the Ancient Flying-city** (*the southern jungle*): The blood of an ancient flying-city aeromancer flows through your veins. You gain a +2 bonus on concentration checks when casting flight spells such as *levitate*,* fly*, or* overland flight*. Once per day, you can use* message* as a spell-like ability.
+**Scion of the Ancient Flying-city** (*the southern jungle*): The blood of an ancient flying-city aeromancer flows through your veins. You gain a +2 bonus on concentration checks when casting flight spells such as [*levitate*](../../magic/spells/levitate.md),* fly*, or* overland flight*. Once per day, you can use* message* as a spell-like ability.
 
 **Scourge of the Seas** (*The pirate isles*): You have long appreciated the flamboyance and versatility of the whip, both as a weapon and a tool for enforcing discipline. When you wield a whip or scourge, you gain a +1 trait bonus on Intimidate checks. Additionally, once per day when you use a whip or scourge to perform a successful disarm or trip combat maneuver against an opponent, you regain 1 point of grit or panache.
 
 **Screaming Leap** (*Realm of the Mammoth Lords*): The rocky foothills of your homeland are ideal for staging leaping ambushes that leave your victims battered and routed. You gain a +1 trait bonus on melee damage rolls when you make a charge attack from higher ground. Once per day, when you make a charge attack from higher ground, you can use the Intimidate skill to demoralize your target as a swift action.
 
-**Shadow Shaman** (*the shadow realm*): Shamans in the shadowy kingdom of the shadow realm learn to speak with the spirits that live in shadow. Add *silent image* and* blur* to your shaman spell list as 1st- and 2nd-level spells, respectively.
+**Shadow Shaman** (*the shadow realm*): Shamans in the shadowy kingdom of the shadow realm learn to speak with the spirits that live in shadow. Add [*silent image*](../../magic/spells/silent-image.md) and* blur* to your shaman spell list as 1st- and 2nd-level spells, respectively.
 
 **Shaer** (*the desert satrapy native, native eastern speaker*): the desert satrapy is a land of poetry, and you have grown up immersed in the words and language of that culture. Your facility with the language is evident to all when you speak. You gain a +2 trait bonus on Bluff and Diplomacy checks when speaking with anyone fluent in eastern.
 
@@ -440,7 +440,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **The Pack**: You are blessed by the beasts that trail the caravan, which represent protection in numbers. You gain a +2 trait bonus on Handle Animal checks to teach animals tricks, and Handle Animal becomes a class skill for you.
 
-**The Patriarch**: Like the father of the Cosmic Caravan, you have an innate sense of direction. Three times per day, you can use *know direction* as a spell-like ability, treating your character level as your caster level.
+**The Patriarch**: Like the father of the Cosmic Caravan, you have an innate sense of direction. Three times per day, you can use [*know direction*](../../magic/spells/know-direction.md) as a spell-like ability, treating your character level as your caster level.
 
 **The Rider**: You are born under the auspice of the mounted caravan guard, whose very presence deters danger. Once per day, when you succeed at a Ride check, you can attempt an immediate Intimidate check against the nearest foe. If you fail this check, the DC of your next Intimidate check against that opponent does not increase (as it normally would).
 
@@ -452,7 +452,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 ## More Faction Traits
 
-**Force for Good**: Your good-aligned spells are especially powerful, and they function at +1 caster level. This trait makes your aura more powerful (one step higher), as outlined in the *detect evil* spell.
+**Force for Good**: Your good-aligned spells are especially powerful, and they function at +1 caster level. This trait makes your aura more powerful (one step higher), as outlined in the [*detect evil*](../../magic/spells/detect-evil.md) spell.
 
 **Proper Training**: Your time at the great explorers’ lodge has served you well. Choose either Knowledge (geography) or Knowledge (history). You gain a +1 trait bonus on all checks for the chosen skill, and the chosen skill becomes a class skill for you.
 

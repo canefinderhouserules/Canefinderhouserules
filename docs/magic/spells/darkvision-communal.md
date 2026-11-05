@@ -8,4 +8,4 @@
 **Duration** 1 hour/level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions like darkvision, except you may divide the duration in 1-hour intervals among the creatures touched.
+This spell functions like [*darkvision*](darkvision.md), except you may divide the duration in 1-hour intervals among the creatures touched.

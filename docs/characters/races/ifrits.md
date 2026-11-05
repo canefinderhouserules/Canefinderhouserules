@@ -42,7 +42,7 @@ The following racial traits may be selected instead of existing ifrit racial tra
 
 **Desert Mirage**: Ifrits thrive in the deserts of the world, where their keen instincts and resistance to heat give them a huge edge over their competitors. Those with this trait gain a +2 racial bonus on Stealth checks in desert environments and on saves to resist starvation and thirst. This racial trait replaces fire affinity.
 
-**Efreeti Magic**: Some ifrits inherit an efreeti ancestor’s ability to magically change a creature’s size. They can cast either *enlarge person* or *reduce person* (the ifrit chooses when using this ability) once per day as a spell-like ability (caster level equals the ifrit’s level). The ifrit can use this ability to affect other ifrits as though they were humanoid creatures. This racial trait replaces the spell-like ability racial trait.
+**Efreeti Magic**: Some ifrits inherit an efreeti ancestor’s ability to magically change a creature’s size. They can cast either [*enlarge person*](../../magic/spells/enlarge-person.md) or [*reduce person*](../../magic/spells/reduce-person.md) (the ifrit chooses when using this ability) once per day as a spell-like ability (caster level equals the ifrit’s level). The ifrit can use this ability to affect other ifrits as though they were humanoid creatures. This racial trait replaces the spell-like ability racial trait.
 
 **Fire in the Blood**: Ifrits with this racial trait mimic the healing abilities of the mephits, gaining fast healing 2 for 1 round anytime they take fire damage (whether or not this fire damage gets through their fire resistance). The ifrits can heal up to 2 hit points per level per day with this ability, after which it ceases to function. This racial trait replaces fire affinity.
 
@@ -113,7 +113,7 @@ An unusual number of ifrits hail from the burning mountains area, home to the re
 
 ### Mostly Human
 
-A few ifrits, oreads, sulis, sylphs, and undines have appearances much closer to those of their human ancestors; in fact, they may not even realize their true race. Such geniekin appear to be human, save perhaps minor features like unusual eye color, and they count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells such as *charm person* or *enlarge person*). These geniekin do not automatically gain their associated elemental language (but may select it as a bonus language if their Intelligence is high enough). This ability alters the geniekin’s type, subtype, and languages.
+A few ifrits, oreads, sulis, sylphs, and undines have appearances much closer to those of their human ancestors; in fact, they may not even realize their true race. Such geniekin appear to be human, save perhaps minor features like unusual eye color, and they count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells such as [*charm person*](../../magic/spells/charm-person.md) or *enlarge person*). These geniekin do not automatically gain their associated elemental language (but may select it as a bonus language if their Intelligence is high enough). This ability alters the geniekin’s type, subtype, and languages.
 
 
 ## More Favored Class Options

@@ -10,4 +10,4 @@
 
 An invisible cone of despair causes great sadness in the subjects. Each affected creature takes a –2 penalty on attack rolls, saving throws, ability checks, skill checks, and weapon damage rolls.
 
-*Crushing despair* counters and dispels *good hope*.
+*Crushing despair* counters and dispels [*good hope*](good-hope.md).

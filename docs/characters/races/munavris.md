@@ -16,7 +16,7 @@ A munavri is defined by her class levels—she doesn’t have racial Hit Dice. D
 
 **Light Blindness**: Munavris have the light blindness universal monster ability.
 
-**Advanced Object Reading (Su)** A munavri can instantly learn how to use almost any device. Once per day, she can select one weapon, suit of armor, or spell trigger item on which she has cast *object reading*. For a number of minutes equal to her character level, she is considered proficient with that item or can make use of the spell trigger device as if she were a spellcaster of the appropriate class.
+**Advanced Object Reading (Su)** A munavri can instantly learn how to use almost any device. Once per day, she can select one weapon, suit of armor, or spell trigger item on which she has cast [*object reading*](../../magic/spells/object-reading.md). For a number of minutes equal to her character level, she is considered proficient with that item or can make use of the spell trigger device as if she were a spellcaster of the appropriate class.
 
 **Spell Resistance**: A munavri has an amount of spell resistance equal to 8 + her total number of class levels.
 

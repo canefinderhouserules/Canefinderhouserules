@@ -8,7 +8,7 @@
 **Duration** 1 minute/level (D)  
 **Saving Throw** none; **Spell Resistance** yes (harmless)
 
-This spell functions like animal aspect, except you can either gain two aspects at once or one aspect that adds effects to the aspects that animal aspect grants, as described below.
+This spell functions like [*animal aspect*](animal-aspect.md), except you can either gain two aspects at once or one aspect that adds effects to the aspects that animal aspect grants, as described below.
 
 **Frog**: You gain a Swim speed equal to half your normal speed, and all the benefits of having a swim speed.
 

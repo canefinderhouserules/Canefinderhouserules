@@ -2,7 +2,7 @@
 
 
 
-***Granted Powers**: In strange and eldritch runes you find potent magic. You gain Scribe Scroll as a bonus feat.*
+***Granted Powers**: In strange and eldritch runes you find potent magic. You gain [Scribe Scroll](../../rules/feats/scribe-scroll.md) as a bonus feat.*
 
 *Blast Rune (Sp): As a standard action, you can create a blast rune in any adjacent square. Any creature entering this square takes 1d6 points of damage + 1 point for every two cleric levels you possess. This rune deals either acid, cold, electricity, or fire damage, decided when you create the rune. The rune is invisible and lasts a number of rounds equal to your cleric level or until discharged. You cannot create a blast rune in a square occupied by another creature. This rune counts as a 1st-level spell for the purposes of dispelling. It can be discovered with a DC 26 Perception skill check and disarmed with a DC 26 Disable Device skill check. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 

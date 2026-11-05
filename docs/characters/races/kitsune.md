@@ -16,11 +16,11 @@ Quick-witted and nimble, kitsune make excellent bards and rogues. It is not unco
 
 **Low-Light Vision (Ex)**: Kitsune can see twice as far as humans in conditions of dim light.
 
-**Change Shape (Su)**: A kitsune can assume the appearance of a specific single human form of the same sex. The kitsune always takes this specific form when she uses this ability. A kitsune in human form cannot use her bite attack, but gains a +10 racial bonus on Disguise checks made to appear human. Changing shape is a standard action. This ability otherwise functions as *alter self*, except that the kitsune does not adjust her ability scores.
+**Change Shape (Su)**: A kitsune can assume the appearance of a specific single human form of the same sex. The kitsune always takes this specific form when she uses this ability. A kitsune in human form cannot use her bite attack, but gains a +10 racial bonus on Disguise checks made to appear human. Changing shape is a standard action. This ability otherwise functions as [*alter self*](../../magic/spells/alter-self.md), except that the kitsune does not adjust her ability scores.
 
 **Agile (Ex)**: Kitsune receive a +2 racial bonus on Acrobatics checks.
 
-**Kitsune Magic (Ex/Sp)**: Kitsune add +1 to the DC of any saving throws against enchantment spells that they cast. Kitsune with a Charisma score of 11 or higher gain the following spell-like ability: 3/day—*dancing lights*.
+**Kitsune Magic (Ex/Sp)**: Kitsune add +1 to the DC of any saving throws against enchantment spells that they cast. Kitsune with a Charisma score of 11 or higher gain the following spell-like ability: 3/day—[*dancing lights*](../../magic/spells/dancing-lights.md).
 
 **Natural Weapons (Ex)**: In her natural form, a kitsune has a bite attack that deals 1d4 points of damage.
 

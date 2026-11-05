@@ -10,7 +10,7 @@ The following racial traits may be selected instead of existing boggard racial t
 
 **Leaper**: Boggards in some regions have legs better suited to explosive movement on land rather than swift propulsion underwater. Boggards with this trait are always considered to have a running start when attempting Acrobatics checks to jump, and their swim speeds are reduced by 15 feet.
 
-**Priest-King**: Boggards raised on a diet of blue dragonfly pulp sometimes develop into priest-kings. These boggards have only a +2 natural armor bonus but don't take the common boggard's –2 racial penalty to Dexterity and Intelligence. In addition, priest-kings receive a +4 racial bonus to Wisdom and gain the following spell-like abilities: 1/day—*fog cloud*, *jump*, *summon swarm*. The caster level for these effects is equal to the boggard's Hit Dice. This racial trait doesn't replace any of a boggard's other features, but it is extremely rare and available only at the GM's discretion.
+**Priest-King**: Boggards raised on a diet of blue dragonfly pulp sometimes develop into priest-kings. These boggards have only a +2 natural armor bonus but don't take the common boggard's –2 racial penalty to Dexterity and Intelligence. In addition, priest-kings receive a +4 racial bonus to Wisdom and gain the following spell-like abilities: 1/day—[*fog cloud*](../../magic/spells/fog-cloud.md), [*jump*](../../magic/spells/jump.md), [*summon swarm*](../../magic/spells/summon-swarm.md). The caster level for these effects is equal to the boggard's Hit Dice. This racial trait doesn't replace any of a boggard's other features, but it is extremely rare and available only at the GM's discretion.
 
 ## Favored Class Options
 

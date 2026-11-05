@@ -24,4 +24,4 @@ On the first round of the spell, the metal becomes chilly and uncomfortable to t
 
 Any heat intense enough to damage the creature negates cold damage from the spell (and vice versa) on a point-for-point basis. Underwater, *chill metal* deals no damage, but ice immediately forms around the affected metal, making it float if unattended.
 
-*Chill metal* counters and dispels *heat metal*.
+*Chill metal* counters and dispels [*heat metal*](heat-metal.md).

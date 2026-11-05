@@ -7,4 +7,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions as cacophonous call, except that it affects multiple creatures.
+This spell functions as [*cacophonous call*](cacophonous-call.md), except that it affects multiple creatures.

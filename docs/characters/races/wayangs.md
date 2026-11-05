@@ -18,7 +18,7 @@ The wayangs are a race of small supernatural humanoids who trace their ancestry 
 
 **Lurker**: Wayangs gain a +2 racial bonus on Perception and Stealth checks.
 
-**Shadow Magic**: Wayangs add +1 to the DC of any saving throws against spells of the shadow subschool that they cast. Wayangs with a Charisma score of 11 or higher also gain the following spell-like abilities: 1/day—*ghost sound*, *pass without trace*, and *ventriloquism*. The caster level for these effects is equal to the wayang’s level. The DC for these spells is equal to 10 + the spell’s level + the wayang’s Charisma modifier.
+**Shadow Magic**: Wayangs add +1 to the DC of any saving throws against spells of the shadow subschool that they cast. Wayangs with a Charisma score of 11 or higher also gain the following spell-like abilities: 1/day—[*ghost sound*](../../magic/spells/ghost-sound.md), [*pass without trace*](../../magic/spells/pass-without-trace.md), and [*ventriloquism*](../../magic/spells/ventriloquism.md). The caster level for these effects is equal to the wayang’s level. The DC for these spells is equal to 10 + the spell’s level + the wayang’s Charisma modifier.
 
 **Shadow Resistance**: Wayangs get a +2 racial bonus on saving throws against spells of the shadow subschool.
 
@@ -28,7 +28,7 @@ The wayangs are a race of small supernatural humanoids who trace their ancestry 
 
 The following racial trait may be selected instead of existing wayang racial traits. Consult your GM before selecting this new option.
 
-**Dissolution’s Child**: Once per day, you may change your appearance to look as if you were little more than a 4-foot-tall area of shadow. Your physical form still exists and you are not incorporeal—only your appearance changes. This works like *invisibility*, except it only lasts 1 round per level (maximum 5 rounds). This is a supernatural ability. This racial trait replaces shadow magic.
+**Dissolution’s Child**: Once per day, you may change your appearance to look as if you were little more than a 4-foot-tall area of shadow. Your physical form still exists and you are not incorporeal—only your appearance changes. This works like [*invisibility*](../../magic/spells/invisibility.md), except it only lasts 1 round per level (maximum 5 rounds). This is a supernatural ability. This racial trait replaces shadow magic.
 
 **Scion of Shadows**: Some wayangs retain an uncommonly powerful connection to the Plane of Shadow. A wayang with this racial trait counts as an outsider (native) and a humanoid (wayang) for any effect related to race, including feat prerequisites and spells that affect humanoids. In addition, attacks made against such a wayang in dim light have a 50% miss chance instead of the normal 20% miss chance. This ability doesn't grant total concealment; it only increases the miss chance. This racial trait replaces light and dark and shadow resistance.
 

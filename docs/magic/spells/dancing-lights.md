@@ -12,4 +12,4 @@ Depending on the version selected, you create up to four lights that resemble la
 
 You can only have one *dancing lights* spell active at any one time. If you cast this spell while another casting is still in effect, the previous casting is dispelled. If you make this spell permanent, it does not count against this limit.
 
-*Dancing lights* can be made permanent with a *permanency* spell.
+*Dancing lights* can be made permanent with a [*permanency*](permanency.md) spell.

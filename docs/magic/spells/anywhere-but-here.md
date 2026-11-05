@@ -8,7 +8,7 @@
 **Duration** instantaneous  
 **Saving Throw** Will negates (harmless); **Spell Resistance** no
 
-This spell functions similarly to *plane shift*, but instead of transporting the targets to a destination near an intended location on a specific plane, *anywhere but here* transports affected creatures to a random plane. A creature can be affected by *anywhere but here* only if it is currently not on its home plane (although targets can, by chance, end up traveling to their home plane as a result of this spell). Subjects always appear in a location that is not inherently harmful, but the exact destination is otherwise random. The specific plane is determined by the table below; the location on the destination plane where the transported creatures arrive is completely subject to the GM's whim.
+This spell functions similarly to [*plane shift*](plane-shift.md), but instead of transporting the targets to a destination near an intended location on a specific plane, *anywhere but here* transports affected creatures to a random plane. A creature can be affected by *anywhere but here* only if it is currently not on its home plane (although targets can, by chance, end up traveling to their home plane as a result of this spell). Subjects always appear in a location that is not inherently harmful, but the exact destination is otherwise random. The specific plane is determined by the table below; the location on the destination plane where the transported creatures arrive is completely subject to the GM's whim.
 
 | d% | Planar Destination |
 |---|---|

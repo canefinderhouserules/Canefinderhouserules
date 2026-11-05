@@ -10,7 +10,7 @@
 
 A *binding* spell creates a magical restraint to hold a creature. The target gets an initial saving throw only if its Hit Dice equal at least half your caster level.
 
-You may have as many as six assistants help you with the spell. For each assistant who casts *suggestion*, your caster level for this casting of *binding* increases by 1. For each assistant who casts *dominate animal, dominate person,* or *dominate monster,* your caster level for this casting of *binding* increases by a number equal to a third of that assistant’s level, provided that the spell’s target is appropriate for a *binding* spell. Since the assistants’ spells are cast simply to improve your caster level for the purpose of the *binding* spell, saving throws and spell resistance against the assistants’ spells are irrelevant. Your caster level determines whether the target gets an initial Will saving throw and how long the *binding* lasts. All *binding* spells are dismissible.
+You may have as many as six assistants help you with the spell. For each assistant who casts [*suggestion*](suggestion.md), your caster level for this casting of *binding* increases by 1. For each assistant who casts *dominate animal, dominate person,* or *dominate monster,* your caster level for this casting of *binding* increases by a number equal to a third of that assistant’s level, provided that the spell’s target is appropriate for a *binding* spell. Since the assistants’ spells are cast simply to improve your caster level for the purpose of the *binding* spell, saving throws and spell resistance against the assistants’ spells are irrelevant. Your caster level determines whether the target gets an initial Will saving throw and how long the *binding* lasts. All *binding* spells are dismissible.
 
 Regardless of the version of *binding* you cast, you can specify triggering conditions that end the spell and release the creature whenever they occur. These triggers can be as simple or elaborate as you desire, but the condition must be reasonable and have a likelihood of coming to pass. The conditions can be based on a creature’s name, identity, or alignment, but otherwise must be based on observable actions or qualities. Intangibles such as level, class, Hit Dice, or hit points don’t qualify. Once the spell is cast, its triggering conditions cannot be changed. Setting a release condition increases the save DC (assuming a saving throw is allowed) by 2.
 
@@ -18,7 +18,7 @@ If you cast any of the first three versions of *binding* (those with limited dur
 
 The *binding* spell has six versions. Choose one of the following versions when you cast the spell.
 
-*Chaining*: The subject is confined by restraints that generate an *antipathy* spell affecting all creatures who approach the subject, except you. The duration is 1 year per caster level. The subject of this form of *binding* is confined to the spot it occupied when it received the spell. Casting this version requires a chain that is long enough to wrap around the creature three times.
+*Chaining*: The subject is confined by restraints that generate an [*antipathy*](antipathy.md) spell affecting all creatures who approach the subject, except you. The duration is 1 year per caster level. The subject of this form of *binding* is confined to the spot it occupied when it received the spell. Casting this version requires a chain that is long enough to wrap around the creature three times.
 
 *Slumber*: This version causes the subject to become comatose for as long as 1 year per caster level. The subject does not need to eat or drink while slumbering, nor does it age. This form of *binding* is slightly easier to resist. Reduce the spell’s save DC by 1. Casting this version requires a jar of sand or rose petals. This is a sleep effect.
 
@@ -30,4 +30,4 @@ The *binding* spell has six versions. Choose one of the following versions when 
 
 *Minimus Containment*: The subject is shrunk to a height of 1 inch or less and held within some gem, jar, or similar object. The *binding* is permanent. The subject does not need to breathe, eat, or drink while contained, nor does it age. Reduce the save DC by 4.
 
-You can’t dispel a *binding* spell with *dispel magic* or a similar effect, though an *antimagic field* or *mage’s disjunction* affects it normally. A bound extraplanar creature cannot be sent back to its home plane by *dismissal, banishment,* or a similar effect.
+You can’t dispel a *binding* spell with [*dispel magic*](dispel-magic.md) or a similar effect, though an [*antimagic field*](antimagic-field.md) or [*mage’s disjunction*](mages-disjunction.md) affects it normally. A bound extraplanar creature cannot be sent back to its home plane by *dismissal, banishment,* or a similar effect.

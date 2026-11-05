@@ -14,4 +14,4 @@ Creatures of the designated kind or alignment feel an urge to leave the area or 
 
 A compulsion forces them to abandon the area or item, shunning it and never willingly returning to it while the spell is in effect. A creature that makes a successful saving throw can stay in the area or touch the item but feels uncomfortable doing so. This distracting discomfort reduces the creature’s Dexterity score by 4 points.
 
-*Antipathy* counters and dispels *sympathy*.
+*Antipathy* counters and dispels [*sympathy*](sympathy.md).

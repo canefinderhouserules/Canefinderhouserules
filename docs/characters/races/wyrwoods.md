@@ -10,9 +10,9 @@ The following racial traits can be selected instead of typical wyrwood racial tr
 
 **Experimental Body**: Some wyrwoods have been built from rare materials in an effort to imbue them with special properties. Choose one of the following abilities.
 
-- *Blessed*: These wyrwoods contain divine relics. Wyrwoods with this trait can use *divine favor* once per day as a spell-like ability with a caster level equal to their Hit Dice.
+- *Blessed*: These wyrwoods contain divine relics. Wyrwoods with this trait can use [*divine favor*](../../magic/spells/divine-favor.md) once per day as a spell-like ability with a caster level equal to their Hit Dice.
 - *Enchanted*: Crafted from the remnants of broken staves, wands and other items, these wyrwoods have a natural attunement to the arcane. Wyrwoods with this trait treat their Intelligence score as 2 higher for the purpose of determining bonus spells or extracts per day.
-- *Fey-Touched*: These wyrwoods have components that create a powerful link to the realm of the fey. Wyrwoods with this trait can use *charm animal* once per day as a spell-like ability with a caster level equal to their Hit Dice.
+- *Fey-Touched*: These wyrwoods have components that create a powerful link to the realm of the fey. Wyrwoods with this trait can use [*charm animal*](../../magic/spells/charm-animal.md) once per day as a spell-like ability with a caster level equal to their Hit Dice.
 - *Scorched*: These wyrwoods are built from the ruins of cities and structures destroyed by conflict. Once per day, after a successful melee attack against an enemy, wyrwoods with this trait can deal an additional number of points of damage equal to their Wisdom modifier as a free action. This replaces darkvision and low-light vision.
 
 **Living Machine**: Through generations of refining the techniques of creation, many young wyrwoods have become closer to organic beings than constructs. These wyrwoods are constructs with the living machine subtype. They gain a Constitution score and can be targeted by spells and effects that target living creatures or constructs, as well as those that require a Fortitude save. They are no longer immune to ability damage, ability drain, energy drain, exhaustion, or fatigue. Wyrwoods with this trait require sleep, but they do not need to breathe or eat. They are not destroyed when reduced to 0 hit points, instead becoming unconscious and stable. They are destroyed when reduced to a negative number of hit points equal to their Constitution score. They can be raised or resurrected when destroyed. This alters the wyrwood's creature type.
@@ -49,5 +49,5 @@ Wyrwoods can select from the following feats: [Consume Power](../../rules/feats/
 
 ### Repair Magic
 
-Some wyrwoods have developed magic to keep them more self-sufficient. They can use *make whole* as a spell-like ability once per day. This racial trait replaces darkvision.
+Some wyrwoods have developed magic to keep them more self-sufficient. They can use [*make whole*](../../magic/spells/make-whole.md) as a spell-like ability once per day. This racial trait replaces darkvision.
 

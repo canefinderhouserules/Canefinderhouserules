@@ -90,7 +90,7 @@ The settlement of the outer sea is a bizarre environment: a saltwater oasis for 
 
 ### Secret Magic
 
-Merfolk sometimes manifest magical powers they are unwilling to explain to nonmerfolk, leading scholars to speculate that the magic originates from the merfolk’s rumored eldritch patrons. Such merfolk have only a 40-foot swim speed, but they add +1 to the DC of any enchantment spells they cast, and if they have a Charisma score of 13 or higher, they gain the ability to cast the following spell-like abilities: At will—speak with animals (aquatic animals only); 1/day— *fins to feet* (self only), *hydraulic push*. This racial trait replaces the armor racial trait and alters the merfolk’s movement speed.
+Merfolk sometimes manifest magical powers they are unwilling to explain to nonmerfolk, leading scholars to speculate that the magic originates from the merfolk’s rumored eldritch patrons. Such merfolk have only a 40-foot swim speed, but they add +1 to the DC of any enchantment spells they cast, and if they have a Charisma score of 13 or higher, they gain the ability to cast the following spell-like abilities: At will—speak with animals (aquatic animals only); 1/day— [*fins to feet*](../../magic/spells/fins-to-feet.md) (self only), [*hydraulic push*](../../magic/spells/hydraulic-push.md). This racial trait replaces the armor racial trait and alters the merfolk’s movement speed.
 
 ### Unexpected Ally
 

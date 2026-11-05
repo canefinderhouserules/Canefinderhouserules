@@ -8,4 +8,4 @@
 **Duration** 1 minute/level (D)  
 **Saving Throw** none; **Spell Resistance** no
 
-You take on an aspect of an angelic being, including some of its physical characteristics. You gain low-light vision, resistance to acid 5, resistance to cold 5, and the benefits of *protection from evil*.
+You take on an aspect of an angelic being, including some of its physical characteristics. You gain low-light vision, resistance to acid 5, resistance to cold 5, and the benefits of [*protection from evil*](protection-from-evil.md).

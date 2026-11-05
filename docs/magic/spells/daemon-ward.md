@@ -8,4 +8,4 @@
 **Duration** 1 min./level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions like *death ward*, except as noted above and it only protects against these attacks from daemons.
+This spell functions like [*death ward*](death-ward.md), except as noted above and it only protects against these attacks from daemons.

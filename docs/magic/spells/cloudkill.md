@@ -12,7 +12,7 @@ This spell generates a bank of fog, similar to a *fog cloud,* except that its va
 
 A living creature with more than 6 HD takes 1d4 points of Constitution damage on your turn each round while in the cloud (a successful Fortitude save halves this damage). Holding one’s breath doesn’t help, but creatures immune to poison are unaffected by the spell.
 
-Unlike a *fog cloud*, the *cloudkill* moves away from you at 10 feet per round, rolling along the surface of the ground.
+Unlike a [*fog cloud*](fog-cloud.md), the *cloudkill* moves away from you at 10 feet per round, rolling along the surface of the ground.
 
 Figure out the cloud’s new spread each round based on its new point of origin, which is 10 feet farther away from the point of origin where you cast the spell.
 

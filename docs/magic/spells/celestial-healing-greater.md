@@ -8,4 +8,4 @@
 **Duration** 1 round/2 levels  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-As per *celestial healing*, except the target gains fast healing 4 and the target radiates the aura of a good cleric.
+As per [*celestial healing*](celestial-healing.md), except the target gains fast healing 4 and the target radiates the aura of a good cleric.

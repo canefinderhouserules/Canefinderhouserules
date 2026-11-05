@@ -2,14 +2,14 @@
 
 Regardless of where their fiendish blood comes from, most tieflings exhibit similar traits and abilities. The unpredictable manner in which fiendish essence combines with a mortal soul often makes it nearly impossible for the average person to tell a tiefling's heritage simply by looking. A few tieflings, however, retain more overt ties to the particular type of fiend that first corrupted their bloodlines.
 
-A player may choose one of the following ten heritages for her [tiefling](tieflings.md) character in place of the traditional tiefling racial features. Each heritage presents new ability modifiers, a spell-like ability, and skill modifiers that replace the default tiefling ability modifiers, *darkness* spell-like ability, and skilled racial trait, as well as a pair of custom race traits. Other tiefling racial traits (native outsider, darkvision, fiendish resistance, fiendish sorcery, and languages) are unchanged. Spell-like abilities from a heritage are usable once per day with a caster level equal to the tiefling's character level.
+A player may choose one of the following ten heritages for her [tiefling](tieflings.md) character in place of the traditional tiefling racial features. Each heritage presents new ability modifiers, a spell-like ability, and skill modifiers that replace the default tiefling ability modifiers, [*darkness*](../../magic/spells/darkness.md) spell-like ability, and skilled racial trait, as well as a pair of custom race traits. Other tiefling racial traits (native outsider, darkvision, fiendish resistance, fiendish sorcery, and languages) are unchanged. Spell-like abilities from a heritage are usable once per day with a caster level equal to the tiefling's character level.
 
 ## Asura-Spawn (Faultspawn)
 
 - **Ancestry**: Asura. **Typical Alignment**: LE.
 - **Ability Modifiers**: +2 Dexterity, +2 Wisdom, –2 Intelligence.
 - **Skill Modifiers**: +2 racial bonus on Appraise and Knowledge (local) checks.
-- **Spell-Like Ability**: *hideous laughter* 1/day.
+- **Spell-Like Ability**: [*hideous laughter*](../../magic/spells/hideous-laughter.md) 1/day.
 
 Lacking any sense of empathy or pity, faultspawn often abhor all ways of life but their own. They inflict severe emotional and physical pain on others, and never stop picking at the resulting psychological scars. Like their asura forebears, faultspawn revel when the gods or their worshipers fail, and take great pleasure in the defacement or destruction of holy sites that don't align with their individual viewpoints. This innate desire to taunt and ridicule people of opposing beliefs often extends to the art of maiming or utterly destroying whatever their opponents hold most dear. Physically, asura-spawn tend to have both masculine and feminine traits, and a considerable number are born hermaphrodites.
 
@@ -24,7 +24,7 @@ Lacking any sense of empathy or pity, faultspawn often abhor all ways of life bu
 - **Ancestry**: Daemon. **Typical Alignment**: NE.
 - **Ability Modifiers**: +2 Dexterity, +2 Intelligence, –2 Wisdom.
 - **Skill Modifiers**: +2 racial bonus on Disable Device and Sleight of Hand checks.
-- **Spell-Like Ability**: *death knell* 1/day.
+- **Spell-Like Ability**: [*death knell*](../../magic/spells/death-knell.md) 1/day.
 
 Dreary and pessimistic, grimspawn are so enthralled by death, disease, and dilapidation that they often dedicate themselves to ending lives from behind the scenes as macabre saboteurs. Like their daemon ancestors, they have a great fascination with sickness, decay, and all the ways mortals can die; as a way of distancing themselves from the realization that they too could suffer such scourges, they spend their lives as tourists of disaster. Grimspawn typically appear unhealthy and frail, displaying symptoms of various diseases such as a hacking cough, feverish body temperature, or unnaturally pale complexion, and all are painfully thin. They often arise in areas beset by disease, famine, civil unrest, or war.
 
@@ -39,7 +39,7 @@ Dreary and pessimistic, grimspawn are so enthralled by death, disease, and dilap
 - **Ancestry**: Demodand. **Typical Alignment**: CE.
 - **Ability Modifiers**: +2 Constitution, +2 Wisdom, –2 Intelligence.
 - **Skill Modifiers**: +2 racial bonus on Intimidate and Knowledge (religion) checks.
-- **Spell-Like Ability**: *bear's endurance* 1/day.
+- **Spell-Like Ability**: [*bear's endurance*](../../magic/spells/bears-endurance.md) 1/day.
 
 Crude and boorish, foulspawn take a particular delight in giving offense and scandalizing polite society. They enjoy violating taboos even more than breaking laws, especially if it means degrading or repulsing an innocent. Thanks to their demodand ancestry, foulspawn have a deep and abiding hatred of religion and conventional morality, rejecting any code of behavior that places limits on their actions, whether such restrictions be social, legal, or divine. They always have at least one physical trait that places them far outside the norm (grossly fat, skeletally thin, monstrously tall, or horrifically stunted), and all have terrible standards of personal cleanliness and grooming.
 
@@ -54,7 +54,7 @@ Crude and boorish, foulspawn take a particular delight in giving offense and sca
 - **Ancestry**: Demon. **Typical Alignment**: CE.
 - **Ability Modifiers**: +2 Strength, +2 Charisma, –2 Intelligence.
 - **Skill Modifiers**: +2 racial bonus on Disable Device and Perception checks.
-- **Spell-Like Ability**: *shatter* 1/day.
+- **Spell-Like Ability**: [*shatter*](../../magic/spells/shatter.md) 1/day.
 
 Pitborn delight in destruction, especially while unleashing their havoc on what others consider valuable or precious. Perhaps because of this volatility, others tend to simply defer to them, an act that often grants them the dominance they crave. The easily enraged pitborn usually find smashing something the quickest way to calm back down, and they revel not just in the spectacle of annihilation but also in the heady sense of power they get from ruining what others love or need. Born of chaos and mutation, pitborn always have at least one flaw that mars their bodies' symmetry, from differently colored eyes or an odd number of fingers to incompatible limbs or bizarre spines and scales adorning only one side of the body. All pitborn take extreme offense at their disfigurements being pointed out.
 
@@ -69,7 +69,7 @@ Pitborn delight in destruction, especially while unleashing their havoc on what 
 - **Ancestry**: Devil. **Typical Alignment**: LE.
 - **Ability Modifiers**: +2 Constitution, +2 Wisdom, –2 Charisma.
 - **Skill Modifiers**: +2 racial bonus on Diplomacy and Sense Motive checks.
-- **Spell-Like Ability**: *pyrotechnics* 1/day.
+- **Spell-Like Ability**: [*pyrotechnics*](../../magic/spells/pyrotechnics.md) 1/day.
 
 While often rigid, stubborn, and highly focused on sticking to plans and schedules, hellspawn also have a rare talent for penetrating others' facades. They know a lie when they hear one, and can often determine what hidden vice or secret shame motivates another. They are by far the most conservative and conformist of all the tiefling heritages, tending to accept their lot in life and seldom rebelling, instead finding their niches and quietly accumulating the wealth and power they crave. Their natural talent for identifying the dark appetites of others proves useful when climbing the social ladder. Hellspawn come closest to matching the stereotype of what a tiefling "should" look like: most have horns, a tail, and eyes with an odd color or unusually shaped pupils.
 
@@ -84,7 +84,7 @@ While often rigid, stubborn, and highly focused on sticking to plans and schedul
 - **Ancestry**: Div. **Typical Alignment**: NE.
 - **Ability Modifiers**: +2 Dexterity, +2 Charisma, –2 Intelligence.
 - **Skill Modifiers**: +2 racial bonus on Diplomacy and Linguistics checks.
-- **Spell-Like Ability**: *misdirection* 1/day.
+- **Spell-Like Ability**: [*misdirection*](../../magic/spells/misdirection.md) 1/day.
 
 An innate sense of jealousy and pure malice drives spitespawn to spread misery and despair. Unable to experience joy themselves, they devote their lives to promoting gloom, all the while hiding the hatefulness that lurks at their core. The ultimate false friends, they never feel true pleasure; the closest they can manage is a certain measure of smug satisfaction when they drive others to frustration and despair. Spitespawn often have a noticeable abnormality relating to their skin and, in some rare cases, their tongues: blotches, unusual pigmentation, pelts of thick hair, mobile bulges that lurk beneath the skin like burrowing insects, or unusually dry flesh that constantly sheds dust. Almost all must travel far from their homelands at some point, as their scams and treacheries inevitably catch up to them.
 
@@ -114,7 +114,7 @@ Shackleborn are fascinated by mutilation and torture. Though they prefer to prac
 - **Ancestry**: Oni. **Typical Alignment**: LE.
 - **Ability Modifiers**: +2 Strength, +2 Wisdom, –2 Charisma.
 - **Skill Modifiers**: +2 racial bonus on Disguise and Intimidate checks.
-- **Spell-Like Ability**: *alter self* 1/day.
+- **Spell-Like Ability**: [*alter self*](../../magic/spells/alter-self.md) 1/day.
 
 Endowed with brawny muscles and thick bones, hungerseed always seem poised to explode into some larger, more powerful form, and have a voracious appetite for sensory pleasures and carnal delights. They are natural bullies who prefer to use threats and force to get what they want rather than persuasion or tact; at best, such brashness tends to win them lackeys rather than actual friends. If thwarted by someone more powerful, they brood and bide their time, waiting for the perfect moment to stage a bloody rematch. Hungerseed are usually extremely tall and bulky compared to untainted humans, and when they experience strong emotions their muscles bulge and shift as they hold themselves back. Some have tusks that protrude from their mouths.
 
@@ -129,7 +129,7 @@ Endowed with brawny muscles and thick bones, hungerseed always seem poised to ex
 - **Ancestry**: Qlippoth. **Typical Alignment**: CE.
 - **Ability Modifiers**: +2 Strength, +2 Wisdom, –2 Intelligence.
 - **Skill Modifiers**: +2 racial bonus on Escape Artist and Survival checks.
-- **Spell-Like Ability**: *blur* 1/day.
+- **Spell-Like Ability**: [*blur*](../../magic/spells/blur.md) 1/day.
 
 No woman survives the birth of a babe whose qlippoth ancestry has emerged. At best, qlippoth-spawn rip their mothers apart during labor; at worst, they tear themselves out even earlier. Like their qlippoth forebears, the motherless instinctively despise mortals and their sins, but rather than turning toward virtue, such scorn drives them toward bitterness and cynicism. Jaded and leery loners, they see treachery and deceit behind every action and prefer to stab others in the back before they themselves are betrayed. They always display bizarre deformities at birth, such as barbed tentacles, oozing tumors, stunted appendages, or pieces of carapace. One of the rarest tiefling heritages, they tend to arise in clusters of half a dozen or so births over roughly the same time period.
 
@@ -144,7 +144,7 @@ No woman survives the birth of a babe whose qlippoth ancestry has emerged. At be
 - **Ancestry**: Rakshasa. **Typical Alignment**: LE.
 - **Ability Modifiers**: +2 Dexterity, +2 Charisma, –2 Wisdom.
 - **Skill Modifiers**: +2 racial bonus on Disguise and Sense Motive checks.
-- **Spell-Like Ability**: *detect thoughts* 1/day.
+- **Spell-Like Ability**: [*detect thoughts*](../../magic/spells/detect-thoughts.md) 1/day.
 
 Beastbrood regard themselves as deserving of appreciation and opulence. Through deceit and sheer willpower, they often achieve privileged stations in society. Like their rakshasa ancestors, they have a taste for luxury and the finer things in life. Predisposed toward arrogance, they believe that they innately deserve affluence and find any station below that of royalty beneath them; despite their haughty demeanor, they typically possess a natural charm that causes others to grant them the deference they consider their birthright. Their distinctive traits usually develop during adolescence and hint at an animalistic nature, including slit pupils, fangs, or coats of fur. Unlike most tieflings, beastbrood rarely feel a sense of isolation: even their bestial features, sleek and well groomed, usually grant them a feral glamor instead of leading to revulsion.
 

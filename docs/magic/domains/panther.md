@@ -6,6 +6,6 @@
 
 **Move in Darkness (Ex)**: At 8th level, in areas of normal or magical darkness, you gain a +2 bonus on Stealth skill checks and initiative checks for every 4 druid levels you possess, to a maximum bonus of +10 at 20th level.
 
-**Domain Spells**: 1st—*true strike*, 2nd—*darkness*, 3rd—*deeper darkness*, 4th—*moonstruck*, 5th—*commune with nature*, 6th—*mislead*, 7th—*true seeing*, 8th—*nine lives*, 9th—*greater spell immunity*.
+**Domain Spells**: 1st—[*true strike*](../spells/true-strike.md), 2nd—[*darkness*](../spells/darkness.md), 3rd—[*deeper darkness*](../spells/deeper-darkness.md), 4th—[*moonstruck*](../spells/moonstruck.md), 5th—[*commune with nature*](../spells/commune-with-nature.md), 6th—[*mislead*](../spells/mislead.md), 7th—[*true seeing*](../spells/true-seeing.md), 8th—[*nine lives*](../spells/nine-lives.md), 9th—*greater spell immunity*.
 
 This domain is available to druids.

@@ -8,4 +8,4 @@
 **Duration** 1 min./level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions like *bull’s strength*, except that it affects multiple creatures.
+This spell functions like [*bull’s strength*](bulls-strength.md), except that it affects multiple creatures.

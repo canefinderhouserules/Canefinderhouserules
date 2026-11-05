@@ -7,4 +7,4 @@
 **Duration** instantaneous  
 **Saving Throw** Reflex half; **Spell Resistance** yes
 
-This spell functions like *chain lightning*, except as noted above, and the spell deals fire damage instead of electricity damage.
+This spell functions like [*chain lightning*](chain-lightning.md), except as noted above, and the spell deals fire damage instead of electricity damage.

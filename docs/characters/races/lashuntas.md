@@ -16,7 +16,7 @@ Lashunta are defined by their class levels; they do not have racial Hit Dice. Th
 
 **Normal Speed**: Lashunta have a base speed of 30 feet.
 
-**Lashunta Magic (Su)**: A lashunta with an Intelligence score of 11 or higher gains the following spell-like abilities: at will—*daze*, *mage hand*; 1/day—*detect thoughts*. The caster level for these effects is equal to the lashunta's character level.
+**Lashunta Magic (Su)**: A lashunta with an Intelligence score of 11 or higher gains the following spell-like abilities: at will—[*daze*](../../magic/spells/daze.md), [*mage hand*](../../magic/spells/mage-hand.md); 1/day—[*detect thoughts*](../../magic/spells/detect-thoughts.md). The caster level for these effects is equal to the lashunta's character level.
 
 **Limited Telepathy (Su)**: A lashunta is able to mentally communicate with any creature within 30 feet with whom she shares a language. This is otherwise identical to telepathy.
 

@@ -7,4 +7,4 @@
 **Duration** 1 hour/level or until expended  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes (harmless)
 
-This spell functions as callback, except as noted above.
+This spell functions as [*callback*](callback.md), except as noted above.

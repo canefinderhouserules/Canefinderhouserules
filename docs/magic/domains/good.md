@@ -42,7 +42,7 @@
 
 ***Replacement Power**: The following granted power replaces the touch of chaos power of the Chaos domain or the touch of good power of the Good domain. Azatas are a race of chaotic good outsiders.*
 
-*Elysium’s Call (Su): As an immediate action with 30ft range, you can imbue a creature with the spirit of Elysium, lifting their spirits and freeing them from bonds. The creature can immediately reroll any failed saving throws against spells and spell-like abilities of the enchantment (charm) and enchantment (compulsion) subschools. In addition, target receive a +2 sacred bonus on such saving throws and a +2 sacred bonus on CMB checks to escape a grapple. Finally, target can ignore up to 5 feet of difficult terrain each round, as if they had the Nimble Moves feat. These bonuses last for a number of rounds equal to your cleric level, although the saving throw reroll only applies once. You can use this ability for a number of rounds per day equal to 3 + your Wisdom modifier.*
+*Elysium’s Call (Su): As an immediate action with 30ft range, you can imbue a creature with the spirit of Elysium, lifting their spirits and freeing them from bonds. The creature can immediately reroll any failed saving throws against spells and spell-like abilities of the enchantment (charm) and enchantment (compulsion) subschools. In addition, target receive a +2 sacred bonus on such saving throws and a +2 sacred bonus on CMB checks to escape a grapple. Finally, target can ignore up to 5 feet of difficult terrain each round, as if they had the [Nimble Moves](../../rules/feats/nimble-moves.md) feat. These bonuses last for a number of rounds equal to your cleric level, although the saving throw reroll only applies once. You can use this ability for a number of rounds per day equal to 3 + your Wisdom modifier.*
 
 ***Replacement Domain Spells**: 1st—expeditious retreat, 3rd—fly, 6th—planar ally (azata only).*
 
@@ -66,6 +66,6 @@
 
 ***Replacement Power**: The following granted power replaces the holy lance ability of the Good domain.*
 
-*Redemption (Su): At 4th level, you gain the Change of Heart feat, but you can use it with any type of attack, not only melee.*
+*Redemption (Su): At 4th level, you gain the [Change of Heart](../../rules/feats/change-of-heart.md) feat, but you can use it with any type of attack, not only melee.*
 
 ***Replacement Domain Spells**: 2nd—qualm, 4th—forced repentance, 5th—atonement*

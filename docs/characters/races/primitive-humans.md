@@ -26,7 +26,7 @@ Early humans were far more primitive than their modern descendants. While they s
 
 **Frightened by Magic**: Primitive humans are uneasy around magic, especially spells that have large, impressive effects. Whenever a primitive human is damaged or affected by a spell or supernatural ability that has an obvious visual component, the human is shaken for 1 round (subject to GM discretion). A primitive human that gains the ability to cast spells from a class feature is unaffected by this racial trait.
 
-**Primitive Feat**: Primitive humans receive Endurance, Fleet, Great Fortitude, Iron Will, Lightning Reflexes, or Toughness as a bonus feat at 1st level.
+**Primitive Feat**: Primitive humans receive Endurance, Fleet, [Great Fortitude](../../rules/feats/great-fortitude.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), or Toughness as a bonus feat at 1st level.
 
 **Savage Skills**: Primitive humans receive a +2 racial bonus on Climb, Survival, and Swim skill checks.
 

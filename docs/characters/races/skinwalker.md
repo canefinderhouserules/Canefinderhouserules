@@ -38,7 +38,7 @@ The racial ability score bonus and additional feature last as long as the skinwa
 
 A skinwalker can return to her humanoid form as a swift action. To change forms and gain a different benefit, a skinwalker must first return to her humanoid form, then use her shapechange ability again. A skinwalker can shapechange into bestial form a number of times per day equal to 3 + 1/2 her character level. Different skinwalker heritages (see below) allow skinwalker characters to select from different sets of bestial features.
 
-**Spell-Like Ability**: Skinwalkers with a Wisdom score of 11 or higher can use *speak with animals* once per day as a spell-like ability. The caster level for this ability is equal to the skinwalker's character level.
+**Spell-Like Ability**: Skinwalkers with a Wisdom score of 11 or higher can use [*speak with animals*](../../magic/spells/speak-with-animals.md) once per day as a spell-like ability. The caster level for this ability is equal to the skinwalker's character level.
 
 **Languages**: Skinwalkers begin play speaking Common. Skinwalkers with high Intelligence scores can choose from any language they want (other than secret languages).
 
@@ -55,7 +55,7 @@ A skinwalker of a specific heritage replaces or alters the following default rac
 - She gains bonuses and penalties to particular ability scores, but cannot select a different ability score to bolster each time she changes shape.
 - She gains a different spell-like ability, tied to her heritage.
 - She replaces the bonuses on Handle Animal and wild empathy checks with bonuses on other checks.
-- She gains access to a different, larger set of bestial features when in bestial form. When she changes shape she chooses one feature from her heritage's list unless she has Extra Feature or a similar ability.
+- She gains access to a different, larger set of bestial features when in bestial form. When she changes shape she chooses one feature from her heritage's list unless she has [Extra Feature](../../rules/feats/extra-feature.md) or a similar ability.
 
 Where a heritage lists skill bonuses, the skinwalker gains a +2 racial bonus on each, in place of the Animal-Minded bonus.
 
@@ -268,7 +268,7 @@ These skinwalkers are usually communal and defer readily to their superiors. The
 
 **Alternate Skill Modifiers** Fly, Perception at night
 
-**Alternate Spell-Like Ability** *obscuring mist* 1/day
+**Alternate Spell-Like Ability** [*obscuring mist*](../../magic/spells/obscuring-mist.md) 1/day
 
 **Bestial Features** Bite attack that deals 1d6 points of damage+4 racial bonus on Perception checksScent to a range of 30 feetTreat falling damage as if the distance fallen were 20 feet less than it actually is
 
@@ -280,7 +280,7 @@ Known and respected as the defenders of the wild in many parts of the Lands of t
 
 **Alternate Skill Modifiers** Climb, wild empathy
 
-**Alternate Spell-Like Ability** *calm animals* 1/day
+**Alternate Spell-Like Ability** [*calm animals*](../../magic/spells/calm-animals.md) 1/day
 
 **Bestial Features** Bite attack that deals 1d6 points of damage2 claw attacks that each deal 1d4 points of damageClimb speed of 20 feetScent to a range of 30 feet
 
@@ -304,7 +304,7 @@ Found most often in areas such as the pirate isles and the drowned lands, these 
 
 **Alternate Skill Modifiers** Stealth, wild empathy
 
-**Alternate Spell-Like Ability** *scare* 1/day
+**Alternate Spell-Like Ability** [*scare*](../../magic/spells/scare.md) 1/day
 
 **Bestial Features** Bite attack that deals 1d6 points of damageDarkvision to a range of 60 feetSwim speed of 30 feetFerocity
 
@@ -318,7 +318,7 @@ Found most often in areas such as the pirate isles and the drowned lands, these 
 
 **Alternate Skill Modifiers** Perception, Sense Motive
 
-**Alternate Spell-Like Ability** *feather fall* 1/day
+**Alternate Spell-Like Ability** [*feather fall*](../../magic/spells/feather-fall.md) 1/day
 
 **Bestial Features** Bite attack that deals 1d6 points of damage2 talon attacks that each deal 1d4 points of damage+4 racial bonus on Perception checksIncrease fly speeds from other sources by 10 feet
 
@@ -342,7 +342,7 @@ These unusual skinwalkers tend to be strong-willed and brisk in their patterns o
 
 **Alternate Skill Modifiers** Perception, Swim
 
-**Alternate Spell-Like Ability** *charm animal* (aquatic animals only) 3/day
+**Alternate Spell-Like Ability** [*charm animal*](../../magic/spells/charm-animal.md) (aquatic animals only) 3/day
 
 **Bestial Features** Breathe water as well as airBite attack that deals 1d6 points of damageFerocitySwim speed of 30 feet
 
@@ -354,7 +354,7 @@ More common in the distant south than the central sea region, these skinwalkers 
 
 **Alternate Skill Modifiers** Acrobatics, Perception
 
-**Alternate Spell-Like Ability** *jump* 1/day
+**Alternate Spell-Like Ability** [*jump*](../../magic/spells/jump.md) 1/day
 
 **Bestial Features** Bite attack that deals 1d6 points of damage2 claw attacks that each deal 1d4 points of damage+10-foot racial bonus to base speedSee in darkness
 
@@ -366,7 +366,7 @@ Perhaps the most prevalent breed of skinwalker, witchwolves prefer dwelling with
 
 **Alternate Skill Modifiers** Perception, wild empathy
 
-**Alternate Spell-Like Ability** *magic fang* 1/day
+**Alternate Spell-Like Ability** [*magic fang*](../../magic/spells/magic-fang.md) 1/day
 
 **Bestial Features** Bite attack that deals 1d6 points of damage2 claw attacks that each deal 1d4 points of damageDarkvision 60 feet+2 racial bonus on all saving throws
 

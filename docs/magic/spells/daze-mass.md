@@ -8,4 +8,4 @@
 **Duration** 1 round  
 **Saving Throw** will negates; **Spell Resistance** yes
 
-This spell functions as daze, except as noted above.
+This spell functions as [*daze*](daze.md), except as noted above.

@@ -7,4 +7,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-This spell functions as *binding earth*, except as noted above.
+This spell functions as [*binding earth*](binding-earth.md), except as noted above.

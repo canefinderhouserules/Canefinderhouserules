@@ -8,7 +8,7 @@
 **Duration** instantaneous  
 **Saving Throw** Reflex half; **Spell Resistance** yes
 
-This spell creates an electrical discharge that begins as a single stroke commencing from your fingertips. Unlike *lightning bolt*, *chain lightning* strikes one object or creature initially, then arcs to other targets.
+This spell creates an electrical discharge that begins as a single stroke commencing from your fingertips. Unlike [*lightning bolt*](lightning-bolt.md), *chain lightning* strikes one object or creature initially, then arcs to other targets.
 
 The bolt deals 1d6 points of electricity damage per caster level (maximum 20d6) to the primary target. After it strikes, lightning can arc to a number of secondary targets equal to your caster level (maximum 20). The secondary bolts each strike one target and deal as much damage as the primary bolt.
 

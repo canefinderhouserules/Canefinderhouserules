@@ -7,4 +7,4 @@
 **Duration** 1 day/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions like *charm person*, except that the effect is not restricted by creature type or size.
+This spell functions like [*charm person*](charm-person.md), except that the effect is not restricted by creature type or size.

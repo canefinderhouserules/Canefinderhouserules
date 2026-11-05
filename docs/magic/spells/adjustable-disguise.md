@@ -7,4 +7,4 @@
 **Target** you  
 **Duration** 10 minutes/level (D)
 
-This spell functions as disguise self, except as a swift action you can alter the disguise (within the limitations of disguise self). For example, you could make yourself look like a young human city guard, then an old elven wizard of the opposite gender, then a halfling thief, and so on. You can change the disguise a number of times equal to your caster level.
+This spell functions as [*disguise self*](disguise-self.md), except as a swift action you can alter the disguise (within the limitations of disguise self). For example, you could make yourself look like a young human city guard, then an old elven wizard of the opposite gender, then a halfling thief, and so on. You can change the disguise a number of times equal to your caster level.

@@ -6,7 +6,7 @@
 
 *Rebuke Death (Sp): You can touch a living creature as a standard action, healing it for 1d4 points of damage plus 1d4 for every two cleric levels you possess. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
-*Healer's Blessing (Su): At 6th level, all of your cure spells are treated as if they were empowered, increasing the amount of damage healed by half (+50%). This does not apply to damage dealt to undead with a cure spell. This does not stack with the Empower Spell metamagic feat.*
+*Healer's Blessing (Su): At 6th level, all of your cure spells are treated as if they were empowered, increasing the amount of damage healed by half (+50%). This does not apply to damage dealt to undead with a cure spell. This does not stack with the [Empower Spell](../../rules/feats/empower-spell.md) metamagic feat.*
 
 ***Domain Spells**: 1st—cure light wounds, 2nd—cure moderate wounds, 3rd—cure serious wounds, 4th—cure critical wounds, 5th—breath of life, 6th—heal, 7th—regenerate, 8th—mass cure critical wounds, 9th—mass heal.*
 

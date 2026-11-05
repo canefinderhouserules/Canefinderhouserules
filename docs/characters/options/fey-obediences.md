@@ -12,9 +12,9 @@ Fey lords are listed by their portfolio rather than by name.
 
 ### Feysworn Boons
 
-1. **Dark Seeds (Sp)**: *shadow weapon* 3/day, *death knell* 2/day, or *deeper darkness* 1/day
-2. **Shadow Travel (Sp)**: You are one with the shadows, using magic to move easily through the daylight world. You gain the ability to cast *shadow step* three times per day, as well as *shadow walk* once per day.
-3. **Shadow Army (Sp)**: Once per day, you can cast *shades*.
+1. **Dark Seeds (Sp)**: [*shadow weapon*](../../magic/spells/shadow-weapon.md) 3/day, [*death knell*](../../magic/spells/death-knell.md) 2/day, or [*deeper darkness*](../../magic/spells/deeper-darkness.md) 1/day
+2. **Shadow Travel (Sp)**: You are one with the shadows, using magic to move easily through the daylight world. You gain the ability to cast [*shadow step*](../../magic/spells/shadow-step.md) three times per day, as well as [*shadow walk*](../../magic/spells/shadow-walk.md) once per day.
+3. **Shadow Army (Sp)**: Once per day, you can cast [*shades*](../../magic/spells/shades.md).
 
 ## Fey lord of carnivorous plants, intrigue and seduction
 
@@ -22,9 +22,9 @@ Fey lords are listed by their portfolio rather than by name.
 
 ### Feysworn Boons
 
-1. **Compelling Presence (Sp)**: *charm person* 3/day, *enthrall* 2/day, or *suggestion* 1/day
-2. **Subtle Influence (Sp)**: You can cast *dominate person* three times per day, though you don’t need to share a common language with the target to give it complex commands.
-3. **Beguiling Touch (Sp)**: You can cast *dominate monster* once per day. If you make a successful touch attack against the target as part of the casting, the save DC of the spell increases by 2.
+1. **Compelling Presence (Sp)**: [*charm person*](../../magic/spells/charm-person.md) 3/day, [*enthrall*](../../magic/spells/enthrall.md) 2/day, or [*suggestion*](../../magic/spells/suggestion.md) 1/day
+2. **Subtle Influence (Sp)**: You can cast [*dominate person*](../../magic/spells/dominate-person.md) three times per day, though you don’t need to share a common language with the target to give it complex commands.
+3. **Beguiling Touch (Sp)**: You can cast [*dominate monster*](../../magic/spells/dominate-monster.md) once per day. If you make a successful touch attack against the target as part of the casting, the save DC of the spell increases by 2.
 
 ## Fey lord of complexity, fate and triplets
 
@@ -32,9 +32,9 @@ Fey lords are listed by their portfolio rather than by name.
 
 ### Feysworn Boons
 
-1. **Secret Knowledge (Sp)**: *identify* 3/day, *augury* 2/day, or *clairaudience/clairvoyance* 1/day
+1. **Secret Knowledge (Sp)**: [*identify*](../../magic/spells/identify.md) 3/day, [*augury*](../../magic/spells/augury.md) 2/day, or *clairaudience/clairvoyance* 1/day
 2. **Sight Beyond Time (Su)**: You constantly see a few moments down your own line of fate, and thus are never surprised or flat-footed. In addition, you gain a +2 insight bonus to AC and on Reflex saves.
-3. **Baleful Revelation (Sp)**: You can cast *prediction of failure* once per day.
+3. **Baleful Revelation (Sp)**: You can cast [*prediction of failure*](../../magic/spells/prediction-of-failure.md) once per day.
 
 ## Fey lord of endings, statues and twins
 
@@ -42,9 +42,9 @@ Fey lords are listed by their portfolio rather than by name.
 
 ### Feysworn Boons
 
-1. **Blessing of the Twins (Sp)**: *ill omen* 3/day, *mirror image* 2/day, or *hold person* 1/day
-2. **Statuesque (Sp)**: You can cast *statue* three times per day.
-3. **Endbringer (Sp)**: You can cast *storm of vengeance* once per day.
+1. **Blessing of the Twins (Sp)**: [*ill omen*](../../magic/spells/ill-omen.md) 3/day, [*mirror image*](../../magic/spells/mirror-image.md) 2/day, or [*hold person*](../../magic/spells/hold-person.md) 1/day
+2. **Statuesque (Sp)**: You can cast [*statue*](../../magic/spells/statue.md) three times per day.
+3. **Endbringer (Sp)**: You can cast [*storm of vengeance*](../../magic/spells/storm-of-vengeance.md) once per day.
 
 ## Fey lord of entropy, reincarnation and time
 
@@ -52,9 +52,9 @@ Fey lords are listed by their portfolio rather than by name.
 
 ### Feysworn Boons
 
-1. **Twist Time (Sp)**: *entropic shield* 3/day, *augury* 2/day, or *haste* 1/day
-2. **Borrowed Memories (Su)**: Once per day as a standard action, you can gain the effects of *legend lore*, save that the legends are recalled immediately and you gain the most complete level of knowledge (as if the person, place, or thing were at hand, regardless of its actual position). Your recollection of the legend takes the form of a memory borrowed from someone familiar with the subject matter.
-3. **Pause (Sp)**: You gain the ability to pause time for yourself or one creature you designate within 30 feet once per day. This functions as per *time stop* but with a duration of 1 round.
+1. **Twist Time (Sp)**: [*entropic shield*](../../magic/spells/entropic-shield.md) 3/day, *augury* 2/day, or [*haste*](../../magic/spells/haste.md) 1/day
+2. **Borrowed Memories (Su)**: Once per day as a standard action, you can gain the effects of [*legend lore*](../../magic/spells/legend-lore.md), save that the legends are recalled immediately and you gain the most complete level of knowledge (as if the person, place, or thing were at hand, regardless of its actual position). Your recollection of the legend takes the form of a memory borrowed from someone familiar with the subject matter.
+3. **Pause (Sp)**: You gain the ability to pause time for yourself or one creature you designate within 30 feet once per day. This functions as per [*time stop*](../../magic/spells/time-stop.md) but with a duration of 1 round.
 
 ## Fey lord of forgotten things, sadness and solitude
 
@@ -62,9 +62,9 @@ Fey lords are listed by their portfolio rather than by name.
 
 ### Feysworn Boons
 
-1. **Knowledge of the Lost (Sp)**: *identify* 3/day, *locate object* 2/day, or *crushing despair* 1/day
-2. **Forgetfulness (Sp)**: Three times per day as a standard action, you can alter a creature’s memories as per *modify memory*, except that doing so takes only a standard action regardless of how much time is edited. By expending two uses of this ability at once, you can modify up to 1 hour of the creature’s memory; by expending all three uses at once, you can modify up to 1 day.
-3. **Absolute Solitude (Sp)**: Once per day, you can cast *imprisonment*.
+1. **Knowledge of the Lost (Sp)**: *identify* 3/day, [*locate object*](../../magic/spells/locate-object.md) 2/day, or [*crushing despair*](../../magic/spells/crushing-despair.md) 1/day
+2. **Forgetfulness (Sp)**: Three times per day as a standard action, you can alter a creature’s memories as per [*modify memory*](../../magic/spells/modify-memory.md), except that doing so takes only a standard action regardless of how much time is edited. By expending two uses of this ability at once, you can modify up to 1 hour of the creature’s memory; by expending all three uses at once, you can modify up to 1 day.
+3. **Absolute Solitude (Sp)**: Once per day, you can cast [*imprisonment*](../../magic/spells/imprisonment.md).
 
 ## Fey lord of laughter, mischief and transformation
 
@@ -72,9 +72,9 @@ Fey lords are listed by their portfolio rather than by name.
 
 ### Feysworn Boons
 
-1. **Prankster's Touch**: *disguise self* 3/day, *hideous laughter* 2/day, or *suggestion* 1/day
-2. **Transform Others**: You can cast *polymorph any object* once per day.
-3. **Anyone and Anything (Sp)**: You can cast *shapechange* once per day.
+1. **Prankster's Touch**: [*disguise self*](../../magic/spells/disguise-self.md) 3/day, [*hideous laughter*](../../magic/spells/hideous-laughter.md) 2/day, or *suggestion* 1/day
+2. **Transform Others**: You can cast [*polymorph any object*](../../magic/spells/polymorph-any-object.md) once per day.
+3. **Anyone and Anything (Sp)**: You can cast [*shapechange*](../../magic/spells/shapechange.md) once per day.
 
 ## Fey lord of linnorms, oceans and spirals
 
@@ -82,9 +82,9 @@ Fey lords are listed by their portfolio rather than by name.
 
 ### Feysworn Boons
 
-1. **Water Mastery (Sp)**: *marid’s mastery* 3/day, *aboleth’s lung* 2/day, or *hydraulic torrent* 1/day
+1. **Water Mastery (Sp)**: [*marid’s mastery*](../../magic/spells/marid-s-mastery.md) 3/day, [*aboleth’s lung*](../../magic/spells/aboleth-s-lung.md) 2/day, or [*hydraulic torrent*](../../magic/spells/hydraulic-torrent.md) 1/day
 2. **At Home in Water (Sp)**: You gain a swim speed of 30 feet. If you already have a swim speed, increase it by 10 feet.
-3. **Wear the Sea (Sp)**: You can cast *seamantle* once per day.
+3. **Wear the Sea (Sp)**: You can cast [*seamantle*](../../magic/spells/seamantle.md) once per day.
 
 ## Fey lord of seasons, secrets and wanderers
 
@@ -92,9 +92,9 @@ Fey lords are listed by their portfolio rather than by name.
 
 ### Feysworn Boons
 
-1. **Pass Freely (Sp)**: *expeditious retreat* 3/day, *invisibility* 2/day, or *blink* 1/day
-2. **Planeswalker (Sp)**: You gain the ability to cast *plane shift* once per day.
-3. **Home at the Crossroads (Sp)**: Once per day, you can cast *maze*—the resulting extradimensional labyrinth takes the form of an endless network of empty roads running through a lonely forest. Conversely, you can also choose to target yourself with this ability, in which case you travel to the same extradimensional crossroads yourself, along with any willing targets within 100 feet, and can stay there indefinitely without needing food or drink. Anyone brought there by this second method can leave the crossroads at any time by willing it, but cannot return without another use of this ability.
+1. **Pass Freely (Sp)**: [*expeditious retreat*](../../magic/spells/expeditious-retreat.md) 3/day, [*invisibility*](../../magic/spells/invisibility.md) 2/day, or [*blink*](../../magic/spells/blink.md) 1/day
+2. **Planeswalker (Sp)**: You gain the ability to cast [*plane shift*](../../magic/spells/plane-shift.md) once per day.
+3. **Home at the Crossroads (Sp)**: Once per day, you can cast [*maze*](../../magic/spells/maze.md)—the resulting extradimensional labyrinth takes the form of an endless network of empty roads running through a lonely forest. Conversely, you can also choose to target yourself with this ability, in which case you travel to the same extradimensional crossroads yourself, along with any willing targets within 100 feet, and can stay there indefinitely without needing food or drink. Anyone brought there by this second method can leave the crossroads at any time by willing it, but cannot return without another use of this ability.
 
 ## Fey lord of complexity, fate and triplets
 

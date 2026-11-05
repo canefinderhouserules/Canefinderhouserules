@@ -128,7 +128,6 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Imbue with Elemental Might](imbue-with-elemental-might.md)**: School evocation [see text]; Level cleric 2, magus 2, sorcerer/wizard 2 Components V, S Duration 24 hours or.
 - **[Instant Weapon](instant-weapon.md)**: Create a masterwork melee weapon of force.
 - **[Invisibility Bubble](invisibility-bubble.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
-- **[Invisibility Bubble, Mass](invisibility-bubble-mass.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
 - **[Knell of the Depths](knell-of-the-depths.md)**: Curse: the target sinks in water.
 - **[Light Prison](light-prison.md)**: Cage of light damages and blinds those who leave it.
 - **[Molten Orb](molten-orb.md)**: You create a fist-sized, red-hot ball of molten metal that you immediately hurl as a splash weapon.

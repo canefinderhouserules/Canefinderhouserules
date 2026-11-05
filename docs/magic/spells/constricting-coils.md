@@ -8,4 +8,4 @@
 **Duration** 1 round/level (D); see text  
 **Saving Throw** Will negates; see text; **Spell Resistance** yes
 
-This spell functions like *hold monster*, except that the target is constricted as if by the coils of a large snake, taking 1d6+6 points of bludgeoning damage each round that it fails its save. A successful save ends both the paralyzing and constriction effects.
+This spell functions like [*hold monster*](hold-monster.md), except that the target is constricted as if by the coils of a large snake, taking 1d6+6 points of bludgeoning damage each round that it fails its save. A successful save ends both the paralyzing and constriction effects.

@@ -2,7 +2,7 @@
 
 Most aasimars do not know exactly where their celestial powers came from, and the similar qualities of many such celestially touched beings hint at a relatively indistinct or all-encompassing heavenly force in their lineage. Some, however, possess more unique traits and abilities inherited from their supernal forebears, attributes that hint at the precise type of celestial being that affected their ancestors. Any good outsider can introduce its blessing into a humanoid bloodline, and many families forget or never learn the true nature of the outsider that touched them.
 
-Players may choose one of the following six heritages for their aasimar characters in place of the traditional [aasimar](aasimars.md) racial features. Each heritage presents new ability modifiers, a spell-like ability, and skill modifiers that replace the default aasimar ability modifiers, *daylight* spell-like ability, and skilled racial trait, as well as a pair of custom race traits. A heritage is not a straitjacket: variation exists within heritages as much as between them, and many aasimars go through their lives without knowing what their heritage truly is. If you choose a specific heritage, work with your GM to ensure that your character's appearance reflects that bloodline.
+Players may choose one of the following six heritages for their aasimar characters in place of the traditional [aasimar](aasimars.md) racial features. Each heritage presents new ability modifiers, a spell-like ability, and skill modifiers that replace the default aasimar ability modifiers, [*daylight*](../../magic/spells/daylight.md) spell-like ability, and skilled racial trait, as well as a pair of custom race traits. A heritage is not a straitjacket: variation exists within heritages as much as between them, and many aasimars go through their lives without knowing what their heritage truly is. If you choose a specific heritage, work with your GM to ensure that your character's appearance reflects that bloodline.
 
 All other aasimar racial traits (native outsider, darkvision, celestial resistance, languages, and so on) are unchanged. Spell-like abilities from a heritage are usable once per day with a caster level equal to the aasimar's character level.
 
@@ -30,7 +30,7 @@ Angelkin possess exceptional beauty, and they serve as mortal exemplars of good 
 - **Ancestry**: Angel. **Typical Alignment**: Any good.
 - **Ability Modifiers**: +2 Strength, +2 Charisma.
 - **Skill Modifiers**: +2 racial bonus on Heal and Knowledge (planes) checks.
-- **Spell-Like Ability**: *alter self* 1/day.
+- **Spell-Like Ability**: [*alter self*](../../magic/spells/alter-self.md) 1/day.
 
 Angel-blooded aasimars follow the righteous paths their celestial ancestors walked, and are as varied as angels in how they go about their virtuous duties, split evenly among those who embrace law, neutrality, or chaos. Of all the aasimars, angelkin are the type who perhaps most often clash with tieflings: they have difficulty embracing the idea of harmony with their corrupt cousins, and most see tieflings as embodiments of evil that can never be trusted. Many feel called to the life of a crusader or paladin.
 
@@ -47,7 +47,7 @@ Lawbringers are champions of justice and of doling out punishment to the wicked,
 - **Ancestry**: Archon. **Typical Alignment**: LG.
 - **Ability Modifiers**: +2 Dexterity, +2 Charisma.
 - **Skill Modifiers**: +2 racial bonus on Intimidate and Sense Motive checks.
-- **Spell-Like Ability**: *continual flame* 1/day.
+- **Spell-Like Ability**: [*continual flame*](../../magic/spells/continual-flame.md) 1/day.
 
 Lawbringers reflect the patience of their archon ancestors in their daily lives; they understand the need for rules and routines, and use their inherent discipline to train in their chosen field as they seek to do good. They develop their talents faster than most of their peers and show exceptional skill at whatever they focus their attention on. They feel most comfortable in regions where a clear hierarchy and system of justice exists, and tyrannical regimes that keep their people in line through repression infuriate them; they seek the most legitimate and least destructive ways to neutralize such governments.
 
@@ -64,7 +64,7 @@ The musetouched epitomize freedom and joy, and travel the world to liberate less
 - **Ancestry**: Azata. **Typical Alignment**: CG.
 - **Ability Modifiers**: +2 Constitution, +2 Wisdom.
 - **Skill Modifiers**: +2 racial bonus on Diplomacy and Perform checks.
-- **Spell-Like Ability**: *glitterdust* 1/day.
+- **Spell-Like Ability**: [*glitterdust*](../../magic/spells/glitterdust.md) 1/day.
 
 The capricious aasimars known as musetouched are the most likely of their kind to be found adventuring throughout lands both civilized and remote. Imbued with an undeniable spirit of wanderlust, they feel the constant urge to explore new places, meet new people, and ferret out evil and corruption wherever it lurks. Musetouched tend to be among the most beautiful of aasimars by most humans' standards, with features such as long, thick hair of a seemingly impossible hue and limpid, jewel-toned eyes. They are commonly possessed of innate musical talent, and many train as bards while they wander.
 
@@ -81,7 +81,7 @@ Their shimmering avian features make plumekith instantly recognizable. Though th
 - **Ancestry**: Garuda. **Typical Alignment**: CG.
 - **Ability Modifiers**: +2 Dexterity, +2 Wisdom.
 - **Skill Modifiers**: +2 racial bonus on Acrobatics and Fly checks.
-- **Spell-Like Ability**: *see invisibility* 1/day.
+- **Spell-Like Ability**: [*see invisibility*](../../magic/spells/see-invisibility.md) 1/day.
 
 Garudas are noble but impetuous birdlike celestials, and most garuda-blooded aasimars grow graceful feathers during puberty. The majority have shimmering wings of virtually any shade, ranging from metallic colors to muted hues to pure white, or rarely, glossy black. Plumekith are sometimes born with taloned fingers or toes, and occasionally eyes like those of an eagle. Like their celestial ancestors, they take action at the spur of the moment when their abilities seem needed, rushing into the heat of battle to face evildoers and only stopping to ask questions afterward. Plumekith often have an extreme hatred for nagas and other snakelike creatures, and are drawn to high, mountainous regions.
 
@@ -98,7 +98,7 @@ Masters of fire magic, emberkin feel the dual pull of their peri forebear as wel
 - **Ancestry**: Peri. **Typical Alignment**: NG.
 - **Ability Modifiers**: +2 Intelligence, +2 Charisma.
 - **Skill Modifiers**: +2 racial bonus on Knowledge (planes) and Spellcraft checks.
-- **Spell-Like Ability**: *pyrotechnics* 1/day.
+- **Spell-Like Ability**: [*pyrotechnics*](../../magic/spells/pyrotechnics.md) 1/day.
 
 Emberkin reveal their divine heritage through their skill with fire-based magic and their desire to repent for others' sins. Many suffer from frequent nightmares and strange impulses to commit spontaneous acts of evil. They typically have igneous features such as wispy auburn hair and bright amber eyes, and a rare few are born with albino skin. Emberkin often feel an insatiable need to continually perform acts of good, though perhaps more so than most of their celestial kith they have a propensity to revolt against their benevolent predisposition and follow a darker path. Such wicked individuals are dangerous, and are both pitied and hunted down by their aasimar brethren.
 

@@ -25,4 +25,4 @@ This spell blesses an area with positive energy. The DC to resist positive chann
 
 You cannot consecrate an area with a similar fixture of a deity other than your own patron. Instead, the *consecrate* spell curses the area, cutting off its connection with the associated deity or power. This secondary function, if used, does not also grant the bonuses and penalties relating to undead, as given above.
 
-*Consecrate* counters and dispels *desecrate*.
+*Consecrate* counters and dispels [*desecrate*](desecrate.md).

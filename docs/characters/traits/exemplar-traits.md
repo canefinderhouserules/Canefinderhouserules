@@ -1,6 +1,6 @@
 # Exemplar Traits
 
-Exemplar traits are a variety of trait modeled on legendary heroes. A character can have only one exemplar trait, and selecting an exemplar trait takes the place of two regular traits. Each exemplar trait is tied to a trait category, such as combat traits or regional traits; a character with an exemplar trait is no longer restricted to a single trait of that category and can select any number of such traits when gaining further traits. In addition, a character with an exemplar trait can select the Additional Traits feat any number of times and use the feat to gain an exemplar trait of a valid trait category for which she qualifies.
+Exemplar traits are a variety of trait modeled on legendary heroes. A character can have only one exemplar trait, and selecting an exemplar trait takes the place of two regular traits. Each exemplar trait is tied to a trait category, such as combat traits or regional traits; a character with an exemplar trait is no longer restricted to a single trait of that category and can select any number of such traits when gaining further traits. In addition, a character with an exemplar trait can select the [Additional Traits](../../rules/feats/additional-traits.md) feat any number of times and use the feat to gain an exemplar trait of a valid trait category for which she qualifies.
 
 Each of the following entries describes the kind of hero that serves as a model for the exemplar.
 
@@ -8,7 +8,7 @@ Each of the following entries describes the kind of hero that serves as a model 
 
 A knight and war leader known for seeking peaceful resolutions whenever possible, but whose martial prowess was unmatched when diplomacy failed. Wielding a lash of liquid fire like an artist's brush, such a hero carves a path through whole hordes and defeats enemy champions in single combat.
 
-**Artist of Battle in All Forms (Combat Exemplar)**: You employ complex combat tactics with ease. Choose a type of combat maneuver. You gain a +1 trait bonus on combat maneuver checks to perform that maneuver, and you do not provoke an attack of opportunity from the target unless that creature has the appropriate Improved feat, such as Improved Grapple if you attempt a combat maneuver check to grapple. For every two other combat traits you have, choose an additional type of combat maneuver to gain these benefits.
+**Artist of Battle in All Forms (Combat Exemplar)**: You employ complex combat tactics with ease. Choose a type of combat maneuver. You gain a +1 trait bonus on combat maneuver checks to perform that maneuver, and you do not provoke an attack of opportunity from the target unless that creature has the appropriate Improved feat, such as [Improved Grapple](../../rules/feats/improved-grapple.md) if you attempt a combat maneuver check to grapple. For every two other combat traits you have, choose an additional type of combat maneuver to gain these benefits.
 
 ## The Faithful Paragon
 

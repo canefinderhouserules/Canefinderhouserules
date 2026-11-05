@@ -79,7 +79,7 @@ Drawbacks are gained either by choosing them or through the [background generato
 
 **Too Many Secrets**: You’ve told too many lies, and made up too many cover stories, and now even you can’t keep it all straight. The lies have become reality to you, which makes it difficult to think of a new convincing lie. You hesitate at crucial moments when trying to fool those around you, and likely shouldn’t be in the field at all anymore. You take a –2 penalty on Bluff checks and saving throws against illusions.
 
-**Umbral Unmasking**: You cast no shadow whatsoever, or the shadow you do have is monstrous. Under normal lighted conditions, this is not hard to observe—but uncommon to notice. Creatures that succeed at a DC 15 Wisdom check notice it plainly (an additional Perception check may be required based on environmental conditions). This telltale sign of wickedness cannot be concealed by misdirection, *nondetection*, or illusions, except those that also affect shadows (such as *invisibility*).
+**Umbral Unmasking**: You cast no shadow whatsoever, or the shadow you do have is monstrous. Under normal lighted conditions, this is not hard to observe—but uncommon to notice. Creatures that succeed at a DC 15 Wisdom check notice it plainly (an additional Perception check may be required based on environmental conditions). This telltale sign of wickedness cannot be concealed by misdirection, [*nondetection*](../../magic/spells/nondetection.md), or illusions, except those that also affect shadows (such as [*invisibility*](../../magic/spells/invisibility.md)).
 
 **Vain**: You are sensitive about the way others perceive you. Whenever you fail an opposed Charisma-based check, you take a –2 penalty on all Charisma-based checks for the next 24 hours.
 

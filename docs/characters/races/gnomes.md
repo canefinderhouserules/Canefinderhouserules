@@ -24,7 +24,7 @@ Gnomes trace their lineage back to the mysterious realm of the fey, a place wher
 
 **Defensive Training**: Gnomes get a +4 dodge bonus to AC against monsters of the giant subtype.
 
-**Gnome Magic**: Gnomes add +1 to the DC of any saving throws against illusion spells that they cast. Gnomes with a Charisma of 11 or higher also gain the following spell-like abilities: 1/day—*dancing lights, ghost sound*, *prestidigitation*, and *speak with animals*. The caster level for these effects is equal to the gnome’s level. The DC for these spells is equal to 10 + the spell’s level + the gnome’s Charisma modifier.
+**Gnome Magic**: Gnomes add +1 to the DC of any saving throws against illusion spells that they cast. Gnomes with a Charisma of 11 or higher also gain the following spell-like abilities: 1/day—*dancing lights, ghost sound*, [*prestidigitation*](../../magic/spells/prestidigitation.md), and [*speak with animals*](../../magic/spells/speak-with-animals.md). The caster level for these effects is equal to the gnome’s level. The DC for these spells is equal to 10 + the spell’s level + the gnome’s Charisma modifier.
 
 **Hatred**: Gnomes receive a +1 bonus on attack rolls against humanoid creatures of the reptilian and goblinoid subtypes due to special training against these hated foes.
 
@@ -64,7 +64,7 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Explorer**: Many gnomes are obsessed with seeing as much of the world as possible, rather than perfecting some specific talent or vocation. These gnomes gain a +2 racial bonus on Climb checks and checks for one Knowledge skill of their choice. This racial trait replaces hatred and obsessive.
 
-**Fell Magic**: Gnomes add +1 to the DC of any saving throws against necromancy spells that they cast. Gnomes with Wisdom scores of 11 or higher also gain the following spell-like abilities: 1/day—*bleed*, *chill touch*, *detect poison*, and *touch of fatigue*. The caster level for these effects is equal to the gnome’s level. The DC for these spells is equal to 10 + the spell’s level + the gnome’s Wisdom modifier. This racial trait replaces gnome magic.
+**Fell Magic**: Gnomes add +1 to the DC of any saving throws against necromancy spells that they cast. Gnomes with Wisdom scores of 11 or higher also gain the following spell-like abilities: 1/day—[*bleed*](../../magic/spells/bleed.md), [*chill touch*](../../magic/spells/chill-touch.md), [*detect poison*](../../magic/spells/detect-poison.md), and [*touch of fatigue*](../../magic/spells/touch-of-fatigue.md). The caster level for these effects is equal to the gnome’s level. The DC for these spells is equal to 10 + the spell’s level + the gnome’s Wisdom modifier. This racial trait replaces gnome magic.
 
 **Knack with Poison**: Some gnomes have an instinctive understanding of poisons and their uses. Gnomes gain a +2 racial bonus on Fortitude saves against poison and a +2 bonus on Craft (alchemy) checks to make poison. The bonus on Fortitude saving throws against poisons increases to +4 if the gnome accidentally poisons himself when applying or readying the substance. This racial trait replaces illusion resistance and obsessive.
 
@@ -76,19 +76,19 @@ The following racial traits might be selected instead of existing racial traits.
 
 The following racial traits represent a fey ancestor in the family line. They can be selected instead of the indicated racial traits. Consult your GM before selecting any of these options.
 
-**Fey-Tongued**: Gnomes with this trait gain *haunted fey aspect* and *speak with plants* instead of *dancing lights* and *speak with animals* as spell-like abilities from the gnome magic racial trait. This racial trait alters the gnome magic racial trait.
+**Fey-Tongued**: Gnomes with this trait gain [*haunted fey aspect*](../../magic/spells/haunted-fey-aspect.md) and [*speak with plants*](../../magic/spells/speak-with-plants.md) instead of [*dancing lights*](../../magic/spells/dancing-lights.md) and *speak with animals* as spell-like abilities from the gnome magic racial trait. This racial trait alters the gnome magic racial trait.
 
 **Nosophobia**: Gnomes are humanoid, rather than fey, and are therefore not particularly susceptible to contagions that afflict the fey of corrupted wilds. Nevertheless, many gnomes grow up fearing such taint and are obsessive about training their bodies to stave off illness of all kinds. These gnomes gain a +4 bonus on Fortitude saves against disease and poison, including magical diseases. This racial trait replaces obsessive.
 
 **Bleachling**: Gnomes who have survived the Bleaching (the wasting affliction that drains color and eventually life from gnomes who do not regularly experience new things) are immune to the effects of the Bleaching thereafter. Such "bleachlings" are calm and centered, as if having discovered some truth or made a deep connection with the natural world. These gnomes gain two favored classes: druid, and their choice of any other class. They lose all spell-like abilities granted by the gnome magic racial trait except *speak with animals*, but they can use their *speak with animals* spell-like ability three times per day. This racial trait replaces obsessive and alters gnome magic. Bleachlings have access to the [Eerily Centered](../../rules/feats/eerily-centered.md) and [Wild Speaker](../../rules/feats/wild-speaker.md) feats.
 
-**Genial Magic**: Gnomes with this racial trait add 1 to the DC of saving throws against enchantment spells that they cast. Gnomes with Charisma scores of 11 or higher also gain the following spell-like abilities: 1/day—*charm person*, *guidance*, *message*, and *prestidigitation*. The caster level for these effects is equal to the gnome's level. The DC for these spells is equal to 10 + the spell's level + the gnome's Charisma modifier. This racial trait replaces gnome magic.
+**Genial Magic**: Gnomes with this racial trait add 1 to the DC of saving throws against enchantment spells that they cast. Gnomes with Charisma scores of 11 or higher also gain the following spell-like abilities: 1/day—[*charm person*](../../magic/spells/charm-person.md), [*guidance*](../../magic/spells/guidance.md), [*message*](../../magic/spells/message.md), and *prestidigitation*. The caster level for these effects is equal to the gnome's level. The DC for these spells is equal to 10 + the spell's level + the gnome's Charisma modifier. This racial trait replaces gnome magic.
 
 ### Draconic Alternate Racial Traits
 
 These traits can be selected in place of specific racial traits, but their racial point (RP) values are also listed for campaigns using the race builder rules.
 
-**Faerie Dragon Magic (2 RP)**: Some gnomes ally with capricious faerie dragons or share a supernatural kinship with these enigmatic creatures. Gnomes with this trait add 1 to the DCs of saves against the illusion spells they cast. Additionally, a gnome with a Charisma score of 11 or higher can use each of the following spell-like abilities once per day: *ghost sound*, *grease*, and *silent image*. The caster level for these effects is equal to the gnome's character level. The DC for these spells is equal to 10 + the spell's level + the gnome's Charisma modifier. This trait replaces gnome magic.
+**Faerie Dragon Magic (2 RP)**: Some gnomes ally with capricious faerie dragons or share a supernatural kinship with these enigmatic creatures. Gnomes with this trait add 1 to the DCs of saves against the illusion spells they cast. Additionally, a gnome with a Charisma score of 11 or higher can use each of the following spell-like abilities once per day: [*ghost sound*](../../magic/spells/ghost-sound.md), [*grease*](../../magic/spells/grease.md), and [*silent image*](../../magic/spells/silent-image.md). The caster level for these effects is equal to the gnome's character level. The DC for these spells is equal to 10 + the spell's level + the gnome's Charisma modifier. This trait replaces gnome magic.
 
 ### Heritage Alternate Racial Traits
 
@@ -96,11 +96,11 @@ Gnomes are a wildly varied and independent race. The following alternate racial 
 
 **Artistic**: Gnomes with this racial trait gain a +2 racial bonus on a Perform skill of their choice. This replaces obsessive.
 
-**Bleachling Magic**: Gnomes who survive the Bleaching (a condition in which gnomes who fail to maintain their sense of wonder and excitement have the color and vitality drained from them) emerge as humorless, monochrome versions of their former selves, called bleachlings. Gnomes with this racial trait treat their caster level as 1 higher for the purposes of divination spells they cast. Additionally, if the gnome has a Wisdom or Charisma score of 11 or higher, she also gains the ability to cast *charm animal* as a spell-like ability three times per day. The caster level for this effect is equal to the gnome's level, and the DC for these spells is equal to 10 + the spell's level + the gnome's Charisma modifier. This replaces gnome magic.
+**Bleachling Magic**: Gnomes who survive the Bleaching (a condition in which gnomes who fail to maintain their sense of wonder and excitement have the color and vitality drained from them) emerge as humorless, monochrome versions of their former selves, called bleachlings. Gnomes with this racial trait treat their caster level as 1 higher for the purposes of divination spells they cast. Additionally, if the gnome has a Wisdom or Charisma score of 11 or higher, she also gains the ability to cast [*charm animal*](../../magic/spells/charm-animal.md) as a spell-like ability three times per day. The caster level for this effect is equal to the gnome's level, and the DC for these spells is equal to 10 + the spell's level + the gnome's Charisma modifier. This replaces gnome magic.
 
 **Fey Fortitude**: Gnomes with this racial trait are infused with a connection to life. They gain a +2 racial bonus on saves to resist death effects. This replaces weapon familiarity.
 
-**Fey Magic**: Gnomes with this racial trait increase the DC of spells of the compulsion subschool they cast by 1. Additionally, if the gnome has a Charisma score of 11 or higher, she also gains the following spell-like abilities: 1/day—*charm person*, *dancing lights*, *entangle*, and *prestidigitation*. The caster level for these effects is equal to the gnome's level. The DC for these spells is equal to 10 + the spell's level + the gnome's Charisma modifier. This replaces gnome magic, illusion resistance, and obsessive.
+**Fey Magic**: Gnomes with this racial trait increase the DC of spells of the compulsion subschool they cast by 1. Additionally, if the gnome has a Charisma score of 11 or higher, she also gains the following spell-like abilities: 1/day—*charm person*, *dancing lights*, [*entangle*](../../magic/spells/entangle.md), and *prestidigitation*. The caster level for these effects is equal to the gnome's level. The DC for these spells is equal to 10 + the spell's level + the gnome's Charisma modifier. This replaces gnome magic, illusion resistance, and obsessive.
 
 **Nature Affinity**: Gnomes with this racial trait gain a +2 racial bonus on Fortitude saves against diseases and poisons inflicted by fey, plants, and forest-related hazards. This replaces keen senses.
 
@@ -193,7 +193,7 @@ While most gnomes who undergo the harrowing process of the Bleaching physically 
 
 ### Dirty Trickster
 
-All gnomes love pranks, but some specialize in those improvised during battle. These gnomes gain a +2 racial bonus on dirty trick combat maneuvers. They need not meet the Intelligence requirement to select Combat Expertise, Improved Dirty Trick, and any feat with Improved Dirty Trick as a prerequisite. This racial trait replaces defensive training, hatred, and keen senses.
+All gnomes love pranks, but some specialize in those improvised during battle. These gnomes gain a +2 racial bonus on dirty trick combat maneuvers. They need not meet the Intelligence requirement to select [Combat Expertise](../../rules/feats/combat-expertise.md), [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md), and any feat with Improved Dirty Trick as a prerequisite. This racial trait replaces defensive training, hatred, and keen senses.
 
 ### Dread Gnomes
 
@@ -221,7 +221,7 @@ The city of the far-southern city on the continent of the western continent has 
 
 ### Utilitarian Magic
 
-Some gnomes develop practical magic to assist them with their obsessive projects. These gnomes add 1 to the DC of any saving throws against transmutation spells they cast. If their Intelligence score is 11 or higher, they also gain the following spell-like abilities: 1/day—*mage hand*, *open/close*, *prestidigitation*, and *unseen servant*. The DC for these spells is equal to 10 + the spell’s level + the gnome’s Intelligence modifier. This racial trait replaces gnome magic.
+Some gnomes develop practical magic to assist them with their obsessive projects. These gnomes add 1 to the DC of any saving throws against transmutation spells they cast. If their Intelligence score is 11 or higher, they also gain the following spell-like abilities: 1/day—[*mage hand*](../../magic/spells/mage-hand.md), *open/close*, *prestidigitation*, and [*unseen servant*](../../magic/spells/unseen-servant.md). The DC for these spells is equal to 10 + the spell’s level + the gnome’s Intelligence modifier. This racial trait replaces gnome magic.
 
 ### Vivacious
 

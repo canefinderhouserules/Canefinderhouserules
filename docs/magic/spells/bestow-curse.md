@@ -14,6 +14,6 @@ otherwise, it takes no action.
 
 You may also invent your own curse, but it should be no more powerful than those described above.
 
-The curse bestowed by this spell cannot be dispelled, but it can be removed with a *break enchantment*, *limited wish*, *miracle*, *remove* *curse*, or *wish* spell.
+The curse bestowed by this spell cannot be dispelled, but it can be removed with a [*break enchantment*](break-enchantment.md), [*limited wish*](limited-wish.md), [*miracle*](miracle.md), *remove* *curse*, or [*wish*](wish.md) spell.
 
-*Bestow curse* counters *remove curse*.
+*Bestow curse* counters [*remove curse*](remove-curse.md).

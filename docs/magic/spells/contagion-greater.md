@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-This spell functions as contagion, except the victim cannot overcome the disease without magic—making the required number of saves does not cure it. The DC to remove the disease with magic is equal to the save DC + 5.
+This spell functions as [*contagion*](contagion.md), except the victim cannot overcome the disease without magic—making the required number of saves does not cure it. The DC to remove the disease with magic is equal to the save DC + 5.

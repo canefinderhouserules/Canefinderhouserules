@@ -7,4 +7,4 @@
 **Duration** instantaneous  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions as animate dead, except you can only create a single Small or Medium skeleton or zombie. You cannot create variant skeletons or zombies with this spell.
+This spell functions as [*animate dead*](animate-dead.md), except you can only create a single Small or Medium skeleton or zombie. You cannot create variant skeletons or zombies with this spell.

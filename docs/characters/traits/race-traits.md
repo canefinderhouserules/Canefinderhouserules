@@ -54,7 +54,7 @@ Only elfs may select one of these traits.
 
 **Forlorn**: Having lived outside of traditional elf society for much or all of your life, you know the world can be cruel, dangerous, and unforgiving of the weak. You gain a +1 trait bonus on Fortitude saving throws.
 
-**Lapsed Faith**: You still remember a few prayers from your past experience serving in a temple. Once per day you may cast *cure light wounds* as a spell-like ability at caster level 1. The save DC is Wisdom-based.
+**Lapsed Faith**: You still remember a few prayers from your past experience serving in a temple. Once per day you may cast [*cure light wounds*](../../magic/spells/cure-light-wounds.md) as a spell-like ability at caster level 1. The save DC is Wisdom-based.
 
 **Seeker of Enlightenment**: You have been actively searching for signs of spiritual enlightenment since childhood. Choose a Knowledge skill; you gain a +1 trait bonus on Knowledge checks of that type and on Perception checks.
 
@@ -92,15 +92,15 @@ Only gnomes may select one of these traits.
 
 **Sprint**: You were taught from a young age that the world is full of big, fast, dangerous foes, and that sometimes the best course of action is to put your head down and run. If you do nothing but move in a turn (that is, if you run or use both of your actions in a round to move your speed) and you are in no armor or light armor, you may move an extra 5 feet.
 
-**First Memories**: For your whole life, you've felt there was a world just beyond the fabric of the material objects around you, and sometimes you can hear the north wind calling you or smell the dread taint of polluted water before you taste it. You do not gain the normal list of spell-like abilities for the gnome magic racial trait. Instead, if you have a Wisdom of 11 or higher, you gain the following spell-like abilities: 1/day—*detect poison*, *know direction*, *stabilize*, and *speak with animals*. The caster level for these effects is equal to your character level. The DC for these spells is equal to 10 + the spell's level + your Wisdom modifier.
+**First Memories**: For your whole life, you've felt there was a world just beyond the fabric of the material objects around you, and sometimes you can hear the north wind calling you or smell the dread taint of polluted water before you taste it. You do not gain the normal list of spell-like abilities for the gnome magic racial trait. Instead, if you have a Wisdom of 11 or higher, you gain the following spell-like abilities: 1/day—[*detect poison*](../../magic/spells/detect-poison.md), [*know direction*](../../magic/spells/know-direction.md), [*stabilize*](../../magic/spells/stabilize.md), and [*speak with animals*](../../magic/spells/speak-with-animals.md). The caster level for these effects is equal to your character level. The DC for these spells is equal to 10 + the spell's level + your Wisdom modifier.
 
 **Devout Zealot**: You aren't just faithful to the worship of your patron deity—you are obsessively loyal to all of the faith's tenets and guidelines. Your devotion is an anchor that keeps you from drifting away into the throes of the Bleaching, and you cling to it like the life raft it is. You must match the alignment of your chosen deity exactly. You gain a +1 trait bonus on Knowledge (religion) checks, and that skill is a class skill for you. As long as you remain completely faithful to the tenets of your faith (as determined by the GM), you never suffer from the Bleaching.
 
 **Charlatan**: Your talent for illusion goes beyond a mere knack for figments and phantasms. You can actually channel spell energy into simple illusions that augment your attempts at deception. As a swift action, you may expend one prepared spell or spell slot to gain a bonus on the next Bluff check you make, provided the check takes place before the beginning of your next turn. The bonus on this check is equal to the level of the spell consumed. You may use this ability 3 times per day. Only gnomes of nonlawful alignment may take this trait.
 
-**Naturally Gifted**: For unknown reasons, you have deeper reserves of magical energy than those around you. You gain an additional use of one of your gnome magic spell-like abilities each day. This does not always have to be the same spell-like ability—one day you might use *dancing lights* twice, only to use the additional casting for *speak with animals* the next day.
+**Naturally Gifted**: For unknown reasons, you have deeper reserves of magical energy than those around you. You gain an additional use of one of your gnome magic spell-like abilities each day. This does not always have to be the same spell-like ability—one day you might use [*dancing lights*](../../magic/spells/dancing-lights.md) twice, only to use the additional casting for *speak with animals* the next day.
 
-**Trickster**: You are particularly adept with your racial spell-like abilities, and as a child you quickly learned how *dancing lights* and *ghost sound* could be used to amuse your friends and fool your elders. This natural talent for illusion continued as you grew older. You gain a +1 trait bonus to your caster level when determining the duration, range, and area of all spells from the illusion school.
+**Trickster**: You are particularly adept with your racial spell-like abilities, and as a child you quickly learned how *dancing lights* and [*ghost sound*](../../magic/spells/ghost-sound.md) could be used to amuse your friends and fool your elders. This natural talent for illusion continued as you grew older. You gain a +1 trait bonus to your caster level when determining the duration, range, and area of all spells from the illusion school.
 
 **Explorer**: Though many gnomes settle down in communities large enough and interesting enough to provide them with all the stimulation they need to ward off the Bleaching, you're never going to be one of them. You are always looking around the next bend in the road or over the next hill, past the borders of where you are to where you want to be. At the beginning of each character level, select one desired terrain type from the following list: cold, desert, forest, jungle, mountains (including hills), plains, planes (other than the Material Plane), swamp, underground (including caves and dungeons), urban, or water. You gain a +2 bonus on all Survival checks made in your desired terrain type. At the beginning of each level, you must select a new desired terrain type to replace the old one (you cannot take the same desired terrain type two levels in a row).
 
@@ -292,7 +292,7 @@ Only humans may select one of these traits.
 
 **Destined Pioneer** *(colonists' descendants)*: Your forebears served in an army of exploration, and you retain that expansionist spirit. Select a terrain from the ranger's list of favored terrains. Once selected, this choice cannot be changed. Once per day while in the selected terrain, you may move across nonmagical difficult terrain as though it were not difficult terrain until the end of your turn.
 
-**Pragmatic Polytheist** *(northern tribal humans)*: You pray to whatever local deity will answer your prayers—and if they won't, to hell with them. You gain a +1 trait bonus on Knowledge (religion) checks and can make Knowledge (religion) checks as if trained. Once per day, you can cast *resistance* on yourself as a spell-like ability cast at your highest caster level (CL 1st if you have no caster level).
+**Pragmatic Polytheist** *(northern tribal humans)*: You pray to whatever local deity will answer your prayers—and if they won't, to hell with them. You gain a +1 trait bonus on Knowledge (religion) checks and can make Knowledge (religion) checks as if trained. Once per day, you can cast [*resistance*](../../magic/spells/resistance.md) on yourself as a spell-like ability cast at your highest caster level (CL 1st if you have no caster level).
 
 **Ruin Lore** *(northern tribal humans)*: Your time spent exploring the ruins of a fallen alien mountain has taught you much about the strange ways of the metal creatures from the stars. You gain a +2 trait bonus on Knowledge (engineering) checks to identify creatures with the robot subtype and relics of advanced technology. When using Bluff to feint against an intelligent construct, you do not take a penalty for feinting against a non-humanoid.
 
@@ -324,7 +324,7 @@ Only humans may select one of these traits.
 
 **Masterful Demeanor**: As a proud citizen of the infernal empire, you are confident that members of other, inferior races will obey you, and quickly. You gain a +3 trait bonus on Intimidate checks against members of non-human humanoid races.
 
-**Harrow Chosen**: All your life you’ve been drawn to the mysteries surrounding your family’s harrow deck. You begin play with your family’s heirloom harrow deck. If you use this specific harrow deck as an additional focus component when you cast a divination spell, your caster level is treated as being 2 levels higher. Additionally, twice per week, you can spend 10 minutes consulting this harrow deck on a particular action to gain the effects of the spell *augury* as a spellcaster of your character level. No one other than you gains these benefits from this harrow deck. If your harrow deck is destroyed, it cannot be replaced. However, by returning to your family, paying 300 gp on materials, and spending 1 week immersed in the songs and stories of your people, you can create a new harrow deck that grants half the benefits of the lost heirloom. You must be a human of the wandering nomads to take this trait.
+**Harrow Chosen**: All your life you’ve been drawn to the mysteries surrounding your family’s harrow deck. You begin play with your family’s heirloom harrow deck. If you use this specific harrow deck as an additional focus component when you cast a divination spell, your caster level is treated as being 2 levels higher. Additionally, twice per week, you can spend 10 minutes consulting this harrow deck on a particular action to gain the effects of the spell [*augury*](../../magic/spells/augury.md) as a spellcaster of your character level. No one other than you gains these benefits from this harrow deck. If your harrow deck is destroyed, it cannot be replaced. However, by returning to your family, paying 300 gp on materials, and spending 1 week immersed in the songs and stories of your people, you can create a new harrow deck that grants half the benefits of the lost heirloom. You must be a human of the wandering nomads to take this trait.
 
 **Nomad Tattoo**: You bear the elaborate tattoos of your people, marking you as a free son or daughter of the road. You gain a +1 trait bonus on saving throws against charm and compulsion effects. Additionally, you are proficient with bladed scarves and starknives. You must be a human of the wandering nomads to take this trait.
 
@@ -366,7 +366,7 @@ Only kitsune may select one of these traits.
 
 **Among Humans**: You have spent your entire life living among humans and are an expert at impersonating them. You gain a +2 trait bonus on Disguise checks to appear human while assuming your specific human form with the change shape racial trait, and Disguise is always a class skill for you.
 
-**Nine-Tailed Scion**: You are talented with kitsune magic. You gain a +1 trait bonus on caster level checks for your racial spell-like abilities as well as those from the Magical Tail feat. Additionally, you can select Magical Tail as a bonus feat whenever your favored class grants you a bonus bloodline feat, combat feat, or metamagic feat instead of the normal type of feat granted by that class. You cannot exchange specific feats granted by a class or race for Magical Tail in this manner; for instance, a monk cannot exchange his Stunning Fist feat for Magical Tail.
+**Nine-Tailed Scion**: You are talented with kitsune magic. You gain a +1 trait bonus on caster level checks for your racial spell-like abilities as well as those from the [Magical Tail](../../rules/feats/magical-tail.md) feat. Additionally, you can select Magical Tail as a bonus feat whenever your favored class grants you a bonus bloodline feat, combat feat, or metamagic feat instead of the normal type of feat granted by that class. You cannot exchange specific feats granted by a class or race for Magical Tail in this manner; for instance, a monk cannot exchange his [Stunning Fist](../../rules/feats/stunning-fist.md) feat for Magical Tail.
 
 ## Kobold Traits
 
@@ -400,13 +400,13 @@ Only kobolds may select these traits. Kobold characters aren't restricted from t
 
 ### Red-Scaled
 
-**Firebug**: Like the red dragons that inspire your tribe, you're blessed with a small spark of incendiary magic. You can cast *spark* three times per day as a spell-like ability. The caster level is equal to your character level. The save DC is Intelligence-based.
+**Firebug**: Like the red dragons that inspire your tribe, you're blessed with a small spark of incendiary magic. You can cast [*spark*](../../magic/spells/spark.md) three times per day as a spell-like ability. The caster level is equal to your character level. The save DC is Intelligence-based.
 
 **Fire-Tongued**: The sorcerers of your tribe are adept at summoning and binding outsiders from the Elemental Plane of Fire. In order to communicate with their thralls, many in your tribe learned the rudiments of the outsiders' language. In addition to speaking Draconic, you begin play with the ability to speak Ignan.
 
 **Heat Fortitude**: You grew up close to sulfurous volcanic vents, which steeled you against heat dangers. You gain a +4 trait bonus on Fortitude saving throws against nonlethal damage from heat.
 
-**Smoke Resistant**: You've spent so much of your life around fires that smoke no longer affects you the way it does other creatures. Your vision isn't impaired by nonmagical smoke, and you gain a +5 trait bonus on Fortitude saves to avoid coughing and choking because of smoke inhalation. This trait confers no benefits against magically created smoke, such as that produced by *pyrotechnics*.
+**Smoke Resistant**: You've spent so much of your life around fires that smoke no longer affects you the way it does other creatures. Your vision isn't impaired by nonmagical smoke, and you gain a +5 trait bonus on Fortitude saves to avoid coughing and choking because of smoke inhalation. This trait confers no benefits against magically created smoke, such as that produced by [*pyrotechnics*](../../magic/spells/pyrotechnics.md).
 
 ### White-Scaled
 
@@ -450,7 +450,7 @@ Only orcs and half-orcs may select these traits.
 
 **Rage of Storms**: Summoned creatures can inherit your ferocity. Once per day, a creature you summon can have the ferocity ability.
 
-**Tribal**: You are especially devoted to your tribe, and within 60 feet of a tribal standard, you gain a +1 trait bonus on attack rolls and Will saves against fear effects, as if you were the recipient of a *bless* spell.
+**Tribal**: You are especially devoted to your tribe, and within 60 feet of a tribal standard, you gain a +1 trait bonus on attack rolls and Will saves against fear effects, as if you were the recipient of a [*bless*](../../magic/spells/bless.md) spell.
 
 **Tusked**: Huge, sharp tusks bulge from your mouth, and you receive a bite attack (1d4 damage for Medium characters). If used as part of a full attack action, the bite attack is made at your full base attack bonus –5.
 
@@ -480,7 +480,7 @@ Only orcs and half-orcs may select these traits.
 
 Only androids may select these traits.
 
-**Cellular Match**: Whenever you are affected by a polymorph spell or effect, your nanites adjust completely at a molecular level. For the duration of the polymorph effect, you are treated as only a humanoid for the purpose of effects that target creatures by type. For example, a ranger's favored enemy bonus against constructs wouldn't apply to you while you are polymorphed, but nor would spells such as *make whole*. This trait modifies part of the android's constructed racial trait, but otherwise that trait is unchanged (a polymorphed android still can't gain morale bonuses, is still immune to fear, and so on).
+**Cellular Match**: Whenever you are affected by a polymorph spell or effect, your nanites adjust completely at a molecular level. For the duration of the polymorph effect, you are treated as only a humanoid for the purpose of effects that target creatures by type. For example, a ranger's favored enemy bonus against constructs wouldn't apply to you while you are polymorphed, but nor would spells such as [*make whole*](../../magic/spells/make-whole.md). This trait modifies part of the android's constructed racial trait, but otherwise that trait is unchanged (a polymorphed android still can't gain morale bonuses, is still immune to fear, and so on).
 
 **Nanite Revival**: You can instinctively activate your nanites to save your life. Once per day as an immediate action, you can command your nanites to stabilize you while you are dying, even while unconscious or helpless. This does not count as a use of your nanite surge ability.
 
@@ -532,7 +532,7 @@ Only ratfolk may select one of these traits.
 
 **Innocent**: No one can believe someone as pure as you could be deceptive in any way. You have an air of innocence about you, and people have a hard time believing you could ever do anyone harm. When you make a Bluff check to tell a lie, your target always wants to believe you, granting you the standard +5 bonus on your Bluff check. This bonus only applies if the lie you tell is either believable or unlikely.
 
-**Planar Negotiator**: You are skilled at convincing outsiders that you require their aid. Whenever you cast *lesser planar ally*, *planar ally*, or *greater planar ally*, you receive a 10% discount on the monetary cost required by the summoned outsiders. This bonus has no effect on services the outsiders may demand in order to strike a bargain.
+**Planar Negotiator**: You are skilled at convincing outsiders that you require their aid. Whenever you cast *lesser planar ally*, [*planar ally*](../../magic/spells/planar-ally.md), or *greater planar ally*, you receive a 10% discount on the monetary cost required by the summoned outsiders. This bonus has no effect on services the outsiders may demand in order to strike a bargain.
 
 **Selective Health**: You are resistant to most illnesses that strike those around you, but vulnerable to the contagions of evil. You gain a +2 trait bonus on Fortitude saves against diseases. However, whenever you must make a Fortitude saving throw against a disease inflicted by an undead creature or evil outsider (such as mummy rot or a vrock's spores), you do not gain this bonus, and instead take a –2 penalty on your Fortitude save.
 
@@ -554,7 +554,7 @@ Only tieflings may select one of these traits.
 
 **Dark Magic Affinity**: You have an instinctive talent for unleashing the vilest spells, letting the taint in your blood empower your malicious magic. Whenever you cast a spell with the evil descriptor, you act as if you were one level higher for the purpose of determining that spell's effects.
 
-**Enduring Heritage**: You can channel your evil ancestry to take advantage of any effects for which such an identity would matter (such as *detect evil*). You detect as an evil outsider with the same number of HD as you possess. You can begin or end this effect as a swift action. You can maintain this effect for a number of rounds per day equal to your HD.
+**Enduring Heritage**: You can channel your evil ancestry to take advantage of any effects for which such an identity would matter (such as [*detect evil*](../../magic/spells/detect-evil.md)). You detect as an evil outsider with the same number of HD as you possess. You can begin or end this effect as a swift action. You can maintain this effect for a number of rounds per day equal to your HD.
 
 **Ever Wary**: Constant fear that your fiendish nature might provoke a sudden attack ensures that you never completely let down your guard. During the surprise round and before your first action in combat, you can apply half your Dexterity bonus (if any) to your AC. You still count as flat-footed for the purposes of attacks and effects.
 
@@ -572,7 +572,7 @@ Only tieflings may select one of these traits.
 
 **Prideful Temper**: Memories of the cruel abuse and taunts you suffered as a child cause you to strike back with great fury at anyone who slanders you. You gain a +1 trait bonus on attack rolls made against creatures that have insulted you until you actually succeed in dealing damage.
 
-**Prolong Magic**: Constant drills and preparation allow you to get more out of your innate magic. Whenever you use a spell-like ability gained through your tiefling heritage, it automatically acts as if affected by the Extend Spell metamagic feat.
+**Prolong Magic**: Constant drills and preparation allow you to get more out of your innate magic. Whenever you use a spell-like ability gained through your tiefling heritage, it automatically acts as if affected by the [Extend Spell](../../rules/feats/extend-spell.md) metamagic feat.
 
 **Shadow Stabber**: An instinct for dishonorable conduct serves you well when fighting opponents who are blind, oblivious, or blundering around in the dark. You gain a +2 trait bonus on melee weapon damage rolls made against foes that cannot see you.
 
@@ -582,7 +582,7 @@ Only tieflings may select one of these traits.
 
 **Underling**: People tend to assume you either are, or are willing to become, a minor cog in some evil cabal or conspiracy. You gain a +2 trait bonus on Bluff and Diplomacy checks made to either join or imply that you already belong to an evil organization.
 
-**Tempter's Tongue**: The blood of crafty, bargain-making fiends runs in your veins, and you have a talent for brokering deals of your own. You gain a +1 trait bonus on Diplomacy checks and on opposed Charisma checks to influence creatures you have charmed (such as with *charm person*).
+**Tempter's Tongue**: The blood of crafty, bargain-making fiends runs in your veins, and you have a talent for brokering deals of your own. You gain a +1 trait bonus on Diplomacy checks and on opposed Charisma checks to influence creatures you have charmed (such as with [*charm person*](../../magic/spells/charm-person.md)).
 
 **Neutralizing Gut**: Your fiendish heritage has made you more resilient to the many poisonous threats in wastelands. You gain a +2 trait bonus on saving throws against contact and inhaled poisons, and a +3 trait bonus on saving throws against ingested poisons.
 
@@ -628,7 +628,7 @@ Only sylphs may select one of these traits.
 
 **Thunderborn**: The rumble in your voice and the spark in your eyes hint at a lineage of lightning and thunder, possibly tracing back to lightning elementals from the Plane of Air, or else to a magic-touched birth during a powerful thunderstorm. Once per day when you cast a spell that deals electricity damage, you can choose to make half of the damage electricity damage and the other half sonic damage.
 
-**Wind-Carried Voices**: You are a master of seeing through falsehoods and sharing secrets—the wind itself seems to carry your voice to those you trust. You gain a +1 trait bonus on Sense Motive checks to tell when someone is lying to you. Additionally, at will, as long as you are outdoors or in an area where there is noticeable air movement, you can whisper to any creature from up to 30 feet away. You can only designate one person in sight to hear your voice, and nearby creatures can hear these messages with a successful DC 20 Perception check. This is an extraordinary ability that otherwise functions as *message*.
+**Wind-Carried Voices**: You are a master of seeing through falsehoods and sharing secrets—the wind itself seems to carry your voice to those you trust. You gain a +1 trait bonus on Sense Motive checks to tell when someone is lying to you. Additionally, at will, as long as you are outdoors or in an area where there is noticeable air movement, you can whisper to any creature from up to 30 feet away. You can only designate one person in sight to hear your voice, and nearby creatures can hear these messages with a successful DC 20 Perception check. This is an extraordinary ability that otherwise functions as [*message*](../../magic/spells/message.md).
 
 **Aerial Observer**: You are practiced at noticing details from high up. You gain a +2 trait bonus on Perception checks while you are at least 30 feet above ground level.
 
@@ -650,21 +650,21 @@ Only undines may select one of these traits.
 
 Characters can take these traits only during their transition to unlife, replacing a previously taken race trait and any benefits imparted by the new trait. Each trait lists the vampire type that typically takes it.
 
-**Calculated Risk** *(jiang-shi)*: Once per day, you may voluntarily fail a saving throw against a harmful spell or effect. After using this ability, for the next minute you may add a +4 trait bonus on one saving throw, after which the bonus is expended. You may use this bonus on an additional saving throw against the spell or effect you voluntarily failed (such as a recurring poison save or a follow-up save against *hold person*). If you do not use this bonus within 1 minute, it is lost.
+**Calculated Risk** *(jiang-shi)*: Once per day, you may voluntarily fail a saving throw against a harmful spell or effect. After using this ability, for the next minute you may add a +4 trait bonus on one saving throw, after which the bonus is expended. You may use this bonus on an additional saving throw against the spell or effect you voluntarily failed (such as a recurring poison save or a follow-up save against [*hold person*](../../magic/spells/hold-person.md)). If you do not use this bonus within 1 minute, it is lost.
 
 **In Tune with Language** *(jiang-shi)*: Your keen ear for language grants you a +2 trait bonus on skill checks when decoding secret messages or finding hidden meaning in overheard conversations.
 
 **Proud Progenitor** *(moroi)*: Your loneliness drove you to build your coven, and you zealously attack any who would harm it. You gain a +1 trait bonus on damage rolls against creatures you have seen attack or harm any of your vampire spawn.
 
-**Weatherworn** *(moroi)*: Lairing in desolate mountains or on coastal cliff tops has taught you to deal with the effects of strong winds. You gain a +2 trait bonus against the effects of spells that create wind or move air, such as *gust of wind*.
+**Weatherworn** *(moroi)*: Lairing in desolate mountains or on coastal cliff tops has taught you to deal with the effects of strong winds. You gain a +2 trait bonus against the effects of spells that create wind or move air, such as [*gust of wind*](../../magic/spells/gust-of-wind.md).
 
 **Rapid Drain** *(nosferatu)*: The ferocity of your hunger grants you the ability to draw life from your victims faster. When you use your blood drain ability, you gain 7 temporary hit points instead of 5.
 
-**Telekinetic Dependence** *(nosferatu)*: Your body is so ancient you fear damaging it with exertion. You gain a +1 trait bonus to your caster level when casting (or using as a spell-like ability) *fly*, *levitate*, *mage hand*, *telekinesis*, and similar spells that move objects through sheer will.
+**Telekinetic Dependence** *(nosferatu)*: Your body is so ancient you fear damaging it with exertion. You gain a +1 trait bonus to your caster level when casting (or using as a spell-like ability) *fly*, [*levitate*](../../magic/spells/levitate.md), [*mage hand*](../../magic/spells/mage-hand.md), [*telekinesis*](../../magic/spells/telekinesis.md), and similar spells that move objects through sheer will.
 
 **Self-Aware** *(vetala)*: Wisdom stolen from an enlightened mortal has opened your own mind. Knowing yourself helps you to understand others. You gain a +1 trait bonus on all Sense Motive checks, and Sense Motive becomes a class skill for you.
 
-**Stubborn** *(vetala)*: The angry child inside bolsters your will, and you often prove utterly defiant. You gain a +2 trait bonus on saving throws against attempts to control you, such as *command undead*, *halt undead*, or channeled energy to turn or control undead.
+**Stubborn** *(vetala)*: The angry child inside bolsters your will, and you often prove utterly defiant. You gain a +2 trait bonus on saving throws against attempts to control you, such as [*command undead*](../../magic/spells/command-undead.md), [*halt undead*](../../magic/spells/halt-undead.md), or channeled energy to turn or control undead.
 
 ## Dhampir Traits
 
@@ -678,7 +678,7 @@ Only dhampirs can select these traits. Traits marked with a heritage are intende
 
 **Linguistic Genius** *(jiang-shi-born)*: Words and letters say more to you than their writers ever intended. You gain a +1 trait bonus on Linguistics checks, and learn to speak and read one additional language from your list of racial languages. Linguistics is always a class skill for you.
 
-**Mind Trapper** *(moroi-born)*: Your honeyed words are nearly impossible for your enchanted subjects to ignore. You gain a +2 trait bonus on Charisma checks to convince an ally enchanted by one of your charm spells (such as *charm person* or *charm monster*) to do things it wouldn't normally do.
+**Mind Trapper** *(moroi-born)*: Your honeyed words are nearly impossible for your enchanted subjects to ignore. You gain a +2 trait bonus on Charisma checks to convince an ally enchanted by one of your charm spells (such as *charm person* or [*charm monster*](../../magic/spells/charm-monster.md)) to do things it wouldn't normally do.
 
 **Numerological Gift** *(jiang-shi-born)*: Since birth you have had an intimate connection with a certain number. When you select this trait, roll 3d6. The resulting number becomes your numerological totem and can never be changed. Once per day, when you roll your totem number on a d20 (such as an attack roll, save, or skill check), you may treat that roll as if you had rolled a natural 20 on the die.
 
@@ -760,7 +760,7 @@ Only changelings can select these traits.
 
 **Bitter Heart**: You share a sliver of your mother's supernatural hatred, gaining a +2 trait bonus to confirm critical hits.
 
-**Magic in the Blood**: You possess natural magical ability. Select one of the following spells: *bleed*, *create water*, *dancing lights*, *detect good*, *ghost sound*, or *putrefy food and drink*. You can cast this spell three times per day as a spell-like ability.
+**Magic in the Blood**: You possess natural magical ability. Select one of the following spells: [*bleed*](../../magic/spells/bleed.md), [*create water*](../../magic/spells/create-water.md), *dancing lights*, [*detect good*](../../magic/spells/detect-good.md), *ghost sound*, or [*putrefy food and drink*](../../magic/spells/putrefy-food-and-drink.md). You can cast this spell three times per day as a spell-like ability.
 
 **Creative Manipulator**: Once per day, you may reroll a Charisma check you just made. You must take the result of the second roll, even if it is worse.
 
@@ -790,6 +790,6 @@ Only gillmen may select these traits.
 
 ## Faction Race Traits
 
-**Trifler** (wandering nomad human): A childhood spent at your mystically gifted grandmother's side has taught you the basics of real magic. You may cast *prestidigitation* three times per day as a spell-like ability. This spell-like ability is cast at your highest caster level; if you have no caster level, it functions at CL 1st.
+**Trifler** (wandering nomad human): A childhood spent at your mystically gifted grandmother's side has taught you the basics of real magic. You may cast [*prestidigitation*](../../magic/spells/prestidigitation.md) three times per day as a spell-like ability. This spell-like ability is cast at your highest caster level; if you have no caster level, it functions at CL 1st.
 
 **Creative Reality** (ganzi): Straightforward answers bore you, for they only encourage people to depend on others rather than find out for themselves. You have grown adept over the years at convincing people of falsehoods and couching your honest answers in so much doublespeak they may as well be lies. You gain a +1 trait bonus on Bluff checks, which increases to +5 when attempting to convince someone an honest answer is a falsehood.

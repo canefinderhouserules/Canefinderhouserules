@@ -14,7 +14,7 @@ You gain some of the beneficial qualities of an animal. Your base form is largel
 
 **Gorilla**: Your arms become long, flexible, and strong like those of a great ape. Your unarmed damage die type increases by one step, and you gain a +4 competence bonus on combat maneuver checks when making the grapple or reposition combat maneuver.
 
-**Monkey**: Your hands and arms become dexterous like those of a simian. You gain a +4 competence bonus on Climb checks, and you can throw objects as if you had the Throw Anything feat.
+**Monkey**: Your hands and arms become dexterous like those of a simian. You gain a +4 competence bonus on Climb checks, and you can throw objects as if you had the [Throw Anything](../../rules/feats/throw-anything.md) feat.
 
 **Otter**: Your hands and feet gain webbing, and your lungs gain capacity, allowing you to move through the water with ease. You gain a Swim speed equal to half your speed, and all the benefits of having a swim speed. Additionally, you can hold your breath for 4 rounds per point of Constitution before being forced to make Constitution checks to keep holding your breath.
 
