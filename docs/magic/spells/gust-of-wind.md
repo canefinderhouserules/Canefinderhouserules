@@ -26,4 +26,4 @@ The force of the gust automatically extinguishes candles, torches, and similar u
 
 In addition to the effects noted, a *gust of wind* can do anything that a sudden blast of wind would be expected to do. It can create a stinging spray of sand or dust, fan a large fire, overturn delicate awnings or hangings, heel over a small boat, and blow gases or vapors to the edge of its range.
 
-*Gust of wind* can be made permanent with a *permanency* spell.
+*Gust of wind* can be made permanent with a [*permanency*](permanency.md) spell.

@@ -8,7 +8,7 @@
 **Duration** instantaneous  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-You cause one limb of the target to shrivel and weaken. The target takes 2d6 points of damage. The points are permanently lost until the target’s limb is restored by *heal*, *limited wish*, *miracle*, *regenerate*, or *wish*. *Wither limb* affects only living creatures of the humanoid or monstrous humanoid type, or similar bipedal creatures at the GM’s discretion. You choose the limb affected. This spell’s effects stack, until all a target’s arms and legs (or equivalent limbs) are withered.
+You cause one limb of the target to shrivel and weaken. The target takes 2d6 points of damage. The points are permanently lost until the target’s limb is restored by [*heal*](heal.md), [*limited wish*](limited-wish.md), [*miracle*](miracle.md), [*regenerate*](regenerate.md), or [*wish*](wish.md). *Wither limb* affects only living creatures of the humanoid or monstrous humanoid type, or similar bipedal creatures at the GM’s discretion. You choose the limb affected. This spell’s effects stack, until all a target’s arms and legs (or equivalent limbs) are withered.
 
 *Arm*: The target loses the use of one arm, which might affect what weapons and shields it can use. The creature must immediately drop all objects held in the withered limb, though it can shift a two-handed weapon it is holding in both hands to a remaining arm as an immediate action. Worn objects—gauntlets, rings, and magic items in the wrist slot—remain. This prevents the creature from using two-weapon fighting, claw attacks from that arm, and so on. If multiple castings of this spell wither all of a creature’s arms, it can’t manipulate objects or cast spells requiring somatic components.
 

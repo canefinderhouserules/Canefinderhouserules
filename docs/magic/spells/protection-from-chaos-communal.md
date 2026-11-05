@@ -8,4 +8,4 @@
 **Duration** 1 min./level (D)  
 **Saving Throw** Will negates (harmless); **Spell Resistance** no; see text
 
-This spell functions like protection from chaos, except you divide the duration in 1-minute intervals among the creatures touched.
+This spell functions like [*protection from chaos*](protection-from-chaos.md), except you divide the duration in 1-minute intervals among the creatures touched.

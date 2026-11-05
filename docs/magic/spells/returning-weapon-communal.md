@@ -8,4 +8,4 @@
 **Duration** 1 minute/level  
 **Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 
-This spell functions like returning weapon, except you divide the duration in 1-minute intervals among the targeted weapons.
+This spell functions like [*returning weapon*](returning-weapon.md), except you divide the duration in 1-minute intervals among the targeted weapons.

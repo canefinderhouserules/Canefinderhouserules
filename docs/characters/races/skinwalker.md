@@ -258,7 +258,7 @@ Skinwalker race traits are listed in [Race Traits](../traits/race-traits.md#skin
 
 ### Beast Talker
 
-Some skinwalkers’ ability to communicate with animals is stronger than their ability to transform. Such skinwalkers can only use their change shape ability once per day for 1 minute per level, but they can use their *speak with animals* spell-like ability at will. This racial trait alters the change shape and spell-like ability racial traits.
+Some skinwalkers’ ability to communicate with animals is stronger than their ability to transform. Such skinwalkers can only use their change shape ability once per day for 1 minute per level, but they can use their [*speak with animals*](../../magic/spells/speak-with-animals.md) spell-like ability at will. This racial trait alters the change shape and spell-like ability racial traits.
 
 ### Werebat-Kin (Bloodmarked)
 

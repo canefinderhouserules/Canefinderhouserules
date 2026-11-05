@@ -4,7 +4,7 @@
 
 Even your threats are curiously charming.
 
-**Prerequisites**: Amateur Swashbuckler or panache class feature; Diplomacy 2 ranks, Intimidate 2 ranks.
+**Prerequisites**: [Amateur Swashbuckler](amateur-swashbuckler.md) or panache class feature; Diplomacy 2 ranks, Intimidate 2 ranks.
 
 **Benefit**: When you succeed at an Intimidate check to force an opponent to act friendly toward you, you can spend 1 panache point to cause the target to regard you with indifference when the duration of the effect expires. A target influenced in this manner is unlikely to report you to authorities.
 

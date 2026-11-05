@@ -8,4 +8,4 @@
 **Duration** 1 hour/level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions as tailwind except it creates a helpful current in water instead of in the air. It grants free movement while swimming rather than while flying and functions only underwater.
+This spell functions as [*tailwind*](tailwind.md) except it creates a helpful current in water instead of in the air. It grants free movement while swimming rather than while flying and functions only underwater.

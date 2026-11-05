@@ -6,7 +6,7 @@ You are skilled at wearing medium armor.
 
 **Prerequisite**: Light Armor Proficiency.
 
-**Benefit**: See Armor Proficiency, Light.
+**Benefit**: See [Armor Proficiency, Light](armor-proficiency-light.md).
 
 **Normal**: See Armor Proficiency, Light.
 

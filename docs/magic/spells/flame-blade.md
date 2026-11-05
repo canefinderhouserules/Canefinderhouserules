@@ -8,7 +8,7 @@
 **Duration** 1 hour/level (D)  
 **Saving Throw** none; **Spell Resistance** yes
 
-A 3-foot-long, blazing beam of red-hot fire springs forth from your hand. You wield this blade-like beam as if it were a scimitar. Attacks with the *flame blade* are melee touch attacks, and you can use Weapon Finesse with them. The blade deals 1d8 points of fire damage + 1 point per caster level (maximum +10). Since the blade is immaterial, your Strength modifier does not apply to the damage. A *flame* *blade* can ignite combustible materials such as parchment, straw, dry sticks, and cloth.
+A 3-foot-long, blazing beam of red-hot fire springs forth from your hand. You wield this blade-like beam as if it were a scimitar. Attacks with the *flame blade* are melee touch attacks, and you can use [Weapon Finesse](../../rules/feats/weapon-finesse.md) with them. The blade deals 1d8 points of fire damage + 1 point per caster level (maximum +10). Since the blade is immaterial, your Strength modifier does not apply to the damage. A *flame* *blade* can ignite combustible materials such as parchment, straw, dry sticks, and cloth.
 
 ??? note "Original rule"
 

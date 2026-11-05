@@ -1,6 +1,6 @@
 # Improved Plane Shift
 
-You're an expert at traveling the various realms of the Great Beyond via *plane shift*.
+You're an expert at traveling the various realms of the Great Beyond via [*plane shift*](../../magic/spells/plane-shift.md).
 
 **Prerequisites**: Wizard level 9th.
 

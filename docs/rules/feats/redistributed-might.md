@@ -6,4 +6,4 @@ You’ve gained enough control over your body to translate strength into swiftne
 
 **Prerequisites**: Con 13 or Wis 13, Exotic Weapon Proficiency (dueling sword), [Iron Will](iron-will.md), base attack bonus +4.
 
-**Benefit**: Whenever an effect would grant you an enhancement or morale bonus to your Strength score (such as via *bull’s strength* or a skald’s inspired rage performance), you can instead apply that bonus to your Dexterity score. You make this choice when you first gain the bonus. The bonus type does not change.
+**Benefit**: Whenever an effect would grant you an enhancement or morale bonus to your Strength score (such as via [*bull’s strength*](../../magic/spells/bulls-strength.md) or a skald’s inspired rage performance), you can instead apply that bonus to your Dexterity score. You make this choice when you first gain the bonus. The bonus type does not change.

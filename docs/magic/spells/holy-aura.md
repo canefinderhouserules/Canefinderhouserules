@@ -10,7 +10,7 @@
 
 A brilliant divine radiance surrounds the subjects, protecting them from attacks, granting them resistance to spells cast by evil creatures, and causing evil creatures to become blinded when they strike the subjects. This abjuration has four effects.
 
-First, each warded creature gains a +4 deflection bonus to AC and a +4 resistance bonus on saves. Unlike *protection from evil*, this benefit applies against all attacks, not just against attacks by evil creatures.
+First, each warded creature gains a +4 deflection bonus to AC and a +4 resistance bonus on saves. Unlike [*protection from evil*](protection-from-evil.md), this benefit applies against all attacks, not just against attacks by evil creatures.
 
 Second, each warded creature gains spell resistance 25 against evil spells and spells cast by evil creatures.
 

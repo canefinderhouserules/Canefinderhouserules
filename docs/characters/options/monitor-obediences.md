@@ -70,7 +70,7 @@ Monitors are listed by their portfolio rather than by name.
 
 1. **Prepared Traveler (Sp)**: [*abjuring step*](../../magic/spells/abjuring-step.md) 3/day, [*animal messenger*](../../magic/spells/animal-messenger.md) 2/day, or [*phantom steed*](../../magic/spells/phantom-steed.md) 1/day
 2. **Seasoned Traveler (Ex)**: You no longer take nonlethal damage from moving at a hustle overland. You gain Endurance and [Nimble Moves](../../rules/feats/nimble-moves.md) as bonus feats.
-3. **Into the Dead Roads (Su)**: Once per day as a full-round action, you can open a door to the Dead Roads and guide others with you to cross huge distances or travel the planes. This duplicates the effects of a [*shadow walk*](../../magic/spells/shadow-walk.md) or [*plane shift*](../../magic/spells/plane-shift.md) spell, with a caster level equal to twice your Hit Dice. In the case of a *plane shift* spell, the effect is not instantaneous, instead requiring 2d6 hours of travel by foot to arrive at a random point on the target plane.
+3. **Into the Dead Roads (Su)**: Once per day as a full-round action, you can open a door to the Dead Roads and guide others with you to cross huge distances or travel the planes. This duplicates the effects of a [*shadow walk*](../../magic/spells/shadow-walk.md) or [*plane shift*](../../magic/spells/plane-shift.md) spell, with a caster level equal to twice your Hit Dice. In the case of a [*plane shift*](../../magic/spells/plane-shift.md) spell, the effect is not instantaneous, instead requiring 2d6 hours of travel by foot to arrive at a random point on the target plane.
 
 ### Sentinel Boons
 
@@ -94,7 +94,7 @@ Monitors are listed by their portfolio rather than by name.
 
 ### Boons
 
-1. **Carrion Eater (Sp)**: *decompose corpse* 3/day, [*animal aspect*](../../magic/spells/animal-aspect.md) 2/day, or [*cure serious wounds*](../../magic/spells/cure-serious-wounds.md) 1/day
+1. **Carrion Eater (Sp)**: [*decompose corpse*](../../magic/spells/decompose-corpse.md) 3/day, [*animal aspect*](../../magic/spells/animal-aspect.md) 2/day, or [*cure serious wounds*](../../magic/spells/cure-serious-wounds.md) 1/day
 2. **Devourer (Ex)**: You gain a bite attack that deals 1d4 points of damage (1d3 for small creatures) plus your Strength modifier. If you confirm a critical hit with this attack, it also deals 1 point of bleed damage. If you already have a bite attack, your bite deals 2 points of bleed damage on a critical hit. You are considered proficient with this attack.
 3. **New from Old (Sp)**: You can cast extended [*polymorph any object*](../../magic/spells/polymorph-any-object.md) once per day.
 
@@ -104,7 +104,7 @@ Monitors are listed by their portfolio rather than by name.
 
 ### Boons
 
-1. **Stalwart Rider (Sp)**: [*lock gaze*](../../magic/spells/lock-gaze.md) 3/day, [*align weapon*](../../magic/spells/align-weapon.md) 2/day, or *phantom steed* 1/day
+1. **Stalwart Rider (Sp)**: [*lock gaze*](../../magic/spells/lock-gaze.md) 3/day, [*align weapon*](../../magic/spells/align-weapon.md) 2/day, or [*phantom steed*](../../magic/spells/phantom-steed.md) 1/day
 2. **The Will Endures (Ex)**: Your grim determination leaves you unusually resistant to injury. Each day, you gain a number of temporary hit points equal to your Wisdom modifier plus your total number of Hit Dice. These temporary hit points remain for 24 hours.
 3. **Peerless Defender (Sp)**: You can cast [*transformation*](../../magic/spells/transformation.md) 3/day.
 
@@ -115,7 +115,7 @@ Monitors are listed by their portfolio rather than by name.
 ### Boons
 
 1. **Fruitful Dreams (Sp)**: [*sleep*](../../magic/spells/sleep.md) 3/day, [*augury*](../../magic/spells/augury.md) 2/day, or [*catatonia*](../../magic/spells/catatonia.md) 1/day
-2. **Childlike Grace (Su)**: Once per day as a full-round action, you can revert to a childlike form, which grants you fresh insight and new perspective. This functions as a *reduce person* spell with a range of personal and a duration of 1 hour per Hit Die. In this form, you gain a +2 insight bonus on Perception and Sense Motive checks and Will saving throws, but you take a –2 penalty on Intelligence-based skill checks and Fortitude saving throws.
+2. **Childlike Grace (Su)**: Once per day as a full-round action, you can revert to a childlike form, which grants you fresh insight and new perspective. This functions as a [*reduce person*](../../magic/spells/reduce-person.md) spell with a range of personal and a duration of 1 hour per Hit Die. In this form, you gain a +2 insight bonus on Perception and Sense Motive checks and Will saving throws, but you take a –2 penalty on Intelligence-based skill checks and Fortitude saving throws.
 3. **Insight into Fate (Sp)**: You can cast [*moment of prescience*](../../magic/spells/moment-of-prescience.md) 1/day.
 
 ## Psychopomp usher of final words, lost souls and searches
@@ -124,7 +124,7 @@ Monitors are listed by their portfolio rather than by name.
 
 ### Boons
 
-1. **Death's Hound (Sp)**: *tireless pursuit* 3/day, [*whispering wind*](../../magic/spells/whispering-wind.md) 2/day, or [*countless eyes*](../../magic/spells/countless-eyes.md) 1/day
+1. **Death's Hound (Sp)**: [*tireless pursuit*](../../magic/spells/tireless-pursuit.md) 3/day, [*whispering wind*](../../magic/spells/whispering-wind.md) 2/day, or [*countless eyes*](../../magic/spells/countless-eyes.md) 1/day
 2. **Smell of Death (Ex)**: You gain the scent ability. Your sense of smell is particularly acute in regard to undead, granting you blindsense (30 feet) for the purposes of detecting all forms of undead.
 3. **Soul Lock (Su)**: Once per day as a full-round action, you can trap the soul of a sentient creature that has died in the last minute, creating a soul gem. This is a death effect. A soul gem is a Fine object with 1 hit point and hardness 2. You can destroy a soul gem you created as a standard action to free the soul within, though this doesn't return the deceased creature to life. Any attempt to resurrect a body whose soul is trapped in a soul gem requires a caster level check (DC = 10 + half your Hit Dice + your Charisma modifier). Failure results in the spell having no effect, while on a success, the soul gem shatters and the creature returns to life as normal. If the soul gem rests in an unholy location, such as that created by the spell [*unhallow*](../../magic/spells/unhallow.md), the DC of this caster level check increases by 2. You can maintain a number of soul gems at one time equal to your Charisma modifier (minimum 1).
 
@@ -156,7 +156,7 @@ Monitors are listed by their portfolio rather than by name.
 
 1. **Mixed Blessings (Sp)**: [*enhance water*](../../magic/spells/enhance-water.md) 3/day, [*vomit swarm*](../../magic/spells/vomit-swarm.md) 2/day, or [*remove disease*](../../magic/spells/remove-disease.md) 1/day
 2. **Healer’s Mercy (Sp)**: You can cast maximized [*breath of life*](../../magic/spells/breath-of-life.md) 1/day.
-3. **Uncertain Fates (Su)**: You can keep the spirits of any intelligent creatures that die within 30 feet of you, which orbit you as moaning, disembodied forms. For every spirit you keep, you gain a cumulative +1 bonus to AC and caster level checks to overcome spell resistance, but you take a cumulative –1 penalty on Fortitude saving throws. You can keep a number of spirits equal to half your Hit Dice plus your Charisma modifier at one time, but they are released automatically to join the River of Souls if you are stunned, knocked unconscious, or sleeping. As long as you keep the soul of a creature, you can cast *breath of life* on it as if that creature had died in the previous round.
+3. **Uncertain Fates (Su)**: You can keep the spirits of any intelligent creatures that die within 30 feet of you, which orbit you as moaning, disembodied forms. For every spirit you keep, you gain a cumulative +1 bonus to AC and caster level checks to overcome spell resistance, but you take a cumulative –1 penalty on Fortitude saving throws. You can keep a number of spirits equal to half your Hit Dice plus your Charisma modifier at one time, but they are released automatically to join the River of Souls if you are stunned, knocked unconscious, or sleeping. As long as you keep the soul of a creature, you can cast [*breath of life*](../../magic/spells/breath-of-life.md) on it as if that creature had died in the previous round.
 
 ## Psychopomp usher of poetry, trauma and war
 
@@ -184,7 +184,7 @@ Monitors are listed by their portfolio rather than by name.
 
 ### Boons
 
-1. **Temporal Warden (Sp)**: [*sanctuary*](../../magic/spells/sanctuary.md) 3/day, [*silence*](../../magic/spells/silence.md) 2/day, or *sands of time* 1/day
+1. **Temporal Warden (Sp)**: [*sanctuary*](../../magic/spells/sanctuary.md) 3/day, [*silence*](../../magic/spells/silence.md) 2/day, or [*sands of time*](../../magic/spells/sands-of-time.md) 1/day
 2. **Timely Absence (Su)**: Once per day as an immediate action when you would fail a saving throw or be reduced to 0 hit points or fewer by an effect, you can disappear from reality altogether and avoid the immediate effects (not being hit or poisoned, for example). You leave behind a transparent afterimage, and at the beginning of your next turn, you reappear in your space (or the nearest available space if that is now occupied) and are staggered until the end of your turn.
 3. **Invert Entropy (Su)**: You take no penalties from energy drain, though you can still be killed if you accrue more negative levels than you have Hit Dice. Once per day as a move action, you can remove a number of your temporary negative levels equal to half your Hit Dice. For every 2 negative levels removed, you gain 10 temporary hit points and a cumulative +1 insight bonus on ability checks, attack rolls, saving throws, and skill checks; both effects last until the end of your next turn.
 
@@ -250,11 +250,11 @@ Monitors are listed by their portfolio rather than by name.
 
 ## Psychopomp usher of aging, poison and venomous creatures
 
-**Obedience**: Drink a diluted preparation of poison—a single dose of poison is sufficient to prepare five such draughts, and the dilution grants you a +5 circumstance bonus on your saving throw—or allows a venomous creature to bite you. You gain an innate sense of poison, per *detect poison*, as an extraordinary ability with a range of 20 feet.
+**Obedience**: Drink a diluted preparation of poison—a single dose of poison is sufficient to prepare five such draughts, and the dilution grants you a +5 circumstance bonus on your saving throw—or allows a venomous creature to bite you. You gain an innate sense of poison, per [*detect poison*](../../magic/spells/detect-poison.md), as an extraordinary ability with a range of 20 feet.
 
 ### None Boons
 
-1. **Serpent’s Kiss (Sp)**: *polypurpose panacea* 3/day, *touch injection* 2/day, or *sands of time* 1/day
-2. **Breath of Life (Sp)**: You can cast *restoration* once per day.
+1. **Serpent’s Kiss (Sp)**: [*polypurpose panacea*](../../magic/spells/polypurpose-panacea.md) 3/day, [*touch injection*](../../magic/spells/touch-injection.md) 2/day, or *sands of time* 1/day
+2. **Breath of Life (Sp)**: You can cast [*restoration*](../../magic/spells/restoration.md) once per day.
 3. **Wonders of Age (Su)**: You no longer take ability score penalties from aging and cannot be magically aged. Any penalties you may have already incurred remain in place, however. Bonuses still accrue, and you still die of old age when your time is up.
 

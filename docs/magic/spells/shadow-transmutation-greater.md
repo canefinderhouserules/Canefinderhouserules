@@ -8,4 +8,4 @@
 **Duration** see text  
 **Saving Throw** Will disbelief (if interacted with), varies, see text; **Spell Resistance** yes, see text
 
-This spell functions like [shadow transmutation](shadow-transmutation.md), except it can mimic *greater polymorph* instead of *polymorph*. The illusory attacks and special abilities of any shape assumed using *greater shadow transmutation* deal three-fifths (60%) damage to nonbelievers, and nondamaging effects are 60% likely to work against nonbelievers.
+This spell functions like [shadow transmutation](shadow-transmutation.md), except it can mimic *greater polymorph* instead of [*polymorph*](polymorph.md). The illusory attacks and special abilities of any shape assumed using *greater shadow transmutation* deal three-fifths (60%) damage to nonbelievers, and nondamaging effects are 60% likely to work against nonbelievers.

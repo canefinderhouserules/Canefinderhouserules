@@ -8,4 +8,4 @@
 **Duration** 1 hour/level (D)  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions like phantom steed, except you can summon up to six steeds, and you divide the duration in 1-hour intervals among the steeds summoned.
+This spell functions like [*phantom steed*](phantom-steed.md), except you can summon up to six steeds, and you divide the duration in 1-hour intervals among the steeds summoned.

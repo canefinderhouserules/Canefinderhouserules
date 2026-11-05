@@ -72,7 +72,7 @@ The following traits can be selected by drow or half-elves instead of existing d
 
 **Hidden Half-Breed**: In benign communities, half-elves endure assumptions and bigotry based on ignorance and suspicion. In drow society, public knowledge of one's mixed ancestry can mean a cruel death. Half-elves with this trait gain a +2 bonus on Bluff and Disguise checks to pass as full-blooded drow, elves, or humans. This racial trait replaces the ability to choose any language as a bonus language, instead limiting the character to the bonus languages offered to drow.
 
-**Lesser Spell-Like Abilities**: Half-elves with this trait can cast *dancing lights*, *darkness*, and *faerie fire* once each per day. The caster level for these effects is equal to the user's character level. This racial trait replaces adaptability and multitalented.
+**Lesser Spell-Like Abilities**: Half-elves with this trait can cast [*dancing lights*](../../magic/spells/dancing-lights.md), [*darkness*](../../magic/spells/darkness.md), and [*faerie fire*](../../magic/spells/faerie-fire.md) once each per day. The caster level for these effects is equal to the user's character level. This racial trait replaces adaptability and multitalented.
 
 **Psychic Sensitivity**: The Underworld is full of strange energies, and the drow or half-drow who live there practice bloody rituals in exchange for favor and power. Drow or half-elves with this trait gain the [Psychic Sensitivity](../../rules/feats/psychic-sensitivity.md) feat, gaining access to occult skill unlocks normally only available to psychic spellcasters. This racial trait replaces keen senses for drow and half-elves and drow immunities for drow or elven immunities for half-elves.
 
@@ -181,5 +181,5 @@ Many drow cities are frequently beset by attacks from aberrations, prompting the
 
 ### Psychic Sensitivity
 
-The underworld is full of strange energies, and the drow or half-drow who live there practice bloody rituals in exchange for favor and power. Drow or half-elves with this trait gain the Psychic Sensitivity feat, gaining access to occult skill unlocks normally only available to psychic spellcasters. This racial trait replaces keen senses for drow and half-elves and drow immunities for drow or elven immunities for half-elves.
+The underworld is full of strange energies, and the drow or half-drow who live there practice bloody rituals in exchange for favor and power. Drow or half-elves with this trait gain the [Psychic Sensitivity](../../rules/feats/psychic-sensitivity.md) feat, gaining access to occult skill unlocks normally only available to psychic spellcasters. This racial trait replaces keen senses for drow and half-elves and drow immunities for drow or elven immunities for half-elves.
 

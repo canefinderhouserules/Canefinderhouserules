@@ -16,8 +16,8 @@ These mounts gain certain powers according to caster level. A mount’s abilitie
 
 *8th Level*: The mount can ride over sandy, muddy, or even swampy ground without difficulty or decrease in speed.
 
-*10th Level*: The mount can use *water walk* at will (as the spell, no action required to activate this ability).
+*10th Level*: The mount can use [*water walk*](water-walk.md) at will (as the spell, no action required to activate this ability).
 
-*12th Level*: The mount can use *air walk* at will (as the spell, no action required to activate this ability) for up to 1 round at a time, after which it falls to the ground.
+*12th Level*: The mount can use [*air walk*](air-walk.md) at will (as the spell, no action required to activate this ability) for up to 1 round at a time, after which it falls to the ground.
 
 *14th Level*: The mount can fly at its speed with a bonus on Fly skill checks equal to your caster level.

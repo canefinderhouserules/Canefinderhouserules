@@ -8,8 +8,8 @@
 **Duration** 1 week  
 **Saving Throw** Will negates (object); **Spell Resistance** yes (object)
 
-You imbue one or more objects with magic that dramatically slows down natural processes that lead to decay and spoilage. For the duration of the spell, food, water, plants, and other perishable objects affected by the spell remain as fresh as they were when the spell was cast. The spell also protects these objects against spells of the same level or lower that cause spoilage, such as *putrefy food and drink*. When the duration of *preserve* expires, the objects resume aging at their normal rate.
+You imbue one or more objects with magic that dramatically slows down natural processes that lead to decay and spoilage. For the duration of the spell, food, water, plants, and other perishable objects affected by the spell remain as fresh as they were when the spell was cast. The spell also protects these objects against spells of the same level or lower that cause spoilage, such as [*putrefy food and drink*](putrefy-food-and-drink.md). When the duration of *preserve* expires, the objects resume aging at their normal rate.
 
-The spell also works on severed body parts and the bodies of small creatures as per *gentle repose*, provided that the weight of the creature or part does not exceed the spell's limit.
+The spell also works on severed body parts and the bodies of small creatures as per [*gentle repose*](gentle-repose.md), provided that the weight of the creature or part does not exceed the spell's limit.
 
-*Preserve* can be made permanent with a *permanency* spell by a caster of 9th level or higher for 500 gp.
+*Preserve* can be made permanent with a [*permanency*](permanency.md) spell by a caster of 9th level or higher for 500 gp.

@@ -10,4 +10,4 @@
 
 You fill an enemy’s head with waking dreams, a reminder of the pleasures, delights, and terrors to be found in the dream world. While in this strange dream state, the target moves at half its normal speed (round down to the next 5-foot increment), which affects the creature’s jumping distance as normal for decreased speed.
 
-Multiple *haze of dreams* effects do not stack, nor does this spell’s effect stack with *slow*.
+Multiple *haze of dreams* effects do not stack, nor does this spell’s effect stack with [*slow*](slow.md).

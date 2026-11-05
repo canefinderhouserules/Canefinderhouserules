@@ -8,6 +8,6 @@
 **Duration** permanent until discharged (D)  
 **Saving Throw** see text; **Spell Resistance** no (object) and yes (see text)
 
-This spell functions as hex glyph, except you can store a hex or a major hex (but not a grand hex). You trace the glyph with incense, which must first be sprinkled with powdered diamond (as noted in the material line).
+This spell functions as [*hex glyph*](hex-glyph.md), except you can store a hex or a major hex (but not a grand hex). You trace the glyph with incense, which must first be sprinkled with powdered diamond (as noted in the material line).
 
 Read magic allows its caster to identify a greater hex glyph with a DC 16 Spellcraft check.

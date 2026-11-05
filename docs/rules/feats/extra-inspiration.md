@@ -2,7 +2,7 @@
 
 You are more able to draw upon inspiration than most.
 
-**Prerequisite**: Amateur Investigator or inspiration class feature.
+**Prerequisite**: [Amateur Investigator](amateur-investigator.md) or inspiration class feature.
 
 **Benefit**: You gain three extra use per day of inspiration in your inspiration pool.
 

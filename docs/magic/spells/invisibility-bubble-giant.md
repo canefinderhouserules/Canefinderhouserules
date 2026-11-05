@@ -8,4 +8,4 @@
 **Duration** 1 minute/level (D)  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This functions as per *invisibility bubble*, but the bubble is larger, which allows you to target a creature of up to size Gargantuan, or allows more creatures into the bubble.
+This functions as per [*invisibility bubble*](invisibility-bubble.md), but the bubble is larger, which allows you to target a creature of up to size Gargantuan, or allows more creatures into the bubble.

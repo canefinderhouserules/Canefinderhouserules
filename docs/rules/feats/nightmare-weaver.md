@@ -8,4 +8,4 @@ You can use your ability to create magical darkness to terrorize enemies.
 
 **Benefit**: By spending a full-round action to cast darkness, you can also make Intimidate checks to demoralize all foes in the spell’s initial area.
 
-**Special**: This feat counts as Dazzling Display for purposes of qualifying for Deadly Stroke and Shatter Defenses.
+**Special**: This feat counts as [Dazzling Display](dazzling-display.md) for purposes of qualifying for [Deadly Stroke](deadly-stroke.md) and [Shatter Defenses](shatter-defenses.md).

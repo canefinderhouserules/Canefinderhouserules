@@ -24,9 +24,9 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Exalted Boons
 
-1. **Maiden’s Cry (Sp)**: *lesser confusion* 3/day, *hold person* 2/day, or *ray of exhaustion* 1/day
-2. **Binding Touch (Sp)**: Once per day, you can cast *binding* as a spell-like ability, but only at a range of touch. You don’t need to expend any material components to use this ability, but assistants can’t aid you in its casting. You can have only one creature affected by this ability at a time. If you successfully use this ability on a second creature, the previously bound creature is immediately freed.
-3. **Unwind the Clock (Sp)**: You can cast *time stop* once per day as a spell-like ability.
+1. **Maiden’s Cry (Sp)**: *lesser confusion* 3/day, [*hold person*](../../magic/spells/hold-person.md) 2/day, or [*ray of exhaustion*](../../magic/spells/ray-of-exhaustion.md) 1/day
+2. **Binding Touch (Sp)**: Once per day, you can cast [*binding*](../../magic/spells/binding.md) as a spell-like ability, but only at a range of touch. You don’t need to expend any material components to use this ability, but assistants can’t aid you in its casting. You can have only one creature affected by this ability at a time. If you successfully use this ability on a second creature, the previously bound creature is immediately freed.
+3. **Unwind the Clock (Sp)**: You can cast [*time stop*](../../magic/spells/time-stop.md) once per day as a spell-like ability.
 
 ### Sentinel Boons
 
@@ -40,7 +40,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Demoniac Boons
 
-1. **Blessing of the Worm (Sp)**: [*ray of enfeeblement*](../../magic/spells/ray-of-enfeeblement.md) 3/day, [*gentle repose*](../../magic/spells/gentle-repose.md) 2/day, or *slow* 1/day
+1. **Blessing of the Worm (Sp)**: [*ray of enfeeblement*](../../magic/spells/ray-of-enfeeblement.md) 3/day, [*gentle repose*](../../magic/spells/gentle-repose.md) 2/day, or [*slow*](../../magic/spells/slow.md) 1/day
 2. **Curse of Brittle Bones (Sp)**: Once per day, you can use a powerful [*bestow curse*](../../magic/spells/bestow-curse.md), heightened to a 7th-level spell. This special curse causes the creature cursed to suddenly grow to venerable age. This curse imparts a –6 penalty to Strength, Dexterity, and Constitution, but does not grant any bonus to Intelligence, Wisdom, or Charisma. This ability is the equivalent of a 7th-level spell.
 3. **Conqueror Worm (Sp)**: You can use *summon monster IX* once per day, but only to summon one advanced fiendish purple worm.
 
@@ -52,14 +52,14 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Exalted Boons
 
-1. **Blessing of the Worm (Sp)**: *ray of enfeeblement* 3/day, *gentle repose* 2/day, or *slow* 1/day
-2. **Curse of Brittle Bones (Sp)**: Once per day, you can cast a powerful *bestow curse*, heightened to a 7th-level spell, as a spell-like ability. This special curse causes the target creature to suddenly advance to venerable age. This curse imposes a –6 penalty to the target’s Strength, Dexterity, and Constitution scores, but its Intelligence, Wisdom, or Charisma scores do not increase. These penalties do not stack with any existing penalties a creature might already have as the result of advanced age.
+1. **Blessing of the Worm (Sp)**: [*ray of enfeeblement*](../../magic/spells/ray-of-enfeeblement.md) 3/day, [*gentle repose*](../../magic/spells/gentle-repose.md) 2/day, or *slow* 1/day
+2. **Curse of Brittle Bones (Sp)**: Once per day, you can cast a powerful [*bestow curse*](../../magic/spells/bestow-curse.md), heightened to a 7th-level spell, as a spell-like ability. This special curse causes the target creature to suddenly advance to venerable age. This curse imposes a –6 penalty to the target’s Strength, Dexterity, and Constitution scores, but its Intelligence, Wisdom, or Charisma scores do not increase. These penalties do not stack with any existing penalties a creature might already have as the result of advanced age.
 3. **Call of the Worm (Sp)**: By placing a hand upon the ground and whispering a series of blasphemies to your demon lord, you can call up from below an immense and destructive manifestation of your fiendish lord. You can cast *summon monster IX* once per day as a spell-like ability to summon one advanced fiendish purple worm.
 
 ### Sentinel Boons
 
-1. **Hasten the End (Sp)**: *expeditious retreat* 3/day, [*silence*](../../magic/spells/silence.md) 2/day, or [*sands of time*](../../magic/spells/sands-of-time.md) 1/day
-2. **Specter of Time (Su)**: As a swift action when you confirm a critical hit with a weapon against a living foe, instead of dealing the additional damage from the critical hit, you can instead deal normal damage and force the target to attempt a Fortitude save (DC = 10 + half your Hit Dice + your Charisma modifier). On a failed save, the target painfully advances in years to the next age category. This aging can never have beneficial effects (such as if used against a true dragon). The target gains the penalties associated with the new age category to its Strength, Dexterity, and Constitution scores, but its Intelligence, Wisdom, or Charisma scores do not increase. This advanced age effect lasts for 24 hours before it fades and the affected creature returns to its normal age. A venerable creature (including one whose age has been magically accelerated via this ability to venerable, but not one whose age is temporarily advanced from other effects, such as per *sands of time*) that fails its saving throw against the aging effects of this ability is instantly slain, as if via old age (though the body instantly reverts to its original age appearance upon death). A creature slain by this effect can only be restored to life via *miracle*, [*reincarnate*](../../magic/spells/reincarnate.md), *true resurrection*, or *wish*. This is a curse effect.
+1. **Hasten the End (Sp)**: [*expeditious retreat*](../../magic/spells/expeditious-retreat.md) 3/day, [*silence*](../../magic/spells/silence.md) 2/day, or [*sands of time*](../../magic/spells/sands-of-time.md) 1/day
+2. **Specter of Time (Su)**: As a swift action when you confirm a critical hit with a weapon against a living foe, instead of dealing the additional damage from the critical hit, you can instead deal normal damage and force the target to attempt a Fortitude save (DC = 10 + half your Hit Dice + your Charisma modifier). On a failed save, the target painfully advances in years to the next age category. This aging can never have beneficial effects (such as if used against a true dragon). The target gains the penalties associated with the new age category to its Strength, Dexterity, and Constitution scores, but its Intelligence, Wisdom, or Charisma scores do not increase. This advanced age effect lasts for 24 hours before it fades and the affected creature returns to its normal age. A venerable creature (including one whose age has been magically accelerated via this ability to venerable, but not one whose age is temporarily advanced from other effects, such as per [*sands of time*](../../magic/spells/sands-of-time.md)) that fails its saving throw against the aging effects of this ability is instantly slain, as if via old age (though the body instantly reverts to its original age appearance upon death). A creature slain by this effect can only be restored to life via [*miracle*](../../magic/spells/miracle.md), [*reincarnate*](../../magic/spells/reincarnate.md), [*true resurrection*](../../magic/spells/true-resurrection.md), or [*wish*](../../magic/spells/wish.md). This is a curse effect.
 3. **End Time (Sp)**: You can call upon your demon lord to temporarily consume time itself in an area surrounding you. You can cast *time stop* once per day as a spell-like ability. When you use this ability, those in the area of effect are subjected to a powerful vision—that the world they are in becomes wrapped in the endless coils of your demon lord. The affected creatures never glimpse your demon lord’s head, and know only for the brief instant of eternity they spend in your time stop area that the world around them is fully wrapped in the coils of something more foul than they even imagined.
 
 ## Demon lord of alchemy, invention and transformation
@@ -80,8 +80,8 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Exalted Boons
 
-1. **Truth in the Flesh (Sp)**: *enlarge person* 3/day, *alter self* 2/day, or *beast shape I* 1/day
-2. **Transformation (Sp)**: You can cast extended *transformation* as a spell-like ability once per day.
+1. **Truth in the Flesh (Sp)**: [*enlarge person*](../../magic/spells/enlarge-person.md) 3/day, [*alter self*](../../magic/spells/alter-self.md) 2/day, or *beast shape I* 1/day
+2. **Transformation (Sp)**: You can cast extended [*transformation*](../../magic/spells/transformation.md) as a spell-like ability once per day.
 3. **Master of Shapes (Su)**: You gain the shapechanger subtype. Your body can react instantaneously to mitigate attacks, granting you immunity to critical hits and sneak attacks (which are treated as normal attacks). Whenever you are affected by a polymorph effect, you regain 4d8 hit points.
 
 ### Sentinel Boons
@@ -108,7 +108,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Exalted Boons
 
-1. **Swamper’s Boon (Sp)**: *jump* 3/day, *summon swarm* 2/day, or *water walk* 1/day
+1. **Swamper’s Boon (Sp)**: [*jump*](../../magic/spells/jump.md) 3/day, [*summon swarm*](../../magic/spells/summon-swarm.md) 2/day, or [*water walk*](../../magic/spells/water-walk.md) 1/day
 2. **Warty Skin (Ex)**: Just as the flesh of her favored minions, your skin grows thick and warty (or more warty than normal, in the case of a worshiper such as a boggard), increasing your base natural armor bonus by 3.
 3. **Summon Froghemoth (Sp)**: Once per day, you can summon a fiendish froghemoth as if using *summon monster IX*.
 
@@ -116,7 +116,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 1. **Plague of Frogs (Sp)**: *summon monster I* (1 fiendish poisonous frog) 3/day, *summon monster II* (1 fiendish giant frog or 1d3 fiendish poisonous frogs) 2/day, or [*rain of frogs*](../../magic/spells/rain-of-frogs.md) 1/day
 2. **Boggard’s Blessing (Ex)**: Your form becomes batrachian in aspect, like the frogfolk of the marshes. You gain the boggard’s hold breath, sticky tongue, and terrifying croak abilities. In addition, you count as a boggard for the purpose of effects, including prerequisites (although you lose access to related options if you haven’t performed your obedience). If you are a boggard, you instead gain a permanent +2 profane bonus to Strength, Dexterity, Constitution, and the DC of your terrifying croak ability, and you can use your terrifying croak ability at will.
-3. **Kiss of the Swamp (Sp)**: Calling out to the Song of the Swamp, you transform those who oppose you into frogs and toads. Any number of creatures of your choice within 30 feet must succeed at a Fortitude save or be transformed into Diminutive frogs or toads, as per [*baleful polymorph*](../../magic/spells/baleful-polymorph.md) but heightened to a 9th-level spell. As with *baleful polymorph*, any creature that fails its Fortitude save must then succeed at a Will save to retain its mental faculties. Any creature that intentionally touches a creature transformed this way must succeed at the same saving throws or be transformed as well; a creature that kisses a transformed creature automatically fails its Fortitude save against this effect but automatically succeeds at its Will save. This ability can be used once per day.
+3. **Kiss of the Swamp (Sp)**: Calling out to the Song of the Swamp, you transform those who oppose you into frogs and toads. Any number of creatures of your choice within 30 feet must succeed at a Fortitude save or be transformed into Diminutive frogs or toads, as per [*baleful polymorph*](../../magic/spells/baleful-polymorph.md) but heightened to a 9th-level spell. As with [*baleful polymorph*](../../magic/spells/baleful-polymorph.md), any creature that fails its Fortitude save must then succeed at a Will save to retain its mental faculties. Any creature that intentionally touches a creature transformed this way must succeed at the same saving throws or be transformed as well; a creature that kisses a transformed creature automatically fails its Fortitude save against this effect but automatically succeeds at its Will save. This ability can be used once per day.
 
 ## Demon lord of apes, jungles and tyrants
 
@@ -130,13 +130,13 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Evangelist Boons
 
-1. **The Jungle Consumes (Sp)**: [*pass without trace*](../../magic/spells/pass-without-trace.md) 3/day, *tree shape* 2/day, or [*spike growth*](../../magic/spells/spike-growth.md) 1/day
+1. **The Jungle Consumes (Sp)**: [*pass without trace*](../../magic/spells/pass-without-trace.md) 3/day, [*tree shape*](../../magic/spells/tree-shape.md) 2/day, or [*spike growth*](../../magic/spells/spike-growth.md) 1/day
 2. **Canopy Crawler (Ex)**: Your feet become prehensile, making you adept at brachiating, and you can move unseen through the trees with ease. You gain a climb speed equal to your base speed + 10 feet, and you can attempt a Climb check in place of an Acrobatics check to leap or swing between branches or trees. As long as your feet are available (magical footwear reshapes to permit use, but mundane shoes do not), you can perform climbing-related activities without needing to use your hands, and you don’t lose your Dexterity bonus to AC or your ability to use a shield while climbing. In addition, you can attempt a Climb check in place of a Stealth check while in the trees and can do so at full speed without taking penalties. You can also attempt a Climb check in place of a Stealth check while sniping from the trees, reducing the penalty for sniping by 10. You can execute somatic spell components and carry objects with your feet, though you can’t wield weapons or shields with them.
 3. **One With The Jungle (Su)**: You tap into the collective consciousness of the jungle’s life, from mighty trees to tiny gnats, granting you perfect awareness of all that transpires in your vicinity. While in the jungle, you gain blindsight to a range of 60 feet, you gain a +2 insight bonus to AC and on saving throws, and you are never flat-footed or surprised. You ignore cover and concealment caused by natural features of the jungle, as the very plants and stones twist out of the path of your attacks and spells.
 
 ### Exalted Boons
 
-1. **Jungle’s Wrath (Sp)**: *entangle* 3/day, *bull’s strength* 2/day, or *summon monster III* (1 fiendish ape, 1d3 fiendish advanced baboons, or 1d4+1 fiendish baboons) 1/day
+1. **Jungle’s Wrath (Sp)**: [*entangle*](../../magic/spells/entangle.md) 3/day, [*bull’s strength*](../../magic/spells/bulls-strength.md) 2/day, or *summon monster III* (1 fiendish ape, 1d3 fiendish advanced baboons, or 1d4+1 fiendish baboons) 1/day
 2. **Summon Child of the Ape Lord (Sp)**: Once per day as a swift action, you can summon an advanced fiendish girallon, 1d3 advanced fiendish dire apes, or 1d4+1 advanced fiendish apes as if you had cast *summon monster VI*.
 3. **Jungle’s Might (Su)**: You gain a +2 profane bonus to your Strength score and a +2 bonus on Fortitude saving throws.
 
@@ -152,21 +152,21 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Demoniac Boons
 
-1. **The Lady's Charms (Sp)**: [*charm person*](../../magic/spells/charm-person.md) 3/day, [*darkness*](../../magic/spells/darkness.md) 2/day, or *suggestion* 1/day
+1. **The Lady's Charms (Sp)**: [*charm person*](../../magic/spells/charm-person.md) 3/day, [*darkness*](../../magic/spells/darkness.md) 2/day, or [*suggestion*](../../magic/spells/suggestion.md) 1/day
 2. **Instant Blindness (Sp)**: Three times per day, you can cast quickened *blindness/deafness*.
 3. **Dominate Thrall (Sp)**: Once per day, you may cast [*dominate monster*](../../magic/spells/dominate-monster.md). You may only have one creature dominated at a time via this effect, but the effects are permanent until you dominate a new target, at which point the previous target is released from domination but is stunned for 1d4 rounds.
 
 ### Evangelist Boons
 
-1. **Kiss of the Succubus (Sp)**: [*unnatural lust*](../../magic/spells/unnatural-lust.md) 3/day, [*detect thoughts*](../../magic/spells/detect-thoughts.md) 2/day, or *vampiric touch* 1/day
+1. **Kiss of the Succubus (Sp)**: [*unnatural lust*](../../magic/spells/unnatural-lust.md) 3/day, [*detect thoughts*](../../magic/spells/detect-thoughts.md) 2/day, or [*vampiric touch*](../../magic/spells/vampiric-touch.md) 1/day
 2. **Tempting Flesh (Su)**: You can shape your flesh into seductive forms. You gain the change shape universal monster ability, usable once per day as a standard action, allowing you to take the shape of any Small or Medium humanoid. Your natural form becomes beautiful and sexually appealing, and you gain horns, a pointed tail, and small wings. While in your natural form, you gain a tiefling’s darkvision and fiendish resistance racial traits as well as the prehensile tail and vestigial wings alternate racial traits. If you’re already a tiefling, you gain a +2 bonus to Charisma instead of these additional tiefling traits. In any form, you gain a +4 bonus on Bluff checks to deceive or lie.
 3. **Deadly Caress (Su)**: Like with a succubus, romantic or sexual contact with you can be deadly. When you engage in an act of passion (such as a kiss) with another creature, you bestow one negative level upon that creature. You must grapple an unwilling creature to use this ability on them. Such an act of passion also has the effect of a *suggestion* spell asking the victim to accept another act of passion. The DC of this suggestion, as well as the DC to remove any negative levels bestowed this way, is equal to 10 + half your Hit Dice + your Charisma modifier. You can initially activate this ability only once per day, but once you do so to target a specific creature, you can affect that creature with this ability at will.
 
 ### Exalted Boons
 
-1. **The Lady’s Charms (Sp)**: *charm person* 3/day, *darkness* 2/day, or *suggestion* 1/day
+1. **The Lady’s Charms (Sp)**: [*charm person*](../../magic/spells/charm-person.md) 3/day, [*darkness*](../../magic/spells/darkness.md) 2/day, or *suggestion* 1/day
 2. **Instant Blindness (Sp)**: Three times per day, you can cast quickened *blindness/deafness* as a spell-like ability.
-3. **Dominate Thrall (Sp)**: Once per day, you can cast *dominate monster* as a spell-like ability. You can have only one creature dominated at a time via this effect, but the effects are permanent until you dominate a new target, at which point the previous target is released from domination but is stunned for 1d4 rounds.
+3. **Dominate Thrall (Sp)**: Once per day, you can cast [*dominate monster*](../../magic/spells/dominate-monster.md) as a spell-like ability. You can have only one creature dominated at a time via this effect, but the effects are permanent until you dominate a new target, at which point the previous target is released from domination but is stunned for 1d4 rounds.
 
 ### Sentinel Boons
 
@@ -182,11 +182,11 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 1. **Conspirator's Whisper (Sp)**: *summon monster I* 3/day, [*misdirection*](../../magic/spells/misdirection.md) 2/day, or *beast shape I* 1/day
 2. **Minotaur Form (Su)**: Once per day, you may change shape into a minotaur for 1 hour. When you do so, you gain a +4 size bonus to Strength, but suffer a –2 penalty to Charisma. If you are actually a minotaur, this ability instead allows you to assume a humanoid form at will (this change of form does not alter your ability scores).
-3. **Maze of Madness (Sp)**: Extended *maze* 1/day.
+3. **Maze of Madness (Sp)**: Extended [*maze*](../../magic/spells/maze.md) 1/day.
 
 ### Evangelist Boons
 
-1. **Walk among the Herd (Sp)**: *pass without trace* 3/day, undetectable alignment 2/day, or *clairaudience/clairvoyance* 1/day
+1. **Walk among the Herd (Sp)**: [*pass without trace*](../../magic/spells/pass-without-trace.md) 3/day, undetectable alignment 2/day, or *clairaudience/clairvoyance* 1/day
 2. **Unquestioned Influence (Sp)**: As a reward for your devotion to him, your demon lord grants you the power to make pawns of the weak willed and spread your influence among the ignorant masses. Three times per day, you can cast *mass suggestion* as a spell-like ability.
 3. **Invoke Tempter (Sp)**: You can conjure an agent of the Abyss to spread demonic intrigues and tempt the foolish. Once per day as a standard action, you can conjure a glabrezu to your location. The glabrezu remains for 1 minute per Hit Die you have before returning to the Abyss. This is a calling effect, and the glabrezu is not under your control, although it generally aids you and follows your directives. This glabrezu is loath to employ its *wish* ability for your use, preferring instead to offer it to others as a bargaining chip on your behalf or to tempt foolish mortals. This ability always calls the same glabrezu; if the glabrezu conjured this way is slain, you cannot use this boon for 1 month (at which point you can call a new glabrezu).
 
@@ -216,17 +216,17 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 1. **Webspinner (Sp)**: [*web bolt*](../../magic/spells/web-bolt.md) 3/day, [*web shelter*](../../magic/spells/web-shelter.md) 2/day, or *vermin shape I* 1/day
 2. **Blessing of your demon lord (Ex)**: The dreams you experience of becoming one with your demon lord finally manifest in reality with a welcome change to your form. Your lower half swells into a bloated spider’s body, complete with eight spindly legs and dripping spinnerets. You become one size category larger, but your reach and the size of weapons you wield do not change. You gain the web universal monster ability (usable seven times per day) and a climb speed of 20 feet. You gain darkvision with a range of 60 feet (or the range of your existing darkvision increases by 30 feet). Finally, you gain a permanent +2 bonus to your Strength, Dexterity, or Constitution score (your choice).
-3. **Arachnidal Rebirth (Su)**: Your demon lord often uses the bodies of her victims as sources of nourishment for her brood, and the monstrosities that hatch from her corpse-implanted eggs often incorporate elements of the body in which they were birthed. In emulation of this horrific method of reproduction, you have been granted the ability to curse a foe to rebirth itself—when you do so, its new and horrible form bursts from the husk of its old flesh. This works like the witch’s forced reincarnation hex, but instead of becoming a random race, the creature’s new body is that of a spider of its original size category with the head of its original form. As with *reincarnate*, a rebirthed creature can be returned to its original form only through a *wish* or *miracle* spell. This ability can be used once per day, and a successful Fortitude save (DC = 10 + half your Hit Dice + your Charisma modifier) negates this effect. If you have the hex or hex arcana class feature, you can use the DC for your hexes instead.
+3. **Arachnidal Rebirth (Su)**: Your demon lord often uses the bodies of her victims as sources of nourishment for her brood, and the monstrosities that hatch from her corpse-implanted eggs often incorporate elements of the body in which they were birthed. In emulation of this horrific method of reproduction, you have been granted the ability to curse a foe to rebirth itself—when you do so, its new and horrible form bursts from the husk of its old flesh. This works like the witch’s forced reincarnation hex, but instead of becoming a random race, the creature’s new body is that of a spider of its original size category with the head of its original form. As with [*reincarnate*](../../magic/spells/reincarnate.md), a rebirthed creature can be returned to its original form only through a *wish* or *miracle* spell. This ability can be used once per day, and a successful Fortitude save (DC = 10 + half your Hit Dice + your Charisma modifier) negates this effect. If you have the hex or hex arcana class feature, you can use the DC for your hexes instead.
 
 ### Exalted Boons
 
-1. **Binding Embrace (Sp)**: *animate rope* 3/day, *web* 2/day, or *snare* 1/day
-2. **Spider’s Blessing (Sp)**: Through study of eldritch patterns in the webs spun by spiders influenced by the Abyss, you have unlocked in your mind a pair of magical powers associated with your demon lord you adore so. You can cast *poison* and vermin shape II once per day each as spell-like abilities.
-3. **Temporal Web (Sp)**: As you continue to study the patterns and twists in Abyssally influenced spiderwebs, you unlock a greater magical talent within yourself and can use webbing to trap a victim in place and outside of time’s flow itself. Once per day, you can cast *temporal stasis* heightened to function as a 9th-level spell. The target of this ability appears to be wrapped tightly in spiderwebs. You can maintain up to three targets in temporal webs at a time; if you use this ability on a fourth target, you must select one of the other three targets to immediately release.
+1. **Binding Embrace (Sp)**: [*animate rope*](../../magic/spells/animate-rope.md) 3/day, *web* 2/day, or [*snare*](../../magic/spells/snare.md) 1/day
+2. **Spider’s Blessing (Sp)**: Through study of eldritch patterns in the webs spun by spiders influenced by the Abyss, you have unlocked in your mind a pair of magical powers associated with your demon lord you adore so. You can cast [*poison*](../../magic/spells/poison.md) and vermin shape II once per day each as spell-like abilities.
+3. **Temporal Web (Sp)**: As you continue to study the patterns and twists in Abyssally influenced spiderwebs, you unlock a greater magical talent within yourself and can use webbing to trap a victim in place and outside of time’s flow itself. Once per day, you can cast [*temporal stasis*](../../magic/spells/temporal-stasis.md) heightened to function as a 9th-level spell. The target of this ability appears to be wrapped tightly in spiderwebs. You can maintain up to three targets in temporal webs at a time; if you use this ability on a fourth target, you must select one of the other three targets to immediately release.
 
 ### Sentinel Boons
 
-1. **Adhesive Arcana (Sp)**: [*adhesive spittle*](../../magic/spells/adhesive-spittle.md) 3/day, *spider climb* 2/day, or *slow* 1/day
+1. **Adhesive Arcana (Sp)**: [*adhesive spittle*](../../magic/spells/adhesive-spittle.md) 3/day, [*spider climb*](../../magic/spells/spider-climb.md) 2/day, or *slow* 1/day
 2. **Caught in the Web (Sp)**: You can call out to your demon lord to wrap your foes in paralytic webs. Three times per day, you can cast quickened *web* as a spell-like ability.
 3. **Trapped Like Flies (Su)**: If a target begins a turn entangled in a web you created, it must succeed at a Fortitude save (DC = 10 + half your Hit Dice + your Charisma modifier) or take 1d6 points of Strength drain. This is a poison effect.
 
@@ -248,8 +248,8 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Exalted Boons
 
-1. **Blood Favor (Sp)**: *deathwatch* 3/day, *spider climb* 2/day, or *vampiric touch* 1/day
-2. **Blood Is Life (Su)**: Not all of those who venerate your demon lord are themselves undead vampires, but all who worship her are expected to drink blood as part of their duty to your demon lord. Your faith in the demon lord allows you to gain more than just religious rapture and sustenance from blood, provided the blood you drink is fresh and warm. Once per day as a full-round action, you can drink the blood of a creature that has been dead for no more than 1 hour to gain the benefits of *heroes’ feast* and *death knell* for 1 hour. The blood you imbibe must come from a creature with a minimum CR of your character level – 2.
+1. **Blood Favor (Sp)**: [*deathwatch*](../../magic/spells/deathwatch.md) 3/day, *spider climb* 2/day, or *vampiric touch* 1/day
+2. **Blood Is Life (Su)**: Not all of those who venerate your demon lord are themselves undead vampires, but all who worship her are expected to drink blood as part of their duty to your demon lord. Your faith in the demon lord allows you to gain more than just religious rapture and sustenance from blood, provided the blood you drink is fresh and warm. Once per day as a full-round action, you can drink the blood of a creature that has been dead for no more than 1 hour to gain the benefits of [*heroes’ feast*](../../magic/spells/heroes-feast.md) and [*death knell*](../../magic/spells/death-knell.md) for 1 hour. The blood you imbibe must come from a creature with a minimum CR of your character level – 2.
 3. **Vampirism (Su)**: While your demon lord’s favored worshipers are vampires, she still values the service of powerful cult members who yet live, for a living cultist can move about in the light of day and need not fear the weaknesses most vampires do. But this is not to say that your demon lord denies her greatest followers the bliss and rapture of becoming a vampire, at least for short periods of time. Thanks to your long-standing devotion to your demon lord, you have become one of those chosen few to gain this peek into a vampire’s unlife without having to give up living. Once per day, you can infuse yourself with the qualities of a vampire. Apply the vampire template to yourself for the duration of this effect, which lasts for 1d6 rounds plus an additional number of rounds equal to your Charisma bonus. When the effect ends, you are staggered for 1d4 rounds. In time, most worshipers of your demon lord hope to become vampires, and those who do and have this boon find that they can still draw upon its effects to bolster their power. If you are already a vampire and you activate this boon, you gain the advanced creature simple template for the duration of this effect.
 
 ### Sentinel Boons
@@ -276,7 +276,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Exalted Boons
 
-1. **Reptile Blessing (Sp)**: *charm animal* (reptiles only) 3/day, *darkness* 2/day, or *greater magic fang* 1/day
+1. **Reptile Blessing (Sp)**: [*charm animal*](../../magic/spells/charm-animal.md) (reptiles only) 3/day, *darkness* 2/day, or *greater magic fang* 1/day
 2. **Children of the Caves (Sp)**: Once per day, you can cast *summon monster VII* as a spell-like ability to summon one fiendish tyrannosaurus, 1d3 fiendish elasmosauruses, or 1d4+1 fiendish ankylosauruses.
 3. **Primeval Might (Ex)**: You become infused with primeval power, gaining a +4 profane bonus to your Constitution score and natural armor.
 
@@ -292,13 +292,13 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Demoniac Boons
 
-1. **Swarming Susurrus (Sp)**: *inflict light wounds* 3/day, *summon swarm* 2/day, or *summon monster III* (vermin only) 1/day
+1. **Swarming Susurrus (Sp)**: [*inflict light wounds*](../../magic/spells/inflict-light-wounds.md) 3/day, *summon swarm* 2/day, or *summon monster III* (vermin only) 1/day
 2. **Swarm Walker (Su)**: You can walk through any swarm without fear of taking damage or suffering any ill effects— swarms recognize you as one of their own. As long as you stand within a swarm, you gain a +4 profane bonus on Initiative checks and on all saving throws.
 3. **Swarm Master (Sp)**: Quickened [*insect plague*](../../magic/spells/insect-plague.md) 1/day.
 
 ### Evangelist Boons
 
-1. **Locusts’ Gifts (Sp)**: *jump* 3/day, *acid arrow* 2/day, or fly 1/day
+1. **Locusts’ Gifts (Sp)**: *jump* 3/day, [*acid arrow*](../../magic/spells/acid-arrow.md) 2/day, or fly 1/day
 2. **Avatar of the Swarm (Sp)**: You can cast [*verminous transformation*](../../magic/spells/verminous-transformation.md) as a spell-like ability once per day; the swarming parts of your body are comprised of locusts, and your swarm attack deals double damage to plant creatures.
 3. **Infestation of Flesh (Su)**: Once per day as a standard action, you can take the form of a hellwasp swarm for up to 8 hours. You gain swarm traits (including immunity to weapon damage) and a swarm attack. You also gain the distraction, inhabit, and poison special attacks. While in this form, you cannot perform any actions that the swarm could not perform; this includes casting spells with somatic components and wielding weapons or items. While not using the swarm’s inhabit ability, you can return to your normal form as a full-round action. This is a polymorph effect.
 
@@ -306,7 +306,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 1. **Swarming Susurrus (Sp)**: *inflict light wounds* 3/day, *summon swarm* 2/day, or *summon monster III* (vermin only) 1/day
 2. **Swarm-Walker (Su)**: You can walk through any swarm without taking damage or suffering any ill effects—swarms recognize you as one of their own. As long as you stand within a swarm, you gain a +4 profane bonus on initiative checks and saving throws.
-3. **Swarm Master (Sp)**: You can cast quickened *insect plague* once per day.
+3. **Swarm Master (Sp)**: You can cast quickened [*insect plague*](../../magic/spells/insect-plague.md) once per day.
 
 ### Sentinel Boons
 
@@ -332,9 +332,9 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Exalted Boons
 
-1. **Frozen Wrath (Sp)**: *chill touch* 3/day, *bull’s strength* 2/day, or *sleet storm* 1/day
+1. **Frozen Wrath (Sp)**: [*chill touch*](../../magic/spells/chill-touch.md) 3/day, *bull’s strength* 2/day, or [*sleet storm*](../../magic/spells/sleet-storm.md) 1/day
 2. **Cold’s Caress (Ex)**: Your lord’s realm is a perpetually frozen landscape, and in unholy anticipation of taking your rightful place in that land your body has begun to adapt and change. You gain cold resistance 30. If you are immune to cold, or gain immunity to cold at a point after you gain this boon, you instead gain fire resistance 30.
-3. **Wrath of Frost (Sp)**: Regardless of your true form, you see purity and power in the hulking shape of all giants. As a reward for your faith and devotion, you have gained the ability to cast *giant form I* as a spell-like ability once per day. Three times during this ability’s duration, you can cast empowered *cone of cold* as a spell-like ability.
+3. **Wrath of Frost (Sp)**: Regardless of your true form, you see purity and power in the hulking shape of all giants. As a reward for your faith and devotion, you have gained the ability to cast *giant form I* as a spell-like ability once per day. Three times during this ability’s duration, you can cast empowered [*cone of cold*](../../magic/spells/cone-of-cold.md) as a spell-like ability.
 
 ### Sentinel Boons
 
@@ -348,21 +348,21 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Demoniac Boons
 
-1. **Witch's Trick (Sp)**: [*disguise self*](../../magic/spells/disguise-self.md) 3/day, *misdirection* 2/day, or *bestow curse* 1/day
+1. **Witch's Trick (Sp)**: [*disguise self*](../../magic/spells/disguise-self.md) 3/day, [*misdirection*](../../magic/spells/misdirection.md) 2/day, or *bestow curse* 1/day
 2. **Elder's Grace (Ex)**: You immediately age into the next age category, taking all of the appropriate bonuses to mental ability scores without any of the penalties to physical ability scores. If you are venerable when you achieve the boon, you die and become a ghost. Any illusion effect you create gains a +2 profane bonus to the save DC.
 3. **Shriek of the Damned (Sp)**: Once per day you may use [*wail of the banshee*](../../magic/spells/wail-of-the-banshee.md).
 
 ### Evangelist Boons
 
-1. **Deceiver (Sp)**: *silent image* 3/day, *invisibility* 2/day, or [*glibness*](../../magic/spells/glibness.md) 1/day
+1. **Deceiver (Sp)**: [*silent image*](../../magic/spells/silent-image.md) 3/day, [*invisibility*](../../magic/spells/invisibility.md) 2/day, or [*glibness*](../../magic/spells/glibness.md) 1/day
 2. **Covenant of Three (Su or Sp)**: You may not be a hag, but you can wield hags’ power in conjunction with your sisters. You count as a hag for the purpose of forming a coven. You can be part of a coven only if it has no male members. If you are already a hag (or already count as one for the purpose of forming a coven), you can use [*project image*](../../magic/spells/project-image.md) once per day as a spell-like ability.
 3. **Black Magic (Su)**: Your demon lord imbues you with the darkest power of witchcraft. You gain a grand hex, chosen from any of those available to witches. This hex’s DC is equal to 10 + half your level + your Intelligence, Wisdom, or Charisma modifier (whichever is highest); if you are a witch, you can use your hexes’ DC instead. If you are not a witch or a hag, you can use this hex only once per day.
 
 ### Exalted Boons
 
-1. **Witch’s Trick (Sp)**: *disguise self* 3/day, *misdirection* 2/day, or *bestow curse* 1/day
+1. **Witch’s Trick (Sp)**: [*disguise self*](../../magic/spells/disguise-self.md) 3/day, *misdirection* 2/day, or *bestow curse* 1/day
 2. **Elder’s Grace (Ex)**: You immediately age to the next age category, gaining all of the appropriate bonuses to your mental ability scores without taking any penalties to your physical ability scores. If you are venerable when you achieve this boon, you die and become a ghost. Any illusion effect you create gains a +2 profane bonus to the save DC. This transformation into a ghost persists even if you fail to perform your obedience.
-3. **Shriek of the Damned (Sp)**: Once per day, you can cast *wail of the banshee* as a spell-like ability.
+3. **Shriek of the Damned (Sp)**: Once per day, you can cast [*wail of the banshee*](../../magic/spells/wail-of-the-banshee.md) as a spell-like ability.
 
 ### Sentinel Boons
 
@@ -384,17 +384,17 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 1. **Power of Death (Sp)**: *inflict light wounds* 3/day, *death knell* 2/day, or [*animate dead*](../../magic/spells/animate-dead.md) 1/day
 2. **Destined for Undeath (Su)**: Your soul is tainted with the essence of undeath. You are damaged by positive energy and healed by negative energy, as if you were undead; the bonus on saving throws granted by your obedience applies against positive energy effects instead of negative energy effects (you retain the bonus on saving throws against death effects). In addition, you gain immunity to exhaustion, fatigue, and nonlethal damage, and you gain a +4 bonus on saving throws against death effects, diseases, mind-affecting effects, paralysis, poisons, stunning, and effects that cause damage, drain, or penalties to your physical ability scores.
-3. **Word of Finality (Sp)**: With a single word of unfathomably dark power, you can invoke a concentrated upsurge of negative energy within a living target’s body, snuffing out a creature’s life force with horrific speed. Once per day, you can cast *power word kill* as a spell-like ability. This is a necromancy (death) effect instead of an enchantment (compulsion) [mind-affecting] effect.
+3. **Word of Finality (Sp)**: With a single word of unfathomably dark power, you can invoke a concentrated upsurge of negative energy within a living target’s body, snuffing out a creature’s life force with horrific speed. Once per day, you can cast [*power word kill*](../../magic/spells/power-word-kill.md) as a spell-like ability. This is a necromancy (death) effect instead of an enchantment (compulsion) [mind-affecting] effect.
 
 ### Exalted Boons
 
-1. **Necromancer’s Secrets (Sp)**: *detect undead* 3/day, *command undead* 2/day, or *vampiric touch* 1/day
-2. **Invoke Death (Sp)**: Once per day, you can cast *slay living* as a spell-like ability. A creature slain by this spell immediately rises from death as a juju zombie. The juju zombie is not under your control, but it will not attack you.
+1. **Necromancer’s Secrets (Sp)**: [*detect undead*](../../magic/spells/detect-undead.md) 3/day, [*command undead*](../../magic/spells/command-undead.md) 2/day, or *vampiric touch* 1/day
+2. **Invoke Death (Sp)**: Once per day, you can cast [*slay living*](../../magic/spells/slay-living.md) as a spell-like ability. A creature slain by this spell immediately rises from death as a juju zombie. The juju zombie is not under your control, but it will not attack you.
 3. **Call the Dead (Sp)**: Once per day, you can summon a nightwing, 1d3 devourers, or 1d4+1 advanced mohrgs as if you had cast *summon monster IX*.
 
 ### Sentinel Boons
 
-1. **Abyssal Rage (Sp)**: [*doom*](../../magic/spells/doom.md) 3/day, *sound burst* 2/day, or [*rage*](../../magic/spells/rage.md) 1/day
+1. **Abyssal Rage (Sp)**: [*doom*](../../magic/spells/doom.md) 3/day, [*sound burst*](../../magic/spells/sound-burst.md) 2/day, or [*rage*](../../magic/spells/rage.md) 1/day
 2. **Aspect of the Prince (Sp)**: You can take on a form resembling that of your demon lord himself. You can cast [*divine vessel*](../../magic/spells/divine-vessel.md) once per day as a spell-like ability, but only to assume a fiendish aspect. Instead of gaining two claw attacks from this fiendish aspect, you gain a gore attack that deals 2d6 points of damage.
 3. **Wand of Undeath (Sp)**: Like the legendary *Wand of Undeath*, you can cause your mace to inflict instant death upon those it strikes. Once per day as a swift action upon successfully hitting a creature with a melee attack with a heavy mace, you can cast *slay living* on that creature. You must be wielding a heavy mace when you utilize this ability—while the heavy mace can itself be magical, it can’t be one that bears any form of lawful or good magic (such as a *holy weapon*) or one that has particular power over undead (such as an *undead bane* or *disrupting* weapon).
 
@@ -416,13 +416,13 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Exalted Boons
 
-1. **First Oath (Sp)**: *speak with animals* (aquatic animals only) 3/day, *disfiguring touch* 2/day, or *summon monster III* (aquatic creatures only) 1/day
+1. **First Oath (Sp)**: [*speak with animals*](../../magic/spells/speak-with-animals.md) (aquatic animals only) 3/day, [*disfiguring touch*](../../magic/spells/disfiguring-touch.md) 2/day, or *summon monster III* (aquatic creatures only) 1/day
 2. **Second Oath (Ex)**: You become immune to damage from water pressure and gain the ability to breathe water, a +2 profane bonus to Constitution, and a swim speed equal to your base speed (if you already have a swim speed, it increases by 30 feet instead).
 3. **Third Oath (Sp)**: You can cast *dominate monster* as a spell-like ability once per day but can target only aquatic creatures or creatures currently breathing water.
 
 ### Sentinel Boons
 
-1. **Teratogen (Sp)**: *long arm* 3/day, *bear’s endurance* 2/day, or [*resinous skin*](../../magic/spells/resinous-skin.md) 1/day
+1. **Teratogen (Sp)**: [*long arm*](../../magic/spells/long-arm.md) 3/day, [*bear’s endurance*](../../magic/spells/bears-endurance.md) 2/day, or [*resinous skin*](../../magic/spells/resinous-skin.md) 1/day
 2. **Mutagenic Strike (Su)**: A number of times per day equal to your Hit Dice, when you strike a creature with a melee weapon, as a swift action you can cause it to become deformed. When you do so, the creature struck must succeed at a Fortitude save (DC = 10 + half your Hit Dice + your Charisma modifier) or take 2 points of Charisma drain. A creature reduced to 0 Charisma in this way is permanently transformed into a hideously deformed aquatic version of itself; it gains the mutant template, the aquatic subtype, and the amphibious quality, and its alignment becomes chaotic evil. When this transformation occurs, all Charisma damage the creature has suffered is instantly cured. Such mutants are initially friendly toward you. This transformation is a curse effect.
 3. **Horror of the Deep (Su)**: As a move action, you can switch between your natural form and a hideous hybrid of your natural form and a deep-sea monstrosity. In your hybrid form, you are immune to damage from water pressure, gain the ability to breathe water, and gain a swim speed equal to twice your base speed. Your head becomes that of a viperfish, granting you a bite attack that deals damage as for a creature two size categories larger than you (2d6 for a Medium creature). In addition, a single long tentacle sprouts from your body, granting you a tentacle secondary natural attack that deals damage as for a creature of your size category (1d4 for a Medium creature). This tentacle has the grab and constrict abilities; the constrict damage is equal to your tentacle damage plus 1-1/2 times your Strength modifier. While grappling a creature with your tentacle, you are not considered grappled and do not take any of the penalties associated with that condition. You can maintain this form for 1 minute per Hit Die per day; this duration need not be consecutive but must be spent in 1-minute increments.
 
@@ -444,15 +444,15 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Exalted Boons
 
-1. **Desert’s Embrace (Sp)**: *endure elements* 3/day, *scorching ray* 2/day, or *daylight*1/day
-2. **Desert Breath (Sp)**: You can cast *sunbeam* as a spell-like ability once per day. The beam of sunlight you create with this ability issues from your open mouth.
-3. **Desiccating Pulse (Sp)**: You can cast *horrid wilting* three times per day as a spell-like ability.
+1. **Desert’s Embrace (Sp)**: [*endure elements*](../../magic/spells/endure-elements.md) 3/day, [*scorching ray*](../../magic/spells/scorching-ray.md) 2/day, or *daylight*1/day
+2. **Desert Breath (Sp)**: You can cast [*sunbeam*](../../magic/spells/sunbeam.md) as a spell-like ability once per day. The beam of sunlight you create with this ability issues from your open mouth.
+3. **Desiccating Pulse (Sp)**: You can cast [*horrid wilting*](../../magic/spells/horrid-wilting.md) three times per day as a spell-like ability.
 
 ### Sentinel Boons
 
 1. **Lord of War (Sp)**: [*divine favor*](../../magic/spells/divine-favor.md) 3/day, [*tactical acumen*](../../magic/spells/tactical-acumen.md) 2/day, or [*deadly juggernaut*](../../magic/spells/deadly-juggernaut.md) 1/day
 2. **Acceptable Losses (Su)**: The most important responsibility of your minions is ensuring your survival on the battlefield. Once per day as an immediate action, when you are hit by an attack or affected by a spell or effect, you can transfer its effects to a creature within 30 feet. This creature must be one that is under your control or command or that otherwise considers itself subordinate to you. You suffer no effects from a transferred effect. If the effect is one that affects multiple creatures (such as *horrid wilting* or a breath weapon), the recipient of the transfer can suffer its effects twice. You can decide to transfer the effect or attack after the results of the attack rolls or saving throws have been revealed.
-3. **Avatar of Strife (Sp)**: You can call upon your demon lord to fill you with his burning light, which spreads mindless warfare everywhere you go. Once per day as a standard action, you can begin radiating an aura of blazing light equivalent to that created by *daylight*, lasting 1 round per Hit Die. Any creature within 60 feet of you must succeed at a Will save (DC = 10 + half your Hit Dice + your Charisma modifier) at the start of its turn or be compelled to attack the nearest conscious creature that round (similar to the “attack nearest creature” result of the [*confusion*](../../magic/spells/confusion.md) spell). Worshipers of your demon lord are immune to this effect. As a swift action, you can command a creature affected by your aura to direct its attacks against a creature of your choice within the effect’s 60-foot area; this designation lasts until the effect ends.
+3. **Avatar of Strife (Sp)**: You can call upon your demon lord to fill you with his burning light, which spreads mindless warfare everywhere you go. Once per day as a standard action, you can begin radiating an aura of blazing light equivalent to that created by [*daylight*](../../magic/spells/daylight.md), lasting 1 round per Hit Die. Any creature within 60 feet of you must succeed at a Will save (DC = 10 + half your Hit Dice + your Charisma modifier) at the start of its turn or be compelled to attack the nearest conscious creature that round (similar to the “attack nearest creature” result of the [*confusion*](../../magic/spells/confusion.md) spell). Worshipers of your demon lord are immune to this effect. As a swift action, you can command a creature affected by your aura to direct its attacks against a creature of your choice within the effect’s 60-foot area; this designation lasts until the effect ends.
 
 ## Demon lord of desolation, the moon and werewolves
 
@@ -466,7 +466,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Evangelist Boons
 
-1. **Moonshadow (Sp)**: [*keen senses*](../../magic/spells/keen-senses.md) 3/day, *darkness* 2/day, or *rage* 1/day
+1. **Moonshadow (Sp)**: [*keen senses*](../../magic/spells/keen-senses.md) 3/day, *darkness* 2/day, or [*rage*](../../magic/spells/rage.md) 1/day
 2. **Lunatic Potency (Su)**: The light of the moon fills your spells with maddening power and opens your heart to pure and primal rage. The DC of spells and spell-like abilities you cast under the light of the moon increase by 1, and you are healed of an amount of damage equal to the spell’s level as the spell is cast. During nights of the full moon, spells with the fear or emotion descriptor have their save DCs increased by 2 and you are healed of an amount of damage equal to twice the spell’s level when you cast such a spell.
 3. **Howl at the Moon (Su)**: You take on the aspect of the wolf— you become more rugged, your ears become elongated, and you sprout sharp fangs and fur. You gain a +2 profane bonus to your Strength, the scent ability, and a +4 bonus on trip combat maneuvers checks. You gain a bite natural attack that deals damage appropriate to your size (1d6 if you are Medium). As a swift action or whenever you hit with a bite attack, you can attempt combat maneuver to trip your foe; this trip attempt does not provoke attacks of opportunity.
 
@@ -488,7 +488,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Demoniac Boons
 
-1. **Heretic's Hiss (Sp)**: *command* 3/day, [*whispering wind*](../../magic/spells/whispering-wind.md) 2/day, or *suggestion* 1/day
+1. **Heretic's Hiss (Sp)**: [*command*](../../magic/spells/command.md) 3/day, [*whispering wind*](../../magic/spells/whispering-wind.md) 2/day, or *suggestion* 1/day
 2. **Heresy (Su)**: Once per day as a standard action, you can utter blasphemy or heresy against a single religion other than the worship of a demon lord. A worshiper of the targeted religion must be able to hear your utterance, or this ability fails. You gain SR equal to your HD + 11 against spells cast by worshipers of the religion you spoke out against—this SR lasts until you use this ability again to blaspheme a different religion (as long as you continue your daily obedience, this SR persists until you select a different religion).
 3. **Mass Suicide (Sp)**: You can cast [*weird*](../../magic/spells/weird.md) once per day as a spell-like ability. Rather than assault the victims with images of fear, this ability assaults the targets with images and sensations of crippling sadness and despair. Those who succumb to the spell and die do so at their own hands. If no method of suicide is available for one who succumbs to this effect, the victim simply dies outright of sadness. This effect is equivalent to a 9th-level spell.
 
@@ -500,13 +500,13 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Exalted Boons
 
-1. **Heretic’s Hiss (Sp)**: *command* 3/day, *whispering wind* 2/day, or *suggestion* 1/day
+1. **Heretic’s Hiss (Sp)**: *command* 3/day, [*whispering wind*](../../magic/spells/whispering-wind.md) 2/day, or *suggestion* 1/day
 2. **Heresy (Su)**: You take great delight in worrying at weaknesses in the dogma of other religions. Once per day as a standard action, you can utter blasphemy or heresy against a single religion other than the worship of a demon lord. A worshiper of the targeted religion must be able to hear your utterance, or this ability fails. You gain spell resistance equal to your Hit Dice + 11 against spells cast by worshipers of the religion you spoke out against. This spell resistance lasts until you use this ability again to blaspheme a different religion or until you fail to perform your daily obedience.
-3. **Mass Suicide (Sp)**: Your influence can drive entire groups of people to acts of self-destruction. You can cast *weird* once per day as a spell-like ability. Rather than assaulting the victims with images of fear, this ability assaults the targets with images and sensations of crippling sadness and despair. Those who succumb to the spell and die do so at their own hands. If no method of suicide is available for one who falls prey to this effect, the victim simply dies outright of sadness. This is a mind-affecting emotion effect.
+3. **Mass Suicide (Sp)**: Your influence can drive entire groups of people to acts of self-destruction. You can cast [*weird*](../../magic/spells/weird.md) once per day as a spell-like ability. Rather than assaulting the victims with images of fear, this ability assaults the targets with images and sensations of crippling sadness and despair. Those who succumb to the spell and die do so at their own hands. If no method of suicide is available for one who falls prey to this effect, the victim simply dies outright of sadness. This is a mind-affecting emotion effect.
 
 ### Sentinel Boons
 
-1. **Wallow in Despair (Sp)**: *doom* 3/day, [*miserable pity*](../../magic/spells/miserable-pity.md) 2/day, or [*catatonia*](../../magic/spells/catatonia.md) 1/day
+1. **Wallow in Despair (Sp)**: [*doom*](../../magic/spells/doom.md) 3/day, [*miserable pity*](../../magic/spells/miserable-pity.md) 2/day, or [*catatonia*](../../magic/spells/catatonia.md) 1/day
 2. **Welcome the End (Sp)**: With a cooing nihilistic whisper, you cause a creature to kill itself, making its body lose the drive to maintain life. You can cast [*phantasmal killer*](../../magic/spells/phantasmal-killer.md) three times per day as a spell-like ability, but rather than this functioning as an illusion (phantasm), this is a mind-affecting enchantment (compulsion) effect. The victim must succeed at a Will save to resist the urge to end its life. On a failure, the victim must succeed at a Fortitude save or its body’s life-sustaining autonomic processes irreparably and lethally shut down.
 3. **Broken Angel (Ex)**: Like that of your Abyssal mistress, your body has fallen to pieces. Your arms and legs do not directly attach to your body, instead floating near their original locations, while your torso sprouts angelic wings that keep it aloft. You gain a fly speed of 30 feet, with perfect maneuverability. Your limbs can disassociate briefly from the whole to attack distant targets at a moment’s notice, extending your melee reach by 15 feet, and attacks against you suffer a miss chance of 20% due to the gaps between your constantly shifting body parts. You are immune to effects that cause severed limbs or that arise from severed limbs (including the beheading effect of a *vorpal* sword) and also to bleed effects and bleed damage. You automatically stabilize when reduced to negative hit points.
 
@@ -522,19 +522,19 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Evangelist Boons
 
-1. **Liar’s Arcana (Sp)**: [*ventriloquism*](../../magic/spells/ventriloquism.md) 3/day, *misdirection* 2/day, or *glibness* 1/day
+1. **Liar’s Arcana (Sp)**: [*ventriloquism*](../../magic/spells/ventriloquism.md) 3/day, *misdirection* 2/day, or [*glibness*](../../magic/spells/glibness.md) 1/day
 2. **I Was Never Here (Sp)**: You can disappear from the scene of a murder at a moment’s notice or vanish before a soon-to-be victim knows of your presence. You can use *invisibility* once per day as an immediate action or as part of an initiative check. If you use this ability as part of an initiative check, you can target a single creature within 30 feet with the effects of [*modify memory*](../../magic/spells/modify-memory.md) but only to remove memories of your presence in the area.
 3. **Charnel Retreat (Sp)**: Your demon lord grants you a tiny corner of his domain to use for your own pleasures. Three times per day, you can create a portal to this place. This acts as [*mage’s magnificent mansion*](../../magic/spells/mages-magnificent-mansion.md), except the mansion exists as part of the Abyss (all planar traits apply) and the portal can be seen and used by anyone. This realm continues to exist when not in use, although foodstuffs and servants are magically replenished each day. In addition, the realm is lethal to invaders. The entire mansion is under the effects of a [*guards and wards*](../../magic/spells/guards-and-wards.md) spell, which refreshes each day. Any food conjured by the mansion is poisoned with dark reaver powder, and the *unseen servants* can become *spiritual allies* (although only one can do so at a time). You and creatures designated by you are unaffected by these hazardous effects.
 
 ### Exalted Boons
 
-1. **Killer’s Finesse (Sp)**: *true strike* 3/day, *invisibility* 2/day, or *keen edge* 1/day
+1. **Killer’s Finesse (Sp)**: [*true strike*](../../magic/spells/true-strike.md) 3/day, *invisibility* 2/day, or [*keen edge*](../../magic/spells/keen-edge.md) 1/day
 2. **Life in Blood (Su)**: When your veins are opened, you revel in the glorious pain and exalt in the knowledge that you are closer to your unholy patron. Such wounds do not imperil your life but instead invigorate you. You treat bleed effects as fast healing. For example, if you suffer an effect that causes bleed 5, you take no damage from the effect and instead gain fast healing 5. This ability activates automatically the first time each day you suffer a bleed effect, and it continues until you are fully healed. After that point, the ability ceases to function and does not work for 24 hours, during which time bleed effects affect you normally. If you are affected by multiple bleed effects during the time in which this ability is active, you always gain fast healing equal to the most powerful bleed effect.
 3. **Murderer’s Wrath (Ex)**: Your training and worship has honed your bloodletting skill with knives, axes, and other cutting implements. If you don’t already have the sneak attack ability, you gain sneak attack +5d6. Whenever you deal sneak attack damage with a slashing weapon, you deal 2 additional points of damage per sneak attack die.
 
 ### Sentinel Boons
 
-1. **Gifts of Slaughter (Sp)**: *divine favor* 3/day, [*instrument of agony*](../../magic/spells/instrument-of-agony.md) 2/day, or *haste* 1/day
+1. **Gifts of Slaughter (Sp)**: [*divine favor*](../../magic/spells/divine-favor.md) 3/day, [*instrument of agony*](../../magic/spells/instrument-of-agony.md) 2/day, or [*haste*](../../magic/spells/haste.md) 1/day
 2. **Unholy Butcher (Su)**: Your demon lord grants you a blessing when you use your gifts to spread death and murder. As a swift action, you can imbue a natural weapon you have or a manufactured weapon you wield with the *vicious* special ability for 1 round. During this round, whenever you take the 1d6 points of damage from using a *vicious* weapon (whether it’s one you created with this ability or otherwise), you gain a profane bonus to Armor Class and saving throws equal to the amount of damage taken until the start of your turn in the next round. This bonus does not stack with itself if you use a vicious weapon multiple times in a round, but a higher roll can increase the bonus gained. You can use this ability a number of rounds per day equal to your Hit Dice, but these rounds need not be consecutive.
 3. **Bloodbath (Su)**: You wield daggers like paintbrushes, crafting an exquisite masterpiece of blood and gore with every surgical stroke. Whenever you use a dagger to deal damage to a creature, you also deal bleed damage equal to your Charisma modifier. This bleed damage stacks with bleed damage you have from other abilities. Whenever a creature within 15 feet of you takes bleed damage from a wound you inflict, the blood flows to you and into your wounds, healing you for an number of hit points equal to the bleed damage taken this way.
 
@@ -544,7 +544,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Demoniac Boons
 
-1. **Fire's Harlot (Sp)**: *burning hands* 3/day, *flaming sphere* 2/day, or [*fireball*](../../magic/spells/fireball.md) 1/day
+1. **Fire's Harlot (Sp)**: [*burning hands*](../../magic/spells/burning-hands.md) 3/day, [*flaming sphere*](../../magic/spells/flaming-sphere.md) 2/day, or [*fireball*](../../magic/spells/fireball.md) 1/day
 2. **Flame's Consort (Ex)**: Gain fire resistance 30. If you are immune to fire, you may instead gain cold resistance 30. You may change to cold resistance if you gain immunity to fire at a point after you gain this boon.
 3. **Awaken Flames (Su)**: As a standard action once per day, you may call forth an elder fire elemental from any flame source. Alternatively, you may activate this ability as a swift action during the casting of any fire spell. The elemental appears immediately, and you can direct its actions as a free action via telepathy. The elemental is considered called, not summoned, and remains your minion for 1 hour.
 
@@ -556,7 +556,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Exalted Boons
 
-1. **Fire’s Harlot (Sp)**: *burning hands* 3/day, *flaming sphere* 2/day, or *fireball* 1/day
+1. **Fire’s Harlot (Sp)**: *burning hands* 3/day, *flaming sphere* 2/day, or [*fireball*](../../magic/spells/fireball.md) 1/day
 2. **Flame’s Consort (Ex)**: You see perfection in the burning blood and molten flesh of your demonic patron and have been rewarded with a fraction of this power. You permanently gain fire resistance 30. If you are immune to fire or gain permanent immunity to fire at a point after you gain this boon, you instead gain cold resistance 30, as your flesh and blood burn so hot that they protect you against such extremes.
 3. **Awaken Flames (Su)**: Even fire itself must answer to mighty your demon lord, and at his whim, flames take on lives of their own. You have developed a method of doing the same. Once per day as a standard action, you can call forth an elder fire elemental from any flame source. Alternatively, you can activate this ability as a swift action while you cast a spell with the fire descriptor, causing an elder fire elemental to manifest in a space adjacent to you. The elemental appears immediately, and you can direct its actions as a free action via telepathy. The elemental is considered called, not summoned, and remains your minion for 1 hour. Unlike a normal elemental, this elder fire elemental is chaotic evil in alignment and has the Chaotic and Evil subtypes.
 
@@ -578,13 +578,13 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Evangelist Boons
 
-1. **Warped Arcana (Sp)**: [*magic aura*](../../magic/spells/magic-aura.md) 3/day, [*touch of idiocy*](../../magic/spells/touch-of-idiocy.md) 2/day, or *dispel magic* 1/day
+1. **Warped Arcana (Sp)**: [*magic aura*](../../magic/spells/magic-aura.md) 3/day, [*touch of idiocy*](../../magic/spells/touch-of-idiocy.md) 2/day, or [*dispel magic*](../../magic/spells/dispel-magic.md) 1/day
 2. **Poisoned Mysticism (Su)**: Your magic is imbued with the toxic lore of your demon lord. You add your Intelligence bonus on concentration checks and on caster level checks to penetrate spell resistance or dispel ongoing magical effects; if you already add your Intelligence modifier on such a check, add your Wisdom bonus instead. In addition, whenever you poison a creature via any method, whether from a spell such as *poison* or [*prismatic spray*](../../magic/spells/prismatic-spray.md), from an envenomed weapon, or any other means, the saving throw DC of the poison effect is increased by 2. Curing this poison effect requires one additional successful save, and caster level checks to cure this poison effect (such as that required for [*neutralize poison*](../../magic/spells/neutralize-poison.md)) take a –4 penalty. You never risk accidentally poisoning yourself when you apply poison to a weapon. Finally, once per day, you can cast *poison* as a spell-like ability.
 3. **Invert Magic (Sp)**: Your demon lord grants you the power to turn magic back on its source. You gain spell resistance equal to 11 + your Hit Dice; if you already have spell resistance as a result of a racial ability, it instead increases by 5. Whenever you would be affected by a spell, you can allow it to bypass your spell resistance, even when it’s not your turn. Once per day, as an immediate action when a spell that targets only you fails to penetrate your spell resistance, you can reflect that spell back on the original caster, as if you were under the effect of [*spell turning*](../../magic/spells/spell-turning.md).
 
 ### Exalted Boons
 
-1. **Secret Lore (Sp)**: *identify* 3/day, *augury* 2/day, or *illusory script* 1/day
+1. **Secret Lore (Sp)**: [*identify*](../../magic/spells/identify.md) 3/day, [*augury*](../../magic/spells/augury.md) 2/day, or [*illusory script*](../../magic/spells/illusory-script.md) 1/day
 2. **Heretical Revelation (Su)**: Three times per day as a standard action, you can whisper terrible secrets to an adjacent target. The target must succeed at a Will save (DC = 10 + half your Hit Dice + your Charisma modifier) or be stunned for 1 round, then confused for 1d4 rounds, and then nauseated for 2d6 rounds. This is a mind-affecting effect.
 3. **Penultimate Incantation (Sp)**: Three times per day, you can affect a single creature within 60 feet with a targeted *greater dispel magic*. Each spell or effect so dispelled deals an amount of fire damage to the target equal to the result of your caster level check to dispel that effect.
 
@@ -612,7 +612,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Exalted Boons
 
-1. **Gargoyle’s Gift (Sp)**: *sanctuary* 3/day, *shatter* 2/day, or *vampiric touch* 1/day
+1. **Gargoyle’s Gift (Sp)**: [*sanctuary*](../../magic/spells/sanctuary.md) 3/day, [*shatter*](../../magic/spells/shatter.md) 2/day, or *vampiric touch* 1/day
 2. **Glutton’s Feast (Sp)**: You can cast *heroes’ feast* once per day as a spell-like ability. The food created by this effect consists of rancid milk and raw or rotting meat. Those who partake of this feast consume their food shockingly fast, as if they were starving—it takes only 1 minute to gain the benefits of this spell. Those who don’t worship your demon lord must succeed at a Fortitude save (DC = 16 + your Charisma modifier) or be sickened by the feast for 6 hours (though all other benefits of the feast still apply).
 3. **Death-Stealing Gaze (Su)**: You gain the death-stealing gaze ability of a nabasu. You can activate this ability as a free action and use it for up to 3 rounds per day plus a number of additional rounds equal to your Constitution modifier—these rounds need not be consecutive, but they must be used in 1-round increments. All living creatures within 30 feet of you when your death-stealing gaze is active must succeed at a Fortitude save (DC = 10 + half your Hit Dice + your Charisma modifier) or gain a negative level. A humanoid slain in this manner immediately transforms into a ghoul under your control. You can create only one ghoul in this manner per round. If multiple humanoids die from this ability simultaneously, you choose which of them rises as a ghoul. Nabasu demons that gain this boon can instead use their death-stealing gaze at will, regardless of their total number of growth points.
 
@@ -620,7 +620,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 1. **Gargoyle Magic (Sp)**: [*stone fist*](../../magic/spells/stone-fist.md) 3/day, [*protection from arrows*](../../magic/spells/protection-from-arrows.md) 2/day, or *fly* 1/day
 2. **Idol of Desolation (Sp)**: You can take on the strength of stone without sacrificing your awareness to temporarily become a sentinel of stone. You can cast [*statue*](../../magic/spells/statue.md) as a spell-like ability once per day.
-3. **Sculptor’s Strike (Su)**: The strike of your weapons causes a specified foe to calcify and harden into stone, bit by bit, eventually transforming that enemy into a favored child of your demon lord. To use sculptor’s strike, you must first designate a foe in sight within 30 feet as a standard action. Once you’ve designated the foe, whenever you deal damage to that creature with a melee weapon (including unarmed strikes and natural weapons), the creature takes 1d6 points of Dexterity drain in addition to the normal damage. If the target succeeds at a Fortitude save (DC = 10 + half your Hit Dice + your Charisma modifier) this drain is reduced to 1 point. A creature drained to 0 Dexterity in this way is permanently transformed into a gargoyle (as per *polymorph any object*, except no Fortitude save is allowed) and must succeed at a Will save (using this ability’s DC) or have its mind also become that of a gargoyle (as per *baleful polymorph*). When a creature is transformed in this way, all Dexterity drain caused by this effect is instantly healed and the creature’s hit points are fully restored. The mental change can be reversed by any effect that removes curses, but the physical transformation can only be reversed by *miracle* or *wish*. You can activate sculptor’s strike once per day to designate a foe, but once you’ve done so, that foe remains susceptible to your ability until you or it is slain. If you designate a different foe on a later day, any previously designated foe is no longer designated and can no longer be affected by this ability (unless you designate it once again at a later date).
+3. **Sculptor’s Strike (Su)**: The strike of your weapons causes a specified foe to calcify and harden into stone, bit by bit, eventually transforming that enemy into a favored child of your demon lord. To use sculptor’s strike, you must first designate a foe in sight within 30 feet as a standard action. Once you’ve designated the foe, whenever you deal damage to that creature with a melee weapon (including unarmed strikes and natural weapons), the creature takes 1d6 points of Dexterity drain in addition to the normal damage. If the target succeeds at a Fortitude save (DC = 10 + half your Hit Dice + your Charisma modifier) this drain is reduced to 1 point. A creature drained to 0 Dexterity in this way is permanently transformed into a gargoyle (as per [*polymorph any object*](../../magic/spells/polymorph-any-object.md), except no Fortitude save is allowed) and must succeed at a Will save (using this ability’s DC) or have its mind also become that of a gargoyle (as per *baleful polymorph*). When a creature is transformed in this way, all Dexterity drain caused by this effect is instantly healed and the creature’s hit points are fully restored. The mental change can be reversed by any effect that removes curses, but the physical transformation can only be reversed by *miracle* or *wish*. You can activate sculptor’s strike once per day to designate a foe, but once you’ve done so, that foe remains susceptible to your ability until you or it is slain. If you designate a different foe on a later day, any previously designated foe is no longer designated and can no longer be affected by this ability (unless you designate it once again at a later date).
 
 ## Demon lord of ghouls, graves and secrets kept by the dead
 
@@ -628,25 +628,25 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Demoniac Boons
 
-1. **Kiss of the Grave (Sp)**: *deathwatch* 3/day, *ghoul touch* 2/day, or [*speak with dead*](../../magic/spells/speak-with-dead.md) 1/day
+1. **Kiss of the Grave (Sp)**: *deathwatch* 3/day, [*ghoul touch*](../../magic/spells/ghoul-touch.md) 2/day, or [*speak with dead*](../../magic/spells/speak-with-dead.md) 1/day
 2. **Undead Minion (Sp)**: You can cast [*create undead*](../../magic/spells/create-undead.md) once per day. The undead that is created obeys you without question. If you use this ability to create a new undead minion, the previous undead is destroyed.
 3. **Ghoulish Apotheosis (Ex)**: The next time you die, you rise as a ghoul after 24 hours. Your type changes to undead and you lose all the abilities of your previous race, replacing them with +2 natural armor, darkvision 60 feet, channel resistance +2, and a ghoul’s physical attacks. You do not change your total Hit Dice or alter your ability scores. If you achieve this boon when you’re already an undead creature, you instead gain a +4 profane bonus to Charisma.
 
 ### Evangelist Boons
 
 1. **Shadow of Death (Sp)**: *chill touch* 3/day, *gentle repose* 2/day, or [*assume appearance*](../../magic/spells/assume-appearance.md) 1/day
-2. **Corpse Communion (Sp)**: You can rifle through the minds of the dead in search of forbidden knowledge or lost lore. Three times per day, you can touch a corpse of any age to gain knowledge from it as a standard action. This works similarly to *speak with dead*, except that you receive all answers immediately and telepathically (removing the need for the body to have intact vocal structures) and the dead creature gains no saving throw against this effect, regardless of its alignment. If you take the time to consume a significant portion of the corpse, you can ask two additional questions. This option increases the casting time to 10 minutes. Of course, regardless of the method by which you choose to commune with the corpse, the body might not hold the knowledge you seek, and once you use this ability on a dead body, you can’t use it again on the same body again in the future.
+2. **Corpse Communion (Sp)**: You can rifle through the minds of the dead in search of forbidden knowledge or lost lore. Three times per day, you can touch a corpse of any age to gain knowledge from it as a standard action. This works similarly to [*speak with dead*](../../magic/spells/speak-with-dead.md), except that you receive all answers immediately and telepathically (removing the need for the body to have intact vocal structures) and the dead creature gains no saving throw against this effect, regardless of its alignment. If you take the time to consume a significant portion of the corpse, you can ask two additional questions. This option increases the casting time to 10 minutes. Of course, regardless of the method by which you choose to commune with the corpse, the body might not hold the knowledge you seek, and once you use this ability on a dead body, you can’t use it again on the same body again in the future.
 3. **Lore of the Countless Dead (Sp)**: Your hunger for forbidden knowledge allows you to tap into the collective spellcraft of all the multiverse’s innumerable dead, a repository of arcana stretching back to the dawn of time. Once per day as a standard action, you can cast any spell of 7th level or lower, as if using *wish* to cast another spell. This is the equivalent of a 9th-level spell, and any DCs and other effects are calculated as a 9th-level spell, regardless of the spell’s normal level.
 
 ### Exalted Boons
 
 1. **Kiss of the Grave (Sp)**: *deathwatch* 3/day, *ghoul touch* 2/day, or *speak with dead* 1/day
-2. **Undead Minion (Sp)**: Worship of your demon lord has revealed to you secret methods by which you can coax unlife from rotten flesh and old bones. You can cast *create undead* as a spell-like ability twice per day. The undead created obey you without question. You can have only one such minion active at a time; if you use this ability to create a new undead minion, the previous undead is destroyed.
+2. **Undead Minion (Sp)**: Worship of your demon lord has revealed to you secret methods by which you can coax unlife from rotten flesh and old bones. You can cast [*create undead*](../../magic/spells/create-undead.md) as a spell-like ability twice per day. The undead created obey you without question. You can have only one such minion active at a time; if you use this ability to create a new undead minion, the previous undead is destroyed.
 3. **Ghoulish Apotheosis (Ex)**: For you, death is not an ending but a beginning. The next time you die, you rise as a ghoul after 24 hours. Your type changes to undead and you lose all the abilities of your previous race, replacing them with a +2 natural armor bonus, darkvision 60 feet, channel resistance +2, and a ghoul’s physical attacks. You do not change your total Hit Dice or alter your ability scores. If you achieve this boon when you’re already an undead creature, you instead gain a +4 profane bonus to your Charisma score.
 
 ### Sentinel Boons
 
-1. **Charnel Pits (Sp)**: [*expeditious excavation*](../../magic/spells/expeditious-excavation.md) 3/day, *create pit* 2/day, or *stinking cloud* 1/day
+1. **Charnel Pits (Sp)**: [*expeditious excavation*](../../magic/spells/expeditious-excavation.md) 3/day, [*create pit*](../../magic/spells/create-pit.md) 2/day, or [*stinking cloud*](../../magic/spells/stinking-cloud.md) 1/day
 2. **Ghoulish Hungers (Ex)**: You hunger for the flesh of the dead... and the living. You gain a bite attack that deals damage appropriate for your size (1d6 if you’re Medium). Any creature damaged by your bite attack must succeed at a Fortitude save or become infected with ghoul fever. The save DC of this ghoul fever is equal to 10 + half your Hit Dice + your Constitution modifier (or your Charisma modifier, if you have no Constitution score).
 3. **Undertaker (Sp)**: With nothing but your will alone, you can slaughter and entomb your foes in one fell swoop. Once per day, you can cast [*finger of death*](../../magic/spells/finger-of-death.md) as a spell-like ability. Any creature killed by this effect is immediately entombed 6 feet underground within a 6-inch-thick stone sarcophagus, along with its gear. One week after interment, a creature entombed by this ability breaks free from its sarcophagus as a chaotic evil ghast with all class levels it had in life; these ghasts are not under your control, but are often friendly toward you.
 
@@ -656,8 +656,8 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Demoniac Boons
 
-1. **Sphinx's Secret (Sp)**: [*hold portal*](../../magic/spells/hold-portal.md) 3/day, *touch of idiocy* 2/day, or [*shrink item*](../../magic/spells/shrink-item.md) 1/day
-2. **Portal Jump (Sp)**: Once per day as a swift action, you can step through one doorway, arch, or window and emerge from another at any point within 500 feet. This is a teleportation effect similar to *dimension door*, but you do not become disoriented when you use this ability. This ability is the equivalent of a 7th-level spell.
+1. **Sphinx's Secret (Sp)**: [*hold portal*](../../magic/spells/hold-portal.md) 3/day, [*touch of idiocy*](../../magic/spells/touch-of-idiocy.md) 2/day, or [*shrink item*](../../magic/spells/shrink-item.md) 1/day
+2. **Portal Jump (Sp)**: Once per day as a swift action, you can step through one doorway, arch, or window and emerge from another at any point within 500 feet. This is a teleportation effect similar to [*dimension door*](../../magic/spells/dimension-door.md), but you do not become disoriented when you use this ability. This ability is the equivalent of a 7th-level spell.
 3. **Create Portal (Sp)**: Once per day, you may use [*gate*](../../magic/spells/gate.md) as a spell-like ability, but only to create a gate as a mode of planar travel, not as a method of calling creatures. This ability is the equivalent of a 9th-level spell.
 
 ### Evangelist Boons
@@ -668,13 +668,13 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Exalted Boons
 
-1. **Sphinx’s Secret (Sp)**: *hold portal* 3/day, *touch of idiocy* 2/day, or *shrink item* 1/day
+1. **Sphinx’s Secret (Sp)**: [*hold portal*](../../magic/spells/hold-portal.md) 3/day, *touch of idiocy* 2/day, or [*shrink item*](../../magic/spells/shrink-item.md) 1/day
 2. **Portal Jump (Sp)**: You understand that doorways and openings don’t always have to lead to the same place. Once per day as a swift action, you can step through one doorway, arch, or window and emerge from another such portal at any point within 500 feet. This is a teleportation effect similar to *dimension door*, but you do not become disoriented when you use this ability.
-3. **Create Portal (Sp)**: Doorways have the potential to exist anywhere and everywhere—one simply needs to know where and how to look for them to find them. Once per day, you can use *gate* as a spell-like ability, but only as a mode of planar travel, not as a method of calling creatures.
+3. **Create Portal (Sp)**: Doorways have the potential to exist anywhere and everywhere—one simply needs to know where and how to look for them to find them. Once per day, you can use [*gate*](../../magic/spells/gate.md) as a spell-like ability, but only as a mode of planar travel, not as a method of calling creatures.
 
 ### Sentinel Boons
 
-1. **Gilded Arms (Sp)**: *magic weapon* 3/day, [*spiritual weapon*](../../magic/spells/spiritual-weapon.md) 2/day, or [*magic vestment*](../../magic/spells/magic-vestment.md) 1/day
+1. **Gilded Arms (Sp)**: [*magic weapon*](../../magic/spells/magic-weapon.md) 3/day, [*spiritual weapon*](../../magic/spells/spiritual-weapon.md) 2/day, or [*magic vestment*](../../magic/spells/magic-vestment.md) 1/day
 2. **Auric Knight (Su)**: Your greed demands that you equip yourself with the purest form of wealth: gold. When you are wielding weapons or shields made purely of gold or wearing armor made purely of gold, that equipment is considered to have all the properties of adamantine instead of the properties of gold; weapons affected this way also count as both cold iron and silver for the purpose of bypassing damage reduction. While you wield a shield made purely of gold, any DR/— you gain from armor made purely of gold increases by 2. In addition, you gain a +2 bonus on attack and damage rolls with sickles made purely of gold.
 3. **Avatars of Avarice (Sp)**: You can conjure the paragons of greed from your demon lord’s realm to serve you... for a price. Once per day as a standard action, you can throw gold (as coins, bars, or another form) to the ground, whereupon it vanishes to your demon lord’s realm. For every 500 gp’s worth of gold thrown down this way, a fiendish young red dragon appears to serve you, up to a maximum of three dragons per day. These dragons follow your commands perfectly for 1 minute per level before vanishing back to the Abyss.
 
@@ -686,7 +686,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 1. **Sadist's Trick (Sp)**: *magic weapon* 3/day, [*phantom trap*](../../magic/spells/phantom-trap.md) 2/day, or *snare* 1/day
 2. **Deeper Cuts (Ex)**: When you damage a creature with a slashing weapon or effect that deals slashing damage, at your discretion you may add a bleed 5 effect to the target.
-3. **Razor Kiss (Sp)**: Empowered [*blade barrier*](../../magic/spells/blade-barrier.md) 1/day (you are immune to the effects of this *blade barrier*).
+3. **Razor Kiss (Sp)**: Empowered [*blade barrier*](../../magic/spells/blade-barrier.md) 1/day (you are immune to the effects of this [*blade barrier*](../../magic/spells/blade-barrier.md)).
 
 ### Evangelist Boons
 
@@ -696,13 +696,13 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Exalted Boons
 
-1. **Sadist’s Trick (Sp)**: *magic weapon* 3/day, *phantom trap* 2/day, or *snare* 1/day
+1. **Sadist’s Trick (Sp)**: *magic weapon* 3/day, [*phantom trap*](../../magic/spells/phantom-trap.md) 2/day, or *snare* 1/day
 2. **Deeper Cuts (Ex)**: When you damage a creature with a slashing weapon or an effect that deals slashing damage, you can also deal 5 points of bleed damage.
 3. **Razor Kiss (Sp)**: Once per day, you can cast empowered *blade barrier* as a spell-like ability. You are immune to the effects of this *blade barrier*.
 
 ### Sentinel Boons
 
-1. **Princess’s Blade (Sp)**: [*unerring weapon*](../../magic/spells/unerring-weapon.md) 3/day, *spiritual weapon* 2/day, or *twilight knife* 1/day
+1. **Princess’s Blade (Sp)**: [*unerring weapon*](../../magic/spells/unerring-weapon.md) 3/day, [*spiritual weapon*](../../magic/spells/spiritual-weapon.md) 2/day, or [*twilight knife*](../../magic/spells/twilight-knife.md) 1/day
 2. **One of Ten Thousand Deaths (Sp)**: You can summon the murderous creations of your demon lord’s realm to the mortal world. Three times per day as a full-round action, you can conjure a trap into being in a square or squares within 30 feet. The trap must have a CR equal to or less than half your Hit Dice, and the environment must be able to support it (for example, a falling block trap must have a ceiling to fall from). The appropriate triggers for the trap, such as pressure plates or divination spells, are added to the environment in the fashion of your choosing. A trap conjured this way vanishes after 24 hours, when it is disabled, or after it is triggered and its effects have been resolved.
 3. **Killing Machine (Su)**: Once per day as a full-round action, you can transform yourself into a trap. The trap must have a CR equal to or less than your total Hit Dice (maximum CR 20), and the environment must be able to support your new form. When your trap form is triggered, or when a creature attempts to disable your trap form, you can instantaneously return to your normal form (appearing in the square or squares targeted by your trap form). This occurs after the trap has finished triggering and its effects are resolved (if appropriate), and it causes a surprise round in which only you and those who were aware of your true nature may act. This transformation otherwise lasts for 24 hours or until you dismiss it as a full-round action. This is a polymorph effect.
 
@@ -712,7 +712,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Demoniac Boons
 
-1. **Storm Breath (Sp)**: *obscuring mist* 3/day, [*gust of wind*](../../magic/spells/gust-of-wind.md) 2/day, or [*call lightning*](../../magic/spells/call-lightning.md) 1/day
+1. **Storm Breath (Sp)**: [*obscuring mist*](../../magic/spells/obscuring-mist.md) 3/day, [*gust of wind*](../../magic/spells/gust-of-wind.md) 2/day, or [*call lightning*](../../magic/spells/call-lightning.md) 1/day
 2. **Earthshaker (Sp)**: You can cast [*earthquake*](../../magic/spells/earthquake.md) once per day, but this ability only affects a 40-foot-radius spread. This ability is the equivalent of a 7th-level spell.
 3. **Invoke the True Storm (Sp)**: You can cast [*storm of vengeance*](../../magic/spells/storm-of-vengeance.md) once per day.
 
@@ -724,9 +724,9 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Exalted Boons
 
-1. **Storm Breath (Sp)**: *obscuring mist* 3/day, *gust of wind* 2/day, or *call lightning* 1/day
-2. **Earthshaker (Sp)**: You can cast *earthquake* once per day as a spell-like ability, but it affects only a 40-foot-radius spread.
-3. **Invoke the True Storm (Sp)**: You can cast *storm of vengeance* as a spell-like ability once per day.
+1. **Storm Breath (Sp)**: *obscuring mist* 3/day, [*gust of wind*](../../magic/spells/gust-of-wind.md) 2/day, or [*call lightning*](../../magic/spells/call-lightning.md) 1/day
+2. **Earthshaker (Sp)**: You can cast [*earthquake*](../../magic/spells/earthquake.md) once per day as a spell-like ability, but it affects only a 40-foot-radius spread.
+3. **Invoke the True Storm (Sp)**: You can cast [*storm of vengeance*](../../magic/spells/storm-of-vengeance.md) as a spell-like ability once per day.
 
 ### Sentinel Boons
 
@@ -746,15 +746,15 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Evangelist Boons
 
-1. **Spreading Slime (Sp)**: *corrosive touch* 3/day, *web* 2/day, or *stinking cloud* 1/day
+1. **Spreading Slime (Sp)**: [*corrosive touch*](../../magic/spells/corrosive-touch.md) 3/day, *web* 2/day, or *stinking cloud* 1/day
 2. **Deliquescent Blessing (Su and Sp)**: The blessing of your demon lord grants you a measure of kinship to jellies, oozes, and slimes. Unintelligent oozes never attack you, and intelligent oozes have an initial starting attitude of friendly toward you. You gain ooze empathy—this works like a druid’s wild empathy (using your character level as your druid level), except only with oozes. You can use this ability to influence intelligent oozes as though using the Diplomacy skill. In addition, once per day, you can transform a creature’s body into an ooze; this acts as per *baleful polymorph*, except that the target is transformed into an ooze. A creature of 3 Hit Dice or fewer becomes a gray ooze, one with 4–9 Hit Dice becomes a gelatinous cube or ochre jelly (chosen randomly), and a creature of 10 or more Hit Dice becomes a black pudding. The target’s gear does not transform with it; any such items fall under or within the ooze’s body, which may cause them to take damage or to be destroyed. If the ooze has the split ability, splitting the ooze creates one ooze that retains the creature’s original identity (for the purpose of memories or restoring the creature) and one normal, mindless ooze.
 3. **Faceless Form (Ex)**: Your form twists into a reflection of your demon lord’s own shapeless appearance—your flesh becomes translucent emerald slime, your skin takes on a nauseating glistening sheen, and ogling crimson eyes sprout across your body. You gain the amorphous, all-around vision, and compression universal monster abilities. Your body still retains enough rigidity that you can speak, wield objects and weapons, and wear items like armor. In addition, if you have a hand free and not covered by a glove, you can make a touch attack as a standard action; on a hit, the touched creature takes 4d6 points of acid damage.
 
 ### Exalted Boons
 
-1. **Sign of your demon lord (Sp)**: *grease* 3/day, *delay poison* 2/day, or *slow* 1/day
+1. **Sign of your demon lord (Sp)**: [*grease*](../../magic/spells/grease.md) 3/day, [*delay poison*](../../magic/spells/delay-poison.md) 2/day, or *slow* 1/day
 2. **Poisonous Touch (Sp)**: Just as your demon lord’s touch carries within it all manner of virulent toxins, so can you cause your flesh to exude deadly poison. Up to three times per day, you can cast *poison* as a spell-like ability. If you make an attack with a melee weapon, you can activate this ability as a swift action as part of your attack, targeting the foe struck.
-3. **Call Forth the Spawn (Sp)**: Three times per day, you can cast *destruction* as a spell-like ability. The body of a creature slain by this ability immediately transforms into an ochre jelly under your mental control. Ochre jellies created by this ability melt away into noxious residue after 1 hour.
+3. **Call Forth the Spawn (Sp)**: Three times per day, you can cast [*destruction*](../../magic/spells/destruction.md) as a spell-like ability. The body of a creature slain by this ability immediately transforms into an ochre jelly under your mental control. Ochre jellies created by this ability melt away into noxious residue after 1 hour.
 
 ### Sentinel Boons
 
@@ -768,13 +768,13 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Demoniac Boons
 
-1. **Sins of the Flesh (Sp)**: *charm person* 3/day, *eagle’s splendor* 2/day, or *beast shape I* 1/day
+1. **Sins of the Flesh (Sp)**: *charm person* 3/day, [*eagle’s splendor*](../../magic/spells/eagles-splendor.md) 2/day, or *beast shape I* 1/day
 2. **Compelling Voice (Su)**: Your mind-affecting effects become harder to resist. Increase the save DC of such effects created by you by +1, or by +2 when used against an intelligent creature that could be sexually attracted to you.
 3. **Truth in the Flesh (Sp)**: *Shapechange* 1/day.
 
 ### Evangelist Boons
 
-1. **Deviant Urges (Sp)**: *command* 3/day, *unnatural lust* 2/day, or [*reckless infatuation*](../../magic/spells/reckless-infatuation.md) 1/day
+1. **Deviant Urges (Sp)**: *command* 3/day, [*unnatural lust*](../../magic/spells/unnatural-lust.md) 2/day, or [*reckless infatuation*](../../magic/spells/reckless-infatuation.md) 1/day
 2. **Lurid Persuasion (Su or Sp)**: When you create magical effects that manipulate the thoughts and minds of others, you invest your own debased passions and influences into that magic, so that it forces creatures to violate even their most deeply felt taboos. Mind-affecting spells you cast that would normally grant an additional saving throw or a bonus on saving throws for opposing the target’s nature do not grant these bonuses or saves, as long as the intended course of action is lurid or perverse (such as causing a druid to lust after her animal companion, or a brother and sister to lust after one another). In addition, three times per day, you can cast quickened *unnatural lust* as a spell-like ability.
 3. **Perverse Reshaping (Sp)**: Your deeply felt prayers and obsessive devotion to the secrets your demon lord whispers to you when you sleep have granted you the ability to reshape matter and grant life where life should perhaps not exist. Three times per day, you can cast *polymorph any object* as a spell-like ability. Unlike with the spell, you are not limited to existing forms; you could turn the target into a three-headed nymph or a centaur-like creature made only of human body parts, for example (although this does not apply to inanimate forms, such as turning a human into a sculpture of soft clay or vice versa). You can also perform partial transformations, such as granting additional body parts, changing a creature’s limbs into something else, or transforming only a creature’s tongue into a tentacle. If the resulting form would be lethal, the target gains a +4 bonus on the save. Unlike for a normal *polymorph any object* spell, changes you make this way can be undone only by a *wish* or *miracle* spell or by another use of this ability.
 
@@ -782,11 +782,11 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 1. **Sins of the Flesh (Sp)**: *charm person* 3/day, *eagle’s splendor* 2/day, or *beast shape I* 1/day
 2. **Compelling Voice (Su)**: You have honed your voice into a weapon, and can speak in a smooth and seductive tone that slips into the minds of those who listen like the lightest brush of a lover’s breath. As a result, your mind-affecting effects become harder to resist. Increase the save DC of such effects you create by 1, or by 2 when used against an intelligent creature that is or could be sexually attracted to you.
-3. **Truth in the Flesh (Sp)**: The raptures of physical pleasure grow old when you throw taboo to the wind, and so you have honed your faith to emulate your sinful patron’s fluidity of the flesh. You can cast *shapechange* once per day as a spell-like ability.
+3. **Truth in the Flesh (Sp)**: The raptures of physical pleasure grow old when you throw taboo to the wind, and so you have honed your faith to emulate your sinful patron’s fluidity of the flesh. You can cast [*shapechange*](../../magic/spells/shapechange.md) once per day as a spell-like ability.
 
 ### Sentinel Boons
 
-1. **Before The Fall (Sp)**: [*delusional pride*](../../magic/spells/delusional-pride.md) 3/day, *mirror image* 2/day, or [*heroism*](../../magic/spells/heroism.md) 1/day
+1. **Before The Fall (Sp)**: [*delusional pride*](../../magic/spells/delusional-pride.md) 3/day, [*mirror image*](../../magic/spells/mirror-image.md) 2/day, or [*heroism*](../../magic/spells/heroism.md) 1/day
 2. **Violent Vice (Ex)**: Causing harm to others fills you with a euphoric pleasure that allows you to endure the harshest blows. Up to three times per day as you deal hit point damage to a creature, the rush of pleasure grants you temporary hit points equal to twice your Charisma modifier. These temporary hit points stack with multiple uses of this ability (but not with temporary hit points from other sources), and last for 1 minute or until depleted. As long as you are fully healed and have at least one of these temporary hit points, you gain a +4 morale bonus on attack rolls and Will saving throws.
 3. **Sensuous Facade (Su)**: Your form has achieved the utmost perfection, granting you a measure of protection and filling you with a surge of prideful wrath whenever your beauty would be sullied by others’ assaults. Your physical appearance becomes darkly beautiful and sexually appealing, granting you a +2 profane bonus to your Charisma score. As long as you do not have an armor bonus to your Armor Class, you gain a profane bonus to your AC and on Fortitude saving throws equal to your Charisma modifier. Whenever a creature deals damage to you with an attack, you gain a profane bonus equal to your Charisma modifier on your next weapon attack roll against that creature.
 
@@ -796,7 +796,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Demoniac Boons
 
-1. **Desert's Wrath (Sp)**: *endure elements* 3/day, [*glitterdust*](../../magic/spells/glitterdust.md) 2/day, or *searing light* 1/day
+1. **Desert's Wrath (Sp)**: *endure elements* 3/day, [*glitterdust*](../../magic/spells/glitterdust.md) 2/day, or [*searing light*](../../magic/spells/searing-light.md) 1/day
 2. **Raise Scorpion (Su)**: Once per day, you may cause a dead body within 60 feet to transform into a fiendish giant scorpion under your mental control. This transformation lasts for 1 round per level, after which the scorpion returns to its original corpse form. This is a polymorph effect.
 3. **Dehydrating Strike (Su)**: Once per day as a swift action, at any point when you successfully inflict damage on a target, you can cause that target to become instantly and painfully dehydrated if it fails a Fortitude save (DC = 10 + 1/2 your HD + your Constitution modifier). If the save is successful, the victim is staggered for 1 round. If the save fails, the victim takes 1d10 points of Strength drain, is stunned for 1 round, and is then staggered for 1d4 rounds after recovering from being stunned.
 
@@ -808,7 +808,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Exalted Boons
 
-1. **Desert’s Wrath (Sp)**: *endure elements* 3/day, *glitterdust* 2/day, or *searing light* 1/day
+1. **Desert’s Wrath (Sp)**: *endure elements* 3/day, [*glitterdust*](../../magic/spells/glitterdust.md) 2/day, or *searing light* 1/day
 2. **Raise Scorpion (Su)**: Once per day, you can cause a dead body within 60 feet to transform into a fiendish giant scorpion under your mental control. This transformation lasts for 1 round per level, after which the scorpion returns to its original corpse form. This is a polymorph effect.
 3. **Dehydrating Strike (Su)**: Once per day as a swift action, when you deal damage to a creature, that creature must attempt a Fortitude save (DC = 10 + half your Hit Dice + your Constitution modifier) to avoid becoming instantly and painfully dehydrated. If the victim fails this save, it takes 1d10 points of Strength drain, is stunned for 1 round, and is then staggered for 1d4 rounds. On a successful save, the victim is instead staggered for 1 round.
 
@@ -826,7 +826,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 1. **Whispers on the Wind (Sp)**: *charm person* 3/day, [*enthrall*](../../magic/spells/enthrall.md) 2/day, or *fly* 1/day
 2. **Possession (Sp)**: You can cast [*magic jar*](../../magic/spells/magic-jar.md) once per day as a spell-like ability. You can use a holy symbol of your demon lord or a statue of your demon lord as your receptacle—if you do so, you can determine the exact creature type and position of all potential life forces you’re capable of possessing. This ability is the equivalent of a 7th-level spell.
-3. **True Temptation (Sp)**: If any creature speaks your demon lord’s name aloud three times with a single breath, and that creature is within 60 feet of you, you can cast quickened [*charm monster*](../../magic/spells/charm-monster.md) on that creature as an immediate action. You can use this power up to three times per day. Creatures with fly speeds take a –4 penalty on saves against this effect. If a creature that fails its save against this effect has *protection from evil* or a similar effect activated, that effect is immediately and automatically dispelled. You can use this ability against a creature that has not invoked your demon lord’s name, but if you do so, it functions as a normal (non-quickened) *charm monster* spell that does not dispel *protection from evil* effects. This ability is the equivalent of a 9th-level spell.
+3. **True Temptation (Sp)**: If any creature speaks your demon lord’s name aloud three times with a single breath, and that creature is within 60 feet of you, you can cast quickened [*charm monster*](../../magic/spells/charm-monster.md) on that creature as an immediate action. You can use this power up to three times per day. Creatures with fly speeds take a –4 penalty on saves against this effect. If a creature that fails its save against this effect has [*protection from evil*](../../magic/spells/protection-from-evil.md) or a similar effect activated, that effect is immediately and automatically dispelled. You can use this ability against a creature that has not invoked your demon lord’s name, but if you do so, it functions as a normal (non-quickened) [*charm monster*](../../magic/spells/charm-monster.md) spell that does not dispel *protection from evil* effects. This ability is the equivalent of a 9th-level spell.
 
 ### Evangelist Boons
 
@@ -836,7 +836,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Exalted Boons
 
-1. **Whispers on the Wind (Sp)**: *charm person* 3/day, *enthrall* 2/day, or *fly* 1/day
+1. **Whispers on the Wind (Sp)**: *charm person* 3/day, [*enthrall*](../../magic/spells/enthrall.md) 2/day, or *fly* 1/day
 2. **Possession (Sp)**: You can cast [*possession*](../../magic/spells/possession.md) three times per day as a spell-like ability.
 3. **True Temptation (Sp)**: If any creature speaks your demon lord’s name aloud three times with a single breath, and that creature is within 60 feet of you, you can cast *charm monster* on that creature as an immediate action. You can use this spell-like ability up to three times per day. Creatures with fly speeds take a –4 penalty on saving throws against this effect. If a creature that fails its save against this effect is under the benefits of *protection from evil* or a similar effect, that effect is immediately and automatically dispelled. You can use this ability against a creature that has not invoked your demon lord’s name, but if you do so, it functions as a normal (non-quickened) *charm monster* spell that does not dispel *protection from evil* effects.
 
@@ -862,7 +862,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 
 ### Demoniac Boons
 
-1. **First Boon (Sp)**: *chill metal* 1/day
+1. **First Boon (Sp)**: [*chill metal*](../../magic/spells/chill-metal.md) 1/day
 2. **Second Boon (Sp)**: [*ice storm*](../../magic/spells/ice-storm.md) 1/day
 3. **Third Boon (Sp)**: [*freezing sphere*](../../magic/spells/freezing-sphere.md) 1/day
 
@@ -873,7 +873,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 ### Demoniac Boons
 
 1. **First Boon (Sp)**: *spiritual weapon* 1/day
-2. **Second Boon (Sp)**: *phantasmal killer* 1/day
+2. **Second Boon (Sp)**: [*phantasmal killer*](../../magic/spells/phantasmal-killer.md) 1/day
 3. **Third Boon (Sp)**: [*harm*](../../magic/spells/harm.md) 1/day
 
 ## Nascent demon lord of carrion and scavengers
@@ -897,7 +897,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 ### Demoniac Boons
 
 1. **First Boon (Sp)**: *command undead* 1/day
-2. **Second Boon (Sp)**: *animate dead* 1/day
+2. **Second Boon (Sp)**: [*animate dead*](../../magic/spells/animate-dead.md) 1/day
 3. **Third Boon (Sp)**: [*move earth*](../../magic/spells/move-earth.md) 1/day
 
 ## Nascent demon lord of lost dreams and seduction of the pure
@@ -907,7 +907,7 @@ Demon lords are listed by their portfolio rather than by name. These obediences 
 ### Demoniac Boons
 
 1. **First Boon (Sp)**: *alter self* 1/day
-2. **Second Boon (Sp)**: *fire shield* 1/day
+2. **Second Boon (Sp)**: [*fire shield*](../../magic/spells/fire-shield.md) 1/day
 3. **Third Boon (Sp)**: *mass suggestion* 1/day
 
 ## Nascent demon lord of rats and sewers

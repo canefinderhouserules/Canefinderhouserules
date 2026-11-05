@@ -7,7 +7,7 @@
 **Target** you  
 **Duration** 10 min./level (D)
 
-*Shield* creates an invisible shield of force that hovers in front of you. It negates *magic missile* attacks directed at you. The disk also provides a +3 shield bonus to AC. This bonus applies against incorporeal touch attacks, since it is a force effect. The *shield* has no armor check penalty or arcane spell failure chance.
+*Shield* creates an invisible shield of force that hovers in front of you. It negates [*magic missile*](magic-missile.md) attacks directed at you. The disk also provides a +3 shield bonus to AC. This bonus applies against incorporeal touch attacks, since it is a force effect. The *shield* has no armor check penalty or arcane spell failure chance.
 
 ??? note "Original rule"
 

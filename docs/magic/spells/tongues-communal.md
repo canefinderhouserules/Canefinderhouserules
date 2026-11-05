@@ -8,4 +8,4 @@
 **Duration** 10 min./level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** no
 
-This spell functions like tongues, except you divide the duration in 10-minute intervals among the creatures touched.
+This spell functions like [*tongues*](tongues.md), except you divide the duration in 10-minute intervals among the creatures touched.

@@ -8,7 +8,7 @@
 **Duration** concentration, up to 1 min./level (D)  
 **Saving Throw** Will negates, see text; **Spell Resistance** no
 
-This spell functions like *detect thoughts*, with the additional ability to find echoes of the thoughts of a creature mentally controlling the target. For example, if the target has been dominated by a vampire, you can use evidence left in the target’s mind to learn about that vampire. Each minute you concentrate on the spell, you can learn your choice of one of the following pieces of information.
+This spell functions like [*detect thoughts*](detect-thoughts.md), with the additional ability to find echoes of the thoughts of a creature mentally controlling the target. For example, if the target has been dominated by a vampire, you can use evidence left in the target’s mind to learn about that vampire. Each minute you concentrate on the spell, you can learn your choice of one of the following pieces of information.
 
 - **Direction**: The controller’s general direction and distance.
 - **Emotion**: The controller’s emotional state (gloating, sated, frightened, angry, and so on).

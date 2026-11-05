@@ -4,7 +4,7 @@
 
 You are adept at firing ranged weapons in close quarters.
 
-**Prerequisite**: Weapon Specialization with selected ranged weapon.
+**Prerequisite**: [Weapon Specialization](weapon-specialization.md) with selected ranged weapon.
 
 **Benefit**: Choose one type of ranged weapon. You do not provoke attacks of opportunity when firing the selected weapon while threatened.
 

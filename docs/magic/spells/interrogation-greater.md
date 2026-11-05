@@ -8,4 +8,4 @@
 **Duration** 1 minute/level  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-This spell functions as interrogation, except you may ask one question per caster level and the spell deals damage equal to 1d8 points plus your Wisdom bonus if the target doesn’t answer a question.
+This spell functions as [*interrogation*](interrogation.md), except you may ask one question per caster level and the spell deals damage equal to 1d8 points plus your Wisdom bonus if the target doesn’t answer a question.

@@ -29,7 +29,7 @@ The difficulty of the save depends on your knowledge the subject and the physica
 | Possession or garment | –4 |
 | Body part, lock of hair, bit of nail, etc. | –10 |
 
-*Dispel evil* cast on the subject while you are casting the spell dispels the *nightmare* and causes you to be stunned for 10 minutes per caster level of the *dispel evil*.
+*Dispel evil* cast on the subject while you are casting the spell dispels the *nightmare* and causes you to be stunned for 10 minutes per caster level of the [*dispel evil*](dispel-evil.md).
 
 If the recipient is awake when the spell begins, you can choose to cease casting (ending the spell) or to enter a trance until the recipient goes to sleep, whereupon you become alert again and complete the casting. If you are disturbed during the trance, you must succeed on a concentration check as if you were in the midst of casting a spell or the spell ends.
 

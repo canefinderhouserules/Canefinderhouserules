@@ -7,4 +7,4 @@
 **Target** you  
 **Duration** 1 hour/level or until discharged; see text
 
-This spell functions as false life, except you gain temporary hit points equal to 2d10 + 1 point per caster level (maximum +20). The effects of this spell do not stack with those of false life.
+This spell functions as [*false life*](false-life.md), except you gain temporary hit points equal to 2d10 + 1 point per caster level (maximum +20). The effects of this spell do not stack with those of false life.

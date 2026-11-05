@@ -8,4 +8,4 @@
 **Duration** 10 minutes/level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions as *tongues*, except the creature touched gains only the ability to speak and understand a regional human language, such as Common or a local human tongue, and the language granted must be one you know. You must select the language at the time of casting. The language can’t be a dead language. The target speaks the language with a native accent, but the spell doesn’t impart knowledge about any culture associated with the language, nor does it change the target’s appearance.
+This spell functions as [*tongues*](tongues.md), except the creature touched gains only the ability to speak and understand a regional human language, such as Common or a local human tongue, and the language granted must be one you know. You must select the language at the time of casting. The language can’t be a dead language. The target speaks the language with a native accent, but the spell doesn’t impart knowledge about any culture associated with the language, nor does it change the target’s appearance.

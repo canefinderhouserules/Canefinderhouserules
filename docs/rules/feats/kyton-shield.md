@@ -6,4 +6,4 @@ Whether in your hand or draped around your body, the spiked chain serves as both
 
 **Prerequisites**: Wis 15, Exotic Weapon Proficiency (spiked chain), [Kyton Style](kyton-style.md), base attack bonus +5, Knowledge (planes) 3 ranks, ki pool class feature.
 
-**Benefit**: When using Kyton Style, you gain a +1 shield bonus to your Armor Class as long as you are wielding a spiked chain. If the spiked chain is magical, add 1/2 its enhancement bonus to this shield bonus. If the spiked chain has the *vicious* ability, instead add its full enhancement bonus to the shield bonus.
+**Benefit**: When using [Kyton Style](kyton-style.md), you gain a +1 shield bonus to your Armor Class as long as you are wielding a spiked chain. If the spiked chain is magical, add 1/2 its enhancement bonus to this shield bonus. If the spiked chain has the *vicious* ability, instead add its full enhancement bonus to the shield bonus.

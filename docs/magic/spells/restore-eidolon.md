@@ -10,4 +10,4 @@
 
 (harmless)
 
-This spell functions as restoration, except it only affects an eidolon.
+This spell functions as [*restoration*](restoration.md), except it only affects an eidolon.

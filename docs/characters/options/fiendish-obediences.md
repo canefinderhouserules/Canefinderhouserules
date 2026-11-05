@@ -56,7 +56,7 @@ Fiends are listed by their portfolio rather than by name. These obediences are m
 
 ### Evangelist Boons
 
-1. **Hell’s Deception (Sp)**: *lesser confusion* 3/day, [*misdirection*](../../magic/spells/misdirection.md) 2/day, or *glibness* 1/day
+1. **Hell’s Deception (Sp)**: *lesser confusion* 3/day, [*misdirection*](../../magic/spells/misdirection.md) 2/day, or [*glibness*](../../magic/spells/glibness.md) 1/day
 2. **White Angel of Hell (Sp, Su)**: Your archdevil knows, perhaps a little self-deceptively, that he is the mightiest creature the lord of Hell has ever created, and from this profane knowledge your archdevil draws great power. Likewise, in your dark heart you know that you are one of your archdevil’s favored servants, and this knowledge invests you with authority. Whenever a creature senses your aura, such as with detect evil or similar spells, you radiate an aura as if you had 20 Hit Dice. A number of times per day equal to 3 + your Wisdom modifier, you gain a +20 bonus on Intimidate checks when you flaunt your association with Hell as part of the check. Additionally, you can cast *greater command* twice per day as a spell-like ability.
 3. **Lies of the Son (Sp)**: Like your archdevil, you can weave a tapestry of lies so convincing that it can wipe the very identity from individuals’ minds, and you can cleverly use this ability to your advantage. Once per day, you can cast *communal mind blank* as a spell-like ability.
 
@@ -100,14 +100,14 @@ Fiends are listed by their portfolio rather than by name. These obediences are m
 
 ### Evangelist Boons
 
-1. **Wicked and Urbane (Sp)**: *charm person* 3/day, [*castigate*](../../magic/spells/castigate.md) 2/day, or [*suggestion*](../../magic/spells/suggestion.md) 1/day
+1. **Wicked and Urbane (Sp)**: [*charm person*](../../magic/spells/charm-person.md) 3/day, [*castigate*](../../magic/spells/castigate.md) 2/day, or [*suggestion*](../../magic/spells/suggestion.md) 1/day
 2. **Master of the Maze (Sp)**: You can use the immense, profane powers of the infernal maze to your advantage. Once per day, you can cast [*maze*](../../magic/spells/maze.md) as a spell-like ability, except the DC of the Intelligence check to escape the labyrinth is 15 and you must succeed at a touch attack to target a creature. The maze you conjure is a replica of the infamous labyrinths of the Infernal City itself: walls of iron and black marble, with the tormented faces of the damned screaming and contorting soundlessly throughout their facades.
 3. **Towers of Marble and Flesh (Su)**: You can harness some of the Infernal City’s horrific landscape and use it to warp your enemies’ flesh. Once per day as a standard action, you can target a creature made of flesh. If the target fails a Fortitude saving throw (DC = 10 + half your Hit Dice + your Charisma modifier), it is turned into an infernal statue made of black marble and hardened soul flesh as per [*flesh to stone*](../../magic/spells/flesh-to-stone.md). Additionally, each round on the target’s turn for 3 rounds (starting on the round after it is turned to stone), the target takes 10d6 points of damage as ravenous souls from Hell consume its petrified body (this damage bypasses the statue’s hardness). The target can attempt a Fortitude saving throw each round to halve the damage. If this damage kills the target, its petrified body shatters, and only [*miracle*](../../magic/spells/miracle.md), [*true resurrection*](../../magic/spells/true-resurrection.md), or [*wish*](../../magic/spells/wish.md) can bring the target back to life.
 
 ### Exalted Boons
 
 1. **Fist of Iron (Sp)**: [*forbid action*](../../magic/spells/forbid-action.md) 3/day, [*enthrall*](../../magic/spells/enthrall.md) 2/day, or [*force punch*](../../magic/spells/force-punch.md) 1/day
-2. **Eclipsing Eye’s Glare (Su)**: You carry an air of your archdevil’s dark perfection about you and can see easily through the pettiness of your friends and foes alike. For a number of minutes per day equal to your Hit Dice, you can see things as they actually are, as per [*true seeing*](../../magic/spells/true-seeing.md). You must use a standard action to activate this ability and can dismiss it as a free action. The duration need not be used all at once, but must be used in 1-minute increments. Additionally, once per day while this ability is active, when you use it to see a creature that is invisible or under a *blur* or [*displacement*](../../magic/spells/displacement.md) effect, you can invoke your archdevil’s unholy power to strike fear into its heart as a swift action, giving it the shaken condition for a number of rounds equal to your Hit Dice and removing the *blur*, *displacement*, or [*invisibility*](../../magic/spells/invisibility.md) effect. There is no saving throw for this secondary effect, and it is a fear effect.
+2. **Eclipsing Eye’s Glare (Su)**: You carry an air of your archdevil’s dark perfection about you and can see easily through the pettiness of your friends and foes alike. For a number of minutes per day equal to your Hit Dice, you can see things as they actually are, as per [*true seeing*](../../magic/spells/true-seeing.md). You must use a standard action to activate this ability and can dismiss it as a free action. The duration need not be used all at once, but must be used in 1-minute increments. Additionally, once per day while this ability is active, when you use it to see a creature that is invisible or under a [*blur*](../../magic/spells/blur.md) or [*displacement*](../../magic/spells/displacement.md) effect, you can invoke your archdevil’s unholy power to strike fear into its heart as a swift action, giving it the shaken condition for a number of rounds equal to your Hit Dice and removing the *blur*, [*displacement*](../../magic/spells/displacement.md), or [*invisibility*](../../magic/spells/invisibility.md) effect. There is no saving throw for this secondary effect, and it is a fear effect.
 3. **Courtly King (Sp)**: Like your archdevil, you see the value in using your infernal charm to get your way rather than relying on brute force, and your darkly honeyed words are intoxicatingly compelling. Twice per day, you can cast *mass charm monster* as a spell-like ability, except no two of the creatures can be more than 60 feet apart.
 
 ### Sentinel Boons
@@ -129,7 +129,7 @@ Fiends are listed by their portfolio rather than by name. These obediences are m
 ### Exalted Boons
 
 1. **Fulfilled by Hell (Sp)**: [*memorize page*](../../magic/spells/memorize-page.md) 3/day, [*honeyed tongue*](../../magic/spells/honeyed-tongue.md) 2/day, or [*marionette possession*](../../magic/spells/marionette-possession.md) 1/day
-2. **Signed in Hell (Su)**: The full weight of your archdevil backs the infernal contracts you sign, even if the signatories are coerced or otherwise tricked into agreement. Three times per day as a standard action, you can target a creature to bind it into a special Hell-backed contract. If the creature fails a Will saving throw (DC = 10 + half your Hit Dice + your Charisma modifier), for a number of rounds equal to your Hit Dice it cannot make any bodily contact with you, including attacking with manufactured weapons, as if it were a good-aligned summoned creature and you were affected with a *protection from good* spell. You can attack the affected creature without penalty. Every time the creature attempts to attack you while this ability is in effect, it is nauseated for 1 round (no saving throw).
+2. **Signed in Hell (Su)**: The full weight of your archdevil backs the infernal contracts you sign, even if the signatories are coerced or otherwise tricked into agreement. Three times per day as a standard action, you can target a creature to bind it into a special Hell-backed contract. If the creature fails a Will saving throw (DC = 10 + half your Hit Dice + your Charisma modifier), for a number of rounds equal to your Hit Dice it cannot make any bodily contact with you, including attacking with manufactured weapons, as if it were a good-aligned summoned creature and you were affected with a [*protection from good*](../../magic/spells/protection-from-good.md) spell. You can attack the affected creature without penalty. Every time the creature attempts to attack you while this ability is in effect, it is nauseated for 1 round (no saving throw).
 3. **Eternal Contractual Damnation (Sp)**: You can marshal the might of Hell to briefly imprison your enemies. This functions as *mass icy prison*, using your Hit Dice as your caster level, except the targets are trapped in infernal flames and the prison deals fire damage instead of cold damage. Affected creatures can quench the shifting wall of flames in the same way they could break an icy prison. (*Create water* has no effect on the flames, but casting a [*quench*](../../magic/spells/quench.md) spell automatically extinguishes a single creature’s prison).
 
 ### Sentinel Boons
@@ -166,13 +166,13 @@ Fiends are listed by their portfolio rather than by name. These obediences are m
 
 ### Evangelist Boons
 
-1. **Hell’s Secrets (Sp)**: [*fumbletongue*](../../magic/spells/fumbletongue.md) 3/day, *augury* 2/day, or [*illusory script*](../../magic/spells/illusory-script.md) 1/day
+1. **Hell’s Secrets (Sp)**: [*fumbletongue*](../../magic/spells/fumbletongue.md) 3/day, [*augury*](../../magic/spells/augury.md) 2/day, or [*illusory script*](../../magic/spells/illusory-script.md) 1/day
 2. **Truths and Lies Overwhelming (Sp)**: Once per day, you can cast [*dictum*](../../magic/spells/dictum.md) as a spell-like ability.
 3. **Whispers of the Monolith (Su)**: Although you find Hell’s ominous white stone monolith a mystery, you know that a mere glimpse of the truth behind the obelisk can drive a mortal insane. Once per day as a standard action, you can target one or more living creatures, no two of which can be more than 15 feet apart. Each creature who fails a Will saving throw (DC = 10 + half your Hit Dice + your Charisma modifier) is affected as if by an [*insanity*](../../magic/spells/insanity.md) spell. This is a mind-affecting compulsion effect.
 
 ### Exalted Boons
 
-1. **Sound the Horn (Sp)**: *forbid action* 3/day, [*hideous laughter*](../../magic/spells/hideous-laughter.md) 2/day, or *blood biography* 1/day
+1. **Sound the Horn (Sp)**: [*forbid action*](../../magic/spells/forbid-action.md) 3/day, [*hideous laughter*](../../magic/spells/hideous-laughter.md) 2/day, or [*blood biography*](../../magic/spells/blood-biography.md) 1/day
 2. **Serpent’s Torpor (Su)**: Once per day, you can spend 10 minutes meditating on the unholy might of the heresies your archdevil sows in the hearts of all. You must remain quiet and undisturbed during this time, and you can’t take any other actions while thus meditating. During the 24 hours following your meditation, you can grant yourself and up to four other creatures within 30 feet a +4 profane bonus on ability checks, attack rolls, saving throws, and skill checks as a move action. You can maintain these bonuses as a free action for up to 1 round per Hit Die, after which you must meditate again to regain the ability. These rounds need not be consecutive, but the duration must be used in 1-round increments. You can deactivate the bonuses as a free action. Performing your obedience to your archdevil does not count toward the meditation time this ability requires.
 3. **Trophies of the Betrayer (Su)**: Three times per day as a standard action, you can target any creature within 60 feet and whisper lies directly into its mind. If the target fails a Will saving throw (DC = 10 + half your Hit Dice + your Charisma modifier), it has a temporary crisis of faith, and it cannot access any abilities granted to it by its faith, including the ability to cast spells. This effect has no lasting effect on a creature’s faith, and when the effect ends, the target returns to normal. This effect lasts for a number of rounds equal to your Hit Dice. This is a mind-affecting effect but is not language-dependent, as the lies you weave are understood regardless of the languages the target speaks.
 
@@ -189,7 +189,7 @@ Fiends are listed by their portfolio rather than by name. These obediences are m
 ### Evangelist Boons
 
 1. **Death’s Blessing (Sp)**: [*memory lapse*](../../magic/spells/memory-lapse.md) 3/day, [*catatonia*](../../magic/spells/catatonia.md) 2/day, or [*create soul gem*](../../magic/spells/create-soul-gem.md) 1/day
-2. **Soul Crush (Su)**: As a standard action, you can crush a soul gem (such as one you create via *create soul gem* or one created by a cacodaemon) to gain fast healing 15 for a number of rounds equal to your Hit Dice. This action condemns the crushed soul to Abaddon; resurrecting this victim requires a successful DC 28 caster level check.
+2. **Soul Crush (Su)**: As a standard action, you can crush a soul gem (such as one you create via [*create soul gem*](../../magic/spells/create-soul-gem.md) or one created by a cacodaemon) to gain fast healing 15 for a number of rounds equal to your Hit Dice. This action condemns the crushed soul to Abaddon; resurrecting this victim requires a successful DC 28 caster level check.
 3. **Death’s Clutches (Sp)**: You can use [*soul bind*](../../magic/spells/soul-bind.md) as a spell-like ability once per day.
 
 ### Exalted Boons
@@ -210,19 +210,19 @@ Fiends are listed by their portfolio rather than by name. These obediences are m
 
 ### Evangelist Boons
 
-1. **Jackal’s Blessing (Sp)**: *memory lapse* 3/day, [*false life*](../../magic/spells/false-life.md) 2/day, or [*vampiric touch*](../../magic/spells/vampiric-touch.md) 1/day
-2. **Unending Whispers (Sp)**: You can cast *insanity* once per day as a spell-like ability.
+1. **Jackal’s Blessing (Sp)**: [*memory lapse*](../../magic/spells/memory-lapse.md) 3/day, [*false life*](../../magic/spells/false-life.md) 2/day, or [*vampiric touch*](../../magic/spells/vampiric-touch.md) 1/day
+2. **Unending Whispers (Sp)**: You can cast [*insanity*](../../magic/spells/insanity.md) once per day as a spell-like ability.
 3. **Kiss of the Parasite Prince (Su)**: You can make a touch attack to infect another creature with a fragment of your soul. The target can resist the attack with a successful Will save (DC = 10 + half your Hit Dice + your Charisma modifier). Otherwise, while you and the target are on the same plane, as a free action you can observe what your target perceives with its senses. Once per day as a standard action, you can directly control the target’s actions for 1 round plus a number of additional rounds equal to your Charisma bonus. The affected creature retains no memory of your controlling influence or its actions while controlled. This is a curse effect. You can have only one target affected by your kiss at a time; if you target another creature, the first is no longer affected.
 
 ### Exalted Boons
 
-1. **Jackal’s Grace (Sp)**: *ray of enfeeblement* 3/day, [*feast of ashes*](../../magic/spells/feast-of-ashes.md) 2/day, or [*cup of dust*](../../magic/spells/cup-of-dust.md) 1/day
-2. **Unending Hunger (Su)**: Once per day as a standard action, you can consume any nonliving substance without ill effect. The size of the object consumed can be no larger than a creature of your own size category, but regardless of the size, consuming the object takes only 1 round. A body consumed in this way can be restored to life only via *miracle*, *true resurrection*, or *wish*. Any object you consume can attempt a Fortitude save (DC = 10 + half your Hit Dice + your Constitution modifier) to avoid being destroyed.
+1. **Jackal’s Grace (Sp)**: [*ray of enfeeblement*](../../magic/spells/ray-of-enfeeblement.md) 3/day, [*feast of ashes*](../../magic/spells/feast-of-ashes.md) 2/day, or [*cup of dust*](../../magic/spells/cup-of-dust.md) 1/day
+2. **Unending Hunger (Su)**: Once per day as a standard action, you can consume any nonliving substance without ill effect. The size of the object consumed can be no larger than a creature of your own size category, but regardless of the size, consuming the object takes only 1 round. A body consumed in this way can be restored to life only via [*miracle*](../../magic/spells/miracle.md), [*true resurrection*](../../magic/spells/true-resurrection.md), or [*wish*](../../magic/spells/wish.md). Any object you consume can attempt a Fortitude save (DC = 10 + half your Hit Dice + your Constitution modifier) to avoid being destroyed.
 3. **Withering Invocation (Sp)**: Once per day, you can invoke your horseman’s unending hunger to cause a number of victims to consume themselves from the inside out. You can cast [*implosion*](../../magic/spells/implosion.md) once per day as a spell-like ability.
 
 ### Sentinel Boons
 
-1. **Famine’s Crusader (Sp)**: *mount* 3/day, *wartrain mount* 2/day, or *phantom steed* 1/day
+1. **Famine’s Crusader (Sp)**: [*mount*](../../magic/spells/mount.md) 3/day, [*wartrain mount*](../../magic/spells/wartrain-mount.md) 2/day, or [*phantom steed*](../../magic/spells/phantom-steed.md) 1/day
 2. **Consumptive Aura (Su)**: As a swift action, you can radiate an aura of hunger to a radius of 20 feet. Once you activate this ability, you can maintain it each round as a free action. You can use this ability for a number of rounds per day equal to your Hit Dice; these rounds need not be consecutive, but they must be used in 1-round increments. Each round a creature begins its turn within this aura, it must succeed at a Fortitude save (DC = 10 + half your Hit Dice + your Charisma modifier) or take 1d6 points of nonlethal damage and become fatigued from extreme hunger. Creatures that don’t need to eat are immune to this effect. You are immune to this effect, and although you still feel hunger pangs, you no longer take damage nor are otherwise inconvenienced by the effects of starvation.
 3. **Eruptive Arrival (Sp)**: Once per day, you can teleport yourself into the flesh of any living creature that you can see (as per *greater teleport*), erupting out of its body in a shower of blood, bone, and viscera, arriving in an adjacent square, and dealing 5d6 damage to all creatures within 10 feet. The target itself takes 20d6 points of damage. The target and creatures in the affected areas can attempt Fortitude saves (DC = 10 + half your Hit Dice + your Constitution bonus) to reduce the damage by half, but any creature that fails this saving throw is also nauseated for 1d4 rounds.
 
@@ -245,7 +245,7 @@ Fiends are listed by their portfolio rather than by name. These obediences are m
 ### Sentinel Boons
 
 1. **Plague’s Crusader (Sp)**: *mount* 3/day, *wartrain mount* 2/day, or *phantom steed* 1/day
-2. **Contagious Strike (Sp)**: Up to three times per day as a swift action, you can cause a creature damaged by a ranged or melee weapon you wield to become affected by *contagion*.
+2. **Contagious Strike (Sp)**: Up to three times per day as a swift action, you can cause a creature damaged by a ranged or melee weapon you wield to become affected by [*contagion*](../../magic/spells/contagion.md).
 3. **Usher of Pestilence (Su)**: As a swift action, you can summon into your hands either a *+4 unholy wounding scythe* or a *+4 adaptive distance unholy longbow*, lasting for a number of rounds equal to your Hit Dice + your Constitution modifier. This weapon vanishes if you release it, and the rounds of use need not be consecutive.
 
 ## Horseman of war
@@ -254,15 +254,15 @@ Fiends are listed by their portfolio rather than by name. These obediences are m
 
 ### Evangelist Boons
 
-1. **Seraph’s Blessing (Sp)**: *charm person* 3/day, [*tactical acumen*](../../magic/spells/tactical-acumen.md) 2/day, or *suggestion* 1/day
+1. **Seraph’s Blessing (Sp)**: *charm person* 3/day, [*tactical acumen*](../../magic/spells/tactical-acumen.md) 2/day, or [*suggestion*](../../magic/spells/suggestion.md) 1/day
 2. **Swift Fires of War (Sp)**: You can cast quickened [*haste*](../../magic/spells/haste.md) once per day as a spell-like ability.
 3. **Horseman’s Command (Sp)**: Once per day, you can invoke your horseman’s fury, exhorting every creature within 30 feet to fly into a rage and attack your enemies. This functions as a quickened [*song of discord*](../../magic/spells/song-of-discord.md).
 
 ### Exalted Boons
 
-1. **Seraph’s Grace (Sp)**: [*moment of greatness*](../../magic/spells/moment-of-greatness.md) 3/day, [*burning gaze*](../../magic/spells/burning-gaze.md) 2/day, or *fireball* 1/day
+1. **Seraph’s Grace (Sp)**: [*moment of greatness*](../../magic/spells/moment-of-greatness.md) 3/day, [*burning gaze*](../../magic/spells/burning-gaze.md) 2/day, or [*fireball*](../../magic/spells/fireball.md) 1/day
 2. **Pyre’s Touch (Ex)**: You gain fire resistance 30 (this stacks with any other natural fire resistance you have).
-3. **Punishment of the Forsaken (Sp)**: Once per day as a standard action, you call down your horseman’s wrath upon a single target. This ability acts as *implosion*, but the victim is drawn into the air, held cruciform, and then torn apart by an invisible force.
+3. **Punishment of the Forsaken (Sp)**: Once per day as a standard action, you call down your horseman’s wrath upon a single target. This ability acts as [*implosion*](../../magic/spells/implosion.md), but the victim is drawn into the air, held cruciform, and then torn apart by an invisible force.
 
 ### Sentinel Boons
 
@@ -276,7 +276,7 @@ Fiends are listed by their portfolio rather than by name. These obediences are m
 
 ### Evangelist Boons
 
-1. **Dark Wings of Vengeance (Sp)**: *murderous command* 3/day, *death knell* 2/day, or [*excruciating deformation*](../../magic/spells/excruciating-deformation.md) 1/day
+1. **Dark Wings of Vengeance (Sp)**: [*murderous command*](../../magic/spells/murderous-command.md) 3/day, [*death knell*](../../magic/spells/death-knell.md) 2/day, or [*excruciating deformation*](../../magic/spells/excruciating-deformation.md) 1/day
 2. **Erinyes Legion (Su)**: Once per day as a standard action, you can call down a shower of erinyes’ flaming arrows in a 40-foot-radius area centered anywhere within 400 feet of your position. Each creature in the area takes 3d6 points of fire damage and 3d6 points of evil-aligned damage and is then staggered for 1d4 rounds. A creature that succeeds at a Reflex saving throw (DC = 10 + half your Hit Dice + your Charisma modifier) takes half damage and negates the staggered condition.
 3. **Fallen Angel’s Return (Sp)**: The might and fury of a vengeful your queen standing against her foes is a terrible sight to behold. Once per day, you can create an overwhelming image of your queen storming the gates of Heaven to annex her long-deserved dark queendom. This ability functions as per [*weird*](../../magic/spells/weird.md).
 
@@ -304,13 +304,13 @@ Fiends are listed by their portfolio rather than by name. These obediences are m
 
 ### Exalted Boons
 
-1. **Mists of the Mind (Sp)**: [*silent image*](../../magic/spells/silent-image.md) 3/day, *invisibility* 2/day, or [*create drug*](../../magic/spells/create-drug.md) 1/day
-2. **Breathe In the Cosmos (Su)**: Upon ingesting a drug—including those conjured by the *create drug* spell—you heal an amount of damage determined by the severity of that drug’s base addictiveness: 2d6 hit points for minor, 4d6 hit points for moderate, and 6d6 hit points for major. Additionally, when taking the drug adyton, you automatically succeed at the Will save.
+1. **Mists of the Mind (Sp)**: [*silent image*](../../magic/spells/silent-image.md) 3/day, [*invisibility*](../../magic/spells/invisibility.md) 2/day, or [*create drug*](../../magic/spells/create-drug.md) 1/day
+2. **Breathe In the Cosmos (Su)**: Upon ingesting a drug—including those conjured by the [*create drug*](../../magic/spells/create-drug.md) spell—you heal an amount of damage determined by the severity of that drug’s base addictiveness: 2d6 hit points for minor, 4d6 hit points for moderate, and 6d6 hit points for major. Additionally, when taking the drug adyton, you automatically succeed at the Will save.
 3. **Breathe Out Death (Su)**: You know the secrets of controlling the flow of blood and toxins in your body. You gain a +4 saving throw against poison and can no longer become addicted to drugs. Additionally, you gain a +4 bonus on rolls to become stable when reduced to negative hit points. Finally, your life span is supernaturally lengthened; each aging step (middle age, old, venerable) is postponed by a number of years equal to twice your Wisdom score.
 
 ### Sentinel Boons
 
-1. **Dervish in the Mist (Sp)**: *disguise self* 3/day, *blur* 2/day, or *displacement* 1/day
+1. **Dervish in the Mist (Sp)**: [*disguise self*](../../magic/spells/disguise-self.md) 3/day, *blur* 2/day, or *displacement* 1/day
 2. **Inescapable Fate (Su)**: Just as your queen eschews cumbersome armor, you prefer to serve your mistress in flowing robes and shimmering veils. When you wear armor not made of metal, its maximum Dexterity bonus increases by 2. This applies to armors normally made out of metal but crafted from different materials such as bone or obsidian. Additionally, the DC for entangled creatures to escape a net you wield increases by 1 for every 4 Hit Dice you have.
 3. **Cut to the Truth (Su)**: Whenever you attack a target and have to roll a percent miss chance as a result of effects such as *blur* or concealment, reduce that percent miss chance by 20%. If this reduces the miss chance to 0%, the creature no longer counts as having concealment against you at all. Additionally, when taking the drug adyton, you automatically succeed at the Will save.
 
@@ -326,7 +326,7 @@ Fiends are listed by their portfolio rather than by name. These obediences are m
 
 ### Exalted Boons
 
-1. **Excise Fervor (Sp)**: *ray of sickening* 3/day, [*calm emotions*](../../magic/spells/calm-emotions.md) 2/day, or *nondetection* 1/day
+1. **Excise Fervor (Sp)**: [*ray of sickening*](../../magic/spells/ray-of-sickening.md) 3/day, [*calm emotions*](../../magic/spells/calm-emotions.md) 2/day, or [*nondetection*](../../magic/spells/nondetection.md) 1/day
 2. **Power over Passion (Su)**: Like your queen torturing the souls of the damned in Hell, you know that the passions of your enemies only give you more fodder with which to torment them. Once per day, when one or more creatures within 60 feet of you is under an emotion or mind-affecting effect, as a standard action you can speak a profane prayer to your queen. When you do, the creature or creatures must succeed at a Will saving throw (DC = 10 + half your Hit Dice + your Charisma modifier) or be paralyzed for 1 round and then staggered for a number of rounds equal to your Hit Dice. A successful saving throw negates this effect. When this ability targets multiple creatures, you can choose to exclude one or more of them. Once a creature has been targeted by this ability (whether or not it succeeded at its saving throw), that creature cannot again be the target of power over passion for 24 hours. This is a mind-affecting emotion effect.
 3. **Emotionless Void (Sp)**: Adherence to the ways of your queen has taught you how to siphon desires, dreams, fears, and hopes out of your enemies, until the void of dispassion steals the very breath from their lungs. Once per day, you can cast *mass suffocation* as a spell-like ability.
 
@@ -344,19 +344,19 @@ Fiends are listed by their portfolio rather than by name. These obediences are m
 
 1. **Darkest Muse (Sp)**: *disguise self* 3/day, [*adoration*](../../magic/spells/adoration.md) 2/day, or [*reckless infatuation*](../../magic/spells/reckless-infatuation.md) 1/day
 2. **Promises Insincere (Sp)**: Much like your queen can make mortals see in her presence their fondest desires, you can create an image of yourself to make promises you don’t intend to keep or otherwise fool your enemies into doing your bidding. Once per day, you can cast [*project image*](../../magic/spells/project-image.md) as a spell-like ability.
-3. **Soul-Bound Caress (Sp)**: Like that of your queen, your touch results in a much different experience than you might promise. Once per day, you can cast *soul bind* as a spell-like ability without paying the cost of the required material component. You must still touch the target corpse, however.
+3. **Soul-Bound Caress (Sp)**: Like that of your queen, your touch results in a much different experience than you might promise. Once per day, you can cast [*soul bind*](../../magic/spells/soul-bind.md) as a spell-like ability without paying the cost of the required material component. You must still touch the target corpse, however.
 
 ### Exalted Boons
 
-1. **Leveraged Wiles (Sp)**: [*innocence*](../../magic/spells/innocence.md) 3/day, *calm emotions* 2/day, or [*slow*](../../magic/spells/slow.md) 1/day
+1. **Leveraged Wiles (Sp)**: [*innocence*](../../magic/spells/innocence.md) 3/day, [*calm emotions*](../../magic/spells/calm-emotions.md) 2/day, or [*slow*](../../magic/spells/slow.md) 1/day
 2. **False Innocence (Sp)**: You have learned much from the ways of this fallen angel, including how to leverage your charms to convince fools to believe almost anything you wish. Three times per day when you are accused of anything, you can use *mass suggestion* as a spell-like ability. You can use this suggestion to persuade targets that you are innocent, that another is guilty, or that any other statement or insinuation is true. You or an ally must first be accused of some offense before you use this ability, however.
-3. **From the Mouths of Fools (Sp)**: In the course of exacting pledges of adoration and fealty from the fools you have tricked in your dark goddess’s name, you have amassed memories of begging, wheedling, and other pathetic pleas for your favor. Far from letting this energy go to waste, you can periodically release it in a mighty cacophonous scream. Once per day, you can cast *wail of the banshee* as a spell-like ability.
+3. **From the Mouths of Fools (Sp)**: In the course of exacting pledges of adoration and fealty from the fools you have tricked in your dark goddess’s name, you have amassed memories of begging, wheedling, and other pathetic pleas for your favor. Far from letting this energy go to waste, you can periodically release it in a mighty cacophonous scream. Once per day, you can cast [*wail of the banshee*](../../magic/spells/wail-of-the-banshee.md) as a spell-like ability.
 
 ### Sentinel Boons
 
 1. **Selfish Scales (Sp)**: [*lock gaze*](../../magic/spells/lock-gaze.md) 3/day, [*chameleon stride*](../../magic/spells/chameleon-stride.md) 2/day, or [*burst of nettles*](../../magic/spells/burst-of-nettles.md) 1/day
 2. **Beware the Forked Tongue (Sp)**: Just like your queen can drop her pretense of innocence when she decides she’s had enough of an annoying mortal, you can lash out at your enemies with all the force of your queen’s hatred and wrath. Once per day as a standard action, you can cast *mass inflict serious wounds* as a spell-like ability.
-3. **So Speaks the Queen (Su)**: When the fury of your queen is bared, it is an unholy and terrifying sight, and so is it when you display your full might to your foes. Once per day as a standard action, you can speak a profane prayer to your goddess. When you do, each enemy within 60 feet must succeed at a Fortitude saving throw (DC = 10 + half your Hit Dice + your Wisdom modifier) or its skin partially turns to scales. This painful process deals 1d6 points of damage for every 2 Hit Dice you have, and the target is subject to the effects of a *slow* spell for a number of rounds equal to your Hit Dice. On a successful saving throw, a target takes only half the damage and negates the *slow* effect. Creatures need not hear you to be affected, but you must be able to speak to use this ability. This is a polymorph effect.
+3. **So Speaks the Queen (Su)**: When the fury of your queen is bared, it is an unholy and terrifying sight, and so is it when you display your full might to your foes. Once per day as a standard action, you can speak a profane prayer to your goddess. When you do, each enemy within 60 feet must succeed at a Fortitude saving throw (DC = 10 + half your Hit Dice + your Wisdom modifier) or its skin partially turns to scales. This painful process deals 1d6 points of damage for every 2 Hit Dice you have, and the target is subject to the effects of a [*slow*](../../magic/spells/slow.md) spell for a number of rounds equal to your Hit Dice. On a successful saving throw, a target takes only half the damage and negates the *slow* effect. Creatures need not hear you to be affected, but you must be able to speak to use this ability. This is a polymorph effect.
 
 ## Qlippoth lord of cursed kingdoms and vile experiments
 
@@ -366,13 +366,13 @@ Fiends are listed by their portfolio rather than by name. These obediences are m
 
 1. **Maledictions (Sp)**: [*bane*](../../magic/spells/bane.md) 3/day, *blindness/deafness* 2/day, or [*bestow curse*](../../magic/spells/bestow-curse.md) 1/day
 2. **Ill Luck (Su)**: As a swift action, you can activate or deactivate a 5-foot-radius aura of unluck. A creature in the area when the aura is active must roll attack rolls and skill checks twice and take the worse result. A creature benefiting from a luck bonus is immune to this aura. You can use this aura for a total number of rounds per day equal to your Charisma modifier.
-3. **Transfer Curse (Su)**: Once per day, you can touch a creature that is affected by a curse effect or a spell with the curse descriptor and attempt to remove a single curse as the [*remove curse*](../../magic/spells/remove-curse.md) spell (treat your total Hit Dice as your caster level). You then hold the energy of that curse in your hand, as if you were holding the charge on a spell. With a successful touch attack, you can place that curse on another creature. The new target attempts the same saving throw as the original curse effect; if it fails, it is subject to the curse and the curse’s duration (if any) resets. Attempts to remove this transferred curse with a *remove curse* spell use your total Hit Dice as the new caster level.
+3. **Transfer Curse (Su)**: Once per day, you can touch a creature that is affected by a curse effect or a spell with the curse descriptor and attempt to remove a single curse as the [*remove curse*](../../magic/spells/remove-curse.md) spell (treat your total Hit Dice as your caster level). You then hold the energy of that curse in your hand, as if you were holding the charge on a spell. With a successful touch attack, you can place that curse on another creature. The new target attempts the same saving throw as the original curse effect; if it fails, it is subject to the curse and the curse’s duration (if any) resets. Attempts to remove this transferred curse with a [*remove curse*](../../magic/spells/remove-curse.md) spell use your total Hit Dice as the new caster level.
 
 ### Exalted Boons
 
-1. **Transformations (Sp)**: *enlarge person* 3/day, *alter self* 2/day, or *undead anatomy I* 1/day
+1. **Transformations (Sp)**: [*enlarge person*](../../magic/spells/enlarge-person.md) 3/day, [*alter self*](../../magic/spells/alter-self.md) 2/day, or *undead anatomy I* 1/day
 2. **Shrivel Limbs (Su)**: Three times per day, you can make a touch attack to cause a living creature’s arms and legs to temporarily wither unless it succeeds at a Fortitude saving throw (DC = 10 + half your total Hit Dice + your Charisma modifier). An affected creature counts as one size category smaller for the purpose of determining the size of weapons it can wield. If the creature is capable of making natural attacks with its arms, hands, or claws, the damage dealt by those attacks decreases as though the target were one size category smaller than its actual size. In addition, the creature’s base speed decreases by 10 feet (to a minimum of 5 feet) and its Strength score counts as 4 lower for the purpose of determining its carrying capacity. After 24 hours, the creature’s limbs return to normal. This is a curse effect.
-3. **Contagious Curse (Sp)**: You can cast [*conditional curse*](../../magic/spells/conditional-curse.md) as a spell-like ability once per day. The condition you dictate to remove the curse must involve the target manipulating the flesh of two other creatures in some manner (such as removing a limb or organ, or grafting on an additional facial feature). Each creature whose flesh the target manipulates in this manner must also succeed at a saving throw at the same DC as your *conditional curse* or be affected in the same way as the first target, with the same condition to remove the curse.
+3. **Contagious Curse (Sp)**: You can cast [*conditional curse*](../../magic/spells/conditional-curse.md) as a spell-like ability once per day. The condition you dictate to remove the curse must involve the target manipulating the flesh of two other creatures in some manner (such as removing a limb or organ, or grafting on an additional facial feature). Each creature whose flesh the target manipulates in this manner must also succeed at a saving throw at the same DC as your [*conditional curse*](../../magic/spells/conditional-curse.md) or be affected in the same way as the first target, with the same condition to remove the curse.
 
 ### Sentinel Boons
 

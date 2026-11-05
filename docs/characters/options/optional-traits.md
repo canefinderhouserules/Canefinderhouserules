@@ -70,7 +70,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 ## Faith
 
-**Chosen of the Goddess of Valor**: At your birth, your parents dedicated your soul to the goddess of valor to mold into a sword of her light. The goddess blessed you, granting you a gift of light to brighten your path through darkness and a fine sword with which to spread her will. You may cast [*light*](../../magic/spells/light.md) once per day as a spell-like ability (caster level 1st), and you begin play with a masterwork longsword. In addition, whenever *light* is cast upon this sword, the radius of *light* and its duration is doubled.
+**Chosen of the Goddess of Valor**: At your birth, your parents dedicated your soul to the goddess of valor to mold into a sword of her light. The goddess blessed you, granting you a gift of light to brighten your path through darkness and a fine sword with which to spread her will. You may cast [*light*](../../magic/spells/light.md) once per day as a spell-like ability (caster level 1st), and you begin play with a masterwork longsword. In addition, whenever [*light*](../../magic/spells/light.md) is cast upon this sword, the radius of *light* and its duration is doubled.
 
 **Covert Channeler**: Your mentor in a hidden caravan faith taught you to hide holy symbols quickly. You can draw or stow a holy symbol as a swift action.
 
@@ -268,7 +268,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Desert Scholar** (*the desert kingdom*): You have studied the history of ancient the desert kingdom, and may have even ventured inside one of the great pyramids. You gain a +1 trait bonus on Knowledge (engineering) and Knowledge (history) checks, and one of them is always a class skill for you. In addition, you may choose Ancient the desert tongue as one of your bonus languages.
 
-**Divine Deceiver** (*False-God*): You are trained in the methods of the false god’s realm’s priesthood, and can use your arcana to fuel minor healing powers. Once per day as a full-round action, you can sacrifice a prepared arcane spell or spell slot to manifest healing magic. This acts as *cure light wounds*, except you heal 1d6 points of damage per level of the spell or spell slot sacrificed (maximum 5d6) and the hit points healed are temporary (lasting 1 hour).
+**Divine Deceiver** (*False-God*): You are trained in the methods of the false god’s realm’s priesthood, and can use your arcana to fuel minor healing powers. Once per day as a full-round action, you can sacrifice a prepared arcane spell or spell slot to manifest healing magic. This acts as [*cure light wounds*](../../magic/spells/cure-light-wounds.md), except you heal 1d6 points of damage per level of the spell or spell slot sacrificed (maximum 5d6) and the hit points healed are temporary (lasting 1 hour).
 
 **Drowned Imperial Scholar** (*Ironbound Archipelago, non-elf*): Your interactions with the elves of the sea-spire have taught you much about drowned imperial artifacts, and you now share the sea-spire elves’ fascination with these relics. You gain drowned imperial as a bonus language, and you gain a +2 trait bonus on Appraise and Use Magic Device checks when attempting to identify or use authentic drowned imperial artifacts.
 

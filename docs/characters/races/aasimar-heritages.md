@@ -55,7 +55,7 @@ Lawbringers reflect the patience of their archon ancestors in their daily lives;
 
 **Good Influence**: You possess an innate ability to motivate and inspire others to do the right thing. You gain a +1 trait bonus on Diplomacy checks when attempting to persuade a nongood creature to make a decision that benefits the cause of good, and when persuading a nonlawful creature to make a decision in line with the laws of the region. These bonuses stack if you attempt to persuade a nongood, nonlawful creature to take a lawful good action.
 
-**Lantern Spirit**: Your celestial ancestor was a lantern archon for centuries before ascending to a higher rank. You feel a strange sense of nostalgia whenever you use your *continual flame* spell-like ability, and can use it as a move action instead of a standard action.
+**Lantern Spirit**: Your celestial ancestor was a lantern archon for centuries before ascending to a higher rank. You feel a strange sense of nostalgia whenever you use your [*continual flame*](../../magic/spells/continual-flame.md) spell-like ability, and can use it as a move action instead of a standard action.
 
 ## Azata-Blooded (Musetouched)
 

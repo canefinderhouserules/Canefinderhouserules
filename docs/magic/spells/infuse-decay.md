@@ -8,7 +8,7 @@
 **Duration** permanent until discharged (D)  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions as per *imbue with spell ability*, except it can only target corporeal undead creatures, and can only transfer touch spells. The number and level of spells the subject can be granted depends on the undead creature’s Hit Dice; even multiple castings of infuse decay can’t exceed this limit.
+This spell functions as per [*imbue with spell ability*](imbue-with-spell-ability.md), except it can only target corporeal undead creatures, and can only transfer touch spells. The number and level of spells the subject can be granted depends on the undead creature’s Hit Dice; even multiple castings of infuse decay can’t exceed this limit.
 
 | HD of Undead | Touch Spells Infused |
 |---|---|

@@ -8,4 +8,4 @@
 **Duration** 10 minutes/level  
 **Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 
-This spell functions like reinforce armaments, except you divide the duration in 10-minute intervals among the objects touched.
+This spell functions like [*reinforce armaments*](reinforce-armaments.md), except you divide the duration in 10-minute intervals among the objects touched.

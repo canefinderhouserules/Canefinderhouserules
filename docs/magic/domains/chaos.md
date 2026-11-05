@@ -32,7 +32,7 @@
 
 *Faith-Stealing Strike (Su)*: You can make a single attack using your highest base attack bonus against a creature capable of casting divine spells. If you damage the creature, it must succeed at a Will save (DC = 10 + 1/2 your cleric level + your Wisdom modifier) or be unable to cast any divine spells for as many rounds as your cleric level. If you do not damage your target with the attack, this ability is expended with no effect. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
-**Replacement Domain Spells**: 2nd—*align weapon* (chaos or evil only), 6th—[*corrosive consumption*](../spells/corrosive-consumption.md).
+**Replacement Domain Spells**: 2nd—[*align weapon*](../spells/align-weapon.md) (chaos or evil only), 6th—[*corrosive consumption*](../spells/corrosive-consumption.md).
 
 ###  Demon Subdomain
 
@@ -68,7 +68,7 @@
 
 *Aura of Chaos (Su)*: At 6th level, you can surround yourself with a field wild energies. Thee energies manifest as a 30-foot aura of chaos for a number of rounds per day equal to your cleric level. All enemies within this aura must declare one type of action at the start of their turn (attack, cast a spell, move, use an item, or activate a special ability) and make a Will save. Creatures that fail the Will save must take an action other than their declared action. If they succeed, they must take the declared action. Creatures cannot select actions that they cannot perform.
 
-**Replacement Domain Spells**: 1st—*confusion (lesser)*, 3rd—[*displacement*](../spells/displacement.md), 6th—*planar binding* (proteans only).
+**Replacement Domain Spells**: 1st—*confusion (lesser)*, 3rd—[*displacement*](../spells/displacement.md), 6th—[*planar binding*](../spells/planar-binding.md) (proteans only).
 
 ###  Revelry Subdomain
 
@@ -92,7 +92,7 @@
 
 *Aura of Bedlam (Su)*: At 4th level, you can emit a 30-foot-radius aura of chaos and strife for 1 round per cleric level. Enemies in the aura take a –4 penalty on concentration checks and are treated as experiencing vigorous motion (concentration DC = 10 + spell level) when attempting to cast spells. This penalty increases by 1 for every 2 cleric levels you have beyond 4th. This is a mind-affecting effect. These rounds need not be consecutive.
 
-**Replacement Domain Spells**: 4th—*confusion*, 7th—[*song of discord*](../spells/song-of-discord.md), 9th—[*symbol of strife*](../spells/symbol-of-strife.md).
+**Replacement Domain Spells**: 4th—[*confusion*](../spells/confusion.md), 7th—[*song of discord*](../spells/song-of-discord.md), 9th—[*symbol of strife*](../spells/symbol-of-strife.md).
 
 ### Whimsy Subdomain
 
@@ -104,7 +104,7 @@
 
 *Unexpected Whimsy (Su)*: As a standard action, you dance, act like a buffoon, or commit some other act of whimsy. When you do, enemies within 30 feet of you that can see and hear you must succeed a Will saving throw (DC = 10 + 1/2 your cleric level + half your Wisdom modifier) or they collapse into gales of manic laughter, falling prone. Those who fail their saving throws can take no actions other than laughing for 1 round, but are not considered helpless. You can use this ability once per day at 6th level and one additional time for every 4 levels you possess beyond 6th.
 
-**Replacement Domain Spells**: 1st—*hideous laughter*, 4th—*confusion*, 6th—[*cloak of dreams*](../spells/cloak-of-dreams.md).
+**Replacement Domain Spells**: 1st—[*hideous laughter*](../spells/hideous-laughter.md), 4th—*confusion*, 6th—[*cloak of dreams*](../spells/cloak-of-dreams.md).
 
 ## Variant Domain Powers
 

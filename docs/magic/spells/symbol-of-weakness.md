@@ -8,7 +8,7 @@
 **Duration** see text  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-This spell functions like *symbol of death*, except that every creature within 60 feet of a *symbol of weakness* instead suffers crippling weakness that deals 3d6 points of Strength damage.
+This spell functions like [*symbol of death*](symbol-of-death.md), except that every creature within 60 feet of a *symbol of weakness* instead suffers crippling weakness that deals 3d6 points of Strength damage.
 
 Unlike *symbol of death*, *symbol of weakness* has no hit point limit; once triggered, a *symbol of weakness* simply remains active for 10 minutes per caster level. A creature can only be affected by this symbol once.
 

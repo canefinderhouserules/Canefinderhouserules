@@ -98,9 +98,9 @@ Only gnomes may select one of these traits.
 
 **Charlatan**: Your talent for illusion goes beyond a mere knack for figments and phantasms. You can actually channel spell energy into simple illusions that augment your attempts at deception. As a swift action, you may expend one prepared spell or spell slot to gain a bonus on the next Bluff check you make, provided the check takes place before the beginning of your next turn. The bonus on this check is equal to the level of the spell consumed. You may use this ability 3 times per day. Only gnomes of nonlawful alignment may take this trait.
 
-**Naturally Gifted**: For unknown reasons, you have deeper reserves of magical energy than those around you. You gain an additional use of one of your gnome magic spell-like abilities each day. This does not always have to be the same spell-like ability—one day you might use [*dancing lights*](../../magic/spells/dancing-lights.md) twice, only to use the additional casting for *speak with animals* the next day.
+**Naturally Gifted**: For unknown reasons, you have deeper reserves of magical energy than those around you. You gain an additional use of one of your gnome magic spell-like abilities each day. This does not always have to be the same spell-like ability—one day you might use [*dancing lights*](../../magic/spells/dancing-lights.md) twice, only to use the additional casting for [*speak with animals*](../../magic/spells/speak-with-animals.md) the next day.
 
-**Trickster**: You are particularly adept with your racial spell-like abilities, and as a child you quickly learned how *dancing lights* and [*ghost sound*](../../magic/spells/ghost-sound.md) could be used to amuse your friends and fool your elders. This natural talent for illusion continued as you grew older. You gain a +1 trait bonus to your caster level when determining the duration, range, and area of all spells from the illusion school.
+**Trickster**: You are particularly adept with your racial spell-like abilities, and as a child you quickly learned how [*dancing lights*](../../magic/spells/dancing-lights.md) and [*ghost sound*](../../magic/spells/ghost-sound.md) could be used to amuse your friends and fool your elders. This natural talent for illusion continued as you grew older. You gain a +1 trait bonus to your caster level when determining the duration, range, and area of all spells from the illusion school.
 
 **Explorer**: Though many gnomes settle down in communities large enough and interesting enough to provide them with all the stimulation they need to ward off the Bleaching, you're never going to be one of them. You are always looking around the next bend in the road or over the next hill, past the borders of where you are to where you want to be. At the beginning of each character level, select one desired terrain type from the following list: cold, desert, forest, jungle, mountains (including hills), plains, planes (other than the Material Plane), swamp, underground (including caves and dungeons), urban, or water. You gain a +2 bonus on all Survival checks made in your desired terrain type. At the beginning of each level, you must select a new desired terrain type to replace the old one (you cannot take the same desired terrain type two levels in a row).
 
@@ -366,7 +366,7 @@ Only kitsune may select one of these traits.
 
 **Among Humans**: You have spent your entire life living among humans and are an expert at impersonating them. You gain a +2 trait bonus on Disguise checks to appear human while assuming your specific human form with the change shape racial trait, and Disguise is always a class skill for you.
 
-**Nine-Tailed Scion**: You are talented with kitsune magic. You gain a +1 trait bonus on caster level checks for your racial spell-like abilities as well as those from the [Magical Tail](../../rules/feats/magical-tail.md) feat. Additionally, you can select Magical Tail as a bonus feat whenever your favored class grants you a bonus bloodline feat, combat feat, or metamagic feat instead of the normal type of feat granted by that class. You cannot exchange specific feats granted by a class or race for Magical Tail in this manner; for instance, a monk cannot exchange his [Stunning Fist](../../rules/feats/stunning-fist.md) feat for Magical Tail.
+**Nine-Tailed Scion**: You are talented with kitsune magic. You gain a +1 trait bonus on caster level checks for your racial spell-like abilities as well as those from the [Magical Tail](../../rules/feats/magical-tail.md) feat. Additionally, you can select [Magical Tail](../../rules/feats/magical-tail.md) as a bonus feat whenever your favored class grants you a bonus bloodline feat, combat feat, or metamagic feat instead of the normal type of feat granted by that class. You cannot exchange specific feats granted by a class or race for Magical Tail in this manner; for instance, a monk cannot exchange his [Stunning Fist](../../rules/feats/stunning-fist.md) feat for Magical Tail.
 
 ## Kobold Traits
 
@@ -382,7 +382,7 @@ Only kobolds may select these traits. Kobold characters aren't restricted from t
 
 ### Blue-Scaled
 
-**Draconic Echo**: Like the blue dragons your tribe reveres, you have a touch of illusory magic. You can cast *ghost sound* twice per day as a spell-like ability. The caster level for this effect is equal to your character level. The save DC is Intelligence-based.
+**Draconic Echo**: Like the blue dragons your tribe reveres, you have a touch of illusory magic. You can cast [*ghost sound*](../../magic/spells/ghost-sound.md) twice per day as a spell-like ability. The caster level for this effect is equal to your character level. The save DC is Intelligence-based.
 
 **Elaborate Trapper**: You're blessed with a devious mind, and the more elaborate your traps are, the more effective they become. When creating a trap, if your Craft (traps) roll exceeds the DC of the check by 5 or more, that trap's Disable Device DC increases by 2.
 
@@ -484,7 +484,7 @@ Only androids may select these traits.
 
 **Nanite Revival**: You can instinctively activate your nanites to save your life. Once per day as an immediate action, you can command your nanites to stabilize you while you are dying, even while unconscious or helpless. This does not count as a use of your nanite surge ability.
 
-**Blood Algorithm**: Your inhumanity extends to your very core. Pain receptors were omitted during your construction, so you gain a +2 trait bonus on saving throws against spells with the pain descriptor. Additionally, once per day when you are healed by a spell that targets constructs (such as a *make whole* spell), you heal 1 extra hit point per level of the spell.
+**Blood Algorithm**: Your inhumanity extends to your very core. Pain receptors were omitted during your construction, so you gain a +2 trait bonus on saving throws against spells with the pain descriptor. Additionally, once per day when you are healed by a spell that targets constructs (such as a [*make whole*](../../magic/spells/make-whole.md) spell), you heal 1 extra hit point per level of the spell.
 
 ## Kasatha Traits
 
@@ -678,7 +678,7 @@ Only dhampirs can select these traits. Traits marked with a heritage are intende
 
 **Linguistic Genius** *(jiang-shi-born)*: Words and letters say more to you than their writers ever intended. You gain a +1 trait bonus on Linguistics checks, and learn to speak and read one additional language from your list of racial languages. Linguistics is always a class skill for you.
 
-**Mind Trapper** *(moroi-born)*: Your honeyed words are nearly impossible for your enchanted subjects to ignore. You gain a +2 trait bonus on Charisma checks to convince an ally enchanted by one of your charm spells (such as *charm person* or [*charm monster*](../../magic/spells/charm-monster.md)) to do things it wouldn't normally do.
+**Mind Trapper** *(moroi-born)*: Your honeyed words are nearly impossible for your enchanted subjects to ignore. You gain a +2 trait bonus on Charisma checks to convince an ally enchanted by one of your charm spells (such as [*charm person*](../../magic/spells/charm-person.md) or [*charm monster*](../../magic/spells/charm-monster.md)) to do things it wouldn't normally do.
 
 **Numerological Gift** *(jiang-shi-born)*: Since birth you have had an intimate connection with a certain number. When you select this trait, roll 3d6. The resulting number becomes your numerological totem and can never be changed. Once per day, when you roll your totem number on a d20 (such as an attack roll, save, or skill check), you may treat that roll as if you had rolled a natural 20 on the die.
 
@@ -768,7 +768,7 @@ Only changelings can select these traits.
 
 Only drow can select these traits.
 
-**Arcane Prodigy**: Once per day as an immediate action, you can double the duration of one of your racial spell-like abilities, as if using the Extend Spell metamagic feat.
+**Arcane Prodigy**: Once per day as an immediate action, you can double the duration of one of your racial spell-like abilities, as if using the [Extend Spell](../../rules/feats/extend-spell.md) metamagic feat.
 
 **Poisonous Upbringing**: There were a few touchy moments in your education in the use of poisons. You gain a +2 trait bonus on all saves to resist poison effects.
 

@@ -8,4 +8,4 @@
 **Duration** 10 minutes/level, then 1 hour/level or until completed (D); see text  
 **Saving Throw** Will negates (see text); **Spell Resistance** yes
 
-; see text This spell functions as *demanding message*, except that you can issue one *suggestion* to each of the spell’s targets instead of just one. Each time you do so, it takes a standard action. You can issue a different *suggestion* to each target.
+; see text This spell functions as [*demanding message*](demanding-message.md), except that you can issue one [*suggestion*](suggestion.md) to each of the spell’s targets instead of just one. Each time you do so, it takes a standard action. You can issue a different *suggestion* to each target.

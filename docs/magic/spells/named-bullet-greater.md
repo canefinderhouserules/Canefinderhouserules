@@ -8,4 +8,4 @@
 **Duration** 10 minutes/level or until discharged  
 **Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 
-This spell functions like named bullet, except it deals 2 extra points of damage per caster level (maximum 40).
+This spell functions like [*named bullet*](named-bullet.md), except it deals 2 extra points of damage per caster level (maximum 40).

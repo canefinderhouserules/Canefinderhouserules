@@ -8,4 +8,4 @@
 **Duration** 10 min./level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** no
 
-This spell functions as magic circle against chaos, evil, good, or law, but rather than stipulating an alignment descriptor, you can designate any one non-alignment subtype of outsider, including air, earth, fire, and water, as well as outsider races such as angels and devils.
+This spell functions as [*magic circle against chaos*](magic-circle-against-chaos.md), evil, good, or law, but rather than stipulating an alignment descriptor, you can designate any one non-alignment subtype of outsider, including air, earth, fire, and water, as well as outsider races such as angels and devils.

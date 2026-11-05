@@ -12,9 +12,9 @@
 
 An *interposing hand* is 10 feet long and about that wide with its fingers outstretched. It has as many hit points as you do when you’re undamaged, and is AC 20 (–1 size, +11 natural). It takes damage as a normal creature, but most magical effects that don’t cause damage do not affect it.
 
-The hand never provokes attacks of opportunity from opponents. It cannot push through a *wall of force* or enter an *antimagic field*, but it suffers the full effect of a *prismatic wall* or *prismatic sphere.* The hand makes saving throws as its caster.
+The hand never provokes attacks of opportunity from opponents. It cannot push through a [*wall of force*](wall-of-force.md) or enter an [*antimagic field*](antimagic-field.md), but it suffers the full effect of a [*prismatic wall*](prismatic-wall.md) or *prismatic sphere.* The hand makes saving throws as its caster.
 
-*Disintegrate* or a successful *dispel magic* destroys it.
+*Disintegrate* or a successful [*dispel magic*](dispel-magic.md) destroys it.
 
 Any creature weighing 2,000 pounds or less that tries to push past the hand is slowed to half its normal speed. The hand cannot reduce the speed of a creature weighing more than 2,000 pounds, but it still affects the creature’s attacks.
 

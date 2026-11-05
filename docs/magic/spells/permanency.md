@@ -70,4 +70,4 @@ Additionally, the following spells can be cast upon objects or areas only and re
 | *Wall of force* | 13th | 12,500 gp |
 | *Web* | 10th | 5,000 gp |
 
-Spells cast on other targets are vulnerable to *dispel magic* as normal. The GM may allow other spells to be made permanent.
+Spells cast on other targets are vulnerable to [*dispel magic*](dispel-magic.md) as normal. The GM may allow other spells to be made permanent.

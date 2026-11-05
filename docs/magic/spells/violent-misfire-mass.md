@@ -8,4 +8,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Will negates (object); **Spell Resistance** yes (object)
 
-This spell functions as *violent misfire* except as noted above.
+This spell functions as [*violent misfire*](violent-misfire.md) except as noted above.

@@ -8,4 +8,4 @@
 **Duration** 1 minute/level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-The target of this spell gains immunity to the harmful effects of touching or drinking from the River Styx and a +4 profane bonus on saves against effects that alter or suppress memory (such as *modify memory* or* mindwipe*). This does not grant the target the ability to breathe water, nor does it grant any protection against creatures or mundane hazards such as rapids. The spell has no power to restore memory to a creature already suffering from an existing fugue or amnesia state.
+The target of this spell gains immunity to the harmful effects of touching or drinking from the River Styx and a +4 profane bonus on saves against effects that alter or suppress memory (such as [*modify memory*](modify-memory.md) or* mindwipe*). This does not grant the target the ability to breathe water, nor does it grant any protection against creatures or mundane hazards such as rapids. The spell has no power to restore memory to a creature already suffering from an existing fugue or amnesia state.

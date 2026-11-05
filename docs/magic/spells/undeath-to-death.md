@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions like *circle of death*, except that it destroys undead creatures as noted above.
+This spell functions like [*circle of death*](circle-of-death.md), except that it destroys undead creatures as noted above.

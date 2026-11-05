@@ -14,4 +14,4 @@ When you cast this spell, you draw the remains of nearby destroyed undead togeth
 
 *the necromancer’s realm’s hammer* also has secondary effects based on the nature of the three bodies you use to create it. If the majority used to create* the necromancer’s realm’s hammer* (at least two) were skeletal, the jagged bits of bone cause the corpse hammer to deal slashing damage and increase *the necromancer’s realm’s hammer’s* critical threat range to 19–20. On the other hand, if the majority were fleshy (at least two), the increased mass causes *the necromancer’s realm’s hammer* to deal bludgeoning damage and increase its critical hit damage to ×3.
 
-Undead that have been destroyed by positive energy or a similar effect that does not leave a corpse, like a *disintegrate* spell, cannot be used to form* the necromancer’s realm’s hammer*.
+Undead that have been destroyed by positive energy or a similar effect that does not leave a corpse, like a [*disintegrate*](disintegrate.md) spell, cannot be used to form* the necromancer’s realm’s hammer*.

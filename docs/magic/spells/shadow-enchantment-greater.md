@@ -8,4 +8,4 @@
 **Duration** see text  
 **Saving Throw** Will disbelief; see text; **Spell Resistance** yes
 
-This spell functions like *shadow enchantment*, except that it enables you to create partially real, illusory versions of psychic, sorcerer, or wizard enchantment spells of 5th level or lower. If the spell is recognized as a greater shadow enchantment, it is only three-fifths (60%) as effective.
+This spell functions like [*shadow enchantment*](shadow-enchantment.md), except that it enables you to create partially real, illusory versions of psychic, sorcerer, or wizard enchantment spells of 5th level or lower. If the spell is recognized as a greater shadow enchantment, it is only three-fifths (60%) as effective.

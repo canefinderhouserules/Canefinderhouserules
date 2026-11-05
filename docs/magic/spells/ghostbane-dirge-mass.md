@@ -7,4 +7,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions as ghostbane dirge, except that it affects multiple targets.
+This spell functions as [*ghostbane dirge*](ghostbane-dirge.md), except that it affects multiple targets.

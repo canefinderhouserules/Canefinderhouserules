@@ -8,4 +8,4 @@
 **Duration** 10 min./level or until discharged  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions like stoneskin, except you divide the duration in 10 minute intervals among the creatures touched. Once the spell has prevented 10 points of damage per caster level (maximum 150 points) for a subject, the spell’s effects end for that subject.
+This spell functions like [*stoneskin*](stoneskin.md), except you divide the duration in 10 minute intervals among the creatures touched. Once the spell has prevented 10 points of damage per caster level (maximum 150 points) for a subject, the spell’s effects end for that subject.

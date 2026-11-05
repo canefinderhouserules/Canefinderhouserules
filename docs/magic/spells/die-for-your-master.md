@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions as [bleed for your master](bleed-for-your-master.md), but it allows your companion or familiar to intercept any attack that targets you, including those that do not require attack rolls (such as *chain lightning*, *hold monster* and *magic missile*). Your companion or familiar cannot intercept effects that do not affect creatures of its type (such as *dominate person*).
+This spell functions as [bleed for your master](bleed-for-your-master.md), but it allows your companion or familiar to intercept any attack that targets you, including those that do not require attack rolls (such as [*chain lightning*](chain-lightning.md), [*hold monster*](hold-monster.md) and [*magic missile*](magic-missile.md)). Your companion or familiar cannot intercept effects that do not affect creatures of its type (such as [*dominate person*](dominate-person.md)).

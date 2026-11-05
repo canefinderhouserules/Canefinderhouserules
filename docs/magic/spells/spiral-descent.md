@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** Will negates (object); **Spell Resistance** yes (object)
 
-This spell functions as *spiral ascent*, except the destination and direction of travel is downward from your current location.
+This spell functions as [*spiral ascent*](spiral-ascent.md), except the destination and direction of travel is downward from your current location.

@@ -7,4 +7,4 @@
 **Targets** any number of creatures or objects in range  
 **Duration** as *nondetection*
 
-Designed to protect a large number of items from rivals, this spell functions as *nondetection* except as noted above. You can exclude any creatures or objects in the spell’s range when casting this spell, if you wish.
+Designed to protect a large number of items from rivals, this spell functions as [*nondetection*](nondetection.md) except as noted above. You can exclude any creatures or objects in the spell’s range when casting this spell, if you wish.

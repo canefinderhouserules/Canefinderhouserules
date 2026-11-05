@@ -6,7 +6,7 @@ You can make quick, defensive movements.
 
 **Prerequisites**: [Lunge](lunge.md), [Outslug Style](outslug-style.md), [Outslug Weave](outslug-weave.md), Weapon Focus with the chosen weapon.
 
-**Benefit**: While using Outslug Style, you can move an additional 5 feet when making a 5-foot step.
+**Benefit**: While using [Outslug Style](outslug-style.md), you can move an additional 5 feet when making a 5-foot step.
 
 ??? note "Original prerequisites"
 

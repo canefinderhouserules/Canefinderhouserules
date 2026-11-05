@@ -8,4 +8,4 @@
 **Duration** 1 hour/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions like *scrying*, except as noted above. Additionally, all of the following spells function reliably through the sensor: *detect chaos*, *detect evil*, *detect good*, *detect law*, *detect* *magic*, *message*, *read magic*, and *tongues*.
+This spell functions like [*scrying*](scrying.md), except as noted above. Additionally, all of the following spells function reliably through the sensor: [*detect chaos*](detect-chaos.md), [*detect evil*](detect-evil.md), [*detect good*](detect-good.md), [*detect law*](detect-law.md), *detect* *magic*, [*message*](message.md), [*read magic*](read-magic.md), and [*tongues*](tongues.md).

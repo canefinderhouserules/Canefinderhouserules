@@ -8,6 +8,6 @@
 **Duration** 1 round/level  
 **Saving Throw** Fortitude negates; see text; **Spell Resistance** no
 
-*Poisonous cloud* creates a bank of fog like that created by *fog cloud*, except that the vapors are toxic. The cloud deals 1d2 points of Constitution damage per round to living creatures that fail their Fortitude saves. A creature that succeeds at its save but remains in the cloud must continue to attempt a new saving throw each round on your turn.
+*Poisonous cloud* creates a bank of fog like that created by [*fog cloud*](fog-cloud.md), except that the vapors are toxic. The cloud deals 1d2 points of Constitution damage per round to living creatures that fail their Fortitude saves. A creature that succeeds at its save but remains in the cloud must continue to attempt a new saving throw each round on your turn.
 
-*Poisonous cloud* can be made permanent with a *permanency* spell cast by a caster of 13th level or higher, at a cost of 12,500 gp. A permanent *poisonous cloud* dispersed by wind re-forms in 10 minutes.
+*Poisonous cloud* can be made permanent with a [*permanency*](permanency.md) spell cast by a caster of 13th level or higher, at a cost of 12,500 gp. A permanent *poisonous cloud* dispersed by wind re-forms in 10 minutes.

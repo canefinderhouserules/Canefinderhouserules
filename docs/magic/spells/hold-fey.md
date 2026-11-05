@@ -8,4 +8,4 @@
 **Duration** 1 round/level (D); see text  
 **Saving Throw** Will negates; see text; **Spell Resistance** yes
 
-This spell functions as per *hold person*, except it affects a fey instead of a humanoid.
+This spell functions as per [*hold person*](hold-person.md), except it affects a fey instead of a humanoid.

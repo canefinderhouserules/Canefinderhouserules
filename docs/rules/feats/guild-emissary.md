@@ -2,7 +2,7 @@
 
 Not only are you associated with a powerful thieves’ guild or similar shadowy group, you are well-enough connected to gain benefits when dealing with the underworld in any settlement.
 
-**Prerequisites**: Leadership or Underworld Connections.
+**Prerequisites**: Leadership or [Underworld Connections](underworld-connections.md).
 
 **Benefit**: You can attempt a special character level check (1d20 + your Charisma modifier + your character level) in place of a Diplomacy check when attempting to gather information. You can ask local contacts to find information for you. While this still takes the normal amount of time (typically 1d4 hours), you can gather information about multiple topics at once (up to a maximum number of topics equal to 3 + your Charisma bonus).
 

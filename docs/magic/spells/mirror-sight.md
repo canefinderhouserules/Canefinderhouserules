@@ -8,7 +8,7 @@
 **Duration** 1 minute/level  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell lets you look into a mirror near you and see an image that is reflected in another specific mirror (chosen by you) or an individual reflected in any other mirror. This works like a *scrying* spell, except you can only view creatures on the same plane as you. Each time you cast the spell, you can choose to see one of three types of reflections in your mirror.
+This spell lets you look into a mirror near you and see an image that is reflected in another specific mirror (chosen by you) or an individual reflected in any other mirror. This works like a [*scrying*](scrying.md) spell, except you can only view creatures on the same plane as you. Each time you cast the spell, you can choose to see one of three types of reflections in your mirror.
 
 *Known Mirror*: The current reflection in another mirror with which you are familiar.
 

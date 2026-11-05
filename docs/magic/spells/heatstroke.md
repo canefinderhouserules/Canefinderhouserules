@@ -10,6 +10,6 @@
 
 A wavering red ray projects from your finger. You must succeed on a ranged touch attack with the ray to hit your target.
 
-The ray inflicts 1d4 points of nonlethal damage, causing the target to suffer from heatstroke as its body temperature dramatically increases. Except as noted above, this spell otherwise functions as *ray of exhaustion*.
+The ray inflicts 1d4 points of nonlethal damage, causing the target to suffer from heatstroke as its body temperature dramatically increases. Except as noted above, this spell otherwise functions as [*ray of exhaustion*](ray-of-exhaustion.md).
 
 Characters wearing heavy clothing or armor of any sort take a –4 penalty on their saves.

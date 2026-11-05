@@ -14,6 +14,6 @@ If *transmute rock to mud* is cast upon the ceiling of a cavern or tunnel, the m
 
 Castles and large stone buildings are generally immune to the effect of the spell, since *transmute rock to mud* can’t affect worked stone and doesn’t reach deep enough to undermine such buildings’ foundations. However, small buildings or structures often rest upon foundations shallow enough to be damaged or even partially toppled by this spell.
 
-The mud remains until a successful *dispel magic* or *transmute* *mud to rock* spell restores its substance—but not necessarily its form. Evaporation turns the mud to normal dirt over a period of days. The exact time depends on exposure to the sun, wind, and normal drainage.
+The mud remains until a successful [*dispel magic*](dispel-magic.md) or *transmute* *mud to rock* spell restores its substance—but not necessarily its form. Evaporation turns the mud to normal dirt over a period of days. The exact time depends on exposure to the sun, wind, and normal drainage.
 
-*Transmute rock to mud* counters and dispels *transmute mud to rock*.
+*Transmute rock to mud* counters and dispels [*transmute mud to rock*](transmute-mud-to-rock.md).

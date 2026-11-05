@@ -8,6 +8,6 @@
 **Duration** 1 hour/level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions as *unhallowed blows*, except the enhancement bonus is +1 per 4 caster levels (maximum +5). Alternatively, you can imbue all of a creature's natural weapons with a +1 enhancement bonus (regardless of your caster level).
+This spell functions as [*unhallowed blows*](unhallowed-blows.md), except the enhancement bonus is +1 per 4 caster levels (maximum +5). Alternatively, you can imbue all of a creature's natural weapons with a +1 enhancement bonus (regardless of your caster level).
 
-Greater unhallowed blows can be made permanent with a *permanency* spell. In this case, the caster must be at least 11th level and must expend 7,500 gp worth of diamond dust as a material component.
+Greater unhallowed blows can be made permanent with a [*permanency*](permanency.md) spell. In this case, the caster must be at least 11th level and must expend 7,500 gp worth of diamond dust as a material component.

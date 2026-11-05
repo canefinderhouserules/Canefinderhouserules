@@ -8,4 +8,4 @@
 **Duration** 1 minute/level (D)  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions as holy ice weapon, except the weapon is made of frozen unholy water, and instead deals additional damage to creatures that are susceptible to unholy water.
+This spell functions as [*holy ice weapon*](holy-ice-weapon.md), except the weapon is made of frozen unholy water, and instead deals additional damage to creatures that are susceptible to unholy water.

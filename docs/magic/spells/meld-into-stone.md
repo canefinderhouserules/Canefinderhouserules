@@ -13,4 +13,4 @@ While in the stone, you remain in contact, however tenuous, with the face of the
 
 Any time before the duration expires, you can step out of the stone through the surface that you entered. If the spell’s duration expires or the effect is dispelled before you voluntarily exit the stone, you are violently expelled and take 5d6 points of damage.
 
-The following spells harm you if cast upon the stone that you are occupying. *Stone to flesh* expels you and deals you 5d6 points of damage. S*tone shape* deals 3d6 points of damage but does not expel you. *Transmute rock to mud* expels you and then slays you instantly unless you make a DC 18 Fortitude save, in which case you are merely expelled. Finally, *passwall* expels you without damage.
+The following spells harm you if cast upon the stone that you are occupying. *Stone to flesh* expels you and deals you 5d6 points of damage. S*tone shape* deals 3d6 points of damage but does not expel you. *Transmute rock to mud* expels you and then slays you instantly unless you make a DC 18 Fortitude save, in which case you are merely expelled. Finally, [*passwall*](passwall.md) expels you without damage.

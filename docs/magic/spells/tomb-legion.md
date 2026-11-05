@@ -8,4 +8,4 @@
 **Duration** 7 days or 7 months (D); see text  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions like *shambler*, except that it calls into existence 1d4+2 advanced mummies rather than shambling mounds.
+This spell functions like [*shambler*](shambler.md), except that it calls into existence 1d4+2 advanced mummies rather than shambling mounds.

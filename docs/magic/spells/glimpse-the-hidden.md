@@ -8,4 +8,4 @@
 **Duration** 1 round/level (D)  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions as *see invisibility*, except as noted here. This spell cannot be made permanent.
+This spell functions as [*see invisibility*](see-invisibility.md), except as noted here. This spell cannot be made permanent.

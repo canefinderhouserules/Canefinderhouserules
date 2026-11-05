@@ -6,4 +6,4 @@ Your arms flail about in a confusing pattern of strikes that trips and batters y
 
 **Prerequisites**: Dex 13, Dodge, [Improved Trip](improved-trip.md), Octopus Focus*, Octopus Style*, Acrobatics 7 ranks, Perception 7 ranks.
 
-**Benefit**: While using Octopus Style, when you threaten two enemies who are adjacent to each other, you can attempt a trip combat maneuver check against both targets at once in place of a melee attack. You attempt a single combat maneuver check at a –5 penalty and apply the result to both targets.
+**Benefit**: While using [Octopus Style](octopus-style.md), when you threaten two enemies who are adjacent to each other, you can attempt a trip combat maneuver check against both targets at once in place of a melee attack. You attempt a single combat maneuver check at a –5 penalty and apply the result to both targets.

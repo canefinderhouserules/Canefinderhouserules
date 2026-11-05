@@ -74,7 +74,7 @@ The following racial traits might be selected instead of existing racial traits.
 
 The following racial traits represent a fey ancestor in the family line. They can be selected instead of the indicated racial traits. Consult your GM before selecting any of these options.
 
-**Fey-Sighted**: To some elves with fey heritage, magic is a visible presence they have known all their lives. These elves have *detect magic* as a constant spell-like ability, with a caster level equal to their character level. This racial trait replaces elven magic.
+**Fey-Sighted**: To some elves with fey heritage, magic is a visible presence they have known all their lives. These elves have [*detect magic*](../../magic/spells/detect-magic.md) as a constant spell-like ability, with a caster level equal to their character level. This racial trait replaces elven magic.
 
 **Vigilance**: Some elves train to fight against demons and evil fey with a zeal that leaves them little time to hone their magic traditions. Elves with this racial trait gain a +2 dodge bonus to AC against attacks by chaotic creatures. This trait replaces elven magic.
 

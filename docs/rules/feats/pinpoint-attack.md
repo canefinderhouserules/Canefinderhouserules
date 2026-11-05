@@ -9,7 +9,7 @@
 **Benefit**: You may attempt a pinpoint attack on a specific part of the enemy’s body in place of an attack. It works as a normal attack, requiring an attack roll and dealing the damage due, but with a small bonus or penalty to yourself and sometimes to the enemy if it hits. The negative effects always last 1 round, or 2 on a critical hit.
 
 - Ranged attacks always take a –1 penalty to attack.
-- Both the benefits and the penalties increase every 4 points of base attack bonus (like Power Attack).
+- Both the benefits and the penalties increase every 4 points of base attack bonus (like [Power Attack](power-attack.md)).
 - If the damage dealt is 50% or more of the enemy’s total hit points, double the penalty inflicted.
 
 | Target | Effect |

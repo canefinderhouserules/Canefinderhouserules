@@ -7,4 +7,4 @@
 **Target** creature touched  
 **Duration** 10 minute/level (D)
 
-This spell functions as disguise self, except you can disguise either yourself or another creature.
+This spell functions as [*disguise self*](disguise-self.md), except you can disguise either yourself or another creature.

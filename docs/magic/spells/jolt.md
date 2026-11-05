@@ -10,4 +10,4 @@
 
 You cause a spark of electricity to strike the target with a successful ranged touch attack. The spell deals 1d3 points of electricity damage.
 
-These cantrips are not legal in explorers’ society play. Note that *penumbra* was changed into the higher-level spell* protective penumbra*. The cantrip version is similar, but does not replace its higher-level counterpart.
+These cantrips are not legal in explorers’ society play. Note that [*penumbra*](penumbra.md) was changed into the higher-level spell* protective penumbra*. The cantrip version is similar, but does not replace its higher-level counterpart.

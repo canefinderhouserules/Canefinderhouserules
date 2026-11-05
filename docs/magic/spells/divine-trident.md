@@ -8,7 +8,7 @@
 **Duration** 1 hour/level (D)  
 **Saving Throw** none; **Spell Resistance** yes
 
-A 4-foot-long, blazing, forked bolt of electricity springs forth from your hand. You wield this spear-like bolt as if it were a trident (you are considered proficient with the bolt). Attacks with the divine trident are melee touch attacks, and you can use Weapon Finesse with them. The bolt deals 1d8 points of electricity damage + 1 point per caster level (maximum +10). Since the bolt is immaterial, your Strength modifier does not apply to the damage. The bolt can ignite combustible materials such as parchment, straw, dry sticks, and cloth.
+A 4-foot-long, blazing, forked bolt of electricity springs forth from your hand. You wield this spear-like bolt as if it were a trident (you are considered proficient with the bolt). Attacks with the divine trident are melee touch attacks, and you can use [Weapon Finesse](../../rules/feats/weapon-finesse.md) with them. The bolt deals 1d8 points of electricity damage + 1 point per caster level (maximum +10). Since the bolt is immaterial, your Strength modifier does not apply to the damage. The bolt can ignite combustible materials such as parchment, straw, dry sticks, and cloth.
 
 ??? note "Original rule"
 

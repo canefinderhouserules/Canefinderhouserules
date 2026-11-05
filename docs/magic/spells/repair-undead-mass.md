@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** Will half (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions as repair undead, except as noted above, and it cures 1d8 points of damage + 1 point per caster level (maximum +20) on each selected creature.
+This spell functions as [*repair undead*](repair-undead.md), except as noted above, and it cures 1d8 points of damage + 1 point per caster level (maximum +20) on each selected creature.

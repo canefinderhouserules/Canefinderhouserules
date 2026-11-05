@@ -12,4 +12,4 @@ You create a vibrant wall of hypnotic light and color. The wall does not impede 
 
 If you create the wall so that it appears in the same space as one or more creatures, each affected creature must succeed at a Fortitude save or become blinded. Creatures that successfully save against the blindness are subject to the fascination effect unless they leave the wall within 1 round of casting the spell.
 
-*Scintillating wall* can be made permanent with a *permanency* spell cast by a caster of 13th level or higher, at a cost of 12,500 gp.
+*Scintillating wall* can be made permanent with a [*permanency*](permanency.md) spell cast by a caster of 13th level or higher, at a cost of 12,500 gp.

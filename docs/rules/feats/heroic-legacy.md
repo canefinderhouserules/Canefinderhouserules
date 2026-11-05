@@ -4,4 +4,4 @@ Your purity is so great that the blades and bows of long-forgotten heroes sing t
 
 **Prerequisites**: Base attack bonus +5, good alignment.
 
-**Benefit**: When using good-aligned weapons, including those under the effects of a *bless weapon* spell, you gain a +1 sacred bonus on damage rolls.
+**Benefit**: When using good-aligned weapons, including those under the effects of a [*bless weapon*](../../magic/spells/bless-weapon.md) spell, you gain a +1 sacred bonus on damage rolls.

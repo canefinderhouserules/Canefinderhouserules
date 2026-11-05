@@ -8,4 +8,4 @@
 **Duration** 1 hour/level  
 **Saving Throw** none; **Spell Resistance** no
 
-As *message*, except the only information you can transmit is that you are a worshiper of your sun deity. Once notified, the target can reply that he understands your sign. The spell transmits meaning, not sound, and transcends language barriers.
+As [*message*](message.md), except the only information you can transmit is that you are a worshiper of your sun deity. Once notified, the target can reply that he understands your sign. The spell transmits meaning, not sound, and transcends language barriers.

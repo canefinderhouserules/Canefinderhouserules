@@ -16,7 +16,7 @@ The *gate* itself is a circular hoop or disk from 5 to 20 feet in diameter (cast
 
 A *gate* has a front and a back. Creatures moving through the *gate* from the front are transported to the other plane; creatures moving through it from the back are not.
 
-*Planar Travel*: As a mode of planar travel, a *gate* spell functions much like a *plane shift* spell, except that the *gate* opens precisely at the point you desire (a creation effect). Deities and other beings who rule a planar realm can prevent a *gate* from opening in their presence or personal demesnes if they so desire. Travelers need not join hands with you—anyone who chooses to step through the portal is transported. A *gate* cannot be opened to another point on the same plane; the spell works only for interplanar travel.
+*Planar Travel*: As a mode of planar travel, a *gate* spell functions much like a [*plane shift*](plane-shift.md) spell, except that the *gate* opens precisely at the point you desire (a creation effect). Deities and other beings who rule a planar realm can prevent a *gate* from opening in their presence or personal demesnes if they so desire. Travelers need not join hands with you—anyone who chooses to step through the portal is transported. A *gate* cannot be opened to another point on the same plane; the spell works only for interplanar travel.
 
 You may hold the *gate* open only for a brief time (no more than 1 round per caster level), and you must concentrate on doing so, or else the interplanar connection is severed.
 

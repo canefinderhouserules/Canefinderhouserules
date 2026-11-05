@@ -8,4 +8,4 @@
 **Duration** 1 round/level (D)  
 **Saving Throw** Will partial; **Spell Resistance** yes
 
-This spell functions as *fleeting memory*, except that it affects multiple creatures.
+This spell functions as [*fleeting memory*](fleeting-memory.md), except that it affects multiple creatures.

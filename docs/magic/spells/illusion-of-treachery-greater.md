@@ -7,4 +7,4 @@
 **Duration** 1 round/level (D)  
 **Saving Throw** Will disbelief; **Spell Resistance** yes
 
-This spell functions as *illusion of treachery* except that it also conceals your own actions (as *illusion of calm*) and renders invisible all spell effects and ranged attacks originating from you until they reach the attack’s target (this doesn’t cause the attack’s target to be unable to avoid the attack, as they still see the attack originating from the spell’s target).
+This spell functions as [*illusion of treachery*](illusion-of-treachery.md) except that it also conceals your own actions (as [*illusion of calm*](illusion-of-calm.md)) and renders invisible all spell effects and ranged attacks originating from you until they reach the attack’s target (this doesn’t cause the attack’s target to be unable to avoid the attack, as they still see the attack originating from the spell’s target).

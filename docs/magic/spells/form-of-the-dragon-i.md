@@ -24,7 +24,7 @@ You become a Medium chromatic or metallic dragon (see the *Pathfinder RPG Bestia
 
 *Bronze dragon*: 60-foot line of electricity, resist electricity 20, swim 60 feet
 
-*Copper dragon*: 60-foot line of acid, resist acid 20, *spider climb* (always active)
+*Copper dragon*: 60-foot line of acid, resist acid 20, [*spider climb*](spider-climb.md) (always active)
 
 *Gold dragon*: 30-foot cone of fire, resist fire 20, swim 60 feet
 

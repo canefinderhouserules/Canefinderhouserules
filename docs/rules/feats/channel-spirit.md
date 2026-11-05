@@ -4,7 +4,7 @@
 
 You can willingly allow spirits to possess you, trading a taste of your life for their knowledge and abilities.
 
-**Prerequisites**: Spirit Ridden or spirit class feature.
+**Prerequisites**: [Spirit Ridden](spirit-ridden.md) or spirit class feature.
 
 **Benefit**: Select one of the spirit legends available to a medium. You can trade control of your body to a spirit of this type for power. You must perform a seance, taking 1 hour and requiring your concentration. At the end of the seance, you invite a spirit of the chosen type to inhabit your body. You do not require an appropriate location to channel the spirit. You gain the benefits of the spirit's spirit bonus and seance boon, but no spirit powers. Your spirit bonus is +1, or equal to your spirit bonus from any medium class levels you have (whichever is higher). You don't select a taboo and the spirit gains no influence over you. You can continue to gain the benefits of the spiritual possession for up to 1 hour per character level you have. At the end of the duration, the spirit takes over your body, and you become an NPC under the GM's control for a duration equal to the amount of time the spirit possessed you. You can end the duration prematurely as a free action, but the spirit still takes over your body.
 

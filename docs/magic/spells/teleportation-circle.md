@@ -12,6 +12,6 @@ You create a circle on the floor or other horizontal surface that teleports, as 
 
 The circle itself is subtle and nearly impossible to notice. If you intend to keep creatures from activating it accidentally, you need to mark the circle in some way.
 
-*Teleportation circle* can be made permanent with a *permanency* spell. A permanent *teleportation circle* that is disabled becomes inactive for 10 minutes, then can be triggered again as normal.
+*Teleportation circle* can be made permanent with a [*permanency*](permanency.md) spell. A permanent *teleportation circle* that is disabled becomes inactive for 10 minutes, then can be triggered again as normal.
 
 Magic traps such as *teleportation circle* are hard to detect and disable. A character with the trapfinding class feature can use the Disable Device to disarm magic traps. The DC in each case is 25 + spell level, or 34 in the case of *teleportation circle*.

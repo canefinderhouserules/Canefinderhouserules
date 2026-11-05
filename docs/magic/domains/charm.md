@@ -8,7 +8,7 @@
 
 *Charming Smile (Sp)*: At 4th level, you can cast [*charm person*](../spells/charm-person.md) as a swift action, with a DC of 10 + 1/2 your cleric level + your Wisdom modifier. You can only have one creature charmed in this way at a time. The total number of rounds of this effect per day is equal to your cleric level. The rounds do not need to be consecutive, and you can dismiss the charm at any time as a free action. Each attempt to use this ability consumes 1 round of its duration, whether or not the creature succeeds on its save to resist the effect.
 
-**Domain Spells**: 1st—*charm person*, 2nd—[*calm emotions*](../spells/calm-emotions.md), 3rd—[*suggestion*](../spells/suggestion.md), 4th—[*heroism*](../spells/heroism.md), 5th—[*charm monster*](../spells/charm-monster.md), 6th—*geas/quest*, 7th—[*insanity*](../spells/insanity.md), 8th—[*demand*](../spells/demand.md), 9th—[*dominate monster*](../spells/dominate-monster.md).
+**Domain Spells**: 1st—[*charm person*](../spells/charm-person.md), 2nd—[*calm emotions*](../spells/calm-emotions.md), 3rd—[*suggestion*](../spells/suggestion.md), 4th—[*heroism*](../spells/heroism.md), 5th—[*charm monster*](../spells/charm-monster.md), 6th—*geas/quest*, 7th—[*insanity*](../spells/insanity.md), 8th—[*demand*](../spells/demand.md), 9th—[*dominate monster*](../spells/dominate-monster.md).
 
 ###  Captivation Subdomain
 

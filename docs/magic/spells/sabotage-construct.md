@@ -7,4 +7,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Will partial; **Spell Resistance** yes
 
-This spell functions as *confusion*, except that it affects only constructs. When you are rolling for a confused construct's behavior, a result of 26–50 indicates the construct twitches spasmodically. On a successful Will save, the construct is confused for only 1 round.
+This spell functions as [*confusion*](confusion.md), except that it affects only constructs. When you are rolling for a confused construct's behavior, a result of 26–50 indicates the construct twitches spasmodically. On a successful Will save, the construct is confused for only 1 round.

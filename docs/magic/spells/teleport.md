@@ -14,7 +14,7 @@ You must have some clear idea of the location and layout of the destination. The
 
 To see how well the teleportation works, roll d% and consult the table at the end of this spell. Refer to the following information for definitions of the terms on the table.
 
-*Familiarity*: “Very familiar” is a place where you have been very often and where you feel at home. “Studied carefully” is a place you know well, either because you can currently physically see it or you’ve been there often. “Seen casually” is a place that you have seen more than once but with which you are not very familiar. “Viewed once” is a place that you have seen once, possibly using magic such as *scrying*.
+*Familiarity*: “Very familiar” is a place where you have been very often and where you feel at home. “Studied carefully” is a place you know well, either because you can currently physically see it or you’ve been there often. “Seen casually” is a place that you have seen more than once but with which you are not very familiar. “Viewed once” is a place that you have seen once, possibly using magic such as [*scrying*](scrying.md).
 
 “False destination” is a place that does not truly exist or if you are teleporting to an otherwise familiar location that no longer exists as such or has been so completely altered as to no longer be familiar to you. When traveling to a false destination, roll 1d20+80 to obtain results on the table, rather than rolling d%, since there is no real destination for you to hope to arrive at or even be off target from.
 

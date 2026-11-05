@@ -8,4 +8,4 @@
 **Duration** 24 hours  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions like mind blank, except you divide the duration in 1-hour increments among the creatures touched.
+This spell functions like [*mind blank*](mind-blank.md), except you divide the duration in 1-hour increments among the creatures touched.

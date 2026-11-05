@@ -8,7 +8,7 @@
 **Duration** see text  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions like *symbol of death*, except that all creatures of 10 HD or less within 60 feet of the *symbol of sleep* instead fall into a catatonic slumber for 3d6 × 10 minutes. Unlike with the *sleep* spell, sleeping creatures cannot be awakened by nonmagical means before this time expires.
+This spell functions like [*symbol of death*](symbol-of-death.md), except that all creatures of 10 HD or less within 60 feet of the *symbol of sleep* instead fall into a catatonic slumber for 3d6 × 10 minutes. Unlike with the [*sleep*](sleep.md) spell, sleeping creatures cannot be awakened by nonmagical means before this time expires.
 
 Unlike *symbol of death*, *symbol of sleep* has no hit point limit; once triggered, a *symbol of sleep* simply remains active for 10 minutes per caster level.
 

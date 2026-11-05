@@ -7,4 +7,4 @@
 **Target** you  
 **Duration** 1 minute/level
 
-As *bull's strength*, except it grants a +8 enhancement bonus to Strength.
+As [*bull's strength*](bulls-strength.md), except it grants a +8 enhancement bonus to Strength.

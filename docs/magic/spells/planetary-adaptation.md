@@ -7,4 +7,4 @@
 **Target** you  
 **Duration** 1 hour/level
 
-This spell functions as *planar adaptation*, except that it works only on worlds of the Material Plane. The cold void of space is considered a single world for the purpose of this spell, allowing you to survive in vacuum.
+This spell functions as [*planar adaptation*](planar-adaptation.md), except that it works only on worlds of the Material Plane. The cold void of space is considered a single world for the purpose of this spell, allowing you to survive in vacuum.

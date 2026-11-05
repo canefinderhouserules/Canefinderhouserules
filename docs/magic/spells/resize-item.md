@@ -10,4 +10,4 @@
 
 You alter a magic weapon or suit of armor to be up to two size categories larger or smaller. If the spell on a resized suit of armor ends while the armor is being worn, the armor falls off harmlessly. If the spell would cause an item to grow too large for the area containing it, its growth halts just before that point.
 
-*Resize item* can be made permanent with a *permanency* spell for 7,500 gp, in which case the affected object is set at one specific new size within two steps of its original size.
+*Resize item* can be made permanent with a [*permanency*](permanency.md) spell for 7,500 gp, in which case the affected object is set at one specific new size within two steps of its original size.

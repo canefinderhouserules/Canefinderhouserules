@@ -7,4 +7,4 @@
 **Duration** 1 round/level (D)  
 **Saving Throw** none; **Spell Resistance** yes
 
-This spell functions as *last hero's defending sword*, except you can create one sword per 5 caster levels, each of which must defend a different creature within range.
+This spell functions as [*last hero's defending sword*](last-heros-defending-sword.md), except you can create one sword per 5 caster levels, each of which must defend a different creature within range.

@@ -8,7 +8,7 @@
 **Duration** see text  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-This spell functions like *symbol of death*, except that each creature within the radius of a *symbol of pain* instead suffers wracking pains that impose a –4 penalty on attack rolls, skill checks, and ability checks. These effects last for 1 hour after the creature moves farther than 60 feet from the symbol.
+This spell functions like [*symbol of death*](symbol-of-death.md), except that each creature within the radius of a *symbol of pain* instead suffers wracking pains that impose a –4 penalty on attack rolls, skill checks, and ability checks. These effects last for 1 hour after the creature moves farther than 60 feet from the symbol.
 
 Unlike *symbol of death*, *symbol of pain* has no hit point limit; once triggered, a *symbol of pain* simply remains active for 10 minutes per caster level.
 

@@ -7,4 +7,4 @@
 **Duration** instantaneous  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions like *nature’s ravages*, except the target corpse ages a number of years equal to up to 1 year per caster level (maximum 20 years at 20th level).
+This spell functions like [*nature’s ravages*](natures-ravages.md), except the target corpse ages a number of years equal to up to 1 year per caster level (maximum 20 years at 20th level).

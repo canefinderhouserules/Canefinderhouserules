@@ -4,7 +4,7 @@
 
 You have more grit than the ordinary gunslinger.
 
-**Prerequisites**: Grit class feature or the Amateur Gunslinger feat.
+**Prerequisites**: Grit class feature or the [Amateur Gunslinger](amateur-gunslinger.md) feat.
 
 **Benefit**: You gain 2 extra grit points at the start of each day, and your maximum grit increases by 2.
 

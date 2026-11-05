@@ -12,7 +12,7 @@ A weapon made of force appears and attacks foes at a distance, as you direct it,
 
 Each round after the first, you can use a move action to redirect the weapon to a new target. If you do not, the weapon continues to attack the previous round’s target. On any round that the weapon switches targets, it gets one attack. Subsequent rounds of attacking that target allow the weapon to make multiple attacks if your base attack bonus would allow it to. Even if the *spiritual weapon* is a ranged weapon, use the spell’s range, not the weapon’s normal range increment, and switching targets still is a move action.
 
-A *spiritual weapon* cannot be attacked or harmed by physical attacks, but *dispel magic*, *disintegrate*, a *sphere of annihilation*, or a *rod of cancellation* affects it. A *spiritual weapon*’s AC against touch attacks is 12 (10 + size bonus for Tiny object).
+A *spiritual weapon* cannot be attacked or harmed by physical attacks, but [*dispel magic*](dispel-magic.md), [*disintegrate*](disintegrate.md), a *sphere of annihilation*, or a *rod of cancellation* affects it. A *spiritual weapon*’s AC against touch attacks is 12 (10 + size bonus for Tiny object).
 
 If an attacked creature has spell resistance, you make a caster level check (1d20 + caster level) against that spell resistance the first time the *spiritual weapon* strikes it. If the weapon is successfully resisted, the spell is dispelled. If not, the weapon has its normal full effect on that creature for the duration of the spell.
 

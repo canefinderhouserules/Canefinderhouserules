@@ -8,4 +8,4 @@
 **Duration** 1 minute  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes
 
-This spell functions as wrath, except that you grant multiple creatures the bonuses against your designated foe. All subjects of shared wrath receive their bonuses against the same creature.
+This spell functions as [*wrath*](wrath.md), except that you grant multiple creatures the bonuses against your designated foe. All subjects of shared wrath receive their bonuses against the same creature.

@@ -8,4 +8,4 @@
 **Duration** 1 hour/level  
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions like *scale spikes*, except that the spikes growing out of the scales have an enhancement bonus on attack and damage rolls equal to +1 for every 4 caster levels (maximum +5). This bonus does not allow the spikes to bypass damage reduction aside from magic.
+This spell functions like [*scale spikes*](scale-spikes.md), except that the spikes growing out of the scales have an enhancement bonus on attack and damage rolls equal to +1 for every 4 caster levels (maximum +5). This bonus does not allow the spikes to bypass damage reduction aside from magic.

@@ -2,6 +2,6 @@
 
 Your unique understanding of improvised tools enables you to turn the intrinsic form of all manner of objects to your advantage in combat.
 
-**Prerequisites**: Catch Off- Guard or Throw Anything, [Shikigami Style](shikigami-style.md).
+**Prerequisites**: Catch Off- Guard or [Throw Anything](throw-anything.md), [Shikigami Style](shikigami-style.md).
 
-**Benefit**: While in Shikigami Style, you can take a –2 penalty on attack rolls to treat an improvised weapon as if it had one of the following weapon special qualities until the start of your next turn: blocking, brace, disarm, distracting, nonlethal, performance, or trip. If the weapon has the fragile special quality or broken condition, you can treat it as if it had the jagged special quality.
+**Benefit**: While in [Shikigami Style](shikigami-style.md), you can take a –2 penalty on attack rolls to treat an improvised weapon as if it had one of the following weapon special qualities until the start of your next turn: blocking, brace, disarm, distracting, nonlethal, performance, or trip. If the weapon has the fragile special quality or broken condition, you can treat it as if it had the jagged special quality.

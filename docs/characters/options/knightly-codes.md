@@ -41,7 +41,7 @@ Knights who follow the code of revolution believe that strict laws are an unnece
 - Tribal or lawless societies exemplify the natural order, and under my watch shall not come to harm from those who would seek to rule them. Those creatures who live free shall see no harm fall to them by myself or my sword.
 - I shall not place unnecessary value on material possessions, as such things are fleeting, whereas deeds are immortal.
 
-**Dismantle Order** *(social trait)*: Your appreciation for unfettered social freedom allows you to locate supporters of law with supernatural ease. Once per day, you can use [*detect law*](../../magic/spells/detect-law.md) as a spell-like ability (caster level 1st). If you have levels in a class that can cast *detect law*, your caster level for this spell-like ability is equal to that class level.
+**Dismantle Order** *(social trait)*: Your appreciation for unfettered social freedom allows you to locate supporters of law with supernatural ease. Once per day, you can use [*detect law*](../../magic/spells/detect-law.md) as a spell-like ability (caster level 1st). If you have levels in a class that can cast [*detect law*](../../magic/spells/detect-law.md), your caster level for this spell-like ability is equal to that class level.
 
 **Penance**: A knight who violates this code must separate herself from society in order to atone. The minimum time spent wholly isolated from civilization is 1 week, though this might be increased up to 1 month, depending on the transgression.
 

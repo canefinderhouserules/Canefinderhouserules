@@ -8,7 +8,7 @@ By studying other planes, you've learned to take on aspects of outsiders as well
 
 **Benefit**: When you use your animal focus class feature, you can choose any of the following new aspects unless they conflict with your alignment.
 
-**Air**: You gain a constant *feather fall* effect. At 10th level, you instead gain a constant *levitate* effect.
+**Air**: You gain a constant [*feather fall*](../../magic/spells/feather-fall.md) effect. At 10th level, you instead gain a constant [*levitate*](../../magic/spells/levitate.md) effect.
 
 **Chaotic**: Your form shifts subtly, making it difficult for others to aim precise attacks against you. You gain a 25% chance to negate extra damage from critical hits and precision damage from attacks made against you (such as from sneak attacks). Only chaotic characters can use this planar focus.
 

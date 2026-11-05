@@ -10,7 +10,7 @@
 
 During this spell’s duration, you can touch the sign of a creature’s passage that you have identified using the Survival skill to make the other steps in the creature’s path perfectly clear to you, no matter how minute. This trail can’t be more than 24 hours old. You can follow the trail at any speed, provided you have line of sight to the trail. You can distinguish the trail of the particular creature followed even if it joins and splits with other trails. Once you have selected a trail to follow using this spell, it can’t be changed.
 
-The spell is unable to follow teleportation or interplanar travel for any distance. The trail appears to end where the creature teleported (though a successful Spellcraft check allows you to determine the method of teleportation, if a spell was used). *Unerring tracker* can’t track creatures under the effect of a *pass without trace* spell, as those creatures leave no trail at all, but can track creatures using *nondetection* (though not *mind blank*).
+The spell is unable to follow teleportation or interplanar travel for any distance. The trail appears to end where the creature teleported (though a successful Spellcraft check allows you to determine the method of teleportation, if a spell was used). *Unerring tracker* can’t track creatures under the effect of a [*pass without trace*](pass-without-trace.md) spell, as those creatures leave no trail at all, but can track creatures using [*nondetection*](nondetection.md) (though not [*mind blank*](mind-blank.md)).
 
 This spell can be used to track flying creatures, but the trail must at least begin on a solid surface.
 

@@ -8,4 +8,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Will negates (see text); **Spell Resistance** yes
 
-This spell renders as many as three undead creatures immobile. A nonintelligent undead creature gets no saving throw; an intelligent undead creature does. If the spell is successful, it renders the undead creature immobile for the duration of the spell (similar to the effect of *hold person* on a living creature). The effect is broken if the *halted* creatures are attacked or take damage.
+This spell renders as many as three undead creatures immobile. A nonintelligent undead creature gets no saving throw; an intelligent undead creature does. If the spell is successful, it renders the undead creature immobile for the duration of the spell (similar to the effect of [*hold person*](hold-person.md) on a living creature). The effect is broken if the *halted* creatures are attacked or take damage.

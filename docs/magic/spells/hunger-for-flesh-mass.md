@@ -6,4 +6,4 @@
 **Target** one humanoid, magical beast, or monstrous humanoid/level, no two of which can be more than 30 feet apart  
 **Duration** 1 round/level
 
-This spell functions like *hunger for flesh*, except that it affects multiple targets. When forced to feed by the spell, affected creatures attack creatures not affected by this spell if there are any such appropriate creatures nearby, but otherwise they attack other affected creatures.
+This spell functions like [*hunger for flesh*](hunger-for-flesh.md), except that it affects multiple targets. When forced to feed by the spell, affected creatures attack creatures not affected by this spell if there are any such appropriate creatures nearby, but otherwise they attack other affected creatures.

@@ -8,4 +8,4 @@
 **Duration** 1 hour/level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions as *planetary adaptation*, except as noted above.
+This spell functions as [*planetary adaptation*](planetary-adaptation.md), except as noted above.

@@ -12,4 +12,4 @@ You do not need to make Acrobatics skill checks to move at full speed while blin
 
 **Normal**: Regular attack roll modifiers for invisible attackers trying to hit you apply, and you lose your Dexterity bonus to AC. The speed reduction for darkness and poor visibility also applies.
 
-**Special**: The Blind-Fight feat is of no use against a character who is the subject of a *blink* spell.
+**Special**: The Blind-Fight feat is of no use against a character who is the subject of a [*blink*](../../magic/spells/blink.md) spell.

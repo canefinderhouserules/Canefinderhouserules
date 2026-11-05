@@ -8,8 +8,8 @@
 **Duration** 1 hour/level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions like *magic fang*, except that the enhancement bonus on attack and damage rolls is +1 per four caster levels (maximum +5). This bonus does not allow a natural weapon or unarmed strike to bypass damage reduction aside from magic.
+This spell functions like [*magic fang*](magic-fang.md), except that the enhancement bonus on attack and damage rolls is +1 per four caster levels (maximum +5). This bonus does not allow a natural weapon or unarmed strike to bypass damage reduction aside from magic.
 
 Alternatively, you may imbue all of the creature’s natural weapons with a +1 enhancement bonus (regardless of your caster level).
 
-*Greater magic fang* can be made permanent with a *permanency* spell.
+*Greater magic fang* can be made permanent with a [*permanency*](permanency.md) spell.

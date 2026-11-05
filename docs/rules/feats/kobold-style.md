@@ -8,7 +8,7 @@ You're able to manipulate foes that are caught off guard. Quick, powerful moveme
 
 **Benefit**: You gain a +4 bonus on combat maneuver checks against enemies denied their Dexterity bonus to AC.
 
-**Special**: Feat path: Kobold Style, Kobold Groundling, Kobold Flood.
+**Special**: Feat path: Kobold Style, [Kobold Groundling](kobold-groundling.md), [Kobold Flood](kobold-flood.md).
 
 ??? note "Original prerequisites"
 

@@ -8,7 +8,7 @@
 **Duration** 1 round/level  
 **Saving Throw** see text; **Spell Resistance** yes
 
-You create a wall of translucent silver energy that hums and vibrates at the slightest touch. Objects and nonevil creatures can pass through this wall without difficulty. However, spells and effects with the evil descriptor treat this barrier as a *wall of force*, which blocks line of effect.
+You create a wall of translucent silver energy that hums and vibrates at the slightest touch. Objects and nonevil creatures can pass through this wall without difficulty. However, spells and effects with the evil descriptor treat this barrier as a [*wall of force*](wall-of-force.md), which blocks line of effect.
 
 Evil creatures that pass through the wall take 3d6 points of damage + 1 point of damage per caster level (maximum 3d6+20) and are blinded for 1 round. Creatures of any alignment that are particularly vulnerable to silver (such as those with damage reduction bypassed by silver, like devils or lycanthropes) instead take 1d6 points of damage per caster level (maximum 15d6), are staggered for 1 round, and are permanently blinded. A creature that succeeds at a Will save reduces the damage by half and negates the blinding and staggering effects.
 

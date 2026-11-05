@@ -6,7 +6,7 @@ You have made it your life’s work to put the dead to rest.
 
 **Prerequisites**: You have encountered a ghost or haunt, or have the Bones, the Died, the Raised Among the Dead, or The Dead One background (all of which are found in *Ultimate Campaign*).
 
-**Benefit**: Whenever you communicate with a ghost or haunt, whether while adventuring or through use of spells such as *call spirit*, *speak with haunt*, and *speak with dead*, or seances and talking boards, you gain a +2 bonus on Diplomacy and Sense Motive checks. The GM can also extend this benefit to any intelligent undead creature that has an interest in being laid to rest. If you have more than 10 ranks in either these skills, you instead gain a +4 bonus on the appropriate skill.
+**Benefit**: Whenever you communicate with a ghost or haunt, whether while adventuring or through use of spells such as [*call spirit*](../../magic/spells/call-spirit.md), [*speak with haunt*](../../magic/spells/speak-with-haunt.md), and [*speak with dead*](../../magic/spells/speak-with-dead.md), or seances and talking boards, you gain a +2 bonus on Diplomacy and Sense Motive checks. The GM can also extend this benefit to any intelligent undead creature that has an interest in being laid to rest. If you have more than 10 ranks in either these skills, you instead gain a +4 bonus on the appropriate skill.
 
 **Goal**: Lay an appropriate number of ghosts, haunts, and other undead creatures to rest. Laying to rest means fulfilling the actions described on a haunt’s destruction line or doing what is required to prevent a ghost’s rejuvenation. If the GM includes other types of undead, the GM decides what constitutes their final business.
 

@@ -6,7 +6,7 @@ Your skill with improvised weapons makes them more dangerous than they would oth
 
 **Prerequisites**: [Throw Anything](throw-anything.md).
 
-**Benefit**: While in this style, you deal damage with improvised weapons as if they were one size category larger. Shikigami Mimicry also treats the improvised weapon as one more size category larger. Shikigami Manipulation does not add another size category. This feat stacks with Improvised Weapon Mastery.
+**Benefit**: While in this style, you deal damage with improvised weapons as if they were one size category larger. [Shikigami Mimicry](shikigami-mimicry.md) also treats the improvised weapon as one more size category larger. [Shikigami Manipulation](shikigami-manipulation.md) does not add another size category. This feat stacks with [Improvised Weapon Mastery](improvised-weapon-mastery.md).
 
 ??? note "Original rule"
 

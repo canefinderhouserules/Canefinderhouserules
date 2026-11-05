@@ -8,4 +8,4 @@
 **Duration** 1 round/level  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions as path of glory, except as noted above, and a square provides 5 points of healing instead of 1.
+This spell functions as [*path of glory*](path-of-glory.md), except as noted above, and a square provides 5 points of healing instead of 1.

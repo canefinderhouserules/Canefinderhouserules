@@ -8,4 +8,4 @@
 **Duration** 1 minute/level (D)  
 **Saving Throw** Will disbelief; **Spell Resistance** yes
 
-This spell functions as *audiovisual hallucination*, except that the phantasm includes visual, auditory, olfactory, tactile, and thermal components, and the phantasm follows a complex script. The phantasm follows that script without your concentration and can react to stimuli the targets perceive.
+This spell functions as [*audiovisual hallucination*](audiovisual-hallucination.md), except that the phantasm includes visual, auditory, olfactory, tactile, and thermal components, and the phantasm follows a complex script. The phantasm follows that script without your concentration and can react to stimuli the targets perceive.

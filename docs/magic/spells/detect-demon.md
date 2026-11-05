@@ -16,4 +16,4 @@ You sense the presence of a specific kind of evil—that of demons, their servan
 
 **3rd Round**: The power and location of each aura, and what demon lord, if any, a demon is most closely affiliated with. If an aura is outside your line of sight, you discern the direction but not its exact location. Affiliation to a demon lord is only revealed when the creature detected is a demon (not merely a creature tainted by a demon). Demons receive a Will saving throw to resist revealing what demon lord they are affiliated with. If the demon succeeds at this saving throw or is not forsworn to a demon lord, you know only that this aspect of the spell returned no information.
 
-Aside from what is detailed above, this spell otherwise functions similarly to *detect evil* in terms of aura power, lingering auras, overwhelming auras, and so forth.
+Aside from what is detailed above, this spell otherwise functions similarly to [*detect evil*](detect-evil.md) in terms of aura power, lingering auras, overwhelming auras, and so forth.

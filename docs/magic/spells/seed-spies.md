@@ -8,4 +8,4 @@
 **Duration** 10 minutes/level (D)  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions as insect spies, except it creates wafting seeds with magical intellect instead of insects. The seeds can hear but not see. They fly at a speed of 10 feet (good maneuverability), but they can’t crawl or climb, although they can cling to rough, soft, or sticky creatures or surfaces.
+This spell functions as [*insect spies*](insect-spies.md), except it creates wafting seeds with magical intellect instead of insects. The seeds can hear but not see. They fly at a speed of 10 feet (good maneuverability), but they can’t crawl or climb, although they can cling to rough, soft, or sticky creatures or surfaces.

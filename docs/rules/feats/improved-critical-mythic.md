@@ -8,4 +8,4 @@ Your critical strikes with your chosen weapon are deadlier than most.
 
 **Benefit**: Your critical multiplier with your chosen weapon is increased by 1 (to a maximum of x6).
 
-**Special**: You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Improved Critical feat.
+**Special**: You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic [Improved Critical](improved-critical.md) feat.

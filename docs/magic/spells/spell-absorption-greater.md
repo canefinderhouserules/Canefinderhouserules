@@ -7,4 +7,4 @@
 **Target** you  
 **Duration** 1 round/level
 
-This spell functions as *spell absorption*, save that you can absorb countered spells of 6th level or lower.
+This spell functions as [*spell absorption*](spell-absorption.md), save that you can absorb countered spells of 6th level or lower.

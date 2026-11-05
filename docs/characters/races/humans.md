@@ -131,7 +131,7 @@ The following racial traits represent a fey ancestor in the family line. They ca
 
 These traits can be selected in place of specific racial traits, but their racial point (RP) values are also listed for campaigns using the race builder rules.
 
-**Draconic Heritage (4 RP)**: At times, a human's family history can have a dragon's power bound to the bloodline. Humans with this trait gain darkvision with a range of 10 feet and low-light vision. They can also ignore the Charisma prerequisite for [Eldritch Heritage](../../rules/feats/eldritch-heritage.md) and any feat that has Eldritch Heritage as a prerequisite, but can select only the draconic bloodline with these feats. This replaces the bonus skill rank humans receive at each level.
+**Draconic Heritage (4 RP)**: At times, a human's family history can have a dragon's power bound to the bloodline. Humans with this trait gain darkvision with a range of 10 feet and low-light vision. They can also ignore the Charisma prerequisite for [Eldritch Heritage](../../rules/feats/eldritch-heritage.md) and any feat that has [Eldritch Heritage](../../rules/feats/eldritch-heritage.md) as a prerequisite, but can select only the draconic bloodline with these feats. This replaces the bonus skill rank humans receive at each level.
 
 **Dragon Scholar (4 RP)**: Humans with this trait receive a +2 racial bonus on caster level checks to overcome a dragon's spell resistance. In addition, they receive a +3 racial bonus on Knowledge (arcana) checks related to creatures of the dragon type. This trait replaces humans' bonus feat racial trait.
 

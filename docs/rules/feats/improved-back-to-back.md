@@ -4,7 +4,7 @@
 
 After much practice, you and an ally have become adept at fighting in close proximity to one another.
 
-**Prerequisites**: Back to Back.
+**Prerequisites**: [Back to Back](back-to-back.md).
 
 **Benefit**: This negates even outflank. As an immediate action, you can give the effects of these two feats to an adjacent ally who does not have them.
 

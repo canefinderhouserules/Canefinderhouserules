@@ -8,4 +8,4 @@
 **Duration** 1 hour/level (D)  
 **Saving Throw** Will disbelief (if interacted with); **Spell Resistance** no
 
-You transform the decor of a courtyard, structure, or other edifice to meet your highest standards and personal tastes. Objects and architectural elements remain in the same configuration—a chair remains a chair—but can look, sound, and smell like a different physical material and artistic style. You cannot change the appearance of natural terrain, but landscaped areas such as a garden or orchard can be affected. This spell functions in all other ways as *hallucinatory terrain*.
+You transform the decor of a courtyard, structure, or other edifice to meet your highest standards and personal tastes. Objects and architectural elements remain in the same configuration—a chair remains a chair—but can look, sound, and smell like a different physical material and artistic style. You cannot change the appearance of natural terrain, but landscaped areas such as a garden or orchard can be affected. This spell functions in all other ways as [*hallucinatory terrain*](hallucinatory-terrain.md).

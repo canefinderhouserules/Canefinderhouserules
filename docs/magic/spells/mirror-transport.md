@@ -8,4 +8,4 @@
 **Duration** 1 hour/level (D)  
 **Saving Throw** yes (object); **Spell Resistance** yes (object)
 
-This spell functions as mirror hideaway, except any creature that enters the target mirror can spend a swift action to exit through another mirror within 500 feet as if using dimension door; this is a one-way transport. The creature can exit through a mirror only if it could fit through an opening the same size as the mirror. Each transport through the target mirror reduces the spell’s duration by 1 hour.
+This spell functions as [*mirror hideaway*](mirror-hideaway.md), except any creature that enters the target mirror can spend a swift action to exit through another mirror within 500 feet as if using dimension door; this is a one-way transport. The creature can exit through a mirror only if it could fit through an opening the same size as the mirror. Each transport through the target mirror reduces the spell’s duration by 1 hour.

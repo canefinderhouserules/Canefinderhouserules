@@ -6,6 +6,6 @@ Your mastery of balance and momentum allows you to bring down giants with your b
 
 **Prerequisites**: Wis 13, dwarf or gnome, defensive training racial trait, [Earth Child Style](earth-child-style.md), [Improved Trip](improved-trip.md), [Improved Unarmed Strike](improved-unarmed-strike.md), Acrobatics 6 ranks.
 
-**Benefit**: You can trip a creature of the giant subtype of up to Huge size. While using Earth Child Style, you add your Wisdom bonus on combat maneuver checks made to trip a creature of the giant subtype, as well as on attack rolls to confirm a critical hit against such a creature.
+**Benefit**: You can trip a creature of the giant subtype of up to Huge size. While using [Earth Child Style](earth-child-style.md), you add your Wisdom bonus on combat maneuver checks made to trip a creature of the giant subtype, as well as on attack rolls to confirm a critical hit against such a creature.
 
 **Normal**: You can trip only those opponents that are one size category larger than you.

@@ -7,4 +7,4 @@
 **Duration** 1 minute/level; see text  
 **Saving Throw** Reflex partial; **Spell Resistance** yes
 
-This spell functions as icy prison, except as noted above.
+This spell functions as [*icy prison*](icy-prison.md), except as noted above.

@@ -1,6 +1,6 @@
 # Fiendish Darkness
 
-You can use your *darkness* spell-like ability more often.
+You can use your [*darkness*](../../magic/spells/darkness.md) spell-like ability more often.
 
 **Prerequisites**: *Darkness* spell-like ability, tiefling.
 

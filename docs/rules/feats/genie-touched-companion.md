@@ -30,9 +30,9 @@ Temperamental, fierce, and courageous, a misayyah usually tolerates only one rid
 **Resist** Fire 10 **Languages** Ignan (cannot speak any language)
 **Firesight (Ex)** A misayyah can see through fire and smoke without penalties. It is immune to the dazzled condition, and it gains a +4 saving throw on Fortitude saves against blindness caused by bright light.
 
-**Flaming Trail (Su)** Once per day when a misayyah charges, it can leave behind a trail of fire up to 20 feet in length along its path. This functions as per *wall of fire* (CL 7th) and lasts for 1 round. If the misayyah makes a single hoof attack after using flaming trail, it deals an additional 2d6 points of fire damage on a successful hit. A creature that takes this fire damage must succeed at a DC 18 Reflex save or catch on fire. The save DC is Constitution-based
+**Flaming Trail (Su)** Once per day when a misayyah charges, it can leave behind a trail of fire up to 20 feet in length along its path. This functions as per [*wall of fire*](../../magic/spells/wall-of-fire.md) (CL 7th) and lasts for 1 round. If the misayyah makes a single hoof attack after using flaming trail, it deals an additional 2d6 points of fire damage on a successful hit. A creature that takes this fire damage must succeed at a DC 18 Reflex save or catch on fire. The save DC is Constitution-based
 
-**Sunborn (Ex)** A misayyah gives off more body heat than a normal horse, and while a misayyah can exist comfortably in hot environments, its rider takes a –2 penalty on Fortitude saving throws to resist detrimental effects from hot environments while riding one. In cold environments, a misayyah’s rider is protected from the temperature as if via *endure elements*. During the day, while outside and above ground, a misayyah gains a +4 racial bonus on initiative checks.
+**Sunborn (Ex)** A misayyah gives off more body heat than a normal horse, and while a misayyah can exist comfortably in hot environments, its rider takes a –2 penalty on Fortitude saving throws to resist detrimental effects from hot environments while riding one. In cold environments, a misayyah’s rider is protected from the temperature as if via [*endure elements*](../../magic/spells/endure-elements.md). During the day, while outside and above ground, a misayyah gains a +4 racial bonus on initiative checks.
 #### Tuanu
 Tuanus are known for their fluid gait and intuitive responses. They are dark dappled gray with blue eyes.
 **Resist** Cold 10 **Languages** Aquan (cannot speak any language)
@@ -44,8 +44,8 @@ Tuanus are known for their fluid gait and intuitive responses. They are dark dap
 #### Zefaheen
 Intelligent, strong willed, and fast as the wind, zefaheens are silvery gray in color and have startling gray eyes.
 **Resist** Electricity 10 **Languages** Auran (cannot speak any language)
-**Air Walker (Sp)** Once per day, a zefaheen can use *air walk* as a spell-like ability (CL 7th).
+**Air Walker (Sp)** Once per day, a zefaheen can use [*air walk*](../../magic/spells/air-walk.md) as a spell-like ability (CL 7th).
 
-**Desert Walker (Ex)** A zefaheen suffers no harm from hot environments, and it never treats natural desert terrain as difficult terrain. It gains a +4 bonus on all Survival checks made while in a desert. A zefaheen does not leave tracks in a desert, as if under the effects of *pass without trace*.
+**Desert Walker (Ex)** A zefaheen suffers no harm from hot environments, and it never treats natural desert terrain as difficult terrain. It gains a +4 bonus on all Survival checks made while in a desert. A zefaheen does not leave tracks in a desert, as if under the effects of [*pass without trace*](../../magic/spells/pass-without-trace.md).
 
 **Sand Sense (Ex)** A zefaheen gains a +5 racial bonus on Perception checks in sandy desert environments, as well as a +2 racial bonus on Will saves against illusions (including mirages). The zefaheen can see through mist or sandstorm winds.

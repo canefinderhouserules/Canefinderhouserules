@@ -8,7 +8,7 @@
 **Duration** 1 round/level (D)  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions as *black tentacles*, except the tentacles blindly grasp at the targets' eyes and ears, and tug at their hair, clothes, and equipment. Instead of grapple attempts, the tentacles attempt dirty trick combat maneuver checks (CMB = your caster level + 4 [the tentacles' Strength bonus] + 1 [the tentacles' size bonus]). Roll on the following table to determine the effect of a successful dirty trick combat maneuver check.
+This spell functions as [*black tentacles*](black-tentacles.md), except the tentacles blindly grasp at the targets' eyes and ears, and tug at their hair, clothes, and equipment. Instead of grapple attempts, the tentacles attempt dirty trick combat maneuver checks (CMB = your caster level + 4 [the tentacles' Strength bonus] + 1 [the tentacles' size bonus]). Roll on the following table to determine the effect of a successful dirty trick combat maneuver check.
 
 | d% | Effect |
 |---|---|

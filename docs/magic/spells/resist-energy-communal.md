@@ -8,4 +8,4 @@
 **Duration** 10 min./level  
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions like resist energy, except you divide the duration in 10-minute intervals among the creatures touched.
+This spell functions like [*resist energy*](resist-energy.md), except you divide the duration in 10-minute intervals among the creatures touched.

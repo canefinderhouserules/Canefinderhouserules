@@ -8,4 +8,4 @@
 **Duration** 1 minute/level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes
 
-This spell functions like *human potential*, except it affects multiple creatures. Each target can choose a different ability score to be enhanced by this spell.
+This spell functions like [*human potential*](human-potential.md), except it affects multiple creatures. Each target can choose a different ability score to be enhanced by this spell.

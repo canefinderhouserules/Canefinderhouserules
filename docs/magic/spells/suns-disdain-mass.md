@@ -8,4 +8,4 @@
 **Duration** permanent  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions like *sun’s disdain*, except that it can affect multiple creatures.
+This spell functions like [*sun’s disdain*](suns-disdain.md), except that it can affect multiple creatures.

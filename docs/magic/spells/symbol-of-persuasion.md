@@ -8,7 +8,7 @@
 **Duration** see text  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions like *symbol of death*, except that all creatures within the radius of a *symbol of persuasion* instead become charmed by the caster (as the *charm monster* spell) for 1 hour per caster level.
+This spell functions like [*symbol of death*](symbol-of-death.md), except that all creatures within the radius of a *symbol of persuasion* instead become charmed by the caster (as the [*charm monster*](charm-monster.md) spell) for 1 hour per caster level.
 
 Unlike *symbol of death*, *symbol of persuasion* has no hit point limit; once triggered, a *symbol of persuasion* simply remains active for 10 minutes per caster level.
 

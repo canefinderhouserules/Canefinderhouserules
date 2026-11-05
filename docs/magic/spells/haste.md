@@ -16,7 +16,7 @@ A hasted creature gains a +1 bonus on attack rolls and a +1 dodge bonus to AC an
 
 All of the hasted creature’s modes of movement (including land movement, burrow, climb, fly, and swim) increase by 30 feet, to a maximum of twice the subject’s normal speed using that form of movement. This increase counts as an enhancement bonus, and it affects the creature’s jumping distance as normal for increased speed. Multiple *haste* effects don’t stack. *Haste* dispels and counters *slow.*
 
-Once per turn, a hasted creature can cast a spell at least 2 levels lower than the highest-level spell it can cast as if it were quickened, under the same rules as the [Quicken Spell](../../rules/feats/quicken-spell.md) feat. This does not stack with Quicken Spell.
+Once per turn, a hasted creature can cast a spell at least 2 levels lower than the highest-level spell it can cast as if it were quickened, under the same rules as the [Quicken Spell](../../rules/feats/quicken-spell.md) feat. This does not stack with [Quicken Spell](../../rules/feats/quicken-spell.md).
 
 ??? note "Original rule"
 

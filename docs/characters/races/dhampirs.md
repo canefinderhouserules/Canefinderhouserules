@@ -64,7 +64,7 @@ The following racial traits may be selected instead of existing dhampir racial t
 
 ## Dhampir Heritages
 
-A player may choose one of the following heritages for her dhampir in place of the traditional dhampir racial features (which are assumed to be born from less pure or mixed heritages). Each heritage replaces the dhampir's ability score modifiers, manipulative skill bonuses and *detect undead* spell-like ability with the alternatives below, and the alternate weakness replaces the dhampir's light sensitivity racial trait. Each heritage also comes with a pair of [dhampir traits](../traits/race-traits.md#dhampir-traits).
+A player may choose one of the following heritages for her dhampir in place of the traditional dhampir racial features (which are assumed to be born from less pure or mixed heritages). Each heritage replaces the dhampir's ability score modifiers, manipulative skill bonuses and [*detect undead*](../../magic/spells/detect-undead.md) spell-like ability with the alternatives below, and the alternate weakness replaces the dhampir's light sensitivity racial trait. Each heritage also comes with a pair of [dhampir traits](../traits/race-traits.md#dhampir-traits).
 
 ### Jiang-shi-born
 
@@ -233,5 +233,5 @@ These dhampirs are more often the result of magical experiments than mating.
 
 **Alternate Spell-Like Ability**: *Comprehend languages*.
 
-**Alternate Weakness**: Ajibachanas take a –1 penalty to their caster levels when they’re in an area affected by *consecrate*, *hallow*, or a similar spell that makes an area holy.
+**Alternate Weakness**: Ajibachanas take a –1 penalty to their caster levels when they’re in an area affected by [*consecrate*](../../magic/spells/consecrate.md), [*hallow*](../../magic/spells/hallow.md), or a similar spell that makes an area holy.
 

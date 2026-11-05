@@ -2,7 +2,7 @@
 
 Your heavenly light can be used in a variety of ways.
 
-**Prerequisites**: Aasimar, *daylight* spell-like ability, sufficiently high level (see below).
+**Prerequisites**: Aasimar, [*daylight*](../../magic/spells/daylight.md) spell-like ability, sufficiently high level (see below).
 
 **Benefit**: You gain one additional use per day of *daylight. C*hoose one spell from the table below; by expending a use of *daylight*, you may use this spell as a spell-like ability. To select a spell, you must meet the minimum character level for its listing in the table. The save DC for this spell is Charisma-based.
 

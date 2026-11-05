@@ -1,6 +1,6 @@
 # Extra Contingency
 
-You can manage multiple *contingency* effects.
+You can manage multiple [*contingency*](../../magic/spells/contingency.md) effects.
 
 **Prerequisite**: Character level 19th.
 

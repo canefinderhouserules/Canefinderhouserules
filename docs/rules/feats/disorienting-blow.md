@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-When you successfully strike your opponent with your Stunning Fist, you leave it in a state of confusion.
+When you successfully strike your opponent with your [Stunning Fist](stunning-fist.md), you leave it in a state of confusion.
 
 **Prerequisites**: [Stunning Fist](stunning-fist.md), base attack bonus +11.
 

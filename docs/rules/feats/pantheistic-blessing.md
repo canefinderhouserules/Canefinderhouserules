@@ -20,4 +20,4 @@ You are granted a small bit of divine power as a result of your veneration of a 
 | National cultural pantheon | *shield of faith* |
 | Vast distant-land pantheon (thousands of deities) | *true strike* |
 
-**Special**: Single-class clerics gain their powers through allegiance to a single deity, and therefore cannot select this feat. If you act out of line with the tenets of your pantheon's beliefs, you lose the ability to cast the granted spell-like ability until you have received an *atonement* for your transgression (as a cleric restoring lost class abilities).
+**Special**: Single-class clerics gain their powers through allegiance to a single deity, and therefore cannot select this feat. If you act out of line with the tenets of your pantheon's beliefs, you lose the ability to cast the granted spell-like ability until you have received an [*atonement*](../../magic/spells/atonement.md) for your transgression (as a cleric restoring lost class abilities).

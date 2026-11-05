@@ -8,4 +8,4 @@
 **Duration** concentration, up to 10 minutes/level (D)  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions like *detect evil*, except that it detects only outsiders with the evil subtype, as well as the lingering effects caused by their gifts, presence, and spells. It can also detect clerics and paladins of fiendish deities, including archdevils and demon lords.
+This spell functions like [*detect evil*](detect-evil.md), except that it detects only outsiders with the evil subtype, as well as the lingering effects caused by their gifts, presence, and spells. It can also detect clerics and paladins of fiendish deities, including archdevils and demon lords.

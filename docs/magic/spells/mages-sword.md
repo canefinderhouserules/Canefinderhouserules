@@ -14,6 +14,6 @@ The sword always strikes from your direction. It does not get a bonus for flanki
 
 Each round after the first, you can use a standard action to switch the sword to a new target. If you do not, the sword continues to attack the previous round’s target.
 
-The sword cannot be attacked or harmed by physical attacks, but *dispel magic*, *disintegrate*, a *sphere of annihilation*, or a *rod of* *cancellation* affects it. The sword’s AC is 13 (10, +0 size bonus for Medium object, +3 deflection bonus).
+The sword cannot be attacked or harmed by physical attacks, but [*dispel magic*](dispel-magic.md), [*disintegrate*](disintegrate.md), a *sphere of annihilation*, or a *rod of* *cancellation* affects it. The sword’s AC is 13 (10, +0 size bonus for Medium object, +3 deflection bonus).
 
 If an attacked creature has spell resistance, the resistance is checked the first time *mage’s sword* strikes it. If the sword is successfully resisted, the spell is dispelled. If not, the sword has its normal full effect on that creature for the duration of the spell.

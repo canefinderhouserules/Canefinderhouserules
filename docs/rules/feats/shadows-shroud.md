@@ -10,4 +10,4 @@ You can camouflage yourself in shadows and gloom.
 
 You can use this feat's benefit for a number of rounds per day equal to your ranks in Knowledge (planes). These rounds need not be consecutive.
 
-**Special**: Unlike spells like *shadow walk*, which require you to be on a plane that is coterminous with the Shadow Plane, this feat functions even on planes that do not normally share a border with the Shadow Plane. Like all conduit feats, the effects are suppressed when planar travel is forbidden.
+**Special**: Unlike spells like [*shadow walk*](../../magic/spells/shadow-walk.md), which require you to be on a plane that is coterminous with the Shadow Plane, this feat functions even on planes that do not normally share a border with the Shadow Plane. Like all conduit feats, the effects are suppressed when planar travel is forbidden.

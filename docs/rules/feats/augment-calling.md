@@ -6,7 +6,7 @@ Your attempts to bind or call outsiders are highly potent.
 
 **Prerequisites**: Spell Focus (conjuration); ability to cast lesser planar ally, lesser planar binding, or a higher-level version of these spells.
 
-**Benefit**: Choose a subtype of outsider, such as angel or elemental. When using the *planar ally* or *planar binding* spells, you can call 2 additional Hit Dice of outsiders with the chosen subtype. You also gain an additional benefit depending on what spell you are casting.
+**Benefit**: Choose a subtype of outsider, such as angel or elemental. When using the [*planar ally*](../../magic/spells/planar-ally.md) or [*planar binding*](../../magic/spells/planar-binding.md) spells, you can call 2 additional Hit Dice of outsiders with the chosen subtype. You also gain an additional benefit depending on what spell you are casting.
 
 When you call an outsider of the chosen subtype with *planar ally* spells, you reduce the price it demands for service by 25%, to a minimum of 1,000 gp.
 

@@ -6,7 +6,7 @@ Even creatures much bigger than you can lose their balance when you apply the ap
 
 **Prerequisites**: [Improved Trip](improved-trip.md), Tangled Limbs*, Weapon Focus with the chosen weapon.
 
-**Benefit**: Choose one weapon with the reach special quality. When you attempt a trip combat maneuver check with the chosen weapon, you can try to trip creatures that are up to two size categories larger than you. If you have the Greater Weapon Focus feat with the chosen weapon, you can attempt to trip creatures up to three size categories larger than you are.
+**Benefit**: Choose one weapon with the reach special quality. When you attempt a trip combat maneuver check with the chosen weapon, you can try to trip creatures that are up to two size categories larger than you. If you have the [Greater Weapon Focus](greater-weapon-focus.md) feat with the chosen weapon, you can attempt to trip creatures up to three size categories larger than you are.
 
 **Normal**: You can trip only an opponent who is no more than one size category larger than you.
 

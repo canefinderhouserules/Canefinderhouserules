@@ -8,4 +8,4 @@
 **Duration** concentration, up to 10 minutes/level (D)  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions like detect animals or plants, except it detects creatures of the aberration type.
+This spell functions like [*detect animals or plants*](detect-animals-or-plants.md), except it detects creatures of the aberration type.

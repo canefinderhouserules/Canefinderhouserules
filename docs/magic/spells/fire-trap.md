@@ -12,7 +12,7 @@
 
 When casting *fire trap,* you select a point on the object as the spell’s center. When someone other than you opens the object, a fiery explosion fills the area within a 5-foot radius around the spell’s center. The flames deal 1d4 points of fire damage + 1 point per caster level (maximum +20). The item protected by the trap is not harmed by this explosion.
 
-A fire-trapped item cannot have a second closure or warding spell placed on it. A *knock* spell does not bypass a *fire trap*. An unsuccessful *dispel magic* spell does not detonate the spell. Underwater, this ward deals half damage and creates a large cloud of steam.
+A fire-trapped item cannot have a second closure or warding spell placed on it. A [*knock*](knock.md) spell does not bypass a *fire trap*. An unsuccessful [*dispel magic*](dispel-magic.md) spell does not detonate the spell. Underwater, this ward deals half damage and creates a large cloud of steam.
 
 You can use the fire-trapped object without discharging it, as can any individual to whom the object was specifically attuned when cast. Attuning a fire-trapped object to an individual usually involves setting a password that you can share with friends.
 

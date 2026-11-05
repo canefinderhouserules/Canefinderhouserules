@@ -10,4 +10,4 @@ You have devoted your life to purging blight from the world.
 
 **Goal**: Slay or cure at least 50 creatures corrupted by the relevant blight, and then slay a challenging foe closely connected to spreading the blight.
 
-**Completion Benefit**: Once per day, you can cast any one of the following spells as a spell-like ability, using your character level as your caster level: *consecrate*, *neutralize poison*, *remove curse*, or *remove disease*.
+**Completion Benefit**: Once per day, you can cast any one of the following spells as a spell-like ability, using your character level as your caster level: [*consecrate*](../../magic/spells/consecrate.md), [*neutralize poison*](../../magic/spells/neutralize-poison.md), [*remove curse*](../../magic/spells/remove-curse.md), or [*remove disease*](../../magic/spells/remove-disease.md).

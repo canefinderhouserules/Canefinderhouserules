@@ -2,6 +2,6 @@
 
 You can use all of your occult skill unlocks more often and you are more talented at using them.
 
-**Prerequisite**: Psychic Sensitivity or ability to cast psychic spells.
+**Prerequisite**: [Psychic Sensitivity](psychic-sensitivity.md) or ability to cast psychic spells.
 
 **Benefit**: You gain a +2 bonus on checks to use occult skill unlocks. If you have more than 10 ranks in the base skill, this bonus increases to +4. This bonus doesn’t apply on other checks using the base skills—only on checks for occult skill unlocks.

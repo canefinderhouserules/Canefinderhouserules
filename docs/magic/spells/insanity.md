@@ -8,6 +8,6 @@
 **Duration** instantaneous  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-The affected creature suffers from a continuous *confusion* effect, as the spell.
+The affected creature suffers from a continuous [*confusion*](confusion.md) effect, as the spell.
 
-*Remove curse* does not remove *insanity. Greater restoration, heal,* *limited wish, miracle,* or *wish* can restore the creature.
+*Remove curse* does not remove *insanity. Greater restoration, heal,* *limited wish, miracle,* or [*wish*](wish.md) can restore the creature.

@@ -8,4 +8,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Will partial; **Spell Resistance** yes
 
-This spell functions as *song of discord* except that affected creatures automatically attack the nearest target each round. In addition, all affected creatures gain a +4 morale bonus to Strength for the duration of the spell. A creature that succeeds at the Will save reduces the effect's duration to 1 round.
+This spell functions as [*song of discord*](song-of-discord.md) except that affected creatures automatically attack the nearest target each round. In addition, all affected creatures gain a +4 morale bonus to Strength for the duration of the spell. A creature that succeeds at the Will save reduces the effect's duration to 1 round.

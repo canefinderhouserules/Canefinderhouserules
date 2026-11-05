@@ -14,7 +14,7 @@ A*larm* creates a subtle ward on an area you select. Once the spell effect is in
 
 *Audible Alarm*: An audible *alarm* produces the sound of a hand bell, and anyone within 60 feet of the warded area can hear it clearly. Reduce the distance by 10 feet for each interposing closed door and by 20 feet for each substantial interposing wall.
 
-In quiet conditions, the ringing can be heard faintly as far as 180 feet away. The sound lasts for 1 round. Creatures within a *silence* spell cannot hear the ringing.
+In quiet conditions, the ringing can be heard faintly as far as 180 feet away. The sound lasts for 1 round. Creatures within a [*silence*](silence.md) spell cannot hear the ringing.
 
 Ethereal or astral creatures do not trigger the *alarm*.
 

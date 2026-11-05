@@ -8,4 +8,4 @@
 **Duration** 8 hours (D)  
 **Saving Throw** Will negates (object); **Spell Resistance** yes (object)
 
-This spell hides an object from location by divination (scrying) effects, such as the *scrying* spell or a *crystal ball*. Such an attempt automatically fails (if the divination is targeted on the object) or fails to perceive the object (if the divination is targeted on a nearby location, object, or person).
+This spell hides an object from location by divination (scrying) effects, such as the [*scrying*](scrying.md) spell or a *crystal ball*. Such an attempt automatically fails (if the divination is targeted on the object) or fails to perceive the object (if the divination is targeted on a nearby location, object, or person).

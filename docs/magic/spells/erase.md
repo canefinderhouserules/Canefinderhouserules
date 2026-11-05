@@ -8,6 +8,6 @@
 **Duration** instantaneous  
 **Saving Throw** see text; **Spell Resistance** no
 
-*Erase* removes writings of either magical or mundane nature from a scroll or from one or two pages of paper, parchment, or similar surfaces. With this spell, you can remove *explosive runes,* a *glyph of* *warding,* a *sepia snake sigil,* or an *arcane mark*, but not *illusory script* or a *symbol* spell. Nonmagical writing is automatically erased if you touch it and no one else is holding it. Otherwise, the chance of erasing nonmagical writing is 90%.
+*Erase* removes writings of either magical or mundane nature from a scroll or from one or two pages of paper, parchment, or similar surfaces. With this spell, you can remove *explosive runes,* a *glyph of* *warding,* a *sepia snake sigil,* or an [*arcane mark*](arcane-mark.md), but not [*illusory script*](illusory-script.md) or a *symbol* spell. Nonmagical writing is automatically erased if you touch it and no one else is holding it. Otherwise, the chance of erasing nonmagical writing is 90%.
 
-Magic writing must be touched to be erased, and you also must succeed on a caster level check (1d20 + caster level) against DC 15. A natural 1 is always a failure on this check. If you fail to erase *explosive* *runes*, a *glyph of warding*, or a *sepia snake sigil*, you accidentally activate that writing instead.
+Magic writing must be touched to be erased, and you also must succeed on a caster level check (1d20 + caster level) against DC 15. A natural 1 is always a failure on this check. If you fail to erase *explosive* *runes*, a [*glyph of warding*](glyph-of-warding.md), or a [*sepia snake sigil*](sepia-snake-sigil.md), you accidentally activate that writing instead.

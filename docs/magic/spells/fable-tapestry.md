@@ -8,7 +8,7 @@
 **Duration** 1 round/level  
 **Saving Throw** Will disbelief; **Spell Resistance** yes
 
-The spell weaves shadows and colors from your kapenia into the shape of legendary characters from wandering nomad folktales. This spell functions as *shadow conjuration* emulating* summon monster I*, except as noted here. You can summon only one copy of the same character at the same time, even with multiple castings of this spell. The shadow creatures are 40% real and are drawn from the list below.
+The spell weaves shadows and colors from your kapenia into the shape of legendary characters from wandering nomad folktales. This spell functions as [*shadow conjuration*](shadow-conjuration.md) emulating* summon monster I*, except as noted here. You can summon only one copy of the same character at the same time, even with multiple castings of this spell. The shadow creatures are 40% real and are drawn from the list below.
 
 | Character | Source |
 |---|---|

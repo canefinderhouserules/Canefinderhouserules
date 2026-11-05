@@ -1,6 +1,6 @@
 # Lingering Invisibility
 
-You remain briefly translucent after losing *invisibility*.
+You remain briefly translucent after losing [*invisibility*](../../magic/spells/invisibility.md).
 
 **Prerequisite**: Duergar.
 

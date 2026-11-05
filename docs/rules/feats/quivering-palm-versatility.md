@@ -10,7 +10,7 @@ You can alter the way you apply a quivering palm’s vibrations to an opponent�
 
 *Coma*: The subject falls unconscious and is helpless for a number of days equal to your monk level.
 
-*Memory Loss*: The subject falls unconscious for 24 hours and awakens with huge gaps in its memory. The target’s memories of the recent past (a number of consecutive days equal to your monk level) are completely obliterated, and can only be restored by a *wish* or *miracle* spell.
+*Memory Loss*: The subject falls unconscious for 24 hours and awakens with huge gaps in its memory. The target’s memories of the recent past (a number of consecutive days equal to your monk level) are completely obliterated, and can only be restored by a [*wish*](../../magic/spells/wish.md) or [*miracle*](../../magic/spells/miracle.md) spell.
 
 *Pain*: The subject takes 1d6 points of nonlethal damage per monk level you possess.
 

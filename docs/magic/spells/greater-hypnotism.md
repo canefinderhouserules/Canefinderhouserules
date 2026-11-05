@@ -8,4 +8,4 @@
 **Duration** 10 minutes/level (D)  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This functions as *hypnotism*, except it affects 2 Hit Dice of creatures per caster level you have. You can make up to five requests (instead of a single request) to each creature affected by the spell, and the requests can be as long and as complicated as you desire (though they still must be reasonable).
+This functions as [*hypnotism*](hypnotism.md), except it affects 2 Hit Dice of creatures per caster level you have. You can make up to five requests (instead of a single request) to each creature affected by the spell, and the requests can be as long and as complicated as you desire (though they still must be reasonable).

@@ -8,7 +8,7 @@
 **Duration** 1 hour/level (D); see text  
 **Saving Throw** no and Will negates (harmless); **Spell Resistance** no and yes (harmless)
 
-You alter the substance of your body to a cloudlike vapor (as the *gaseous form* spell) and move through the air, possibly at great speed. You can take other creatures with you, each of which acts independently.
+You alter the substance of your body to a cloudlike vapor (as the [*gaseous form*](gaseous-form.md) spell) and move through the air, possibly at great speed. You can take other creatures with you, each of which acts independently.
 
 Normally, a wind walker flies at a speed of 10 feet with perfect maneuverability. If desired by the subject, a magical wind wafts a wind walker along at up to 600 feet per round (60 mph) with poor maneuverability. Wind walkers are not invisible but rather appear misty and translucent. If fully clothed in white, they are 80% likely to be mistaken for clouds, fog, vapors, or the like.
 

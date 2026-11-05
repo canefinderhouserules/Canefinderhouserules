@@ -8,4 +8,4 @@
 **Duration** 1 minute/level (D)  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-This spell reduces the target's size by one size category, as if it were affected by *reduce person*. You grow in size by one category, as if affected by *enlarge person* (if you can be targeted by that spell). If the spell is dispelled or otherwise ends for either you or the target, both you and the target return to your normal sizes.
+This spell reduces the target's size by one size category, as if it were affected by [*reduce person*](reduce-person.md). You grow in size by one category, as if affected by [*enlarge person*](enlarge-person.md) (if you can be targeted by that spell). If the spell is dispelled or otherwise ends for either you or the target, both you and the target return to your normal sizes.

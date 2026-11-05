@@ -7,4 +7,4 @@
 **Duration** 10 minutes/level  
 **Saving Throw** Will negates (object); **Spell Resistance** yes (object)
 
-This spell functions like *lighten object*, except that it affects a number of objects equal to half your caster level.
+This spell functions like [*lighten object*](lighten-object.md), except that it affects a number of objects equal to half your caster level.

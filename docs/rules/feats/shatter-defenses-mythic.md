@@ -6,4 +6,4 @@ Your dazzling attacks leave your opponents flummoxed and bewildered, unable to a
 
 **Prerequisite**: [Shatter Defenses](shatter-defenses.md).
 
-**Benefit**: An opponent you affect with Shatter Defenses is flat-footed to all attacks, not just yours.
+**Benefit**: An opponent you affect with [Shatter Defenses](shatter-defenses.md) is flat-footed to all attacks, not just yours.

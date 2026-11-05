@@ -7,4 +7,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions as forbid action, except up to one creature per level may be affected. Each creature must receive the same forbidden action.
+This spell functions as [*forbid action*](forbid-action.md), except up to one creature per level may be affected. Each creature must receive the same forbidden action.

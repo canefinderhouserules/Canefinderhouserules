@@ -8,4 +8,4 @@
 **Duration** 4d12 hours; see text  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions as control weather except you can opt for the weather to remain centered on you as you move.
+This spell functions as [*control weather*](control-weather.md) except you can opt for the weather to remain centered on you as you move.

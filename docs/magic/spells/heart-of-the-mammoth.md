@@ -8,4 +8,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Will (harmless); **Spell Resistance** no
 
-The target creature becomes stronger, hardier, and imbued with the courage of the greatest megafauna of the tundra. The spell grants a +8 enhancement bonus to Strength and Constitution, immunity to fear, a +4 morale bonus to Will saves, and doubles the critical threat range of all its attacks against creatures of the dragon type (this does not stack with Improved Critical, *keen edge*, or similar effects).
+The target creature becomes stronger, hardier, and imbued with the courage of the greatest megafauna of the tundra. The spell grants a +8 enhancement bonus to Strength and Constitution, immunity to fear, a +4 morale bonus to Will saves, and doubles the critical threat range of all its attacks against creatures of the dragon type (this does not stack with [Improved Critical](../../rules/feats/improved-critical.md), [*keen edge*](keen-edge.md), or similar effects).

@@ -1,6 +1,6 @@
 # Hydraulic Maneuver
 
-You can use your *hydraulic push* to disarm or trip.
+You can use your [*hydraulic push*](../../magic/spells/hydraulic-push.md) to disarm or trip.
 
 **Prerequisites**: *Hydraulic push* spell-like ability, undine.
 

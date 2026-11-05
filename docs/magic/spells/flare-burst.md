@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-This spell functions as flare, except it affects all creatures in a 10-foot-radius burst from the target point.
+This spell functions as [*flare*](flare.md), except it affects all creatures in a 10-foot-radius burst from the target point.

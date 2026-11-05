@@ -10,7 +10,7 @@
 
 You can detect simple pits, deadfalls, and snares as well as mechanical traps constructed of natural materials. The spell does not detect complex traps, including trapdoor traps.
 
-*Detect snares and pits* does detect certain natural hazards— quicksand (a snare), a sinkhole (a pit), or unsafe walls of natural rock (a deadfall). It does not reveal other potentially dangerous conditions. The spell does not detect magic traps (except those that operate by pit, deadfall, or snaring; see the spell *snare*), nor mechanically complex ones, nor those that have been rendered safe or inactive.
+*Detect snares and pits* does detect certain natural hazards— quicksand (a snare), a sinkhole (a pit), or unsafe walls of natural rock (a deadfall). It does not reveal other potentially dangerous conditions. The spell does not detect magic traps (except those that operate by pit, deadfall, or snaring; see the spell [*snare*](snare.md)), nor mechanically complex ones, nor those that have been rendered safe or inactive.
 
 The amount of information revealed depends on how long you study a particular area.
 

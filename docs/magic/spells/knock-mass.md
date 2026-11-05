@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** none; **Spell Resistance** no
 
-Also known as "unshackle," this spell functions as *knock*, but works on multiple means of closure at once.
+Also known as "unshackle," this spell functions as [*knock*](knock.md), but works on multiple means of closure at once.

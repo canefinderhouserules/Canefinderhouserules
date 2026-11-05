@@ -8,4 +8,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
-Those under the effects of this spell become faster in the use of thrown weapons. They can draw thrown weapons (including rocks if they have the rock throwing ability) on their bodies or within their space without the need for the Quick Draw feat, allowing them to make their full normal rate of attacks with such weapons. This has no effects on other forms of ranged weapon ammunition.
+Those under the effects of this spell become faster in the use of thrown weapons. They can draw thrown weapons (including rocks if they have the rock throwing ability) on their bodies or within their space without the need for the [Quick Draw](../../rules/feats/quick-draw.md) feat, allowing them to make their full normal rate of attacks with such weapons. This has no effects on other forms of ranged weapon ammunition.

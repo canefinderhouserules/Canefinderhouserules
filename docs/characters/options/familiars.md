@@ -107,7 +107,7 @@ Familiar options available to arcane bond and similar abilities. Where a familia
 
 **Mockingfey**: This tiny avian has the head of a humanoid and the body of a brilliantly colored parrot. (CN Tiny fey; speed 20 ft., fly 60 ft.; at will [*daze*](../../magic/spells/daze.md); mock: as a standard action, take on the appearance of any creature it can see, as [*veil*](../../magic/spells/veil.md).)
 
-**Smokeshade**: This tube of roiling mist writhes through the air. A spellcaster of at least 7th level with an alignment within one step of neutral evil who has the Improved Familiar feat can select a smokeshade as a familiar. (NE Tiny aberration (incorporeal); fly 60 ft.; tendril 2d6 negative energy plus cloying shade; hide in plain sight.)
+**Smokeshade**: This tube of roiling mist writhes through the air. A spellcaster of at least 7th level with an alignment within one step of neutral evil who has the [Improved Familiar](../../rules/feats/improved-familiar.md) feat can select a smokeshade as a familiar. (NE Tiny aberration (incorporeal); fly 60 ft.; tendril 2d6 negative energy plus cloying shade; hide in plain sight.)
 
 ## Familiars of the Adventure Paths
 

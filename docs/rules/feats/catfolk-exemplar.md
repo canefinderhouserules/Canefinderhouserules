@@ -4,7 +4,7 @@ Your feline traits are more defined and prominent than those of other members of
 
 **Prerequisite**: Catfolk.
 
-**Benefit**: You can take the Aspect of the Beast feat even if you do not meet the normal prerequisites. Furthermore, your catlike nature manifests in one of the following ways. You choose the manifestation when you take this feat, and cannot change it later.
+**Benefit**: You can take the [Aspect of the Beast](aspect-of-the-beast.md) feat even if you do not meet the normal prerequisites. Furthermore, your catlike nature manifests in one of the following ways. You choose the manifestation when you take this feat, and cannot change it later.
 
 *Enhanced Senses (Ex)*: If you have low-light vision, you gain the scent catfolk racial trait. If you have the scent racial trait, you gain low-light vision.
 

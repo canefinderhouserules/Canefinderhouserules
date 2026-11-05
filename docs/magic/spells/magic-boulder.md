@@ -8,4 +8,4 @@
 **Duration** 1 minute or until used  
 **Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 
-This spell works like *magic stone*, except you transmute as many as three boulders (rocks up to two size categories larger than yourself) to use with the rock throwing ability or as siege engine ammunition. The boulder's damage increases by one step, and the boulder gains a +1 enhancement bonus on attack and damage rolls.
+This spell works like [*magic stone*](magic-stone.md), except you transmute as many as three boulders (rocks up to two size categories larger than yourself) to use with the rock throwing ability or as siege engine ammunition. The boulder's damage increases by one step, and the boulder gains a +1 enhancement bonus on attack and damage rolls.

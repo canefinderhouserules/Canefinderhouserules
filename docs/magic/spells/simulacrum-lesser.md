@@ -8,4 +8,4 @@
 **Duration** 1 hour/level  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions as simulacrum, except you can’t create a simulacrum of a creature whose HD or levels exceed your caster level, and it has no magical abilities. The creature is not under your control, though it recognizes you are its creator.
+This spell functions as [*simulacrum*](simulacrum.md), except you can’t create a simulacrum of a creature whose HD or levels exceed your caster level, and it has no magical abilities. The creature is not under your control, though it recognizes you are its creator.

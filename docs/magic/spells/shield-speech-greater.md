@@ -8,4 +8,4 @@
 **Duration** 10 minutes/level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions as *shield speech*, except all creatures within the dome may communicate with each other as if linked by *shield speech*. If they speak with anyone outside the area, those outside the area hear them normally.
+This spell functions as [*shield speech*](shield-speech.md), except all creatures within the dome may communicate with each other as if linked by *shield speech*. If they speak with anyone outside the area, those outside the area hear them normally.

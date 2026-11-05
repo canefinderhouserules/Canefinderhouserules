@@ -16,6 +16,6 @@ All equipment worn or carried by a creature is similarly reduced by the spell.
 
 Melee and projectile weapons deal less damage. Other magical properties are not affected by this spell. Any *reduced* item that leaves the *reduced* creature’s possession (including a projectile or thrown weapon) instantly returns to its normal size. This means that thrown weapons deal their normal damage (projectiles deal damage based on the size of the weapon that fired them).
 
-Multiple magical effects that reduce size do not stack. *Reduce* *person* counters and dispels *enlarge person*.
+Multiple magical effects that reduce size do not stack. *Reduce* *person* counters and dispels [*enlarge person*](enlarge-person.md).
 
-*Reduce person* can be made permanent with a *permanency* spell.
+*Reduce person* can be made permanent with a [*permanency*](permanency.md) spell.

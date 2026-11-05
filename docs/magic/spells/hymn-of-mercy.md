@@ -8,4 +8,4 @@
 **Duration** 1 round/level (D)  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions like *touch of mercy*, except as noted above.
+This spell functions like [*touch of mercy*](touch-of-mercy.md), except as noted above.

@@ -12,4 +12,4 @@ This abjuration grants a creature limited protection from damage of whichever on
 
 *Resist energy* absorbs only damage. The subject could still suffer unfortunate side effects.
 
-*Resist energy* overlaps (and does not stack with) *protection from* *energy.* If a character is warded by *protection from energy* and *resist* *energy,* the *protection* spell absorbs damage until its power is exhausted.
+*Resist energy* overlaps (and does not stack with) *protection from* *energy.* If a character is warded by [*protection from energy*](protection-from-energy.md) and *resist* *energy,* the *protection* spell absorbs damage until its power is exhausted.

@@ -8,7 +8,7 @@
 **Duration** see text  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions like *symbol of death*, except that all creatures within the radius of the *symbol of insanity* instead become permanently insane (as the *insanity* spell).
+This spell functions like [*symbol of death*](symbol-of-death.md), except that all creatures within the radius of the *symbol of insanity* instead become permanently insane (as the [*insanity*](insanity.md) spell).
 
 Unlike *symbol of death*, symbol of insanity has no hit point limit; once triggered, a *symbol of insanity* simply remains active for 10 minutes per caster level.
 

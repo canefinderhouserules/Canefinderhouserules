@@ -8,4 +8,4 @@
 **Duration** 1 hour/level (D)  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell creates a subtle illusion, causing any divination (scrying) spell used to view anything within the area of this spell to instead receive a false image (as the *major image* spell), as defined by you at the time of casting. As long as the duration lasts, you can concentrate to change the image as desired. While you aren’t concentrating, the image remains static.
+This spell creates a subtle illusion, causing any divination (scrying) spell used to view anything within the area of this spell to instead receive a false image (as the [*major image*](major-image.md) spell), as defined by you at the time of casting. As long as the duration lasts, you can concentrate to change the image as desired. While you aren’t concentrating, the image remains static.

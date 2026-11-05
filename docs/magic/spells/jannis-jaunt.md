@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions as *plane shift*, with the following exceptions. First, you can transport only willing creatures. Second, the spell can transport you and any other willing targets only to an Elemental Plane, the Astral Plane, or the Material Plane.
+This spell functions as [*plane shift*](plane-shift.md), with the following exceptions. First, you can transport only willing creatures. Second, the spell can transport you and any other willing targets only to an Elemental Plane, the Astral Plane, or the Material Plane.

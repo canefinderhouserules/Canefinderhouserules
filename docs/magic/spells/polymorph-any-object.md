@@ -34,4 +34,4 @@ If the target of the spell does not have physical ability scores (Strength, Dext
 
 This spell cannot create material of great intrinsic value, such as copper, silver, gems, silk, gold, platinum, mithral, or adamantine. It also cannot reproduce the special properties of cold iron in order to overcome the damage reduction of certain creatures.
 
-This spell can also be used to duplicate the effects of *baleful* *polymorph, greater polymorph, flesh to stone*, *stone to flesh*, *transmute* *mud to rock*, *transmute metal to wood,* or *transmute rock to mud.*
+This spell can also be used to duplicate the effects of *baleful* *polymorph, greater polymorph, flesh to stone*, [*stone to flesh*](stone-to-flesh.md), *transmute* *mud to rock*, *transmute metal to wood,* or *transmute rock to mud.*

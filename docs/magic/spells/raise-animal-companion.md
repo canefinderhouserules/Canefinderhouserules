@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** none, see text; **Spell Resistance** yes (harmless)
 
-This spell functions as raise dead, but it only affects an animal companion, familiar, or paladin’s bonded mount.
+This spell functions as [*raise dead*](raise-dead.md), but it only affects an animal companion, familiar, or paladin’s bonded mount.

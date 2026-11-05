@@ -8,4 +8,4 @@
 **Duration** concentration + 1 round/level (D)  
 **Saving Throw** none; **Spell Resistance** yes
 
-This spell functions as rage, except it affects only undead creatures and bolsters them with necromantic energy rather than emotion. Each affected creature gains a +2 profane bonus to Strength and Constitution, a +1 profane bonus on will saves, and a-2 penalty to AC. The effect is otherwise identical to a barbarian’s rage.
+This spell functions as [*rage*](rage.md), except it affects only undead creatures and bolsters them with necromantic energy rather than emotion. Each affected creature gains a +2 profane bonus to Strength and Constitution, a +1 profane bonus on will saves, and a-2 penalty to AC. The effect is otherwise identical to a barbarian’s rage.

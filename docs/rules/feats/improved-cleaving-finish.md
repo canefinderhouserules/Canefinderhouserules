@@ -6,7 +6,7 @@ You can cut down many opponents in a single strike.
 
 **Prerequisites**: [Cleaving Finish](cleaving-finish.md), base attack bonus +8.
 
-**Benefit**: You can use Cleaving Finish twice per round.
+**Benefit**: You can use [Cleaving Finish](cleaving-finish.md) twice per round.
 
 ??? note "Original rule"
 

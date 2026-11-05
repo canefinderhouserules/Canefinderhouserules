@@ -27,6 +27,6 @@ You can observe a creature at any distance. If the subject succeeds on a Will sa
 
 If the save fails, you can see and hear the subject and its surroundings (approximately 10 feet in all directions of the subject). If the subject moves, the sensor follows at a speed of up to 150 feet.
 
-As with all divination (scrying) spells, the sensor has your full visual acuity, including any magical effects. In addition, the following spells have a 5% chance per caster level of operating through the sensor: *detect chaos*, *detect evil*, *detect good*, *detect law*, *detect magic*, and *message*.
+As with all divination (scrying) spells, the sensor has your full visual acuity, including any magical effects. In addition, the following spells have a 5% chance per caster level of operating through the sensor: [*detect chaos*](detect-chaos.md), [*detect evil*](detect-evil.md), [*detect good*](detect-good.md), [*detect law*](detect-law.md), [*detect magic*](detect-magic.md), and [*message*](message.md).
 
 If the save succeeds, you can’t attempt to scry on that subject again for at least 24 hours.

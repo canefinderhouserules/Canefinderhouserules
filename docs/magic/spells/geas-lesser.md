@@ -16,4 +16,4 @@ If the instructions involve some open-ended task that the recipient cannot compl
 
 If the subject is prevented from obeying the *lesser geas* for 24 hours, it takes a –2 penalty to each of its ability scores. Each day, another –2 penalty accumulates, up to a total of –8. No ability score can be reduced to less than 1 by this effect. The ability score penalties are removed 24 hours after the subject resumes obeying the *lesser geas.*
 
-A *lesser geas* (and all ability score penalties) can be ended by *break* *enchantment*, *limited wish*, *remove curse*, *miracle*, or *wish*. *Dispel magic* does not affect a *lesser geas*.
+A *lesser geas* (and all ability score penalties) can be ended by [*break*](break.md) *enchantment*, [*limited wish*](limited-wish.md), [*remove curse*](remove-curse.md), [*miracle*](miracle.md), or [*wish*](wish.md). *Dispel magic* does not affect a *lesser geas*.

@@ -6,7 +6,7 @@ The deadly power of the Negative Energy Plane creates a field that snuffs out li
 
 **Prerequisites**: Knowledge (planes) 5 ranks.
 
-**Benefit**: As a move action, you can exude deadly energy from your body. While this death field is in effect, small plants wither and recoil from you, allowing you to ignore the effects of difficult terrain caused by plant life and ignore the effects of spells like *entangle* that compel vegetation to grasp at you, provided the spell's level is 3rd or lower (the death field cannot affect more powerful plant magic).
+**Benefit**: As a move action, you can exude deadly energy from your body. While this death field is in effect, small plants wither and recoil from you, allowing you to ignore the effects of difficult terrain caused by plant life and ignore the effects of spells like [*entangle*](../../magic/spells/entangle.md) that compel vegetation to grasp at you, provided the spell's level is 3rd or lower (the death field cannot affect more powerful plant magic).
 
 Any swarm that enters your space takes 1d6 points of negative energy damage; this damage is applied before you are affected by any swarm attacks, so if the damage is enough to destroy the swarm, it does not harm you.
 

@@ -53,7 +53,7 @@ You are marked by fate as a future deity; even before this destiny is realized, 
 
 **Prerequisite**: You must have had direct contact with a deity or godlike being, or have been raised from the dead at the personal behest of a deity or godlike being.
 
-**Benefit**: You gain a +2 bonus on Constitution checks to stabilize while dying. Anytime you or an ally who worships the god that contacted you casts *augury* or a similar effect, your chance of receiving a meaningful reply is increased by 5% (to a maximum of 95%).
+**Benefit**: You gain a +2 bonus on Constitution checks to stabilize while dying. Anytime you or an ally who worships the god that contacted you casts [*augury*](../../magic/spells/augury.md) or a similar effect, your chance of receiving a meaningful reply is increased by 5% (to a maximum of 95%).
 
 **Goal**: You must be acknowledged by another divine being (directly or through a representative) as a peer, even if only a minor one.
 
@@ -123,7 +123,7 @@ The repeated notice and boons of celestials have marked you as one of their chos
 
 **Goal**: Thwart or decisively defeat an evil creature that qualifies as a challenging foe, but show mercy and then convert that creature toward good.
 
-**Completion Benefit**: You gain the benefit of *protection from evil* as a constant spell-like ability. In addition, you gain a +2 bonus on caster level checks against evil-aligned outsiders.
+**Completion Benefit**: You gain the benefit of [*protection from evil*](../../magic/spells/protection-from-evil.md) as a constant spell-like ability. In addition, you gain a +2 bonus on caster level checks against evil-aligned outsiders.
 
 **Suggested Traits**: Indomitable Faith, Inspiring, Memorable.
 
@@ -159,7 +159,7 @@ The lives you could not save stay with you to your final breath.
 
 **Benefit**: You gain a +2 bonus on Heal checks. If you have 10 or more ranks in Heal, this bonus increases to +4. You can apply first aid as a move action and don’t take a penalty when treating deadly wounds without a healing kit.
 
-**Goal**: Bring an ally back from the dead, including by using *breath of life* or *reincarnate*.
+**Goal**: Bring an ally back from the dead, including by using [*breath of life*](../../magic/spells/breath-of-life.md) or [*reincarnate*](../../magic/spells/reincarnate.md).
 
 **Completion Benefit**: You and each ally within 10 feet of you gain a +2 bonus on saves against death effects. In addition, once per day you can spontaneously convert any 5th-level or higher conjuration (healing) spell into *breath of life*.
 
@@ -191,7 +191,7 @@ You seek new applications for magical energy.
 
 **Completion Benefit**: The save DCs for any spells you create increase by 1 when you cast them. In addition, when applying metamagic feats to self-created spells, reduce the total level adjustment by 1. You can’t reduce metamagic costs to lower than the spell’s original level in this manner.
 
-**Special**: For a self-created spell to benefit from this feat, it must be a truly novel spell. Spells slightly altered from the original (for example, *delayed blast fireball* as compared to *fireball*) gain no benefit. Alchemists can benefit from this feat as though their formulae and extracts were spells.
+**Special**: For a self-created spell to benefit from this feat, it must be a truly novel spell. Spells slightly altered from the original (for example, [*delayed blast fireball*](../../magic/spells/delayed-blast-fireball.md) as compared to [*fireball*](../../magic/spells/fireball.md)) gain no benefit. Alchemists can benefit from this feat as though their formulae and extracts were spells.
 
 ## Explorer (Story)
 
@@ -203,7 +203,7 @@ You dream of discovering new vistas.
 
 **Goal**: Cross through a dangerous place without a map or a guide knowledgeable about the area, stopping for no longer than 16 hours at a time, and along the way overcome an appropriate number of natural hazards, obstacles, and/or enemies, at least one of which must qualify as a challenging foe.
 
-**Completion Benefit**: You and one ally per 3 ranks of Survival can move overland without being slowed by difficult terrain (allies must remain within 30 feet of you to be affected). Once per day, you can make a preternaturally accurate estimate regarding your path, as if you had cast *find the path* on yourself (caster level equals your character level).
+**Completion Benefit**: You and one ally per 3 ranks of Survival can move overland without being slowed by difficult terrain (allies must remain within 30 feet of you to be affected). Once per day, you can make a preternaturally accurate estimate regarding your path, as if you had cast [*find the path*](../../magic/spells/find-the-path.md) on yourself (caster level equals your character level).
 
 **Suggested Traits**: Grim Optimism, Resilient, Wanderlust.
 
@@ -225,7 +225,7 @@ In your chest beasts the heart of a wild beast.
 
 **Prerequisite**: You must have reverted to savage behavior through a traumatic event or extended period in the wilderness, or have the Raised by Beasts background.
 
-**Benefit**: Whenever you receive a morale bonus on Strength or attack rolls (such as from *heroism* or the barbarian rage class feature), you receive a +2 bonus on Dexterity- and Strength-based ability and skill checks and a +1 bonus on Reflex saves until the morale bonus effect ends.
+**Benefit**: Whenever you receive a morale bonus on Strength or attack rolls (such as from [*heroism*](../../magic/spells/heroism.md) or the barbarian rage class feature), you receive a +2 bonus on Dexterity- and Strength-based ability and skill checks and a +1 bonus on Reflex saves until the morale bonus effect ends.
 
 **Goal**: Woo and then marry or otherwise enter into a committed relationship with a person from a civilized culture. This relationship must be forged in love, not bought or coerced.
 
@@ -241,7 +241,7 @@ Your bitter feud with your enemies can be quenched only with blood.
 
 **Goal**: Slay an appropriate number of challenging foes.
 
-**Completion Benefit**: You gain the benefits of the Improved Critical feat on attacks made against members of your chosen race. Your dodge bonus to AC against such foes increases to +2.
+**Completion Benefit**: You gain the benefits of the [Improved Critical](improved-critical.md) feat on attacks made against members of your chosen race. Your dodge bonus to AC against such foes increases to +2.
 
 ## Forgotten Past (Story)
 
@@ -251,11 +251,11 @@ A pivotal event from your past eludes your memory.
 
 **Benefit**: The duration of mind-affecting spells (even beneficial ones) is halved for you, to a minimum of 1 round. Your inquisitive nature gives you a +2 bonus on Perception checks. If you have 10 or more ranks in Perception, this bonus increases to +4.
 
-**Goal**: Regain a major portion of your lost memories. The exact means varies, possibly requiring a *wish*, assistance from a divine being, reliving a past life, or confronting the situation that led to your memory loss. This process must involve encountering a challenging foe, though possibly in ways other than direct confrontation.
+**Goal**: Regain a major portion of your lost memories. The exact means varies, possibly requiring a [*wish*](../../magic/spells/wish.md), assistance from a divine being, reliving a past life, or confronting the situation that led to your memory loss. This process must involve encountering a challenging foe, though possibly in ways other than direct confrontation.
 
 **Completion Benefit**: You roll twice whenever you attempt a saving throw against a mind-affecting effect, keeping the better result.
 
-**Special**: Restoration of memories by means less significant than *miracle* or *wish* does not qualify for the prerequisite.
+**Special**: Restoration of memories by means less significant than [*miracle*](../../magic/spells/miracle.md) or *wish* does not qualify for the prerequisite.
 
 ## Glimpse Beyond (Story)
 
@@ -375,11 +375,11 @@ The object of your quest drives you ever forward.
 
 **Prerequisite**: You must have some highly personal stake in attaining the object of your quest as determined collectively by you and the GM, such as needing an ancestral weapon to exact your revenge against a known betrayer, seeking to destroy the artifact that caused your family's downfall generations ago, or attempting to behead a monster that ravaged your homeland during your youth.
 
-**Benefit**: When you gain this feat, select a quest object, or devise one with your GM. You gain a +2 bonus on any Knowledge checks to gain information on the object of your quest. If you have 10 or more ranks in the Knowledge skill in question, the bonus increases to +4. In addition, once per day when you threaten a critical hit against a foe who specifically aims to stop you from completing your quest, you gain a +10 bonus on your confirmation roll against that opponent. You must announce the use of this ability after threatening the critical hit and before rolling your confirmation roll. This bonus does not stack with bonuses on confirmation rolls from other feats, such as Critical Focus.
+**Benefit**: When you gain this feat, select a quest object, or devise one with your GM. You gain a +2 bonus on any Knowledge checks to gain information on the object of your quest. If you have 10 or more ranks in the Knowledge skill in question, the bonus increases to +4. In addition, once per day when you threaten a critical hit against a foe who specifically aims to stop you from completing your quest, you gain a +10 bonus on your confirmation roll against that opponent. You must announce the use of this ability after threatening the critical hit and before rolling your confirmation roll. This bonus does not stack with bonuses on confirmation rolls from other feats, such as [Critical Focus](critical-focus.md).
 
 **Goal**: Attain the object of your quest, as determined by you and the GM upon taking this feat. This likely means obtaining the item for yourself, though in some cases (such as when the quest object is more abstract or intangible) this might mean slaying a certain foe, achieving a certain honor, or completing some other set of predetermined objectives.
 
-**Completion Benefit**: You gain renown throughout a region, perhaps even an entire continent. You are sung of in bardic tales and can be the subject of spells such as *legend lore*, regardless of your actual level. Commoners in nearby lands know of your deeds, and your reputation precedes you in numerous lands. In addition, you gain a specific benefit keyed to the object of your quest; work out a fitting benefit with your GM (for example, slaying a dragon might grant a +2 bonus on attack rolls and damage rolls against dragons, as a favored enemy bonus that stacks with other favored enemy bonuses, and winning a stronghold might grant a +4 bonus on stability checks while you use it as the seat of your new kingdom).
+**Completion Benefit**: You gain renown throughout a region, perhaps even an entire continent. You are sung of in bardic tales and can be the subject of spells such as [*legend lore*](../../magic/spells/legend-lore.md), regardless of your actual level. Commoners in nearby lands know of your deeds, and your reputation precedes you in numerous lands. In addition, you gain a specific benefit keyed to the object of your quest; work out a fitting benefit with your GM (for example, slaying a dragon might grant a +2 bonus on attack rolls and damage rolls against dragons, as a favored enemy bonus that stacks with other favored enemy bonuses, and winning a stronghold might grant a +4 bonus on stability checks while you use it as the seat of your new kingdom).
 
 **Special**: This feat may be taken more than once. Each time it is taken, select a new quest object to strive for. As with all story feats, a character cannot take this feat again until she has completed the goal of the feat's first iteration.
 

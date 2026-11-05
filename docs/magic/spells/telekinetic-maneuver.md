@@ -8,4 +8,4 @@
 **Duration** concentration (up to 1 round/level)  
 **Saving Throw** none; **Spell Resistance** yes
 
-This spell functions as telekinesis, but it can be used only to perform a bull rush, disarm, drag, grapple (including pin), reposition, steal, or trip combat maneuver.
+This spell functions as [*telekinesis*](telekinesis.md), but it can be used only to perform a bull rush, disarm, drag, grapple (including pin), reposition, steal, or trip combat maneuver.

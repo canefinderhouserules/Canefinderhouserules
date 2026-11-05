@@ -49,7 +49,7 @@ In addition to these four ceremonies, each cleric gains two more ceremonies acco
 - **Magic** (Arcane Obeisance): The subject gains a +2 sacred bonus on Spellcraft checks made while researching a spell or crafting a magic item. *Augmented*: The subject gains a +2 sacred bonus on Knowledge (arcana) or (religion) checks made while researching a spell.
 - **Nobility** (Knighting Ceremony): The subject receives a +1 sacred bonus on attack and damage rolls with one weapon of her choice. *Augmented*: The bonus becomes +2.
 - **Plant** (Harvest Festival): The subject can use [*speak with plants*](speak-with-plants.md) once, but the duration is 1 minute. *Augmented*: This boon can be used three times.
-- **Protection** (Ceremony of Sanctuary): The subject can use *sanctuary* once. *Augmented*: The subject gains a +2 sacred bonus to AC.
+- **Protection** (Ceremony of Sanctuary): The subject can use [*sanctuary*](sanctuary.md) once. *Augmented*: The subject gains a +2 sacred bonus to AC.
 - **Repose** (Spirit Ward): The subject can attempt a melee touch attack against a flat-footed foe to put him to sleep for 1d4 rounds. *Augmented*: This boon can be used three times.
 - **Rune** (Ancestral Observance): The subject gains a +2 sacred bonus on saves against language-dependent effects. *Augmented*: The subject gains a +2 sacred bonus on Linguistics checks.
 - **Scalykind** (Song of Serpents): The subject gains a +2 sacred bonus on saves against gaze attacks. *Augmented*: The subject gains a +4 sacred bonus to AC against the distraction attack of swarms.

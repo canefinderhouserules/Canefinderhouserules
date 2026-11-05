@@ -165,7 +165,7 @@ Lawbringers are champions of justice and of doling out punishment to the wicked,
 
 **Alternate Skill Modifiers** Intimidate, Sense Motive
 
-**Alternate Spell-Like Ability** Lawbringers gain *continual flame* as a spell-like ability.
+**Alternate Spell-Like Ability** Lawbringers gain [*continual flame*](../../magic/spells/continual-flame.md) as a spell-like ability.
 
 ### Azata-Blooded (Musetouched)
 

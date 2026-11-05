@@ -7,4 +7,4 @@
 **Duration** 1 round/level or 1 round; see text  
 **Saving Throw** Fortitude partial; **Spell Resistance** yes
 
-This spell functions as fester, except that it affects multiple foes.
+This spell functions as [*fester*](fester.md), except that it affects multiple foes.

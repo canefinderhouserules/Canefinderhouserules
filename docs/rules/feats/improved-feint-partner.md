@@ -4,7 +4,7 @@
 
 Knowledge of your companions’ tricks and techniques allow you to take even greater advantage of your allies’ feints.
 
-**Prerequisites**: Combat Reflexes, Feint Partner, base attack bonus +4.
+**Prerequisites**: [Combat Reflexes](combat-reflexes.md), [Feint Partner](feint-partner.md), base attack bonus +4.
 
 **Benefit**: When ally successfully feints, you gain attack of opportunity against opponent.
 

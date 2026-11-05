@@ -10,4 +10,4 @@ Your critical hits can push back your foes.
 
 **Normal**: You must perform a bull rush combat maneuver to bull rush an opponent.
 
-**Special**: You can only apply the effects of one of the following feats to a given critical hit: Bull Rush Strike, Disarming Strike, Repositioning Strike, Sundering Strike, or Tripping Strike. You may choose to use this feat after you make your confirmation roll. Swap Places\* — Switch places with an adjacent ally \* This is a combat feat and can be selected as a fighter bonus feat.
+**Special**: You can only apply the effects of one of the following feats to a given critical hit: Bull Rush Strike, [Disarming Strike](disarming-strike.md), [Repositioning Strike](repositioning-strike.md), [Sundering Strike](sundering-strike.md), or [Tripping Strike](tripping-strike.md). You may choose to use this feat after you make your confirmation roll. [Swap Places](swap-places.md)\* — Switch places with an adjacent ally \* This is a combat feat and can be selected as a fighter bonus feat.

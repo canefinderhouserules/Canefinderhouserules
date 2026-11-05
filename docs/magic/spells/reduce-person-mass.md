@@ -7,4 +7,4 @@
 **Duration** 1 min./level (D)  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-This spell functions like *reduce person*, except that it affects multiple creatures.
+This spell functions like [*reduce person*](reduce-person.md), except that it affects multiple creatures.

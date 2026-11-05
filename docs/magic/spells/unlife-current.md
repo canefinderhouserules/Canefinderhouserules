@@ -8,4 +8,4 @@
 **Duration** 1 round  
 **Saving Throw** Will half; **Spell Resistance** yes
 
-This functions as life current except you infuse the current with negative energy, so it heals undead and harms living creatures.
+This functions as [*life current*](life-current.md) except you infuse the current with negative energy, so it heals undead and harms living creatures.

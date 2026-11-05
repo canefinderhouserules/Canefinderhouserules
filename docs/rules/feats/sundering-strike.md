@@ -10,6 +10,6 @@ Your critical hits can sunder your foes’ weapons.
 
 **Normal**: You must perform a sunder combat maneuver to sunder an opponent’s weapon.
 
-**Special**: You can only apply the effects of one of the following feats to a given critical hit: Bull Rush Strike, Disarming Strike, Repositioning Strike, Sundering Strike, or Tripping Strike. You may choose to use this feat after you make your confirmation roll. Swap Places (Combat, T teamwork) You are skilled at changing places with your ally during a chaotic melee.
+**Special**: You can only apply the effects of one of the following feats to a given critical hit: [Bull Rush Strike](bull-rush-strike.md), [Disarming Strike](disarming-strike.md), [Repositioning Strike](repositioning-strike.md), Sundering Strike, or [Tripping Strike](tripping-strike.md). You may choose to use this feat after you make your confirmation roll. Swap Places (Combat, T teamwork) You are skilled at changing places with your ally during a chaotic melee.
 
 **Benefit**: Whenever you are adjacent to an ally who also has this feat, you can move into your ally’s square as part of normal movement. At the same time, your ally moves into your previous space as an immediate action. Both you and your ally must be willing and able to move to take advantage of this feat. Your ally must be the same size as you to utilize this feat. Your ally does not provoke an attack of opportunity from this movement, but you provoke as normal. This movement does not count against your ally’s movement on his next turn.

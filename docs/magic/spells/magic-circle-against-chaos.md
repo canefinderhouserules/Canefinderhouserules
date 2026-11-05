@@ -8,4 +8,4 @@
 **Duration** 10 min./level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** no; see text
 
-This spell functions like *magic circle against evil,* except that it is similar to *protection from chaos* instead of *protection from evil*, and it can imprison a nonlawful called creature.
+This spell functions like *magic circle against evil,* except that it is similar to [*protection from chaos*](protection-from-chaos.md) instead of [*protection from evil*](protection-from-evil.md), and it can imprison a nonlawful called creature.

@@ -2,7 +2,7 @@
 
 Your channeled energy wards off disease.
 
-**Prerequisites**: Able to cast *remove disease* or the ability to cure disease with a mercy, channel positive energy class feature.
+**Prerequisites**: Able to cast [*remove disease*](../../magic/spells/remove-disease.md) or the ability to cure disease with a mercy, channel positive energy class feature.
 
 **Benefit**:  When you channel positive energy to harm or turn undead creatures, any undead creatures in the area lose the ability to cause disease with their melee and ranged attacks for 1d4+1 rounds. If an undead creature successfully saves against your channeled energy, this duration is reduced to 1 round for that creature. Immunity to positive energy negates this ability.
 

@@ -8,4 +8,4 @@
 **Duration** 1 min./level (D)  
 **Saving Throw** Reflex negates; **Spell Resistance** yes
 
-A globe of shimmering force encloses a creature, provided the creature is small enough to fit within the diameter of the sphere. The sphere contains its subject for the spell’s duration. The sphere functions as a *wall of force*, except that it can be negated by *dispel* *magic*. A subject inside the sphere can breathe normally. The sphere cannot be physically moved either by people outside it or by the struggles of those within.
+A globe of shimmering force encloses a creature, provided the creature is small enough to fit within the diameter of the sphere. The sphere contains its subject for the spell’s duration. The sphere functions as a [*wall of force*](wall-of-force.md), except that it can be negated by *dispel* *magic*. A subject inside the sphere can breathe normally. The sphere cannot be physically moved either by people outside it or by the struggles of those within.

@@ -18,4 +18,4 @@ You cause the illumination in the area to seem to flicker erratically, fluctuati
 | 51–90 | Normal light |
 | 91–00 | Bright light |
 
-Even darkvision can’t see through supernatural darkness (as *deeper darkness*). Bright light affects creatures with light blindness or light sensitivity. For the purpose of superseding its effects with higher-level light or darkness spells, *flickering lights* counts as a light spell when it increases the ambient light level and a darkness spell when it decreases the ambient light level.
+Even darkvision can’t see through supernatural darkness (as [*deeper darkness*](deeper-darkness.md)). Bright light affects creatures with light blindness or light sensitivity. For the purpose of superseding its effects with higher-level light or darkness spells, *flickering lights* counts as a light spell when it increases the ambient light level and a darkness spell when it decreases the ambient light level.

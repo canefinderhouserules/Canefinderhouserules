@@ -12,4 +12,4 @@ This spell functions like *locate object,* except this spell locates a known cre
 
 The spell can locate a creature of a specific kind or a specific creature known to you. It cannot find a creature of a certain type. To find a kind of creature, you must have seen such a creature up close (within 30 feet) at least once.
 
-Running water blocks the spell. It cannot detect objects. It can be fooled by *mislead*, *nondetection*, and *polymorph* spells.
+Running water blocks the spell. It cannot detect objects. It can be fooled by [*mislead*](mislead.md), [*nondetection*](nondetection.md), and [*polymorph*](polymorph.md) spells.

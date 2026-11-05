@@ -10,4 +10,4 @@ You mastery with this skill is unmatched, even in difficult situations.
 
 **Special**: You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Skill Focus feat.
 
-**Benefit**: Add half your tier to caster level checks to overcome spell resistance. If you have Greater Spell Penetration, add your full tier instead.
+**Benefit**: Add half your tier to caster level checks to overcome spell resistance. If you have [Greater Spell Penetration](greater-spell-penetration.md), add your full tier instead.

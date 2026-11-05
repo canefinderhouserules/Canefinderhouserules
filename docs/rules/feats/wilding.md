@@ -6,4 +6,4 @@ You were touched by nature at an early age and share a kinship with wild creatur
 
 **Benefit**: You gain the druid’s wild empathy ability, using your character level as your druid level. If you have one or more levels in a class that grants wild empathy, you gain an additional +3 bonus on wild empathy checks. You are treated as an animal for the purpose of harmful mind-affecting effects that target animals (such as charm animal).
 
-**Special**: A character who has this feat can select the Animal Soul or Aspect of the Beast feats without meeting the prerequisites.
+**Special**: A character who has this feat can select the [Animal Soul](animal-soul.md) or [Aspect of the Beast](aspect-of-the-beast.md) feats without meeting the prerequisites.

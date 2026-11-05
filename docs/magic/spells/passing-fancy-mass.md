@@ -8,4 +8,4 @@
 **Duration** 4d4 rounds (D)  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions as *passing fancy*, except as noted above.
+This spell functions as [*passing fancy*](passing-fancy.md), except as noted above.

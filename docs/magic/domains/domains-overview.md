@@ -461,7 +461,7 @@ If you already have a spellbook, you can add them to your spellbook instead of g
 
 A character who chooses brawler as his secondary class gains the following secondary class features.
 
-**Unarmed Strike**: At 3rd level, he gains the Improved Unarmed Strike feat and the unarmed damage of a brawler of his character level – 2.
+**Unarmed Strike**: At 3rd level, he gains the [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) feat and the unarmed damage of a brawler of his character level – 2.
 
 **Martial Flexibility**: At 7th level, he gains the martial flexibility class feature as a brawler of his character level.
 

@@ -10,7 +10,7 @@ Your critical hits can disarm your foes.
 
 **Normal**: You must perform a disarm combat maneuver to disarm an opponent.
 
-**Special**: You can only apply the effects of one of the following feats to a given critical hit: Bull Rush Strike, Disarming Strike, Repositioning Strike, Sundering Strike, or Tripping Strike. You may choose to use this feat after you make your confirmation roll.
+**Special**: You can only apply the effects of one of the following feats to a given critical hit: [Bull Rush Strike](bull-rush-strike.md), Disarming Strike, [Repositioning Strike](repositioning-strike.md), [Sundering Strike](sundering-strike.md), or [Tripping Strike](tripping-strike.md). You may choose to use this feat after you make your confirmation roll.
 
 ??? note "Original prerequisites"
 

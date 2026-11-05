@@ -8,4 +8,4 @@
 **Duration** concentration + 2 rounds  
 **Saving Throw** Will disbelief (if interacted with); **Spell Resistance** no
 
-This spell functions like *silent image*, except that *minor image* includes some minor sounds but not understandable speech.
+This spell functions like [*silent image*](silent-image.md), except that *minor image* includes some minor sounds but not understandable speech.

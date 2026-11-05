@@ -8,4 +8,4 @@
 **Duration** 1 round/level (D)  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions like *summon cacodaemon*, except that it summons 1d4+1 cacodaemons.
+This spell functions like [*summon cacodaemon*](summon-cacodaemon.md), except that it summons 1d4+1 cacodaemons.

@@ -8,4 +8,4 @@
 **Duration** 1 hour/level (D)  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions like *shield other*, except some of your wounds transfer to the targeted creature rather than some of their wounds transferring to you. For example, you could link yourself to a nearby chained slave so that when you are wounded, some of the damage is transferred to the slave. You must have at least as many hit dice as the target, otherwise the spell fails. A creature can only be under the effects of one instance of this spell at a time.
+This spell functions like [*shield other*](shield-other.md), except some of your wounds transfer to the targeted creature rather than some of their wounds transferring to you. For example, you could link yourself to a nearby chained slave so that when you are wounded, some of the damage is transferred to the slave. You must have at least as many hit dice as the target, otherwise the spell fails. A creature can only be under the effects of one instance of this spell at a time.

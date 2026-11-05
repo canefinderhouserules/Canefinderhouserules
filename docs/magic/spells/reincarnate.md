@@ -40,4 +40,4 @@ A creature that has been turned into an undead creature or killed by a death eff
 
 The reincarnated creature gains all abilities associated with its new form, including forms of movement and speeds, natural armor, natural attacks, extraordinary abilities, and the like, but it doesn’t automatically speak the language of the new form.
 
-A *wish* or a *miracle* spell can restore a reincarnated character to his or her original form.
+A [*wish*](wish.md) or a [*miracle*](miracle.md) spell can restore a reincarnated character to his or her original form.

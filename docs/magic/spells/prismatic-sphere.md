@@ -18,4 +18,4 @@ Typically, only the upper hemisphere of the globe exists, since you are at the c
 
 The colors of the sphere have the same effects as the colors of a *prismatic wall.*
 
-*Prismatic sphere* can be made permanent with a *permanency* spell.
+*Prismatic sphere* can be made permanent with a [*permanency*](permanency.md) spell.

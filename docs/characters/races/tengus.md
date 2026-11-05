@@ -142,5 +142,5 @@ Some tengu learn dazzling blade techniques that allow them to use their weapons 
 
 ## More Favored Class Options
 
-- **Kineticist**: Gain 1/6 of an Extra Wild Talent feat.
+- **Kineticist**: Gain 1/6 of an [Extra Wild Talent](../../rules/feats/extra-wild-talent.md) feat.
 

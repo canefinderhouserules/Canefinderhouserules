@@ -8,4 +8,4 @@
 **Duration** 1 round/3 levels  
 **Saving Throw** Will partial (see text); **Spell Resistance** yes
 
-This spell functions as *debilitating pain*, except you can target one creature for every 4 caster levels you have.
+This spell functions as [*debilitating pain*](debilitating-pain.md), except you can target one creature for every 4 caster levels you have.

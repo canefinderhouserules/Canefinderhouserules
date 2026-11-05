@@ -8,4 +8,4 @@
 **Duration** 1 hour/level (D)  
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions as tireless pursuit, except as noted above.
+This spell functions as [*tireless pursuit*](tireless-pursuit.md), except as noted above.

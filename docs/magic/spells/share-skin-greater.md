@@ -7,4 +7,4 @@
 **Target** one creature touched  
 **Duration** 1 minute/level or until you return to your body
 
-This spell functions like *share skin*, except that the target can be any creature touched, not only an animal.
+This spell functions like [*share skin*](share-skin.md), except that the target can be any creature touched, not only an animal.

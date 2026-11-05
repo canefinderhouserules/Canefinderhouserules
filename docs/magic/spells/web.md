@@ -16,4 +16,4 @@ If you have at least 5 feet of web between you and an opponent, it provides cove
 
 The strands of a *web* spell are flammable. A *flaming weapon* can slash them away as easily as a hand brushes away cobwebs. Any fire can set the webs alight and burn away one 5-foot square in 1 round. All creatures within flaming webs take 2d4 points of fire damage from the flames.
 
-*Web* can be made permanent with a *permanency* spell. A permanent web that is damaged (but not destroyed) regrows in 10 minutes.
+*Web* can be made permanent with a [*permanency*](permanency.md) spell. A permanent web that is damaged (but not destroyed) regrows in 10 minutes.

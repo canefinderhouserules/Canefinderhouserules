@@ -6,7 +6,7 @@ Your increased martial skill allows you to take advantage of distracted foes to 
 
 **Prerequisites**: [Cloak and Dagger Style](cloak-and-dagger-style.md), [Improved Dirty Trick](improved-dirty-trick.md), Weapon Focus with the chosen weapon, base attack bonus +11.
 
-**Benefit**: While you are using Cloak and Dagger Style and wielding your chosen weapon, whenever you make an attack of opportunity against a target, you can attempt a free dirty trick combat maneuver check against the target as a free action as well. Additionally, whenever you successfully perform a dirty trick maneuver against a target, you can immediately attempt a steal combat maneuver check against the target as a free action. If you succeed, the target is unaware you have stolen an item.
+**Benefit**: While you are using [Cloak and Dagger Style](cloak-and-dagger-style.md) and wielding your chosen weapon, whenever you make an attack of opportunity against a target, you can attempt a free dirty trick combat maneuver check against the target as a free action as well. Additionally, whenever you successfully perform a dirty trick maneuver against a target, you can immediately attempt a steal combat maneuver check against the target as a free action. If you succeed, the target is unaware you have stolen an item.
 
 ??? note "Original prerequisites"
 

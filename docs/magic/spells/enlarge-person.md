@@ -18,6 +18,6 @@ All equipment worn or carried by a creature is similarly enlarged by the spell. 
 
 Multiple magical effects that increase size do not stack.
 
-*Enlarge person* counters and dispels *reduce person*.
+*Enlarge person* counters and dispels [*reduce person*](reduce-person.md).
 
-*Enlarge person* can be made permanent with a *permanency* spell.
+*Enlarge person* can be made permanent with a [*permanency*](permanency.md) spell.

@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions as *spindrift spritz*, except as noted above.
+This spell functions as [*spindrift spritz*](spindrift-spritz.md), except as noted above.

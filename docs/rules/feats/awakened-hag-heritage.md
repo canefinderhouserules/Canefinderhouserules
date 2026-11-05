@@ -2,7 +2,7 @@
 
 Through ritual or force of will, you have awakened the latent power inherited from your hag mother.
 
-**Prerequisites**: Iron Will or Mother's Gift, changeling.
+**Prerequisites**: [Iron Will](iron-will.md) or Mother's Gift, changeling.
 
 **Benefit**: Your hag heritage racial abilities grow more powerful, granting you a +2 racial bonus on saving throws to resist arcane spells. You also gain a secondary ability that varies by your hag heritage; see the individual changeling heritage entries.
 

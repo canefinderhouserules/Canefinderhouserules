@@ -2,6 +2,6 @@
 
 You're destined for glory beyond the ken of ordinary adventurers and mere mortals.
 
-**Prerequisites**: [Great Fortitude](great-fortitude.md), [Iron Will](iron-will.md), or Lightning Reflexes.
+**Prerequisites**: [Great Fortitude](great-fortitude.md), [Iron Will](iron-will.md), or [Lightning Reflexes](lightning-reflexes.md).
 
 **Benefit**: You can use the surge ability once per day (adding 1d6}. If you are or become mythic, you can use your surge one additional time per day.

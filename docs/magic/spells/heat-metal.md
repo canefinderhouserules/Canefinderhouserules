@@ -24,4 +24,4 @@ On the first round of the spell, the metal becomes warm and uncomfortable to tou
 
 Any cold intense enough to damage the creature negates fire damage from the spell (and vice versa) on a point-for-point basis. If cast underwater, *heat metal* deals half damage and boils the surrounding water.
 
-*Heat metal* counters and dispels *chill metal*.
+*Heat metal* counters and dispels [*chill metal*](chill-metal.md).

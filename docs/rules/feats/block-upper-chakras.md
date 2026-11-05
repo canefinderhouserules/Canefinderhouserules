@@ -2,9 +2,9 @@
 
 You can block additional chakras.
 
-**Prerequisites**: Block Chakras*, Psychic Sensitivity or levels in an occult class, brawler's flurry or flurry of blows class feature, ki pool, character level 8th.
+**Prerequisites**: Block Chakras*, [Psychic Sensitivity](psychic-sensitivity.md) or levels in an occult class, brawler's flurry or flurry of blows class feature, ki pool, character level 8th.
 
-**Benefit**: When you use Block Chakras, you can also select from the heart, throat, brow, and crown chakras, as long as you can open the chosen chakra yourself, with the following effects.
+**Benefit**: When you use [Block Chakras](block-chakras.md), you can also select from the heart, throat, brow, and crown chakras, as long as you can open the chosen chakra yourself, with the following effects.
 
 **Heart**: The target can't recover hit points from any source for 1 minute. This prevents hit point recovery from fast healing and regeneration but doesn't deactivate regeneration altogether, so it does not allow a creature with regeneration to be killed through hit point damage. On a successful save, the target recovers only half as many hit points for 1 round.
 

@@ -4,7 +4,7 @@
 
 You have more panache than the ordinary swashbuckler.
 
-**Prerequisite**: Amateur Swashbuckler or panache class feature.
+**Prerequisite**: [Amateur Swashbuckler](amateur-swashbuckler.md) or panache class feature.
 
 **Benefit**: You gain two more panache points at the start of each day, and your maximum panache increases by two.
 

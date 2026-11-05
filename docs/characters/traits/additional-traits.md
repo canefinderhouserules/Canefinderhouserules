@@ -449,7 +449,7 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Scholar of Annotated Tomes**: You studied annotated collections of spells from a young age and became skilled at using magic written by others. You can cast [*read magic*](../../magic/spells/read-magic.md) as a spell-like ability three times per day, using your character level as your caster level.
 
-**Secret Scrolls**: You were inducted into a secret magical tradition. You can cast *read magic* once per day as a spell-like ability, and gain a +1 trait bonus on Use Magic Device checks to activate scrolls you cannot normally use.
+**Secret Scrolls**: You were inducted into a secret magical tradition. You can cast [*read magic*](../../magic/spells/read-magic.md) once per day as a spell-like ability, and gain a +1 trait bonus on Use Magic Device checks to activate scrolls you cannot normally use.
 
 **Self-Taught Scholar**: Being self-taught has made it necessary for you to scour all documentation you can get your hands on. You gain a +1 trait bonus on Linguistics checks to decipher unfamiliar languages, and Linguistics is always a class skill for you. In addition, you gain a +1 trait bonus on Spellcraft checks made to decipher the writing on a scroll.
 
@@ -579,7 +579,7 @@ Social traits reflect your upbringing; your background in high society or lack t
 
 **Lore Historian**: You believe there is much useful information to glean from the marks great figures left on history, and learn all you can about their exploits and teachings. This has given you significant insights on how different kinds of information are interconnected. If you fail a Knowledge (arcana, history, or religion) check, you can reroll the check 1 round later using your bonus for one of the other two skills.
 
-**Mediator**: You have a way with calming tempers, using cool logic to soothe heated disagreements. You receive a +1 trait bonus on Diplomacy checks. In addition, you receive a +1 trait bonus to the DC of any charm or compulsion effect that does not provide ongoing control and results in peaceful acts, such as [*calm emotions*](../../magic/spells/calm-emotions.md), [*sleep*](../../magic/spells/sleep.md), or a *suggestion* to lay down arms.
+**Mediator**: You have a way with calming tempers, using cool logic to soothe heated disagreements. You receive a +1 trait bonus on Diplomacy checks. In addition, you receive a +1 trait bonus to the DC of any charm or compulsion effect that does not provide ongoing control and results in peaceful acts, such as [*calm emotions*](../../magic/spells/calm-emotions.md), [*sleep*](../../magic/spells/sleep.md), or a [*suggestion*](../../magic/spells/suggestion.md) to lay down arms.
 
 **Mentored**: A tutor or private instructor guided you in learning your art, profession, or trade, and through your education, you became capable of teaching and guiding others. Choose a single Craft, Perform, or Profession skill. You gain a +1 trait bonus on checks with that skill. You also gain a +1 trait bonus when you aid another’s skill check with any skill.
 

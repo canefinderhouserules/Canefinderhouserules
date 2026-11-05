@@ -8,4 +8,4 @@
 **Duration** 10 min./level (D)  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions like water walk, except you divide the duration in 10-minute intervals among the creatures touched.
+This spell functions like [*water walk*](water-walk.md), except you divide the duration in 10-minute intervals among the creatures touched.

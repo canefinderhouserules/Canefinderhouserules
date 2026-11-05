@@ -10,4 +10,4 @@
 
 Cast this spell once to mark a place, then cast it a second time to return to the marked place. It has a maximum distance of 100 miles per caster level.
 
-The mark lasts forever or until you place it somewhere else, but it can be detected with *detect magic* and altered or erased.
+The mark lasts forever or until you place it somewhere else, but it can be detected with [*detect magic*](detect-magic.md) and altered or erased.

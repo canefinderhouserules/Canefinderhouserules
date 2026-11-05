@@ -4,6 +4,6 @@
 
 You have turned your deep knowledge of creating tattoos from summoned creatures into an offensive weapon.
 
-**Prerequisites**: Inscribe Magical Tattoo; Tattoo Attunement; Spellcraft 15 ranks; ability to cast control summoned creature.
+**Prerequisites**: [Inscribe Magical Tattoo](inscribe-magical-tattoo.md); [Tattoo Attunement](tattoo-attunement.md); Spellcraft 15 ranks; ability to cast control summoned creature.
 
 **Benefit**: Once per day as a standard action that provokes attacks of opportunity, you can make a melee touch attack against a summoned creature to transform it into a magical tattoo on your body as per Tattoo Attunement. When you later transform the creature from tattoo to creature form, you can attempt an opposed Spellcraft check against the creature's original summoner; if that summoner is unconscious or dead, you automatically succeed at the check. If you succeed, the creature must succeed at a Will save (DC = 10 + your caster level) or treat you as the caster of the spell that originally summoned it for the remaining duration of the spell. This is a supernatural ability.

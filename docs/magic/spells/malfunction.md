@@ -8,4 +8,4 @@
 **Duration** 1 round/level (D)  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-This functions as confusion, except it only affects constructs, and instead of babbling incoherently, the construct takes no actions on its turn (but may still make attacks of opportunity).
+This functions as [*confusion*](confusion.md), except it only affects constructs, and instead of babbling incoherently, the construct takes no actions on its turn (but may still make attacks of opportunity).

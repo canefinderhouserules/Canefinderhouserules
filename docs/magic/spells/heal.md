@@ -12,4 +12,4 @@
 
 *Heal* does not remove negative levels or restore permanently drained ability score points.
 
-If used against an undead creature, *heal* instead acts like *harm*.
+If used against an undead creature, *heal* instead acts like [*harm*](harm.md).

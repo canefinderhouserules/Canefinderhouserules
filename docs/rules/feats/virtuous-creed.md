@@ -4,7 +4,7 @@ You accept a creed to guide your destiny toward good.
 
 **Prerequisite**: You must be good.
 
-**Benefit**: Select one of the following virtues. You must adhere to that virtue’s creed in order to benefit from its bonus. If you break any part of the creed, you are unable to gain the benefits from that virtue for 24 hours. Significant violations require *atonement* for you to be able to benefit from this feat again.
+**Benefit**: Select one of the following virtues. You must adhere to that virtue’s creed in order to benefit from its bonus. If you break any part of the creed, you are unable to gain the benefits from that virtue for 24 hours. Significant violations require [*atonement*](../../magic/spells/atonement.md) for you to be able to benefit from this feat again.
 
 **Special**: You can gain this feat multiple times. Each time you take this feat, you must choose a new virtue.
 

@@ -24,9 +24,9 @@ You also can attune any number of creatures to the *symbol of* *death,* but doin
 
 *Read magic* allows you to identify a *symbol* with a Spellcraft check (DC 10 + the *symbol’s* spell level). Of course, if the *symbol* is set to be triggered by reading it, this will trigger the symbol.
 
-A *symbol of death* can be removed by a successful *dispel magic* targeted solely on the rune. An *erase* spell has no effect on a *symbol* *of death.* Destruction of the surface where a *symbol of death* is inscribed destroys the *symbol* but also triggers it.
+A *symbol of death* can be removed by a successful [*dispel magic*](dispel-magic.md) targeted solely on the rune. An [*erase*](erase.md) spell has no effect on a *symbol* *of death.* Destruction of the surface where a *symbol of death* is inscribed destroys the *symbol* but also triggers it.
 
-*Symbol of death* can be made permanent with a *permanency* spell. A permanent *symbol of death* that is disabled or has affected its maximum number of hit points becomes inactive for 10 minutes, but then can be triggered again as normal.
+*Symbol of death* can be made permanent with a [*permanency*](permanency.md) spell. A permanent *symbol of death* that is disabled or has affected its maximum number of hit points becomes inactive for 10 minutes, but then can be triggered again as normal.
 
 *Note*: Magic traps such as *symbol of death* are hard to detect and disable. A character with trapfinding can use the Perception skill to find a *symbol of death* and Disable Device to thwart it. The DC in each case is 25 + spell level, or 33 for *symbol of death*.
 

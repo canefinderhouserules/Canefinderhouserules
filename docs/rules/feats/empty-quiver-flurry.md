@@ -6,6 +6,6 @@ You can use your ranged weapons to make melee attacks that keep foes at bay as y
 
 **Prerequisites**: [Empty Quiver Flexibility](empty-quiver-flexibility.md), [Empty Quiver Style](empty-quiver-style.md), [Rapid Shot](rapid-shot.md), [Stabbing Shot](stabbing-shot.md), Weapon Focus with the chosen weapon.
 
-**Benefit**: While using Empty Quiver Style or Stabbing Shot to make melee attacks with a ranged weapon, if you successfully hit a foe, any ranged attacks you make with the same weapon until the beginning of your next turn do not provoke attacks of opportunity from that foe.
+**Benefit**: While using [Empty Quiver Style](empty-quiver-style.md) or [Stabbing Shot](stabbing-shot.md) to make melee attacks with a ranged weapon, if you successfully hit a foe, any ranged attacks you make with the same weapon until the beginning of your next turn do not provoke attacks of opportunity from that foe.
 
-**Special**: If you have the Rapid Reload feat in addition to this feat, your chosen weapon is a crossbow or firearm, that weapon is unloaded, and you successfully hit a foe in melee with it, you can automatically load it as a free action.
+**Special**: If you have the [Rapid Reload](rapid-reload.md) feat in addition to this feat, your chosen weapon is a crossbow or firearm, that weapon is unloaded, and you successfully hit a foe in melee with it, you can automatically load it as a free action.

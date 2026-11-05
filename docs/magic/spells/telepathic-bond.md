@@ -12,4 +12,4 @@ You forge a telepathic bond among yourself and a number of willing creatures, ea
 
 If desired, you may leave yourself out of the telepathic bond forged. This decision must be made at the time of casting.
 
-*Telepathic bond* can be made permanent with a *permanency* spell, though it only bonds two creatures per casting of *permanency*.
+*Telepathic bond* can be made permanent with a [*permanency*](permanency.md) spell, though it only bonds two creatures per casting of *permanency*.

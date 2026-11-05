@@ -6,4 +6,4 @@ After misdirecting your opponent’s weapon attack, you leave your opponent open
 
 **Prerequisites**: Int 13, [Combat Expertise](combat-expertise.md), [Deceitful](deceitful.md), [Misdirection Redirection](misdirection-redirection.md), [Misdirection Tactics](misdirection-tactics.md), Bluff 10 ranks.
 
-**Benefit**: When you successfully use the Misdirection Tactics feat to negate a melee weapon attack, the opponent whose attack you negated provokes an attack of opportunity from you, even though you normally can’t take attacks of opportunity while using the total defense action. This effect is in addition to the effect gained from Misdirection Redirection.
+**Benefit**: When you successfully use the [Misdirection Tactics](misdirection-tactics.md) feat to negate a melee weapon attack, the opponent whose attack you negated provokes an attack of opportunity from you, even though you normally can’t take attacks of opportunity while using the total defense action. This effect is in addition to the effect gained from [Misdirection Redirection](misdirection-redirection.md).

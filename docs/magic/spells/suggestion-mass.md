@@ -8,4 +8,4 @@
 **Duration** 1 hour/level or until completed  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions like *suggestion*, except that it can affect more creatures. The same *suggestion* applies to all these creatures.
+This spell functions like [*suggestion*](suggestion.md), except that it can affect more creatures. The same *suggestion* applies to all these creatures.

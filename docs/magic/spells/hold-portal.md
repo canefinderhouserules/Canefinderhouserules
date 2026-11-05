@@ -8,6 +8,6 @@
 **Duration** 1 min./level (D)  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell magically holds shut a door, gate, window, or shutter of wood, metal, or stone. The magic affects the portal just as if it were securely closed and normally locked. A *knock* spell or a successful *dispel magic* spell can negate a *hold portal* spell.
+This spell magically holds shut a door, gate, window, or shutter of wood, metal, or stone. The magic affects the portal just as if it were securely closed and normally locked. A [*knock*](knock.md) spell or a successful [*dispel magic*](dispel-magic.md) spell can negate a *hold portal* spell.
 
 Add 5 to the normal DC for forcing open a portal affected by this spell.

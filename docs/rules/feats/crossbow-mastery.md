@@ -6,6 +6,6 @@ You can load crossbows with blinding speed and even fire them in melee with litt
 
 **Prerequisites**: Dex 15, [Point-Blank Shot](point-blank-shot.md), [Rapid Reload](rapid-reload.md), [Rapid Shot](rapid-shot.md).
 
-**Benefit**: The time required for you to reload any type of crossbow is reduced to a free action, regardless of the type of crossbow used. You can fire a crossbow as many times in a full attack action as you could attack if you were using a bow. Reloading a crossbow for the type of crossbow you chose when you took Rapid Reload no longer provokes attacks of opportunity.
+**Benefit**: The time required for you to reload any type of crossbow is reduced to a free action, regardless of the type of crossbow used. You can fire a crossbow as many times in a full attack action as you could attack if you were using a bow. Reloading a crossbow for the type of crossbow you chose when you took [Rapid Reload](rapid-reload.md) no longer provokes attacks of opportunity.
 
 **Special**: Starting at 6th level, a ranger with the archery combat style may select Crossbow Mastery as a combat style feat.

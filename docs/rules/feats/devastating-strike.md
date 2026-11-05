@@ -6,4 +6,4 @@ Pitting all of your strength and resolve against your enemy, you deliver a strik
 
 **Prerequisites**: [Vital Strike](vital-strike.md), base attack bonus +9.
 
-**Benefit**: Whenever you use Vital Strike, Improved Vital Strike, or Greater Vital Strike, you gain a +2 bonus on each extra weapon damage dice roll those feats grant (+6 maximum). This bonus damage is multiplied on a critical hit.
+**Benefit**: Whenever you use [Vital Strike](vital-strike.md), [Improved Vital Strike](improved-vital-strike.md), or [Greater Vital Strike](greater-vital-strike.md), you gain a +2 bonus on each extra weapon damage dice roll those feats grant (+6 maximum). This bonus damage is multiplied on a critical hit.

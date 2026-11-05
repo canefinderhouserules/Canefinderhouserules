@@ -8,4 +8,4 @@
 **Duration** 2 hours/level (D)  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions like mount, except you can summon up to six light horses or ponies, and you divide the duration in 2-hour increments among the steeds summoned.
+This spell functions like [*mount*](mount.md), except you can summon up to six light horses or ponies, and you divide the duration in 2-hour increments among the steeds summoned.

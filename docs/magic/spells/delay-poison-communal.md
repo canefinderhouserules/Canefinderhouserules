@@ -8,4 +8,4 @@
 **Duration** 1 hour/level  
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions like delay poison, except you divide the duration in 1-hour intervals among the creatures touched.
+This spell functions like [*delay poison*](delay-poison.md), except you divide the duration in 1-hour intervals among the creatures touched.

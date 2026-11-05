@@ -8,6 +8,6 @@
 **Duration** 10 minutes/level (D)  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions as *heroism*, except that you can reverse the spell by issuing a special command as a standard action if you are within medium range (100 feet + 10 feet per caster level) of the target. The target loses the bonuses and instead takes a –2 penalty on attack rolls, saving throws, and skill checks until the spell’s duration ends (no save).
+This spell functions as [*heroism*](heroism.md), except that you can reverse the spell by issuing a special command as a standard action if you are within medium range (100 feet + 10 feet per caster level) of the target. The target loses the bonuses and instead takes a –2 penalty on attack rolls, saving throws, and skill checks until the spell’s duration ends (no save).
 
 Attempts to identify *hollow heroism* with a skill check incorrectly identify it as *heroism* (see the ruse descriptor).

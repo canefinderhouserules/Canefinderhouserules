@@ -7,4 +7,4 @@
 **Target** you  
 **Duration** 1 round/level (D)
 
-This functions as fire shield, except it wreathes you in yellow or green acidic mist instead of hot or cold flames. The spell deals acid damage to attackers and protects you against acid damage. This spell does not shed light.
+This functions as [*fire shield*](fire-shield.md), except it wreathes you in yellow or green acidic mist instead of hot or cold flames. The spell deals acid damage to attackers and protects you against acid damage. This spell does not shed light.

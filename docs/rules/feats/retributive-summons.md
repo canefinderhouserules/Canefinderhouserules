@@ -4,4 +4,4 @@ Your training in counterspelling summons is so extensive that you can redirect s
 
 **Prerequisites**: Spell Focus (conjuration).
 
-**Benefit**: When you successfully counter a summoning spell with *dispel magic* or your own *summon monster* spell, you can immediately summon nonevil creatures as if you had just finished casting a *summon monster* spell of 2 levels lower than the countered summoning spell.
+**Benefit**: When you successfully counter a summoning spell with [*dispel magic*](../../magic/spells/dispel-magic.md) or your own *summon monster* spell, you can immediately summon nonevil creatures as if you had just finished casting a *summon monster* spell of 2 levels lower than the countered summoning spell.

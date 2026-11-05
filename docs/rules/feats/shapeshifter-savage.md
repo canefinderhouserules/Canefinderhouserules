@@ -6,6 +6,6 @@ You have enough control over your transformations that you can lash out at an op
 
 **Prerequisites**: Shapeshifter Style*, Shapeshifter Twist*, base attack bonus +8, change shape ability, shapechanger subtype.
 
-**Benefit**: While you are using Shapeshifter Style, if you use your change shape or wild shape ability as a standard action, you can also make a single melee attack with one of your natural weapons at your highest base attack bonus against one foe within your reach.
+**Benefit**: While you are using [Shapeshifter Style](shapeshifter-style.md), if you use your change shape or wild shape ability as a standard action, you can also make a single melee attack with one of your natural weapons at your highest base attack bonus against one foe within your reach.
 
 **Special**: A character with the wild shape class feature counts as having the change shape ability and shapechanger subtype for the purpose of meeting this feat's prerequisites.

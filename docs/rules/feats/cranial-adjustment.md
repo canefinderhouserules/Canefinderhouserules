@@ -2,8 +2,8 @@
 
 You have learned to manually adjust the plates that make up the skull, inducing altered states in your subjects.
 
-**Prerequisites**: Deft Hands or Trepanation.
+**Prerequisites**: [Deft Hands](deft-hands.md) or Trepanation.
 
-**Benefit**: You can perform the hypnotism occult skill unlock even if you can't use psychic magic. If you can cast psychic spells or have the Psychic Sensitivity feat, you can use hypnotism one additional time per day. You can use the Sleight of Hand skill in place of Diplomacy to hypnotize a subject, but doing so requires 10 minutes of contact with the target's skull.
+**Benefit**: You can perform the hypnotism occult skill unlock even if you can't use psychic magic. If you can cast psychic spells or have the [Psychic Sensitivity](psychic-sensitivity.md) feat, you can use hypnotism one additional time per day. You can use the Sleight of Hand skill in place of Diplomacy to hypnotize a subject, but doing so requires 10 minutes of contact with the target's skull.
 
 You can perform an adjustment that takes 1 hour to access the deeper recesses of a target's emotional mind, either granting the target a +2 bonus or imposing a –2 penalty on the target's saving throws against mind-affecting emotion effects for 24 hours.

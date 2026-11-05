@@ -22,4 +22,4 @@ Saving throws and spell resistance might apply to these spells’ effects. (See 
 
 An area can receive only one *unhallow* spell (and its associated spell effect) at a time.
 
-*Unhallow* counters but does not dispel *hallow*.
+*Unhallow* counters but does not dispel [*hallow*](hallow.md).

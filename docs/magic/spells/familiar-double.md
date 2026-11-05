@@ -8,4 +8,4 @@
 **Duration** 1 round/level (D)  
 **Saving Throw** Will disbelief (if interacted with); **Spell Resistance** no
 
-This spell functions as project image, except the image appears in your familiar’s square and moves when your familiar moves.
+This spell functions as [*project image*](project-image.md), except the image appears in your familiar’s square and moves when your familiar moves.

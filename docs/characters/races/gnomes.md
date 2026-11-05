@@ -76,13 +76,13 @@ The following racial traits might be selected instead of existing racial traits.
 
 The following racial traits represent a fey ancestor in the family line. They can be selected instead of the indicated racial traits. Consult your GM before selecting any of these options.
 
-**Fey-Tongued**: Gnomes with this trait gain [*haunted fey aspect*](../../magic/spells/haunted-fey-aspect.md) and [*speak with plants*](../../magic/spells/speak-with-plants.md) instead of [*dancing lights*](../../magic/spells/dancing-lights.md) and *speak with animals* as spell-like abilities from the gnome magic racial trait. This racial trait alters the gnome magic racial trait.
+**Fey-Tongued**: Gnomes with this trait gain [*haunted fey aspect*](../../magic/spells/haunted-fey-aspect.md) and [*speak with plants*](../../magic/spells/speak-with-plants.md) instead of [*dancing lights*](../../magic/spells/dancing-lights.md) and [*speak with animals*](../../magic/spells/speak-with-animals.md) as spell-like abilities from the gnome magic racial trait. This racial trait alters the gnome magic racial trait.
 
 **Nosophobia**: Gnomes are humanoid, rather than fey, and are therefore not particularly susceptible to contagions that afflict the fey of corrupted wilds. Nevertheless, many gnomes grow up fearing such taint and are obsessive about training their bodies to stave off illness of all kinds. These gnomes gain a +4 bonus on Fortitude saves against disease and poison, including magical diseases. This racial trait replaces obsessive.
 
 **Bleachling**: Gnomes who have survived the Bleaching (the wasting affliction that drains color and eventually life from gnomes who do not regularly experience new things) are immune to the effects of the Bleaching thereafter. Such "bleachlings" are calm and centered, as if having discovered some truth or made a deep connection with the natural world. These gnomes gain two favored classes: druid, and their choice of any other class. They lose all spell-like abilities granted by the gnome magic racial trait except *speak with animals*, but they can use their *speak with animals* spell-like ability three times per day. This racial trait replaces obsessive and alters gnome magic. Bleachlings have access to the [Eerily Centered](../../rules/feats/eerily-centered.md) and [Wild Speaker](../../rules/feats/wild-speaker.md) feats.
 
-**Genial Magic**: Gnomes with this racial trait add 1 to the DC of saving throws against enchantment spells that they cast. Gnomes with Charisma scores of 11 or higher also gain the following spell-like abilities: 1/day—[*charm person*](../../magic/spells/charm-person.md), [*guidance*](../../magic/spells/guidance.md), [*message*](../../magic/spells/message.md), and *prestidigitation*. The caster level for these effects is equal to the gnome's level. The DC for these spells is equal to 10 + the spell's level + the gnome's Charisma modifier. This racial trait replaces gnome magic.
+**Genial Magic**: Gnomes with this racial trait add 1 to the DC of saving throws against enchantment spells that they cast. Gnomes with Charisma scores of 11 or higher also gain the following spell-like abilities: 1/day—[*charm person*](../../magic/spells/charm-person.md), [*guidance*](../../magic/spells/guidance.md), [*message*](../../magic/spells/message.md), and [*prestidigitation*](../../magic/spells/prestidigitation.md). The caster level for these effects is equal to the gnome's level. The DC for these spells is equal to 10 + the spell's level + the gnome's Charisma modifier. This racial trait replaces gnome magic.
 
 ### Draconic Alternate Racial Traits
 
@@ -100,7 +100,7 @@ Gnomes are a wildly varied and independent race. The following alternate racial 
 
 **Fey Fortitude**: Gnomes with this racial trait are infused with a connection to life. They gain a +2 racial bonus on saves to resist death effects. This replaces weapon familiarity.
 
-**Fey Magic**: Gnomes with this racial trait increase the DC of spells of the compulsion subschool they cast by 1. Additionally, if the gnome has a Charisma score of 11 or higher, she also gains the following spell-like abilities: 1/day—*charm person*, *dancing lights*, [*entangle*](../../magic/spells/entangle.md), and *prestidigitation*. The caster level for these effects is equal to the gnome's level. The DC for these spells is equal to 10 + the spell's level + the gnome's Charisma modifier. This replaces gnome magic, illusion resistance, and obsessive.
+**Fey Magic**: Gnomes with this racial trait increase the DC of spells of the compulsion subschool they cast by 1. Additionally, if the gnome has a Charisma score of 11 or higher, she also gains the following spell-like abilities: 1/day—[*charm person*](../../magic/spells/charm-person.md), [*dancing lights*](../../magic/spells/dancing-lights.md), [*entangle*](../../magic/spells/entangle.md), and *prestidigitation*. The caster level for these effects is equal to the gnome's level. The DC for these spells is equal to 10 + the spell's level + the gnome's Charisma modifier. This replaces gnome magic, illusion resistance, and obsessive.
 
 **Nature Affinity**: Gnomes with this racial trait gain a +2 racial bonus on Fortitude saves against diseases and poisons inflicted by fey, plants, and forest-related hazards. This replaces keen senses.
 
@@ -193,7 +193,7 @@ While most gnomes who undergo the harrowing process of the Bleaching physically 
 
 ### Dirty Trickster
 
-All gnomes love pranks, but some specialize in those improvised during battle. These gnomes gain a +2 racial bonus on dirty trick combat maneuvers. They need not meet the Intelligence requirement to select [Combat Expertise](../../rules/feats/combat-expertise.md), [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md), and any feat with Improved Dirty Trick as a prerequisite. This racial trait replaces defensive training, hatred, and keen senses.
+All gnomes love pranks, but some specialize in those improvised during battle. These gnomes gain a +2 racial bonus on dirty trick combat maneuvers. They need not meet the Intelligence requirement to select [Combat Expertise](../../rules/feats/combat-expertise.md), [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md), and any feat with [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md) as a prerequisite. This racial trait replaces defensive training, hatred, and keen senses.
 
 ### Dread Gnomes
 

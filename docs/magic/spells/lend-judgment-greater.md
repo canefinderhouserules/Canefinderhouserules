@@ -10,4 +10,4 @@
 
 (harmless)
 
-This functions as lend judgment, except the ally gains the benefit of all your active judgments.
+This functions as [*lend judgment*](lend-judgment.md), except the ally gains the benefit of all your active judgments.

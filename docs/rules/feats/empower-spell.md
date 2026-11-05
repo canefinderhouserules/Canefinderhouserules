@@ -4,7 +4,7 @@
 
 You can increase the power of your spells, causing them to deal more damage.
 
-**Benefit**: Increases the spell's effective caster level by 2, ignoring caps (a 10d6 *fireball* becomes 12d6); the spell's DC by +2; negative levels and ability damage dice by +1; fixed (positive) ability score effects by +2; and skill effects and other minor effects by +4–5. Only 2 of these may be applied at a time.
+**Benefit**: Increases the spell's effective caster level by 2, ignoring caps (a 10d6 [*fireball*](../../magic/spells/fireball.md) becomes 12d6); the spell's DC by +2; negative levels and ability damage dice by +1; fixed (positive) ability score effects by +2; and skill effects and other minor effects by +4–5. Only 2 of these may be applied at a time.
 
 **Level Increase**: +1
 

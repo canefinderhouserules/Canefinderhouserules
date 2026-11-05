@@ -8,4 +8,4 @@ Your critical hit from a spell or spell-like ability afflicts the target with a 
 
 **Benefit**: Whenever you confirm a critical hit with a touch spell, ranged touch spell, or spell-like ability against an opponent, the victim gains a random major spellblight.
 
-**Special**: You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.
+**Special**: You can only apply the effects of one critical feat to a given critical hit unless you possess [Critical Mastery](critical-mastery.md).

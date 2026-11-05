@@ -8,4 +8,4 @@
 **Duration** 1 minute/level  
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions as shield of fortification, except there is a 50% chance that the critical hit or sneak attack is negated and damage is instead be rolled normally, rather than 25%.
+This spell functions as [*shield of fortification*](shield-of-fortification.md), except there is a 50% chance that the critical hit or sneak attack is negated and damage is instead be rolled normally, rather than 25%.

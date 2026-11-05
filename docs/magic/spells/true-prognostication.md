@@ -7,4 +7,4 @@
 **Target** you  
 **Duration** instantaneous
 
-*True prognostication* functions as *divination* except that the spell can see up to 100 years into the future. Because of the extreme unpredictability of the far-distant future, *true prognostication* is incredibly cryptic when used to learn about events on such large a scale.
+*True prognostication* functions as [*divination*](divination.md) except that the spell can see up to 100 years into the future. Because of the extreme unpredictability of the far-distant future, *true prognostication* is incredibly cryptic when used to learn about events on such large a scale.

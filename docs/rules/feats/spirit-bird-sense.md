@@ -4,4 +4,4 @@ Even the lowliest psychopomp can sniff out the undead. A whippoorwill in a papie
 
 **Prerequisites**: Duskwalker.
 
-**Benefit**: You can cast *detect undead* as a spell-like ability at will. Your caster level for the purpose of this effect is equal to your character level.
+**Benefit**: You can cast [*detect undead*](../../magic/spells/detect-undead.md) as a spell-like ability at will. Your caster level for the purpose of this effect is equal to your character level.

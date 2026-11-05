@@ -28,11 +28,11 @@ Duergar dwell in subterranean caverns far from the touch of light. They detest a
 
 The following racial traits may be selected instead of existing duergar racial traits. Consult your GM before selecting any of these new options.
 
-**Blood Enmity**: Duergar have long warred against their dwarven cousins and the hated drow. Duergar with this racial trait receive a +1 racial bonus on attack rolls against humanoid creatures of the dwarf or elf subtypes. This racial trait replaces the *invisibility* spell-like ability.
+**Blood Enmity**: Duergar have long warred against their dwarven cousins and the hated drow. Duergar with this racial trait receive a +1 racial bonus on attack rolls against humanoid creatures of the dwarf or elf subtypes. This racial trait replaces the [*invisibility*](../../magic/spells/invisibility.md) spell-like ability.
 
 **Daysighted**: The cruel light of the sun harms some duergar less than others. Such duergar lack the light sensitivity racial trait, but have darkvision of only 60 feet.
 
-**Deep Magic**: Duergar spellcasters labor long to overcome the inborn spell resistance held by so many of their underground foes. Duergar with this racial trait receive a +2 racial bonus on caster level checks made to overcome spell resistance and a +2 racial bonus on dispel checks. This racial trait replaces the *enlarge person* and *invisibility* spell-like abilities.
+**Deep Magic**: Duergar spellcasters labor long to overcome the inborn spell resistance held by so many of their underground foes. Duergar with this racial trait receive a +2 racial bonus on caster level checks made to overcome spell resistance and a +2 racial bonus on dispel checks. This racial trait replaces the [*enlarge person*](../../magic/spells/enlarge-person.md) and *invisibility* spell-like abilities.
 
 **Dwarf Traits**: Duergar can select any dwarf racial trait that replaces stability. They can select dwarf racial traits that replace the hardy dwarf racial trait by giving up duergar immunities instead.
 

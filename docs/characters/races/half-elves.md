@@ -225,7 +225,7 @@ While most think of people with one human and one elven parent when they think o
 
 ### Mordant Envoy
 
-Sea-Spire-born add +1 to the caster level of any transmutation spells they cast. Sea-Spire-born with a Charisma score of 11 or higher also gain the following spell-like abilities: 1/day—*comprehend languages*, *detect secret doors*, *erase*, and *read magic*. The caster level for these effects is equal to the Sea-Spire-born’s character level.
+Sea-Spire-born add +1 to the caster level of any transmutation spells they cast. Sea-Spire-born with a Charisma score of 11 or higher also gain the following spell-like abilities: 1/day—[*comprehend languages*](../../magic/spells/comprehend-languages.md), [*detect secret doors*](../../magic/spells/detect-secret-doors.md), [*erase*](../../magic/spells/erase.md), and [*read magic*](../../magic/spells/read-magic.md). The caster level for these effects is equal to the Sea-Spire-born’s character level.
 
 This replaces adaptability.
 
@@ -235,7 +235,7 @@ the sea-spire elves and humans almost never meet by accident. Their offspring, t
 
 ### Psychic Sensitivity
 
-The underworld is full of strange energies, and the drow or half-drow who live there practice bloody rituals in exchange for favor and power. Drow or half-elves with this trait gain the Psychic Sensitivity feat, gaining access to occult skill unlocks normally only available to psychic spellcasters. This racial trait replaces keen senses for drow and half-elves and drow immunities for drow or elven immunities for half-elves.
+The underworld is full of strange energies, and the drow or half-drow who live there practice bloody rituals in exchange for favor and power. Drow or half-elves with this trait gain the [Psychic Sensitivity](../../rules/feats/psychic-sensitivity.md) feat, gaining access to occult skill unlocks normally only available to psychic spellcasters. This racial trait replaces keen senses for drow and half-elves and drow immunities for drow or elven immunities for half-elves.
 
 ### Reflexive Improvisation
 

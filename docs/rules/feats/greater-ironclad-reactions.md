@@ -6,4 +6,4 @@ You are able to quickly react to attacks.
 
 **Prerequisites**: [Combat Reflexes](combat-reflexes.md), [Ironclad Reactions](ironclad-reactions.md), base attack bonus +11 or fighter level 8th, armor training class feature, proficiency with medium armor.
 
-**Benefit**: You can use Ironclad Reactions more than once per round, but not more than once for each act you take that provokes an attack of opportunity. Each 5-foot step you take still counts as expending one use of an attack of opportunity.
+**Benefit**: You can use [Ironclad Reactions](ironclad-reactions.md) more than once per round, but not more than once for each act you take that provokes an attack of opportunity. Each 5-foot step you take still counts as expending one use of an attack of opportunity.

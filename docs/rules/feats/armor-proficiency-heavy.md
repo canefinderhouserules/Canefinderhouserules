@@ -4,9 +4,9 @@
 
 You are skilled at wearing heavy armor.
 
-**Prerequisites**: Light Armor Proficiency, Medium Armor Proficiency.
+**Prerequisites**: Light [Armor Proficiency, Medium](armor-proficiency-medium.md) Armor Proficiency.
 
-**Benefit**: See Armor Proficiency, Light.
+**Benefit**: See [Armor Proficiency, Light](armor-proficiency-light.md).
 
 **Normal**: See Armor Proficiency, Light.
 

@@ -7,4 +7,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Fortitude partial; **Spell Resistance** yes
 
-This spell functions as suffocation except as noted above. Note that the duration of this spell is much longer, forcing those suffering from the effect to make far more Fortitude saves to stave off eventual suffocation.
+This spell functions as [*suffocation*](suffocation.md) except as noted above. Note that the duration of this spell is much longer, forcing those suffering from the effect to make far more Fortitude saves to stave off eventual suffocation.

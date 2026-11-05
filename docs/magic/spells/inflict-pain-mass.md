@@ -7,4 +7,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Will partial, see text; **Spell Resistance** yes
 
-This spell functions like inflict pain except as noted above.
+This spell functions like [*inflict pain*](inflict-pain.md) except as noted above.

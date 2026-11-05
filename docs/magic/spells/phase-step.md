@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** none; **Spell Resistance** yes (harmless)
 
-You instantly transfer the touched creature to a point you designate within range. This otherwise functions as the spell *dimension door*, except that you must have line of sight and line of effect to the target's destination for this spell's effects to properly function.
+You instantly transfer the touched creature to a point you designate within range. This otherwise functions as the spell [*dimension door*](dimension-door.md), except that you must have line of sight and line of effect to the target's destination for this spell's effects to properly function.

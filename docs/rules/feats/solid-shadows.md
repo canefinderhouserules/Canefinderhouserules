@@ -6,7 +6,7 @@ Your shadowy illusions are more potent.
 
 **Prerequisites**: Spell Focus (illusion).
 
-**Benefit**: When casting *greater shadow conjuration*, *greater shadow evocation*, *shadow conjuration*, or *shadow evocation* (and, at the GM's discretion, any similar spell with the shadow descriptor that mimics a spell of another school), that spell is 20% more real than normal.
+**Benefit**: When casting *greater shadow conjuration*, *greater shadow evocation*, [*shadow conjuration*](../../magic/spells/shadow-conjuration.md), or [*shadow evocation*](../../magic/spells/shadow-evocation.md) (and, at the GM's discretion, any similar spell with the shadow descriptor that mimics a spell of another school), that spell is 20% more real than normal.
 
 **Level Increase**: +1
 

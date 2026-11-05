@@ -824,7 +824,7 @@ These traits suit characters from a wild frontier dotted with ancient monuments,
 
 **Empyreal Cultist (City of monuments native)**: Your faith in the empyreal lords—a host of good demigods—and your fascination with the legendary angel watching over your city have you constantly on the hopeful lookout for celestial messengers. Choose an empyreal lord as your patron deity. You gain Celestial as a bonus language and a +1 trait bonus on Diplomacy checks when dealing with good-aligned humanoids.
 
-**Humble Beginnings (Frontier native)**: You didn’t have any intention of becoming an adventurer, but a single, unexpected confrontation changed everything. Choose one of the following: boot, bucket, frying pan, mug, rolling pin, spade, or stool. You are treated as having the Catch Off-Guard feat when wielding the chosen item. (These items should all be considered improvised melee weapons that deal 1d4 points of bludgeoning damage.)
+**Humble Beginnings (Frontier native)**: You didn’t have any intention of becoming an adventurer, but a single, unexpected confrontation changed everything. Choose one of the following: boot, bucket, frying pan, mug, rolling pin, spade, or stool. You are treated as having the [Catch Off-Guard](../../rules/feats/catch-off-guard.md) feat when wielding the chosen item. (These items should all be considered improvised melee weapons that deal 1d4 points of bludgeoning damage.)
 
 **Local Know-It-All (Frontier native)**: Choose a community that you’ve lived in for at least 5 years. You gain a +2 trait bonus on Knowledge (local) checks related to that community.
 

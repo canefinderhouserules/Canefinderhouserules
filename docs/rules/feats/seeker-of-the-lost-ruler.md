@@ -2,7 +2,7 @@
 
 You lend some of your oracular powers to a realm searching for its reborn ruler, learning useful techniques to extend your divinations.
 
-**Prerequisites**: Enlarge Spell or Extend Spell, oracle's curse class feature.
+**Prerequisites**: [Enlarge Spell](enlarge-spell.md) or [Extend Spell](extend-spell.md), oracle's curse class feature.
 
 **Benefit**: Treat your oracle level as 1 lower (minimum 1st level) when determining the effects of your oracle's curse. You don't require additional time to spontaneously cast divination spells modified by the Enlarge Spell or Extend Spell metamagic feats.
 

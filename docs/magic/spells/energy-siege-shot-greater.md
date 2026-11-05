@@ -8,5 +8,5 @@
 **Duration** 10 minute/level  
 **Saving Throw** Fortitude negates (harmless, object); **Spell Resistance** yes (harmless/object)
 
-This spell functions like energy siege shot, except it can target siege engines of any size, not just Large siege engines.
+This spell functions like [*energy siege shot*](energy-siege-shot.md), except it can target siege engines of any size, not just Large siege engines.
 

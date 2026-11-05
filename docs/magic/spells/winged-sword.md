@@ -8,4 +8,4 @@
 **Duration** 10 minutes/level  
 **Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 
-The weapon targeted by this spell grows small feathered wings. For the duration of the spell, the weapon acts as if it had the throwing weapon special ability. This spell can be used in place of *magic stone* as a prerequisite for the throwing weapon special ability.
+The weapon targeted by this spell grows small feathered wings. For the duration of the spell, the weapon acts as if it had the throwing weapon special ability. This spell can be used in place of [*magic stone*](magic-stone.md) as a prerequisite for the throwing weapon special ability.

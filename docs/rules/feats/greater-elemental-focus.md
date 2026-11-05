@@ -1,6 +1,6 @@
 # Greater Elemental Focus
 
-Choose an energy type to which you have already applied the Elemental Focus feat. Any spells you cast of this energy type are very hard to resist.
+Choose an energy type to which you have already applied the [Elemental Focus](elemental-focus.md) feat. Any spells you cast of this energy type are very hard to resist.
 
 **Prerequisite**: [Elemental Focus](elemental-focus.md).
 

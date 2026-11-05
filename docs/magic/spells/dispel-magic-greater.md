@@ -8,13 +8,13 @@
 **Saving Throw** none; **Spell Resistance** no  
 **Target or Area** one spellcaster, creature, or object; or a 20-ft.- radius burst
 
-This spell functions like *dispel magic*, except that it can end more than one spell on a target and it can be used to target multiple creatures.
+This spell functions like [*dispel magic*](dispel-magic.md), except that it can end more than one spell on a target and it can be used to target multiple creatures.
 
 You choose to use *greater dispel magic* in one of three ways: a targeted dispel, area dispel, or a counterspell:
 
 *Targeted Dispel*: This functions as a targeted *dispel magic*, but it can dispel one spell for every four caster levels you possess, starting with the highest level spells and proceeding to lower level spells.
 
-Additionally, *greater dispel magic* has a chance to dispel any effect that *remove curse* can remove, even if *dispel magic* can’t dispel that effect. The DC of this check is equal to the curse’s DC.
+Additionally, *greater dispel magic* has a chance to dispel any effect that [*remove curse*](remove-curse.md) can remove, even if *dispel magic* can’t dispel that effect. The DC of this check is equal to the curse’s DC.
 
 *Area Dispel*: When *greater dispel magic* is used in this way, the spell affects everything within a 20-foot-radius burst. Roll one dispel check and apply that check to each creature in the area, as if targeted by *dispel magic*. For each object within the area that is the target of one or more spells, apply the dispel check as with creatures. Magic items are not affected by an area dispel.
 

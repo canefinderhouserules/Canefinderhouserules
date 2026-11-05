@@ -8,4 +8,4 @@
 **Duration** 1 minute/level  
 **Saving Throw** Will negates (see text); **Spell Resistance** yes (harmless, object)
 
-This spell functions like [*dazzling blade*](dazzling-blade.md), except that it affects multiple weapons. Each wielder of a *dazzling blade* can discharge the weapon’s effect to attempt to blind a foe independently of the others.
+This spell functions like [*dazzling blade*](dazzling-blade.md), except that it affects multiple weapons. Each wielder of a [*dazzling blade*](dazzling-blade.md) can discharge the weapon’s effect to attempt to blind a foe independently of the others.

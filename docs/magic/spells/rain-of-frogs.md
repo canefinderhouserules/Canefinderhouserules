@@ -7,4 +7,4 @@
 **Duration** concentration + 2 rounds  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions as summon swarm, except you summon a swarm of poisonous frogs. This swarm has the statistics of a centipede swarm (Bestiary 43), except it has the animal type and its poison deals Constitution damage instead of Dexterity damage.
+This spell functions as [*summon swarm*](summon-swarm.md), except you summon a swarm of poisonous frogs. This swarm has the statistics of a centipede swarm (Bestiary 43), except it has the animal type and its poison deals Constitution damage instead of Dexterity damage.

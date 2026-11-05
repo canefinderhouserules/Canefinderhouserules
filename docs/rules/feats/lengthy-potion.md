@@ -6,4 +6,4 @@ When you brew spells with brief durations into potions, you can extend them to l
 
 **Prerequisites**: [Brew Potion](brew-potion.md), caster level 10th.
 
-**Benefit**: When you brew a potion using a spell with a duration of 1 round per caster level, you can increase the spell's duration to 1 minute for the purposes of the resulting potion's effects on the imbiber. This does not stack with any other effect that would increase the duration of the potion, such as the Extend Spell metamagic feat. A spell brewed into a potion this way uses up a spell slot one level higher than the spell's actual level for the purposes of crafting and its cost.
+**Benefit**: When you brew a potion using a spell with a duration of 1 round per caster level, you can increase the spell's duration to 1 minute for the purposes of the resulting potion's effects on the imbiber. This does not stack with any other effect that would increase the duration of the potion, such as the [Extend Spell](extend-spell.md) metamagic feat. A spell brewed into a potion this way uses up a spell slot one level higher than the spell's actual level for the purposes of crafting and its cost.

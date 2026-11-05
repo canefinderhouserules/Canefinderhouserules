@@ -14,7 +14,7 @@ This spell creates a magical barrier around the subject at a distance of 1 foot.
 
 First, the subject gains a +4 deflection bonus to AC and a +4 resistance bonus on saves when targeted by creatures of the chosen subtype.
 
-Second, the subject immediately receives another saving throw (if one was allowed to begin with) against any spells or effects that possess or exercise mental control over the target creature. This functions in the same fashion as *protection from evil*, but only when the effect stems from outsiders of the chosen subtype, and the target's saving throw is made with a +4 morale bonus (using the same DC as the original effect).
+Second, the subject immediately receives another saving throw (if one was allowed to begin with) against any spells or effects that possess or exercise mental control over the target creature. This functions in the same fashion as [*protection from evil*](protection-from-evil.md), but only when the effect stems from outsiders of the chosen subtype, and the target's saving throw is made with a +4 morale bonus (using the same DC as the original effect).
 
 Third, the spell prevents bodily contact by summoned creatures of the chosen subtype in the same manner as detailed in *protection from evil*.
 

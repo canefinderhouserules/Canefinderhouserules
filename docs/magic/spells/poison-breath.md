@@ -8,4 +8,4 @@
 **Duration** instantaneous
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-You expel a cone-shaped burst of toxic mist from your mouth, subjecting everyone caught in the area to a deadly poison, as per the *poison* spell.
+You expel a cone-shaped burst of toxic mist from your mouth, subjecting everyone caught in the area to a deadly poison, as per the [*poison*](poison.md) spell.

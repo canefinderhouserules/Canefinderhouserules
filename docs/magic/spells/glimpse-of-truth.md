@@ -8,4 +8,4 @@
 **Duration** 1 round  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions like *true seeing*, except as noted above.
+This spell functions like [*true seeing*](true-seeing.md), except as noted above.

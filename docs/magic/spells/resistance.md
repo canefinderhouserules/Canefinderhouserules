@@ -10,4 +10,4 @@
 
 You imbue the subject with magical energy that protects it from harm, granting it a +1 resistance bonus on saves.
 
-*Resistance* can be made permanent with a *permanency* spell.
+*Resistance* can be made permanent with a [*permanency*](permanency.md) spell.

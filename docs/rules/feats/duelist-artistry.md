@@ -6,6 +6,6 @@ You can do more with your blade than slash and stab.
 
 **Prerequisites**: Exotic Weapon Proficiency (dueling sword), [Weapon Finesse](weapon-finesse.md), base attack bonus +2.
 
-**Benefit**: Choose one of the following combat maneuvers: disarm, reposition, steal, sunder, or trip. You gain a +2 bonus when performing the selected maneuver while wielding a dueling sword. This bonus does not stack with the bonus provided by a combat maneuver feat with “improved” in its name (such as Improved Trip).
+**Benefit**: Choose one of the following combat maneuvers: disarm, reposition, steal, sunder, or trip. You gain a +2 bonus when performing the selected maneuver while wielding a dueling sword. This bonus does not stack with the bonus provided by a combat maneuver feat with “improved” in its name (such as [Improved Trip](improved-trip.md)).
 
 **Special**: You can select this feat multiple times, choosing a different combat maneuver each time.

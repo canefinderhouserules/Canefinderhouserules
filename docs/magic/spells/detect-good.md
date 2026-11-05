@@ -8,7 +8,7 @@
 **Duration** concentration, up to 10 min./level (D)  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions like *detect evil*, except that it detects the auras of good creatures, clerics or paladins of good deities, good spells, and good magic items, and you are vulnerable to an overwhelming good aura if you are evil.
+This spell functions like [*detect evil*](detect-evil.md), except that it detects the auras of good creatures, clerics or paladins of good deities, good spells, and good magic items, and you are vulnerable to an overwhelming good aura if you are evil.
 
 | Spell or Object | Faint |
 |---|---|

@@ -8,4 +8,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions like synesthesia, except as noted above.
+This spell functions like [*synesthesia*](synesthesia.md), except as noted above.

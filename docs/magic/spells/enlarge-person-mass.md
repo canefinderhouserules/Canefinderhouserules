@@ -7,4 +7,4 @@
 **Duration** 1 min./level (D)  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-This spell functions like *enlarge person*, except that it affects multiple creatures.
+This spell functions like [*enlarge person*](enlarge-person.md), except that it affects multiple creatures.

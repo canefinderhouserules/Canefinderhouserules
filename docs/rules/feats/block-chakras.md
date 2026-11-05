@@ -2,7 +2,7 @@
 
 You've learned how to block the lower chakras of your foes.
 
-**Prerequisites**: Psychic Sensitivity or levels in an occult class, brawler's flurry or flurry of blows class feature, ki pool.
+**Prerequisites**: [Psychic Sensitivity](psychic-sensitivity.md) or levels in an occult class, brawler's flurry or flurry of blows class feature, ki pool.
 
 **Benefit**: As a standard action, you can spend 1 ki point to make a single unarmed strike that attempts to block one of the target's chakras. If you hit the target and deal damage, you can select either the root, sacral, or navel chakra, as long as you can open that chakra yourself. The target suffers a specific effect based on the chosen chakra (see below), though it can reduce these effects with a successful Fortitude save (DC = 10 + half your character level + the ability modifier you use to calculate your ki pool).
 

@@ -7,7 +7,7 @@
 **Target** you  
 **Duration** 1 hour/level (see below)
 
-When you cast this spell, you reach into the great beyond and beseech a good-aligned outsider for their aid against evil. The outsider infuses a small portion of its own power into you, making you a powerful force for good. You gain a +2 morale bonus on all Perception checks made against evil creatures, a +2 bonus on Initiative checks, and *detect evil* as a constant spell-like ability.
+When you cast this spell, you reach into the great beyond and beseech a good-aligned outsider for their aid against evil. The outsider infuses a small portion of its own power into you, making you a powerful force for good. You gain a +2 morale bonus on all Perception checks made against evil creatures, a +2 bonus on Initiative checks, and [*detect evil*](detect-evil.md) as a constant spell-like ability.
 
 In addition, once during the spell’s duration you can call forth a surge of holy power when fighting an evil creature. Doing so is a swift action that shortens the spell’s remaining duration so that its remaining hours of duration become rounds of duration. For the rest of this duration, the surge of power grants you the following benefits:
 

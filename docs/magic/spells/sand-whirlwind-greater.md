@@ -8,4 +8,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Will negates (blinding only); **Spell Resistance** no
 
-This spell functions as *sand whirlwind* except as noted above.
+This spell functions as [*sand whirlwind*](sand-whirlwind.md) except as noted above.

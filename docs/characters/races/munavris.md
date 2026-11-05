@@ -20,7 +20,7 @@ A munavri is defined by her class levels—she doesn’t have racial Hit Dice. D
 
 **Spell Resistance**: A munavri has an amount of spell resistance equal to 8 + her total number of class levels.
 
-**Spell-Like Ability**: A munavri can cast *object reading* at will (the caster level is equal to her character level).
+**Spell-Like Ability**: A munavri can cast [*object reading*](../../magic/spells/object-reading.md) at will (the caster level is equal to her character level).
 
 **Telepathy (Su)**: A munavri is able to mentally communicate with other munavris within 60 feet.
 

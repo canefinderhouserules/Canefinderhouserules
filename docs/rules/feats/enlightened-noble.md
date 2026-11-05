@@ -44,7 +44,7 @@ Noble houses train their courts to focus on the ideals and skills most appropria
 
 **Scion of the Desert Court**: You reduce the amount of nonlethal damage you take from heat exposure by 2 (minimum 0). Additionally, you require only a gallon of water per day to avoid dehydration in hot climates.
 
-**Scion of the Cavalry Court**: Once per day, when attempting to negate an attack with Mounted Combat, you can roll twice and take the better result. Ride is a class skill for you.
+**Scion of the Cavalry Court**: Once per day, when attempting to negate an attack with [Mounted Combat](mounted-combat.md), you can roll twice and take the better result. Ride is a class skill for you.
 
 **Scion of the Free Frontier**: Whenever you take 10 on Handle Animal, Knowledge (nature), Perception, Ride, or Survival checks, treat the result as if you had rolled a 13 instead of a 10.
 

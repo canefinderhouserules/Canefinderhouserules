@@ -4,7 +4,7 @@
 
 You infuse spells with heavenly power, drastically increasing their effectiveness against would-be heralds of evil.
 
-**Prerequisites**: Aasimar, able to prepare or cast *consecrate*.
+**Prerequisites**: Aasimar, able to prepare or cast [*consecrate*](../../magic/spells/consecrate.md).
 
 **Benefit**: Spell is more effective towards evil creatures. A creature successfully hit by a Consecrate spell (if the spell requires an attack roll) or that fails its saving throw against an offensive consecrated spell, takes 1d3+1 Attribute damage to one stat of your choice, for 1/spell level rounds.
 

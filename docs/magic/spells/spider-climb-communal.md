@@ -8,4 +8,4 @@
 **Duration** 10 min./level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions like spider climb, except you divide the duration in 10-minute intervals among the creatures touched.
+This spell functions like [*spider climb*](spider-climb.md), except you divide the duration in 10-minute intervals among the creatures touched.

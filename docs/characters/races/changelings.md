@@ -138,7 +138,7 @@ The most common of changelings, these are shy and withdrawn, but blessed with pr
 
 **Hag Racial Trait**: Green-born changelings gain a +2 racial bonus on Bluff checks against creatures that could be sexually attracted to them.
 
-**Awakened Hag Heritage**: You can cast *disguise self* once per day as a spell-like ability, treating your character level as your caster level. The bonus on Bluff checks you gain from your hag racial trait applies when someone could be sexually attracted to your disguised form as well.
+**Awakened Hag Heritage**: You can cast [*disguise self*](../../magic/spells/disguise-self.md) once per day as a spell-like ability, treating your character level as your caster level. The bonus on Bluff checks you gain from your hag racial trait applies when someone could be sexually attracted to your disguised form as well.
 
 ### Mute-Born Changeling
 
@@ -196,15 +196,15 @@ Any group of three hags can form a coven, but realistically, many types of hags 
 
 All covens can cast the following spells, regardless of the hags that comprise them: [*animate dead*](../../magic/spells/animate-dead.md), [*baleful polymorph*](../../magic/spells/baleful-polymorph.md), [*bestow curse*](../../magic/spells/bestow-curse.md), *clairaudience/clairvoyance*, [*commune*](../../magic/spells/commune.md), [*dream*](../../magic/spells/dream.md), [*forcecage*](../../magic/spells/forcecage.md), [*mind blank*](../../magic/spells/mind-blank.md), [*reincarnate*](../../magic/spells/reincarnate.md), [*speak with dead*](../../magic/spells/speak-with-dead.md), [*veil*](../../magic/spells/veil.md), and [*vision*](../../magic/spells/vision.md).
 
-- **Annis Hag**: *charm monster*, [*cloudkill*](../../magic/spells/cloudkill.md), *giant form I*, *mass bull's strength*.
+- **Annis Hag**: [*charm monster*](../../magic/spells/charm-monster.md), [*cloudkill*](../../magic/spells/cloudkill.md), *giant form I*, *mass bull's strength*.
 - **Ash Hag**: [*ash storm*](../../magic/spells/ash-storm.md), [*fire storm*](../../magic/spells/fire-storm.md), [*solid fog*](../../magic/spells/solid-fog.md), [*volcanic storm*](../../magic/spells/volcanic-storm.md).
 - **Blood Hag**: [*blood mist*](../../magic/spells/blood-mist.md), *mass inflict serious wounds*, *mass pain strike*, [*skinsend*](../../magic/spells/skinsend.md).
 - **Dreamthief Hag**: [*cloak of dreams*](../../magic/spells/cloak-of-dreams.md), [*dream voyage*](../../magic/spells/dream-voyage.md), [*modify memory*](../../magic/spells/modify-memory.md), [*nightmare*](../../magic/spells/nightmare.md).
 - **Green Hag**: [*blight*](../../magic/spells/blight.md), *charm monster*, [*control weather*](../../magic/spells/control-weather.md), [*mirage arcana*](../../magic/spells/mirage-arcana.md).
 - **Mute Hag**: [*epidemic*](../../magic/spells/epidemic.md), *greater age resistance*, [*insanity*](../../magic/spells/insanity.md), [*malicious spite*](../../magic/spells/malicious-spite.md), [*vengeful outrage*](../../magic/spells/vengeful-outrage.md).
-- **Night Hag**: [*contagion*](../../magic/spells/contagion.md), [*finger of death*](../../magic/spells/finger-of-death.md), *major curse*, [*maze*](../../magic/spells/maze.md), *nightmare*.
+- **Night Hag**: [*contagion*](../../magic/spells/contagion.md), [*finger of death*](../../magic/spells/finger-of-death.md), *major curse*, [*maze*](../../magic/spells/maze.md), [*nightmare*](../../magic/spells/nightmare.md).
 - **Sea Hag**: [*control water*](../../magic/spells/control-water.md), [*eyebite*](../../magic/spells/eyebite.md), [*power word blind*](../../magic/spells/power-word-blind.md), [*water breathing*](../../magic/spells/water-breathing.md).
-- **Storm Hag**: [*call lightning storm*](../../magic/spells/call-lightning-storm.md), *control weather*, *solid fog*, [*scouring winds*](../../magic/spells/scouring-winds.md).
+- **Storm Hag**: [*call lightning storm*](../../magic/spells/call-lightning-storm.md), [*control weather*](../../magic/spells/control-weather.md), [*solid fog*](../../magic/spells/solid-fog.md), [*scouring winds*](../../magic/spells/scouring-winds.md).
 - **Winter Hag**: [*circle of death*](../../magic/spells/circle-of-death.md), [*dominate person*](../../magic/spells/dominate-person.md), [*icy prison*](../../magic/spells/icy-prison.md), [*simulacrum*](../../magic/spells/simulacrum.md).
 
 ### Changeling Covens
@@ -280,7 +280,7 @@ Possessed of a blazing inner fire, hearth mays are passionate and excitable. Ran
 
 **Hag Racial Trait** Ash-born changelings gain a +1 racial bonus on damage rolls for spells with the fire descriptor. This bonus increases by 1 for every 4 character levels the changeling has beyond 1st.
 
-**Awakened Hag Heritage** You gain immunity to extremely warm conditions, as if you were under the effects of a permanent *endure elements* spell (heat only) that cannot be dispelled.
+**Awakened Hag Heritage** You gain immunity to extremely warm conditions, as if you were under the effects of a permanent [*endure elements*](../../magic/spells/endure-elements.md) spell (heat only) that cannot be dispelled.
 
 ### Blood-Born (Veil May)
 
@@ -384,7 +384,7 @@ Born with cold temperaments but hot passions, virga mays reject large crowds and
 
 **Hag Racial Trait** Storm-born changelings are treated as two size categories larger for the purpose of resolving wind effects.
 
-**Awakened Hag Heritage** You can cast following spell-like abilities: 1/day—*alter winds*, *create water*, and *obscuring mist*. The caster level for these effects is equal to your level. The DC for these spells is equal to 10 + the spell’s level + your Charisma modifier.
+**Awakened Hag Heritage** You can cast following spell-like abilities: 1/day—[*alter winds*](../../magic/spells/alter-winds.md), [*create water*](../../magic/spells/create-water.md), and [*obscuring mist*](../../magic/spells/obscuring-mist.md). The caster level for these effects is equal to your level. The DC for these spells is equal to 10 + the spell’s level + your Charisma modifier.
 
 ### Winter-Born (Snow May)
 

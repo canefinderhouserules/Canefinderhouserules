@@ -4,4 +4,4 @@ Often having one parent with a human lifespan and one with an elven lifespan, ma
 
 **Prerequisites**: Character level 5th, half-elf of tower-elf descent.
 
-**Benefit**: Once per day, as a standard action, you can gain the benefits of *haste* until the end of your next turn.
+**Benefit**: Once per day, as a standard action, you can gain the benefits of [*haste*](../../magic/spells/haste.md) until the end of your next turn.

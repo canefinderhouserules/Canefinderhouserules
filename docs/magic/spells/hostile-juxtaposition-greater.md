@@ -8,4 +8,4 @@
 **Duration** 1 round/level or until discharged  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions like hostile juxtaposition, except you can target one creature for every four caster levels you have or you can target a single creature that is larger than you are. You can switch places with each target only once while the effect lasts. Once you have used it to teleport and switch places with each affected target, the spell is discharged.
+This spell functions like [*hostile juxtaposition*](hostile-juxtaposition.md), except you can target one creature for every four caster levels you have or you can target a single creature that is larger than you are. You can switch places with each target only once while the effect lasts. Once you have used it to teleport and switch places with each affected target, the spell is discharged.

@@ -2,7 +2,7 @@
 
 You catch foes off guard when changing your shape.
 
-**Prerequisites**: Improved Feint or canny feint vigilante talent, change shape ability, shapechanger subtype.
+**Prerequisites**: [Improved Feint](improved-feint.md) or canny feint vigilante talent, change shape ability, shapechanger subtype.
 
 **Benefit**: Whenever you use your change shape ability to assume a new form or to return to your true form, you can attempt a Bluff check as a swift action to feint one opponent within 30 feet who witnessed your transformation. You take a –4 penalty on Bluff checks to feint an opponent who is aware that you are a shapechanger. You don’t take the usual penalties for feinting a creature of a different type or a creature with an Intelligence score of 1 or 2 when feinting in this manner.
 

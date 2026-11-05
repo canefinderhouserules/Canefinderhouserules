@@ -14,6 +14,6 @@ First, each warded creature gains a +4 deflection bonus to AC and a +4 resistanc
 
 Second, each warded creature gains spell resistance 25 against lawful spells and spells cast by lawful creatures.
 
-Third, the abjuration protects from possession and mental influence, just as *protection from law* does.
+Third, the abjuration protects from possession and mental influence, just as [*protection from law*](protection-from-law.md) does.
 
 Finally, if a lawful creature succeeds on a melee attack against a warded creature, the offending attacker is *confused* for 1 round (Will save negates, as with the [*confusion*](confusion.md) spell, but against the save DC of *cloak of chaos*).

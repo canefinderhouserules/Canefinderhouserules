@@ -14,6 +14,6 @@ First, each warded creature gains a +4 deflection bonus to AC and a +4 resistanc
 
 Second, a warded creature gains SR 25 against good spells and spells cast by good creatures.
 
-Third, the abjuration protects the subjects from possession and mental influence, just as *protection from good* does.
+Third, the abjuration protects the subjects from possession and mental influence, just as [*protection from good*](protection-from-good.md) does.
 
 Finally, if a good creature succeeds on a melee attack against a warded creature, the offending attacker takes 1d6 points of Strength damage (Fortitude negates).

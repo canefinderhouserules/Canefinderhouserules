@@ -7,4 +7,4 @@
 **Duration** 1 hour/level or until you return to your body  
 **Saving Throw** Will negates, see text; **Spell Resistance** yes
 
-This spell functions as magic jar, except you transfer your mind to a single object, animating it as if using animate objects, except your mind controls the object as if it were your own body. You cannot speak or cast spells while possessing the object. Because your original body is effectively dead while under the effect of this spell, this temporarily suspends disease, poisons, and other afflictions affecting you.
+This spell functions as [*magic jar*](magic-jar.md), except you transfer your mind to a single object, animating it as if using animate objects, except your mind controls the object as if it were your own body. You cannot speak or cast spells while possessing the object. Because your original body is effectively dead while under the effect of this spell, this temporarily suspends disease, poisons, and other afflictions affecting you.

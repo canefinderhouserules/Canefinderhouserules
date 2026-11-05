@@ -10,4 +10,4 @@
 
 This spell empowers the natural attacks or unarmed strikes of undead creatures, granting a +1 enhancement bonus on attack and damage rolls made by the target with its unarmed strikes or attacks with one natural attack. This spell can cause an undead creature's unarmed strike to deal lethal damage, but in this case, the attack does not gain an enhancement bonus.
 
-Unhallowed blows can be made permanent with a *permanency* spell. In this case, the caster must be at least 9th level and must expend 2,500 gp worth of diamond dust as a material component.
+Unhallowed blows can be made permanent with a [*permanency*](permanency.md) spell. In this case, the caster must be at least 9th level and must expend 2,500 gp worth of diamond dust as a material component.

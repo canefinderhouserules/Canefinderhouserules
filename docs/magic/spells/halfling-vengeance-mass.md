@@ -8,4 +8,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions like halfling vengeance, except that it affects multiple creatures.
+This spell functions like [*halfling vengeance*](halfling-vengeance.md), except that it affects multiple creatures.
