@@ -186,9 +186,12 @@ The spell heals 5d12 points of damage + 1 point per caster level (maximum +25). 
 
 **Source** *Advanced Player's Guide*
 
-You may focus your burning gaze on a creature or object as a move action instead of as a standard action. The target takes 1d8 points of fire damage for failing its save and for each round it's on fire.
+You may focus your burning gaze on a creature or object as a move action instead of as a standard action. The spell's damage dice are d8s instead of d6s, both when you target a creature and for each round it's on fire.
 
 **Augmented**: If you expend two uses of mythic power, once during the spell's duration you can, as a full-round action, direct your burning gaze at up to one creature per caster level.
+
+??? note "Original rule"
+    The target takes 1d8 points of fire damage for failing its save and for each round it's on fire.
 
 ## Burning Hands
 
