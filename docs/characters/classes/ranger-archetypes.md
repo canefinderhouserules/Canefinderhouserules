@@ -291,21 +291,7 @@ Presented below are a number of alternate class features and archetypes to help 
 
 ## New Combat Styles
 
-At 2nd level, a ranger must select one of the two combat styles in the Core Rulebook or one of the following new combat styles: crossbow, mounted combat, natural weapon, two-handed weapon, or weapon and shield style.
-
-The ranger can choose feats from his selected combat style even if he does not have the normal prerequisites.
-
-**Crossbow**: If the ranger selects crossbow style, he can choose from the following list whenever he gains a combat style feat: [Deadly Aim](../../rules/feats/deadly-aim.md), [Focused Shot](../../rules/feats/focused-shot.md), [Precise Shot](../../rules/feats/precise-shot.md), and [Rapid Reload](../../rules/feats/rapid-reload.md). At 6th level, he adds [Crossbow Mastery](../../rules/feats/crossbow-mastery.md) and [Improved Precise Shot](../../rules/feats/improved-precise-shot.md) to the list. At 10th level, he adds [Pinpoint Targeting](../../rules/feats/pinpoint-targeting.md) and [Shot on the Run](../../rules/feats/shot-on-the-run.md) to the list.
-
-**Mounted Combat**: If the ranger selects mounted combat, he can choose from the following list whenever he gains a combat style feat: [Mounted Combat](../../rules/feats/mounted-combat.md), [Mounted Archery](../../rules/feats/mounted-archery.md), [Ride-By Attack](../../rules/feats/ride-by-attack.md), and Trick Riding*. At 6th level, he adds Mounted Shield* and [Spirited Charge](../../rules/feats/spirited-charge.md) to the list. At 10th level, he adds Mounted Skirmisher* and Unseat to the list.
-
-**Natural Weapon**: If the ranger selects natural weapon style, he can choose from the following list whenever he gains a combat style feat: Aspect of the Beast*, Improved Natural Weapon**, Rending Claws*, and Weapon Focus. At 6th level, he adds Eldritch Fangs* and [Vital Strike](../../rules/feats/vital-strike.md) to the list. At 10th level, he adds Multiattack** and [Improved Vital Strike](../../rules/feats/improved-vital-strike.md) to the list.
-
-**Two-Handed Weapon**: If the ranger selects two-handed weapon style, he can choose from the following list whenever he gains a combat style feat: Cleave, [Power Attack](../../rules/feats/power-attack.md), Pushing Assault*, and Shield of Swings*. At 6th level, he adds Furious Focus* and [Great Cleave](../../rules/feats/great-cleave.md) to the list. At 10th level, he adds Dreadful Carnage* and [Improved Sunder](../../rules/feats/improved-sunder.md) to the list.
-
-**Weapon and Shield**: If the ranger selects weapon and shield style, he can choose from the following list whenever he gains a combat style feat: [Improved Shield Bash](../../rules/feats/improved-shield-bash.md), [Shield Focus](../../rules/feats/shield-focus.md), [Shield Slam](../../rules/feats/shield-slam.md), and [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md). At 6th level, he adds Saving Shield* and [Shield Master](../../rules/feats/shield-master.md) to the list. At 10th level, he adds Bashing Finish* and [Greater Shield Focus](../../rules/feats/greater-shield-focus.md) to the list.
-
-* These feats are found in the feat section of this book. ** These feats are found in the Pathfinder RPG Bestiary.
+All ranger combat styles, including the ones from this book, are listed under [Combat Style Feat](ranger.md#combat-style-feat-ex) on the ranger page.
 
 ## Beast Master
 
