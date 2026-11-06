@@ -63,45 +63,45 @@ More than just a lightly armored warrior, a swashbuckler is a daring combatant. 
 
 Swashbucklers spend panache points to accomplish deeds. Most deeds grant the swashbuckler a momentary bonus or effect, but some provide longer-lasting effects. Some deeds remain in effect while the swashbuckler has at least 1 panache point, but do not require expending panache to be maintained. A swashbuckler can only perform deeds of her level or lower. Unless otherwise noted, a deed can be performed multiple successive times, as long as the swashbuckler has or spends the required number of panache points to perform the deed.
 
-### Derring-Do (Ex)
+#### Derring-Do (Ex)
 
 At 1st level, a swashbuckler can spend 1 panache point when she makes an [Acrobatics](../../rules/skills/acrobatics.md), [Climb](../../rules/skills/climb.md), [Escape Artist](../../rules/skills/escape-artist.md), [Fly](../../rules/skills/fly.md), [Ride](../../rules/skills/ride.md), or [Swim](../../rules/skills/swim.md) check to roll 1d6 and add the result to the check. She can do this after she makes the check but before the result is revealed. If the result of the d6 roll is a natural 6, she rolls another 1d6 and adds it to the check. She can continue to do this as long as she rolls natural 6s, up to a number of times equal to her Dexterity modifier (minimum 1).
 
-### Dodging Panache (Ex)
+#### Dodging Panache (Ex)
 
 At 1st level, when an opponent attempts a melee attack against the swashbuckler, the swashbuckler can as an immediate action spend 1 panache point to move 5 feet; doing so grants the swashbuckler a dodge bonus to AC equal to her Charisma modifier (minimum 0) against the triggering attack. This movement doesn't negate the attack, which is still resolved as if the swashbuckler had not moved from the original square. This movement is not a 5-foot step; it provokes attacks of opportunity from creatures other than the one who triggered this deed. The swashbuckler can only perform this deed while wearing light or no armor, and while carrying no heavier than a light load.
 
-### Opportune Parry and Riposte (Ex)
+#### Opportune Parry and Riposte (Ex)
 
 At 1st level, when an opponent makes a melee attack against the swashbuckler, she can spend 1 panache point and expend a use of an attack of opportunity to attempt to parry that attack. The swashbuckler makes an attack roll as if she were making an attack of opportunity; for each size category the attacking creature is larger than the swashbuckler, the swashbuckler takes a -2 penalty on this roll. If her result is greater than the attacking creature's result, the creature's attack automatically misses. The swashbuckler must declare the use of this ability after the creature's attack is announced, but before its attack roll is made. Upon performing a successful parry and if she has at least 1 panache point, the swashbuckler can as an immediate action make an attack against the creature whose attack she parried, provided that creature is within her reach.
 
-### Kip-Up (Ex)
+#### Kip-Up (Ex)
 
 At 3rd level, while the swashbuckler has at least 1 panache point, she can kip-up from [prone](../../rules/appendices/conditions.md#prone) as a move action without provoking an attack of opportunity. She can kip-up as a swift action instead by spending 1 panache point.
 
-### Menacing Swordplay (Ex)
+#### Menacing Swordplay (Ex)
 
 At 3rd level, while she has at least 1 panache point, when a swashbuckler hits an opponent with a light or one-handed piercing melee weapon, she can choose to use Intimidate to demoralize that opponent as a swift action instead of a standard action.
 
-### Precise Strike (Ex)
+#### Precise Strike (Ex)
 
 At 3rd level, while she has at least 1 panache point, a swashbuckler gains the ability to strike precisely with a light or one-handed piercing melee weapon (though not natural weapon attacks), adding her swashbuckler level to the damage dealt. To use this deed, a swashbuckler cannot attack with a weapon in her other hand or use a shield other than a buckler. She can even use this ability with thrown light or one-handed piercing melee weapons, so long as the target is within 30 feet of her. Any creature that is immune to sneak attacks is immune to the additional damage granted by precise strike, and any item or ability that protects a creature from critical hits also protects a creature from the additional damage of a precise strike. This additional damage is precision damage, and isn't multiplied on a critical hit.
 
 As a swift action, a swashbuckler can spend 1 panache point to double her precise strike's damage bonus on the next attack. This benefit must be used before the end of her turn, or it is lost. This deed's cost cannot be reduced by any ability or effect that reduces the amount of panache points a deed costs (such as the [Signature Deed](../../rules/feats/signature-deed.md) feat).
 
-### Swashbuckler Initiative (Ex)
+#### Swashbuckler Initiative (Ex)
 
 At 3rd level, while the swashbuckler has at least 1 panache point, she gains a +2 bonus on initiative checks. In addition, if she has the [Quick Draw](../../rules/feats/quick-draw.md) feat, her hands are free and unrestrained, and she has any single light or one-handed piercing melee weapon that isn't hidden, she can draw that weapon as part of the initiative check.
 
-### Swashbuckler's Grace (Ex)
+#### Swashbuckler's Grace (Ex)
 
 At 7th level, while the swashbuckler has at least 1 panache point, she takes no penalty for moving at full speed when she uses Acrobatics to attempt to move through a threatened area or an enemy's space.
 
-### Superior Feint (Ex)
+#### Superior Feint (Ex)
 
 At 7th level, a swashbuckler with at least 1 panache point can, as a standard action, purposefully miss a creature she could make a melee attack against with a wielded light or one-handed piercing weapon. When she does, the creature is denied its Dexterity bonus to AC until the start of the swashbuckler's next turn.
 
-### Targeted Strike (Ex)
+#### Targeted Strike (Ex)
 
 At 7th level, as a full-round action the swashbuckler can spend 1 panache point to make an attack with a single light or one-handed piercing melee weapon that cripples part of a foe's body. The swashbuckler chooses a part of the body to target. If the attack succeeds, in addition to the attack's normal damage, the target suffers one of the following effects based on the part of the body targeted. If a creature doesn't have one of the listed body locations, that body part cannot be targeted. Creatures that are immune to sneak attacks are also immune to targeted strikes. Items or abilities that protect a creature from critical hits also protect a creature from targeted strikes.
 
@@ -110,39 +110,39 @@ At 7th level, as a full-round action the swashbuckler can spend 1 panache point 
 - Legs: The target is knocked prone. Creatures with four or more legs or that are immune to trip attacks are immune to this effect.
 - Torso or Wings: The target is [staggered](../../rules/appendices/conditions.md#staggered) for 1 round.
 
-### Bleeding Wound (Ex)
+#### Bleeding Wound (Ex)
 
 At 11th level, when the swashbuckler hits a living creature with a light or one-handed piercing melee weapon attack, as a free action she can spend 1 panache point to have that attack deal additional bleed damage. The amount of bleed damage dealt is equal to the swashbuckler's Dexterity modifier (minimum 1). Alternatively, the swashbuckler can spend 2 panache points to deal 1 point of Strength, Dexterity, or Constitution bleed damage instead (swashbuckler's choice). Creatures that are immune to sneak attacks are also immune to these types of bleed damage.
 
-### Evasive (Ex)
+#### Evasive (Ex)
 
 At 11th level, while a swashbuckler has at least 1 panache point, she gains the benefits of the evasion, uncanny dodge, and improved uncanny dodge rogue class features. She uses her swashbuckler level as her rogue level for improved uncanny dodge.
 
-### Subtle Blade (Ex)
+#### Subtle Blade (Ex)
 
 At 11th level, while a swashbuckler has at least 1 panache point, she is immune to disarm, steal, and sunder combat maneuvers made against a light or one-handed piercing melee weapon she is wielding.
 
-### Dizzying Defense (Ex)
+#### Dizzying Defense (Ex)
 
 At 15th level, while wielding a light or one-handed piercing melee weapon in one hand, the swashbuckler can spend 1 panache point to take the fighting defensively action as a swift action instead of a standard action. When fighting defensively in this manner, the dodge bonus to AC gained from that action increases to +4, and the penalty to attack rolls is reduced to -2.
 
-### Perfect Thrust (Ex)
+#### Perfect Thrust (Ex)
 
 At 15th level, while the swashbuckler has at least 1 panache point, she can as a full-round action make a perfect thrust, pooling all of her attack potential into a single melee attack made with a light or one-handed piercing melee weapon. When she does, she makes the attack against the target's touch AC, and ignores all damage reduction.
 
-### Swashbuckler's Edge (Ex)
+#### Swashbuckler's Edge (Ex)
 
 At 15th level, while the swashbuckler has at least 1 panache point, she can take 10 on any Acrobatics, Climb, Escape Artist, Fly, Ride, or Swim check, even while distracted or in immediate danger. She can use this ability in conjunction with the derring-do deed.
 
-### Cheat Death (Ex)
+#### Cheat Death (Ex)
 
 At 19th level, whenever the swashbuckler is reduced to 0 hit points or fewer, she can spend all of her remaining panache to instead be reduced to 1 hit point. She must have at least 1 panache point to spend. Effects that kill the swashbuckler outright without dealing hit point damage are not affected by this ability.
 
-### Deadly Stab (Ex)
+#### Deadly Stab (Ex)
 
 At 19th level, when the swashbuckler confirms a critical hit with a light or one-handed piercing melee weapon, in addition to the normal damage, she can spend 1 panache point to inflict a deadly stab. The target must succeed at a Fortitude saving throw or die. The DC of this save is 10 + 1/2 the swashbuckler's level + the swashbuckler's Dexterity modifier. This is a death attack. Performing this deed does not grant the swashbuckler a panache point.
 
-### Stunning Stab (Ex)
+#### Stunning Stab (Ex)
 
 At 19th level, when a swashbuckler hits a creature with a light or one-handed piercing melee weapon, she can spend 2 panache points to stun the creature for 1 round. The creature must succeed at a Fortitude saving throw (DC = 10 + 1/2 the swashbuckler's level + the swashbuckler's Dexterity modifier) or [stunned](../../rules/appendices/conditions.md#stunned) for 1 round. Creatures that are immune to critical hits are also immune to this effect.
 
