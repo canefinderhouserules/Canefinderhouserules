@@ -109,7 +109,9 @@ Examining an item in this way requires him to spend 1 minute handling the item. 
 
 At 4th level, an occultist gains the ability to shift his mental focus from one implement to another, though some of the focus is lost along the way. Shifting mental focus removes a number of points of mental focus from one implement and adds the same number – 1 to another implement; this takes 1 minute of quiet contemplation while touching both implements. The occultist can shift his mental focus only from one implement to another implement; he can’t shift generic focus into an implement. Unlike expending focus normally, this shift can reduce the effect of a resonant power in the implement from which the mental focus was taken. It does not, however, add to the resonant power of the implement to which the focus is added.
 
-**Aura** Sight (Su): At 5th level, the occultist can read the auras of creatures around him as a standard action. This functions as the aura sight spell with a duration of 1 round.
+### Aura Sight (Su)
+
+At 5th level, the occultist can read the auras of creatures around him as a standard action. This functions as the aura sight spell with a duration of 1 round.
 
 ### Magic Circles (Su)
 
