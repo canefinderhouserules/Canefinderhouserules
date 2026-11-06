@@ -117,7 +117,7 @@ The styles that follow include specific feat paths — feats that complement eac
 - **Shaitan Style**: Practitioners of this style imbue their fists with the mineral acids of the deep earth. Their forceful blows conjure forth caustic elements to dissolve and disable their enemies. *Feat path*: Shaitan Style, Shaitan Skin, Shaitan Earthblast.
 - **Snake Style**: Snake style emphasizes quick, shifting movements. Its practitioners normally hold their hands flat with the fingers together to mimic the head of a snake. Able to strike when least expected, snake stylists are known for opportunism and blinding speed. *Feat path*: Snake Style, Snake Sidewinder, Snake Fang.
 - **Snapping Turtle Style**: The snapping turtle style emphasizes active defense with one hand. Students of the style utilize a variety of locks, grabs, and circular blocks to protect themselves, as well as employing a debilitating clutch. *Feat path*: Snapping Turtle Style, Snapping Turtle Clutch, Snapping Turtle Shell.
-- **Tiger Style**: This style seeks to emulate the power and fury of the great tiger. Practitioners use their hands like claws, perfecting overpowering double hand strikes and driving attack chains. *Feat path*: Tiger Style, Tiger Claws, Tiger Pounce. Teamwork Feats Teamwork feats first appeared in the Advanced Player’s Guide. They grant significant bonuses but only function under specific circumstances. In most cases, these feats require an ally with the same feat to have a specific position on the
+- **Tiger Style**: This style seeks to emulate the power and fury of the great tiger. Practitioners use their hands like claws, perfecting overpowering double hand strikes and driving attack chains. *Feat path*: Tiger Style, Tiger Claws, Tiger Pounce.
 
 ### Teamwork Feats
 
@@ -1832,7 +1832,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Cosmic Gate](cosmic-gate.md) | — | [Starlit Guidance](starlit-guidance.md), Knowledge (planes) 10 ranks |
 | [Count of the Clock](count-of-the-clock.md) | — | Fey creature type or sworn fealty to a fey lord, you must have either visited or interacted with an outsider native to a plane of time |
 | [Countering Loophole](countering-loophole.md) | — | Improved Counterspell |
-| [Counterpoint to Inspiration](counterpoint-to-inspiration.md) | Teamwork | Harmonic Accord, Harmonic Empowerment, Perform (keyboard, percussion, sing, string, or wind) 10 ranks, bardic performance or raging song |
+| [Counterpoint to Inspiration](counterpoint-to-inspiration.md) | Teamwork | Basic Harmony, Compelling Harmonies, Perform (keyboard, percussion, sing, string, or wind) 10 ranks, bardic performance or raging song |
 | [Country Born](country-born.md) | — | 1st-level character, cannot have Lone Wolf |
 | [Courage in a Bottle](courage-in-a-bottle.md) | — | Bravery class feature, worshiper of a deity of freedom and ale |
 | [Courage in Numbers](courage-in-numbers.md) | Teamwork | Iron Will |
@@ -1897,7 +1897,6 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Dance of Chains](dance-of-chains.md) | — | Dex 15, Chain Mastery, Exotic Weapon Proficiency (spiked chain), Weapon Finesse, Perform (dance) 1 rank |
 | [Dangerous Tail](dangerous-tail.md) | Combat | Base attack bonus +5, lizardfolk |
 | [Daring Exploit](daring-exploit.md) | — | Dare, deeds, or inspiration class ability |
-| [Daring Retrieval](daring-retrieval.md) | Combat, Teamwork | Improved Disarm |
 | [Dark Adept](dark-adept.md) | — | Drow, character level 3rd |
 | [Darkness Trick](darkness-trick.md) | — | Use Magic Device 5 ranks, ability to cast *darkness* |
 | [Darting Viper](darting-viper.md) | Combat | Base attack bonus +4, proficiency with the dwarven dorn-dergar |
@@ -2332,8 +2331,6 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Hands of Valor](hands-of-valor.md) | — | Lay on hands class feature, worshiper of a deity of valor and justice |
 | [Harder They Fall](harder-they-fall.md) | Combat, Teamwork | Str 13, Int 13, Combat Expertise, Power Attack |
 | [Hardy Liver](hardy-liver.md) | — | Great Fortitude |
-| [Harmonic Accord](harmonic-accord.md) | Teamwork | Bardic performance or raging song |
-| [Harmonic Empowerment](harmonic-empowerment.md) | Teamwork | Harmonic Accord, Perform (keyboard, percussion, sing, string, or wind) 10 ranks, bardic performance or raging song |
 | [Harmonic Spell](harmonic-spell.md) | — | Bardic music ability |
 | [Harrying Partners](harrying-partners.md) | Combat, Teamwork | Any teamwork feat, base attack bonus +6 |
 | [Haruspicy](haruspicy.md) | — | Knowledge (religion) 3 ranks |
@@ -2439,7 +2436,7 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Improved Swarm Form](improved-swarm-form.md) | — | Vampire |
 | [Improved Toxicological Timing](improved-toxicological-timing.md) | — | Craft (alchemy) 11 ranks, Toxicological Timing |
 | [Improved Uncivilized Tactics](improved-uncivilized-tactics.md) | Combat | Str 13, Power Attack, Uncivilized Tactics |
-| [Improved Underhanded Teamwork](improved-underhanded-teamwork.md) | Combat, Teamwork | Improved Dirty Trick, Underhanded Teamwork, base attack bonus +6 |
+| [Improved Underhanded Teamwork](improved-underhanded-teamwork.md) | Combat, Teamwork | — |
 | [Improved Weapon Shift](improved-weapon-shift.md) | — | Weapon Shift, base attack bonus +6, wild shape class feature |
 | [Improvisational Focus](improvisational-focus.md) | Combat | Catch Off-Guard or Throw Anything, base attack bonus +1 |
 | [Improvisational Healer](improvisational-healer.md) | — | Heal 1 rank |
@@ -2540,7 +2537,9 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Lightning Rager](lightning-rager.md) | — | Rage class feature |
 | [Lingering Breath](lingering-breath.md) | — | Dragon disciple level 3rd |
 | [Lingering Smite](lingering-smite.md) | General | Channel Smite, channel energy 3d6 |
-| [Linnorm Hunter Retreat](linnorm-hunter-retreat.md) | — | Cha 13, Dex 13, Dodge, Linnorm Hunter Style, base attack bonus +4, must have or be an animal companion |
+| [Linnorm Hunter Coordination](linnorm-hunter-coordination.md) | Combat, Teamwork | Cha 13, Dex 13, Dodge, Linnorm Hunter Retreat, Linnorm Hunter Style, base attack bonus +6, must have or be an animal companion |
+| [Linnorm Hunter Retreat](linnorm-hunter-retreat.md) | Combat, Teamwork | Cha 13, Dex 13, Dodge, Linnorm Hunter Style, base attack bonus +4, must have or be an animal companion |
+| [Linnorm Hunter Style](linnorm-hunter-style.md) | Combat, Style, Teamwork | Cha 13, must have or be an animal companion |
 | [Linnorm Style](linnorm-style.md) | Combat, Style | Wis 13, Improved Unarmed Strike, base attack bonus +3 or monk level 3rd |
 | [Linnorm Vengeance](linnorm-vengeance.md) | Combat | Wis 13, Improved Unarmed Strike, Linnorm Style, base attack bonus +6 or monk level 6th |
 | [Linnorm Wrath](linnorm-wrath.md) | Combat | Wis 13, Improved Unarmed Strike, Linnorm Style, Linnorm Vengeance, base attack bonus +9 or monk level 9th |
@@ -2906,7 +2905,6 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Rhino Charge](rhino-charge.md) | Combat | Power Attack, Improved Bull Rush, base attack bonus +5 |
 | [Ricochet Toss](ricochet-toss.md) | Weapon Mastery | Quick Draw, base attack bonus +6, weapon training class feature with a ranged weapon |
 | [Righteous Orator](righteous-orator.md) | — | Diplomacy 3 ranks, smite evil class feature |
-| [Righteous Phalanx](righteous-phalanx.md) | Teamwork | Base attack bonus +3, good alignment |
 | [Riptide Attack](riptide-attack.md) | Combat | Improved Drag, Improved Trip, worshiper of a deity of the sea and storms |
 | [Ritual Hex](ritual-hex.md) | — | Knowledge (arcana) 4 ranks, Knowledge (history) 4 ranks, hex class feature |
 | [Ritual Mask](ritual-mask.md) | — | Nameless One, occult rituals |
@@ -3847,12 +3845,11 @@ Feats from other sources. Each name links to its full description.
 | [Basic Harmony](basic-harmony.md) | Teamwork | Bardic performance or raging song |
 | [Brutal Grappler](brutal-grappler.md) | Teamwork | — |
 | [Compelling Harmonies](compelling-harmonies.md) | Teamwork | Basic Harmony, Perform (keyboard, percussion, sing, string, or wind) 5 ranks, bardic performance or raging song |
-| [Darting Retrieval](darting-retrieval.md) | Teamwork | Deft Maneuvers |
+| [Darting Retrieval](darting-retrieval.md) | Combat, Teamwork | Deft Maneuvers |
 | [Exceptional Aid](exceptional-aid.md) | Teamwork | Bonded Mind |
 | [Phalanx Fighter](phalanx-fighter.md) | Teamwork | base attack bonus +3, good alignment |
 | [Share Spells](share-spells.md) | Combat | Bonded Mind, ability to share spells with an animal companion, eidolon, familiar, or phantom, caster level 1st |
 | [Splash Volley](splash-volley.md) | Teamwork | base attack bonus +1 |
 | [Swap Places](swap-places.md) | Teamwork | — |
 | [Take the Hit](take-the-hit.md) | Teamwork | Bonded Mind |
-| [Improved Underhanded](improved-underhanded.md) | Teamwork | — |
 | [Wild Flanking](wild-flanking.md) | Teamwork | Power Attack, base attack bonus +4 |
