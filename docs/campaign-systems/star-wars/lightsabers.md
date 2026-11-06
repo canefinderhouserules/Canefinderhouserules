@@ -26,12 +26,19 @@
 | Heavy Lightsaber | 69420 gp | 2d6 | 2d8 | ×4 | 5 lbs. | Energy | Lunge Weapon. |
 | Heavy Spear | 69420 gp | 2d4 | 2d6 | 19-20/×2 | 6 lbs. | Energy | Reach. Lunge Weapon. Undefensive. |
 | Staff | 69420 gp | 2d4/2d4 | 2d6/2d6 | x3 | 4 lbs. | Energy | Double. Undefensive. |
+| Inquisitor Lightsaber | 69420 gp | 2d4/2d4 | 2d6/2d6 | x2 | 6 lbs. | Energy | Double. Undefensive. Two-Weapon Monster. Intimidating. Sunderable. |
 
 **Defensive:** +1 AC. This doubles if you didn’t use it to attack on your previous turn.  
   
 **Light Flail:** If you spend a swift action, your next attack deals double the weapon's damage (only the weapon's dice, e.g. 1d6 becomes 2d6; no doubling Strength or anything like that). This action carries a –1 penalty on the attack.
 
 **Counter:** +2 to attack when used for any kind of attack of opportunity or counterattack granted by a lightsaber style; it is also +2 to attack when returning bolts.
+
+**Two-Weapon Monster:** As a swift action, you spin the blades for 1 round. While spinning, you gain Two-Weapon Fighting and Improved Two-Weapon Fighting, and the weapon's Intimidating bonus doubles.
+
+**Intimidating:** +2 on Intimidate checks.
+
+**Sunderable:** While the blades are spinning, enemies gain a +4 bonus on sunder attempts against this weapon. When it is sundered, roll d100: on 10 or less the weapon is destroyed; on 11–70 only one blade survives; on 71 or more both blades survive, but the weapon loses Two-Weapon Monster.
 
 **Undefensive:** –2 AC against blasters, and –2 to any attack made to return bolts. (This subtracts from the AC bonus granted by the Force Sensitive feat, so in theory a level 1 character would lose only 1, since they do not have 2 yet, although it can be argued that if you try to defend against shots with the saber it would subtract 2, because you are a punching bag.)
 
