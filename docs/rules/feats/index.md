@@ -2150,7 +2150,6 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Fate-Deck Summoning](fate-deck-summoning.md) | — | Ability to cast conjuration (summoning) spells or use summoning spell-like abilities, a complete fate deck you own |
 | [Fate-Touched](fate-touched.md) | — | — |
 | [Fateful Channel](fateful-channel.md) | — | Channel positive energy 3d6, worshiper of a deity of death and fate |
-| [Favor of the Empress of Torrents](favor-of-the-empress-of-torrents.md) | — | Worshiper of the sea empyreal or pearl seeker paladin, character level 5th |
 | [Favored Animal Focus](favored-animal-focus.md) | — | Animal companion class feature, animal focus class feature |
 | [Favored Community](favored-community.md) | — | Knowledge (local) 2 ranks, must have lived in the settlement for at least 1 year |
 | [Favored Prestige Class](favored-prestige-class.md) | — | — |
@@ -2273,7 +2272,6 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Glorious Heat](glorious-heat.md) | — | Ability to cast divine spells, caster level 5th, worshiper of a deity of the sun |
 | [Gluttonous Gobbler](gluttonous-gobbler.md) | — | Improved Unarmed Strike, Improved Grapple or the grab ability, ogre, size Large or larger |
 | [Gnawer](gnawer.md) | — | Sharptooth, ratfolk |
-| [God of Farming and Hunting’s Blessing](god-of-farming-and-huntings-blessing.md) | — | Weapon Focus (longbow), must be a worshiper of the god of farming and hunting |
 | [Godless Healing](godless-healing.md) | — | Cannot have a patron deity |
 | [Golem’s Conviction](golems-conviction.md) | — | Improved Iron Will, Iron Will, base attack bonus +8 |
 | [Got Your Back](got-your-back.md) | Combat, Teamwork | Int 13, Combat Expertise |
@@ -2370,7 +2368,6 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Horse Whisperer](horse-whisperer.md) | — | — |
 | [Human Guise](human-guise.md) | — | Change shape ability, shapechanger subtype, must be able to change shape into a human or must have a true form that appears human |
 | [Hunter of Metallic Dragons](hunter-of-metallic-dragons.md) | — | Favored enemy (dragon), worshiper of a deity of evil dragons |
-| [Hunter of the God of Evil Dragons](hunter-of-the-god-of-evil-dragons.md) | — | Favored enemy (dragon), worshiper of the god of evil dragons |
 | [Hunting Pair Coordination](hunting-pair-coordination.md) | Combat, Teamwork | Cha 13, Dex 13, Dodge, Hunting Pair Retreat*, Hunting Pair Style*, base attack bonus +6, must have or be an animal companion |
 | [Hunting Pair Retreat](hunting-pair-retreat.md) | Combat, Teamwork | Cha 13, Dex 13, Dodge, Hunting Pair Style*, base attack bonus +4, must have or be an animal companion |
 | [Hunting Pair Style](hunting-pair-style.md) | Combat, Style, Teamwork | Cha 13, must have or be an animal companion |
@@ -2617,7 +2614,6 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Mind Strike](mind-strike.md) | — | Ranged legerdemain class feature |
 | [Mindful Meditation](mindful-meditation.md) | Meditation | Wis 11, [Meditation Master](meditation-master.md) |
 | [Mindfulness Mastery](mindfulness-mastery.md) | Meditation | Wis 19, [Meditation Master](meditation-master.md), [Mindful Meditation](mindful-meditation.md), character level 13th |
-| [Mining Town Bearer](mining-town-bearer.md) | — | — |
 | [Minor Miracle](minor-miracle.md) | — | Wisdom 12, Knowledge (religion) 5 ranks, alignment must match that of your worshiped deity |
 | [Minotaur’s Charge](minotaurs-charge.md) | — | Str 13, Improved Bull Rush, powerful charge |
 | [Mirror Kin](mirror-kin.md) | Teamwork | Bluff 8 ranks, gnome, gnome magic racial trait |
@@ -3419,7 +3415,6 @@ The style feats presented in this book are suited to urban settings. Each style 
 | [Wall of Flesh](wall-of-flesh.md) | Teamwork | Small size or smaller |
 | [Wand Dancer](wand-dancer.md) | — | Dex 13, Dodge, Mobility, Perform (dance) 5 ranks |
 | [Wanderer's Fortune](wanderers-fortune.md) | Conduit | Knowledge (planes) 3 ranks |
-| [Wandering Nomad Tattoo](wandering-nomad-tattoo.md) | — | Spell Focus |
 | [Warding Blood](warding-blood.md) | — | Ghostbane Ichor, Knowledge (religion) 13 ranks, vishkanya |
 | [Warleader's Rage](warleader-s-rage.md) | General | Cha 13, half-orc or orc, non-lawful |
 | [Warmonger](warmonger.md) | — | Cha 13, hobgoblin |
