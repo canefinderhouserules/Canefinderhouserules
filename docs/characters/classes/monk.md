@@ -83,7 +83,7 @@ A monk’s unarmed strike is treated as both a manufactured weapon and a natural
 
 A monk also deals more damage with his unarmed strikes than a normal person would, as shown above on Table 3–10. The unarmed damage values listed on Table 3–10 is for Medium monks. A Small monk deals less damage than the amount given there with his unarmed attacks, while a Large monk deals more damage; see Small or Large Monk Unarmed Damage on the table given below.
 
-## Small or Large Monk Unarmed Damage
+**Table: Small or Large Monk Unarmed Damage**
 
 | Level     | Damage (Small Monk) | Damage (Large Monk) |
 |-----------|---------------------|---------------------|
@@ -94,49 +94,89 @@ A monk also deals more damage with his unarmed strikes than a normal person woul
 | 16th–19th | 2d6                 | 3d8                 |
 | 20th      | 2d8                 | 4d8                 |
 
-**Bonus Feat:** At 2nd level (when the monk gains two bonus feats: the one normally gained at 1st level and the one gained at 2nd level) and every 4 levels thereafter (6th, 10th, and so on), a monk may select a bonus feat. These feats must be taken from the following list: [Catch Off-Guard](../../rules/feats/catch-off-guard.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Deflect Arrows](../../rules/feats/deflect-arrows.md), Dodge, [Improved Grapple](../../rules/feats/improved-grapple.md), [Scorpion Style](../../rules/feats/scorpion-style.md), and [Throw Anything](../../rules/feats/throw-anything.md). At 6th level, the following feats are added to the list: [Gorgon’s Fist](../../rules/feats/gorgons-fist.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Disarm](../../rules/feats/improved-disarm.md), [Improved Feint](../../rules/feats/improved-feint.md), [Improved Trip](../../rules/feats/improved-trip.md), and Mobility. At 10th level, the following feats are added to the list: [Improved Critical](../../rules/feats/improved-critical.md), [Medusa’s Wrath](../../rules/feats/medusas-wrath.md), [Snatch Arrows](../../rules/feats/snatch-arrows.md), and [Spring Attack](../../rules/feats/spring-attack.md). A monk need not have any of the prerequisites normally required for these feats to select them.
+### Bonus Feat
 
-**Stunning Fist (Ex)**: At 1st level, the monk gains [Stunning Fist](../../rules/feats/stunning-fist.md) as a bonus feat, even if he does not meet the prerequisites. At 4th level, and every 4 levels thereafter, the monk gains the ability to apply a new condition to the target of his Stunning Fist. This condition replaces stunning the target for 1 round, and a successful saving throw still negates the effect. At 4th level, he can choose to make the target [fatigued](../../rules/appendices/conditions.md#fatigued). At 8th level, he can make the target [sickened](../../rules/appendices/conditions.md#sickened) for 1 minute. At 12th level, he can make the target [staggered](../../rules/appendices/conditions.md#staggered) for 1d6+1 rounds. At 16th level, he can permanently blind or deafen the target. At 20th level, he can paralyze the target for 1d6+1 rounds. The monk must choose which condition will apply before the attack roll is made. These effects do not stack with themselves (a creature sickened by Stunning Fist cannot become [nauseated](../../rules/appendices/conditions.md#nauseated) if hit by Stunning Fist again), but additional hits do increase the duration.
+At 2nd level (when the monk gains two bonus feats: the one normally gained at 1st level and the one gained at 2nd level) and every 4 levels thereafter (6th, 10th, and so on), a monk may select a bonus feat. These feats must be taken from the following list: [Catch Off-Guard](../../rules/feats/catch-off-guard.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Deflect Arrows](../../rules/feats/deflect-arrows.md), Dodge, [Improved Grapple](../../rules/feats/improved-grapple.md), [Scorpion Style](../../rules/feats/scorpion-style.md), and [Throw Anything](../../rules/feats/throw-anything.md). At 6th level, the following feats are added to the list: [Gorgon’s Fist](../../rules/feats/gorgons-fist.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Disarm](../../rules/feats/improved-disarm.md), [Improved Feint](../../rules/feats/improved-feint.md), [Improved Trip](../../rules/feats/improved-trip.md), and Mobility. At 10th level, the following feats are added to the list: [Improved Critical](../../rules/feats/improved-critical.md), [Medusa’s Wrath](../../rules/feats/medusas-wrath.md), [Snatch Arrows](../../rules/feats/snatch-arrows.md), and [Spring Attack](../../rules/feats/spring-attack.md). A monk need not have any of the prerequisites normally required for these feats to select them.
 
-**Evasion (Ex)**: At 2nd level or higher, a monk can avoid even magical and unusual attacks with great agility. If a monk makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, he instead takes no damage. Evasion can be used only if a monk is wearing light armor or no armor. A helpless monk does not gain the benefit of evasion.
+### Stunning Fist (Ex)
 
-**Fast Movement (Ex)**: At 3rd level, a monk gains an enhancement bonus to his base speed, as shown on Table 3–10. A monk in armor or carrying a medium or heavy load loses this extra speed.
+At 1st level, the monk gains [Stunning Fist](../../rules/feats/stunning-fist.md) as a bonus feat, even if he does not meet the prerequisites. At 4th level, and every 4 levels thereafter, the monk gains the ability to apply a new condition to the target of his Stunning Fist. This condition replaces stunning the target for 1 round, and a successful saving throw still negates the effect. At 4th level, he can choose to make the target [fatigued](../../rules/appendices/conditions.md#fatigued). At 8th level, he can make the target [sickened](../../rules/appendices/conditions.md#sickened) for 1 minute. At 12th level, he can make the target [staggered](../../rules/appendices/conditions.md#staggered) for 1d6+1 rounds. At 16th level, he can permanently blind or deafen the target. At 20th level, he can paralyze the target for 1d6+1 rounds. The monk must choose which condition will apply before the attack roll is made. These effects do not stack with themselves (a creature sickened by Stunning Fist cannot become [nauseated](../../rules/appendices/conditions.md#nauseated) if hit by Stunning Fist again), but additional hits do increase the duration.
 
-**Maneuver Training (Ex)**: At 3rd level, a monk uses his monk level in place of his base attack bonus when calculating his Combat Maneuver Bonus. Base attack bonuses granted from other classes are unaffected and are added normally.
+### Evasion (Ex)
 
-**Still Mind (Ex)**: A monk of 3rd level or higher gains a +2 bonus on saving throws against enchantment spells and effects.
+At 2nd level or higher, a monk can avoid even magical and unusual attacks with great agility. If a monk makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, he instead takes no damage. Evasion can be used only if a monk is wearing light armor or no armor. A helpless monk does not gain the benefit of evasion.
 
-***Ki* Pool (Su)**: At 4th level, a monk gains a pool of *ki* points, supernatural energy he can use to accomplish amazing feats. The number of points in a monk’s *ki* pool is equal to 1/2 his monk level + his Wisdom modifier. As long as he has at least 1 point in his *ki* pool, he can make a *ki* strike. At 4th level, *ki* strike allows his unarmed attacks to be treated as magic weapons for the purpose of overcoming damage reduction. *Ki* strike improves with the character’s monk level. At 10th level, his unarmed attacks are also treated as lawful weapons for the purpose of overcoming damage reduction. At 16th level, his unarmed attacks are treated as adamantine weapons for the purpose of overcoming damage reduction and bypassing hardness.
+### Fast Movement (Ex)
+
+At 3rd level, a monk gains an enhancement bonus to his base speed, as shown on Table 3–10. A monk in armor or carrying a medium or heavy load loses this extra speed.
+
+### Maneuver Training (Ex)
+
+At 3rd level, a monk uses his monk level in place of his base attack bonus when calculating his Combat Maneuver Bonus. Base attack bonuses granted from other classes are unaffected and are added normally.
+
+### Still Mind (Ex)
+
+A monk of 3rd level or higher gains a +2 bonus on saving throws against enchantment spells and effects.
+
+### Ki Pool (Su)
+
+At 4th level, a monk gains a pool of *ki* points, supernatural energy he can use to accomplish amazing feats. The number of points in a monk’s *ki* pool is equal to 1/2 his monk level + his Wisdom modifier. As long as he has at least 1 point in his *ki* pool, he can make a *ki* strike. At 4th level, *ki* strike allows his unarmed attacks to be treated as magic weapons for the purpose of overcoming damage reduction. *Ki* strike improves with the character’s monk level. At 10th level, his unarmed attacks are also treated as lawful weapons for the purpose of overcoming damage reduction. At 16th level, his unarmed attacks are treated as adamantine weapons for the purpose of overcoming damage reduction and bypassing hardness.
 
 By spending 1 point from his *ki* pool, a monk can make one additional attack at his highest attack bonus when making a flurry of blows attack. In addition, he can spend 1 point to increase his base speed by 20 feet for 1 round. Finally, a monk can spend 1 point from his *ki* pool to give himself a +4 dodge bonus to AC for 1 round. Each of these powers is activated as a swift action. A monk gains additional powers that consume points from his *ki* pool as he gains levels.
 
 The *ki* pool is replenished each morning after 8 hours of rest or meditation; these hours do not need to be consecutive.
 
-**Slow Fall (Ex)**: At 4th level or higher, a monk within arm’s reach of a wall can use it to slow his descent. When first gaining this ability, he takes damage as if the fall were 20 feet shorter than it actually is. The monk’s ability to slow his fall (that is, to reduce the effective distance of the fall when next to a wall) improves with his monk level until at 20th level he can use a nearby wall to slow his descent and fall any distance without harm.
+### Slow Fall (Ex)
 
-**High Jump (Ex)**: At 5th level, a monk adds his level to all [Acrobatics](../../rules/skills/acrobatics.md) checks made to jump, both for vertical jumps and horizontal jumps. In addition, he always counts as having a running start when making jump checks using Acrobatics. By spending 1 point from his *ki* pool as a swift action, a monk gains a +20 bonus on Acrobatics checks made to jump for 1 round.
+At 4th level or higher, a monk within arm’s reach of a wall can use it to slow his descent. When first gaining this ability, he takes damage as if the fall were 20 feet shorter than it actually is. The monk’s ability to slow his fall (that is, to reduce the effective distance of the fall when next to a wall) improves with his monk level until at 20th level he can use a nearby wall to slow his descent and fall any distance without harm.
 
-**Purity of Body (Ex)**: At 5th level, a monk gains immunity to all diseases, including supernatural and magical diseases.
+### High Jump (Ex)
 
-**Wholeness of Body (Su)**: At 7th level or higher, a monk can heal his own wounds as a standard action. He can heal a number of hit points of damage equal to his monk level by using 2 points from his *ki* pool.
+At 5th level, a monk adds his level to all [Acrobatics](../../rules/skills/acrobatics.md) checks made to jump, both for vertical jumps and horizontal jumps. In addition, he always counts as having a running start when making jump checks using Acrobatics. By spending 1 point from his *ki* pool as a swift action, a monk gains a +20 bonus on Acrobatics checks made to jump for 1 round.
 
-**Improved Evasion (Ex)**: At 9th level, a monk’s evasion ability improves. He still takes no damage on a successful Reflex saving throw against attacks, but henceforth he takes only half damage on a failed save. A helpless monk does not gain the benefit of improved evasion.
+### Purity of Body (Ex)
 
-**Diamond Body (Su)**: At 11th level, a monk gains immunity to poisons of all kinds.
+At 5th level, a monk gains immunity to all diseases, including supernatural and magical diseases.
 
-**Abundant Step (Su)**: At 12th level or higher, a monk can slip magically between spaces, as if using the spell [*dimension door*](../../magic/spells/dimension-door.md). Using this ability is a move action that consumes 2 points from his *ki* pool. His caster level for this effect is equal to his monk level. He cannot take other creatures with him when he uses this ability.
+### Wholeness of Body (Su)
 
-**Diamond Soul (Ex)**: At 13th level, a monk gains spell resistance equal to his current monk level + 10. In order to affect the monk with a spell, a spellcaster must get a result on a caster level check (1d20 + caster level) that equals or exceeds the monk’s spell resistance.
+At 7th level or higher, a monk can heal his own wounds as a standard action. He can heal a number of hit points of damage equal to his monk level by using 2 points from his *ki* pool.
 
-**Quivering Palm (Su)**: Starting at 15th level, a monk can set up vibrations within the body of another creature that can thereafter be fatal if the monk so desires. He can use this quivering palm attack once per day, and he must announce his intent before making his attack roll. Creatures immune to critical hits cannot be affected. Otherwise, if the monk strikes successfully and the target takes damage from the blow, the quivering palm attack succeeds. Thereafter, the monk can try to slay the victim at any later time, as long as the attempt is made within a number of days equal to his monk level. To make such an attempt, the monk merely wills the target to die (a free action), and unless the target makes a Fortitude saving throw (DC 10 + 1/2 the monk’s level + the monk’s Wis modifier), it dies. If the saving throw is successful, the target is no longer in danger from that particular quivering palm attack, but it may still be affected by another one at a later time. A monk can have no more than 1 quivering palm in effect at one time. If a monk uses quivering palm while another is still in effect, the previous effect is negated.
+### Improved Evasion (Ex)
 
-**Timeless Body (Ex)**: At 17th level, a monk no longer takes penalties to his ability scores for aging and cannot be magically aged. Any such penalties that he has already taken, however, remain in place. Age bonuses still accrue, and the monk still dies of old age when his time is up.
+At 9th level, a monk’s evasion ability improves. He still takes no damage on a successful Reflex saving throw against attacks, but henceforth he takes only half damage on a failed save. A helpless monk does not gain the benefit of improved evasion.
 
-**Tongue of the Sun and Moon (Ex)**: A monk of 17th level or higher can speak with any living creature.
+### Diamond Body (Su)
 
-**Empty Body (Su)**: At 19th level, a monk gains the ability to assume an ethereal state for 1 minute as though using the spell *etherealness.* Using this ability is a move action that consumes 3 points from his *ki* pool. This ability only affects the monk and cannot be used to make other creatures ethereal.
+At 11th level, a monk gains immunity to poisons of all kinds.
 
-**Perfect Self**: At 20th level, a monk becomes a magical creature. He is forevermore treated as an outsider rather than as a humanoid (or whatever the monk’s creature type was) for the purpose of spells and magical effects. Additionally, the monk gains damage reduction 10/ chaotic, which allows him to ignore the first 10 points of damage from any attack made by a nonchaotic weapon or by any natural attack made by a creature that doesn’t have similar damage reduction. Unlike other outsiders, the monk can still be brought back from the dead as if he were a member of his previous creature type.
+### Abundant Step (Su)
+
+At 12th level or higher, a monk can slip magically between spaces, as if using the spell [*dimension door*](../../magic/spells/dimension-door.md). Using this ability is a move action that consumes 2 points from his *ki* pool. His caster level for this effect is equal to his monk level. He cannot take other creatures with him when he uses this ability.
+
+### Diamond Soul (Ex)
+
+At 13th level, a monk gains spell resistance equal to his current monk level + 10. In order to affect the monk with a spell, a spellcaster must get a result on a caster level check (1d20 + caster level) that equals or exceeds the monk’s spell resistance.
+
+### Quivering Palm (Su)
+
+Starting at 15th level, a monk can set up vibrations within the body of another creature that can thereafter be fatal if the monk so desires. He can use this quivering palm attack once per day, and he must announce his intent before making his attack roll. Creatures immune to critical hits cannot be affected. Otherwise, if the monk strikes successfully and the target takes damage from the blow, the quivering palm attack succeeds. Thereafter, the monk can try to slay the victim at any later time, as long as the attempt is made within a number of days equal to his monk level. To make such an attempt, the monk merely wills the target to die (a free action), and unless the target makes a Fortitude saving throw (DC 10 + 1/2 the monk’s level + the monk’s Wis modifier), it dies. If the saving throw is successful, the target is no longer in danger from that particular quivering palm attack, but it may still be affected by another one at a later time. A monk can have no more than 1 quivering palm in effect at one time. If a monk uses quivering palm while another is still in effect, the previous effect is negated.
+
+### Timeless Body (Ex)
+
+At 17th level, a monk no longer takes penalties to his ability scores for aging and cannot be magically aged. Any such penalties that he has already taken, however, remain in place. Age bonuses still accrue, and the monk still dies of old age when his time is up.
+
+### Tongue of the Sun and Moon (Ex)
+
+A monk of 17th level or higher can speak with any living creature.
+
+### Empty Body (Su)
+
+At 19th level, a monk gains the ability to assume an ethereal state for 1 minute as though using the spell *etherealness.* Using this ability is a move action that consumes 3 points from his *ki* pool. This ability only affects the monk and cannot be used to make other creatures ethereal.
+
+### Perfect Self
+
+At 20th level, a monk becomes a magical creature. He is forevermore treated as an outsider rather than as a humanoid (or whatever the monk’s creature type was) for the purpose of spells and magical effects. Additionally, the monk gains damage reduction 10/ chaotic, which allows him to ignore the first 10 points of damage from any attack made by a nonchaotic weapon or by any natural attack made by a creature that doesn’t have similar damage reduction. Unlike other outsiders, the monk can still be brought back from the dead as if he were a member of his previous creature type.
 
 ## Ex-Monks
 

@@ -488,7 +488,7 @@ As long as she has at least 1 point in her *ki* pool, a shigenjo can make a *ki*
 
 This ability replaces the shigenjo’s 7th-level [revelation](oracle.md#revelation).
 
-**Quivering Palm (Su)**: At 15th level, a shigenjo may learn quivering palm as the monk ability of the same name in place of a revelation. She treats her oracle level as her monk level for this ability, and the DC is based on her Charisma bonus instead of her Wisdom bonus.
+**Quivering Palm (Su)**: At 15th level, a shigenjo may learn quivering palm as the [monk ability](monk.md#quivering-palm-su) of the same name in place of a revelation. She treats her oracle level as her monk level for this ability, and the DC is based on her Charisma bonus instead of her Wisdom bonus.
 
 **Final Revelation**: Upon reaching 20th level, you achieve true enlightenment and becomes one with the celestial spirits. You gain the ability to speak with any creature that uses a language. For a number of days equal to your Wisdom score, you can ignore the negative effects of extreme weather, starvation, thirst, and exhaustion. If you die, your powerful connection to the celestial realm allows you to be reborn 3 days later (as [*reincarnate*](../../magic/spells/reincarnate.md)). This replaces the final revelation of the shigenjo’s mystery.
 

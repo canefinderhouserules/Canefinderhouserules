@@ -154,7 +154,7 @@ A monk with this ability can spend 4 ki points to unleash a gout of energy in a 
 
 #### Empty Body (Su)
 
-A monk with this ki power gains the ability to assume an ethereal state for 1 minute as though using the spell etherealness, using his monk level as his caster level. Using this ability is a move action that consumes 3 points from the monk’s ki pool. This ability affects only the monk and cannot be used to make other creatures ethereal.
+A monk with this ki power gains the ability to assume an ethereal state for 1 minute as though using the spell etherealness, using his monk level as his caster level. Using this ability is a move action that consumes 3 points from the [monk’s ki pool](monk.md#ki-pool-su). This ability affects only the monk and cannot be used to make other creatures ethereal.
 
 #### Feather Balance (Ex)
 
@@ -314,7 +314,7 @@ The monk slams his head into his enemy’s head, leaving his foe reeling. If the
 
 ### Knockback Kick
 
-The monk attempts to knock his foe back with a powerful kick. If the attack hits, the monk can attempt a free combat maneuver check against the foe (using the base attack bonus of the attack used to hit the foe). If the check is successful, the foe is knocked 10 feet directly away from the monk. This distance increases by 10 feet for every 5 by which the check exceeds the foe’s CMD, to a maximum distance equal to the monk’s fast movement bonus. This movement does not provoke an attack of opportunity. The foe stops moving if it strikes another creature, barrier, or otherwise solid object. The creature is not knocked [prone](../../rules/appendices/conditions.md#prone) by this movement. The monk must attack with a kick to use this style strike.
+The monk attempts to knock his foe back with a powerful kick. If the attack hits, the monk can attempt a free combat maneuver check against the foe (using the base attack bonus of the attack used to hit the foe). If the check is successful, the foe is knocked 10 feet directly away from the monk. This distance increases by 10 feet for every 5 by which the check exceeds the foe’s CMD, to a maximum distance equal to the [monk’s fast movement](monk.md#fast-movement-ex) bonus. This movement does not provoke an attack of opportunity. The foe stops moving if it strikes another creature, barrier, or otherwise solid object. The creature is not knocked [prone](../../rules/appendices/conditions.md#prone) by this movement. The monk must attack with a kick to use this style strike.
 
 ### Leg Sweep
 
@@ -342,7 +342,7 @@ The monk gives a sharp blow to a foe's throat, hampering its ability to speak fo
 
 ### Improved Evasion (Ex)
 
-At 9th level, a monk’s evasion ability improves. He still takes no damage on successful Reflex saving throws against attacks, but henceforth he takes only half damage on failed saves. A helpless monk does not gain the benefit of improved evasion.
+At 9th level, a [monk’s evasion](monk.md#evasion-ex) ability improves. He still takes no damage on successful Reflex saving throws against attacks, but henceforth he takes only half damage on failed saves. A helpless monk does not gain the benefit of improved evasion.
 
 ### Tongue of the Sun and Moon (Ex)
 
