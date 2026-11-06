@@ -79,15 +79,15 @@ A samurai who wishes to change his order must undertake a lengthy process to ded
 
 Starting at 1st level, the samurai gains resolve that he can call upon to endure even the most devastating wounds and afflictions. He can use this ability once per day at 1st level, plus one additional time per day for every two samurai levels beyond 1st. Whenever the samurai defeats the target of his challenge, he regains one daily use of his resolve, up to his maximum number of uses per day. Defeating the target of his challenge usually involves reducing the target to 0 hit points or fewer, but the GM might rule that an enemy who surrenders or flees the battle is also defeated. He can use this resolve in a number of ways.
 
-### Determined
+#### Determined
 
 As a standard action, the samurai can spend one use of his resolve to remove the [fatigued](../../rules/appendices/conditions.md#fatigued), [shaken](../../rules/appendices/conditions.md#shaken), or [sickened](../../rules/appendices/conditions.md#sickened) condition. If the samurai is at least 8th level, he can alternatively remove the [exhausted](../../rules/appendices/conditions.md#exhausted), [frightened](../../rules/appendices/conditions.md#frightened), [nauseated](../../rules/appendices/conditions.md#nauseated), or [staggered](../../rules/appendices/conditions.md#staggered) condition. If the condition has a duration longer than 1 hour or is permanent, this ability removes the condition for 1 hour, at which time the condition returns.
 
-### Resolute
+#### Resolute
 
 Whenever the samurai is required to make a Fortitude or Will save, he can spend one use of his resolve as an immediate action to roll twice and take the better result. He must decide to use this ability before he rolls the saving throw.
 
-### Unstoppable
+#### Unstoppable
 
 When the samurai is reduced to fewer than 0 hit points but not slain, he can spend one use of his resolve as an immediate action to instantly stabilize and remain conscious. He is staggered, but he does not fall unconscious and begin dying if he takes a standard action. He does fall unconscious if he takes additional damage from any source.
 
