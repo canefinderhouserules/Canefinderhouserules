@@ -65,6 +65,9 @@
       if (current !== link) return;
       var html = sectionHtml(doc, id);
       if (!html) return;
+      // A link titled "also: a, b" previews those sections of the same page too (for features that only work together).
+      var also = (link.dataset.previewAlso || '').split(',').map(function (s) { return s.trim(); }).filter(Boolean);
+      also.forEach(function (extra) { var h = sectionHtml(doc, extra); if (h) html += '<hr>' + h; });
       if (!box) {
         box = document.createElement('div');
         box.className = 'section-preview md-typeset';
@@ -83,6 +86,9 @@
     if (a.classList.contains('headerlink') || a.closest('.md-nav')) return null;
     var url = new URL(a.href, location.href);
     if (url.origin !== location.origin || !url.hash || url.hash.length < 2) return null;
+    // Move an "also: ..." title into a data attribute so the browser's own tooltip does not show it.
+    var m = (a.getAttribute('title') || '').match(/^also:\s*(.+)$/);
+    if (m) { a.dataset.previewAlso = m[1]; a.removeAttribute('title'); }
     return a;
   }
 
