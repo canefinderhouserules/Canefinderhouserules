@@ -91,7 +91,11 @@ At 6th level, a champion can use this ability to attack any number of opponents,
 
 #### Valiant Stand (Su)
 
-At 4th level, a champion gains a sacred bonus on attack rolls and to AC equal to 1/2 his class level when adjacent to more than one opponent. He does not gain this bonus if he is also adjacent to an ally.
+At 4th level, a champion gains a sacred bonus on attack rolls and to AC equal to 1/2 his class level (maximum +5) when adjacent to more than one opponent. He does not gain this bonus if he is also adjacent to an ally.
+
+??? note "Original rule"
+
+    At 4th level, a champion gains a sacred bonus on attack rolls and to AC equal to 1/2 his class level when adjacent to more than one opponent. He does not gain this bonus if he is also adjacent to an ally.
 
 #### Shield the Weak (Su)
 
