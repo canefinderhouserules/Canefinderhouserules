@@ -100,6 +100,10 @@ group is a CR 10 encounter—worth 9,600 XP according to Table 12–2. At CR 8, 
 
 *NPC Gear Adjustments*: You can significantly increase or decrease the power level of an NPC with class levels by adjusting the NPC’s gear. The combined value of an NPC’s gear is given in [Table 14–9](npcs/index.md). A classed NPC encountered with no gear should have his CR reduced by 1 (provided that loss of gear actually hampers the NPC), while a classed NPC that instead has gear equivalent to that of a PC (as listed on Table 12–4) has a CR of 1 higher than his actual CR. Be careful awarding NPCs this extra gear, though—especially at high levels, where you can blow out your entire adventure’s treasure budget in one fell swoop!
 
+### Character Wealth by Level
+
+The same table, with notes for players, is in [Wealth and Money](../equipment/wealth-and-money.md#character-wealth-by-level).
+
 **Table 12–4: Character Wealth by Level**
 
 | PC Level* | Wealth |
