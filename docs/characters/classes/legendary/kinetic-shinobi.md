@@ -68,7 +68,27 @@ See the [kineticist elements](../kineticist.md#elements).
 
 ### Jutsu Basics (Su)
 
-A kinetic shinobi gains following infusions: Physical Jutsu and Elemental Jutsu
+A kinetic shinobi gains the following two form infusions.
+
+#### Physical Jutsu
+
+**Element(s)** universal; **Type** form infusion (Sp); **Level** 1; **Burn** 0
+
+**Associated Blasts** any physical
+
+**Saving Throw** none
+
+Your kinetic blast transforms into a specialized weapon. You can use this infusion as part of any attack action including a full attack action, creating a light or 1 handed melee weapon in your hand that deals 1d4+Cha damage regardless of class level, targeting a creature’s normal AC. Unlike kinetic blade, you can use the [Vital Strike](../../../rules/feats/vital-strike.md) and [Spring Attack](../../../rules/feats/spring-attack.md) feats with this infusion. The damage bonus from elemental overflow does not apply to blasts used with this infusion.
+
+#### Elemental Jutsu
+
+**Element(s)** universal; **Type** form infusion (Sp); **Level** 1; **Burn** 0
+
+**Associated Blasts** any energy
+
+**Saving Throw** none
+
+Your kinetic blast transforms into a specialized weapon. You can use this infusion as part of any attack action including a full attack action, creating a light or 1 handed melee weapon in your hand that deals 1d4 damage regardless of class level, targeting a creature’s touch AC. Unlike kinetic blade, you can use the Vital Strike and Spring Attack feats with this infusion. The damage bonus from elemental overflow does not apply to blasts used with this infusion. When using sneak attack with this form infusion you count the dice as being one step lower (1d4 instead of 1d6).
 
 ### Shinobi Talents (Ex)
 
@@ -135,28 +155,6 @@ At 7th level and higher, a kinetic shinobi can avoid even magical and unusual at
 ### Jutsu Genius (Su)
 
 At 20th level, the cost of each of the kinetic shinobi’s metajutsu abilities is reduced by 1 point. In addition, when they would deal sneak attack damage with an attack to a creature possessing at least half as many hit dice as their character level, they can instead forgo the sneak attack damage to recover 2 points in their *ki* pool. Once a creature is affected by this ability they cannot be affected by it again for 24 hours.
-
-### Kinetic Shinobi Infusions
-
-#### Physical Jutsu
-
-**Element(s)**universal; **Type**form infusion (Sp); **Level**1; **Burn**0
-
-**Associated Blasts**any physical
-
-**Saving Throw**none
-
-Your kinetic blast transforms into a specialized weapon. You can use this infusion as part of any attack action including a full attack action, creating a light or 1 handed melee weapon in your hand that deals 1d4+Cha damage regardless of class level, targeting a creature’s normal AC. Unlike kinetic blade, you can use the [Vital Strike](../../../rules/feats/vital-strike.md) and [Spring Attack](../../../rules/feats/spring-attack.md) feats with this infusion. The damage bonus from elemental overflow does not apply to blasts used with this infusion.
-
-#### Elemental Jutsu
-
-**Element(s)**universal; **Type**form infusion (Sp); **Level**1; **Burn**0
-
-**Associated Blasts**any energy
-
-**Saving Throw**none
-
-Your kinetic blast transforms into a specialized weapon. You can use this infusion as part of any attack action including a full attack action, creating a light or 1 handed melee weapon in your hand that deals 1d4 damage regardless of class level, targeting a creature’s touch AC. Unlike kinetic blade, you can use the Vital Strike and Spring Attack feats with this infusion. The damage bonus from elemental overflow does not apply to blasts used with this infusion. When using sneak attack with this form infusion you count the dice as being one step lower (1d4 instead of 1d6).
 
 ## Favored Class Bonuses
 
