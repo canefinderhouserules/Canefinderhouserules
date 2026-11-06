@@ -55,15 +55,25 @@ The envoy of balance's class skills (and the key ability for each skill) are Dip
 
 The following are class features of the envoy of balance prestige class.
 
-**Weapon and Armor Proficiency**: An envoy of balance gains no additional weapon or armor proficiencies.
+#### Weapon and Armor Proficiency
 
-**Spells per Day**: When an envoy of balance gains a level, she gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before adding the prestige class. She does not, however, gain any other benefits a character of that class would have gained, except for additional spells per day, spells known (if a spontaneous spellcaster), and an increased effective level of spellcasting. If a character has more than one spellcasting class, she must decide to which class she adds the new level for the purpose of determining spells per day.
+An envoy of balance gains no additional weapon or armor proficiencies.
 
-**Incisive Spells (Su)**: An envoy of balance gains a +1 bonus on caster level checks to overcome the spell resistance of creatures with an alignment subtype. This bonus increases to +2 at 9th level.
+#### Spells per Day
 
-**Aligned Class (Ex)**: At 2nd level, a envoy of balance must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
+When an envoy of balance gains a level, she gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before adding the prestige class. She does not, however, gain any other benefits a character of that class would have gained, except for additional spells per day, spells known (if a spontaneous spellcaster), and an increased effective level of spellcasting. If a character has more than one spellcasting class, she must decide to which class she adds the new level for the purpose of determining spells per day.
 
-**Endowment (Su)**: At 2nd level and again at 4th, 6th, and 8th level, an envoy of balance gains one of the following endowments. He can swap an endowment for a channel feat, metamagic feat, or summoning feat.
+#### Incisive Spells (Su)
+
+An envoy of balance gains a +1 bonus on caster level checks to overcome the spell resistance of creatures with an alignment subtype. This bonus increases to +2 at 9th level.
+
+#### Aligned Class (Ex)
+
+At 2nd level, a envoy of balance must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
+
+#### Endowment (Su)
+
+At 2nd level and again at 4th, 6th, and 8th level, an envoy of balance gains one of the following endowments. He can swap an endowment for a channel feat, metamagic feat, or summoning feat.
 
 ??? note "Original rule"
 
@@ -81,12 +91,22 @@ The following are class features of the envoy of balance prestige class.
 
 *Utterly Inscrutable*: The envoy of balance gains the benefits of a [*mind blank*](../../magic/spells/mind-blank.md) spell whose caster level is equal to her character level. She can suppress this ability as a swift action and resume it as an immediate action. An envoy of balance must be 8th level to choose this endowment.
 
-**Contravening Armament (Su)**: At 3rd level, an envoy of balance's natural and manufactured weapons bypass alignment-based damage reduction. As a standard action, she can touch an ally to transfer this ability to him for 1 minute, during which time the envoy of balance can't benefit from the ability. The envoy of balance can transfer this ability a number of times per day equal to 1/2 her class level.
+#### Contravening Armament (Su)
 
-**Ethical Paradox (Su)**: At 5th level, an envoy of balance remains unaffected by effects from spells and magical abilities based on her alignment or faith. She doesn't trigger glyphs, symbols, magical traps, or magical sensors set to activate based on a creature's alignment or religion. She counts as the most favorable alignment or faith for the purposes of any harmful effects these alignment- or faith-based spells or abilities may have, but doesn't gain benefits these effects might grant those of a particular alignment or faith unless she is actually of that alignment or faith.
+At 3rd level, an envoy of balance's natural and manufactured weapons bypass alignment-based damage reduction. As a standard action, she can touch an ally to transfer this ability to him for 1 minute, during which time the envoy of balance can't benefit from the ability. The envoy of balance can transfer this ability a number of times per day equal to 1/2 her class level.
 
-**Retributive Symmetry (Su)**: At 7th level, once per day as an immediate action, an envoy of balance can cause a spell targeting her to affect both herself and the spell's caster at full effect, as if both creatures had [*spell turning*](../../magic/spells/spell-turning.md) cast on them and then rolled the appropriate result on that spell's table.
+#### Ethical Paradox (Su)
 
-**Scales of Mortality (Su)**: At 10th level, once per day as a standard action, an envoy of balance can make a melee touch attack, delivering a killing touch against a living creature. If the attack hits and the target is not neutral, the target is subject to a [*power word kill*](../../magic/spells/power-word-kill.md) spell. If the attack misses or the target is neutral, this ability is wasted. If the target dies, its bodily remains (but not its equipment) turn to dust, as [*disintegrate*](../../magic/spells/disintegrate.md). If this ability kills the target, the envoy of balance becomes aware of that creature's alignment and may then touch the remains of another dead creature with fewer Hit Dice than or Hit Dice equal to the slain creature's and with an alignment opposite to the slain creature's on the good-evil axis, the lawful-chaotic axis, or both. This revives the second dead creature as if via [*true resurrection*](../../magic/spells/true-resurrection.md). The envoy of balance can delay using this reviving touch for up to 1 hour after successfully using the killing touch, but after that time the reviving power dissipates. The envoy doesn't need to provide the material component for *true resurrection*; the caster level for both the *power word kill* and the *true resurrection* effects is equal to her character level.
+At 5th level, an envoy of balance remains unaffected by effects from spells and magical abilities based on her alignment or faith. She doesn't trigger glyphs, symbols, magical traps, or magical sensors set to activate based on a creature's alignment or religion. She counts as the most favorable alignment or faith for the purposes of any harmful effects these alignment- or faith-based spells or abilities may have, but doesn't gain benefits these effects might grant those of a particular alignment or faith unless she is actually of that alignment or faith.
 
-**Ex-Envoys of Balance**: An envoy of balance who ceases to be neutral loses all class features until she regains her alignment via [*atonement*](../../magic/spells/atonement.md).
+#### Retributive Symmetry (Su)
+
+At 7th level, once per day as an immediate action, an envoy of balance can cause a spell targeting her to affect both herself and the spell's caster at full effect, as if both creatures had [*spell turning*](../../magic/spells/spell-turning.md) cast on them and then rolled the appropriate result on that spell's table.
+
+#### Scales of Mortality (Su)
+
+At 10th level, once per day as a standard action, an envoy of balance can make a melee touch attack, delivering a killing touch against a living creature. If the attack hits and the target is not neutral, the target is subject to a [*power word kill*](../../magic/spells/power-word-kill.md) spell. If the attack misses or the target is neutral, this ability is wasted. If the target dies, its bodily remains (but not its equipment) turn to dust, as [*disintegrate*](../../magic/spells/disintegrate.md). If this ability kills the target, the envoy of balance becomes aware of that creature's alignment and may then touch the remains of another dead creature with fewer Hit Dice than or Hit Dice equal to the slain creature's and with an alignment opposite to the slain creature's on the good-evil axis, the lawful-chaotic axis, or both. This revives the second dead creature as if via [*true resurrection*](../../magic/spells/true-resurrection.md). The envoy of balance can delay using this reviving touch for up to 1 hour after successfully using the killing touch, but after that time the reviving power dissipates. The envoy doesn't need to provide the material component for *true resurrection*; the caster level for both the *power word kill* and the *true resurrection* effects is equal to her character level.
+
+#### Ex-Envoys of Balance
+
+An envoy of balance who ceases to be neutral loses all class features until she regains her alignment via [*atonement*](../../magic/spells/atonement.md).

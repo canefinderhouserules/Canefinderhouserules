@@ -43,33 +43,51 @@ The pirate isles Pirate’s class skills are [Appraise](../../rules/skills/appra
 
 The following are class features of the pirate isles pirate prestige class.
 
-**Quick Appraise (Ex)**: A the pirate isles pirate must at times quickly select the most valuable items to spirit away. She may appraise the value of an item in 1 round.
+#### Quick Appraise (Ex)
 
-**Sodden Stealth (Ex)**: the pirate isles pirates spend their careers studying and adapting to their unique, marshy environs. As a result, they develop skills which allow them to stealthily approach their targets even over the wettest, muddiest ground. Most wear dark green and brown clothes made of oilcloth (to repel water) and reed hats with angled brims to keep rain out of their eyes. the pirate isles pirates sometimes string small beads in their hair to generate a quiet susurrus as they walk. This mimics the sound of wind in the bogs and helps mask the noise of their footsteps.
+A the pirate isles pirate must at times quickly select the most valuable items to spirit away. She may appraise the value of an item in 1 round.
+
+#### Sodden Stealth (Ex)
+
+the pirate isles pirates spend their careers studying and adapting to their unique, marshy environs. As a result, they develop skills which allow them to stealthily approach their targets even over the wettest, muddiest ground. Most wear dark green and brown clothes made of oilcloth (to repel water) and reed hats with angled brims to keep rain out of their eyes. the pirate isles pirates sometimes string small beads in their hair to generate a quiet susurrus as they walk. This mimics the sound of wind in the bogs and helps mask the noise of their footsteps.
 
 A the pirate isles pirate gains a +2 competence bonus on Move Silently checks made in marshes, bogs, or swamps. At 5th level this bonus increases to +4, and at 10th level the bonus increases to +6.
 
-**Bogstep (Ex)**: At 2nd level, the pirate isles pirate learns how to move quickly through the treacherous terrain of her home. She moves through shallow bogs normally, and it costs her 2 squares of movement to move into a square with a deep bog. She can Tumble through shallow bogs with no penalty and can Tumble through deep bogs with a –4 penalty.
+#### Bogstep (Ex)
 
-**Deep Breath (Ex)**: At 2nd level, the pirate isles pirate can hold her breath for a number of rounds equal to three times her Constitution score before she must start making Constitution checks.
+At 2nd level, the pirate isles pirate learns how to move quickly through the treacherous terrain of her home. She moves through shallow bogs normally, and it costs her 2 squares of movement to move into a square with a deep bog. She can Tumble through shallow bogs with no penalty and can Tumble through deep bogs with a –4 penalty.
 
-**Sneak Attack (Ex)**: This is identical to the [rogue sneak attack](../classes/rogue.md#sneak-attack) ability, and stacks with sneak attack gained from other sources.
+#### Deep Breath (Ex)
 
-**Navigate Maelstrom (Su)**: The Great Storm, the hurricane that constantly rages offshore, poses a hazard to all ships moving along the pirate isles coast. the pirate isles pirates know how to successfully navigate the gusting winds and churning water. The hurricane exerts some unfathomable mystical influence over some of the pirates of the area.
+At 2nd level, the pirate isles pirate can hold her breath for a number of rounds equal to three times her Constitution score before she must start making Constitution checks.
+
+#### Sneak Attack (Ex)
+
+This is identical to the [rogue sneak attack](../classes/rogue.md#sneak-attack) ability, and stacks with sneak attack gained from other sources.
+
+#### Navigate Maelstrom (Su)
+
+The Great Storm, the hurricane that constantly rages offshore, poses a hazard to all ships moving along the pirate isles coast. the pirate isles pirates know how to successfully navigate the gusting winds and churning water. The hurricane exerts some unfathomable mystical influence over some of the pirates of the area.
 
 At 4th level, the pirate isles pirate treats all storms as if they were one category less severe for purposes of sailing and navigation. She treats the Great Storm as if it were a zone of inclement weather, rather than a powerful storm, for purposes of sailing and navigation.
 
-**Grapple Ship (Su)**: As the pirate isles pirate’s connection to the Great Storm grows stronger, she learns to perform impossible feats. At 7th level, the pirate isles pirate gains the ability to stop another ship dead in the water for a short time. To use this ability, the pirate isles pirate must hurl a grappling hook at the target ship. The pirate is proficient with the grappling hook, and she throws it with a 20-foot range increment.
+#### Grapple Ship (Su)
+
+As the pirate isles pirate’s connection to the Great Storm grows stronger, she learns to perform impossible feats. At 7th level, the pirate isles pirate gains the ability to stop another ship dead in the water for a short time. To use this ability, the pirate isles pirate must hurl a grappling hook at the target ship. The pirate is proficient with the grappling hook, and she throws it with a 20-foot range increment.
 
 If the pirate isles pirate hits the target ship, she then makes an opposed Strength check. She gains a +1 bonus on her check for every crewmate who also grapples the enemy ship, although crewmates are considered non-proficient with grappling hooks and throw them with 10-foot range increments. For every point by which the pirate isles pirate exceeds the ship’s Strength check, she halts its progress for 1 round.
 
-**Shipmind (Su)**: At 8th level, the pirate isles pirate can, once per day as a standard action, control her ship with a thought. The pirate isles pirate must be on the deck of the ship she wishes to control and she must be conscious.
+#### Shipmind (Su)
+
+At 8th level, the pirate isles pirate can, once per day as a standard action, control her ship with a thought. The pirate isles pirate must be on the deck of the ship she wishes to control and she must be conscious.
 
 Once the pirate isles pirate activates her shipmind, she can feel the ship as if it were an extension of her body. She can “see” from the ship anywhere she wants, and adjusting her point of view is a free action. The pirate isles pirate can move the ship as if it were her own body, and it moves over water at her base move or the ship’s normal speed, whichever is greater. She and her ship can move forward and backward, make right angle turns, and come to a dead stop, despite the ship’s size or the weather conditions.
 
 While the pirate isles pirate uses her shipmind ability, her body appears [paralyzed](../../rules/appendices/conditions.md#paralyzed) and unresponsive. She is considered [helpless](../../rules/appendices/conditions.md#helpless) and cannot defend herself, but she retains an awareness of what goes on around her body (and can see her body from her perspective on the ship if she wishes). She may end the shipmind effect as an immediate action. This ability lasts for 1 round per class level.
 
-**Fogcraft (Su)**: At 10th level, the pirate isles pirate gains the incredible power to shape a vessel out of the fog that roils across the boggy landscape. This ability functions only in the pirate isles and is usable once per day.
+#### Fogcraft (Su)
+
+At 10th level, the pirate isles pirate gains the incredible power to shape a vessel out of the fog that roils across the boggy landscape. This ability functions only in the pirate isles and is usable once per day.
 
 Forming a craft takes 10 minutes, and the craft’s duration lasts for a variable number of hours depending on its size. A fogcraft appears made of swirling gray mist but feels solid to the touch. Its unique composition can make it difficult to spot, and the craft makes no sound, but it does not baffle sounds made by its crew.
 

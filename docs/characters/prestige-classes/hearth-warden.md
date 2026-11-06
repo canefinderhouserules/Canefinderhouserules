@@ -45,11 +45,17 @@ The hearth warden's class skills (and the key ability for each skill) are Climb 
 
 The following are class features of the hearth warden prestige class.
 
-**Weapon and Armor Proficiency**: A hearth warden is proficient with all [simple weapons](../../equipment/weapons-simple.md), [longbows](../../equipment/weapons-martial.md#martial-ranged-weapons), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
+#### Weapon and Armor Proficiency
 
-**Spells per Day**: At the indicated levels, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He doesn't, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before gaining this prestige class ability, he must decide to which class he adds the new level for purposes of determining spells per day.
+A hearth warden is proficient with all [simple weapons](../../equipment/weapons-simple.md), [longbows](../../equipment/weapons-martial.md#martial-ranged-weapons), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
-**Favored Enemy (Ex)**: At 1st level, a hearth warden chooses a favored enemy from the list below. This functions like the [ranger class feature](../classes/ranger.md#favored-enemy-ex) of the same name, except that the hearth warden gains an additional ability corresponding with the favored enemy chosen. Additionally, at 8th level, he can select a new favored enemy and the bonus for one such enemy increases by 2 (rather than at 5th and 10th levels).
+#### Spells per Day
+
+At the indicated levels, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He doesn't, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before gaining this prestige class ability, he must decide to which class he adds the new level for purposes of determining spells per day.
+
+#### Favored Enemy (Ex)
+
+At 1st level, a hearth warden chooses a favored enemy from the list below. This functions like the [ranger class feature](../classes/ranger.md#favored-enemy-ex) of the same name, except that the hearth warden gains an additional ability corresponding with the favored enemy chosen. Additionally, at 8th level, he can select a new favored enemy and the bonus for one such enemy increases by 2 (rather than at 5th and 10th levels).
 
 - *Aberrations*: The hearth warden gains a +2 bonus on all saves against spells, spell-like abilities, and supernatural abilities used by aberrations.
 - *Constructs*: The hearth warden's ranged attacks ignore the first 10 points of a construct's DR or hardness.
@@ -58,18 +64,34 @@ The following are class features of the hearth warden prestige class.
 - *Monstrous Humanoids*: The hearth warden gains a +2 bonus on all saves against spells, spell-like abilities, and supernatural abilities used by monstrous humanoids.
 - *Undead*: Arrows loosed from a hearth warden's bow are infused with divine power and deal full damage to any undead that are incorporeal, as if the arrows had the ghost touch weapon special ability.
 
-**Master Archer (Ex)**: At 1st level, and again at 3rd and 5th levels, a hearth warden gains a bonus feat from the following list, even if he doesn't meet the prerequisites: [Archer's Blessing](../../rules/feats/archers-blessing.md), Far Shot, [Focused Shot](../../rules/feats/focused-shot.md), Point Blank Shot, and [Rapid Shot](../../rules/feats/rapid-shot.md). At 3rd level, he adds [Improved Precise Shot](../../rules/feats/improved-precise-shot.md), [Parting Shot](../../rules/feats/parting-shot.md), [Point Blank Master](../../rules/feats/point-blank-master.md), and Manyshot to the list. At 5th level, he adds [Pinpoint Targeting](../../rules/feats/pinpoint-targeting.md) and [Shot on the Run](../../rules/feats/shot-on-the-run.md) to the list. The benefits of these feats apply only when the hearth warden wears light, medium, or no armor.
+#### Master Archer (Ex)
 
-**Fast Movement (Ex)**: At 2nd level, a hearth warden's base land speed increases by 10 feet.
+At 1st level, and again at 3rd and 5th levels, a hearth warden gains a bonus feat from the following list, even if he doesn't meet the prerequisites: [Archer's Blessing](../../rules/feats/archers-blessing.md), Far Shot, [Focused Shot](../../rules/feats/focused-shot.md), Point Blank Shot, and [Rapid Shot](../../rules/feats/rapid-shot.md). At 3rd level, he adds [Improved Precise Shot](../../rules/feats/improved-precise-shot.md), [Parting Shot](../../rules/feats/parting-shot.md), [Point Blank Master](../../rules/feats/point-blank-master.md), and Manyshot to the list. At 5th level, he adds [Pinpoint Targeting](../../rules/feats/pinpoint-targeting.md) and [Shot on the Run](../../rules/feats/shot-on-the-run.md) to the list. The benefits of these feats apply only when the hearth warden wears light, medium, or no armor.
 
-**Favored Terrain (Hinterland) (Ex)**: At 2nd level, when a hearth warden is within a 10-mile radius of a settlement with a population of 2,000 or fewer individuals, he gains a +2 bonus on initiative checks and [Knowledge](../../rules/skills/knowledge.md) (geography), [Perception](../../rules/skills/perception.md), [Stealth](../../rules/skills/stealth.md), and [Survival](../../rules/skills/survival.md) checks. A hearth warden traveling through this terrain leaves no trail and can't be tracked (although he can leave a trail if he so desires). At 9th level, these initiative and skill bonuses increase to +4, and the bonuses function as long as the hearth warden is within 20 miles of a settlement with a population of 2,000 or fewer.
+#### Fast Movement (Ex)
 
-**Hinterland Stride (Ex)**: At 3rd level, a hearth warden moves with ease through natural and agrarian environments. This functions exactly like woodland stride, except that a hearth warden also moves normally through any nonmagical difficult terrain in settled areas with a population of 2,000 or fewer individuals, such as a farm or village.
+At 2nd level, a hearth warden's base land speed increases by 10 feet.
 
-**Chosen Kin (Su)**: At 4th level, as a standard action, a hearth warden can designate a number of allies up to 3 + his Wisdom modifier to be his chosen kin. Allies so designated gain half the hearth warden's favored terrain (hinterland) bonus and half of the bonuses granted by defended hearth. Members of his chosen kin must remain within 30 feet of the hearth warden in order to gain these benefits. At 7th level, this range increases to 60 feet.
+#### Favored Terrain (Hinterland) (Ex)
 
-**Defended Hearth (Su)**: At 6th level, a hearth warden can designate a settlement as a defended hearth, allowing him to sense the presence of unnatural creatures within 5 miles of it. Aberrations, constructs, dragons, magical beasts, monstrous humanoids, outsiders, and undead constitute unnatural presences for this purpose. Though the hearth warden is aware of potential danger, he doesn't know the exact nature or location of the creature unless he can perceive it. The defended hearth must be a settled area with a population of 2,000 or fewer individuals, and the hearth warden must spend 24 hours carefully studying the entire area to activate this ability, after which he gains a +2 favored terrain bonus in that settlement, which stacks with any other favored terrain bonus he receives in that area. This bonus increases to +4 at 10th level. A hearth warden can have a number of defended hearths equal to his Wisdom bonus (minimum 1). When he reaches his maximum number of defended hearths, he can select a new defended hearth by abandoning an existing one and performing the ritual for a new area.
+At 2nd level, when a hearth warden is within a 10-mile radius of a settlement with a population of 2,000 or fewer individuals, he gains a +2 bonus on initiative checks and [Knowledge](../../rules/skills/knowledge.md) (geography), [Perception](../../rules/skills/perception.md), [Stealth](../../rules/skills/stealth.md), and [Survival](../../rules/skills/survival.md) checks. A hearth warden traveling through this terrain leaves no trail and can't be tracked (although he can leave a trail if he so desires). At 9th level, these initiative and skill bonuses increase to +4, and the bonuses function as long as the hearth warden is within 20 miles of a settlement with a population of 2,000 or fewer.
 
-**Imbue Arrow (Su)**: At 7th level, a hearth warden gains the ability to place a spell that affects an area upon an arrow. This functions exactly like the arcane archer ability of the same name.
+#### Hinterland Stride (Ex)
 
-**Waymarker Travel (Sp)**: At 10th level, a hearth warden gains the ability to create a waymarker anywhere within the area of a defended hearth. The hearth warden can maintain up to five waymarkers at a time—if the hearth warden creates a sixth waymarker, he chooses which of the previous five deactivates. Once per day as a move action, the hearth warden can cast [*word of recall*](../../magic/spells/word-of-recall.md) as a spell-like ability to teleport to any of his active waymarkers.
+At 3rd level, a hearth warden moves with ease through natural and agrarian environments. This functions exactly like woodland stride, except that a hearth warden also moves normally through any nonmagical difficult terrain in settled areas with a population of 2,000 or fewer individuals, such as a farm or village.
+
+#### Chosen Kin (Su)
+
+At 4th level, as a standard action, a hearth warden can designate a number of allies up to 3 + his Wisdom modifier to be his chosen kin. Allies so designated gain half the hearth warden's favored terrain (hinterland) bonus and half of the bonuses granted by defended hearth. Members of his chosen kin must remain within 30 feet of the hearth warden in order to gain these benefits. At 7th level, this range increases to 60 feet.
+
+#### Defended Hearth (Su)
+
+At 6th level, a hearth warden can designate a settlement as a defended hearth, allowing him to sense the presence of unnatural creatures within 5 miles of it. Aberrations, constructs, dragons, magical beasts, monstrous humanoids, outsiders, and undead constitute unnatural presences for this purpose. Though the hearth warden is aware of potential danger, he doesn't know the exact nature or location of the creature unless he can perceive it. The defended hearth must be a settled area with a population of 2,000 or fewer individuals, and the hearth warden must spend 24 hours carefully studying the entire area to activate this ability, after which he gains a +2 favored terrain bonus in that settlement, which stacks with any other favored terrain bonus he receives in that area. This bonus increases to +4 at 10th level. A hearth warden can have a number of defended hearths equal to his Wisdom bonus (minimum 1). When he reaches his maximum number of defended hearths, he can select a new defended hearth by abandoning an existing one and performing the ritual for a new area.
+
+#### Imbue Arrow (Su)
+
+At 7th level, a hearth warden gains the ability to place a spell that affects an area upon an arrow. This functions exactly like the arcane archer ability of the same name.
+
+#### Waymarker Travel (Sp)
+
+At 10th level, a hearth warden gains the ability to create a waymarker anywhere within the area of a defended hearth. The hearth warden can maintain up to five waymarkers at a time—if the hearth warden creates a sixth waymarker, he chooses which of the previous five deactivates. Once per day as a move action, the hearth warden can cast [*word of recall*](../../magic/spells/word-of-recall.md) as a spell-like ability to teleport to any of his active waymarkers.

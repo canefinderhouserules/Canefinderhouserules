@@ -40,20 +40,34 @@ The chevalier’s class skills are Acrobatics (Dex), Bluff (Cha), Craft (Int), D
 
 ### Class Features
 
-**Mounts and Companions**: Chevalier levels stack with any class that gives you a mount or animal companion, but only to determine the level of that mount or companion.
+#### Mounts and Companions
 
-**Aura of Courage (Su)**: You have an aura of courage equivalent to that of a 3rd-level paladin.
+Chevalier levels stack with any class that gives you a mount or animal companion, but only to determine the level of that mount or companion.
 
-**Recklessness (Ex)**: On the round you enter battle, you gain a morale bonus equal to your class level on attack and damage rolls. You can use this ability once per day per chevalier level (twice per day at 2nd level, and three times per day at 3rd level).
+#### Aura of Courage (Su)
+
+You have an aura of courage equivalent to that of a 3rd-level paladin.
+
+#### Recklessness (Ex)
+
+On the round you enter battle, you gain a morale bonus equal to your class level on attack and damage rolls. You can use this ability once per day per chevalier level (twice per day at 2nd level, and three times per day at 3rd level).
 
 ??? note "Original rule"
 
     **Recklessness (Ex)**: This applies only once per day against a given opponent or group, so re-entering the same battle does not grant it again.
 
-**Controlled Charge (Ex)**: At 2nd level, you no longer take the –2 AC penalty when charging.
+#### Controlled Charge (Ex)
 
-**Stubborn Mind (Ex)**: At 2nd level, if you fail a saving throw against an enchantment spell or effect, you can retry it one round later against the same DC. This is your only extra chance, though other means of breaking the effect still work.
+At 2nd level, you no longer take the –2 AC penalty when charging.
 
-**Poison Immunity (Ex)**: At 3rd level, you become immune to poison.
+#### Stubborn Mind (Ex)
 
-**Smite Evil (Su)**: At 3rd level, once per day, you can smite evil as if you were a paladin of your character level.
+At 2nd level, if you fail a saving throw against an enchantment spell or effect, you can retry it one round later against the same DC. This is your only extra chance, though other means of breaking the effect still work.
+
+#### Poison Immunity (Ex)
+
+At 3rd level, you become immune to poison.
+
+#### Smite Evil (Su)
+
+At 3rd level, once per day, you can smite evil as if you were a paladin of your character level.

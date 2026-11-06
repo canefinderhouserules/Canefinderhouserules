@@ -49,40 +49,74 @@ The gray warden's class skills (and the key ability for each skill) are Bluff (C
 
 The following are class features of the gray warden prestige class.
 
-**Spells per Day**: At every level except 1st, a gray warden gains new spells per day as if he had also gained a level in a divine spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If he had more than one divine spellcasting class before becoming a gray warden, he must decide to which class he adds each level for the purpose of determining spells per day.
+#### Spells per Day
+
+At every level except 1st, a gray warden gains new spells per day as if he had also gained a level in a divine spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If he had more than one divine spellcasting class before becoming a gray warden, he must decide to which class he adds each level for the purpose of determining spells per day.
 
 ??? note "Original rule"
 
     **Spells per Day**: A gray warden did not gain a level of spellcasting at 5th or 9th level.
 
-**Weapon and Armor Proficiency**: A gray warden gains no additional weapon or armor proficiencies.
+#### Weapon and Armor Proficiency
 
-**Anonymity (Ex)**: A gray warden receives a morale bonus equal to his class level on [Bluff](../../rules/skills/bluff.md) and [Disguise](../../rules/skills/disguise.md) checks made to conceal his identity.
+A gray warden gains no additional weapon or armor proficiencies.
 
-**Sneak Attack (Ex)**: This ability is exactly like the [rogue ability](../classes/rogue.md#sneak-attack) of the same name. The extra damage dealt starts at +1d6 and increases by +1d6 every four additional levels (5th, 9th). If a gray warden gets sneak attack bonuses from other sources, the bonuses on damage rolls stack.
+#### Anonymity (Ex)
 
-**Harsh Judgment (Su)**: At 2nd level, a gray warden can pronounce judgment on his enemies. This ability functions like the [inquisitor judgment](../classes/inquisitor.md#judgment-su) ability, except a gray warden can choose only the destruction, piercing, purity, and smiting judgments. For the purpose of determining the bonuses provided by these judgments, a gray warden’s class levels stack with any levels in other classes that grant the judgment ability. At 6th level, and again at 10th level, a gray warden can use this ability one additional time per day.
+A gray warden receives a morale bonus equal to his class level on [Bluff](../../rules/skills/bluff.md) and [Disguise](../../rules/skills/disguise.md) checks made to conceal his identity.
 
-**Stern Gaze (Ex)**: At 2nd level, a gray warden receives a morale bonus equal to 1/2 his class level on [Intimidate](../../rules/skills/intimidate.md) and [Sense Motive](../../rules/skills/sense-motive.md) checks. A gray warden’s class levels stack with levels in other classes that grant the stern gaze ability.
+#### Sneak Attack (Ex)
 
-**Bane (Su)**: At 3rd level, a gray warden can enhance his weapon so it excels against certain foes. This ability is identical to the [inquisitor’s bane](../classes/inquisitor.md#bane-su) ability, and he can use it for a number of rounds per day equal to his class level. These rounds don’t need to be consecutive.
+This ability is exactly like the [rogue ability](../classes/rogue.md#sneak-attack) of the same name. The extra damage dealt starts at +1d6 and increases by +1d6 every four additional levels (5th, 9th). If a gray warden gets sneak attack bonuses from other sources, the bonuses on damage rolls stack.
 
-**Dramatic Interrogation (Ex)**: At 3rd level, if a gray warden threatens a [helpless](../../rules/appendices/conditions.md#helpless) creature, he gains a +5 competence bonus on [Diplomacy](../../rules/skills/diplomacy.md), Intimidate, and [Perform](../../rules/skills/perform.md) checks to influence creatures that have a starting attitude of hostile, unfriendly, friendly, or helpful toward the helpless creature, including the helpless creature itself.
+#### Harsh Judgment (Su)
 
-**Execution Feats (Ex)**: At 4th level, and every two levels thereafter, the gray warden gains a bonus feat in addition to those gained from normal advancement. These feats must be taken from the following list: Enforcer, Gang Up, Sidestep, [Vital Strike](../../rules/feats/vital-strike.md). At 8th level, the following feats are added to the list: [Dastardly Finish](../../rules/feats/dastardly-finish.md), [Deadly Finish](../../rules/feats/deadly-finish.md). A gray warden need not have any of the prerequisites normally required for these feats to select them.
+At 2nd level, a gray warden can pronounce judgment on his enemies. This ability functions like the [inquisitor judgment](../classes/inquisitor.md#judgment-su) ability, except a gray warden can choose only the destruction, piercing, purity, and smiting judgments. For the purpose of determining the bonuses provided by these judgments, a gray warden’s class levels stack with any levels in other classes that grant the judgment ability. At 6th level, and again at 10th level, a gray warden can use this ability one additional time per day.
 
-**Grim Investigator (Ex)**: At 4th level, a gray warden can use Intimidate instead of Diplomacy to gather information. He can reroll any Sense Motive check that opposes someone’s Bluff check before the results of the check are revealed, but must take the result of the reroll, even it’s worse than the original.
+#### Stern Gaze (Ex)
 
-**Second Judgment (Su)**: At 4th level, whenever a gray warden uses his judgment or harsh judgment ability, he selects two different judgments. This consumes only one use of this ability. As a swift action, he can change one of these judgments to another type.
+At 2nd level, a gray warden receives a morale bonus equal to 1/2 his class level on [Intimidate](../../rules/skills/intimidate.md) and [Sense Motive](../../rules/skills/sense-motive.md) checks. A gray warden’s class levels stack with levels in other classes that grant the stern gaze ability.
 
-**Improved Bane (Su)**: At 5th level, whenever a gray warden uses his bane ability, the damage dealt by the weapon against creatures of the selected type increases to 3d6.
+#### Bane (Su)
 
-**Sinister Bane (Su)**: At 7th level, whenever a gray warden uses the bane ability on a melee weapon, his weapon also gains the *menacing* weapon special ability.
+At 3rd level, a gray warden can enhance his weapon so it excels against certain foes. This ability is identical to the [inquisitor’s bane](../classes/inquisitor.md#bane-su) ability, and he can use it for a number of rounds per day equal to his class level. These rounds don’t need to be consecutive.
 
-**Slaying Judgment (Su)**: At 8th level, while using the judgment or harsh judgment ability, a gray warden can declare a slaying judgment against a foe when he makes a melee attack (or ranged attack, if the foe is within 30 feet) against the target. If the attack hits, it deals damage normally and the creature must make a Fortitude saving throw as if struck by a *slaying arrow* of its creature type. The DC of this save is equal to 10 + the gray warden’s class level + the gray warden’s Wisdom modifier. A gray warden can use this ability once per day.
+#### Dramatic Interrogation (Ex)
 
-**Greater Bane (Su)**: At 9th level, whenever a gray warden uses his bane ability the damage dealt by the weapon against creatures of the selected type increases to 4d6.
+At 3rd level, if a gray warden threatens a [helpless](../../rules/appendices/conditions.md#helpless) creature, he gains a +5 competence bonus on [Diplomacy](../../rules/skills/diplomacy.md), Intimidate, and [Perform](../../rules/skills/perform.md) checks to influence creatures that have a starting attitude of hostile, unfriendly, friendly, or helpful toward the helpless creature, including the helpless creature itself.
 
-**Final Demise (Su)**: At 10th level, once per week, when a gray warden kills a creature with a melee weapon, he can draw the soul out of the dead body and imprison it in his weapon as if using a [*soul bind*](../../magic/spells/soul-bind.md) spell (caster level equal to the gray warden’s character level). Destroying the weapon or dispelling this effect frees the soul. After spending 24 hours in the weapon, the captured soul escapes. However, by touching the weapon holding a captured soul to a final blade, the gray warden can transfer the soul into the magical guillotine to remain trapped inside indefinitely. In addition, at 10th level, a gray warden receives initiation in the secret rituals that can release a soul from a final blade.
+#### Execution Feats (Ex)
 
-**True Death (Su)**: At 10th level, anyone slain by a gray warden becomes more difficult to bring back from the dead. Attempts to use [*raise dead*](../../magic/spells/raise-dead.md) or similar magic to resurrect such a creature require a successful DC 25 caster level check, or the spell fails and any material components are wasted.
+At 4th level, and every two levels thereafter, the gray warden gains a bonus feat in addition to those gained from normal advancement. These feats must be taken from the following list: Enforcer, Gang Up, Sidestep, [Vital Strike](../../rules/feats/vital-strike.md). At 8th level, the following feats are added to the list: [Dastardly Finish](../../rules/feats/dastardly-finish.md), [Deadly Finish](../../rules/feats/deadly-finish.md). A gray warden need not have any of the prerequisites normally required for these feats to select them.
+
+#### Grim Investigator (Ex)
+
+At 4th level, a gray warden can use Intimidate instead of Diplomacy to gather information. He can reroll any Sense Motive check that opposes someone’s Bluff check before the results of the check are revealed, but must take the result of the reroll, even it’s worse than the original.
+
+#### Second Judgment (Su)
+
+At 4th level, whenever a gray warden uses his judgment or harsh judgment ability, he selects two different judgments. This consumes only one use of this ability. As a swift action, he can change one of these judgments to another type.
+
+#### Improved Bane (Su)
+
+At 5th level, whenever a gray warden uses his bane ability, the damage dealt by the weapon against creatures of the selected type increases to 3d6.
+
+#### Sinister Bane (Su)
+
+At 7th level, whenever a gray warden uses the bane ability on a melee weapon, his weapon also gains the *menacing* weapon special ability.
+
+#### Slaying Judgment (Su)
+
+At 8th level, while using the judgment or harsh judgment ability, a gray warden can declare a slaying judgment against a foe when he makes a melee attack (or ranged attack, if the foe is within 30 feet) against the target. If the attack hits, it deals damage normally and the creature must make a Fortitude saving throw as if struck by a *slaying arrow* of its creature type. The DC of this save is equal to 10 + the gray warden’s class level + the gray warden’s Wisdom modifier. A gray warden can use this ability once per day.
+
+#### Greater Bane (Su)
+
+At 9th level, whenever a gray warden uses his bane ability the damage dealt by the weapon against creatures of the selected type increases to 4d6.
+
+#### Final Demise (Su)
+
+At 10th level, once per week, when a gray warden kills a creature with a melee weapon, he can draw the soul out of the dead body and imprison it in his weapon as if using a [*soul bind*](../../magic/spells/soul-bind.md) spell (caster level equal to the gray warden’s character level). Destroying the weapon or dispelling this effect frees the soul. After spending 24 hours in the weapon, the captured soul escapes. However, by touching the weapon holding a captured soul to a final blade, the gray warden can transfer the soul into the magical guillotine to remain trapped inside indefinitely. In addition, at 10th level, a gray warden receives initiation in the secret rituals that can release a soul from a final blade.
+
+#### True Death (Su)
+
+At 10th level, anyone slain by a gray warden becomes more difficult to bring back from the dead. Attempts to use [*raise dead*](../../magic/spells/raise-dead.md) or similar magic to resurrect such a creature require a successful DC 25 caster level check, or the spell fails and any material components are wasted.

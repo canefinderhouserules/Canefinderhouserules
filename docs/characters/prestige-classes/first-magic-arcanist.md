@@ -41,28 +41,54 @@ The first magic arcanist's class skills (and the key ability for each skill) are
 
 The following are class features of the first magic arcanist prestige class.
 
-**Aura of Good (Ex)**: A first magic arcanist radiates an aura of good as if she were a cleric of a level equal to her class level (see the [*detect good*](../../magic/spells/detect-good.md) spell).
+#### Aura of Good (Ex)
 
-**Halcyon Magic (Su)**: At each class level, a first magic arcanist chooses a spell from the druid spell list and treats it as if it were on the spell list of one of her arcane spellcasting classes. She must choose a druid spell at least 2 levels lower than the highest-level spell she can currently cast. The spell’s type becomes arcane and its save DC functions as normal for the arcane spellcasting class list she adds it to. The arcanist automatically learns this spell, adding it to her spellbook or familiar as appropriate for the class of the spell list to which she added the spell.
+A first magic arcanist radiates an aura of good as if she were a cleric of a level equal to her class level (see the [*detect good*](../../magic/spells/detect-good.md) spell).
 
-**Superior Spell Mastery (Ex)**: At 2nd level, by spending a total of 24 hours studying over a maximum of 3 days, a first magic arcanist can change the spells she has mastered with the Spell Mastery feat. She can choose a number of spells she knows up to her Intelligence modifier (which can have a maximum combined spell level equal to or less than her caster level) to be her Spell Mastery spells in place of the same number of spells she previously selected for her Spell Mastery feat.
+#### Halcyon Magic (Su)
 
-**Virtuous Spells (Su)**: At 2nd level, a first magic arcanist casts spells with the good descriptor at +1 caster level. To prepare a spell with the evil descriptor, she must use two spell slots of that spell level.
+At each class level, a first magic arcanist chooses a spell from the druid spell list and treats it as if it were on the spell list of one of her arcane spellcasting classes. She must choose a druid spell at least 2 levels lower than the highest-level spell she can currently cast. The spell’s type becomes arcane and its save DC functions as normal for the arcane spellcasting class list she adds it to. The arcanist automatically learns this spell, adding it to her spellbook or familiar as appropriate for the class of the spell list to which she added the spell.
 
-**Intoned Recollection (Ex)**: At 3rd level, by performing a special ritual lasting 1 minute, a first magic arcanist can prepare a spell into an open arcane spell slot. The open spell slot must have purposefully been left empty at the beginning of the day when she prepared her spells. She must be able to read her spellbook or have mastered the spell with the Spell Mastery feat to prepare it with this ability. She doesn’t need to rest for 8 hours beforehand, but all other requirements of the preparation process still apply. At 9th level, she can do this as a full-round action, provided she has her spellbook in hand or has mastered the spell with the Spell Mastery feat. She can use this ability a number of times per day equal to her Intelligence modifier.
+#### Superior Spell Mastery (Ex)
 
-**Lasting Goodness (Su)**: At 3rd level, all of a first magic arcanist’s spells with the good descriptor have their durations extended by a number of rounds equal to her class level. A spell with a duration of concentration, instantaneous, or permanent isn’t affected by this ability.
+At 2nd level, by spending a total of 24 hours studying over a maximum of 3 days, a first magic arcanist can change the spells she has mastered with the Spell Mastery feat. She can choose a number of spells she knows up to her Intelligence modifier (which can have a maximum combined spell level equal to or less than her caster level) to be her Spell Mastery spells in place of the same number of spells she previously selected for her Spell Mastery feat.
 
-**Spontaneous Spell Mastery (Ex)**: At 4th level, a first magic arcanist can lose any prepared spell to cast a spell of the same spell level or lower that she has mastered with the Spell Mastery feat. She can use this ability once per day, plus one additional time per day at 8th level.
+#### Virtuous Spells (Su)
 
-**Blessed Warding (Sp)**: At 5th level, a first magic arcanist is under a constant [*protection from evil*](../../magic/spells/protection-from-evil.md) effect (CL equal to her class level). If this effect is dispelled, she can reactivate it as a swift action.
+At 2nd level, a first magic arcanist casts spells with the good descriptor at +1 caster level. To prepare a spell with the evil descriptor, she must use two spell slots of that spell level.
 
-**Immediate Spell Mastery (Sp)**: At 6th level, once per day, a first magic arcanist can cast any spell she has mastered with the Spell Mastery feat, even if she hasn’t prepared it that day. This spell is treated like any other spell cast by the arcanist, but can’t be modified by metamagic feats or other abilities.
+#### Intoned Recollection (Ex)
 
-**Righteous Contravention (Su)**: At 7th level, a first magic arcanist gains a +2 bonus on checks to overcome the spell resistance of evil creatures or evil objects, and on checks to dispel spells cast by evil creatures, spells with the evil descriptor, or evil magic items.
+At 3rd level, by performing a special ritual lasting 1 minute, a first magic arcanist can prepare a spell into an open arcane spell slot. The open spell slot must have purposefully been left empty at the beginning of the day when she prepared her spells. She must be able to read her spellbook or have mastered the spell with the Spell Mastery feat to prepare it with this ability. She doesn’t need to rest for 8 hours beforehand, but all other requirements of the preparation process still apply. At 9th level, she can do this as a full-round action, provided she has her spellbook in hand or has mastered the spell with the Spell Mastery feat. She can use this ability a number of times per day equal to her Intelligence modifier.
 
-**Holy Arcana (Ex)**: At 9th level, a first magic arcanist expands her skill at translating divine magic into arcane spells. She adds all the bonus spells from the Good cleric domain to the spell list of one of her arcane spellcasting classes. These spells’ type becomes arcane and the save DCs function as normal for the arcane spellcasting class list she adds them to.
+#### Lasting Goodness (Su)
 
-**Altruistic Guardian (Su)**: At 10th level, once per day when a spell or supernatural effect that allows spell resistance targets a first magic arcanist’s allies or if they are within its area of effect, as an immediate action she can redirect the effects to herself. She can do this for a number of allies up to her Intelligence modifier, provided they are within 30 feet of her. The arcanist must attempt the appropriate saving throws for each ally, possibly attempting multiple saving throws against the same spell or effect. She takes all damage and suffers all conditions and other effects that her allies would have taken, possibly taking these multiple times. This protects allies only from damage and conditions they’d take at the time she spends the immediate action, not from any they might later suffer from a non-instantaneous spell or effect.
+At 3rd level, all of a first magic arcanist’s spells with the good descriptor have their durations extended by a number of rounds equal to her class level. A spell with a duration of concentration, instantaneous, or permanent isn’t affected by this ability.
 
-**Timeless Body (Ex)**: At 10th level, a first magic arcanist no longer takes penalties for aging. This functions exactly like the [druid ability](../classes/druid.md#timeless-body-ex) of the same name.
+#### Spontaneous Spell Mastery (Ex)
+
+At 4th level, a first magic arcanist can lose any prepared spell to cast a spell of the same spell level or lower that she has mastered with the Spell Mastery feat. She can use this ability once per day, plus one additional time per day at 8th level.
+
+#### Blessed Warding (Sp)
+
+At 5th level, a first magic arcanist is under a constant [*protection from evil*](../../magic/spells/protection-from-evil.md) effect (CL equal to her class level). If this effect is dispelled, she can reactivate it as a swift action.
+
+#### Immediate Spell Mastery (Sp)
+
+At 6th level, once per day, a first magic arcanist can cast any spell she has mastered with the Spell Mastery feat, even if she hasn’t prepared it that day. This spell is treated like any other spell cast by the arcanist, but can’t be modified by metamagic feats or other abilities.
+
+#### Righteous Contravention (Su)
+
+At 7th level, a first magic arcanist gains a +2 bonus on checks to overcome the spell resistance of evil creatures or evil objects, and on checks to dispel spells cast by evil creatures, spells with the evil descriptor, or evil magic items.
+
+#### Holy Arcana (Ex)
+
+At 9th level, a first magic arcanist expands her skill at translating divine magic into arcane spells. She adds all the bonus spells from the Good cleric domain to the spell list of one of her arcane spellcasting classes. These spells’ type becomes arcane and the save DCs function as normal for the arcane spellcasting class list she adds them to.
+
+#### Altruistic Guardian (Su)
+
+At 10th level, once per day when a spell or supernatural effect that allows spell resistance targets a first magic arcanist’s allies or if they are within its area of effect, as an immediate action she can redirect the effects to herself. She can do this for a number of allies up to her Intelligence modifier, provided they are within 30 feet of her. The arcanist must attempt the appropriate saving throws for each ally, possibly attempting multiple saving throws against the same spell or effect. She takes all damage and suffers all conditions and other effects that her allies would have taken, possibly taking these multiple times. This protects allies only from damage and conditions they’d take at the time she spends the immediate action, not from any they might later suffer from a non-instantaneous spell or effect.
+
+#### Timeless Body (Ex)
+
+At 10th level, a first magic arcanist no longer takes penalties for aging. This functions exactly like the [druid ability](../classes/druid.md#timeless-body-ex) of the same name.

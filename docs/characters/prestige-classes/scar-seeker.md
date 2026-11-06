@@ -45,9 +45,13 @@ The scar seeker's class skills (and the key ability for each skill) are Heal (Wi
 
 The following are class features of the scar seeker prestige class.
 
-**Spells per Day**: At the indicated levels, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He doesn't, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before gaining this prestige class ability, he must decide to which class he adds the new level for purposes of determining spells per day.
+#### Spells per Day
 
-**Enduring Scar (Su)**: As a scar seeker gains levels, he accumulates scars of supernatural significance. He can activate his enduring scars abilities in any combination a number of times per day equal to half his class level plus his Charisma modifier. At 1st level and every 2 class levels thereafter, the scar seeker awakens a new enduring scar selected from the list below.
+At the indicated levels, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He doesn't, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before gaining this prestige class ability, he must decide to which class he adds the new level for purposes of determining spells per day.
+
+#### Enduring Scar (Su)
+
+As a scar seeker gains levels, he accumulates scars of supernatural significance. He can activate his enduring scars abilities in any combination a number of times per day equal to half his class level plus his Charisma modifier. At 1st level and every 2 class levels thereafter, the scar seeker awakens a new enduring scar selected from the list below.
 
 - *Blood*: As a swift action, the scar seeker can imbue a melee weapon he wields with the vicious weapon special ability for a number of rounds equal to his Charisma modifier (minimum 1 round). At 5th level, he can select this scar a second time to increase the extra damage to 2d8 and the damage received to 1d8. At 9th level, he can select the scar a third time to increase the extra damage to 2d10 and damage received to 1d10.
 - *Healing*: When the scar seeker uses his lay on hands ability to heal another creature, the scar seeker can use this scar to heal double the normal amount of damage; however, the scar seeker immediately takes damage equal to half the amount he healed, and this damage cannot be reduced or otherwise prevented in any way.
@@ -57,12 +61,22 @@ The following are class features of the scar seeker prestige class.
 - *Suffering*: As a swift action, the scar seeker's skin and nerves harden until the beginning of his next turn, granting him DR 2/— and a +2 bonus on saving throws against spells and effects with the emotion or fear descriptor. At 7th level, he can select this scar a second time to increase the damage reduction and saving throw bonus to half his class level.
 - *Tenacity*: When a scar seeker is struck by a critical hit or sneak attack, the scar seeker can gain a +2 morale bonus on attack rolls, skill checks, ability checks, and saving throws for a number of rounds equal to his Charisma modifier as an immediate action. If the scar seeker already receives a morale bonus on one or more of these rolls, the morale bonus increases by 1 while this ability lasts.
 
-**Painful Purification (Su)**: A scar seeker can relive his past sacrifices in order to activate an enduring scar's ability, even if he has expended all his daily uses of the ability. Rather than expend a daily use of enduring scars, he can activate a scar by taking 1 point of damage per Hit Die he has. This damage can't be healed by any means other than getting a full night's rest, which removes all damage dealt in this fashion. This damage cannot be ignored, reduced, or redirected.
+#### Painful Purification (Su)
 
-**Lay on Hands (Su)**: At 2nd level, a scar seeker gains the ability to lay on hands. This ability functions as the [paladin ability](../classes/paladin.md#lay-on-hands-su) of the same name. For the purpose of this ability, a scar seeker's class levels stack with levels in any other class that grants the lay on hands ability.
+A scar seeker can relive his past sacrifices in order to activate an enduring scar's ability, even if he has expended all his daily uses of the ability. Rather than expend a daily use of enduring scars, he can activate a scar by taking 1 point of damage per Hit Die he has. This damage can't be healed by any means other than getting a full night's rest, which removes all damage dealt in this fashion. This damage cannot be ignored, reduced, or redirected.
 
-**Smite Evil (Su)**: At 4th level, a scar seeker gains the ability to smite evil. This ability functions like the [paladin ability](../classes/paladin.md#smite-evil-su) of the same name, but the scar seeker's effective paladin level equals his class level – 3 (minimum 1). For the purpose of this ability, a scar seeker's class levels stack with levels in any other class that grants the smite evil ability. He gains another use per day of this ability at 8th level.
+#### Lay on Hands (Su)
 
-**Sanguine Sacrifice (Su)**: At 6th level, when a scar seeker uses the painful purification ability, he gains a +1 morale bonus on attack rolls, skill checks, ability checks, and saving throws for 1 hour. Multiple uses of this ability increase the morale bonus by 1 (maximum one-third his class level).
+At 2nd level, a scar seeker gains the ability to lay on hands. This ability functions as the [paladin ability](../classes/paladin.md#lay-on-hands-su) of the same name. For the purpose of this ability, a scar seeker's class levels stack with levels in any other class that grants the lay on hands ability.
 
-**True Martyr (Su)**: At 10th level, a scar seeker can embrace death in a final act of defiance. As an immediate action, he can take half the damage dealt to all allies within 60 feet by a single effect, such as a breath weapon, melee attack, or cave-in. If this damage would kill the scar seeker, his blood coalesces in his space in the form of a lawful good celestial guardian (a lawful good outsider of CR 8 or lower chosen by the GM) that fights in his place for 1 minute before dissipating. A scar seeker can use this ability once per week.
+#### Smite Evil (Su)
+
+At 4th level, a scar seeker gains the ability to smite evil. This ability functions like the [paladin ability](../classes/paladin.md#smite-evil-su) of the same name, but the scar seeker's effective paladin level equals his class level – 3 (minimum 1). For the purpose of this ability, a scar seeker's class levels stack with levels in any other class that grants the smite evil ability. He gains another use per day of this ability at 8th level.
+
+#### Sanguine Sacrifice (Su)
+
+At 6th level, when a scar seeker uses the painful purification ability, he gains a +1 morale bonus on attack rolls, skill checks, ability checks, and saving throws for 1 hour. Multiple uses of this ability increase the morale bonus by 1 (maximum one-third his class level).
+
+#### True Martyr (Su)
+
+At 10th level, a scar seeker can embrace death in a final act of defiance. As an immediate action, he can take half the damage dealt to all allies within 60 feet by a single effect, such as a breath weapon, melee attack, or cave-in. If this damage would kill the scar seeker, his blood coalesces in his space in the form of a lawful good celestial guardian (a lawful good outsider of CR 8 or lower chosen by the GM) that fights in his place for 1 minute before dissipating. A scar seeker can use this ability once per week.

@@ -41,11 +41,17 @@ The pit fighter's class skills (and the key ability for each skill) are Acrobati
 
 The following are class features of the pit fighter prestige class.
 
-**Weapon and Armor Proficiency**: Pit fighters are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md) with the performance quality, as well as with light and [medium armor](../../equipment/armor.md) and [shields](../../equipment/armor.md) (excluding [tower shields](../../equipment/armor.md)).
+#### Weapon and Armor Proficiency
 
-**Poor Equipment (Ex)**: Pit fighters are often forced to fight with poorly maintained equipment. At 1st level, a pit fighter can spend a swift action to ignore the broken condition of a single weapon or piece of armor he wields or wears for the remainder of the encounter. The selected weapon or piece of armor is treated in all ways as though it did not have the broken condition, though its hit points remain unchanged. The pit fighter can affect only one item at a time with this ability; if he selects a second item, the first immediately regains the broken condition.
+Pit fighters are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md) with the performance quality, as well as with light and [medium armor](../../equipment/armor.md) and [shields](../../equipment/armor.md) (excluding [tower shields](../../equipment/armor.md)).
 
-**Showmanship (Ex)**: Once per day at 1st level, a pit fighter can treat a regular combat as a performance combat, with the crowd’s starting attitude being indifferent. He makes performance checks, may use performance feats, and takes bonuses or penalties based on the crowd’s reaction as normal, even if there is no crowd actually watching the fight. Only the pit fighter is affected by this ability. Activating this ability is a swift action. The encounter’s CR determines the DC of the pit fighter’s performance checks, as summarized in the table below.
+#### Poor Equipment (Ex)
+
+Pit fighters are often forced to fight with poorly maintained equipment. At 1st level, a pit fighter can spend a swift action to ignore the broken condition of a single weapon or piece of armor he wields or wears for the remainder of the encounter. The selected weapon or piece of armor is treated in all ways as though it did not have the broken condition, though its hit points remain unchanged. The pit fighter can affect only one item at a time with this ability; if he selects a second item, the first immediately regains the broken condition.
+
+#### Showmanship (Ex)
+
+Once per day at 1st level, a pit fighter can treat a regular combat as a performance combat, with the crowd’s starting attitude being indifferent. He makes performance checks, may use performance feats, and takes bonuses or penalties based on the crowd’s reaction as normal, even if there is no crowd actually watching the fight. Only the pit fighter is affected by this ability. Activating this ability is a swift action. The encounter’s CR determines the DC of the pit fighter’s performance checks, as summarized in the table below.
 
 | Starting or Current Attitude | DC to Improve Attitude |
 |---|---|
@@ -57,14 +63,26 @@ The following are class features of the pit fighter prestige class.
 
 The pit fighter can use this ability one additional time per day at 4th level and every three levels thereafter (to a maximum of four times per day at 10th level).
 
-**Arena Weapon Expertise (Ex)**: At 2nd level, when using a weapon with the performance quality, a pit fighter gains a +1 bonus on damage rolls and on attack rolls made to confirm critical hits. This bonus increases to +2 at 5th level and to +3 at 8th level.
+#### Arena Weapon Expertise (Ex)
 
-**Weapon Trick (Ex)**: At 3rd level, a pit fighter gains [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md) as a bonus feat, and can use any weapon with the performance quality to perform a dirty trick combat maneuver. Once per round when the pit fighter performs a dirty trick maneuver against an enemy, he may deal damage to the enemy as if he had struck it with his normal melee attack. The pit fighter must be wielding a weapon and have at least one hand free to use this ability.
+At 2nd level, when using a weapon with the performance quality, a pit fighter gains a +1 bonus on damage rolls and on attack rolls made to confirm critical hits. This bonus increases to +2 at 5th level and to +3 at 8th level.
 
-**Roar of the Crowd (Ex)**: At 5th level, the roar of applause spurs a pit fighter on to greater acts of violence and brutality. When fighting a performance combat, the pit fighter can enter a rage (as per the barbarian class ability) during any round in which the crowd’s attitude toward him is helpful. This is in addition to the normal bonuses the crowd’s attitude provides. The pit fighter can maintain his rage each round so long as the crowd’s attitude toward him remains helpful. If the crowd’s attitude ever drops below helpful, the pit fighter’s rage immediately ends (though if he possesses the rage ability from another class, he may expend a round of his rage to continue the effect as normal for that class feature). If, after using this ability, the crowd’s attitude ever drops to unfriendly or hostile, the pit fighter becomes [fatigued](../../rules/appendices/conditions.md#fatigued). He remains fatigued for as long as the crowd remains unfriendly or hostile or until the end of the combat, whichever comes first.
+#### Weapon Trick (Ex)
 
-**Tricky Assault (Ex)**: At 6th level, a pit fighter gains [Quick Dirty Trick](../../rules/feats/quick-dirty-trick.md) as a bonus feat. This allows the pit fighter to perform a single dirty trick combat maneuver in place of one of his melee attacks on his turn. He must choose the melee attack with the highest base attack bonus to make the dirty trick combat maneuver.
+At 3rd level, a pit fighter gains [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md) as a bonus feat, and can use any weapon with the performance quality to perform a dirty trick combat maneuver. Once per round when the pit fighter performs a dirty trick maneuver against an enemy, he may deal damage to the enemy as if he had struck it with his normal melee attack. The pit fighter must be wielding a weapon and have at least one hand free to use this ability.
 
-**Brutal Trick (Ex)**: At 9th level, a pit fighter gains [Greater Dirty Trick](../../rules/feats/greater-dirty-trick.md) as a bonus feat. In addition, a creature that spends a standard action to remove a condition applied by the pit fighter’s dirty trick combat maneuver provokes an attack of opportunity from the pit fighter.
+#### Roar of the Crowd (Ex)
 
-**Greater Roar of the Crowd (Ex)**: At 10th level, the crowd’s effect on a pit fighter grows even more pronounced. The pit fighter may enter and maintain a rage so long as the crowd’s attitude toward him is friendly or better. If the crowd’s attitude is helpful, the morale bonus to the pit fighter’s Strength and Constitution increases to +6 and the morale bonus on his Will saves increases to +3. Additionally, after using this ability, the pit fighter does not become fatigued until the crowd’s attitude becomes hostile.
+At 5th level, the roar of applause spurs a pit fighter on to greater acts of violence and brutality. When fighting a performance combat, the pit fighter can enter a rage (as per the barbarian class ability) during any round in which the crowd’s attitude toward him is helpful. This is in addition to the normal bonuses the crowd’s attitude provides. The pit fighter can maintain his rage each round so long as the crowd’s attitude toward him remains helpful. If the crowd’s attitude ever drops below helpful, the pit fighter’s rage immediately ends (though if he possesses the rage ability from another class, he may expend a round of his rage to continue the effect as normal for that class feature). If, after using this ability, the crowd’s attitude ever drops to unfriendly or hostile, the pit fighter becomes [fatigued](../../rules/appendices/conditions.md#fatigued). He remains fatigued for as long as the crowd remains unfriendly or hostile or until the end of the combat, whichever comes first.
+
+#### Tricky Assault (Ex)
+
+At 6th level, a pit fighter gains [Quick Dirty Trick](../../rules/feats/quick-dirty-trick.md) as a bonus feat. This allows the pit fighter to perform a single dirty trick combat maneuver in place of one of his melee attacks on his turn. He must choose the melee attack with the highest base attack bonus to make the dirty trick combat maneuver.
+
+#### Brutal Trick (Ex)
+
+At 9th level, a pit fighter gains [Greater Dirty Trick](../../rules/feats/greater-dirty-trick.md) as a bonus feat. In addition, a creature that spends a standard action to remove a condition applied by the pit fighter’s dirty trick combat maneuver provokes an attack of opportunity from the pit fighter.
+
+#### Greater Roar of the Crowd (Ex)
+
+At 10th level, the crowd’s effect on a pit fighter grows even more pronounced. The pit fighter may enter and maintain a rage so long as the crowd’s attitude toward him is friendly or better. If the crowd’s attitude is helpful, the morale bonus to the pit fighter’s Strength and Constitution increases to +6 and the morale bonus on his Will saves increases to +3. Additionally, after using this ability, the pit fighter does not become fatigued until the crowd’s attitude becomes hostile.

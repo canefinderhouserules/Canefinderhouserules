@@ -57,11 +57,17 @@ The devoted muse's class skills (and the key ability for each skill) are Acrobat
 
 The following are class features of the devoted muse prestige class.
 
-**Combat Expertise**: At 1st level, a devoted muse gains [Combat Expertise](../../rules/feats/combat-expertise.md) as a bonus feat, ignoring its prerequisites.
+#### Combat Expertise
 
-**Artful Defense (Ex)**: When wearing light or no armor and not using a shield, a devoted muse adds 1 point of her Charisma bonus (if any) per class level as a dodge bonus to her Armor Class. If she is caught [flat-footed](../../rules/appendices/conditions.md#flat-footed) or otherwise denied her Dexterity bonus, she also loses this bonus.
+At 1st level, a devoted muse gains [Combat Expertise](../../rules/feats/combat-expertise.md) as a bonus feat, ignoring its prerequisites.
 
-**Panache (Ex)**: More than just a lightly armored warrior, a devoted muse is a daring combatant. She fights with panache: a fluctuating measure of a devoted muse’s ability to perform amazing actions in combat. At the start of each day, a devoted muse gains a number of panache points equal to her Charisma modifier (minimum 1). Her panache goes up or down throughout the day, but usually cannot go higher than her Charisma modifier (minimum 1), though feats and magic items can affect this maximum. A devoted muse spends panache to accomplish deeds (see below), and regains panache in the following ways.
+#### Artful Defense (Ex)
+
+When wearing light or no armor and not using a shield, a devoted muse adds 1 point of her Charisma bonus (if any) per class level as a dodge bonus to her Armor Class. If she is caught [flat-footed](../../rules/appendices/conditions.md#flat-footed) or otherwise denied her Dexterity bonus, she also loses this bonus.
+
+#### Panache (Ex)
+
+More than just a lightly armored warrior, a devoted muse is a daring combatant. She fights with panache: a fluctuating measure of a devoted muse’s ability to perform amazing actions in combat. At the start of each day, a devoted muse gains a number of panache points equal to her Charisma modifier (minimum 1). Her panache goes up or down throughout the day, but usually cannot go higher than her Charisma modifier (minimum 1), though feats and magic items can affect this maximum. A devoted muse spends panache to accomplish deeds (see below), and regains panache in the following ways.
 
 - **Critical Hit with a Light or One-Handed Piercing Melee Weapon**: Each time the devoted muse confirms a critical hit with a light or one-handed piercing melee weapon, she regains 1 panache point. Confirming a critical hit on a [helpless](../../rules/appendices/conditions.md#helpless) or unaware creature or a creature that has fewer Hit Dice than half the devoted muse’s character level doesn't restore panache.
 
@@ -69,7 +75,9 @@ The following are class features of the devoted muse prestige class.
 
 For the purpose of this ability, a devoted muse’s class levels stack with levels in any other class that grants the panache ability.
 
-**Deeds (Ex)**: Devoted muses spend panache points to accomplish deeds. Most deeds grant the devoted muse a momentary bonus or effect, but some provide longer-lasting effects. Some deeds remain in effect while the devoted muse has at least 1 panache point, but do not require expending panache to be maintained. A devoted muse can only perform deeds of her level or lower. Unless otherwise noted, a deed can be performed multiple successive times, as long as the devoted muse has or spends the required number of panache points to perform the deed. A devoted muse qualifies for and benefits from deeds as if she were a swashbuckler of her class level. For the purpose of this ability, her class levels stack with levels in any other class that grants the deeds ability, which is how she can reach the deeds above 10th level.
+#### Deeds (Ex)
+
+Devoted muses spend panache points to accomplish deeds. Most deeds grant the devoted muse a momentary bonus or effect, but some provide longer-lasting effects. Some deeds remain in effect while the devoted muse has at least 1 panache point, but do not require expending panache to be maintained. A devoted muse can only perform deeds of her level or lower. Unless otherwise noted, a deed can be performed multiple successive times, as long as the devoted muse has or spends the required number of panache points to perform the deed. A devoted muse qualifies for and benefits from deeds as if she were a swashbuckler of her class level. For the purpose of this ability, her class levels stack with levels in any other class that grants the deeds ability, which is how she can reach the deeds above 10th level.
 
 ??? note "Original rule"
 
@@ -120,9 +128,13 @@ For the purpose of this ability, a devoted muse’s class levels stack with leve
 
 - **Stunning Stab (Ex)**: At 19th level, when a devoted muse hits a creature with a light or one-handed piercing melee weapon, she can spend 2 panache points to stun the creature for 1 round. The creature must succeed at a Fortitude saving throw (DC = 10 + 1/2 the devoted muse’s level + the devoted muse’s Dexterity modifier) or [stunned](../../rules/appendices/conditions.md#stunned) for 1 round. Creatures that are immune to critical hits are also immune to this effect.
 
-**Aligned Class (Ex)**: At 2nd level, a devoted muse must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
+#### Aligned Class (Ex)
 
-**Artistic Flourish (Su)**: At 2nd level, when a devoted muse has at least 1 panache point and successfully feints against an opponent in combat, in addition to denying the opponent its Dexterity bonus, she can create one of the following effects (all of which are mind-affecting effects). A creature can be affected by only one such effect at a time, and imposing a second effect immediately ends the first. The DC of any saving throws to resist these effects is equal to 10 + the devoted muse's class level + her Charisma modifier.
+At 2nd level, a devoted muse must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
+
+#### Artistic Flourish (Su)
+
+At 2nd level, when a devoted muse has at least 1 panache point and successfully feints against an opponent in combat, in addition to denying the opponent its Dexterity bonus, she can create one of the following effects (all of which are mind-affecting effects). A creature can be affected by only one such effect at a time, and imposing a second effect immediately ends the first. The DC of any saving throws to resist these effects is equal to 10 + the devoted muse's class level + her Charisma modifier.
 
 ??? note "Original rule"
 
@@ -133,13 +145,19 @@ For the purpose of this ability, a devoted muse’s class levels stack with leve
 - *Staggered*: At 5th level, the devoted muse can cause the target to be [staggered](../../rules/appendices/conditions.md#staggered) for 1 round (Will negates). Whether or not the save is successful, a creature cannot be the target of this artistic flourish again for 1 day.
 - *Dazed*: At 8th level, the devoted muse can spend 1 panache point to cause the target to be [dazed](../../rules/appendices/conditions.md#dazed) for 1 round (Will negates). Whether or not the save is successful, a creature cannot be the target of this artistic flourish again for 1 day.
 
-**Harmonious Strike (Su)**: At 2nd level, when a devoted muse hits a creature affected by her artistic flourish ability, she can spend 1 panache point to perform an especially elegant attack. She selects one of the effects below to modify this harmonious strike.
+#### Harmonious Strike (Su)
+
+At 2nd level, when a devoted muse hits a creature affected by her artistic flourish ability, she can spend 1 panache point to perform an especially elegant attack. She selects one of the effects below to modify this harmonious strike.
 
 - *Circling Strike*: After the attack, the devoted muse can move 5 feet as a free action as long as she ends her movement within the target's reach (or former reach, if the attack incapacitated it). This movement does not provoke attacks of opportunity and does not count as a 5-foot step. If she attacked with a weapon whose critical multiplier is ×3 or higher, she can instead move 10 feet in this way.
 - *Deadly Strike*: The attack deals an additional 1d4 points of damage. This extra damage increases by 1d4 every 2 devoted muse levels after 2nd level (maximum 5d4). This is precision damage and isn't multiplied on a critical hit. If her weapon's critical multiplier is ×3, the size of these bonus damage dice increases by one step to 1d6. If her weapon's critical hit multiplier is ×4, the die size increases to 1d8.
 - *Inspirational Strike*: At 6th level, the devoted muse can inspire her comrades with her attack, granting her allies (including herself) within 30 feet a competence bonus on attack and weapon damage rolls until the end of her next turn. This bonus is equal to her weapon's critical modifier (i.e., +2 for ×2, +3 for ×3, etc.). If her attack was a critical hit, these benefits last a number of rounds equal to her Charisma modifier.
 - *Masterful Strike*: At 10th level, the devoted muse can feint against one creature within her reach as a free action after resolving the attack. If she performs an artistic flourish with this feint against a distracted target, the target's miss chance against the devoted muse increases by an amount equal to 5 × her weapon's critical multiplier.
 
-**Feinting Feat**: At 3rd level and every 3 class levels thereafter, a devoted muse gains one of the following as a bonus feat: [Disengaging Feint](../../rules/feats/disengaging-feint.md), [Disengaging Flourish](../../rules/feats/disengaging-flourish.md), [Feint Partner](../../rules/feats/feint-partner.md), [Greater Feint](../../rules/feats/greater-feint.md), [Improved Feint Partner](../../rules/feats/improved-feint-partner.md), [Passing Trick](../../rules/feats/passing-trick.md), Skill Focus ([Bluff](../../rules/skills/bluff.md)), [Twinned Feint](../../rules/feats/twinned-feint.md), or [Wave Strike](../../rules/feats/wave-strike.md). The devoted muse must meet the prerequisites for the feat selected.
+#### Feinting Feat
 
-**Limitless Art (Ex)**: At 4th level, a devoted muse starts each day with 1 additional panache point, and her maximum number of panache points increases by 1. At 7th level and again at 10th level, the number of additional panache points increases by 1.
+At 3rd level and every 3 class levels thereafter, a devoted muse gains one of the following as a bonus feat: [Disengaging Feint](../../rules/feats/disengaging-feint.md), [Disengaging Flourish](../../rules/feats/disengaging-flourish.md), [Feint Partner](../../rules/feats/feint-partner.md), [Greater Feint](../../rules/feats/greater-feint.md), [Improved Feint Partner](../../rules/feats/improved-feint-partner.md), [Passing Trick](../../rules/feats/passing-trick.md), Skill Focus ([Bluff](../../rules/skills/bluff.md)), [Twinned Feint](../../rules/feats/twinned-feint.md), or [Wave Strike](../../rules/feats/wave-strike.md). The devoted muse must meet the prerequisites for the feat selected.
+
+#### Limitless Art (Ex)
+
+At 4th level, a devoted muse starts each day with 1 additional panache point, and her maximum number of panache points increases by 1. At 7th level and again at 10th level, the number of additional panache points increases by 1.

@@ -47,28 +47,54 @@ The rage prophet’s class skills are Climb (Str), Heal (Wis), Intimidate (Cha),
 
 The following are class features of the rage prophet prestige class.
 
-**Weapon and Armor Proficiency**: A rage prophet gains no proficiency with any weapon or armor.
+#### Weapon and Armor Proficiency
 
-**Spells per Day**: At the indicated levels, a rage prophet gains new spells per day as if he had also gained a level in a divine spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous caster), and an increased effective level of spellcasting. If he had more than one divine spellcasting class before becoming a rage prophet, he must decide to which class he adds the new level for the purpose of determining spells per day.
+A rage prophet gains no proficiency with any weapon or armor.
 
-**Savage Seer**: A rage prophet’s class level stacks with barbarian levels for determining the effect of rage powers, and with oracle levels for determining the effect of oracle revelations and his oracle’s curse. This does not grant additional abilities.
+#### Spells per Day
 
-**Spirit Guide (Sp)**: Every rage prophet possesses a spirit guide, an insubstantial phantom that speaks to his mind, watches over him, and lends him its strength and wisdom. Whenever the rage prophet rages, he gains the benefit of a single guidance spell from his spirit guide; this bonus can be used at any time during his rage. The spirit guide also allows the rage prophet to use dancing lights, ghost sound, and mage hand as spell-like abilities once per day each (caster level equal to the rage prophet’s class level). The DCs are Charisma-based.
+At the indicated levels, a rage prophet gains new spells per day as if he had also gained a level in a divine spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous caster), and an increased effective level of spellcasting. If he had more than one divine spellcasting class before becoming a rage prophet, he must decide to which class he adds the new level for the purpose of determining spells per day.
 
-**Rage Prophet Mystery**: At 2nd level and every even level thereafter, a rage prophet learns an additional spell from his spirit guide. These spells are in addition to those listed in Table 2-6: [Oracle Spells](../classes/oracle.md#spells) Known. Like spells from an [oracle’s mystery](../classes/oracle.md#mystery), the rage prophet cannot exchange these spells for different spells at higher levels. The rage prophet must be able to cast oracle spells of the listed level to learn one of these spells from his spirit guide. The rage prophet treats the spell as an oracle spell of the listed level. The possible spells are arcane eye (4th), augury (2nd), divination (4th), dream (5th), find the path (6th), helping hand (3rd), see invisibility (2nd), shadow walk (6th), speak with dead (3rd), spectral hand (2nd), spiritual weapon (2nd), unseen servant (1st), vision (7th), and whispering wind (2nd).
+#### Savage Seer
 
-**Raging Healer (Su)**: At 2nd level, a rage prophet is able to cast cure spells on himself while raging, without having to use clarity of mind.
+A rage prophet’s class level stacks with barbarian levels for determining the effect of rage powers, and with oracle levels for determining the effect of oracle revelations and his oracle’s curse. This does not grant additional abilities.
 
-**Indomitable Caster (Ex)**: At 3rd level, a rage prophet adds his Constitution bonus (if any) on concentration checks.
+#### Spirit Guide (Sp)
 
-**Ragecaster (Su)**: Starting at 4th level, a rage prophet’s spells grow more potent when he rages. When using moment of clarity, he adds his barbarian level to his caster level. At 7th level, he adds his Constitution bonus to the save DC of any spells cast while raging.
+Every rage prophet possesses a spirit guide, an insubstantial phantom that speaks to his mind, watches over him, and lends him its strength and wisdom. Whenever the rage prophet rages, he gains the benefit of a single guidance spell from his spirit guide; this bonus can be used at any time during his rage. The spirit guide also allows the rage prophet to use dancing lights, ghost sound, and mage hand as spell-like abilities once per day each (caster level equal to the rage prophet’s class level). The DCs are Charisma-based.
 
-**Spirit Guardian (Sp)**: At 5th level, the competence bonus provided by the spirit guide’s guidance spell increases to half the rage prophet’s class level when used while battling a fey, outsider, undead, or incorporeal creature. As a swift action, the rage prophet can spend 1 round of rage (whether he is raging or not) to give his armor and weapons the ghost touch property for 1 round; this effect ends if the item is no longer in his possession.
+#### Rage Prophet Mystery
 
-**Enduring Rage (Su)**: At 6th level, as a free action, a rage prophet can extend the duration of his rage by sacrificing a spell slot; this prolongs the duration of his rage for a number of rounds equal to the level of the spell slot used.
+At 2nd level and every even level thereafter, a rage prophet learns an additional spell from his spirit guide. These spells are in addition to those listed in Table 2-6: [Oracle Spells](../classes/oracle.md#spells) Known. Like spells from an [oracle’s mystery](../classes/oracle.md#mystery), the rage prophet cannot exchange these spells for different spells at higher levels. The rage prophet must be able to cast oracle spells of the listed level to learn one of these spells from his spirit guide. The rage prophet treats the spell as an oracle spell of the listed level. The possible spells are arcane eye (4th), augury (2nd), divination (4th), dream (5th), find the path (6th), helping hand (3rd), see invisibility (2nd), shadow walk (6th), speak with dead (3rd), spectral hand (2nd), spiritual weapon (2nd), unseen servant (1st), vision (7th), and whispering wind (2nd).
 
-**Raging Spellstrength (Su)**: At 8th level, a rage prophet is able to cast spells with a range of “personal” on himself while raging, without having to use clarity of mind.
+#### Raging Healer (Su)
 
-**Spirit Warrior (Su)**: At 9th level, the competence bonus provided by the rage prophet’s guidance increases to his rage prophet level when used while battling a fey, outsider, undead, or incorporeal creature. His ability to give his armor and weapons the ghost touch property becomes an immediate action instead of a swift action.
+At 2nd level, a rage prophet is able to cast cure spells on himself while raging, without having to use clarity of mind.
 
-**Greater Rage (Ex)**: At 10th level, when a rage prophet enters a rage, his morale bonus to Strength and Constitution increases to +6 and his morale bonus on Will saves increases to +3.
+#### Indomitable Caster (Ex)
+
+At 3rd level, a rage prophet adds his Constitution bonus (if any) on concentration checks.
+
+#### Ragecaster (Su)
+
+Starting at 4th level, a rage prophet’s spells grow more potent when he rages. When using moment of clarity, he adds his barbarian level to his caster level. At 7th level, he adds his Constitution bonus to the save DC of any spells cast while raging.
+
+#### Spirit Guardian (Sp)
+
+At 5th level, the competence bonus provided by the spirit guide’s guidance spell increases to half the rage prophet’s class level when used while battling a fey, outsider, undead, or incorporeal creature. As a swift action, the rage prophet can spend 1 round of rage (whether he is raging or not) to give his armor and weapons the ghost touch property for 1 round; this effect ends if the item is no longer in his possession.
+
+#### Enduring Rage (Su)
+
+At 6th level, as a free action, a rage prophet can extend the duration of his rage by sacrificing a spell slot; this prolongs the duration of his rage for a number of rounds equal to the level of the spell slot used.
+
+#### Raging Spellstrength (Su)
+
+At 8th level, a rage prophet is able to cast spells with a range of “personal” on himself while raging, without having to use clarity of mind.
+
+#### Spirit Warrior (Su)
+
+At 9th level, the competence bonus provided by the rage prophet’s guidance increases to his rage prophet level when used while battling a fey, outsider, undead, or incorporeal creature. His ability to give his armor and weapons the ghost touch property becomes an immediate action instead of a swift action.
+
+#### Greater Rage (Ex)
+
+At 10th level, when a rage prophet enters a rage, his morale bonus to Strength and Constitution increases to +6 and his morale bonus on Will saves increases to +3.

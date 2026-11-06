@@ -45,9 +45,13 @@ The esoteric knight's class skills (and the key ability for each skill) are Appr
 
 The following are class features of the esoteric knight prestige class.
 
-**Weapon and Armor Proficiency**: An esoteric knight is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md).
+#### Weapon and Armor Proficiency
 
-**Spells per Day**: At every level except 1st, an esoteric knight gains new spells per day as if she had also gained a level in a psychic spellcasting class she belonged to before adding the prestige class. She does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one psychic spellcasting class before becoming an esoteric knight, she must decide to which class she adds the new level for purposes of determining spells per day.
+An esoteric knight is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md).
+
+#### Spells per Day
+
+At every level except 1st, an esoteric knight gains new spells per day as if she had also gained a level in a psychic spellcasting class she belonged to before adding the prestige class. She does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one psychic spellcasting class before becoming an esoteric knight, she must decide to which class she adds the new level for purposes of determining spells per day.
 
 Instead of choosing a spellcasting class, a character with levels in a class that grants the kinetic blast class feature can add these effective levels to that class. If she does, she increases her effective kineticist level for purposes of determining the highest level of wild talents she can select, the effective spell level of her kinetic blast and defense wild talents, and the amount of burn she can accept each round. She continues to gain utility wild talents and infusions as if these levels of esoteric knight were levels of her class that grants kinetic blast. She does not gain or increase other related class features, such as infusion specializations.
 
@@ -55,9 +59,13 @@ Instead of choosing a spellcasting class, a character with levels in a class tha
 
     **Spells per Day**: The book grants this only at every other level.
 
-**Martial Esoterica**: At 1st level and every 2 levels thereafter, the esoteric knight gains a bonus combat feat. She must meet the prerequisites of the feat. Her esoteric knight levels count as fighter levels and stack with any levels of fighter she might have for meeting the prerequisites for feats. An esoteric knight can learn a new combat feat in place of the most recent martial esoterica feat she has learned either by expending a 1st-level spell slot or, if she is a character with the burn class feature (such as the kineticist), by accepting 1 point of burn as a standard action. In effect, the esoteric knight loses the bonus feat in exchange for the new one. She can change only the most recent combat feat gained. Whenever she gains a new bonus combat feat, the previous feat becomes set and cannot be changed again.
+#### Martial Esoterica
 
-**Psychic Esoterica**: As an esoteric knight gains experience, she learns a number of psychic esoterica that enhance her offensive and defensive capabilities. At 2nd level and every 2 levels thereafter, an esoteric knight gains one psychic esoterica. Each esoterica can be selected only once. Some esoterica require a character to expend one or more spell slots to activate. A character with the burn class feature (such as a kineticist) can accept burn instead of expending spell slots. She can accept 1 point of burn instead of expending a 1st-level or lower spell slot, or 2 points of burn instead of expending a 3rd-level or lower spell slot.
+At 1st level and every 2 levels thereafter, the esoteric knight gains a bonus combat feat. She must meet the prerequisites of the feat. Her esoteric knight levels count as fighter levels and stack with any levels of fighter she might have for meeting the prerequisites for feats. An esoteric knight can learn a new combat feat in place of the most recent martial esoterica feat she has learned either by expending a 1st-level spell slot or, if she is a character with the burn class feature (such as the kineticist), by accepting 1 point of burn as a standard action. In effect, the esoteric knight loses the bonus feat in exchange for the new one. She can change only the most recent combat feat gained. Whenever she gains a new bonus combat feat, the previous feat becomes set and cannot be changed again.
+
+#### Psychic Esoterica
+
+As an esoteric knight gains experience, she learns a number of psychic esoterica that enhance her offensive and defensive capabilities. At 2nd level and every 2 levels thereafter, an esoteric knight gains one psychic esoterica. Each esoterica can be selected only once. Some esoterica require a character to expend one or more spell slots to activate. A character with the burn class feature (such as a kineticist) can accept burn instead of expending spell slots. She can accept 1 point of burn instead of expending a 1st-level or lower spell slot, or 2 points of burn instead of expending a 3rd-level or lower spell slot.
 
 ***Battle Mind (Su)***: By expending a 1st-level spell slot as a free action while casting a spell or using a kinetic blast, the esoteric knight can cast the spell as if it were modified by the [Intuitive Spell](../../rules/feats/intuitive-spell.md) and [Logical Spell](../../rules/feats/logical-spell.md) feats or grant the kinetic blast the benefits of the [Point-Blank Shot](../../rules/feats/point-blank-shot.md) and [Precise Shot](../../rules/feats/precise-shot.md) feats.
 

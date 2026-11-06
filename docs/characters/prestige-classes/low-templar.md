@@ -41,13 +41,21 @@ The Low Templar’s class skills are Appraise (Int), Bluff (Cha), Craft (Int), D
 
 The following are all class features of the low templar prestige class.
 
-**Weapon and Armor Proficiency**: A low templar is proficient with all [simple weapons](../../equipment/weapons-simple.md) and all [martial weapons](../../equipment/weapons-martial.md). He is proficient with all forms of armor and [shields](../../equipment/armor.md).
+#### Weapon and Armor Proficiency
 
-**Crusader (Ex)**: Whatever his faults, a low templar is a skilled warrior against the demon hordes of the rift. At 1st level, a low templar gains a +1 bonus on all weapon attack rolls and weapon damage rolls against chaotic evil outsiders. He also gains an equal bonus on all Will saving throws against the abilities of chaotic evil outsiders. At 4th level, these bonuses increase to +2. The bonus increases to +3 at 7th level, and finally to +4 at 10th level.
+A low templar is proficient with all [simple weapons](../../equipment/weapons-simple.md) and all [martial weapons](../../equipment/weapons-martial.md). He is proficient with all forms of armor and [shields](../../equipment/armor.md).
 
-**Flag of Convenience (Ex)**: A low templar is adept at aligning himself with the winning side and has mastered the art of shifting or switching allegiance when convenient. He can disappear in one place and appear in another with new affiliations and associations, yet without besmirching his reputation. Even when caught in illicit acts, he easily evades blame. The low templar gains a +2 bonus on all [Bluff](../../rules/skills/bluff.md) and [Disguise](../../rules/skills/disguise.md) checks, and on [Linguistics](../../rules/skills/linguistics.md) checks made to create forgeries. A low templar never suffers a penalty to his Leadership score for moving around frequently, aloofness, cruelty, or the loss of prior cohorts or followers, and can replace lost followers in half the normal amount of time.
+#### Crusader (Ex)
 
-**Dirty Fighting (Ex)**: A low templar melds the stately forms of jousting and chivalric standards with the down-and-dirty style of a barroom brawler. No trick is beneath him. A low templar never takes a non-proficiency penalty on attack rolls with improvised weapons and gains a +2 bonus on all combat maneuver checks. In addition, whenever he lands a critical hit, the low templar may opt to deal normal damage and roll on the following table rather than dealing extra damage.
+Whatever his faults, a low templar is a skilled warrior against the demon hordes of the rift. At 1st level, a low templar gains a +1 bonus on all weapon attack rolls and weapon damage rolls against chaotic evil outsiders. He also gains an equal bonus on all Will saving throws against the abilities of chaotic evil outsiders. At 4th level, these bonuses increase to +2. The bonus increases to +3 at 7th level, and finally to +4 at 10th level.
+
+#### Flag of Convenience (Ex)
+
+A low templar is adept at aligning himself with the winning side and has mastered the art of shifting or switching allegiance when convenient. He can disappear in one place and appear in another with new affiliations and associations, yet without besmirching his reputation. Even when caught in illicit acts, he easily evades blame. The low templar gains a +2 bonus on all [Bluff](../../rules/skills/bluff.md) and [Disguise](../../rules/skills/disguise.md) checks, and on [Linguistics](../../rules/skills/linguistics.md) checks made to create forgeries. A low templar never suffers a penalty to his Leadership score for moving around frequently, aloofness, cruelty, or the loss of prior cohorts or followers, and can replace lost followers in half the normal amount of time.
+
+#### Dirty Fighting (Ex)
+
+A low templar melds the stately forms of jousting and chivalric standards with the down-and-dirty style of a barroom brawler. No trick is beneath him. A low templar never takes a non-proficiency penalty on attack rolls with improvised weapons and gains a +2 bonus on all combat maneuver checks. In addition, whenever he lands a critical hit, the low templar may opt to deal normal damage and roll on the following table rather than dealing extra damage.
 
 | d6 | Result |
 |---|---|
@@ -60,14 +68,26 @@ The following are all class features of the low templar prestige class.
 
 If the critical multiplier is X3, the duration of the effect doubles. If the critical multiplier is X4, the duration triples.
 
-**Sneak Attack (Ex)**: This ability is exactly like the [rogue ability](../classes/rogue.md#sneak-attack) of the same name. The extra damage dealt increases by +1d6 at 8th level. If a low templar gets a sneak attack bonus from another source, the bonuses on damage stack.
+#### Sneak Attack (Ex)
 
-**Path of Darkness/Path of Light (Su)**: As a low templar advances, he must eventually decide how closely he wishes to hew to his oaths to his goddess and her ethos of law and goodness. If he chooses the path of light, he may choose to ignore the lawful or good aspect of his alignment (choose one) for determining alignment-based magical effects (e.g., reducing damage from unholy blight or an unholy weapon, masking his alignment from detect good, or ignoring some effects of a magic circle against good). He also gains a +2 circumstance bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks with creatures with the lawful or good subtypes. If he chooses the path of darkness, he instead disregards either chaos or evil from his alignment and gains a Diplomacy bonus with creatures of the chaotic or evil subtypes.
+This ability is exactly like the [rogue ability](../classes/rogue.md#sneak-attack) of the same name. The extra damage dealt increases by +1d6 at 8th level. If a low templar gets a sneak attack bonus from another source, the bonuses on damage stack.
 
-**Live to Fight Another Day (Ex)**: At 6th level, a low templar can use the withdraw action as a standard action, although if he does so, he can only move at his speed (not double his speed).
+#### Path of Darkness/Path of Light (Su)
 
-**Ruthless (Ex)**: Whenever a low templar kills a foe or reduces it to a dying state with a melee attack, he can immediately make another attack with the same weapon at the same attack bonus as a swift action. This additional attack can be made on any legal target. The low templar gains a bonus on damage rolls with this swift action attack equal to his character level.
+As a low templar advances, he must eventually decide how closely he wishes to hew to his oaths to his goddess and her ethos of law and goodness. If he chooses the path of light, he may choose to ignore the lawful or good aspect of his alignment (choose one) for determining alignment-based magical effects (e.g., reducing damage from unholy blight or an unholy weapon, masking his alignment from detect good, or ignoring some effects of a magic circle against good). He also gains a +2 circumstance bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks with creatures with the lawful or good subtypes. If he chooses the path of darkness, he instead disregards either chaos or evil from his alignment and gains a Diplomacy bonus with creatures of the chaotic or evil subtypes.
 
-**Parting Shot (Ex)**: At 9th level, a low templar can use the withdraw action as a move action, although if he does so, he can only move at his speed (not double his speed).
+#### Live to Fight Another Day (Ex)
 
-**Damnation/Redemption (Su)**: At 10th level, a low templar must make a final choice of which ethical path to follow. He may mask a second alignment trait versus alignment-based effects, as per the path of darkness/path of light ability. A low templar can choose the path of darkness at 5th level and then choose the path of redemption at 10th level (or vice versa). When the low templar makes his damnation/redemption choice, he gains a planar cohort appropriate to his actual alignment, gained as if he had taken the Leadership feat. This planar cohort appears to him and pledges her loyalty to the low templar immediately. If the cohort perishes, the low templar must wait a week before calling upon a replacement. If the low templar has the Leadership feat, he gains a +1 bonus to his Leadership score. If he replaces his cohort gained from the Leadership feat with the planar cohort, the maximum level equivalent for his planar cohort equals the templar’s class level –1, rather than –2.
+At 6th level, a low templar can use the withdraw action as a standard action, although if he does so, he can only move at his speed (not double his speed).
+
+#### Ruthless (Ex)
+
+Whenever a low templar kills a foe or reduces it to a dying state with a melee attack, he can immediately make another attack with the same weapon at the same attack bonus as a swift action. This additional attack can be made on any legal target. The low templar gains a bonus on damage rolls with this swift action attack equal to his character level.
+
+#### Parting Shot (Ex)
+
+At 9th level, a low templar can use the withdraw action as a move action, although if he does so, he can only move at his speed (not double his speed).
+
+#### Damnation/Redemption (Su)
+
+At 10th level, a low templar must make a final choice of which ethical path to follow. He may mask a second alignment trait versus alignment-based effects, as per the path of darkness/path of light ability. A low templar can choose the path of darkness at 5th level and then choose the path of redemption at 10th level (or vice versa). When the low templar makes his damnation/redemption choice, he gains a planar cohort appropriate to his actual alignment, gained as if he had taken the Leadership feat. This planar cohort appears to him and pledges her loyalty to the low templar immediately. If the cohort perishes, the low templar must wait a week before calling upon a replacement. If the low templar has the Leadership feat, he gains a +1 bonus to his Leadership score. If he replaces his cohort gained from the Leadership feat with the planar cohort, the maximum level equivalent for his planar cohort equals the templar’s class level –1, rather than –2.

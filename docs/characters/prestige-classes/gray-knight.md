@@ -45,11 +45,17 @@ The gray knight's class skills (and the key ability for each skill) are Acrobati
 
 The following are class features of the gray knight prestige class.
 
-**Sea Legs**: At 1st level, a gray knight gains [Sea Legs](../../rules/feats/sea-legs.md) as a bonus feat.
+#### Sea Legs
 
-**Favored Port (Ex)**: A gray knight can pick any coastal settlement as a favored port. While in that settlement, a gray knight gains a +2 bonus on all [Bluff](../../rules/skills/bluff.md), [Diplomacy](../../rules/skills/diplomacy.md), [Intimidate](../../rules/skills/intimidate.md), and [Knowledge](../../rules/skills/knowledge.md) (local) checks, as well as on initiative checks and Will saving throws. He need not pay for room and board in a favored port. At 3rd level and every 2 levels thereafter, a gray knight can select another favored port. A gray knight also gains his favored port bonuses when aboard any ship whose home port is one of his favored ports.
+At 1st level, a gray knight gains [Sea Legs](../../rules/feats/sea-legs.md) as a bonus feat.
 
-**Aligned Class (Ex)**: At 2nd level, a gray knight must choose a class they belonged to before adding the prestige class to be their aligned class. They gain all the class features of this class, essentially adding every gray knight level beyond 1st to their aligned class to determine what class features they gain. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class, but gain all other class features of their aligned class as well as those of this prestige class.
+#### Favored Port (Ex)
+
+A gray knight can pick any coastal settlement as a favored port. While in that settlement, a gray knight gains a +2 bonus on all [Bluff](../../rules/skills/bluff.md), [Diplomacy](../../rules/skills/diplomacy.md), [Intimidate](../../rules/skills/intimidate.md), and [Knowledge](../../rules/skills/knowledge.md) (local) checks, as well as on initiative checks and Will saving throws. He need not pay for room and board in a favored port. At 3rd level and every 2 levels thereafter, a gray knight can select another favored port. A gray knight also gains his favored port bonuses when aboard any ship whose home port is one of his favored ports.
+
+#### Aligned Class (Ex)
+
+At 2nd level, a gray knight must choose a class they belonged to before adding the prestige class to be their aligned class. They gain all the class features of this class, essentially adding every gray knight level beyond 1st to their aligned class to determine what class features they gain. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class, but gain all other class features of their aligned class as well as those of this prestige class.
 
 ??? note "Original rule"
 
@@ -63,14 +69,26 @@ The following are class features of the gray knight prestige class.
 
     If his gray focus class is bard, cleric, inquisitor, magus, mesmerist, psychic, sorcerer, or wizard, he gains spells per day as if he’d gained an additional level of the class chosen. If his gray focus class is fighter, gunslinger, or swashbuckler, he gains a bonus combat feat. If his gray focus class is investigator, he gains a +1d6 studied strike, as per the investigator class feature. This extra damage stacks with other sources of studied strike. If his gray focus class is rogue, he gains a +1d6 sneak attack, as per the rogue class feature. This extra damage stacks with other sources of sneak attack damage.
 
-**Know the Ropes (Ex)**: At 2nd level, while climbing ropes or rigging, a gray knight gains a +4 circumstance bonus on [Climb](../../rules/skills/climb.md) checks and needs only one hand free to do so. In addition, in such circumstances he doesn’t take a penalty when using the accelerated climbing option, doesn’t lose his Dexterity bonus to AC, and doesn’t need to attempt a Climb check to avoid falling when he takes damage.
+#### Know the Ropes (Ex)
 
-**Slaver Slayer (Ex)**: At 3rd level, a gray knight gains a +2 bonus on weapon attack and damage rolls against targets he knows to be slavers or to own slaves. This bonus increases to +4 at 6th level and +6 at 9th level. A gray knight automatically confirms critical hits against such targets.
+At 2nd level, while climbing ropes or rigging, a gray knight gains a +4 circumstance bonus on [Climb](../../rules/skills/climb.md) checks and needs only one hand free to do so. In addition, in such circumstances he doesn’t take a penalty when using the accelerated climbing option, doesn’t lose his Dexterity bonus to AC, and doesn’t need to attempt a Climb check to avoid falling when he takes damage.
 
-**Breathe Easy (Sp)**: At 4th level, a gray knight can cast [*water breathing*](../../magic/spells/water-breathing.md) once per day as a spell-like ability (CL = the gray knight’s class level). The gray knight can use this ability as a move action or an immediate action if he so chooses. When used as a move action, the ability can affect only one creature, but can do so at a range of 120 feet. When used as an immediate action, the ability can affect only one creature, but can do so at a range of 60 feet, and its duration is reduced to 1 minute per level. A gray knight can use this ability twice per day at 7th level, and up to three times per day at 10th level.
+#### Slaver Slayer (Ex)
 
-**Grim Resolve (Ex)**: At 5th level, a gray knight becomes immune to fear effects and adds his Wisdom bonus to attempts to stabilize when his hit points are reduced to below 0.
+At 3rd level, a gray knight gains a +2 bonus on weapon attack and damage rolls against targets he knows to be slavers or to own slaves. This bonus increases to +4 at 6th level and +6 at 9th level. A gray knight automatically confirms critical hits against such targets.
 
-**Grant Freedom (Sp)**: At 9th level, a gray knight gains the effects of [*freedom of movement*](../../magic/spells/freedom-of-movement.md) as a constant spell-like ability (his effective caster level equals his class level). As a swift action, he can transfer this effect to a creature by touch, but in this case the effect persists for only 1 minute per effective caster level. When he does so, he regains the benefits of this ability 24 hours later.
+#### Breathe Easy (Sp)
 
-**Whisk to Freedom (Sp)**: At 10th level, a gray knight gains [*wind walk*](../../magic/spells/wind-walk.md) and [*word of recall*](../../magic/spells/word-of-recall.md) as spell-like abilities (caster level 10th), each usable once per day. *Word of recall* must return the gray knight to a ship allied with his order.
+At 4th level, a gray knight can cast [*water breathing*](../../magic/spells/water-breathing.md) once per day as a spell-like ability (CL = the gray knight’s class level). The gray knight can use this ability as a move action or an immediate action if he so chooses. When used as a move action, the ability can affect only one creature, but can do so at a range of 120 feet. When used as an immediate action, the ability can affect only one creature, but can do so at a range of 60 feet, and its duration is reduced to 1 minute per level. A gray knight can use this ability twice per day at 7th level, and up to three times per day at 10th level.
+
+#### Grim Resolve (Ex)
+
+At 5th level, a gray knight becomes immune to fear effects and adds his Wisdom bonus to attempts to stabilize when his hit points are reduced to below 0.
+
+#### Grant Freedom (Sp)
+
+At 9th level, a gray knight gains the effects of [*freedom of movement*](../../magic/spells/freedom-of-movement.md) as a constant spell-like ability (his effective caster level equals his class level). As a swift action, he can transfer this effect to a creature by touch, but in this case the effect persists for only 1 minute per effective caster level. When he does so, he regains the benefits of this ability 24 hours later.
+
+#### Whisk to Freedom (Sp)
+
+At 10th level, a gray knight gains [*wind walk*](../../magic/spells/wind-walk.md) and [*word of recall*](../../magic/spells/word-of-recall.md) as spell-like abilities (caster level 10th), each usable once per day. *Word of recall* must return the gray knight to a ship allied with his order.

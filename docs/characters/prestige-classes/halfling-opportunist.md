@@ -36,24 +36,46 @@ The halfling opportunist’s class skills are Acrobatics (Dex), Bluff (Cha), Cli
 
 ### Class Features
 
-**Weapon and Armor Proficiency**: A halfling opportunist gains no proficiency with any weapon or armor.
+#### Weapon and Armor Proficiency
 
-**Defensive Combat Training**: At 1st level, you gain [Defensive Combat Training](../../rules/feats/defensive-combat-training.md) as a bonus feat.
+A halfling opportunist gains no proficiency with any weapon or armor.
 
-**Exploitive Maneuver (Ex)**: When an enemy that can reach you acts in combat, you can immediately take advantage of it, as though the enemy were using aid another on your behalf. You must succeed at a combat maneuver check against the enemy’s CMD, made as an immediate action. The GM may let you substitute another ability modifier for Strength, such as Dexterity or Charisma. On a success, on your next turn you gain the aid another bonus on your action and subtract that same bonus from the enemy’s roll for that action. The GM decides whether the enemy’s action can benefit you in the intended way.
+#### Defensive Combat Training
 
-**Trap Spotter (Ex)**: You gain the rogue’s trap spotter talent.
+At 1st level, you gain [Defensive Combat Training](../../rules/feats/defensive-combat-training.md) as a bonus feat.
 
-**Excellent Aid (Ex)**: The bonus you gain when others aid you increases by +1 at 1st level, +2 at 3rd level, and +3 at 5th level. It does not apply when you aid others.
+#### Exploitive Maneuver (Ex)
 
-**Aligned Class (Ex)**: At 2nd and 4th level, you gain the class features of an additional level of a class you belonged to before adding the prestige class. You still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
+When an enemy that can reach you acts in combat, you can immediately take advantage of it, as though the enemy were using aid another on your behalf. You must succeed at a combat maneuver check against the enemy’s CMD, made as an immediate action. The GM may let you substitute another ability modifier for Strength, such as Dexterity or Charisma. On a success, on your next turn you gain the aid another bonus on your action and subtract that same bonus from the enemy’s roll for that action. The GM decides whether the enemy’s action can benefit you in the intended way.
 
-**Exceptionally Lucky (Ex)**: Your halfling racial bonus on saving throws increases to +2 at 2nd level and +3 at 4th level.
+#### Trap Spotter (Ex)
 
-**Sneak Attack (Ex)**: This works like the [rogue’s sneak attack](../classes/rogue.md#sneak-attack). Your extra damage increases by +1d6 at 2nd level and again at 4th level (to +2d6). Sneak attack from other sources stacks with this.
+You gain the rogue’s trap spotter talent.
 
-**Improved Trap Spotter (Ex)**: At 2nd level, the range of your trap spotter ability increases to 20 feet.
+#### Excellent Aid (Ex)
 
-**Fit In (Ex)**: At 3rd level, you can use a [Disguise](../../rules/skills/disguise.md) check in place of a [Diplomacy](../../rules/skills/diplomacy.md) check to influence an NPC’s initial attitude, without changing your appearance. If multiple creatures with differing views of proper behavior are present, you must choose one target creature or group to influence.
+The bonus you gain when others aid you increases by +1 at 1st level, +2 at 3rd level, and +3 at 5th level. It does not apply when you aid others.
 
-**Opportunity Attacker (Ex)**: At 5th level, when you make an attack of opportunity, you deal sneak attack damage even if the target is not [flat-footed](../../rules/appendices/conditions.md#flat-footed) or denied its Dexterity bonus to AC.
+#### Aligned Class (Ex)
+
+At 2nd and 4th level, you gain the class features of an additional level of a class you belonged to before adding the prestige class. You still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
+
+#### Exceptionally Lucky (Ex)
+
+Your halfling racial bonus on saving throws increases to +2 at 2nd level and +3 at 4th level.
+
+#### Sneak Attack (Ex)
+
+This works like the [rogue’s sneak attack](../classes/rogue.md#sneak-attack). Your extra damage increases by +1d6 at 2nd level and again at 4th level (to +2d6). Sneak attack from other sources stacks with this.
+
+#### Improved Trap Spotter (Ex)
+
+At 2nd level, the range of your trap spotter ability increases to 20 feet.
+
+#### Fit In (Ex)
+
+At 3rd level, you can use a [Disguise](../../rules/skills/disguise.md) check in place of a [Diplomacy](../../rules/skills/diplomacy.md) check to influence an NPC’s initial attitude, without changing your appearance. If multiple creatures with differing views of proper behavior are present, you must choose one target creature or group to influence.
+
+#### Opportunity Attacker (Ex)
+
+At 5th level, when you make an attack of opportunity, you deal sneak attack damage even if the target is not [flat-footed](../../rules/appendices/conditions.md#flat-footed) or denied its Dexterity bonus to AC.

@@ -43,27 +43,41 @@ The freedom tiller's class skills (and the key ability for each skill) are Acrob
 
 The following are class features of the freedom tiller prestige class.
 
-**Crop (Ex)**: As a standard action, a freedom tiller can designate a number of allies up to 3 + her Charisma modifier as part of her crop. Members of a crop must remain within 30 feet of the tiller to gain any benefits from abilities that affect a crop, regardless of the ability’s source (whether it’s a freedom harvester, irrigator, or tiller). If any leave this range, the tiller must designate these allies again for them to be included in her crop. At 7th level, this range increases to 60 feet.
+#### Crop (Ex)
 
-**Swift Sower (Ex)**: A freedom tiller’s base land speed is treated as being +10 feet faster when determining her overland travel speed while traveling long distances and while outside of combat. Members of her crop can use either the tiller’s overland travel speed or their own, whichever is better. At 6th level, the bonus to speed increases to +20 feet.
+As a standard action, a freedom tiller can designate a number of allies up to 3 + her Charisma modifier as part of her crop. Members of a crop must remain within 30 feet of the tiller to gain any benefits from abilities that affect a crop, regardless of the ability’s source (whether it’s a freedom harvester, irrigator, or tiller). If any leave this range, the tiller must designate these allies again for them to be included in her crop. At 7th level, this range increases to 60 feet.
 
-**Crop Guardian (Ex)**: At 2nd level, whenever a freedom tiller uses the aid another action for a member of her crop, she grants a +4 bonus instead of the normal +2. Levels in the freedom tiller prestige class stack with any vigilante levels she has when calculating the effects of the freedom harvester’s crop vigilance ability.
+#### Swift Sower (Ex)
+
+A freedom tiller’s base land speed is treated as being +10 feet faster when determining her overland travel speed while traveling long distances and while outside of combat. Members of her crop can use either the tiller’s overland travel speed or their own, whichever is better. At 6th level, the bonus to speed increases to +20 feet.
+
+#### Crop Guardian (Ex)
+
+At 2nd level, whenever a freedom tiller uses the aid another action for a member of her crop, she grants a +4 bonus instead of the normal +2. Levels in the freedom tiller prestige class stack with any vigilante levels she has when calculating the effects of the freedom harvester’s crop vigilance ability.
 
 ??? note "Original rule"
 
     **Crop Guardian (Ex)**: At 2nd level, whenever a freedom tiller uses the aid another action for a member of her crop, she grants a +3 bonus instead of the normal +2. Levels in the freedom tiller prestige class stack with any vigilante levels she has when calculating the effects of the freedom harvester’s crop vigilance ability.
 
-**Scarecrow (Ex)**: At 2nd level, a freedom tiller receives a +1 morale bonus on attack and damage rolls against any creature threatening an ally or member of her crop. At 4th level and every 2 levels thereafter, these bonuses increase by 1, to a maximum of +5 at 10th level.
+#### Scarecrow (Ex)
+
+At 2nd level, a freedom tiller receives a +1 morale bonus on attack and damage rolls against any creature threatening an ally or member of her crop. At 4th level and every 2 levels thereafter, these bonuses increase by 1, to a maximum of +5 at 10th level.
 
 ??? note "Original rule"
 
     **Scarecrow (Ex)**: At 2nd level, a freedom tiller receives a +1 morale bonus on attack and damage rolls against creatures that threaten attacks of opportunity against members of her crop. At 4th level and every 2 levels thereafter, these bonuses increase by 1, to a maximum of +5 at 10th level.
 
-**Teamwork Feat**: At 2nd level, a freedom tiller gains a bonus feat in addition to those gained from normal advancement. This bonus feat must be a teamwork feat, and the tiller must meet the prerequisites of the selected bonus feat. At 6th level and 10th level, the tiller gains an additional bonus teamwork feat.
+#### Teamwork Feat
 
-**Sneak Attack**: At 3rd level, a freedom tiller gains a sneak attack that functions like the [rogue class feature](../classes/rogue.md#sneak-attack) of the same name. The extra damage is 1d6 at 3rd level and increases by 1d6 every 3 levels thereafter. If a tiller gets a sneak attack bonus from another source, the bonuses on damage stack.
+At 2nd level, a freedom tiller gains a bonus feat in addition to those gained from normal advancement. This bonus feat must be a teamwork feat, and the tiller must meet the prerequisites of the selected bonus feat. At 6th level and 10th level, the tiller gains an additional bonus teamwork feat.
 
-**Favored Barn (Ex)**: At 5th level, a freedom tiller grows familiar with and develops trusted contacts in a particular community. While inside the limits of this community, she gains a +2 bonus on initiative checks and [Knowledge](../../rules/skills/knowledge.md) (local), [Perception](../../rules/skills/perception.md), [Stealth](../../rules/skills/stealth.md), and [Survival](../../rules/skills/survival.md) checks. Any ally designated as part of the tiller’s crop receives a bonus on these skills equal to half the tiller’s bonus. A tiller traveling through her favored community leaves no trail and cannot be tracked (although she can leave a trail if she so desires).
+#### Sneak Attack
+
+At 3rd level, a freedom tiller gains a sneak attack that functions like the [rogue class feature](../classes/rogue.md#sneak-attack) of the same name. The extra damage is 1d6 at 3rd level and increases by 1d6 every 3 levels thereafter. If a tiller gets a sneak attack bonus from another source, the bonuses on damage stack.
+
+#### Favored Barn (Ex)
+
+At 5th level, a freedom tiller grows familiar with and develops trusted contacts in a particular community. While inside the limits of this community, she gains a +2 bonus on initiative checks and [Knowledge](../../rules/skills/knowledge.md) (local), [Perception](../../rules/skills/perception.md), [Stealth](../../rules/skills/stealth.md), and [Survival](../../rules/skills/survival.md) checks. Any ally designated as part of the tiller’s crop receives a bonus on these skills equal to half the tiller’s bonus. A tiller traveling through her favored community leaves no trail and cannot be tracked (although she can leave a trail if she so desires).
 
 Provided that she isn’t in immediate danger (such as fleeing from pursuers right on her heels), a tiller can always find a safe place for her and members of her crop to rest in her chosen community. At such a location, she and her allies are fed, clothed, and provided with basic medical attention (as if attended by a person with a [Heal](../../rules/skills/heal.md) bonus of +10).
 
@@ -71,5 +85,7 @@ At 7th level and 9th level, the tiller can select an additional community in whi
 
 For the purposes of this ability, a community can be any settlement of 100 or more individuals. Outlying farms, fields, and houses are considered part of a community.
 
-**Tactician**: At 6th level, a freedom tiller gains the tactician ability of a cavalier of her level + 5. The teamwork feats the class already grants count as part of this ability, plus 1 extra for the normal tactician effects.
+#### Tactician
+
+At 6th level, a freedom tiller gains the tactician ability of a cavalier of her level + 5. The teamwork feats the class already grants count as part of this ability, plus 1 extra for the normal tactician effects.
 

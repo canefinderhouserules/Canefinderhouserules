@@ -36,21 +36,33 @@ The Justicar’s class skills are [Appraise](../../rules/skills/appraise.md), [B
 
 The following are class features of the justiciar.
 
-**Weapon and Armor Proficiency**: Justicars gain no additional weapon or armor proficiencies.
+#### Weapon and Armor Proficiency
 
-**Aura of Law (Ex)**: The power of a justiciar’s aura of law (see the [*detect law*](../../magic/spells/detect-law.md) spell) is equal to her character level. If the justiciar has cleric or paladin levels, the power of her aura of law is equal to her character level +4.
+Justicars gain no additional weapon or armor proficiencies.
 
-**Authority (Su)**: A justiciar serves a religious or legal code and has absolute authority (granted by a higher-ranking agent of that code) to enforce it. This means that if the justiciar catches criminals, she may judge them guilty (given sufficient proof) and order their execution, or do it herself if need be. Because the justiciar must act within the law, there is rarely any friction between her and established authorities other than disputes about jurisdiction and challenges from other forms of authority. (A religiously endorsed justiciar, for example, might come into conflict with secular governors who take exception to the execution of their subjects.) A justiciar may deputize others to aid her in her tasks, although she is responsible for their actions in her name.
+#### Aura of Law (Ex)
+
+The power of a justiciar’s aura of law (see the [*detect law*](../../magic/spells/detect-law.md) spell) is equal to her character level. If the justiciar has cleric or paladin levels, the power of her aura of law is equal to her character level +4.
+
+#### Authority (Su)
+
+A justiciar serves a religious or legal code and has absolute authority (granted by a higher-ranking agent of that code) to enforce it. This means that if the justiciar catches criminals, she may judge them guilty (given sufficient proof) and order their execution, or do it herself if need be. Because the justiciar must act within the law, there is rarely any friction between her and established authorities other than disputes about jurisdiction and challenges from other forms of authority. (A religiously endorsed justiciar, for example, might come into conflict with secular governors who take exception to the execution of their subjects.) A justiciar may deputize others to aid her in her tasks, although she is responsible for their actions in her name.
 
 As part of a Diplomacy and Intimidate check regarding matters of the law and her authority, a justiciar may exert her authority to grant herself a +4 bonus on these checks. This ability negates any need to carry a badge or writ of office, and is mainly used to convince those unfamiliar with the justiciar of her legal powers. For example, a justiciar can use this ability to check an angry mob intent on lynching a jailed prisoner, or convince a stubborn mayor that interfering with the justiciar’s efforts is likely to anger the lord they both work for. Even against individuals who don’t acknowledge his code of laws (such as thieves or warriors from other lands), the justicar’s fervor still grants these skill bonuses. She does not, however, gain these bonuses in situations where her code of laws would not apply or hold no bearing (like against monsters or savages). The GM ultimately adjudicates who the justiciar’s authority applies against.
 
 In addition, a justiciar’s knowledge of her code is magically flawless, as if she were mentally reviewing a perfect copy of the code. If the source of the code changes (such as a decree from the church’s high priest or a new law created by a king), she instantly knows it. This perfect knowledge means she immediately recognizes any misquoting of the law (deliberate or accidental), and many justicars consider it their duty to review the law book in remote settlements to make sure there are no errors in transcription or translation. A justiciar may always take 10 on Knowledge checks regarding the code, even when rushed or threatened.
 
-**Lawkeeper**: Justicars are not allowed to violate their code or any oath or contract they willingly agree to, nor can they go against the spirit of it while holding to the letter. A justiciar who willingly does so loses all prestige class abilities until she receives an [*atonement*](../../magic/spells/atonement.md) spell from her religious superiors or an official pardon from her secular superiors.
+#### Lawkeeper
 
-**Sure Shot**: A justiciar is skilled with crossbows. At 2nd level, she gains the ability to make a sure shot. A number of times per day equal to her class level, a justiciar may add her Charisma bonus on an attack roll made with a crossbow and deal 1 extra point of damage per justiciar level.
+Justicars are not allowed to violate their code or any oath or contract they willingly agree to, nor can they go against the spirit of it while holding to the letter. A justiciar who willingly does so loses all prestige class abilities until she receives an [*atonement*](../../magic/spells/atonement.md) spell from her religious superiors or an official pardon from her secular superiors.
 
-**Oathmark (Su)**: This ability magically seals an oath or agreement between two people. The justiciar chooses two willing creatures and presses her authority upon them. By accepting her authority and stating their agreement on something (whether a verbal promise, written contract, treaty, or the like), the two creatures are magically linked so that if one breaks the agreement, the other knows it. The expiration of the link does not explain the exact nature of the betrayal, only that it has occurred. If one target dies, the link ends and the other target knows the other party is dead.
+#### Sure Shot
+
+A justiciar is skilled with crossbows. At 2nd level, she gains the ability to make a sure shot. A number of times per day equal to her class level, a justiciar may add her Charisma bonus on an attack roll made with a crossbow and deal 1 extra point of damage per justiciar level.
+
+#### Oathmark (Su)
+
+This ability magically seals an oath or agreement between two people. The justiciar chooses two willing creatures and presses her authority upon them. By accepting her authority and stating their agreement on something (whether a verbal promise, written contract, treaty, or the like), the two creatures are magically linked so that if one breaks the agreement, the other knows it. The expiration of the link does not explain the exact nature of the betrayal, only that it has occurred. If one target dies, the link ends and the other target knows the other party is dead.
 
 Direct and indirect attempts to violate the agreement end the link; swearing not to kill someone and then hiring someone else to do it is a violation, as is hiring assassins before the agreement with the orders to kill the person later. The link cannot penetrate other planes, areas where magic does not function, or spells such as mind blank that block mind reading. Once the interference ends, the link resumes and determines if the agreement has been broken. The other person in the link knows if the link is blocked, but not why.
 

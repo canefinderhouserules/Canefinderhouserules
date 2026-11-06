@@ -39,11 +39,17 @@ The devil thief's class skills (and the key ability for each skill) are Acrobati
 
 The following are class features of the devil thief prestige class.
 
-**Weapon and Armor Proficiency**: A devil thief gains proficiency with [longswords](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons).
+#### Weapon and Armor Proficiency
 
-**Classically Trained (Ex)**: The guild trains its members with the longsword—a weapon its legendary patron used to great effect by eschewing strength for finesse and expertise. A devil thief can use Weapon Finesse with a longsword sized for him when he wields it one-handed, even though it is not a light weapon.
+A devil thief gains proficiency with [longswords](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons).
 
-**Patrons’ Favor (Su)**: The patrons of the city are spiritual guardians whose traditions are so strong that the city’s current rulers have not effaced their mark. A devil thief learns to call upon the patrons’ spiritual power, enjoying a mastery of the city matched by few.
+#### Classically Trained (Ex)
+
+The guild trains its members with the longsword—a weapon its legendary patron used to great effect by eschewing strength for finesse and expertise. A devil thief can use Weapon Finesse with a longsword sized for him when he wields it one-handed, even though it is not a light weapon.
+
+#### Patrons’ Favor (Su)
+
+The patrons of the city are spiritual guardians whose traditions are so strong that the city’s current rulers have not effaced their mark. A devil thief learns to call upon the patrons’ spiritual power, enjoying a mastery of the city matched by few.
 
 At 1st level, a devil thief gains a pool of favor points equal to his class level + his Intelligence, Wisdom, or Charisma modifier (whichever is highest). In addition to the powers inspired by specific patrons (see below), the devil thief can spend one favor point to add a bonus equal to half his class level (minimum +1) on a skill check without spending an action. He must use this ability before learning the result of the check, and he can add this additional bonus only once per skill check. The pool of favor is replenished each morning after 8 hours of rest.
 
@@ -63,8 +69,12 @@ As the devil thief gains levels, he learns to call upon powers inspired by speci
 
 *Monument’s Avatar (Su or Sp)*: The city’s greatest monument symbolizes a dead god of humanity, and the devil thief can draw inspiration from this towering statue to invoke that god’s authority or mastery of the blade. At 10th level, the devil thief can use his favor ability to improve attack rolls with longswords as if they were skill checks. In addition, as a full-round action, the devil thief can spend 2 favor points to issue a [*suggestion*](../../magic/spells/suggestion.md), or spend 5 favor points to issue a *mass suggestion*. These function as the spells of the same name except that they affect only humans.
 
-**Guild Secret**: At 2nd level and every 2 levels thereafter, a devil thief gains a rogue talent, selected from those available to rogues. The devil thief treats his character level as his rogue level for the purpose of determining the talents’ effects. At 6th level, whenever the devil thief would select a rogue talent, he can select an advanced talent instead.
+#### Guild Secret
+
+At 2nd level and every 2 levels thereafter, a devil thief gains a rogue talent, selected from those available to rogues. The devil thief treats his character level as his rogue level for the purpose of determining the talents’ effects. At 6th level, whenever the devil thief would select a rogue talent, he can select an advanced talent instead.
 
 Alternatively, the devil thief can focus on occult studies instead. If he chooses this option, when he would gain a talent via this ability, his spellcasting ability in a psychic spellcasting class he has increases by 1 level instead. The devil thief can gain a level of spellcasting in this way once, plus one additional time at 6th and 10th levels.
 
-**Sneak Attack (Ex)**: At 3rd level, a devil thief gains sneak attack as per the rogue class feature. The extra damage is 1d6 at 3rd level, and it increases to 2d6 at 6th level, and to 3d6 at 9th level.
+#### Sneak Attack (Ex)
+
+At 3rd level, a devil thief gains sneak attack as per the rogue class feature. The extra damage is 1d6 at 3rd level, and it increases to 2d6 at 6th level, and to 3d6 at 9th level.

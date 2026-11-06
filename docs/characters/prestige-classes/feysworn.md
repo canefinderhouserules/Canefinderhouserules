@@ -41,31 +41,55 @@ The Feysworn’s class skills are Bluff (Cha), Handle Animal (Cha), Intimidate (
 
 The following are the class features of the feysworn prestige class.
 
-**Weapon and Armor Proficiency**: A feysworn gains proficiency with all [simple weapons](../../equipment/weapons-simple.md) and with her fey lord’s favored weapon. She gains no additional proficiency with armor or [shields](../../equipment/armor.md).
+#### Weapon and Armor Proficiency
 
-**Spells per Day or Spells Known**: At the indicated levels, when a new feysworn level is gained, the character gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before taking the prestige class. She doesn't gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If the character had levels in more than one spellcasting class before becoming a feysworn, she must choose to which class she adds the new level for the purposes of determining spells per day.
+A feysworn gains proficiency with all [simple weapons](../../equipment/weapons-simple.md) and with her fey lord’s favored weapon. She gains no additional proficiency with armor or [shields](../../equipment/armor.md).
 
-**Feymarked (Ex)**: Upon death, a feysworn is immediately resurrected and transported to a location on the fey realm sacred to the fey lord the feysworn worships (at the GM’s discretion, the feysworn may be reincarnated instead). From that point forward, the character is held in her living state only by the fey lord’s will. While the amount of service the fey lord demands in exchange varies, if at any point the fey lord becomes displeased enough to revoke this status, the feysworn is immediately and utterly destroyed, her soul energy permanently reabsorbed into the fey realm. Creatures slain in this manner cannot be resurrected short of deific intervention.
+#### Spells per Day or Spells Known
+
+At the indicated levels, when a new feysworn level is gained, the character gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before taking the prestige class. She doesn't gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If the character had levels in more than one spellcasting class before becoming a feysworn, she must choose to which class she adds the new level for the purposes of determining spells per day.
+
+#### Feymarked (Ex)
+
+Upon death, a feysworn is immediately resurrected and transported to a location on the fey realm sacred to the fey lord the feysworn worships (at the GM’s discretion, the feysworn may be reincarnated instead). From that point forward, the character is held in her living state only by the fey lord’s will. While the amount of service the fey lord demands in exchange varies, if at any point the fey lord becomes displeased enough to revoke this status, the feysworn is immediately and utterly destroyed, her soul energy permanently reabsorbed into the fey realm. Creatures slain in this manner cannot be resurrected short of deific intervention.
 
 Feysworn creatures are immune to any spell not capable of targeting fey (such as *dominate person, charm person, hold person*, and any other spells specifically targeting humanoids). This immunity can be voluntarily suspended as per the rules for spell resistance.
 
-**Obedience (Ex)**: A feysworn must select a fey lord to worship; once this choice is made, it can’t easily be changed . In order to keep the abilities granted by this prestige class (including augmented spellcasting abilities), a feysworn must conduct a daily obedience to her chosen fey lord.
+#### Obedience (Ex)
 
-**Aligned Class (Ex)**: At 2nd level, a feysworn must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
+A feysworn must select a fey lord to worship; once this choice is made, it can’t easily be changed . In order to keep the abilities granted by this prestige class (including augmented spellcasting abilities), a feysworn must conduct a daily obedience to her chosen fey lord.
 
-**Breacher (Ex)**: At 2nd level, a feysworn gains a constant and instinctive sense of the direction (though not distance) to the nearest breach between the fey realm and the Material Plane.
+#### Aligned Class (Ex)
 
-**Feyskinned (Ex)**: At 2nd level, a feysworn gains the ability to harden her skin, granting herself DR 10/cold iron for 1 minute per feysworn level each day. This duration need not be consecutive but must be used in 1-minute increments. At 7th level, this DR becomes constant. If the feysworn already has DR 10/cold iron or better, the damage reduction increases by 5.
+At 2nd level, a feysworn must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
 
-**Fey Boon**: As a feysworn gains levels, she gains boons from her fey lord patron. The nature of the boons varies depending on the feysworn’s chosen fey lord. Each fey lord grants three boons, each more powerful than the last. At 3rd level, the feysworn gains the first boon. At 6th level, she gains the second boon, and at 9th level, she gains the third boon. Consult the Fey Obedience feat and the fey lord descriptions in Chapter 2 for details on fey boons. When an fey lord grants a spell-like ability, the feysworn’s level for the spell-like ability is equal to her total character level. This ability allows a feysworn to access these boons earlier than normal; it does not grant additional uses of the boons once the character reaches the necessary Hit Dice to earn the boons normally.
+#### Breacher (Ex)
 
-**Summon Fey (Sp)**: At 4th level, a feysworn can use *summon monster IV* once per day to conjure 1 ekekeh or satyr, 1d3 nuglub gremlins (*Pathfinder RPG Bestiary 2 143*), or 1d4+1 fauns (*Pathfinder RPG Bestiary 3 114*). At 8th level, the feysworn also gains the ability to use *summon monster VIII* once per day to conjure 1 bogeyman (*Bestiary 3 42*), 1d3 nuckelavees (*Bestiary 3 203*), or 1d4+1 escorites. At the GM’s discretion, specific fey lord may allow feysworn who worship them to summon other fey creatures of equal power with this ability.
+At 2nd level, a feysworn gains a constant and instinctive sense of the direction (though not distance) to the nearest breach between the fey realm and the Material Plane.
 
-**Alien Mind (Ex)**: At 5th level, for a number of rounds per day equal to her feysworn level, the feysworn gains a +4 sacred bonus to one mental ability score and on saving throws against mind-affecting effects. These rounds do not need to be used consecutively. Once selected, the mental ability score affected cannot be changed until the feysworn next performs her fey lord’s obedience. Activating or maintaining this ability is an immediate action.
+#### Feyskinned (Ex)
 
-**Plane Swap (Sp)**: At 5th level, the feysworn gains the ability to transport herself and up to one touched willing creature per feysworn level from the Material Plane to the fey realm or vice versa. This ability can be used once per day as a standard action, and functions as [*plane shift*](../../magic/spells/plane-shift.md).
+At 2nd level, a feysworn gains the ability to harden her skin, granting herself DR 10/cold iron for 1 minute per feysworn level each day. This duration need not be consecutive but must be used in 1-minute increments. At 7th level, this DR becomes constant. If the feysworn already has DR 10/cold iron or better, the damage reduction increases by 5.
 
-**Tear Reality (Sp)**: At 10th level, once per day as long as she is on the Material Plane or in the fey realm, the feysworn can rip the planar fabric to unleash terrible magical energies. The area of effect is always centered on her (though she may otherwise determine its shape or targets according to the spell’s description) and chosen at random from the following spell effects.
+#### Fey Boon
+
+As a feysworn gains levels, she gains boons from her fey lord patron. The nature of the boons varies depending on the feysworn’s chosen fey lord. Each fey lord grants three boons, each more powerful than the last. At 3rd level, the feysworn gains the first boon. At 6th level, she gains the second boon, and at 9th level, she gains the third boon. Consult the Fey Obedience feat and the fey lord descriptions in Chapter 2 for details on fey boons. When an fey lord grants a spell-like ability, the feysworn’s level for the spell-like ability is equal to her total character level. This ability allows a feysworn to access these boons earlier than normal; it does not grant additional uses of the boons once the character reaches the necessary Hit Dice to earn the boons normally.
+
+#### Summon Fey (Sp)
+
+At 4th level, a feysworn can use *summon monster IV* once per day to conjure 1 ekekeh or satyr, 1d3 nuglub gremlins (*Pathfinder RPG Bestiary 2 143*), or 1d4+1 fauns (*Pathfinder RPG Bestiary 3 114*). At 8th level, the feysworn also gains the ability to use *summon monster VIII* once per day to conjure 1 bogeyman (*Bestiary 3 42*), 1d3 nuckelavees (*Bestiary 3 203*), or 1d4+1 escorites. At the GM’s discretion, specific fey lord may allow feysworn who worship them to summon other fey creatures of equal power with this ability.
+
+#### Alien Mind (Ex)
+
+At 5th level, for a number of rounds per day equal to her feysworn level, the feysworn gains a +4 sacred bonus to one mental ability score and on saving throws against mind-affecting effects. These rounds do not need to be used consecutively. Once selected, the mental ability score affected cannot be changed until the feysworn next performs her fey lord’s obedience. Activating or maintaining this ability is an immediate action.
+
+#### Plane Swap (Sp)
+
+At 5th level, the feysworn gains the ability to transport herself and up to one touched willing creature per feysworn level from the Material Plane to the fey realm or vice versa. This ability can be used once per day as a standard action, and functions as [*plane shift*](../../magic/spells/plane-shift.md).
+
+#### Tear Reality (Sp)
+
+At 10th level, once per day as long as she is on the Material Plane or in the fey realm, the feysworn can rip the planar fabric to unleash terrible magical energies. The area of effect is always centered on her (though she may otherwise determine its shape or targets according to the spell’s description) and chosen at random from the following spell effects.
 
 | d% | Spell |
 |---|---|

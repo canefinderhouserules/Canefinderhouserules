@@ -37,26 +37,50 @@ The adventuring delver's class skills (and the key ability for each skill) are A
 
 The following are class features of the adventuring delver prestige class.
 
-**Bardic Knowledge (Ex)**: This ability is identical to the bard class feature of the same name. Levels in this class stack with levels in any other class that grants bardic knowledge or a similar ability.
+#### Bardic Knowledge (Ex)
 
-**Master Explorer (Ex)**: A delver adds half his class level (minimum 1) as a bonus on all [Disable Device](../../rules/skills/disable-device.md) and [Perception](../../rules/skills/perception.md) checks. A delver can disable intricate and complex traps in half the normal amount of time (minimum 1 round) and open a lock as a standard action instead of a full-round action. He can always take 10 on Disable Device and [Stealth](../../rules/skills/stealth.md) checks, even if distracted or endangered, and he can use Disable Device to disarm magical traps.
+This ability is identical to the bard class feature of the same name. Levels in this class stack with levels in any other class that grants bardic knowledge or a similar ability.
 
-**Surefooted (Ex)**: At 2nd level, a delver can move through difficult terrain at his normal speed. Ground that has been magically manipulated to impede motion still affects him normally.
+#### Master Explorer (Ex)
 
-**Trap Sense (Ex)**: This ability functions as (and stacks with) the rogue class feature of the same name, save that a delver gains the bonuses at 2nd level and they increase every 3 levels thereafter.
+A delver adds half his class level (minimum 1) as a bonus on all [Disable Device](../../rules/skills/disable-device.md) and [Perception](../../rules/skills/perception.md) checks. A delver can disable intricate and complex traps in half the normal amount of time (minimum 1 round) and open a lock as a standard action instead of a full-round action. He can always take 10 on Disable Device and [Stealth](../../rules/skills/stealth.md) checks, even if distracted or endangered, and he can use Disable Device to disarm magical traps.
 
-**Thrilling Escape (Ex)**: At 3rd level, a delver can attempt to delay a trap immediately after triggering it. To use this ability, he attempts a Disable Device check as an immediate action against the trap’s Disable Device DC; if he’s successful, the trap’s activation is delayed until the end of his next turn. The delver can attempt this check even if the trap was triggered by a failed Disable Device check. The delver can do this once per day at 3rd level, twice per day at 7th level, and three times per day at 9th level.
+#### Surefooted (Ex)
 
-**Guardbreaker (Ex)**: At 3rd level, a delver’s familiarity with the strange guardians often left in tombs allows him to attack them more effectively. He can treat his trap sense bonus as if it were a favored enemy bonus against constructs, oozes, and undead; this bonus stacks with any favored enemy bonuses gained from ranger levels or similar class features.
+At 2nd level, a delver can move through difficult terrain at his normal speed. Ground that has been magically manipulated to impede motion still affects him normally.
 
-**Resourceful Disabler (Ex)**: At 4th level, a delver can use the Disable Device skill without tools at no penalty.
+#### Trap Sense (Ex)
 
-**Vigilant Combatant (Ex)**: At 4th level, a delver adds half his class level on initiative checks.
+This ability functions as (and stacks with) the rogue class feature of the same name, save that a delver gains the bonuses at 2nd level and they increase every 3 levels thereafter.
 
-**Left for Dead (Su)**: At 5th level, a delver can cheat death once per day. If he would be killed by a melee attack, ranged attack, or effect that requires a saving throw, he is instead reduced to –1 hit points and knocked [unconscious](../../rules/appendices/conditions.md#unconscious), but is stable. He appears dead (though a character who succeeds at a DC 25 [Heal](../../rules/skills/heal.md) check or who uses an ability such as [*deathwatch*](../../magic/spells/deathwatch.md) can tell he is not) for 1 minute, after which he regains 1 hp and becomes conscious (unless healed sooner).
+#### Thrilling Escape (Ex)
 
-**Fortunate Soul (Su)**: Once per day at 6th level, the delver can reroll any saving throw he has just attempted. He must choose to use this ability before the results are revealed and must take the second result even if it’s worse. He can use this ability twice per day at 10th level.
+At 3rd level, a delver can attempt to delay a trap immediately after triggering it. To use this ability, he attempts a Disable Device check as an immediate action against the trap’s Disable Device DC; if he’s successful, the trap’s activation is delayed until the end of his next turn. The delver can attempt this check even if the trap was triggered by a failed Disable Device check. The delver can do this once per day at 3rd level, twice per day at 7th level, and three times per day at 9th level.
 
-**True Seeing (Sp)**: At 9th level, a delver can use [*true seeing*](../../magic/spells/true-seeing.md) once per day (CL = his class level).
+#### Guardbreaker (Ex)
 
-**Nick of Time (Ex)**: Once per day at 10th level, a delver can use an immediate action to perform an action that normally requires a standard action to perform.
+At 3rd level, a delver’s familiarity with the strange guardians often left in tombs allows him to attack them more effectively. He can treat his trap sense bonus as if it were a favored enemy bonus against constructs, oozes, and undead; this bonus stacks with any favored enemy bonuses gained from ranger levels or similar class features.
+
+#### Resourceful Disabler (Ex)
+
+At 4th level, a delver can use the Disable Device skill without tools at no penalty.
+
+#### Vigilant Combatant (Ex)
+
+At 4th level, a delver adds half his class level on initiative checks.
+
+#### Left for Dead (Su)
+
+At 5th level, a delver can cheat death once per day. If he would be killed by a melee attack, ranged attack, or effect that requires a saving throw, he is instead reduced to –1 hit points and knocked [unconscious](../../rules/appendices/conditions.md#unconscious), but is stable. He appears dead (though a character who succeeds at a DC 25 [Heal](../../rules/skills/heal.md) check or who uses an ability such as [*deathwatch*](../../magic/spells/deathwatch.md) can tell he is not) for 1 minute, after which he regains 1 hp and becomes conscious (unless healed sooner).
+
+#### Fortunate Soul (Su)
+
+Once per day at 6th level, the delver can reroll any saving throw he has just attempted. He must choose to use this ability before the results are revealed and must take the second result even if it’s worse. He can use this ability twice per day at 10th level.
+
+#### True Seeing (Sp)
+
+At 9th level, a delver can use [*true seeing*](../../magic/spells/true-seeing.md) once per day (CL = his class level).
+
+#### Nick of Time (Ex)
+
+Once per day at 10th level, a delver can use an immediate action to perform an action that normally requires a standard action to perform.

@@ -53,15 +53,21 @@ The sun anchorite's class skills (and the key ability for each skill) are Climb 
 
 The following are class features of the sun anchorite prestige class.
 
-**Spells per Day**: At the indicated levels, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He doesn't, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before gaining this prestige class ability, he must decide to which class he adds the new level for purposes of determining spells per day.
+#### Spells per Day
 
-**Solar Invocation (Su)**: A sun anchorite can harness the sun's life-giving warmth to protect the innocent and smite the wicked. At 1st level, he can invoke the sun as a standard action, granting him a +1 competence bonus on attack rolls and damage rolls against evil creatures and adding 1 to the DC of his spells and domain powers (if any) against evil creatures. The bonus on attack rolls and damage rolls increases to +2 at 3rd level, +3 at 6th level, and +4 at 9th level. If a sun anchorite has an animal companion, the companion also gains the competence bonus on attack and damage rolls while this ability is active. A sun anchorite can invoke the sun for a number of rounds per day equal to twice his sun anchorite class level + his Charisma modifier. Maintaining this ability on subsequent rounds is a free action. These bonuses apply only when the sun anchorite is standing in an outdoor area of dim light, normal light, or bright light, and only while he is clearly presenting his holy symbol or any scimitar. At 5th level, a sun anchorite can invoke the sun as a move action instead of a standard action. At 10th level, he can invoke the sun as a swift action.
+At the indicated levels, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He doesn't, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before gaining this prestige class ability, he must decide to which class he adds the new level for purposes of determining spells per day.
+
+#### Solar Invocation (Su)
+
+A sun anchorite can harness the sun's life-giving warmth to protect the innocent and smite the wicked. At 1st level, he can invoke the sun as a standard action, granting him a +1 competence bonus on attack rolls and damage rolls against evil creatures and adding 1 to the DC of his spells and domain powers (if any) against evil creatures. The bonus on attack rolls and damage rolls increases to +2 at 3rd level, +3 at 6th level, and +4 at 9th level. If a sun anchorite has an animal companion, the companion also gains the competence bonus on attack and damage rolls while this ability is active. A sun anchorite can invoke the sun for a number of rounds per day equal to twice his sun anchorite class level + his Charisma modifier. Maintaining this ability on subsequent rounds is a free action. These bonuses apply only when the sun anchorite is standing in an outdoor area of dim light, normal light, or bright light, and only while he is clearly presenting his holy symbol or any scimitar. At 5th level, a sun anchorite can invoke the sun as a move action instead of a standard action. At 10th level, he can invoke the sun as a swift action.
 
 ??? note "Original rule"
 
     **Solar Invocation (Su)**: A sun anchorite can harness the sun's life-giving warmth to protect the innocent and smite the wicked. At 1st level, he can invoke the sun as a standard action, granting him a +1 competence bonus on attack rolls and damage rolls against evil creatures and adding 1 to the DC of his spells and domain powers (if any) against evil creatures. The bonus on attack rolls and damage rolls increases to +2 at 5th level and +3 at 9th level. If a sun anchorite has an animal companion, the companion also gains the competence bonus on attack and damage rolls while this ability is active. A sun anchorite can invoke the sun for a number of rounds per day equal to twice his sun anchorite class level + his Charisma modifier. Maintaining this ability on subsequent rounds is a free action. These bonuses apply only when the sun anchorite is standing in an outdoor area of dim light, normal light, or bright light, and only while he is clearly presenting his holy symbol or any scimitar. At 5th level, a sun anchorite can invoke the sun as a move action instead of a standard action. At 10th level, he can invoke the sun as a swift action.
 
-**Credence**: Each sun anchorite develops a personal credence that guides his worship. He gains a credence at 2nd level and again every 2 class levels thereafter. Each credence can be chosen only once unless noted otherwise.
+#### Credence
+
+Each sun anchorite develops a personal credence that guides his worship. He gains a credence at 2nd level and again every 2 class levels thereafter. Each credence can be chosen only once unless noted otherwise.
 
 - *Dervish Dance*: The sun anchorite gains [Dervish Dance](../../rules/feats/dervish-dance.md) as a bonus feat.
 - *Divine Light (Su)*: The sun anchorite can use solar invocation indoors or underground, provided he is in an area of dim light, normal light, or bright light. He can use solar invocation 2 additional rounds per day.
@@ -73,8 +79,14 @@ The following are class features of the sun anchorite prestige class.
 - *Sun Blade (Su)*: Any weapon wielded by the sun anchorite is treated having the undead-bane special ability against undead who are particularly harmed by sunlight. Ranged weapons impart this ability to any ammunition fired from the weapon. All weapons wielded by the sun anchorite shed light as per a sunrod, unless the sun anchorite chooses to suppress this light as a move action (the light activates again automatically the next time the anchorite draws the weapon).
 - *Sun's Mercy (Su)*: Any creature that gains a competence bonus on attack rolls from the sun anchorite's solar invocation can deal nonlethal damage with a lethal weapon without taking the usual –4 penalty on attack rolls.
 
-**Bask in Radiance (Su)**: At 3rd level, when a sun anchorite uses his solar invocation ability, he can designate any number of allies within 30 feet to gain the bonuses granted by solar invocation for as long as he maintains the ability.
+#### Bask in Radiance (Su)
 
-**Sunbeam (Sp)**: At 7th level, a sun anchorite gains the ability to cast [*sunbeam*](../../magic/spells/sunbeam.md) once per day as a spell-like ability. His caster level is equal to his Hit Dice, and the save DC is Charisma-based. At 10th level, the sun anchorite can use this ability twice per day.
+At 3rd level, when a sun anchorite uses his solar invocation ability, he can designate any number of allies within 30 feet to gain the bonuses granted by solar invocation for as long as he maintains the ability.
 
-**Sunrise Invocation (Su)**: At 10th level, a sun anchorite is able to, once per day, use his solar invocation ability for 1 minute. The sun anchorite can also use this ability indoors or underground. While using sunrise invocation, all bonuses gained from solar invocation increase by 1. Using this ability doesn't cost rounds per day of solar invocation.
+#### Sunbeam (Sp)
+
+At 7th level, a sun anchorite gains the ability to cast [*sunbeam*](../../magic/spells/sunbeam.md) once per day as a spell-like ability. His caster level is equal to his Hit Dice, and the save DC is Charisma-based. At 10th level, the sun anchorite can use this ability twice per day.
+
+#### Sunrise Invocation (Su)
+
+At 10th level, a sun anchorite is able to, once per day, use his solar invocation ability for 1 minute. The sun anchorite can also use this ability indoors or underground. While using sunrise invocation, all bonuses gained from solar invocation increase by 1. Using this ability doesn't cost rounds per day of solar invocation.

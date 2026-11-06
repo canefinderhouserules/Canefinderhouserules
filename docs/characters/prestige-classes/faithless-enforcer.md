@@ -41,30 +41,58 @@ The faithless enforcer's class skills are Diplomacy (Cha), Heal (Wis), Intimidat
 
 The following are class features of the faithless enforcer prestige class.
 
-**Weapon and Armor Proficiency**: A faithless enforcer is proficient with all [simple weapons](../../equipment/weapons-simple.md), plus the [falchion](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), [scimitar](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons). Faithless enforcers are proficient with all light and [medium armor](../../equipment/armor.md) and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
+#### Weapon and Armor Proficiency
 
-**Aura Sense (Sp)**: A faithless enforcer can cast [*detect chaos*](../../magic/spells/detect-chaos.md), [*detect evil*](../../magic/spells/detect-evil.md), [*detect good*](../../magic/spells/detect-good.md), or [*detect law*](../../magic/spells/detect-law.md) at will as a spell-like ability, though he can detect only auras of moderate or higher power. He can detect only one type of aura at any given time.
+A faithless enforcer is proficient with all [simple weapons](../../equipment/weapons-simple.md), plus the [falchion](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), [scimitar](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons). Faithless enforcers are proficient with all light and [medium armor](../../equipment/armor.md) and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
-**Nonbeliever (Su)**: A faithless enforcer gains a bonus equal to 1/2 his class level (minimum +1) on saving throws against divine spells and spell-like abilities granted by a divine spellcasting class. The enforcer must always attempt a saving throw against the effects of beneficial divine magic.
+#### Aura Sense (Sp)
 
-**Divine Detective (Sp)**: At 2nd level, a faithless enforcer gains the ability to cast [*detect magic*](../../magic/spells/detect-magic.md) at will as a spell-like ability. He also receives a bonus equal to 1/2 his faithless enforcer level on checks to identify religious paraphernalia, divine spells, or magic items that are divine in nature (such as divine scrolls, aligned weapons, and magic items keyed to specific deities). This bonus also applies to [Spellcraft](../../rules/skills/spellcraft.md) checks to identify the casting of divine spells, [Knowledge](../../rules/skills/knowledge.md) (religion) checks to identify nonmagical religious items and iconography, and [Perception](../../rules/skills/perception.md) checks to detect hidden or concealed holy symbols.
+A faithless enforcer can cast [*detect chaos*](../../magic/spells/detect-chaos.md), [*detect evil*](../../magic/spells/detect-evil.md), [*detect good*](../../magic/spells/detect-good.md), or [*detect law*](../../magic/spells/detect-law.md) at will as a spell-like ability, though he can detect only auras of moderate or higher power. He can detect only one type of aura at any given time.
 
-**Voice of Law (Ex)**: At 2nd level, a faithless enforcer can, as a standard action, attempt an [Intimidate](../../rules/skills/intimidate.md) check to demoralize all worshipers of a specific deity within 30 feet. Spellcasters who are affected by this ability also take a –4 penalty on concentration checks to cast divine spells as long as they are [shaken](../../rules/appendices/conditions.md#shaken).
+#### Nonbeliever (Su)
 
-**Confiscate (Ex)**: At 4th level, the faithless enforcer gains a +2 bonus on combat maneuver checks to disarm or steal divine paraphernalia and magic items (such as aligned weapons, divine scrolls, holy or unholy symbols, and items affiliated with a specific deity). He can attempt disarm and steal combat maneuvers against such targets without provoking an attack of opportunity.
+A faithless enforcer gains a bonus equal to 1/2 his class level (minimum +1) on saving throws against divine spells and spell-like abilities granted by a divine spellcasting class. The enforcer must always attempt a saving throw against the effects of beneficial divine magic.
 
-**Decree of Law (Ex)**: At 4th level, the faithless enforcer can use his voice of law ability as a move action. Additionally, the enforcer gains a +2 morale bonus on attack and damage rolls against creatures affected by his voice of law ability.
+#### Divine Detective (Sp)
 
-**Discern Lies (Sp)**: At 5th level, a faithless enforcer can [*discern lies*](../../magic/spells/discern-lies.md), as per the spell, for a number of rounds per day equal to his enforcer level. These rounds don't need to be consecutive. Activating this ability is an immediate action.
+At 2nd level, a faithless enforcer gains the ability to cast [*detect magic*](../../magic/spells/detect-magic.md) at will as a spell-like ability. He also receives a bonus equal to 1/2 his faithless enforcer level on checks to identify religious paraphernalia, divine spells, or magic items that are divine in nature (such as divine scrolls, aligned weapons, and magic items keyed to specific deities). This bonus also applies to [Spellcraft](../../rules/skills/spellcraft.md) checks to identify the casting of divine spells, [Knowledge](../../rules/skills/knowledge.md) (religion) checks to identify nonmagical religious items and iconography, and [Perception](../../rules/skills/perception.md) checks to detect hidden or concealed holy symbols.
 
-**Disruptive Critical (Su)**: At 5th level, when a faithless enforcer confirms a critical hit against a divine spellcaster, he temporarily severs the divine conduit between the spellcaster and her deity, preventing her from casting divine spells or using supernatural or spell-like abilities granted by divine spellcasting classes. This effect lasts for 1 round per level or until the spellcaster succeeds at a concentration check (DC = 20 + 1/2 the enforcer's class level + his Charisma modifier).
+#### Voice of Law (Ex)
 
-**Edict of Law (Ex)**: At 6th level, the faithless enforcer can use his voice of law ability as a swift action, and if he is successful, creatures affected are shaken for a minimum of 1 minute instead of 1 round. The duration of this effect is still increased by 1 round for every 5 by which the enforcer exceeds the DC.
+At 2nd level, a faithless enforcer can, as a standard action, attempt an [Intimidate](../../rules/skills/intimidate.md) check to demoralize all worshipers of a specific deity within 30 feet. Spellcasters who are affected by this ability also take a –4 penalty on concentration checks to cast divine spells as long as they are [shaken](../../rules/appendices/conditions.md#shaken).
 
-**Iconoclast (Ex)**: At 7th level, a faithless enforcer gains a +2 bonus on combat maneuver attempts to sunder divine paraphernalia and magic items. He can attempt sunder combat maneuvers against such items without provoking an attack of opportunity.
+#### Confiscate (Ex)
 
-**Absolute Law (Ex)**: At 8th level, the faithless enforcer's damage bonus against creatures affected by his voice of law ability increases to +4.
+At 4th level, the faithless enforcer gains a +2 bonus on combat maneuver checks to disarm or steal divine paraphernalia and magic items (such as aligned weapons, divine scrolls, holy or unholy symbols, and items affiliated with a specific deity). He can attempt disarm and steal combat maneuvers against such targets without provoking an attack of opportunity.
 
-**Traces of Divinity (Su)**: At 9th level, a faithless enforcer can detect the lingering effects of magic long after the spell's duration has expired. When using *detect magic* on a lingering aura from a divine spell or a spell-like ability granted from a divine spellcasting class, the enforcer treats the original aura as one strength level higher than it actually was when determining its duration. If the enforcer exceeds the Spellcraft check to identify the spell by 5 or more, he can sense the same dim aura upon the spell's caster within the extended duration of his *detect magic* spell.
+#### Decree of Law (Ex)
 
-**Iron-Willed Atheist (Su)**: At 10th level, a faithless enforcer gains spell resistance equal to 11 + his character level against divine spellcasting and spell-like abilities granted by a divine spellcasting class. A faithless enforcer cannot voluntarily lower his spell resistance. Additionally, his damage bonus against creatures affected by his voice of law ability increases to +6.
+At 4th level, the faithless enforcer can use his voice of law ability as a move action. Additionally, the enforcer gains a +2 morale bonus on attack and damage rolls against creatures affected by his voice of law ability.
+
+#### Discern Lies (Sp)
+
+At 5th level, a faithless enforcer can [*discern lies*](../../magic/spells/discern-lies.md), as per the spell, for a number of rounds per day equal to his enforcer level. These rounds don't need to be consecutive. Activating this ability is an immediate action.
+
+#### Disruptive Critical (Su)
+
+At 5th level, when a faithless enforcer confirms a critical hit against a divine spellcaster, he temporarily severs the divine conduit between the spellcaster and her deity, preventing her from casting divine spells or using supernatural or spell-like abilities granted by divine spellcasting classes. This effect lasts for 1 round per level or until the spellcaster succeeds at a concentration check (DC = 20 + 1/2 the enforcer's class level + his Charisma modifier).
+
+#### Edict of Law (Ex)
+
+At 6th level, the faithless enforcer can use his voice of law ability as a swift action, and if he is successful, creatures affected are shaken for a minimum of 1 minute instead of 1 round. The duration of this effect is still increased by 1 round for every 5 by which the enforcer exceeds the DC.
+
+#### Iconoclast (Ex)
+
+At 7th level, a faithless enforcer gains a +2 bonus on combat maneuver attempts to sunder divine paraphernalia and magic items. He can attempt sunder combat maneuvers against such items without provoking an attack of opportunity.
+
+#### Absolute Law (Ex)
+
+At 8th level, the faithless enforcer's damage bonus against creatures affected by his voice of law ability increases to +4.
+
+#### Traces of Divinity (Su)
+
+At 9th level, a faithless enforcer can detect the lingering effects of magic long after the spell's duration has expired. When using *detect magic* on a lingering aura from a divine spell or a spell-like ability granted from a divine spellcasting class, the enforcer treats the original aura as one strength level higher than it actually was when determining its duration. If the enforcer exceeds the Spellcraft check to identify the spell by 5 or more, he can sense the same dim aura upon the spell's caster within the extended duration of his *detect magic* spell.
+
+#### Iron-Willed Atheist (Su)
+
+At 10th level, a faithless enforcer gains spell resistance equal to 11 + his character level against divine spellcasting and spell-like abilities granted by a divine spellcasting class. A faithless enforcer cannot voluntarily lower his spell resistance. Additionally, his damage bonus against creatures affected by his voice of law ability increases to +6.

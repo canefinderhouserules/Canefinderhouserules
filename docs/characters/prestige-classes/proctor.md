@@ -43,17 +43,29 @@ The Proctor’s class skills are Diplomacy (Cha), Intimidate (Cha), Knowledge (p
 
 The following are class features of the proctor prestige class.
 
-**Weapon and Armor Proficiency**: A proctor gains proficiency with her monitor demigod's favored weapon.
+#### Weapon and Armor Proficiency
 
-**Spells per Day**: At the indicated levels, a proctor gains new spells per day as if she had gained a level in a spellcasting class she belonged to before adding the prestige class. She does not gain any other benefits a character of that class would have gained except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a proctor, she must decide which class she adds each new proctor level for the purpose of determining spells per day.
+A proctor gains proficiency with her monitor demigod's favored weapon.
 
-**Monitor Familiar (Ex)**: The proctor gains the services of an arbiter, nosoi, paracletus, or voidworm familiar, as appropriate for the proctor's monitor demigod. This functions as the [wizard's arcane bond](../classes/wizard.md#arcane-bond-ex-or-sp) class feature, but as if the proctor had selected the [Improved Familiar](../../rules/feats/improved-familiar.md) feat. If the proctor has levels in another class that grants a familiar, levels in that class and the proctor class stack for determining the overall abilities of her familiar.
+#### Spells per Day
 
-**Obedience (Ex)**: In order to maintain the abilities granted by this prestige class (including all spellcasting abilities augmented by this prestige class), a proctor must perform a daily obedience to her monitor, as set forth in the description of each monitor demigod.
+At the indicated levels, a proctor gains new spells per day as if she had gained a level in a spellcasting class she belonged to before adding the prestige class. She does not gain any other benefits a character of that class would have gained except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a proctor, she must decide which class she adds each new proctor level for the purpose of determining spells per day.
 
-**Soultended (Ex)**: Upon death, a proctor's soul appears on one of the neutral Outer Planes that corresponds to her monitor demigod and begins the gradual transformation into an aeon, inevitable, protean, or psychopomp. A character attempting to resurrect a slain proctor must succeed at a caster level check with a DC equal to 10 + the proctor's character level or the spell fails. That character cannot attempt to resurrect the proctor again until 24 hours have passed, though other characters can still attempt to do so. The comforting inevitability of this fate grants the proctor a +2 bonus on Will saves.
+#### Monitor Familiar (Ex)
 
-**Monitor Expression (Su)**: At 2nd level, a proctor must select a specific expression of her role for her monitor demigod. Once made, this choice cannot be changed. Although a proctor's expression often aligns with her demigod, this isn't a strict requirement. Each expression provides a different benefit to the proctor.
+The proctor gains the services of an arbiter, nosoi, paracletus, or voidworm familiar, as appropriate for the proctor's monitor demigod. This functions as the [wizard's arcane bond](../classes/wizard.md#arcane-bond-ex-or-sp) class feature, but as if the proctor had selected the [Improved Familiar](../../rules/feats/improved-familiar.md) feat. If the proctor has levels in another class that grants a familiar, levels in that class and the proctor class stack for determining the overall abilities of her familiar.
+
+#### Obedience (Ex)
+
+In order to maintain the abilities granted by this prestige class (including all spellcasting abilities augmented by this prestige class), a proctor must perform a daily obedience to her monitor, as set forth in the description of each monitor demigod.
+
+#### Soultended (Ex)
+
+Upon death, a proctor's soul appears on one of the neutral Outer Planes that corresponds to her monitor demigod and begins the gradual transformation into an aeon, inevitable, protean, or psychopomp. A character attempting to resurrect a slain proctor must succeed at a caster level check with a DC equal to 10 + the proctor's character level or the spell fails. That character cannot attempt to resurrect the proctor again until 24 hours have passed, though other characters can still attempt to do so. The comforting inevitability of this fate grants the proctor a +2 bonus on Will saves.
+
+#### Monitor Expression (Su)
+
+At 2nd level, a proctor must select a specific expression of her role for her monitor demigod. Once made, this choice cannot be changed. Although a proctor's expression often aligns with her demigod, this isn't a strict requirement. Each expression provides a different benefit to the proctor.
 
 Executors discharge their assigned duties in an efficient and orderly manner, and most often align with the primal inevitables. A proctor with this expression gains a +4 bonus on saving throws against disease, paralysis, poison, sleep, and stunning. At 5th level, this bonus also applies on saves against mind-affecting effects.
 
@@ -63,14 +75,22 @@ Harmonizers bring balance to opposing factions, and most often align with the fi
 
 Impulsives let their instincts guide them, and most often align with the protean lords. A proctor with this expression can cast [*freedom of movement*](../../magic/spells/freedom-of-movement.md) once per day as a spell-like ability. At 5th level, the proctor can use this ability as a swift action.
 
-**Monitor Boon**: As a proctor gains levels, she gains boons from her monitor demigod. The nature of the boons varies depending on the proctor's chosen demigod. A monitor demigod grants three boons, each more powerful than the last. At 3rd level, the proctor gains the first boon. At 6th level, she gains the second boon, and at 9th level, she gains the third boon. Consult the Monitor Obedience feat and the monitor demigod descriptions for details on monitor boons.
+#### Monitor Boon
+
+As a proctor gains levels, she gains boons from her monitor demigod. The nature of the boons varies depending on the proctor's chosen demigod. A monitor demigod grants three boons, each more powerful than the last. At 3rd level, the proctor gains the first boon. At 6th level, she gains the second boon, and at 9th level, she gains the third boon. Consult the Monitor Obedience feat and the monitor demigod descriptions for details on monitor boons.
 
 When a monitor demigod grants a spell-like ability, the proctor's level for the spell-like ability is equal to her total character level. This ability allows a proctor to access these boons earlier than normal; it does not grant additional uses of the boons once the character reaches the necessary Hit Dice to earn the boons normally.
 
-**Summon Monitor (Sp)**: At 4th level, a proctor can cast *summon monster VI* once per day to conjure monitors based on her monitor expression. An executor can summon one Axiomite, 1d3 mercanes, or 1d4+1 novenaruts. A foster can summon one vanth, 1d3 morbais, or 1d4+1 catrinas. A harmonizer can summon one theletos, 1d3 othaoses, or 1d4+1 comozant wyrds. An impulsive can summon one naunet, 1d3 azuretzis, or 1d4+1 ourdivars.
+#### Summon Monitor (Sp)
+
+At 4th level, a proctor can cast *summon monster VI* once per day to conjure monitors based on her monitor expression. An executor can summon one Axiomite, 1d3 mercanes, or 1d4+1 novenaruts. A foster can summon one vanth, 1d3 morbais, or 1d4+1 catrinas. A harmonizer can summon one theletos, 1d3 othaoses, or 1d4+1 comozant wyrds. An impulsive can summon one naunet, 1d3 azuretzis, or 1d4+1 ourdivars.
 
 At 8th level, the proctor also gains the ability to cast *summon monster VIII* once per day to conjure additional monitors of the same type as her monitor expression. An executor can summon one kolyarut, 1d3 zelekhuts, or 1d4+1 axiomites. A foster can summon one algea, 1d3 shokis, or 1d4+1 vanths. A harmonizer can summon one akhana, 1d3 jyoti, or 1d4+1 theletoses. An impulsive can summon one ibshaunet, 1d3 illureshis, or 1d4+1 naunets. At the GM's discretion, specific monitor demigods may allow proctors who worship them to summon other neutral outsiders of equal power with this ability.
 
-**Solemn Voice (Su)**: At 7th level, the proctor gains an ability based on her monitor expression. Executors and impulsives can speak with any creature that has a language, as [*tongues*](../../magic/spells/tongues.md). A foster can cast [*speak with dead*](../../magic/spells/speak-with-dead.md) as a spell-like ability at will. A harmonizer gains telepathy with a range of 30 feet but cannot communicate telepathically with creatures immune to mind-affecting effects.
+#### Solemn Voice (Su)
 
-**Expression Immunities (Su)**: At 10th level, the proctor gains one or more immunities based on her monitor expression. Executors are immune to ability damage, ability drain, and energy drain. Fosters are immune to death effects, disease, and poison. Harmonizers are immune to critical hits. Impulsives are immune to transmutation effects, except those they willingly accept.
+At 7th level, the proctor gains an ability based on her monitor expression. Executors and impulsives can speak with any creature that has a language, as [*tongues*](../../magic/spells/tongues.md). A foster can cast [*speak with dead*](../../magic/spells/speak-with-dead.md) as a spell-like ability at will. A harmonizer gains telepathy with a range of 30 feet but cannot communicate telepathically with creatures immune to mind-affecting effects.
+
+#### Expression Immunities (Su)
+
+At 10th level, the proctor gains one or more immunities based on her monitor expression. Executors are immune to ability damage, ability drain, and energy drain. Fosters are immune to death effects, disease, and poison. Harmonizers are immune to critical hits. Impulsives are immune to transmutation effects, except those they willingly accept.

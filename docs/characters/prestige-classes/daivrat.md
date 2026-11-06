@@ -59,17 +59,29 @@ The daivrat’s class skills are Appraise (Int), Bluff (Cha), Craft (Int), Diplo
 
 All of the following are class features of the daivrat prestige class.
 
-**Weapon and Armor Proficiency**: A daivrat gains no proficiency with any weapon or armor.
+#### Weapon and Armor Proficiency
 
-**Spells**: At the indicated levels, a daivrat gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a daivrat, he must decide to which class he adds the new level for purposes of determining spells per day.
+A daivrat gains no proficiency with any weapon or armor.
 
-**Spell Focus**: At 1st level, a daivrat gains Spell Focus (conjuration) as a bonus feat.
+#### Spells
 
-**Elemental Focus (Su)**: At 1st level, the daivrat gains a measure of connection with elemental powers. Choose one of the following descriptors: acid, air, cold, earth, electricity, fire, or water. When casting spells of the chosen descriptor, the daivrat is considered to possess the Spell Focus feat for that spell. Only one Spell Focus or [Greater Spell Focus](../../rules/feats/greater-spell-focus.md) applies to the casting of a spell.
+At the indicated levels, a daivrat gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a daivrat, he must decide to which class he adds the new level for purposes of determining spells per day.
 
-**Genie-Tongue**: A daivrat is well-versed in communicating with genies and genie-kin. A daivrat gains a +2 bonus on Charisma-based checks to influence the attitudes of genies and allies of genies, and a +4 bonus on [Knowledge](../../rules/skills/knowledge.md) checks regarding genies.
+#### Spell Focus
 
-**Spell-Fetch (Su)**: Once per day, while preparing spells (or spell slots, for spontaneous casters), a daivrat can conjure a minor genie to find an unusual spell for him. The daivrat chooses one spell he does not know, such as a spell from a prohibited school or from another class’s spell list, and sends the genie to fetch magical energy matching that spell. The genie returns after 10 minutes and presents the daivrat with the matching spell energy.
+At 1st level, a daivrat gains Spell Focus (conjuration) as a bonus feat.
+
+#### Elemental Focus (Su)
+
+At 1st level, the daivrat gains a measure of connection with elemental powers. Choose one of the following descriptors: acid, air, cold, earth, electricity, fire, or water. When casting spells of the chosen descriptor, the daivrat is considered to possess the Spell Focus feat for that spell. Only one Spell Focus or [Greater Spell Focus](../../rules/feats/greater-spell-focus.md) applies to the casting of a spell.
+
+#### Genie-Tongue
+
+A daivrat is well-versed in communicating with genies and genie-kin. A daivrat gains a +2 bonus on Charisma-based checks to influence the attitudes of genies and allies of genies, and a +4 bonus on [Knowledge](../../rules/skills/knowledge.md) checks regarding genies.
+
+#### Spell-Fetch (Su)
+
+Once per day, while preparing spells (or spell slots, for spontaneous casters), a daivrat can conjure a minor genie to find an unusual spell for him. The daivrat chooses one spell he does not know, such as a spell from a prohibited school or from another class’s spell list, and sends the genie to fetch magical energy matching that spell. The genie returns after 10 minutes and presents the daivrat with the matching spell energy.
 
 If the daivrat casts spells like a wizard, for the next 24 hours he can prepare the fetched spell as if it were in his spellbook. If he casts spells like a sorcerer, for the next 24 hours he may cast the fetched spell as if he knew it.
 
@@ -79,12 +91,22 @@ At 2nd level, the genie can retrieve any spell of 3rd level or lower. At 5th lev
 
     Preparing or casting the fetched spell is more difficult than using spells the daivrat actually knows. If the fetched spell is on the daivrat’s spellcasting class’s spell list, it is treated as 1 spell level higher than normal; otherwise it is treated as 2 spell levels higher than normal.
 
-**Genie’s Friend (Su)**: At 3rd level, a daivrat gains a +2 bonus to his caster level when conjuring genies. At 9th level, this bonus increases to +4.
+#### Genie’s Friend (Su)
 
-**Elemental Attunement (Ex)**: At 4th level, the daivrat gains energy resistance 5 against acid, cold, electricity, or fire.
+At 3rd level, a daivrat gains a +2 bonus to his caster level when conjuring genies. At 9th level, this bonus increases to +4.
 
-**Zhyen Familiar**: At 6th level, a daivrat can select a zhyen to serve as his familiar, replacing any familiar he already possesses, as if he had the [Improved Familiar](../../rules/feats/improved-familiar.md) feat. A zhyen is a Tiny minor genie (CR 1/2 neutral outsider with the air, earth, fire, or water subtype) that serves as a messenger and servant to greater beings; it appears as a miniature djinni from the waist up, its lower half trailing away into mist, water, flame, or stone. It flies (30 feet, perfect), has resistance 5 to acid, cold, electricity, and fire, makes a melee touch attack that deals 1d4 points of energy damage, and can use [*mage hand*](../../magic/spells/mage-hand.md) and [*mending*](../../magic/spells/mending.md) at will and [*endure elements*](../../magic/spells/endure-elements.md) and [*touch of fatigue*](../../magic/spells/touch-of-fatigue.md) once per day. Zhyens can also be summoned with *summon monster II*.
+#### Elemental Attunement (Ex)
 
-**Greater Elemental Focus (Su)**: At 7th level, the daivrat’s connection with his chosen element deepens. When casting spells with the descriptor chosen for his elemental focus ability, the daivrat is now considered to possess the Greater Spell Focus feat. Only one Spell Focus or Greater Spell Focus applies to the casting of a spell.
+At 4th level, the daivrat gains energy resistance 5 against acid, cold, electricity, or fire.
 
-**Genie-Kin (Ex)**: At 10th level, the daivrat’s type changes to outsider (native). He gains acid, cold, electricity, and fire resistance 5, resistance 10 against his chosen energy type from his elemental attunement ability, and damage reduction 5/—.
+#### Zhyen Familiar
+
+At 6th level, a daivrat can select a zhyen to serve as his familiar, replacing any familiar he already possesses, as if he had the [Improved Familiar](../../rules/feats/improved-familiar.md) feat. A zhyen is a Tiny minor genie (CR 1/2 neutral outsider with the air, earth, fire, or water subtype) that serves as a messenger and servant to greater beings; it appears as a miniature djinni from the waist up, its lower half trailing away into mist, water, flame, or stone. It flies (30 feet, perfect), has resistance 5 to acid, cold, electricity, and fire, makes a melee touch attack that deals 1d4 points of energy damage, and can use [*mage hand*](../../magic/spells/mage-hand.md) and [*mending*](../../magic/spells/mending.md) at will and [*endure elements*](../../magic/spells/endure-elements.md) and [*touch of fatigue*](../../magic/spells/touch-of-fatigue.md) once per day. Zhyens can also be summoned with *summon monster II*.
+
+#### Greater Elemental Focus (Su)
+
+At 7th level, the daivrat’s connection with his chosen element deepens. When casting spells with the descriptor chosen for his elemental focus ability, the daivrat is now considered to possess the Greater Spell Focus feat. Only one Spell Focus or Greater Spell Focus applies to the casting of a spell.
+
+#### Genie-Kin (Ex)
+
+At 10th level, the daivrat’s type changes to outsider (native). He gains acid, cold, electricity, and fire resistance 5, resistance 10 against his chosen energy type from his elemental attunement ability, and damage reduction 5/—.

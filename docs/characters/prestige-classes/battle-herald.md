@@ -47,9 +47,13 @@ The battle herald’s class skills are Bluff (Cha), Craft (Int), Diplomacy (Cha)
 
 The following are class features of the battle herald prestige class.
 
-**Weapon and Armor Proficiency**: A battle herald gains no proficiency with any weapon or armor.
+#### Weapon and Armor Proficiency
 
-**Inspiring Command (Ex)**: A battle herald uses her keen tactical acumen and decisive judgment to lead others to victory, as well as her mastery of command to assist herself and her allies in battle. Any song that grants her inspiring command bonus can be activated at the same time as any other bardic performance if she pays double the rounds, letting her have 2 bardic performances at once (one of those and, for example, inspire courage, or two of those).
+A battle herald gains no proficiency with any weapon or armor.
+
+#### Inspiring Command (Ex)
+
+A battle herald uses her keen tactical acumen and decisive judgment to lead others to victory, as well as her mastery of command to assist herself and her allies in battle. Any song that grants her inspiring command bonus can be activated at the same time as any other bardic performance if she pays double the rounds, letting her have 2 bardic performances at once (one of those and, for example, inspire courage, or two of those).
 
 ??? note "Original rule"
 
@@ -67,58 +71,100 @@ Maintaining an inspiring command is a free action that cannot be disrupted, but 
 
 Battle Magic*: One ally gains a bonus on caster level checks and concentration checks equal to the battle herald’s command bonus.
 
-**Inspire Hardiness**: Allies gain DR/— equal to the battle herald’s inspiring command bonus.
+##### Inspire Hardiness
 
-**Inspired Tactics**: Allies apply the battle herald’s inspiring command bonus on critical hit confirmation rolls, on combat maneuver checks, and as a dodge bonus to AC against any attacks of opportunity provoked by combat maneuvers.
+Allies gain DR/— equal to the battle herald’s inspiring command bonus.
 
-**Keep Your Heads**: Allies apply the battle herald’s inspiring command bonus on Will saves and concentration checks.
+##### Inspired Tactics
+
+Allies apply the battle herald’s inspiring command bonus on critical hit confirmation rolls, on combat maneuver checks, and as a dodge bonus to AC against any attacks of opportunity provoked by combat maneuvers.
+
+##### Keep Your Heads
+
+Allies apply the battle herald’s inspiring command bonus on Will saves and concentration checks.
 
 None Shall Fall*: A number of allies equal to the battle herald’s inspiring command bonus heal 1d6 points of damage. Targeted allies who are poisoned may attempt a new poison saving throw with a bonus equal to the battle herald’s inspiring command bonus; a failed save has no additional effect, but a successful save counts toward curing the poison. This healing is not positive energy and can heal undead creatures.
 
-**Pincer Maneuver**: Allies apply the battle herald’s inspiring command bonus to attack and damage rolls when flanking and as a dodge bonus to AC against attacks of opportunity provoked by movement (including standing from [prone](../../rules/appendices/conditions.md#prone)).
+##### Pincer Maneuver
 
-**Rally**: Allies affected by a fear effect may attempt a new saving throw against each fear effect on them; this new save has a bonus equal to the battle herald’s inspiring command bonus.
+Allies apply the battle herald’s inspiring command bonus to attack and damage rolls when flanking and as a dodge bonus to AC against attacks of opportunity provoked by movement (including standing from [prone](../../rules/appendices/conditions.md#prone)).
 
-**Reveille**: Allies affected by exhaustion, fatigue, or sleep effects may attempt a new saving throw against each such effect; this new save has a bonus equal to the battle herald’s inspiring command bonus. Allies who are sleeping normally automatically awaken when this ability is used.
+##### Rally
+
+Allies affected by a fear effect may attempt a new saving throw against each fear effect on them; this new save has a bonus equal to the battle herald’s inspiring command bonus.
+
+##### Reveille
+
+Allies affected by exhaustion, fatigue, or sleep effects may attempt a new saving throw against each such effect; this new save has a bonus equal to the battle herald’s inspiring command bonus. Allies who are sleeping normally automatically awaken when this ability is used.
 
 Scatter*: A number of allies equal to the battle herald’s inspiring command bonus gain the benefits of the [Wind Stance](../../rules/feats/wind-stance.md) feat.
 
 Shake It Off*: One ally subject to an ongoing condition may attempt a new saving throw to negate the effects with a bonus equal to the battle herald’s inspiring command bonus. This ability does not help against instantaneous effects, effects that require recurring saving throws to avoid additional penalties (such as diseases and poisons), or effects that do not allow a saving throw.
 
-**Sound the Charge**: Allies apply the battle herald’s inspiring command bonus to attack and damage rolls. Charging allies increase their speed by 5 feet times the battle herald’s inspiring command bonus.
+##### Sound the Charge
 
-**Sound the Retreat**: Allies gain the benefit of the [Lightning Stance](../../rules/feats/lightning-stance.md) feat. The battle herald must have the scatter ability to select this ability.
+Allies apply the battle herald’s inspiring command bonus to attack and damage rolls. Charging allies increase their speed by 5 feet times the battle herald’s inspiring command bonus.
 
-**Stand Firm**: Allies apply the battle herald’s inspiring command bonus to CMD and on Fortitude saves.
+##### Sound the Retreat
 
-**Teamwork**: Allies add the battle herald’s inspiring command bonus on skill checks or attack rolls made when using the aid another action, and if successful, the assisted ally increases the aid another bonus by an amount equal to the battle herald’s inspiring command bonus.
+Allies gain the benefit of the [Lightning Stance](../../rules/feats/lightning-stance.md) feat. The battle herald must have the scatter ability to select this ability.
 
-**Tuck and Roll**: Allies apply the battle herald’s inspiring command bonus on Reflex saves and [Acrobatics](../../rules/skills/acrobatics.md) checks.
+##### Stand Firm
 
-**Commanding Presence (Ex)**: A battle herald gains a bonus equal to half her level on social checks with people below her, whether socially or militarily.
+Allies apply the battle herald’s inspiring command bonus to CMD and on Fortitude saves.
+
+#### Teamwork
+
+Allies add the battle herald’s inspiring command bonus on skill checks or attack rolls made when using the aid another action, and if successful, the assisted ally increases the aid another bonus by an amount equal to the battle herald’s inspiring command bonus.
+
+#### Tuck and Roll
+
+Allies apply the battle herald’s inspiring command bonus on Reflex saves and [Acrobatics](../../rules/skills/acrobatics.md) checks.
+
+#### Commanding Presence (Ex)
+
+A battle herald gains a bonus equal to half her level on social checks with people below her, whether socially or militarily.
 
 ??? note "Original rule"
 
     **Improved Leadership (Ex)**: A battle herald with the Leadership feat adds her inspiring command bonus to her leadership score.
 
-**Voice of Authority (Ex)**: A battle herald is skilled at shouting commands over the din of the battlefield and signaling allies when speech is impossible. She gains a +2 bonus on [Diplomacy](../../rules/skills/diplomacy.md) and [Intimidate](../../rules/skills/intimidate.md) checks with creatures with which she shares a language. In addition, her allies gain a bonus equal to the battle herald’s class level on [Perception](../../rules/skills/perception.md) or [Sense Motive](../../rules/skills/sense-motive.md) checks to hear her commands or interpret her secret messages conveyed with [Bluff](../../rules/skills/bluff.md).
+#### Voice of Authority (Ex)
+
+A battle herald is skilled at shouting commands over the din of the battlefield and signaling allies when speech is impossible. She gains a +2 bonus on [Diplomacy](../../rules/skills/diplomacy.md) and [Intimidate](../../rules/skills/intimidate.md) checks with creatures with which she shares a language. In addition, her allies gain a bonus equal to the battle herald’s class level on [Perception](../../rules/skills/perception.md) or [Sense Motive](../../rules/skills/sense-motive.md) checks to hear her commands or interpret her secret messages conveyed with [Bluff](../../rules/skills/bluff.md).
 
 The battle herald’s levels stack with cavalier levels for the purpose of the [cavalier’s tactician](../classes/cavalier.md#tactician-ex) ability.
 
-**Easy March (Ex)**: At 2nd level, allies within 60 feet of the battle herald can hustle or force march during overland travel without ill effects for a number of hours per day equal to 1 hour times her inspiring command bonus.
+#### Easy March (Ex)
 
-**Inspire Greatness (Ex)**: At 4th level, a battle herald may use her inspiring command ability to inspire greatness (as the 9th-level bardic performance ability). This ability affects one creature at 4th level, two at 7th, and three at 10th.
+At 2nd level, allies within 60 feet of the battle herald can hustle or force march during overland travel without ill effects for a number of hours per day equal to 1 hour times her inspiring command bonus.
 
-**Banner (Ex)**: At 5th level, a battle herald may fly a battle standard that inspires her allies. This ability is identical to the [cavalier’s banner](../classes/cavalier.md#banner-ex) ability, and cavalier levels stack with battle herald levels to determine the bonuses provided by the banner.
+#### Inspire Greatness (Ex)
 
-**Teamwork Feat**: At 6th level, a battle herald receives a teamwork feat as a bonus feat. She must meet the prerequisites for this feat. She can use her [cavalier tactician](../classes/cavalier.md#tactician-ex) ability as a move action to grant this feat to allies (if she has the [cavalier greater tactician](../classes/cavalier.md#greater-tactician-ex) ability, this is a swift action).
+At 4th level, a battle herald may use her inspiring command ability to inspire greatness (as the 9th-level bardic performance ability). This ability affects one creature at 4th level, two at 7th, and three at 10th.
 
-**Demanding Challenge (Ex)**: This ability is identical to the 12th-level [cavalier demanding challenge](../classes/cavalier.md#demanding-challenge-ex) ability.
+#### Banner (Ex)
 
-**Persistent Commands (Ex)**: At 8th level, a battle herald may allow her inspiring commands to persist even if she is incapacitated and unable to maintain them. If the player chooses, the effects of the battle herald’s inspiring commands persist for a number of rounds equal to her Charisma bonus (these count toward her number of rounds per day limit). This ability does not apply if the battle herald intentionally stops maintaining an inspiring command—only if she is dazed, held, stunned, killed, and so on, and is unable to maintain them. If the battle herald recovers from incapacity while an inspiring command is ongoing, she may resume maintaining it as a free action.
+At 5th level, a battle herald may fly a battle standard that inspires her allies. This ability is identical to the [cavalier’s banner](../classes/cavalier.md#banner-ex) ability, and cavalier levels stack with battle herald levels to determine the bonuses provided by the banner.
 
-**Inspire Last Stand (Ex)**: At 9th level, a battle herald may use inspiring command to grant herself and all allies within 30 feet the benefits of the Diehard feat. Conscious affected creatures also gain the benefits of inspire courage while at negative hit points.
+#### Teamwork Feat
 
-**Complex Commands (Ex)**: At 10th level, a battle herald can have more than one command ability in effect at one time. Each must be begun separately and requires a separate maintenance cost. This allows the battle herald to have more than one single-target command (such as battle magic) in effect at the same time. The effects of multiple instances of the same command ability do not stack, even if the bonuses provided by that ability would normally stack (for example, if the battle herald maintains two pincer maneuver commands, her allies do not get double the bonus, even though dodge bonuses normally stack).
+At 6th level, a battle herald receives a teamwork feat as a bonus feat. She must meet the prerequisites for this feat. She can use her [cavalier tactician](../classes/cavalier.md#tactician-ex) ability as a move action to grant this feat to allies (if she has the [cavalier greater tactician](../classes/cavalier.md#greater-tactician-ex) ability, this is a swift action).
+
+#### Demanding Challenge (Ex)
+
+This ability is identical to the 12th-level [cavalier demanding challenge](../classes/cavalier.md#demanding-challenge-ex) ability.
+
+#### Persistent Commands (Ex)
+
+At 8th level, a battle herald may allow her inspiring commands to persist even if she is incapacitated and unable to maintain them. If the player chooses, the effects of the battle herald’s inspiring commands persist for a number of rounds equal to her Charisma bonus (these count toward her number of rounds per day limit). This ability does not apply if the battle herald intentionally stops maintaining an inspiring command—only if she is dazed, held, stunned, killed, and so on, and is unable to maintain them. If the battle herald recovers from incapacity while an inspiring command is ongoing, she may resume maintaining it as a free action.
+
+#### Inspire Last Stand (Ex)
+
+At 9th level, a battle herald may use inspiring command to grant herself and all allies within 30 feet the benefits of the Diehard feat. Conscious affected creatures also gain the benefits of inspire courage while at negative hit points.
+
+#### Complex Commands (Ex)
+
+At 10th level, a battle herald can have more than one command ability in effect at one time. Each must be begun separately and requires a separate maintenance cost. This allows the battle herald to have more than one single-target command (such as battle magic) in effect at the same time. The effects of multiple instances of the same command ability do not stack, even if the bonuses provided by that ability would normally stack (for example, if the battle herald maintains two pincer maneuver commands, her allies do not get double the bonus, even though dodge bonuses normally stack).
 
 The battle herald can also maintain one bardic performance in addition to her inspiring commands, though each must be begun separately and each requires its own maintenance cost.

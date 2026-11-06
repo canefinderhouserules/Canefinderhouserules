@@ -41,11 +41,15 @@ The elven sentinel's class skills (and the key ability for each skill) are Heal 
 
 The following are class features of the elven sentinel prestige class.
 
-**Lantern Arcana (Sp)**: An elven sentinel gains a series of spell-like abilities. The elven sentinel’s caster level for these effects is equal to her character level, and the save DC is equal to 10 + the spell’s level + her Intelligence modifier. To use a spell-like ability, she must have an Intelligence score equal to at least 10 + the spell-like ability’s spell level.
+#### Lantern Arcana (Sp)
+
+An elven sentinel gains a series of spell-like abilities. The elven sentinel’s caster level for these effects is equal to her character level, and the save DC is equal to 10 + the spell’s level + her Intelligence modifier. To use a spell-like ability, she must have an Intelligence score equal to at least 10 + the spell-like ability’s spell level.
 
 When she initially gains access to a set of spell-like abilities of 1st or higher level, she can use each spell-like ability once per day. For every 2 class levels after she gains a specific set of spell-like abilities, she gains an additional use per day of each ability in that set. (For example, a 3rd-level elven sentinel can use [*darkvision*](../../magic/spells/darkvision.md), [*delay poison*](../../magic/spells/delay-poison.md), and [*see invisibility*](../../magic/spells/see-invisibility.md) each once per day, and [*faerie fire*](../../magic/spells/faerie-fire.md), [*pass without trace*](../../magic/spells/pass-without-trace.md), and [*protection from evil*](../../magic/spells/protection-from-evil.md) each twice per day.)
 
-**At Will**: [*dancing lights*](../../magic/spells/dancing-lights.md), [*light*](../../magic/spells/light.md), and [*spark*](../../magic/spells/spark.md).
+#### At Will
+
+[*dancing lights*](../../magic/spells/dancing-lights.md), [*light*](../../magic/spells/light.md), and [*spark*](../../magic/spells/spark.md).
 
 **1st Level**: *faerie fire*, *pass without trace*, and *protection from evil*.
 
@@ -55,22 +59,42 @@ When she initially gains access to a set of spell-like abilities of 1st or highe
 
 **7th Level**: *heightened daylight* (heightened to a 4th-level spell), [*dimensional anchor*](../../magic/spells/dimensional-anchor.md), and [*freedom of movement*](../../magic/spells/freedom-of-movement.md) (self only).
 
-**Luminous Potency (Su)**: When casting spells from other classes or using lantern arcana spell-like abilities, an elven sentinel gains an additional bonus equal to her elven sentinel class level on caster level checks for the purpose of overcoming spell resistance.
+#### Luminous Potency (Su)
 
-**Bitter Armament (Su)**: At 2nd level, metal weapons wielded by an elven sentinel are treated as cold iron for the purpose of overcoming damage reduction (in addition to the weapons’ other special material properties). These weapons, including fired ammunition, retain this property for 1 round after leaving the sentinel’s grasp.
+When casting spells from other classes or using lantern arcana spell-like abilities, an elven sentinel gains an additional bonus equal to her elven sentinel class level on caster level checks for the purpose of overcoming spell resistance.
 
-**Favored Enemy (Ex)**: At 2nd level, an elven sentinel selects a creature type from the following: aberration, animal, fey, humanoid (elf), outsider (evil), and plant. This ability functions like the [ranger class ability](../classes/ranger.md#favored-enemy-ex) of the same name, and elven sentinel levels stack with other class levels that grant the favored enemy ability. At 8th level, the elven sentinel can select an additional favored enemy from this list. In addition, the bonus against any one favored enemy from this list (including the one just selected, if so desired) increases by 2.
+#### Bitter Armament (Su)
 
-**Superior Discernment (Ex)**: At 3rd level, an elven sentinel gains one of the following as a bonus feat, even if she does not meet the prerequisites: [Eagle Eyes](../../rules/feats/eagle-eyes.md), [Elven Accuracy](../../rules/feats/elven-accuracy.md), or [Sharp Senses](../../rules/feats/sharp-senses.md).
+At 2nd level, metal weapons wielded by an elven sentinel are treated as cold iron for the purpose of overcoming damage reduction (in addition to the weapons’ other special material properties). These weapons, including fired ammunition, retain this property for 1 round after leaving the sentinel’s grasp.
 
-**Unbounded Stride (Su)**: At 4th level, as a swift action, an elven sentinel can make herself immune to effects that would impede her movement, such as overgrown foliage, [*solid fog*](../../magic/spells/solid-fog.md), webs, or other magical area effects that impair movement or confer the [entangled](../../rules/appendices/conditions.md#entangled) condition. This ability is similar in effect to a [druid’s woodland stride](../classes/druid.md#woodland-stride-ex) ability, but its benefits extend to magical effects as well. She takes no damage from moving through spiky vegetation, briars, or even a [*wall of thorns*](../../magic/spells/wall-of-thorns.md), but harmful gases and other detrimental effects, such as fire damage from an [*incendiary cloud*](../../magic/spells/incendiary-cloud.md), still affect her as normal. An elven sentinel can use this ability for a number of rounds per day equal to her class level; these rounds need not be consecutive.
+#### Favored Enemy (Ex)
 
-**Proven Weapon Familiarity (Ex)**: At 5th level, an elven sentinel gains a +1 bonus on attack and damage rolls with composite longbows, composite shortbows, longbows, longswords, rapiers, shortbows, short swords, and any weapon with “elven” in its name.
+At 2nd level, an elven sentinel selects a creature type from the following: aberration, animal, fey, humanoid (elf), outsider (evil), and plant. This ability functions like the [ranger class ability](../classes/ranger.md#favored-enemy-ex) of the same name, and elven sentinel levels stack with other class levels that grant the favored enemy ability. At 8th level, the elven sentinel can select an additional favored enemy from this list. In addition, the bonus against any one favored enemy from this list (including the one just selected, if so desired) increases by 2.
 
-**Celestial Weaponry (Su)**: At 6th level, an elven sentinel’s attacks are treated as good-aligned for the purpose of overcoming damage reduction.
+#### Superior Discernment (Ex)
 
-**Fade from Sight (Su)**: At 7th level, an elven sentinel can use the [Stealth](../../rules/skills/stealth.md) skill without having anything to hide behind, and even while being observed. Activating this ability is a swift action in addition to the action required to hide. An elven sentinel can use this ability for a number of rounds per day equal to her class level; these rounds need not be consecutive.
+At 3rd level, an elven sentinel gains one of the following as a bonus feat, even if she does not meet the prerequisites: [Eagle Eyes](../../rules/feats/eagle-eyes.md), [Elven Accuracy](../../rules/feats/elven-accuracy.md), or [Sharp Senses](../../rules/feats/sharp-senses.md).
 
-**Gate Alignment (Su)**: At 9th level, once per day as a full-round action, an elven sentinel can use the interconnected power of ancient elven portals (sometimes called “elf gates”) to teleport herself to an elf gate that she has studied carefully (as per the spell [*teleport*](../../magic/spells/teleport.md)). This functions as [*word of recall*](../../magic/spells/word-of-recall.md), but the elven sentinel can transport only herself plus 50 pounds of objects. In addition, an elven sentinel can magically slip between the spaces in reality twice per day as a swift action, as if using [*dimension door*](../../magic/spells/dimension-door.md). This ability has a range of 50 feet, and the elven sentinel cannot take other creatures with her.
+#### Unbounded Stride (Su)
 
-**Bringer of Brightness (Sp)**: At 10th level, once per day an elven sentinel can engulf herself in a brilliant radiance. This functions as a [*holy aura*](../../magic/spells/holy-aura.md) spell targeting only the elven sentinel, and uses the same formula for caster level and save DC as her lantern arcana.
+At 4th level, as a swift action, an elven sentinel can make herself immune to effects that would impede her movement, such as overgrown foliage, [*solid fog*](../../magic/spells/solid-fog.md), webs, or other magical area effects that impair movement or confer the [entangled](../../rules/appendices/conditions.md#entangled) condition. This ability is similar in effect to a [druid’s woodland stride](../classes/druid.md#woodland-stride-ex) ability, but its benefits extend to magical effects as well. She takes no damage from moving through spiky vegetation, briars, or even a [*wall of thorns*](../../magic/spells/wall-of-thorns.md), but harmful gases and other detrimental effects, such as fire damage from an [*incendiary cloud*](../../magic/spells/incendiary-cloud.md), still affect her as normal. An elven sentinel can use this ability for a number of rounds per day equal to her class level; these rounds need not be consecutive.
+
+#### Proven Weapon Familiarity (Ex)
+
+At 5th level, an elven sentinel gains a +1 bonus on attack and damage rolls with composite longbows, composite shortbows, longbows, longswords, rapiers, shortbows, short swords, and any weapon with “elven” in its name.
+
+#### Celestial Weaponry (Su)
+
+At 6th level, an elven sentinel’s attacks are treated as good-aligned for the purpose of overcoming damage reduction.
+
+#### Fade from Sight (Su)
+
+At 7th level, an elven sentinel can use the [Stealth](../../rules/skills/stealth.md) skill without having anything to hide behind, and even while being observed. Activating this ability is a swift action in addition to the action required to hide. An elven sentinel can use this ability for a number of rounds per day equal to her class level; these rounds need not be consecutive.
+
+#### Gate Alignment (Su)
+
+At 9th level, once per day as a full-round action, an elven sentinel can use the interconnected power of ancient elven portals (sometimes called “elf gates”) to teleport herself to an elf gate that she has studied carefully (as per the spell [*teleport*](../../magic/spells/teleport.md)). This functions as [*word of recall*](../../magic/spells/word-of-recall.md), but the elven sentinel can transport only herself plus 50 pounds of objects. In addition, an elven sentinel can magically slip between the spaces in reality twice per day as a swift action, as if using [*dimension door*](../../magic/spells/dimension-door.md). This ability has a range of 50 feet, and the elven sentinel cannot take other creatures with her.
+
+#### Bringer of Brightness (Sp)
+
+At 10th level, once per day an elven sentinel can engulf herself in a brilliant radiance. This functions as a [*holy aura*](../../magic/spells/holy-aura.md) spell targeting only the elven sentinel, and uses the same formula for caster level and save DC as her lantern arcana.

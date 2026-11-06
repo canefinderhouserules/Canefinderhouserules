@@ -55,17 +55,27 @@ The divine scion's class skills (and the key ability for each skill) are Diploma
 
 The following are class features of the divine scion prestige class.
 
-**Weapon and Armor Proficiency**: A divine scion gains no additional weapon or armor proficiencies. She can select [Greater Weapon Focus](../../rules/feats/greater-weapon-focus.md), [Weapon Specialization](../../rules/feats/weapon-specialization.md), and [Greater Weapon Specialization](../../rules/feats/greater-weapon-specialization.md) as feats once she qualifies for them normally (although she does not have to fulfill the prerequisite of having fighter levels in order to select these feats).
+#### Weapon and Armor Proficiency
 
-**Spells**: When a divine scion gains a level, she gains new spells per day as if she had also gained a level in a divine spellcasting class she belonged to before she added the prestige class. She does not, however, gain any other benefits a character of that class would have gained. This essentially means that she adds the level of divine scion to the level of whatever other divine spellcasting class she has.
+A divine scion gains no additional weapon or armor proficiencies. She can select [Greater Weapon Focus](../../rules/feats/greater-weapon-focus.md), [Weapon Specialization](../../rules/feats/weapon-specialization.md), and [Greater Weapon Specialization](../../rules/feats/greater-weapon-specialization.md) as feats once she qualifies for them normally (although she does not have to fulfill the prerequisite of having fighter levels in order to select these feats).
+
+#### Spells
+
+When a divine scion gains a level, she gains new spells per day as if she had also gained a level in a divine spellcasting class she belonged to before she added the prestige class. She does not, however, gain any other benefits a character of that class would have gained. This essentially means that she adds the level of divine scion to the level of whatever other divine spellcasting class she has.
 
 If the character had more than one divine spellcasting class before she became a divine scion, she must choose which class she adds each divine scion level to for the purposes of determining spells per day.
 
-**Opposition Alignment (Ex)**: A divine scion must pick one of the following alignment subtypes as her opposition alignment: chaotic, evil, good, or lawful. The opposition alignment she chooses must be one that she does not possess as part of her own alignment. She gains a +1 bonus on caster level checks made to overcome spell resistance of creatures with that alignment subtype.
+#### Opposition Alignment (Ex)
 
-**Aligned Class (Ex)**: At 2nd level, a divine scion must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
+A divine scion must pick one of the following alignment subtypes as her opposition alignment: chaotic, evil, good, or lawful. The opposition alignment she chooses must be one that she does not possess as part of her own alignment. She gains a +1 bonus on caster level checks made to overcome spell resistance of creatures with that alignment subtype.
 
-**Domain Specialization (Su)**: At 3rd level, a divine scion selects a domain granted by her deity—this domain becomes the divine scion's chosen specialization in representing her deity. Although most divine scions pick domains that they've gained from other classes (such as cleric), they don't have to do so. Every time a divine scion casts a domain spell from her specialized domain, she heals damage equal to twice the spell's level.
+#### Aligned Class (Ex)
+
+At 2nd level, a divine scion must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
+
+#### Domain Specialization (Su)
+
+At 3rd level, a divine scion selects a domain granted by her deity—this domain becomes the divine scion's chosen specialization in representing her deity. Although most divine scions pick domains that they've gained from other classes (such as cleric), they don't have to do so. Every time a divine scion casts a domain spell from her specialized domain, she heals damage equal to twice the spell's level.
 
 In addition, each domain specialization grants a spell-like ability (which functions at a caster level equal to the divine scion's total character level) and a permanent sacred bonus (or profane, if the divine scion is evil) on a single type of d20 roll. The specific spell-like abilities and bonuses granted are listed below.
 
@@ -107,10 +117,18 @@ In addition, each domain specialization grants a spell-like ability (which funct
 | Water | *water walk* 1/day | +4 on Swim checks |
 | Weather | *cloak of winds* 1/day | +4 on Survival checks |
 
-**Divine Wrath (Su)**: At 4th level, a divine scion's damaging spells deal +1 point of damage per die against creatures with an alignment subtype that matches the divine scion's opposition alignment.
+#### Divine Wrath (Su)
 
-**Deific Defense (Su)**: At 7th level, a divine scion gains DR 2, bypassed by attacks with the alignment subtype of her opposition alignment (so a divine scion with "evil" as her opposition alignment gains DR 2/evil).
+At 4th level, a divine scion's damaging spells deal +1 point of damage per die against creatures with an alignment subtype that matches the divine scion's opposition alignment.
 
-**Divine Awe (Su)**: At 8th level, a divine scion's spells can stagger creatures that match the alignment subtypes of the divine scion's opposition alignment. When such a creature is affected by a divine scion's spell, it is [staggered](../../rules/appendices/conditions.md#staggered) for 1 round if it fails its save against that spell. If the creature makes its save (or if the spell doesn't allow a saving throw), this ability has no effect.
+#### Deific Defense (Su)
 
-**True Scion**: At 10th level, a divine scion becomes a true scion of her deity. The amount of healing she gains from her domain specialization doubles. Her divine wrath ability now deals +2 points of damage per die against creatures of the appropriate alignment. The damage reduction granted by her deific defense increases to 5. Finally, she permanently increases her Wisdom or Charisma score (her choice) by +1.
+At 7th level, a divine scion gains DR 2, bypassed by attacks with the alignment subtype of her opposition alignment (so a divine scion with "evil" as her opposition alignment gains DR 2/evil).
+
+#### Divine Awe (Su)
+
+At 8th level, a divine scion's spells can stagger creatures that match the alignment subtypes of the divine scion's opposition alignment. When such a creature is affected by a divine scion's spell, it is [staggered](../../rules/appendices/conditions.md#staggered) for 1 round if it fails its save against that spell. If the creature makes its save (or if the spell doesn't allow a saving throw), this ability has no effect.
+
+#### True Scion
+
+At 10th level, a divine scion becomes a true scion of her deity. The amount of healing she gains from her domain specialization doubles. Her divine wrath ability now deals +2 points of damage per die against creatures of the appropriate alignment. The damage reduction granted by her deific defense increases to 5. Finally, she permanently increases her Wisdom or Charisma score (her choice) by +1.

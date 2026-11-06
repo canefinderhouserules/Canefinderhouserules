@@ -39,15 +39,25 @@ The noble scion's class skills (and the key ability for each skill) are Appraise
 
 The following are class features of the noble scion prestige class.
 
-**Weapon and Armor Proficiency**: A noble scion is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), as well as all forms of armor and [shields](../../equipment/armor.md) (not including [tower shields](../../equipment/armor.md)).
+#### Weapon and Armor Proficiency
 
-**Affluent (Ex)**: At each level, a noble scion gains a stipend worth a number of gold pieces equal to 750 multiplied by his class level. (He gains 750 gp at 1st level, an additional 1,500 gp at 2nd level, and so on.)
+A noble scion is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), as well as all forms of armor and [shields](../../equipment/armor.md) (not including [tower shields](../../equipment/armor.md)).
 
-**Greater Leadership (Ex)**: At 2nd level, a noble scion gains the Leadership feat as a bonus feat. He can recruit a cohort up to one level lower than himself. At 10th level, he can recruit a cohort of the same level as himself.
+#### Affluent (Ex)
 
-**Aristocratic Erudition (Ex)**: At 3rd level, a noble scion gains a bonus equal to 1/2 his class level on [Diplomacy](../../rules/skills/diplomacy.md), [Knowledge](../../rules/skills/knowledge.md) (local), and Knowledge (nobility) checks. This ability also reduces the DCs of Diplomacy and Knowledge (local) checks others make to gather publicly known information about the noble scion by the same amount.
+At each level, a noble scion gains a stipend worth a number of gold pieces equal to 750 multiplied by his class level. (He gains 750 gp at 1st level, an additional 1,500 gp at 2nd level, and so on.)
 
-**Prestigious Influence (Ex)**: At 4th level, a noble scion can use his influence to receive special treatment, favors, and other services. He effectively has a pool of virtual gold pieces equal to 150 gp plus 10 gp per class level to spend on services and non-material goods. This pool replenishes at the beginning of every week. Services and nonmaterial goods available to a noble scion include:
+#### Greater Leadership (Ex)
+
+At 2nd level, a noble scion gains the Leadership feat as a bonus feat. He can recruit a cohort up to one level lower than himself. At 10th level, he can recruit a cohort of the same level as himself.
+
+#### Aristocratic Erudition (Ex)
+
+At 3rd level, a noble scion gains a bonus equal to 1/2 his class level on [Diplomacy](../../rules/skills/diplomacy.md), [Knowledge](../../rules/skills/knowledge.md) (local), and Knowledge (nobility) checks. This ability also reduces the DCs of Diplomacy and Knowledge (local) checks others make to gather publicly known information about the noble scion by the same amount.
+
+#### Prestigious Influence (Ex)
+
+At 4th level, a noble scion can use his influence to receive special treatment, favors, and other services. He effectively has a pool of virtual gold pieces equal to 150 gp plus 10 gp per class level to spend on services and non-material goods. This pool replenishes at the beginning of every week. Services and nonmaterial goods available to a noble scion include:
 
 - Pay for lodgings, stabling, taxes, and tolls.
 - Improve his lifestyle quality.
@@ -59,7 +69,9 @@ The following are class features of the noble scion prestige class.
 
 A noble scion cannot permanently gain goods or wealth from this ability; boons attainable from this ability are generally only available in settlements of 5,000 people or more. The exact benefits available in a location are subject to GM discretion.
 
-**Regional Expertise (Ex)**: At 4th level, and again at 6th and 8th level, a noble scion gains a bonus feat from one of the lists below, depending on the culture he is from. These feats must be taken from the same list at each level (except for feats under the “general” category, which can be taken by nobles from any culture). A noble scion need not meet the prerequisites for these feats. At their discretion, GMs may add other feats to these cultures or create lists for other cultures.
+#### Regional Expertise (Ex)
+
+At 4th level, and again at 6th and 8th level, a noble scion gains a bonus feat from one of the lists below, depending on the culture he is from. These feats must be taken from the same list at each level (except for feats under the “general” category, which can be taken by nobles from any culture). A noble scion need not meet the prerequisites for these feats. At their discretion, GMs may add other feats to these cultures or create lists for other cultures.
 
 - **Dueling Frontier**: Exotic Weapon Proficiency ([dueling sword](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons)), [Flanking Foil](../../rules/feats/flanking-foil.md), Step Up, Weapon Focus (dueling sword).
 - **Infernal Empire**: [Careful Speaker](../../rules/feats/careful-speaker.md), Enforcer, [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), Skill Focus (Knowledge [planes]).
@@ -73,13 +85,19 @@ A noble scion cannot permanently gain goods or wealth from this ability; boons a
 - **Gothic Realm**: [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Focused Discipline](../../rules/feats/focused-discipline.md), Skill Focus (Knowledge [nobility]), Stoic.
 - **General**: Acrobatic, [Additional Traits](../../rules/feats/additional-traits.md), Alertness, Antagonize, Athletic, Cosmopolitan, Deceitful, [Deft Hands](../../rules/feats/deft-hands.md), Fleet, [Improved Initiative](../../rules/feats/improved-initiative.md), Persuasive, Prodigy, [Rhetorical Flourish](../../rules/feats/rhetorical-flourish.md), Run, Scholar.
 
-**Dilettante Studies**: At 5th level, a noble scion chooses two different dilettante studies from the list below. At 9th level, he again chooses two different dilettante studies to add to his repertoire. If either of these are duplicates of those chosen at 5th level, the bonuses stack.
+#### Dilettante Studies
+
+At 5th level, a noble scion chooses two different dilettante studies from the list below. At 9th level, he again chooses two different dilettante studies to add to his repertoire. If either of these are duplicates of those chosen at 5th level, the bonuses stack.
 
 - **Dilettante Performer (Su)**: A noble scion treats his effective bard level as two higher for the purpose of the bardic performance class ability. He must have the bardic performance class ability to choose this dilettante study.
 - **Dilettante Scholar (Su)**: A noble scion gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before he added the prestige class.
 - **Dilettante Scoundrel (Ex)**: A noble scion gains a +1d6 sneak attack bonus as per the rogue class ability. If a noble scion gets a sneak attack bonus from another source, the bonuses on damage stack.
 - **Dilettante Warrior (Ex)**: A noble scion gains a +1 bonus on attack and damage rolls.
 
-**Servitor (Ex)**: At 7th level, a noble scion gains a faithful NPC servitor of the same level as his cohort granted by the Leadership feat. This servitor can only have levels in NPC classes and comes equipped with gear appropriate for a character 1 level lower than the servitor’s actual level. The servitor does not follow the noble scion as would a cohort or follower, but instead can run various errands for his master while the noble scion is adventuring, such as delivering messages or maintaining the scion’s manor in his stead.
+#### Servitor (Ex)
 
-**Peerless Patrician (Ex)**: At 10th level, once per round a noble scion can roll twice on any Bluff, Diplomacy, [Intimidate](../../rules/skills/intimidate.md), Knowledge (nobility), or [Sense Motive](../../rules/skills/sense-motive.md) check and take the better roll. Once per day, instead of rolling one of these skill checks, he can assume the roll resulted in a natural 20.
+At 7th level, a noble scion gains a faithful NPC servitor of the same level as his cohort granted by the Leadership feat. This servitor can only have levels in NPC classes and comes equipped with gear appropriate for a character 1 level lower than the servitor’s actual level. The servitor does not follow the noble scion as would a cohort or follower, but instead can run various errands for his master while the noble scion is adventuring, such as delivering messages or maintaining the scion’s manor in his stead.
+
+#### Peerless Patrician (Ex)
+
+At 10th level, once per round a noble scion can roll twice on any Bluff, Diplomacy, [Intimidate](../../rules/skills/intimidate.md), Knowledge (nobility), or [Sense Motive](../../rules/skills/sense-motive.md) check and take the better roll. Once per day, instead of rolling one of these skill checks, he can assume the roll resulted in a natural 20.

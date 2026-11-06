@@ -37,28 +37,54 @@ The master detective's class skills (and the key ability for each skill) are Blu
 
 The following are class features of the master detective prestige class.
 
-**Weapon and Armor Proficiency**: A master detective gains no additional weapon or armor proficiencies.
+#### Weapon and Armor Proficiency
 
-**Canny Sleuth (Ex)**: A master detective adds her Intelligence bonus (if any) on all [Perception](../../rules/skills/perception.md) and [Sense Motive](../../rules/skills/sense-motive.md) checks, as well as on [Diplomacy](../../rules/skills/diplomacy.md) checks made to gather information, in addition to adding her Wisdom or Charisma modifier as normal.
+A master detective gains no additional weapon or armor proficiencies.
 
-**Forensic Thaumaturgy (Su)**: A master detective can cast [*detect magic*](../../magic/spells/detect-magic.md) at will as a spell-like ability (caster level equal to her class level). When using *detect magic* (or spells that function as *detect magic*, such as [*arcane sight*](../../magic/spells/arcane-sight.md)), the detective treats recently ended magical effects as though they were one category stronger when determining how long a lingering aura remains, and by concentrating for an additional round can determine exactly how long the lingering aura has been there (effectively allowing the detective to learn when the spell or magic item that caused the aura was cast or destroyed, respectively).
+#### Canny Sleuth (Ex)
 
-**Sneak Attack (Ex)**: This ability is exactly like the [rogue ability](../classes/rogue.md#sneak-attack) of the same name. The extra damage dealt increases by +1d6 for every three levels beyond the first. If a master detective gets a sneak attack bonus from another source, the bonuses on damage stack.
+A master detective adds her Intelligence bonus (if any) on all [Perception](../../rules/skills/perception.md) and [Sense Motive](../../rules/skills/sense-motive.md) checks, as well as on [Diplomacy](../../rules/skills/diplomacy.md) checks made to gather information, in addition to adding her Wisdom or Charisma modifier as normal.
 
-**Follow Clues (Ex)**: At 2nd level, a master detective can use Perception to follow tracks as per the [Survival](../../rules/skills/survival.md) skill, as though she possessed the follow clues rogue talent. If the detective already has this ability from another class, she can move at her normal speed while tracking with the Perception skill without taking the usual –5 penalty on her Perception checks.
+#### Forensic Thaumaturgy (Su)
 
-**Deductive Examination (Sp)**: At 3rd level, the master detective can use the spell [residual tracking](../../magic/spells/residual-tracking.md) three times per day as a spell-like ability (caster level equal to her class level).
+A master detective can cast [*detect magic*](../../magic/spells/detect-magic.md) at will as a spell-like ability (caster level equal to her class level). When using *detect magic* (or spells that function as *detect magic*, such as [*arcane sight*](../../magic/spells/arcane-sight.md)), the detective treats recently ended magical effects as though they were one category stronger when determining how long a lingering aura remains, and by concentrating for an additional round can determine exactly how long the lingering aura has been there (effectively allowing the detective to learn when the spell or magic item that caused the aura was cast or destroyed, respectively).
 
-**Eye for Detail (Ex)**: At 4th level, a master detective’s keen eye for detail helps her notice hidden traps, doors, and clues. The detective is entitled to an immediate Perception check to notice such features whenever she passes within 10 feet of them, whether or not she is actively looking. This check should be made in secret by the GM. If the detective would already receive such a check because of an ability from some other source (such as the trap spotter rogue talent), the GM should roll the Perception check twice whenever the detective is within 10 feet of a trap and use the higher result.
+#### Sneak Attack (Ex)
 
-**Hematomancy (Sp)**: At 5th level, a master detective learns to extract information from blood and other bodily fluids through extensive alchemical analysis. The detective can use the spell [blood biography](../../magic/spells/blood-biography.md) three times per day (caster level equal to her class level). When using this ability, any type of bodily fluid or part of a creature’s body will suffice in place of blood.
+This ability is exactly like the [rogue ability](../classes/rogue.md#sneak-attack) of the same name. The extra damage dealt increases by +1d6 for every three levels beyond the first. If a master detective gets a sneak attack bonus from another source, the bonuses on damage stack.
 
-**Thoughtful Reexamining (Ex)**: At 6th level, a master detective can reach new conclusions by reexamining the facts of her investigation. This functions as the advanced rogue talent of the same name. If the detective has the thoughtful reexamining ability from another class, she can use the ability one additional time per day.
+#### Follow Clues (Ex)
 
-**Discern Lies (Sp)**: At 7th level, a master detective can use [*discern lies*](../../magic/spells/discern-lies.md), as the spell, for a number of rounds per day equal to her class level (caster level equal to her class level). These rounds need not be consecutive. Activating this ability is an immediate action.
+At 2nd level, a master detective can use Perception to follow tracks as per the [Survival](../../rules/skills/survival.md) skill, as though she possessed the follow clues rogue talent. If the detective already has this ability from another class, she can move at her normal speed while tracking with the Perception skill without taking the usual –5 penalty on her Perception checks.
 
-**Predictive Riposte (Ex)**: At 8th level, a master detective’s insight into human nature allows her to predict and counter her opponents’ attacks. As a standard action, she can designate an opponent within 30 feet as the target of her predictive riposte, gaining a +4 insight bonus to AC against that opponent’s attacks. Once per round, after a melee attack from the designated target misses her, the detective can spend an immediate action to make a single melee attack against that opponent as long as it is within her threatened area. This counts as her attack of opportunity for this round. If the detective’s attack hits, she may add her sneak attack bonus on her damage roll. The bonuses from this ability last until the end of combat, or until the detective designates a new target of her predictive riposte.
+#### Deductive Examination (Sp)
 
-**Pierce Deception (Sp)**: At 9th level, a master detective can see as though under the effect of the spell [*true seeing*](../../magic/spells/true-seeing.md) for a number of rounds per day equal to her class level (caster level equal to her class level). These rounds need not be consecutive. Activating this ability is a free action.
+At 3rd level, the master detective can use the spell [residual tracking](../../magic/spells/residual-tracking.md) three times per day as a spell-like ability (caster level equal to her class level).
 
-**Reconstruction (Su)**: At 10th level, once per day a master detective can combine her investigative insight with her magical senses to mentally reconstruct the recent history of an item or place. The detective must be able to examine the item or area for 10 minutes, after which she can view the events of the past 24 hours as though she had a scrying sensor present when those events took place. This ability shows her any events which took place within 60 feet of the examined area, or any creature or object that physically touched the item or area in question. Her vision is not obstructed by concealment, and she can see and identify magical auras as though under the effect of *arcane sight*. A reconstruction shows creatures and objects as they actually are, unobscured by even powerful illusion magic such as [*screen*](../../magic/spells/screen.md), though transmuted creatures and objects appear in their altered forms.
+#### Eye for Detail (Ex)
+
+At 4th level, a master detective’s keen eye for detail helps her notice hidden traps, doors, and clues. The detective is entitled to an immediate Perception check to notice such features whenever she passes within 10 feet of them, whether or not she is actively looking. This check should be made in secret by the GM. If the detective would already receive such a check because of an ability from some other source (such as the trap spotter rogue talent), the GM should roll the Perception check twice whenever the detective is within 10 feet of a trap and use the higher result.
+
+#### Hematomancy (Sp)
+
+At 5th level, a master detective learns to extract information from blood and other bodily fluids through extensive alchemical analysis. The detective can use the spell [blood biography](../../magic/spells/blood-biography.md) three times per day (caster level equal to her class level). When using this ability, any type of bodily fluid or part of a creature’s body will suffice in place of blood.
+
+#### Thoughtful Reexamining (Ex)
+
+At 6th level, a master detective can reach new conclusions by reexamining the facts of her investigation. This functions as the advanced rogue talent of the same name. If the detective has the thoughtful reexamining ability from another class, she can use the ability one additional time per day.
+
+#### Discern Lies (Sp)
+
+At 7th level, a master detective can use [*discern lies*](../../magic/spells/discern-lies.md), as the spell, for a number of rounds per day equal to her class level (caster level equal to her class level). These rounds need not be consecutive. Activating this ability is an immediate action.
+
+#### Predictive Riposte (Ex)
+
+At 8th level, a master detective’s insight into human nature allows her to predict and counter her opponents’ attacks. As a standard action, she can designate an opponent within 30 feet as the target of her predictive riposte, gaining a +4 insight bonus to AC against that opponent’s attacks. Once per round, after a melee attack from the designated target misses her, the detective can spend an immediate action to make a single melee attack against that opponent as long as it is within her threatened area. This counts as her attack of opportunity for this round. If the detective’s attack hits, she may add her sneak attack bonus on her damage roll. The bonuses from this ability last until the end of combat, or until the detective designates a new target of her predictive riposte.
+
+#### Pierce Deception (Sp)
+
+At 9th level, a master detective can see as though under the effect of the spell [*true seeing*](../../magic/spells/true-seeing.md) for a number of rounds per day equal to her class level (caster level equal to her class level). These rounds need not be consecutive. Activating this ability is a free action.
+
+#### Reconstruction (Su)
+
+At 10th level, once per day a master detective can combine her investigative insight with her magical senses to mentally reconstruct the recent history of an item or place. The detective must be able to examine the item or area for 10 minutes, after which she can view the events of the past 24 hours as though she had a scrying sensor present when those events took place. This ability shows her any events which took place within 60 feet of the examined area, or any creature or object that physically touched the item or area in question. Her vision is not obstructed by concealment, and she can see and identify magical auras as though under the effect of *arcane sight*. A reconstruction shows creatures and objects as they actually are, unobscured by even powerful illusion magic such as [*screen*](../../magic/spells/screen.md), though transmuted creatures and objects appear in their altered forms.

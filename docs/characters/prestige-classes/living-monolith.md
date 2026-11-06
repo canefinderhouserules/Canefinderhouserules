@@ -43,38 +43,70 @@ The living monolith's class skills (and the key ability for each skill) are Acro
 
 The following are class features of the living monolith prestige class.
 
-**Weapon and Armor Proficiency**: A living monolith gains no additional weapon or armor proficiencies. The caster level for powers that duplicate spell effects is equal to the living monolith's character level.
+#### Weapon and Armor Proficiency
 
-**Soul Stone (Su)**: During his induction into this prestige class, a living monolith has a stone scarab embedded in his forehead, often set with gems or inlaid with precious metals. This stone is inscribed on its inner side with the monolith's true name and his oaths to the gods and rulers. It cannot be removed without his permission, cannot be dispelled (though it does not function in areas where magic does not work), and does not use a magic item slot.
+A living monolith gains no additional weapon or armor proficiencies. The caster level for powers that duplicate spell effects is equal to the living monolith's character level.
+
+#### Soul Stone (Su)
+
+During his induction into this prestige class, a living monolith has a stone scarab embedded in his forehead, often set with gems or inlaid with precious metals. This stone is inscribed on its inner side with the monolith's true name and his oaths to the gods and rulers. It cannot be removed without his permission, cannot be dispelled (though it does not function in areas where magic does not work), and does not use a magic item slot.
 
 The soul stone grants the living monolith a +2 bonus on saving throws against death effects, mind-affecting effects, effects that grant negative levels, and on saves to overcome negative levels. A living monolith can invoke the power of his soul stone 3 times per day as a swift action, enabling him to grow in size as if using [*enlarge person*](../../magic/spells/enlarge-person.md) (even if he is not a humanoid).
 
 When a living monolith first gains the soul stone ability, he must decide whether it takes the form of an ib stone or a ka stone. If the character was a spellcaster before becoming a living monolith, he can choose either an ib stone or a ka stone. If the character was not a spellcaster before becoming a living monolith, he must take a ka stone.
 
-**Ib Stone (Su)**: Starting at 2nd level, a living monolith with an ib stone gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a living monolith, he must decide to which class he adds the new level for the purpose of determining spells per day. Once made, this choice cannot be changed. A living monolith with an ib stone does not gain the greater ka stone and master ka stone abilities.
+##### Ib Stone (Su)
 
-**Ka Stone (Su)**: A living monolith with a ka stone gains Toughness as a bonus feat. In addition, when a living monolith uses his ka stone to increase his size, his base attack bonus from his living monolith class levels is equal to his living monolith level.
+Starting at 2nd level, a living monolith with an ib stone gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a living monolith, he must decide to which class he adds the new level for the purpose of determining spells per day. Once made, this choice cannot be changed. A living monolith with an ib stone does not gain the greater ka stone and master ka stone abilities.
 
-**Stone Blood (Ex)**: At 2nd level, the vital fluids and tissues of a living monolith can selectively petrify in response to injury. A living monolith automatically stabilizes when at negative hit points and is immune to continuous damage from bleed attacks (including weapons with the *wounding* special ability) and ability damage from blood drain.
+#### Ka Stone (Su)
 
-**Fortified Flesh (Ex)**: At 3rd level, the flesh of a living monolith takes on the hardness of stone. A living monolith gains DR 1/— and 10% immunity to critical hits and sneak attacks (as if wearing *fortification* armor). At 5th level and again at 8th level, this DR increases by 1 and the immunity to critical hits increases by 10%. When a living monolith uses his soul stone to increase his size, these defenses temporarily increase by an additional 1 and 10%, respectively. At 5th level, a living monolith becomes immune to all diseases, including supernatural and magical diseases (such as mummy rot).
+A living monolith with a ka stone gains Toughness as a bonus feat. In addition, when a living monolith uses his ka stone to increase his size, his base attack bonus from his living monolith class levels is equal to his living monolith level.
 
-**Stability (Ex)**: At 4th level, a living monolith becomes exceptionally stable on his feet, gaining a +4 bonus to his CMD when he resists a bull rush or trip attempt while standing on the ground. This stacks with a dwarf's stability trait and similar abilities.
+#### Stone Blood (Ex)
 
-**Tombsight (Su)**: At 4th level, a living monolith can perceive the balance of life and death within those he sees, as if using [*deathwatch*](../../magic/spells/deathwatch.md) and [*detect undead*](../../magic/spells/detect-undead.md) simultaneously. This power can be used at will and lasts as long as the living monolith concentrates.
+At 2nd level, the vital fluids and tissues of a living monolith can selectively petrify in response to injury. A living monolith automatically stabilizes when at negative hit points and is immune to continuous damage from bleed attacks (including weapons with the *wounding* special ability) and ability damage from blood drain.
 
-**Greater Ka Stone (Su)**: At 5th level, when a living monolith with a ka stone invokes his ka stone's power to increase his size, the living monolith gains the benefit of [*righteous might*](../../magic/spells/righteous-might.md) rather than *enlarge person*. The DR gained from *righteous might* is based on the living monolith's alignment. A neutral living monolith must choose which DR to gain from this ability. Once made, this choice cannot be changed.
+#### Fortified Flesh (Ex)
 
-**Attunement to Stone (Sp)**: At 6th level, a living monolith can use [*meld into stone*](../../magic/spells/meld-into-stone.md) at will.
+At 3rd level, the flesh of a living monolith takes on the hardness of stone. A living monolith gains DR 1/— and 10% immunity to critical hits and sneak attacks (as if wearing *fortification* armor). At 5th level and again at 8th level, this DR increases by 1 and the immunity to critical hits increases by 10%. When a living monolith uses his soul stone to increase his size, these defenses temporarily increase by an additional 1 and 10%, respectively. At 5th level, a living monolith becomes immune to all diseases, including supernatural and magical diseases (such as mummy rot).
 
-**Summon Sphinx (Sp)**: At 7th level, a living monolith can call upon the aid of the sphinxes, ancient allies of the first immortal tomb guardians. Once per day, the living monolith can call a sphinx to his presence and bargain for its services as if using [*planar ally*](../../magic/spells/planar-ally.md) to call upon an outsider. At 9th level, this ability functions as *greater planar ally*. The living monolith gains a +4 bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks to influence sphinxes.
+#### Stability (Ex)
 
-**Communion with Stone (Su)**: At 8th level, a living monolith achieves a unique communion with the earth, gaining tremorsense to a range of 30 feet. Once per day, the living monolith can communicate with rock and stone as if using [*stone tell*](../../magic/spells/stone-tell.md). He gains Terran as a bonus language.
+At 4th level, a living monolith becomes exceptionally stable on his feet, gaining a +4 bonus to his CMD when he resists a bull rush or trip attempt while standing on the ground. This stacks with a dwarf's stability trait and similar abilities.
 
-**Assumption of Stone (Sp)**: At 9th level, a living monolith may use [*statue*](../../magic/spells/statue.md) as a spell-like ability with a range of personal at will. He also becomes immune to petrification.
+#### Tombsight (Su)
 
-**Ageless Stone (Ex)**: At 10th level, a living monolith becomes immortal. He ceases aging (though any aging effects already accrued remain in place) and becomes immune to energy drain and death effects, though he can still be killed by other means.
+At 4th level, a living monolith can perceive the balance of life and death within those he sees, as if using [*deathwatch*](../../magic/spells/deathwatch.md) and [*detect undead*](../../magic/spells/detect-undead.md) simultaneously. This power can be used at will and lasts as long as the living monolith concentrates.
 
-**Judgment of the Monolith (Sp)**: At 10th level, a living monolith gains the divine authority to demand truthful answers. Once per day, a living monolith can conduct a ritual of inquisition. If performed on a dead body, this functions as [*speak with dead*](../../magic/spells/speak-with-dead.md). Upon a living creature, it functions as a [*mark of justice*](../../magic/spells/mark-of-justice.md) that activates if the target lies to the living monolith. A living monolith can also use this power to entreat the spirits of the living and the dead to answer questions as if using [*contact other plane*](../../magic/spells/contact-other-plane.md) (treat as contacting a lesser deity).
+#### Greater Ka Stone (Su)
 
-**Master Ka Stone (Su)**: At 10th level, when a living monolith with a ka stone invokes his ka stone's power to increase his size, he regains lost hit points as if he had rested for a night. This healing does not restore temporary ability damage or provide other benefits of resting, and changing back does not heal him further.
+At 5th level, when a living monolith with a ka stone invokes his ka stone's power to increase his size, the living monolith gains the benefit of [*righteous might*](../../magic/spells/righteous-might.md) rather than *enlarge person*. The DR gained from *righteous might* is based on the living monolith's alignment. A neutral living monolith must choose which DR to gain from this ability. Once made, this choice cannot be changed.
+
+#### Attunement to Stone (Sp)
+
+At 6th level, a living monolith can use [*meld into stone*](../../magic/spells/meld-into-stone.md) at will.
+
+#### Summon Sphinx (Sp)
+
+At 7th level, a living monolith can call upon the aid of the sphinxes, ancient allies of the first immortal tomb guardians. Once per day, the living monolith can call a sphinx to his presence and bargain for its services as if using [*planar ally*](../../magic/spells/planar-ally.md) to call upon an outsider. At 9th level, this ability functions as *greater planar ally*. The living monolith gains a +4 bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks to influence sphinxes.
+
+#### Communion with Stone (Su)
+
+At 8th level, a living monolith achieves a unique communion with the earth, gaining tremorsense to a range of 30 feet. Once per day, the living monolith can communicate with rock and stone as if using [*stone tell*](../../magic/spells/stone-tell.md). He gains Terran as a bonus language.
+
+#### Assumption of Stone (Sp)
+
+At 9th level, a living monolith may use [*statue*](../../magic/spells/statue.md) as a spell-like ability with a range of personal at will. He also becomes immune to petrification.
+
+#### Ageless Stone (Ex)
+
+At 10th level, a living monolith becomes immortal. He ceases aging (though any aging effects already accrued remain in place) and becomes immune to energy drain and death effects, though he can still be killed by other means.
+
+#### Judgment of the Monolith (Sp)
+
+At 10th level, a living monolith gains the divine authority to demand truthful answers. Once per day, a living monolith can conduct a ritual of inquisition. If performed on a dead body, this functions as [*speak with dead*](../../magic/spells/speak-with-dead.md). Upon a living creature, it functions as a [*mark of justice*](../../magic/spells/mark-of-justice.md) that activates if the target lies to the living monolith. A living monolith can also use this power to entreat the spirits of the living and the dead to answer questions as if using [*contact other plane*](../../magic/spells/contact-other-plane.md) (treat as contacting a lesser deity).
+
+#### Master Ka Stone (Su)
+
+At 10th level, when a living monolith with a ka stone invokes his ka stone's power to increase his size, he regains lost hit points as if he had rested for a night. This healing does not restore temporary ability damage or provide other benefits of resting, and changing back does not heal him further.

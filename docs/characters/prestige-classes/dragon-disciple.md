@@ -47,28 +47,52 @@ The dragon disciple’s class skills (and the key ability for each skill) are Di
 
 All of the following are class features of the dragon disciple prestige class.
 
-**Weapon and Armor Proficiency**: Dragon disciples gain no proficiency with any weapon or armor.
+#### Weapon and Armor Proficiency
 
-**Draconic Power**: Your dragon disciple level counts double for the duration and number of uses of your draconic bloodline abilities.
+Dragon disciples gain no proficiency with any weapon or armor.
 
-**Spells per Day**: At the indicated levels, a dragon disciple gains new spells per day as if he had also gained a level in an arcane spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one arcane spellcasting class before becoming a dragon disciple, he must decide to which class he adds the new level for purposes of determining spells per day.
+#### Draconic Power
 
-**Blood of Dragons**: A dragon disciple adds his level to his sorcerer levels when determining the powers gained from his bloodline. If the dragon disciple does not have levels of sorcerer, he instead gains bloodline powers of the draconic bloodline, using his dragon disciple level as his sorcerer level to determine the bonuses gained. He must choose a dragon type upon gaining his first level in this class and that type must be the same as his sorcerer type. This ability does not grant bonus spells to a sorcerer unless he possesses spell slots of an appropriate level. Such bonus spells are automatically granted if the sorcerer gains spell slots of the spell’s level.
+Your dragon disciple level counts double for the duration and number of uses of your draconic bloodline abilities.
 
-**Natural Armor Increase (Ex)**: As his skin thickens, a dragon disciple takes on more and more of his progenitor’s physical aspect. At 1st, 4th, and 7th level, a dragon disciple gains an increase to the character’s existing natural armor (if any), as indicated on Table 11–4. These armor bonuses stack.
+#### Spells per Day
 
-**Ability Boost (Ex)**: As a dragon disciple gains levels in this prestige class, his ability scores increase as noted on Table 11–4. These increases stack and are gained as if through level advancement.
+At the indicated levels, a dragon disciple gains new spells per day as if he had also gained a level in an arcane spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one arcane spellcasting class before becoming a dragon disciple, he must decide to which class he adds the new level for purposes of determining spells per day.
 
-**Bloodline Feat**: Upon reaching 2nd level, and every three levels thereafter, a dragon disciple receives one bonus feat, chosen from the draconic bloodline’s bonus feat list.
+#### Blood of Dragons
 
-**Dragon Bite (Ex)**: At 2nd level, whenever the dragon disciple uses his bloodline to grow claws, he also gains a bite attack. This is a primary natural attack that deals 1d6 points of damage (1d4 if the dragon disciple is Small), plus 1–1/2 times the dragon disciple’s Strength modifier. Upon reaching 6th level, this bite also deals 1d6 points of energy damage. The type of damage dealt is determined by the dragon disciple’s bloodline.
+A dragon disciple adds his level to his sorcerer levels when determining the powers gained from his bloodline. If the dragon disciple does not have levels of sorcerer, he instead gains bloodline powers of the draconic bloodline, using his dragon disciple level as his sorcerer level to determine the bonuses gained. He must choose a dragon type upon gaining his first level in this class and that type must be the same as his sorcerer type. This ability does not grant bonus spells to a sorcerer unless he possesses spell slots of an appropriate level. Such bonus spells are automatically granted if the sorcerer gains spell slots of the spell’s level.
 
-**Breath Weapon (Su)**: At 3rd level, a dragon disciple gains the breath weapon bloodline power, even if his level does not yet grant that power. Once his level is high enough to grant this ability through the bloodline, the dragon disciple gains an additional use of his breath weapon each day. The type and shape of the breath weapon depends on the type of dragon selected by the dragon disciple, as detailed under the Draconic [sorcerer bloodline](../classes/sorcerer.md#bloodline) description.
+#### Natural Armor Increase (Ex)
 
-**Blindsense (Ex)**: At 5th level, the dragon disciple gains blindsense with a range of 30 feet. Using nonvisual senses the dragon disciple notices things he cannot see. He usually does not need to make [Perception](../../rules/skills/perception.md) checks to notice and pinpoint the location of creatures within range of his blindsense ability, provided that he has line of effect to that creature.
+As his skin thickens, a dragon disciple takes on more and more of his progenitor’s physical aspect. At 1st, 4th, and 7th level, a dragon disciple gains an increase to the character’s existing natural armor (if any), as indicated on Table 11–4. These armor bonuses stack.
+
+#### Ability Boost (Ex)
+
+As a dragon disciple gains levels in this prestige class, his ability scores increase as noted on Table 11–4. These increases stack and are gained as if through level advancement.
+
+#### Bloodline Feat
+
+Upon reaching 2nd level, and every three levels thereafter, a dragon disciple receives one bonus feat, chosen from the draconic bloodline’s bonus feat list.
+
+#### Dragon Bite (Ex)
+
+At 2nd level, whenever the dragon disciple uses his bloodline to grow claws, he also gains a bite attack. This is a primary natural attack that deals 1d6 points of damage (1d4 if the dragon disciple is Small), plus 1–1/2 times the dragon disciple’s Strength modifier. Upon reaching 6th level, this bite also deals 1d6 points of energy damage. The type of damage dealt is determined by the dragon disciple’s bloodline.
+
+#### Breath Weapon (Su)
+
+At 3rd level, a dragon disciple gains the breath weapon bloodline power, even if his level does not yet grant that power. Once his level is high enough to grant this ability through the bloodline, the dragon disciple gains an additional use of his breath weapon each day. The type and shape of the breath weapon depends on the type of dragon selected by the dragon disciple, as detailed under the Draconic [sorcerer bloodline](../classes/sorcerer.md#bloodline) description.
+
+#### Blindsense (Ex)
+
+At 5th level, the dragon disciple gains blindsense with a range of 30 feet. Using nonvisual senses the dragon disciple notices things he cannot see. He usually does not need to make [Perception](../../rules/skills/perception.md) checks to notice and pinpoint the location of creatures within range of his blindsense ability, provided that he has line of effect to that creature.
 
 Any opponent the dragon disciple cannot see still has total concealment against him, and the dragon disciple still has the normal miss chance when attacking foes that have concealment. Visibility still affects the movement of a creature with blindsense. A creature with blindsense is still denied its Dexterity bonus to Armor Class against attacks from creatures it cannot see. At 10th level, the range of this ability increases to 60 feet.
 
-**Dragon Form (Sp)**: At 7th level, a dragon disciple can assume the form of a dragon. This ability works like *form* *of the dragon I.* At 10th level, this ability functions as *form* *of the dragon II* and the dragon disciple can use this ability twice per day. His caster level for this effect is equal to his effective sorcerer levels for his draconic bloodline. Whenever he casts *form of the dragon,* he must assume the form of a dragon of the same type as his bloodline.
+#### Dragon Form (Sp)
 
-**Wings (Su)**: At 9th level, a dragon disciple gains the wings bloodline power, even if his level does not yet grant that power. Once his level is high enough to grant this ability through the bloodline, the dragon disciple’s speed increases to 90 feet.
+At 7th level, a dragon disciple can assume the form of a dragon. This ability works like *form* *of the dragon I.* At 10th level, this ability functions as *form* *of the dragon II* and the dragon disciple can use this ability twice per day. His caster level for this effect is equal to his effective sorcerer levels for his draconic bloodline. Whenever he casts *form of the dragon,* he must assume the form of a dragon of the same type as his bloodline.
+
+#### Wings (Su)
+
+At 9th level, a dragon disciple gains the wings bloodline power, even if his level does not yet grant that power. Once his level is high enough to grant this ability through the bloodline, the dragon disciple’s speed increases to 90 feet.

@@ -57,31 +57,51 @@ The hell knight signifer's class skills (and the key ability for each skill) are
 
 The following are class features of the hell knight signifer prestige class.
 
-**Weapon and Armor Proficiency**: A hell knight signifer gains proficiency with [heavy armor](../../equipment/armor.md) and with one of his order’s favored weapons (see Order below).
+#### Weapon and Armor Proficiency
 
-**Bonus Feat**: At 1st level, a divine caster gains [Warrior Priest](../../rules/feats/warrior-priest.md) as a bonus feat, and an arcane caster gains [Arcane Armor Training](../../rules/feats/arcane-armor-training.md) as a bonus feat.
+A hell knight signifer gains proficiency with [heavy armor](../../equipment/armor.md) and with one of his order’s favored weapons (see Order below).
 
-**Aura of Law (Ex)**: A hell knight signifer’s lawful aura (see the [*detect law*](../../magic/spells/detect-law.md) spell) functions as that of a cleric whose level is equal to the signifer’s character level.
+#### Bonus Feat
 
-**Catechesis (Ex)**: A hell knight signifer with the Warrior Priest feat gains all the class features of his aligned class instead of only every 2 levels, essentially adding every hell knight signifer level beyond 1st to his aligned class to determine what class features he gains. He still retains the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class, but gains all other class features of his aligned class as well as those of this prestige class.
+At 1st level, a divine caster gains [Warrior Priest](../../rules/feats/warrior-priest.md) as a bonus feat, and an arcane caster gains [Arcane Armor Training](../../rules/feats/arcane-armor-training.md) as a bonus feat.
+
+#### Aura of Law (Ex)
+
+A hell knight signifer’s lawful aura (see the [*detect law*](../../magic/spells/detect-law.md) spell) functions as that of a cleric whose level is equal to the signifer’s character level.
+
+#### Catechesis (Ex)
+
+A hell knight signifer with the Warrior Priest feat gains all the class features of his aligned class instead of only every 2 levels, essentially adding every hell knight signifer level beyond 1st to his aligned class to determine what class features he gains. He still retains the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class, but gains all other class features of his aligned class as well as those of this prestige class.
 
 ??? note "Original rule"
 
     **Catechesis (Ex)**: If a hell knight signifer has the Warrior Priest feat, his class level stacks with other divine spellcasting classes for determining the effects of those classes’ domain powers, inquisitions, and mysteries. This doesn’t grant any new powers or abilities. In addition, a signifer with the Warrior Priest feat gains Alignment Channel (chaos) as a bonus feat, and treats his signifer levels as cleric levels when determining the amount of damage healed or dealt and saving throw DCs of his channeled energy.
 
-**Order**: A hell knight signifer chooses a knightly order to join at 1st level. The most common orders (and their favored weapon or weapons) are: Shackles (flail), Portal (dagger), Faithful (morningstar), Spike (halberd or lance), Brazier (glaive), Austerity (longsword or whip), and Lash (heavy mace or whip).
+#### Order
 
-**Signifer Mask (Su)**: Upon initiation, a hell knight signifer receives a mask, often devoid of eyeholes or other personal features. This mask doesn’t obscure the signifer’s vision, and while wearing it he gains a +2 competence bonus on [Sense Motive](../../rules/skills/sense-motive.md) checks and on saving throws against spells and abilities that rely on visual effects.
+A hell knight signifer chooses a knightly order to join at 1st level. The most common orders (and their favored weapon or weapons) are: Shackles (flail), Portal (dagger), Faithful (morningstar), Spike (halberd or lance), Brazier (glaive), Austerity (longsword or whip), and Lash (heavy mace or whip).
+
+#### Signifer Mask (Su)
+
+Upon initiation, a hell knight signifer receives a mask, often devoid of eyeholes or other personal features. This mask doesn’t obscure the signifer’s vision, and while wearing it he gains a +2 competence bonus on [Sense Motive](../../rules/skills/sense-motive.md) checks and on saving throws against spells and abilities that rely on visual effects.
 
 A signifer with a bonded object from the arcane bond class feature can perform a special ritual that costs 500 gp and takes 8 hours to complete. This ritual converts the signifer’s mask into his new bonded object, which takes up the head slot. In this case, his signifer levels stack with levels from the class that grants the arcane bond for determining what additional magical abilities can be added to the bonded object.
 
-**Aligned Class (Ex)**: At 2nd level, a hell knight signifer must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
+#### Aligned Class (Ex)
 
-**Arcane Armor Expertise (Ex)**: At 2nd level, if a hell knight signifer has the Arcane Armor Training feat, he gains [Arcane Armor Mastery](../../rules/feats/arcane-armor-mastery.md) as a bonus feat. At 5th level, the action required to use this feat changes from a swift action to a free action.
+At 2nd level, a hell knight signifer must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
 
-**Signifer Armor Training (Ex)**: At 3rd level, while a hell knight signifer wears hell knight armor, he reduces the armor check penalty by 1 (to a minimum of 0), and reduces the arcane spell failure chance by 5%. At 8th level, he reduces his armor check penalty by an additional 1, and reduces his arcane spell failure by an additional 5%. Additionally, at 8th level, when a signifer’s speed is reduced by wearing medium or heavy armor, his unique training decreases the speed reduction by 5 feet.
+#### Arcane Armor Expertise (Ex)
 
-**Assiduous Gaze**: At 4th level and again at 7th level, a hell knight signifer gains an assiduous gaze ability chosen from the list below. He can use each assiduous gaze ability he has for a number of rounds per day equal to half his class level. These rounds need not be consecutive. He can activate an assiduous gaze ability as a swift action to examine a single creature, object, or 5-foot square within 30 feet. He must be wearing his signifer mask to use these abilities, and his caster level while using the ability is equal to his character level.
+At 2nd level, if a hell knight signifer has the Arcane Armor Training feat, he gains [Arcane Armor Mastery](../../rules/feats/arcane-armor-mastery.md) as a bonus feat. At 5th level, the action required to use this feat changes from a swift action to a free action.
+
+#### Signifer Armor Training (Ex)
+
+At 3rd level, while a hell knight signifer wears hell knight armor, he reduces the armor check penalty by 1 (to a minimum of 0), and reduces the arcane spell failure chance by 5%. At 8th level, he reduces his armor check penalty by an additional 1, and reduces his arcane spell failure by an additional 5%. Additionally, at 8th level, when a signifer’s speed is reduced by wearing medium or heavy armor, his unique training decreases the speed reduction by 5 feet.
+
+#### Assiduous Gaze
+
+At 4th level and again at 7th level, a hell knight signifer gains an assiduous gaze ability chosen from the list below. He can use each assiduous gaze ability he has for a number of rounds per day equal to half his class level. These rounds need not be consecutive. He can activate an assiduous gaze ability as a swift action to examine a single creature, object, or 5-foot square within 30 feet. He must be wearing his signifer mask to use these abilities, and his caster level while using the ability is equal to his character level.
 
 - **Elucidation (Su)**: The signifer can discern each active spell on the target, including the spell’s effect and caster level.
 - **Morality (Sp)**: The signifer can determine whether the target is chaotic, evil, good, or lawful, as well as the strength of its aura as if he had studied it for 3 rounds using [*detect chaos*](../../magic/spells/detect-chaos.md), [*detect evil*](../../magic/spells/detect-evil.md), [*detect good*](../../magic/spells/detect-good.md), and *detect law*.
@@ -89,8 +109,14 @@ A signifer with a bonded object from the arcane bond class feature can perform a
 - **Veracity (Sp)**: The signifer can observe the target as if using [*true seeing*](../../magic/spells/true-seeing.md). A signifer must be 7th level to select this ability.
 - **Vigilance (Su)**: The signifer can see through up to 5 feet of stone, wood, or similar barriers as if they didn’t exist. This effect cannot penetrate metal of any kind.
 
-**Discern Lies (Sp)**: At 6th level, a hell knight signifer can use [*discern lies*](../../magic/spells/discern-lies.md) as a spell-like ability a number of times per day equal to 3 + his Charisma modifier. His caster level is equal to his total character level.
+#### Discern Lies (Sp)
 
-**Infernal Resilience (Ex)**: At 9th level, a hell knight signifer gains DR 5/chaotic and becomes immune to poison.
+At 6th level, a hell knight signifer can use [*discern lies*](../../magic/spells/discern-lies.md) as a spell-like ability a number of times per day equal to 3 + his Charisma modifier. His caster level is equal to his total character level.
 
-**Diabolic Harbinger (Su)**: At 10th level, as long as a hell knight signifer wears his signifer mask, he gains telepathy with a range of 100 feet and can see perfectly in both magical and mundane darkness. While wearing his signifer mask, he is immune to blindness and dazzling effects, and gains a +2 bonus on all Charisma-based checks when interacting with lawful creatures. This bonus increases to +4 if the creature is also an outsider.
+#### Infernal Resilience (Ex)
+
+At 9th level, a hell knight signifer gains DR 5/chaotic and becomes immune to poison.
+
+#### Diabolic Harbinger (Su)
+
+At 10th level, as long as a hell knight signifer wears his signifer mask, he gains telepathy with a range of 100 feet and can see perfectly in both magical and mundane darkness. While wearing his signifer mask, he is immune to blindness and dazzling effects, and gains a +2 bonus on all Charisma-based checks when interacting with lawful creatures. This bonus increases to +4 if the creature is also an outsider.

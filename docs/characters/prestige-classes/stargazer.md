@@ -53,15 +53,25 @@ The stargazer's class skills (and the key ability for each skill) are Acrobatics
 
 The following are class features of the stargazer prestige class.
 
-**Spells per Day**: At the indicated levels, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He doesn't, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before gaining this prestige class ability, he must decide to which class he adds the new level for purposes of determining spells per day.
+#### Spells per Day
 
-**Witches of the Stars**: Many witches take levels in the stargazer prestige class. Most of these witches select endurance, light, moon, stars, time, trickery, or wisdom as their patron elements. However, some of them choose the aurora itself as their patron, for the spells it grants are capable of creating displays very much like the northern lights. The aurora patron is detailed on the [witch](../classes/witch.md) page.
+At the indicated levels, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He doesn't, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before gaining this prestige class ability, he must decide to which class he adds the new level for purposes of determining spells per day.
 
-**Guiding Light (Su)**: The stargazer gains a familiar, treating his stargazer level as his wizard level.
+#### Witches of the Stars
 
-**Mystery Magic (Ex)**: At 1st and 9th levels, the stargazer gains a hex from the witch's list of hexes. His stargazer levels count as (and stack with) witch levels when determining the effects of hexes. In addition, the stargazer adds all hexes available to a shaman with the heavens spirit to the witch list. At 3rd level, the stargazer gains the Stars subdomain in addition to any domains he already has. His stargazer levels count as (and stack with) cleric levels when determining which domain abilities he gains and their effects. If he isn't a cleric, the subdomain's spells are added to his class spell list (if necessary) and to his spells known, spellbook, familiar, or similar source. Spells added this way may be cast only once per day, unless using the stars are right ability. He can use the stars are right ability regardless of his spellcasting class. A stargazer gains certain abilities from the heavens oracle mystery as he gains levels as well. At 5th level, the stargazer gains the coat of many stars [oracle revelation](../classes/oracle.md#revelation). At 7th level, he gains the star chart revelation. His stargazer levels and cleric levels count as (and stack with) oracle levels when he is determining the effects of these revelations.
+Many witches take levels in the stargazer prestige class. Most of these witches select endurance, light, moon, stars, time, trickery, or wisdom as their patron elements. However, some of them choose the aurora itself as their patron, for the spells it grants are capable of creating displays very much like the northern lights. The aurora patron is detailed on the [witch](../classes/witch.md) page.
 
-**Sidereal Arcana (Su or Sp)**: As he studies the skies, the stargazer binds himself to constellations, drawing on their unearthly power. At 2nd level and every 2 class levels thereafter, the stargazer gains one sidereal arcana of his choice from the list below.
+#### Guiding Light (Su)
+
+The stargazer gains a familiar, treating his stargazer level as his wizard level.
+
+#### Mystery Magic (Ex)
+
+At 1st and 9th levels, the stargazer gains a hex from the witch's list of hexes. His stargazer levels count as (and stack with) witch levels when determining the effects of hexes. In addition, the stargazer adds all hexes available to a shaman with the heavens spirit to the witch list. At 3rd level, the stargazer gains the Stars subdomain in addition to any domains he already has. His stargazer levels count as (and stack with) cleric levels when determining which domain abilities he gains and their effects. If he isn't a cleric, the subdomain's spells are added to his class spell list (if necessary) and to his spells known, spellbook, familiar, or similar source. Spells added this way may be cast only once per day, unless using the stars are right ability. He can use the stars are right ability regardless of his spellcasting class. A stargazer gains certain abilities from the heavens oracle mystery as he gains levels as well. At 5th level, the stargazer gains the coat of many stars [oracle revelation](../classes/oracle.md#revelation). At 7th level, he gains the star chart revelation. His stargazer levels and cleric levels count as (and stack with) oracle levels when he is determining the effects of these revelations.
+
+#### Sidereal Arcana (Su or Sp)
+
+As he studies the skies, the stargazer binds himself to constellations, drawing on their unearthly power. At 2nd level and every 2 class levels thereafter, the stargazer gains one sidereal arcana of his choice from the list below.
 
 - *The Bridge*: The stargazer is warded against winter's darkness. He gains cold resistance 5 and darkvision with a range of 30 feet. The stargazer can see through darkness created by demons without penalty.
 - *The Daughter*: The Daughter emboldens hearts with the promise of springtime and new life. The stargazer and allies within 10 feet gain a +4 morale bonus on saving throws against fear, and the DC to demoralize them via Intimidate increases by 4. The stargazer is immune to fear effects created by demons.
@@ -77,4 +87,6 @@ The following are class features of the stargazer prestige class.
 - *The Thrush*: The stargazer's voice becomes harmonious. The stargazer gains a bonus equal to half his class level on Diplomacy and [Perform](../../rules/skills/perform.md) (sing) checks.
 - *The Wagon*: The stargazer's movement becomes swift and steady. He gains a +10-foot enhancement bonus to his movement speed, and can take 5-foot steps in difficult terrain. In addition, three times per day as a swift action, he can gain the effects of [*freedom of movement*](../../magic/spells/freedom-of-movement.md) for 1 round, but only against effects created by demons.
 
-**Stars' Dance (Ex)**: At 10th level, the stargazer's mastery of the constellations reaches its zenith. Once per day, the stargazer can replace one of his sidereal arcana with any other one. The new sidereal arcana can also be replaced using this ability, but the change is otherwise permanent.
+#### Stars' Dance (Ex)
+
+At 10th level, the stargazer's mastery of the constellations reaches its zenith. Once per day, the stargazer can replace one of his sidereal arcana with any other one. The new sidereal arcana can also be replaced using this ability, but the change is otherwise permanent.

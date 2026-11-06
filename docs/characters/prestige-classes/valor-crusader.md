@@ -38,16 +38,28 @@ The Valor Crusader’s class skills are [Craft](../../rules/skills/craft.md), [D
 
 The following are class features of the valor crusader prestige class.
 
-**Weapon and Armor Proficiency**: valor crusaders gain no additional proficiency in weapons or armor.
+#### Weapon and Armor Proficiency
 
-**Spells per Day**: At each level, the crusader gains new spells per day as if he had gained a level in cleric or paladin (depending on whether he has cleric or paladin levels). He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, and an increased effective level of spellcasting. If the crusader has levels in cleric and paladin, he must decide to which class he adds the new level for purposes of determining spells per day.
+valor crusaders gain no additional proficiency in weapons or armor.
 
-**Champion of Honor**: An valor crusader follows a code of conduct identical to that of a paladin, with the same penalties. A crusader’s class levels stack with paladin class levels for the purpose of determining the effects of the [paladin’s smite evil](../classes/paladin.md#smite-evil-su) ability.
+#### Spells per Day
 
-**Aura of Great Courage (Su)**: At 1st level, the crusader gains an aura of courage equivalent to that of a 3rd-level paladin. If the crusader already has this ability, the aura’s range increases to 20 feet.
+At each level, the crusader gains new spells per day as if he had gained a level in cleric or paladin (depending on whether he has cleric or paladin levels). He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, and an increased effective level of spellcasting. If the crusader has levels in cleric and paladin, he must decide to which class he adds the new level for purposes of determining spells per day.
 
-**Destroyer of Tyranny (Su)**: At 2nd level, a crusader can shatter the oppressive influence of others. Any creature targeted by a crusader’s channel positive energy ability or lay on hands gains a new saving throw against any ongoing charm or compulsion effect upon him. At the GM’s discretion, this can also allow the target a new saving throw against effects brought on by the power of belief, intimidation, or trickery, even if not actually a charm or compulsion.
+#### Champion of Honor
+
+An valor crusader follows a code of conduct identical to that of a paladin, with the same penalties. A crusader’s class levels stack with paladin class levels for the purpose of determining the effects of the [paladin’s smite evil](../classes/paladin.md#smite-evil-su) ability.
+
+#### Aura of Great Courage (Su)
+
+At 1st level, the crusader gains an aura of courage equivalent to that of a 3rd-level paladin. If the crusader already has this ability, the aura’s range increases to 20 feet.
+
+#### Destroyer of Tyranny (Su)
+
+At 2nd level, a crusader can shatter the oppressive influence of others. Any creature targeted by a crusader’s channel positive energy ability or lay on hands gains a new saving throw against any ongoing charm or compulsion effect upon him. At the GM’s discretion, this can also allow the target a new saving throw against effects brought on by the power of belief, intimidation, or trickery, even if not actually a charm or compulsion.
 
 A crusader under one of these effects can expend a use of channel energy or lay on hands to attempt another saving throw against the effect; he can do this once per round as a swift action, and may use this ability even if doing so is contrary to the charm or compulsion effect; for example, a crusader charmed to defend an enemy against his own allies can use this ability to break the effect and turn on the enemy who charmed him. The crusader may indirectly benefit from this ability; for example, if the aforementioned enemy asks the crusader to heal him with channel energy, all creatures in the area (including the crusader) may attempt new saving throws against the controlling effects.
 
-**Sword Against Injustice (Su)**: At 3rd level, a crusader may use his power to judge the guilty and absolve the innocent. As a standard action he may announce he is bringing the goddess’s judgment upon a target who is accused of a crime, lie, or other affront to justice; the crusader makes a melee attack with his sword against the target as part of this judgment. If the target is innocent of what he is accused, the attack stops just short of striking him, as if hitting an invisible wall; if the target is guilty, the attack automatically hits with a flash of white light. This attack requires no attack roll and cannot critically hit. If the target is protected by an effect that inhibits divinations (such as [*mind blank*](../../magic/spells/mind-blank.md)), the attack bounces off the target with an unpleasant metallic hiss, like quenching a red-hot blade in water. The crusader may use this ability once per day; each additional use beyond the first drains him, causing him to become [fatigued](../../rules/appendices/conditions.md#fatigued). He cannot use this class ability if he is [exhausted](../../rules/appendices/conditions.md#exhausted). He may expend a use of channel energy or lay on hands while activating this ability to prevent fatigue. Sometimes people wrongly accused of great crimes beg for the intercession of an valor crusader, knowing this power will exonerate them.
+#### Sword Against Injustice (Su)
+
+At 3rd level, a crusader may use his power to judge the guilty and absolve the innocent. As a standard action he may announce he is bringing the goddess’s judgment upon a target who is accused of a crime, lie, or other affront to justice; the crusader makes a melee attack with his sword against the target as part of this judgment. If the target is innocent of what he is accused, the attack stops just short of striking him, as if hitting an invisible wall; if the target is guilty, the attack automatically hits with a flash of white light. This attack requires no attack roll and cannot critically hit. If the target is protected by an effect that inhibits divinations (such as [*mind blank*](../../magic/spells/mind-blank.md)), the attack bounces off the target with an unpleasant metallic hiss, like quenching a red-hot blade in water. The crusader may use this ability once per day; each additional use beyond the first drains him, causing him to become [fatigued](../../rules/appendices/conditions.md#fatigued). He cannot use this class ability if he is [exhausted](../../rules/appendices/conditions.md#exhausted). He may expend a use of channel energy or lay on hands while activating this ability to prevent fatigue. Sometimes people wrongly accused of great crimes beg for the intercession of an valor crusader, knowing this power will exonerate them.

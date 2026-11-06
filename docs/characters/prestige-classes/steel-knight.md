@@ -39,26 +39,50 @@ The steel knight's class skills (and the key ability for each skill) are Bluff (
 
 The following are class features of the steel knight prestige class.
 
-**Enemy of Slavers (Ex)**: A steel knight gains a +2 bonus on [Bluff](../../rules/skills/bluff.md), [Knowledge](../../rules/skills/knowledge.md), [Perception](../../rules/skills/perception.md), [Sense Motive](../../rules/skills/sense-motive.md), and [Survival](../../rules/skills/survival.md) checks against slavers and slave owners. Likewise, she gains a +2 bonus on weapon attack and damage rolls against them. At 5th level, this bonus increases to +4, and at 9th level it increases to +6. This is treated as a favored enemy bonus. If the steel knight has a favored enemy bonus from another class and her target is a slaver as well as a favored enemy of another type, the bonuses do not stack, and she simply uses whichever bonus is higher.
+#### Enemy of Slavers (Ex)
 
-**Heart of Freedom (Ex)**: A steel knight gains a +4 morale bonus on saving throws against charm and compulsion effects and attempts to possess her body or mind.
+A steel knight gains a +2 bonus on [Bluff](../../rules/skills/bluff.md), [Knowledge](../../rules/skills/knowledge.md), [Perception](../../rules/skills/perception.md), [Sense Motive](../../rules/skills/sense-motive.md), and [Survival](../../rules/skills/survival.md) checks against slavers and slave owners. Likewise, she gains a +2 bonus on weapon attack and damage rolls against them. At 5th level, this bonus increases to +4, and at 9th level it increases to +6. This is treated as a favored enemy bonus. If the steel knight has a favored enemy bonus from another class and her target is a slaver as well as a favored enemy of another type, the bonuses do not stack, and she simply uses whichever bonus is higher.
 
-**Sailor and Survivalist (Ex)**: A steel knight adds her class level to [Profession](../../rules/skills/profession.md) (sailor) checks and Survival checks to get along in the wild and navigate in the wilderness.
+#### Heart of Freedom (Ex)
 
-**Luck of the Eagle (Ex)**: At 2nd level, once per day, a steel knight can reroll any one d20 roll before she learns the result of that roll, but she must take the new roll, even if it is lower. At 6th level, the steel knight can use luck of the eagle twice per day, and at 10th level, she can do so three times per day.
+A steel knight gains a +4 morale bonus on saving throws against charm and compulsion effects and attempts to possess her body or mind.
 
-**Heroic Speech (Su)**: At 3rd level, a steel knight can inspire her allies with tales of greatness, heroism, and the ideals of her homeland. This functions like the inspire courage aspect of bardic performance, treating the steel knight’s class level as her bard level when determining the effect; if the steel knight has levels in bard, her class levels stack with her bard levels when determining the effect of this ability and the effect of her inspire courage bard ability. The steel knight can use this ability a number of rounds per day equal to her class level + her Charisma modifier.
+#### Sailor and Survivalist (Ex)
 
-**Natural Traps (Ex)**: At 3rd level, the steel knight gains [Learn Ranger Trap](../../rules/feats/learn-ranger-trap.md) as a bonus feat (she does not need to meet the feat’s normal prerequisite of 5 ranks in Survival). As per the rules for that feat, she learns one extraordinary ranger trap (chosen from the following: alarm trap, burning trap, exploding trap, fire trap, marking trap, poison trap, snare trap, and swarm trap). At 6th level, the steel knight learns a second trap, and at 9th level she learns a third trap. The number of times she can use a trap is equal to her class level + her Wisdom bonus.
+A steel knight adds her class level to [Profession](../../rules/skills/profession.md) (sailor) checks and Survival checks to get along in the wild and navigate in the wilderness.
 
-**Comrade’s Bond (Ex)**: At 4th level, once per day as a move action, a steel knight can grant her allies half her enemy of slavers bonus against all appropriate targets in sight; the allies must be within 30 feet and able to see or hear her. This bonus lasts for a number of rounds equal to the steel knight’s Charisma bonus (minimum 1). This bonus does not stack with any favored enemy bonuses her allies have; they use whichever bonus is higher. At 7th level, the steel knight can use comrade’s bond twice per day, and activating it is a swift action. At 10th level, she can use this ability three times per day, and activating it is a free action.
+#### Luck of the Eagle (Ex)
 
-**Superior Aid (Ex)**: At 4th level, when performing the aid another action, a steel knight grants a +4 bonus on the ally’s attack roll or to the ally’s Armor Class instead of the normal +2.
+At 2nd level, once per day, a steel knight can reroll any one d20 roll before she learns the result of that roll, but she must take the new roll, even if it is lower. At 6th level, the steel knight can use luck of the eagle twice per day, and at 10th level, she can do so three times per day.
 
-**Subtle Manipulator (Ex)**: At 5th level, if the steel knight spends a full-round action studying a target, she can attempt a Sense Motive check opposed by the target’s Will save. If she succeeds, she gains a +5 circumstance bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks against that opponent for a number of days equal to her Wisdom modifier. This ability can be used on a given target once per day, and a successful use resets its duration.
+#### Heroic Speech (Su)
 
-**Celestial Blessing (Su)**: At 5th level, a steel knight gains the blessing of a celestial patron. She gains a +10 competence bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks to make high or long jumps, a +4 bonus on Perception checks, and the benefits of [*feather fall*](../../magic/spells/feather-fall.md) at all times. If this effect is dispelled, she can reactivate it as a move action.
+At 3rd level, a steel knight can inspire her allies with tales of greatness, heroism, and the ideals of her homeland. This functions like the inspire courage aspect of bardic performance, treating the steel knight’s class level as her bard level when determining the effect; if the steel knight has levels in bard, her class levels stack with her bard levels when determining the effect of this ability and the effect of her inspire courage bard ability. The steel knight can use this ability a number of rounds per day equal to her class level + her Charisma modifier.
 
-**Chainbreaker (Ex)**: At 6th level, a steel knight’s attacks against bindings, chains, and manacles bypass up to 10 points of hardness. This includes weapons with chains (such as flails, nunchaku, and spiked chains), a kyton’s armor and weapons, chains animated by [*animate objects*](../../magic/spells/animate-objects.md), and so on. The steel knight also gains a +10 bonus on all checks to escape bindings with manacles or ropes.
+#### Natural Traps (Ex)
 
-**Celestial Fury (Su)**: At 8th level, once per day as a standard action, a steel knight can channel her rage at the injustice in the world, transforming her countenance into a terrifying display of righteous fury, giving her a fear aura with a range of 30 feet. Enemies within this radius are affected by a [*fear*](../../magic/spells/fear.md) spell (CL 10th, Will DC 15 + the steel knight’s Charisma bonus). All other creatures in the area (including the steel knight) are bolstered by her wrath and can immediately attempt new saving throws against any charm, compulsion, or possession effects currently affecting them. The steel knight can use this ability if she is conscious, even if [paralyzed](../../rules/appendices/conditions.md#paralyzed) or under the effect of a charm, compulsion, or possession that affects her judgment.
+At 3rd level, the steel knight gains [Learn Ranger Trap](../../rules/feats/learn-ranger-trap.md) as a bonus feat (she does not need to meet the feat’s normal prerequisite of 5 ranks in Survival). As per the rules for that feat, she learns one extraordinary ranger trap (chosen from the following: alarm trap, burning trap, exploding trap, fire trap, marking trap, poison trap, snare trap, and swarm trap). At 6th level, the steel knight learns a second trap, and at 9th level she learns a third trap. The number of times she can use a trap is equal to her class level + her Wisdom bonus.
+
+#### Comrade’s Bond (Ex)
+
+At 4th level, once per day as a move action, a steel knight can grant her allies half her enemy of slavers bonus against all appropriate targets in sight; the allies must be within 30 feet and able to see or hear her. This bonus lasts for a number of rounds equal to the steel knight’s Charisma bonus (minimum 1). This bonus does not stack with any favored enemy bonuses her allies have; they use whichever bonus is higher. At 7th level, the steel knight can use comrade’s bond twice per day, and activating it is a swift action. At 10th level, she can use this ability three times per day, and activating it is a free action.
+
+#### Superior Aid (Ex)
+
+At 4th level, when performing the aid another action, a steel knight grants a +4 bonus on the ally’s attack roll or to the ally’s Armor Class instead of the normal +2.
+
+#### Subtle Manipulator (Ex)
+
+At 5th level, if the steel knight spends a full-round action studying a target, she can attempt a Sense Motive check opposed by the target’s Will save. If she succeeds, she gains a +5 circumstance bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks against that opponent for a number of days equal to her Wisdom modifier. This ability can be used on a given target once per day, and a successful use resets its duration.
+
+#### Celestial Blessing (Su)
+
+At 5th level, a steel knight gains the blessing of a celestial patron. She gains a +10 competence bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks to make high or long jumps, a +4 bonus on Perception checks, and the benefits of [*feather fall*](../../magic/spells/feather-fall.md) at all times. If this effect is dispelled, she can reactivate it as a move action.
+
+#### Chainbreaker (Ex)
+
+At 6th level, a steel knight’s attacks against bindings, chains, and manacles bypass up to 10 points of hardness. This includes weapons with chains (such as flails, nunchaku, and spiked chains), a kyton’s armor and weapons, chains animated by [*animate objects*](../../magic/spells/animate-objects.md), and so on. The steel knight also gains a +10 bonus on all checks to escape bindings with manacles or ropes.
+
+#### Celestial Fury (Su)
+
+At 8th level, once per day as a standard action, a steel knight can channel her rage at the injustice in the world, transforming her countenance into a terrifying display of righteous fury, giving her a fear aura with a range of 30 feet. Enemies within this radius are affected by a [*fear*](../../magic/spells/fear.md) spell (CL 10th, Will DC 15 + the steel knight’s Charisma bonus). All other creatures in the area (including the steel knight) are bolstered by her wrath and can immediately attempt new saving throws against any charm, compulsion, or possession effects currently affecting them. The steel knight can use this ability if she is conscious, even if [paralyzed](../../rules/appendices/conditions.md#paralyzed) or under the effect of a charm, compulsion, or possession that affects her judgment.

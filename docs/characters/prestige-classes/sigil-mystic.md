@@ -41,11 +41,17 @@ The sigil mystic's class skills (and the key ability for each skill) are Knowled
 
 The following are class features of the sigil mystic prestige class.
 
-**Weapon and Armor Proficiency**: A sigil mystic gains no additional weapon or armor proficiencies.
+#### Weapon and Armor Proficiency
 
-**Familiar Tattoo (Su)**: This ability is exactly like the tattooed sorcerer ability of the same name (see [Sorcerer Archetypes](../classes/sorcerer-archetypes.md)).
+A sigil mystic gains no additional weapon or armor proficiencies.
 
-**Mystic Tattoo (Su)**: A sigil mystic inscribes ancient symbols of power on his skin to enhance his spellcasting. At 2nd level and every two levels thereafter, the mystic inscribes a new tattoo on his body, chosen from the list below. Mystic tattoos do not occupy magic item or tattoo slots on his body. The mystic can select each tattoo more than once; the effects of multiple tattoos are noted in their descriptions.
+#### Familiar Tattoo (Su)
+
+This ability is exactly like the tattooed sorcerer ability of the same name (see [Sorcerer Archetypes](../classes/sorcerer-archetypes.md)).
+
+#### Mystic Tattoo (Su)
+
+A sigil mystic inscribes ancient symbols of power on his skin to enhance his spellcasting. At 2nd level and every two levels thereafter, the mystic inscribes a new tattoo on his body, chosen from the list below. Mystic tattoos do not occupy magic item or tattoo slots on his body. The mystic can select each tattoo more than once; the effects of multiple tattoos are noted in their descriptions.
 
 - **Binding Trine**: This triangular design allows the mystic to transform a hostile spell affecting him into a magical tattoo, similar to a reservoir tattoo. When the mystic fails a saving throw against a spell of 3rd level or lower that targets only him, he gets a chance to identify it with a [Spellcraft](../../rules/skills/spellcraft.md) check (DC 15 + spell level). If he succeeds at this check, he can sacrifice a prepared spell or spell slot of equal or higher level as an immediate action to bind the spell, suppressing its effects and suspending its duration for a number of rounds equal to his level. Only spells with a duration longer than instantaneous can be bound this way, and only one spell can be held at a time. While bound, the spell can be dispelled or removed as normal. The maximum spell level this tattoo can bind increases by 2 each time it’s selected, to a maximum of 9th level.
 - **Blistering Bands**: These glowing, angular markings encircle the mystic’s arms. Whenever the mystic casts an evocation spell that deals energy damage, he can spend a swift action to surround himself with an aura of that same energy until the beginning of his next turn. Creatures adjacent to the mystic when he activates the ability or that end their turns adjacent to him take 1d6 points of damage of the same energy type as the evocation spell. If the spell deals more than one type of energy damage, the mystic must choose which of those types of damage his aura deals. Selecting this tattoo additional times increases the damage dealt by 2d6, to a maximum of 7d6.
@@ -55,10 +61,18 @@ The following are class features of the sigil mystic prestige class.
 - **Swallowing Glyph**: This ornate, shadowy glyph absorbs the souls of those the mystic slays. Any time the mystic slays a creature with a necromancy spell, he can spend a swift action to gain a number of temporary hit points equal to the spell’s level. Temporary hit points gained from subsequent uses of this ability do not stack. The second time this tattoo is selected, the number of temporary hit points increases to double the spell’s level. The third time it’s selected, the number increases to triple the spell’s level.
 - **Twisting Script**: The indistinct shapes that form this spiral tattoo twist into legible text when scrutinized. Creatures within 30 feet of the mystic that can see him are affected by his language-dependent enchantment spells, even if they do not understand the language he speaks. Creatures without a language are immune to this effect. The range of the effect increases by 30 feet each time this tattoo is selected, to a maximum of 150 feet.
 
-**Magical Tattoo Artist**: At 3rd level, a sigil mystic gains [Inscribe Magical Tattoo](../../rules/feats/inscribe-magical-tattoo.md) as a bonus feat.
+#### Magical Tattoo Artist
 
-**Skillful Tattooist (Ex)**: At 5th level, as long as a sigil mystic is using his [Craft](../../rules/skills/craft.md) (calligraphy, paintings, or tattoos) skill to craft magical tattoos on his own body, he can do so in half the time it would normally take.
+At 3rd level, a sigil mystic gains [Inscribe Magical Tattoo](../../rules/feats/inscribe-magical-tattoo.md) as a bonus feat.
 
-**Tattoo Mastery (Ex)**: At 7th level, a sigil mystic can use his own ability score modifier and relevant feats to set the DC for spell tattoos he crafts, and can use his own caster level if it is higher than that of the spell tattoo he is crafting (similar to a caster using a staff).
+#### Skillful Tattooist (Ex)
 
-**Potent Tattoos (Ex)**: At 9th level, when a sigil mystic uses his caster level to determine the DC of one the spell tattoos he has crafted, he does so at +1 caster level.
+At 5th level, as long as a sigil mystic is using his [Craft](../../rules/skills/craft.md) (calligraphy, paintings, or tattoos) skill to craft magical tattoos on his own body, he can do so in half the time it would normally take.
+
+#### Tattoo Mastery (Ex)
+
+At 7th level, a sigil mystic can use his own ability score modifier and relevant feats to set the DC for spell tattoos he crafts, and can use his own caster level if it is higher than that of the spell tattoo he is crafting (similar to a caster using a staff).
+
+#### Potent Tattoos (Ex)
+
+At 9th level, when a sigil mystic uses his caster level to determine the DC of one the spell tattoos he has crafted, he does so at +1 caster level.

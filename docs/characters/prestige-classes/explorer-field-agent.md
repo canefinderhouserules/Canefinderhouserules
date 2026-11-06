@@ -39,9 +39,13 @@ The explorer field agent’s class skills are Bluff (Cha), Climb (Str), Diplomac
 
 The following are class features of the explorer field agent prestige class.
 
-**Weapon and Armor Proficiency**: An explorer field agent gains no additional weapon or armor proficiencies.
+#### Weapon and Armor Proficiency
 
-**Field Training**: An explorer field agent receives additional training that aids her in her fulfilling her duty to explore, report, and cooperate. She can’t receive the same training more than once unless otherwise noted. An explorer field agent gains additional field training at 3rd level and every 3 levels thereafter.
+An explorer field agent gains no additional weapon or armor proficiencies.
+
+#### Field Training
+
+An explorer field agent receives additional training that aids her in her fulfilling her duty to explore, report, and cooperate. She can’t receive the same training more than once unless otherwise noted. An explorer field agent gains additional field training at 3rd level and every 3 levels thereafter.
 
 *Animal Magnetism (Ex)*: This ability functions as the [druid’s wild empathy](../classes/druid.md#wild-empathy-ex) class ability, except the explorer field agent’s effective druid level to determine her wild empathy bonus is equal to her explorer field agent level. Levels in explorer field agent stack with levels from other classes that grant wild empathy for the purpose of determining an explorer field agent’s total wild empathy bonus.
 
@@ -61,7 +65,9 @@ The following are class features of the explorer field agent prestige class.
 
 *Trapfinding*: This training functions as the rogue class feature of the same name. Levels in explorer field agent stack with levels from other classes that grant this ability for the purpose of determining an explorer field agent’s total trapfinding bonus.
 
-**Wayfinder Upgrade**: At 1st level and every 3 levels thereafter, an explorer field agent can add an additional ability to her *wayfinder*. These abilities must be added to a standard *wayfinder *(see *explorer Campaign Setting: The Inner Sea World Guide* 299), not to a variant or modified *wayfinder *(though an explorer field agent can possess more than one *wayfinder* at a time, if she chooses). If an explorer field agent loses her upgraded *wayfinder*, she can purchase a new one at the normal cost plus 100 gp for each explorer field agent level she possesses, keeping all previously selected upgrades. An explorer field agent can choose from the listed *wayfinder* upgrades. Any upgrades that grant additional spell effects use the *wayfinder’s* caster level or the explorer field agent’s class level (whichever is higher) to determine effects that depend on caster level.
+#### Wayfinder Upgrade
+
+At 1st level and every 3 levels thereafter, an explorer field agent can add an additional ability to her *wayfinder*. These abilities must be added to a standard *wayfinder *(see *explorer Campaign Setting: The Inner Sea World Guide* 299), not to a variant or modified *wayfinder *(though an explorer field agent can possess more than one *wayfinder* at a time, if she chooses). If an explorer field agent loses her upgraded *wayfinder*, she can purchase a new one at the normal cost plus 100 gp for each explorer field agent level she possesses, keeping all previously selected upgrades. An explorer field agent can choose from the listed *wayfinder* upgrades. Any upgrades that grant additional spell effects use the *wayfinder’s* caster level or the explorer field agent’s class level (whichever is higher) to determine effects that depend on caster level.
 
 *Dancing Lights*: The explorer field agent replaces her *wayfinder’s* ability to cast [*light*](../../magic/spells/light.md) with the ability to cast [*dancing lights*](../../magic/spells/dancing-lights.md) at will.
 
@@ -79,6 +85,10 @@ The following are class features of the explorer field agent prestige class.
 
 *Stabilize*: The wayfinder can be used to cast [*stabilize*](../../magic/spells/stabilize.md) at will.
 
-**Bonus Feat**: At 2nd level and every 3 levels thereafter, an explorer field agent can select a bonus feat. Each of these bonus feats must be Skill Focus or a teamwork feat. The explorer field agent must meet the prerequisites of the selected bonus feat.
+#### Bonus Feat
 
-**Legends Uncovered (Su)**: At 10th level, an explorer field agent has the ability to uncover the secrets of the distant past. Once per day when studying or researching a person, place, or artifact of antiquity, the agent can dedicate herself to the task to gain benefits as though she were casting the spell [*legend lore*](../../magic/spells/legend-lore.md).
+At 2nd level and every 3 levels thereafter, an explorer field agent can select a bonus feat. Each of these bonus feats must be Skill Focus or a teamwork feat. The explorer field agent must meet the prerequisites of the selected bonus feat.
+
+#### Legends Uncovered (Su)
+
+At 10th level, an explorer field agent has the ability to uncover the secrets of the distant past. Once per day when studying or researching a person, place, or artifact of antiquity, the agent can dedicate herself to the task to gain benefits as though she were casting the spell [*legend lore*](../../magic/spells/legend-lore.md).

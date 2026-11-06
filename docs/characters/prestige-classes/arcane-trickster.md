@@ -57,15 +57,25 @@ The arcane trickster’s class skills (and the key ability for each skill) are A
 
 All of the following are class features of the arcane trickster prestige class.
 
-**Weapon and Armor Proficiency**: Arcane tricksters gain no proficiency with any weapon or armor.
+#### Weapon and Armor Proficiency
 
-**Spells per Day**: When a new arcane trickster level is gained, the character gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before adding the prestige class. She does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming an arcane trickster, she must decide to which class she adds the new level for purposes of determining spells per day.
+Arcane tricksters gain no proficiency with any weapon or armor.
 
-**Ranged Legerdemain (Su)**: An arcane trickster can use [Disable Device](../../rules/skills/disable-device.md) and Sleight of Hand at a range of 30 feet. Working at a distance increases the normal skill check DC by 5, and an arcane trickster cannot take 10 on this check. Any object to be manipulated must weigh 5 pounds or less. She can only use this ability if she has at least 1 rank in the skill being used.
+#### Spells per Day
 
-**Sneak Attack**: This is exactly like the [rogue ability](../classes/rogue.md#sneak-attack) of the same name. The extra damage dealt increases by +1d6 every other level (2nd, 4th, 6th, 8th, and 10th). If an arcane trickster gets a sneak attack bonus from another source, the bonuses on damage stack.
+When a new arcane trickster level is gained, the character gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before adding the prestige class. She does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming an arcane trickster, she must decide to which class she adds the new level for purposes of determining spells per day.
 
-**Impromptu Sneak Attack (Ex)**: Beginning at 3rd level, once per day, plus one additional time per day for every 2 levels beyond 3rd, an arcane trickster can declare one melee or ranged attack she makes to be a sneak attack (the target can be no more than 30 feet distant if the impromptu sneak attack is a ranged attack). The target of an impromptu sneak attack loses any Dexterity bonus to AC, but only against that attack. The power can be used against any target, but creatures that are not subject to critical hits take no extra damage (though they still lose any Dexterity bonus to AC against the attack).
+#### Ranged Legerdemain (Su)
+
+An arcane trickster can use [Disable Device](../../rules/skills/disable-device.md) and Sleight of Hand at a range of 30 feet. Working at a distance increases the normal skill check DC by 5, and an arcane trickster cannot take 10 on this check. Any object to be manipulated must weigh 5 pounds or less. She can only use this ability if she has at least 1 rank in the skill being used.
+
+#### Sneak Attack
+
+This is exactly like the [rogue ability](../classes/rogue.md#sneak-attack) of the same name. The extra damage dealt increases by +1d6 every other level (2nd, 4th, 6th, 8th, and 10th). If an arcane trickster gets a sneak attack bonus from another source, the bonuses on damage stack.
+
+#### Impromptu Sneak Attack (Ex)
+
+Beginning at 3rd level, once per day, plus one additional time per day for every 2 levels beyond 3rd, an arcane trickster can declare one melee or ranged attack she makes to be a sneak attack (the target can be no more than 30 feet distant if the impromptu sneak attack is a ranged attack). The target of an impromptu sneak attack loses any Dexterity bonus to AC, but only against that attack. The power can be used against any target, but creatures that are not subject to critical hits take no extra damage (though they still lose any Dexterity bonus to AC against the attack).
 
 ??? note "Original rule"
 
@@ -73,11 +83,17 @@ All of the following are class features of the arcane trickster prestige class.
 
 At 7th level, an arcane trickster can use this ability twice per day.
 
-**Tricky Spells (Su)**: Starting at 5th level, an arcane trickster can cast her spells without their somatic or verbal components, as if using the [Still Spell](../../rules/feats/still-spell.md) and [Silent Spell](../../rules/feats/silent-spell.md) feats. Spells cast using this ability do not increase in spell level or casting time. She can use this ability 3 times per day at 5th level and one additional time per every two levels thereafter, to a maximum of 5 times per day at 9th level. The arcane trickster decides to use this ability at the time of casting.
+#### Tricky Spells (Su)
 
-**Invisible Thief (Su)**: At 9th level, an arcane trickster can become invisible, as if under the effects of *greater* *invisibility,* as a free action. She can remain invisible for a number of rounds per day equal to her arcane trickster level. Her caster level for this effect is equal to her caster level. These rounds need not be consecutive.
+Starting at 5th level, an arcane trickster can cast her spells without their somatic or verbal components, as if using the [Still Spell](../../rules/feats/still-spell.md) and [Silent Spell](../../rules/feats/silent-spell.md) feats. Spells cast using this ability do not increase in spell level or casting time. She can use this ability 3 times per day at 5th level and one additional time per every two levels thereafter, to a maximum of 5 times per day at 9th level. The arcane trickster decides to use this ability at the time of casting.
 
-**Surprise Spells**: At 10th level, an arcane trickster can add her sneak attack damage to any spell that deals damage, if the targets are [flat-footed](../../rules/appendices/conditions.md#flat-footed). This additional damage only applies to spells that deal hit point damage, and the additional damage is of the same type as the spell. If the spell allows a saving throw to negate or halve the damage, it also negates or halves the sneak attack damage.
+#### Invisible Thief (Su)
+
+At 9th level, an arcane trickster can become invisible, as if under the effects of *greater* *invisibility,* as a free action. She can remain invisible for a number of rounds per day equal to her arcane trickster level. Her caster level for this effect is equal to her caster level. These rounds need not be consecutive.
+
+#### Surprise Spells
+
+At 10th level, an arcane trickster can add her sneak attack damage to any spell that deals damage, if the targets are [flat-footed](../../rules/appendices/conditions.md#flat-footed). This additional damage only applies to spells that deal hit point damage, and the additional damage is of the same type as the spell. If the spell allows a saving throw to negate or halve the damage, it also negates or halves the sneak attack damage.
 
 ## Thought Thief
 

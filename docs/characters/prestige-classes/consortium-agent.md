@@ -45,13 +45,21 @@ The consortium agent's class skills (and the key ability for each skill) are Blu
 
 The following are class features of the consortium agent prestige class.
 
-**Trap Sense (Ex)**: A consortium agent gains a +1 bonus to her AC and on Reflex saves to avoid traps; this bonus increases by 1 at 4th level and every 3 levels thereafter. This ability stacks with any trap sense bonuses that are gained from other classes.
+#### Trap Sense (Ex)
 
-**Trapfinding (Ex)**: This ability functions as per the rogue class feature. Levels in consortium agent stack with levels from any other class that grants this ability for the purposes of determining a consortium agent’s total trapfinding bonus.
+A consortium agent gains a +1 bonus to her AC and on Reflex saves to avoid traps; this bonus increases by 1 at 4th level and every 3 levels thereafter. This ability stacks with any trap sense bonuses that are gained from other classes.
 
-**Aligned Class (Ex)**: At 2nd level, a consortium agent must choose a class they belonged to before adding the prestige class to be their aligned class. They gain all the class features of this class, essentially adding every consortium agent level beyond 1st to their aligned class to determine what class features they gain. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class, but gain all other class features of their aligned class as well as those of this prestige class.
+#### Trapfinding (Ex)
 
-**Agency Secrets**: At 2nd level and every 2 levels thereafter, a consortium agent gains one of the following agency secrets. A consortium agent can’t select an individual agency secret more than once (unless otherwise stated in the secret’s text).
+This ability functions as per the rogue class feature. Levels in consortium agent stack with levels from any other class that grants this ability for the purposes of determining a consortium agent’s total trapfinding bonus.
+
+#### Aligned Class (Ex)
+
+At 2nd level, a consortium agent must choose a class they belonged to before adding the prestige class to be their aligned class. They gain all the class features of this class, essentially adding every consortium agent level beyond 1st to their aligned class to determine what class features they gain. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class, but gain all other class features of their aligned class as well as those of this prestige class.
+
+#### Agency Secrets
+
+At 2nd level and every 2 levels thereafter, a consortium agent gains one of the following agency secrets. A consortium agent can’t select an individual agency secret more than once (unless otherwise stated in the secret’s text).
 
 *Bluster (Ex)*: The agent takes no penalty on [Intimidate](../../rules/skills/intimidate.md) checks against larger creatures, and larger creatures gain no bonus on Intimidate checks against her.
 
@@ -71,18 +79,30 @@ The following are class features of the consortium agent prestige class.
 
 *Vigilante Agent (Ex)*: The agent with vigilante class levels can select one social talent for which she qualifies. If she can gain vigilante talents from her vigilante class levels, she can instead select one vigilante talent for which she qualifies. Her consortium agent levels stack with her vigilante class levels for any such talents she has with level-dependent effects, whether they were gained with this prestige class or another class. An agent with at least 1 vigilante level can select this agency secret twice.
 
-**Mask Alignment (Su)**: At 2nd level, as a standard action, a consortium agent can alter her alignment aura to deceive effects that detect alignment. She can emulate a different aura of her choice or to radiate no alignment aura. This affects only alignment detection, not effects that cause harm or are otherwise based on alignment. This effect lasts until she dismisses it or changes her alignment aura again.
+#### Mask Alignment (Su)
+
+At 2nd level, as a standard action, a consortium agent can alter her alignment aura to deceive effects that detect alignment. She can emulate a different aura of her choice or to radiate no alignment aura. This affects only alignment detection, not effects that cause harm or are otherwise based on alignment. This effect lasts until she dismisses it or changes her alignment aura again.
 
 At 6th level, a consortium agent targeted with an effect that detects alignment or with any alignment-based effect can automatically identify the effect by attempting a [Spellcraft](../../rules/skills/spellcraft.md) check. If successful, she can mask her alignment as an immediate action.
 
 At 10th level, when a consortium agent assumes a false alignment aura, she is treated as having that alignment for all effects of magic items, spells, and spell-like or supernatural effects (such as [*forbiddance*](../../magic/spells/forbiddance.md), [*sympathy*](../../magic/spells/sympathy.md), or an unholy weapon), including magical traps based on alignment. While masking her alignment, she ignores these types of effects that relate to her true alignment.
 
-**Ambush Trap (Ex)**: At 3rd level, a consortium agent can specially rig a mechanical trap she has either crafted or bypassed by exceeding its [Disable Device](../../rules/skills/disable-device.md) DC by 10. A trap so rigged can be triggered by the agent as a move action as long as she is adjacent to the trap. She adds her trap sense bonus to the trap’s [Perception](../../rules/skills/perception.md) DC and to the trap’s attack rolls, and adds her sneak attack damage to the damage the trap deals to affected creatures that are [flat-footed](../../rules/appendices/conditions.md#flat-footed) or otherwise denied their Dexterity bonus to AC.
+#### Ambush Trap (Ex)
 
-**Sneak Attack (Ex)**: At 3rd level, a consortium agent gains sneak attack as per the rogue ability. Initially, the extra damage dealt is 1d6, and it increases by 1d6 at 6th level and at 9th level. If she gains a sneak attack bonus from another source, the bonuses on damage stack.
+At 3rd level, a consortium agent can specially rig a mechanical trap she has either crafted or bypassed by exceeding its [Disable Device](../../rules/skills/disable-device.md) DC by 10. A trap so rigged can be triggered by the agent as a move action as long as she is adjacent to the trap. She adds her trap sense bonus to the trap’s [Perception](../../rules/skills/perception.md) DC and to the trap’s attack rolls, and adds her sneak attack damage to the damage the trap deals to affected creatures that are [flat-footed](../../rules/appendices/conditions.md#flat-footed) or otherwise denied their Dexterity bonus to AC.
 
-**Crucial Taunt (Ex)**: At 5th level, a consortium agent can combine smugness and mockery with [Bluff](../../rules/skills/bluff.md) checks to feint, Intimidate checks to demoralize, and dirty trick combat maneuver checks, gaining a bonus equal to half her class level on these checks. She can then delay the effect of the successful check for up to 1 day per class level, spending an immediate action to trigger it later. She must be within 60 feet of her target to use or trigger a crucial taunt. This is a language-dependent effect.
+#### Sneak Attack (Ex)
 
-**Improved Trap Sense (Ex)**: At 7th level, a consortium agent’s trap sense bonus applies to saving throws to avoid trap effects.
+At 3rd level, a consortium agent gains sneak attack as per the rogue ability. Initially, the extra damage dealt is 1d6, and it increases by 1d6 at 6th level and at 9th level. If she gains a sneak attack bonus from another source, the bonuses on damage stack.
 
-**Remote Activation (Ex)**: At 8th level, a consortium agent can use her ambush trap ability on a trap up to 30 feet away.
+#### Crucial Taunt (Ex)
+
+At 5th level, a consortium agent can combine smugness and mockery with [Bluff](../../rules/skills/bluff.md) checks to feint, Intimidate checks to demoralize, and dirty trick combat maneuver checks, gaining a bonus equal to half her class level on these checks. She can then delay the effect of the successful check for up to 1 day per class level, spending an immediate action to trigger it later. She must be within 60 feet of her target to use or trigger a crucial taunt. This is a language-dependent effect.
+
+#### Improved Trap Sense (Ex)
+
+At 7th level, a consortium agent’s trap sense bonus applies to saving throws to avoid trap effects.
+
+#### Remote Activation (Ex)
+
+At 8th level, a consortium agent can use her ambush trap ability on a trap up to 30 feet away.

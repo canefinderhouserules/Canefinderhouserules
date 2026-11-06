@@ -41,22 +41,42 @@ The ritualist's class skills (and the key ability for each skill) are Appraise (
 
 The following are class features of the ritualist prestige class.
 
-**Spells per Day**: When a ritualist gains a level, she gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before adding the prestige class. She does not, however, gain any other benefits a character of that class would have gained, except for additional spells per day, spells known (if a spontaneous spellcaster), and an increased effective level of spellcasting. If a character has more than one spellcasting class, she must decide to which class she adds the new level for the purpose of determining spells per day.
+#### Spells per Day
 
-**Esoteric Discovery (Ex)**: At 1st level, 3rd level, and every 3 levels thereafter, a ritualist selects one skill. When using that skill to cast an occult ritual, the ritualist can take 10 on the skill check, but only once per skill during any given ritual.
+When a ritualist gains a level, she gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before adding the prestige class. She does not, however, gain any other benefits a character of that class would have gained, except for additional spells per day, spells known (if a spontaneous spellcaster), and an increased effective level of spellcasting. If a character has more than one spellcasting class, she must decide to which class she adds the new level for the purpose of determining spells per day.
 
-**Student of Mysteries (Ex)**: A ritualist adds half her ritualist level (minimum 1) as a bonus on Intelligence checks made to learn new occult rituals.
+#### Esoteric Discovery (Ex)
 
-**Stabilize Ritual (Su)**: At 2nd level, once per day as a full-round action, a ritualist can refocus a ritual that has been paused, removing any increases to the ritual's skill check DCs that have accrued thus far due to pausing the ritual.
+At 1st level, 3rd level, and every 3 levels thereafter, a ritualist selects one skill. When using that skill to cast an occult ritual, the ritualist can take 10 on the skill check, but only once per skill during any given ritual.
 
-**Occult Expertise (Ex)**: At 3rd level, a ritualist adds half her class level as a bonus on all skill checks when using occult skill unlocks. Additionally, a ritualist can take 10 on skill checks when using occult skill unlocks with skills chosen with the esoteric discovery ability.
+#### Student of Mysteries (Ex)
 
-**Cautious Rituals (Su)**: At 4th level, once per day when beginning to cast a ritual as the primary caster, a ritualist can decide to cast the ritual as a cautious ritual. The DCs of a cautious ritual's skill checks increase by half the ritual's level (rounded down, minimum 1). However, if the ritual fails, there is a cumulative 10% chance per ritualist level (40% at 4th level, 50% at 5th level, and so on) that the ritual causes none of its usual failure or backlash effects. The ritual still causes backlash if it succeeds. At 6th level, the ritualist's successful cautious rituals do not cause any backlash to any of their secondary casters. At 8th level, a ritualist can cast a cautious ritual without increasing the ritual's skill check DCs.
+A ritualist adds half her ritualist level (minimum 1) as a bonus on Intelligence checks made to learn new occult rituals.
 
-**Expedited Rituals (Su)**: At 5th level, once per day when beginning to cast a ritual as the primary caster, a ritualist can decide to cast the ritual as an expedited ritual. The DCs of an expedited ritual's skill checks increase by half the ritual's level (rounded down). However, the ritualist can cast the ritual as soon as its casters succeed at the requisite number of skill checks rather than waiting for the ritual's full casting time to elapse. A ritual can be both cautious and expedited, but the penalties stack. At 9th level, a ritualist can cast an expedited ritual without increasing the ritual's skill check DCs.
+#### Stabilize Ritual (Su)
 
-**Independent Rituals (Su)**: At 7th level, a ritualist becomes so adept at casting rituals that secondary casters are unnecessary. Once per day when beginning to cast a ritual as the primary caster, the ritualist can decide to cast the ritual as an independent ritual. The ritualist gains a bonus on all skill checks attempted as part of casting the ritual equal to half the ritualist's level, and she can always take 10 when using skills she chose for her esoteric discovery ability. However, none of the ritual's secondary casters, if any, can attempt any of the ritual's skill checks. The ritualist can still include secondary casters as part of a ritual, if it allows secondary casters, to grant them the ritual's effects. An independent ritual can also be cast as an expedited or cautious ritual (or both).
+At 2nd level, once per day as a full-round action, a ritualist can refocus a ritual that has been paused, removing any increases to the ritual's skill check DCs that have accrued thus far due to pausing the ritual.
 
-**Focused Rituals (Su)**: At 8th level, a ritualist can maintain a ritual's focus even under dire circumstances. While performing a ritual as the primary caster, the ritualist can continue the ritual even if some or all of its secondary casters are incapacitated, killed, or moved out of range of the ritual.
+#### Occult Expertise (Ex)
 
-**Master of Mysteries (Su)**: At 10th level, a ritualist's knowledge of the occult reaches unfathomable depths, and she can perform rituals with disturbing alacrity. Once per day when casting a ritual as the primary caster, the ritualist can reduce the casting time from 10 minutes per ritual level to 1 round per ritual level, or from 1 hour per ritual level to 1 minute per ritual level. One of the ritual's casters attempts a check every round or every minute of the casting instead of every 10 minutes or every hour, as appropriate.
+At 3rd level, a ritualist adds half her class level as a bonus on all skill checks when using occult skill unlocks. Additionally, a ritualist can take 10 on skill checks when using occult skill unlocks with skills chosen with the esoteric discovery ability.
+
+#### Cautious Rituals (Su)
+
+At 4th level, once per day when beginning to cast a ritual as the primary caster, a ritualist can decide to cast the ritual as a cautious ritual. The DCs of a cautious ritual's skill checks increase by half the ritual's level (rounded down, minimum 1). However, if the ritual fails, there is a cumulative 10% chance per ritualist level (40% at 4th level, 50% at 5th level, and so on) that the ritual causes none of its usual failure or backlash effects. The ritual still causes backlash if it succeeds. At 6th level, the ritualist's successful cautious rituals do not cause any backlash to any of their secondary casters. At 8th level, a ritualist can cast a cautious ritual without increasing the ritual's skill check DCs.
+
+#### Expedited Rituals (Su)
+
+At 5th level, once per day when beginning to cast a ritual as the primary caster, a ritualist can decide to cast the ritual as an expedited ritual. The DCs of an expedited ritual's skill checks increase by half the ritual's level (rounded down). However, the ritualist can cast the ritual as soon as its casters succeed at the requisite number of skill checks rather than waiting for the ritual's full casting time to elapse. A ritual can be both cautious and expedited, but the penalties stack. At 9th level, a ritualist can cast an expedited ritual without increasing the ritual's skill check DCs.
+
+#### Independent Rituals (Su)
+
+At 7th level, a ritualist becomes so adept at casting rituals that secondary casters are unnecessary. Once per day when beginning to cast a ritual as the primary caster, the ritualist can decide to cast the ritual as an independent ritual. The ritualist gains a bonus on all skill checks attempted as part of casting the ritual equal to half the ritualist's level, and she can always take 10 when using skills she chose for her esoteric discovery ability. However, none of the ritual's secondary casters, if any, can attempt any of the ritual's skill checks. The ritualist can still include secondary casters as part of a ritual, if it allows secondary casters, to grant them the ritual's effects. An independent ritual can also be cast as an expedited or cautious ritual (or both).
+
+#### Focused Rituals (Su)
+
+At 8th level, a ritualist can maintain a ritual's focus even under dire circumstances. While performing a ritual as the primary caster, the ritualist can continue the ritual even if some or all of its secondary casters are incapacitated, killed, or moved out of range of the ritual.
+
+#### Master of Mysteries (Su)
+
+At 10th level, a ritualist's knowledge of the occult reaches unfathomable depths, and she can perform rituals with disturbing alacrity. Once per day when casting a ritual as the primary caster, the ritualist can reduce the casting time from 10 minutes per ritual level to 1 round per ritual level, or from 1 hour per ritual level to 1 minute per ritual level. One of the ritual's casters attempts a check every round or every minute of the casting instead of every 10 minutes or every hour, as appropriate.

@@ -51,22 +51,40 @@ The evangelist's class skills (and the key ability for each skill) are Craft (In
 
 The following are class features of the evangelist prestige class.
 
-**Weapon and Armor Proficiency**: An evangelist is proficient with all [simple weapons](../../equipment/weapons-simple.md) and [light armor](../../equipment/armor.md). An evangelist also gains weapon proficiency with her chosen deity's favored weapon.
+#### Weapon and Armor Proficiency
 
-**Devotion (Ex)**: In order to maintain the abilities granted by this prestige class, including all abilities gained from aligned class (see below), an evangelist must remain faithful to her chosen deity and uphold its tenets. An evangelist who flagrantly violates them loses all class features of this prestige class until she atones, as an ex-cleric.
+An evangelist is proficient with all [simple weapons](../../equipment/weapons-simple.md) and [light armor](../../equipment/armor.md). An evangelist also gains weapon proficiency with her chosen deity's favored weapon.
 
-**Skilled**: Evangelists possess a range of skills across multiple disciplines. At 1st level, an evangelist selects two skills to add to her class skill list. Once selected, these class skills can't be changed.
+#### Devotion (Ex)
 
-**Aligned Class (Ex)**: Evangelists come from many different backgrounds, and they show an unusual range of diversity. At 2nd level, the evangelist must choose a class she belonged to before adding the prestige class to be her aligned class. She gains all the class features for this class, essentially adding every evangelist level beyond 1st to her aligned class to determine what class features she gains. She still retains the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class, but gains all other class features of her aligned class as well as those of the evangelist prestige class.
+In order to maintain the abilities granted by this prestige class, including all abilities gained from aligned class (see below), an evangelist must remain faithful to her chosen deity and uphold its tenets. An evangelist who flagrantly violates them loses all class features of this prestige class until she atones, as an ex-cleric.
 
-**Protective Grace (Su)**: The evangelist's chosen deity rewards her with heightened awareness and reaction skills, making her more difficult to strike in combat. At 2nd level, the evangelist gains a +1 dodge bonus to AC. This bonus increases to +2 at 7th level. The evangelist loses this bonus when she is denied her Dexterity bonus to AC.
+#### Skilled
 
-**Divine Boon**: As the evangelist gains levels, she gains boons from her deity. At 3rd level and again at 6th level, she gains the 1st-level domain power of a domain granted by her deity (a different domain each time, if the deity grants more than one), using her character level as her effective cleric level. At 9th level, she gains the 8th-level domain power (or, for a domain without one, the 6th-level domain power) of one of the domains she has already chosen. Powers that grant spell-like abilities use her total character level as the caster level. Boons gained through this class do not stack with domain powers she already possesses from another class; if she already has the domain, she gains a different domain of the deity instead.
+Evangelists possess a range of skills across multiple disciplines. At 1st level, an evangelist selects two skills to add to her class skill list. Once selected, these class skills can't be changed.
 
-**Gift of Tongues**: At 4th level, the evangelist may select a new language as a gift from her chosen deity. She gains the ability to speak and write this new language fluently, so as to better communicate with those she meets in the course of her travels. At 8th level, the evangelist selects a second language to learn. The ability to comprehend these languages is an instantaneous divine gift, and spells and effects that dispel persistent effects can't remove the evangelist's gift of tongues.
+#### Aligned Class (Ex)
 
-**Multitude of Talents (Ex)**: The evangelist finds herself in many strange situations requiring a variety of skills. Starting at 5th level, the evangelist gains a +4 sacred or profane bonus on any skill check attempted with a skill in which the character has no ranks. This bonus applies only to skill checks that can be made untrained.
+Evangelists come from many different backgrounds, and they show an unusual range of diversity. At 2nd level, the evangelist must choose a class she belonged to before adding the prestige class to be her aligned class. She gains all the class features for this class, essentially adding every evangelist level beyond 1st to her aligned class to determine what class features she gains. She still retains the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class, but gains all other class features of her aligned class as well as those of the evangelist prestige class.
 
-**Spiritual Form (Su)**: Upon reaching 10th level, the evangelist gains the ability to assume a spiritual form. Assuming this form is a standard action, and the evangelist can remain in spiritual form for a number of minutes per day equal to her character level. This duration does not need to be consecutive, but it must be used in 1-minute increments. Returning to her normal form is a free action.
+#### Protective Grace (Su)
+
+The evangelist's chosen deity rewards her with heightened awareness and reaction skills, making her more difficult to strike in combat. At 2nd level, the evangelist gains a +1 dodge bonus to AC. This bonus increases to +2 at 7th level. The evangelist loses this bonus when she is denied her Dexterity bonus to AC.
+
+#### Divine Boon
+
+As the evangelist gains levels, she gains boons from her deity. At 3rd level and again at 6th level, she gains the 1st-level domain power of a domain granted by her deity (a different domain each time, if the deity grants more than one), using her character level as her effective cleric level. At 9th level, she gains the 8th-level domain power (or, for a domain without one, the 6th-level domain power) of one of the domains she has already chosen. Powers that grant spell-like abilities use her total character level as the caster level. Boons gained through this class do not stack with domain powers she already possesses from another class; if she already has the domain, she gains a different domain of the deity instead.
+
+#### Gift of Tongues
+
+At 4th level, the evangelist may select a new language as a gift from her chosen deity. She gains the ability to speak and write this new language fluently, so as to better communicate with those she meets in the course of her travels. At 8th level, the evangelist selects a second language to learn. The ability to comprehend these languages is an instantaneous divine gift, and spells and effects that dispel persistent effects can't remove the evangelist's gift of tongues.
+
+#### Multitude of Talents (Ex)
+
+The evangelist finds herself in many strange situations requiring a variety of skills. Starting at 5th level, the evangelist gains a +4 sacred or profane bonus on any skill check attempted with a skill in which the character has no ranks. This bonus applies only to skill checks that can be made untrained.
+
+#### Spiritual Form (Su)
+
+Upon reaching 10th level, the evangelist gains the ability to assume a spiritual form. Assuming this form is a standard action, and the evangelist can remain in spiritual form for a number of minutes per day equal to her character level. This duration does not need to be consecutive, but it must be used in 1-minute increments. Returning to her normal form is a free action.
 
 The evangelist's spiritual form grants her telepathy to a range of 100 feet, as well as two variable abilities. Upon reaching 10th level, the evangelist must choose the form of these two abilities, and once she has selected them they can't be changed. First, she chooses one ability score to which she gains a +4 bonus when in spiritual form. Second, she chooses one physical transformation from the following to gain when she transforms: wings (fly speed of 40 feet with good maneuverability), gills (ability to breathe water and a swim speed of 30 feet), or a single natural attack (a claw, bite, gore, slam, or tail sting that deals damage as appropriate for the evangelist's size) as well as a temporary appendage capable of making such an attack if necessary.

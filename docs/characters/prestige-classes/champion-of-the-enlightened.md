@@ -51,40 +51,72 @@ The champion of the enlightened's class skills (and the key ability for each ski
 
 The following are class features of the champion of the enlightened prestige class.
 
-**Weapon and Armor Proficiency**: A champion gains no additional weapon or armor proficiencies.
+#### Weapon and Armor Proficiency
 
-**Detect Chaos (Sp)**: This ability functions like a [paladin’s detect evil](../classes/paladin.md#detect-evil-sp) ability, but detects chaos instead of evil.
+A champion gains no additional weapon or armor proficiencies.
 
-**Martial Artist (Ex)**: The class levels of a champion stack with monk levels for determining the effect of his AC bonus, flurry of blows, stunning fist, and unarmed strike class features. He can choose to use Wisdom or Charisma for the effects of these abilities, and he gains any of them that his monk levels have not unlocked yet.
+#### Detect Chaos (Sp)
+
+This ability functions like a [paladin’s detect evil](../classes/paladin.md#detect-evil-sp) ability, but detects chaos instead of evil.
+
+#### Martial Artist (Ex)
+
+The class levels of a champion stack with monk levels for determining the effect of his AC bonus, flurry of blows, stunning fist, and unarmed strike class features. He can choose to use Wisdom or Charisma for the effects of these abilities, and he gains any of them that his monk levels have not unlocked yet.
 
 ??? note "Original rule"
 
     **Martial Artist (Ex)**: The class levels of a champion stack with monk levels for determining the effect of his AC bonus, flurry of blows, stunning fist, and unarmed strike class features.
 
-**Smite Chaos (Su)**: At 1st level, a champion gains an additional use of his [paladin’s smite evil](../classes/paladin.md#smite-evil-su) ability. In addition, he can choose to use his smite evil ability to smite chaos instead, affecting chaotic-aligned creatures and dealing 2 points of damage per class level on the first successful attack against outsiders with the chaotic subtype, chaotic-aligned aberrations, and fey. Levels in this class stack with paladin levels for the purpose of determining how much damage a paladin deals to targets of his smite. A champion cannot have both a smite evil and smite chaos effect active at the same time; using one while the other is active immediately ends the older effect. At 8th level, a champion gains an additional use of his smite evil ability.
+#### Smite Chaos (Su)
 
-**Aligned Class (Ex)**: At 2nd level, a champion of the enlightened must choose a class they belonged to before adding the prestige class to be their aligned class. They gain all the class features of this class, essentially adding every champion of the enlightened level beyond 1st to their aligned class to determine what class features they gain. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class, but gain all other class features of their aligned class as well as those of this prestige class. A champion of the enlightened gains this ability only if they qualified with levels of paladin of perfection, and it only works with that archetype.
+At 1st level, a champion gains an additional use of his [paladin’s smite evil](../classes/paladin.md#smite-evil-su) ability. In addition, he can choose to use his smite evil ability to smite chaos instead, affecting chaotic-aligned creatures and dealing 2 points of damage per class level on the first successful attack against outsiders with the chaotic subtype, chaotic-aligned aberrations, and fey. Levels in this class stack with paladin levels for the purpose of determining how much damage a paladin deals to targets of his smite. A champion cannot have both a smite evil and smite chaos effect active at the same time; using one while the other is active immediately ends the older effect. At 8th level, a champion gains an additional use of his smite evil ability.
 
-**Ki Pool (Su)**: At 2nd level, a champion gains a ki pool equal to 1/2 his class level + his Wisdom modifier; this functions like the [monk ability](../classes/monk.md#ki-pool-su) of the same name, and levels in this class stack with levels in other classes that grant a ki pool. In addition to the normal uses of this ki pool, a champion may expend 2 ki points to trigger either his lay on hands ability (if he has it) or his smite evil ability. His class levels stack with paladin levels when determining the effect of such abilities.
+#### Aligned Class (Ex)
 
-**Pursuit of Knowledge (Ex)**: At 2nd level, a champion adds 1/2 his class level on all Knowledge checks and can make Knowledge skill checks untrained.
+At 2nd level, a champion of the enlightened must choose a class they belonged to before adding the prestige class to be their aligned class. They gain all the class features of this class, essentially adding every champion of the enlightened level beyond 1st to their aligned class to determine what class features they gain. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class, but gain all other class features of their aligned class as well as those of this prestige class. A champion of the enlightened gains this ability only if they qualified with levels of paladin of perfection, and it only works with that archetype.
 
-**Sweeping Smite (Ex)**: At 3rd level, as a standard action, a champion can make a single unarmed strike while using his smite evil or smite chaos ability. If the attack hits, he can make another attack at the same bonus against an evil or chaotic creature adjacent to the first and also within reach. He gains the benefits of smite chaos or smite evil (whichever he was already using), except for additional damage for the first attack, against that creature until the beginning of his next turn. This does not require an additional daily use of smite evil or smite chaos.
+#### Ki Pool (Su)
+
+At 2nd level, a champion gains a ki pool equal to 1/2 his class level + his Wisdom modifier; this functions like the [monk ability](../classes/monk.md#ki-pool-su) of the same name, and levels in this class stack with levels in other classes that grant a ki pool. In addition to the normal uses of this ki pool, a champion may expend 2 ki points to trigger either his lay on hands ability (if he has it) or his smite evil ability. His class levels stack with paladin levels when determining the effect of such abilities.
+
+#### Pursuit of Knowledge (Ex)
+
+At 2nd level, a champion adds 1/2 his class level on all Knowledge checks and can make Knowledge skill checks untrained.
+
+#### Sweeping Smite (Ex)
+
+At 3rd level, as a standard action, a champion can make a single unarmed strike while using his smite evil or smite chaos ability. If the attack hits, he can make another attack at the same bonus against an evil or chaotic creature adjacent to the first and also within reach. He gains the benefits of smite chaos or smite evil (whichever he was already using), except for additional damage for the first attack, against that creature until the beginning of his next turn. This does not require an additional daily use of smite evil or smite chaos.
 
 At 6th level, a champion can use this ability to attack any number of opponents, as long as each is within his threatened area and adjacent to the previous target. This ability functions similarly to the Cleave and [Great Cleave](../../rules/feats/great-cleave.md) feats, but does not stack with them and does not result in an AC penalty.
 
-**Valiant Stand (Su)**: At 4th level, a champion gains a sacred bonus on attack rolls and to AC equal to 1/2 his class level when adjacent to more than one opponent. He does not gain this bonus if he is also adjacent to an ally.
+#### Valiant Stand (Su)
 
-**Shield the Weak (Su)**: At 5th level, as an immediate action once per round, a champion can shield a number of adjacent allies equal to his Wisdom modifier from a burst, cone, line, or spread effect that allows a Reflex saving throw and which he and his allies are all affected by. The champion must forgo his own saving throw, but adjacent allies gain improved cover against the effect, providing a +4 bonus on Reflex saves and improved evasion against the effect.
+At 4th level, a champion gains a sacred bonus on attack rolls and to AC equal to 1/2 his class level when adjacent to more than one opponent. He does not gain this bonus if he is also adjacent to an ally.
 
-**Skill Mastery**: At 6th level, a champion becomes well practiced in a certain number of his skills. This ability functions exactly like the skill mastery advanced rogue talent.
+#### Shield the Weak (Su)
 
-**Perfect Opening (Ex)**: At 7th level, once per round a champion can make an attack of opportunity against an enemy he threatens when that enemy confirms a critical hit against the champion or an ally. The champion can make this attack of opportunity even if he would be killed or incapacitated by the critical hit, resolving the attack after the critical hit deals damage but before he falls [unconscious](../../rules/appendices/conditions.md#unconscious) or dies. If the champion’s attack of opportunity hits, it is automatically a critical threat.
+At 5th level, as an immediate action once per round, a champion can shield a number of adjacent allies equal to his Wisdom modifier from a burst, cone, line, or spread effect that allows a Reflex saving throw and which he and his allies are all affected by. The champion must forgo his own saving throw, but adjacent allies gain improved cover against the effect, providing a +4 bonus on Reflex saves and improved evasion against the effect.
 
-**One Finger (Su)**: At 8th level, as a standard action, a champion can resolve a single unarmed attack as a melee touch attack.
+#### Skill Mastery
 
-**Perfect Strike (Su)**: At 9th level, a champion can expend 1 point from his ki pool as a swift action to perfect the next unarmed attack he makes before the end of his turn. Attack and damage rolls are rolled twice and the champion selects which result to use.
+At 6th level, a champion becomes well practiced in a certain number of his skills. This ability functions exactly like the skill mastery advanced rogue talent.
 
-**Whirlwind Smite (Ex)**: At 10th level, as a full-round action, a champion can make one unarmed strike against every creature he threatens, as if he possessed the [Whirlwind Attack](../../rules/feats/whirlwind-attack.md) feat (though he can use it only with unarmed strikes). He can also trigger either his smite evil or smite chaos ability while doing so, gaining its benefits against every creature he attacks for a number of rounds equal to his Wisdom bonus.
+#### Perfect Opening (Ex)
 
-**Code of Conduct**: A champion embraces law and goodness as other paladins do, conducting himself with honor and protecting the innocent; he loses all class features if he ever willingly commits an evil act. A champion must avoid entanglements that would distract him from the pursuit of perfection, and may not incur debts nor give loans to others—though he is encouraged to give freely to those in need. He likewise turns away potential followers of any sort, and may not recruit (and must discharge from service, if already acquired) any cohort, follower, animal companion, familiar, special mount, or similar creature.
+At 7th level, once per round a champion can make an attack of opportunity against an enemy he threatens when that enemy confirms a critical hit against the champion or an ally. The champion can make this attack of opportunity even if he would be killed or incapacitated by the critical hit, resolving the attack after the critical hit deals damage but before he falls [unconscious](../../rules/appendices/conditions.md#unconscious) or dies. If the champion’s attack of opportunity hits, it is automatically a critical threat.
+
+#### One Finger (Su)
+
+At 8th level, as a standard action, a champion can resolve a single unarmed attack as a melee touch attack.
+
+#### Perfect Strike (Su)
+
+At 9th level, a champion can expend 1 point from his ki pool as a swift action to perfect the next unarmed attack he makes before the end of his turn. Attack and damage rolls are rolled twice and the champion selects which result to use.
+
+#### Whirlwind Smite (Ex)
+
+At 10th level, as a full-round action, a champion can make one unarmed strike against every creature he threatens, as if he possessed the [Whirlwind Attack](../../rules/feats/whirlwind-attack.md) feat (though he can use it only with unarmed strikes). He can also trigger either his smite evil or smite chaos ability while doing so, gaining its benefits against every creature he attacks for a number of rounds equal to his Wisdom bonus.
+
+#### Code of Conduct
+
+A champion embraces law and goodness as other paladins do, conducting himself with honor and protecting the innocent; he loses all class features if he ever willingly commits an evil act. A champion must avoid entanglements that would distract him from the pursuit of perfection, and may not incur debts nor give loans to others—though he is encouraged to give freely to those in need. He likewise turns away potential followers of any sort, and may not recruit (and must discharge from service, if already acquired) any cohort, follower, animal companion, familiar, special mount, or similar creature.

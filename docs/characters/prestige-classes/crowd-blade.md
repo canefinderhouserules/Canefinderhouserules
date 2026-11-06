@@ -41,38 +41,74 @@ The crowd blade's class skills (and the key ability for each skill) are Acrobati
 
 The following are class features of the crowd blade prestige class.
 
-**Weapon and Armor Proficiency**: A crowd blade gains no proficiency with any weapons or armor.
+#### Weapon and Armor Proficiency
 
-**Bardic Performance**: The crowd blade adds her class level to any other levels in classes that grant the bardic performance ability to determine the effects of her bardic performance but not for the purpose of gaining access to new bardic performances. She also learns the following performances.
+A crowd blade gains no proficiency with any weapons or armor.
 
-**Inspiring Poise (Ex)**: A crowd blade gains a +2 competence bonus on checks with a skill of her choice for as long as she maintains the performance. The bonus increases to +4 at 5th level and +6 at 9th level. The performance is ended by any condition that imposes a penalty to her Dexterity score or immobilizes her.
+#### Bardic Performance
 
-**Dirge of Misfortune (Su)**: A crowd blade of 5th level or higher can use her performance to break the concentration of her enemies, causing them to fail even at simple tasks. Once per round as an immediate action, as long as the crowd blade continues performing, she can force a creature within 30 feet to reroll any d20 roll it just made before the effects are applied. The opponent must use the result of the reroll, which has a –2 penalty. Dirge of misfortune is a mind-affecting ability that relies on audible and visual components.
+The crowd blade adds her class level to any other levels in classes that grant the bardic performance ability to determine the effects of her bardic performance but not for the purpose of gaining access to new bardic performances. She also learns the following performances.
 
-**Master of Disguise (Ex)**: A crowd blade takes no penalties on [Disguise](../../rules/skills/disguise.md) checks to change her gender, race, or age.
+#### Inspiring Poise (Ex)
 
-**Move with the Crowd (Ex)**: When moving through groups of intelligent Small, Medium, or Large creatures that would normally count as difficult terrain, the crowd blade instead moves normally. In addition, she gains a +5 competence bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks to avoid attacks of opportunity or move through an enemy’s square when moving faster than half speed.
+A crowd blade gains a +2 competence bonus on checks with a skill of her choice for as long as she maintains the performance. The bonus increases to +4 at 5th level and +6 at 9th level. The performance is ended by any condition that imposes a penalty to her Dexterity score or immobilizes her.
 
-**Slowing Strike (Su)**: At 2nd level, once per round upon successfully hitting a target with a sneak attack, a crowd blade can choose to deal 1 fewer die of sneak attack damage and instead reduce one of the target’s speeds by 5 feet. Once a target’s speed has been reduced to 0 feet, it is immobilized (but not [helpless](../../rules/appendices/conditions.md#helpless)). A target’s fly speed can be reduced this way only if it uses wings to fly. The movement penalties imposed by slowing strike can be removed by healing the affected target to full hit points or a *lesser restoration* spell.
+#### Dirge of Misfortune (Su)
 
-**Sneak Attack (Ex)**: At 2nd level, a crowd blade gains sneak attack +1d6, as the [rogue ability](../classes/rogue.md#sneak-attack). This extra damage increases by 1d6 at both 6th level and 10th level. These increases stack with sneak attack damage granted by other sources.
+A crowd blade of 5th level or higher can use her performance to break the concentration of her enemies, causing them to fail even at simple tasks. Once per round as an immediate action, as long as the crowd blade continues performing, she can force a creature within 30 feet to reroll any d20 roll it just made before the effects are applied. The opponent must use the result of the reroll, which has a –2 penalty. Dirge of misfortune is a mind-affecting ability that relies on audible and visual components.
 
-**Unexpected Suggestion (Su)**: At 3rd level, once per day, a crowd blade can use [*suggestion*](../../magic/spells/suggestion.md) on a [flat-footed](../../rules/appendices/conditions.md#flat-footed) target. Her caster level is equal to her crowd blade level. The save DC is equal to 10 + 1/2 the crowd blade’s ranks in Bluff + her Intelligence modifier.
+#### Master of Disguise (Ex)
 
-**Hide in the Crowd (Su)**: At 3rd level, a crowd blade can use the [Stealth](../../rules/skills/stealth.md) skill even when the only cover she has is that provided by other creatures.
+A crowd blade takes no penalties on [Disguise](../../rules/skills/disguise.md) checks to change her gender, race, or age.
 
-**Expeditious Advance (Ex)**: At 4th level, a crowd blade’s land speed is faster than normal for her race by 10 feet. This benefit applies only when she is wearing no armor or light armor and not carrying a heavy load. Apply this bonus before modifying the crowd blade’s speed because of any load carried or armor worn.
+#### Move with the Crowd (Ex)
 
-**Perfect Surprise (Ex)**: At 4th level, a crowd blade can deliver a devastating blow to anyone she catches unaware. Whenever she hits a foe with a sneak attack at the end of a charge or while using [Spring Attack](../../rules/feats/spring-attack.md), she can make the blow a perfect surprise as an immediate action. The target must succeed at a Fortitude saving throw (DC = 10 + the crowd blade’s class level + her Intelligence modifier) or fall [unconscious](../../rules/appendices/conditions.md#unconscious) for 1 round per crowd blade level. Once targeted by this ability, a victim is immune to perfect surprise for 24 hours.
+When moving through groups of intelligent Small, Medium, or Large creatures that would normally count as difficult terrain, the crowd blade instead moves normally. In addition, she gains a +5 competence bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks to avoid attacks of opportunity or move through an enemy’s square when moving faster than half speed.
 
-**Crowd Strike (Ex)**: When a crowd blade reaches 6th level, all crowd squares count as enemies threatening adjacent squares for the purpose of determining whether the crowd blade is flanking an opponent. In addition, she can use the Stealth skill to snipe at foes even when making melee attacks as long as she attacks from a square containing at least one other creature within one size category of her.
+#### Slowing Strike (Su)
 
-**Secret Step (Ex)**: At 7th level, a crowd blade’s movement through crowds that would normally be difficult terrain costs only half as many squares of movement as normal. In addition, the Acrobatics bonus she gains from move with the crowd increases to +10.
+At 2nd level, once per round upon successfully hitting a target with a sneak attack, a crowd blade can choose to deal 1 fewer die of sneak attack damage and instead reduce one of the target’s speeds by 5 feet. Once a target’s speed has been reduced to 0 feet, it is immobilized (but not [helpless](../../rules/appendices/conditions.md#helpless)). A target’s fly speed can be reduced this way only if it uses wings to fly. The movement penalties imposed by slowing strike can be removed by healing the affected target to full hit points or a *lesser restoration* spell.
 
-**Cloud the Mind (Su)**: At 7th level, whenever a crowd blade’s opposed Disguise or Stealth check is exceeded by one or more observers’ [Perception](../../rules/skills/perception.md) checks, she can trick the observers into thinking they imagined noticing anything wrong as an immediate action. She attempts a [Bluff](../../rules/skills/bluff.md) check opposed by the targets’ [Sense Motive](../../rules/skills/sense-motive.md) checks. Each target who fails this opposed check ignores the fact that he saw her. The crowd blade also gains an amount of spell resistance equal to 10 + her class level against divination spells. If a spell is foiled by her spell resistance, she learns the spell’s normal effect and can choose a substitute result for the divination rather than causing it to obviously fail.
+#### Sneak Attack (Ex)
 
-**Narrow Miss (Su)**: At 8th level, a crowd blade can dodge erratically as a swift action, gaining 20% concealment until her next turn. She can use this ability once per day for every 2 crowd blade levels she has.
+At 2nd level, a crowd blade gains sneak attack +1d6, as the [rogue ability](../classes/rogue.md#sneak-attack). This extra damage increases by 1d6 at both 6th level and 10th level. These increases stack with sneak attack damage granted by other sources.
 
-**Grandmaster of Disguise (Ex)**: At 9th level, a crowd blade can improvise a disguise using materials on hand that is as effective as one crafted using an actual disguise kit. She gains a +2 circumstance bonus on Disguise checks (this does not stack with the bonus from an actual disguise kit). She can attempt a Disguise check at a –20 penalty to create a disguise as a full-round action.
+#### Unexpected Suggestion (Su)
 
-**Silent Soul (Ex)**: At 10th level, a crowd blade has mastered the ability to still her thoughts and her movements to an amazing degree. The crowd blade gains a +10 circumstance bonus on Stealth checks. She also gains spell resistance 20 against mind-affecting effects. If a spell is foiled by her spell resistance, she learns the spell’s normal effect and can make it appear as if she were affected by it rather than causing it to obviously fail. If the spell provides a telepathic link, it functions normally, but she can disregard whichever commands she desires.
+At 3rd level, once per day, a crowd blade can use [*suggestion*](../../magic/spells/suggestion.md) on a [flat-footed](../../rules/appendices/conditions.md#flat-footed) target. Her caster level is equal to her crowd blade level. The save DC is equal to 10 + 1/2 the crowd blade’s ranks in Bluff + her Intelligence modifier.
+
+#### Hide in the Crowd (Su)
+
+At 3rd level, a crowd blade can use the [Stealth](../../rules/skills/stealth.md) skill even when the only cover she has is that provided by other creatures.
+
+#### Expeditious Advance (Ex)
+
+At 4th level, a crowd blade’s land speed is faster than normal for her race by 10 feet. This benefit applies only when she is wearing no armor or light armor and not carrying a heavy load. Apply this bonus before modifying the crowd blade’s speed because of any load carried or armor worn.
+
+#### Perfect Surprise (Ex)
+
+At 4th level, a crowd blade can deliver a devastating blow to anyone she catches unaware. Whenever she hits a foe with a sneak attack at the end of a charge or while using [Spring Attack](../../rules/feats/spring-attack.md), she can make the blow a perfect surprise as an immediate action. The target must succeed at a Fortitude saving throw (DC = 10 + the crowd blade’s class level + her Intelligence modifier) or fall [unconscious](../../rules/appendices/conditions.md#unconscious) for 1 round per crowd blade level. Once targeted by this ability, a victim is immune to perfect surprise for 24 hours.
+
+#### Crowd Strike (Ex)
+
+When a crowd blade reaches 6th level, all crowd squares count as enemies threatening adjacent squares for the purpose of determining whether the crowd blade is flanking an opponent. In addition, she can use the Stealth skill to snipe at foes even when making melee attacks as long as she attacks from a square containing at least one other creature within one size category of her.
+
+#### Secret Step (Ex)
+
+At 7th level, a crowd blade’s movement through crowds that would normally be difficult terrain costs only half as many squares of movement as normal. In addition, the Acrobatics bonus she gains from move with the crowd increases to +10.
+
+#### Cloud the Mind (Su)
+
+At 7th level, whenever a crowd blade’s opposed Disguise or Stealth check is exceeded by one or more observers’ [Perception](../../rules/skills/perception.md) checks, she can trick the observers into thinking they imagined noticing anything wrong as an immediate action. She attempts a [Bluff](../../rules/skills/bluff.md) check opposed by the targets’ [Sense Motive](../../rules/skills/sense-motive.md) checks. Each target who fails this opposed check ignores the fact that he saw her. The crowd blade also gains an amount of spell resistance equal to 10 + her class level against divination spells. If a spell is foiled by her spell resistance, she learns the spell’s normal effect and can choose a substitute result for the divination rather than causing it to obviously fail.
+
+#### Narrow Miss (Su)
+
+At 8th level, a crowd blade can dodge erratically as a swift action, gaining 20% concealment until her next turn. She can use this ability once per day for every 2 crowd blade levels she has.
+
+#### Grandmaster of Disguise (Ex)
+
+At 9th level, a crowd blade can improvise a disguise using materials on hand that is as effective as one crafted using an actual disguise kit. She gains a +2 circumstance bonus on Disguise checks (this does not stack with the bonus from an actual disguise kit). She can attempt a Disguise check at a –20 penalty to create a disguise as a full-round action.
+
+#### Silent Soul (Ex)
+
+At 10th level, a crowd blade has mastered the ability to still her thoughts and her movements to an amazing degree. The crowd blade gains a +10 circumstance bonus on Stealth checks. She also gains spell resistance 20 against mind-affecting effects. If a spell is foiled by her spell resistance, she learns the spell’s normal effect and can make it appear as if she were affected by it rather than causing it to obviously fail. If the spell provides a telepathic link, it functions normally, but she can disregard whichever commands she desires.

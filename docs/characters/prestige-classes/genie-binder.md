@@ -46,15 +46,25 @@ The genie binder’s class skills (and the key ability for each skill) are Bluff
 
 The following are class features of the genie binder prestige class.
 
-**Weapon and Armor Proficiency**: A genie binder gains no additional weapon or armor proficiencies.
+#### Weapon and Armor Proficiency
 
-**Spells per Day**: At the indicated levels, a genie binder gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before adding the prestige class. She does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a genie binder, she must decide to which class she adds the new level for the purposes of determining spells per day.
+A genie binder gains no additional weapon or armor proficiencies.
 
-**Persuasive**: At 1st level, a genie binder gains Persuasive as a bonus feat.
+#### Spells per Day
 
-**Binding Pool (Su)**: Using a combination of blackmail, contracts, magical finesse, and negotiation, a genie binder can command genies and channel their magic. A genie binder has a binding pool equal to twice her genie binder class level, and the pool recharges each day, typically after she gets a restful night’s sleep. As a free action before attempting a Charisma check or Charisma-based skill check to interact with a genie, the genie binder can expend 1 point from her binding pool to add 1d6 to the result.
+At the indicated levels, a genie binder gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before adding the prestige class. She does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a genie binder, she must decide to which class she adds the new level for the purposes of determining spells per day.
 
-**Elemental Seal (Sp)**: By expending 1 point from her binding pool, a genie binder can touch a creature or solid surface to create a powerful rune known as an elemental seal. At 1st level, a genie binder can create a seal of air. At 2nd, 3rd, and 4th levels, she learns how to create seals of earth, fire, and water, respectively. Creating an elemental seal requires a standard action, and placing it on an unwilling target requires a successful melee touch attack. An elemental seal is a writing-based magical effect whose caster level is equal to the genie binder’s character level, and any associated saving throw is equal to 10 + the genie binder’s class level + the genie binder’s Charisma modifier.
+#### Persuasive
+
+At 1st level, a genie binder gains Persuasive as a bonus feat.
+
+#### Binding Pool (Su)
+
+Using a combination of blackmail, contracts, magical finesse, and negotiation, a genie binder can command genies and channel their magic. A genie binder has a binding pool equal to twice her genie binder class level, and the pool recharges each day, typically after she gets a restful night’s sleep. As a free action before attempting a Charisma check or Charisma-based skill check to interact with a genie, the genie binder can expend 1 point from her binding pool to add 1d6 to the result.
+
+#### Elemental Seal (Sp)
+
+By expending 1 point from her binding pool, a genie binder can touch a creature or solid surface to create a powerful rune known as an elemental seal. At 1st level, a genie binder can create a seal of air. At 2nd, 3rd, and 4th levels, she learns how to create seals of earth, fire, and water, respectively. Creating an elemental seal requires a standard action, and placing it on an unwilling target requires a successful melee touch attack. An elemental seal is a writing-based magical effect whose caster level is equal to the genie binder’s character level, and any associated saving throw is equal to 10 + the genie binder’s class level + the genie binder’s Charisma modifier.
 
 At 1st level, a genie binder can maintain only one elemental seal at a time. If she creates another seal beyond that limit, she chooses one of her seals to end immediately. Otherwise, an elemental seal lasts for 24 hours, and a genie binder can expend 1 point from her binding pool each day to extend the duration of an existing seal by 24 hours.
 
@@ -64,10 +74,18 @@ If a genie binder places an elemental seal on a non-genie creature, that creatur
 
 When placed on a solid surface, an elemental seal functions as a [*glyph of warding*](../../magic/spells/glyph-of-warding.md). The seal can duplicate only the effects of a blast glyph and deals a specific type of damage based on the seal: acid (seal of earth), cold (seal of water), electricity (seal of air), or fire (seal of fire).
 
-**Genie Mastery (Su)**: At 1st level, a genie binder must decide whether to bind a genie minion or pursue spellcasting power. Once this decision is made, it can’t be changed. If she selects a genie minion, she gains an eidolon with the [genie subtype](../classes/unchained-eidolons.md), treating her genie binder level as her effective summoner level; her genie binder levels stack with any summoner levels she has for this purpose, but only for an eidolon with the genie subtype. If she selects spellcasting, she gains the spells-per-day progression noted in the table.
+#### Genie Mastery (Su)
 
-**Genie Summoner (Su)**: At 2nd level, a genie binder adds several types of genie to the creatures she can summon using the indicated *summon monster* spells: djinni (*summon monster V*), efreeti or shaitan (*summon monster VI*), or marid (*summon monster VII*). Each time she summons a genie in this way, she must expend 1 point from her binding pool, and summoned genies cannot cast [*wish*](../../magic/spells/wish.md).
+At 1st level, a genie binder must decide whether to bind a genie minion or pursue spellcasting power. Once this decision is made, it can’t be changed. If she selects a genie minion, she gains an eidolon with the [genie subtype](../classes/unchained-eidolons.md), treating her genie binder level as her effective summoner level; her genie binder levels stack with any summoner levels she has for this purpose, but only for an eidolon with the genie subtype. If she selects spellcasting, she gains the spells-per-day progression noted in the table.
 
-**Extra Seal (Su)**: At 3rd level, a genie binder can maintain up to two elemental seals at a time. At 5th level, she can maintain up to three elemental seals.
+#### Genie Summoner (Su)
 
-**Unstoppable Seal (Su)**: At 5th level, when placing an elemental seal on a genie, the genie binder can expend 1 point from her binding pool to increase the saving throw DC to resist the effect by 2.
+At 2nd level, a genie binder adds several types of genie to the creatures she can summon using the indicated *summon monster* spells: djinni (*summon monster V*), efreeti or shaitan (*summon monster VI*), or marid (*summon monster VII*). Each time she summons a genie in this way, she must expend 1 point from her binding pool, and summoned genies cannot cast [*wish*](../../magic/spells/wish.md).
+
+#### Extra Seal (Su)
+
+At 3rd level, a genie binder can maintain up to two elemental seals at a time. At 5th level, she can maintain up to three elemental seals.
+
+#### Unstoppable Seal (Su)
+
+At 5th level, when placing an elemental seal on a genie, the genie binder can expend 1 point from her binding pool to increase the saving throw DC to resist the effect by 2.

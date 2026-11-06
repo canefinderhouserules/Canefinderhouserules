@@ -45,21 +45,35 @@ The loremaster’s class skills (and the key ability for each skill) are Apprais
 
 All of the following are Class Features of the loremaster prestige class.
 
-**Weapon and Armor Proficiency**: Loremasters gain no proficiency with any weapon or armor.
+#### Weapon and Armor Proficiency
 
-**Spells per Day/Spells Known**: When a new loremaster level is gained, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a loremaster, he must decide to which class he adds the new level for purposes of determining spells per day.
+Loremasters gain no proficiency with any weapon or armor.
 
-**Bonus Languages**: A loremaster can learn any new language at 4th and 8th level.
+#### Spells per Day/Spells Known
 
-**Secret**: At 1st level and every two levels higher than 1st (3rd, 5th, 7th, and 9th), the loremaster chooses one secret from the Loremaster Secrets table. His level plus Intelligence modifier determines which secrets he can choose.
+When a new loremaster level is gained, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a loremaster, he must decide to which class he adds the new level for purposes of determining spells per day.
+
+#### Bonus Languages
+
+A loremaster can learn any new language at 4th and 8th level.
+
+#### Secret
+
+At 1st level and every two levels higher than 1st (3rd, 5th, 7th, and 9th), the loremaster chooses one secret from the Loremaster Secrets table. His level plus Intelligence modifier determines which secrets he can choose.
 
 He can’t choose the same secret twice.
 
-**Lore**: At 2nd level, a loremaster adds half his level to all Knowledge skill checks and may make such checks untrained. The bonuses gained from this ability stack with those gained from Bardic Knowledge.
+#### Lore
 
-**Greater Lore (Ex)**: At 6th level, a loremaster gains the ability to understand magic items. Whenever a loremaster examines a magic item to determine its properties, he gains a +10 circumstance bonus on his [Spellcraft](../../rules/skills/spellcraft.md) skill check.
+At 2nd level, a loremaster adds half his level to all Knowledge skill checks and may make such checks untrained. The bonuses gained from this ability stack with those gained from Bardic Knowledge.
 
-**True Lore (Ex)**: At 10th level, a loremaster’s knowledge becomes vast indeed. Once per day a loremaster can use his knowledge to gain the effect of a [*legend lore*](../../magic/spells/legend-lore.md) spell or an [*analyze dweomer*](../../magic/spells/analyze-dweomer.md) spell. If used to create a *legend lore* effect, this ability has a casting time of 1 minute, regardless of how much information is already known about the subject in question.
+#### Greater Lore (Ex)
+
+At 6th level, a loremaster gains the ability to understand magic items. Whenever a loremaster examines a magic item to determine its properties, he gains a +10 circumstance bonus on his [Spellcraft](../../rules/skills/spellcraft.md) skill check.
+
+#### True Lore (Ex)
+
+At 10th level, a loremaster’s knowledge becomes vast indeed. Once per day a loremaster can use his knowledge to gain the effect of a [*legend lore*](../../magic/spells/legend-lore.md) spell or an [*analyze dweomer*](../../magic/spells/analyze-dweomer.md) spell. If used to create a *legend lore* effect, this ability has a casting time of 1 minute, regardless of how much information is already known about the subject in question.
 
 ### Loremaster Secrets
 

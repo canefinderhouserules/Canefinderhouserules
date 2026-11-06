@@ -55,19 +55,33 @@ The sentinel's class skills (and the key ability for each skill) are Climb (Str)
 
 The following are class features of the sentinel prestige class.
 
-**Weapon and Armor Proficiency**: Sentinels are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), with all types of armor (heavy, medium, and light), and with [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
+#### Weapon and Armor Proficiency
 
-**Devotion (Ex)**: In order to maintain the abilities granted by this prestige class, a sentinel must remain faithful to his chosen deity and uphold its tenets. A sentinel who flagrantly violates them loses all class features of this prestige class until he atones, as an ex-paladin.
+Sentinels are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), with all types of armor (heavy, medium, and light), and with [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
-**Symbolic Weapon (Su)**: When wielding his deity's favored weapon, the sentinel gains a +1 sacred or profane bonus on attack and damage rolls. These bonuses increase by 1 for every 3 levels he has in the sentinel prestige class (maximum +4). His deity's favored weapon also functions as a holy (or unholy) symbol when wielded by a sentinel.
+#### Devotion (Ex)
 
-**Bonus Feat**: At 2nd level and again at 7th level, the sentinel gains a bonus feat in addition to those gained from normal advancement. These bonus feats must be selected from those listed as combat feats. Sentinel levels stack with fighter levels for the purpose of qualifying for feats with a fighter level prerequisite. If the bonus feat selected requires the sentinel to select a specific weapon for the feat to apply to (such as [Greater Weapon Focus](../../rules/feats/greater-weapon-focus.md)), the sentinel must select his deity's favored weapon.
+In order to maintain the abilities granted by this prestige class, a sentinel must remain faithful to his chosen deity and uphold its tenets. A sentinel who flagrantly violates them loses all class features of this prestige class until he atones, as an ex-paladin.
 
-**Divine Boon**: As the sentinel gains levels, he gains boons from his deity. At 3rd level and again at 6th level, he gains the 1st-level domain power of a domain granted by his deity (a different domain each time, if the deity grants more than one), using his character level as his effective cleric level. At 9th level, he gains the 8th-level domain power (or, for a domain without one, the 6th-level domain power) of one of the domains he has already chosen. Powers that grant spell-like abilities use his total character level as the caster level. Boons gained through this class do not stack with domain powers he already possesses from another class; if he already has the domain, he gains a different domain of the deity instead.
+#### Symbolic Weapon (Su)
 
-**Divine Quickness (Ex)**: Starting at 4th level, so long as the sentinel carries his deity's favored weapon, he gains a +2 sacred or profane bonus on initiative checks. The weapon doesn't need to be carried in hand, but must at least be on his person and accessible enough that he can wield it with no greater than a move action. At 8th level, this bonus increases to +4.
+When wielding his deity's favored weapon, the sentinel gains a +1 sacred or profane bonus on attack and damage rolls. These bonuses increase by 1 for every 3 levels he has in the sentinel prestige class (maximum +4). His deity's favored weapon also functions as a holy (or unholy) symbol when wielded by a sentinel.
 
-**Aligned Strike (Su)**: The sentinel's righteous fervor allows him to cut through certain types of damage reduction. At 5th level, the sentinel gains the ability to bypass a specific type of damage reduction when wielding his deity's favored weapon. The type of damage reduction his weapon bypasses is based on his chosen deity's alignment. The sentinel chooses this type of damage reduction when he gains this ability and this choice can't be changed. He can choose only one of the aligned weapon types regardless of how many options he has based on his deity's alignment. The choices are as follows.
+#### Bonus Feat
+
+At 2nd level and again at 7th level, the sentinel gains a bonus feat in addition to those gained from normal advancement. These bonus feats must be selected from those listed as combat feats. Sentinel levels stack with fighter levels for the purpose of qualifying for feats with a fighter level prerequisite. If the bonus feat selected requires the sentinel to select a specific weapon for the feat to apply to (such as [Greater Weapon Focus](../../rules/feats/greater-weapon-focus.md)), the sentinel must select his deity's favored weapon.
+
+#### Divine Boon
+
+As the sentinel gains levels, he gains boons from his deity. At 3rd level and again at 6th level, he gains the 1st-level domain power of a domain granted by his deity (a different domain each time, if the deity grants more than one), using his character level as his effective cleric level. At 9th level, he gains the 8th-level domain power (or, for a domain without one, the 6th-level domain power) of one of the domains he has already chosen. Powers that grant spell-like abilities use his total character level as the caster level. Boons gained through this class do not stack with domain powers he already possesses from another class; if he already has the domain, he gains a different domain of the deity instead.
+
+#### Divine Quickness (Ex)
+
+Starting at 4th level, so long as the sentinel carries his deity's favored weapon, he gains a +2 sacred or profane bonus on initiative checks. The weapon doesn't need to be carried in hand, but must at least be on his person and accessible enough that he can wield it with no greater than a move action. At 8th level, this bonus increases to +4.
+
+#### Aligned Strike (Su)
+
+The sentinel's righteous fervor allows him to cut through certain types of damage reduction. At 5th level, the sentinel gains the ability to bypass a specific type of damage reduction when wielding his deity's favored weapon. The type of damage reduction his weapon bypasses is based on his chosen deity's alignment. The sentinel chooses this type of damage reduction when he gains this ability and this choice can't be changed. He can choose only one of the aligned weapon types regardless of how many options he has based on his deity's alignment. The choices are as follows.
 
 *Lawful*: The sentinel can treat his weapon as axiomatic if his deity is lawful.
 
@@ -79,13 +93,21 @@ The following are class features of the sentinel prestige class.
 
 *Neutral*: The sentinel can choose one of the four other weapon alignment types if his deity is neutral.
 
-**Stalwart (Su)**: At 5th level, the sentinel gains mental fortitude through his constant meditation and adherence to religious tenets. He gains a +2 sacred or profane bonus on saving throws to resist divine spells.
+#### Stalwart (Su)
 
-**Practiced Combatant (Ex)**: At 7th level, the sentinel displays increased combat ability thanks to his extensive training and experience. He gains a +2 sacred or profane bonus on combat maneuvers he performs with his deity's favored weapon.
+At 5th level, the sentinel gains mental fortitude through his constant meditation and adherence to religious tenets. He gains a +2 sacred or profane bonus on saving throws to resist divine spells.
 
-**Righteous Leader (Ex)**: At 8th level, the sentinel's commitment to his faith and the deeds he does in the name of his god add to his reputation. He gains Leadership as a bonus feat, and is considered to qualify for that feat's special power leadership modifier. He takes no penalty for moving around a lot (normally this imposes a –1 penalty to a character's leadership score) but he takes double the usual penalty for recruiting a cohort of a different alignment (–2 instead of –1).
+#### Practiced Combatant (Ex)
 
-**Unstoppable Warrior (Su)**: At 10th level, the sentinel becomes a stalwart paragon demonstrating incredible combat prowess. He gains damage reduction based on the alignment of his deity, as shown in the table.
+At 7th level, the sentinel displays increased combat ability thanks to his extensive training and experience. He gains a +2 sacred or profane bonus on combat maneuvers he performs with his deity's favored weapon.
+
+#### Righteous Leader (Ex)
+
+At 8th level, the sentinel's commitment to his faith and the deeds he does in the name of his god add to his reputation. He gains Leadership as a bonus feat, and is considered to qualify for that feat's special power leadership modifier. He takes no penalty for moving around a lot (normally this imposes a –1 penalty to a character's leadership score) but he takes double the usual penalty for recruiting a cohort of a different alignment (–2 instead of –1).
+
+#### Unstoppable Warrior (Su)
+
+At 10th level, the sentinel becomes a stalwart paragon demonstrating incredible combat prowess. He gains damage reduction based on the alignment of his deity, as shown in the table.
 
 | Chosen Deity's Alignment | Damage Reduction |
 |---|---|

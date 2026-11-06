@@ -45,31 +45,53 @@ The mystery cultist’s class skills are Diplomacy (Cha), Heal (Wis), Intimidate
 
 All of the following are class features of the mystery cultist prestige class.
 
-**Weapon and Armor Proficiency**: A mystery cultist gains proficiency with all [simple weapons](../../equipment/weapons-simple.md) and with her celestial patron’s favored weapon. She gains no additional proficiency with armor or [shields](../../equipment/armor.md).
+#### Weapon and Armor Proficiency
 
-**Spells per Day/Spells Known**: At the indicated levels, when a new mystery cultist level is gained, the character gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before taking the prestige class. She does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If the character had more than one spellcasting class before becoming a mystery cultist, she must decide to which class she adds the new level for the purposes of determining spells per day.
+A mystery cultist gains proficiency with all [simple weapons](../../equipment/weapons-simple.md) and with her celestial patron’s favored weapon. She gains no additional proficiency with armor or [shields](../../equipment/armor.md).
 
-**Blessed (Ex)**: Upon a mystery cultist’s death, her soul appears in the good Outer Planes. In time, her soul will transform into an agathion, angel, archon, or azata.
+#### Spells per Day/Spells Known
+
+At the indicated levels, when a new mystery cultist level is gained, the character gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before taking the prestige class. She does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If the character had more than one spellcasting class before becoming a mystery cultist, she must decide to which class she adds the new level for the purposes of determining spells per day.
+
+#### Blessed (Ex)
+
+Upon a mystery cultist’s death, her soul appears in the good Outer Planes. In time, her soul will transform into an agathion, angel, archon, or azata.
 
 If the mystery cultist is successfully resurrected, she may immediately gain the answer to any one question as if she had cast [*contact other plane*](../../magic/spells/contact-other-plane.md) and reached her empyreal lord patron. The mystery cultist need not succeed at an Intelligence check to avoid a decrease in Intelligence or Charisma. The empyreal lord is treated as an “intermediate deity of the Outer Planes”—treat any “lie” result as “don’t know” instead.
 
-**Obedience (Ex)**: In order to maintain the abilities granted by this prestige class (including all spellcasting abilities that have been augmented by this prestige class), a mystery cultist must indulge in a daily obedience to her chosen empyreal lord (see [Celestial Obediences](../options/celestial-obediences.md)).
+#### Obedience (Ex)
 
-**Glorious Aura (Su)**: Starting at 2nd level, a mystery cultist can shroud herself in a glorious aura for 1 round per mystery cultist level. These rounds need not be consecutive. Her features radiate with divine beauty, but the force of her presence can be frightening to others. The mystery cultist gains a +4 sacred bonus to her Charisma score and radiates a 10-foot aura of terrible awe. Creatures within the aura must succeed at a Will save (DC 10 + the mystery cultist’s class level + the mystery cultist’s Charisma modifier) or become [frightened](../../rules/appendices/conditions.md#frightened) for 1d4 rounds. Regardless of whether the save is successful, a creature cannot be affected by a mystery cultist’s glorious aura more than once in 24 hours. This is a fear effect.
+In order to maintain the abilities granted by this prestige class (including all spellcasting abilities that have been augmented by this prestige class), a mystery cultist must indulge in a daily obedience to her chosen empyreal lord (see [Celestial Obediences](../options/celestial-obediences.md)).
 
-**Celestial Boon**: As the mystery cultist gains levels, she gains boons from her celestial patron. The nature of the boons varies depending on the mystery cultist’s chosen empyreal lord. Each empyreal lord grants three boons, each more powerful than the last. At 3rd level, the mystery cultist gains the first boon. At 6th level, she gains the second boon, and at 9th level, she gains the third boon. When a celestial boon grants a spell-like ability, the mystery cultist’s level for the spell-like ability equals her total character level. This ability allows a mystery cultist to access these boons earlier than normal; it does not grant additional uses of the boons once the character reaches the necessary Hit Dice to earn the boons normally.
+#### Glorious Aura (Su)
 
-**Brand of Healing (Sp)**: At 4th level, the mystery cultist gains the ability to cast [*heal*](../../magic/spells/heal.md) as a spell-like ability once per day. The target of this ability is branded on the forehead or another visible area with an incandescent tattoo of the holy symbol of the mystery cultist’s patron. The holy brand lasts for 24 hours before fading.
+Starting at 2nd level, a mystery cultist can shroud herself in a glorious aura for 1 round per mystery cultist level. These rounds need not be consecutive. Her features radiate with divine beauty, but the force of her presence can be frightening to others. The mystery cultist gains a +4 sacred bonus to her Charisma score and radiates a 10-foot aura of terrible awe. Creatures within the aura must succeed at a Will save (DC 10 + the mystery cultist’s class level + the mystery cultist’s Charisma modifier) or become [frightened](../../rules/appendices/conditions.md#frightened) for 1d4 rounds. Regardless of whether the save is successful, a creature cannot be affected by a mystery cultist’s glorious aura more than once in 24 hours. This is a fear effect.
 
-**Summon Celestial (Sp)**: Starting at 4th level, a mystery cultist can use *summon monster VI* once per day to conjure one lillend, 1d3 bralanis, or 1d4+1 hound archons to serve her. At 8th level, the mystery cultist also gains the ability to use *summon monster VIII* once per day to conjure one monadic deva, 1d3 avoral agathions, or 1d4+1 lillends to serve her. Mystery cultists who worship a particular empyreal lord may be able to summon other good outsiders of equal power with this ability (according to GM discretion).
+#### Celestial Boon
 
-**Fervor (Su)**: At 5th level, the mystery cultist can enter a religious fervor for a number of rounds per day equal to her class level, and can enter a fervor or end it as a free action. While in this fervor, the mystery cultist gains a +2 sacred bonus on all weapon attack and damage rolls, DR 5/evil, and a +2 bonus to her caster level for the purposes of determining the range, duration, and level-dependent effects of spells. In addition, her base speed increases by 10 feet.
+As the mystery cultist gains levels, she gains boons from her celestial patron. The nature of the boons varies depending on the mystery cultist’s chosen empyreal lord. Each empyreal lord grants three boons, each more powerful than the last. At 3rd level, the mystery cultist gains the first boon. At 6th level, she gains the second boon, and at 9th level, she gains the third boon. When a celestial boon grants a spell-like ability, the mystery cultist’s level for the spell-like ability equals her total character level. This ability allows a mystery cultist to access these boons earlier than normal; it does not grant additional uses of the boons once the character reaches the necessary Hit Dice to earn the boons normally.
+
+#### Brand of Healing (Sp)
+
+At 4th level, the mystery cultist gains the ability to cast [*heal*](../../magic/spells/heal.md) as a spell-like ability once per day. The target of this ability is branded on the forehead or another visible area with an incandescent tattoo of the holy symbol of the mystery cultist’s patron. The holy brand lasts for 24 hours before fading.
+
+#### Summon Celestial (Sp)
+
+Starting at 4th level, a mystery cultist can use *summon monster VI* once per day to conjure one lillend, 1d3 bralanis, or 1d4+1 hound archons to serve her. At 8th level, the mystery cultist also gains the ability to use *summon monster VIII* once per day to conjure one monadic deva, 1d3 avoral agathions, or 1d4+1 lillends to serve her. Mystery cultists who worship a particular empyreal lord may be able to summon other good outsiders of equal power with this ability (according to GM discretion).
+
+#### Fervor (Su)
+
+At 5th level, the mystery cultist can enter a religious fervor for a number of rounds per day equal to her class level, and can enter a fervor or end it as a free action. While in this fervor, the mystery cultist gains a +2 sacred bonus on all weapon attack and damage rolls, DR 5/evil, and a +2 bonus to her caster level for the purposes of determining the range, duration, and level-dependent effects of spells. In addition, her base speed increases by 10 feet.
 
 A mystery cultist takes a –4 penalty on Charisma checks and Charisma-based skill checks during the fervor and for a number of minutes afterward equal to 2 × the number of rounds spent in the religious fervor.
 
-**Incorruptible (Su)**: At 7th level, the mystery cultist gains a +2 bonus on saving throws versus disease and poison. If the mystery cultist is killed, her body does not decompose, but stays pure and whole as if targeted by a permanent [*gentle repose*](../../magic/spells/gentle-repose.md) spell. This effectively extends the period in which she can be affected by a [*raise dead*](../../magic/spells/raise-dead.md) spell indefinitely. Finally, this ability prevents the mystery cultist from ever being transformed into an undead creature by any means short of a [*wish*](../../magic/spells/wish.md) or [*miracle*](../../magic/spells/miracle.md).
+#### Incorruptible (Su)
 
-**Sacred Haven (Su)**: At 10th level, the mystery cultist earns a place at the side of her celestial patron. A room is set aside for her at her patron’s place of residence on the celestial planes (if her patron has no permanent residence, the room stands alone in a quiet spot on the celestial planes). Once per day, the mystery cultist can teleport herself and one willing creature per mystery cultist level to this sacred haven as per [*plane shift*](../../magic/spells/plane-shift.md), except she always arrives exactly at the threshold of her haven. The room is outfitted with comfortable beds for everyone, a small research library, a shrine, and a chest or cupboard that functions as a *portable hole* but that cannot be removed from the room. The mystery cultist can teleport herself and her allies out of the sacred haven at will, but can only return to the spot from which they last left.
+At 7th level, the mystery cultist gains a +2 bonus on saving throws versus disease and poison. If the mystery cultist is killed, her body does not decompose, but stays pure and whole as if targeted by a permanent [*gentle repose*](../../magic/spells/gentle-repose.md) spell. This effectively extends the period in which she can be affected by a [*raise dead*](../../magic/spells/raise-dead.md) spell indefinitely. Finally, this ability prevents the mystery cultist from ever being transformed into an undead creature by any means short of a [*wish*](../../magic/spells/wish.md) or [*miracle*](../../magic/spells/miracle.md).
+
+#### Sacred Haven (Su)
+
+At 10th level, the mystery cultist earns a place at the side of her celestial patron. A room is set aside for her at her patron’s place of residence on the celestial planes (if her patron has no permanent residence, the room stands alone in a quiet spot on the celestial planes). Once per day, the mystery cultist can teleport herself and one willing creature per mystery cultist level to this sacred haven as per [*plane shift*](../../magic/spells/plane-shift.md), except she always arrives exactly at the threshold of her haven. The room is outfitted with comfortable beds for everyone, a small research library, a shrine, and a chest or cupboard that functions as a *portable hole* but that cannot be removed from the room. The mystery cultist can teleport herself and her allies out of the sacred haven at will, but can only return to the spot from which they last left.
 
 ### Ex-Mystery Cultists
 

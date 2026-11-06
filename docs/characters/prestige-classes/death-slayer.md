@@ -51,28 +51,50 @@ The death slayer's class skills (and the key ability for each skill) are Disguis
 
 The following are class features of the death slayer prestige class.
 
-**Favored Weapon**: With the GM’s approval, the sawtooth sabre can be swapped for another weapon that reasonably suits some other fitting deity.
+#### Favored Weapon
 
-**Channel Energy (Su)**: At 1st level, a death slayer gains the power to harm undead with positive energy. This ability functions as a [cleric’s ability](../classes/cleric.md#channel-energy-su) to channel positive energy to deal damage to undead (but not to heal living creatures), and it counts as channel energy for the purposes of qualifying for feats or determining effects that rely on channel energy. A death slayer uses her class level as her effective cleric level when channeling energy. She can channel energy a number of times per day equal to 3 + her Charisma modifier. She deals 1d10 points of damage at 1st level and an additional 1d10 points of damage every 2 levels thereafter. Death slayer levels stack with levels in any class that grants channel energy (if any) for the purpose of determining the number of damage dice her channel energy ability deals to undead, but this channel energy can never do anything other than harm undead. An undead creature that takes damage from this channeled energy can attempt a Will save to halve the damage; the DC of this save is equal to 10 + the death slayer’s class level + her Charisma modifier. The death slayer must be able to present either her holy symbol or a [sawtooth sabre](../../equipment/gear-aa-armory.md) to use this ability.
+With the GM’s approval, the sawtooth sabre can be swapped for another weapon that reasonably suits some other fitting deity.
+
+#### Channel Energy (Su)
+
+At 1st level, a death slayer gains the power to harm undead with positive energy. This ability functions as a [cleric’s ability](../classes/cleric.md#channel-energy-su) to channel positive energy to deal damage to undead (but not to heal living creatures), and it counts as channel energy for the purposes of qualifying for feats or determining effects that rely on channel energy. A death slayer uses her class level as her effective cleric level when channeling energy. She can channel energy a number of times per day equal to 3 + her Charisma modifier. She deals 1d10 points of damage at 1st level and an additional 1d10 points of damage every 2 levels thereafter. Death slayer levels stack with levels in any class that grants channel energy (if any) for the purpose of determining the number of damage dice her channel energy ability deals to undead, but this channel energy can never do anything other than harm undead. An undead creature that takes damage from this channeled energy can attempt a Will save to halve the damage; the DC of this save is equal to 10 + the death slayer’s class level + her Charisma modifier. The death slayer must be able to present either her holy symbol or a [sawtooth sabre](../../equipment/gear-aa-armory.md) to use this ability.
 
 ??? note "Original rule"
 
     **Channel Energy (Su)**: At 1st level, a death slayer gains the power to harm undead with positive energy. This ability functions as a [cleric’s ability](../classes/cleric.md#channel-energy-su) to channel positive energy to deal damage to undead (but not to heal living creatures), and it counts as channel energy for the purposes of qualifying for feats or determining effects that rely on channel energy. A death slayer uses her class level as her effective cleric level when channeling energy. She can channel energy a number of times per day equal to 3 + her Charisma modifier. She deals 1d6 points of damage at 1st level and an additional 1d6 points of damage every 2 levels thereafter. Death slayer levels stack with levels in any class that grants channel energy (if any) for the purpose of determining the number of damage dice her channel energy ability deals to undead, but this channel energy can never do anything other than harm undead. An undead creature that takes damage from this channeled energy can attempt a Will save to halve the damage; the DC of this save is equal to 10 + the death slayer’s class level + her Charisma modifier. The death slayer must be able to present either her holy symbol or a [sawtooth sabre](../../equipment/gear-aa-armory.md) to use this ability.
 
-**Channel Smite**: A death slayer gains [Channel Smite](../../rules/feats/channel-smite.md) as a bonus feat. If she already has this feat, she instead gains a different feat selected from those bonus feats normally available to her at 2nd level (see below).
+#### Channel Smite
 
-**Gravegaze (Su)**: A death slayer gains the benefits of [*deathwatch*](../../magic/spells/deathwatch.md) at all times.
+A death slayer gains [Channel Smite](../../rules/feats/channel-smite.md) as a bonus feat. If she already has this feat, she instead gains a different feat selected from those bonus feats normally available to her at 2nd level (see below).
 
-**Bonus Feats**: At 2nd level and every 3 levels thereafter, a death slayer gains a bonus feat in addition to those gained from normal advancement. These bonus feats must be selected from the following: [Extra Channel](../../rules/feats/extra-channel.md), [Greater Channel Smite](../../rules/feats/greater-channel-smite.md), [Guided Hand](../../rules/feats/guided-hand.md), [Improved Channel](../../rules/feats/improved-channel.md), [Life Lure](../../rules/feats/life-lure.md), [Quick Channel](../../rules/feats/quick-channel.md), [Shatter Control](../../rules/feats/shatter-control.md), [Thanatopic Spell](../../rules/feats/thanatopic-spell.md), [Threnodic Spell](../../rules/feats/threnodic-spell.md), or [Turn Undead](../../rules/feats/turn-undead.md). The death slayer must meet the prerequisites of the selected bonus feat.
+#### Gravegaze (Su)
 
-**Favored Enemy (Ex)**: At 2nd level, a death slayer gains undead as a favored enemy. This ability functions as the [ranger class feature](../classes/ranger.md#favored-enemy-ex) of the same name and stacks with similar bonuses from other classes. (This doesn’t increase existing favored enemy bonuses against any other creature types.) At 6th level, the death slayer’s favored enemy bonus against undead increases to +4.
+A death slayer gains the benefits of [*deathwatch*](../../magic/spells/deathwatch.md) at all times.
 
-**Swift Smite (Su)**: At 3rd level, a death slayer can use her Channel Smite feat an additional number of times per day equal to her death slayer level without expending a use of her total channel energy uses per day. She cannot use these additional uses of Channel Smite to use channel energy in the regular way. Whenever she uses Channel Smite, she can activate the ability as an immediate action after she rolls for a melee attack but before the result is revealed.
+#### Bonus Feats
 
-**Infuse Sabre (Su)**: Once per day at 4th level, a death slayer can infuse a wielded sawtooth sabre with positive energy as a swift action. This infusion of energy lasts for 3 rounds. When brandishing an infused sabre, a death slayer’s channeled energy damage increases by half (+50%), and undead take a –2 penalty on all saving throws against her channeled energy and against any spell she casts. At 7th level, she can infuse a sabre twice per day, and at 10th level she can do so three times a day, but she can have only one infused sabre at a time.
+At 2nd level and every 3 levels thereafter, a death slayer gains a bonus feat in addition to those gained from normal advancement. These bonus feats must be selected from the following: [Extra Channel](../../rules/feats/extra-channel.md), [Greater Channel Smite](../../rules/feats/greater-channel-smite.md), [Guided Hand](../../rules/feats/guided-hand.md), [Improved Channel](../../rules/feats/improved-channel.md), [Life Lure](../../rules/feats/life-lure.md), [Quick Channel](../../rules/feats/quick-channel.md), [Shatter Control](../../rules/feats/shatter-control.md), [Thanatopic Spell](../../rules/feats/thanatopic-spell.md), [Threnodic Spell](../../rules/feats/threnodic-spell.md), or [Turn Undead](../../rules/feats/turn-undead.md). The death slayer must meet the prerequisites of the selected bonus feat.
 
-**Deadly Conviction (Su)**: At 6th level, a death slayer gains a +4 morale bonus on saving throws against spells and effects created by undead creatures. Once per day, she can ignore 1 negative level that would otherwise affect her.
+#### Favored Enemy (Ex)
 
-**Undead Bane**: At 8th level, one sawtooth sabre a death slayer wields functions as a bane weapon against undead creatures as long as the death slayer wields the weapon.
+At 2nd level, a death slayer gains undead as a favored enemy. This ability functions as the [ranger class feature](../classes/ranger.md#favored-enemy-ex) of the same name and stacks with similar bonuses from other classes. (This doesn’t increase existing favored enemy bonuses against any other creature types.) At 6th level, the death slayer’s favored enemy bonus against undead increases to +4.
 
-**Aura of Life (Su)**: At 10th level, a death slayer can emit a 10-foot aura of positive energy that weakens undead creatures as a swift action. This creates a dim crimson glow around the death slayer. Each undead creature within the aura at the start of its turn takes 4d6 points of positive energy damage. While this aura is active, the death slayer has fast healing 10. A death slayer can activate this aura for up to 10 rounds per day. The duration need not be consecutive, and she can deactivate the aura as a free action.
+#### Swift Smite (Su)
+
+At 3rd level, a death slayer can use her Channel Smite feat an additional number of times per day equal to her death slayer level without expending a use of her total channel energy uses per day. She cannot use these additional uses of Channel Smite to use channel energy in the regular way. Whenever she uses Channel Smite, she can activate the ability as an immediate action after she rolls for a melee attack but before the result is revealed.
+
+#### Infuse Sabre (Su)
+
+Once per day at 4th level, a death slayer can infuse a wielded sawtooth sabre with positive energy as a swift action. This infusion of energy lasts for 3 rounds. When brandishing an infused sabre, a death slayer’s channeled energy damage increases by half (+50%), and undead take a –2 penalty on all saving throws against her channeled energy and against any spell she casts. At 7th level, she can infuse a sabre twice per day, and at 10th level she can do so three times a day, but she can have only one infused sabre at a time.
+
+#### Deadly Conviction (Su)
+
+At 6th level, a death slayer gains a +4 morale bonus on saving throws against spells and effects created by undead creatures. Once per day, she can ignore 1 negative level that would otherwise affect her.
+
+#### Undead Bane
+
+At 8th level, one sawtooth sabre a death slayer wields functions as a bane weapon against undead creatures as long as the death slayer wields the weapon.
+
+#### Aura of Life (Su)
+
+At 10th level, a death slayer can emit a 10-foot aura of positive energy that weakens undead creatures as a swift action. This creates a dim crimson glow around the death slayer. Each undead creature within the aura at the start of its turn takes 4d6 points of positive energy damage. While this aura is active, the death slayer has fast healing 10. A death slayer can activate this aura for up to 10 rounds per day. The duration need not be consecutive, and she can deactivate the aura as a free action.

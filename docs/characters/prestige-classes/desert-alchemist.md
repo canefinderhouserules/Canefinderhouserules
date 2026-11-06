@@ -39,25 +39,45 @@ The desert alchemist's class skills (and the key ability for each skill) are Hea
 
 The following are class features of the desert alchemist prestige class.
 
-**Weapon and Armor Proficiency**: A desert alchemist gains no additional weapon or armor proficiencies.
+#### Weapon and Armor Proficiency
 
-**Extracts or Spells per Day**: When a desert alchemist gains a level, she gains new extracts or spells per day as if she had also gained a level in alchemist or in an arcane spellcasting class to which she belonged before adding the prestige class. She does not, however, gain other benefits a character of that class would have gained, except for additional extracts or spells per day, spells known (if she is a spontaneous caster), and an increased effective caster level for extracts or spells. If she had more than one arcane spellcasting class before becoming a desert alchemist, or had the alchemist class and an arcane spellcasting class, she must decide to which class she adds the new level for the purpose of determining extracts or spells per day.
+A desert alchemist gains no additional weapon or armor proficiencies.
 
-**Healing Solution (Su)**: A desert alchemist learns how to convert magical reagents into life-giving admixtures. As a full-round action, she can convert the magical energies of two extracts or spells of 1st level into a special extract of [*cure light wounds*](../../magic/spells/cure-light-wounds.md). This acts as an infused extract, but it must be used before the end of her next turn or its power is lost. At 3rd level and every 2 levels thereafter, a desert alchemist gains the ability to convert extracts or spells into more powerful forms of curative magic: 3rd—[*cure moderate wounds*](../../magic/spells/cure-moderate-wounds.md); 5th—[*cure serious wounds*](../../magic/spells/cure-serious-wounds.md); 7th—[*cure critical wounds*](../../magic/spells/cure-critical-wounds.md); 9th—[*breath of life*](../../magic/spells/breath-of-life.md). In all cases, the desert alchemist must expend two extracts or spells of the same level as the curative spell in order to complete the conversion.
+#### Extracts or Spells per Day
 
-**Desert Discovery**: At 2nd level and again at 4th, 6th, and 8th level, a desert alchemist gains a new alchemist discovery from one of the rare desert discoveries below or from the following list: bottled ooze, combine extracts, dilution, elixir of life, enhance potion, eternal potion, extend potion, healing touch, infusion, mummification, preserve organs, sandstone solution (see [Alchemist Archetypes](../classes/alchemist-archetypes.md)), or spontaneous healing. The desert alchemist must still meet all prerequisites for a desert discovery, including level restrictions. Desert alchemist class levels stack with alchemist levels for the purpose of qualifying for and using these discoveries (but not others). Desert discoveries cannot be selected by characters without desert alchemist levels.
+When a desert alchemist gains a level, she gains new extracts or spells per day as if she had also gained a level in alchemist or in an arcane spellcasting class to which she belonged before adding the prestige class. She does not, however, gain other benefits a character of that class would have gained, except for additional extracts or spells per day, spells known (if she is a spontaneous caster), and an increased effective caster level for extracts or spells. If she had more than one arcane spellcasting class before becoming a desert alchemist, or had the alchemist class and an arcane spellcasting class, she must decide to which class she adds the new level for the purpose of determining extracts or spells per day.
 
-**Bottled Elemental (Su)**: This functions like the bottled ooze discovery, but allows the desert alchemist to instead reconstitute an elemental that bursts forth when the bottle is broken. Creating a bottled elemental requires an extract 1 level lower than the elemental's CR (minimum 1st level). The desert alchemist must have the bottled ooze discovery and be at least 8th level before selecting this desert discovery.
+#### Healing Solution (Su)
 
-**Capture Elemental (Sp)**: A desert alchemist can capture an elemental inside a specially prepared bottle, vial, or flask, as if using [*trap the soul*](../../magic/spells/trap-the-soul.md) as a spell-like ability, though this ability affects only elementals. Preparing the bottle costs 500 gp per Hit Die of the elemental to be trapped and takes 1 day per 1,000 gp of value. If the desert alchemist tries to capture an elemental with too many Hit Dice, the bottle shatters. The desert alchemist must have the bottled elemental discovery and be at least 12th level before selecting this desert discovery.
+A desert alchemist learns how to convert magical reagents into life-giving admixtures. As a full-round action, she can convert the magical energies of two extracts or spells of 1st level into a special extract of [*cure light wounds*](../../magic/spells/cure-light-wounds.md). This acts as an infused extract, but it must be used before the end of her next turn or its power is lost. At 3rd level and every 2 levels thereafter, a desert alchemist gains the ability to convert extracts or spells into more powerful forms of curative magic: 3rd—[*cure moderate wounds*](../../magic/spells/cure-moderate-wounds.md); 5th—[*cure serious wounds*](../../magic/spells/cure-serious-wounds.md); 7th—[*cure critical wounds*](../../magic/spells/cure-critical-wounds.md); 9th—[*breath of life*](../../magic/spells/breath-of-life.md). In all cases, the desert alchemist must expend two extracts or spells of the same level as the curative spell in order to complete the conversion.
 
-**Extra Curative Enhancement (Ex)**: The desert alchemist can select one additional curative enhancement that she can incorporate into her healing solution.
+#### Desert Discovery
 
-**Shared Infusion (Su)**: When a desert alchemist creates an infusion extract of a spell that normally affects multiple targets, the extract can affect a number of targets equal to her Intelligence bonus (up to the maximum normally allowed for the spell), though each creature must use a standard action to imbibe the extract. Only creatures that drink from the extract within 1 round of when the first imbiber starts drinking it are affected. A desert alchemist must have the infusion discovery before selecting this discovery.
+At 2nd level and again at 4th, 6th, and 8th level, a desert alchemist gains a new alchemist discovery from one of the rare desert discoveries below or from the following list: bottled ooze, combine extracts, dilution, elixir of life, enhance potion, eternal potion, extend potion, healing touch, infusion, mummification, preserve organs, sandstone solution (see [Alchemist Archetypes](../classes/alchemist-archetypes.md)), or spontaneous healing. The desert alchemist must still meet all prerequisites for a desert discovery, including level restrictions. Desert alchemist class levels stack with alchemist levels for the purpose of qualifying for and using these discoveries (but not others). Desert discoveries cannot be selected by characters without desert alchemist levels.
 
-**Bombs**: At 3rd level and every 3 levels thereafter, a desert alchemist adds 1d6 points of damage to her bomb damage, gains one additional bomb per day, and treats her alchemist level as 1 higher for the purpose of qualifying for discoveries that affect her bombs. A character without alchemist levels gains the bombs ability of an alchemist whose level is equal to 1/3 her desert alchemist level.
+##### Bottled Elemental (Su)
 
-**Curative Enhancement (Su)**: At 3rd level and every 2 levels thereafter, a desert alchemist can select one curative enhancement. Whenever the desert alchemist creates a healing solution by expending two extracts or spells, she may reduce the amount of hit point damage cured by one step (reducing a healing solution of *cure moderate wounds* to one of *cure light wounds*, for instance) in order to apply any number of her curative enhancements to her healing solution. These enhancements can remove conditions caused by curses, diseases, or poisons even if they do not remove the underlying affliction itself; the conditions return after 1 hour unless the curative enhancement actually removes the affliction that causes the condition.
+This functions like the bottled ooze discovery, but allows the desert alchemist to instead reconstitute an elemental that bursts forth when the bottle is broken. Creating a bottled elemental requires an extract 1 level lower than the elemental's CR (minimum 1st level). The desert alchemist must have the bottled ooze discovery and be at least 8th level before selecting this desert discovery.
+
+##### Capture Elemental (Sp)
+
+A desert alchemist can capture an elemental inside a specially prepared bottle, vial, or flask, as if using [*trap the soul*](../../magic/spells/trap-the-soul.md) as a spell-like ability, though this ability affects only elementals. Preparing the bottle costs 500 gp per Hit Die of the elemental to be trapped and takes 1 day per 1,000 gp of value. If the desert alchemist tries to capture an elemental with too many Hit Dice, the bottle shatters. The desert alchemist must have the bottled elemental discovery and be at least 12th level before selecting this desert discovery.
+
+##### Extra Curative Enhancement (Ex)
+
+The desert alchemist can select one additional curative enhancement that she can incorporate into her healing solution.
+
+##### Shared Infusion (Su)
+
+When a desert alchemist creates an infusion extract of a spell that normally affects multiple targets, the extract can affect a number of targets equal to her Intelligence bonus (up to the maximum normally allowed for the spell), though each creature must use a standard action to imbibe the extract. Only creatures that drink from the extract within 1 round of when the first imbiber starts drinking it are affected. A desert alchemist must have the infusion discovery before selecting this discovery.
+
+#### Bombs
+
+At 3rd level and every 3 levels thereafter, a desert alchemist adds 1d6 points of damage to her bomb damage, gains one additional bomb per day, and treats her alchemist level as 1 higher for the purpose of qualifying for discoveries that affect her bombs. A character without alchemist levels gains the bombs ability of an alchemist whose level is equal to 1/3 her desert alchemist level.
+
+#### Curative Enhancement (Su)
+
+At 3rd level and every 2 levels thereafter, a desert alchemist can select one curative enhancement. Whenever the desert alchemist creates a healing solution by expending two extracts or spells, she may reduce the amount of hit point damage cured by one step (reducing a healing solution of *cure moderate wounds* to one of *cure light wounds*, for instance) in order to apply any number of her curative enhancements to her healing solution. These enhancements can remove conditions caused by curses, diseases, or poisons even if they do not remove the underlying affliction itself; the conditions return after 1 hour unless the curative enhancement actually removes the affliction that causes the condition.
 
 At 3rd level, a desert alchemist can select one of the following conditions that her healing solution can remove: [fatigued](../../rules/appendices/conditions.md#fatigued), [shaken](../../rules/appendices/conditions.md#shaken), or [sickened](../../rules/appendices/conditions.md#sickened).
 
@@ -69,4 +89,6 @@ At 9th level, she can also select [blinded](../../rules/appendices/conditions.md
 
 Once chosen, a curative enhancement cannot be changed, but the desert alchemist can choose which enhancements (if any) she incorporates each time she prepares a healing solution.
 
-**Eternal Youth (Su)**: At 10th level, a desert alchemist learns how to formulate an imperfect duplicate of the fabled youth elixir that affects only her. This functions as the *eternal youth* grand discovery.
+#### Eternal Youth (Su)
+
+At 10th level, a desert alchemist learns how to formulate an imperfect duplicate of the fabled youth elixir that affects only her. This functions as the *eternal youth* grand discovery.

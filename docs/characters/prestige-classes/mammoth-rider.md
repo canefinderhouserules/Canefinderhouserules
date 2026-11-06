@@ -39,32 +39,62 @@ The mammoth rider's class skills (and the key ability for each skill) are Handle
 
 The following are class features of the mammoth rider prestige class.
 
-**Gigantic Steed (Ex)**: The size of a mammoth rider’s steed (see below) increases to Huge. The creature takes a –1 penalty on attack rolls and to AC, and a –2 penalty to Dexterity (to a minimum of 1); its base damage increases by one size category; and its reach increases to 10 feet. It also gains a +2 size bonus to its Strength and Constitution. At 3rd level and every 2 levels thereafter, the Strength bonus increases by an additional 2; the bonus to Constitution increases by an additional 2 at 5th and again at 9th level.
+#### Gigantic Steed (Ex)
 
-**Steed (Ex)**: A mammoth rider can choose from among the following animal companions to serve as her loyal steed: amargasaurus, arsinoitherium, aurochs, baluchitherium, brontotherium, camel, cat (big), deinotherium, dire polar bear, elasmotherium, elk, horse, kentrosaurus, mastodon, megaloceros, moa, rhinoceros, styracosaurus, triceratops, uintatherium, wolf, woolly mammoth (use the statistics for a mastodon), or woolly rhinoceros. A GM might expand this list to include other possible steeds. This steed functions as a druid’s animal companion, replacing any animal companion or mount gained from another class. The mammoth rider’s class levels stack with other classes that grant an animal companion to determine her effective druid level.
+The size of a mammoth rider’s steed (see below) increases to Huge. The creature takes a –1 penalty on attack rolls and to AC, and a –2 penalty to Dexterity (to a minimum of 1); its base damage increases by one size category; and its reach increases to 10 feet. It also gains a +2 size bonus to its Strength and Constitution. At 3rd level and every 2 levels thereafter, the Strength bonus increases by an additional 2; the bonus to Constitution increases by an additional 2 at 5th and again at 9th level.
 
-**Wild Coercion (Ex)**: A mammoth rider gains the wild empathy ability; this functions exactly like the druid ability of the same name. For the purposes of this ability, her class level stacks with all other classes that have the wild empathy ability. In addition, a mammoth rider can use her wild empathy to demoralize an animal or magical beast, or force it to be friendly to her, as if using Intimidate rather than [Diplomacy](../../rules/skills/diplomacy.md). She adds her Strength modifier to these checks in addition to her Charisma modifier.
+#### Steed (Ex)
 
-**Born Survivor (Ex)**: At 2nd level and again at 6th level, a mammoth rider gains a bonus feat from the following list: [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Great Fortitude](../../rules/feats/improved-great-fortitude.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Improved Lightning Reflexes](../../rules/feats/improved-lightning-reflexes.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md). She must meet the prerequisites for these feats.
+A mammoth rider can choose from among the following animal companions to serve as her loyal steed: amargasaurus, arsinoitherium, aurochs, baluchitherium, brontotherium, camel, cat (big), deinotherium, dire polar bear, elasmotherium, elk, horse, kentrosaurus, mastodon, megaloceros, moa, rhinoceros, styracosaurus, triceratops, uintatherium, wolf, woolly mammoth (use the statistics for a mastodon), or woolly rhinoceros. A GM might expand this list to include other possible steeds. This steed functions as a druid’s animal companion, replacing any animal companion or mount gained from another class. The mammoth rider’s class levels stack with other classes that grant an animal companion to determine her effective druid level.
 
-**Colossus Hunter (Ex)**: At 2nd level, a mammoth rider gains a +1 bonus on weapon attacks and damage rolls against Large and Huge creatures, and a +2 bonus on weapon attacks and damage rolls against Gargantuan and Colossal creatures.
+#### Wild Coercion (Ex)
 
-**Rapid Straddle (Ex)**: At 3rd level, a mammoth rider can attempt [Ride](../../rules/skills/ride.md) checks to fast mount or fast dismount her steed even if it’s more than one size category larger than her, provided she still has a move action available that round.
+A mammoth rider gains the wild empathy ability; this functions exactly like the druid ability of the same name. For the purposes of this ability, her class level stacks with all other classes that have the wild empathy ability. In addition, a mammoth rider can use her wild empathy to demoralize an animal or magical beast, or force it to be friendly to her, as if using Intimidate rather than [Diplomacy](../../rules/skills/diplomacy.md). She adds her Strength modifier to these checks in addition to her Charisma modifier.
 
-**Rugged Steed (Ex)**: At 3rd level and every 2 levels thereafter, the natural armor bonus of a mammoth rider’s steed increases by 1.
+#### Born Survivor (Ex)
 
-**Mistrust of Magic (Ex)**: At 4th level, as long as a mammoth rider doesn’t have levels in a class that grants arcane spellcasting ability, she gains a +2 morale bonus on saving throws against arcane spells. If she has no levels in classes granting divine spellcasting ability, she gains a +2 morale bonus on saving throws against divine spells. If she has no levels in classes granting psychic spellcasting ability, she gains a +2 morale bonus on saving throws against [psychic spells](../classes/psychic.md#spells).
+At 2nd level and again at 6th level, a mammoth rider gains a bonus feat from the following list: [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Great Fortitude](../../rules/feats/improved-great-fortitude.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), [Improved Lightning Reflexes](../../rules/feats/improved-lightning-reflexes.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md). She must meet the prerequisites for these feats.
 
-**Undaunted (Ex)**: At 4th level, a mammoth rider adds her Strength bonus to the DC of [Intimidate](../../rules/skills/intimidate.md) checks attempted against her. Additionally, creatures attempting to intimidate a mammoth rider don’t gain a bonus for being larger than her.
+#### Colossus Hunter (Ex)
 
-**Valiant Devotion (Ex)**: At 5th level, a mammoth rider’s steed gains a +4 morale bonus against charm, compulsion, and fear effects.
+At 2nd level, a mammoth rider gains a +1 bonus on weapon attacks and damage rolls against Large and Huge creatures, and a +2 bonus on weapon attacks and damage rolls against Gargantuan and Colossal creatures.
 
-**Hunter’s Instinct (Ex)**: At 6th level, a mammoth rider gains the quarry class feature; this functions exactly like the ranger ability of the same name. If she already has the quarry class feature from another class, she instead gains the improved quarry class feature. A mammoth rider can use these abilities on any creature, not just a favored enemy.
+#### Rapid Straddle (Ex)
 
-**Steed’s Reach (Ex)**: At 7th level, a mammoth rider’s steed’s reach improves to 15 feet.
+At 3rd level, a mammoth rider can attempt [Ride](../../rules/skills/ride.md) checks to fast mount or fast dismount her steed even if it’s more than one size category larger than her, provided she still has a move action available that round.
 
-**Combined Might (Ex)**: At 8th level, a mounted mammoth rider strikes with the combined power of herself and her steed. Once per round, when the mammoth rider hits with a melee attack from astride her steed during a charge, she adds half her steed’s Strength bonus to the damage roll in addition to her own, provided her steed is currently capable of taking a free action.
+#### Rugged Steed (Ex)
 
-**Pulverizing Assault (Ex)**: At 9th level, if a mammoth rider is mounted on her steed and directs it to charge or make a constrict, powerful charge, or trample attack, then the first time that her steed deals damage with that attack this round, the target must succeed at a Fortitude save (DC = 10 + half the steed’s Hit Dice + the steed’s Strength modifier) or be [staggered](../../rules/appendices/conditions.md#staggered) for 1d4 rounds.
+At 3rd level and every 2 levels thereafter, the natural armor bonus of a mammoth rider’s steed increases by 1.
 
-**Mammoth Lord (Ex)**: At 10th level, a mammoth rider becomes immune to the [dazed](../../rules/appendices/conditions.md#dazed), [fatigued](../../rules/appendices/conditions.md#fatigued), [shaken](../../rules/appendices/conditions.md#shaken), [sickened](../../rules/appendices/conditions.md#sickened), staggered, and [stunned](../../rules/appendices/conditions.md#stunned) conditions. If she succeeds at a Fortitude or Will save against an attack that has a reduced effect on a successful save, she instead avoids the effect entirely. If a mammoth rider and her steed both hit an opponent on the same turn, the foe must succeed at a Fortitude save (DC = 10 + half the steed’s Hit Dice + the steed’s Strength modifier) or be stunned for 1 round. Whether or not the target succeeds, it is immune to this ability for 24 hours thereafter.
+#### Mistrust of Magic (Ex)
+
+At 4th level, as long as a mammoth rider doesn’t have levels in a class that grants arcane spellcasting ability, she gains a +2 morale bonus on saving throws against arcane spells. If she has no levels in classes granting divine spellcasting ability, she gains a +2 morale bonus on saving throws against divine spells. If she has no levels in classes granting psychic spellcasting ability, she gains a +2 morale bonus on saving throws against [psychic spells](../classes/psychic.md#spells).
+
+#### Undaunted (Ex)
+
+At 4th level, a mammoth rider adds her Strength bonus to the DC of [Intimidate](../../rules/skills/intimidate.md) checks attempted against her. Additionally, creatures attempting to intimidate a mammoth rider don’t gain a bonus for being larger than her.
+
+#### Valiant Devotion (Ex)
+
+At 5th level, a mammoth rider’s steed gains a +4 morale bonus against charm, compulsion, and fear effects.
+
+#### Hunter’s Instinct (Ex)
+
+At 6th level, a mammoth rider gains the quarry class feature; this functions exactly like the ranger ability of the same name. If she already has the quarry class feature from another class, she instead gains the improved quarry class feature. A mammoth rider can use these abilities on any creature, not just a favored enemy.
+
+#### Steed’s Reach (Ex)
+
+At 7th level, a mammoth rider’s steed’s reach improves to 15 feet.
+
+#### Combined Might (Ex)
+
+At 8th level, a mounted mammoth rider strikes with the combined power of herself and her steed. Once per round, when the mammoth rider hits with a melee attack from astride her steed during a charge, she adds half her steed’s Strength bonus to the damage roll in addition to her own, provided her steed is currently capable of taking a free action.
+
+#### Pulverizing Assault (Ex)
+
+At 9th level, if a mammoth rider is mounted on her steed and directs it to charge or make a constrict, powerful charge, or trample attack, then the first time that her steed deals damage with that attack this round, the target must succeed at a Fortitude save (DC = 10 + half the steed’s Hit Dice + the steed’s Strength modifier) or be [staggered](../../rules/appendices/conditions.md#staggered) for 1d4 rounds.
+
+#### Mammoth Lord (Ex)
+
+At 10th level, a mammoth rider becomes immune to the [dazed](../../rules/appendices/conditions.md#dazed), [fatigued](../../rules/appendices/conditions.md#fatigued), [shaken](../../rules/appendices/conditions.md#shaken), [sickened](../../rules/appendices/conditions.md#sickened), staggered, and [stunned](../../rules/appendices/conditions.md#stunned) conditions. If she succeeds at a Fortitude or Will save against an attack that has a reduced effect on a successful save, she instead avoids the effect entirely. If a mammoth rider and her steed both hit an opponent on the same turn, the foe must succeed at a Fortitude save (DC = 10 + half the steed’s Hit Dice + the steed’s Strength modifier) or be stunned for 1 round. Whether or not the target succeeds, it is immune to this ability for 24 hours thereafter.

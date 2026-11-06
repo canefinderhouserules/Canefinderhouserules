@@ -43,40 +43,74 @@ The master spy’s class skills are Bluff (Cha), Diplomacy (Cha), Disable Device
 
 The following are class features of the master spy prestige class.
 
-**Weapon and Armor Proficiency**: A master spy gains no proficiency with any weapon or armor.
+#### Weapon and Armor Proficiency
 
-**Art of Deception (Ex)**: A master spy adds her class level to all [Bluff](../../rules/skills/bluff.md), [Disguise](../../rules/skills/disguise.md), and [Sense Motive](../../rules/skills/sense-motive.md) checks.
+A master spy gains no proficiency with any weapon or armor.
 
-**Master of Disguise (Ex)**: A master spy can create a disguise in half the time normally required. In addition, any penalties from assuming a disguise of a different gender, race, age, or size are reduced by 1.
+#### Art of Deception (Ex)
 
-**Sneak Attack (Ex)**: This ability is exactly like the [rogue ability](../classes/rogue.md#sneak-attack) of the same name. The extra damage dealt increases by +1d6 at every third level (1st, 4th, 7th, and 10th). If a master spy gets a sneak attack bonus from another source, the bonuses on damage stack.
+A master spy adds her class level to all [Bluff](../../rules/skills/bluff.md), [Disguise](../../rules/skills/disguise.md), and [Sense Motive](../../rules/skills/sense-motive.md) checks.
 
-**Glib Lie (Su)**: A master spy of 2nd level or higher can deceive truth-detecting magic. A creature using this sort of magic against the spy must succeed on a caster level check against a DC of 15 + the master spy’s class level to succeed (as if she were under the effect of a glibness spell); failure means the magic doesn’t detect the spy’s lies or force her to speak only the truth. This ability does not give the master spy the glibness spell’s bonus on Bluff checks.
+#### Master of Disguise (Ex)
 
-**Mask Alignment (Su)**: A master spy of 2nd level or higher can alter her alignment aura to deceive spells that discern alignment (such as detect evil). She may choose to detect as any specific alignment, or to detect as no alignment at all. This ability does not protect against spells or effects that cause harm based on alignment. Masking her alignment aura is a standard action, and lasts until she changes it again or ends the effect.
+A master spy can create a disguise in half the time normally required. In addition, any penalties from assuming a disguise of a different gender, race, age, or size are reduced by 1.
 
-**Nonmagical Aura (Sp)**: At 3rd level, a master spy can use magic aura twice per day, but only for the purpose of making an object appear nonmagical.
+#### Sneak Attack (Ex)
 
-**Superficial Knowledge (Ex)**: A master spy gives the appearance of knowing more than she actually does.
+This ability is exactly like the [rogue ability](../classes/rogue.md#sneak-attack) of the same name. The extra damage dealt increases by +1d6 at every third level (1st, 4th, 7th, and 10th). If a master spy gets a sneak attack bonus from another source, the bonuses on damage stack.
+
+#### Glib Lie (Su)
+
+A master spy of 2nd level or higher can deceive truth-detecting magic. A creature using this sort of magic against the spy must succeed on a caster level check against a DC of 15 + the master spy’s class level to succeed (as if she were under the effect of a glibness spell); failure means the magic doesn’t detect the spy’s lies or force her to speak only the truth. This ability does not give the master spy the glibness spell’s bonus on Bluff checks.
+
+#### Mask Alignment (Su)
+
+A master spy of 2nd level or higher can alter her alignment aura to deceive spells that discern alignment (such as detect evil). She may choose to detect as any specific alignment, or to detect as no alignment at all. This ability does not protect against spells or effects that cause harm based on alignment. Masking her alignment aura is a standard action, and lasts until she changes it again or ends the effect.
+
+#### Nonmagical Aura (Sp)
+
+At 3rd level, a master spy can use magic aura twice per day, but only for the purpose of making an object appear nonmagical.
+
+#### Superficial Knowledge (Ex)
+
+A master spy gives the appearance of knowing more than she actually does.
 
 Starting at 3rd level, she can make untrained [Knowledge](../../rules/skills/knowledge.md) and [Profession](../../rules/skills/profession.md) checks pertaining to her cover or assumed identity as if she were trained and gains a bonus equal to half her level on these checks. For example, a master spy masquerading as a noblewoman can make untrained Knowledge (history) checks about the kingdom and Knowledge (nobility) checks about its noble and royal families as if she were trained, but she cannot make untrained Knowledge (nature) skill checks to identify herbs.
 
-**Concealed Thoughts (Su)**: A 4th-level master spy can conceal her schemes from mind-reading magic.
+#### Concealed Thoughts (Su)
+
+A 4th-level master spy can conceal her schemes from mind-reading magic.
 
 When a creature is using detect thoughts or similar magic to read her mind, she decides what surface thoughts her opponent detects, and her true surface thoughts remain private. This ability does not protect against mental attacks or mind-reading that delves deeper than surface thoughts.
 
-**Quick Change (Ex)**: Starting at 4th level, a master spy can assume a disguise in only 2d4 rounds by taking a –10 penalty on her Disguise check. This penalty drops to –5 at 8th level.
+#### Quick Change (Ex)
 
-**Elude Detection (Sp)**: At 5th level, a master spy can befuddle divinations used against her as if she were under the effect of a nondetection spell with a caster level equal to her character level. She can suppress or resume this protection as a standard action. If dispelled, the spy cannot resume the nondetection for 1d4 rounds.
+Starting at 4th level, a master spy can assume a disguise in only 2d4 rounds by taking a –10 penalty on her Disguise check. This penalty drops to –5 at 8th level.
 
-**Slippery Mind (Su)**: At 5th level, a master spy can slip away from mental control. This functions as the rogue advanced talent of the same name. If the spy has the slippery mind ability from another class, these abilities stack, but she can still only use slippery mind once per round.
+#### Elude Detection (Sp)
 
-**Shift Alignment (Su)**: Starting at 6th level, a master spy’s control over her aura improves. When she assumes a false alignment, she can choose to have all spells and magic items affect her as though she were that alignment; this includes helpful and harmful effects. For example, a neutral good master spy can shift her aura to lawful evil so she can pass through a doorway that shocks creatures that aren’t lawful evil; if hit by holy smite with this shifted aura, she takes damage as if she were evil. A master spy can change her alignment aura from a masked alignment (as per her 2nd-level class feature, where effects still function based on her actual alignment) to a shifted alignment (as per this ability, where effects function based on her assumed alignment) as a standard action. Shifting her alignment aura is a standard action, and lasts until she changes it again or ends the effect.
+At 5th level, a master spy can befuddle divinations used against her as if she were under the effect of a nondetection spell with a caster level equal to her character level. She can suppress or resume this protection as a standard action. If dispelled, the spy cannot resume the nondetection for 1d4 rounds.
 
-**Death Attack (Ex)**: At 8th level, a master spy learns the art of killing or paralyzing a foe with a careful strike. This ability functions as the assassin’s death attack ability. If the master spy has levels in another class that grants the death attack ability, these levels stack with her master spy level to determine the DC of her death attack, even if she has not yet reached 8th level as a master spy.
+#### Slippery Mind (Su)
 
-**Fool Casting (Su)**: A master spy of 8th level or higher can trick an opponent into believing that she has been charmed or dominated. When the master spy succeeds at a saving throw against a magical effect that provides ongoing control (such as charm person, dominate person, or a vampire’s dominate ability), she can allow the spell to take partial effect. To the caster, it appears that the spy failed her saving throw, but the spy is not under the caster’s control. If the spell provides a telepathic link, it functions normally, but the spy is under no obligation to follow the caster’s commands. The master spy can dismiss a fooled spell as a standard action. Fooled casting can be used when the spy succeeds at a subsequent saving throw against an ongoing effect, such as that granted by slippery mind.
+At 5th level, a master spy can slip away from mental control. This functions as the rogue advanced talent of the same name. If the spy has the slippery mind ability from another class, these abilities stack, but she can still only use slippery mind once per round.
 
-**Hidden Mind (Sp)**: At 9th level, a master spy gains the benefit of a constant mind blank spell at a caster level equal to her character level. The spy can suppress or resume this protection as a standard action. If dispelled, the spy cannot resume the mind blank for 1d4 rounds.
+#### Shift Alignment (Su)
 
-**Assumption (Su)**: The ultimate ability of the master spy is to take over another persona entirely, making it her own. As a full-round action, the spy can touch a [helpless](../../rules/appendices/conditions.md#helpless) creature and shift her aura to that of her target. This confuses divination effects and spells, even ones as powerful as discern location, such that they register the spy as being the creature she has touched. This ability is not proof against the actions of deities or similarly powerful beings. The assumption of an identity lasts until the master spy ends it (a standard action) or she uses the ability on another creature.
+Starting at 6th level, a master spy’s control over her aura improves. When she assumes a false alignment, she can choose to have all spells and magic items affect her as though she were that alignment; this includes helpful and harmful effects. For example, a neutral good master spy can shift her aura to lawful evil so she can pass through a doorway that shocks creatures that aren’t lawful evil; if hit by holy smite with this shifted aura, she takes damage as if she were evil. A master spy can change her alignment aura from a masked alignment (as per her 2nd-level class feature, where effects still function based on her actual alignment) to a shifted alignment (as per this ability, where effects function based on her assumed alignment) as a standard action. Shifting her alignment aura is a standard action, and lasts until she changes it again or ends the effect.
+
+#### Death Attack (Ex)
+
+At 8th level, a master spy learns the art of killing or paralyzing a foe with a careful strike. This ability functions as the assassin’s death attack ability. If the master spy has levels in another class that grants the death attack ability, these levels stack with her master spy level to determine the DC of her death attack, even if she has not yet reached 8th level as a master spy.
+
+#### Fool Casting (Su)
+
+A master spy of 8th level or higher can trick an opponent into believing that she has been charmed or dominated. When the master spy succeeds at a saving throw against a magical effect that provides ongoing control (such as charm person, dominate person, or a vampire’s dominate ability), she can allow the spell to take partial effect. To the caster, it appears that the spy failed her saving throw, but the spy is not under the caster’s control. If the spell provides a telepathic link, it functions normally, but the spy is under no obligation to follow the caster’s commands. The master spy can dismiss a fooled spell as a standard action. Fooled casting can be used when the spy succeeds at a subsequent saving throw against an ongoing effect, such as that granted by slippery mind.
+
+#### Hidden Mind (Sp)
+
+At 9th level, a master spy gains the benefit of a constant mind blank spell at a caster level equal to her character level. The spy can suppress or resume this protection as a standard action. If dispelled, the spy cannot resume the mind blank for 1d4 rounds.
+
+#### Assumption (Su)
+
+The ultimate ability of the master spy is to take over another persona entirely, making it her own. As a full-round action, the spy can touch a [helpless](../../rules/appendices/conditions.md#helpless) creature and shift her aura to that of her target. This confuses divination effects and spells, even ones as powerful as discern location, such that they register the spy as being the creature she has touched. This ability is not proof against the actions of deities or similarly powerful beings. The assumption of an identity lasts until the master spy ends it (a standard action) or she uses the ability on another creature.

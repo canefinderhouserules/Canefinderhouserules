@@ -43,36 +43,64 @@ The Explorer chronicler’s class skills (and the key ability for each skill) ar
 
 The following are class features of the Explorer chronicler prestige class.
 
-**Weapon and Armor Proficiency**: Explorer chroniclers gain no proficiency with any weapon or armor
+#### Weapon and Armor Proficiency
 
-**Bardic Knowledge (Ex)**: This ability is identical to the bard class feature of the same name, and levels in this class stack with levels in any other class that grants a similar ability.
+Explorer chroniclers gain no proficiency with any weapon or armor
 
-**Deep Pockets (Ex)**: A Explorer chronicler collects items as well as lore, picking up small amounts of this or that throughout her travels. As a result, she may carry unspecified equipment worth up to 100 gp per class level. This can be any kind of gear that can reasonably fit into a backpack, including potions and scrolls (but not any other sort of magic item). As a full-round action, the chronicler may dig through her pockets to retrieve an item she specifies at that time, deducting its value from the allocated amount of cost. This item cannot weigh more than 10 pounds. When the total remaining cost reaches 0, the chronicler can retrieve no more items until she refills her deep pockets by spending a few hours and an amount of gold to bring her total up to 100 gp per class level.
+#### Bardic Knowledge (Ex)
+
+This ability is identical to the bard class feature of the same name, and levels in this class stack with levels in any other class that grants a similar ability.
+
+#### Deep Pockets (Ex)
+
+A Explorer chronicler collects items as well as lore, picking up small amounts of this or that throughout her travels. As a result, she may carry unspecified equipment worth up to 100 gp per class level. This can be any kind of gear that can reasonably fit into a backpack, including potions and scrolls (but not any other sort of magic item). As a full-round action, the chronicler may dig through her pockets to retrieve an item she specifies at that time, deducting its value from the allocated amount of cost. This item cannot weigh more than 10 pounds. When the total remaining cost reaches 0, the chronicler can retrieve no more items until she refills her deep pockets by spending a few hours and an amount of gold to bring her total up to 100 gp per class level.
 
 In addition, if she takes 1 hour to pack her gear each day, she gains a +4 bonus to Strength to determine her light encumbrance. This does not affect her maximum carrying capacity. The efficient distribution of weight simply encumbers her less than the same amount of weight normally should. Finally, the Explorer chronicler gains a +4 bonus on [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks made to conceal small objects on her person.
 
-**Master Scribe (Ex)**: A Explorer chronicler adds her class level as a bonus on all [Linguistics](../../rules/skills/linguistics.md) and [Profession](../../rules/skills/profession.md) (scribe) checks, as well as [Use Magic Device](../../rules/skills/use-magic-device.md) checks involving scrolls or other written magical items. A Explorer chronicler can make Linguistics checks to decipher text as a full-round action and can always take 10 on Linguistics and Profession (scribe) checks, even if distracted or endangered.
+#### Master Scribe (Ex)
 
-**Live to Tell the Tale (Ex)**: At 2nd level, once per day per two class levels, a Explorer chronicler can attempt a new saving throw against any ongoing condition against which she failed a saving throw in a previous round, even if the effect is normally permanent. This ability has no effect on conditions that do not allow saving throws or against instantaneous effects.
+A Explorer chronicler adds her class level as a bonus on all [Linguistics](../../rules/skills/linguistics.md) and [Profession](../../rules/skills/profession.md) (scribe) checks, as well as [Use Magic Device](../../rules/skills/use-magic-device.md) checks involving scrolls or other written magical items. A Explorer chronicler can make Linguistics checks to decipher text as a full-round action and can always take 10 on Linguistics and Profession (scribe) checks, even if distracted or endangered.
 
-**Pathfinding (Ex)**: Beginning at 2nd level, a Explorer chronicler develops an excellent sense of direction and skill at leading others through difficult terrain or by following ancient maps. A Explorer chronicler gains a +5 bonus on [Survival](../../rules/skills/survival.md) checks made to avoid becoming lost and to Intelligence checks to escape a [*maze*](../../magic/spells/maze.md) spell. In addition, she always uses the “road or trail” overland movement modifier even when in trackless terrain, whether on foot or mounted. With a DC 15 Survival check, the Explorer chronicler can extend this benefit to one companion per class level.
+#### Live to Tell the Tale (Ex)
 
-**Bardic Performance (Su)**: At 3rd level, a Explorer chronicler gains this ability, which functions like the [bard class feature](../classes/bard.md#bardic-performance) of the same name, except that the chronicler’s effective bard level is 2 lower than her class level. Levels in this class stack with levels in any other class that grants a similar ability to determine her effective bard level.
+At 2nd level, once per day per two class levels, a Explorer chronicler can attempt a new saving throw against any ongoing condition against which she failed a saving throw in a previous round, even if the effect is normally permanent. This ability has no effect on conditions that do not allow saving throws or against instantaneous effects.
 
-**Improved Aid (Ex)**: Starting at 3rd level, a Explorer chronicler using the aid another action grants a +4 bonus, rather than the normal +2.
+#### Pathfinding (Ex)
 
-**Epic Tales (Su)**: A 4th-level Explorer chronicler can inscribe a tale so evocative and so moving that it conveys the effects of bardic performance through the written word. To create an epic tale requires the explorer chronicler to expend a number of rounds of her bardic performance ability equal to twice the duration of the epic tale (maximum duration of 10 rounds), and any relevant [Perform](../../rules/skills/perform.md) skill check is made with Profession (scribe) instead. An epic tale affects only the reader, but it grants all the benefits that would normally apply for hearing a performance. A Explorer chronicler may apply the effects of any feats that affect bardic performance to her epic tales. An epic tale retains its supernatural potency for 1 day per class level. It requires 1 hour to inscribe, a full-round action to activate, and a duration equal to 1/2 the number of bardic performance rounds expended during its creation. Once activated, an epic tale’s magic is consumed.
+Beginning at 2nd level, a Explorer chronicler develops an excellent sense of direction and skill at leading others through difficult terrain or by following ancient maps. A Explorer chronicler gains a +5 bonus on [Survival](../../rules/skills/survival.md) checks made to avoid becoming lost and to Intelligence checks to escape a [*maze*](../../magic/spells/maze.md) spell. In addition, she always uses the “road or trail” overland movement modifier even when in trackless terrain, whether on foot or mounted. With a DC 15 Survival check, the Explorer chronicler can extend this benefit to one companion per class level.
 
-**Whispering Campaign (Ex)**: Explorer chroniclers influence the world through their control of information and ability to shape public perception. At 5th level, as a special use of bardic performance, the Explorer chronicler can create the effect of a [*doom*](../../magic/spells/doom.md) spell as cast by a sorcerer of her class level by denouncing a creature in person. This is a language-dependent effect.
+#### Bardic Performance (Su)
+
+At 3rd level, a Explorer chronicler gains this ability, which functions like the [bard class feature](../classes/bard.md#bardic-performance) of the same name, except that the chronicler’s effective bard level is 2 lower than her class level. Levels in this class stack with levels in any other class that grants a similar ability to determine her effective bard level.
+
+#### Improved Aid (Ex)
+
+Starting at 3rd level, a Explorer chronicler using the aid another action grants a +4 bonus, rather than the normal +2.
+
+#### Epic Tales (Su)
+
+A 4th-level Explorer chronicler can inscribe a tale so evocative and so moving that it conveys the effects of bardic performance through the written word. To create an epic tale requires the explorer chronicler to expend a number of rounds of her bardic performance ability equal to twice the duration of the epic tale (maximum duration of 10 rounds), and any relevant [Perform](../../rules/skills/perform.md) skill check is made with Profession (scribe) instead. An epic tale affects only the reader, but it grants all the benefits that would normally apply for hearing a performance. A Explorer chronicler may apply the effects of any feats that affect bardic performance to her epic tales. An epic tale retains its supernatural potency for 1 day per class level. It requires 1 hour to inscribe, a full-round action to activate, and a duration equal to 1/2 the number of bardic performance rounds expended during its creation. Once activated, an epic tale’s magic is consumed.
+
+#### Whispering Campaign (Ex)
+
+Explorer chroniclers influence the world through their control of information and ability to shape public perception. At 5th level, as a special use of bardic performance, the Explorer chronicler can create the effect of a [*doom*](../../magic/spells/doom.md) spell as cast by a sorcerer of her class level by denouncing a creature in person. This is a language-dependent effect.
 
 Alternatively, the chronicler can denounce a particular target (an individual or a definable group of creatures) to others. This form of bardic music creates the effect of the [*enthrall*](../../magic/spells/enthrall.md) spell, but at the end of the performance all creatures who failed to save shift their attitude toward the target of the oration by one step (in the direction of the Explorer chronicler’s choice) for 1 day per class level.
 
-**Inspire Action (Su)**: As a special use of bardic performance, a 6th-level Explorer chronicler can exhort any one ally within hearing to a sudden surge of action, allowing her ally to immediately take an extra move action. This does not count against the ally’s number of actions on his own turn.
+#### Inspire Action (Su)
+
+As a special use of bardic performance, a 6th-level Explorer chronicler can exhort any one ally within hearing to a sudden surge of action, allowing her ally to immediately take an extra move action. This does not count against the ally’s number of actions on his own turn.
 
 At 9th level, she can enable an ally to immediately take a standard action instead.
 
-**Call Down the Legends (Su)**: At 7th level, once per week as a full-round action, a Explorer chronicler can summon 2d4 4th-level human barbarians, as if she used a bronze *horn of Valhalla*; these summoned barbarians serve her with complete loyalty. The barbarians are constructs, not actual people (although they seem to be). They arrive with the normal starting equipment for barbarians and attack anyone the chronicler designates.
+#### Call Down the Legends (Su)
 
-**Greater Epic Tales (Su)**: At 8th level, the Explorer chronicler’s written word gains power. This ability functions like the chronicler’s epic tales ability, except that if read aloud, the bardic performance takes effect as if the author had used the ability, but the effects are targeted by the reader and use the reader’s Charisma score where applicable.
+At 7th level, once per week as a full-round action, a Explorer chronicler can summon 2d4 4th-level human barbarians, as if she used a bronze *horn of Valhalla*; these summoned barbarians serve her with complete loyalty. The barbarians are constructs, not actual people (although they seem to be). They arrive with the normal starting equipment for barbarians and attack anyone the chronicler designates.
 
-**Lay of the Exalted Dead (Su)**: Once per week as a full-round action, a 10th-level Explorer chronicler can summon 1d4+1 5th-level human barbarians, as if she used an iron *horn of Valhalla.* The summoned barbarians serve her with complete and unquestioning loyalty. They are constructs, with the incorporeal subtype (they take 50% of the damage from corporeal sources, and no damage from nonmagical sources). They arrive wearing *+2 studded leather* and wielding *+1 ghost touch greataxes* (allowing them to deal full damage to corporeal creatures) and attack anyone the chronicler designates. To the chronicler and their allies, these exalted dead appear like a noble troop of spectral warriors. Her enemies, however, behold the terrible wrath of the ancient heroes and must succeed at Will saves or become [shaken](../../rules/appendices/conditions.md#shaken) for 1 round per summoned barbarian (DC 15 + the Explorer chronicler’s Charisma modifier).
+#### Greater Epic Tales (Su)
+
+At 8th level, the Explorer chronicler’s written word gains power. This ability functions like the chronicler’s epic tales ability, except that if read aloud, the bardic performance takes effect as if the author had used the ability, but the effects are targeted by the reader and use the reader’s Charisma score where applicable.
+
+#### Lay of the Exalted Dead (Su)
+
+Once per week as a full-round action, a 10th-level Explorer chronicler can summon 1d4+1 5th-level human barbarians, as if she used an iron *horn of Valhalla.* The summoned barbarians serve her with complete and unquestioning loyalty. They are constructs, with the incorporeal subtype (they take 50% of the damage from corporeal sources, and no damage from nonmagical sources). They arrive wearing *+2 studded leather* and wielding *+1 ghost touch greataxes* (allowing them to deal full damage to corporeal creatures) and attack anyone the chronicler designates. To the chronicler and their allies, these exalted dead appear like a noble troop of spectral warriors. Her enemies, however, behold the terrible wrath of the ancient heroes and must succeed at Will saves or become [shaken](../../rules/appendices/conditions.md#shaken) for 1 round per summoned barbarian (DC 15 + the Explorer chronicler’s Charisma modifier).

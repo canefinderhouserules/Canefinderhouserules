@@ -55,13 +55,21 @@ The hell knight's class skills (and the key ability for each skill) are Intimida
 
 The following are class features of the hell knight prestige class.
 
-**Aura of Law (Ex)**: A hell knight’s lawful aura (see the [*detect law*](../../magic/spells/detect-law.md) spell) functions as that of a cleric whose level is equal to the hell knight’s character level.
+#### Aura of Law (Ex)
 
-**Detect Chaos (Sp)**: This ability functions like the [paladin’s detect evil](../classes/paladin.md#detect-evil-sp) class feature, save that it grants the use of [*detect chaos*](../../magic/spells/detect-chaos.md) instead.
+A hell knight’s lawful aura (see the [*detect law*](../../magic/spells/detect-law.md) spell) functions as that of a cleric whose level is equal to the hell knight’s character level.
 
-**Order**: A character must choose one knightly order to join at 1st level: the order of Shackles (bounty hunters who seek escaped convicts and fugitives and often jail politically inconvenient prisoners), Portal (spellcasting signifers who use infernal magic to learn of catastrophic crimes before they occur), Faithful (faith-driven knights devoted to a pantheon of lawful deities), Spike (knights who crusade against “uncivilized” peoples), Brazier (hunters of shamans, witches, occult practitioners, and disciples of less-established faiths), Austerity (destroyers of dangerous knowledge and revolutionary philosophies), or Lash (opponents of criminal activity and watchers for corruption among authorities). The choice of order determines which disciplines the character later gains access to. See [Knightly Orders](knightly-orders.md) for each order's reckoning and boons.
+#### Detect Chaos (Sp)
 
-**Smite Chaos (Su)**: Once per day, a hell knight can call out to the powers of law to aid him in his struggle against chaos. As a swift action, he chooses one target within sight to smite. If this target is chaotic, the hell knight adds his Charisma bonus (if any) to his attack rolls and adds twice his hell knight level to all damage rolls made against the target of his smite. If he has levels in another class that grants a smite ability, those levels are instead added to his hell knight level for this damage. This damage bonus can never exceed the hell knight’s Hit Dice. However, if the target of smite chaos is an outsider with the chaotic subtype, a chaotic-aligned aberration, or a fey, the bonus to damage on the first successful attack is doubled, and this doubled bonus can exceed that limit. Regardless of the target, smite chaos attacks automatically bypass any DR the creature might possess.
+This ability functions like the [paladin’s detect evil](../classes/paladin.md#detect-evil-sp) class feature, save that it grants the use of [*detect chaos*](../../magic/spells/detect-chaos.md) instead.
+
+#### Order
+
+A character must choose one knightly order to join at 1st level: the order of Shackles (bounty hunters who seek escaped convicts and fugitives and often jail politically inconvenient prisoners), Portal (spellcasting signifers who use infernal magic to learn of catastrophic crimes before they occur), Faithful (faith-driven knights devoted to a pantheon of lawful deities), Spike (knights who crusade against “uncivilized” peoples), Brazier (hunters of shamans, witches, occult practitioners, and disciples of less-established faiths), Austerity (destroyers of dangerous knowledge and revolutionary philosophies), or Lash (opponents of criminal activity and watchers for corruption among authorities). The choice of order determines which disciplines the character later gains access to. See [Knightly Orders](knightly-orders.md) for each order's reckoning and boons.
+
+#### Smite Chaos (Su)
+
+Once per day, a hell knight can call out to the powers of law to aid him in his struggle against chaos. As a swift action, he chooses one target within sight to smite. If this target is chaotic, the hell knight adds his Charisma bonus (if any) to his attack rolls and adds twice his hell knight level to all damage rolls made against the target of his smite. If he has levels in another class that grants a smite ability, those levels are instead added to his hell knight level for this damage. This damage bonus can never exceed the hell knight’s Hit Dice. However, if the target of smite chaos is an outsider with the chaotic subtype, a chaotic-aligned aberration, or a fey, the bonus to damage on the first successful attack is doubled, and this doubled bonus can exceed that limit. Regardless of the target, smite chaos attacks automatically bypass any DR the creature might possess.
 
 In addition, while smite chaos is in effect, the hell knight gains a deflection bonus equal to his Charisma modifier (if any) to his AC against attacks made by the target of the smite. If he targets a creature that is not chaotic, the smite is wasted with no effect.
 
@@ -71,13 +79,21 @@ The smite chaos effect remains until the target of the smite is dead or the next
 
     **Smite Chaos (Su)**: This ability functions as the [paladin’s smite evil](../classes/paladin.md#smite-evil-su) class feature but against chaotic-aligned creatures. This ability is twice as effective against outsiders with the chaotic subtype, chaotic-aligned aberrations, and fey.
 
-**Aligned Class (Ex)**: At 2nd level, a hell knight must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
+#### Aligned Class (Ex)
 
-**Discern Lies (Sp)**: At 2nd level, a hell knight can use [*discern lies*](../../magic/spells/discern-lies.md) as a spell-like ability a number of times per day equal to 3 + his Charisma modifier with a caster level equal to his character level.
+At 2nd level, a hell knight must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
 
-**Hell Knight Armor (Ex)**: At 2nd level, a hell knight earns the right to wear [hell knight plate](../../equipment/gear-ag.md), which does not reduce his speed. While wearing this armor, the hell knight reduces its armor check penalty by 1 and increases the maximum Dexterity bonus allowed by 1. At 5th level, these adjustments increase to 2. At 8th level, these adjustments increase to 3.
+#### Discern Lies (Sp)
 
-**Disciplines**: At 3rd level, a hell knight gains access to his first discipline, choosing one associated with his specific order. At 6th level, he gains a second discipline, choosing from any listed as being available to “any order.” At 9th level, he gains his third discipline, choosing this one from any of the disciplines listed below, even those from another order, with the exception of pentamic faith. When applicable, the save DC to resist a discipline’s effect is equal to 10 + the hell knight’s level + his Charisma modifier. If a hell knight has the [Hell Knight Obedience](../../rules/feats/hell-knight-obedience.md) feat, he can choose to gain its boons at 3rd, 6th, and 9th level, respectively, instead of gaining a discipline.
+At 2nd level, a hell knight can use [*discern lies*](../../magic/spells/discern-lies.md) as a spell-like ability a number of times per day equal to 3 + his Charisma modifier with a caster level equal to his character level.
+
+#### Hell Knight Armor (Ex)
+
+At 2nd level, a hell knight earns the right to wear [hell knight plate](../../equipment/gear-ag.md), which does not reduce his speed. While wearing this armor, the hell knight reduces its armor check penalty by 1 and increases the maximum Dexterity bonus allowed by 1. At 5th level, these adjustments increase to 2. At 8th level, these adjustments increase to 3.
+
+#### Disciplines
+
+At 3rd level, a hell knight gains access to his first discipline, choosing one associated with his specific order. At 6th level, he gains a second discipline, choosing from any listed as being available to “any order.” At 9th level, he gains his third discipline, choosing this one from any of the disciplines listed below, even those from another order, with the exception of pentamic faith. When applicable, the save DC to resist a discipline’s effect is equal to 10 + the hell knight’s level + his Charisma modifier. If a hell knight has the [Hell Knight Obedience](../../rules/feats/hell-knight-obedience.md) feat, he can choose to gain its boons at 3rd, 6th, and 9th level, respectively, instead of gaining a discipline.
 
 ??? note "Original rule"
 
@@ -105,14 +121,22 @@ The hell knight can use any one discipline a number of times per day equal to th
 - **Trace (Su; any order)**: The hell knight can study a single personal belonging of a creature for 1 minute, after which he knows the general direction of the creature's current location as long as it is within 1 mile and on the same plane, and which direction it is moving, if any. The effect lasts 10 minutes per character level. An object can be the focus of this ability only once. A "personal belonging" is any object the creature owned or carried for more than a week. If the target is under [*nondetection*](../../magic/spells/nondetection.md) or a similar effect, or is on a different plane, the ability gives no result.
 - **Versatile Intimidation (Ex; any order)**: The hell knight can use Intimidate to reproduce the effects of another Charisma-based skill: choose Bluff, [Diplomacy](../../rules/skills/diplomacy.md), [Handle Animal](../../rules/skills/handle-animal.md), or [Perform](../../rules/skills/perform.md) (oratory). Each time he wishes to use that skill, he can attempt an Intimidate check and treat it as a check of the desired type. At 9th level he can choose one additional skill from the list.
 
-**Force of Will (Ex)**: A hell knight gains [Iron Will](../../rules/feats/iron-will.md) as a bonus feat at 3rd level, [Improved Iron Will](../../rules/feats/improved-iron-will.md) at 6th level, and Mythic Iron Will at 9th level.
+#### Force of Will (Ex)
+
+A hell knight gains [Iron Will](../../rules/feats/iron-will.md) as a bonus feat at 3rd level, [Improved Iron Will](../../rules/feats/improved-iron-will.md) at 6th level, and Mythic Iron Will at 9th level.
 
 ??? note "Original rule"
 
     **Force of Will (Ex)**: At 3rd level, a hell knight gains a +2 bonus on Will saves against spells with any one of the following subschools or descriptors: charm, compulsion, glamer, fear, figment, pattern, or phantasm. At 6th level, the hell knight chooses another subschool or descriptor from the list and gains a +2 bonus on his Will saves against spells of that type, and the bonus provided by his first selection increases to +4. At 9th level, he chooses from the list again, and both previous selections increase by 2, so that he has a +6, a +4, and a +2 bonus, respectively, against spells of three different groups.
 
-**Lawbringer (Ex)**: At 7th level, a hell knight’s attacks are treated as being lawful for the purpose of overcoming damage reduction.
+#### Lawbringer (Ex)
 
-**Infernal Armor (Su)**: As long as he wears hell knight armor, a 9th-level hell knight gains a +2 bonus on all Charisma-related checks made while interacting with lawful, nongood creatures. In addition, while wearing the armor, he gains the ability to see perfectly in darkness of any kind, resistance to fire 30, resistance to acid 10, and resistance to cold 10.
+At 7th level, a hell knight’s attacks are treated as being lawful for the purpose of overcoming damage reduction.
 
-**Hell’s Knight (Su)**: At 10th level, a hell knight can grant a weapon he wields or touches the axiomatic, flaming burst, or unholy weapon special ability. This weapon has this special ability as long as the hell knight remains within 100 feet of the weapon, but a hell knight can maintain only a single weapon’s granted special ability at a time. The hell knight also becomes immune to fire while wearing hell knight plate.
+#### Infernal Armor (Su)
+
+As long as he wears hell knight armor, a 9th-level hell knight gains a +2 bonus on all Charisma-related checks made while interacting with lawful, nongood creatures. In addition, while wearing the armor, he gains the ability to see perfectly in darkness of any kind, resistance to fire 30, resistance to acid 10, and resistance to cold 10.
+
+#### Hell’s Knight (Su)
+
+At 10th level, a hell knight can grant a weapon he wields or touches the axiomatic, flaming burst, or unholy weapon special ability. This weapon has this special ability as long as the hell knight remains within 100 feet of the weapon, but a hell knight can maintain only a single weapon’s granted special ability at a time. The hell knight also becomes immune to fire while wearing hell knight plate.
