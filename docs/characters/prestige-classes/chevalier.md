@@ -50,7 +50,7 @@ You have an aura of courage equivalent to that of a 3rd-level paladin.
 
 #### Recklessness (Ex)
 
-On the round you enter battle, you gain a morale bonus equal to your class level on attack and damage rolls. You can use this ability once per day per chevalier level (twice per day at 2nd level, and three times per day at 3rd level).
+On the round you enter battle, you gain a morale bonus equal to your class level (maximum +3) on attack and damage rolls. You can use this ability once per day per chevalier level (twice per day at 2nd level, and three times per day at 3rd level), to a maximum of three times per day.
 
 ??? note "Original rule"
 
