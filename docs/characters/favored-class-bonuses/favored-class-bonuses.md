@@ -10,11 +10,11 @@ The official FCB system can still be used in case a very specific case was remov
 
 \- Gain 1/6 of a bonus **combat feat/Focus Power/Magus Arcana/Hex/slayer talent/arcanist exploit**.
 
-\- Gain 1/5 of a bonus **discovery/Wild Talent/phrenic amplification**.
+\- Gain 1/5 of a bonus **Rogue Talent/discovery/Wild Talent/phrenic amplification**.
 
 \- 1/5 of a bonus feat. This feat must be an **item creation feat, a metamagic feat, or Spell Mastery**.
 
-\- Gain 1/4 of a bonus **Rogue Talent/Teamwork Feat/mesmerist trick/Social Talent**.
+\- Gain 1/4 of a bonus **Teamwork Feat/mesmerist trick/Social Talent**.
 
 \- Add +1/3 to the character’s **natural armor bonus** when using **mutagen/Wild Shape/Rage**.
 
