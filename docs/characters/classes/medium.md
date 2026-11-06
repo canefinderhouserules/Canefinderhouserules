@@ -86,7 +86,7 @@ The medium’s selection of spells is limited. At 1st level, a medium knows two 
 
 Mediums learn a number of knacks, or 0-level spells, as noted on Table 1–3. These spells are cast like any other spell, but they don’t consume slots and can be used again.
 
-#### Spirit (Su)
+### Spirit (Su)
 
 A medium serves as a vessel to channel spirits—astral echoes of powerful souls from ages past that live on in myth and legend. Each day, a medium can channel a spirit through a ritual known as a seance. Seances take 1 hour to perform and require the medium’s concentration. At the end of a seance, the medium invites a local spirit to inhabit him and serve as his spirit for that day. Each spirit arises from one of six legends, which are described further beginning. The medium can choose the legend to which the spirit he channels belongs. The medium gains the spirit’s listed seance boon and lesser spirit power for 24 hours. The medium also gains the spirit’s intermediate spirit power at 6th level, its greater spirit power at 11th level, and its supreme spirit power at 17th level. After 24 hours, the medium loses contact with the channeled spirit and can perform another seance. A medium can invite his allies to participate in his seance—shared seance and certain spirit powers affect other participants. A character counts as participating so long as she maintains physical contact with another participating character and willfully opens herself to the spirit; unlike the medium, other participating characters can take other actions during this time. Only creatures with an Intelligence score of at least 3 can participate in a seance. In addition to granting power to the medium, a channeled spirit can influence the medium. By channeling a spirit, the medium allows the spirit to gain 1 point of influence over him. If the medium loses that 1 point of influence, he loses contact with the spirit, though he is still unable to perform a new seance until the normal 24 hour period has elapsed since his last seance. When the spirit leaves after the 24-hour duration and before the next seance, the spirit’s influence over the medium resets to 0. Certain abilities allow the medium to gain additional power in exchange for allowing the spirit more influence over him.
 
@@ -94,11 +94,11 @@ When a spirit gains at least 3 points of influence over the medium, the dual imp
 
 If a spirit ever attains 5 or more points of influence over the medium, the medium completely loses control to the spirit. He effectively becomes an NPC under the GM’s control until after he awakens the next day with the spirit gone. During his seance, the medium can choose to channel a weaker spirit to gain its help without incurring as much of its influence. If he does so, he can forgo any number of spirit powers, starting with his most powerful spirit power. For each spirit power he forgoes, the medium can use his spirit surge ability twice without incurring influence.
 
-#### Spirit Bonus (Su)
+### Spirit Bonus (Su)
 
 When a medium channels a spirit, he gains a bonus on certain checks and to certain statistics, depending on the spirit. A 1st-level medium’s spirit bonus is +1; it increases by 1 at 4th level and every 4 levels thereafter.
 
-#### Spirit Surge (Su)
+### Spirit Surge (Su)
 
 After failing a d20 roll that was modified by his spirit bonus, a medium can allow his spirit to gain 1 additional point of influence over him in order to add 1d6 to the check’s result without taking an action. This can cause the check to succeed instead of fail. The medium must be conscious and aware to use this ability, and he can use this ability at most once per round. At 10th level, the medium’s spirit surge die increases to 1d8, and at 20th level it increases to 1d10.
 

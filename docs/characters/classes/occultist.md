@@ -83,7 +83,7 @@ See the Implement Schools section starting for a complete list of implements ass
 
 An occultist learns one knack, or 0-level psychic spell, each time he selects an implement school (including when he again selects a school that he has already learned to use). These spells are cast like any other spell, but they can be cast any number of times per day. Knacks cast using any other spell slots because of metamagic feats applied to them, for example, consume spell slots as normal.
 
-#### Mental Focus (Su)
+### Mental Focus (Su)
 
 An occultist can invest a portion of his mental focus into his chosen implements for the day, allowing him to utilize a variety of abilities depending on the implements and the amount of mental focus invested in them. An occultist has a number of points of mental focus equal to his occultist level + his Intelligence modifier; these points refresh each day. He can divide this mental focus between his implements in any way he desires. If an implement is lost or destroyed, the focus invested in it is lost as well, though the occultist still refreshes those points of focus normally. Once mental focus is invested inside an implement, the implement gains the resonant power of its implement school, and the occultist can expend the mental focus stored in the implement to activate the associated focus powers he knows. If a resonant power grants a bonus that varies based on the amount of mental focus invested in the implement, the bonus is determined when the focus is invested, and is not reduced or altered by expending the mental focus invested in the item. Once all of the mental focus in an implement has been expended, it loses its resonant power until mental focus is once again invested in the implement.
 

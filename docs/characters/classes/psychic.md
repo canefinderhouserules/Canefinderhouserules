@@ -88,11 +88,11 @@ At 4th level and every even-numbered level thereafter (6th, 8th, and so on), a p
 
 Psychics learn a number of knacks, or 0-level spells, as noted on Table 1–8. These spells are cast like any other spell, but they don’t consume any slots and can be used again. Knacks cast using other spell slots (due to metamagic feats, for example) consume spell slots as normal.
 
-#### Phrenic Pool (Su)
+### Phrenic Pool (Su)
 
 A psychic has a pool of supernatural mental energy that she can draw upon to manipulate psychic spells as she casts them. The maximum number of points in a psychic’s phrenic pool is equal to 1/2 her psychic level + her Wisdom or Charisma modifier, as determined by her psychic discipline. The phrenic pool is replenished each morning after 8 hours of rest or meditation; these hours don’t need to be consecutive. The psychic might be able to recharge points in her phrenic pool in additional circumstances dictated by her psychic discipline. Points gained in excess of the pool’s maximum are lost.
 
-#### Phrenic Amplifications
+### Phrenic Amplifications
 
 A psychic develops particular techniques to empower her spellcasting, called phrenic amplifications. The psychic can activate a phrenic amplification only while casting a spell using psychic magic, and the amplification modifies either the spell’s effects or the process of casting it. The spell being cast is called the linked spell. The psychic can activate only one amplification each time she casts a spell, and doing so is part of the action used to cast the spell. She can use any amplification she knows with any psychic spell, unless the amplification’s description states that it can be linked only to certain types of spells. A psychic learns one phrenic amplification at 1st level, selected from the list below. At 3rd level and every 4 levels thereafter, the psychic learns a new phrenic amplification. A phrenic amplification can’t be selected more than once. Once a phrenic amplification has been selected, it can’t be changed. Phrenic amplifications require the psychic to expend 1 or more points from her phrenic pool to function.
 
@@ -144,7 +144,7 @@ When the psychic undercasts a spell, she can spend points from her phrenic pool 
 
 Even undead creatures can be affected by the psychic’s mind-affecting spells. The psychic can spend 2 points from her phrenic pool to overcome an undead creature’s immunity to mind-affecting effects for the purposes of the linked spell. This ability functions even on mindless undead, but has no effect on creatures that aren’t undead. This amplification can be linked only to spells that have the mind-affecting descriptor.
 
-#### Psychic Discipline (Ex or Sp)
+### Psychic Discipline (Ex or Sp)
 
 Each psychic accesses and improves her mental powers through a particular method, such as rigorous study or attaining a particular mental state. This is called her psychic discipline. She gains additional spells known based on her selected discipline. The choice of discipline must be made at 1st level; once made, it can’t be changed. Each psychic discipline gives the psychic a number of discipline powers (at 1st, 5th, and 13th levels), and grants her additional spells known. In addition, the discipline determines which ability score the psychic uses for her phrenic pool and phrenic amplifications abilities. The DC of a saving throw against a psychic discipline ability equals 10 + 1/2 the psychic’s level + the psychic’s Intelligence modifier. At 1st level, a psychic learns an additional spell determined by her discipline. She learns another additional spell at 4th level and every 2 levels thereafter, until learning the final one at 18th level. These spells are in addition to the number of spells given on Table 1–8. Spells learned from a discipline can’t be exchanged for different spells at higher levels.
 
