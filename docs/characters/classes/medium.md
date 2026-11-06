@@ -94,7 +94,7 @@ When a spirit gains at least 3 points of influence over the medium, the dual imp
 
 If a spirit ever attains 5 or more points of influence over the medium, the medium completely loses control to the spirit. He effectively becomes an NPC under the GM’s control until after he awakens the next day with the spirit gone. During his seance, the medium can choose to channel a weaker spirit to gain its help without incurring as much of its influence. If he does so, he can forgo any number of spirit powers, starting with his most powerful spirit power. For each spirit power he forgoes, the medium can use his spirit surge ability twice without incurring influence.
 
-### Spirit Bonus (Su)
+#### Spirit Bonus (Su)
 
 When a medium channels a spirit, he gains a bonus on certain checks and to certain statistics, depending on the spirit. A 1st-level medium’s spirit bonus is +1; it increases by 1 at 4th level and every 4 levels thereafter.
 
