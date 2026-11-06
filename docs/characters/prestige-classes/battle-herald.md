@@ -69,7 +69,9 @@ At 5th level, this becomes a swift action, and at 10th level, it becomes an imme
 
 Maintaining an inspiring command is a free action that cannot be disrupted, but its effects end immediately if the battle herald is killed or otherwise prevented from taking actions (such as being [dazed](../../rules/appendices/conditions.md#dazed), [helpless](../../rules/appendices/conditions.md#helpless), or [stunned](../../rules/appendices/conditions.md#stunned)). The battle herald cannot have more than one command in effect at a time. She may use this ability for a number of rounds per day equal to 4 + her Charisma modifier, plus 2 additional rounds per level after 1st. She may use rounds of bardic performance to issue inspiring commands, but not vice versa. Inspiring commands are language-dependent, mind-affecting effects. The battle herald cannot maintain an inspiring command and a bardic performance at the same time (this does not preclude abilities such as persistent command or the [Lingering Performance](../../rules/feats/lingering-performance.md) feat, which continue an inspiring command or bardic performance after the battle herald stops maintaining it).
 
-Battle Magic*: One ally gains a bonus on caster level checks and concentration checks equal to the battle herald’s command bonus.
+##### Battle Magic*
+
+One ally gains a bonus on caster level checks and concentration checks equal to the battle herald’s command bonus.
 
 ##### Inspire Hardiness
 
@@ -83,7 +85,9 @@ Allies apply the battle herald’s inspiring command bonus on critical hit confi
 
 Allies apply the battle herald’s inspiring command bonus on Will saves and concentration checks.
 
-None Shall Fall*: A number of allies equal to the battle herald’s inspiring command bonus heal 1d6 points of damage. Targeted allies who are poisoned may attempt a new poison saving throw with a bonus equal to the battle herald’s inspiring command bonus; a failed save has no additional effect, but a successful save counts toward curing the poison. This healing is not positive energy and can heal undead creatures.
+##### None Shall Fall*
+
+A number of allies equal to the battle herald’s inspiring command bonus heal 1d6 points of damage. Targeted allies who are poisoned may attempt a new poison saving throw with a bonus equal to the battle herald’s inspiring command bonus; a failed save has no additional effect, but a successful save counts toward curing the poison. This healing is not positive energy and can heal undead creatures.
 
 ##### Pincer Maneuver
 
@@ -97,9 +101,13 @@ Allies affected by a fear effect may attempt a new saving throw against each fea
 
 Allies affected by exhaustion, fatigue, or sleep effects may attempt a new saving throw against each such effect; this new save has a bonus equal to the battle herald’s inspiring command bonus. Allies who are sleeping normally automatically awaken when this ability is used.
 
-Scatter*: A number of allies equal to the battle herald’s inspiring command bonus gain the benefits of the [Wind Stance](../../rules/feats/wind-stance.md) feat.
+##### Scatter*
 
-Shake It Off*: One ally subject to an ongoing condition may attempt a new saving throw to negate the effects with a bonus equal to the battle herald’s inspiring command bonus. This ability does not help against instantaneous effects, effects that require recurring saving throws to avoid additional penalties (such as diseases and poisons), or effects that do not allow a saving throw.
+A number of allies equal to the battle herald’s inspiring command bonus gain the benefits of the [Wind Stance](../../rules/feats/wind-stance.md) feat.
+
+##### Shake It Off*
+
+One ally subject to an ongoing condition may attempt a new saving throw to negate the effects with a bonus equal to the battle herald’s inspiring command bonus. This ability does not help against instantaneous effects, effects that require recurring saving throws to avoid additional penalties (such as diseases and poisons), or effects that do not allow a saving throw.
 
 ##### Sound the Charge
 
@@ -113,11 +121,11 @@ Allies gain the benefit of the [Lightning Stance](../../rules/feats/lightning-st
 
 Allies apply the battle herald’s inspiring command bonus to CMD and on Fortitude saves.
 
-#### Teamwork
+##### Teamwork
 
 Allies add the battle herald’s inspiring command bonus on skill checks or attack rolls made when using the aid another action, and if successful, the assisted ally increases the aid another bonus by an amount equal to the battle herald’s inspiring command bonus.
 
-#### Tuck and Roll
+##### Tuck and Roll
 
 Allies apply the battle herald’s inspiring command bonus on Reflex saves and [Acrobatics](../../rules/skills/acrobatics.md) checks.
 
