@@ -65,22 +65,6 @@ Any attempts to scry or otherwise locate the vigilante work only if the vigilant
 
 A vigilante knows how to behave in a way that appears perfectly proper and normal for his current identity. Should anyone suspect him of being anything other than what he appears to be while either in his social or vigilante identity, he can attempt a [Disguise](../../rules/skills/disguise.md) check with a +20 circumstance bonus to appear as his current identity, and not as his other identity.
 
-### Entrepreneur (Ex)
-
-Select any one Intelligence-, Wisdom-, or Charisma-based skill other than [Perception](../../rules/skills/perception.md) or [Use Magic Device](../../rules/skills/use-magic-device.md). The vigilante can use the selected skill to earn money as if he were using a [Profession](../../rules/skills/profession.md) skill. If he selects [Perform](../../rules/skills/perform.md) or Profession, the vigilante instead gains the skill unlock powers for those skills as appropriate for his number of ranks in that skill. If he has the social grace social talent, he can apply this benefit to all skills selected with the social grace talent.
-
-### Guise of Life (Su)
-
-An undead vigilante with this talent gains an additional social identity in the form of one living creature identical to the vigilante’s appearance in life. Successful Knowledge checks reveal information about the vigilante as if he were a living creature, and he counts as living for the purpose of divination spells and effects. He gains no other benefit from appearing to be a living creature, and remains vulnerable to positive energy and spells that affect undead. The vigilante must be a corporeal undead creature to select this talent. Humanoid vigilantes with the negative energy affinity racial trait can also select this talent, gaining a human social identity.
-
-### Guise of Unlife (Su)
-
-A vigilante with this talent gains an additional social identity in the form of an undead version of one of his existing social identities, such as a ghoul, vampire, or zombie. Successful Knowledge checks reveal information about the vigilante as if he were undead, and he counts as undead for the purpose of divination spells and effects. He gains no other benefit from appearing to be an undead creature, and remains vulnerable to negative energy and spells that affect the living. The vigilante must be a living creature to select this talent.
-
-### Intrigue Feats (Ex)
-
-The vigilante gains one of the following feats as a bonus feat: [Blustering Bluff](../../rules/feats/blustering-bluff.md), [But a Scratch](../../rules/feats/but-a-scratch.md), [Call Truce](../../rules/feats/call-truce.md), Confabulist, [Criminal Reputation](../../rules/feats/criminal-reputation.md), [Cutting Humiliation](../../rules/feats/cutting-humiliation.md), [Esoteric Linguistics](../../rules/feats/esoteric-linguistics.md), [Intoxicating Flattery](../../rules/feats/intoxicating-flattery.md), [Ironclad Logic](../../rules/feats/ironclad-logic.md), [Nerve-Racking Negotiator](../../rules/feats/nerve-racking-negotiator.md), Orator, [Persuasive Bribery](../../rules/feats/persuasive-bribery.md), [Play to the Crowd](../../rules/feats/play-to-the-crowd.md), [Quick Favor](../../rules/feats/quick-favor.md), [Rhetorical Flourish](../../rules/feats/rhetorical-flourish.md), [Sense Assumptions](../../rules/feats/sense-assumptions.md), [Sense Relationships](../../rules/feats/sense-relationships.md), or [Street Smarts](../../rules/feats/street-smarts.md). He must meet the feat’s prerequisites. This talent can be selected multiple times; each time, the vigilante gains a new feat from the above list.
-
 ### Social Talent
 
 Starting at 1st level, and every 2 levels thereafter, a vigilante gains a social talent. Unless otherwise noted, a talent can be selected only once. Some talents require the vigilante to meet other prerequisites before they can be chosen, such as having another social talent or attaining a minimum vigilante level. Once a talent has been chosen, it cannot be changed.
@@ -105,6 +89,10 @@ The vigilante is a celebrity in his area of renown, and adoring fans are all too
 
 The vigilante’s social identity is that of a skilled and respected artisan or professional, rather than a merchant or noble. In order to complete his day’s work while still continuing his vigilante activities, he has learned to work faster than normal, hiding his progress so it seems like he is working full shifts at his day job rather than spending some of that time on other pursuits. The vigilante needs to spend only 6 hours each day for mundane uses of the [Craft](../../rules/skills/craft.md) or Profession skill, rather than 8 hours. If he has the social grace social talent, he needs to spend only 4 hours for any skill he’s chosen with social grace. A vigilante must have a social identity appropriate to the chosen skill to select this talent.
 
+#### Entrepreneur (Ex)
+
+Select any one Intelligence-, Wisdom-, or Charisma-based skill other than [Perception](../../rules/skills/perception.md) or [Use Magic Device](../../rules/skills/use-magic-device.md). The vigilante can use the selected skill to earn money as if he were using a [Profession](../../rules/skills/profession.md) skill. If he selects [Perform](../../rules/skills/perform.md) or Profession, the vigilante instead gains the skill unlock powers for those skills as appropriate for his number of ranks in that skill. If he has the social grace social talent, he can apply this benefit to all skills selected with the social grace talent.
+
 #### Everyman (Su)
 
 The vigilante can take on the appearance of a specific individual whenever he assumes a mundane guise using his many guises social talent. The individual must be a farmer, laborer, or peasant. While disguised as this individual, the vigilante receives a +20 circumstance bonus on Disguise checks to appear as that individual. Any spell or ability designed to locate the individual has a 50% chance of finding the vigilante instead of the actual individual, and divination spells and abilities used on the vigilante give results as if he were the actual individual. Although this doesn’t grant the vigilante any special knowledge of the individual, the vigilante’s training grants him a +10 circumstance bonus on [Bluff](../../rules/skills/bluff.md) checks to properly play the part of the individual. A vigilante must be at least 11th level and have the many guises social talent to select this talent.
@@ -121,6 +109,14 @@ The vigilante sits at the center of a web of gossip, granting him access to the 
 
 The vigilante is known on a broader scale. He can gain renown in a single community of up to 5,000 individuals (a large town) or up to two communities of no more than 2,000 individuals each (two small towns). The bonus while he is in his social identity remains unchanged, but the circumstance bonus on [Intimidate](../../rules/skills/intimidate.md) checks from his renown social talent while he is in his vigilante identity increases to +6. A vigilante must be at least 7th level and have the renown social talent to select this talent.
 
+#### Guise of Life (Su)
+
+An undead vigilante with this talent gains an additional social identity in the form of one living creature identical to the vigilante’s appearance in life. Successful Knowledge checks reveal information about the vigilante as if he were a living creature, and he counts as living for the purpose of divination spells and effects. He gains no other benefit from appearing to be a living creature, and remains vulnerable to positive energy and spells that affect undead. The vigilante must be a corporeal undead creature to select this talent. Humanoid vigilantes with the negative energy affinity racial trait can also select this talent, gaining a human social identity.
+
+#### Guise of Unlife (Su)
+
+A vigilante with this talent gains an additional social identity in the form of an undead version of one of his existing social identities, such as a ghoul, vampire, or zombie. Successful Knowledge checks reveal information about the vigilante as if he were undead, and he counts as undead for the purpose of divination spells and effects. He gains no other benefit from appearing to be an undead creature, and remains vulnerable to negative energy and spells that affect the living. The vigilante must be a living creature to select this talent.
+
 #### Immediate Change (Ex)
 
 The vigilante can change identities as a move action, and he no longer needs to spend extra time to adjust his appearance and persona. A vigilante must be at least 13th level and must have the quick change social talent to select this talent.
@@ -136,6 +132,10 @@ The vigilante is incredibly famous in both identities. He can gain renown in a s
 #### Instant Recognition (Ex)
 
 The vigilante is so well known that his name precedes him, even to other communities. It only takes 4 hours of effort to get the word out to transfer his renown benefits to a new community. A vigilante must be at least 13th level and have both the incredible renown and triumphant return social talents to select this talent.
+
+#### Intrigue Feats (Ex)
+
+The vigilante gains one of the following feats as a bonus feat: [Blustering Bluff](../../rules/feats/blustering-bluff.md), [But a Scratch](../../rules/feats/but-a-scratch.md), [Call Truce](../../rules/feats/call-truce.md), Confabulist, [Criminal Reputation](../../rules/feats/criminal-reputation.md), [Cutting Humiliation](../../rules/feats/cutting-humiliation.md), [Esoteric Linguistics](../../rules/feats/esoteric-linguistics.md), [Intoxicating Flattery](../../rules/feats/intoxicating-flattery.md), [Ironclad Logic](../../rules/feats/ironclad-logic.md), [Nerve-Racking Negotiator](../../rules/feats/nerve-racking-negotiator.md), Orator, [Persuasive Bribery](../../rules/feats/persuasive-bribery.md), [Play to the Crowd](../../rules/feats/play-to-the-crowd.md), [Quick Favor](../../rules/feats/quick-favor.md), [Rhetorical Flourish](../../rules/feats/rhetorical-flourish.md), [Sense Assumptions](../../rules/feats/sense-assumptions.md), [Sense Relationships](../../rules/feats/sense-relationships.md), or [Street Smarts](../../rules/feats/street-smarts.md). He must meet the feat’s prerequisites. This talent can be selected multiple times; each time, the vigilante gains a new feat from the above list.
 
 #### Loyal Aid (Ex)
 
