@@ -136,7 +136,10 @@ At 7th level, the omdura can cast [*commune*](../../magic/spells/commune.md) onc
 
 ### Improved Invocation (Ex)
 
-At 11th level, when using her invocation class ability, the omdura chooses two invocations to grant her allies. In addition, the omdura also benefits from any one invocation she calls, but she receives only half the invocation’s granted bonus.
+At 11th level, when using her invocation class ability, the omdura chooses two invocations to grant her allies.
+
+??? note "Original rule"
+    At 11th level, when using her invocation class ability, the omdura chooses two invocations to grant her allies. In addition, the omdura also benefits from any one invocation she calls, but she receives only half the invocation’s granted bonus.
 
 ### Greater Divine Might (Ex)
 
