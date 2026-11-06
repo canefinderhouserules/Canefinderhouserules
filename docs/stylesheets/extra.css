@@ -10,3 +10,6 @@
 .section-preview h1, .section-preview h2, .section-preview h3, .section-preview h4, .section-preview h5, .section-preview h6 { margin: 0 0 .4em; font-size: .8rem; }
 .section-preview p { margin: .4em 0; }
 .section-preview__more { color: var(--md-default-fg-color--light); }
+
+/* Use more of wide screens so long tables fit. */
+.md-grid { max-width: 90rem; }
