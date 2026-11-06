@@ -287,11 +287,3 @@ The official FCB system can still be used in case a very specific case was remov
 \- Select one arcane **school power** at 1st level that is normally usable a number of times per day equal to 3 + the wizard’s Intelligence modifier. The character adds +1 to the number of uses per day of that arcane school power.
 
 \- Select one **arcane school power** that the wizard can currently use. The wizard treats her class level as though it were +1/4 higher (to a maximum of +2) when determining the effects of that power.
-
-### Variant Multiclassing
-
-**Source:** Pathfinder Roleplaying Game: Pathfinder Unchained
-
-This optional system allows a character to trade out half her feats in order to gain the benefits of a secondary class. These rules enable characters to gain many of the benefits of multiclassing without sacrificing advancement in their primary classes, and creates opportunities to explore novel character concepts, such as a barbarian whose rage stems from being afflicted by the gods with an oracle’s curse and revelations.
-
-Under the standard rules, multiclassing can lead to a wide disparity in character ability. With this system, each character can choose a secondary class at 1st level that she trains in throughout her career, without giving up levels in her primary class. Once selected, this choice is permanent (though if using the retraining rules, the secondary class can be retrained by paying half the cost of retraining all her class levels). A character who selects this option doesn’t gain feats at 3rd, 7th, 11th, 15th, and 19th levels, but instead gains class features from her secondary class as described on **Table: Multiclass Character Advancement**. It is probably a good idea to use either this variant system or normal multiclassing, but it’s possible for the two systems to be used together. In a game using both systems, a character can’t take levels in the secondary class she gains from this variant.
