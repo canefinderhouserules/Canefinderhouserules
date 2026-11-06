@@ -160,31 +160,31 @@ At 9th level, a psychic can use telepathic bond as a spell-like ability once per
 
 At 11th level and every 4 levels thereafter, a psychic can choose one of the following major amplifications in place of a phrenic amplification.
 
-### Dispelling Pulse (Su)
+#### Dispelling Pulse (Su)
 
 The psychic can spend 3 points from her phrenic pool to entwine dispelling magic with a targeted spell. If the target is hit by the linked spell or fails its saving throw, it’s affected as though the psychic had cast a targeted dispel magic spell on it. This effect can dispel only spells of the linked spell’s level or lower. If the linked spell doesn’t already require an attack roll or allow a saving throw, the target can attempt a Will saving throw to avoid the dispelling effect only; the DC is calculated using the linked spell’s level (and all other bonuses that would apply if the linked spell allowed a Will save). This amplification can be linked only to a spell that targets one creature or object.
 
-### Dual Amplification (Ex)
+#### Dual Amplification (Ex)
 
 When the psychic uses this major amplification, she chooses two other amplifications or major amplifications she knows to apply to the same linked spell. She must spend 1 point from her phrenic pool to do so, plus the full cost of the two other amplifications. She can’t apply the same amplification to the linked spell more than once, even if she can use that amplification for multiple different effects.
 
-### Mimic Metamagic (Ex)
+#### Mimic Metamagic (Ex)
 
 When the psychic gains this amplification, she chooses two metamagic feats; she need not have these feats to select them. When she casts a spell, she can spend points from her phrenic pool to apply one of the chosen feats to the linked spell without increasing the spell’s level or casting time. She must spend a number of points equal to double the number of levels by which the feat normally increases a spell’s level (minimum 2 points). If the metamagic feat alters the spell’s casting time in a different way than the standard rules for a spontaneous caster using a metamagic feat (as in the case of [Quicken Spell](../../rules/feats/quicken-spell.md)), it changes the casting time accordingly. The psychic can still apply metamagic feats she knows to the spell while using this amplification, increasing the casting time and spell level as normal. This amplification can be applied only to a spell that the chosen metamagic feat could normally affect, and only if the spellcaster can cast spells of a high enough level that she would be able to apply the metamagic feat in question to the linked spell. For example, an 11th-level psychic could spend 8 points to quicken a 1st-level spell, but couldn’t quicken a 2nd-level spell because she’s unable to cast 6th-level spells. This ability doesn’t require her to have any free spell slots in the relevant level, however, so the psychic in the example could quicken a 1st-level spell even if she had cast all her 5th-level spells for the day. A psychic can select this amplification multiple times, adding two additional options to the list of metamagic feats she can apply using this amplification each time.
 
-### Space-rending Spell (Su)
+#### Space-rending Spell (Su)
 
 The psychic can warp space with her mind, teleporting herself as she casts her linked spell. She teleports herself 10 feet per point she spends from her phrenic pool (as dimension door). The maximum number of points she can spend in this way is equal to the linked spell’s level.
 
-### Subordinate Spell (Ex)
+#### Subordinate Spell (Ex)
 
 The psychic can divide her mind to cast a less powerful spell upon herself alongside her linked spell. The linked spell can’t be lower than 5th level and can’t take less than a standard action to cast. This applies to the actual casting time, so the psychic can’t add a subordinate spell to a quickened spell. The subordinate spell’s casting time must be 1 standard action or less, and its level can be no higher than the linked spell’s level – 5. The subordinate spell must target only the psychic (even if it could normally affect other or multiple targets). The psychic must spend a number of points from her phrenic pool equal to 3 + double the subordinate spell’s level. The subordinate spell acts as though it had been cast, and uses up one of the psychic’s spells per day of its level. The effects of the two spells are separate, so each might require its own concentration check.
 
-### Synaptic Shock (Su)
+#### Synaptic Shock (Su)
 
 The psychic manipulates an enemy’s mind with brute force, causing mental harm beyond that done by her linked spell. She can spend 1 point from her phrenic pool when casting a mind-affecting linked spell to select one of the spell’s targets. If the target is affected by the linked spell, that target is [confused](../../rules/appendices/conditions.md#confused) for 1 round after the duration of the spell expires (or immediately, if the spell has an instantaneous duration). If the target succeeds at its save against the linked spell, it is instead confused for 1 round immediately. For each additional point the psychic spends from her phrenic pool, she can confuse one additional target of the linked spell. This amplification can be applied only to a mind-affecting spell that can affect a number of targets or that has an area. It has no effect on creatures that are immune to mind-affecting effects, unless the linked spell is able to affect such creatures (such as a spell that has both will of the dead and synaptic shock applied to it via dual amplification).
 
-### Turning Shield (Su)
+#### Turning Shield (Su)
 
 The psychic can turn her excess spell energy into a barrier that deflects weaker spells. She can spend a number of points from her phrenic pool equal to the linked spell’s level to gain the benefit of spell turning for 1 round per psychic level. The number of spell levels she can turn is equal to the level of the linked spell.
 

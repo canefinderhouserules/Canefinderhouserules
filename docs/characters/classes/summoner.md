@@ -187,107 +187,107 @@ At 20th level, a summoner and his eidolon share a true connection. As a standard
 
 An eidolon’s abilities are determined by the summoner’s level and by the choices made using its evolution pool. Table 2–9: Eidolon Base Statistics determines many of the base statistics of the eidolon. Each eidolon possesses a base form that modifies these base statistics. Eidolons are outsiders for the purpose of determining which spells affect them.
 
-### Class Level
+#### Class Level
 
 This is the character’s summoner level.
 
-### HD
+#### HD
 
 This is the total number of 10-sided (d10) Hit Dice the eidolon possesses, each of which gains a Constitution modifier, as normal.
 
-### BAB
+#### BAB
 
 This is the eidolon’s base attack bonus. An eidolon’s base attack bonus is equal to its Hit Dice. Eidolons do not gain additional attacks using their natural weapons for a high base attack bonus.
 
-### Good/Bad Saves
+#### Good/Bad Saves
 
 These are the eidolon’s base saving throw bonuses. An eidolon possesses two good saving throws and one bad saving throw, determined by the creature’s base form.
 
-### Skills
+#### Skills
 
 This lists the eidolon’s total skill ranks. An eidolon can assign skill ranks to any skill, but it must possess the appropriate appendages to use some skills. Eidolons with Intelligence scores above the base value modify these totals as normal (an eidolon receives a number of skill ranks equal to 6 + its Intelligence modifier per HD). An eidolon cannot have more ranks in a skill than it has Hit Dice. Eidolon skill ranks are set once chosen, even if the creature changes when the summoner gains a new level.
 
-### Feats
+#### Feats
 
 This is the total number of feats possessed by an eidolon. Eidolons can select any feat that they qualify for, but they must possess the appropriate appendages to use some feats. Eidolon feats are set once chosen, even if the creature changes when the summoner gains a new level. If, due to changes, the eidolon no longer qualifies for a feat, the feat has no effect until the eidolon once again qualifies for the feat.
 
-### Armor Bonus
+#### Armor Bonus
 
 The number noted here is the eidolon’s base total armor bonus. This bonus may be split between an armor bonus and a natural armor bonus, as decided by the summoner. This number is modified by the eidolon’s base form and some options available through its evolution pool. An eidolon cannot wear armor of any kind, as the armor interferes with the summoner’s connection to the eidolon.
 
-### Str/Dex Bonus
+#### Str/Dex Bonus
 
 Add this modifier to the eidolon’s Strength and Dexterity scores, as determined by its base form. Some options available through the eidolon’s evolution pool might modify these scores.
 
-### Evolution Pool
+#### Evolution Pool
 
 The value given in this column is the total number of points in the eidolon’s evolution pool. Points from this pool can be spent on a wide variety of modifications and upgrades that add new abilities, attacks, and powers to the eidolon. Whenever the summoner gains a level, the number in this pool increases and the summoner can spend these points to change the abilities of the eidolon. These choices are not set. The summoner can change them whenever he gains a level (and through the transmogrify spell).
 
-### Max. Attacks
+#### Max. Attacks
 
 This indicates the maximum number of natural attacks that the eidolon is allowed to possess at the given level. If the eidolon is at its maximum, it cannot take evolutions that grant additional natural attacks. This does not include attacks made with weapons.
 
-### Special
+#### Special
 
 This includes a number of abilities gained by all eidolons as they increase in power. Each of these bonuses is described below.
 
-### Darkvision (Ex)
+#### Darkvision (Ex)
 
 The eidolon has darkvision out to a range of 60 feet.
 
-### Link (Ex)
+#### Link (Ex)
 
 A summoner and his eidolon share a mental link allows for communication across any distance (as long as they are on the same plane). This communication is a free action, allowing the summoner to give orders to his eidolon at any time. In addition, magic items interfere with the summoner’s connection to his eidolon. As a result, the summoner and his eidolon share magic item slots. For example, if the summoner is wearing a ring, his eidolon can wear no more than one ring. In case of a conflict, the items worn by the summoner remain active, and those used by the eidolon become dormant. The eidolon must possess the appropriate appendages to utilize a magic item.
 
-### Share Spells (Ex)
+#### Share Spells (Ex)
 
 The summoner may cast a spell with a target of “you” on his eidolon (as a spell with a range of touch) instead of on himself. A summoner may cast spells on his eidolon even if the spells normally do not affect creatures of the eidolon’s type (outsider). Spells cast in this way must come from the summoner spell list. This ability does not allow the eidolon to share abilities that are not spells, even if they function like spells.
 
-### Evasion (Ex)
+#### Evasion (Ex)
 
 If an eidolon is subjected to an attack that normally allows a Reflex save for half damage, it takes no damage if it makes a successful saving throw.
 
-### Ability Score Increase (Ex)
+#### Ability Score Increase (Ex)
 
 The eidolon adds +1 to one of its ability scores.
 
-### Devotion (Ex)
+#### Devotion (Ex)
 
 An eidolon gains a +4 morale bonus on Will saves against enchantment spells and effects.
 
-### Multiattack
+#### Multiattack
 
 An eidolon gains Multiattack as a bonus feat if it has 3 or more natural attacks and does not already have that feat. If it does not have the requisite 3 or more natural attacks (or it is reduced to less than 3 attacks), the eidolon instead gains a second attack with one of its natural weapons, albeit at a –5 penalty. If the eidolon later gains 3 or more natural attacks, it loses this additional attack and instead gains Multiattack.
 
-### Improved Evasion (Ex)
+#### Improved Evasion (Ex)
 
 When subjected to an attack that allows a Reflex saving throw for half damage, an eidolon takes no damage if it makes a successful saving throw and only half damage if the saving throw fails.
 
-### Eidolon Skills
+#### Eidolon Skills
 
-### The following skills are class skills for eidolons
+#### The following skills are class skills for eidolons
 
 Bluff (Cha), Craft (Int), Knowledge (planes) (Int), Perception (Wis), Sense Motive (Wis), and Stealth (Dex). In addition, at 1st level, the summoner can choose 4 additional skills to be class skills for his eidolon. Note that eidolons with a fly speed receive Fly (Dex) as a free class skill, even if they do not gain a fly speed until a later level.
 
-### Base Forms
+#### Base Forms
 
 Each eidolon has one of three base forms that determines its starting size, speed, AC, attacks, and ability scores. All natural attacks are made using the eidolon’s full base attack bonus unless otherwise noted (such as in the case of secondary attacks). Eidolon attacks add the eidolon’s Strength modifier to the damage roll, unless it is its only attack, in which case it adds 1-1/2 times its Strength modifier. These base forms also note any free evolutions that base form possesses. The bonuses from these free evolutions are already factored into the starting statistics. Alternatively, any one of these base forms can be used to make a Small eidolon. If the eidolon is Small, it gains a +2 bonus to its Dexterity score. It also takes a –4 penalty to its Strength and a –2 penalty to its Constitution. It also gains a +1 size bonus to its AC and attack rolls, a –1 penalty to its CMB and CMD scores, a +2 bonus on its [Fly](../../rules/skills/fly.md) skill checks, and a +4 bonus on its [Stealth](../../rules/skills/stealth.md) skill checks. Reduce the damage of all of its attacks by one step (1d6 becomes 1d4, 1d4 becomes 1d3). If this choice is made, the eidolon can be made Medium whenever the summoner can change the eidolon’s evolution pool (which causes it to lose these modifiers for being Small).
 
 #### Quadruped
 
-### Starting Statistics
+#### Starting Statistics
 
 Size Medium; Speed 40 ft.; AC +2 natural armor; Saves Fort (good), Ref (good), Will (bad); Attack bite (1d6); Ability Scores Str 14, Dex 14, Con 13, Int 7, Wis 10, Cha 11; Free Evolutions bite, limbs (legs) (2).
 
 #### Biped
 
-### Starting Statistics
+#### Starting Statistics
 
 Size Medium; Speed 30 ft.; AC +2 natural armor; Saves Fort (good), Ref (bad), Will (good); Attack 2 claws (1d4); Ability Scores Str 16, Dex 12, Con 13, Int 7, Wis 10, Cha 11; Free Evolutions claws, limbs (arms), limbs (legs).
 
 #### Serpentine
 
-### Starting Statistics
+#### Starting Statistics
 
 Size Medium; Speed 20 ft., climb 20 ft.; AC +2 natural armor; Saves Fort (bad), Ref (good), Will (good); Attack bite (1d6), tail slap (1d6); Ability Scores Str 12, Dex 16, Con 13, Int 7, Wis 10, Cha 11; Free Evolutions bite, climb, reach (bite), tail, tail slap.
 
@@ -295,21 +295,21 @@ Evolutions are described on the [Eidolon Evolutions](eidolon-evolutions.md) page
 
 #### Avian
 
-### Starting Statistics
+#### Starting Statistics
 
 Size Small/Medium (see below); Speed 30 ft., fly 30 ft. (good); AC +2 natural armor; Saves Fort (bad), Ref (good), Will (good); Attacks 2 claws (1d3); Ability Scores Str 12, Dex 16, Con 13, Int 7, Wis 10, Cha 11; Free Evolutions claws, flight, limbs (legs).
 
-### Size
+#### Size
 
 When summoned, an avian eidolon is Small unless it spends 2 points from its evolution pool. At 5th level, a Medium or larger avian eidolon's fly speed increases by 40 feet, as if it had 2 more points in the flight evolution.
 
 #### Tauric
 
-### Starting Statistics
+#### Starting Statistics
 
 Size Small/Medium (see below); Speed 40 ft.; AC +2 natural armor; Saves Fort (good), Ref (bad), Will (good); Attacks 2 claws (1d4); Ability Scores Str 14, Dex 14, Con 13, Int 7, Wis 10, Cha 11; Free Evolutions claws, limbs (arms), limbs (legs) (2). A tauric eidolon appears as a conjoined creature with a humanoid upper body on a quadrupedal lower body.
 
-### Size
+#### Size
 
 When summoned, a tauric eidolon is Small unless it spends 2 points from its evolution pool.
 

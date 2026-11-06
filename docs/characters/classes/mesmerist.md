@@ -216,33 +216,33 @@ At 2nd level, a mesmerist gains a bonus equal to his Charisma bonus (minimum 0) 
 
 At 3rd level and every 4 levels thereafter, a mesmerist’s hypnotic stare imposes a further effect upon its target. The mesmerist chooses one option each time he gains a new bold stare improvement, and the choice can’t be changed later. The mesmerist can’t choose the same bold stare improvement more than once unless otherwise noted. All of the mesmerist’s bold stare improvements affect the target as long as it is affected by the mesmerist’s hypnotic stare.
 
-### Allure
+#### Allure
 
 The hypnotic stare penalty also applies on initiative checks and Perception checks.
 
-### Disorientation
+#### Disorientation
 
 The hypnotic stare penalty also applies on attack rolls.
 
-### Psychic Inception
+#### Psychic Inception
 
 The hypnotic stare and its penalty can affect creatures that are mindless or immune to mind-affecting effects (such as an undead or vermin).
 
 The mesmerist can also partially affect such a creature with his mind-affecting spells and abilities if it’s under the effect of his hypnotic stare; it gains a +2 bonus on its saving throw (if any), and if affected, it still has a 50% chance each round of ignoring the effect. Ignoring the effect doesn’t end the effect, but does allow the creature to act normally for that round.
 
-### Sapped Magic
+#### Sapped Magic
 
 The hypnotic stare penalty also applies to the DCs of spells and spell-like abilities used by the target, and to the target’s spell resistance (if any).
 
-### Sluggishness
+#### Sluggishness
 
 The target of the hypnotic stare has all of its speeds reduced by 5 feet (to a minimum of 5 feet), and the hypnotic stare penalty also applies to the target’s Reflex saving throws.
 
-### Susceptibility
+#### Susceptibility
 
 The hypnotic stare penalty also applies to the target’s Sense Motive checks to oppose Bluff checks, and to the DCs of Diplomacy and Intimidate checks made against the target.
 
-### Timidity
+#### Timidity
 
 The hypnotic stare penalty also applies to damage rolls.
 

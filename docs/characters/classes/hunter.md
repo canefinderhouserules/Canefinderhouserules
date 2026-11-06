@@ -108,51 +108,51 @@ The hunter can also apply one of these aspects to her animal companion. Unlike w
 
 If the hunter's animal companion is dead, the hunter can apply her companion's animal focus to herself instead of her animal companion. This is in addition to the normal one she can choose, and (as with a companion's focus) remains in effect until the hunter changes it instead of counting against her minutes per day.
 
-### Bat
+#### Bat
 
 The creature gains darkvision to a range of 60 feet. At 8th level, the range increases by 30 feet. At 15th level, the creature also gains blindsense to a range of 10 feet.
 
-### Bear
+#### Bear
 
 The creature gains a +2 enhancement bonus to Constitution. This bonus increases to +4 at 8th level and +6 at 15th level.
 
-### Bull
+#### Bull
 
 The creature gains a +2 enhancement bonus to Strength. This bonus increases to +4 at 8th level and +6 at 15th level.
 
-### Falcon
+#### Falcon
 
 The creature gains a +4 competence bonus on [Perception](../../rules/skills/perception.md) checks. This bonus increases to +6 at 8th level and +8 at 15th level.
 
-### Frog
+#### Frog
 
 The creature gains a +4 competence bonus on [Swim](../../rules/skills/swim.md) checks and on [Acrobatics](../../rules/skills/acrobatics.md) checks to jump. These bonuses increase to +6 at 8th level and +8 at 15th level.
 
-### Monkey
+#### Monkey
 
 The creature gains a +4 competence bonus on [Climb](../../rules/skills/climb.md) checks. This bonus increases to +6 at 8th level and +8 at 15th level.
 
-### Mouse
+#### Mouse
 
 The creature gains evasion, as the rogue class feature. At 12th level, this increases to improved evasion, as the rogue advanced talent.
 
-### Owl
+#### Owl
 
 The creature gains a +4 competence bonus on [Stealth](../../rules/skills/stealth.md) checks. This bonus increases to +6 at 8th level and +8 at 15th level.
 
-### Snake
+#### Snake
 
 The creature gains a +2 bonus on attack rolls when making attacks of opportunity and a +2 dodge bonus to AC against attacks of opportunity. These bonuses increase to +4 at 8th level and +6 at 15th level.
 
-### Stag
+#### Stag
 
 The creature gains a 5-foot enhancement bonus to its base land speed. This bonus increases to 10 feet at 8th level and 20 feet at 15th level.
 
-### Tiger
+#### Tiger
 
 The creature gains a +2 enhancement bonus to Dexterity. This bonus increases to +4 at 8th level and +6 at 15th level.
 
-### Wolf
+#### Wolf
 
 The creature gains the scent ability with a range of 10 feet. The range of this sense increases to 20 feet at 8th level and 30 feet at 15th level. The range doubles if the opponent is upwind, and is halved if the opponent is downwind.
 
