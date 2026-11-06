@@ -159,7 +159,6 @@ The ronin can summon up this willpower as an immediate action, and can use it in
 
 **Chosen Destiny (Ex)**: At 15th level, the ronin is the master of his own destiny. Whenever the ronin makes a saving throw against a charm or compulsion effect, he may roll twice and take the better result. In addition, once per day, the ronin can treat any one d20 roll as if the result were a natural 20. He must declare the use of this ability before the roll is made.
 
-
 ## Yojimbo (Archetype)
 
 Yojimbo are highly trained bodyguards favored by nobles and warlords. Yojimbo who follow the order of the warrior loyally guard a single master, while ronin serve whoever can pay for their protection.
@@ -197,3 +196,7 @@ While some martial arts traditions focus on the strength of the body, most schoo
 **Perfect Clarity (Ex)**: At 5th level, the brawling blademaster sees all her foes with perfect clarity even when focused on one opponent. She no longer takes a penalty to her AC during a challenge. This ability replaces banner.
 
 **Superior Focus (Ex)**: At 14th level, the brawling blademaster gains a +2 bonus on saving throws during a challenge. This replaces greater banner.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

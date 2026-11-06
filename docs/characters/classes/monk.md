@@ -39,7 +39,6 @@ A monk applies his full Strength bonus to his damage rolls for all successful at
 
 **Table 3–10: Monk**
 
-
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                                                                                               | Flurry of Blows Attack Bonus | Unarmed Damage\* | AC Bonus | Fast Movement |
 |-------|-------------------|-----------|----------|-----------|-----------------------------------------------------------------------------------------------------------------------|------------------------------|------------------|----------|---------------|
 | 1st   | +0                | +2        | +2       | +2        | Stunning fist, unarmed strike                                                                                         | —                            | 1d6              | +0       | +0 ft.        |
@@ -63,7 +62,6 @@ A monk applies his full Strength bonus to his damage rolls for all successful at
 | 19th  | +14/+9/+4         | +11       | +11      | +11       | Empty body                                                                                                            | +17/+17/+12/+12/+7/+7/+2     | 2d8              | +4       | +60 ft.       |
 | 20th  | +15/+10/+5        | +12       | +12      | +12       | Perfect self, slow fall any distance \*The value shown is for Medium monks. See below for Small or Large monk damage. | +18/+18/+13/+13/+8/+8/+3     | 2d10             | +5       | +60 ft.       |
 
-
 weapons cannot use such weapons as part of a flurry of blows, nor can he make natural attacks in addition to his flurry of blows attacks.
 
 **Unarmed Strike**: At 1st level, a monk gains [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat. A monk’s attacks may be with fist, elbows, knees, and feet. This means that a monk may make unarmed strikes with his hands full. There is no such thing as an off-hand attack for a monk striking unarmed. A monk may thus apply his full Strength bonus on damage rolls for all his unarmed strikes.
@@ -79,7 +77,6 @@ A monk also deals more damage with his unarmed strikes than a normal person woul
 
 ## Small or Large Monk Unarmed Damage
 
-
 | Level     | Damage (Small Monk) | Damage (Large Monk) |
 |-----------|---------------------|---------------------|
 | 1st–3rd   | 1d4                 | 1d8                 |
@@ -88,7 +85,6 @@ A monk also deals more damage with his unarmed strikes than a normal person woul
 | 12th–15th | 1d10                | 3d6                 |
 | 16th–19th | 2d6                 | 3d8                 |
 | 20th      | 2d8                 | 4d8                 |
-
 
 **Bonus Feat:** At 2nd level (when the monk gains two bonus feats: the one normally gained at 1st level and the one gained at 2nd level) and every 4 levels thereafter (6th, 10th, and so on), a monk may select a bonus feat. These feats must be taken from the following list: [Catch Off-Guard](../../rules/feats/catch-off-guard.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Deflect Arrows](../../rules/feats/deflect-arrows.md), Dodge, [Improved Grapple](../../rules/feats/improved-grapple.md), [Scorpion Style](../../rules/feats/scorpion-style.md), and [Throw Anything](../../rules/feats/throw-anything.md). At 6th level, the following feats are added to the list: [Gorgon’s Fist](../../rules/feats/gorgons-fist.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Disarm](../../rules/feats/improved-disarm.md), [Improved Feint](../../rules/feats/improved-feint.md), [Improved Trip](../../rules/feats/improved-trip.md), and Mobility. At 10th level, the following feats are added to the list: [Improved Critical](../../rules/feats/improved-critical.md), [Medusa’s Wrath](../../rules/feats/medusas-wrath.md), [Snatch Arrows](../../rules/feats/snatch-arrows.md), and [Spring Attack](../../rules/feats/spring-attack.md). A monk need not have any of the prerequisites normally required for these feats to select them.
 
@@ -137,3 +133,7 @@ The *ki* pool is replenished each morning after 8 hours of rest or meditation; t
 ## Ex-Monks
 
 A monk who becomes nonlawful cannot gain new levels as a monk but retains all monk abilities.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

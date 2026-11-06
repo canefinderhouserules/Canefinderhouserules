@@ -42,7 +42,15 @@ The following racial traits may be selected instead of existing duergar racial t
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#duergar-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Cleric**: Add a +1/2 bonus on checks made to craft magic items.
+
+**Fighter**: Add +1 to the fighter’s CMD when resisting a bull rush or trip attempt.
+
+**Inquisitor**: Add +1/6 to the number of times per day the inquisitor can use the judgment class feature.
+
+**Legendary Kineticist**: Add 1/5 of an Extra Wild Talent feat that must be spent on an earth element wild talent.
 
 ## Archetypes and Class Options
 
@@ -66,7 +74,6 @@ Duergar have access to the following equipment.
 ### Magical Taskmaster
 
 Some duergar demonstrate magic of a more insidious kind than the rest of their kin, a difference that is often taken to be a sign of the dark god of toil’s blessing. They can use charm person once per day as a spell-like ability. The save DC is equal to 10 + 1/2 duergar’s Hit Dice + duergar’s Wisdom modifier. This racial trait replaces the invisibility spell-like ability racial trait.
-
 
 ## More Favored Class Options
 

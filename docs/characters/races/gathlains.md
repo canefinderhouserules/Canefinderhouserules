@@ -70,7 +70,51 @@ The following racial traits can be selected in place of the typical gathlain rac
 
 ## Favored Class Options
 
-See the [Ultimate Wilderness section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#gathlains-ultimate-wilderness).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Barbarian**: Add 1/4 to the barbarian’s damage reduction. If the barbarian would not otherwise have damage reduction, this damage reduction can be bypassed by cold iron.
+
+**Bard**: Add one spell from the druid spell list to the bard’s spell list and known spells. This spell must be at least 1 level lower than the highest-level spell the bard can cast.
+
+**Bloodrager**: Add 1 additional round of bloodrage per day.
+
+**Cavalier**: Add a +1/2 bonus to the cavalier’s Knowledge (nature) and Knowledge (nobility) checks relating to fey courts and fey courtiers.
+
+**Druid**: Add a +1/2 bonus to wild empathy checks.
+
+**Hunter**: The hunter’s animal companion gains DR 1/cold iron. Each time the hunter gains another level, this DR increases by 1/3 (maximum DR 5/cold iron). If the hunter replaces this animal companion, the new companion gains this damage reduction.
+
+**Ranger**: Add 1/4 to the damage dealt by the ranger’s animal companion’s natural attacks.
+
+**Rogue**: Add a +1/2 bonus to Bluff checks to pass secret messages or create a distraction to hide and on Sleight of Hands checks to pickpocket.
+
+**Shaman**: Add one spell from the druid spell list to the shaman’s spell list. This spell must be at least 1 level lower than the highest-level spell the shaman can cast.
+
+**Skald**: Add a +1/2 bonus to Acrobatics checks to avoid attacks of opportunity and to Perform checks while performing a raging song.
+
+**Summoner**: Add 1/4 evolution point to the eidolon’s evolution pool. These bonus evolution points must be spent on evolutions that grant spell-like abilities or protect the eidolon from spells.
+
+**Witch**: Add one spell from the druid spell list to the witch’s familiar. This spell must be at least one level below the highest spell level the witch can cast. If the familiar is ever replaced, the new familiar knows these bonus spells.
+
+**Alchemist**: Add 10 minutes to the duration of the alchemist's mutagens.
+
+**Bard**: Add a +1/2 bonus on the bard's Perform (comedy) checks.
+
+**Investigator**: Add a +1/3 bonus on inspiration rolls applied to Bluff and Knowledge checks.
+
+**Kineticist**: Increase the amount of burn cost reduction when using the kineticist's gather power ability by 1/6 point (the minimum burn cost of 0 still applies).
+
+**Mesmerist**: Increase the number of mesmerist tricks the mesmerist can use per day by one-third.
+
+**Oracle**: Add one spell known that is an enchantment spell from the sorcerer/wizard spell list. This spell must be at least one level below the highest spell level the oracle can cast. That spell is treated as one level higher unless it is also on the oracle spell list.
+
+**Rogue**: Add a +1/2 bonus on Stealth checks while in forests and swamps.
+
+**Sorcerer**: Choose a bloodline power from the fey or verdant bloodlines that the sorcerer can use. The sorcerer treats her class level as though it were 1/2 higher (to a maximum of +4) when determining the effects of that power.
+
+**Shifter (Ultimate Wilderness)**: Add a +1 bonus on Knowledge (nature) checks relating to plants and flying animals.
+
+**Legendary Kineticist**: Increase the amount of burn cost reduction when using the kineticist’s gather power ability by 1/6 point (the minimum burn cost of 0 still applies).
 
 ## Archetypes and Class Options
 

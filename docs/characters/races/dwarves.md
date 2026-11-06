@@ -278,8 +278,85 @@ Some dwarves’ affinity for the earth grants them greater powers. Dwarves with 
 
 Some dwarves train from a young age to outlast orcs on the battlefield. They gain Toughness as a bonus feat and a +1 racial bonus on Fortitude saves. This racial trait replaces hardy.
 
+## Favored Class Options
 
-## More Favored Class Options
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
 
-- **Kineticist**: Gain a +1/3 bonus on earth element blast damage rolls that apply the kineticist’s elemental overflow bonus.
+**Alchemist**: Add +1/4 to the alchemist’s natural armor bonus when using his mutagen.
+
+**Arcanist**: Add 1/4 to the arcanist's effective class level when determining the effects of the arcane barrier and arcane weapon arcanist exploits.
+
+**Barbarian**: Add 1 to the dwarf’s total number of rage rounds per day.
+
+**Bard**: Reduce arcane spell failure chance for casting bard spells when wearing medium armor by +1%. Once the total reaches 10%, the bard also receives Medium Armor Proficiency, if he does not already possess it.
+
+**Bloodrager**: Increase the bloodrager's total number of bloodrage rounds per day by 1.
+
+**Brawler**: Reduce the hardness of any object made from clay, stone, or metal by 1 whenever the object is struck by the brawler's unarmed strike (minimum 0).
+
+**Cavalier**: Add +1/2 to the cavalier’s bonus to damage against targets of his challenge.
+
+**Cleric**: Select one domain power granted at 1st level that is normally usable for a number of times per day equal to 3 + the cleric’s Wisdom modifier. The cleric adds 1/2 to the number of uses per day of that domain power.
+
+**Druid**: Select one domain power granted at 1st level that is normally usable a number of times per day equal to 3 + the druid’s Wisdom modifier. The druid adds +1/2 to the number of uses per day of that domain power.
+
+**Fighter**: Add +1 to the fighter’s CMD when resisting a bull rush or trip.
+
+**Gunslinger**: Reduce the misfire chance for one type of firearm by 1/4. You cannot reduce the misfire chance of a firearm below 1.
+
+**Hunter**: Gain a +1/2 bonus on wild empathy checks the hunter makes to influence animals and magical beasts that live underground.
+
+**Inquisitor**: Add +1/2 to the inquisitor’s level for the purpose of determining the effects of one type of judgment.
+
+**Investigator**: Gain a +1/4 bonus on Perception checks when underground and +1/2 bonus to the investigator's trap sense ability regarding stone traps.
+
+**Kineticist**: Add 1/3 point of damage to earth element blasts that deal damage.
+
+**Magus**: Select one known magus arcana usable only once per day. The magus adds +1/6 to the number of times it can be used per day. Once that magus arcana is usable twice per day, the magus must select a different magus arcana.
+
+**Medium**: Gain a +1/2 bonus on saving throws against possession and a +1/2 bonus on saving throws to end haunt channeler, location channel, and spacious soul.
+
+**Mesmerist**: Increase painful stare’s damage by 1/4 point.
+
+**Monk**: Reduce the Hardness of any object made of clay, stone, or metal by 1 whenever the object is struck by the monk’s unarmed strike (minimum of 0).
+
+**Occultist**: Gain a +1/3 bonus on Appraise and Use Magic Device checks involving stone and metal objects.
+
+**Oracle**: Reduce the non-proficient penalty for one weapon by 1. When the non-proficient penalty for a weapon becomes 0 because of this ability, the oracle is treated as having the appropriate Martial or Exotic Weapon Proficiency feat with that weapon.
+
+**Paladin**: Add a +1 bonus on concentration checks when casting paladin spells.
+
+**Psychic**: When casting psychic abjuration spells, add 1/2 level to the effective caster level of the spell, but only to determine the spell’s duration.
+
+**Ranger**: Add a +1/2 bonus on wild empathy checks to influence animals and magical beasts that live underground.
+
+**Rogue**: Add a +1/2 bonus on Disable Device checks regarding stone traps and a +1/2 bonus to trap sense regarding stone traps.
+
+**Shaman**: Add 1/4 to the natural armor bonus of the shaman's spirit animal.
+
+**Skald**: Reduce the arcane spell failure chance for casting skald spells when wearing heavy armor by 1%. Once the total reduction reaches 10%, the skald also receives Heavy Armor Proficiency (if the skald does not already possess it).
+
+**Slayer**: Gain a +1/3 bonus on Knowledge (dungeoneering) checks and on Survival checks when underground. If the slayer has a +1 bonus on Knowledge (dungeoneering) checks from this ability, he is also considered trained in that skill.
+
+**Sorcerer**: Add +1/2 to acid and earth spell or spell-like ability damage.
+
+**Spiritualist**: Add 1/6 to the shield bonus granted by the 3rd-level ectoplasmic bonded manifestation ability.
+
+**Summoner**: Add a +1/4 natural armor bonus to the AC of the summoner’s eidolon.
+
+**Swashbuckler**: Add 1/4 to the swashbuckler's effective class level to determine the extra damage she deals because of the precise strike deed when wielding a light pick or a heavy pick. If the swashbuckler has the Slashing Grace feat or another similar effect, she can treat the battleaxe or handaxe as a one-handed piercing melee weapon, and she gains this benefit when wielding the appropriate weapon for the feat as well.
+
+**Warpriest**: Add 1/3 to the number of times per day the warpriest can use blessings, but he can only use these additional uses on blessings that affect weapons or armor.
+
+**Witch**: Add +1/4 natural armor bonus to the AC of the witch’s familiar.
+
+**Wizard**: Select one item creation feat known by the wizard. Whenever he crafts an item using that feat, the amount of progress he makes in an 8-hour period increases by 200 gp (50 gp if crafting while adventuring). This does not reduce the cost of the item; it just increases the rate at which the item is crafted.
+
+**Vigilante**: Increase the bonus from social grace on Craft skills by +1/2.
+
+**Shifter (Ultimate Wilderness)**: Add a +1/2 bonus on wild empathy checks to influence animals and magical beasts that are normally encountered in underground environments.
+
+**Legendary Kineticist**: Add 1/3 point of damage to earth element blasts that deal damage that apply the kineticist’s elemental overflow bonus.
+
+**Kineticist**: Gain a +1/3 bonus on earth element blast damage rolls that apply the kineticist’s elemental overflow bonus.
 

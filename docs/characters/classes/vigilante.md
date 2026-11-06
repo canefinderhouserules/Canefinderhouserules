@@ -277,21 +277,7 @@ Once a creature has been the target of this ability (either as the target of the
 
 ## Favored Class Options
 
-The following favored class bonuses are available to vigilantes who come from the various core races. Each of these rewards replaces the normal reward for having a level in a favored class.
-
-**Dwarves**: Increase the bonus from social grace on Craft skills by +1/2.
-
-**Elves**: Gain +1/3 on all Acrobatics, Climb, and Stealth checks in forested areas.
-
-**Gnomes**: Gain +1/2 on Bluff checks when attempting to tell a lie that would be true from the point of view of the vigilante’s current identity.
-
-**Half-Elves**: Gain +1/2 on the Disguise bonus from seamless guise.
-
-**Half-Orcs**: Add 1/2 to the DC increase from unshakable.
-
-**Halflings**: Gain 1/6 of a new social talent.
-
-**Humans**: Gain +1/2 on the Disguise bonus provided by seamless guise.
+Each race's official options for this class are listed on its [race page](../races/index.md). Any character can also use the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md).
 
 ## Vigilantes in the Campaign
 

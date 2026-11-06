@@ -8,7 +8,6 @@ Beyond the veil of the mundane hide the secrets of absolute power. The works of 
 
 **Table 3–16: Wizard**
 
-
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save Special                                      | Spells per Day |     |     |     |     |     |     |     |     |     |
 |-------|-------------------|-----------|----------|--------------------------------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |       |                   |           |          |                                                        | 0              | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -32,7 +31,6 @@ Beyond the veil of the mundane hide the secrets of absolute power. The works of 
 | 18th  | +9/+4             | +6        | +6       | +11                                                    | 4              | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 3   | 2   |
 | 19th  | +9/+4             | +6        | +6       | +11                                                    | 4              | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 3   |
 | 20th  | +10/+5            | +6        | +6       | +12 Bonus feat                                         | 4              | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 4   |
-
 
 ## Class Skills
 
@@ -214,7 +212,6 @@ Damage equals that of a normal creature of the familiar’s kind.
 
 **Familiar Ability Descriptions**: All familiars have special abilities (or impart abilities to their masters) depending on the master’s combined level in classes that grant familiars, as shown on the table below. The abilities are cumulative.
 
-
 | Master Class Level | Natural    | Int | Special                                                  |
 |--------------------|------------|-----|----------------------------------------------------------|
 |                    | Armor Adj. |     |                                                          |
@@ -228,7 +225,6 @@ Damage equals that of a normal creature of the familiar’s kind.
 | 15th–16th          | +8         | 13  | —                                                        |
 | 17th–18th          | +9         | 14  | —                                                        |
 | 19th–20th          | +10        | 15  | —                                                        |
-
 
 *Natural Armor Adj.*: The number noted here is in addition to the familiar’s existing natural armor bonus.
 
@@ -259,3 +255,7 @@ Armor restricts the complicated gestures required while casting any spell that h
 If a spell doesn’t have a somatic component, an arcane spellcaster can cast it with no arcane spell failure chance while wearing armor. Such spells can also be cast even if the caster’s hands are bound or he is grappling (although concentration checks still apply normally). The metamagic feat [Still Spell](../../rules/feats/still-spell.md) allows a spellcaster to prepare or cast a spell without the somatic component at one spell level higher than normal. This also provides a way to cast a spell while wearing armor without risking arcane spell failure.
 
 Skills represent some of the most basic and yet most fundamental abilities your character possesses. As your character advances in level, he can gain new skills and improve his existing skills dramatically.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

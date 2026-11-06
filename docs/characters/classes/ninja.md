@@ -245,3 +245,6 @@ The order dispatches specially trained killers to hunt relentlessly and fight fr
 
 **Redirect Force (Ex)**: If the ninja has a feat that allows her to attempt a combat maneuver without provoking attacks of opportunity, she can choose to provoke them anyway when she performs that maneuver. If she does so and takes damage from the attack of opportunity, the ninja adds the damage as a bonus on her attack roll instead of as a penalty.
 
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

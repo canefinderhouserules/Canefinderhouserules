@@ -327,3 +327,7 @@ At 19th level, an alchemist can spend 2 quintessence to create an ultimate bomb.
 #### Grand Discovery (Su)
 
 At 20th level, the alchemist makes a grand discovery. They immediately learn two normal discoveries, but also learns a third discovery chosen from the list below, representing a truly astounding alchemical breakthrough of significant import. For many alchemists, the promise of one of these grand discoveries is the primary goal of their experiments and hard work.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../../races/index.md).

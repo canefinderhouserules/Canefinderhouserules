@@ -372,3 +372,7 @@ Cavaliers of this order have joined a knightly crusade against chaos, adopting a
 **Subjugate (Ex)**: At 8th level, whenever the cavalier confirms a critical hit with a melee weapon against a chaotic creature with an Intelligence score of 3 or higher, or against a creature he has witnessed committing a crime within the past hour, he adds his Charisma modifier to the total critical hit damage. If the critical hit kills the creature or renders it unconscious, as an immediate action he can attempt an Intimidate check to demoralize all foes within 15 feet who can see him. This ability can be used only once per combat.
 
 **Hand of the Law (Ex)**: At 15th level, the cavalier can declare himself an enforcer of martial law as a swift action. For a number of rounds equal to his Charisma modifier, he can ignore difficult terrain and gains an additional +2 bonus on attack rolls while charging. Any creatures he demoralizes while this ability is in effect are shaken for a number of additional rounds equal to his Charisma modifier. Additionally, when these creatures attack him, attempt saving throws against his abilities, or attempt opposed skill checks against him, they take a –3 penalty for being shaken (instead of –2). He can use this ability only once per combat.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

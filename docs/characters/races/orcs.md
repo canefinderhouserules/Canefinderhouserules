@@ -54,7 +54,25 @@ The following racial traits may be selected instead of existing orc racial trait
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#orcs-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Alchemist**: Add +10 minutes to the duration of the alchemist’s mutagens.
+
+**Barbarian**: Add +1 to the barbarian’s total number of rage rounds per day.
+
+**Cavalier**: Add +1 to the cavalier’s CMB when making bull rush or overrun combat maneuvers against a challenged target.
+
+**Druid**: Add +1/2 to the damage dealt by the druid’s animal companion’s natural attacks.
+
+**Fighter**: Add +2 to the fighter’s Constitution score for the purpose of determining when he dies from negative hit points.
+
+**Ranger**: Add +1 hit point to the ranger’s animal companion. If the ranger ever replaces his animal companion, the new animal companion gains these bonus hit points.
+
+**Witch**: Add one spell from the witch spell list to the witch’s familiar. This spell must be at least one level below the highest spell level she can cast. If the witch ever replaces her familiar, the new familiar knows these bonus spells.
+
+**Shifter (Ultimate Wilderness)**: Add 1/5 to the damage dealt when using the shifter's claws ability.
+
+**Legendary Kineticist**: Gain a +1/2 bonus on Bluff and Intimidate checks while a defense wild talent is active.
 
 ## Archetypes and Class Options
 

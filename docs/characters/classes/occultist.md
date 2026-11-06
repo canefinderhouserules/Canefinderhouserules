@@ -346,3 +346,7 @@ You can also imbue the weapon with any one weapon special ability with an equiva
 **Sudden Speed (Sp)**: As a swift action, you can expend 1 point of mental focus to grant yourself a burst of speed. This increases your land speed by 30 feet for 1 minute. This ability does not stack with itself.
 
 **Telekinetic Mastery (Sp)**: As a standard action, you can expend 1 point of mental focus to grant yourself telekinetic power. This functions as telekinesis, except you don’t need to concentrate on the effect to maintain it, and using any one of its effects is a standard action. This effect lasts for 1 round per occultist level you possess. You must be at least 9th level to select this focus power.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

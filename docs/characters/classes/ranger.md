@@ -87,7 +87,6 @@ If a specific terrain falls into more than one category of favored terrain, the 
 
 **Table 3–12: Ranger**
 
-
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                | Spells per Day |     |     |     |
 |-------|-------------------|-----------|----------|-----------|----------------------------------------|----------------|-----|-----|-----|
 |       |                   |           |          |           |                                        | 1st            | 2nd | 3rd | 4th |
@@ -111,7 +110,6 @@ If a specific terrain falls into more than one category of favored terrain, the 
 | 18th  | +18/+13/+8/+3     | +11       | +11      | +6        | 4th favored terrain, combat style feat | 4              | 3   | 2   | 2   |
 | 19th  | +19/+14/+9/+4     | +11       | +11      | +6        | Improved quarry                        | 4              | 3   | 3   | 2   |
 | 20th  | +20/+15/+10/+5    | +12       | +12      | +6        | 5th favored enemy, master hunter       | 4              | 4   | 3   | 3   |
-
 
 **Hunter’s Bond (Ex)**: At 4th level, a ranger forms a bond with his hunting companions. This bond can take one of two forms. Once the form is chosen, it cannot be changed. The first is a bond to his companions. This bond allows him to spend a move action to grant half his favored enemy bonus against a single target of the appropriate type to all allies within 30 feet who can see or hear him. This bonus lasts for a number of rounds equal to the ranger’s Wisdom modifier (minimum 1). This bonus does not stack with any favored enemy bonuses possessed by his allies; they use whichever bonus is higher.
 
@@ -148,3 +146,7 @@ Thorns, briars, and overgrown areas that are enchanted or magically manipulated 
 **Improved Quarry (Ex)**: At 19th level, the ranger’s ability to hunt his quarry improves. He can now select a quarry as a free action, and can now take 20 while using Survival to track his quarry, while moving at normal speed without penalty. His insight bonus to attack his quarry increases to +4. If his quarry is killed or dismissed, he can select a new one after 10 minutes have passed.
 
 **Master Hunter (Ex)**: A ranger of 20th level becomes a master hunter. He can always move at full speed while using Survival to follow tracks without penalty. He can, as a standard action, make a single attack against a favored enemy at his full attack bonus. If the attack hits, the target takes damage normally and must make a Fortitude save or die. The DC of this save is equal to 10 + 1/2 the ranger’s level + the ranger’s Wisdom modifier. A ranger can choose instead to deal an amount of nonlethal damage equal to the creature’s current hit points. A successful save negates this damage. A ranger can use this ability once per day against each favored enemy type he possesses, but not against the same creature more than once in a 24-hour period.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

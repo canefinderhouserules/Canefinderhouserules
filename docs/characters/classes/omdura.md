@@ -195,3 +195,7 @@ This replaces spells.
 At 3rd level, an exemplar of war gains the [Chosen One](../../rules/feats/chosen-one.md) feat as a bonus feat. At 6th level and every 3 levels thereafter, the exemplar of war gains an additional bonus feat. These feats must be selected from the following list: [Blessed by a God or Dragon](../../rules/feats/blessed-by-a-god-or-dragon.md), [Chosen One’s Might](../../rules/feats/chosen-ones-might.md), or [Chosen One’s Resilience](../../rules/feats/chosen-ones-resilience.md). At 9th level, the following feats are added to the list: [Chosen One’s Determination](../../rules/feats/chosen-ones-determination.md) and [Chosen One’s Wrath](../../rules/feats/chosen-ones-wrath.md). An exemplar of war can ignore any level prerequisites for these bonus feats, but she must meet all other prerequisites. If the exemplar of war selects Blessed by a God or Dragon as a bonus feat, she can plea for assistance from her god once per day instead of once per week.
 
 This replaces divine infusion.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

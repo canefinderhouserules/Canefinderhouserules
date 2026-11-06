@@ -74,7 +74,27 @@ The leshy can use this ability a number of times per day equal to its Constituti
 
 ## Favored Class Options
 
-See the [Ultimate Wilderness section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#vine-leshys-ultimate-wilderness).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Alchemist**: Add 1/4 to the alchemist’s natural armor bonus when using his mutagen.
+
+**Bard**: Add a +1/3 bonus to Perform (oratory) checks, including checks using versatile performance, as long as the bard first spends at least 10 minutes telling a story.
+
+**Druid**: Add a +1/2 bonus to the druid’s wild empathy or plant empathy checks.
+
+**Kineticist**: Gain 1/5 of the Extra Wild Talent feat. This feat must be spent on a wood-element talent.
+
+**Oracle**: An oracle with the nature or wood mystery adds one spell from the druid’s spell list that isn’t on the cleric spell list to the oracle’s spell list; she still must select this spell as one of her spells known in order to cast it. This spell must be at least 1 level lower than the highest spell level the oracle can cast.
+
+**Ranger**: Add a +1/2 bonus to Knowledge (nature) checks in the ranger’s favored terrain.
+
+**Rogue**: Add a +1/2 bonus to Climb checks and on Stealth checks in forests.
+
+**Shaman**: Shamans with the nature or wood spirit add one spell from the druid’s spell list that isn’t on the shaman spell list to the shaman’s spell list; she still must select this spell as one of her spells known in order to cast it. This spell must be at least 1 level lower than the highest spell level the shaman can cast.
+
+**Shifter (Ultimate Wilderness)**: Add a +1 bonus on Knowledge (nature) checks relating to plants.
+
+**Legendary Kineticist**: Gain 1/5 of the Extra Wild Talent feat. This feat must be spent on a wood-element talent.
 
 ## Archetypes and Class Options
 

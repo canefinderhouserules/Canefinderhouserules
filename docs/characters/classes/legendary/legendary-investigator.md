@@ -213,6 +213,8 @@ A legendary investigator’s powers of reason and deduction become almost superh
 
 ### Favored Class Bonuses
 
+Any character can take a bonus from the [universal favored class bonuses](../../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../../races/index.md).
+
 The following favored class bonuses are available to all legendary investigators, regardless of race:
 
 - **Any**: +1/6 of a new investigator talent.

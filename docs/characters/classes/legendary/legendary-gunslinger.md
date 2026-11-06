@@ -276,6 +276,8 @@ At 20th level, a gunslinger picks two deeds that she has access to and that she 
 
 #### New Favored Class Bonuses
 
+Any character can take a bonus from the [universal favored class bonuses](../../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../../races/index.md).
+
 A legendary gunslinger is able to select any favored class bonus that a gunslinger could. In addition, the following favored class bonuses are open to all characters, regardless of race:
 
 **All:** +1/6 of a gun mastery

@@ -40,7 +40,15 @@ The following racial traits may be selected instead of existing vishkanya racial
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#vishkanyas-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Bard**: Add +1 to the bard’s total number of bardic performance rounds per day.
+
+**Rogue**: Add +1 to the rogue’s CMD when resisting a grapple or reposition attempt.
+
+**Sorcerer**: Select one bloodline power at 1st level that is normally usable a number of times per day equal to 3 + the sorcerer’s Charisma modifier. The sorcerer adds +1/2 to the number of uses per day of that bloodline power.
+
+**Legendary Kineticist**: Add 1/5 of an Extra Wild Talent feat. The kineticist can only select mind substance infusions this way but can treat them as poison infusions, applying them to poison-element blasts and treating them as mind-affecting poison effects
 
 ## Archetypes and Class Options
 

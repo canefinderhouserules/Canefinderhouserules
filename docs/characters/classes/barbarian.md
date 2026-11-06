@@ -136,3 +136,7 @@ If a character already has uncanny dodge (see above) from another class, the lev
 ## Ex-Barbarians
 
 A barbarian who becomes lawful loses the ability to rage and cannot gain more levels in barbarian. She retains all other benefits of the class.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

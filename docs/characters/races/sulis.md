@@ -38,7 +38,15 @@ This racial trait otherwise works like and replaces elemental assault.
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#sulis-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Magus**: Add +1/4 point to the magus’s arcane pool.
+
+**Monk**: Add +1/2 point of damage to elemental assault.
+
+**Ranger**: Add +1 to acid resistance, cold resistance, electricity resistance, or fire resistance.
+
+**Legendary Kineticist**: Add 1/4 round to the duration of the elemental assault racial trait.
 
 ## Archetypes and Class Options
 

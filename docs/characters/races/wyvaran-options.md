@@ -18,12 +18,17 @@ The options below are for wyvaran characters (as presented in the *Bestiary 4*).
 
 The following options are available to all wyvarans who have the listed favored class, and unless otherwise stated, the bonus applies each time you select the favored class reward.
 
-- **Bloodrager**: Add 1 to the bloodrager's total rounds of bloodrage each day.
-- **Mesmerist**: Add 1/4 to the mesmerist's level for the purpose of determining the effect of mesmerist tricks.
-- **Oracle**: Add 1/4 to the oracle's level for the purpose of determining the effects of an oracle curse.
-- **Paladin**: Add 1/2 to the paladin's level when determining the effect of smite evil against evil-aligned dragons.
-- **Rogue**: Add a +1/2 bonus to Stealth and Sleight of Hand checks to steal or hide objects.
-- **Sorcerer**: Add a +1/2 bonus to the damage of spells or spell-like abilities that deal damage of the same energy type as the sorcerer's draconic bloodline breath weapon.
+**Bloodrager**: Add 1 to the bloodrager's total rounds of bloodrage each day.
+
+**Mesmerist**: Add 1/4 to the mesmerist's level for the purpose of determining the effect of mesmerist tricks.
+
+**Oracle**: Add 1/4 to the oracle's level for the purpose of determining the effects of an oracle curse.
+
+**Paladin**: Add 1/2 to the paladin's level when determining the effect of smite evil against evil-aligned dragons.
+
+**Rogue**: Add a +1/2 bonus to Stealth and Sleight of Hand checks to steal or hide objects.
+
+**Sorcerer**: Add a +1/2 bonus to the damage of spells or spell-like abilities that deal damage of the same energy type as the sorcerer's draconic bloodline breath weapon.
 
 ## Wyvaran Feats
 

@@ -395,3 +395,6 @@ Practitioners of this tradition, said to have been appointed by the gods to snif
 
 **Turn Aside (Su)**: You can compress or inflate enough space around you to turn aside ranged attacks. At 5th level, you gain [Deflect Arrows](../../rules/feats/deflect-arrows.md) as a bonus feat. You can expend 1 point from your phrenic pool as an immediate action to gain a +4 deflection bonus against a single ranged attack.
 
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

@@ -44,7 +44,6 @@ The following bloodlines represent only some of the possible sources of power th
 
 **Table 3–14: Sorcerer**
 
-
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                     | Spells per Day |     |     |     |     |     |     |     |     |
 |-------|-------------------|-----------|----------|-----------|---------------------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|
 |       |                   |           |          |           |                                             | 1st            | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -68,7 +67,6 @@ The following bloodlines represent only some of the possible sources of power th
 | 18th  | +9/+4             | +6        | +6       | +11       |                                             | 6              | 6   | 6   | 6   | 6   | 6   | 6   | 5   | 3   |
 | 19th  | +9/+4             | +6        | +6       | +11       | Bloodline feat, bloodline spell             | 6              | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 4   |
 | 20th  | +10/+5            | +6        | +6       | +12       | Bloodline power                             | 6              | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 6   |
-
 
 ## Aberrant
 
@@ -130,7 +128,6 @@ Your family has always been skilled in the eldritch art of magic. While many of 
 
 **Table 3–15: Sorcerer Spells Known**
 
-
 | Level | Spells Known |     |     |     |     |     |     |     |     |     |
 |-------|--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |       | 0            | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -154,7 +151,6 @@ Your family has always been skilled in the eldritch art of magic. While many of 
 | 18th  | 9            | 5   | 5   | 4   | 4   | 4   | 3   | 3   | 2   | 1   |
 | 19th  | 9            | 5   | 5   | 4   | 4   | 4   | 3   | 3   | 3   | 2   |
 | 20th  | 9            | 5   | 5   | 4   | 4   | 4   | 3   | 3   | 3   | 3   |
-
 
 **Bloodline Arcana**: Whenever you apply a metamagic feat to a spell that increases the slot used by at least one level, increase the spell’s DC by +1. This bonus does not stack with itself and does not apply to spells modified by the [Heighten Spell](../../rules/feats/heighten-spell.md) feat.
 
@@ -251,7 +247,6 @@ This bonus follows the rules for [Damage-Per-Die Bonuses](damage-per-die-bonuses
 | Gold | Fire | 30-foot cone |
 | Silver | Cold | 30-foot cone |
 
-
 *Claws (Su)*: Starting at 1st level, you can grow claws as a free action. These claws are treated as natural weapons, allowing you to make two claw attacks as a full attack action using your full base attack bonus. Each of these attacks deals 1d4 points of damage plus your Strength modifier (1d3 if you are Small). At 5th level, these claws are considered magic weapons for the purpose of overcoming DR. At 7th level, the damage increases by one step to 1d6 points of damage (1d4 if you are Small). At 11th level, these claws deal an additional 1d6 points of damage of your energy type on a successful hit. You can use your claws for a number of rounds per day equal to 3 + your Charisma modifier. These rounds do not need to be consecutive.
 
 *Dragon Resistances (Ex)*: At 3rd level, you gain resist 5 against your energy type and a +1 natural armor bonus. At 9th level, your energy resistance increases to 10 and natural armor bonus increases to +2. At 15th level, your natural armor bonus increases to +4.
@@ -302,7 +297,6 @@ The power of the elements resides in you, and at times you can hardly control it
 
 **Bloodline Arcana**: Whenever you cast a spell that deals energy damage, you can change the type of damage to match the type of your bloodline. This also changes the spell’s type to match the type of your bloodline.
 
-
 **Bloodline Powers**: One of the four elements infuses your being, and you can draw upon its power in times of need. At first level, you must select one of the four elements: air, earth, fire, or water. This choice cannot be changed. A number of your abilities grant resistances and deal damage based on your element, as noted below.
 
 | Element | Energy Type | Elemental Movement |
@@ -311,7 +305,6 @@ The power of the elements resides in you, and at times you can hardly control it
 | Earth | Acid | Burrow 30 feet |
 | Fire | Fire | +30 feet base speed |
 | Water | Cold | Swim 60 feet |
-
 
 *Elemental Ray* *(Sp)*: Starting at 1st level, you can unleash an elemental ray as a standard action, targeting any foe within 30 feet as a ranged touch attack. This ray deals 1d6 points of damage of your energy type + 1 for every two sorcerer levels you possess. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
@@ -358,7 +351,6 @@ Somewhere in your family’s history, a relative made a deal with a devil, and t
 **Bonus Feats**: Blind-Fight, [Combat Expertise](../../rules/feats/combat-expertise.md), Deceitful, Extend Spell, Improved Disarm, Iron Will, Skill Focus (Knowledge [planes]), [Spell Penetration](../../rules/feats/spell-penetration.md).
 
 **Bloodline Arcana**: Whenever you cast a spell of the charm subschool, increase the spell’s DC by +2.
-
 
 **Bloodline Powers**: You can draw upon the power of Hell, although you must be wary of its corrupting influence. Such power does not come without a price.
 
@@ -539,3 +531,7 @@ Just as knowledge of the fate deck has passed from generation to generation sinc
 *Deck Realm (Sp)*: At 15th level, your otherworldly connection is so strong that your subconscious cleaves off a small portion of the realm of the cards for use as your own private sanctuary. Your deck realm is created the first time you use this ability, and is decorated as a garish reflection of your personality. Thereafter, you always visit this same home. You can place a portal to your deck realm once every 24 hours, but placing a new portal destroys the previous one, and you cannot move the entrance while you are inside. As long as you are not in your deck realm, time ceases to pass for anything and anyone still in your pocket dimension; creatures cannot move, objects do not decay, and everything remains exactly the same as you left it the last time you visited the plane. Time continues as normal whenever you are inside your deck realm. This ability is otherwise identical to [*mage's magnificent mansion*](../../magic/spells/mages-magnificent-mansion.md).
 
 *Kin to the Old Tales (Su)*: At 20th level, your soul becomes host to the otherworldly energies of the cards. You gain DR 10/cold iron and immunity to curses, paralysis, and sleep. You can always act in the surprise round of combat, and you cannot be caught flat-footed. You gain unlimited use of your invoke the deck ability.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

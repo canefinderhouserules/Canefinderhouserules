@@ -190,3 +190,7 @@ The list of barbarian rage powers includes replacements for everything from the 
 **Advanced Player’s Guide**: Beast totem, beast totem (greater), beast totem (lesser), boasting taunt, brawler, brawler (greater), chaos totem, chaos totem (greater), chaos totem (lesser), disruptive, ferocious mount, ferocious mount (greater), ferocious trample, ferocious trample (greater), fiend totem, fiend totem (greater), fiend totem (lesser), good for what ails you, guarded life, hurling, hurling (greater), hurling (lesser), hurling charge, liquid courage, overbearing advance, overbearing onslaught, roaring drunk, spirit steed, spirit totem, spirit totem (greater), spirit totem (lesser), staggering drunk.
 
 **Ultimate Campaign**: Body bludgeon, dragon totem, dragon totem resilience, ghost rager, guarded life (greater), hive totem, hive totem resilience, hive totem toxicity, primal scent, sunder enchantment, world serpent spirit, world serpent totem, world serpent totem unity.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

@@ -292,8 +292,85 @@ At the Crown of the World, nomadic clans of orcs live on the frozen wastes. The 
 
 While half-orcs are not well liked in the Linnorm Kingdoms, they may be able to find homes in the Ironbound Isles. Merchants traveling between the far east and the northern continent are often willing to hire on a half-orc as a guide and bodyguard across the Crown of the World. Winter half-orcs who migrate south into the winter realm can find an easier life in the growing half-orc communities, but they are unlikely to find any upward mobility unless they show skill at witchcraft.
 
+## Favored Class Options
 
-## More Favored Class Options
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
 
-- **Kineticist**: Gain a +1/3 bonus on fire element blast damage rolls that both deal fire damage and apply the kineticist’s elemental overflow bonus.
+**Alchemist**: Add +1/2 to bomb damage.
+
+**Arcanist**: Gain a +1 bonus on concentration checks made due to taking damage while casting arcanist spells.
+
+**Barbarian**: Add 1 to the half-orc’s total number of rage rounds per day.
+
+**Bard**: Add +1 to the bard’s total number of bardic performance rounds per day.
+
+**Bloodrager**: Increase the bloodrager's total number of bloodrage rounds per day by 1.
+
+**Brawler**: Add 1/4 to the brawler's effective level to determine her unarmed strike damage.
+
+**Cavalier**: Add +1 hit point to the cavalier’s mount companion. If the cavalier ever replaces his mount, the new mount gains these bonus hit points.
+
+**Cleric**: Select one domain power granted at 1st level that is normally usable a number of times per day equal to 3 + the cleric’s Wisdom modifier. The cleric adds +1/2 to the number of uses per day of that domain power.
+
+**Druid**: Add +1/3 to the druid’s natural armor bonus when using wild shape.
+
+**Fighter**: Add +2 on rolls to stabilize when dying.
+
+**Gunslinger**: Add a +1/3 bonus on attack rolls when using the pistol whip deed.
+
+**Hunter**: Add 1 hit point to the hunter's animal companion. If the hunter replaces his animal companion, the new animal companion gains these bonus hit points.
+
+**Inquisitor**: Add +1/2 on Intimidate checks and Knowledge checks to identify creatures.
+
+**Investigator**: Gain a +1/3 bonus on critical hit confirmation rolls made while using studied combat (maximum bonus of +5). This bonus does not stack with those gained through Critical Focus and similar effects.
+
+**Kineticist**: Add 1/3 point of fire damage to fire-element blasts that deal fire damage.
+
+**Magus**: Add +1/2 point of fire damage to spells that deal fire damage cast by the magus.
+
+**Medium**: When gaining a taboo, the medium can use spirit surge without incurring influence an additional 1/4 time per day.
+
+**Mesmerist**: Increase the mesmerist’s bonus damage from painful stare by 1/2 point.
+
+**Monk**: Add +1 to the monk’s CMD when resisting a grapple and +1/2 to the number of stunning attacks he can attempt per day.
+
+**Occultist**: Deal an additional 1/2 point of damage with focus powers.
+
+**Oracle**: Add one spell known from the oracle spell list. This spell must be at least one level below the highest spell level the oracle can cast.
+
+**Paladin**: Add +1/3 on critical hit confirmation rolls made while using smite evil (maximum bonus of +5). This bonus does not stack with Critical Focus.
+
+**Psychic**: Gain a +1 bonus on concentration checks required because of taking damage while casting spells from the psychic class.
+
+**Ranger**: Add +1 hit point to the ranger’s animal companion. If the half-orc ever replaces his animal companion, the new animal companion gains these bonus hit points.
+
+**Rogue**: Add +1/3 on critical hit confirmation rolls made while using sneak attack (maximum bonus of +5). This bonus does not stack with Critical Focus.
+
+**Shaman**: Add one spell from the cleric spell list that isn't on the shaman spell list to the list of spells the shaman knows. This spell must be at least 1 level below the highest spell level the shaman can cast.
+
+**Skald**: Increase the skald's total number of raging song rounds per day by 1.
+
+**Slayer**: Gain a +1/3 bonus on critical hit confirmation rolls made while using sneak attack (maximum bonus of +5). This bonus doesn't stack with those gained through Critical Focus and similar effects.
+
+**Sorcerer**: Add +1/2 to fire spell damage.
+
+**Spiritualist**: Add 1 hit point to the spiritualist’s phantom.
+
+**Summoner**: Add +1 hit point to the summoner’s eidolon.
+
+**Swashbuckler**: Gain a +1/3 bonus on all critical hit confirmation rolls made while using the precise strike deed (maximum bonus of +5). This bonus doesn't stack with those gained through Critical Focus and similar effects.
+
+**Warpriest**: Gain a +2 bonus on rolls to stabilize when dying.
+
+**Witch**: Add 1 skill rank to the witch’s familiar. If the half-orc ever replaces her familiar, the new familiar gains these bonus skill ranks.
+
+**Wizard**: Add a +1 bonus on concentration checks made due to taking damage while casting wizard spells.
+
+**Vigilante**: Add 1/2 to the DC increase from unshakable.
+
+**Shifter (Ultimate Wilderness)**: Add a +1/3 bonus on critical hit confirmation rolls when using shifter claws (maximum bonus of +5). This bonus does not stack with [Critical Focus](../../rules/feats/critical-focus.md).
+
+**Legendary Kineticist**: Add 1/3 point of fire damage to fire-element blasts that deal fire damage that apply the kineticist’s elemental overflow bonus.
+
+**Kineticist**: Gain a +1/3 bonus on fire element blast damage rolls that both deal fire damage and apply the kineticist’s elemental overflow bonus.
 

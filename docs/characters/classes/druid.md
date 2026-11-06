@@ -38,7 +38,6 @@ A druid must spend 1 hour each day in a trance-like meditation on the mysteries 
 
 **Table 3–7: Druid**
 
-
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                          | Spells per Day |     |     |     |     |     |     |     |     |     |
 |-------|-------------------|-----------|----------|-----------|--------------------------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |       |                   |           |          |           |                                                  | 0              | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -62,7 +61,6 @@ A druid must spend 1 hour each day in a trance-like meditation on the mysteries 
 | 18th  | +13/+8/+3         | +11       | +6       | +11       | Wild shape (8/day)                               | 4              | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 3   | 2   |
 | 19th  | +14/+9/+4         | +11       | +6       | +11       |                                                  | 4              | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 3   | 3   |
 | 20th  | +15/+10/+5        | +12       | +6       | +12       | Wild shape (at will)                             | 4              | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 4   | 4   |
-
 
 **Bonus Languages**: A druid’s bonus language options include Sylvan, the language of woodland creatures. This choice is in addition to the bonus languages available to the character because of her race.
 
@@ -126,7 +124,6 @@ An animal companion’s abilities are determined by the druid’s level and its 
 
 **Table 3–8: Animal Companion Base Statistics**
 
-
 | Class Level | HD  | BAB | Fort | Ref | Will | Skills | Feats | Natural Armor Bonus | Str/Dex Bonus | Bonus Tricks | Special                             |
 |-------------|-----|-----|------|-----|------|--------|-------|---------------------|---------------|--------------|-------------------------------------|
 | 1st         | 2   | +1  | +3   | +3  | +0   | 2      | 1     | +0                  | +0            | 1            | Link, share spells                  |
@@ -149,7 +146,6 @@ An animal companion’s abilities are determined by the druid’s level and its 
 | 18th        | 15  | +11 | +9   | +9  | +5   | 15     | 8     | +12                 | +6            | 7            | —                                   |
 | 19th        | 15  | +11 | +9   | +9  | +5   | 15     | 8     | +12                 | +6            | 7            | —                                   |
 | 20th        | 16  | +12 | +10  | +10 | +5   | 16     | 8     | +12                 | +6            | 7            | Ability score increase              |
-
 
 that of a druid of a level equal to the animal’s HD. Animal companions do not gain additional attacks using their natural weapons for a high base attack bonus.
 
@@ -296,3 +292,7 @@ The animal companions listed here are by no means the only ones available—addi
 **Starting Statistics**: **Size** Medium; **Speed** 50 ft.; **AC** +2 natural armor; **Attack** bite (1d6 plus trip); **Ability Scores** Str 13, Dex 15, Con 15, Int 2, Wis 12, Cha 6; **Special Qualities** low-light vision, scent.
 
 **7th-Level Advancement**: **Size** Large; **AC** +2 natural armor; **Attack** bite (1d8 plus trip); **Ability Scores** Str +8, Dex –2, Con +4.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

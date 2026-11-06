@@ -42,7 +42,19 @@ The following racial traits may be selected instead of existing gillman racial t
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#gillmen-advanced-race-guide). Gillmen also have the following options.
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Fighter**: Add +1 to the fighter’s CMD when resisting two combat maneuvers of the character’s choice.
+
+**Rogue**: The rogue gains 1/6 of a new rogue talent.
+
+**Sorcerer**: Add one spell known from the sorcerer spell list. This spell must be at least one level below the highest spell level the sorcerer can cast.
+
+**Wizard**: Add one spell from the wizard spell list to the wizard’s spellbook. This spell must be at least one level below the highest spell level he can cast.
+
+**Legendary Kineticist**: Add 1/5 of an Extra Wild Talent feat that must be spent on a mind or water element wild talent.
+
+ Gillmen also have the following options.
 
 **Bard**: Add 1/2 to the bard's Bluff checks to fool someone and gain a +1/2 bonus on the bard's Sense Motive checks to sense enchantments.
 

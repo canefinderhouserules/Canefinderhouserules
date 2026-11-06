@@ -189,3 +189,7 @@ If this damage destroys the armor or shield then any excess damage is applied to
 #### Weapon Mastery (Ex)
 
 Attacks made by the fighter with weapons he has selected with the Weapon Focus feat, or that belong to a weapon group he possesses, automatically confirm all critical threats and have their damage multiplier increased by 1 (×2 becomes ×3, for example).
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../../races/index.md).

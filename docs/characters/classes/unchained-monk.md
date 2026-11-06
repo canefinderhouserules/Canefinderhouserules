@@ -241,3 +241,7 @@ These ki powers are selected by unchained monks whose ki flows in perfect harmon
 ## Ex-monks
 
 A monk who becomes nonlawful cannot gain new levels as a monk but retains all monk abilities.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

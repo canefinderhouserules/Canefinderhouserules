@@ -124,6 +124,8 @@ At 20th level, the legendary cleric chooses a third domain. They gain the benefi
 
 ### Favored Class Bonuses
 
+Any character can take a bonus from the [universal favored class bonuses](../../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../../races/index.md).
+
 The following favored class bonuses are available to all characters, regardless of race:
 
 **Any**: +½ faith point

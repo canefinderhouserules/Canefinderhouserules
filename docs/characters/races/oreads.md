@@ -79,7 +79,25 @@ The following racial traits may be selected instead of existing oread racial tra
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#oreads-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Bard**: Add +5 feet to the range of one of the bard’s bardic performances (max +30 feet to any one performance).
+
+**Cleric**: Add a +1/2 bonus on Knowledge (planes) checks relating to the Plane of Earth and creatures with the earth subtype.
+
+**Druid**: Add a +1/2 bonus on Knowledge (nature) checks relating to plants and burrowing animals.
+
+**Fighter**: Add +1 to the fighter’s CMD when resisting a bull rush or drag attempt.
+
+**Monk**: Add +1/3 on critical hit confirmation rolls made with unarmed strikes (maximum bonus of +5). This bonus does not stack with Critical Focus.
+
+**Paladin**: Add +1/4 to the bonus the paladin grants her allies with her aura of courage and aura of resolve special abilities.
+
+**Ranger**: Add +1/4 to the natural armor bonus of the ranger’s animal companion. If the ranger ever replaces his animal companion, the new animal companion gains this bonus.
+
+**Summoner**: Add a +1/4 natural armor bonus to the AC of the summoner’s eidolon.
+
+**Legendary Kineticist**: Add 1/4 to the save DC of the kineticist’s earth infusions and wild talents.
 
 ## Archetypes and Class Options
 

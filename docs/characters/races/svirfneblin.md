@@ -38,7 +38,15 @@ The following racial traits may be selected instead of existing svirfneblin raci
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#svirfneblin-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Alchemist**: Add one extract formula from the alchemist’s list to the alchemist’s formula book. This formula must be at least one level below the highest formula level the alchemist can create.
+
+**Oracle**: Add one spell known from the oracle spell list. This spell must be at least one level below the highest spell level the oracle can cast.
+
+**Ranger**: Add DR 1/magic to the ranger’s animal companion. Each additional time the ranger selects this benefit, the DR/magic increases +1/2 (maximum DR 10/ magic). If the ranger ever replaces his animal companion, the new companion gains this DR.
+
+**Legendary Kineticist**: Add a +1/6 bonus on combat maneuver checks attempted as part of a substance infusion.
 
 ## Archetypes and Class Options
 

@@ -2,7 +2,6 @@
 
 Class options from Ultimate Wilderness that are not archetypes: new discoveries, rage powers, a cavalier order, psychic disciplines, slayer talents, witch hexes and patrons, and the plant eidolon subtype. See also the [wood kineticist element](kineticist-wood.md), the [wood shaman spirit](shaman-spirits.md#wood), the [disaster warpriest blessings](warpriest-blessings.md#disaster-blessings), and the [erosion](../../magic/domains/erosion.md) and [vermin](../../magic/domains/vermin.md) domains.
 
-
 ## Alchemist Discoveries
 
 The following discoveries can be taken by any alchemist who meets the prerequisites. Discoveries marked with a dagger (†) modify bombs and do not stack.
@@ -200,3 +199,7 @@ Kami are spirits created to protect nature, but they have proven themselves quic
 **Waymarker**: The creature gains a +4 competence bonus on attack rolls with improvised weapons. This bonus increases to +6 at 8th level and +8 at 15th level.
 
 **Well**: The creature gains a +2 shield bonus to AC. This bonus increases to +4 at 8th level and +6 at 15th level.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

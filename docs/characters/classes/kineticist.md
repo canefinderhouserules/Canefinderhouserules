@@ -165,3 +165,6 @@ The following wild talents are available to all kineticists.
 
 The full list of wild talents (simple, utility, infusion and substance infusions, blasts and form infusions by element) is on the [Kineticist Wild Talents](kineticist-wild-talents.md) page.
 
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

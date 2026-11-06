@@ -56,7 +56,23 @@ The following racial traits may be selected instead of existing tengu racial tra
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#tengus-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Barbarian**: Add +1/3 to the bonus from the superstitious rage power.
+
+**Fighter**: Add +1 to the fighter’s CMD when resisting a grapple or trip attempt.
+
+**Monk**: Add +1/4 point to the monk’s *ki* pool.
+
+**Oracle**: Add +1/2 to the oracle’s level for the purpose of determining the effects of the oracle’s curse ability.
+
+**Rogue**: Choose a weapon from those listed under the tengu’s swordtrained ability. Add a +1/2 bonus on critical hit confirmation rolls with that weapon (maximum bonus +4). This bonus does not stack with Critical Focus.
+
+**Sorcerer**: Select one bloodline power at 1st level that is normally usable a number of times per day equal to 3 + the sorcerer’s Charisma modifier. The sorcerer adds +1/2 to the number of uses per day of that bloodline power.
+
+**Witch**: Add one spell from the witch spell list to the witch’s familiar. This spell must be at least one level below the highest spell level she can cast. If the witch ever replaces her familiar, the new familiar knows these bonus spells.
+
+**Legendary Kineticist**: Gain 1/6 of an Extra Wild Talent feat.
 
 Tengus also have the following options.
 
@@ -138,7 +154,6 @@ Tengus have access to the following equipment.
 ### Deft Swords
 
 Some tengu learn dazzling blade techniques that allow them to use their weapons to protect against combat maneuvers. They gain a +2 dodge bonus to CMD while wielding a swordlike weapon. This racial trait replaces natural weapon and sneaky.
-
 
 ## More Favored Class Options
 

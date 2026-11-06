@@ -139,3 +139,7 @@ If a character already has uncanny dodge (see above) from another class, the lev
 **Damage Reduction (Ex)**: At 9th level, a skald gains damage reduction. Subtract 1 from the damage the skald takes each time he is dealt damage from a weapon or a natural attack. At 14th and 19th levels, this damage reduction increases by 1. Damage reduction can reduce damage to 0, but not below o. Additionally, the skald grants this DR to all allies affected by his inspired rage.
 
 **Master Skald (Su)**: At 20th level, a skald's inspired rage no longer gives allies a penalty to AC, nor limits what skills or abilities they can use. Allies with rage class abilities may use features dependent on those abilities without restriction, such as a barbarian's rage powers and a bloodrager's blood casting and bloodline abilities. Finally, when making a full attack, affected allies may make an
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

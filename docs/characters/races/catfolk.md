@@ -72,7 +72,25 @@ The following rogue talents can only be taken by catfolk.
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#catfolk-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Bard**: Add +1/2 to the bard’s bardic knowledge bonus.
+
+**Cavalier**: Add +1/4 to the cavalier’s banner bonus.
+
+**Druid**: Add +1 hit points to the druid’s animal companion. If the druid ever replaces her animal companion, the new animal companion gains these bonus hit points.
+
+**Oracle**: Add one spell known from the oracle spell list. This spell must be at least one level below the highest spell level the oracle can cast.
+
+**Ranger**: Choose a weapon from the following list: claws, kukri, longbow, longsword, short spear, or shortbow. Add +1/2 on critical hit confirmation rolls made while using that weapon (maximum bonus of +4). This bonus does not stack with Critical Focus.
+
+**Rogue**: Add a +1/2 bonus on Bluff checks to feint and Sleight of Hands checks to pickpocket.
+
+**Sorcerer**: Select one bloodline power at 1st level that is normally usable a number of times equal to 3 + the sorcerer’s Charisma modifier. The sorcerer adds + 1/2 to the number of uses per day of that bloodline power.
+
+**Shifter (Ultimate Wilderness)**: Add 1/5 to the damage dealt when using the shifter's claws ability.
+
+**Legendary Kineticist**: Gain 1/5 use of the cat’s luck racial trait per day. The kineticist must accept 1 point of burn on uses of cat’s luck gained this way.
 
 Catfolk also have the following options.
 

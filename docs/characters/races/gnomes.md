@@ -231,10 +231,87 @@ Some gnomes retain a trace of the vitality of the fey realm. These gnomes recove
 
 Some gnomes prefer to use their natural talents with mechanisms to drive machines. These gnomes gain a +2 racial bonus on driving checks and on Craft checks to build or repair vehicles. This racial trait replaces hatred and obsessive.
 
+## Favored Class Options
 
-## More Favored Class Options
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
 
-- **Arcanist**: Add 1/6 to the number of points the arcanist gains in her arcane reservoir each day.
-- **Druid**: The druid gains energy resistance 1 against acid, cold, electricity, or fire. Each time the druid selects this reward, increase her resistance to one of these energy types by +1 (maximum 10 for any one type).
-- **Rogue**: The rogue gains a +1/2 bonus on Disable Device and Use Magic Device checks related to glyphs, symbols, scrolls, and other magical writings.
+**Alchemist**: Add +1/2 to the number of bombs per day the alchemist can create.
+
+**Barbarian**: Add a +1/2 bonus to the barbarian’s trap sense.
+
+**Bard**: Add 1 to the gnome’s total number of bardic performance rounds per day.
+
+**Bloodrager**: Add 1/4 to the bloodrager's effective class level when determining the power of her bloodrager bloodline powers.
+
+**Brawler**: Increase the number of times per day the brawler can use martial flexibility by 1/4.
+
+**Cavalier**: Add +1 to the cavalier’s mounted base speed. In combat this has no effect unless the cavalier has selected this reward five times (or another increment of five). If the cavalier ever replaces his mount, the new mount gains this bonus to its speed.
+
+**Cleric**: Add +1/2 to the cleric’s channeled energy total when healing creatures of the animal, fey, and plant types.
+
+**Druid**: Gain energy resistance 1 against acid, cold, electricity, or fire. Each time the druid selects this reward, increase her resistance to one of these energy types by 1 (maximum 10 for any one type).
+
+**Fighter**: Add +1 to the fighter’s CMD when resisting a dirty trick or steal attempt.
+
+**Gunslinger**: The gunslinger reduces the amount of time needed to restore a broken firearm using the Gunsmithing feat by 5 minutes (maximum reduction of 50 minutes).
+
+**Hunter**: Add DR 1/magic to the hunter's animal companion. Each time the hunter gains another level, the DR increases by 1/2 (maximum DR 10/magic). If the hunter replaces her animal companion, the new companion gains this damage reduction.
+
+**Inquisitor**: Add a +1 bonus on concentration checks when casting inquisitor spells.
+
+**Investigator**: Add one extract formula from the investigator's list to his formula book. This formula must be at least 1 formula level below the highest level the investigator can create.
+
+**Kineticist**: Gain a +1/2 bonus on Bluff, Diplomacy, Intimidate, and Sense Motive skill checks against creatures with the elemental subtype matching the kineticist’s primary element.
+
+**Magus**: Add one of the following weapon special abilities to the list of weapon special abilities the magus may add to his weapon using his arcane pool: *defending, ghost touch, merciful, mighty cleaving, vicious* (*Core Rulebook*); *allying, conductive, corrosive, corrosive burst, menacing* (*Advanced Player’s Guide*). Once an ability has been selected with this reward, it cannot be changed.
+
+**Medium**: Gain a +1/2 bonus on Bluff, Diplomacy, Intimidate, and Sense Motive skill checks against spirits, undead, phantoms, and creatures native to the Astral Plane.
+
+**Mesmerist**: Increase the number of mesmerist tricks the mesmerist can use per day by 1/3.
+
+**Monk**: Add +1 to the monk’s Acrobatics check bonus gained by spending a point from his *ki* pool. A monk must be at least 5th level to select this benefit.
+
+**Occultist**: Increase the duration of the occultist’s minor figment by 1 minute, and increase the total concealment miss chance from the occultist’s distortion resonant power by 2%. This doesn’t increase the maximum miss chance.
+
+**Oracle**: Treat the gnome’s level as +1/2 higher for the purpose of determining the effects of the oracle’s curse ability.
+
+**Paladin**: Add +1/2 hit point to the paladin’s lay on hands ability (whether using it to heal or harm).
+
+**Psychic**: Increase the total number of points in the psychic’s phrenic pool by 1/3 point.
+
+**Ranger**: Add DR 1/magic to the ranger’s animal companion. Each time the ranger selects this benefit, the DR/magic increases by +1/2 (maximum DR 10/magic). If the gnome ever replaces his animal companion, the new companion gains this DR.
+
+**Rogue**: Gnome rogues gain a +1 bonus on Disable Device and Use Magic Device checks related to glyphs, symbols, scrolls, and other magical writings each time they gain a level of rogue.
+
+**Shaman**: The shaman gains 1/6 of a new shaman hex.
+
+**Skald**: Add a +1 bonus on concentration checks when casting skald spells.
+
+**Slayer**: The slayer gains 1/6 of a new slayer talent.
+
+**Sorcerer**: Select one bloodline power at 1st level that is normally usable a number of times per day equal to 3 + the sorcerer’s Charisma modifier. The sorcerer adds +1/2 to the number of uses per day of that bloodline power.
+
+**Spiritualist**: Add 1/6 to the shield bonus granted to the spiritualist while under the effects of either spiritual interference or greater spiritual interference.
+
+**Summoner**: Add +1 hit point to the summoner’s eidolon.
+
+**Swashbuckler**: Increase the number of times per day the swashbuckler can use charmed life by 1/4.
+
+**Warpriest**: Add 1/2 to the result of the warpriest's channeled energy when healing creatures of the animal, fey, and plant types.
+
+**Witch**: The witch gains 1/6 of a new witch hex.
+
+**Wizard**: Add +1/2 to the number of uses per day of arcane school powers. This increase only applies to arcane school powers available at 1st level and normally usable a number of times per day equal to 3 + the wizard’s Intelligence modifier.
+
+**Vigilante**: Gain +1/2 on Bluff checks when attempting to tell a lie that would be true from the point of view of the vigilante’s current identity.
+
+**Shifter (Ultimate Wilderness)**: Gain energy resistance 1 against acid, cold, electricity, or fire. Each time the shifter selects this reward, increase that energy resistance by 1, to a maximum of energy resistance 10. Once the gnome reaches energy resistance 10, she can select a new type of energy to build her resistance to the next time she selects this favored class option.
+
+**Legendary Kineticist**: Gain a +1/2 bonus on Bluff, Diplomacy, Intimidate, and Sense Motive skill checks against creatures with the elemental subtype matching the kineticist’s primary element, or add a +1/6 bonus on combat maneuver checks attempted as part of a substance infusion.
+
+**Arcanist**: Add 1/6 to the number of points the arcanist gains in her arcane reservoir each day.
+
+**Druid**: The druid gains energy resistance 1 against acid, cold, electricity, or fire. Each time the druid selects this reward, increase her resistance to one of these energy types by +1 (maximum 10 for any one type).
+
+**Rogue**: The rogue gains a +1/2 bonus on Disable Device and Use Magic Device checks related to glyphs, symbols, scrolls, and other magical writings.
 

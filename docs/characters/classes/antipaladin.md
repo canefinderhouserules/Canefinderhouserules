@@ -178,3 +178,7 @@ Under exceptional circumstances, an antipaladin can ally with good associates, b
 ## Ex-Antipaladins
 
 A antipaladin who ceases to be chaotic evil, who willfully commits an good act, or who violates the code of conduct loses all antipaladin spells and class features (including the fiendish boon, but not weapon, armor, and shield proficiencies). He may not progress any further in levels as an antipaladin. He regains his abilities and advancement potential if he atones for his violations (see the atonement spell), as appropriate.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

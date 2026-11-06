@@ -356,44 +356,4 @@ A shifter can draw on her chosen animal aspect to transform her hands into deadl
 
 ## Shifter Favored Class Options
 
-The following favored class bonuses are available to shifters who come from the various core races. Each of these rewards replaces the normal reward for taking a level in a favored class.
-
-**Catfolk**: Add 1/5 to the damage dealt when using the shifter's claws ability.
-
-**Dhampir**: Add a +1 bonus on wild empathy checks to improve the attitude of bats, rats, and wolves.
-
-**Drow**: Add a +1/2 bonus on Climb checks.
-
-**Dwarves**: Add a +1/2 bonus on wild empathy checks to influence animals and magical beasts that are normally encountered in underground environments.
-
-**Elves**: Add 1 to the shifter’s base speed. This has no in-game effect unless the shifter has selected this reward five times (or any multiple of five) to enhance her speed by 5 feet. For example, a 4th-level elven shifter who has selected this option four times has a base speed of 34 feet, but is treated as if she still had a base speed of 30 feet. When she reaches 5th level and takes this favored class option again, her base speed becomes 35 feet. This bonus applies only when the shifter is wearing no armor.
-
-**Gathlain**: Add a +1 bonus on Knowledge (nature) checks relating to plants and flying animals.
-
-**Gnomes**: Gain energy resistance 1 against acid, cold, electricity, or fire. Each time the shifter selects this reward, increase that energy resistance by 1, to a maximum of energy resistance 10. Once the gnome reaches energy resistance 10, she can select a new type of energy to build her resistance to the next time she selects this favored class option.
-
-**Grippli**: Add a +1 bonus on Survival checks to follow tracks through swamps.
-
-**Half-Elves**: Add a +1/2 bonus on Survival checks to get along in the wild, to avoid getting lost, and to avoid all natural hazards.
-
-**Half-Orcs**: Add a +1/3 bonus on critical hit confirmation rolls when using shifter claws (maximum bonus of +5). This bonus does not stack with [Critical Focus](../../rules/feats/critical-focus.md).
-
-**Halflings**: Increase the AC bonus from defensive instinct by 1/4 against creatures of size Large or larger.
-
-**Humans**: Add 1/3 to the number of minutes the shifter can assume her minor form each day.
-
-**Kitsune**: Add 1/4 to the number of minutes the shifter can assume her minor form each day.
-
-**Kobold**: Add a +1/4 bonus on Stealth checks while in the shifter's minor or major form.
-
-**Orc**: Add 1/5 to the damage dealt when using the shifter's claws ability.
-
-**Ratfolk**: Add a +1 bonus on wild empathy checks to influence animals and magical beasts that live underground.
-
-**Tiefling**: Add a +1 bonus on wild empathy checks to improve the attitude of fiendish creatures.
-
-**Undine**: Add a +1 bonus on wild empathy checks to influence animals and magical beasts with the aquatic subtype.
-
-**Vanara**: Add a +1/2 bonus on Acrobatics checks to jump and a +1/2 bonus on wild empathy checks.
-
-**Vine Leshy**: Add a +1 bonus on Knowledge (nature) checks relating to plants.
+Each race's official options for this class are listed on its [race page](../races/index.md). Any character can also use the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md).

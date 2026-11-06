@@ -124,7 +124,25 @@ More often the result of curiosity or experimentation than mating, the dhampir o
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#dhampirs-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Alchemist**: Add +10 minutes to the duration of the alchemist’s mutagens.
+
+**Cleric**: Add +1 to the caster level of any channeling feat used to affect undead.
+
+**Fighter**: Add a +2 bonus on rolls to stabilize when dying.
+
+**Inquisitor**: Add a +1/2 bonus on Intimidate checks to demoralize humanoids.
+
+**Rogue**: Add a +1/2 bonus on Stealth checks and Perception checks made in dim light or darkness.
+
+**Sorcerer**: Add +1/2 point of negative energy damage to spells that deal negative energy damage.
+
+**Wizard**: Add +1/4 to the wizard’s caster level when casting spells of the necromancy school.
+
+**Shifter (Ultimate Wilderness)**: Add a +1 bonus on wild empathy checks to improve the attitude of bats, rats, and wolves.
+
+**Legendary Kineticist**: Heal an additional 1/4 hit point when using void healer.
 
 ## Archetypes and Class Options
 

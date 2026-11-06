@@ -32,7 +32,6 @@ Like other spellcasters, a cleric can cast only a certain number of spells of ea
 
 **Table 3–5: Cleric**
 
-
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                    | Spells per Day |     |     |     |     |     |     |     |     |     |
 |-------|-------------------|-----------|----------|-----------|--------------------------------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |       |                   |           |          |           |                                            | 0              | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -56,7 +55,6 @@ Like other spellcasters, a cleric can cast only a certain number of spells of ea
 | 18th  | +13/+8/+3         | +11       | +6       | +11       |                                            | 4              | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 3+1 | 3+1 | 2+1 |
 | 19th  | +14/+9/+4         | +11       | +6       | +11       | Channel energy 10d8                        | 4              | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 3+1 | 3+1 |
 | 20th  | +15/+10/+5        | +12       | +6       | +12       |                                            | 4              | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 | 4+1 |
-
 
 Note: “+1” represents the domain spell slot
 
@@ -99,3 +97,7 @@ A cleric who grossly violates the code of conduct required by her god loses all 
 ## Domains
 
 Clerics may select any two of the domains granted by their deity. Clerics without a deity may select any two domains (choices are subject to GM approval). All domains and their powers are listed under [Magic → Domains](../../magic/domains/domains-overview.md).
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

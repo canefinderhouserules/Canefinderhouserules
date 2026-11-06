@@ -159,3 +159,6 @@ Magi gain access to the following spells. While most of these spells are found i
 
 **6th-level**: acid fog, bear’s endurance (mass), beast shape IV, bull’s strength (mass), cat’s grace (mass), chain lightning, contagious flame\*\*, disintegrate, dispel magic (greater), elemental body III, flesh to stone, forceful hand, form of the dragon I, freezing sphere, mislead, monstrous physique IV*, sirocco\*\*, stone to flesh, transformation, true seeing, undead anatomy III*, wall of iron. class features can replace or alter the same class feature from the base class as another alternate class feature. For example, a druid could not be both a mooncaller and a shark shaman, since both archetypes replace the venom immunity class feature with something different. If an archetype replaces a class ability that is part of a series of improvements or additions to a base ability (such as a fighter’s weapon training or a ranger’s favored enemy), the next time the character would gain that ability, it counts.
 
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

@@ -1,6 +1,5 @@
 # Duskwalkers
 
-
 Born of an ancient pact between a fate-weaving outsider and a judge of the dead, the duskwalkers are the honored dead, souls given the privilege of a single reincarnation. Each had once helped the cause of fate, preserving the cycle of souls by sword or pen, out of duty or kindness or fear. Each had seen his first life end too soon, a thread cut before its fated time. Now, they live again, watched by the psychopomps but free to forge new destinies.
 
 ## Duskwalker Racial Traits
@@ -47,6 +46,10 @@ Origin feats are duskwalker racial feats that grant additional powers based on t
 - [Willing Death](../../rules/feats/willing-death.md)
 
 ## Favored Class Options
+
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Legendary Kineticist**: Increase the capacity of the kineticist’s internal buffer by 1/6 point.
 
 The following options are available to duskwalkers who have the listed favored class, and unless otherwise stated, the bonus applies each time you select the favored class reward.
 

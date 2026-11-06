@@ -108,7 +108,6 @@ You slam a single foe with a stream of water.
 
 You fire a beam of sickly green radiation at a single foe. This blast is available only to the [blightburner](kineticist-archetypes.md#blightburner) and deals 1d4 + 1/2 your Constitution modifier, increasing by 1d4 for every 2 kineticist levels beyond 1st.
 
-
 ## Composite Blasts
 
 Composite blasts combine elements to form a new blast. When a kineticist gains a new element through expanded element, she gains access to all composite blasts for which she qualifies. Most composite blasts are either physical or energy blasts, like simple blasts. Physical composite blasts deal an amount of damage equal to 2d6+2 + the kineticist’s Constitution modifier, increasing by 2d6+2 for every 2 kineticist levels beyond 1st; energy composite blasts deal an amount of damage equal to 2d6 + 1/2 the kineticist’s Constitution modifier, increasing by 2d6 for every 2 kineticist levels beyond 1st.
@@ -1862,3 +1861,7 @@ To locate the aether saturations deep within the desert, a telekineticist must f
 **Saving Throw** none
 
 Each time you hit a foe with an unarmed strike with your infused blast, increase your DR/adamantine from flesh of stone by 1 until the start of your next turn. You can use this infusion only while also using the kinetic fist form infusion.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

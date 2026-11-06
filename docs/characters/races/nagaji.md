@@ -30,7 +30,17 @@ The following racial trait may be selected instead of an existing nagaji racial 
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#nagaji-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Alchemist**: Add +1 on Craft (alchemy) checks to craft poison and +1/3 on the DCs of poisons the alchemist creates.
+
+**Fighter**: Add +1 to the fighter’s CMD when resisting a grapple or trip attempt.
+
+**Monk**: Add +1/4 point to the monk’s *ki* pool.
+
+**Summoner**: Add +1 hit point to the summoner’s eidolon.
+
+**Legendary Kineticist**: Gain 1/15 of the gorgon gaze infusion. It is treated as universal and can be applied to any kinetic blast the kineticist possesses.
 
 Nagaji also have the following options.
 

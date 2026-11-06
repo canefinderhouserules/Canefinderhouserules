@@ -64,7 +64,33 @@ Oversized goblins are Medium, and grow to 4 to 5 feet tall. They tend to be part
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#goblins-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Alchemist**: The alchemist gains fire resistance 1. Each time this reward is selected, increase fire resistance by +1. This fire resistance does not stack with fire resistance gained from other sources.
+
+**Barbarian**: Add +1/2 on critical hit confirmation rolls for attacks made with unarmed strikes or natural weapons (maximum bonus of +4). This bonus does not stack with Critical Focus.
+
+**Bard**: Add +1 to the bard’s total number of bardic performance rounds per day.
+
+**Cavalier**: Add +1 hit points to the cavalier’s mount companion. If the cavalier ever replaces his mount, the new mount gains these bonus hit points.
+
+**Druid**: Add +1 hit points to the druid’s animal companion. If the druid ever replaces her animal companion, the new animal companion gains these bonus hit points.
+
+**Gunslinger**: Add +1/3 on critical hit confirmation rolls made with firearms (maximum bonus of +5). This bonus does not stack with Critical Focus.
+
+**Oracle**: Add +1 on concentration checks made when casting spells with the fire descriptor.
+
+**Ranger**: Gain a +1/2 bonus on damage dealt to dogs (and doglike creatures) and horses (and horselike creatures).
+
+**Rogue**: Add a +1 bonus on the rogue’s sneak attack damage rolls during the surprise round or before the target has acted in combat.
+
+**Sorcerer**: Add +1 spell known from the sorcerer spell list. This spell must be at least one level below the highest spell level the sorcerer can cast, and must have the fire descriptor.
+
+**Summoner**: Add +1/4 evolution point to the eidolon’s evolution pool. These bonus evolution points must be spent on evolutions that deal fire damage or protect the eidolon from fire (for example, resistance, energy attacks, immunity, breath weapon, and so on).
+
+**Witch**: Add +1 spell from the witch spell list to the witch’s familiar. This spell must be at least one level below the highest spell level she can cast. If the witch ever replaces her familiar, the new familiar knows these bonus spells.
+
+**Legendary Kineticist**: Add 1/5 of an Extra Wild Talent feat that must be spent on a fire or machine element infusion wild talent.
 
 ## Archetypes and Class Options
 

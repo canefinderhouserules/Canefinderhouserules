@@ -263,3 +263,80 @@ This replaces elven immunities.
 
 Half-elves raised among elves often feel pitied and mistrusted by their longer-lived kin, and yet they receive training in elf weapons. They gain the elf ’s weapon familiarity trait. This racial trait replaces adaptability.
 
+## Favored Class Options
+
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Alchemist**: Add +1 foot to the range increment of the alchemist’s thrown splash weapons (including the alchemist’s bombs). This option has no effect unless the alchemist has selected it 5 times (or another increment of 5); a range increment of 24 feet is effectively the same as a range increment of 20 feet, for example.
+
+**Barbarian**: Add +1/4 to the bonus on Reflex saves and dodge bonus to AC against attacks made by traps granted by trap sense.
+
+**Bard**: Add 1 to the half-elf’s total number of bardic performance rounds per day.
+
+**Bloodrager**: Increase the bonus gained from blood sanctuary by 1/4.
+
+**Brawler**: Add 1 to the brawler's CMD when she's resisting a trip or overrun combat maneuver.
+
+**Cavalier**: Add +1 foot to the cavalier’s mount’s base speed. This option has no effect unless the cavalier has selected it 5 times (or another increment of 5); a speed of 54 feet is effectively a speed of 50 feet, for example. If the cavalier ever replaces his mount, the new companion gains this base speed bonus.
+
+**Cleric**: Add +1/3 to the amount of damage dealt or damage healed when the cleric uses channel energy.
+
+**Druid**: Select one cleric domain power at 1st level that is normally usable a number of times per day equal to 3 + the druid’s Wisdom modifier. The druid adds 1/2 to the number of uses per day of that domain power. For half-elf druids whose nature bond gives them an animal companion, add +1 skill rank to the animal companion. If the half-elf ever replaces her animal companion, the new companion gains these bonus skill ranks.
+
+**Fighter**: Add +1 to the fighter’s CMD when resisting a disarm or overrun.
+
+**Gunslinger**: Add +1/4 to the number of grit points in the gunslinger’s grit pool.
+
+**Hunter**: Add 1 foot to the hunter's companion's base speed. In combat, this has an effect only for every five increases in base speed.
+
+**Inquisitor**: Add +1/4 to the number of times per day the inquisitor can change her most recent teamwork feat.
+
+**Investigator**: Gain a +1/4 bonus on all inspiration rolls.
+
+**Kineticist**: Gain a +1/4 bonus on damage rolls that apply the kineticist’s elemental overflow bonus.
+
+**Magus**: Add +1/4 to the magus’s arcane pool.
+
+**Medium**: Gain a +1/3 bonus on all skill checks using occult skill unlocks.
+
+**Mesmerist**: When casting mesmerist enchantment spells, add 1/2 to the effective caster level of the spell, but only to determine the spell’s duration.
+
+**Monk**: Add +1/2 on Escape Artist checks and on Acrobatics checks to cross narrow surfaces.
+
+**Occultist**: Gain a +1/2 bonus on Spellcraft checks to identify the properties of magic items and a +1/2 bonus on Use Magic Device checks to emulate a race.
+
+**Oracle**: Add one spell known from the oracle spell list. This spell must be at least one level below the highest spell level the oracle can cast.
+
+**Paladin**: Add +1 foot to the size of all the paladin’s aura class features. This option has no effect unless the paladin has selected it 5 times (or another increment of 5); an aura of 14 feet is effectively the same as a 10-foot aura, for example.
+
+**Psychic**: Gain 1/6 of a new phrenic amplification.
+
+**Ranger**: Add +1 skill rank to the ranger’s animal companion. If the half-elf ever replaces his companion, the new companion gains these bonus skill ranks.
+
+**Rogue**: Add a +1/2 bonus on Bluff checks to feint and Diplomacy checks to gather information.
+
+**Shaman**: Add one spell from the cleric spell list that isn't on the shaman spell list to the list of spells the shaman knows. This spell must be at least 1 level below the highest spell level the shaman can cast.
+
+**Skald**: Increase the skald's total number of raging song rounds per day by 1
+
+**Slayer**: Gain a +1/2 bonus on Bluff checks to feint and Diplomacy checks to gain information.
+
+**Sorcerer**: Select one bloodline power at 1st level that is normally usable a number of times per day equal to 3 + the sorcerer’s Charisma modifier. The sorcerer adds +1/2 to the number of uses per day of that bloodline power.
+
+**Spiritualist**: Add 1 skill rank to the spiritualist’s phantom.
+
+**Summoner**: Add +1/4 to the eidolon’s evolution pool.
+
+**Swashbuckler**: Increase the number of times per day the swashbuckler can use charmed life by 1/4.
+
+**Warpriest**: Gain a +1/3 bonus on the damage dealt or healed with the warpriest's channel energy ability.
+
+**Witch**: Add one spell from the witch spell list to the witch’s familiar. This spell must be at least one level below the highest spell level she can cast. If the witch ever replaces her familiar, the new familiar knows these bonus spells.
+
+**Wizard**: When casting wizard enchantment spells, add +1/3 to the effective caster level of the spell, but only to determine the spell’s duration.
+
+**Vigilante**: Gain +1/2 on the Disguise bonus from seamless guise.
+
+**Shifter (Ultimate Wilderness)**: Add a +1/2 bonus on Survival checks to get along in the wild, to avoid getting lost, and to avoid all natural hazards.
+
+**Legendary Kineticist**: Gain a +1/4 bonus on damage rolls that apply the kineticist’s elemental overflow bonus.

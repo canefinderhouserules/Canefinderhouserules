@@ -218,3 +218,7 @@ The rogue talents in this chapter include replacements for all of those in the C
 **Unmodified advanced rogue talents**: Another day (APG), confounding blades* (UC), deadly cocktail (APG), familiar (UC), fast tumble (APG), frugal trapsmith (APG), getaway master (UC), hide in plain sight (UC), hunter’s surprise (APG), knock-out blow (APG), redirect attack (APG), rumormonger (UC), stealthy sniper (APG), unwitting ally (UC), weapon snatcher (UC).
 
 APG = Advanced Player’s Guide; UC = Ultimate Combat.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

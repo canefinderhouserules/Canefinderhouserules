@@ -146,3 +146,7 @@ The following advanced talents are available for slayers.
 **Reaping Stalker (Ex)**: Some slayers prefer weapons with grim symbolism of lives cut short and can wield such weapons with unparalleled lethality. A slayer with this talent treats any sickle or scythe he wields as though it were one size larger for the purpose of determining its damage dice. In addition, the slayer increases the critical threat range of any sickle or scythe he wields by 1; this does not stack with other effects that alter a weapon's threat range.
 
 **Swallow Reversal (Ex)**: This technique, a creation of a legendary duelist, mimics the movement of a bird in flight to pierce an opponent's defenses. As an attack action, the slayer can make a single melee attack against his studied target at his highest base attack bonus. When attempting a swallow reversal, the slayer rolls two attack rolls and uses the highest result. If the attack is a critical threat, the slayer attempts to confirm the critical hit as normal. The slayer can use swallow reversal at will, but it can only be used against a given target once per day.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

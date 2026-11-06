@@ -258,3 +258,7 @@ banishment, creeping doom, dispel magic (greater) ethereal jaunt, heroism (great
 ### 6th-Level Summoner Spells
 
 antipathy, binding, charm monster (mass), dimensional lock, discern location, dominate monster, incendiary cloud, maze, planar adaptation (mass)\*, planar binding (greater), protection from spells, summon monster VIII, sympathy, teleportation circle.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

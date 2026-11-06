@@ -550,3 +550,7 @@ A phantom with this emotional focus fixates on every task given as if it were th
 **Steadfast Servant (Su)**: When the spiritualist reaches 12th level, the phantom can stay manifested even when its spiritualist master is unconscious or asleep.
 
 **Zeal’s Resolve (Su)**: When the spiritualist reaches 17th level, three times per day as a free action, when the phantom misses with an attack roll or fails a saving throw, it can reroll the failed attack or saving throw. It must take the new result, even if that result is worse.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

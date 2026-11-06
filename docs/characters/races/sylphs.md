@@ -58,7 +58,25 @@ The following racial traits may be selected instead of existing sylph racial tra
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#sylphs-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Cleric**: Add a +1/2 bonus on Knowledge (planes) checks relating to the Plane of Air and creatures with the air subtype.
+
+**Druid**: Add a +1/2 bonus on Knowledge (nature) checks relating to weather and flying animals.
+
+**Inquisitor**: Add a +1/2 bonus on Stealth checks while motionless and on opposed Perception checks.
+
+**Oracle**: Add +1/2 to the oracle’s level for the purpose of determining the effects of one revelation.
+
+**Rogue**: Add a +1/2 bonus on Acrobatics checks to jump and a +1/2 bonus on Sense Motive checks.
+
+**Sorcerer**: Choose a bloodline power from the djinni or elemental (air) bloodline that the sorcerer can use. The sorcerer treats her class level as though it were +1/2 higher (to a maximum of +4) when determining the effects of that power.
+
+**Witch**: Add a +1/2 bonus on Stealth checks and Perception checks made by the witch’s familiar. If the sylph ever replaces her familiar, the new familiar gains these bonus skill ranks.
+
+**Wizard**: Select one arcane school power from the air or wood elemental schools that the wizard can currently use. The wizard treats her class level as though it were +1/2 higher (to a maximum of +4) when determining the effects of that power.
+
+**Legendary Kineticist**: Add 1/4 to the save DC of the kineticist’s air infusions and wild talents.
 
 ## Archetypes and Class Options
 
@@ -112,7 +130,6 @@ A few ifrits, oreads, sulis, sylphs, and undines have appearances much closer to
 ### Secretive
 
 Sylphs gain a +2 racial bonus on saving throws against enchantment and divination spells and effects. This racial trait replaces energy resistance and the spell-like ability racial trait.
-
 
 ## More Favored Class Options
 

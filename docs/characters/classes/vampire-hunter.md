@@ -235,3 +235,7 @@ Vampire hunter technique feats are a mixture of fighting methods, disciplines, a
 - [Soured Soul](../../rules/feats/soured-soul.md)
 
 - [Vampire Scholar](../../rules/feats/vampire-scholar.md)
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

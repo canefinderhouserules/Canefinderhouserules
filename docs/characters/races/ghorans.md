@@ -64,7 +64,25 @@ The following racial traits can be selected instead of existing ghoran racial tr
 
 ## Favored Class Options
 
-See the [Ultimate Wilderness section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#ghorans-ultimate-wilderness).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Druid**: When casting spells that target plants or plant creatures, add 1/3 to the effective caster level, but only for the purpose of determining duration.
+
+**Hunter**: Add 1 skill rank to the hunter’s plant companion. If the hunter replaces her plant companion, the new plant companion gains these bonus skill ranks.
+
+**Mesmerist**: Choose one mind-affecting mesmerist trick that the mesmerist knows. The mesmerist can affect intelligent plant creatures with that trick or spell as if they weren’t immune to mind-affecting effects.
+
+**Ranger**: Add a +1/4 bonus on initiative checks and Survival checks when the ranger is in a favored terrain.
+
+**Rogue**: Choose one type of ranger favored enemy (or one subtype in case of either humanoid or outsider). The rogue adds 1/2 to her sneak attack damage when using sneak attack against creatures of the chosen type (maximum +3).
+
+**Shaman**: Add one spell from the druid spell list that isn’t on the shaman spell list to the list of spells she knows. This spell must be at least 1 level lower than the highest-level spell the shaman can cast.
+
+**Shifter**: Add 1/5 to the shifter’s natural armor bonus when using wild shape to assume a major form.
+
+**Sorcerer**: When casting sorcerer/wizard spells that are also on the druid spell list, add 1/3 to the effective class level, but only for the purpose of determining durations.
+
+**Witch**: Add 1/4 to the witch’s caster level when attempting dispel checks using dispel magic, break enchantment, and similar effects.
 
 ## Archetypes and Class Options
 

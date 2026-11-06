@@ -58,7 +58,25 @@ The following racial traits may be selected instead of existing ifrit racial tra
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#ifrits-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Alchemist**: Add +1/2 to the alchemist’s bomb damage.
+
+**Bard**: Add +1/6 to the number of people the bard can affect with the fascinate bardic performance.
+
+**Cleric**: Add a +1/2 bonus on Knowledge (planes) checks relating to the Plane of Fire and creatures with the fire subtype.
+
+**Gunslinger**: Add +1/2 to the bonus on initiative checks the gunslinger makes while using her gunslinger initiative deed.
+
+**Inquisitor**: Add a +1/2 bonus on Intimidate checks made against creatures with the fire subtype and a +1/2 bonus on Knowledge (planes) checks relating to the Plane of Fire.
+
+**Oracle**: Add +1/2 to the oracle’s level for the purpose of determining the effects of one revelation.
+
+**Rogue**: Add a +1/2 bonus on Acrobatics checks to jump and a +1/2 bonus on Intimidate checks to demoralize enemies.
+
+**Sorcerer**: Choose a bloodline power from the elemental (fire) bloodline or the efreeti bloodline that the sorcerer can use. The sorcerer treats her class level as though it were +1/2 higher (to a maximum of +4) when determining the effects of that power.
+
+**Legendary Kineticist**: Add 1/4 to the save DC of the kineticist’s fire infusions and wild talents.
 
 ## Archetypes and Class Options
 
@@ -114,7 +132,6 @@ An unusual number of ifrits hail from the burning mountains area, home to the re
 ### Mostly Human
 
 A few ifrits, oreads, sulis, sylphs, and undines have appearances much closer to those of their human ancestors; in fact, they may not even realize their true race. Such geniekin appear to be human, save perhaps minor features like unusual eye color, and they count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells such as [*charm person*](../../magic/spells/charm-person.md) or [*enlarge person*](../../magic/spells/enlarge-person.md)). These geniekin do not automatically gain their associated elemental language (but may select it as a bonus language if their Intelligence is high enough). This ability alters the geniekin’s type, subtype, and languages.
-
 
 ## More Favored Class Options
 

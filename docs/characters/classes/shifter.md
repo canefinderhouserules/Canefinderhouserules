@@ -266,3 +266,7 @@ These aspects are the minor forms a Canefinder shifter can take with shifter asp
 ### Wolverine
 
 **Minor Form**: You gain 1 additional hit point per Hit Die you have, and treat your Constitution score as 4 points higher than it is for the purpose of determining when you die at negative hit points. At 8th level, you gain Diehard as a bonus feat. Any wildshape level allows for Rage if the form you take has it. At 13th level, you treat your Constitution as being 8 points higher for the purpose of determining when you die at negative hit points.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

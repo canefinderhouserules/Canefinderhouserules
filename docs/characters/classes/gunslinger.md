@@ -129,3 +129,7 @@ The following method for regaining grit points requires a measure of GM judgment
 Each time a gunslinger performs a daring act, she can regain grit. As a general guideline, a daring act should be risky and dramatic. It should take a good deal of guts, and its outcome should have a low probability of success. If it is successful, the gunslinger regains 1 grit point.
 
 Before attempting a daring act, the player should ask the GM whether the act qualifies. The GM is the final arbiter of what’s considered a daring act, and can grant a regained grit point for a daring act even if the player does not ask beforehand whether the act qualifies.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

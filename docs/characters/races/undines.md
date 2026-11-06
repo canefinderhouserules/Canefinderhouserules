@@ -68,7 +68,25 @@ The following racial traits might be selected instead of existing undine racial 
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#undines-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Bard**: Add a +1 bonus on Perform checks to use the countersong bardic performance against creatures with the aquatic or water subtypes.
+
+**Cleric**: Add a +1 bonus on caster level checks to overcome the spell resistance of creatures with the aquatic or water subtype.
+
+**Druid**: Add a +1 bonus on wild empathy checks to influence animals and magical beasts with the aquatic subtype.
+
+**Monk**: Add +1 to the monk’s CMD when resisting a grapple and +1/3 to the number of stunning attacks he can attempt per day.
+
+**Sorcerer**: Add a +1 bonus on caster level checks to cast spells underwater.
+
+**Summoner**: If the summoner’s eidolon has an aquatic base form, add +5 feet to the range of the summoner’s life link ability.
+
+**Wizard**: Add one spell from the cleric, druid, or wizard spell list with the water descriptor to the wizard’s spellbook. This spell must be at least one level below the highest spell level he can cast. This spell is treated as one level higher unless it also appears on the wizard spell list.
+
+**Shifter (Ultimate Wilderness)**: Add a +1 bonus on wild empathy checks to influence animals and magical beasts with the aquatic subtype.
+
+**Legendary Kineticist**: Add 1/4 to the save DC of the kineticist’s water infusions and wild talents.
 
 ## Archetypes and Class Options
 
@@ -126,7 +144,6 @@ A few ifrits, oreads, sulis, sylphs, and undines have appearances much closer to
 ### Triton Magic
 
 Some undines—often from the outer sea—descend from tritons, rather than genies. Undines with this racial trait can use *summon nature’s ally I* as a spell-like ability, but only to summon a dolphin. This racial trait replaces the spell-like ability racial trait.
-
 
 ## More Favored Class Options
 

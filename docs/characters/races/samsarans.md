@@ -32,7 +32,17 @@ The following racial trait may be selected instead of existing samsaran racial t
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#samsarans-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Monk**: Add a +1/2 bonus on the monk’s saving throws to resist death attacks.
+
+**Oracle**: Add one spell known from the oracle spell list. This spell must be at least one level below the highest spell level the oracle can cast.
+
+**Rogue**: The rogue gains 1/6 of a new rogue talent.
+
+**Wizard**: Add one spell from the wizard spell list to the wizard’s spellbook. This spell must be at least one level below the highest spell level the wizard can cast.
+
+**Legendary Kineticist**: Gain 1/6 of a simple kinetic blast, ignoring its prerequisites. It cannot be used to meet the prerequisites of a composite blast and cannot have non-universal infusions applied to it unless you possess its element.
 
 ## Archetypes and Class Options
 

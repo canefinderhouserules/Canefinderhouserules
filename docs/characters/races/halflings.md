@@ -288,10 +288,87 @@ Former slips liberated from slavery train to ensure they will never be slaves ag
 
 These halflings take a –1 penalty on saving throws but also gain a +1 racial bonus to the caster level and save DC of all curse spells and spell-like abilities. In addition, such halflings can use [*ill omen*](../../magic/spells/ill-omen.md) as a spell-like ability once per day. This racial trait replaces halfling luck.
 
+## Favored Class Options
 
-## More Favored Class Options
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
 
-- **Arcanist**: Gain 1/6 of a new arcanist exploit.
-- **Fighter**: Add +1 to the fighter’s CMD when resisting a trip or grapple attempt.
-- **Ranger**: Add a +1/4 dodge bonus to Armor Class against the ranger’s favored enemies.
+**Alchemist**: Add one extract formula from the alchemist’s list to the alchemist’s formula book. This formula must be at least one level below the highest formula level the alchemist can create.
+
+**Barbarian**: Add a +1/2 bonus to trap sense or +1/3 to the bonus from the surprise accuracy rage power.
+
+**Bard**: Add +1/2 on Bluff checks to pass secret messages, +1/2 on Diplomacy checks to gather information, and +1/2 on Disguise checks to appear as an elven, half-elven, or human child.
+
+**Bloodrager**: Gain a +1/4 dodge bonus to AC while bloodraging against creatures at least one size category larger than the bloodrager.
+
+**Brawler**: Gain a +1 bonus to the brawler's CMD when resisting a grapple or overrun combat maneuver.
+
+**Cavalier**: Add +1/2 to the cavalier’s effective class level for the purposes of determining the damage he deals when making an attack of opportunity against a challenged foe.
+
+**Cleric**: Select one domain power granted at 1st level that is normally usable for a number of times per day equal to 3 + the cleric’s Wisdom modifier. The cleric adds 1/2 to the number of uses per day of that domain power.
+
+**Druid**: Add a +1/4 luck bonus on the saving throws of the druid’s animal companion.
+
+**Fighter**: Add +1 to the fighter’s CMD when resisting a grapple or trip.
+
+**Gunslinger**: Add +1/4 to the dodge bonus to AC granted by the nimble class feature (maximum +2) or +1/4 to the AC bonus gained when using the gunslinger’s dodge deed.
+
+**Hunter**: The hunter's animal companion gains a +1/4 luck bonus on saving throws. If the hunter replaces her animal companion, the new animal companion gains this bonus.
+
+**Inquisitor**: Add +1/4 to the number of times per day that an inquisitor can change her most recent teamwork feat.
+
+**Investigator**: Add one extract formula from the investigator's list to his formula book. This formula must be at least 1 formula level below the highest level the investigator can create.
+
+**Kineticist**: Increase the capacity of the kineticist’s internal buffer by 1/6 point.
+
+**Magus**: The magus gains 1/6 of a new magus arcana.
+
+**Medium**: Increase the bonus the medium gains from its seance boon by 1/3 point. This doesn’t increase the bonus allies gain from shared seance.
+
+**Mesmerist**: Increase the number of mesmerist tricks the mesmerist can use per day by 1/3.
+
+**Monk**: Add +1 to the monk’s CMD when resisting a grapple and +1/2 to the number of stunning attacks he can attempt per day.
+
+**Occultist**: Add 1/2 point of mental focus per day.
+
+**Oracle**: Add +1/2 to the oracle’s level for the purpose of determining the effects of the oracle’s curse ability.
+
+**Paladin**: Add +1/2 hp to the paladin’s lay on hands ability (whether using it to heal or harm).
+
+**Psychic**: The psychic treats her Charisma bonus as 1/3 point higher for the purpose of determining the number of uses or rounds per day of her discipline powers.
+
+**Ranger**: Add +1/3 dodge bonus to Armor Class against the halfling’s favored enemies.
+
+**Rogue**: Choose a weapon from the following list: sling, dagger, or any weapon with “halfling” in its name. Add a +1/2 circumstance bonus on critical hit confirmation rolls with that weapon (maximum bonus of +4). This bonus does not stack with Critical Focus.
+
+**Shaman**: Add 1/2 to the shaman's effective class level for the purpose of determining her spirit animal's natural armor adjustment, Intelligence, and special abilities.
+
+**Skald**: Choose a weapon from the following list: dagger, sling, or any weapon with the word "halfling" in its name. Add a +1/2 bonus on critical hit confirmation rolls with that weapon (maximum bonus +4)· This bonus doesn't stack with those gained through Critical Focus and similar effects.
+
+**Slayer**: Add a +1/4 dodge bonus to Armor Class against the slayer's studied target.
+
+**Sorcerer**: Select one bloodline power at 1st level that is normally usable a number of times per day equal to 3 + the sorcerer’s Charisma modifier. The sorcerer adds +1/2 to the number of uses per day of that bloodline power.
+
+**Spiritualist**: Add 1/4 to the number of rounds that the spiritualist’s incorporeal phantom can be out of sight and line of effect before being sent back to the Ethereal Plane.
+
+**Summoner**: Add +1 skill rank to the summoner’s eidolon.
+
+**Swashbuckler**: Increase the number of times the swashbuckler can use charmed life by 1/4.
+
+**Warpriest**: Add 1/4 to the warpriest's effective level when determining the damage of his sacred weapon.
+
+**Witch**: Add +1/4 to the witch’s caster level when determining the effects of the spells granted to her by her patron.
+
+**Wizard**: Add +1/2 to the wizard’s effective class level for the purposes of determining his familiar’s natural armor adjustment, Intelligence, and special abilities.
+
+**Vigilante**: Gain 1/6 of a new social talent.
+
+**Shifter (Ultimate Wilderness)**: Increase the AC bonus from defensive instinct by 1/4 against creatures of size Large or larger.
+
+**Legendary Kineticist**: Increase the capacity of the kineticist’s internal buffer by 1/6 point.
+
+**Arcanist**: Gain 1/6 of a new arcanist exploit.
+
+**Fighter**: Add +1 to the fighter’s CMD when resisting a trip or grapple attempt.
+
+**Ranger**: Add a +1/4 dodge bonus to Armor Class against the ranger’s favored enemies.
 

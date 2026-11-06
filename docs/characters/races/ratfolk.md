@@ -60,7 +60,31 @@ The following racial traits may be selected instead of existing ratfolk racial t
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#ratfolk-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Alchemist**: The alchemist gains +1/6 of a new discovery.
+
+**Barbarian**: When raging, add +1/4 to the barbarian’s swarming trait’s flanking bonus on attack rolls.
+
+**Druid**: Add a +1 bonus on wild empathy checks made to influence animals and magical beasts that live underground.
+
+**Fighter**: Add +1 to the fighter’s CMD when resisting a bull rush or grapple attempt.
+
+**Gunslinger**: Add a +1/2 bonus on initiative checks when the gunslinger has at least 1 grit point.
+
+**Monk**: Add +1 feet to the speed the monk can move while making a Stealth check without taking a penalty. This has no effect unless the monk has selected this reward five times (or another increment of five). This does not allow the monk to use Stealth while running or charging.
+
+**Ranger**: Add +1 to an animal companion’s CMD when adjacent to the ranger. If the ranger ever replaces his animal companion, the new animal companion gains this bonus.
+
+**Rogue**: Add a +1/2 bonus on Escape Artist checks.
+
+**Summoner**: Add a +1 bonus on saving throws against poison made by the summoner’s eidolon.
+
+**Witch**: Add +5 feet to the range of one hex with a range other than “touch.”
+
+**Shifter (Ultimate Wilderness)**: Add a +1 bonus on wild empathy checks to influence animals and magical beasts that live underground.
+
+**Legendary Kineticist**: Add a 2-foot bonus to the burrow speed granted by the [Burrowing Teeth](../../rules/feats/burrowing-teeth.md) feat. This bonus only applies while the flesh of stone defense wild talent is active.
 
 Ratfolk also have the following options.
 

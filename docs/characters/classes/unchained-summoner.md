@@ -151,3 +151,7 @@ baleful polymorph, cloudkill, conjure black pudding, contact other plane, dismis
 ### 6th-Level Summoner Spells
 
 acid fog, banishment, bear’s endurance (mass), bull’s strength (mass), cat’s grace (mass), create demiplane (lesser), creeping doom, dimensional bounce, eagle aerie, eagle’s splendor (mass), ethereal jaunt, fox’s cunning (mass), heroism (greater), ice crystal teleport, invisibility (mass), owl’s wisdom (mass), planar adaptation (mass), planar binding, plane shift, repulsion, sequester, spell turning, summon monster VII, tar pool, teleport (greater), true seeing, wall of iron, whip of ants.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

@@ -34,7 +34,23 @@ The following racial traits may be selected instead of existing vanara racial tr
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#vanaras-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Alchemist**: Add +1/2 to the alchemist’s bomb damage.
+
+**Druid**: Add a +1/2 bonus on wild empathy checks and a +1/2 bonus on Handle Animal skill checks.
+
+**Fighter**: Add +1 to the fighter’s CMD when resisting a reposition or trip attempt.
+
+**Monk**: Add a +1 bonus on Acrobatics checks made to jump.
+
+**Ranger**: Add +1/4 dodge bonus to Armor Class against the ranger’s favored enemies.
+
+**Rogue**: The rogue gains 1/6 of a new rogue talent.
+
+**Shifter (Ultimate Wilderness)**: Add a +1/2 bonus on Acrobatics checks to jump and a +1/2 bonus on wild empathy checks.
+
+**Legendary Kineticist**: Add 1/3 to the total number of points of burn that the kineticist can accept before they can’t choose to accept additional points of burn.
 
 Vanaras also have the following options.
 

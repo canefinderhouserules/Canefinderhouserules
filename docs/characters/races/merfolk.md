@@ -36,7 +36,17 @@ The following racial traits may be selected instead of existing merfolk racial t
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#merfolk-advanced-race-guide). Merfolk also have the following options.
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Druid**: Add +1 hit point to the druid’s animal companion. If the merfolk ever replaces her animal companion, the new animal companion gains these bonus hit points.
+
+**Ranger**: Add +1 hit point to the ranger’s animal companion. If the ranger ever replaces his animal companion, the new animal companion gains these bonus hit points.
+
+**Sorcerer**: Add +1/2 to the sorcerer’s caster level when determining the range of any spells with the water descriptor.
+
+**Legendary Kineticist**: Add 1/3 point of damage to water-element blasts that apply the kineticist’s elemental overflow bonus.
+
+ Merfolk also have the following options.
 
 **Bard**: The bard learns 1/6 of a new bardic masterpiece. (The bard selects the masterpiece once he has made this selection six times and must meet its prerequisites when it is selected.)
 

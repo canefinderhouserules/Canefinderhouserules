@@ -230,7 +230,15 @@ Coven spells use the caster level of the coven's most powerful witch. They requi
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#changelings-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Oracle**: Add +1/2 to the oracle’s level for the purpose of determining the effects of the oracle’s curse ability.
+
+**Rogue**: The rogue gains 1/6 of a new rogue talent.
+
+**Witch**: Add one spell from the witch spell list to the witch’s familiar. This spell must be at least one level below the highest spell level she can cast. If the witch ever replaces her familiar, the new familiar knows these bonus spells.
+
+**Legendary Kineticist**: Increase the capacity of the kineticist’s internal buffer by 1/6 point, or add 1/3 to the save DC against the curse spinner and accursed infusion wild talents.
 
 ## Archetypes and Class Options
 

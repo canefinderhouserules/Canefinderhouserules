@@ -134,6 +134,8 @@ Your kinetic blast transforms into a specialized weapon. You can use this infusi
 
 ## Favored Class Bonuses
 
+Any character can take a bonus from the [universal favored class bonuses](../../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../../races/index.md).
+
 | Race | Option | Source |
 |---|---|---|
 | Aasimar | | |

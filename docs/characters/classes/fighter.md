@@ -92,3 +92,7 @@ Weapon groups are defined as follows (GMs may add other weapons to these groups,
 **Armor Mastery (Ex)**: At 19th level, a fighter gains DR 5/— whenever he is wearing armor or using a shield.
 
 **Weapon Mastery (Ex)**: At 20th level, a fighter chooses one weapon, such as the longsword, greataxe, or longbow. Any attacks made with that weapon automatically confirm all critical threats and have their damage multiplier increased by 1 (×2 becomes ×3, for example). In addition, he cannot be disarmed while wielding a weapon of this type.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

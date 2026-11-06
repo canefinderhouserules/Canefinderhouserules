@@ -52,7 +52,6 @@ It’s the source of most of his abilities, and gives him a specific role in any
 
 **Table 3–1: Character Advancement and Level-Dependent Bonuses**
 
-
 | Character Level | Slow      | Experience Point Total Medium | Fast      | Feats | Ability Score |
 |-----------------|-----------|-------------------------------|-----------|-------|---------------|
 | 1st             | —         | —                             | —         | 1st   | —             |
@@ -75,7 +74,6 @@ It’s the source of most of his abilities, and gives him a specific role in any
 | 18th            | 2,700,000 | 1,800,000                     | 1,200,000 | —     | —             |
 | 19th            | 3,850,000 | 2,550,000                     | 1,700,000 | 10th  | —             |
 | 20th            | 5,350,000 | 3,600,000                     | 2,400,000 | —     | 5th           |
-
 
 ## Alternate Racial Traits
 
@@ -256,8 +254,85 @@ Humans from civilizations built upon advanced magic, such as the necromancer’s
 
 Humans maintain the largest trade networks on the world and the farthest-reaching civilizations, putting them in contact with a huge number of cultures. Humans with this racial trait gain a +2 racial bonus on Survival checks to avoid becoming lost, Knowledge (geography) checks, and Knowledge (local) checks. Whenever these humans gain a rank in Linguistics, they learn two languages rather than one. This racial trait replaces skilled.
 
+## Favored Class Options
 
-## More Favored Class Options
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
 
-- **Rogue**: The rogue gains +1/6 of a new rogue talent.
+**Alchemist**: Add one extract formulae from the alchemist’s list to the character’s formulae book. This formulae must be at least one level below the highest formulae level the alchemist can create.
+
+**Arcanist**: Add one spell from the arcanist spell list to the arcanist's spellbook. The spell must be at least 1 spell level below the highest level the arcanist can cast.
+
+**Barbarian**: Add a +1/2 bonus to trap sense or +1/3 to the bonus from the superstitious rage power.
+
+**Bard**: Add one spell known from the bard spell list. This spell must be at least one level below the highest spell level the bard can cast.
+
+**Bloodrager**: Increase the bloodrager's total number of bloodrage rounds per day by 1.
+
+**Brawler**: Gain a +1 bonus to the brawler's CMD when resisting two combat maneuvers of the brawler's choice.
+
+**Cavalier**: Add +1/4 to the cavalier’s banner bonus.
+
+**Cleric**: Add +1 on caster level checks made to overcome the spell resistance of outsiders.
+
+**Druid**: Add a +1/2 bonus on Diplomacy and Intimidate checks to change a creature’s attitude.
+
+**Fighter**: Add +1 to the fighter’s CMD when resisting two combat maneuvers of the character’s choice.
+
+**Gunslinger**: Add +1/4 point to the gunslinger’s grit points.
+
+**Hunter**: Add 1 skill rank to the hunter's animal companion. If the hunter replaces his animal companion, the new animal companion gains these bonus skill ranks.
+
+**Inquisitor**: Add one spell known from the inquisitor spell list. This spell must be at least one level below the highest spell level the inquisitor can cast.
+
+**Investigator**: Add one extract formula from the investigator's formula list to his formula book. This formula must be at least 1 formula level below the highest level the investigator can create.
+
+**Kineticist**: Gain 1/6 of an Extra Wild Talent feat.
+
+**Magus**: Add +1/4 point to the magus’ arcane pool.
+
+**Medium**: When gaining a taboo, the medium can use spirit surge without incurring influence an additional 1/4 time per day.
+
+**Mesmerist**: Increase the mesmerist’s towering ego bonus by 1/3 point (to a maximum increase of +2).
+
+**Monk**: Add +1/4 to the monk’s ki pool.
+
+**Occultist**: Gain 1/6 of a new focus power.
+
+**Oracle**: Add one spell known from the oracle spell list. This spell must be at least one level below the highest spell level the oracle can cast.
+
+**Paladin**: Add +1 to the paladin’s energy resistance to one kind of energy (maximum +10).
+
+**Psychic**: Add one spell known from the psychic spell list. This spell must be at least 1 level lower than the highest spell level the psychic can cast.
+
+**Ranger**: Add +1 hit point or +1 skill rank to the ranger’s animal companion. If the ranger ever replaces his companion, the new companion gains these bonus hit points or skill ranks.
+
+**Rogue**: The human gains +1/6 of a new rogue talent.
+
+**Shaman**: Add one spell from the cleric spell list that isn't on the shaman spell list to the list of spells the shaman knows. This spell must be at least 1 level below the highest spell level the shaman can cast.
+
+**Skald**: Add one spell from the skald's spell list to the skald's known spells. This spell must be at least 1 spell level below the highest level the skald can cast.
+
+**Slayer**: Gain 1/6 of a new slayer talent.
+
+**Sorcerer**: Add one spell known from the sorcerer spell list. This spell must be at least one level below the highest spell level the sorcerer can cast.
+
+**Spiritualist**: Add 1 skill rank or 1 hit point to the spiritualist’s phantom.
+
+**Summoner**: Add +1 hit point or +1 skill rank to the summoner’s eidolon.
+
+**Swashbuckler**: Increase the total number of points in the swashbuckler's panache pool by 1/4.
+
+**Warpriest**: Gain 1/6 of a new bonus combat feat.
+
+**Witch**: Add one spell from the witch spell list to the witch’s familiar. This spell must be at least one level below the highest spell level she can cast. If the witch ever replaces her familiar, the new familiar knows these bonus spells.
+
+**Wizard**: Add one spell from the wizard spell list to the wizard’s spellbook. This spell must be at least one level below the highest spell level he can cast.
+
+**Vigilante**: Gain +1/2 on the Disguise bonus provided by seamless guise.
+
+**Shifter (Ultimate Wilderness)**: Add 1/3 to the number of minutes the shifter can assume her minor form each day.
+
+**Legendary Kineticist**: Gain 1/6 of an [Extra Wild Talent](../../rules/feats/extra-wild-talent.md) feat.
+
+**Rogue**: The rogue gains +1/6 of a new rogue talent.
 

@@ -203,6 +203,8 @@ At 20th level, the legendary magus has reached the apotheosis of their art. She 
 
 ### Alternate Favored Class Bonuses
 
+Any character can take a bonus from the [universal favored class bonuses](../../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../../races/index.md).
+
 The following favored class bonuses are available to all characters, regardless of race:
 
 - **All**: The legendary magus gains +1/6 of a new legendary magus arcana.

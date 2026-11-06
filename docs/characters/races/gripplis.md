@@ -38,7 +38,21 @@ The following racial traits may be selected instead of existing grippli racial t
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#gripplis-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Alchemist**: Add +1/4 to the number of toxic skin uses per day.
+
+**Druid**: Add a +1/2 bonus on concentration checks. This bonus doubles in a forest or swamp terrain.
+
+**Gunslinger**: Add a +1/4 bonus on attack rolls when making a utility shot or a dead shot.
+
+**Rogue**: Add a +1/2 bonus on Perception checks while in a forest or swamp.
+
+**Ranger**: Add a +1 racial bonus on Swim skill checks. When this bonus reaches +8, the ranger gains a swim speed of 15 feet (this does not grant the ranger another +8 racial bonus on Swim checks).
+
+**Shifter (Ultimate Wilderness)**: Add a +1 bonus on Survival checks to follow tracks through swamps.
+
+**Legendary Kineticist**: Add 1/3 to the DCs of poisons delivered through a poison or wood-element infusion and to the save DCs of poison and wood wild talents which are treated as poison effects.
 
 Gripplis also have the following options.
 

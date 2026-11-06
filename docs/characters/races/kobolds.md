@@ -72,7 +72,41 @@ The following racial traits may be selected instead of existing kobold racial tr
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#kobolds-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Alchemist**: Add +1/2 to the number of bombs per day the alchemist can create.
+
+**Bard**: Treat the bard’s level as +1/2 level higher for the purpose of determining the effect of the fascinate bardic performance.
+
+**Cavalier**: Add 5 feet (up to 15 feet maximum) to the cavalier’s mount’s speed when it uses the charge or withdraw action.
+
+**Cleric**: Add +1 to channel energy damage dealt to creatures denied their Dexterity bonus to AC (whether or not the creature has a Dexterity bonus to AC).
+
+**Druid**: Add +1/2 to the druid’s wild empathy bonus.
+
+**Fighter**: Add +1/2 to damage rolls the fighter makes with weapon attacks against an opponent he is flanking or an opponent that is denied its Dexterity bonus to AC.
+
+**Gunslinger**: Add +1/4 to the dodge bonus to AC granted by the nimble class feature (maximum +4).
+
+**Magus**: Add a +1/2 bonus on concentration checks made to cast defensively.
+
+**Monk**: Add +1/3 to the monk’s AC bonus class ability.
+
+**Oracle**: Add +1/4 to the armor or natural armor bonus granted by oracle spells she casts on herself.
+
+**Ranger**: Add +1/4 to the number of opponents the ranger may select when using hunter’s bond to grant a bonus to allies. All selected creatures must be of the same type.
+
+**Rogue**: Add +1/2 to the rogue’s trap sense bonus to AC.
+
+**Sorcerer**: Choose acid, cold, electricity, or fire damage. Add +1/2 point of the chosen energy damage to spells that deal the chosen energy damage cast by the sorcerer.
+
+**Summoner**: Add +1/4 to the summoner’s shield ally bonus (maximum +2).
+
+**Witch**: Add +5 feet to the distance at which her familiar grants the Alertness feat (maximum +20 feet).
+
+**Shifter (Ultimate Wilderness)**: Add a +1/4 bonus on Stealth checks while in the shifter's minor or major form.
+
+**Legendary Kineticist**: Add 1/3 to the save DC of substance infusions applied to kinetic blasts with a cone or line area of effect (such as spray or torrent) or with an area of effect centered in the user (such as cyclone), or add 1 foot to the radius of cone or centered-on-user area of effect infusions and 2 feet to the range of line area of effect infusions.
 
 ## Archetypes and Class Options
 
@@ -180,7 +214,6 @@ Kobold wizards shy away from more intelligent creatures (such as imps or mephits
 ### Dragon Affinity
 
 Kobold sorcerers with the draconic bloodline or kobold bloodline treat their Charisma scores as 2 points higher for all sorcerer spells and class abilities. This racial trait replaces the armor trait.
-
 
 ## More Favored Class Options
 

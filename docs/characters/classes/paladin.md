@@ -51,7 +51,6 @@ At 3rd level, the paladin can select from the following initial mercies.
 
 **Table 3–11: Paladin**
 
-
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                        | Spells per Day |     |     |     |
 |-------|-------------------|-----------|----------|-----------|------------------------------------------------|----------------|-----|-----|-----|
 |       |                   |           |          |           |                                                | 1st            | 2nd | 3rd | 4th |
@@ -75,7 +74,6 @@ At 3rd level, the paladin can select from the following initial mercies.
 | 18th  | +18/+13/+8/+3     | +11       | +6       | +11       | Mercy                                          | 4              | 3   | 2   | 2   |
 | 19th  | +19/+14/+9/+4     | +11       | +6       | +11       | Smite evil 7/day                               | 4              | 3   | 3   | 2   |
 | 20th  | +20/+15/+10/+5    | +12       | +6       | +12       | Holy champion                                  | 4              | 4   | 3   | 3   |
-
 
 At 9th level, a paladin adds the following mercies to the list of those that can be selected.
 
@@ -140,3 +138,7 @@ Additionally, a paladin’s code requires that she respect legitimate authority,
 ## Ex-Paladins
 
 A paladin who ceases to be lawful good, who willfully commits an evil act, or who violates the code of conduct loses all paladin spells and class features (including the service of the paladin’s mount, but not weapon, armor, and shield proficiencies). She may not progress any further in levels as a paladin. She regains her abilities and advancement potential if she atones for her violations (see the *atonement* spell description in Chapter 10), as appropriate.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

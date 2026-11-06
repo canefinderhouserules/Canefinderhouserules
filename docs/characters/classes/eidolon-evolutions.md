@@ -161,3 +161,7 @@ The eidolon gains a +8 bonus to Strength, a +4 bonus to Constitution, and a +2 b
 If 6 additional evolution points are spent, the eidolon instead becomes Huge. The eidolon gains a +16 bonus to Strength, a +8 bonus to Constitution, and a +5 bonus to its natural armor. It takes a –4 penalty to its Dexterity. This size change also give the creature a –2 size penalty to its AC and attack rolls, a +2 bonus to its CMB and CMD, 10-foot reach, a –4 penalty on Fly skill checks, and a –8 penalty on Stealth skill checks. If the eidolon has the biped base form, its reach increases to 15 feet (10 feet for all other base forms). Any reach evolutions the eidolon possesses are added to this total. These bonuses and penalties replace, and do not stack with, those gained from becoming Large. The summoner must be at least 13th level before selecting this option. The ability increase evolution costs twice as much (4 evolution points) when adding to the Strength or Constitution scores of a Large or Huge eidolon.
 
 **Spell Resistance (Ex)**: An eidolon is protected against magic, gaining spell resistance. The eidolon’s spell resistance is equal to 11 + the summoner’s level. This spell resistance does not apply to spells cast by the summoner. The summoner must be at least 9th level before selecting this evolution.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

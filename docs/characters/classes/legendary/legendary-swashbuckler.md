@@ -147,3 +147,7 @@ At 14th level, a swashbuckler’s evasion ability improves. She still takes no d
 #### Swashbuckler Weapon Mastery (Ex)
 
 At 20th level, when a swashbuckler threatens a critical hit with a melee weapon or thrown weapons that belongs to a fighter weapon group that she selected with swashbuckler weapon training, that critical hit is automatically confirmed. Furthermore, the critical multipliers of such weapons increase by 1 (×2 becomes ×3, and so on).
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../../races/index.md).

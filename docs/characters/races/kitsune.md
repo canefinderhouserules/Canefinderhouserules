@@ -44,7 +44,21 @@ The following racial traits may be selected instead of existing kitsune racial t
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#kitsune-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Bard**: Add a +1/2 bonus on Bluff checks to lie and a +1/2 bonus on Diplomacy checks to gather information.
+
+**Druid**: Add a +1/2 bonus on Diplomacy and Intimidate checks to change a creature’s attitude.
+
+**Oracle**: Reduce the penalty for not being proficient for one weapon by 1. When the nonproficiency penalty for a weapon becomes 0 because of this ability, the oracle is treated as having the appropriate Martial or Exotic Weapon Proficiency feat for that weapon.
+
+**Rogue**: The rogue gains 1/6 of a new rogue talent.
+
+**Sorcerer**: Add +1/4 to the DC of enchantment spells.
+
+**Shifter (Ultimate Wilderness)**: Add 1/4 to the number of minutes the shifter can assume her minor form each day.
+
+**Legendary Kineticist**: Add 1/5 of an Extra Wild Talent feat that must be spent on an aether, light, or sound element wild talent.
 
 Kitsune also have the following options.
 
@@ -105,7 +119,6 @@ These archetypes are typically only taken by kitsune, but members of other races
 ### Duplicitous
 
 Many kitsune prefer to avoid the attention they often attract from human neighbors and attempt to convince all around them that they are human. They gain a +2 racial bonus on Bluff and Disguise checks. This racial trait replaces kitsune magic.
-
 
 ## More Favored Class Options
 

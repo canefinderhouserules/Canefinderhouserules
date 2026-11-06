@@ -56,7 +56,27 @@ The following racial traits may be selected instead of existing hobgoblin racial
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#hobgoblins-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Alchemist**: Add +1/2 to the number of bombs per day the alchemist can create.
+
+**Cavalier**: Add a +1/2 bonus on Intimidate checks and Ride checks.
+
+**Cleric**: Add +1/2 to negative energy spell damage, including inflict spells.
+
+**Fighter**: Add a +1/2 circumstance bonus on critical hit confirmation rolls with a weapon of the fighter’s choice (maximum bonus +4). This bonus does not stack with Critical Focus.
+
+**Gunslinger**: Add +1/4 to the gunslinger’s grit points.
+
+**Inquisitor**: Add a +1 bonus on concentration checks made to cast inquisitor spells.
+
+**Monk**: Add a +1/4 bonus on combat maneuver checks made to grapple or trip.
+
+**Ranger**: Add +1/4 to a single existing favored enemy bonus (maximum bonus +1 per favored enemy).
+
+**Rogue**: Reduce the penalty for not being proficient with one weapon by 1. When the nonproficiency penalty for a weapon becomes 0 because of this ability, the rogue is treated as having the appropriate Martial or Exotic Weapon Proficiency feat for that weapon.
+
+**Legendary Kineticist**: Add a +1/3 bonus to attack rolls to any form infusion which is used as part of an attack action, charge action, or full-attack action (such as kinetic blade or kinetic fist).
 
 ## Archetypes and Class Options
 

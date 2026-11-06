@@ -161,3 +161,7 @@ At 18th level, a legendary shifter may use their shifter shape ability as an imm
 #### Master of the Many Forms (Ex)
 
 At 20th level, a legendary shifter may use shifter shape at will and gains the shapechanger subtype, becoming immune to any transmutation effect unless they are willing to accept it.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../../races/index.md).

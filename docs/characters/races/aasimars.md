@@ -64,7 +64,25 @@ The following racial traits may be selected instead of existing aasimar racial t
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#aasimars-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Bard**: Choose one bardic performance; treat the bard as +1/2 level higher when determining the effects of that performance.
+
+**Cavalier**: Add +1/4 to the cavalier’s bonus on damage against targets of his challenge.
+
+**Cleric**: Add +1/2 to damage when using positive energy against undead or using Alignment Channel to damage evil outsiders.
+
+**Inquisitor**: Add +1/2 on Intimidate, Knowledge, and Sense Motive checks made against outsiders.
+
+**Oracle**: Add +1/2 to the oracle’s level for the purpose of determining the effects of one revelation.
+
+**Paladin**: Add +1/6 to the morale bonus on saving throws provided by the paladin’s auras.
+
+**Sorcerer**: Add +1/4 to the sorcerer’s caster level when casting spells with the good descriptor.
+
+**Summoner**: Add DR 1/evil to the summoner’s eidolon. Each additional time the summoner selects this benefit, the DR/evil increases by +1/2 (maximum DR 10/evil).
+
+**Legendary Kineticist**: Add 1/3 point of positive energy damage to wood-element blasts that deal positive energy damage that apply the kineticist’s elemental overflow bonus.
 
 ## Archetypes and Class Options
 
@@ -216,7 +234,6 @@ Masters of fire magic, emberkin feel the dual pull of their peri forebear as wel
 **Alternate Skill Modifiers** Knowledge (planes), Spellcraft
 
 **Alternate Spell-Like Ability** Emberkin gain *pyrotechnics *as a spell-like ability.
-
 
 ## More Favored Class Options
 

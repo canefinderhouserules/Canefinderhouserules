@@ -284,13 +284,93 @@ Sea-Spire frequently have the keeper of secrets alternate racial trait, as well 
 
 the sea-spire elves speak the ancient languages of their ancestors, enemies, and other creatures native to the Steaming Sea. Elves with this racial trait begin play speaking drowned imperial and Elven. Elves with high Intelligence scores can choose from the following languages: Aboleth, Abyssal, Aklo, Aquan, Common, and Undercommon. This racial trait replaces an elf ’s normal languages.
 
+## Favored Class Options
 
-## More Favored Class Options
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
 
-- **Barbarian**: Add +1 to the barbarian’s base speed. In combat this option has no effect unless the barbarian has selected it five times (or another increment of five). This bonus stacks with the barbarian’s fast movement feature and applies under the same conditions as that feature.
-- **Bard**: Add +1 to the bard’s CMD when resisting a disarm or sunder attempt.
-- **Fighter**: Add +1 to the fighter’s CMD when resisting a disarm or sunder attempt.
-- **Oracle**: Add +1/6 to the oracle’s level for the purpose of determining the effects of one revelation.
+**Alchemist**: Add one extract formula from the alchemist’s list to his formula book. This formula must be at least one level lower than the highest-level formula the alchemist can create.
+
+**Arcanist**: Increase total number of points in the arcanist's arcane reservoir by 1.
+
+**Barbarian**: Add 1 to the elf’s base speed. In combat this has no effect unless the elf has selected this reward 5 times (or another increment of 5); a speed of 34 feet is effectively the same as a speed of 30 feet, for example. This bonus stacks with a class’s fast movement feature and applies only under the same conditions as that ability.
+
+**Bard**: Add +1 to the elf’s CMD when resisting a disarm or sunder attempt.
+
+**Bloodrager**: Add 1 foot to the bloodrager's base speed. In combat, this only has an effect for every five increases in base speed. This bonus stacks with the bloodrager's fast movement class feature, and applies under the same conditions and that feature.
+
+**Brawler**: Add 1 foot to the brawler's base speed. In combat, this has an effect only for every five increases in the brawler's base speed.
+
+**Cavalier**: Add +1 hit point to the cavalier’s mount. If the elf ever replaces his mount, the new mount gains these bonus hit points. These bonuses only apply to a single mount gained as part of the cavalier’s class.
+
+**Cleric**: Select one domain power granted at 1st level that is normally usable a number of times per day equal to 3 + the cleric’s Wisdom modifier. The cleric adds +1/2 to the number of uses per day of that domain power.
+
+**Druid**: Add +1/3 to the druid’s natural armor bonus when using wild shape.
+
+**Fighter**: Add +1 to the elf’s CMD when resisting a disarm or sunder attempt.
+
+**Gunslinger**: Add +1/3 on critical hit confirmation rolls made with firearms (maximum bonus of +5). This bonus does not stack with Critical Focus.
+
+**Hunter**: Choose a weapon from the following list: longbow, longsword, rapier, short sword, shortbow, or any weapon with "elven" in its name. Gain a +1/2 bonus on critical hit confirmation rolls made while using that type of weapon (maximum bonus +4)· This bonus does not stack with those gained through Critical Focus and similar effects.
+
+**Inquisitor**: Add one spell known from the inquisitor’s spell list. This spell must be at least one level below the highest-level spell the inquisitor can cast.
+
+**Investigator**: Increase the total number of points in the investigator's inspiration pool by 1/3.
+
+**Kineticist**: Gain a +1/4 bonus on damage rolls that apply the kineticist’s elemental overflow bonus.
+
+**Magus**: The magus gains 1/6 of a new magus arcana.
+
+**Medium**: Gain a +1/3 bonus on all skill checks using occult skill unlocks.
+
+**Mesmerist**: Gain a +1/2 bonus on Acrobatics checks to move through a threatened area and a +1/2 bonus on Bluff checks to feint.
+
+**Monk**: Add +1 to the monk’s base speed. In combat this option has no effect unless the monk has selected it five times (or another increment of five). This bonus stacks with the monk’s fast movement class feature and applies under the same conditions as that feature.
+
+**Occultist**: Increase the occultist’s total number of points of mental focus by 1/2 point.
+
+**Oracle**: Add +1/2 to the oracle’s level for the purpose of determining the effects of one revelation.
+
+**Paladin**: Add +1/2 hit point to the paladin’s lay on hands ability (whether using it to heal or harm).
+
+**Psychic**: Increase the total number of points in the psychic’s phrenic pool by 1/3 point.
+
+**Ranger**: Choose a weapon from the following list: longbow, longsword, rapier, shortbow, short sword, or any weapon with “elven” in its name. Add a +1/2 circumstance bonus on critical hit confirmation rolls with that weapon (maximum bonus of +4). This bonus does not stack with Critical Focus.
+
+**Rogue**: Add +1 to the number of times per day the rogue can cast a cantrip or 1st-level spell gained from the minor magic or major magic talent. The number of times this bonus is selected for the major magic talent cannot exceed the number of times it is selected for the minor magic talent. The rogue must possess the associated rogue talent to select these options.
+
+**Shaman**: Add 5 feet to the range of a chosen shaman hex. Multiple bonuses from this ability can apply to the same hex, to a maximum of an additional 30 feet for any single hex.
+
+**Skald**: Increase the bonus granted by the well-versed class feature by 1/4 (maximum +8).
+
+**Slayer**: Increase the studied target bonus on Perception and Survival checks by 1/4. When the slayer gains the stalker class feature, he also gains this increase to the studied target bonus on Stealth checks.
+
+**Sorcerer**: Select one bloodline power at 1st level that is normally usable a number of times per day equal to 3 + the sorcerer’s Charisma modifier. The sorcerer adds +1/2 to the number of uses per day of that bloodline power.
+
+**Spiritualist**: Add 1/6 to the shield bonus granted by the 3rd-level ectoplasmic bonded manifestation ability.
+
+**Summoner**: The amount of time the summoner must spend to summon his eidolon is reduced by 1 round, to a minimum of 1 round.
+
+**Swashbuckler**: Increase the total number of points in the swashbuckler's panache pool by 1/4.
+
+**Warpriest**: Add 1/2 to the number of times per day the warpriest can use blessings, but he can use these additional blessings on only those from the Air, Animal, Charm, Magic, Plant, or Sun domains.
+
+**Witch**: Add one spell from the witch spell list to the witch’s familiar. This spell must be at least one level lower than the highest-level spell she can cast. If the witch ever replaces her familiar, the new familiar knows these bonus spells.
+
+**Wizard**: Select one arcane school power at 1st level that is normally usable a number of times per day equal to 3 + the wizard’s Intelligence modifier. The wizard adds +1/2 to the number of uses per day of that arcane school power.
+
+**Vigilante**: Gain +1/3 on all Acrobatics, Climb, and Stealth checks in forested areas.
+
+**Shifter (Ultimate Wilderness)**: Add 1 to the shifter’s base speed. This has no in-game effect unless the shifter has selected this reward five times (or any multiple of five) to enhance her speed by 5 feet. For example, a 4th-level elven shifter who has selected this option four times has a base speed of 34 feet, but is treated as if she still had a base speed of 30 feet. When she reaches 5th level and takes this favored class option again, her base speed becomes 35 feet. This bonus applies only when the shifter is wearing no armor.
+
+**Legendary Kineticist**: Gain a +1/4 bonus on damage rolls that apply the kineticist’s elemental overflow bonus.
+
+**Barbarian**: Add +1 to the barbarian’s base speed. In combat this option has no effect unless the barbarian has selected it five times (or another increment of five). This bonus stacks with the barbarian’s fast movement feature and applies under the same conditions as that feature.
+
+**Bard**: Add +1 to the bard’s CMD when resisting a disarm or sunder attempt.
+
+**Fighter**: Add +1 to the fighter’s CMD when resisting a disarm or sunder attempt.
+
+**Oracle**: Add +1/6 to the oracle’s level for the purpose of determining the effects of one revelation.
 
 ## Further Alternate Racial Traits
 

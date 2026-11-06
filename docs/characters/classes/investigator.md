@@ -178,3 +178,7 @@ The following talents suit investigators in games of intrigue. Talents marked wi
 **Skeptic’s Inspiration (Ex)**: The investigator can use her inspiration on saving throws against divine spells without expending uses of inspiration.
 
 **Sustained Inspirational Expertise (Ex)**: When granting a bonus to allies via the inspirational expertise investigator talent, the investigator can spend one use of inspiration as a swift action the following round to extend the duration of the granted bonus for 1 additional round. The insight bonus granted decreases by 1 each round this ability is used. The investigator must be at least 11th level and have the inspirational expertise talent to select this talent.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

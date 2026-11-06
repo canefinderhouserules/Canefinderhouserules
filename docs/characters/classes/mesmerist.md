@@ -209,3 +209,7 @@ The mesmerist can also partially affect such a creature with his mind-affecting 
 **Vision of Blood**: When an enemy is struck by the subject, it believes its wound is far more severe, and the shock overwhelms it. The mesmerist can trigger this trick when the subject hits with an attack using a weapon, a natural weapon, or an unarmed strike. The attack’s target must succeed at a Will saving throw or be stunned for 1 round. If the triggering attack was a critical hit, the target doesn’t get a saving throw.
 
 **Rule Minds (Su)**: At 20th level, a mesmerist can permanently mentally enslave a creature. When the mesmerist successfully affects the target of his hypnotic stare with an enchantment spell that requires a saving throw, he can force that creature to attempt a second Will saving throw with a DC equal to the spell’s DC. The DC is reduced by 5 if the monster isn’t a humanoid. If the creature fails, it becomes a permanent thrall to the mesmerist (as dominate monster) until the mesmerist dies. If it succeeds, it can’t be affected by rule minds again for 24 hours. A mesmerist can have only one creature enthralled at a time. If he enthralls a new creature, the previous one is set free but is unaware that it was enthralled by the mesmerist.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

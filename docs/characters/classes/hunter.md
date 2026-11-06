@@ -165,3 +165,7 @@ The hunter and her companion can attempt to demoralize animals in the appropriat
 **Master Hunter (Ex)**: At 20th level, a hunter becomes a master hunter, able to track down foes with ease. She can always move at full speed while using Survival to follow tracks without penalty.
 
 Additionally, each day when the hunter prepares spells, she chooses one animal focus to be active on herself for the entire day. This focus is in addition to using her animal focus class ability (including the additional focus ability she is able to use on herself if her animal companion is dead).
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

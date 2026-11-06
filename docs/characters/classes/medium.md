@@ -388,3 +388,7 @@ Seance Boon: Choose a seance boon from any of the other legends to benefit from.
     **Transfer Magic (Greater, Su)**: You can allow the trickster to gain 1 point of influence over you to make a melee touch attack against another creature as a standard action. If the attack succeeds, you randomly steal one of the harmless spells of the highest spell level active on that creature, ending the effect for the original creature and gaining all remaining duration for yourself. This ability does not work on personal-range or instantaneous- or permanent-duration spells.
 
     **Legendary Trickster (Supreme, Su)**: Once per day, instead of rolling for a skill check, you can choose your d20 result. Additionally, you gain the ability to change form at will as if using greater polymorph, except that you can mimic the form of a specific individual.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

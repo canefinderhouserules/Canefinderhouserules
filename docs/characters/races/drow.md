@@ -84,7 +84,25 @@ The following traits can be selected by drow or half-elves instead of existing d
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#drow-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Alchemist**: Add +10 minutes to the duration of the alchemist’s mutagens.
+
+**Antipaladin**: The antipaladin adds +1/4 to the number of cruelties he can inflict.
+
+**Cleric**: Select one domain power granted at 1st level that is normally usable a number of times per day equal to 3 + the cleric’s Wisdom modifier. The cleric adds +1/2 to the number of uses per day of that domain power.
+
+**Fighter**: Choose the disarm or reposition combat maneuver. Add +1/3 to the fighter’s CMB when attempting this maneuver (maximum bonus of +4).
+
+**Rogue**: Add a +1/2 bonus on Bluff checks to feint and pass secret messages.
+
+**Sorcerer**: Add one spell known from the sorcerer spell list. This spell must have the curse, evil, or pain descriptor, and be at least one level below the highest spell level the sorcerer can cast.
+
+**Wizard**: Select one arcane school power at 1st level that is normally usable a number of times per day equal to 3 + the wizard’s Intelligence modifier. The wizard adds +1/2 to the number of uses per day of that arcane school power.
+
+**Shifter (Ultimate Wilderness)**: Add a +1/2 bonus on Climb checks.
+
+**Legendary Kineticist**: Add 1/5 of an Extra Wild Talent feat that must be spent on a poison element wild talent.
 
 Drow also have the following options.
 

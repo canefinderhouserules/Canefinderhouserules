@@ -370,3 +370,8 @@ Perhaps the most prevalent breed of skinwalker, witchwolves prefer dwelling with
 
 **Bestial Features** Bite attack that deals 1d6 points of damage2 claw attacks that each deal 1d4 points of damageDarkvision 60 feet+2 racial bonus on all saving throws
 
+## Favored Class Options
+
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Legendary Kineticist**: Gain 1/5 of the Extra Wild Talent feat. This feat must be spent on a viscera-element talent.

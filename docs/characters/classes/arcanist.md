@@ -215,3 +215,7 @@ Greater Metama.gic Knowled.ge: The arcanist can select a metamagic feat as a bon
 **Suffering Knowledge (Su)**: The arcanist can learn to cast a spell by suffering from its effects. When the arcanist fails a saving throw against a spell cast by an enemy, as an immediate action she can expend 1 point from her arcane reservoir to temporarily acquire the spell. She can cast the spell using her spell slots as if it was a spell she had prepared that day. The spell must be on the sorcerer/wizard spell list and must be of a level that she can cast. The ability to cast this spell remains for a number of rounds equal to the arcanist's Charisma modifier (minimum 1).
 
 **Magical Supremacy (Su)**: At 20th level, the arcanist learns how to convert her arcane reservoir into spells and back again. She can cast any spell she has prepared by expending a number of points from her arcane reservoir equal to 1 + the level of the spell to be cast instead of expending a spell slot. When she casts a spell in this fashion, she treats her caster level as 2 higher than normal, and the DCs of any saving throws associated with the spell increase by 2. She cannot further expend points from her arcane reservoir to enhance a spell cast in this way.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

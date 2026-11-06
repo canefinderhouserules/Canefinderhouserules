@@ -36,7 +36,6 @@ Starting a bardic performance is a standard action, but it can be maintained eac
 
 **Table 3–3: Bard**
 
-
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                                                                                 | Spells per Day |     |     |     |     |     |
 |-------|-------------------|-----------|----------|-----------|---------------------------------------------------------------------------------------------------------|----------------|-----|-----|-----|-----|-----|
 |       |                   |           |          |           |                                                                                                         | 1st            | 2nd | 3rd | 4th | 5th | 6th |
@@ -60,7 +59,6 @@ Starting a bardic performance is a standard action, but it can be maintained eac
 | 18th  | +13/+8/+3         | +6        | +11      | +11       | Mass suggestion, Versatile performance                                                                  | 5              | 5   | 5   | 5   | 4   | 3   |
 | 19th  | +14/+9/+4         | +6        | +11      | +11       | Inspire competence +6                                                                                   | 5              | 5   | 5   | 5   | 5   | 4   |
 | 20th  | +15/+10/+5        | +6        | +12      | +12       | Deadly performance                                                                                      | 5              | 5   | 5   | 5   | 5   | 5   |
-
 
 At 7th level, a bard can start a bardic performance as a move action instead of a standard action. At 13th level, a bard can start a bardic performance as a swift action.
 
@@ -86,7 +84,6 @@ Fascinate is an enchantment (compulsion), mind-affecting ability. Fascinate reli
 
 **Table 3–4: Bard Spells Known**
 
-
 | Level | Spells Known |     |     |     |     |     |     |
 |-------|--------------|-----|-----|-----|-----|-----|-----|
 |       | 0            | 1st | 2nd | 3rd | 4th | 5th | 6th |
@@ -110,7 +107,6 @@ Fascinate is an enchantment (compulsion), mind-affecting ability. Fascinate reli
 | 18th  | 6            | 6   | 6   | 6   | 5   | 4   | 4   |
 | 19th  | 6            | 6   | 6   | 6   | 5   | 5   | 4   |
 | 20th  | 6            | 6   | 6   | 6   | 6   | 5   | 5   |
-
 
 *Suggestion (Sp)*: A bard of 6th level or higher can use his performance to make a [*suggestion*](../../magic/spells/suggestion.md) (as per the spell) to a creature he has already fascinated (see above). Using this ability does not disrupt the fascinate effect, but it does require a standard action to activate (in addition to the free action to continue the fascinate effect). A bard can use this ability more than once against an individual creature during an individual performance.
 
@@ -151,3 +147,7 @@ Beginning at 6th level, instead of selecting an additional skill with versatile 
 **Martial Performance (Ex)**: The bard chooses one weapon belonging to a fighter weapon group that is associated with a Perform skill he has selected with versatile performance (see below). He gains proficiency with this weapon. If the bard is already proficient with this weapon or later becomes proficient with it, he gains Weapon Focus with that weapon as a bonus feat instead. In addition, the bard's effective fighter level is equal to 1/2 his bard level for the purpose of qualifying for feats that specifically select weapons from those Perform skills' associated fighter weapon groups. The types of Perform skills and their associated fighter weapon groups are: Act (close, double), Comedy (flails, thrown), Dance (monk, spears), Keyboard Instruments (hammers, siege engines), Oratory (heavy blades, light blades), Percussion (close, hammers), Sing (close, natural), String (axes, bows), and Wind (monk, thrown).
 
 **Masterpiece**: The bard gains a bardic masterpiece, as if he were giving up a feat to learn it. He must meet the masterpiece's prerequisites, and the masterpiece must list ranks in a Perform skill that the bard has chosen with versatile performance as a prerequisite. This option can be selected multiple times.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

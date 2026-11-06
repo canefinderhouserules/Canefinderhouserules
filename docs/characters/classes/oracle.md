@@ -185,3 +185,7 @@ See [Oracle Mysteries](oracle-mysteries.md) for the full list of mysteries and t
 ## Shattered Psyche Curse
 
 **Shattered Psyche**: Your mind is crowded with dozens of voices, fragmented snippets of your past lives. You take a –2 penalty on all Intelligence-based skill checks, Wisdom-based skill checks, and concentration checks. You gain a +4 competence bonus on saving throws made against mind-affecting effects. At 5th level, you’re immune to charm effects. At 10th level, you’re immune to compulsion effects. At 15th level, you’re immune to all mind-affecting effects.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

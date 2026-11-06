@@ -64,7 +64,33 @@ The following racial traits may be selected instead of existing tiefling racial 
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#tieflings-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Alchemist**: Add +1/2 to the alchemist’s bomb damage.
+
+**Cleric**: Add a +1 bonus on caster level checks made to overcome the spell resistance of outsiders.
+
+**Druid**: Add a +1 bonus on wild empathy checks made to improve the attitude of fiendish animals.
+
+**Inquisitor**: Add a +1/2 bonus on Intimidate checks and Knowledge checks to identify creatures.
+
+**Magus**: Add +1/4 point to the magus’s arcane pool.
+
+**Paladin**: Add +1 to the amount of damage the paladin heals with lay on hands, but only when the paladin uses that ability on herself.
+
+**Rogue**: Add +1/2 to sneak attack damage dealt to creatures with the outsider type.
+
+**Sorcerer**: Add +1/2 to the number of times per day a sorcerer can use the corrupting touch infernal bloodline power, or +1 to the total number of rounds per day the sorcerer can use the claws abyssal bloodline power. The sorcerer must possess the applicable power to select these bonuses.
+
+**Summoner**: Add +1 hit point or +1 skill rank to the summoner’s eidolon.
+
+**Witch**: The witch’s familiar gains resistance 1 against cold, electricity, or fire. Each time the witch selects this reward, increase the familiar’s resistance to one of these energy types by 1 (maximum 5 for any one type). If the witch ever replaces her familiar, the new familiar has these resistances.
+
+**Wizard**: Select one arcane school power at 1st level that is normally usable a number of times per day equal to 3 + the wizard’s Intelligence modifier. The wizard adds +1/2 to the number of uses per day of that arcane school power.
+
+**Shifter (Ultimate Wilderness)**: Add a +1 bonus on wild empathy checks to improve the attitude of fiendish creatures.
+
+**Legendary Kineticist**: Add 1/3 point of negative energy damage to void-element blasts that deal negative energy damage that apply the kineticist’s elemental overflow bonus.
 
 ## Archetypes and Class Options
 

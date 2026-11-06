@@ -120,4 +120,6 @@ For the purposes of feat prerequisites, a character with the mana class feature 
 
 ## Favored Class Options
 
+Any character can take a bonus from the [universal favored class bonuses](../../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../../races/index.md).
+
 ***Editor’s Note:** The Deadeye Hexer has no favored class options. You may wish to ask your DM if you can take Gunslinger or Witch FCOs, as most should be compatible with the Deadeye Hexer.*

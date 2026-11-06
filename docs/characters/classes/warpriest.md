@@ -122,3 +122,7 @@ When the warpriest uses this ability, he can also use his sacred weapon ability 
 ## Ex-Warpriests
 
 A warpriest who grossly violates the code of conduct required by his god loses all spells and class features, except for his armor, shield, weapon proficiencies, and bonus feats. He cannot thereafter gain levels as a warpriest of that god until he atones for his deeds (see the atonement spell in the Core Rulebook).
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

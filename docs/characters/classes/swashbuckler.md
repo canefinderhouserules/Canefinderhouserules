@@ -121,3 +121,7 @@ In addition, upon reaching 4th level and every 4 levels thereafter, a swashbuckl
 The gunslinger's grit and the swashbuckler's panache represent two paths to gain access to the same heroic pool. Characters with both grit and panache class features combine the two resources together into a larger pool of both grit points and panache points.
 
 For purposes of feat prerequisites, a character with the panache class feature satisfies the prerequisites as if she were a grit user, and vice versa. For feats, magic items, and other effects, a panache user can spend and gain panache points in place of grit points, and vice versa.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

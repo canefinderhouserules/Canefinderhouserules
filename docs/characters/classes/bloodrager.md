@@ -121,3 +121,7 @@ Greater bloodrage counts as the barbarian's greater rage ability for the purpose
 **Mighty Bloodrage (Su)**: At 20th level, when a bloodrager enters a bloodrage, the morale bonus to his Strength and Constitution increases to +8, and the morale bonus on his Will saves increases to +4. Furthermore, the spell he can apply to himself at the beginning of a bloodrage due to the greater bloodrage class feature is not limited to only spells of 2nd level or lower.
 
 BlOODRAGER BlOODU NES When a bloodrager enters a bloodrage, he often takes on
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

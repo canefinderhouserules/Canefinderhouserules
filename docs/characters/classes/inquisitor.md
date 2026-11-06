@@ -186,3 +186,7 @@ atonement, banishment, break enchantment, castigate (mass)\*, command (greater),
 ### 6th-Level Inquisitor Spells
 
 blade barrier, blasphemy, circle of death, cleanse\*, cure moderate wounds (mass), dictum, dispel magic (greater), fester (mass)\*, find the path, forbiddance, glyph of warding (greater), harm, heal, heroes’ feast, holy word, inflict moderate wounds (mass), legend lore, repulsion, undeath to death, word of chaos.
+
+## Favored Class Bonuses
+
+Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

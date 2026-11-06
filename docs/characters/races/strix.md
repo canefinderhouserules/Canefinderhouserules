@@ -40,7 +40,17 @@ The following racial traits may be selected instead of existing strix racial tra
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#strix-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Barbarian**: Add +1 to the barbarian’s total number of rage rounds per day.
+
+**Fighter**: Add +1/4 to the attack roll bonus from the strix’s hatred racial trait.
+
+**Monk**: Add +1/4 point to the monk’s *ki* pool.
+
+**Ranger**: Add +1/2 round to the duration of the bonus granted to the companions of the ranger using his hunter’s bond ability.
+
+**Legendary Kineticist**: Add 1/6 to the number of points of burn that the kineticist can accept per round.
 
 ## Archetypes and Class Options
 
@@ -78,7 +88,6 @@ Strix have access to the following equipment.
 ### Cautious Brawler
 
 Because strix are careful to avoid injuring other strix even when they fight with each other, they develop a talent for fighting without causing lasting harm. They gain a +1 racial bonus on damage rolls when dealing nonlethal damage and take no attack penalty when dealing nonlethal damage with a lethal weapon. This racial trait replaces hatred and suspicious.
-
 
 ## More Favored Class Options
 

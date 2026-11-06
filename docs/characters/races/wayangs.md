@@ -38,7 +38,17 @@ The following racial trait may be selected instead of existing wayang racial tra
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#wayangs-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Bard**: Add one spell known from the wizard’s illusion school spell list. This spell must be at least one level below the highest spell level the bard can cast. The spell is treated as being one level higher, unless it is also on the bard spell list.
+
+**Oracle**: Add one spell known from the wizard’s illusion school spell list. This spell must be at least one level below the highest spell level the oracle can cast. That spell is treated as one level higher unless it is also on the oracle spell list.
+
+**Sorcerer**: Add +1/2 point of damage to any illusion spells of the shadow subschool cast by the sorcerer.
+
+**Summoner**: Add +1 skill rank to the summoner’s eidolon.
+
+**Legendary Kineticist**: Add 1/4 to the save DC of the kineticist’s void infusions and wild talents.
 
 Wayangs also have the following options.
 

@@ -72,7 +72,21 @@ The following racial traits may be selected instead of existing fetchling racial
 
 ## Favored Class Options
 
-See the [Advanced Race Guide section of the racial favored class options](../favored-class-bonuses/racial-favored-class-options.md#fetchlings-advanced-race-guide).
+Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
+
+**Oracle**: Treat the oracle’s level as +1/3 higher for the purposes of determining which of its racial spell-like abilities it can use.
+
+**Ranger**: Add a +1/2 bonus on Perception and Survival checks made on the Plane of Shadow.
+
+**Rogue**: Add a +1/2 bonus on Stealth and Sleight of Hand checks made while in dim light or darkness.
+
+**Sorcerer**: Add +1/2 to either cold or electricity resistance (maximum resistance 10 for either type).
+
+**Summoner**: The summoner’s eidolon gains resistance 1 against either cold or electricity. Each time the summoner selects this reward, he increases his eidolon’s resistance to one of those energy types by 1 (maximum 10 for any one energy type).
+
+**Wizard**: Add one spell from the wizard spell list to wizard’s spellbook. The spell must be at or below the highest level he can cast and be of the illusion (shadow) subschool or have the darkness descriptor.
+
+**Legendary Kineticist**: Gain negative energy resistance 1/2 and positive energy resistance 1/2 while a defense wild talent is active.
 
 Fetchlings also have the following options.
 
