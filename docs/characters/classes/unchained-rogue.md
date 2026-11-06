@@ -61,7 +61,11 @@ A rogue adds 1/2 her level on [Perception](../../rules/skills/perception.md) che
 
 ### Finesse Training (Ex)
 
-At 1st level, a rogue gains Weapon Finesse as a bonus feat. At 3rd, 11th, and 19th levels, she gains 1 bonus combat feat, and she must meet its prerequisites. In addition to the normal combat feats, she can choose either of these two unique options:
+At 1st level, a rogue gains [Weapon Finesse](../../rules/feats/weapon-finesse.md) as a bonus feat.
+
+### Rogue Combat Training (Ex)
+
+At 3rd, 11th, and 19th levels, a rogue gains 1 bonus combat feat, and she must meet its prerequisites. In addition to the normal combat feats, she can choose either of these two unique options:
 
 *Combat Deceiver*: You can sacrifice one of your attacks during a full attack to feint. If the feint succeeds, your second attack can deal sneak attack damage, or all your other attacks can if you have [Greater Feint](../../rules/feats/greater-feint.md).
 
@@ -101,15 +105,15 @@ At 3rd level, a rogue gains a +1 bonus on Reflex saves to avoid traps and a +1 d
 
 At 4th level, whenever a rogue deals sneak attack damage to a foe, she can also debilitate the target of her attack, causing it to take a penalty for 1 round (this is in addition to any penalty caused by a rogue talent or other special ability). The rogue can choose to apply any one of the following penalties when the damage is dealt.
 
-### Bewildered
+#### Bewildered
 
 The target becomes bewildered, taking a –2 penalty to AC. The target takes an additional –2 penalty to AC against all attacks made by the rogue. At 10th level and 16th level, the penalty to AC against attacks made by the rogue increases by –2 (to a total maximum of –8).
 
-### Disoriented
+#### Disoriented
 
 The target takes a –2 penalty on attack rolls. In addition, the target takes an additional –2 penalty on all attack rolls it makes against the rogue. At 10th level and 16th level, the penalty on attack rolls made against the rogue increases by –2 (to a total maximum of –8).
 
-### Hampered
+#### Hampered
 
 All of the target’s speeds are reduced by half (to a minimum of 5 feet). In addition, the target cannot take a 5-foot step.
 
