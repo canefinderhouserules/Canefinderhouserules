@@ -1,6 +1,5 @@
 nav:
-  - index.md
-  - stamina-system.md
-  - class-features-and-prices.md
-  - races.md
-  - "*"
+  - Rules: index.md
+  - Lightsabers and Blasters: lightsabers.md
+  - Races: races.md
+  - Force Powers: force-powers.md
