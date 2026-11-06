@@ -65,11 +65,11 @@ If the character had more than one arcane spellcasting class before he became a 
 
 As a cyphermage gains levels, he begins mastering written magic such as scrolls, glyphs, and symbols. He also begins to discover ancient magics that further bolster his power. These discoveries are known collectively as cypher lore. Each level, the cyphermage learns a new way to enhance his magic, chosen from the list of cypher lores given below.
 
-#### Analyze Scroll (Su)
+##### Analyze Scroll (Su)
 
 As a free action, a cyphermage can automatically discern the contents of a magic scroll, as if he were using [*read magic*](../../magic/spells/read-magic.md). He gains an insight bonus equal to his cyphermage level on [Use Magic Device](../../rules/skills/use-magic-device.md) checks made to cast spells from scrolls.
 
-#### Bypass Symbol (Su)
+##### Bypass Symbol (Su)
 
 When a cyphermage makes a save against a magical glyph, symbol, sigil, or similar written trap, as an immediate action he may attempt a [Spellcraft](../../rules/skills/spellcraft.md) check against the same DC to delay the trap's effects for 1d6 rounds. Once the delay is over, the trap has its normal effect. The cyphermage must be at least 8th level to select this lore.
 
