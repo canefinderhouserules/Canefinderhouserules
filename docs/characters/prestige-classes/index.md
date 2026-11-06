@@ -6,53 +6,35 @@ This chapter presents 10 prestige classes for you to choose from, and other pres
 
 The prestige classes presented in this chapter are summarized below.
 
+**[Adventuring Delver](adventuring-delver.md)**: A dungeon-delving explorer with trap expertise and death-cheating luck.
+
+**[Adventuring Savant](adventuring-savant.md)**: A magic-item and glyph specialist who extends his spell list with esoteric spells.
+
 **[Agent of the Grave](agent-of-the-grave.md)**: An evil spellcaster who serves undead masters and studies the secrets of undeath.
 
 **[Arcane Archer](arcane-archer.md)**: An arcane spellcaster who draws upon ancient elven traditions to infuse his arrows with potent magical power.
 
 **[Arcane Trickster](arcane-trickster.md)**: A troublemaker and a scoundrel who uses arcane magic to enhance her thievery and trickery.
 
-**[Assassin](assassin.md)**: A remorseless murderer who kills for money and the sheer thrill of death-dealing.
-
-**[Blood Bloatmage](blood-bloatmage.md)**: An arcane caster who swells with magically charged blood and spends it to fuel spells.
-
-**[Chevalier](chevalier.md)**: A daring hero who rides into danger with little regard for personal safety.
-
-**[Dragon Disciple](dragon-disciple.md)**: An arcane spellcaster who has embraced his latent draconic heritage and, over the course of training and devotion, undergoes a partial transformation into a dragon.
-
-**[Duelist](duelist.md)**: A swashbuckling swordfighter who relies upon grace, poise, and acrobatics to win the day.
-
-**[Eldritch Knight](eldritch-knight.md)**: An arcane spellcaster who augments his magical skills with combat to create a deadly combination of weapons and magic.
-
-**[Halfling Opportunist](halfling-opportunist.md)**: A halfling who turns the actions of larger foes to their own advantage.
-
-**[Loremaster](loremaster.md)**: A spellcaster who devotes his life to research and rumination upon the mysteries of the world.
-
-**[Mystic Theurge](mystic-theurge.md)**: Equally devoted to divine and arcane magic, the mystic theurge combines both magical traditions into one incredibly diverse class.
-
-**[Explorer Chronicler](explorer-chronicler.md)**: An explorer at heart, the explorer chronicler travels to distant, exotic lands to expand her knowledge of the world.
-
-**[Sentinel](sentinel.md)**: A divine warrior who wields his deity's favored weapon and serves as a champion of the faith.
-
-**[Shadowdancer](shadowdancer.md)**: A mysterious adventurer who walks the boundaries between the real world and the realm of shadows, and who can command shadows to do her bidding.
-
-**[Adventuring Delver](adventuring-delver.md)**: A dungeon-delving explorer with trap expertise and death-cheating luck.
-
-**[Adventuring Savant](adventuring-savant.md)**: A magic-item and glyph specialist who extends his spell list with esoteric spells.
+**[Arclord of the Eye](arclord-of-the-eye.md)**: A scholarly wizard who builds constructs and shares school powers.
 
 **[Argent Dramaturge](argent-dramaturge.md)**: A bard-like performer whose songs hinder fiends and shield allies.
 
-**[Arclord of the Eye](arclord-of-the-eye.md)**: A scholarly wizard who builds constructs and shares school powers.
+**[Assassin](assassin.md)**: A remorseless murderer who kills for money and the sheer thrill of death-dealing.
 
 **[Balanced Scale](balanced-scale.md)**: A divine treasure-hunter who bypasses wards, appraises at a glance and draws goods from a divine vault.
 
 **[Battle Herald](battle-herald.md)**: A veteran whose masterful tactics and air of command inspire allies to greater feats of heroism.
+
+**[Blood Bloatmage](blood-bloatmage.md)**: An arcane caster who swells with magically charged blood and spends it to fuel spells.
 
 **[Brewkeeper](brewkeeper.md)**: A spellcaster who distills spells and extracts into draughts and enhances them with homebrews.
 
 **[Brother of the Seal](brother-of-the-seal.md)**: A monk-guardian who shatters wards and hurls foes with awesome blows.
 
 **[Champion of the Enlightened](champion-of-the-enlightened.md)**: A paladin-monk of perfection who smites chaos and evil.
+
+**[Chevalier](chevalier.md)**: A daring hero who rides into danger with little regard for personal safety.
 
 **[Consortium Agent](consortium-agent.md)**: A mercantile operative who evades traps, masks her alignment, and cows foes with a pleasant face.
 
@@ -78,9 +60,17 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Devoted Muse](devoted-muse.md)**: A graceful duelist who turns combat into art with feints, panache and harmonious strikes.
 
+**[Diabolist](diabolist.md)**: A devil-binder who serves Hell with an imp familiar, infernal spell-like abilities and hellfire.
+
 **[Dissident of Dawn](dissident-of-dawn.md)**: A secretive divine caster who heals or purges schism in his own faith.
 
 **[Divine Scion](divine-scion.md)**: A spellcaster chosen by her deity, whose domain and alignment-opposed foes shape her power.
+
+**[Dragon Disciple](dragon-disciple.md)**: An arcane spellcaster who has embraced his latent draconic heritage and, over the course of training and devotion, undergoes a partial transformation into a dragon.
+
+**[Duelist](duelist.md)**: A swashbuckling swordfighter who relies upon grace, poise, and acrobatics to win the day.
+
+**[Eldritch Knight](eldritch-knight.md)**: An arcane spellcaster who augments his magical skills with combat to create a deadly combination of weapons and magic.
 
 **[Elven Sentinel](elven-sentinel.md)**: An elven-style redeemer-soldier with spell-like light magic who fights Underworld and demonic threats.
 
@@ -93,6 +83,8 @@ The prestige classes presented in this chapter are summarized below.
 **[Evangelist](evangelist.md)**: A devout follower of any background who gains boons, languages, and versatility from her deity.
 
 **[Exalted](exalted.md)**: A divine spellcaster who embodies her faith and inspires others, culminating in miraculous power.
+
+**[Explorer Chronicler](explorer-chronicler.md)**: An explorer at heart, the explorer chronicler travels to distant, exotic lands to expand her knowledge of the world.
 
 **[Explorer Field Agent](explorer-field-agent.md)**: A versatile agent of an explorers’ society, trained to explore, report, and cooperate, with an upgraded *wayfinder*.
 
@@ -122,7 +114,13 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Guild Poisoner](guild-poisoner.md)**: A master toxicologist with toxic tricks and poisoned traps.
 
+**[Halfling Opportunist](halfling-opportunist.md)**: A halfling who turns the actions of larger foes to their own advantage.
+
 **[Hearth Warden](hearth-warden.md)**: A rural defender and archer who guards villages and farmland from monsters, outsiders and the undead.
+
+**[Hell Knight](hell-knight.md)**: A lawful devil-slayer who smites chaos and wears specialized armor.
+
+**[Hell Knight Signifer](hell-knight-signifer.md)**: The spellcasting arm of a knightly order: masked, lawful casters with devil-resistant gifts and armor training.
 
 **[Heritor Knight](heritor-knight.md)**: A holy knight who breaks restraints, grounds fliers and redeems the restless dead.
 
@@ -130,19 +128,15 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Horizon Walker](horizon-walker.md)**: A scout and wanderer comfortable in even the strangest terrain.
 
-**[Hell Knight](hell-knight.md)**: A lawful devil-slayer who smites chaos and wears specialized armor.
-
-**[Hell Knight Signifer](hell-knight-signifer.md)**: The spellcasting arm of a knightly order: masked, lawful casters with devil-resistant gifts and armor training.
+**[Introspective Emissary](introspective-emissary.md)**: A shaman-like spirit bonder who summons an animus hybrid through her spirit animal.
 
 **[Justicar](justicar.md)**: A lawful arbiter who carries the force of law into slums and frontier lands alike.
-
-**[Knightly Orders](knightly-orders.md)**: The generic orders of the hell knights, with their reckonings and boons.
-
-**[Introspective Emissary](introspective-emissary.md)**: A shaman-like spirit bonder who summons an animus hybrid through her spirit animal.
 
 **[Knight of the Vigil](knight-of-the-vigil.md)**: A heavily armored undead hunter with teamwork and shield feats.
 
 **[Living Monolith](living-monolith.md)**: A mortal who takes on the mantle of an immortal stone guardian.
+
+**[Loremaster](loremaster.md)**: A spellcaster who devotes his life to research and rumination upon the mysteries of the world.
 
 **[Low Templar](low-templar.md)**: A crusader of doubtful morals who fights demons with dirty tricks while hiding his true allegiance.
 
@@ -156,7 +150,11 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Moonlit Dancer](moonlit-dancer.md)**: A performer who uses dance and moonlight to unravel undead and free lost spirits.
 
+**[Mortal Usher](mortal-usher.md)**: A mortal agent of the psychopomps who strikes down undead and those who steal souls.
+
 **[Mystery Cultist](mystery-cultist.md)**: A zealous spellcaster devoted to an empyreal lord, who gains that patron’s boons earlier than other worshipers.
+
+**[Mystic Theurge](mystic-theurge.md)**: Equally devoted to divine and arcane magic, the mystic theurge combines both magical traditions into one incredibly diverse class.
 
 **[Nature Warden](nature-warden.md)**: A master of the wilderness bonded spiritually to a fearsome animal companion.
 
@@ -196,7 +194,11 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Seeker of Past Lives](seeker-of-past-lives.md)**: An elf who channels past incarnations and returns from death as an animal.
 
+**[Sentinel](sentinel.md)**: A divine warrior who wields his deity's favored weapon and serves as a champion of the faith.
+
 **[Shadow Court Agent](shadow-court-agent.md)**: A lawful evil enforcer wielding darkness, shadow chains and an unnerving gaze.
+
+**[Shadowdancer](shadowdancer.md)**: A mysterious adventurer who walks the boundaries between the real world and the realm of shadows, and who can command shadows to do her bidding.
 
 **[Shieldmarshal](shieldmarshal.md)**: A gun-wielding lawman with legal judgments and [gunslinger deeds](../classes/gunslinger.md#deeds).
 
@@ -238,6 +240,8 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Winter Witch](winter-witch.md)**: A witch who commands ice, snow and cold.
 
+**See also**: [Knightly Orders](knightly-orders.md), the generic orders of the hell knights, with their reckonings and boons; and [Other Prestige Class Changes](other-prestige-class-changes.md), the house-rule changes to prestige classes.
+
 ### Definitions of Terms
 
 Here are definitions of some terms used in this section.
@@ -249,5 +253,3 @@ Here are definitions of some terms used in this section.
 **Character Level**: The total level of the character, which is the sum of all class levels held by that character.
 
 **Class Level**: The level of a character in a particular class. For a character with levels in only one class, class level and character level are the same.
-- [Diabolist](diabolist.md): Though diabolists seek to enslave the forces of Hell and turn them toward goals other than corruption, only the most sta
-- [Mortal Usher](mortal-usher.md): Whether the trouble is a formidable lich draining power from thousands of enslaved ghosts or a qlippoth funneling stolen
