@@ -20,7 +20,7 @@ Each character begins play with a number of gold pieces that he can spend on wea
 
 ## Character Wealth by Level
 
-A character who starts above 1st level begins with gear worth the amount on this table for her level, instead of rolling starting wealth. It is also the wealth a character is expected to have at each level; the GM uses it to pace treasure (see [Building an Adventure](../gamemastering/building-an-adventure.md)). A character should not spend more than half of this wealth on any single item.
+A character who starts above 1st level begins with gear worth the amount on this table for her level, instead of rolling starting wealth. It is also the wealth a character is expected to have at each level; the GM uses it to pace treasure (see [Building an Adventure](../gamemastering/building-an-adventure.md)). A character should not spend more than half of this wealth on any single item. For a balanced character, spend about 25% on weapons, 25% on armor and protective items, 25% on other magic items, 15% on consumables (potions, scrolls, wands) and 10% on ordinary gear and coins; casters and other characters may shift these shares.
 
 **Table 12–4: Character Wealth by Level**
 
