@@ -1,33 +1,35 @@
 nav:
-  - legendary-fighter.md
-  - legendary-fighter-archetypes.md
-  - legendary-fighter-options.md
-  - legendary-shifter.md
-  - legendary-shifter-archetypes.md
-  - legendary-shifter-options.md
-  - legendary-magus.md
-  - legendary-magus-archetypes.md
-  - legendary-magus-options.md
-  - legendary-alchemist.md
-  - legendary-alchemist-archetypes.md
-  - legendary-alchemist-options.md
-  - legendary-kineticist.md
-  - legendary-kineticist-archetypes.md
-  - legendary-kineticist-options.md
-  - legendary-swashbuckler.md
-  - legendary-swashbuckler-archetypes.md
-  - legendary-gunslinger.md
-  - legendary-gunslinger-archetypes.md
-  - legendary-gunslinger-options.md
-  - kinetic-shinobi.md
-  - kinetic-shinobi-archetypes.md
-  - kinetic-shinobi-options.md
   - deadeye-hexer.md
-  - deadeye-hexer-archetypes.md
-  - deadeye-hexer-options.md
+  - kinetic-shinobi.md
+  - legendary-alchemist.md
   - legendary-cleric.md
-  - legendary-cleric-archetypes.md
-  - legendary-cleric-options.md
+  - legendary-fighter.md
+  - legendary-gunslinger.md
   - legendary-investigator.md
-  - legendary-investigator-archetypes.md
-  - legendary-investigator-options.md
+  - legendary-kineticist.md
+  - legendary-magus.md
+  - legendary-shifter.md
+  - legendary-swashbuckler.md
+  - Archetypes:
+    - deadeye-hexer-archetypes.md
+    - kinetic-shinobi-archetypes.md
+    - legendary-alchemist-archetypes.md
+    - legendary-cleric-archetypes.md
+    - legendary-fighter-archetypes.md
+    - legendary-gunslinger-archetypes.md
+    - legendary-investigator-archetypes.md
+    - legendary-kineticist-archetypes.md
+    - legendary-magus-archetypes.md
+    - legendary-shifter-archetypes.md
+    - legendary-swashbuckler-archetypes.md
+  - Class Options:
+    - deadeye-hexer-options.md
+    - kinetic-shinobi-options.md
+    - legendary-alchemist-options.md
+    - legendary-cleric-options.md
+    - legendary-fighter-options.md
+    - legendary-gunslinger-options.md
+    - legendary-investigator-options.md
+    - legendary-kineticist-options.md
+    - legendary-magus-options.md
+    - legendary-shifter-options.md
