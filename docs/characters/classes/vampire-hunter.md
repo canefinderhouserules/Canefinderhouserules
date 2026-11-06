@@ -16,10 +16,30 @@ The vampire hunter’s class skills are Bluff (Cha), Climb (Str), Craft (Int), H
 
 **Skill Ranks per Level**: 6 + Int modifier.
 
-Table 1 – 1: Vampire Hunter
+**Table: Vampire Hunter**
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | 1st | 2nd | 3rd | 4th |
 |---|---|---|---|---|---|---|---|---|---|
+| 1st | +1 | +0 | +2 | +2 | Detect undead, technique feat, track, vampiric focus | — | — | — | — |
+| 2nd | +2 | +0 | +3 | +3 | Relentless | — | — | — | — |
+| 3rd | +3 | +1 | +3 | +3 | Technique feat | — | — | — | — |
+| 4th | +4 | +1 | +4 | +4 | Spellcasting, stake | 0 | — | — | — |
+| 5th | +5 | +1 | +4 | +4 | Relentless band | 1 | — | — | — |
+| 6th | +6/+1 | +2 | +5 | +5 | Technique feat | 1 | — | — | — |
+| 7th | +7/+2 | +2 | +5 | +5 | Vampire tracker | 1 | 0 | — | — |
+| 8th | +8/+3 | +2 | +6 | +6 | Second vampiric focus | 1 | 1 | — | — |
+| 9th | +9/+4 | +3 | +6 | +6 | Technique feat | 2 | 1 | — | — |
+| 10th | +10/+5 | +3 | +7 | +7 | Swift tracker | 2 | 1 | 0 | — |
+| 11th | +11/+6/+1 | +3 | +7 | +7 | Vampire bane | 2 | 1 | 1 | — |
+| 12th | +12/+7/+2 | +4 | +8 | +8 | Technique feat | 2 | 2 | 1 | — |
+| 13th | +13/+8/+3 | +4 | +8 | +8 | Remove vampirism | 3 | 2 | 1 | 0 |
+| 14th | +14/+9/+4 | +4 | +9 | +9 | Quarry | 3 | 2 | 1 | 1 |
+| 15th | +15/+10/+5 | +5 | +9 | +9 | Technique feat | 3 | 2 | 2 | 1 |
+| 16th | +16/+11/+6/+1 | +5 | +10 | +10 | Third vampiric focus | 3 | 3 | 2 | 1 |
+| 17th | +17/+12/+7/+2 | +5 | +10 | +10 | Critical reflexes | 4 | 3 | 2 | 1 |
+| 18th | +18/+13/+8/+3 | +6 | +11 | +11 | Technique feat | 4 | 3 | 2 | 2 |
+| 19th | +19/+14/+9/+4 | +6 | +11 | +11 | Improved quarry | 4 | 3 | 3 | 2 |
+| 20th | +20/+15/+10/+5 | +6 | +12 | +12 | Master vampire hunter | 4 | 4 | 3 | 3 |
 
 ## Class Features
 
