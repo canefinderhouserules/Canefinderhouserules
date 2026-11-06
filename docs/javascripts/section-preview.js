@@ -26,6 +26,9 @@
     var n = h.nextElementSibling, chars = 0, count = 0;
     while (n && count < 12 && chars < 2500) {
       if (/^H[1-6]$/.test(n.tagName) && +n.tagName[1] <= level) break;
+      // A class's level table ("Table: Ranger" and the table after it) is not part of the feature.
+      if (n.tagName === 'P' && /^Table\b/.test((n.textContent || '').trim())) break;
+      if (n.tagName === 'TABLE' && n.querySelectorAll('tr').length > 16) break;
       var c = n.cloneNode(true);
       c.querySelectorAll('[id]').forEach(function (e) { e.removeAttribute('id'); });
       out.appendChild(c);
@@ -47,8 +50,8 @@
     var left = Math.min(Math.max(12, r.left), window.innerWidth - w - 12);
     box.style.left = (left + window.scrollX) + 'px';
     box.hidden = false;
-    var below = r.bottom + 8, h = box.offsetHeight;
-    var top = (below + h > window.innerHeight && r.top - h - 8 > 0) ? r.top - h - 8 : below;
+    var below = r.bottom + 2, h = box.offsetHeight;
+    var top = (below + h > window.innerHeight && r.top - h - 2 > 0) ? r.top - h - 2 : below;
     box.style.top = (top + window.scrollY) + 'px';
   }
 
@@ -87,11 +90,19 @@
 
   document.addEventListener('mouseover', function (e) {
     var a = candidate(e.target);
-    if (!a) { if (box && !box.contains(e.target)) { clearTimeout(timer); timer = setTimeout(hide, 250); } return; }
+    if (!a) {
+      if (!box || box.hidden) return;
+      clearTimeout(timer);
+      // Moving onto the box keeps it open so it can be scrolled; anywhere else closes it after a short delay.
+      if (!box.contains(e.target)) timer = setTimeout(hide, 400);
+      return;
+    }
     if (a === current) { clearTimeout(timer); return; }
     clearTimeout(timer); current = a;
     timer = setTimeout(function () { show(a); }, 350);
   });
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape') hide(); });
   window.addEventListener('scroll', function () { if (box && !box.hidden && current) place(current); }, { passive: true });
+  // Scrolling inside the box should not scroll the page behind it.
+  document.addEventListener('wheel', function (e) { if (box && !box.hidden && box.contains(e.target)) e.stopPropagation(); }, { passive: true });
 })();

@@ -6,7 +6,7 @@
 /* Hover preview of a linked section (javascripts/section-preview.js). */
 .section-preview { position: absolute; z-index: 10; max-height: 60vh; overflow: auto; padding: .6rem .8rem; font-size: .68rem;
   background: var(--md-default-bg-color); color: var(--md-default-fg-color); border: 1px solid var(--md-default-fg-color--lightest);
-  border-radius: .2rem; box-shadow: var(--md-shadow-z2); }
+  border-radius: .2rem; box-shadow: var(--md-shadow-z2); overscroll-behavior: contain; }
 .section-preview h1, .section-preview h2, .section-preview h3, .section-preview h4, .section-preview h5, .section-preview h6 { margin: 0 0 .4em; font-size: .8rem; }
 .section-preview p { margin: .4em 0; }
 .section-preview__more { color: var(--md-default-fg-color--light); }
