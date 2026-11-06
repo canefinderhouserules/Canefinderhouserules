@@ -57,11 +57,24 @@ At will, a vampire hunter can use [*detect undead*](../../magic/spells/detect-un
 
 Due to the inherent deadliness of hunting vampires, the methods and traditions of vampire hunters are rare and little understood. This often makes vampire hunters just as feared as the undead they hunt. As vampire hunters study and train, they develop their skills, mastering ancient fighting techniques and drawing upon mystical arts feared by both the living and the dead.
 
-At 1st level, a vampire hunter gains a bonus feat. This new feat can be selected from either those listed as combat feats or as vampire hunting technique feats (listed below). A vampire hunter must meet the prerequisites for these feats to select them. The vampire hunter gains an additional bonus feat at 3rd level and every three levels thereafter.
+At 1st level, a vampire hunter gains a bonus feat. This new feat can be selected from either those listed as [combat feats](../../rules/feats/index.md#combat-feats) or as vampire hunting technique feats (listed below). A vampire hunter must meet the prerequisites for these feats to select them. The vampire hunter gains an additional bonus feat at 3rd level and every three levels thereafter.
 
 Upon reaching 6th level, and every six levels thereafter (12th and 18th), a vampire hunter can choose to learn a new combat or technique feat in place of a combat or technique feat he has already learned. In effect, the vampire hunter loses the old feat in exchange for the new one. The old feat cannot be one that was used as a prerequisite for another feat, prestige class, or another ability the vampire hunter knows. A vampire hunter can exchange only one feat at any given level and must choose whether or not to swap the feat at the time he gains a new bonus feat for the level.
 
-For a full list of Technique Feats, click here. To find other feats from this resource, click here.
+#### Technique Feats
+
+Vampire hunter technique feats are a mixture of fighting methods, disciplines, and stories passed down by vampire hunters successful enough to share their methods. Only members of this class, or those with the [Vampire Hunter Tradition](../../rules/feats/vampire-hunter-tradition.md) feat, can choose them.
+
+- [Blessed Waters](../../rules/feats/blessed-waters.md)
+- [Death’s Nightmare](../../rules/feats/deaths-nightmare.md)
+- [Extended Vampiric Focus](../../rules/feats/extended-vampiric-focus.md)
+- [Know Master](../../rules/feats/know-master.md)
+- [Liberating Critical](../../rules/feats/liberating-critical.md)
+- [Locked Will](../../rules/feats/locked-will.md)
+- [Resolute Steed](../../rules/feats/resolute-steed.md)
+- [Revealing Waters](../../rules/feats/revealing-waters.md)
+- [Soured Soul](../../rules/feats/soured-soul.md)
+- [Vampire Scholar](../../rules/feats/vampire-scholar.md)
 
 ### Track (Ex)
 
@@ -79,6 +92,82 @@ He can use each vampiric focus for a number of minutes per day equal to his leve
 
 Once the vampire hunter ends a focus, it cannot be reactivated for 1 minute. The vampire hunter can have only one vampiric focus active at a time. Benefits from different vampiric foci do not stack with one another, including temporary hit points from multiple foci. The foci are listed below.
 
+#### Vampiric Agility
+
+All of the vampire hunter’s movement speeds are increased by 5 feet.
+
+At 8th level, his movement speeds are increased by 10 feet and he gains evasion, as the rogue class feature.
+
+At 16th level, the vampire hunter gains improved evasion, as the rogue advanced talent.
+
+#### Vampiric Call
+
+The vampire hunter summons base creatures of the night—bats, rats, insects, and the like—to swarm around him. These creatures provide a measure of defense against damage, granting the vampire hunter a number of temporary hit points equal to his level.
+
+At 8th level, he also gains a +2 deflection bonus to AC.
+
+At 16th level, the deflection bonus increases to +4.
+
+#### Vampiric Cunning
+
+The vampire hunter gains a bonus on Perception and Stealth checks equal to half his level.
+
+At 8th level, he can move at his normal speed while using Stealth with no penalty.
+
+At 16th level, the vampire hunter can use Stealth while charging (but not while making any other attack); when charging (and only when charging), he can attempt a Stealth check even if he lacks cover relative to his target.
+
+#### Vampiric Heart
+
+The vampire hunter gains energy resistance equal to half his level against cold and electricity. Additionally, the vampire hunter’s heartbeat is undetectable. Any ability that detects or identifies the living, such as the lifesense ability, does not perceive him.
+
+At 16th level, once per day when reduced to 0 or fewer hit points while this focus is activated, the vampire hunter immediately turns gaseous (as the spell *gaseous form*) for up to a number of rounds equal to half his level and he gains a number of temporary hit points equal to half his level. The vampire hunter can leave *gaseous form* at any time without losing these temporary hit points. This effect ends after these rounds have elapsed, after the vampire hunter loses the temporary hit points, or once this focus is no longer active, at which point the vampire hunter immediately becomes corporeal and loses these temporary hit points. If he has not received healing in the interim, this returns the vampire hunter to the number of hit points he had after the attack or effect that triggered this ability.
+
+#### Vampiric Might
+
+The vampire hunter gains a +2 enhancement bonus to Strength and his weapons are always treated as magical for the purpose of overcoming damage reduction.
+
+At 8th level, this bonus becomes +4.
+
+At 16th level, this bonus becomes +6.
+
+#### Vampiric Momentum
+
+The vampire hunter is treated as being under the effects of the spell* feather fall*.
+
+At 8th level, he is also affected as if by the spell [*spider climb*](../../magic/spells/spider-climb.md) and can move normally through difficult terrain.
+
+At 16th level, he is treated as being under the effects of the spell [*freedom of movement*](../../magic/spells/freedom-of-movement.md), and can use up to two consecutive move actions in the same turn to cross areas of open air or calm water (or similar substances) as if they were solid ground, though the vampire hunter must begin and end this movement on solid ground. This allows the vampire hunter to cross water, open air, lava (though he takes fire damage as normal if not immune), and the like without falling or sinking.
+
+#### Vampiric Presence
+
+The vampire hunter gains a +2 enhancement bonus to Charisma.
+
+At 8th level, this bonus increases to +4, and he can cast [*charm person*](../../magic/spells/charm-person.md) as a spell-like ability a number of times per day equal to his adjusted Charisma modifier.
+
+At 16th level, the enhancement bonus to Charisma increases to +6, and the vampire hunter can cast *dominate person *as a spell-like ability a number of times per day equal to his adjusted Charisma modifier. The vampire hunter treats his level as his caster level when using the spell-like abilities this ability grants.
+
+#### Vampiric Resilience
+
+The vampire hunter gains protection against energy drain. Each time this vampiric focus is activated, the first two times he would gain a negative level, he instead does not.
+
+At 8th level, the first four times he would gain a negative level while this focus is activated, he does not.
+
+At 16th level, the first six times he would gain a negative level while this focus is activated, he does not gain any negative levels.
+
+#### Vampiric Resolve
+
+The vampire hunter gains a +2 bonus on Will saving throws against mind-affecting effects. If he has already been affected by a mind-affecting effect when he activates this focus, he can immediately reroll his saving throw against that effect with a bonus equal to half his vampire hunter level.
+
+At 16th level, he is immune to mind-affecting effects.
+
+#### Vampiric Sight
+
+The vampire hunter gains darkvision to a range of 60 feet (if he already has darkvision, its range increases by 30 feet).
+
+At 8th level, the range of the vampire hunter’s darkvision increases by 30 feet.
+
+At 16th level, the vampire hunter also gains blindsense to a range of 30 feet.
+
 ### Relentless (Ex)
 
 At 2nd level, a vampire hunter can travel for an extended period of time without rest. The vampire hunter (and his mount, if he has one) can walk 16 hours in a day of travel without it being considered a forced march, but at the end of that day, he must attempt a DC 15 Fortitude saving throw. If he fails, he can travel for 8 hours the following day, and he (as well as his mount, if he has one) is [fatigued](../../rules/appendices/conditions.md#fatigued) for the following 24 hours. If he succeeds at the saving throw, he can use this ability again the following day. The DC of the Fortitude saving throw increases by 2 for every additional day the vampire hunter has been traveling for more than 8 hours. The vampire hunter does not need to attempt a separate saving throw for his mount. After the vampire hunter rests for 24 hours, the saving throw DC resets to 15.
@@ -95,7 +184,7 @@ To learn or cast a spell, a vampire hunter must have a Wisdom score equal to at 
 
 A vampire hunter can cast a certain number of spells of each spell level each day. His base daily spell allotment is given on Table: Vampire Hunter. In addition, he receives bonus spells per day if he has a high Wisdom score. When Table: Vampire Hunter indicates that vampire hunter can cast 0 spells per day of a given spell level, he can cast the number of bonus spells per day he would be entitled to based on his Wisdom score for that spell level.
 
-A vampire hunter’s selection of spells is limited. At 4th level, a vampire hunter knows two 1st-level spells of the vampire hunter’s choice. At each new vampire hunter level, he gains one or more new spells as indicated on Table: Vampire [Hunter Spells](hunter.md#spells) Known. (Unlike spells per day, the number of spells a vampire hunter knows is not affected by his Wisdom score. The numbers on that table are fixed.) Upon reaching 7th level, and at every third vampire hunter level thereafter (7th and 13th), a vampire hunter can choose to learn a new spell in place of one he already knows. In effect, the vampire hunter “loses” the old spell in exchange for the new one. The new spell’s level must be the same as that of the spell being exchanged, and it must be at least one level lower than the highest-level spell he can cast.
+A vampire hunter’s selection of spells is limited. At 4th level, a vampire hunter knows two 1st-level spells of the vampire hunter’s choice. At each new vampire hunter level, he gains one or more new spells as indicated on Table: Vampire Hunter Spells Known. (Unlike spells per day, the number of spells a vampire hunter knows is not affected by his Wisdom score. The numbers on that table are fixed.) Upon reaching 7th level, and at every third vampire hunter level thereafter (7th and 13th), a vampire hunter can choose to learn a new spell in place of one he already knows. In effect, the vampire hunter “loses” the old spell in exchange for the new one. The new spell’s level must be the same as that of the spell being exchanged, and it must be at least one level lower than the highest-level spell he can cast.
 
 The vampire hunter can swap out a single spell at any given level and must choose whether or not to swap the spell at the same time that he gains new spells known for the level.
 
@@ -103,6 +192,26 @@ The vampire hunter can swap out a single spell at any given level and must choos
 
 | Level | 1st | 2nd | 3rd | 4th |
 |---|---|---|---|---|
+| 1st | — | — | — | — |
+| 2nd | — | — | — | — |
+| 3rd | — | — | — | — |
+| 4th | 2 | — | — | — |
+| 5th | 3 | — | — | — |
+| 6th | 4 | — | — | — |
+| 7th | 4 | 2 | — | — |
+| 8th | 4 | 3 | — | — |
+| 9th | 4 | 4 | — | — |
+| 10th | 5 | 4 | 2 | — |
+| 11th | 5 | 4 | 3 | — |
+| 12th | 5 | 4 | 4 | — |
+| 13th | 5 | 5 | 4 | 2 |
+| 14th | 6 | 5 | 4 | 3 |
+| 15th | 6 | 5 | 4 | 4 |
+| 16th | 6 | 5 | 5 | 4 |
+| 17th | 6 | 6 | 5 | 4 |
+| 18th | 6 | 6 | 5 | 4 |
+| 19th | 6 | 6 | 5 | 5 |
+| 20th | 6 | 6 | 6 | 5 |
 
 ### Relentless Band (Ex)
 
@@ -153,108 +262,6 @@ If the attack hits, the target takes damage normally and must succeed at a Forti
 If the vampire hunter chooses to destroy the target, the target is killed. If the target is a vampire, it does not assume *gaseous form*, and its healing powers do not come into effect; it is destroyed outright. If the vampire hunter chooses to stake his target, the target is killed if it’s a non-vampire. If it’s a vampire (or similar creature affected by having a stake driven through its heart) it is killed, but returns to life if the stake is removed. The vampire hunter can use his 4th-level stake ability to employ any piercing weapon or sharp tool as though it were a wooden stake.
 
 Additionally, at 20th level, each day when the vampire hunter regains his spells per day, he chooses one vampiric focus to be active on himself for the entire day. This focus is in addition to uses of his vampiric focus class ability.
-
-## Vampiric Foci
-
-### Vampiric Agility
-
-All of the vampire hunter’s movement speeds are increased by 5 feet.
-
-At 8th level, his movement speeds are increased by 10 feet and he gains evasion, as the rogue class feature.
-
-At 16th level, the vampire hunter gains improved evasion, as the rogue advanced talent.
-
-### Vampiric Call
-
-The vampire hunter summons base creatures of the night—bats, rats, insects, and the like—to swarm around him. These creatures provide a measure of defense against damage, granting the vampire hunter a number of temporary hit points equal to his level.
-
-At 8th level, he also gains a +2 deflection bonus to AC.
-
-At 16th level, the deflection bonus increases to +4.
-
-### Vampiric Cunning
-
-The vampire hunter gains a bonus on Perception and Stealth checks equal to half his level.
-
-At 8th level, he can move at his normal speed while using Stealth with no penalty.
-
-At 16th level, the vampire hunter can use Stealth while charging (but not while making any other attack); when charging (and only when charging), he can attempt a Stealth check even if he lacks cover relative to his target.
-
-### Vampiric Heart
-
-The vampire hunter gains energy resistance equal to half his level against cold and electricity. Additionally, the vampire hunter’s heartbeat is undetectable. Any ability that detects or identifies the living, such as the lifesense ability, does not perceive him.
-
-At 16th level, once per day when reduced to 0 or fewer hit points while this focus is activated, the vampire hunter immediately turns gaseous (as the spell *gaseous form*) for up to a number of rounds equal to half his level and he gains a number of temporary hit points equal to half his level. The vampire hunter can leave *gaseous form* at any time without losing these temporary hit points. This effect ends after these rounds have elapsed, after the vampire hunter loses the temporary hit points, or once this focus is no longer active, at which point the vampire hunter immediately becomes corporeal and loses these temporary hit points. If he has not received healing in the interim, this returns the vampire hunter to the number of hit points he had after the attack or effect that triggered this ability.
-
-### Vampiric Might
-
-The vampire hunter gains a +2 enhancement bonus to Strength and his weapons are always treated as magical for the purpose of overcoming damage reduction.
-
-At 8th level, this bonus becomes +4.
-
-At 16th level, this bonus becomes +6.
-
-### Vampiric Momentum
-
-The vampire hunter is treated as being under the effects of the spell* feather fall*.
-
-At 8th level, he is also affected as if by the spell [*spider climb*](../../magic/spells/spider-climb.md) and can move normally through difficult terrain.
-
-At 16th level, he is treated as being under the effects of the spell [*freedom of movement*](../../magic/spells/freedom-of-movement.md), and can use up to two consecutive move actions in the same turn to cross areas of open air or calm water (or similar substances) as if they were solid ground, though the vampire hunter must begin and end this movement on solid ground. This allows the vampire hunter to cross water, open air, lava (though he takes fire damage as normal if not immune), and the like without falling or sinking.
-
-### Vampiric Presence
-
-The vampire hunter gains a +2 enhancement bonus to Charisma.
-
-At 8th level, this bonus increases to +4, and he can cast [*charm person*](../../magic/spells/charm-person.md) as a spell-like ability a number of times per day equal to his adjusted Charisma modifier.
-
-At 16th level, the enhancement bonus to Charisma increases to +6, and the vampire hunter can cast *dominate person *as a spell-like ability a number of times per day equal to his adjusted Charisma modifier. The vampire hunter treats his level as his caster level when using the spell-like abilities this ability grants.
-
-### Vampiric Resilience
-
-The vampire hunter gains protection against energy drain. Each time this vampiric focus is activated, the first two times he would gain a negative level, he instead does not.
-
-At 8th level, the first four times he would gain a negative level while this focus is activated, he does not.
-
-At 16th level, the first six times he would gain a negative level while this focus is activated, he does not gain any negative levels.
-
-### Vampiric Resolve
-
-The vampire hunter gains a +2 bonus on Will saving throws against mind-affecting effects. If he has already been affected by a mind-affecting effect when he activates this focus, he can immediately reroll his saving throw against that effect with a bonus equal to half his vampire hunter level.
-
-At 16th level, he is immune to mind-affecting effects.
-
-### Vampiric Sight
-
-The vampire hunter gains darkvision to a range of 60 feet (if he already has darkvision, its range increases by 30 feet).
-
-At 8th level, the range of the vampire hunter’s darkvision increases by 30 feet.
-
-At 16th level, the vampire hunter also gains blindsense to a range of 30 feet.
-
-## Technique Feats
-
-Vampire hunter technique feats are a mixture of fighting methods, disciplines, and stories passed down by vampire hunters successful enough to share their methods. Only members of this class, or those with the [Vampire Hunter Tradition](../../rules/feats/vampire-hunter-tradition.md) feat, can choose them.
-
-- [Blessed Waters](../../rules/feats/blessed-waters.md)
-
-- [Death’s Nightmare](../../rules/feats/deaths-nightmare.md)
-
-- [Extended Vampiric Focus](../../rules/feats/extended-vampiric-focus.md)
-
-- [Know Master](../../rules/feats/know-master.md)
-
-- [Liberating Critical](../../rules/feats/liberating-critical.md)
-
-- [Locked Will](../../rules/feats/locked-will.md)
-
-- [Resolute Steed](../../rules/feats/resolute-steed.md)
-
-- [Revealing Waters](../../rules/feats/revealing-waters.md)
-
-- [Soured Soul](../../rules/feats/soured-soul.md)
-
-- [Vampire Scholar](../../rules/feats/vampire-scholar.md)
 
 ## Favored Class Bonuses
 
