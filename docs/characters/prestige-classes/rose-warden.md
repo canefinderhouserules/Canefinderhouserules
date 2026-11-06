@@ -55,7 +55,7 @@ The following are class features of the rose warden prestige class.
 
 **Street Sentinel (Ex)**: A rose warden gains a +2 bonus on initiative checks and Knowledge (local), Perception, Stealth, and Survival checks when she is in an urban area. Whenever she is traveling in urban terrain, a rose warden leaves no trail and can't be tracked (though she can leave a trail if she chooses). At 6th level, this bonus increases to +4.
 
-**Sneak Attack (Ex)**: This ability is exactly like the rogue ability of the same name. The extra damage dealt starts at +1d6 and increases by 1d6 every 2 levels (4th, 6th, 8th, and 10th). If a rose warden gets sneak attack bonuses from other sources, the bonuses on damage rolls stack.
+**Sneak Attack (Ex)**: This ability is exactly like the [rogue ability](../classes/rogue.md#sneak-attack) of the same name. The extra damage dealt starts at +1d6 and increases by 1d6 every 2 levels (4th, 6th, 8th, and 10th). If a rose warden gets sneak attack bonuses from other sources, the bonuses on damage rolls stack.
 
 **Voice of the Masses (Ex)**: At 2nd level, a rose warden's movement is not impeded by crowds, and she gains a bonus equal to her rose warden level on checks to influence crowds.
 

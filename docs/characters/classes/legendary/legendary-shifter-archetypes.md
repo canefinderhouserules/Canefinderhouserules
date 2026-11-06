@@ -137,7 +137,7 @@ At 17th level, when taking the form of an fey, a fairy shifter’s shifter shape
 
 **Whimsical Aura (Ex):** At 2nd level, when unarmored, not using a shield, unencumbered, and conscious, the fairy shifter adds her Charisma bonus (if any) to her AC and CMD. If she is wearing armor or using a shield, she instead adds half her Charisma bonus to her AC (minimum 0). In addition, the fairy gains a +1 bonus to her AC and CMD at 4th level. This bonus increases by 1 for every 4 fairy shifter levels thereafter (up to a maximum of +5 at 20th level).
 
-These bonuses to AC apply even against touch attacks and when the fairy shifter is flat-footed. She loses these bonuses when she is immobilized or helpless. These bonuses do not stack with the monk AC bonus class feature.
+These bonuses to AC apply even against touch attacks and when the fairy shifter is flat-footed. She loses these bonuses when she is immobilized or helpless. These bonuses do not stack with the [monk AC bonus](../monk.md#ac-bonus-ex) class feature.
 
 *This ability replaces defensive instinct.*
 
@@ -342,7 +342,7 @@ At 14th level, a shifter can use shifter shape to transform into a Tiny or Large
 
 **Unsettling Aura (Ex):** At 2nd level, when unarmored, not using a shield, unencumbered, and conscious, the necromorph adds her Charisma bonus (if any) to her AC and CMD. If she is wearing armor or using a shield, she instead adds half her Charisma bonus to her AC (minimum 0). In addition, the necromorph gains a +1 bonus to her AC and CMD at 4th level. This bonus increases by 1 for every 4 necromorph levels thereafter (up to a maximum of +5 at 20th level).
 
-These bonuses to AC apply even against touch attacks and when the necromorph is flat-footed. She loses these bonuses when she is immobilized or helpless. These bonuses do not stack with the monk AC bonus class feature.
+These bonuses to AC apply even against touch attacks and when the necromorph is flat-footed. She loses these bonuses when she is immobilized or helpless. These bonuses do not stack with the [monk AC bonus](../monk.md#ac-bonus-ex) class feature.
 
 *This ability replaces defensive instinct.*
 
@@ -362,7 +362,7 @@ These bonuses to AC apply even against touch attacks and when the necromorph is 
 
 *The allure of taking on a form that is in itself all forms deeply appeals to an oozeling, allowing them to completely shift their form at a moment’s notice and take on whatever shape they desire.*
 
-**Ooze Form (Ex):** An oozeling’s body is composed of protoplasm that takes the form of her original shape, although to any observer it is obvious that she is an ooze. An oozeling treats her creature type as both ooze and her base creature type from her race for the purposes of effects targeting creatures by type (such as bane weapons and a ranger’s favored enemy). She also gains compression as per the universal monster rule. This ability can be used regardless of the current form the oozeling has taken. As a swift action, an oozeling can take the form of a protoplasmic blob or revert to her normal form (she also takes this form whenever she is unconscious).
+**Ooze Form (Ex):** An oozeling’s body is composed of protoplasm that takes the form of her original shape, although to any observer it is obvious that she is an ooze. An oozeling treats her creature type as both ooze and her base creature type from her race for the purposes of effects targeting creatures by type (such as bane weapons and a [ranger’s favored enemy](../ranger.md#favored-enemy-ex)). She also gains compression as per the universal monster rule. This ability can be used regardless of the current form the oozeling has taken. As a swift action, an oozeling can take the form of a protoplasmic blob or revert to her normal form (she also takes this form whenever she is unconscious).
 
 In protoplasmic blob form, the oozemorph is immune to critical hits and precision damage and can’t be flanked. However, she has no magic item slots and she cannot benefit from armor; cast spells; hold objects; speak; or use any magic item that requires activation, is held, or is worn on the body and has a movement speed of 10 feet. Shifting into protoplasmic form is treated as a polymorph effect.
 
@@ -385,7 +385,7 @@ To determine if a natural attack is primary or secondary and it’s damage, refe
 | Sting | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | P | Primary |
 | Talons | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | S | Primary |
 
-**Ooze Empathy (Ex):** An oozeling gains the legendary shifter’s wild empathy class feature, but she can use it only to influence the attitude of oozes with an Intelligence score of 2 or lower. An oozeling can use this ability on mindless oozes; when she does so, she imparts a modicum of intellect to the ooze to allow it to respond to her commands.
+**Ooze Empathy (Ex):** An oozeling gains the legendary [shifter’s wild empathy](../shifter.md#wild-empathy-ex) class feature, but she can use it only to influence the attitude of oozes with an Intelligence score of 2 or lower. An oozeling can use this ability on mindless oozes; when she does so, she imparts a modicum of intellect to the ooze to allow it to respond to her commands.
 
 *This alters wild empathy.*
 

@@ -70,9 +70,13 @@ The summoner’s class skills are Craft (Int), Fly (Dex), Handle Animal (Cha), K
 
 The following are the class features of the summoner.
 
-**Weapon and Armor Proficiency**: Summoners are proficient with all [simple weapons](../../equipment/weapons-simple.md). Summoners are also proficient with [light armor](../../equipment/armor.md). A summoner can cast summoner spells while wearing light armor without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a summoner wearing medium or [heavy armor](../../equipment/armor.md), or using a shield, incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass summoner still incurs the normal arcane spell failure chance for arcane spells received from other classes.
+### Weapon and Armor Proficiency
 
-**Spells**: A summoner casts arcane spells drawn from the summoner spell list. He can cast any spell he knows without preparing it ahead of time, assuming he has not yet used up his allotment of spells per day for the spell’s level.
+Summoners are proficient with all [simple weapons](../../equipment/weapons-simple.md). Summoners are also proficient with [light armor](../../equipment/armor.md). A summoner can cast summoner spells while wearing light armor without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a summoner wearing medium or [heavy armor](../../equipment/armor.md), or using a shield, incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass summoner still incurs the normal arcane spell failure chance for arcane spells received from other classes.
+
+### Spells
+
+A summoner casts arcane spells drawn from the summoner spell list. He can cast any spell he knows without preparing it ahead of time, assuming he has not yet used up his allotment of spells per day for the spell’s level.
 
 To learn or cast a spell, a summoner must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a summoner’s spell is 10 + the spell level + the summoner’s Charisma modifier.
 
@@ -82,9 +86,13 @@ A summoner’s selection of spells is extremely limited.
 
 A summoner begins play knowing four 0-level spells and two 1st-level spells of the summoner’s choice. At each new summoner level, he gains one or more new spells as indicated on Table 2–8. (Unlike spells per day, the number of spells a summoner knows is not affected by his Charisma score. The numbers on Table 2–8 are fixed.) Upon reaching 5th level, and at every third summoner level thereafter (8th, 11th, and so on), a summoner can choose to learn a new spell in place of one he already knows. In effect, the summoner “loses” the old spell in exchange for the new one. The new spell’s level must be the same as that of the spell being exchanged, and it must be at least one level lower than the highest-level summoner spell he can cast. A summoner may swap out only a single spell at any given level and must choose whether or not to swap the spell at the same time that he gains new spells known for the level.
 
-**Cantrips**: A summoner learns a number of cantrips, or 0-level spells, as noted on Table 2–8 under “Spells Known.” These spells are cast like any other spell, but they may be cast any number of times per day. Cantrips prepared using other spell slots, due to metamagic feats, for example, consume spell slots as normally.
+### Cantrips
 
-**Eidolon**: A summoner begins play with the ability to summon to his side a powerful outsider called an eidolon. The eidolon forms a link with the summoner, who, forever after, summons an aspect of the same creature.
+A summoner learns a number of cantrips, or 0-level spells, as noted on Table 2–8 under “Spells Known.” These spells are cast like any other spell, but they may be cast any number of times per day. Cantrips prepared using other spell slots, due to metamagic feats, for example, consume spell slots as normally.
+
+### Eidolon
+
+A summoner begins play with the ability to summon to his side a powerful outsider called an eidolon. The eidolon forms a link with the summoner, who, forever after, summons an aspect of the same creature.
 
 An eidolon has the same alignment as the summoner that calls it and can speak all of his languages. Eidolons are treated as summoned creatures, except that they are not sent back to their home plane until reduced to a number of negative hit points equal to or greater than their Constitution score. In addition, due to its tie to its summoner, an eidolon can touch and attack creatures warded by protection from evil and similar effects that prevent contact with summoned creatures.
 
@@ -96,35 +104,59 @@ The eidolon’s physical appearance is up to the summoner, but it always appears
 
 While this rune can be hidden through mundane means, it cannot be concealed through magic that changes appearance, such as alter self or polymorph (although invisibility does conceal it as long as the spell lasts).
 
-**Life Link (Su)**: Starting at 1st level, a summoner forms a close bond with his eidolon. Whenever the eidolon takes enough damage to send it back to its home plane, the summoner can, as a free action, sacrifice any number of hit points. Each hit point sacrificed in this way prevents 1 point of damage done to the eidolon. This can prevent the eidolon from being sent back to its home plane.
+### Life Link (Su)
+
+Starting at 1st level, a summoner forms a close bond with his eidolon. Whenever the eidolon takes enough damage to send it back to its home plane, the summoner can, as a free action, sacrifice any number of hit points. Each hit point sacrificed in this way prevents 1 point of damage done to the eidolon. This can prevent the eidolon from being sent back to its home plane.
 
 In addition, the eidolon and the summoner must remain within 100 feet of one another for the eidolon to remain at full strength. If the eidolon is beyond 100 feet but closer than 1,000 feet, its current and maximum hit point totals are reduced by 50%. If the eidolon is more than 1,000 feet away but closer than 10,000 feet, its current and maximum hit point totals are reduced by 75%. If the eidolon is more than 10,000 feet away, it is immediately returned to its home plane. Current hit points lost in this way are not restored when the eidolon gets closer to its summoner, but its maximum hit point total does return to normal.
 
-**Summon Monster I (Sp)**: Starting at 1st level, a summoner can cast summon monster I as a spell-like ability a number of times per day equal to 3 + his Charisma modifier. Drawing upon this ability uses up the same power as the summoner uses to call his eidolon. As a result, he can only use this ability when his eidolon is not summoned. He can cast this spell as a standard action and the creatures remain for 1 minute per level (instead of 1 round per level). At 3rd level, and every 2 levels thereafter, the power of this ability increases by one spell level, allowing him to summon more powerful creatures (to a maximum of summon monster IX at 17th level). At 19th level, this ability can be used as gate or summon monster IX. If used as gate, the summoner must pay any required material components. A summoner cannot have more than one summon monster or gate spell active in this way at one time. If this ability is used again, any existing summon monster or gate immediately ends. These summon spells are considered to be part of his spell list for the purposes of spell trigger and spell completion items. In addition, he can expend uses of this ability to fulfill the construction requirements of any magic item he creates, so long as he can use this ability to cast the required spell.
+### Summon Monster I (Sp)
 
-**Bond Senses (Su)**: Starting at 2nd level, a summoner can, as a standard action, share the senses of his eidolon, hearing, seeing, smelling, tasting, and touching everything the eidolon does. He can use this ability a number of rounds per day equal to his summoner level. There is no range to this effect, but the eidolon and the summoner must be on the same plane. The summoner can end this effect as a free action.
+Starting at 1st level, a summoner can cast summon monster I as a spell-like ability a number of times per day equal to 3 + his Charisma modifier. Drawing upon this ability uses up the same power as the summoner uses to call his eidolon. As a result, he can only use this ability when his eidolon is not summoned. He can cast this spell as a standard action and the creatures remain for 1 minute per level (instead of 1 round per level). At 3rd level, and every 2 levels thereafter, the power of this ability increases by one spell level, allowing him to summon more powerful creatures (to a maximum of summon monster IX at 17th level). At 19th level, this ability can be used as gate or summon monster IX. If used as gate, the summoner must pay any required material components. A summoner cannot have more than one summon monster or gate spell active in this way at one time. If this ability is used again, any existing summon monster or gate immediately ends. These summon spells are considered to be part of his spell list for the purposes of spell trigger and spell completion items. In addition, he can expend uses of this ability to fulfill the construction requirements of any magic item he creates, so long as he can use this ability to cast the required spell.
 
-**Shield Ally (Ex)**: At 4th level, whenever a summoner is within his eidolon’s reach, the summoner receives a +2 shield bonus to his Armor Class and a +2 circumstance bonus on his saving throws. This bonus does not apply if the eidolon is grappled, helpless, paralyzed, stunned, or unconscious.
+### Bond Senses (Su)
 
-**Maker’s Call (Su)**: At 6th level, as a standard action, a summoner can call his eidolon to his side. This functions as dimension door, using the summoner’s caster level. When used, the eidolon appears adjacent to the summoner (or as close as possible if all adjacent spaces are occupied). If the eidolon is out of range, the ability is wasted. The summoner can use this ability once per day at 6th level, plus one additional time per day for every four levels beyond 6th.
+Starting at 2nd level, a summoner can, as a standard action, share the senses of his eidolon, hearing, seeing, smelling, tasting, and touching everything the eidolon does. He can use this ability a number of rounds per day equal to his summoner level. There is no range to this effect, but the eidolon and the summoner must be on the same plane. The summoner can end this effect as a free action.
 
-**Transposition (Su)**: At 8th level, a summoner can use his maker’s call ability to swap locations with his eidolon. If it is larger than him, he can appear in any square occupied by the eidolon. The eidolon must occupy the square that was occupied by the summoner if able, or as close as possible if it is not able.
+### Shield Ally (Ex)
 
-**Aspect (Su)**: At 10th level, a summoner can divert up to 2 points from his eidolon’s evolution pool to add evolutions to himself. He cannot select any evolution that the eidolon could not possess, and he must be able to meet the requirements as well. He cannot select the ability increase evolution through this ability. Any points spent in this way are taken from the eidolon’s evolution pool (reducing the total number available to the eidolon). The summoner can change the evolutions he receives from these points any time he can change the eidolon’s evolutions.
+At 4th level, whenever a summoner is within his eidolon’s reach, the summoner receives a +2 shield bonus to his Armor Class and a +2 circumstance bonus on his saving throws. This bonus does not apply if the eidolon is grappled, helpless, paralyzed, stunned, or unconscious.
 
-**Greater Shield Ally (Su)**: At 12th level, whenever an ally is within an eidolon’s reach, the ally receives a +2 shield bonus to its Armor Class and a +2 circumstance bonus on its saving throws. If this ally is the summoner, these bonuses increase to +4. This bonus does not apply if the eidolon is grappled, helpless, paralyzed, stunned, or unconscious.
+### Maker’s Call (Su)
 
-**Life Bond (Su)**: At 14th level, a summoner’s life becomes linked to his eidolon’s. As long as the eidolon has 1 or more hit points, the summoner is protected from harm. Damage in excess of that which would reduce the summoner to fewer than 0 hit points is instead transferred to the eidolon. This damage is transferred 1 point at a time, meaning that as soon as the eidolon is reduced to a number of negative hit points equal to its Constitution score, all excess damage remains with the summoner. Effects that cause death but not damage are unaffected by this ability. This ability does not affect spells like baleful polymorph, flesh to stone, or imprisonment, or other spells that do not cause actual damage.
+At 6th level, as a standard action, a summoner can call his eidolon to his side. This functions as dimension door, using the summoner’s caster level. When used, the eidolon appears adjacent to the summoner (or as close as possible if all adjacent spaces are occupied). If the eidolon is out of range, the ability is wasted. The summoner can use this ability once per day at 6th level, plus one additional time per day for every four levels beyond 6th.
 
-**Merge Forms (Su)**: At 16th level, as a full-round action, a summoner can touch his eidolon and the two can merge forms. This transformation includes all of the summoner’s gear. While merged in this way, the summoner is protected from harm and cannot be the target of spells or effects. All effects and spells currently targeting the summoner are suspended until the summoner emerges from the eidolon (although durations continue to expire).
+### Transposition (Su)
+
+At 8th level, a summoner can use his maker’s call ability to swap locations with his eidolon. If it is larger than him, he can appear in any square occupied by the eidolon. The eidolon must occupy the square that was occupied by the summoner if able, or as close as possible if it is not able.
+
+### Aspect (Su)
+
+At 10th level, a summoner can divert up to 2 points from his eidolon’s evolution pool to add evolutions to himself. He cannot select any evolution that the eidolon could not possess, and he must be able to meet the requirements as well. He cannot select the ability increase evolution through this ability. Any points spent in this way are taken from the eidolon’s evolution pool (reducing the total number available to the eidolon). The summoner can change the evolutions he receives from these points any time he can change the eidolon’s evolutions.
+
+### Greater Shield Ally (Su)
+
+At 12th level, whenever an ally is within an eidolon’s reach, the ally receives a +2 shield bonus to its Armor Class and a +2 circumstance bonus on its saving throws. If this ally is the summoner, these bonuses increase to +4. This bonus does not apply if the eidolon is grappled, helpless, paralyzed, stunned, or unconscious.
+
+### Life Bond (Su)
+
+At 14th level, a summoner’s life becomes linked to his eidolon’s. As long as the eidolon has 1 or more hit points, the summoner is protected from harm. Damage in excess of that which would reduce the summoner to fewer than 0 hit points is instead transferred to the eidolon. This damage is transferred 1 point at a time, meaning that as soon as the eidolon is reduced to a number of negative hit points equal to its Constitution score, all excess damage remains with the summoner. Effects that cause death but not damage are unaffected by this ability. This ability does not affect spells like baleful polymorph, flesh to stone, or imprisonment, or other spells that do not cause actual damage.
+
+### Merge Forms (Su)
+
+At 16th level, as a full-round action, a summoner can touch his eidolon and the two can merge forms. This transformation includes all of the summoner’s gear. While merged in this way, the summoner is protected from harm and cannot be the target of spells or effects. All effects and spells currently targeting the summoner are suspended until the summoner emerges from the eidolon (although durations continue to expire).
 
 The summoner can cast spells while inside the eidolon by taking control of the eidolon for the duration of the casting. Any material components used for these spells are taken from the summoner’s gear, even though they are otherwise inaccessible. The summoner can direct all of the eidolon’s actions while merged, can perceive through its senses, and can speak through its voice.
 
 The summoner can use this ability for a number of rounds per day equal to his summoner level. He can end this effect at any time as a swift action. The summoner emerges in a square adjacent to the eidolon if able. If the eidolon is returned to its home plane while the summoner is merged with it, the summoner is immediately ejected, taking 4d6 points of damage, and is stunned for 1 round.
 
-**Greater Aspect (Su)**: At 18th level, a summoner can divert more of his eidolon’s evolutions to himself. This ability functions as the aspect ability, but up to 6 evolution points can be taken. Unlike the aspect ability, the eidolon loses 1 point from its evolution pool for every 2 points (or fraction thereof ) diverted to the summoner.
+### Greater Aspect (Su)
 
-**Twin Eidolon (Su)**: At 20th level, a summoner and his eidolon share a true connection. As a standard action, the summoner can assume the shape of his eidolon, copying all of its evolutions, form, and abilities. His Strength, Dexterity, and Constitution scores change to match the base scores of his eidolon. He can choose to have any gear that he carries become absorbed by his new form, as with spells from the polymorph subschool. Items with continuous effects continue to function while absorbed in this way. The summoner loses his natural attacks and all racial traits (except bonus feats, skills, and languages) in favor of the abilities granted by his eidolon’s evolutions. The summoner retains all of his class features. The summoner can keep this form for a number of minutes per day equal to his summoner level. This duration does not need to be consecutive, but it must be spent in 1-minute increments. The summoner can end this effect as a free action.
+At 18th level, a summoner can divert more of his eidolon’s evolutions to himself. This ability functions as the aspect ability, but up to 6 evolution points can be taken. Unlike the aspect ability, the eidolon loses 1 point from its evolution pool for every 2 points (or fraction thereof ) diverted to the summoner.
+
+### Twin Eidolon (Su)
+
+At 20th level, a summoner and his eidolon share a true connection. As a standard action, the summoner can assume the shape of his eidolon, copying all of its evolutions, form, and abilities. His Strength, Dexterity, and Constitution scores change to match the base scores of his eidolon. He can choose to have any gear that he carries become absorbed by his new form, as with spells from the polymorph subschool. Items with continuous effects continue to function while absorbed in this way. The summoner loses his natural attacks and all racial traits (except bonus feats, skills, and languages) in favor of the abilities granted by his eidolon’s evolutions. The summoner retains all of his class features. The summoner can keep this form for a number of minutes per day equal to his summoner level. This duration does not need to be consecutive, but it must be spent in 1-minute increments. The summoner can end this effect as a free action.
 
 **Table: Eidolon Base Statistics**
 
@@ -155,47 +187,87 @@ The summoner can use this ability for a number of rounds per day equal to his su
 
 An eidolon’s abilities are determined by the summoner’s level and by the choices made using its evolution pool. Table 2–9: Eidolon Base Statistics determines many of the base statistics of the eidolon. Each eidolon possesses a base form that modifies these base statistics. Eidolons are outsiders for the purpose of determining which spells affect them.
 
-**Class Level**: This is the character’s summoner level.
+### Class Level
 
-**HD**: This is the total number of 10-sided (d10) Hit Dice the eidolon possesses, each of which gains a Constitution modifier, as normal.
+This is the character’s summoner level.
 
-**BAB**: This is the eidolon’s base attack bonus. An eidolon’s base attack bonus is equal to its Hit Dice. Eidolons do not gain additional attacks using their natural weapons for a high base attack bonus.
+### HD
 
-**Good/Bad Saves**: These are the eidolon’s base saving throw bonuses. An eidolon possesses two good saving throws and one bad saving throw, determined by the creature’s base form.
+This is the total number of 10-sided (d10) Hit Dice the eidolon possesses, each of which gains a Constitution modifier, as normal.
 
-**Skills**: This lists the eidolon’s total skill ranks. An eidolon can assign skill ranks to any skill, but it must possess the appropriate appendages to use some skills. Eidolons with Intelligence scores above the base value modify these totals as normal (an eidolon receives a number of skill ranks equal to 6 + its Intelligence modifier per HD). An eidolon cannot have more ranks in a skill than it has Hit Dice. Eidolon skill ranks are set once chosen, even if the creature changes when the summoner gains a new level.
+### BAB
 
-**Feats**: This is the total number of feats possessed by an eidolon. Eidolons can select any feat that they qualify for, but they must possess the appropriate appendages to use some feats. Eidolon feats are set once chosen, even if the creature changes when the summoner gains a new level. If, due to changes, the eidolon no longer qualifies for a feat, the feat has no effect until the eidolon once again qualifies for the feat.
+This is the eidolon’s base attack bonus. An eidolon’s base attack bonus is equal to its Hit Dice. Eidolons do not gain additional attacks using their natural weapons for a high base attack bonus.
 
-**Armor Bonus**: The number noted here is the eidolon’s base total armor bonus. This bonus may be split between an armor bonus and a natural armor bonus, as decided by the summoner. This number is modified by the eidolon’s base form and some options available through its evolution pool. An eidolon cannot wear armor of any kind, as the armor interferes with the summoner’s connection to the eidolon.
+### Good/Bad Saves
 
-**Str/Dex Bonus**: Add this modifier to the eidolon’s Strength and Dexterity scores, as determined by its base form. Some options available through the eidolon’s evolution pool might modify these scores.
+These are the eidolon’s base saving throw bonuses. An eidolon possesses two good saving throws and one bad saving throw, determined by the creature’s base form.
 
-**Evolution Pool**: The value given in this column is the total number of points in the eidolon’s evolution pool. Points from this pool can be spent on a wide variety of modifications and upgrades that add new abilities, attacks, and powers to the eidolon. Whenever the summoner gains a level, the number in this pool increases and the summoner can spend these points to change the abilities of the eidolon. These choices are not set. The summoner can change them whenever he gains a level (and through the transmogrify spell).
+### Skills
 
-**Max. Attacks**: This indicates the maximum number of natural attacks that the eidolon is allowed to possess at the given level. If the eidolon is at its maximum, it cannot take evolutions that grant additional natural attacks. This does not include attacks made with weapons.
+This lists the eidolon’s total skill ranks. An eidolon can assign skill ranks to any skill, but it must possess the appropriate appendages to use some skills. Eidolons with Intelligence scores above the base value modify these totals as normal (an eidolon receives a number of skill ranks equal to 6 + its Intelligence modifier per HD). An eidolon cannot have more ranks in a skill than it has Hit Dice. Eidolon skill ranks are set once chosen, even if the creature changes when the summoner gains a new level.
 
-**Special**: This includes a number of abilities gained by all eidolons as they increase in power. Each of these bonuses is described below.
+### Feats
 
-**Darkvision (Ex)**: The eidolon has darkvision out to a range of 60 feet.
+This is the total number of feats possessed by an eidolon. Eidolons can select any feat that they qualify for, but they must possess the appropriate appendages to use some feats. Eidolon feats are set once chosen, even if the creature changes when the summoner gains a new level. If, due to changes, the eidolon no longer qualifies for a feat, the feat has no effect until the eidolon once again qualifies for the feat.
 
-**Link (Ex)**: A summoner and his eidolon share a mental link allows for communication across any distance (as long as they are on the same plane). This communication is a free action, allowing the summoner to give orders to his eidolon at any time. In addition, magic items interfere with the summoner’s connection to his eidolon. As a result, the summoner and his eidolon share magic item slots. For example, if the summoner is wearing a ring, his eidolon can wear no more than one ring. In case of a conflict, the items worn by the summoner remain active, and those used by the eidolon become dormant. The eidolon must possess the appropriate appendages to utilize a magic item.
+### Armor Bonus
 
-**Share Spells (Ex)**: The summoner may cast a spell with a target of “you” on his eidolon (as a spell with a range of touch) instead of on himself. A summoner may cast spells on his eidolon even if the spells normally do not affect creatures of the eidolon’s type (outsider). Spells cast in this way must come from the summoner spell list. This ability does not allow the eidolon to share abilities that are not spells, even if they function like spells.
+The number noted here is the eidolon’s base total armor bonus. This bonus may be split between an armor bonus and a natural armor bonus, as decided by the summoner. This number is modified by the eidolon’s base form and some options available through its evolution pool. An eidolon cannot wear armor of any kind, as the armor interferes with the summoner’s connection to the eidolon.
 
-**Evasion (Ex)**: If an eidolon is subjected to an attack that normally allows a Reflex save for half damage, it takes no damage if it makes a successful saving throw.
+### Str/Dex Bonus
 
-**Ability Score Increase (Ex)**: The eidolon adds +1 to one of its ability scores.
+Add this modifier to the eidolon’s Strength and Dexterity scores, as determined by its base form. Some options available through the eidolon’s evolution pool might modify these scores.
 
-**Devotion (Ex)**: An eidolon gains a +4 morale bonus on Will saves against enchantment spells and effects.
+### Evolution Pool
 
-**Multiattack**: An eidolon gains Multiattack as a bonus feat if it has 3 or more natural attacks and does not already have that feat. If it does not have the requisite 3 or more natural attacks (or it is reduced to less than 3 attacks), the eidolon instead gains a second attack with one of its natural weapons, albeit at a –5 penalty. If the eidolon later gains 3 or more natural attacks, it loses this additional attack and instead gains Multiattack.
+The value given in this column is the total number of points in the eidolon’s evolution pool. Points from this pool can be spent on a wide variety of modifications and upgrades that add new abilities, attacks, and powers to the eidolon. Whenever the summoner gains a level, the number in this pool increases and the summoner can spend these points to change the abilities of the eidolon. These choices are not set. The summoner can change them whenever he gains a level (and through the transmogrify spell).
 
-**Improved Evasion (Ex)**: When subjected to an attack that allows a Reflex saving throw for half damage, an eidolon takes no damage if it makes a successful saving throw and only half damage if the saving throw fails.
+### Max. Attacks
+
+This indicates the maximum number of natural attacks that the eidolon is allowed to possess at the given level. If the eidolon is at its maximum, it cannot take evolutions that grant additional natural attacks. This does not include attacks made with weapons.
+
+### Special
+
+This includes a number of abilities gained by all eidolons as they increase in power. Each of these bonuses is described below.
+
+### Darkvision (Ex)
+
+The eidolon has darkvision out to a range of 60 feet.
+
+### Link (Ex)
+
+A summoner and his eidolon share a mental link allows for communication across any distance (as long as they are on the same plane). This communication is a free action, allowing the summoner to give orders to his eidolon at any time. In addition, magic items interfere with the summoner’s connection to his eidolon. As a result, the summoner and his eidolon share magic item slots. For example, if the summoner is wearing a ring, his eidolon can wear no more than one ring. In case of a conflict, the items worn by the summoner remain active, and those used by the eidolon become dormant. The eidolon must possess the appropriate appendages to utilize a magic item.
+
+### Share Spells (Ex)
+
+The summoner may cast a spell with a target of “you” on his eidolon (as a spell with a range of touch) instead of on himself. A summoner may cast spells on his eidolon even if the spells normally do not affect creatures of the eidolon’s type (outsider). Spells cast in this way must come from the summoner spell list. This ability does not allow the eidolon to share abilities that are not spells, even if they function like spells.
+
+### Evasion (Ex)
+
+If an eidolon is subjected to an attack that normally allows a Reflex save for half damage, it takes no damage if it makes a successful saving throw.
+
+### Ability Score Increase (Ex)
+
+The eidolon adds +1 to one of its ability scores.
+
+### Devotion (Ex)
+
+An eidolon gains a +4 morale bonus on Will saves against enchantment spells and effects.
+
+### Multiattack
+
+An eidolon gains Multiattack as a bonus feat if it has 3 or more natural attacks and does not already have that feat. If it does not have the requisite 3 or more natural attacks (or it is reduced to less than 3 attacks), the eidolon instead gains a second attack with one of its natural weapons, albeit at a –5 penalty. If the eidolon later gains 3 or more natural attacks, it loses this additional attack and instead gains Multiattack.
+
+### Improved Evasion (Ex)
+
+When subjected to an attack that allows a Reflex saving throw for half damage, an eidolon takes no damage if it makes a successful saving throw and only half damage if the saving throw fails.
 
 ### Eidolon Skills
 
-**The following skills are class skills for eidolons**: Bluff (Cha), Craft (Int), Knowledge (planes) (Int), Perception (Wis), Sense Motive (Wis), and Stealth (Dex). In addition, at 1st level, the summoner can choose 4 additional skills to be class skills for his eidolon. Note that eidolons with a fly speed receive Fly (Dex) as a free class skill, even if they do not gain a fly speed until a later level.
+### The following skills are class skills for eidolons
+
+Bluff (Cha), Craft (Int), Knowledge (planes) (Int), Perception (Wis), Sense Motive (Wis), and Stealth (Dex). In addition, at 1st level, the summoner can choose 4 additional skills to be class skills for his eidolon. Note that eidolons with a fly speed receive Fly (Dex) as a free class skill, even if they do not gain a fly speed until a later level.
 
 ### Base Forms
 
@@ -203,29 +275,43 @@ Each eidolon has one of three base forms that determines its starting size, spee
 
 #### Quadruped
 
-**Starting Statistics**: Size Medium; Speed 40 ft.; AC +2 natural armor; Saves Fort (good), Ref (good), Will (bad); Attack bite (1d6); Ability Scores Str 14, Dex 14, Con 13, Int 7, Wis 10, Cha 11; Free Evolutions bite, limbs (legs) (2).
+### Starting Statistics
+
+Size Medium; Speed 40 ft.; AC +2 natural armor; Saves Fort (good), Ref (good), Will (bad); Attack bite (1d6); Ability Scores Str 14, Dex 14, Con 13, Int 7, Wis 10, Cha 11; Free Evolutions bite, limbs (legs) (2).
 
 #### Biped
 
-**Starting Statistics**: Size Medium; Speed 30 ft.; AC +2 natural armor; Saves Fort (good), Ref (bad), Will (good); Attack 2 claws (1d4); Ability Scores Str 16, Dex 12, Con 13, Int 7, Wis 10, Cha 11; Free Evolutions claws, limbs (arms), limbs (legs).
+### Starting Statistics
+
+Size Medium; Speed 30 ft.; AC +2 natural armor; Saves Fort (good), Ref (bad), Will (good); Attack 2 claws (1d4); Ability Scores Str 16, Dex 12, Con 13, Int 7, Wis 10, Cha 11; Free Evolutions claws, limbs (arms), limbs (legs).
 
 #### Serpentine
 
-**Starting Statistics**: Size Medium; Speed 20 ft., climb 20 ft.; AC +2 natural armor; Saves Fort (bad), Ref (good), Will (good); Attack bite (1d6), tail slap (1d6); Ability Scores Str 12, Dex 16, Con 13, Int 7, Wis 10, Cha 11; Free Evolutions bite, climb, reach (bite), tail, tail slap.
+### Starting Statistics
+
+Size Medium; Speed 20 ft., climb 20 ft.; AC +2 natural armor; Saves Fort (bad), Ref (good), Will (good); Attack bite (1d6), tail slap (1d6); Ability Scores Str 12, Dex 16, Con 13, Int 7, Wis 10, Cha 11; Free Evolutions bite, climb, reach (bite), tail, tail slap.
 
 Evolutions are described on the [Eidolon Evolutions](eidolon-evolutions.md) page.
 
 #### Avian
 
-**Starting Statistics**: Size Small/Medium (see below); Speed 30 ft., fly 30 ft. (good); AC +2 natural armor; Saves Fort (bad), Ref (good), Will (good); Attacks 2 claws (1d3); Ability Scores Str 12, Dex 16, Con 13, Int 7, Wis 10, Cha 11; Free Evolutions claws, flight, limbs (legs).
+### Starting Statistics
 
-**Size**: When summoned, an avian eidolon is Small unless it spends 2 points from its evolution pool. At 5th level, a Medium or larger avian eidolon's fly speed increases by 40 feet, as if it had 2 more points in the flight evolution.
+Size Small/Medium (see below); Speed 30 ft., fly 30 ft. (good); AC +2 natural armor; Saves Fort (bad), Ref (good), Will (good); Attacks 2 claws (1d3); Ability Scores Str 12, Dex 16, Con 13, Int 7, Wis 10, Cha 11; Free Evolutions claws, flight, limbs (legs).
+
+### Size
+
+When summoned, an avian eidolon is Small unless it spends 2 points from its evolution pool. At 5th level, a Medium or larger avian eidolon's fly speed increases by 40 feet, as if it had 2 more points in the flight evolution.
 
 #### Tauric
 
-**Starting Statistics**: Size Small/Medium (see below); Speed 40 ft.; AC +2 natural armor; Saves Fort (good), Ref (bad), Will (good); Attacks 2 claws (1d4); Ability Scores Str 14, Dex 14, Con 13, Int 7, Wis 10, Cha 11; Free Evolutions claws, limbs (arms), limbs (legs) (2). A tauric eidolon appears as a conjoined creature with a humanoid upper body on a quadrupedal lower body.
+### Starting Statistics
 
-**Size**: When summoned, a tauric eidolon is Small unless it spends 2 points from its evolution pool.
+Size Small/Medium (see below); Speed 40 ft.; AC +2 natural armor; Saves Fort (good), Ref (bad), Will (good); Attacks 2 claws (1d4); Ability Scores Str 14, Dex 14, Con 13, Int 7, Wis 10, Cha 11; Free Evolutions claws, limbs (arms), limbs (legs) (2). A tauric eidolon appears as a conjoined creature with a humanoid upper body on a quadrupedal lower body.
+
+### Size
+
+When summoned, a tauric eidolon is Small unless it spends 2 points from its evolution pool.
 
 ## Summoner Spells
 

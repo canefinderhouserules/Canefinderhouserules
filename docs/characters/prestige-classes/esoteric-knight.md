@@ -27,13 +27,13 @@ To qualify to become an esoteric knight, a character must fulfill all of the fol
 
 **Base Attack Bonus**: +3.
 
-**Special**: Kinetic blast class feature or ability to cast 1st-level psychic spells.
+**Special**: Kinetic blast class feature or ability to cast 1st-level [psychic spells](../classes/psychic.md#spells).
 
 ??? note "Original requirements"
 
     **Base Attack Bonus**: +5.
 
-    **Special**: Kinetic blast class feature or ability to cast 1st-level psychic spells.
+    **Special**: Kinetic blast class feature or ability to cast 1st-level [psychic spells](../classes/psychic.md#spells).
 
 ### Class Skills
 

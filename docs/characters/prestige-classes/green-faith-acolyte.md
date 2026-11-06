@@ -63,7 +63,7 @@ The following are class features of the green faith acolyte prestige class.
 
 **Wild Empathy (Ex)**: This ability is identical to the druid class ability. For the purpose of this ability, a Green Faith acolyte’s class level stacks with levels in any other class that grants the wild empathy ability.
 
-**Wild Link (Su)**: At 2nd level, a Green Faith acolyte gains the druid’s wild shape class feature, treating her Green Faith acolyte level as her effective druid level for the forms she can choose and its uses per day, with one use per day until 4th level. If she already has wild shape from druid levels or from any other class or archetype, her Green Faith acolyte levels stack with those levels instead.
+**Wild Link (Su)**: At 2nd level, a Green Faith acolyte gains the [druid’s wild shape](../classes/druid.md#wild-shape-su) class feature, treating her Green Faith acolyte level as her effective druid level for the forms she can choose and its uses per day, with one use per day until 4th level. If she already has wild shape from druid levels or from any other class or archetype, her Green Faith acolyte levels stack with those levels instead.
 
 ??? note "Original rule"
 
@@ -87,4 +87,4 @@ The following are class features of the green faith acolyte prestige class.
 
 **Longevity (Ex)**: At 10th level, a Green Faith acolyte’s maximum age increases by 20%.
 
-**Timeless Body (Ex)**: At 10th level, a Green Faith acolyte no longer takes penalties for aging. This functions exactly like the druid ability of the same name.
+**Timeless Body (Ex)**: At 10th level, a Green Faith acolyte no longer takes penalties for aging. This functions exactly like the [druid ability](../classes/druid.md#timeless-body-ex) of the same name.

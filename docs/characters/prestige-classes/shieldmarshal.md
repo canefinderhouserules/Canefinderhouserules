@@ -45,7 +45,7 @@ The following are class features of the shieldmarshal prestige class.
 
 **Legal Judgment (Ex)**: A shieldmarshal can pronounce legal judgment upon his foes as a swift action, providing a bonus or ability based on the type of judgment made. Once activated, the ability lasts until the combat ends. If the shieldmarshal is dazed, frightened, panicked, paralyzed, stunned, unconscious, or otherwise unable to participate in combat, the effect does not end but provides no benefit until he is again able to participate in combat. As a swift action, the shieldmarshal can change his legal judgment to another type.
 
-This ability can be used once per day, plus once for every three levels beyond 1st. It is equivalent to an inquisitor’s judgment ability for the purpose of feats, magic items, or other game effects that affect the judgment ability; however, levels in the two classes do not stack.
+This ability can be used once per day, plus once for every three levels beyond 1st. It is equivalent to an [inquisitor’s judgment](../classes/inquisitor.md#judgment-su) ability for the purpose of feats, magic items, or other game effects that affect the judgment ability; however, levels in the two classes do not stack.
 
 - **Bulletproof**: A shieldmarshal gains DR 1/— against ranged attacks. Starting at 4th level, this DR is equal to 1/2 the shieldmarshal’s class level. A shieldmarshal must be wearing armor or using a shield to use this judgment.
 - **Destruction**: A shieldmarshal gains a +1 competence bonus on attack rolls with firearms or light blades, increasing to +2 at 5th level and +3 at 10th level. This bonus is doubled on critical hit confirmation rolls.
@@ -68,6 +68,6 @@ This ability can be used once per day, plus once for every three levels beyond 1
 
 **Double Jeopardy (Ex)**: At 8th level, whenever a shieldmarshal uses his legal judgment ability, he selects two different judgments, instead of one. This consumes only one use of his legal judgment ability. As a swift action, he can change one of these effects to another type.
 
-**Quarry (Ex)**: At 9th level, a shieldmarshal can declare one target within his line of sight as his quarry. This ability functions exactly like the ranger ability of the same name.
+**Quarry (Ex)**: At 9th level, a shieldmarshal can declare one target within his line of sight as his quarry. This ability functions exactly like the [ranger ability](../classes/ranger.md#quarry-ex) of the same name.
 
 **High Shieldmarshal (Ex)**: At 10th level, a shieldmarshal attains the highest rank among his order. He can expend one use of his legal judgment ability to create a nonmagical effect equivalent to [*discern lies*](../../magic/spells/discern-lies.md) (caster level equal to his class level; DC = 20 + the shieldmarshal’s Wisdom modifier), or expend one use as part of an initiative check or Charisma-based skill check to take 20 on that check.

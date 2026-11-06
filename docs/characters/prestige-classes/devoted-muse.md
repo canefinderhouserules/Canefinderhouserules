@@ -73,7 +73,7 @@ For the purpose of this ability, a devoted muse’s class levels stack with leve
 
 ??? note "Original rule"
 
-    **Deeds (Ex)**: This ability functions exactly as the swashbuckler ability of the same name with two exceptions. First, the devoted muse qualifies for and benefits from deeds as if she were a swashbuckler 3 levels lower than her class level (minimum 1). Second, the devoted muse doesn't gain the opportune parry and riposte deed until 4th level. For the purpose of this ability, a devoted muse's class levels otherwise stack with levels in any other class that grants the deeds ability.
+    **Deeds (Ex)**: This ability functions exactly as the [swashbuckler ability](../classes/swashbuckler.md#deeds) of the same name with two exceptions. First, the devoted muse qualifies for and benefits from deeds as if she were a swashbuckler 3 levels lower than her class level (minimum 1). Second, the devoted muse doesn't gain the opportune parry and riposte deed until 4th level. For the purpose of this ability, a devoted muse's class levels otherwise stack with levels in any other class that grants the deeds ability.
 
 - **Derring-Do (Ex)**: At 1st level, a devoted muse can spend 1 panache point when she makes an Acrobatics, Climb, Escape Artist, Fly, Ride, or Swim check to roll 1d6 and add the result to the check. She can do this after she makes the check but before the result is revealed. If the result of the d6 roll is a natural 6, she rolls another 1d6 and adds it to the check. She can continue to do this as long as she rolls natural 6s, up to a number of times equal to her Dexterity modifier (minimum 1).
 

@@ -264,13 +264,13 @@ A zen archer cannot use [Rapid Shot](../../rules/feats/rapid-shot.md) or Manysho
 
 The kata master takes the visual aspect of his martial art to its logical extreme, harnessing her flowing movements and skilled maneuvers as a psychological weapon against her enemies. A kata master forsakes the mental discipline of her more contemplative brethren in favor of these flamboyant exhibitions. She often performs in staged fights and tournaments, utilizing stylized forms to amaze the audience and shock and dismay her opponents.
 
-**Panache**: At 1st level, a kata master gains the swashbuckler's panache class ability. At the start of each day, a kata master gains a number of panache points equal to her Charisma bonus (minimum 1). Her panache goes up or down throughout the day, but usually cannot go higher than his Charisma bonus (minimum 1). A kata master gains the swashbuckler's derring-do and opportune parry and riposte deeds. A kata master can use an unarmed strike or monk special weapon in place of a light or one-handed piercing melee weapon for granted swashbuckler class features and deeds. This ability replaces stunning fist.
+**Panache**: At 1st level, a kata master gains the [swashbuckler's panache](swashbuckler.md#panache-ex) class ability. At the start of each day, a kata master gains a number of panache points equal to her Charisma bonus (minimum 1). Her panache goes up or down throughout the day, but usually cannot go higher than his Charisma bonus (minimum 1). A kata master gains the swashbuckler's derring-do and opportune parry and riposte deeds. A kata master can use an unarmed strike or monk special weapon in place of a light or one-handed piercing melee weapon for granted swashbuckler class features and deeds. This ability replaces stunning fist.
 
-**Menacing Swordplay (Ex)**: At 3rd level, a kata master gains the swashbuckler's menacing swordplay deed. This ability replaces still mind.
+**Menacing Swordplay (Ex)**: At 3rd level, a kata master gains the [swashbuckler's menacing swordplay](swashbuckler.md#menacing-swordplay-ex) deed. This ability replaces still mind.
 
 **Ki Pool (Su)**: At 4th level, a kata master can treat ki points as panache points for any swashbuckler deed gained through this archetype. This ability modifies ki pool.
 
-**Targeted Strike (Ex)**: At 7th level, a kata master gains the swashbuckler's targeted strike deed. This ability replaces wholeness of body.
+**Targeted Strike (Ex)**: At 7th level, a kata master gains the [swashbuckler's targeted strike](swashbuckler.md#targeted-strike-ex) deed. This ability replaces wholeness of body.
 
 **Dizzying Defense (Ex)**: At 15th level, a kata master gains the dizzying defense swashbuckler deed. This ability replaces quivering palm.
 
@@ -342,7 +342,7 @@ The maneuver master specializes in more complicated moves than simple damage-dea
 
 **Bonus Feat**: In addition to normal monk bonus feats, a maneuver master may select any Improved combat maneuver feat (such as [Improved Overrun](../../rules/feats/improved-overrun.md)) as a bonus feat. At 6th level and above, he may select any Greater combat maneuver feat (such as [Greater Grapple](../../rules/feats/greater-grapple.md)) as a bonus feat. At 10th level and above, he may select any maneuver Strike feat (such as Tripping Strike) as a bonus feat.
 
-**Flurry of Maneuvers (Ex)**: At 1st level, as part of a full-attack action, a maneuver master can make one additional combat maneuver, regardless of whether the maneuver normally replaces a melee attack or requires a standard action. The maneuver master uses his monk level in place of his base attack bonus to determine his CMB for the bonus maneuvers, though all combat maneuver checks suffer a –2 penalty when using a flurry. At 8th level, a maneuver master may attempt a second additional combat maneuver, with an additional –3 penalty on combat maneuver checks. A maneuver master loses this ability when wearing armor, using a shield, or carrying a medium or heavy load. At 15th level, a maneuver master may attempt a third additional combat maneuver, with an additional –7 penalty on combat maneuver checks. This ability replaces flurry of blows.
+**Flurry of Maneuvers (Ex)**: At 1st level, as part of a full-attack action, a maneuver master can make one additional combat maneuver, regardless of whether the maneuver normally replaces a melee attack or requires a standard action. The maneuver master uses his monk level in place of his base attack bonus to determine his CMB for the bonus maneuvers, though all combat maneuver checks suffer a –2 penalty when using a flurry. At 8th level, a maneuver master may attempt a second additional combat maneuver, with an additional –3 penalty on combat maneuver checks. A maneuver master loses this ability when wearing armor, using a shield, or carrying a medium or heavy load. At 15th level, a maneuver master may attempt a third additional combat maneuver, with an additional –7 penalty on combat maneuver checks. This ability replaces [flurry of blows](monk.md#flurry-of-blows-ex).
 
 **Maneuver Defense (Ex)**: At 3rd level, if a maneuver master has an Improved combat maneuver feat, any creature attempting that maneuver against the maneuver master provokes an attack of opportunity, even if it would not normally do so. This ability replaces still mind.
 
@@ -390,7 +390,7 @@ The master of many styles is a collector. For every move, he seeks a counter. Fo
 
 At 8th level, the master of many styles can fuse three styles at once. He can have the stances of three style feats active at the same time. He gains a bonus on attack rolls equal to the number of styles whose stances he currently has active. Furthermore, he can enter up to three stances as a swift action.
 
-At 15th level, the master of many styles can fuse four styles at once. He can have the stances of four style feats active at the same time. Furthermore, he can enter up to four stances as a free action by spending 1 point from his ki pool. This ability replaces flurry of blows.
+At 15th level, the master of many styles can fuse four styles at once. He can have the stances of four style feats active at the same time. Furthermore, he can enter up to four stances as a free action by spending 1 point from his ki pool. This ability replaces [flurry of blows](monk.md#flurry-of-blows-ex).
 
 **Perfect Style (Ex)**: At 20th level, a master of many styles can have the stances of five style feats active at once, and can change those stances as a free action. This ability replaces perfect self.
 
@@ -400,7 +400,7 @@ The sensei is a revered teacher who imparts lessons on the oneness of mind, body
 
 **Skills**: A sensei gains Diplomacy, Linguistics, and all Knowledge skills as class skills.
 
-**Advice (Ex)**: A sensei’s advice is identical to bardic performance (using oratory), allowing him to inspire courage at 1st level, inspire competence at 3rd level, and inspire greatness at 9th level, as a bard of the sensei’s level, usable a total number of rounds per day equal to his level + his Wisdom modifier (minimum 1). This ability replaces flurry of blows, fast movement, and improved evasion.
+**Advice (Ex)**: A sensei’s advice is identical to bardic performance (using oratory), allowing him to inspire courage at 1st level, inspire competence at 3rd level, and inspire greatness at 9th level, as a bard of the sensei’s level, usable a total number of rounds per day equal to his level + his Wisdom modifier (minimum 1). This ability replaces [flurry of blows](monk.md#flurry-of-blows-ex), fast movement, and improved evasion.
 
 **Insightful Strike (Ex)**: At 2nd level, a sensei may use his Wisdom bonus in lieu of his Strength or Dexterity on attack rolls and combat maneuver checks with unarmed strikes or monk weapons. This ability replaces evasion and the bonus feat gained at 2nd level.
 
@@ -424,7 +424,7 @@ The sohei are masters of the horse and the hunt. A monastic soldier, the sohei i
 
 **Ki Weapon (Su)**: At 4th level, as a swift action, a sohei may spend 1 point from his ki pool to grant any weapon he wields (including his unarmed strike) a +1 enhancement bonus on attack and damage rolls, increasing by +1 per four levels after 4th to a maximum bonus of +5 at 20th level, until the end of his next turn. This ability replaces slow fall and abundant step.
 
-**Weapon Training (Ex)**: At 6th level, a sohei gains weapon training in one of the following weapon groups, as the fighter class feature: bows, crossbows, monk weapons, polearms, spears, or thrown weapons. He may select an additional group of weapons for every six levels after 6th, to a maximum of three at 18th level. A sohei may use flurry of blows and ki strike with any weapon in which he has weapon training. This ability replaces purity of body, diamond body, quivering palm, timeless body, and tongue of the sun and moon.
+**Weapon Training (Ex)**: At 6th level, a sohei gains weapon training in one of the following weapon groups, as the [fighter class feature](fighter.md#weapon-training-ex): bows, crossbows, monk weapons, polearms, spears, or thrown weapons. He may select an additional group of weapons for every six levels after 6th, to a maximum of three at 18th level. A sohei may use flurry of blows and ki strike with any weapon in which he has weapon training. This ability replaces purity of body, diamond body, quivering palm, timeless body, and tongue of the sun and moon.
 
 ## Tetori
 
@@ -432,7 +432,7 @@ The style of the tetori is that of the majestic wrestler—a warrior with a dizz
 
 **Bonus Feat**: A tetori gains the following bonus feats: 1st level—[Improved Grapple](../../rules/feats/improved-grapple.md), 2nd level—[Stunning Pin](../../rules/feats/stunning-pin.md), 6th level—Greater Grapple, 10th level—[Pinning Knockout](../../rules/feats/pinning-knockout.md), 14th level—Chokehold, 18th level—Neckbreaker. These feats replace a monk’s normal bonus feats.
 
-**Graceful Grappler (Ex)**: A tetori uses his monk level in place of his base attack bonus to determine CMB and CMD for grappling. At 4th level, he suffers no penalties on attack rolls, can make attacks of opportunity while grappling, and retains his Dexterity bonus to AC when pinning an opponent or when grappled. At 8th level, a tetori gains the grab special attack when using unarmed strikes, and can use this ability against creatures his own size or smaller by spending 1 point from his ki pool, or against larger creatures by spending 2 points from his ki pool. At 15th level, a tetori gains the constrict special attack, inflicting his unarmed strike damage on any successful grapple check. This ability replaces flurry of blows.
+**Graceful Grappler (Ex)**: A tetori uses his monk level in place of his base attack bonus to determine CMB and CMD for grappling. At 4th level, he suffers no penalties on attack rolls, can make attacks of opportunity while grappling, and retains his Dexterity bonus to AC when pinning an opponent or when grappled. At 8th level, a tetori gains the grab special attack when using unarmed strikes, and can use this ability against creatures his own size or smaller by spending 1 point from his ki pool, or against larger creatures by spending 2 points from his ki pool. At 15th level, a tetori gains the constrict special attack, inflicting his unarmed strike damage on any successful grapple check. This ability replaces [flurry of blows](monk.md#flurry-of-blows-ex).
 
 **Counter-Grapple (Ex)**: At 4th level, a tetori wrestler may make an attack of opportunity against a creature attempting to grapple him. This ability does not allow the tetori to make an attack of opportunity against a creature with the Greater Grapple feat. At 6th level, he may use counter-grapple even if his attacker has concealment or total concealment, at 8th level even if he is flat-footed, and at 10th level even if his attacker has exceptional reach. This ability replaces slow fall.
 
@@ -450,9 +450,9 @@ Menhir guardians are ascetic protectors of sacred druidic sites, less concerned 
 
 **Alignment**: A menhir guardian can be lawful neutral, neutral good, neutral evil, or neutral. While they can work with chaotic allies, they cannot themselves be chaotic. This alters the monk’s alignment requirement.
 
-**Weapon and Armor Proficiency**: A menhir guardian is proficient with the [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [dagger](../../equipment/weapons-simple.md#simple-light-melee-weapons), [dart](../../equipment/weapons-simple.md#simple-ranged-weapons), [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), [sickle](../../equipment/weapons-simple.md#simple-light-melee-weapons), [shortspear](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [sling](../../equipment/weapons-simple.md#simple-ranged-weapons), and [spear](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons). A menhir guardian can use these weapons in conjunction with his wild flurry ability. This replaces the monk’s weapon and armor proficiency.
+**Weapon and Armor Proficiency**: A menhir guardian is proficient with the [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [dagger](../../equipment/weapons-simple.md#simple-light-melee-weapons), [dart](../../equipment/weapons-simple.md#simple-ranged-weapons), [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), [sickle](../../equipment/weapons-simple.md#simple-light-melee-weapons), [shortspear](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [sling](../../equipment/weapons-simple.md#simple-ranged-weapons), and [spear](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons). A menhir guardian can use these weapons in conjunction with his wild flurry ability. This replaces the [monk’s weapon and armor proficiency](monk.md#weapon-and-armor-proficiency).
 
-**Claws (Ex)**: A menhir guardian learns to draw upon natural forces to subtly change his body. He gains the shifter’s shifter claws class feature and treats his monk level as his shifter level for the purposes of this ability. The menhir guardian cannot use the ki strike aspect of ki pool. This replaces unarmed strike and alters ki pool.
+**Claws (Ex)**: A menhir guardian learns to draw upon natural forces to subtly change his body. He gains the [shifter’s shifter claws](shifter.md#shifter-claws-su) class feature and treats his monk level as his shifter level for the purposes of this ability. The menhir guardian cannot use the ki strike aspect of ki pool. This replaces [unarmed strike](monk.md#unarmed-strike) and alters ki pool.
 
 **Wild Flurry (Ex)**: A menhir guardian gains flurry of blows. He can use this ability with the natural attacks provided by his shifter claws ability or the weapons specified above under weapon and armor proficiency. This alters furry of blows.
 
@@ -486,11 +486,11 @@ Creatures immune to critical hits or precision damage are immune to this ability
 
 Water dancers derive their martial training from ancient nereid traditions jealously guarded by these enigmatic fey.
 
-Elemental Focus (Su and Sp): A water dancer gains the elemental focus ability of the kineticist class, but must choose water as his element. He gains the basic hydrokinesis wild talent as normal, and gains the kinetic blast feature of the kineticist class for the water element, using his monk level as his effective kineticist level. He can’t use his kinetic blast when armored or encumbered. This replaces flurry of blows, stunning fist, and quivering palm.
+Elemental Focus (Su and Sp): A water dancer gains the elemental focus ability of the kineticist class, but must choose water as his element. He gains the basic hydrokinesis wild talent as normal, and gains the kinetic blast feature of the kineticist class for the water element, using his monk level as his effective kineticist level. He can’t use his kinetic blast when armored or encumbered. This replaces [flurry of blows](monk.md#flurry-of-blows-ex), stunning fist, and quivering palm.
 
 **Nereid’s Grace (Su)**: When unarmored and unencumbered, a water dancer adds 1 point of Charisma bonus per monk level to his Armor Class as a dodge bonus. If he is caught flat-footed or otherwise denied his Dexterity bonus, he also loses this bonus. He uses his Charisma score instead of his Wisdom score to determine the size of his ki pool and the DC and effects of monk class features. This replaces the bonus feat the monk normally gains at 1st level.
 
-**Unarmed Strike**: A water dancer gains the unarmed strike monk class feature but treats his unarmed strike damage as that of a monk 4 levels lower (minimum 1st level). This alters unarmed strike.
+**Unarmed Strike**: A water dancer gains the unarmed strike monk class feature but treats his unarmed strike damage as that of a monk 4 levels lower (minimum 1st level). This alters [unarmed strike](monk.md#unarmed-strike).
 
 **Burn (Ex)**: At 2nd level, a water dancer gains the burn class feature of the kineticist class. This replaces evasion.
 
@@ -520,7 +520,7 @@ Some catfolk monks dedicate their graceful prowess to the defense of others, esp
 
 Through discipline and training, an ironskin monk hardens his body to withstand punishing blows. Though slow on his feet, his calloused hands and feet can shatter stone and stagger foes.
 
-**Iron Skin (Ex)**: At 1st level, an ironskin monk gains a +1 bonus to his natural armor. This bonus stacks with any existing natural armor the ironskin monk already has. At 4th level, and every 4 levels thereafter, this bonus increases by +1. This ability replaces the monk’s AC bonus ability and the ability to add his Wisdom bonus to his AC.
+**Iron Skin (Ex)**: At 1st level, an ironskin monk gains a +1 bonus to his natural armor. This bonus stacks with any existing natural armor the ironskin monk already has. At 4th level, and every 4 levels thereafter, this bonus increases by +1. This ability replaces the [monk’s AC bonus](monk.md#ac-bonus-ex) ability and the ability to add his Wisdom bonus to his AC.
 
 **Bonus Feat**: At 1st level, an ironskin monk adds Power Attack to his list of bonus feats. At 6th level, he adds [Improved Sunder](../../rules/feats/improved-sunder.md) to the list. At 10th level, he adds [Greater Sunder](../../rules/feats/greater-sunder.md) to the list. These bonus feat choices replace Dodge, Mobility, and Spring Attack on his bonus feat list.
 
@@ -644,7 +644,7 @@ Sage counselors are ascetics and mystics who leave the confines of the monastery
 
 **Cunning Fist (Ex)**: A sage counselor gains [Combat Expertise](../../rules/feats/combat-expertise.md) as a bonus feat, even if he doesn’t meet the prerequisites, and he can ignore the Intelligence prerequisite on feats that have Combat Expertise as a prerequisite. At 2nd level, he gains Improved Feint, and at 6th level, he gains [Greater Feint](../../rules/feats/greater-feint.md), even if he doesn’t meet the prerequisites. This ability replaces the bonus feats gained at 1st, 2nd, and 6th levels.
 
-**Feinting Flurry**: At 4th level, a sage counselor can spend 1 ki point while performing a flurry of blows to feint an opponent as a swift action, but he can’t spend 1 ki point to make an additional attack when making a flurry of blows. At 10th level, he can also choose to replace his first attack during a flurry of blows with a feint check. This ability alters flurry of blows and ki pool, and it replaces the bonus feat gained at 10th level.
+**Feinting Flurry**: At 4th level, a sage counselor can spend 1 ki point while performing a flurry of blows to feint an opponent as a swift action, but he can’t spend 1 ki point to make an additional attack when making a flurry of blows. At 10th level, he can also choose to replace his first attack during a flurry of blows with a feint check. This ability alters [flurry of blows](monk.md#flurry-of-blows-ex) and ki pool, and it replaces the bonus feat gained at 10th level.
 
 **Deceptive Ki (Su)**: At 4th level, the sage counselor can spend 1 point from his ki pool as a swift action to give himself a +4 insight bonus on his next Bluff check. The sage counselor does not gain the ability to spend ki to increase his speed by 20 feet for 1 round. This ability alters ki pool (and it replaces the ki power gained at 4th level for an unchained monk).
 
@@ -768,7 +768,7 @@ At 4th level, the dodge bonus to AC increases to +4. At 8th level, an affected c
 
 A wandering ascetic can use this ability a number of times per day equal to his class level, but no more than once per round. This ability replaces the stunning fist monk class feature and the greed and hatred racial traits.
 
-**Spurn Tradition (Ex)**: Wandering ascetics strive to separate themselves from the rest of their race and the traditions that bind them. The bonuses for nonmagical effects that target or specifically affect dwarf subtype creatures (such as a ranger's favored enemy class feature) are all reduced by half. In addition, a wandering ascetic becomes proficient in one martial weapon with the monk property. This ability replaces the dwarf's defensive training, stonecunning, and weapon familiarity racial traits.
+**Spurn Tradition (Ex)**: Wandering ascetics strive to separate themselves from the rest of their race and the traditions that bind them. The bonuses for nonmagical effects that target or specifically affect dwarf subtype creatures (such as a [ranger's favored enemy](ranger.md#favored-enemy-ex) class feature) are all reduced by half. In addition, a wandering ascetic becomes proficient in one martial weapon with the monk property. This ability replaces the dwarf's defensive training, stonecunning, and weapon familiarity racial traits.
 
 **Know the Unseen Disciples (Su)**: At 7th level, a wandering ascetic can spot hidden creatures, as if using the spell [*see invisibility*](../../magic/spells/see-invisibility.md). Using this ability is a standard action that consumes 2 points from his ki pool. His caster level for this effect is equal to his class level. This ability replaces wholeness of body.
 
@@ -888,7 +888,7 @@ Far strike monks are masters of thrown weapons, from shuriken to throwing axes t
 
 **Weapon and Armor Proficiency**: In addition to the standard monk weapon proficiencies, a far strike monk is proficient with all thrown weapons.
 
-**Flurry of Blows (Ex)**: A far strike monk can make a flurry of blows as a full-attack action as long as he's attacking with thrown weapons. He can't make a flurry of blows with his unarmed attacks or any other weapons. A far strike monk's flurry of blows otherwise functions as the standard monk class feature. A far strike monk can't use Rapid Shot when making a flurry of blows with a thrown weapon. This ability alters flurry of blows.
+**Flurry of Blows (Ex)**: A far strike monk can make a flurry of blows as a full-attack action as long as he's attacking with thrown weapons. He can't make a flurry of blows with his unarmed attacks or any other weapons. A far strike monk's flurry of blows otherwise functions as the standard [monk class feature](monk.md#flurry-of-blows-ex). A far strike monk can't use Rapid Shot when making a flurry of blows with a thrown weapon. This ability alters [flurry of blows](monk.md#flurry-of-blows-ex).
 
 **Bonus Feats**: A far strike monk adds the following feats to his list of bonus feats at 1st level: Far Shot, Point-Blank Shot, Precise Shot, and any targeting feat. At 6th level, he adds the following feats: Improved Precise Shot, [Parting Shot](../../rules/feats/parting-shot.md), and [Trick Shooter](../../rules/feats/trick-shooter.md). At 10th level, he adds the following feats: Improvised Weapon Mastery and Pinpoint Targeting.
 
@@ -978,7 +978,7 @@ Vested powers are abilities that draw on an invested regent's investiture pool. 
 
 **Feather Touch (Ex)**: A softstrike monk does not take the normal –4 penalty on attack rolls for using a lethal weapon to deal nonlethal damage. In addition, he can use his stunning fist ability while making a nonlethal attack with a weapon.
 
-**Nonlethal Strikes (Ex)**: A softstrike monk focuses on blows that do not inflict deadly harm. When a softstrike monk deals nonlethal damage with his unarmed strikes, his monk level is treated as 4 levels higher for the purposes of determining the damage he deals (to a maximum of 4d8 at 20th level for a Medium monk). When dealing lethal damage with his unarmed strikes, his monk level is treated as if it were 4 levels lower (minimum 1st level) for the purpose of determining damage. This alters unarmed strike.
+**Nonlethal Strikes (Ex)**: A softstrike monk focuses on blows that do not inflict deadly harm. When a softstrike monk deals nonlethal damage with his unarmed strikes, his monk level is treated as 4 levels higher for the purposes of determining the damage he deals (to a maximum of 4d8 at 20th level for a Medium monk). When dealing lethal damage with his unarmed strikes, his monk level is treated as if it were 4 levels lower (minimum 1st level) for the purpose of determining damage. This alters [unarmed strike](monk.md#unarmed-strike).
 
 **Tenet of Life (Su)**: Though a softstrike monk accepts that death may happen in combat, he cannot abide killing in cold blood. If he slays an unconscious or helpless living foe, or merely stands by and allows such a killing to occur, he becomes shaken for 1 hour. In addition, the act disrupts the softstrike monk's ki; if he has a ki pool, he loses a number of ki points equal to half his level, as if they had been spent.
 

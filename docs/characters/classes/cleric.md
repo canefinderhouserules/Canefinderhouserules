@@ -20,11 +20,17 @@ The cleric’s class skills are Appraise (Int), Craft (Int), Diplomacy (Cha), He
 
 The following are class features of the cleric.
 
-**Weapon and Armor Proficiency**: Clerics are proficient with all [simple weapons](../../equipment/weapons-simple.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). Clerics are also proficient with the favored weapon of their deity.
+### Weapon and Armor Proficiency
 
-**Aura (Ex)**: A cleric of a chaotic, evil, good, or lawful deity has a particularly powerful aura corresponding to the deity’s alignment (see the [*detect evil*](../../magic/spells/detect-evil.md) spell for details).
+Clerics are proficient with all [simple weapons](../../equipment/weapons-simple.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). Clerics are also proficient with the favored weapon of their deity.
 
-**Spells**: A cleric casts divine spells which are drawn from the cleric spell list presented in Chapter 10. Her alignment, however, may restrict her from casting certain spells opposed to her moral or ethical beliefs; see chaotic, evil, good, and lawful spells in the spell descriptions. A cleric must choose and prepare her spells in advance.
+### Aura (Ex)
+
+A cleric of a chaotic, evil, good, or lawful deity has a particularly powerful aura corresponding to the deity’s alignment (see the [*detect evil*](../../magic/spells/detect-evil.md) spell for details).
+
+### Spells
+
+A cleric casts divine spells which are drawn from the cleric spell list presented in Chapter 10. Her alignment, however, may restrict her from casting certain spells opposed to her moral or ethical beliefs; see chaotic, evil, good, and lawful spells in the spell descriptions. A cleric must choose and prepare her spells in advance.
 
 To prepare or cast a spell, a cleric must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a cleric’s spell is 10 + the spell level + the cleric’s Wisdom modifier.
 
@@ -60,7 +66,9 @@ Note: “+1” represents the domain spell slot
 
 Clerics meditate or pray for their spells. Each cleric must choose a time when she must spend 1 hour each day in quiet contemplation or supplication to regain her daily allotment of spells. A cleric may prepare and cast any spell on the cleric spell list, provided that she can cast spells of that level, but she must choose which spells to prepare during her daily meditation.
 
-**Channel Energy (Su)**: Regardless of alignment, any cleric can release a wave of energy by channeling the power of her faith through her holy (or unholy) symbol. This energy is either positive or negative.
+### Channel Energy (Su)
+
+Regardless of alignment, any cleric can release a wave of energy by channeling the power of her faith through her holy (or unholy) symbol. This energy is either positive or negative.
 
 A good cleric (or one who worships a good deity) channels positive energy. An evil cleric (or one who worships an evil deity) channels negative energy. A neutral cleric who worships a neutral deity (or one who is not devoted to a particular deity) must choose whether she channels positive or negative energy. Once this choice is made, it cannot be reversed. This decision also determines whether the cleric casts spontaneous cure or inflict spells (see spontaneous casting).
 
@@ -72,23 +80,33 @@ Channeling energy causes a burst that affects all creatures in a 30-foot radius 
 
     Channeling energy causes a burst that affects all creatures of one type (either undead or living) in a 30-foot radius centered on the cleric. The amount of damage dealt or healed is equal to 1d6 points of damage plus 1d6 points of damage for every two cleric levels beyond 1st (2d6 at 3rd, 3d6 at 5th, and so on).
 
-**Domains**: A cleric’s deity influences her alignment, what magic she can perform, her values, and how others see her. A cleric chooses two domains from among those belonging to her deity. A cleric can select an alignment domain (Chaos, Evil, Good, or Law) only if her alignment matches that domain. If a cleric is not devoted to a particular deity, she still selects two domains to represent her spiritual inclinations and abilities (subject to GM approval). The restriction on alignment domains still applies.
+### Domains
+
+A cleric’s deity influences her alignment, what magic she can perform, her values, and how others see her. A cleric chooses two domains from among those belonging to her deity. A cleric can select an alignment domain (Chaos, Evil, Good, or Law) only if her alignment matches that domain. If a cleric is not devoted to a particular deity, she still selects two domains to represent her spiritual inclinations and abilities (subject to GM approval). The restriction on alignment domains still applies.
 
 Each domain grants a number of domain powers, dependent upon the level of the cleric, as well as a number of bonus spells. A cleric gains one domain spell slot for each level of cleric spell she can cast, from 1st on up. Each day, a cleric can prepare one of the spells from her two domains in that slot. If a domain spell is not on the cleric spell list, a cleric can prepare it only in her domain spell slot. Domain spells cannot be used to cast spells spontaneously.
 
 In addition, a cleric gains the listed powers from both of her domains, if she is of a high enough level. Unless otherwise noted, using a domain power is a standard action. Cleric domains are listed at the end of this class entry.
 
-**Orisons**: Clerics can prepare a number of orisons, or 0-level spells, each day, as noted on Table 3–5 under “Spells per Day.” These spells are cast like any other spell, but they are not expended when cast and may be used again.
+### Orisons
 
-**Spontaneous Casting**: A good cleric (or a neutral cleric of a good deity) can channel stored spell energy into healing spells that she did not prepare ahead of time. The cleric can “lose” any prepared spell that is not an orison or domain spell in order to cast any cure spell of the same spell level or lower (a cure spell is any spell with “cure” in its name).
+Clerics can prepare a number of orisons, or 0-level spells, each day, as noted on Table 3–5 under “Spells per Day.” These spells are cast like any other spell, but they are not expended when cast and may be used again.
+
+### Spontaneous Casting
+
+A good cleric (or a neutral cleric of a good deity) can channel stored spell energy into healing spells that she did not prepare ahead of time. The cleric can “lose” any prepared spell that is not an orison or domain spell in order to cast any cure spell of the same spell level or lower (a cure spell is any spell with “cure” in its name).
 
 An evil cleric (or a neutral cleric who worships an evil deity) can’t convert prepared spells to cure spells but can convert them to inflict spells (an inflict spell is one with “inflict” in its name).
 
 A cleric who is neither good nor evil and whose deity is neither good nor evil can convert spells to either cure spells or inflict spells (player’s choice). Once the player makes this choice, it cannot be reversed. This choice also determines whether the cleric channels positive or negative energy (see Channel Energy).
 
-**Chaotic, Evil, Good, and Lawful Spells**: A cleric can’t cast spells of an alignment opposed to her own or her deity’s (if she has one). Spells associated with particular alignments are indicated by the chaotic, evil, good, and lawful descriptors in their spell descriptions.
+### Chaotic, Evil, Good, and Lawful Spells
 
-**Bonus Languages**: A cleric’s bonus language options include Celestial, Abyssal, and Infernal (the languages of good, chaotic evil, and lawful evil outsiders, respectively). These choices are in addition to the bonus languages available to the character because of her race.
+A cleric can’t cast spells of an alignment opposed to her own or her deity’s (if she has one). Spells associated with particular alignments are indicated by the chaotic, evil, good, and lawful descriptors in their spell descriptions.
+
+### Bonus Languages
+
+A cleric’s bonus language options include Celestial, Abyssal, and Infernal (the languages of good, chaotic evil, and lawful evil outsiders, respectively). These choices are in addition to the bonus languages available to the character because of her race.
 
 ## Ex-Clerics
 

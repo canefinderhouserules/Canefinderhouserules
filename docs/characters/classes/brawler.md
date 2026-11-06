@@ -49,11 +49,17 @@ The brawler's class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Escap
 
 The following are the class features of the brawler.
 
-**Weapon and Armor Proficiency**: A brawler is proficient with all [simple weapons](../../equipment/weapons-simple.md) plus the [handaxe](../../equipment/weapons-martial.md#martial-light-melee-weapons), [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons), and weapons from the close fighter weapon group. She is proficient with [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
+### Weapon and Armor Proficiency
 
-**Brawler's Cunning (Ex)**: If the brawler's Intelligence score is less than 13, it counts as 13 for the purpose of meeting the prerequisites of combat feats.
+A brawler is proficient with all [simple weapons](../../equipment/weapons-simple.md) plus the [handaxe](../../equipment/weapons-martial.md#martial-light-melee-weapons), [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons), and weapons from the close fighter weapon group. She is proficient with [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
 
-**Martial Flexibility (Ex)**: A brawler can take a move action to gain the benefit of a combat feat she doesn't possess. This effect lasts for 1 minute. The brawler must meet all the feat's prerequisites. She may use this ability a number of times per day equal to 3 + 1/2 her brawler level (minimum 1).
+### Brawler's Cunning (Ex)
+
+If the brawler's Intelligence score is less than 13, it counts as 13 for the purpose of meeting the prerequisites of combat feats.
+
+### Martial Flexibility (Ex)
+
+A brawler can take a move action to gain the benefit of a combat feat she doesn't possess. This effect lasts for 1 minute. The brawler must meet all the feat's prerequisites. She may use this ability a number of times per day equal to 3 + 1/2 her brawler level (minimum 1).
 
 The brawler can use this ability again before the duration expires in order to replace the previous combat feat with another choice.
 
@@ -65,9 +71,13 @@ At 12th level, a brawler can use this ability to gain the benefit of one combat 
 
 At 20th level, a brawler can use this ability to gain the benefit of any number of combat feats as a swift action. Each feat selected counts toward her daily uses of this ability.
 
-**Martial Training (Ex)**: At 1st level, a brawler counts her total brawler levels as both fighter levels and monk levels for the purpose of qualifying for feats. She also counts as both a fighter and a monk for feats and magic items that have different effects based on whether the character has levels in those classes (such as Stunning Fist and a monk's robe). This ability does not automatically grant feats normally granted to fighters and monks based on class level, namely Stunning Fist.
+### Martial Training (Ex)
 
-**Unarmed Strike**: At 1st level, a brawler gains [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat. A brawler may attack with fists, elbows, knees, and feet. This means that a brawler may make unarmed strikes with her hands full. A brawler applies her full Strength modifier (not half) on damage rolls for all her unarmed strikes.
+At 1st level, a brawler counts her total brawler levels as both fighter levels and monk levels for the purpose of qualifying for feats. She also counts as both a fighter and a monk for feats and magic items that have different effects based on whether the character has levels in those classes (such as Stunning Fist and a monk's robe). This ability does not automatically grant feats normally granted to fighters and monks based on class level, namely Stunning Fist.
+
+### Unarmed Strike
+
+At 1st level, a brawler gains [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat. A brawler may attack with fists, elbows, knees, and feet. This means that a brawler may make unarmed strikes with her hands full. A brawler applies her full Strength modifier (not half) on damage rolls for all her unarmed strikes.
 
 Usually, a brawler's unarmed strikes deal lethal damage, but she can choose to deal nonlethal damage instead with no penalty on her attack roll. She has the same choice to deal lethal or nonlethal damage while grappling.
 
@@ -84,29 +94,47 @@ A brawler also deals more damage with her unarmed strikes than others, as shown 
 | 16th–19th | 2d6 | 3d8 |
 | 20th | 2d8 | 4d8 |
 
-**Bonus Combat Feats**: At 2nd level and every 3 levels thereafter, a brawler gains a bonus combat feat in addition to those gained from normal advancement. These bonus feats must be ones that affect or improve her defenses or melee attacks. The brawler must meet the prerequisites of the selected bonus combat feat. Upon reaching 5th level and every 3 levels thereafter, a brawler can choose to learn a new bonus combat feat in place of a bonus combat feat she has already learned. In effect, the brawler loses the bonus combat feat in exchange for the new one. The old feat cannot be one that was used as a prerequisite for another feat, prestige class, or other ability. A brawler can only change one feat at any given level, and must choose whether or not to swap the feat at the time she gains a new bonus combat feat for the level.
+### Bonus Combat Feats
 
-**Brawler's Flurry (Ex)**: Starting at 2nd level, a brawler can make a brawler's flurry as a full-attack action. When doing so, a brawler has the [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md) feat when attacking with any combination of unarmed strikes, weapons from the close fighter weapon group, or weapons with the "monk" special feature. She does not need to use two different weapons to use this ability.
+At 2nd level and every 3 levels thereafter, a brawler gains a bonus combat feat in addition to those gained from normal advancement. These bonus feats must be ones that affect or improve her defenses or melee attacks. The brawler must meet the prerequisites of the selected bonus combat feat. Upon reaching 5th level and every 3 levels thereafter, a brawler can choose to learn a new bonus combat feat in place of a bonus combat feat she has already learned. In effect, the brawler loses the bonus combat feat in exchange for the new one. The old feat cannot be one that was used as a prerequisite for another feat, prestige class, or other ability. A brawler can only change one feat at any given level, and must choose whether or not to swap the feat at the time she gains a new bonus combat feat for the level.
+
+### Brawler's Flurry (Ex)
+
+Starting at 2nd level, a brawler can make a brawler's flurry as a full-attack action. When doing so, a brawler has the [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md) feat when attacking with any combination of unarmed strikes, weapons from the close fighter weapon group, or weapons with the "monk" special feature. She does not need to use two different weapons to use this ability.
 
 A brawler applies her full Strength modifier to her damage rolls for all attacks made with brawler's flurry, whether the attacks are made with an off-hand weapon or a weapon wielded in both hands. A brawler can substitute disarm, sunder, and trip combat maneuvers for unarmed attacks as part of brawler's flurry. A brawler with natural weapons can't use such weapons as part of brawler's flurry, nor can she make natural weapon attacks in addition to her brawler's flurry attacks. At 8th level, the brawler gains use of the [Improved Two-Weapon Fighting](../../rules/feats/improved-two-weapon-fighting.md) feat when using brawler's flurry. At 15th level, she gains use of the [Greater Two-Weapon Fighting](../../rules/feats/greater-two-weapon-fighting.md) feat when using brawler's flurry.
 
-**Maneuver Training (Ex)**: At 3rd level, a brawler can select one combat maneuver to receive additional training. She gains a +1 bonus on combat maneuver checks when performing that combat maneuver and a +1 bonus to her CMD when defending against that maneuver.
+### Maneuver Training (Ex)
+
+At 3rd level, a brawler can select one combat maneuver to receive additional training. She gains a +1 bonus on combat maneuver checks when performing that combat maneuver and a +1 bonus to her CMD when defending against that maneuver.
 
 At 7th level and every 4 levels thereafter, the brawler becomes further trained in another combat maneuver, gaining the above +1 bonus combat maneuver checks and to CMD. In addition, the bonuses granted by all previous maneuver training increase by 1 each. (For example, if a brawler chooses grapple at 3rd level and sunder at 7th level, her bonuses to grapple are +2 and bonuses to sunder are +1 If she then chooses bull rush upon reaching 11th level, her bonuses to grapple are +3, to sunder are +2, and to bull rush are +1.)
 
-**AC Bonus (Ex)**: At 4th level, when a brawler wears light or no armor, she gains a +1 dodge bonus to AC and CMD. This bonus increases by 1 at 9th, 13th, and 18th levels.
+### AC Bonus (Ex)
+
+At 4th level, when a brawler wears light or no armor, she gains a +1 dodge bonus to AC and CMD. This bonus increases by 1 at 9th, 13th, and 18th levels.
 
 These bonuses to AC apply against touch attacks. She loses these bonuses while immobilized or helpless, wearing medium or heavy armor, using a shield, or carrying a medium or heavy load.
 
-**Knockout (Ex)**: At 4th level, once per day a brawler can unleash a devastating attack that can instantly knock a target unconscious. She must announce this intent before making her attack roll. If the brawler hits and the target takes damage from the blow, the target must succeed at a Fortitude saving throw (DC = 10 + 1/2 the brawler's level + the higher of the brawler's Strength or Dexterity modifier) or fall unconscious for 1d6 rounds. Each round on its turn, the unconscious target may attempt a new saving throw to end the effect as a full-round action that does not provoke attacks of opportunity. Creatures immune to critical hits or nonlethal damage are immune to this ability. At 10th level, the brawler may use this ability twice per day; at 16th level, she may use it three times per day.
+### Knockout (Ex)
 
-**Brawler's Strike (Ex)**: At 5th level, a brawler's unarmed strikes are treated as magic weapons for the purpose of overcoming damage reduction. At 9th level, her unarmed attacks are also treated as cold iron and silver for the purpose of overcoming damage reduction. At 12th level, she chooses one alignment component: chaotic, evil, good, or lawful; her unarmed strikes also count as this alignment for the purpose of overcoming damage reduction. (This alignment component cannot be the opposite of the brawler's actual alignment, such as a good brawler choosing evil strikes.) At 17th level, her unarmed attacks are also treated as adamantine weapons for the purpose of overcoming damage reduction and bypassing hardness.
+At 4th level, once per day a brawler can unleash a devastating attack that can instantly knock a target unconscious. She must announce this intent before making her attack roll. If the brawler hits and the target takes damage from the blow, the target must succeed at a Fortitude saving throw (DC = 10 + 1/2 the brawler's level + the higher of the brawler's Strength or Dexterity modifier) or fall unconscious for 1d6 rounds. Each round on its turn, the unconscious target may attempt a new saving throw to end the effect as a full-round action that does not provoke attacks of opportunity. Creatures immune to critical hits or nonlethal damage are immune to this ability. At 10th level, the brawler may use this ability twice per day; at 16th level, she may use it three times per day.
 
-**Close Weapon Mastery (Ex)**: At 5th level, a brawler's damage with close weapons increases. When wielding a close weapon, she uses the unarmed strike damage of a brawler 4 levels lower instead of the base damage for that weapon (for example, a 5th-level Medium brawler wielding a punching dagger deals 1d6 points of damage instead of the weapon's normal 1d4). If the weapon normally deals more damage than this, its damage is unchanged. This ability does not affect any other aspect of the weapon. The brawler can decide to use the weapon's base damage instead of her adjusted unarmed strike damage-this must be declared before the attack roll is made.
+### Brawler's Strike (Ex)
 
-**Awesome Blow (Ex)**: At 16th level, the brawler can as a standard action perform an awesome blow combat maneuver against a corporeal creature of her size or smaller. If the combat maneuver check succeeds, the opponent takes damage as if the brawler hit it with the close weapon she is wielding or an unarmed strike, it is knocked flying 10 feet in a direction of the brawler's choice, and it falls prone. The brawler can only push the opponent in a straight line, and the opponent can't move closer to the brawler than the square it started in. If an obstacle prevents the completion of the opponent's move, the opponent and the obstacle each take 1d6 points of damage, and the opponent is knocked prone in the space adjacent to the obstacle. (Unlike the Awesome Blow monster feat, the brawler can be of any size to use this ability.)
+At 5th level, a brawler's unarmed strikes are treated as magic weapons for the purpose of overcoming damage reduction. At 9th level, her unarmed attacks are also treated as cold iron and silver for the purpose of overcoming damage reduction. At 12th level, she chooses one alignment component: chaotic, evil, good, or lawful; her unarmed strikes also count as this alignment for the purpose of overcoming damage reduction. (This alignment component cannot be the opposite of the brawler's actual alignment, such as a good brawler choosing evil strikes.) At 17th level, her unarmed attacks are also treated as adamantine weapons for the purpose of overcoming damage reduction and bypassing hardness.
 
-**Improved Awesome Blow (Ex)**: At 20th level, the brawler can use her awesome blow ability as an attack rather than as a standard action. She may use it on creatures of any size. If the maneuver roll is a natural 20, the brawler can immediately attempt to confirm the critical by rolling another combat maneuver check with all the same modifiers as the one just rolled; if the confirmation roll is successful, the attack deals double damage, and the damage from hitting an obstacle (if any) is also doubled.
+### Close Weapon Mastery (Ex)
+
+At 5th level, a brawler's damage with close weapons increases. When wielding a close weapon, she uses the unarmed strike damage of a brawler 4 levels lower instead of the base damage for that weapon (for example, a 5th-level Medium brawler wielding a punching dagger deals 1d6 points of damage instead of the weapon's normal 1d4). If the weapon normally deals more damage than this, its damage is unchanged. This ability does not affect any other aspect of the weapon. The brawler can decide to use the weapon's base damage instead of her adjusted unarmed strike damage-this must be declared before the attack roll is made.
+
+### Awesome Blow (Ex)
+
+At 16th level, the brawler can as a standard action perform an awesome blow combat maneuver against a corporeal creature of her size or smaller. If the combat maneuver check succeeds, the opponent takes damage as if the brawler hit it with the close weapon she is wielding or an unarmed strike, it is knocked flying 10 feet in a direction of the brawler's choice, and it falls prone. The brawler can only push the opponent in a straight line, and the opponent can't move closer to the brawler than the square it started in. If an obstacle prevents the completion of the opponent's move, the opponent and the obstacle each take 1d6 points of damage, and the opponent is knocked prone in the space adjacent to the obstacle. (Unlike the Awesome Blow monster feat, the brawler can be of any size to use this ability.)
+
+### Improved Awesome Blow (Ex)
+
+At 20th level, the brawler can use her awesome blow ability as an attack rather than as a standard action. She may use it on creatures of any size. If the maneuver roll is a natural 20, the brawler can immediately attempt to confirm the critical by rolling another combat maneuver check with all the same modifiers as the one just rolled; if the confirmation roll is successful, the attack deals double damage, and the damage from hitting an obstacle (if any) is also doubled.
 
 ## Favored Class Bonuses
 

@@ -53,7 +53,7 @@ The following are class features of the mammoth rider prestige class.
 
 **Rugged Steed (Ex)**: At 3rd level and every 2 levels thereafter, the natural armor bonus of a mammoth rider’s steed increases by 1.
 
-**Mistrust of Magic (Ex)**: At 4th level, as long as a mammoth rider doesn’t have levels in a class that grants arcane spellcasting ability, she gains a +2 morale bonus on saving throws against arcane spells. If she has no levels in classes granting divine spellcasting ability, she gains a +2 morale bonus on saving throws against divine spells. If she has no levels in classes granting psychic spellcasting ability, she gains a +2 morale bonus on saving throws against psychic spells.
+**Mistrust of Magic (Ex)**: At 4th level, as long as a mammoth rider doesn’t have levels in a class that grants arcane spellcasting ability, she gains a +2 morale bonus on saving throws against arcane spells. If she has no levels in classes granting divine spellcasting ability, she gains a +2 morale bonus on saving throws against divine spells. If she has no levels in classes granting psychic spellcasting ability, she gains a +2 morale bonus on saving throws against [psychic spells](../classes/psychic.md#spells).
 
 **Undaunted (Ex)**: At 4th level, a mammoth rider adds her Strength bonus to the DC of Intimidate checks attempted against her. Additionally, creatures attempting to intimidate a mammoth rider don’t gain a bonus for being larger than her.
 

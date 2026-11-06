@@ -42,7 +42,7 @@ The following are class features of the valor crusader prestige class.
 
 **Spells per Day**: At each level, the crusader gains new spells per day as if he had gained a level in cleric or paladin (depending on whether he has cleric or paladin levels). He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, and an increased effective level of spellcasting. If the crusader has levels in cleric and paladin, he must decide to which class he adds the new level for purposes of determining spells per day.
 
-**Champion of Honor**: An valor crusader follows a code of conduct identical to that of a paladin, with the same penalties. A crusader’s class levels stack with paladin class levels for the purpose of determining the effects of the paladin’s smite evil ability.
+**Champion of Honor**: An valor crusader follows a code of conduct identical to that of a paladin, with the same penalties. A crusader’s class levels stack with paladin class levels for the purpose of determining the effects of the [paladin’s smite evil](../classes/paladin.md#smite-evil-su) ability.
 
 **Aura of Great Courage (Su)**: At 1st level, the crusader gains an aura of courage equivalent to that of a 3rd-level paladin. If the crusader already has this ability, the aura’s range increases to 20 feet.
 

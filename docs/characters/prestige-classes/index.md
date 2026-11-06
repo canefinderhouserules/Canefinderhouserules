@@ -198,7 +198,7 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Shadow Court Agent](shadow-court-agent.md)**: A lawful evil enforcer wielding darkness, shadow chains and an unnerving gaze.
 
-**[Shieldmarshal](shieldmarshal.md)**: A gun-wielding lawman with legal judgments and gunslinger deeds.
+**[Shieldmarshal](shieldmarshal.md)**: A gun-wielding lawman with legal judgments and [gunslinger deeds](../classes/gunslinger.md#deeds).
 
 **[Sigil Mystic](sigil-mystic.md)**: A tattooed spellcaster who draws power from ancient runic markings.
 

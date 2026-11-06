@@ -25,7 +25,7 @@ The following masterful tricks are available to any mesmerist.
 
 ## Devilbane Gazes
 
-Some mesmerists have refined their hypnotic stares to include a suite of gaze attacks useful for negotiating with or undermining outsiders. Devilbane gazes can be selected beginning at 3rd level as options for the mesmerist's bold stare improvements. They tend to be more limited in their scope than standard bold stare improvements, but cut to the core of an outsider's being.
+Some mesmerists have refined their hypnotic stares to include a suite of gaze attacks useful for negotiating with or undermining outsiders. Devilbane gazes can be selected beginning at 3rd level as options for the [mesmerist's bold stare](mesmerist.md#bold-stare-su) improvements. They tend to be more limited in their scope than standard bold stare improvements, but cut to the core of an outsider's being.
 
 When a devilbane gaze is used against a creature with the outsider type, double the hypnotic stare penalty applied by the devilbane gaze improvement (but not the Will save penalty the original hypnotic stare imposes). Despite their moniker, devilbane gazes affect all outsiders equally well.
 

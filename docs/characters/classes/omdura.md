@@ -53,9 +53,13 @@ At 5th level and every 3 levels thereafter, an omdura can learn a new spell in p
 
 Unlike a cleric, an omdura need not prepare her spells in advance. She can cast any spell she knows at any time, assuming she has not yet used up her spells per day for that spell level.
 
-**Orisons**: Omduras learn a number of orisons, or 0-level spells. These spells are cast like any other spell, but they do not consume spell slots and can be cast again. Omduras do not need to provide a divine focus to cast spells that list divine focus (DF) as part of the components.
+### Orisons
 
-**Chaotic, Evil, Good, and Lawful Spells**: An omdura can’t cast spells of an alignment opposed to her own or her deity’s (if she has one). Spells associated with particular alignments are indicated by the chaos, evil, good, and law descriptors in their spell descriptions.
+Omduras learn a number of orisons, or 0-level spells. These spells are cast like any other spell, but they do not consume spell slots and can be cast again. Omduras do not need to provide a divine focus to cast spells that list divine focus (DF) as part of the components.
+
+### Chaotic, Evil, Good, and Lawful Spells
+
+An omdura can’t cast spells of an alignment opposed to her own or her deity’s (if she has one). Spells associated with particular alignments are indicated by the chaos, evil, good, and law descriptors in their spell descriptions.
 
 **Table: Omdura Spells Known**
 
@@ -104,7 +108,7 @@ An omdura needs only one free hand to use this ability. Using divine touch to ha
 
 ### Divine Infusion (Su)
 
-At 3rd level and every 3 levels thereafter, an omdura can select one divine infusion. Each infusion adds an effect to the omdura’s divine touch ability. The types of infusions available to the omdura are determined by the type of energy the omdura delivers with her divine touch. An omdura who delivers positive energy adds a mercy to her divine touch, treating her omdura level as her paladin level and her divine touch as the paladin’s lay on hands ability. An omdura who delivers negative energy adds a cruelty to her divine touch, treating her omdura level as her antipaladin level and her divine touch as the antipaladin’s touch of corruption ability. At 6th, 9th, and 12th level, she adds infusions to the list of those she can select as though she were a paladin or antipaladin (depending on her divine touch ability) of her omdura level. Divine infusion functions as either the cruelty or mercy class ability, depending on the omdura’s divine touch energy, for the purposes of feats, spells, or effects that work with those class features.
+At 3rd level and every 3 levels thereafter, an omdura can select one divine infusion. Each infusion adds an effect to the omdura’s divine touch ability. The types of infusions available to the omdura are determined by the type of energy the omdura delivers with her divine touch. An omdura who delivers positive energy adds a mercy to her divine touch, treating her omdura level as her paladin level and her divine touch as the [paladin’s lay on hands](paladin.md#lay-on-hands-su) ability. An omdura who delivers negative energy adds a cruelty to her divine touch, treating her omdura level as her antipaladin level and her divine touch as the [antipaladin’s touch of corruption](antipaladin.md#touch-of-corruption-su) ability. At 6th, 9th, and 12th level, she adds infusions to the list of those she can select as though she were a paladin or antipaladin (depending on her divine touch ability) of her omdura level. Divine infusion functions as either the cruelty or mercy class ability, depending on the omdura’s divine touch energy, for the purposes of feats, spells, or effects that work with those class features.
 
 ### Divine Might (Su)
 
@@ -154,13 +158,13 @@ In some cases, especially with regards to gods of magic, an omdura learns to man
 
 An arcane exemplar casts arcane spells drawn from the magus spell list, as a magus of her level. She uses her Charisma score and modifier in place of her Intelligence score and modifier for the purposes of learning spells, casting spells, determining spell DCs and bonus spells, and any other effects related to spellcasting.
 
-An arcane exemplar must study a spellbook each day to prepare her spells, as a magus. She begins play with a spellbook containing all 0-level magus spells plus three 1st-level magus spells of her choice. The arcane exemplar also selects a number of additional 1st-level magus spells equal to her Charisma modifier to add to her spellbook. At each new arcane exemplar level, she adds two new magus spells of any spell level or levels that she can cast (based on her new arcane exemplar level) to her spellbook. At any time, an arcane exemplar can also add spells found in other spellbooks to her own.
+An arcane exemplar must study a spellbook each day to prepare her spells, as a magus. She begins play with a spellbook containing all 0-level magus spells plus three 1st-level [magus spells](magus.md#spells) of her choice. The arcane exemplar also selects a number of additional 1st-level magus spells equal to her Charisma modifier to add to her spellbook. At each new arcane exemplar level, she adds two new magus spells of any spell level or levels that she can cast (based on her new arcane exemplar level) to her spellbook. At any time, an arcane exemplar can also add spells found in other spellbooks to her own.
 
 This alters spells and orisons.
 
 **Spellstrike (Su)**
 
-At 2nd level, an arcane exemplar gains the magus’s spellstrike class feature.
+At 2nd level, an arcane exemplar gains the [magus’s spellstrike](magus.md#spellstrike-su) class feature.
 
 This replaces divine touch.
 
@@ -168,7 +172,7 @@ This replaces divine touch.
 
 At 3rd level, an arcane exemplar gains one magus arcana. She gains an additional magus arcana at 6th level and every 3 levels thereafter. The arcane exemplar treats her omdura level as her magus level for the purpose of meeting prerequisites of a magus arcana.
 
-If a magus arcana requires the arcane exemplar to expend points from the magus arcane pool, the arcane exemplar can expend either minutes of her invocation ability or prepared spells in place of the required points. If she expends minutes of her invocation ability, each minute expended in this way counts as 1 point expended from the magus arcane pool. If she expends prepared spells, the number of points expended from the magus arcane pool is equal to the level of the expended prepared spell.
+If a magus arcana requires the arcane exemplar to expend points from the [magus arcane pool](magus.md#arcane-pool-su), the arcane exemplar can expend either minutes of her invocation ability or prepared spells in place of the required points. If she expends minutes of her invocation ability, each minute expended in this way counts as 1 point expended from the [magus arcane pool](magus.md#arcane-pool-su). If she expends prepared spells, the number of points expended from the magus arcane pool is equal to the level of the expended prepared spell.
 
 This replaces divine infusion.
 

@@ -190,7 +190,7 @@ At 2nd level and every three levels thereafter, a legendary gunslinger gains one
 
 - *Jury-Rig*: The legendary gunslinger ignores any penalty a firearm has for being broken. In addition, whenever she uses the quick clear deed, she reduces the action needed by 1 step, requiring a move action to clear the barrel and being able to spend 1 grit point to instead clear the barrel as a swift action.
 
-- *Local Legend*: The legendary gunslinger is well known in a specific community in which she gains the benefits of renown. She gains the renown vigilante social talent. This community can be an entire settlement or portions of a settlement (such as a particular district or neighborhood), depending on the population as allowed by the renown social talent. Anytime she could select another gun mastery, the legendary gunslinger can also select from the following list of social talents, using her legendary gunslinger level as her vigilante level for the purpose meeting of prerequisites: celebrity discount, celebrity perks, gossip collector, great renown, incredible renown, loyal aid, and safe house. For the purposes of vigilante social talents, the legendary gunslinger does not have a vigilante identity and is always considered to be in her social identity.
+- *Local Legend*: The legendary gunslinger is well known in a specific community in which she gains the benefits of renown. She gains the renown [vigilante social talent](../vigilante.md#social-talent). This community can be an entire settlement or portions of a settlement (such as a particular district or neighborhood), depending on the population as allowed by the renown social talent. Anytime she could select another gun mastery, the legendary gunslinger can also select from the following list of social talents, using her legendary gunslinger level as her vigilante level for the purpose meeting of prerequisites: celebrity discount, celebrity perks, gossip collector, great renown, incredible renown, loyal aid, and safe house. For the purposes of vigilante social talents, the legendary gunslinger does not have a vigilante identity and is always considered to be in her social identity.
 
 - *Long Shot*: The legendary gunslinger increases the range increment of firearms she wields by 1/2 its base range increment (minimum 10 ft.). This mastery can be selected multiple times, its effects stack.
 
@@ -280,9 +280,13 @@ Any character can take a bonus from the [universal favored class bonuses](../../
 
 A legendary gunslinger is able to select any favored class bonus that a gunslinger could. In addition, the following favored class bonuses are open to all characters, regardless of race:
 
-**All:** +1/6 of a gun mastery
+#### All
 
-**All:** +1/5 of a point of combat grit
++1/6 of a gun mastery
+
+#### All
+
++1/5 of a point of combat grit
 
 **Table: Archetypes / Alternate Class Features**
 

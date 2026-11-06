@@ -8,7 +8,7 @@ The following section details new animal and terrain domains for druids, vermin 
 
 ## Animal and Terrain Domains
 
-Presented in the section below are new rules for animal and terrain domains—domains for druids whose focus is more specific than the Animal, Plant, Weather, or elemental domains. A druid with the nature’s bond ability can choose an animal domain or terrain domain instead of one of the domains listed in the Pathfinder RPG Core Rulebook. Just like cleric domains, animal and terrain domains have granted powers and domain spells, and a druid who selects an animal or terrain domain gains a domain spell slot at each level. A druid who worships a deity (as opposed to nature in general) cannot select an animal or terrain domain that contradicts or is outside of the portfolio of her deity. Spells marked with an asterisk (\*) are detailed in Chapter 5 of this book. Spells marked with two asterisks (\*\*) are described in the Advanced Player’s Guide.
+Presented in the section below are new rules for animal and terrain domains—domains for druids whose focus is more specific than the Animal, Plant, Weather, or elemental domains. A druid with the nature’s bond ability can choose an animal domain or terrain domain instead of one of the domains listed in the Pathfinder RPG Core Rulebook. Just like [cleric domains](cleric.md#domains_1), animal and terrain domains have granted powers and domain spells, and a druid who selects an animal or terrain domain gains a domain spell slot at each level. A druid who worships a deity (as opposed to nature in general) cannot select an animal or terrain domain that contradicts or is outside of the portfolio of her deity. Spells marked with an asterisk (\*) are detailed in Chapter 5 of this book. Spells marked with two asterisks (\*\*) are described in the Advanced Player’s Guide.
 
 If an animal or terrain domain ability calls for a saving throw, the DC of the save is equal to 10 + 1/2 the character’s druid level + her Wisdom modifier.
 
@@ -142,7 +142,7 @@ You can only use this ability if you have at least 1 rank in the skill being use
 
 **Slither (Ex)**: As a free action, you can distend and stretch your body to fit easily through narrow spaces for 1 round. You can move freely through a tight space that would normally require a creature of your size to squeeze through. While slithering, you gain a +2 dodge bonus to Armor Class against attacks of opportunity provoked by your movement and a +2 bonus on CMB and on Escape Artist checks made to escape from a grapple. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
-**Venom Immunity (Ex)**: At 6th level, you gain immunity to poisons from snakes, reptiles, and creatures with the reptilian subtype. At 12th level, you gain immunity to all poisons. This replaces venom immunity.
+**Venom Immunity (Ex)**: At 6th level, you gain immunity to poisons from snakes, reptiles, and creatures with the reptilian subtype. At 12th level, you gain immunity to all poisons. This replaces [venom immunity](druid.md#venom-immunity-ex).
 
 **Domain Spells**: 1st—charm animal, 2nd—animal trance, 3rd—poison, 4th—strong jaw\*\*, 5th—snakestaff \*\*, 6th— charm monster, 7th—animal shapes (reptiles and snakes only), 8th—scintillating pattern, 9th—crushing hand.
 
@@ -256,37 +256,37 @@ Your totem is the legendary dragon, fearsome and deadly yet cunning and wise, a 
 
 **Totem Transformation (Su)**: At 2nd level, a dragon shaman may adopt an aspect of the dragon while retaining her normal form. She gains one of the following bonuses: movement (fly speed 30 feet [average], the druid must be 5th level to select this bonus), senses (low-light vision, +4 racial bonus to Perception), toughness (+2 natural armor bonus to AC, Endurance feat), or natural weapons (bite [1d6] and 2 claws [1d4] for a Medium shaman, +2 bonus on CMB on grapple checks). While using totem transformation, the dragon shaman may speak normally and can cast speak with animals (lizards only) at will. Using this ability is a standard action at 2nd level, a move action at 7th level, and a swift action at 12th level. The dragon shaman can use this ability for a number of minutes per day equal to her druid level. These minutes do not need to be consecutive, but they must be used in 1-minute increments. This is a polymorph effect and cannot be used while the druid is using another polymorph effect, such as wild shape.
 
-**Totemic Summons (Su)**: At 5th level, a dragon shaman may cast summon nature’s ally as a standard action when summoning lizards, and summoned lizards gain temporary hit points equal to her druid level. She can apply the young template to any lizard to reduce the level of the summoning spell required by one. She can also increase the level of summoning required by one in order to apply either the advanced or the giant template, or increase it by two to apply both the advanced and giant templates. This ability replaces a thousand faces.
+**Totemic Summons (Su)**: At 5th level, a dragon shaman may cast summon nature’s ally as a standard action when summoning lizards, and summoned lizards gain temporary hit points equal to her druid level. She can apply the young template to any lizard to reduce the level of the summoning spell required by one. She can also increase the level of summoning required by one in order to apply either the advanced or the giant template, or increase it by two to apply both the advanced and giant templates. This ability replaces [a thousand faces](druid.md#a-thousand-faces-su).
 
 **Wild Shape (Su)**: At 6th level, a dragon shaman’s wild shape ability functions at her druid level – 4. If she takes on the form of a lizard, she instead uses her unmodified druid level.
 
 **Dragon Bite (Su)**: At 8th level, a dragon shaman’s bite attack (whether using totem transformation or wild shape to take the form of a lizard) deals +1d6 points of energy damage (acid, cold, electricity, or fire). She chooses what kind of energy damage that she deals each time she bites. This ability replaces the additional use of wild shape at 8th level.
 
-**Bonus Feat**: At 9th level and every 4 levels thereafter, a dragon shaman gains one of the following bonus feats: [Combat Casting](../../rules/feats/combat-casting.md), [Dazzling Display](../../rules/feats/dazzling-display.md), [Magical Aptitude](../../rules/feats/magical-aptitude.md), Skill Focus (Knowledge [arcana]), and [Spell Penetration](../../rules/feats/spell-penetration.md). She must meet the prerequisites for these bonus feats. This ability replaces venom immunity.
+**Bonus Feat**: At 9th level and every 4 levels thereafter, a dragon shaman gains one of the following bonus feats: [Combat Casting](../../rules/feats/combat-casting.md), [Dazzling Display](../../rules/feats/dazzling-display.md), [Magical Aptitude](../../rules/feats/magical-aptitude.md), Skill Focus (Knowledge [arcana]), and [Spell Penetration](../../rules/feats/spell-penetration.md). She must meet the prerequisites for these bonus feats. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
 ## Menhir Savant
 
 Some druids study the paths of nature’s power through the nodes and ley lines that connect standing stones and megalithic circles, learning to tap into their energies.
 
-**Spirit Sense (Sp)**: At 1st level, a menhir savant can detect the presence of undead; fey; outsiders; and astral, ethereal, or incorporeal creatures. This ability functions like detect undead, and the druid detects all of these creatures rather than trying to detect one kind. This ability replaces nature sense and wild empathy.
+**Spirit Sense (Sp)**: At 1st level, a menhir savant can detect the presence of undead; fey; outsiders; and astral, ethereal, or incorporeal creatures. This ability functions like detect undead, and the druid detects all of these creatures rather than trying to detect one kind. This ability replaces [nature sense](druid.md#nature-sense-ex) and [wild empathy](druid.md#wild-empathy-ex).
 
-**Place Magic (Su)**: At 2nd level, a menhir savant learns to identify and tap into ley lines in different types of terrain. As a free action, she can tap into the magic of a nearby ley line and increase her caster level by +1 for 1 round. She can use this ability a number of times per day equal to 3 + her Wisdom bonus. This ability replaces woodland stride and trackless step.
+**Place Magic (Su)**: At 2nd level, a menhir savant learns to identify and tap into ley lines in different types of terrain. As a free action, she can tap into the magic of a nearby ley line and increase her caster level by +1 for 1 round. She can use this ability a number of times per day equal to 3 + her Wisdom bonus. This ability replaces [woodland stride](druid.md#woodland-stride-ex) and [trackless step](druid.md#trackless-step-ex).
 
 **Walk the Lines (Su)**: At 9th level, a menhir savant can use her connection to ley lines to cast transport via plants a number of times per day equal to her Wisdom bonus.
 
-**Empty Body (Su)**: At 13th level, a menhir savant can become ethereal as a standard action, as if using ethereal jaunt. She can remain ethereal for a number of rounds per day equal to her druid level. These rounds do not need to be consecutive. This ability replaces a thousand faces.
+**Empty Body (Su)**: At 13th level, a menhir savant can become ethereal as a standard action, as if using ethereal jaunt. She can remain ethereal for a number of rounds per day equal to her druid level. These rounds do not need to be consecutive. This ability replaces [a thousand faces](druid.md#a-thousand-faces-su).
 
 ## Mooncaller
 
 A mooncaller is bound to the subtle influences of the ever-changing moon and its endless cycles from light to dark and back again.
 
-**Night Sight (Ex)**: At 2nd level, a mooncaller gains low-light vision. If she already has low-light vision, she gains darkvision with a range of 30 feet. If she already has darkvision, the range of her darkvision is increased by 30 feet. This ability replaces woodland stride.
+**Night Sight (Ex)**: At 2nd level, a mooncaller gains low-light vision. If she already has low-light vision, she gains darkvision with a range of 30 feet. If she already has darkvision, the range of her darkvision is increased by 30 feet. This ability replaces [woodland stride](druid.md#woodland-stride-ex).
 
-**Resist Call of the Wild (Ex)**: At 4th level, a mooncaller gains a +4 bonus on saving throws to avoid confusion, daze, feeblemind, and insanity effects. She also gains a +4 bonus against the exceptional, spell-like, and supernatural abilities of creatures with the shapechanger subtype. This ability replaces resist nature’s lure.
+**Resist Call of the Wild (Ex)**: At 4th level, a mooncaller gains a +4 bonus on saving throws to avoid confusion, daze, feeblemind, and insanity effects. She also gains a +4 bonus against the exceptional, spell-like, and supernatural abilities of creatures with the shapechanger subtype. This ability replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
-**Purity of Body (Ex)**: At 9th level, a mooncaller gains immunity to all diseases, including supernatural and magical diseases. This ability replaces venom immunity.
+**Purity of Body (Ex)**: At 9th level, a mooncaller gains immunity to all diseases, including supernatural and magical diseases. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
-**Wolfsbane (Su)**: At 13th level, a mooncaller gains DR 3/ silver, increasing to DR 4/silver at 16th level and DR 5/silver at 19th level. This ability replaces a thousand faces.
+**Wolfsbane (Su)**: At 13th level, a mooncaller gains DR 3/ silver, increasing to DR 4/silver at 16th level and DR 5/silver at 19th level. This ability replaces [a thousand faces](druid.md#a-thousand-faces-su).
 
 ## Pack Lord
 
@@ -294,7 +294,7 @@ Some druids bond with many animal companions rather than just one, achieving a l
 
 **Pack Bond (Ex)**: A pack lord druid may not select a domain and must choose an animal companion. The druid gains a +2 bonus on wild empathy and Handle Animal checks made regarding her animal companion. The pack lord may have more than one animal companion, but she must divide up her effective druid level between her companions to determine the abilities of each companion. For example, a 4th-level pack lord can have one 4th-level companion, two 2nd-level companions, or one 1st-level and one 3rd-level companion.
 
-Each time a pack lord’s druid level increases, she must decide how to allocate the increase among her animal companions (including the option of adding a new 1st-level companion). Once a druid level is allocated to a particular companion, it cannot be redistributed while that companion is in the pack lord’s service (she must release the companion or wait until the companion dies to allocate its levels to another companion, which she can do the next time she prepares spells). The share spells animal companion ability only applies to one animal companion at a time—the pack lord cannot use it to cast a one-target spell and have it affect all of her animal companions. This ability replaces nature bond.
+Each time a pack lord’s druid level increases, she must decide how to allocate the increase among her animal companions (including the option of adding a new 1st-level companion). Once a druid level is allocated to a particular companion, it cannot be redistributed while that companion is in the pack lord’s service (she must release the companion or wait until the companion dies to allocate its levels to another companion, which she can do the next time she prepares spells). The share spells animal companion ability only applies to one animal companion at a time—the pack lord cannot use it to cast a one-target spell and have it affect all of her animal companions. This ability replaces [nature bond](druid.md#nature-bond-ex).
 
 **Improved Empathic Link (Su)**: The pack lord gains an empathic link with all of her animal companions. This functions like an empathic link with a familiar. In addition, as a swift action the pack lord can shift her perception to one of her companions, allowing her to experience what it sees, hears, and so on. She can maintain this connection as long as she likes (as long as the companion is within 1 mile) and end it as a free action. The druid can only use this ability on one companion at a time, and cannot see, hear, or smell with her own body while maintaining this connection. This ability replaces the 6th-level additional use of wild shape.
 
@@ -304,19 +304,19 @@ Spun off into the endless circle of life, an incarnate druid is an embodiment of
 
 **Mysterious Stranger (Ex)**: At 2nd level, a reincarnated druids adds 1/2 her druid level to the DC of Sense Motive, Diplomacy, and Knowledge checks to learn about her.
 
-This ability replaces woodland stride.
+This ability replaces [woodland stride](druid.md#woodland-stride-ex).
 
-**Resist Death’s Touch (Ex)**: At 4th level, a reincarnated druid gains a +4 bonus on saving throws against death effects, energy drain, and necromancy effects, and on stabilization checks when dying. This ability replaces resist nature’s lure.
+**Resist Death’s Touch (Ex)**: At 4th level, a reincarnated druid gains a +4 bonus on saving throws against death effects, energy drain, and necromancy effects, and on stabilization checks when dying. This ability replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
 **Many Lives (Ex)**: At 5th level, if a reincarnated druid is killed, she may automatically reincarnate (as the spell) 1 day later. The reincarnated druid appears in a safe location within 1 mile of her previous body. At will for the next 7 days, she can sense the presence of her remains as if using locate object as a spell-like ability. If she is killed during these 7 days, she remains dead and does not reincarnate. The many lives ability does not function if the reincarnated druid is slain by a death effect. A reincarnated druid cannot be raised from the dead or resurrected, though she can be reincarnated.
 
 **Wild Shape (Su)**: A reincarnated druid gains this ability at 6th level, and it functions at her druid level – 2.
 
-**Cheat Death (Ex)**: At 9th level, once per day, a reincarnated druid may reroll a save against a death effect, energy drain, or necromancy effect before the result of the roll is revealed, or reroll a failed stabilization check while dying. She must take the result of the second roll, even if it is worse than the original roll. This ability replaces venom immunity.
+**Cheat Death (Ex)**: At 9th level, once per day, a reincarnated druid may reroll a save against a death effect, energy drain, or necromancy effect before the result of the roll is revealed, or reroll a failed stabilization check while dying. She must take the result of the second roll, even if it is worse than the original roll. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
 **Tongue of the Sun and Moon (Ex)**: At 15th level, a reincarnated druid can speak with any living creature.
 
-This ability replaces timeless body.
+This ability replaces [timeless body](druid.md#timeless-body-ex).
 
 ## Saurian Shaman
 
@@ -334,7 +334,7 @@ If choosing a domain, a saurian shaman must choose from the Animal, Destruction,
 
 **Wild Shape (Su)**: At 6th level, a saurian shaman’s wild shape ability functions at her druid level –2. If she takes on the form of a reptile or a dinosaur, she instead uses her druid level +2.
 
-**Bonus Feat**: At 9th level and every 4 levels thereafter, a saurian shaman gains one of the following bonus feats: [Improved Overrun](../../rules/feats/improved-overrun.md), [Nimble Moves](../../rules/feats/nimble-moves.md), [Power Attack](../../rules/feats/power-attack.md), Skill Focus (Intimidate), or [Vital Strike](../../rules/feats/vital-strike.md). She must meet the prerequisites for these bonus feats. This ability replaces venom immunity.
+**Bonus Feat**: At 9th level and every 4 levels thereafter, a saurian shaman gains one of the following bonus feats: [Improved Overrun](../../rules/feats/improved-overrun.md), [Nimble Moves](../../rules/feats/nimble-moves.md), [Power Attack](../../rules/feats/power-attack.md), Skill Focus (Intimidate), or [Vital Strike](../../rules/feats/vital-strike.md). She must meet the prerequisites for these bonus feats. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
 ## Shark Shaman
 
@@ -350,45 +350,45 @@ Some druids emulate the deadly shark, a remorseless hunter that marine dwellers 
 
 **Wild Shape (Su)**: At 6th level, a shark shaman’s wild shape ability functions at her druid level –2. If she takes on the form of a shark, she instead uses her druid level +2.
 
-**Bonus Feat**: At 9th level and every 4 levels thereafter, a shark shaman gains one of the following bonus feats: [Bleeding Critical](../../rules/feats/bleeding-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Self-Sufficient, or Skill Focus (Swim). She must meet prerequisites for these bonus feats. This ability replaces venom immunity.
+**Bonus Feat**: At 9th level and every 4 levels thereafter, a shark shaman gains one of the following bonus feats: [Bleeding Critical](../../rules/feats/bleeding-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Self-Sufficient, or Skill Focus (Swim). She must meet prerequisites for these bonus feats. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
 ## Storm Druid
 
 While most druids focus their attention upon the rich earth and the bounty of nature that springs forth from it, the storm druid’s eyes have ever been cast to the skies and the endless expanse of blue, channeling the most raw and untamed aspects of nature.
 
-**Spontaneous Domain Casting**: A storm druid can channel stored spell energy into domain spells that she has not prepared ahead of time. She can “lose” a prepared spell in order to cast any domain spell of the same level or lower. This replaces spontaneous casting.
+**Spontaneous Domain Casting**: A storm druid can channel stored spell energy into domain spells that she has not prepared ahead of time. She can “lose” a prepared spell in order to cast any domain spell of the same level or lower. This replaces [spontaneous casting](druid.md#spontaneous-casting).
 
 **Nature Bond (Ex)**: A storm druid may not choose an animal companion. A storm druid must choose the Air or Weather domain, or the Cloud, Storm, or Wind subdomain.
 
-**Windwalker (Ex)**: At 2nd level, the penalties from natural or magical wind effects are treated as one step less severe for a storm druid. This ability replaces woodland stride.
+**Windwalker (Ex)**: At 2nd level, the penalties from natural or magical wind effects are treated as one step less severe for a storm druid. This ability replaces [woodland stride](druid.md#woodland-stride-ex).
 
-**Stormvoice (Ex)**: At 3rd level, a storm druid’s voice can magically carry over howling winds and peals of thunder. Whenever a Perception check is needed to hear the druid’s voice, the DC is reduced by an amount equal to the druid’s level. This ability replaces trackless step.
+**Stormvoice (Ex)**: At 3rd level, a storm druid’s voice can magically carry over howling winds and peals of thunder. Whenever a Perception check is needed to hear the druid’s voice, the DC is reduced by an amount equal to the druid’s level. This ability replaces [trackless step](druid.md#trackless-step-ex).
 
-**Eyes of the Storm (Ex)**: At 4th level, a storm druid can see through 10 feet of magical fog, mist, gas, wind, rain, or similar inclement weather conditions, ignoring any concealment it might grant. This distance increases by 5 feet for every 4 levels beyond 4th. This ability replaces resist nature’s lure.
+**Eyes of the Storm (Ex)**: At 4th level, a storm druid can see through 10 feet of magical fog, mist, gas, wind, rain, or similar inclement weather conditions, ignoring any concealment it might grant. This distance increases by 5 feet for every 4 levels beyond 4th. This ability replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
-**Windlord**: At 9th level, a storm druid can select another domain or subdomain from those available to her through her nature bond. This ability replaces venom immunity.
+**Windlord**: At 9th level, a storm druid can select another domain or subdomain from those available to her through her nature bond. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
-**Storm Lord (Ex)**: At 13th level, a storm druid is unaffected by natural and magical wind effects. She also becomes immune to deafness and gains +2 bonus on saving throws against sonic effects. This ability replaces a thousand faces.
+**Storm Lord (Ex)**: At 13th level, a storm druid is unaffected by natural and magical wind effects. She also becomes immune to deafness and gains +2 bonus on saving throws against sonic effects. This ability replaces [a thousand faces](druid.md#a-thousand-faces-su).
 
 ## Feral Shifter
 
 A feral shifter internalizes her communion with and mastery over animals. Instead of forming a bond with an animal companion or an aspect of nature, she alters her own essence or being as homage to the noble creatures of the wild. More in tune with transformation and animal bodies than a normal druid, a feral shifter blurs the line between humanoid and beast.
 
-**Animal Focus (Su)**: At 1st level, as a swift action, a feral shifter can take on the aspect of an animal, gaining a bonus or special ability based on the type of animal emulated. This functions as the hunter's animal focus class feature. The feral shifter can use this ability for a number of minutes per day equal to her druid level. This duration does not need to be consecutive, but it must be spent in I-minute increments. She can emulate only one animal at a time. This ability replaces nature bond.
+**Animal Focus (Su)**: At 1st level, as a swift action, a feral shifter can take on the aspect of an animal, gaining a bonus or special ability based on the type of animal emulated. This functions as the [hunter's animal focus](hunter.md#animal-focus-su) class feature. The feral shifter can use this ability for a number of minutes per day equal to her druid level. This duration does not need to be consecutive, but it must be spent in I-minute increments. She can emulate only one animal at a time. This ability replaces [nature bond](druid.md#nature-bond-ex).
 
-**Second Animal Focus (Su)**: At 9th level, when a feral shifter uses her animal focus ability, she selects two different animal aspects for herself instead of one. This ability replaces venom immunity, a thousand faces, and timeless body.
+**Second Animal Focus (Su)**: At 9th level, when a feral shifter uses her animal focus ability, she selects two different animal aspects for herself instead of one. This ability replaces [venom immunity](druid.md#venom-immunity-ex), [a thousand faces](druid.md#a-thousand-faces-su), and [timeless body](druid.md#timeless-body-ex).
 
 ## Nature Fang
 
 A nature fang is a druid who stalks and slays those who despoil nature, kill scarce animals, or introduce diseases to unprotected habitats. She gives up a close empathic connection with the natural world to become its deadly champion and avenger.
 
-**Studied Target (Ex)**: At 1st level, a nature fang gains the slayer's studied target class feature. At 5th level and every 5 levels thereafter, the nature fang's bonus against her studied target increases by 1 Unlike a slayer, a nature fang does not gain the ability to maintain more than one studied target at the same time. This ability replaces nature sense, wild empathy, and woodland stride.
+**Studied Target (Ex)**: At 1st level, a nature fang gains the [slayer's studied target](slayer.md#studied-target-ex) class feature. At 5th level and every 5 levels thereafter, the nature fang's bonus against her studied target increases by 1 Unlike a slayer, a nature fang does not gain the ability to maintain more than one studied target at the same time. This ability replaces [nature sense](druid.md#nature-sense-ex), [wild empathy](druid.md#wild-empathy-ex), and [woodland stride](druid.md#woodland-stride-ex).
 
-**Slayer Talent**: At 4th level and every 2 levels thereafter, a nature fang selects a slayer talent. Starting at 12th level, she can select an advanced slayer talent in place of a slayer talent. She uses her druid level as her slayer level to determine what talents she can select. This ability replaces wild shape.
+**Slayer Talent**: At 4th level and every 2 levels thereafter, a nature fang selects a slayer talent. Starting at 12th level, she can select an advanced slayer talent in place of a slayer talent. She uses her druid level as her slayer level to determine what talents she can select. This ability replaces [wild shape](druid.md#wild-shape-su).
 
-**Sneak Attack (Ex)**: At 4th level, a nature fang gains sneak attack + 1d6. This functions as the rogue sneak attack ability. If the nature fang gets a sneak attack bonus from another source, the bonuses on damage stack. This ability replaces resist nature's lure.
+**Sneak Attack (Ex)**: At 4th level, a nature fang gains sneak attack + 1d6. This functions as the [rogue sneak attack](rogue.md#sneak-attack) ability. If the nature fang gets a sneak attack bonus from another source, the bonuses on damage stack. This ability replaces [resist nature's lure](druid.md#resist-natures-lure-ex).
 
-**Swift Studied Target**: At 9th level, a nature fang can study an opponent as a move or swift action. This ability replaces venom immunity.
+**Swift Studied Target**: At 9th level, a nature fang can study an opponent as a move or swift action. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
 **Slayer Talents**: The following slayer talents complement the nature fang archetype: foil scrutiny, poison use, ranger combat style. Additionally, the following rogue talents, which are also available to slayers, complement the archetype: bleeding attack, camouflage, fast stealth, finesse rogue, lasting poison, rogue crawl, slow reactions, surprise attack, swift poison, terrain mastery.
 
@@ -398,9 +398,9 @@ A nature fang is a druid who stalks and slays those who despoil nature, kill sca
 
 A wild whisperer is an expert at studying, predicting, and explaining animal behavior. She is less interested in plants, fey, and other aspects of the natural world, and uses her gifts to tame or relocate dangerous beasts and soothe the hurts of wounded and sickly creatures.
 
-**Inspiration (Ex)**: At 2nd level, a wild whisperer gains an inspiration pool as the investigator class ability. A wild whisperer uses her druid level as her investigator level when determining the effects of this ability. Instead of free uses of inspiration on Knowledge, Linguistics, or Spellcraft skill checks, the wild whisperer can use inspiration on Handle Animal, Heal, Knowledge (geography), KKnowledge (nature), Ride, Sense Motive, and Survival skill checks without expending a use of inspiration, provided she's trained in the relevant skill. She can also use inspiration on any wild empathy check without expending a use of inspiration. A wild whisperer's inspiration pool refreshes each day when she prepares spells. This ability replaces woodland stride, trackless step, and resist nature's lure.
+**Inspiration (Ex)**: At 2nd level, a wild whisperer gains an inspiration pool as the [investigator class ability](investigator.md#inspiration-ex). A wild whisperer uses her druid level as her investigator level when determining the effects of this ability. Instead of free uses of inspiration on Knowledge, Linguistics, or Spellcraft skill checks, the wild whisperer can use inspiration on Handle Animal, Heal, Knowledge (geography), KKnowledge (nature), Ride, Sense Motive, and Survival skill checks without expending a use of inspiration, provided she's trained in the relevant skill. She can also use inspiration on any wild empathy check without expending a use of inspiration. A wild whisperer's inspiration pool refreshes each day when she prepares spells. This ability replaces [woodland stride](druid.md#woodland-stride-ex), [trackless step](druid.md#trackless-step-ex), and [resist nature's lure](druid.md#resist-natures-lure-ex).
 
-**Wild Shape (Ex)**: At 4th level, a wild whisperer gains the wild shape ability, but she never gains the ability to take the form of an elemental or plant. This ability alters wild shape.
+**Wild Shape (Ex)**: At 4th level, a wild whisperer gains the wild shape ability, but she never gains the ability to take the form of an elemental or plant. This ability alters [wild shape](druid.md#wild-shape-su).
 
 **Natural Expertise (Ex)**: At 6th level, a wild whisperer's powers of observation give her an advantage when she's fighting natural creatures. When using inspiration on an attack roll against an animal or a vermin or on a saving throw against an effect from an animal or a vermin, a wild whisperer has to expend only one use of inspiration instead of two. This ability replaces the increase to wild shape given at 6th level. Investigator Talent: At 8th level, wild whisperer selects an investigator talent. This ability replaces the increase to wild shape given at 8th level.
 
@@ -416,15 +416,15 @@ A shaman with this totem calls upon the mighty ape, a peaceful but powerful simi
 
 **Totem Transformation (Su)**: At 2nd level, an ape shaman may adopt an aspect of the ape while retaining her normal form. The druid gains one of the following sets of bonuses and abilities: movement (climb speed 20 ft., +4 racial bonus on Climb checks), senses (low-light vision, scent), natural weapons (2 slams [1d6 for a Medium shaman], +2 on combat maneuver checks to grapple), or toughness (+2 natural armor bonus to AC, Endurance feat).
 
-While using totem transformation, the ape shaman may speak normally and can cast speak with animals (primates only) at will. Using this ability is a standard action at 2nd level, a move action at 7th level, and a swift action at 12th level. The ape shaman can use this ability for a number of minutes per day equal to her druid level. These minutes do not need to be consecutive, but they must be used in 1-minute increments. This is a polymorph effect and cannot be used while the druid is using another polymorph effect, such as wild shape. This ability replaces woodland stride.
+While using totem transformation, the ape shaman may speak normally and can cast speak with animals (primates only) at will. Using this ability is a standard action at 2nd level, a move action at 7th level, and a swift action at 12th level. The ape shaman can use this ability for a number of minutes per day equal to her druid level. These minutes do not need to be consecutive, but they must be used in 1-minute increments. This is a polymorph effect and cannot be used while the druid is using another polymorph effect, such as wild shape. This ability replaces [woodland stride](druid.md#woodland-stride-ex).
 
-**Totemic Summons (Su)**: At 5th level, an ape shaman may cast summon nature’s ally as a standard action when summoning primates, and these summoned creatures gain temporary hit points equal to her druid level. She can apply the young template to any primate to reduce the level of the summoning spell required by one. She can also increase the level of summoning required by one in order to apply either the advanced or the giant template, or increase it by two to apply both the advanced and giant templates. This ability replaces a thousand faces.
+**Totemic Summons (Su)**: At 5th level, an ape shaman may cast summon nature’s ally as a standard action when summoning primates, and these summoned creatures gain temporary hit points equal to her druid level. She can apply the young template to any primate to reduce the level of the summoning spell required by one. She can also increase the level of summoning required by one in order to apply either the advanced or the giant template, or increase it by two to apply both the advanced and giant templates. This ability replaces [a thousand faces](druid.md#a-thousand-faces-su).
 
 **Wild Shape (Su)**: At 6th level, an ape shaman’s wild shape ability functions at her druid level –2. If she takes on the form of an ape, she instead uses her druid level +2.
 
 **Bonus Feat**: At 9th level and every four levels thereafter, an ape shaman gains one of the following bonus feats:
 
-Diehard, Endurance, [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), and Toughness. She must meet the prerequisites for these bonus feats. This ability replaces venom immunity.
+Diehard, Endurance, [Great Fortitude](../../rules/feats/great-fortitude.md), [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), and Toughness. She must meet the prerequisites for these bonus feats. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
 ## Bat Shaman
 
@@ -436,7 +436,7 @@ The bat shaman’s totem is the agile bat, flitting and turning with incredible 
 
 **Totem Transformation (Su)**: At 2nd level, a bat shaman may adopt an aspect of the bat while retaining her normal form. This ability functions as the ape shaman ability, but the druid may select from the following sets of bonuses and abilities: movement (fly speed 30 ft. [average]; the druid must be at least 5th level to select this bonus), natural weapons (bite [1d4 for a Medium shaman]), or senses (blindsense 20 ft.).
 
-While using totem transformation, the bat shaman may speak normally and can cast speak with animals (bats only) at will. This ability replaces woodland stride.
+While using totem transformation, the bat shaman may speak normally and can cast speak with animals (bats only) at will. This ability replaces [woodland stride](druid.md#woodland-stride-ex).
 
 **Totemic Summons (Su)**: At 5th level, a bat shaman may cast summon nature’s ally as a standard action when summoning bats, and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the ape shaman ability.
 
@@ -444,7 +444,7 @@ While using totem transformation, the bat shaman may speak normally and can cast
 
 **Bonus Feat**: At 9th level and every four levels thereafter, a bat shaman gains one of the following bonus feats:
 
-Acrobatic, [Agile Maneuvers](../../rules/feats/agile-maneuvers.md), Improved Initiative, Lightning Reflexes, or Skill Focus (Perception). She must meet the prerequisites for these bonus feats. This ability replaces venom immunity.
+Acrobatic, [Agile Maneuvers](../../rules/feats/agile-maneuvers.md), Improved Initiative, Lightning Reflexes, or Skill Focus (Perception). She must meet the prerequisites for these bonus feats. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
 ## Boar Shaman
 
@@ -454,7 +454,7 @@ A boar shaman chooses the stolid and ferocious boar as her totem. Content to be 
 
 **Wild Empathy (Ex)**: A boar shaman can use wild empathy with porcine creatures as a full-round action with a +4 bonus.
 
-**Totem Transformation (Su)**: At 2nd level, a boar shaman may adopt an aspect of the boar while retaining her normal form. This ability functions as the ape shaman ability, but the druid may select from the following sets of bonuses and abilities: movement (+10 enhancement bonus to land speed), senses (low-light vision, scent), natural weapons (gore [1d8 for a Medium druid], +2 on combat maneuver checks to overrun), or toughness (+2 natural armor bonus to AC, Endurance feat). While using totem transformation, the boar shaman may speak normally and can cast speak with animals (boars and related animals only) at will. This ability replaces woodland stride.
+**Totem Transformation (Su)**: At 2nd level, a boar shaman may adopt an aspect of the boar while retaining her normal form. This ability functions as the ape shaman ability, but the druid may select from the following sets of bonuses and abilities: movement (+10 enhancement bonus to land speed), senses (low-light vision, scent), natural weapons (gore [1d8 for a Medium druid], +2 on combat maneuver checks to overrun), or toughness (+2 natural armor bonus to AC, Endurance feat). While using totem transformation, the boar shaman may speak normally and can cast speak with animals (boars and related animals only) at will. This ability replaces [woodland stride](druid.md#woodland-stride-ex).
 
 **Totemic Summons (Su)**: At 5th level, a boar shaman may cast summon nature’s ally as a standard action when summoning boars or other porcine creatures, and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the ape shaman ability.
 
@@ -462,21 +462,21 @@ A boar shaman chooses the stolid and ferocious boar as her totem. Content to be 
 
 **Bonus Feat**: At 9th level and every four levels thereafter, a boar shaman gains one of the following bonus feats:
 
-Bleeding Critical, Blind-Fight, Diehard, or Improved Overrun. She must meet the prerequisites for these bonus feats. This ability replaces venom immunity.
+Bleeding Critical, Blind-Fight, Diehard, or Improved Overrun. She must meet the prerequisites for these bonus feats. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
 ## World Walker
 
 While all druids traverse the wilderness with ease, the world walkers take it upon themselves to travel the entire world. Some act as messengers and scouts for druidic circles, while others have a seemingly unquenchable wanderlust; each new land provides new mysteries to discover and new wisdom to be gained from mastering those mysteries.
 
-**Favored Terrain (Ex)**: At 3rd level, the world walker gains the ranger’s favored terrain ability. She treats her druid level as her ranger level for this ability. If she has levels in both classes, both class’s levels stack for determining the effect of this ability. This ability replaces trackless step and resist nature’s lore.
+**Favored Terrain (Ex)**: At 3rd level, the world walker gains the [ranger’s favored terrain](ranger.md#favored-terrain-ex) ability. She treats her druid level as her ranger level for this ability. If she has levels in both classes, both class’s levels stack for determining the effect of this ability. This ability replaces [trackless step](druid.md#trackless-step-ex) and resist nature’s lore.
 
-**Path of Trees (Su)**: At 9th level, once a day, a wanderer can step within a tree and then teleport from that tree to another one in a manner similar to the tree stride spell. She gains an extra use of this ability each day at 12th level, and a third use of this ability at 15th level. Furthermore, a world walker of 13th level or higher can use this ability to teleport to any other tree of its type up to 100 miles away. This ability replaces both venom immunity and timeless body.
+**Path of Trees (Su)**: At 9th level, once a day, a wanderer can step within a tree and then teleport from that tree to another one in a manner similar to the tree stride spell. She gains an extra use of this ability each day at 12th level, and a third use of this ability at 15th level. Furthermore, a world walker of 13th level or higher can use this ability to teleport to any other tree of its type up to 100 miles away. This ability replaces both venom immunity and [timeless body](druid.md#timeless-body-ex).
 
 ## Season Sage
 
 Season sages wander as the seasons change, turning the leaves and transforming nature as they pass and taking pleasure in the transition between seasons.
 
-**Season’s Touch (Su)**: At 4th level, a season sage can infuse living things with the essence of a season with a touch, causing them to manifest the changes associated with that season—for example, a touch of winter can make some animals grow a thick winter coat, while a touch of summer can make them shed. A touch of autumn would make a deciduous tree’s leaves change colors, a touch of winter would make its leaves fall, and a touch of spring would make it put forth new leaves. In addition, a season sage can use the following abilities (in any combination) a total number of times per day equal to 1 + his Wisdom modifier. This replaces wild shape.
+**Season’s Touch (Su)**: At 4th level, a season sage can infuse living things with the essence of a season with a touch, causing them to manifest the changes associated with that season—for example, a touch of winter can make some animals grow a thick winter coat, while a touch of summer can make them shed. A touch of autumn would make a deciduous tree’s leaves change colors, a touch of winter would make its leaves fall, and a touch of spring would make it put forth new leaves. In addition, a season sage can use the following abilities (in any combination) a total number of times per day equal to 1 + his Wisdom modifier. This replaces [wild shape](druid.md#wild-shape-su).
 
 **Vernal Growth**: A touched living creature gains the effects of enlarge person (even if it is not a humanoid) for 1 minute per druid level. A touched non-creature plant likewise doubles in all dimensions for the same duration.
 
@@ -502,21 +502,21 @@ Season sages wander as the seasons change, turning the leaves and transforming n
 
 The aerie protector guards nature’s nests and lairs in the highest mountains, and she is only ever truly at ease when under vast expanses of open sky.
 
-**Weapon and Armor Proficiency**: Aerie protectors are proficient with [javelins](../../equipment/weapons-simple.md#simple-ranged-weapons) and [shortbows](../../equipment/weapons-martial.md#martial-ranged-weapons) but not with [scimitars](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons) or [scythes](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons). Aerie protectors are not proficient with [medium armor](../../equipment/armor.md). This alters the druid’s weapon and armor proficiency.
+**Weapon and Armor Proficiency**: Aerie protectors are proficient with [javelins](../../equipment/weapons-simple.md#simple-ranged-weapons) and [shortbows](../../equipment/weapons-martial.md#martial-ranged-weapons) but not with [scimitars](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons) or [scythes](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons). Aerie protectors are not proficient with [medium armor](../../equipment/armor.md). This alters the [druid’s weapon and armor proficiency](druid.md#weapon-and-armor-proficiency).
 
 **Nature Bond**: If the aerie protector chooses an animal companion as her nature bond, she must choose an animal with a fly speed. She can use spells or other effects to alter her companion’s fly speed, but it must be able to fly on its own before it becomes her companion.
 
-If the aerie protector chooses a domain as her nature bond, she must choose the Air, Eagle, Earth, Mountain, or Weather domain. This alters nature bond.
+If the aerie protector chooses a domain as her nature bond, she must choose the Air, Eagle, Earth, Mountain, or Weather domain. This alters [nature bond](druid.md#nature-bond-ex).
 
-**Wild Empathy (Ex)**: An aerie protector gains a +4 bonus on wild empathy checks on flying animals, but she takes a –4 penalty on checks on other animals. This alters wild empathy.
+**Wild Empathy (Ex)**: An aerie protector gains a +4 bonus on wild empathy checks on flying animals, but she takes a –4 penalty on checks on other animals. This alters [wild empathy](druid.md#wild-empathy-ex).
 
-**Sky and Stone (Ex)**: At 2nd level, an aerie protector gains a bonus equal to half her level on Knowledge (geography) and Survival checks involving mountainous terrain or high altitudes, and she cannot be tracked in such an environment. This replaces woodland stride.
+**Sky and Stone (Ex)**: At 2nd level, an aerie protector gains a bonus equal to half her level on Knowledge (geography) and Survival checks involving mountainous terrain or high altitudes, and she cannot be tracked in such an environment. This replaces [woodland stride](druid.md#woodland-stride-ex).
 
-**Wind at Her Back (Su)**: At 4th level, an aerie protector gains a +4 bonus to CMD and on saving throws against the effects of high altitude and effects that rely on air pressure or strong wind to move her or impede her flight. This bonus also applies on Reflex saves against effects that deal electricity damage. This replaces resist nature’s lure.
+**Wind at Her Back (Su)**: At 4th level, an aerie protector gains a +4 bonus to CMD and on saving throws against the effects of high altitude and effects that rely on air pressure or strong wind to move her or impede her flight. This bonus also applies on Reflex saves against effects that deal electricity damage. This replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
 **Wild Shape**: An aerie protector gains this ability at 6th level, except her effective druid level is her druid level – 2. If she takes on the form of a flying animal, she instead uses her druid level + 2.
 
-**In the Wind (Ex)**: At 9th level, the climb and fly speeds of forms the aerie protector assumes with her wild shape ability (if any) increase by 10 feet. The maneuverability of her flying forms improves by one category. This replaces venom immunity.
+**In the Wind (Ex)**: At 9th level, the climb and fly speeds of forms the aerie protector assumes with her wild shape ability (if any) increase by 10 feet. The maneuverability of her flying forms improves by one category. This replaces [venom immunity](druid.md#venom-immunity-ex).
 
 ## Dinosaur Druid
 
@@ -540,29 +540,29 @@ A dinosaur druid speaks for the spirit of prehistoric nature, even taking the fo
 
 **Summon Nature’s Ally VIII**: Diplodocus, spinosaurus.
 
-**Summon Nature’s Ally IX**: Giganotosaurus. This alters spontaneous casting.
+**Summon Nature’s Ally IX**: Giganotosaurus. This alters [spontaneous casting](druid.md#spontaneous-casting).
 
 **Dinosaur Bond (Ex)**: A dinosaur druid must choose an animal companion as her nature’s bond, and the animal companion must be a dinosaur (including those detailed in Pathfinder RPG Bestiary volumes). This alters nature’s bond.
 
-**Dinosaur Shape (Su)**: A dinosaur druid specializes in assuming the form of dinosaurs when using wild shape. When she assumes the form of a dinosaur via wild shape, she gains a +2 size bonus to her Constitution in addition to the other modifiers granted by beast shape. When she uses wild shape to assume the form of a creature other than a dinosaur, the wild shape effect lasts for only 1 minute per level, rather than 1 hour per level. This alters wild shape.
+**Dinosaur Shape (Su)**: A dinosaur druid specializes in assuming the form of dinosaurs when using wild shape. When she assumes the form of a dinosaur via wild shape, she gains a +2 size bonus to her Constitution in addition to the other modifiers granted by beast shape. When she uses wild shape to assume the form of a creature other than a dinosaur, the wild shape effect lasts for only 1 minute per level, rather than 1 hour per level. This alters [wild shape](druid.md#wild-shape-su).
 
-**Primeval Voice (Su)**: At 4th level, a dinosaur druid gains the ability to speak with dinosaurs (as per speak with animals) at all times. This replaces resist nature’s lure.
+**Primeval Voice (Su)**: At 4th level, a dinosaur druid gains the ability to speak with dinosaurs (as per speak with animals) at all times. This replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
 ## Leshy Warden
 
 The natural world is full of bodiless nature spirits connected to the forces of glades, springs, and individual plants. Some druids hear their call keenly and are able to effortlessly incarnate them as the miniature creatures known as leshys. The leshy warden serves as these spirits’ ally, defender, and voice.
 
-**Leshy Familiar (Ex)**: A leshy warden forms an intimate bond with a nature spirit, incarnating the spirit as a leaf leshy. She gains a leaf leshy as a familiar and treats her druid level as her effective wizard level for the purpose of this ability. If the leshy dies, the leshy warden can incarnate the same spirit again by paying the normal cost to replace a familiar. So long as the leshy lives, the leshy warden gains access to the Plant domain as if through a druid’s nature bond class feature, but she can’t choose the Decay subdomain. This replaces nature bond.
+**Leshy Familiar (Ex)**: A leshy warden forms an intimate bond with a nature spirit, incarnating the spirit as a leaf leshy. She gains a leaf leshy as a familiar and treats her druid level as her effective wizard level for the purpose of this ability. If the leshy dies, the leshy warden can incarnate the same spirit again by paying the normal cost to replace a familiar. So long as the leshy lives, the leshy warden gains access to the Plant domain as if through a [druid’s nature bond](druid.md#nature-bond-ex) class feature, but she can’t choose the Decay subdomain. This replaces [nature bond](druid.md#nature-bond-ex).
 
-**Green Empathy (Ex)**: A leshy warden can improve the attitude of a plant creature as if using wild empathy. The typical wild plant creature has a starting attitude of indifferent. If the plant creature is mindless, the leshy warden imparts a modicum of intellect to the plant so that it can be interacted with as if it were an animal. A leshy warden can also use this ability to influence an animal, but she takes a –4 penalty on the check to do so. This replaces wild empathy.
+**Green Empathy (Ex)**: A leshy warden can improve the attitude of a plant creature as if using wild empathy. The typical wild plant creature has a starting attitude of indifferent. If the plant creature is mindless, the leshy warden imparts a modicum of intellect to the plant so that it can be interacted with as if it were an animal. A leshy warden can also use this ability to influence an animal, but she takes a –4 penalty on the check to do so. This replaces [wild empathy](druid.md#wild-empathy-ex).
 
-**Leshy Summoner (Ex)**: A leshy warden is an expert at summoning and growing leshys. She counts as a plant creature for the purpose of growing leshys. She adds leaf leshys, gourd leshys, fungus leshys, seaweed leshys, and lotus leshys to her list of creatures she can summon with summon nature’s ally I, II, III, IV, and V, respectively. This alters spontaneous casting.
+**Leshy Summoner (Ex)**: A leshy warden is an expert at summoning and growing leshys. She counts as a plant creature for the purpose of growing leshys. She adds leaf leshys, gourd leshys, fungus leshys, seaweed leshys, and lotus leshys to her list of creatures she can summon with summon nature’s ally I, II, III, IV, and V, respectively. This alters [spontaneous casting](druid.md#spontaneous-casting).
 
-**Leshy Tender (Ex)**: At 4th level, a leshy warden can either grant her leaf leshy a +2 increase to Strength and Dexterity or transform it into a gourd leshy. At 8th level, the leshy warden can either grant her current leshy a +2 increase to Strength and Dexterity or transform it into a fungus leshy. At 12th level, she can either grant her current leshy a final +2 increase to Strength and Dexterity or transform it into a seaweed leshy. If the leshy is transformed, it gains the normal ability scores of its new form; ability score increases granted by this ability don’t carry over to its new form. This replaces resist nature’s lure.
+**Leshy Tender (Ex)**: At 4th level, a leshy warden can either grant her leaf leshy a +2 increase to Strength and Dexterity or transform it into a gourd leshy. At 8th level, the leshy warden can either grant her current leshy a +2 increase to Strength and Dexterity or transform it into a fungus leshy. At 12th level, she can either grant her current leshy a final +2 increase to Strength and Dexterity or transform it into a seaweed leshy. If the leshy is transformed, it gains the normal ability scores of its new form; ability score increases granted by this ability don’t carry over to its new form. This replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
-**Wild Shape (Su)**: A leshy warden gains this ability at 6th level, except her effective druid level for the ability is equal to her druid level – 2 for the purpose of determining the number of times per day she can use it. At 6th level, the leshy warden can assume the form of only Small or Medium plant creatures, as per plant shape I. At 8th level, she can take the form of a Large plant creature, as per plant shape II. At 10th level, she can take the form of a Huge plant creature, as per plant shape III. This alters wild shape.
+**Wild Shape (Su)**: A leshy warden gains this ability at 6th level, except her effective druid level for the ability is equal to her druid level – 2 for the purpose of determining the number of times per day she can use it. At 6th level, the leshy warden can assume the form of only Small or Medium plant creatures, as per plant shape I. At 8th level, she can take the form of a Large plant creature, as per plant shape II. At 10th level, she can take the form of a Huge plant creature, as per plant shape III. This alters [wild shape](druid.md#wild-shape-su).
 
-**Plant Whisperer (Su)**: At 13th level, a leshy warden’s connection to the spirits of nature becomes strong enough that she can always hear them whispering. She is treated as if constantly under the effects of speak with plants. Once per day, she can spend 10 minutes in communion with the spirits to learn the answers to her questions, as commune with nature. This replaces a thousand faces.
+**Plant Whisperer (Su)**: At 13th level, a leshy warden’s connection to the spirits of nature becomes strong enough that she can always hear them whispering. She is treated as if constantly under the effects of speak with plants. Once per day, she can spend 10 minutes in communion with the spirits to learn the answers to her questions, as commune with nature. This replaces [a thousand faces](druid.md#a-thousand-faces-su).
 
 ## River Druid
 
@@ -570,63 +570,63 @@ These druids are the guardians of rivers and the creatures that depend on them. 
 
 **Ferrier (Ex)**: A river druid adds Diplomacy to her list of class skills and gains a +2 bonus on Diplomacy and Knowledge (nature) skill checks. This alters the druid’s class skills and replaces nature sense.
 
-**Read the Currents (Ex)**: At 2nd level, a river druid gains a bonus equal to half her druid level on initiative checks and Acrobatics, Knowledge (geography), Perception, Stealth, Survival, and Swim checks when she is in, on, or adjacent to flowing water. This replaces woodland stride.
+**Read the Currents (Ex)**: At 2nd level, a river druid gains a bonus equal to half her druid level on initiative checks and Acrobatics, Knowledge (geography), Perception, Stealth, Survival, and Swim checks when she is in, on, or adjacent to flowing water. This replaces [woodland stride](druid.md#woodland-stride-ex).
 
-**Countercurrent (Ex)**: At 3rd level, a river druid takes no penalty to speed or on Acrobatics or Stealth checks in shallow water up to 2 feet deep (1 foot deep for Small characters) such as shallow bogs, shorelines, streams, and partially flooded areas. A river druid (and any vehicle she pilots) isn’t moved by flowing water unless she allows it. Water that has been magically manipulated to impede or boost motion still affects her. This replaces trackless step.
+**Countercurrent (Ex)**: At 3rd level, a river druid takes no penalty to speed or on Acrobatics or Stealth checks in shallow water up to 2 feet deep (1 foot deep for Small characters) such as shallow bogs, shorelines, streams, and partially flooded areas. A river druid (and any vehicle she pilots) isn’t moved by flowing water unless she allows it. Water that has been magically manipulated to impede or boost motion still affects her. This replaces [trackless step](druid.md#trackless-step-ex).
 
-**Deep Breath (Ex)**: At 4th level, a river druid can hold her breath for a number of minutes equal to her Constitution score (after this, she must begin attempting Constitution checks to avoid suffocation as normal). This replaces resist nature’s lure.
+**Deep Breath (Ex)**: At 4th level, a river druid can hold her breath for a number of minutes equal to her Constitution score (after this, she must begin attempting Constitution checks to avoid suffocation as normal). This replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
-**Wild Shape (Su)**: A river druid gains this ability at 6th level, except her effective druid level for the ability is equal to her druid level – 2. This alters wild shape.
+**Wild Shape (Su)**: A river druid gains this ability at 6th level, except her effective druid level for the ability is equal to her druid level – 2. This alters [wild shape](druid.md#wild-shape-su).
 
-**Tongue of the Sun and Moon (Ex)**: At 15th level, a river druid can speak with any living creature. This replaces timeless body.
+**Tongue of the Sun and Moon (Ex)**: At 15th level, a river druid can speak with any living creature. This replaces [timeless body](druid.md#timeless-body-ex).
 
 ## Road Keeper
 
 Guardians of the lonely paths between cities, road keepers protect the wild from travelers, and travelers from the wild.
 
-**One with the Road (Su)**: A road keeper casts the following spells as though her caster level were 1 higher: 1st—longstrider, 2nd—scent trail, 3rd—nature’s exile, 4th—freedom of movement, 5th—tree stride, 6th—find the path, 7th—wind walk, 8th—word of recall, 9th—world wave. At 9th level, the bonus to her caster level for these spells increases to +2. This replaces spontaneous casting.
+**One with the Road (Su)**: A road keeper casts the following spells as though her caster level were 1 higher: 1st—longstrider, 2nd—scent trail, 3rd—nature’s exile, 4th—freedom of movement, 5th—tree stride, 6th—find the path, 7th—wind walk, 8th—word of recall, 9th—world wave. At 9th level, the bonus to her caster level for these spells increases to +2. This replaces [spontaneous casting](druid.md#spontaneous-casting).
 
-**Road Bond (Ex)**: If the road keeper chooses a cleric domain as her nature bond, she must choose from the Community, Liberation, Protection, Travel, or Weather domains. The road keeper can also choose any subdomain associated with these domains. This alters nature bond and replaces wild empathy.
+**Road Bond (Ex)**: If the road keeper chooses a cleric domain as her nature bond, she must choose from the Community, Liberation, Protection, Travel, or Weather domains. The road keeper can also choose any subdomain associated with these domains. This alters [nature bond](druid.md#nature-bond-ex) and replaces [wild empathy](druid.md#wild-empathy-ex).
 
-**Take the High Road (Ex)**: At 2nd level, a road keeper travels over roads and paths at an accelerated rate. She and her allies can hustle for 2 hours without taking nonlethal damage, instead of 1, provided they travel along a road or path. Additionally, as long as they travel on a road or path, the road keeper and her allies count as traveling along a highway regardless of the quality of the road or path on which they travel. Allies must remain within 30 feet of the road keeper to benefit from this ability. This replaces woodland stride.
+**Take the High Road (Ex)**: At 2nd level, a road keeper travels over roads and paths at an accelerated rate. She and her allies can hustle for 2 hours without taking nonlethal damage, instead of 1, provided they travel along a road or path. Additionally, as long as they travel on a road or path, the road keeper and her allies count as traveling along a highway regardless of the quality of the road or path on which they travel. Allies must remain within 30 feet of the road keeper to benefit from this ability. This replaces [woodland stride](druid.md#woodland-stride-ex).
 
-**Trodden Path (Ex)**: At 4th level, a road keeper gains a +4 bonus on Survival checks to follow or identify tracks. She also gains this bonus on saving throws against severe weather effects. This replaces resist nature’s lure.
+**Trodden Path (Ex)**: At 4th level, a road keeper gains a +4 bonus on Survival checks to follow or identify tracks. She also gains this bonus on saving throws against severe weather effects. This replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
 **Road Less Traveled (Su)**: At 4th level, a road keeper can discourage creatures from entering or exiting the wild. Once per day as a standard action, she can target a creature within 30 feet and curse it with clumsiness and disorientation. The road keeper chooses whether to punish her target for entering the wild from a road or building, or vice versa. If her target is entering the wild, it treats every square of wilderness not on a road or in a building as difficult terrain. If her target is exiting the wild, it treats every square on a road or inside a building as difficult terrain. In either case, the ground feels uneven and the target suffers extreme vertigo during movement. The victim of this curse can attempt a Will saving throw (DC = 10 + half the road keeper’s level + her Wisdom modifier) at the beginning of its turn each round to end the effect. The effect lasts until the target successfully saves or for a number of minutes equal to the road keeper’s level. A creature’s movement isn’t affected if it is burrowing, climbing, earth gliding, flying, or swimming. This is a mind-affecting curse effect.
 
-At 6th level and every 2 levels thereafter, the road keeper can target an additional creature per day with this ability (to a maximum number of nine targets per day at 20th level). She can target more than one creature with a single use of this ability or the same target more than once in the same day (though its effects do not stack), but her total number of targets per day cannot exceed this daily maximum. If she targets more than one creature at one time, each target must be within 30 feet of the road keeper. This replaces wild shape.
+At 6th level and every 2 levels thereafter, the road keeper can target an additional creature per day with this ability (to a maximum number of nine targets per day at 20th level). She can target more than one creature with a single use of this ability or the same target more than once in the same day (though its effects do not stack), but her total number of targets per day cannot exceed this daily maximum. If she targets more than one creature at one time, each target must be within 30 feet of the road keeper. This replaces [wild shape](druid.md#wild-shape-su).
 
 ## Rot Warden
 
 Harbingers of decay, rot wardens live in damp lands where insects and rot break down the dead to feed the living. They see in the process of rot the beauty of nature’s capacity to recycle and repurpose material into something wondrous and new.
 
-**Invoke Decay (Su)**: A rot warden can channel stored spell energy into specific spells he hasn’t prepared ahead of time. He can “lose” a prepared spell in order to cast the following spells at the indicated levels: 1st—decompose corpse, 2nd—warp wood, 3rd—fungal infestation, 4th—explosion of rot, 5th—insect plague, 6th—swarm skin, 7th—creeping doom, 8th—horrid wilting, 9th—massacre. This alters spontaneous casting.
+**Invoke Decay (Su)**: A rot warden can channel stored spell energy into specific spells he hasn’t prepared ahead of time. He can “lose” a prepared spell in order to cast the following spells at the indicated levels: 1st—decompose corpse, 2nd—warp wood, 3rd—fungal infestation, 4th—explosion of rot, 5th—insect plague, 6th—swarm skin, 7th—creeping doom, 8th—horrid wilting, 9th—massacre. This alters [spontaneous casting](druid.md#spontaneous-casting).
 
-**Nature Bond**: A rot warden who chooses a cleric domain as his nature bond must choose from the Destruction, Erosion, Repose, or Vermin domains. This alters nature bond.
+**Nature Bond**: A rot warden who chooses a cleric domain as his nature bond must choose from the Destruction, Erosion, Repose, or Vermin domains. This alters [nature bond](druid.md#nature-bond-ex).
 
-**Vermin Empathy (Su)**: A rot warden can improve the attitude of vermin as a normal druid can with animals. Vermin have a starting attitude of unfriendly. The rot warden can also improve the attitude of vermin swarms, but he takes a –4 penalty on the check unless the swarm consists of the same kind of vermin as his vermin companion or his current wild shape. This replaces wild empathy.
+**Vermin Empathy (Su)**: A rot warden can improve the attitude of vermin as a normal druid can with animals. Vermin have a starting attitude of unfriendly. The rot warden can also improve the attitude of vermin swarms, but he takes a –4 penalty on the check unless the swarm consists of the same kind of vermin as his vermin companion or his current wild shape. This replaces [wild empathy](druid.md#wild-empathy-ex).
 
-**Swarmcaller (Sp)**: At 3rd level, a rot warden can summon a swarm of vermin once per day as a standard action. This functions like summon swarm, except the swarm the rot warden summons must be a cockroach, locust, or spider swarm. If he uses this ability during the surprise round of combat, nearby animals and vermin become hushed until the first round of combat ends; during this surprise round and first round of combat, flat-footed creatures also gain the shaken condition (this doesn’t stack with other fear effects). At 9th level, he adds army ant, centipede, and wasp swarms to the list of swarms he can call with this ability. This replaces trackless step and venom immunity.
+**Swarmcaller (Sp)**: At 3rd level, a rot warden can summon a swarm of vermin once per day as a standard action. This functions like summon swarm, except the swarm the rot warden summons must be a cockroach, locust, or spider swarm. If he uses this ability during the surprise round of combat, nearby animals and vermin become hushed until the first round of combat ends; during this surprise round and first round of combat, flat-footed creatures also gain the shaken condition (this doesn’t stack with other fear effects). At 9th level, he adds army ant, centipede, and wasp swarms to the list of swarms he can call with this ability. This replaces [trackless step](druid.md#trackless-step-ex) and [venom immunity](druid.md#venom-immunity-ex).
 
-**Enduring Druid (Su)**: At 4th level, a rot warden gains a +4 bonus on saving throws against attacks and special abilities of vermin and swarms with the vermin type. This bonus also applies on saving throws against effects that would age or decay the rot warden or his equipment. This replaces resist nature’s lure.
+**Enduring Druid (Su)**: At 4th level, a rot warden gains a +4 bonus on saving throws against attacks and special abilities of vermin and swarms with the vermin type. This bonus also applies on saving throws against effects that would age or decay the rot warden or his equipment. This replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
 **Wild Shape**: A rot warden gains this ability at 6th level, except his effective druid level is his druid level – 2. He cannot take the form of an elemental.
 
-At 8th level, a rot warden can assume the form of a Small or Medium vermin as if using vermin shape IUM. At 10th level, the rot warden can assume the shape of a Tiny or Large vermin as if using vermin shape IIUM. At 12th level, he can take the form of a Huge vermin as if using vermin shape III. This alters wild shape.
+At 8th level, a rot warden can assume the form of a Small or Medium vermin as if using vermin shape IUM. At 10th level, the rot warden can assume the shape of a Tiny or Large vermin as if using vermin shape IIUM. At 12th level, he can take the form of a Huge vermin as if using vermin shape III. This alters [wild shape](druid.md#wild-shape-su).
 
 ## Green Faith Initiate
 
 Druids who are initiated into the magic of nature as strict students of the Green Faith’s traditions sometimes demonstrate abilities unique to their organization.
 
-**Mediator’s Ear (Ex)**: By 3rd level, a Green Faith initiate is respected for her neutrality and even-handed attitude toward all people as well as other living things. She quickly develops a sense of other peoples’ attitudes, much as she does with animals. A Green Faith initiate gains a bonus on Diplomacy and Sense Motive checks equal to half her druid level. This replaces trackless step.
+**Mediator’s Ear (Ex)**: By 3rd level, a Green Faith initiate is respected for her neutrality and even-handed attitude toward all people as well as other living things. She quickly develops a sense of other peoples’ attitudes, much as she does with animals. A Green Faith initiate gains a bonus on Diplomacy and Sense Motive checks equal to half her druid level. This replaces [trackless step](druid.md#trackless-step-ex).
 
 **Zephyr Message (Sp)**: At 6th level, once per day, a Green Faith initiate can cast whispering wind as a spell-like ability, treating her druid level as her caster level. This replaces the druid’s additional daily use of wild shape gained at 6th level.
 
-**Path to Refuge (Sp)**: At 9th level, once per day, a Green Faith initiate can travel as if with transport via plants to any major Green Faith druid circle or important holy site. Each of these sites is marked with special standing stones that allow all Green Faith followers within range using transport via plants or tree stride to sense their distance from it and the direction to it. At 14th level and again at 19th level, she can use this ability one additional time per day. This replaces venom immunity.
+**Path to Refuge (Sp)**: At 9th level, once per day, a Green Faith initiate can travel as if with transport via plants to any major Green Faith druid circle or important holy site. Each of these sites is marked with special standing stones that allow all Green Faith followers within range using transport via plants or tree stride to sense their distance from it and the direction to it. At 14th level and again at 19th level, she can use this ability one additional time per day. This replaces [venom immunity](druid.md#venom-immunity-ex).
 
 **Secrets across Lifetimes (Sp)**: At 10th level, a Green Faith initiate can use legend lore once per week as a spell-like ability, drawing upon the knowledge of Green Faith archdruids recorded in secret across the generations in places where magic such as this can retrieve it. This ability does not require material components. This replaces the druid’s additional daily use of wild shape gained at 10th level.
 
-**A Thousand Voices (Su)**: At 13th level, a Green Faith initiate can communicate with any creature that has a language or with any stone, as if using tongues or stone tell, respectively, for up to 1 minute per druid level each day. This duration does not need to be consecutive, but it must be spent in 1-minute increments. This replaces a thousand faces.
+**A Thousand Voices (Su)**: At 13th level, a Green Faith initiate can communicate with any creature that has a language or with any stone, as if using tongues or stone tell, respectively, for up to 1 minute per druid level each day. This duration does not need to be consecutive, but it must be spent in 1-minute increments. This replaces [a thousand faces](druid.md#a-thousand-faces-su).
 
 ## Sky Druid
 
@@ -636,17 +636,17 @@ Some druids develop ties not to a particular landscape, but instead to the endle
 
 **Nature Bond (Ex)**: At 1st level, a sky druid who chooses an animal companion must select one with a fly speed. If choosing a domain, the sky druid must choose from the Air, Animals, Liberation, and Weather domains, or subdomains appropriate to those domains.
 
-**Sky’s Embrace (Su)**: At 2nd level, a sky druid no longer takes falling damage, as though she were constantly under the effect of [*feather fall*](../../magic/spells/feather-fall.md). Additionally, she may take ranks in the Fly skill regardless of whether she has a natural fly speed, and may use her Fly skill in place of Acrobatics when making jump checks. This ability replaces woodland stride.
+**Sky’s Embrace (Su)**: At 2nd level, a sky druid no longer takes falling damage, as though she were constantly under the effect of [*feather fall*](../../magic/spells/feather-fall.md). Additionally, she may take ranks in the Fly skill regardless of whether she has a natural fly speed, and may use her Fly skill in place of Acrobatics when making jump checks. This ability replaces [woodland stride](druid.md#woodland-stride-ex).
 
-**Resist Storm (Ex)**: At 4th level, a sky druid gains a +4 bonus on saving throws against spells with the air or electricity descriptors and against effects that control or modify the weather (such as [*sleet storm*](../../magic/spells/sleet-storm.md)). This ability replaces resist nature’s lure.
+**Resist Storm (Ex)**: At 4th level, a sky druid gains a +4 bonus on saving throws against spells with the air or electricity descriptors and against effects that control or modify the weather (such as [*sleet storm*](../../magic/spells/sleet-storm.md)). This ability replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
-**Skymaster (Su)**: At 5th level, a sky druid can use the *fly* spell (self only) for a number of minutes per day equal to her druid level. These minutes do not need to be consecutive. This ability replaces trackless step.
+**Skymaster (Su)**: At 5th level, a sky druid can use the *fly* spell (self only) for a number of minutes per day equal to her druid level. These minutes do not need to be consecutive. This ability replaces [trackless step](druid.md#trackless-step-ex).
 
-**Wild Shape (Su)**: At 6th level, a sky druid gains the ability to use wild shape. When a sky druid takes the form of a creature with a fly speed, this ability functions at her class level + 1. For all other forms, her effective druid level for the ability is equal to her actual sky druid level. This ability otherwise functions as and replaces wild shape.
+**Wild Shape (Su)**: At 6th level, a sky druid gains the ability to use wild shape. When a sky druid takes the form of a creature with a fly speed, this ability functions at her class level + 1. For all other forms, her effective druid level for the ability is equal to her actual sky druid level. This ability otherwise functions as and replaces [wild shape](druid.md#wild-shape-su).
 
-**Soaring Form (Ex)**: At 9th level, a sky druid is no longer affected by altitude sickness or natural or magical wind. This ability replaces venom immunity.
+**Soaring Form (Ex)**: At 9th level, a sky druid is no longer affected by altitude sickness or natural or magical wind. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
-**Into the Wild Blue (Su)**: At 13th level, a sky druid gains a fly speed equal to twice her base land speed (good maneuverability). This ability replaces a thousand faces.
+**Into the Wild Blue (Su)**: At 13th level, a sky druid gains a fly speed equal to twice her base land speed (good maneuverability). This ability replaces [a thousand faces](druid.md#a-thousand-faces-su).
 
 ## Undine Adept
 
@@ -654,15 +654,15 @@ An undine adept dedicates herself to preserving the knowledge of the first undin
 
 **Domains**: An undine adept who chooses a domain must choose the Community or Water domain, or any subdomain of those domains.
 
-**Amphibious (Su)**: At 2nd level, the undine adept gains the aquatic subtype and the amphibious universal monster ability, allowing her to breathe water or air. This ability replaces woodland stride.
+**Amphibious (Su)**: At 2nd level, the undine adept gains the aquatic subtype and the amphibious universal monster ability, allowing her to breathe water or air. This ability replaces [woodland stride](druid.md#woodland-stride-ex).
 
-**Augment Summoning (Su)**: At 3rd level, any creature with the water subtype the undine adept summons with either *summon monster* or *summon nature’s ally* gains the benefits of the [Augment Summoning](../../rules/feats/augment-summoning.md) feat. This replaces trackless step.
+**Augment Summoning (Su)**: At 3rd level, any creature with the water subtype the undine adept summons with either *summon monster* or *summon nature’s ally* gains the benefits of the [Augment Summoning](../../rules/feats/augment-summoning.md) feat. This replaces [trackless step](druid.md#trackless-step-ex).
 
-**Resist Water’s Call (Su)**: At 4th level, an undine adept gains a +4 bonus on saving throws against the spell-like and supernatural abilities of outsiders with the aquatic or water subtype, fey with the aquatic or water subtype, and spells and effects with the water descriptor. This ability replaces resist nature’s lure.
+**Resist Water’s Call (Su)**: At 4th level, an undine adept gains a +4 bonus on saving throws against the spell-like and supernatural abilities of outsiders with the aquatic or water subtype, fey with the aquatic or water subtype, and spells and effects with the water descriptor. This ability replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
-**Wild Shape (Su)**: At 6th level, an undine adept gains the ability to use wild shape. When an undine takes the form of a creature with the aquatic or water subtype, this ability functions at her class level + 1. For all other forms, her effective druid level for the ability is equal to her actual undine adept level. This ability otherwise functions as and replaces wild shape.
+**Wild Shape (Su)**: At 6th level, an undine adept gains the ability to use wild shape. When an undine takes the form of a creature with the aquatic or water subtype, this ability functions at her class level + 1. For all other forms, her effective druid level for the ability is equal to her actual undine adept level. This ability otherwise functions as and replaces [wild shape](druid.md#wild-shape-su).
 
-**Commune with Water Spirits**: At 9th level, an undine adept adds [*commune*](../../magic/spells/commune.md) to her druid spell list. She may use this spell whether she worships a deity or elemental forces. This ability replaces venom immunity.
+**Commune with Water Spirits**: At 9th level, an undine adept adds [*commune*](../../magic/spells/commune.md) to her druid spell list. She may use this spell whether she worships a deity or elemental forces. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
 ## Naga Aspirant
 
@@ -672,13 +672,13 @@ The naga aspirant follows the ancient beliefs and engages in the rituals of a dr
 
 0—[*acid splash*](../../magic/spells/acid-splash.md), [*bleed*](../../magic/spells/bleed.md), [*daze*](../../magic/spells/daze.md), [*mage hand*](../../magic/spells/mage-hand.md), *open/close*, [*ray of frost*](../../magic/spells/ray-of-frost.md); 1st—[*charm person*](../../magic/spells/charm-person.md), [*divine favor*](../../magic/spells/divine-favor.md), [*expeditious retreat*](../../magic/spells/expeditious-retreat.md), [*mage armor*](../../magic/spells/mage-armor.md), *magic missile, ray of enfeeblement, shield, shield of faith, silent image, true strike*; 2nd—[*acid arrow*](../../magic/spells/acid-arrow.md), [*detect thoughts*](../../magic/spells/detect-thoughts.md), [*invisibility*](../../magic/spells/invisibility.md), [*mirror image*](../../magic/spells/mirror-image.md), [*scorching ray*](../../magic/spells/scorching-ray.md), [*see invisibility*](../../magic/spells/see-invisibility.md); 3rd— *dispel magic, displacement, fireball, lightning bolt, suggestion*; 4th—[*divine power*](../../magic/spells/divine-power.md), *greater invisibility*.
 
-This ability replaces spontaneous casting.
+This ability replaces [spontaneous casting](druid.md#spontaneous-casting).
 
-**Aspirant’s Enlightenment (Ex)**: At 4th level, a naga aspirant gains a +4 bonus on saving throws against the spell-like abilities, supernatural abilities, and poison of nagas. This ability replaces resist nature’s lure.
+**Aspirant’s Enlightenment (Ex)**: At 4th level, a naga aspirant gains a +4 bonus on saving throws against the spell-like abilities, supernatural abilities, and poison of nagas. This ability replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
-**Naga Shape (Su)**: At 6th level, the naga aspirant can use her wild shape ability (gained at 4th level, as normal) to assume the form of a true naga. This effect functions in a similar manner to a [*shapechange*](../../magic/spells/shapechange.md) spell with the following exception. The druid’s true naga form is unique, representing her personal evolution. When taking naga form, the nagaji’s body transforms into that of a large serpent, though she keeps her own head. The naga aspirant loses her limbs and her size increases by one category, granting her a +4 size bonus to Strength and Constitution, a –2 penalty to Dexterity, and a +2 enhancement bonus to her natural armor bonus. She gains a +10 enhancement bonus to land speed and a bite attack that deals 1d6 points of damage. She can cast verbal spells in this form, but cannot cast spells with other components without metamagic or feats such as [Natural Spell](../../rules/feats/natural-spell.md). This otherwise works like and replaces wild shape.
+**Naga Shape (Su)**: At 6th level, the naga aspirant can use her wild shape ability (gained at 4th level, as normal) to assume the form of a true naga. This effect functions in a similar manner to a [*shapechange*](../../magic/spells/shapechange.md) spell with the following exception. The druid’s true naga form is unique, representing her personal evolution. When taking naga form, the nagaji’s body transforms into that of a large serpent, though she keeps her own head. The naga aspirant loses her limbs and her size increases by one category, granting her a +4 size bonus to Strength and Constitution, a –2 penalty to Dexterity, and a +2 enhancement bonus to her natural armor bonus. She gains a +10 enhancement bonus to land speed and a bite attack that deals 1d6 points of damage. She can cast verbal spells in this form, but cannot cast spells with other components without metamagic or feats such as [Natural Spell](../../rules/feats/natural-spell.md). This otherwise works like and replaces [wild shape](druid.md#wild-shape-su).
 
-**Augmented Form (Su)***:* At 9th level and every four levels thereafter, a naga aspirant can choose one of the following abilities to enhance her naga form. Once chosen, this augmentation cannot be changed and always applies to her naga form. The caster level for these abilities is equal to her druid level, and unless otherwise stated, the DC is equal to 10 + 1/2 the druid’s class level + the druid’s Charisma bonus. This ability replaces venom immunity, a thousand faces, and timeless body.
+**Augmented Form (Su)***:* At 9th level and every four levels thereafter, a naga aspirant can choose one of the following abilities to enhance her naga form. Once chosen, this augmentation cannot be changed and always applies to her naga form. The caster level for these abilities is equal to her druid level, and unless otherwise stated, the DC is equal to 10 + 1/2 the druid’s class level + the druid’s Charisma bonus. This ability replaces [venom immunity](druid.md#venom-immunity-ex), [a thousand faces](druid.md#a-thousand-faces-su), and [timeless body](druid.md#timeless-body-ex).
 
 *Charming Gaze (Sp)*: The druid gains a gaze attack that affects creatures within 30 feet as a *charm person* spell.
 
@@ -712,15 +712,15 @@ Elves live far longer than other common races, and a single elf may see whole em
 
 The second option is to form a close bond with a plant companion. A treesinger may begin play with any of the plants listed in Plant Companions. This plant is a loyal companion that accompanies the treesinger on her adventures. Except for the companion being a creature of the plant type, drawn from the list of plant companions, this ability otherwise works like the standard druid’s animal companion ability.
 
-Plant bond replaces the druid’s nature bond ability.
+Plant bond replaces the [druid’s nature bond](druid.md#nature-bond-ex) ability.
 
 **Green Empathy (Ex)**: At 1st level, a treesinger can improve the attitude of a plant creature. This ability functions just like a Diplomacy check made to improve the attitude of a person. The treesinger rolls 1d20 and adds her druid level and her Charisma modifier to determine the wild empathy check result. The typical wild plant creature has a starting attitude of indifferent.
 
 To use green empathy, the treesinger and the plant creature must be within 30 feet of one another under normal conditions. Generally, influencing a plant creature in this way takes 1 minute but, as with influencing people, it might take more or less time.
 
-A treesinger can also use this ability to influence an animal, but she takes a –4 penalty on the check. This ability replaces the wild empathy class feature.
+A treesinger can also use this ability to influence an animal, but she takes a –4 penalty on the check. This ability replaces the [wild empathy](druid.md#wild-empathy-ex) class feature.
 
-**Wild Shape (Su)**: At 4th level, a treesinger gains the ability to wild shape. This ability functions at her actual druid level. A treesinger cannot use wild shape to adopt an animal or elemental form. Instead, when she gains this ability at 4th level, she can assume the form of a Small or Medium plant. This functions as *plant shape I*, except the treesinger does not yet gain access to the constrict or poison abilities of the plant form assumed. At 8th level, the treesinger’s wild shape gains the full range of abilities available from *plant shape I*. At 10th level, a treesinger can assume the form of a Large or Tiny plant. Her wild shape ability now functions like *plant shape II*. At 12th level, a treesinger can assume the form of a Huge plant. Her wild shape ability now functions like *plant shape III*. This ability replaces, and otherwise functions like, the normal druid wild shape ability.
+**Wild Shape (Su)**: At 4th level, a treesinger gains the ability to wild shape. This ability functions at her actual druid level. A treesinger cannot use wild shape to adopt an animal or elemental form. Instead, when she gains this ability at 4th level, she can assume the form of a Small or Medium plant. This functions as *plant shape I*, except the treesinger does not yet gain access to the constrict or poison abilities of the plant form assumed. At 8th level, the treesinger’s wild shape gains the full range of abilities available from *plant shape I*. At 10th level, a treesinger can assume the form of a Large or Tiny plant. Her wild shape ability now functions like *plant shape II*. At 12th level, a treesinger can assume the form of a Huge plant. Her wild shape ability now functions like *plant shape III*. This ability replaces, and otherwise functions like, the normal [druid wild shape](druid.md#wild-shape-su) ability.
 
 ### Plant Companions
 
@@ -778,17 +778,17 @@ Some youths, abandoned in the wilderness and then raised by animals, are so conn
 
 **Nature Bond (Ex)**: At 1st level, a feral child must select an animal companion as her nature bond.
 
-**Favored Terrain (Ex)**: At 3rd level, a feral child gains the favored terrain ability as a ranger of her class level. A feral child may not choose urban as a favored terrain. This ability replaces trackless step and a thousand faces.
+**Favored Terrain (Ex)**: At 3rd level, a feral child gains the favored terrain ability as a ranger of her class level. A feral child may not choose urban as a favored terrain. This ability replaces [trackless step](druid.md#trackless-step-ex) and [a thousand faces](druid.md#a-thousand-faces-su).
 
-**Native Cunning (Ex)**: At 3rd level, a feral child gains trap sense as a barbarian of equal level, and in her favored terrain, she immediately receives a Perception check to notice traps within 10 feet, as the trap spotter rogue talent. In addition, at 3rd level and every three levels thereafter, she may choose one combat maneuver, and gains a bonus equal to her trap sense bonus to her CMD against that maneuver. This ability replaces wild shape.
+**Native Cunning (Ex)**: At 3rd level, a feral child gains trap sense as a barbarian of equal level, and in her favored terrain, she immediately receives a Perception check to notice traps within 10 feet, as the trap spotter rogue talent. In addition, at 3rd level and every three levels thereafter, she may choose one combat maneuver, and gains a bonus equal to her trap sense bonus to her CMD against that maneuver. This ability replaces [wild shape](druid.md#wild-shape-su).
 
-**Native Fortitude (Ex)**: At 4th level, a feral child gains a +1 bonus on saving throws against disease, exhaustion, fatigue, fear, and poison. When she is in her favored terrain, she instead applies her favored terrain bonus on such saving throws. She also recovers from ability damage, exhaustion, and fatigue at twice the normal rate. This ability replaces resist nature’s lure.
+**Native Fortitude (Ex)**: At 4th level, a feral child gains a +1 bonus on saving throws against disease, exhaustion, fatigue, fear, and poison. When she is in her favored terrain, she instead applies her favored terrain bonus on such saving throws. She also recovers from ability damage, exhaustion, and fatigue at twice the normal rate. This ability replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
 **Native Call (Su)**: At 9th level, when in her favored terrain, for any *summon nature’s ally* spells a feral child uses to summon animals that are native to that terrain, she treats the duration of the spell as if she were 2 levels higher.
 
 At 17th level, when the feral child uses *summon nature’s ally* spells to summon such animals, those animals gain a +2 bonus to both their Strength and Constitution ability scores. This stacks with the effects of the Augmented Summoning feat.
 
-This ability replaces venom immunity and timeless body.
+This ability replaces [venom immunity](druid.md#venom-immunity-ex) and [timeless body](druid.md#timeless-body-ex).
 
 ## Feyspeaker
 
@@ -802,13 +802,13 @@ At 4th, 6th, 8th, 10th, 12th, 14th, 16th, and 18th levels, a feyspeaker adds one
 
     At 4th, 6th, 8th, 10th, 12th, 14th, 16th, and 18th levels, a feyspeaker adds one enchantment or illusion spell from the sorcerer/wizard spell list to her druid spell list as a spell of 1 level higher (for instance, at 4th level, she could add *color spray* as a 2nd-level druid spell). In order to select a spell, she must be of a level high enough (including the increased spell level) to cast it. Once selected, the spell cannot be changed.
 
-A feyspeaker loses the ability to spontaneously cast *summon nature’s ally* spells. She gains the wild shape ability at 6th level and gains all benefits related to wild shape 2  druid levels later than usual. She can never use wild shape to transform into an elemental, but she can use it to take the form of fey, and can use their spell-like abilities by expending spell slots of a level appropriate to the spell-like ability (with no need to prepare it). This ability alters wild shape and spellcasting.
+A feyspeaker loses the ability to spontaneously cast *summon nature’s ally* spells. She gains the wild shape ability at 6th level and gains all benefits related to wild shape 2  druid levels later than usual. She can never use wild shape to transform into an elemental, but she can use it to take the form of fey, and can use their spell-like abilities by expending spell slots of a level appropriate to the spell-like ability (with no need to prepare it). This ability alters [wild shape](druid.md#wild-shape-su) and spellcasting.
 
 ??? note "Original rule"
 
-    A feyspeaker loses the ability to spontaneously cast *summon nature’s ally* spells. She gains the wild shape ability at 6th level and gains all benefits related to wild shape 2  druid levels later than usual. She can never use wild shape to transform into an elemental. This ability alters wild shape and spellcasting.
+    A feyspeaker loses the ability to spontaneously cast *summon nature’s ally* spells. She gains the wild shape ability at 6th level and gains all benefits related to wild shape 2  druid levels later than usual. She can never use wild shape to transform into an elemental. This ability alters [wild shape](druid.md#wild-shape-su) and spellcasting.
 
-**Fey Speech (Ex)**: At 1st level, a feyspeaker’s words carry a tiny fragment of the otherworldly power of the fey’s voices. She gains Bluff, Diplomacy, Disguise, and Sense Motive as class skills. A feyspeaker also learns Sylvan as a bonus language. In addition, the feyspeaker gains a number of skill ranks at each level equal to 6 + her Intelligence modifier, instead of 4 + her Intelligence modifier. The feyspeaker’s base attack bonus from her druid levels is equal to half her druid level (much like a sorcerer’s base attack bonus is calculated), rather than the usual druid base attack bonus. This ability replaces nature sense and alters the druid’s base attack bonus, class skills, and skills ranks per level.
+**Fey Speech (Ex)**: At 1st level, a feyspeaker’s words carry a tiny fragment of the otherworldly power of the fey’s voices. She gains Bluff, Diplomacy, Disguise, and Sense Motive as class skills. A feyspeaker also learns Sylvan as a bonus language. In addition, the feyspeaker gains a number of skill ranks at each level equal to 6 + her Intelligence modifier, instead of 4 + her Intelligence modifier. The feyspeaker’s base attack bonus from her druid levels is equal to half her druid level (much like a sorcerer’s base attack bonus is calculated), rather than the usual druid base attack bonus. This ability replaces [nature sense](druid.md#nature-sense-ex) and alters the druid’s base attack bonus, class skills, and skills ranks per level.
 
 **Wild Mischief (Ex)**: At 1st level, a feyspeaker can fool an animal into thinking there is food, a potential mate, or a predator nearby. This ability functions just like a Bluff check to deceive a character. To determine the result of the wild mischief check, the feyspeaker rolls 1d20 and adds her druid level and her Charisma modifier. As with Bluff checks, wild mischief checks are modified depending on the believability of the false information. A typical domestic animal is not particularly suspicious of the feyspeaker (no circumstance modifier), whereas wild animals are usually suspicious (–5 penalty on the check).
 
@@ -830,9 +830,9 @@ At 8th level, a skinshaper can imitate humanoid creatures even more accurately. 
 
 At 12th level, a skinshaper can access the racial memory of the humanoid she is imitating. If the form she assumes has any of the following racial abilities, she gains those abilities: defensive training, hatred, poison use, sneak attack +2d6, stability, and weapon familiarity. Additionally, she can speak any racial languages of the chosen form.
 
-At 16th level, a skinshaper gains the racial skill bonuses of the imitated humanoid, to a maximum of a +4 bonus on a given skill. The skinshaper cannot benefit from any variable racial skill bonuses associated with the chosen form (such as gnomes’ racial bonus on any one Craft or Profession skill). This ability replaces wild shape.
+At 16th level, a skinshaper gains the racial skill bonuses of the imitated humanoid, to a maximum of a +4 bonus on a given skill. The skinshaper cannot benefit from any variable racial skill bonuses associated with the chosen form (such as gnomes’ racial bonus on any one Craft or Profession skill). This ability replaces [wild shape](druid.md#wild-shape-su).
 
-**Flashmorph (Su)**: At 13th level, a skinshaper learns to change her shape extremely quickly. She can use skinshaping as a swift action. This ability replaces a thousand faces.
+**Flashmorph (Su)**: At 13th level, a skinshaper learns to change her shape extremely quickly. She can use skinshaping as a swift action. This ability replaces [a thousand faces](druid.md#a-thousand-faces-su).
 
 ## Urushiol
 
@@ -852,9 +852,9 @@ At 7th level, an urushiol can spend 2  daily doses of his poison as a standard 
 
 At 11th level, an urushiol can spend 3 daily doses of his poison as a standard action to release a 20-foot-radius cloud of inhaled poison centered around him that lasts for 1 round.
 
-At 14th level, an urushiol’s venom changes in frequency to 1/round for 4 rounds. In addition, when using his urushiol venom, an urushiol can spend an extra dose of his poison to change the damage type of the poison to Dexterity damage or Constitution damage. He can use this alteration in combination with any of the other abilities. For example, he could spend a total of 3 doses to create a cloud of inhaled poison that deals Constitution damage. This ability replaces nature bond and resist nature’s lure.
+At 14th level, an urushiol’s venom changes in frequency to 1/round for 4 rounds. In addition, when using his urushiol venom, an urushiol can spend an extra dose of his poison to change the damage type of the poison to Dexterity damage or Constitution damage. He can use this alteration in combination with any of the other abilities. For example, he could spend a total of 3 doses to create a cloud of inhaled poison that deals Constitution damage. This ability replaces [nature bond](druid.md#nature-bond-ex) and [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
-**Venom Immunity (Ex)**: An urushiol gains venom immunity at 4th level instead of 9th level. This ability alters venom immunity.
+**Venom Immunity (Ex)**: An urushiol gains venom immunity at 4th level instead of 9th level. This ability alters [venom immunity](druid.md#venom-immunity-ex).
 
 ## Death Druid
 
@@ -862,17 +862,17 @@ Some druids believe that birth and death are the most important parts of the nat
 
 **Phantom**: A death druid attracts phantoms like a spiritualist, though she focuses her efforts on putting those phantoms to rest. A death druid is continually attempting to figure out how to send her phantom to the afterlife (usually by completing the phantom’s unfinished business as determined by the GM). If she is able to do so, she gains a new phantom with no additional effort on her part, sometime during the next week. At 1st level, she gains the spiritualist’s phantom and etheric tether class features; at 4th level, she gains the bonded manifestation class feature; and at 14th level, she gains the spiritual bond class feature. She does not gain any of the other spiritualist abilities related to phantoms. The death druid treats her druid level as her spiritualist level for these abilities.
 
-This ability replaces nature bond and wild shape.
+This ability replaces [nature bond](druid.md#nature-bond-ex) and [wild shape](druid.md#wild-shape-su).
 
 **Soul Magic**: A death druid adds the following spells to her druid spell list at the given spell levels: 0—[*grave words*](../../magic/spells/grave-words.md); 1st—[*sanctify corpse*](../../magic/spells/sanctify-corpse.md); 2nd—[*calm spirit*](../../magic/spells/calm-spirit.md), [*false life*](../../magic/spells/false-life.md), [*ghostbane dirge*](../../magic/spells/ghostbane-dirge.md), [*spiritual weapon*](../../magic/spells/spiritual-weapon.md); 3rd—[*speak with dead*](../../magic/spells/speak-with-dead.md); 4th—[*speak with haunt*](../../magic/spells/speak-with-haunt.md), [*spiritual ally*](../../magic/spells/spiritual-ally.md); 5th—[*breath of life*](../../magic/spells/breath-of-life.md), *call spirit**, mass ghostbane dirge*; 6th—[*circle of death*](../../magic/spells/circle-of-death.md), [*undeath to death*](../../magic/spells/undeath-to-death.md).
 
-This ability replaces nature sense and wild empathy.
+This ability replaces [nature sense](druid.md#nature-sense-ex) and [wild empathy](druid.md#wild-empathy-ex).
 
 **Resist Death’s Call (Ex)**: At 4th level, a death druid gains a +4 bonus on saving throws against death effects, negative energy, and energy drain.
 
-This ability replaces resist nature’s lure.
+This ability replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
-**Negative Immunity (Su)**: At 9th level, a death druid is immune to negative energy and energy drain. This ability replaces venom immunity.
+**Negative Immunity (Su)**: At 9th level, a death druid is immune to negative energy and energy drain. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
 ## Devolutionist
 
@@ -880,17 +880,17 @@ Full of simmering hatred toward civilization and those who dwell within it, devo
 
 **Devolved Companion (Ex)**: A devolutionist must choose a devolved humanoid as an animal companion for her nature bond. Use the stats for an ape animal companion, but at 4th level, the devolved humanoid doesn’t increase to size Large (it still gains all the other benefits at 4th level).
 
-This ability alters nature bond.
+This ability alters [nature bond](druid.md#nature-bond-ex).
 
 **Undomesticate (Su)**: At 4th level, a devolutionist can spend 1 minute with a willing or restrained domesticated animal to undo the effects of domestication, transforming it into a wild animal and causing it to lose any tricks it knew. The animal no longer recognizes any humanoids as friends or allies and gladly tears former playmates apart for food. Handle Animal checks don’t work on an undomesticated creature, though wild empathy does. This ability doesn’t function on animal companions, special mounts, or the like, and other exceptional domesticated animals can attempt a Will save (DC = 10 + 1/2 the devolutionist’s druid level + her Wisdom modifier) to negate the effect and become immune to it for 24 hours. Though this ability is instantaneous, [*break enchantment*](../../magic/spells/break-enchantment.md), [*limited wish*](../../magic/spells/limited-wish.md), [*miracle*](../../magic/spells/miracle.md), or [*wish*](../../magic/spells/wish.md) can reverse the effects.
 
-This ability replaces resist nature’s lure.
+This ability replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
 **Devolution (Sp)**: At 9th level, a devolutionist can perform a 24-hour ritual to irrevocably transform a humanoid or animal into a devolved feral state. There is no saving throw, but the target must be present and stay relatively still for the entire ritual, which typically requires a willing or restrained target.
 
 An affected humanoid’s Intelligence score is instantly reduced to 2; its type changes to animal; it loses all spellcasting and abilities that require intelligence; it can’t wield manufactured weapons; it gains two claw attacks and a bite attack (all dealing 1d4 points of damage for a Medium humanoid or 1d3 for Small humanoids); and it can’t use skills other than Acrobatics, Climb, Escape Artist, Fly, Intimidate, Perception, Stealth, Survival, and Swim.
 
-An affected animal is undomesticated (see above) if applicable and then either gains the advanced template, except without any increases to mental ability scores, or becomes a dire version of the animal (if a dire version exists and at the GM’s discretion). The devolved creature starts out friendly toward the devolutionist, though it typically tries to kill and devour other sentient humanoids. The devolutionist has no special empathy or connection with a creature she devolves, and if it was her animal companion before, it ceases to be so. The druid can communicate her desires to a devolved creature using wild empathy. This ability counters and dispels [*awaken*](../../magic/spells/awaken.md), and only *awaken*, *miracle*, or *wish* can reverse it. This ability replaces venom immunity.
+An affected animal is undomesticated (see above) if applicable and then either gains the advanced template, except without any increases to mental ability scores, or becomes a dire version of the animal (if a dire version exists and at the GM’s discretion). The devolved creature starts out friendly toward the devolutionist, though it typically tries to kill and devour other sentient humanoids. The devolutionist has no special empathy or connection with a creature she devolves, and if it was her animal companion before, it ceases to be so. The druid can communicate her desires to a devolved creature using wild empathy. This ability counters and dispels [*awaken*](../../magic/spells/awaken.md), and only *awaken*, *miracle*, or *wish* can reverse it. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
 ## Life Channeler
 
@@ -902,17 +902,17 @@ This alters the druid’s alignment requirements.
 
 **Plant Preservation (Su)**: A life channeler must choose the Plant domain with her nature bond (she can select the Growth subdomain if she wishes). When she performs a coup de grace that kills a sentient humanoid creature (not a summoned creature), she can do so ritualistically in order to affect the area centered on the body with the enrichment version of [*plant growth*](../../magic/spells/plant-growth.md). The sacrifice is a death effect.
 
-This ability alters nature bond.
+This ability alters [nature bond](druid.md#nature-bond-ex).
 
-**Wicker Talismans (Su)**: At 4th level, a life channeler gains a selection of wicker talismans that can store and convert the life energy of sentient creatures into the growth, health, and fertility of plants around her. The life channeler gains one wicker talisman corresponding to each level of druid spells she can cast, starting with 1st-level spells. These talismans are initially empty, but can hold life energy. When the life channeler ritualistically kills a creature with a coup de grace, she can store life energy in a talisman instead of gaining the *plant growth* effect. The creature must be of a CR equal to at least twice the spell level of the corresponding talisman. For instance, a CR 8 creature’s life energy could provide energy for a talisman holding up to a 4th-level spell. A talisman is either full or empty; it can’t hold more than one creature’s life energy. A life channeler can expend the energy stored in a talisman to cast her domain spell of the talisman’s level without expending a spell slot.
+**Wicker Talismans (Su)**: At 4th level, a life channeler gains a selection of wicker talismans that can store and convert the life energy of sentient creatures into the growth, health, and fertility of plants around her. The life channeler gains one wicker talisman corresponding to each level of [druid spells](druid.md#spells) she can cast, starting with 1st-level spells. These talismans are initially empty, but can hold life energy. When the life channeler ritualistically kills a creature with a coup de grace, she can store life energy in a talisman instead of gaining the *plant growth* effect. The creature must be of a CR equal to at least twice the spell level of the corresponding talisman. For instance, a CR 8 creature’s life energy could provide energy for a talisman holding up to a 4th-level spell. A talisman is either full or empty; it can’t hold more than one creature’s life energy. A life channeler can expend the energy stored in a talisman to cast her domain spell of the talisman’s level without expending a spell slot.
 
 Starting at 6th level, a life channeler gathers a flock of willing sacrifices. This grants her the benefits of the Leadership feat, except that using a follower as a human sacrifice with this ability doesn’t cause the life channeler to take a penalty to her Leadership score.
 
-This ability replaces wild shape.
+This ability replaces [wild shape](druid.md#wild-shape-su).
 
 **Rampant Growth**: At 4th level, a life channeler can enrich the land more than usual with her sacrifices. When ritually killing a creature with a coup de grace for the *plant growth* enrichment effect or casting *plant growth* for the enrichment effect from one of her talismans, the effect has a range of 1 mile instead of a range of half a mile. At 8th level, if the sacrificed creature was at least CR 8, the effect lasts for 3 years instead of 1 year. At 12th level, if the sacrificed creature was at least CR 12, the effect increases productivity to two-thirds above normal, instead of one-third above normal. These effects stack, assuming the creature is high enough CR.
 
-**Stored Life**: At 9th level, a life channeler gains a third option when using a coup de grace on a sentient humanoid. If the victim had a CR at least as high as the life channeler’s class level, the life channeler can store the creature’s life energy in her body. She can have the life energy from only 1 creature in her body at a time. While she is storing life energy, if she would take damage or die from a death effect or if she would gain negative levels or take energy drain, she can sacrifice the stored energy to negate the effect without spending an action. This ability replaces venom immunity.
+**Stored Life**: At 9th level, a life channeler gains a third option when using a coup de grace on a sentient humanoid. If the victim had a CR at least as high as the life channeler’s class level, the life channeler can store the creature’s life energy in her body. She can have the life energy from only 1 creature in her body at a time. While she is storing life energy, if she would take damage or die from a death effect or if she would gain negative levels or take energy drain, she can sacrifice the stored energy to negate the effect without spending an action. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
 ## Kraken Caller
 
@@ -920,13 +920,13 @@ Some druids draw upon power irreverently stolen from one of the most dangerous c
 
 **Call of the Waves (Ex)**: A kraken caller must choose a deity of pirates and the sea. If she ever changes her deity, she loses this archetype and becomes a normal druid.
 
-**Bonus Languages**: A kraken caller's bonus language options include Aquan instead of Sylvan. This ability alters the druid's bonus languages class feature.
+**Bonus Languages**: A kraken caller's bonus language options include Aquan instead of Sylvan. This ability alters the [druid's bonus languages](druid.md#bonus-languages) class feature.
 
-**Dauntless Swimmer (Ex)**: At 2nd level, a kraken caller can always take 10 on Swim checks, even if she is rushed or threatened. This ability replaces woodland stride.
+**Dauntless Swimmer (Ex)**: At 2nd level, a kraken caller can always take 10 on Swim checks, even if she is rushed or threatened. This ability replaces [woodland stride](druid.md#woodland-stride-ex).
 
-**Hold Breath (Ex)**: At 3rd level, a kraken caller can hold her breath for a number of minutes equal to her Constitution score before she risks drowning. This ability replaces trackless step.
+**Hold Breath (Ex)**: At 3rd level, a kraken caller can hold her breath for a number of minutes equal to her Constitution score before she risks drowning. This ability replaces [trackless step](druid.md#trackless-step-ex).
 
-**Resist the Waves' Lure (Ex)**: At 4th level, a kraken caller gains a +4 bonus on saving throws against the spell-like and supernatural abilities of creatures with the aquatic subtype. This ability replaces resist nature's lure.
+**Resist the Waves' Lure (Ex)**: At 4th level, a kraken caller gains a +4 bonus on saving throws against the spell-like and supernatural abilities of creatures with the aquatic subtype. This ability replaces [resist nature's lure](druid.md#resist-natures-lure-ex).
 
 **Wild Shape (Su)**: A kraken caller's options for wild shape are limited to animals with the aquatic or water subtype or that have the amphibious special quality. The kraken caller can alternatively expend a daily use of wild shape to grow tentacles out of her body while otherwise retaining her own form. This effect lasts for 10 minutes per level, or until the kraken caller changes back.
 
@@ -944,9 +944,9 @@ At every level after 2nd, up to 12th level, a kraken caller can grow an addition
 
     At each of 6th, 8th, 10th, and 12th levels, a kraken caller can grow an additional tentacle. As a move action, she can retract or regrow any number of the additional tentacles, redistributing the mass of any retracted tentacles. For every 2 retracted tentacles, she can increase the reach of the remaining tentacles by 5 feet (to a maximum of 15 feet), or increase the damage dealt by her tentacles as if she were one size category larger.
 
-While in this form, a kraken caller can expel a 10-foot-radius cloud of ink once per minute as a standard action. This cloud provides total concealment in water and persists for 1 round per level. The ink has no effect out of water. This ability alters wild shape.
+While in this form, a kraken caller can expel a 10-foot-radius cloud of ink once per minute as a standard action. This cloud provides total concealment in water and persists for 1 round per level. The ink has no effect out of water. This ability alters [wild shape](druid.md#wild-shape-su).
 
-**Beast of the Depths (Su)**: At 13th level, a kraken caller gains a swim speed equal to her base land speed and can breathe water as though affected by the spell [*water breathing*](../../magic/spells/water-breathing.md). This ability replaces a thousand faces.
+**Beast of the Depths (Su)**: At 13th level, a kraken caller gains a swim speed equal to her base land speed and can breathe water as though affected by the spell [*water breathing*](../../magic/spells/water-breathing.md). This ability replaces [a thousand faces](druid.md#a-thousand-faces-su).
 
 ## Green Scourge
 
@@ -958,19 +958,19 @@ Green scourges are militant druids sworn to restore natural order. They’re les
 
 When adding weapon special abilities or increasing the enhancement bonus, the final level of the spell expended is 1 higher than the base spell level (2nd for *shillelagh* and 3rd for *flame blade*), increased by the additional special abilities’ total base price modifier. For example, creating an aberration-bane vicious *flame blade* requires spending a 5th-level spell slot, which also counts as a 5th-level spell for purposes of dispelling.
 
-This ability alters spontaneous casting.
+This ability alters [spontaneous casting](druid.md#spontaneous-casting).
 
 **Aberration Sense (Ex)**: At 1st level, a green scourge adds Knowledge (dungeoneering) to her class skills and gains a +2 bonus on Knowledge (dungeoneering) checks.
 
-This replaces nature sense.
+This replaces [nature sense](druid.md#nature-sense-ex).
 
 **Scentless (Ex)**: At 3rd level, a green scourge cannot be detected or tracked with the scent ability or any other special senses that rely on acute smell. She can choose to exude a scent if desired.
 
-This ability replaces trackless step.
+This ability replaces [trackless step](druid.md#trackless-step-ex).
 
 **Resist Unnatural Influence (Ex)**: At 4th level, a green scourge gains a +4 bonus on saving throws against aberrations’ spell-like abilities, supernatural abilities, and poisons.
 
-This replaces resist nature’s lure.
+This replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
 ## Defender of the True World
 
@@ -984,27 +984,27 @@ This alters the druid’s class skills.
 
 **Enemy of the First World**: A defender of the true world cannot use *summon nature’s ally* to summon fey creatures.
 
-This modifies spontaneous casting.
+This modifies [spontaneous casting](druid.md#spontaneous-casting).
 
 **Fey Empathy (Ex)**: A defender of the true world gains a +2 competence bonus on Bluff, Diplomacy, and Intimidate checks when interacting with fey creatures. This bonus increases by 1 for every 4 druid levels she has (maximum +7 at 20th level).
 
-This replaces wild empathy.
+This replaces [wild empathy](druid.md#wild-empathy-ex).
 
 **Fey Stalker (Ex)**: At 3rd level, the defender of the true world’s animal companion and any creatures she summons with *summon nature’s ally* gain a +1 morale bonus on attack and damage rolls against fey creatures. This bonus increases to +2 at 8th level, +3 at 13th level, and +4 at 18th level.
 
-This ability replaces trackless step.
+This ability replaces [trackless step](druid.md#trackless-step-ex).
 
 **Feybane (Ex)**: At 4th level, a defender of the true world doesn’t gain a bonus on saving throws against spells and effects that utilize or target plants. She instead treats her natural attacks as cold iron for the purpose of overcoming damage reduction, and she gains a +2 bonus on caster level checks to overcome the spell resistance of fey creatures.
 
-This ability alters resist nature’s lure.
+This ability alters [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
 **Beguiling Immunity (Ex)**: At 9th level, a defender of the true world becomes immune to the mind-affecting effects of fey.
 
-This ability replaces venom immunity.
+This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
 **First World Deceiver (Su)**: At 13th level, a defender of the true world gains the ability to change her appearance as per *alter self*, except she can take the form of a humanoid or fey creature. Her base land speed from this ability cannot exceed 60 feet.
 
-This ability replaces a thousand faces.
+This ability replaces [a thousand faces](druid.md#a-thousand-faces-su).
 
 ## Restorer
 
@@ -1012,19 +1012,19 @@ Restorers carefully tend to the health of both the environment and creatures in 
 
 **Healing Touch (Ex)**: A restorer gains a +2 bonus on Heal checks. When a restorer uses Heal to provide first aid, the bonus increases to +3.
 
-This ability replaces nature sense.
+This ability replaces [nature sense](druid.md#nature-sense-ex).
 
 **Natural Medic**: A restorer can channel stored spell energy into healing spells that she did not prepare ahead of time. The restorer can “lose” any prepared spell in order to cast any cure spell she can cast of the same spell level or lower (a cure spell is any spell with “cure” in its name).
 
-This ability replaces spontaneous casting.
+This ability replaces [spontaneous casting](druid.md#spontaneous-casting).
 
 **Enemy of Blight (Ex)**: At 4th level, a restorer can ignore the effects of an overgrown area that has been magically manipulated to impede motion. She can ignore these effects for a number of rounds per day equal to double her Wisdom bonus. These rounds don’t have to be used consecutively.
 
-This ability replaces resist nature’s lure.
+This ability replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
 **Guide across Lifetimes (Sp)**: At 13th level, once per day as a full-round action, a restorer can cast [*reincarnate*](../../magic/spells/reincarnate.md) without a material component.
 
-This ability replaces a thousand faces.
+This ability replaces [a thousand faces](druid.md#a-thousand-faces-su).
 
 ## Nature Priest
 
@@ -1042,19 +1042,19 @@ This alters the druid’s weapon proficiencies.
 
 **Studious Piety (Ex)**: A nature priest gains a +1 bonus on Knowledge (religion) checks. This bonus increases to +2 when attempting checks that involve knowledge of her deity or her faith.
 
-This ability replaces nature sense.
+This ability replaces [nature sense](druid.md#nature-sense-ex).
 
 **Chosen Druid (Ex)**: If a nature priest chooses a domain for her nature bond, she must choose one of her deity’s domains (or subdomains) in place of those typically available to a druid.
 
-This ability alters nature bond.
+This ability alters [nature bond](druid.md#nature-bond-ex).
 
 **Shepherd of the Faithful (Su)**: At 4th level, a nature priest and all allies within 60 feet that can see or hear her gain a +2 insight bonus on skill checks to notice or avoid natural hazards, difficult terrain, and rough winds or water, as well as on saving throws against natural hazards. This ability offers no protection against the abilities of creatures or the effects of spells or items.
 
-This ability replaces resist nature’s lure.
+This ability replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
 **Divine Servants (Su)**: At 9th level, a nature priest adds the spells *lesser planar ally*, [*planar ally*](../../magic/spells/planar-ally.md), and *greater planar ally* to her druid spell list at their cleric spell levels. When she casts these spells, the planar allies summoned require half the payment described in those spells.
 
-This ability replaces the venom immunity ability.
+This ability replaces the [venom immunity](druid.md#venom-immunity-ex) ability.
 
 ## Druidic Herbalism
 
@@ -1084,15 +1084,15 @@ Some druids come to worship the storm as an aspect of pure elemental fury in the
 
 **Nature Bond (Ex)**: A tempest druid may not choose an animal companion, and must instead select a domain when she gains the Nature Bond ability. A tempest druid must choose the Air or Weather domain, the Cloud, Storm, or Wind subdomain, or the Aquatic or Swamp domain.
 
-**Shore Sense (Ex)**: A tempest druid gains a +4 bonus on Knowledge (nature) and Survival checks in coastal and marshy lands. This ability replaces nature sense.
+**Shore Sense (Ex)**: A tempest druid gains a +4 bonus on Knowledge (nature) and Survival checks in coastal and marshy lands. This ability replaces [nature sense](druid.md#nature-sense-ex).
 
-**Electrical Resistance (Ex)**: At 3rd level, a tempest druid gains electricity resistance 5. As a standard action, she can transfer this resistance to another creature for 1 hour, after which time it reverts to her. This ability replaces trackless step.
+**Electrical Resistance (Ex)**: At 3rd level, a tempest druid gains electricity resistance 5. As a standard action, she can transfer this resistance to another creature for 1 hour, after which time it reverts to her. This ability replaces [trackless step](druid.md#trackless-step-ex).
 
-**Eyes of the Storm (Ex)**: At 4th level, a tempest druid can see through 10 feet of magical fog, mist, gas, wind, rain, or similar inclement weather conditions, ignoring any concealment it might grant. This distance increases by 5 feet for every 4 levels beyond 4th. This ability replaces resist nature's lure.
+**Eyes of the Storm (Ex)**: At 4th level, a tempest druid can see through 10 feet of magical fog, mist, gas, wind, rain, or similar inclement weather conditions, ignoring any concealment it might grant. This distance increases by 5 feet for every 4 levels beyond 4th. This ability replaces [resist nature's lure](druid.md#resist-natures-lure-ex).
 
 **Bend Bolt (Su)**: At 9th level, a tempest druid can redirect nearby electrical attacks. As an immediate action, the druid can shift the area or target of an electricity attack by 5 feet in any direction. If the electricity affects an area, the druid selects one square to be unaffected and an adjacent square to be affected (if this square is already in the area, this has no additional effect in that area). If the electricity affects a target, the druid selects an adjacent target. She cannot redirect electricity damage conducted to her by physical contact with an object or creature (such as a [*shocking grasp*](../../magic/spells/shocking-grasp.md) or a shock weapon). She can use this ability a number of times per day equal to her Charisma bonus.
 
-For example, if she were in the line of a wizard's [*lightning bolt*](../../magic/spells/lightning-bolt.md), she could have the spell skip her square and instead affect an adjacent square, even if this meant the spell did not form a continuous line. If another druid attacked her with [*call lightning*](../../magic/spells/call-lightning.md), she could shift the targeted bolt to an adjacent square, hitting a creature in that square (if any). This ability replaces venom immunity.
+For example, if she were in the line of a wizard's [*lightning bolt*](../../magic/spells/lightning-bolt.md), she could have the spell skip her square and instead affect an adjacent square, even if this meant the spell did not form a continuous line. If another druid attacked her with [*call lightning*](../../magic/spells/call-lightning.md), she could shift the targeted bolt to an adjacent square, hitting a creature in that square (if any). This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
 ## Sunrider
 
@@ -1102,45 +1102,45 @@ Sunriders help their allies, be they fellow tribe members or fellow adventurers,
 
 **Weapon and Armor Proficiencies**: A sunrider gains proficiency with the [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons), but not with the [scythe](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), [sickle](../../equipment/weapons-simple.md#simple-light-melee-weapons), or [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons). This alters the druid’s weapon and armor proficiencies.
 
-**Nature Bond (Ex)**: A sunrider must use this ability to bond with a horse or a pony as an animal companion; she cannot choose a different animal or choose a domain instead of an animal companion. This alters nature bond.
+**Nature Bond (Ex)**: A sunrider must use this ability to bond with a horse or a pony as an animal companion; she cannot choose a different animal or choose a domain instead of an animal companion. This alters [nature bond](druid.md#nature-bond-ex).
 
-**Born to the Saddle (Ex)**: At 2nd level, while wearing light or no armor, a sunrider does not need to attempt Ride checks for any task listed in the Ride skill with a DC of 15 or lower. She does not take an armor check penalty on Ride checks while riding her mount. This ability replaces woodland stride.
+**Born to the Saddle (Ex)**: At 2nd level, while wearing light or no armor, a sunrider does not need to attempt Ride checks for any task listed in the Ride skill with a DC of 15 or lower. She does not take an armor check penalty on Ride checks while riding her mount. This ability replaces [woodland stride](druid.md#woodland-stride-ex).
 
-**Mounted Advantage (Su)**: At 3rd level, any allied mount within 30 feet of a sunrider can ignore the effects of rocky or sandy difficult terrain. This ability replaces trackless step.
+**Mounted Advantage (Su)**: At 3rd level, any allied mount within 30 feet of a sunrider can ignore the effects of rocky or sandy difficult terrain. This ability replaces [trackless step](druid.md#trackless-step-ex).
 
-**Desert Born (Ex)**: A sunrider is at home in the desert. At 4th level, she gains a +2 bonus on initiative checks and on Knowledge (geography), Perception, Stealth, and Survival checks while she is in desert terrain. Mounted allies traveling with her likewise gain a +1 bonus on initiative checks and Perception and Survival checks while in desert terrain, as long as they are within 30 feet of the sunrider. This ability replaces resist nature’s lure.
+**Desert Born (Ex)**: A sunrider is at home in the desert. At 4th level, she gains a +2 bonus on initiative checks and on Knowledge (geography), Perception, Stealth, and Survival checks while she is in desert terrain. Mounted allies traveling with her likewise gain a +1 bonus on initiative checks and Perception and Survival checks while in desert terrain, as long as they are within 30 feet of the sunrider. This ability replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
-**Concerted Effort (Ex)**: At 4th level, a sunrider can extend the bond she shares with her horse to other nearby mounted companions, forming them into a fighting force that seems to share a single mind. Allied mounts within 60 feet of the sunrider gain evasion as per the animal companion special ability. At 6th level, the range expands to 90 feet and allied mounts gain a +10-foot enhancement bonus to their speed. At 8th level, the range expands to 120 feet and allied mounts gain devotion as per the animal companion special ability. At 10th level, allied mounts gain multiattack as per the animal companion special ability. At 12th level, allied mounts gain a +2 bonus on saving throws. At 14th level, allied mounts gain a +20-foot enhancement bonus to their speed. At 16th level, allied mounts gain improved evasion as per the animal companion special ability. At 18th level, allied mounts gain a +2 dodge bonus to their Armor Class and a +2 bonus on attack rolls. At 20th level, allied mounts gain DR 5/— and energy resistance 10 to acid, cold, electricity, fire, and sonic damage. These abilities function only while allied mounts are within range of the sunrider (her own mount always counts as an ally). This ability replaces wild shape.
+**Concerted Effort (Ex)**: At 4th level, a sunrider can extend the bond she shares with her horse to other nearby mounted companions, forming them into a fighting force that seems to share a single mind. Allied mounts within 60 feet of the sunrider gain evasion as per the animal companion special ability. At 6th level, the range expands to 90 feet and allied mounts gain a +10-foot enhancement bonus to their speed. At 8th level, the range expands to 120 feet and allied mounts gain devotion as per the animal companion special ability. At 10th level, allied mounts gain multiattack as per the animal companion special ability. At 12th level, allied mounts gain a +2 bonus on saving throws. At 14th level, allied mounts gain a +20-foot enhancement bonus to their speed. At 16th level, allied mounts gain improved evasion as per the animal companion special ability. At 18th level, allied mounts gain a +2 dodge bonus to their Armor Class and a +2 bonus on attack rolls. At 20th level, allied mounts gain DR 5/— and energy resistance 10 to acid, cold, electricity, fire, and sonic damage. These abilities function only while allied mounts are within range of the sunrider (her own mount always counts as an ally). This ability replaces [wild shape](druid.md#wild-shape-su).
 
 ## Halcyon Druid
 
 Halcyon druids combine the teachings of an arcane tradition with traditional druidic practices. Though they revere the natural world, they are less focused on emulating its inhabitants; instead they treat with beings from the Outer Sphere. As a sign of their allegiance, these druids wear fantastical masks depicting celestials, fiends, and—most often—the bestial agathions. They are peacekeepers, mediating between people and nature, people and the spirit world, and different groups of people. When necessary, they use their magic to fight enemies of peace, especially demons and demon cultists.
 
-**Bonded Mask (Su)**: A halcyon druid forms a powerful bond with a mask, which functions identically to a wizard’s bonded object except that it can be used to cast druid spells (including those gained from class abilities) instead of wizard spells. A bonded mask must be worn to have an effect, and it occupies the head slot. A halcyon druid can enhance her mask with abilities appropriate for a head slot item, and can designate an existing head slot item as her bonded mask (but only if it covers her face). This ability replaces nature bond.
+**Bonded Mask (Su)**: A halcyon druid forms a powerful bond with a mask, which functions identically to a wizard’s bonded object except that it can be used to cast druid spells (including those gained from class abilities) instead of [wizard spells](wizard.md#spells). A bonded mask must be worn to have an effect, and it occupies the head slot. A halcyon druid can enhance her mask with abilities appropriate for a head slot item, and can designate an existing head slot item as her bonded mask (but only if it covers her face). This ability replaces [nature bond](druid.md#nature-bond-ex).
 
-**First Magic–Trained (Ex)**: A halcyon druid adds Diplomacy and all Knowledge skills to her list of class skills. This ability replaces nature sense and alters the druid’s class skills.
+**First Magic–Trained (Ex)**: A halcyon druid adds Diplomacy and all Knowledge skills to her list of class skills. This ability replaces [nature sense](druid.md#nature-sense-ex) and alters the druid’s class skills.
 
-**Peacekeeper (Ex)**: A halcyon druid adds half her class level (minimum 1) to Diplomacy and Knowledge (local) checks. This ability replaces wild empathy.
+**Peacekeeper (Ex)**: A halcyon druid adds half her class level (minimum 1) to Diplomacy and Knowledge (local) checks. This ability replaces [wild empathy](druid.md#wild-empathy-ex).
 
-**Spontaneous Casting**: A halcyon druid adds all spells from the Good cleric domain to her druid spell list, and she can focus stored spell energy into spells from the Good domain that she hasn’t prepared ahead of time. She can lose a prepared spell to cast any spell of the same level or lower from the Good domain. This ability replaces spontaneous casting.
+**Spontaneous Casting**: A halcyon druid adds all spells from the Good cleric domain to her druid spell list, and she can focus stored spell energy into spells from the Good domain that she hasn’t prepared ahead of time. She can lose a prepared spell to cast any spell of the same level or lower from the Good domain. This ability replaces [spontaneous casting](druid.md#spontaneous-casting).
 
-**Natural Arcana (Su)**: At 4th level and every 2 levels thereafter, a halcyon druid chooses two spells from the wizard/sorcerer spell list and adds them to her druid spell list. The chosen spells must be at least 1 level lower than the highest level spell she can currently cast. At 20th level, the halcyon druid can choose wizard/sorcerer spells of any level. This ability replaces wild shape.
+**Natural Arcana (Su)**: At 4th level and every 2 levels thereafter, a halcyon druid chooses two spells from the wizard/sorcerer spell list and adds them to her druid spell list. The chosen spells must be at least 1 level lower than the highest level spell she can currently cast. At 20th level, the halcyon druid can choose wizard/[sorcerer spells](sorcerer.md#spells) of any level. This ability replaces [wild shape](druid.md#wild-shape-su).
 
-**Resist Fiendish Influence (Ex)**: At 4th level, a halcyon druid gains a +4 bonus on saving throws against the spell-like and supernatural abilities of outsiders with the evil subtype and spells with the evil descriptor. This ability replaces resist nature’s lure.
+**Resist Fiendish Influence (Ex)**: At 4th level, a halcyon druid gains a +4 bonus on saving throws against the spell-like and supernatural abilities of outsiders with the evil subtype and spells with the evil descriptor. This ability replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
-**Embody Mask (Sp)**: At 13th level, a halcyon druid wearing her bonded mask can embody the spirit it represents, which can be any Tiny to Large agathion, angel, archon, or azata. This ability requires a standard action to activate and functions as per *beast shape IV* (using the adjustments for magical beasts), but adds the following abilities if the assumed form has them: aura of menace, protective aura, speak with animals, telepathy, and truespeech. If the assumed form has immunity to a condition, the druid gains a +4 bonus on saving throws against effects that cause that condition. A halcyon druid can use this ability for a number of minutes per day equal to her druid level. The duration does not need to be consecutive, but must be used in 1-minute increments. This ability replaces a thousand faces.
+**Embody Mask (Sp)**: At 13th level, a halcyon druid wearing her bonded mask can embody the spirit it represents, which can be any Tiny to Large agathion, angel, archon, or azata. This ability requires a standard action to activate and functions as per *beast shape IV* (using the adjustments for magical beasts), but adds the following abilities if the assumed form has them: aura of menace, protective aura, speak with animals, telepathy, and truespeech. If the assumed form has immunity to a condition, the druid gains a +4 bonus on saving throws against effects that cause that condition. A halcyon druid can use this ability for a number of minutes per day equal to her druid level. The duration does not need to be consecutive, but must be used in 1-minute increments. This ability replaces [a thousand faces](druid.md#a-thousand-faces-su).
 
 ## Fey-Court Adept
 
 Fey-court adepts learn the secret magic of the First World fey in a moving, reality-phasing fey city that appears on the new moon at seemingly random locations in a remote forest. They often venerate the fey patrons of intrigue and trickery.
 
-**Fey-Court Skills**: A fey-court adept adds Bluff, Diplomacy, Disguise, Sense Motive, Perform (any), and Stealth to her list of class skills. This ability replaces nature sense.
+**Fey-Court Skills**: A fey-court adept adds Bluff, Diplomacy, Disguise, Sense Motive, Perform (any), and Stealth to her list of class skills. This ability replaces [nature sense](druid.md#nature-sense-ex).
 
-**Nature Bond (Su)**: A fey-court adept cannot select an animal companion, and can take only a domain. If she worships a fey power, she can choose any of the domains or subdomains granted by that power in addition to those normally available to druids. This ability alters nature bond.
+**Nature Bond (Su)**: A fey-court adept cannot select an animal companion, and can take only a domain. If she worships a fey power, she can choose any of the domains or subdomains granted by that power in addition to those normally available to druids. This ability alters [nature bond](druid.md#nature-bond-ex).
 
-**Animal Speech (Su)**: A fey-court adept can imbue normal animals with the ability to speak for a brief period. Once per day as a standard action, she can touch an animal to grant it the ability to speak any language the druid knows for 1 minute per druid level. This does not increase the animal's Intelligence or improve its attitude, and the animal behaves as though communicating with someone under the effects of a *speak with animals* spell, save that it can speak with anyone who understands the language the adept grants it. The fey-court adept gains one additional use of this ability at 4th level and every 4 levels thereafter. This ability replaces spontaneous casting.
+**Animal Speech (Su)**: A fey-court adept can imbue normal animals with the ability to speak for a brief period. Once per day as a standard action, she can touch an animal to grant it the ability to speak any language the druid knows for 1 minute per druid level. This does not increase the animal's Intelligence or improve its attitude, and the animal behaves as though communicating with someone under the effects of a *speak with animals* spell, save that it can speak with anyone who understands the language the adept grants it. The fey-court adept gains one additional use of this ability at 4th level and every 4 levels thereafter. This ability replaces [spontaneous casting](druid.md#spontaneous-casting).
 
-**Resist Fey Influence (Ex)**: At 4th level, a fey-court adept gains a +4 bonus on saving throws against the spell-like and supernatural abilities of fey. Once per day before attempting such a saving throw, she can choose to roll two dice and take the better result, applying the +4 bonus as normal. This ability replaces resist nature's lure.
+**Resist Fey Influence (Ex)**: At 4th level, a fey-court adept gains a +4 bonus on saving throws against the spell-like and supernatural abilities of fey. Once per day before attempting such a saving throw, she can choose to roll two dice and take the better result, applying the +4 bonus as normal. This ability replaces [resist nature's lure](druid.md#resist-natures-lure-ex).
 
 **Locate Fey City (Sp)**: At 9th level, a fey-court adept can cast [*find the path*](../../magic/spells/find-the-path.md) as a spell-like ability, but only to locate the fey city. The spell's duration is extended until the druid reaches her destination or until the city recedes from the Material Plane at the end of the new moon. This ability can be used only once per month, during the new moon.
 
@@ -1148,7 +1148,7 @@ Fey-court adepts learn the secret magic of the First World fey in a moving, real
 
 Some druids forge powerful bonds with the raw, natural power of the First World. Progenitors are druids who tap into the vibrant power of the First World to propagate natural and supernatural wonders.
 
-**Infused Summoning (Ex)**: When a progenitor casts *summon nature's ally* to summon a creature, the summoned creature gains fast healing equal to the progenitor's level (maximum equal to the progenitor's Wisdom modifier). This alters spontaneous casting.
+**Infused Summoning (Ex)**: When a progenitor casts *summon nature's ally* to summon a creature, the summoned creature gains fast healing equal to the progenitor's level (maximum equal to the progenitor's Wisdom modifier). This alters [spontaneous casting](druid.md#spontaneous-casting).
 
 **Primal Bond (Ex)**: A progenitor infuses herself with fey magic so that she is treated as either her original creature type or the fey type for the purposes of spells or effects that target a creature by type, whichever is more beneficial to her. Additionally, the progenitor chooses one of two forms through which this bond expresses itself: magic or nature.
 
@@ -1156,9 +1156,9 @@ A progenitor who chooses magic as her primal bond can draw upon wild magic as a 
 
 A progenitor who chooses nature as her primal bond can create plants as a full-round action. She can do so once per day plus one additional time per day per 5 levels. At the start of her next turn, so long as she is touching a solid surface underfoot, a 5-foot radius of mobile undergrowth springs to life around the progenitor for a number of rounds equal to 3 plus the progenitor's Wisdom bonus. Upon activating this ability, the progenitor chooses whether the undergrowth provides cover or difficult terrain. If the progenitor chooses cover, her undergrowth provides a cover bonus to AC to the progenitor and allies within the radius. If she chooses difficult terrain, enemies who enter the radius of undergrowth treat it as difficult terrain. A progenitor's undergrowth is treated as forest terrain if it provides cover and plains terrain if it provides difficult terrain. This radius increases by 5 feet at 5th level and every 5 levels thereafter.
 
-This replaces nature bond.
+This replaces [nature bond](druid.md#nature-bond-ex).
 
-**Fey Shape (Su)**: A progenitor never gains the ability to use wild shape to transform into an elemental. At 6th level, a progenitor can use wild shape to change into a Small or Medium fey. When doing so, her wild shape functions as *fey form I*. At 8th level, a progenitor can use wild shape to change into a Tiny or Large fey. When she does so, her wild shape functions as *fey form II*. At 10th level, a progenitor can use wild shape to change into a Diminutive or Huge fey. When she does so, her wild shape functions as *fey form III*. At 14th level, when a progenitor uses wild shape to assume a fey form, her wild shape functions as *fey form IV*. This alters wild shape.
+**Fey Shape (Su)**: A progenitor never gains the ability to use wild shape to transform into an elemental. At 6th level, a progenitor can use wild shape to change into a Small or Medium fey. When doing so, her wild shape functions as *fey form I*. At 8th level, a progenitor can use wild shape to change into a Tiny or Large fey. When she does so, her wild shape functions as *fey form II*. At 10th level, a progenitor can use wild shape to change into a Diminutive or Huge fey. When she does so, her wild shape functions as *fey form III*. At 14th level, when a progenitor uses wild shape to assume a fey form, her wild shape functions as *fey form IV*. This alters [wild shape](druid.md#wild-shape-su).
 
 ## Ancient Guardian
 
@@ -1166,17 +1166,17 @@ Ancient guardians revere nature and draw power from its divine energies, but als
 
 **Ancient Arms**: An ancient guardian can't wield weapons made primarily of metal. She is proficient with only the [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [dart](../../equipment/weapons-simple.md#simple-ranged-weapons), [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), [shortspear](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [sling](../../equipment/weapons-simple.md#simple-ranged-weapons), and [spear](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons). She is also proficient with all natural attacks (claw, bite, and so forth) of any form she assumes with wild shape. Using a prohibited weapon renders her unable to cast druid spells or use any of her druid supernatural or spell-like class abilities while wielding the weapon and for 24 hours after ceasing to wield it. This alters the druid's normal weapon proficiencies.
 
-**Community Bond (Ex)**: At 1st level, an ancient guardian must choose the domain nature bond and select from the following domains: Community, Healing, Knowledge, Protection, or Repose. This ability alters nature bond.
+**Community Bond (Ex)**: At 1st level, an ancient guardian must choose the domain nature bond and select from the following domains: Community, Healing, Knowledge, Protection, or Repose. This ability alters [nature bond](druid.md#nature-bond-ex).
 
-**Patience of Nature (Ex)**: At 1st level, an ancient guardian does not gain wild empathy. Instead, at 2nd level, an ancient guardian adds Diplomacy, Perform (oratory), and Sense Motive to her list of class skills and gains an insight bonus equal to half her druid level on such checks. This ability replaces wild empathy.
+**Patience of Nature (Ex)**: At 1st level, an ancient guardian does not gain wild empathy. Instead, at 2nd level, an ancient guardian adds Diplomacy, Perform (oratory), and Sense Motive to her list of class skills and gains an insight bonus equal to half her druid level on such checks. This ability replaces [wild empathy](druid.md#wild-empathy-ex).
 
-**Ancient Ways (Ex)**: At 3rd level, an ancient guardian increases any climb, fly, or swim speeds she has or gains via her wild shape ability by 10 feet. This ability replaces trackless step and woodland stride.
+**Ancient Ways (Ex)**: At 3rd level, an ancient guardian increases any climb, fly, or swim speeds she has or gains via her wild shape ability by 10 feet. This ability replaces [trackless step](druid.md#trackless-step-ex) and [woodland stride](druid.md#woodland-stride-ex).
 
-**Dispel Hostility (Su)**: An ancient guardian doesn't gain spontaneous casting at 1st level. Instead, at 3rd level, she can channel stored spell energy into a spell capable of dispelling hostile thoughts and strong emotions. She can "lose" a prepared spell in order to cast [*calm emotions*](../../magic/spells/calm-emotions.md). Instead of the normal Will saving throw for that spell, the DC of a *calm emotions* spell cast with this ability is 10 + 1/2 the ancient guardian's druid level + her Wisdom modifier. This ability replaces spontaneous casting.
+**Dispel Hostility (Su)**: An ancient guardian doesn't gain spontaneous casting at 1st level. Instead, at 3rd level, she can channel stored spell energy into a spell capable of dispelling hostile thoughts and strong emotions. She can "lose" a prepared spell in order to cast [*calm emotions*](../../magic/spells/calm-emotions.md). Instead of the normal Will saving throw for that spell, the DC of a *calm emotions* spell cast with this ability is 10 + 1/2 the ancient guardian's druid level + her Wisdom modifier. This ability replaces [spontaneous casting](druid.md#spontaneous-casting).
 
-**Unimpeachable (Ex)**: At 4th level, an ancient guardian gains a +4 bonus on saves against enchantments. This ability replaces resist nature's lure.
+**Unimpeachable (Ex)**: At 4th level, an ancient guardian gains a +4 bonus on saves against enchantments. This ability replaces [resist nature's lure](druid.md#resist-natures-lure-ex).
 
-**Undo Artifice (Sp)**: At 13th level, an ancient guardian gains the ability to reduce a nonliving item to its component raw materials. This acts as the spell [*polymorph any object*](../../magic/spells/polymorph-any-object.md), but works on magical or nonmagical nonliving objects. The duration is always permanent. Unlike *polymorph any object*, this ability can't be used to mimic the effects of other spells. Items subject to this effect receive a Fortitude saving throw to negate the effect (DC = 10 + 1/2 the ancient guardian's druid level + her Wisdom modifier). Magic items receive a circumstance bonus on this save equal to +1 for every 5,000 gp of the item's value. An ancient guardian can use undo artifice a number of times per day equal to her Wisdom modifier. This ability replaces a thousand faces.
+**Undo Artifice (Sp)**: At 13th level, an ancient guardian gains the ability to reduce a nonliving item to its component raw materials. This acts as the spell [*polymorph any object*](../../magic/spells/polymorph-any-object.md), but works on magical or nonmagical nonliving objects. The duration is always permanent. Unlike *polymorph any object*, this ability can't be used to mimic the effects of other spells. Items subject to this effect receive a Fortitude saving throw to negate the effect (DC = 10 + 1/2 the ancient guardian's druid level + her Wisdom modifier). Magic items receive a circumstance bonus on this save equal to +1 for every 5,000 gp of the item's value. An ancient guardian can use undo artifice a number of times per day equal to her Wisdom modifier. This ability replaces [a thousand faces](druid.md#a-thousand-faces-su).
 
 ## Troll Fury
 
@@ -1184,11 +1184,11 @@ Troll furies combine a druid's love of natural balance with a single-minded devo
 
 Troll furies take the long view on sustainability, protecting the trolls' territory from gluttonous trolls and outsiders alike, and even hunting down tribal enemies when necessary. Holding themselves aloof from the rest of troll society, troll furies command great respect and can rally a region's trolls quickly to deal with threats to their existence and the health of their environment.
 
-**Inspire Fervor (Ex)**: At 1st level, once per day as a standard action, a troll fury can chant over another troll within 30 feet, bolstering it against fear and improving its combat abilities. This works like the inspire courage bard ability, but affects only one troll and lasts 1 minute. The troll fury uses her druid level as her bard level to determine the effects of this ability. This ability replaces wild empathy.
+**Inspire Fervor (Ex)**: At 1st level, once per day as a standard action, a troll fury can chant over another troll within 30 feet, bolstering it against fear and improving its combat abilities. This works like the inspire courage bard ability, but affects only one troll and lasts 1 minute. The troll fury uses her druid level as her bard level to determine the effects of this ability. This ability replaces [wild empathy](druid.md#wild-empathy-ex).
 
-**Chosen Prey (Ex)**: At 4th level, a troll fury can select one creature type from the ranger's favored enemy list and gains a favored enemy bonus against that creature type with an effective ranger level equal to her druid level. This ability never grants the troll fury favored enemy bonuses against a second favored enemy creature type. A troll fury can change her favored enemy type once per week by performing a ritual that takes 1 hour to perform. If a troll fury already has a favored enemy from another class, the levels from the classes that grant favored enemies stack with this one to determine the favored enemy bonuses, and in this case she can gain other favored enemy creature types. This ability replaces resist nature's lure.
+**Chosen Prey (Ex)**: At 4th level, a troll fury can select one creature type from the ranger's favored enemy list and gains a favored enemy bonus against that creature type with an effective ranger level equal to her druid level. This ability never grants the troll fury favored enemy bonuses against a second favored enemy creature type. A troll fury can change her favored enemy type once per week by performing a ritual that takes 1 hour to perform. If a troll fury already has a favored enemy from another class, the levels from the classes that grant favored enemies stack with this one to determine the favored enemy bonuses, and in this case she can gain other favored enemy creature types. This ability replaces [resist nature's lure](druid.md#resist-natures-lure-ex).
 
-**Troll Fury's Mark (Su)**: At 9th level, each time a troll fury or her animal companion damages a creature with a natural attack, the troll fury gains a +10 insight bonus on Survival checks to track that creature for 24 hours. The duration of this ability does not stack with itself. Each time the troll fury or her animal companion hits the target, this ability lasts for the next 24 hours. This ability replaces venom immunity.
+**Troll Fury's Mark (Su)**: At 9th level, each time a troll fury or her animal companion damages a creature with a natural attack, the troll fury gains a +10 insight bonus on Survival checks to track that creature for 24 hours. The duration of this ability does not stack with itself. Each time the troll fury or her animal companion hits the target, this ability lasts for the next 24 hours. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
 ## Elemental Ally
 
@@ -1198,13 +1198,13 @@ An elemental ally is a druid who has crafted powerful bonds of trust and friends
 
 Each of the four elementals has its own base form, skills, and feats. The elemental ally can summon one of these elementals with the same 1-minute ritual a summoner normally uses to do so. The elemental ally can't summon an eidolon or cast *summon nature's ally* if she currently has an eidolon summoned. She also can't summon an eidolon if she currently has a creature summoned through other means. If one of the elemental ally's eidolons is killed, she cannot summon any eidolons for 24 hours. The elemental ally can dismiss her eidolon as a standard action.
 
-As the elemental ally gains levels, her elemental eidolons' base statistics and base evolutions increase as if her druid level were her summoner level. The eidolons gain the darkvision, link, share spells, evasion, ability score increase, devotion, multiattack, and improved evasion abilities at the appropriate levels, but never gain an evolution pool. Abilities and spells that grant additional evolution points to eidolons do not function for elemental eidolons, though any ability that would grant evolution points to an animal companion does work. The elemental ally does not gain life link or any other class features a summoner gains in relation to her eidolon. This ability replaces nature's bond and wild shape.
+As the elemental ally gains levels, her elemental eidolons' base statistics and base evolutions increase as if her druid level were her summoner level. The eidolons gain the darkvision, link, share spells, evasion, ability score increase, devotion, multiattack, and improved evasion abilities at the appropriate levels, but never gain an evolution pool. Abilities and spells that grant additional evolution points to eidolons do not function for elemental eidolons, though any ability that would grant evolution points to an animal companion does work. The elemental ally does not gain life link or any other class features a summoner gains in relation to her eidolon. This ability replaces nature's bond and [wild shape](druid.md#wild-shape-su).
 
-**Elemental Empathy (Ex)**: An elemental ally can improve the attitude of a creature of the elemental subtype. This ability functions just like a Diplomacy check to improve the attitude of a person. The elemental ally rolls 1d20 and adds her druid level and her Charisma modifier to determine the elemental empathy check result. To use elemental empathy, the elemental ally and the elemental must be able to study each other, which means that they must be within 30 feet of one another under normal conditions. Generally, influencing an elemental in this way takes 1 minute, but as with influencing people, it might take more or less time. An elemental ally can also use this ability to influence a non-elemental outsider with the air, earth, fire, or water subtype, but she takes a –4 penalty on the check. This ability replaces wild empathy.
+**Elemental Empathy (Ex)**: An elemental ally can improve the attitude of a creature of the elemental subtype. This ability functions just like a Diplomacy check to improve the attitude of a person. The elemental ally rolls 1d20 and adds her druid level and her Charisma modifier to determine the elemental empathy check result. To use elemental empathy, the elemental ally and the elemental must be able to study each other, which means that they must be within 30 feet of one another under normal conditions. Generally, influencing an elemental in this way takes 1 minute, but as with influencing people, it might take more or less time. An elemental ally can also use this ability to influence a non-elemental outsider with the air, earth, fire, or water subtype, but she takes a –4 penalty on the check. This ability replaces [wild empathy](druid.md#wild-empathy-ex).
 
 **Elemental Magic**: The elemental ally can target elementals (including her elemental eidolons) with any spell she casts that targets animals, even though elementals can't normally be targeted by such spells.
 
-**Elemental Resistance (Ex)**: At 4th level, an elemental ally gains resist acid, cold, electricity, and fire 5. This ability replaces resist nature's lure.
+**Elemental Resistance (Ex)**: At 4th level, an elemental ally gains resist acid, cold, electricity, and fire 5. This ability replaces [resist nature's lure](druid.md#resist-natures-lure-ex).
 
 ## Goliath Druid
 
@@ -1214,13 +1214,13 @@ Goliath druids hone their spiritual and magical connections to nature's largest 
 
 **Bonus Languages**: A goliath druid with an Intelligence bonus can select Giant as a bonus language.
 
-**Primal Size**: A goliath druid adds [*enlarge person*](../../magic/spells/enlarge-person.md) to her list of class spells. She can cast this spell only on herself. She can also channel stored spell energy to cast this spell without preparing it—she can lose a prepared spell of 1st level or higher to cast *enlarge person*. This ability replaces nature sense.
+**Primal Size**: A goliath druid adds [*enlarge person*](../../magic/spells/enlarge-person.md) to her list of class spells. She can cast this spell only on herself. She can also channel stored spell energy to cast this spell without preparing it—she can lose a prepared spell of 1st level or higher to cast *enlarge person*. This ability replaces [nature sense](druid.md#nature-sense-ex).
 
-**Primal Bond (Ex)**: When a goliath druid forms a nature bond, if she selects a cleric domain, she must select from the Animal, Destruction, or Strength domains, or the Ferocity, Growth, or Rage subdomains. If the goliath druid selects an animal companion, she must select a dinosaur or megafauna. If she has a dinosaur or megafauna animal companion, she can target it with *enlarge person* even though the companion isn't of the humanoid type. This ability alters nature bond.
+**Primal Bond (Ex)**: When a goliath druid forms a nature bond, if she selects a cleric domain, she must select from the Animal, Destruction, or Strength domains, or the Ferocity, Growth, or Rage subdomains. If the goliath druid selects an animal companion, she must select a dinosaur or megafauna. If she has a dinosaur or megafauna animal companion, she can target it with *enlarge person* even though the companion isn't of the humanoid type. This ability alters [nature bond](druid.md#nature-bond-ex).
 
-**Primal Empathy (Ex)**: A goliath druid's wild empathy functions only with creatures that are Large or larger. This ability alters wild empathy.
+**Primal Empathy (Ex)**: A goliath druid's wild empathy functions only with creatures that are Large or larger. This ability alters [wild empathy](druid.md#wild-empathy-ex).
 
-**Face Nature's Might (Ex)**: At 4th level, a goliath druid gains a +4 bonus on saving throws against the spell-like and supernatural abilities of giants. This ability replaces resist nature's lure.
+**Face Nature's Might (Ex)**: At 4th level, a goliath druid gains a +4 bonus on saving throws against the spell-like and supernatural abilities of giants. This ability replaces [resist nature's lure](druid.md#resist-natures-lure-ex).
 
 **Wild Shape (Su)**: Druids' ability to wild shape into a creature of the animal type allows a goliath druid to assume only the form of a dinosaur or megafauna. She doesn't gain the ability to become an elemental or plant.
 
@@ -1228,7 +1228,7 @@ At 6th level, the goliath druid can use wild shape to become a Large humanoid of
 
 At 12th level, when taking the form of a giant, the goliath druid's wild shape functions as *giant form I*.
 
-At 14th level, the goliath druid can also use wild shape to change into a Huge giant. When taking the form of a giant, the goliath druid's wild shape functions as *giant form II*. This ability alters wild shape.
+At 14th level, the goliath druid can also use wild shape to change into a Huge giant. When taking the form of a giant, the goliath druid's wild shape functions as *giant form II*. This ability alters [wild shape](druid.md#wild-shape-su).
 
 **Primal Summons**: A goliath druid adds the following creatures to the list of creatures she can normally summon using *summon nature's ally* spells.
 
@@ -1242,7 +1242,7 @@ At 14th level, the goliath druid can also use wild shape to change into a Huge g
 - *Summon Nature's Ally VIII*: Spinosaurus.
 - *Summon Nature's Ally IX*: Diplodocus.
 
-This ability replaces venom immunity and a thousand faces.
+This ability replaces [venom immunity](druid.md#venom-immunity-ex) and [a thousand faces](druid.md#a-thousand-faces-su).
 
 ## Drovier
 
@@ -1250,27 +1250,27 @@ Droviers view their allies and adventuring companions as a herd or pack to be pr
 
 **Nature's Bond (Ex)**: A drovier must take the Animal domain with this ability, or the Eagle or Wolf animal domains. This ability modifies nature's bond.
 
-**Communal Aspect (Su)**: At 4th level, a drovier can imbue her allies (including herself) with an aspect of a wild animal. As a standard action, she chooses an animal totem and grants the abilities of that totem to every ally within 30 feet. This otherwise functions like the spell [*animal aspect*](../../magic/spells/animal-aspect.md). She can use this ability for 10 minutes per druid level each day. This duration does not need to be consecutive, but it must be used in 10-minute increments. If she uses the ability to grant a new aspect, any previous aspect immediately ends. At 20th level, the drovier can use this ability at will. At 6th level, the drovier's communal aspect ability grants the benefits of the spell *greater animal aspect*. The drovier can still choose only one aspect to grant her allies. At 8th level, the drovier can choose to grant her allies the benefits of the spell [*aspect of the falcon*](../../magic/spells/aspect-of-the-falcon.md) instead of an animal aspect. At 10th level, the drovier can choose to grant her allies the benefits of the spell [*aspect of the bear*](../../magic/spells/aspect-of-the-bear.md) instead of an animal aspect. At 12th level, the drovier can choose to grant her allies the benefits of the spell [*aspect of the stag*](../../magic/spells/aspect-of-the-stag.md) instead of an animal aspect. At 14th level, the drovier can choose to grant her allies the benefits of the spell [*aspect of the wolf*](../../magic/spells/aspect-of-the-wolf.md) rather than an animal aspect. This replaces wild shape.
+**Communal Aspect (Su)**: At 4th level, a drovier can imbue her allies (including herself) with an aspect of a wild animal. As a standard action, she chooses an animal totem and grants the abilities of that totem to every ally within 30 feet. This otherwise functions like the spell [*animal aspect*](../../magic/spells/animal-aspect.md). She can use this ability for 10 minutes per druid level each day. This duration does not need to be consecutive, but it must be used in 10-minute increments. If she uses the ability to grant a new aspect, any previous aspect immediately ends. At 20th level, the drovier can use this ability at will. At 6th level, the drovier's communal aspect ability grants the benefits of the spell *greater animal aspect*. The drovier can still choose only one aspect to grant her allies. At 8th level, the drovier can choose to grant her allies the benefits of the spell [*aspect of the falcon*](../../magic/spells/aspect-of-the-falcon.md) instead of an animal aspect. At 10th level, the drovier can choose to grant her allies the benefits of the spell [*aspect of the bear*](../../magic/spells/aspect-of-the-bear.md) instead of an animal aspect. At 12th level, the drovier can choose to grant her allies the benefits of the spell [*aspect of the stag*](../../magic/spells/aspect-of-the-stag.md) instead of an animal aspect. At 14th level, the drovier can choose to grant her allies the benefits of the spell [*aspect of the wolf*](../../magic/spells/aspect-of-the-wolf.md) rather than an animal aspect. This replaces [wild shape](druid.md#wild-shape-su).
 
 ## Toxicologist
 
 Druids protect the natural environs of the world, and sometimes that requires forcibly expelling those who would pollute, despoil, or otherwise harm such areas. Single battles may not be enough to win the war, so some druids specialize in the stealthy application of insidious poisons to their targets, believing word of their foes' horrifying deaths will deter others from attempting similar desecrations of the natural world.
 
-**Expanded Repertoire (Ex)**: A toxicologist adds the following extracts and spells to her druid spell list as druid spells of the listed spell level: [*poisoned egg*](../../magic/spells/poisoned-egg.md) (1st level), [*transmute potion to poison*](../../magic/spells/transmute-potion-to-poison.md) (2nd level), [*stinking cloud*](../../magic/spells/stinking-cloud.md) (3rd level), [*toxic gift*](../../magic/spells/toxic-gift.md) (4th level), and [*cloudkill*](../../magic/spells/cloudkill.md) (5th level). A toxicologist can channel stored spell energy only into summoning spells she has prepared ahead of time. This ability alters spells and replaces spontaneous casting.
+**Expanded Repertoire (Ex)**: A toxicologist adds the following extracts and spells to her druid spell list as druid spells of the listed spell level: [*poisoned egg*](../../magic/spells/poisoned-egg.md) (1st level), [*transmute potion to poison*](../../magic/spells/transmute-potion-to-poison.md) (2nd level), [*stinking cloud*](../../magic/spells/stinking-cloud.md) (3rd level), [*toxic gift*](../../magic/spells/toxic-gift.md) (4th level), and [*cloudkill*](../../magic/spells/cloudkill.md) (5th level). A toxicologist can channel stored spell energy only into summoning spells she has prepared ahead of time. This ability alters [spells](druid.md#spells) and replaces [spontaneous casting](druid.md#spontaneous-casting).
 
-**Natural Poison Lore (Ex)**: A toxicologist has a deep understanding of and appreciation for poisons. At 2nd level, she cannot accidentally poison herself when applying poison to a weapon and cannot accidentally poison an animal companion or summoned creature when applying poison to its claws (though poison obviously should not be applied to a creature's bite). This ability replaces wild empathy and woodland stride.
+**Natural Poison Lore (Ex)**: A toxicologist has a deep understanding of and appreciation for poisons. At 2nd level, she cannot accidentally poison herself when applying poison to a weapon and cannot accidentally poison an animal companion or summoned creature when applying poison to its claws (though poison obviously should not be applied to a creature's bite). This ability replaces [wild empathy](druid.md#wild-empathy-ex) and [woodland stride](druid.md#woodland-stride-ex).
 
-**Expert Poisoner (Su)**: At 4th level, a toxicologist increases the DCs of any spells she casts with the poison descriptor by 1. This ability replaces trackless step and resist nature's lure.
+**Expert Poisoner (Su)**: At 4th level, a toxicologist increases the DCs of any spells she casts with the poison descriptor by 1. This ability replaces [trackless step](druid.md#trackless-step-ex) and [resist nature's lure](druid.md#resist-natures-lure-ex).
 
-**Toxic Shaper (Su)**: A toxicologist never gains the ability to use wild shape to transform into an elemental or plant. At 8th level, a toxicologist can transform into a Small or Medium vermin. When she takes this form, her wild shape functions as *vermin shape I*. At 10th level, a toxicologist can transform into a Tiny or Large vermin. When she takes this form, her wild shape functions as *vermin shape II*. This ability alters wild shape.
+**Toxic Shaper (Su)**: A toxicologist never gains the ability to use wild shape to transform into an elemental or plant. At 8th level, a toxicologist can transform into a Small or Medium vermin. When she takes this form, her wild shape functions as *vermin shape I*. At 10th level, a toxicologist can transform into a Tiny or Large vermin. When she takes this form, her wild shape functions as *vermin shape II*. This ability alters [wild shape](druid.md#wild-shape-su).
 
 ## Mantella
 
 A mantella focuses on exploring her poisonous heritage, whether or not it has manifested in her own personal biology. The mantella is an archetype available to grippli druids.
 
-**Poison Affinity (Su)**: At 4th level, if a form the mantella assumes with wild shape has any poison abilities, the mantella also gains those abilities. However, the mantella can never use wild shape to take the form of an elemental. This alters wild shape.
+**Poison Affinity (Su)**: At 4th level, if a form the mantella assumes with wild shape has any poison abilities, the mantella also gains those abilities. However, the mantella can never use wild shape to take the form of an elemental. This alters [wild shape](druid.md#wild-shape-su).
 
-**Toxic Diet (Ex)**: At 6th level, both the mantella and her animal companion gain immunity to poison. Additionally, as an immediate action when exposed to a dose of poison, a mantella can absorb the toxin and store it internally for up to 1 day. As a swift action, a mantella can secrete this poison; this changes the poison's type to injury and applies the dose of poison to all of the druid's natural attacks. A mantella can use this ability three times per day, plus one additional time per day at 8th level and every 2 druid levels thereafter. This alters venom immunity and replaces spontaneous casting.
+**Toxic Diet (Ex)**: At 6th level, both the mantella and her animal companion gain immunity to poison. Additionally, as an immediate action when exposed to a dose of poison, a mantella can absorb the toxin and store it internally for up to 1 day. As a swift action, a mantella can secrete this poison; this changes the poison's type to injury and applies the dose of poison to all of the druid's natural attacks. A mantella can use this ability three times per day, plus one additional time per day at 8th level and every 2 druid levels thereafter. This alters [venom immunity](druid.md#venom-immunity-ex) and replaces [spontaneous casting](druid.md#spontaneous-casting).
 
 ## Supernaturalist
 
@@ -1280,9 +1280,9 @@ Supernaturalists wholly embrace paranormal phenomena as extensions of nature.
 
 **Eldritch Botanist (Ex)**: A supernaturalist can affect plants with mind-affecting effects she creates and with spells that normally affect animals. Any such spell that allows a Will save can instead be negated by the target plant with a successful Fortitude save at the same DC. She also can choose plant bond and green empathy, as a treesinger druid, in place of nature bond and wild empathy.
 
-**Paranormal Scholar (Ex)**: A supernaturalist gains [Psychic Sensitivity](../../rules/feats/psychic-sensitivity.md) as a bonus feat and adds Diplomacy, Knowledge (arcana), and Sense Motive as class skills. At 3rd level and every 3 levels thereafter, she can select a spell from the psychic class's spell list and add it to her druid spell list, and is able to prepare and cast it as a druid spell. This replaces nature sense, trackless step, and resist nature's lure.
+**Paranormal Scholar (Ex)**: A supernaturalist gains [Psychic Sensitivity](../../rules/feats/psychic-sensitivity.md) as a bonus feat and adds Diplomacy, Knowledge (arcana), and Sense Motive as class skills. At 3rd level and every 3 levels thereafter, she can select a spell from the psychic class's spell list and add it to her druid spell list, and is able to prepare and cast it as a druid spell. This replaces [nature sense](druid.md#nature-sense-ex), [trackless step](druid.md#trackless-step-ex), and [resist nature's lure](druid.md#resist-natures-lure-ex).
 
-**Animal Spirit (Su)**: At 4th level, a supernaturalist can perform a seance to call an animal spirit of any animal with which she is familiar to serve as her companion and guide. The supernaturalist gains spirit, spirit bonus, spirit surge, and taboo abilities as a medium 3 levels lower than her druid level. The supernaturalist's allies cannot participate in this seance. This ability replaces wild shape. The spirit abilities of the animal spirit are as follows.
+**Animal Spirit (Su)**: At 4th level, a supernaturalist can perform a seance to call an animal spirit of any animal with which she is familiar to serve as her companion and guide. The supernaturalist gains spirit, spirit bonus, spirit surge, and taboo abilities as a medium 3 levels lower than her druid level. The supernaturalist's allies cannot participate in this seance. This ability replaces [wild shape](druid.md#wild-shape-su). The spirit abilities of the animal spirit are as follows.
 
 *Spirit Bonus*: Your spirit bonus applies on attack and damage rolls with natural weapons and on skill checks relating to animals and plants.
 
@@ -1314,21 +1314,21 @@ The survivor embodies the neutral aspect of the natural world and eschews druidi
 
 **Nature Bond (Ex)**: At 1st level, a survivor must select an animal companion as her nature bond.
 
-**Element of Surprise (Ex)**: At 4th level, if a survivor makes a successful attack during a surprise round against a target that is unaware of her, her victim takes a penalty on its initiative check during the following round equal to half the damage dealt by the survivor's attack (minimum 0, maximum equal to the survivor's class level). This cannot reduce an initiative result below 1. This ability replaces resist nature's lure.
+**Element of Surprise (Ex)**: At 4th level, if a survivor makes a successful attack during a surprise round against a target that is unaware of her, her victim takes a penalty on its initiative check during the following round equal to half the damage dealt by the survivor's attack (minimum 0, maximum equal to the survivor's class level). This cannot reduce an initiative result below 1. This ability replaces [resist nature's lure](druid.md#resist-natures-lure-ex).
 
-**Trap**: At 4th level, a survivor learns how to create a [snare trap](ranger-archetypes.md#snare-trap-ex-or-su) and one other [ranger trap](ranger-archetypes.md#ranger-traps) of her choice. At 6th level and every 2 levels thereafter, she learns another trap. The survivor can use these traps a total number of times per day equal to 1/2 her druid level + her Wisdom modifier. Once a trap is learned, it can't be unlearned and replaced with a different type of trap. The survivor cannot select an individual trap more than once. This ability replaces wild shape.
+**Trap**: At 4th level, a survivor learns how to create a [snare trap](ranger-archetypes.md#snare-trap-ex-or-su) and one other [ranger trap](ranger-archetypes.md#ranger-traps) of her choice. At 6th level and every 2 levels thereafter, she learns another trap. The survivor can use these traps a total number of times per day equal to 1/2 her druid level + her Wisdom modifier. Once a trap is learned, it can't be unlearned and replaced with a different type of trap. The survivor cannot select an individual trap more than once. This ability replaces [wild shape](druid.md#wild-shape-su).
 
-**Launch Trap**: At 9th level, a survivor can affix a magical ranger trap to an arrow or thrown weapon, allowing her to set the trap remotely or use it as a direct attack. Attaching the trap to the projectile is part of the full-round action of creating a new trap. The trapped projectile is fired or thrown in the normal manner. If the projectile is fired at a square, the trap is treated as if the survivor had set the trap in that square, except the DC is 5 lower than normal. If the projectile is fired at a creature, the target takes damage from the ranged weapon and is treated as if it had triggered the trap (saving throw applies, if any). The attack has a maximum range of 60 feet, and range increments apply to the attack roll. The duration of the trapped projectile starts from when it is created, not from when it is used. This ability replaces venom immunity.
+**Launch Trap**: At 9th level, a survivor can affix a magical ranger trap to an arrow or thrown weapon, allowing her to set the trap remotely or use it as a direct attack. Attaching the trap to the projectile is part of the full-round action of creating a new trap. The trapped projectile is fired or thrown in the normal manner. If the projectile is fired at a square, the trap is treated as if the survivor had set the trap in that square, except the DC is 5 lower than normal. If the projectile is fired at a creature, the target takes damage from the ranged weapon and is treated as if it had triggered the trap (saving throw applies, if any). The attack has a maximum range of 60 feet, and range increments apply to the attack roll. The duration of the trapped projectile starts from when it is created, not from when it is used. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
 ## Tempest Tamer
 
 Druids draw upon the fiercest powers of nature, and tsunamis, typhoons, and whirlpools are among the most powerful forces in the ocean. Tempest tamers are at one with the water and gain the ability to soothe these dangerous phenomena.
 
-**Speech of the Sea**: A tempest tamer's bonus language options include Aquan and Auran, in addition to the bonus languages available to the character from her race. However, the tempest tamer does not gain Sylvan as a bonus language option. This ability alters bonus languages.
+**Speech of the Sea**: A tempest tamer's bonus language options include Aquan and Auran, in addition to the bonus languages available to the character from her race. However, the tempest tamer does not gain Sylvan as a bonus language option. This ability alters [bonus languages](druid.md#bonus-languages).
 
-**Whirlpool Walker (Ex)**: At 4th level, a tempest tamer can resist winds and the unnatural powers of sea creatures. The tempest tamer gains a +4 bonus on saving throws against spells with the air or water descriptor and the spell-like and supernatural abilities of creatures with the air, aquatic, or water subtype. This bonus also applies to saving throws to avoid damage from a vortex, whirlpool, or similar effects, as well as to saving throws to prevent being pulled into or moved by such effects. This ability replaces resist nature's lure.
+**Whirlpool Walker (Ex)**: At 4th level, a tempest tamer can resist winds and the unnatural powers of sea creatures. The tempest tamer gains a +4 bonus on saving throws against spells with the air or water descriptor and the spell-like and supernatural abilities of creatures with the air, aquatic, or water subtype. This bonus also applies to saving throws to avoid damage from a vortex, whirlpool, or similar effects, as well as to saving throws to prevent being pulled into or moved by such effects. This ability replaces [resist nature's lure](druid.md#resist-natures-lure-ex).
 
-**Tempest Wild Shape (Su)**: At 4th level, a tempest tamer gains the ability to turn herself into a Small water elemental. This ability functions as per the *elemental body I* spell except as noted here. The effect lasts for 1 hour per druid level or until she changes back. Changing form (to an elemental or back) is a standard action and doesn't provoke attacks of opportunity. At 6th level, a tempest tamer can use tempest wild shape to change into a Small air elemental. At 8th level, a tempest tamer can use tempest wild shape to change into a Medium air or water elemental, as per *elemental body II*. At 10th level, a tempest tamer can use tempest wild shape to change into a Large air or water elemental, as per *elemental body III*. At 12th level, a tempest tamer can use tempest wild shape to change into a Huge air or water elemental, as per *elemental body IV*. A tempest tamer can use this ability once per day plus an additional time per day at 6th level and every 2 levels thereafter (up to a total of eight times at 18th level). At 20th level, she can use tempest wild shape at will. This ability replaces wild shape.
+**Tempest Wild Shape (Su)**: At 4th level, a tempest tamer gains the ability to turn herself into a Small water elemental. This ability functions as per the *elemental body I* spell except as noted here. The effect lasts for 1 hour per druid level or until she changes back. Changing form (to an elemental or back) is a standard action and doesn't provoke attacks of opportunity. At 6th level, a tempest tamer can use tempest wild shape to change into a Small air elemental. At 8th level, a tempest tamer can use tempest wild shape to change into a Medium air or water elemental, as per *elemental body II*. At 10th level, a tempest tamer can use tempest wild shape to change into a Large air or water elemental, as per *elemental body III*. At 12th level, a tempest tamer can use tempest wild shape to change into a Huge air or water elemental, as per *elemental body IV*. A tempest tamer can use this ability once per day plus an additional time per day at 6th level and every 2 levels thereafter (up to a total of eight times at 18th level). At 20th level, she can use tempest wild shape at will. This ability replaces [wild shape](druid.md#wild-shape-su).
 
 ## Swarm Monger
 
@@ -1336,13 +1336,13 @@ Swarm mongers are unparalleled survivors, thriving on the filthy fringes of soci
 
 **Fecund Familiar (Ex)**: A swarm monger bonds with an urban familiar, treating her druid level as her wizard level for the purposes of determining her familiar's abilities. The swarm monger must select her familiar from the following options: cat, house centipede, rat, raven, or scarlet spider. The fecund familiar gains the benefits of its master's child of pollution, shadowy opportunist, and venom immunity class abilities. As a standard action, a swarm monger can cause her familiar to burst forth into a full swarm of identical creatures, filling four contiguous 5-foot squares and gaining temporary hit points equal to half its master's maximum hit points. While in swarm form, the familiar loses the improved evasion, share spells, deliver touch attack, and scry on familiar special abilities. It uses its normal AC, saving throws, and skill bonuses, and it gains the swarm subtype and the ability to make swarm attacks (dealing 1d6 points of damage at 1st level and using the swarm monger's druid level as the swarm's Hit Dice to determine damage increases as per the swarm subtype). The swarm monger is immune to her own familiar's swarm attack.
 
-Beginning at 5th level, any creature damaged by a fecund familiar's swarm attack must succeed at a Fortitude saving throw (DC = 10 + 1/2 the swarm monger's druid level + the swarm monger's Wisdom modifier) or be sickened for 1d6 rounds. At 12th level, creatures that fail their Fortitude saving throws instead become nauseated. A swarm monger can transform her familiar into a swarm a number of times each day equal to her Wisdom modifier (minimum 1), and the transformation lasts for 1 minute per druid level, or until the swarm monger reverts her familiar back to a singular form as a standard action. A fecund familiar cannot be reduced in size to Diminutive or smaller when in swarm form. This ability replaces nature bond.
+Beginning at 5th level, any creature damaged by a fecund familiar's swarm attack must succeed at a Fortitude saving throw (DC = 10 + 1/2 the swarm monger's druid level + the swarm monger's Wisdom modifier) or be sickened for 1d6 rounds. At 12th level, creatures that fail their Fortitude saving throws instead become nauseated. A swarm monger can transform her familiar into a swarm a number of times each day equal to her Wisdom modifier (minimum 1), and the transformation lasts for 1 minute per druid level, or until the swarm monger reverts her familiar back to a singular form as a standard action. A fecund familiar cannot be reduced in size to Diminutive or smaller when in swarm form. This ability replaces [nature bond](druid.md#nature-bond-ex).
 
-**Low Friends (Ex)**: At 2nd level, a swarm monger gains [Vermin Heart](../../rules/feats/vermin-heart.md) as a bonus feat. This ability replaces woodland stride.
+**Low Friends (Ex)**: At 2nd level, a swarm monger gains [Vermin Heart](../../rules/feats/vermin-heart.md) as a bonus feat. This ability replaces [woodland stride](druid.md#woodland-stride-ex).
 
-**Shadowy Opportunist (Ex)**: A swarm monger gains a +2 bonus on Knowledge (local) and Stealth checks. This ability replaces nature sense.
+**Shadowy Opportunist (Ex)**: A swarm monger gains a +2 bonus on Knowledge (local) and Stealth checks. This ability replaces [nature sense](druid.md#nature-sense-ex).
 
-**Child of Pollution (Su)**: Starting at 4th level, a swarm monger gains a +4 bonus on saving throws against disease and poisons, and she can eat spoiled or rotting food and drink without ill effect. Once per day for every 4 druid levels she has, a swarm monger can devour a handful of rotting food as a standard action to gain a number of temporary hit points equal to 1d8 + her druid level that last for 1 hour. This ability replaces resist nature's lure.
+**Child of Pollution (Su)**: Starting at 4th level, a swarm monger gains a +4 bonus on saving throws against disease and poisons, and she can eat spoiled or rotting food and drink without ill effect. Once per day for every 4 druid levels she has, a swarm monger can devour a handful of rotting food as a standard action to gain a number of temporary hit points equal to 1d8 + her druid level that last for 1 hour. This ability replaces [resist nature's lure](druid.md#resist-natures-lure-ex).
 
 **Swarm Shape (Su)**: At 12th level, a swarm monger can use wild shape to transform into a swarm of vermin, functioning as *swarm skin*, but not allowing her to split into more than one contiguous swarm. She doesn't leave her gear behind when she uses this ability, and she can revert to her mundane form normally. This ability replaces the normal wild shape options gained at 12th level.
 
@@ -1358,19 +1358,19 @@ Imbued with the primeval potency of their planet's seasons, those druids known a
 
 *Spirit of Winter*: The season keeper's animal companion projects a 15-foot-radius aura of warmth and calm. This aura allows allies to exist comfortably in cold conditions as if they each had the seasoned racial ability of a Winterborn Triaxian. At 3rd level, allies gain resistance 10 to cold as long as they remain within the aura. At 9th level, affected allies leave no trails in natural snow or ice, thus can't be tracked in such terrain. At 15th level, affected allies gain resistance 20 to cold and can ignore difficult terrain caused by ice or snow.
 
-This ability modifies nature bond and replaces trackless step, venom immunity, and timeless body.
+This ability modifies [nature bond](druid.md#nature-bond-ex) and replaces trackless step, [venom immunity](druid.md#venom-immunity-ex), and [timeless body](druid.md#timeless-body-ex).
 
-**Wild Shape (Su)**: A season keeper gains this ability at 6th level, except that her effective druid level for the ability is equal to her druid level – 2. If she has imbued her animal companion with the spirit of winter, she uses her full druid level when taking on the form of an ice elemental. If she has imbued her companion with the spirit of summer, she uses her full druid level when taking on the form of a plant. A season keeper cannot use wild shape to assume the form of an elemental except an ice elemental, and can assume that shape only if her animal companion has the spirit of winter. Similarly, she can assume a plant form only if her animal companion has the spirit of summer. This ability modifies wild shape.
+**Wild Shape (Su)**: A season keeper gains this ability at 6th level, except that her effective druid level for the ability is equal to her druid level – 2. If she has imbued her animal companion with the spirit of winter, she uses her full druid level when taking on the form of an ice elemental. If she has imbued her companion with the spirit of summer, she uses her full druid level when taking on the form of a plant. A season keeper cannot use wild shape to assume the form of an elemental except an ice elemental, and can assume that shape only if her animal companion has the spirit of winter. Similarly, she can assume a plant form only if her animal companion has the spirit of summer. This ability modifies [wild shape](druid.md#wild-shape-su).
 
 ## Draconic Druid
 
 *Druid archetype.* Some druids believe that dragons are the ultimate expression of nature, combining elemental fury with majestic beauty. These druids consort with dragons and eventually transform into draconic forms.
 
-**Drake Companion**: A draconic druid gains a [drake companion](../companions/drake-companions.md) instead of an animal companion. This ability replaces nature bond, wild empathy, woodland stride, venom immunity, a thousand faces, and timeless body.
+**Drake Companion**: A draconic druid gains a [drake companion](../companions/drake-companions.md) instead of an animal companion. This ability replaces [nature bond](druid.md#nature-bond-ex), [wild empathy](druid.md#wild-empathy-ex), [woodland stride](druid.md#woodland-stride-ex), [venom immunity](druid.md#venom-immunity-ex), [a thousand faces](druid.md#a-thousand-faces-su), and [timeless body](druid.md#timeless-body-ex).
 
-**Dragon Sense**: A draconic druid studies dragons and their history. She gains a +2 bonus on Knowledge (arcana) and Knowledge (history) checks. This ability replaces nature sense.
+**Dragon Sense**: A draconic druid studies dragons and their history. She gains a +2 bonus on Knowledge (arcana) and Knowledge (history) checks. This ability replaces [nature sense](druid.md#nature-sense-ex).
 
-**Resist Dragon's Might**: A draconic druid gains a +4 bonus on saving throws against the spells, spell-like abilities, and supernatural abilities of dragons. This ability replaces resist nature's lure.
+**Resist Dragon's Might**: A draconic druid gains a +4 bonus on saving throws against the spells, spell-like abilities, and supernatural abilities of dragons. This ability replaces [resist nature's lure](druid.md#resist-natures-lure-ex).
 
 **Dragon Shape**: A draconic druid can't use wild shape to change into any of the usual forms available to a druid. Instead, at 4th level, she can use wild shape to change into a dragon-scaled version of herself with long fangs, gaining a +1 natural armor bonus to her AC and a bite attack appropriate for her size (1d6 points of damage for a Medium druid) but otherwise retaining her usual form. At 10th level, she can spend two uses of wild shape to transform into a Medium dragon as per *form of the dragon I*, and at 12th level, she can spend two uses to change into a Large dragon as per *form of the dragon II*. Each time that a draconic druid uses wild shape counts as a separate casting of the spell for the purpose of refreshing her uses of her breath weapon.
 
@@ -1382,15 +1382,15 @@ This ability modifies nature bond and replaces trackless step, venom immunity, a
 
 **Aura (Ex)**: The planar extremist radiates an aura matching her alignment as if she were a cleric of her druid level.
 
-**Spells**: A planar extremist gains one fewer spell slot per spell level than normal in which to prepare spells. The planar extremist removes all *summon nature's ally* spells from her spell list and replaces them with the *summon monster* spells of the same levels. The druid can otherwise cast spells as normal for a druid of her level. This alters the druid's spells.
+**Spells**: A planar extremist gains one fewer spell slot per spell level than normal in which to prepare spells. The planar extremist removes all *summon nature's ally* spells from her spell list and replaces them with the *summon monster* spells of the same levels. The druid can otherwise cast spells as normal for a druid of her level. This alters the [druid's spells](druid.md#spells).
 
 **Planar Bond**: A planar extremist forms a bond with a manifestation of the Outer Plane with which she is aligned. This bond can take one of two forms. The first is a close tie to the plane to which she is aligned, granting the planar extremist one of the domains of her alignment (for example, a lawful good planar extremist could take either the Law or Good domain). This option otherwise functions as a druid's nature bond if she chose a close tie to the natural world. The second option is to form a close bond with an outsider from an Outer Plane. The abilities of this outsider companion are determined using the rules for eidolons for the unchained summoner, as if the planar extremist were a summoner of her druid level, except the outsider companion gains no additional evolution pool (only the evolutions from its base form and base evolutions for its subtype), and it must be of a subtype whose alignment exactly matches the alignment of the planar extremist. The planar extremist can summon her outsider companion with the same 1-minute ritual a summoner normally uses to do so, but she can't cast *summon monster* spells if she currently has her outsider companion summoned, and she can't summon her companion if she already has a creature summoned through other means. As the planar extremist gains class levels, her eidolon's base statistics and base evolutions increase as if her druid level were her summoner level. The eidolon gains the darkvision, link, share spells, evasion, ability score increase, devotion, multiattack, and improved evasion abilities at the appropriate levels, but never gains an evolution pool. Abilities and spells that grant additional evolution points to eidolons do not function for her outsider companion, though any abilities that would grant evolution points to an animal companion do work. The planar extremist does not gain life link or any other class features a summoner gains in relation to her eidolon. This replaces nature's bond.
 
-**Spontaneous Casting**: A planar extremist can channel stored spell energy into summoning spells that she hasn't prepared ahead of time. She can lose a prepared spell in order to cast a *summon monster* spell of the same level or lower, but only to summon creatures whose alignment matches hers. This alters a druid's spontaneous casting.
+**Spontaneous Casting**: A planar extremist can channel stored spell energy into summoning spells that she hasn't prepared ahead of time. She can lose a prepared spell in order to cast a *summon monster* spell of the same level or lower, but only to summon creatures whose alignment matches hers. This alters a [druid's spontaneous casting](druid.md#spontaneous-casting).
 
-**Resist the Opposite (Ex)**: At 4th level, a planar extremist gains a +2 bonus on saving throws against the spell-like and supernatural abilities of creatures whose alignment is diametrically opposed to her own. This replaces resist nature's lure.
+**Resist the Opposite (Ex)**: At 4th level, a planar extremist gains a +2 bonus on saving throws against the spell-like and supernatural abilities of creatures whose alignment is diametrically opposed to her own. This replaces [resist nature's lure](druid.md#resist-natures-lure-ex).
 
-**Planar Aspect (Su)**: At 4th level, as a standard action, a planar extremist can gain the benefits of the bloodrager bloodline associated with her alignment (choosing from Abyssal, Celestial, or Infernal), as if she were a bloodrager of her druid level. She can gain these benefits for 1 minute per druid level as if she were bloodraging (but she gains no other benefits or penalties of bloodrage) or until she dismisses it as a swift action; this duration need not be used consecutively but must be spent in 1-minute increments. She can use this ability an additional time per day at 6th level and every 4 levels thereafter, for a total of five times per day at 18th level. At 20th level, a planar extremist can use planar aspect at will. This replaces wild shape.
+**Planar Aspect (Su)**: At 4th level, as a standard action, a planar extremist can gain the benefits of the bloodrager bloodline associated with her alignment (choosing from Abyssal, Celestial, or Infernal), as if she were a bloodrager of her druid level. She can gain these benefits for 1 minute per druid level as if she were bloodraging (but she gains no other benefits or penalties of bloodrage) or until she dismisses it as a swift action; this duration need not be used consecutively but must be spent in 1-minute increments. She can use this ability an additional time per day at 6th level and every 4 levels thereafter, for a total of five times per day at 18th level. At 20th level, a planar extremist can use planar aspect at will. This replaces [wild shape](druid.md#wild-shape-su).
 
 ## Elemental Plane Domains
 
@@ -1440,7 +1440,7 @@ The following domains are common among druids who frequent the Elemental Planes.
 
 Druids often work to preserve the natural world, but some seek to further emulate it. Fungal pilgrims are druids seeking transformation into a more plantlike existence. These unique adherents of nature’s creed see fungi as the means to such ends, as many fungi—particularly those of the Underworld— naturally work their way into the bodies of living creatures.
 
-**Devotion to Ascension (Ex)**: A fungal pilgrim must select the Plant domain for her nature bond if she does not select an animal companion. This alters nature bond.
+**Devotion to Ascension (Ex)**: A fungal pilgrim must select the Plant domain for her nature bond if she does not select an animal companion. This alters [nature bond](druid.md#nature-bond-ex).
 
 **Spore Spawning**: At 4th level, a fungal pilgrim who selected the Plant domain for her nature bond gains the ability to grow fungal creatures from the spores of her body. Once per day, when casting a *summon nature’s ally* spell to summon a single creature, the fungal pilgrim can infuse her fungal connection into the casting. The creature summoned must be selected from the *summon nature’s ally* list for 1 spell level lower than the spell cast. For example, if the fungal pilgrim casts *summon nature’s ally III*, she must choose a creature from the list in *summon nature’s ally II*.
 
@@ -1450,7 +1450,7 @@ A druid can use this ability an additional time per day at 6th level and every 2
 
 **Fungal Companion**: At 4th level, a fungal pilgrim who selected an animal companion for her nature bond initiates a transformation in her companion. The animal companion gains the fungal creature template, but does not gain the create spawn, poison spore cloud, and poisonous blood special attacks. At 10th level, the animal companion gains the poisonous blood special attack. At 14th level, the animal companion gains the poison spore cloud special attack. At 20th level, the animal companion gains the create spawn special attack; created spawn are under the control of the fungal pilgrim. Spawn created in this way last for only 48 hours before rotting away. This ability replaces wild shape if the fungal pilgrim selected an animal companion as her nature bond.
 
-**Mycological Transformation (Ex)**: Fungal spores become fully integrated into the druid’s body, inside and out. At 15th level, she gains all immunities granted by the plant creature type as well as the light sensitivity universal monster rule. She counts as a plant for the purposes of effects that would negatively affect or damage plants. In addition, she no longer needs to eat or sleep in the typical manner, and instead gains the fungal creature’s rejuvenation ability. She can perform her daily meditation during her rejuvenation. This ability replaces timeless body.
+**Mycological Transformation (Ex)**: Fungal spores become fully integrated into the druid’s body, inside and out. At 15th level, she gains all immunities granted by the plant creature type as well as the light sensitivity universal monster rule. She counts as a plant for the purposes of effects that would negatively affect or damage plants. In addition, she no longer needs to eat or sleep in the typical manner, and instead gains the fungal creature’s rejuvenation ability. She can perform her daily meditation during her rejuvenation. This ability replaces [timeless body](druid.md#timeless-body-ex).
 
 ## Monster Tamer
 
@@ -1494,19 +1494,19 @@ Moon-Phase City adepts learn the secret magic of the fey realm fey in the moving
 
 **Moon-Phase City Skills**: A Moon-Phase City adept adds Bluff, Diplomacy, Disguise, Sense Motive, Perform (any), and Stealth to her list of class skills.
 
-This ability replaces nature sense.
+This ability replaces [nature sense](druid.md#nature-sense-ex).
 
 **Nature Bond (Su)**: A Moon-Phase City adept cannot select an animal companion, and can take only a domain. If she worships an fey lords, the Moon-Phase City trickster can choose any of the domains or subdomains granted by that fey lords in addition to those normally available to druids.
 
-This ability alters nature bond.
+This ability alters [nature bond](druid.md#nature-bond-ex).
 
 **Animal Speech (Su)**: A Moon-Phase City adept can imbue normal animals with the ability to speak for a brief period. Once per day as a standard action, the Moon-Phase City adept can touch an animal to grant it the ability to speak any language the druid knows for 1 minute per druid level. This does not increase the animal’s Intelligence or improve its attitude, and the animal behaves as though communicating with someone under the effects of a *speak with animals* spell, save that it can speak with anyone who understands the language the Moon-Phase City adept grants it. The Moon-Phase City adept gains one additional use of this ability at 4th level and every 4 levels thereafter.
 
-This ability replaces spontaneous casting.
+This ability replaces [spontaneous casting](druid.md#spontaneous-casting).
 
 **Resist Fey Influence (Ex)**: At 4th level, a Moon-Phase City adept gains a +4 bonus on saving throws against the spell-like and supernatural abilities of fey. Once per day before attempting such a saving throw, the Moon-Phase City adept can choose to roll two dice and take the better result, applying the +4 bonus as normal.
 
-This ability replaces resist nature’s lure.
+This ability replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
 **Locate Moon-Phase City (Sp)**: At 9th level, a Moon-Phase City adept can cast *find the path* as a spell-like ability, but only to locate Moon-Phase City. The spell’s duration is extended until the druid reaches her destination or until Moon-Phase City recedes from the Material Plane at the end of the new moon. This ability can be used only once per month, during the new moon.
 

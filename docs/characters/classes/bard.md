@@ -16,9 +16,13 @@ The bard’s class skills are Acrobatics (Dex), Appraise (Int), Bluff (Cha), Cli
 
 All of the following are class features of the bard.
 
-**Weapon and Armor Proficiency**: A bard is proficient with all [simple weapons](../../equipment/weapons-simple.md), plus the [longsword](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [sap](../../equipment/weapons-martial.md#martial-light-melee-weapons), [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons), [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons), and [whip](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons). Bards are also proficient with [light armor](../../equipment/armor.md) and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). A bard can cast bard spells while wearing light armor and use a shield without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a bard wearing medium or [heavy armor](../../equipment/armor.md) incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass bard still incurs the normal arcane spell failure chance for arcane spells received from other classes.
+### Weapon and Armor Proficiency
 
-**Spells**: A bard casts arcane spells drawn from the bard spell list presented in Chapter 10. He can cast any spell he knows without preparing it ahead of time. Every bard spell has a verbal component (song, recitation, or music). To learn or cast a spell, a bard must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a bard’s spell is 10 + the spell level + the bard’s Charisma modifier.
+A bard is proficient with all [simple weapons](../../equipment/weapons-simple.md), plus the [longsword](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [sap](../../equipment/weapons-martial.md#martial-light-melee-weapons), [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons), [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons), and [whip](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons). Bards are also proficient with [light armor](../../equipment/armor.md) and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). A bard can cast bard spells while wearing light armor and use a shield without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a bard wearing medium or [heavy armor](../../equipment/armor.md) incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass bard still incurs the normal arcane spell failure chance for arcane spells received from other classes.
+
+### Spells
+
+A bard casts arcane spells drawn from the bard spell list presented in Chapter 10. He can cast any spell he knows without preparing it ahead of time. Every bard spell has a verbal component (song, recitation, or music). To learn or cast a spell, a bard must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a bard’s spell is 10 + the spell level + the bard’s Charisma modifier.
 
 Like other spellcasters, a bard can cast only a certain number of spells of each spell level per day. His base daily spell allotment is given on Table 3–3. In addition, he receives bonus spells per day if he has a high Charisma score (see Table 1–3).
 
@@ -28,9 +32,13 @@ Upon reaching 5th level, and at every third bard level after that (8th, 11th, an
 
 A bard need not prepare his spells in advance. He can cast any spell he knows at any time, assuming he has not yet used up his allotment of spells per day for the spell’s level.
 
-**Bardic Knowledge (Ex)**: A bard adds half his class level (minimum 1) to all Knowledge skill checks and may make all Knowledge skill checks untrained.
+### Bardic Knowledge (Ex)
 
-**Bardic Performance**: A bard is trained to use the Perform skill to create magical effects on those around him, including himselfif desired. He can use this ability for a number of rounds per day equal to 4 + his Charisma modifier. At each level after 1st a bard can use bardic performance for 2 additional rounds per day. Each round, the bard can produce any one of the types of bardic performance that he has mastered, as indicated by his level.
+A bard adds half his class level (minimum 1) to all Knowledge skill checks and may make all Knowledge skill checks untrained.
+
+### Bardic Performance
+
+A bard is trained to use the Perform skill to create magical effects on those around him, including himselfif desired. He can use this ability for a number of rounds per day equal to 4 + his Charisma modifier. At each level after 1st a bard can use bardic performance for 2 additional rounds per day. Each round, the bard can produce any one of the types of bardic performance that he has mastered, as indicated by his level.
 
 Starting a bardic performance is a standard action, but it can be maintained each round as a free action. Changing a bardic performance from one effect to another requires the bard to stop the previous performance and start a new one as a standard action. A bardic performance cannot be disrupted, but it ends immediately if the bard is killed, paralyzed, stunned, knocked unconscious, or otherwise prevented from taking a free action to maintain it each round. A bard cannot have more than one bardic performance in effect at one time.
 
@@ -126,17 +134,27 @@ Making a *suggestion* does not count against a bard’s total rounds per day of 
 
 *Deadly Performance (Su)*: A bard of 20th level or higher can use his performance to cause one enemy to die from joy or sorrow. To be affected, the target must be able to see and hear the bard perform for 1 full round and be within 30 feet. The target receives a Will save (DC 10 + 1/2 the bard’s level + the bard’s Cha modifier) to negate the effect. If a creature’s saving throw succeeds, the target is staggered for 1d4 rounds, and the bard cannot use deadly performance on that creature again for 24 hours. If a creature’s saving throw fails, it dies. Deadly performance is a mind-affecting death effect that relies on audible and visual components.
 
-**Cantrips**: Bards learn a number of cantrips, or 0-level spells, as noted on Table 3–4 under “Spells Known.” These spells are cast like any other spell, but they do not consume any slots and may be used again.
+### Cantrips
 
-**Versatile Performance (Ex)**: At 2nd level, a bard can choose one type of Perform skill. He can use his bonus in that skill in place of his bonus in associated skills. When substituting in this way, the bard uses his total Perform skill bonus, including class skill bonus, in place of its associated skill’s bonus, whether or not he has ranks in that skill or if it is a class skill. At 6th level, and every 4 levels thereafter, the bard can select an additional type of Perform to substitute.
+Bards learn a number of cantrips, or 0-level spells, as noted on Table 3–4 under “Spells Known.” These spells are cast like any other spell, but they do not consume any slots and may be used again.
+
+### Versatile Performance (Ex)
+
+At 2nd level, a bard can choose one type of Perform skill. He can use his bonus in that skill in place of his bonus in associated skills. When substituting in this way, the bard uses his total Perform skill bonus, including class skill bonus, in place of its associated skill’s bonus, whether or not he has ranks in that skill or if it is a class skill. At 6th level, and every 4 levels thereafter, the bard can select an additional type of Perform to substitute.
 
 The types of Perform and their associated skills are: Act (Bluff, Disguise), Comedy (Bluff, Intimidate), Dance (Acrobatics, Fly), Keyboard Instruments (Diplomacy, Intimidate), Oratory (Diplomacy, Sense Motive), Percussion (Handle Animal, Intimidate), Sing (Bluff, Sense Motive), String (Bluff, Diplomacy), and Wind (Diplomacy, Handle Animal).
 
-**Well-Versed (Ex)**: At 2nd level, the bard becomes resistant to the bardic performance of others, and to sonic effects in general. The bard gains a +4 bonus on saving throws made against bardic performance, sonic, and language-dependent effects.
+### Well-Versed (Ex)
 
-**Lore Master (Ex)**: At 5th level, the bard becomes a master of lore and can take 10 on any Knowledge skill check that he has ranks in. A bard can choose not to take 10 and can instead roll normally. In addition, once per day, the bard can take 20 on any Knowledge skill check as a standard action. He can use this ability one additional time per day for every six levels he possesses beyond 5th, to a maximum of three times per day at 17th level.
+At 2nd level, the bard becomes resistant to the bardic performance of others, and to sonic effects in general. The bard gains a +4 bonus on saving throws made against bardic performance, sonic, and language-dependent effects.
 
-**Jack-of-All-Trades (Ex)**: At 10th level, the bard can use any skill, even if the skill normally requires him to be trained. At 16th level, the bard considers all skills to be class skills. At 19th level, the bard can take 10 on any skill check, even if it is not normally allowed.
+### Lore Master (Ex)
+
+At 5th level, the bard becomes a master of lore and can take 10 on any Knowledge skill check that he has ranks in. A bard can choose not to take 10 and can instead roll normally. In addition, once per day, the bard can take 20 on any Knowledge skill check as a standard action. He can use this ability one additional time per day for every six levels he possesses beyond 5th, to a maximum of three times per day at 17th level.
+
+### Jack-of-All-Trades (Ex)
+
+At 10th level, the bard can use any skill, even if the skill normally requires him to be trained. At 16th level, the bard considers all skills to be class skills. At 19th level, the bard can take 10 on any skill check, even if it is not normally allowed.
 
 ## Advanced Versatile Performances
 

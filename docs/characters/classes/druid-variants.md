@@ -134,7 +134,7 @@ Out upon the wide and rolling prairies and savannahs, plains druids stand guard 
 
 **Canny Charger (Ex)**: At 9th level, a plains druid can charge through allies’ squares without difficulty (whether mounted or afoot) and can turn up to 90 degrees once during a charge, provided the last 10 feet toward the target are in a straight line. She also gains a +4 dodge bonus to AC against enemy charge attacks and a +4 bonus to damage with a readied action against a charging foe. This ability replaces venom immunity.
 
-**Evasion (Ex)**: At 13th level, a plains druid gains evasion when wearing light or no armor and carrying a light load. This functions as the rogue ability of the same name. This ability replaces a thousand faces.
+**Evasion (Ex)**: At 13th level, a plains druid gains evasion when wearing light or no armor and carrying a light load. This functions as the [rogue ability](rogue.md#evasion-ex) of the same name. This ability replaces a thousand faces.
 
 ## Swamp Druid
 
@@ -158,7 +158,7 @@ While many druids keep to the wilderness, some make their way within settlements
 
 **Nature Bond (Ex)**: An urban druid may not select an animal companion. Instead, she must choose from the following domains, rather than those usually available to druids: Charm, Community, Knowledge, Nobility, Protection, Repose, Rune, or Weather.
 
-**Lorekeeper (Ex)**: At 2nd level, an urban druid adds Diplomacy, Knowledge (history), Knowledge (local), and Knowledge (nobility) skills to her list of class skills. She also receives a +2 bonus on these skill checks. This ability replaces a druid’s woodland stride and trackless step abilities.
+**Lorekeeper (Ex)**: At 2nd level, an urban druid adds Diplomacy, Knowledge (history), Knowledge (local), and Knowledge (nobility) skills to her list of class skills. She also receives a +2 bonus on these skill checks. This ability replaces a [druid’s woodland stride](druid.md#woodland-stride-ex) and trackless step abilities.
 
 **Resist Temptation (Ex)**: At 4th level, an urban druid gains a +2 bonus on saves vs. divinations and enchantments.
 

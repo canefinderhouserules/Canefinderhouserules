@@ -182,7 +182,7 @@ At 3rd level, a dashing commander is immune to fear effects while a she has at l
 
 **Commander Weapon Training (Ex)**
 
-At 1st level, a dashing commander selects one fighter weapon group. She gains the benefits of the [Weapon Finesse](../../../rules/feats/weapon-finesse.md) feat with all melee weapons belonging to her chosen fighter weapon group. This ability counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites and as swashbuckler weapon training when determining which weapons the dashing commander can use in conjunction with her swashbuckler deeds and class features. In addition, she gains Battle Cry as a bonus feat.
+At 1st level, a dashing commander selects one fighter weapon group. She gains the benefits of the [Weapon Finesse](../../../rules/feats/weapon-finesse.md) feat with all melee weapons belonging to her chosen fighter weapon group. This ability counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites and as swashbuckler weapon training when determining which weapons the dashing commander can use in conjunction with her [swashbuckler deeds](../swashbuckler.md#deeds) and class features. In addition, she gains Battle Cry as a bonus feat.
 
 At 4th level, the dashing commander increases the number of times per day that she can use her Battle Cry feat by one. In addition, allies affected by her battle cry gain a +1 morale bonus on damage rolls in addition to its other effects. At 9th level and every 4 levels thereafter, the dashing commander gains one additional use of the Battle Cry feat and the morale bonuses granted by her battle cry increase by 1, to a maximum of +4 at 17th level. This ability replaces swashbuckler weapon training.
 
@@ -386,13 +386,13 @@ While some swashbucklers fight for queen and country, and others for coin, glory
 
 **Weapon and Armor Proficiency**
 
-A mysterious avenger loses her proficiency with [bucklers](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3), but gains proficiency in the [whip](../../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons) exotic weapon. This ability alters the swashbuckler’s weapon and armor proficiency.
+A mysterious avenger loses her proficiency with [bucklers](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3), but gains proficiency in the [whip](../../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons) exotic weapon. This ability alters the [swashbuckler’s weapon and armor proficiency](../swashbuckler.md#weapon-and-armor-proficiency).
 
 **Avenger Weapon Training (Ex)**
 
-At 1st level, a mysterious avenger selects one fighter weapon group. She gains the benefits of the Weapon Finesse feat with the whip and all melee weapons belonging to her chosen fighter weapon group. This ability counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites and as swashbuckler weapon training when determining which weapons the dashing commander can use in conjunction with her swashbuckler deeds and class features.
+At 1st level, a mysterious avenger selects one fighter weapon group. She gains the benefits of the Weapon Finesse feat with the whip and all melee weapons belonging to her chosen fighter weapon group. This ability counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites and as swashbuckler weapon training when determining which weapons the dashing commander can use in conjunction with her [swashbuckler deeds](../swashbuckler.md#deeds) and class features.
 
-At 5th level, a mysterious avenger can study an opponent she can see as a move action. She then gains a +1 bonus on Bluff, Knowledge, Perception, Sense Motive, and Survival checks against that opponent, a +1 bonus on weapon attack and damage rolls against it, and a +1 bonus to the saving throw DC of any swashbuckler deeds used against that opponent. A mysterious avenger can maintain these bonuses against only one opponent at a time; these bonuses remain in effect until either the opponent is dead or the mysterious avenger studies a new target.
+At 5th level, a mysterious avenger can study an opponent she can see as a move action. She then gains a +1 bonus on Bluff, Knowledge, Perception, Sense Motive, and Survival checks against that opponent, a +1 bonus on weapon attack and damage rolls against it, and a +1 bonus to the saving throw DC of any [swashbuckler deeds](../swashbuckler.md#deeds) used against that opponent. A mysterious avenger can maintain these bonuses against only one opponent at a time; these bonuses remain in effect until either the opponent is dead or the mysterious avenger studies a new target.
 
 At 9th, 13th, and 17th levels, the mysterious avenger’s bonuses against a studied target increase by 1. In addition, at each such interval, a mysterious avenger is able to maintain these bonuses against an additional studied target at the same time. A mysterious avenger can discard this connection to a studied target as a free action, allowing her to study another target in its place. At 9th level, a mysterious avenger can study an opponent as a move or swift action. This ability replaces swashbuckler weapon training.
 
@@ -592,7 +592,7 @@ Beginning at 4th level, a rapscallion can select one of the following rogue tale
 
 A ronin is a lordless swordsman, sometimes called a knight-errant. Although most ronin seek a new master to restore their honor, others stick to the lordless lifestyle for personal reasons.
 
-**Ronin’s Code**: At 1st level, a ronin adopts a set of personal edicts that be must abide by, as if he belonged to the ronin samurai order. If he violates these edicts, he loses all of his panache points and cannot regain panache for 24 hours.
+**Ronin’s Code**: At 1st level, a ronin adopts a set of personal edicts that be must abide by, as if he belonged to the ronin [samurai order](../samurai.md#order-ex). If he violates these edicts, he loses all of his panache points and cannot regain panache for 24 hours.
 
 If the ronin has levels in a class that grants an order, she must belong to the ronin samurai order and cannot change her order. If she belonged to an order before acquiring this ability, she must immediately abandon her previous order and become a ronin if she was not already a ronin.
 
@@ -608,7 +608,7 @@ At 3rd level, while the ronin has at least 1 panache, she can draw a weapon as a
 
 At 1st level, a ronin selects a single melee weapon. She gains the benefits of the Weapon Finesse feat with her chosen melee weapon.
 
-She gains proficiency with that weapon if she wouldn’t normally be proficient with it and the weapon is considered to belong to a fighter weapon group that she has selected with swashbuckler weapon training for the purpose of determining which swashbuckler deeds and abilities she can use. This ability counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites.
+She gains proficiency with that weapon if she wouldn’t normally be proficient with it and the weapon is considered to belong to a fighter weapon group that she has selected with swashbuckler weapon training for the purpose of determining which [swashbuckler deeds](../swashbuckler.md#deeds) and abilities she can use. This ability counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites.
 
 Every four levels thereafter (5th, 9th, 13th, and 17th), the swashbuckler becomes further trained in another weapon.
 
@@ -618,11 +618,11 @@ A swashbuckler also adds this bonus to any combat maneuver checks made with weap
 
 **Resolve (Ex)**
 
-Starting at 2nd level, the ronin gains the samurai’s resolve class feature. She can use resolve once per day at 2nd level, plus one additional time per day for every four swashbuckler levels beyond 2nd. Instead of regaining uses of resolve by defeating the target of a challenge, the ronin can spend 2 panache points as a free action in order to regain one use of resolve, up to her maximum number of uses per day. If the ronin gains this ability from another class, the daily uses of this ability stack and the ronin may regain uses of resolve as detailed by both classes. This ability replaces uncanny dodge.
+Starting at 2nd level, the ronin gains the [samurai’s resolve](../samurai.md#resolve-ex) class feature. She can use resolve once per day at 2nd level, plus one additional time per day for every four swashbuckler levels beyond 2nd. Instead of regaining uses of resolve by defeating the target of a challenge, the ronin can spend 2 panache points as a free action in order to regain one use of resolve, up to her maximum number of uses per day. If the ronin gains this ability from another class, the daily uses of this ability stack and the ronin may regain uses of resolve as detailed by both classes. This ability replaces uncanny dodge.
 
 **Order Abilities**: Beginning at 2nd level, Beginning at 4th level, the ronin may select the self reliant ronin order ability in place of a bonus feat. At 8th level, she may select the without master order ability in place of a bonus feat if she has previously selected the self reliant ronin order ability.
 
-At 16th level, she may select the chosen destiny ronin order ability in place of a bonus feat if she has previously selected both the self reliant and without master order abilities. This ability alters the swashbuckler’s bonus feats.
+At 16th level, she may select the chosen destiny ronin order ability in place of a bonus feat if she has previously selected both the self reliant and without master order abilities. This ability alters the [swashbuckler’s bonus feats](../swashbuckler.md#bonus-feats).
 
 ## Tumbler
 
@@ -686,7 +686,7 @@ At 15th level, a two-weapon duelist can spend 1 panache point when she makes an 
 
 **Two-Weapon Training (Ex)**
 
-At 1st level, a swashbuckler selects one fighter weapon group. She gains the benefits of the Weapon Finesse and Two-Weapon Fighting feats with all light and one-handed weapons belonging to her chosen fighter weapon group. This ability counts as having the Weapon Finesse and Two-Weapon Fighting feats for purposes of meeting feat prerequisites and as swashbuckler weapon training when determining which weapons the dashing commander can use in conjunction with her swashbuckler deeds and class features.
+At 1st level, a swashbuckler selects one fighter weapon group. She gains the benefits of the Weapon Finesse and Two-Weapon Fighting feats with all light and one-handed weapons belonging to her chosen fighter weapon group. This ability counts as having the Weapon Finesse and Two-Weapon Fighting feats for purposes of meeting feat prerequisites and as swashbuckler weapon training when determining which weapons the dashing commander can use in conjunction with her [swashbuckler deeds](../swashbuckler.md#deeds) and class features.
 
 Every four levels thereafter (5th, 9th, 13th, and 17th), a two-weapon duelist becomes further trained in another group of weapons. She gains the benefits of the Weapon Finesse and Two-Weapon Fighting feats with all weapons belonging to this group. In addition, she gains a +1 bonus on attack rolls and damage rolls with light and one-handed weapons belonging to her previously selected weapon groups as well as the benefits of the Improved Critical feat. For example, when a swashbuckler reaches 5th level, she gains the benefits of the Weapon Finesse feat with all melee weapons belonging to one weapon group and a +1 bonus on attack and damage rolls and the benefits of the Improved Critical feat with the weapon group selected at 1st level. Bonuses granted from overlapping groups do not stack. Take the highest bonus granted for a weapon if it resides in two or more groups.
 
@@ -744,11 +744,11 @@ The vainglory swashbuckler is a master of her panache, using it to perform super
 
 **Personal Deeds**
 
-Personal deeds are abilities that draw on the swashbuckler’s panache. All of the standard swashbuckler’s deeds count as personal deeds. A vainglory swashbuckler can learn additional personal deeds, which replace an existing deed, such as riposte parry and dodge. Personal deeds are divided into two categories: *feats* and *swashbuckler deeds*.
+Personal deeds are abilities that draw on the [swashbuckler’s panache](../swashbuckler.md#panache-ex). All of the standard [swashbuckler’s deeds](../swashbuckler.md#deeds) count as personal deeds. A vainglory swashbuckler can learn additional personal deeds, which replace an existing deed, such as riposte parry and dodge. Personal deeds are divided into two categories: *feats* and *swashbuckler deeds*.
 
 - **Feats**: These personal deeds duplicate the effects of specific feats. A swashbuckler does not need to qualify for a feat to select it as a personal deed. For example, a vainglory swashbuckler can select [Power Attack](../../../rules/feats/power-attack.md) as a personal deed even if she doesn’t meet the prerequisites for selecting Power Attack as a feat. A personal deed that duplicates the effects of a feat counts as having that feat for the purpose of meeting feat prerequisites. Activating one of these personal deeds is a free action on the swashbuckler’s turn; until the start of her next turn, the swashbuckler is treated as if she had that feat. Some of these personal deeds that duplicate feats may also be activated as an immediate action; these deeds are noted in the personal deeds list.
 
-- **Swashbuckler Deeds**: Some personal deeds are standard swashbuckler deeds. Even if a swashbuckler selects a different personal deed in place of a standard swashbuckler deed, she can select that deed later as one of her personal deeds. Swashbuckler deeds do not list their panache costs; this information is located in the deed’s description in the swashbuckler base class. A swashbuckler can select a swashbuckler deed that she has altered or replaced as part of an archetype as a personal deed.
+- **Swashbuckler Deeds**: Some personal deeds are standard [swashbuckler deeds](../swashbuckler.md#deeds). Even if a swashbuckler selects a different personal deed in place of a standard swashbuckler deed, she can select that deed later as one of her personal deeds. Swashbuckler deeds do not list their panache costs; this information is located in the deed’s description in the swashbuckler base class. A swashbuckler can select a swashbuckler deed that she has altered or replaced as part of an archetype as a personal deed.
 
 - **Requirements**: All personal deeds have a minimum swashbuckler level requirement to select them. A swashbuckler who does not meet this requirement cannot select that personal deed.
 

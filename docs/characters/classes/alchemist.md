@@ -43,9 +43,13 @@ The alchemist’s class skills are Appraise (Int), Craft (any) (Int), Disable De
 
 The following are class features of the alchemist.
 
-**Weapon and Armor Proficiency**: Alchemists are proficient with all [simple weapons](../../equipment/weapons-simple.md) and bombs. They are also proficient with [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
+### Weapon and Armor Proficiency
 
-**Alchemy (Su)**: Alchemists are not only masters of creating mundane alchemical substances such as alchemist’s fire and smokesticks, but also of fashioning magical potion-like extracts in which they can store spell effects. In effect, an alchemist prepares his spells by mixing ingredients into a number of extracts, and then “casts” his spells by drinking the extract. When an alchemist creates an extract or bomb, he infuses the concoction with a tiny fraction of his own magical power—this enables the creation of powerful effects, but also binds the effects to the creator. When using Craft (alchemy) to create an alchemical item, an alchemist gains a competence bonus equal to his class level on the Craft (alchemy) check. In addition, an alchemist can use Craft (alchemy) to identify potions as if using detect magic. He must hold the potion for 1 round to make such a check.
+Alchemists are proficient with all [simple weapons](../../equipment/weapons-simple.md) and bombs. They are also proficient with [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
+
+### Alchemy (Su)
+
+Alchemists are not only masters of creating mundane alchemical substances such as alchemist’s fire and smokesticks, but also of fashioning magical potion-like extracts in which they can store spell effects. In effect, an alchemist prepares his spells by mixing ingredients into a number of extracts, and then “casts” his spells by drinking the extract. When an alchemist creates an extract or bomb, he infuses the concoction with a tiny fraction of his own magical power—this enables the creation of powerful effects, but also binds the effects to the creator. When using Craft (alchemy) to create an alchemical item, an alchemist gains a competence bonus equal to his class level on the Craft (alchemy) check. In addition, an alchemist can use Craft (alchemy) to identify potions as if using detect magic. He must hold the potion for 1 round to make such a check.
 
 An alchemist can create three special types of magical items—extracts, bombs, and mutagens.
 
@@ -67,13 +71,19 @@ An alchemist can prepare an extract of any formula he knows. To learn or use an 
 
 An alchemist may know any number of formulae. He stores his formulae in a special tome called a formula book. He must refer to this book whenever he prepares an extract but not when he consumes it. An alchemist begins play with two 1st-level formulae of his choice, plus a number of additional formulae equal to his Intelligence modifier. At each new alchemist level, he gains one new formula of any level that he can create. An alchemist can also add formulae to his book just like a wizard adds spells to his spellbook, using the same costs, pages, and time requirements. A formulae book costs as much as a spellbook. An alchemist can study a wizard’s spellbook to learn any formula that is equivalent to a spell the spellbook contains. A wizard, however, cannot learn spells from a formula book. An alchemist does not need to decipher arcane writings before copying them.
 
-**Bomb (Su)**: In addition to magical extracts, alchemists are adept at swiftly mixing various volatile chemicals and infusing them with their magical reserves to create powerful bombs that they can hurl at their enemies. An alchemist can use a number of bombs each day equal to his class level + his Intelligence modifier. Bombs are unstable, and if not used in the round they are created, they degrade and become inert—their method of creation prevents large volumes of explosive material from being created and stored. In order to create a bomb, the alchemist must use a small vial containing an ounce of liquid catalyst—the alchemist can create this liquid catalyst from small amounts of chemicals from an alchemy lab, and these supplies can be readily refilled in the same manner as a spellcaster’s component pouch. Most alchemists create a number of catalyst vials at the start of the day equal to the total number of bombs they can create in that day—once created, a catalyst vial remains usable by the alchemist for years.
+### Bomb (Su)
+
+In addition to magical extracts, alchemists are adept at swiftly mixing various volatile chemicals and infusing them with their magical reserves to create powerful bombs that they can hurl at their enemies. An alchemist can use a number of bombs each day equal to his class level + his Intelligence modifier. Bombs are unstable, and if not used in the round they are created, they degrade and become inert—their method of creation prevents large volumes of explosive material from being created and stored. In order to create a bomb, the alchemist must use a small vial containing an ounce of liquid catalyst—the alchemist can create this liquid catalyst from small amounts of chemicals from an alchemy lab, and these supplies can be readily refilled in the same manner as a spellcaster’s component pouch. Most alchemists create a number of catalyst vials at the start of the day equal to the total number of bombs they can create in that day—once created, a catalyst vial remains usable by the alchemist for years.
 
 Drawing the components of, creating, and throwing a bomb requires a standard action that provokes an attack of opportunity. Thrown bombs have a range of 20 feet and use the Throw Splash Weapon special attack. Bombs are considered weapons and can be selected using feats such as [Point-Blank Shot](../../rules/feats/point-blank-shot.md) and Weapon Focus. On a direct hit, an alchemist’s bomb inflicts 1d6 points of fire damage + additional damage equal to the alchemist’s Intelligence modifier. The damage of an alchemist’s bomb increases by 1d6 points at every odd-numbered alchemist level (this bonus damage is not multiplied on a critical hit or by using feats such as [Vital Strike](../../rules/feats/vital-strike.md)). Splash damage from an alchemist bomb is always equal to the bomb’s minimum damage (so if the bomb would deal 2d6+4 points of fire damage on a direct hit, its splash damage would be 6 points of fire damage). Those caught in the splash damage can attempt a Reflex save for half damage. The DC of this save is equal to 10 + 1/2 the alchemist’s level + the alchemist’s Intelligence modifier. Alchemists can learn new types of bombs as discoveries (see the Discovery ability) as they level up. An alchemist’s bomb, like an extract, becomes inert if used or carried by anyone else.
 
-**Brew Potion (Ex)**: At 1st level, alchemists receive [Brew Potion](../../rules/feats/brew-potion.md) as a bonus feat. An alchemist can brew potions of any formulae he knows (up to 3rd level), using his alchemist level as his caster level. The spell must be one that can be made into a potion. The alchemist does not need to meet the prerequisites for this feat.
+### Brew Potion (Ex)
 
-**Mutagen (Su)**: At 1st level, if an alchemist has an Intelligence score of at least 15, he discovers how to create a mutagen that he can imbibe in order to heighten his physical prowess at the cost of his personality. It takes 1 hour to brew a dose of mutagen, and once brewed, it remains potent until used. An alchemist can only maintain one dose of mutagen at a time—if he brews a second dose, any existing mutagen becomes inert. As with an extract or bomb, a mutagen that is not in an alchemist’s possession becomes inert until an alchemist picks it up again. This requirement applies to any class or archetype that grants a mutagen or an ability that works like one.
+At 1st level, alchemists receive [Brew Potion](../../rules/feats/brew-potion.md) as a bonus feat. An alchemist can brew potions of any formulae he knows (up to 3rd level), using his alchemist level as his caster level. The spell must be one that can be made into a potion. The alchemist does not need to meet the prerequisites for this feat.
+
+### Mutagen (Su)
+
+At 1st level, if an alchemist has an Intelligence score of at least 15, he discovers how to create a mutagen that he can imbibe in order to heighten his physical prowess at the cost of his personality. It takes 1 hour to brew a dose of mutagen, and once brewed, it remains potent until used. An alchemist can only maintain one dose of mutagen at a time—if he brews a second dose, any existing mutagen becomes inert. As with an extract or bomb, a mutagen that is not in an alchemist’s possession becomes inert until an alchemist picks it up again. This requirement applies to any class or archetype that grants a mutagen or an ability that works like one.
 
 When an alchemist brews a mutagen, he selects one physical ability score—either Strength, Dexterity, or Constitution. It’s a standard action to drink a mutagen. Upon being imbibed, the mutagen causes the alchemist to grow bulkier and more bestial, granting him a +2 natural armor bonus and a +4 alchemical bonus to the selected ability score for 10 minutes per alchemist level. In addition, while the mutagen is in effect, the alchemist takes a –2 penalty to one of his mental ability scores. If the mutagen enhances his Strength, it applies a penalty to his Intelligence. If it enhances his Dexterity, it applies a penalty to his Wisdom. If it enhances his Constitution, it applies a penalty to his Charisma.
 
@@ -83,15 +93,23 @@ A non-alchemist who drinks a mutagen must make a Fortitude save (DC 10 + 1/2 the
 
     **Mutagen (Su)**: The book has no Intelligence requirement for this ability.
 
-**Throw Anything (Ex)**: All alchemists gain the [Throw Anything](../../rules/feats/throw-anything.md) feat as a bonus feat at 1st level. An alchemist adds his Intelligence modifier to damage done with splash weapons, including the splash damage if any. This bonus damage is already included in the bomb class feature.
+### Throw Anything (Ex)
 
-**Discovery (Su)**: At 2nd level, and then again every 2 levels thereafter (up to 18th level), an alchemist makes an incredible alchemical discovery. Unless otherwise noted, an alchemist cannot select an individual discovery more than once. Some discoveries can only be made if the alchemist has met certain prerequisites first, such as uncovering other discoveries. Discoveries that modify bombs that are marked with an asterisk (*) do not stack. Only one such discovery can be applied to an individual bomb. The DC of any saving throw called for by a discovery is equal to 10 + 1/2 the alchemist’s level + the alchemist’s Intelligence modifier.
+All alchemists gain the [Throw Anything](../../rules/feats/throw-anything.md) feat as a bonus feat at 1st level. An alchemist adds his Intelligence modifier to damage done with splash weapons, including the splash damage if any. This bonus damage is already included in the bomb class feature.
+
+### Discovery (Su)
+
+At 2nd level, and then again every 2 levels thereafter (up to 18th level), an alchemist makes an incredible alchemical discovery. Unless otherwise noted, an alchemist cannot select an individual discovery more than once. Some discoveries can only be made if the alchemist has met certain prerequisites first, such as uncovering other discoveries. Discoveries that modify bombs that are marked with an asterisk (*) do not stack. Only one such discovery can be applied to an individual bomb. The DC of any saving throw called for by a discovery is equal to 10 + 1/2 the alchemist’s level + the alchemist’s Intelligence modifier.
 
 Acid bomb*: When the alchemist creates a bomb, he can choose to have it inflict acid damage. Creatures that take a direct hit from an acid bomb take an additional 1d6 points of acid damage 1 round later.
 
-**Combine extracts**: When the alchemist creates an extract, he can place two formulae into one extract. When the extract is consumed, both formulae take effect. This extract has a level two levels higher than the highest-level formulae placed in the extract. An alchemist must be at least 8th level before selecting this discovery.
+#### Combine extracts
 
-**Concentrate poison**: The alchemist can combine two doses of the same poison to increase their effects. This requires two doses of the poison and 1 minute of concentration.
+When the alchemist creates an extract, he can place two formulae into one extract. When the extract is consumed, both formulae take effect. This extract has a level two levels higher than the highest-level formulae placed in the extract. An alchemist must be at least 8th level before selecting this discovery.
+
+#### Concentrate poison
+
+The alchemist can combine two doses of the same poison to increase their effects. This requires two doses of the poison and 1 minute of concentration.
 
 When completed, the alchemist has one dose of poison.
 
@@ -99,27 +117,43 @@ The poison’s frequency is extended by 50% and the save DC increases by +2. Thi
 
 Concussive bomb*: When the alchemist creates a bomb, he can choose to have it inflict sonic damage. Concussive bombs deal 1d4 points of sonic damage, plus 1d4 points of sonic damage for every odd-numbered level, instead of 1d6. Creatures that take a direct hit from a concussive bomb are deafened for 1 minute unless they succeed at a Fortitude save. An alchemist must be at least 6th level before selecting this discovery.
 
-**Delayed bomb**: The alchemist can place a bomb so that it explodes a number of rounds after the alchemist ceases contact with the bomb. This delay can be any number of rounds as chosen by the alchemist, up to a number of rounds equal to his level. If at any point the alchemist reclaims possession of the delayed bomb, he can end the timer and prevent the bomb’s detonation. A delayed bomb detonates immediately if any other creature attempts to touch or move it, or if the bomb’s contents are removed from the vial (such as if the vial breaks). The bomb deals damage as if it scored a direct hit to any creature in the square with the bomb when it detonates, and splash damage to all adjacent creatures as normal. An alchemist cannot have more than one delayed bomb at one time.
+#### Delayed bomb
+
+The alchemist can place a bomb so that it explodes a number of rounds after the alchemist ceases contact with the bomb. This delay can be any number of rounds as chosen by the alchemist, up to a number of rounds equal to his level. If at any point the alchemist reclaims possession of the delayed bomb, he can end the timer and prevent the bomb’s detonation. A delayed bomb detonates immediately if any other creature attempts to touch or move it, or if the bomb’s contents are removed from the vial (such as if the vial breaks). The bomb deals damage as if it scored a direct hit to any creature in the square with the bomb when it detonates, and splash damage to all adjacent creatures as normal. An alchemist cannot have more than one delayed bomb at one time.
 
 If he creates another delayed bomb, the previous bomb becomes inert. Dispel magic can neutralize a delayed bomb, as can a successful Disable Device check (DC equals 10 + the alchemist’s level + the alchemist’s Intelligence modifier). An alchemist must be at least 8th level before selecting this discovery.
 
-**Dilution**: Once per day, the alchemist can dilute any one potion or elixir, creating two doses of the same potion from one. Diluting a potion costs a number of gp equal to one-quarter of the potion’s market value. A potion that has been diluted cannot be diluted again.
+#### Dilution
+
+Once per day, the alchemist can dilute any one potion or elixir, creating two doses of the same potion from one. Diluting a potion costs a number of gp equal to one-quarter of the potion’s market value. A potion that has been diluted cannot be diluted again.
 
 damage. Creatures that take a direct hit from a dispelling bomb are subject to a targeted dispel magic spell, using the alchemist’s level as the caster level. This cannot be used to target a specific spell effect. The alchemist must be at least 6th level before selecting this discovery.
 
-**Elixir of life**: Once per day, the alchemist can brew an elixir of life. This special concoction costs 25,000 gp to create and takes 1 hour of work. An elixir of life, when administered by the alchemist who brewed it, restores life to a dead creature as per the spell true resurrection. Alternatively, the alchemist himself may drink the elixir of life, after which point he is immediately targeted with a resurrection spell the next time he is killed. Used in this manner, the effects of an elixir of life persist only for a number of days equal to the alchemist’s Intelligence modifier; if he does not die before that time expires, the effects of the elixir of life end. An alchemist must be at least 16th level before selecting this discovery.
+#### Elixir of life
 
-**Enhance potion**: A number of times per day equal to his Intelligence modifier, the alchemist can cause any potion he drinks to function at a caster level equal to his class level.
+Once per day, the alchemist can brew an elixir of life. This special concoction costs 25,000 gp to create and takes 1 hour of work. An elixir of life, when administered by the alchemist who brewed it, restores life to a dead creature as per the spell true resurrection. Alternatively, the alchemist himself may drink the elixir of life, after which point he is immediately targeted with a resurrection spell the next time he is killed. Used in this manner, the effects of an elixir of life persist only for a number of days equal to the alchemist’s Intelligence modifier; if he does not die before that time expires, the effects of the elixir of life end. An alchemist must be at least 16th level before selecting this discovery.
 
-**Eternal potion**: If an alchemist drinks a potion that he extends, the effects of that potion become permanent until he chooses to make another potion effect permanent. An alchemist must be at least 16th level and must possess the extend potion discovery before selecting this discovery.
+#### Enhance potion
+
+A number of times per day equal to his Intelligence modifier, the alchemist can cause any potion he drinks to function at a caster level equal to his class level.
+
+#### Eternal potion
+
+If an alchemist drinks a potion that he extends, the effects of that potion become permanent until he chooses to make another potion effect permanent. An alchemist must be at least 16th level and must possess the extend potion discovery before selecting this discovery.
 
 Explosive bomb*: The alchemist’s bombs now have a splash radius of 10 feet rather than 5 feet. Creatures that take a direct hit from an explosive bomb catch fire, taking 1d6 points of fire damage each round until the fire is extinguished. Extinguishing the flames is a full-round action that requires a Reflex save. Rolling on the ground provides the target with a +2 to the save. Dousing the target with at least 2 gallons of water automatically extinguishes the flames.
 
-**Extend potion**: A number of times per day equal to his Intelligence modifier, the alchemist can cause any potion he drinks that does not have an instantaneous duration to function at twice its normal duration. This does not apply to extracts.
+#### Extend potion
 
-**Fast bombs**: An alchemist with this discovery can quickly create enough bombs to throw more than one in a single round. The alchemist can prepare and throw additional bombs as a full-round action if his base attack bonus is high enough to grant him additional attacks. This functions just like a full-attack with a ranged weapon. An alchemist must be at least 8th level before selecting this discovery.
+A number of times per day equal to his Intelligence modifier, the alchemist can cause any potion he drinks that does not have an instantaneous duration to function at twice its normal duration. This does not apply to extracts.
 
-**Feral mutagen**: Whenever the alchemist imbibes a mutagen, he gains two claw attacks and a bite attack. These are primary attacks and are made using the alchemist’s full base attack bonus. The claw attacks deal 1d6 points of damage (1d4 if the alchemist is Small) and the bite attack deals 1d8 points of damage (1d6 if the alchemist is Small). While the mutagen is in effect, the alchemist gains a +2 competence bonus on Intimidate skill checks.
+#### Fast bombs
+
+An alchemist with this discovery can quickly create enough bombs to throw more than one in a single round. The alchemist can prepare and throw additional bombs as a full-round action if his base attack bonus is high enough to grant him additional attacks. This functions just like a full-attack with a ranged weapon. An alchemist must be at least 8th level before selecting this discovery.
+
+#### Feral mutagen
+
+Whenever the alchemist imbibes a mutagen, he gains two claw attacks and a bite attack. These are primary attacks and are made using the alchemist’s full base attack bonus. The claw attacks deal 1d6 points of damage (1d4 if the alchemist is Small) and the bite attack deals 1d8 points of damage (1d6 if the alchemist is Small). While the mutagen is in effect, the alchemist gains a +2 competence bonus on Intimidate skill checks.
 
 Force bomb*: When the alchemist creates a bomb, he can choose to have it inflict force damage. Force bombs deal 1d4 points of force damage, plus 1d4 points of force damage for every odd-numbered level, instead of 1d6.
 
@@ -129,17 +163,27 @@ An alchemist must be at least 8th level before selecting this discovery.
 
 Frost bomb*: When the alchemist creates a bomb, he can choose to have it inflict cold damage. Creatures that take a direct hit from a frost bomb are staggered on their next turn unless they succeed on a Fortitude save.
 
-**Grand mutagen**: The alchemist’s mutagen now grants a +6 natural armor bonus, a +8 alchemical bonus to one ability score (Strength, Dexterity, or Constitution), a +6 alchemical bonus to a second physical ability score, and a +4 alchemical bonus to a third physical ability score. The alchemist takes a –2 penalty to his Intelligence, Wisdom, and Charisma as long as the mutagen persists (see Mutagen). An alchemist must be at least 16th level and must possess the greater mutagen discovery before selecting this discovery.
+#### Grand mutagen
 
-**Greater mutagen**: The alchemist’s mutagen now grants a +4 natural armor bonus, a +6 alchemical bonus to one physical ability score (Strength, Dexterity, or Constitution), and a +4 alchemical bonus to a second physical ability score. The alchemist takes a –2 penalty on both associated mental ability scores as long as the mutagen persists. An alchemist must be at least 12th level before selecting this discovery.
+The alchemist’s mutagen now grants a +6 natural armor bonus, a +8 alchemical bonus to one ability score (Strength, Dexterity, or Constitution), a +6 alchemical bonus to a second physical ability score, and a +4 alchemical bonus to a third physical ability score. The alchemist takes a –2 penalty to his Intelligence, Wisdom, and Charisma as long as the mutagen persists (see Mutagen). An alchemist must be at least 16th level and must possess the greater mutagen discovery before selecting this discovery.
 
-**Infuse mutagen**: When the alchemist creates a mutagen, he can infuse it with an extra bit of his own magical power. This inflicts 2 points of Intelligence damage to the alchemist and costs 1,000 gp in rare reagents, but the mutagen created persists on its own and is not rendered inert if the alchemist creates another mutagen. This allows an alchemist to create different types of mutagens and keep them handy for emergencies. This does not allow an alchemist to gain the effects of multiple mutagens—only the most recently imbibed mutagen has any effect.
+#### Greater mutagen
+
+The alchemist’s mutagen now grants a +4 natural armor bonus, a +6 alchemical bonus to one physical ability score (Strength, Dexterity, or Constitution), and a +4 alchemical bonus to a second physical ability score. The alchemist takes a –2 penalty on both associated mental ability scores as long as the mutagen persists. An alchemist must be at least 12th level before selecting this discovery.
+
+#### Infuse mutagen
+
+When the alchemist creates a mutagen, he can infuse it with an extra bit of his own magical power. This inflicts 2 points of Intelligence damage to the alchemist and costs 1,000 gp in rare reagents, but the mutagen created persists on its own and is not rendered inert if the alchemist creates another mutagen. This allows an alchemist to create different types of mutagens and keep them handy for emergencies. This does not allow an alchemist to gain the effects of multiple mutagens—only the most recently imbibed mutagen has any effect.
 
 Inferno bomb*: The effects of the smoke created by an alchemist’s bomb duplicate the effects of incendiary cloud instead of fog cloud, filling an area equal to twice the bomb’s splash radius for 1 round per level. An alchemist must be at least 16th level and must possess the smoke bomb discovery before selecting this discovery.
 
-**Infusion**: When the alchemist creates an extract, he can infuse it with an extra bit of his own magical power. The extract created now persists even after the alchemist sets it down. As long as the extract exists, it continues to occupy one of the alchemist’s daily extract slots. An infused extract can be imbibed by a non-alchemist to gain its effects.
+#### Infusion
 
-**Madness bomb**: The alchemist’s bombs do more than sear flesh—they sear the mind. A creature that takes a direct hit from a madness bomb takes damage from the bomb plus 1d4 points of Wisdom damage. Reduce the amount of normal damage dealt by the bomb by 2d6 (so a bomb that would normally deal 6d6+4 points of damage deals 4d6+4 points of damage instead). The amount of Wisdom damage dealt by a madness bomb is reduced by 1 for each madness bomb that hit the target in the past 24 hours, to a minimum of 1 point of Wisdom damage.
+When the alchemist creates an extract, he can infuse it with an extra bit of his own magical power. The extract created now persists even after the alchemist sets it down. As long as the extract exists, it continues to occupy one of the alchemist’s daily extract slots. An infused extract can be imbibed by a non-alchemist to gain its effects.
+
+#### Madness bomb
+
+The alchemist’s bombs do more than sear flesh—they sear the mind. A creature that takes a direct hit from a madness bomb takes damage from the bomb plus 1d4 points of Wisdom damage. Reduce the amount of normal damage dealt by the bomb by 2d6 (so a bomb that would normally deal 6d6+4 points of damage deals 4d6+4 points of damage instead). The amount of Wisdom damage dealt by a madness bomb is reduced by 1 for each madness bomb that hit the target in the past 24 hours, to a minimum of 1 point of Wisdom damage.
 
 An alchemist must be at least 12th level before selecting this discovery.
 
@@ -147,45 +191,77 @@ Poison bomb*: The effects of the smoke created by an alchemist’s bomb duplicat
 
 **Poisoned Explosive\***: When an alchemist creates a bomb, he can apply a dose of contact or injury poison to it, as if applying poison to a weapon. If the poisoned bomb hits its target, the bomb deals damage as normal, but the target must also succeed at a saving throw against the poison or be affected by that poison. No other creatures are affected by the poison. An alchemist must be at least 4th level and have the poison use class feature before selecting this discovery. (Poisoned explosive doesn't stack with other discoveries that modify bombs.)
 
-**Precise bombs**: Whenever the alchemist throws a bomb, he can select a number of squares equal to his Intelligence modifier that are not affected by the splash damage from his bombs. If the bomb misses, this discovery has no effect.
+#### Precise bombs
+
+Whenever the alchemist throws a bomb, he can select a number of squares equal to his Intelligence modifier that are not affected by the splash damage from his bombs. If the bomb misses, this discovery has no effect.
 
 Shock bomb*: When the alchemist creates a bomb, he can choose to have it inflict electricity damage. Creatures that take a direct hit from a shock bomb are dazzled for 1d4 rounds.
 
 Smoke bomb*: When the alchemist creates a bomb, he can choose to have it create a cloud of thick smoke when it detonates. The cloud functions as fog cloud, filling an area equal to twice the bomb’s splash radius for 1 round per level.
 
-**Sticky bomb**: The effects of the alchemist’s bombs are persistent and continue to damage creatures for 1 round after the initial damage. Creatures that take a direct hit from a sticky bomb take the splash damage 1 round later. Bombs that have effects that would normally occur 1 round later instead have those effects occur 2 rounds later. An alchemist must be at least 10th level before selecting this discovery.
+#### Sticky bomb
 
-**Sticky poison**: Any poison the alchemist creates is sticky—when the alchemist applies it to a weapon, the weapon remains poisoned for a number of strikes equal to the alchemist’s Intelligence modifier. An alchemist must be at least 6th level before selecting this discovery.
+The effects of the alchemist’s bombs are persistent and continue to damage creatures for 1 round after the initial damage. Creatures that take a direct hit from a sticky bomb take the splash damage 1 round later. Bombs that have effects that would normally occur 1 round later instead have those effects occur 2 rounds later. An alchemist must be at least 10th level before selecting this discovery.
+
+#### Sticky poison
+
+Any poison the alchemist creates is sticky—when the alchemist applies it to a weapon, the weapon remains poisoned for a number of strikes equal to the alchemist’s Intelligence modifier. An alchemist must be at least 6th level before selecting this discovery.
 
 Stink bomb*: The effects of the smoke created by an alchemist’s bomb can duplicate the effects of stinking cloud instead of fog cloud, filling an area equal to twice the bomb’s splash radius for 1 round. An alchemist must possess the smoke bomb discovery before selecting this discovery.
 
-**Poison Resistance (Ex)**: At 2nd level, an alchemist gains a +2 bonus on all saving throws against poison. This bonus increases to +4 at 5th level, and then again to +6 at 8th level. At 10th level, an alchemist becomes completely immune to poison.
+### Poison Resistance (Ex)
 
-**Poison Use (Ex)**: Alchemists are trained in the use of poison and starting at 2nd level, cannot accidentally poison themselves when applying poison to a weapon.
+At 2nd level, an alchemist gains a +2 bonus on all saving throws against poison. This bonus increases to +4 at 5th level, and then again to +6 at 8th level. At 10th level, an alchemist becomes completely immune to poison.
 
-**Swift Alchemy (Ex)**: At 3rd level, an alchemist can create alchemical items with astounding speed. It takes an alchemist half the normal amount of time to create alchemical items, and he can apply poison to a weapon as a move action.
+### Poison Use (Ex)
 
-**Swift Poisoning (Ex)**: At 6th level, an alchemist can apply a dose of poison to a weapon as a swift action.
+Alchemists are trained in the use of poison and starting at 2nd level, cannot accidentally poison themselves when applying poison to a weapon.
 
-**Persistent Mutagen (Su)**: At 14th level, the effects of a mutagen last for 1 hour per level.
+### Swift Alchemy (Ex)
 
-**Instant Alchemy (Ex)**: At 18th level, an alchemist can create alchemical items with almost supernatural speed.
+At 3rd level, an alchemist can create alchemical items with astounding speed. It takes an alchemist half the normal amount of time to create alchemical items, and he can apply poison to a weapon as a move action.
+
+### Swift Poisoning (Ex)
+
+At 6th level, an alchemist can apply a dose of poison to a weapon as a swift action.
+
+### Persistent Mutagen (Su)
+
+At 14th level, the effects of a mutagen last for 1 hour per level.
+
+### Instant Alchemy (Ex)
+
+At 18th level, an alchemist can create alchemical items with almost supernatural speed.
 
 He can create any alchemical item as a full-round action if he succeeds at the Craft (alchemy) check and has the appropriate resources at hand to fund the creation. He can apply poison to a weapon as an immediate action.
 
-**Grand Discovery (Su)**: At 20th level, the alchemist makes a grand discovery. He immediately learns two normal discoveries, but also learns a third discovery chosen from the list below, representing a truly astounding alchemical breakthrough of significant import. For many alchemists, the promise of one of these grand discoveries is the primary goal of their experiments and hard work.
+### Grand Discovery (Su)
 
-**Awakened Intellect**: The alchemist’s constant exposure to strange chemicals has expanded his mind. His Intelligence score permanently increases by 2 points.
+At 20th level, the alchemist makes a grand discovery. He immediately learns two normal discoveries, but also learns a third discovery chosen from the list below, representing a truly astounding alchemical breakthrough of significant import. For many alchemists, the promise of one of these grand discoveries is the primary goal of their experiments and hard work.
 
-**Eternal Youth**: The alchemist has discovered a cure for aging, and from this point forward he takes no penalty to his physical ability scores from advanced age. If the alchemist is already taking such penalties, they are removed at this time.
+#### Awakened Intellect
 
-**Fast Healing**: The alchemist’s flesh responds to damage with shocking speed—he gains fast healing 5.
+The alchemist’s constant exposure to strange chemicals has expanded his mind. His Intelligence score permanently increases by 2 points.
 
-**Philosopher’s Stone**: The alchemist learns how to create a philosopher’s stone, and can do so once per month at no cost. Creating a philosopher’s stone takes 1 day of work.
+#### Eternal Youth
 
-**Poison Touch**: The alchemist gains a poisonous touch, as if under the effects of a poison spell. He can suppress or activate this ability as a free action. The physical appearance of how the alchemist generates and delivers his poisonous touch varies from alchemist to alchemist.
+The alchemist has discovered a cure for aging, and from this point forward he takes no penalty to his physical ability scores from advanced age. If the alchemist is already taking such penalties, they are removed at this time.
 
-**True Mutagen**: The alchemist’s mutagen now grants a +8 natural armor bonus and a +8 alchemical bonus to Strength, Dexterity, and Constitution. The alchemist takes a –2 penalty to his Intelligence, Wisdom, and Charisma as long as the mutagen persists (see Mutagen). An alchemist must possess the grand mutagen discovery before selecting this discovery.
+#### Fast Healing
+
+The alchemist’s flesh responds to damage with shocking speed—he gains fast healing 5.
+
+#### Philosopher’s Stone
+
+The alchemist learns how to create a philosopher’s stone, and can do so once per month at no cost. Creating a philosopher’s stone takes 1 day of work.
+
+#### Poison Touch
+
+The alchemist gains a poisonous touch, as if under the effects of a poison spell. He can suppress or activate this ability as a free action. The physical appearance of how the alchemist generates and delivers his poisonous touch varies from alchemist to alchemist.
+
+#### True Mutagen
+
+The alchemist’s mutagen now grants a +8 natural armor bonus and a +8 alchemical bonus to Strength, Dexterity, and Constitution. The alchemist takes a –2 penalty to his Intelligence, Wisdom, and Charisma as long as the mutagen persists (see Mutagen). An alchemist must possess the grand mutagen discovery before selecting this discovery.
 
 ## Alchemist Formulae
 
@@ -213,7 +289,7 @@ beast shape III, contact other plane, delayed consumption\*, dream, elemental bo
 
 ### 6th-Level Alchemist Formulae
 
-analyze dweomer, beast shape IV, elemental body III, eyebite, form of the dragon I, giant form I, heal, mislead, plant shape II, shadow walk, statue, transformation, true seeing, twin form\*, wind walk. Mount (Ex): A cavalier gains the service of a loyal and trusty steed to carry him into battle. This mount functions as a druid’s animal companion, using the cavalier’s level as his effective druid level. The creature must be one that he is capable of riding and is suitable as a mount. A Medium cavalier can select a camel or a horse. A Small cavalier can select a pony or wolf, but can also select a boar or a dog if he is at least 4th level. The GM might approve other animals as suitable mounts. A cavalier does not take an armor check penalty on Ride checks while riding his mount. The mount is always considered combat trained and begins play with [Light Armor](../../equipment/armor.md) Proficiency as a bonus feat. A cavalier’s mount does not gain the share spells special ability. A cavalier’s bond with his mount is strong, with the pair learning to anticipate each other’s moods and moves. Should a cavalier’s mount die, the cavalier may find another mount to serve him after 1 week of mourning. This new mount does not gain the link, evasion, devotion, or improved evasion special abilities until the next time the cavalier gains a level. Order (Ex): At 1st level, a cavalier must pledge himself to a specific order. The order grants the cavalier a number of bonuses, class skills, and special abilities. In addition, each order includes a number of edicts.
+analyze dweomer, beast shape IV, elemental body III, eyebite, form of the dragon I, giant form I, heal, mislead, plant shape II, shadow walk, statue, transformation, true seeing, twin form\*, wind walk. Mount (Ex): A cavalier gains the service of a loyal and trusty steed to carry him into battle. This mount functions as a druid’s animal companion, using the cavalier’s level as his effective druid level. The creature must be one that he is capable of riding and is suitable as a mount. A Medium cavalier can select a camel or a horse. A Small cavalier can select a pony or wolf, but can also select a boar or a dog if he is at least 4th level. The GM might approve other animals as suitable mounts. A cavalier does not take an armor check penalty on Ride checks while riding his mount. The mount is always considered combat trained and begins play with [Light Armor](../../equipment/armor.md) Proficiency as a bonus feat. A cavalier’s mount does not gain the share spells special ability. A cavalier’s bond with his mount is strong, with the pair learning to anticipate each other’s moods and moves. Should a [cavalier’s mount](cavalier.md#mount-ex) die, the cavalier may find another mount to serve him after 1 week of mourning. This new mount does not gain the link, evasion, devotion, or improved evasion special abilities until the next time the cavalier gains a level. Order (Ex): At 1st level, a cavalier must pledge himself to a specific order. The order grants the cavalier a number of bonuses, class skills, and special abilities. In addition, each order includes a number of edicts.
 
 ## Favored Class Bonuses
 

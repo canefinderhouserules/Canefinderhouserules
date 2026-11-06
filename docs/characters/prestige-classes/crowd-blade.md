@@ -55,7 +55,7 @@ The following are class features of the crowd blade prestige class.
 
 **Slowing Strike (Su)**: At 2nd level, once per round upon successfully hitting a target with a sneak attack, a crowd blade can choose to deal 1 fewer die of sneak attack damage and instead reduce one of the target’s speeds by 5 feet. Once a target’s speed has been reduced to 0 feet, it is immobilized (but not helpless). A target’s fly speed can be reduced this way only if it uses wings to fly. The movement penalties imposed by slowing strike can be removed by healing the affected target to full hit points or a *lesser restoration* spell.
 
-**Sneak Attack (Ex)**: At 2nd level, a crowd blade gains sneak attack +1d6, as the rogue ability. This extra damage increases by 1d6 at both 6th level and 10th level. These increases stack with sneak attack damage granted by other sources.
+**Sneak Attack (Ex)**: At 2nd level, a crowd blade gains sneak attack +1d6, as the [rogue ability](../classes/rogue.md#sneak-attack). This extra damage increases by 1d6 at both 6th level and 10th level. These increases stack with sneak attack damage granted by other sources.
 
 **Unexpected Suggestion (Su)**: At 3rd level, once per day, a crowd blade can use [*suggestion*](../../magic/spells/suggestion.md) on a flat-footed target. Her caster level is equal to her crowd blade level. The save DC is equal to 10 + 1/2 the crowd blade’s ranks in Bluff + her Intelligence modifier.
 

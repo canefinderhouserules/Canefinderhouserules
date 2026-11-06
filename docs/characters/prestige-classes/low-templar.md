@@ -60,7 +60,7 @@ The following are all class features of the low templar prestige class.
 
 If the critical multiplier is X3, the duration of the effect doubles. If the critical multiplier is X4, the duration triples.
 
-**Sneak Attack (Ex)**: This ability is exactly like the rogue ability of the same name. The extra damage dealt increases by +1d6 at 8th level. If a low templar gets a sneak attack bonus from another source, the bonuses on damage stack.
+**Sneak Attack (Ex)**: This ability is exactly like the [rogue ability](../classes/rogue.md#sneak-attack) of the same name. The extra damage dealt increases by +1d6 at 8th level. If a low templar gets a sneak attack bonus from another source, the bonuses on damage stack.
 
 **Path of Darkness/Path of Light (Su)**: As a low templar advances, he must eventually decide how closely he wishes to hew to his oaths to his goddess and her ethos of law and goodness. If he chooses the path of light, he may choose to ignore the lawful or good aspect of his alignment (choose one) for determining alignment-based magical effects (e.g., reducing damage from unholy blight or an unholy weapon, masking his alignment from detect good, or ignoring some effects of a magic circle against good). He also gains a +2 circumstance bonus on Diplomacy checks with creatures with the lawful or good subtypes. If he chooses the path of darkness, he instead disregards either chaos or evil from his alignment and gains a Diplomacy bonus with creatures of the chaotic or evil subtypes.
 

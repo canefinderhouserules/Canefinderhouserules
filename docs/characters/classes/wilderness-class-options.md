@@ -1,6 +1,6 @@
 # Wilderness Class Options
 
-Class options from Ultimate Wilderness that are not archetypes: new discoveries, rage powers, a cavalier order, psychic disciplines, slayer talents, witch hexes and patrons, and the plant eidolon subtype. See also the [wood kineticist element](kineticist-wood.md), the [wood shaman spirit](shaman-spirits.md#wood), the [disaster warpriest blessings](warpriest-blessings.md#disaster-blessings), and the [erosion](../../magic/domains/erosion.md) and [vermin](../../magic/domains/vermin.md) domains.
+Class options from Ultimate Wilderness that are not archetypes: new discoveries, rage powers, a [cavalier order](cavalier.md#order-ex), psychic disciplines, slayer talents, witch hexes and patrons, and the plant eidolon subtype. See also the [wood kineticist element](kineticist-wood.md), the [wood shaman spirit](shaman-spirits.md#wood), the [disaster warpriest blessings](warpriest-blessings.md#disaster-blessings), and the [erosion](../../magic/domains/erosion.md) and [vermin](../../magic/domains/vermin.md) domains.
 
 ## Alchemist Discoveries
 
@@ -26,7 +26,7 @@ As ancestral warriors or admirers of primeval predators, barbarians channel thei
 
 **Bestial Flyer (Ex)**: While raging, the barbarian’s fly speed increases by 10 feet and her maneuverability improves by one category. A barbarian must have a fly speed before raging, have the raging flyer† power, and be at least 6th level to choose this rage power.
 
-**Contagious Rage (Su)**: The barbarian howls during combat, agitating nearby fauna. Willing animals and magical beasts within 30 feet of the barbarian gain the benefits of the rage spell for as long as she maintains her rage. After the barbarian’s rage ends, creatures affected by her rage are fatigued for the same number of rounds as the barbarian. A barbarian must be at least 6th level to choose this rage power.
+**Contagious Rage (Su)**: The barbarian howls during combat, agitating nearby fauna. Willing animals and magical beasts within 30 feet of the barbarian gain the benefits of the rage spell for as long as she maintains her rage. After the [barbarian’s rage](barbarian.md#rage-ex) ends, creatures affected by her rage are fatigued for the same number of rounds as the barbarian. A barbarian must be at least 6th level to choose this rage power.
 
 **Dissipating Rage (Su)**: When the barbarian rages, her feverish frenzy and hot breath burn or blow fog, smoke and similar effects away from her. The barbarian and creatures adjacent to her do not gain concealment from obfuscating effects like fog or precipitation. Magical effects that require more than a strong wind to dissipate are not affected by this rage power.
 
@@ -70,7 +70,7 @@ Cavaliers of the order of the Green are dedicated to protecting wild places and 
 
 **Order Abilities**: A cavalier belonging to the order of the Green gains the following abilities.
 
-**Favored Terrain (Ex)**: At 2nd level, an order of the Green cavalier chooses a favored terrain from the list of ranger favored terrains. He gains this as a favored terrain, as the ranger class feature of the same name. At 8th level and every 6 levels thereafter, he selects another favored terrain. In addition, at each such interval, the skill bonus in any one favored terrain (including the one just selected, if so desired) increases by 2.
+**Favored Terrain (Ex)**: At 2nd level, an order of the Green cavalier chooses a favored terrain from the list of ranger favored terrains. He gains this as a favored terrain, as the [ranger class feature](ranger.md#favored-terrain-ex) of the same name. At 8th level and every 6 levels thereafter, he selects another favored terrain. In addition, at each such interval, the skill bonus in any one favored terrain (including the one just selected, if so desired) increases by 2.
 
 **Cut the Corruption (Su)**: At 8th level, an order of the Green cavalier can touch a weapon and enhance it as a free action once per day. For 1 minute, the weapon glows with a deep-green light and deals an additional 1d6 points of damage against aberrations and undead. This damage does not stack with the additional damage granted by the bane weapon special ability. At 16th level, the cavalier can use this ability a second time each day.
 

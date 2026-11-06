@@ -52,41 +52,59 @@ The shifter’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Fly
 | 19th | +19/+14/+9/+4 | +11 | +11 | +6 | Shifter claws increase |
 | 20th | +20/+15/+10/+5 | +12 | +12 | +6 | Defensive instinct (+5), final aspect |
 
-**Weapon and Armor Proficiency**: A shifter is proficient with the following weapons: [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [dagger](../../equipment/weapons-simple.md#simple-light-melee-weapons), [dart](../../equipment/weapons-simple.md#simple-ranged-weapons), [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), [scimitar](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [scythe](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), [sickle](../../equipment/weapons-simple.md#simple-light-melee-weapons), [shortspear](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [sling](../../equipment/weapons-simple.md#simple-ranged-weapons), and [spear](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons). She is also proficient with the natural attacks (claw, bite, and so forth) from the shifter claws class feature and of forms she assumes with wild shape.
+### Weapon and Armor Proficiency
+
+A shifter is proficient with the following weapons: [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [dagger](../../equipment/weapons-simple.md#simple-light-melee-weapons), [dart](../../equipment/weapons-simple.md#simple-ranged-weapons), [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), [scimitar](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [scythe](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), [sickle](../../equipment/weapons-simple.md#simple-light-melee-weapons), [shortspear](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [sling](../../equipment/weapons-simple.md#simple-ranged-weapons), and [spear](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons). She is also proficient with the natural attacks (claw, bite, and so forth) from the shifter claws class feature and of forms she assumes with wild shape.
 
 Shifters are proficient with light and [medium armor](../../equipment/armor.md) but are prohibited from wearing metal armor. A shifter can wear wooden armor that has been altered by the ironwood spell so that it functions as if it were steel. Shifters are proficient with [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)) but must use only those crafted from wood.
 
 A shifter who wears prohibited armor or uses a prohibited shield is unable to use her shifter aspect, shifter claws, wild shape, and other shifter supernatural or spell-like abilities while doing so and for 24 hours thereafter.
 
-**Bonus Languages**: A shifter’s bonus language options include Sylvan, the language of woodland creatures, and Aklo, the tongue spoken by certain sinister fey or otherworldly denizens of reaches of the wild rarely explored by humanity. These choices are in addition to the bonus languages available to the character because of her race.
+### Bonus Languages
+
+A shifter’s bonus language options include Sylvan, the language of woodland creatures, and Aklo, the tongue spoken by certain sinister fey or otherworldly denizens of reaches of the wild rarely explored by humanity. These choices are in addition to the bonus languages available to the character because of her race.
 
 A shifter speaks Druidic, a secret language known only to druids and shifters, which she learns upon becoming a 1st-level shifter. Druidic is a free language for a shifter; that is, she knows it in addition to her regular allotment of languages, and it doesn’t take up a language slot. Shifters are forbidden to teach this language to non-druids or non-shifters.
 
-**Shifter Aspect (Su)**: At 1st level, a shifter gains her first aspect—a category of animal to which her body and soul have become supernaturally attuned. She can shift into her aspect’s minor form (see Aspects) for a number of minutes per day equal to 3 + her shifter level. The duration need not be consecutive but must be spent in 1-minute increments. Shifting into a minor form is a swift action, while ending the effect is a free action that can be taken only on the shifter’s turn. Until a shifter reaches 9th level and gains the chimeric aspect class feature, she can assume only one minor form at a time. Shifting to a new aspect (or aspects, in the case of chimeric aspects or greater chimeric aspects) ends all minor forms currently manifested. The minor forms of aspects are not polymorph effects, and the shifter does not lose the benefits of a minor form while affected by polymorph effects.
+### Shifter Aspect (Su)
+
+At 1st level, a shifter gains her first aspect—a category of animal to which her body and soul have become supernaturally attuned. She can shift into her aspect’s minor form (see Aspects) for a number of minutes per day equal to 3 + her shifter level. The duration need not be consecutive but must be spent in 1-minute increments. Shifting into a minor form is a swift action, while ending the effect is a free action that can be taken only on the shifter’s turn. Until a shifter reaches 9th level and gains the chimeric aspect class feature, she can assume only one minor form at a time. Shifting to a new aspect (or aspects, in the case of chimeric aspects or greater chimeric aspects) ends all minor forms currently manifested. The minor forms of aspects are not polymorph effects, and the shifter does not lose the benefits of a minor form while affected by polymorph effects.
 
 As the shifter gains levels, she gains more aspects; she gains her second aspect at 5th level, a third aspect at 10th level, and a fourth at 15th level. Aspects are detailed in their own section.
 
-**Shifter Claws (Su)**: At will, a shifter in her natural form can extend her claws as a swift action to use as a weapon. This magical transformation is fueled as much by the shifter’s faith in the natural world as it is by inborn talent. The claws on each hand can be used as a primary natural attack, dealing 1d4 points of piercing and slashing damage (1d3 if she is Small). If she uses one of her claw attacks in concert with a weapon held in the other hand, the claw acts as a secondary natural attack instead.
+### Shifter Claws (Su)
+
+At will, a shifter in her natural form can extend her claws as a swift action to use as a weapon. This magical transformation is fueled as much by the shifter’s faith in the natural world as it is by inborn talent. The claws on each hand can be used as a primary natural attack, dealing 1d4 points of piercing and slashing damage (1d3 if she is Small). If she uses one of her claw attacks in concert with a weapon held in the other hand, the claw acts as a secondary natural attack instead.
 
 As the shifter gains levels, the power of her claws increases. At 3rd level, her claws ignore DR/cold iron and DR/silver. At 7th level, her claw damage increases to 1d6 (1d4 if Small). At 11th level, her claw damage increases to 1d8 (1d6 if Small). At 13th level, her claw damage increases to 1d10 (1d8 if Small). At 17th level, the damage die does not increase, but the critical multiplier becomes ×3. Lastly, at 19th level, the claws ignore DR/adamantine and DR/—.
 
 While a shifter uses wild shape to assume her aspect’s major form, her natural attacks gain the same benefits granted by her shifter claws ability. If the form she takes has claw attacks, she can use either the base damage of her shifter claws or the damage of the form’s claws, whichever is greater. If the form does not have claw attacks, she can choose up to two natural attacks that would deal less damage than her shifter claw damage and have those attacks instead deal the same damage as her shifter claws.
 
-**Wild Empathy (Ex)**: A shifter can improve the attitude of an animal. This ability functions as a Diplomacy check to improve the attitude of a person. The shifter rolls 1d20 and adds her shifter level and Charisma modifier to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
+### Wild Empathy (Ex)
+
+A shifter can improve the attitude of an animal. This ability functions as a Diplomacy check to improve the attitude of a person. The shifter rolls 1d20 and adds her shifter level and Charisma modifier to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
 
 To use wild empathy, the shifter and the animal must be within 30 feet of one another and under normal conditions. Generally, influencing an animal in this way takes 1 minute but, as with influencing people, it might take more or less time.
 
 The shifter can also use this ability to influence a magical beast with an Intelligence score of 1 or 2, but she takes a –4 penalty on the check.
 
-**Defensive Instinct (Ex)**: At 2nd level, when unarmored, not using a shield, unencumbered, and conscious, the shifter adds her Wisdom bonus (if any) to her AC and CMD. If she is wearing nonmetal armor or using a nonmetal shield, she instead adds half her Wisdom bonus to her AC (minimum 0). In addition, the shifter gains a +1 bonus to her AC and CMD at 4th level. This bonus increases by 1 for every 4 shifter levels thereafter (up to a maximum of +5 at 20th level).
+### Defensive Instinct (Ex)
 
-These bonuses to AC apply even against touch attacks and when the shifter is flat-footed. She loses these bonuses when she is immobilized or helpless. These bonuses do not stack with the monk AC bonus class feature.
+At 2nd level, when unarmored, not using a shield, unencumbered, and conscious, the shifter adds her Wisdom bonus (if any) to her AC and CMD. If she is wearing nonmetal armor or using a nonmetal shield, she instead adds half her Wisdom bonus to her AC (minimum 0). In addition, the shifter gains a +1 bonus to her AC and CMD at 4th level. This bonus increases by 1 for every 4 shifter levels thereafter (up to a maximum of +5 at 20th level).
 
-**Track (Ex)**: At 2nd level, a shifter adds half her level as a bonus on Survival checks to follow tracks.
+These bonuses to AC apply even against touch attacks and when the shifter is flat-footed. She loses these bonuses when she is immobilized or helpless. These bonuses do not stack with the [monk AC bonus](monk.md#ac-bonus-ex) class feature.
 
-**Woodland Stride (Ex)**: At 3rd level, a shifter can move through any sort of undergrowth (such as briars, natural thorns, overgrown areas, and similar terrain) at her normal speed and without taking damage or suffering any other impairment. Briars, thorns, and overgrown areas that are enchanted or magically manipulated to impede motion still affect the shifter.
+### Track (Ex)
 
-**Wild Shape (Su)**: At 4th level, a shifter gains the ability to turn herself into the major form of one of her aspects and back again once per day. This ability functions as beast shape II, except as noted here. The shifter can turn into the major form of only one of her aspects at a time. The effect lasts for 1 hour per shifter level or until she changes back. Using wild shape to change to a major form or back is a standard action that doesn’t provoke attacks of opportunity. Often a particular aspect’s major form grants abilities beyond the normal effect of beast shape II. Each major form details the abilities the shifter gains with that major form and at what level; she gains these instead of the form abilities from beast shape II, but she still gains beast shape II abilities that are size dependent.
+At 2nd level, a shifter adds half her level as a bonus on Survival checks to follow tracks.
+
+### Woodland Stride (Ex)
+
+At 3rd level, a shifter can move through any sort of undergrowth (such as briars, natural thorns, overgrown areas, and similar terrain) at her normal speed and without taking damage or suffering any other impairment. Briars, thorns, and overgrown areas that are enchanted or magically manipulated to impede motion still affect the shifter.
+
+### Wild Shape (Su)
+
+At 4th level, a shifter gains the ability to turn herself into the major form of one of her aspects and back again once per day. This ability functions as beast shape II, except as noted here. The shifter can turn into the major form of only one of her aspects at a time. The effect lasts for 1 hour per shifter level or until she changes back. Using wild shape to change to a major form or back is a standard action that doesn’t provoke attacks of opportunity. Often a particular aspect’s major form grants abilities beyond the normal effect of beast shape II. Each major form details the abilities the shifter gains with that major form and at what level; she gains these instead of the form abilities from beast shape II, but she still gains beast shape II abilities that are size dependent.
 
 A shifter loses her ability to speak while in animal form because she is limited to the sounds that a normal, untrained animal of that form can make, but she can communicate with other animals of the same general grouping as her form. She can also communicate in nonverbal ways with allies.
 
@@ -94,13 +112,21 @@ A shifter can use this ability an additional time per day at 6th level and every
 
 A shifters can take feats and other abilities that require wild shape; for the purpose of qualifying for prerequisites, her effective druid level is equal to her shifter level.
 
-**Trackless Step (Ex)**: At 5th level, a shifter leaves no trail in natural surroundings and cannot be tracked. She can choose to leave a trail if she so desires.
+### Trackless Step (Ex)
 
-**Chimeric Aspect (Su)**: At 9th level, when a shifter uses her shifter aspect ability to take on a minor form, she can choose two aspects and assume the minor form of each aspect.
+At 5th level, a shifter leaves no trail in natural surroundings and cannot be tracked. She can choose to leave a trail if she so desires.
 
-**Greater Chimeric Aspect (Su)**: At 14th level, when a shifter uses her shifter aspect ability to take on a minor form, she can choose up to three aspects and assume the minor form of each aspect.
+### Chimeric Aspect (Su)
 
-**Final Aspect (Su)**: At 20th level, a shifter gains access to a fifth aspect, and when she uses shifter’s aspect, she can assume the minor forms of all her aspects.
+At 9th level, when a shifter uses her shifter aspect ability to take on a minor form, she can choose two aspects and assume the minor form of each aspect.
+
+### Greater Chimeric Aspect (Su)
+
+At 14th level, when a shifter uses her shifter aspect ability to take on a minor form, she can choose up to three aspects and assume the minor form of each aspect.
+
+### Final Aspect (Su)
+
+At 20th level, a shifter gains access to a fifth aspect, and when she uses shifter’s aspect, she can assume the minor forms of all her aspects.
 
 ### Speaking Druidic
 
@@ -318,7 +344,7 @@ This aspect unlocks the brutal ferocity and tenacious fury of the wolverine. The
 
 **Minor Form**: You gain 1 additional hit point per Hit Die you have, and treat your Constitution score as 4 points higher than it is for the purpose of determining when you die at negative hit points. At 8th level, you gain Diehard as a bonus feat. At 15th level, you treat your Constitution as being 8 points higher for the purpose of determining when you die at negative hit points.
 
-**Major Form**: Your shape changes to that of a dire wolverine. While in this form, you gain a climb speed of 10 feet, low-light vision, and scent (30 feet). While in dire wolverine form, you gain the barbarian’s rage power, but can activate this rage only in a round after you’ve taken damage. You can rage for a number of rounds each day equal to your shifter level. This ability otherwise functions the same as the barbarian rage ability (unlike a dire wolverine, you can choose to end this rage voluntarily). At 8th level, you can choose two barbarian rage powers, treating your shifter level as your effective barbarian level for the purposes of meeting prerequisites. At 15th level, you are no longer fatigued at the end of your rage.
+**Major Form**: Your shape changes to that of a dire wolverine. While in this form, you gain a climb speed of 10 feet, low-light vision, and scent (30 feet). While in dire wolverine form, you gain the [barbarian’s rage](barbarian.md#rage-ex) power, but can activate this rage only in a round after you’ve taken damage. You can rage for a number of rounds each day equal to your shifter level. This ability otherwise functions the same as the [barbarian rage](barbarian.md#rage-ex) ability (unlike a dire wolverine, you can choose to end this rage voluntarily). At 8th level, you can choose two [barbarian rage powers](barbarian.md#rage-powers-ex), treating your shifter level as your effective barbarian level for the purposes of meeting prerequisites. At 15th level, you are no longer fatigued at the end of your rage.
 
 ## Alternate Natural Attacks
 

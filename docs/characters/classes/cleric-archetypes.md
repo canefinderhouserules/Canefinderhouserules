@@ -180,9 +180,9 @@ Eschewing physical armor for protection via the strength of his faith, an eccles
 
 **Weapon and Armor Proficiency**: An ecclesitheurge is proficient with the [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [dagger](../../equipment/weapons-simple.md#simple-light-melee-weapons), [heavy crossbow](../../equipment/weapons-simple.md#simple-ranged-weapons), [light crossbow](../../equipment/weapons-simple.md#simple-ranged-weapons), and [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), but he's not proficient with any type of armor or shield. This replaces the cleric's weapon and armor proficiencies.
 
-**Ecclesitheurge's Vow**: At 1st level, an ecclesitheurge makes a vow to his deity to be protected solely by his faith, not by armor or shields. An ecclesitheurge who wears prohibited armor or uses a prohibited shield is unable to use his blessing of the faithful ability, use cleric domain powers, or cast cleric spells.
+**Ecclesitheurge's Vow**: At 1st level, an ecclesitheurge makes a vow to his deity to be protected solely by his faith, not by armor or shields. An ecclesitheurge who wears prohibited armor or uses a prohibited shield is unable to use his blessing of the faithful ability, use cleric domain powers, or cast [cleric spells](cleric.md#spells).
 
-**Domain Mastery**: At 1st level, when an ecclesitheurge chooses his cleric domains, he designates one as his primary domain and the other as his secondary domain. An ecclesitheurge can use his non-domain spell slots to prepare spells from his primary domain's spell list. Each day when he prepares spells, an ecclesitheurge can select a different domain granted by his deity to gain access to that domain's spell list instead of his secondary domain spell list. He does not lose access to his actual secondary domain's granted powers or gain access to the other domain's granted powers. For example, an ecclesitheurge with the Glory domain as his primary domain and the Good domain as his secondary domain can choose to gain access to the Healing domain; until the next time he prepares spells, he uses the Healing domain spell list as his secondary domain spell list instead of the Good domain spell list, but still keeps the granted powers of the Good domain and does not gain the granted powers of the Healing domain.
+**Domain Mastery**: At 1st level, when an ecclesitheurge chooses his [cleric domains](cleric.md#domains_1), he designates one as his primary domain and the other as his secondary domain. An ecclesitheurge can use his non-domain spell slots to prepare spells from his primary domain's spell list. Each day when he prepares spells, an ecclesitheurge can select a different domain granted by his deity to gain access to that domain's spell list instead of his secondary domain spell list. He does not lose access to his actual secondary domain's granted powers or gain access to the other domain's granted powers. For example, an ecclesitheurge with the Glory domain as his primary domain and the Good domain as his secondary domain can choose to gain access to the Healing domain; until the next time he prepares spells, he uses the Healing domain spell list as his secondary domain spell list instead of the Good domain spell list, but still keeps the granted powers of the Good domain and does not gain the granted powers of the Healing domain.
 
 This ability alters the normal domain ability.
 
@@ -208,7 +208,7 @@ The divine strategist leads the armies of the faithful, not from the front lines
 
 **Domains**: A divine strategist gains only a single domain.
 
-**Master Tactician (Ex)**: A divine strategist can always act in a surprise round even if she fails to make a Perception check to notice enemies, though she is considered flat-footed until she acts. In addition, the divine strategist gains a bonus on initiative checks equal to 1/2 her cleric level. At 20th level, a divine strategist’s initiative roll is automatically a natural 20. Allies able to see and hear the divine strategist gain a bonus on initiative checks equal to 1/4 the divine strategist’s level. This is a language-dependent ability. This ability replaces channel energy.
+**Master Tactician (Ex)**: A divine strategist can always act in a surprise round even if she fails to make a Perception check to notice enemies, though she is considered flat-footed until she acts. In addition, the divine strategist gains a bonus on initiative checks equal to 1/2 her cleric level. At 20th level, a divine strategist’s initiative roll is automatically a natural 20. Allies able to see and hear the divine strategist gain a bonus on initiative checks equal to 1/4 the divine strategist’s level. This is a language-dependent ability. This ability replaces [channel energy](cleric.md#channel-energy-su).
 
 **Caster Support (Su)**: A divine strategist can use the aid another action to assist another divine spellcaster, granting a +2 circumstance bonus on caster level checks and concentration checks until the beginning of the divine strategist’s next turn. This bonus increases by +1 at 4th level and every four levels thereafter (to a maximum of +7 at 20th level). The allied caster must remain adjacent to the divine strategist to gain this benefit. Caster support can be used to assist arcane spellcasters or characters using magical items, but they gain only half the normal bonus.
 
@@ -222,7 +222,7 @@ The evangelist is the voice of her religion in the world. Where others nurture t
 
 **Public Speaker**: An evangelist gains Perform as a class skill. In addition, she is trained to project her voice with great skill and effect; the DC to hear her speak in difficult conditions is reduced by an amount equal to her class level plus her Charisma modifier (minimum 0).
 
-**Sermonic Performance**: An evangelist gains the ability to deliver a select number of supernatural and spell-like performances through the force and power of her divinely inspired preaching and exhortation. This ability is similar in all respects to bardic performance as used by a bard of the same level (including interactions with feats, spells, and prestige classes), using Perform (oratory) as the evangelist’s performance skill. However, an evangelist gains only the following types of bardic performance: countersong, fascinate, and inspire courage at 1st level; inspire greatness at 9th level; and inspire heroics at 15th level. Sermonic performance replaces the 1st-, 9th-, and 15th-level channel energy abilities. This caps the cleric’s channel energy damage at 7d6 points.
+**Sermonic Performance**: An evangelist gains the ability to deliver a select number of supernatural and spell-like performances through the force and power of her divinely inspired preaching and exhortation. This ability is similar in all respects to bardic performance as used by a bard of the same level (including interactions with feats, spells, and prestige classes), using Perform (oratory) as the evangelist’s performance skill. However, an evangelist gains only the following types of bardic performance: countersong, fascinate, and inspire courage at 1st level; inspire greatness at 9th level; and inspire heroics at 15th level. Sermonic performance replaces the 1st-, 9th-, and 15th-level [channel energy](cleric.md#channel-energy-su) abilities. This caps the cleric’s channel energy damage at 7d6 points.
 
 **Spontaneous Casting**: An evangelist does not gain the ability to spontaneously cast cure or inflict spells by sacrificing prepared spells. However, an evangelist can spontaneously cast the following spells by sacrificing a prepared spell of the noted level or above:
 
@@ -234,11 +234,11 @@ The merciful healer is a master of battlefield revivification, sustaining and re
 
 **Willing Healer**: A merciful healer must choose the Healing domain. She does not gain a second domain. If the cleric worships a deity, that deity must be one that grants the Healing domain. A merciful healer must channel positive energy.
 
-**Channel Energy (Su)**: As the cleric ability, save that a merciful healer must channel positive energy, and when she does, she cannot choose to target undead. This ability is otherwise identical to the cleric ability of the same name.
+**Channel Energy (Su)**: As the [cleric ability](cleric.md#channel-energy-su), save that a merciful healer must channel positive energy, and when she does, she cannot choose to target undead. This ability is otherwise identical to the cleric ability of the same name.
 
 **Combat Medic (Ex)**: A merciful healer does not provoke attacks of opportunity when using the Heal skill to stabilize another creature or casting healing spells.
 
-**Merciful Healing (Su)**: At 3rd level, a merciful healer can channel positive energy to relieve one or more harmful conditions. The merciful healer chooses one of the following harmful conditions at 3rd level: fatigued, shaken, or sickened. When the merciful healer channels energy she can remove the chosen condition from one living creature that she heals within her channel energy burst. At 6th level, she can choose another condition. It can be one of those she didn’t choose at 3rd level, or one of the following conditions: dazed, diseased, or staggered. She can remove the selected condition or the one she chose at 3rd level from up to two creatures within her channel energy burst. She gains another condition at 9th level, and can choose an above condition or one of the following conditions: cursed, exhausted, frightened, nauseated, or poisoned. She can remove that condition, or a condition she previously chose, from one or two creatures within the burst. Finally, at 12th level, she can choose a lower-level condition or one of the following conditions: blinded, deafened, paralyzed, or stunned. She can remove that condition or one she previously chose from one, two, or three creatures within her channel energy burst. Feats and effects that affect a paladin’s mercy also affect this ability.
+**Merciful Healing (Su)**: At 3rd level, a merciful healer can channel positive energy to relieve one or more harmful conditions. The merciful healer chooses one of the following harmful conditions at 3rd level: fatigued, shaken, or sickened. When the merciful healer channels energy she can remove the chosen condition from one living creature that she heals within her channel energy burst. At 6th level, she can choose another condition. It can be one of those she didn’t choose at 3rd level, or one of the following conditions: dazed, diseased, or staggered. She can remove the selected condition or the one she chose at 3rd level from up to two creatures within her channel energy burst. She gains another condition at 9th level, and can choose an above condition or one of the following conditions: cursed, exhausted, frightened, nauseated, or poisoned. She can remove that condition, or a condition she previously chose, from one or two creatures within the burst. Finally, at 12th level, she can choose a lower-level condition or one of the following conditions: blinded, deafened, paralyzed, or stunned. She can remove that condition or one she previously chose from one, two, or three creatures within her channel energy burst. Feats and effects that affect a [paladin’s mercy](paladin.md#mercy-su) also affect this ability.
 
 **True Healer (Su)**: At 8th level, when a merciful healer uses channel energy, she can choose to apply the benefits of merciful healing or to reroll any 1s when determining how much damage she heals with channel energy. She must choose which benefit to take before she rolls to see how much damage she heals.
 
@@ -252,7 +252,7 @@ In order to survive, the drow threw in their lot with demon lords. Thus, demon w
 
 **Demonic Channel (Su)**: At 1st level, a demonic apostle can channel demonic energy to damage creatures of lawful and good alignment, or, at higher levels, bolster the abilities of chaotic evil allies.
 
-Channeling this energy causes a 30-foot-radius burst centered on the cleric. Creatures within the burst that are lawful or good take 1d6 points of damage, plus 1d6 points of damage for every two levels the cleric possesses beyond 1st (2d6 at 3rd, 3d6 at 5th, and so on). Creatures that take damage from the channeled demonic energy receive a Fortitude save to halve the damage. The DC of this save is equal to 10 + 1/2 the demonic apostle’s level + the demonic apostle’s Charisma modifier. Lawful good creatures take a –2 penalty on this saving throw. At 5th level, chaotic evil allies within the burst are affected as if targeted by a [*rage*](../../magic/spells/rage.md) spell with a duration of 1 round. At 9th level, lawful or good enemies are also sickened for 1d6 rounds if they fail their saving throw against the demonic channel. Channeling demonic energy is a standard action that does not provoke attacks of opportunity. This ability replaces channel energy.
+Channeling this energy causes a 30-foot-radius burst centered on the cleric. Creatures within the burst that are lawful or good take 1d6 points of damage, plus 1d6 points of damage for every two levels the cleric possesses beyond 1st (2d6 at 3rd, 3d6 at 5th, and so on). Creatures that take damage from the channeled demonic energy receive a Fortitude save to halve the damage. The DC of this save is equal to 10 + 1/2 the demonic apostle’s level + the demonic apostle’s Charisma modifier. Lawful good creatures take a –2 penalty on this saving throw. At 5th level, chaotic evil allies within the burst are affected as if targeted by a [*rage*](../../magic/spells/rage.md) spell with a duration of 1 round. At 9th level, lawful or good enemies are also sickened for 1d6 rounds if they fail their saving throw against the demonic channel. Channeling demonic energy is a standard action that does not provoke attacks of opportunity. This ability replaces [channel energy](cleric.md#channel-energy-su).
 
 ## Fiendish Vessel
 
@@ -281,7 +281,7 @@ A fiendish vessel may channel this energy a number of times per day equal to 3 +
 
 For the purposes of feats that affect channel energy, this ability counts as channeling negative energy. If the feat changes the way the fiendish vessel channels or deals damage with her channeling, use the amount of damage this ability heals evil creatures to determine the damage-dealing potential of the affected ability. For instance, if a 5th-level fiendish vessel takes the Channel Smite feat, her channeling deals an additional 3d4 points of damage to living creatures on a successful hit (though they may save to negate the damage).
 
-This ability replaces channel energy.
+This ability replaces [channel energy](cleric.md#channel-energy-su).
 
 **Fiendish Familiar**: At 3rd level, a fiendish vessel’s patron rewards her with a fiendish servant. The fiendish vessel gains an imp, quasit, or cacodaemon familiar based on the patron she worships. If she worships an evil deity or an archdevil, she gets an imp; if she worships a demon lord, she gets a quasit; and if she worships one of the Four Horsemen, she gains a cacodaemon. This ability is identical to the wizard’s arcane bond with a familiar and the Improved Familiar feat, using the fiendish vessel’s character level in place of the wizard level.
 
@@ -305,7 +305,7 @@ Forgemasters are priestly dwarves who are ritual casters and expert enchanters, 
 
 **Divine Smith (Su)**: Whenever a forgemaster casts a spell that targets a weapon, shield, or armor, the spell takes effect at +1 caster level. If the spell has one or more metamagic feats applied, she reduces the total level adjustment to the spell by 1 (minimum 0).
 
-**Runeforger (Su)**: A forgemaster may inscribe mystical runes upon a suit of armor, shield, or weapon as full-round action, using this ability a number of times per day equal to 3 + her Intelligence modifier. These runes last 1 round per cleric level, but inscribing the same rune twice on an item increases this duration to 1 minute per level, three times to 10 minutes per level, and four times to 1 hour per level. *Erase* affects runes as magical writing. A forgemaster learns forgemaster’s blessing at 1st level and may learn one additional rune at 2nd level and every 2 levels thereafter. Only one type of rune marked with an asterisk (*) may be placed on an item at any given time. This ability replaces channel energy.
+**Runeforger (Su)**: A forgemaster may inscribe mystical runes upon a suit of armor, shield, or weapon as full-round action, using this ability a number of times per day equal to 3 + her Intelligence modifier. These runes last 1 round per cleric level, but inscribing the same rune twice on an item increases this duration to 1 minute per level, three times to 10 minutes per level, and four times to 1 hour per level. *Erase* affects runes as magical writing. A forgemaster learns forgemaster’s blessing at 1st level and may learn one additional rune at 2nd level and every 2 levels thereafter. Only one type of rune marked with an asterisk (*) may be placed on an item at any given time. This ability replaces [channel energy](cleric.md#channel-energy-su).
 
 *Ancient Splendor*: The inscribed weapon, armor, or shield grants a +2 circumstance bonus on Diplomacy and Intimidate checks (+4 when interacting with dwarves).
 
@@ -347,7 +347,7 @@ While a cleric’s faith is her highest priority, her church may wield significa
 
 **Armor Proficiency**: A cardinal is proficient in [light armor](../../equipment/armor.md), but not [shields](../../equipment/armor.md). This ability replaces the cleric’s armor proficiencies.
 
-**Political Skill**: A cardinal adds Bluff, Intimidate, Knowledge (geography), and Knowledge (local) to her list of class skills. She gains a number of skill ranks equal to 6 + her Intelligence modifier at each level, instead of the normal 2 + her Intelligence modifier. However, she gains only one domain, and her base attack bonus from cleric levels is equal to half her class level (which is the same as for a sorcerer or wizard). This ability replaces the cleric’s spontaneous casting ability. It alters the cleric’s domains, as well as her class skills, skill ranks per level, and base attack bonus.
+**Political Skill**: A cardinal adds Bluff, Intimidate, Knowledge (geography), and Knowledge (local) to her list of class skills. She gains a number of skill ranks equal to 6 + her Intelligence modifier at each level, instead of the normal 2 + her Intelligence modifier. However, she gains only one domain, and her base attack bonus from cleric levels is equal to half her class level (which is the same as for a sorcerer or wizard). This ability replaces the [cleric’s spontaneous casting](cleric.md#spontaneous-casting) ability. It alters the [cleric’s domains](cleric.md#domains_1), as well as her class skills, skill ranks per level, and base attack bonus.
 
 ## Elder Mythos Cultist
 
@@ -361,13 +361,13 @@ This alters the cleric’s required alignment.
 
 **Domains**: An Elder Mythos cultist receives only a single domain, chosen from the following list: Chaos, Madness, or Void. He can choose any subdomain of those domains offered by an Outer God or Great Old One he worships.
 
-This ability alters domains.
+This ability alters [domains](cleric.md#domains_1).
 
 **Forbidden Knowledge (Ex)**: An Elder Mythos cultist gains a +2 profane bonus on all Knowledge (arcana), Knowledge (dungeoneering), Knowledge (history), Knowledge (planes), and Knowledge (religion) checks, and can attempt these checks untrained. This bonus doubles if the check is related to the Elder Mythos.
 
 **Unhinged Mind (Ex)**: Bartering sanity for unspeakable knowledge, an Elder Mythos cultist props up his crumbling sanity with a darkly enigmatic personality. An Elder Mythos cultist uses Charisma instead of Wisdom as his key spellcasting ability score (to determine his spell DCs, bonus spells per day, bonus on concentration checks, and so on), to determine the effects and number of uses of his domain powers, and to modify his Will saving throws. However, because of the fragile state of his mind, the Elder Mythos cultist takes a –2 penalty on Will saves to resist mind-affecting effects. An Elder Mythos cultist automatically fails any save to resist the effects of [*confusion*](../../magic/spells/confusion.md), [*insanity*](../../magic/spells/insanity.md), and [*nightmare*](../../magic/spells/nightmare.md), and other similar effects so long as the effect’s caster level is higher than his character level.
 
-**Channel the Void (Su)**: At 1st level, when an Elder Mythos cultist channels energy, he taps into the unthinkable void between the stars. This is similar to channeling negative energy, but instead of healing undead, this blast of energy harms and devours living beings, corporeal non-skeletal undead, and constructs crafted from flesh (such as flesh golems). This is not negative energy damage; instead, the damage manifests in the form of wounds from supernatural deterioration and rot. A creature that would take damage from this energy can attempt a Fortitude save to halve the damage, rather than a Will save. At 8th level, a creature that both fails the Fortitude save and would be killed or destroyed by this effect is entirely disintegrated, leaving behind only a trace of fine dust. A disintegrated creature’s equipment is unaffected. This ability still counts as channel energy, but it counts as neither positive nor negative energy specifically (for example, the Elder Mythos cultist couldn’t take the Turn Undead or Command Undead feat). For the purposes of feats that require channel energy but refer to what happens if the character channels positive or negative energy, this ability alters the listed effect for negative energy. For instance, an Elder Mythos cultist could use Channel Smite to damage living or fleshy creatures with his melee attack. This ability alters channel energy and replaces spontaneous casting.
+**Channel the Void (Su)**: At 1st level, when an Elder Mythos cultist channels energy, he taps into the unthinkable void between the stars. This is similar to channeling negative energy, but instead of healing undead, this blast of energy harms and devours living beings, corporeal non-skeletal undead, and constructs crafted from flesh (such as flesh golems). This is not negative energy damage; instead, the damage manifests in the form of wounds from supernatural deterioration and rot. A creature that would take damage from this energy can attempt a Fortitude save to halve the damage, rather than a Will save. At 8th level, a creature that both fails the Fortitude save and would be killed or destroyed by this effect is entirely disintegrated, leaving behind only a trace of fine dust. A disintegrated creature’s equipment is unaffected. This ability still counts as channel energy, but it counts as neither positive nor negative energy specifically (for example, the Elder Mythos cultist couldn’t take the Turn Undead or Command Undead feat). For the purposes of feats that require channel energy but refer to what happens if the character channels positive or negative energy, this ability alters the listed effect for negative energy. For instance, an Elder Mythos cultist could use Channel Smite to damage living or fleshy creatures with his melee attack. This ability alters [channel energy](cleric.md#channel-energy-su) and replaces [spontaneous casting](cleric.md#spontaneous-casting).
 
 **Maddening Gaze (Su)**: At 5th level, as a standard action, an Elder Mythos cultist can focus his gaze on a single living creature within 30 feet and inundate the creature’s mind with visions of alien horror. The target takes 2 points of Wisdom damage and becomes confused and sickened for 1d4 rounds. A successful Will save (DC = 10 + 1/2 the Elder Mythos cultist’s cleric level + his Charisma modifier) negates the Wisdom damage and the confusion effect, though the target is sickened for 1 round. This gaze attack is a mind-affecting effect. An Elder Mythos cultist can use this ability once per day at 5th level, plus an additional time per day for every 3 cleric levels thereafter.
 
@@ -381,7 +381,7 @@ This ability replaces the increases to channel energy gained at 5th, 11th, and 1
 
 For the faithful of a lawful evil ruler of devils, the words used in a negotiation or contract matter more than their intent. The word of the law is to be respected, but loopholes and vague wording are part of every law. Infernal advocates are master wordsmiths who ally themselves with creatures that, much like their words, seem insignificant but are treacherous.
 
-**Pact-Bound (Ex)**: An infernal advocate must choose a lawful evil deity of devils and contracts and select the Trickery domain. She does not gain a second domain. If she ever changes her deity, she loses this archetype and becomes a normal ex-cleric. This ability alters domains.
+**Pact-Bound (Ex)**: An infernal advocate must choose a lawful evil deity of devils and contracts and select the Trickery domain. She does not gain a second domain. If she ever changes her deity, she loses this archetype and becomes a normal ex-cleric. This ability alters [domains](cleric.md#domains_1).
 
 **Serpent (Su)**: At 1st level, an infernal advocate gains a familiar as the arcane bond class feature, using her cleric level as her wizard level. She must choose a viper familiar. The viper speaks one language of the infernal advocate's choice as a supernatural ability.
 
@@ -405,7 +405,7 @@ Instead of gaining this fast healing herself, a foundation of faith can expend a
 
 This ability is usable once per day at 5th level, plus an additional time per day for every 5 levels beyond 5th.
 
-This ability replaces channel energy.
+This ability replaces [channel energy](cleric.md#channel-energy-su).
 
 ## Sacred Attendant
 
@@ -413,11 +413,11 @@ Sacred attendants bring out the varied beauty in everyone they help, and they ty
 
 **Channel Beauty (Su)**: Whenever a sacred attendant channels energy to heal, she can opt to reduce the number of dice she rolls by 1 or more. For every die the sacred attendant subtracts, each of the targets of the channeled energy is healed of 1 point of Charisma damage.
 
-This ability alters channel energy.
+This ability alters [channel energy](cleric.md#channel-energy-su).
 
 **Domains**: The sacred attendant can choose only one domain from those belonging to her deity.
 
-This ability alters domains.
+This ability alters [domains](cleric.md#domains_1).
 
 **Nimble (Ex)**: The sacred attendant gains a +1 dodge bonus to AC and CMD when unarmored, unencumbered, and not denied her Dexterity bonus to AC (regardless of whether she has a Dexterity bonus). At 2nd level and every 4 cleric levels thereafter, the dodge bonus increases by 1 (to a maximum of +6 at 18th level).
 
@@ -433,11 +433,11 @@ Stoic caregivers are champions of life in defiance of untimely death as well as 
 
 **Positive Channeler (Su)**: A stoic caregiver must choose to channel positive energy, even if she worships a deity who is neutral or if she is not devoted to a particular deity. A stoic caregiver cannot worship a deity who is evil.
 
-This ability alters channel energy.
+This ability alters [channel energy](cleric.md#channel-energy-su).
 
 **Domains**: A stoic caregiver chooses only one domain.
 
-This ability alters domains.
+This ability alters [domains](cleric.md#domains_1).
 
 **Midwife Training (Su)**: A stoic caregiver is an expert at caring for lives that are in the process of being formed as well as the bodies of those who expect to usher new life into the world. The stoic caregiver gains a +2 bonus on Heal checks to treat expectant mothers and children. Any Heal check by the stoic caregiver that deals damage to the patient always deals the minimum amount of damage.
 
@@ -463,7 +463,7 @@ This ability alters the cleric’s spellcasting.
 
 **Channel Angelfire (Su)**: An angelfire apostle must be of good or neutral alignment and must choose to channel positive energy, even if his deity is neutral or if he is not devoted to a particular deity. When an angelfire apostle channels positive energy, affected nongood creatures are dazzled for 1 round, with no saving throw for this effect, in addition to experiencing the normal effects of channel energy.
 
-This ability alters channel energy.
+This ability alters [channel energy](cleric.md#channel-energy-su).
 
 **Versatile Healing Channel (Sp)**: At 5th level, the angelfire apostle can spend two uses of his channel energy ability to cast *remove blindness/deafness* or *lesser restoration* as a spell-like ability. At 7th level, he can choose [*remove disease*](../../magic/spells/remove-disease.md) or [*remove paralysis*](../../magic/spells/remove-paralysis.md). At 9th level, he can choose [*neutralize poison*](../../magic/spells/neutralize-poison.md). At 11th level, he can choose [*breath of life*](../../magic/spells/breath-of-life.md). At 13th level, he can choose *heal*. At 15th level, he can choose [*regenerate*](../../magic/spells/regenerate.md). At 17th level, he can choose [*restoration*](../../magic/spells/restoration.md) but cannot affect permanent negative levels. At 19th level, he can choose [*resurrection*](../../magic/spells/resurrection.md) but can affect only a target that has been dead no more than 1 round per his cleric level.
 
@@ -535,7 +535,7 @@ At 7th level, when a blossoming light channels energy, she can expend an additio
 
 At 10th level, a blossoming light can use [*atonement*](../../magic/spells/atonement.md) once per day as a spell-like ability, but only to offer redemption to others (as per the spell). Using the spell in this way does not require a focus or material component.
 
-This ability alters channel energy and the cleric’s domains.
+This ability alters [channel energy](cleric.md#channel-energy-su) and the [cleric’s domains](cleric.md#domains_1).
 
 ## Iron Priest
 
@@ -543,7 +543,7 @@ Iron priests preach of the messengers from beyond the stars, envoys of the divin
 
 **Class Skills**: The iron priest’s class skills are Appraise (Int), Craft (Int), Diplomacy (Cha), Disable Device (Dex), Heal (Wis), Knowledge (engineering) (Int), Knowledge (history) (Int), Knowledge (local) (Int), Knowledge (religion) (Int), Linguistics (Int), Profession (Wis), Spellcraft (Int), and Survival (Wis).
 
-**Channel Energy (Su)**: When an iron priest channels energy to heal or harm living creatures, she heals or harms constructs with the clockwork or robot subtypes as well. Constructs without those subtypes are also affected, but gain only half the normal amount of healing or take only half the normal amount of damage, as appropriate. This ability alters channel energy.
+**Channel Energy (Su)**: When an iron priest channels energy to heal or harm living creatures, she heals or harms constructs with the clockwork or robot subtypes as well. Constructs without those subtypes are also affected, but gain only half the normal amount of healing or take only half the normal amount of damage, as appropriate. This ability alters [channel energy](cleric.md#channel-energy-su).
 
 **Spontaneous Casting**: An iron priest can spontaneously cast [*make whole*](../../magic/spells/make-whole.md) and *greater make whole* in place of *cure/inflict moderate wounds* and *cure/inflict critical wounds*, regardless of whether she channels positive or negative energy. This ability alters casting.
 
@@ -574,7 +574,7 @@ In the Great Beyond, belief is power. Idealist clerics are personifications of t
 
 † This spell is not added to your cleric list; you can cast it spontaneously only using planar bond.
 
-This alters spontaneous casting.
+This alters [spontaneous casting](cleric.md#spontaneous-casting).
 
 **Invoke Realm (Su)**: When an idealist channels energy, she channels raw essence rather than positive or negative energy, superimposing a portion of her deity's planar realm over her location. This effect extends out to a radius of 10 feet, plus 5 feet for every 2 cleric levels she has beyond 1st, to a maximum radius of 55 feet at 19th level. This effect lasts for 1 round plus 1 round per point of the idealist's Charisma bonus. While this effect is active, the idealist gains a +1 bonus on Diplomacy checks against creatures who worship her deity and a +1 bonus on Intimidate checks against creatures who do not. This bonus increases by 1 at 5th level and every 5 levels thereafter.
 
@@ -582,7 +582,7 @@ This channeled energy imposes itself over the current terrain, changing its visu
 
 Within the radius of the idealist's channeling, all alignment and magic planar traits are suppressed and replaced with the traits of the plane that matches the idealist's planar bond. This includes alignment, gravity, and magic traits. In the case of the Astral Plane, since the time trait remains unaltered, your spellcasting only feels fast; you gain a +4 bonus on all concentration checks rather than the ability to apply Quickened Spell effects.
 
-This ability is considered channel energy for purposes of feats that grant additional uses of channel energy or allow the cleric to exclude creatures from channel energy's effects. This alters channel energy.
+This ability is considered channel energy for purposes of feats that grant additional uses of channel energy or allow the cleric to exclude creatures from channel energy's effects. This alters [channel energy](cleric.md#channel-energy-su).
 
 ## Roaming Exorcist
 
@@ -610,7 +610,7 @@ Unlike warpriests or paladins, who charge headlong into battle in the name of th
 
 **Skill Ranks per Level**: 4 + Int modifier. This alters the cleric's class skills.
 
-**Dedicated Summoner**: A herald caller depends on summoned allies to overcome her foes, which affords her little experience with the martial pursuits typical of other clerics and a narrower spiritual focus. A herald caller can choose only one domain from her deity's list of domains, rather than the normal two domains, and she doesn't gain proficiency with [medium armor](../../equipment/armor.md) or [shields](../../equipment/armor.md). This ability alters the cleric's domains and armor proficiencies.
+**Dedicated Summoner**: A herald caller depends on summoned allies to overcome her foes, which affords her little experience with the martial pursuits typical of other clerics and a narrower spiritual focus. A herald caller can choose only one domain from her deity's list of domains, rather than the normal two domains, and she doesn't gain proficiency with [medium armor](../../equipment/armor.md) or [shields](../../equipment/armor.md). This ability alters the [cleric's domains](cleric.md#domains_1) and armor proficiencies.
 
 **Call Heralds (Su)**: A herald caller can channel stored spell energy into summoning spells that she hasn't prepared ahead of time. She can lose a prepared spell in order to cast any *summon monster* spell of the same level or lower. She gains a +1 bonus on concentration checks to cast a *summon monster* spell defensively. This bonus increases to +2 at 5th level, and increases by 1 every 5 cleric levels thereafter.
 
@@ -624,23 +624,23 @@ Because of these summoned monsters' strong ties to the herald caller's deity, th
 
 A rare few seek the power of dark forces for brighter ends by focusing on the utilitarian aspects of a god's portfolio, appeasing their deities through high praise and glorifying their chosen gods' unaligned aspects.
 
-**Aura (Ex)**: An appeaser always has an evil aura regardless of his actual alignment. This alters aura.
+**Aura (Ex)**: An appeaser always has an evil aura regardless of his actual alignment. This alters [aura](cleric.md#aura-ex).
 
-**Channel Utility (Su)**: An appeaser channels negative energy, but also gains limited access to positive energy. At 5th level, an appeaser can channel positive energy as a full-round action, but he treats his cleric level as if it were 4 lower when determining the amount of damage he can deal to undead and the amount of hit points he can restore to living creatures. This ability alters channel energy.
+**Channel Utility (Su)**: An appeaser channels negative energy, but also gains limited access to positive energy. At 5th level, an appeaser can channel positive energy as a full-round action, but he treats his cleric level as if it were 4 lower when determining the amount of damage he can deal to undead and the amount of hit points he can restore to living creatures. This ability alters [channel energy](cleric.md#channel-energy-su).
 
-**Divine Apologist (Ex)**: An appeaser must worship an evil god. His alignment must be within one step of his deity's, but he himself cannot have an evil alignment. An appeaser cannot cast any spells with the good or evil descriptor. This alters the cleric's alignment and spells.
+**Divine Apologist (Ex)**: An appeaser must worship an evil god. His alignment must be within one step of his deity's, but he himself cannot have an evil alignment. An appeaser cannot cast any spells with the good or evil descriptor. This alters the cleric's alignment and [spells](cleric.md#spells).
 
 **Mollified Domain (Su)**: At 1st level, an appeaser gains no domain or domain bonus spells. Once per day as a standard action, he can sacrifice his own force of will to gain divine providence. Doing so deals 1d3 points of Charisma damage to the appeaser, and allows him to select a single domain offered by his deity (except the Evil domain or its subdomains). The appeaser gains access to any granted powers offered by the domain he would otherwise qualify for, and can sacrifice a prepared spell to cast a domain spell from that domain just as if he were spontaneously casting a *cure* or *inflict* spell. He retains access to this domain for a number of minutes equal to 1/2 the appeaser's cleric level + his Wisdom modifier. Any domain abilities that can be used a limited number of times per day can be used only once each time that particular domain is invoked.
 
-An appeaser can gain a mollified domain one additional time per day (taking Charisma damage each time) at 4th level and every 3 levels thereafter, to a maximum of seven times per day at 19th level. An appeaser can invoke only a single mollified domain at a time. This ability modifies the cleric's domains class feature.
+An appeaser can gain a mollified domain one additional time per day (taking Charisma damage each time) at 4th level and every 3 levels thereafter, to a maximum of seven times per day at 19th level. An appeaser can invoke only a single mollified domain at a time. This ability modifies the [cleric's domains](cleric.md#domains_1) class feature.
 
 ## Divine Scourge
 
 Some divine servants take on the role of dealing out unique punishments on behalf of their deities, taking pleasure in carrying out their sacrosanct duties. Divine scourges make a point of inflicting long-lasting maladies and curses on those deserving of such fates under the tenets of the scourges' religions.
 
-**Curser (Ex)**: A divine scourge must take the curse subdomain as a domain, regardless of the actual domains offered by her deity. The divine scourge does not receive a second domain. This ability alters domains.
+**Curser (Ex)**: A divine scourge must take the curse subdomain as a domain, regardless of the actual domains offered by her deity. The divine scourge does not receive a second domain. This ability alters [domains](cleric.md#domains_1).
 
-**Divine Hexes**: At 3rd level and every 4 cleric levels thereafter, a divine scourge can select the following hexes from the witch class hex list, up to a maximum of five hexes at 19th level: blight, cursed wound, evil eye, misfortune, scar, slumber, and unnerve beasts. At 11th level, a divine scourge can instead select from the following list of major hexes: agony, hoarfrost, infected wounds, nightmares, and retribution. The divine scourge uses her Wisdom modifier instead of her Intelligence modifier to determine the save DCs of her hexes. Any hex that refers to using her Intelligence modifier to determine its duration or effect instead uses her Charisma modifier for that purpose. This ability replaces channel energy.
+**Divine Hexes**: At 3rd level and every 4 cleric levels thereafter, a divine scourge can select the following hexes from the witch class hex list, up to a maximum of five hexes at 19th level: blight, cursed wound, evil eye, misfortune, scar, slumber, and unnerve beasts. At 11th level, a divine scourge can instead select from the following list of major hexes: agony, hoarfrost, infected wounds, nightmares, and retribution. The divine scourge uses her Wisdom modifier instead of her Intelligence modifier to determine the save DCs of her hexes. Any hex that refers to using her Intelligence modifier to determine its duration or effect instead uses her Charisma modifier for that purpose. This ability replaces [channel energy](cleric.md#channel-energy-su).
 
 ## Crashing Wave
 
@@ -648,11 +648,11 @@ Some clerics revere their deity as the embodiment of nature and the incarnation 
 
 **Sworn to the Sea**: A crashing wave must worship a deity of nature, wind, and waves.
 
-**Speech of the Sea**: A crashing wave's bonus language options include Aquan in addition to the bonus languages available to the character from her race. The crashing wave does not gain Abyssal, Celestial, or Infernal as bonus language options. This ability alters bonus languages.
+**Speech of the Sea**: A crashing wave's bonus language options include Aquan in addition to the bonus languages available to the character from her race. The crashing wave does not gain Abyssal, Celestial, or Infernal as bonus language options. This ability alters [bonus languages](cleric.md#bonus-languages).
 
-**Balanced Channel (Su)**: At 1st level, a crashing wave can channel the pure balance of the ocean—its wildness, its calm, its cruelty, and its gentleness. This energy can be used to harm or heal creatures, as the crashing wave chooses. Channeling this energy causes a 30-foot-radius burst centered on the cleric. Using balanced channel is a standard action that does not provoke attacks of opportunity. A crashing wave can choose whether to include herself in the effect. The cleric must be able to present her holy symbol to use this ability, and she can channel energy a number of times equal to 3 + her Charisma modifier. If the crashing wave chooses to harm, creatures within the burst that are chaotic good, chaotic evil, lawful good, or lawful evil take 1d6 points of damage plus 1d6 points of damage for every 2 levels the cleric has beyond 1st (2d6 at 3rd, 3d6 at 5th, and so on). Creatures with a neutral alignment component are unaffected by this energy. Creatures that take damage from the channeled energy can attempt a Fortitude save (DC = 10 + half the crashing wave's level + her Charisma modifier) for half damage. This damage is neither negative nor positive energy, so a creature's resistance to positive or negative energy does not reduce this damage. (However, resistance to channeled energy in particular, such as that provided by channel resistance, applies normally.) If the crashing wave chooses to heal, creatures within the burst that have any neutral alignment component are healed 1d6 points of damage plus 1d6 points of damage for every 2 levels the cleric has beyond 1st (2d6 at 3rd, 3d6 at 5th, and so on). This healing does not affect creatures that are chaotic good, chaotic evil, lawful good, or lawful evil. This healing is positive energy, so any creatures not healed by positive energy (such as undead) receive no healing from this effect, even if they have a neutral alignment. This ability replaces channel energy.
+**Balanced Channel (Su)**: At 1st level, a crashing wave can channel the pure balance of the ocean—its wildness, its calm, its cruelty, and its gentleness. This energy can be used to harm or heal creatures, as the crashing wave chooses. Channeling this energy causes a 30-foot-radius burst centered on the cleric. Using balanced channel is a standard action that does not provoke attacks of opportunity. A crashing wave can choose whether to include herself in the effect. The cleric must be able to present her holy symbol to use this ability, and she can channel energy a number of times equal to 3 + her Charisma modifier. If the crashing wave chooses to harm, creatures within the burst that are chaotic good, chaotic evil, lawful good, or lawful evil take 1d6 points of damage plus 1d6 points of damage for every 2 levels the cleric has beyond 1st (2d6 at 3rd, 3d6 at 5th, and so on). Creatures with a neutral alignment component are unaffected by this energy. Creatures that take damage from the channeled energy can attempt a Fortitude save (DC = 10 + half the crashing wave's level + her Charisma modifier) for half damage. This damage is neither negative nor positive energy, so a creature's resistance to positive or negative energy does not reduce this damage. (However, resistance to channeled energy in particular, such as that provided by channel resistance, applies normally.) If the crashing wave chooses to heal, creatures within the burst that have any neutral alignment component are healed 1d6 points of damage plus 1d6 points of damage for every 2 levels the cleric has beyond 1st (2d6 at 3rd, 3d6 at 5th, and so on). This healing does not affect creatures that are chaotic good, chaotic evil, lawful good, or lawful evil. This healing is positive energy, so any creatures not healed by positive energy (such as undead) receive no healing from this effect, even if they have a neutral alignment. This ability replaces [channel energy](cleric.md#channel-energy-su).
 
-**Spontaneous Casting**: A crashing wave does not gain the ability to spontaneously cast cure or inflict spells by sacrificing prepared spells. However, a crashing wave can spontaneously cast the following spells by sacrificing a prepared spell of the noted level or higher. This ability alters spontaneous casting.
+**Spontaneous Casting**: A crashing wave does not gain the ability to spontaneously cast cure or inflict spells by sacrificing prepared spells. However, a crashing wave can spontaneously cast the following spells by sacrificing a prepared spell of the noted level or higher. This ability alters [spontaneous casting](cleric.md#spontaneous-casting).
 
 | Spell Level | Spontaneous Spell |
 |---|---|
@@ -672,7 +672,7 @@ Priest-judges presided over justice in a fallen realm, driven by a zeal for disc
 
 **Alignment**: A lawspeaker must be lawful.
 
-**Divine Judgment**: A lawspeaker must select the Law domain or any subdomain of Law offered by her deity. She does not gain a second domain. This alters domains.
+**Divine Judgment**: A lawspeaker must select the Law domain or any subdomain of Law offered by her deity. She does not gain a second domain. This alters [domains](cleric.md#domains_1).
 
 **Circumvent Obfuscation (Sp)**: As a standard action, a lawspeaker can expend two uses of channel energy to expose truths and banish falsehoods. The energy manifests as a spell-like ability, and this action does not count as channeling for the purposes of abilities and feats. Unless listed otherwise, the resulting abilities use the lawspeaker's cleric level as her caster level and have the same range and required components as the corresponding spell. The spell-like abilities available are cumulative and are listed below at the level at which the lawspeaker can first access them.
 
@@ -696,7 +696,7 @@ Priest-judges presided over justice in a fallen realm, driven by a zeal for disc
 
 **Bonded Channeler (Su)**: When a triadic priest uses her channel energy ability, she must choose to affect either only her bonded allies or everyone except her bonded allies.
 
-**Bonded Domain (Su)**: A triadic priest selects only one domain granted by her deity. However, while she is within 10 feet of at least one of her bonded allies, she gains the following benefits. This alters the domains class feature.
+**Bonded Domain (Su)**: A triadic priest selects only one domain granted by her deity. However, while she is within 10 feet of at least one of her bonded allies, she gains the following benefits. This alters the [domains](cleric.md#domains_1) class feature.
 
 **Bonded Power (Su)**: A triadic priest gains either a witch's coven hex or the [Allied Spellcaster](../../rules/feats/allied-spellcaster.md) feat as a bonus feat.
 
@@ -708,17 +708,17 @@ Priest-judges presided over justice in a fallen realm, driven by a zeal for disc
 
 *Ex-cleric archetype (see [Ex-Class Archetypes](regional-class-options.md#ex-class-archetypes)).* While most clerics who fall out of favor with their deities simply lose their divine connection and the powers it granted, a few continue to go through the motions of prayer and obedience, persisting in the habits of faith even when their faith itself has faded. Among these, an even smaller number find that while their original deity no longer answers their prayers, something else does: an unknown entity or force of the universe channeling its power through a trained and practicing vessel. This is an ex-class archetype and can be taken by a character immediately upon becoming an ex-cleric.
 
-**Weapon and Armor Proficiency**: A channeler of the unknown loses proficiency with her deity's favored weapon. She instead gains proficiency with one martial or exotic weapon, chosen when she first takes this archetype, which thereafter effectively functions as her holy or unholy symbol for the purposes of class abilities and spellcasting. The weapon chosen cannot be one associated with her former deity. Once she makes this choice, she can't later change it. This alters the cleric's weapon and armor proficiency.
+**Weapon and Armor Proficiency**: A channeler of the unknown loses proficiency with her deity's favored weapon. She instead gains proficiency with one martial or exotic weapon, chosen when she first takes this archetype, which thereafter effectively functions as her holy or unholy symbol for the purposes of class abilities and spellcasting. The weapon chosen cannot be one associated with her former deity. Once she makes this choice, she can't later change it. This alters the [cleric's weapon and armor proficiency](cleric.md#weapon-and-armor-proficiency).
 
-**Spells**: A channeler of the unknown has one fewer spell slot per spell level in which she can prepare spells than normal. She is no longer restricted by alignment descriptors, and she gains access to all spells on the cleric spell list, even spells her alignment would normally prohibit. This alters the cleric's spells.
+**Spells**: A channeler of the unknown has one fewer spell slot per spell level in which she can prepare spells than normal. She is no longer restricted by alignment descriptors, and she gains access to all spells on the cleric spell list, even spells her alignment would normally prohibit. This alters the [cleric's spells](cleric.md#spells).
 
-**Unknown Aura (Su)**: A channeler of the unknown never radiates an alignment aura, as if under the effect of a permanent [*undetectable alignment*](../../magic/spells/undetectable-alignment.md) spell. This replaces the cleric's aura.
+**Unknown Aura (Su)**: A channeler of the unknown never radiates an alignment aura, as if under the effect of a permanent [*undetectable alignment*](../../magic/spells/undetectable-alignment.md) spell. This replaces the [cleric's aura](cleric.md#aura-ex).
 
-**Channel Entropy (Su)**: A channeler of the unknown can channel entropy as a cleric channels negative or positive energy, releasing a wave of twisting void that harms creatures in the area of effect. The amount of damage dealt is equal to that an evil cleric of her level would deal by channeling negative energy, except it affects living, unliving, and undead creatures alike. This functions in all other ways as a cleric's channel energy class feature, including benefiting from feats that affect channel energy (such as [Selective Channeling](../../rules/feats/selective-channeling.md)). This alters channel energy.
+**Channel Entropy (Su)**: A channeler of the unknown can channel entropy as a cleric channels negative or positive energy, releasing a wave of twisting void that harms creatures in the area of effect. The amount of damage dealt is equal to that an evil cleric of her level would deal by channeling negative energy, except it affects living, unliving, and undead creatures alike. This functions in all other ways as a [cleric's channel energy](cleric.md#channel-energy-su) class feature, including benefiting from feats that affect channel energy (such as [Selective Channeling](../../rules/feats/selective-channeling.md)). This alters [channel energy](cleric.md#channel-energy-su).
 
-**Power of the Unknown**: A channeler of the unknown has lost the benefit of the domains granted by her deity, but the unknown entity that answers her supplications instead grants her the benefits of one domain from the following list: Darkness, Destruction, Luck, Madness, or Void. Instead of a single domain spell slot, the channeler of the unknown gains two domain spell slots per spell level she can cast. A channeler of the unknown cannot select a subdomain in place of the domain available to her. This alters the cleric's domains.
+**Power of the Unknown**: A channeler of the unknown has lost the benefit of the domains granted by her deity, but the unknown entity that answers her supplications instead grants her the benefits of one domain from the following list: Darkness, Destruction, Luck, Madness, or Void. Instead of a single domain spell slot, the channeler of the unknown gains two domain spell slots per spell level she can cast. A channeler of the unknown cannot select a subdomain in place of the domain available to her. This alters the [cleric's domains](cleric.md#domains_1).
 
-**Spontaneous Casting**: Instead of converting prepared spells into *cure* or *inflict* spells, a channeler of the unknown can channel stored spell energy into her domain spells. She can lose a prepared spell, including a domain spell, to spontaneously cast a domain spell of the same spell level or lower. This alters spontaneous casting.
+**Spontaneous Casting**: Instead of converting prepared spells into *cure* or *inflict* spells, a channeler of the unknown can channel stored spell energy into her domain spells. She can lose a prepared spell, including a domain spell, to spontaneously cast a domain spell of the same spell level or lower. This alters [spontaneous casting](cleric.md#spontaneous-casting).
 
 ## Crusader Priest (Cleric)
 
@@ -742,11 +742,11 @@ When the divine paragon selects her domains, she must designate one of the two d
 
 In order to retain access to her domain spells, the domain powers of her devoted domain, and the boons granted by Deific Obedience, the divine paragon must perform her obedience daily. If she fails to do so, she loses access to these abilities until she next performs her obedience (but she can still cast spells, channel energy, and perform other abilities granted by her cleric levels).
 
-This ability alters domains.
+This ability alters [domains](cleric.md#domains_1).
 
 **Divine Brand (Ex)**: At 1st level, a mark appears somewhere on the divine paragon’s body. The mark’s location varies by individual and faith, but takes the form of the deity’s holy symbol and generally appears in a location easy to display, such as on the hand, forearm, chest, or face. An uncovered divine brand functions as a holy (or unholy) symbol and as a divine focus for spellcasting. The divine paragon’s aura is even more powerful than a typical cleric’s as a result of her devotion, and her cleric level is treated as 1 higher for the purpose of determining the strength of her aura when it is viewed by spells like detect good.
 
-This ability alters aura.
+This ability alters [aura](cleric.md#aura-ex).
 
 ## Crusader Priest
 

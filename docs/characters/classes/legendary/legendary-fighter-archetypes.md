@@ -45,7 +45,7 @@ The following archetypes only replace a small amount of the fighter’s class fe
 - Spirit Warrior (Legendary Fighter Simple Archetype)
 - Stamina Adherent (Legendary Fighter Simple Archetype)
 
-They are designed to be easily used in combination with other archetypes. If a simple archetype modifies a class feature, then as long as another archetype doesn’t modify that feature in a contradictory manner then both archetypes can be taken. For archetypes that replace fighter bonus feats, the character can also use feats gained from character advancement as the replaced class feature.
+They are designed to be easily used in combination with other archetypes. If a simple archetype modifies a class feature, then as long as another archetype doesn’t modify that feature in a contradictory manner then both archetypes can be taken. For archetypes that replace [fighter bonus feats](../fighter.md#bonus-feats), the character can also use feats gained from character advancement as the replaced class feature.
 
 For example, a fighter could take both the exotic weapon wielder and the stamina adherent archetypes even though they both modify the bonus skills class feature. Exotic weapon wielder reduces the number of bonus skills by 1 and stamina adherent reduces them by 2, leaving the fighter with 1 bonus skill left. A different fighter could take both the spirit warrior and weapon master archetypes even though both of these replace the fighter’s 1st-level bonus feat as long as he takes his first fighter level at an odd character level, so he can replace the feat from character advancement for the spirit warrior archetype as well as the 1st-level fighter bonus feat for the weapon master archetype.
 

@@ -116,7 +116,7 @@ Those caught in the splash damage can attempt a Reflex save for half damage. The
 
 Alchemists can learn new types of bombs as [substance] or [shape] discoveries (see the Discovery ability) as they level up.
 
-An alchemist must spend an amount of quintessence listed in each bomb’s description (if any) to apply a discovery to their bomb. An alchemist’s bomb, like an extract, becomes inert if used or carried by anyone else.
+An alchemist must spend an amount of quintessence listed in each bomb’s description (if any) to apply a discovery to their bomb. An [alchemist’s bomb](../alchemist.md#bomb-su), like an extract, becomes inert if used or carried by anyone else.
 
 #### Throw Anything (Ex)
 
@@ -184,7 +184,7 @@ At 1st level, if a mutagenic alchemist has an Intelligence score of at least 15,
 
 When a mutagenic alchemist brews a mutagen, they select one physical ability score—either Strength, Dexterity, or Constitution. It’s a standard action to drink a mutagen. Upon being imbibed, the mutagen causes the mutagenic alchemist to grow bulkier and more bestial, granting them a +2 natural armor bonus and a +4 alchemical bonus to the selected ability score for 10 minutes per alchemist level.
 
-A non-alchemist can never gain the benefit of a mutagen, but an alchemist can gain the effects of another alchemist’s mutagen if they drink it. (Although if the other alchemist creates a different mutagen, the effects of the “stolen” mutagen immediately cease.) The effects of a mutagen do not stack. Whenever a mutagenic alchemist drinks a mutagen, the effects of any previous mutagen immediately end.
+A non-alchemist can never gain the benefit of a mutagen, but an alchemist can gain the effects of another [alchemist’s mutagen](../alchemist.md#mutagen-su) if they drink it. (Although if the other alchemist creates a different mutagen, the effects of the “stolen” mutagen immediately cease.) The effects of a mutagen do not stack. Whenever a mutagenic alchemist drinks a mutagen, the effects of any previous mutagen immediately end.
 
 At 10th level, the mutagenic alchemist’s mutagen now grants a +4 natural armor bonus, a +6 alchemical bonus to one physical ability score (Strength, Dexterity, or Constitution), and a +4 alchemical bonus to a second physical ability score.
 

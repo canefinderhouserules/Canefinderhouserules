@@ -76,11 +76,11 @@ A faithless cannot lose their legendary cleric spellcasting ability as a result 
 
 A faithless never radiates an alignment aura, as if under the effect of a permanent undetectable alignment spell.
 
-This replaces the cleric’s aura.
+This replaces the [cleric’s aura](../cleric.md#aura-ex).
 
 **Ruinous Channel (Su)**
 
-The perverse powers of a faithless offer only capacity for destruction. A faithless can channel ruin as a legendary cleric channels negative or positive energy, releasing a wave of twisting void that harms creatures in the area of effect. The amount of damage dealt is equal to that an evil cleric of their level would deal by channeling negative energy, except it affects living, unliving, and undead creatures alike. This functions in all other ways as a cleric’s channel energy class feature, including benefiting from feats that affect channel energy (such as [Selective Channeling](../../../rules/feats/selective-channeling.md)).
+The perverse powers of a faithless offer only capacity for destruction. A faithless can channel ruin as a legendary cleric channels negative or positive energy, releasing a wave of twisting void that harms creatures in the area of effect. The amount of damage dealt is equal to that an evil cleric of their level would deal by channeling negative energy, except it affects living, unliving, and undead creatures alike. This functions in all other ways as a [cleric’s channel energy](../cleric.md#channel-energy-su) class feature, including benefiting from feats that affect channel energy (such as [Selective Channeling](../../../rules/feats/selective-channeling.md)).
 
 This alters channel energy.
 
@@ -140,7 +140,7 @@ The following options can be taken in place of the legendary cleric’s blessing
 
 **Bonus Feats:** At 2nd level and every 8 levels thereafter, the cleric gains a bonus feat from the following list: any channeling feat, any combat feat, any metamagic feat, Bonded Holy Symbol, [Command Undead](../../../rules/feats/command-undead.md), Expanded Domain Magic, Extra Faith, [Sacred Summons](../../../rules/feats/sacred-summons.md), [Turn Undead](../../../rules/feats/turn-undead.md), or [Warrior Priest](../../../rules/feats/warrior-priest.md). The cleric does not need to meet any ability score prerequisites for these feats but must meet other prerequisites for them.
 
-**Sacred Weapon (Su):** At 2nd level, the cleric selects one type of weapon that they are proficient with (which can be changed any time they level up) The cleric can deal damage with this weapon based on the damage of the warpriest’s sacred weapon class feature, treating their cleric level as their warpriest level.
+**Sacred Weapon (Su):** At 2nd level, the cleric selects one type of weapon that they are proficient with (which can be changed any time they level up) The cleric can deal damage with this weapon based on the damage of the [warpriest’s sacred weapon](../warpriest.md#sacred-weapon-su) class feature, treating their cleric level as their warpriest level.
 
 **Secondary Domain**
 
@@ -262,7 +262,7 @@ With a ritual requiring 8 hours, an undead lord can animate a single skeleton or
 
 - At 8th level, when using the animate dead spell, a necromantic adept can control 6 HD worth of undead creatures per caster level rather than 4 HD.
 
-- At 12th level, The undead lord may expend a faith point as a swift action to exude an aura of negative energy in a 30-foot radius for 1 minute. This aura functions as the spell desecrate and uses the undead lord as an altar of sorts to double the effects granted. The undead lord gains the benefits of this effect as if they were undead (but does not gain bonus hit points). In addition, this miasma of fell energies hinders the channeling of positive energy. Any creature that attempts to summon positive energy in this area—such as through a cleric’s channel energy ability, a paladin’s lay on hands, or any spell with the healing subtype—must make a concentration check with a DC equal to 10 + 1/2 the undead lord’s cleric level + the undead lord’s Wisdom modifier. If the character fails, the effect is expended but does not function.
+- At 12th level, The undead lord may expend a faith point as a swift action to exude an aura of negative energy in a 30-foot radius for 1 minute. This aura functions as the spell desecrate and uses the undead lord as an altar of sorts to double the effects granted. The undead lord gains the benefits of this effect as if they were undead (but does not gain bonus hit points). In addition, this miasma of fell energies hinders the channeling of positive energy. Any creature that attempts to summon positive energy in this area—such as through a [cleric’s channel energy](../cleric.md#channel-energy-su) ability, a [paladin’s lay on hands](../paladin.md#lay-on-hands-su), or any spell with the healing subtype—must make a concentration check with a DC equal to 10 + 1/2 the undead lord’s cleric level + the undead lord’s Wisdom modifier. If the character fails, the effect is expended but does not function.
 
 - At 16th level, the undead lord may spend a faith point when casting animate dead, lesser animate dead, create undead, or create greater undead to ignore any material components for the spell.
 

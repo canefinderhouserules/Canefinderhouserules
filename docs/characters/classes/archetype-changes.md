@@ -1,6 +1,6 @@
 # Archetype and Class Changes
 
-House-rule changes to specific archetypes and class features. Changes to the core classes themselves (barbarian rage powers, monk anti-dip and unarmed scaling, ranger favored terrain, draconic bloodline) are written directly into the class pages. The changes below are also written into each archetype’s own page, with the book version in a closed box.
+House-rule changes to specific archetypes and class features. Changes to the core classes themselves ([barbarian rage powers](barbarian.md#rage-powers-ex), monk anti-dip and unarmed scaling, [ranger favored terrain](ranger.md#favored-terrain-ex), draconic bloodline) are written directly into the class pages. The changes below are also written into each archetype’s own page, with the book version in a closed box.
 
 ## Alchemist
 
@@ -78,4 +78,4 @@ These changes are written into the [Unchained Rogue](unchained-rogue.md).
 
 ## Wizard
 
-**[Exploiter Wizard](wizard-archetypes.md#exploiter-wizard):** also sacrifices the wizard's bonus feats.
+**[Exploiter Wizard](wizard-archetypes.md#exploiter-wizard):** also sacrifices the [wizard's bonus feats](wizard.md#bonus-feats).

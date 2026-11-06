@@ -60,7 +60,7 @@ Table: Scarlet Assassin Spells
 | 9th | 5 | 4 | 4 | — | 5 | 4 | 3 | — |
 | 10th | 5 | 5 | 4 | 2 | 5 | 4 | 3 | 1 |
 
-**Sneak Attack (Ex)**: This functions as the rogue ability of the same name. The extra damage dealt is +1d6 at 1st level and increases by 1d6 every 3rd level thereafter. If the scarlet assassin gets a sneak attack bonus from another source, the damage bonuses stack.
+**Sneak Attack (Ex)**: This functions as the [rogue ability](../classes/rogue.md#sneak-attack) of the same name. The extra damage dealt is +1d6 at 1st level and increases by 1d6 every 3rd level thereafter. If the scarlet assassin gets a sneak attack bonus from another source, the damage bonuses stack.
 
 **Sabre Fighting (Ex)**: At 1st level, the scarlet assassin gains Weapon Specialization (sawtooth sabre) as a bonus feat and treats sawtooth sabres as a light weapon for all purposes, including being able to use a sawtooth sabre with [Weapon Finesse](../../rules/feats/weapon-finesse.md). At 5th level, she gains Greater Weapon Focus (sawtooth sabre) as a bonus feat. At 7th level, she gains Greater Weapon Specialization (sawtooth sabre) as a bonus feat. She does not need to otherwise qualify for these feats by having the minimum number of fighter levels.
 

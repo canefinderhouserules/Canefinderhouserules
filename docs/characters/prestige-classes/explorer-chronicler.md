@@ -57,7 +57,7 @@ In addition, if she takes 1 hour to pack her gear each day, she gains a +4 bonus
 
 **Pathfinding (Ex)**: Beginning at 2nd level, a Explorer chronicler develops an excellent sense of direction and skill at leading others through difficult terrain or by following ancient maps. A Explorer chronicler gains a +5 bonus on Survival checks made to avoid becoming lost and to Intelligence checks to escape a [*maze*](../../magic/spells/maze.md) spell. In addition, she always uses the “road or trail” overland movement modifier even when in trackless terrain, whether on foot or mounted. With a DC 15 Survival check, the Explorer chronicler can extend this benefit to one companion per class level.
 
-**Bardic Performance (Su)**: At 3rd level, a Explorer chronicler gains this ability, which functions like the bard class feature of the same name, except that the chronicler’s effective bard level is 2 lower than her class level. Levels in this class stack with levels in any other class that grants a similar ability to determine her effective bard level.
+**Bardic Performance (Su)**: At 3rd level, a Explorer chronicler gains this ability, which functions like the [bard class feature](../classes/bard.md#bardic-performance) of the same name, except that the chronicler’s effective bard level is 2 lower than her class level. Levels in this class stack with levels in any other class that grants a similar ability to determine her effective bard level.
 
 **Improved Aid (Ex)**: Starting at 3rd level, a Explorer chronicler using the aid another action grants a +4 bonus, rather than the normal +2.
 

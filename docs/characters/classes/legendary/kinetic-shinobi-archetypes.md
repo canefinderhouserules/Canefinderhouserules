@@ -6,13 +6,13 @@
 
 **Weapon and Armor Proficiencies:** Arsenal snipers are proficient with all [simple weapons](../../../equipment/weapons-simple.md), plus the [kama](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [katana](../../../equipment/weapons-eastern.md#exotic-one-handed-melee-weapons), [kusarigama](../../../equipment/weapons-eastern.md#exotic-two-handed-melee-weapons-part-1), [nunchaku](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [sai](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [shortbow](../../../equipment/weapons-martial.md#martial-ranged-weapons), [short sword](../../../equipment/weapons-martial.md#martial-light-melee-weapons), [shuriken](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [siangham](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), unarmed strikes, and [wakizashi](../../../equipment/weapons-eastern.md#exotic-light-melee-weapons). An arsenal sniper must also select either crossbows and [firearms](../../../equipment/weapons-firearms.md), gaining proficiency with either all crossbows except [double crossbows](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1) or all firearms except double-barreled firearms.
 
-*This replaces the kinetic shinobi’s weapon and armor proficiencies.*
+*This replaces the [kinetic shinobi’s weapon and armor proficiencies](kinetic-shinobi.md#weapon-and-armor-proficiencies).*
 
 **Armed Jutsu (Su):** At 1st level, an arsenal sniper can channel their physical and elemental jutsu weapons through either a crossbow or firearm, gaining the benefits of any enhancement bonus the weapon possesses made with that weapon. Using a jutsu infusion in this way requires the weapon being used be unloaded, and cannot be combined with any ammunition or spells that affect ammunition, the kinetic blast now being treated as ammunition for the purposes for effects that would benefit it. The type of weapon used does not affect the AC that a kinetic blast targets or how much damage it deals (beyond adding its enhancement bonus), but it does affect the blast’s range. It otherwise functions as an attack made from that weapon (including misfire chances for firearms). An arsenal sniper can apply feats to this attack as though it was both an attack made with the weapon and a kinetic blast, although effects from multiple iterations of the same feat do not stack (such as from Weapon Focus (kinetic blast) and Weapon Focus (crossbow)).
 
 A weapon used with armed jutsu is always considered loaded, and does not need to be loaded to be used with this ability. Any hand holding a crossbow or firearm is considered free for the purposes of gathering energy. While channeling a physical or elemental jutsu through a weapon, an arsenal sniper cannot spend ki to increase the attack or damage roll of their kinetic blast. This ability cannot be used with the empowered weapon, greater empowered weapon, or infuse weapon shinobi talents or double crossbows and double barreled firearms. This ability is treated as the kinetic kunai hadou technique for the purposes of abilities that interact with it as well as the limit of hadou techniques that can be applied to a blast.
 
-*This ability alters jutsu basics and replaces the kinetic katana and dual jutsus hadou techniques. An arsenal sniper can select the kinetic katana hadou as a shinobi talent, but they must be 3rd level or higher to do so.*
+*This ability alters [jutsu basics](kinetic-shinobi.md#jutsu-basics-su) and replaces the kinetic katana and dual jutsus hadou techniques. An arsenal sniper can select the kinetic katana hadou as a shinobi talent, but they must be 3rd level or higher to do so.*
 
 **Accuracy (Ex):** At 1st level, an arsenal sniper halves all range increment penalties when making attacks with a projectile weapon or with a kinetic blast used with the kinetic yeoman shinobi talent.
 
@@ -36,11 +36,11 @@ A weapon used with armed jutsu is always considered loaded, and does not need to
 
 At 5th level, an arsenal sniper gains the studied strike class feature of the investigator class, starting off at 1d6 at 5th level and increasing by 1d6 for every 3 arsenal sniper levels beyond the 5th (to a maximum of 6d6 at 20th level). Shinobi talents and class features that affect sneak attack can be used with this ability.
 
-*This ability replaces sneak attack.*
+*This ability replaces [sneak attack](kinetic-shinobi.md#sneak-attack-ex).*
 
 **Eagle Eyes (Ex):** At 3rd level and every 3 levels thereafter, an arsenal sniper increases the range from which they can apply studied combat and studied strike by 10 ft. This effect stacks with other abilities which increase the range at which one can apply sneak attack damage.
 
-*This ability replaces no trace.*
+*This ability replaces [no trace](kinetic-shinobi.md#no-trace-ex).*
 
 **Suggested Shinobi Talents:** bomb blast, hadou admixture (weighted kunai), master trick (advanced talent (quick shotPU), oni force, starbound technique
 
@@ -50,7 +50,7 @@ At 5th level, an arsenal sniper gains the studied strike class feature of the in
 
 **Weapon and Armor Proficiencies:** Brutal assassins are proficient with all simple and [martial weapons](../../../equipment/weapons-martial.md), plus the [butterfly knife](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [kama](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [katana](../../../equipment/weapons-eastern.md#exotic-one-handed-melee-weapons), [kusarigama](../../../equipment/weapons-eastern.md#exotic-two-handed-melee-weapons-part-1), [kyoketsu shoge](../../../equipment/weapons-eastern.md#exotic-two-handed-melee-weapons-part-1), [meteor hammer](../../../equipment/weapons-eastern.md#exotic-two-handed-melee-weapons-part-1), [nunchaku](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [rope dart](../../../equipment/weapons-eastern.md#exotic-two-handed-melee-weapons-part-2), [sai](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [spiked chain](../../../equipment/weapons-exotic.md#exotic-two-handed-melee-weapons), [tekko-kagi](../../../equipment/weapons-eastern.md#exotic-light-melee-weapons), [tetsubo](../../../equipment/weapons-eastern.md#exotic-two-handed-melee-weapons-part-1), and [wakizashi](../../../equipment/weapons-eastern.md#exotic-light-melee-weapons). They are proficient with [light armor](../../../equipment/armor.md) and [shields](../../../equipment/armor.md) (but not [tower shields](../../../equipment/armor.md)).
 
-*This replaces the kinetic shinobi’s weapon and armor proficiencies.*
+*This replaces the [kinetic shinobi’s weapon and armor proficiencies](kinetic-shinobi.md#weapon-and-armor-proficiencies).*
 
 **Jutsu of Violence (Ex):** At 1st level, the brutal assassin chooses either the dual jutsu or kinetic katana hadou technique. They only have access to the chosen hadou technique and must always apply it to their kinetic blast, but receive its benefits at 1st level and it functions even if they have no points remaining in their ki pool or do not possess the ki pool class feature.
 
@@ -58,19 +58,19 @@ Brutal assassins can only choose an element with their elemental basics class fe
 
 In addition, the brutal assassin uses their Strength modifier instead of their Charisma modifier to determine damage dealt by kinetic blasts.
 
-*This ability alters hadou techniques, elemental basics, jutsu basics, and the kinetic shinobi’s key ability scores and replaces the basic utility wild talent and elemental jutsu form infusion gained from jutsu basics.*
+*This ability alters [hadou techniques](kinetic-shinobi.md#hadou-techniques-su), [elemental basics](kinetic-shinobi.md#elemental-basics-su), [jutsu basics](kinetic-shinobi.md#jutsu-basics-su), and the kinetic shinobi’s key ability scores and replaces the basic utility wild talent and elemental jutsu form infusion gained from jutsu basics.*
 
 **Sneak Attack (Ex):** A brutal assassin is more practiced with their kinetic abilities, allowing them to strike their foes' vital points more accurately. Whenever a brutal assassin spends 1 or more ki points, increase the size of their sneak attack damage die one step (from d6s to d8s) until the beginning of their next round. At 8th level, if they deal this sneak attack damage during the surprise round, it instead increases two steps (from d6s to d10s) if the brutal assassin has spent 1 or more ki points within 1 round.
 
-*This ability alters sneak attack and replaces the ninjutsu training class feature gained at 12th level.*
+*This ability alters [sneak attack](kinetic-shinobi.md#sneak-attack-ex) and replaces the [ninjutsu training](kinetic-shinobi.md#ninjutsu-training-su) class feature gained at 12th level.*
 
 **Threatening Presence (Ex):** At 3rd level, whenever a brutal assassin deals sneak attack damage, they can attempt an Intimidate check to demoralize any creature dealt by their kinetic blast as a swift action. They receive a +1 bonus on this check at 6th level and for every 3 levels thereafter.
 
-*This ability replaces no trace.*
+*This ability replaces [no trace](kinetic-shinobi.md#no-trace-ex).*
 
 **Combat Focused (Ex):** At 4th, 10th, and 16th levels, brutal assassins can choose between gaining ninjutsu specialist as normal or gaining a bonus combat feat. They count as a fighter of their brutal assassin level for the purpose of bonus feats chosen this way.
 
-*This ability alters ninjutsu specialist.*
+*This ability alters [ninjutsu specialist](kinetic-shinobi.md#ninjutsu-specialist-ex).*
 
 **Brutal Metajutsu (Su):** At 6th level, the brutal assassin can spend 1 point from their ki pool to increase any damage rolls made with their kinetic blast by half, as if using [Empower Spell](../../../rules/feats/empower-spell.md). This does not affect precision damage (such as sneak attack).
 
@@ -78,7 +78,7 @@ At 14th level, the brutal assassin can spend 3 points from their ki pool to incr
 
 *This ability replaces metajutsu (extend) and metajutsu (persistent).*
 
-**Evasion (Ex):** A brutal assassin receives this class feature at 12th level rather than 7th. This alters evasion.
+**Evasion (Ex):** A brutal assassin receives this class feature at 12th level rather than 7th. This alters [evasion](kinetic-shinobi.md#evasion-ex).
 
 **Shinobi Talents:** A brutal assassin cannot select the following shinobu talents: bomb blast, deadeye jutsu, extended kunai, hadou admixture, hadou expert (kunai grenade), kinetic yeoman, starbound technique, or starstorm art. A brutal assassin cannot select hadou expert (heavy katana) unless they can access kinetic katana, and cannot select hadou expert (twinblade fury) unless they can access dual jutsu.
 
@@ -94,7 +94,7 @@ At 14th level, the brutal assassin can spend 3 points from their ki pool to incr
 
 **Hide in Plain Sight (Su):** At 7th level, a burglar can use the Stealth skill even while being observed. As long as they are within 10 feet of an area of dim light, a burglar can hide themselves from view in the open without anything to actually hide behind. They cannot, however, hide in their own shadow.
 
-*This ability replaces evasion.*
+*This ability replaces [evasion](kinetic-shinobi.md#evasion-ex).*
 
 *Suggested Shinobi Talents*: master trick (invisible blade), stealthy gathering, swarm technique, unlock skill, utility ninjutsu.
 
@@ -106,7 +106,7 @@ At 14th level, the brutal assassin can spend 3 points from their ki pool to incr
 
 If an elemental shinobi takes the ward of elements shinobi talent, it functions differently for them, instead allowing them to recover ki spent on a defense wild talent normally.
 
-*This replaces evasion and the ninjutsu training class feature gained at 12th level.*
+*This replaces [evasion](kinetic-shinobi.md#evasion-ex) and the ninjutsu training class feature gained at 12th level.*
 
 **Ki Pool (Ex):** An elemental shinobi has reduced capacity to access their ki. They can only spend 1 point from their ki pool per round. This limit rises to 2 at 6th level, and by an additional 1 per 3 elemental shinobi levels they possess. Their ki pool has a number of points equal to 3 + their Charisma modifier. An elemental shinobi does not gain the ability to spend points from their ki pool to provide themselves a +20 bonus to Acrobatics checks made while leaping.
 
@@ -124,7 +124,7 @@ At 12th level, whenever the elemental shinobi has spent at least 5 points from t
 
 At 17th level, whenever the elemental shinobi has spent at least 7 points from their ki pool, these bonuses increase to a +6 alchemical bonus to one mental ability score of their choice, a +4 alchemical bonus to a second mental ability score of their choice, and a +2 alchemical bonus to the remaining mental ability score.
 
-*This ability replaces no trace and sneak attack.*
+*This ability replaces [no trace](kinetic-shinobi.md#no-trace-ex) and [sneak attack](kinetic-shinobi.md#sneak-attack-ex).*
 
 **Suggested Shinobi Talents:** advanced jutsu, dragonbreath, expanded study, supercharge, ward of elements
 
@@ -140,11 +140,11 @@ At 17th level, whenever the elemental shinobi has spent at least 7 points from t
 
 **Fade Away (Su):** At 3rd level, the fading shadow is treated as constantly under the effects of [*negate aroma*](../../../magic/spells/negate-aroma.md), as the spell. At 9th they are also under the effects of nondetection (treating it as having a CL equal to their fading shadow level), and at 15th level they are also under the effects of mind blank.
 
-*This ability replaces no trace.*
+*This ability replaces [no trace](kinetic-shinobi.md#no-trace-ex).*
 
 **Cowardly Sneak Attack (Ex):** The fading shadow does not gain this class feature until 4th level and gains an extra damage die every 4 levels. In addition, the damage die is reduced by 1 step if the fading shadow makes a sneak attack while they are not invisible.
 
-*This ability alters sneak attack.*
+*This ability alters [sneak attack](kinetic-shinobi.md#sneak-attack-ex).*
 
 **Intangible Metajutsu (Su):** At 10th level, the fading shadow can spend 2 points from their ki pool to make their kinetic blast silent and invisible. A creature attempting a Spellcraft check to identify this kinetic blast adds +20 to the DC of this check, and a creature that is unaware of the fading shadow’s presence and is not affected by the kinetic blast must make a DC 15 Perception check to notice it being used.
 
@@ -158,11 +158,11 @@ At 17th level, whenever the elemental shinobi has spent at least 7 points from t
 
 **Weapon and Armor Proficiencies:** A hand of the kami is proficient with the [bo staff](../../../equipment/weapons-eastern.md#exotic-two-handed-melee-weapons-part-1), [brass knuckles](../../../equipment/weapons-simple.md#simple-light-melee-weapons), [cestus](../../../equipment/weapons-simple.md#simple-light-melee-weapons), [hanbo](../../../equipment/weapons-eastern.md#simple-light-melee-weapons), [jutte](../../../equipment/weapons-eastern.md#martial-light-melee-weapons), [kunai](../../../equipment/weapons-simple.md#simple-light-melee-weapons), [nunchaku](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [punching dagger](../../../equipment/weapons-simple.md#simple-light-melee-weapons), [quarterstaff](../../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), [rope dart](../../../equipment/weapons-eastern.md#exotic-two-handed-melee-weapons-part-2), [sai](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [shuriken](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [tonfa](../../../equipment/weapons-eastern.md#martial-light-melee-weapons), and [wushu dart](../../../equipment/weapons-eastern.md#martial-light-melee-weapons). They are proficient with [light armor](../../../equipment/armor.md) but not [shields](../../../equipment/armor.md).
 
-*This replaces the kinetic shinobi’s weapon and armor proficiencies.*
+*This replaces the [kinetic shinobi’s weapon and armor proficiencies](kinetic-shinobi.md#weapon-and-armor-proficiencies).*
 
 **Blessed Fists (Ex):** At 1st level the hand of the kami gains [Improved Unarmed Strike](../../../rules/feats/improved-unarmed-strike.md) as a bonus feat. In addition, their unarmed strikes deal damage as a monk 2/3 their hand of the kami level (minimum 1) and they treat their base attack bonus as equal to their class level. Levels in a class which provides increases to unarmed strike damage stack with effective levels provided by hand of the kami to determine damage.
 
-*This ability replaces sneak attack and the shinobi talent gained at 1st level.*
+*This ability replaces [sneak attack](kinetic-shinobi.md#sneak-attack-ex) and the shinobi talent gained at 1st level.*
 
 **Sensei’s Notice (Ex):** At 1st level, select 1 class skill which uses Wisdom as its associated ability score. The hand of the kami uses their Charisma as its associated ability score instead. Once selected this cannot be changed.
 
@@ -180,7 +180,7 @@ At 17th level, whenever the elemental shinobi has spent at least 7 points from t
 
 **Fleetfoot (Ex):** At 3rd level, a hand of the kami receives a +5 ft. bonus to their base speed. At 6th level and every 3 levels thereafter, their base speed bonus increases by an additional 5 ft. They do not benefit from this bonus while wearing medium or heavy armor or carrying a medium or heavy load.
 
-*This ability replaces no trace.*
+*This ability replaces [no trace](kinetic-shinobi.md#no-trace-ex).*
 
 **Flurry of Elements (Ex):** At 3rd level, a hand of the kami can make a flurry of blows as an unchained monkPU of their hand of the kami level -2 using their unarmed strikes, kinetic blasts, or weapons with the monk quality. If they use kinetic blasts as part of a flurry of blows, any hadou techniques, infusions, ki pool abilities, and shinobi talents applied to their kinetic blast only affect attacks made with their kinetic blasts. In addition, if they possess any style strikes, they can apply them to any unarmed strike in a flurry of blows (even those unaffected by empower weapons), though any restrictions on what body parts are used to make the style strike still stand.
 
@@ -188,7 +188,7 @@ At 17th level, whenever the elemental shinobi has spent at least 7 points from t
 
 **Flexible Flow (Su):** At 4th level, a hand of the kami can choose to alter the flow of ki within their bodies. Upon activating this ability and for its duration, they gain a +1 competence bonus to damage rolls with kinetic blasts affected by elemental jutsu or physical jutsu, increasing this bonus by 1 per 4 hand of the kami levels beyond 4th. In addition, their empower weapons does not require them to spend points from their ki pool and can be used as a free action. As a cost for gaining these boons, the hand of the kami must temporarily suppress their ninjutsu specialist ability. Activating and deactivating this ability is a standard action, and it lasts as long as the hand of the kami wishes.
 
-*This alters ninjutsu specialist.*
+*This alters [ninjutsu specialist](kinetic-shinobi.md#ninjutsu-specialist-ex).*
 
 **Shinobi Talents:** The hand of the kami has access to the following shinobi talents:
 
@@ -209,7 +209,7 @@ The hand of the kami cannot select the following shinobi talents: bomb blast, ca
 
 **Limited Jutsu:** Hi-Den nobles can only choose an element with their elemental basics class feature that provides a energy simple blast, and can only choose energy blasts with their elemental basics class feature or with the advanced jutsu shinobi talent. They do not gain the physical jutsu form infusion.
 
-*This ability alters elemental basics and jutsu basics.*
+*This ability alters [elemental basics](kinetic-shinobi.md#elemental-basics-su) and [jutsu basics](kinetic-shinobi.md#jutsu-basics-su).*
 
 **Hidden (Ex):** A Hi-Den noble gains a vigilante’s dual identity and seamless guise class features. Their vigilante identity is considered their shinobi identity and their social identity is considered their noble identity. Among the Hi-Den both their identities may be know. Even if a rival clan discovers the identity of a Hi-Den, they will often keep it secret to hide their shadow war.
 
@@ -230,19 +230,19 @@ A Hi-Den noble gains bonuses based on their clan affiliation.
 
 Players from minor clans may work with their GM to work out another bonus based on their Hi-Den affiliation. Alternatively, they can choose to gain the bonus from a clan served by their own.
 
-**Knowing (Ex):** A Hi-Den noble adds a bonus equal to 1/2 their class level to Knowledge (nobility) checks and can make such checks untrained. At 10th level they are considered to possess a bard’s lore master class feature as a bard of their Hi-Den noble level, but only for the purposes of skills granted a bonus by this ability.
+**Knowing (Ex):** A Hi-Den noble adds a bonus equal to 1/2 their class level to Knowledge (nobility) checks and can make such checks untrained. At 10th level they are considered to possess a [bard’s lore master](../bard.md#lore-master-ex) class feature as a bard of their Hi-Den noble level, but only for the purposes of skills granted a bonus by this ability.
 
 **Charming (Ex):** A Hi-Den noble adds a bonus equal to 1/3 their Hi-Den noble level to Bluff and Diplomacy checks made in a social setting.
 
-*This ability replaces no trace.*
+*This ability replaces [no trace](kinetic-shinobi.md#no-trace-ex).*
 
 **Sociable:** At 2nd level and every 4 levels thereafter, a Hi-Den noble gains a social talent as a vigilante of their Hi-Den noble level, treating their Hi-Den noble level as their vigilante level. These social talents cannot be ones that require the shinobi to have a background other than noble. A Hi-Den noble can select a social talent in place of a shinobi talent.
 
-*This ability replaces the metajutsu class feature.*
+*This ability replaces the [metajutsu](kinetic-shinobi.md#metajutsu-su) class feature.*
 
 **Hidden Strike (Ex):** At 2nd level, Hi-Den noble can make hidden strikes. This allows them to deal +1d8 points of precision damage on melee attacks (or ranged attacks from within 30 ft.) against foes who are unaware of their presence or who consider them an ally. This extra damage increases by +1d8 at 5th level and every 3 Hi-Den noble levels thereafter. A Hi-Den noble can also deal hidden strike damage to a target that they are flanking or that is denied its Dexterity bonus to AC, but in these cases, the damage dice are reduced to d4s. They can deal hidden strike damage against targets with concealment (but not total concealment). Shinobi talents and class features that affect sneak attack can be used with this ability.
 
-*This ability replaces sneak attack.*
+*This ability replaces [sneak attack](kinetic-shinobi.md#sneak-attack-ex).*
 
 **Suggested Shinobi Talents:** master trick (advanced talents (cutting edgePU, rumormonger)), ninja trick (rogue talent (black market connections)), thought detection, unlock skill
 
@@ -266,7 +266,7 @@ A kinetic blast used as a mutable blast cannot benefit from hadou admixture (twi
 
 **Weapon and Armor Proficiencies:** A needler is proficient with all simple and [martial weapons](../../../equipment/weapons-martial.md), plus the [butterfly knife](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [emei piercer](../../../equipment/weapons-eastern.md#exotic-light-melee-weapons), [estoc](../../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons), [fighting fan](../../../equipment/weapons-eastern.md#exotic-light-melee-weapons), [grappling hook](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [pata](../../../equipment/weapons-eastern.md#exotic-light-melee-weapons), [quadrens](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [rope dart](../../../equipment/weapons-eastern.md#exotic-two-handed-melee-weapons-part-2), [siangham](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), and [tongi](../../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons). They are also proficient with [light armor](../../../equipment/armor.md) and [bucklers](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3).
 
-*The alters the kinetic shinobi’s weapon and armor proficiencies.*
+*The alters the [kinetic shinobi’s weapon and armor proficiencies](kinetic-shinobi.md#weapon-and-armor-proficiencies).*
 
 **Class Skills:** A needler gains Ride and loses Stealth as class skills, and gains 4 + Int skill ranks per level.
 
@@ -274,13 +274,13 @@ A kinetic blast used as a mutable blast cannot benefit from hadou admixture (twi
 
 **Piercing Focus (Su):** For their elemental focus, a needler must choose an element which provides a simple kinetic blast able to deal piercing damage (this normally limits them to aether, earth, or wood) and cannot learn energy kinetic blasts, nor can they use a kinetic blast which cannot deal piercing damage (it can deal multiple types of damage so long as one of those types is piercing). They do not gain the elemental jutsu form infusion.
 
-*This ability alters elemental basics and jutsu basics.*
+*This ability alters [elemental basics](kinetic-shinobi.md#elemental-basics-su) and [jutsu basics](kinetic-shinobi.md#jutsu-basics-su).*
 
 **Elemental Main Gauche (Su):** While at least 1 point remains in their ki pool, a needler can access the following hadou technique:
 
 *Elemental Main Gauche (Su):* While holding a light or onehanded piercing melee weapon in their main hand, the needler can manifest their elemental blast as a light piercing melee weapon in their offhand. This hadou technique can only be applied to a kinetic blast used with physical jutsu and which is able to deal piercing damage. This can be used in place of dual jutsu for the double toxin art, hadou expert (twinblade fury), and shinobi talents.
 
-*This ability alters hadou techniques.*
+*This ability alters [hadou techniques](kinetic-shinobi.md#hadou-techniques-su).*
 
 **Daring Ki Pool (Su):** A needler’s ki functions far differently than that of the typical ki user. Their ki pool has a number of points equal to their Charisma modifier (minimum 1) and is gained at 1st level. They can recover points in their ki pool, though typically it will never rise above their Charisma modifier (although some feats and magic items may alter this). Needlers do not gain the ability to spend points from their ki pool to grant themselves a bonus to their attack or damage rolls, to Acrobatics skill checks, or to skill checks associated with their primary element. They can recover their ki in the following ways:
 
@@ -293,7 +293,7 @@ In addition, if the user has a grit, luck, or panache pool, the points in those 
 
 **Deeds (Ex):** A needler gains the deeds class feature of a swashbuckler of the same level. If they have levels in the swashbuckler class, these levels do not stack to determine to which deeds they have access; they instead use the higher level between their needler and swashbuckler level. They can treat themselves as wielding their kinetic blast for the purpose of using deeds if it can be treated as piercing damage.
 
-*This ability replaces sneak attack.'*
+*This ability replaces [sneak attack](kinetic-shinobi.md#sneak-attack-ex).'*
 
 **Nimble (Ex):** At 3rd level, a needler gains a +1 dodge bonus to AC while wearing light or no armor. Anything that causes them to lose their bonus to AC from Dexterity also causes them to lose this dodge bonus. This bonus increases by 1 for every 4 levels beyond 3rd (up to +5 at 19th).
 
@@ -301,7 +301,7 @@ In addition, if the user has a grit, luck, or panache pool, the points in those 
 
 **Piercing Mastery (Ex):** At 20th level, when a needler threatens a critical hit with a light or one-handed piercing melee weapon, that critical is automatically confirmed. Furthermore, the critical modifiers of such weapons increase by 1 (x2 becomes x3, and so on).
 
-*This ability replaces jutsu genius.*
+*This ability replaces [jutsu genius](kinetic-shinobi.md#jutsu-genius-su).*
 
 **Shinobi Talents:** A needler has access to the following shinobi talents:
 
@@ -326,13 +326,13 @@ A needler cannot select any of the following shinobi talents: bomb blast, calcul
 
 **Void Focus:** The shadow stepper must select void as their elemental basics' focus at 1st level.
 
-*This alters elemental basics.*
+*This alters [elemental basics](kinetic-shinobi.md#elemental-basics-su).*
 
 **Spellcasting:** At 4th level, the shadow stepper gains the ability to cast spells. They can cast arcane spells using the bloodrager’s table to determine how many spells they can cast per day as well as how many spells they know at a given level, being able to cast any spell they know without preparing it ahead of time. To cast a spell, a shadow stepper must have a Charisma score of at least 10 + the spell’s level. Their bonus spells are based on Charisma, and saving throws against these spells have a DC of 10 + the spell level + the caster’s Charisma modifier (if any). A shadow stepper can learn any illusion spell on the wizard/sorcerer and psychic spell lists as well as any spell with the light, darkness, or shadow descriptor on the wizard/sorcerer and psychic spell lists. At 8th level and every 3 levels thereafter, they can choose to learn a new spell in place of one they already know, provided the new spell is of the same level as the one they are replacing.
 
 A shadow stepper spell cast by the shadow stepper can be affected by their metajutsu. Doing so treats the spell as being cast in an identical way to the metamagic feat it emulates or shares a name with. However, this does not increase the casting time. (Though it does increase the spell slot.)
 
-*This alters metajutsu and replaces the shinobi talents gained at 5th, 7th, 11th, 13th, and 19th levels as well as no trace.*
+*This alters [metajutsu](kinetic-shinobi.md#metajutsu-su) and replaces the shinobi talents gained at 5th, 7th, 11th, 13th, and 19th levels as well as no trace.*
 
 **Shadow Jutsu (Sp):** Upon reaching 2nd level, a shadow stepper gains their ki pool, but does not gain access to the normal abilities granted by that ki pool. Instead, the shadow stepper can spend 1 point from their ki pool and a spell slot to spontaneously cast certain spells as if they were shadow stepper spells. These spells and the levels they count as for the shadow stepper are as follows:
 
@@ -356,7 +356,7 @@ Shikon add Knowledge (arcana), Knowledge (planes), and Spellcraft to their list 
 
 **Singular Hadou (Su):** The shikon does not gain the dual jutsu hadou technique.
 
-*This ability alters hadou techniques.*
+*This ability alters [hadou techniques](kinetic-shinobi.md#hadou-techniques-su).*
 
 **Kyouki (Ex):** At 3rd level, the shikon forms a bond with a mystical sentient weapon called a kyouki, which takes the form of a weapon of the shikon’s choice and are thought to contain the soul of a long-dead samurai or general. A shikon cannot take on a familiar of any kind, even from another class. The shikon only has a number of points in their ki pool equal to ⅓ their class level + their Charisma modifier (minimum 1).
 
@@ -382,11 +382,11 @@ A kyouki is functionally similar to the black blade from the Bladebound magus ar
 
 *A shikon cannot select any of the following magus arcana:* arcane dealer, bane blade, broad study, close range, devoted blade, distant spellstrike, enduring blade, familiar, ghost blade, natural spell combat, planar hunter, pool ray, rakshasa’s fortune, reach spellstrike, spell blending, spell trickery, throwing magus, and wand wielder. Other magus arcana could be included or excluded at the GM’s discretion.
 
-*This alters the shinobi talents.*
+*This alters the [shinobi talents](kinetic-shinobi.md#shinobi-talents-ex).*
 
 **Sneak Attack (Ex):** The shikon gains this class feature at 4th level, and it deals additional damage with their sneak attack every 4 levels beyond 4th.
 
-*This alters sneak attack.*
+*This alters [sneak attack](kinetic-shinobi.md#sneak-attack-ex).*
 
 **Spellstrike (Su):** At 5th level, whenever the shikon casts a spell with a range of “touch” from a scroll or spell trigger item from the spell list of the class chosen with their jumon knack class feature, they can deliver the spell through their kyouki as part of a melee attack. Instead of the free melee touch attack normally allowed to deliver the spell, a shikon can make one free melee attack with their weapon (at their highest base attack bonus) as part of casting this spell. If successful, this melee attack deals its normal damage as well as the effects of the spell. This ability can be made in concert with a kinetic blast with the physical jutsu or elemental jutsu form infusion applied to it, but not with the kinetic kunai hadou technique. This attack uses the weapon’s critical range, but the spell effect only deals x2 damage on a successful critical hit, while the weapon damage uses its own critical modifier.
 

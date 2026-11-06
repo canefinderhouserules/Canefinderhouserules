@@ -57,7 +57,7 @@ The following are class features of the hell knight prestige class.
 
 **Aura of Law (Ex)**: A hell knight’s lawful aura (see the [*detect law*](../../magic/spells/detect-law.md) spell) functions as that of a cleric whose level is equal to the hell knight’s character level.
 
-**Detect Chaos (Sp)**: This ability functions like the paladin’s detect evil class feature, save that it grants the use of [*detect chaos*](../../magic/spells/detect-chaos.md) instead.
+**Detect Chaos (Sp)**: This ability functions like the [paladin’s detect evil](../classes/paladin.md#detect-evil-sp) class feature, save that it grants the use of [*detect chaos*](../../magic/spells/detect-chaos.md) instead.
 
 **Order**: A character must choose one knightly order to join at 1st level: the order of Shackles (bounty hunters who seek escaped convicts and fugitives and often jail politically inconvenient prisoners), Portal (spellcasting signifers who use infernal magic to learn of catastrophic crimes before they occur), Faithful (faith-driven knights devoted to a pantheon of lawful deities), Spike (knights who crusade against “uncivilized” peoples), Brazier (hunters of shamans, witches, occult practitioners, and disciples of less-established faiths), Austerity (destroyers of dangerous knowledge and revolutionary philosophies), or Lash (opponents of criminal activity and watchers for corruption among authorities). The choice of order determines which disciplines the character later gains access to. See [Knightly Orders](knightly-orders.md) for each order's reckoning and boons.
 
@@ -69,7 +69,7 @@ The smite chaos effect remains until the target of the smite is dead or the next
 
 ??? note "Original rule"
 
-    **Smite Chaos (Su)**: This ability functions as the paladin’s smite evil class feature but against chaotic-aligned creatures. This ability is twice as effective against outsiders with the chaotic subtype, chaotic-aligned aberrations, and fey.
+    **Smite Chaos (Su)**: This ability functions as the [paladin’s smite evil](../classes/paladin.md#smite-evil-su) class feature but against chaotic-aligned creatures. This ability is twice as effective against outsiders with the chaotic subtype, chaotic-aligned aberrations, and fey.
 
 **Aligned Class (Ex)**: At 2nd level, a hell knight must choose a class they belonged to before adding the prestige class to be their aligned class. At 2nd level and every 2 levels thereafter, they gain the class features of an additional level of their aligned class. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class.
 

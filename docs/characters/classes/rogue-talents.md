@@ -178,7 +178,7 @@ The following rogue talents can be taken by any rogue who meets the prerequisite
 
 ## Monster Hunter’s Handbook Rogue Talents
 
-The following talents complement rogues seeking to ambush animals. A talent marked with an asterisk (*) adds effects to a rogue’s sneak attack. Only one of these talents can be applied to an individual attack, and the decision must be made before the attack roll.
+The following talents complement rogues seeking to ambush animals. A talent marked with an asterisk (*) adds effects to a [rogue’s sneak attack](rogue.md#sneak-attack). Only one of these talents can be applied to an individual attack, and the decision must be made before the attack roll.
 
 **Ambuscading Grapple (Ex)**: When a rogue with this talent succeeds at a combat maneuver check to grapple an unaware opponent, she can immediately deal her sneak attack damage to the target. This counts as having hit with a sneak attack for the purpose of other abilities and talents.
 
@@ -208,7 +208,7 @@ These talents especially suit the dark lurker archetype, but can also be taken b
 
 ## Thieves’ Guild Rogue Talents
 
-These rogue talents are designed specifically for rogues working for a thieves’ guild, either as full members or merely as affiliates. The talent marked with an asterisk (*) adds an effect to a rogue’s sneak attack. Only one such talent can be applied to an individual attack, and the decision must be made before the attack roll.
+These rogue talents are designed specifically for rogues working for a thieves’ guild, either as full members or merely as affiliates. The talent marked with an asterisk (*) adds an effect to a [rogue’s sneak attack](rogue.md#sneak-attack). Only one such talent can be applied to an individual attack, and the decision must be made before the attack roll.
 
 **Careful Stab (Ex)**: When a rogue with this talent reduces a creature to fewer than 0 hp with precision damage, she can choose to leave that creature at –1 hp and stable.
 
@@ -218,7 +218,7 @@ These rogue talents are designed specifically for rogues working for a thieves�
 
 **Occult Aptitude (Ex)**: The rogue has been trained in a minor occult technique. The rogue gains [Psychic Sensitivity](../../rules/feats/psychic-sensitivity.md) as a bonus feat.
 
-**Silencing Strike* (Su)**: Using stolen magic, guild agents can render foes silent. When a creature is damaged by the rogue’s sneak attack, the rogue magically renders the creature mute for 1 round unless it succeeds at a Will save (DC = 10 + half the rogue’s level + the rogue’s Charisma modifier). Silencing strike can be used a number of times per day equal to half the rogue’s level.
+**Silencing Strike* (Su)**: Using stolen magic, guild agents can render foes silent. When a creature is damaged by the [rogue’s sneak attack](rogue.md#sneak-attack), the rogue magically renders the creature mute for 1 round unless it succeeds at a Will save (DC = 10 + half the rogue’s level + the rogue’s Charisma modifier). Silencing strike can be used a number of times per day equal to half the rogue’s level.
 
 ### Advanced Thieves’ Guild Rogue Talents
 
@@ -256,9 +256,9 @@ Skill stunts are new rogue talents that can be taken by any rogue who meets the 
 
 ## Intrigue Rogue Talents
 
-These rogue talents can be chosen by any rogue (including the rogue from *Pathfinder Unchained*). Talents marked with an asterisk (\*) add effects to a rogue’s sneak attack. Only one of these talents can be applied to an individual attack, and the choice must be made before the attack roll is made.
+These rogue talents can be chosen by any rogue (including the rogue from *Pathfinder Unchained*). Talents marked with an asterisk (\*) add effects to a [rogue’s sneak attack](rogue.md#sneak-attack). Only one of these talents can be applied to an individual attack, and the choice must be made before the attack roll is made.
 
-**Claimed Turf (Ex)**: The rogue is well known in a specific community in which she gains the benefits of renown. She gains the renown vigilante social talent. This community can be an entire settlement or portions of a settlement (such as a particular district or neighborhood), depending on the population as allowed by the renown social talent. Anytime she could select another rogue talent, the rogue can also select from the following list of vigilante social talents, using her rogue level as her vigilante level for the purpose of meeting prerequisites: celebrity discount, celebrity perks, gossip collector, great renown, incredible renown, loyal aid, and safe house. For the purposes of vigilante social talents, the rogue does not have a vigilante identity and is always considered to be in her social identity.
+**Claimed Turf (Ex)**: The rogue is well known in a specific community in which she gains the benefits of renown. She gains the renown [vigilante social talent](vigilante.md#social-talent). This community can be an entire settlement or portions of a settlement (such as a particular district or neighborhood), depending on the population as allowed by the renown social talent. Anytime she could select another rogue talent, the rogue can also select from the following list of vigilante social talents, using her rogue level as her vigilante level for the purpose of meeting prerequisites: celebrity discount, celebrity perks, gossip collector, great renown, incredible renown, loyal aid, and safe house. For the purposes of vigilante social talents, the rogue does not have a vigilante identity and is always considered to be in her social identity.
 
 **Innocuous Servant (Ex)**: The rogue is an expert at appearing to be an unimportant servant, be it an attaché, bodyguard, driver, maid, kitchen assistant, or similar staff member. The rogue gains a +2 bonus on Disguise checks to appear to be a servant, but not to impersonate a particular servant. She also gains a +2 bonus on Bluff checks to lie to maintain this guise. While disguised as a servant, she gains a +2 bonus on Diplomacy checks to gather information among servants. Because she is easily overlooked as a servant, she can gather information from those she serves without asking them questions directly or alerting them to her interest. Doing so takes 1d4 days and requires a successful Bluff check instead of a Diplomacy check. At 8th level, the bonuses granted by this talent increase to +4.
 
@@ -328,7 +328,7 @@ The following advanced rogue talents are available to rogues, shadowdancers, and
 
 ## Merchant Rogue Talents
 
-Talents marked with an asterisk (\*) add effects to a rogue's sneak attack. Only one of these talents can be applied to an individual attack, and the decision must be made before the attack roll is made. See also *sneaky maneuver*, which is in the table above.
+Talents marked with an asterisk (\*) add effects to a [rogue's sneak attack](rogue.md#sneak-attack). Only one of these talents can be applied to an individual attack, and the decision must be made before the attack roll is made. See also *sneaky maneuver*, which is in the table above.
 
 ### Advanced Merchant Rogue Talents
 

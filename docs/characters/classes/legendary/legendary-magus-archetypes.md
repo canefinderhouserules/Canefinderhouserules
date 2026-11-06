@@ -116,7 +116,7 @@ This alters eldritch tome.
 
 A dragon fang’s selection of spells is limited. She has the same number of spells known as a bard of the same level and can choose new spells to replace old ones at 5th level and every 3 class levels after that, just as a bard does. See the bard for more information on swapping spells known.
 
-This ability replaces the legendary magus’s spells class feature.
+This ability replaces the legendary [magus’s spells](../magus.md#spells) class feature.
 
 **Energy Superiority (Su)**
 
@@ -228,7 +228,7 @@ In effect, the first magus loses the old spell in exchange for the new one. The 
 
 Unlike a druid, a first magus need not prepare her spells in advance. She can cast any spell she knows at any time, assuming she has not yet used up her spells per day for that spell level.
 
-This ability replaces the legendary magus’s spells class feature.
+This ability replaces the legendary [magus’s spells](../magus.md#spells) class feature.
 
 **Primordial Strike**: A first magus is considered to be able to cast arcane spells for the purposes of qualifying for the [Arcane Strike](../../../rules/feats/arcane-strike.md) feat and treats their legendary magus level as their caster level for the purposes of the feat.
 
@@ -270,7 +270,7 @@ A hexwielder adds the following spells to his magus spell list: bestow curse, ma
 
 **Hexing Arcana**
 
-At 3rd level, the hexwielder picks one hex from the witch’s hex class feature.
+At 3rd level, the hexwielder picks one hex from the [witch’s hex](../witch.md#hex) class feature.
 
 He gains the benefit of or uses that hex as if he were a witch of a level equal to his legendary magus level. In addition, the hexwielder may choose a witch’s hex in place of a legendary magus arcana, using his hexwielder level as his effective witch level, at any level he would normally gain one.
 
@@ -282,7 +282,7 @@ A legendary kensai has spent his life honing both his physical and magical train
 
 **Weapon and Armor Proficiencies**
 
-A legendary kensai is proficient in [simple weapons](../../../equipment/weapons-simple.md) and in a single martial or exotic melee weapon of his choice. A legendary kensai is not proficient with armor or [shields](../../../equipment/armor.md) and suffers normal arcane spell failure chance when casting magus spells while armored.
+A legendary kensai is proficient in [simple weapons](../../../equipment/weapons-simple.md) and in a single martial or exotic melee weapon of his choice. A legendary kensai is not proficient with armor or [shields](../../../equipment/armor.md) and suffers normal arcane spell failure chance when casting [magus spells](../magus.md#spells) while armored.
 
 This modifies weapon and armor proficiencies.
 

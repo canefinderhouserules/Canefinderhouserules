@@ -299,7 +299,7 @@ You lash out with boughs, vines, or a deluge of stinging blooms.
 
 **Saving Throw** none; **Spell Resistance** yes
 
-This functions as kinetic healer, but you must base the amount of healing on your positive blast, not wood blast. A phytokineticist with positive blast as her first blast qualifies for the kinetic chirurgeon archetype and gains this utility talent instead of kinetic healer. This wild talent counts as kinetic healer for prerequisites for selecting other kineticist wild talents.
+This functions as kinetic healer, but you must base the amount of healing on your positive blast, not wood blast. A phytokineticist with positive blast as her first blast qualifies for the kinetic chirurgeon archetype and gains this utility talent instead of kinetic healer. This wild talent counts as kinetic healer for prerequisites for selecting other [kineticist wild talents](kineticist.md#wild-talents_1).
 
 ### Wood Soldiers
 

@@ -61,7 +61,7 @@ The following are class features of the freedom tiller prestige class.
 
 **Teamwork Feat**: At 2nd level, a freedom tiller gains a bonus feat in addition to those gained from normal advancement. This bonus feat must be a teamwork feat, and the tiller must meet the prerequisites of the selected bonus feat. At 6th level and 10th level, the tiller gains an additional bonus teamwork feat.
 
-**Sneak Attack**: At 3rd level, a freedom tiller gains a sneak attack that functions like the rogue class feature of the same name. The extra damage is 1d6 at 3rd level and increases by 1d6 every 3 levels thereafter. If a tiller gets a sneak attack bonus from another source, the bonuses on damage stack.
+**Sneak Attack**: At 3rd level, a freedom tiller gains a sneak attack that functions like the [rogue class feature](../classes/rogue.md#sneak-attack) of the same name. The extra damage is 1d6 at 3rd level and increases by 1d6 every 3 levels thereafter. If a tiller gets a sneak attack bonus from another source, the bonuses on damage stack.
 
 **Favored Barn (Ex)**: At 5th level, a freedom tiller grows familiar with and develops trusted contacts in a particular community. While inside the limits of this community, she gains a +2 bonus on initiative checks and Knowledge (local), Perception, Stealth, and Survival checks. Any ally designated as part of the tiller’s crop receives a bonus on these skills equal to half the tiller’s bonus. A tiller traveling through her favored community leaves no trail and cannot be tracked (although she can leave a trail if she so desires).
 

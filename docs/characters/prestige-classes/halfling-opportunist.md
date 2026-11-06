@@ -50,7 +50,7 @@ The halfling opportunist’s class skills are Acrobatics (Dex), Bluff (Cha), Cli
 
 **Exceptionally Lucky (Ex)**: Your halfling racial bonus on saving throws increases to +2 at 2nd level and +3 at 4th level.
 
-**Sneak Attack (Ex)**: This works like the rogue’s sneak attack. Your extra damage increases by +1d6 at 2nd level and again at 4th level (to +2d6). Sneak attack from other sources stacks with this.
+**Sneak Attack (Ex)**: This works like the [rogue’s sneak attack](../classes/rogue.md#sneak-attack). Your extra damage increases by +1d6 at 2nd level and again at 4th level (to +2d6). Sneak attack from other sources stacks with this.
 
 **Improved Trap Spotter (Ex)**: At 2nd level, the range of your trap spotter ability increases to 20 feet.
 

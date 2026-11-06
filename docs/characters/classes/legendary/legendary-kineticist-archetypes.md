@@ -288,7 +288,7 @@ An onslaught blast cannot have any form infusion which reduces the range of a bl
 
 ## Psychic Kineticist
 
-Some kineticists have the ability to cast a small number of psychic spells. Those who do are not as versatile as more traditional kineticists with their elements, but make up for it by being able to cast spells. These are the psychic kineticists.
+Some kineticists have the ability to cast a small number of [psychic spells](../psychic.md#spells). Those who do are not as versatile as more traditional kineticists with their elements, but make up for it by being able to cast spells. These are the psychic kineticists.
 
 **Class Skills**: Add Knowledge (arcana) and Spellcraft to the list of class skills.
 
@@ -334,7 +334,7 @@ While most kineticists channel elemental power through their bodies, rare kineti
 
 A psychokineticist uses their Wisdom modifier instead of their Constitution modifier to determine their damage with wild talents, the DCs of Constitution-based wild talents, the durations of wild talents with Constitution-based durations, their bonus on concentration checks for wild talents, and other Constitution-based effects of all their wild talents. They can’t use any of their wild talents whenever they would be unable to use a spell with an emotion component, and if they ever gain immunity to charm, compulsion, emotion effects (even if such immunity extends only to a subcategory of these effects like fear effects or compulsion effects from creatures of certain alignments), they lose all their kineticist abilities.
 
-This includes effects that they previously activated that normally last until the next time their burn is removed, like elemental defenses, though they still keep all their penalties from burn. They can always choose to ignore such immunities when they would normally gain them, even if they are granted by another class feature (such as the paladin’s aura of courage), but once they decides whether or not to ignore an immunity they would have gained, the choice cannot be changed. A psychokineticist adds Sense Motive to their list of class skills and gains Psychic Sensitivity as a bonus feat.
+This includes effects that they previously activated that normally last until the next time their burn is removed, like elemental defenses, though they still keep all their penalties from burn. They can always choose to ignore such immunities when they would normally gain them, even if they are granted by another class feature (such as the [paladin’s aura of courage](../paladin.md#aura-of-courage-su)), but once they decides whether or not to ignore an immunity they would have gained, the choice cannot be changed. A psychokineticist adds Sense Motive to their list of class skills and gains Psychic Sensitivity as a bonus feat.
 
 This alters the kineticist’s class skills and the key ability score of wild talents.
 
@@ -529,7 +529,7 @@ The surge fist monk’s signature technique
 involves drawing threads of latent elemental energy from the
 world around them and infusing it into concussive blasts.
 At 1st level, the surge fist monk selects an element, as per
-the kineticist’s elemental focus class feature, and learns one
+the [kineticist’s elemental focus](../kineticist.md#elemental-focus-su) class feature, and learns one
 simple blast from this element. Unlike a kineticist’s kinetic
 blast, the surge fist monk deals damage with this blast as
 if using an unarmed strike (adding their Wisdom modifier
@@ -604,7 +604,7 @@ This alters style strike.
 **Great Surge Fist (Ex)**
 
 At 10th level, the surge fist monk
-selects an element, as per the kineticist’s expanded element.
+selects an element, as per the [kineticist’s expanded element](../kineticist.md#expanded-element-su).
 If it is different from their primary element, they gain one of
 that element’s simple blasts; if it is the same element and has
 multiple associated simple blasts, they learn whichever they
@@ -813,7 +813,7 @@ Terrakineticists have a stunted ability that allows them to access the Elemental
 
 Whenever a terrakineticist gains a wild talent that isn’t a universal talent, they choose one wild talent of the appropriate level from each of six elements: aether, air, fire, earth, water, and wood. They can use wild talents of the same element that they chose in this way to meet prerequisites for these wild talents. Instead of gaining one kinetic blast, a terrakineticist chooses one simple blast from each element that has more than one simple blast.
 
-When in a corresponding terrain, as determined by the ranger favored terrain categories, their element changes to the corresponding element (granting them class skills, basic utility wild talent, simple blast, and elemental defense as appropriate), and they gain all the wild talents they selected from the corresponding element.
+When in a corresponding terrain, as determined by the [ranger favored terrain](../ranger.md#favored-terrain-ex) categories, their element changes to the corresponding element (granting them class skills, basic utility wild talent, simple blast, and elemental defense as appropriate), and they gain all the wild talents they selected from the corresponding element.
 
 Aether corresponds to urban and the Ethereal Plane; air corresponds to hill, mountain, plains, and the Plane of Air; fire corresponds to desert and the Plane of Fire; earth corresponds to underground and the Plane of Earth; water corresponds to cold, swamp, water, and the Plane of Water; and wood corresponds to forest, jungle, the fey realm, and the Positive Energy Plane. In areas that might count as multiple types of terrain, the GM decides which element predominates, and in certain areas not covered by the ranger favored terrains (such as the upper atmosphere) or in those with strong elemental energy (like an underground temple of a fire cult), the corresponding element might differ. If the kineticist class gains additional elements, those elements also gain corresponding terrains at the GM’s discretion, and the terrakineticist chooses wild talents from those elements.
 

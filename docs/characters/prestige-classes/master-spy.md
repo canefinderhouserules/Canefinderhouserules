@@ -49,7 +49,7 @@ The following are class features of the master spy prestige class.
 
 **Master of Disguise (Ex)**: A master spy can create a disguise in half the time normally required. In addition, any penalties from assuming a disguise of a different gender, race, age, or size are reduced by 1.
 
-**Sneak Attack (Ex)**: This ability is exactly like the rogue ability of the same name. The extra damage dealt increases by +1d6 at every third level (1st, 4th, 7th, and 10th). If a master spy gets a sneak attack bonus from another source, the bonuses on damage stack.
+**Sneak Attack (Ex)**: This ability is exactly like the [rogue ability](../classes/rogue.md#sneak-attack) of the same name. The extra damage dealt increases by +1d6 at every third level (1st, 4th, 7th, and 10th). If a master spy gets a sneak attack bonus from another source, the bonuses on damage stack.
 
 **Glib Lie (Su)**: A master spy of 2nd level or higher can deceive truth-detecting magic. A creature using this sort of magic against the spy must succeed on a caster level check against a DC of 15 + the master spy’s class level to succeed (as if she were under the effect of a glibness spell); failure means the magic doesn’t detect the spy’s lies or force her to speak only the truth. This ability does not give the master spy the glibness spell’s bonus on Bluff checks.
 

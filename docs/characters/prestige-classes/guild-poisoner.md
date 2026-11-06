@@ -65,10 +65,10 @@ The following are class features of the guild poisoner prestige class.
 
 - **Choking Bomb (Su)**: As the ninja trick, but with a DC as noted above.
 - **Combine Poison (Ex)**: A guild poisoner can combine two different poisons without reducing their efficacy, applying them to the same weapon, object, or trap. A creature exposed to the poisons must save against both.
-- **Concentrate Poison (Su)**: As the alchemist discovery.
+- **Concentrate Poison (Su)**: As the [alchemist discovery](../classes/alchemist.md#discovery-su).
 - **Launch Trap (Ex)**: As the ranger’s trapper archetype class feature.
 - **Poison Bomb (Ex or Su)**: As the ninja trick. A guild poisoner must possess the smoke bomb toxic trick before selecting this trick.
-- **Poison Conversion (Su)**: As the alchemist discovery.
+- **Poison Conversion (Su)**: As the [alchemist discovery](../classes/alchemist.md#discovery-su).
 - **Poison Trap (Ex or Su)**: As the ranger trap.
 - **Slow-Acting Poison (Ex)**: When crafting a poison, a guild poisoner may choose to create it with a delayed onset time. This delay must be at least 1 round but cannot be longer than 1 minute per class level.
 - **Smoke Bomb (Ex or Su)**: As the ninja trick, but no ki points are required.
@@ -79,7 +79,7 @@ The following are class features of the guild poisoner prestige class.
 
 **Trapster (Ex)**: At 3rd level, a guild poisoner adds her class level on Perception skill checks made to locate traps and on Craft and Disable Device checks made with poisonous traps. A guild poisoner also adds a +1 bonus on attack rolls, save DCs, and Perception and Disable Device DCs for poisoned traps she creates. This bonus increases by 1 at 6th level and again at 9th level.
 
-**Sneak Attack (Ex)**: This is exactly like the rogue ability of the same name. The extra damage dealt increases by +1d6 at 5th level and again at 10th. If a guild poisoner gets a sneak attack bonus from another source, the bonuses on damage stack.
+**Sneak Attack (Ex)**: This is exactly like the [rogue ability](../classes/rogue.md#sneak-attack) of the same name. The extra damage dealt increases by +1d6 at 5th level and again at 10th. If a guild poisoner gets a sneak attack bonus from another source, the bonuses on damage stack.
 
 **Treacherous Toxin (Ex)**: At 5th level, when a guild poisoner makes a sneak attack with a poisoned weapon, she may forgo some of her sneak attack damage to increase the save DC of her poison, increasing the poison’s save DC by 1 for every 1d6 points of sneak attack damage she forgoes.
 

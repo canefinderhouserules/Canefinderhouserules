@@ -1360,7 +1360,7 @@ You become immune to any magical effect that would detect that you are lying or 
 
 **Dance of Deceptions (Su)**
 
-At 16th level, creatures which have failed a Sense Motive check to discern one of your lies or a Perception check to see through one of your disguises within the last 24 hours take a -4 penalty on saving throws against you cleric spells.
+At 16th level, creatures which have failed a Sense Motive check to discern one of your lies or a Perception check to see through one of your disguises within the last 24 hours take a -4 penalty on saving throws against you [cleric spells](../cleric.md#spells).
 
 **Doctrine of Illusion**
 
@@ -1502,7 +1502,7 @@ At 16th level, you gain a +10 bonus to any CMB checks made as part of a kinetic 
 
 **Prerequisite:** Ability to cast divine spells
 
-**Benefit:** You form a powerful bond with a holy symbol, which functions identically to a wizard’s bonded object except it can be used to cast spells of your divine casting class (instead of wizard spells) and you can grant your bonded holy symbol only magic abilities appropriate for a holy symbol or a neck slot item. As with a wizard’s bonded item, you can add additional magic abilities to your bonded holy symbol as if he had the required item creation feat (typically Craft Wondrous Item), provided you meet the feat’s level prerequisites. The magic properties of a bonded holy symbol, including any magic abilities added to the object, function only for you. If a bonded holy symbol’s owner dies or the item is replaced, the object loses all enhancements added using this ability.
+**Benefit:** You form a powerful bond with a holy symbol, which functions identically to a wizard’s bonded object except it can be used to cast spells of your divine casting class (instead of [wizard spells](../wizard.md#spells)) and you can grant your bonded holy symbol only magic abilities appropriate for a holy symbol or a neck slot item. As with a wizard’s bonded item, you can add additional magic abilities to your bonded holy symbol as if he had the required item creation feat (typically Craft Wondrous Item), provided you meet the feat’s level prerequisites. The magic properties of a bonded holy symbol, including any magic abilities added to the object, function only for you. If a bonded holy symbol’s owner dies or the item is replaced, the object loses all enhancements added using this ability.
 
 ### Expanded Domain Magic
 

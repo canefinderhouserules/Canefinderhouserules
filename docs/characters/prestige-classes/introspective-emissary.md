@@ -41,7 +41,7 @@ The introspective emissary's class skills (and the key ability for each skill) a
 
 The following are class features of the introspective emissary prestige class.
 
-**Spirit Animal (Ex)**: An introspective emissary strengthens her bond to the spirit world by channeling additional divine power through her familiar or spirit animal. If she had a non-spirit-animal familiar before becoming an introspective emissary, she can select a single shaman spirit. Her familiar gains the spirit animal ability associated with that spirit.
+**Spirit Animal (Ex)**: An introspective emissary strengthens her bond to the spirit world by channeling additional divine power through her familiar or spirit animal. If she had a non-spirit-animal familiar before becoming an introspective emissary, she can select a single [shaman spirit](../classes/shaman.md#spirit-su). Her familiar gains the spirit animal ability associated with that spirit.
 
 If the introspective emissary had the spirit animal class feature before becoming an introspective emissary, her spirit animal grows in power and begins to manifest unnatural traits. The spirit animal gains 2 evolution points as if it were an eidolon and can use them to purchase eidolon evolutions from the following list: basic magic, climb, flight, gills, improved natural armor, magic attacks, minor magic, skilled, swim, tail, and unnatural aura. At 5th level, the introspective emissary’s spirit animal gains an additional evolution point. It can spend this point to gain an additional evolution, or it can freely reassign all of its points to purchase different evolutions. It also adds the following to its list of available evolutions: burrow, damage reduction, and major magic.
 
@@ -49,7 +49,7 @@ If the introspective emissary had the spirit animal class feature before becomin
 
 If an introspective emissary has neither the spirit class ability nor a spirit animal, she can select a single spirit from those available to the shaman upon gaining her 1st level of introspective emissary. She gains this spirit’s spirit ability. At 8th level, she also gains this spirit’s greater spirit ability.
 
-Spirit bond does not affect a shaman’s wandering spirit class ability.
+Spirit bond does not affect a [shaman’s wandering spirit](../classes/shaman.md#wandering-spirit-su) class ability.
 
 **Sixth Sense (Sp)**: An introspective emissary gains [*detect undead*](../../magic/spells/detect-undead.md) as a spell-like ability, usable a number of times per day equal to her introspective emissary level. At 2nd level, this spell-like ability also detects creatures of the fey type. The introspective emissary must continue concentrating to discern which auras are undead and which are fey, gaining this knowledge as she learns the strength and location of each aura on her third round of concentration. At 3rd level, this spell-like ability also detects creatures of the outsider type, also requiring concentration to distinguish between aura types.
 

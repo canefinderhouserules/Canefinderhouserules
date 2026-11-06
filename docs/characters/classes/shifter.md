@@ -101,7 +101,7 @@ The shifter can also use this ability to influence a magical beast with an Intel
 
 At 2nd level, when unarmored, not using a shield, unencumbered, and conscious, the shifter adds their Wisdom bonus (if any) to their AC and CMD. If they are wearing armor or using a shield, they instead add half their Wisdom bonus to their AC (minimum 0). In addition, the shifter gains a +1 bonus to their AC and CMD at 4th level. This bonus increases by 1 for every 4 shifter levels thereafter (up to a maximum of +5 at 20th level).
 
-These bonuses to AC apply even against touch attacks and when the shifter is flat-footed, they lose these bonuses when they are immobilized or helpless. These bonuses do not stack with the monk AC bonus class feature.
+These bonuses to AC apply even against touch attacks and when the shifter is flat-footed, they lose these bonuses when they are immobilized or helpless. These bonuses do not stack with the [monk AC bonus](monk.md#ac-bonus-ex) class feature.
 
 #### Track (Ex)
 

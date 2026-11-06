@@ -164,7 +164,7 @@ The following options can be taken in place of the legendary cleric’s blessing
 
 **A**: Bonus Feats- At 2nd level and every 8 levels thereafter, the legendary cleric gains a bonus feat from the following list: any channeling feat, any combat feat, any metamagic feat, Bonded Holy Symbol, [Command Undead](../../../rules/feats/command-undead.md), Expanded Domain Magic, Extra Faith, [Sacred Summons](../../../rules/feats/sacred-summons.md), [Turn Undead](../../../rules/feats/turn-undead.md), or [Warrior Priest](../../../rules/feats/warrior-priest.md). The legendary cleric does not need to meet any ability score prerequisites for these feats but must meet other prerequisites for them.
 
-**B**: Sacred Weapon (Su) At 2nd level, the legendary cleric selects one type of weapon that they are proficient with (which can be changed any time they level up) The legendary cleric can deal damage with this weapon based on the damage of the warpriest’s sacred weapon class feature, treating their legendary cleric level as their warpriest level.
+**B**: Sacred Weapon (Su) At 2nd level, the legendary cleric selects one type of weapon that they are proficient with (which can be changed any time they level up) The legendary cleric can deal damage with this weapon based on the damage of the [warpriest’s sacred weapon](../warpriest.md#sacred-weapon-su) class feature, treating their legendary cleric level as their warpriest level.
 
 #### Secondary Domain
 

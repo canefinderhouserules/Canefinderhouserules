@@ -62,7 +62,9 @@ A legendary investigator has a curious mind and may dabble in many disciplines, 
 
 Each courses of study provides a bonus equal to the legendary investigator level to a related skill notated under the course of study as the ‘focus skill.’
 
-**Power Source**: A legendary investigator chooses to mix extracts or to cast arcane, divine, or psychic spells as determined by their courses of study. The investigator can create only a certain number of extracts or cast a certain number of spells of each level per day. Their base daily allotment of extracts or spells is given on **Table: Investigator Spellcasting**. In addition, they receive bonus extracts or spells per day if they have a high Intelligence score, in the same way a wizard receives bonus spells per day.
+#### Power Source
+
+A legendary investigator chooses to mix extracts or to cast arcane, divine, or psychic spells as determined by their courses of study. The investigator can create only a certain number of extracts or cast a certain number of spells of each level per day. Their base daily allotment of extracts or spells is given on **Table: Investigator Spellcasting**. In addition, they receive bonus extracts or spells per day if they have a high Intelligence score, in the same way a wizard receives bonus spells per day.
 
 ## Power Sources
 
@@ -139,7 +141,7 @@ An investigator can also add formulae to their book just like a wizard adds spel
 
 ### Occult Power Source
 
-A legendary investigator casts psychic spells drawn from the medium, mesmerist, occultist, psychic, and spiritualist class spell lists. Only spells of 4th level or lower are considered to be part of the legendary investigator’s spell list. If a spell appears on more than one spell list, the investigator uses the lower of the two spell levels listed for the spell. For instance, charm monster is a 3rd-level mesmerist spell and a 5th-level psychic spell, making it a 3rd-level investigator spell.
+A legendary investigator casts [psychic spells](../psychic.md#spells) drawn from the medium, mesmerist, occultist, psychic, and spiritualist class spell lists. Only spells of 4th level or lower are considered to be part of the legendary investigator’s spell list. If a spell appears on more than one spell list, the investigator uses the lower of the two spell levels listed for the spell. For instance, charm monster is a 3rd-level mesmerist spell and a 5th-level psychic spell, making it a 3rd-level investigator spell.
 
 They can cast any spell they know without preparing it ahead of time. To learn or cast a spell, a legendary investigator must have an Intelligence score equal to at least 10 + the spell’s level. The saving throw DC against a legendary investigator’s spell is 10 + the spell’s level + the legendary investigator’s Intelligence modifier.
 
@@ -189,7 +191,7 @@ The bonuses gained from this ability stack with those gained from trap sense (if
 
 At 3rd level and every odd level thereafter, a legendary investigator gains an investigator talent using their legendary investigator level as their investigator level. Except where otherwise noted, each investigator talent can only be selected once.
 
-Investigator talents marked with an asterisk (*) add effects to an investigator’s studied combat or studied strike. Only one of these talents can be applied to an individual attack, but the decision can be made when the damage is dealt.
+Investigator talents marked with an asterisk (*) add effects to an [investigator’s studied combat](../investigator.md#studied-combat-ex) or studied strike. Only one of these talents can be applied to an individual attack, but the decision can be made when the damage is dealt.
 
 #### Keen Recollection (Ex)
 

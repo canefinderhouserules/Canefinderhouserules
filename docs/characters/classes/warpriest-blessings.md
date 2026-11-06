@@ -127,7 +127,7 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 **Hand of the Acolyte (minor)**: At 1st level, you can cause your melee weapon to fly from your grasp and strike an opponent, then instantly return to you. You can make a single attack using a melee weapon at a range of30 feet. This attack is treated as a ranged attack with a thrown weapon, except that you add your Wisdom modifier to the attack roll instead of your Dexterity modifier (you still add your Strength modifier to the damage roll as normal). This ability cannot be used to perform a combat maneuver.
 
-**Blessed Magic (major)**: At 10th level, you can cast a prepared warpriest spell without expending its spell slot. The spell must have a casting time of 1 standard action and must use a spell slot that is at least 3 spell levels lower than the highest warpriest spell level you can cast. In addition, the spell must be one that damages a creature or causes a creature to take penalties (such as inflict light wounds or bane). For example, if you are 10th level and can cast 4th-level warpriest spells, you could use this blessing to cast a 1st-level warpriest spell without expending its spell slot.
+**Blessed Magic (major)**: At 10th level, you can cast a prepared warpriest spell without expending its spell slot. The spell must have a casting time of 1 standard action and must use a spell slot that is at least 3 spell levels lower than the highest warpriest spell level you can cast. In addition, the spell must be one that damages a creature or causes a creature to take penalties (such as inflict light wounds or bane). For example, if you are 10th level and can cast 4th-level [warpriest spells](warpriest.md#spells), you could use this blessing to cast a 1st-level warpriest spell without expending its spell slot.
 
 ## Nobility Blessing
 
@@ -260,7 +260,7 @@ Focused blessings are more specific blessings bestowed upon a warpriest by his d
 
 Each focused blessing grants either a minor blessing or a major blessing that replaces the associated blessing’s respective minor blessing or major blessing. If a warpriest selects a focused blessing, he cannot select its associated blessing as his other blessing choice (in effect, the focused blessing replaces its associated blessing). A focused blessing is treated as equivalent to its associated blessing for any effect or prerequisite based on blessings. A focused blessing can be selected by a character of any class that grants the warpriest’s blessing class feature, provided his deity allows the focused blessing (subject to the GM’s discretion).
 
-If a warpriest with a focused blessing or blessings also has levels in a class that grants cleric domains, the associated blessing or blessings must match the domain selected by that class. Subject to the GM’s discretion, the warpriest can change his previously selected associated blessings or domains to make all of them conform.
+If a warpriest with a focused blessing or blessings also has levels in a class that grants [cleric domains](cleric.md#domains_1), the associated blessing or blessings must match the domain selected by that class. Subject to the GM’s discretion, the warpriest can change his previously selected associated blessings or domains to make all of them conform.
 
 If a focused blessing ability calls for a saving throw, the DC of the save is equal to 10 + 1/2 the character’s warpriest level + his Wisdom modifier.
 

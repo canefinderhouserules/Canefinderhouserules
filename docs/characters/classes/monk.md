@@ -16,7 +16,9 @@ The monk’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Escape
 
 All of the following are class features of the monk.
 
-**Weapon and Armor Proficiency**: Monks are proficient with the [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), crossbow (light or heavy), [dagger](../../equipment/weapons-simple.md#simple-light-melee-weapons), [handaxe](../../equipment/weapons-martial.md#martial-light-melee-weapons), [javelin](../../equipment/weapons-simple.md#simple-ranged-weapons), [kama](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [nunchaku](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), [sai](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [shortspear](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons), [shuriken](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [siangham](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [sling](../../equipment/weapons-simple.md#simple-ranged-weapons), and [spear](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons).
+### Weapon and Armor Proficiency
+
+Monks are proficient with the [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), crossbow (light or heavy), [dagger](../../equipment/weapons-simple.md#simple-light-melee-weapons), [handaxe](../../equipment/weapons-martial.md#martial-light-melee-weapons), [javelin](../../equipment/weapons-simple.md#simple-ranged-weapons), [kama](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [nunchaku](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), [sai](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [shortspear](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons), [shuriken](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [siangham](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [sling](../../equipment/weapons-simple.md#simple-ranged-weapons), and [spear](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons).
 
 Monks are not proficient with any armor or [shields](../../equipment/armor.md).
 
@@ -25,11 +27,15 @@ When wearing armor, using a shield, or carrying a medium or heavy load, a monk l
 !!! warning "House rule (monk anti-dip)"
     At **1st level** a monk gains only **Stunning Fist** and **Unarmed Strike**. **Wisdom to AC, Flurry of Blows** and the monk's **first bonus feat** are gained at **2nd level**. Anything in an archetype that replaces these features is delayed to 2nd level as well.
 
-**AC Bonus (Ex)**: Starting at 2nd level, when unarmored and unencumbered, the monk adds his Wisdom bonus (if any) to his AC and his CMD. In addition, a monk gains a +1 bonus to AC and CMD at 4th level. This bonus increases by 1 for every four monk levels thereafter, up to a maximum of +5 at 20th level.
+### AC Bonus (Ex)
+
+Starting at 2nd level, when unarmored and unencumbered, the monk adds his Wisdom bonus (if any) to his AC and his CMD. In addition, a monk gains a +1 bonus to AC and CMD at 4th level. This bonus increases by 1 for every four monk levels thereafter, up to a maximum of +5 at 20th level.
 
 These bonuses to AC apply even against touch attacks or when the monk is flat-footed. He loses these bonuses when he is immobilized or helpless, when he wears any armor, when he carries a shield, or when he carries a medium or heavy load.
 
-**Flurry of Blows (Ex)**: Starting at 2nd level, a monk can make a flurry of blows as a full-attack action. When doing so he may make one additional attack using any combination of unarmed strikes or attacks with a special monk weapon (kama, nunchaku, quarterstaff, sai, shuriken, and siangham) as if using the [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md) feat (even if the monk does not meet the prerequisites for the feat). For the purpose of these attacks, the monk’s base attack bonus from his monk class levels is equal to his monk level. For all other purposes, such as qualifying for a feat or a prestige class, the monk uses his normal base attack bonus.
+### Flurry of Blows (Ex)
+
+Starting at 2nd level, a monk can make a flurry of blows as a full-attack action. When doing so he may make one additional attack using any combination of unarmed strikes or attacks with a special monk weapon (kama, nunchaku, quarterstaff, sai, shuriken, and siangham) as if using the [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md) feat (even if the monk does not meet the prerequisites for the feat). For the purpose of these attacks, the monk’s base attack bonus from his monk class levels is equal to his monk level. For all other purposes, such as qualifying for a feat or a prestige class, the monk uses his normal base attack bonus.
 
 At 8th level, the monk can make two additional attacks when he uses flurry of blows, as if using Improved Two-Weapon Fighting (even if the monk does not meet the prerequisites for the feat).
 
@@ -64,7 +70,9 @@ A monk applies his full Strength bonus to his damage rolls for all successful at
 
 weapons cannot use such weapons as part of a flurry of blows, nor can he make natural attacks in addition to his flurry of blows attacks.
 
-**Unarmed Strike**: At 1st level, a monk gains [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat. A monk’s attacks may be with fist, elbows, knees, and feet. This means that a monk may make unarmed strikes with his hands full. There is no such thing as an off-hand attack for a monk striking unarmed. A monk may thus apply his full Strength bonus on damage rolls for all his unarmed strikes.
+### Unarmed Strike
+
+At 1st level, a monk gains [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat. A monk’s attacks may be with fist, elbows, knees, and feet. This means that a monk may make unarmed strikes with his hands full. There is no such thing as an off-hand attack for a monk striking unarmed. A monk may thus apply his full Strength bonus on damage rolls for all his unarmed strikes.
 
 Usually a monk’s unarmed strikes deal lethal damage, but he can choose to deal nonlethal damage instead with no penalty on his attack roll. He has the same choice to deal lethal or nonlethal damage while grappling.
 

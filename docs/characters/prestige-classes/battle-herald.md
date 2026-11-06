@@ -103,17 +103,17 @@ Shake It Off*: One ally subject to an ongoing condition may attempt a new saving
 
 **Voice of Authority (Ex)**: A battle herald is skilled at shouting commands over the din of the battlefield and signaling allies when speech is impossible. She gains a +2 bonus on Diplomacy and Intimidate checks with creatures with which she shares a language. In addition, her allies gain a bonus equal to the battle herald’s class level on Perception or Sense Motive checks to hear her commands or interpret her secret messages conveyed with Bluff.
 
-The battle herald’s levels stack with cavalier levels for the purpose of the cavalier’s tactician ability.
+The battle herald’s levels stack with cavalier levels for the purpose of the [cavalier’s tactician](../classes/cavalier.md#tactician-ex) ability.
 
 **Easy March (Ex)**: At 2nd level, allies within 60 feet of the battle herald can hustle or force march during overland travel without ill effects for a number of hours per day equal to 1 hour times her inspiring command bonus.
 
 **Inspire Greatness (Ex)**: At 4th level, a battle herald may use her inspiring command ability to inspire greatness (as the 9th-level bardic performance ability). This ability affects one creature at 4th level, two at 7th, and three at 10th.
 
-**Banner (Ex)**: At 5th level, a battle herald may fly a battle standard that inspires her allies. This ability is identical to the cavalier’s banner ability, and cavalier levels stack with battle herald levels to determine the bonuses provided by the banner.
+**Banner (Ex)**: At 5th level, a battle herald may fly a battle standard that inspires her allies. This ability is identical to the [cavalier’s banner](../classes/cavalier.md#banner-ex) ability, and cavalier levels stack with battle herald levels to determine the bonuses provided by the banner.
 
-**Teamwork Feat**: At 6th level, a battle herald receives a teamwork feat as a bonus feat. She must meet the prerequisites for this feat. She can use her cavalier tactician ability as a move action to grant this feat to allies (if she has the cavalier greater tactician ability, this is a swift action).
+**Teamwork Feat**: At 6th level, a battle herald receives a teamwork feat as a bonus feat. She must meet the prerequisites for this feat. She can use her [cavalier tactician](../classes/cavalier.md#tactician-ex) ability as a move action to grant this feat to allies (if she has the [cavalier greater tactician](../classes/cavalier.md#greater-tactician-ex) ability, this is a swift action).
 
-**Demanding Challenge (Ex)**: This ability is identical to the 12th-level cavalier demanding challenge ability.
+**Demanding Challenge (Ex)**: This ability is identical to the 12th-level [cavalier demanding challenge](../classes/cavalier.md#demanding-challenge-ex) ability.
 
 **Persistent Commands (Ex)**: At 8th level, a battle herald may allow her inspiring commands to persist even if she is incapacitated and unable to maintain them. If the player chooses, the effects of the battle herald’s inspiring commands persist for a number of rounds equal to her Charisma bonus (these count toward her number of rounds per day limit). This ability does not apply if the battle herald intentionally stops maintaining an inspiring command—only if she is dazed, held, stunned, killed, and so on, and is unable to maintain them. If the battle herald recovers from incapacity while an inspiring command is ongoing, she may resume maintaining it as a free action.
 

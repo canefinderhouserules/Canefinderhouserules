@@ -56,15 +56,23 @@ Masters of hidden lore, kinetic shinobi are blessed with an abundance of element
 
 The following are class features of the kinetic shinobi.
 
-**Weapon and Armor Proficiencies:** Kinetic Shinobi are proficient with all [simple weapons](../../../equipment/weapons-simple.md), plus the [kama](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [katana](../../../equipment/weapons-eastern.md#exotic-one-handed-melee-weapons), [kusarigama](../../../equipment/weapons-eastern.md#exotic-two-handed-melee-weapons-part-1), [kyoketsu shoge](../../../equipment/weapons-eastern.md#exotic-two-handed-melee-weapons-part-1), [nunchaku](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [sai](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [shortbow](../../../equipment/weapons-martial.md#martial-ranged-weapons), [short sword](../../../equipment/weapons-martial.md#martial-light-melee-weapons), [shuriken](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [siangham](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), and [wakizashi](../../../equipment/weapons-eastern.md#exotic-light-melee-weapons). They are proficient with [light armor](../../../equipment/armor.md) but not with [shields](../../../equipment/armor.md).
+### Weapon and Armor Proficiencies
 
-**Elemental Basics (Su):** At 1st level, a kinetic shinobi gains the elemental focus and kinetic blast class features of a kineticist equal to their kinetic shinobi level. A kinetic shinobi cannot use their kinetic blast without applying either the physical jutsu or elemental jutsu form infusion to it. A kinetic shinobi uses their Charisma modifier instead of their Constitution modifier to determine the DCs and Constitution-dependent effects of their wild talents. If the kinetic shinobi takes levels in another class that grants an elemental focus, the elemental focuses must be the same type, even if that means that the elemental focus of one of the classes must change.
+Kinetic Shinobi are proficient with all [simple weapons](../../../equipment/weapons-simple.md), plus the [kama](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [katana](../../../equipment/weapons-eastern.md#exotic-one-handed-melee-weapons), [kusarigama](../../../equipment/weapons-eastern.md#exotic-two-handed-melee-weapons-part-1), [kyoketsu shoge](../../../equipment/weapons-eastern.md#exotic-two-handed-melee-weapons-part-1), [nunchaku](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [sai](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [shortbow](../../../equipment/weapons-martial.md#martial-ranged-weapons), [short sword](../../../equipment/weapons-martial.md#martial-light-melee-weapons), [shuriken](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [siangham](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), and [wakizashi](../../../equipment/weapons-eastern.md#exotic-light-melee-weapons). They are proficient with [light armor](../../../equipment/armor.md) but not with [shields](../../../equipment/armor.md).
+
+### Elemental Basics (Su)
+
+At 1st level, a kinetic shinobi gains the elemental focus and kinetic blast class features of a kineticist equal to their kinetic shinobi level. A kinetic shinobi cannot use their kinetic blast without applying either the physical jutsu or elemental jutsu form infusion to it. A kinetic shinobi uses their Charisma modifier instead of their Constitution modifier to determine the DCs and Constitution-dependent effects of their wild talents. If the kinetic shinobi takes levels in another class that grants an elemental focus, the elemental focuses must be the same type, even if that means that the elemental focus of one of the classes must change.
 
 ***See:** Kineticist Element*
 
-**Jutsu Basics (Su):** A kinetic shinobi gains following infusions: Physical Jutsu and Elemental Jutsu
+### Jutsu Basics (Su)
 
-**Shinobi Talents (Ex):** At 1st level, and every 2 levels thereafter, the kinetic shinobi gains a shinobi talent of their choice for which they qualify. A kinetic shinobi can possess a shinobi talent which requires them spend or possess points in a *ki* pool even if they don’t have one, but cannot utilize such a talent unless they have a *ki* pool.
+A kinetic shinobi gains following infusions: Physical Jutsu and Elemental Jutsu
+
+### Shinobi Talents (Ex)
+
+At 1st level, and every 2 levels thereafter, the kinetic shinobi gains a shinobi talent of their choice for which they qualify. A kinetic shinobi can possess a shinobi talent which requires them spend or possess points in a *ki* pool even if they don’t have one, but cannot utilize such a talent unless they have a *ki* pool.
 
 ***See:** Kinetic Shinobi Talent*
 
@@ -74,7 +82,9 @@ By spending 1 point from their *ki* pool, a kinetic shinobi gains either a +1 to
 
 The *ki* pool is replenished each morning after 8 hours of rest or meditation; these hours do not need to be consecutive. If the kinetic shinobi possesses levels in another class that grants points to a *ki* pool, kinetic shinobi levels stack with the levels of that class to determine the total number of *ki* points in the combined pool, but only one ability score modifier is added to the total. The choice of which score to use is made when the second class ability is gained, and once made, the choice is set. The kinetic shinobi can now use *ki* points from this pool to power the abilities of every class they possess that grants a *ki* pool.
 
-**Hadou Techniques (Su):** At 2nd level, a kinetic shinobi can draw on their own *ki* to perform amazing feats with their kinetic blast. As long as they have 1 or more points in their *ki* pool, they gain access to the following basic hadou techniques:
+### Hadou Techniques (Su)
+
+At 2nd level, a kinetic shinobi can draw on their own *ki* to perform amazing feats with their kinetic blast. As long as they have 1 or more points in their *ki* pool, they gain access to the following basic hadou techniques:
 
 - *Dual Jutsu (Su):*A kinetic shinobi can create two light weapons with their kinetic blast, allowing them to make attacks with both as though fighting with two weapons.
 
@@ -84,21 +94,33 @@ The *ki* pool is replenished each morning after 8 hours of rest or meditation; t
 
 Only one hadou technique can be applied to a kinetic blast at a time, regardless of the type of attack made when using it.
 
-**Sneak Attack (Ex):** At 2nd level, if a kinetic shinobi catches an opponent unable to defend itself effectively from their attack, they can strike a vital spot for extra damage. The kinetic shinobi’s attack deals extra damage anytime their target would be denied a Dexterity bonus to AC (whether the target actually has a Dexterity bonus or not), or when the kinetic shinobi flanks their target. This additional damage is 1d6 at 2nd level, and increases by 1d6 every 3 levels thereafter. Should the kinetic shinobi score a critical hit with a sneak attack, this additional damage is not multiplied. Ranged attacks can count as sneak attacks only if the target is within 30 feet.
+### Sneak Attack (Ex)
+
+At 2nd level, if a kinetic shinobi catches an opponent unable to defend itself effectively from their attack, they can strike a vital spot for extra damage. The kinetic shinobi’s attack deals extra damage anytime their target would be denied a Dexterity bonus to AC (whether the target actually has a Dexterity bonus or not), or when the kinetic shinobi flanks their target. This additional damage is 1d6 at 2nd level, and increases by 1d6 every 3 levels thereafter. Should the kinetic shinobi score a critical hit with a sneak attack, this additional damage is not multiplied. Ranged attacks can count as sneak attacks only if the target is within 30 feet.
 
 With a weapon that deals nonlethal damage (like a sap, whip, or unarmed strike), a kinetic shinobi can make a sneak attack that deals nonlethal damage instead of lethal damage. They cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack, not even with the usual –4 penalty.
 
 The kinetic shinobi must be able to see the target well enough to pick out a vital spot and must be able to reach such a spot. A kinetic shinobi cannot sneak attack while striking a creature with total concealment.
 
-**No Trace (Ex):** At 3rd level, a kinetic shinobi learns to cover their tracks, remain hidden, and conceal their presence. The DC to track a kinetic shinobi using the Survival skill increases by +1. In addition, their training gives them a +1 insight bonus on Disguise skill checks and on opposed Stealth checks whenever they are stationary and do not take any action for at least 1 round. Every three levels thereafter, the increase to Survival DCs and the bonuses on Disguise and opposed Stealth checks increase by 1.
+### No Trace (Ex)
 
-**Gather Power (Su):** At 4th level, a kinetic shinobi can gather energy or elemental matter as a move action by making a series of gestures with one hand. Gathering power creates an extremely loud, visible display in a 20- foot radius centered on the kinetic shinobi, as the energy or matter swirls around them. Gathering power in this way allows the kinetic shinobi to pay 1 less point from their *ki* pool when using their kinetic blast in the same round. They can instead gather power for 1 full round in order to pay 2 fewer points from their *ki* pool when using their kinetic blast on their next turn (to a minimum of 0 points). If they do so, she can also gather power as a move action during their next turn to reduce the *ki* cost by a total of 3 points. If the kinetic shinobi takes damage during or after gathering power and before using the kinetic blast that releases it, they must succeed at a concentration check (DC = 10 + damage taken + 1/2 their kinetic shinobi level) or lose the energy in a wild surge that prevents them from gathering energy again for 10 minutes per point by which their gathered power would have reduced the burn cost. This ability can never reduce the *ki* cost of their kinetic blast below 0 points.
+At 3rd level, a kinetic shinobi learns to cover their tracks, remain hidden, and conceal their presence. The DC to track a kinetic shinobi using the Survival skill increases by +1. In addition, their training gives them a +1 insight bonus on Disguise skill checks and on opposed Stealth checks whenever they are stationary and do not take any action for at least 1 round. Every three levels thereafter, the increase to Survival DCs and the bonuses on Disguise and opposed Stealth checks increase by 1.
 
-**Ninjutsu Training (Su):** At 4th level and every 8 levels thereafter, a kinetic shinobi gains a substance infusion wild talent, treating their kinetic shinobi level as their kineticist level for the purposes of qualifying for it. If the infusion would require them to accept burn, they instead spend a number of *ki* points equal to its burn cost. At 6th level and every 4 levels after, a kinetic shinobi can swap any substance infusion wild talent they possess for a new one for which they qualify.
+### Gather Power (Su)
 
-**Ninjutsu Specialist (Ex):** At 4th level, whenever a kinetic shinobi uses one or more infusions with their kinetic blast, they reduce the combined burn cost of the infusions by 1. This can’t reduce the total cost of the infusions used below 0. They reduce the burn cost by an additional 1 at 10th level and again at 16th.
+At 4th level, a kinetic shinobi can gather energy or elemental matter as a move action by making a series of gestures with one hand. Gathering power creates an extremely loud, visible display in a 20- foot radius centered on the kinetic shinobi, as the energy or matter swirls around them. Gathering power in this way allows the kinetic shinobi to pay 1 less point from their *ki* pool when using their kinetic blast in the same round. They can instead gather power for 1 full round in order to pay 2 fewer points from their *ki* pool when using their kinetic blast on their next turn (to a minimum of 0 points). If they do so, she can also gather power as a move action during their next turn to reduce the *ki* cost by a total of 3 points. If the kinetic shinobi takes damage during or after gathering power and before using the kinetic blast that releases it, they must succeed at a concentration check (DC = 10 + damage taken + 1/2 their kinetic shinobi level) or lose the energy in a wild surge that prevents them from gathering energy again for 10 minutes per point by which their gathered power would have reduced the burn cost. This ability can never reduce the *ki* cost of their kinetic blast below 0 points.
 
-**Metajutsu (Su):** At 6th level, a kinetic shinobi gains the ability to alter their kinetic blast as if with metamagic feats by spending additional points from their *ki* pool. By spending 1 point from their *ki* pool they can double the duration of effects caused by their kinetic blast, as if using [Extend Spell](../../../rules/feats/extend-spell.md).
+### Ninjutsu Training (Su)
+
+At 4th level and every 8 levels thereafter, a kinetic shinobi gains a substance infusion wild talent, treating their kinetic shinobi level as their kineticist level for the purposes of qualifying for it. If the infusion would require them to accept burn, they instead spend a number of *ki* points equal to its burn cost. At 6th level and every 4 levels after, a kinetic shinobi can swap any substance infusion wild talent they possess for a new one for which they qualify.
+
+### Ninjutsu Specialist (Ex)
+
+At 4th level, whenever a kinetic shinobi uses one or more infusions with their kinetic blast, they reduce the combined burn cost of the infusions by 1. This can’t reduce the total cost of the infusions used below 0. They reduce the burn cost by an additional 1 at 10th level and again at 16th.
+
+### Metajutsu (Su)
+
+At 6th level, a kinetic shinobi gains the ability to alter their kinetic blast as if with metamagic feats by spending additional points from their *ki* pool. By spending 1 point from their *ki* pool they can double the duration of effects caused by their kinetic blast, as if using [Extend Spell](../../../rules/feats/extend-spell.md).
 
 At 10th level they can spend 2 points from their *ki* pool to maximize their kinetic blast, as if using [Maximize Spell](../../../rules/feats/maximize-spell.md).
 
@@ -106,9 +128,13 @@ At 14th level they can spend 3 points from their *ki* pool to force the target t
 
 At 18th level they can spend 4 points from their *ki* pool to have their kinetic blast become penetrating. It ignores up to 10 DR or energy resistance, completely ignores spell resistance, and treats energy immunity as if it was that type of energy resistance 20. For example, if a creature has DR 15/ bludgeoning and the kinetic shinobi’s kinetic blast does not deal bludgeoning damage, they treat it as DR 5/bludgeoning instead, and if the kinetic shinobi’s kinetic blast deals fire damage, it treats fire resist 20 as fire resist 10 and treats fire immunity as fire resist 20.
 
-**Evasion (Ex):** At 7th level and higher, a kinetic shinobi can avoid even magical and unusual attacks with great agility. If they make a successful Reflex saving throw against an attack that normally deals half damage on a successful save, they instead take no damage. Evasion can be used only if the kinetic shinobi is wearing light armor or no armor. A helpless kinetic shinobi does not gain the benefit of evasion.
+### Evasion (Ex)
 
-**Jutsu Genius (Su):** At 20th level, the cost of each of the kinetic shinobi’s metajutsu abilities is reduced by 1 point. In addition, when they would deal sneak attack damage with an attack to a creature possessing at least half as many hit dice as their character level, they can instead forgo the sneak attack damage to recover 2 points in their *ki* pool. Once a creature is affected by this ability they cannot be affected by it again for 24 hours.
+At 7th level and higher, a kinetic shinobi can avoid even magical and unusual attacks with great agility. If they make a successful Reflex saving throw against an attack that normally deals half damage on a successful save, they instead take no damage. Evasion can be used only if the kinetic shinobi is wearing light armor or no armor. A helpless kinetic shinobi does not gain the benefit of evasion.
+
+### Jutsu Genius (Su)
+
+At 20th level, the cost of each of the kinetic shinobi’s metajutsu abilities is reduced by 1 point. In addition, when they would deal sneak attack damage with an attack to a creature possessing at least half as many hit dice as their character level, they can instead forgo the sneak attack damage to recover 2 points in their *ki* pool. Once a creature is affected by this ability they cannot be affected by it again for 24 hours.
 
 ### Kinetic Shinobi Infusions
 

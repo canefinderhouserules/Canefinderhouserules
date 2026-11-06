@@ -512,7 +512,7 @@ This ability replaces grit.
 
 **Drunken Deeds (Ex)**
 
-A rumslinger gains access to a handful of unique deeds that replace some of the standard gunslinger deeds.
+A rumslinger gains access to a handful of unique deeds that replace some of the standard [gunslinger deeds](../gunslinger.md#deeds).
 
 *Wobbling Shot*: At 7th level, a rumslinger can spend 1 point of drunken grit as a swift action to roll twice on an attack roll and choose the higher of the two results. At 12th level, the gunslinger may spend 2 drunken grit points to roll three times on an attack roll. At 17th level, the gunslinger may spend 4 drunken grit points to gain the benefit of true strike instead of rolling multiple times on the attack roll. The gunslinger must have at least 1 drunken grit point to use this ability. This deed replaces dead shot.
 

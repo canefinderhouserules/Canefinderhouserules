@@ -42,9 +42,13 @@ The wizard’s class skills are Appraise (Int), Craft (Int), Fly (Dex), Knowledg
 
 The following are the class features of the wizard.
 
-**Weapon and Armor Proficiency**: Wizards are proficient with the [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [dagger](../../equipment/weapons-simple.md#simple-light-melee-weapons), [heavy crossbow](../../equipment/weapons-simple.md#simple-ranged-weapons), [light crossbow](../../equipment/weapons-simple.md#simple-ranged-weapons), and [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), but not with any type of armor or shield. Armor interferes with a wizard’s movements, which can cause his spells with somatic components to fail.
+### Weapon and Armor Proficiency
 
-**Spells**: A wizard casts arcane spells drawn from the sorcerer/wizard spell list presented in Chapter 10. A wizard must choose and prepare his spells ahead of time.
+Wizards are proficient with the [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [dagger](../../equipment/weapons-simple.md#simple-light-melee-weapons), [heavy crossbow](../../equipment/weapons-simple.md#simple-ranged-weapons), [light crossbow](../../equipment/weapons-simple.md#simple-ranged-weapons), and [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), but not with any type of armor or shield. Armor interferes with a wizard’s movements, which can cause his spells with somatic components to fail.
+
+### Spells
+
+A wizard casts arcane spells drawn from the sorcerer/wizard spell list presented in Chapter 10. A wizard must choose and prepare his spells ahead of time.
 
 To learn, prepare, or cast a spell, the wizard must have an Intelligence score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a wizard’s spell is 10 + the spell level + the wizard’s Intelligence modifier.
 
@@ -52,9 +56,13 @@ A wizard can cast only a certain number of spells of each spell level per day. H
 
 A wizard may know any number of spells. He must choose and prepare his spells ahead of time by getting 8 hours of sleep and spending 1 hour studying his spellbook. While studying, the wizard decides which spells to prepare.
 
-**Bonus Languages**: A wizard may substitute Draconic for one of the bonus languages available to the character because of his race.
+### Bonus Languages
 
-**Arcane Bond (Ex or Sp)**: At 1st level, wizards form a powerful bond with an object or a creature. This bond can take one of two forms: a familiar or a bonded object. A familiar is a magical pet that enhances the wizard’s skills and senses and can aid him in magic, while a bonded object is an item a wizard can use to cast additional spells or to serve as a magical item. Once a wizard makes this choice, it is permanent and cannot be changed. Rules for familiars appear in the wizard rules (see also [Archetype and Class Changes](archetype-changes.md)), while rules for bonded items are given below.
+A wizard may substitute Draconic for one of the bonus languages available to the character because of his race.
+
+### Arcane Bond (Ex or Sp)
+
+At 1st level, wizards form a powerful bond with an object or a creature. This bond can take one of two forms: a familiar or a bonded object. A familiar is a magical pet that enhances the wizard’s skills and senses and can aid him in magic, while a bonded object is an item a wizard can use to cast additional spells or to serve as a magical item. Once a wizard makes this choice, it is permanent and cannot be changed. Rules for familiars appear in the wizard rules (see also [Archetype and Class Changes](archetype-changes.md)), while rules for bonded items are given below.
 
 Wizards who select a bonded object begin play with one at no cost. Objects that are the subject of an arcane bond must fall into one of the following categories: amulet, ring, staff, wand, or weapon. These objects are always masterwork quality. Weapons acquired at 1st level are not made of any special material. If the object is an amulet or ring, it must be worn to have effect, while staves, wands, and weapons must be wielded. If a wizard attempts to cast a spell without his bonded object worn or in hand, he must make a concentration check or lose the spell. The DC for this check is equal to 20 + the spell’s level. If the object is a ring or amulet, it occupies the ring or neck slot accordingly.
 
@@ -64,19 +72,29 @@ A wizard can add additional magic abilities to his bonded object as if he has th
 
 If a bonded object is damaged, it is restored to full hit points the next time the wizard prepares his spells. If the object of an arcane bond is lost or destroyed, it can be replaced after 1 week in a special ritual that costs 200 gp per wizard level plus the cost of the masterwork item. This ritual takes 8 hours to complete. Items replaced in this way do not possess any of the additional enchantments of the previous bonded item. A wizard can designate an existing magic item as his bonded item. This functions in the same way as replacing a lost or destroyed item except that the new magic item retains its abilities while gaining the benefits and drawbacks of becoming a bonded item.
 
-**Arcane School**: A wizard can choose to specialize in one school of magic, gaining additional spells and powers based on that school. This choice must be made at 1st level, and once made, it cannot be changed. A wizard that does not select a school receives the universalist school instead.
+### Arcane School
+
+A wizard can choose to specialize in one school of magic, gaining additional spells and powers based on that school. This choice must be made at 1st level, and once made, it cannot be changed. A wizard that does not select a school receives the universalist school instead.
 
 A wizard that chooses to specialize in one school of magic must select two other schools as his opposition schools, representing knowledge sacrificed in one area of arcane lore to gain mastery in another. A wizard who prepares spells from his opposition schools must use two spell slots of that level to prepare the spell. For example, a wizard with evocation as an opposition school must expend two of his available 3rd-level spell slots to prepare a [*fireball*](../../magic/spells/fireball.md). In addition, a specialist takes a –4 penalty on any skill checks made when crafting a magic item that has a spell from one of his opposition schools as a prerequisite. A universalist wizard can prepare spells from any school without restriction.
 
 Each arcane school gives the wizard a number of school powers. In addition, specialist wizards receive an additional spell slot of each spell level he can cast, from 1st on up. Each day, a wizard can prepare a spell from his specialty school in that slot. This spell must be in the wizard’s spellbook. A wizard can select a spell modified by a metamagic feat to prepare in his school slot, but it uses up a higher-level spell slot. Wizards with the universalist school do not receive a school slot.
 
-**Cantrips:** Wizards can prepare a number of cantrips, or 0-level spells, each day, as noted on Table 3–16 under “Spells per Day.” These spells are cast like any other spell, but they are not expended when cast and may be used again. A wizard can prepare a cantrip from an opposed school, but it uses up two of his available slots (see below).
+### Cantrips
 
-**Scribe Scroll**: At 1st level, a wizard gains [Scribe Scroll](../../rules/feats/scribe-scroll.md) as a bonus feat.
+Wizards can prepare a number of cantrips, or 0-level spells, each day, as noted on Table 3–16 under “Spells per Day.” These spells are cast like any other spell, but they are not expended when cast and may be used again. A wizard can prepare a cantrip from an opposed school, but it uses up two of his available slots (see below).
 
-**Bonus Feats**: At 5th, 10th, 15th, and 20th level, a wizard gains a bonus feat. At each such opportunity, he can choose a metamagic feat, an item creation feat, or [Spell Mastery](../../rules/feats/spell-mastery.md). The wizard must still meet all prerequisites for a bonus feat, including caster level minimums. These bonus feats are in addition to the feats that a character of any class gets from advancing levels. The wizard is not limited to the categories of item creation feats, metamagic feats, or Spell Mastery when choosing those feats.
+### Scribe Scroll
 
-**Spellbooks**: A wizard must study his spellbook each day to prepare his spells. He cannot prepare any spell not recorded in his spellbook, except for [*read magic*](../../magic/spells/read-magic.md), which all wizards can prepare from memory.
+At 1st level, a wizard gains [Scribe Scroll](../../rules/feats/scribe-scroll.md) as a bonus feat.
+
+### Bonus Feats
+
+At 5th, 10th, 15th, and 20th level, a wizard gains a bonus feat. At each such opportunity, he can choose a metamagic feat, an item creation feat, or [Spell Mastery](../../rules/feats/spell-mastery.md). The wizard must still meet all prerequisites for a bonus feat, including caster level minimums. These bonus feats are in addition to the feats that a character of any class gets from advancing levels. The wizard is not limited to the categories of item creation feats, metamagic feats, or Spell Mastery when choosing those feats.
+
+### Spellbooks
+
+A wizard must study his spellbook each day to prepare his spells. He cannot prepare any spell not recorded in his spellbook, except for [*read magic*](../../magic/spells/read-magic.md), which all wizards can prepare from memory.
 
 A wizard begins play with a spellbook containing all 0-level wizard spells (except those from his opposed schools, if any; see Arcane Schools) plus three 1st-level spells of his choice. The wizard also selects a number of additional 1st-level spells equal to his Intelligence modifier to add to the spellbook. At each new wizard level, he gains two new spells of any spell level or levels that he can cast (based on his new wizard level) for his spellbook. At any time, a wizard can also add spells found in other wizards’ spellbooks to his own.
 

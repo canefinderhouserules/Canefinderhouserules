@@ -158,7 +158,7 @@ Activating a fetter is a standard action that provokes attacks of opportunity, a
 
 Each token can be used only to power a fetter targeting the creature it came from, and it is consumed in the process. The DC to resist a fetter is equal to 10 + half the investigator’s class level + the investigator’s Charisma bonus. Once a creature has been the target of a specific fetter, it is immune to that effect for 24 hours.
 
-This ability replaces power source and the legendary investigator is unable to cast any spells derived from their course of study.
+This ability replaces [power source](legendary-investigator.md#power-source) and the legendary investigator is unable to cast any spells derived from their course of study.
 
 **Take a Bit More (Ex)**
 

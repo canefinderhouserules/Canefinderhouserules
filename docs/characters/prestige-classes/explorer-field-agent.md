@@ -43,7 +43,7 @@ The following are class features of the explorer field agent prestige class.
 
 **Field Training**: An explorer field agent receives additional training that aids her in her fulfilling her duty to explore, report, and cooperate. She can’t receive the same training more than once unless otherwise noted. An explorer field agent gains additional field training at 3rd level and every 3 levels thereafter.
 
-*Animal Magnetism (Ex)*: This ability functions as the druid’s wild empathy class ability, except the explorer field agent’s effective druid level to determine her wild empathy bonus is equal to her explorer field agent level. Levels in explorer field agent stack with levels from other classes that grant wild empathy for the purpose of determining an explorer field agent’s total wild empathy bonus.
+*Animal Magnetism (Ex)*: This ability functions as the [druid’s wild empathy](../classes/druid.md#wild-empathy-ex) class ability, except the explorer field agent’s effective druid level to determine her wild empathy bonus is equal to her explorer field agent level. Levels in explorer field agent stack with levels from other classes that grant wild empathy for the purpose of determining an explorer field agent’s total wild empathy bonus.
 
 *Deft Defender (Ex)*: When the explorer field agent successfully uses the aid another action to increase an ally’s Armor Class, she gains a +1 dodge bonus to her AC until the start of her next turn.
 

@@ -45,49 +45,79 @@ The cavalier’s class skills are Bluff (Cha), Climb (Str), Craft (Int), Diploma
 
 The following are the class features of the cavalier.
 
-**Weapon and Armor Proficiency**: Cavaliers are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), with all types of armor (heavy, light, and medium) and with [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
+### Weapon and Armor Proficiency
 
-**Challenge (Ex)**: Once per day, a cavalier can challenge a foe to combat. As a swift action, the cavalier chooses one target within sight to challenge. The cavalier’s melee attacks deal extra damage whenever the attacks are made against the target of his challenge. This extra damage is equal to the cavalier’s level. The cavalier can use this ability once per day at 1st level, plus one additional time per day for every three levels beyond 1st, to a maximum of seven times per day at 19th level.
+Cavaliers are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), with all types of armor (heavy, light, and medium) and with [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
+
+### Challenge (Ex)
+
+Once per day, a cavalier can challenge a foe to combat. As a swift action, the cavalier chooses one target within sight to challenge. The cavalier’s melee attacks deal extra damage whenever the attacks are made against the target of his challenge. This extra damage is equal to the cavalier’s level. The cavalier can use this ability once per day at 1st level, plus one additional time per day for every three levels beyond 1st, to a maximum of seven times per day at 19th level.
 
 Challenging a foe requires much of the cavalier’s concentration. The cavalier takes a –2 penalty to his Armor Class, except against attacks made by the target of his challenge.
 
 The challenge remains in effect until the target is dead or unconscious or until the combat ends. Each cavalier’s challenge also includes another effect which is listed in the section describing the cavalier’s order.
 
-**Mount (Ex)**: A cavalier gains the service of a loyal and trusty steed to carry him into battle. This mount functions as a druid’s animal companion, using the cavalier’s level as his effective druid level. The creature must be one that he is capable of riding and is suitable as a mount. A Medium cavalier can select a camel or a horse. A Small cavalier can select a pony or wolf, but can also select a boar or a dog if he is at least 4th level. The GM might approve other animals as suitable mounts. A cavalier does not take an armor check penalty on Ride checks while riding his mount. The mount is always considered combat trained and begins play with [Light Armor](../../equipment/armor.md) Proficiency as a bonus feat. A cavalier’s mount does not gain the share spells special ability.
+### Mount (Ex)
+
+A cavalier gains the service of a loyal and trusty steed to carry him into battle. This mount functions as a druid’s animal companion, using the cavalier’s level as his effective druid level. The creature must be one that he is capable of riding and is suitable as a mount. A Medium cavalier can select a camel or a horse. A Small cavalier can select a pony or wolf, but can also select a boar or a dog if he is at least 4th level. The GM might approve other animals as suitable mounts. A cavalier does not take an armor check penalty on Ride checks while riding his mount. The mount is always considered combat trained and begins play with [Light Armor](../../equipment/armor.md) Proficiency as a bonus feat. A cavalier’s mount does not gain the share spells special ability.
 
 A cavalier’s bond with his mount is strong, with the pair learning to anticipate each other’s moods and moves. Should a cavalier’s mount die, the cavalier may find another mount to serve him after 1 week of mourning.
 
 This new mount does not gain the link, evasion, devotion, or improved evasion special abilities until the next time the cavalier gains a level.
 
-**Order (Ex)**: At 1st level, a cavalier must pledge himself to a specific order. The order grants the cavalier a number of bonuses, class skills, and special abilities. In addition, each order includes a number of edicts that the cavalier must follow. If he violates any of these edicts, he loses the benefits from his order’s challenge ability for 24 hours. The violation of an edict is subject to GM interpretation.
+### Order (Ex)
+
+At 1st level, a cavalier must pledge himself to a specific order. The order grants the cavalier a number of bonuses, class skills, and special abilities. In addition, each order includes a number of edicts that the cavalier must follow. If he violates any of these edicts, he loses the benefits from his order’s challenge ability for 24 hours. The violation of an edict is subject to GM interpretation.
 
 A cavalier cannot change his order without undertaking a lengthy process to dedicate himself to a new cause. When this choice is made, he immediately loses all of the benefits from his old order. He must then follow the edicts of his new order for one entire level without gaining any benefits from that order. Once accomplished, he gains all of the bonuses from his new order. Note that the names of these orders might vary depending upon the campaign setting or GM’s preference.
 
-**Tactician (Ex)**: At 1st level, a cavalier receives a teamwork feat as a bonus feat. He must meet the prerequisites for this feat. As a standard action, the cavalier can grant this feat to all allies within 30 feet who can see and hear him. Allies retain the use of this bonus feat for 3 rounds plus 1 round for every two levels the cavalier possesses. Allies do not need to meet the prerequisites of these bonus feats.
+### Tactician (Ex)
+
+At 1st level, a cavalier receives a teamwork feat as a bonus feat. He must meet the prerequisites for this feat. As a standard action, the cavalier can grant this feat to all allies within 30 feet who can see and hear him. Allies retain the use of this bonus feat for 3 rounds plus 1 round for every two levels the cavalier possesses. Allies do not need to meet the prerequisites of these bonus feats.
 
 The cavalier can use this ability once per day at 1st level, plus one additional time per day at 5th level and for every 5 levels thereafter.
 
-**Cavalier’s Charge (Ex)**: At 3rd level, a cavalier learns to make more accurate charge attacks while mounted. The cavalier receives a +4 bonus on melee attack rolls on a charge while mounted (instead of the normal +2). In addition, the cavalier does not suffer any penalty to his AC after making a charge attack while mounted.
+### Cavalier’s Charge (Ex)
 
-**Expert Trainer (Ex)**: At 4th level, a cavalier learns to train mounts with speed and unsurpassed expertise.
+At 3rd level, a cavalier learns to make more accurate charge attacks while mounted. The cavalier receives a +4 bonus on melee attack rolls on a charge while mounted (instead of the normal +2). In addition, the cavalier does not suffer any penalty to his AC after making a charge attack while mounted.
+
+### Expert Trainer (Ex)
+
+At 4th level, a cavalier learns to train mounts with speed and unsurpassed expertise.
 
 The cavalier receives a bonus equal to 1/2 his cavalier level whenever he uses Handle Animal on an animal that serves as a mount. In addition, he can reduce the time needed to teach a mount a new trick or train a mount for a general purpose to 1 day per 1 week required by increasing the DC by +5. He can also train more than one mount at once, although each mount after the first adds +2 to the DC.
 
-**Banner (Ex)**: At 5th level, a cavalier’s banner becomes a symbol of inspiration to his allies and companions. As long as the cavalier’s banner is clearly visible, all allies within 60 feet receive a +2 morale bonus on saving throws against fear and a +1 morale bonus on attack rolls made as part of a charge. At 10th level, and every five levels thereafter, these bonuses increase by +1. The banner must be at least Small or larger and must be carried or displayed by the cavalier or his mount to function.
+### Banner (Ex)
 
-**Bonus Feat**: At 6th level, and at every six levels thereafter, a cavalier gains a bonus feat in addition to those gained from normal advancement. These bonus feats must be selected from those listed as combat feats. The cavalier must meet the prerequisites of these bonus feats.
+At 5th level, a cavalier’s banner becomes a symbol of inspiration to his allies and companions. As long as the cavalier’s banner is clearly visible, all allies within 60 feet receive a +2 morale bonus on saving throws against fear and a +1 morale bonus on attack rolls made as part of a charge. At 10th level, and every five levels thereafter, these bonuses increase by +1. The banner must be at least Small or larger and must be carried or displayed by the cavalier or his mount to function.
 
-**Greater Tactician (Ex)**: At 9th level, the cavalier receives an additional teamwork feat as a bonus feat. He must meet the prerequisites for this feat. The cavalier can grant this feat to his allies using the tactician ability. Using the tactician ability is a swift action.
+### Bonus Feat
 
-**Mighty Charge (Ex)**: At 11th level, a cavalier learns to make devastating charge attacks while mounted. Double the threat range of any weapons wielded during a charge while mounted. This increase does not stack with other effects that increase the threat range of the weapon. In addition, the cavalier can make a free bull rush, disarm, sunder, or trip combat maneuver if his charge attack is successful. This free combat maneuver does not provoke an attack of opportunity.
+At 6th level, and at every six levels thereafter, a cavalier gains a bonus feat in addition to those gained from normal advancement. These bonus feats must be selected from those listed as combat feats. The cavalier must meet the prerequisites of these bonus feats.
 
-**Demanding Challenge (Ex)**: At 12th level, whenever a cavalier declares a challenge, his target must pay attention to the threat he poses. As long as the target is within the threatened area of the cavalier, it takes a –2 penalty to its AC from attacks made by anyone other than the cavalier.
+### Greater Tactician (Ex)
 
-**Greater Banner (Ex)**: At 14th level, the cavalier’s banner becomes a rallying call to his allies. All allies within 60 feet receive a +2 morale bonus on saving throws against charm and compulsion spells and effects. In addition, while his banner is displayed, the cavalier can spend a standard action to wave the banner through the air, granting all allies within 60 feet an additional saving throw against any one spell or effect that is targeting them. This save is made at the original DC. Spells and effects that do not allow saving throws are unaffected by this ability. An ally cannot benefit from this ability more than once per day.
+At 9th level, the cavalier receives an additional teamwork feat as a bonus feat. He must meet the prerequisites for this feat. The cavalier can grant this feat to his allies using the tactician ability. Using the tactician ability is a swift action.
 
-**Master Tactician (Ex)**: At 17th level, the cavalier receives an additional teamwork feat as a bonus feat. He must meet the prerequisites for this feat. The cavalier can grant this feat to his allies using the tactician ability. Whenever the cavalier uses the tactician ability, he grants any two teamwork feats that he knows. He can select from any of his teamwork feats, not just his bonus feats.
+### Mighty Charge (Ex)
 
-**Supreme Charge (Ex)**: At 20th level, whenever the cavalier makes a charge attack while mounted, he deals double the normal amount of damage (or triple if using a lance). In addition, if the cavalier confirms a critical hit on a charge attack while mounted, the target is stunned for 1d4 rounds. A Will save reduces this to staggered for 1d4 rounds. The DC is equal to 10 + the cavalier’s base attack bonus.
+At 11th level, a cavalier learns to make devastating charge attacks while mounted. Double the threat range of any weapons wielded during a charge while mounted. This increase does not stack with other effects that increase the threat range of the weapon. In addition, the cavalier can make a free bull rush, disarm, sunder, or trip combat maneuver if his charge attack is successful. This free combat maneuver does not provoke an attack of opportunity.
+
+### Demanding Challenge (Ex)
+
+At 12th level, whenever a cavalier declares a challenge, his target must pay attention to the threat he poses. As long as the target is within the threatened area of the cavalier, it takes a –2 penalty to its AC from attacks made by anyone other than the cavalier.
+
+### Greater Banner (Ex)
+
+At 14th level, the cavalier’s banner becomes a rallying call to his allies. All allies within 60 feet receive a +2 morale bonus on saving throws against charm and compulsion spells and effects. In addition, while his banner is displayed, the cavalier can spend a standard action to wave the banner through the air, granting all allies within 60 feet an additional saving throw against any one spell or effect that is targeting them. This save is made at the original DC. Spells and effects that do not allow saving throws are unaffected by this ability. An ally cannot benefit from this ability more than once per day.
+
+### Master Tactician (Ex)
+
+At 17th level, the cavalier receives an additional teamwork feat as a bonus feat. He must meet the prerequisites for this feat. The cavalier can grant this feat to his allies using the tactician ability. Whenever the cavalier uses the tactician ability, he grants any two teamwork feats that he knows. He can select from any of his teamwork feats, not just his bonus feats.
+
+### Supreme Charge (Ex)
+
+At 20th level, whenever the cavalier makes a charge attack while mounted, he deals double the normal amount of damage (or triple if using a lance). In addition, if the cavalier confirms a critical hit on a charge attack while mounted, the target is stunned for 1d4 rounds. A Will save reduces this to staggered for 1d4 rounds. The DC is equal to 10 + the cavalier’s base attack bonus.
 
 ## Cavalier Orders
 
@@ -131,9 +161,9 @@ Cavaliers belonging to the order of the dragon dedicate themselves to a group of
 
 ### Order of the Eclipse
 
-*(Samurai order)*
+*([Samurai order](samurai.md#order-ex))*
 
-Hobgoblins have long taken advantage of the tactical edge darkvision gives them when fighting in darkness, particularly against elves, humans, and samsarans. As the ruling class of an eastern warlord state, hobgoblin samurai have adopted the benefit of darkness as a spiritual alliance that forms a guiding principle in not only how they fight, but every aspect of their lives. This has given rise to the order of the eclipse, a respected samurai order devoted to darkness itself. Although the order is not officially restricted to hobgoblins, its edicts make it difficult for any samurai without darkvision to operate in its ranks.
+Hobgoblins have long taken advantage of the tactical edge darkvision gives them when fighting in darkness, particularly against elves, humans, and samsarans. As the ruling class of an eastern warlord state, hobgoblin samurai have adopted the benefit of darkness as a spiritual alliance that forms a guiding principle in not only how they fight, but every aspect of their lives. This has given rise to the order of the eclipse, a respected [samurai order](samurai.md#order-ex) devoted to darkness itself. Although the order is not officially restricted to hobgoblins, its edicts make it difficult for any samurai without darkvision to operate in its ranks.
 
 **Edicts**: The samurai cannot create light where it is not necessary—anything that can be done in darkness should be. The samurai must belong to a military organization (likely a warband commanded by a senior samurai). The samurai must enforce his place within this order and societies that recognize its authority, obeying those senior to him without question and demanding total obedience from those beneath him. The samurai must take every opportunity to extinguish the lights of his foes.
 

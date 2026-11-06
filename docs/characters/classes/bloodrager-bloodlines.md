@@ -286,7 +286,7 @@ Salamanders are fierce warriors and master smiths, and you wield their might and
 
 **Master Bloodsmith (Su)**: At 16th level, you can affect up to two items simultaneously with your bloodsmith bloodline power. At 20th level, you can affect up to three items.
 
-**Essence of Fire (Ex)**: At 20th level, you become immune to fire damage. In addition, your bloodrager damage reduction increases by 5. If you don’t have bloodrager damage reduction, you gain DR 10/magic instead. You have these benefits constantly, even while you are not bloodraging.
+**Essence of Fire (Ex)**: At 20th level, you become immune to fire damage. In addition, your bloodrager damage reduction increases by 5. If you don’t have [bloodrager damage reduction](bloodrager.md#damage-reduction-ex), you gain DR 10/magic instead. You have these benefits constantly, even while you are not bloodraging.
 
 ## Shapechanger
 
@@ -300,7 +300,7 @@ The blood of doppelgangers, faceless stalkers, lycanthropes, or other shapechang
 
 **Shifting Aspect (Su)**: At 1st level, you gain the benefit of the [Aspect of the Beast](../../rules/feats/aspect-of-the-beast.md) feat while bloodraging. As part of the action to enter a bloodrage, you can choose any one of the four manifestations to affect you for the duration of your bloodrage.
 
-**Spontaneous Change (Sp)**: At 4th level, when entering a bloodrage, you can cast a transmutation spell that affects only you as a swift action, provided that the spell's normal casting time is 1 round or shorter. The spell lasts for as long as you continue bloodraging, regardless of the spell's normal duration. You can use this ability only to cast bloodrager spells you know.
+**Spontaneous Change (Sp)**: At 4th level, when entering a bloodrage, you can cast a transmutation spell that affects only you as a swift action, provided that the spell's normal casting time is 1 round or shorter. The spell lasts for as long as you continue bloodraging, regardless of the spell's normal duration. You can use this ability only to cast [bloodrager spells](bloodrager.md#spells) you know.
 
 **Evolving Aspect (Su)**: At 8th level, you gain Aspect of the Beast as a bonus feat even if you don't meet the prerequisites. As normal for the feat, you must choose one of the manifestations, and you gain its benefits even while not bloodraging. When you enter a bloodrage, you can choose a second manifestation to affect you simultaneously for the duration of your bloodrage.
 

@@ -53,7 +53,7 @@ The following are class features of the champion of the enlightened prestige cla
 
 **Weapon and Armor Proficiency**: A champion gains no additional weapon or armor proficiencies.
 
-**Detect Chaos (Sp)**: This ability functions like a paladin’s detect evil ability, but detects chaos instead of evil.
+**Detect Chaos (Sp)**: This ability functions like a [paladin’s detect evil](../classes/paladin.md#detect-evil-sp) ability, but detects chaos instead of evil.
 
 **Martial Artist (Ex)**: The class levels of a champion stack with monk levels for determining the effect of his AC bonus, flurry of blows, stunning fist, and unarmed strike class features. He can choose to use Wisdom or Charisma for the effects of these abilities, and he gains any of them that his monk levels have not unlocked yet.
 
@@ -61,7 +61,7 @@ The following are class features of the champion of the enlightened prestige cla
 
     **Martial Artist (Ex)**: The class levels of a champion stack with monk levels for determining the effect of his AC bonus, flurry of blows, stunning fist, and unarmed strike class features.
 
-**Smite Chaos (Su)**: At 1st level, a champion gains an additional use of his paladin’s smite evil ability. In addition, he can choose to use his smite evil ability to smite chaos instead, affecting chaotic-aligned creatures and dealing 2 points of damage per class level on the first successful attack against outsiders with the chaotic subtype, chaotic-aligned aberrations, and fey. Levels in this class stack with paladin levels for the purpose of determining how much damage a paladin deals to targets of his smite. A champion cannot have both a smite evil and smite chaos effect active at the same time; using one while the other is active immediately ends the older effect. At 8th level, a champion gains an additional use of his smite evil ability.
+**Smite Chaos (Su)**: At 1st level, a champion gains an additional use of his [paladin’s smite evil](../classes/paladin.md#smite-evil-su) ability. In addition, he can choose to use his smite evil ability to smite chaos instead, affecting chaotic-aligned creatures and dealing 2 points of damage per class level on the first successful attack against outsiders with the chaotic subtype, chaotic-aligned aberrations, and fey. Levels in this class stack with paladin levels for the purpose of determining how much damage a paladin deals to targets of his smite. A champion cannot have both a smite evil and smite chaos effect active at the same time; using one while the other is active immediately ends the older effect. At 8th level, a champion gains an additional use of his smite evil ability.
 
 **Aligned Class (Ex)**: At 2nd level, a champion of the enlightened must choose a class they belonged to before adding the prestige class to be their aligned class. They gain all the class features of this class, essentially adding every champion of the enlightened level beyond 1st to their aligned class to determine what class features they gain. They still retain the Hit Dice, base attack bonus, saving throw bonuses, and skill ranks of the prestige class, but gain all other class features of their aligned class as well as those of this prestige class. A champion of the enlightened gains this ability only if they qualified with levels of paladin of perfection, and it only works with that archetype.
 

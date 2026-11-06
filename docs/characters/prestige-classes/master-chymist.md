@@ -73,7 +73,7 @@ At 5th level, the master chymist can assume her mutagenic form three times per d
 
 **Dual Mind (Ex)**: The chymist’s alter ego gives her a +2 bonus on Will saving throws in her normal and mutagenic forms. If she is affected by an enchantment spell or effect and fails her saving throw, she can attempt it again 1 round later at the same DC; if she succeeds, she is free of the effect (as if she had made her original save) and immediately changes to her mutagenic form or back to her normal form. If she has no more uses of the mutate ability remaining for the day, she cannot use dual mind. The character must have an effective alchemist level (alchemist level plus master chymist levels) of at least 10 to select this ability.
 
-**Evasion (Ex)**: This mutagen functions as the rogue ability of the same name, except that it only applies in the chymist’s mutagenic form.
+**Evasion (Ex)**: This mutagen functions as the [rogue ability](../classes/rogue.md#evasion-ex) of the same name, except that it only applies in the chymist’s mutagenic form.
 
 **Extended Mutagen (Ex)**: The duration of the master chymist’s mutation is doubled.
 

@@ -194,4 +194,4 @@ A character who chooses kineticist as their secondary class gains the following 
 
 Each race's official options for this class are listed on its [race page](../../races/index.md). Any character can also use the [universal favored class bonuses](../../favored-class-bonuses/favored-class-bonuses.md).
 
-- **Obitu**– Add 1/2 point of positive energy damage when dealing damage to undead with kinetic blasts that deal positive energy damage that apply the kineticist’s elemental overflow bonus.
+- **Obitu**– Add 1/2 point of positive energy damage when dealing damage to undead with kinetic blasts that deal positive energy damage that apply the [kineticist’s elemental overflow](../kineticist.md#elemental-overflow-ex) bonus.

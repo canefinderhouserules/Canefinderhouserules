@@ -272,7 +272,7 @@ The enlightened philosopher seeks enlightenment through compassion, moderation, 
 
 **Mental Acuity (Ex)**: As the lore mystery revelation.
 
-**Final Revelation**: Upon achieving 20th level, you achieve true enlightenment and become one with the universe. You receive a bonus on all saving throws equal to your Charisma modifier. You become immune to confusion, exhaustion, fatigue, nausea, and sickened effects. You can take 20 on all Knowledge skill checks. Should you die, you are reborn 3 days later as a living example of the summoning of your chosen philosophy (treat as the reincarnate spell). This replaces the final revelation of the oracle’s mystery.
+**Final Revelation**: Upon achieving 20th level, you achieve true enlightenment and become one with the universe. You receive a bonus on all saving throws equal to your Charisma modifier. You become immune to confusion, exhaustion, fatigue, nausea, and sickened effects. You can take 20 on all Knowledge skill checks. Should you die, you are reborn 3 days later as a living example of the summoning of your chosen philosophy (treat as the reincarnate spell). This replaces the final revelation of the [oracle’s mystery](oracle.md#mystery).
 
 ## Planar Oracle
 
@@ -288,7 +288,7 @@ A planar oracle has an affinity with one of the Outer Planes. She is at home on 
 
 **Final Revelation**: At 20th level, you become an extraplanar creature. Choose one outer plane, such as Heaven or the Abyss. You gain superficial physical characteristics as appropriate to natives of your chosen outer plane (see the Pathfinder RPG Bestiary). For example, if your chosen plane is Heaven, you gain angelic features such as a halo and metallic skin. This change does not alter your Hit Dice, hit points, saving throws, skill points, class skills, or proficiencies. Your type changes to “outsider (extraplanar),” except on your associated plane, where your type is “outsider (native).” In addition, you gain immunity to your associated energy type and gain damage reduction 10/magic. Unlike other outsiders, you can still be brought back from the dead as if you were a member of your previous creature type.
 
-This replaces the final revelation of the oracle’s mystery.
+This replaces the final revelation of the [oracle’s mystery](oracle.md#mystery).
 
 ## Possessed Oracle
 
@@ -342,7 +342,7 @@ A psychic searcher is devoted to revealing the hidden within the world around he
 
 **Bonus Spells**: Augury (4th), locate object (6th), divination (8th), find the path (12th), discern location (16th), foresight(18th). These bonus spells replace the oracle's normal mystery bonus spells at these levels.
 
-**Inspiration (Ex)**: At 2nd level, a psychic searcher gains an inspiration pool, as the investigator class ability. A psychic searcher uses her oracle level as her investigator level to determine the effects of this ability. She gains free uses of inspiration on Diplomacy, Knowledge (arcana, history, local, nobility, planes, religion), and Sense Motive skill checks without spending a use of inspiration, provided she's trained in that skill. A psychic searcher's inspiration pool refreshes each day, usually when she refreshes her spells. A psychic searcher's inspiration pool is based on her Wisdom modifier, not Intelligence. This ability replaces the mystery spell gained at 2nd level.
+**Inspiration (Ex)**: At 2nd level, a psychic searcher gains an inspiration pool, as the [investigator class ability](investigator.md#inspiration-ex). A psychic searcher uses her oracle level as her investigator level to determine the effects of this ability. She gains free uses of inspiration on Diplomacy, Knowledge (arcana, history, local, nobility, planes, religion), and Sense Motive skill checks without spending a use of inspiration, provided she's trained in that skill. A psychic searcher's inspiration pool refreshes each day, usually when she refreshes her spells. A psychic searcher's inspiration pool is based on her Wisdom modifier, not Intelligence. This ability replaces the mystery spell gained at 2nd level.
 
 **Psychic Talent (Su)**: At 3rd level, a psychic searcher's mastery of her supernatural insight grows, granting her a new investigator talent from the following list: amazing inspiration, eidetic recollection, empathy, inspired alertness, item lore, perceptive tracking (except using Sense Motive instead of Perception or Survival), rogue talent (only for hard to fool), and tenacious inspiration. Whenever a psychic searcher can select a new revelation, she can instead select an investigator or rogue talent from the above list. This ability replaces the revelation gained at 3rd level. Recommended Mysteries: Ancestor, lore, nature.
 
@@ -350,13 +350,13 @@ A psychic searcher is devoted to revealing the hidden within the world around he
 
 Through her exploration of the universe's mysteries, a spirit guide opens connections to the spirit world and forms bonds with the entities that inhabit it.
 
-**Class Skills**: A spirit guide gains all Knowledge skills as class skills. This replaces the bonus class skills gained from the oracle's mystery.
+**Class Skills**: A spirit guide gains all Knowledge skills as class skills. This replaces the bonus class skills gained from the [oracle's mystery](oracle.md#mystery).
 
-**Bonded Spirit (Su)**: At 3rd level, a spirit guide can form a temporary bond with a spirit, as the shaman's wandering spirit class feature. She must make this selection each day when she refreshes her spells. A spirit guide cannot bond with a spirit that is incompatible with her alignment, ethos, or mystery (GM's discretion).
+**Bonded Spirit (Su)**: At 3rd level, a spirit guide can form a temporary bond with a spirit, as the [shaman's wandering spirit](shaman.md#wandering-spirit-su) class feature. She must make this selection each day when she refreshes her spells. A spirit guide cannot bond with a spirit that is incompatible with her alignment, ethos, or mystery (GM's discretion).
 
 A spirit guide gains one hex of her choice from the list of hexes available from that spirit. She uses her oracle level as her shaman level and her Charisma score instead of Wisdom for the purpose of determining its effects.
 
-At 4th level, she adds the bonded spirit's spirit magic spells to her oracle spells known for that day, but only of spell levels she can cast. At 7th level, she gains the spirit ability of her current bonded spirit. At 15th level, she gains the greater spirit ability of her current bonded spirit.
+At 4th level, she adds the bonded spirit's spirit magic spells to her [oracle spells](oracle.md#spells) known for that day, but only of spell levels she can cast. At 7th level, she gains the spirit ability of her current bonded spirit. At 15th level, she gains the greater spirit ability of her current bonded spirit.
 
 This ability replaces the revelations gained at 3rd, 7th, and 15th levels.
 
@@ -392,7 +392,7 @@ An elementalist oracle shares an affinity with the elements and elemental creatu
 
 **Elemental Form (Su)**: At 11th level, you gain the air, earth, fire, or water subtype and an associated ability: • Air: Fly speed of 30 feet with perfect maneuverability. • Earth: Tremorsense with a range of 30 feet. • Fire: Immunity to fire and vulnerability to cold. • Water: Swim speed of 30 feet and the ability to breathe underwater.
 
-**Elemental Revelation (Su)**: At 20th level, you fully harness the power of the elements. You can apply the [Elemental Spell](../../rules/feats/elemental-spell.md) metamagic feat to spells you cast without increasing the level or casting time. You can choose acid, cold, electricity, or fire each time you use this ability. Whenever you score a critical hit with an attack that deals energy damage, you ignore the target’s energy resistance (if any). If you score such a critical hit against a creature that has immunity to the energy type you are attacking with, the creature takes half damage from the attack. This replaces final revelation.
+**Elemental Revelation (Su)**: At 20th level, you fully harness the power of the elements. You can apply the [Elemental Spell](../../rules/feats/elemental-spell.md) metamagic feat to spells you cast without increasing the level or casting time. You can choose acid, cold, electricity, or fire each time you use this ability. Whenever you score a critical hit with an attack that deals energy damage, you ignore the target’s energy resistance (if any). If you score such a critical hit against a creature that has immunity to the energy type you are attacking with, the creature takes half damage from the attack. This replaces [final revelation](oracle.md#final-revelation).
 
 ## River Soul
 
@@ -404,7 +404,7 @@ River soul oracles derive their powers from their bonds with rivers, whether the
 
 **Bonus Spells**: Hydraulic push (2nd), hydraulic torrent (6th), control water (8th), cone of cold (10th), world wave (18th). These bonus spells replace the oracle’s mystery bonus spells at these levels.
 
-**River Bound Curse (Su)**: You bind your power to one particular river, which is the source of your spells and class abilities. You must carry a small vessel containing water from the river you are bound to at all times. If the vessel is destroyed or travels more than 10 feet away from you, you are unable to cast oracle spells or use your supernatural or spell-like class abilities until you recover the vessel or fill a new one with water from the river to which you are bound. Once per month, you can bond with a different river in a ceremony at that river that takes 12 hours to complete. You lose your bond with the previous river in the process. This replaces oracle’s curse.
+**River Bound Curse (Su)**: You bind your power to one particular river, which is the source of your spells and class abilities. You must carry a small vessel containing water from the river you are bound to at all times. If the vessel is destroyed or travels more than 10 feet away from you, you are unable to cast oracle spells or use your supernatural or spell-like class abilities until you recover the vessel or fill a new one with water from the river to which you are bound. Once per month, you can bond with a different river in a ceremony at that river that takes 12 hours to complete. You lose your bond with the previous river in the process. This replaces [oracle’s curse](oracle.md#oracles-curse-ex).
 
 **Revelations**: A river soul oracle must take the following revelations at the listed levels.
 
@@ -412,13 +412,13 @@ River soul oracles derive their powers from their bonds with rivers, whether the
 
 **River Form (Su)**: At 11th level, you can become one with a river. Once a day as a standard action, while immersed in a river, you can completely merge with it. Your body and all your gear meld into the water, as per meld into stone, except abilities that control or shape water expel you and deal you 5d6 damage rather than abilities that control or shape stone. You travel along with the river at the rate it is currently moving. You can remain in this form a number of hours equal to 3 + your Charisma modifier (minimum 1). Transforming back to your normal form is a swift action.
 
-**River Soul Revelation (Su)**: At 20th level, you strengthen your ties to the river with which you bonded. While traveling on or immersed in the river, you gain fast healing 10 and immunity to bleed, death attacks, exhaustion, fatigue, nausea effects, negative levels, and sickened effects. Additionally, if you are slain and your body or some part of your body (including your ashes, if applicable) is floated down the river in a specially prepared vessel costing 5,000 gp, you return to life as per resurrection once you reach the mouth of the river, as long as the trip has taken 24 hours or longer. This replaces final revelation.
+**River Soul Revelation (Su)**: At 20th level, you strengthen your ties to the river with which you bonded. While traveling on or immersed in the river, you gain fast healing 10 and immunity to bleed, death attacks, exhaustion, fatigue, nausea effects, negative levels, and sickened effects. Additionally, if you are slain and your body or some part of your body (including your ashes, if applicable) is floated down the river in a specially prepared vessel costing 5,000 gp, you return to life as per resurrection once you reach the mouth of the river, as long as the trip has taken 24 hours or longer. This replaces [final revelation](oracle.md#final-revelation).
 
 ## Tree Soul
 
 Tree souls develop an affinity not just with trees but also with objects carved from them, feeling the essence of the tree’s spirit living within. By bonding to trees, they learn to manipulate the trees’ power to produce divine energy. The type of tree a tree soul oracle bonds to often seems to influence the oracle’s personality. A tree soul who is bound to a towering redwood may value traditions and be slow to anger, while a tree soul bound to a smaller pine tree might be quick to react and have a somewhat prickly personality. Regardless of the trees they form their metaphysical attachment to, tree soul oracles tend to be steadfast and stubborn, having an aura of timelessness even as the world changes around them.
 
-**Class Skills**: A tree soul adds Acrobatics, Climb, Knowledge (nature), and Survival to her list of class skills. This replaces the class skills granted by the oracle’s mystery and class skills.
+**Class Skills**: A tree soul adds Acrobatics, Climb, Knowledge (nature), and Survival to her list of class skills. This replaces the class skills granted by the [oracle’s mystery](oracle.md#mystery) and class skills.
 
 **Weapon and Armor Proficiency**: Tree souls are proficient with light and [medium armor](../../equipment/armor.md) but are prohibited from wearing metal armor. A tree soul can also wear wooden armor that has been altered by the ironwood spell so that it functions as though it were steel. Tree souls are proficient with [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)) but can use only those crafted from wood.
 
@@ -428,7 +428,7 @@ A tree soul who wears prohibited armor or uses a prohibited shield is unable to 
 
 **Bonus Spells**: Warp wood (2nd), tree stride (10th), ironwood (12th), changestaff (14th), repel metal or stone (16th), greater siege of trees (18th). These bonus spells replace the oracle’s mystery bonus spells at these levels.
 
-**Tree Bound Curse (Su)**: You bind your power to a specific tree. Any damage to the tree deals the same amount of damage to you, overcoming DR, energy resistance, and immunities. Damage you take in this way cannot be healed by normal or magical means until your bonded tree is healed or destroyed. The damage can reduce you to 0 hit points but not below. If the tree is destroyed, you are considered to be staggered and are unable to cast oracle spells or use supernatural or spell-like class abilities until you bond with a new tree in a ceremony that takes 12 hours to complete. Once per month, you can create a new bond with a different tree in a ceremony at that tree that takes 12 hours to complete. You lose your bond with your previous tree in the process. This replaces oracle’s curse.
+**Tree Bound Curse (Su)**: You bind your power to a specific tree. Any damage to the tree deals the same amount of damage to you, overcoming DR, energy resistance, and immunities. Damage you take in this way cannot be healed by normal or magical means until your bonded tree is healed or destroyed. The damage can reduce you to 0 hit points but not below. If the tree is destroyed, you are considered to be staggered and are unable to cast oracle spells or use supernatural or spell-like class abilities until you bond with a new tree in a ceremony that takes 12 hours to complete. Once per month, you can create a new bond with a different tree in a ceremony at that tree that takes 12 hours to complete. You lose your bond with your previous tree in the process. This replaces [oracle’s curse](oracle.md#oracles-curse-ex).
 
 **Revelations**: A tree soul oracle must take the following revelations at the listed levels.
 
@@ -436,7 +436,7 @@ A tree soul who wears prohibited armor or uses a prohibited shield is unable to 
 
 **Living Steel Dolls (Ex)**: At 11th level, you add animate objects to your list of spells known. When you cast this spell on wooden objects, the objects’ wooden parts immediately transform into living steel. If the objects are destroyed or the duration ends, the wooden parts revert back to their original material.
 
-**Tree Soul Revelation (Su)**: At 20th level, your skin takes on the appearance and properties of a tree trunk. This bark-like skin grants you a +4 natural armor bonus to your Armor Class and DR 10/slashing. You also regrow any severed limbs except your head within 24 hours as per regenerate. Finally, once a day as a standard action, you can assume the form of a treant, as per plant shape III, for a number of minutes equal to 3 + your Charisma modifier (minimum 1). This replaces final revelation.
+**Tree Soul Revelation (Su)**: At 20th level, your skin takes on the appearance and properties of a tree trunk. This bark-like skin grants you a +4 natural armor bonus to your Armor Class and DR 10/slashing. You also regrow any severed limbs except your head within 24 hours as per regenerate. Finally, once a day as a standard action, you can assume the form of a treant, as per plant shape III, for a number of minutes equal to 3 + your Charisma modifier (minimum 1). This replaces [final revelation](oracle.md#final-revelation).
 
 ## Purifier
 
@@ -446,7 +446,7 @@ The purifier seeks out signs of possession or mind control that manifest from un
 
 **Bonus Spells**: [*veil of heaven*](../../magic/spells/veil-of-heaven.md) (2nd), [*confess*](../../magic/spells/confess.md) (4th), [*cast out*](../../magic/spells/cast-out.md) (6th), [*denounce*](../../magic/spells/denounce.md) (8th), [*dispel evil*](../../magic/spells/dispel-evil.md) (10th), [*banishment*](../../magic/spells/banishment.md) (12th), [*holy word*](../../magic/spells/holy-word.md) (14th), [*mind blank*](../../magic/spells/mind-blank.md) (16th), [*freedom*](../../magic/spells/freedom.md) (18th).
 
-**Diminished Spellcasting**: A purifier can use one fewer spell per day of each level and does not automatically learn cure or inflict spells. Her number of oracle spells known is unchanged.
+**Diminished Spellcasting**: A purifier can use one fewer spell per day of each level and does not automatically learn cure or inflict spells. Her number of [oracle spells](oracle.md#spells) known is unchanged.
 
 **Revelations**: A purifier must take the following revelations at the listed levels.
 
@@ -486,7 +486,7 @@ As long as she has at least 1 point in her *ki* pool, a shigenjo can make a *ki*
 
 *Ki Insight*: Gain a +4 insight bonus on Spellcraft checks for 1 round.
 
-This ability replaces the shigenjo’s 7th-level revelation.
+This ability replaces the shigenjo’s 7th-level [revelation](oracle.md#revelation).
 
 **Quivering Palm (Su)**: At 15th level, a shigenjo may learn quivering palm as the monk ability of the same name in place of a revelation. She treats her oracle level as her monk level for this ability, and the DC is based on her Charisma bonus instead of her Wisdom bonus.
 
@@ -546,7 +546,7 @@ Like other masters of the art, herbal practitioners can use the Profession (herb
 
 This ability replaces the additional class skills the oracle gains from her mystery.
 
-**Healer’s Way (Su)**: An herbal practitioner combines alchemy, acupuncture, and divine magic to heal wounds by touch. She can use this ability a number of times per day equal to 1 + her Charisma modifier. With one use of this ability, she uses positive energy to heal the target of 1d6 hit points for every 2 oracle levels she has. Using this ability is a standard action unless the oracle targets herself, in which case it is a swift action. Using this ability requires only one free hand. This ability counts as a paladin’s lay on hands ability for the purposes of feats, spells, and effects that work with that class feature when it is used for healing purposes. Unlike lay on hands, this ability cannot be used to harm undead.
+**Healer’s Way (Su)**: An herbal practitioner combines alchemy, acupuncture, and divine magic to heal wounds by touch. She can use this ability a number of times per day equal to 1 + her Charisma modifier. With one use of this ability, she uses positive energy to heal the target of 1d6 hit points for every 2 oracle levels she has. Using this ability is a standard action unless the oracle targets herself, in which case it is a swift action. Using this ability requires only one free hand. This ability counts as a [paladin’s lay on hands](paladin.md#lay-on-hands-su) ability for the purposes of feats, spells, and effects that work with that class feature when it is used for healing purposes. Unlike lay on hands, this ability cannot be used to harm undead.
 
 This ability replaces the revelation gained at 1st level.
 
@@ -575,7 +575,7 @@ Oracles and sorcerers gain their magical powers through strange and mysterious w
 
 The black-blooded oracle has been infused with the eerie influence of strange fluids that seep from the rock in the deepest pits of the Underworld. Often, the eerie taint of the black blood can lie dormant in a lineage for generations before manifesting. It even seems capable of reaching out to touch those destined to become oracles through other strange methods. However an oracle becomes black-blooded, her divine powers carry within them the weird power of this chilling magical substance. A black-blooded oracle does not require access to this eldritch substance to function.
 
-**Curse of Black Blood (Su)**: All black-blooded oracles effectively share the same curse—the curse of black blood. The material affects these oracles physically and mentally, altering both physiology and mystic powers. The blood of a black-blooded oracle actually runs black, and wounds she suffers are infected by her own power and are difficult to heal. She is immune to the effects (both beneficial and destructive) of black blood. Positive and negative energy affect a black-blooded oracle as if she were undead—positive energy harms her, while negative energy heals her (this aspect of the curse has no effect if the oracle is undead). The curse also dulls the oracle's coordination somewhat, imparting a –4 penalty on all Dexterity-based skill checks. At 5th level, she gains cold resistance 5. This increases to cold resistance 10 at 10th level, and immunity to cold at 15th level. This ability replaces the oracle's curse.
+**Curse of Black Blood (Su)**: All black-blooded oracles effectively share the same curse—the curse of black blood. The material affects these oracles physically and mentally, altering both physiology and mystic powers. The blood of a black-blooded oracle actually runs black, and wounds she suffers are infected by her own power and are difficult to heal. She is immune to the effects (both beneficial and destructive) of black blood. Positive and negative energy affect a black-blooded oracle as if she were undead—positive energy harms her, while negative energy heals her (this aspect of the curse has no effect if the oracle is undead). The curse also dulls the oracle's coordination somewhat, imparting a –4 penalty on all Dexterity-based skill checks. At 5th level, she gains cold resistance 5. This increases to cold resistance 10 at 10th level, and immunity to cold at 15th level. This ability replaces the [oracle's curse](oracle.md#oracles-curse-ex).
 
 **Black Blood Revelations**: All black-blooded oracles have access to the following revelations, regardless of what mystery they choose.
 
@@ -595,9 +595,9 @@ Desert prophets help guide and serve a vast desert empire and its interests acro
 
 **Recommended Mysteries**: Any.
 
-**Class Skills**: A desert prophet adds Perception, Perform (dance), and all Knowledge skills to her list of class skills. These replace the additional skills gained from the oracle's mystery.
+**Class Skills**: A desert prophet adds Perception, Perform (dance), and all Knowledge skills to her list of class skills. These replace the additional skills gained from the [oracle's mystery](oracle.md#mystery).
 
-**Bonus Spells**: A desert prophet gains the following bonus spells: *clairaudience/clairvoyance* (6th), [*prying eyes*](../../magic/spells/prying-eyes.md) (10th), [*true seeing*](../../magic/spells/true-seeing.md) (12th), [*prediction of failure*](../../magic/spells/prediction-of-failure.md) (16th), [*foresight*](../../magic/spells/foresight.md) (18th). These replace the bonus spells at those levels gained from the oracle's mystery.
+**Bonus Spells**: A desert prophet gains the following bonus spells: *clairaudience/clairvoyance* (6th), [*prying eyes*](../../magic/spells/prying-eyes.md) (10th), [*true seeing*](../../magic/spells/true-seeing.md) (12th), [*prediction of failure*](../../magic/spells/prediction-of-failure.md) (16th), [*foresight*](../../magic/spells/foresight.md) (18th). These replace the bonus spells at those levels gained from the [oracle's mystery](oracle.md#mystery).
 
 **Revelations**: A desert prophet must take the following revelation at 1st level.
 
@@ -623,7 +623,7 @@ A cyclopean seer draws power from the mysterious prophetic abilities of ancient 
 
 **Oracle's Curse**: A cyclopean seer must choose the haunted, hunger, powerless prophecy, or tongues curse at 1st level.
 
-**Bonus Spells**: Each time a cyclopean seer would gain a bonus spell from her mystery, she instead selects a divination spell from any class's spell list. If the spell is not on the cleric spell list, it must be at least 1 level lower than the highest-level oracle spell the cyclopean seer can cast. This ability alters the bonus spells granted by the oracle's mystery.
+**Bonus Spells**: Each time a cyclopean seer would gain a bonus spell from her mystery, she instead selects a divination spell from any class's spell list. If the spell is not on the cleric spell list, it must be at least 1 level lower than the highest-level oracle spell the cyclopean seer can cast. This ability alters the bonus spells granted by the [oracle's mystery](oracle.md#mystery).
 
 **Assume Fate (Su)**: As an immediate action when targeted by an effect that requires a saving throw, you can choose another creature within line of sight that is attempting a save against the same effect. The target takes a penalty on its saving throw equal to 1d4 + 1 for every 4 levels you possess. You gain the value of their penalty as a luck bonus on your saving throw. You can use this ability a number of times per day equal to your Charisma bonus. This replaces the revelation gained at 1st level.
 
@@ -637,9 +637,9 @@ A cyclopean seer draws power from the mysterious prophetic abilities of ancient 
 
 *Prescience (Ex)*: You gain a +2 bonus to your Armor Class against attacks of opportunity and a +2 bonus on concentration checks. At 5th level and every 5 levels thereafter, these bonuses increase by 1.
 
-This ability alters the revelation class feature.
+This ability alters the [revelation](oracle.md#revelation) class feature.
 
-**Final Revelation**: Upon reaching 20th level, you embody ancient cyclopes' insight. You can use each of the following once per day as a spell-like ability: [*discern location*](../../magic/spells/discern-location.md), *prying eyes*, and [*stone tell*](../../magic/spells/stone-tell.md). In addition, using flash of insight to select a d20 roll result equal to or lower than your Charisma modifier doesn't expend that ability. This replaces the final revelation of the oracle's mystery.
+**Final Revelation**: Upon reaching 20th level, you embody ancient cyclopes' insight. You can use each of the following once per day as a spell-like ability: [*discern location*](../../magic/spells/discern-location.md), *prying eyes*, and [*stone tell*](../../magic/spells/stone-tell.md). In addition, using flash of insight to select a d20 roll result equal to or lower than your Charisma modifier doesn't expend that ability. This replaces the final revelation of the [oracle's mystery](oracle.md#mystery).
 
 ## Hermit
 
@@ -677,7 +677,7 @@ Although many merfolk claim deep connections to both art and the natural world, 
 
 **Recommended Mysteries**: ancestor, intrigue, life, lore.
 
-**Bonus Spells**: An inerrant voice gains the following bonus spells: [*shield other*](../../magic/spells/shield-other.md) (2nd), *augury* (4th), [*divination*](../../magic/spells/divination.md) (8th), [*vision*](../../magic/spells/vision.md) (14th). These replace the bonus spells at those levels gained from the oracle's mystery.
+**Bonus Spells**: An inerrant voice gains the following bonus spells: [*shield other*](../../magic/spells/shield-other.md) (2nd), *augury* (4th), [*divination*](../../magic/spells/divination.md) (8th), [*vision*](../../magic/spells/vision.md) (14th). These replace the bonus spells at those levels gained from the [oracle's mystery](oracle.md#mystery).
 
 **Revelations**: An inerrant voice must take the following revelation at 3rd level.
 

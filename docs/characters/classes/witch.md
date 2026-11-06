@@ -42,9 +42,13 @@ The witch’s class skills are Craft (Int), Fly (Dex), Heal (Wis), Intimidate (C
 
 The following are the class features of the witch.
 
-**Weapon and Armor Proficiency**: Witches are proficient with all [simple weapons](../../equipment/weapons-simple.md). They are not proficient with any type of armor or shield. Armor interferes with a witch’s gestures, which can cause her spells with somatic components to fail (see Arcane Spells and Armor of the Pathfinder RPG Core Rulebook).
+### Weapon and Armor Proficiency
 
-**Spells**: A witch casts arcane spells drawn from the witch spell list. A witch must choose and prepare her spells ahead of time.
+Witches are proficient with all [simple weapons](../../equipment/weapons-simple.md). They are not proficient with any type of armor or shield. Armor interferes with a witch’s gestures, which can cause her spells with somatic components to fail (see Arcane Spells and Armor of the Pathfinder RPG Core Rulebook).
+
+### Spells
+
+A witch casts arcane spells drawn from the witch spell list. A witch must choose and prepare her spells ahead of time.
 
 To learn or cast a spell, a witch must have an Intelligence score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a witch’s spell is 10 + the spell level + the witch’s Intelligence modifier.
 
@@ -52,41 +56,69 @@ A witch can cast only a certain number of spells of each spell level per day. He
 
 A witch may know any number of spells. She must choose and prepare her spells ahead of time by getting 8 hours of sleep and spending 1 hour communing with her familiar. While communing, the witch decides which spells to prepare.
 
-**Cantrips**: Witches can prepare a number of cantrips, or 0-level spells, each day, as noted on Table 2–10 under “Spells per Day.” These spells are cast like any other spell, but they are not expended when cast and may be used again.
+### Cantrips
+
+Witches can prepare a number of cantrips, or 0-level spells, each day, as noted on Table 2–10 under “Spells per Day.” These spells are cast like any other spell, but they are not expended when cast and may be used again.
 
 Cantrips prepared using other spell slots, due to metamagic feats for example, are expended normally.
 
-**Hex**: Witches learn a number of magic tricks, called hexes, that grant them powers or weaken foes. At 1st level, a witch gains one hex of her choice. She gains an additional hex at 2nd level and for every 2 levels attained after 2nd level, as noted on Table 2–10. A witch cannot select an individual hex more than once.
+### Hex
+
+Witches learn a number of magic tricks, called hexes, that grant them powers or weaken foes. At 1st level, a witch gains one hex of her choice. She gains an additional hex at 2nd level and for every 2 levels attained after 2nd level, as noted on Table 2–10. A witch cannot select an individual hex more than once.
 
 Unless otherwise noted, using a hex is a standard action that does not provoke an attack of opportunity. The save to resist a hex is equal to 10 + 1/2 the witch’s level + the witch’s Intelligence modifier.
 
-**Blight (Su)**: The witch can curse an animal, plant creature, or plot of land, causing it to wither and die. Blighting an area takes 1 round, during which time the witch and her familiar must be in contact with the target. If it’s used on a plot of land, the land begins to wither the following day, and over the next week all plants in the area die. Nothing will grow in that area so long as the curse persists. A witch can affect an area with a radius equal to her class level × 10 feet. Blighting a creature is a standard action that requires a melee touch attack. If used on a creature of the animal or plant type, the creature gains the following curse: Blight Hex—type curse; save Will negates; frequency 1/day; effect 1 Con damage. Both types of curse can be removed with a remove curse or similar magic, using the save DC as the DC to remove the curse.
+#### Blight (Su)
+
+The witch can curse an animal, plant creature, or plot of land, causing it to wither and die. Blighting an area takes 1 round, during which time the witch and her familiar must be in contact with the target. If it’s used on a plot of land, the land begins to wither the following day, and over the next week all plants in the area die. Nothing will grow in that area so long as the curse persists. A witch can affect an area with a radius equal to her class level × 10 feet. Blighting a creature is a standard action that requires a melee touch attack. If used on a creature of the animal or plant type, the creature gains the following curse: Blight Hex—type curse; save Will negates; frequency 1/day; effect 1 Con damage. Both types of curse can be removed with a remove curse or similar magic, using the save DC as the DC to remove the curse.
 
 A witch can only have one blight in effect at a time. If another blight hex is made, the first immediately ends.
 
-**Cackle (Su)**: A witch can cackle madly as a move action.
+#### Cackle (Su)
+
+A witch can cackle madly as a move action.
 
 Any creature that is within 30 feet that is under the effects of an agony hex, charm hex, evil eye hex, fortune hex, or misfortune hex caused by the witch has the duration of that hex extended by 1 round.
 
-**Cauldron (Ex)**: The witch receives [Brew Potion](../../rules/feats/brew-potion.md) as a bonus feat and a +4 insight bonus on Craft (alchemy) skill checks.
+#### Cauldron (Ex)
 
-**Charm (Su)**: A witch can charm an animal or humanoid creature within 30 feet by beckoning and speaking soothing words. This improves the attitude of an animal or humanoid creature by 1 step, as if the witch had successfully used the Diplomacy skill. The effect lasts for a number of rounds equal to the Witch’s Intelligence modifier. A Will save negates this effect. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day. At 8th level, this effect improves the attitude of the target creature by 2 steps. This is a mind-affecting charm effect.
+The witch receives [Brew Potion](../../rules/feats/brew-potion.md) as a bonus feat and a +4 insight bonus on Craft (alchemy) skill checks.
 
-**Coven (Ex)**: The witch counts as a hag for the purpose of joining a hag’s coven. The coven must contain at least one hag. In addition, whenever the witch with this hex is within 30 feet of another witch with this hex, she can use the aid another action to grant a +1 bonus to the other witch’s caster level for 1 round. This bonus applies to the witch’s spells and all of her hexes.
+#### Charm (Su)
 
-**Disguise (Su)**: A witch can change her appearance for a number of hours equal to her class level, as if using disguise self. These hours do not need to be consecutive, but they must be spent in 1-hour increments.
+A witch can charm an animal or humanoid creature within 30 feet by beckoning and speaking soothing words. This improves the attitude of an animal or humanoid creature by 1 step, as if the witch had successfully used the Diplomacy skill. The effect lasts for a number of rounds equal to the Witch’s Intelligence modifier. A Will save negates this effect. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day. At 8th level, this effect improves the attitude of the target creature by 2 steps. This is a mind-affecting charm effect.
 
-**Evil Eye (Su)**: The witch can cause doubt to creep into the mind of a foe within 30 feet that she can see. The target takes a –2 penalty on one of the following (witch’s choice): AC, ability checks, attack rolls, saving throws, or skill checks. This hex lasts for a number of rounds equal to 3 + the witch’s Intelligence modifier. A Will save reduces this to just 1 round. This is a mind-affecting effect. At 8th level the penalty increases to –4.
+#### Coven (Ex)
 
-**Flight (Su)**: The witch grows lighter as she gains power, eventually gaining the ability to fly. At 1st level, the witch can use feather fall at will and gains a +4 racial bonus on Swim checks. At 3rd level, she can cast levitate once per day. At 5th level, she can fly, as per the spell, for a number of minutes per day equal to her level. These minutes do not need to be consecutive, but they must be spent in 1-minute increments. This hex only affects the witch.
+The witch counts as a hag for the purpose of joining a hag’s coven. The coven must contain at least one hag. In addition, whenever the witch with this hex is within 30 feet of another witch with this hex, she can use the aid another action to grant a +1 bonus to the other witch’s caster level for 1 round. This bonus applies to the witch’s spells and all of her hexes.
 
-**Fortune (Su)**: The witch can grant a creature within 30 feet a bit of good luck for 1 round. The target can call upon this good luck once per round, allowing him to reroll any ability check, attack roll, saving throw, or skill check, taking the better result. He must decide to use this ability before the first roll is made. At 8th level and 16th level, the duration of this hex is extended by 1 round. Once a creature has benefited from the fortune hex, it cannot benefit from it again for 24 hours.
+#### Disguise (Su)
 
-**Healing (Su)**: A witch can soothe the wounds of those she touches. This acts as a cure light wounds spell, using the witch’s caster level. Once a creature has benefited from the healing hex, it cannot benefit from it again for 24 hours. At 5th level, this hex acts like cure moderate wounds.
+A witch can change her appearance for a number of hours equal to her class level, as if using disguise self. These hours do not need to be consecutive, but they must be spent in 1-hour increments.
 
-**Misfortune (Su)**: The witch can cause a creature within 30 feet to suffer grave misfortune for 1 round. Anytime the creature makes an ability check, attack roll, saving throw, or skill check, it must roll twice and take the worse result. A Will save negates this hex. At 8th level and 16th level, the duration of this hex is extended by 1 round. This hex affects all rolls the target must make while it lasts. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day.
+#### Evil Eye (Su)
 
-**Slumber (Su)**: A witch can cause a creature within 30 feet to fall into a deep, magical sleep, as per the spell sleep. The creature receives a Will save to negate the effect. If the save fails, the creature falls asleep for a number of rounds equal to the witch’s level. This hex can affect a creature of any HD. The creature will not wake due to noise or light, but others can rouse it with a standard action. A witch can use this hex on the same target twice per 24 hours. The [Accursed Hex](../../rules/feats/accursed-hex.md) feat lets her use it on that target 2 more times, instead of 1 more time.
+The witch can cause doubt to creep into the mind of a foe within 30 feet that she can see. The target takes a –2 penalty on one of the following (witch’s choice): AC, ability checks, attack rolls, saving throws, or skill checks. This hex lasts for a number of rounds equal to 3 + the witch’s Intelligence modifier. A Will save reduces this to just 1 round. This is a mind-affecting effect. At 8th level the penalty increases to –4.
+
+#### Flight (Su)
+
+The witch grows lighter as she gains power, eventually gaining the ability to fly. At 1st level, the witch can use feather fall at will and gains a +4 racial bonus on Swim checks. At 3rd level, she can cast levitate once per day. At 5th level, she can fly, as per the spell, for a number of minutes per day equal to her level. These minutes do not need to be consecutive, but they must be spent in 1-minute increments. This hex only affects the witch.
+
+#### Fortune (Su)
+
+The witch can grant a creature within 30 feet a bit of good luck for 1 round. The target can call upon this good luck once per round, allowing him to reroll any ability check, attack roll, saving throw, or skill check, taking the better result. He must decide to use this ability before the first roll is made. At 8th level and 16th level, the duration of this hex is extended by 1 round. Once a creature has benefited from the fortune hex, it cannot benefit from it again for 24 hours.
+
+#### Healing (Su)
+
+A witch can soothe the wounds of those she touches. This acts as a cure light wounds spell, using the witch’s caster level. Once a creature has benefited from the healing hex, it cannot benefit from it again for 24 hours. At 5th level, this hex acts like cure moderate wounds.
+
+#### Misfortune (Su)
+
+The witch can cause a creature within 30 feet to suffer grave misfortune for 1 round. Anytime the creature makes an ability check, attack roll, saving throw, or skill check, it must roll twice and take the worse result. A Will save negates this hex. At 8th level and 16th level, the duration of this hex is extended by 1 round. This hex affects all rolls the target must make while it lasts. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day.
+
+#### Slumber (Su)
+
+A witch can cause a creature within 30 feet to fall into a deep, magical sleep, as per the spell sleep. The creature receives a Will save to negate the effect. If the save fails, the creature falls asleep for a number of rounds equal to the witch’s level. This hex can affect a creature of any HD. The creature will not wake due to noise or light, but others can rouse it with a standard action. A witch can use this hex on the same target twice per 24 hours. The [Accursed Hex](../../rules/feats/accursed-hex.md) feat lets her use it on that target 2 more times, instead of 1 more time.
 
 ??? note "Original rule"
 
@@ -96,75 +128,121 @@ This hex ends immediately if the creature takes damage.
 
 Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day.
 
-**Tongues (Su)**: A witch with this hex can understand any spoken language for a number of minutes per day equal to her level, as comprehend languages. This duration does not need to be consecutive, but it must be spent in 1-minute increments. At 5th level, a witch can use this ability to speak any language, as per tongues.
+#### Tongues (Su)
 
-**Ward (Su)**: A witch can use this hex to place a protective ward over one creature. The warded creature receives a +2 deflection bonus to AC and a +2 resistance bonus on saving throws. This ward lasts until the warded creature is hit or fails a saving throw. A witch knows when a warded creature is no longer protected. A witch can have only one ward active at a time. If the witch uses this ability again, the previous ward immediately ends. A witch cannot use this ability on herself. At 8th level and 16th level, the bonuses provided by this ward increase by +1.
+A witch with this hex can understand any spoken language for a number of minutes per day equal to her level, as comprehend languages. This duration does not need to be consecutive, but it must be spent in 1-minute increments. At 5th level, a witch can use this ability to speak any language, as per tongues.
 
-**Witch’s Familiar (Ex)**: At 1st level, a witch forms a close bond with a familiar, a creature that teaches her magic and helps to guide her along her path. Familiars also aid a witch by granting her skill bonuses, additional spells, and help with some types of magic. This functions like the wizard’s arcane bond class feature, except as noted in the Witch’s Familiar section.
+#### Ward (Su)
+
+A witch can use this hex to place a protective ward over one creature. The warded creature receives a +2 deflection bonus to AC and a +2 resistance bonus on saving throws. This ward lasts until the warded creature is hit or fails a saving throw. A witch knows when a warded creature is no longer protected. A witch can have only one ward active at a time. If the witch uses this ability again, the previous ward immediately ends. A witch cannot use this ability on herself. At 8th level and 16th level, the bonuses provided by this ward increase by +1.
+
+### Witch’s Familiar (Ex)
+
+At 1st level, a witch forms a close bond with a familiar, a creature that teaches her magic and helps to guide her along her path. Familiars also aid a witch by granting her skill bonuses, additional spells, and help with some types of magic. This functions like the [wizard’s arcane bond](wizard.md#arcane-bond-ex-or-sp) class feature, except as noted in the Witch’s Familiar section.
 
 A witch must commune with her familiar each day to prepare her spells. Familiars store all of the spells that a witch knows, and a witch cannot prepare a spell that is not stored by her familiar. A witch’s familiar begins play storing all of the 0-level witch spells plus three 1st-level spells of the witch’s choice. The witch also selects a number of additional 1st-level spells equal to her Intelligence modifier to store in her familiar. At each new witch level, she adds two new spells of any spell level or levels that she can cast (based on her new witch level) to her familiar. A witch can also add additional spells to her familiar through a special ritual (see sidebar).
 
-**Major Hex**: Starting at 10th level, and every two levels thereafter, a witch can choose one of the following major hexes whenever she could select a new hex.
+### Major Hex
 
-**Agony (Su)**: With a quick incantation, a witch can place this hex on one creature within 60 feet, causing them to suffer intense pain. The target is nauseated for a number of rounds equal to the witch’s level. A Fortitude save negates this effect. If the saving throw is failed, the target can attempt a new save each round to end the effect. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day.
+Starting at 10th level, and every two levels thereafter, a witch can choose one of the following major hexes whenever she could select a new hex.
 
-**Hag’s Eye (Su)**: A witch with this hex can create a magic sensor that she can see through. This functions as per the spell arcane eye. If the witch has the coven hex, all other witches within 10 feet who also have the coven hex can see through this sensor as well, although the witch that created it still controls it. The witch can use this eye for a number of minutes per day equal to her level. These minutes do not need to be consecutive, but they must be spent in 1-minute increments.
+#### Agony (Su)
 
-**Major Healing (Su)**: By calling upon eerie powers, the witch’s touch can mend even the most terrible wounds of those she touches. This acts as cure serious wounds, using the witch’s caster level. Once a creature has benefited from the major healing hex, it cannot benefit from it again for 24 hours. At 15th level, this hex acts like cure critical wounds.
+With a quick incantation, a witch can place this hex on one creature within 60 feet, causing them to suffer intense pain. The target is nauseated for a number of rounds equal to the witch’s level. A Fortitude save negates this effect. If the saving throw is failed, the target can attempt a new save each round to end the effect. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day.
 
-**Nightmares (Su)**: Calling upon fell powers, a witch can place a hex on a creature within 60 feet that causes its sleep to be tormented by terrible nightmares.
+#### Hag’s Eye (Su)
+
+A witch with this hex can create a magic sensor that she can see through. This functions as per the spell arcane eye. If the witch has the coven hex, all other witches within 10 feet who also have the coven hex can see through this sensor as well, although the witch that created it still controls it. The witch can use this eye for a number of minutes per day equal to her level. These minutes do not need to be consecutive, but they must be spent in 1-minute increments.
+
+#### Major Healing (Su)
+
+By calling upon eerie powers, the witch’s touch can mend even the most terrible wounds of those she touches. This acts as cure serious wounds, using the witch’s caster level. Once a creature has benefited from the major healing hex, it cannot benefit from it again for 24 hours. At 15th level, this hex acts like cure critical wounds.
+
+#### Nightmares (Su)
+
+Calling upon fell powers, a witch can place a hex on a creature within 60 feet that causes its sleep to be tormented by terrible nightmares.
 
 This functions as the spell nightmare each time the affected creature attempts to rest. A Will save negates this effect. If the save is failed, the target must make a new save each night or be unable to rest.
 
-**Retribution (Su)**: A witch can place a retribution hex on a creature within 60 feet, causing terrible wounds to open across the target’s flesh whenever it deals damage to another creature in melee. Immediately after the hexed creature deals damage in melee, it takes half that damage (round down). This damage bypasses any resistances, immunities, or damage reduction the creature possesses. This effect lasts for a number of rounds equal to the witch’s Intelligence modifier. A Will save negates this effect.
+#### Retribution (Su)
 
-**Vision (Su)**: A witch with the vision hex can grant a glimpse of the future to a creature touched. Granting a vision takes 1 minute, during which time the witch and the target must remain in contact with one another. At the end of this time, the subject receives a brief image of the future, usually no more than 1 year from the time of the vision, subject to GM discretion. This is only one possible version of the future, making such visions unreliable at best. Most visions are slanted toward the alignment of the witch that granted them. For example, the visions granted by a chaotic evil witch often show scenes of death and destruction, while those of a neutral good witch tend to be of joyous events or occasions. A creature cannot be subject to another vision until the current vision has either come to pass or been prevented. A witch cannot use this ability on herself. Unwilling creatures receive a Will save to negate the vision.
+A witch can place a retribution hex on a creature within 60 feet, causing terrible wounds to open across the target’s flesh whenever it deals damage to another creature in melee. Immediately after the hexed creature deals damage in melee, it takes half that damage (round down). This damage bypasses any resistances, immunities, or damage reduction the creature possesses. This effect lasts for a number of rounds equal to the witch’s Intelligence modifier. A Will save negates this effect.
 
-**Waxen Image (Su)**: The witch can spend a full-round action to create a crude and unnerving wax duplicate of a creature she can see within 30 feet. Once the image is complete, the subject must make a Will save.
+#### Vision (Su)
+
+A witch with the vision hex can grant a glimpse of the future to a creature touched. Granting a vision takes 1 minute, during which time the witch and the target must remain in contact with one another. At the end of this time, the subject receives a brief image of the future, usually no more than 1 year from the time of the vision, subject to GM discretion. This is only one possible version of the future, making such visions unreliable at best. Most visions are slanted toward the alignment of the witch that granted them. For example, the visions granted by a chaotic evil witch often show scenes of death and destruction, while those of a neutral good witch tend to be of joyous events or occasions. A creature cannot be subject to another vision until the current vision has either come to pass or been prevented. A witch cannot use this ability on herself. Unwilling creatures receive a Will save to negate the vision.
+
+#### Waxen Image (Su)
+
+The witch can spend a full-round action to create a crude and unnerving wax duplicate of a creature she can see within 30 feet. Once the image is complete, the subject must make a Will save.
 
 If the subject fails, the witch gains a small measure of control over the creature. Whenever she exercises this control, the creature receives a new Will save to end the effect. This effect occurs on the witch’s turn and does not impede the creature’s actions on its turn.
 
 The witch can use the waxen image a number of times equal to her Intelligence modifier before it melts. As a standard action, the witch can cause the subject to do any one of the following things: move up to the creature’s speed in any direction, attack itself once with any weapon in hand (this attack automatically hits), lay down on the ground, or drop anything held. Alternatively, she can spend one of her uses to simply torture the image, causing the creature to be both sickened and staggered on its turn. As soon as the creature has succeeded on a saving throw against this effect, it is immune to it for 24 hours. The is an enchantment (compulsion) effect.
 
-**Weather Control (Su)**: A witch with this hex can use control weather once per day, but creating the weather takes 1 full hour of chanting, dancing, and communing with her familiar.
+#### Weather Control (Su)
 
-**Grand Hex**: Starting at 18th level, and every two levels thereafter, a witch can choose one of the following grand hexes whenever she could select a new hex.
+A witch with this hex can use control weather once per day, but creating the weather takes 1 full hour of chanting, dancing, and communing with her familiar.
 
-**Death Curse (Su)**: This powerful hex seizes a creature’s heart, causing death within just a few moments. This hex has a range of 30 feet. The hexed creature receives a Will save to negate the effect. If this save is failed, the creature becomes fatigued the first round of the hex. On the second round of the hex, the creature becomes exhausted. On the third round, the creature dies unless it succeeds at a Fort save. Creatures that fail the first save but succeed at the second remain exhausted and take 4d6 points of damage + 1 point of damage per level of the witch. Slaying the witch that hexed the creature ends the effect, but any fatigue or exhaustion remains. Whether or not the saves are successful, a creature cannot be the target of this hex again for 1 day.
+### Grand Hex
 
-**Eternal Slumber (Su)**: The witch can touch a creature, causing it to drift off into a permanent slumber. The creature receives a Will save to negate this effect. If the save fails, the creature falls asleep and cannot be woken. The effect can only be removed with a wish or similar magic, although slaying the witch ends the effect.
+Starting at 18th level, and every two levels thereafter, a witch can choose one of the following grand hexes whenever she could select a new hex.
+
+#### Death Curse (Su)
+
+This powerful hex seizes a creature’s heart, causing death within just a few moments. This hex has a range of 30 feet. The hexed creature receives a Will save to negate the effect. If this save is failed, the creature becomes fatigued the first round of the hex. On the second round of the hex, the creature becomes exhausted. On the third round, the creature dies unless it succeeds at a Fort save. Creatures that fail the first save but succeed at the second remain exhausted and take 4d6 points of damage + 1 point of damage per level of the witch. Slaying the witch that hexed the creature ends the effect, but any fatigue or exhaustion remains. Whether or not the saves are successful, a creature cannot be the target of this hex again for 1 day.
+
+#### Eternal Slumber (Su)
+
+The witch can touch a creature, causing it to drift off into a permanent slumber. The creature receives a Will save to negate this effect. If the save fails, the creature falls asleep and cannot be woken. The effect can only be removed with a wish or similar magic, although slaying the witch ends the effect.
 
 The witch can use this ability to poison food or drink, causing those who ingest it to make a save or fall into an eternal slumber. She can only have one such dose of poison at any one time, and it loses its potency after 1 minute if not consumed. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day.
 
-**Forced Reincarnation (Su)**: The witch causes a creature within 30 feet to die and be immediately reincarnated into a new body. A Will save negates this effect. Those that fail are slain and immediately brought back to life with the spell reincarnate. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day.
+#### Forced Reincarnation (Su)
 
-**Life Giver (Su)**: Once per day the witch can, as a full round action, touch a dead creature and bring it back to life. This functions as resurrection, but it does not require a material component.
+The witch causes a creature within 30 feet to die and be immediately reincarnated into a new body. A Will save negates this effect. Those that fail are slain and immediately brought back to life with the spell reincarnate. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day.
 
-**Natural Disaster (Su)**: A witch using this hex calls down the forces of nature to wreak havoc on an area.
+#### Life Giver (Su)
+
+Once per day the witch can, as a full round action, touch a dead creature and bring it back to life. This functions as resurrection, but it does not require a material component.
+
+#### Natural Disaster (Su)
+
+A witch using this hex calls down the forces of nature to wreak havoc on an area.
 
 This functions as a storm of vengeance combined with an earthquake that occurs on the second round of the effect (while acid is raining from the sky). A witch must concentrate for the duration of this effect. If disrupted, the effect immediately ends. A witch can only use this ability once per day.
 
 ### Witch’s Familiar Rules
 
-By forging strange bonds with unnameable beings, witches gain the service of a mystical advisor, a familiar to both serve her and reveal to her secrets unknown to most mortals. A familiar is an animal chosen by a witch to aid her in her spellcasting and grant her special powers. This uses the same rules as the wizard’s arcane bond class feature, except as noted below. A witch uses her level as her effective wizard level when determining the abilities of her familiar. A witch can choose any of the familiars available to a wizard in addition to the new familiars presented here.
+By forging strange bonds with unnameable beings, witches gain the service of a mystical advisor, a familiar to both serve her and reveal to her secrets unknown to most mortals. A familiar is an animal chosen by a witch to aid her in her spellcasting and grant her special powers. This uses the same rules as the [wizard’s arcane bond](wizard.md#arcane-bond-ex-or-sp) class feature, except as noted below. A witch uses her level as her effective wizard level when determining the abilities of her familiar. A witch can choose any of the familiars available to a wizard in addition to the new familiars presented here.
 
 Levels of different classes that are entitled to familiars stack for the purpose of determining any familiar abilities that depend on the witch’s level. If a witch possesses such levels, her familiar always uses the witch rules for familiars, not those provided by other classes, such as wizards or sorcerers with the arcane bloodline. A witch’s familiar only stores witch spells. All other spells are stored normally, as noted in their class features.
 
 If a familiar is lost or dies, it can be replaced 1 day later through a special ritual that costs 500 gp per witch level. The ritual takes 8 hours to complete. A new familiar begins knowing all of the 0-level spells plus two spells of every level the witch is able to cast. These are in addition to any bonus spells known by the familiar based on the witch’s level and her patron (see patron spells).
 
-**Store Spells**: Starting at 1st level, a witch’s familiar stores all of the spells that the witch knows. This does not allow the familiar to cast these spells or use spell-trigger or spell completion magic items. Starting at 2nd level, and every two levels thereafter, a witch’s familiar adds new bonus spells to the witch’s spell list based on her patron. These spells are automatically stored by the familiar and can be prepared as normal once they are gained.
+### Store Spells
 
-**Deliver Touch Spells (Su)**: If a witch is 3rd level or higher, her familiar can deliver touch spells or hexes for her. If the witch and the familiar are in contact at the time the witch casts a touch spell, she can designate her familiar as the “toucher.” The familiar can then deliver the touch spell just as the witch would. As usual, if the witch casts another spell before the touch is delivered, the touch spell dissipates. If the witch activates a hex, her familiar can be used to make the touch. She does not have to be in contact with the familiar to use this ability.
+Starting at 1st level, a witch’s familiar stores all of the spells that the witch knows. This does not allow the familiar to cast these spells or use spell-trigger or spell completion magic items. Starting at 2nd level, and every two levels thereafter, a witch’s familiar adds new bonus spells to the witch’s spell list based on her patron. These spells are automatically stored by the familiar and can be prepared as normal once they are gained.
+
+### Deliver Touch Spells (Su)
+
+If a witch is 3rd level or higher, her familiar can deliver touch spells or hexes for her. If the witch and the familiar are in contact at the time the witch casts a touch spell, she can designate her familiar as the “toucher.” The familiar can then deliver the touch spell just as the witch would. As usual, if the witch casts another spell before the touch is delivered, the touch spell dissipates. If the witch activates a hex, her familiar can be used to make the touch. She does not have to be in contact with the familiar to use this ability.
 
 ### Adding Spells to a Witch’s Familiar
 
 Witches can add new spells to their familiars through several methods. A witch can only add spells to her familiar if those spells belong to the witch’s spell list.
 
-**Spells Gained at a New Level**: A witch’s familiar learns a certain amount of lore and magic as the witch adventures. Whenever a witch gains a level, she may add two spells from the witch spell list to her familiar. The two free spells must be of spell levels she can cast.
+### Spells Gained at a New Level
 
-**Familiar Teaching Familiar**: A witch’s familiar can learn spells from another witch’s familiar. To accomplish this, the familiars must spend one hour per level of the spell being taught in communion with one another. At the end of this time, the witch whose familiar is learning a spell must make a Spellcraft check (DC 15 + spell level). If the check succeeds, the familiar has learned the spell and the witch may utilize it the next time she prepares spells. If the check fails, the familiar has failed to learn the spell and cannot try to learn that spell again until the witch has gained another rank in Spellcraft. Most witches require a spell of equal or greater level in return for this service. If a familiar belongs to a witch that has died, it only retains its knowledge of spells for 24 hours, during which time it is possible to coerce or bribe the familiar into teaching its spells to another, subject to GM discretion.
+A witch’s familiar learns a certain amount of lore and magic as the witch adventures. Whenever a witch gains a level, she may add two spells from the witch spell list to her familiar. The two free spells must be of spell levels she can cast.
 
-**Learn from a Scroll**: A witch can use a scroll to teach her familiar a new spell. This process takes 1 hour per level of the spell to be learned, during which time the scroll is burned and its ashes used to create a special brew or powder that is consumed by the familiar. This process destroys the scroll. At the end of this time, the witch must make a Spellcraft check (DC 15 + spell level). If the check fails, the process went awry in some way and the spell is not learned, although the scroll is still consumed.
+### Familiar Teaching Familiar
+
+A witch’s familiar can learn spells from another witch’s familiar. To accomplish this, the familiars must spend one hour per level of the spell being taught in communion with one another. At the end of this time, the witch whose familiar is learning a spell must make a Spellcraft check (DC 15 + spell level). If the check succeeds, the familiar has learned the spell and the witch may utilize it the next time she prepares spells. If the check fails, the familiar has failed to learn the spell and cannot try to learn that spell again until the witch has gained another rank in Spellcraft. Most witches require a spell of equal or greater level in return for this service. If a familiar belongs to a witch that has died, it only retains its knowledge of spells for 24 hours, during which time it is possible to coerce or bribe the familiar into teaching its spells to another, subject to GM discretion.
+
+### Learn from a Scroll
+
+A witch can use a scroll to teach her familiar a new spell. This process takes 1 hour per level of the spell to be learned, during which time the scroll is burned and its ashes used to create a special brew or powder that is consumed by the familiar. This process destroys the scroll. At the end of this time, the witch must make a Spellcraft check (DC 15 + spell level). If the check fails, the process went awry in some way and the spell is not learned, although the scroll is still consumed.
 
 ### New Familiars
 

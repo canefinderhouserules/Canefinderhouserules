@@ -16,9 +16,13 @@ The sorcerer’s class skills are Appraise (Int), Bluff (Cha), Craft (Int), Fly 
 
 All of the following are class features of the sorcerer.
 
-**Weapon and Armor Proficiency**: Sorcerers are proficient with all [simple weapons](../../equipment/weapons-simple.md). They are not proficient with any type of armor or shield. Armor interferes with a sorcerer’s gestures, which can cause her spells with somatic components to fail (see [Arcane Spells and Armor](wizard.md)).
+### Weapon and Armor Proficiency
 
-**Spells**: A sorcerer casts arcane spells drawn primarily from the sorcerer/wizard spell list presented in Chapter 10. She can cast any spell she knows without preparing it ahead of time. To learn or cast a spell, a sorcerer must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a sorcerer’s spell is 10 + the spell level + the sorcerer’s Charisma modifier.
+Sorcerers are proficient with all [simple weapons](../../equipment/weapons-simple.md). They are not proficient with any type of armor or shield. Armor interferes with a sorcerer’s gestures, which can cause her spells with somatic components to fail (see [Arcane Spells and Armor](wizard.md)).
+
+### Spells
+
+A sorcerer casts arcane spells drawn primarily from the sorcerer/wizard spell list presented in Chapter 10. She can cast any spell she knows without preparing it ahead of time. To learn or cast a spell, a sorcerer must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a sorcerer’s spell is 10 + the spell level + the sorcerer’s Charisma modifier.
 
 Like other spellcasters, a sorcerer can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given on Table 3–14. In addition, she receives bonus spells per day if she has a high Charisma score (see Table 1–3).
 
@@ -28,15 +32,21 @@ Upon reaching 4th level, and at every even-numbered sorcerer level after that (6
 
 Unlike a wizard or a cleric, a sorcerer need not prepare her spells in advance. She can cast any spell she knows at any time, assuming she has not yet used up her spells per day for that spell level.
 
-**Bloodline**: Each sorcerer has a source of magic somewhere in her heritage that grants her spells, bonus feats, an additional class skill, and other special abilities. This source can represent a blood relation or an extreme event involving a creature somewhere in the family’s past. For example, a sorcerer might have a dragon as a distant relative or her grandfather might have signed a terrible contract with a devil. Regardless of the source, this influence manifests in a number of ways as the sorcerer gains levels. A sorcerer must pick one bloodline upon taking her first level of sorcerer. Once made, this choice cannot be changed.
+### Bloodline
+
+Each sorcerer has a source of magic somewhere in her heritage that grants her spells, bonus feats, an additional class skill, and other special abilities. This source can represent a blood relation or an extreme event involving a creature somewhere in the family’s past. For example, a sorcerer might have a dragon as a distant relative or her grandfather might have signed a terrible contract with a devil. Regardless of the source, this influence manifests in a number of ways as the sorcerer gains levels. A sorcerer must pick one bloodline upon taking her first level of sorcerer. Once made, this choice cannot be changed.
 
 At 3rd level, and every two levels thereafter, a sorcerer learns an additional spell, derived from her bloodline. These spells are in addition to the number of spells given on Table 3–15. These spells cannot be exchanged for different spells at higher levels.
 
 At 7th level, and every six levels thereafter, a sorcerer receives one bonus feat, chosen from a list specific to each bloodline. The sorcerer must meet the prerequisites for these bonus feats.
 
-**Cantrips**: Sorcerers learn a number of cantrips, or 0-level spells, as noted on Table 3–15 under “Spells Known.” These spells are cast like any other spell, but they do not consume any slots and may be used again.
+### Cantrips
 
-**Eschew Materials**: A sorcerer gains [Eschew Materials](../../rules/feats/eschew-materials.md) as a bonus feat at 1st level.
+Sorcerers learn a number of cantrips, or 0-level spells, as noted on Table 3–15 under “Spells Known.” These spells are cast like any other spell, but they do not consume any slots and may be used again.
+
+### Eschew Materials
+
+A sorcerer gains [Eschew Materials](../../rules/feats/eschew-materials.md) as a bonus feat at 1st level.
 
 ## Sorcerer Bloodlines
 

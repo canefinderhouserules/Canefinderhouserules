@@ -53,7 +53,7 @@ A the pirate isles pirate gains a +2 competence bonus on Move Silently checks ma
 
 **Deep Breath (Ex)**: At 2nd level, the pirate isles pirate can hold her breath for a number of rounds equal to three times her Constitution score before she must start making Constitution checks.
 
-**Sneak Attack (Ex)**: This is identical to the rogue sneak attack ability, and stacks with sneak attack gained from other sources.
+**Sneak Attack (Ex)**: This is identical to the [rogue sneak attack](../classes/rogue.md#sneak-attack) ability, and stacks with sneak attack gained from other sources.
 
 **Navigate Maelstrom (Su)**: The Great Storm, the hurricane that constantly rages offshore, poses a hazard to all ships moving along the pirate isles coast. the pirate isles pirates know how to successfully navigate the gusting winds and churning water. The hurricane exerts some unfathomable mystical influence over some of the pirates of the area.
 

@@ -1,6 +1,6 @@
 # Regional Class Options
 
-Class options that are not archetypes: oracle curses, witch hexes, mesmerist tricks and stares, phrenic amplifications, alchemist discoveries, kineticist wild talents, shifter aspects, and more. Each section notes the culture or background that inspired the option, but any character who meets the prerequisites can take it.
+Class options that are not archetypes: oracle curses, witch hexes, mesmerist tricks and stares, phrenic amplifications, alchemist discoveries, [kineticist wild talents](kineticist.md#wild-talents_1), shifter aspects, and more. Each section notes the culture or background that inspired the option, but any character who meets the prerequisites can take it.
 
 ## Mesmerist Options
 
@@ -193,7 +193,7 @@ You draw power from a void in your emotions, a yawning and empty chasm where you
 
 The following ninja tricks are available to ratfolk, as they were developed by ratfolk to complement their natural talents.
 
-**Arcane Backfire (Su)**: When a ninja with this trick successfully attacks a creature that is holding a magic item that has a number of charges or uses per day, she can attempt a Use Magic Device check (DC = 20 + the item's CL) to cause the item to lose either one daily use or a number of charges equal to the number of the ninja's sneak attack dice.
+**Arcane Backfire (Su)**: When a ninja with this trick successfully attacks a creature that is holding a magic item that has a number of charges or uses per day, she can attempt a Use Magic Device check (DC = 20 + the item's CL) to cause the item to lose either one daily use or a number of charges equal to the number of the [ninja's sneak attack](ninja.md#sneak-attack) dice.
 
 **Swarming Attack (Ex)**: Ratfolk ninjas use their large numbers to overwhelm their enemies with countless attacks. While using the swarming racial trait to share a space with an ally, a ninja with this talent gains a bonus on damage rolls equal to the number of sneak attack dice her ally has. For example, a ninja would gain +3 damage if her ally has sneak attack 3d6.
 
@@ -229,7 +229,7 @@ A hag's call echoes through your mind like a siren's song, enticing you to surre
 
 **Discipline Powers**: The echoes of the hag's call shape the psychic potential of your mind, granting you exceptional abilities that might one day exceed the hag's own.
 
-**Threefold Casting (Ex)**: While you cannot join a true witch's coven, you are nonetheless skilled at casting magic in conjunction with others. You gain a +2 insight bonus on skill checks for ritual magic in which you have at least two secondary casters. In addition, whenever you are within 30 feet of another hag, psychic, or witch, you can use the aid another action to grant a +1 bonus to the other spellcaster's caster level for 1 round.
+**Threefold Casting (Ex)**: While you cannot join a true [witch's coven](witch.md#coven-ex), you are nonetheless skilled at casting magic in conjunction with others. You gain a +2 insight bonus on skill checks for ritual magic in which you have at least two secondary casters. In addition, whenever you are within 30 feet of another hag, psychic, or witch, you can use the aid another action to grant a +1 bonus to the other spellcaster's caster level for 1 round.
 
 **Mother's Embrace (Su)**: The hag's call grows stronger as you grow more desperate, promising protection and release if only you would succumb. When you would fail a Will save, you can add 1d4 to your result; whether or not this causes you to succeed at the saving throw, you take 2 points of Wisdom damage. When you perform an act of cruelty, you regain 1 phrenic pool point. You can use each aspect of this ability a number of times per day equal to your Charisma modifier.
 
@@ -239,11 +239,11 @@ A hag's call echoes through your mind like a siren's song, enticing you to surre
 
 ## Hagtouched Implements
 
-Hags' dark magic pervades their bodies and belongings, granting those items psychic significance and making them perfect occultist implements. Hags' nails and skulls, as well as night hags' former heartstones, can serve as necromancy implements and grant their power over curses and souls. Stylized hag masks as well as rings and bracelets made of knotted hag hair can serve as illusion implements and grant their deceptive abilities. Though morbid, an eyepiece made from a hag's eye—or replacing one of your own living eyes with a preserved hag's eye—can grant access to considerable divination or enchantment magic. Finally, stringed instruments strung with a hag's hair and necklaces of hags' tongues can serve as divination implements and grant an occultist the hag's ability to manipulate and control others.
+Hags' dark magic pervades their bodies and belongings, granting those items psychic significance and making them perfect [occultist implements](occultist.md#implements-su). Hags' nails and skulls, as well as night hags' former heartstones, can serve as necromancy implements and grant their power over curses and souls. Stylized hag masks as well as rings and bracelets made of knotted hag hair can serve as illusion implements and grant their deceptive abilities. Though morbid, an eyepiece made from a hag's eye—or replacing one of your own living eyes with a preserved hag's eye—can grant access to considerable divination or enchantment magic. Finally, stringed instruments strung with a hag's hair and necklaces of hags' tongues can serve as divination implements and grant an occultist the hag's ability to manipulate and control others.
 
 ## Numerology Investigator Talents
 
-A talent marked with an asterisk (*) adds effects to an investigator's studied combat or studied strike class feature. Only one of these talents can be applied to an individual attack, but the choice can be made when the damage is dealt.
+A talent marked with an asterisk (*) adds effects to an [investigator's studied combat](investigator.md#studied-combat-ex) or studied strike class feature. Only one of these talents can be applied to an individual attack, but the choice can be made when the damage is dealt.
 
 **Numerical Alchemy (Su)**: The investigator's skill with mental mathematics allows him to know exactly which muscle movements are necessary to mix an extract in the quickest, most efficient way. The investigator can expend one use of inspiration to mix an extract in 1 round (as opposed to 1 minute).
 

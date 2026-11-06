@@ -900,7 +900,7 @@ You diffuse your kinetic blast to spray out wildly. All creatures and objects in
 
 **Saving Throw** none
 
-When you learn this infusion, select an unchained monk style strike. You can use that style strike during a flurry of blows with your infused blast, though you must still follow the limitation of one style strike per flurry of blows (or two if you are a 15th-level unchained monk). If you select flying kick, the distance is equal to your elemental overflow bonus on attack rolls × 10 feet. You can use this infusion only while also using the kinetic fist form infusion.
+When you learn this infusion, select an [unchained monk style strike](unchained-monk.md#style-strike-ex). You can use that style strike during a flurry of blows with your infused blast, though you must still follow the limitation of one style strike per flurry of blows (or two if you are a 15th-level unchained monk). If you select flying kick, the distance is equal to your elemental overflow bonus on attack rolls × 10 feet. You can use this infusion only while also using the kinetic fist form infusion.
 
 **Special**: You can select this infusion multiple times. Each time, you must select a different style strike.
 
@@ -1762,7 +1762,7 @@ You create a misty veil over your features, disguising yourself as disguise self
 
 **Element** universal; **Type** utility (Su); **Level** 1; **Burn** 0
 
-You gain the investigator's poison lore class feature, using your kineticist level as your investigator level, and can use your gather power ability even while holding a dose of poison in one of your hands or appendages as long as you could otherwise use that ability. If you are at least 6th level, you can learn the alchemist's swift poisoning class feature or one of the following alchemist discoveries in place of a utility wild talent, using your kineticist level as your alchemist level: concentrate poison, poison conversion, or sticky poison.
+You gain the [investigator's poison lore](investigator.md#poison-lore-ex) class feature, using your kineticist level as your investigator level, and can use your gather power ability even while holding a dose of poison in one of your hands or appendages as long as you could otherwise use that ability. If you are at least 6th level, you can learn the [alchemist's swift poisoning](alchemist.md#swift-poisoning-ex) class feature or one of the following alchemist discoveries in place of a utility wild talent, using your kineticist level as your alchemist level: concentrate poison, poison conversion, or sticky poison.
 
 ### Voice of the Wind
 

@@ -8,7 +8,7 @@
 
 **Bulwark Style**
 
-At 1st level, the legendary magus gains proficiency in [shields](../../../equipment/armor.md) (including [tower shields](../../../equipment/armor.md)) and does not incur arcane spell failure chance from a wielded shield while casting magus spells. The legendary magus treats a hand wielding a shield as a free hand for the purposes of casting spells with somatic components. She gains a bonus to her Reflex saving throws equal to her shield’s bonus to AC (including its enhancement bonus if it has one). When using a [buckler](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3), the legendary magus only benefits from this tome if the buckler is providing her a bonus to her armor class. If it is not, she does not gain any of the tome’s passive benefits, nor can she use the tome’s abilities that cost actions or are used as part of an action.
+At 1st level, the legendary magus gains proficiency in [shields](../../../equipment/armor.md) (including [tower shields](../../../equipment/armor.md)) and does not incur arcane spell failure chance from a wielded shield while casting [magus spells](../magus.md#spells). The legendary magus treats a hand wielding a shield as a free hand for the purposes of casting spells with somatic components. She gains a bonus to her Reflex saving throws equal to her shield’s bonus to AC (including its enhancement bonus if it has one). When using a [buckler](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3), the legendary magus only benefits from this tome if the buckler is providing her a bonus to her armor class. If it is not, she does not gain any of the tome’s passive benefits, nor can she use the tome’s abilities that cost actions or are used as part of an action.
 
 **Storing Shield**
 
@@ -234,7 +234,7 @@ At 15th level, the legendary magus increases the reach of her weapons with the r
 
 **Benefit(s)**: The legendary magus has trained in arts more social than magical. The legendary magus can select one of the following vigilante social talents, treating their legendary magus level as their vigilante level for the purposes of qualifying for the social talent: celebrity discount, celebrity perks, feign innocence, gossip collector, great renown, incredible renown, instant recognition, loyal aid, mockingbird, renown, safe house, or triumphant return.
 
-If the legendary magus has the Masked Magus legendary magus arcana (or the dual identity ability gained from another source), she can instead choose any vigilante social talent with this arcana, rather than only those listed above.
+If the legendary magus has the Masked Magus legendary magus arcana (or the dual identity ability gained from another source), she can instead choose any [vigilante social talent](../vigilante.md#social-talent) with this arcana, rather than only those listed above.
 
 **Special**: The legendary magus can select this arcana multiple times. Its effects stack, granting a new vigilante social talent each time it is selected.
 
@@ -320,7 +320,7 @@ In addition, she can use the higher of her Intelligence or Dexterity modifier wh
 
 **Masked Magus (Ex)**
 
-**Benefit(s)**: The legendary magus hides her true identity, whether it be for the protection of her friends and family, or simply for the thrill of acting anonymously. She gains the vigilante’s dual identity and seamless guise abilities.
+**Benefit(s)**: The legendary magus hides her true identity, whether it be for the protection of her friends and family, or simply for the thrill of acting anonymously. She gains the [vigilante’s dual identity](../vigilante.md#dual-identity-ex) and seamless guise abilities.
 
 **Natural Spell Combat**
 

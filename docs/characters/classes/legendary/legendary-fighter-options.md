@@ -42,13 +42,13 @@ A fighter’s weapon training bonus applies to his CMD against all combat maneuv
 
 **Critical Specialist (Ex)**
 
-When the fighter deals a critical hit with a weapon he has selected with the Weapon Focus feat or that belong to a weapon group he possesses, the save DCs of any effects caused by the critical hit increase by the fighter’s weapon training bonus.
+When the fighter deals a critical hit with a weapon he has selected with the Weapon Focus feat or that belong to a weapon group he possesses, the save DCs of any effects caused by the critical hit increase by the [fighter’s weapon training](../fighter.md#weapon-training-ex) bonus.
 
 **Dazzling Intimidation (Ex)**
 
 While wielding a weapon, the fighter applies his weapon training bonus on Intimidate checks and can attempt an Intimidate check to demoralize an opponent as a move action instead of a standard action. If he has the Dazzling Display feat, he can use it as a standard action instead of a full-round action.
 
-If the fighter succeeds at demoralizing a creature as part of successfully attacking it with a weapon, or using a free, immediate, or swift action triggered by a successful attack on a creature (such as the Cornugon Smash Devils or Enforcer feats), then the demoralizing effect’s duration on that creature increases by a number of rounds equal to the fighter’s weapon training bonus.
+If the fighter succeeds at demoralizing a creature as part of successfully attacking it with a weapon, or using a free, immediate, or swift action triggered by a successful attack on a creature (such as the Cornugon Smash Devils or Enforcer feats), then the demoralizing effect’s duration on that creature increases by a number of rounds equal to the [fighter’s weapon training](../fighter.md#weapon-training-ex) bonus.
 
 **Defensive Weapon Training (Ex)**
 
@@ -132,7 +132,7 @@ The fighter gains a weapon mastery feat that he meets the prerequisites for as a
 
 **Weapon Sacrifice (Ex)**
 
-When damage would cause the fighter or an adjacent ally to be knocked unconscious or killed, as a swift or immediate action the fighter can instead direct the damage to a weapon that he is wielding. The original target takes no damage, but the weapon receives only half its normal hardness. The fighter can use this option a number of times per day equal to the fighter’s weapon training bonus. He cannot use this option with natural weapons or unarmed attacks.
+When damage would cause the fighter or an adjacent ally to be knocked unconscious or killed, as a swift or immediate action the fighter can instead direct the damage to a weapon that he is wielding. The original target takes no damage, but the weapon receives only half its normal hardness. The fighter can use this option a number of times per day equal to the [fighter’s weapon training](../fighter.md#weapon-training-ex) bonus. He cannot use this option with natural weapons or unarmed attacks.
 
 **Implementation**
 

@@ -66,7 +66,7 @@ A legendary magus must choose and prepare her spells ahead of time by getting 8 
 
 Like a sorcerer, a legendary magus can choose to apply any metamagic feats she knows to a prepared spell as she casts it, with the same increase in casting time (see Spontaneous Casting and Metamagic Feats). However, she may also prepare a spell with any metamagic feats she knows and cast it without increasing casting time like a wizard. She cannot combine these options—a spell prepared with metamagic feats cannot be further modified with another metamagic feat at the time of casting (unless she has the meta-mixing arcana, see below)
 
-A legendary magus must study her tome each day to prepare her spells. She cannot prepare any spell not recorded in her tome except for read magic, which all legendary magi can prepare from memory. A legendary magus begins play with a tome containing all 0-level magus spells plus three 1st-level magus spells of her choice. The magus also selects a number of additional 1st-level magus spells equal to her Intelligence modifier to add to her tome. At each new magus level, she gains two new magus spells of any spell level or levels that he can cast (based on her new legendary m a g u s level) for his spell book. At any time, a legendary magus can also add spells found in other tomes or spell books to her own.
+A legendary magus must study her tome each day to prepare her spells. She cannot prepare any spell not recorded in her tome except for read magic, which all legendary magi can prepare from memory. A legendary magus begins play with a tome containing all 0-level magus spells plus three 1st-level [magus spells](../magus.md#spells) of her choice. The magus also selects a number of additional 1st-level magus spells equal to her Intelligence modifier to add to her tome. At each new magus level, she gains two new magus spells of any spell level or levels that he can cast (based on her new legendary m a g u s level) for his spell book. At any time, a legendary magus can also add spells found in other tomes or spell books to her own.
 
 A legendary magus can learn spells from a wizard’s spell book, just as a wizard can from a legendary magus’s tome. The spells learned must be on the magus spell list, as normal.
 
@@ -147,7 +147,7 @@ At 2nd level, a magus learns to cast spells and wield her weapons at the same ti
 
 #### Combat Casting
 
-At 4th level the legendary magus gains [Combat Casting](../../../rules/feats/combat-casting.md) as a bonus feat, and no longer provokes opportunity attacks for casting 0th level magus spells during spell combat.
+At 4th level the legendary magus gains [Combat Casting](../../../rules/feats/combat-casting.md) as a bonus feat, and no longer provokes opportunity attacks for casting 0th level [magus spells](../magus.md#spells) during spell combat.
 
 #### Bonus Feats
 
@@ -159,7 +159,7 @@ At 7th level, the legendary magus can tap in to their arcane potential to cast a
 
 #### Legendary Combat Casting (Ex)
 
-At 7th level, a legendary magus no longer provokes an attack of opportunity when casting a 1st level magus spell during spell combat. At 10th level and every three levels after, this ability extends to the next level of magus spells, to a maximum of 5th level spells at 19th level.
+At 7th level, a legendary magus no longer provokes an attack of opportunity when casting a 1st level magus spell during spell combat. At 10th level and every three levels after, this ability extends to the next level of [magus spells](../magus.md#spells), to a maximum of 5th level spells at 19th level.
 
 #### Expanded Potential Techniques (Su)
 
