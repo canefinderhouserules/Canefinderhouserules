@@ -53,7 +53,7 @@ The following are class features of the arclord of the eye prestige class.
 
 **Weapon and Armor Proficiency**: An arclord gains no additional weapon or armor proficiencies.
 
-**Mystic Pedagogue (Ex)**: An arclord adds a bonus equal to 1/2 his class level on Spellcraft checks to learn a wizard spell or craft a magical item.
+**Mystic Pedagogue (Ex)**: An arclord adds a bonus equal to 1/2 his class level on [Spellcraft](../../rules/skills/spellcraft.md) checks to learn a wizard spell or craft a magical item.
 
 **Third Eye (Su)**: An arclord can use his Eye of the Arclord feat one additional time per day, plus one additional time per day for every two levels beyond 1st (three times per day at 3rd level, and so on). In addition, while the eye is open, the arclord can use the aid another action to grant an adjacent wizard a +1 bonus to her caster level and a +2 circumstance bonus on concentration checks for the next wizard spell she casts before the beginning of the arclord’s next turn.
 

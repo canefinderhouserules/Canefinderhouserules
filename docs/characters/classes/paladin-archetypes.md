@@ -48,7 +48,7 @@ Militant orders of lawful crusaders count a number of paladins among their ranks
 
 More insidious than meddling devils and more destructive than rampaging hordes are the strange alien entities that bubble up from the deep earth and the strange places beyond the sky. When a paladin takes this oath, she becomes a hunter of aberrations, protecting the common people from these bizarre threats. Often the paladin works in secret, not wanting to spread panic about her mission. Within cities they sometimes have underground bases that give access through the sewers and passages to strange vaults where the aberrant creatures live.
 
-**Aura of Purity (Su)**: At 3rd level, you gain a +4 sacred bonus on saves against spells and effects from creatures of the aberration type. Allies within 10 feet gain a +1 sacred bonus on these saves. This ability functions only while the paladin is conscious, not if she is unconscious or dead. This ability replaces [aura of courage](paladin.md#aura-of-courage-su).
+**Aura of Purity (Su)**: At 3rd level, you gain a +4 sacred bonus on saves against spells and effects from creatures of the aberration type. Allies within 10 feet gain a +1 sacred bonus on these saves. This ability functions only while the paladin is conscious, not if she is [unconscious](../../rules/appendices/conditions.md#unconscious) or dead. This ability replaces [aura of courage](paladin.md#aura-of-courage-su).
 
 **Cleansing Flame (Sp)**: At 11th level, you may expend two uses of your smite evil ability to ignite your weapon with a cleansing blue flame for 1 minute. This flame sheds light as a torch. Aberrations within 20 feet of the flame take a –4 penalty on attack rolls against you and your allies, and your allies within 20 feet of the flame gain a +2 sacred bonus on saving throws against spells and effects from aberrations. This ability replaces [aura of justice](paladin.md#aura-of-justice-su).
 
@@ -228,7 +228,7 @@ Legendary mountain citadels stand as beacons of a people's culture. Paladins wit
 
 **Path to the Citadel (Sp)**: At 11th level, the paladin can use the hallowed citadels as a beacon leading her on the path to her deity. If she is on the Material Plane, the paladin can use [*find the path*](../../magic/spells/find-the-path.md) once per day at her paladin level, but only to find her way to a known hallowed citadel. If she is not on the Material Plane, she can instead use this ability to use [*plane shift*](../../magic/spells/plane-shift.md) as per the spell to travel to a known hallowed citadel. If she is in a hallowed citadel, she can expend her daily use of this ability to use *plane shift* to travel to the realm of her deity. This ability replaces [aura of justice](paladin.md#aura-of-justice-su).
 
-**Stalwart (Ex)**: At 14th level, the paladin's quest has strengthened her body and mind. If she succeeds at a Fortitude or Will saving throw against an effect that has a reduced effect on a successful save, she instead avoids the effect entirely. A helpless paladin does not gain the benefit of the stalwart ability. This ability replaces [aura of faith](paladin.md#aura-of-faith-su).
+**Stalwart (Ex)**: At 14th level, the paladin's quest has strengthened her body and mind. If she succeeds at a Fortitude or Will saving throw against an effect that has a reduced effect on a successful save, she instead avoids the effect entirely. A [helpless](../../rules/appendices/conditions.md#helpless) paladin does not gain the benefit of the stalwart ability. This ability replaces [aura of faith](paladin.md#aura-of-faith-su).
 
 **Code of Conduct**: Reclaim a hallowed citadel in the name of honorable ideals. Defend citadels already held by her people.
 
@@ -240,7 +240,7 @@ Legendary mountain citadels stand as beacons of a people's culture. Paladins wit
 
 Free peoples hold their elected officials to extremely high standards of conduct. Paladins swearing the oath of the public trust serve the common good by finding and thwarting those who abuse their authority.
 
-**Skills**: The oathbound paladin's class skills include Linguistics, Perception, and Perform, but not Handle Animal, Ride, or Spellcraft.
+**Skills**: The oathbound paladin's class skills include [Linguistics](../../rules/skills/linguistics.md), [Perception](../../rules/skills/perception.md), and [Perform](../../rules/skills/perform.md), but not [Handle Animal](../../rules/skills/handle-animal.md), [Ride](../../rules/skills/ride.md), or [Spellcraft](../../rules/skills/spellcraft.md).
 
 **Stirring Monologue (Su)**: At 1st level, the paladin can deliver a stirring monologue on the ideals of justice and fairness, motivating allies and persuading others. This functions as bardic performance as per a bard of her paladin level using Perform (oratory). All the effects are language-dependent even if they would not normally be. The paladin gains the following performances at the indicated levels: inspire courage (1st), fascinate (4th), inspire competence (5th), suggestion (7th), dirge of dread (10th), inspire greatness (13th), frightening tune (16th), and mass suggestion (19th). This ability replaces [smite evil](paladin.md#smite-evil-su).
 
@@ -314,7 +314,7 @@ While paladins often are seen mounted atop a loyal steed, the shining knight is 
 
 **Divine Bond (Su)**: Upon reaching 5th level, a shining knight must form a bond with a mount. This ability otherwise functions as the [paladin ability](paladin.md#divine-bond-sp).
 
-**Knight’s Charge (Su)**: At 11th level, whenever a mounted shining knight charges a foe, her movement does not provoke attacks of opportunity, for either her or her mount. In addition, if her target is also the target of her smite evil ability and the charge attack hits, the target must make a Will save or be panicked for a number of rounds equal to 1/2 the shining knight’s level. The DC of this save is equal to 10 + 1/2 the shining knight’s level + the shining knight’s Charisma modifier. This ability replaces [aura of justice](paladin.md#aura-of-justice-su).
+**Knight’s Charge (Su)**: At 11th level, whenever a mounted shining knight charges a foe, her movement does not provoke attacks of opportunity, for either her or her mount. In addition, if her target is also the target of her smite evil ability and the charge attack hits, the target must make a Will save or be [panicked](../../rules/appendices/conditions.md#panicked) for a number of rounds equal to 1/2 the shining knight’s level. The DC of this save is equal to 10 + 1/2 the shining knight’s level + the shining knight’s Charisma modifier. This ability replaces [aura of justice](paladin.md#aura-of-justice-su).
 
 ### Undead Scourge
 
@@ -342,13 +342,13 @@ At 16th level, the nimbus of light grants the warrior of the holy light and her 
 
 At 20th level, the nimbus of light increases in size out to a range of 60 feet. In addition, all of its bonuses increase. The morale bonus to AC and on attack rolls, damage rolls, and saving throws against fear increases to +2. The amount of ability damage healed increases to 2d4. The energy resistance increases to 20 against one energy type. Finally, protection against critical hits increases to 50%.
 
-**Shining Light (Su)**: At 14th level, a warrior of the holy light can unleash a 30-foot burst of pure, white light as a standard action. Evil creatures within this burst take 1d6 points of damage for every two paladin levels and are blinded for 1 round. Evil dragons, evil outsiders, and evil undead are blinded for 1d4 rounds on a failed save. A Reflex save halves this damage and negates the blindness. The DC of this save is equal to 10 + 1/2 the warrior of the holy light’s level + the warrior of the holy light’s Charisma modifier. Good creatures within this burst are healed 1d6 points of damage per two paladin levels and receive a +2 sacred bonus on ability checks, attack rolls, saving throws, and skill checks for 1 round. A warrior of the holy light can use this ability once per day at 14th level plus one additional time per day at 17th and 20th levels. This ability replaces [aura of faith](paladin.md#aura-of-faith-su).
+**Shining Light (Su)**: At 14th level, a warrior of the holy light can unleash a 30-foot burst of pure, white light as a standard action. Evil creatures within this burst take 1d6 points of damage for every two paladin levels and are [blinded](../../rules/appendices/conditions.md#blinded) for 1 round. Evil dragons, evil outsiders, and evil undead are blinded for 1d4 rounds on a failed save. A Reflex save halves this damage and negates the blindness. The DC of this save is equal to 10 + 1/2 the warrior of the holy light’s level + the warrior of the holy light’s Charisma modifier. Good creatures within this burst are healed 1d6 points of damage per two paladin levels and receive a +2 sacred bonus on ability checks, attack rolls, saving throws, and skill checks for 1 round. A warrior of the holy light can use this ability once per day at 14th level plus one additional time per day at 17th and 20th levels. This ability replaces [aura of faith](paladin.md#aura-of-faith-su).
 
 ## Holy Guide
 
 A holy guide believes that it's his sacred calling to clear the roads of bandits between towns as well as to escort travelers to safety. He must enforce the rule of law in the wilderness and help those that cannot defend themselves against the many dangers of the area.
 
-**Class Skills**: A holy guide gains Knowledge (geography) and Survival as class skills.
+**Class Skills**: A holy guide gains [Knowledge](../../rules/skills/knowledge.md) (geography) and Survival as class skills.
 
 **Favored Terrain (Ex)**: At 3rd level, a holy guide chooses a favored terrain from the ranger favored terrains table. This otherwise functions like the [ranger ability](ranger.md#favored-terrain-ex) of the same name. This ability replaces the mercy gained at 3rd level. Every time a holy guide would be able to select another mercy, he can instead select another favored terrain and increase his bonuses for one existing favored terrain, just like a ranger.
 
@@ -386,7 +386,7 @@ Most paladins rush into battle, meeting evil toe-to-toe. The divine hunter prefe
 
 **Distant Mercy (Sp)**: At 6th level, a divine hunter can expend two uses of her lay on hand abilities to use her lay on hands ability on a target within 5 feet per paladin level. Distant mercy has no effect on creatures harmed by positive energy, such as undead. This ability replaces the paladin’s 6th-level [mercy](paladin.md#mercy-su).
 
-**Aura** of Care (Su): At 8th level, a divine hunter and her allies gain a preternatural awareness of each other’s position in battle. She and any allies within 10 feet of her no longer provide cover against each other’s ranged attacks unless they wish to. Allies who cannot move or otherwise take actions still provide cover, as do flat-footed allies. The divine hunter and her allies must be able to see or hear each other to use this ability. This ability replaces [aura of resolve](paladin.md#aura-of-resolve-su).
+**Aura** of Care (Su): At 8th level, a divine hunter and her allies gain a preternatural awareness of each other’s position in battle. She and any allies within 10 feet of her no longer provide cover against each other’s ranged attacks unless they wish to. Allies who cannot move or otherwise take actions still provide cover, as do [flat-footed](../../rules/appendices/conditions.md#flat-footed) allies. The divine hunter and her allies must be able to see or hear each other to use this ability. This ability replaces [aura of resolve](paladin.md#aura-of-resolve-su).
 
 **Hunter’s Blessing (Su)**: At 11th level, a divine hunter can expend a use of her smite evil ability as a swift action to grant herself and all allies within 10 feet the [Deadly Aim](../../rules/feats/deadly-aim.md), Precise Shot, and [Improved Precise Shot](../../rules/feats/improved-precise-shot.md) feats, even if they lack the prerequisites. The effects last for 1 minute. Evil creatures gain no benefit from this ability. This ability replaces [aura of justice](paladin.md#aura-of-justice-su).
 
@@ -468,7 +468,7 @@ The knight of the sepulcher archetype is available only to the antipaladin alter
 
 **Weapons of Sin (Su)**: At 14th level, a knight of the sepulcher’s weapons are treated as evil-aligned for the purposes of overcoming damage reduction. This ability replaces aura of sin.
 
-**Crypt Lord (Ex)**: At 15th level, a knight of the sepulcher’s chance of ignoring critical hits and sneak attacks increases to 75%, as though he were wearing armor of heavy fortification. He gains immunity to death effects, paralysis, sleep effects, and stunning. He no longer sleeps. The knight of the sepulcher also gains immunity to effects that cause fatigue, and effects that would cause him to become exhausted instead cause him to become fatigued. This ability replaces cruelty.
+**Crypt Lord (Ex)**: At 15th level, a knight of the sepulcher’s chance of ignoring critical hits and sneak attacks increases to 75%, as though he were wearing armor of heavy fortification. He gains immunity to death effects, paralysis, sleep effects, and stunning. He no longer sleeps. The knight of the sepulcher also gains immunity to effects that cause fatigue, and effects that would cause him to become [exhausted](../../rules/appendices/conditions.md#exhausted) instead cause him to become [fatigued](../../rules/appendices/conditions.md#fatigued). This ability replaces cruelty.
 
 **Soul of the Crypt (Su)**: At 17th level, a knight of the sepulcher gains DR 5/bludgeoning and good. This ability replaces aura of depravity.
 
@@ -494,7 +494,7 @@ If a shield with a celestial spirit is destroyed, the sacred shield loses the us
 
 Forest preservers are sacred defenders of the woodlands and of the wild creatures and natural beauty within them.
 
-**Class Skills**: A forest preserver adds Climb, Knowledge (nature), and Survival to her list of class skills. She does not gain Diplomacy, Knowledge (nobility), or Sense Motive as class skills. This alters the paladin’s class skills.
+**Class Skills**: A forest preserver adds [Climb](../../rules/skills/climb.md), Knowledge (nature), and Survival to her list of class skills. She does not gain [Diplomacy](../../rules/skills/diplomacy.md), Knowledge (nobility), or Sense Motive as class skills. This alters the paladin’s class skills.
 
 **Favored Terrain (Ex)**: At 3rd level, a forest preserver gains the [ranger’s favored terrain](ranger.md#favored-terrain-ex) ability but must select either forest or jungle as her favored terrain. The bonuses granted by this ability increase by 2 for every 5 levels after 3rd, but she does not gain additional favored terrains. This replaces [aura of courage](paladin.md#aura-of-courage-su).
 
@@ -516,11 +516,11 @@ A sacred grove remains enhanced in this way for a number of minutes equal to the
 
 Hunting paladins are tenacious trackers and stealthy stalkers in pursuit of evildoers.
 
-**Class Skills**: A hunting paladin adds Knowledge (nature), Perception, Stealth, and Survival as class skills. She does not gain Diplomacy, Heal, Knowledge (nobility), or Spellcraft as class skills. This alters the paladin’s class skills.
+**Class Skills**: A hunting paladin adds Knowledge (nature), Perception, [Stealth](../../rules/skills/stealth.md), and Survival as class skills. She does not gain Diplomacy, [Heal](../../rules/skills/heal.md), Knowledge (nobility), or Spellcraft as class skills. This alters the paladin’s class skills.
 
 **Weapon and Armor Proficiency**: A hunting paladin is not proficient with [heavy armor](../../equipment/armor.md). This alters the paladin’s armor proficiencies.
 
-**Hunt Evil (Su)**: Once per day, a hunting paladin can designate a single evil creature within her sight or one that she has determined to be evil by declaring it the target of her hunt and following its tracks; this allows her to add her Charisma modifier as a bonus on Survival checks to follow that creature’s tracks and on Perception and Stealth checks opposed by the target of her hunt. She can sense her target’s presence and location, which lets her pinpoint her target’s location when within 10 feet; if the target has concealment, she can roll twice and use the better result on rolls to determine whether she misses due to the concealment. She gains uncanny dodge as per the barbarian class feature against her target.
+**Hunt Evil (Su)**: Once per day, a hunting paladin can designate a single evil creature within her sight or one that she has determined to be evil by declaring it the target of her hunt and following its tracks; this allows her to add her Charisma modifier as a bonus on [Survival](../../rules/skills/survival.md) checks to follow that creature’s tracks and on Perception and Stealth checks opposed by the target of her hunt. She can sense her target’s presence and location, which lets her pinpoint her target’s location when within 10 feet; if the target has concealment, she can roll twice and use the better result on rolls to determine whether she misses due to the concealment. She gains uncanny dodge as per the barbarian class feature against her target.
 
 If the hunting paladin targets a nonevil creature with hunt evil, the ability fails and it is wasted. This ability ends after 24 hours (unless she spends the next day’s use of this ability to continue hunting the same target), after the hunting paladin or the target is killed or when she designates a new target for her hunt. This replaces the use of smite evil gained at 1st level.
 
@@ -614,7 +614,7 @@ Gray paladins have discovered that in a world of intrigue, a strict code of hono
 
 **Alignment**: A gray paladin can be lawful good, lawful neutral, or neutral good, though she must still follow a lawful good, neutral good, or lawful neutral deity. This alters the paladin’s alignment restrictions.
 
-**Class Skills**: A gray paladin adds Bluff, Disguise, and Intimidate to her list of class skills. This alters the paladin’s class skills.
+**Class Skills**: A gray paladin adds [Bluff](../../rules/skills/bluff.md), [Disguise](../../rules/skills/disguise.md), and Intimidate to her list of class skills. This alters the paladin’s class skills.
 
 **Weakened Grace**: A gray paladin’s loosened code weakens her connection to the power that grants her paladin abilities. She gains her first use of smite evil at 2nd level, instead of 1st, though she still gains further uses of smite evil at the rate listed on Table 3–11 of the *Core Rulebook*. She never gains the aura of good or divine grace class features. Her aura of courage does not make her immune to fear, her aura of resolve does not make her immune to charms, and her aura of righteousness does not make her immune to compulsions. This ability alters [smite evil](paladin.md#smite-evil-su), [aura of courage](paladin.md#aura-of-courage-su), [aura of resolve](paladin.md#aura-of-resolve-su), and [aura of righteousness](paladin.md#aura-of-righteousness-su), and it replaces aura of good and [divine grace](paladin.md#divine-grace-su).
 
@@ -680,7 +680,7 @@ This ability replaces [detect evil](paladin.md#detect-evil-sp) and [divine grace
 
 This ability alters [lay on hands](paladin.md#lay-on-hands-su), channel energy, [divine bond](paladin.md#divine-bond-sp), [aura of courage](paladin.md#aura-of-courage-su), [aura of resolve](paladin.md#aura-of-resolve-su), [aura of faith](paladin.md#aura-of-faith-su), and [aura of righteousness](paladin.md#aura-of-righteousness-su).
 
-**Second Chance (Su)**: At 2nd level, once per day, a tortured crusader can spend two uses of lay on hands and choose an unambiguous trigger such as “when I am paralyzed” or “when I am about to fall unconscious from hit point damage,” as well as a mercy she knows starting at 3rd level. When the named trigger occurs, the tortured crusader gains the benefits of a lay on hands with the chosen mercy without spending an action. This healing can prevent her from falling unconscious or dying. If the effect doesn’t trigger, it expires the next time the tortured crusader recovers uses of lay on hands.
+**Second Chance (Su)**: At 2nd level, once per day, a tortured crusader can spend two uses of lay on hands and choose an unambiguous trigger such as “when I am [paralyzed](../../rules/appendices/conditions.md#paralyzed)” or “when I am about to fall unconscious from hit point damage,” as well as a mercy she knows starting at 3rd level. When the named trigger occurs, the tortured crusader gains the benefits of a lay on hands with the chosen mercy without spending an action. This healing can prevent her from falling unconscious or dying. If the effect doesn’t trigger, it expires the next time the tortured crusader recovers uses of lay on hands.
 
 This ability alters [lay on hands](paladin.md#lay-on-hands-su) and [mercy](paladin.md#mercy-su).
 
@@ -730,7 +730,7 @@ Invigorators devote themselves to keeping their allies bodily whole. These selfl
 
 During a battle, the invigorator can change the allies this ability affects as a swift action. Ending it is a free action, but each time it is activated during a single combat, another use of the ability is expended. The invigorator can use this ability a number of times per day equal to 3 + her Charisma modifier.
 
-The invigorator must participate in the combat to use this ability. If she is frightened, panicked, paralyzed, stunned, unconscious, or otherwise prevented from participating in the combat, any DR this ability bestows is temporarily suspended until she can participate in the combat again; this doesn’t count as ending the ability.
+The invigorator must participate in the combat to use this ability. If she is [frightened](../../rules/appendices/conditions.md#frightened), panicked, paralyzed, [stunned](../../rules/appendices/conditions.md#stunned), unconscious, or otherwise prevented from participating in the combat, any DR this ability bestows is temporarily suspended until she can participate in the combat again; this doesn’t count as ending the ability.
 
 At 4th level, and at every 3 paladin levels thereafter, the DR this ability grants increases by 1, to a maximum of DR 7/— at 19th level.
 
@@ -763,7 +763,7 @@ Add the following new mercies to the list that paladins (and other characters wh
 
 ### 9th-Level Mercies
 
-- *Confused*: The target is no longer confused.
+- *Confused*: The target is no longer [confused](../../rules/appendices/conditions.md#confused).
 - *Injured*: The target gains fast healing 3 for a number of rounds equal to 1/2 the paladin’s level.
 - *Restorative*: The target heals 1d4 points of ability damage from a single ability score of the paladin’s choosing. The paladin must have the enfeebled mercy before selecting this mercy.
 
@@ -771,7 +771,7 @@ Add the following new mercies to the list that paladins (and other characters wh
 
 - *Amputated*: The paladin’s lay on hands also acts as [*regenerate*](../../magic/spells/regenerate.md), but only for the purposes of regrowing severed body members, broken bones, and ruined organs. The paladin must have the injured mercy before she can select this mercy.
 - *Ensorcelled*: The paladin’s lay on hands also acts as [*dispel magic*](../../magic/spells/dispel-magic.md), using the paladin’s level as her caster level (maximum 20).
-- *Petrified*: The [paladin’s lay on hands](paladin.md#lay-on-hands-su) ability also acts as [*stone to flesh*](../../magic/spells/stone-to-flesh.md), but only for the purpose of removing the petrified condition from a creature.
+- *Petrified*: The [paladin’s lay on hands](paladin.md#lay-on-hands-su) ability also acts as [*stone to flesh*](../../magic/spells/stone-to-flesh.md), but only for the purpose of removing the [petrified](../../rules/appendices/conditions.md#petrified) condition from a creature.
 
 ## Variant Divine Bonds
 
@@ -803,7 +803,7 @@ Legates present themselves not as armed crusaders, but as peaceful envoys and ad
 
 Paladins of a god of self-perfection meditate on mastery and train relentlessly, knowing that their example can inspire others to excel. Such a god offers no universal paladin code—each paladin in his service creates his own code as part of his spiritual journey, seeing the adherence to such a self-formulated creed as one of the many tests one must face to reach perfection.
 
-**Skills**: A paladin of perfection gains Acrobatics, Climb, and Swim as class skills.
+**Skills**: A paladin of perfection gains [Acrobatics](../../rules/skills/acrobatics.md), Climb, and Swim as class skills.
 
 **Confident Defense (Ex)**: At 1st level, when wearing light or no armor and not using a shield, a paladin of perfection adds 1 point of his Charisma bonus (if any) per class level to his Dexterity bonus to his Armor Class. If he is caught flat-footed or otherwise denied his Dexterity bonus, he also loses this bonus. This ability replaces his proficiency with [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), and [shields](../../equipment/armor.md).
 
@@ -883,13 +883,13 @@ Triton kraken slayers oppose all underwater threats, but they especially target 
 
 **Divine Bond (Sp)**: A kraken slayer who chooses a weapon as her divine bond may either increase her weapon's enhancement bonus or add any of the following properties to her weapon: axiomatic, brilliant energy, defending, grayflame, holy, keen, merciful, seaborne, and speed. A kraken slayer who chooses a mount must select one suitable for an aquatic environment, such as an elasmosaurus, giant seahorse, or orca. This ability alters [divine bond](paladin.md#divine-bond-sp).
 
-**Aura of Elusion (Su)**: At 14th level, a kraken slayer gains a sacred bonus equal to her kraken slayer level on Escape Artist checks and combat maneuver checks to escape a grapple and to her CMD to avoid being grappled. Each ally within 10 feet of her gains a sacred bonus equal to half her kraken slayer level on Escape Artist checks and combat maneuver checks to escape a grapple and to CMD to avoid being grappled. This ability functions only while the paladin is conscious, not if she is unconscious or dead. This ability replaces [aura of faith](paladin.md#aura-of-faith-su).
+**Aura of Elusion (Su)**: At 14th level, a kraken slayer gains a sacred bonus equal to her kraken slayer level on [Escape Artist](../../rules/skills/escape-artist.md) checks and combat maneuver checks to escape a grapple and to her CMD to avoid being [grappled](../../rules/appendices/conditions.md#grappled). Each ally within 10 feet of her gains a sacred bonus equal to half her kraken slayer level on Escape Artist checks and combat maneuver checks to escape a grapple and to CMD to avoid being grappled. This ability functions only while the paladin is conscious, not if she is unconscious or dead. This ability replaces [aura of faith](paladin.md#aura-of-faith-su).
 
 ## Dusk Knight
 
 Some paladins focus their training to combat the shadows and use darkness to their advantage. Known as dusk knights, these paladins hold darkness to be as useful a tool for justice as light.
 
-**Skills**: A dusk knight adds Stealth to her list of class skills, instead of Sense Motive. This alters the paladin's class skills.
+**Skills**: A dusk knight adds Stealth to her list of class skills, instead of [Sense Motive](../../rules/skills/sense-motive.md). This alters the paladin's class skills.
 
 **Shadow Smite (Su)**: A dusk knight gains concealment for 1 round per paladin level against the target of her smite evil ability in addition to its other effects. The dusk knight doesn't deal additional damage with her smite evil ability. This ability alters [smite evil](paladin.md#smite-evil-su).
 
@@ -905,7 +905,7 @@ Some paladins focus their training to combat the shadows and use darkness to the
 
 Servants of gods who revere wealth, knights of coins promote fair trade and stable commerce between cities and between nations. Many of these knights follow gods of trade, and some have also taken the sacred shield archetype. Regardless, knights of coins know that a prosperous city can uplift and enrich more people than pious prayers alone.
 
-**Class Skills**: A knight of coins adds Appraise, Knowledge (local), Perception, and Use Magic Device to her list of class skills. She gains a number of skill ranks equal to 4 + her Intelligence modifier at each level, instead of a number of skill ranks equal to 2 + her Intelligence modifier. This alters the paladin's class skills and skill ranks per level.
+**Class Skills**: A knight of coins adds [Appraise](../../rules/skills/appraise.md), Knowledge (local), Perception, and Use Magic Device to her list of class skills. She gains a number of skill ranks equal to 4 + her Intelligence modifier at each level, instead of a number of skill ranks equal to 2 + her Intelligence modifier. This alters the paladin's class skills and skill ranks per level.
 
 **Eye for Forgeries (Sp)**: At will, a knight of coins can concentrate on a single item within 30 feet as a move action. When she does, the knight of coins can detect if it is magical, as per the spell [*detect magic*](../../magic/spells/detect-magic.md). The knight of coins cannot concentrate on more than one item in this way at a time. This replaces [detect evil](paladin.md#detect-evil-sp).
 
@@ -916,7 +916,7 @@ Servants of gods who revere wealth, knights of coins promote fair trade and stab
 - The target adds an extra 10% to the gp value gained when selling off treasure (normally 50% of the item's original value). This blessing cannot result in selling treasure for more than 100% of its original value.
 - The target gains a +4 sacred bonus on Appraise and Sense Motive checks.
 - The target gains a +4 sacred bonus on Perception checks and to CMD against disarm and steal combat maneuvers.
-- The target gains a +4 sacred bonus on Craft, Perform, and Profession checks.
+- The target gains a +4 sacred bonus on [Craft](../../rules/skills/craft.md), Perform, and [Profession](../../rules/skills/profession.md) checks.
 - The target can use *locate object* as a spell-like ability once, using the knight of coins' class level as the caster level.
 - The target can treat one settlement as having its base value and purchase limit increased by 30%. The target must choose the affected settlement when the knight of coins bestows this blessing.
 - The target can treat one settlement as being one size category larger for the purposes of determining available magic items. The target must choose the affected settlement when the knight of coins bestows this blessing.
@@ -995,7 +995,7 @@ While most paladins stride brazenly forth to battle evil in gleaming armor, fait
 
 **Class Skills**: A champion of the cascade adds Acrobatics, Knowledge (geography), and Swim to her list of class skills and removes Knowledge (nobility). This alters the paladin's class skills.
 
-**Swiftsurge (Ex)**: At 3rd level, a champion of the cascade does not take any penalty on Acrobatics or Swim checks due to her armor check penalty. This replaces [divine health](paladin.md#divine-health-ex).
+**Swiftsurge (Ex)**: At 3rd level, a champion of the cascade does not take any penalty on Acrobatics or [Swim](../../rules/skills/swim.md) checks due to her armor check penalty. This replaces [divine health](paladin.md#divine-health-ex).
 
 **Flowing Stride (Su)**: At 3rd level, whenever a champion of the cascade uses lay on hands to restore hit points to one target, she can grant a willing target the ability to walk on water as [*water walk*](../../magic/spells/water-walk.md) for 1 minute. At 9th level, this extends to creatures healed by her channel positive energy. At 15th level, healed creatures can walk on water for 24 hours. This replaces [mercy](paladin.md#mercy-su).
 

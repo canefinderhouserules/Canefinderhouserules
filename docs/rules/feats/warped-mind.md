@@ -4,7 +4,7 @@ Rather than being overwhelmed by mind-blasting distortions of reality, you gaine
 
 **Prerequisites**: Wis 15, demonic rift affinity.
 
-**Benefit**: Anyone attempting to read your thoughts, communicate with you via telepathy, or otherwise contact your mind is dazed for 1d4 rounds (Will save DC 15 + your Cha modifier negates). In addition, you gain a +2 bonus on initiative checks and a +1 bonus on Will saves.
+**Benefit**: Anyone attempting to read your thoughts, communicate with you via telepathy, or otherwise contact your mind is [dazed](../appendices/conditions.md#dazed) for 1d4 rounds (Will save DC 15 + your Cha modifier negates). In addition, you gain a +2 bonus on initiative checks and a +1 bonus on Will saves.
 
 **Special**: You take a –1 penalty on all Intelligence-based skill checks.
 

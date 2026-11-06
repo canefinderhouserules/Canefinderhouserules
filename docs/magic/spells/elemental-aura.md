@@ -10,11 +10,11 @@
 
 This spell forms an aura of energy around you, damaging all those that come near you. Choose an energy type: acid, cold, electricity, or fire. Creatures adjacent to you when this spell is cast and at the start of your turn take 2d6 points of energy damage of the selected type. This aura has an additional effect, depending upon the type of energy chosen.
 
-**Acid**: Creatures affected by your aura take 1 point of ongoing acid damage per round for 1 round per three caster levels, and are sickened for the duration of the ongoing acid damage.
+**Acid**: Creatures affected by your aura take 1 point of ongoing acid damage per round for 1 round per three caster levels, and are [sickened](../../rules/appendices/conditions.md#sickened) for the duration of the ongoing acid damage.
 
-**Cold**: Creatures affected by your aura are fatigued. A creature that is already fatigued suffers no additional effect.
+**Cold**: Creatures affected by your aura are [fatigued](../../rules/appendices/conditions.md#fatigued). A creature that is already fatigued suffers no additional effect.
 
-**Electricity**: Creatures affected by your aura are staggered for 1 round.
+**Electricity**: Creatures affected by your aura are [staggered](../../rules/appendices/conditions.md#staggered) for 1 round.
 
 **Fire**: Creatures affected by your aura catch on fire (Core Rulebook).
 

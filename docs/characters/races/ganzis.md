@@ -13,7 +13,7 @@ Ganzis are defined by their class levels—they do not have racial Hit Dice. All
 - **Base Speed**: Ganzis have a base speed of 30 feet.
 - **Darkvision**: Ganzis can see in the dark up to 60 feet.
 - **Chaos Resistance**: Ganzis have acid resistance 5, electricity resistance 5, and sonic resistance 5, and they gain a +2 racial bonus on saving throws against spells of the polymorph subschool.
-- **Skilled**: Ganzis gain a +2 racial bonus on Sense Motive and Survival checks.
+- **Skilled**: Ganzis gain a +2 racial bonus on [Sense Motive](../../rules/skills/sense-motive.md) and [Survival](../../rules/skills/survival.md) checks.
 - **Ganzi Oddity**: See below.
 - **Languages**: Ganzis begin play speaking Common and one of the following: Abyssal, Celestial, or Protean. Ganzis with high Intelligence scores can select any of those languages as bonus languages, along with Aklo, Aquan, Auran, Ignan, Sylvan, or Terran.
 
@@ -23,7 +23,7 @@ As creatures infused with the entropic forces of a plane of chaos, all ganzis ha
 
 **1–2: Chaos Champion (Su)**: Ganzis with a lineage linked to the einherji often become crusaders for the forces of entropy and excel in combat against lawful beings. The ganzi can smite law once per day as a swift action, targeting a lawful foe. She adds her Charisma modifier as a bonus on attack rolls and gains a bonus on damage rolls equal to her Hit Dice. Once activated, smite law persists until the target is dead or the ganzi rests, whichever comes first.
 
-**3–4: Entropic Flesh (Ex)**: Ganzis with lineages that link strongly to chaos beasts retain some of their ancestors' immunity to transformation. In addition to gaining a +2 bonus on Escape Artist checks and to CMD against grapple combat maneuvers, when such ganzis are affected by a hostile transmutation effect (such as polymorphing or petrification), they can attempt a new saving throw at the start of their next turn to end the effect. They gain a +4 bonus on this second saving throw, but if they fail, the transmutation effect persists as long as it normally would.
+**3–4: Entropic Flesh (Ex)**: Ganzis with lineages that link strongly to chaos beasts retain some of their ancestors' immunity to transformation. In addition to gaining a +2 bonus on [Escape Artist](../../rules/skills/escape-artist.md) checks and to CMD against grapple combat maneuvers, when such ganzis are affected by a hostile transmutation effect (such as polymorphing or petrification), they can attempt a new saving throw at the start of their next turn to end the effect. They gain a +4 bonus on this second saving throw, but if they fail, the transmutation effect persists as long as it normally would.
 
 **5–6: Prehensile Tail (Ex)**: Ganzis with lineages that are particularly influenced by the presence of proteans often have colorful feathers, scales, or skin, and a long serpentine tail. This tail can be used to carry items. While ganzis with this oddity cannot wield weapons with their tails, they can use their tails to retrieve small, stowed objects carried on their persons as a swift action.
 
@@ -45,18 +45,18 @@ At the GM's discretion, players with ganzi characters can instead roll 1d20 on t
 
 **4–6: Ink (Ex)**: As a standard action, the ganzi can spit a stream of opaque, black ink from her mouth to a distance of up to 20 feet. The ganzi can target either a creature or a square on the ground, each with different effects, as detailed below. The ganzi can use this ability once per day, plus one additional time per day for every 4 Hit Dice she has.
 
-- *Creature*: The ganzi shoots a stream of ink into a creature's eyes as a ranged touch attack with a range of 30 feet. If the ganzi hits, the target must succeed at a Fortitude saving throw (DC = 10 + half the ganzi's Hit Dice + the ganzi's Constitution modifier) or be blinded for 1d4 rounds.
-- *Ground*: The ganzi spits the ink into a single square on the ground within 30 feet, which becomes slippery for 1d6 rounds. Any creatures entering the square must succeed at a Reflex save (DC = 10 + half the ganzi's Hit Dice + the ganzi's Constitution modifier) or fall prone.
+- *Creature*: The ganzi shoots a stream of ink into a creature's eyes as a ranged touch attack with a range of 30 feet. If the ganzi hits, the target must succeed at a Fortitude saving throw (DC = 10 + half the ganzi's Hit Dice + the ganzi's Constitution modifier) or be [blinded](../../rules/appendices/conditions.md#blinded) for 1d4 rounds.
+- *Ground*: The ganzi spits the ink into a single square on the ground within 30 feet, which becomes slippery for 1d6 rounds. Any creatures entering the square must succeed at a Reflex save (DC = 10 + half the ganzi's Hit Dice + the ganzi's Constitution modifier) or fall [prone](../../rules/appendices/conditions.md#prone).
 
 **7–10: Racing Mind (Ex)**: A ganzi whose lineage is linked to hunduns might inherit an aspect of the outsiders' chaotic minds. The ganzi's churning vortex of thoughts bolsters it against mental attacks, granting the ganzi a +2 bonus on Will saves against mind-affecting effects.
 
 **11–13: Spell-Like Ability (Sp)**: Ganzis whose chaotic influences rise from sources other than a plane of chaos or its inhabitants often manifest an oddity that duplicates the effects of a specific spell. Such a ganzi gains one of the following spell-like abilities, which can be used once per day with a caster level equal to the ganzi's HD: [*acid arrow*](../../magic/spells/acid-arrow.md), [*gust of wind*](../../magic/spells/gust-of-wind.md), [*mirror image*](../../magic/spells/mirror-image.md), [*resist energy*](../../magic/spells/resist-energy.md), [*scorching ray*](../../magic/spells/scorching-ray.md), [*see invisibility*](../../magic/spells/see-invisibility.md), or [*warp wood*](../../magic/spells/warp-wood.md).
 
-**14–16: Uncanny Aura (Su)**: Some ganzis have an unsettling aura of chaos that rattles hostile creatures that venture too close. Once per day as a standard action, such a ganzi can activate an uncanny aura; enemies within 30 feet must succeed at a Will saving throw (DC = 10 + half the ganzi's Hit Dice + the ganzi's Charisma modifier) or become frightened until the beginning of the ganzi's next turn. The aura remains for a number of rounds equal to the ganzi's Charisma modifier (minimum 1 round). Once a creature has been affected by an uncanny aura, whether it failed its save or not, it cannot be affected again for 24 hours.
+**14–16: Uncanny Aura (Su)**: Some ganzis have an unsettling aura of chaos that rattles hostile creatures that venture too close. Once per day as a standard action, such a ganzi can activate an uncanny aura; enemies within 30 feet must succeed at a Will saving throw (DC = 10 + half the ganzi's Hit Dice + the ganzi's Charisma modifier) or become [frightened](../../rules/appendices/conditions.md#frightened) until the beginning of the ganzi's next turn. The aura remains for a number of rounds equal to the ganzi's Charisma modifier (minimum 1 round). Once a creature has been affected by an uncanny aura, whether it failed its save or not, it cannot be affected again for 24 hours.
 
-**17–18: Vestigial Wings (Ex)**: The ganzi has a pair of small, vestigial wings, likely but not limited to resembling those of a flying creature or some manner of construct. Though these appendages do not grant flight, these ganzis can use their wings to stabilize themselves when they're thrown off balance. Such ganzis gain a +1 bonus on Reflex saving throws and a +2 bonus on Acrobatics checks to balance.
+**17–18: Vestigial Wings (Ex)**: The ganzi has a pair of small, vestigial wings, likely but not limited to resembling those of a flying creature or some manner of construct. Though these appendages do not grant flight, these ganzis can use their wings to stabilize themselves when they're thrown off balance. Such ganzis gain a +1 bonus on Reflex saving throws and a +2 bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks to balance.
 
-**19–20: Void Touch (Su)**: A ganzi whose lineage is influenced strongly by voidworms might exhibit the ability to inflict chaos on others' minds. Three times per day when such a ganzi hits a creature with a melee attack, the ganzi can deliver a burst of chaos to that creature as a free action. The target must succeed at a Will save (DC = 10 + half the ganzi's Hit Dice + the ganzi's Constitution modifier) or be confused for 1 round.
+**19–20: Void Touch (Su)**: A ganzi whose lineage is influenced strongly by voidworms might exhibit the ability to inflict chaos on others' minds. Three times per day when such a ganzi hits a creature with a melee attack, the ganzi can deliver a burst of chaos to that creature as a free action. The target must succeed at a Will save (DC = 10 + half the ganzi's Hit Dice + the ganzi's Constitution modifier) or be [confused](../../rules/appendices/conditions.md#confused) for 1 round.
 
 ## Favored Class Options
 
@@ -66,9 +66,9 @@ The following options are available to ganzis who have the listed favored class,
 
 **Bard**: Add 1/2 to the bard's bardic knowledge bonus.
 
-**Druid**: The druid gains a +1 bonus on Knowledge (nature) or Knowledge (planes) checks related to extraplanar flora and fauna.
+**Druid**: The druid gains a +1 bonus on [Knowledge](../../rules/skills/knowledge.md) (nature) or Knowledge (planes) checks related to extraplanar flora and fauna.
 
-**Hunter**: The hunter's animal companion is specially trained for extraplanar expeditions and gains a +1 bonus on Stealth and Acrobatics checks while on a plane other than the Material Plane.
+**Hunter**: The hunter's animal companion is specially trained for extraplanar expeditions and gains a +1 bonus on [Stealth](../../rules/skills/stealth.md) and Acrobatics checks while on a plane other than the Material Plane.
 
 **Investigator**: Increase the total number of points in the investigator's inspiration pool by 1/3.
 

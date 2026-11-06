@@ -90,11 +90,11 @@ Unlike normal animals of its kind, an animal companion’s Hit Dice, abilities, 
 
 ### Nature Sense (Ex)
 
-A druid gains a +2 bonus on Knowledge (nature) and Survival checks.
+A druid gains a +2 bonus on [Knowledge](../../rules/skills/knowledge.md) (nature) and [Survival](../../rules/skills/survival.md) checks.
 
 ### Wild Empathy (Ex)
 
-A druid can improve the attitude of an animal. This ability functions just like a Diplomacy check made to improve the attitude of a person. The druid rolls 1d20 and adds her druid level and her Charisma modifier to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
+A druid can improve the attitude of an animal. This ability functions just like a [Diplomacy](../../rules/skills/diplomacy.md) check made to improve the attitude of a person. The druid rolls 1d20 and adds her druid level and her Charisma modifier to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
 
 To use wild empathy, the druid and the animal must be within 30 feet of one another under normal conditions. Generally, influencing an animal in this way takes 1 minute but, as with influencing people, it might take more or less time.
 
@@ -191,7 +191,7 @@ that of a druid of a level equal to the animal’s HD. Animal companions do not 
 
 **Str/Dex Bonus**: Add this modifier to the animal companion’s Strength and Dexterity scores.
 
-**Bonus Tricks**: The value given in this column is the total number of “bonus” tricks that the animal knows in addition to any that the druid might choose to teach it (see the Handle Animal skill for more details on how to teach an animal tricks). These bonus tricks don’t require any training time or Handle Animal checks, and they don’t count against the normal limit of tricks known by the animal. The druid selects these bonus tricks, and once selected, they can’t be changed.
+**Bonus Tricks**: The value given in this column is the total number of “bonus” tricks that the animal knows in addition to any that the druid might choose to teach it (see the [Handle Animal](../../rules/skills/handle-animal.md) skill for more details on how to teach an animal tricks). These bonus tricks don’t require any training time or Handle Animal checks, and they don’t count against the normal limit of tricks known by the animal. The druid selects these bonus tricks, and once selected, they can’t be changed.
 
 **Special**: This includes a number of abilities gained by animal companions as they increase in power. Each of these bonuses is described below.
 
@@ -255,7 +255,7 @@ The animal companions listed here are by no means the only ones available—addi
 
 ## Camel
 
-**Starting Statistics**: **Size** Large; **Speed** 50 ft.; **AC** +1 natural armor; **Attack** bite (1d4) or spit (ranged touch attack, target is sickened for 1d4 rounds, range 10 feet); **Ability Scores** Str 18, Dex 16, Con 14, Int 2, Wis 11, Cha 4; **Special Qualities** low-light vision, scent.
+**Starting Statistics**: **Size** Large; **Speed** 50 ft.; **AC** +1 natural armor; **Attack** bite (1d4) or spit (ranged touch attack, target is [sickened](../../rules/appendices/conditions.md#sickened) for 1d4 rounds, range 10 feet); **Ability Scores** Str 18, Dex 16, Con 14, Int 2, Wis 11, Cha 4; **Special Qualities** low-light vision, scent.
 
 **4th-Level Advancement**: **Ability Scores** Str +2, Con +2.
 

@@ -4,13 +4,13 @@
 
 **Source** *Advanced Player's Guide*
 
-You can call up to one animal per 2 caster levels. Animals that answer your call have a starting attitude of friendly. Add your tier to Handle Animal checks attempted to influence these animals.
+You can call up to one animal per 2 caster levels. Animals that answer your call have a starting attitude of friendly. Add your tier to [Handle Animal](../../rules/skills/handle-animal.md) checks attempted to influence these animals.
 
 You may use this spell to call magical beasts with Intelligence 1 or 2, but they can attempt Will saving throws (with a +4 bonus) to resist the spell.
 
 ## Call Lightning
 
-Each lightning bolt's damage increases to 3d10 points of damage (or 5d10 points outdoors in stormy weather). Half of this damage is electricity damage, and the other half is sonic. Creatures that succeed at their saving throws are dazzled and deafened for 1 round. Those that fail at their saving throws are dazzled and deafened for 1 minute.
+Each lightning bolt's damage increases to 3d10 points of damage (or 5d10 points outdoors in stormy weather). Half of this damage is electricity damage, and the other half is sonic. Creatures that succeed at their saving throws are [dazzled](../../rules/appendices/conditions.md#dazzled) and [deafened](../../rules/appendices/conditions.md#deafened) for 1 round. Those that fail at their saving throws are dazzled and deafened for 1 minute.
 
 ## Cape of Wasps
 
@@ -58,11 +58,11 @@ As a move action, you can move the cloud 10 feet in any direction. Add your tier
 
 ## Color Spray
 
-The range increases to 30 feet. Add half your tier to the spell's Hit Dice categories to determine its effects on creatures. (At 3rd tier a creature with 3 or fewer HD is unconscious, blinded, and stunned; one with 4 or 5 HD is blinded and stunned, and one with 6 or more HD is stunned.) Creatures that succeed at their saves are dazzled for 1 minute.
+The range increases to 30 feet. Add half your tier to the spell's Hit Dice categories to determine its effects on creatures. (At 3rd tier a creature with 3 or fewer HD is [unconscious](../../rules/appendices/conditions.md#unconscious), [blinded](../../rules/appendices/conditions.md#blinded), and [stunned](../../rules/appendices/conditions.md#stunned); one with 4 or 5 HD is blinded and stunned, and one with 6 or more HD is stunned.) Creatures that succeed at their saves are dazzled for 1 minute.
 
 ## Command
 
-You can target up to one creature per level, each of which must receive the same command. Creatures that succeed at their saving throws are staggered for 1 round (this is a mind-affecting effect).
+You can target up to one creature per level, each of which must receive the same command. Creatures that succeed at their saving throws are [staggered](../../rules/appendices/conditions.md#staggered) for 1 round (this is a mind-affecting effect).
 
 ## Companion Mind Link
 
@@ -72,7 +72,7 @@ Your animal companion understands complex instructions transmitted by the spell.
 
 ## Cone of Cold
 
-The damage dealt increases to 1d10 points of cold damage per caster level (maximum 15d10). Any creature that fails its save is partially encased in ice, reducing its speed by half. Creatures with the cold or incorporeal subtype or immunity to being grappled are immune to this effect. The reduced movement lasts until the ice is destroyed. Destroying the ice requires a successful Strength or dispel check against the spell's DC, or dealing bludgeoning or fire damage equal to 1 point per caster level to the creature.
+The damage dealt increases to 1d10 points of cold damage per caster level (maximum 15d10). Any creature that fails its save is partially encased in ice, reducing its speed by half. Creatures with the cold or incorporeal subtype or immunity to being [grappled](../../rules/appendices/conditions.md#grappled) are immune to this effect. The reduced movement lasts until the ice is destroyed. Destroying the ice requires a successful Strength or dispel check against the spell's DC, or dealing bludgeoning or fire damage equal to 1 point per caster level to the creature.
 
 **Augmented**: You can expend two uses of mythic power to transform the spell's cold into a barrage of giant hailstones, icicles, or shards. Half the spell's damage is your choice of bludgeoning, piercing, or slashing damage, and the other half is cold damage.
 

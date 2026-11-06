@@ -120,7 +120,7 @@ You no longer need to refer to a formulae book to prepare any extract, having ex
 
 **Prerequisite:** Sleight of Hand 1 rank.
 
-**Benefit:** Whenever you imbibe a potion, extract, elixir, or similar item, you can make a Sleight of Hand check opposed by all observer’s Perception check. If they fail to exceed your check, they do not notice you imbibe your chosen liquid. For each additional round you use this ability to imbibe a liquid, they gain a +5 circumstance bonus to their Perception check.
+**Benefit:** Whenever you imbibe a potion, extract, elixir, or similar item, you can make a [Sleight of Hand](../../../rules/skills/sleight-of-hand.md) check opposed by all observer’s [Perception](../../../rules/skills/perception.md) check. If they fail to exceed your check, they do not notice you imbibe your chosen liquid. For each additional round you use this ability to imbibe a liquid, they gain a +5 circumstance bonus to their Perception check.
 
 **Special:** In a location where constantly drinking would be considered normal, such as at a bar or while eating, you gain a +5 circumstance bonus to your Sleight of Hand check.
 
@@ -166,7 +166,7 @@ This weapon functions as a Bastard sword with the same qualities as the alchemic
 
 ### Alchemical Blade
 
-This [short sword](../../../equipment/weapons-martial.md#martial-light-melee-weapons) is intentional hollow, from pommel to the groves along the blade. The pommel can be removed, allowing the contents of one splash weapon (Alchemist’s fire, Acid, Holy water, but not bombs) to be fed into the tube within the grip. Doing so is a standard action that provokes attacks of opportunity. While it can be wielded as a short sword and qualifies as such for feats and other abilities, it requires the Exotic Weapon Proficiency feat to use it the way it was intended. So long as the Alchemical Blade is filled with one splash weapon, a successful hit also delivers the contents of the splash weapon to the target. No other creatures are affected by this splash weapon and if the Alchemical Blade confirms a critical hit, the splash weapon damage is not doubled. Once the splash weapon has been delivered, the Alchemical Blade must be refilled to be used again. If an Alchemy Blade gains the broken condition, any splash weapon stored inside is lost. Crafting an Alchemical Blade requires a single Craft (alchemy) check, DC 20, in addition to the normal crafting checks.
+This [short sword](../../../equipment/weapons-martial.md#martial-light-melee-weapons) is intentional hollow, from pommel to the groves along the blade. The pommel can be removed, allowing the contents of one splash weapon (Alchemist’s fire, Acid, Holy water, but not bombs) to be fed into the tube within the grip. Doing so is a standard action that provokes attacks of opportunity. While it can be wielded as a short sword and qualifies as such for feats and other abilities, it requires the Exotic Weapon Proficiency feat to use it the way it was intended. So long as the Alchemical Blade is filled with one splash weapon, a successful hit also delivers the contents of the splash weapon to the target. No other creatures are affected by this splash weapon and if the Alchemical Blade confirms a critical hit, the splash weapon damage is not doubled. Once the splash weapon has been delivered, the Alchemical Blade must be refilled to be used again. If an Alchemy Blade gains the broken condition, any splash weapon stored inside is lost. Crafting an Alchemical Blade requires a single [Craft](../../../rules/skills/craft.md) (alchemy) check, DC 20, in addition to the normal crafting checks.
 
 ### Alchemical Gauntlet
 
@@ -184,7 +184,7 @@ This weapon functions as a Spear with the same qualities as the alchemical blade
 
 *This object appears to be an oversized wrench, but is weighted for swinging.*
 
-The battle wrench is not simply a single tool, but is equipped with many foldable parts that allow it to double as a set of thieves' tools when performing Disable Device checks. A masterwork battle wrench counts as a set of masterwork thieves' tools.
+The battle wrench is not simply a single tool, but is equipped with many foldable parts that allow it to double as a set of thieves' tools when performing [Disable Device](../../../rules/skills/disable-device.md) checks. A masterwork battle wrench counts as a set of masterwork thieves' tools.
 
 The battle wrench’s slim design makes it possible to hide with the Sleight of Hand skill.
 

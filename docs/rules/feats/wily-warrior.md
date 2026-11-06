@@ -10,4 +10,4 @@ Those who observe your imposing demeanor assume muscle is your sole advantage, b
 
 **Goal**: Thwart an appropriate number of challenging foes after getting a negative hunch about them when they attempted to deceive you or after ambushing them.
 
-**Completion Benefit**: The DC of Bluff and Intimidate checks attempted against you increase by 5.
+**Completion Benefit**: The DC of [Bluff](../skills/bluff.md) and [Intimidate](../skills/intimidate.md) checks attempted against you increase by 5.

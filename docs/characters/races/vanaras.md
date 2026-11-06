@@ -14,7 +14,7 @@ Vanaras are intelligent, monkeylike humanoids that live in deep, warm forests an
 
 **Low-Light Vision**: A vanara can see twice as far as a human in dim light.
 
-**Nimble**: Vanaras have a +2 racial bonus on Acrobatics and Stealth checks.
+**Nimble**: Vanaras have a +2 racial bonus on [Acrobatics](../../rules/skills/acrobatics.md) and [Stealth](../../rules/skills/stealth.md) checks.
 
 **Prehensile Tail**: A vanara has a long, flexible tail that she can use to carry objects. She cannot wield weapons with her tail, but the tail allows her to retrieve a small, stowed object carried on her person as a swift action.
 
@@ -24,11 +24,11 @@ Vanaras are intelligent, monkeylike humanoids that live in deep, warm forests an
 
 The following racial traits may be selected instead of existing vanara racial traits. Consult your GM before selecting any of these new options.
 
-**Tree Stranger**: Some vanaras have spent their lives among humans in centers of learning instead of traditional treetop homes. These vanaras treat all Knowledge skills as class skills, but lose their climb speed racial trait.
+**Tree Stranger**: Some vanaras have spent their lives among humans in centers of learning instead of traditional treetop homes. These vanaras treat all [Knowledge](../../rules/skills/knowledge.md) skills as class skills, but lose their climb speed racial trait.
 
 **Whitecape**: The rare whitecape vanara clans have more in common with savanna-dwelling baboons than the jungle-dwelling monkeys that most vanaras resemble. Their stooping build grants them a +4 racial bonus to CMD when resisting a bull rush or trip. These vanaras usually have a thick mane of hair on the head and shoulders (called a “cape”) and shorter tails. This racial trait replaces prehensile tail.
 
-**Acrobatic**: Vanaras are often extraordinarily agile, capable of dancing around slower-moving humans with playful grace. They gain a +2 racial bonus on Acrobatics and Escape Artist checks. This racial trait replaces nimble.
+**Acrobatic**: Vanaras are often extraordinarily agile, capable of dancing around slower-moving humans with playful grace. They gain a +2 racial bonus on Acrobatics and [Escape Artist](../../rules/skills/escape-artist.md) checks. This racial trait replaces nimble.
 
 **Change Size (Su)**: One vanara in every 500 is gifted with limited shapeshifting ability. Such a creature can adjust her size at will. She gains the change shape ability and the shapeshifter subtype. Instead of changing appearance, she can use change shape to reduce her size category to Small. Her ability scores don't change, only her size (and thus her weapon damage); normal size penalties and bonuses to AC and CMD and on attack and skill rolls apply. Changing size or returning to her true size is a full-round action. This racial trait alters the vanara's type and replaces nimble.
 
@@ -38,7 +38,7 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 **Alchemist**: Add +1/2 to the alchemist’s bomb damage.
 
-**Druid**: Add a +1/2 bonus on wild empathy checks and a +1/2 bonus on Handle Animal skill checks.
+**Druid**: Add a +1/2 bonus on wild empathy checks and a +1/2 bonus on [Handle Animal](../../rules/skills/handle-animal.md) skill checks.
 
 **Fighter**: Add +1 to the fighter’s CMD when resisting a reposition or trip attempt.
 
@@ -120,5 +120,5 @@ Vanaras are known to use equipment crafted from the following material.
 
 ### Risky Troublemaker
 
-Vanara families who seek to emulate the Monkey King teach their members that unexpected opportunities are worth taking great risks. These vanaras can choose to roll twice on Use Magic Device checks. If they do, they take the higher result unless either die roll is a natural 1, in which case the check automatically fails. This racial trait replaces prehensile tail.
+Vanara families who seek to emulate the Monkey King teach their members that unexpected opportunities are worth taking great risks. These vanaras can choose to roll twice on [Use Magic Device](../../rules/skills/use-magic-device.md) checks. If they do, they take the higher result unless either die roll is a natural 1, in which case the check automatically fails. This racial trait replaces prehensile tail.
 

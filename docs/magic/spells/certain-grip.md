@@ -10,4 +10,4 @@
 
 (harmless)
 
-The subject’s grip and footing become sure, granting a +4 competence bonus on Climb checks, on Acrobatics checks to balance, and to CMD against bull rush, drag, reposition, and trip attempts. While affected by this spell, the target is also immune to the disarm combat maneuver.
+The subject’s grip and footing become sure, granting a +4 competence bonus on [Climb](../../rules/skills/climb.md) checks, on [Acrobatics](../../rules/skills/acrobatics.md) checks to balance, and to CMD against bull rush, drag, reposition, and trip attempts. While affected by this spell, the target is also immune to the disarm combat maneuver.

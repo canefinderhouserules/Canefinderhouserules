@@ -8,4 +8,4 @@
 **Duration** 1 minute/level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** no
 
-You surround yourself with a palpable aura of draconic fear and dread. Living creatures within this aura that are normally immune to fear or mind-affecting abilities lose those immunities against your spells, spell-like abilities, and supernatural abilities that create fear effects, as well as any Intimidate checks you attempt to demoralize foes. If you have the antipaladin aura of cowardice class feature, this spell instead changes the penalty imposed by aura of cowardice to –6 for its duration.
+You surround yourself with a palpable aura of draconic fear and dread. Living creatures within this aura that are normally immune to fear or mind-affecting abilities lose those immunities against your spells, spell-like abilities, and supernatural abilities that create fear effects, as well as any [Intimidate](../../rules/skills/intimidate.md) checks you attempt to demoralize foes. If you have the antipaladin aura of cowardice class feature, this spell instead changes the penalty imposed by aura of cowardice to –6 for its duration.

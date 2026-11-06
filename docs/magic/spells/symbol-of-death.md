@@ -22,12 +22,12 @@ When scribing a *symbol of death*, you can specify a password or phrase that pre
 
 You also can attune any number of creatures to the *symbol of* *death,* but doing this can extend the casting time. Attuning one or two creatures takes negligible time, and attuning a small group (as many as 10 creatures) extends the casting time to 1 hour. Attuning a large group (as many as 25 creatures) takes 24 hours. Attuning larger groups takes an additional 24 hours per 25 creatures. Any creature attuned to a *symbol of death* cannot trigger it and is immune to its effects, even if within its radius when it is triggered. You are automatically considered attuned to your own *symbols of death*, and thus always ignore the effects and cannot inadvertently trigger them.
 
-*Read magic* allows you to identify a *symbol* with a Spellcraft check (DC 10 + the *symbol’s* spell level). Of course, if the *symbol* is set to be triggered by reading it, this will trigger the symbol.
+*Read magic* allows you to identify a *symbol* with a [Spellcraft](../../rules/skills/spellcraft.md) check (DC 10 + the *symbol’s* spell level). Of course, if the *symbol* is set to be triggered by reading it, this will trigger the symbol.
 
 A *symbol of death* can be removed by a successful [*dispel magic*](dispel-magic.md) targeted solely on the rune. An [*erase*](erase.md) spell has no effect on a *symbol* *of death.* Destruction of the surface where a *symbol of death* is inscribed destroys the *symbol* but also triggers it.
 
 *Symbol of death* can be made permanent with a [*permanency*](permanency.md) spell. A permanent *symbol of death* that is disabled or has affected its maximum number of hit points becomes inactive for 10 minutes, but then can be triggered again as normal.
 
-*Note*: Magic traps such as *symbol of death* are hard to detect and disable. A character with trapfinding can use the Perception skill to find a *symbol of death* and Disable Device to thwart it. The DC in each case is 25 + spell level, or 33 for *symbol of death*.
+*Note*: Magic traps such as *symbol of death* are hard to detect and disable. A character with trapfinding can use the [Perception](../../rules/skills/perception.md) skill to find a *symbol of death* and Disable Device to thwart it. The DC in each case is 25 + spell level, or 33 for *symbol of death*.
 
 **Save-or-die**: The target rolls its saving throw twice and keeps the higher result, as explained in [Save-or-Die Spells](../casting-spells.md#save-or-die-spells).

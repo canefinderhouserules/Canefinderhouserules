@@ -39,7 +39,7 @@ The following are class features of the adventuring delver prestige class.
 
 **Bardic Knowledge (Ex)**: This ability is identical to the bard class feature of the same name. Levels in this class stack with levels in any other class that grants bardic knowledge or a similar ability.
 
-**Master Explorer (Ex)**: A delver adds half his class level (minimum 1) as a bonus on all Disable Device and Perception checks. A delver can disable intricate and complex traps in half the normal amount of time (minimum 1 round) and open a lock as a standard action instead of a full-round action. He can always take 10 on Disable Device and Stealth checks, even if distracted or endangered, and he can use Disable Device to disarm magical traps.
+**Master Explorer (Ex)**: A delver adds half his class level (minimum 1) as a bonus on all [Disable Device](../../rules/skills/disable-device.md) and [Perception](../../rules/skills/perception.md) checks. A delver can disable intricate and complex traps in half the normal amount of time (minimum 1 round) and open a lock as a standard action instead of a full-round action. He can always take 10 on Disable Device and [Stealth](../../rules/skills/stealth.md) checks, even if distracted or endangered, and he can use Disable Device to disarm magical traps.
 
 **Surefooted (Ex)**: At 2nd level, a delver can move through difficult terrain at his normal speed. Ground that has been magically manipulated to impede motion still affects him normally.
 
@@ -53,7 +53,7 @@ The following are class features of the adventuring delver prestige class.
 
 **Vigilant Combatant (Ex)**: At 4th level, a delver adds half his class level on initiative checks.
 
-**Left for Dead (Su)**: At 5th level, a delver can cheat death once per day. If he would be killed by a melee attack, ranged attack, or effect that requires a saving throw, he is instead reduced to –1 hit points and knocked unconscious, but is stable. He appears dead (though a character who succeeds at a DC 25 Heal check or who uses an ability such as [*deathwatch*](../../magic/spells/deathwatch.md) can tell he is not) for 1 minute, after which he regains 1 hp and becomes conscious (unless healed sooner).
+**Left for Dead (Su)**: At 5th level, a delver can cheat death once per day. If he would be killed by a melee attack, ranged attack, or effect that requires a saving throw, he is instead reduced to –1 hit points and knocked [unconscious](../../rules/appendices/conditions.md#unconscious), but is stable. He appears dead (though a character who succeeds at a DC 25 [Heal](../../rules/skills/heal.md) check or who uses an ability such as [*deathwatch*](../../magic/spells/deathwatch.md) can tell he is not) for 1 minute, after which he regains 1 hp and becomes conscious (unless healed sooner).
 
 **Fortunate Soul (Su)**: Once per day at 6th level, the delver can reroll any saving throw he has just attempted. He must choose to use this ability before the results are revealed and must take the second result even if it’s worse. He can use this ability twice per day at 10th level.
 

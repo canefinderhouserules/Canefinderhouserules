@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** none; **Spell Resistance** no
 
-You draw upon your body’s inner reserves of strength, leaving you winded. When you are about to make a d20 roll based on Strength, Dexterity, or Constitution, you can cast this spell to gain a +8 enhancement bonus to Strength, Dexterity, or Constitution for that roll, but you are fatigued for 1 round afterward.
+You draw upon your body’s inner reserves of strength, leaving you winded. When you are about to make a d20 roll based on Strength, Dexterity, or Constitution, you can cast this spell to gain a +8 enhancement bonus to Strength, Dexterity, or Constitution for that roll, but you are [fatigued](../../rules/appendices/conditions.md#fatigued) for 1 round afterward.

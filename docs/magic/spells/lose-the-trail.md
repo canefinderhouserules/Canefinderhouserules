@@ -8,4 +8,4 @@
 **Duration** 1 hour/level (D)  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-The target or targets of this spell can obscure their tracks when fleeing from a pursuer. This increases the DC of any Survival checks made to track the spell’s targets by 2 per level of the caster.
+The target or targets of this spell can obscure their tracks when fleeing from a pursuer. This increases the DC of any [Survival](../../rules/skills/survival.md) checks made to track the spell’s targets by 2 per level of the caster.

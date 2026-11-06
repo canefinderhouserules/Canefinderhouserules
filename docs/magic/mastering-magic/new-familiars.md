@@ -1,6 +1,6 @@
 # New Familiars
 
-The following are statistics for several new animals that can serve as familiars, in addition to a number of familiars first mentioned in the witch class entry in the Advanced Player’s Guide. You should use these statistics rather than those in the brief entry in the Bestiary. These familiars can be taken by anyone gaining a familiar, and utilize all the standard rules for familiars presented on the Core Rulebook. Tiny or smaller familiars in this section use Dexterity to modify Climb and Swim skill checks.
+The following are statistics for several new animals that can serve as familiars, in addition to a number of familiars first mentioned in the witch class entry in the Advanced Player’s Guide. You should use these statistics rather than those in the brief entry in the Bestiary. These familiars can be taken by anyone gaining a familiar, and utilize all the standard rules for familiars presented on the Core Rulebook. Tiny or smaller familiars in this section use Dexterity to modify [Climb](../../rules/skills/climb.md) and [Swim](../../rules/skills/swim.md) skill checks.
 
 | Familiar | Special ability |
 |---|---|
@@ -25,7 +25,7 @@ XP 200
 N Tiny animal (aquatic)  
 Init +5; Senses low-light vision; Perception +1  
 **Defense**  
-AC 17, touch 17, flat-footed 12 (+5 Dex, +2 size)  
+AC 17, touch 17, [flat-footed](../../rules/appendices/conditions.md#flat-footed) 12 (+5 Dex, +2 size)  
 hp 4 (1d8)  
 Fort +2, Ref +7, Will +1  
 Defensive Abilities ink cloud  
@@ -37,7 +37,7 @@ Space 2-1/2 ft.; Reach 0 ft.
 Str 8, Dex 21, Con 10, Int 2, Wis 13, Cha 3  
 Base Atk +0; CMB +3 (+7 grapple); CMD 12 (can’t be tripped)  
 Feats MultiattackB, Weapon Finesse  
-Skills Escape Artist +15, Stealth +25, Swim +13; Racial Modifiers +10 Escape Artist, +8 Stealth  
+Skills Escape Artist +15, Stealth +25, Swim +13; Racial Modifiers +10 [Escape Artist](../../rules/skills/escape-artist.md), +8 Stealth  
 Special Attacks poison  
 **Ecology**  
 Environment temperate or cold aquatic  
@@ -69,7 +69,7 @@ Melee bite +0 (1d3–2)
 **Statistics**  
 Str 6, Dex 17, Con 13, Int 2, Wis 13, Cha 4  
 Base Atk +0; CMB +1; CMD 9 (13 vs. trip)  
-Feats Skill Focus (Perception)  
+Feats Skill Focus ([Perception](../../rules/skills/perception.md))  
 Skills Perception +4, Stealth +15, Swim +11  
 **Ecology**  
 Environment temperate coast or forest  
@@ -159,7 +159,7 @@ Treasure none
 
 **Special Abilities**
 
-**Poison (Ex)**: Sting—injury; save Fort DC 10; frequency 1/round for 6 rounds; effect sickened for 1 round; cure 1 save. Greensting scorpions normally live in forests, but can be found almost anywhere. Their pincers are too small to be dangerous to anything but other insects, but they have a poisonous sting that sickens even larger creatures.
+**Poison (Ex)**: Sting—injury; save Fort DC 10; frequency 1/round for 6 rounds; effect [sickened](../../rules/appendices/conditions.md#sickened) for 1 round; cure 1 save. Greensting scorpions normally live in forests, but can be found almost anywhere. Their pincers are too small to be dangerous to anything but other insects, but they have a poisonous sting that sickens even larger creatures.
 
 ## Hedgehog (CR 1/8)
 
@@ -290,7 +290,7 @@ Str 3, Dex 21, Con 10, Int —, Wis 10, Cha 2
 Base Atk +0; CMB +3; CMD 9 (21 vs. trip)  
 Feats Weapon FinesseB  
 Skills Acrobatics +13, Climb +21, Perception +4, Stealth +17; Racial  
-Modifiers +8 Acrobatics, +8 Climb, +4 Perception, +4 Stealth  
+Modifiers +8 [Acrobatics](../../rules/skills/acrobatics.md), +8 Climb, +4 Perception, +4 Stealth  
 **Ecology**  
 Environment any  
 Organization solitary, pair, or colony (3–8)  

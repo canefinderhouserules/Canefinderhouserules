@@ -12,4 +12,4 @@ You harden interpenetrated ethereal substance into deadly transdimensional razor
 
 A creature forcibly moved through an area of etheric shards, such as by a bull rush or drag combat maneuver, takes a –4 penalty on its saving throw, but a creature able to see invisible or ethereal objects gains a +4 bonus, and damage to it is completely negated on a successful Reflex save.
 
-Etheric shards are considered a magical trap, and a creature with trapfinding can use Perception to find them. The DC of this check is equal to 25 + the spell’s level. Etheric shards can’t be disabled with the Disable Device skill.
+Etheric shards are considered a magical trap, and a creature with trapfinding can use Perception to find them. The DC of this check is equal to 25 + the spell’s level. Etheric shards can’t be disabled with the [Disable Device](../../rules/skills/disable-device.md) skill.

@@ -6,4 +6,4 @@ Your ascension is complete; you have the spell resistance approaching that of a 
 
 **Benefit**: Your spell resistance is equal to 11 + your character level.
 
-**Special**: You receive a +1 circumstance bonus on Diplomacy and Intimidate checks made against any drow.
+**Special**: You receive a +1 circumstance bonus on [Diplomacy](../skills/diplomacy.md) and [Intimidate](../skills/intimidate.md) checks made against any drow.

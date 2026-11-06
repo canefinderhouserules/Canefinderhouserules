@@ -18,7 +18,7 @@ According to some fey ballads, gathlains were one of the first peoples awakened 
 
 **+2 Dexterity, +2 Charisma, –2 Constitution**: Gathlains are quick, with dynamic and engaging personalities, but are rather fragile.
 
-**Small**: Gathlains are Small and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on combat maneuver checks and to CMD, a +2 bonus on Fly checks, and a +4 size bonus on Stealth checks.
+**Small**: Gathlains are Small and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on combat maneuver checks and to CMD, a +2 bonus on [Fly](../../rules/skills/fly.md) checks, and a +4 size bonus on [Stealth](../../rules/skills/stealth.md) checks.
 
 **Normal Speed**: Gathlains have a base speed of 30 feet and a fly speed of 40 feet (poor maneuverability).
 
@@ -34,15 +34,15 @@ According to some fey ballads, gathlains were one of the first peoples awakened 
 
 The following racial traits can be selected in place of the typical gathlain racial traits.
 
-**Flighty**: Some gathlains are too easily distracted to miss anything going on around them. They gain Perception as a class skill and gain a +2 racial bonus on saving throws against patterns and effects that cause the fascinated condition. This replaces natural armor.
+**Flighty**: Some gathlains are too easily distracted to miss anything going on around them. They gain Perception as a class skill and gain a +2 racial bonus on saving throws against patterns and effects that cause the [fascinated](../../rules/appendices/conditions.md#fascinated) condition. This replaces natural armor.
 
-**Honey Whisperer**: Some gathlains keep bees of all sizes, collecting their honey and sometimes even riding the largest of them. They can use Handle Animal and wild empathy to influence vermin as if they were animals with an Intelligence score of 1. This replaces natural armor.
+**Honey Whisperer**: Some gathlains keep bees of all sizes, collecting their honey and sometimes even riding the largest of them. They can use [Handle Animal](../../rules/skills/handle-animal.md) and wild empathy to influence vermin as if they were animals with an Intelligence score of 1. This replaces natural armor.
 
-**Intense Curiosity**: Some gathlains habitually fixate on someone or something nearby and examine its every detail. When taking 20 on the check, they gain a +4 racial bonus on Perception and Survival checks to find and follow tracks and to predict the weather. This replaces spell-like abilities.
+**Intense Curiosity**: Some gathlains habitually fixate on someone or something nearby and examine its every detail. When taking 20 on the check, they gain a +4 racial bonus on [Perception](../../rules/skills/perception.md) and [Survival](../../rules/skills/survival.md) checks to find and follow tracks and to predict the weather. This replaces spell-like abilities.
 
-**Otherworldly Gossip**: Many gathlains excitedly share every last bit of gossip they can find. These gathlains gain a +2 racial bonus on Diplomacy checks to gather information and on checks with one Knowledge skill of the gathlain’s choice. Once the choice of Knowledge skill is made, it can’t be changed. This replaces spell-like abilities.
+**Otherworldly Gossip**: Many gathlains excitedly share every last bit of gossip they can find. These gathlains gain a +2 racial bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks to gather information and on checks with one [Knowledge](../../rules/skills/knowledge.md) skill of the gathlain’s choice. Once the choice of Knowledge skill is made, it can’t be changed. This replaces spell-like abilities.
 
-**Titled**: Certain gathlains play at the games of courtly intrigue that dominate much of First World culture, assuming titles that other fey may or may not recognize. These gathlains treat Bluff, Diplomacy, and Knowledge (nobility) as class skills. This replaces the feather step spell-like ability.
+**Titled**: Certain gathlains play at the games of courtly intrigue that dominate much of First World culture, assuming titles that other fey may or may not recognize. These gathlains treat [Bluff](../../rules/skills/bluff.md), Diplomacy, and Knowledge (nobility) as class skills. This replaces the feather step spell-like ability.
 
 **Tree-Born**: Some gathlains take after their tree ancestors, standing more firmly but moving more slowly. They have no Constitution penalty but have a base speed of 20 feet and a fly speed of 30 feet (clumsy maneuverability). This replaces the penalty to Constitution and alters speed.
 
@@ -90,7 +90,7 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 **Shaman**: Add one spell from the druid spell list to the shaman’s spell list. This spell must be at least 1 level lower than the highest-level spell the shaman can cast.
 
-**Skald**: Add a +1/2 bonus to Acrobatics checks to avoid attacks of opportunity and to Perform checks while performing a raging song.
+**Skald**: Add a +1/2 bonus to [Acrobatics](../../rules/skills/acrobatics.md) checks to avoid attacks of opportunity and to [Perform](../../rules/skills/perform.md) checks while performing a raging song.
 
 **Summoner**: Add 1/4 evolution point to the eidolon’s evolution pool. These bonus evolution points must be spent on evolutions that grant spell-like abilities or protect the eidolon from spells.
 
@@ -139,7 +139,7 @@ Gathlains have access to the following equipment.
 
 **Riding Bee**: Gathlains have learned to domesticate giant bees, which they use to travel long distances. Extra queens from a hive’s brood are saved and trained for hauling heavier equipment or a retinue of gathlains. Bees require an exotic saddle, which is a sort of basket that places the rider underneath the bee’s abdomen, where it protects the rider as if he were a bee larva.
 
-**Wing Hooks**: These wooden braces hook on to a gathlain’s wings to help in clinging to ivy, tree limbs, or other surfaces with significant handholds. Many wing hooks are decorated with intricate carvings. A gathlain wearing wing hooks can cling to a surface with a Climb DC of 10 or lower without effort, and can safely sleep there. The wing hooks leave the gathlain’s arms free while attempting Climb checks on such surfaces.
+**Wing Hooks**: These wooden braces hook on to a gathlain’s wings to help in clinging to ivy, tree limbs, or other surfaces with significant handholds. Many wing hooks are decorated with intricate carvings. A gathlain wearing wing hooks can cling to a surface with a [Climb](../../rules/skills/climb.md) DC of 10 or lower without effort, and can safely sleep there. The wing hooks leave the gathlain’s arms free while attempting Climb checks on such surfaces.
 
 ## Feats
 

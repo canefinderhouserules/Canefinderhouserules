@@ -2,33 +2,33 @@
 
 Regional traits are tied to particular regions. To select one, your character must have spent at least a year living in that region. At 1st level you can select only one regional trait (typically tied to your character’s homeland). The following traits present several generic regions usable in most campaign settings.
 
-**Brave Words** *(descendant of a warrior empire)*: You inherit your forebears' ability to fight off terror with bragging or insults. As a swift action, when you have the frightened condition, you can function as if you only have the shaken condition for 1 round by shouting at the source of your fear. You must be able to see the source of the fear condition. You can use this trait only once per fear effect. This trait grants no benefits against the shaken or panicked conditions.
+**Brave Words** *(descendant of a warrior empire)*: You inherit your forebears' ability to fight off terror with bragging or insults. As a swift action, when you have the [frightened](../../rules/appendices/conditions.md#frightened) condition, you can function as if you only have the [shaken](../../rules/appendices/conditions.md#shaken) condition for 1 round by shouting at the source of your fear. You must be able to see the source of the fear condition. You can use this trait only once per fear effect. This trait grants no benefits against the shaken or [panicked](../../rules/appendices/conditions.md#panicked) conditions.
 
 **Desert Child** *(desert)*: You were born and raised in rocky deserts. You are accustomed to high temperatures, and gain a +4 trait bonus on any saving throws made to resist the effects of being in hot conditions and a +1 trait bonus on all saving throws against fire effects.
 
 **Exhibition Fighter** *(martial-arts tournament region)*: You fight at your best in martial arts tournaments, such as those once popular in a fallen empire. While others may attempt to cheat or chafe against the constraints placed upon them, you thrive under such limitations. You gain a +1 bonus on attack and damage rolls when fighting as part of a tournament or other structured setting with rules and restrictions, so long as you do not break these rules.
 
-**Highlander** *(hills or mountains)*: You were born and raised in rugged badlands or hills, and you’ve become something of an expert at evading the predators, monsters, and worse that haunt the highlands. You gain a +1 trait bonus on Stealth checks, and Stealth is always a class skill for you. This trait bonus increases to +2 in hilly or rocky areas.
+**Highlander** *(hills or mountains)*: You were born and raised in rugged badlands or hills, and you’ve become something of an expert at evading the predators, monsters, and worse that haunt the highlands. You gain a +1 trait bonus on [Stealth](../../rules/skills/stealth.md) checks, and Stealth is always a class skill for you. This trait bonus increases to +2 in hilly or rocky areas.
 
-**Log Roller** *(forest)*: The time you spent leaping between slippery logs as they whirled down the river to market taught you how to keep your footing. You gain a +1 trait bonus on Acrobatics checks and a +1 trait bonus to your CMB when attempting to resist trip attacks.
+**Log Roller** *(forest)*: The time you spent leaping between slippery logs as they whirled down the river to market taught you how to keep your footing. You gain a +1 trait bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks and a +1 trait bonus to your CMB when attempting to resist trip attacks.
 
-**Militia Veteran** *(any town or village)*: Your first job was serving in a civilian militia in your home town. Skills learned through daily drilling and protecting your fellow townsfolk gave you special insight into military life. Select one of the following skills: Profession (soldier), Ride, or Survival. You gain a +1 trait bonus on that skill, and it is always a class skill for you.
+**Militia Veteran** *(any town or village)*: Your first job was serving in a civilian militia in your home town. Skills learned through daily drilling and protecting your fellow townsfolk gave you special insight into military life. Select one of the following skills: [Profession](../../rules/skills/profession.md) (soldier), [Ride](../../rules/skills/ride.md), or [Survival](../../rules/skills/survival.md). You gain a +1 trait bonus on that skill, and it is always a class skill for you.
 
 **Naturalist** *(former agrarian nation)*: Your ancestors taught you the importance of using what nature provides. You gain a +3 trait bonus on Survival checks when attempting to survive in the wilderness.
 
-**River Rat** *(marsh or river)*: You learned to swim right after you learned to walk. As a youth, a gang of river pirates put you to work swimming in nighttime rivers and canals with a dagger in your teeth so you could sever the anchor ropes of merchant vessels. You gain a +1 trait bonus on damage dealt with a dagger and a +1 trait bonus on Swim checks. Swim is always a class skill for you.
+**River Rat** *(marsh or river)*: You learned to swim right after you learned to walk. As a youth, a gang of river pirates put you to work swimming in nighttime rivers and canals with a dagger in your teeth so you could sever the anchor ropes of merchant vessels. You gain a +1 trait bonus on damage dealt with a dagger and a +1 trait bonus on [Swim](../../rules/skills/swim.md) checks. Swim is always a class skill for you.
 
-**Savanna Child** *(plains)*: You were born and raised among rolling plains or savannas. You spent much of your youth exploring these vast reaches and know many of the savanna’s secrets. Pick one of the following skills: Handle Animal, Knowledge (nature), or Ride. You gain a +1 trait bonus on that skill, and it is always a class skill for you.
+**Savanna Child** *(plains)*: You were born and raised among rolling plains or savannas. You spent much of your youth exploring these vast reaches and know many of the savanna’s secrets. Pick one of the following skills: [Handle Animal](../../rules/skills/handle-animal.md), [Knowledge](../../rules/skills/knowledge.md) (nature), or Ride. You gain a +1 trait bonus on that skill, and it is always a class skill for you.
 
-**Shared Ancestors** *(land of ancient lineage)*: Through your detailed study of your own lineage, you can better understand and honor even your most distant relatives. You gain a +1 trait bonus on Diplomacy, Knowledge (history), Knowledge (local), Knowledge (nobility), and Sense Motive checks associated with any creature who shares your type and at least one of your subtypes. One of these skills becomes a class skill.
+**Shared Ancestors** *(land of ancient lineage)*: Through your detailed study of your own lineage, you can better understand and honor even your most distant relatives. You gain a +1 trait bonus on [Diplomacy](../../rules/skills/diplomacy.md), Knowledge (history), Knowledge (local), Knowledge (nobility), and [Sense Motive](../../rules/skills/sense-motive.md) checks associated with any creature who shares your type and at least one of your subtypes. One of these skills becomes a class skill.
 
 **Stargazer** *(former nation of astrologers)*: Having spent your youth staring at the night sky, you gain a +1 trait bonus on Knowledge (arcana) and Knowledge (nature) checks. One of these skills becomes a class skill for you.
 
-**Vagabond Child** *(urban)*: You grew up among the outcasts and outlaws of your society, learning to forage and survive in an urban environment. Select one of the following skills: Disable Device, Escape Artist, or Sleight of Hand. You gain a +1 trait bonus on that skill, and it is always a class skill for you.
+**Vagabond Child** *(urban)*: You grew up among the outcasts and outlaws of your society, learning to forage and survive in an urban environment. Select one of the following skills: [Disable Device](../../rules/skills/disable-device.md), [Escape Artist](../../rules/skills/escape-artist.md), or [Sleight of Hand](../../rules/skills/sleight-of-hand.md). You gain a +1 trait bonus on that skill, and it is always a class skill for you.
 
-**Caravan Nomad** *(open roads)*: Your family has lived on the open roads for untold generations, impersonating the nomadic peoples of the lands they pass through. You gain a +1 trait bonus on Bluff and Perform checks, and one of these skills is a class skill for you.
+**Caravan Nomad** *(open roads)*: Your family has lived on the open roads for untold generations, impersonating the nomadic peoples of the lands they pass through. You gain a +1 trait bonus on [Bluff](../../rules/skills/bluff.md) and [Perform](../../rules/skills/perform.md) checks, and one of these skills is a class skill for you.
 
-**Fortune Found** *(merchant cities)*: You have learned a great many tricks and techniques for bartering with humans. You gain a +1 trait bonus on Appraise and Diplomacy checks, and one of these skills (your choice) is a class skill for you.
+**Fortune Found** *(merchant cities)*: You have learned a great many tricks and techniques for bartering with humans. You gain a +1 trait bonus on [Appraise](../../rules/skills/appraise.md) and Diplomacy checks, and one of these skills (your choice) is a class skill for you.
 
 **Jinx Eater** *(pirate coasts)*: Your presence dampens curses and other ill effects. You gain a +1 trait bonus on saves against curses, including the hex class ability of shamans and witches. Once per day, you can grant this bonus to all allies within 30 feet for 1 round as an immediate action.
 
@@ -38,15 +38,15 @@ Regional traits are tied to particular regions. To select one, your character mu
 
 **Prophet of Burrows** *(merchant cities)*: While you might not be a practicing follower of a merchant-prophet's teachings, you value human coin more than most of your people do and have taken the mercantile practices of those teachings to heart. Whenever you roll a skill check to earn money, increase the amount of money that you earn by 5%.
 
-**Aquatic Realm Native** *(drifting aquatic kingdom)*: Raised amid or near a transitive aquatic kingdom, your predilection for watery environs has been strong since birth and you know the types of creatures who call the ocean home. You gain a +2 trait bonus on Knowledge checks to identify aquatic monsters. Anytime you are looking through water and would take a penalty on vision-based Perception checks due to murkiness or other natural circumstances, reduce the penalty by 2.
+**Aquatic Realm Native** *(drifting aquatic kingdom)*: Raised amid or near a transitive aquatic kingdom, your predilection for watery environs has been strong since birth and you know the types of creatures who call the ocean home. You gain a +2 trait bonus on Knowledge checks to identify aquatic monsters. Anytime you are looking through water and would take a penalty on vision-based [Perception](../../rules/skills/perception.md) checks due to murkiness or other natural circumstances, reduce the penalty by 2.
 
 **Alabaster Courtesan** *(courtly conservatory)*: The rulers of an island court favored you for your stately physique and flawless skin, and so endorsed your candidacy for tutelage at a conservatory. Trained to be the perfect bard, courtesan, or undercover operative, you gain a +1 trait bonus on two Charisma-based skills of your choice. In addition, once per day as a swift action, you can brush your fingers against a closed door or stone wall up to 1 foot thick. Doing so allows you to ignore penalties on Perception checks to listen through the designated object for 1 minute.
 
-**Reagent Taster** *(alchemist city)*: You were apprenticed to a renowned alchemist in a city of elemental alchemy, and she taught you how to recognize elemental reagents by taste. Upon imbibing a potion containing a spell on your formula list of a spell level you are capable of casting, you can attempt a Spellcraft check (DC 15 + extract level). On a success, you can immediately add the spell to your formula book.
+**Reagent Taster** *(alchemist city)*: You were apprenticed to a renowned alchemist in a city of elemental alchemy, and she taught you how to recognize elemental reagents by taste. Upon imbibing a potion containing a spell on your formula list of a spell level you are capable of casting, you can attempt a [Spellcraft](../../rules/skills/spellcraft.md) check (DC 15 + extract level). On a success, you can immediately add the spell to your formula book.
 
 **Slave Market Escapee** *(slave market)*: Slavers were determined to sell you as living property, but you had other plans. You know not whether your slavers hunt you still, but you are careful about whom you trust and you always sleep with one eye open. You need to sleep only 4 hours to get a full night's rest (restoring 1 hit point per character level). You do not receive extra benefits for sleeping additional hours, and you must still rest for 24 hours to receive the benefits of complete bed rest.
 
-**Storm-Eye Pilot** *(great hurricane)*: The howling gales of a permanent hurricane were your lullaby as a child, and you quickly learned to anticipate the winds' danger as well as parse their song. You gain a +2 trait bonus on Profession (sailor) checks, and you treat the wind force of environmental wind effects as one step less powerful for the purposes of determining any penalties on ranged attacks and Fly checks as well as whether you would be checked or blown away.
+**Storm-Eye Pilot** *(great hurricane)*: The howling gales of a permanent hurricane were your lullaby as a child, and you quickly learned to anticipate the winds' danger as well as parse their song. You gain a +2 trait bonus on Profession (sailor) checks, and you treat the wind force of environmental wind effects as one step less powerful for the purposes of determining any penalties on ranged attacks and [Fly](../../rules/skills/fly.md) checks as well as whether you would be checked or blown away.
 
 **Airship Captain** *(Plane of Air)*: Your years of piloting airships on the Plane of Air, dodging angry mephits and protecting your passengers from the depredations of capricious elementals, have taught you how to expertly command your vessel, as well as how to arrest yourself even in the midst of the most turbulent planar storms. You gain a +2 trait bonus on Wisdom checks to move in a plane with subjective directional gravity and a +2 trait bonus on driving checks.
 
@@ -56,7 +56,7 @@ Regional traits are tied to particular regions. To select one, your character mu
 
 **Channel the Earth** *(Plane of Earth)*: Perhaps you worship an elemental lord of earth, or perhaps you have gleaned your fated powers via some other means of interacting with the plane's deepest places. Your divine powers are infused with the elemental powers of the Plane of Earth. Whenever you channel positive energy to heal living creatures, affected targets gain a +2 profane bonus to CMD to resist bull rush, reposition, and trip combat maneuvers. Alternately, if you channel negative energy to harm living creatures, affected targets take a –2 penalty to CMD against such combat maneuvers. This effect lasts 1 round.
 
-**Fiery Dominance** *(Plane of Fire)*: Raised among the efreet of the Plane of Fire, you developed a similarly assured sense of superiority over people from other backgrounds. You gain a +1 trait bonus on Intimidate checks against humanoids of a subtype different from your own (or all non-human humanoids, if you are not a humanoid), and the DC for such creatures to demoralize you with Intimidate is 2 higher than usual.
+**Fiery Dominance** *(Plane of Fire)*: Raised among the efreet of the Plane of Fire, you developed a similarly assured sense of superiority over people from other backgrounds. You gain a +1 trait bonus on [Intimidate](../../rules/skills/intimidate.md) checks against humanoids of a subtype different from your own (or all non-human humanoids, if you are not a humanoid), and the DC for such creatures to demoralize you with Intimidate is 2 higher than usual.
 
 **Thoughtful Wish-Maker** *(Plane of Fire)*: You are well acquainted with the many ways words can be twisted. You gain a +2 trait bonus on Sense Motive checks. Furthermore, if you succeed at a DC 25 Sense Motive check prior to making any wish granted by an outsider, you become aware of your wish's potential pitfalls. If you succeed at this check by 5 or more, you figure out how to word your wish in such a way that your words are not twisted.
 
@@ -82,7 +82,7 @@ The following traits suit characters who hail from, or have spent years survivin
 
 **Demonblight Resistance** *(Magic)*: Your exposure to powerful energies instilled in you a supernatural resistance to diseases, particularly those of a demonic bent. You gain a +3 trait bonus on saving throws against diseases you are exposed to while fighting one or more creatures of the demon subtype, or while such a hostile creature is within 100 feet.
 
-**Dormant Defense** *(Combat; six-armed wasteland healers)*: Your body never lets down its defenses, even when you rest. The DC for Perception checks you attempt while asleep increases only by 7 (instead of the normal +10 increase). While you are dazed, stunned, or helpless, each critical hit or sneak attack scored against you has a 25% chance of being negated; when a critical hit or sneak attack is negated, roll its damage normally. This doesn't stack with the *fortification* armor special ability and similar effects.
+**Dormant Defense** *(Combat; six-armed wasteland healers)*: Your body never lets down its defenses, even when you rest. The DC for Perception checks you attempt while asleep increases only by 7 (instead of the normal +10 increase). While you are [dazed](../../rules/appendices/conditions.md#dazed), [stunned](../../rules/appendices/conditions.md#stunned), or [helpless](../../rules/appendices/conditions.md#helpless), each critical hit or sneak attack scored against you has a 25% chance of being negated; when a critical hit or sneak attack is negated, roll its damage normally. This doesn't stack with the *fortification* armor special ability and similar effects.
 
 **Forest Blight Survivor** *(Regional; blighted forest)*: Your woodland home struggles against a tenacious blight, forcing you to steel yourself against its poisonous influence. You gain a +2 trait bonus on Fortitude saving throws against diseases and poisons inflicted by fey, plants, and forest-related hazards.
 
@@ -126,7 +126,7 @@ These traits suit characters with ties to other worlds, to the stars, or to the 
 
 **Lunar Birth** *(Magic)*: Born during a lunar eclipse, you were forever marked by the moon's mysterious and ancient magic. You gain a +1 trait bonus on saving throws against the spells and spell-like abilities cast by humans.
 
-**Offspring of the Ascension** *(Regional; ancient desert kingdom)*: You are descended from one of an ancient kingdom's god-kings, and a sliver of their otherworldly power has been passed onto you. You gain a +1 trait bonus on Will saves against fear effects. Any time you become confused, reduce the duration of the effect by a number of rounds equal to your Wisdom modifier (to a minimum of 1 round of confusion).
+**Offspring of the Ascension** *(Regional; ancient desert kingdom)*: You are descended from one of an ancient kingdom's god-kings, and a sliver of their otherworldly power has been passed onto you. You gain a +1 trait bonus on Will saves against fear effects. Any time you become [confused](../../rules/appendices/conditions.md#confused), reduce the duration of the effect by a number of rounds equal to your Wisdom modifier (to a minimum of 1 round of confusion).
 
 **Outer Dragon Blood** *(Magic)*: The blood of outer dragons courses through your veins, and you've inherited a portion of their magic. You gain Draconic as a bonus language. In addition, if you are a sorcerer with the draconic bloodline, you can select one of the outer dragon types for your bloodline powers; this affects your resistances and the type of energy damage dealt by a number of your abilities.
 
@@ -138,13 +138,13 @@ These traits suit characters with ties to other worlds, to the stars, or to the 
 | Void | Cold | 30-foot cone |
 | Vortex | Fire | 30-foot cone |
 
-**Red World Ferocity** *(Regional; desert warrior world)*: You were raised on a world where you were hardened against the ravages of battle. Once per day, the first time you are brought below 0 hit points but not killed, you can fight on for 1 more round as if disabled. At the end of your next turn, unless brought to above 0 hit points, you immediately fall unconscious and begin dying.
+**Red World Ferocity** *(Regional; desert warrior world)*: You were raised on a world where you were hardened against the ravages of battle. Once per day, the first time you are brought below 0 hit points but not killed, you can fight on for 1 more round as if disabled. At the end of your next turn, unless brought to above 0 hit points, you immediately fall [unconscious](../../rules/appendices/conditions.md#unconscious) and begin dying.
 
 **Scarred by Space Pirates** *(Combat)*: You were attacked by aethership pirates in your youth, inspiring you to find ways to deal with the alien interlopers should they return. You gain a +1 trait bonus on attack rolls against humanoids from beyond your own world, including androids, kasathas, and Triaxians, among others.
 
 **Seasonal Tradition** *(Regional; world of centuries-long seasons)*: Your experience with one of the long seasons of your world has taught you much about the dangers of a long summer or winter. Choose disease or cold. You gain a +2 trait bonus on saves against spells and spell-like abilities with the chosen descriptor. If you choose disease, you gain the bonus on Fortitude saves against nonmagical diseases as well.
 
-**Skymetal Affinity** *(Regional; crater lands)*: You gain a +2 trait bonus on Fortitude saves against the negative effects of skymetals, as well as a +2 trait bonus on Craft checks made to create weapons or armor out of skymetals.
+**Skymetal Affinity** *(Regional; crater lands)*: You gain a +2 trait bonus on Fortitude saves against the negative effects of skymetals, as well as a +2 trait bonus on [Craft](../../rules/skills/craft.md) checks made to create weapons or armor out of skymetals.
 
 **Sun-Blessed** *(Magic)*: Your birth came at a time when the sun was auspiciously aligned with your birth sign. As a result, you have a natural affinity for light and life. Whenever you're affected by a healing effect that would heal more hit points than your maximum hit point total, you gain the excess healing as temporary hit points. You can gain up to a number of temporary hit points per day equal to your character level in this way. These temporary hit points last for 1 minute.
 
@@ -158,7 +158,7 @@ These traits suit characters from the lawless river kingdoms and the star-fallen
 
 **Black Rider Recruit** *(Regional; tyrant's hill kingdom)*: You were recruited to serve as one of a dictator's feared armored riders for a time, but you have since left that life. You gain a +1 trait bonus on saves against fear effects; this bonus increases to +3 if an evil outsider caused the effect.
 
-**Blighted Physiology** *(Regional; star-fallen tribal lands)*: Exposure to the corruption that seeps through every drop of water and grain of dirt in your homeland has altered your body. Horrific growths beneath your skin provide you a +1 natural armor bonus to AC, but your body does not work as a normal creature's would. You become sickened for 1 round anytime you receive magical healing.
+**Blighted Physiology** *(Regional; star-fallen tribal lands)*: Exposure to the corruption that seeps through every drop of water and grain of dirt in your homeland has altered your body. Horrific growths beneath your skin provide you a +1 natural armor bonus to AC, but your body does not work as a normal creature's would. You become [sickened](../../rules/appendices/conditions.md#sickened) for 1 round anytime you receive magical healing.
 
 **Border Fort Acolyte** *(Regional; forest stronghold)*: You trained with the knights of a lawful order at one border fort or the paladins of a good-aligned order at another. If you trained with the lawful knights, you gain a +1 trait bonus on saving throws against chaotic spells and the spell-like abilities of chaotic outsiders. If you trained with the paladins, you gain this bonus against evil spells and evil outsiders instead.
 
@@ -224,7 +224,7 @@ These traits tie characters to a campaign of tomb-delving in an ancient necropol
 
 **Foreign Opportunist**: You're not a native, but the opportunity to explore the tombs of the ancient kingdom—and "liberate" the treasures they hold—is too good to pass up. Whether or not you're interested in the history of this land, you're definitely interested in the wealth that's lain hidden in dusty crypts for millennia. You gain a +2 trait bonus on Appraise checks, and Appraise is always a class skill for you. In addition, your contacts in the antiquities markets allow you to sell relics of the ancient kingdom for 60% of their listed price, rather than the normal 50% value. What is considered a relic of the ancient kingdom is left to the GM's discretion.
 
-**Inquisitive Archaeologist**: You have studied the architectural styles of many nations, but none have fascinated you like the architecture of the ancient desert kingdom. Hearing that the famed necropolis has finally been opened for exploration, you've come to the city to get firsthand experience with the lost secrets of its master builders. You gain a +2 trait bonus on Knowledge (engineering) checks, and that skill is always a class skill for you. In addition, you gain a +2 trait bonus on Perception checks to find concealed or secret doors in structures built in the style of the ancient kingdom.
+**Inquisitive Archaeologist**: You have studied the architectural styles of many nations, but none have [fascinated](../../rules/appendices/conditions.md#fascinated) you like the architecture of the ancient desert kingdom. Hearing that the famed necropolis has finally been opened for exploration, you've come to the city to get firsthand experience with the lost secrets of its master builders. You gain a +2 trait bonus on Knowledge (engineering) checks, and that skill is always a class skill for you. In addition, you gain a +2 trait bonus on Perception checks to find concealed or secret doors in structures built in the style of the ancient kingdom.
 
 **Mummy-Cursed**: One of your ancestors ran afoul of a mummy's curse while exploring an ancient tomb. This curse was passed down to later generations of your family, but over time, your line has become more resistant to curses. You've come to explore the untouched necropolis, and while you hope you won't have to face a real undead mummy, at least you have some defense if you do. You gain a +2 trait bonus on saving throws against curses and curse effects (including mummy rot and spells with the curse descriptor) and a +2 trait bonus on saving throws against a mummy's aura of despair.
 
@@ -248,7 +248,7 @@ These traits tie characters to a campaign of tomb-delving in an ancient necropol
 
 **Fey Outpost Escapee** *(eternal-winter realm)*: You have spent considerable time at an unearthly fey outpost, but have escaped. You gain DR 1/cold iron but become sickened for 1 round if damaged by a cold iron weapon.
 
-**Palace Gourmand** *(eternal-winter realm)*: You grew up privileged in the capital city, and indulged in many exotic and unnerving pleasures. You gain a +1 trait bonus on saves against any effect causing the nauseated or sickened condition and against all ingested poisons.
+**Palace Gourmand** *(eternal-winter realm)*: You grew up privileged in the capital city, and indulged in many exotic and unnerving pleasures. You gain a +1 trait bonus on saves against any effect causing the [nauseated](../../rules/appendices/conditions.md#nauseated) or sickened condition and against all ingested poisons.
 
 **Spirit Animal** *(mammoth-hunting plains)*: A spirit animal watches over you. Choose one of the following spirit animals. The benefit you receive depends on which you choose.
 
@@ -260,7 +260,7 @@ These traits tie characters to a campaign of tomb-delving in an ancient necropol
 
 These traits tie characters to a campaign of frost and fury that begins in a warm village far to the south and travels to icy, winter-bound lands.
 
-**Adaptive Magic**: The wonders of magic have always fascinated you, and you find the urge to tinker and experiment with magic almost irresistible. You could be the child of an alchemist, wizard, or witch; a member of an explorers' society; or maybe someone with a touch of fey or dragon blood. You may not be trained in magic, and you've had your share of accidental mishaps, but you possess a natural knack for activating magic items. You've always been intrigued by the cold magic of winter witches and ice mages of the North, and would love to get your hands on some of their magic items. You gain a +1 trait bonus on Knowledge (arcana) and Use Magic Device checks, and Use Magic Device is a class skill for you.
+**Adaptive Magic**: The wonders of magic have always fascinated you, and you find the urge to tinker and experiment with magic almost irresistible. You could be the child of an alchemist, wizard, or witch; a member of an explorers' society; or maybe someone with a touch of fey or dragon blood. You may not be trained in magic, and you've had your share of accidental mishaps, but you possess a natural knack for activating magic items. You've always been intrigued by the cold magic of winter witches and ice mages of the North, and would love to get your hands on some of their magic items. You gain a +1 trait bonus on Knowledge (arcana) and [Use Magic Device](../../rules/skills/use-magic-device.md) checks, and Use Magic Device is a class skill for you.
 
 **Blood of Giants**: You're a big person, and folk have always said you've got some giant blood in you. Even as a child, you towered over your friends, and as you grew older, you grew even taller and stronger. Maybe your hair has a tint of blue as well, or your skin is as pale as snow. You gain a +1 trait bonus on combat maneuver checks to sunder, and a +1 trait bonus to your CMD against bull rush and overrun combat maneuvers.
 
@@ -282,7 +282,7 @@ These traits tie characters to a campaign of frost and fury that begins in a war
 
 **Freedom Fighter** *(slaver-hunting privateers)*: You gain a +2 trait bonus on Diplomacy checks against creatures who oppose slavery and a –2 penalty against slavers or those who support the slave trade. Diplomacy is a class skill for you.
 
-**Pretend Pirate** *(slaver-hunting privateers)*: You gain a +2 trait bonus on Disguise checks to look like a pirate or merchant sailor. Spending 5 minutes altering a ship's look increases the DC to identify its true allegiance by 2.
+**Pretend Pirate** *(slaver-hunting privateers)*: You gain a +2 trait bonus on [Disguise](../../rules/skills/disguise.md) checks to look like a pirate or merchant sailor. Spending 5 minutes altering a ship's look increases the DC to identify its true allegiance by 2.
 
 **Devilfish Diver** *(tropical freebooters)*: You gain a +2 trait bonus on saving throws against poison.
 
@@ -368,7 +368,7 @@ These traits are granted by a specific breed of mount. A mount trait counts agai
 
 **Burst of Speed** *(charger; statistics as a horse)*: Three times per day, while riding a charger and making a charge attack, you can increase your mount's speed by 15 feet as a free action.
 
-**Clamber** *(mountain goat; statistics as a ram)*: Mountain goats are known for being sure-footed climbers, scaling vertical peaks that would give a monkey pause. They gain a +2 trait bonus on Climb checks, and Climb is a class skill for them.
+**Clamber** *(mountain goat; statistics as a ram)*: Mountain goats are known for being sure-footed climbers, scaling vertical peaks that would give a monkey pause. They gain a +2 trait bonus on [Climb](../../rules/skills/climb.md) checks, and Climb is a class skill for them.
 
 **Cunning Breed** *(jennet; statistics as a horse)*: A jennet can learn a total of eight tricks when trained using the Handle Animal skill (as opposed to the standard six for having an Intelligence score of 2).
 
@@ -378,7 +378,7 @@ These traits are granted by a specific breed of mount. A mount trait counts agai
 
 **Relentless Fortitude** *(dromedary; statistics as a camel)*: A dromedary heals nonlethal damage at a rate of 2 hit points per hour per Hit Die. This trait does not stack with other effects that increase a creature's rate of healing nonlethal damage.
 
-**Running Pig** *(warthog; statistics as a boar)*: These broad-faced boars have enormous tusks and large fleshy facial protrusions. Those who have worked with them find warthogs easier to deal with than wild boars, as they are more prone to flight than aggression. Warthogs are quicker than they look, with a base speed of 45 feet instead of the boar's 40 feet.
+**Running Pig** *(warthog; statistics as a boar)*: These broad-faced boars have enormous tusks and large fleshy facial protrusions. Those who have worked with them find warthogs easier to deal with than wild boars, as they are more [prone](../../rules/appendices/conditions.md#prone) to flight than aggression. Warthogs are quicker than they look, with a base speed of 45 feet instead of the boar's 40 feet.
 
 **Stalwart Elk** *(riding elk; statistics as a river elk)*: While riding a riding elk, you gain a +4 trait bonus on Handle Animal, Ride, and wild empathy checks to resist another creature's unnatural aura.
 
@@ -490,7 +490,7 @@ These traits suit characters who grew up on the road or far from civilization. E
 
 **Guerrilla Tactics** *(Combat)*: You gain a +2 trait bonus on Stealth checks and initiative checks in forests.
 
-**Sharp Eyes** *(Region, Tundra)*: You are immune to the dazzled condition.
+**Sharp Eyes** *(Region, Tundra)*: You are immune to the [dazzled](../../rules/appendices/conditions.md#dazzled) condition.
 
 **Star-Guided** *(Religion)*: You gain a +4 trait bonus when using Survival to navigate under clear skies.
 
@@ -512,7 +512,7 @@ The following regional traits are appropriate for any character that grew up wit
 
 **Observant Archer (Aquatic origin)**: Growing up in an aquatic environment, where three-dimensional movement and perception were necessary, has given you keen observational skills and the ability to notice and target unusual positions with ranged attacks. You gain a +1 trait bonus on ranged attack rolls when your target is at least 10 feet above or below you.
 
-**Polyglot Upbringing (Jungle native)**: Your homeland is a land of dozens of languages, and you grew up speaking most of them. You gain one bonus language of your choice. In addition, you gain a +1 trait bonus on Linguistics checks when trying to communicate with someone who does not share a common language with you.
+**Polyglot Upbringing (Jungle native)**: Your homeland is a land of dozens of languages, and you grew up speaking most of them. You gain one bonus language of your choice. In addition, you gain a +1 trait bonus on [Linguistics](../../rules/skills/linguistics.md) checks when trying to communicate with someone who does not share a common language with you.
 
 **Poet's Tongue (Native speaker of a poetic language)**: Your homeland is a land of poetry, and you have grown up immersed in the words and language of that culture. Your facility with the language is evident to all when you speak. You gain a +2 trait bonus on Bluff and Diplomacy checks when speaking with anyone fluent in your native language.
 
@@ -610,7 +610,7 @@ These traits come from the many nations of a great inland sea. Each trait names 
 
 **Highland Tribesman (Frontier land native)**: You were born or adopted into a highland tribe. Choose one of the following skills: Climb, Survival, or Swim. You gain a +1 trait bonus on this skill, and it is always a class skill for you.
 
-**Imperial Soldier (Militaristic empire native)**: You’ve served in an imperial army. Choose one of the following skills: Heal, Intimidate, or Ride. You gain a +1 trait bonus on that skill, and it is always a class skill for you.
+**Imperial Soldier (Militaristic empire native)**: You’ve served in an imperial army. Choose one of the following skills: [Heal](../../rules/skills/heal.md), Intimidate, or Ride. You gain a +1 trait bonus on that skill, and it is always a class skill for you.
 
 **Inspiring Speaker (Revolutionary nation native)**: You have learned the arts of oratory, and know how to speak to crowds to rile them up or to calm them down. You gain a +1 trait bonus on Bluff and Diplomacy checks when addressing crowds of 10 people or more.
 

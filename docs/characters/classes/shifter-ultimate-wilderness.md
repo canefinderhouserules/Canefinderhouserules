@@ -82,7 +82,7 @@ While a shifter uses wild shape to assume her aspect’s major form, her natural
 
 ### Wild Empathy (Ex)
 
-A shifter can improve the attitude of an animal. This ability functions as a Diplomacy check to improve the attitude of a person. The shifter rolls 1d20 and adds her shifter level and Charisma modifier to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
+A shifter can improve the attitude of an animal. This ability functions as a [Diplomacy](../../rules/skills/diplomacy.md) check to improve the attitude of a person. The shifter rolls 1d20 and adds her shifter level and Charisma modifier to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
 
 To use wild empathy, the shifter and the animal must be within 30 feet of one another and under normal conditions. Generally, influencing an animal in this way takes 1 minute but, as with influencing people, it might take more or less time.
 
@@ -92,11 +92,11 @@ The shifter can also use this ability to influence a magical beast with an Intel
 
 At 2nd level, when unarmored, not using a shield, unencumbered, and conscious, the shifter adds her Wisdom bonus (if any) to her AC and CMD. If she is wearing nonmetal armor or using a nonmetal shield, she instead adds half her Wisdom bonus to her AC (minimum 0). In addition, the shifter gains a +1 bonus to her AC and CMD at 4th level. This bonus increases by 1 for every 4 shifter levels thereafter (up to a maximum of +5 at 20th level).
 
-These bonuses to AC apply even against touch attacks and when the shifter is flat-footed. She loses these bonuses when she is immobilized or helpless. These bonuses do not stack with the [monk AC bonus](monk.md#ac-bonus-ex) class feature.
+These bonuses to AC apply even against touch attacks and when the shifter is [flat-footed](../../rules/appendices/conditions.md#flat-footed). She loses these bonuses when she is immobilized or [helpless](../../rules/appendices/conditions.md#helpless). These bonuses do not stack with the [monk AC bonus](monk.md#ac-bonus-ex) class feature.
 
 ### Track (Ex)
 
-At 2nd level, a shifter adds half her level as a bonus on Survival checks to follow tracks.
+At 2nd level, a shifter adds half her level as a bonus on [Survival](../../rules/skills/survival.md) checks to follow tracks.
 
 ### Woodland Stride (Ex)
 
@@ -182,9 +182,9 @@ The bull is a fierce charger and is adept at trampling its foes, pounding them t
 
 The crocodile lurks in the water, unseen until it lunges forth with its powerful jaws.
 
-**Minor Form**: You gain a +2 competence bonus on Swim checks and grapple combat maneuver checks. This bonus increases to +4 at 8th level and +6 at 15th level.
+**Minor Form**: You gain a +2 competence bonus on [Swim](../../rules/skills/swim.md) checks and grapple combat maneuver checks. This bonus increases to +4 at 8th level and +6 at 15th level.
 
-**Major Form**: Your shape changes to that of a crocodile. While in this form, you gain a swim speed of 30 feet, low-light vision, a bite attack (1d8) with the grab ability, and a tail slap attack (a secondary natural attack that deals 1d12 points of damage). At 8th level, once per minute as a free action, you can increase your land speed by 20 feet for 1 round. At 15th level, you gain Improved Natural Attack with your bite attack, and when you successfully grapple a foe, you can knock your grappled foe prone.
+**Major Form**: Your shape changes to that of a crocodile. While in this form, you gain a swim speed of 30 feet, low-light vision, a bite attack (1d8) with the grab ability, and a tail slap attack (a secondary natural attack that deals 1d12 points of damage). At 8th level, once per minute as a free action, you can increase your land speed by 20 feet for 1 round. At 15th level, you gain Improved Natural Attack with your bite attack, and when you successfully grapple a foe, you can knock your [grappled](../../rules/appendices/conditions.md#grappled) foe [prone](../../rules/appendices/conditions.md#prone).
 
 ### Deinonychus
 
@@ -192,13 +192,13 @@ The deinonychus is adept at racing from ambush to deliver grievous wounds with i
 
 **Minor Form**: You gain a +2 bonus on Initiative checks. This bonus increases to +4 at 8th level and +6 at 15th level.
 
-**Major Form**: Your shape changes to that of a deinonychus. While in this form, you gain a base speed of 60 feet, low-light vision, scent (30 feet), a bite attack, and two talon attacks (your talon attacks can use your shifter claws damage), and pounce. At 8th level, you gain two foreclaw attacks (these attacks cannot use your shifter claws damage) and a +4 racial bonus on Acrobatics checks. At 15th level, you gain a +1 dodge bonus to AC and [Spring Attack](../../rules/feats/spring-attack.md) as a bonus feat.
+**Major Form**: Your shape changes to that of a deinonychus. While in this form, you gain a base speed of 60 feet, low-light vision, scent (30 feet), a bite attack, and two talon attacks (your talon attacks can use your shifter claws damage), and pounce. At 8th level, you gain two foreclaw attacks (these attacks cannot use your shifter claws damage) and a +4 racial bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks. At 15th level, you gain a +1 dodge bonus to AC and [Spring Attack](../../rules/feats/spring-attack.md) as a bonus feat.
 
 ### Dolphin
 
 The aspect of the dolphin imparts clever mastery of the seas. Shifters with this aspect also embody the size and ferociousness of large dolphins, such as orcas.
 
-**Minor Form**: You gain a +4 competence bonus on Knowledge checks to identify creatures' abilities and weaknesses. This bonus increases to +6 at 8th level and +8 at 15th level.
+**Minor Form**: You gain a +4 competence bonus on [Knowledge](../../rules/skills/knowledge.md) checks to identify creatures' abilities and weaknesses. This bonus increases to +6 at 8th level and +8 at 15th level.
 
 **Major Form**: Your shape changes to that of a Large dolphin, but your space is 10 feet instead of 5 feet. While in this form, you gain a swim speed of 60 feet, blindsense with a range of 10 feet, low-light vision, a bite attack (1d8), and the ability to hold your breath for a number of minutes equal to 6 times your Constitution score before you risk drowning. At 8th level, the range of your blindsense increases to 20 feet. At 15th level, the range of your blindsense increases to 60 feet and your swim speed increases to 80 feet.
 
@@ -216,13 +216,13 @@ The aspect of the electric eel imparts the ability to charge attacks with electr
 
 **Minor Form**: Your attacks deal 1 point of electricity damage in addition to their normal damage. This additional electricity damage increases to 1d3 at 8th level and 1d6 at 15th level.
 
-**Major Form**: Your shape changes to that of an electric eel. While in this form, you gain a swim speed of 30 feet, low-light vision, electricity resistance 5, a bite attack (1d6), and a tail attack (a secondary natural touch attack that deals 1d6 points of electricity damage). At 8th level, your electricity resistance increases to 10 and you gain a +4 racial bonus on Escape Artist checks. At 15th level, on a critical hit with your tail attack, the creature struck must succeed at a Fortitude save (DC = 10 + half your shifter level + your Constitution modifier) or be stunned for 1d4 rounds.
+**Major Form**: Your shape changes to that of an electric eel. While in this form, you gain a swim speed of 30 feet, low-light vision, electricity resistance 5, a bite attack (1d6), and a tail attack (a secondary natural touch attack that deals 1d6 points of electricity damage). At 8th level, your electricity resistance increases to 10 and you gain a +4 racial bonus on [Escape Artist](../../rules/skills/escape-artist.md) checks. At 15th level, on a critical hit with your tail attack, the creature struck must succeed at a Fortitude save (DC = 10 + half your shifter level + your Constitution modifier) or be [stunned](../../rules/appendices/conditions.md#stunned) for 1d4 rounds.
 
 ### Falcon
 
 The falcon senses all and has the speed to hunt down even the most elusive prey. Those who take this aspect gain enhanced abilities to perceive and reconnoiter the wilderness—little escapes this shifter’s attention.
 
-**Minor Form**: You gain a +4 competence bonus on Perception checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+**Minor Form**: You gain a +4 competence bonus on [Perception](../../rules/skills/perception.md) checks. This bonus increases to +6 at 8th level and +8 at 15th level.
 
 **Major Form**: Your shape changes to that of a Small falcon. While in this form, you gain a bite attack (1d4 damage), two claw attacks (1d3 damage), a fly speed of 60 feet (good), low-light vision, and a +4 racial bonus on vision-based Perception checks. At 8th level, you gain darkvision with a range of 120 feet, and your racial bonus on Perception checks increases to +6. At 15th level, you gain blindsense with a range of 60 feet and your fly speed increases to 90 feet (perfect).
 
@@ -256,7 +256,7 @@ The aspect of the mantis imparts uncanny patience and unsettling speed.
 
 The monkey is a climbing trickster who specializes in mobility and manual agility.
 
-**Minor Form**: You gain a +4 competence bonus on Climb checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+**Minor Form**: You gain a +4 competence bonus on [Climb](../../rules/skills/climb.md) checks. This bonus increases to +6 at 8th level and +8 at 15th level.
 
 **Major Form**: Your shape changes to that of a Large monkey (as per the dire ape). While in this form, you gain a climb speed of 30 feet, low-light vision, and scent (30 feet), and you can still use your hands to wield weapons, hold objects, and manipulate objects normally. At 8th level, your climb speed increases to 50 feet, and you can use your tail to hold and manipulate objects as if you had a third hand, but you cannot use it to wield weapons or shields. At 15th level, you gain a rend attack that deals extra damage equal to that of your shifter claws attack plus 1-1/2 times your Strength bonus when you hit with two of your normal shifter claws attacks.
 
@@ -282,7 +282,7 @@ The octopus is a cunning hunter, able to contort its malleable body with ease.
 
 The aspect of the owl is one of silence. This predator glides through the night unheard, a master of stealthy attacks.
 
-**Minor Form**: You gain a +4 competence bonus on Stealth checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+**Minor Form**: You gain a +4 competence bonus on [Stealth](../../rules/skills/stealth.md) checks. This bonus increases to +6 at 8th level and +8 at 15th level.
 
 **Major Form**: Your shape changes to that of a Medium owl. While in this form, you gain two claw attacks (1d6 damage), darkvision with a range of 60 feet, and a +2 racial bonus on Stealth checks. At 8th level, you gain Flyby Attack as a bonus feat, and the range of your darkvision increases to 120 feet. At 15th level, you can take the form of a Large owl and gain the benefits of the Snatch feat, but you can use it only to grab a creature at least one size category smaller than yourself, and you can squeeze a creature grappled with this ability no matter what size it is.
 
@@ -344,7 +344,7 @@ This aspect unlocks the brutal ferocity and tenacious fury of the wolverine. The
 
 **Minor Form**: You gain 1 additional hit point per Hit Die you have, and treat your Constitution score as 4 points higher than it is for the purpose of determining when you die at negative hit points. At 8th level, you gain Diehard as a bonus feat. At 15th level, you treat your Constitution as being 8 points higher for the purpose of determining when you die at negative hit points.
 
-**Major Form**: Your shape changes to that of a dire wolverine. While in this form, you gain a climb speed of 10 feet, low-light vision, and scent (30 feet). While in dire wolverine form, you gain the [barbarian’s rage](barbarian.md#rage-ex) power, but can activate this rage only in a round after you’ve taken damage. You can rage for a number of rounds each day equal to your shifter level. This ability otherwise functions the same as the [barbarian rage](barbarian.md#rage-ex) ability (unlike a dire wolverine, you can choose to end this rage voluntarily). At 8th level, you can choose two [barbarian rage powers](barbarian.md#rage-powers-ex), treating your shifter level as your effective barbarian level for the purposes of meeting prerequisites. At 15th level, you are no longer fatigued at the end of your rage.
+**Major Form**: Your shape changes to that of a dire wolverine. While in this form, you gain a climb speed of 10 feet, low-light vision, and scent (30 feet). While in dire wolverine form, you gain the [barbarian’s rage](barbarian.md#rage-ex) power, but can activate this rage only in a round after you’ve taken damage. You can rage for a number of rounds each day equal to your shifter level. This ability otherwise functions the same as the [barbarian rage](barbarian.md#rage-ex) ability (unlike a dire wolverine, you can choose to end this rage voluntarily). At 8th level, you can choose two [barbarian rage powers](barbarian.md#rage-powers-ex), treating your shifter level as your effective barbarian level for the purposes of meeting prerequisites. At 15th level, you are no longer [fatigued](../../rules/appendices/conditions.md#fatigued) at the end of your rage.
 
 ## Alternate Natural Attacks
 

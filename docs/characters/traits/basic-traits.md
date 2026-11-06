@@ -36,13 +36,13 @@ There are 40 basic traits, split evenly among four categories. Combat traits foc
 
 **Birthmark**: You were born with a strange birthmark that looks very similar to the holy symbol of the god you chose to worship later in life. This birthmark can serve you as a divine focus for casting spells, and as a physical manifestation of your faith, it increases your devotion to your god—you gain a +2 trait bonus on all saving throws against charm and compulsion effects as a result.
 
-**Caretaker**: As the child of an herbalist or an assistant in a temple infirmary, you often had to assist in tending to the sick and wounded. You gain a +1 trait bonus on Heal checks, and Heal is always a class skill for you.
+**Caretaker**: As the child of an herbalist or an assistant in a temple infirmary, you often had to assist in tending to the sick and wounded. You gain a +1 trait bonus on [Heal](../../rules/skills/heal.md) checks, and Heal is always a class skill for you.
 
-**Child of the Temple**: You have long served at a temple in a city, and not only did you pick up on many of the nobility’s customs, you spent much time in the temple libraries studying your faith. You gain a +1 trait bonus on Knowledge (nobility) and Knowledge (religion) checks, and one of these skills (your choice) is always a class skill for you.
+**Child of the Temple**: You have long served at a temple in a city, and not only did you pick up on many of the nobility’s customs, you spent much time in the temple libraries studying your faith. You gain a +1 trait bonus on [Knowledge](../../rules/skills/knowledge.md) (nobility) and Knowledge (religion) checks, and one of these skills (your choice) is always a class skill for you.
 
 **Devotee of the Green**: Your faith in the natural world or one of the gods of nature makes it easy for you to pick up on related concepts. You gain a +1 trait bonus on Knowledge (geography) and Knowledge (nature) checks, and one of these skills (your choice) is always a class skill for you.
 
-**Ease of Faith**: Your mentor, the person who invested your faith in you from an early age, took steps to ensure that you understood that what powers your divine magic is no different than that which powers the magic of other religions. This philosophy makes it easier for you to interact with others who may not share your views. You gain a +1 bonus on Diplomacy checks, and Diplomacy is always a class skill for you.
+**Ease of Faith**: Your mentor, the person who invested your faith in you from an early age, took steps to ensure that you understood that what powers your divine magic is no different than that which powers the magic of other religions. This philosophy makes it easier for you to interact with others who may not share your views. You gain a +1 bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks, and Diplomacy is always a class skill for you.
 
 **History of Heresy**: You were raised with heretical views that have made it difficult for you to accept most religious beliefs and often caused you or those you love to be treated as pariahs. As a result, you have turned your back on religious teachings, and as long as you do not possess any levels in a class that grants divine spellcasting power, you gain a +1 trait bonus on all saving throws made against divine spells.
 
@@ -54,13 +54,13 @@ There are 40 basic traits, split evenly among four categories. Combat traits foc
 
 **Scholar of the Great Beyond**: Your great interests as a child did not lie with current events or the mundane— you have always felt out of place, as if you were born in the wrong era. You take to philosophical discussions of the Great Beyond and of historical events with ease. You gain a +1 trait bonus on Knowledge (history) and Knowledge (planes) checks, and one of these skills (your choice) is always a class skill for you.
 
-**River Acumen**: Your connection with the river and its tributaries has blended with your reverence for the gods of the river passages so much so that you seem divinely blessed while plying river waters. You gain a +2 trait bonus on Swim checks in rivers or streams, and a +2 trait bonus on Survival checks to forage for food in or near a river or stream.
+**River Acumen**: Your connection with the river and its tributaries has blended with your reverence for the gods of the river passages so much so that you seem divinely blessed while plying river waters. You gain a +2 trait bonus on [Swim](../../rules/skills/swim.md) checks in rivers or streams, and a +2 trait bonus on [Survival](../../rules/skills/survival.md) checks to forage for food in or near a river or stream.
 
 ## Magic Traits
 
-**Classically Schooled**: Your apprenticeship or early education was particularly focused on the direct application of magic. You gain a +1 trait bonus on Spellcraft checks, and Spellcraft is always a class skill for you.
+**Classically Schooled**: Your apprenticeship or early education was particularly focused on the direct application of magic. You gain a +1 trait bonus on [Spellcraft](../../rules/skills/spellcraft.md) checks, and Spellcraft is always a class skill for you.
 
-**Dangerously Curious**: You have always been intrigued by magic, possibly because you were the child of a magician or priest. You often snuck into your parent’s laboratory or shrine to tinker with spell components and magic devices, and frequently caused quite a bit of damage and headaches for your parent as a result. You gain a +1 bonus on Use Magic Device checks, and Use Magic Device is always a class skill for you.
+**Dangerously Curious**: You have always been intrigued by magic, possibly because you were the child of a magician or priest. You often snuck into your parent’s laboratory or shrine to tinker with spell components and magic devices, and frequently caused quite a bit of damage and headaches for your parent as a result. You gain a +1 bonus on [Use Magic Device](../../rules/skills/use-magic-device.md) checks, and Use Magic Device is always a class skill for you.
 
 **Focused Mind**: Your childhood was either dominated by lessons of some sort (whether musical, academic, or other) or by a horrible home life that encouraged your ability to block out distractions and focus on the immediate task at hand. You gain a +2 trait bonus on concentration checks.
 
@@ -88,13 +88,13 @@ There are 40 basic traits, split evenly among four categories. Combat traits foc
 
 **Adopted**: You were adopted and raised by someone not of your actual race, and raised in a society not your own. As a result, you picked up a race trait from your adoptive parents and society, and may immediately select a race trait from your adoptive parents’ race.
 
-**Bully**: You grew up in an environment where the meek were ignored and you often had to resort to threats or violence to be heard. You gain a +1 trait bonus on Intimidate checks, and Intimidate is always a class skill for you.
+**Bully**: You grew up in an environment where the meek were ignored and you often had to resort to threats or violence to be heard. You gain a +1 trait bonus on [Intimidate](../../rules/skills/intimidate.md) checks, and Intimidate is always a class skill for you.
 
-**Canter**: You grew up among thieves and scoundrels, and their unusual speech patterns and turns of phrase don’t faze you in the slightest today as a result. Anyone who attempts to use Bluff to deliver a secret message to you gains a +5 bonus on his Bluff check. When you attempt to intercept a secret message using Sense Motive, you gain a +5 trait bonus on the attempt.
+**Canter**: You grew up among thieves and scoundrels, and their unusual speech patterns and turns of phrase don’t faze you in the slightest today as a result. Anyone who attempts to use Bluff to deliver a secret message to you gains a +5 bonus on his [Bluff](../../rules/skills/bluff.md) check. When you attempt to intercept a secret message using [Sense Motive](../../rules/skills/sense-motive.md), you gain a +5 trait bonus on the attempt.
 
 **Charming**: Blessed with good looks, you’ve come to depend on the fact that others find you attractive. You gain a +1 trait bonus when you use Bluff or Diplomacy on a character that is (or could be) sexually attracted to you, and a +1 trait bonus to the save DC of any language-dependent spell you cast on such characters or creatures.
 
-**Child of the Streets**: You grew up on the streets of a large city, and as a result you have developed a knack for picking pockets and hiding small objects on your person. You gain a +1 trait bonus on Sleight of Hand checks, and Sleight of Hand is always a class skill for you.
+**Child of the Streets**: You grew up on the streets of a large city, and as a result you have developed a knack for picking pockets and hiding small objects on your person. You gain a +1 trait bonus on [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks, and Sleight of Hand is always a class skill for you.
 
 **Fast-Talker**: You had a knack at getting yourself into trouble as a child, and as a result developed a silver tongue at an early age. You gain a +1 trait bonus on Bluff checks, and Bluff is always a class skill for you.
 
@@ -124,7 +124,7 @@ There are 40 basic traits, split evenly among four categories. Combat traits foc
 
 **Beastkin**: Select one specific type of animal (such as wolves or apes). You were raised from infancy by an animal or pack of animals of that type. You learned their ways and have more in common with your beastly kin than members of any humanoid race. You gain a +1 trait bonus on Survival checks and can use [*speak with animals*](../../magic/spells/speak-with-animals.md) as a spell-like ability at will to communicate with the type of animal that raised you.
 
-**Self-Sufficient**: You know how to work with your hands and aren't dependent on complex tools. When attempting Craft checks, you take no penalty when using improvised tools. At the GM's discretion, you can attempt certain Craft checks even when no tools are available, though you take a –2 penalty.
+**Self-Sufficient**: You know how to work with your hands and aren't dependent on complex tools. When attempting [Craft](../../rules/skills/craft.md) checks, you take no penalty when using improvised tools. At the GM's discretion, you can attempt certain Craft checks even when no tools are available, though you take a –2 penalty.
 
 **Wild Tongue**: You were raised in a community that included numerous individuals who spoke with creatures of the wild. You gain one of the following languages of your choice as a bonus language: Aklo, Aquan, Auran, Giant, Ignan, or Sylvan. With your GM's permission, you can instead select Druidic, but druids are protective of their language and may hunt you as a threat to their sole ownership of their secrets.
 
@@ -152,7 +152,7 @@ These traits suit characters who have lived in or explored the Underworld. Each 
 
 **Deep Faith (Faith)**: Your deity was born of the depths, and you’re a child of such realms. Whenever you cast a spell granted by the earth domain (or associated subdomains) while in the Underworld, that spell functions at 1 caster level higher than your actual caster level.
 
-**Escaped Captive (Social)**: Whether you were on your way to becoming a drow slave or slated for the ghoul chattel pits, you very narrowly avoided a life of miserable captivity. You make a habit of avoiding restraints or tight spaces, gaining a +1 trait bonus on Escape Artist checks and a +2 trait bonus to CMD to avoid being pinned.
+**Escaped Captive (Social)**: Whether you were on your way to becoming a drow slave or slated for the ghoul chattel pits, you very narrowly avoided a life of miserable captivity. You make a habit of avoiding restraints or tight spaces, gaining a +1 trait bonus on [Escape Artist](../../rules/skills/escape-artist.md) checks and a +2 trait bonus to CMD to avoid being [pinned](../../rules/appendices/conditions.md#pinned).
 
 **Light in the Darkness (Faith)**: You’re destined to bring light to the darkness and expunge the faithless from the deep. Whenever you cast a spell granted by the sun domain (or associated subdomains) while in the Underworld, the spell functions at 1 caster level higher than your actual caster level.
 
@@ -164,7 +164,7 @@ These traits suit characters who have lived in or explored the Underworld. Each 
 
 **Underworld Trader (Social)**: You’re familiar with the upper Underworld’s trade routes and negotiation involving the denizens of the Underworld. You gain a +1 trait bonus on Diplomacy checks relating to subterranean trade and on Knowledge (dungeoneering) checks relating to subterranean creatures. Select one of these skills to be a class skill for you.
 
-**Voices in your Head (Social)**: Through pacts with eldritch beings or a simple quirk of circumstance, your voice has an uncanny rapport with those swept up in madness. Once per day as an immediate action, you can issue a command to a confused creature within 30 feet. This allows the creature to immediately reroll on the confused condition table, and you can pick which of the two actions—the action of its initial roll or that of the reroll—the creature takes. Confused creatures do not need to understand you for this trait to take effect.
+**Voices in your Head (Social)**: Through pacts with eldritch beings or a simple quirk of circumstance, your voice has an uncanny rapport with those swept up in madness. Once per day as an immediate action, you can issue a command to a [confused](../../rules/appendices/conditions.md#confused) creature within 30 feet. This allows the creature to immediately reroll on the confused condition table, and you can pick which of the two actions—the action of its initial roll or that of the reroll—the creature takes. Confused creatures do not need to understand you for this trait to take effect.
 
 ## Explorers’ Society Traits
 
@@ -230,7 +230,7 @@ These traits suit characters raised in or around an empire ruled by devil-worshi
 
 These traits suit characters from a jungle colony and its wild surroundings. Each lists its trait category in parentheses.
 
-**Hill Fighter (Combat)**: You are used to fighting in hilly environments. You may run or charge downhill on a steep slope (moving up to your base speed) without making an Acrobatics check to avoid stumbling—but if you travel farther than this distance, the normal rules for steep slopes apply.
+**Hill Fighter (Combat)**: You are used to fighting in hilly environments. You may run or charge downhill on a steep slope (moving up to your base speed) without making an [Acrobatics](../../rules/skills/acrobatics.md) check to avoid stumbling—but if you travel farther than this distance, the normal rules for steep slopes apply.
 
 **Jungle Fighter (Combat)**: You are sure-footed in jungle environments, and your speed may not be reduced to less than 10 feet by difficult terrain in jungles (meaning you may take a 5-foot step in difficult terrain and not provoke an attack of opportunity).
 
@@ -248,7 +248,7 @@ These traits suit characters from a jungle colony and its wild surroundings. Eac
 
 ## Faction Traits
 
-**Coherent Rage (Combat)**: Your determination allows you to hold onto a shred of your rational mind at all times. Select one of the following skills: Bluff, Escape Artist, Handle Animal, or Stealth. You may use this skill normally while raging. You must be a member of the northern royal guard to take this trait.
+**Coherent Rage (Combat)**: Your determination allows you to hold onto a shred of your rational mind at all times. Select one of the following skills: Bluff, Escape Artist, [Handle Animal](../../rules/skills/handle-animal.md), or [Stealth](../../rules/skills/stealth.md). You may use this skill normally while raging. You must be a member of the northern royal guard to take this trait.
 
 **Convincing Liar (Social)**: You’ve spent your life perfecting the art of half-truths in order to accomplish what you need to. You gain a +1 trait bonus on Bluff or Intimidate checks and one of these skills (your choice) is a class skill for you. You must be a member of the freed-slave network to take this trait.
 
@@ -262,7 +262,7 @@ These traits suit characters from a jungle colony and its wild surroundings. Eac
 
 **Necrotic Aura (Faith)**: Your exposure to the necromantic arts has strengthened your defenses against its vile rot. You gain a +1 trait bonus on saving throws against spells from the necromancy school or any effect that deals negative energy damage. You must be a member of a whispering necromancer cult to take this trait.
 
-**Noble Savage (Social)**: You hail from the fringes of civilization or the bottommost strata of society, but something in your character makes that seem endearing. You gain a +2 trait bonus on Diplomacy and Perform checks when dealing with people of high social standing. You must be a member of the northern royal guard to take this trait.
+**Noble Savage (Social)**: You hail from the fringes of civilization or the bottommost strata of society, but something in your character makes that seem endearing. You gain a +2 trait bonus on Diplomacy and [Perform](../../rules/skills/perform.md) checks when dealing with people of high social standing. You must be a member of the northern royal guard to take this trait.
 
 **Savant (Social)**: From a very young age, the ability to master performance types has come quite naturally to you. Choose a performance type. You gain a +2 trait bonus on all Perform checks made using that performance type. Perform is always a class skill for you. You must be a member of a bardic academy to take this trait.
 

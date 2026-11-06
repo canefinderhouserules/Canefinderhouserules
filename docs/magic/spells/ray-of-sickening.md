@@ -8,4 +8,4 @@
 **Duration** 1 min./level  
 **Saving Throw** Fortitude partial, see text; **Spell Resistance** yes
 
-This spell functions as [*ray of exhaustion*](ray-of-exhaustion.md), except the target is sickened if it fails its save and unaffected if it makes its save.
+This spell functions as [*ray of exhaustion*](ray-of-exhaustion.md), except the target is [sickened](../../rules/appendices/conditions.md#sickened) if it fails its save and unaffected if it makes its save.

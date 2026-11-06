@@ -6,4 +6,4 @@ You learned to fight in places that have no rules of engagement, such as back al
 
 **Prerequisites**: Str 13, Dex 13, [Improved Grapple](improved-grapple.md), [Improved Unarmed Strike](improved-unarmed-strike.md), [Power Attack](power-attack.md), base attack bonus +1.
 
-**Benefit**: When you perform a grapple combat maneuver, you gain a +1 bonus on checks to maintain your grapple, and your grappled foes take a –1 penalty on checks to escape your grapple.
+**Benefit**: When you perform a grapple combat maneuver, you gain a +1 bonus on checks to maintain your grapple, and your [grappled](../appendices/conditions.md#grappled) foes take a –1 penalty on checks to escape your grapple.

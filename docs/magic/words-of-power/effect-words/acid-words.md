@@ -25,7 +25,7 @@ A wordspell with this effect word deals 1d4 points of acid damage per level of t
 **Duration** 2 rounds  
 **Saving Throw** Reflex half and partial (see below); **Spell Resistance** no
 
-A wordspell with this effect word deals 1d6 points of acid damage per caster level (maximum 10d6). Targets damaged by this effect word are sickened for 1 round per caster level, or 1 round if the saving throw against the wordspell with this effect word was successful.
+A wordspell with this effect word deals 1d6 points of acid damage per caster level (maximum 10d6). Targets damaged by this effect word are [sickened](../../../rules/appendices/conditions.md#sickened) for 1 round per caster level, or 1 round if the saving throw against the wordspell with this effect word was successful.
 
 ## Caustic Cloud (Acid)
 
@@ -34,4 +34,4 @@ A wordspell with this effect word deals 1d6 points of acid damage per caster lev
 **Saving Throw** Fortitude half; **Spell Resistance** no  
 **Target Restrictions** burst
 
-A wordspell with this effect word creates a cloud of noxious green vapor that obscures vision. Creatures caught in the cloud take 1d6 points of acid damage per caster level (maximum 20d6) and are fatigued. Creatures caught in the cloud receive a Fortitude save to halve the damage and to negate the fatigued effect. Creatures that remain in the cloud take a cumulative –2 penalty on the save each round they remain in the cloud, but spending just 1 round outside the cloud’s area resets this penalty. Creatures in the cloud that are fatigued become exhausted on a failed saving throw. A strong wind, such as that created by a gust of wind, disperses this cloud immediately.
+A wordspell with this effect word creates a cloud of noxious green vapor that obscures vision. Creatures caught in the cloud take 1d6 points of acid damage per caster level (maximum 20d6) and are [fatigued](../../../rules/appendices/conditions.md#fatigued). Creatures caught in the cloud receive a Fortitude save to halve the damage and to negate the fatigued effect. Creatures that remain in the cloud take a cumulative –2 penalty on the save each round they remain in the cloud, but spending just 1 round outside the cloud’s area resets this penalty. Creatures in the cloud that are fatigued become [exhausted](../../../rules/appendices/conditions.md#exhausted) on a failed saving throw. A strong wind, such as that created by a gust of wind, disperses this cloud immediately.

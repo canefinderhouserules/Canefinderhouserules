@@ -2,7 +2,7 @@
 
 *(Mythic)*
 
-You strike downed, dazed, and staggered opponents with deadly efficiency.
+You strike downed, [dazed](../appendices/conditions.md#dazed), and [staggered](../appendices/conditions.md#staggered) opponents with deadly efficiency.
 
 **Prerequisite**: [Dastardly Finish](dastardly-finish.md).
 

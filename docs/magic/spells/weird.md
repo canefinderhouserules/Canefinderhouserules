@@ -9,4 +9,4 @@
 
 This spell functions like [*phantasmal killer*](phantasmal-killer.md), except it can affect more than one creature. Only the affected creatures see the phantasmal creatures attacking them, though you see the attackers as shadowy shapes.
 
-If a subject’s Fortitude save succeeds, it still takes 3d6 points of damage and is stunned for 1 round. The subject also takes 1d4 points of Strength damage.
+If a subject’s Fortitude save succeeds, it still takes 3d6 points of damage and is [stunned](../../rules/appendices/conditions.md#stunned) for 1 round. The subject also takes 1d4 points of Strength damage.

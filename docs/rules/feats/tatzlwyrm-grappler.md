@@ -6,4 +6,4 @@ You can twist and bend in a way that makes you extremely difficult to grab.
 
 **Prerequisites**: Dex 13, [Improved Grapple](improved-grapple.md), [Improved Unarmed Strike](improved-unarmed-strike.md), [Tatzlwyrm Claw Style](tatzlwyrm-claw-style.md), Escape Artist 3 ranks.
 
-**Benefit**: While you're using the [Tatzlwyrm Claw Style](tatzlwyrm-claw-style.md) feat, whenever an opponent attempts to initiate a grapple against you, you can attempt an Escape Artist check. If the result is higher than your CMD, you can use the result as your CMD against that combat maneuver. You must be aware of the attack and not flat-footed.
+**Benefit**: While you're using the [Tatzlwyrm Claw Style](tatzlwyrm-claw-style.md) feat, whenever an opponent attempts to initiate a grapple against you, you can attempt an [Escape Artist](../skills/escape-artist.md) check. If the result is higher than your CMD, you can use the result as your CMD against that combat maneuver. You must be aware of the attack and not [flat-footed](../appendices/conditions.md#flat-footed).

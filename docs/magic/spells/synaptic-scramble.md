@@ -8,7 +8,7 @@
 **Duration** 1 round/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-You scramble the synaptic connections of your target, causing it to lose the ability to coherently communicate and to take unintended actions when it meant to perform others. The target cannot effectively communicate while under the spell’s influence, and thus cannot engage in acts like speaking, attempting Bluff checks to pass secret messages, writing, or using telepathy, although the spell doesn’t prevent verbalizations made for purposes other than communication, such as command words or the verbal component of spellcasting.
+You scramble the synaptic connections of your target, causing it to lose the ability to coherently communicate and to take unintended actions when it meant to perform others. The target cannot effectively communicate while under the spell’s influence, and thus cannot engage in acts like speaking, attempting [Bluff](../../rules/skills/bluff.md) checks to pass secret messages, writing, or using telepathy, although the spell doesn’t prevent verbalizations made for purposes other than communication, such as command words or the verbal component of spellcasting.
 
 The target’s mind is too scrambled to take full-round actions or longer actions, as the target’s attention inevitably wanders before the action completes. Whenever the target attempts to take a move action or a standard action, roll on the following table instead. If the result on the table is an action that the target cannot take, the target takes no action instead.
 

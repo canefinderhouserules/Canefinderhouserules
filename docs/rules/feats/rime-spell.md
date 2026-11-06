@@ -2,7 +2,7 @@
 
 *(Metamagic)*
 
-Creatures damaged by your spells with the cold descriptor become entangled.
+Creatures damaged by your spells with the cold descriptor become [entangled](../appendices/conditions.md#entangled).
 
 **Benefit**: The frost of your cold spell clings to the target, impeding it for a short time. A rime spell causes creatures that takes cold damage from the spell to become entangled for a number of rounds equal to the original level of the spell.
 

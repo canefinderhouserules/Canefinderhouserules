@@ -8,7 +8,7 @@
 **Duration** concentration (maximum 10 rounds) (D)  
 **Saving Throw** see text; **Spell Resistance** yes
 
-You create a huge black storm cloud in the air. Each creature under the cloud must succeed on a Fortitude save or be deafened for 1d4 × 10 minutes. Each round you continue to concentrate, the spell generates additional effects as noted below. Each effect occurs on your turn.
+You create a huge black storm cloud in the air. Each creature under the cloud must succeed on a Fortitude save or be [deafened](../../rules/appendices/conditions.md#deafened) for 1d4 × 10 minutes. Each round you continue to concentrate, the spell generates additional effects as noted below. Each effect occurs on your turn.
 
 *2nd Round*: Acid rains down in the area, dealing 1d6 points of acid damage (no save).
 

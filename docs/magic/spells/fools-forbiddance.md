@@ -8,4 +8,4 @@
 **Duration** concentration  
 **Saving Throw** Will partial; **Spell Resistance** yes
 
-Through your antics and performance, you create an area of warding that adversely affects all enemies that dare enter it. When an enemy creature enters the area it must make an immediate Will saving throw. If it fails, the creature is confused as long as it is in the area and for 1 round after it leaves. If it succeeds on the saving throw, the creature is staggered as long as it is in the area and for 1 round after it leaves.
+Through your antics and performance, you create an area of warding that adversely affects all enemies that dare enter it. When an enemy creature enters the area it must make an immediate Will saving throw. If it fails, the creature is [confused](../../rules/appendices/conditions.md#confused) as long as it is in the area and for 1 round after it leaves. If it succeeds on the saving throw, the creature is [staggered](../../rules/appendices/conditions.md#staggered) as long as it is in the area and for 1 round after it leaves.

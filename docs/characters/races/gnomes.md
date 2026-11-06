@@ -16,7 +16,7 @@ Gnomes trace their lineage back to the mysterious realm of the fey, a place wher
 
 **+2 Constitution, +2 Charisma, –2 Strength**: Gnomes are physically weak but surprisingly hardy, and their attitude makes them naturally agreeable.
 
-**Small**: Gnomes are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their Combat Maneuver Bonus and Combat Maneuver Defense, and a +4 size bonus on Stealth checks.
+**Small**: Gnomes are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their Combat Maneuver Bonus and Combat Maneuver Defense, and a +4 size bonus on [Stealth](../../rules/skills/stealth.md) checks.
 
 **Slow Speed**: Gnomes have a base speed of 20 feet.
 
@@ -30,9 +30,9 @@ Gnomes trace their lineage back to the mysterious realm of the fey, a place wher
 
 **Illusion Resistance**: Gnomes get a +2 racial saving throw bonus against illusion spells and effects.
 
-**Keen Senses**: Gnomes receive a +2 racial bonus on Perception skill checks.
+**Keen Senses**: Gnomes receive a +2 racial bonus on [Perception](../../rules/skills/perception.md) skill checks.
 
-**Obsessive**: Gnomes receive a +2 racial bonus on a Craft or Profession skill of their choice.
+**Obsessive**: Gnomes receive a +2 racial bonus on a [Craft](../../rules/skills/craft.md) or [Profession](../../rules/skills/profession.md) skill of their choice.
 
 **Weapon Familiarity**: Gnomes treat any weapon with the word “gnome” in its name as a martial weapon.
 
@@ -42,15 +42,15 @@ Gnomes trace their lineage back to the mysterious realm of the fey, a place wher
 
 The following racial traits might be selected instead of existing racial traits. Consult your GM before selecting any of these options.
 
-**Academician**: Some gnomes are more academically inclined than their kin. Gnomes with this racial trait gain a +2 bonus on any one Knowledge skill. This racial trait replaces the obsessive racial trait.
+**Academician**: Some gnomes are more academically inclined than their kin. Gnomes with this racial trait gain a +2 bonus on any one [Knowledge](../../rules/skills/knowledge.md) skill. This racial trait replaces the obsessive racial trait.
 
 **Eternal Hope**: Gnomes rarely lose hope and are always confident that even hopeless situations will work out. Gnomes with this racial trait receive a +2 racial bonus on saving throws against fear and despair effects. Once per day, after rolling a 1 on a d20, the gnome may reroll and use the second result. This racial trait replaces the defensive training and hatred racial traits.
 
-**Gift of Tongues**: Gnomes love languages and learning about those they meet. Gnomes with this racial trait gain a +1 bonus on Bluff and Diplomacy checks, and they learn one additional language every time they put a rank in the Linguistics skill. This racial trait replaces the defensive training and hatred racial traits.
+**Gift of Tongues**: Gnomes love languages and learning about those they meet. Gnomes with this racial trait gain a +1 bonus on [Bluff](../../rules/skills/bluff.md) and [Diplomacy](../../rules/skills/diplomacy.md) checks, and they learn one additional language every time they put a rank in the [Linguistics](../../rules/skills/linguistics.md) skill. This racial trait replaces the defensive training and hatred racial traits.
 
 **Magical Linguist**: Gnomes study languages in both their mundane and supernatural manifestations. Gnomes with this racial trait add +1 to the DC of spells they cast with the language-dependent descriptor or those that create glyphs, symbols, or other magical writings. They gain a +2 racial bonus on saving throws against such spells. Gnomes with a Charisma of 11 or higher also gain the following spell-like abilities: 1/day—arcane mark, comprehend languages, message, read magic. The caster level for these effects is equal to the gnome’s level. This racial trait replaces the gnome magic and illusion resistance racial traits.
 
-**Master Tinker**: Gnomes experiment with all manner of mechanical devices. Gnomes with this racial trait gain a +1 bonus on Disable Device and Knowledge (engineering) checks. They are treated as proficient with any weapon they have personally crafted. This racial trait replaces the defensive training and hatred racial traits.
+**Master Tinker**: Gnomes experiment with all manner of mechanical devices. Gnomes with this racial trait gain a +1 bonus on [Disable Device](../../rules/skills/disable-device.md) and Knowledge (engineering) checks. They are treated as proficient with any weapon they have personally crafted. This racial trait replaces the defensive training and hatred racial traits.
 
 **Pyromaniac**: Gnomes with this racial trait are treated as one level higher when casting spells with the fire descriptor, using granted powers of the Fire domain, using the bloodline powers of the fire elemental bloodline or the revelations of the oracle’s flame mystery, and when determining the damage of alchemist bombs that deal fire damage (this ability does not give gnomes early access to level-based powers, only affecting the powers they could use without this ability). Gnomes with Charisma of 11 or higher also gain the following spell-like abilities: 1/day—dancing lights, flare, prestidigitation, produce flame. The caster level for these effects is equal to the gnome’s level; the DCs are Charisma-based. This racial trait replaces the gnome magic and illusion resistance racial traits.
 
@@ -62,7 +62,7 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Darkvision**: Some gnome strains have lived in the underground depths for so long they have given up on light entirely and gained darkvision with a range of 60 feet. This racial trait replaces low-light vision and keen senses.
 
-**Explorer**: Many gnomes are obsessed with seeing as much of the world as possible, rather than perfecting some specific talent or vocation. These gnomes gain a +2 racial bonus on Climb checks and checks for one Knowledge skill of their choice. This racial trait replaces hatred and obsessive.
+**Explorer**: Many gnomes are obsessed with seeing as much of the world as possible, rather than perfecting some specific talent or vocation. These gnomes gain a +2 racial bonus on [Climb](../../rules/skills/climb.md) checks and checks for one Knowledge skill of their choice. This racial trait replaces hatred and obsessive.
 
 **Fell Magic**: Gnomes add +1 to the DC of any saving throws against necromancy spells that they cast. Gnomes with Wisdom scores of 11 or higher also gain the following spell-like abilities: 1/day—[*bleed*](../../magic/spells/bleed.md), [*chill touch*](../../magic/spells/chill-touch.md), [*detect poison*](../../magic/spells/detect-poison.md), and [*touch of fatigue*](../../magic/spells/touch-of-fatigue.md). The caster level for these effects is equal to the gnome’s level. The DC for these spells is equal to 10 + the spell’s level + the gnome’s Wisdom modifier. This racial trait replaces gnome magic.
 
@@ -94,7 +94,7 @@ These traits can be selected in place of specific racial traits, but their racia
 
 Gnomes are a wildly varied and independent race. The following alternate racial traits are common among less-usual gnome groups. Consult your GM before selecting any of these options.
 
-**Artistic**: Gnomes with this racial trait gain a +2 racial bonus on a Perform skill of their choice. This replaces obsessive.
+**Artistic**: Gnomes with this racial trait gain a +2 racial bonus on a [Perform](../../rules/skills/perform.md) skill of their choice. This replaces obsessive.
 
 **Bleachling Magic**: Gnomes who survive the Bleaching (a condition in which gnomes who fail to maintain their sense of wonder and excitement have the color and vitality drained from them) emerge as humorless, monochrome versions of their former selves, called bleachlings. Gnomes with this racial trait treat their caster level as 1 higher for the purposes of divination spells they cast. Additionally, if the gnome has a Wisdom or Charisma score of 11 or higher, she also gains the ability to cast [*charm animal*](../../magic/spells/charm-animal.md) as a spell-like ability three times per day. The caster level for this effect is equal to the gnome's level, and the DC for these spells is equal to 10 + the spell's level + the gnome's Charisma modifier. This replaces gnome magic.
 
@@ -104,7 +104,7 @@ Gnomes are a wildly varied and independent race. The following alternate racial 
 
 **Nature Affinity**: Gnomes with this racial trait gain a +2 racial bonus on Fortitude saves against diseases and poisons inflicted by fey, plants, and forest-related hazards. This replaces keen senses.
 
-**Sound Mimicry**: Gnomes with this racial trait are skilled at imitating sounds and voices. Doing so requires a Bluff check opposed by the listener's Sense Motive check, and the gnome gains a +4 racial bonus on Bluff checks to mimic sounds (including accents and speech patterns) she has listened to for at least 10 minutes. Listeners unfamiliar with a particular sound take a –4 penalty on the Sense Motive check. This replaces weapon familiarity.
+**Sound Mimicry**: Gnomes with this racial trait are skilled at imitating sounds and voices. Doing so requires a Bluff check opposed by the listener's [Sense Motive](../../rules/skills/sense-motive.md) check, and the gnome gains a +4 racial bonus on Bluff checks to mimic sounds (including accents and speech patterns) she has listened to for at least 10 minutes. Listeners unfamiliar with a particular sound take a –4 penalty on the Sense Motive check. This replaces weapon familiarity.
 
 ## Racial Subtypes
 
@@ -114,7 +114,7 @@ You can combine various alternate racial traits to create gnome subraces or vari
 
 **Gear Gnomes**: Sometimes rather than a single gnome becoming obsessed with a project, whole families of gnomes undertake a project so massive it requires generations of artisans to complete. Such projects often involve complex clockwork devices (or entire clockwork buildings), and those born into families dedicated to lifetimes of work on them are known as gear gnomes. Gear gnomes have the academician and master tinker alternate racial traits.
 
-**Lava Gnomes**: Fascinated by the power of magma and living in vast caverns beneath active volcanoes, lava gnomes are considered hot-tempered and dangerously unstable even by other gnomes. Lava gnomes have the darkvision and pyromaniac alternate racial traits.
+**Lava Gnomes**: [Fascinated](../../rules/appendices/conditions.md#fascinated) by the power of magma and living in vast caverns beneath active volcanoes, lava gnomes are considered hot-tempered and dangerously unstable even by other gnomes. Lava gnomes have the darkvision and pyromaniac alternate racial traits.
 
 **Traveler Gnomes**: These gnomes were born on the move, their families living on a ship or in a caravan wagon. These gnomes have the magical linguist and either the explorer or the gift of tongues alternate racial traits.
 
@@ -129,7 +129,7 @@ You can combine various alternate racial traits to create gnome subraces or vari
 
 Gnomes have access to the following equipment.
 
-**Dilettante’s Outfit**: These clothes are favored by gnome inventors and wanderers, and consist of sturdy boots, a pair of stout linen pants or skirt, a cloth shirt, leather gloves, a hat and cloak, and numerous belts, straps, and accessories (such as scarves, a vest, bits of rope or twine, and bandoleers). These items are generally mismatched, each having been selected as “superior” from some other set of clothing, and are rife with pockets and small hidey-holes. It the wearer a +2 circumstance bonus on Sleight of Hand checks made to conceal a small object on her body.
+**Dilettante’s Outfit**: These clothes are favored by gnome inventors and wanderers, and consist of sturdy boots, a pair of stout linen pants or skirt, a cloth shirt, leather gloves, a hat and cloak, and numerous belts, straps, and accessories (such as scarves, a vest, bits of rope or twine, and bandoleers). These items are generally mismatched, each having been selected as “superior” from some other set of clothing, and are rife with pockets and small hidey-holes. It the wearer a +2 circumstance bonus on [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks made to conceal a small object on her body.
 
 **Hound’s Blood**: If you apply the thick, red paste known as hound’s blood to your nostrils or upper lip, it greatly enhances your sense of smell. For most creatures, this grants a +2 circumstance bonus on Perception checks for 1 hour. For gnomes, it briefly grants a super-heightened sense of smell, granting the scent ability for 5 minutes, before the potency is reduced to a +2 circumstance bonus on Perception checks for an additional 1 hour.
 
@@ -209,7 +209,7 @@ Sometimes rather than a single gnome becoming obsessed with a project, whole fam
 
 ### Intrepid Settler
 
-Some gnomes add to the thrill of living by settling in precarious places such as the flotsam of distant waters or the treehouses of distant forests. These intrepid gnomes gain a +2 racial bonus on saving throws against fear effects and on Acrobatics, Climb, and Swim checks. This racial trait replaces illusion resistance, keen senses, and obsessive.
+Some gnomes add to the thrill of living by settling in precarious places such as the flotsam of distant waters or the treehouses of distant forests. These intrepid gnomes gain a +2 racial bonus on saving throws against fear effects and on [Acrobatics](../../rules/skills/acrobatics.md), Climb, and [Swim](../../rules/skills/swim.md) checks. This racial trait replaces illusion resistance, keen senses, and obsessive.
 
 ### Lava Gnomes
 
@@ -261,7 +261,7 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 **Investigator**: Add one extract formula from the investigator's list to his formula book. This formula must be at least 1 formula level below the highest level the investigator can create.
 
-**Kineticist**: Gain a +1/2 bonus on Bluff, Diplomacy, Intimidate, and Sense Motive skill checks against creatures with the elemental subtype matching the kineticist’s primary element.
+**Kineticist**: Gain a +1/2 bonus on Bluff, Diplomacy, [Intimidate](../../rules/skills/intimidate.md), and Sense Motive skill checks against creatures with the elemental subtype matching the kineticist’s primary element.
 
 **Magus**: Add one of the following weapon special abilities to the list of weapon special abilities the magus may add to his weapon using his arcane pool: *defending, ghost touch, merciful, mighty cleaving, vicious* (*Core Rulebook*); *allying, conductive, corrosive, corrosive burst, menacing* (*Advanced Player’s Guide*). Once an ability has been selected with this reward, it cannot be changed.
 
@@ -281,7 +281,7 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 **Ranger**: Add DR 1/magic to the ranger’s animal companion. Each time the ranger selects this benefit, the DR/magic increases by +1/2 (maximum DR 10/magic). If the gnome ever replaces his animal companion, the new companion gains this DR.
 
-**Rogue**: Gnome rogues gain a +1 bonus on Disable Device and Use Magic Device checks related to glyphs, symbols, scrolls, and other magical writings each time they gain a level of rogue.
+**Rogue**: Gnome rogues gain a +1 bonus on Disable Device and [Use Magic Device](../../rules/skills/use-magic-device.md) checks related to glyphs, symbols, scrolls, and other magical writings each time they gain a level of rogue.
 
 **Shaman**: The shaman gains 1/6 of a new shaman hex.
 

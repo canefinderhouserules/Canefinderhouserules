@@ -8,7 +8,7 @@ You can alter the way you apply a quivering palm’s vibrations to an opponent�
 
 **Benefit**: After successfully using your quivering palm attack on a creature, you can produce one of the following effects instead of killing the creature, as long as you do so within a number of days equal to your monk level.
 
-*Coma*: The subject falls unconscious and is helpless for a number of days equal to your monk level.
+*Coma*: The subject falls [unconscious](../appendices/conditions.md#unconscious) and is [helpless](../appendices/conditions.md#helpless) for a number of days equal to your monk level.
 
 *Memory Loss*: The subject falls unconscious for 24 hours and awakens with huge gaps in its memory. The target’s memories of the recent past (a number of consecutive days equal to your monk level) are completely obliterated, and can only be restored by a [*wish*](../../magic/spells/wish.md) or [*miracle*](../../magic/spells/miracle.md) spell.
 

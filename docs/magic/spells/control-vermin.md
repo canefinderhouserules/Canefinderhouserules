@@ -8,4 +8,4 @@
 **Duration** 1 hour/level  
 **Saving Throw** Will negates; **Spell Resistance** no
 
-You and a number of allies less than or equal to your caster level designated upon casting can use Handle Animal and Ride checks to influence or control the targeted vermin as if they were animals and had animal-level intelligence.
+You and a number of allies less than or equal to your caster level designated upon casting can use [Handle Animal](../../rules/skills/handle-animal.md) and [Ride](../../rules/skills/ride.md) checks to influence or control the targeted vermin as if they were animals and had animal-level intelligence.

@@ -10,4 +10,4 @@
 
 (object)
 
-The target firearm suddenly fires of its own volition, even if it is unloaded, generating a recoil so great that the wielder or carrier of the firearm must scramble to hold onto it and becomes flat-footed until the start of his next turn. If the wielder is already flat-footed, he is instead knocked prone. If the firearm was loaded, that ammunition is wasted.
+The target firearm suddenly fires of its own volition, even if it is unloaded, generating a recoil so great that the wielder or carrier of the firearm must scramble to hold onto it and becomes [flat-footed](../../rules/appendices/conditions.md#flat-footed) until the start of his next turn. If the wielder is already flat-footed, he is instead knocked [prone](../../rules/appendices/conditions.md#prone). If the firearm was loaded, that ammunition is wasted.

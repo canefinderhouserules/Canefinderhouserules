@@ -6,11 +6,11 @@ Class options from Ultimate Wilderness that are not archetypes: new discoveries,
 
 The following discoveries can be taken by any alchemist who meets the prerequisites. Discoveries marked with a dagger (†) modify bombs and do not stack.
 
-**Bitter Pill (Su)**: The alchemist becomes bitter in flavor. Any creature that hits the bitter alchemist with a bite attack gains the sickened condition for 1 round unless it succeeds at a Fortitude save (DC = 10 + half the alchemist’s level + the alchemist’s Constitution modifier). Any creature that swallows the alchemist whole gains the nauseated condition for 1 round unless it succeeds at a Fortitude save (same DC as above). If the alchemist is trapped in the creature’s gullet and it becomes nauseated, the creature vomits him back out immediately as a free action at the start of the creature’s turn; the alchemist lands prone adjacent to the creature.
+**Bitter Pill (Su)**: The alchemist becomes bitter in flavor. Any creature that hits the bitter alchemist with a bite attack gains the [sickened](../../rules/appendices/conditions.md#sickened) condition for 1 round unless it succeeds at a Fortitude save (DC = 10 + half the alchemist’s level + the alchemist’s Constitution modifier). Any creature that swallows the alchemist whole gains the [nauseated](../../rules/appendices/conditions.md#nauseated) condition for 1 round unless it succeeds at a Fortitude save (same DC as above). If the alchemist is trapped in the creature’s gullet and it becomes nauseated, the creature vomits him back out immediately as a free action at the start of the creature’s turn; the alchemist lands [prone](../../rules/appendices/conditions.md#prone) adjacent to the creature.
 
-**Grounding Goo† (Su)**: The alchemist’s bomb applies a sticky residue after any damage from the bomb is resolved. If a creature damaged by the bomb has a nonmagical fly speed, its flight is severely impaired, and it takes a penalty equal to the alchemist’s level on Fly checks for 1 minute.
+**Grounding Goo† (Su)**: The alchemist’s bomb applies a sticky residue after any damage from the bomb is resolved. If a creature damaged by the bomb has a nonmagical fly speed, its flight is severely impaired, and it takes a penalty equal to the alchemist’s level on [Fly](../../rules/skills/fly.md) checks for 1 minute.
 
-**Pheromones (Su)**: The alchemist exudes an imperceptible musk that grants him a permanent +3 competence bonus on Bluff, Diplomacy, and Intimidate checks.
+**Pheromones (Su)**: The alchemist exudes an imperceptible musk that grants him a permanent +3 competence bonus on [Bluff](../../rules/skills/bluff.md), [Diplomacy](../../rules/skills/diplomacy.md), and [Intimidate](../../rules/skills/intimidate.md) checks.
 
 **Solid Ground† (Su)**: The alchemist launches an explosive paste bomb that bonds with any earthen surface. Each application of this paste deals no damage and affects a 5-foot-cube of dirt, loose soil, or stone, transmuting the earth for a number of minutes equal to the alchemist’s level. Creatures cannot use burrow, earthmeld, or similar abilities (such as the meld into stone spell) while the ground remains transmuted in this way.
 
@@ -26,7 +26,7 @@ As ancestral warriors or admirers of primeval predators, barbarians channel thei
 
 **Bestial Flyer (Ex)**: While raging, the barbarian’s fly speed increases by 10 feet and her maneuverability improves by one category. A barbarian must have a fly speed before raging, have the raging flyer† power, and be at least 6th level to choose this rage power.
 
-**Contagious Rage (Su)**: The barbarian howls during combat, agitating nearby fauna. Willing animals and magical beasts within 30 feet of the barbarian gain the benefits of the rage spell for as long as she maintains her rage. After the [barbarian’s rage](barbarian.md#rage-ex) ends, creatures affected by her rage are fatigued for the same number of rounds as the barbarian. A barbarian must be at least 6th level to choose this rage power.
+**Contagious Rage (Su)**: The barbarian howls during combat, agitating nearby fauna. Willing animals and magical beasts within 30 feet of the barbarian gain the benefits of the rage spell for as long as she maintains her rage. After the [barbarian’s rage](barbarian.md#rage-ex) ends, creatures affected by her rage are [fatigued](../../rules/appendices/conditions.md#fatigued) for the same number of rounds as the barbarian. A barbarian must be at least 6th level to choose this rage power.
 
 **Dissipating Rage (Su)**: When the barbarian rages, her feverish frenzy and hot breath burn or blow fog, smoke and similar effects away from her. The barbarian and creatures adjacent to her do not gain concealment from obfuscating effects like fog or precipitation. Magical effects that require more than a strong wind to dissipate are not affected by this rage power.
 
@@ -66,7 +66,7 @@ Cavaliers of the order of the Green are dedicated to protecting wild places and 
 
 **Challenge**: An order of the Green cavalier can’t issue a challenge against any creature of the animal or plant type. Whenever he issues a challenge, he receives a +1 morale bonus on attack rolls against the target of his challenge. This bonus increases by 1 for every 4 levels the cavalier has. If the target of his challenge is of the aberration or undead type, each round he can roll his first attack roll against the target creature twice and take the higher result.
 
-**Skills**: An order of the Green cavalier gains Knowledge (nature) and Survival as class skills. In addition, whenever an order of the Green cavalier attempts a Survival check to track foes of the aberration or undead type, he receives a bonus on the check equal to half his cavalier level (minimum +1).
+**Skills**: An order of the Green cavalier gains [Knowledge](../../rules/skills/knowledge.md) (nature) and Survival as class skills. In addition, whenever an order of the Green cavalier attempts a [Survival](../../rules/skills/survival.md) check to track foes of the aberration or undead type, he receives a bonus on the check equal to half his cavalier level (minimum +1).
 
 **Order Abilities**: A cavalier belonging to the order of the Green gains the following abilities.
 
@@ -90,9 +90,9 @@ You are in touch with the most primal part of your subconscious. Your training a
 
 **Survival Instinct (Ex)**: Through sheer willpower, you can keep your body going longer than should be possible. You add your Wisdom bonus (minimum +1) to your Constitution score to determine the negative hit point total at which you die, and as a bonus on Constitution checks to become stable or regain consciousness.
 
-**Ferocity (Ex)**: At 5th level, you cling to life with increasing ferocity. You gain ferocity as per the universal monster rule. Whenever you have 0 hit points or negative hit points, you gain a +4 morale bonus to your Strength and Dexterity, as well as a +2 morale bonus on Fortitude saves. At 8th level, you are not staggered when you have 0 hit points or negative hit points, and you automatically stabilize when you have negative hit points.
+**Ferocity (Ex)**: At 5th level, you cling to life with increasing ferocity. You gain ferocity as per the universal monster rule. Whenever you have 0 hit points or negative hit points, you gain a +4 morale bonus to your Strength and Dexterity, as well as a +2 morale bonus on Fortitude saves. At 8th level, you are not [staggered](../../rules/appendices/conditions.md#staggered) when you have 0 hit points or negative hit points, and you automatically stabilize when you have negative hit points.
 
-**Primal Fury (Su)**: At 13th level, you can unleash a more primal version of yourself as a free action. This functions as transformation, with the following exceptions. You can use this ability for a number of rounds per day equal to your psychic level. These rounds do not need to be consecutive. You can end the effect as a free action. After using this ability, you are fatigued for a number of rounds equal to twice the number of rounds spent in primal fury. You cannot enter a new primal fury while fatigued or exhausted. If you fall unconscious, your primal fury immediately ends.
+**Primal Fury (Su)**: At 13th level, you can unleash a more primal version of yourself as a free action. This functions as transformation, with the following exceptions. You can use this ability for a number of rounds per day equal to your psychic level. These rounds do not need to be consecutive. You can end the effect as a free action. After using this ability, you are fatigued for a number of rounds equal to twice the number of rounds spent in primal fury. You cannot enter a new primal fury while fatigued or [exhausted](../../rules/appendices/conditions.md#exhausted). If you fall [unconscious](../../rules/appendices/conditions.md#unconscious), your primal fury immediately ends.
 
 ## Psychic Discipline: Symbiosis
 
@@ -124,9 +124,9 @@ The following slayer talents can be taken by any slayer who meets their prerequi
 
 **Sticks and Stones (Ex)**: The slayer gains [Catch Off-Guard](../../rules/feats/catch-off-guard.md) as a bonus feat.
 
-**Sunlight Strike (Ex)**: The slayer can reflect sunlight (or other sources of bright light) into the eyes of an adjacent target as a swift action, causing it to gain the dazzled condition for 1 round.
+**Sunlight Strike (Ex)**: The slayer can reflect sunlight (or other sources of bright light) into the eyes of an adjacent target as a swift action, causing it to gain the [dazzled](../../rules/appendices/conditions.md#dazzled) condition for 1 round.
 
-**Sure Footing (Ex)**: The slayer gains a +5 bonus on Acrobatics checks to move on narrow surfaces and loose or uneven ground.
+**Sure Footing (Ex)**: The slayer gains a +5 bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks to move on narrow surfaces and loose or uneven ground.
 
 **Toxin Training (Ex)**: The slayer builds resistance to certain poisons over time. Each time he chooses this talent, he chooses one ability score. He gains a +4 bonus on saving throws against poisons that deal damage to the chosen ability score. The slayer can choose this talent multiple times. Each time he does, he chooses a new ability score and gains the bonus on saves against poisons that target that ability. The slayer must be at least 4th level and have the poison use talent to select this talent.
 

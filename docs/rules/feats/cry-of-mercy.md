@@ -1,6 +1,6 @@
 # Cry of Mercy
 
-You invoke an ancestral boon to modify your fatal blows, and those of your allies, so that they render your foes merely unconscious.
+You invoke an ancestral boon to modify your fatal blows, and those of your allies, so that they render your foes merely [unconscious](../appendices/conditions.md#unconscious).
 
 **Prerequisites**: Wis 13.
 

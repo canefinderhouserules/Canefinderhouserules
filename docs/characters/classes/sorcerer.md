@@ -82,7 +82,7 @@ The following bloodlines represent only some of the possible sources of power th
 
 There is a taint in your blood, one that is alien and bizarre. You tend to think in odd ways, approaching problems from an angle that most would not expect. Over time, this taint manifests itselfin your physical form.
 
-**Class Skill**: Knowledge (dungeoneering).
+**Class Skill**: [Knowledge](../../rules/skills/knowledge.md) (dungeoneering).
 
 **Bonus Spells**: [*enlarge person*](../../magic/spells/enlarge-person.md) (3rd), [*see invisibility*](../../magic/spells/see-invisibility.md) (5th), [*tongues*](../../magic/spells/tongues.md) (7th), [*black tentacles*](../../magic/spells/black-tentacles.md) (9th), [*feeblemind*](../../magic/spells/feeblemind.md) (11th), [*veil*](../../magic/spells/veil.md) (13th), [*plane shift*](../../magic/spells/plane-shift.md) (15th), [*mind blank*](../../magic/spells/mind-blank.md) (17th), [*shapechange*](../../magic/spells/shapechange.md) (19th).
 
@@ -180,7 +180,7 @@ Your family has always been skilled in the eldritch art of magic. While many of 
 
 Your bloodline is blessed by a celestial power, either from a celestial ancestor or through divine intervention. Although this power drives you along the path of good, your fate (and alignment) is your own to determine.
 
-**Class Skill**: Heal.
+**Class Skill**: [Heal](../../rules/skills/heal.md).
 
 **Bonus Spells**: [*bless*](../../magic/spells/bless.md) (3rd), [*resist energy*](../../magic/spells/resist-energy.md) (5th), *magic circle* *against evil* (7th), [*remove curse*](../../magic/spells/remove-curse.md) (9th), [*flame strike*](../../magic/spells/flame-strike.md) (11th), *greater dispel magic* (13th), [*banishment*](../../magic/spells/banishment.md) (15th), [*sunburst*](../../magic/spells/sunburst.md) (17th), [*gate*](../../magic/spells/gate.md) (19th).
 
@@ -228,11 +228,11 @@ Your family is destined for greatness in some way. Your birth could have been fo
 
 At some point in your family’s history, a dragon interbred with your bloodline, and now its ancient power flows through your veins.
 
-**Class Skill**: Perception.
+**Class Skill**: [Perception](../../rules/skills/perception.md).
 
 **Bonus Spells**: [*mage armor*](../../magic/spells/mage-armor.md) (3rd), *resist energy* (5th), *fly* (7th), [*fear*](../../magic/spells/fear.md) (9th), [*spell resistance*](../../magic/spells/spell-resistance.md) (11th), *form of the dragon I* (13th), *form* *of the dragon II* (15th), *form of the dragon III* (17th), *wish* (19th).
 
-**Bonus Feats**: Blind-Fight, Great Fortitude, Improved Initiative, Power Attack, [Quicken Spell](../../rules/feats/quicken-spell.md), Skill Focus (Fly), Skill Focus (Knowledge [arcana]), Toughness.
+**Bonus Feats**: Blind-Fight, Great Fortitude, Improved Initiative, Power Attack, [Quicken Spell](../../rules/feats/quicken-spell.md), Skill Focus ([Fly](../../rules/skills/fly.md)), Skill Focus (Knowledge [arcana]), Toughness.
 
 **Bloodline Arcana**: Whenever you cast a spell with an energy descriptor that matches your draconic bloodline’s energy type, that spell gains a +1 enhancement bonus to damage per die rolled. In addition, the saving throw DC of such spells increases by 1.
 
@@ -271,7 +271,7 @@ This bonus follows the rules for [Damage-Per-Die Bonuses](damage-per-die-bonuses
 
 Your family has a connection with the ethereal substance known as ectoplasm, whether from communing with the spirits or battling the spiritual undead. The power of the Ethereal Plane thrums in your mind and pulls at your flesh.
 
-**Class Skill**: Stealth.
+**Class Skill**: [Stealth](../../rules/skills/stealth.md).
 
 **Bonus Spells**: Obscuring mist (3rd), ghost whip* (5th), ectoplasmic snare* (7th), spirit-bound blade* (9th), wall of ectoplasm* (11th), ethereal jaunt (13th), ectoplasmic eruption* (15th), create demiplane (17th), etherealness (19th).
 
@@ -328,7 +328,7 @@ The power of the elements resides in you, and at times you can hardly control it
 
 ## Fey
 
-The capricious nature of the fey runs in your family due to some intermingling of fey blood or magic. You are more emotional than most, prone to bouts of joy and rage.
+The capricious nature of the fey runs in your family due to some intermingling of fey blood or magic. You are more emotional than most, [prone](../../rules/appendices/conditions.md#prone) to bouts of joy and rage.
 
 **Class Skill**: Knowledge (nature).
 
@@ -354,7 +354,7 @@ The capricious nature of the fey runs in your family due to some intermingling o
 
 Somewhere in your family’s history, a relative made a deal with a devil, and that pact has influenced your family line ever since. In you, it manifests in direct and obvious ways, granting you powers and abilities. While your fate is still your own, you can’t help but wonder if your ultimate reward is bound to the Pit.
 
-**Class Skill**: Diplomacy.
+**Class Skill**: [Diplomacy](../../rules/skills/diplomacy.md).
 
 **Bonus Spells**: [*protection from good*](../../magic/spells/protection-from-good.md) (3rd), [*scorching ray*](../../magic/spells/scorching-ray.md) (5th), [*suggestion*](../../magic/spells/suggestion.md) (7th), [*charm monster*](../../magic/spells/charm-monster.md) (9th), [*dominate person*](../../magic/spells/dominate-person.md) (11th), [*planar binding*](../../magic/spells/planar-binding.md) (devils and creatures with the fiendish template only) (13th), *greater teleport* (15th), *power word stun* (17th), [*meteor swarm*](../../magic/spells/meteor-swarm.md) (19th).
 
@@ -364,7 +364,7 @@ Somewhere in your family’s history, a relative made a deal with a devil, and t
 
 **Bloodline Powers**: You can draw upon the power of Hell, although you must be wary of its corrupting influence. Such power does not come without a price.
 
-*Corrupting Touch* *(Sp)*: At 1st level, you can cause a creature to become shaken (see [Conditions](../../rules/appendices/conditions.md)) as a melee touch attack. This effect persists for a number of rounds equal to 1/2 your sorcerer level (minimum 1). Creatures shaken by this ability radiate an aura of evil, as if they were an evil outsider (see [*detect evil*](../../magic/spells/detect-evil.md)). Multiple touches do not stack, but they do add to the duration. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+*Corrupting Touch* *(Sp)*: At 1st level, you can cause a creature to become [shaken](../../rules/appendices/conditions.md#shaken) (see [Conditions](../../rules/appendices/conditions.md)) as a melee touch attack. This effect persists for a number of rounds equal to 1/2 your sorcerer level (minimum 1). Creatures shaken by this ability radiate an aura of evil, as if they were an evil outsider (see [*detect evil*](../../magic/spells/detect-evil.md)). Multiple touches do not stack, but they do add to the duration. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 *Infernal Resistances* *(Ex)*: At 3rd level, you gain resist fire 5 and a +2 bonus on saving throws made against poison. At 9th level, your resistance to fire increases to 10 and your bonus on poison saving throws increases to +4.
 
@@ -382,13 +382,13 @@ Possessed sorcerers channel their magic potential through a unique bond with a p
 
 **Bonus Spells**: Anticipate peril (3rd), share memory (5th), purge spirit (7th), entrap spirit (9th), possession (11th), telepathy (13th), insanity (15th), bilocation (17th), divide mind (19th).
 
-**Bonus Feats**: Combat Casting, Deceitful, [Fearsome Spell](../../rules/feats/fearsome-spell.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), Iron Will, Persuasive, [Selective Spell](../../rules/feats/selective-spell.md), Skill Focus (Bluff), Spell Focus, [Traumatic Spell](../../rules/feats/traumatic-spell.md).
+**Bonus Feats**: Combat Casting, Deceitful, [Fearsome Spell](../../rules/feats/fearsome-spell.md), [Improved Iron Will](../../rules/feats/improved-iron-will.md), Iron Will, Persuasive, [Selective Spell](../../rules/feats/selective-spell.md), Skill Focus ([Bluff](../../rules/skills/bluff.md)), Spell Focus, [Traumatic Spell](../../rules/feats/traumatic-spell.md).
 
 **Bloodline Arcana**: Whenever you cast a non-cantrip spell, you can roll the next Will save you attempt against a mind-affecting effect before your next turn twice and take the better result. If you have already failed a save against a mind-affecting effect, you can instead attempt another Will save against that ongoing mind-affecting effect after successfully casting your spell. You can use this ability only once against a given mind-affecting effect. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 **Bloodline Powers**: The mystical connection with your possessing spirit allows you to gain more control over your body and mind.
 
-**Aggressive Possession (Sp)**: At 1st level, you can make a melee touch attack as a standard action. The target must succeed at a Will save or be confused for 1 round. The save DC is equal to 10 + 1/2 your sorcerer level + your Charisma modifier. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+**Aggressive Possession (Sp)**: At 1st level, you can make a melee touch attack as a standard action. The target must succeed at a Will save or be [confused](../../rules/appendices/conditions.md#confused) for 1 round. The save DC is equal to 10 + 1/2 your sorcerer level + your Charisma modifier. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 **Sight Unseen (Sp)**: At 3rd level, you gain darkvision with a range of up to 30 feet. If you already have darkvision, its range instead increases by 30 feet. At 9th level, you gain lifesense with a range of 30 feet (lifesense allows you to sense and locate living creatures as if you had the blindsight ability).
 
@@ -402,7 +402,7 @@ Possessed sorcerers channel their magic potential through a unique bond with a p
 
 Psychic power runs thorough your blood, whether it be from a familial predisposition to psychic power or exposure to a powerful psychic phenomenon. Whatever the source of this power, your mind is a dangerous weapon.
 
-**Class Skill**: Sense Motive.
+**Class Skill**: [Sense Motive](../../rules/skills/sense-motive.md).
 
 **Bonus Spells**: Mind thrust I* (3rd), id insinuation I* (5th), ego whip I* (7th), intellect fortress I* (9th), psychic crush I* (11th), mental barrier V* (13th), tower of iron will III* (15th), bilocation* (17th), microcosm* (19th).
 
@@ -436,7 +436,7 @@ The taint of the grave runs through your family. Perhaps one of your ancestors b
 
 **Bloodline Powers**: You can call upon the foul powers of the afterlife. Unfortunately, the more you draw upon them, the closer you come to joining them.
 
-*Grave Touch (Sp)*: Starting at 1st level, you can make a melee touch attack as a standard action that causes a living creature to become shaken for a number of rounds equal to 1/2 your sorcerer level (minimum 1). If you touch a shaken creature with this ability, it becomes frightened (see [Conditions](../../rules/appendices/conditions.md)) for 1 round if it has fewer Hit Dice than your sorcerer level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+*Grave Touch (Sp)*: Starting at 1st level, you can make a melee touch attack as a standard action that causes a living creature to become shaken for a number of rounds equal to 1/2 your sorcerer level (minimum 1). If you touch a shaken creature with this ability, it becomes [frightened](../../rules/appendices/conditions.md#frightened) (see [Conditions](../../rules/appendices/conditions.md)) for 1 round if it has fewer Hit Dice than your sorcerer level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 *Death’s Gift* *(Su)*: At 3rd level, you gain resist cold 5 and DR 5/— against nonlethal damage. At 9th level, your resistance to cold increases to 10 and your DR increases to 10/— against nonlethal damage.
 
@@ -460,7 +460,7 @@ Your connection to the hungering undead shapes your magic. Sorcerers whose ances
 
 **Bloodline Powers**: The dark energies that fuel your existence and undying hunger form the basis of your power.
 
-*Ghoulish Claws (Su)*: Starting at 1st level, you can grow claws as a free action. These claws are treated as natural weapons, allowing you to make two claw attacks as a full attack using your full base attack bonus. Each of these attacks deals 1d4 points of damage + your Strength modifier (1d3 if you are Small). At 5th level, creatures damaged by your claw attack are paralyzed for 1 round, as the ghoul ability (Fortitude negates). At 7th level, the duration of the paralysis increases to 1d4+1 rounds, and the claws are considered magic weapons for the purpose of overcoming DR. You can use your claws for a number of rounds per day equal to 3 + your Charisma modifier. These rounds do not need to be consecutive. If you're a ghoul with this bloodline, instead of gaining this ability, your levels in sorcerer stack with your racial Hit Dice when determining the DC of your paralysis and disease special abilities.
+*Ghoulish Claws (Su)*: Starting at 1st level, you can grow claws as a free action. These claws are treated as natural weapons, allowing you to make two claw attacks as a full attack using your full base attack bonus. Each of these attacks deals 1d4 points of damage + your Strength modifier (1d3 if you are Small). At 5th level, creatures damaged by your claw attack are [paralyzed](../../rules/appendices/conditions.md#paralyzed) for 1 round, as the ghoul ability (Fortitude negates). At 7th level, the duration of the paralysis increases to 1d4+1 rounds, and the claws are considered magic weapons for the purpose of overcoming DR. You can use your claws for a number of rounds per day equal to 3 + your Charisma modifier. These rounds do not need to be consecutive. If you're a ghoul with this bloodline, instead of gaining this ability, your levels in sorcerer stack with your racial Hit Dice when determining the DC of your paralysis and disease special abilities.
 
 *Leathery Skin (Ex)*: At 3rd level, you gain cold resistance 5 and a +1 natural armor bonus to AC. At 9th level, your cold resistance increases to 10 and your natural armor bonus increases to +2. At 15th level, your natural armor bonus increases to +4.
 
@@ -468,7 +468,7 @@ Your connection to the hungering undead shapes your magic. Sorcerers whose ances
 
 *Earth Crawler (Su)*: At 15th level, you gain a burrow speed of 30 feet. Additionally, as long as you are surrounded by at least 5 feet of dirt or natural stone on all sides, you gain fast healing 10. You can heal a number of hit points per day equal to 10 × your sorcerer level with this ability.
 
-*Ghoulish Aspect (Su)*: At 20th level, you take on aspects of the nature and appearance of ghouls. You no longer need to eat and are immune to hunger (though you are still able to consume flesh if you choose to). You also gain immunity to cold, nonlethal damage, paralysis, and sleep, and DR 5/—. Additionally, you gain the stench ability with a radius of 10 feet. Creatures that fail their Fortitude saving throws are sickened for 1d6+4 minutes. Use half your sorcerer level instead of half your racial Hit Dice to determine the saving throw DC.
+*Ghoulish Aspect (Su)*: At 20th level, you take on aspects of the nature and appearance of ghouls. You no longer need to eat and are immune to hunger (though you are still able to consume flesh if you choose to). You also gain immunity to cold, nonlethal damage, paralysis, and sleep, and DR 5/—. Additionally, you gain the stench ability with a radius of 10 feet. Creatures that fail their Fortitude saving throws are [sickened](../../rules/appendices/conditions.md#sickened) for 1d6+4 minutes. Use half your sorcerer level instead of half your racial Hit Dice to determine the saving throw DC.
 
 ## Unicorn
 
@@ -540,7 +540,7 @@ Just as knowledge of the fate deck has passed from generation to generation sinc
 
 *Deck Realm (Sp)*: At 15th level, your otherworldly connection is so strong that your subconscious cleaves off a small portion of the realm of the cards for use as your own private sanctuary. Your deck realm is created the first time you use this ability, and is decorated as a garish reflection of your personality. Thereafter, you always visit this same home. You can place a portal to your deck realm once every 24 hours, but placing a new portal destroys the previous one, and you cannot move the entrance while you are inside. As long as you are not in your deck realm, time ceases to pass for anything and anyone still in your pocket dimension; creatures cannot move, objects do not decay, and everything remains exactly the same as you left it the last time you visited the plane. Time continues as normal whenever you are inside your deck realm. This ability is otherwise identical to [*mage's magnificent mansion*](../../magic/spells/mages-magnificent-mansion.md).
 
-*Kin to the Old Tales (Su)*: At 20th level, your soul becomes host to the otherworldly energies of the cards. You gain DR 10/cold iron and immunity to curses, paralysis, and sleep. You can always act in the surprise round of combat, and you cannot be caught flat-footed. You gain unlimited use of your invoke the deck ability.
+*Kin to the Old Tales (Su)*: At 20th level, your soul becomes host to the otherworldly energies of the cards. You gain DR 10/cold iron and immunity to curses, paralysis, and sleep. You can always act in the surprise round of combat, and you cannot be caught [flat-footed](../../rules/appendices/conditions.md#flat-footed). You gain unlimited use of your invoke the deck ability.
 
 ## Favored Class Bonuses
 

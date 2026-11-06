@@ -53,7 +53,7 @@ The following are class features of the consortium agent prestige class.
 
 **Agency Secrets**: At 2nd level and every 2 levels thereafter, a consortium agent gains one of the following agency secrets. A consortium agent can’t select an individual agency secret more than once (unless otherwise stated in the secret’s text).
 
-*Bluster (Ex)*: The agent takes no penalty on Intimidate checks against larger creatures, and larger creatures gain no bonus on Intimidate checks against her.
+*Bluster (Ex)*: The agent takes no penalty on [Intimidate](../../rules/skills/intimidate.md) checks against larger creatures, and larger creatures gain no bonus on Intimidate checks against her.
 
 *Bonus Feat*: The agent can choose one of the following as a bonus feat: [Advanced Ranger Trap](../../rules/feats/advanced-ranger-trap.md), Antagonize, [Combat Expertise](../../rules/feats/combat-expertise.md), Enforcer, [Greater Dirty Trick](../../rules/feats/greater-dirty-trick.md), [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md), [Improved Whip Mastery](../../rules/feats/improved-whip-mastery.md), [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), [Learn Ranger Trap](../../rules/feats/learn-ranger-trap.md), Skill Focus (Intimidate), or [Whip Mastery](../../rules/feats/whip-mastery.md). She must meet the prerequisites of the selected bonus feat. A consortium agent can select this agency secret twice.
 
@@ -61,7 +61,7 @@ The following are class features of the consortium agent prestige class.
 
 *Exotic Performance*: The agent with the bardic performance or the versatile performance class feature increases her effective bard level by 1 for all effects related to performances, including learning new types of performances and increasing the effects of her performances.
 
-*Hidden Stash (Ex/Sp)*: The agent gains a bonus equal to her class level on Sleight of Hand checks to hide small objects on her person. In addition, once per day she can hide the magical properties of one item as per [*magic aura*](../../magic/spells/magic-aura.md).
+*Hidden Stash (Ex/Sp)*: The agent gains a bonus equal to her class level on [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks to hide small objects on her person. In addition, once per day she can hide the magical properties of one item as per [*magic aura*](../../magic/spells/magic-aura.md).
 
 *Master Caster*: The agent who can cast spells as a bard, inquisitor, or mesmerist increases her caster level for that class by 1. She does not gain other benefits of that class other than spells per day, spells known, and an increased caster level. If the agent has levels in more than one of these classes, she must choose which class to apply this increase to when she takes this agency secret. A consortium agent can select this agency secret twice.
 
@@ -73,15 +73,15 @@ The following are class features of the consortium agent prestige class.
 
 **Mask Alignment (Su)**: At 2nd level, as a standard action, a consortium agent can alter her alignment aura to deceive effects that detect alignment. She can emulate a different aura of her choice or to radiate no alignment aura. This affects only alignment detection, not effects that cause harm or are otherwise based on alignment. This effect lasts until she dismisses it or changes her alignment aura again.
 
-At 6th level, a consortium agent targeted with an effect that detects alignment or with any alignment-based effect can automatically identify the effect by attempting a Spellcraft check. If successful, she can mask her alignment as an immediate action.
+At 6th level, a consortium agent targeted with an effect that detects alignment or with any alignment-based effect can automatically identify the effect by attempting a [Spellcraft](../../rules/skills/spellcraft.md) check. If successful, she can mask her alignment as an immediate action.
 
 At 10th level, when a consortium agent assumes a false alignment aura, she is treated as having that alignment for all effects of magic items, spells, and spell-like or supernatural effects (such as [*forbiddance*](../../magic/spells/forbiddance.md), [*sympathy*](../../magic/spells/sympathy.md), or an unholy weapon), including magical traps based on alignment. While masking her alignment, she ignores these types of effects that relate to her true alignment.
 
-**Ambush Trap (Ex)**: At 3rd level, a consortium agent can specially rig a mechanical trap she has either crafted or bypassed by exceeding its Disable Device DC by 10. A trap so rigged can be triggered by the agent as a move action as long as she is adjacent to the trap. She adds her trap sense bonus to the trap’s Perception DC and to the trap’s attack rolls, and adds her sneak attack damage to the damage the trap deals to affected creatures that are flat-footed or otherwise denied their Dexterity bonus to AC.
+**Ambush Trap (Ex)**: At 3rd level, a consortium agent can specially rig a mechanical trap she has either crafted or bypassed by exceeding its [Disable Device](../../rules/skills/disable-device.md) DC by 10. A trap so rigged can be triggered by the agent as a move action as long as she is adjacent to the trap. She adds her trap sense bonus to the trap’s [Perception](../../rules/skills/perception.md) DC and to the trap’s attack rolls, and adds her sneak attack damage to the damage the trap deals to affected creatures that are [flat-footed](../../rules/appendices/conditions.md#flat-footed) or otherwise denied their Dexterity bonus to AC.
 
 **Sneak Attack (Ex)**: At 3rd level, a consortium agent gains sneak attack as per the rogue ability. Initially, the extra damage dealt is 1d6, and it increases by 1d6 at 6th level and at 9th level. If she gains a sneak attack bonus from another source, the bonuses on damage stack.
 
-**Crucial Taunt (Ex)**: At 5th level, a consortium agent can combine smugness and mockery with Bluff checks to feint, Intimidate checks to demoralize, and dirty trick combat maneuver checks, gaining a bonus equal to half her class level on these checks. She can then delay the effect of the successful check for up to 1 day per class level, spending an immediate action to trigger it later. She must be within 60 feet of her target to use or trigger a crucial taunt. This is a language-dependent effect.
+**Crucial Taunt (Ex)**: At 5th level, a consortium agent can combine smugness and mockery with [Bluff](../../rules/skills/bluff.md) checks to feint, Intimidate checks to demoralize, and dirty trick combat maneuver checks, gaining a bonus equal to half her class level on these checks. She can then delay the effect of the successful check for up to 1 day per class level, spending an immediate action to trigger it later. She must be within 60 feet of her target to use or trigger a crucial taunt. This is a language-dependent effect.
 
 **Improved Trap Sense (Ex)**: At 7th level, a consortium agent’s trap sense bonus applies to saving throws to avoid trap effects.
 

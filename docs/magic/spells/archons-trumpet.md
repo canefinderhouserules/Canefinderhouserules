@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-Upon hearing a booming report, as if from a trumpet archon’s mighty horn, all creatures in the area of the burst are paralyzed for 1d4 rounds.
+Upon hearing a booming report, as if from a trumpet archon’s mighty horn, all creatures in the area of the burst are [paralyzed](../../rules/appendices/conditions.md#paralyzed) for 1d4 rounds.

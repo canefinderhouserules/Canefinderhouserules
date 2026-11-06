@@ -118,13 +118,13 @@ While most shifters are trained in druidic traditions that allow them to tap int
 
 **Fluidic Body (Su)**: An oozemorph’s base form is not that of her race but rather that of a protoplasmic blob that has the same volume and weight. An oozemorph treats her creature type as both ooze and her base creature type from her race for the purposes of effects targeting creatures by type (such as bane weapons and a [ranger’s favored enemy](ranger.md#favored-enemy-ex)). In this form, the oozemorph is immune to critical hits and precision damage and can’t be flanked. However, she has no magic item slots and she cannot benefit from armor; cast spells; hold objects; speak; or use any magic item that requires activation, is held, or is worn on the body.
 
-An oozemorph reverts to this formless state whenever she is unconscious or in an area of antimagic. This is treated as a polymorph effect.
+An oozemorph reverts to this formless state whenever she is [unconscious](../../rules/appendices/conditions.md#unconscious) or in an area of antimagic. This is treated as a polymorph effect.
 
 A number of times per day equal to half her level (minimum 1), an oozemorph can assume a humanoid form as a move action. This transformation is identical to alter self, except the oozemorph can maintain the form for a number of hours equal to her level. Each hour after this duration, the oozemorph must succeed at a DC 15 Fortitude save or revert back to her fluidic body until she rests for at least 8 hours. This save DC increases by 1 for each additional hour spent maintaining the form.
 
 At 8th level, the oozemorph can treat this ability as beast shape I, and at 15th level, she can treat this ability as beast shape II or giant shape I.
 
-Ending this transformation at any time reverts the oozemorph back to her ooze form and renders her fatigued for a number of minutes equal to the number of hours she maintained the form. This replaces chimeric form, greater chimeric form, [wild shape](shifter-ultimate-wilderness.md#wild-shape-su), [shifter aspect](shifter-ultimate-wilderness.md#shifter-aspect-su), and all improvements of shifter aspect.
+Ending this transformation at any time reverts the oozemorph back to her ooze form and renders her [fatigued](../../rules/appendices/conditions.md#fatigued) for a number of minutes equal to the number of hours she maintained the form. This replaces chimeric form, greater chimeric form, [wild shape](shifter-ultimate-wilderness.md#wild-shape-su), [shifter aspect](shifter-ultimate-wilderness.md#shifter-aspect-su), and all improvements of shifter aspect.
 
 **Morphic Weaponry (Ex)**: An oozemorph can create a number of natural weapons to fight with from any portion of her body, regardless of her current form. At 1st level, as a move action, an oozemorph can form two primary natural attacks that each deal 1d6 points of bludgeoning, piercing, or slashing damage, chosen by the oozemorph when she forms them. An oozemorph can change the damage type of any number of her natural weapons as a swift action. An oozemorph gains one additional primary natural attack at 6th level and another at 15th level.
 
@@ -146,7 +146,7 @@ Not all shifters represent the balance of nature. The rageshaper is a destructiv
 
 Armor or clothing the rageshaper wears that doesn’t accommodate his changing size immediately gains the broken condition. If insufficient room is available to accommodate this change, the rageshaper attains the maximum possible size for the available space and can attempt a Strength check (using his increased Strength) to burst any enclosures in the process. If the check fails, he is constrained but not harmed by the materials enclosing him. A rageshaper can remain in his devastating form for a number of rounds per day equal to his shifter level. He can dismiss devastating form only with a successful Will save (DC = 10 + his shifter level) made as a free action. On a failed save, the attempted remains in devastating form for an additional round. If the rageshaper does not successfully end his devastating form before he runs out of daily rounds, the next time he fails his Will save to revert, he flies into an uncontrollable frenzy as if affected by confusion, but he treats a roll of 26–50 as “attacks nearest creature.” Each round the rageshaper spends in an uncontrollable frenzy, the Will save DC to exit devastating form decreases by 2.
 
-When a rageshaper ends his devastating form ability, he is fatigued for a number of rounds equal to twice the number of rounds he spent in devastating form. A rageshaper cannot enter devastating form again while fatigued or exhausted. If a rageshaper falls unconscious, his devastating form ends immediately.
+When a rageshaper ends his devastating form ability, he is fatigued for a number of rounds equal to twice the number of rounds he spent in devastating form. A rageshaper cannot enter devastating form again while fatigued or [exhausted](../../rules/appendices/conditions.md#exhausted). If a rageshaper falls unconscious, his devastating form ends immediately.
 
 At 10th level, the rageshaper can grow up to a maximum of two size categories larger with devastating form and his rage is now treated as greater rage.
 
@@ -156,9 +156,9 @@ At 20th level, the rageshaper can grow up to a maximum of three size categories 
 
 **Invulnerable Defenses (Ex)**: At 2nd level, a rageshaper becomes difficult to harm in his devastating form. Whenever the rageshaper takes on his devastating form and is unencumbered and either wearing no armor or wearing light or medium nonmetal armor, he gains a +2 natural armor bonus to his AC and DR 2/—. This replaces [defensive instinct](shifter-ultimate-wilderness.md#defensive-instinct-ex), [chimeric aspect](shifter-ultimate-wilderness.md#chimeric-aspect-su), and [greater chimeric aspect](shifter-ultimate-wilderness.md#greater-chimeric-aspect-su).
 
-**Unrestrained Stride (Ex)**: At 3rd level, whenever the rageshaper is in devastating form, he ignores movement penalties from difficult terrain and is immune to the entangled condition. This replaces [woodland stride](shifter-ultimate-wilderness.md#woodland-stride-ex).
+**Unrestrained Stride (Ex)**: At 3rd level, whenever the rageshaper is in devastating form, he ignores movement penalties from difficult terrain and is immune to the [entangled](../../rules/appendices/conditions.md#entangled) condition. This replaces [woodland stride](shifter-ultimate-wilderness.md#woodland-stride-ex).
 
-**Terrible Leap (Ex)**: At 5th level, when a rageshaper is in his devastating form, he can perform a terrible leap as a move action without attempting an Acrobatics check, jumping any distance up to his move speed (upward movement counts as double, as when flying). He can leap in this way once per day per shifter level. This replaces [trackless step](shifter-ultimate-wilderness.md#trackless-step-ex).
+**Terrible Leap (Ex)**: At 5th level, when a rageshaper is in his devastating form, he can perform a terrible leap as a move action without attempting an [Acrobatics](../../rules/skills/acrobatics.md) check, jumping any distance up to his move speed (upward movement counts as double, as when flying). He can leap in this way once per day per shifter level. This replaces [trackless step](shifter-ultimate-wilderness.md#trackless-step-ex).
 
 ## Verdant Shifter
 
@@ -202,13 +202,13 @@ At 5th level, a weretouched gains DR/silver equal to half her shifter level, to 
 
 **Style Aspects**: A style shifter has access to the following style aspects.
 
-**Form of the Boar**: Once per round when you hit a single foe with two or more unarmed strikes, you can tear flesh. When you do, you deal an additional 1 point of bleed damage with the attack. At 8th level, when you tear flesh, the target becomes sickened for 1 round. At 15th level, whenever you confirm a critical hit, you can attempt an Intimidate check to demoralize a target within 30 feet as an immediate action.
+**Form of the Boar**: Once per round when you hit a single foe with two or more unarmed strikes, you can tear flesh. When you do, you deal an additional 1 point of bleed damage with the attack. At 8th level, when you tear flesh, the target becomes [sickened](../../rules/appendices/conditions.md#sickened) for 1 round. At 15th level, whenever you confirm a critical hit, you can attempt an [Intimidate](../../rules/skills/intimidate.md) check to demoralize a target within 30 feet as an immediate action.
 
 **Form of the Crane**: You reduce the penalty on attack rolls for fighting defensively by 1, to a minimum penalty of 0. At 8th level, when an attack misses you, you can move 5 feet as an immediate action without provoking attacks of opportunity. At 15th level, when an attack misses you, you can move up to half your speed as an immediate action without provoking attacks of opportunity.
 
-**Form of the Dragon**: You gain a +1 dodge bonus to your AC for each ally you charge through when charging, up to a total equal to your Dexterity modifier (minimum +0). At 8th level, your unarmed strike's damage die increases by one step against shaken targets. At 15th level, whenever you confirm a critical hit against a shaken target, the target becomes frightened for 1 round.
+**Form of the Dragon**: You gain a +1 dodge bonus to your AC for each ally you charge through when charging, up to a total equal to your Dexterity modifier (minimum +0). At 8th level, your unarmed strike's damage die increases by one step against [shaken](../../rules/appendices/conditions.md#shaken) targets. At 15th level, whenever you confirm a critical hit against a shaken target, the target becomes [frightened](../../rules/appendices/conditions.md#frightened) for 1 round.
 
-**Form of the Monkey**: You gain a bonus on damage rolls while prone equal to your Wisdom modifier (minimum +0). You can crawl up to half your speed as a move action. At 8th level, whenever a creature provokes an attack of opportunity from you, that creature is considered flat-footed against your attack. At 15th level, whenever you take a 5-foot step, you are treated as if you were still in your original space for the purposes of flanking others until the start of your next turn (though you can't use this aspect to provide flanking for yourself), and you can crawl up to your full speed as a move action.
+**Form of the Monkey**: You gain a bonus on damage rolls while [prone](../../rules/appendices/conditions.md#prone) equal to your Wisdom modifier (minimum +0). You can crawl up to half your speed as a move action. At 8th level, whenever a creature provokes an attack of opportunity from you, that creature is considered [flat-footed](../../rules/appendices/conditions.md#flat-footed) against your attack. At 15th level, whenever you take a 5-foot step, you are treated as if you were still in your original space for the purposes of flanking others until the start of your next turn (though you can't use this aspect to provide flanking for yourself), and you can crawl up to your full speed as a move action.
 
 **Form of the Panther**: You gain a bonus to damage rolls for retaliatory unarmed strikes made with Panther Style equal to your Wisdom modifier (minimum +0). At 8th level, this bonus increases to twice your Wisdom modifier. At 15th level, if a creature misses an attack of opportunity against you prompted by your movement through a threatened square, you can make a retaliatory unarmed strike against that creature, even if you would not normally be able to make any more retaliatory strikes this turn.
 
@@ -259,7 +259,7 @@ At 5th level, the energy resistance granted by the dragonblood shifter's draconi
 
 *Shifter archetype.* Feyform shifters are intimately linked to the realm of the fey, and can draw from it to gain otherworldly powers.
 
-**Fey Aspect (Su)**: A feyform shifter can take on a fey aspect and assume fey traits as a swift action. While in this form, she gains low-light vision (or darkvision with a range of 30 feet, if she already has low-light vision) and DR 1/cold iron. Her body outline becomes indistinct; she is treated as though she has concealment, except that she cannot use this concealment to attempt Stealth checks. She can maintain this form for a number of minutes per day equal to 3 + her shifter level. The duration does not need to be consecutive, but it must be spent in 1-minute increments.
+**Fey Aspect (Su)**: A feyform shifter can take on a fey aspect and assume fey traits as a swift action. While in this form, she gains low-light vision (or darkvision with a range of 30 feet, if she already has low-light vision) and DR 1/cold iron. Her body outline becomes indistinct; she is treated as though she has concealment, except that she cannot use this concealment to attempt [Stealth](../../rules/skills/stealth.md) checks. She can maintain this form for a number of minutes per day equal to 3 + her shifter level. The duration does not need to be consecutive, but it must be spent in 1-minute increments.
 
 At 5th level, the feyform shifter's DR increases to 2/cold iron, and she grows a pair of butterfly-like wings that grant her a fly speed of 30 feet with average maneuverability. At 10th level, the feyform shifter's DR increases to 5/cold iron, and she gains a +4 bonus on saving throws against enchantment spells and effects. At 15th level, the feyform shifter's DR increases to 7/cold iron, and her fly speed maneuverability increases to good. At 20th level, the feyform shifter's DR increases to 10/cold iron. She becomes resistant to movement-impairing effects (as [*freedom of movement*](../../magic/spells/freedom-of-movement.md)) and gains spell resistance equal to 10 + her level. This alters and replaces all improvements to shifter aspect.
 
@@ -293,7 +293,7 @@ This replaces [chimeric aspect](shifter-ultimate-wilderness.md#chimeric-aspect-s
 
 **Greater Swarm Flow (Su)**: At 14th level, when using her vermin aspect ability, a swarm shifter also gains a greater swarm ability from the list below. She can select a different ability each time she uses her vermin aspect ability.
 
-*Crawling*: The swarm shifter gains tremorsense with a range of 60 feet and a +4 bonus on Perception checks.
+*Crawling*: The swarm shifter gains tremorsense with a range of 60 feet and a +4 bonus on [Perception](../../rules/skills/perception.md) checks.
 
 *Flying*: The swarm shifter's claws change to venomous stingers that deliver poison on each attack. (Poison: injury; *save* Fort DC = 10 + half the swarm shifter's level + her Constitution modifier; *frequency* 1/round for 6 rounds; *effect* 1d3 Dexterity damage; *cure* 2 consecutive saves.)
 
@@ -335,7 +335,7 @@ At 9th level, an adaptive shifter gains the benefits of up to two reactive forms
 
 - *Durable Form*: The adaptive shifter gains DR 5/adamantine. This damage reduction increases by 1 for every 2 levels she has beyond 8th. She must be at least 8th level to select this form.
 
-- *Evasive Form* (lasting): The adaptive shifter gains compression, a +4 dodge bonus to her CMD against grapple combat maneuvers, and a competence bonus equal to her Wisdom modifier on Escape Artist checks.
+- *Evasive Form* (lasting): The adaptive shifter gains compression, a +4 dodge bonus to her CMD against grapple combat maneuvers, and a competence bonus equal to her Wisdom modifier on [Escape Artist](../../rules/skills/escape-artist.md) checks.
 
 - *Giant Form* (lasting): The adaptive shifter increases in size, as per *enlarge person*. The adaptive shifter can assume this form only as a swift action.
 

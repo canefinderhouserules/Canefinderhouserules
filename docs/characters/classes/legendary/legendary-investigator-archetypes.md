@@ -48,7 +48,7 @@ Some investigators use their wits and knowledge to aid them in their work. Other
 
 **Unassuming (Ex)**
 
-At 1st level, an infiltrator is a master of deception and stealth, they may no longer use inspiration on all Intelligence based skills. Instead, they may use inspiration on skills whose ability score is changed to Intelligence in courses of study, like the Heal skill for medicine, and the following skills: Disguise, Escape Artist, Knowledge (local), Sleight of Hand, and Stealth assuming they have skill ranks in those skills.
+At 1st level, an infiltrator is a master of deception and stealth, they may no longer use inspiration on all Intelligence based skills. Instead, they may use inspiration on skills whose ability score is changed to Intelligence in courses of study, like the [Heal](../../../rules/skills/heal.md) skill for medicine, and the following skills: [Disguise](../../../rules/skills/disguise.md), [Escape Artist](../../../rules/skills/escape-artist.md), [Knowledge](../../../rules/skills/knowledge.md) (local), [Sleight of Hand](../../../rules/skills/sleight-of-hand.md), and Stealth assuming they have skill ranks in those skills.
 
 This ability modifies inspiration.
 
@@ -64,7 +64,7 @@ At 3rd level, the legendary investigator begins their studied strike at +1d6 and
 
 **Glazed Eye (Su)**
 
-At 3rd level, the infiltrator is difficult to pay attention to. When someone sees them, their attention seems to drift elsewhere. A creature who would become aware of an infiltrator’s presence when the infiltrator is within 10 feet per legendary investigator level must succeed at a Perception check against a DC equal to 10 + the infiltrator’s legendary investigator level + their Intelligence modifier or the creature ignores the infiltrator as though it had not become aware of their presence. The infiltrator can spend a use of inspiration to raise the DC by their inspiration die. The affected creature continues to ignore the infiltrator until they attack or do an otherwise offensive action, moves out of range, directly interacts with the creature, interacts with another creature or object in a way the affected creature notices, or otherwise specifically draws attention to themself. If the infiltrator does none of these things, the affected creature can attempt another Perception check at the same DC for each minute the infiltrator remains in range.
+At 3rd level, the infiltrator is difficult to pay attention to. When someone sees them, their attention seems to drift elsewhere. A creature who would become aware of an infiltrator’s presence when the infiltrator is within 10 feet per legendary investigator level must succeed at a [Perception](../../../rules/skills/perception.md) check against a DC equal to 10 + the infiltrator’s legendary investigator level + their Intelligence modifier or the creature ignores the infiltrator as though it had not become aware of their presence. The infiltrator can spend a use of inspiration to raise the DC by their inspiration die. The affected creature continues to ignore the infiltrator until they attack or do an otherwise offensive action, moves out of range, directly interacts with the creature, interacts with another creature or object in a way the affected creature notices, or otherwise specifically draws attention to themself. If the infiltrator does none of these things, the affected creature can attempt another Perception check at the same DC for each minute the infiltrator remains in range.
 
 A creature that was aware of the infiltrator’s presence prior to being in range of their glazed eye ability is unaffected. This is a mind-affecting compulsion effect.
 
@@ -94,7 +94,7 @@ At 8th level, the infiltrator gains the effects of its master of disguise class 
 
 **Hide in Plain Sight (Ex)**
 
-At 7th level, an infiltrator can use the Stealth skill to hide even while being observed; as long as their observer is within range of their glazed eye ability (even if it is not affected by glazed eye), they can hide without anything to actually hide behind.
+At 7th level, an infiltrator can use the [Stealth](../../../rules/skills/stealth.md) skill to hide even while being observed; as long as their observer is within range of their glazed eye ability (even if it is not affected by glazed eye), they can hide without anything to actually hide behind.
 
 This ability replaces the investigator talent gained at 7th level.
 
@@ -108,7 +108,7 @@ The infiltrator may raise or lower this protection as a swift action. This abili
 
 Some investigators are tasked with being the light in the dark. They make the night safe for the rest of the people by shining their light upon the creatures of the shadows and those who lurk in the dark.
 
-**Skills**: Perform and Profession are not class skills for a lamplighter. This ability alters the investigator’s class skills.
+**Skills**: [Perform](../../../rules/skills/perform.md) and Profession are not class skills for a lamplighter. This ability alters the investigator’s class skills.
 
 **Lamplighter (Sp)**
 
@@ -136,7 +136,7 @@ Some investigators learn to combat targets by using an older, cruder form of mag
 
 **Lore of the Old Magics (Ex)**
 
-A malice binder is unable to apply their inspiration to all Intelligence-based skill checks. Instead they may use inspiration on skills whose ability score is changed to Intelligence in courses of study, like the Heal skill for medicine, and the following skills: Knowledge (arcana), Spellcraft, Sleight of Hand, and Survival, assuming they have skill ranks in those skills. This ability modifies inspiration.
+A malice binder is unable to apply their inspiration to all Intelligence-based skill checks. Instead they may use inspiration on skills whose ability score is changed to Intelligence in courses of study, like the Heal skill for medicine, and the following skills: Knowledge (arcana), [Spellcraft](../../../rules/skills/spellcraft.md), Sleight of Hand, and [Survival](../../../rules/skills/survival.md), assuming they have skill ranks in those skills. This ability modifies inspiration.
 
 **Take a Bit (Ex)**
 
@@ -166,7 +166,7 @@ At 7th level, taking a bit of clothing or hair to use as a token becomes second 
 
 **Divine Dread (Su)**
 
-Binding a token to a holy symbol anathema to the target fills the creature with supernatural dread, imposing the shaken condition for 1 round per class level. At 6th level, the target is frightened instead. At 11th level, the target becomes panicked instead. On a successful Will saving throw, the target is instead shaken for a single round. This ability is a mind-affecting fear effect, however, if a creature is immune to fear or mind-affecting effects, it imposes one condition severity lower. For example, at 6th level, they are shaken and at 11th they are frightened.
+Binding a token to a holy symbol anathema to the target fills the creature with supernatural dread, imposing the [shaken](../../../rules/appendices/conditions.md#shaken) condition for 1 round per class level. At 6th level, the target is [frightened](../../../rules/appendices/conditions.md#frightened) instead. At 11th level, the target becomes [panicked](../../../rules/appendices/conditions.md#panicked) instead. On a successful Will saving throw, the target is instead shaken for a single round. This ability is a mind-affecting fear effect, however, if a creature is immune to fear or mind-affecting effects, it imposes one condition severity lower. For example, at 6th level, they are shaken and at 11th they are frightened.
 
 **Hexing Shield (Su)**
 
@@ -180,7 +180,7 @@ By rubbing soot into a token, the malice binder clouds their target’s senses o
 
 Silenced creatures cannot speak or cast spells with verbal components, but they are otherwise unrestricted from making sounds. At 6th level, a malice binder can either blind their target or both silence and deafen it.
 
-On a successful Will saving throw, the target is instead dazzled for a single round.
+On a successful Will saving throw, the target is instead [dazzled](../../../rules/appendices/conditions.md#dazzled) for a single round.
 
 **Repulse (Su)**
 
@@ -194,7 +194,7 @@ The malice binder can rub salt into a wound—their own or that of an adjacent a
 
 **Shackle (Su)**
 
-Binding a token to manacles or a length of rope causes the restraints to fly out and entangle the target. A target can avoid this fetter with a successful Reflex save. An entangled target can attempt to escape as a standard action with either an Escape Artist check or a combat maneuver check using the same DC as the initial saving throw. Using masterwork manacles in this fetter increases the escape DC by 2.
+Binding a token to manacles or a length of rope causes the restraints to fly out and entangle the target. A target can avoid this fetter with a successful Reflex save. An [entangled](../../../rules/appendices/conditions.md#entangled) target can attempt to escape as a standard action with either an Escape Artist check or a combat maneuver check using the same DC as the initial saving throw. Using masterwork manacles in this fetter increases the escape DC by 2.
 
 **Temptation (Su)**
 
@@ -206,7 +206,7 @@ Placing a token on top of a compass causes the needle to point toward the malice
 
 **Wrack (Su)**
 
-The malice binder can drive an iron nail through a token to leave his target sickened with pain until the end of the malice binder’s next turn. At 6th level, the target is instead staggered until the end of the malice binder’s next turn. The target can negate this fetter with a successful Fortitude save. For this fetter, a binder can use a clear footprint as a token; finding an appropriate footprint requires a successful Survival skill check to track the target.
+The malice binder can drive an iron nail through a token to leave his target [sickened](../../../rules/appendices/conditions.md#sickened) with pain until the end of the malice binder’s next turn. At 6th level, the target is instead [staggered](../../../rules/appendices/conditions.md#staggered) until the end of the malice binder’s next turn. The target can negate this fetter with a successful Fortitude save. For this fetter, a binder can use a clear footprint as a token; finding an appropriate footprint requires a successful Survival skill check to track the target.
 
 ## Maverick Detective
 
@@ -222,4 +222,4 @@ legendary investigator can use a move action to study a single enemy that they c
 
 At 1st level, when the maverick detective successfully hits and damages their studied enemy, there is a chance that they will immediately. If the target’s current hit points are less than a threshold equal to twice the detective’s class level + their Intelligence modifier, the target is immediately reduced to 0 hit points.
 
-The maverick can choose whether the target is dying or is merely unconscious. This replaces studied strike.
+The maverick can choose whether the target is dying or is merely [unconscious](../../../rules/appendices/conditions.md#unconscious). This replaces studied strike.

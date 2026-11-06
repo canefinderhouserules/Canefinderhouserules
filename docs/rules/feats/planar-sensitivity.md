@@ -6,13 +6,13 @@ You can sense and manipulate connections between the planes.
 
 **Benefit**:  You gain access to the gatefinder and gatekeeper skill unlocks (see below).
 
-**Special**:  Sentient outsiders who have one or more ranks in Knowledge (planes) and who lack the native subtype are treated as having this feat.
+**Special**:  Sentient outsiders who have one or more ranks in [Knowledge](../skills/knowledge.md) (planes) and who lack the native subtype are treated as having this feat.
 
 ## Gatefinder (Perception)
 
 You can notice soulgates compatible with your alignment.
 
-**Check**: You are familiar with soulgates and might notice those with an alignment matching your own. To notice a soulgate that you’re not already familiar with, you must succeed at a DC 20 Perception check—this DC could be higher if the portal is obscured or damaged, or at the GM’s discretion. If the soulgate shares your exact alignment, you gain a +5 bonus on your check to notice the portal, feeling an instinctual draw toward it. If your alignment and the portal’s share none of the same components, you take a –5 penalty on your check to notice the portal. If your alignment is neutral with no other alignment components, you take no penalties on checks to find soulgates.
+**Check**: You are familiar with soulgates and might notice those with an alignment matching your own. To notice a soulgate that you’re not already familiar with, you must succeed at a DC 20 [Perception](../skills/perception.md) check—this DC could be higher if the portal is obscured or damaged, or at the GM’s discretion. If the soulgate shares your exact alignment, you gain a +5 bonus on your check to notice the portal, feeling an instinctual draw toward it. If your alignment and the portal’s share none of the same components, you take a –5 penalty on your check to notice the portal. If your alignment is neutral with no other alignment components, you take no penalties on checks to find soulgates.
 
 For example, a lawful good character would gain a +5 bonus on her Perception checks to find lawful good soulgates, but would take a –5 penalty on checks to find chaotic evil, chaotic neutral, and neutral evil soulgates, as she has no chaotic, neutral, or evil components to her alignment. A neutral character, however, gains a +5 bonus on checks to find neutral gates, but gains no bonus on checks to find chaotic neutral, lawful neutral, neutral good, and neutral evil soulgates. Additionally, she takes no penalty on checks to notice chaotic good, chaotic evil, lawful good, or lawful evil soulgates.
 

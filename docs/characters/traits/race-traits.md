@@ -8,19 +8,19 @@ Only dwarfs may select one of these traits.
 
 **Child of the Lost Mines**: You come from a family whose ancestors worked in platinum mines that have since fallen to the dead. Your parents never explained why they’ve never returned, but they did make sure that you knew your way around a fight against undead foes. You gain a +1 trait bonus to weapon damage against undead.
 
-**Clearheaded**: You see through deception and lies. You gain a +1 trait bonus on opposed checks against the Bluff and Disguise skills and a +1 trait bonus on saving throws against illusion effects.
+**Clearheaded**: You see through deception and lies. You gain a +1 trait bonus on opposed checks against the [Bluff](../../rules/skills/bluff.md) and [Disguise](../../rules/skills/disguise.md) skills and a +1 trait bonus on saving throws against illusion effects.
 
 **Deep Guardian**: The subtle power of the deep places of the world flows within you, and grants you mastery of summoning beings of earth and stone. Any creature you conjure with a summon spell that has the earth subtype or a burrow speed gains a +1 morale bonus on attack rolls and a +1 enhancement bonus to Armor Class for the duration of the spell that summoned it.
 
-**Deep Marker**: You've dared uncharted tunnels in pursuit of a dwarven tradition of chiseling name-runes in subterranean depths. You gain a +1 trait bonus on Survival checks, and a +1 trait bonus on saving throws against fear effects.
+**Deep Marker**: You've dared uncharted tunnels in pursuit of a dwarven tradition of chiseling name-runes in subterranean depths. You gain a +1 trait bonus on [Survival](../../rules/skills/survival.md) checks, and a +1 trait bonus on saving throws against fear effects.
 
 **Earthbound**: Your druid spells use a handful of earth or sand as a divine focus in addition to the normal components. While you are touching the ground, you add a +2 trait bonus to saving throw DCs and on caster level checks to overcome spell resistance for all spells you cast against creatures with the air subtype.
 
-**Eldritch Smith**: You are learned in the secret lore of the forge, rituals handed down for generations. Whenever you use the Craft skill or a crafting feat to make a stone or metal item, you reduce the cost of making the item by 5%. This includes metal-headed weapons with nonmetal parts, such as axes and spears.
+**Eldritch Smith**: You are learned in the secret lore of the forge, rituals handed down for generations. Whenever you use the [Craft](../../rules/skills/craft.md) skill or a crafting feat to make a stone or metal item, you reduce the cost of making the item by 5%. This includes metal-headed weapons with nonmetal parts, such as axes and spears.
 
-**Goldsniffer**: Your keen senses lead you to hidden treasures. You gain a +2 trait bonus on Perception checks related to metals, jewels, and gemstones.
+**Goldsniffer**: Your keen senses lead you to hidden treasures. You gain a +2 trait bonus on [Perception](../../rules/skills/perception.md) checks related to metals, jewels, and gemstones.
 
-**Grounded**: You are well balanced, both physically and mentally. You gain a +2 trait bonus on balance-related Acrobatics checks, and a +1 trait bonus on Reflex saves.
+**Grounded**: You are well balanced, both physically and mentally. You gain a +2 trait bonus on balance-related [Acrobatics](../../rules/skills/acrobatics.md) checks, and a +1 trait bonus on Reflex saves.
 
 **Ruthless**: You never hesitate to strike a killing blow. You gain a +1 trait bonus on attack rolls to confirm critical hits.
 
@@ -36,13 +36,13 @@ Only dwarfs may select one of these traits.
 
 **Deathkeeper** *(tomb-warden dwarves)*: You have lived for a time deep inside the necropolises of ancient god-kings. Your exposure to undead creatures and their necromantic energies has strengthened your ability to resist the powers of the unliving. You gain a +1 trait bonus on saving throws against the supernatural abilities of undead creatures.
 
-**Sphinxfriend** *(tomb-warden dwarves)*: You were raised near the lair of a proud sphinx. Well known for their wisdom, sphinxes are greatly respected by your people, and in times of uncertainty and crisis, their counsel has been invaluable. When you came of age, you were chosen to be the emissary between your settlement and the sphinx. Luckily for you, the proud creature enjoyed your company, and in addition to bartering for information, you learned to enjoy the riddles of your noble friend. As a result of your experiences, you gain a +1 trait bonus on Diplomacy checks, Linguistics skill checks made to decipher writing in an unfamiliar language, and Sense Motive checks made to discern secret messages.
+**Sphinxfriend** *(tomb-warden dwarves)*: You were raised near the lair of a proud sphinx. Well known for their wisdom, sphinxes are greatly respected by your people, and in times of uncertainty and crisis, their counsel has been invaluable. When you came of age, you were chosen to be the emissary between your settlement and the sphinx. Luckily for you, the proud creature enjoyed your company, and in addition to bartering for information, you learned to enjoy the riddles of your noble friend. As a result of your experiences, you gain a +1 trait bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks, [Linguistics](../../rules/skills/linguistics.md) skill checks made to decipher writing in an unfamiliar language, and [Sense Motive](../../rules/skills/sense-motive.md) checks made to discern secret messages.
 
 **Insular**: You hail from one of the remote dwarven holds of the North, and have learned that the people of these harsh lands are as fickle as the weather. Experience has taught you that outsiders are not to be trusted. You gain a +2 trait bonus on Sense Motive checks, and Sense Motive is always a class skill for you, but you take a –1 penalty on Diplomacy checks with non-dwarves.
 
 **Fungal Brewing**: You gain a +2 trait bonus on Craft checks to create alchemical items, and can create nonmagical alchemical materials in 20% less time than normal.
 
-**Ancestral Grounds**: You recall the dangers the dwarves faced during their ancient migration from the Underworld to the surface. You gain a +1 trait bonus on Knowledge (dungeoneering) checks and a +2 trait bonus on Knowledge (history) checks pertaining to that migration. Select one of these skills to be a class skill for you.
+**Ancestral Grounds**: You recall the dangers the dwarves faced during their ancient migration from the Underworld to the surface. You gain a +1 trait bonus on [Knowledge](../../rules/skills/knowledge.md) (dungeoneering) checks and a +2 trait bonus on Knowledge (history) checks pertaining to that migration. Select one of these skills to be a class skill for you.
 
 **Militant Merchant**: You know what it takes to get your goods to market and will stop at nothing to protect your products. Years of fending off thieves, cutthroats, and brigands have given you a sixth sense when it comes to danger. You gain a +1 trait bonus on Perception checks made to determine surprise, and Perception is always a class skill for you.
 
@@ -74,7 +74,7 @@ Only elfs may select one of these traits.
 
 **Keeper of the Secret Shame**: You are a member of an elven order sworn to secrecy, tasked with ensuring that knowledge of the elves’ secret shame—the drow—never reaches the surface. You gain a +2 trait bonus on Knowledge checks pertaining to drow and drow settlements.
 
-**Dilettante Artist**: Art for you is a social gateway and you use it to influence and penetrate high society. You gain a +1 trait bonus to one category of Perform checks and a +1 trait bonus to Diplomacy checks. One of these skills (your choice) is always a class skill for you.
+**Dilettante Artist**: Art for you is a social gateway and you use it to influence and penetrate high society. You gain a +1 trait bonus to one category of [Perform](../../rules/skills/perform.md) checks and a +1 trait bonus to Diplomacy checks. One of these skills (your choice) is always a class skill for you.
 
 ## Gnome Traits
 
@@ -82,11 +82,11 @@ Only gnomes may select one of these traits.
 
 **Animal Friend**: You’ve long been a friend to animals, and feel safer when there are animals nearby. You gain a +1 trait bonus on Will saving throws as long as an animal (Tiny or larger, must be at least indifferent toward you) is within 30 feet, and Handle Animal is always a class skill for you.
 
-**Rapscallion**: You’ve spent your entire life thumbing your nose at the establishment and take pride in your run- ins with the law. Somehow, despite all the mischievous behavior in your life, you’ve never been caught. You gain a +1 trait bonus on Escape Artist checks and a +1 trait bonus on Initiative checks.
+**Rapscallion**: You’ve spent your entire life thumbing your nose at the establishment and take pride in your run- ins with the law. Somehow, despite all the mischievous behavior in your life, you’ve never been caught. You gain a +1 trait bonus on [Escape Artist](../../rules/skills/escape-artist.md) checks and a +1 trait bonus on Initiative checks.
 
 **Illusion Obsession**: After realizing the great potential of illusions, particularly figments, for use in pranks, you became obsessed with studying their properties and better methods to cast them. You gain a +1 trait bonus to your caster level when casting illusions in the figment subschool.
 
-**Prankster**: You always have a great idea for a prank. You gain a +1 trait bonus on dirty trick combat maneuver checks. You also gain a +1 trait bonus to your CMD when an opponent attempts a dirty trick combat maneuver check against you. If you succeed at a dirty trick combat maneuver check against a flat-footed opponent, increase the duration of the condition caused by 1 round.
+**Prankster**: You always have a great idea for a prank. You gain a +1 trait bonus on dirty trick combat maneuver checks. You also gain a +1 trait bonus to your CMD when an opponent attempts a dirty trick combat maneuver check against you. If you succeed at a dirty trick combat maneuver check against a [flat-footed](../../rules/appendices/conditions.md#flat-footed) opponent, increase the duration of the condition caused by 1 round.
 
 **Excitable**: You demand that everything must happen right now, no matter what, and are too impatient to wait for everyone else to catch up. You finish people's sentences, blurt out the punch lines to slowly told jokes, rarely make plans, and leap headlong into anything that looks like it might get interesting. You gain a +2 trait bonus on all initiative checks.
 
@@ -108,9 +108,9 @@ Only gnomes may select one of these traits.
 
 **Gnome Alchemist's Contacts**: Your time among the gnome elite of a great city of arcane scholars has led to an extensive knowledge of alchemy and ready connections in the business. You gain a +2 trait bonus on all Craft (alchemy) checks.
 
-**Collector**: You have a small, bizarre collection of apparently worthless items, such as rusty nails, animal droppings, clockwork cogs, or bent spoons. You find this strange menagerie useful in ways no non-gnome could understand. Select one of the following skills: Craft (any one), Disable Device, Escape Artist, Perform (any one), or Spellcraft. Whenever you have your collection within 5 feet of you, you gain a +2 trait bonus on all checks made with the selected skill. Once this skill has been selected, it cannot be changed, nor can you gain it for any other collection you begin amassing.
+**Collector**: You have a small, bizarre collection of apparently worthless items, such as rusty nails, animal droppings, clockwork cogs, or bent spoons. You find this strange menagerie useful in ways no non-gnome could understand. Select one of the following skills: Craft (any one), [Disable Device](../../rules/skills/disable-device.md), Escape Artist, Perform (any one), or [Spellcraft](../../rules/skills/spellcraft.md). Whenever you have your collection within 5 feet of you, you gain a +2 trait bonus on all checks made with the selected skill. Once this skill has been selected, it cannot be changed, nor can you gain it for any other collection you begin amassing.
 
-**Industrious**: You are helpful and hardworking. When you successfully use the aid another action to aid an ally's Craft or Profession check, that character gains an additional +1 trait bonus on the check (in addition to the +2 bonus normally granted for successfully aiding another). If you have a racial bonus on that skill, your ally gains a +2 trait bonus instead.
+**Industrious**: You are helpful and hardworking. When you successfully use the aid another action to aid an ally's Craft or [Profession](../../rules/skills/profession.md) check, that character gains an additional +1 trait bonus on the check (in addition to the +2 bonus normally granted for successfully aiding another). If you have a racial bonus on that skill, your ally gains a +2 trait bonus instead.
 
 **Vermin Wrangler**: In gathering ingredients necessary for mind-altering drugs and other concoctions, you have become intimately familiar with the desert's many-legged pests. You gain a +2 trait bonus on Knowledge (dungeoneering) checks to identify vermin and on saving throws against vermin's extraordinary abilities.
 
@@ -130,11 +130,11 @@ Only goblins may select one of these traits.
 
 **Bouncy**: Your bones, flesh, and skin are a bit more elastic than those of most goblins—when you fall, you tend to bounce a little better as a result. Whenever you take falling damage, the first 1d6 points of lethal damage suffered in the fall are automatically converted to nonlethal damage. You also gain a +2 trait bonus on all Reflex saves made to avoid unexpected falls.
 
-**Color Thief**: Your skin is an odd tint that somehow absorbs background colors. You gain a +2 trait bonus on Stealth checks, providing you wear only light armor or no armor.
+**Color Thief**: Your skin is an odd tint that somehow absorbs background colors. You gain a +2 trait bonus on [Stealth](../../rules/skills/stealth.md) checks, providing you wear only light armor or no armor.
 
 **Dog-Sniff-Hate**: You gain the scent special quality but only against canine creatures, like dogs or wolves, including monstrous hounds such as hell hounds, yeth hounds, and even werewolves. You gain a +2 trait bonus on attack rolls against dogs you can smell.
 
-**Foul Belch**: Once per day as a standard action, you can force a particularly odious belch at a single opponent within 5 feet. The character affected must make a DC 12 Fortitude save or be sickened for 1d6 rounds. The save DC is Constitution-based.
+**Foul Belch**: Once per day as a standard action, you can force a particularly odious belch at a single opponent within 5 feet. The character affected must make a DC 12 Fortitude save or be [sickened](../../rules/appendices/conditions.md#sickened) for 1d6 rounds. The save DC is Constitution-based.
 
 **Goblin Foolhardiness**: You have a tendency toward gross overconfidence in combat. When facing an enemy that's larger than you are, if you have no allies in any adjacent squares, your posturing, bravado, and cussing grant you a +1 trait bonus on attack rolls with non-reach melee weapons.
 
@@ -144,9 +144,9 @@ Only goblins may select one of these traits.
 
 **Ugly Swine**: You are a repulsive little freak whose origins are unclear. Your head is small for a goblin and your mouth oddly narrow, allowing you to pass in urban environments as an unidentifiable mongrel, providing you keep a low profile. However, if examined closely, your goblin origins are revealed. You gain a +2 trait bonus on Disguise checks, and Disguise is a class skill for you.
 
-**Cliff-Master** (coastal cliffs): You are adept at scavenging along the cliffs by the sea, and have become a skilled climber. You gain a +1 trait bonus on all Climb and Survival checks.
+**Cliff-Master** (coastal cliffs): You are adept at scavenging along the cliffs by the sea, and have become a skilled climber. You gain a +1 trait bonus on all [Climb](../../rules/skills/climb.md) and Survival checks.
 
-**Pirate Goblin** (island coasts): Although you might prefer life on board a ship, you often end up in the water for some odd reason. You gain a +1 trait bonus on Profession (sailor) and Swim checks, and Swim is always a class skill for you.
+**Pirate Goblin** (island coasts): Although you might prefer life on board a ship, you often end up in the water for some odd reason. You gain a +1 trait bonus on Profession (sailor) and [Swim](../../rules/skills/swim.md) checks, and Swim is always a class skill for you.
 
 **Monkey Goblin** (jungle): You are adept at arboreal activity, and are more at home in the branches of a tree than you are on the ground. You gain a +2 trait bonus on Acrobatics and Climb checks while climbing trees.
 
@@ -172,7 +172,7 @@ Only half-elfs may select one of these traits.
 
 **Trade Talk** (raised in human society): You picked up not only the basics of your human parent's profession, but also the lingo typical of the craft. Choose a Craft or Profession skill. You gain a +1 trait bonus on checks with the chosen skill, and a +1 trait bonus on Bluff and Sense Motive checks when dealing with people in the context of that craft or profession.
 
-**Elven Serenity** (raised in elven society): You embody the peace of the elven way of life, and apply this philosophy in your interactions with others. You gain a +2 trait bonus on Diplomacy and Handle Animal checks to calm other creatures. You need not speak the same language to attempt a Diplomacy check in this manner.
+**Elven Serenity** (raised in elven society): You embody the peace of the elven way of life, and apply this philosophy in your interactions with others. You gain a +2 trait bonus on Diplomacy and [Handle Animal](../../rules/skills/handle-animal.md) checks to calm other creatures. You need not speak the same language to attempt a Diplomacy check in this manner.
 
 **Pearl Diver**: You are skilled at finding treasures in the warm coastal waters near the desert. You gain a +2 trait bonus on Perception checks while underwater and can hold your breath for a number of rounds equal to three times your Constitution score before you risk drowning.
 
@@ -184,7 +184,7 @@ Only half-elfs may select one of these traits.
 
 Only half-orcs may select one of these traits.
 
-**Brute**: You have worked for a crime lord, either as a low- level enforcer or as a guard, and are adept at frightening away people. You gain a +1 trait bonus on Intimidate checks, and Intimidate is always a class skill for you.
+**Brute**: You have worked for a crime lord, either as a low- level enforcer or as a guard, and are adept at frightening away people. You gain a +1 trait bonus on [Intimidate](../../rules/skills/intimidate.md) checks, and Intimidate is always a class skill for you.
 
 **Cruel Rager**: If you successfully confirm a critical hit against an enemy while raging, you regain 1 round of rage. This can occur only once per rage.
 
@@ -194,11 +194,11 @@ Only half-orcs may select one of these traits.
 
 **Outcast**: Driven from town after town because of your heritage, you have become adept at living apart from others. You gain a +1 trait bonus on Survival skill checks, and Survival is always a class skill for you.
 
-**Iron Control** (raised in human society): You learned the hard way that expressing the rage you inherited from your orc blood exacerbates humans' fearful and hostile reactions to you; after years of effort, you've mastered self-control and buried your anger deep. Whenever you're confused and roll to determine behavior in a given round, subtract 10 from the result.
+**Iron Control** (raised in human society): You learned the hard way that expressing the rage you inherited from your orc blood exacerbates humans' fearful and hostile reactions to you; after years of effort, you've mastered self-control and buried your anger deep. Whenever you're [confused](../../rules/appendices/conditions.md#confused) and roll to determine behavior in a given round, subtract 10 from the result.
 
 **Finish the Fight** (raised in orc society): You're at the bottom of the pecking order, so when you challenge that order, your victory must be absolute. You gain a +1 trait bonus on attack rolls against opponents you already injured in the past 24 hours.
 
-**Caravan Drover**: With your hand on the lash, your caravans always arrive on time. You treat whips as martial weapons, and up to 10 animals and humanoids traveling with you can hustle or make a forced march for 1 hour longer than normal before taking nonlethal damage and becoming fatigued.
+**Caravan Drover**: With your hand on the lash, your caravans always arrive on time. You treat whips as martial weapons, and up to 10 animals and humanoids traveling with you can hustle or make a forced march for 1 hour longer than normal before taking nonlethal damage and becoming [fatigued](../../rules/appendices/conditions.md#fatigued).
 
 **Irritable Diplomat**: Most people expect half-orcs to be savage and violent, and you're used to working a little harder to overcome their assumptions. Unfortunately, you're still working on keeping patient when they ignore your efforts. Once per day, you may choose to gain a +5 trait bonus on any Diplomacy check, but if it fails, you take a –2 penalty on all Charisma-based checks for the next 10 minutes.
 
@@ -220,7 +220,7 @@ Only halflings may select one of these traits.
 
 **Scrounger**: Others may call it junk, but you call it a bargain. You can buy objects with the broken condition at half price (instead of the normal three-quarters price). The value of the unbroken version of these objects cannot exceed four times your character level. The price you pay for this object can never exceed more than twice your character level in gp (for example, at 5th level you can spend up to 10 gp on a broken object, meaning you can buy any object that, if not broken, has a value of 20 gp or less).
 
-**Perfect Servant**: Your training as a maid or valet has left you with unconscious mannerisms that seem to put members of the upper class at ease. You gain a +3 trait bonus on Diplomacy checks made to influence anyone with at least one level of Aristocrat.
+**Perfect Servant**: Your training as a maid or valet has left you with [unconscious](../../rules/appendices/conditions.md#unconscious) mannerisms that seem to put members of the upper class at ease. You gain a +3 trait bonus on Diplomacy checks made to influence anyone with at least one level of Aristocrat.
 
 **Slave Smuggler**: You know how to get contraband across borders. When hiding a Medium or smaller creature from an opponent actively searching you or your cargo, both you and the creature to be smuggled can attempt Stealth checks and select the higher of the two results for your smuggled ally to use while hiding.
 
@@ -228,7 +228,7 @@ Only halflings may select one of these traits.
 
 **Successful Shirker**: Born and raised a slave with no hope of advancement, you are adept at avoiding your overseer’s ire and attention, the better to spend time on your own interests. You gain a +1 trait bonus on Stealth checks and a +3 trait bonus on Bluff and Diplomacy checks to avoid punishment by lawful authority.
 
-**Adventurous Explorer**: You are one of the few jungle halflings to brave the world outside their hidden jungle. When frightened or shaken, you only take a –1 penalty on your rolls instead of –2.
+**Adventurous Explorer**: You are one of the few jungle halflings to brave the world outside their hidden jungle. When [frightened](../../rules/appendices/conditions.md#frightened) or [shaken](../../rules/appendices/conditions.md#shaken), you only take a –1 penalty on your rolls instead of –2.
 
 ## Human Traits
 
@@ -236,7 +236,7 @@ Only humans may select one of these traits.
 
 **Latent Psion**: The power to affect the world with the mind is very much a reality in your distant homeland, and it remains potent in your mind and protects you from mental assault. You gain a +2 trait bonus on saves against mind-affecting effects.
 
-**Scholar of Ruins**: From the moment you could walk and talk, the ruins of ancient civilizations have fascinated you. Because of this, you have special insight into geography as well as expertise in exploring lost places. You gain a +1 trait bonus on Knowledge (geography) and Knowledge (dungeoneering) checks. One of these skills (your choice) is always a class skill for you.
+**Scholar of Ruins**: From the moment you could walk and talk, the ruins of ancient civilizations have [fascinated](../../rules/appendices/conditions.md#fascinated) you. Because of this, you have special insight into geography as well as expertise in exploring lost places. You gain a +1 trait bonus on Knowledge (geography) and Knowledge (dungeoneering) checks. One of these skills (your choice) is always a class skill for you.
 
 **Spirits in the Stone**: You have an almost instinctive ability to sense danger and peril in ruined structures. Whenever you’re in ruins, you gain a +2 trait bonus on initiative checks and a +1 trait bonus on saving throws against traps and natural hazards.
 
@@ -244,7 +244,7 @@ Only humans may select one of these traits.
 
 **Animalistic Affliction** (northern raider culture): You grew up with an affinity for predatory animals, and whispers amid your clan suggest somewhere in the past, lycanthropy afflicted an ancestor. Whether or not you share this affliction, you often have animalistic urges. You gain a +1 trait bonus on Handle Animal and wild empathy checks.
 
-**Artistic Dilettante** (decadent imperial culture): You come from money, and because of this can quickly discern objects' value. You gain a +1 trait bonus on Appraise checks, and on checks for one Craft skill of your choice.
+**Artistic Dilettante** (decadent imperial culture): You come from money, and because of this can quickly discern objects' value. You gain a +1 trait bonus on [Appraise](../../rules/skills/appraise.md) checks, and on checks for one Craft skill of your choice.
 
 **Auspicious Tattoo** (plains tribal culture): You bear a tattoo depicting one of your clan's totems that favors you with good fortune. You gain a +1 trait bonus on Will saving throws.
 
@@ -254,13 +254,13 @@ Only humans may select one of these traits.
 
 **Bred for War** (plains tribal culture): You tower above most other humans and possess a physique of hard, corded muscle. You gain a +1 trait bonus on Intimidate checks and a +1 trait bonus on your CMB because of your great size. You must be at least 6 feet tall.
 
-**Ever Home** (coastal trading cities): You have lived in many cities dotting a long coastline, and after you have departed from each, you have taken a small token to remember it by. You gain a +1 trait bonus on Knowledge (geography) and Sleight of Hand checks.
+**Ever Home** (coastal trading cities): You have lived in many cities dotting a long coastline, and after you have departed from each, you have taken a small token to remember it by. You gain a +1 trait bonus on Knowledge (geography) and [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks.
 
 **Glib Barrister** (lawful empire): You grew up within a bureaucratic system where law reigns supreme; however, that has never stopped you from creating loopholes in ironclad contracts. You gain a +2 trait bonus on Linguistics checks to create forgeries.
 
 **Fortune-Card Born** (wandering folk): You grew up around the mysterious fortune-tellers who travel the roads. You start play with a deck of fortune-telling cards passed down from a relative. Because of your skill with fortune-telling, you gain a +1 trait bonus on initiative checks.
 
-**Horse Lord** (desert horse culture): You grew up racing along the plains, hoping to one day compete in a great horse race. You gain a +2 trait bonus on Handle Animal checks, and a +1 trait bonus on Ride checks. This trait applies only to horses.
+**Horse Lord** (desert horse culture): You grew up racing along the plains, hoping to one day compete in a great horse race. You gain a +2 trait bonus on Handle Animal checks, and a +1 trait bonus on [Ride](../../rules/skills/ride.md) checks. This trait applies only to horses.
 
 **Ice Walker** (tundra tribes): You spent years roaming the frozen tundra of the frigid north, and have adapted to its numbing effects. You gain a +1 trait bonus on saving throws against attacks that deal cold damage. Furthermore, you may ignore the Acrobatics penalty for ice and can move across ice at normal speed.
 
@@ -296,11 +296,11 @@ Only humans may select one of these traits.
 
 **Ruin Lore** *(northern tribal humans)*: Your time spent exploring the ruins of a fallen alien mountain has taught you much about the strange ways of the metal creatures from the stars. You gain a +2 trait bonus on Knowledge (engineering) checks to identify creatures with the robot subtype and relics of advanced technology. When using Bluff to feint against an intelligent construct, you do not take a penalty for feinting against a non-humanoid.
 
-**Eyes of the Sun** *(desert-wandering humans)*: You are inured to the bright glare of the hot desert sun, and its dazzling rays pose little danger to you. You gain a +1 trait bonus on saving throws against effects that would cause you to become dazzled or blinded, and once per day when you would be dazzled or blinded by an effect, you can reduce the duration of that effect by half (minimum 1 round). You cannot use this ability if you are already dazzled or blinded or if you have the light sensitivity or light blindness special quality.
+**Eyes of the Sun** *(desert-wandering humans)*: You are inured to the bright glare of the hot desert sun, and its dazzling rays pose little danger to you. You gain a +1 trait bonus on saving throws against effects that would cause you to become [dazzled](../../rules/appendices/conditions.md#dazzled) or [blinded](../../rules/appendices/conditions.md#blinded), and once per day when you would be dazzled or blinded by an effect, you can reduce the duration of that effect by half (minimum 1 round). You cannot use this ability if you are already dazzled or blinded or if you have the light sensitivity or light blindness special quality.
 
-**Relic Hunter** *(desert-wandering humans)*: You have made a study of the ancient lands and ruins of your homeland and are familiar with the relics and artifacts their inhabitants left behind. You gain a +1 trait bonus on Appraise and Knowledge (history) checks made to examine ruined buildings more than 1,000 years old as well as any ruined objects found in them. If such an item is magical, you gain a +1 trait bonus on Spellcraft checks to identify its properties and Use Magic Device checks to activate it.
+**Relic Hunter** *(desert-wandering humans)*: You have made a study of the ancient lands and ruins of your homeland and are familiar with the relics and artifacts their inhabitants left behind. You gain a +1 trait bonus on Appraise and Knowledge (history) checks made to examine ruined buildings more than 1,000 years old as well as any ruined objects found in them. If such an item is magical, you gain a +1 trait bonus on Spellcraft checks to identify its properties and [Use Magic Device](../../rules/skills/use-magic-device.md) checks to activate it.
 
-**Pride of Empire** *(imperial horse-clan humans)*: Your pride is so strong and your confidence so sure that you can shake off magical attempts to shatter your resolve. If you succeed at a Will saving throw against a fear effect that would result in a lesser effect on a successful save (such as causing you to become shaken instead of panicked), you are instead unaffected.
+**Pride of Empire** *(imperial horse-clan humans)*: Your pride is so strong and your confidence so sure that you can shake off magical attempts to shatter your resolve. If you succeed at a Will saving throw against a fear effect that would result in a lesser effect on a successful save (such as causing you to become shaken instead of [panicked](../../rules/appendices/conditions.md#panicked)), you are instead unaffected.
 
 **Thoroughbred** *(imperial horse-clan humans)*: The blood of the early horse tribes is strong in your family. Breeding, riding, selecting, and training the best horses are all part of your legacy, and you know how to pick out the best of the lot when selecting a suitable mount. If you gain a horse as an animal companion or mount as one of your class abilities, its base speed increases by 5 feet and it gains a bonus trick that does not count against the normal limit of tricks known by the animal.
 
@@ -482,7 +482,7 @@ Only androids may select these traits.
 
 **Cellular Match**: Whenever you are affected by a polymorph spell or effect, your nanites adjust completely at a molecular level. For the duration of the polymorph effect, you are treated as only a humanoid for the purpose of effects that target creatures by type. For example, a ranger's favored enemy bonus against constructs wouldn't apply to you while you are polymorphed, but nor would spells such as [*make whole*](../../magic/spells/make-whole.md). This trait modifies part of the android's constructed racial trait, but otherwise that trait is unchanged (a polymorphed android still can't gain morale bonuses, is still immune to fear, and so on).
 
-**Nanite Revival**: You can instinctively activate your nanites to save your life. Once per day as an immediate action, you can command your nanites to stabilize you while you are dying, even while unconscious or helpless. This does not count as a use of your nanite surge ability.
+**Nanite Revival**: You can instinctively activate your nanites to save your life. Once per day as an immediate action, you can command your nanites to stabilize you while you are dying, even while unconscious or [helpless](../../rules/appendices/conditions.md#helpless). This does not count as a use of your nanite surge ability.
 
 **Blood Algorithm**: Your inhumanity extends to your very core. Pain receptors were omitted during your construction, so you gain a +2 trait bonus on saving throws against spells with the pain descriptor. Additionally, once per day when you are healed by a spell that targets constructs (such as a [*make whole*](../../magic/spells/make-whole.md) spell), you heal 1 extra hit point per level of the spell.
 
@@ -528,7 +528,7 @@ Only ratfolk may select one of these traits.
 
 **Ethical Leader**: You attract followers who agree with your philosophical outlook on life. Your followers and cohorts are more willing to serve you because of their confidence in your strong moral position. You gain a +1 trait bonus to your Leadership score if all your cohorts and followers have an alignment within one step of your alignment.
 
-**Faith Healer**: You have an unearthly appearance and soothing aura about you that make people believe you are gifted with divine powers. You learned at a young age to make use of your gift in order to make money, and you've found ways to ethically justify your work. You can make a Heal check weekly to earn money as though making a Profession check. In addition, you gain a +1 trait bonus on Heal checks.
+**Faith Healer**: You have an unearthly appearance and soothing aura about you that make people believe you are gifted with divine powers. You learned at a young age to make use of your gift in order to make money, and you've found ways to ethically justify your work. You can make a [Heal](../../rules/skills/heal.md) check weekly to earn money as though making a Profession check. In addition, you gain a +1 trait bonus on Heal checks.
 
 **Innocent**: No one can believe someone as pure as you could be deceptive in any way. You have an air of innocence about you, and people have a hard time believing you could ever do anyone harm. When you make a Bluff check to tell a lie, your target always wants to believe you, granting you the standard +5 bonus on your Bluff check. This bonus only applies if the lie you tell is either believable or unlikely.
 
@@ -608,7 +608,7 @@ Only oreads may select one of these traits.
 
 **Stoic Dignity**: You are an unmoving rock for those who see you as an authority figure. As long as you are conscious, you and all allies within 10 feet gain a +1 bonus on saving throws against mind-affecting effects you are not already suffering from. This is a trait bonus for you and a morale bonus for your allies.
 
-**Sandy Ambush**: You are skilled at blending in with the desert terrain and attacking creatures as they pass by. When prone in desert terrain, you gain a +2 trait bonus on Stealth checks and take only a –2 penalty on attack rolls (rather than –4) when attacking from prone.
+**Sandy Ambush**: You are skilled at blending in with the desert terrain and attacking creatures as they pass by. When [prone](../../rules/appendices/conditions.md#prone) in desert terrain, you gain a +2 trait bonus on Stealth checks and take only a –2 penalty on attack rolls (rather than –4) when attacking from prone.
 
 ## Suli Traits
 

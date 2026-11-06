@@ -14,7 +14,7 @@ You detect magical auras. The amount of information revealed depends on how long
 
 *2nd Round*: Number of different magical auras and the power of the most potent aura.
 
-*3rd Round*: The strength and location of each aura. If the items or creatures bearing the auras are in line of sight, you can make Knowledge (arcana) skill checks to determine the school of magic involved in each. (Make one check per aura: DC 15 + spell level, or 15 + 1/2 caster level for a nonspell effect.) If the aura emanates from a magic item, you can attempt to identify its properties (see Spellcraft).
+*3rd Round*: The strength and location of each aura. If the items or creatures bearing the auras are in line of sight, you can make [Knowledge](../../rules/skills/knowledge.md) (arcana) skill checks to determine the school of magic involved in each. (Make one check per aura: DC 15 + spell level, or 15 + 1/2 caster level for a nonspell effect.) If the aura emanates from a magic item, you can attempt to identify its properties (see [Spellcraft](../../rules/skills/spellcraft.md)).
 
 Magical areas, multiple types of magic, or strong local magical emanations may distort or conceal weaker auras.
 

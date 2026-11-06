@@ -16,7 +16,7 @@ Target one creature Duration 1 round Saving Throw Will negates; Spell Resistance
 
 **Cast**: Target cannot cast spells or use spell-like abilities.
 
-**Communicate**: The target cannot take any actions that allow it to communicate with anyone. This includes such acts as speaking, Bluff checks to pass secret messages, writing, and using telepathy. It does not prevent verbalizations made for purposes other than communication, such as command words or the verbal component of spellcasting.
+**Communicate**: The target cannot take any actions that allow it to communicate with anyone. This includes such acts as speaking, [Bluff](../../rules/skills/bluff.md) checks to pass secret messages, writing, and using telepathy. It does not prevent verbalizations made for purposes other than communication, such as command words or the verbal component of spellcasting.
 
 **Draw**: Target cannot ready or prepare any item, weapon, component, or equipment.
 

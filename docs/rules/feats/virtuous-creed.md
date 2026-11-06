@@ -12,13 +12,13 @@ You accept a creed to guide your destiny toward good.
 
 **Creed**: You must always show respect to others. You must put your own desires aside in favor of the needs of the masses. You must be conservative in dress and in actions, and wary not to display pride or gloat about your wealth or achievements.
 
-**Benefit**: You add your Wisdom modifier on Diplomacy checks in addition to your Charisma modifier.
+**Benefit**: You add your Wisdom modifier on [Diplomacy](../skills/diplomacy.md) checks in addition to your Charisma modifier.
 
 ## Courage
 
 **Creed**: You can never willingly flee combat when others’ lives are at risk. You must never show cowardice in sight of your enemies.
 
-**Benefit**: When shaken, you gain a +3 bonus on Will saves against any effects that would worsen your condition to frightened or panicked.
+**Benefit**: When [shaken](../appendices/conditions.md#shaken), you gain a +3 bonus on Will saves against any effects that would worsen your condition to [frightened](../appendices/conditions.md#frightened) or [panicked](../appendices/conditions.md#panicked).
 
 ## Freedom
 

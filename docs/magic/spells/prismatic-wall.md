@@ -8,7 +8,7 @@
 **Duration** 10 min./level (D)  
 **Saving Throw** see text; **Spell Resistance** see text
 
-*Prismatic wall* creates a vertical, opaque wall—a shimmering, multicolored plane of light that protects you from all forms of attack. The wall flashes with seven colors, each of which has a distinct power and purpose. The wall is immobile, and you can pass through and remain near the wall without harm. Any other creature with less than 8 HD that is within 20 feet of the wall is blinded by the colors for 2d4 rounds if it looks at the wall.
+*Prismatic wall* creates a vertical, opaque wall—a shimmering, multicolored plane of light that protects you from all forms of attack. The wall flashes with seven colors, each of which has a distinct power and purpose. The wall is immobile, and you can pass through and remain near the wall without harm. Any other creature with less than 8 HD that is within 20 feet of the wall is [blinded](../../rules/appendices/conditions.md#blinded) by the colors for 2d4 rounds if it looks at the wall.
 
 The wall’s maximum proportions are 4 feet wide per caster level and 2 feet high per caster level. A *prismatic wall* spell cast to materialize in a space occupied by a creature is disrupted, and the spell is wasted.
 

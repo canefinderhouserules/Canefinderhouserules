@@ -20,6 +20,6 @@ Deep one hybrids are defined by their class levels—they don’t possess racial
 
 **Sea Longing (Ex):** Every 24 hours a deep one hybrid spends in an area more than 10 miles from the sea, it must succeed at a DC 20 Will save or take 1 point of Wisdom drain.
 
-**Take to the Water (Ex):** A deep one hybrid can hold its breath 10 times longer than a human can, and gains a +2 bonus on Initiative checks and Reflex saving throws while swimming. A deep one hybrid has a swim speed of 30 feet, and gains a +8 racial bonus on all Swim checks.
+**Take to the Water (Ex):** A deep one hybrid can hold its breath 10 times longer than a human can, and gains a +2 bonus on Initiative checks and Reflex saving throws while swimming. A deep one hybrid has a swim speed of 30 feet, and gains a +8 racial bonus on all [Swim](../../rules/skills/swim.md) checks.
 
 **Languages:** Deep one hybrids begin play speaking Aklo and Common. Hybrids with high Intelligence scores can choose from the following languages: Abyssal, Aquan, Dwarven, Elven, Giant, Gnome, Goblin, Half ling, Orc, and Undercommon.

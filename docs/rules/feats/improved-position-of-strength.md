@@ -6,4 +6,4 @@ You are particularly skilled in pressing your advantage when negotiating with no
 
 **Prerequisites**: [Position of Strength](position-of-strength.md), [Two-Weapon Fighting](two-weapon-fighting.md) or Multiattack, Intimidate 5 ranks.
 
-**Benefit**: As long as you are wielding one or more weapons with which you are proficient, you gain the bonus on Intimidate checks from [Position of Strength](position-of-strength.md) against creatures that are armed with fewer weapons than you are wielding.
+**Benefit**: As long as you are wielding one or more weapons with which you are proficient, you gain the bonus on [Intimidate](../skills/intimidate.md) checks from [Position of Strength](position-of-strength.md) against creatures that are armed with fewer weapons than you are wielding.

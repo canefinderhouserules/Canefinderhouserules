@@ -8,6 +8,6 @@
 **Duration** 1 round  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-Your litany conjures chains of energy that lash upward from the ground and hamper the target’s movement. The target is entangled. This spell has no effect on flying creatures, or creatures not standing upon solid ground.
+Your litany conjures chains of energy that lash upward from the ground and hamper the target’s movement. The target is [entangled](../../rules/appendices/conditions.md#entangled). This spell has no effect on flying creatures, or creatures not standing upon solid ground.
 
 While subject to this spell, the target cannot be the target of another spell that has the word "litany" in the title.

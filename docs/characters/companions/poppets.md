@@ -10,7 +10,7 @@ The following statistics represent a standard poppet without any modifications.
 N Tiny construct  
 **Init** +2; **Senses** darkvision 60 ft., low-light vision; Perception –3
 
-**AC** 14, touch 14, flat-footed 12 (+2 Dex, +2 size)  
+**AC** 14, touch 14, [flat-footed](../../rules/appendices/conditions.md#flat-footed) 12 (+2 Dex, +2 size)  
 **hp** 5 (1d10)  
 **Fort** +0, **Ref** +2, **Will** –3  
 **Immune** construct traits; **Weaknesses** vulnerable to fire
@@ -33,7 +33,7 @@ Poppets have no minds of their own, and so carry out orders explicitly as they a
 Poppets are among the simplest of constructs. The creator must start with quality pieces of wood and wicker worth 10 gp.
 
 **Poppet, Tiny**: CL 1st; Price 310 gp  
-*Requirements* Craft Construct or [Craft Poppet](../../rules/feats/craft-poppet.md), *make whole*, *mending*; *Skill* Craft (carpentry) DC 15; *Cost* 160 gp
+*Requirements* Craft Construct or [Craft Poppet](../../rules/feats/craft-poppet.md), *make whole*, *mending*; *Skill* [Craft](../../rules/skills/craft.md) (carpentry) DC 15; *Cost* 160 gp
 
 ## Poppet Augmentations
 

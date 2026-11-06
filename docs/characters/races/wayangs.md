@@ -8,7 +8,7 @@ The wayangs are a race of small supernatural humanoids who trace their ancestry 
 
 **Wayang**: Wayangs are humanoids with the wayang subtype.
 
-**Small**: Wayangs are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on their CMB and to CMD, and a +4 size bonus on Stealth checks.
+**Small**: Wayangs are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on their CMB and to CMD, and a +4 size bonus on [Stealth](../../rules/skills/stealth.md) checks.
 
 **Slow Speed**: Wayangs have a base speed of 20 feet.
 
@@ -16,7 +16,7 @@ The wayangs are a race of small supernatural humanoids who trace their ancestry 
 
 **Light and Dark (Su)**: Once per day as an immediate action, a wayang can treat positive and negative energy effects as if she were an undead creature, taking damage from positive energy and healing damage from negative energy. This ability lasts for 1 minute once activated.
 
-**Lurker**: Wayangs gain a +2 racial bonus on Perception and Stealth checks.
+**Lurker**: Wayangs gain a +2 racial bonus on [Perception](../../rules/skills/perception.md) and Stealth checks.
 
 **Shadow Magic**: Wayangs add +1 to the DC of any saving throws against spells of the shadow subschool that they cast. Wayangs with a Charisma score of 11 or higher also gain the following spell-like abilities: 1/day—[*ghost sound*](../../magic/spells/ghost-sound.md), [*pass without trace*](../../magic/spells/pass-without-trace.md), and [*ventriloquism*](../../magic/spells/ventriloquism.md). The caster level for these effects is equal to the wayang’s level. The DC for these spells is equal to 10 + the spell’s level + the wayang’s Charisma modifier.
 
@@ -58,7 +58,7 @@ Wayangs also have the following options.
 
 **Druid**: Select one domain power granted at 1st level that is normally usable a number of times per day equal to 3 + the druid's Wisdom modifier. The druid adds +1/2 to the number of uses per day of that domain power. In addition, a druid that selects this bonus at 1st level can choose the Darkness domain with her natural bond ability.
 
-**Fighter**: Add a +1/4 bonus on Stealth checks and on weapon damage rolls against flat-footed opponents.
+**Fighter**: Add a +1/4 bonus on Stealth checks and on weapon damage rolls against [flat-footed](../../rules/appendices/conditions.md#flat-footed) opponents.
 
 **Kineticist**: Add 1/4 to the save DC of the kineticist's void infusions and wild talents.
 
@@ -74,7 +74,7 @@ Wayangs also have the following options.
 
 **Shaman**: Add one spell from the sorcerer/wizard spell list that isn't on the shaman spell list to the list of spells the shaman knows. This spell must be at least 1 level below the highest spell level the shaman can cast and be of the illusion (shadow) subschool or have the darkness descriptor.
 
-**Slayer**: Add 1/4 to the studied target bonus on Bluff and Perception checks. When the slayer gains the stalker class feature, he also adds this amount to the studied target bonus on Stealth checks.
+**Slayer**: Add 1/4 to the studied target bonus on [Bluff](../../rules/skills/bluff.md) and Perception checks. When the slayer gains the stalker class feature, he also adds this amount to the studied target bonus on Stealth checks.
 
 **Spiritualist**: Add 1/4 to the number of rounds that the spiritualist's incorporeal phantom can be out of sight and line of effect before being sent back to the Ethereal Plane.
 
@@ -122,5 +122,5 @@ Wayangs have access to the following equipment.
 
 ### In the Shadows
 
-Many wayangs perform a variety of unusual roles and tasks in wayang society. They gain a +2 racial bonus on their choice of two of the following skills: Appraise, Bluff, Craft, Profession, and Sleight of Hand. This racial trait replaces lurker.
+Many wayangs perform a variety of unusual roles and tasks in wayang society. They gain a +2 racial bonus on their choice of two of the following skills: [Appraise](../../rules/skills/appraise.md), Bluff, [Craft](../../rules/skills/craft.md), [Profession](../../rules/skills/profession.md), and [Sleight of Hand](../../rules/skills/sleight-of-hand.md). This racial trait replaces lurker.
 

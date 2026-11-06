@@ -8,4 +8,4 @@
 **Duration** up to 1 round/level (see text)  
 **Saving Throw** Will negates (harmless) or Will negates (object); **Spell Resistance** yes (object)
 
-The affected targets become incredibly buoyant, floating naturally on any water at least 1 foot deep. An affected creature that deliberately tries to submerge must succeed at a DC 20 Swim check every round to stay underwater. If a target spends at least 1 round on dry land, the spell ends for ry that creature only.
+The affected targets become incredibly buoyant, floating naturally on any water at least 1 foot deep. An affected creature that deliberately tries to submerge must succeed at a DC 20 [Swim](../../rules/skills/swim.md) check every round to stay underwater. If a target spends at least 1 round on dry land, the spell ends for ry that creature only.

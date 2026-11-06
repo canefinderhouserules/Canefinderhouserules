@@ -8,4 +8,4 @@
 **Duration** 1 minute/level  
 **Saving Throw** none (harmless); **Spell Resistance** yes (harmless)
 
-The targets gain darkvision 30 feet and a +2 competence bonus on Stealth checks.
+The targets gain darkvision 30 feet and a +2 competence bonus on [Stealth](../../rules/skills/stealth.md) checks.

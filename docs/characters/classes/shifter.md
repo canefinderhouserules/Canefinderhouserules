@@ -91,7 +91,7 @@ If her shifter shape form has only 1 attack, she can choose to have 2 natural at
 
 #### Wild Empathy (Ex)
 
-A shifter can improve the attitude of an animal. This ability functions as a Diplomacy check to improve the attitude of a person. The shifter rolls 1d20 and adds their shifter level and Charisma modifier to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
+A shifter can improve the attitude of an animal. This ability functions as a [Diplomacy](../../rules/skills/diplomacy.md) check to improve the attitude of a person. The shifter rolls 1d20 and adds their shifter level and Charisma modifier to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
 
 To use wild empathy, the shifter and the animal must be within 30 feet of one another and under normal conditions. Generally, influencing an animal in this way takes 1 minute but, as with influencing people, it might take more or less time.
 
@@ -101,11 +101,11 @@ The shifter can also use this ability to influence a magical beast with an Intel
 
 At 2nd level, when unarmored, not using a shield, unencumbered, and conscious, the shifter adds their Wisdom bonus (if any) to their AC and CMD. If they are wearing armor or using a shield, they instead add half their Wisdom bonus to their AC (minimum 0). In addition, the shifter gains a +1 bonus to their AC and CMD at 4th level. This bonus increases by 1 for every 4 shifter levels thereafter (up to a maximum of +5 at 20th level).
 
-These bonuses to AC apply even against touch attacks and when the shifter is flat-footed, they lose these bonuses when they are immobilized or helpless. These bonuses do not stack with the [monk AC bonus](monk.md#ac-bonus-ex) class feature.
+These bonuses to AC apply even against touch attacks and when the shifter is [flat-footed](../../rules/appendices/conditions.md#flat-footed), they lose these bonuses when they are immobilized or [helpless](../../rules/appendices/conditions.md#helpless). These bonuses do not stack with the [monk AC bonus](monk.md#ac-bonus-ex) class feature.
 
 #### Track (Ex)
 
-At 2nd level, a shifter adds half their level as a bonus on Survival checks to follow tracks.
+At 2nd level, a shifter adds half their level as a bonus on [Survival](../../rules/skills/survival.md) checks to follow tracks.
 
 #### Woodland Stride (Ex)
 
@@ -145,7 +145,7 @@ These aspects are the minor forms a Canefinder shifter can take with shifter asp
 
 ### Bat
 
-**Minor Form**: You gain blindsense 10ft and +1 to Perception skill checks. At 8th level, the bonuses increase to 20ft and +2, and at 13th level it increases to 30ft and +3. Blindsense stacks with the major form.
+**Minor Form**: You gain blindsense 10ft and +1 to [Perception](../../rules/skills/perception.md) skill checks. At 8th level, the bonuses increase to 20ft and +2, and at 13th level it increases to 30ft and +3. Blindsense stacks with the major form.
 
 ### Bear
 
@@ -161,7 +161,7 @@ These aspects are the minor forms a Canefinder shifter can take with shifter asp
 
 ### Crocodile
 
-**Minor Form**: You gain a +2 competence bonus on Swim checks and grapple combat maneuver checks. This bonus increases to +4 at 8th level and +6 at 13th level.
+**Minor Form**: You gain a +2 competence bonus on [Swim](../../rules/skills/swim.md) checks and grapple combat maneuver checks. This bonus increases to +4 at 8th level and +6 at 13th level.
 
 ### Deinonychus
 
@@ -169,11 +169,11 @@ These aspects are the minor forms a Canefinder shifter can take with shifter asp
 
 ### Dolphin
 
-**Minor Form**: You gain a +4 competence bonus on Knowledge checks. This bonus increases to +6 at 8th level and +8 at 13th level.
+**Minor Form**: You gain a +4 competence bonus on [Knowledge](../../rules/skills/knowledge.md) checks. This bonus increases to +6 at 8th level and +8 at 13th level.
 
 ### Dragonfly
 
-**Minor Form**: Reduces the penalty to maintain a grapple without gaining the grappled condition by -5. At 8th level decreases to -7, and at 13th level decreases to -9.
+**Minor Form**: Reduces the penalty to maintain a grapple without gaining the [grappled](../../rules/appendices/conditions.md#grappled) condition by -5. At 8th level decreases to -7, and at 13th level decreases to -9.
 
 ### Electric Eel
 
@@ -201,11 +201,11 @@ These aspects are the minor forms a Canefinder shifter can take with shifter asp
 
 ### Lion
 
-**Minor Form**: You gain a +4 competence bonus on Intimidate checks. This bonus increases to +6 at 8th level and +8 at 13th level.
+**Minor Form**: You gain a +4 competence bonus on [Intimidate](../../rules/skills/intimidate.md) checks. This bonus increases to +6 at 8th level and +8 at 13th level.
 
 ### Lizard
 
-**Minor Form**: You gain a +4 competence bonus on Acrobatics checks. Any wildshape level allows for Fast Healing if the form you take has it. This bonus increases to +6 at 8th level and +8 at 13th level.
+**Minor Form**: You gain a +4 competence bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks. Any wildshape level allows for Fast Healing if the form you take has it. This bonus increases to +6 at 8th level and +8 at 13th level.
 
 ### Mantis
 
@@ -213,7 +213,7 @@ These aspects are the minor forms a Canefinder shifter can take with shifter asp
 
 ### Monkey
 
-**Minor Form**: You gain a +4 competence bonus on Climb and acrobatics checks. This bonus increases to +6 at 8th level and +8 at 13th level.
+**Minor Form**: You gain a +4 competence bonus on [Climb](../../rules/skills/climb.md) and acrobatics checks. This bonus increases to +6 at 8th level and +8 at 13th level.
 
 ### Mouse
 
@@ -221,11 +221,11 @@ These aspects are the minor forms a Canefinder shifter can take with shifter asp
 
 ### Octopus
 
-**Minor Form**: You gain a +2 competence bonus on Escape Artist and Grapple checks. It increases to +4 at 8th level and +6 at 13th level.
+**Minor Form**: You gain a +2 competence bonus on [Escape Artist](../../rules/skills/escape-artist.md) and Grapple checks. It increases to +4 at 8th level and +6 at 13th level.
 
 ### Owl
 
-**Minor Form**: You gain a +4 competence bonus on Stealth checks. This bonus increases to +6 at 8th level and +8 at 13th level.
+**Minor Form**: You gain a +4 competence bonus on [Stealth](../../rules/skills/stealth.md) checks. This bonus increases to +6 at 8th level and +8 at 13th level.
 
 ### Peafowl
 

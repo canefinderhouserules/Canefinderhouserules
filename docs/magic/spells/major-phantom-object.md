@@ -9,4 +9,4 @@
 **Spell Resistance** yes  
 **Save** Will negates
 
-This spell functions as the *major creation spell*, except as noted above and the object created is a semi-real phantasm. Any creature that interacts with the object may make a Will save, with success causing the object to cease to exist. A gnome casting this spell may make a Spellcraft check in place of any Craft check required to make a complex item.
+This spell functions as the *major creation spell*, except as noted above and the object created is a semi-real phantasm. Any creature that interacts with the object may make a Will save, with success causing the object to cease to exist. A gnome casting this spell may make a [Spellcraft](../../rules/skills/spellcraft.md) check in place of any [Craft](../../rules/skills/craft.md) check required to make a complex item.

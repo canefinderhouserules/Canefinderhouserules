@@ -45,7 +45,7 @@ The storm worker's class skills (and the key ability for each skill) are Fly (De
 
 The following are class features of the storm worker prestige class.
 
-**Oceanic Spirit (Su)**: A storm worker gains a bonus equal to her class level on Fly and Swim checks, and never needs to attempt concentration checks because of natural weather. She gains resistance to electricity 5 and sonic 5. At 5th level, her resistance to electricity and sonic increases to 10. At 9th level, these resistances increase to 20.
+**Oceanic Spirit (Su)**: A storm worker gains a bonus equal to her class level on [Fly](../../rules/skills/fly.md) and [Swim](../../rules/skills/swim.md) checks, and never needs to attempt concentration checks because of natural weather. She gains resistance to electricity 5 and sonic 5. At 5th level, her resistance to electricity and sonic increases to 10. At 9th level, these resistances increase to 20.
 
 **Seasight (Su)**: At 2nd level, a storm worker can see through fog, smoke, and other obscuring vapors as if they did not exist. This ability functions underwater as well, allowing the storm worker to see through thick silt and other aquatic precipitates.
 
@@ -57,7 +57,7 @@ As a swift action, the storm worker can change the height of her whirlwind form 
 
 **Wave Breaker (Su)**: At 4th level, a storm worker gains a swim speed equal to twice her base land speed. She can breathe water for a number of hours per day equal to her storm worker level. This time need not be consecutive, but must be spent in 1-hour increments.
 
-**Thunderstruck (Su)**: At 5th level, a storm worker becomes immune to the deafened condition.
+**Thunderstruck (Su)**: At 5th level, a storm worker becomes immune to the [deafened](../../rules/appendices/conditions.md#deafened) condition.
 
 **Weather’s Fury (Su)**: At 6th level, a storm worker can deal additional damage with her storm shape. In addition to her unarmed strike damage, she deals 3d6 points of electricity damage (while in whirlwind form) or cold damage (while in vortex form) to each creature that fails its Reflex saves. This damage increases to 4d6 at 8th level, and 5d6 at 10th level.
 

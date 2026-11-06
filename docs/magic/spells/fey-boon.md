@@ -94,7 +94,7 @@ Despite their quick tempers, oceanids save their bane only for those who particu
 
 Boon : You can summon a shroud of the oceanid’s water to protect and serve you. You gain the kineticist’s basic hydrokinesis wild talent and shroud of water defense wild talent, as a kineticist with a level equal to your Hit Dice. You cannot accept burn when using these talents unless you have the burn class feature. If you are a hydrokineticist, you instead gain a +2 enhancement bonus on attack and damage rolls with water-based kinetic blasts. This boon has a duration of 1 day per caster level (9 days for a typical oceanid).
 
-Bane : Your body becomes extremely withered and dehydrated, and no amount of water can restore you. You are exhausted and cannot recover from the exhausted condition while this curse is in effect. In addition, your dry tongue and cracked lips impose a 20% spell failure chance on any spell with verbal components that you attempt to cast. This bane is permanent.
+Bane : Your body becomes extremely withered and dehydrated, and no amount of water can restore you. You are [exhausted](../../rules/appendices/conditions.md#exhausted) and cannot recover from the exhausted condition while this curse is in effect. In addition, your dry tongue and cracked lips impose a 20% spell failure chance on any spell with verbal components that you attempt to cast. This bane is permanent.
 
 Quickling
 

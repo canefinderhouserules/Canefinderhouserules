@@ -6,7 +6,7 @@ Gripplis stand just over 2 feet tall and have mottled green-and-brown skin. Most
 
 **+2 Dexterity, +2 Wisdom, –2 Strength**: Gripplis are nimble and alert, but spindly.
 
-**Small**: Gripplis are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on Stealth checks.
+**Small**: Gripplis are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on [Stealth](../../rules/skills/stealth.md) checks.
 
 **Grippli**: Gripplis are humanoids with the grippli subtype.
 
@@ -26,11 +26,11 @@ Gripplis stand just over 2 feet tall and have mottled green-and-brown skin. Most
 
 The following racial traits may be selected instead of existing grippli racial traits. Consult your GM before selecting any of these new options.
 
-**Glider**: Gripplis’ aerodynamic bodies and thick webbing between the toes enable a falling grippli to treat the distance fallen as half the actual distance. The grippli can steer himself while falling, moving horizontally up to a number of feet equal to half the vertical distance fallen. The grippli cannot use this trait if it is wearing heavy armor, is carrying a heavy load, or is unable to react to the fall (such as being helpless). This racial trait replaces swamp stride.
+**Glider**: Gripplis’ aerodynamic bodies and thick webbing between the toes enable a falling grippli to treat the distance fallen as half the actual distance. The grippli can steer himself while falling, moving horizontally up to a number of feet equal to half the vertical distance fallen. The grippli cannot use this trait if it is wearing heavy armor, is carrying a heavy load, or is unable to react to the fall (such as being [helpless](../../rules/appendices/conditions.md#helpless)). This racial trait replaces swamp stride.
 
-**Jumper**: Gripplis with this trait are always considered to have a running start when making Acrobatics checks to jump. This racial trait replaces camouflage.
+**Jumper**: Gripplis with this trait are always considered to have a running start when making [Acrobatics](../../rules/skills/acrobatics.md) checks to jump. This racial trait replaces camouflage.
 
-**Princely**: The grippli gains proficiency with [rapiers](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons) and a +2 racial bonus on Diplomacy and Intimidate checks. This racial trait replaces swamp stride and weapon familiarity.
+**Princely**: The grippli gains proficiency with [rapiers](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons) and a +2 racial bonus on [Diplomacy](../../rules/skills/diplomacy.md) and [Intimidate](../../rules/skills/intimidate.md) checks. This racial trait replaces swamp stride and weapon familiarity.
 
 **Toxic Skin (Ex)**: Once per day as a swift action, a grippli can create a poison that can be applied to a weapon or delivered as a touch attack. Alternatively, the grippli can smear the poison on its own body as a standard action, affecting the first creature to hit it with an unarmed strike or natural weapon. The poison loses its potency after 1 hour. The grippli is immune to its own poison. This racial trait replaces swamp stride and camouflage.
 
@@ -46,11 +46,11 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 **Gunslinger**: Add a +1/4 bonus on attack rolls when making a utility shot or a dead shot.
 
-**Rogue**: Add a +1/2 bonus on Perception checks while in a forest or swamp.
+**Rogue**: Add a +1/2 bonus on [Perception](../../rules/skills/perception.md) checks while in a forest or swamp.
 
-**Ranger**: Add a +1 racial bonus on Swim skill checks. When this bonus reaches +8, the ranger gains a swim speed of 15 feet (this does not grant the ranger another +8 racial bonus on Swim checks).
+**Ranger**: Add a +1 racial bonus on [Swim](../../rules/skills/swim.md) skill checks. When this bonus reaches +8, the ranger gains a swim speed of 15 feet (this does not grant the ranger another +8 racial bonus on Swim checks).
 
-**Shifter (Ultimate Wilderness)**: Add a +1 bonus on Survival checks to follow tracks through swamps.
+**Shifter (Ultimate Wilderness)**: Add a +1 bonus on [Survival](../../rules/skills/survival.md) checks to follow tracks through swamps.
 
 **Legendary Kineticist**: Add 1/3 to the DCs of poisons delivered through a poison or wood-element infusion and to the save DCs of poison and wood wild talents which are treated as poison effects.
 
@@ -70,7 +70,7 @@ Gripplis also have the following options.
 
 **Slayer**: Add 1/3 to the damage the slayer deals with bone weapons (maximum +4).
 
-**Swashbuckler**: Add 1/2 to the swashbuckler's Acrobatics, Climb, Escape Artist, Fly, Ride, and Swim checks when using the derring-do deed.
+**Swashbuckler**: Add 1/2 to the swashbuckler's Acrobatics, [Climb](../../rules/skills/climb.md), [Escape Artist](../../rules/skills/escape-artist.md), [Fly](../../rules/skills/fly.md), [Ride](../../rules/skills/ride.md), and Swim checks when using the derring-do deed.
 
 **Witch**: Add 1/3 to the saving throw DC to resist the poison of the witch's familiar.
 

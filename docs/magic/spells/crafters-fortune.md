@@ -8,4 +8,4 @@
 **Duration** 1 day/level or until discharged (D)  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes
 
-The target is struck by inspiration and gains a +5 luck bonus on its next Craft skill check.
+The target is struck by inspiration and gains a +5 luck bonus on its next [Craft](../../rules/skills/craft.md) skill check.

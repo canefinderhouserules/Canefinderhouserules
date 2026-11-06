@@ -8,4 +8,4 @@
 **Duration** 1 minute/level (D)  
 **Saving Throw** : Will negates; Spell Resistance: yes
 
-You suppress sounds made by the targets, granting them a +4 bonus on Stealth checks. The targets have a 20% chance of spell failure when casting spells with verbal components or using abilities that have audible components (such as some bardic performances). This spell does not hamper the targets’ ability to hear other sounds and provides no protection against language-dependent or sonic spells and effects.
+You suppress sounds made by the targets, granting them a +4 bonus on [Stealth](../../rules/skills/stealth.md) checks. The targets have a 20% chance of spell failure when casting spells with verbal components or using abilities that have audible components (such as some bardic performances). This spell does not hamper the targets’ ability to hear other sounds and provides no protection against language-dependent or sonic spells and effects.

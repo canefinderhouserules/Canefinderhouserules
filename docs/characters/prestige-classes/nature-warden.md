@@ -55,11 +55,11 @@ The following are class features of the nature warden prestige class.
 
 **Companion Bond (Ex)**: At 1st level, a nature warden’s class levels stack with levels in all classes that grant an animal companion for the purpose of determining her animal companion’s abilities. The nature warden and her animal companion have an empathic link like that between a wizard and his familiar. At 5th level, the nature warden’s animal companion gains the same benefits the warden does when in the warden’s favored terrain.
 
-**Natural Empathy (Ex)**: For the purpose of the wild empathy ability, a nature warden’s class level stacks with levels in all classes with the wild empathy ability. When in her favored terrain, a nature warden adds her favored terrain bonus to wild empathy checks. She may also choose to use wild empathy to demoralize an animal or magical beast rather than improving its attitude, as if using Intimidate rather than Diplomacy.
+**Natural Empathy (Ex)**: For the purpose of the wild empathy ability, a nature warden’s class level stacks with levels in all classes with the wild empathy ability. When in her favored terrain, a nature warden adds her favored terrain bonus to wild empathy checks. She may also choose to use wild empathy to demoralize an animal or magical beast rather than improving its attitude, as if using Intimidate rather than [Diplomacy](../../rules/skills/diplomacy.md).
 
 At 4th level, a nature warden no longer suffers a penalty when using wild empathy to influence or demoralize magical beasts. At 7th level, she may use wild empathy to affect vermin (whether mindless or with Intelligence 1 or 2). At 10th level, she may use it to affect plant creatures (whether mindless or with Intelligence 1 or 2).
 
-**Mystic Harmony (Su)**: At 2nd level, a nature warden in her favored terrain gains an insight bonus to AC equal to half her favored terrain bonus. She loses this bonus when she is immobilized or helpless.
+**Mystic Harmony (Su)**: At 2nd level, a nature warden in her favored terrain gains an insight bonus to AC equal to half her favored terrain bonus. She loses this bonus when she is immobilized or [helpless](../../rules/appendices/conditions.md#helpless).
 
 **Wild Stride (Ex)**: At 2nd level, a nature warden and her animal companion gain the ability to move through natural hazards of her favored terrain (such as bogs, loose sand, snow, ice, rockslides, and so on) at her normal speed without taking damage or suffering any other impairment (in effect, this is the woodland stride ability applied to non-plant environmental hazards). Terrain hazards that have been magically manipulated to impede motion still affect her.
 

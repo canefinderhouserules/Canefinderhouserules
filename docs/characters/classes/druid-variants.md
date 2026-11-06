@@ -8,7 +8,7 @@ Shepherds of the lakes and seas, aquatic druids guard ecosystems ranging from sh
 
 **Wild Empathy (Ex)**: An aquatic druid’s wild empathy functions only on creatures that have a swim speed or the aquatic or water subtype; however, she can improve the attitude of any such creature with Intelligence 2 or less regardless of type, including mindless creatures.
 
-**Aquatic Adaptation (Ex)**: At 2nd level, an aquatic druid gains an insight bonus on Initiative checks and Knowledge (geography), Perception, Stealth, Survival, and Swim checks equal to 1/2 her druid level in aquatic terrain, and she cannot be tracked such environments. This ability replaces woodland stride.
+**Aquatic Adaptation (Ex)**: At 2nd level, an aquatic druid gains an insight bonus on Initiative checks and [Knowledge](../../rules/skills/knowledge.md) (geography), [Perception](../../rules/skills/perception.md), [Stealth](../../rules/skills/stealth.md), [Survival](../../rules/skills/survival.md), and [Swim](../../rules/skills/swim.md) checks equal to 1/2 her druid level in aquatic terrain, and she cannot be tracked such environments. This ability replaces woodland stride.
 
 **Natural Swimmer (Ex)**: At 3rd level, an aquatic druid gains a swim speed equal to half her land speed. This ability replaces trackless step.
 
@@ -28,9 +28,9 @@ An arctic druid watches over the stark landscape of the far frozen reaches of th
 
 **Arctic Native (Ex)**: At 2nd level, an arctic druid gains a bonus on Initiative checks and Knowledge (geography), Perception, Stealth, and Survival checks equal to 1/2 her druid level in cold or icy terrain, and she cannot be tracked in cold or icy terrain. This ability replaces woodland stride.
 
-**Icewalking (Ex)**: At 3rd level, an arctic druid suffers no penalty to speed or on Acrobatics, Climb, or Stealth checks in snowy or icy terrain or weather conditions and can walk across snow crusts or thin ice without breaking through. This ability replaces trackless step.
+**Icewalking (Ex)**: At 3rd level, an arctic druid suffers no penalty to speed or on [Acrobatics](../../rules/skills/acrobatics.md), [Climb](../../rules/skills/climb.md), or Stealth checks in snowy or icy terrain or weather conditions and can walk across snow crusts or thin ice without breaking through. This ability replaces trackless step.
 
-**Arctic Endurance (Ex)**: At 4th level, an arctic druid ignores the effects of a cold climate as if using endure elements. She is also immune to being dazzled. This ability replaces resist nature’s lure.
+**Arctic Endurance (Ex)**: At 4th level, an arctic druid ignores the effects of a cold climate as if using endure elements. She is also immune to being [dazzled](../../rules/appendices/conditions.md#dazzled). This ability replaces resist nature’s lure.
 
 **Wild Shape (Su)**: An arctic druid gains this ability at 6th level, except that her effective druid level for this ability is equal to her druid level – 2.
 
@@ -48,7 +48,7 @@ The devoted servants of nature corrupted, ruined, and destroyed, blight druids a
 
 Vermin have a starting attitude of unfriendly. The blight druid can also improve the attitude of animals and mindless undead creatures that were formerly animals, but she takes a –4 penalty on the check unless the animal or undead has a disease special attack. This ability replaces wild empathy.
 
-**Miasma (Ex)**: Starting at 5th level, if a blight druid is adjacent to a creature at the beginning of its turn, the creature must succeed at a Fortitude save with a DC of 10 + 1/2 the druid’s level + the druid’s Wisdom modifier or become sickened for 1 round. A creature of the animal, fey, or plant type that fails its save is nauseated for 1 round and sickened for 1 minute thereafter. If the creature makes its save, it is immune to this effect for 24 hours, as are creatures immune to disease. This ability replaces trackless step and resist nature’s lure.
+**Miasma (Ex)**: Starting at 5th level, if a blight druid is adjacent to a creature at the beginning of its turn, the creature must succeed at a Fortitude save with a DC of 10 + 1/2 the druid’s level + the druid’s Wisdom modifier or become [sickened](../../rules/appendices/conditions.md#sickened) for 1 round. A creature of the animal, fey, or plant type that fails its save is [nauseated](../../rules/appendices/conditions.md#nauseated) for 1 round and sickened for 1 minute thereafter. If the creature makes its save, it is immune to this effect for 24 hours, as are creatures immune to disease. This ability replaces trackless step and resist nature’s lure.
 
 **Blightblooded (Ex)**: At 9th level, a blight druid gains immunity to all diseases, including natural and supernatural diseases. She also becomes immune to effects that would cause her to become sickened or nauseated.
 
@@ -116,7 +116,7 @@ As more and more of the soft, easy lands become cultivated and civilized, many d
 
 **Wild Shape (Su)**: A mountain druid gains this ability at 6th level, except that her effective druid level for the ability is equal to her druid level – 2. A mountain druid cannot use wild shape to adopt a plant form. However, at 12th level she can assume the form of a Large giant as if using giant form I. At 16th level, she may assume the form of a Huge giant as if using giant form II.
 
-**Mountain Stance (Ex)**: At 9th level, a mountain druid gains immunity to petrification and receives a +4 bonus on saving throws or to CMD to resist any attempt to push, pull, bull rush, or drag her, or to resist any other effect that would physically move her from her position (e.g., repel wood, reverse gravity, or being blown away by high winds). This does not protect her against being tripped, grappled, or overrun. This ability replaces venom immunity.
+**Mountain Stance (Ex)**: At 9th level, a mountain druid gains immunity to petrification and receives a +4 bonus on saving throws or to CMD to resist any attempt to push, pull, bull rush, or drag her, or to resist any other effect that would physically move her from her position (e.g., repel wood, reverse gravity, or being blown away by high winds). This does not protect her against being tripped, [grappled](../../rules/appendices/conditions.md#grappled), or overrun. This ability replaces venom immunity.
 
 **Mountain Stone (Ex)**: At 13th level, a mountain druid can transform her body into a weathered stone outcrop and back at will. This effect functions as statue. This ability replaces a thousand faces.
 
@@ -128,7 +128,7 @@ Out upon the wide and rolling prairies and savannahs, plains druids stand guard 
 
 **Run Like the Wind (Ex)**: At 3rd level, a plains druid gains +10 feet to her land speed when wearing light or no armor and carrying a light load, and once per hour, she may run or charge at double the normal speed for 1 round. If riding her animal companion, it gains this ability instead. This ability replaces trackless step.
 
-**Savanna Ambush (Ex)**: At 4th level, a plains druid gains concealment whenever she is prone in natural surroundings, and can make Stealth checks at no penalty when prone and not moving or at –5 when crawling. A plains druid can stand up from prone as an immediate action during a surprise round. This ability replaces resist nature’s lure.
+**Savanna Ambush (Ex)**: At 4th level, a plains druid gains concealment whenever she is [prone](../../rules/appendices/conditions.md#prone) in natural surroundings, and can make Stealth checks at no penalty when prone and not moving or at –5 when crawling. A plains druid can stand up from prone as an immediate action during a surprise round. This ability replaces resist nature’s lure.
 
 **Wild Shape (Su)**: A plains druid gains this ability at 6th level, except that her effective druid level for the ability is equal to her druid level – 2.
 
@@ -158,7 +158,7 @@ While many druids keep to the wilderness, some make their way within settlements
 
 **Nature Bond (Ex)**: An urban druid may not select an animal companion. Instead, she must choose from the following domains, rather than those usually available to druids: Charm, Community, Knowledge, Nobility, Protection, Repose, Rune, or Weather.
 
-**Lorekeeper (Ex)**: At 2nd level, an urban druid adds Diplomacy, Knowledge (history), Knowledge (local), and Knowledge (nobility) skills to her list of class skills. She also receives a +2 bonus on these skill checks. This ability replaces a [druid’s woodland stride](druid.md#woodland-stride-ex) and trackless step abilities.
+**Lorekeeper (Ex)**: At 2nd level, an urban druid adds [Diplomacy](../../rules/skills/diplomacy.md), Knowledge (history), Knowledge (local), and Knowledge (nobility) skills to her list of class skills. She also receives a +2 bonus on these skill checks. This ability replaces a [druid’s woodland stride](druid.md#woodland-stride-ex) and trackless step abilities.
 
 **Resist Temptation (Ex)**: At 4th level, an urban druid gains a +2 bonus on saves vs. divinations and enchantments.
 

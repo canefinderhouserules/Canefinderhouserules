@@ -8,4 +8,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-Youfillyourtarget’smindwithablaringcacophonyofdiscordant sounds, making it hard for the target to act and concentrate. The creature gains the nauseated condition for the duration of the spell if it fails its Will save.
+Youfillyourtarget’smindwithablaringcacophonyofdiscordant sounds, making it hard for the target to act and concentrate. The creature gains the [nauseated](../../rules/appendices/conditions.md#nauseated) condition for the duration of the spell if it fails its Will save.

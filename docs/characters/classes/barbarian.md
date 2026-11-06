@@ -53,9 +53,9 @@ A barbarian’s base speed is faster than the norm for her race by +10 feet. Thi
 
 A barbarian can call upon inner reserves of strength and ferocity, granting her additional combat prowess. Starting at 1st level, a barbarian can rage for a number of rounds per day equal to 4 + her Constitution modifier. At each level after 1st, she can rage for 2 additional rounds. Temporary increases to Constitution, such as those gained from rage and spells like *bear’s* *endurance,* do not increase the total number of rounds that a barbarian can rage per day. A barbarian can enter rage as a free action. The total number of rounds of rage per day is renewed after resting for 8 hours, although these hours do not need to be consecutive.
 
-While in rage, a barbarian gains a +4 morale bonus to her Strength and Constitution, as well as a +2 morale bonus on Will saves. In addition, she takes a –2 penalty to Armor Class. The increase to Constitution grants the barbarian 2 hit points per Hit Dice, but these disappear when the rage ends and are not lost first like temporary hit points. While in rage, a barbarian cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except Acrobatics, Fly, Intimidate, and Ride) or any ability that requires patience or concentration.
+While in rage, a barbarian gains a +4 morale bonus to her Strength and Constitution, as well as a +2 morale bonus on Will saves. In addition, she takes a –2 penalty to Armor Class. The increase to Constitution grants the barbarian 2 hit points per Hit Dice, but these disappear when the rage ends and are not lost first like temporary hit points. While in rage, a barbarian cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except [Acrobatics](../../rules/skills/acrobatics.md), [Fly](../../rules/skills/fly.md), [Intimidate](../../rules/skills/intimidate.md), and [Ride](../../rules/skills/ride.md)) or any ability that requires patience or concentration.
 
-A barbarian can end her rage as a free action and is fatigued after rage for a number of rounds equal to 2 times the number of rounds spent in the rage. A barbarian cannot enter a new rage while fatigued or exhausted but can otherwise enter rage multiple times during a single encounter or combat. If a barbarian falls unconscious, her rage immediately ends, placing her in peril of death.
+A barbarian can end her rage as a free action and is [fatigued](../../rules/appendices/conditions.md#fatigued) after rage for a number of rounds equal to 2 times the number of rounds spent in the rage. A barbarian cannot enter a new rage while fatigued or [exhausted](../../rules/appendices/conditions.md#exhausted) but can otherwise enter rage multiple times during a single encounter or combat. If a barbarian falls [unconscious](../../rules/appendices/conditions.md#unconscious), her rage immediately ends, placing her in peril of death.
 
 ### Rage Powers (Ex)
 
@@ -65,13 +65,13 @@ As a barbarian gains levels, she learns to use her rage in new ways. Starting at
 
 *Clear Mind* *(Ex)*: A barbarian may reroll a Will save. This power is used as an immediate action after the first save is attempted, but before the results are revealed by the GM. The barbarian must take the second result, even if it is worse. A barbarian must be at least 8th level before selecting this power. This power can only be used once per rage.
 
-*Fearless Rage (Ex)*: While raging, the barbarian is immune to the shaken and frightened conditions. A barbarian must be at least 12th level before selecting this rage power.
+*Fearless Rage (Ex)*: While raging, the barbarian is immune to the [shaken](../../rules/appendices/conditions.md#shaken) and [frightened](../../rules/appendices/conditions.md#frightened) conditions. A barbarian must be at least 12th level before selecting this rage power.
 
 *Guarded Stance* *(Ex)*: The barbarian gains a +1 dodge bonus to her Armor Class against melee attacks for a number of rounds equal to the barbarian’s current Constitution modifier (minimum 1). This bonus increases by +1 for every 6 levels the barbarian has attained. Activating this ability is a move action that does not provoke an attack of opportunity.
 
 *Increased Damage Reduction* *(Ex)*: The barbarian’s damage reduction increases by 1/—. This increase is always active while the barbarian is raging. A barbarian can select this rage power up to three times. Its effects stack. A barbarian must be at least 8th level before selecting this rage power.
 
-*Internal Fortitude (Ex)*: While raging, the barbarian is immune to the sickened and nauseated conditions. A barbarian must be at least 8th level before selecting this rage power.
+*Internal Fortitude (Ex)*: While raging, the barbarian is immune to the [sickened](../../rules/appendices/conditions.md#sickened) and [nauseated](../../rules/appendices/conditions.md#nauseated) conditions. A barbarian must be at least 8th level before selecting this rage power.
 
 *Intimidating Glare* *(Ex)*: The barbarian can make an Intimidate check against one adjacent foe as a move action. If the barbarian successfully demoralizes her opponent, the foe is shaken for 1d4 rounds + 1 round for every 5 points by which the barbarian’s check exceeds the DC.
 
@@ -91,11 +91,11 @@ As a barbarian gains levels, she learns to use her rage in new ways. Starting at
 
 *Quick Reflexes (Ex)*: While raging, the barbarian can make one additional attack of opportunity per round.
 
-*Raging Climber (Ex)*: When raging, the barbarian adds her level as an enhancement bonus on all Climb skill checks.
+*Raging Climber (Ex)*: When raging, the barbarian adds her level as an enhancement bonus on all [Climb](../../rules/skills/climb.md) skill checks.
 
 *Raging Leaper (Ex)*: When raging, the barbarian adds her level as an enhancement bonus on all Acrobatics skill checks made to jump. When making a jump in this way, the barbarian is always considered to have a running start.
 
-*Raging Swimmer (Ex)*: When raging, the barbarian adds her level as an enhancement bonus on all Swim skill checks.
+*Raging Swimmer (Ex)*: When raging, the barbarian adds her level as an enhancement bonus on all [Swim](../../rules/skills/swim.md) skill checks.
 
 *Renewed Vigor* *(Ex)*: As a standard action, the barbarian heals 1d8 points of damage + her Constitution modifier. For every four levels the barbarian has attained above 4th, this amount of damage healed increases by 1d8, to a maximum of 5d8 at 20th level. A barbarian must be at least 4th level before selecting this power. This power can be used only once per day and only while raging.
 
@@ -113,13 +113,13 @@ As a barbarian gains levels, she learns to use her rage in new ways. Starting at
 
 *Swift Foot* *(Ex)*: The barbarian gains a 5-foot enhancement bonus to her base speed. This increase is always active while the barbarian is raging. A barbarian can select this rage power up to three times. Its effects stack.
 
-*Terrifying Howl* *(Ex)*: The barbarian unleashes a terrifying howl as a standard action. All shaken enemies within 30 feet must make a Will save (DC equal to 10 + 1/2 the barbarian’s level + the barbarian’s Strength modifier) or be panicked for 1d4+1 rounds. Once an enemy has made a save versus terrifying howl (successful or not), it is immune to this power for 24 hours. A barbarian must have the intimidating glare rage power to select this rage power. A barbarian must be at least 8th level before selecting this power.
+*Terrifying Howl* *(Ex)*: The barbarian unleashes a terrifying howl as a standard action. All shaken enemies within 30 feet must make a Will save (DC equal to 10 + 1/2 the barbarian’s level + the barbarian’s Strength modifier) or be [panicked](../../rules/appendices/conditions.md#panicked) for 1d4+1 rounds. Once an enemy has made a save versus terrifying howl (successful or not), it is immune to this power for 24 hours. A barbarian must have the intimidating glare rage power to select this rage power. A barbarian must be at least 8th level before selecting this power.
 
 *Unexpected Strike (Ex)*: The barbarian can make an attack of opportunity against a foe that moves into any square threatened by the barbarian, regardless of whether or not that movement would normally provoke an attack of opportunity. This power can only be used once per rage. A barbarian must be at least 8th level before selecting this power.
 
 ### Uncanny Dodge (Ex)
 
-At 2nd level, a barbarian gains the ability to react to danger before her senses would normally allow her to do so. She cannot be caught flat-footed, nor does she lose her Dex bonus to AC if the attacker is invisible. She still loses her Dexterity bonus to AC if immobilized. A barbarian with this ability can still lose her Dexterity bonus to AC if an opponent successfully uses the feint action against her.
+At 2nd level, a barbarian gains the ability to react to danger before her senses would normally allow her to do so. She cannot be caught [flat-footed](../../rules/appendices/conditions.md#flat-footed), nor does she lose her Dex bonus to AC if the attacker is invisible. She still loses her Dexterity bonus to AC if immobilized. A barbarian with this ability can still lose her Dexterity bonus to AC if an opponent successfully uses the feint action against her.
 
 If a barbarian already has uncanny dodge from a different class, she automatically gains improved uncanny dodge (see below) instead.
 

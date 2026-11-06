@@ -7,7 +7,7 @@
 
 You are skilled at fooling your opponents in combat.
 
-**Benefit**: You can make a Bluff check to feint in combat as a move action.
+**Benefit**: You can make a [Bluff](../skills/bluff.md) check to feint in combat as a move action.
 
 **Normal**: Feinting in combat is a standard action.
 

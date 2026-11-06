@@ -10,7 +10,7 @@ Spellcasters frequently seek out lesser dragons to serve as familiars because of
 
 **CR 2**; N Diminutive dragon; **Init** +7; **Senses** blindsight 60 ft., darkvision 60 ft., low-light vision; Perception +7
 
-**AC** 17, touch 17, flat-footed 14 (+3 Dex, +4 size); **hp** 19 (3d12); **Fort** +3, **Ref** +6, **Will** +4; **Immune** paralysis, sleep
+**AC** 17, touch 17, [flat-footed](../../rules/appendices/conditions.md#flat-footed) 14 (+3 Dex, +4 size); **hp** 19 (3d12); **Fort** +3, **Ref** +6, **Will** +4; **Immune** paralysis, sleep
 
 **Speed** 10 ft., fly 80 ft. (average); **Melee** gore +10 (1d2–3); **Space** 1 ft.; **Reach** 0 ft.; **Special Attacks** ink spray, sneak attack +2d6
 
@@ -20,9 +20,9 @@ Spellcasters frequently seek out lesser dragons to serve as familiars because of
 
 **Feats** Improved Initiative, Weapon Finesse; **Skills** Bluff +7, Craft (calligraphy) +7, Fly +15, Knowledge (arcana) +7, Linguistics +7, Perception +7, Spellcraft +7; **Languages** Celestial, Common, Draconic, Infernal; **SQ** change shape (golden pen)
 
-**Change Shape (Su)**: As a full-round action, a calligraphy wyrm can turn into a golden fountain pen. The wyrm gains hardness 5 but loses all its senses except hearing and blindsight, and cannot take any actions other than to return to its dragon form as a full-round action. The golden pen counts as a masterwork tool for the purpose of Craft (calligraphy) checks.
+**Change Shape (Su)**: As a full-round action, a calligraphy wyrm can turn into a golden fountain pen. The wyrm gains hardness 5 but loses all its senses except hearing and blindsight, and cannot take any actions other than to return to its dragon form as a full-round action. The golden pen counts as a masterwork tool for the purpose of [Craft](../../rules/skills/craft.md) (calligraphy) checks.
 
-**Ink Spray (Ex)**: As a standard action every 2d4 rounds, a calligraphy wyrm can sneeze a 10-foot cone of ink. Creatures must succeed at a DC 12 Reflex save or be covered in ink. Affected creatures are treated as though they had failed a saving throw against *glitterdust*, except that affected creatures don't take a penalty on Stealth checks, and can remove the blinded condition automatically as a standard action. The save DC is Charisma-based.
+**Ink Spray (Ex)**: As a standard action every 2d4 rounds, a calligraphy wyrm can sneeze a 10-foot cone of ink. Creatures must succeed at a DC 12 Reflex save or be covered in ink. Affected creatures are treated as though they had failed a saving throw against *glitterdust*, except that affected creatures don't take a penalty on [Stealth](../../rules/skills/stealth.md) checks, and can remove the [blinded](../../rules/appendices/conditions.md#blinded) condition automatically as a standard action. The save DC is Charisma-based.
 
 Calligraphy wyrms were created to serve as lore-keepers in mountain lairs and now settle mostly in large towns or cities, seeking new lore and forms of writing. Because of their natural proclivity for reading and recording information, they often wind up lurking around libraries and colleges, serving wizards, bards, and loremasters as familiars and assistants. Most learn to speak several languages, though many creatures find their chirping voices and know-it-all attitudes obnoxious. A 7th-level spellcaster with the Improved Familiar feat can gain a calligraphy wyrm as a familiar. A calligraphy wyrm is about 7 inches long and weighs about 1 pound.
 

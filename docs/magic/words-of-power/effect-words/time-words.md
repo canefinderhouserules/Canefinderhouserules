@@ -39,7 +39,7 @@ Target Restrictions selected The target of a wordspell with this effect word can
 **Saving Throw** Will negates; **Spell Resistance** yes  
 **Target Restrictions** selected
 
-The target of a wordspell with this effect word is staggered for this effect word’s duration. The target is allowed a new saving throw against this effect word at the end of each of its turns; a successful save ends the duration of this effect word.
+The target of a wordspell with this effect word is [staggered](../../../rules/appendices/conditions.md#staggered) for this effect word’s duration. The target is allowed a new saving throw against this effect word at the end of each of its turns; a successful save ends the duration of this effect word.
 
 **Boost**: The target of a wordspell with this effect word does not receive any additional saving throws to end the effect. If the target fails the first saving throw, it is staggered for the entire duration.
 
@@ -60,7 +60,7 @@ The target of a wordspell with this effect word can look into the future of one 
 
 (harmless)
 
-Target Restrictions selected The target of a wordspell with this effect word takes either a standard action and a move action or a full-round action immediately after a wordspell with this effect word is cast. The target skips its next turn, but any effects that would occur on its turn or spell effects that would expire on its turn occur normally. The target is not helpless on its next turn, but can take no actions.
+Target Restrictions selected The target of a wordspell with this effect word takes either a standard action and a move action or a full-round action immediately after a wordspell with this effect word is cast. The target skips its next turn, but any effects that would occur on its turn or spell effects that would expire on its turn occur normally. The target is not [helpless](../../../rules/appendices/conditions.md#helpless) on its next turn, but can take no actions.
 
 **Boost**: Instead of losing its next turn, the target of a wordspell with this effect word is staggered on its next turn.
 

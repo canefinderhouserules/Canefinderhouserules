@@ -8,4 +8,4 @@
 **Duration** 10 minutes/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-The target’s buoyancy becomes and stays swiftly rising, regardless of how dense the target and its gear are. Among other effects, the target needs to succeed at a DC 20 Swim check to submerge itself and to stay submerged (see Buoyancy).
+The target’s buoyancy becomes and stays swiftly rising, regardless of how dense the target and its gear are. Among other effects, the target needs to succeed at a DC 20 [Swim](../../rules/skills/swim.md) check to submerge itself and to stay submerged (see Buoyancy).

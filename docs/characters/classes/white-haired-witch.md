@@ -16,7 +16,7 @@ At 6th level, the White-Haired Witch counts her level as her basic attack bonus 
 
 This alters the witch’s base attack bonus and HD.
 
-**White Hair (Su):** At 1st level, a white-haired witch gains the ability to use her hair as a weapon. This functions as a primary natural attack with a reach of 5 feet. The hair deals 1d4 points of damage (1d3 for a Small witch) plus the witch’s Intelligence modifier. In addition, whenever the hair strikes a foe, the witch can attempt to grapple that foe with her hair as a free action without provoking an attack of opportunity, using her Intelligence modifier in place of her Strength modifier when making the combat maneuver check. When a white-haired witch grapples a foe in this way, she does not gain the grappled condition.
+**White Hair (Su):** At 1st level, a white-haired witch gains the ability to use her hair as a weapon. This functions as a primary natural attack with a reach of 5 feet. The hair deals 1d4 points of damage (1d3 for a Small witch) plus the witch’s Intelligence modifier. In addition, whenever the hair strikes a foe, the witch can attempt to grapple that foe with her hair as a free action without provoking an attack of opportunity, using her Intelligence modifier in place of her Strength modifier when making the combat maneuver check. When a white-haired witch grapples a foe in this way, she does not gain the [grappled](../../rules/appendices/conditions.md#grappled) condition.
 
 At 4th level and every four levels thereafter, a whitehaired witch’s hair adds 5 feet to its reach, to a maximum of 30 feet at 20th level.
 

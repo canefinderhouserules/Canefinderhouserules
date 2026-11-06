@@ -3,13 +3,13 @@
 !!! note "Source"
     Rules from *Pathfinder Roleplaying Game: Ultimate Wilderness*.
 
-Animal companion archetypes modify animal companions’ standard abilities, similar to how class archetypes modify player characters’ class features. You can typically apply these archetypes to animal companions, cavalier mounts, and paladin bonded mounts. These archetypes function by swapping out certain abilities that are common to standard companions and replacing them with new abilities tailored to a particular theme; if a particular animal companion alters, replaces, or simply doesn’t have the appropriate feature, you can’t apply the animal companion archetype to that animal companion. A cavalier or samurai mount can take animal companion archetypes that replace share spells by replacing the mount’s Light Armor Proficiency feat and its master’s ability to ignore the armor check penalty on Ride checks, but only if the master didn’t alter or replace those abilities with an archetype. Animal companions with more than one natural attack and only primary natural attacks can’t take a companion archetype that trades out Multiattack. Where levels are referenced in archetype descriptions, they refer to the class level of the companion’s master in whichever class grants the companion as a class feature.
+Animal companion archetypes modify animal companions’ standard abilities, similar to how class archetypes modify player characters’ class features. You can typically apply these archetypes to animal companions, cavalier mounts, and paladin bonded mounts. These archetypes function by swapping out certain abilities that are common to standard companions and replacing them with new abilities tailored to a particular theme; if a particular animal companion alters, replaces, or simply doesn’t have the appropriate feature, you can’t apply the animal companion archetype to that animal companion. A cavalier or samurai mount can take animal companion archetypes that replace share spells by replacing the mount’s Light Armor Proficiency feat and its master’s ability to ignore the armor check penalty on [Ride](../../rules/skills/ride.md) checks, but only if the master didn’t alter or replace those abilities with an archetype. Animal companions with more than one natural attack and only primary natural attacks can’t take a companion archetype that trades out Multiattack. Where levels are referenced in archetype descriptions, they refer to the class level of the companion’s master in whichever class grants the companion as a class feature.
 
 ## Aberrant Companion
 
 There’s something oddly wrong about aberrant companions. Yet though they’re touched by eldritch magic or mutated by strange influences, they are still loyal, if unnatural, allies.
 
-**Aberrant Skills**: Aberrant companions treat Escape Artist and Intimidate as class skills.
+**Aberrant Skills**: Aberrant companions treat [Escape Artist](../../rules/skills/escape-artist.md) and Intimidate as class skills.
 
 **Not Quite Animal**: The DC to use Handle Animal on an aberrant companion is 5 higher, as if it were a nonanimal with an Intelligence score of 1 or 2.
 
@@ -23,9 +23,9 @@ There’s something oddly wrong about aberrant companions. Yet though they’re 
 
 Ambushers sneak up on unsuspecting prey, pouncing on targets when they least expect it.
 
-**Camouflage (Ex)**: An ambusher gains a +4 racial bonus on Stealth checks in its natural environment (if this is unclear, use the environment in its Bestiary entry). At 15th level, an ambusher can use the Stealth skill to hide in its natural environment, even if the environment doesn’t grant cover or concealment. This replaces share spells and improved evasion.
+**Camouflage (Ex)**: An ambusher gains a +4 racial bonus on [Stealth](../../rules/skills/stealth.md) checks in its natural environment (if this is unclear, use the environment in its Bestiary entry). At 15th level, an ambusher can use the Stealth skill to hide in its natural environment, even if the environment doesn’t grant cover or concealment. This replaces share spells and improved evasion.
 
-**Cunning Ambusher (Ex)**: At 3rd level, an ambusher gains uncanny dodge. At 6th level, an ambusher gains a +2 racial bonus on initiative checks, and during the surprise round, opponents are always considered flat-footed against the ambusher’s attacks, even if they have already acted. At 9th level, an ambusher gains a +2 morale bonus on attack and damage rolls during a surprise round. This replaces evasion, devotion, and Multiattack.
+**Cunning Ambusher (Ex)**: At 3rd level, an ambusher gains uncanny dodge. At 6th level, an ambusher gains a +2 racial bonus on initiative checks, and during the surprise round, opponents are always considered [flat-footed](../../rules/appendices/conditions.md#flat-footed) against the ambusher’s attacks, even if they have already acted. At 9th level, an ambusher gains a +2 morale bonus on attack and damage rolls during a surprise round. This replaces evasion, devotion, and Multiattack.
 
 ## Apex Species
 
@@ -90,7 +90,7 @@ Some companions live lives of faithful devotion and steady vigilance, standing w
 
 **Shared Vigilance (Ex)**: Both a bodyguard and its master gain Alertness as a bonus feat whenever they are adjacent. This replaces share spells.
 
-**Tenacious Guardian (Ex)**: At 3rd level, a bodyguard can always act in a surprise round (though it remains flat-footed until it acts). As long as its master is adjacent, a bodyguard remains conscious (though it becomes staggered) when its hit points fall below 0. While below 0 hit points, the bodyguard loses 1 hit point per round but gains a +2 morale bonus on attack rolls, saving throws, and skill checks, dying only if its hit points reach a negative total equal to its Constitution score plus its master’s class level. This replaces evasion.
+**Tenacious Guardian (Ex)**: At 3rd level, a bodyguard can always act in a surprise round (though it remains flat-footed until it acts). As long as its master is adjacent, a bodyguard remains conscious (though it becomes [staggered](../../rules/appendices/conditions.md#staggered)) when its hit points fall below 0. While below 0 hit points, the bodyguard loses 1 hit point per round but gains a +2 morale bonus on attack rolls, saving throws, and skill checks, dying only if its hit points reach a negative total equal to its Constitution score plus its master’s class level. This replaces evasion.
 
 **Uncanny Dodge (Ex)**: At 9th level, a bodyguard gains uncanny dodge as per the rogue class feature of the same name. This replaces Multiattack.
 
@@ -124,7 +124,7 @@ The mighty charger is a boon to heavily armored and armed champions, bearing the
 
 Daredevil companions join the fray with graceful leaps or swooping dives, heedless of the danger.
 
-**Artful Acrobat (Ex)**: A daredevil gains a competence bonus on Acrobatics checks equal to half its Hit Dice. This replaces share spells.
+**Artful Acrobat (Ex)**: A daredevil gains a competence bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks equal to half its Hit Dice. This replaces share spells.
 
 **Uncanny Dodge (Ex)**: At 6th level, a daredevil gains Mobility as a bonus feat without needing to meet the prerequisites. If it already has Mobility, it gains Spring Attack instead. This replaces devotion.
 
@@ -182,7 +182,7 @@ Feytouched companions are strangely colored fauna native to the First World, the
 
 **Fey Magic (Sp)**: A feytouched companion can cast dancing lights at will as a spell-like ability as a full-round action. At 3rd level, a feytouched companion can ready an action for its master’s spellcasting while adjacent to its master, to allow its master to spontaneously cast one of the following spells by sacrificing a spell slot of equal or higher level: faerie fire (1st), glitterdust (2nd), deep slumber (3rd), major image (4th), confusion (5th), feeblemind (7th), mislead (8th). A feytouched companion’s master can cast each of the spells on the list only once each day in this way. This replaces share spells and Multiattack.
 
-**Iron Bane (Ex)**: At 3rd level, a feytouched companion gains damage reduction 1/cold iron. This damage reduction increases by 1 for every 3 levels beyond 3rd. Any creature holding or wearing an item made out of cold iron takes a –10 penalty on Handle Animal checks to handle the feytouched companion. This replaces evasion, devotion, and improved evasion.
+**Iron Bane (Ex)**: At 3rd level, a feytouched companion gains damage reduction 1/cold iron. This damage reduction increases by 1 for every 3 levels beyond 3rd. Any creature holding or wearing an item made out of cold iron takes a –10 penalty on [Handle Animal](../../rules/skills/handle-animal.md) checks to handle the feytouched companion. This replaces evasion, devotion, and improved evasion.
 
 ## Precocious Companion
 
@@ -222,7 +222,7 @@ Some companions are expert trackers, able to use their scent ability to follow a
 
 **Tracker Skills**: Trackers treat Survival as a class skill.
 
-**Expert Tracker (Ex)**: A tracker gains a competence bonus on Survival checks to track via scent equal to half its total Hit Dice. At 6th level, it can move at its normal speed while using Survival to follow tracks without taking the normal –5 penalty. It takes only a –10 penalty (instead of the normal –20 penalty) when moving at up to twice its normal speed while tracking. This replaces share spells and devotion.
+**Expert Tracker (Ex)**: A tracker gains a competence bonus on [Survival](../../rules/skills/survival.md) checks to track via scent equal to half its total Hit Dice. At 6th level, it can move at its normal speed while using Survival to follow tracks without taking the normal –5 penalty. It takes only a –10 penalty (instead of the normal –20 penalty) when moving at up to twice its normal speed while tracking. This replaces share spells and devotion.
 
 ## Unexpected Intellectual
 

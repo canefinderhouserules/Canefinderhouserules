@@ -14,7 +14,7 @@ The following racial traits may be selected instead of the standard racial trait
 
 **Deep Sea Dweller**: Aquatic elves who live far beneath the surface have adapted to the inhospitable conditions of the ocean depths. Aquatic elves with this racial trait gain darkvision with a range of 60 feet and cold resistance 5. This racial trait replaces low-light vision and elven immunities.
 
-**Surface Features**: Some aquatic elves appear almost indistinguishable from surface elves. Their coloring, height, and weight all suggest those of a surface elf, and the webbing between their digits is almost transparent. Aquatic elves with this racial trait gain a +4 bonus on Bluff and Disguise checks when attempting to pass themselves off as surface elves. This racial trait replaces keen senses.
+**Surface Features**: Some aquatic elves appear almost indistinguishable from surface elves. Their coloring, height, and weight all suggest those of a surface elf, and the webbing between their digits is almost transparent. Aquatic elves with this racial trait gain a +4 bonus on [Bluff](../../rules/skills/bluff.md) and [Disguise](../../rules/skills/disguise.md) checks when attempting to pass themselves off as surface elves. This racial trait replaces keen senses.
 
 **Surfacer Antagonist**: Aquatic elves generally distrust humans, but for some, the suspicion has become festering hatred. Those who have lost loved ones to human aggression or have watched humans loot artifacts from venerated undersea ruins view all humans as enemies. Aquatic elves with this racial trait receive a +1 bonus on attack rolls against humans. This racial trait replaces elven magic.
 

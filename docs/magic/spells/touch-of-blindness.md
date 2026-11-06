@@ -8,4 +8,4 @@
 **Duration** 1 round/level (see text)  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-A touch from your hand, which is engulfed in darkness, disrupts a creature’s vision by coating its eyes in supernatural darkness. Each touch causes the target to become blinded for 1 round unless it makes a successful Fortitude saving throw. You can use this melee touch attack up to one time per caster level. Any touch attack not used after 1 round per caster level is lost.
+A touch from your hand, which is engulfed in darkness, disrupts a creature’s vision by coating its eyes in supernatural darkness. Each touch causes the target to become [blinded](../../rules/appendices/conditions.md#blinded) for 1 round unless it makes a successful Fortitude saving throw. You can use this melee touch attack up to one time per caster level. Any touch attack not used after 1 round per caster level is lost.

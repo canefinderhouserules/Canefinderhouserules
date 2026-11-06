@@ -8,4 +8,4 @@
 **Duration** 1 round/level (D)  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions like [*black tentacles*](black-tentacles.md), except it creates a Large decapitated snake, which erupts from the ground and grapples a creature you specify within its 5-foot reach. As a standard action, you can command the snake to release its grappled target and direct it to attack a different creature.
+This spell functions like [*black tentacles*](black-tentacles.md), except it creates a Large decapitated snake, which erupts from the ground and grapples a creature you specify within its 5-foot reach. As a standard action, you can command the snake to release its [grappled](../../rules/appendices/conditions.md#grappled) target and direct it to attack a different creature.

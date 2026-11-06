@@ -63,7 +63,7 @@ The following are class features of the golden knight prestige class.
 
 **Legion Feats**: A golden knight gains the following bonus feats at the prescribed levels, even if he doesn’t meet the prerequisites: 2nd level—[Stand Still](../../rules/feats/stand-still.md), 4th level—Bodyguard, 6th level—[In Harm’s Way](../../rules/feats/in-harm-s-way.md), 8th level—[Swift Aid](../../rules/feats/swift-aid.md). If he already has the feat for a given level, he can instead take any other combat feat whose prerequisites he meets.
 
-**Intercept (Ex)**: At 2nd level, a golden knight gains a bonus equal to half his class level on combat maneuver checks when using the Stand Still feat, and gains the same bonus to his CMD when an opponent attempts an Acrobatics check to move through a square he threatens.
+**Intercept (Ex)**: At 2nd level, a golden knight gains a bonus equal to half his class level on combat maneuver checks when using the Stand Still feat, and gains the same bonus to his CMD when an opponent attempts an [Acrobatics](../../rules/skills/acrobatics.md) check to move through a square he threatens.
 
 **United Defense (Ex)**: At 2nd level, a golden knight can select one ally as a swift action. While he is adjacent to this ally, the golden knight takes a –1 penalty to his Armor Class and the selected ally receives a +2 dodge bonus to his Armor Class for 1 round. At 6th level and again at 10th level, the golden knight’s AC takes an additional –1 penalty and the dodge bonus increases by an additional 2.
 

@@ -4,7 +4,7 @@ You can leap through difficult terrain like a deer or elk.
 
 **Prerequisites**: Dex 15, [Nimble Moves](nimble-moves.md).
 
-**Benefit**: You gain a +2 bonus on Acrobatics checks to keep your balance and Reflex saves to avoid falling. Additionally, select one terrain type from the ranger list of favored terrains. Within that terrain, the maximum number of feet of difficult terrain you can move through as if it were normal terrain increases by 10 feet.
+**Benefit**: You gain a +2 bonus on [Acrobatics](../skills/acrobatics.md) checks to keep your balance and Reflex saves to avoid falling. Additionally, select one terrain type from the ranger list of favored terrains. Within that terrain, the maximum number of feet of difficult terrain you can move through as if it were normal terrain increases by 10 feet.
 
 **Normal**: [Nimble Moves](nimble-moves.md) allows you to move through 5 feet of difficult terrain each round as if it were normal terrain.
 

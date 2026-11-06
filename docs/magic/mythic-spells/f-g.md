@@ -2,9 +2,9 @@
 
 ## Faerie Fire
 
-Outlined creatures are dazzled. The spell outlines figment illusions in the burst, revealing them as such. This effect applies only to figments with a caster level equal to or less than your tier.
+Outlined creatures are [dazzled](../../rules/appendices/conditions.md#dazzled). The spell outlines figment illusions in the burst, revealing them as such. This effect applies only to figments with a caster level equal to or less than your tier.
 
-**Augmented (2nd)**: If you expend two uses of mythic power, each creature in the burst must succeed at a Fortitude save or be blinded for 1 round.
+**Augmented (2nd)**: If you expend two uses of mythic power, each creature in the burst must succeed at a Fortitude save or be [blinded](../../rules/appendices/conditions.md#blinded) for 1 round.
 
 ## False Life
 
@@ -24,7 +24,7 @@ The spell affects one additional target per level. The targets don't have to be 
 
 ## Finger of Death
 
-The damage dealt increases to 15 points of damage per caster level plus 1d8 points of Constitution damage. A creature that succeeds at its saving throw takes 3d8 points of damage + 1 point per caster level, takes 1d4 points of Constitution damage, and is staggered for 1 round.
+The damage dealt increases to 15 points of damage per caster level plus 1d8 points of Constitution damage. A creature that succeeds at its saving throw takes 3d8 points of damage + 1 point per caster level, takes 1d4 points of Constitution damage, and is [staggered](../../rules/appendices/conditions.md#staggered) for 1 round.
 
 ## Fire Seeds
 
@@ -38,9 +38,9 @@ The damage dealt to your attackers increases to 1d8 points of damage + 1 point p
 
 **Source** *Advanced Player's Guide*
 
-The damage dealt increases to 1d10 points of damage per level (maximum 15d10). Any creature that fails its saving throw against the spell is grappled by a snake made of fire that lasts for 1 round per caster level. The snake can be dispelled, but not attacked. A grappled creature takes 1d10 points of fire damage on your turn each round. The snake's CMB is equal to your caster level plus your tier, and its CMD is equal to its CMB + 10.
+The damage dealt increases to 1d10 points of damage per level (maximum 15d10). Any creature that fails its saving throw against the spell is [grappled](../../rules/appendices/conditions.md#grappled) by a snake made of fire that lasts for 1 round per caster level. The snake can be dispelled, but not attacked. A grappled creature takes 1d10 points of fire damage on your turn each round. The snake's CMB is equal to your caster level plus your tier, and its CMD is equal to its CMB + 10.
 
-**Augmented (6th)**: If you expend two uses of mythic power, the maximum damage increases to 20d10, and any creature that fails its saving throw against the spell is pinned instead of grappled.
+**Augmented (6th)**: If you expend two uses of mythic power, the maximum damage increases to 20d10, and any creature that fails its saving throw against the spell is [pinned](../../rules/appendices/conditions.md#pinned) instead of grappled.
 
 ## Fire Storm
 
@@ -80,7 +80,7 @@ The fire damage dealt by this spell bypasses fire resistance and fire immunity. 
 
 ## Flesh to Stone
 
-A creature that succeeds at its saving throw is partially petrified, becoming slowed (as the slow spell) for a number of rounds equal to your tier. The creature can end this effect early by spending a full-round action breaking away its own petrified flesh, dealing 5d10 points of damage to itself. Any effect that removes or reverses petrification negates this partial petrification and the slow effect.
+A creature that succeeds at its saving throw is partially [petrified](../../rules/appendices/conditions.md#petrified), becoming slowed (as the slow spell) for a number of rounds equal to your tier. The creature can end this effect early by spending a full-round action breaking away its own petrified flesh, dealing 5d10 points of damage to itself. Any effect that removes or reverses petrification negates this partial petrification and the slow effect.
 
 The spell can affect objects and undead, as long as the target is primarily made of flesh or bone, such as a corpse or zombie. The spell doesn't affect the target's gear. If cast on a creature with equipment, the creature transforms into stone but its gear doesn't.
 
@@ -160,7 +160,7 @@ Each berry provides a full day's nourishment and counts as 1 hour of complete re
 
 ## Grease
 
-If you cast mythic grease on an area, add your tier to the Acrobatics DC to move within or through the area. If you cast it on a creature's armor or clothing, add your tier to its Escape Artist checks and combat maneuver checks attempted to escape a grapple and to its CMD to avoid being grappled.
+If you cast mythic grease on an area, add your tier to the [Acrobatics](../../rules/skills/acrobatics.md) DC to move within or through the area. If you cast it on a creature's armor or clothing, add your tier to its [Escape Artist](../../rules/skills/escape-artist.md) checks and combat maneuver checks attempted to escape a grapple and to its CMD to avoid being grappled.
 
 **Augmented**: You can expend two uses of mythic power to make the grease flammable. It ignites from any fire at least the size of a candle flame. If a greased area is ignited, any creature in the area on your turn takes 1d3 points of fire damage and might catch on fire. If a greased creature is ignited, it takes 2d6 points of fire damage, and might catch on fire; add your tier to the save DC.
 

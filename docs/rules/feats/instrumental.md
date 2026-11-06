@@ -4,7 +4,7 @@ You can deliver a breathtaking bardic performance while activating the powers of
 
 **Prerequisites**: Bardic Performance class feature, Perform (any instrument) 3 ranks.
 
-**Benefit**: When activating a magical instrument as a fullround or standard action, you may begin a bardic performance as a free action. Your performance must use a Perform skill appropriate to the instrument.
+**Benefit**: When activating a magical instrument as a fullround or standard action, you may begin a bardic performance as a free action. Your performance must use a [Perform](../skills/perform.md) skill appropriate to the instrument.
 
 Alternatively, you may expand 2 rounds of bardic performance to add +2 to any save DCs associated with the use of the instrument’s powers.
 

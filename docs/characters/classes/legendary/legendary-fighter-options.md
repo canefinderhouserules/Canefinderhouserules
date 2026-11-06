@@ -46,17 +46,17 @@ When the fighter deals a critical hit with a weapon he has selected with the Wea
 
 **Dazzling Intimidation (Ex)**
 
-While wielding a weapon, the fighter applies his weapon training bonus on Intimidate checks and can attempt an Intimidate check to demoralize an opponent as a move action instead of a standard action. If he has the Dazzling Display feat, he can use it as a standard action instead of a full-round action.
+While wielding a weapon, the fighter applies his weapon training bonus on [Intimidate](../../../rules/skills/intimidate.md) checks and can attempt an Intimidate check to demoralize an opponent as a move action instead of a standard action. If he has the Dazzling Display feat, he can use it as a standard action instead of a full-round action.
 
 If the fighter succeeds at demoralizing a creature as part of successfully attacking it with a weapon, or using a free, immediate, or swift action triggered by a successful attack on a creature (such as the Cornugon Smash Devils or Enforcer feats), then the demoralizing effect’s duration on that creature increases by a number of rounds equal to the [fighter’s weapon training](../fighter.md#weapon-training-ex) bonus.
 
 **Defensive Weapon Training (Ex)**
 
-While wielding a weapon with which he is proficient, the fighter gains a +1 shield bonus to his Armor Class and adds half his weapon’s enhancement bonus (if any) to this shield bonus. When his weapon training bonus reaches +4, this shield bonus increases to +2. This shield bonus is lost if the fighter is immobilized or helpless.
+While wielding a weapon with which he is proficient, the fighter gains a +1 shield bonus to his Armor Class and adds half his weapon’s enhancement bonus (if any) to this shield bonus. When his weapon training bonus reaches +4, this shield bonus increases to +2. This shield bonus is lost if the fighter is immobilized or [helpless](../../../rules/appendices/conditions.md#helpless).
 
 **Feint Training (Ex)**
 
-The fighter adds his weapon training bonus on Bluff checks to feint and to the DCs of feint checks made against him. The fighter can use his base attack bonus in place of his ranks in Bluff on Bluff checks to feint, and if he does then for this purpose he counts as being trained in the Bluff skill and it being a class skill. In addition, if the fighter has the Improved Feint feat, he can feint in place of his first attack during a full attack.
+The fighter adds his weapon training bonus on [Bluff](../../../rules/skills/bluff.md) checks to feint and to the DCs of feint checks made against him. The fighter can use his base attack bonus in place of his ranks in Bluff on Bluff checks to feint, and if he does then for this purpose he counts as being trained in the Bluff skill and it being a class skill. In addition, if the fighter has the Improved Feint feat, he can feint in place of his first attack during a full attack.
 
 **Focused Weapon (Ex)**
 
@@ -80,7 +80,7 @@ The fighter takes no penalties on attack rolls when attempting to deal nonlethal
 
 **Responsive Training (Ex)**
 
-When the fighter makes an attack of opportunity, he doubles his weapon training bonus on the attack roll. In addition, the fighter adds his weapon training bonus to the DC of Acrobatics checks made by opponents to move through a square that he threatens without provoking an attack of opportunity.
+When the fighter makes an attack of opportunity, he doubles his weapon training bonus on the attack roll. In addition, the fighter adds his weapon training bonus to the DC of [Acrobatics](../../../rules/skills/acrobatics.md) checks made by opponents to move through a square that he threatens without provoking an attack of opportunity.
 
 The fighter can also make an additional number of attacks of opportunity per round equal to half his weapon training bonus (minimum 1 additional attack).
 
@@ -132,7 +132,7 @@ The fighter gains a weapon mastery feat that he meets the prerequisites for as a
 
 **Weapon Sacrifice (Ex)**
 
-When damage would cause the fighter or an adjacent ally to be knocked unconscious or killed, as a swift or immediate action the fighter can instead direct the damage to a weapon that he is wielding. The original target takes no damage, but the weapon receives only half its normal hardness. The fighter can use this option a number of times per day equal to the [fighter’s weapon training](../fighter.md#weapon-training-ex) bonus. He cannot use this option with natural weapons or unarmed attacks.
+When damage would cause the fighter or an adjacent ally to be knocked [unconscious](../../../rules/appendices/conditions.md#unconscious) or killed, as a swift or immediate action the fighter can instead direct the damage to a weapon that he is wielding. The original target takes no damage, but the weapon receives only half its normal hardness. The fighter can use this option a number of times per day equal to the [fighter’s weapon training](../fighter.md#weapon-training-ex) bonus. He cannot use this option with natural weapons or unarmed attacks.
 
 **Implementation**
 
@@ -318,7 +318,7 @@ The fighter can don armor in a hurry without reducing its effectiveness, and rem
 | Medium armor | 1 minute | 5 rounds | 1 minute |
 | Heavy armor | 2 minutes | 1 minute | 1d4 minutes |
 
-Additionally, when wearing hastily donned armor, the fighter can attempt a Strength or Dexterity check as a full-round action to remove the penalties associated with wearing hastily donned armor (DC = 10 + his armor’s unmodified armor bonus). If he succeeds at the check, he is treated as having properly donned his armor rather than having hastily donned it. He can even remove sections of armor to escape grapples and similar grasping hindrances. Whenever the fighter attempts a combat maneuver check, an Escape Artist check, or a Strength check to escape from an effect that reduces or restricts his ability to move or act, he can reduce the armor bonus of any armor that he is wearing by up to half his armor’s base armor bonus. If he does so, he gains a bonus on his check equal to the amount by which he reduced his armor’s armor bonus.
+Additionally, when wearing hastily donned armor, the fighter can attempt a Strength or Dexterity check as a full-round action to remove the penalties associated with wearing hastily donned armor (DC = 10 + his armor’s unmodified armor bonus). If he succeeds at the check, he is treated as having properly donned his armor rather than having hastily donned it. He can even remove sections of armor to escape grapples and similar grasping hindrances. Whenever the fighter attempts a combat maneuver check, an [Escape Artist](../../../rules/skills/escape-artist.md) check, or a Strength check to escape from an effect that reduces or restricts his ability to move or act, he can reduce the armor bonus of any armor that he is wearing by up to half his armor’s base armor bonus. If he does so, he gains a bonus on his check equal to the amount by which he reduced his armor’s armor bonus.
 
 Multiple uses of this ability cannot reduce the armor’s armor bonus below half its base armor bonus, and the reduction to the armor’s armor bonus lasts until the fighter recovers and dons the removed pieces of armor.
 
@@ -472,7 +472,7 @@ Put simply, a fighter doesn’t have enough skill ranks per level. This probably
 
 **Class Skills**
 
-Fighters are a very diverse group with an extremely varied skill set. To accommodate this, granting fighters a core set of skills as well as the ability to choose a small number of skills from a secondary list is a reasonable solution. Examining the amount of class skills for martial classes shows that other martial classes (barbarian, fighter, paladin) have 10 class skills but newer classes with full BAB and 4 skill ranks per level such as brawlers, gunslingers, and swashbucklers have 13, 15, and 16 class skills respectively, so aiming for a fighter to have around 12 class skills is a good minimum. Looking at the fighter class back through previous editions of the game is helpful in determining what specific skills should be a fighter’s core skills. Considering the standard fighter’s class skills, Knowledge (dungeoneering) and Knowledge (engineering) are specialized skills that the 3.5 edition fighter didn’t have so moving them to the secondary/optional skills list works, leaving the following skills as core skills: Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Profession (Wis), Ride (Dex), Survival (Wis), and Swim (Str).
+Fighters are a very diverse group with an extremely varied skill set. To accommodate this, granting fighters a core set of skills as well as the ability to choose a small number of skills from a secondary list is a reasonable solution. Examining the amount of class skills for martial classes shows that other martial classes (barbarian, fighter, paladin) have 10 class skills but newer classes with full BAB and 4 skill ranks per level such as brawlers, gunslingers, and swashbucklers have 13, 15, and 16 class skills respectively, so aiming for a fighter to have around 12 class skills is a good minimum. Looking at the fighter class back through previous editions of the game is helpful in determining what specific skills should be a fighter’s core skills. Considering the standard fighter’s class skills, [Knowledge](../../../rules/skills/knowledge.md) (dungeoneering) and Knowledge (engineering) are specialized skills that the 3.5 edition fighter didn’t have so moving them to the secondary/optional skills list works, leaving the following skills as core skills: Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Profession (Wis), Ride (Dex), Survival (Wis), and Swim (Str).
 
 Examining other martial classes’ class skills helps narrow down the list of skills that need to be added to the fighter’s secondary skill list as optional choices. Here is some reasoning behind adding the following skills:
 
@@ -520,7 +520,7 @@ Unless indicated, a fighter cannot select an option more than once.
 
 **Battle Clarity (Ex)**
 
-The fighter gains immunity to the dazed condition. At 10th level, if the fighter is staggered then addition to taking a single move action or standard action, he can also take a move action to move but can only move up to half his speed during this action. The fighter cannot combine this additional move action with a standard action to perform a full-round action.
+The fighter gains immunity to the [dazed](../../../rules/appendices/conditions.md#dazed) condition. At 10th level, if the fighter is [staggered](../../../rules/appendices/conditions.md#staggered) then addition to taking a single move action or standard action, he can also take a move action to move but can only move up to half his speed during this action. The fighter cannot combine this additional move action with a standard action to perform a full-round action.
 
 At 14th level, the fighter gains immunity to stunning.
 
@@ -528,7 +528,7 @@ At 14th level, the fighter gains immunity to stunning.
 
 A fighter gains a +2 bonus on Will saves against fear and the DC of Intimidate checks to demoralize him increases by the same amount. This bonus increases by +1 for every four levels beyond 6th.
 
-If the fighter is affected by a fear effect, he reduces the severity of the effect. If a fighter is panicked, he treats this as if he were frightened. If the fighter gains the frightened condition, he may treat this as if he were both shaken and staggered. If the fighter gains the shaken condition, he halves the penalties he receives from this condition.
+If the fighter is affected by a fear effect, he reduces the severity of the effect. If a fighter is [panicked](../../../rules/appendices/conditions.md#panicked), he treats this as if he were [frightened](../../../rules/appendices/conditions.md#frightened). If the fighter gains the frightened condition, he may treat this as if he were both [shaken](../../../rules/appendices/conditions.md#shaken) and staggered. If the fighter gains the shaken condition, he halves the penalties he receives from this condition.
 
 **Dauntless (Ex)**
 
@@ -546,7 +546,7 @@ The fighter gains a +1 morale bonus when repeating an attack roll, ability check
 
 - Skill or ability checks of the same type (Acrobatics, Strength, etc.) that require at least a move action to perform. Opposed checks only gain the bonus if performed against the same creature.
 
-This morale bonus also increases by an additional +1 for the first time it applies in the current round if the fighter failed the same attack roll, check, or saving throw in the previous round. The fighter can also apply his dogged obstinacy bonus to an activity that takes place over a longer period of time that requires checks or saves and involves the continually doing the same thing, even though the fighter may not be making rolls each round. These include Swim checks to swim for hours, Fortitude saves made against the effects of a forced march, and so on.
+This morale bonus also increases by an additional +1 for the first time it applies in the current round if the fighter failed the same attack roll, check, or saving throw in the previous round. The fighter can also apply his dogged obstinacy bonus to an activity that takes place over a longer period of time that requires checks or saves and involves the continually doing the same thing, even though the fighter may not be making rolls each round. These include [Swim](../../../rules/skills/swim.md) checks to swim for hours, Fortitude saves made against the effects of a forced march, and so on.
 
 **Fearless Zeal (Ex)**
 
@@ -582,7 +582,7 @@ At 10th level, he also becomes immune to exhaustion.
 
 **Internal Hardiness (Ex)**
 
-The fighter gains immunity to the sickened condition. At 10th level, he also gains immunity to the nauseated condition.
+The fighter gains immunity to the [sickened](../../../rules/appendices/conditions.md#sickened) condition. At 10th level, he also gains immunity to the [nauseated](../../../rules/appendices/conditions.md#nauseated) condition.
 
 **Persistent Tenacity (Ex)**
 
@@ -661,7 +661,7 @@ The fighter adds his weapon training bonus to the number of times per day he can
 
 **Adaptable Training (Ex)**
 
-The fighter can use his base attack bonus in place of his ranks in one skill of his choice from the following list: Acrobatics, Bluff, Climb, Diplomacy, Disable Device, Disguise, Escape Artist, Fly, Handle Animal, Intimidate, Knowledge (engineering), Perception, Profession (driver, engineer, soldier, or stable master), Ride, Sense Motive, Sleight of Hand, Stealth, Survival, or Swim. When using adaptable training, the fighter substitutes his total base attack bonus (including his base attack bonus gained through levels in other classes) for his ranks in this skill, but adds the skill’s usual ability score modifier and any other bonuses or penalties that would modify that skill.
+The fighter can use his base attack bonus in place of his ranks in one skill of his choice from the following list: Acrobatics, Bluff, [Climb](../../../rules/skills/climb.md), [Diplomacy](../../../rules/skills/diplomacy.md), [Disable Device](../../../rules/skills/disable-device.md), [Disguise](../../../rules/skills/disguise.md), Escape Artist, [Fly](../../../rules/skills/fly.md), [Handle Animal](../../../rules/skills/handle-animal.md), Intimidate, Knowledge (engineering), [Perception](../../../rules/skills/perception.md), [Profession](../../../rules/skills/profession.md) (driver, engineer, soldier, or stable master), [Ride](../../../rules/skills/ride.md), [Sense Motive](../../../rules/skills/sense-motive.md), [Sleight of Hand](../../../rules/skills/sleight-of-hand.md), [Stealth](../../../rules/skills/stealth.md), [Survival](../../../rules/skills/survival.md), or Swim. When using adaptable training, the fighter substitutes his total base attack bonus (including his base attack bonus gained through levels in other classes) for his ranks in this skill, but adds the skill’s usual ability score modifier and any other bonuses or penalties that would modify that skill.
 
 Once a skill has been selected, it cannot be changed and the fighter can immediately retrain all of his ranks in the selected skill at no additional cost in money or time.
 
@@ -745,7 +745,7 @@ The maximum number of latent feats the fighter can possess increases by 1. As a 
 
 **Master Armorer (Ex)**
 
-The fighter can use his base attack bonus in place of his ranks in the Craft (armor) skill. The fighter substitutes his total base attack bonus (including his base attack bonus gained through levels in other classes) for his ranks in this skill, but adds the skill’s usual ability score modifier and any other bonuses or penalties that would modify that skill. Additionally, the fighter is treated as having the Craft Magic Arms and Armor and Master Craftsman feats (choosing Craft [armor]). The fighter does not need to meet these feats’ prerequisites for the purpose of making magic armor or magic shields. If the fighter has 5 or more ranks in a Craft skill, he doesn’t have to meet these feats’ prerequisites for the purpose of making magic armor, shields, or weapons provided those armors, shields, or weapons can be manufactured using that Craft skill.
+The fighter can use his base attack bonus in place of his ranks in the [Craft](../../../rules/skills/craft.md) (armor) skill. The fighter substitutes his total base attack bonus (including his base attack bonus gained through levels in other classes) for his ranks in this skill, but adds the skill’s usual ability score modifier and any other bonuses or penalties that would modify that skill. Additionally, the fighter is treated as having the Craft Magic Arms and Armor and Master Craftsman feats (choosing Craft [armor]). The fighter does not need to meet these feats’ prerequisites for the purpose of making magic armor or magic shields. If the fighter has 5 or more ranks in a Craft skill, he doesn’t have to meet these feats’ prerequisites for the purpose of making magic armor, shields, or weapons provided those armors, shields, or weapons can be manufactured using that Craft skill.
 
 **Master Bowyer (Ex)**
 

@@ -30,7 +30,7 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 
 **Granted Powers**: You are a powerful persuader. A honeyed tongue empowered by divine argumentation sways the indifferent and adversarial to your side.
 
-**Charm of Wisdom (Ex)**: You use your Wisdom modifier instead of your Charisma modifier when making Bluff, Diplomacy, and Intimidate checks.
+**Charm of Wisdom (Ex)**: You use your Wisdom modifier instead of your Charisma modifier when making [Bluff](../../rules/skills/bluff.md), [Diplomacy](../../rules/skills/diplomacy.md), and [Intimidate](../../rules/skills/intimidate.md) checks.
 
 **Swaying Word (Sp)**: At 8th level, once per day you may speak a word of divinely inspired wisdom that causes a single creature to switch its alliance to you. The target must be within line of sight and able to hear you. If he fails his Will save, he is affected by dominate person, except the duration is only 1 minute.
 
@@ -46,7 +46,7 @@ Inquisitions are intended for inquisitors, not for other classes that give acces
 
 Marked by your deity for your impressive will, you are among the few with the wherewithal to carry out the necessary work of removing dangerous influences from your church.
 
-**Granted Powers**: You can repulse the influence of confused divine servants.
+**Granted Powers**: You can repulse the influence of [confused](../../rules/appendices/conditions.md#confused) divine servants.
 
 **Touch of Silence (Su)**: With a melee touch attack, you render a target silent (as the spell [*silence*](../../magic/spells/silence.md), but only affecting the target) for 1 round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
@@ -80,7 +80,7 @@ Marked by your deity for your impressive will, you are among the few with the wh
 
 **Righteous Infiltration (Ex)**: You use your Wisdom modifier instead of your Charisma modifier when making Bluff and Intimidate checks.
 
-**Blessed Infiltration (Ex)**: At 4th level, when you make a Bluff, Diplomacy, or Stealth check, you may roll twice and take the more favorable result. You can use this ability a number of times per day equal to your Wisdom bonus.
+**Blessed Infiltration (Ex)**: At 4th level, when you make a Bluff, Diplomacy, or [Stealth](../../rules/skills/stealth.md) check, you may roll twice and take the more favorable result. You can use this ability a number of times per day equal to your Wisdom bonus.
 
 **Word of Anathema (Sp)**: At 8th level, once per day, you can speak a word of anathema against a single creature within 60 feet (Will negates). This acts as bestow curse and lasts for 1 minute, giving the target a –4 penalty on attack rolls, saves, ability checks, and skill checks.
 
@@ -100,7 +100,7 @@ Your deity inspires you with hope that wayward members of your faith can be brou
 
 **Granted Powers**: You reach out to your misguided fellows and give them every chance to turn back from conflict with the true faith, even if your differences come to violence.
 
-**Patient Sensibility (Su)**: You gain a +2 bonus on Diplomacy, Perception, and Sense Motive checks.
+**Patient Sensibility (Su)**: You gain a +2 bonus on Diplomacy, [Perception](../../rules/skills/perception.md), and [Sense Motive](../../rules/skills/sense-motive.md) checks.
 
 **Redeemer's Mercy (Su)**: At 4th level, any weapon you wield gains the *merciful* magic weapon special ability. The weapon immediately reverts to its original abilities when you cease to wield it.
 
@@ -112,7 +112,7 @@ Moved by divine disapproval of your church's mistakes, you seek to correct them 
 
 **Granted Powers**: You can speak with divine persuasiveness.
 
-**Inspired Rhetoric (Ex)**: You use your Wisdom modifier in place of your Charisma modifier when making Diplomacy, Intimidate, and Perform (oratory) checks. Perform (oratory) is an inquisitor class skill for you.
+**Inspired Rhetoric (Ex)**: You use your Wisdom modifier in place of your Charisma modifier when making Diplomacy, Intimidate, and [Perform](../../rules/skills/perform.md) (oratory) checks. Perform (oratory) is an inquisitor class skill for you.
 
 **Blessed Correction (Ex)**: At 4th level, when you make a Diplomacy, Intimidate, or Perform (oratory) check, you may roll twice and take the more favorable result. You can use this ability a number of times per day equal to your Wisdom bonus.
 
@@ -132,7 +132,7 @@ Moved by divine disapproval of your church's mistakes, you seek to correct them 
 
 **Disappear (Sp)**: You can become invisible as per the spell as a standard action. The invisibility lasts for 1 round per inquisitor level or until you attack. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
-**Blessed Secrecy (Su)**: At 4th level, when you attempt a Bluff, Disguise, Sleight of Hand, or Stealth skill check, you can roll twice and take the more favorable result. You can use this ability a number of times per day equal to your Wisdom bonus.
+**Blessed Secrecy (Su)**: At 4th level, when you attempt a Bluff, [Disguise](../../rules/skills/disguise.md), [Sleight of Hand](../../rules/skills/sleight-of-hand.md), or Stealth skill check, you can roll twice and take the more favorable result. You can use this ability a number of times per day equal to your Wisdom bonus.
 
 **Delayed Spells (Su)**: At 8th level, you can delay the effects of a spell you cast by up to 1 round per inquisitor level. You choose the duration of the delay when you cast the spell and can cause the spell to take effect immediately during the period of delay by concentrating as a standard action. You can use this ability once per day plus an additional time per day for every 4 inquisitor levels you have beyond 8th.
 
@@ -140,7 +140,7 @@ Moved by divine disapproval of your church's mistakes, you seek to correct them 
 
 **Granted Powers**: Your deity guides you when you deliver death to your chosen targets.
 
-**Chosen Victim (Sp)**: Once per day, you can designate a creature as your chosen victim. You gain a +2 bonus on Diplomacy checks to gather information about your target, on Bluff and Intimidate checks against your target, and on Survival checks to track your target. The benefits of your destruction, piercing, purity, and smiting judgments against your chosen victim increase as if your inquisitor level were 3 higher.
+**Chosen Victim (Sp)**: Once per day, you can designate a creature as your chosen victim. You gain a +2 bonus on Diplomacy checks to gather information about your target, on Bluff and Intimidate checks against your target, and on [Survival](../../rules/skills/survival.md) checks to track your target. The benefits of your destruction, piercing, purity, and smiting judgments against your chosen victim increase as if your inquisitor level were 3 higher.
 
 **Executioner’s Strike (Su)**: At 8th level, your precision in combat has become incredible, and you can strike a lethal blow if your target cannot defend itself properly. Once per day, you can make an attack as a standard action against your chosen victim. If the attack hits and the victim is denied its Dexterity bonus to AC against you, any critical threats are automatically confirmed.
 
@@ -191,7 +191,7 @@ Moved by divine disapproval of your church's mistakes, you seek to correct them 
 
 **Granted Powers**: Many times an inquisitor’s greatest weapon is pure and unflinching illumination; errors are often illuminated by light and wisdom.
 
-**Illuminating Touch (Sp)**: You cause your hand to shimmer with divine radiance, allowing you to touch a creature as a standard action and give it a bonus equal to 1/2 your inquisitor level on a single Will saving throw, Knowledge check, Perception check, or Sense Motive check. This ability lasts for 1 hour or until the creature chooses to apply the bonus to a roll. You can use this ability to grant the bonus a number of times per day equal to 3 + your Wisdom modifier.
+**Illuminating Touch (Sp)**: You cause your hand to shimmer with divine radiance, allowing you to touch a creature as a standard action and give it a bonus equal to 1/2 your inquisitor level on a single Will saving throw, [Knowledge](../../rules/skills/knowledge.md) check, Perception check, or Sense Motive check. This ability lasts for 1 hour or until the creature chooses to apply the bonus to a roll. You can use this ability to grant the bonus a number of times per day equal to 3 + your Wisdom modifier.
 
 **Aura of Enlightenment (Su)**: At 4th level, you can create a 30-foot-radius aura of normal light. Allies in this aura gain a +2 insight bonus on skill checks. This counts as a 2nd-level light effect for the purpose of countering or dispelling darkness effects. You can use this aura for a number of rounds per day equal to your inquisitor level. These rounds do not need to be consecutive.
 
@@ -233,7 +233,7 @@ Moved by divine disapproval of your church's mistakes, you seek to correct them 
 
 **Relentless Footing (Ex)**: As a swift action, you can add 10 feet to your land speed. This increase counts as an enhancement bonus, and it affects your jumping distance as normal for increased speed. You can use this ability a number of times per day equal to 3 + your Wisdom bonus (minimum 1).
 
-**Inner Strength (Su)**: At 6th level, once per day, you may heal yourself as a swift action, healing 1d6 hit points for every two inquisitor levels you possess. When you use this ability, you can also remove one of the following conditions from yourself: blinded, confused, dazzled, deafened, frightened, nauseated, shaken, sickened, or staggered.
+**Inner Strength (Su)**: At 6th level, once per day, you may heal yourself as a swift action, healing 1d6 hit points for every two inquisitor levels you possess. When you use this ability, you can also remove one of the following conditions from yourself: [blinded](../../rules/appendices/conditions.md#blinded), confused, [dazzled](../../rules/appendices/conditions.md#dazzled), [deafened](../../rules/appendices/conditions.md#deafened), [frightened](../../rules/appendices/conditions.md#frightened), [nauseated](../../rules/appendices/conditions.md#nauseated), [shaken](../../rules/appendices/conditions.md#shaken), [sickened](../../rules/appendices/conditions.md#sickened), or [staggered](../../rules/appendices/conditions.md#staggered).
 
 ### Tactics Inquisition
 
@@ -359,7 +359,7 @@ Effects that kill you or do not reduce you to negative hit points (such as abili
 
 **Fear the Flames (Su)**: You can give a creature you can see within 60 feet one chance to avoid an eternity of suffering by ordering it to carry out any one simple action that would take no more than 1 round to complete. Good and neutral creatures that refuse become shaken for 1 round (Will negates), while evil creatures that obey gain a +2 morale bonus on all rolls and checks made for 1 round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. This is a language-dependent, mind-affecting effect.
 
-**Collector of Souls (Sp)**: At 8th level, once per day as a standard action, you call forth an illusory fiend and order it to temporarily drag a living and sentient creature into an afterlife of pain and misery. This otherwise acts identically to [*phantasmal killer*](../../magic/spells/phantasmal-killer.md), except targets that fail their Fortitude saving throws become paralyzed for a number of rounds equal to 1d4 + your inquisitor level instead of dying.
+**Collector of Souls (Sp)**: At 8th level, once per day as a standard action, you call forth an illusory fiend and order it to temporarily drag a living and sentient creature into an afterlife of pain and misery. This otherwise acts identically to [*phantasmal killer*](../../magic/spells/phantasmal-killer.md), except targets that fail their Fortitude saving throws become [paralyzed](../../rules/appendices/conditions.md#paralyzed) for a number of rounds equal to 1d4 + your inquisitor level instead of dying.
 
 ### Possession Inquisition
 
@@ -369,9 +369,9 @@ Effects that kill you or do not reduce you to negative hit points (such as abili
 
 **Self-Control (Ex)**: You possess remarkable control over your own body, and gain a +2 competence bonus on saving throws made against enchantment spells of the charm or compulsion subschool.
 
-**Beast Ride (Su)**: At 4th level, once per day as a standard action, you can vacate your body and inhabit that of any creature belonging to the animal type within 30 feet for a number of rounds up to your inquisitor level. While you are possessing an animal in this way, your own body becomes helpless and unaware. You can travel any distance from your body so long as you remain on the same plane, and can return to your own body as a free action at any time. If the animal or your body takes damage, or you attempt to make the animal attack or do anything out of character, the effect immediately ends and you return to your own body.
+**Beast Ride (Su)**: At 4th level, once per day as a standard action, you can vacate your body and inhabit that of any creature belonging to the animal type within 30 feet for a number of rounds up to your inquisitor level. While you are possessing an animal in this way, your own body becomes [helpless](../../rules/appendices/conditions.md#helpless) and unaware. You can travel any distance from your body so long as you remain on the same plane, and can return to your own body as a free action at any time. If the animal or your body takes damage, or you attempt to make the animal attack or do anything out of character, the effect immediately ends and you return to your own body.
 
-**Body Snatch (Sp)**: At 10th level, once per day as an immediate action upon falling unconscious because of dropping below 0 hit points, you can cast your soul from your body and attempt to occupy the body of another creature within 30 feet. This ability otherwise functions identically to [*magic jar*](../../magic/spells/magic-jar.md) except that your actual body serves as the receptacle and you suppress the consciousness of your target rather than casting it out. Your body continues to bleed as normal unless it is somehow stabilized, and if its hit points drop to a negative number equal to your Constitution score, the *magic jar* effect prematurely ends and you die as normal.
+**Body Snatch (Sp)**: At 10th level, once per day as an immediate action upon falling [unconscious](../../rules/appendices/conditions.md#unconscious) because of dropping below 0 hit points, you can cast your soul from your body and attempt to occupy the body of another creature within 30 feet. This ability otherwise functions identically to [*magic jar*](../../magic/spells/magic-jar.md) except that your actual body serves as the receptacle and you suppress the consciousness of your target rather than casting it out. Your body continues to bleed as normal unless it is somehow stabilized, and if its hit points drop to a negative number equal to your Constitution score, the *magic jar* effect prematurely ends and you die as normal.
 
 ### Sin Inquisition
 
@@ -407,7 +407,7 @@ Effects that kill you or do not reduce you to negative hit points (such as abili
 
 Some inquisitors, as they learn more about the threat of possession and the machinations of the planes, task themselves to expel possessing spirits and conniving outsiders from the world whenever possible. Eventually they learn the secret of the verdicts of exorcism, exile, and anathema.
 
-**Verdict of Exorcism (Su)**: At 8th level, an inquisitor using judgment can unleash the verdict of exorcism on a creature. When she does, her judgment ends, but the creature is dazed for 1 round (Will negates); if the creature is possessed, the possessing entity must succeed at a Will saving throw (DC 10 + 1/2 inquisitor level + inquisitor’s Wisdom bonus), or be exorcised and never again allowed in that same body. This ability replaces [second judgment](inquisitor.md#second-judgment-ex).
+**Verdict of Exorcism (Su)**: At 8th level, an inquisitor using judgment can unleash the verdict of exorcism on a creature. When she does, her judgment ends, but the creature is [dazed](../../rules/appendices/conditions.md#dazed) for 1 round (Will negates); if the creature is possessed, the possessing entity must succeed at a Will saving throw (DC 10 + 1/2 inquisitor level + inquisitor’s Wisdom bonus), or be exorcised and never again allowed in that same body. This ability replaces [second judgment](inquisitor.md#second-judgment-ex).
 
 **Verdict of Exile (Su)**: At 16th level, an inquisitor using judgment can unleash the verdict of exile on a creature. When she does, her judgment ends, but the creature subject to that judgment is dazed for 1 round (Will negates, DC of 10 + 1/2 inquisitor level + Wisdom bonus). If the creature is possessed or an outsider, the possessing entity or the outsider is affected by dismissal (Will negates). This ability replaces [third judgment](inquisitor.md#third-judgment-ex).
 
@@ -481,7 +481,7 @@ This ability replaces an [inquisitor’s domain](inquisitor.md#domain).
 
 **Speak with Dead (Sp)**: At 6th level, when the inquisitor eats an enemy’s sins, within 10 minutes of doing so, she can ask the remnants of the enemy’s soul questions as if using speak with dead, with a caster level equal to her inquisitor level. She does not need the enemy’s corpse to use this ability (she can eat sin, move away from the corpse, then use speak with dead), though the soul gets a saving throw just as a corpse would. This ability replaces the bonus teamwork feat gained at 6th level.
 
-**Burden of Sin (Sp)**: At 14th level, a sin eater may spend a full-round action to transfer one harmful affliction, condition, or spell effect from another creature to herself (this includes curses, possessions, and permanent effects such as petrification, or any condition that break enchantment can end or reverse). The effect to be transferred is chosen by the sin eater and affects her as if she were the original target, continuing its duration (if any) and preventing any further effect on the original bearer. For example, the inquisitor could transfer a lethal disease to herself, or petrify herself to restore a petrified comrade. The sin eater can use this ability as often as desired, even using it multiple times on the same creature. This ability replaces [exploit weakness](inquisitor.md#exploit-weakness-ex).
+**Burden of Sin (Sp)**: At 14th level, a sin eater may spend a full-round action to transfer one harmful affliction, condition, or spell effect from another creature to herself (this includes curses, possessions, and permanent effects such as petrification, or any condition that break enchantment can end or reverse). The effect to be transferred is chosen by the sin eater and affects her as if she were the original target, continuing its duration (if any) and preventing any further effect on the original bearer. For example, the inquisitor could transfer a lethal disease to herself, or petrify herself to restore a [petrified](../../rules/appendices/conditions.md#petrified) comrade. The sin eater can use this ability as often as desired, even using it multiple times on the same creature. This ability replaces [exploit weakness](inquisitor.md#exploit-weakness-ex).
 
 ## Sacred Huntsmaster
 
@@ -563,7 +563,7 @@ Some magic items are heretical by nature, enabling the unfaithful to spread wick
 
 **Negating Critical (Sp)**: At 14th level, when an iconoclast confirms a critical hit, the creature she hit must succeed at a Fortitude save at DC 10 + 1/2 the iconoclast’s caster level + the iconoclast’s Wisdom modifier for each non-artifact magic item the target is wearing or carrying. On a failed saving throw, the target of the critical hit can neither use nor gain benefit from any minor magic item for 1d4 rounds. This ability can be used in conjunction with critical feats. This ability replaces [exploit weakness](inquisitor.md#exploit-weakness-ex).
 
-**Destroy Artifact (Sp)**: At 20th level, an iconoclast has the ability to destroy minor artifacts. The iconoclast must have possession of the minor artifact for at least a week, which she must spend in uninterrupted contemplation of the nature of the artifact. At the end of that week, she makes a DC 30 Spellcraft check to unweave the fabric of the item, and if she is successful, the artifact is destroyed. If the iconoclast fails, she cannot try to destroy the artifact again with this ability, but another iconoclast can. This ability replaces [true judgment](inquisitor.md#true-judgment-su).
+**Destroy Artifact (Sp)**: At 20th level, an iconoclast has the ability to destroy minor artifacts. The iconoclast must have possession of the minor artifact for at least a week, which she must spend in uninterrupted contemplation of the nature of the artifact. At the end of that week, she makes a DC 30 [Spellcraft](../../rules/skills/spellcraft.md) check to unweave the fabric of the item, and if she is successful, the artifact is destroyed. If the iconoclast fails, she cannot try to destroy the artifact again with this ability, but another iconoclast can. This ability replaces [true judgment](inquisitor.md#true-judgment-su).
 
 ## Spellbreaker
 
@@ -731,7 +731,7 @@ Traceless operatives practice subterfuge and careful preparation in order to acc
 
 **Trackless (Sp)**: At 2nd level, a traceless operative’s deity helps obscure her path from others. The DC to track the traceless operative (or a group including her) increases by half her inquisitor level. This does not stack with similar abilities, such as a transporter’s trailbreaker ability. This ability replaces [track](inquisitor.md#track-ex).
 
-**Uncanny Dodge (Ex)**: At 5th level, a traceless operative can react to danger before her senses would normally allow her to do so. She cannot be caught flat-footed, nor does she lose her Dexterity bonus to AC if the attacker is invisible. She still loses her Dexterity bonus to AC if immobilized. A traceless operative with this ability can still lose her Dexterity bonus to AC if an opponent successfully uses the feint action against her. If the traceless operative already possesses uncanny dodge from a different class, she automatically gains improved uncanny dodge instead. This ability replaces [bane](inquisitor.md#bane-su).
+**Uncanny Dodge (Ex)**: At 5th level, a traceless operative can react to danger before her senses would normally allow her to do so. She cannot be caught [flat-footed](../../rules/appendices/conditions.md#flat-footed), nor does she lose her Dexterity bonus to AC if the attacker is invisible. She still loses her Dexterity bonus to AC if immobilized. A traceless operative with this ability can still lose her Dexterity bonus to AC if an opponent successfully uses the feint action against her. If the traceless operative already possesses uncanny dodge from a different class, she automatically gains improved uncanny dodge instead. This ability replaces [bane](inquisitor.md#bane-su).
 
 **Improved Uncanny Dodge (Ex)**: At 12th level, a traceless operative can no longer be flanked. This defense denies rogues (or other classes with the sneak attack ability) the ability to sneak attack the traceless operative by flanking her, unless the attacker has at least 4 more rogue levels (or levels in a class that grants the sneak attack class ability) than the traceless operative has inquisitor levels. If the traceless operative already has improved uncanny dodge from another class, the levels from the classes that grant improved uncanny dodge stack when determining the minimum rogue level (or level in another class with the sneak attack ability) required to flank the character. This ability replaces [greater bane](inquisitor.md#greater-bane-su).
 
@@ -747,7 +747,7 @@ As a consummate lurker in the shadows, an umbral stalker observes the enemies of
 
 **Stalking**: The umbral stalker gains a +2 sacred bonus on attack rolls against creatures that are unaware of her presence (typically because she is invisible or using Stealth). This bonus increases by 2 for every 5 inquisitor levels she has. This ability replaces the justice judgment.
 
-**Swift and Silent (Ex)**: Umbral stalkers often descend upon their prey with deadly grace and efficiency. An umbral stalker gains a morale bonus on all Acrobatics and Stealth checks equal to half her inquisitor level (minimum +1). This ability replaces [stern gaze](inquisitor.md#stern-gaze-ex).
+**Swift and Silent (Ex)**: Umbral stalkers often descend upon their prey with deadly grace and efficiency. An umbral stalker gains a morale bonus on all [Acrobatics](../../rules/skills/acrobatics.md) and Stealth checks equal to half her inquisitor level (minimum +1). This ability replaces [stern gaze](inquisitor.md#stern-gaze-ex).
 
 **Deadly Efficiency (Ex)**: At 14th level, an umbral stalker becomes even deadlier against enemies who haven’t yet noticed her in the shadows. Whenever she confirms a critical hit against a foe that is unaware of her presence, she ignores any damage reduction the target might have and adds her Wisdom bonus to her damage roll (this multiplies on the critical hit as normal); in addition, if the target has regeneration, the creature loses regeneration on the round following the critical hit and can die normally during that round. Creatures whose regeneration always functions are immune to this ability.
 
@@ -875,7 +875,7 @@ Vampire hunters use their skills and magic to track and slay the hungry dead, wa
 
 *Smiting*: At 6th level, the vampire hunter's weapons count as silver instead of an alignment type.
 
-**Silversmith**: At 2nd level, a vampire hunter learns the secrets of crafting silver into dangerous weapons. She adds a bonus equal to her class level on any Craft or Spellcraft check made to create a silver item that bypasses DR/silver, such as alchemical silver, *silversheen*, or *silver weapon blanch*. This ability replaces [detect alignment](inquisitor.md#detect-alignment-sp).
+**Silversmith**: At 2nd level, a vampire hunter learns the secrets of crafting silver into dangerous weapons. She adds a bonus equal to her class level on any [Craft](../../rules/skills/craft.md) or Spellcraft check made to create a silver item that bypasses DR/silver, such as alchemical silver, *silversheen*, or *silver weapon blanch*. This ability replaces [detect alignment](inquisitor.md#detect-alignment-sp).
 
 **Bane (Su)**: A vampire hunter can only imbue her weapons with the undead-bane ability, but it persists even when she isn't holding the weapon.
 
@@ -937,7 +937,7 @@ A cold iron warden can take other feats to add to this ability such as Improved 
 
 Masters of secretly gathering information to further their faith's ends, urban infiltrators excel at operating within an unfriendly society or infiltrating an enemy cult. This archetype is available to any inquisitor who prefers subtle investigation to forthright zeal.
 
-**Class Skills**: An urban infiltrator adds Disable Device, Knowledge (history), Knowledge (local), and Knowledge (nobility) to her list of class skills in place of Knowledge (dungeoneering) and Knowledge (nature). This alters the inquisitor's class skills.
+**Class Skills**: An urban infiltrator adds [Disable Device](../../rules/skills/disable-device.md), Knowledge (history), Knowledge (local), and Knowledge (nobility) to her list of class skills in place of Knowledge (dungeoneering) and Knowledge (nature). This alters the inquisitor's class skills.
 
 **Gifted Detective (Ex)**: An urban infiltrator adds her Wisdom modifier as well as her Charisma modifier on Bluff and Disguise skill checks and on Diplomacy checks to gather information. Attempting a Diplomacy check to gather information never takes an urban infiltrator more than 1 hour. This ability replaces [monster lore](inquisitor.md#monster-lore-ex).
 
@@ -973,7 +973,7 @@ Servants of gods who hold oaths to be sacrosanct, oathkeepers formally oversee t
 
 **Alignment**: An oathkeeper must be of a lawful alignment, and her alignment must be within one step of her deity's. This alters the inquisitor's alignment requirements.
 
-**Class Skills**: An oathkeeper removes Knowledge (nature) from her list of class skills and adds Appraise. This alters the inquisitor's class skills.
+**Class Skills**: An oathkeeper removes Knowledge (nature) from her list of class skills and adds [Appraise](../../rules/skills/appraise.md). This alters the inquisitor's class skills.
 
 **Divine Witness (Su)**: Every oathkeeper inquisitor develops a unique personal symbol, which she can use to seal an agreement between two or more willing parties. The agreement, whether it's a trade contract, a truce, or a political marriage, must be as detailed as possible and then signed in the oathkeeper's presence by every creature involved. Creatures must sign of their own free will—any magical or physical coercion will cause the contract to crumble into ash when the oathkeeper attempts to place her seal upon it. So long as no mystic or physical force is influencing any participating creature, the oathkeeper can mystically seal the arrangement with her personal symbol, binding all signing parties into upholding their ends of the bargain for the length of time spelled out in the agreement. Should any oathbound creature break the exact wording of the contract, the agreement is dissolved and the offending creature is cursed, taking a penalty on all d20 rolls equal to the oathkeeper's Wisdom modifier for a number of weeks equal to the oathkeeper's inquisitor level. Furthermore, the inquisitor's symbol appears as a mystic symbol on the offending creature's throat and hands, allowing the oathkeeper to know the creature's location at all times, as per the *discern location* spell. If a creature is forced into breaking the agreement by magic or overwhelming physical force (for example, breaking an agreement not to harm via a compulsion spell or by physically hurling an oathbound creature to deal damage to another), then the agreement dissipates harmlessly. The oathkeeper's curse is a curse effect, but it can be removed only with a [*miracle*](../../magic/spells/miracle.md) or [*wish*](../../magic/spells/wish.md) spell. This replaces [monster lore](inquisitor.md#monster-lore-ex).
 
@@ -1009,7 +1009,7 @@ Some inquisitors of gods of clockwork and invention, and occasionally those who 
 
 **Alignment**: A suit seeker's alignment must be neutral on the good-evil axis, the lawful-chaotic axis, or both. This alters the inquisitor's alignment requirements.
 
-**Class Skills**: The suit seeker removes Knowledge (dungeoneering), Ride, and Survival from the inquisitor's list of class skills, and adds Knowledge (history) and Use Magic Device to the list.
+**Class Skills**: The suit seeker removes Knowledge (dungeoneering), [Ride](../../rules/skills/ride.md), and Survival from the inquisitor's list of class skills, and adds Knowledge (history) and Use Magic Device to the list.
 
 **Domain**: A suit seeker must select the Knowledge or Luck domain; the Memory or Fate subdomain; or the Fate, Fervor, or Illumination inquisition.
 

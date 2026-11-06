@@ -32,7 +32,7 @@ Undines get along quite well with elves and gnomes. Often these races share prot
 
 **Medium**: Undines are Medium creatures and receive no bonuses or penalties due to their size.
 
-**Normal Speed**: Undines have a base speed of 30 feet on land. They also have a swim speed of 30 feet, can move in water without making Swim checks, and always treat Swim as a class skill.
+**Normal Speed**: Undines have a base speed of 30 feet on land. They also have a swim speed of 30 feet, can move in water without making [Swim](../../rules/skills/swim.md) checks, and always treat Swim as a class skill.
 
 **Darkvision**: Undines can see in the dark up to 60 feet.
 
@@ -54,15 +54,15 @@ The following racial traits might be selected instead of existing undine racial 
 
 **Deepsight**: The eyes of some undines are especially adapted to the lightless depths of the oceans, but not to air-filled environments. An undine with this racial trait has darkvision 120 feet when underwater, but otherwise has no darkvision at all. This racial trait replaces darkvision.
 
-**Flesh Chameleon**: Some undines can change their coloration to match human skin tones. As a standard action, an undine with this racial trait can change her natural blue hue to match any normal human skin tone, and can revert to normal as a free action. This grants a +4 racial bonus on Disguise checks to appear human. This racial trait replaces energy resistance.
+**Flesh Chameleon**: Some undines can change their coloration to match human skin tones. As a standard action, an undine with this racial trait can change her natural blue hue to match any normal human skin tone, and can revert to normal as a free action. This grants a +4 racial bonus on [Disguise](../../rules/skills/disguise.md) checks to appear human. This racial trait replaces energy resistance.
 
 **Hydrated Vitality**: An undine with this racial trait gains fast healing 2 for 1 round anytime she submerges completely within a body of natural salt water, fresh water, or brackish water. Stagnant, poisoned, or trapped water (such as an artificial pit or a *bag of holding*) does not activate this ability. The undine can heal up to 2 hit points per level per day with this ability, after which it ceases to function. This racial trait replaces water affinity.
 
-**Nereid Fascination**: Some undines can trace their ancestry to nereids as well as to outsiders. Once per day as a standard action, such an undine can create a 20-foot-radius aura that causes humanoids within the aura’s range to become fascinated with her for a number of rounds equal to 1/2 the undine’s character level (minimum 1). Targets may resist with a Will save (DC 10 + 1/2 the undine’s level + the undine’s Charisma modifier). This is a supernatural ability. This racial trait replaces the spell-like ability racial trait.
+**Nereid Fascination**: Some undines can trace their ancestry to nereids as well as to outsiders. Once per day as a standard action, such an undine can create a 20-foot-radius aura that causes humanoids within the aura’s range to become [fascinated](../../rules/appendices/conditions.md#fascinated) with her for a number of rounds equal to 1/2 the undine’s character level (minimum 1). Targets may resist with a Will save (DC 10 + 1/2 the undine’s level + the undine’s Charisma modifier). This is a supernatural ability. This racial trait replaces the spell-like ability racial trait.
 
-**Ooze Breath**: Some undines’ outsider heritage can be traced to ooze mephits. These undines have a breath weapon that is a 5-foot cone of slime usable once per day. The slime deals 1d4 points of acid damage per two character levels (maximum 5d4) and sickens creatures in the area for 3 rounds. A successful Reflex saving throw (DC 10 + 1/2 the undine’s level + the undine’s Constitution modifier) halves the damage and negates the sickened effect. This racial trait replaces the spell-like ability racial trait.
+**Ooze Breath**: Some undines’ outsider heritage can be traced to ooze mephits. These undines have a breath weapon that is a 5-foot cone of slime usable once per day. The slime deals 1d4 points of acid damage per two character levels (maximum 5d4) and sickens creatures in the area for 3 rounds. A successful Reflex saving throw (DC 10 + 1/2 the undine’s level + the undine’s Constitution modifier) halves the damage and negates the [sickened](../../rules/appendices/conditions.md#sickened) effect. This racial trait replaces the spell-like ability racial trait.
 
-**Terrain Chameleon**: Some undines can change their coloration to blend in with underwater terrain, mixing browns, grays, and greens to resemble kelp or other natural water plants. As a standard action, an undine with this racial trait can change her coloration, gaining a +4 bonus on Stealth checks in underwater environments. She can return to normal as a free action. This racial trait replaces energy resistance.
+**Terrain Chameleon**: Some undines can change their coloration to blend in with underwater terrain, mixing browns, grays, and greens to resemble kelp or other natural water plants. As a standard action, an undine with this racial trait can change her coloration, gaining a +4 bonus on [Stealth](../../rules/skills/stealth.md) checks in underwater environments. She can return to normal as a free action. This racial trait replaces energy resistance.
 
 **Water Sense**: Undines with this racial trait can sense vibrations in water, granting them blindsense 30 feet against creatures in contact with the same body of water. This racial trait replaces energy resistance.
 
@@ -70,7 +70,7 @@ The following racial traits might be selected instead of existing undine racial 
 
 Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
 
-**Bard**: Add a +1 bonus on Perform checks to use the countersong bardic performance against creatures with the aquatic or water subtypes.
+**Bard**: Add a +1 bonus on [Perform](../../rules/skills/perform.md) checks to use the countersong bardic performance against creatures with the aquatic or water subtypes.
 
 **Cleric**: Add a +1 bonus on caster level checks to overcome the spell resistance of creatures with the aquatic or water subtype.
 

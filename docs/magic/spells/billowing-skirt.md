@@ -8,4 +8,4 @@
 **Duration** 1 minute/level  
 **Saving Throw** none; **Spell Resistance** no
 
-A skirt, kilt, or gown you are wearing enables you to control your falls through the air. A creature wearing the enchanted item of clothing falls slowly as if affected by [*feather fall*](feather-fall.md) and can attempt a DC 15 Fly skill check as a move action to hover in place for 1 round.
+A skirt, kilt, or gown you are wearing enables you to control your falls through the air. A creature wearing the enchanted item of clothing falls slowly as if affected by [*feather fall*](feather-fall.md) and can attempt a DC 15 [Fly](../../rules/skills/fly.md) skill check as a move action to hover in place for 1 round.

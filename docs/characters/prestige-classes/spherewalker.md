@@ -24,7 +24,7 @@ To qualify to become a spherewalker, a character must fulfill all of the followi
 
 **Base Attack Bonus**: +5
 
-**Skills**: 5 ranks in any two of the following skills: Climb, Knowledge (geography), Knowledge (nature), Knowledge (religion), Perform, Ride, Survival, or Swim.
+**Skills**: 5 ranks in any two of the following skills: [Climb](../../rules/skills/climb.md), [Knowledge](../../rules/skills/knowledge.md) (geography), Knowledge (nature), Knowledge (religion), [Perform](../../rules/skills/perform.md), [Ride](../../rules/skills/ride.md), [Survival](../../rules/skills/survival.md), or [Swim](../../rules/skills/swim.md).
 
 **Feats**: Martial Weapon Proficiency ([starknife](../../equipment/weapons-martial.md#martial-light-melee-weapons)), one survivor feat ([Great Fortitude](../../rules/feats/great-fortitude.md), [Iron Will](../../rules/feats/iron-will.md), or [Lightning Reflexes](../../rules/feats/lightning-reflexes.md)), one explorer feat (Acrobatic, Agile, Athletic, Endurance, Run, or Self-Sufficient).
 
@@ -32,7 +32,7 @@ To qualify to become a spherewalker, a character must fulfill all of the followi
 
 ### Class Skills
 
-The Spherewalker’s class skills are Acrobatics, Climb, Escape Artist, Handle Animal, Heal, Knowledge (geography), Perception, Perform, Ride, Survival, and Swim.
+The Spherewalker’s class skills are [Acrobatics](../../rules/skills/acrobatics.md), Climb, [Escape Artist](../../rules/skills/escape-artist.md), [Handle Animal](../../rules/skills/handle-animal.md), [Heal](../../rules/skills/heal.md), Knowledge (geography), [Perception](../../rules/skills/perception.md), Perform, Ride, Survival, and Swim.
 
 **Skill Ranks Per Level**: 4 + Int modifier.
 
@@ -54,12 +54,12 @@ If the spherewalker has no levels in a spellcasting class, she instead gains one
 
 **Star Slinger (Ex)**: At 2nd level, any starknife a spherewalker uses in combat is treated as if it had the returning magic weapon special ability. Such weapons gain no additional enhancement bonuses or magical properties beyond this effect.
 
-**Dream Link (Sp)**: A 3rd-level spherewalker can form a mental bond with another willing intelligent creature as if using the [*telepathic bond*](../../magic/spells/telepathic-bond.md) spell. To do so, she and the target must spend at least 4 hours sleeping within 10 feet of each other. Either person in the link can end it as a standard action; otherwise it is permanent. If one person in the link dies, the other is stunned for 1 round and staggered until she can rest for 10 minutes. A spherewalker can only maintain one such link at a time, though she may be the recipient of multiple links. Married spherewalkers often link themselves to their spouses.
+**Dream Link (Sp)**: A 3rd-level spherewalker can form a mental bond with another willing intelligent creature as if using the [*telepathic bond*](../../magic/spells/telepathic-bond.md) spell. To do so, she and the target must spend at least 4 hours sleeping within 10 feet of each other. Either person in the link can end it as a standard action; otherwise it is permanent. If one person in the link dies, the other is [stunned](../../rules/appendices/conditions.md#stunned) for 1 round and [staggered](../../rules/appendices/conditions.md#staggered) until she can rest for 10 minutes. A spherewalker can only maintain one such link at a time, though she may be the recipient of multiple links. Married spherewalkers often link themselves to their spouses.
 
 **Divine Luck (Su)**: At 4th level, a spherewalker can add a luck bonus equal to her class level on an attack roll, skill check, or saving throw a number of times per day equal to her Charisma modifier (minimum 1/day). She may add this bonus after she has rolled but before she knows if the unmodified result is a success or failure.
 
 **Swarm Form (Su)**: At 5th level, a spherewalker gains the ability to transform into a swarm of Diminutive butterflies. In swarm form, she has a space of 10 feet (roughly filling the entire area) but can shape this space to fill four contiguous squares (such as a 5-foot-by- 20-foot line, an L-shaped cloud, and so on) and can squeeze through any space large enough to contain one of her component forms. The swarm can fly at a speed of 40 feet (good). Like any swarm, it can occupy the same space as another creature regardless of its size.
 
-Any creature that begins its turn sharing a space with a swarm must succeed on a Fortitude save (DC 10 + spherewalker level + Constitution bonus) or be nauseated for 1 round. Unlike most swarms, a spherewalker in swarm form does not do swarm damage to creatures she’s swarming over. The swarm form is immune to weapon damage but is vulnerable to mundane fire attacks (torches, alchemical fire, burning oil, and so on), and energy attacks from weapon (such as flaming and frost) deal full damage even though the basic weapon damage has no effect. Although a swarm cannot make attacks, the spherewalker can cast spells as normal while in swarm form (although spells with material components could prove difficult).
+Any creature that begins its turn sharing a space with a swarm must succeed on a Fortitude save (DC 10 + spherewalker level + Constitution bonus) or be [nauseated](../../rules/appendices/conditions.md#nauseated) for 1 round. Unlike most swarms, a spherewalker in swarm form does not do swarm damage to creatures she’s swarming over. The swarm form is immune to weapon damage but is vulnerable to mundane fire attacks (torches, alchemical fire, burning oil, and so on), and energy attacks from weapon (such as flaming and frost) deal full damage even though the basic weapon damage has no effect. Although a swarm cannot make attacks, the spherewalker can cast spells as normal while in swarm form (although spells with material components could prove difficult).
 
 A spherewalker can use this ability a number of times per day equal to her class level and remain in this form for up to one minute. While in swarm form, she may expend one use of this ability as a free action in order to remain in swarm form for an additional minute (rather than changing back to her normal form and activating it again). Changing back to her natural form before the effect ends is a standard action.

@@ -24,7 +24,7 @@ Good spells expand upon the existing themes of magic in a novel manner. Watch fo
 
 ### Creating a Spell
 
-Successfully researching a new spell requires time and expensive research. The research should cost at least 1,000 gp per spell level (more for particularly exotic spells) and require both Spellcraft and a Knowledge skill appropriate to the researcher's class. Wizards and bards use Knowledge (arcana); sorcerers use a Knowledge skill appropriate to their heritage (usually arcana, nature, or planes); druids and rangers use Knowledge (nature); clerics and paladins use Knowledge (religion).
+Successfully researching a new spell requires time and expensive research. The research should cost at least 1,000 gp per spell level (more for particularly exotic spells) and require both [Spellcraft](../../rules/skills/spellcraft.md) and a [Knowledge](../../rules/skills/knowledge.md) skill appropriate to the researcher's class. Wizards and bards use Knowledge (arcana); sorcerers use a Knowledge skill appropriate to their heritage (usually arcana, nature, or planes); druids and rangers use Knowledge (nature); clerics and paladins use Knowledge (religion).
 
 For each week of research, the caster makes separate Knowledge and Spellcraft checks against a DC of 20 + twice the level of the spell being researched, modified according to the table below. To succeed, the caster must succeed at both checks. Failure indicates the week was wasted. Spells of 4th–6th level require 2 weeks of successful research, and spells of 7th–9th level require 4 weeks. The researcher may employ up to two assistants, who use the aid another action on the skill checks.
 

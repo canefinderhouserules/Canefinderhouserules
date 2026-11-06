@@ -4,4 +4,4 @@ Wyvarans have little skill in creating original art, but they have proven to be 
 
 **Prerequisites**: Wyvaran.
 
-**Benefit**: You gain a +4 circumstance bonus on Craft checks to recreate an object you have seen before. You can spend 1 week studying the object to increase the circumstance bonus to +8. This doesn't include the time spent crafting the item.
+**Benefit**: You gain a +4 circumstance bonus on [Craft](../skills/craft.md) checks to recreate an object you have seen before. You can spend 1 week studying the object to increase the circumstance bonus to +8. This doesn't include the time spent crafting the item.

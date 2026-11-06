@@ -4,7 +4,7 @@ You are skilled at keeping yourself and others safe in the alleys, sewers, and u
 
 **Prerequisites**: Knowledge (local) 4 ranks, Survival 4 ranks, track class feature.
 
-**Benefit**: You may use the Survival skill to forage and track in urban locations using the table below.
+**Benefit**: You may use the [Survival](../skills/survival.md) skill to forage and track in urban locations using the table below.
 
 | DC | Task |
 |---|---|

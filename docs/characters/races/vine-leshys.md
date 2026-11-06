@@ -26,7 +26,7 @@ Vine leshys have an unusual relationship with other leshys, for unlike standard 
 
 **Leshy**: Vine leshys are plants with the leshy subtype but lack the immunities to mind-affecting effects, paralysis, poison, polymorph, sleep, and stunning that the plant type usually grants, and they lack the immunity to electricity and sonic that the leshy subtype usually grants.
 
-**Small**: Vine leshys are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on combat maneuver checks and to their Combat Maneuver Defense, and a +4 size bonus on Stealth checks.
+**Small**: Vine leshys are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on combat maneuver checks and to their Combat Maneuver Defense, and a +4 size bonus on [Stealth](../../rules/skills/stealth.md) checks.
 
 **Slow Speed**: Vine leshys have a base speed of 20 feet.
 
@@ -44,7 +44,7 @@ Vine leshys have an unusual relationship with other leshys, for unlike standard 
 
 **Unassuming Foliage**: Vine leshys gain a +4 racial bonus on Stealth checks in forests.
 
-**Climber**: Vine leshys gain a +2 racial bonus on Climb checks.
+**Climber**: Vine leshys gain a +2 racial bonus on [Climb](../../rules/skills/climb.md) checks.
 
 **Languages**: Vine leshys begin play speaking Common and Sylvan. Vine leshys with high Intelligence scores can choose from the following: Aquan, Auran, Aklo, Elven, Gnome, Goblin, Terran, or Undercommon.
 
@@ -56,15 +56,15 @@ The following racial traits can be selected instead of existing vine leshy racia
 
 **Poisonous**: Vine leshys made from poison ivy vines carry natural poison in their bodies. As a swift action, the leshy can imbue its vines with this irritating substance. The next time the leshy hits a creature with an unarmed strike, the creature is affected by the following poison.
 
-**Vine Leshy Toxin**: Unarmed strike—injury; save Fort DC 10 + half the vine leshy’s Hit Dice + the leshy’s Constitution modifier; frequency 1/round for 6 rounds; effect sickened for 1 round; cure 1 save.
+**Vine Leshy Toxin**: Unarmed strike—injury; save Fort DC 10 + half the vine leshy’s Hit Dice + the leshy’s Constitution modifier; frequency 1/round for 6 rounds; effect [sickened](../../rules/appendices/conditions.md#sickened) for 1 round; cure 1 save.
 
 The leshy can use this ability a number of times per day equal to its Constitution modifier (minimum 1). A vine leshy is immune to its own poison, but not to those of other vine leshys. This replaces plantspeech and change shape.
 
-**Swamp Leshy**: Some vine leshys are made from plants that naturally grow in swamps. These leshys gain a +2 racial bonus on Swim checks and a +4 racial bonus on Stealth checks in swamps. This replaces climber and alters unassuming foliage.
+**Swamp Leshy**: Some vine leshys are made from plants that naturally grow in swamps. These leshys gain a +2 racial bonus on [Swim](../../rules/skills/swim.md) checks and a +4 racial bonus on Stealth checks in swamps. This replaces climber and alters unassuming foliage.
 
 **Grapevine**: A vine leshy made from a grapevine can produce magically infused fruit that can heal her allies. She can cast goodberry once per day as a spell-like ability, with a caster level equal to her character level. This replaces pass without trace.
 
-**Curiosity**: Vine leshys bearing gregarious spirits are more suited to learn about other cultures. They always treat Diplomacy and Linguistics as class skills, and they gain a +2 racial bonus on Diplomacy and Linguistics checks. This replaces pass without trace and plantspeech.
+**Curiosity**: Vine leshys bearing gregarious spirits are more suited to learn about other cultures. They always treat [Diplomacy](../../rules/skills/diplomacy.md) and Linguistics as class skills, and they gain a +2 racial bonus on Diplomacy and [Linguistics](../../rules/skills/linguistics.md) checks. This replaces pass without trace and plantspeech.
 
 **Lashvine**: Some vine leshys can sprout whip-like appendages. These individuals gain proficiency with [whips](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons) and [scorpion whips](../../equipment/weapons-exotic.md#exotic-light-melee-weapons). As a free action, the vine leshy can turn one hand into a lashvine. A lashvine is a primary natural attack that deals 1d3 points of bludgeoning damage. A lashvine cannot hold items, wield weapons, or perform fine manipulation. This replaces change shape and verdant burst.
 
@@ -78,7 +78,7 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 **Alchemist**: Add 1/4 to the alchemist’s natural armor bonus when using his mutagen.
 
-**Bard**: Add a +1/3 bonus to Perform (oratory) checks, including checks using versatile performance, as long as the bard first spends at least 10 minutes telling a story.
+**Bard**: Add a +1/3 bonus to [Perform](../../rules/skills/perform.md) (oratory) checks, including checks using versatile performance, as long as the bard first spends at least 10 minutes telling a story.
 
 **Druid**: Add a +1/2 bonus to the druid’s wild empathy or plant empathy checks.
 
@@ -86,7 +86,7 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 **Oracle**: An oracle with the nature or wood mystery adds one spell from the druid’s spell list that isn’t on the cleric spell list to the oracle’s spell list; she still must select this spell as one of her spells known in order to cast it. This spell must be at least 1 level lower than the highest spell level the oracle can cast.
 
-**Ranger**: Add a +1/2 bonus to Knowledge (nature) checks in the ranger’s favored terrain.
+**Ranger**: Add a +1/2 bonus to [Knowledge](../../rules/skills/knowledge.md) (nature) checks in the ranger’s favored terrain.
 
 **Rogue**: Add a +1/2 bonus to Climb checks and on Stealth checks in forests.
 
@@ -115,7 +115,7 @@ Vine leshys have access to the following equipment.
 | Animal repellent | — | 15 gp |
 | Fortifying fertilizer | 2 lbs. | 120 gp |
 
-**Animal Repellent**: Leshys and other plant creatures have to be wary of hungry herbivorous animals. A dose of animal repellent makes a plant creature smell unappetizing for 24 hours. Animals do not attempt to consume a plant creature coated in animal repellent if there are other food sources available, and in combat prefer to use natural attacks that are not bite attacks against such a creature if they can. Animal repellent counts as a strong scent, allowing creatures with the scent ability to detect it at a greater range. Animal repellent does not work on ghorans with the delicious racial trait. Crafting this item requires a successful DC 20 Craft (alchemy) check.
+**Animal Repellent**: Leshys and other plant creatures have to be wary of hungry herbivorous animals. A dose of animal repellent makes a plant creature smell unappetizing for 24 hours. Animals do not attempt to consume a plant creature coated in animal repellent if there are other food sources available, and in combat prefer to use natural attacks that are not bite attacks against such a creature if they can. Animal repellent counts as a strong scent, allowing creatures with the scent ability to detect it at a greater range. Animal repellent does not work on ghorans with the delicious racial trait. Crafting this item requires a successful DC 20 [Craft](../../rules/skills/craft.md) (alchemy) check.
 
 **Fortifying Fertilizer**: This alchemical fertilizer boosts the growth of plants. As a standard action, a plant creature can absorb the fertilizer by rubbing it on its body in order to gain 1 temporary hit point per Hit Die; these temporary hit points last for 1 hour. A plant creature can only benefit from 1 dose of fortifying fertilizer every 24 hours. Crafting this item requires a successful DC 25 Craft (alchemy) check.
 

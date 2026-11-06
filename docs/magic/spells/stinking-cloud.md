@@ -8,6 +8,6 @@
 **Duration** 1 round/level  
 **Saving Throw** Fortitude negates; see text; **Spell Resistance** no
 
-*Stinking cloud* creates a bank of fog like that created by [*fog cloud*](fog-cloud.md), except that the vapors are nauseating. Living creatures in the cloud become nauseated. This condition lasts as long as the creature is in the cloud and for 1d4+1 rounds after it leaves. (Roll separately for each nauseated character.) Any creature that succeeds on its save but remains in the cloud must continue to save each round on your turn. This is a poison effect.
+*Stinking cloud* creates a bank of fog like that created by [*fog cloud*](fog-cloud.md), except that the vapors are nauseating. Living creatures in the cloud become [nauseated](../../rules/appendices/conditions.md#nauseated). This condition lasts as long as the creature is in the cloud and for 1d4+1 rounds after it leaves. (Roll separately for each nauseated character.) Any creature that succeeds on its save but remains in the cloud must continue to save each round on your turn. This is a poison effect.
 
 *Stinking cloud* can be made permanent with a [*permanency*](permanency.md) spell. A permanent *stinking cloud* dispersed by wind reforms in 10 minutes.

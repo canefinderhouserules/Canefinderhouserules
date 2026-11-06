@@ -4,7 +4,7 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 ## Air Blessing
 
-**Zephyr's Gift (minor)**: At 1st level, you can touch any one ranged weapon and enhance it with the quality of air. For 1 minute, any attacks made with the weapon take no penalties due to range. In addition, making a ranged attack with this weapon doesn't provoke an attack of opportunity. Soaring Assault (major): At 10th level, you can touch an ally and give her the gift of flight for 1 minute (as fly). The ally gains a fly speed of 60 feet with average maneuverability. She gains a bonus on Fly skill checks equal to your level. Whenever the ally succeeds at a charge attack while flying, that attack deals an amount of additional electricity damage equal to your level.
+**Zephyr's Gift (minor)**: At 1st level, you can touch any one ranged weapon and enhance it with the quality of air. For 1 minute, any attacks made with the weapon take no penalties due to range. In addition, making a ranged attack with this weapon doesn't provoke an attack of opportunity. Soaring Assault (major): At 10th level, you can touch an ally and give her the gift of flight for 1 minute (as fly). The ally gains a fly speed of 60 feet with average maneuverability. She gains a bonus on [Fly](../../rules/skills/fly.md) skill checks equal to your level. Whenever the ally succeeds at a charge attack while flying, that attack deals an amount of additional electricity damage equal to your level.
 
 ## Animal Blessing
 
@@ -46,11 +46,11 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 **Enshrouding Darkness (minor)**: At 1st level, you can touch an ally and bestow a darkness blessing. For 1 minute, the ally becomes enshrouded in shadows while in combat, granting it concealment (20%). Creatures that are normally able to see in supernatural darkness ignore this concealment.
 
-**Darkened Vision (major)**: At 10th level, you can place a shroud of darkness around the eyes of one foe within 30 feet. The target must succeed at a Will saving throw or be blinded for 1 minute (as blindness/deafness).
+**Darkened Vision (major)**: At 10th level, you can place a shroud of darkness around the eyes of one foe within 30 feet. The target must succeed at a Will saving throw or be [blinded](../../rules/appendices/conditions.md#blinded) for 1 minute (as blindness/deafness).
 
 ## Death Blessing
 
-**From the Grave (minor)**: At 1st level, you can take on a corpse-like visage for 1 minute, making you more intimidating and giving you undead-like protection from harm. You gain a +4 bonus on Disguise checks to resemble an undead creature and on Intimidate checks, as well as a +2 profane bonus on saving throws against disease, mind-affecting effects, paralysis, poison, and stun. Death's Touch (major): At 10th level, you can make a melee touch attack against an opponent to deliver grim suffering. If you succeed, you inflict i temporary negative level on the target for 1 minute. Alternatively, you can activate this ability as a swift action upon hitting an opponent with a melee attack. These temporary negative levels stack. You gain no benefit from imposing these negative levels (such as the temporary hit points undead gain from enervation).
+**From the Grave (minor)**: At 1st level, you can take on a corpse-like visage for 1 minute, making you more intimidating and giving you undead-like protection from harm. You gain a +4 bonus on [Disguise](../../rules/skills/disguise.md) checks to resemble an undead creature and on [Intimidate](../../rules/skills/intimidate.md) checks, as well as a +2 profane bonus on saving throws against disease, mind-affecting effects, paralysis, poison, and stun. Death's Touch (major): At 10th level, you can make a melee touch attack against an opponent to deliver grim suffering. If you succeed, you inflict i temporary negative level on the target for 1 minute. Alternatively, you can activate this ability as a swift action upon hitting an opponent with a melee attack. These temporary negative levels stack. You gain no benefit from imposing these negative levels (such as the temporary hit points undead gain from enervation).
 
 ## Destruction Blessing
 
@@ -95,7 +95,7 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 ## Knowledge Blessing
 
-**Lore Keeper (minor)**: At 1st level, you can touch a creature to learn about its abilities and weaknesses. With a successful touch attack, you gain information as if your result on the appropriate Knowledge skill check were equal to 15 +your warpriest level + your Wisdom modifier.
+**Lore Keeper (minor)**: At 1st level, you can touch a creature to learn about its abilities and weaknesses. With a successful touch attack, you gain information as if your result on the appropriate [Knowledge](../../rules/skills/knowledge.md) skill check were equal to 15 +your warpriest level + your Wisdom modifier.
 
 **Monster Lore (major)**: At 10th level, when you succeed at a Knowledge check against an opponent to learn about its abilities or weaknesses (or succeed at a touch attack using the lore keeper blessing, above), you can as a swift action gain a +2 insight bonus on attacks, saving throws, and ability and skill checks, as well as to your AC against that creature. This effect lasts for 1 minute.
 
@@ -107,7 +107,7 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 ## Liberation Blessing
 
-**Liberation (minor)**: At 1st level, for 1 round as a swift action, you can ignore impediments to your mobility and effects that cause paralysis (as freedom of movement). You can activate this blessing even if you're otherwise unable to take actions, but not if you're unconscious.
+**Liberation (minor)**: At 1st level, for 1 round as a swift action, you can ignore impediments to your mobility and effects that cause paralysis (as freedom of movement). You can activate this blessing even if you're otherwise unable to take actions, but not if you're [unconscious](../../rules/appendices/conditions.md#unconscious).
 
 **Freedom's Shout (major)**: At 10th level, as a swift action you can emit a 30-foot aura that affects all allies with the liberation blessing described above. This effect lasts for 1 round.
 
@@ -119,7 +119,7 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 ## Madness Blessing
 
-**Madness Supremacy (minor)**: At 1st level, as a swift action you can target a creature within 30 feet that has the cowering, frightened, panicked, or paralyzed condition. That condition is suspended for 1 round, and the chosen creature gains the confused condition instead. The confused creature rerolls any result other than "attack self" or "attack nearest creature." The round spent confused counts toward the duration of the suspended effect. At the end of the confused round, the suspended condition resumes.
+**Madness Supremacy (minor)**: At 1st level, as a swift action you can target a creature within 30 feet that has the [cowering](../../rules/appendices/conditions.md#cowering), [frightened](../../rules/appendices/conditions.md#frightened), [panicked](../../rules/appendices/conditions.md#panicked), or [paralyzed](../../rules/appendices/conditions.md#paralyzed) condition. That condition is suspended for 1 round, and the chosen creature gains the [confused](../../rules/appendices/conditions.md#confused) condition instead. The confused creature rerolls any result other than "attack self" or "attack nearest creature." The round spent confused counts toward the duration of the suspended effect. At the end of the confused round, the suspended condition resumes.
 
 **Control Madness (major)**: At 10th level, as a swift action you can choose one behavior for all confused creatures within 30 feet to exhibit (as if all creatures rolled the same result). This effect lasts for 1 round. You can use this ability even while you are confused.
 
@@ -147,13 +147,13 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 ## Repose Blessing
 
-**Gentle Rest (minor)**: At 1st level, you can fill a living creature with lethargy by hitting it with a melee touch attack, causing it to become staggered for 1 round. If the target is already staggered, it falls asleep for 1 round instead. An undead creature that's touched is staggered for a number of rounds equal to your Wisdom modifier (minimum 1).
+**Gentle Rest (minor)**: At 1st level, you can fill a living creature with lethargy by hitting it with a melee touch attack, causing it to become [staggered](../../rules/appendices/conditions.md#staggered) for 1 round. If the target is already staggered, it falls asleep for 1 round instead. An undead creature that's touched is staggered for a number of rounds equal to your Wisdom modifier (minimum 1).
 
 **Back to the Grave (major)**: At 10th level, when using channel energy to heal living creatures, you can take a swift action on that same turn to also deal damage to undead creatures (as your channel energy ability). Undead take an amount of damage equal to half the amount healed, and can attempt the normal saving throw to halve this damage.
 
 ## Rune Blessing
 
-**Blast Rune (minor)**: At 1st level, you can create a blast rune in any adjacent square. Any creature entering this square takes an amount of damage equal to 1d6 + 1/2 your warpriest level. This rune deals either acid, cold, electricity, or fire damage, designated when you create the rune. The rune is invisible, and lasts a number of rounds equal to your warpriest level or until discharged. You cannot create a blast rune in a square occupied by another creature. This rune counts as a 1st-level spell for the purposes of dispelling. It can be discovered with a successful DC 26 Perception skill check and disarmed with a successful DC 26 Disable Device skill check.
+**Blast Rune (minor)**: At 1st level, you can create a blast rune in any adjacent square. Any creature entering this square takes an amount of damage equal to 1d6 + 1/2 your warpriest level. This rune deals either acid, cold, electricity, or fire damage, designated when you create the rune. The rune is invisible, and lasts a number of rounds equal to your warpriest level or until discharged. You cannot create a blast rune in a square occupied by another creature. This rune counts as a 1st-level spell for the purposes of dispelling. It can be discovered with a successful DC 26 [Perception](../../rules/skills/perception.md) skill check and disarmed with a successful DC 26 [Disable Device](../../rules/skills/disable-device.md) skill check.
 
 **Spell-Storing Weapon (major)**: At 10th level, you can cast a spell into a magic weapon as if it had the spell storing weapon special ability. If the stored spell is not used within 10 minutes, it dissipates.
 
@@ -175,11 +175,11 @@ A warpriest can select any two blessings. Each blessing is named after the domai
 
 **Strength Surge (minor)**: At 1st level, as a swift action you can focus your own strength. You gain an enhancement bonus equal to 1/2 your warpriest level (minimum +1) on melee attack rolls, combat maneuver checks that rely on Strength, Strength-based skills, and Strength checks for 1 round.
 
-**Strength of Will (major)**: At 10th level, as a swift action you can ignore the movement penalties caused by wearing medium or heavy armor or by carrying a medium or heavy load. This effect lasts for 1 minute. During this time, you can add your Strength modifier on saving throws against effects that would cause you to become entangled, staggered, or paralyzed.
+**Strength of Will (major)**: At 10th level, as a swift action you can ignore the movement penalties caused by wearing medium or heavy armor or by carrying a medium or heavy load. This effect lasts for 1 minute. During this time, you can add your Strength modifier on saving throws against effects that would cause you to become [entangled](../../rules/appendices/conditions.md#entangled), staggered, or paralyzed.
 
 ## Sun Blessing
 
-**Blinding Strike (minor)**: At 1st level, you can create a flash of sunlight in the eyes of one of your opponents. The target is blinded for 1 round. If it succeeds at a Reflex saving throw, it's instead dazzled for 1 round. Creatures with light blindness or light sensitivity take a -4 penalty on this saving throw. This is a light effect. Sightless creatures are unaffected by this ability.
+**Blinding Strike (minor)**: At 1st level, you can create a flash of sunlight in the eyes of one of your opponents. The target is blinded for 1 round. If it succeeds at a Reflex saving throw, it's instead [dazzled](../../rules/appendices/conditions.md#dazzled) for 1 round. Creatures with light blindness or light sensitivity take a -4 penalty on this saving throw. This is a light effect. Sightless creatures are unaffected by this ability.
 
 **Cleansing Fire (major)**: At 10th level, you can touch a weapon and grant it either the flaming or undead-bane weapon special ability for 1 minute. If you spend two uses of your blessing when activating this ability, the weapon can have both weapon special abilities.
 
@@ -226,7 +226,7 @@ Evil deities that offer the Air, Earth, Fire, and Water blessings or nonevil dei
 
 The fury of the quaking earth infuses your faith.
 
-**Stone’s Base (Minor)**: You can touch an ally to bless it with the stalwart resilience of stone. For 1 minute, the creature gains a +4 bonus to its CMD against maneuvers that would move the ally or knock it prone.
+**Stone’s Base (Minor)**: You can touch an ally to bless it with the stalwart resilience of stone. For 1 minute, the creature gains a +4 bonus to its CMD against maneuvers that would move the ally or knock it [prone](../../rules/appendices/conditions.md#prone).
 
 **Earth Hammer (Major)**: At 10th level, you can touch a weapon to bless it with the force of a mighty earthquake for 1 minute. When the weapon hits a creature, the target must succeed at a Reflex save or fall prone; either way, the creature is immune to this ability for 24 hours.
 
@@ -294,7 +294,7 @@ If a focused blessing ability calls for a saving throw, the DC of the save is eq
 
 **Replacement Blessing**: The following minor blessing replaces the powerful healer ability of the Healing blessing.
 
-**Ameliorating Touch (minor)**: At 1st level, your touch is a balm to your suffering allies. You can touch an ally as a swift action to temporarily relieve that ally of the fatigued, shaken, or sickened condition. This blessing suppresses those conditions for 1 minute. At 2nd level, you can spend two uses of your blessing ability whenever you heal yourself or an ally with your fervor class ability to use this minor blessing as a free action instead of a swift action.
+**Ameliorating Touch (minor)**: At 1st level, your touch is a balm to your suffering allies. You can touch an ally as a swift action to temporarily relieve that ally of the [fatigued](../../rules/appendices/conditions.md#fatigued), [shaken](../../rules/appendices/conditions.md#shaken), or [sickened](../../rules/appendices/conditions.md#sickened) condition. This blessing suppresses those conditions for 1 minute. At 2nd level, you can spend two uses of your blessing ability whenever you heal yourself or an ally with your fervor class ability to use this minor blessing as a free action instead of a swift action.
 
 ### Resurrection Blessing
 

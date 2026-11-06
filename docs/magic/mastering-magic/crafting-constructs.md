@@ -36,7 +36,7 @@ Animating a construct takes 1 day for every 1,000 gp of its market price (not th
 
 The check is attempted at the very end of the process.
 
-**Skill Type**: Listed in the construction requirements. Most constructs allow a Craft skill, and some allow others (a flesh golem can be made with Heal). Most list more than one skill; you choose which to use.
+**Skill Type**: Listed in the construction requirements. Most constructs allow a [Craft](../../rules/skills/craft.md) skill, and some allow others (a flesh golem can be made with [Heal](../../rules/skills/heal.md)). Most list more than one skill; you choose which to use.
 
 **DC**: Listed in the construction requirements. Generally it equals 5 + the construct's default caster level, plus modifiers: +5 for accelerated crafting, and +5 for each optional prerequisite you fail to meet.
 
@@ -68,7 +68,7 @@ These modifications alter or enhance existing constructs; the base rules are in 
 
 ### Basic Modifications
 
-**Movement Modification**: Improves existing movement. A land speed increases by 10 feet per purchase (2,000 gp each), up to double its original speed. Climb or swim speeds improve the same way at 3,000 gp per 10 feet, and fly speeds at 4,000 gp per 10 feet. A construct can also gain a new climb or swim speed of 15 feet for 6,000 gp, or a fly speed of 15 feet for 8,000 gp if it has at least 5 Hit Dice. A Tiny or smaller construct gains good maneuverability, Medium or Small average, Large or Huge poor, and Gargantuan or larger clumsy.
+**Movement Modification**: Improves existing movement. A land speed increases by 10 feet per purchase (2,000 gp each), up to double its original speed. [Climb](../../rules/skills/climb.md) or swim speeds improve the same way at 3,000 gp per 10 feet, and fly speeds at 4,000 gp per 10 feet. A construct can also gain a new climb or swim speed of 15 feet for 6,000 gp, or a fly speed of 15 feet for 8,000 gp if it has at least 5 Hit Dice. A Tiny or smaller construct gains good maneuverability, Medium or Small average, Large or Huge poor, and Gargantuan or larger clumsy.
 
 **Resistances**: The construct gains energy resistance 5 to acid, cold, electricity, or fire for 4,000 gp. Existing resistance can be improved up to double its value or 15, whichever is lower, for 6,000 gp for every increment of 5. A construct vulnerable to an energy type cannot gain resistance to it this way.
 
@@ -105,8 +105,8 @@ Automatons are intelligent constructs built long ago by a group of artificers wh
 - Telepathy.
 - Proficiency with its natural weapons, all simple weapons, and all weapons mentioned in its entry.
 - Natural weapons and any wielded weapons are treated as lawful and magic for overcoming damage reduction.
-- **Automaton Core (Ex)**: A destroyed automaton leaves behind an [automaton core](../../magic-items/construct-items.md), which can be harvested with a successful Spellcraft check.
-- **Intelligent Construct (Ex)**: They can take class levels, gain feats, and gain class skills and extra skill points: 4 + Intelligence modifier (minimum 1) per Hit Die. Class skills are Climb, Craft, Diplomacy, Fly, Intimidate, Knowledge (all), Perception, Sense Motive, Spellcraft, Stealth, and Use Magic Device.
+- **Automaton Core (Ex)**: A destroyed automaton leaves behind an [automaton core](../../magic-items/construct-items.md), which can be harvested with a successful [Spellcraft](../../rules/skills/spellcraft.md) check.
+- **Intelligent Construct (Ex)**: They can take class levels, gain feats, and gain class skills and extra skill points: 4 + Intelligence modifier (minimum 1) per Hit Die. Class skills are Climb, Craft, [Diplomacy](../../rules/skills/diplomacy.md), [Fly](../../rules/skills/fly.md), [Intimidate](../../rules/skills/intimidate.md), [Knowledge](../../rules/skills/knowledge.md) (all), [Perception](../../rules/skills/perception.md), [Sense Motive](../../rules/skills/sense-motive.md), Spellcraft, [Stealth](../../rules/skills/stealth.md), and [Use Magic Device](../../rules/skills/use-magic-device.md).
 - **Vulnerable Mind (Ex)**: They are not immune to mind-affecting effects.
 
 **Automaton Cores**: Each core holds a spark of consciousness from one individual combined with a large portion of planar energy. Removing a core from a destroyed or willing automaton takes a number of hours equal to half the automaton's CR, followed by a Spellcraft check (DC 20 + the automaton's CR). On a success, the core is removed and usable. On a failure, the attempt cannot be repeated for 24 hours; failing by more than 5 damages the core and reduces its spell points by 1. Returning a core to an inactive automaton's body takes another check with the same DC. If the consciousness in the body and the new core are incompatible or unwilling to meld, they make opposed Charisma checks; the winner becomes dominant, though it may be challenged again later. Powering an automaton with a different core can cause a mental struggle; it usually ends with one personality prevailing, but occasionally creates a new, shared consciousness.

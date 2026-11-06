@@ -19,11 +19,11 @@ Any nongood creature within the area of a *holy word* spell suffers the followin
 
 The effects are cumulative and concurrent. A successful Will save reduces or eliminates these effects. Creatures affected by multiple effects make only one save and apply the result to all the effects.
 
-*Deafened*: The creature is deafened for 1d4 rounds. Save negates.
+*Deafened*: The creature is [deafened](../../rules/appendices/conditions.md#deafened) for 1d4 rounds. Save negates.
 
-*Blinded*: The creature is blinded for 2d4 rounds. Save reduces the blinded effect to 1d4 rounds.
+*Blinded*: The creature is [blinded](../../rules/appendices/conditions.md#blinded) for 2d4 rounds. Save reduces the blinded effect to 1d4 rounds.
 
-*Paralyzed*: The creature is paralyzed and helpless for 1d10 minutes. Save reduces the paralyzed effect to 1 round.
+*Paralyzed*: The creature is [paralyzed](../../rules/appendices/conditions.md#paralyzed) and [helpless](../../rules/appendices/conditions.md#helpless) for 1d10 minutes. Save reduces the paralyzed effect to 1 round.
 
 *Killed*: Living creatures die. Undead creatures are destroyed. Save negates. If the save is successful, the creature instead takes 3d6 points of damage + 1 point per caster level (maximum +25).
 

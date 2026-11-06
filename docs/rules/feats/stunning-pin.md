@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-You can render a pinned foe temporarily incapacitated.
+You can render a [pinned](../appendices/conditions.md#pinned) foe temporarily incapacitated.
 
 **Prerequisites**: [Improved Grapple](improved-grapple.md), [Improved Unarmed Strike](improved-unarmed-strike.md), [Stunning Fist](stunning-fist.md).
 

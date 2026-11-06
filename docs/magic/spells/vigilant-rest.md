@@ -8,7 +8,7 @@
 **Duration** 8 hours (D)  
 **Saving Throw** Will (harmless); **Spell Resistance** yes (harmless)
 
-While the target of this spell is asleep, she retains some of her normal powers of perception. While she tunes out harmless sounds such as the crackling of the campfire, crickets, or light breezes, she does not take the normal +10 modifier to the DC of Perception checks she attempts while asleep.
+While the target of this spell is asleep, she retains some of her normal powers of perception. While she tunes out harmless sounds such as the crackling of the campfire, crickets, or light breezes, she does not take the normal +10 modifier to the DC of [Perception](../../rules/skills/perception.md) checks she attempts while asleep.
 
 If the target detects a threat or unexplained noise while sleeping, she can wake immediately and stand up from her sleeping position as a free action.
 

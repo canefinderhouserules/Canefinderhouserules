@@ -20,11 +20,11 @@ Unless otherwise stated, bonuses granted by a variant channeling are sacred bonu
 
 A character who has the channel energy ability from a class other than cleric may use these variant channeling rules if the class’s abilities are tied to serving a deity. For example, paladins can select alternative channeling abilities if they serve a deity, as can oracles with the Life mystery (as they serve many deities), but necromancer wizards cannot. The following is a list of example portfolios and the variant channeling abilities available to each.
 
-**Air/Sky/Wind**: Heal—Creatures gain a channel bonus on Acrobatics and Fly checks, saving throws against wind effects, and effects with the air descriptor until the end of your next turn. Harm—Creatures are buffeted with wind until the end of your next turn; this wind gives them a channel penalty on ranged attacks, and their movement is halved if they move toward you.
+**Air/Sky/Wind**: Heal—Creatures gain a channel bonus on [Acrobatics](../../rules/skills/acrobatics.md) and [Fly](../../rules/skills/fly.md) checks, saving throws against wind effects, and effects with the air descriptor until the end of your next turn. Harm—Creatures are buffeted with wind until the end of your next turn; this wind gives them a channel penalty on ranged attacks, and their movement is halved if they move toward you.
 
-**Ale/Wine**: Heal—Creatures ignore the nauseated and sickened conditions, as well as ability damage and drain from poison, until the end of your next turn. This does not bring back to life creatures killed by Constitution damage. Harm—Creatures are nauseated for 1 round.
+**Ale/Wine**: Heal—Creatures ignore the [nauseated](../../rules/appendices/conditions.md#nauseated) and [sickened](../../rules/appendices/conditions.md#sickened) conditions, as well as ability damage and drain from poison, until the end of your next turn. This does not bring back to life creatures killed by Constitution damage. Harm—Creatures are nauseated for 1 round.
 
-**Art/Music**: Heal—Creatures gain a channel bonus on Perform checks and on saving throws against illusions, sonic effects, and language-dependent effects for 1 minute. Harm—Creatures take a channel penalty on saving throws against illusions, sonic effects, and language-dependent effects for 1 minute.
+**Art/Music**: Heal—Creatures gain a channel bonus on [Perform](../../rules/skills/perform.md) checks and on saving throws against illusions, sonic effects, and language-dependent effects for 1 minute. Harm—Creatures take a channel penalty on saving throws against illusions, sonic effects, and language-dependent effects for 1 minute.
 
 **Battle/Wrath**: Heal—Creatures gain a channel bonus on weapon damage and critical hit confirmation rolls until the end of your next turn. Harm—Creatures take a channel penalty on weapon damage and critical hit confirmation rolls until the end of your next turn.
 
@@ -44,13 +44,13 @@ A character who has the channel energy ability from a class other than cleric ma
 
 **Disease**: Heal—Creatures heal a number of points of ability damage to one ability score (your choice) equal to your channel bonus. Harm—Creatures are sickened until the end of your next turn, plus a number of rounds equal to your channel penalty. At cleric level 10, you may select one creature as the target of a contagion in addition to the effects of the channeled energy. At cleric level 20, all creatures in the area are subject to contagion in addition to the effects of the channeled energy.
 
-**Dreams**: Heal—Creatures affected by sleep effects may attempt another saving throw and apply the channel bonus on the roll. Willingly sleeping creatures gain a channel bonus on saving throws and Perception checks for up to 8 hours (this bonus ends if the creature awakens). Harm— Creatures gain a channel penalty on Perception checks and saving throws against exhaustion, fatigue, and sleep effects for 1 minute.
+**Dreams**: Heal—Creatures affected by sleep effects may attempt another saving throw and apply the channel bonus on the roll. Willingly sleeping creatures gain a channel bonus on saving throws and [Perception](../../rules/skills/perception.md) checks for up to 8 hours (this bonus ends if the creature awakens). Harm— Creatures gain a channel penalty on Perception checks and saving throws against exhaustion, fatigue, and sleep effects for 1 minute.
 
 **Earth**: Heal—Creatures gain a DR 1/adamantine until the end of your next turn. This DR improves by 1 at 5th level and every 5 levels thereafter. This does not allow recipients to overcome DR/adamantine with their own attacks. Harm—All squares in the area are treated as difficult terrain for 1 minute.
 
-**Envy**: Heal—Creatures gain a channel bonus on disarm and steal combat maneuvers, Bluff checks, and Sleight of Hand checks for 1 minute. Harm—Creatures must attempt a steal combat maneuver on their next turn against an adjacent enemy. This is a compulsion effect.
+**Envy**: Heal—Creatures gain a channel bonus on disarm and steal combat maneuvers, [Bluff](../../rules/skills/bluff.md) checks, and [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks for 1 minute. Harm—Creatures must attempt a steal combat maneuver on their next turn against an adjacent enemy. This is a compulsion effect.
 
-**Farming**: Heal—Creatures ignore fatigue (but not exhaustion) for 1 minute. The healing effect is enhanced for plant creatures. Harm—The damage effect is enhanced for plant creatures. Creatures are fatigued, as if experiencing starvation.
+**Farming**: Heal—Creatures ignore fatigue (but not exhaustion) for 1 minute. The healing effect is enhanced for plant creatures. Harm—The damage effect is enhanced for plant creatures. Creatures are [fatigued](../../rules/appendices/conditions.md#fatigued), as if experiencing starvation.
 
 **Fate**: Heal—Creatures gain a channel bonus on one d20 roll made during their next readied action as long as it is taken before the end of your next turn. Harm—Creatures gain a channel penalty on ability checks and skill checks for 1 minute.
 
@@ -62,17 +62,17 @@ Affected creatures who fail their saves catch on fire.
 
 Alternatively, you may repair damage to metal objects and metal constructs as if they were creatures, and this healing is enhanced. Harm—The damage effect is enhanced against metal constructs and unattended metal objects.
 
-**Freedom**: Heal—Creatures gain a channel bonus on Escape Artist checks, CMB checks to escape a grapple, and saving throws against becoming entangled, paralyzed, or slowed. Harm—Creatures are slowed (as slow) until the end of your next turn.
+**Freedom**: Heal—Creatures gain a channel bonus on [Escape Artist](../../rules/skills/escape-artist.md) checks, CMB checks to escape a grapple, and saving throws against becoming [entangled](../../rules/appendices/conditions.md#entangled), [paralyzed](../../rules/appendices/conditions.md#paralyzed), or slowed. Harm—Creatures are slowed (as slow) until the end of your next turn.
 
-**Hunting**: Heal—Creatures gain a channel bonus on Survival checks and ranged attack rolls until the end of your next turn. Harm—Creatures gain a –5 penalty on Stealth checks for 1 minute and temporarily lose effects or special abilities that reduce or negate tracks for that duration.
+**Hunting**: Heal—Creatures gain a channel bonus on [Survival](../../rules/skills/survival.md) checks and ranged attack rolls until the end of your next turn. Harm—Creatures gain a –5 penalty on [Stealth](../../rules/skills/stealth.md) checks for 1 minute and temporarily lose effects or special abilities that reduce or negate tracks for that duration.
 
-**Justice/Law**: Heal—Lawful creatures gain a channel bonus on Perception and Sense Motive checks, attack rolls, and saving throws until the end of your next turn. Harm— Creatures are affected by zone of truth until the end of your next turn.
+**Justice/Law**: Heal—Lawful creatures gain a channel bonus on Perception and [Sense Motive](../../rules/skills/sense-motive.md) checks, attack rolls, and saving throws until the end of your next turn. Harm— Creatures are affected by zone of truth until the end of your next turn.
 
-**Knowledge**: Heal—Creatures gain a channel bonus on Knowledge and Perception checks until the end of your next turn. Harm—Sentient creatures (Intelligence 3+) who fail their saves take 1d2 points of Intelligence damage. A successful save negates this Intelligence damage.
+**Knowledge**: Heal—Creatures gain a channel bonus on [Knowledge](../../rules/skills/knowledge.md) and Perception checks until the end of your next turn. Harm—Sentient creatures (Intelligence 3+) who fail their saves take 1d2 points of Intelligence damage. A successful save negates this Intelligence damage.
 
 **Luck**: Heal—Creatures gain a channel bonus or a luck bonus (creature’s choice) on one roll (attack roll, CMB check, saving throw, or skill check) made before the end of your next turn. Harm—Creatures take a channel penalty on all d20 rolls until the end of your next turn.
 
-**Madness**: Heal—Creatures gain a channel bonus on saving throws against confusion, insanity, rage, and similar effects. Harm—Creatures are confused until the end of your next turn.
+**Madness**: Heal—Creatures gain a channel bonus on saving throws against confusion, insanity, rage, and similar effects. Harm—Creatures are [confused](../../rules/appendices/conditions.md#confused) until the end of your next turn.
 
 **Magic**: Heal—Creatures gain a channel bonus on caster level checks and concentration checks until the end of your next turn. Harm—All creatures must make concentration checks (DC = channel energy DC plus spell level) to use spells or spell-like abilities until the end of your next turn.
 
@@ -80,7 +80,7 @@ Alternatively, you may repair damage to metal objects and metal constructs as if
 
 **Murder**: Heal—Creatures that critically hit before the end of your next turn add a bleed effect equal to your channel bonus. Harm—Creatures gain a bleed effect equal to your channel penalty.
 
-**Nature**: Heal—The healing effect is enhanced for animals and fey. Creatures gain a channel bonus on Handle Animal and wild empathy checks for 1 minute. Harm—The harmful effect is enhanced for animals and fey.
+**Nature**: Heal—The healing effect is enhanced for animals and fey. Creatures gain a channel bonus on [Handle Animal](../../rules/skills/handle-animal.md) and wild empathy checks for 1 minute. Harm—The harmful effect is enhanced for animals and fey.
 
 **Nightmares**: Heal—Creatures gain a channel bonus on charm and compulsion saves for 1 minute. Harm— Creatures gain a channel penalty on concentration checks and saves against fear and phantasms.
 
@@ -94,9 +94,9 @@ Harm—Creatures are sickened until the end of your next turn, plus a number of 
 
 **Revenge/Vengeance**: Heal—This works like a standard channel (not halved). Harm—Creatures gain a channel penalty on attack rolls until the end of your next turn.
 
-**Rulership**: Heal—Creatures gain a channel bonus on Diplomacy checks and to the DC of their language-dependent and charm effects until the end of your next turn. Harm—Creatures are dazed for 1 round.
+**Rulership**: Heal—Creatures gain a channel bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks and to the DC of their language-dependent and charm effects until the end of your next turn. Harm—Creatures are [dazed](../../rules/appendices/conditions.md#dazed) for 1 round.
 
-**Ocean/Sea/Water**: Heal—Creatures gain a channel bonus on Climb and Swim checks and Constitution checks to hold their breath; this bonus lasts for 1 minute. Creatures ignore fatigue from thirst and pressure damage from deep water for 1 minute. Harm—The harming effect is enhanced for creatures with the aquatic or water subtypes.
+**Ocean/Sea/Water**: Heal—Creatures gain a channel bonus on [Climb](../../rules/skills/climb.md) and [Swim](../../rules/skills/swim.md) checks and Constitution checks to hold their breath; this bonus lasts for 1 minute. Creatures ignore fatigue from thirst and pressure damage from deep water for 1 minute. Harm—The harming effect is enhanced for creatures with the aquatic or water subtypes.
 
 **Secrets**: Heal—Creatures gain a channel bonus on Sense Motive checks and caster level checks and to save DCs of their divination spells until the end of your next turn. Harm—Creatures gain a channel penalty on saving throws against divinations for 1 minute. Creatures using Sense Motive against affected creatures for the next minute gain a channel bonus on Sense Motive checks.
 
@@ -108,9 +108,9 @@ Harm—Creatures are sickened until the end of your next turn, plus a number of 
 
 **Strength**: Heal—Creatures gain a channel bonus on all Strength-based attacks, combat maneuver checks that rely on Strength, Strength-based skills, and Strength checks until the end of your next turn. Harm—Creatures gain a channel penalty on all Strength-based rolls and to Strength-based game statistics (such as CMD) until the end of your next turn.
 
-**Sun**: Heal—The illumination level in the area increases by one step, and creatures gain a channel bonus on saves against blindness and light-based effects. Harm—Creatures are dazzled for 1 minute; creatures with light blindness or light sensitivity are blinded instead of dazzled.
+**Sun**: Heal—The illumination level in the area increases by one step, and creatures gain a channel bonus on saves against blindness and light-based effects. Harm—Creatures are [dazzled](../../rules/appendices/conditions.md#dazzled) for 1 minute; creatures with light blindness or light sensitivity are [blinded](../../rules/appendices/conditions.md#blinded) instead of dazzled.
 
-**Trickery**: Heal—Creatures gain a channel bonus on Bluff, Disguise, Sleight of Hand, and Stealth checks for 1 minute. Harm—Creatures gain a channel penalty on Perception and Sense Motive checks for 1 minute.
+**Trickery**: Heal—Creatures gain a channel bonus on Bluff, [Disguise](../../rules/skills/disguise.md), Sleight of Hand, and Stealth checks for 1 minute. Harm—Creatures gain a channel penalty on Perception and Sense Motive checks for 1 minute.
 
 **Undeath**: Heal—The healing effect is enhanced for undead creatures and those with negative energy affinity. Harm—This works like a standard channel (not halved).
 
@@ -208,7 +208,7 @@ The divine strategist leads the armies of the faithful, not from the front lines
 
 **Domains**: A divine strategist gains only a single domain.
 
-**Master Tactician (Ex)**: A divine strategist can always act in a surprise round even if she fails to make a Perception check to notice enemies, though she is considered flat-footed until she acts. In addition, the divine strategist gains a bonus on initiative checks equal to 1/2 her cleric level. At 20th level, a divine strategist’s initiative roll is automatically a natural 20. Allies able to see and hear the divine strategist gain a bonus on initiative checks equal to 1/4 the divine strategist’s level. This is a language-dependent ability. This ability replaces [channel energy](cleric.md#channel-energy-su).
+**Master Tactician (Ex)**: A divine strategist can always act in a surprise round even if she fails to make a Perception check to notice enemies, though she is considered [flat-footed](../../rules/appendices/conditions.md#flat-footed) until she acts. In addition, the divine strategist gains a bonus on initiative checks equal to 1/2 her cleric level. At 20th level, a divine strategist’s initiative roll is automatically a natural 20. Allies able to see and hear the divine strategist gain a bonus on initiative checks equal to 1/4 the divine strategist’s level. This is a language-dependent ability. This ability replaces [channel energy](cleric.md#channel-energy-su).
 
 **Caster Support (Su)**: A divine strategist can use the aid another action to assist another divine spellcaster, granting a +2 circumstance bonus on caster level checks and concentration checks until the beginning of the divine strategist’s next turn. This bonus increases by +1 at 4th level and every four levels thereafter (to a maximum of +7 at 20th level). The allied caster must remain adjacent to the divine strategist to gain this benefit. Caster support can be used to assist arcane spellcasters or characters using magical items, but they gain only half the normal bonus.
 
@@ -236,9 +236,9 @@ The merciful healer is a master of battlefield revivification, sustaining and re
 
 **Channel Energy (Su)**: As the [cleric ability](cleric.md#channel-energy-su), save that a merciful healer must channel positive energy, and when she does, she cannot choose to target undead. This ability is otherwise identical to the cleric ability of the same name.
 
-**Combat Medic (Ex)**: A merciful healer does not provoke attacks of opportunity when using the Heal skill to stabilize another creature or casting healing spells.
+**Combat Medic (Ex)**: A merciful healer does not provoke attacks of opportunity when using the [Heal](../../rules/skills/heal.md) skill to stabilize another creature or casting healing spells.
 
-**Merciful Healing (Su)**: At 3rd level, a merciful healer can channel positive energy to relieve one or more harmful conditions. The merciful healer chooses one of the following harmful conditions at 3rd level: fatigued, shaken, or sickened. When the merciful healer channels energy she can remove the chosen condition from one living creature that she heals within her channel energy burst. At 6th level, she can choose another condition. It can be one of those she didn’t choose at 3rd level, or one of the following conditions: dazed, diseased, or staggered. She can remove the selected condition or the one she chose at 3rd level from up to two creatures within her channel energy burst. She gains another condition at 9th level, and can choose an above condition or one of the following conditions: cursed, exhausted, frightened, nauseated, or poisoned. She can remove that condition, or a condition she previously chose, from one or two creatures within the burst. Finally, at 12th level, she can choose a lower-level condition or one of the following conditions: blinded, deafened, paralyzed, or stunned. She can remove that condition or one she previously chose from one, two, or three creatures within her channel energy burst. Feats and effects that affect a [paladin’s mercy](paladin.md#mercy-su) also affect this ability.
+**Merciful Healing (Su)**: At 3rd level, a merciful healer can channel positive energy to relieve one or more harmful conditions. The merciful healer chooses one of the following harmful conditions at 3rd level: fatigued, [shaken](../../rules/appendices/conditions.md#shaken), or sickened. When the merciful healer channels energy she can remove the chosen condition from one living creature that she heals within her channel energy burst. At 6th level, she can choose another condition. It can be one of those she didn’t choose at 3rd level, or one of the following conditions: dazed, diseased, or [staggered](../../rules/appendices/conditions.md#staggered). She can remove the selected condition or the one she chose at 3rd level from up to two creatures within her channel energy burst. She gains another condition at 9th level, and can choose an above condition or one of the following conditions: cursed, [exhausted](../../rules/appendices/conditions.md#exhausted), [frightened](../../rules/appendices/conditions.md#frightened), nauseated, or poisoned. She can remove that condition, or a condition she previously chose, from one or two creatures within the burst. Finally, at 12th level, she can choose a lower-level condition or one of the following conditions: blinded, [deafened](../../rules/appendices/conditions.md#deafened), paralyzed, or [stunned](../../rules/appendices/conditions.md#stunned). She can remove that condition or one she previously chose from one, two, or three creatures within her channel energy burst. Feats and effects that affect a [paladin’s mercy](paladin.md#mercy-su) also affect this ability.
 
 **True Healer (Su)**: At 8th level, when a merciful healer uses channel energy, she can choose to apply the benefits of merciful healing or to reroll any 1s when determining how much damage she heals with channel energy. She must choose which benefit to take before she rolls to see how much damage she heals.
 
@@ -307,7 +307,7 @@ Forgemasters are priestly dwarves who are ritual casters and expert enchanters, 
 
 **Runeforger (Su)**: A forgemaster may inscribe mystical runes upon a suit of armor, shield, or weapon as full-round action, using this ability a number of times per day equal to 3 + her Intelligence modifier. These runes last 1 round per cleric level, but inscribing the same rune twice on an item increases this duration to 1 minute per level, three times to 10 minutes per level, and four times to 1 hour per level. *Erase* affects runes as magical writing. A forgemaster learns forgemaster’s blessing at 1st level and may learn one additional rune at 2nd level and every 2 levels thereafter. Only one type of rune marked with an asterisk (*) may be placed on an item at any given time. This ability replaces [channel energy](cleric.md#channel-energy-su).
 
-*Ancient Splendor*: The inscribed weapon, armor, or shield grants a +2 circumstance bonus on Diplomacy and Intimidate checks (+4 when interacting with dwarves).
+*Ancient Splendor*: The inscribed weapon, armor, or shield grants a +2 circumstance bonus on Diplomacy and [Intimidate](../../rules/skills/intimidate.md) checks (+4 when interacting with dwarves).
 
 *Bloodthirst*: The inscribed piercing or slashing weapon functions as if it had the *wounding* special ability, even if nonmagical. The forgemaster must be at least 4th level before learning this rune.
 
@@ -385,7 +385,7 @@ For the faithful of a lawful evil ruler of devils, the words used in a negotiati
 
 **Serpent (Su)**: At 1st level, an infernal advocate gains a familiar as the arcane bond class feature, using her cleric level as her wizard level. She must choose a viper familiar. The viper speaks one language of the infernal advocate's choice as a supernatural ability.
 
-**Devil in the Details (Ex)**: At 1st level, an infernal advocate learns to choose her words so carefully that even when she says something designed to deceive listeners, the words are phrased to be technically true. She can use her Profession (barrister) skill for Bluff and Diplomacy checks. This benefit also extends to her familiar. The infernal advocate gains an insight bonus equal to 1/2 her cleric level (minimum +1) on Linguistics checks related to forgeries and on all Profession (barrister) checks.
+**Devil in the Details (Ex)**: At 1st level, an infernal advocate learns to choose her words so carefully that even when she says something designed to deceive listeners, the words are phrased to be technically true. She can use her [Profession](../../rules/skills/profession.md) (barrister) skill for Bluff and Diplomacy checks. This benefit also extends to her familiar. The infernal advocate gains an insight bonus equal to 1/2 her cleric level (minimum +1) on [Linguistics](../../rules/skills/linguistics.md) checks related to forgeries and on all Profession (barrister) checks.
 
 **Shoulder Devil (Su)**: At 8th level, an infernal advocate can choose an imp familiar as though she had the Improved Familiar feat.
 
@@ -485,7 +485,7 @@ Practicing one's religion is not always legal. Some lands outlaw the worship of 
 
 **False Arcanist (Ex)**: At 1st level, a hidden priest is able to disguise his cleric spellcasting, presenting it as arcane magic of some kind. Typically, this is as alchemist, bard, sorcerer, or wizard magic, and the cleric disguises the words and gestures of the cleric spell with accoutrements appropriate to his apparent profession. He must make a skill check (DC 10 + twice the level of the spell) to disguise his casting and successfully cast the spell. The type of skill check depends on the type of caster he pretends to be: Craft (alchemy) for alchemist, Perform for bard, Knowledge (arcana) for sorcerer or wizard. Using Spellcraft to identify the spell works normally, though unless the observer beats the DC by 10 or more, she doesn't suspect the source of the magic is divine.
 
-For example, a hidden priest pretending to be an alchemist wants to cast [*cure light wounds*](../../magic/spells/cure-light-wounds.md) on a wounded townsperson. If he makes a DC 12 Craft (alchemy) check, he disguises his spellcasting as the mixing of an alchemical extract or potion, which he gives to the target. An observer making a DC 16 Spellcraft check can identify his spell as *cure light wounds*, but doesn't realize his "alchemical" methods are a sham unless her check result is 26 or higher.
+For example, a hidden priest pretending to be an alchemist wants to cast [*cure light wounds*](../../magic/spells/cure-light-wounds.md) on a wounded townsperson. If he makes a DC 12 [Craft](../../rules/skills/craft.md) (alchemy) check, he disguises his spellcasting as the mixing of an alchemical extract or potion, which he gives to the target. An observer making a DC 16 [Spellcraft](../../rules/skills/spellcraft.md) check can identify his spell as *cure light wounds*, but doesn't realize his "alchemical" methods are a sham unless her check result is 26 or higher.
 
 When the hidden priest uses this ability, he must still provide any divine focus components for the spells he casts. However, the divine focus doesn't need to be an obvious symbol of his faith. It could be a small coin, tattoo, or garment bearing the symbol, whether presented openly, disguised, or hidden within a larger picture. He must use this replacement divine focus just as he would his true one (for example, he couldn't leave the coin in his shoe). If a spell requires a divine focus with a specific or minimum cost, the replacement divine focus must be of similar value to be used as the divine focus.
 

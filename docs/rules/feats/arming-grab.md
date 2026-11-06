@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-Opponents would be foolish to underestimate you, even if you appear unarmed and helpless. You are practiced at turning the tables on armed foes and using their own weapons against them.
+Opponents would be foolish to underestimate you, even if you appear unarmed and [helpless](../appendices/conditions.md#helpless). You are practiced at turning the tables on armed foes and using their own weapons against them.
 
 **Prerequisites**: [Catch Off-Guard](catch-off-guard.md), [Improved Disarm](improved-disarm.md).
 

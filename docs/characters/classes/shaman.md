@@ -95,7 +95,7 @@ A shaman can chant as a move action. Any creature that is within 30 feet that is
 
 #### Charm (Su)
 
-A shaman charms an animal or humanoid creature within 30 feet by beckoning and speaking soothing words. This improves the attitude of an animal or humanoid creature by 1 step, as if the shaman had successfully used the Diplomacy skill. The effect lasts for a number of rounds equal to the shaman's Wisdom modifier (minimum 1). A successful Will saving throw negates this effect. Whether or not the save is successful, the creature cannot be the target of this hex again for 24 hours. At 8th level, this effect improves the attitude of the creature by 2 steps. This is a mind-affecting charm effect.
+A shaman charms an animal or humanoid creature within 30 feet by beckoning and speaking soothing words. This improves the attitude of an animal or humanoid creature by 1 step, as if the shaman had successfully used the [Diplomacy](../../rules/skills/diplomacy.md) skill. The effect lasts for a number of rounds equal to the shaman's Wisdom modifier (minimum 1). A successful Will saving throw negates this effect. Whether or not the save is successful, the creature cannot be the target of this hex again for 24 hours. At 8th level, this effect improves the attitude of the creature by 2 steps. This is a mind-affecting charm effect.
 
 #### Evil Eye (Su)
 
@@ -103,7 +103,7 @@ The shaman causes doubt to creep into the mind of a foe within 30 feet that she 
 
 #### Fetish (Ex)
 
-The shaman receives [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md) as a bonus feat and gains a +4 insight bonus on Spellcraft checks to identify magic items permanently.
+The shaman receives [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md) as a bonus feat and gains a +4 insight bonus on [Spellcraft](../../rules/skills/spellcraft.md) checks to identify magic items permanently.
 
 #### Fortune (Su)
 

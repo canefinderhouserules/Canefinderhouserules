@@ -2,7 +2,7 @@
 
 *(Combat, Critical)*
 
-Your critical hits cause opponents to become sickened.
+Your critical hits cause opponents to become [sickened](../appendices/conditions.md#sickened).
 
 **Prerequisites**: [Critical Focus](critical-focus.md), base attack bonus +11.
 

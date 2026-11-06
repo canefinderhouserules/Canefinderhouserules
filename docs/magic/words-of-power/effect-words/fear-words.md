@@ -9,7 +9,7 @@ These words conjure a primal terror in all that hear them.
 **Saving Throw** Will negates; **Spell Resistance** Yes  
 **Target Restrictions** selected
 
-This effect word causes the target to become frightened for the duration. This word has no effect on targets with 5 or more Hit Dice.
+This effect word causes the target to become [frightened](../../../rules/appendices/conditions.md#frightened) for the duration. This word has no effect on targets with 5 or more Hit Dice.
 
 ## Terror (Fear)
 
@@ -17,7 +17,7 @@ This effect word causes the target to become frightened for the duration. This w
 **Duration** 1 round/level  
 **Saving Throw** Will negates; **Spell Resistance** Yes
 
-This effect word causes the targets to become frightened for the duration. A target that succeeds at its saving throw is shaken for 1 round.
+This effect word causes the targets to become frightened for the duration. A target that succeeds at its saving throw is [shaken](../../../rules/appendices/conditions.md#shaken) for 1 round.
 
 ## Horror (Fear)
 

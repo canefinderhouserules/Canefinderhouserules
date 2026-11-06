@@ -4,4 +4,4 @@ When you and your eidolon share senses, your combined minds grant you exceptiona
 
 **Prerequisite**: Bond senses class feature.
 
-**Benefit**: When sharing the senses of your eidolon, you gain a +4 competence bonus on Perception checks for the duration of your bond senses ability.
+**Benefit**: When sharing the senses of your eidolon, you gain a +4 competence bonus on [Perception](../skills/perception.md) checks for the duration of your bond senses ability.

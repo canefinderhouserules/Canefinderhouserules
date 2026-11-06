@@ -6,4 +6,4 @@ Your dealings with pirates, thieves, and assassins have taught you to be exceedi
 
 **Prerequisites**: [Alertness](alertness.md), [Combat Reflexes](combat-reflexes.md).
 
-**Benefit**: Opponents do not gain a +2 bonus on attack rolls for flanking you, although they can still sneak attack you. You also gain a +3 bonus on Sense Motive checks made to resist a foe’s Bluff checks to feint in combat.
+**Benefit**: Opponents do not gain a +2 bonus on attack rolls for flanking you, although they can still sneak attack you. You also gain a +3 bonus on [Sense Motive](../skills/sense-motive.md) checks made to resist a foe’s [Bluff](../skills/bluff.md) checks to feint in combat.

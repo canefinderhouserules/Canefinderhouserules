@@ -1,9 +1,9 @@
 # Suffocating Strangulation
 
-Your constriction attack forces the air out of your victim’s lungs and leaves him helpless and gasping for breath.
+Your constriction attack forces the air out of your victim’s lungs and leaves him [helpless](../appendices/conditions.md#helpless) and gasping for breath.
 
 **Prerequisites**: Improved grab, constrict.
 
-**Benefit**: By making a successful grapple check, you are able to coil your natural weapons around an opponent’s throat (or other breathing apparatus), crushing the breath out of him. The opponent cannot hold his breath and must immediately begin making Constitution checks at the end of his turn each round, starting at DC 10 and increasing by 1 each round. Failure indicates he falls unconscious at 0 hit points. Once the opponent is unconscious, you may choose to either damage him (requiring a grapple check) or continue to suffocate him (no check required); if you maintain the chokehold, on your next turn he drops to –1 hit points and is dying. If you maintain the chokehold on the following turn, he suffocates and dies.
+**Benefit**: By making a successful grapple check, you are able to coil your natural weapons around an opponent’s throat (or other breathing apparatus), crushing the breath out of him. The opponent cannot hold his breath and must immediately begin making Constitution checks at the end of his turn each round, starting at DC 10 and increasing by 1 each round. Failure indicates he falls [unconscious](../appendices/conditions.md#unconscious) at 0 hit points. Once the opponent is unconscious, you may choose to either damage him (requiring a grapple check) or continue to suffocate him (no check required); if you maintain the chokehold, on your next turn he drops to –1 hit points and is dying. If you maintain the chokehold on the following turn, he suffocates and dies.
 
 Creatures that do not need to breathe are unaffected by this ability.

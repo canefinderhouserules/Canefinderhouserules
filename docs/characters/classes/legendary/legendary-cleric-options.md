@@ -72,7 +72,7 @@ At 4th level you gain the wild shape ability, as a druid of your cleric level. Y
 
 **Animal Friendship (Su)**
 
-At 8th level, animals are automatically indifferent to you, and will not attack you without provocation. You can improve their attitude using your Handle Animal skill in place of Diplomacy, even when speaking to them normally.
+At 8th level, animals are automatically indifferent to you, and will not attack you without provocation. You can improve their attitude using your [Handle Animal](../../../rules/skills/handle-animal.md) skill in place of [Diplomacy](../../../rules/skills/diplomacy.md), even when speaking to them normally.
 
 **Doctrine of the Wild**
 
@@ -158,7 +158,7 @@ The domain of charm is one of relationships and companionship. As a legendary cl
 
 **Honeyed Words (Su)**
 
-You can layer your words with magic. Your spells with the charm subschool are cast as if they were modified by the Still Spell feat. This does not increase their level or casting time. When you cast such a spell, you can increase the casting time to 1 round and spend 1 point of faith. If you do so, your spellcasting is undetectable by Spellcraft checks, though others can notice your target acting strangely and roll Sense Motive as normal.
+You can layer your words with magic. Your spells with the charm subschool are cast as if they were modified by the Still Spell feat. This does not increase their level or casting time. When you cast such a spell, you can increase the casting time to 1 round and spend 1 point of faith. If you do so, your spellcasting is undetectable by [Spellcraft](../../../rules/skills/spellcraft.md) checks, though others can notice your target acting strangely and roll Sense Motive as normal.
 
 **Inspiring Kindness (Su)**
 
@@ -226,7 +226,7 @@ The increased bonus to aid another from team support improves by an additional +
 
 **Effective Leadership (Ex)**
 
-At 16th level, when your allies benefit from community organizer, their rolls all use the highest bonus before applying penalties (such as the sickened condition, ability damage, or armor check penalties).
+At 16th level, when your allies benefit from community organizer, their rolls all use the highest bonus before applying penalties (such as the [sickened](../../../rules/appendices/conditions.md#sickened) condition, ability damage, or armor check penalties).
 
 **Doctrine of the Militia**
 
@@ -282,7 +282,7 @@ You don’t fear the dark, but others do. You believe it is the right of those a
 
 **Nyctophobia (Su)**
 
-You can spend 1 point of faith when casting a spell that creates darkness. If you do, it gains the [fear] descriptor. While in an area of magical darkness created by a spell cast this way, all creatures without darkvision must make a Will save against the DC of the spell or become shaken for as long as they are in the darkness. If they were already shaken or would become shaken from any other source while suffering this effect, they become frightened instead. In addition, you treat the level of any darkness spell as one spell level higher when determining its interaction with spells that create light.
+You can spend 1 point of faith when casting a spell that creates darkness. If you do, it gains the [fear] descriptor. While in an area of magical darkness created by a spell cast this way, all creatures without darkvision must make a Will save against the DC of the spell or become [shaken](../../../rules/appendices/conditions.md#shaken) for as long as they are in the darkness. If they were already shaken or would become shaken from any other source while suffering this effect, they become [frightened](../../../rules/appendices/conditions.md#frightened) instead. In addition, you treat the level of any darkness spell as one spell level higher when determining its interaction with spells that create light.
 
 **Claim on the Night (Su)**
 
@@ -448,13 +448,13 @@ The domain of freedom is one of reflection, detachment, and perpetual striving. 
 
 **Breaker of Chains (Su)**
 
-By spending a faith point as an immediate action, you may grant an ally within 30 feet a sacred bonus to Acrobatics checks, Escape Artist checks, CMD, and saving throws against effects which would restrict their movement for 1 round. This bonus is equal to half your cleric level (minimum 2).
+By spending a faith point as an immediate action, you may grant an ally within 30 feet a sacred bonus to [Acrobatics](../../../rules/skills/acrobatics.md) checks, [Escape Artist](../../../rules/skills/escape-artist.md) checks, CMD, and saving throws against effects which would restrict their movement for 1 round. This bonus is equal to half your cleric level (minimum 2).
 
 **Freedom’s Call (Su)**
 
 At 4th level, you can emit a 30-foot aura of freedom for 1 minute by spending a faith point.
 
-Allies within this aura are not affected by the confused, grappled, frightened, panicked, paralyzed, pinned, or shaken conditions. This aura only suppresses these effects, and they return once a creature leaves the aura or when the aura ends, if applicable.
+Allies within this aura are not affected by the [confused](../../../rules/appendices/conditions.md#confused), [grappled](../../../rules/appendices/conditions.md#grappled), frightened, [panicked](../../../rules/appendices/conditions.md#panicked), [paralyzed](../../../rules/appendices/conditions.md#paralyzed), [pinned](../../../rules/appendices/conditions.md#pinned), or shaken conditions. This aura only suppresses these effects, and they return once a creature leaves the aura or when the aura ends, if applicable.
 
 **Forever Unbound (Su)**
 
@@ -554,11 +554,11 @@ Those who seek recognition do just as great of things as those who do great thin
 
 As an immediate action when you reduce a creature below 0 hit points, you can spend 1 point of faith to release a burst of celebratory healing.
 
-All allies within 30 feet are healed as though you had just channeled to heal, even if they would normally be unaffected (for instance, if they were living creatures and you channel negative energy). This ability has no effect if the triggering creature was helpless, unaware, or had fewer Hit Dice than half your character level.
+All allies within 30 feet are healed as though you had just channeled to heal, even if they would normally be unaffected (for instance, if they were living creatures and you channel negative energy). This ability has no effect if the triggering creature was [helpless](../../../rules/appendices/conditions.md#helpless), unaware, or had fewer Hit Dice than half your character level.
 
 **Glorious Presence (Su)**
 
-At 4th level you gain Dazzling Display as a bonus feat, even if you do not meet the prerequisites. You can use Dazzling Display as a standard action and demoralize an enemy as a swift action. You can also use your Perform skill in place of Intimidate whenever you attempt to demoralize a foe, including using Dazzling Display.
+At 4th level you gain Dazzling Display as a bonus feat, even if you do not meet the prerequisites. You can use Dazzling Display as a standard action and demoralize an enemy as a swift action. You can also use your [Perform](../../../rules/skills/perform.md) skill in place of Intimidate whenever you attempt to demoralize a foe, including using Dazzling Display.
 
 **Victorious Momentum (Su)**
 
@@ -576,7 +576,7 @@ As a swift action, you can spend 1 point of faith to double all morale bonuses a
 
 At 16th level, your visage becomes so impressive that it roots people to the ground.
 
-When you successfully demoralize a shaken enemy, you can spend 1 point of faith to make them staggered instead for the same duration. When you successfully demoralize a staggered enemy, you can spend 1 point of faith to make them paralyzed for one round.
+When you successfully demoralize a shaken enemy, you can spend 1 point of faith to make them [staggered](../../../rules/appendices/conditions.md#staggered) instead for the same duration. When you successfully demoralize a staggered enemy, you can spend 1 point of faith to make them paralyzed for one round.
 
 **Doctrine of Victory**
 
@@ -586,7 +586,7 @@ You believe there is no greater glory to be found than in victory over your enem
 
 Your allies’ victory is just as much your own. The radius of your victorious blow is doubled.
 
-In addition, you can use this ability when your allies knock an enemy unconscious as well as yourself.
+In addition, you can use this ability when your allies knock an enemy [unconscious](../../../rules/appendices/conditions.md#unconscious) as well as yourself.
 
 **Victorious Fanfare (Su)**
 
@@ -650,7 +650,7 @@ Starting at 16th level you can spend 3 points of faith as a standard action to r
 
 The domain of knowledge is one of understanding, self-improvement and personal growth. It is the highest calling of all people, clerics included, to seek knowledge and education, but as a legendary cleric of the knowledge domain you value learning for its own sake rather than any specific purpose. You most likely hold a role in the community as an educator or source of information and dedicate your free time to the accumulation of more information.
 
-**Divine Skill**: Any Knowledge skill
+**Divine Skill**: Any [Knowledge](../../../rules/skills/knowledge.md) skill
 
 **Divine Scholar (Ex)**
 
@@ -852,7 +852,7 @@ As a standard action, you can spend 1 point of faith to issue an inspiring comma
 
 **Noble Visage (Su)**
 
-At 4th level, you gain a natural aura of nobility that makes you seem more impressive to others. You gain a +2 bonus on Diplomacy, Bluff and Intimidate skill checks. This bonus increases by 1 at 9th level and every 4 levels thereafter, to a maximum of +5 at 17th level. As a standard action, you can spend 1 point of faith to touch an ally and grant them this bonus for a number of minutes equal to your Wisdom modifier.
+At 4th level, you gain a natural aura of nobility that makes you seem more impressive to others. You gain a +2 bonus on Diplomacy, [Bluff](../../../rules/skills/bluff.md) and [Intimidate](../../../rules/skills/intimidate.md) skill checks. This bonus increases by 1 at 9th level and every 4 levels thereafter, to a maximum of +5 at 17th level. As a standard action, you can spend 1 point of faith to touch an ally and grant them this bonus for a number of minutes equal to your Wisdom modifier.
 
 **Aura of Valor (Su)**
 
@@ -928,7 +928,7 @@ The doctrine of overgrowth taps into this mighty development to rearrange the ba
 
 **Entangling Roots (Su)**
 
-Whenever you cast a plant domain spell or use wood blast, you may spend a faith point to cause any affected creatures to become entangled for a number of rounds equal to your Wisdom modifier. Any creature who succeeds at their saving throw against the effect negates the entangled condition, while creatures hit by your wood blast are allowed a Reflex saving throw to negate this entanglement.
+Whenever you cast a plant domain spell or use wood blast, you may spend a faith point to cause any affected creatures to become [entangled](../../../rules/appendices/conditions.md#entangled) for a number of rounds equal to your Wisdom modifier. Any creature who succeeds at their saving throw against the effect negates the entangled condition, while creatures hit by your wood blast are allowed a Reflex saving throw to negate this entanglement.
 
 **Wild Growth (Su)**
 
@@ -1030,7 +1030,7 @@ You become permanently under the effects of death ward. As a standard action, yo
 
 **Exhausting Channel (Su)**
 
-Starting at 16th level, you can spend 1 point of faith and a use of channel as a standard action to sap the energy from creatures around you. Enemies within 30 feet of you must make a Will save against your channel DC. Living creatures who fail become fatigued, and undead creatures become staggered for the duration of the Turn Undead effect. A living creature who is already fatigued instead falls asleep, while an undead creature who is already staggered becomes paralyzed, even if they would be immune to paralysis.
+Starting at 16th level, you can spend 1 point of faith and a use of channel as a standard action to sap the energy from creatures around you. Enemies within 30 feet of you must make a Will save against your channel DC. Living creatures who fail become [fatigued](../../../rules/appendices/conditions.md#fatigued), and undead creatures become staggered for the duration of the Turn Undead effect. A living creature who is already fatigued instead falls asleep, while an undead creature who is already staggered becomes paralyzed, even if they would be immune to paralysis.
 
 **Domain Spells**
 
@@ -1080,7 +1080,7 @@ When you cast a spell that affects a specific area, such as consecrate, you can 
 
 **Runic Warding (Su)**
 
-At 16th level, when you cast a spell that affects a specific area, you can spend 1 point of faith and increase the casting time by 10 minutes to engrave a rune scheme into the environment, making the duration permanent. Spells cast in this way cannot be tied to a rune using your runestone ability. The spell can be disabled by a Disable Device or Spellcraft check with a DC equal to the spell’s DC + 10.
+At 16th level, when you cast a spell that affects a specific area, you can spend 1 point of faith and increase the casting time by 10 minutes to engrave a rune scheme into the environment, making the duration permanent. Spells cast in this way cannot be tied to a rune using your runestone ability. The spell can be disabled by a [Disable Device](../../../rules/skills/disable-device.md) or Spellcraft check with a DC equal to the spell’s DC + 10.
 
 **Domain Spells**
 
@@ -1180,7 +1180,7 @@ As a swift action, you can spend 1 point of faith to grow one size category, as 
 
 **Titanic Blows (Su)**
 
-Starting at 16th level, while you are under the effects of might of the gods or giant’s stature, any creature struck by one of your melee attacks must succeed at a Fortitude save or be stunned for one round.
+Starting at 16th level, while you are under the effects of might of the gods or giant’s stature, any creature struck by one of your melee attacks must succeed at a Fortitude save or be [stunned](../../../rules/appendices/conditions.md#stunned) for one round.
 
 **Domain Spells**
 
@@ -1348,7 +1348,7 @@ Starting at 4th level, as an immediate action, after you are missed by an attack
 
 **Subtle Caster (Su)**
 
-At 8th level, you gain Conceal Spell and Improved Conceal Spell as bonus feats even if you do not meet the prerequisites. You may use your cleric level in place of your ranks in Bluff, Disguise, or Sleight of Hand and your Wisdom modifier in place of your Charisma or Dexterity modifier to set the DC of the Conceal Spell feat, and may spend a faith point as part of using Conceal Spell to increase the DC by 5 for that particular casting.
+At 8th level, you gain Conceal Spell and Improved Conceal Spell as bonus feats even if you do not meet the prerequisites. You may use your cleric level in place of your ranks in Bluff, [Disguise](../../../rules/skills/disguise.md), or [Sleight of Hand](../../../rules/skills/sleight-of-hand.md) and your Wisdom modifier in place of your Charisma or Dexterity modifier to set the DC of the Conceal Spell feat, and may spend a faith point as part of using Conceal Spell to increase the DC by 5 for that particular casting.
 
 **Doctrine of Deceit**
 
@@ -1360,7 +1360,7 @@ You become immune to any magical effect that would detect that you are lying or 
 
 **Dance of Deceptions (Su)**
 
-At 16th level, creatures which have failed a Sense Motive check to discern one of your lies or a Perception check to see through one of your disguises within the last 24 hours take a -4 penalty on saving throws against you [cleric spells](../cleric.md#spells).
+At 16th level, creatures which have failed a [Sense Motive](../../../rules/skills/sense-motive.md) check to discern one of your lies or a [Perception](../../../rules/skills/perception.md) check to see through one of your disguises within the last 24 hours take a -4 penalty on saving throws against you [cleric spells](../cleric.md#spells).
 
 **Doctrine of Illusion**
 
@@ -1470,7 +1470,7 @@ Water is used to grow crops, quench thirst, sustain sea creatures, clean wounds,
 
 **Cleansing Waves (Su)**
 
-Any creature under the effects of buffering waters may immediately end the effect to end one of the following conditions on themselves: blinded, confused, cowering, dazed, dazzled, deafened, energy drained, exhausted, fascinated, fatigued, frightened, helpless, nauseated, panicked, paralyzed, petrified, shaken, sickened, staggered, or stunned. Alternatively, they may make a saving throw against a poison or disease they are suffering from, taking no ill effects on a failed save.
+Any creature under the effects of buffering waters may immediately end the effect to end one of the following conditions on themselves: [blinded](../../../rules/appendices/conditions.md#blinded), confused, [cowering](../../../rules/appendices/conditions.md#cowering), [dazed](../../../rules/appendices/conditions.md#dazed), [dazzled](../../../rules/appendices/conditions.md#dazzled), [deafened](../../../rules/appendices/conditions.md#deafened), energy drained, [exhausted](../../../rules/appendices/conditions.md#exhausted), [fascinated](../../../rules/appendices/conditions.md#fascinated), fatigued, frightened, helpless, [nauseated](../../../rules/appendices/conditions.md#nauseated), panicked, paralyzed, [petrified](../../../rules/appendices/conditions.md#petrified), shaken, sickened, staggered, or stunned. Alternatively, they may make a saving throw against a poison or disease they are suffering from, taking no ill effects on a failed save.
 
 **Tides of Relief (Su)**
 
@@ -1488,7 +1488,7 @@ Whenever you create or manipulate water, you may spend a faith point to have any
 
 **Incarnate Storm (Su)**
 
-At 16th level, you gain a +10 bonus to any CMB checks made as part of a kinetic blast or spell with the water descriptor and may increase the Swim DC to move through any water effect you create by 10.
+At 16th level, you gain a +10 bonus to any CMB checks made as part of a kinetic blast or spell with the water descriptor and may increase the [Swim](../../../rules/skills/swim.md) DC to move through any water effect you create by 10.
 
 **Domain Spells**
 

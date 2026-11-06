@@ -8,4 +8,4 @@
 **Duration** 1 minute/level (D)  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes
 
-The subject gains a +2 competence bonus on Perception checks and gains low-light vision. Subjects that have low-light vision double the distance they can see under the effects of this spell.
+The subject gains a +2 competence bonus on [Perception](../../rules/skills/perception.md) checks and gains low-light vision. Subjects that have low-light vision double the distance they can see under the effects of this spell.

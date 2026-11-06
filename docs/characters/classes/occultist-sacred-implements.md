@@ -9,7 +9,7 @@ Outsiders and divine servants leave especially lasting impressions when they int
 
 **Implement School** conjuration; **Implement** bowl; **Opposition School** transmutation
 
-**Amber Prison (Su)**: You can expend 3 points of mental focus to entomb a creature within 40 feet in an amberlike prison, rendering it paralyzed and unconscious for 1 minute per occultist level you have. The amber prison has 20 hit points; destroying the prison frees the creature. A successful Reflex save negates this entombment. Whether or not the saving throw is successful, the creature can't be the target of this focus power again for 1 day.
+**Amber Prison (Su)**: You can expend 3 points of mental focus to entomb a creature within 40 feet in an amberlike prison, rendering it [paralyzed](../../rules/appendices/conditions.md#paralyzed) and [unconscious](../../rules/appendices/conditions.md#unconscious) for 1 minute per occultist level you have. The amber prison has 20 hit points; destroying the prison frees the creature. A successful Reflex save negates this entombment. Whether or not the saving throw is successful, the creature can't be the target of this focus power again for 1 day.
 
 ## Cinder-Stained Banyan
 
@@ -21,7 +21,7 @@ Outsiders and divine servants leave especially lasting impressions when they int
 
 **Implement School** necromancy; **Implement** coin; **Opposition School** evocation
 
-**Wake (Su)**: As a standard action, you can expend 1 point of mental focus to inspire fits of grief in a single creature within 30 feet that can see and hear you. You fill the target with haunting visions of the deaths of loved ones and the brevity of life, and for 1 minute, the target's emotional vulnerability grants you a circumstance bonus equal to your occultist level on Diplomacy and Intimidate checks attempted against the target. If this implement is used in combat, these emotions instead distract your target, leaving it dazzled for 1 round per occultist level you have.
+**Wake (Su)**: As a standard action, you can expend 1 point of mental focus to inspire fits of grief in a single creature within 30 feet that can see and hear you. You fill the target with haunting visions of the deaths of loved ones and the brevity of life, and for 1 minute, the target's emotional vulnerability grants you a circumstance bonus equal to your occultist level on [Diplomacy](../../rules/skills/diplomacy.md) and [Intimidate](../../rules/skills/intimidate.md) checks attempted against the target. If this implement is used in combat, these emotions instead distract your target, leaving it [dazzled](../../rules/appendices/conditions.md#dazzled) for 1 round per occultist level you have.
 
 ## Grandmother's Clasp
 

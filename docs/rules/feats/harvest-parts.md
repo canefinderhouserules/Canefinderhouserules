@@ -1,6 +1,6 @@
 # Harvest Parts
 
-You can extract the choicest parts from a monster’s carcass to use as resources when crafting items. Trophy feats work similarly to item creation feats, except trophies are created using a single Craft or Heal check, they are nonmagical, and the benefits they provide are typically temporary. The DC of such a check is equal to 15 + the creature’s CR, and creating a trophy takes a number of minutes equal to the creature’s CR.
+You can extract the choicest parts from a monster’s carcass to use as resources when crafting items. Trophy feats work similarly to item creation feats, except trophies are created using a single [Craft](../skills/craft.md) or [Heal](../skills/heal.md) check, they are nonmagical, and the benefits they provide are typically temporary. The DC of such a check is equal to 15 + the creature’s CR, and creating a trophy takes a number of minutes equal to the creature’s CR.
 
 **Prerequisites**: Craft (any) 1 rank or Heal 1 rank.
 

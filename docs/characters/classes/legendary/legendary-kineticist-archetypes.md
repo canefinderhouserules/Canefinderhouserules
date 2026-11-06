@@ -68,7 +68,7 @@ Your sculpture must be produced entirely from one substance. You can only have o
 
 *The fates don’t always see fit to check if a being is intelligent enough to comprehend supernatural abilities before granting them, and this is the case with a bestial kineticist. Sometimes envoys or natives of the elemental planes, sometimes creatures of the Material Plane born with unusual abilities, they typically require a strong master to help them learn to utilize their gifts.*
 
-**Wild Tricks:** In addition to the standard animal companion feats, a bestial kineticist can select any feat which requires kineticist levels, using its hit dice as its kineticist level. If both the bestial kineticist and its master possess kinetic blasts of the same element and the Interweave Composite Blast feat, they can use Interweave Composite Blast to create a composite blast which requires that element as its primary and expanded elements (such as ice blast) in addition to its normal effects. A bestial kineticist can choose to gain an infusion or utility wild talent for which it would qualify instead of a trick (including its starting tricks based on Intelligence); it can never know more than 2 more utility wild talents than it knows infusions, and vice versa. Learning a wild talent this way functions the same as learning a trick and requires a Handle Animal check with DC equal to 15 + the wild talent’s level; this DC is reduced by 5 if the bestial kineticist’s master possesses the wild talent’s element or by 10 if they possess the wild talent itself. Bestial kineticists can never select the Extra Wild Talent feat.
+**Wild Tricks:** In addition to the standard animal companion feats, a bestial kineticist can select any feat which requires kineticist levels, using its hit dice as its kineticist level. If both the bestial kineticist and its master possess kinetic blasts of the same element and the Interweave Composite Blast feat, they can use Interweave Composite Blast to create a composite blast which requires that element as its primary and expanded elements (such as ice blast) in addition to its normal effects. A bestial kineticist can choose to gain an infusion or utility wild talent for which it would qualify instead of a trick (including its starting tricks based on Intelligence); it can never know more than 2 more utility wild talents than it knows infusions, and vice versa. Learning a wild talent this way functions the same as learning a trick and requires a [Handle Animal](../../../rules/skills/handle-animal.md) check with DC equal to 15 + the wild talent’s level; this DC is reduced by 5 if the bestial kineticist’s master possesses the wild talent’s element or by 10 if they possess the wild talent itself. Bestial kineticists can never select the Extra Wild Talent feat.
 
 *This ability alters feats and tricks.*
 
@@ -172,19 +172,19 @@ The nihilicist can only learn universal utility wild talents, universal infusion
 
 *This replaces the basic utility wild talent, elemental focus, and expanded element, and alters utility wild talents.*
 
-**Nihil Damage (Ex):** A nihilicist’s kinetic blast deals nihil damage; treat nihil damage as nonlethal damage for how it is cured, except it affects creatures normally immune to nonlethal damage. A creature normally immune to nonlethal damage which possess an amount of nihil damage equal to their current hit points becomes staggered, even if they would normally be unable to be staggered. Nihil damage ignores hardness, and if an object takes an amount of nihil damage equal to its hit points, it is destroyed as though it was affected by a *disintegrate* spell.
+**Nihil Damage (Ex):** A nihilicist’s kinetic blast deals nihil damage; treat nihil damage as nonlethal damage for how it is cured, except it affects creatures normally immune to nonlethal damage. A creature normally immune to nonlethal damage which possess an amount of nihil damage equal to their current hit points becomes [staggered](../../../rules/appendices/conditions.md#staggered), even if they would normally be unable to be staggered. Nihil damage ignores hardness, and if an object takes an amount of nihil damage equal to its hit points, it is destroyed as though it was affected by a *disintegrate* spell.
 
 **Nihilistic Curse (Su):** A nihilicist can select up to one creature up to 60 feet away plus an additional one creature per three nihilicist levels they possess, converting all nihil damage those creatures possess into lethal damage as a standard action. This can be done while gathering power as a full-round action by decreasing the burn reduction it provides by 1 (but cannot be done while gathering power as a move action).
 
 When a nihilicist is converting damage to lethal damage, they can choose to convert an amount of that nihil damage into a condition instead, its duration being a number of rounds equal to their Constitution modifier (minimum 1). These effects can be avoided with a Fort save with DC equal to 10 + 1/2 their nihilicist level + their Constitution modifier:
 
-5 damage: dazzled, deafened, fatigued, or sickened
+5 damage: [dazzled](../../../rules/appendices/conditions.md#dazzled), [deafened](../../../rules/appendices/conditions.md#deafened), [fatigued](../../../rules/appendices/conditions.md#fatigued), or [sickened](../../../rules/appendices/conditions.md#sickened)
 
-10 damage: staggered or blinded
+10 damage: staggered or [blinded](../../../rules/appendices/conditions.md#blinded)
 
-20 damage: dazed, exhausted, or silenced (as per *respectful quiet*)
+20 damage: [dazed](../../../rules/appendices/conditions.md#dazed), [exhausted](../../../rules/appendices/conditions.md#exhausted), or silenced (as per *respectful quiet*)
 
-30 damage: paralyzed or stunned
+30 damage: [paralyzed](../../../rules/appendices/conditions.md#paralyzed) or [stunned](../../../rules/appendices/conditions.md#stunned)
 
 The nihilicist must convert all damage at once when using this ability, whether they apply a condition or not. They can only apply a condition if their nihilicist level is at least half the amount of nihil damage they’d need to convert.
 
@@ -196,7 +196,7 @@ The nihilicist must convert all damage at once when using this ability, whether 
 
 **Reduced Existence (Ex):** At 2nd level a nihilicist is constantly under the effects of *negate aroma*, only needs to consume 1/4 as much food and water to survive, and only needs to sleep 2 hours per day. At 6th level they are constantly under the effects of *nondetection* with a caster level equal to their nihilicist level and no longer need to breath or sleep, gaining immunity to sleep effects (though they still must rest 2 hours to recover from burn).
 
-At 12th level, the nihilcist is also constantly under the effects of *mind blank*. In addition, anyone whom the nihilicist has met will slowly forget them; one will forget their name after 1 day, finer details of their interactions and appearance after 3 days, general details of their interactions and appearance after 5 days, and will completely forget their existence after 1 week. At will, the nihilicist can, with a touch, cause a creature to be permanently immune to this effect (though this does not restore any memories lost regarding the nihilicist); they can accept 1 point of burn to attempt a touch attack as a standard action to remove this immunity (subject to a Will save against DC 10 + the nihilicist’s class level; this save even applies to willing and unconscious targets).
+At 12th level, the nihilcist is also constantly under the effects of *mind blank*. In addition, anyone whom the nihilicist has met will slowly forget them; one will forget their name after 1 day, finer details of their interactions and appearance after 3 days, general details of their interactions and appearance after 5 days, and will completely forget their existence after 1 week. At will, the nihilicist can, with a touch, cause a creature to be permanently immune to this effect (though this does not restore any memories lost regarding the nihilicist); they can accept 1 point of burn to attempt a touch attack as a standard action to remove this immunity (subject to a Will save against DC 10 + the nihilicist’s class level; this save even applies to willing and [unconscious](../../../rules/appendices/conditions.md#unconscious) targets).
 
 *This replaces the 2nd, 6th, and 12th-level utility wild talents.*
 
@@ -290,7 +290,7 @@ An onslaught blast cannot have any form infusion which reduces the range of a bl
 
 Some kineticists have the ability to cast a small number of [psychic spells](../psychic.md#spells). Those who do are not as versatile as more traditional kineticists with their elements, but make up for it by being able to cast spells. These are the psychic kineticists.
 
-**Class Skills**: Add Knowledge (arcana) and Spellcraft to the list of class skills.
+**Class Skills**: Add [Knowledge](../../../rules/skills/knowledge.md) (arcana) and Spellcraft to the list of class skills.
 
 This alters the kineticist’s class skills.
 
@@ -368,7 +368,7 @@ Almost invariably, a soundweaver descends from a long lineage of minstrels and b
 
 A soundweaver uses their Charisma modifier in place of their Constitution modifier to determine any effects from their kineticist class features and wild talents which would normally be determined by their Constitution (such as determining maximum burn per day, damage from kinetic blasts, or DCs associated with infusion wild talents).
 
-Soundweavers gain Perform (keyboard instruments), Perform (percussion), Perform (sing), Perform (string), and Perform (wind) as class skills, but lose Craft and Stealth.
+Soundweavers gain [Perform](../../../rules/skills/perform.md) (keyboard instruments), Perform (percussion), Perform (sing), Perform (string), and Perform (wind) as class skills, but lose [Craft](../../../rules/skills/craft.md) and [Stealth](../../../rules/skills/stealth.md).
 
 In addition, they gain 6 + their Intelligence modifier in skill ranks per level, their base Fort save is equal to 1/3 their soundweaver level, and their base Ref and Will saves are each equal to 2 + 1/2 their soundweaver level.
 
@@ -661,7 +661,7 @@ and 16th level respectively.
 *Ki Surge (Sp):* By spending 1 point from their ki pool as a move action, a surge fist monk can temporarily enhance
 their physical power. Until the end of their next round, they
 receive a +2 size bonus to each of their physical ability scores
-and to Intimidate checks. Activating this ability produces a
+and to [Intimidate](../../../rules/skills/intimidate.md) checks. Activating this ability produces a
 loud, highly visible effect, and changes the user’s appearance
 slightly (such as gaining animalistic qualities, a different hair
 or eye color, or exuding an aura). Whenever this effect would

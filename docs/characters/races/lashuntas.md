@@ -20,7 +20,7 @@ Lashunta are defined by their class levels; they do not have racial Hit Dice. Th
 
 **Limited Telepathy (Su)**: A lashunta is able to mentally communicate with any creature within 30 feet with whom she shares a language. This is otherwise identical to telepathy.
 
-**Knowledgeable**: A lashunta gains a +2 racial bonus to any one Knowledge skill.
+**Knowledgeable**: A lashunta gains a +2 racial bonus to any one [Knowledge](../../rules/skills/knowledge.md) skill.
 
 **Languages**: Lashunta begin play speaking Elven and Lashunta. Lashunta with high Intelligence scores can choose any languages (except secret languages, such as Druidic).
 

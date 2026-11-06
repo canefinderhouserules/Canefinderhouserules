@@ -8,4 +8,4 @@
 **Duration** permanent  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-You invest a target with cursed elemental energy, causing nearby bodies of water to roil when the target draws near and tendrils of water to drag it deeper under the waves. The target takes a –10 penalty on Swim checks and automatically sinks 15 feet per round when in any body of liquid. The creature does not sink if standing upon a solid surface capable of supporting its weight, even if it is submerged.
+You invest a target with cursed elemental energy, causing nearby bodies of water to roil when the target draws near and tendrils of water to drag it deeper under the waves. The target takes a –10 penalty on [Swim](../../rules/skills/swim.md) checks and automatically sinks 15 feet per round when in any body of liquid. The creature does not sink if standing upon a solid surface capable of supporting its weight, even if it is submerged.

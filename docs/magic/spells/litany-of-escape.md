@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** none; **Spell Resistance** yes
 
-With a powerful prayer, you call upon the servants of your god to whisk a friend out of a grapple. The target loses the grappled and pinned conditions and is teleported 10 feet. If there is no available space for the target to teleport to, the spell fails.
+With a powerful prayer, you call upon the servants of your god to whisk a friend out of a grapple. The target loses the [grappled](../../rules/appendices/conditions.md#grappled) and [pinned](../../rules/appendices/conditions.md#pinned) conditions and is teleported 10 feet. If there is no available space for the target to teleport to, the spell fails.

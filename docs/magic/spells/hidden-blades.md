@@ -8,4 +8,4 @@
 **Duration** 10 minutes/level  
 **Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 
-You render a target weapon or up to 50 pieces of ammunition invisible, granting the wielder a +20 bonus on Sleight of Hand checks made to conceal the weapon or ammunition and a +5 circumstance bonus on Bluff checks to feint with the weapon or ammunition.
+You render a target weapon or up to 50 pieces of ammunition invisible, granting the wielder a +20 bonus on [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks made to conceal the weapon or ammunition and a +5 circumstance bonus on [Bluff](../../rules/skills/bluff.md) checks to feint with the weapon or ammunition.

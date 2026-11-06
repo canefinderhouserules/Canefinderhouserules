@@ -42,9 +42,9 @@ Select a number of spell schools equal to half your tier. Spells and effects of 
 
 **Source** *Ultimate Magic*
 
-You animate two branches instead of one, allowing the tree to attack twice per round. Add your tier to your caster level when determining the tree's Strength score. A creature struck by both slam attacks in the same round must succeed at a Fortitude save against the spell's DC or be staggered for 1 round.
+You animate two branches instead of one, allowing the tree to attack twice per round. Add your tier to your caster level when determining the tree's Strength score. A creature struck by both slam attacks in the same round must succeed at a Fortitude save against the spell's DC or be [staggered](../../rules/appendices/conditions.md#staggered) for 1 round.
 
-**Augmented (7th)**: If you expend two uses of mythic power, the tree attempts three slam attacks per round and its slams bypass all damage reduction. A creature struck by all three slam attacks in the same round is stunned for 1 round and staggered for 1d4 rounds after the stun ends. A successful Fortitude save negates the stun and reduces the duration of being staggered by half.
+**Augmented (7th)**: If you expend two uses of mythic power, the tree attempts three slam attacks per round and its slams bypass all damage reduction. A creature struck by all three slam attacks in the same round is [stunned](../../rules/appendices/conditions.md#stunned) for 1 round and staggered for 1d4 rounds after the stun ends. A successful Fortitude save negates the stun and reduces the duration of being staggered by half.
 
 ## Arcane Cannon
 
@@ -126,13 +126,13 @@ Affected creatures can choose two of the spell's bonuses each round rather than 
 
 **Source** *Advanced Race Guide*
 
-On a successful saving throw, the target is dazzled for 1 round. On a failed saving throw, the target is instead blinded for 1 d4 rounds.
+On a successful saving throw, the target is [dazzled](../../rules/appendices/conditions.md#dazzled) for 1 round. On a failed saving throw, the target is instead [blinded](../../rules/appendices/conditions.md#blinded) for 1 d4 rounds.
 
 A target with light blindness, light sensitivity, or any other vulnerability to light is instead blinded for 1d4 rounds on a successful saving throw and permanently blinded on a failed saving throw.
 
 ## Blindness/Deafness
 
-You can cause the target to be both blinded and deafened at the same time. The target must attempt a saving throw against each effect separately.
+You can cause the target to be both blinded and [deafened](../../rules/appendices/conditions.md#deafened) at the same time. The target must attempt a saving throw against each effect separately.
 
 ## Blink
 
@@ -144,7 +144,7 @@ You may spend a move action to remain corporeal or incorporeal until the end of 
 
 **Source** *Ultimate Combat*
 
-Enemies that are demoralized by your Intimidate check take 2d8 points of fire damage and catch fire (no saving throw). Any Reflex save attempted to extinguish the flames automatically fails as long as the creature remains demoralized by your Intimidate check.
+Enemies that are demoralized by your [Intimidate](../../rules/skills/intimidate.md) check take 2d8 points of fire damage and catch fire (no saving throw). Any Reflex save attempted to extinguish the flames automatically fails as long as the creature remains demoralized by your Intimidate check.
 
 **Augmented (5th)**: If you expend two uses of mythic power, the spell doesn't have the language-dependent descriptor and you don't take a penalty on your Intimidate check to demoralize creatures that are larger than you.
 

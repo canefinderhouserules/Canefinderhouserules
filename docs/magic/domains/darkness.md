@@ -30,7 +30,7 @@
 
 **Replacement Power**: The following granted power replaces the eyes of darkness power of the Darkness domain.
 
-*Moonfire (Su)*: At 4th level, as a standard action, you can shoot a blast of divine moonlight from your eyes as a ranged touch attack against a single target within 30 feet. Moonfire deals 1d6 points of damage per class levels you have, and the target is dazzled for 1 round per class level you have. Moonfire deals 1d10 points of damage per class level you have against lycanthropes. You can use this ability once per day at 4th level, and one additional time per day for every 2 levels beyond 4th.
+*Moonfire (Su)*: At 4th level, as a standard action, you can shoot a blast of divine moonlight from your eyes as a ranged touch attack against a single target within 30 feet. Moonfire deals 1d6 points of damage per class levels you have, and the target is [dazzled](../../rules/appendices/conditions.md#dazzled) for 1 round per class level you have. Moonfire deals 1d10 points of damage per class level you have against lycanthropes. You can use this ability once per day at 4th level, and one additional time per day for every 2 levels beyond 4th.
 
 **Replacement Domain Spells**: 1st—[*faerie fire*](../spells/faerie-fire.md), 4th—[*moonstruck*](../spells/moonstruck.md), 6th—[*dream*](../spells/dream.md).
 

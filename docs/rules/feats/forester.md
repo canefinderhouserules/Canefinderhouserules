@@ -4,4 +4,4 @@ You are a master of woodcraft and forest lore and can move through even the dens
 
 **Prerequisite**: Favored terrain (forest) class feature.
 
-**Benefit**: You ignore difficult terrain created by light or heavy undergrowth, and you ignore increased DCs for Acrobatics and Stealth checks in light or heavy undergrowth. In addition, you can use trees to shield yourself from attacks, gaining a +1 cover bonus to your AC whenever you are adjacent to a tree (including while climbing). If you are adjacent to two or more trees simultaneously, you gain a +2 cover bonus to your AC and a +1 bonus on Reflex saving throws.
+**Benefit**: You ignore difficult terrain created by light or heavy undergrowth, and you ignore increased DCs for [Acrobatics](../skills/acrobatics.md) and [Stealth](../skills/stealth.md) checks in light or heavy undergrowth. In addition, you can use trees to shield yourself from attacks, gaining a +1 cover bonus to your AC whenever you are adjacent to a tree (including while climbing). If you are adjacent to two or more trees simultaneously, you gain a +2 cover bonus to your AC and a +1 bonus on Reflex saving throws.

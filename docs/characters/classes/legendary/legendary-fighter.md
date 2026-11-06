@@ -132,11 +132,11 @@ When using this ability, if the fighter has the [Shot on the Run](../../../rules
 
 #### Weapon Unity (Ex)
 
-At 13th level, a fighter’s preferred weapons become almost an extension of his body. A fighter is immune to disarm, steal, and sunder combat maneuvers made against a weapon he is wielding, provided the fighter has Weapon Focus with the weapon or the weapon belongs to weapon group which he possesses. A helpless fighter does not gain the benefits of this ability.
+At 13th level, a fighter’s preferred weapons become almost an extension of his body. A fighter is immune to disarm, steal, and sunder combat maneuvers made against a weapon he is wielding, provided the fighter has Weapon Focus with the weapon or the weapon belongs to weapon group which he possesses. A [helpless](../../../rules/appendices/conditions.md#helpless) fighter does not gain the benefits of this ability.
 
 #### Combat Composure (Ex)
 
-At 15th level, a fighter can take 10 on skill checks during combat even if the situation or immediate danger wouldn’t normally allow him to do so, provided the skill is a class skill, he is trained in the skill, and he could take 10 on the check outside of combat. The fighter cannot use this ability if he currently has any of the following conditions: confused, cowering, dazed, disabled, exhausted, fascinated, fatigued, flat-footed, frightened, helpless, nauseated, panicked, paralyzed, shaken, sickened, staggered, or stunned.
+At 15th level, a fighter can take 10 on skill checks during combat even if the situation or immediate danger wouldn’t normally allow him to do so, provided the skill is a class skill, he is trained in the skill, and he could take 10 on the check outside of combat. The fighter cannot use this ability if he currently has any of the following conditions: [confused](../../../rules/appendices/conditions.md#confused), [cowering](../../../rules/appendices/conditions.md#cowering), [dazed](../../../rules/appendices/conditions.md#dazed), disabled, [exhausted](../../../rules/appendices/conditions.md#exhausted), [fascinated](../../../rules/appendices/conditions.md#fascinated), [fatigued](../../../rules/appendices/conditions.md#fatigued), [flat-footed](../../../rules/appendices/conditions.md#flat-footed), [frightened](../../../rules/appendices/conditions.md#frightened), helpless, [nauseated](../../../rules/appendices/conditions.md#nauseated), [panicked](../../../rules/appendices/conditions.md#panicked), [paralyzed](../../../rules/appendices/conditions.md#paralyzed), [shaken](../../../rules/appendices/conditions.md#shaken), [sickened](../../../rules/appendices/conditions.md#sickened), [staggered](../../../rules/appendices/conditions.md#staggered), or [stunned](../../../rules/appendices/conditions.md#stunned).
 
 #### Flawless Technique (Ex)
 
@@ -176,7 +176,7 @@ At 9th level, a fighter doesn’t drop held weapons when panicked or stunned. If
 
 #### Autonomic Grasp (Ex)
 
-At 11th level, a fighter clings to his weaponry even when on the brink of death. A fighter can choose to retain his hold on his wielded weapons when he is knocked unconscious or succumbs to a sleep effect. While the fighter is asleep or unconscious, attackers must succeed at combat maneuver checks to disarm him, but they gain relevant bonuses for attacking a helpless target, including treating the fighter’s Dexterity as 0 when determining his CMD.
+At 11th level, a fighter clings to his weaponry even when on the brink of death. A fighter can choose to retain his hold on his wielded weapons when he is knocked [unconscious](../../../rules/appendices/conditions.md#unconscious) or succumbs to a sleep effect. While the fighter is asleep or unconscious, attackers must succeed at combat maneuver checks to disarm him, but they gain relevant bonuses for attacking a helpless target, including treating the fighter’s Dexterity as 0 when determining his CMD.
 
 For example, if a fighter with armor mastery DR 10/— takes 18 points of piercing damage from a spear and this attack ignores 5 points of his armor mastery DR, then he can redirect that 5 points of damage to his armor or shield and only take the remaining 8 points of damage from the attack himself.
 

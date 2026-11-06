@@ -13,7 +13,7 @@ This creates one of several cantrip-level effects relating to your health, well-
 
 **Clarity**: You get a +1 competence bonus on a single attack roll, saving throw, or skill check within 1 minute. You must choose to use the bonus before making the roll to which it applies.
 
-**Hallucination**: You have pleasant hallucinations for 1 hour, such as wandering lights, music, playful surreal animals, and so on. You can tell these are not real, but they are distracting, and you take a –2 penalty on Perception checks for the duration.
+**Hallucination**: You have pleasant hallucinations for 1 hour, such as wandering lights, music, playful surreal animals, and so on. You can tell these are not real, but they are distracting, and you take a –2 penalty on [Perception](../../rules/skills/perception.md) checks for the duration.
 
 **Intoxication**: You feel comfortably intoxicated for 1 hour, as if you had a few alcoholic beverages.
 

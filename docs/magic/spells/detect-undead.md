@@ -12,7 +12,7 @@ You can detect the aura that surrounds undead creatures. The amount of informati
 
 *1st Round*: Presence or absence of undead auras.
 
-*2nd Round*: Number of undead auras in the area and the strength of the strongest undead aura present. If you are of good alignment, and the strongest undead aura’s strength is overwhelming (see below), and the creature has HD of at least twice your character level, you are stunned for 1 round and the spell ends.
+*2nd Round*: Number of undead auras in the area and the strength of the strongest undead aura present. If you are of good alignment, and the strongest undead aura’s strength is overwhelming (see below), and the creature has HD of at least twice your character level, you are [stunned](../../rules/appendices/conditions.md#stunned) for 1 round and the spell ends.
 
 *3rd Round*: The strength and location of each undead aura. If an aura is outside your line of sight, then you discern its direction but not its exact location.
 

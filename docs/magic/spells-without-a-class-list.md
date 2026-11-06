@@ -208,7 +208,7 @@ On a successful touch attack, you daze a creature that fails a save.
 
 **Saving Throw** none; **Spell Resistance** no
 
-You create a completely real, nonmagical, unattended object of any sort of matter. The volume of the item created cannot exceed 1 cubic foot per caster level. Complex items require successful Craft checks. Objects created can be used as material components.
+You create a completely real, nonmagical, unattended object of any sort of matter. The volume of the item created cannot exceed 1 cubic foot per caster level. Complex items require successful [Craft](../rules/skills/craft.md) checks. Objects created can be used as material components.
 
 **XP Cost**: The item’s gold piece value in XP (minimum 1 XP).
 

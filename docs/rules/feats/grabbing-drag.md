@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-You can move easily with a grappled enemy in tow.
+You can move easily with a [grappled](../appendices/conditions.md#grappled) enemy in tow.
 
 **Prerequisites**: [Grabbing Style](grabbing-style.md), [Improved Grapple](improved-grapple.md); base attack bonus +8, brawler level 4th, or monk level 4th.
 

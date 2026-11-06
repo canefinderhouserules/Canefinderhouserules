@@ -24,7 +24,7 @@ Dwarves are a stoic but stern race, ensconced in cities carved from the hearts o
 
 **Defensive Training**: Dwarves get a +4 dodge bonus to AC against monsters of the giant subtype.
 
-**Greed**: Dwarves receive a +2 racial bonus on Appraise skill checks made to determine the price of nonmagical goods that contain precious metals or gemstones.
+**Greed**: Dwarves receive a +2 racial bonus on [Appraise](../../rules/skills/appraise.md) skill checks made to determine the price of nonmagical goods that contain precious metals or gemstones.
 
 **Hatred**: Dwarves receive a +1 bonus on attack rolls against humanoid creatures of the orc and goblinoid subtypes due to special training against these hated foes.
 
@@ -32,7 +32,7 @@ Dwarves are a stoic but stern race, ensconced in cities carved from the hearts o
 
 **Stability**: Dwarves receive a +4 racial bonus to their Combat Maneuver Defense when resisting a bull rush or trip attempt while standing on the ground.
 
-**Stonecunning**: Dwarves receive a +2 bonus on Perception checks to potentially notice unusual stonework, such as traps and hidden doors located in stone walls or floors. They receive a check to notice such features whenever they pass within 10 feet of them, whether or not they are actively looking.
+**Stonecunning**: Dwarves receive a +2 bonus on [Perception](../../rules/skills/perception.md) checks to potentially notice unusual stonework, such as traps and hidden doors located in stone walls or floors. They receive a check to notice such features whenever they pass within 10 feet of them, whether or not they are actively looking.
 
 **Weapon Familiarity**: Dwarves are proficient with [battleaxes](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [heavy picks](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and [warhammers](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and treat any weapon with the word “dwarven” in its name as a martial weapon.
 
@@ -44,11 +44,11 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Ancient Enmity**: Dwarves have long been in conflict with elves, especially the hated drow. Dwarves with this racial trait receive a +1 bonus on attack rolls against humanoid creatures of the elf subtype. This racial trait replaces the hatred racial trait.
 
-**Craftsman**: Dwarves are known for their superior craftsmanship when it comes to metal and stone works. Dwarves with this racial trait receive a +2 racial bonus on all Craft or Profession checks that create objects from metal or stone. This racial trait replaces the greed racial trait.
+**Craftsman**: Dwarves are known for their superior craftsmanship when it comes to metal and stone works. Dwarves with this racial trait receive a +2 racial bonus on all [Craft](../../rules/skills/craft.md) or [Profession](../../rules/skills/profession.md) checks that create objects from metal or stone. This racial trait replaces the greed racial trait.
 
 **Deep Warrior**: Dwarves with this racial trait grew up facing the abominations that live deep beneath the surface. They receive a +2 dodge bonus to AC against monsters of the aberration type and a +2 racial bonus to their CMB on attempts made to grapple such creatures (or to continue a grapple). This racial trait replaces the defensive training racial trait.
 
-**Lorekeeper**: Dwarves keep extensive records about their history and the world around them. Dwarves with this racial trait receive a +2 racial bonus on Knowledge (history) skill checks that pertain to dwarves or their enemies. They can make such skill checks untrained. This racial trait replaces the greed racial trait.
+**Lorekeeper**: Dwarves keep extensive records about their history and the world around them. Dwarves with this racial trait receive a +2 racial bonus on [Knowledge](../../rules/skills/knowledge.md) (history) skill checks that pertain to dwarves or their enemies. They can make such skill checks untrained. This racial trait replaces the greed racial trait.
 
 **Magic Resistant**: Some of the older dwarven clans are particularly resistant to magic. Dwarves with this racial trait gain spell resistance equal to 5 + their character level. This resistance can be lowered for 1 round as a standard action. Dwarves with this racial trait take a –2 penalty on all concentration checks made in relation to arcane spells. This racial trait replaces the hardy racial trait.
 
@@ -60,11 +60,11 @@ The following racial traits might be selected instead of existing racial traits.
 
 ### Additional Alternate Racial Traits (Advanced Race Guide)
 
-**Giant Hunter**: Dwarves with this racial trait gain a +1 bonus on attack rolls against humanoids with the giant subtype. Furthermore, they gain a +2 bonus on Survival checks to find and follow tracks made by humanoids with the giant subtype. This racial trait replaces the hatred racial trait.
+**Giant Hunter**: Dwarves with this racial trait gain a +1 bonus on attack rolls against humanoids with the giant subtype. Furthermore, they gain a +2 bonus on [Survival](../../rules/skills/survival.md) checks to find and follow tracks made by humanoids with the giant subtype. This racial trait replaces the hatred racial trait.
 
-**Minesight**: Dwarves with this racial trait increase the range of their darkvision to 90 feet; however, they are automatically dazzled in bright light and take a –2 penalty on saving throws against effects with the light descriptor. This racial trait replaces darkvision.
+**Minesight**: Dwarves with this racial trait increase the range of their darkvision to 90 feet; however, they are automatically [dazzled](../../rules/appendices/conditions.md#dazzled) in bright light and take a –2 penalty on saving throws against effects with the light descriptor. This racial trait replaces darkvision.
 
-**Mountaineer**: Mountain dwarves are skilled at climbing and navigating narrow ledges. Dwarves with this racial trait are immune to altitude sickness and do not lose their Dexterity bonus to AC when making Climb or Acrobatics checks to cross narrow or slippery surfaces. This racial trait replaces stability.
+**Mountaineer**: Mountain dwarves are skilled at climbing and navigating narrow ledges. Dwarves with this racial trait are immune to altitude sickness and do not lose their Dexterity bonus to AC when making [Climb](../../rules/skills/climb.md) or [Acrobatics](../../rules/skills/acrobatics.md) checks to cross narrow or slippery surfaces. This racial trait replaces stability.
 
 **Rock Stepper**: Dwarves with this racial trait can skillfully negotiate rocky terrain. They can ignore difficult terrain created by rubble, broken ground, or steep stairs when they take a 5-foot step. This racial trait replaces stonecunning.
 
@@ -88,7 +88,7 @@ The following racial traits represent a fey ancestor in the family line. They ca
 
 **Wanderer**: Freed from the confines of duty, certain fey-touched dwarves are stricken with wanderlust. These dwarves are often considered untrustworthy vagabonds by other dwarves but excel at the rigors of traveling. They gain Endurance as a bonus feat, and Climb and Swim are class skills for them. This racial trait replaces hardy.
 
-**Conservative Diplomacy**: A dwarf can embrace predictable traditions to avoid social missteps. A dwarf with this racial trait can rely upon conservative tactics when attempting a Diplomacy check; this choice must be made before the Diplomacy check is attempted. The dwarf treats any roll of less than 5 on such a Diplomacy check as though she had rolled a 5, but she treats any roll higher than 15 on such a check as though she rolled a 15. This racial trait replaces stonecunning.
+**Conservative Diplomacy**: A dwarf can embrace predictable traditions to avoid social missteps. A dwarf with this racial trait can rely upon conservative tactics when attempting a [Diplomacy](../../rules/skills/diplomacy.md) check; this choice must be made before the Diplomacy check is attempted. The dwarf treats any roll of less than 5 on such a Diplomacy check as though she had rolled a 5, but she treats any roll higher than 15 on such a check as though she rolled a 15. This racial trait replaces stonecunning.
 
 ### Draconic Alternate Racial Traits
 
@@ -108,7 +108,7 @@ Dwarves from different cultures often take alternate racial traits from the Adva
 
 **Desert Delver**: Desert dwarves have adapted to the extremes of cold and heat that can suddenly occur in both the harsh deserts and the mountain tunnels around their caravan routes. Dwarves with this racial trait gain cold and fire resistance 1 and treat the temperature as 20 degrees cooler or warmer when determining the effects of extreme heat or extreme cold environments. This replaces defensive training.
 
-**Iron Citizen**: Dwarves with this racial trait gain a +2 bonus on Diplomacy and Sense Motive checks, and Diplomacy is a class skill for such dwarves.
+**Iron Citizen**: Dwarves with this racial trait gain a +2 bonus on Diplomacy and [Sense Motive](../../rules/skills/sense-motive.md) checks, and Diplomacy is a class skill for such dwarves.
 
 **Iron Within**: Dwarves with this racial trait gain 1 ki point. If the dwarf gains ki points from a different source, this ki point is added to that pool. In addition to any other ways in which the dwarf can use ki, the dwarf can expend the ki point as a swift action to either gain a +2 dodge bonus to AC for 1 round or increase her base speed by 20 feet for 1 round. The bonus ki point does not allow the dwarf to make a ki strike unless she has another ability that allows her to do so, such as the ki pool from the monk class. Like other ki points, this ki point is replenished each morning after 8 hours of rest or meditation. This replaces defensive training and hatred.
 
@@ -138,7 +138,7 @@ You can combine various alternate racial traits to create dwarven subraces or va
 
 Dwarves have access to the following equipment.
 
-**Helmet, Dwarven Boulder**: This heavy, reinforced helmet can be used to make melee attacks. The wearer may also use the helmet when attempting bull rush maneuvers, granting a +2 circumstance bonus on the check, but after completing the maneuver (whether successful or not), the wearer is staggered until the end of his next turn. In addition, the helmet grants a +2 circumstance bonus to the wearer’s AC against critical hit confirmation rolls. A dwarven boulder helmet adds 20% to the wearer’s arcane spell failure chance. It occupies the head slot and is made of metal, not stone, meaning that it can be crafted from unusual materials as a metal weapon. A dwarven boulder helmet can be enchanted as a weapon (not as armor, despite providing some protection).
+**Helmet, Dwarven Boulder**: This heavy, reinforced helmet can be used to make melee attacks. The wearer may also use the helmet when attempting bull rush maneuvers, granting a +2 circumstance bonus on the check, but after completing the maneuver (whether successful or not), the wearer is [staggered](../../rules/appendices/conditions.md#staggered) until the end of his next turn. In addition, the helmet grants a +2 circumstance bonus to the wearer’s AC against critical hit confirmation rolls. A dwarven boulder helmet adds 20% to the wearer’s arcane spell failure chance. It occupies the head slot and is made of metal, not stone, meaning that it can be crafted from unusual materials as a metal weapon. A dwarven boulder helmet can be enchanted as a weapon (not as armor, despite providing some protection).
 
 **Longaxe, Dwarven**: These ornate and heavy blades are mounted atop a long, steel-shod haft for greater reach. They are rare among cave-dwelling dwarves but common in mountain dwarf clans that commonly feud with giants.
 
@@ -256,7 +256,7 @@ When the dwarves successfully completed the Quest for Sky, they set about constr
 
 ### Slag Child
 
-Dwarves from dishonored families must append “-slag,” “-slagsun,” or “-slagdam” to their surnames to indicate their shameful status. These dwarves are commonly banished or ostracized; they are forced to eke out a living at the fringes of dwarven settlements or in bleak wilderness areas such as the northern mountains. They gain a +2 racial bonus on Stealth and Survival checks. This racial trait replaces defensive training and hatred.
+Dwarves from dishonored families must append “-slag,” “-slagsun,” or “-slagdam” to their surnames to indicate their shameful status. These dwarves are commonly banished or ostracized; they are forced to eke out a living at the fringes of dwarven settlements or in bleak wilderness areas such as the northern mountains. They gain a +2 racial bonus on [Stealth](../../rules/skills/stealth.md) and Survival checks. This racial trait replaces defensive training and hatred.
 
 ### Spell Smasher
 
@@ -268,7 +268,7 @@ Dwarves greatly value loyalty in faith, and their gods readily reward them for i
 
 ### Stoic Negotiator
 
-Some dwarves, especially those who hail from the town of a merchant town in the merchant theocracy, use their unwavering stubbornness to get what they want in negotiations and other business matters. They gain a +2 racial bonus on Bluff, Diplomacy, and Profession (merchant) checks. This racial trait replaces defensive training, hatred, and stonecunning.
+Some dwarves, especially those who hail from the town of a merchant town in the merchant theocracy, use their unwavering stubbornness to get what they want in negotiations and other business matters. They gain a +2 racial bonus on [Bluff](../../rules/skills/bluff.md), Diplomacy, and Profession (merchant) checks. This racial trait replaces defensive training, hatred, and stonecunning.
 
 ### Stonesinger
 
@@ -320,7 +320,7 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 **Monk**: Reduce the Hardness of any object made of clay, stone, or metal by 1 whenever the object is struck by the monk’s unarmed strike (minimum of 0).
 
-**Occultist**: Gain a +1/3 bonus on Appraise and Use Magic Device checks involving stone and metal objects.
+**Occultist**: Gain a +1/3 bonus on Appraise and [Use Magic Device](../../rules/skills/use-magic-device.md) checks involving stone and metal objects.
 
 **Oracle**: Reduce the non-proficient penalty for one weapon by 1. When the non-proficient penalty for a weapon becomes 0 because of this ability, the oracle is treated as having the appropriate Martial or Exotic Weapon Proficiency feat with that weapon.
 
@@ -330,7 +330,7 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 **Ranger**: Add a +1/2 bonus on wild empathy checks to influence animals and magical beasts that live underground.
 
-**Rogue**: Add a +1/2 bonus on Disable Device checks regarding stone traps and a +1/2 bonus to trap sense regarding stone traps.
+**Rogue**: Add a +1/2 bonus on [Disable Device](../../rules/skills/disable-device.md) checks regarding stone traps and a +1/2 bonus to trap sense regarding stone traps.
 
 **Shaman**: Add 1/4 to the natural armor bonus of the shaman's spirit animal.
 

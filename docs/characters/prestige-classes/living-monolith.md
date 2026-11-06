@@ -67,7 +67,7 @@ When a living monolith first gains the soul stone ability, he must decide whethe
 
 **Attunement to Stone (Sp)**: At 6th level, a living monolith can use [*meld into stone*](../../magic/spells/meld-into-stone.md) at will.
 
-**Summon Sphinx (Sp)**: At 7th level, a living monolith can call upon the aid of the sphinxes, ancient allies of the first immortal tomb guardians. Once per day, the living monolith can call a sphinx to his presence and bargain for its services as if using [*planar ally*](../../magic/spells/planar-ally.md) to call upon an outsider. At 9th level, this ability functions as *greater planar ally*. The living monolith gains a +4 bonus on Diplomacy checks to influence sphinxes.
+**Summon Sphinx (Sp)**: At 7th level, a living monolith can call upon the aid of the sphinxes, ancient allies of the first immortal tomb guardians. Once per day, the living monolith can call a sphinx to his presence and bargain for its services as if using [*planar ally*](../../magic/spells/planar-ally.md) to call upon an outsider. At 9th level, this ability functions as *greater planar ally*. The living monolith gains a +4 bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks to influence sphinxes.
 
 **Communion with Stone (Su)**: At 8th level, a living monolith achieves a unique communion with the earth, gaining tremorsense to a range of 30 feet. Once per day, the living monolith can communicate with rock and stone as if using [*stone tell*](../../magic/spells/stone-tell.md). He gains Terran as a bonus language.
 

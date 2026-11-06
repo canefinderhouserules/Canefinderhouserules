@@ -11,23 +11,23 @@ Drawbacks are gained either by choosing them or through the [background generato
 
 **Avarice**: Deep, compulsive greed gnaws at you. Whenever monetary treasure is divided, you must end up with a greater share of that treasure than your companions or you’re wracked with feelings of jealousy and ill will. When treasure is divided, if you do not end up with at least 10% more treasure than any other individual companion does, you have a hard time being helpful to your allies. You become irritable, and can’t take the aid another action for the next week.
 
-**Betrayed**: You were reported to a dangerous authority such as a secret police force, a hunting order of inquisitors, or a ruling council, and narrowly escaped death. You second-guess your instincts constantly, leaving you never sure whether or not to trust someone and endangered if you encounter that group’s agents again. You can roll twice and take the lower result on Sense Motive checks to get hunches. You cannot reroll this result, even if you have another ability that would normally allow you to do so.
+**Betrayed**: You were reported to a dangerous authority such as a secret police force, a hunting order of inquisitors, or a ruling council, and narrowly escaped death. You second-guess your instincts constantly, leaving you never sure whether or not to trust someone and endangered if you encounter that group’s agents again. You can roll twice and take the lower result on [Sense Motive](../../rules/skills/sense-motive.md) checks to get hunches. You cannot reroll this result, even if you have another ability that would normally allow you to do so.
 
 **Bitter**: You have been hurt repeatedly by those you trusted, and it has become difficult for you to accept help. When you receive healing from an ally's class feature, spell, or spell-like ability, reduce the amount of that healing by 1 hit point.
 
-**Cowardly**: You might face dangerous situations with bravado, but you are constantly afraid. Your base speed when frightened and fleeing increases by 5 feet, and the penalties you take from having the cowering, frightened, panicked, or shaken conditions increase by 1. If you would normally be immune to fear, you do not take these penalties but instead lose your immunity to fear (regardless of its source).
+**Cowardly**: You might face dangerous situations with bravado, but you are constantly afraid. Your base speed when [frightened](../../rules/appendices/conditions.md#frightened) and fleeing increases by 5 feet, and the penalties you take from having the [cowering](../../rules/appendices/conditions.md#cowering), frightened, [panicked](../../rules/appendices/conditions.md#panicked), or [shaken](../../rules/appendices/conditions.md#shaken) conditions increase by 1. If you would normally be immune to fear, you do not take these penalties but instead lose your immunity to fear (regardless of its source).
 
-**Dependent**: You are dependent upon the acceptance of others. Whenever you fail a Diplomacy check, you become shaken for 1 hour.
+**Dependent**: You are dependent upon the acceptance of others. Whenever you fail a [Diplomacy](../../rules/skills/diplomacy.md) check, you become shaken for 1 hour.
 
 **Doubt**: You lack confidence in your abilities or confidence in the universe at large. Whenever you fail a skill or ability check, you take a –4 penalty on that type of skill or ability check for the next hour.
 
 **Empty Mask**: You have spent so long hiding your true identity to escape political enemies that you have lost much of your sense of self. You take a –1 penalty on Will saving throws against compulsions. This penalty increases to –2 against foes who know your true identity.
 
-**Entomophobe**: A harrowing experience with insects when you were young instilled in you a deep-seated fear of vermin of all description, especially when they swarm together. You take a –2 penalty on attacks against vermin, and you take a –2 penalty on saving throws against the nauseated condition of a swarm's distraction ability.
+**Entomophobe**: A harrowing experience with insects when you were young instilled in you a deep-seated fear of vermin of all description, especially when they swarm together. You take a –2 penalty on attacks against vermin, and you take a –2 penalty on saving throws against the [nauseated](../../rules/appendices/conditions.md#nauseated) condition of a swarm's distraction ability.
 
 **Family Ties**: Your family is extremely important to you, and you feel disheartened when you can’t do what they ask. When a family member makes a request of you, you must fulfill that request or take a –2 penalty on all Wisdom- and Charisma-based ability checks and skill checks until you either do what was requested or succeed at a DC 20 Will saving throw, which you can attempt once per day at the start of each day. You can’t take this drawback if you have no family. If you ever lose your family or lose contact with your family, exchange this drawback for the Doubt drawback.
 
-**Foul Brand**: You have the symbol of an evil deity burned into your flesh. If the symbol is on your hand, you take a –1 penalty on Disable Device, Disguise, and Sleight of Hand checks. If the symbol is on your face, you take a –2 penalty on Bluff, Diplomacy, and Disguise checks. This does not count as a holy symbol for the purposes of a divine focus for spellcasting.
+**Foul Brand**: You have the symbol of an evil deity burned into your flesh. If the symbol is on your hand, you take a –1 penalty on [Disable Device](../../rules/skills/disable-device.md), [Disguise](../../rules/skills/disguise.md), and [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks. If the symbol is on your face, you take a –2 penalty on [Bluff](../../rules/skills/bluff.md), Diplomacy, and Disguise checks. This does not count as a holy symbol for the purposes of a divine focus for spellcasting.
 
 **Guilty Fraud**: You received something through trickery that you did not deserve, and your guilt for the misdeed distracts you from dangers around you. You take a –4 penalty on Bluff checks against creatures with an attitude toward you of indifferent or better.
 
@@ -35,23 +35,23 @@ Drawbacks are gained either by choosing them or through the [background generato
 
 **Headstrong**: You feel compelled to correct every action and argument that contradicts your worldview. Whenever you witness an action or hear an argument that contradicts your alignment, you must attempt to stop or correct that action or argument. If you either don’t try to stop it or fail in your attempt to stop it (as adjudicated by the GM), you are shaken for 1 hour.
 
-**Hedonistic**: You are a creature of pleasure and comfort. Whenever you spend a day without gaining reward or treasure (at least 10 or more gold pieces) or spending an hour on entertainment or pleasure, attempt a DC 20 Fortitude save at the end of that day. If you fail, you begin the next day fatigued. This fatigue lasts 4 hours, or until you receive a reward or sufficient entertainment or pleasure.
+**Hedonistic**: You are a creature of pleasure and comfort. Whenever you spend a day without gaining reward or treasure (at least 10 or more gold pieces) or spending an hour on entertainment or pleasure, attempt a DC 20 Fortitude save at the end of that day. If you fail, you begin the next day [fatigued](../../rules/appendices/conditions.md#fatigued). This fatigue lasts 4 hours, or until you receive a reward or sufficient entertainment or pleasure.
 
-**Helpless**: You once stood helpless as great harm befell a loved one, and that paralysis sometimes returns when an ally is in a dire position. The first time per combat encounter that an ally within 30 feet falls unconscious or dies as the result of an attack, you are dazed until the end of your next turn.
+**Helpless**: You once stood [helpless](../../rules/appendices/conditions.md#helpless) as great harm befell a loved one, and that paralysis sometimes returns when an ally is in a dire position. The first time per combat encounter that an ally within 30 feet falls [unconscious](../../rules/appendices/conditions.md#unconscious) or dies as the result of an attack, you are [dazed](../../rules/appendices/conditions.md#dazed) until the end of your next turn.
 
 **Impatient**: You love leaping into battle at the earliest opportunity, and it frustrates you to wait for others to act. You can't delay or ready actions, and if you are the last of your allies to act in a round of combat, you take a –1 penalty on ability checks, attack rolls, saving throws, and skill checks.
 
 **Infamous**: You were publicly linked, truthfully or not, to a crime of significant infamy. You draw attention wherever you go and risk imprisonment or worse in the jurisdiction where the crime was committed. You and your apparent allies take a –4 penalty on Diplomacy checks to interact with law-abiding citizens (except enemies of the authority that accused you).
 
-**Information Overload**: You have had access to thousands of spy reports, many of which turned out to be based on faulty deductions or even intentionally false stories spread by opposed spy groups. At this point, you have been exposed to false knowledge as much as accurate information, and you can’t always remember which is which. You take a –2 penalty on all Knowledge checks, and if you fail a Knowledge check by 5 or more, you can recall information that is diametrically opposed to the truth.
+**Information Overload**: You have had access to thousands of spy reports, many of which turned out to be based on faulty deductions or even intentionally false stories spread by opposed spy groups. At this point, you have been exposed to false knowledge as much as accurate information, and you can’t always remember which is which. You take a –2 penalty on all [Knowledge](../../rules/skills/knowledge.md) checks, and if you fail a Knowledge check by 5 or more, you can recall information that is diametrically opposed to the truth.
 
 **Insatiable**: You have become so accustomed to binging on the finer things in life that you find going without such excess particularly strenuous. Goods and services cost you 10% more (and can't be paid for by allies), and you need twice as much food and liquid as normal for the purposes of preventing starvation and thirst.
 
-**Lonely**: You are far too easily convinced of the friendly intentions of others. You take a –2 penalty on Sense Motive checks and on Perception checks to see through disguises, and on saving throws against charm spells and spell-like abilities.
+**Lonely**: You are far too easily convinced of the friendly intentions of others. You take a –2 penalty on Sense Motive checks and on [Perception](../../rules/skills/perception.md) checks to see through disguises, and on saving throws against charm spells and spell-like abilities.
 
 **Lovesick**: Your love for another occupies your every thought, and you become despondent when you are away from that person. The person is chosen by your GM (with consideration to your roll on Table 1–56: Romantic Relationships if you used the background generator). At the start of each day, if you are away from this person you take a –2 penalty on initiative checks and Perception checks. If you ever lose or fall out of love with this person, exchange this drawback for the Doubt drawback.
 
-**Magical Klutz**: You were born in a place with a plethora of strangely interacting magic, such as a land of wild or unstable magic, and magic is dangerously eager to surge into action around you. You roll twice and take the lower result on Use Magic Device checks to activate items blindly and on Reflex saving throws against effects produced by magic items.
+**Magical Klutz**: You were born in a place with a plethora of strangely interacting magic, such as a land of wild or unstable magic, and magic is dangerously eager to surge into action around you. You roll twice and take the lower result on [Use Magic Device](../../rules/skills/use-magic-device.md) checks to activate items blindly and on Reflex saving throws against effects produced by magic items.
 
 **Meticulous**: You plan and prepare everything in detail, and aren’t good at improvising when things don’t go as planned. You take a –2 penalty on skill checks for skills with which you’re untrained.
 
@@ -69,7 +69,7 @@ Drawbacks are gained either by choosing them or through the [background generato
 
 **Scarred**: An injury left you horribly, visibly scarred, making it more difficult for you to hide your true face, and also making most people distrustful of you merely due to your appearance. You take a –5 penalty on Disguise checks and a –2 penalty on Bluff checks.
 
-**Secret Shame**: You have a terrible fear of the public at large, a group, or an important person (such as your order of knights, your liege lord, your family, or your lover) learning a shameful truth about you. You take a –1 penalty on saving throws against fear effects, and the DC of any Intimidate check to demoralize you is reduced by 1. If you would normally be immune to fear, you do not take these penalties, but instead lose your immunity to fear (regardless of its source).
+**Secret Shame**: You have a terrible fear of the public at large, a group, or an important person (such as your order of knights, your liege lord, your family, or your lover) learning a shameful truth about you. You take a –1 penalty on saving throws against fear effects, and the DC of any [Intimidate](../../rules/skills/intimidate.md) check to demoralize you is reduced by 1. If you would normally be immune to fear, you do not take these penalties, but instead lose your immunity to fear (regardless of its source).
 
 **Self-Doubting**: Your ever-present fear of failure causes a downward spiral. The first time each day that you fail a Will saving throw or skill check, you take a –2 penalty on the next Will saving throw or skill check of that kind.
 
@@ -83,9 +83,9 @@ Drawbacks are gained either by choosing them or through the [background generato
 
 **Vain**: You are sensitive about the way others perceive you. Whenever you fail an opposed Charisma-based check, you take a –2 penalty on all Charisma-based checks for the next 24 hours.
 
-**Vainglory**: You compulsively seek recognition for your deeds, making it hard to act with subtlety. You take a –1 penalty on Bluff, Disguise, and Stealth checks, and the save DC of any illusion you create is 1 lower than normal.
+**Vainglory**: You compulsively seek recognition for your deeds, making it hard to act with subtlety. You take a –1 penalty on Bluff, Disguise, and [Stealth](../../rules/skills/stealth.md) checks, and the save DC of any illusion you create is 1 lower than normal.
 
-**Warded Against Nature**: Animals do not willingly approach within 30 feet of you, unless you or the animal’s master succeeds at a DC 20 Handle Animal, Ride, or wild empathy check. Animal companions, familiars, and mounts granted by your class abilities are immune to this effect.
+**Warded Against Nature**: Animals do not willingly approach within 30 feet of you, unless you or the animal’s master succeeds at a DC 20 [Handle Animal](../../rules/skills/handle-animal.md), [Ride](../../rules/skills/ride.md), or wild empathy check. Animal companions, familiars, and mounts granted by your class abilities are immune to this effect.
 
 **Xenophobic**: You have a hard time understanding and trusting those with unfamiliar ways and appearances. You take a –2 penalty on Diplomacy and Sense Motive checks made against creatures of a different race or from a different culture.
 
@@ -103,7 +103,7 @@ Drawbacks are gained either by choosing them or through the [background generato
 
 **Fey-Taken**: As a child, you were whisked away to the realm of the fey by mischievous fey for a time. When you returned, you were ever after considered odd and distant. You long to return there, and find the mortal world dull and at times revolting, so you do not eat as you should and do not question strange visions. You take a –2 penalty on saving throws against disease, illusions, and poison of all kinds, as well as against the spells, spell-like abilities, and supernatural abilities of fey.
 
-**Forgetful**: You are easily distracted and prone to forgetting important things. Whenever you leave a location you have been at for longer than 1 hour, you must attempt a DC 10 Wisdom check. If you fail, you leave behind one random mundane item (a purse of money counts as an item).
+**Forgetful**: You are easily distracted and [prone](../../rules/appendices/conditions.md#prone) to forgetting important things. Whenever you leave a location you have been at for longer than 1 hour, you must attempt a DC 10 Wisdom check. If you fail, you leave behind one random mundane item (a purse of money counts as an item).
 
 **Haunting Regret**: When you were young, a relative with whom you had frequently quarreled passed away where his or her soul could not rest. Now, the unquiet spirit appears around you at inconvenient times, distracting you with regret for being unable to help. You take a –2 penalty on saving throws against the distraction ability of swarms and mind-affecting effects and on concentration checks.
 

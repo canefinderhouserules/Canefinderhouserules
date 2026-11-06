@@ -1,6 +1,6 @@
 # Halflings
 
-Optimistic and cheerful by nature, blessed with uncanny luck and driven by a powerful wanderlust, halflings make up for their short stature with an abundance of bravado and curiosity. At once excitable and easy-going, halflings like to keep an even temper and a steady eye on opportunity, and are not as prone as some of the more volatile races to violent or emotional outbursts. Even in the jaws of catastrophe, a halfling almost never loses his sense of humor.
+Optimistic and cheerful by nature, blessed with uncanny luck and driven by a powerful wanderlust, halflings make up for their short stature with an abundance of bravado and curiosity. At once excitable and easy-going, halflings like to keep an even temper and a steady eye on opportunity, and are not as [prone](../../rules/appendices/conditions.md#prone) as some of the more volatile races to violent or emotional outbursts. Even in the jaws of catastrophe, a halfling almost never loses his sense of humor.
 
 Halflings are inveterate opportunists. Unable to physically defend themselves from the rigors of the world, they know when to bend with the wind and when to hide away. Yet a halfling’s curiosity often overwhelms his good sense, leading to poor decisions and narrow escapes.
 
@@ -20,7 +20,7 @@ Though their curiosity drives them to travel and seek new places and experiences
 
 **+2 Dexterity, +2 Charisma, –2 Strength**: Halflings are nimble and strong-willed, but their small stature makes them weaker than other races.
 
-**Small**: Halflings are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their Combat Maneuver Bonus and Combat Maneuver Defense, and a +4 size bonus on Stealth checks.
+**Small**: Halflings are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their Combat Maneuver Bonus and Combat Maneuver Defense, and a +4 size bonus on [Stealth](../../rules/skills/stealth.md) checks.
 
 **Slow Speed**: Halflings have a base speed of 20 feet.
 
@@ -28,9 +28,9 @@ Though their curiosity drives them to travel and seek new places and experiences
 
 **Halfling Luck**: Halflings receive a +1 racial bonus on all saving throws.
 
-**Keen Senses**: Halflings receive a +2 racial bonus on Perception skill checks.
+**Keen Senses**: Halflings receive a +2 racial bonus on [Perception](../../rules/skills/perception.md) skill checks.
 
-**Sure-Footed:** Halflings receive a +2 racial bonus on Acrobatics and Climb skill checks.
+**Sure-Footed:** Halflings receive a +2 racial bonus on [Acrobatics](../../rules/skills/acrobatics.md) and [Climb](../../rules/skills/climb.md) skill checks.
 
 **Weapon Familiarity**: Halflings are proficient with [slings](../../equipment/weapons-simple.md#simple-ranged-weapons) and treat any weapon with the word “halfling” in its name as a martial weapon.
 
@@ -44,15 +44,15 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Low Blow**: Some halflings train extensively in how to attack larger creatures. Halflings with this racial trait gain a +1 bonus on critical confirmation rolls against opponents larger than themselves. This racial trait replaces the keen senses racial trait.
 
-**Outrider**: Some halflings specialize in mounted combat. Halflings with this racial trait gain a +2 bonus on Handle Animal and Ride checks. This racial trait replaces the sure-footed racial trait.
+**Outrider**: Some halflings specialize in mounted combat. Halflings with this racial trait gain a +2 bonus on [Handle Animal](../../rules/skills/handle-animal.md) and [Ride](../../rules/skills/ride.md) checks. This racial trait replaces the sure-footed racial trait.
 
-**Practicality**: Halflings are grounded in hard work and common sense. Halflings with this racial trait gain a +2 bonus on any one Craft or Profession skill, as well as on Sense Motive checks and saves against illusions. This racial trait replaces the fearless and sure-footed racial traits.
+**Practicality**: Halflings are grounded in hard work and common sense. Halflings with this racial trait gain a +2 bonus on any one [Craft](../../rules/skills/craft.md) or [Profession](../../rules/skills/profession.md) skill, as well as on [Sense Motive](../../rules/skills/sense-motive.md) checks and saves against illusions. This racial trait replaces the fearless and sure-footed racial traits.
 
 **Swift as Shadows**: Halflings possess incredible stealth even while moving through obstructed areas. Halflings with this racial trait reduce the penalty for using Stealth while moving by 5, and reduce the Stealth check penalty for sniping by 10. This racial trait replaces the sure-footed racial trait.
 
 **Underfoot**: Halflings must train hard to effectively fight bigger opponents. Halflings with this racial trait gain a +1 dodge bonus to AC against foes larger than themselves and a +1 bonus on Reflex saving throws to avoid trample attacks. This racial trait replaces the halfling luck racial trait.
 
-**Wanderlust**: Halflings love travel and maps. Halflings with this racial trait receive a +2 bonus on Knowledge (geography) and Survival checks. When casting spells or using abilities that provide or enhance movement, halflings treat their caster level as +1 higher than normal. This racial trait replaces the fearless and halfling luck racial traits.
+**Wanderlust**: Halflings love travel and maps. Halflings with this racial trait receive a +2 bonus on [Knowledge](../../rules/skills/knowledge.md) (geography) and [Survival](../../rules/skills/survival.md) checks. When casting spells or using abilities that provide or enhance movement, halflings treat their caster level as +1 higher than normal. This racial trait replaces the fearless and halfling luck racial traits.
 
 **Warslinger**: Halflings are experts at the use of the sling. Halflings with this racial trait can reload a sling as a free action. Reloading a sling still requires two hands and provokes attacks of opportunity. This racial trait replaces the sure-footed racial trait.
 
@@ -64,11 +64,11 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Fleet of Foot**: Some halflings are quicker than their kin but less cautious. Halflings with this racial trait move at normal speed and have a base speed of 30 feet. This racial trait replaces slow speed and sure-footed.
 
-**Ingratiating**: Halflings often survive at the whims of larger, more aggressive races. Because of this, they go out of their way to make themselves more useful, or at least entertaining, to larger folk. Halflings with this racial trait gain a +2 bonus on skill checks for a single Perform skill of their choice, and Perform is always a class skill for them. They also gain a +2 bonus on Craft and Profession checks. This racial trait replaces keen senses and sure-footed.
+**Ingratiating**: Halflings often survive at the whims of larger, more aggressive races. Because of this, they go out of their way to make themselves more useful, or at least entertaining, to larger folk. Halflings with this racial trait gain a +2 bonus on skill checks for a single [Perform](../../rules/skills/perform.md) skill of their choice, and Perform is always a class skill for them. They also gain a +2 bonus on Craft and Profession checks. This racial trait replaces keen senses and sure-footed.
 
-**Polyglot**: Some halflings, especially those who spend a lot of time traveling, develop a talent for learning new languages. These halflings gain a +2 racial bonus on Linguistics checks, and it is always a class skill for them. Halflings with this racial trait also begin play with the ability to speak Common, Halfling, and any one other language of their choice (except for secret languages, such as Druidic) in addition to bonus languages due to high Intelligence. They still gain the normal list of halfling bonus languages. This racial trait replaces keen senses and alters the halfling language racial trait.
+**Polyglot**: Some halflings, especially those who spend a lot of time traveling, develop a talent for learning new languages. These halflings gain a +2 racial bonus on [Linguistics](../../rules/skills/linguistics.md) checks, and it is always a class skill for them. Halflings with this racial trait also begin play with the ability to speak Common, Halfling, and any one other language of their choice (except for secret languages, such as Druidic) in addition to bonus languages due to high Intelligence. They still gain the normal list of halfling bonus languages. This racial trait replaces keen senses and alters the halfling language racial trait.
 
-**Shiftless**: Halflings have a reputation for larceny and guile—and sometimes it’s well deserved. Halflings with this racial trait gain a +2 racial bonus on Bluff and Sleight of Hand checks, and Sleight of Hand is always a class skill for them. This racial trait replaces sure-footed.
+**Shiftless**: Halflings have a reputation for larceny and guile—and sometimes it’s well deserved. Halflings with this racial trait gain a +2 racial bonus on [Bluff](../../rules/skills/bluff.md) and [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks, and Sleight of Hand is always a class skill for them. This racial trait replaces sure-footed.
 
 ### Urban Alternate Racial Traits
 
@@ -80,7 +80,7 @@ The following racial traits represent a fey ancestor in the family line. They ca
 
 **Fey-Quickened**: Some fey-blooded halflings are faster than their kin, yet retain a sharp eye for danger. These halflings gain Run as a bonus feat and a +2 racial bonus on initiative checks. This racial trait replaces fearless and keen senses.
 
-**Surreptitious**: Halflings skilled in eavesdropping on suspicious visitors are highly prized in human courts. These halflings are skilled at maintaining innocuous disguises and vanishing before being confronted. Halflings with this trait gain a +2 racial bonus on Disguise and Stealth checks. This racial trait replaces sure-footed.
+**Surreptitious**: Halflings skilled in eavesdropping on suspicious visitors are highly prized in human courts. These halflings are skilled at maintaining innocuous disguises and vanishing before being confronted. Halflings with this trait gain a +2 racial bonus on [Disguise](../../rules/skills/disguise.md) and Stealth checks. This racial trait replaces sure-footed.
 
 ### Draconic Alternate Racial Traits
 
@@ -123,9 +123,9 @@ You can combine various alternate racial traits to create halfling subraces or v
 
 Halflings have access to the following equipment.
 
-**Alchemical Preserves**: Each small tin of this specially treated jam contains just enough of the gooey stuff to provide a halfling with a single serving of revitalizing nourishment. While any creature can eat these preserves as a standard action, it only affects halflings in a beneficial way. Halflings who eat the preserves recover from fatigue. Non-halflings who eat alchemical preserves become sickened for 1 round.
+**Alchemical Preserves**: Each small tin of this specially treated jam contains just enough of the gooey stuff to provide a halfling with a single serving of revitalizing nourishment. While any creature can eat these preserves as a standard action, it only affects halflings in a beneficial way. Halflings who eat the preserves recover from fatigue. Non-halflings who eat alchemical preserves become [sickened](../../rules/appendices/conditions.md#sickened) for 1 round.
 
-**Billow Cape**: This silk cape is constructed of many carefully arranged overlapping layers that are loosely stitched together. When exposed to a sudden influx of air, like that caused by falling, the cloak unfolds like a crude parachute. When falling, a creature wearing a billow cape is treated as if he had deliberately jumped from the height. When worn in areas of strong wind or greater, a billow cape hampers movement. In such wind conditions, the wearer treats all terrain as difficult terrain and takes a –4 penalty on Fly checks. Because of the strange and somewhat fragile construction of this cape, only Small or smaller billow capes function properly. Larger billow capes take all the penalties resulting from high winds, but grant none of the benefits when the wearer falls.
+**Billow Cape**: This silk cape is constructed of many carefully arranged overlapping layers that are loosely stitched together. When exposed to a sudden influx of air, like that caused by falling, the cloak unfolds like a crude parachute. When falling, a creature wearing a billow cape is treated as if he had deliberately jumped from the height. When worn in areas of strong wind or greater, a billow cape hampers movement. In such wind conditions, the wearer treats all terrain as difficult terrain and takes a –4 penalty on [Fly](../../rules/skills/fly.md) checks. Because of the strange and somewhat fragile construction of this cape, only Small or smaller billow capes function properly. Larger billow capes take all the penalties resulting from high winds, but grant none of the benefits when the wearer falls.
 
 **Halfling Jugglesticks**: This group of four brightly colored sticks is adorned with colorful streamers that can be juggled and manipulated to create displays and patterns. Halflings use them to even greater effect, gaining a +2 circumstance bonus on Perform (comedy) checks.
 
@@ -180,7 +180,7 @@ When a halfling comes of age, he usually earns or claims a minor token or mement
 
 Each keepsake earned at the end of a halfling's coming-of-age task is unique and usually irreplaceable. However, a halfling who loses his keepsake might, if especially devoted, gain a nearly identical copy as a reward for completing a particularly important quest or assignment that directly benefits his faith. Many halfling divine spellcasters attach their keepsakes to their holy symbols. If the keepsake is near the holy symbol, a halfling can grab them both at the same time with one hand and cast the spell as normal. If the keepsake is hidden away, the halfling must spend a move action to retrieve it before casting the spell. Only the halfling who earned the keepsake can use it for the following purposes. These keepsakes are not magic items and do not radiate magic.
 
-**Black Bead**: Usually a trophy seized from a foe, this bead often commemorates tasks involving defeating a threat through manipulation or deception rather than direct action. A halfling who uses the bead while casting [*cause fear*](../../magic/spells/cause-fear.md) can target multiple creatures within range of the spell so long as their total Hit Dice does not exceed 5. A creature that fails its saving throw becomes shaken for 1d4 rounds; a successful save means that the spell has no effect.
+**Black Bead**: Usually a trophy seized from a foe, this bead often commemorates tasks involving defeating a threat through manipulation or deception rather than direct action. A halfling who uses the bead while casting [*cause fear*](../../magic/spells/cause-fear.md) can target multiple creatures within range of the spell so long as their total Hit Dice does not exceed 5. A creature that fails its saving throw becomes [shaken](../../rules/appendices/conditions.md#shaken) for 1d4 rounds; a successful save means that the spell has no effect.
 
 **Blessed Button**: This brass button often commemorates tasks requiring the youth to destroy or drive off a threat to the community without directly engaging it in hand-to-hand combat. A halfling who uses it while casting [*bless weapon*](../../magic/spells/bless-weapon.md) on a sling enables the sling to confer the spell's benefits to the ammunition it fires.
 
@@ -282,7 +282,7 @@ Deep in the jungles outside the former infernal imperial colony of the jungle co
 
 ### Unfettered
 
-Former slips liberated from slavery train to ensure they will never be slaves again. They gain a +4 racial bonus on Escape Artist checks and a +2 racial bonus on saving throws against effects that cause the entangled condition, to CMD against grapples, and on combat maneuver checks to escape a grapple. This racial trait replaces halfling luck and keen senses.
+Former slips liberated from slavery train to ensure they will never be slaves again. They gain a +4 racial bonus on [Escape Artist](../../rules/skills/escape-artist.md) checks and a +2 racial bonus on saving throws against effects that cause the [entangled](../../rules/appendices/conditions.md#entangled) condition, to CMD against grapples, and on combat maneuver checks to escape a grapple. This racial trait replaces halfling luck and keen senses.
 
 ### Unlucky Halfling
 
@@ -296,7 +296,7 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 **Barbarian**: Add a +1/2 bonus to trap sense or +1/3 to the bonus from the surprise accuracy rage power.
 
-**Bard**: Add +1/2 on Bluff checks to pass secret messages, +1/2 on Diplomacy checks to gather information, and +1/2 on Disguise checks to appear as an elven, half-elven, or human child.
+**Bard**: Add +1/2 on Bluff checks to pass secret messages, +1/2 on [Diplomacy](../../rules/skills/diplomacy.md) checks to gather information, and +1/2 on Disguise checks to appear as an elven, half-elven, or human child.
 
 **Bloodrager**: Gain a +1/4 dodge bonus to AC while bloodraging against creatures at least one size category larger than the bloodrager.
 

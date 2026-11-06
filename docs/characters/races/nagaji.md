@@ -18,7 +18,7 @@ The nagaji are a race of ophidian humanoids with scaled skin that mimics the dra
 
 **Resistant (Ex)**: Nagaji receive a +2 racial saving throw bonus against mind-affecting effects and poison.
 
-**Serpent’s Sense (Ex)**: Nagaji receive a +2 racial bonus on Handle Animal checks against reptiles, and a +2 racial bonus on Perception checks.
+**Serpent’s Sense (Ex)**: Nagaji receive a +2 racial bonus on [Handle Animal](../../rules/skills/handle-animal.md) checks against reptiles, and a +2 racial bonus on [Perception](../../rules/skills/perception.md) checks.
 
 **Languages**: Nagaji begin play speaking Common and Draconic. Nagaji with high Intelligence scores can choose from the following: any human tongue, Abyssal, Aklo, Celestial, Draconic, Giant, Infernal, and Sylvan.
 
@@ -32,7 +32,7 @@ The following racial trait may be selected instead of an existing nagaji racial 
 
 Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
 
-**Alchemist**: Add +1 on Craft (alchemy) checks to craft poison and +1/3 on the DCs of poisons the alchemist creates.
+**Alchemist**: Add +1 on [Craft](../../rules/skills/craft.md) (alchemy) checks to craft poison and +1/3 on the DCs of poisons the alchemist creates.
 
 **Fighter**: Add +1 to the fighter’s CMD when resisting a grapple or trip attempt.
 

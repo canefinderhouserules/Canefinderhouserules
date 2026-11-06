@@ -2,7 +2,7 @@
 
 *(Combat, Targeting)*
 
-A shot to the leg causes your foe to fall prone.
+A shot to the leg causes your foe to fall [prone](../appendices/conditions.md#prone).
 
 **Prerequisites**: Dex 13, [Deadly Aim](deadly-aim.md), base attack bonus +6.
 

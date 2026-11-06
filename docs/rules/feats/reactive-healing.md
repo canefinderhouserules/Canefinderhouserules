@@ -1,6 +1,6 @@
 # Reactive Healing
 
-You can channel healing energy in response to an attack that would knock you unconscious.
+You can channel healing energy in response to an attack that would knock you [unconscious](../appendices/conditions.md#unconscious).
 
 **Prerequisites**: [Quick Channel](quick-channel.md) or [Quicken Spell](quicken-spell.md); channel energy or lay on hands class feature.
 

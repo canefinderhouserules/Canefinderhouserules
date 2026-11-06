@@ -14,9 +14,9 @@ A naiad is a lovely woman whose skin appears to be made of water, with a fluid g
 
 **Low-Light Vision**: Naiads can see twice as far as humans can in dim light.
 
-**Fey Nature**: Naiads have a +2 racial bonus on Handle Animal and Knowledge (nature) checks.
+**Fey Nature**: Naiads have a +2 racial bonus on [Handle Animal](../../rules/skills/handle-animal.md) and [Knowledge](../../rules/skills/knowledge.md) (nature) checks.
 
-**Inspiration (Su)**: A naiad can choose another intelligent creature to inspire by giving that creature a token (typically a lock of her hair). As long as the creature carries the naiad's token and retains her favor, that creature gains a +1 insight bonus on Will saving throws and Craft and Perform checks. The naiad retains a link to her token and its carrier as if she had cast a [*status*](../../magic/spells/status.md) spell on the carrier. The naiad can end this effect at any time as a free action. A single naiad can only inspire one other creature at a time in this manner.
+**Inspiration (Su)**: A naiad can choose another intelligent creature to inspire by giving that creature a token (typically a lock of her hair). As long as the creature carries the naiad's token and retains her favor, that creature gains a +1 insight bonus on Will saving throws and [Craft](../../rules/skills/craft.md) and [Perform](../../rules/skills/perform.md) checks. The naiad retains a link to her token and its carrier as if she had cast a [*status*](../../magic/spells/status.md) spell on the carrier. The naiad can end this effect at any time as a free action. A single naiad can only inspire one other creature at a time in this manner.
 
 **Water Bond (Su)**: A naiad gains strength from a pond, lake, river, or other body of fresh water by bonding with it. While within 300 yards of her bonded body of water, she gains a +1 insight bonus to Armor Class and a +1 racial bonus on saving throws. Once per day as a full-round action that provokes attacks of opportunity, a naiad can forge a bond with a body of fresh water.
 

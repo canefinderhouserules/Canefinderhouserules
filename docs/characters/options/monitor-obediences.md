@@ -34,7 +34,7 @@ Monitors are listed by their portfolio rather than by name.
 
 1. **Creator's Whispers (Sp)**: [*crafter's fortune*](../../magic/spells/crafters-fortune.md) 3/day, [*object reading*](../../magic/spells/object-reading.md) 2/day, or [*detect anxieties*](../../magic/spells/detect-anxieties.md) 1/day
 2. **Evader of Consequence (Sp)**: You can cast [*reincarnate*](../../magic/spells/reincarnate.md) or [*mindwipe*](../../magic/spells/mindwipe.md) once per day. You must select which when you perform the obedience for that day.
-3. **Though Only Breath (Ex)**: You gain deep insights into crafting a lasting legacy. Select a single Craft, Perform, or Profession skill. You gain a +10 insight bonus on checks to craft permanent materials, such as carving a statue, writing a play, or drafting meaningful legislation. A check result of 40 or higher indicates a piece that will remain in the public consciousness for generations to come. This bonus does not apply to skill checks to earn money.
+3. **Though Only Breath (Ex)**: You gain deep insights into crafting a lasting legacy. Select a single [Craft](../../rules/skills/craft.md), [Perform](../../rules/skills/perform.md), or [Profession](../../rules/skills/profession.md) skill. You gain a +10 insight bonus on checks to craft permanent materials, such as carving a statue, writing a play, or drafting meaningful legislation. A check result of 40 or higher indicates a piece that will remain in the public consciousness for generations to come. This bonus does not apply to skill checks to earn money.
 
 ## Psychopomp usher of atonement, difficult choices and pain
 
@@ -54,16 +54,16 @@ Monitors are listed by their portfolio rather than by name.
 
 1. **Cycle of Mourning (Sp)**: [*decompose corpse*](../../magic/spells/decompose-corpse.md) 3/day, [*calm emotions*](../../magic/spells/calm-emotions.md) 2/day, or [*rage*](../../magic/spells/rage.md) 1/day
 2. **Inspired Survivor (Ex)**: You gain a +4 insight bonus on checks to resist or survive the effects of harsh weather, earthquakes, and other environmental disasters.
-3. **Inspiration in Loss (Su)**: With a touch, you can dredge up powerful feelings of loss in other creatures. Three times per day as a standard action, you can touch an adjacent creature to cause it to become dazed by grief for 1 round. An unwilling target can resist this effect with a successful Will saving throw (DC = 10 + half your Hit Dice + your Charisma modifier). The following round, the target gains one of the following as a bonus feat for a number of rounds equal to half your Hit Dice: [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Deadly Aim](../../rules/feats/deadly-aim.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Iron Will](../../rules/feats/iron-will.md), or [Power Attack](../../rules/feats/power-attack.md). A target does not need to meet the normal prerequisites for this bonus feat. A target who succeeds at the saving throw against the initial daze effect does not gain a bonus feat.
+3. **Inspiration in Loss (Su)**: With a touch, you can dredge up powerful feelings of loss in other creatures. Three times per day as a standard action, you can touch an adjacent creature to cause it to become [dazed](../../rules/appendices/conditions.md#dazed) by grief for 1 round. An unwilling target can resist this effect with a successful Will saving throw (DC = 10 + half your Hit Dice + your Charisma modifier). The following round, the target gains one of the following as a bonus feat for a number of rounds equal to half your Hit Dice: [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Deadly Aim](../../rules/feats/deadly-aim.md), [Great Fortitude](../../rules/feats/great-fortitude.md), [Iron Will](../../rules/feats/iron-will.md), or [Power Attack](../../rules/feats/power-attack.md). A target does not need to meet the normal prerequisites for this bonus feat. A target who succeeds at the saving throw against the initial daze effect does not gain a bonus feat.
 
 ## Psychopomp usher of compasses, travelers and vigils
 
-**Obedience**: Walk a road for an hour and keep a constant eye out for signs of fallen travelers or roadside graves. Tend to any of either you find. Gain a +4 insight bonus on Survival and Knowledge (geography) checks to find locations and avoid becoming lost, as well as on saving throws against magic effects that would force you to become lost (such as the [*maze*](../../magic/spells/maze.md) spell).
+**Obedience**: Walk a road for an hour and keep a constant eye out for signs of fallen travelers or roadside graves. Tend to any of either you find. Gain a +4 insight bonus on [Survival](../../rules/skills/survival.md) and [Knowledge](../../rules/skills/knowledge.md) (geography) checks to find locations and avoid becoming lost, as well as on saving throws against magic effects that would force you to become lost (such as the [*maze*](../../magic/spells/maze.md) spell).
 
 ### Evangelist Boons
 
 1. **Know Who Passed (Sp)**: [*alarm*](../../magic/spells/alarm.md) 3/day, [*perceive cues*](../../magic/spells/perceive-cues.md) 2/day, or [*speak with dead*](../../magic/spells/speak-with-dead.md) 1/day
-2. **Wings of the Wanderer (Su)**: As a standard action, you can assume the form of a giant raven as if using the spell *beast shape II*. While in this form, you gain the raven’s scavenger extraordinary ability, a +2 insight bonus to AC, and a +3 insight bonus on Perception checks. You can retain this form for 1 hour per HD you have; this time does not need to be consecutive, but it must be used in 1-hour increments. While in raven form, you can increase or decrease your size as a standard action, as if you had cast [*reduce person*](../../magic/spells/reduce-person.md) or [*enlarge person*](../../magic/spells/enlarge-person.md) (self only); these spells have their normal duration, treating your Hit Dice as your caster level, but casting either consumes 1 hour of your daily shapeshifting allotment.
+2. **Wings of the Wanderer (Su)**: As a standard action, you can assume the form of a giant raven as if using the spell *beast shape II*. While in this form, you gain the raven’s scavenger extraordinary ability, a +2 insight bonus to AC, and a +3 insight bonus on [Perception](../../rules/skills/perception.md) checks. You can retain this form for 1 hour per HD you have; this time does not need to be consecutive, but it must be used in 1-hour increments. While in raven form, you can increase or decrease your size as a standard action, as if you had cast [*reduce person*](../../magic/spells/reduce-person.md) or [*enlarge person*](../../magic/spells/enlarge-person.md) (self only); these spells have their normal duration, treating your Hit Dice as your caster level, but casting either consumes 1 hour of your daily shapeshifting allotment.
 3. **Terrain Dominance**: Your passage is rarely impeded by landscapes or weather. For every 5 HD you have, you gain one terrain dominance as if you were a horizon walker; you do not need to have the terrain mastery class feature to select a terrain dominance. If you do not have a favored terrain bonus from another source, treat your favored terrain bonus as +2 when dealing with creatures native to the terrains over which you have dominance; you do not otherwise gain the benefits of favored terrain.
 
 ### Exalted Boons
@@ -75,7 +75,7 @@ Monitors are listed by their portfolio rather than by name.
 ### Sentinel Boons
 
 1. **Find the Lost (Sp)**: [*tireless pursuit*](../../magic/spells/tireless-pursuit.md) 3/day, [*locate object*](../../magic/spells/locate-object.md) 2/day, or [*follow aura*](../../magic/spells/follow-aura.md) 1/day
-2. **Studied Hunter (Ex)**: You are adept at tracking, understanding, and assisting a specific kind of creature. Select a creature type from the ranger’s list of favored enemies. You gain a +2 bonus on Survival checks to track creatures of this type or subtype, and on Diplomacy, Heal, Knowledge, and Sense Motive checks regarding them. You also gain a +1 dodge bonus to AC against attacks from creatures of this type. For every 5 Hit Dice you have, you can select one additional type or subtype to apply these bonuses to, and at each such interval, the bonus gained regarding any one studied type or subtype increases by 2 for skill checks and by 1 for AC.
+2. **Studied Hunter (Ex)**: You are adept at tracking, understanding, and assisting a specific kind of creature. Select a creature type from the ranger’s list of favored enemies. You gain a +2 bonus on Survival checks to track creatures of this type or subtype, and on [Diplomacy](../../rules/skills/diplomacy.md), [Heal](../../rules/skills/heal.md), Knowledge, and [Sense Motive](../../rules/skills/sense-motive.md) checks regarding them. You also gain a +1 dodge bonus to AC against attacks from creatures of this type. For every 5 Hit Dice you have, you can select one additional type or subtype to apply these bonuses to, and at each such interval, the bonus gained regarding any one studied type or subtype increases by 2 for skill checks and by 1 for AC.
 3. **Warden of the Ways (Su)**: You no longer need to drink, eat, or sleep to survive, though you must still rest with only light activity for at least 2 hours a day to renew your spells. While on a road, pathway, or tunnel, you gain DR 4/—; your GM has final approval over what qualifies as a road, pathway, or tunnel.
 
 ## Psychopomp usher of consequence, superstition and tradition
@@ -90,7 +90,7 @@ Monitors are listed by their portfolio rather than by name.
 
 ## Psychopomp usher of consumption, renewal and transformation
 
-**Obedience**: Consume the flesh or blood of your own people and reflect on the pain and death required to grant strength and life; if this is your own flesh or blood, the process deals 1d6 points of damage. Gain a +4 insight bonus against effects that would cause you to become sickened or nauseated. You can survive by eating rotting and diseased food with no ill effect.
+**Obedience**: Consume the flesh or blood of your own people and reflect on the pain and death required to grant strength and life; if this is your own flesh or blood, the process deals 1d6 points of damage. Gain a +4 insight bonus against effects that would cause you to become [sickened](../../rules/appendices/conditions.md#sickened) or [nauseated](../../rules/appendices/conditions.md#nauseated). You can survive by eating rotting and diseased food with no ill effect.
 
 ### Boons
 
@@ -100,7 +100,7 @@ Monitors are listed by their portfolio rather than by name.
 
 ## Psychopomp usher of duty, revenge and beasts of burden
 
-**Obedience**: Perform hard labor for at least 1 hour while focusing on your shortcomings and how to overcome them. Gain a +4 insight bonus on saves against death effects and effects that would cause you to become fatigued.
+**Obedience**: Perform hard labor for at least 1 hour while focusing on your shortcomings and how to overcome them. Gain a +4 insight bonus on saves against death effects and effects that would cause you to become [fatigued](../../rules/appendices/conditions.md#fatigued).
 
 ### Boons
 
@@ -130,7 +130,7 @@ Monitors are listed by their portfolio rather than by name.
 
 ## Psychopomp usher of gargoyles, holy ground and rest
 
-**Obedience**: Spend an hour cleaning and maintaining a crypt, graveyard, or other site dedicated to the dead. Gain a +2 insight bonus on Climb, Perception, and Stealth checks on or within stone structures.
+**Obedience**: Spend an hour cleaning and maintaining a crypt, graveyard, or other site dedicated to the dead. Gain a +2 insight bonus on [Climb](../../rules/skills/climb.md), Perception, and [Stealth](../../rules/skills/stealth.md) checks on or within stone structures.
 
 ### Boons
 
@@ -156,7 +156,7 @@ Monitors are listed by their portfolio rather than by name.
 
 1. **Mixed Blessings (Sp)**: [*enhance water*](../../magic/spells/enhance-water.md) 3/day, [*vomit swarm*](../../magic/spells/vomit-swarm.md) 2/day, or [*remove disease*](../../magic/spells/remove-disease.md) 1/day
 2. **Healer’s Mercy (Sp)**: You can cast maximized [*breath of life*](../../magic/spells/breath-of-life.md) 1/day.
-3. **Uncertain Fates (Su)**: You can keep the spirits of any intelligent creatures that die within 30 feet of you, which orbit you as moaning, disembodied forms. For every spirit you keep, you gain a cumulative +1 bonus to AC and caster level checks to overcome spell resistance, but you take a cumulative –1 penalty on Fortitude saving throws. You can keep a number of spirits equal to half your Hit Dice plus your Charisma modifier at one time, but they are released automatically to join the River of Souls if you are stunned, knocked unconscious, or sleeping. As long as you keep the soul of a creature, you can cast [*breath of life*](../../magic/spells/breath-of-life.md) on it as if that creature had died in the previous round.
+3. **Uncertain Fates (Su)**: You can keep the spirits of any intelligent creatures that die within 30 feet of you, which orbit you as moaning, disembodied forms. For every spirit you keep, you gain a cumulative +1 bonus to AC and caster level checks to overcome spell resistance, but you take a cumulative –1 penalty on Fortitude saving throws. You can keep a number of spirits equal to half your Hit Dice plus your Charisma modifier at one time, but they are released automatically to join the River of Souls if you are [stunned](../../rules/appendices/conditions.md#stunned), knocked [unconscious](../../rules/appendices/conditions.md#unconscious), or sleeping. As long as you keep the soul of a creature, you can cast [*breath of life*](../../magic/spells/breath-of-life.md) on it as if that creature had died in the previous round.
 
 ## Psychopomp usher of poetry, trauma and war
 
@@ -185,7 +185,7 @@ Monitors are listed by their portfolio rather than by name.
 ### Boons
 
 1. **Temporal Warden (Sp)**: [*sanctuary*](../../magic/spells/sanctuary.md) 3/day, [*silence*](../../magic/spells/silence.md) 2/day, or [*sands of time*](../../magic/spells/sands-of-time.md) 1/day
-2. **Timely Absence (Su)**: Once per day as an immediate action when you would fail a saving throw or be reduced to 0 hit points or fewer by an effect, you can disappear from reality altogether and avoid the immediate effects (not being hit or poisoned, for example). You leave behind a transparent afterimage, and at the beginning of your next turn, you reappear in your space (or the nearest available space if that is now occupied) and are staggered until the end of your turn.
+2. **Timely Absence (Su)**: Once per day as an immediate action when you would fail a saving throw or be reduced to 0 hit points or fewer by an effect, you can disappear from reality altogether and avoid the immediate effects (not being hit or poisoned, for example). You leave behind a transparent afterimage, and at the beginning of your next turn, you reappear in your space (or the nearest available space if that is now occupied) and are [staggered](../../rules/appendices/conditions.md#staggered) until the end of your turn.
 3. **Invert Entropy (Su)**: You take no penalties from energy drain, though you can still be killed if you accrue more negative levels than you have Hit Dice. Once per day as a move action, you can remove a number of your temporary negative levels equal to half your Hit Dice. For every 2 negative levels removed, you gain 10 temporary hit points and a cumulative +1 insight bonus on ability checks, attack rolls, saving throws, and skill checks; both effects last until the end of your next turn.
 
 ## Primal inevitable of machinery, math and physics
@@ -225,7 +225,7 @@ Monitors are listed by their portfolio rather than by name.
 ### Boons
 
 1. **Sibilant (Sp)**: [*aphasia*](../../magic/spells/aphasia.md) 3/day, [*sonic scream*](../../magic/spells/sonic-scream.md) 2/day, or [*tongues*](../../magic/spells/tongues.md) 1/day
-2. **Burning Tongue (Ex)**: As a standard action three times per day, you can transform your mouth into a serpentine maw with a tongue of roiling sonic energy. This grants you a ranged touch attack that targets a single creature within 30 feet. The attack deals 8d6 points of sonic damage and renders the target confused for 1d4 rounds. In addition, a creature hit by this attack must succeed at a Will save (DC = 10 + half your Hit Dice + your Charisma modifier) or it is unable to communicate by any spoken or written language for a number of hours equal to your Wisdom modifier.
+2. **Burning Tongue (Ex)**: As a standard action three times per day, you can transform your mouth into a serpentine maw with a tongue of roiling sonic energy. This grants you a ranged touch attack that targets a single creature within 30 feet. The attack deals 8d6 points of sonic damage and renders the target [confused](../../rules/appendices/conditions.md#confused) for 1d4 rounds. In addition, a creature hit by this attack must succeed at a Will save (DC = 10 + half your Hit Dice + your Charisma modifier) or it is unable to communicate by any spoken or written language for a number of hours equal to your Wisdom modifier.
 3. **Screams of the Deep (Sp)**: As a standard action, you can cast either [*power word blind*](../../magic/spells/power-word-blind.md), [*power word kill*](../../magic/spells/power-word-kill.md), [*power word stun*](../../magic/spells/power-word-stun.md), or [*word of chaos*](../../magic/spells/word-of-chaos.md) as a spell-like ability, treating your character level as your caster level. You can cast these spell-like abilities a number of times per day equal to your Charisma modifier (minimum 1), but you cannot repeat the spell you most recently cast. The saving throw DC, when applicable, is equal to 10 + half your Hit Dice + your Charisma modifier.
 
 ## Aeon of creation, the infinite and truth

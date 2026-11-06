@@ -4,7 +4,7 @@ You can summon the aid of creatures driven by their very nature to destroy goodn
 
 **Prerequisite**: Evil alignment.
 
-**Benefit**: When casting *summon monster*, you also have access to the list of evil monsters below. When summoning a creature from this list, your debased nature allows you to cast the spell as a standard action. The summoned creature appears as normal for the spell but can’t act until your next turn. It is not flat-footed, however, and it can make attacks of opportunity as normal. These effects don’t apply for creatures from the standard list that aren’t also on this list.
+**Benefit**: When casting *summon monster*, you also have access to the list of evil monsters below. When summoning a creature from this list, your debased nature allows you to cast the spell as a standard action. The summoned creature appears as normal for the spell but can’t act until your next turn. It is not [flat-footed](../appendices/conditions.md#flat-footed), however, and it can make attacks of opportunity as normal. These effects don’t apply for creatures from the standard list that aren’t also on this list.
 
 **Special**: If you possess the [Sacred Summons](sacred-summons.md) feat, you can apply it to a creature on this list whose alignment (as opposed to its subtype or subtypes) matches your aura.
 

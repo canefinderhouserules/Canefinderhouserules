@@ -6,13 +6,13 @@ The options below are for wyvaran characters (as presented in the *Bestiary 4*).
 
 ## Alternate Racial Traits
 
-**Greed**: Most wyvarans crave treasure, but for some, amassing wealth is a compulsion. Wyvarans with this trait gain a +2 racial bonus on Appraise checks, and Appraise is a class skill for them. They gain a +2 racial bonus on Sleight of Hand checks when attempting to take items from other creatures. They can also use their tails to attempt these Sleight of Hand checks. This racial trait replaces slapping tail.
+**Greed**: Most wyvarans crave treasure, but for some, amassing wealth is a compulsion. Wyvarans with this trait gain a +2 racial bonus on [Appraise](../../rules/skills/appraise.md) checks, and Appraise is a class skill for them. They gain a +2 racial bonus on [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks when attempting to take items from other creatures. They can also use their tails to attempt these Sleight of Hand checks. This racial trait replaces slapping tail.
 
-**Memories of the Forgotten**: Generations of wyvaran elders pass down tales that predate written history. While many ignore these or dismiss them as simple stories, others revere the lore of their elders. These wyvarans consider it their sacred duty to study the lost histories and pass them down to others. They gain a +2 racial bonus on two Knowledge skills of their choice. Those Knowledge skills are class skills for them. This racial trait replaces flight.
+**Memories of the Forgotten**: Generations of wyvaran elders pass down tales that predate written history. While many ignore these or dismiss them as simple stories, others revere the lore of their elders. These wyvarans consider it their sacred duty to study the lost histories and pass them down to others. They gain a +2 racial bonus on two [Knowledge](../../rules/skills/knowledge.md) skills of their choice. Those Knowledge skills are class skills for them. This racial trait replaces flight.
 
-**Neglected Heritage**: Because of their dwindling population and cultural stagnation, some wyvarans have given up on their people, favoring a life among other races instead. These wyvarans lose Draconic as a starting language, but gain a +1 racial bonus on Diplomacy checks when making requests and gathering information. They can't take Draconic as a bonus language, but can learn it normally with Linguistics. This ability alters the wyvaran's languages.
+**Neglected Heritage**: Because of their dwindling population and cultural stagnation, some wyvarans have given up on their people, favoring a life among other races instead. These wyvarans lose Draconic as a starting language, but gain a +1 racial bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks when making requests and gathering information. They can't take Draconic as a bonus language, but can learn it normally with [Linguistics](../../rules/skills/linguistics.md). This ability alters the wyvaran's languages.
 
-**Vestigial Wings**: When resources are particularly scarce, some young wyvarans develop smaller-than-average wings incapable of flight. However, these wings are perfectly suited for other acrobatic maneuvers. These wyvarans gain a +2 racial bonus on Acrobatics and Climb checks, and one of these is a class skill for them. In addition, they can ignore the first 20 feet of falling damage when they make a successful Acrobatics check. This racial trait replaces flight.
+**Vestigial Wings**: When resources are particularly scarce, some young wyvarans develop smaller-than-average wings incapable of flight. However, these wings are perfectly suited for other acrobatic maneuvers. These wyvarans gain a +2 racial bonus on [Acrobatics](../../rules/skills/acrobatics.md) and [Climb](../../rules/skills/climb.md) checks, and one of these is a class skill for them. In addition, they can ignore the first 20 feet of falling damage when they make a successful Acrobatics check. This racial trait replaces flight.
 
 ## Favored Class Options
 
@@ -26,7 +26,7 @@ The following options are available to all wyvarans who have the listed favored 
 
 **Paladin**: Add 1/2 to the paladin's level when determining the effect of smite evil against evil-aligned dragons.
 
-**Rogue**: Add a +1/2 bonus to Stealth and Sleight of Hand checks to steal or hide objects.
+**Rogue**: Add a +1/2 bonus to [Stealth](../../rules/skills/stealth.md) and Sleight of Hand checks to steal or hide objects.
 
 **Sorcerer**: Add a +1/2 bonus to the damage of spells or spell-like abilities that deal damage of the same energy type as the sorcerer's draconic bloodline breath weapon.
 

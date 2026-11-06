@@ -6,4 +6,4 @@ Blind mesmerists have learned to navigate the world without relying on sight and
 
 **Prerequisites**: Hypnotic stare class feature.
 
-**Benefit**: You can use your hypnotic stare ability without relying on sight and do not have to attempt concentration checks to use this ability while blinded.
+**Benefit**: You can use your hypnotic stare ability without relying on sight and do not have to attempt concentration checks to use this ability while [blinded](../appendices/conditions.md#blinded).

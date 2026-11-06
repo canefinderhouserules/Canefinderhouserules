@@ -24,17 +24,17 @@ When a specific ratfolk warren grows overcrowded and the surrounding environment
 
 **Ratfolk**: Ratfolk are humanoids with the ratfolk subtype.
 
-**Small**: Ratfolk are Small and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on combat maneuver checks and to their CMD, and a +4 size bonus on Stealth checks.
+**Small**: Ratfolk are Small and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on combat maneuver checks and to their CMD, and a +4 size bonus on [Stealth](../../rules/skills/stealth.md) checks.
 
 **Slow Speed**: Ratfolk have a base speed of 20 feet.
 
 **Darkvision**: Ratfolk can see in the dark up to 60 feet.
 
-**Rodent Empathy**: Ratfolk gain a +4 racial bonus on Handle Animal checks made to influence rodents.
+**Rodent Empathy**: Ratfolk gain a +4 racial bonus on [Handle Animal](../../rules/skills/handle-animal.md) checks made to influence rodents.
 
 **Swarming**: Ratfolk are used to living and fighting communally, and are adept at swarming foes for their own gain and their foes’ detriment. Up to two ratfolk can share the same square at the same time. If two ratfolk in the same square attack the same foe, they are considered to be flanking that foe as if they were in two opposite squares.
 
-**Tinker**: Ratfolk gain a +2 racial bonus on Craft (alchemy), Perception, and Use Magic Device checks.
+**Tinker**: Ratfolk gain a +2 racial bonus on [Craft](../../rules/skills/craft.md) (alchemy), [Perception](../../rules/skills/perception.md), and [Use Magic Device](../../rules/skills/use-magic-device.md) checks.
 
 **Languages**: Ratfolk begin play speaking Common. Ratfolk with high Intelligence scores can choose from the following: Aklo, Draconic, Dwarven, Gnoll, Gnome, Goblin, Halfling, Orc, and Undercommon.
 
@@ -46,7 +46,7 @@ The following racial traits may be selected instead of existing ratfolk racial t
 
 **Scent**: Some ratfolk have much more strongly developed senses of smell, instead of keen eyes and ears. These ratfolk have the scent ability, but take a –2 penalty on all Perception checks based primarily on sight or hearing. This racial trait replaces tinker.
 
-**Skulk**: Some ratfolk can blend easily into their environments, and move with surprising grace. Ratfolk gain a +2 racial bonus on Stealth checks, and take only a –5 penalty on Stealth checks made to hide from creatures they have distracted with a Bluff check (rather than the normal –10 penalty). This racial trait replaces tinker.
+**Skulk**: Some ratfolk can blend easily into their environments, and move with surprising grace. Ratfolk gain a +2 racial bonus on Stealth checks, and take only a –5 penalty on Stealth checks made to hide from creatures they have distracted with a [Bluff](../../rules/skills/bluff.md) check (rather than the normal –10 penalty). This racial trait replaces tinker.
 
 **Unnatural**: Some ratfolk unnerve normal animals, and train to defend themselves against the inevitable attacks from such creatures. These ratfolk take a –4 penalty on all Charisma-based skill checks to affect creatures of the animal type, and receive a +2 dodge bonus to AC against animals. An animal’s starting attitude toward ratfolk is one step worse than normal. This racial trait replaces rodent empathy.
 
@@ -76,7 +76,7 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 **Ranger**: Add +1 to an animal companion’s CMD when adjacent to the ranger. If the ranger ever replaces his animal companion, the new animal companion gains this bonus.
 
-**Rogue**: Add a +1/2 bonus on Escape Artist checks.
+**Rogue**: Add a +1/2 bonus on [Escape Artist](../../rules/skills/escape-artist.md) checks.
 
 **Summoner**: Add a +1 bonus on saving throws against poison made by the summoner’s eidolon.
 
@@ -94,7 +94,7 @@ Ratfolk also have the following options.
 
 **Hunter**: Add 1 skill rank to the hunter's badger, dire rat, or riding rat animal companion.
 
-**Inquisitor**: Add 1/2 to Sense Motive checks and Knowledge (dungeoneering) checks to identify creatures.
+**Inquisitor**: Add 1/2 to [Sense Motive](../../rules/skills/sense-motive.md) checks and [Knowledge](../../rules/skills/knowledge.md) (dungeoneering) checks to identify creatures.
 
 **Investigator**: Add 1 to the bonus provided to a single skill (maximum +2) by inspiration. This skill must be one to which the investigator can already apply inspiration. The investigator can select a different skill at each level.
 
@@ -175,5 +175,5 @@ Ratfolk have access to the following equipment.
 
 ### Market Dweller
 
-Some ratfolk, especially those of great underground markets, are practiced at taking advantage of foes. They gain a +2 racial bonus on Bluff, Sense Motive, and Sleight of Hand checks. This racial trait replaces tinker.
+Some ratfolk, especially those of great underground markets, are practiced at taking advantage of foes. They gain a +2 racial bonus on Bluff, Sense Motive, and [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks. This racial trait replaces tinker.
 

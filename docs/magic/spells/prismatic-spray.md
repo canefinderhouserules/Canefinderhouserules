@@ -8,7 +8,7 @@
 **Duration** instantaneous  
 **Saving Throw** see text; **Spell Resistance** yes
 
-This spell causes seven shimmering, multicolored beams of light to spray from your hand. Each beam has a different power. Creatures in the area of the spell with 8 HD or less are automatically blinded for 2d4 rounds. Every creature in the area is randomly struck by one or more beams, which have additional effects.
+This spell causes seven shimmering, multicolored beams of light to spray from your hand. Each beam has a different power. Creatures in the area of the spell with 8 HD or less are automatically [blinded](../../rules/appendices/conditions.md#blinded) for 2d4 rounds. Every creature in the area is randomly struck by one or more beams, which have additional effects.
 
 | 1d8 | Color of Beam | Effect of Beam |
 |---|---|---|

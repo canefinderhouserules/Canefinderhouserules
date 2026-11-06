@@ -4,4 +4,4 @@ You climb all over creatures you’re grappling like kudzu, blocking their visio
 
 **Prerequisites**: Dex 13, [Improved Grapple](improved-grapple.md), [Improved Unarmed Strike](improved-unarmed-strike.md), [Greater Grapple](greater-grapple.md), base attack bonus +6, vine leshy.
 
-**Benefit**: You add an option to blind the grappled creature for 1 round to the list of actions you can take when you succeed at a check to maintain a grapple.
+**Benefit**: You add an option to blind the [grappled](../appendices/conditions.md#grappled) creature for 1 round to the list of actions you can take when you succeed at a check to maintain a grapple.

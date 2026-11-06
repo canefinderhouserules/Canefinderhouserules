@@ -1,6 +1,6 @@
 # Reviving Channel
 
-You can target an unconscious ally to gain additional benefit from your channeled energy.
+You can target an [unconscious](../appendices/conditions.md#unconscious) ally to gain additional benefit from your channeled energy.
 
 **Prerequisites**: Channel energy 3d6.
 

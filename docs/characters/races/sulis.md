@@ -14,7 +14,7 @@ Sulis, or suli-jann, are the descendents of mortals and jann. They manifest thei
 
 **Low-Light Vision**: Sulis can see twice as far as humans in dim light.
 
-**Negotiator**: Sulis are keen negotiators, and gain a +2 racial bonus on Diplomacy and Sense Motive checks.
+**Negotiator**: Sulis are keen negotiators, and gain a +2 racial bonus on [Diplomacy](../../rules/skills/diplomacy.md) and [Sense Motive](../../rules/skills/sense-motive.md) checks.
 
 **Elemental Assault (Su)**: Once per day as a swift action, a suli can shroud her arms in acid, cold, electricity, or fire. This lasts for one round per level, and can be dismissed as a free action. Unarmed strikes with her arms or hands (or attacks with weapons held in those hands) deal +1d6 points of damage of the appropriate energy type.
 
@@ -58,7 +58,7 @@ These archetypes are typically only taken by sulis, but members of other races, 
 
 Sulis have access to the following equipment.
 
-**Elemental Flux**: This flask of alchemical powder reacts to the elemental power in suli blood. Adding at least 1 hit point worth of suli blood to it creates an alchemical splash weapon. The splash weapon works like a flask of acid, except the damage is a random energy type (acid, cold, electricity, or fire). A DC 10 Craft (alchemy) check identifies what energy type the activated flask has. The activated flux retains its power for 24 hours before becoming inert material. The Craft (alchemy) DC to create this is 20.
+**Elemental Flux**: This flask of alchemical powder reacts to the elemental power in suli blood. Adding at least 1 hit point worth of suli blood to it creates an alchemical splash weapon. The splash weapon works like a flask of acid, except the damage is a random energy type (acid, cold, electricity, or fire). A DC 10 [Craft](../../rules/skills/craft.md) (alchemy) check identifies what energy type the activated flask has. The activated flux retains its power for 24 hours before becoming inert material. The Craft (alchemy) DC to create this is 20.
 
 | Item | Cost | Weight | Craft DC |
 |---|---|---|---|

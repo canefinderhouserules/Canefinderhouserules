@@ -24,6 +24,6 @@ By studying other planes, you've learned to take on aspects of outsiders as well
 
 **Lawful**: You can automatically succeed at any saving throw against a polymorph spell or effect. Only lawful characters can use this planar focus.
 
-**Shadow**: You gain a +5 bonus on Stealth and Sleight of Hand checks.
+**Shadow**: You gain a +5 bonus on [Stealth](../skills/stealth.md) and [Sleight of Hand](../skills/sleight-of-hand.md) checks.
 
 **Water**: You gain a 30-foot swim speed and can breathe water as well as air.

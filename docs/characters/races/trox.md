@@ -10,7 +10,7 @@ Trox were once members of a much smaller and more docile race of subterranean bu
 
 **Normal Speed**: Trox have a base speed of 30 feet.
 
-**Large**: Trox are Large and take a –1 size penalty to their AC, take a –4 size penalty on Stealth checks, and gain a +1 size bonus on combat maneuver checks and to combat maneuver defense.
+**Large**: Trox are Large and take a –1 size penalty to their AC, take a –4 size penalty on [Stealth](../../rules/skills/stealth.md) checks, and gain a +1 size bonus on combat maneuver checks and to combat maneuver defense.
 
 **Darkvision**: Trox can see in the dark up to 60 feet.
 

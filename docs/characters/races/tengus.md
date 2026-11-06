@@ -32,9 +32,9 @@ Most tengu communities tend to follow a tribal structure. Tribal rules remain lo
 
 **Senses**: Tengus have low-light vision.
 
-**Sneaky**: Tengus gain a +2 racial bonus on Perception and Stealth checks.
+**Sneaky**: Tengus gain a +2 racial bonus on [Perception](../../rules/skills/perception.md) and [Stealth](../../rules/skills/stealth.md) checks.
 
-**Gifted Linguist**: Tengus gain a +4 racial bonus on Linguistics checks, and learn 2 languages each time they gain a rank in Linguistics rather than 1 language.
+**Gifted Linguist**: Tengus gain a +4 racial bonus on [Linguistics](../../rules/skills/linguistics.md) checks, and learn 2 languages each time they gain a rank in Linguistics rather than 1 language.
 
 **Swordtrained**: Tengus are trained from birth in swordplay, and as a result are automatically proficient with swordlike weapons (including [bastard swords](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons), [daggers](../../equipment/weapons-simple.md#simple-light-melee-weapons), [elven curve blades](../../equipment/weapons-exotic.md#exotic-two-handed-melee-weapons), [falchions](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), [greatswords](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), [kukris](../../equipment/weapons-martial.md#martial-light-melee-weapons), [longswords](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [punching daggers](../../equipment/weapons-simple.md#simple-light-melee-weapons), [rapiers](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [scimitars](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [short swords](../../equipment/weapons-martial.md#martial-light-melee-weapons), and [two-bladed swords](../../equipment/weapons-exotic.md#exotic-two-handed-melee-weapons)).
 
@@ -52,7 +52,7 @@ The following racial traits may be selected instead of existing tengu racial tra
 
 **Exotic Weapon Training**: Instead of swords, some tengus are trained in exotic weaponry. Such tengus choose a number of eastern weapons equal to 3 + their Intelligence bonus, and gain proficiency with these weapons. This racial trait replaces swordtrained.
 
-**Glide**: Some tengus can use their feathered arms and legs to glide. Tengus with this racial trait can make a DC 15 Fly check to fall safely from any height without taking falling damage, as if using [*feather fall*](../../magic/spells/feather-fall.md). When falling safely, a tengu may make an additional DC 15 Fly check to glide, moving 5 feet laterally for every 20 feet he falls. This racial trait replaces gifted linguist.
+**Glide**: Some tengus can use their feathered arms and legs to glide. Tengus with this racial trait can make a DC 15 [Fly](../../rules/skills/fly.md) check to fall safely from any height without taking falling damage, as if using [*feather fall*](../../magic/spells/feather-fall.md). When falling safely, a tengu may make an additional DC 15 Fly check to glide, moving 5 feet laterally for every 20 feet he falls. This racial trait replaces gifted linguist.
 
 ## Favored Class Options
 
@@ -76,11 +76,11 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 Tengus also have the following options.
 
-**Bard**: Gain a +1/3 bonus on Perform checks attempted as part of countersong and distraction bardic performances.
+**Bard**: Gain a +1/3 bonus on [Perform](../../rules/skills/perform.md) checks attempted as part of countersong and distraction bardic performances.
 
 **Brawler**: Gain a +1/2 insight bonus on attack rolls made with the beak as a secondary natural attack (to a maximum of +3); the brawler must have a beak natural attack to select this option.
 
-**Cleric**: Gain a +1/2 bonus on Diplomacy checks to gather information and on Knowledge (local and religion) checks to know local religious practices and superstitions.
+**Cleric**: Gain a +1/2 bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks to gather information and on [Knowledge](../../rules/skills/knowledge.md) (local and religion) checks to know local religious practices and superstitions.
 
 **Hunter**: Add 1 skill rank to the hunter's animal companion. If the hunter ever replaces her animal companion, the new companion gains these bonus skill ranks.
 
@@ -90,11 +90,11 @@ Tengus also have the following options.
 
 **Mesmerist**: Add 1/4 to the AC bonus provided by the meek facade mesmerist trick.
 
-**Slayer**: Gain a +1/4 bonus on Disguise, Knowledge (local), and Perception checks.
+**Slayer**: Gain a +1/4 bonus on [Disguise](../../rules/skills/disguise.md), Knowledge (local), and Perception checks.
 
 **Spiritualist**: The spiritualist's phantom gains 1/6 of a bonus feat. The phantom must meet all prerequisites of the selected feat.
 
-**Swashbuckler**: Add 1/2 to the swashbuckler's Acrobatics, Climb, Escape Artist, Fly, Ride, and Swim checks when using the derring-do deed.
+**Swashbuckler**: Add 1/2 to the swashbuckler's [Acrobatics](../../rules/skills/acrobatics.md), [Climb](../../rules/skills/climb.md), [Escape Artist](../../rules/skills/escape-artist.md), Fly, [Ride](../../rules/skills/ride.md), and [Swim](../../rules/skills/swim.md) checks when using the derring-do deed.
 
 ## Archetypes and Class Options
 
@@ -110,7 +110,7 @@ These archetypes are typically only taken by tengus, but members of other races,
 
 Tengus have access to the following equipment.
 
-**Signal Kite Kit**: Though wingless, tengus have long cast their thoughts toward the sky and flight. Built from paper glued to bamboo frames, their kites are painted with various colors and pictures. In addition to flying kites as a leisure activity, tengus also fly kites of various shades and patterns to send signal messages. Tengus have developed an extensive code of signals and can use their kites to display complex messages visible at great distances. A signal kite kit includes six small colored kites that can be hooked together in different patterns to facilitate complex messages. The kit also includes a spool and 300 feet of twine. Sending or interpreting a signal kite’s message functions as described in the Bluff skill, but the sender and anyone trying to understand the message must also know Tengu.
+**Signal Kite Kit**: Though wingless, tengus have long cast their thoughts toward the sky and flight. Built from paper glued to bamboo frames, their kites are painted with various colors and pictures. In addition to flying kites as a leisure activity, tengus also fly kites of various shades and patterns to send signal messages. Tengus have developed an extensive code of signals and can use their kites to display complex messages visible at great distances. A signal kite kit includes six small colored kites that can be hooked together in different patterns to facilitate complex messages. The kit also includes a spool and 300 feet of twine. Sending or interpreting a signal kite’s message functions as described in the [Bluff](../../rules/skills/bluff.md) skill, but the sender and anyone trying to understand the message must also know Tengu.
 
 **Terror Kite**: This small kite is usually painted with a fierce face and bright colors and is edged with serrated wooden blades. Its twine is strengthened by soaking it in glue and sometimes with crushed glass to give it a slight cutting edge. The kite has hardness 5 and 3 hit points. Participants in a kite battle make alternating sunder combat maneuvers against each other’s kites; each successful maneuver allows a competitor to roll 1d6 points of damage against the opponent’s kite. When a kite reaches 0 hit points, it is broken or its string is cut, and its player loses the match. In some matches, points are awarded for touching the kite’s top to the opponent’s string, with the winner being the first to reach a set point total. Those interested in kite-fighting may select the terror kite as a weapon for the purpose of feats such as Weapon Focus and [Weapon Specialization](../../rules/feats/weapon-specialization.md), and apply these bonuses on kite damage rolls and on their sunder combat maneuver attempts made while using terror kites.
 

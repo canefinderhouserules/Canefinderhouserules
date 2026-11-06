@@ -8,4 +8,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Fortitude negates; see text; **Spell Resistance** yes
 
-You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be sickened for 1 minute. Creatures that are immune to disease are immune to this sickened effect.
+You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be [sickened](../../rules/appendices/conditions.md#sickened) for 1 minute. Creatures that are immune to disease are immune to this sickened effect.

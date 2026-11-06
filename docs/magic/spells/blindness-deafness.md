@@ -8,4 +8,4 @@
 **Duration** permanent (D)  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-You call upon the powers of unlife to render the subject blinded or deafened, as you choose.
+You call upon the powers of unlife to render the subject [blinded](../../rules/appendices/conditions.md#blinded) or [deafened](../../rules/appendices/conditions.md#deafened), as you choose.

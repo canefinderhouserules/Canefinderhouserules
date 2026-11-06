@@ -57,7 +57,7 @@ A barbarian’s base speed is faster than the norm for her race by 10 feet. This
 
 A barbarian can call upon inner reserves of strength and ferocity, granting her additional combat prowess. At 1st level, a barbarian can rage for a number of rounds per day equal to 4 + her Constitution modifier. For each level after 1st she possesses, the barbarian can rage for 2 additional rounds per day. Temporary increases to Constitution, such as that gained from bear’s endurance, do not increase the total number of rounds that a barbarian can rage per day. A barbarian can enter a rage as a free action. The total number of rounds of rage per day is renewed after resting for 8 hours, although these hours need not be consecutive.
 
-While in a rage, a barbarian gains a +2 bonus on melee attack rolls, melee damage rolls, thrown weapon damage rolls, and Will saving throws. In addition, she takes a –2 penalty to Armor Class. She also gains 2 temporary hit points per Hit Die. These temporary hit points are lost first when a character takes damage, disappear when the rage ends, and are not replenished if the barbarian enters a rage again within 1 minute of her previous rage. While in a rage, a barbarian cannot use any Charisma-, Dexterity-, or Intelligence-based skill (except Acrobatics, Fly, Intimidate, and Ride) or any ability that requires patience or concentration (such as spellcasting). A barbarian can end her rage as a free action, and is fatigued for 1 minute after a rage ends. A barbarian can’t enter a new rage while fatigued or exhausted, but can otherwise enter a rage multiple times per day. If a barbarian falls unconscious, her rage immediately ends.
+While in a rage, a barbarian gains a +2 bonus on melee attack rolls, melee damage rolls, thrown weapon damage rolls, and Will saving throws. In addition, she takes a –2 penalty to Armor Class. She also gains 2 temporary hit points per Hit Die. These temporary hit points are lost first when a character takes damage, disappear when the rage ends, and are not replenished if the barbarian enters a rage again within 1 minute of her previous rage. While in a rage, a barbarian cannot use any Charisma-, Dexterity-, or Intelligence-based skill (except [Acrobatics](../../rules/skills/acrobatics.md), [Fly](../../rules/skills/fly.md), [Intimidate](../../rules/skills/intimidate.md), and [Ride](../../rules/skills/ride.md)) or any ability that requires patience or concentration (such as spellcasting). A barbarian can end her rage as a free action, and is [fatigued](../../rules/appendices/conditions.md#fatigued) for 1 minute after a rage ends. A barbarian can’t enter a new rage while fatigued or [exhausted](../../rules/appendices/conditions.md#exhausted), but can otherwise enter a rage multiple times per day. If a barbarian falls [unconscious](../../rules/appendices/conditions.md#unconscious), her rage immediately ends.
 
 ### Rage Powers (Ex)
 
@@ -65,11 +65,11 @@ As a barbarian gains levels, she learns to use her rage in new ways. At 2nd leve
 
 ### Uncanny Dodge (Ex)
 
-At 2nd level, a barbarian gains the ability to react to danger before her senses would normally allow her to do so. She cannot be caught flat-footed, nor does she lose her Dexterity bonus to AC if immobilized. A barbarian with this ability can still lose her Dexterity bonus to AC if an opponent successfully uses the feint action against her. If a barbarian already has uncanny dodge from a different class, she automatically gains improved uncanny dodge (see below) instead.
+At 2nd level, a barbarian gains the ability to react to danger before her senses would normally allow her to do so. She cannot be caught [flat-footed](../../rules/appendices/conditions.md#flat-footed), nor does she lose her Dexterity bonus to AC if immobilized. A barbarian with this ability can still lose her Dexterity bonus to AC if an opponent successfully uses the feint action against her. If a barbarian already has uncanny dodge from a different class, she automatically gains improved uncanny dodge (see below) instead.
 
 ### Danger Sense (Ex)
 
-At 3rd level, a barbarian gains a +1 bonus on Reflex saves to avoid traps and a +1 dodge bonus to AC against attacks by traps. In addition, she gains a +1 bonus on Perception checks to avoid being surprised by a foe. These bonuses increase by 1 every 3 levels thereafter (to a maximum of +6 at 18th level). This ability counts as trap sense for any feat or class prerequisite, and can be replaced by any archetype class feature that replaces trap sense. The bonuses gained from this ability stack with those gained from trap sense (if the barbarian has trap sense from another class).
+At 3rd level, a barbarian gains a +1 bonus on Reflex saves to avoid traps and a +1 dodge bonus to AC against attacks by traps. In addition, she gains a +1 bonus on [Perception](../../rules/skills/perception.md) checks to avoid being surprised by a foe. These bonuses increase by 1 every 3 levels thereafter (to a maximum of +6 at 18th level). This ability counts as trap sense for any feat or class prerequisite, and can be replaced by any archetype class feature that replaces trap sense. The bonuses gained from this ability stack with those gained from trap sense (if the barbarian has trap sense from another class).
 
 ### Improved Uncanny Dodge (Ex)
 
@@ -123,11 +123,11 @@ At 20th level, a barbarian’s bonus on melee attack rolls, melee damage rolls, 
 
 **Energy Resistance (Ex)**: The barbarian gains resistance to one energy type (acid, cold, electricity, fire, or sonic) equal to 1/2 her barbarian level (minimum 1). At 8th level, she gains limited immunity to the same type of energy, as protection from energy. She can absorb 2 points of damage per level, and she applies her energy resistance first. The energy type is chosen when this rage power is selected, and it can’t be changed. This rage power can be selected more than once; each time, it applies to a different energy type.
 
-**Fearless Rage (Ex)**: The barbarian is immune to the shaken and frightened conditions (but not the panicked condition). A barbarian must be at least 12th level to select this rage power.
+**Fearless Rage (Ex)**: The barbarian is immune to the [shaken](../../rules/appendices/conditions.md#shaken) and [frightened](../../rules/appendices/conditions.md#frightened) conditions (but not the [panicked](../../rules/appendices/conditions.md#panicked) condition). A barbarian must be at least 12th level to select this rage power.
 
 **Flesh Wound (Ex)**: Once per day, the barbarian can avoid serious harm from an attack. She attempts a Fortitude save with a DC equal to the damage that would be dealt by the attack. If she succeeds, she takes no damage from the attack. If she fails, she takes half damage from the attack and the damage is nonlethal. The barbarian must elect to use this ability after the attack roll is made, but before the damage is rolled. A barbarian must be at least 10th level to select this rage power.
 
-**Ground Breaker (Ex)**: The barbarian can attack the floor around her as a full-round action. This attack automatically hits and deals damage normally. If the barbarian deals more damage than the floor’s hardness, the space she occupies and all of the squares adjacent to her become difficult terrain. Creatures in those squares, except the barbarian, must succeed at DC 15 Reflex saves or be knocked prone. A barbarian must be at least 6th level to select this rage power.
+**Ground Breaker (Ex)**: The barbarian can attack the floor around her as a full-round action. This attack automatically hits and deals damage normally. If the barbarian deals more damage than the floor’s hardness, the space she occupies and all of the squares adjacent to her become difficult terrain. Creatures in those squares, except the barbarian, must succeed at DC 15 Reflex saves or be knocked [prone](../../rules/appendices/conditions.md#prone). A barbarian must be at least 6th level to select this rage power.
 
 **Ground Breaker, Greater (Ex)**: When using the ground breaker rage power, the barbarian can extend the radius of the effect by 5 feet. This rage power can be selected up to three times, and its effects stack. A barbarian must be at least 8th level and have the ground breaker rage power to select this rage power.
 
@@ -137,7 +137,7 @@ At 20th level, a barbarian’s bonus on melee attack rolls, melee damage rolls, 
 
 **Inspire Ferocity (Ex)**: While in the reckless stance, the barbarian imparts the stance’s bonus and penalty to all willing allies within 30 feet of her. A barbarian must have the reckless stance rage power to select this rage power.
 
-**Internal Fortitude (Ex)**: The barbarian is immune to the sickened and nauseated conditions. A barbarian must be at least 8th level to select this rage power.
+**Internal Fortitude (Ex)**: The barbarian is immune to the [sickened](../../rules/appendices/conditions.md#sickened) and [nauseated](../../rules/appendices/conditions.md#nauseated) conditions. A barbarian must be at least 8th level to select this rage power.
 
 **Intimidating Glare (Ex)**: The barbarian adds her Strength modifier in place of her Charisma modifier on all Intimidate checks to demoralize a foe. She can attempt an Intimidate check to demoralize an adjacent foe as a move action instead of a standard action. If the barbarian successfully demoralizes an adjacent foe, that foe is shaken for the remainder of the barbarian’s current rage.
 
@@ -163,11 +163,11 @@ At 20th level, a barbarian’s bonus on melee attack rolls, melee damage rolls, 
 
 **Quick Reflexes (Ex)**: The barbarian can make one additional attack of opportunity per round.
 
-**Raging Climber (Ex)**: The barbarian gains a climb speed equal to 1/2 her base land speed, taking into account her fast movement class feature. She can’t use this climb speed to climb any surface with a DC higher than 20. She also gains a +8 enhancement bonus on Climb checks.
+**Raging Climber (Ex)**: The barbarian gains a climb speed equal to 1/2 her base land speed, taking into account her fast movement class feature. She can’t use this climb speed to climb any surface with a DC higher than 20. She also gains a +8 enhancement bonus on [Climb](../../rules/skills/climb.md) checks.
 
 **Raging Leaper (Ex)**: The barbarian is always considered to have a running start when attempting an Acrobatics check to jump. In addition, she gains a +8 bonus on Acrobatics checks to jump. Finally, if the barbarian falls, she halves the total distance fallen for the purposes of determining damage taken from the fall.
 
-**Raging Swimmer (Ex)**: The barbarian gains a swim speed equal to 1/2 her base land speed (taking into account her fast movement class feature). She also gains a +8 enhancement bonus on Swim checks.
+**Raging Swimmer (Ex)**: The barbarian gains a swim speed equal to 1/2 her base land speed (taking into account her fast movement class feature). She also gains a +8 enhancement bonus on [Swim](../../rules/skills/swim.md) checks.
 
 **Reckless Stance (Ex)**: The barbarian can attack with abandon at the expense of her defense. She gains a +1 bonus on attack rolls, but takes a –1 penalty to AC. This bonus and penalty increase by 1 at 4th level and every 4 levels thereafter. This is a stance rage power.
 

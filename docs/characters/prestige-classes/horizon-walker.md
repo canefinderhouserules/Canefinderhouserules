@@ -47,7 +47,7 @@ The following are class features of the horizon walker prestige class.
 
 **Favored Terrain**: At 1st level, a horizon walker may select a favored terrain from the ranger Favored Terrains table. This works exactly like the [ranger favored terrain](../classes/ranger.md#favored-terrain-ex) ability. The horizon walker gains an additional favored terrain at 2nd, 4th, 5th, 7th, 8th and 10th level, and he can increase the bonus from an existing favored terrain as described in the ranger ability. If the horizon walker has abilities from other classes that only work in a favored terrain (such as a ranger’s camouflage and hide in plain sight abilities), those abilities work in favored terrains selected as a horizon walker.
 
-**Terrain Mastery**: At 2nd level, a horizon walker selects a favored terrain to master. When within this terrain the horizon walker may, as a move action, grant a +2 bonus on Climb, Stealth, Perception and Survival checks made by all allies within 30 feet who can see and hear him. This bonus lasts for a number of rounds equal to the horizon walker’s Wisdom modifier (minimum 1). The character masters one additional terrain at 4th, 6th, and 8th levels.
+**Terrain Mastery**: At 2nd level, a horizon walker selects a favored terrain to master. When within this terrain the horizon walker may, as a move action, grant a +2 bonus on [Climb](../../rules/skills/climb.md), [Stealth](../../rules/skills/stealth.md), [Perception](../../rules/skills/perception.md) and [Survival](../../rules/skills/survival.md) checks made by all allies within 30 feet who can see and hear him. This bonus lasts for a number of rounds equal to the horizon walker’s Wisdom modifier (minimum 1). The character masters one additional terrain at 4th, 6th, and 8th levels.
 
 Mastery of each terrain has additional benefits, outlined below; these benefits apply to the horizon walker at all times whether or not he is in the relevant terrain.
 
@@ -55,25 +55,25 @@ Mastery of each terrain has additional benefits, outlined below; these benefits 
 
 **Cold**: The horizon walker gains cold resistance 10.
 
-**Desert**: The horizon walker gains immunity to exhaustion; anything that would cause him to become exhausted makes him fatigued instead.
+**Desert**: The horizon walker gains immunity to exhaustion; anything that would cause him to become [exhausted](../../rules/appendices/conditions.md#exhausted) makes him [fatigued](../../rules/appendices/conditions.md#fatigued) instead.
 
 **Ethereal Plane**: The horizon walker ignores the 20% concealment miss chance from fog and mist, and treats total concealment from these sources as concealment.
 
 **Forest**: The horizon walker gains a +4 competence bonus on Stealth checks.
 
-**Jungle**: The horizon walker gains a +4 competence bonus on Escape Artist checks and increases his CMD against grapple maneuvers by +4.
+**Jungle**: The horizon walker gains a +4 competence bonus on [Escape Artist](../../rules/skills/escape-artist.md) checks and increases his CMD against grapple maneuvers by +4.
 
 **Mountain**: The horizon walker gains a +4 competence bonus on Climb checks and does not lose his Dexterity modifier to AC while climbing.
 
 **Plains**: The horizon walker’s movement is not reduced by wearing medium armor or carrying a medium load.
 
-**Plane of Air**: The horizon walker gains a +4 competence bonus on Fly checks and +1 competence bonus on all attack and damage rolls against flying creatures. He gains the ability to breathe air if he cannot already do so.
+**Plane of Air**: The horizon walker gains a +4 competence bonus on [Fly](../../rules/skills/fly.md) checks and +1 competence bonus on all attack and damage rolls against flying creatures. He gains the ability to breathe air if he cannot already do so.
 
 **Plane of Earth**: The horizon walker gains DR 1/ adamantine.
 
 **Plane of Fire**: The horizon walker gains fire resistance 10.
 
-**Plane of Water**: The horizon walker gains a +4 competence bonus on Swim checks and a +1 competence bonus on all attack and damage rolls against swimming creatures. He gains the ability to breathe water if he cannot already do so.
+**Plane of Water**: The horizon walker gains a +4 competence bonus on [Swim](../../rules/skills/swim.md) checks and a +1 competence bonus on all attack and damage rolls against swimming creatures. He gains the ability to breathe water if he cannot already do so.
 
 **Plane, aligned**: If the horizon walker selects a plane with an alignment trait, he can choose to detect as that alignment (fooling all forms of magic divination) as an immediate action; this benefit lasts until he dismisses it (a free action).
 
@@ -81,7 +81,7 @@ Mastery of each terrain has additional benefits, outlined below; these benefits 
 
 **Underground**: The horizon walker gains Blind-Fight as a bonus feat.
 
-**Urban**: The horizon walker gains a +4 competence bonus on Diplomacy checks.
+**Urban**: The horizon walker gains a +4 competence bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks.
 
 **Water**: The horizon walker gains a +4 competence bonus on Swim checks and +1 competence bonus on all attack and damage rolls against swimming creatures.
 

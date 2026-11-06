@@ -8,4 +8,4 @@
 **Duration** permanent  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-You lay bare not only the mind of a target, but the target’s history as well. The target takes a –2 penalty on saving throws against divinations, and Diplomacy checks to gather information about the target gain a bonus equal to half your caster level (maximum +10).
+You lay bare not only the mind of a target, but the target’s history as well. The target takes a –2 penalty on saving throws against divinations, and [Diplomacy](../../rules/skills/diplomacy.md) checks to gather information about the target gain a bonus equal to half your caster level (maximum +10).

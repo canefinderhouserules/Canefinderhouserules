@@ -8,4 +8,4 @@
 **Duration** 1 day/level (D)  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-The target of crafter’s curse takes a –5 penalty on all Craft skill checks while the spell lasts.
+The target of crafter’s curse takes a –5 penalty on all [Craft](../../rules/skills/craft.md) skill checks while the spell lasts.

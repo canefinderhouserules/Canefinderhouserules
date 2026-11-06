@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-While prone, you use the ground to stabilize your aim while using a crossbow or firearm.
+While [prone](../appendices/conditions.md#prone), you use the ground to stabilize your aim while using a crossbow or firearm.
 
 **Prerequisites**: Base attack bonus +1.
 

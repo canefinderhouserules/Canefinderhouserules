@@ -8,4 +8,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-You fill a creature's mind with the realization of its earthly weight and responsibilities. Disheartened and wearied by these thoughts, the creature gains heavy encumbrance and is unable to fly (if already flying, it must land as soon as possible). If the creature is three or more size categories larger than you, it's also staggered.
+You fill a creature's mind with the realization of its earthly weight and responsibilities. Disheartened and wearied by these thoughts, the creature gains heavy encumbrance and is unable to fly (if already flying, it must land as soon as possible). If the creature is three or more size categories larger than you, it's also [staggered](../../rules/appendices/conditions.md#staggered).

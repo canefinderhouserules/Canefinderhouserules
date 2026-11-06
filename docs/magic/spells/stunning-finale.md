@@ -8,4 +8,4 @@
 **Duration** 1 round  
 **Saving Throw** Fortitude partial; see text; **Spell Resistance** yes
 
-You must have a bardic performance in effect to cast this spell. With a flourish, you immediately end your bardic performance, assaulting the senses of the targets with your finale. Each target is stunned for 1 round. On a successful saving throw, a target is staggered for 1 round.
+You must have a bardic performance in effect to cast this spell. With a flourish, you immediately end your bardic performance, assaulting the senses of the targets with your finale. Each target is [stunned](../../rules/appendices/conditions.md#stunned) for 1 round. On a successful saving throw, a target is [staggered](../../rules/appendices/conditions.md#staggered) for 1 round.

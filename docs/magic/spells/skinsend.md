@@ -7,7 +7,7 @@
 **Target** you  
 **Duration** 1 hour/level (D)
 
-You cause your own skin to peel off your body and animate as a magical creature you control. You may project your consciousness to your animated skin or return it to your actual body as a standard action. When your consciousness is in your body, you are helpless (except for transferring your will to your skin, or dismissing the spell).
+You cause your own skin to peel off your body and animate as a magical creature you control. You may project your consciousness to your animated skin or return it to your actual body as a standard action. When your consciousness is in your body, you are [helpless](../../rules/appendices/conditions.md#helpless) (except for transferring your will to your skin, or dismissing the spell).
 
 Your possessed skin is identical to you in all ways, except the following: It has only half the number of hit points you had at the time you cast the spell, and cannot be healed above this maximum; construct type, traits, and immunities; Str 3, Con —; DR 10/piercing or slashing; and compression (as the universal monster ability, Bestiary 2 295). Your skin can take any actions you could normally take in your own body (such as to fight or cast spells).
 

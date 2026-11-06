@@ -50,7 +50,7 @@ A shaman who selects the battle spirit gains scars from every wound she takes, a
 
 **Curse of Suffering (Su)**: The shaman causes a creature within 30 feet to take more damage from bleed effects and causes its wounds to heal at a slower rate. When the cursed creature takes bleed damage, it takes 1 additional point of bleed damage (even if the bleed is ability damage). Furthermore, when the target is subject to an effect that would restore its hit points, that effect restores only half the normal amount of hit points. This curse lasts for a number of rounds equal to the shaman's level. After the duration ends, the creature cannot be the target of this hex again for 24 hours.
 
-**Eyes ofBattle (Su)**: The shaman's senses become magically heightened in the heat of battle. As a swift action, she can grant herself a +10 insight bonus for 1 round on Perception checks made to notice and pinpoint invisible creatures within 30 feet. She can instead use this ability as a swift action to ignore the affects of cover or partial cover (but not total cover) on her next attack, as long as that attack is made before the end of her next turn. The shaman can use this ability a number of times per day equal to her shaman level.
+**Eyes ofBattle (Su)**: The shaman's senses become magically heightened in the heat of battle. As a swift action, she can grant herself a +10 insight bonus for 1 round on [Perception](../../rules/skills/perception.md) checks made to notice and pinpoint invisible creatures within 30 feet. She can instead use this ability as a swift action to ignore the affects of cover or partial cover (but not total cover) on her next attack, as long as that attack is made before the end of her next turn. The shaman can use this ability a number of times per day equal to her shaman level.
 
 **Hampering Hex (Su)**: The shaman causes a creature within 30 feet to take a -2 penalty to AC and CMD for a number of rounds equal to the shaman's level. A successful Will saving throw reduces this to just 1 round. At 8th level, the penalty becomes -4. Whether or not the save is successful, a creature affected by a hampering hex cannot be the target of this hex again for 24 hours.
 
@@ -78,7 +78,7 @@ A shaman who selects the bones spirit is cadaverously thin, with sunken eye sock
 
 **Hexes**: A shaman who chooses the bones spirit can select from the following hexes.
 
-**Bone Lock (Su)**: With a quick incantation, the shaman causes a creature within 30 feet to suffer stiffness in the joints and bones, causing the target to be staggered 1 round. A successful Fortitude saving throw negates this effect. At 8th level, the duration is increased to a number of rounds equal to her shaman level, though the target can attempt a save each round to end the effect if its initial saving throw fails. At 16th level, the target can no longer attempt a saving throw each round to end the effect, although it still attempts the initial Fortitude saving throw to negate the effect entirely.
+**Bone Lock (Su)**: With a quick incantation, the shaman causes a creature within 30 feet to suffer stiffness in the joints and bones, causing the target to be [staggered](../../rules/appendices/conditions.md#staggered) 1 round. A successful Fortitude saving throw negates this effect. At 8th level, the duration is increased to a number of rounds equal to her shaman level, though the target can attempt a save each round to end the effect if its initial saving throw fails. At 16th level, the target can no longer attempt a saving throw each round to end the effect, although it still attempts the initial Fortitude saving throw to negate the effect entirely.
 
 **Bone Ward (Su)**: A shaman touches a willing creature (including herself) and grants a bone ward. The warded creature becomes encircled by a group of flying bones that grant it a +2 deflection bonus to AC for a number of rounds equal to the shaman's level. At 8th level, the ward increases to +3 and lasts for 1 minute. At 16th level, the bonus increases to +4 and lasts for 1 hour. Once the bone ward ends, the creature cannot be the target of the hex again for 24 hours.
 
@@ -86,7 +86,7 @@ A shaman who selects the bones spirit is cadaverously thin, with sunken eye sock
 
 At 16th level, if the shaman a living creature, she takes no penalties from energy drain effects, though she can still be killed if she accrues more negative levels than she has Hit Dice. Furthermore, after 24 hours any negative levels the shaman has are removed without requiring her to succeed at an additional saving throw. If the shaman is an undead creature, her bonus to channel resistance increases to +4.
 
-**Fearful Gaze (Su)**: With a single shout, the shaman causes one target creature within 30 feet to become shaken for 1 round. A successful Will saving throw negates this effect. At 8th level, she makes the target frightened instead. At 16th level, she makes it panicked instead. This is a mind-affecting fear effect. A creature affected by this hex cannot be affected by it again for 24 hours.
+**Fearful Gaze (Su)**: With a single shout, the shaman causes one target creature within 30 feet to become [shaken](../../rules/appendices/conditions.md#shaken) for 1 round. A successful Will saving throw negates this effect. At 8th level, she makes the target [frightened](../../rules/appendices/conditions.md#frightened) instead. At 16th level, she makes it [panicked](../../rules/appendices/conditions.md#panicked) instead. This is a mind-affecting fear effect. A creature affected by this hex cannot be affected by it again for 24 hours.
 
 **Grave Sight (Su)**: The shaman sees the states of life, death, undeath, and general health of those around her. When using this ability, she can tell whether or not creatures within 30 feet that she can see are living, wounded, dying, or dead, as well as determine if any are undead. Lastly, she can tell if those creatures are poisoned or diseased. The shaman can use this ability a number of rounds per day equal to her shaman level, but these rounds do not need to be consecutive.
 
@@ -150,13 +150,13 @@ Far to the north, tribes have adapted to life in the bitter cold. The frost spir
 
 **Biting Frost (Su)**: The shaman turns the air frigid around a target within 30 feet for a number of rounds equal to the shaman's Charisma modifier (minimum 1). The target must attempt a Fortitude saving throw at the beginning of each turn or be damaged by exposure to the extreme cold. On a failed save, the target takes 1d6 points of nonlethal damage. On a successful save, the effect ends immediately. Whether or not the initial save is successful, the creature cannot be the target of this hex again for 24 hours.
 
-**Hypothermia (Su)**: The shaman afflicts a creature within 30 feet with hypothermia. The target must attempt a Fortitude saving throw. On a failed save, the target is fatigued for 2 rounds. At 8th and 16th levels, the duration of this hex is extended by 1 round. Whether or not the save is successful, the creature cannot be the target of this hex again for 24 hours.
+**Hypothermia (Su)**: The shaman afflicts a creature within 30 feet with hypothermia. The target must attempt a Fortitude saving throw. On a failed save, the target is [fatigued](../../rules/appendices/conditions.md#fatigued) for 2 rounds. At 8th and 16th levels, the duration of this hex is extended by 1 round. Whether or not the save is successful, the creature cannot be the target of this hex again for 24 hours.
 
 **Sluggish (Su)**: The shaman causes the speed of a creature within 30 feet to be halved. The target can attempt a Fortitude saving throw to negate this effect. The penalty lasts for a number of rounds equal to the shaman's character level and does not stack with other effects that reduce speed. Whether or not the save is successful, the creature can't be the target of this hex again for 24 hours.
 
 **Tundra Dweller (Su)**: The shaman touches a willing creature and grants it cold resistance 10 for a number of rounds equal to her Charisma modifier (minimum 1). This resistance does not stack with any other cold resistance, such as from special abilities or magical items. At 8th and 16th levels, the duration of this hex is extended by 1 round. A creature targeted by this hex cannot be affected by it again for 24 hours.
 
-**Wilds-Attuned (Ex)**: The shaman receives [Animal Affinity](../../rules/feats/animal-affinity.md) as a bonus feat and gains a +4 insight bonus on Knowledge (nature) checks when in a cold climate.
+**Wilds-Attuned (Ex)**: The shaman receives [Animal Affinity](../../rules/feats/animal-affinity.md) as a bonus feat and gains a +4 insight bonus on [Knowledge](../../rules/skills/knowledge.md) (nature) checks when in a cold climate.
 
 **Spirit Animal**: The shaman's spirit animal is covered in a light layer of glimmering frost, and its breath comes out as mist regardless of the temperature. The animal has resistance 5 to cold and electricity.
 
@@ -222,7 +222,7 @@ A shaman who selects the life spirit appears more vibrant than most mortals. Her
 
 **Life Link (Su)**: The shaman creates a bond between herself and another creature within 30 feet. Each round at the start of the shaman's turn, if the bonded creature's hit points are reduced to -5 or fewer, it heals 5 hit points and the shaman takes 5 points of damage. The shaman can have one bond active per shaman level. The bond continues until the bonded creature dies, the shaman dies, the distance between her and the bonded creature exceeds ioo feet, or the shaman ends it as an immediate action. If the shaman has multiple bonds active, she can end as many as she wants with the same immediate action.
 
-Life S(ght (Ex): The shaman can see the states of life, death, and general health of those around her. When she uses this ability, she can tell whether or not creatures within 30 feet of her that she can see are living, wounded, dying, or dead. She can also tell if those creatures are confused, disabled, diseased, nauseated, poisoned sickened or staggered. At 12th level, when using life sight she is able to sense all nearby living creatures; this functions similar to blindsight, but only for living creatures within 30 feet of her. The shaman can use this ability a number of rounds per day equal to her shaman level, but these rounds do not need to consecutive.
+Life S(ght (Ex): The shaman can see the states of life, death, and general health of those around her. When she uses this ability, she can tell whether or not creatures within 30 feet of her that she can see are living, wounded, dying, or dead. She can also tell if those creatures are [confused](../../rules/appendices/conditions.md#confused), disabled, diseased, [nauseated](../../rules/appendices/conditions.md#nauseated), poisoned [sickened](../../rules/appendices/conditions.md#sickened) or staggered. At 12th level, when using life sight she is able to sense all nearby living creatures; this functions similar to blindsight, but only for living creatures within 30 feet of her. The shaman can use this ability a number of rounds per day equal to her shaman level, but these rounds do not need to consecutive.
 
 **Spirit Animal**: The shaman's spirit animal appears to be a beautiful and very healthy version of its species, and seems especially vibrant and full of life. Her animal companion gains fast healing 1 (Bestiary 300); if the spirit animal already has fast healing, instead its fast healing increases by 1 Spirit Ability: A shaman who chooses the life spirit as her spirit or wandering spirit gains the following ability.
 
@@ -230,13 +230,13 @@ Life S(ght (Ex): The shaman can see the states of life, death, and general healt
 
 **Greater Spirit Ability**: A shaman who chooses the life spirit as her spirit or wandering spirit gains the following ability upon having access to the greater version of that spirit.
 
-**Healer's Touch (Su)**: The shaman gains a +4 bonus on Heal checks. As a standard action, the shaman can move up to halfher speed and touch up to six dying creatures. Each creature is automatically stabilized without the need of a Heal check.
+**Healer's Touch (Su)**: The shaman gains a +4 bonus on [Heal](../../rules/skills/heal.md) checks. As a standard action, the shaman can move up to halfher speed and touch up to six dying creatures. Each creature is automatically stabilized without the need of a Heal check.
 
 **True Spirit Ability**: A shaman who chooses the life spirit as her spirit or wandering spirit gains the following ability upon having access to the true version of that spirit.
 
 **Qjtick Healing, g (Su)**: The shaman calls upon her spirit to enhance the speed of her healing abilities. This ability allows her to channel positive energy or cast a cure spell as a swift action. The shaman can use this ability a number of times per day equal to her Charisma modifier.
 
-**Manifestation**: Upon reaching 20th level, the shaman becomes a perfect channel for life energy. She gains immunity to bleed, death attacks, and negative energy, as well as to the exhausted, fatigued, nauseated, and sickened conditions. Ability damage and drain cannot reduce her to below 1 in any ability score. She automatically succeeds at saving throws against massive damage. When she is reduced to below 0 hit points, she doesn't die until her negative hit point total exceeds double her Constitution score.
+**Manifestation**: Upon reaching 20th level, the shaman becomes a perfect channel for life energy. She gains immunity to bleed, death attacks, and negative energy, as well as to the [exhausted](../../rules/appendices/conditions.md#exhausted), fatigued, nauseated, and sickened conditions. Ability damage and drain cannot reduce her to below 1 in any ability score. She automatically succeeds at saving throws against massive damage. When she is reduced to below 0 hit points, she doesn't die until her negative hit point total exceeds double her Constitution score.
 
 ## Lore
 
@@ -256,7 +256,7 @@ A shaman who selects the lore spirit appears far wiser and knowing that her age 
 
 **Share Knowled, ge (Su)**: The shaman targets a single willing ally within 30 feet and shares her knowledge and experience with that target for a number of minutes equal to her Charisma modifier. During that time, the subject knows the languages that the shaman does and uses the shaman's skill modifier on all Knowledge checks instead of its own. Once this duration ends, the creature cannot be the target of this hex again for 24 hours.
 
-**Spirit Animal**: The shaman's spirit animal appears to be quiet and unassuming. It gains a +2 bonus on Initiative checks and a +4 bonus on Stealth checks.
+**Spirit Animal**: The shaman's spirit animal appears to be quiet and unassuming. It gains a +2 bonus on Initiative checks and a +4 bonus on [Stealth](../../rules/skills/stealth.md) checks.
 
 **Spirit Ability**: A shaman who chooses the lore spirit as her spirit or wandering spirit gains the following ability.
 
@@ -268,7 +268,7 @@ A shaman who selects the lore spirit appears far wiser and knowing that her age 
 
 **True Spirit Ability**: A shaman who chooses the lore spirit as her spirit or wandering spirit gains the following ability upon having access to the true version of that spirit.
 
-**Perfect Knowled, ge (Ex)**: The shaman gains the benefit of the tongues spell permanently. She also gains a +10 competence bonus on all Knowledge, Linguistics, and Spellcraft checks.
+**Perfect Knowled, ge (Ex)**: The shaman gains the benefit of the tongues spell permanently. She also gains a +10 competence bonus on all Knowledge, [Linguistics](../../rules/skills/linguistics.md), and [Spellcraft](../../rules/skills/spellcraft.md) checks.
 
 **Manifestation**: Upon reaching 20th level, the shaman becomes an unending font of knowledge and lore. She can take 20 on all Knowledge skill checks, including those she isn't trained in. Her understanding of the fundamental underpinnings of reality has also become so advanced that she can cast wish once per day. This doesn't require a material component, but the wish cannot be used to grant ability score bonuses or replicate spells with expensive material components.
 
@@ -286,7 +286,7 @@ A shaman who selects the mammoth spirit is abnormally tall and stocky, with thic
 
 **Phantom Stampede (Su)**: The shaman summons a host of ghostly herd beasts to trample a single creature. These phantom beasts affect only the target creature, which is buffeted and pummeled by their passing. The creature takes no damage from the ability, but takes a –4 penalty to its CMD versus bull rush, overrun, and trip attempts. Additionally, spellcasters under the effect of this ability take a –4 penalty on concentration checks. The target receives no saving throw to negate this effect. This effect lasts a number of rounds equal to the shaman's level. The creature can't be the target of this hex again for 24 hours.
 
-**Primal Speaker (Ex)**: The shaman can speak with mammoths and any other megafauna or elephant creatures as if she were under the effects of [*speak with animals*](../../magic/spells/speak-with-animals.md). At 5th level, the shaman gains a bonus on Handle Animal checks when dealing with those animals equal to 1/2 her shaman level. At 10th level, the shaman can affect one such animal within 30 feet as if she'd cast [*charm animal*](../../magic/spells/charm-animal.md). A successful Will saving throw negates this effect. Whether or not the save is successful, the creature can't be the target of this hex again for 24 hours.
+**Primal Speaker (Ex)**: The shaman can speak with mammoths and any other megafauna or elephant creatures as if she were under the effects of [*speak with animals*](../../magic/spells/speak-with-animals.md). At 5th level, the shaman gains a bonus on [Handle Animal](../../rules/skills/handle-animal.md) checks when dealing with those animals equal to 1/2 her shaman level. At 10th level, the shaman can affect one such animal within 30 feet as if she'd cast [*charm animal*](../../magic/spells/charm-animal.md). A successful Will saving throw negates this effect. Whether or not the save is successful, the creature can't be the target of this hex again for 24 hours.
 
 **Thunder Foot (Ex)**: The shaman's body thickens and becomes more muscular. For the purpose of the overrun combat maneuver, she treats her shaman level as her base attack bonus when calculating her CMB and CMD. At 7th level, the shaman gains [Improved Overrun](../../rules/feats/improved-overrun.md) as a bonus feat. At 11th level, the shaman gains [Greater Overrun](../../rules/feats/greater-overrun.md) as a bonus feat. The shaman doesn't need to meet the prerequisites of these feats.
 
@@ -294,7 +294,7 @@ A shaman who selects the mammoth spirit is abnormally tall and stocky, with thic
 
 **Spirit Ability**: A shaman who chooses the mammoth spirit as her spirit or wandering spirit gains the following ability.
 
-**Powerful Smash (Ex)**: As a standard action, the shaman can attack with unarmed strikes as if she had the [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) feat. If the shaman hits a creature in this way, that creature must succeed at a Fortitude save (DC = 10 + 1/2 the shaman's class level + her Charisma modifier) or be dazed for 1 round. The shaman can use this ability a number of times per day equal to 3 + her Charisma modifier.
+**Powerful Smash (Ex)**: As a standard action, the shaman can attack with unarmed strikes as if she had the [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) feat. If the shaman hits a creature in this way, that creature must succeed at a Fortitude save (DC = 10 + 1/2 the shaman's class level + her Charisma modifier) or be [dazed](../../rules/appendices/conditions.md#dazed) for 1 round. The shaman can use this ability a number of times per day equal to 3 + her Charisma modifier.
 
 **Greater Spirit Ability**: A shaman who selects the mammoth spirit using her greater spirit or greater wandering spirit class feature gains the following special ability.
 
@@ -322,9 +322,9 @@ A shaman who selects the nature spirit takes on an appearance that reflects the 
 
 **Speak with Animals (Ex)**: Choose a specific kind of animal: eagle, fox, dog, and so on. The shaman gains the ability to converse with that type of animal as if she were under the effects of speak with animal. The shaman gains the ability to communicate with an additional kind of animal for every 3 shaman levels she possesses (two animals at 3rd level, three at 6th, up to a maximum of seven at 18th level).
 
-**Stormwalker (Su)**: The shaman can move through nonmagical fog, rain, mist, snow, and other environmental effects without penalty (see Weather, Core Rulebook 437). She is never slowed by such effects, and she doesn't need to attempt Acrobatics skill checks to move across such surfaces. She can also move through magical environmental effects that she created. At 10th level, the shaman can see twice as far as normal through environmental effects, whether or not they are magical in nature.
+**Stormwalker (Su)**: The shaman can move through nonmagical fog, rain, mist, snow, and other environmental effects without penalty (see Weather, Core Rulebook 437). She is never slowed by such effects, and she doesn't need to attempt [Acrobatics](../../rules/skills/acrobatics.md) skill checks to move across such surfaces. She can also move through magical environmental effects that she created. At 10th level, the shaman can see twice as far as normal through environmental effects, whether or not they are magical in nature.
 
-**Spirit Animal**: The [shaman's spirit animal](shaman.md#spirit-animal-ex) looks feral, and appears to be in peak physical form. The animal can move through any sort of undergrowth or natural difficult terrain at its normal speed without taking damage or suffering any other impairment. If the animal has a fly speed, it can ignore the penalty on Fly skill checks for winds up to windstorm strength (see the Core Rulebook).
+**Spirit Animal**: The [shaman's spirit animal](shaman.md#spirit-animal-ex) looks feral, and appears to be in peak physical form. The animal can move through any sort of undergrowth or natural difficult terrain at its normal speed without taking damage or suffering any other impairment. If the animal has a fly speed, it can ignore the penalty on [Fly](../../rules/skills/fly.md) skill checks for winds up to windstorm strength (see the Core Rulebook).
 
 **Spirit Ability**: A shaman who chooses the nature spirit as her spirit or wandering spirit gains the following ability.
 
@@ -338,7 +338,7 @@ A shaman who selects the nature spirit takes on an appearance that reflects the 
 
 **Companion Animal (Su)**: The shaman's spirit animal takes the form of an animal companion (Core Rulebook 51) of her choice, using her shaman level as her effective druid level. The animal retains all the special abilities and the Intelligence score of the spirit animal, but also has the statistics and abilities of an animal companion. If the animal is dismissed, is lost, or dies, it can be replaced in the same way as a normal spirit animal.
 
-**Manifestation**: Upon reaching 20th level, the shaman becomes a spirit of nature. Once per day, she can surround herself with an organic cocoon of silk as a full-round action. While enclosed in the cocoon, she's considered helpless. Eight hours later, she emerges, having changed her type to plant, animal, or humanoid, and having gained superficial physical characteristics of the chosen type as appropriate (see Pathfinder RPG Bestiary). She must choose a type that is different from her current type. This effect change doesn't alter her Hit Dice, hit points, saving throws, skill ranks, class skills, or proficiencies. The effect is permanent, until the shaman chooses to transform again. Each time the transformation is made, the shaman is cleansed of all poisons or diseases, restored to full hit points, and healed of all ability damage.
+**Manifestation**: Upon reaching 20th level, the shaman becomes a spirit of nature. Once per day, she can surround herself with an organic cocoon of silk as a full-round action. While enclosed in the cocoon, she's considered [helpless](../../rules/appendices/conditions.md#helpless). Eight hours later, she emerges, having changed her type to plant, animal, or humanoid, and having gained superficial physical characteristics of the chosen type as appropriate (see Pathfinder RPG Bestiary). She must choose a type that is different from her current type. This effect change doesn't alter her Hit Dice, hit points, saving throws, skill ranks, class skills, or proficiencies. The effect is permanent, until the shaman chooses to transform again. Each time the transformation is made, the shaman is cleansed of all poisons or diseases, restored to full hit points, and healed of all ability damage.
 
 ## Slums
 
@@ -348,7 +348,7 @@ A shaman who selects the slums spirit gains the city's alleys and avenues as ste
 
 **Hexes**: A shaman who chooses the slums spirit can select from the following hexes.
 
-**Accident (Su)**: The shaman causes a target within 30 feet to stumble and fall. The shaman attempts a caster level check with a DC equal to the target's CMD against trip attempts. On a successful check, the target falls prone and takes 1d6 points of damage. If the target is adjacent to a pit or similar drop-off, he must also succeed at a Reflex save (with a DC equal to the shaman's caster level check) or fall into the pit. Observers must succeed at a Perception or Sense Motive check with a DC equal to the shaman's caster level check to identify her as the source of the accident.
+**Accident (Su)**: The shaman causes a target within 30 feet to stumble and fall. The shaman attempts a caster level check with a DC equal to the target's CMD against trip attempts. On a successful check, the target falls [prone](../../rules/appendices/conditions.md#prone) and takes 1d6 points of damage. If the target is adjacent to a pit or similar drop-off, he must also succeed at a Reflex save (with a DC equal to the shaman's caster level check) or fall into the pit. Observers must succeed at a Perception or [Sense Motive](../../rules/skills/sense-motive.md) check with a DC equal to the shaman's caster level check to identify her as the source of the accident.
 
 **Bad Penny (Su)**: As a standard action, the shaman can curse a coin. The next bearer of the cursed coin takes a –2 penalty on all saving throws and skill checks as long as he has the coin on his person. Once the coin leaves his person, the curse ends and the coin becomes a mundane piece of tender again. At 8th level, the penalty becomes –4. If the shaman curses a new coin, the previous curse ends. This is a curse effect.
 
@@ -486,7 +486,7 @@ A shaman who selects the waves spirit has a fluid grace that exhibits itself whe
 
 **Hexes**: A shaman who chooses the waves spirit can select from the following hexes.
 
-**Beckoning Chill (Su)**: The shaman causes one creature within 30 feet to become more susceptible to the sapping powers of cold for 1 minute. When a creature takes cold damage while under this effect, it is entangled for 1 round. If the creature takes cold damage while already entangled by beckoning chill, the duration of the entangled condition increases by 1 round. Once affected, the creature cannot be the target of this hex again for 24 hours.
+**Beckoning Chill (Su)**: The shaman causes one creature within 30 feet to become more susceptible to the sapping powers of cold for 1 minute. When a creature takes cold damage while under this effect, it is [entangled](../../rules/appendices/conditions.md#entangled) for 1 round. If the creature takes cold damage while already entangled by beckoning chill, the duration of the entangled condition increases by 1 round. Once affected, the creature cannot be the target of this hex again for 24 hours.
 
 **Crashing Waves (Su)**: The force of a waves shaman's water spells can bring even the mightiest of foes to the ground. When the shaman casts a spell with the water descriptor, she does so at 1 caster level higher. If that spell deals damage, the target must succeed at a Fortitude saving throw or be knocked prone. At 8th level, the shaman casts water spells at 2 caster levels higher. At 16th level, her ability to knock creatures prone extends to any spell that deals damage.
 

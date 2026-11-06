@@ -4,7 +4,7 @@ You have deadly experience with a certain type of creature, granting you an edge
 
 **Prerequisites**: No levels in a class that grants the favored enemy class feature.
 
-**Benefit**: Choose a creature type from the ranger favored enemies table except for humanoid or monstrous humanoid. You gain a +2 bonus on Perception checks, Survival checks, and weapon damage rolls against creatures of the selected type. You can attempt Knowledge skill checks untrained when attempting to identify such creatures.
+**Benefit**: Choose a creature type from the ranger favored enemies table except for humanoid or monstrous humanoid. You gain a +2 bonus on [Perception](../skills/perception.md) checks, [Survival](../skills/survival.md) checks, and weapon damage rolls against creatures of the selected type. You can attempt [Knowledge](../skills/knowledge.md) skill checks untrained when attempting to identify such creatures.
 
 **Special**: This feat counts as the favored enemy class feature for the purpose of meeting feat prerequisites. If another ability references your favored enemy bonus for the creature type selected, you treat your favored enemy bonus as +2. If you later gain the favored enemy class feature, you can replace this feat with a different feat for which you qualify and whose prerequisites include the favored enemy class feature.
 

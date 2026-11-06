@@ -16,7 +16,7 @@ Changelings are the offspring of hags and their lovers taken through magic or ma
 
 *Hulking Changeling (Annis Hag)*: The changeling gains a +1 racial bonus on melee damage.
 
-*Green Widow (Green Hag)*: The changeling gains a +2 racial bonus on Bluff checks against creatures that are sexually attracted to her.
+*Green Widow (Green Hag)*: The changeling gains a +2 racial bonus on [Bluff](../../rules/skills/bluff.md) checks against creatures that are sexually attracted to her.
 
 *Sea Lungs (Sea Hag)*: The changeling may hold her breath for a number of rounds equal to three times her Constitution before she risks drowning.
 
@@ -38,7 +38,7 @@ The following racial traits may be selected instead of existing changeling racia
 
 **Object of Desire**: The changeling adds +1 to her caster level when casting [*charm person*](../../magic/spells/charm-person.md) and [*charm monster*](../../magic/spells/charm-monster.md). This replaces green widow.
 
-**Ocean’s Daughter**: The changeling gains a +1 trait bonus on Swim checks. She automatically succeeds at Swim checks made to avoid nonlethal damage from swimming. This racial trait replaces sea lungs.
+**Ocean’s Daughter**: The changeling gains a +1 trait bonus on [Swim](../../rules/skills/swim.md) checks. She automatically succeeds at Swim checks made to avoid nonlethal damage from swimming. This racial trait replaces sea lungs.
 
 ## Hag Heritages
 
@@ -116,9 +116,9 @@ Gifted with a face for every occasion, these changelings can adjust to any socia
 
 **Typical Alignment**: N; **Ability Modifiers**: +2 Wis, +2 Cha, –2 Int
 
-**Hag Racial Trait**: The DCs of Sense Motive checks to gain a hunch about a blood-born changeling increase by 5.
+**Hag Racial Trait**: The DCs of [Sense Motive](../../rules/skills/sense-motive.md) checks to gain a hunch about a blood-born changeling increase by 5.
 
-**Awakened Hag Heritage**: You gain a +2 racial bonus on Bluff, Diplomacy, and Sense Motive skill checks as your gifts for reading and manipulating others matures.
+**Awakened Hag Heritage**: You gain a +2 racial bonus on Bluff, [Diplomacy](../../rules/skills/diplomacy.md), and Sense Motive skill checks as your gifts for reading and manipulating others matures.
 
 ### Dreamthief-Born Changeling
 
@@ -128,7 +128,7 @@ Rare beyond measure, these changelings exist only as the result of horrific ritu
 
 **Hag Racial Trait**: Dreamthief-born changelings gain a +2 racial bonus on saving throws against mind-affecting effects.
 
-**Awakened Hag Heritage**: You no longer need to sleep and cannot become fatigued due to lack of sleep. You can still be affected by other effects that inflict the fatigued condition, and must rest for 8 hours in order to prepare spells or regain uses of class abilities as normal, even if this time is not spent sleeping.
+**Awakened Hag Heritage**: You no longer need to sleep and cannot become [fatigued](../../rules/appendices/conditions.md#fatigued) due to lack of sleep. You can still be affected by other effects that inflict the fatigued condition, and must rest for 8 hours in order to prepare spells or regain uses of class abilities as normal, even if this time is not spent sleeping.
 
 ### Green-Born Changeling
 
@@ -148,7 +148,7 @@ Unique among their kind, these changelings manifest spontaneously from corrupt m
 
 **Hag Racial Trait**: Mute-born changelings gain a +2 racial bonus on saving throws against gaze attacks.
 
-**Awakened Hag Heritage**: When you confirm a critical hit with your claw attack, your opponent is blinded for 1d6 rounds. A target that succeeds at a Fortitude saving throw (DC = 10 + half your character level + your Charisma modifier) is dazzled for 1 round instead.
+**Awakened Hag Heritage**: When you confirm a critical hit with your claw attack, your opponent is [blinded](../../rules/appendices/conditions.md#blinded) for 1d6 rounds. A target that succeeds at a Fortitude saving throw (DC = 10 + half your character level + your Charisma modifier) is [dazzled](../../rules/appendices/conditions.md#dazzled) for 1 round instead.
 
 ### Night-Born Changeling
 
@@ -186,7 +186,7 @@ Playful and easily amused, these changelings are lighthearted but terribly creat
 
 **Typical Alignment**: CN; **Ability Modifiers**: +2 Int, +2 Cha, –2 Con
 
-**Hag Racial Trait**: Winter-born changelings gain a +5 racial bonus on Acrobatics and Climb checks on icy or slippery surfaces.
+**Hag Racial Trait**: Winter-born changelings gain a +5 racial bonus on [Acrobatics](../../rules/skills/acrobatics.md) and [Climb](../../rules/skills/climb.md) checks on icy or slippery surfaces.
 
 **Awakened Hag Heritage**: You gain cold resistance equal to your character level and are no longer affected by severe cold or extreme cold.
 

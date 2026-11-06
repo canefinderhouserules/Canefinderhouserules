@@ -8,4 +8,4 @@
 **Duration** 1 round  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell causes a single creature to become confused for 1 round.
+This spell causes a single creature to become [confused](../../rules/appendices/conditions.md#confused) for 1 round.

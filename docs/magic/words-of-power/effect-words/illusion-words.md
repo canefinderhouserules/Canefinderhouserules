@@ -9,7 +9,7 @@ These words deceive the senses, leaving those that witness them unsure of the wo
 **Saving Throw** Will disbelief; **Spell Resistance** no  
 **Target Restrictions** burst (emanation)
 
-This effect word targets a single location, creating a sound that rises, recedes, or remains constant for the duration. The sound’s volume increases with the caster’s level. The base Perception DC to notice this sound is 0, but the DC is reduced by 1 per caster level (although it can be higher if the caster desires). This means that the sound starts out as loud as a creature talking, but by 10th level, it is as loud as creatures engaged in a noisy battle. The sound can resemble anything the caster desires, except it cannot replicate speech or language. Once cast, the type of sound within the emanation cannot be changed.
+This effect word targets a single location, creating a sound that rises, recedes, or remains constant for the duration. The sound’s volume increases with the caster’s level. The base [Perception](../../../rules/skills/perception.md) DC to notice this sound is 0, but the DC is reduced by 1 per caster level (although it can be higher if the caster desires). This means that the sound starts out as loud as a creature talking, but by 10th level, it is as loud as creatures engaged in a noisy battle. The sound can resemble anything the caster desires, except it cannot replicate speech or language. Once cast, the type of sound within the emanation cannot be changed.
 
 ## Glimmering (Illusion)
 

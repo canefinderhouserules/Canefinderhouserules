@@ -8,7 +8,7 @@ You are skilled at attacking opponents that you cannot clearly perceive.
 
 An invisible attacker gets no advantages related to hitting you in melee. That is, you don’t lose your Dexterity bonus to Armor Class, and the attacker doesn’t get the usual +2 bonus for being invisible. The invisible attacker’s bonuses do still apply for ranged attacks, however.
 
-You do not need to make Acrobatics skill checks to move at full speed while blinded.
+You do not need to make [Acrobatics](../skills/acrobatics.md) skill checks to move at full speed while [blinded](../appendices/conditions.md#blinded).
 
 **Normal**: Regular attack roll modifiers for invisible attackers trying to hit you apply, and you lose your Dexterity bonus to AC. The speed reduction for darkness and poor visibility also applies.
 

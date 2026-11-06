@@ -6,4 +6,4 @@ You can conceal the mightiest spells in the subtlest fashions.
 
 **Benefit**: When you use [Conceal Spell](conceal-spell.md), creatures no longer gain a bonus equal to the level of the spell or spell-like ability on their checks to notice the hidden spell.
 
-**Normal**: Creatures attempting to notice a spell hidden with Conceal Spell gain a bonus equal to the level of the spell or spell-like ability on their Perception, Sense Motive, and Spellcraft checks.
+**Normal**: Creatures attempting to notice a spell hidden with Conceal Spell gain a bonus equal to the level of the spell or spell-like ability on their [Perception](../skills/perception.md), [Sense Motive](../skills/sense-motive.md), and [Spellcraft](../skills/spellcraft.md) checks.

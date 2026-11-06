@@ -41,9 +41,9 @@ The following are class features of the shieldmarshal prestige class.
 
 **Weapon and Armor Proficiency**: A shieldmarshal gains no additional weapon or armor proficiencies.
 
-**Eye for Detail (Ex)**: A shieldmarshal adds his Intelligence bonus as well as his Wisdom bonus on Perception and Sense Motive checks. In addition, he gains a bonus equal to 1/2 his level on Perception checks opposed by another creature’s Disguise or Sleight of Hand checks.
+**Eye for Detail (Ex)**: A shieldmarshal adds his Intelligence bonus as well as his Wisdom bonus on [Perception](../../rules/skills/perception.md) and [Sense Motive](../../rules/skills/sense-motive.md) checks. In addition, he gains a bonus equal to 1/2 his level on Perception checks opposed by another creature’s [Disguise](../../rules/skills/disguise.md) or [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks.
 
-**Legal Judgment (Ex)**: A shieldmarshal can pronounce legal judgment upon his foes as a swift action, providing a bonus or ability based on the type of judgment made. Once activated, the ability lasts until the combat ends. If the shieldmarshal is dazed, frightened, panicked, paralyzed, stunned, unconscious, or otherwise unable to participate in combat, the effect does not end but provides no benefit until he is again able to participate in combat. As a swift action, the shieldmarshal can change his legal judgment to another type.
+**Legal Judgment (Ex)**: A shieldmarshal can pronounce legal judgment upon his foes as a swift action, providing a bonus or ability based on the type of judgment made. Once activated, the ability lasts until the combat ends. If the shieldmarshal is [dazed](../../rules/appendices/conditions.md#dazed), [frightened](../../rules/appendices/conditions.md#frightened), [panicked](../../rules/appendices/conditions.md#panicked), [paralyzed](../../rules/appendices/conditions.md#paralyzed), [stunned](../../rules/appendices/conditions.md#stunned), [unconscious](../../rules/appendices/conditions.md#unconscious), or otherwise unable to participate in combat, the effect does not end but provides no benefit until he is again able to participate in combat. As a swift action, the shieldmarshal can change his legal judgment to another type.
 
 This ability can be used once per day, plus once for every three levels beyond 1st. It is equivalent to an [inquisitor’s judgment](../classes/inquisitor.md#judgment-su) ability for the purpose of feats, magic items, or other game effects that affect the judgment ability; however, levels in the two classes do not stack.
 
@@ -60,11 +60,11 @@ This ability can be used once per day, plus once for every three levels beyond 1
 
 **Gunmarshal (Ex)**: Starting at 2nd level, a shieldmarshal gains deeds as a gunslinger of half his level. If he also has gunslinger levels, these levels stack. In addition, within his home nation, he gains a bonus on all Charisma-based skill checks equal to 1/2 his shieldmarshal level if he openly displays his shieldmarshal’s badge.
 
-**Labyrinthine Cunning (Ex)**: At 3rd level, a shieldmarshal never becomes lost in urban terrain, and he never takes penalties to movement for poor visibility in urban terrain, even while temporarily blinded. A shieldmarshal can open or close doors as a swift action instead of a move action.
+**Labyrinthine Cunning (Ex)**: At 3rd level, a shieldmarshal never becomes lost in urban terrain, and he never takes penalties to movement for poor visibility in urban terrain, even while temporarily [blinded](../../rules/appendices/conditions.md#blinded). A shieldmarshal can open or close doors as a swift action instead of a move action.
 
 **Urban Commando (Ex)**: At 5th level, a shieldmarshal treats urban areas as his favored terrain, as the ranger class feature. At 10th level, his favored terrain bonus increases to +4 but he does not gain a second favored terrain. If he already has a favored terrain bonus in urban terrain from another class, these bonuses stack but do not affect bonuses in other terrain types.
 
-**Gunhunter (Ex)**: A shieldmarshal is well versed in covert operations, especially in urban settings. At 6th level, the shieldmarshal can move through crowds and difficult terrain without impediment in urban terrain. He can use Stealth to hide in urban terrain even without cover or concealment; if he has cover or concealment, he gains a bonus on Stealth checks equal to 1/2 his class level.
+**Gunhunter (Ex)**: A shieldmarshal is well versed in covert operations, especially in urban settings. At 6th level, the shieldmarshal can move through crowds and difficult terrain without impediment in urban terrain. He can use Stealth to hide in urban terrain even without cover or concealment; if he has cover or concealment, he gains a bonus on [Stealth](../../rules/skills/stealth.md) checks equal to 1/2 his class level.
 
 **Double Jeopardy (Ex)**: At 8th level, whenever a shieldmarshal uses his legal judgment ability, he selects two different judgments, instead of one. This consumes only one use of his legal judgment ability. As a swift action, he can change one of these effects to another type.
 

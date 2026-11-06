@@ -59,7 +59,7 @@ The following are class features of the riftwarden prestige class.
 
 **Counterport (Su)**: At 4th level, a riftwarden can ready an action to counterspell a teleportation effect that allows a creature to enter or exit an area within 30 feet of her. She can use Spellcraft to identify a teleportation effect immediately as creatures arrive and can counter the teleportation effect with an identical spell or with any conjuration spell of at least 1 spell level higher, returning teleporting creatures to their point of origin.
 
-**Planar Scourge (Su)**: At 5th level, an extraplanar creature that fails its save against the riftwarden’s planar channel gains the panicked, sickened, or staggered condition, chosen by the riftwarden, for 1d4 rounds.
+**Planar Scourge (Su)**: At 5th level, an extraplanar creature that fails its save against the riftwarden’s planar channel gains the [panicked](../../rules/appendices/conditions.md#panicked), [sickened](../../rules/appendices/conditions.md#sickened), or [staggered](../../rules/appendices/conditions.md#staggered) condition, chosen by the riftwarden, for 1d4 rounds.
 
 **Improved Counterport (Su)**: At 7th level, a riftwarden can use her counterport ability to forcibly redirect a creature using a teleportation effect within 30 feet to a new valid destination within 30 feet of her. The wrenching redirection deals 1d6 points of damage per class level to the redirected creature. A successful Fortitude save (DC 10 + the riftwarden’s character level + the riftwarden’s Cha modifier) halves the damage and negates the redirection. In addition, when a conjuration effect causes a creature to appear in a square threatened by the riftwarden, that creature provokes an attack of opportunity from the riftwarden.
 

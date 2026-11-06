@@ -20,15 +20,15 @@ To qualify to become a justiciar, a character must fulfill all of the following 
 
 **Alignment**: Any lawful.
 
-**Skills**: Diplomacy 4 ranks, Knowledge (local) 8 ranks, and 6 ranks total in Craft, Knowledge (arcana, architecture and engineering, history, nobility and royalty, or religion), or Profession skills in any combination.
+**Skills**: Diplomacy 4 ranks, Knowledge (local) 8 ranks, and 6 ranks total in [Craft](../../rules/skills/craft.md), [Knowledge](../../rules/skills/knowledge.md) (arcana, architecture and engineering, history, nobility and royalty, or religion), or [Profession](../../rules/skills/profession.md) skills in any combination.
 
-**Feats**: Skill Focus (Sense Motive) or Persuasive, proficiency with any crossbow.
+**Feats**: Skill Focus ([Sense Motive](../../rules/skills/sense-motive.md)) or Persuasive, proficiency with any crossbow.
 
 **Special**: A justiciar must be appointed by a lawful religious or secular authority, typically a governing official of higher rank than the character.
 
 ### Class Skills
 
-The Justicar’s class skills are Appraise, Bluff, Craft, Diplomacy, Intimidate, Knowledge (any), Profession, Sense Motive, Linguistics, and Survival.
+The Justicar’s class skills are [Appraise](../../rules/skills/appraise.md), [Bluff](../../rules/skills/bluff.md), Craft, [Diplomacy](../../rules/skills/diplomacy.md), [Intimidate](../../rules/skills/intimidate.md), Knowledge (any), Profession, Sense Motive, [Linguistics](../../rules/skills/linguistics.md), and [Survival](../../rules/skills/survival.md).
 
 **Skill Ranks Per Level**: 4 + Int modifier.
 

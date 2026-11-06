@@ -6,7 +6,7 @@ A psychic spell largely functions like any other spell. It’s another type of m
 
 ## Components
 
-Psychic magic originates from the distinctive qualities of the caster’s composite being, rather than through arcane formulae or rote supplication to divine entities. Therefore, psychic spells never have verbal or somatic components, and have only expensive material components. Psychic spells are purely mental actions, and they can be cast even while the caster is pinned or paralyzed. Focus components work the same way with psychic spells as they do with other spells.
+Psychic magic originates from the distinctive qualities of the caster’s composite being, rather than through arcane formulae or rote supplication to divine entities. Therefore, psychic spells never have verbal or somatic components, and have only expensive material components. Psychic spells are purely mental actions, and they can be cast even while the caster is [pinned](../rules/appendices/conditions.md#pinned) or [paralyzed](../rules/appendices/conditions.md#paralyzed). Focus components work the same way with psychic spells as they do with other spells.
 
 When a spell calls for an expensive material component, a psychic spellcaster can instead use any item with both significant meaning and a value greater than or equal to the spell’s component cost. For example, if a spiritualist wanted to cast raise dead to bring her dead husband back from the grave, she could use her 5,000 gp wedding ring as the spell’s material component.
 

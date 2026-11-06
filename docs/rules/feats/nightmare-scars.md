@@ -4,4 +4,4 @@ You bear scars in honor of your deity, whether because you injured yourself in i
 
 **Prerequisites**: Worshiper of a deity of monsters and madness.
 
-**Benefit**: You gain a +2 bonus on Diplomacy and Handle Animal checks to affect the attitudes of magical beasts, monstrous humanoids, and worshipers of your deity. You take a –2 penalty on Diplomacy and Handle Animal checks to affect the attitudes of all other types of creatures. You also gain a +2 bonus on Intimidate checks, and take no penalty on Intimidate checks based on your size.
+**Benefit**: You gain a +2 bonus on [Diplomacy](../skills/diplomacy.md) and [Handle Animal](../skills/handle-animal.md) checks to affect the attitudes of magical beasts, monstrous humanoids, and worshipers of your deity. You take a –2 penalty on Diplomacy and Handle Animal checks to affect the attitudes of all other types of creatures. You also gain a +2 bonus on [Intimidate](../skills/intimidate.md) checks, and take no penalty on Intimidate checks based on your size.

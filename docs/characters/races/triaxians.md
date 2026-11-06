@@ -16,7 +16,7 @@ Triaxians don't possess racial Hit Dice, gaining their capabilities instead from
 
 **Low-Light Vision**: In dim light, Triaxians can see twice as far as humans.
 
-**Keen Senses**: Triaxians' senses grant them a +2 bonus on Perception checks.
+**Keen Senses**: Triaxians' senses grant them a +2 bonus on [Perception](../../rules/skills/perception.md) checks.
 
 **Bonus Feat**: Triaxians select one extra feat at 1st level.
 
@@ -36,5 +36,5 @@ See the Triaxian Traits section of the [race traits](../traits/race-traits.md) p
 
 ### Transitional Lore
 
-Transitional Triaxians are often instilled from a young age with the lore they need to prepare for the next winter or summer; they gain a +1 racial bonus on Knowledge (nature) and Survival checks. This racial trait replaces seasoned.
+Transitional Triaxians are often instilled from a young age with the lore they need to prepare for the next winter or summer; they gain a +1 racial bonus on [Knowledge](../../rules/skills/knowledge.md) (nature) and [Survival](../../rules/skills/survival.md) checks. This racial trait replaces seasoned.
 

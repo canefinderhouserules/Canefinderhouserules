@@ -30,7 +30,7 @@ However, even if they generally tend toward human societies, aasimars can become
 
 **Darkvision**: Aasimars can see in the dark up to 60 feet.
 
-**Skilled**: Aasimars have a +2 racial bonus on Diplomacy and Perception checks.
+**Skilled**: Aasimars have a +2 racial bonus on [Diplomacy](../../rules/skills/diplomacy.md) and [Perception](../../rules/skills/perception.md) checks.
 
 **Spell-Like Ability**: Aasimars can use [*daylight*](../../magic/spells/daylight.md) once per day as a spell-like ability (caster level equal to the aasimar’s class level).
 
@@ -44,13 +44,13 @@ See also the six [Aasimar Heritages](aasimar-heritages.md), which replace the de
 
 The following racial traits may be selected instead of existing aasimar racial traits. Consult your GM before selecting any of these new options.
 
-**Celestial Crusader**: Some aasimars follow their destiny to war against the powers of ultimate evil. These individuals gain a +1 insight bonus on attack rolls and to AC against evil outsiders and a +2 racial bonus on Knowledge (planes) and Spellcraft checks to identify evil outsiders or items or effects created by evil outsiders; they may use these skills untrained for this purpose. This racial trait replaces celestial resistance and skilled.
+**Celestial Crusader**: Some aasimars follow their destiny to war against the powers of ultimate evil. These individuals gain a +1 insight bonus on attack rolls and to AC against evil outsiders and a +2 racial bonus on [Knowledge](../../rules/skills/knowledge.md) (planes) and [Spellcraft](../../rules/skills/spellcraft.md) checks to identify evil outsiders or items or effects created by evil outsiders; they may use these skills untrained for this purpose. This racial trait replaces celestial resistance and skilled.
 
 **Deathless Spirit**: Particularly strong-willed aasimars possess celestial spirits capable of resisting the powers of death. They gain resistance 5 against negative energy damage. They do not lose hit points when they gain a negative level, and they gain a +2 racial bonus on saving throws against death effects, energy drain, negative energy, and spells or spell-like abilities of the necromancy school. This racial trait replaces celestial resistance.
 
 **Exalted Resistance**: An aasimar with this racial trait gains spell resistance equal to 5 + her level against spells and spell-like abilities with the evil descriptor, as well as any spells and spell-like abilities cast by evil outsiders. This racial trait replaces celestial resistance.
 
-**Halo**: Some aasimars possess the ability to manifest halos. An aasimar with this racial trait can create [*light*](../../magic/spells/light.md) centered on her head at will as a spell-like ability. When using her halo, she gains a +2 circumstance bonus on Intimidate checks against evil creatures and on saving throws against becoming blinded or dazzled. This racial trait replaces the darkvision racial trait.
+**Halo**: Some aasimars possess the ability to manifest halos. An aasimar with this racial trait can create [*light*](../../magic/spells/light.md) centered on her head at will as a spell-like ability. When using her halo, she gains a +2 circumstance bonus on [Intimidate](../../rules/skills/intimidate.md) checks against evil creatures and on saving throws against becoming [blinded](../../rules/appendices/conditions.md#blinded) or [dazzled](../../rules/appendices/conditions.md#dazzled). This racial trait replaces the darkvision racial trait.
 
 **Heavenborn**: Born in the celestial realms, aasimars with this racial trait gain a +2 bonus on Knowledge (planes) checks and they cast spells with the good or light descriptor at +1 caster level. This racial trait replaces the skilled and spell-like ability racial traits.
 
@@ -58,9 +58,9 @@ The following racial traits may be selected instead of existing aasimar racial t
 
 **Incorruptible**: Occasionally, aasimars arise with the ability to further ward away evil. Aasimars with this racial trait can cast [*corruption resistance*](../../magic/spells/corruption-resistance.md) against evil once per day as a spell-like ability. If an aasimar uses this ability on herself, the duration increases to 1 hour per level. This racial trait replaces the spell-like ability racial trait.
 
-**Scion of Humanity**: Some aasimars’ heavenly ancestry is extremely distant. An aasimar with this racial trait counts as an outsider (native) and a humanoid (human) for any effect related to race, including feat prerequisites and spells that affect humanoids. She can pass for human without using the Disguise skill. This racial trait replaces the Celestial language and alters the native subtype.
+**Scion of Humanity**: Some aasimars’ heavenly ancestry is extremely distant. An aasimar with this racial trait counts as an outsider (native) and a humanoid (human) for any effect related to race, including feat prerequisites and spells that affect humanoids. She can pass for human without using the [Disguise](../../rules/skills/disguise.md) skill. This racial trait replaces the Celestial language and alters the native subtype.
 
-**Truespeaker**: There are some aasimars whose language transcends all boundaries. They gain a +2 bonus on Linguistics and Sense Motive checks, and they learn two languages each time they gain a rank in Linguistics. This racial trait replaces skilled.
+**Truespeaker**: There are some aasimars whose language transcends all boundaries. They gain a +2 bonus on [Linguistics](../../rules/skills/linguistics.md) and [Sense Motive](../../rules/skills/sense-motive.md) checks, and they learn two languages each time they gain a rank in Linguistics. This racial trait replaces skilled.
 
 ## Favored Class Options
 
@@ -153,7 +153,7 @@ Idyllkin possess bestial aspects and calm dispositions, and often act as peacefu
 
 **Ability Modifiers **+2 Con, +2 Cha
 
-**Alternate Skill Modifiers **Handle Animal, Survival
+**Alternate Skill Modifiers **[Handle Animal](../../rules/skills/handle-animal.md), Survival
 
 **Alternate Spell-Like Ability **Idyllkin gain *summon nature’s ally II *as a spell-like ability.
 
@@ -167,7 +167,7 @@ Angelkin are mortal paragons of exceptional beauty, and they serve as exemplars 
 
 **Ability Modifiers **+2 Str, +2 Cha
 
-**Alternate Skill Modifiers **Heal, Knowledge (planes)
+**Alternate Skill Modifiers **[Heal](../../rules/skills/heal.md), Knowledge (planes)
 
 **Alternate Spell-Like Ability **Angelkin gain *alter self *as a spell-like ability.
 
@@ -213,7 +213,7 @@ Their shimmering avian features make plumekith instantly recognizable. Though th
 
 **Ability Modifiers** +2 Dex, +2 Wis
 
-**Alternate Skill Modifiers** Acrobatics, Fly
+**Alternate Skill Modifiers** [Acrobatics](../../rules/skills/acrobatics.md), Fly
 
 **Alternate Spell-Like Ability** Plumekith gain see *invisibility *as a spell-like ability.
 

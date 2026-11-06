@@ -4,4 +4,4 @@ Your mystic connection with one type of wilderness has grown even stronger.
 
 **Prerequisites**: [Attuned to the Wild](attuned-to-the-wild.md), [Guardian of the Wild](guardian-of-the-wild.md), elf.
 
-**Benefit**: When you are in a terrain type you have selected the [Attuned to the Wild](attuned-to-the-wild.md) feat for, you gain a +4 bonus on Perception checks made to act in the surprise round of combat. If you act in the surprise round, you gain blindsense out to a range of 30 feet during the surprise round. If you are in an area that qualifies as more than one kind of terrain, these bonuses do not stack; you receive the bonus for only one terrain type.
+**Benefit**: When you are in a terrain type you have selected the [Attuned to the Wild](attuned-to-the-wild.md) feat for, you gain a +4 bonus on [Perception](../skills/perception.md) checks made to act in the surprise round of combat. If you act in the surprise round, you gain blindsense out to a range of 30 feet during the surprise round. If you are in an area that qualifies as more than one kind of terrain, these bonuses do not stack; you receive the bonus for only one terrain type.

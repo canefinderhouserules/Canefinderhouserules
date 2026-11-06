@@ -35,7 +35,7 @@ To qualify to become a balanced scale, a character must fulfill all the followin
 
 ### Class Skills
 
-The Balanced Scale’s class skills are Appraise, Craft, Diplomacy, Disable Device, Heal, Knowledge (dungeoneering), Knowledge (local), Knowledge (religion), Perception, Profession, and Spellcraft.
+The Balanced Scale’s class skills are [Appraise](../../rules/skills/appraise.md), [Craft](../../rules/skills/craft.md), [Diplomacy](../../rules/skills/diplomacy.md), [Disable Device](../../rules/skills/disable-device.md), [Heal](../../rules/skills/heal.md), [Knowledge](../../rules/skills/knowledge.md) (dungeoneering), Knowledge (local), Knowledge (religion), [Perception](../../rules/skills/perception.md), [Profession](../../rules/skills/profession.md), and [Spellcraft](../../rules/skills/spellcraft.md).
 
 **Skill Ranks Per Level**: 2 + Int modifier.
 
@@ -73,6 +73,6 @@ Some religious scholars theorize that this power does not actually draw items fr
 
 **Vault Jump (Sp)**: Those who drive hard bargains and search for lost treasures sometimes bite off more than they can chew, and a quick exit is often the only way to escape a bad situation alive. Once per day, a balanced scale can create a one-way portal through the First Vault, which has one of two effects. First, she may use the portal as if it were a [*dimension door*](../../magic/spells/dimension-door.md), but can only travel to areas within range and to which she has been (for example, she cannot use it to get past a sealed door into the unknown room beyond). Second, she may use the portal as if she were casting [*word of recall*](../../magic/spells/word-of-recall.md), but instead of returning to her sanctuary she always returns to the closest active temple of her god. The balanced scale’s caster level for this ability is equal to her divine caster level, and she can bring others with her as defined in the spell descriptions.
 
-Travel through the First Vault is uncomfortable and disorienting, possibly because the Vault rejects imperfect mortal flesh in an attempt to protect itself, or because the aura of so much perfection is overwhelming to mortal senses. Regardless of the distance traveled, the balanced scale (and anyone traveling with her) arrives 1d4+1 rounds later and is nauseated for 1d4+1 rounds after arriving (Fortitude DC 15 negates).
+Travel through the First Vault is uncomfortable and disorienting, possibly because the Vault rejects imperfect mortal flesh in an attempt to protect itself, or because the aura of so much perfection is overwhelming to mortal senses. Regardless of the distance traveled, the balanced scale (and anyone traveling with her) arrives 1d4+1 rounds later and is [nauseated](../../rules/appendices/conditions.md#nauseated) for 1d4+1 rounds after arriving (Fortitude DC 15 negates).
 
 As with the balanced scale’s ability to access the First Vault, some scholars believe this ability transports the user through a space other than the First Vault. Their reasoning is that, if a balanced scale were mind-controlled or otherwise compromised, this ability might allow thieves to access the First Vault and steal the priceless, perfect items stored there.

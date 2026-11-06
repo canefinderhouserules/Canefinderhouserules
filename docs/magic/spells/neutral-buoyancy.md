@@ -8,4 +8,4 @@
 **Duration** 10 minutes/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-The target’s buoyancy becomes and stays neutral, regardless of how dense the target and its gear are. Among other effects, the target neither sinks nor rises when it doesn’t attempt a Swim check, making it easier to stay put while performing demanding actions or when helpless or disabled, and the target can swim up and down with equal ease.
+The target’s buoyancy becomes and stays neutral, regardless of how dense the target and its gear are. Among other effects, the target neither sinks nor rises when it doesn’t attempt a [Swim](../../rules/skills/swim.md) check, making it easier to stay put while performing demanding actions or when [helpless](../../rules/appendices/conditions.md#helpless) or disabled, and the target can swim up and down with equal ease.

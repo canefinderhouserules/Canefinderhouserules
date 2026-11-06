@@ -22,7 +22,7 @@ The following bold stares are available to mesmerists and can be selected whenev
 
 **Distracted**: The hypnotic stare penalty also applies to concentration checks.
 
-**Sensed**: The hypnotic stare penalty also applies to Stealth checks.
+**Sensed**: The hypnotic stare penalty also applies to [Stealth](../../rules/skills/stealth.md) checks.
 
 **Unaided**: The target of the hypnotic stare is not able to grant or receive flanking bonuses.
 
@@ -30,7 +30,7 @@ The following bold stares are available to mesmerists and can be selected whenev
 
 This oracle curse is available for oracles from lands of hero-gods, or who otherwise have a tumultuous relationship with the gods.
 
-**God-Meddled**: Your homeland is populated and watched over by hero-gods, some of whom are known for entangling mortals in their own affairs. The gods' interference in your life has left you with strange, unpredictable powers dependent on divine whim. Bizarre side effects occur whenever you are affected by a spell from a divine caster—for better or for worse. Once per round, when a creature casts a divine spell including you as a target, roll 1d20 and consult the table below. The effect resulting from this roll begins at the end of that enemy's turn. This effect targets only you, even if other creatures were included as targets of the triggering spell. At 5th level, you gain a +2 competence bonus on saving throws to resist divine spells. At 10th level, you become immune to the confused condition. At 15th level, you gain a +4 competence bonus on saving throws to resist mind-affecting effects.
+**God-Meddled**: Your homeland is populated and watched over by hero-gods, some of whom are known for entangling mortals in their own affairs. The gods' interference in your life has left you with strange, unpredictable powers dependent on divine whim. Bizarre side effects occur whenever you are affected by a spell from a divine caster—for better or for worse. Once per round, when a creature casts a divine spell including you as a target, roll 1d20 and consult the table below. The effect resulting from this roll begins at the end of that enemy's turn. This effect targets only you, even if other creatures were included as targets of the triggering spell. At 5th level, you gain a +2 competence bonus on saving throws to resist divine spells. At 10th level, you become immune to the [confused](../../rules/appendices/conditions.md#confused) condition. At 15th level, you gain a +4 competence bonus on saving throws to resist mind-affecting effects.
 
 | d20 | Effect |
 |---|---|
@@ -79,7 +79,7 @@ The myths of one ancient island nation tell of powerful (and often vengeful) wit
 
 **Perfect Body (Ex)**: Some practitioners of psychic techniques extend their training to improve their bodies as well as their minds. When the psychic casts a linked transmutation spell, she can spend 1 point from her phrenic pool to gain a +2 bonus on her next Reflex or Fortitude save.
 
-**Psychic Defense (Su)**: Reading small, invisible cues allows the psychic to take advantage of social circumstances and subtly influence her target. Casting a linked spell during a social encounter and spending 1 point from her phrenic pool allows the psychic to add a +4 bonus on her next Bluff, Diplomacy, Intimidate, or Sense Motive check.
+**Psychic Defense (Su)**: Reading small, invisible cues allows the psychic to take advantage of social circumstances and subtly influence her target. Casting a linked spell during a social encounter and spending 1 point from her phrenic pool allows the psychic to add a +4 bonus on her next [Bluff](../../rules/skills/bluff.md), [Diplomacy](../../rules/skills/diplomacy.md), [Intimidate](../../rules/skills/intimidate.md), or [Sense Motive](../../rules/skills/sense-motive.md) check.
 
 **Whisper of Ancients (Ex)**: The psychic can send her consciousness into the Astral Plane for a glimpse of synchronous information. While casting a linked divination spell, the psychic can spend 1 point from her phrenic pool to gain a +2 bonus on any associated skill check. She can spend 2 points from her phrenic pool to instead gain a +4 bonus.
 
@@ -89,7 +89,7 @@ These slayer talents suit warriors who prefer to capture their enemies rather th
 
 **Captor's Grace (Ex)**: A slayer with this talent does not take the normal –4 penalty when dealing nonlethal damage using a weapon that normally deals lethal damage. Attacks made this way can apply nonlethal sneak attack damage. The slayer must be at least 4th level to select this talent.
 
-**Captor's Pounce (Ex)**: When a slayer with this talent deals sneak attack damage, he can attempt a disarm or trip combat maneuver as an immediate action as if the target were flat-footed (losing its Dexterity bonus to CMD). This combat maneuver does not provoke attacks of opportunity. The slayer must have the captor's grace talent to select this talent.
+**Captor's Pounce (Ex)**: When a slayer with this talent deals sneak attack damage, he can attempt a disarm or trip combat maneuver as an immediate action as if the target were [flat-footed](../../rules/appendices/conditions.md#flat-footed) (losing its Dexterity bonus to CMD). This combat maneuver does not provoke attacks of opportunity. The slayer must have the captor's grace talent to select this talent.
 
 **Captor's Protection (Ex)**: When a slayer with this talent deals sneak attack damage, he draws the target's attention away from his allies. The affected enemy takes a –2 penalty on attack rolls made against anyone other than the slayer for 1 minute. The slayer must have the captor's pounce talent to select this talent.
 
@@ -103,7 +103,7 @@ A shifter using alternate natural attacks can select a bite (B, P, S) or tail sl
 
 **Minor Form**: You gain a +2 enhancement bonus to your Charisma score. At 8th level the bonus increases to +4, and at 15th level it increases to +6.
 
-**Major Form**: Your shape changes to that of a Small peafowl. While in this form you gain low-light vision, a fly speed of 40 feet (clumsy), two talon attacks (1d3 damage), and a +4 racial bonus on Stealth checks. A peafowl can't use its fly speed to hover and must end any flying move action by landing or perching on a solid surface. A peafowl can perform a captivating dance targeting all creatures within a 15-foot cone. Each creature in the cone that can see your dance must succeed at a Will save (DC = 10 + half your shifter level + your Charisma modifier) or be stunned for 1 round. At 8th level, the stunned effect lasts for 2 rounds, and at 15th level the duration increases to 4 rounds. Whether or not it succeeds at the initial save, a creature cannot be affected by this ability again for 24 hours.
+**Major Form**: Your shape changes to that of a Small peafowl. While in this form you gain low-light vision, a fly speed of 40 feet (clumsy), two talon attacks (1d3 damage), and a +4 racial bonus on Stealth checks. A peafowl can't use its fly speed to hover and must end any flying move action by landing or perching on a solid surface. A peafowl can perform a captivating dance targeting all creatures within a 15-foot cone. Each creature in the cone that can see your dance must succeed at a Will save (DC = 10 + half your shifter level + your Charisma modifier) or be [stunned](../../rules/appendices/conditions.md#stunned) for 1 round. At 8th level, the stunned effect lasts for 2 rounds, and at 15th level the duration increases to 4 rounds. Whether or not it succeeds at the initial save, a creature cannot be affected by this ability again for 24 hours.
 
 ### Elephant
 
@@ -193,7 +193,7 @@ You draw power from a void in your emotions, a yawning and empty chasm where you
 
 The following ninja tricks are available to ratfolk, as they were developed by ratfolk to complement their natural talents.
 
-**Arcane Backfire (Su)**: When a ninja with this trick successfully attacks a creature that is holding a magic item that has a number of charges or uses per day, she can attempt a Use Magic Device check (DC = 20 + the item's CL) to cause the item to lose either one daily use or a number of charges equal to the number of the [ninja's sneak attack](ninja.md#sneak-attack) dice.
+**Arcane Backfire (Su)**: When a ninja with this trick successfully attacks a creature that is holding a magic item that has a number of charges or uses per day, she can attempt a [Use Magic Device](../../rules/skills/use-magic-device.md) check (DC = 20 + the item's CL) to cause the item to lose either one daily use or a number of charges equal to the number of the [ninja's sneak attack](ninja.md#sneak-attack) dice.
 
 **Swarming Attack (Ex)**: Ratfolk ninjas use their large numbers to overwhelm their enemies with countless attacks. While using the swarming racial trait to share a space with an ally, a ninja with this talent gains a bonus on damage rolls equal to the number of sneak attack dice her ally has. For example, a ninja would gain +3 damage if her ally has sneak attack 3d6.
 
@@ -201,7 +201,7 @@ The following ninja tricks are available to ratfolk, as they were developed by r
 
 Witch patrons are enigmatic entities, sometimes fair minded and other times malevolent. Special patron categories swap out the spells normally provided by a patron theme at specific levels, and grant a specific hex and drawback at 1st level. Once a specific patron has been selected, a witch cannot change her patron or raise a hand against that entity without losing her spellcasting, hexes, and familiar. Each category is limited in the patron themes it can provide; its witches must select one of the themes listed for it. These patrons are extraordinary examples of their kind, often invested with unique or mythic powers and pursuing long-term agendas measured in centuries or eons.
 
-**Celestial Agenda**: Powerfully ranked agathions, angels, and archons—and occasional intersectional councils of good outsiders—sometimes invest white witches with celestial might to defend the weak and heal the sick. You gain the ward hex at 1st level, but your patron holds you to a higher standard: you must be of good alignment, and you take a –2 penalty on Bluff, Intimidate, Sleight of Hand, and other skill checks to deceive or threaten others. *Available Patron Themes*: Endurance, Healing, Light, Portents; 4th—[*castigate*](../../magic/spells/castigate.md), 10th—[*rebuke*](../../magic/spells/rebuke.md), 16th—*greater planar ally* (good outsiders only).
+**Celestial Agenda**: Powerfully ranked agathions, angels, and archons—and occasional intersectional councils of good outsiders—sometimes invest white witches with celestial might to defend the weak and heal the sick. You gain the ward hex at 1st level, but your patron holds you to a higher standard: you must be of good alignment, and you take a –2 penalty on Bluff, Intimidate, [Sleight of Hand](../../rules/skills/sleight-of-hand.md), and other skill checks to deceive or threaten others. *Available Patron Themes*: Endurance, Healing, Light, Portents; 4th—[*castigate*](../../magic/spells/castigate.md), 10th—[*rebuke*](../../magic/spells/rebuke.md), 16th—*greater planar ally* (good outsiders only).
 
 **The Condition of All**: Aeons are often patrons to witches, seeking out mortals who share their vested interest in some agenda that helps them promote the cosmic balance. You gain the scar hex at 1st level, but such service requires unwavering commitment to their cause, and you lose your spellcasting and hexes (but not your familiar) if your alignment changes after taking your first witch level; you regain your spellcasting and hexes once you revert to your original alignment. *Available Patron Themes*: Elements, Time, Transformation, Wisdom; 2nd—[*forbid action*](../../magic/spells/forbid-action.md), 8th—[*dismissal*](../../magic/spells/dismissal.md), 12th—*geas/quest*.
 
@@ -259,7 +259,7 @@ A talent marked with an asterisk (*) adds effects to an [investigator's studied 
 
 The following social talents are available to vigilantes, and are especially favored by vigilantes who believe in reincarnation.
 
-**Ancestral Enlightenment (Ex, Social)**: The vigilante can attempt any Knowledge check untrained. If he already has ranks in a particular Knowledge skill, he gains a +4 bonus on checks with that skill. A vigilante must be at least 5th level to select this talent.
+**Ancestral Enlightenment (Ex, Social)**: The vigilante can attempt any [Knowledge](../../rules/skills/knowledge.md) check untrained. If he already has ranks in a particular Knowledge skill, he gains a +4 bonus on checks with that skill. A vigilante must be at least 5th level to select this talent.
 
 **Skill Familiarity (Ex, Social)**: The vigilante chooses four skills when he gains this talent. He can take 10 on checks with his chosen skills even when distracted or threatened. If he takes 10 on checks with these skills while not distracted or threatened, he gains a bonus on the check equal to one-quarter his vigilante level (minimum +2). A vigilante must be at least 9th level to select this talent.
 
@@ -285,7 +285,7 @@ You know that you are far better than average creatures of your kind. The more y
 
 **At Arm's Length (Ex)**: At 5th level, you gain [Reach Spell](../../rules/feats/reach-spell.md) as a bonus feat. Additionally, when using this feat, you can spend 1 point from your phrenic pool for each increase in the spell's range category. If you do, the spell does not use up a higher-level spell slot than normal. (For example, a spell with a range of touch increased to long range via this feat would normally use up a spell slot 3 levels higher, but if you spend 3 points from your phrenic pool, the spell does not use up a higher spell slot.)
 
-**Magical Hoarder (Su)**: At 13th level, whenever a creature within 30 feet of you casts a spell intended to benefit its targets, you can spend 1 point from your phrenic pool as an immediate action to include yourself as a target of that spell. If the creature is not your ally, you must be able to clearly see the spell's effects and you must succeed at a Spellcraft check (DC = 15 + the spell's level) to identify the spell before using this ability. If you are not within the normal range of the spell, then you must spend 1 additional point from your phrenic pool to use this ability. If the spell has a range of personal, then you must instead spend 2 additional phrenic points from your pool to use this ability. This ability does not affect spells with an instantaneous or permanent duration.
+**Magical Hoarder (Su)**: At 13th level, whenever a creature within 30 feet of you casts a spell intended to benefit its targets, you can spend 1 point from your phrenic pool as an immediate action to include yourself as a target of that spell. If the creature is not your ally, you must be able to clearly see the spell's effects and you must succeed at a [Spellcraft](../../rules/skills/spellcraft.md) check (DC = 15 + the spell's level) to identify the spell before using this ability. If you are not within the normal range of the spell, then you must spend 1 additional point from your phrenic pool to use this ability. If the spell has a range of personal, then you must instead spend 2 additional phrenic points from your pool to use this ability. This ability does not affect spells with an instantaneous or permanent duration.
 
 ## Focused Arcane School: Prophecy
 
@@ -323,17 +323,17 @@ The following arcanist exploits are particularly appealing to priests who use th
 
 Presented here are a number of variant channeling abilities suitable for followers of demigods and other divinities. Worshipers of divinities whose portfolios include the following can select these variant channeling abilities.
 
-**Sexuality**: *Heal*—Creatures gain a channel bonus on Perform checks and on either Bluff or Diplomacy checks for 1 minute. *Harm*—For 1 minute, creatures take a channel penalty on saving throws against charm effects and effects that cause the fascinated condition.
+**Sexuality**: *Heal*—Creatures gain a channel bonus on [Perform](../../rules/skills/perform.md) checks and on either Bluff or Diplomacy checks for 1 minute. *Harm*—For 1 minute, creatures take a channel penalty on saving throws against charm effects and effects that cause the [fascinated](../../rules/appendices/conditions.md#fascinated) condition.
 
 **Duty**: *Heal*—Creatures gain a channel bonus on attacks of opportunity and bull rush and disarm attempts until the end of your next turn. *Harm*—Creatures take a channel penalty on attacks of opportunity and bull rush and disarm attempts until the end of your next turn.
 
-**Flying Creatures**: *Heal*—Creatures gain a channel bonus on Fly checks and increase their fly speed (if any) by 10 feet until the end of your next turn. *Harm*—Creatures take a channel penalty on Fly checks and decrease their fly speed (if any) by 10 feet until the end of your next turn.
+**Flying Creatures**: *Heal*—Creatures gain a channel bonus on [Fly](../../rules/skills/fly.md) checks and increase their fly speed (if any) by 10 feet until the end of your next turn. *Harm*—Creatures take a channel penalty on Fly checks and decrease their fly speed (if any) by 10 feet until the end of your next turn.
 
 **Journeys**: *Heal*—Creatures gain a channel bonus to AC against attacks of opportunity until the end of your next turn. *Harm*—Creatures' movement speed is halved until the end of your next turn.
 
-**Moonlight**: *Heal*—Until the end of your next turn, creatures gain low-light vision and a channel bonus on attack rolls while in dim or darker light. *Harm*—Until the end of your next turn, creatures are dazzled and take a channel penalty on attack rolls while in dim or darker light.
+**Moonlight**: *Heal*—Until the end of your next turn, creatures gain low-light vision and a channel bonus on attack rolls while in dim or darker light. *Harm*—Until the end of your next turn, creatures are [dazzled](../../rules/appendices/conditions.md#dazzled) and take a channel penalty on attack rolls while in dim or darker light.
 
-**Monuments**: *Heal*—For 1 minute, creatures gain a channel bonus on saving throws against effects that would in any way reduce their speed or deal ability score damage. *Harm*—Creatures are staggered until the end of your next turn.
+**Monuments**: *Heal*—For 1 minute, creatures gain a channel bonus on saving throws against effects that would in any way reduce their speed or deal ability score damage. *Harm*—Creatures are [staggered](../../rules/appendices/conditions.md#staggered) until the end of your next turn.
 
 ## Ex-Class Archetypes
 
@@ -349,7 +349,7 @@ The ex-class archetypes are [Channeler of the Unknown](cleric-archetypes.md) (ex
 
 The following social talents allow antiheroes and outcasts to better blend in with polite society.
 
-**Beginner's Luck (Ex)**: The vigilante appears so harmless and innocent that onlookers dismiss his incredible abilities as nothing more than beginner's luck. When the vigilante uses a vigilante talent while in his social identity, he can add the +20 circumstance bonus from seamless guise to his Disguise check to fool onlookers, so long as the number of onlookers witnessing him is no greater than his vigilante level. The vigilante's PC allies do not count as onlookers (and at the GM's discretion, a closely allied NPC might not count as an onlooker, either). He loses this bonus against onlookers who have already witnessed him using a vigilante talent in his social identity within the last week.
+**Beginner's Luck (Ex)**: The vigilante appears so harmless and innocent that onlookers dismiss his incredible abilities as nothing more than beginner's luck. When the vigilante uses a vigilante talent while in his social identity, he can add the +20 circumstance bonus from seamless guise to his [Disguise](../../rules/skills/disguise.md) check to fool onlookers, so long as the number of onlookers witnessing him is no greater than his vigilante level. The vigilante's PC allies do not count as onlookers (and at the GM's discretion, a closely allied NPC might not count as an onlooker, either). He loses this bonus against onlookers who have already witnessed him using a vigilante talent in his social identity within the last week.
 
 **Conflicted Identity (Ex)**: The vigilante's mind is in a constant state of turmoil, which makes him even more ethically and morally fluid than other vigilantes. When targeted by a harmful spell or effect that would affect the vigilante in his current identity but not his other identity (or when he would suffer a lesser effect in his other identity), he has a 50% chance of being affected as though he were in his other identity. This chance is rolled when the spell or effect is cast or triggered and before any spell resistance roll, if applicable. For example, if a vigilante has a lawful-neutral social identity and a neutral vigilante identity, he has a 50% chance of taking only half damage from a [*chaos hammer*](../../magic/spells/chaos-hammer.md) spell while in his social identity, since he would always take only half damage from a *chaos hammer* spell when in his vigilante identity.
 
@@ -383,6 +383,6 @@ The following exploits are available to arcanists who have studied the planes ex
 
 The following greater exploits allow arcanists to forge a deeper connection with planar essence.
 
-**Hellfire Ray (Su)**: When an arcanist uses the flame arc exploit, she can spend 1 additional point from her arcane reservoir to draw the flames from a hellish plane. If she does so, half of the damage she deals is fire, and the other half results directly from unholy power that is not subject to fire resistance. Good creatures that take damage from a hellfire ray must succeed at a Will saving throw or be sickened for 1d4 rounds.
+**Hellfire Ray (Su)**: When an arcanist uses the flame arc exploit, she can spend 1 additional point from her arcane reservoir to draw the flames from a hellish plane. If she does so, half of the damage she deals is fire, and the other half results directly from unholy power that is not subject to fire resistance. Good creatures that take damage from a hellfire ray must succeed at a Will saving throw or be [sickened](../../rules/appendices/conditions.md#sickened) for 1d4 rounds.
 
 **Chaos Jump (Su)**: The arcanist can call upon the randomness of a plane of pure chaos to move in unpredictable ways. She can expend 1 point from her arcane reservoir as a swift action to gain the benefits of [*entropic shield*](../../magic/spells/entropic-shield.md) for 1 minute and move 10 feet in a random direction. For the next minute, she moves 10 feet in a random direction at the end of each of her turns. This movement does not provoke attacks of opportunity or count against her movement for the round. If the movement would end her movement in an occupied space, she instead travels to the nearest unoccupied space.

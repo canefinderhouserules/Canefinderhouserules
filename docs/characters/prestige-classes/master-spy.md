@@ -45,7 +45,7 @@ The following are class features of the master spy prestige class.
 
 **Weapon and Armor Proficiency**: A master spy gains no proficiency with any weapon or armor.
 
-**Art of Deception (Ex)**: A master spy adds her class level to all Bluff, Disguise, and Sense Motive checks.
+**Art of Deception (Ex)**: A master spy adds her class level to all [Bluff](../../rules/skills/bluff.md), [Disguise](../../rules/skills/disguise.md), and [Sense Motive](../../rules/skills/sense-motive.md) checks.
 
 **Master of Disguise (Ex)**: A master spy can create a disguise in half the time normally required. In addition, any penalties from assuming a disguise of a different gender, race, age, or size are reduced by 1.
 
@@ -59,7 +59,7 @@ The following are class features of the master spy prestige class.
 
 **Superficial Knowledge (Ex)**: A master spy gives the appearance of knowing more than she actually does.
 
-Starting at 3rd level, she can make untrained Knowledge and Profession checks pertaining to her cover or assumed identity as if she were trained and gains a bonus equal to half her level on these checks. For example, a master spy masquerading as a noblewoman can make untrained Knowledge (history) checks about the kingdom and Knowledge (nobility) checks about its noble and royal families as if she were trained, but she cannot make untrained Knowledge (nature) skill checks to identify herbs.
+Starting at 3rd level, she can make untrained [Knowledge](../../rules/skills/knowledge.md) and [Profession](../../rules/skills/profession.md) checks pertaining to her cover or assumed identity as if she were trained and gains a bonus equal to half her level on these checks. For example, a master spy masquerading as a noblewoman can make untrained Knowledge (history) checks about the kingdom and Knowledge (nobility) checks about its noble and royal families as if she were trained, but she cannot make untrained Knowledge (nature) skill checks to identify herbs.
 
 **Concealed Thoughts (Su)**: A 4th-level master spy can conceal her schemes from mind-reading magic.
 
@@ -79,4 +79,4 @@ When a creature is using detect thoughts or similar magic to read her mind, she 
 
 **Hidden Mind (Sp)**: At 9th level, a master spy gains the benefit of a constant mind blank spell at a caster level equal to her character level. The spy can suppress or resume this protection as a standard action. If dispelled, the spy cannot resume the mind blank for 1d4 rounds.
 
-**Assumption (Su)**: The ultimate ability of the master spy is to take over another persona entirely, making it her own. As a full-round action, the spy can touch a helpless creature and shift her aura to that of her target. This confuses divination effects and spells, even ones as powerful as discern location, such that they register the spy as being the creature she has touched. This ability is not proof against the actions of deities or similarly powerful beings. The assumption of an identity lasts until the master spy ends it (a standard action) or she uses the ability on another creature.
+**Assumption (Su)**: The ultimate ability of the master spy is to take over another persona entirely, making it her own. As a full-round action, the spy can touch a [helpless](../../rules/appendices/conditions.md#helpless) creature and shift her aura to that of her target. This confuses divination effects and spells, even ones as powerful as discern location, such that they register the spy as being the creature she has touched. This ability is not proof against the actions of deities or similarly powerful beings. The assumption of an identity lasts until the master spy ends it (a standard action) or she uses the ability on another creature.

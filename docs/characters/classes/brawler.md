@@ -114,11 +114,11 @@ At 7th level and every 4 levels thereafter, the brawler becomes further trained 
 
 At 4th level, when a brawler wears light or no armor, she gains a +1 dodge bonus to AC and CMD. This bonus increases by 1 at 9th, 13th, and 18th levels.
 
-These bonuses to AC apply against touch attacks. She loses these bonuses while immobilized or helpless, wearing medium or heavy armor, using a shield, or carrying a medium or heavy load.
+These bonuses to AC apply against touch attacks. She loses these bonuses while immobilized or [helpless](../../rules/appendices/conditions.md#helpless), wearing medium or heavy armor, using a shield, or carrying a medium or heavy load.
 
 ### Knockout (Ex)
 
-At 4th level, once per day a brawler can unleash a devastating attack that can instantly knock a target unconscious. She must announce this intent before making her attack roll. If the brawler hits and the target takes damage from the blow, the target must succeed at a Fortitude saving throw (DC = 10 + 1/2 the brawler's level + the higher of the brawler's Strength or Dexterity modifier) or fall unconscious for 1d6 rounds. Each round on its turn, the unconscious target may attempt a new saving throw to end the effect as a full-round action that does not provoke attacks of opportunity. Creatures immune to critical hits or nonlethal damage are immune to this ability. At 10th level, the brawler may use this ability twice per day; at 16th level, she may use it three times per day.
+At 4th level, once per day a brawler can unleash a devastating attack that can instantly knock a target [unconscious](../../rules/appendices/conditions.md#unconscious). She must announce this intent before making her attack roll. If the brawler hits and the target takes damage from the blow, the target must succeed at a Fortitude saving throw (DC = 10 + 1/2 the brawler's level + the higher of the brawler's Strength or Dexterity modifier) or fall unconscious for 1d6 rounds. Each round on its turn, the unconscious target may attempt a new saving throw to end the effect as a full-round action that does not provoke attacks of opportunity. Creatures immune to critical hits or nonlethal damage are immune to this ability. At 10th level, the brawler may use this ability twice per day; at 16th level, she may use it three times per day.
 
 ### Brawler's Strike (Ex)
 
@@ -130,7 +130,7 @@ At 5th level, a brawler's damage with close weapons increases. When wielding a c
 
 ### Awesome Blow (Ex)
 
-At 16th level, the brawler can as a standard action perform an awesome blow combat maneuver against a corporeal creature of her size or smaller. If the combat maneuver check succeeds, the opponent takes damage as if the brawler hit it with the close weapon she is wielding or an unarmed strike, it is knocked flying 10 feet in a direction of the brawler's choice, and it falls prone. The brawler can only push the opponent in a straight line, and the opponent can't move closer to the brawler than the square it started in. If an obstacle prevents the completion of the opponent's move, the opponent and the obstacle each take 1d6 points of damage, and the opponent is knocked prone in the space adjacent to the obstacle. (Unlike the Awesome Blow monster feat, the brawler can be of any size to use this ability.)
+At 16th level, the brawler can as a standard action perform an awesome blow combat maneuver against a corporeal creature of her size or smaller. If the combat maneuver check succeeds, the opponent takes damage as if the brawler hit it with the close weapon she is wielding or an unarmed strike, it is knocked flying 10 feet in a direction of the brawler's choice, and it falls [prone](../../rules/appendices/conditions.md#prone). The brawler can only push the opponent in a straight line, and the opponent can't move closer to the brawler than the square it started in. If an obstacle prevents the completion of the opponent's move, the opponent and the obstacle each take 1d6 points of damage, and the opponent is knocked prone in the space adjacent to the obstacle. (Unlike the Awesome Blow monster feat, the brawler can be of any size to use this ability.)
 
 ### Improved Awesome Blow (Ex)
 

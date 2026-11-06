@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** none; **Spell Resistance** no
 
-You plumb the depths of your mind for insight, leaving you momentarily frazzled. When you are about to make a d20 roll based on Intelligence, Wisdom, or Charisma, you can cast this spell to gain a +8 enhancement bonus to Intelligence, Wisdom, or Charisma for that roll, but you are dazed for 1 round afterward.
+You plumb the depths of your mind for insight, leaving you momentarily frazzled. When you are about to make a d20 roll based on Intelligence, Wisdom, or Charisma, you can cast this spell to gain a +8 enhancement bonus to Intelligence, Wisdom, or Charisma for that roll, but you are [dazed](../../rules/appendices/conditions.md#dazed) for 1 round afterward.

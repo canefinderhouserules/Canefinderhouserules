@@ -1,6 +1,6 @@
 # Grisly Ornament
 
-You adorn your gear with mementos from your foes. Trophy feats work similarly to item creation feats, except trophies are created using a single Craft or Heal check, they are nonmagical, and the benefits they provide are typically temporary. The DC of such a check is equal to 15 + the creature’s CR, and creating a trophy takes a number of minutes equal to the creature’s CR.
+You adorn your gear with mementos from your foes. Trophy feats work similarly to item creation feats, except trophies are created using a single [Craft](../skills/craft.md) or [Heal](../skills/heal.md) check, they are nonmagical, and the benefits they provide are typically temporary. The DC of such a check is equal to 15 + the creature’s CR, and creating a trophy takes a number of minutes equal to the creature’s CR.
 
 **Prerequisites**: [Harvest Parts](harvest-parts.md).
 

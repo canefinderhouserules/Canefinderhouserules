@@ -10,7 +10,7 @@ This ability replaces determination.
 
 **Active Defense (Ex)**
 
-At 5th level, an armor master gains DR 1/— when wearing light armor, DR 2/— when wearing medium armor, and DR 3/— when wearing heavy armor. Each of these DRs increase by 1 for every 4 levels beyond 5th level. This damage reduction stacks with that provided by armor and fighter class features, but not with other forms of damage reduction. This damage reduction does not apply if the armor master is stunned, unconscious, or helpless. This ability replaces the advanced weapon training options gained at 5th level and 13th level.
+At 5th level, an armor master gains DR 1/— when wearing light armor, DR 2/— when wearing medium armor, and DR 3/— when wearing heavy armor. Each of these DRs increase by 1 for every 4 levels beyond 5th level. This damage reduction stacks with that provided by armor and fighter class features, but not with other forms of damage reduction. This damage reduction does not apply if the armor master is [stunned](../../../rules/appendices/conditions.md#stunned), [unconscious](../../../rules/appendices/conditions.md#unconscious), or [helpless](../../../rules/appendices/conditions.md#helpless). This ability replaces the advanced weapon training options gained at 5th level and 13th level.
 
 **Fortification (Ex)**
 
@@ -81,7 +81,7 @@ The living weapon must be 7th level to select this option.
 
 **Awesome Blow (Ex)**
 
-A living weapon can as a standard action perform an awesome blow combat maneuver against a corporeal creature of his size or smaller. The living weapon adds his weapon training bonus to this combat maneuver check. If the combat maneuver check succeeds, the opponent takes damage as if the living weapon hit it with an unarmed strike, it is knocked flying 10 feet in a direction of the living weapon’s choice, and it falls prone. The living weapon can only push the opponent in a straight line, and the opponent can’t move closer to the brawler than the square it started in. If an obstacle prevents the completion of the opponent’s move, the opponent and the obstacle each take 1d6 points of damage, and the opponent is knocked prone in the space adjacent to the obstacle.
+A living weapon can as a standard action perform an awesome blow combat maneuver against a corporeal creature of his size or smaller. The living weapon adds his weapon training bonus to this combat maneuver check. If the combat maneuver check succeeds, the opponent takes damage as if the living weapon hit it with an unarmed strike, it is knocked flying 10 feet in a direction of the living weapon’s choice, and it falls [prone](../../../rules/appendices/conditions.md#prone). The living weapon can only push the opponent in a straight line, and the opponent can’t move closer to the brawler than the square it started in. If an obstacle prevents the completion of the opponent’s move, the opponent and the obstacle each take 1d6 points of damage, and the opponent is knocked prone in the space adjacent to the obstacle.
 
 The living weapon must be 15th level to select this option.
 
@@ -97,7 +97,7 @@ This ability replaces autonomic grasp.
 
 **Scholastic (Ex)**
 
-A lore warden gains 2 additional skill ranks each level. These ranks must be spent on Intelligence-based skills. All Craft and Knowledge skills are class skills for lore wardens, as are Linguistics and Spellcraft.
+A lore warden gains 2 additional skill ranks each level. These ranks must be spent on Intelligence-based skills. All [Craft](../../../rules/skills/craft.md) and [Knowledge](../../../rules/skills/knowledge.md) skills are class skills for lore wardens, as are [Linguistics](../../../rules/skills/linguistics.md) and [Spellcraft](../../../rules/skills/spellcraft.md).
 
 This ability replaces the fighter’s proficiency with [medium armor](../../../equipment/armor.md), [heavy armor](../../../equipment/armor.md), and [shields](../../../equipment/armor.md).
 
@@ -125,7 +125,7 @@ At 12th level, a lore warden gains access to the following prowess option:
 
 **Hair’s Breadth (Ex)**
 
-When subject to a critical hit, the lore warden can attempt an Acrobatics check to reduce the damage as an immediate action. If the result of this Acrobatics check is greater than the opponent’s confirmation roll then the lore warden negates the critical hit; the attack still hits and deals normal damage.
+When subject to a critical hit, the lore warden can attempt an [Acrobatics](../../../rules/skills/acrobatics.md) check to reduce the damage as an immediate action. If the result of this Acrobatics check is greater than the opponent’s confirmation roll then the lore warden negates the critical hit; the attack still hits and deals normal damage.
 
 **Know Weakness (Ex)**
 

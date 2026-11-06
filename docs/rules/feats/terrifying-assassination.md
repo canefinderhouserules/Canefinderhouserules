@@ -4,4 +4,4 @@ Though no assassin intends to fail at an assassination attempt, you find ways to
 
 **Prerequisites**: Assassinate ninja master trick, assassinate slayer advanced talent, or death attack.
 
-**Benefit**: If you attempt to instantly kill a foe with a death attack, or with the assassinate master trick or advanced talent, and the target doesn't die, the target is shaken for 2d4 rounds.
+**Benefit**: If you attempt to instantly kill a foe with a death attack, or with the assassinate master trick or advanced talent, and the target doesn't die, the target is [shaken](../appendices/conditions.md#shaken) for 2d4 rounds.

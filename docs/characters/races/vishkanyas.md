@@ -14,9 +14,9 @@ Vishkanyas are a race of exotic humanoids with poisonous blood. Possessed of an 
 
 **Low-Light Vision**: Vishkanyas can see twice as far as humans in conditions of dim light.
 
-**Keen Senses**: Vishkanyas receive a +2 racial bonus on Perception checks.
+**Keen Senses**: Vishkanyas receive a +2 racial bonus on [Perception](../../rules/skills/perception.md) checks.
 
-**Limber**: Vishkanyas receive a +2 racial bonus on Escape Artist and Stealth checks.
+**Limber**: Vishkanyas receive a +2 racial bonus on [Escape Artist](../../rules/skills/escape-artist.md) and [Stealth](../../rules/skills/stealth.md) checks.
 
 **Poison Resistance**: A vishkanya has a racial bonus on saving throws against poison equal to its Hit Dice.
 
@@ -34,9 +34,9 @@ Vishkanyas are a race of exotic humanoids with poisonous blood. Possessed of an 
 
 The following racial traits may be selected instead of existing vishkanya racial traits. Consult your GM before selecting any of these new options.
 
-**Sensual**: You are trained in drawing attention to yourself. You gain a +2 bonus on any one Perform skill. This racial trait replaces keen senses.
+**Sensual**: You are trained in drawing attention to yourself. You gain a +2 bonus on any one [Perform](../../rules/skills/perform.md) skill. This racial trait replaces keen senses.
 
-**Subtle Appearance**: You have normal (humanlike) eyes, and your beauty is more conventional. You gain a +4 bonus on Disguise checks to look fully human. This racial trait replaces low-light vision.
+**Subtle Appearance**: You have normal (humanlike) eyes, and your beauty is more conventional. You gain a +4 bonus on [Disguise](../../rules/skills/disguise.md) checks to look fully human. This racial trait replaces low-light vision.
 
 ## Favored Class Options
 
@@ -82,5 +82,5 @@ Vishkanyas have access to the following equipment.
 
 ### Deceptive
 
-Vishkanya clans that make their livings robbing or killing humans train to distract targets at critical moments. They gain a +2 racial bonus on Bluff checks. This racial trait replaces the racial bonus on Escape Artist checks.
+Vishkanya clans that make their livings robbing or killing humans train to distract targets at critical moments. They gain a +2 racial bonus on [Bluff](../../rules/skills/bluff.md) checks. This racial trait replaces the racial bonus on Escape Artist checks.
 

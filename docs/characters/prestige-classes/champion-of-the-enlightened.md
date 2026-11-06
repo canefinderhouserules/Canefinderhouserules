@@ -27,7 +27,7 @@ To qualify to become a champion of the enlightened, a character must fulfill all
 
 **Deity**: Must worship a deity of perfection, knowledge, or self-improvement.
 
-**Skills**: Knowledge (religion) 3 ranks, 3 ranks total in Linguistics or other Knowledge skills.
+**Skills**: Knowledge (religion) 3 ranks, 3 ranks total in [Linguistics](../../rules/skills/linguistics.md) or other [Knowledge](../../rules/skills/knowledge.md) skills.
 
 **Special**: Smite evil class feature, [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md). You can ignore all of these requirements and instead have 4 levels of [paladin of perfection](../classes/paladin-archetypes.md#paladin-of-perfection), in which case you also gain the aligned class ability (which only works with that paladin archetype).
 
@@ -79,7 +79,7 @@ At 6th level, a champion can use this ability to attack any number of opponents,
 
 **Skill Mastery**: At 6th level, a champion becomes well practiced in a certain number of his skills. This ability functions exactly like the skill mastery advanced rogue talent.
 
-**Perfect Opening (Ex)**: At 7th level, once per round a champion can make an attack of opportunity against an enemy he threatens when that enemy confirms a critical hit against the champion or an ally. The champion can make this attack of opportunity even if he would be killed or incapacitated by the critical hit, resolving the attack after the critical hit deals damage but before he falls unconscious or dies. If the champion’s attack of opportunity hits, it is automatically a critical threat.
+**Perfect Opening (Ex)**: At 7th level, once per round a champion can make an attack of opportunity against an enemy he threatens when that enemy confirms a critical hit against the champion or an ally. The champion can make this attack of opportunity even if he would be killed or incapacitated by the critical hit, resolving the attack after the critical hit deals damage but before he falls [unconscious](../../rules/appendices/conditions.md#unconscious) or dies. If the champion’s attack of opportunity hits, it is automatically a critical threat.
 
 **One Finger (Su)**: At 8th level, as a standard action, a champion can resolve a single unarmed attack as a melee touch attack.
 

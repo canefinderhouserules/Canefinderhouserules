@@ -12,7 +12,7 @@ You mask and manipulate the target creature’s or object’s aura, confounding 
 
 **Alignment Aura**: You can change the target’s apparent alignment to thwart spells that detect alignment, such as detect evil. You can alter the alignment by up to one step on each alignment axis, but can’t make the creature appear to have a diametrically opposed alignment. For instance, you couldn’t make a lawful evil character appear to be chaotic or good. You can also adjust the power of the alignment aura up or down in level by a number of steps equal to 1/2 your level or fewer.
 
-**Emotion Aura**: Your manipulations mask the true emotions of the target, instead depicting any combination of colors on the emotional spectrum that you wish. Creatures attempting Bluff, Diplomacy, Intimidate, or Sense Motive checks against the target receive no bonuses on their checks based on information gleaned from the target’s aura.
+**Emotion Aura**: Your manipulations mask the true emotions of the target, instead depicting any combination of colors on the emotional spectrum that you wish. Creatures attempting [Bluff](../../rules/skills/bluff.md), [Diplomacy](../../rules/skills/diplomacy.md), [Intimidate](../../rules/skills/intimidate.md), or [Sense Motive](../../rules/skills/sense-motive.md) checks against the target receive no bonuses on their checks based on information gleaned from the target’s aura.
 
 **Health Aura**: You adulterate the target’s aura to mask the condition of its physical body, revealing instead a wounded status, poison or disease status, and conditions of your choice. You likewise mask the target’s available ki points or similar resources, manipulating its aura to suggest any number within the range normally available to the target.
 

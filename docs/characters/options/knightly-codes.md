@@ -13,7 +13,7 @@ Knights who follow the code of freedom believe that no man, woman, or child shou
 - When visiting others who keep servants, I will treat them honorably. I shall inquire as to their happiness and treatment. Those who are treated as no more than slaves will gain my strength to support them.
 - Shackles and bonds are forbidden unless used on an individual convicted of a crime. Placing another person in chains is akin to being a slaver.
 
-**Enemy of Slavers** *(social trait)*: You are known to be single-minded with regard to slavery, and this fervent belief is easily perceived by others. Those who deal in flesh have a greater desire to appease you before matters escalate to confrontation, knowing that your wrath will be unwavering and swift. You gain a +2 trait bonus on Diplomacy and Intimidate checks made to sway the minds of slavers and anyone who otherwise keeps innocent people against their will.
+**Enemy of Slavers** *(social trait)*: You are known to be single-minded with regard to slavery, and this fervent belief is easily perceived by others. Those who deal in flesh have a greater desire to appease you before matters escalate to confrontation, knowing that your wrath will be unwavering and swift. You gain a +2 trait bonus on [Diplomacy](../../rules/skills/diplomacy.md) and [Intimidate](../../rules/skills/intimidate.md) checks made to sway the minds of slavers and anyone who otherwise keeps innocent people against their will.
 
 **Penance**: A knight who violates this code must place herself in servitude to the individual who was wronged (or a person of equivalent social class if the exact individual cannot be found). Minor transgressions require a day; if an entire family was enslaved as a result of the knight's actions (or inaction), up to a month of servitude might be required.
 
@@ -61,7 +61,7 @@ Knights who follow the code of valor believe that nothing is more important than
 
 ## Code of Vigilance
 
-Knights who follow the code of vigilance believe that people are prone to chaos and society will eventually devolve into anarchy if given the opportunity. In order for society to continue, these knights must constantly remind people of the law, and take it upon themselves to enforce it in the absence of other authority figures.
+Knights who follow the code of vigilance believe that people are [prone](../../rules/appendices/conditions.md#prone) to chaos and society will eventually devolve into anarchy if given the opportunity. In order for society to continue, these knights must constantly remind people of the law, and take it upon themselves to enforce it in the absence of other authority figures.
 
 - I will be familiar with local laws and adhere to them strictly.
 - If I witness a crime, I will attempt to capture the criminal and report his actions to the authorities.
@@ -69,6 +69,6 @@ Knights who follow the code of vigilance believe that people are prone to chaos 
 - I shall mete out appropriate punishment for those who violate the law, but only if no acceptable authority is readily available.
 - I shall remember that none are above the law, and that law is absolute. There shall be no mitigating circumstances for any individual, regardless of station or position.
 
-**Law Enforcer** *(social trait)*: You are always alert to those who transgress against the laws of civilization. You receive a +2 bonus on Sense Motive checks to gain a hunch from social situations, and begin play with a pair of masterwork manacles.
+**Law Enforcer** *(social trait)*: You are always alert to those who transgress against the laws of civilization. You receive a +2 bonus on [Sense Motive](../../rules/skills/sense-motive.md) checks to gain a hunch from social situations, and begin play with a pair of masterwork manacles.
 
 **Penance**: A knight who violates this code must perform penance based on the violation. If she is disgraced for violating the law when it was not acceptable, she must voluntarily surrender to the appropriate authority and receive proper punishment. If she allowed a criminal to escape, she must assist in the capture and punishment of the criminal.

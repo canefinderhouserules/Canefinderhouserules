@@ -20,7 +20,7 @@ Duergar dwell in subterranean caverns far from the touch of light. They detest a
 
 **Spell-Like Abilities**: A duergar can use [*enlarge person*](../../magic/spells/enlarge-person.md) and [*invisibility*](../../magic/spells/invisibility.md) once each per day, using its character level as its caster level and affecting itself only.
 
-**Light Sensitivity**: Duergar are dazzled in areas of bright light.
+**Light Sensitivity**: Duergar are [dazzled](../../rules/appendices/conditions.md#dazzled) in areas of bright light.
 
 **Languages**: Duergar begin play speaking Common, Dwarven, and Undercommon. Duergar with high Intelligence scores can choose from the following: Aklo, Draconic, Giant, Goblin, Orc, and Terran.
 

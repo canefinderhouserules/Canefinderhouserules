@@ -15,7 +15,7 @@ The following phrenic amplifications are available to any psychic.
 
 **Psychofeedback (Su)**: The psychic can spend 2 points from her phrenic pool to sacrifice a linked spell of 2nd level or higher. Doing so grants the psychic a +1 enhancement bonus to Strength, Dexterity, or Constitution per level of the sacrificed spell. This bonus lasts for 1 minute per psychic level.
 
-**Telempathic Restoration (Su)**: When the psychic casts [*telepathic bond*](../../magic/spells/telepathic-bond.md), she can spend 1 point from her phrenic pool to remove the dazed, frightened, panicked, shaken, or stunned condition from one target of the bond. Doing so removes the status from the target of the linked spell, but applies it immediately (with any remaining duration) to the psychic.
+**Telempathic Restoration (Su)**: When the psychic casts [*telepathic bond*](../../magic/spells/telepathic-bond.md), she can spend 1 point from her phrenic pool to remove the [dazed](../../rules/appendices/conditions.md#dazed), [frightened](../../rules/appendices/conditions.md#frightened), [panicked](../../rules/appendices/conditions.md#panicked), [shaken](../../rules/appendices/conditions.md#shaken), or [stunned](../../rules/appendices/conditions.md#stunned) condition from one target of the bond. Doing so removes the status from the target of the linked spell, but applies it immediately (with any remaining duration) to the psychic.
 
 **Transfer Fear (Su)**: When the psychic successfully affects a target with a fear effect, she can spend 1 point from her phrenic pool to remove a fear effect from herself or one ally with whom she is in telepathic contact.
 
@@ -39,11 +39,11 @@ Your quest for enlightenment has opened your eyes to new concepts and heights of
 
 **Expanded Awareness (Su)**: As a move action, you can focus on your senses and gain one of the following sensory abilities: blindsense (10 feet), darkvision (30 feet), low-light vision, or scent. This new sense lasts for 1 round per psychic level. You can use this ability a number of times per day equal to your Wisdom modifier. At 11th level, you can use expanded awareness to gain see in darkness or thoughtsense (20 feet). At 15th level, you can use it to gain lifesense.
 
-**Patient Insight (Ex)**: When you attempt a Heal, Knowledge, Sense Motive, or Survival check, you can spend 1 point from your phrenic pool to roll the check twice and take the higher result.
+**Patient Insight (Ex)**: When you attempt a [Heal](../../rules/skills/heal.md), [Knowledge](../../rules/skills/knowledge.md), [Sense Motive](../../rules/skills/sense-motive.md), or [Survival](../../rules/skills/survival.md) check, you can spend 1 point from your phrenic pool to roll the check twice and take the higher result.
 
-**Focused Trance (Ex)**: At 5th level, you can enter a deep meditation, allowing you to concentrate on a single problem, philosophical issue, or memory. This trance lasts 1d6 rounds, during which time you can take only move actions and gain a bonus equal to your psychic level on all saves against sonic effects and gaze attacks. When you come out of your trance, you can attempt a single Appraise, Knowledge, or Spellcraft check with a +20 circumstance bonus. You can enter a focused trance a number of times per day equal to your Wisdom modifier.
+**Focused Trance (Ex)**: At 5th level, you can enter a deep meditation, allowing you to concentrate on a single problem, philosophical issue, or memory. This trance lasts 1d6 rounds, during which time you can take only move actions and gain a bonus equal to your psychic level on all saves against sonic effects and gaze attacks. When you come out of your trance, you can attempt a single [Appraise](../../rules/skills/appraise.md), Knowledge, or [Spellcraft](../../rules/skills/spellcraft.md) check with a +20 circumstance bonus. You can enter a focused trance a number of times per day equal to your Wisdom modifier.
 
-**Empty Mind (Su)**: At 13th level, you can clear your mind by focusing on a sense of emptiness, purging yourself of doubt and discomfort. You can spend 1 point from your phrenic pool on your turn as a free action to remove the blinded, confused, dazed, deafened, staggered, or stunned condition from yourself.
+**Empty Mind (Su)**: At 13th level, you can clear your mind by focusing on a sense of emptiness, purging yourself of doubt and discomfort. You can spend 1 point from your phrenic pool on your turn as a free action to remove the [blinded](../../rules/appendices/conditions.md#blinded), [confused](../../rules/appendices/conditions.md#confused), dazed, [deafened](../../rules/appendices/conditions.md#deafened), [staggered](../../rules/appendices/conditions.md#staggered), or stunned condition from yourself.
 
 ### Pageantry
 

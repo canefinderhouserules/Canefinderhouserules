@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** Will half; **Spell Resistance** yes
 
-This functions as mind thrust IV, but the target is also exhausted for 1 round if it fails its save and fatigued for 1 round if it succeeds at its save. This spell can be undercast.
+This functions as mind thrust IV, but the target is also [exhausted](../../rules/appendices/conditions.md#exhausted) for 1 round if it fails its save and [fatigued](../../rules/appendices/conditions.md#fatigued) for 1 round if it succeeds at its save. This spell can be undercast.

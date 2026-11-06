@@ -8,4 +8,4 @@ An inexhaustible arsenal lies in the Shadow Plane, waiting to be unleashed.
 
 **Benefit**: As a swift action, you can thin the barriers between yourself and the Shadow Plane, allowing you to create shadow weapons more easily. While this effect is active, you can create new shadow weapons as a free action. This does not increase the number of shadow weapons you can maintain at a single time.
 
-You can use this feat's benefit for a number of rounds per day equal to your ranks in Knowledge (planes). These rounds need not be consecutive.
+You can use this feat's benefit for a number of rounds per day equal to your ranks in [Knowledge](../skills/knowledge.md) (planes). These rounds need not be consecutive.

@@ -55,11 +55,11 @@ Once per day, a cavalier can challenge a foe to combat. As a swift action, the c
 
 Challenging a foe requires much of the cavalier’s concentration. The cavalier takes a –2 penalty to his Armor Class, except against attacks made by the target of his challenge.
 
-The challenge remains in effect until the target is dead or unconscious or until the combat ends. Each cavalier’s challenge also includes another effect which is listed in the section describing the cavalier’s order.
+The challenge remains in effect until the target is dead or [unconscious](../../rules/appendices/conditions.md#unconscious) or until the combat ends. Each cavalier’s challenge also includes another effect which is listed in the section describing the cavalier’s order.
 
 ### Mount (Ex)
 
-A cavalier gains the service of a loyal and trusty steed to carry him into battle. This mount functions as a druid’s animal companion, using the cavalier’s level as his effective druid level. The creature must be one that he is capable of riding and is suitable as a mount. A Medium cavalier can select a camel or a horse. A Small cavalier can select a pony or wolf, but can also select a boar or a dog if he is at least 4th level. The GM might approve other animals as suitable mounts. A cavalier does not take an armor check penalty on Ride checks while riding his mount. The mount is always considered combat trained and begins play with [Light Armor](../../equipment/armor.md) Proficiency as a bonus feat. A cavalier’s mount does not gain the share spells special ability.
+A cavalier gains the service of a loyal and trusty steed to carry him into battle. This mount functions as a druid’s animal companion, using the cavalier’s level as his effective druid level. The creature must be one that he is capable of riding and is suitable as a mount. A Medium cavalier can select a camel or a horse. A Small cavalier can select a pony or wolf, but can also select a boar or a dog if he is at least 4th level. The GM might approve other animals as suitable mounts. A cavalier does not take an armor check penalty on [Ride](../../rules/skills/ride.md) checks while riding his mount. The mount is always considered combat trained and begins play with [Light Armor](../../equipment/armor.md) Proficiency as a bonus feat. A cavalier’s mount does not gain the share spells special ability.
 
 A cavalier’s bond with his mount is strong, with the pair learning to anticipate each other’s moods and moves. Should a cavalier’s mount die, the cavalier may find another mount to serve him after 1 week of mourning.
 
@@ -117,7 +117,7 @@ At 17th level, the cavalier receives an additional teamwork feat as a bonus feat
 
 ### Supreme Charge (Ex)
 
-At 20th level, whenever the cavalier makes a charge attack while mounted, he deals double the normal amount of damage (or triple if using a lance). In addition, if the cavalier confirms a critical hit on a charge attack while mounted, the target is stunned for 1d4 rounds. A Will save reduces this to staggered for 1d4 rounds. The DC is equal to 10 + the cavalier’s base attack bonus.
+At 20th level, whenever the cavalier makes a charge attack while mounted, he deals double the normal amount of damage (or triple if using a lance). In addition, if the cavalier confirms a critical hit on a charge attack while mounted, the target is [stunned](../../rules/appendices/conditions.md#stunned) for 1d4 rounds. A Will save reduces this to [staggered](../../rules/appendices/conditions.md#staggered) for 1d4 rounds. The DC is equal to 10 + the cavalier’s base attack bonus.
 
 ## Cavalier Orders
 
@@ -167,9 +167,9 @@ Hobgoblins have long taken advantage of the tactical edge darkvision gives them 
 
 **Edicts**: The samurai cannot create light where it is not necessary—anything that can be done in darkness should be. The samurai must belong to a military organization (likely a warband commanded by a senior samurai). The samurai must enforce his place within this order and societies that recognize its authority, obeying those senior to him without question and demanding total obedience from those beneath him. The samurai must take every opportunity to extinguish the lights of his foes.
 
-**Challenge**: The order of the eclipse samurai gains a +1 bonus on all Intimidate checks made against the target of his challenge. This bonus increases by 1 for every four levels the samurai possesses.
+**Challenge**: The order of the eclipse samurai gains a +1 bonus on all [Intimidate](../../rules/skills/intimidate.md) checks made against the target of his challenge. This bonus increases by 1 for every four levels the samurai possesses.
 
-**Skills**: An order of the eclipse samurai adds Perception (Wis) and Survival (Wis) to his list of class skills. In addition, whenever he makes a Perception check to notice an invisible creature or object, he receives a bonus on the check equal to 1/2 his samurai level (minimum +1).
+**Skills**: An order of the eclipse samurai adds Perception (Wis) and Survival (Wis) to his list of class skills. In addition, whenever he makes a [Perception](../../rules/skills/perception.md) check to notice an invisible creature or object, he receives a bonus on the check equal to 1/2 his samurai level (minimum +1).
 
 **Order Abilities**: A samurai that belongs to the order of the eclipse gains the following abilities as he increases in level.
 
@@ -187,11 +187,11 @@ A cavalier who belongs to this order has pledged himself to a sovereign; be it a
 
 **Challenge**: Whenever an order of the lion cavalier issues a challenge, he receives a +1 dodge bonus to his AC against attacks made by the target of his challenge. This bonus increases by +1 for every four levels the cavalier possesses.
 
-**Skills**: An order of the lion cavalier adds Knowledge (local) (Int) and Knowledge (nobility) (Int) to his list of class skills. An order of the lion cavalier can make Knowledge (nobility) skill checks untrained. If he has ranks in the skill, he receives a bonus on the check equal to 1/2 his cavalier level (minimum +1) as long as the check involves his sovereign.
+**Skills**: An order of the lion cavalier adds Knowledge (local) (Int) and Knowledge (nobility) (Int) to his list of class skills. An order of the lion cavalier can make [Knowledge](../../rules/skills/knowledge.md) (nobility) skill checks untrained. If he has ranks in the skill, he receives a bonus on the check equal to 1/2 his cavalier level (minimum +1) as long as the check involves his sovereign.
 
 **Order Abilities**: A cavalier belonging to the order of the lion gains the following abilities as he increases in level.
 
-**Lion’s Call (Ex)**: At 2nd level, an order of the lion cavalier gains the ability to rally his allies. As a standard action, he can give an encouraging speech which grants all allies within 60 feet a competence bonus on their saving throws against fear equal to his Charisma modifier and a +1 competence bonus on attack rolls for a number of rounds equal to his cavalier level. If an ally within range is under the effect of a spell or ability that causes him to be frightened or panicked, he can immediately make another saving throw to resist the effect (if allowed).
+**Lion’s Call (Ex)**: At 2nd level, an order of the lion cavalier gains the ability to rally his allies. As a standard action, he can give an encouraging speech which grants all allies within 60 feet a competence bonus on their saving throws against fear equal to his Charisma modifier and a +1 competence bonus on attack rolls for a number of rounds equal to his cavalier level. If an ally within range is under the effect of a spell or ability that causes him to be [frightened](../../rules/appendices/conditions.md#frightened) or [panicked](../../rules/appendices/conditions.md#panicked), he can immediately make another saving throw to resist the effect (if allowed).
 
 **For the King (Ex)**: At 8th level, an order of the lion cavalier can call out to his allies, inspiring them to greatness. As a swift action, the cavalier can grant a competence bonus equal to his Charisma modifier on all attack and damage rolls to all allies within 30 feet. This bonus lasts for 1 round. This ability can be used once per combat.
 
@@ -225,7 +225,7 @@ Cavaliers who join the order of the shield devote their lives to protecting the 
 
 **Challenge**: Whenever an order of the shield cavalier issues a challenge, he receives a +1 morale bonus on attack rolls made against the target of his challenge if the target makes an attack against a target other than the cavalier. This bonus lasts for 1 minute. The bonus increases by +1 for every four levels the cavalier possesses.
 
-**Skills**: An order of the shield cavalier adds Heal (Wis) and Knowledge (local) (Int) to his list of class skills. Whenever an order of the shield cavalier uses the Heal skill on a creature other than himself, he receives a bonus on the check equal to 1/2 his cavalier level (minimum +1).
+**Skills**: An order of the shield cavalier adds Heal (Wis) and Knowledge (local) (Int) to his list of class skills. Whenever an order of the shield cavalier uses the [Heal](../../rules/skills/heal.md) skill on a creature other than himself, he receives a bonus on the check equal to 1/2 his cavalier level (minimum +1).
 
 **Order Abilities**: A cavalier belonging to the order of the shield gains the following abilities as he increases in level.
 
@@ -261,7 +261,7 @@ Cavaliers who join the order of the sword dedicate their lives to the code of ch
 
 **Challenge**: Whenever an order of the sword cavalier issues a challenge, he receives a +1 morale bonus on attack rolls against the target of his challenge so long as he is astride his mount. The bonus increases by +1 for every four levels the cavalier possesses.
 
-**Skills**: An order of the sword cavalier adds Knowledge (nobility) (Int) and Knowledge (religion) (Int) to his list of class skills. Whenever the cavalier uses Sense Motive to oppose a Bluff check, he receives a competence bonus on the check equal to 1/2 his cavalier level (minimum +1).
+**Skills**: An order of the sword cavalier adds Knowledge (nobility) (Int) and Knowledge (religion) (Int) to his list of class skills. Whenever the cavalier uses Sense Motive to oppose a [Bluff](../../rules/skills/bluff.md) check, he receives a competence bonus on the check equal to 1/2 his cavalier level (minimum +1).
 
 **Order Abilities**: An order of the sword cavalier receives the following abilities as he increases in level.
 
@@ -321,7 +321,7 @@ A cavalier belonging to this order seeks only destruction and chaos. Cavaliers o
 
 **Challenge**: Whenever an order of the beast cavalier issues a challenge, he receives a +1 morale bonus on all damage rolls while using Cleave or [Great Cleave](../../rules/feats/great-cleave.md) so long as the target of his challenge is the first creature attacked. This bonus increases by 1 for every 4 levels the cavalier possesses.
 
-**Skills**: An order of the beast cavalier adds Disable Device (Dex) and Stealth (Dex) to his list of class skills. An order of the beast cavalier can make Disable Device checks untrained. If he has ranks in the skill, he receives a bonus on the check equal to 1/2 his cavalier level (minimum +1) when using it to sabotage, jam, or destroy a device.
+**Skills**: An order of the beast cavalier adds Disable Device (Dex) and Stealth (Dex) to his list of class skills. An order of the beast cavalier can make [Disable Device](../../rules/skills/disable-device.md) checks untrained. If he has ranks in the skill, he receives a bonus on the check equal to 1/2 his cavalier level (minimum +1) when using it to sabotage, jam, or destroy a device.
 
 **Order Abilities**: A cavalier belonging to the order of the beast gains the following abilities as he increases in level.
 
@@ -343,7 +343,7 @@ Cavaliers who join the order of the guard dedicate themselves to the staunch and
 
 **Order Abilities**: An order of the guard cavalier gains the following abilities as he increases in level.
 
-**Prepared for the Journey (Ex)**: At 2nd level, the cavalier can prepare for the terrain through which he will be traveling with 48 hours of study and customization of his equipment. He can select any terrain type from the list available to a ranger for his favored terrain class feature. While in the selected terrain, the cavalier gains a +2 bonus on initiative checks and on Knowledge (geography), Perception, Stealth, and Survival skill checks. At 8th level and every 6 levels thereafter, this bonus increases by 1. Additionally, when calculating overland movement speed in the selected terrain, the cavalier and his mount treat trackless terrain as though it contains a road or trail, and terrain with a road or trail as though it were a highway. If traveling along a highway, the cavalier and his mount can travel for 10 hours before needing to attempt Constitution checks for a forced march.
+**Prepared for the Journey (Ex)**: At 2nd level, the cavalier can prepare for the terrain through which he will be traveling with 48 hours of study and customization of his equipment. He can select any terrain type from the list available to a ranger for his favored terrain class feature. While in the selected terrain, the cavalier gains a +2 bonus on initiative checks and on Knowledge (geography), Perception, [Stealth](../../rules/skills/stealth.md), and [Survival](../../rules/skills/survival.md) skill checks. At 8th level and every 6 levels thereafter, this bonus increases by 1. Additionally, when calculating overland movement speed in the selected terrain, the cavalier and his mount treat trackless terrain as though it contains a road or trail, and terrain with a road or trail as though it were a highway. If traveling along a highway, the cavalier and his mount can travel for 10 hours before needing to attempt Constitution checks for a forced march.
 
 **Close at Hand (Ex)**: At 8th level, when the cavalier is within 30 feet of his ward, he gains a +1 morale bonus on attack rolls, damage rolls, and saving throws. If his ward is captured, stolen, or otherwise in the possession or control of the cavalier's enemies, the cavalier loses these benefits. In their place, he gains the effects of a [*locate object*](../../magic/spells/locate-object.md) or [*status*](../../magic/spells/status.md) spell (depending on the nature of his ward) targeting his ward and lasting 24 hours. When moving toward his ward, the cavalier and his mount increase their speed by 10 feet. At 12th level and every 4 levels thereafter, the bonus on attack and damage rolls and on saving throws increases by 1 and the bonus to speed increases by 5 feet.
 
@@ -355,7 +355,7 @@ Cavaliers belonging to the order of the asp belong to a cutthroat group where ru
 
 **Edicts**: An order of the asp cavalier must endeavor to enhance her prestige, wealth, and power, as well as that of her patrons. She must endeavor to maximize her profits and efficiency, directing hirelings and even sacrificing them when doing so would further her goals and make her appear exceptional by comparison.
 
-**Challenge**: Whenever an order of the asp cavalier issues a challenge, she receives a +1 morale bonus on attack and damage rolls made against the target of the challenge so long as it is entangled, exhausted, fatigued, flanked, nauseated, prone, shaken, staggered, or denied its Dexterity bonus to AC. This bonus increases by 1 for every 4 levels the cavalier has.
+**Challenge**: Whenever an order of the asp cavalier issues a challenge, she receives a +1 morale bonus on attack and damage rolls made against the target of the challenge so long as it is [entangled](../../rules/appendices/conditions.md#entangled), [exhausted](../../rules/appendices/conditions.md#exhausted), [fatigued](../../rules/appendices/conditions.md#fatigued), flanked, [nauseated](../../rules/appendices/conditions.md#nauseated), [prone](../../rules/appendices/conditions.md#prone), [shaken](../../rules/appendices/conditions.md#shaken), staggered, or denied its Dexterity bonus to AC. This bonus increases by 1 for every 4 levels the cavalier has.
 
 **Skills**: An order of the asp cavalier adds Knowledge (local) and Sleight of Hand to her list of class skills. The cavalier gains a bonus on Knowledge (local) checks equal to half her cavalier level (minimum +1) as long as the check involves her patrons or organization. She also reduces her armor check penalty when using Sleight of Hand by an amount equal to half her cavalier level (to a minimum of 0).
 
@@ -375,7 +375,7 @@ Cavaliers of the order of the hammer respect might over all, and believe that th
 
 **Challenge**: An order of the hammer cavalier can attempt a free grapple check or free sunder combat maneuver check anytime she takes the full-attack action against the target of her challenge. This free combat maneuver does not provoke an attack of opportunity.
 
-**Skills**: An order of the hammer cavalier adds Acrobatics (Dex) and Knowledge (local) (Int) to her list of class skills. In addition, whenever the cavalier uses Acrobatics to jump, she can add her Strength bonus to the check in addition to her Dexterity modifier, and she receives a bonus on Acrobatics checks to jump equal to 1/2 her cavalier level (minimum +1).
+**Skills**: An order of the hammer cavalier adds Acrobatics (Dex) and Knowledge (local) (Int) to her list of class skills. In addition, whenever the cavalier uses Acrobatics to jump, she can add her Strength bonus to the check in addition to her Dexterity modifier, and she receives a bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks to jump equal to 1/2 her cavalier level (minimum +1).
 
 **Order Abilities**: A cavalier belonging to the order of the hammer gains the following abilities as she increases in level.
 

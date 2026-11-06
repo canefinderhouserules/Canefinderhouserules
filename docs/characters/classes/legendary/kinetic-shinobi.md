@@ -78,7 +78,7 @@ At 1st level, and every 2 levels thereafter, the kinetic shinobi gains a shinobi
 
 ***Ki* Pool (Su):** At 2nd level, a kinetic shinobi gains a pool of *ki* points, supernatural energy they can use to accomplish amazing feats. The number of points in the kinetic shinobi’s *ki* pool is equal to 1/2 their kinetic shinobi level + their Charisma modifier. As long as they have at least 1 point in their *ki* pool, they gain access to the hadou techniques listed below.
 
-By spending 1 point from their *ki* pool, a kinetic shinobi gains either a +1 to attack rolls when using the physical jutsu infusion or +2 to damage rolls when using the elemental jutsu infusion for 1 minute. For every 4 levels after 1st, this bonus increases by +1 for attack rolls or by +2 for damage rolls. In addition, they can spend 1 point to gain a +20 bonus on Acrobatics checks to jump for 1 round. Finally, a kinetic shinobi can spend 1 point from their *ki* pool to give themselves a +4 bonus for 1 round to checks with the skills associated with their elemental focus. A kinetic shinobi can gain additional powers that consume points from their *ki* pool by selecting certain shinobi talents.
+By spending 1 point from their *ki* pool, a kinetic shinobi gains either a +1 to attack rolls when using the physical jutsu infusion or +2 to damage rolls when using the elemental jutsu infusion for 1 minute. For every 4 levels after 1st, this bonus increases by +1 for attack rolls or by +2 for damage rolls. In addition, they can spend 1 point to gain a +20 bonus on [Acrobatics](../../../rules/skills/acrobatics.md) checks to jump for 1 round. Finally, a kinetic shinobi can spend 1 point from their *ki* pool to give themselves a +4 bonus for 1 round to checks with the skills associated with their elemental focus. A kinetic shinobi can gain additional powers that consume points from their *ki* pool by selecting certain shinobi talents.
 
 The *ki* pool is replenished each morning after 8 hours of rest or meditation; these hours do not need to be consecutive. If the kinetic shinobi possesses levels in another class that grants points to a *ki* pool, kinetic shinobi levels stack with the levels of that class to determine the total number of *ki* points in the combined pool, but only one ability score modifier is added to the total. The choice of which score to use is made when the second class ability is gained, and once made, the choice is set. The kinetic shinobi can now use *ki* points from this pool to power the abilities of every class they possess that grants a *ki* pool.
 
@@ -104,7 +104,7 @@ The kinetic shinobi must be able to see the target well enough to pick out a vit
 
 ### No Trace (Ex)
 
-At 3rd level, a kinetic shinobi learns to cover their tracks, remain hidden, and conceal their presence. The DC to track a kinetic shinobi using the Survival skill increases by +1. In addition, their training gives them a +1 insight bonus on Disguise skill checks and on opposed Stealth checks whenever they are stationary and do not take any action for at least 1 round. Every three levels thereafter, the increase to Survival DCs and the bonuses on Disguise and opposed Stealth checks increase by 1.
+At 3rd level, a kinetic shinobi learns to cover their tracks, remain hidden, and conceal their presence. The DC to track a kinetic shinobi using the [Survival](../../../rules/skills/survival.md) skill increases by +1. In addition, their training gives them a +1 insight bonus on [Disguise](../../../rules/skills/disguise.md) skill checks and on opposed [Stealth](../../../rules/skills/stealth.md) checks whenever they are stationary and do not take any action for at least 1 round. Every three levels thereafter, the increase to Survival DCs and the bonuses on Disguise and opposed Stealth checks increase by 1.
 
 ### Gather Power (Su)
 
@@ -130,7 +130,7 @@ At 18th level they can spend 4 points from their *ki* pool to have their kinetic
 
 ### Evasion (Ex)
 
-At 7th level and higher, a kinetic shinobi can avoid even magical and unusual attacks with great agility. If they make a successful Reflex saving throw against an attack that normally deals half damage on a successful save, they instead take no damage. Evasion can be used only if the kinetic shinobi is wearing light armor or no armor. A helpless kinetic shinobi does not gain the benefit of evasion.
+At 7th level and higher, a kinetic shinobi can avoid even magical and unusual attacks with great agility. If they make a successful Reflex saving throw against an attack that normally deals half damage on a successful save, they instead take no damage. Evasion can be used only if the kinetic shinobi is wearing light armor or no armor. A [helpless](../../../rules/appendices/conditions.md#helpless) kinetic shinobi does not gain the benefit of evasion.
 
 ### Jutsu Genius (Su)
 
@@ -206,11 +206,11 @@ Kinetic shinobi can come from all walks of life, and the individual’s culture 
 
 - **Aasimar:** +1/4 bonus to DCs of aether element infusions.
 
-- **Catfolk:** +1/2 bonus to Stealth checks and on Sleight of Hand checks made to hide objects on their person.
+- **Catfolk:** +1/2 bonus to Stealth checks and on [Sleight of Hand](../../../rules/skills/sleight-of-hand.md) checks made to hide objects on their person.
 
 - **Dhampir:** +1/2 bonus to damage rolls when using negative blast or composite blasts with negative blast as a component.
 
-- **Drow:** +1 bonus to Craft (alchemy) checks to create poison and +1/3 bonus to DCs of poisons delivered with toxic jutsu.
+- **Drow:** +1 bonus to [Craft](../../../rules/skills/craft.md) (alchemy) checks to create poison and +1/3 bonus to DCs of poisons delivered with toxic jutsu.
 
 - **Changeling:** +1/2 bonus to Disguise checks to appear human
 
@@ -222,9 +222,9 @@ Kinetic shinobi can come from all walks of life, and the individual’s culture 
 
 - **Fetchling:** +1/4 bonus to DCs of void element infusions.
 
-- **Gillman:** +1/2 bonus to Bluff checks to lie and Linguistics checks to create forgeries.
+- **Gillman:** +1/2 bonus to [Bluff](../../../rules/skills/bluff.md) checks to lie and [Linguistics](../../../rules/skills/linguistics.md) checks to create forgeries.
 
-- **Gnome:** +1/2 bonus on Use Magic Device checks to use scrolls and spell trigger items.
+- **Gnome:** +1/2 bonus on [Use Magic Device](../../../rules/skills/use-magic-device.md) checks to use scrolls and spell trigger items.
 
 - **Goblin:** +1 bonus on damage rolls with fire element blasts against foes caught on fire by their burning infusion.
 
@@ -248,7 +248,7 @@ Kinetic shinobi can come from all walks of life, and the individual’s culture 
 
 - **Merfolk:** +1/2 to damage with water element blasts while in or near water.
 
-- **Nagaji:** +1/2 bonus to saves against mind-affecting effects used by naga and +1/2 bonus to DCs against Intimidate and Diplomacy checks made by naga to change their attitude.
+- **Nagaji:** +1/2 bonus to saves against mind-affecting effects used by naga and +1/2 bonus to DCs against [Intimidate](../../../rules/skills/intimidate.md) and [Diplomacy](../../../rules/skills/diplomacy.md) checks made by naga to change their attitude.
 
 - **Orc:** +1/3 damage added to melee weapons by empower weapons.
 
@@ -260,7 +260,7 @@ Kinetic shinobi can come from all walks of life, and the individual’s culture 
 
 - **Strix:** +1 damage bonus to their kinetic blast used against humans.
 
-- **Suli:** +1/2 bonus to Diplomacy and Sense Motive checks.
+- **Suli:** +1/2 bonus to Diplomacy and [Sense Motive](../../../rules/skills/sense-motive.md) checks.
 
 - **Svirfneblin:** +1/2 bonus to DC of the *nondetection*effect provided by the svirfneblin magic and stoneseer racial traits.
 

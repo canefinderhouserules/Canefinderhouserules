@@ -63,7 +63,7 @@ Her grit goes up or down throughout the day, but usually cannot go higher than h
 
 ### Critical Hit with a Firearm
 
-Each time the gunslinger confirms a critical hit with a firearm attack while in the heat of combat, she regains 1 grit point. Confirming a critical hit on a helpless or unaware creature or on a creature that has fewer Hit Dice than half the gunslinger’s character level does not restore grit.
+Each time the gunslinger confirms a critical hit with a firearm attack while in the heat of combat, she regains 1 grit point. Confirming a critical hit on a [helpless](../../rules/appendices/conditions.md#helpless) or unaware creature or on a creature that has fewer Hit Dice than half the gunslinger’s character level does not restore grit.
 
 ### Killing Blow with a Firearm
 
@@ -79,7 +79,7 @@ At 1st level, the gunslinger can resolve an attack against touch AC instead of n
 
 ### Gunslinger’s Dodge (Ex)
 
-At 1st level, the gunslinger gains an uncanny knack for getting out of the way of ranged attacks. When a ranged attack is made against the gunslinger, she can spend 1 grit point to move 5 feet as an immediate action; doing so grants the gunslinger a +2 bonus to AC against the triggering attack. This movement is not a 5-foot step, and provokes attacks of opportunity. Alternatively, the gunslinger can drop prone to gain a +4 bonus to AC against the triggering attack. The gunslinger can only perform this deed while wearing medium or light armor, and while carrying no more than a light load.
+At 1st level, the gunslinger gains an uncanny knack for getting out of the way of ranged attacks. When a ranged attack is made against the gunslinger, she can spend 1 grit point to move 5 feet as an immediate action; doing so grants the gunslinger a +2 bonus to AC against the triggering attack. This movement is not a 5-foot step, and provokes attacks of opportunity. Alternatively, the gunslinger can drop [prone](../../rules/appendices/conditions.md#prone) to gain a +4 bonus to AC against the triggering attack. The gunslinger can only perform this deed while wearing medium or light armor, and while carrying no more than a light load.
 
 ### Quick Clear (Ex)
 
@@ -97,7 +97,7 @@ At 3rd level, the gunslinger can make a surprise melee attack with the butt or h
 
 At 3rd level, if the gunslinger has at least 1 grit point, she can perform all of the following utility shots. Each utility shot can be applied to any single attack with a firearm, but the gunslinger must declare the utility shot she is using before firing the shot.
 
-- **Blast Lock**: The gunslinger makes an attack roll against a lock within the first range increment of her firearm. A Diminutive lock usually has AC 7, and larger locks have a lower AC. The lock gains a bonus to its AC against this attack based on its quality. A simple lock has a +10 bonus to AC, an average lock has a +15 bonus to AC, a good lock has a +20 bonus to AC, and a superior lock has a +30 bonus to AC. Arcane lock grants a +10 bonus to the AC of a lock against this attack. On a hit, the lock is destroyed, and the object can be opened as if it were unlocked. On a miss, the lock is destroyed, but the object is jammed and still considered locked. It can still be unlocked by successfully performing this deed, by using the Disable Device skill, or with the break DC, though the DC for either break or Disable Device or the AC increases by 10. A key, combination, or similar mechanical method of unlocking the lock no longer works, though knock can still be employed to bypass the lock, and the creator of an arcane lock can still bypass the wards of that spell.
+- **Blast Lock**: The gunslinger makes an attack roll against a lock within the first range increment of her firearm. A Diminutive lock usually has AC 7, and larger locks have a lower AC. The lock gains a bonus to its AC against this attack based on its quality. A simple lock has a +10 bonus to AC, an average lock has a +15 bonus to AC, a good lock has a +20 bonus to AC, and a superior lock has a +30 bonus to AC. Arcane lock grants a +10 bonus to the AC of a lock against this attack. On a hit, the lock is destroyed, and the object can be opened as if it were unlocked. On a miss, the lock is destroyed, but the object is jammed and still considered locked. It can still be unlocked by successfully performing this deed, by using the [Disable Device](../../rules/skills/disable-device.md) skill, or with the break DC, though the DC for either break or Disable Device or the AC increases by 10. A key, combination, or similar mechanical method of unlocking the lock no longer works, though knock can still be employed to bypass the lock, and the creator of an arcane lock can still bypass the wards of that spell.
 - **Scoot Unattended Object**: The gunslinger makes an attack roll against a Tiny or smaller unattended object within the first range increment of her firearm. A Tiny unattended object has an AC of 5, a Diminutive unattended object has an AC of 7, and a Fine unattended object has an AC of 11. On a hit, the gunslinger does not damage the object with the shot, but can move it up to 15 feet farther away from the shot’s origin. On a miss, she damages the object normally.
 
 - **Stop Bleeding**: The gunslinger makes a firearm attack and then presses the hot barrel against herself or an adjacent creature to staunch a bleeding wound. Instead of dealing damage, the shot ends a single bleed condition affecting the creature. The gunslinger does not have to make an attack roll when performing the deed in this way; she can instead shoot the firearm into the air, but that shot still uses up ammunition normally.
@@ -110,19 +110,19 @@ Precision damage and extra damage from weapon special abilities (such as flaming
 
 ### Startling Shot (Ex)
 
-At 7th level, a gunslinger with least 1 grit point can spend a standard action to purposely miss a creature that she could normally hit with a firearm attack. When she does, that creature becomes flat-footed until the start of its next turn.
+At 7th level, a gunslinger with least 1 grit point can spend a standard action to purposely miss a creature that she could normally hit with a firearm attack. When she does, that creature becomes [flat-footed](../../rules/appendices/conditions.md#flat-footed) until the start of its next turn.
 
 ### Targeting (Ex)
 
 At 7th level, as a full-round action, the gunslinger can make a single firearm attack and choose part of the body to target. She gains the following effects depending on the part of the body targeted. If a creature does not have one of the listed body locations, that part cannot be targeted. This deed costs 1 grit point to perform no matter which part of the creature she targets. Creatures that are immune to sneak attacks are immune to these effects.
 
 - **Arms**: On a hit, the target takes no damage from the hit but drops one carried item of the gunslinger’s choice, even if the item is wielded with two hands. Items held in a locked gauntlet are not dropped on a hit.
-- **Head**: On a hit, the target is damaged normally, and is also confused for 1 round. This is a mind-affecting effect.
+- **Head**: On a hit, the target is damaged normally, and is also [confused](../../rules/appendices/conditions.md#confused) for 1 round. This is a mind-affecting effect.
 
 - **Legs**: On a hit, the target is damaged normally and knocked prone. Creatures that have four or more legs or that are immune to trip attacks are immune to this effect.
 - **Torso**: Targeting the torso threatens a critical on a 19–20.
 
-- **Wings**: On a hit, the target is damaged normally, and must make a DC 20 Fly check or fall 20 ft.
+- **Wings**: On a hit, the target is damaged normally, and must make a DC 20 [Fly](../../rules/skills/fly.md) check or fall 20 ft.
 
 ### Bleeding Wound (Ex)
 
@@ -158,7 +158,7 @@ At 19th level, when the gunslinger scores a critical hit, she can spend 1 grit p
 
 ### Stunning Shot (Ex)
 
-At 19th level, when a gunslinger hits a creature, she can spend 2 grit points to stun the creature for 1 round. The creature must make a Fortitude saving throw (the DC = 10 + 1/2 the gunslinger’s level + the gunslinger’s Wisdom modifier). If the creature fails, it is stunned for 1 round. Creatures that are immune to critical hits are also immune to this effect.
+At 19th level, when a gunslinger hits a creature, she can spend 2 grit points to stun the creature for 1 round. The creature must make a Fortitude saving throw (the DC = 10 + 1/2 the gunslinger’s level + the gunslinger’s Wisdom modifier). If the creature fails, it is [stunned](../../rules/appendices/conditions.md#stunned) for 1 round. Creatures that are immune to critical hits are also immune to this effect.
 
 ### Nimble (Ex)
 

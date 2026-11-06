@@ -45,7 +45,7 @@ The blood bloatmage’s class skills are Fly (Dex), Heal (Wis), Knowledge (all, 
 
 **Blood Pool**: Your blood pool maximum equals your blood bloatmage level. You can spend blood points when casting a spell to cast it without using a spell slot: a prepared caster recalls the spell as if it had not been cast, and a spontaneous caster keeps the slot unused. Retaining a slot costs blood points equal to the spell’s level, paid at the time of casting. Blood points cannot teach you spells you do not know or have prepared.
 
-*Overextension*: Bloat can push you past your normal limits. If your current blood points are above your class level but no more than twice it, you are sickened. If they exceed twice your class level, you enter a homicidal rage for 1d6 rounds or until your pool reaches 0, whichever comes first. You lose 10 hit points per round the rage lasts. Afterward, your blood points drop to 0.
+*Overextension*: Bloat can push you past your normal limits. If your current blood points are above your class level but no more than twice it, you are [sickened](../../rules/appendices/conditions.md#sickened). If they exceed twice your class level, you enter a homicidal rage for 1d6 rounds or until your pool reaches 0, whichever comes first. You lose 10 hit points per round the rage lasts. Afterward, your blood points drop to 0.
 
 ??? note "Original rule"
 
@@ -61,7 +61,7 @@ The blood bloatmage’s class skills are Fly (Dex), Heal (Wis), Knowledge (all, 
 
     **Bloat**: A bloatmage can exert herself as a free action to instantly gain extra blood points, but doing so puts her at risk of a dangerous collapse. At 1st level, the bloatmage can bloat once per day to gain 1d4 points. At 4th, she can bloat twice per day, and the die roll becomes 1d8. At 8th, she can bloat three times per day, and the roll becomes 1d12.
 
-**Hemophilia**: The DC of Heal checks to stop your bleed effects is 5 higher than normal. Each bleeding wound inflicted on you costs 1 blood point. Multiple bleed attacks stack this loss, but one attack that deals damage repeatedly does not cost extra points each time.
+**Hemophilia**: The DC of [Heal](../../rules/skills/heal.md) checks to stop your bleed effects is 5 higher than normal. Each bleeding wound inflicted on you costs 1 blood point. Multiple bleed attacks stack this loss, but one attack that deals damage repeatedly does not cost extra points each time.
 
 **Corpulence**: At 3rd level, a blood bloatmage becomes so massive that her rolls of fatty, blood-laden flesh grant her a +1 natural armor bonus. At 5th level, this bonus increases to +2. At 7th level, this bonus increases to +3 but reduces her speed by 10 feet. This penalty stacks with the penalty from the [Bloatmage Initiate](../../rules/feats/bloatmage-initiate.md) feat. This reduction in speed can never reduce her speed below 5 feet, nor does it affect magical flying effects. At 9th level, this bonus increases to +4.
 

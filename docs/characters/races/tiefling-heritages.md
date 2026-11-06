@@ -8,7 +8,7 @@ A player may choose one of the following ten heritages for her [tiefling](tiefli
 
 - **Ancestry**: Asura. **Typical Alignment**: LE.
 - **Ability Modifiers**: +2 Dexterity, +2 Wisdom, –2 Intelligence.
-- **Skill Modifiers**: +2 racial bonus on Appraise and Knowledge (local) checks.
+- **Skill Modifiers**: +2 racial bonus on [Appraise](../../rules/skills/appraise.md) and [Knowledge](../../rules/skills/knowledge.md) (local) checks.
 - **Spell-Like Ability**: [*hideous laughter*](../../magic/spells/hideous-laughter.md) 1/day.
 
 Lacking any sense of empathy or pity, faultspawn often abhor all ways of life but their own. They inflict severe emotional and physical pain on others, and never stop picking at the resulting psychological scars. Like their asura forebears, faultspawn revel when the gods or their worshipers fail, and take great pleasure in the defacement or destruction of holy sites that don't align with their individual viewpoints. This innate desire to taunt and ridicule people of opposing beliefs often extends to the art of maiming or utterly destroying whatever their opponents hold most dear. Physically, asura-spawn tend to have both masculine and feminine traits, and a considerable number are born hermaphrodites.
@@ -23,7 +23,7 @@ Lacking any sense of empathy or pity, faultspawn often abhor all ways of life bu
 
 - **Ancestry**: Daemon. **Typical Alignment**: NE.
 - **Ability Modifiers**: +2 Dexterity, +2 Intelligence, –2 Wisdom.
-- **Skill Modifiers**: +2 racial bonus on Disable Device and Sleight of Hand checks.
+- **Skill Modifiers**: +2 racial bonus on [Disable Device](../../rules/skills/disable-device.md) and [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks.
 - **Spell-Like Ability**: [*death knell*](../../magic/spells/death-knell.md) 1/day.
 
 Dreary and pessimistic, grimspawn are so enthralled by death, disease, and dilapidation that they often dedicate themselves to ending lives from behind the scenes as macabre saboteurs. Like their daemon ancestors, they have a great fascination with sickness, decay, and all the ways mortals can die; as a way of distancing themselves from the realization that they too could suffer such scourges, they spend their lives as tourists of disaster. Grimspawn typically appear unhealthy and frail, displaying symptoms of various diseases such as a hacking cough, feverish body temperature, or unnaturally pale complexion, and all are painfully thin. They often arise in areas beset by disease, famine, civil unrest, or war.
@@ -38,7 +38,7 @@ Dreary and pessimistic, grimspawn are so enthralled by death, disease, and dilap
 
 - **Ancestry**: Demodand. **Typical Alignment**: CE.
 - **Ability Modifiers**: +2 Constitution, +2 Wisdom, –2 Intelligence.
-- **Skill Modifiers**: +2 racial bonus on Intimidate and Knowledge (religion) checks.
+- **Skill Modifiers**: +2 racial bonus on [Intimidate](../../rules/skills/intimidate.md) and Knowledge (religion) checks.
 - **Spell-Like Ability**: [*bear's endurance*](../../magic/spells/bears-endurance.md) 1/day.
 
 Crude and boorish, foulspawn take a particular delight in giving offense and scandalizing polite society. They enjoy violating taboos even more than breaking laws, especially if it means degrading or repulsing an innocent. Thanks to their demodand ancestry, foulspawn have a deep and abiding hatred of religion and conventional morality, rejecting any code of behavior that places limits on their actions, whether such restrictions be social, legal, or divine. They always have at least one physical trait that places them far outside the norm (grossly fat, skeletally thin, monstrously tall, or horrifically stunted), and all have terrible standards of personal cleanliness and grooming.
@@ -53,7 +53,7 @@ Crude and boorish, foulspawn take a particular delight in giving offense and sca
 
 - **Ancestry**: Demon. **Typical Alignment**: CE.
 - **Ability Modifiers**: +2 Strength, +2 Charisma, –2 Intelligence.
-- **Skill Modifiers**: +2 racial bonus on Disable Device and Perception checks.
+- **Skill Modifiers**: +2 racial bonus on Disable Device and [Perception](../../rules/skills/perception.md) checks.
 - **Spell-Like Ability**: [*shatter*](../../magic/spells/shatter.md) 1/day.
 
 Pitborn delight in destruction, especially while unleashing their havoc on what others consider valuable or precious. Perhaps because of this volatility, others tend to simply defer to them, an act that often grants them the dominance they crave. The easily enraged pitborn usually find smashing something the quickest way to calm back down, and they revel not just in the spectacle of annihilation but also in the heady sense of power they get from ruining what others love or need. Born of chaos and mutation, pitborn always have at least one flaw that mars their bodies' symmetry, from differently colored eyes or an odd number of fingers to incompatible limbs or bizarre spines and scales adorning only one side of the body. All pitborn take extreme offense at their disfigurements being pointed out.
@@ -68,14 +68,14 @@ Pitborn delight in destruction, especially while unleashing their havoc on what 
 
 - **Ancestry**: Devil. **Typical Alignment**: LE.
 - **Ability Modifiers**: +2 Constitution, +2 Wisdom, –2 Charisma.
-- **Skill Modifiers**: +2 racial bonus on Diplomacy and Sense Motive checks.
+- **Skill Modifiers**: +2 racial bonus on [Diplomacy](../../rules/skills/diplomacy.md) and [Sense Motive](../../rules/skills/sense-motive.md) checks.
 - **Spell-Like Ability**: [*pyrotechnics*](../../magic/spells/pyrotechnics.md) 1/day.
 
 While often rigid, stubborn, and highly focused on sticking to plans and schedules, hellspawn also have a rare talent for penetrating others' facades. They know a lie when they hear one, and can often determine what hidden vice or secret shame motivates another. They are by far the most conservative and conformist of all the tiefling heritages, tending to accept their lot in life and seldom rebelling, instead finding their niches and quietly accumulating the wealth and power they crave. Their natural talent for identifying the dark appetites of others proves useful when climbing the social ladder. Hellspawn come closest to matching the stereotype of what a tiefling "should" look like: most have horns, a tail, and eyes with an odd color or unusually shaped pupils.
 
 ### Hellspawn Traits
 
-**Blood Stalker**: Some infernal instinct makes it much easier for you to locate creatures whose blood you have drawn. You gain a +4 trait bonus on Survival checks made to track or follow a trail so long as you have dealt damage to the creature you are hunting within the last week.
+**Blood Stalker**: Some infernal instinct makes it much easier for you to locate creatures whose blood you have drawn. You gain a +4 trait bonus on [Survival](../../rules/skills/survival.md) checks made to track or follow a trail so long as you have dealt damage to the creature you are hunting within the last week.
 
 **Unearth Secrets**: You have a gift for recognizing secret desires. You gain a +2 trait bonus on Sense Motive checks when trying to get a hunch that might reveal a target's hidden vice, dark impulse, or any other craving it would not want publicly revealed.
 
@@ -83,7 +83,7 @@ While often rigid, stubborn, and highly focused on sticking to plans and schedul
 
 - **Ancestry**: Div. **Typical Alignment**: NE.
 - **Ability Modifiers**: +2 Dexterity, +2 Charisma, –2 Intelligence.
-- **Skill Modifiers**: +2 racial bonus on Diplomacy and Linguistics checks.
+- **Skill Modifiers**: +2 racial bonus on Diplomacy and [Linguistics](../../rules/skills/linguistics.md) checks.
 - **Spell-Like Ability**: [*misdirection*](../../magic/spells/misdirection.md) 1/day.
 
 An innate sense of jealousy and pure malice drives spitespawn to spread misery and despair. Unable to experience joy themselves, they devote their lives to promoting gloom, all the while hiding the hatefulness that lurks at their core. The ultimate false friends, they never feel true pleasure; the closest they can manage is a certain measure of smug satisfaction when they drive others to frustration and despair. Spitespawn often have a noticeable abnormality relating to their skin and, in some rare cases, their tongues: blotches, unusual pigmentation, pelts of thick hair, mobile bulges that lurk beneath the skin like burrowing insects, or unusually dry flesh that constantly sheds dust. Almost all must travel far from their homelands at some point, as their scams and treacheries inevitably catch up to them.
@@ -92,28 +92,28 @@ An innate sense of jealousy and pure malice drives spitespawn to spread misery a
 
 **Buried Anxiety**: You laugh at what makes others tremble, but are secretly disturbed by a particular sort of mundane item. Pick a specific sort of object, color, sound, or similar relatively common phenomena. You gain a +2 trait bonus on saving throws made to resist fear effects except when you can see, hear, smell, or taste that which unnerves you.
 
-**Shift the Blame**: You have learned many tricks to keep yourself from facing the consequences of your misdeeds. You gain a +1 trait bonus on Bluff and Diplomacy checks made to convince someone that another person is actually at fault for your actions.
+**Shift the Blame**: You have learned many tricks to keep yourself from facing the consequences of your misdeeds. You gain a +1 trait bonus on [Bluff](../../rules/skills/bluff.md) and Diplomacy checks made to convince someone that another person is actually at fault for your actions.
 
 ## Kyton-Spawn (Shackleborn)
 
 - **Ancestry**: Kyton. **Typical Alignment**: LE.
 - **Ability Modifiers**: +2 Constitution, +2 Charisma, –2 Wisdom.
-- **Skill Modifiers**: +2 racial bonus on Escape Artist and Intimidate checks.
+- **Skill Modifiers**: +2 racial bonus on [Escape Artist](../../rules/skills/escape-artist.md) and Intimidate checks.
 - **Spell-Like Ability**: *web* 1/day.
 
-Shackleborn are fascinated by mutilation and torture. Though they prefer to practice their cruel art on others, they accept that sometimes the wheel must turn and greet their own moments of anguish and confinement with an odd serenity. Like their kyton ancestors, they possess a reckless cruelty that makes them truly terrifying when they get the upper hand in a dispute. They embrace agony as an essential truth, seldom kill an opponent if given a chance to capture one alive, and rarely go anywhere without tools to bind and torture victims. Shackleborn are often born with their skin already mutilated, a garish embroidery of white and purple scars covering their flesh, and many add to their collection as they age through branding, piercing, and tattooing.
+Shackleborn are [fascinated](../../rules/appendices/conditions.md#fascinated) by mutilation and torture. Though they prefer to practice their cruel art on others, they accept that sometimes the wheel must turn and greet their own moments of anguish and confinement with an odd serenity. Like their kyton ancestors, they possess a reckless cruelty that makes them truly terrifying when they get the upper hand in a dispute. They embrace agony as an essential truth, seldom kill an opponent if given a chance to capture one alive, and rarely go anywhere without tools to bind and torture victims. Shackleborn are often born with their skin already mutilated, a garish embroidery of white and purple scars covering their flesh, and many add to their collection as they age through branding, piercing, and tattooing.
 
 ### Shackleborn Traits
 
 **Chain Master**: Your fiendish ancestry has granted you unnatural skill with the chain, and your enemies know to stay away when you wield it as a weapon. You gain a +2 trait bonus on combat maneuver checks made to trip opponents with a spiked chain or whip.
 
-**Pain Artist**: Some trace of your kyton heritage makes people realize you are capable of anything, especially when they are bound and at your mercy. You gain a +2 trait bonus on Intimidate checks made against helpless creatures.
+**Pain Artist**: Some trace of your kyton heritage makes people realize you are capable of anything, especially when they are bound and at your mercy. You gain a +2 trait bonus on Intimidate checks made against [helpless](../../rules/appendices/conditions.md#helpless) creatures.
 
 ## Oni-Spawn (Hungerseed)
 
 - **Ancestry**: Oni. **Typical Alignment**: LE.
 - **Ability Modifiers**: +2 Strength, +2 Wisdom, –2 Charisma.
-- **Skill Modifiers**: +2 racial bonus on Disguise and Intimidate checks.
+- **Skill Modifiers**: +2 racial bonus on [Disguise](../../rules/skills/disguise.md) and Intimidate checks.
 - **Spell-Like Ability**: [*alter self*](../../magic/spells/alter-self.md) 1/day.
 
 Endowed with brawny muscles and thick bones, hungerseed always seem poised to explode into some larger, more powerful form, and have a voracious appetite for sensory pleasures and carnal delights. They are natural bullies who prefer to use threats and force to get what they want rather than persuasion or tact; at best, such brashness tends to win them lackeys rather than actual friends. If thwarted by someone more powerful, they brood and bide their time, waiting for the perfect moment to stage a bloody rematch. Hungerseed are usually extremely tall and bulky compared to untainted humans, and when they experience strong emotions their muscles bulge and shift as they hold themselves back. Some have tusks that protrude from their mouths.
@@ -137,7 +137,7 @@ No woman survives the birth of a babe whose qlippoth ancestry has emerged. At be
 
 **Repel Sin**: You have an instinctive revulsion for the sins that led to the rise of demons and subsequent downfall of qlippoth. You gain a +2 trait bonus on saving throws made against spells and effects with the evil descriptor.
 
-**Vile Kiss**: You have learned how to exploit the natural disgust you provoke when in close proximity to others. You gain a +2 trait bonus on combat maneuver checks to perform a dirty trick combat maneuver for the purpose of making your opponent sickened.
+**Vile Kiss**: You have learned how to exploit the natural disgust you provoke when in close proximity to others. You gain a +2 trait bonus on combat maneuver checks to perform a dirty trick combat maneuver for the purpose of making your opponent [sickened](../../rules/appendices/conditions.md#sickened).
 
 ## Rakshasa-Spawn (Beastbrood)
 

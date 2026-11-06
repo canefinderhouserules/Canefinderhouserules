@@ -11,7 +11,7 @@
 
 You can alter a spell with an area of effect and a duration of instantaneous to become an apocalyptic spell.
 
-When you cast the spell, the area affected by the spell’s instantaneous effect becomes ruined and devastated in appearance. All surfaces in the area are treated as difficult terrain, and Climb, Fly, and Swim checks attempted in the area take a penalty equal to the spell’s original spell level.
+When you cast the spell, the area affected by the spell’s instantaneous effect becomes ruined and devastated in appearance. All surfaces in the area are treated as difficult terrain, and [Climb](../../rules/skills/climb.md), [Fly](../../rules/skills/fly.md), and [Swim](../../rules/skills/swim.md) checks attempted in the area take a penalty equal to the spell’s original spell level.
 
 The difficult terrain and skill penalties last for a number of rounds equal to twice the spell’s original spell level. An apocalyptic spell gains the evil descriptor.
 
@@ -91,11 +91,11 @@ A contingent spell infuses a target with a dormant healing or restorative spell 
 
 **Crypt Spell +0 \[Common\]**
 
-You can enhance any spell that inflicts hit point damage to become a crypt spell. A creature that dies within 1 round of being damaged by a crypt spell is considered to have been killed by a death effect for the purpose of being returned to life. An undead creature damaged by a crypt spell gains the sickened condition for a number of rounds equal to the spell’s original spell level; this duration is halved if the undead creature succeeds at its saving throw against the spell. If the spell does not allow a save, the target can attempt a Will save to half the sickened duration. A crypt spell gains the death descriptor.
+You can enhance any spell that inflicts hit point damage to become a crypt spell. A creature that dies within 1 round of being damaged by a crypt spell is considered to have been killed by a death effect for the purpose of being returned to life. An undead creature damaged by a crypt spell gains the [sickened](../../rules/appendices/conditions.md#sickened) condition for a number of rounds equal to the spell’s original spell level; this duration is halved if the undead creature succeeds at its saving throw against the spell. If the spell does not allow a save, the target can attempt a Will save to half the sickened duration. A crypt spell gains the death descriptor.
 
 **Dazing Spell +2 \[Powerful\]**
 
-You can modify a spell to daze a creature damaged by the spell. When a creature takes damage from this spell, they become dazed for a round. If the spell allows a saving throw, a successful save negates the daze effect. If the spell does not allow a save, the target can make a Will save to negate the daze effect. If the spell effect also causes the creature to become dazed, the duration of this metamagic effect is added to the duration of the spell.
+You can modify a spell to daze a creature damaged by the spell. When a creature takes damage from this spell, they become [dazed](../../rules/appendices/conditions.md#dazed) for a round. If the spell allows a saving throw, a successful save negates the daze effect. If the spell does not allow a save, the target can make a Will save to negate the daze effect. If the spell effect also causes the creature to become dazed, the duration of this metamagic effect is added to the duration of the spell.
 
 **Delayed Spell +0 \[Common\]**
 
@@ -149,7 +149,7 @@ You can transfer a prepared spell to your familiar, allowing the familiar to cas
 
 **Fearsome Spell +1 \[Common\]**
 
-When a creature takes damage from a fearsome spell, if that creature failed its save against the spell, it becomes shaken for a number of rounds equal to the spell’s original level. If the spell doesn’t allow a save, creatures harmed by it can attempt a Will save (against the same DC the spell would have if it did allow a save) to negate the shaken effect. If the spell effect already causes creatures to become shaken, on a failed save, add the duration of this metamagic effect to the duration of the shaken condition imposed by the spell.
+When a creature takes damage from a fearsome spell, if that creature failed its save against the spell, it becomes [shaken](../../rules/appendices/conditions.md#shaken) for a number of rounds equal to the spell’s original level. If the spell doesn’t allow a save, creatures harmed by it can attempt a Will save (against the same DC the spell would have if it did allow a save) to negate the shaken effect. If the spell effect already causes creatures to become shaken, on a failed save, add the duration of this metamagic effect to the duration of the shaken condition imposed by the spell.
 
 **Flaring Spell +0 \[Common\]**
 
@@ -185,7 +185,7 @@ You can alter a spell with the curse descriptor to target an object rather than 
 
 if the curse originally affected multiple targets, it triggers as an area effect when someone touches it. An object invested with a latent curse detects as magical, with an aura appropriate for the spell’s original level and school.
 
-As with all cursed items, someone studying the object’s magic aura recognizes that it is cursed only if her Spellcraft check exceeds the target DC by 10 or more.
+As with all cursed items, someone studying the object’s magic aura recognizes that it is cursed only if her [Spellcraft](../../rules/skills/spellcraft.md) check exceeds the target DC by 10 or more.
 
 So long as a latent curse remains active in an item, you cannot recover the spell slot used to cast that spell. A latent curse remains active in an item for 1 day per caster level, but you can dispel the latent curse whenever you recover your spells as a free action, rending the cursed object harmless and regaining the expended spell slot. You can make this metamagic a +1 to be able to recover the spell on the next rest.
 
@@ -227,7 +227,7 @@ It can become a +0 metamagic if it changes the range by 1 category and the initi
 
 **Rime Spell +1 \[Powerful\]**
 
-The frost of your cold spell clings to the target, impeding it for a short time. A rime spell causes creatures that takes cold damage from the spell to become entangled for a number of rounds equal to 1 + the original level of the spell.
+The frost of your cold spell clings to the target, impeding it for a short time. A rime spell causes creatures that takes cold damage from the spell to become [entangled](../../rules/appendices/conditions.md#entangled) for a number of rounds equal to 1 + the original level of the spell.
 
 **Scarring Spell +1 \[Common\]**
 
@@ -263,7 +263,7 @@ You can modify a spell to extinguish magical and non-magical light sources that 
 
 **Solar Spell +1 \[Trait\]**
 
-Any spell you cast with the \[light\] or \[Fire\] descriptor is fortified with the cleansing energies of the sun. If the spell creates an area of light, all creatures are dazzled for as long as they remain within the spell’s area. Oozes, fungal creatures, creatures from the Shadow Plane, and undead must also succeed at a Will save (DC 10 + the spell level + your Wisdom or Charisma bonus) or take a –2 penalty on attack rolls, damage rolls, saving throws, skill checks, and ability checks for as long as they remain within the spell’s area. If the spell normally dazzles or blinds affected creatures with a duration other than instantaneous or permanent, the duration of that effect is increased by a number of rounds equal to the spell’s original level. Saving throws to remove the effect early still apply and can bypass this increase.
+Any spell you cast with the \[light\] or \[Fire\] descriptor is fortified with the cleansing energies of the sun. If the spell creates an area of light, all creatures are [dazzled](../../rules/appendices/conditions.md#dazzled) for as long as they remain within the spell’s area. Oozes, fungal creatures, creatures from the Shadow Plane, and undead must also succeed at a Will save (DC 10 + the spell level + your Wisdom or Charisma bonus) or take a –2 penalty on attack rolls, damage rolls, saving throws, skill checks, and ability checks for as long as they remain within the spell’s area. If the spell normally dazzles or blinds affected creatures with a duration other than instantaneous or permanent, the duration of that effect is increased by a number of rounds equal to the spell’s original level. Saving throws to remove the effect early still apply and can bypass this increase.
 
 If the spell deals damage against oozes, fungal creatures, creatures from the Shadow Plane, or undead with a specific vulnerability to sunlight, the spell deals 1 additional point of damage per die against such creatures.
 
@@ -281,7 +281,7 @@ You can apply Steam Spell only to a spell with the fire descriptor. A steam spel
 
 **Studied Spell +1 \[Common\]**
 
-When casting a studied spell, designate one target affected by the spell. Attempt an appropriate Knowledge check based on that target’s creature type as you cast the spell. The DC for this check is equal to 20 + the creature’s CR based on its race and not including any class levels or template (a creature that is defined by class levels has an effective CR of 0 for this ability). If you succeed, your studied spell ignores any energy resistance or damage reduction the target has because of its race as well as any bonuses on saving throws against the spell granted by the target’s race (such as the bonus from a dwarf’s hardy ability or a halfling’s halfling luck ability). Your studied spell doesn’t ignore energy resistance, damage reduction, or saving throw bonuses granted by other spells and effects. If you fail the Knowledge check, the spell still has its normal effects.
+When casting a studied spell, designate one target affected by the spell. Attempt an appropriate [Knowledge](../../rules/skills/knowledge.md) check based on that target’s creature type as you cast the spell. The DC for this check is equal to 20 + the creature’s CR based on its race and not including any class levels or template (a creature that is defined by class levels has an effective CR of 0 for this ability). If you succeed, your studied spell ignores any energy resistance or damage reduction the target has because of its race as well as any bonuses on saving throws against the spell granted by the target’s race (such as the bonus from a dwarf’s hardy ability or a halfling’s halfling luck ability). Your studied spell doesn’t ignore energy resistance, damage reduction, or saving throw bonuses granted by other spells and effects. If you fail the Knowledge check, the spell still has its normal effects.
 
 **Stygian Spell +2 \[trait\]**
 
@@ -321,11 +321,11 @@ Change a mind-affecting spell so it can affect undead, but not living creatures.
 
 **Thundering Spell +1 \[Common\]**
 
-You can modify a spell to deafen a creature damaged by the spell. When a creature takes damage from this spell, it becomes deafened for a number of rounds equal to the original level of the spell. If the spell allows a saving throw, a successful save negates the deafening effect. If the spell does not allow a save, the target can make a Fortitude save to negate the deafening effect. If the spell effect also causes the creature to become deafened, the duration of this metamagic effect is added to the duration of the spell.
+You can modify a spell to deafen a creature damaged by the spell. When a creature takes damage from this spell, it becomes [deafened](../../rules/appendices/conditions.md#deafened) for a number of rounds equal to the original level of the spell. If the spell allows a saving throw, a successful save negates the deafening effect. If the spell does not allow a save, the target can make a Fortitude save to negate the deafening effect. If the spell effect also causes the creature to become deafened, the duration of this metamagic effect is added to the duration of the spell.
 
 **Toppling Spell +1 \[Powerful\]**
 
-Spell with the \[force\] descriptor knocks targets prone.
+Spell with the \[force\] descriptor knocks targets [prone](../../rules/appendices/conditions.md#prone).
 
 **Toxic Spell +1 Craft (poison) 5 ranks \[Trait\]**
 

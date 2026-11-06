@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-While you're grappled, you become even more dangerous.
+While you're [grappled](../appendices/conditions.md#grappled), you become even more dangerous.
 
 **Prerequisites**: Dex 13, [Improved Grapple](improved-grapple.md), [Improved Unarmed Strike](improved-unarmed-strike.md).
 

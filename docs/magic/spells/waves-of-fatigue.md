@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** no; **Spell Resistance** yes
 
-Waves of negative energy render all living creatures in the spell’s area fatigued. This spell has no effect on a creature that is already fatigued.
+Waves of negative energy render all living creatures in the spell’s area [fatigued](../../rules/appendices/conditions.md#fatigued). This spell has no effect on a creature that is already fatigued.

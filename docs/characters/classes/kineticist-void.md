@@ -9,7 +9,7 @@ Aether, or pure force, is not the only element beyond the classical four. Kineti
 
 Like aether, void forms where elemental energy meets another material, in this case the substance of the Negative Energy Plane. Kineticists who focus on the concept of void are known as voidkineticists.
 
-**Class Skills**: A voidkineticist adds Knowledge (dungeoneering) and Escape Artist to her list of class skills.
+**Class Skills**: A voidkineticist adds [Knowledge](../../rules/skills/knowledge.md) (dungeoneering) and Escape Artist to her list of class skills.
 
 **Basic Manipulation**: A voidkineticist gains basic voidkinesis.
 
@@ -27,7 +27,7 @@ The following wild talents can be chosen by a kineticist with void as a primary 
 
 **Element** void; **Type** utility (Sp); **Level** 1; **Burn** 0
 
-You can create a shadow that protects a target from bright light. You can also change gravity to increase a creature's carrying capacity by half or grant a creature a +4 bonus on Acrobatics checks to jump. Each benefit lasts 1 hour or until you use basic voidkinesis again.
+You can create a shadow that protects a target from bright light. You can also change gravity to increase a creature's carrying capacity by half or grant a creature a +4 bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks to jump. Each benefit lasts 1 hour or until you use basic voidkinesis again.
 
 ### Darkness Infusion
 

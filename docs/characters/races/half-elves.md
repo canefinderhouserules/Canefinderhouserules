@@ -30,7 +30,7 @@ Sometimes this mutual infatuation leads to romantic relationships. Though usuall
 
 **Elven Immunities**: Half-elves are immune to magic sleep effects and get a +2 racial saving throw bonus against enchantment spells and effects.
 
-**Keen Senses**: Half-elves receive a +2 racial bonus on Perception skill checks.
+**Keen Senses**: Half-elves receive a +2 racial bonus on [Perception](../../rules/skills/perception.md) skill checks.
 
 **Multitalented**: Half-elves choose two favored classes at first level and gain +1 hit point or +1 skill point whenever they take a level in either one of those classes. See Chapter 3 for more information about favored classes.
 
@@ -46,11 +46,11 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Dual Minded**: The mixed ancestry of some half-elves makes them resistant to mental attacks. Half-elves with this racial trait get a +2 bonus on all Will saving throws. This racial trait replaces the adaptability racial trait.
 
-**Integrated**: Many half-elves are skilled in the art of ingratiating themselves into a community as if they were natives. Half-elves with this racial trait gain a +1 bonus on Bluff, Disguise, and Knowledge (local) checks. This racial trait replaces the adaptability racial trait.
+**Integrated**: Many half-elves are skilled in the art of ingratiating themselves into a community as if they were natives. Half-elves with this racial trait gain a +1 bonus on [Bluff](../../rules/skills/bluff.md), [Disguise](../../rules/skills/disguise.md), and [Knowledge](../../rules/skills/knowledge.md) (local) checks. This racial trait replaces the adaptability racial trait.
 
-**Sociable**: Half-elves are skilled at charming others and recovering from faux pas. If half-elves with this racial trait attempt to change a creature’s attitude with a Diplomacy check and fail by 5 or more, they can try to influence the creature a second time even if 24 hours have not passed. This racial trait replaces the adaptability racial trait.
+**Sociable**: Half-elves are skilled at charming others and recovering from faux pas. If half-elves with this racial trait attempt to change a creature’s attitude with a [Diplomacy](../../rules/skills/diplomacy.md) check and fail by 5 or more, they can try to influence the creature a second time even if 24 hours have not passed. This racial trait replaces the adaptability racial trait.
 
-**Water Child**: Some half-elves are born of elves adapted to life on or near the water. These half-elves gain a +4 racial bonus on Swim checks, can always take 10 while swimming, and may choose Aquan as a bonus language. This racial trait replaces the half-elf’s adaptability and multitalented racial traits.
+**Water Child**: Some half-elves are born of elves adapted to life on or near the water. These half-elves gain a +4 racial bonus on [Swim](../../rules/skills/swim.md) checks, can always take 10 while swimming, and may choose Aquan as a bonus language. This racial trait replaces the half-elf’s adaptability and multitalented racial traits.
 
 ### Additional Alternate Racial Traits (Advanced Race Guide)
 
@@ -58,17 +58,17 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Drow Magic**: A few half-elves with drow ancestry exhibit the innate magic of that race. Half-elves with this trait have drow blood somewhere in their background, and can cast [*dancing lights*](../../magic/spells/dancing-lights.md), [*darkness*](../../magic/spells/darkness.md), and [*faerie fire*](../../magic/spells/faerie-fire.md) each once per day, using the half-elf’s character level as the caster level for these spell-like abilities. This racial trait replaces the adaptability and multitalented racial traits.
 
-**Wary**: Many half-elves have spent their long lives moving from place to place, often driven out by the hostility of others. Such experiences have made them wary of others’ motivations. Half-elves with this trait gain a +1 racial bonus on Sense Motive and Bluff checks. This racial trait replaces the keen senses racial trait.
+**Wary**: Many half-elves have spent their long lives moving from place to place, often driven out by the hostility of others. Such experiences have made them wary of others’ motivations. Half-elves with this trait gain a +1 racial bonus on [Sense Motive](../../rules/skills/sense-motive.md) and Bluff checks. This racial trait replaces the keen senses racial trait.
 
 ### Heritage Alternate Racial Traits
 
 Half-elves descended from particular kinds of elves may select the following racial traits instead of standard half-elf racial traits.
 
-**Child of the Sea** (aquatic elf heritage): You gain a +4 racial bonus on Swim checks as well as on Profession (sailor) and Wisdom checks to pilot a sea vessel. You also have an innate sense of direction and can never get lost at sea. This racial trait replaces the low-light vision and keen senses racial traits.
+**Child of the Sea** (aquatic elf heritage): You gain a +4 racial bonus on Swim checks as well as on [Profession](../../rules/skills/profession.md) (sailor) and Wisdom checks to pilot a sea vessel. You also have an innate sense of direction and can never get lost at sea. This racial trait replaces the low-light vision and keen senses racial traits.
 
 **Cold-Honed** (snow elf heritage): You can move through natural snow and ice at your normal speed and gain a +4 racial bonus on Fortitude saves to avoid nonlethal damage from cold environments. This racial trait replaces the elven immunities racial trait.
 
-**Jungle Affinity** (wild jungle elf heritage): You gain a +4 racial bonus on Stealth checks while within jungle terrain, and can move through natural difficult terrain at your normal speed while within jungle. This racial trait replaces the multitalented racial trait.
+**Jungle Affinity** (wild jungle elf heritage): You gain a +4 racial bonus on [Stealth](../../rules/skills/stealth.md) checks while within jungle terrain, and can move through natural difficult terrain at your normal speed while within jungle. This racial trait replaces the multitalented racial trait.
 
 **Arcane Envoy** (isolationist tower-elf heritage): Add +1 to the caster level of any transmutation spells you cast. If you have a Charisma score of 11 or higher, you also gain the following spell-like abilities: 1/day—[*comprehend languages*](../../magic/spells/comprehend-languages.md), [*detect secret doors*](../../magic/spells/detect-secret-doors.md), [*erase*](../../magic/spells/erase.md), [*read magic*](../../magic/spells/read-magic.md). The caster level for these effects is equal to your character level. This racial trait replaces the adaptability racial trait. If you are raised by these elves, you may begin play speaking Elven and an ancient lost tongue (chosen with your GM) in place of the default half-elf languages.
 
@@ -90,7 +90,7 @@ The following racial traits represent a fey ancestor in the family line. They ca
 
 Half-elves with a drow ancestor can choose from the alternate racial traits listed on the [drow page](drow.md#alternate-racial-traits) (Daylight Adaptation excepted), such as Drow Heritage, Flexible Half-Breed, Hidden Half-Breed, Lesser Spell-Like Abilities, [Psychic Sensitivity](../../rules/feats/psychic-sensitivity.md) and Spell Resistance. The [darkborn traits](shadowborn-traits.md#darkborn-alternate-racial-traits) and [shadowborn traits](shadowborn-traits.md#shadowborn-alternate-racial-traits) are also available.
 
-**Fraudulent**: To obtain and keep a position at court, some half-elves aren't shy about exaggerating or fabricating claims to nobility. Half-elves with this racial trait gain a +1 racial bonus on Bluff checks, Knowledge (nobility) checks, and Linguistics checks to create forgeries. They need to spend only half as much on accessories (such as the jewelry required to accessorize a courtier's or noble's outfit) to appear suitable in a courtly setting. This racial trait replaces keen senses.
+**Fraudulent**: To obtain and keep a position at court, some half-elves aren't shy about exaggerating or fabricating claims to nobility. Half-elves with this racial trait gain a +1 racial bonus on Bluff checks, Knowledge (nobility) checks, and [Linguistics](../../rules/skills/linguistics.md) checks to create forgeries. They need to spend only half as much on accessories (such as the jewelry required to accessorize a courtier's or noble's outfit) to appear suitable in a courtly setting. This racial trait replaces keen senses.
 
 ### Draconic Alternate Racial Traits
 
@@ -120,9 +120,9 @@ You can combine various alternate racial traits to create half-elven subraces or
 
 Half-elves have access to the following equipment.
 
-**Golden Maple Leaves**: These potent additives can only be culled from a rare maple tree known to grow exclusively in urban areas. These small, elaborately twisting trees are extremely slow to grow and mature—the leaves reach maturity only once every 3 years—and they are almost always grown and cultivated by half-elves. Additionally, half-elves are keenly aware of the effort put into the leaves’ growth and normally only sell the products of their labors to others of their kind. When the golden maple’s delicate, five-pointed leaves finally take on their namesake’s color, they can be cut, dried, and then ground into a fine powder, a process that requires a DC 15 Knowledge (nature) or Profession (herbalist) check. When used in conjunction with the Craft (alchemy) skill to create special substances and items like alchemical grease or tanglefoot bags, golden maple leaves reduce the Craft DC by 5 and add +1 to the DC of any save required by the alchemical item. A single dose of golden maple leaf powder is sufficient to augment the crafting of three alchemical items.
+**Golden Maple Leaves**: These potent additives can only be culled from a rare maple tree known to grow exclusively in urban areas. These small, elaborately twisting trees are extremely slow to grow and mature—the leaves reach maturity only once every 3 years—and they are almost always grown and cultivated by half-elves. Additionally, half-elves are keenly aware of the effort put into the leaves’ growth and normally only sell the products of their labors to others of their kind. When the golden maple’s delicate, five-pointed leaves finally take on their namesake’s color, they can be cut, dried, and then ground into a fine powder, a process that requires a DC 15 Knowledge (nature) or Profession (herbalist) check. When used in conjunction with the [Craft](../../rules/skills/craft.md) (alchemy) skill to create special substances and items like alchemical grease or tanglefoot bags, golden maple leaves reduce the Craft DC by 5 and add +1 to the DC of any save required by the alchemical item. A single dose of golden maple leaf powder is sufficient to augment the crafting of three alchemical items.
 
-**Star Charts**: Many half-elves live in large cities or communities where they find it difficult to commune with nature. While some go on long sojourns to the wilderness, others spend their evenings on high, lonely rooftops, gazing at the stars. These lonely souls use star charts to track the movement of the stars and other celestial bodies. Anyone referencing one of these charts on a clear night can attempt a DC 20 Knowledge (geography) check to determine her approximate location and the month. In addition, these charts grant a +2 circumstance bonus on Survival checks made to avoid getting lost at night with a clear sky.
+**Star Charts**: Many half-elves live in large cities or communities where they find it difficult to commune with nature. While some go on long sojourns to the wilderness, others spend their evenings on high, lonely rooftops, gazing at the stars. These lonely souls use star charts to track the movement of the stars and other celestial bodies. Anyone referencing one of these charts on a clear night can attempt a DC 20 Knowledge (geography) check to determine her approximate location and the month. In addition, these charts grant a +2 circumstance bonus on [Survival](../../rules/skills/survival.md) checks made to avoid getting lost at night with a clear sky.
 
 | Item | Cost | Weight |
 |---|---|---|
@@ -243,7 +243,7 @@ Half-elves raised among elves often stumble unprepared into each new stage of li
 
 ### Sea Legs
 
-Many half-elves find their way onto the water early in their youth, whether they live with trader families in or near the elven kingdom, work as smugglers around Lake Encarthan or the central sea, or plunder alongside pirates. These half-elves receive a +2 racial bonus on Swim checks, as well as a +4 racial bonus on Acrobatics checks to move on narrow or slippery surfaces, and on Climb checks on docks and ships. This racial trait replaces adaptability.
+Many half-elves find their way onto the water early in their youth, whether they live with trader families in or near the elven kingdom, work as smugglers around Lake Encarthan or the central sea, or plunder alongside pirates. These half-elves receive a +2 racial bonus on Swim checks, as well as a +4 racial bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks to move on narrow or slippery surfaces, and on [Climb](../../rules/skills/climb.md) checks on docks and ships. This racial trait replaces adaptability.
 
 ### Snowcaster Half-Elves (Snowborn)
 
@@ -301,9 +301,9 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 **Mesmerist**: When casting mesmerist enchantment spells, add 1/2 to the effective caster level of the spell, but only to determine the spell’s duration.
 
-**Monk**: Add +1/2 on Escape Artist checks and on Acrobatics checks to cross narrow surfaces.
+**Monk**: Add +1/2 on [Escape Artist](../../rules/skills/escape-artist.md) checks and on Acrobatics checks to cross narrow surfaces.
 
-**Occultist**: Gain a +1/2 bonus on Spellcraft checks to identify the properties of magic items and a +1/2 bonus on Use Magic Device checks to emulate a race.
+**Occultist**: Gain a +1/2 bonus on [Spellcraft](../../rules/skills/spellcraft.md) checks to identify the properties of magic items and a +1/2 bonus on [Use Magic Device](../../rules/skills/use-magic-device.md) checks to emulate a race.
 
 **Oracle**: Add one spell known from the oracle spell list. This spell must be at least one level below the highest spell level the oracle can cast.
 

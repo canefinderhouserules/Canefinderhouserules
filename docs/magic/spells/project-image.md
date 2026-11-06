@@ -10,7 +10,7 @@
 
 You tap energy from the Plane of Shadow to create a quasi-real, illusory version of yourself. The projected image looks, sounds, and smells like you but is intangible. The projected image mimics your actions (including speech) unless you direct it to act differently (which is a move action).
 
-You can see through its eyes and hear through its ears as if you were standing where it is, and during your turn you can switch from using its senses to using your own, or back again, as a free action. While you are using its senses, your body is considered blinded and deafened.
+You can see through its eyes and hear through its ears as if you were standing where it is, and during your turn you can switch from using its senses to using your own, or back again, as a free action. While you are using its senses, your body is considered [blinded](../../rules/appendices/conditions.md#blinded) and [deafened](../../rules/appendices/conditions.md#deafened).
 
 If you desire, any spell you cast whose range is touch or greater can originate from the projected image instead of from you. The projected image can’t cast any spells on itself except for illusion spells. The spells affect other targets normally, despite originating from the projected image.
 

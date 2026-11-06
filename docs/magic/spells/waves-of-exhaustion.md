@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** no; **Spell Resistance** yes
 
-Waves of negative energy cause all living creatures in the spell’s area to become exhausted. This spell has no effect on a creature that is already exhausted.
+Waves of negative energy cause all living creatures in the spell’s area to become [exhausted](../../rules/appendices/conditions.md#exhausted). This spell has no effect on a creature that is already exhausted.

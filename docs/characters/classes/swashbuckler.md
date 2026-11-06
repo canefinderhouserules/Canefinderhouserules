@@ -55,7 +55,7 @@ Swashbucklers are proficient with simple and [martial weapons](../../equipment/w
 
 More than just a lightly armored warrior, a swashbuckler is a daring combatant. She fights with panache: a fluctuating measure of a swashbuckler's ability to perform amazing actions in combat. At the start of each day, a swashbuckler gains a number of panache points equal to her Charisma modifier (minimum 1). Her panache goes up or down throughout the day, but usually cannot go higher than her Charisma modifier (minimum 1), though feats and magic items can affect this maximum. A swashbuckler spends panache to accomplish deeds (see below), and regains panache in the following ways.
 
-- **Critical Hit with a Light or One-Handed Piercing Melee Weapon**: Each time the swashbuckler confirms a critical hit with a light or one-handed piercing melee weapon, she regains 1 panache point. Confirming a critical hit on a helpless or unaware creature or a creature that has fewer Hit Dice than half the swashbuckler's character level doesn't restore panache.
+- **Critical Hit with a Light or One-Handed Piercing Melee Weapon**: Each time the swashbuckler confirms a critical hit with a light or one-handed piercing melee weapon, she regains 1 panache point. Confirming a critical hit on a [helpless](../../rules/appendices/conditions.md#helpless) or unaware creature or a creature that has fewer Hit Dice than half the swashbuckler's character level doesn't restore panache.
 
 - **Killing Blow with a Light or One-Handed Piercing Melee Weapon**: When the swashbuckler reduces a creature to 0 or fewer hit points with a light or one-handed piercing melee weapon attack while in combat, she regains 1 panache point. Destroying an unattended object, reducing a helpless or unaware creature to 0 or fewer hit points, or reducing a creature that has fewer Hit Dice than half the swashbuckler's character level to 0 or fewer hit points doesn't restore any panache.
 
@@ -65,7 +65,7 @@ Swashbucklers spend panache points to accomplish deeds. Most deeds grant the swa
 
 ### Derring-Do (Ex)
 
-At 1st level, a swashbuckler can spend 1 panache point when she makes an Acrobatics, Climb, Escape Artist, Fly, Ride, or Swim check to roll 1d6 and add the result to the check. She can do this after she makes the check but before the result is revealed. If the result of the d6 roll is a natural 6, she rolls another 1d6 and adds it to the check. She can continue to do this as long as she rolls natural 6s, up to a number of times equal to her Dexterity modifier (minimum 1).
+At 1st level, a swashbuckler can spend 1 panache point when she makes an [Acrobatics](../../rules/skills/acrobatics.md), [Climb](../../rules/skills/climb.md), [Escape Artist](../../rules/skills/escape-artist.md), [Fly](../../rules/skills/fly.md), [Ride](../../rules/skills/ride.md), or [Swim](../../rules/skills/swim.md) check to roll 1d6 and add the result to the check. She can do this after she makes the check but before the result is revealed. If the result of the d6 roll is a natural 6, she rolls another 1d6 and adds it to the check. She can continue to do this as long as she rolls natural 6s, up to a number of times equal to her Dexterity modifier (minimum 1).
 
 ### Dodging Panache (Ex)
 
@@ -77,7 +77,7 @@ At 1st level, when an opponent makes a melee attack against the swashbuckler, sh
 
 ### Kip-Up (Ex)
 
-At 3rd level, while the swashbuckler has at least 1 panache point, she can kip-up from prone as a move action without provoking an attack of opportunity. She can kip-up as a swift action instead by spending 1 panache point.
+At 3rd level, while the swashbuckler has at least 1 panache point, she can kip-up from [prone](../../rules/appendices/conditions.md#prone) as a move action without provoking an attack of opportunity. She can kip-up as a swift action instead by spending 1 panache point.
 
 ### Menacing Swordplay (Ex)
 
@@ -106,9 +106,9 @@ At 7th level, a swashbuckler with at least 1 panache point can, as a standard ac
 At 7th level, as a full-round action the swashbuckler can spend 1 panache point to make an attack with a single light or one-handed piercing melee weapon that cripples part of a foe's body. The swashbuckler chooses a part of the body to target. If the attack succeeds, in addition to the attack's normal damage, the target suffers one of the following effects based on the part of the body targeted. If a creature doesn't have one of the listed body locations, that body part cannot be targeted. Creatures that are immune to sneak attacks are also immune to targeted strikes. Items or abilities that protect a creature from critical hits also protect a creature from targeted strikes.
 
 - Arms: The target takes no damage from the attack, but it drops one carried item of the swashbuckler's choice, even if the item is wielded with two hands. Items held in a locked gauntlet cannot be chosen.
-- Head: The target is confused for 1 round. This is a mind-affecting effect.
+- Head: The target is [confused](../../rules/appendices/conditions.md#confused) for 1 round. This is a mind-affecting effect.
 - Legs: The target is knocked prone. Creatures with four or more legs or that are immune to trip attacks are immune to this effect.
-- Torso or Wings: The target is staggered for 1 round.
+- Torso or Wings: The target is [staggered](../../rules/appendices/conditions.md#staggered) for 1 round.
 
 ### Bleeding Wound (Ex)
 
@@ -144,7 +144,7 @@ At 19th level, when the swashbuckler confirms a critical hit with a light or one
 
 ### Stunning Stab (Ex)
 
-At 19th level, when a swashbuckler hits a creature with a light or one-handed piercing melee weapon, she can spend 2 panache points to stun the creature for 1 round. The creature must succeed at a Fortitude saving throw (DC = 10 + 1/2 the swashbuckler's level + the swashbuckler's Dexterity modifier) or stunned for 1 round. Creatures that are immune to critical hits are also immune to this effect.
+At 19th level, when a swashbuckler hits a creature with a light or one-handed piercing melee weapon, she can spend 2 panache points to stun the creature for 1 round. The creature must succeed at a Fortitude saving throw (DC = 10 + 1/2 the swashbuckler's level + the swashbuckler's Dexterity modifier) or [stunned](../../rules/appendices/conditions.md#stunned) for 1 round. Creatures that are immune to critical hits are also immune to this effect.
 
 ### Swashbuckler Finesse (Ex)
 

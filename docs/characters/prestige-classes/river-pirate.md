@@ -35,7 +35,7 @@ To qualify to become the pirate isles pirate, a character must fulfill all the f
 
 ### Class Skills
 
-The pirate isles Pirate’s class skills are Appraise, Balance, Climb, Craft, Gather Information, Hide, Intimidate, Jump, Knowledge (local), Move Silently, Profession, Search, Spot, Survival, Swim, Tumble, Use Rope.
+The pirate isles Pirate’s class skills are [Appraise](../../rules/skills/appraise.md), Balance, [Climb](../../rules/skills/climb.md), [Craft](../../rules/skills/craft.md), Gather Information, Hide, [Intimidate](../../rules/skills/intimidate.md), Jump, [Knowledge](../../rules/skills/knowledge.md) (local), Move Silently, [Profession](../../rules/skills/profession.md), Search, Spot, [Survival](../../rules/skills/survival.md), [Swim](../../rules/skills/swim.md), Tumble, Use Rope.
 
 **Skill Ranks Per Level**: 8 + Int modifier.
 
@@ -67,7 +67,7 @@ If the pirate isles pirate hits the target ship, she then makes an opposed Stren
 
 Once the pirate isles pirate activates her shipmind, she can feel the ship as if it were an extension of her body. She can “see” from the ship anywhere she wants, and adjusting her point of view is a free action. The pirate isles pirate can move the ship as if it were her own body, and it moves over water at her base move or the ship’s normal speed, whichever is greater. She and her ship can move forward and backward, make right angle turns, and come to a dead stop, despite the ship’s size or the weather conditions.
 
-While the pirate isles pirate uses her shipmind ability, her body appears paralyzed and unresponsive. She is considered helpless and cannot defend herself, but she retains an awareness of what goes on around her body (and can see her body from her perspective on the ship if she wishes). She may end the shipmind effect as an immediate action. This ability lasts for 1 round per class level.
+While the pirate isles pirate uses her shipmind ability, her body appears [paralyzed](../../rules/appendices/conditions.md#paralyzed) and unresponsive. She is considered [helpless](../../rules/appendices/conditions.md#helpless) and cannot defend herself, but she retains an awareness of what goes on around her body (and can see her body from her perspective on the ship if she wishes). She may end the shipmind effect as an immediate action. This ability lasts for 1 round per class level.
 
 **Fogcraft (Su)**: At 10th level, the pirate isles pirate gains the incredible power to shape a vessel out of the fog that roils across the boggy landscape. This ability functions only in the pirate isles and is usable once per day.
 

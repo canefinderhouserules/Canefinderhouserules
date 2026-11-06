@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes
 
-You must have a bardic performance in effect to cast this spell. With a flourish, you immediately end your bardic performance, removing one of the following conditions on a creature within range affected by your bardic performance: cowering, dazzled, exhausted, paralyzed, shaken, or stunned.
+You must have a bardic performance in effect to cast this spell. With a flourish, you immediately end your bardic performance, removing one of the following conditions on a creature within range affected by your bardic performance: [cowering](../../rules/appendices/conditions.md#cowering), [dazzled](../../rules/appendices/conditions.md#dazzled), [exhausted](../../rules/appendices/conditions.md#exhausted), [paralyzed](../../rules/appendices/conditions.md#paralyzed), [shaken](../../rules/appendices/conditions.md#shaken), or [stunned](../../rules/appendices/conditions.md#stunned).

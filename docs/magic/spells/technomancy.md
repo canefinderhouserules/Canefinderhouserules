@@ -8,4 +8,4 @@
 **Duration** 3 rounds/level  
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions as [*detect magic*](detect-magic.md), except it detects the presence of technological objects instead of magical objects. The spell grants you the [Technologist](../../rules/feats/technologist.md) feat for the purposes of attempting Knowledge (engineering) checks to identify the properties of technological items in your possession. If you already possess this feat, you gain a +10 bonus on Knowledge (engineering) checks to identify item properties.
+This spell functions as [*detect magic*](detect-magic.md), except it detects the presence of technological objects instead of magical objects. The spell grants you the [Technologist](../../rules/feats/technologist.md) feat for the purposes of attempting [Knowledge](../../rules/skills/knowledge.md) (engineering) checks to identify the properties of technological items in your possession. If you already possess this feat, you gain a +10 bonus on Knowledge (engineering) checks to identify item properties.

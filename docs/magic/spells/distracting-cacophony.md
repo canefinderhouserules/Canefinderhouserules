@@ -8,4 +8,4 @@
 **Duration** 1 round/level (D)  
 **Saving Throw** none; **Spell Resistance** yes
 
-The air fills with loud and discordant noise, making concentration difficult. Casting a spell in this area of cacophony requires a concentration check (DC 15 + the level of the spell being cast). Any other concentration checks in the area have their DCs increased by 5. The DC of Perception checks involving hearing is likewise increased by 5.
+The air fills with loud and discordant noise, making concentration difficult. Casting a spell in this area of cacophony requires a concentration check (DC 15 + the level of the spell being cast). Any other concentration checks in the area have their DCs increased by 5. The DC of [Perception](../../rules/skills/perception.md) checks involving hearing is likewise increased by 5.

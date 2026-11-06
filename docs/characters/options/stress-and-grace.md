@@ -46,7 +46,7 @@ You must make a Determination check, with these results:
 
 **300–399:** *"Keeping your composure when everyone else would have understood if you had given up: there lies true strength."*
 
-If the character has not killed themselves after crossing this threshold, they undoubtedly long for death with every part of their being. This is someone utterly destroyed and crushed by life, the lowest state of human will, who believes everything has been taken from them and has reached the height of stress. (–4 on social checks, –3 on Determination, +1 Intimidate.)
+If the character has not killed themselves after crossing this threshold, they undoubtedly long for death with every part of their being. This is someone utterly destroyed and crushed by life, the lowest state of human will, who believes everything has been taken from them and has reached the height of stress. (–4 on social checks, –3 on Determination, +1 [Intimidate](../../rules/skills/intimidate.md).)
 
 | Result | Outcome |
 |---|---|

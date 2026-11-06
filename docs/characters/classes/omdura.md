@@ -41,7 +41,7 @@ An omdura casts divine spells drawn from the cleric and inquisitor spell lists. 
 
 The omdura can cast any spell she knows without preparing it ahead of time. To learn or cast a spell, an omdura must have a Charisma score equal to at least 10 + the spell’s level. The difficulty class for a saving throw against an omdura’s spell is equal to 10 + the spell’s level + the omdura’s Charisma modifier.
 
-An omdura cannot use spell completion or spell trigger magic items of cleric spells of 7th level or higher (without a successful Use Magic Device check). Her alignment may restrict her from casting certain spells opposed to her moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells.
+An omdura cannot use spell completion or spell trigger magic items of cleric spells of 7th level or higher (without a successful [Use Magic Device](../../rules/skills/use-magic-device.md) check). Her alignment may restrict her from casting certain spells opposed to her moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells.
 
 Like other spellcasters, an omdura can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given on the table above. In addition, she receives bonus spells per day if she has a high Charisma score.
 
@@ -74,7 +74,7 @@ At will, an omdura can cast [*detect chaos*](../../magic/spells/detect-chaos.md)
 
 An omdura can call forth the power of her deity to improve her allies’ abilities as a standard action.
 
-When the omdura calls upon this power, she must select one type of invocation from those listed below to grant the benefits to her allies within 30 feet. If the omdura is evil, she grants profane bonuses instead of sacred, as appropriate. Neutral omduras must select profane or sacred bonuses. Once made, this choice cannot be changed. A called invocation cannot be disrupted, but it ends immediately if the omdura is killed, paralyzed, stunned, or knocked unconscious.
+When the omdura calls upon this power, she must select one type of invocation from those listed below to grant the benefits to her allies within 30 feet. If the omdura is evil, she grants profane bonuses instead of sacred, as appropriate. Neutral omduras must select profane or sacred bonuses. Once made, this choice cannot be changed. A called invocation cannot be disrupted, but it ends immediately if the omdura is killed, [paralyzed](../../rules/appendices/conditions.md#paralyzed), [stunned](../../rules/appendices/conditions.md#stunned), or knocked [unconscious](../../rules/appendices/conditions.md#unconscious).
 
 The omdura can use this ability for a number of minutes per day equal to her level. This duration does not need to be consecutive, but it must be spent in 1-minute increments. The omdura can change her chosen invocation to another type as a swift action, but doing so expends a 1-minute increment of her invocations.
 

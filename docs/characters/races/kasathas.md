@@ -18,11 +18,11 @@ Kasathas are defined by their class levels; they do not possess racial Hit Dice.
 
 **Desert Stride (Ex)**: Kasathas move through nonmagical difficult terrain in desert environments at normal speed.
 
-**Jumper (Ex)**: Kasathas are always considered to have a running start when attempting Acrobatics checks to jump.
+**Jumper (Ex)**: Kasathas are always considered to have a running start when attempting [Acrobatics](../../rules/skills/acrobatics.md) checks to jump.
 
 **Multi-Armed (Ex)**: A kasatha has four arms. One hand is considered its primary hand; all others are considered off hands. It can use any of its hands for other purposes that require free hands.
 
-**Stalker (Ex)**: Perception and Stealth are class skills for kasathas.
+**Stalker (Ex)**: [Perception](../../rules/skills/perception.md) and Stealth are class skills for kasathas.
 
 **Languages**: Kasathas speak Common and Kasatha. A kasatha with a high Intelligence score can choose from the following: Dwarven, Draconic, Gnoll, Orc, and Sphinx.
 
@@ -42,5 +42,5 @@ See the Kasatha Traits section of the [race traits](../traits/race-traits.md) pa
 
 ### Stealthy
 
-Kasatha living on the world must often take great pains to hide their existence from others. Such kasathas gain a +2 racial bonus on Stealth checks. Stealth is always a class skill for them. This racial trait replaces jumper and stalker.
+Kasatha living on the world must often take great pains to hide their existence from others. Such kasathas gain a +2 racial bonus on [Stealth](../../rules/skills/stealth.md) checks. Stealth is always a class skill for them. This racial trait replaces jumper and stalker.
 

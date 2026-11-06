@@ -9,7 +9,7 @@ Perhaps the most primal effect words, power words draw upon raw magic, using it 
 **Saving Throw** none; **Spell Resistance** yes  
 **Target Restrictions** selected
 
-This effect word causes a living creature to become blinded, whether or not the creature can hear the wordspell. This effect word’s duration depends on the target’s current hit point total. Any creature that currently has 201 hit points or more is unaffected.
+This effect word causes a living creature to become [blinded](../../../rules/appendices/conditions.md#blinded), whether or not the creature can hear the wordspell. This effect word’s duration depends on the target’s current hit point total. Any creature that currently has 201 hit points or more is unaffected.
 
 | Hit Points | Duration |
 |---|---|
@@ -24,7 +24,7 @@ This effect word causes a living creature to become blinded, whether or not the 
 **Saving Throw** none; **Spell Resistance** yes  
 **Target Restrictions** selected
 
-This effect word causes a living creature to become stunned, whether or not the creature can hear the wordspell with this effect word. This effect word’s duration depends on the target’s current hit point total. Any creature that currently has 151 hit points or more is unaffected.
+This effect word causes a living creature to become [stunned](../../../rules/appendices/conditions.md#stunned), whether or not the creature can hear the wordspell with this effect word. This effect word’s duration depends on the target’s current hit point total. Any creature that currently has 151 hit points or more is unaffected.
 
 | Hit Points | Duration |
 |---|---|

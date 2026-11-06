@@ -92,9 +92,9 @@ A spiritualist begins play with the aid of a powerful and versatile spirit entit
 
 A spiritualist can fully manifest her phantom through a ritual that takes 1 minute to perform. When the phantom is fully manifested, the spiritualist can change the form of the phantom’s manifestation (either from ectoplasmic to incorporeal or vice versa) as a full-round action that provokes attacks of opportunity. When the phantom manifests, its hit points are unchanged from the last time it manifested, unless the phantom was slain and returned to the Ethereal Plane; in this case, the phantom manifests with half its maximum number of hit points.
 
-The phantom does not heal naturally, and can be healed only with magic or by being tended to with the Heal skill while fully manifested in ectoplasmic form. The phantom stays fully manifested until it is either returned to the spiritualist’s consciousness (a standard action) or banished to the Ethereal Plane. If the phantom is banished to the Ethereal Plane, it can’t return to the spiritualist’s consciousness or manifest again for 24 hours.
+The phantom does not heal naturally, and can be healed only with magic or by being tended to with the [Heal](../../rules/skills/heal.md) skill while fully manifested in ectoplasmic form. The phantom stays fully manifested until it is either returned to the spiritualist’s consciousness (a standard action) or banished to the Ethereal Plane. If the phantom is banished to the Ethereal Plane, it can’t return to the spiritualist’s consciousness or manifest again for 24 hours.
 
-While fully manifested, a phantom can’t be returned to the Ethereal Plane by means of dispel magic, but spells such as dismissal and banishment work normally. Whenever the spiritualist is unconscious or asleep, the phantom immediately returns to the spiritualist’s consciousness. If the spiritualist dies, the phantom is returned to the Ethereal Plane, and can’t return to the spiritualist’s consciousness until 24 hours after the spiritualist is brought back to life. A phantom can’t be dismissed or banished (by a spell or any other similar effect) while it resides in the spiritualist’s consciousness, as the phantom is protected from such effects by the power of the spiritualist’s psyche.
+While fully manifested, a phantom can’t be returned to the Ethereal Plane by means of dispel magic, but spells such as dismissal and banishment work normally. Whenever the spiritualist is [unconscious](../../rules/appendices/conditions.md#unconscious) or asleep, the phantom immediately returns to the spiritualist’s consciousness. If the spiritualist dies, the phantom is returned to the Ethereal Plane, and can’t return to the spiritualist’s consciousness until 24 hours after the spiritualist is brought back to life. A phantom can’t be dismissed or banished (by a spell or any other similar effect) while it resides in the spiritualist’s consciousness, as the phantom is protected from such effects by the power of the spiritualist’s psyche.
 
 Fully manifested phantoms can wear armor and use items (though not wield weapons) appropriate to their forms. Any items worn, carried, or held by a phantom are dropped when the phantom returns to the spiritualist’s consciousness, and must be retrieved and donned anew if the phantom wishes to use them when it fully manifests in the future.
 
@@ -140,7 +140,7 @@ When a spiritualist uses this ability and chooses incorporeal form, she becomes 
 
 ### Spiritual Interference (Ex or Su)
 
-At 4th level, whenever a spiritualist is within the reach of her ectoplasmic manifested phantom, she gains a +2 shield bonus to her Armor Class and a +2 circumstance bonus on her saving throws. She doesn’t gain these bonuses when the ectoplasmic manifested phantom is grappled, helpless, or unconscious. A spiritualist within 30 feet of her incorporeally manifested phantom receives a +2 circumstance bonus on saving throws against mind-affecting effects. This bonus is a supernatural ability and does not apply if the phantom is unconscious.
+At 4th level, whenever a spiritualist is within the reach of her ectoplasmic manifested phantom, she gains a +2 shield bonus to her Armor Class and a +2 circumstance bonus on her saving throws. She doesn’t gain these bonuses when the ectoplasmic manifested phantom is [grappled](../../rules/appendices/conditions.md#grappled), [helpless](../../rules/appendices/conditions.md#helpless), or unconscious. A spiritualist within 30 feet of her incorporeally manifested phantom receives a +2 circumstance bonus on saving throws against mind-affecting effects. This bonus is a supernatural ability and does not apply if the phantom is unconscious.
 
 ### Detect Undead (Sp)
 
@@ -315,7 +315,7 @@ The emotional focus determines which bonus skill ranks the phantom gains, as wel
 
 Phantoms with this emotional focus are filled with seething anger from events in their past lives. Phantoms with this focus often take the form of hulking brutes with furrowed brows or of frenzied creatures that always seem ready to strike down those who come too near. Many times, these phantoms exude a bright red aura, especially when they are engaged in combat, or they seem to breathe a red mist in shallow pants from behind clenched, phantasmal teeth.
 
-**Skills**: The phantom gains a number of ranks in Intimidate and Survival equal to its number of Hit Dice. While confined in the spiritualist’s consciousness, the phantom grants the spiritualist Skill Focus in each of these skills.
+**Skills**: The phantom gains a number of ranks in [Intimidate](../../rules/skills/intimidate.md) and Survival equal to its number of Hit Dice. While confined in the spiritualist’s consciousness, the phantom grants the spiritualist Skill Focus in each of these skills.
 
 **Good Saves**: Fortitude and Will.
 
@@ -333,7 +333,7 @@ Phantoms with this emotional focus are filled with seething anger from events in
 
 Either through a sense of love or the desire to finish some unfinished task, a phantom with this emotional focus has an undying devotion to something or someone in the world. It’s often the case that a phantom with this emotional focus has a strong familial tie with its spiritualist master. A dedication phantom most often appears as a strong and stern protector with a watchful gaze, and its service to its spiritualist is unwavering. These spirits exude auras of blue, or sometimes rose if their love for their spiritualist masters in life was great. Many times these auras manifest as a halo, giving these phantoms a divine appearance, no matter their actual alignment or opinions on matters of religion.
 
-**Skill**: The phantom gains a number of ranks in Diplomacy and Sense Motive equal to its number of Hit Dice.
+**Skill**: The phantom gains a number of ranks in [Diplomacy](../../rules/skills/diplomacy.md) and Sense Motive equal to its number of Hit Dice.
 
 While confined in the spiritualist’s consciousness, the phantom grants the spiritualist Skill Focus in each of these skills.
 
@@ -345,7 +345,7 @@ While confined in the spiritualist’s consciousness, the phantom grants the spi
 
 **Defending Aura (Su)**: When the spiritualist reaches 7th level, the phantom can emit a 10-foot-radius aura that grants protection to nearby allies. It can activate this aura at will as a swift action. Allies within the aura gain a +2 deflection bonus to AC and a +2 bonus to CMD and on all saving throws. Deactivating the aura is a free action.
 
-**Devoted Servant (Su)**: When the spiritualist reaches 12th level and is caught unawares by an attack (such as an attack made in a surprise round or while the spiritualist is asleep or an attack by a creature using Stealth), if the phantom is not fully manifested, it automatically fully manifests from the spiritualist’s consciousness to protect its master. The phantom stays manifested as long as the spiritualist is unaware and in danger. This ability requires no action from the spiritualist.
+**Devoted Servant (Su)**: When the spiritualist reaches 12th level and is caught unawares by an attack (such as an attack made in a surprise round or while the spiritualist is asleep or an attack by a creature using [Stealth](../../rules/skills/stealth.md)), if the phantom is not fully manifested, it automatically fully manifests from the spiritualist’s consciousness to protect its master. The phantom stays manifested as long as the spiritualist is unaware and in danger. This ability requires no action from the spiritualist.
 
 **Steadfast Devotion (Su)**: When the spiritualist reaches 17th level, the phantom becomes immune to detrimental mind-affecting effects and all forms of possession, such as magic jar and possession. Furthermore, the phantom is immune to banishment, dismissal, and similar effects.
 
@@ -359,7 +359,7 @@ Their coloration tends to have a grayish or sickly green cast. When they speak, 
 
 **Good Saves**: Fortitude and Will.
 
-**Power from Despair**: The phantom gains a +2 bonus on attack and damage rolls against creatures that are shaken, frightened, panicked, cowering, or subject to effects such as aura of despair or crushing despair.
+**Power from Despair**: The phantom gains a +2 bonus on attack and damage rolls against creatures that are [shaken](../../rules/appendices/conditions.md#shaken), [frightened](../../rules/appendices/conditions.md#frightened), [panicked](../../rules/appendices/conditions.md#panicked), [cowering](../../rules/appendices/conditions.md#cowering), or subject to effects such as aura of despair or crushing despair.
 
 **Miserable Strike (Su)**: If the phantom hits a creature with a slam attack, that creature must succeed at a Will saving throw (DC = 10 + 1/2 the phantom’s Hit Dice + the phantom’s Charisma modifier) or take a –2 penalty on attack and damage rolls for 1 round. This is a mind-affecting fear and emotion effect. Penalties from multiple hits don’t stack with themselves.
 
@@ -373,7 +373,7 @@ Their coloration tends to have a grayish or sickly green cast. When they speak, 
 
 A phantom with this emotional focus died desperate and panicking—a victim of drowning, suffocation, or some other inexorable and traumatic death. The phantom relives its horrific demise over and over, futilely clawing at its foes to save itself and dragging them down with it. Desperation phantoms often hold power over water, though a phantom that died in a cave-in might display powers that are reminiscent of pressing rock instead. Desperation phantoms eschew coherent forms, usually appearing as a cloud of grasping hands and screaming faces. A blue-gray aura tends to surround these phantoms when they manifest.
 
-**Skills**: The phantom gains a number of ranks in Acrobatics and Escape Artist equal to its number of Hit Dice. While confined in the spiritualist’s consciousness, such a phantom grants the spiritualist Skill Focus in each of these skills.
+**Skills**: The phantom gains a number of ranks in [Acrobatics](../../rules/skills/acrobatics.md) and Escape Artist equal to its number of Hit Dice. While confined in the spiritualist’s consciousness, such a phantom grants the spiritualist Skill Focus in each of these skills.
 
 **Good Saves**: Reflex and Will.
 
@@ -409,11 +409,11 @@ A phantom with this emotional focus suffered from overwhelming fear in life. As 
 
 A phantom with this focus voraciously coveted gold, gems, and hedonistic possessions in life. Such phantoms are still obsessed with hoarding wealth and project that avarice onto the spiritualists to whom they are bonded. Their coloration tends toward yellow, and the sound of jangling coins sometimes manifests when they attack.
 
-**Skills**: The phantom gains a number of ranks in Appraise and Sleight of Hand equal to its number of Hit Dice. While confined in the spiritualist's consciousness, the phantom grants the spiritualist Skill Focus in each of these skills.
+**Skills**: The phantom gains a number of ranks in [Appraise](../../rules/skills/appraise.md) and Sleight of Hand equal to its number of Hit Dice. While confined in the spiritualist's consciousness, the phantom grants the spiritualist Skill Focus in each of these skills.
 
 **Good Saves**: Fortitude and Reflex.
 
-**Eye of Avarice**: The phantom adds half its number of Hit Dice (minimum 1) as a bonus on its Appraise checks. While it is confined to the spiritualist's consciousness, when the spiritualist attempts to identify the properties of a magic item using [*detect magic*](../../magic/spells/detect-magic.md), the phantom grants the spiritualist this bonus on the Spellcraft check.
+**Eye of Avarice**: The phantom adds half its number of Hit Dice (minimum 1) as a bonus on its Appraise checks. While it is confined to the spiritualist's consciousness, when the spiritualist attempts to identify the properties of a magic item using [*detect magic*](../../magic/spells/detect-magic.md), the phantom grants the spiritualist this bonus on the [Spellcraft](../../rules/skills/spellcraft.md) check.
 
 **Ruthless Combatant (Su)**: A phantom with this focus threatens a critical hit with its slam attacks on a result of 19–20. At 11th level, its critical multiplier with slam attacks increases to ×3.
 
@@ -425,7 +425,7 @@ A phantom with this focus voraciously coveted gold, gems, and hedonistic possess
 
 #### Hatred
 
-Few things draw a spirit toward the Negative Material Plane like the emotion of hatred. Phantoms with this focus often are blinded by—and blind others with—this powerful emotion. These phantoms are frequently darker and more foreboding than all but those phantoms with the fear emotional focus. Many of them manifest as dark and dreadful knights, their armor bristling with spikes and their hands seeming to grasp barbed and terrible weapons. Other times they appear as tall, gaunt figures staring down arrogantly at those who approach.
+Few things draw a spirit toward the Negative Material Plane like the emotion of hatred. Phantoms with this focus often are [blinded](../../rules/appendices/conditions.md#blinded) by—and blind others with—this powerful emotion. These phantoms are frequently darker and more foreboding than all but those phantoms with the fear emotional focus. Many of them manifest as dark and dreadful knights, their armor bristling with spikes and their hands seeming to grasp barbed and terrible weapons. Other times they appear as tall, gaunt figures staring down arrogantly at those who approach.
 
 These phantoms typically spew a string of curses at their foes, often profane, sometimes poetic. Their auras are pulsating and pitch black, and thrum violently when these horrible phantoms attack.
 
@@ -455,7 +455,7 @@ A phantom with this emotional focus is covetous of everything—its master, thos
 
 **Jealous Combatant (Su)**: Each time the phantom hits a creature with a melee attack, for 1 round that creature takes a –2 penalty on all attack rolls made against anyone other than the phantom. This effect does not stack with itself.
 
-**Resentful Aura (Su)**: When the spiritualist reaches 7th level, as a swift action, the phantom can emit a 20-foot-radius aura that forces enemies within the aura who make an attack or cast a spell that does not include the phantom in its effect to succeed at a Will saving throw (DC = 10 + 1/2 the phantom’s Hit Dice + the phantom’s Charisma modifier) or become staggered until the end of the enemy’s next turn. Ending the aura is a free action. The phantom can use this ability in either ectoplasmic or incorporeal form.
+**Resentful Aura (Su)**: When the spiritualist reaches 7th level, as a swift action, the phantom can emit a 20-foot-radius aura that forces enemies within the aura who make an attack or cast a spell that does not include the phantom in its effect to succeed at a Will saving throw (DC = 10 + 1/2 the phantom’s Hit Dice + the phantom’s Charisma modifier) or become [staggered](../../rules/appendices/conditions.md#staggered) until the end of the enemy’s next turn. Ending the aura is a free action. The phantom can use this ability in either ectoplasmic or incorporeal form.
 
 **Retribution (Su)**: When the spiritualist reaches 12th level, each time a creature attacks the phantom’s master, whether that attack hits or misses, it enrages the phantom. Until the end of the phantom’s next turn, any attack the phantom makes that hits the creature that has attacked her deals 2d8 extra points of damage. This extra damage is precision damage.
 
@@ -485,7 +485,7 @@ A phantom with this emotional focus was a being with a generous heart in life an
 
 A phantom with this focus aches for the intoxicating pleasures it experienced during life. These phantoms often writhe sensuously and whisper promises of unadulterated bliss to those they fight. Lust phantoms are typically deep rose in color, and they sometimes emit musky, exotic scents when they move.
 
-**Skills**: The phantom gains a number of ranks in Bluff and Diplomacy equal to its number of Hit Dice. While confined in the spiritualist's consciousness, the phantom grants the spiritualist Skill Focus in each of these skills.
+**Skills**: The phantom gains a number of ranks in [Bluff](../../rules/skills/bluff.md) and Diplomacy equal to its number of Hit Dice. While confined in the spiritualist's consciousness, the phantom grants the spiritualist Skill Focus in each of these skills.
 
 **Good Saves**: Fortitude and Will.
 
@@ -521,7 +521,7 @@ No phantom is as arrogant as a pride phantom, which in life was an insufferable 
 
 Spirits of creatures that died with heavy weights upon their consciences manifest with the remorse emotional focus. These phantoms, whose forms are often darkened by shadows, force foes to experience their regret and self-loathing.
 
-**Skills**: The phantom gains a number of ranks in Perception and Sense Motive equal to its Hit Dice. While confined in the spiritualist's consciousness, the phantom grants the spiritualist Skill Focus in each of these skills.
+**Skills**: The phantom gains a number of ranks in [Perception](../../rules/skills/perception.md) and Sense Motive equal to its Hit Dice. While confined in the spiritualist's consciousness, the phantom grants the spiritualist Skill Focus in each of these skills.
 
 **Good Saves**: Fortitude and Will.
 
@@ -533,7 +533,7 @@ Spirits of creatures that died with heavy weights upon their consciences manifes
 
 **Keening (Su)**: When the spiritualist reaches 12th level, her phantom can wail about its misdeeds once per day as a standard action, affecting all creatures within a 30-foot cone with the [*terrible remorse*](../../magic/spells/terrible-remorse.md) spell. The phantom uses its Hit Dice as its caster level for the effect, and the DC equals 10 + 1/2 the phantom's Hit Dice + the phantom's Charisma modifier. The phantom can use this ability in either ectoplasmic or incorporeal form.
 
-**Utter Misery (Su)**: When the spiritualist reaches 17th level, her phantom's long-suffering strike also causes a creature that fails its save to become stunned until the beginning of the phantom's next turn.
+**Utter Misery (Su)**: When the spiritualist reaches 17th level, her phantom's long-suffering strike also causes a creature that fails its save to become [stunned](../../rules/appendices/conditions.md#stunned) until the beginning of the phantom's next turn.
 
 **Other Remorse-Focused Abilities**: If a spiritualist archetype allows the selection of an additional focus, add remorse to the list of available foci. For spiritualists with remorse phantoms, the *emotional conduit* feat grants the spell-like abilities [*inflict light wounds*](../../magic/spells/inflict-light-wounds.md) (1st), [*disfiguring touch*](../../magic/spells/disfiguring-touch.md) (2nd), [*howling agony*](../../magic/spells/howling-agony.md) (3rd), [*debilitating portent*](../../magic/spells/debilitating-portent.md) (4th), [*nightmare*](../../magic/spells/nightmare.md) (5th), and [*harm*](../../magic/spells/harm.md) (6th). The fractured mind archetype gains [*doom*](../../magic/spells/doom.md) (5th), [*inflict pain*](../../magic/spells/inflict-pain.md) (7th), [*stricken heart*](../../magic/spells/stricken-heart.md) (9th), and [*mind fog*](../../magic/spells/mind-fog.md) (16th). The *spirit-bound blade* spell also grants the weapon the *heartseeker* special ability.
 
@@ -541,7 +541,7 @@ Spirits of creatures that died with heavy weights upon their consciences manifes
 
 Phantoms with this focus stand on trembling legs, with hands quivering and tears constantly streaming from their eyes. Their auras are typically a blue or purple, but the phantoms have vividly glowing scars and bruises that pulse and throb with their motion. When addressed, they tend to respond with only slight nods and other subtle gestures, rarely speaking beyond soft-spoken apologies and self-recriminations. While clearly in a state of constant pain, they show no concern for their own well-being, focusing entirely on protecting their masters and their masters' allies. Each time one of these phantoms uses its abilities to protect its allies from harm, new injuries manifest visibly upon it, which these phantoms wear like badges of honor. Suffering phantoms usually suffered greatly in life, often as a cost of pursuing a powerful ideal or defending a loved one—sometimes even the spiritualist herself.
 
-**Skills**: The phantom gains a number of ranks in Climb and Heal equal to its number of Hit Dice. When confined in the spiritualist's consciousness, the phantom grants the spiritualist Skill Focus in each of these skills.
+**Skills**: The phantom gains a number of ranks in [Climb](../../rules/skills/climb.md) and Heal equal to its number of Hit Dice. When confined in the spiritualist's consciousness, the phantom grants the spiritualist Skill Focus in each of these skills.
 
 **Good Saves**: Fortitude and Will.
 
@@ -551,7 +551,7 @@ Phantoms with this focus stand on trembling legs, with hands quivering and tears
 
 **Numbing Aura (Su)**: When the spiritualist reaches 7th level, as a swift action, the phantom can emit a 20-foot aura of protection. Allies within this aura gain a +4 bonus on saving throws against curse, disease, evil, fear, pain, and poison effects. Deactivating the aura is a free action. The phantom can use this ability in either ectoplasmic or incorporeal form.
 
-**Suffer in Stead (Su)**: When the spiritualist reaches 12th level, as an immediate action when her phantom is fully manifested and within 30 feet of her, she can transfer any of the following conditions to the phantom that would afflict her: blinded, deafened, exhausted, fatigued, nauseated, paralyzed, sickened, staggered, or stunned. The spiritualist must choose to do this before the condition's duration begins. The spiritualist can't use this ability if any of the listed conditions are already affecting the phantom. Using this ability does not affect the duration of the transferred condition; it simply makes the condition affect the phantom instead of the spiritualist. When the spiritualist reaches 18th level, as an immediate action when fully manifested, the phantom can use this ability to transfer any of the listed conditions to itself when the condition would afflict any ally within 30 feet. Using the ability in this way requires no additional action from the spiritualist.
+**Suffer in Stead (Su)**: When the spiritualist reaches 12th level, as an immediate action when her phantom is fully manifested and within 30 feet of her, she can transfer any of the following conditions to the phantom that would afflict her: blinded, [deafened](../../rules/appendices/conditions.md#deafened), [exhausted](../../rules/appendices/conditions.md#exhausted), [fatigued](../../rules/appendices/conditions.md#fatigued), [nauseated](../../rules/appendices/conditions.md#nauseated), [paralyzed](../../rules/appendices/conditions.md#paralyzed), [sickened](../../rules/appendices/conditions.md#sickened), staggered, or stunned. The spiritualist must choose to do this before the condition's duration begins. The spiritualist can't use this ability if any of the listed conditions are already affecting the phantom. Using this ability does not affect the duration of the transferred condition; it simply makes the condition affect the phantom instead of the spiritualist. When the spiritualist reaches 18th level, as an immediate action when fully manifested, the phantom can use this ability to transfer any of the listed conditions to itself when the condition would afflict any ally within 30 feet. Using the ability in this way requires no additional action from the spiritualist.
 
 **Willing Martyr (Su)**: When the spiritualist reaches 17th level, the phantom begins to anticipate when the spiritualist or her allies would fall into grave bodily danger and can take those wounds itself. Whenever the phantom is fully manifested and the spiritualist or an ally is reduced to one-quarter or fewer hit points, as long as the phantom is within 30 feet, it must take any hit point damage or ability score damage in place of the injured spiritualist or ally. This hit point damage or ability score damage bypasses the phantom's defensive abilities (although it is still subject to the defensive abilities of the originally targeted spiritualist or ally) and afflicts the phantom as it would the spiritualist or ally. After the phantom becomes the target of one attack or effect in place of the injured spiritualist or ally, the spiritualist can command the phantom to suppress this ability as a free action. Reactivating this ability is a swift action.
 
@@ -577,13 +577,13 @@ Phantoms with this emotional focus carry a simplistic, childlike wonder and are 
 
 #### Zeal
 
-A phantom with this emotional focus fixates on every task given as if it were the phantom’s last. The most basic commands are treated as life-and-death situations, and the truly dangerous ones are faced with a resolve and tenacity that sometimes defies common sense. Zeal phantoms take the form of steadfast protectors or daring and manic creatures looking for the next challenge or opportunity to prove itself to either its master or itself. Often very prideful creatures, these phantoms display an orange aura upon completing their tasks. They are prone to boast about their accomplishments and chastise those around them for not accomplishing more.
+A phantom with this emotional focus fixates on every task given as if it were the phantom’s last. The most basic commands are treated as life-and-death situations, and the truly dangerous ones are faced with a resolve and tenacity that sometimes defies common sense. Zeal phantoms take the form of steadfast protectors or daring and manic creatures looking for the next challenge or opportunity to prove itself to either its master or itself. Often very prideful creatures, these phantoms display an orange aura upon completing their tasks. They are [prone](../../rules/appendices/conditions.md#prone) to boast about their accomplishments and chastise those around them for not accomplishing more.
 
 **Skills**: The phantom gains a number of ranks in Acrobatics and Survival equal to its number of Hit Dice. While confined in the spiritualist’s consciousness, the phantom grants the spiritualist Skill Focus in each of these skills.
 
 **Good Saves**: Fortitude and Reflex.
 
-**Tracking**: The phantom adds half its number of Hit Dice (minimum 1) to Survival skill checks to follow tracks.
+**Tracking**: The phantom adds half its number of Hit Dice (minimum 1) to [Survival](../../rules/skills/survival.md) skill checks to follow tracks.
 
 **Ruthless Combatant (Su)**: The phantom threatens a critical hit with its slam attacks on a roll of 19–20. When the spiritualist reaches 11th level, the phantom’s critical modifier with slam attacks increases to ×3. This doesn’t stack with [Improved Critical](../../rules/feats/improved-critical.md) or similar effects.
 

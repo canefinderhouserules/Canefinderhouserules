@@ -14,11 +14,11 @@ Androids are defined by their class levels; they do not have racial Hit Dice. Al
 
 **Normal Speed**: Androids have a base speed of 30 feet.
 
-**Exceptional Senses**: Androids have darkvision to a range of 60 feet and low-light vision. They also gain a +2 racial bonus on Perception checks.
+**Exceptional Senses**: Androids have darkvision to a range of 60 feet and low-light vision. They also gain a +2 racial bonus on [Perception](../../rules/skills/perception.md) checks.
 
 **Constructed (Ex)**: For the purposes of effects targeting creatures by type (such as bane weapons and a ranger's favored enemy ability), androids count as both humanoids and constructs. Androids gain a +4 racial bonus on all saving throws against mind-affecting effects, paralysis, poison, and stun effects; are not subject to fatigue or exhaustion; and are immune to disease and sleep effects. Androids can never gain morale bonuses, and are immune to fear effects and all emotion-based effects.
 
-**Emotionless (Ex)**: Androids have problems processing emotions properly, and thus take a –4 penalty on Sense Motive checks.
+**Emotionless (Ex)**: Androids have problems processing emotions properly, and thus take a –4 penalty on [Sense Motive](../../rules/skills/sense-motive.md) checks.
 
 **Nanite Surge (Ex)**: An android's body is infused with nanites. Once per day as an immediate action, an android can cause his nanites to surge, granting him a bonus equal to 3 + the android's character level on any one d20 roll; this ability must be activated before the roll is made. When an android uses this power, his circuitry-tattoos glow with light equivalent to that of a torch for 1 round.
 

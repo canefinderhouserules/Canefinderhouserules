@@ -18,23 +18,23 @@ If you ever fail to perform a daily obedience, or if you are healed of damage, c
 
 You have amputated a digit on one of your hands and treated the wound such that it will never fully heal.
 
-**Obedience**: Manipulate the scabs, scar tissue, and open wound of your amputated digit, preventing it from closing and forcing bits of metal and glass into the wound. Take a –2 penalty on Disable Device, Disguise, Escape Artist, and Sleight of Hand skill checks, as well as to your CMD against disarm maneuvers. When attempting to cast a spell with somatic components, succeed at a caster level check whose DC is equal to 5 + twice the spell level or lose the spell slot with no effect. Gain a +2 bonus on saving throws against transmutation spells; this bonus increases to +4 against spells in the polymorph subschool.
+**Obedience**: Manipulate the scabs, scar tissue, and open wound of your amputated digit, preventing it from closing and forcing bits of metal and glass into the wound. Take a –2 penalty on [Disable Device](../skills/disable-device.md), [Disguise](../skills/disguise.md), [Escape Artist](../skills/escape-artist.md), and [Sleight of Hand](../skills/sleight-of-hand.md) skill checks, as well as to your CMD against disarm maneuvers. When attempting to cast a spell with somatic components, succeed at a caster level check whose DC is equal to 5 + twice the spell level or lose the spell slot with no effect. Gain a +2 bonus on saving throws against transmutation spells; this bonus increases to +4 against spells in the polymorph subschool.
 
 **Boon 1**: In addition to the normal effects of your agony strike, the target has a chance of dropping one object held in its hand immediately after you hit it with the agony strike. A successful Reflex save (DC 10 + 1/2 your HD + your Dexterity modifier) avoids this effect.
 
 **Boon 2**: You gain the use of a phantom arm, which functions as the vestigial arm alchemist discovery save that it is an invisible force effect, it does not grant an additional ring magic item slot, and it cannot make attacks.
 
-**Boon 3**: You are immune to effects that would cause you to become sickened, and you gain a +4 bonus on saving throws against any conditions that would make you nauseated.
+**Boon 3**: You are immune to effects that would cause you to become [sickened](../appendices/conditions.md#sickened), and you gain a +4 bonus on saving throws against any conditions that would make you [nauseated](../appendices/conditions.md#nauseated).
 
 ## Blinding
 
 You temporarily blind yourself with blood to heighten your other senses.
 
-**Obedience**: Scratch at your eyes with your fingernails, jagged metal shavings, and thorny branches, allowing the blood from your wounds to form thick scabs over your eyelids and tear ducts. Take a –4 penalty on vision-based Perception checks, and anytime you make an attack against a target benefiting from concealment, increase the miss chance by 10% (maximum 50%). Gain a +4 bonus on saving throws against illusions in the pattern subschool and against gaze attacks.
+**Obedience**: Scratch at your eyes with your fingernails, jagged metal shavings, and thorny branches, allowing the blood from your wounds to form thick scabs over your eyelids and tear ducts. Take a –4 penalty on vision-based [Perception](../skills/perception.md) checks, and anytime you make an attack against a target benefiting from concealment, increase the miss chance by 10% (maximum 50%). Gain a +4 bonus on saving throws against illusions in the pattern subschool and against gaze attacks.
 
 **Boon 1**: Creatures affected by your agony strike have the distance they can see in areas of dim light and darkness reduced by 50%.
 
-**Boon 2**: You gain a gaze attack with a range of 30 feet that you can activate as a standard action. You can use this ability a number of minutes per day equal to half your hit dice; these minutes need not be consecutive but you must use the ability in 1-minute increments. Enemies affected by your gaze are frightened for 1 minute. A successful Will saving throw (DC 10 + 1/2 your HD + your Charisma modifier) negates this effect. A creature that successfully saves against your gaze is immune to its effects for 24 hours.
+**Boon 2**: You gain a gaze attack with a range of 30 feet that you can activate as a standard action. You can use this ability a number of minutes per day equal to half your hit dice; these minutes need not be consecutive but you must use the ability in 1-minute increments. Enemies affected by your gaze are [frightened](../appendices/conditions.md#frightened) for 1 minute. A successful Will saving throw (DC 10 + 1/2 your HD + your Charisma modifier) negates this effect. A creature that successfully saves against your gaze is immune to its effects for 24 hours.
 
 **Boon 3**: Your affinity to pain allows you to sense suffering in others. You gain lifesense out to a distance of 60 feet.
 

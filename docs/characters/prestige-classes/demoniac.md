@@ -77,7 +77,7 @@ At 5th level, energumen grants a +4 profane bonus to one ability score, electric
 
 At 7th level, energumen grants a +6 profane bonus to one ability score and immunity to electricity and poison.
 
-When the energumen ends, the demoniac becomes confused for a number of rounds equal to her demoniac level as the demonic spirit has its way with her mind. At the start of each round of confusion, the demoniac can attempt a DC 25 Will save to end the confusion effect immediately.
+When the energumen ends, the demoniac becomes [confused](../../rules/appendices/conditions.md#confused) for a number of rounds equal to her demoniac level as the demonic spirit has its way with her mind. At the start of each round of confusion, the demoniac can attempt a DC 25 Will save to end the confusion effect immediately.
 
 Energumen is a possession effect, and it is negated by [*protection from evil*](../../magic/spells/protection-from-evil.md) or [*protection from chaos*](../../magic/spells/protection-from-chaos.md). A demoniac can prevent or end the confusion side effect by using one of these spells, but being affected by such a spell before the energumen has run its course also causes the benefits granted to end prematurely.
 

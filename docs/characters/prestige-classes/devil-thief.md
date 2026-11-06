@@ -27,7 +27,7 @@ To qualify to become a devil thief, a character must fulfill all of the followin
 
 **Feats**: [Weapon Finesse](../../rules/feats/weapon-finesse.md) plus any one of the following: Alertness, Athletic, Deceitful, [Deft Hands](../../rules/feats/deft-hands.md), [Magical Aptitude](../../rules/feats/magical-aptitude.md), Persuasive, or Stealthy.
 
-**Skills**: Knowledge (local) 5 ranks, 5 ranks each in any three of the following skills: Acrobatics, Bluff, Climb, Disable Device, Knowledge (history), Knowledge (nobility), Sense Motive, Sleight of Hand, Stealth, or Use Magic Device.
+**Skills**: Knowledge (local) 5 ranks, 5 ranks each in any three of the following skills: [Acrobatics](../../rules/skills/acrobatics.md), [Bluff](../../rules/skills/bluff.md), [Climb](../../rules/skills/climb.md), [Disable Device](../../rules/skills/disable-device.md), [Knowledge](../../rules/skills/knowledge.md) (history), Knowledge (nobility), [Sense Motive](../../rules/skills/sense-motive.md), [Sleight of Hand](../../rules/skills/sleight-of-hand.md), [Stealth](../../rules/skills/stealth.md), or [Use Magic Device](../../rules/skills/use-magic-device.md).
 
 ### Class Skills
 

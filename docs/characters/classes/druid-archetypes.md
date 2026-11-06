@@ -48,7 +48,7 @@ Other nature-themed classes with access to domains may select an animal or terra
 
 **Granted Powers**: The spirits and secrets of the endless wastes are yours to command.
 
-**Heat Shimmer (Su)**: As a free action, you can surround yourself with heat distortion that acts as the blur spell. Creatures that strike you in melee while you’re using this ability are dazzled for 1 round (Fortitude negates). You may use this ability for a number of rounds per day equal to 3 + your Wisdom modifier. These rounds need not be consecutive.
+**Heat Shimmer (Su)**: As a free action, you can surround yourself with heat distortion that acts as the blur spell. Creatures that strike you in melee while you’re using this ability are [dazzled](../../rules/appendices/conditions.md#dazzled) for 1 round (Fortitude negates). You may use this ability for a number of rounds per day equal to 3 + your Wisdom modifier. These rounds need not be consecutive.
 
 **Servant of the Sands (Sp)**: At 8th level, once per day, you may call upon the aid of a janni as if using lesser planar ally. At 12th level, you may call upon the aid of any type of common (non-noble) genie as if using planar ally. At 16th level, you may call upon the aid of a noble genie as if using greater planar ally. If you use this power while in desert terrain, you need not make an offering to call the creature(s), and the cost of any service is halved.
 
@@ -60,7 +60,7 @@ Other nature-themed classes with access to domains may select an animal or terra
 
 **Familiar**: You gain a hawk familiar. Your effective wizard level for this ability is equal to your druid level. Your druid level stacks with levels from other classes that grant familiars when determining the powers of your familiar.
 
-**Hawkeye (Su)**: As a swift action, you may add a bonus equal to half your druid level (minimum +1) on one ranged attack or on one Perception check. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+**Hawkeye (Su)**: As a swift action, you may add a bonus equal to half your druid level (minimum +1) on one ranged attack or on one [Perception](../../rules/skills/perception.md) check. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 **Aerial evasion (Ex)**: At 6th level, you gain the evasion ability (as a rogue) when you are flying. At 12th level, you gain improved evasion while flying.
 
@@ -82,7 +82,7 @@ Other nature-themed classes with access to domains may select an animal or terra
 
 **Granted Powers**: The spirits of the jungle, both of natural guardians and lost civilizations, whisper in your heart.
 
-**Brachiation (Ex)**: As a free action for a number of rounds per day equal to your druid level, you may climb with a climb speed equal to your land speed, and gain a bonus on Acrobatics checks equal to your druid level. These rounds do not have to be consecutive.
+**Brachiation (Ex)**: As a free action for a number of rounds per day equal to your druid level, you may climb with a climb speed equal to your land speed, and gain a bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks equal to your druid level. These rounds do not have to be consecutive.
 
 **Trap Sense (Ex)**: At 3rd level, you gain the trap sense ability. This is identical to the rogue class ability. Your effective rogue level is equal to your druid level for the purpose of determining your trap sense bonus. Trap sense bonuses gained from multiple classes stack.
 
@@ -94,7 +94,7 @@ Other nature-themed classes with access to domains may select an animal or terra
 
 **Familiar**: You gain a monkey familiar. Your effective wizard level for this ability is equal to your druid level. Your druid level stacks with levels from other classes that grant familiars when determining the powers of your familiar.
 
-**Monkey Athletics (Su)**: As a free action, you may add a competence bonus equal to half your druid level (minimum of +1) on one Acrobatics, Climb, Disable Device, or Sleight of Hand check. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+**Monkey Athletics (Su)**: As a free action, you may add a competence bonus equal to half your druid level (minimum of +1) on one Acrobatics, [Climb](../../rules/skills/climb.md), [Disable Device](../../rules/skills/disable-device.md), or [Sleight of Hand](../../rules/skills/sleight-of-hand.md) check. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 **Ranged Legerdemain (Su)**: At 6th level, you can use the Disable Device and Sleight of Hand skills at a range of 30 feet. Working at a distance increases the normal skill check DC by 5, and you cannot take 10 on this check. Any object to be manipulated must weigh 5 pounds or less.
 
@@ -108,7 +108,7 @@ You can only use this ability if you have at least 1 rank in the skill being use
 
 **Foothold (Su)**: As a standard action, you can cause an adjacent stone surface up to 10 feet square to mold itself into ridges and creases. A foothold that is created on a horizontal surface is treated as difficult terrain, and a Medium or smaller creature standing in the area or moving through it takes a –2 penalty on Acrobatics checks and to CMD due to poor footing. A foothold that is created on a vertical surface grants a +10 bonus on Climb checks to climb it. The stone remains altered for 1 hour. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
-**Thin Air (Su)**: At 8th level, as a free action, you can surround yourself with a 5-foot aura of supernaturally thin air that draws the breath from creatures adjacent to you. Creatures beginning their turn in the aura are fatigued (Fortitude negates). A fatigued creature that begins its turn in the aura must save or suffer from altitude sickness, taking 1 point of ability damage to all ability scores. At 16th level, the aura increases to 10 feet. Creatures that do not breathe are immune to this aura. You can use this ability for a number of rounds per day equal to your druid level; the rounds need not be consecutive.
+**Thin Air (Su)**: At 8th level, as a free action, you can surround yourself with a 5-foot aura of supernaturally thin air that draws the breath from creatures adjacent to you. Creatures beginning their turn in the aura are [fatigued](../../rules/appendices/conditions.md#fatigued) (Fortitude negates). A fatigued creature that begins its turn in the aura must save or suffer from altitude sickness, taking 1 point of ability damage to all ability scores. At 16th level, the aura increases to 10 feet. Creatures that do not breathe are immune to this aura. You can use this ability for a number of rounds per day equal to your druid level; the rounds need not be consecutive.
 
 **Domain Spells**: 1st—fist of stone\*\*, 2nd—stone call\*\*, 3rd— cloak of winds\*\*, 4th—stoneskin, 5th—geyser\*\*, 6th—suffocate\*\*, 7th—flesh to stone, 8th—reverse gravity, 9th—clashing rocks\*\*.
 
@@ -140,7 +140,7 @@ You can only use this ability if you have at least 1 rank in the skill being use
 
 **Familiar**: You gain a viper familiar. Your effective wizard level for this ability is equal to your druid level. Your druid level stacks with levels from other classes that grant familiars when determining the powers of your familiar.
 
-**Slither (Ex)**: As a free action, you can distend and stretch your body to fit easily through narrow spaces for 1 round. You can move freely through a tight space that would normally require a creature of your size to squeeze through. While slithering, you gain a +2 dodge bonus to Armor Class against attacks of opportunity provoked by your movement and a +2 bonus on CMB and on Escape Artist checks made to escape from a grapple. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+**Slither (Ex)**: As a free action, you can distend and stretch your body to fit easily through narrow spaces for 1 round. You can move freely through a tight space that would normally require a creature of your size to squeeze through. While slithering, you gain a +2 dodge bonus to Armor Class against attacks of opportunity provoked by your movement and a +2 bonus on CMB and on [Escape Artist](../../rules/skills/escape-artist.md) checks made to escape from a grapple. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 **Venom Immunity (Ex)**: At 6th level, you gain immunity to poisons from snakes, reptiles, and creatures with the reptilian subtype. At 12th level, you gain immunity to all poisons. This replaces [venom immunity](druid.md#venom-immunity-ex).
 
@@ -180,7 +180,7 @@ You can only use this ability if you have at least 1 rank in the skill being use
 
 ## Vermin Companions
 
-In addition to the normal choices of animal companions listed in the Core Rulebook, a druid who is so inclined may select a vermin as her companion. Vermin companions follow the same rules as animal companions, advancing their Hit Dice and other abilities per Table 3–8: Animal Companion Base Statistics . Vermin companions can be trained as if they were animals using the Handle Animal skill.
+In addition to the normal choices of animal companions listed in the Core Rulebook, a druid who is so inclined may select a vermin as her companion. Vermin companions follow the same rules as animal companions, advancing their Hit Dice and other abilities per Table 3–8: Animal Companion Base Statistics . Vermin companions can be trained as if they were animals using the [Handle Animal](../../rules/skills/handle-animal.md) skill.
 
 **Mindless**: Vermin companions have no Intelligence score and possess the mindless trait. In spite of this, vermin companions may learn one trick, plus additional bonus tricks as noted on Table 3–8: Animal Companion Base Statistics. If a vermin animal companion gains an ability score increase (at 4 Hit Dice, 8 Hit Dice, and so on), the druid can apply this increase to the companion’s Intelligence, changing it from — to 1, at which point the companion loses the mindless quality and is able to know up to 3 tricks per point of Intelligence, plus the additional bonus tricks, as noted on Table 3–8 in the Core Rulebook. Vermin companions have no skill points or feats as long as they have the mindless quality.
 
@@ -302,7 +302,7 @@ Each time a pack lord’s druid level increases, she must decide how to allocate
 
 Spun off into the endless circle of life, an incarnate druid is an embodiment of nature’s eternal renewal. She lives many lives and wanders the world devoid of attachments, a stranger to all yet one with all life.
 
-**Mysterious Stranger (Ex)**: At 2nd level, a reincarnated druids adds 1/2 her druid level to the DC of Sense Motive, Diplomacy, and Knowledge checks to learn about her.
+**Mysterious Stranger (Ex)**: At 2nd level, a reincarnated druids adds 1/2 her druid level to the DC of [Sense Motive](../../rules/skills/sense-motive.md), [Diplomacy](../../rules/skills/diplomacy.md), and [Knowledge](../../rules/skills/knowledge.md) checks to learn about her.
 
 This ability replaces [woodland stride](druid.md#woodland-stride-ex).
 
@@ -334,7 +334,7 @@ If choosing a domain, a saurian shaman must choose from the Animal, Destruction,
 
 **Wild Shape (Su)**: At 6th level, a saurian shaman’s wild shape ability functions at her druid level –2. If she takes on the form of a reptile or a dinosaur, she instead uses her druid level +2.
 
-**Bonus Feat**: At 9th level and every 4 levels thereafter, a saurian shaman gains one of the following bonus feats: [Improved Overrun](../../rules/feats/improved-overrun.md), [Nimble Moves](../../rules/feats/nimble-moves.md), [Power Attack](../../rules/feats/power-attack.md), Skill Focus (Intimidate), or [Vital Strike](../../rules/feats/vital-strike.md). She must meet the prerequisites for these bonus feats. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
+**Bonus Feat**: At 9th level and every 4 levels thereafter, a saurian shaman gains one of the following bonus feats: [Improved Overrun](../../rules/feats/improved-overrun.md), [Nimble Moves](../../rules/feats/nimble-moves.md), [Power Attack](../../rules/feats/power-attack.md), Skill Focus ([Intimidate](../../rules/skills/intimidate.md)), or [Vital Strike](../../rules/feats/vital-strike.md). She must meet the prerequisites for these bonus feats. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
 ## Shark Shaman
 
@@ -350,7 +350,7 @@ Some druids emulate the deadly shark, a remorseless hunter that marine dwellers 
 
 **Wild Shape (Su)**: At 6th level, a shark shaman’s wild shape ability functions at her druid level –2. If she takes on the form of a shark, she instead uses her druid level +2.
 
-**Bonus Feat**: At 9th level and every 4 levels thereafter, a shark shaman gains one of the following bonus feats: [Bleeding Critical](../../rules/feats/bleeding-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Self-Sufficient, or Skill Focus (Swim). She must meet prerequisites for these bonus feats. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
+**Bonus Feat**: At 9th level and every 4 levels thereafter, a shark shaman gains one of the following bonus feats: [Bleeding Critical](../../rules/feats/bleeding-critical.md), [Improved Initiative](../../rules/feats/improved-initiative.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), Self-Sufficient, or Skill Focus ([Swim](../../rules/skills/swim.md)). She must meet prerequisites for these bonus feats. This ability replaces [venom immunity](druid.md#venom-immunity-ex).
 
 ## Storm Druid
 
@@ -398,7 +398,7 @@ A nature fang is a druid who stalks and slays those who despoil nature, kill sca
 
 A wild whisperer is an expert at studying, predicting, and explaining animal behavior. She is less interested in plants, fey, and other aspects of the natural world, and uses her gifts to tame or relocate dangerous beasts and soothe the hurts of wounded and sickly creatures.
 
-**Inspiration (Ex)**: At 2nd level, a wild whisperer gains an inspiration pool as the [investigator class ability](investigator.md#inspiration-ex). A wild whisperer uses her druid level as her investigator level when determining the effects of this ability. Instead of free uses of inspiration on Knowledge, Linguistics, or Spellcraft skill checks, the wild whisperer can use inspiration on Handle Animal, Heal, Knowledge (geography), KKnowledge (nature), Ride, Sense Motive, and Survival skill checks without expending a use of inspiration, provided she's trained in the relevant skill. She can also use inspiration on any wild empathy check without expending a use of inspiration. A wild whisperer's inspiration pool refreshes each day when she prepares spells. This ability replaces [woodland stride](druid.md#woodland-stride-ex), [trackless step](druid.md#trackless-step-ex), and [resist nature's lure](druid.md#resist-natures-lure-ex).
+**Inspiration (Ex)**: At 2nd level, a wild whisperer gains an inspiration pool as the [investigator class ability](investigator.md#inspiration-ex). A wild whisperer uses her druid level as her investigator level when determining the effects of this ability. Instead of free uses of inspiration on Knowledge, [Linguistics](../../rules/skills/linguistics.md), or [Spellcraft](../../rules/skills/spellcraft.md) skill checks, the wild whisperer can use inspiration on Handle Animal, [Heal](../../rules/skills/heal.md), Knowledge (geography), KKnowledge (nature), [Ride](../../rules/skills/ride.md), Sense Motive, and [Survival](../../rules/skills/survival.md) skill checks without expending a use of inspiration, provided she's trained in the relevant skill. She can also use inspiration on any wild empathy check without expending a use of inspiration. A wild whisperer's inspiration pool refreshes each day when she prepares spells. This ability replaces [woodland stride](druid.md#woodland-stride-ex), [trackless step](druid.md#trackless-step-ex), and [resist nature's lure](druid.md#resist-natures-lure-ex).
 
 **Wild Shape (Ex)**: At 4th level, a wild whisperer gains the wild shape ability, but she never gains the ability to take the form of an elemental or plant. This ability alters [wild shape](druid.md#wild-shape-su).
 
@@ -570,7 +570,7 @@ These druids are the guardians of rivers and the creatures that depend on them. 
 
 **Ferrier (Ex)**: A river druid adds Diplomacy to her list of class skills and gains a +2 bonus on Diplomacy and Knowledge (nature) skill checks. This alters the druid’s class skills and replaces nature sense.
 
-**Read the Currents (Ex)**: At 2nd level, a river druid gains a bonus equal to half her druid level on initiative checks and Acrobatics, Knowledge (geography), Perception, Stealth, Survival, and Swim checks when she is in, on, or adjacent to flowing water. This replaces [woodland stride](druid.md#woodland-stride-ex).
+**Read the Currents (Ex)**: At 2nd level, a river druid gains a bonus equal to half her druid level on initiative checks and Acrobatics, Knowledge (geography), Perception, [Stealth](../../rules/skills/stealth.md), Survival, and Swim checks when she is in, on, or adjacent to flowing water. This replaces [woodland stride](druid.md#woodland-stride-ex).
 
 **Countercurrent (Ex)**: At 3rd level, a river druid takes no penalty to speed or on Acrobatics or Stealth checks in shallow water up to 2 feet deep (1 foot deep for Small characters) such as shallow bogs, shorelines, streams, and partially flooded areas. A river druid (and any vehicle she pilots) isn’t moved by flowing water unless she allows it. Water that has been magically manipulated to impede or boost motion still affects her. This replaces [trackless step](druid.md#trackless-step-ex).
 
@@ -606,7 +606,7 @@ Harbingers of decay, rot wardens live in damp lands where insects and rot break 
 
 **Vermin Empathy (Su)**: A rot warden can improve the attitude of vermin as a normal druid can with animals. Vermin have a starting attitude of unfriendly. The rot warden can also improve the attitude of vermin swarms, but he takes a –4 penalty on the check unless the swarm consists of the same kind of vermin as his vermin companion or his current wild shape. This replaces [wild empathy](druid.md#wild-empathy-ex).
 
-**Swarmcaller (Sp)**: At 3rd level, a rot warden can summon a swarm of vermin once per day as a standard action. This functions like summon swarm, except the swarm the rot warden summons must be a cockroach, locust, or spider swarm. If he uses this ability during the surprise round of combat, nearby animals and vermin become hushed until the first round of combat ends; during this surprise round and first round of combat, flat-footed creatures also gain the shaken condition (this doesn’t stack with other fear effects). At 9th level, he adds army ant, centipede, and wasp swarms to the list of swarms he can call with this ability. This replaces [trackless step](druid.md#trackless-step-ex) and [venom immunity](druid.md#venom-immunity-ex).
+**Swarmcaller (Sp)**: At 3rd level, a rot warden can summon a swarm of vermin once per day as a standard action. This functions like summon swarm, except the swarm the rot warden summons must be a cockroach, locust, or spider swarm. If he uses this ability during the surprise round of combat, nearby animals and vermin become hushed until the first round of combat ends; during this surprise round and first round of combat, [flat-footed](../../rules/appendices/conditions.md#flat-footed) creatures also gain the [shaken](../../rules/appendices/conditions.md#shaken) condition (this doesn’t stack with other fear effects). At 9th level, he adds army ant, centipede, and wasp swarms to the list of swarms he can call with this ability. This replaces [trackless step](druid.md#trackless-step-ex) and [venom immunity](druid.md#venom-immunity-ex).
 
 **Enduring Druid (Su)**: At 4th level, a rot warden gains a +4 bonus on saving throws against attacks and special abilities of vermin and swarms with the vermin type. This bonus also applies on saving throws against effects that would age or decay the rot warden or his equipment. This replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
@@ -636,7 +636,7 @@ Some druids develop ties not to a particular landscape, but instead to the endle
 
 **Nature Bond (Ex)**: At 1st level, a sky druid who chooses an animal companion must select one with a fly speed. If choosing a domain, the sky druid must choose from the Air, Animals, Liberation, and Weather domains, or subdomains appropriate to those domains.
 
-**Sky’s Embrace (Su)**: At 2nd level, a sky druid no longer takes falling damage, as though she were constantly under the effect of [*feather fall*](../../magic/spells/feather-fall.md). Additionally, she may take ranks in the Fly skill regardless of whether she has a natural fly speed, and may use her Fly skill in place of Acrobatics when making jump checks. This ability replaces [woodland stride](druid.md#woodland-stride-ex).
+**Sky’s Embrace (Su)**: At 2nd level, a sky druid no longer takes falling damage, as though she were constantly under the effect of [*feather fall*](../../magic/spells/feather-fall.md). Additionally, she may take ranks in the [Fly](../../rules/skills/fly.md) skill regardless of whether she has a natural fly speed, and may use her Fly skill in place of Acrobatics when making jump checks. This ability replaces [woodland stride](druid.md#woodland-stride-ex).
 
 **Resist Storm (Ex)**: At 4th level, a sky druid gains a +4 bonus on saving throws against spells with the air or electricity descriptors and against effects that control or modify the weather (such as [*sleet storm*](../../magic/spells/sleet-storm.md)). This ability replaces [resist nature’s lure](druid.md#resist-natures-lure-ex).
 
@@ -808,7 +808,7 @@ A feyspeaker loses the ability to spontaneously cast *summon nature’s ally* sp
 
     A feyspeaker loses the ability to spontaneously cast *summon nature’s ally* spells. She gains the wild shape ability at 6th level and gains all benefits related to wild shape 2  druid levels later than usual. She can never use wild shape to transform into an elemental. This ability alters [wild shape](druid.md#wild-shape-su) and spellcasting.
 
-**Fey Speech (Ex)**: At 1st level, a feyspeaker’s words carry a tiny fragment of the otherworldly power of the fey’s voices. She gains Bluff, Diplomacy, Disguise, and Sense Motive as class skills. A feyspeaker also learns Sylvan as a bonus language. In addition, the feyspeaker gains a number of skill ranks at each level equal to 6 + her Intelligence modifier, instead of 4 + her Intelligence modifier. The feyspeaker’s base attack bonus from her druid levels is equal to half her druid level (much like a sorcerer’s base attack bonus is calculated), rather than the usual druid base attack bonus. This ability replaces [nature sense](druid.md#nature-sense-ex) and alters the druid’s base attack bonus, class skills, and skills ranks per level.
+**Fey Speech (Ex)**: At 1st level, a feyspeaker’s words carry a tiny fragment of the otherworldly power of the fey’s voices. She gains [Bluff](../../rules/skills/bluff.md), Diplomacy, [Disguise](../../rules/skills/disguise.md), and Sense Motive as class skills. A feyspeaker also learns Sylvan as a bonus language. In addition, the feyspeaker gains a number of skill ranks at each level equal to 6 + her Intelligence modifier, instead of 4 + her Intelligence modifier. The feyspeaker’s base attack bonus from her druid levels is equal to half her druid level (much like a sorcerer’s base attack bonus is calculated), rather than the usual druid base attack bonus. This ability replaces [nature sense](druid.md#nature-sense-ex) and alters the druid’s base attack bonus, class skills, and skills ranks per level.
 
 **Wild Mischief (Ex)**: At 1st level, a feyspeaker can fool an animal into thinking there is food, a potential mate, or a predator nearby. This ability functions just like a Bluff check to deceive a character. To determine the result of the wild mischief check, the feyspeaker rolls 1d20 and adds her druid level and her Charisma modifier. As with Bluff checks, wild mischief checks are modified depending on the believability of the false information. A typical domestic animal is not particularly suspicious of the feyspeaker (no circumstance modifier), whereas wild animals are usually suspicious (–5 penalty on the check).
 
@@ -830,7 +830,7 @@ At 8th level, a skinshaper can imitate humanoid creatures even more accurately. 
 
 At 12th level, a skinshaper can access the racial memory of the humanoid she is imitating. If the form she assumes has any of the following racial abilities, she gains those abilities: defensive training, hatred, poison use, sneak attack +2d6, stability, and weapon familiarity. Additionally, she can speak any racial languages of the chosen form.
 
-At 16th level, a skinshaper gains the racial skill bonuses of the imitated humanoid, to a maximum of a +4 bonus on a given skill. The skinshaper cannot benefit from any variable racial skill bonuses associated with the chosen form (such as gnomes’ racial bonus on any one Craft or Profession skill). This ability replaces [wild shape](druid.md#wild-shape-su).
+At 16th level, a skinshaper gains the racial skill bonuses of the imitated humanoid, to a maximum of a +4 bonus on a given skill. The skinshaper cannot benefit from any variable racial skill bonuses associated with the chosen form (such as gnomes’ racial bonus on any one [Craft](../../rules/skills/craft.md) or [Profession](../../rules/skills/profession.md) skill). This ability replaces [wild shape](druid.md#wild-shape-su).
 
 **Flashmorph (Su)**: At 13th level, a skinshaper learns to change her shape extremely quickly. She can use skinshaping as a swift action. This ability replaces [a thousand faces](druid.md#a-thousand-faces-su).
 
@@ -1134,7 +1134,7 @@ Halcyon druids combine the teachings of an arcane tradition with traditional dru
 
 Fey-court adepts learn the secret magic of the First World fey in a moving, reality-phasing fey city that appears on the new moon at seemingly random locations in a remote forest. They often venerate the fey patrons of intrigue and trickery.
 
-**Fey-Court Skills**: A fey-court adept adds Bluff, Diplomacy, Disguise, Sense Motive, Perform (any), and Stealth to her list of class skills. This ability replaces [nature sense](druid.md#nature-sense-ex).
+**Fey-Court Skills**: A fey-court adept adds Bluff, Diplomacy, Disguise, Sense Motive, [Perform](../../rules/skills/perform.md) (any), and Stealth to her list of class skills. This ability replaces [nature sense](druid.md#nature-sense-ex).
 
 **Nature Bond (Su)**: A fey-court adept cannot select an animal companion, and can take only a domain. If she worships a fey power, she can choose any of the domains or subdomains granted by that power in addition to those normally available to druids. This ability alters [nature bond](druid.md#nature-bond-ex).
 
@@ -1152,7 +1152,7 @@ Some druids forge powerful bonds with the raw, natural power of the First World.
 
 **Primal Bond (Ex)**: A progenitor infuses herself with fey magic so that she is treated as either her original creature type or the fey type for the purposes of spells or effects that target a creature by type, whichever is more beneficial to her. Additionally, the progenitor chooses one of two forms through which this bond expresses itself: magic or nature.
 
-A progenitor who chooses magic as her primal bond can draw upon wild magic as a swift action to attempt to cast a prepared spell without losing that spell from its spell slot. To use this ability, she casts the spell as she would normally, but as the spell's effects take place, she must attempt a concentration check (DC = 20 + twice the spell's level). If she fails, she expends the spell normally as if she had cast it, but its effects are replaced by a wild magic effect with a CR equal to her caster level and she is staggered until the end of her next turn. If she succeeds, she casts the spell normally and it is not expended from her prepared spell slot, allowing her to cast that spell again at a later point. A progenitor can use wild magic in this manner once per day plus one additional time per day at 5th level and every 5 levels thereafter.
+A progenitor who chooses magic as her primal bond can draw upon wild magic as a swift action to attempt to cast a prepared spell without losing that spell from its spell slot. To use this ability, she casts the spell as she would normally, but as the spell's effects take place, she must attempt a concentration check (DC = 20 + twice the spell's level). If she fails, she expends the spell normally as if she had cast it, but its effects are replaced by a wild magic effect with a CR equal to her caster level and she is [staggered](../../rules/appendices/conditions.md#staggered) until the end of her next turn. If she succeeds, she casts the spell normally and it is not expended from her prepared spell slot, allowing her to cast that spell again at a later point. A progenitor can use wild magic in this manner once per day plus one additional time per day at 5th level and every 5 levels thereafter.
 
 A progenitor who chooses nature as her primal bond can create plants as a full-round action. She can do so once per day plus one additional time per day per 5 levels. At the start of her next turn, so long as she is touching a solid surface underfoot, a 5-foot radius of mobile undergrowth springs to life around the progenitor for a number of rounds equal to 3 plus the progenitor's Wisdom bonus. Upon activating this ability, the progenitor chooses whether the undergrowth provides cover or difficult terrain. If the progenitor chooses cover, her undergrowth provides a cover bonus to AC to the progenitor and allies within the radius. If she chooses difficult terrain, enemies who enter the radius of undergrowth treat it as difficult terrain. A progenitor's undergrowth is treated as forest terrain if it provides cover and plains terrain if it provides difficult terrain. This radius increases by 5 feet at 5th level and every 5 levels thereafter.
 
@@ -1336,7 +1336,7 @@ Swarm mongers are unparalleled survivors, thriving on the filthy fringes of soci
 
 **Fecund Familiar (Ex)**: A swarm monger bonds with an urban familiar, treating her druid level as her wizard level for the purposes of determining her familiar's abilities. The swarm monger must select her familiar from the following options: cat, house centipede, rat, raven, or scarlet spider. The fecund familiar gains the benefits of its master's child of pollution, shadowy opportunist, and venom immunity class abilities. As a standard action, a swarm monger can cause her familiar to burst forth into a full swarm of identical creatures, filling four contiguous 5-foot squares and gaining temporary hit points equal to half its master's maximum hit points. While in swarm form, the familiar loses the improved evasion, share spells, deliver touch attack, and scry on familiar special abilities. It uses its normal AC, saving throws, and skill bonuses, and it gains the swarm subtype and the ability to make swarm attacks (dealing 1d6 points of damage at 1st level and using the swarm monger's druid level as the swarm's Hit Dice to determine damage increases as per the swarm subtype). The swarm monger is immune to her own familiar's swarm attack.
 
-Beginning at 5th level, any creature damaged by a fecund familiar's swarm attack must succeed at a Fortitude saving throw (DC = 10 + 1/2 the swarm monger's druid level + the swarm monger's Wisdom modifier) or be sickened for 1d6 rounds. At 12th level, creatures that fail their Fortitude saving throws instead become nauseated. A swarm monger can transform her familiar into a swarm a number of times each day equal to her Wisdom modifier (minimum 1), and the transformation lasts for 1 minute per druid level, or until the swarm monger reverts her familiar back to a singular form as a standard action. A fecund familiar cannot be reduced in size to Diminutive or smaller when in swarm form. This ability replaces [nature bond](druid.md#nature-bond-ex).
+Beginning at 5th level, any creature damaged by a fecund familiar's swarm attack must succeed at a Fortitude saving throw (DC = 10 + 1/2 the swarm monger's druid level + the swarm monger's Wisdom modifier) or be [sickened](../../rules/appendices/conditions.md#sickened) for 1d6 rounds. At 12th level, creatures that fail their Fortitude saving throws instead become [nauseated](../../rules/appendices/conditions.md#nauseated). A swarm monger can transform her familiar into a swarm a number of times each day equal to her Wisdom modifier (minimum 1), and the transformation lasts for 1 minute per druid level, or until the swarm monger reverts her familiar back to a singular form as a standard action. A fecund familiar cannot be reduced in size to Diminutive or smaller when in swarm form. This ability replaces [nature bond](druid.md#nature-bond-ex).
 
 **Low Friends (Ex)**: At 2nd level, a swarm monger gains [Vermin Heart](../../rules/feats/vermin-heart.md) as a bonus feat. This ability replaces [woodland stride](druid.md#woodland-stride-ex).
 
@@ -1432,7 +1432,7 @@ The following domains are common among druids who frequent the Elemental Planes.
 
 **Aquatic Veil (Su)**: As a standard action, you can sheathe your body in a thin layer of water for a number of rounds equal to your Wisdom modifier. This grants a bonus on Swim checks equal to 1/2 your druid level and allows you to breathe normally underwater. You can end the effect when delivering a touch spell to create a pseudopod of water that extends your effective reach by 5 feet for that attack (10 feet when used underwater). You can use this ability 3 + your Wisdom modifier times per day.
 
-**Hydraulic Crush (Sp)**: At 8th level, you can strike an area with a pressurized blast of water in a 5-foot-radius column 30 feet tall with a range of 60 feet. Creatures in the area take 1d6 bludgeoning damage per druid level and are knocked prone. When used underwater, the radius and height double, and the effect instead creates a powerful eddy that causes affected creatures to lose their Dexterity bonus to Armor Class for 1 round instead of knocking them prone. A successful Reflex save halves the damage and prevents the secondary effect. You can use this ability once per day, plus once more for every 6 levels beyond 8th.
+**Hydraulic Crush (Sp)**: At 8th level, you can strike an area with a pressurized blast of water in a 5-foot-radius column 30 feet tall with a range of 60 feet. Creatures in the area take 1d6 bludgeoning damage per druid level and are knocked [prone](../../rules/appendices/conditions.md#prone). When used underwater, the radius and height double, and the effect instead creates a powerful eddy that causes affected creatures to lose their Dexterity bonus to Armor Class for 1 round instead of knocking them prone. A successful Reflex save halves the damage and prevents the secondary effect. You can use this ability once per day, plus once more for every 6 levels beyond 8th.
 
 **Domain Spells**: 1st—touch of the sea, 2nd—elemental speech, 3rd—water breathing, 4th—planar adaptation, 5th—solid fog (functions underwater), 6th—mass planar adaptation, 7th—fluid form, 8th—seamantle, 9th—tsunami.
 

@@ -111,6 +111,6 @@ In addition, each domain specialization grants a spell-like ability (which funct
 
 **Deific Defense (Su)**: At 7th level, a divine scion gains DR 2, bypassed by attacks with the alignment subtype of her opposition alignment (so a divine scion with "evil" as her opposition alignment gains DR 2/evil).
 
-**Divine Awe (Su)**: At 8th level, a divine scion's spells can stagger creatures that match the alignment subtypes of the divine scion's opposition alignment. When such a creature is affected by a divine scion's spell, it is staggered for 1 round if it fails its save against that spell. If the creature makes its save (or if the spell doesn't allow a saving throw), this ability has no effect.
+**Divine Awe (Su)**: At 8th level, a divine scion's spells can stagger creatures that match the alignment subtypes of the divine scion's opposition alignment. When such a creature is affected by a divine scion's spell, it is [staggered](../../rules/appendices/conditions.md#staggered) for 1 round if it fails its save against that spell. If the creature makes its save (or if the spell doesn't allow a saving throw), this ability has no effect.
 
 **True Scion**: At 10th level, a divine scion becomes a true scion of her deity. The amount of healing she gains from her domain specialization doubles. Her divine wrath ability now deals +2 points of damage per die against creatures of the appropriate alignment. The damage reduction granted by her deific defense increases to 5. Finally, she permanently increases her Wisdom or Charisma score (her choice) by +1.

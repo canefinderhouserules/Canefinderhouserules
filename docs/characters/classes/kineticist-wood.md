@@ -9,7 +9,7 @@ Traditionally, kineticists draw power from the building blocks of the world, usi
 
 Kineticists who focus on the concept of wood as an element are known as phytokineticists. Phytokineticists share a strong bond with the First World and channel the power of primordial life. As there is no “Elemental Plane of Wood,” the phytokineticist draws upon pockets of vital energy that form when the Elemental Planes grind against the borders of the First World. Infusions marked with a dagger (†) are described in this section.
 
-**Class Skills**: A phytokineticist adds Handle Animal and Knowledge (nature) to her list of class skills.
+**Class Skills**: A phytokineticist adds [Handle Animal](../../rules/skills/handle-animal.md) and Knowledge (nature) to her list of class skills.
 
 **Basic Utility Wild Talent**: Phytokineticists gain basic phytokinesis.
 
@@ -113,7 +113,7 @@ You use kinetic healer or void healer (whichever you have, or either if you have
 
 **Element** wood; **Type** utility (Sp); **Level** 4; **Burn** 0
 
-Your body can produce the herbal remedies necessary to counter almost any poison. You gain a +5 alchemical bonus on saving throws against poison, as if you were always under the effect of antitoxin. You can use the treat poison action from the Heal skill as a standard action with a mere touch, without a healer’s kit, and even on yourself; if you succeed, you grant the touched creature a +5 alchemical bonus against that specific instance of poison in addition to the normal +4 bonus from treat poison. You can accept 1 point of burn while using the treat poison action in this way to also produce the effects of neutralize poison.
+Your body can produce the herbal remedies necessary to counter almost any poison. You gain a +5 alchemical bonus on saving throws against poison, as if you were always under the effect of antitoxin. You can use the treat poison action from the [Heal](../../rules/skills/heal.md) skill as a standard action with a mere touch, without a healer’s kit, and even on yourself; if you succeed, you grant the touched creature a +5 alchemical bonus against that specific instance of poison in addition to the normal +4 bonus from treat poison. You can accept 1 point of burn while using the treat poison action in this way to also produce the effects of neutralize poison.
 
 ### Merciful Foliage
 
@@ -227,7 +227,7 @@ You cover your body in barbed thorns that injure foes who strike you. This funct
 
 **Saving Throw** Fortitude negates
 
-The plants in your blast are mildly toxic. All creatures that take piercing or slashing damage from your blast are sickened for 1 round.
+The plants in your blast are mildly toxic. All creatures that take piercing or slashing damage from your blast are [sickened](../../rules/appendices/conditions.md#sickened) for 1 round.
 
 ### Toxic Infusion, Greater
 

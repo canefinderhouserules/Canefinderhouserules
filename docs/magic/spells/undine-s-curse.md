@@ -8,4 +8,4 @@
 **Duration** 1 hour/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-The target loses its body’s natural ability to breathe automatically. As long as it remains conscious and is able to take physical actions, it keeps breathing and is able to function normally. If it is ever unconscious (including sleeping) or unable to take physical actions, it stops breathing and begins to suffocate. Creatures that do not have to breathe are immune to this spell.
+The target loses its body’s natural ability to breathe automatically. As long as it remains conscious and is able to take physical actions, it keeps breathing and is able to function normally. If it is ever [unconscious](../../rules/appendices/conditions.md#unconscious) (including sleeping) or unable to take physical actions, it stops breathing and begins to suffocate. Creatures that do not have to breathe are immune to this spell.

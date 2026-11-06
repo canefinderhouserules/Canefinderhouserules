@@ -19,7 +19,7 @@ Target Restrictions selected When a wordspell with this effect word is cast, the
 **Saving Throw** Will partial; **Spell Resistance** yes  
 **Target Restrictions** burst, cone, line
 
-If a wordspell with this effect word is cast, the wordcaster selects one alignment: good, evil, chaotic, or lawful. All creatures of that alignment take 1d8 points of damage per two caster levels (maximum 8d8). Outsiders of that alignment take 1d6 points of damage per caster level (maximum 15d6). In addition, creatures of the affected alignment are staggered for 1 round per caster level if they fail their saving throws.
+If a wordspell with this effect word is cast, the wordcaster selects one alignment: good, evil, chaotic, or lawful. All creatures of that alignment take 1d8 points of damage per two caster levels (maximum 8d8). Outsiders of that alignment take 1d6 points of damage per caster level (maximum 15d6). In addition, creatures of the affected alignment are [staggered](../../../rules/appendices/conditions.md#staggered) for 1 round per caster level if they fail their saving throws.
 
 ## Alignment Aura (Alignment)
 

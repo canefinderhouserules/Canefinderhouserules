@@ -11,9 +11,9 @@ The following masterful tricks are available to all mesmerists.
 
 **Allay Pain**: The subject of this trick gains DR 15/— against one attack that deals nonlethal damage. The mesmerist can trigger this trick whenever the subject is hit with an attack that deals nonlethal damage.
 
-**Shadow Blend**: The mesmerist can trigger this trick whenever the subject attempts a Stealth check while in an area of dim or darker light. The subject gains total concealment from all enemies (50% miss chance) as long as it remains within areas of dim or darker light. Against creatures with darkvision, the subject gains concealment (20% miss chance) rather than total concealment. Once triggered, this effect lasts for 1 round per mesmerist level or until the subject enters an area of normal or brighter light.
+**Shadow Blend**: The mesmerist can trigger this trick whenever the subject attempts a [Stealth](../../rules/skills/stealth.md) check while in an area of dim or darker light. The subject gains total concealment from all enemies (50% miss chance) as long as it remains within areas of dim or darker light. Against creatures with darkvision, the subject gains concealment (20% miss chance) rather than total concealment. Once triggered, this effect lasts for 1 round per mesmerist level or until the subject enters an area of normal or brighter light.
 
-**Umbral Transformation**: The subject of this trick turns into a living shadow for 1 round, as if affected by [*shadow body*](../../magic/spells/shadow-body.md). After this trick ends, the subject is staggered for 1 round.
+**Umbral Transformation**: The subject of this trick turns into a living shadow for 1 round, as if affected by [*shadow body*](../../magic/spells/shadow-body.md). After this trick ends, the subject is [staggered](../../rules/appendices/conditions.md#staggered) for 1 round.
 
 ## Mesmerist Tricks
 
@@ -21,11 +21,11 @@ The following mesmerist tricks are available to all mesmerists.
 
 **Fleet in Shadows**: The mesmerist can trigger this trick whenever the target enters an area with dim or darker light. The subject can move double its normal speed (up to an additional 30 feet) for 1 round, but only while moving through areas of dim or darker light. Additionally, the subject can move at its normal speed and use the bonus speed from this trick in areas of total darkness, even if it cannot see.
 
-**Reflect Fear**: The mesmerist can trigger this trick when the subject is affected by a fear effect or is the target of an Intimidate check to demoralize it. When the trick is triggered, the subject suppresses the fear effect that triggered the trick for 1d4 rounds, and any creature that caused this effect must succeed at a Will save or become shaken for 1 round. The rounds during which the subject ignores the triggering fear effect still count against the effect's duration. If the duration of the reflect fear trick is longer than the fear effect lasts, the subject isn't affected by the fear effect at all.
+**Reflect Fear**: The mesmerist can trigger this trick when the subject is affected by a fear effect or is the target of an [Intimidate](../../rules/skills/intimidate.md) check to demoralize it. When the trick is triggered, the subject suppresses the fear effect that triggered the trick for 1d4 rounds, and any creature that caused this effect must succeed at a Will save or become [shaken](../../rules/appendices/conditions.md#shaken) for 1 round. The rounds during which the subject ignores the triggering fear effect still count against the effect's duration. If the duration of the reflect fear trick is longer than the fear effect lasts, the subject isn't affected by the fear effect at all.
 
 **See in Darkness**: The subject gains darkvision with a range of 60 feet for 1 minute. The mesmerist can trigger this trick when the subject moves into an area of darkness.
 
-**Umbral Shield**: The subject ignores any harmful effects of bright light or sunlight for 1 minute. The mesmerist can trigger this trick whenever the subject would be exposed to harmful bright light (such as sunlight is to a vampire). The subject is immune to the dazzled condition while this trick is in effect.
+**Umbral Shield**: The subject ignores any harmful effects of bright light or sunlight for 1 minute. The mesmerist can trigger this trick whenever the subject would be exposed to harmful bright light (such as sunlight is to a vampire). The subject is immune to the [dazzled](../../rules/appendices/conditions.md#dazzled) condition while this trick is in effect.
 
 ## Bold Stare Improvements
 
@@ -33,7 +33,7 @@ The following bold stare improvements are available to all mesmerists.
 
 **Disquiet**: The target of the hypnotic stare is shaken while in areas of total darkness.
 
-**Infiltration**: The hypnotic stare penalty also applies to the target's Perception checks and CMD.
+**Infiltration**: The hypnotic stare penalty also applies to the target's [Perception](../../rules/skills/perception.md) checks and CMD.
 
 **Lethality**: The hypnotic stare penalty also applies to the target's Fortitude saves versus poison and diseases.
 
@@ -45,7 +45,7 @@ The following bold stare improvements are available to all mesmerists.
 
 **Restriction**: The target of the hypnotic stare treats all areas of dim light or darker as difficult terrain.
 
-**Sabotage**: The hypnotic stare penalty also applies to Diplomacy and Intimidate checks.
+**Sabotage**: The hypnotic stare penalty also applies to [Diplomacy](../../rules/skills/diplomacy.md) and Intimidate checks.
 
 ## Umbral Mesmerist (Archetype)
 

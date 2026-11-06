@@ -32,4 +32,4 @@ Two lifelong explorers, wanderers and connoisseurs of all forms of alcohol, who 
 
 A figure from operatic tragedy who ruled a port city through cunning politicking and woven webs of words, such that none could even whisper a plot against her.
 
-**Charming Smile, Cunning Soul (Social Exemplar)**: You know how to guilefully weave words, sway hearts and minds, verbally destroy rivals, and pierce cunning lies. You gain a +1 trait bonus on Bluff, Diplomacy, Intimidate, and Sense Motive checks. This bonus increases by 1 for every two other social traits you have.
+**Charming Smile, Cunning Soul (Social Exemplar)**: You know how to guilefully weave words, sway hearts and minds, verbally destroy rivals, and pierce cunning lies. You gain a +1 trait bonus on [Bluff](../../rules/skills/bluff.md), [Diplomacy](../../rules/skills/diplomacy.md), [Intimidate](../../rules/skills/intimidate.md), and [Sense Motive](../../rules/skills/sense-motive.md) checks. This bonus increases by 1 for every two other social traits you have.

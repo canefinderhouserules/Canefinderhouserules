@@ -8,7 +8,7 @@
 **Duration** instantaneous  
 **Saving Throw** Reflex partial; see text; **Spell Resistance** yes
 
-*Sunburst* causes a globe of searing radiance to explode silently from a point you select. All creatures in the globe are blinded and take 6d6 points of damage. A creature to which sunlight is harmful or unnatural takes double damage. A successful Reflex save negates the blindness and reduces the damage by half.
+*Sunburst* causes a globe of searing radiance to explode silently from a point you select. All creatures in the globe are [blinded](../../rules/appendices/conditions.md#blinded) and take 6d6 points of damage. A creature to which sunlight is harmful or unnatural takes double damage. A successful Reflex save negates the blindness and reduces the damage by half.
 
 An undead creature caught within the globe takes 1d6 points of damage per caster level (maximum 25d6), or half damage if a Reflex save is successful. In addition, the burst results in the destruction of any undead creature specifically harmed by bright light if it fails its save.
 

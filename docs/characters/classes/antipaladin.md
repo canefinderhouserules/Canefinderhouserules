@@ -85,7 +85,7 @@ Alternatively, an antipaladin can use this power to heal undead creatures, resto
 
 ### Aura of Cowardice (Su)
 
-At 3rd level, an antipaladin radiates a palpably daunting aura that causes all enemies within 10 feet to take a –4 penalty on saving throws against fear effects. Creatures that are normally immune to fear lose that immunity while within 10 feet of an antipaladin with this ability. This ability functions only while the antipaladin remains conscious, not if he is unconscious or dead.
+At 3rd level, an antipaladin radiates a palpably daunting aura that causes all enemies within 10 feet to take a –4 penalty on saving throws against fear effects. Creatures that are normally immune to fear lose that immunity while within 10 feet of an antipaladin with this ability. This ability functions only while the antipaladin remains conscious, not if he is [unconscious](../../rules/appendices/conditions.md#unconscious) or dead.
 
 ### Plague Bringer (Ex)
 
@@ -97,41 +97,41 @@ An antipaladin does not take any damage or take any penalty from diseases. He ca
 
 At 3rd level, and every three levels thereafter, an antipaladin can select one cruelty. Each cruelty adds an effect to the antipaladin’s touch of corruption ability. Whenever the antipaladin uses touch of corruption to deal damage to one target, the target also receives the additional effect from one of the cruelties possessed by the antipaladin. This choice is made when the touch is used. The target receives a Fortitude save to avoid this cruelty. If the save is successful, the target takes the damage as normal, but not the effects of the cruelty. The DC of this save is equal to 10 + 1/2 the antipaladin’s level + the antipaladin’s Charisma modifier. At 3rd level, the antipaladin can select from the following initial cruelties.
 
-• Fatigued: The target is fatigued.
+• [Fatigued](../../rules/appendices/conditions.md#fatigued): The target is fatigued.
 
-• Shaken: The target is shaken for 1 round per level of the antipaladin.
+• [Shaken](../../rules/appendices/conditions.md#shaken): The target is shaken for 1 round per level of the antipaladin.
 
-• Sickened: The target is sickened for 1 round per level of the antipaladin.
+• [Sickened](../../rules/appendices/conditions.md#sickened): The target is sickened for 1 round per level of the antipaladin.
 
 At 6th level, an antipaladin adds the following cruelties to the list of those that can be selected.
 
-• Dazed: The target is dazed for 1 round.
+• [Dazed](../../rules/appendices/conditions.md#dazed): The target is dazed for 1 round.
 
 • Diseased: The target contracts a disease, as if the antipaladin had cast contagion, using his antipaladin level as his caster level.
 
-• Staggered: The target is staggered for 1 round per two levels of the antipaladin.
+• [Staggered](../../rules/appendices/conditions.md#staggered): The target is staggered for 1 round per two levels of the antipaladin.
 
 At 9th level, an antipaladin adds the following cruelties to the list of those that can be selected.
 
 • Cursed: The target is cursed, as if the antipaladin had cast bestow curse, using his antipaladin level as his caster level.
 
-• Exhausted: The target is exhausted. The antipaladin must have the fatigue cruelty before selecting this cruelty.
+• [Exhausted](../../rules/appendices/conditions.md#exhausted): The target is exhausted. The antipaladin must have the fatigue cruelty before selecting this cruelty.
 
-• Frightened: The target is frightened for 1 round per two levels of the antipaladin. The antipaladin must have the shaken cruelty before selecting this cruelty.
+• [Frightened](../../rules/appendices/conditions.md#frightened): The target is frightened for 1 round per two levels of the antipaladin. The antipaladin must have the shaken cruelty before selecting this cruelty.
 
-• Nauseated: The target is nauseated for 1 round per three levels of the antipaladin. The antipaladin must have the sickened cruelty before selecting this cruelty.
+• [Nauseated](../../rules/appendices/conditions.md#nauseated): The target is nauseated for 1 round per three levels of the antipaladin. The antipaladin must have the sickened cruelty before selecting this cruelty.
 
 • Poisoned: The target is poisoned, as if the antipaladin had cast poison, using the antipaladin’s level as the caster level.
 
 At 12th level, an antipaladin adds the following cruelties to the list of those that can be selected.
 
-• Blinded: The target is blinded for 1 round per level of the antipaladin.
+• [Blinded](../../rules/appendices/conditions.md#blinded): The target is blinded for 1 round per level of the antipaladin.
 
-• Deafened: The target is deafened for 1 round per level of the antipaladin.
+• [Deafened](../../rules/appendices/conditions.md#deafened): The target is deafened for 1 round per level of the antipaladin.
 
-• Paralyzed: The target is paralyzed for 1 round.
+• [Paralyzed](../../rules/appendices/conditions.md#paralyzed): The target is paralyzed for 1 round.
 
-• Stunned: The target is stunned for 1 round per four levels of the antipaladin.
+• [Stunned](../../rules/appendices/conditions.md#stunned): The target is stunned for 1 round per four levels of the antipaladin.
 
 These abilities are not cumulative. For example, a 12th-level antipaladin’s touch of corruption ability deals 6d6 points of damage and might also cause the target to become fatigued, dazed, poisoned, or diseased. Once a cruelty is chosen, it can’t be changed.
 

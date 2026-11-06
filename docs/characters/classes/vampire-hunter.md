@@ -45,7 +45,7 @@ For a full list of Technique Feats, click here. To find other feats from this r
 
 ### Track (Ex)
 
-A vampire hunter adds half his level to Survival skill checks to follow tracks.
+A vampire hunter adds half his level to [Survival](../../rules/skills/survival.md) skill checks to follow tracks.
 
 ### Vampiric Focus (Su)
 
@@ -61,7 +61,7 @@ Once the vampire hunter ends a focus, it cannot be reactivated for 1 minute. The
 
 ### Relentless (Ex)
 
-At 2nd level, a vampire hunter can travel for an extended period of time without rest. The vampire hunter (and his mount, if he has one) can walk 16 hours in a day of travel without it being considered a forced march, but at the end of that day, he must attempt a DC 15 Fortitude saving throw. If he fails, he can travel for 8 hours the following day, and he (as well as his mount, if he has one) is fatigued for the following 24 hours. If he succeeds at the saving throw, he can use this ability again the following day. The DC of the Fortitude saving throw increases by 2 for every additional day the vampire hunter has been traveling for more than 8 hours. The vampire hunter does not need to attempt a separate saving throw for his mount. After the vampire hunter rests for 24 hours, the saving throw DC resets to 15.
+At 2nd level, a vampire hunter can travel for an extended period of time without rest. The vampire hunter (and his mount, if he has one) can walk 16 hours in a day of travel without it being considered a forced march, but at the end of that day, he must attempt a DC 15 Fortitude saving throw. If he fails, he can travel for 8 hours the following day, and he (as well as his mount, if he has one) is [fatigued](../../rules/appendices/conditions.md#fatigued) for the following 24 hours. If he succeeds at the saving throw, he can use this ability again the following day. The DC of the Fortitude saving throw increases by 2 for every additional day the vampire hunter has been traveling for more than 8 hours. The vampire hunter does not need to attempt a separate saving throw for his mount. After the vampire hunter rests for 24 hours, the saving throw DC resets to 15.
 
 ### Stake (Su)
 
@@ -118,7 +118,7 @@ Items used in this manner are typically alchemical items, such as acid or holy w
 
 This ability can be used against incorporeal creatures.
 
-If the target creature is a vampire and the vampire hunter has a wooden stake in his [*possession*](../../magic/spells/possession.md) (or a similar item affected by his stake ability), he can drive the stake through the vampire’s heart as though it were helpless, slaying it immediately. If the creature is not a vampire, this attempt fails at the last moment; the vampire hunter realizes that the target is not a vampire. A vampire hunter cannot drive a stake through the heart of a non-vampire using this ability.
+If the target creature is a vampire and the vampire hunter has a wooden stake in his [*possession*](../../magic/spells/possession.md) (or a similar item affected by his stake ability), he can drive the stake through the vampire’s heart as though it were [helpless](../../rules/appendices/conditions.md#helpless), slaying it immediately. If the creature is not a vampire, this attempt fails at the last moment; the vampire hunter realizes that the target is not a vampire. A vampire hunter cannot drive a stake through the heart of a non-vampire using this ability.
 
 ### Improved Quarry (Ex)
 

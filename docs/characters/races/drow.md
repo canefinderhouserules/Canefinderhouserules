@@ -30,7 +30,7 @@ Cruel and cunning, drow are a dark reflection of the elven race. Also called dar
 
 **Drow Immunities**: Drow are immune to magic sleep effects and gain a +2 racial bonus on saving throws against enchantment spells and effects.
 
-**Keen Senses**: Drow gain a +2 racial bonus on Perception checks.
+**Keen Senses**: Drow gain a +2 racial bonus on [Perception](../../rules/skills/perception.md) checks.
 
 **Poison Use**: Drow are skilled in the use of poison and never risk accidentally poisoning themselves.
 
@@ -38,7 +38,7 @@ Cruel and cunning, drow are a dark reflection of the elven race. Also called dar
 
 **Spell**-**Like Abilities**: A drow can cast [*dancing lights*](../../magic/spells/dancing-lights.md), [*darkness*](../../magic/spells/darkness.md), and [*faerie fire*](../../magic/spells/faerie-fire.md), once each per day, using her total character level as her caster level.
 
-**Light Blindness**: Abrupt exposure to bright light blinds drow for 1 round; on subsequent rounds, they are dazzled as long as they remain in the affected area.
+**Light Blindness**: Abrupt exposure to bright light blinds drow for 1 round; on subsequent rounds, they are [dazzled](../../rules/appendices/conditions.md#dazzled) as long as they remain in the affected area.
 
 **Weapon Familiarity**: Drow are proficient with the [hand crossbow](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons).
 
@@ -48,11 +48,11 @@ Cruel and cunning, drow are a dark reflection of the elven race. Also called dar
 
 The following racial traits may be selected instead of existing drow racial traits. Consult your GM before selecting any of these new options.
 
-**Ambitious Schemer**: Seduction and treachery are tools for advancement in drow society, even for the martially inclined. Drow with this racial trait may choose either Bluff or Diplomacy as a class skill, and gain a +2 bonus on such skill checks. This racial trait replaces keen sight.
+**Ambitious Schemer**: Seduction and treachery are tools for advancement in drow society, even for the martially inclined. Drow with this racial trait may choose either [Bluff](../../rules/skills/bluff.md) or Diplomacy as a class skill, and gain a +2 bonus on such skill checks. This racial trait replaces keen sight.
 
 **Ancestral Grudge**: The enmity between the drow and elves and dwarves is long-standing and deeply entrenched. Drow with this racial trait gain a +1 bonus on attack rolls against humanoids with the dwarf or elf subtypes (with the exception of drow) because of their special training against these reviled foes. This racial trait replaces poison use.
 
-**Blasphemous Covenant**: Since their twisted beginnings, the drow have consorted with demons. Some drow have strong ties with these creatures and may call upon ancient and obscene associations to sway demonic cooperation. Drow with this racial trait gain a +2 bonus on Diplomacy checks made against unbound creatures with the demon subtype. Furthermore, demons conjured with any *summon* spell gain +2 hit points per Hit Die. Lastly, the cost of bribes or offerings for any [*planar ally*](../../magic/spells/planar-ally.md) spell cast by these drow to summon a demon is reduced by 20%. This racial trait replaces keen senses and poison use.
+**Blasphemous Covenant**: Since their twisted beginnings, the drow have consorted with demons. Some drow have strong ties with these creatures and may call upon ancient and obscene associations to sway demonic cooperation. Drow with this racial trait gain a +2 bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks made against unbound creatures with the demon subtype. Furthermore, demons conjured with any *summon* spell gain +2 hit points per Hit Die. Lastly, the cost of bribes or offerings for any [*planar ally*](../../magic/spells/planar-ally.md) spell cast by these drow to summon a demon is reduced by 20%. This racial trait replaces keen senses and poison use.
 
 **Champion of Dark Powers**: Some drow offer themselves to dark patrons, particularly demon lords. Drow with this racial trait apply their spell resistance only against spells with the good or healing descriptor or against spells cast by a divine spellcaster who worships a good-aligned deity. Anytime a drow with this racial trait casts a spell with the evil descriptor, the DC to resist the spell's effects increases by 2. This modifies the spell resistance racial trait.
 
@@ -68,7 +68,7 @@ The following traits can be selected by drow or half-elves instead of existing d
 
 **Drow Heritage**: Half-elves with this trait count as drow for the purposes of any effect related to race, including prerequisites. This racial trait replaces the ability to choose any language as a bonus language, instead limiting the character to the bonus languages offered to drow.
 
-**Flexible Half-Breed**: Once per day, half-elves with this trait can use [*alter self*](../../magic/spells/alter-self.md) as a spell-like ability to appear as humans, drow, or elves. The half-elf can change the race of this form each time she uses this ability, but the specific form for each race is static. She gains a +10 bonus to Disguise checks to appear as a member of the chosen race. The caster level for this ability is equal to the character's Hit Dice. This racial trait replaces multitalented.
+**Flexible Half-Breed**: Once per day, half-elves with this trait can use [*alter self*](../../magic/spells/alter-self.md) as a spell-like ability to appear as humans, drow, or elves. The half-elf can change the race of this form each time she uses this ability, but the specific form for each race is static. She gains a +10 bonus to [Disguise](../../rules/skills/disguise.md) checks to appear as a member of the chosen race. The caster level for this ability is equal to the character's Hit Dice. This racial trait replaces multitalented.
 
 **Hidden Half-Breed**: In benign communities, half-elves endure assumptions and bigotry based on ignorance and suspicion. In drow society, public knowledge of one's mixed ancestry can mean a cruel death. Half-elves with this trait gain a +2 bonus on Bluff and Disguise checks to pass as full-blooded drow, elves, or humans. This racial trait replaces the ability to choose any language as a bonus language, instead limiting the character to the bonus languages offered to drow.
 
@@ -100,7 +100,7 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 **Wizard**: Select one arcane school power at 1st level that is normally usable a number of times per day equal to 3 + the wizard’s Intelligence modifier. The wizard adds +1/2 to the number of uses per day of that arcane school power.
 
-**Shifter (Ultimate Wilderness)**: Add a +1/2 bonus on Climb checks.
+**Shifter (Ultimate Wilderness)**: Add a +1/2 bonus on [Climb](../../rules/skills/climb.md) checks.
 
 **Legendary Kineticist**: Add 1/5 of an Extra Wild Talent feat that must be spent on a poison element wild talent.
 

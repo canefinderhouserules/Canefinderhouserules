@@ -28,19 +28,19 @@ In addition, as a standard action, the alchemical hotshot can remove the broken 
 
 *Bullet:* Creatures damaged by a copper bullet must make a successful Will saving throw or be unable to attack the alchemical hotshot for a number of rounds equal to her Wisdom modifier (minimum 1); if the alchemical hotshot makes an attack against a creature affected by this effect, they can make an additional saving throw against this effect with a +2 bonus for every previous save they have failed. This is a mind-affecting effect.
 
-*Firearm:* An alchemical hotshot carrying a copper firearm gains a +2 circumstance bonus to Diplomacy checks, and all creatures who are not hostile to the alchemical hotshot have their starting attitudes increased by 1 step (to a maximum of friendly). At 12th level, creature’s starting attitude are increased by 2 steps (to a maximum of helpful). This is a mind-affecting charm effect.
+*Firearm:* An alchemical hotshot carrying a copper firearm gains a +2 circumstance bonus to [Diplomacy](../../../rules/skills/diplomacy.md) checks, and all creatures who are not hostile to the alchemical hotshot have their starting attitudes increased by 1 step (to a maximum of friendly). At 12th level, creature’s starting attitude are increased by 2 steps (to a maximum of helpful). This is a mind-affecting charm effect.
 
 **Electrum (Su):** At 7th level, an alchemical hotshot gains access to electrum.
 
 *Bullet:* Creatures damaged by an electrum bullet must make a successful Will saving throw or treat all creatures as though they had concealment (20% miss chance) for a number of rounds equal to the alchemical hotshot’s Wisdom modifier (minimum 1).
 
-*Firearm:* An alchemical hotshot carrying an electrum firearm gains a +2 circumstance bonus on Stealth checks. In addition, while she is benefitting from cover or concealment, an alchemical hotshot gains an additional 10% miss chance. At 12th level, she can hide while being observed as long as she is within 5 feet of a shadow while carrying an electrum firearm.
+*Firearm:* An alchemical hotshot carrying an electrum firearm gains a +2 circumstance bonus on [Stealth](../../../rules/skills/stealth.md) checks. In addition, while she is benefitting from cover or concealment, an alchemical hotshot gains an additional 10% miss chance. At 12th level, she can hide while being observed as long as she is within 5 feet of a shadow while carrying an electrum firearm.
 
 **Silver (Su):** At 11th level, an alchemical hotshot gains access to silver.
 
 *Bullet:* Creatures damaged by a silver bullet must make a successful Fortitude saving throw or be linked to the alchemical hotshot for a number of rounds equal to her Wisdom modifier. While linked, any time the alchemical hotshot takes damage while the linked creature is within 60 feet of her, the linked creature is dealt damage equal to one quarter the amount of damage the alchemical hotshot was dealt; this damage is untyped and cannot be reduced. An alchemical hotshot can only have a number of creatures linked by this effect equal to her Intelligence modifier.
 
-*Firearm:* An alchemical hotshot carrying a silver firearm gains damage reduction 5/bludgeoning and silver. At 15th level, whenever an alchemical hotshot becomes fatigued, sickened, staggered, dazed, confused, cursed, frightened, blinded, deafened, or stunned, as a free action she can select one linked creature within 30 feet to gain the same condition (Fortitude negates). If the save is failed, the duration of that condition is the same for the linked creature as it is for the alchemical hotshot.
+*Firearm:* An alchemical hotshot carrying a silver firearm gains damage reduction 5/bludgeoning and silver. At 15th level, whenever an alchemical hotshot becomes [fatigued](../../../rules/appendices/conditions.md#fatigued), [sickened](../../../rules/appendices/conditions.md#sickened), [staggered](../../../rules/appendices/conditions.md#staggered), [dazed](../../../rules/appendices/conditions.md#dazed), [confused](../../../rules/appendices/conditions.md#confused), cursed, [frightened](../../../rules/appendices/conditions.md#frightened), [blinded](../../../rules/appendices/conditions.md#blinded), [deafened](../../../rules/appendices/conditions.md#deafened), or [stunned](../../../rules/appendices/conditions.md#stunned), as a free action she can select one linked creature within 30 feet to gain the same condition (Fortitude negates). If the save is failed, the duration of that condition is the same for the linked creature as it is for the alchemical hotshot.
 
 **Gold (Su):** At 15th level, an alchemical hotshot gains access to gold.
 
@@ -86,7 +86,7 @@ An anthem gunner gains the following deeds:
 
 *Violent Verse (Su):* At 3rd level, whenever an anthem gunner begins a song of strife, she can spend an additional grit point. If she does, her song of strife also grants an equal morale bonus to damage rolls. As long as an anthem gunner has at least 1 grit point, she is always treated as though she had used this deed while under the effects of a song of strife.
 
-*Deadly Duet (Su):* At 7th level, whenever an anthem gunner begins a song of strife, she can choose to have it only affect a single ally. If she does, once per round, if that ally successfully confirms a critical hit or kills a creature, the anthem gunner regains 1 grit point. Confirming a critical hit on a helpless or unaware creature or defeating a creature that possesses fewer Hit Dice than half her ally’s own level does not restore grit.
+*Deadly Duet (Su):* At 7th level, whenever an anthem gunner begins a song of strife, she can choose to have it only affect a single ally. If she does, once per round, if that ally successfully confirms a critical hit or kills a creature, the anthem gunner regains 1 grit point. Confirming a critical hit on a [helpless](../../../rules/appendices/conditions.md#helpless) or unaware creature or defeating a creature that possesses fewer Hit Dice than half her ally’s own level does not restore grit.
 
 *Succor Symphony (Su):* At 7th level, whenever an anthem gunner has an active song of strife, she can spend 1 grit point as a swift action to heal all allies affected by the song of strife by an amount equal to 1/2 her class level + her Charisma modifier. The deed’s cost cannot be reduced by the true grit class ability, the [Signature Deed](../../../rules/feats/signature-deed.md) feat, or any other effect that reduces the amount of grit a deed costs.
 
@@ -144,7 +144,7 @@ This ability replaces the 2nd level gun mastery.
 
 **Raise the Flag (Ex)**
 
-At 5th level, a black flag bandit can proudly display her flag, granting all allies who can see it a +2 circumstance bonus on Acrobatics and Profession (sailor) skill checks; this bonus increases by +2 while aboard a ship. In addition, while her flag is displayed, a black flag bandit can spend 1 grit point to grant all allies who can see her flag a +1 morale bonus to attack rolls for 1 minute; if she uses this ability while on board a ship, this bonus increases by 1. At 10th level and every five levels afterwards, all these bonuses increase by 1.
+At 5th level, a black flag bandit can proudly display her flag, granting all allies who can see it a +2 circumstance bonus on [Acrobatics](../../../rules/skills/acrobatics.md) and [Profession](../../../rules/skills/profession.md) (sailor) skill checks; this bonus increases by +2 while aboard a ship. In addition, while her flag is displayed, a black flag bandit can spend 1 grit point to grant all allies who can see her flag a +1 morale bonus to attack rolls for 1 minute; if she uses this ability while on board a ship, this bonus increases by 1. At 10th level and every five levels afterwards, all these bonuses increase by 1.
 
 This ability replaces gritty offense.
 
@@ -154,7 +154,7 @@ Despite the fact that some see use of firearms itself as a kind of magic, bullet
 
 **Class Skills**
 
-The bullet wizard adds Knowledge (arcana) and Spellcraft to her list of class spells instead of Acrobatics, Ride, and Survival. This alters the legendary gunslinger’s class skills.
+The bullet wizard adds [Knowledge](../../../rules/skills/knowledge.md) (arcana) and Spellcraft to her list of class spells instead of Acrobatics, [Ride](../../../rules/skills/ride.md), and [Survival](../../../rules/skills/survival.md). This alters the legendary gunslinger’s class skills.
 
 **Weapon and Armor Proficiencies**
 
@@ -300,7 +300,7 @@ At 2nd level, a faded stranger receives a morale bonus on all Stealth checks equ
 
 **No Face (Ex)**
 
-At 2nd level, a faded stranger may use her Wisdom modifier in place of her Charisma when making a Disguise check. In addition, she can make a Disguise check to make herself look mundane and unidentifiable rather than disguising themselves as someone else. Creatures who fail to identify a faded stranger with a successful Perception check have no memory of seeing her while she is wearing a mundane disguise. This ability replaces slinger’s quirk.
+At 2nd level, a faded stranger may use her Wisdom modifier in place of her Charisma when making a [Disguise](../../../rules/skills/disguise.md) check. In addition, she can make a Disguise check to make herself look mundane and unidentifiable rather than disguising themselves as someone else. Creatures who fail to identify a faded stranger with a successful [Perception](../../../rules/skills/perception.md) check have no memory of seeing her while she is wearing a mundane disguise. This ability replaces slinger’s quirk.
 
 **Fade Away (Su)**
 
@@ -328,7 +328,7 @@ Firearm strikers are not proficient with [light armor](../../../equipment/armor.
 
 When unarmored and unencumbered, the firearm striker adds her Wisdom bonus (if any) to her AC and her CMD.
 
-These bonuses to AC apply even against touch attacks or when the firearm striker is flat-footed. She loses these bonuses when she is immobilized or helpless, when she wears any armor, when she carries a shield, or when she carries a medium or heavy load.
+These bonuses to AC apply even against touch attacks or when the firearm striker is [flat-footed](../../../rules/appendices/conditions.md#flat-footed). She loses these bonuses when she is immobilized or helpless, when she wears any armor, when she carries a shield, or when she carries a medium or heavy load.
 
 **Martial Grit (Ex)**
 
@@ -412,7 +412,7 @@ This alters weapon and armor proficiency.
 
 **Skills**
 
-A muzzle roarer’s number of skill points per level is reduced by 2. In addition, Acrobatics, Heal, and Knowledge (engineering) are not class skills for a muzzle roarer.
+A muzzle roarer’s number of skill points per level is reduced by 2. In addition, Acrobatics, [Heal](../../../rules/skills/heal.md), and Knowledge (engineering) are not class skills for a muzzle roarer.
 
 This alters skills.
 
@@ -438,7 +438,7 @@ Special: A muzzle roarer using the standard gunslinger class may choose any rogu
 
 A muzzle roarer’s weapons erupt with a deafening bang with every shot. The Perception penalty to hear her gunshots at a distance is reduced to -1 per 50 feet. Any creature struck by a shot from her firearm is deafened for 1 round (1 minute on a critical hit) unless it succeeds on a Fortitude save (DC 10 + 1/2 her gunslinger level + her Wisdom modifier). The duration from multiple failed saves stacks. In addition, as long as the muzzle roarer has at least 1 grit point, any enemy adjacent to her when she shoots her firearm must save or be deafened for 1 round as well. The muzzle roarer cannot be deafened by her own gunshots.
 
-This deafening sound is highly distracting and frightening, granting the muzzle roarer a +2 circumstance bonus on Intimidate checks made within 1 round of shooting her firearm. This bonus increases by 2 at 5th level and every 5 levels thereafter. A muzzle roarer can expend 1 grit point to make an Intimidate check as a swift action after shooting her firearm.
+This deafening sound is highly distracting and frightening, granting the muzzle roarer a +2 circumstance bonus on [Intimidate](../../../rules/skills/intimidate.md) checks made within 1 round of shooting her firearm. This bonus increases by 2 at 5th level and every 5 levels thereafter. A muzzle roarer can expend 1 grit point to make an Intimidate check as a swift action after shooting her firearm.
 
 At 7th level, a muzzle roarer can expend grit when firing her weapon to dispel a magical silence effect (as a targeted dispel magic) or to duplicate the effect of piercing shriek or screech. At 15th level, she also can duplicate primal scream or sonic thrust. Creating these effects functions as spell-like abilities from her cursed countenance ability above, and she also must expend one shot of powder and ammunition with no chance of misfire (or one shot for each creature or object, if affecting multiple targets with sonic thrust).
 
@@ -450,7 +450,7 @@ A muzzle roarer gains access to the following unique deeds, which she may learn 
 
 *Branding Barrel:* As long as muzzle roarer has at least 1 grit point, she can make a firearm attack and then use the hot barrel to halt a bleed effect on herself or an adjacent creature. This does not require an attack roll. Alternatively, she can make a melee touch attack with the hot barrel as a move action, affecting the target as brand. At 10th level and above, she can expend 2 grit points to make a melee touch attack with the hot barrel as a move action, affecting the target as greater brand. instead. Alternatively, the muzzle roarer can expend 1 additional grit point as a swift action to use this brand or greater brand ability against a creature she has just hit with her firearm attack.
 
-*Doomwalker:* A muzzle roarer walks with callous certainty in the utter and awful end of all things, blunting attempts to manipulate their emotions. She gains a +2 circumstance bonus on saving throws against fear and other emotion effects, as well as curses. In addition, whenever she would be affected by a fear effect, she can expend 1 point of grit as a free action to reduce the effect of that fear by one step: panicked, cowering, or paralyzed becomes frightened; frightened becomes shaken; shaken becomes unaffected. This does not affect other types of fear effects, such as phantasmal killer.
+*Doomwalker:* A muzzle roarer walks with callous certainty in the utter and awful end of all things, blunting attempts to manipulate their emotions. She gains a +2 circumstance bonus on saving throws against fear and other emotion effects, as well as curses. In addition, whenever she would be affected by a fear effect, she can expend 1 point of grit as a free action to reduce the effect of that fear by one step: [panicked](../../../rules/appendices/conditions.md#panicked), [cowering](../../../rules/appendices/conditions.md#cowering), or [paralyzed](../../../rules/appendices/conditions.md#paralyzed) becomes frightened; frightened becomes [shaken](../../../rules/appendices/conditions.md#shaken); shaken becomes unaffected. This does not affect other types of fear effects, such as phantasmal killer.
 
 *Where’er Ruin Blows:* A muzzle roarer always seems to be right around the corner from a nasty storm, riding into town as a gang-war is brewing, or otherwise eternally in the wrong place at the right time. At 1st level, once per week as long as she has at least 1 grit point, a muzzle roarer may perform a ritual action taking 1 round that will set her on the road towards money, blood and terror. This often takes the form of flipping a coin, drawing a card, casting dice or spinning an empty bottle of whiskey at a crossroads, allowing her to duplicate one of the following spells: anticipate peril (self only), augury, deathwatch. She can use this ability more than once per week by spending 1 grit point.
 

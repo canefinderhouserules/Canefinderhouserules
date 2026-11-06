@@ -20,7 +20,7 @@
 
 The following granted power replaces the speak with animals power of the Animal domain.
 
-*Eyes of the Hawk (Ex)*: You gain a racial bonus on Perception checks equal to 1/2 your cleric level (minimum +1). In addition, if you can act during a surprise round, you receive a +2 racial bonus on your Initiative check.
+*Eyes of the Hawk (Ex)*: You gain a racial bonus on [Perception](../../rules/skills/perception.md) checks equal to 1/2 your cleric level (minimum +1). In addition, if you can act during a surprise round, you receive a +2 racial bonus on your Initiative check.
 
 **Replacement Domain Spells**: 2nd—[*feather fall*](../spells/feather-fall.md), 3rd—*fly*, 6th—*fly (mass)*.
 

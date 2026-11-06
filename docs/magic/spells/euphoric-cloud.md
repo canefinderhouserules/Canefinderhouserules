@@ -8,4 +8,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Fortitude negates (see text); **Spell Resistance** no
 
-You create a bank of fog similar to that created by fog cloud except its vapors are intoxicating. Living creatures in the cloud become fascinated. This condition lasts as long as a creature is in the cloud and for 1d4+1 rounds after it leaves. Any creature that succeeds at its save but remains in the ; cloud must continue to save each round on your turn.
+You create a bank of fog similar to that created by fog cloud except its vapors are intoxicating. Living creatures in the cloud become [fascinated](../../rules/appendices/conditions.md#fascinated). This condition lasts as long as a creature is in the cloud and for 1d4+1 rounds after it leaves. Any creature that succeeds at its save but remains in the ; cloud must continue to save each round on your turn.

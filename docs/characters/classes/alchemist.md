@@ -49,7 +49,7 @@ Alchemists are proficient with all [simple weapons](../../equipment/weapons-simp
 
 ### Alchemy (Su)
 
-Alchemists are not only masters of creating mundane alchemical substances such as alchemist’s fire and smokesticks, but also of fashioning magical potion-like extracts in which they can store spell effects. In effect, an alchemist prepares his spells by mixing ingredients into a number of extracts, and then “casts” his spells by drinking the extract. When an alchemist creates an extract or bomb, he infuses the concoction with a tiny fraction of his own magical power—this enables the creation of powerful effects, but also binds the effects to the creator. When using Craft (alchemy) to create an alchemical item, an alchemist gains a competence bonus equal to his class level on the Craft (alchemy) check. In addition, an alchemist can use Craft (alchemy) to identify potions as if using detect magic. He must hold the potion for 1 round to make such a check.
+Alchemists are not only masters of creating mundane alchemical substances such as alchemist’s fire and smokesticks, but also of fashioning magical potion-like extracts in which they can store spell effects. In effect, an alchemist prepares his spells by mixing ingredients into a number of extracts, and then “casts” his spells by drinking the extract. When an alchemist creates an extract or bomb, he infuses the concoction with a tiny fraction of his own magical power—this enables the creation of powerful effects, but also binds the effects to the creator. When using Craft (alchemy) to create an alchemical item, an alchemist gains a competence bonus equal to his class level on the [Craft](../../rules/skills/craft.md) (alchemy) check. In addition, an alchemist can use Craft (alchemy) to identify potions as if using detect magic. He must hold the potion for 1 round to make such a check.
 
 An alchemist can create three special types of magical items—extracts, bombs, and mutagens.
 
@@ -87,7 +87,7 @@ At 1st level, if an alchemist has an Intelligence score of at least 15, he disco
 
 When an alchemist brews a mutagen, he selects one physical ability score—either Strength, Dexterity, or Constitution. It’s a standard action to drink a mutagen. Upon being imbibed, the mutagen causes the alchemist to grow bulkier and more bestial, granting him a +2 natural armor bonus and a +4 alchemical bonus to the selected ability score for 10 minutes per alchemist level. In addition, while the mutagen is in effect, the alchemist takes a –2 penalty to one of his mental ability scores. If the mutagen enhances his Strength, it applies a penalty to his Intelligence. If it enhances his Dexterity, it applies a penalty to his Wisdom. If it enhances his Constitution, it applies a penalty to his Charisma.
 
-A non-alchemist who drinks a mutagen must make a Fortitude save (DC 10 + 1/2 the alchemist’s level + the alchemist’s Intelligence modifier) or become nauseated for 1 hour—a non-alchemist can never gain the benefit of a mutagen, but an alchemist can gain the effects of another alchemist’s mutagen if he drinks it. (Although if the other alchemist creates a different mutagen, the effects of the “stolen” mutagen immediately cease.) The effects of a mutagen do not stack. Whenever an alchemist drinks a mutagen, the effects of any previous mutagen immediately end.
+A non-alchemist who drinks a mutagen must make a Fortitude save (DC 10 + 1/2 the alchemist’s level + the alchemist’s Intelligence modifier) or become [nauseated](../../rules/appendices/conditions.md#nauseated) for 1 hour—a non-alchemist can never gain the benefit of a mutagen, but an alchemist can gain the effects of another alchemist’s mutagen if he drinks it. (Although if the other alchemist creates a different mutagen, the effects of the “stolen” mutagen immediately cease.) The effects of a mutagen do not stack. Whenever an alchemist drinks a mutagen, the effects of any previous mutagen immediately end.
 
 ??? note "Original rule"
 
@@ -115,13 +115,13 @@ When completed, the alchemist has one dose of poison.
 
 The poison’s frequency is extended by 50% and the save DC increases by +2. This poison must be used within 1 hour of its creation or it is ruined.
 
-Concussive bomb*: When the alchemist creates a bomb, he can choose to have it inflict sonic damage. Concussive bombs deal 1d4 points of sonic damage, plus 1d4 points of sonic damage for every odd-numbered level, instead of 1d6. Creatures that take a direct hit from a concussive bomb are deafened for 1 minute unless they succeed at a Fortitude save. An alchemist must be at least 6th level before selecting this discovery.
+Concussive bomb*: When the alchemist creates a bomb, he can choose to have it inflict sonic damage. Concussive bombs deal 1d4 points of sonic damage, plus 1d4 points of sonic damage for every odd-numbered level, instead of 1d6. Creatures that take a direct hit from a concussive bomb are [deafened](../../rules/appendices/conditions.md#deafened) for 1 minute unless they succeed at a Fortitude save. An alchemist must be at least 6th level before selecting this discovery.
 
 #### Delayed bomb
 
 The alchemist can place a bomb so that it explodes a number of rounds after the alchemist ceases contact with the bomb. This delay can be any number of rounds as chosen by the alchemist, up to a number of rounds equal to his level. If at any point the alchemist reclaims possession of the delayed bomb, he can end the timer and prevent the bomb’s detonation. A delayed bomb detonates immediately if any other creature attempts to touch or move it, or if the bomb’s contents are removed from the vial (such as if the vial breaks). The bomb deals damage as if it scored a direct hit to any creature in the square with the bomb when it detonates, and splash damage to all adjacent creatures as normal. An alchemist cannot have more than one delayed bomb at one time.
 
-If he creates another delayed bomb, the previous bomb becomes inert. Dispel magic can neutralize a delayed bomb, as can a successful Disable Device check (DC equals 10 + the alchemist’s level + the alchemist’s Intelligence modifier). An alchemist must be at least 8th level before selecting this discovery.
+If he creates another delayed bomb, the previous bomb becomes inert. Dispel magic can neutralize a delayed bomb, as can a successful [Disable Device](../../rules/skills/disable-device.md) check (DC equals 10 + the alchemist’s level + the alchemist’s Intelligence modifier). An alchemist must be at least 8th level before selecting this discovery.
 
 #### Dilution
 
@@ -153,15 +153,15 @@ An alchemist with this discovery can quickly create enough bombs to throw more t
 
 #### Feral mutagen
 
-Whenever the alchemist imbibes a mutagen, he gains two claw attacks and a bite attack. These are primary attacks and are made using the alchemist’s full base attack bonus. The claw attacks deal 1d6 points of damage (1d4 if the alchemist is Small) and the bite attack deals 1d8 points of damage (1d6 if the alchemist is Small). While the mutagen is in effect, the alchemist gains a +2 competence bonus on Intimidate skill checks.
+Whenever the alchemist imbibes a mutagen, he gains two claw attacks and a bite attack. These are primary attacks and are made using the alchemist’s full base attack bonus. The claw attacks deal 1d6 points of damage (1d4 if the alchemist is Small) and the bite attack deals 1d8 points of damage (1d6 if the alchemist is Small). While the mutagen is in effect, the alchemist gains a +2 competence bonus on [Intimidate](../../rules/skills/intimidate.md) skill checks.
 
 Force bomb*: When the alchemist creates a bomb, he can choose to have it inflict force damage. Force bombs deal 1d4 points of force damage, plus 1d4 points of force damage for every odd-numbered level, instead of 1d6.
 
-Creatures that take a direct hit from a force bomb are knocked prone unless they succeed on a Reflex save.
+Creatures that take a direct hit from a force bomb are knocked [prone](../../rules/appendices/conditions.md#prone) unless they succeed on a Reflex save.
 
 An alchemist must be at least 8th level before selecting this discovery.
 
-Frost bomb*: When the alchemist creates a bomb, he can choose to have it inflict cold damage. Creatures that take a direct hit from a frost bomb are staggered on their next turn unless they succeed on a Fortitude save.
+Frost bomb*: When the alchemist creates a bomb, he can choose to have it inflict cold damage. Creatures that take a direct hit from a frost bomb are [staggered](../../rules/appendices/conditions.md#staggered) on their next turn unless they succeed on a Fortitude save.
 
 #### Grand mutagen
 
@@ -195,7 +195,7 @@ Poison bomb*: The effects of the smoke created by an alchemist’s bomb duplicat
 
 Whenever the alchemist throws a bomb, he can select a number of squares equal to his Intelligence modifier that are not affected by the splash damage from his bombs. If the bomb misses, this discovery has no effect.
 
-Shock bomb*: When the alchemist creates a bomb, he can choose to have it inflict electricity damage. Creatures that take a direct hit from a shock bomb are dazzled for 1d4 rounds.
+Shock bomb*: When the alchemist creates a bomb, he can choose to have it inflict electricity damage. Creatures that take a direct hit from a shock bomb are [dazzled](../../rules/appendices/conditions.md#dazzled) for 1d4 rounds.
 
 Smoke bomb*: When the alchemist creates a bomb, he can choose to have it create a cloud of thick smoke when it detonates. The cloud functions as fog cloud, filling an area equal to twice the bomb’s splash radius for 1 round per level.
 
@@ -289,7 +289,7 @@ beast shape III, contact other plane, delayed consumption\*, dream, elemental bo
 
 ### 6th-Level Alchemist Formulae
 
-analyze dweomer, beast shape IV, elemental body III, eyebite, form of the dragon I, giant form I, heal, mislead, plant shape II, shadow walk, statue, transformation, true seeing, twin form\*, wind walk. Mount (Ex): A cavalier gains the service of a loyal and trusty steed to carry him into battle. This mount functions as a druid’s animal companion, using the cavalier’s level as his effective druid level. The creature must be one that he is capable of riding and is suitable as a mount. A Medium cavalier can select a camel or a horse. A Small cavalier can select a pony or wolf, but can also select a boar or a dog if he is at least 4th level. The GM might approve other animals as suitable mounts. A cavalier does not take an armor check penalty on Ride checks while riding his mount. The mount is always considered combat trained and begins play with [Light Armor](../../equipment/armor.md) Proficiency as a bonus feat. A cavalier’s mount does not gain the share spells special ability. A cavalier’s bond with his mount is strong, with the pair learning to anticipate each other’s moods and moves. Should a [cavalier’s mount](cavalier.md#mount-ex) die, the cavalier may find another mount to serve him after 1 week of mourning. This new mount does not gain the link, evasion, devotion, or improved evasion special abilities until the next time the cavalier gains a level. Order (Ex): At 1st level, a cavalier must pledge himself to a specific order. The order grants the cavalier a number of bonuses, class skills, and special abilities. In addition, each order includes a number of edicts.
+analyze dweomer, beast shape IV, elemental body III, eyebite, form of the dragon I, giant form I, heal, mislead, plant shape II, shadow walk, statue, transformation, true seeing, twin form\*, wind walk. Mount (Ex): A cavalier gains the service of a loyal and trusty steed to carry him into battle. This mount functions as a druid’s animal companion, using the cavalier’s level as his effective druid level. The creature must be one that he is capable of riding and is suitable as a mount. A Medium cavalier can select a camel or a horse. A Small cavalier can select a pony or wolf, but can also select a boar or a dog if he is at least 4th level. The GM might approve other animals as suitable mounts. A cavalier does not take an armor check penalty on [Ride](../../rules/skills/ride.md) checks while riding his mount. The mount is always considered combat trained and begins play with [Light Armor](../../equipment/armor.md) Proficiency as a bonus feat. A cavalier’s mount does not gain the share spells special ability. A cavalier’s bond with his mount is strong, with the pair learning to anticipate each other’s moods and moves. Should a [cavalier’s mount](cavalier.md#mount-ex) die, the cavalier may find another mount to serve him after 1 week of mourning. This new mount does not gain the link, evasion, devotion, or improved evasion special abilities until the next time the cavalier gains a level. Order (Ex): At 1st level, a cavalier must pledge himself to a specific order. The order grants the cavalier a number of bonuses, class skills, and special abilities. In addition, each order includes a number of edicts.
 
 ## Favored Class Bonuses
 

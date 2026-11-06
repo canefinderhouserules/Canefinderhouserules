@@ -26,7 +26,7 @@ All skinwalkers are humanoids with the skinwalker and shapechanger subtypes. The
 
 **Low-Light Vision**: In dim light, skinwalkers can see twice as far as humans.
 
-**Animal-Minded (2 RP)**: Skinwalkers have a +2 racial bonus on Handle Animal and wild empathy checks.
+**Animal-Minded (2 RP)**: Skinwalkers have a +2 racial bonus on [Handle Animal](../../rules/skills/handle-animal.md) and wild empathy checks.
 
 **Change Shape (Su, 5 RP)**: A skinwalker can change shape into a bestial form as a standard action. In bestial form, a skinwalker gains a +2 racial bonus to either Strength, Dexterity or Constitution. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features:
 
@@ -80,14 +80,14 @@ Bloodmarked are gregarious yet savage, communal and quick to defer to the leader
 
 **Ability Modifiers**: +2 Int, –2 Wis (+2 Dex while shapechanged).
 
-**Skill Bonuses**: Fly, Perception at night.
+**Skill Bonuses**: [Fly](../../rules/skills/fly.md), Perception at night.
 
 **Spell-Like Ability**: obscuring mist 1/day.
 
 **Bestial Features** (choose one each time you change shape):
 
 - Bite attack that deals 1d6 points of damage
-- +4 racial bonus on Perception checks
+- +4 racial bonus on [Perception](../../rules/skills/perception.md) checks
 - Scent to a range of 30 feet
 - Treat falling damage as 20 feet less than it actually is
 
@@ -99,7 +99,7 @@ Coldborn are aware, disciplined and industrious, with a violent temper hidden be
 
 **Ability Modifiers**: +2 Con, –2 Cha (+2 Wis while shapechanged).
 
-**Skill Bonuses**: Climb, wild empathy.
+**Skill Bonuses**: [Climb](../../rules/skills/climb.md), wild empathy.
 
 **Spell-Like Ability**: calm animals 1/day.
 
@@ -137,7 +137,7 @@ Scalehearts are cold, patient and ruthless. Their culture respects nothing so mu
 
 **Ability Modifiers**: +2 Int, –2 Wis (+2 Str while shapechanged).
 
-**Skill Bonuses**: Stealth, wild empathy.
+**Skill Bonuses**: [Stealth](../../rules/skills/stealth.md), wild empathy.
 
 **Spell-Like Ability**: scare 1/day.
 
@@ -146,7 +146,7 @@ Scalehearts are cold, patient and ruthless. Their culture respects nothing so mu
 - Bite attack that deals 1d6 points of damage
 - Darkvision to a range of 60 feet
 - Swim speed of 30 feet
-- Ferocity (the creature remains conscious and can keep fighting below 0 hit points; it is still staggered, loses 1 hit point each round, and dies when its hit points reach a negative amount equal to its Constitution score)
+- Ferocity (the creature remains conscious and can keep fighting below 0 hit points; it is still [staggered](../../rules/appendices/conditions.md#staggered), loses 1 hit point each round, and dies when its hit points reach a negative amount equal to its Constitution score)
 
 ### Wererat-Kin (Nightskulk)
 
@@ -164,7 +164,7 @@ Nightskulks are short, wiry and watchful, and they have learned to hide among th
 
 - Bite attack that deals 1d6 points of damage
 - Climb speed of 30 feet
-- Distraction (as the swarm ability; any living creature that begins its turn in the skinwalker's space must succeed at a Fortitude save, DC 10 + 1/2 the skinwalker's character level + her Constitution modifier, or be nauseated for 1 round)
+- Distraction (as the swarm ability; any living creature that begins its turn in the skinwalker's space must succeed at a Fortitude save, DC 10 + 1/2 the skinwalker's character level + her Constitution modifier, or be [nauseated](../../rules/appendices/conditions.md#nauseated) for 1 round)
 - Scent to a range of 30 feet
 
 ### Wereshark-Kin (Seascarred)
@@ -175,7 +175,7 @@ Seascarred are single-minded, blunt and strong-willed, and many think of themsel
 
 **Ability Modifiers**: +2 Wis, –2 Int (+2 Con while shapechanged).
 
-**Skill Bonuses**: Perception, Swim.
+**Skill Bonuses**: Perception, [Swim](../../rules/skills/swim.md).
 
 **Spell-Like Ability**: charm animal (aquatic animals only) 3/day.
 
@@ -194,7 +194,7 @@ Fanglords are proud, charming and intimidating, with an aristocratic bearing and
 
 **Ability Modifiers**: +2 Dex, –2 Wis (+2 Cha while shapechanged).
 
-**Skill Bonuses**: Acrobatics, Perception.
+**Skill Bonuses**: [Acrobatics](../../rules/skills/acrobatics.md), Perception.
 
 **Spell-Like Ability**: jump 1/day.
 

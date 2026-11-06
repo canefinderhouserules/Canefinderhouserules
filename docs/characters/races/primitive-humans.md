@@ -24,11 +24,11 @@ Early humans were far more primitive than their modern descendants. While they s
 
 **Normal Speed**: Primitive humans have a base speed of 30 feet.
 
-**Frightened by Magic**: Primitive humans are uneasy around magic, especially spells that have large, impressive effects. Whenever a primitive human is damaged or affected by a spell or supernatural ability that has an obvious visual component, the human is shaken for 1 round (subject to GM discretion). A primitive human that gains the ability to cast spells from a class feature is unaffected by this racial trait.
+**Frightened by Magic**: Primitive humans are uneasy around magic, especially spells that have large, impressive effects. Whenever a primitive human is damaged or affected by a spell or supernatural ability that has an obvious visual component, the human is [shaken](../../rules/appendices/conditions.md#shaken) for 1 round (subject to GM discretion). A primitive human that gains the ability to cast spells from a class feature is unaffected by this racial trait.
 
 **Primitive Feat**: Primitive humans receive Endurance, Fleet, [Great Fortitude](../../rules/feats/great-fortitude.md), [Iron Will](../../rules/feats/iron-will.md), [Lightning Reflexes](../../rules/feats/lightning-reflexes.md), or Toughness as a bonus feat at 1st level.
 
-**Savage Skills**: Primitive humans receive a +2 racial bonus on Climb, Survival, and Swim skill checks.
+**Savage Skills**: Primitive humans receive a +2 racial bonus on [Climb](../../rules/skills/climb.md), [Survival](../../rules/skills/survival.md), and [Swim](../../rules/skills/swim.md) skill checks.
 
 **Savage Surge**: Once per day, a primitive human can call upon a well of inner savagery. This grants a +2 bonus to any one Strength-based skill check, Strength check, or weapon damage roll. Using this ability is a free action, but it must be used before the check or attack roll is made.
 

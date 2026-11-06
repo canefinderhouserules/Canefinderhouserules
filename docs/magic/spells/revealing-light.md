@@ -8,4 +8,4 @@
 **Duration** 10 minutes/level  
 **Saving Throw** none; **Spell Resistance** no
 
-The touched object emits a shimmering light (as per [*light*](light.md)) that causes shadows to shift constantly in a 20-foot radius. Creatures lose any racial bonus on Stealth checks while in the area, and the light suppresses any bonuses on Stealth checks granted by visual camouflage (such as from camouflage netting or the camouflage rogue talent). The unpredictable light patterns also interfere with spells and effects of the pattern subschool, granting all creatures in the area a +2 bonus on saves against such effects.
+The touched object emits a shimmering light (as per [*light*](light.md)) that causes shadows to shift constantly in a 20-foot radius. Creatures lose any racial bonus on [Stealth](../../rules/skills/stealth.md) checks while in the area, and the light suppresses any bonuses on Stealth checks granted by visual camouflage (such as from camouflage netting or the camouflage rogue talent). The unpredictable light patterns also interfere with spells and effects of the pattern subschool, granting all creatures in the area a +2 bonus on saves against such effects.

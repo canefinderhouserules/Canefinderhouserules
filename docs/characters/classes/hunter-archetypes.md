@@ -6,11 +6,11 @@ The following options and archetypes are available to the hunter.
 
 Blight scouts are an elite band of hunters skilled and brave enough to foray into demon-tainted lands and take the offensive against the corruption there. They rely on their close bonds with their animal companions to survive such raids.
 
-**Lore of the Blight (Ex)**: At 6th level, a blight scout and her animal companion gain a +2 bonus on initiative checks and on Knowledge (geography), Perception, Stealth, and Survival skill checks when she's in the Abyss or in Abyss-tainted terrain. When she travels through this terrain, she leaves no trail and can't be tracked (though she can leave a trail if she so chooses). This bonus increases to +4 at 11th level and +6 at 16th level. This ability replaces [improved empathic link](hunter.md#improved-empathic-link-su), [speak with master](hunter.md#speak-with-master-ex), and [greater empathic link](hunter.md#greater-empathic-link-su).
+**Lore of the Blight (Ex)**: At 6th level, a blight scout and her animal companion gain a +2 bonus on initiative checks and on [Knowledge](../../rules/skills/knowledge.md) (geography), [Perception](../../rules/skills/perception.md), [Stealth](../../rules/skills/stealth.md), and [Survival](../../rules/skills/survival.md) skill checks when she's in the Abyss or in Abyss-tainted terrain. When she travels through this terrain, she leaves no trail and can't be tracked (though she can leave a trail if she so chooses). This bonus increases to +4 at 11th level and +6 at 16th level. This ability replaces [improved empathic link](hunter.md#improved-empathic-link-su), [speak with master](hunter.md#speak-with-master-ex), and [greater empathic link](hunter.md#greater-empathic-link-su).
 
 **Unnatural Stride (Ex)**: At 10th level, the blight scout and her animal companion learn how to move through undergrowth (as woodland stride) that has been enchanted, corrupted, or magically manipulated. This ability replaces [raise animal companion](hunter.md#raise-animal-companion-sp).
 
-**Demon's End (Ex)**: At 17th level, lesser demons quake before a blight scout. The blight scout and her companion can attempt to demoralize a demon as a swift action, rolling 1d20 and adding the scout's level and her Charisma modifier to determine the Intimidate check result. This ability replaces [one with the wild](hunter.md#one-with-the-wild-ex).
+**Demon's End (Ex)**: At 17th level, lesser demons quake before a blight scout. The blight scout and her companion can attempt to demoralize a demon as a swift action, rolling 1d20 and adding the scout's level and her Charisma modifier to determine the [Intimidate](../../rules/skills/intimidate.md) check result. This ability replaces [one with the wild](hunter.md#one-with-the-wild-ex).
 
 ## Divine Hunter
 
@@ -70,7 +70,7 @@ Most hunters are skilled at awakening the primal beasts inside themselves. Howev
 
 **Primal Transformation (Su)**: At first level, a primal companion hunter can awaken a primal creature from within his animal companion as a swift action. The animal companion gains a pool of evolution points that can be used to temporarily give the companion evolutions as if it were an eidolon. A primal companion hunter uses her hunter level to determine the number of evolution points gained, limitations on how often an evolution can be selected, and so on. Whenever she gains a level, she must decide how these points are spent, and they are set until she gains another level.
 
-Activating these evolutions on the animal companion is a swift action. A primal companion hunter can use this ability for 1 minute per day per hunter level. This duration need not to be consecutive, but it must be spent in I-minute increments. An animal companion transformed in this way cannot exceed the maximum number of attacks available to the eidolon of a summoner whose class level equals that of the hunter. While transformed in this way, the animal companion's type changes to magical beast, though the primal companion hunter still treats it as an animal for the purpose of the Handle Animal skill.
+Activating these evolutions on the animal companion is a swift action. A primal companion hunter can use this ability for 1 minute per day per hunter level. This duration need not to be consecutive, but it must be spent in I-minute increments. An animal companion transformed in this way cannot exceed the maximum number of attacks available to the eidolon of a summoner whose class level equals that of the hunter. While transformed in this way, the animal companion's type changes to magical beast, though the primal companion hunter still treats it as an animal for the purpose of the [Handle Animal](../../rules/skills/handle-animal.md) skill.
 
 If a primal companion [hunter's animal companion](hunter.md#animal-companion-ex) is dead, she can apply these evolutions to herself instead of to her animal companion. Uses of this ability count toward the hunter's maximum daily duration of evolution use. This ability replaces [animal focus](hunter.md#animal-focus-su).
 
@@ -94,13 +94,13 @@ A verminous hunter calls on the ceaseless, single-minded dedication of vermin to
 
 **Beetle**: The creature gains a +2 enhancement bonus to its natural armor bonus. This bonus increases to +4 at 8th level and +6 at 15th level. (A creature without natural armor has an effective natural armor bonus of +0.)
 
-**Centipede**: The creature gains a +2 competence bonus on Climb checks and a +2 bonus to CMD against pull, push, reposition, and trip combat maneuvers. These bonuses increase to +4 at 8th level and +6 at 15th level.
+**Centipede**: The creature gains a +2 competence bonus on [Climb](../../rules/skills/climb.md) checks and a +2 bonus to CMD against pull, push, reposition, and trip combat maneuvers. These bonuses increase to +4 at 8th level and +6 at 15th level.
 
 **Cockroach**: The creature gains a +4 bonus on saves against cold dangers, disease, heat dangers, starvation, thirst, and on Constitution checks to avoid suffocation. These bonuses increase to +6 at 8th level and +8 at 15th level.
 
-**Crab**: The creature gains a +4 competence bonus on Swim checks and a +2 competence bonus on grapple combat maneuver checks. These bonuses increase to +6 and +4 respectively at 8th level, and +8 and +6 at 15th level.
+**Crab**: The creature gains a +4 competence bonus on [Swim](../../rules/skills/swim.md) checks and a +2 competence bonus on grapple combat maneuver checks. These bonuses increase to +6 and +4 respectively at 8th level, and +8 and +6 at 15th level.
 
-**Flea**: The creature gains a +4 competence bonus on saves against disease and Acrobatics checks to jump. These bonuses increase to +6 at 8th level and +8 at 15th level.
+**Flea**: The creature gains a +4 competence bonus on saves against disease and [Acrobatics](../../rules/skills/acrobatics.md) checks to jump. These bonuses increase to +6 at 8th level and +8 at 15th level.
 
 **Fly**: The creature gains a +2 bonus on Perception checks and on Acrobatics checks to balance or fall safely. These bonuses increase to +4 at 8th level and +6 at 15th level.
 
@@ -130,7 +130,7 @@ Some hunters are masters of blending into every situation, even making their com
 
 **Terrain Chameleon (Su)**: Choose one type of terrain from the ranger’s list of favored terrains. When in the specified type of terrain, a chameleon adept gains a bonus equal to half her hunter level on Stealth checks. This replaces [wild empathy](hunter.md#wild-empathy-ex).
 
-**Savage Diplomacy (Ex)**: At 2nd level, while in humanoid form, a chameleon adept’s animal companion grants its master a +2 circumstance bonus on Diplomacy and Intimidate checks. Savage diplomacy functions only as long as the creature being influenced can see both the companion and the master. This bonus increases by 1 at 5th level and every 4 levels thereafter, to a maximum of +6 at 17th level. This replaces [precise companion](hunter.md#precise-companion-ex).
+**Savage Diplomacy (Ex)**: At 2nd level, while in humanoid form, a chameleon adept’s animal companion grants its master a +2 circumstance bonus on [Diplomacy](../../rules/skills/diplomacy.md) and Intimidate checks. Savage diplomacy functions only as long as the creature being influenced can see both the companion and the master. This bonus increases by 1 at 5th level and every 4 levels thereafter, to a maximum of +6 at 17th level. This replaces [precise companion](hunter.md#precise-companion-ex).
 
 **Animal Shape (Su)**: At 5th level as a standard action, a chameleon adept can assume a form superficially identical to her animal companion’s animal form. She gains no bonuses or natural attacks while in this form, only forms of movement. Her size category does not change. This is a polymorph effect. She can assume this form for 1 minute per level per day, in 1-minute increments. She can dismiss this ability at any point as a standard action. This replaces [woodland stride](hunter.md#woodland-stride-ex).
 
@@ -150,7 +150,7 @@ While all hunters have a bond with the natural world, a forester has a stronger 
 
 **Tactician (Ex)**: At 3rd level as a standard action, a forester can grant the benefits of one teamwork feat to all allies within 30 feet who can see and hear her. Allies retain the use of this bonus feat for 3 rounds plus 1 round for every 2 levels the forester has. Allies do not need to meet the prerequisites of these bonus feats. The forester can use this ability once per day at 3rd level, plus one additional time per day at 7th level and every 5 levels thereafter. This replaces [hunter tactics](hunter.md#hunter-tactics-ex).
 
-**Evasion (Ex)**: At 4th level, a forester can avoid even magical and unusual attacks with great agility. If she makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the forester is wearing light armor, medium armor, or no armor. A helpless forester does not gain the benefit of evasion. This replaces [improved empathic link](hunter.md#improved-empathic-link-su).
+**Evasion (Ex)**: At 4th level, a forester can avoid even magical and unusual attacks with great agility. If she makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the forester is wearing light armor, medium armor, or no armor. A [helpless](../../rules/appendices/conditions.md#helpless) forester does not gain the benefit of evasion. This replaces [improved empathic link](hunter.md#improved-empathic-link-su).
 
 **Camouflage (Ex)**: At 7th level, a forester can use the Stealth skill to hide in any of her favored terrains, even if the terrain doesn’t grant cover or concealment. This replaces [bonus tricks](hunter.md#bonus-tricks-ex).
 
@@ -166,7 +166,7 @@ Wandering the wilds, some hunters eschew the bond of innate teamwork with their 
 
 **Class Skills**: A patient ambusher adds Disable Device to her list of class skills. This alters the hunter’s class skills.
 
-**Trapfinding (Ex)**: A patient ambusher adds half her hunter level (minimum +1) on Perception checks to locate traps and on Disable Device skill checks. A patient ambusher can use Disable Device to disarm magic traps. This replaces [nature training](hunter.md#nature-training-ex) and [wild empathy](hunter.md#wild-empathy-ex).
+**Trapfinding (Ex)**: A patient ambusher adds half her hunter level (minimum +1) on Perception checks to locate traps and on [Disable Device](../../rules/skills/disable-device.md) skill checks. A patient ambusher can use Disable Device to disarm magic traps. This replaces [nature training](hunter.md#nature-training-ex) and [wild empathy](hunter.md#wild-empathy-ex).
 
 **Snare Trap (Ex or Su)**: At 3rd level, a patient ambusher learns how to create a snare trap. The patient ambusher can use this and other learned traps a total number of times per day equal to half her hunter level + her Wisdom modifier. This snare trap otherwise functions the same as the ranger snare trap detailed in Pathfinder RPG Ultimate Magic. This replaces the [hunter tactics](hunter.md#hunter-tactics-ex) class feature.
 
@@ -196,7 +196,7 @@ Some hunters form a bond with plant life instead of an animal and take on those 
 
 **Shrieker**: The creature gains darkvision with a range of 60 feet. At 8th level, the range increases by 30 feet. At 15th level, the creature also gains blindsense with a range of 10 feet.
 
-**Spore**: The creature gains a +4 competence bonus on Fly checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+**Spore**: The creature gains a +4 competence bonus on [Fly](../../rules/skills/fly.md) checks. This bonus increases to +6 at 8th level and +8 at 15th level.
 
 **Water Lily**: The creature gains a +4 competence bonus on Swim checks. This bonus increases to +6 at 8th level and +8 at 15th level. This replaces [animal focus](hunter.md#animal-focus-su).
 
@@ -228,7 +228,7 @@ The forgotten ruins in the desert sands have given rise to a breed of hunters wh
 
 **Kite**: The creature recovers 1 additional hit point whenever it receives magical healing. This increases to 2 additional hit points at 8th level and 3 additional hit points at 15th level.
 
-**Leopard**: The creature gains a +4 competence bonus on Escape Artist checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+**Leopard**: The creature gains a +4 competence bonus on [Escape Artist](../../rules/skills/escape-artist.md) checks. This bonus increases to +6 at 8th level and +8 at 15th level.
 
 **Lion**: The creature gains a +4 competence bonus on Intimidate checks. This bonus increases to +6 at 8th level and +8 at 15th level.
 
@@ -260,15 +260,15 @@ Some hunters are masters of the wild. Whether raised by apes or having some othe
 
 While most hunters find themselves at ease in the wildest parts of the world, courtly hunters instead make their homes in cultured urban environments. They and their animal companions are more refined than typical hunters, using their skills to navigate the winding paths of courtly intrigue as surely as other hunters find trails in the wilderness.
 
-**Class Skills**: A courtly hunter adds Bluff, Diplomacy, and Sense Motive to her list of class skills, instead of Knowledge (geography), Knowledge (nature), and Survival. This alters the hunter’s class skills.
+**Class Skills**: A courtly hunter adds [Bluff](../../rules/skills/bluff.md), Diplomacy, and Sense Motive to her list of class skills, instead of Knowledge (geography), Knowledge (nature), and Survival. This alters the hunter’s class skills.
 
 **Courtly Companion**: A courtly hunter’s animal companion was touched by either the fey or the nature spirits that form leshys and answer to [*commune with nature*](../../magic/spells/commune-with-nature.md), granting it its own intelligence. The companion’s type changes to magical beast (augmented animal), but this doesn’t change any of its statistics and it counts as an animal, not as a magical beast, for the purposes of determining all effects, prerequisites, and so on. It does not learn tricks, but it does have an Intelligence score equal to that of a familiar belonging to a wizard of the courtly hunter’s hunter level. Levels in other classes that grant animal companions do not stack with levels of courtly hunter for the purpose of determining the abilities of her courtly companion. This ability alters [animal companion](hunter.md#animal-companion-ex).
 
 **Refined Focus (Su)**: A courtly hunter has access to a different set of animal aspects with her animal focus. She does not gain access to the bear, bull, frog, monkey, snake, stag, tiger, or wolf aspects. Instead, she gains access to the following aspects.
 
-**Beaver**: The creature gains a +4 competence bonus on Craft checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+**Beaver**: The creature gains a +4 competence bonus on [Craft](../../rules/skills/craft.md) checks. This bonus increases to +6 at 8th level and +8 at 15th level.
 
-**Chameleon**: The creature gains a +4 competence bonus on Disguise checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+**Chameleon**: The creature gains a +4 competence bonus on [Disguise](../../rules/skills/disguise.md) checks. This bonus increases to +6 at 8th level and +8 at 15th level.
 
 **Eagle**: The creature gains a +2 enhancement bonus to Charisma. This bonus increases to +4 at 8th level and +6 at 15th level.
 
@@ -278,9 +278,9 @@ While most hunters find themselves at ease in the wildest parts of the world, co
 
 **Octopus**: The creature gains a +4 competence bonus on Escape Artist checks. This bonus increases to +6 at 8th level and +8 at 15th level.
 
-**Raccoon**: The creature gains a +4 competence bonus on Sleight of Hand checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+**Raccoon**: The creature gains a +4 competence bonus on [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks. This bonus increases to +6 at 8th level and +8 at 15th level.
 
-**Songbird**: The creature gains a +4 competence bonus on Perform checks. This bonus increases to +6 at 8th level and +8 at 15th level. This ability alters [animal focus](hunter.md#animal-focus-su).
+**Songbird**: The creature gains a +4 competence bonus on [Perform](../../rules/skills/perform.md) checks. This bonus increases to +6 at 8th level and +8 at 15th level. This ability alters [animal focus](hunter.md#animal-focus-su).
 
 **Subtle Companion (Su)**: At 2nd level, a courtly hunter can transform her animal companion into a similar Tiny animal to allow it hide easily or even blend in and act as a spy. For instance, a tiger could be transformed into a housecat, a wolf could be transformed into a Tiny dog, a dire bat could be transformed into a Tiny flying fox, and so on. This functions as a polymorph effect, and the animal companion gains a +2 size bonus to Dexterity and a –4 size penalty to Strength (use the polymorph table of the *Core Rulebook* to adjust its ability score if the animal companion is larger than Medium). As a standard action, the courtly hunter can touch her animal companion to transform it. This ability replaces [precise companion](hunter.md#precise-companion-ex).
 
@@ -310,7 +310,7 @@ Urban hunters help guards track down and apprehend criminals or spies, find lost
 
 **Animal Companion (Ex)**: Urban hunters have animal companions that are domesticated animals or animals native to a major city. The urban hunter must select her animal companion from the following list: axe beak, badger, bird, camel, dire rat, dog, horse, llama, ostrich, pony, ram, or trumpeter swan. In urban settings, an urban hunter's animal companion seems domesticated and likely harmless to anyone who has not seen it in combat (potentially reducing the DC of Diplomacy checks to convince anyone to allow it into secure areas). It draws no more attention than a friendly dog, loyal horse, or similar tame animal.
 
-Creatures who have never seen the animal companion make an attack must succeed at a Sense Motive check (opposed by the animal companion's Stealth check) to realize the animal companion is a potential threat. The hunter can calm those who witness her animal companion's attacks (so long as they were not injured) with a successful Handle Animal check (DC = 15 + the target's Will save modifier).
+Creatures who have never seen the animal companion make an attack must succeed at a [Sense Motive](../../rules/skills/sense-motive.md) check (opposed by the animal companion's Stealth check) to realize the animal companion is a potential threat. The hunter can calm those who witness her animal companion's attacks (so long as they were not injured) with a successful Handle Animal check (DC = 15 + the target's Will save modifier).
 
 **Captor (Ex)**: At 3rd level, an urban hunter and her animal companion take no penalties when dealing nonlethal damage with weapons or natural attacks. At 6th level and every 3 levels thereafter, the urban hunter selects a bonus feat from the following list to be gained by both the hunter and her animal companion: [Improved Bull Rush](../../rules/feats/improved-bull-rush.md), [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md), [Improved Disarm](../../rules/feats/improved-disarm.md), [Improved Grapple](../../rules/feats/improved-grapple.md), and [Improved Trip](../../rules/feats/improved-trip.md). At 12th level, the hunter can also select from the following feats: [Combat Patrol](../../rules/feats/combat-patrol.md), [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Disarming Strike](../../rules/feats/disarming-strike.md), [Greater Bull Rush](../../rules/feats/greater-bull-rush.md), [Greater Dirty Trick](../../rules/feats/greater-dirty-trick.md), [Greater Disarm](../../rules/feats/greater-disarm.md), [Greater Grapple](../../rules/feats/greater-grapple.md), [Greater Trip](../../rules/feats/greater-trip.md), and Lunge. Neither the hunter nor her animal companion needs to meet the prerequisites for these bonus feats. This ability replaces [hunter tactics](hunter.md#hunter-tactics-ex) and [teamwork feat](hunter.md#teamwork-feat).
 
@@ -412,7 +412,7 @@ Well adapted to their drenched surroundings, flood flourishers coordinate deadly
 
 *Hunter archetype.* The colluding scoundrel is a canny and conniving skirmisher, manipulating her enemies and leveraging her allies for her own benefit. A pirate captain ordering her crew to occupy foes and thus expose the enemy to her attacks might take this archetype. In any case, the colluding scoundrel rarely concerns herself overmuch with her allies' well-being.
 
-**Scapegoat (Ex)**: A colluding scoundrel is adept at redirecting a foe's hostility toward another creature, creating openings for her own attacks. A number of times per day equal to her hunter level, as a swift action, she can target one foe within 30 feet and designate one willing ally adjacent to that foe as a scapegoat. For the following minute, the target takes a –2 penalty on attacks against any creature other than the designated scapegoat, and the target has a 10% spell failure chance on spells that don't target the scapegoat or include the scapegoat in their area of effect. The penalty increases to –4 at 8th level and –6 at 15th level. The colluding scoundrel can designate her animal companion as a scapegoat without it counting against her daily uses of this ability. This is a mind-affecting effect. The effect ends if the colluding scoundrel falls unconscious or is slain. This replaces [animal focus](hunter.md#animal-focus-su).
+**Scapegoat (Ex)**: A colluding scoundrel is adept at redirecting a foe's hostility toward another creature, creating openings for her own attacks. A number of times per day equal to her hunter level, as a swift action, she can target one foe within 30 feet and designate one willing ally adjacent to that foe as a scapegoat. For the following minute, the target takes a –2 penalty on attacks against any creature other than the designated scapegoat, and the target has a 10% spell failure chance on spells that don't target the scapegoat or include the scapegoat in their area of effect. The penalty increases to –4 at 8th level and –6 at 15th level. The colluding scoundrel can designate her animal companion as a scapegoat without it counting against her daily uses of this ability. This is a mind-affecting effect. The effect ends if the colluding scoundrel falls [unconscious](../../rules/appendices/conditions.md#unconscious) or is slain. This replaces [animal focus](hunter.md#animal-focus-su).
 
 **Backstabber (Ex)**: At 8th level, a colluding scoundrel deals 2d6 additional points of damage on attacks against a target threatened by an ally currently designated as the scapegoat. This increases to 3d6 points of damage at 15th level. This is precision damage and is not multiplied on a critical hit, but it does stack with sneak attack and similar effects. This replaces [second animal focus](hunter.md#second-animal-focus-su).
 

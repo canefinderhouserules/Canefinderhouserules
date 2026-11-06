@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-*Lesser restoration* dispels any magical effects reducing one of the subject’s ability scores or cures 1d4 points of temporary ability damage to one of the subject’s ability scores. It also eliminates any fatigue suffered by the character, and improves an exhausted condition to fatigued. It does not restore permanent ability drain.
+*Lesser restoration* dispels any magical effects reducing one of the subject’s ability scores or cures 1d4 points of temporary ability damage to one of the subject’s ability scores. It also eliminates any fatigue suffered by the character, and improves an [exhausted](../../rules/appendices/conditions.md#exhausted) condition to [fatigued](../../rules/appendices/conditions.md#fatigued). It does not restore permanent ability drain.

@@ -6,4 +6,4 @@ You knock your opponents down from their mounts with frightening concussive forc
 
 **Prerequisite**: [Unseat](unseat.md).
 
-**Benefit**: When you successfully bull rush an opponent off his mount with Unseat, your opponent takes 1d6 points of falling damage per 2 tiers you possess. Items or abilities that reduce falling damage, such as a successful Acrobatics check, can reduce the damage dealt by the impact.
+**Benefit**: When you successfully bull rush an opponent off his mount with Unseat, your opponent takes 1d6 points of falling damage per 2 tiers you possess. Items or abilities that reduce falling damage, such as a successful [Acrobatics](../skills/acrobatics.md) check, can reduce the damage dealt by the impact.

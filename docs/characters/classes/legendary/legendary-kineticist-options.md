@@ -16,9 +16,9 @@ Each elemental saturation is themed to a particular element. For example, one ma
 
 Aether saturations can be found where creatures associated with the Ethereal Plane are common, and occur frequently where powerful ethereal eddies and rifts to the Ethereal Plane are.
 
-One example of an aether saturation is an etheric storm, a whirling dervish of raw primal energy that can be found in the desert. After finding such a storm, a telekineticist must succeed at both a DC 20 Knowledge (arcana) check and a DC 20 Survival check and spend 1d4 hours searching for the point of the storm’s origin to attune themselves to it. They can then learn the primal aether utility wild talent.
+One example of an aether saturation is an etheric storm, a whirling dervish of raw primal energy that can be found in the desert. After finding such a storm, a telekineticist must succeed at both a DC 20 [Knowledge](../../../rules/skills/knowledge.md) (arcana) check and a DC 20 [Survival](../../../rules/skills/survival.md) check and spend 1d4 hours searching for the point of the storm’s origin to attune themselves to it. They can then learn the primal aether utility wild talent.
 
-Another example is a deep, foggy marsh filled with harps and benches composed of etheric energy where an eerie song is played. A creature may sit at a bench and play, and must make a DC 15 Perform (strings) or Dexterity check. Failing this check by 4 or less has no consequences, but failing this check by 5 or more causes them to suffer 2 points of ability drain to their Charisma score. A creature whose Charisma score would be reduced to 0 or lower by this ability drain instead instantly heals all Charisma drain, being affected by a feeblemind spell and ceases aging, being forced to perform until another creature next to them successfully performs the song. A creature who makes four successful checks has managed to complete the song and gains a permanent +1 to their Dexterity score, and telekineticists who pass this trial also are granted access to the aetheric song blast infusion.
+Another example is a deep, foggy marsh filled with harps and benches composed of etheric energy where an eerie song is played. A creature may sit at a bench and play, and must make a DC 15 [Perform](../../../rules/skills/perform.md) (strings) or Dexterity check. Failing this check by 4 or less has no consequences, but failing this check by 5 or more causes them to suffer 2 points of ability drain to their Charisma score. A creature whose Charisma score would be reduced to 0 or lower by this ability drain instead instantly heals all Charisma drain, being affected by a feeblemind spell and ceases aging, being forced to perform until another creature next to them successfully performs the song. A creature who makes four successful checks has managed to complete the song and gains a permanent +1 to their Dexterity score, and telekineticists who pass this trial also are granted access to the aetheric song blast infusion.
 
 Those who attune themselves to an aether saturation might be granted one of the following wild talents:
 
@@ -42,7 +42,7 @@ You can gather strands of aether twisted and warped by an aether saturation, and
 
 Air saturations are points where openings to the Plane of Air open up or where the veil between them and the Material Plane are weaker. They can take several forms, but are most common in the form of hurricanes and tornadoes.
 
-When an aerokineticist finds such a storm- typically near ruins of skyward cities or in djinn-influenced areas- they must fly around the entire perimeter without stopping while succeeding at a series of 12 consecutive DC 40 Fly checks. If they fail two or fewer checks, they take 50d6 points of bludgeoning damage from the storm’s gale-force winds. If they fail three or more checks, they must succeed at a DC 25 Reflex save or be pulled into the eye of the storm, never to return.
+When an aerokineticist finds such a storm- typically near ruins of skyward cities or in djinn-influenced areas- they must fly around the entire perimeter without stopping while succeeding at a series of 12 consecutive DC 40 [Fly](../../../rules/skills/fly.md) checks. If they fail two or fewer checks, they take 50d6 points of bludgeoning damage from the storm’s gale-force winds. If they fail three or more checks, they must succeed at a DC 25 Reflex save or be pulled into the eye of the storm, never to return.
 
 If successful in their Fly checks, they can learn the hurricane queen wild talent.
 
@@ -74,11 +74,11 @@ If they fail a check, they must start over, and after each failure they must suc
 
 Another possible location of an earth saturation would be ruins where haunted or animated statues rule the roost, seeking to indoctrinate others into their ranks. These are treated as caryatid columns, except they possess 5 hit dice, 13 Dexterity, and 9 Wisdom, with all statistics adjusted accordingly. In addition, they are treated as possessing no weapons; instead they benefit from Bonded Mind, Dirty Fighting, Exceptional Aid, and Improved Grapple as if they possessed those feats.
 
-They will favor solo adventurers or attempt to corral individuals away from a group, moving only when others cannot see them or when an individual has been pinned down by another of their ranks. When adjacent to an individual, the caryatid column will either initiate a grapple with a target or use Aid Another to assist another caryatid column’s grapple, and upon success, the caryatid will seek to pin its victim and maintain the grapple.
+They will favor solo adventurers or attempt to corral individuals away from a group, moving only when others cannot see them or when an individual has been [pinned](../../../rules/appendices/conditions.md#pinned) down by another of their ranks. When adjacent to an individual, the caryatid column will either initiate a grapple with a target or use Aid Another to assist another caryatid column’s grapple, and upon success, the caryatid will seek to pin its victim and maintain the grapple.
 
 Those that fail to wrest themselves from the caryatids’ grapple after five rounds will be turned to stone, and if not rescued from their petrification within one week, will undergo a transformation into a new caryatid.
 
-Characters can willingly allow themselves to become pinned by a caryatid, then break away from its grapple at least five times within a 24 hour period. Upon success the statues stop attempting to grapple that individual, and the character gains a permanent +4 insight bonus to their CMD against grapples, as well as to Escape Artist checks to escape a grapple. In addition, geokineticists are granted access to the frightful statue utility wild talent.
+Characters can willingly allow themselves to become pinned by a caryatid, then break away from its grapple at least five times within a 24 hour period. Upon success the statues stop attempting to grapple that individual, and the character gains a permanent +4 insight bonus to their CMD against grapples, as well as to [Escape Artist](../../../rules/skills/escape-artist.md) checks to escape a grapple. In addition, geokineticists are granted access to the frightful statue utility wild talent.
 
 Those who attune themselves to an earth saturation might be granted one of the following wild talents:
 
@@ -94,17 +94,17 @@ You have the crystalline form alternate racial trait instead of earth affinity, 
 
 **Element(s)**: earth; **Type** utility (Sp); **Level** 5; **Burn** 1
 
-This ability functions as the statue spell, except you can only use it on yourself, it lasts 1 minute per kineticist level, and you cannot take most actions while in statue form. Instead, you can only take move actions or end this effect as a free action (you cannot return to your statue form without using this wild talent again). While in this state you can make Stealth checks to hide even when observed so long as you are within an environment where the presence of a statue would not be unusual, receiving a +4 circumstance bonus on these skill checks.
+This ability functions as the statue spell, except you can only use it on yourself, it lasts 1 minute per kineticist level, and you cannot take most actions while in statue form. Instead, you can only take move actions or end this effect as a free action (you cannot return to your statue form without using this wild talent again). While in this state you can make [Stealth](../../../rules/skills/stealth.md) checks to hide even when observed so long as you are within an environment where the presence of a statue would not be unusual, receiving a +4 circumstance bonus on these skill checks.
 
-When you move adjacent to another creature while affected by this wild talent, you can replace your normal expression with a horrifying visage until the end of the round as a free action; if the creature adjacent to you fails to notice your movement but later sees you after you have taken on the horrifying visage, you can attempt an Intimidate check as an immediate action to cause them to become shaken for a number of rounds equal to your Constitution modifier. Making additional Intimidate checks the same way can advance shaken foes to frightened, or frightened foes to panicked.
+When you move adjacent to another creature while affected by this wild talent, you can replace your normal expression with a horrifying visage until the end of the round as a free action; if the creature adjacent to you fails to notice your movement but later sees you after you have taken on the horrifying visage, you can attempt an [Intimidate](../../../rules/skills/intimidate.md) check as an immediate action to cause them to become [shaken](../../../rules/appendices/conditions.md#shaken) for a number of rounds equal to your Constitution modifier. Making additional Intimidate checks the same way can advance shaken foes to [frightened](../../../rules/appendices/conditions.md#frightened), or frightened foes to [panicked](../../../rules/appendices/conditions.md#panicked).
 
 **Fire Saturations**
 
 Elemental saturations of fire tend to occur near, or even inside, of active volcanoes or wildfires, and embody the purifying essence of flame.
 
-A pyrokineticist must impress a mighty kami overseeing such a saturation. This might involve an appropriate gift or a successful DC 30 Diplomacy check attempted by the kineticist or by an ally who speaks Ignan. If they impress the kami, the kineticist is immediately affected as if using the purging flame wild talent and can learn that wild talent.
+A pyrokineticist must impress a mighty kami overseeing such a saturation. This might involve an appropriate gift or a successful DC 30 [Diplomacy](../../../rules/skills/diplomacy.md) check attempted by the kineticist or by an ally who speaks Ignan. If they impress the kami, the kineticist is immediately affected as if using the purging flame wild talent and can learn that wild talent.
 
-Less obvious saturations can occur where the divide between the Plane of Fire and the Material Plane is thin or even an open gateway; for example, a forest with trees permanently ablaze may have its roots set into a blazing cavern rife with fire energy which feeds the trees. Creatures lose the benefits of fire resistance and immunity and are constantly afflicted with the fatigued condition while within the caves. Potions carried into the caves boil away, becoming useless. In addition, such creatures sustain 2d6 fire damage for each full minute spent inside, and upon taking this damage must succeed a DC 10 Fort save, with each subsequent minute spent in the caves increasing the DC by an amount equal to 1/2 the fire damage taken that turn. Failing this save twice causes a creature to become exhausted, and failing three more times while exhausted causes them to fall unconscious (even if they would otherwise be unaffected by sleep effects). Those who fall unconscious in the depths without anyone to drag them out to safety are usually doomed to death.
+Less obvious saturations can occur where the divide between the Plane of Fire and the Material Plane is thin or even an open gateway; for example, a forest with trees permanently ablaze may have its roots set into a blazing cavern rife with fire energy which feeds the trees. Creatures lose the benefits of fire resistance and immunity and are constantly afflicted with the [fatigued](../../../rules/appendices/conditions.md#fatigued) condition while within the caves. Potions carried into the caves boil away, becoming useless. In addition, such creatures sustain 2d6 fire damage for each full minute spent inside, and upon taking this damage must succeed a DC 10 Fort save, with each subsequent minute spent in the caves increasing the DC by an amount equal to 1/2 the fire damage taken that turn. Failing this save twice causes a creature to become [exhausted](../../../rules/appendices/conditions.md#exhausted), and failing three more times while exhausted causes them to fall [unconscious](../../../rules/appendices/conditions.md#unconscious) (even if they would otherwise be unaffected by sleep effects). Those who fall unconscious in the depths without anyone to drag them out to safety are usually doomed to death.
 
 Those who succeed in finding the center of the caves have their fire resistance and immunity restored and gain an additional 10 fire resistance; pyrokineticists also can learn the autocombustion utility wild talent.
 
@@ -126,7 +126,7 @@ You can purge yourself or another with flame, removing all impurities. This func
 
 Light saturations are places where he light itself takes form and substance, where illusions blend with reality a little too closely. These places often are known to bask in eternal daylight, or may house great luminescent sources of energy.
 
-One example of a light saturation is the home of an ancient text guarded by sentient illusions and labyrinthine mirrored corridors that plague those seeking the tome. As they attempt to navigate the illusions, characters must succeed a DC 20 Fortitude save or have their senses dulled, receiving a- 5 to all Perception checks (this penalty also affects touch, blindsense, blindsight, and other senses), suffering a -2 to Perception checks on a successful save.
+One example of a light saturation is the home of an ancient text guarded by sentient illusions and labyrinthine mirrored corridors that plague those seeking the tome. As they attempt to navigate the illusions, characters must succeed a DC 20 Fortitude save or have their senses dulled, receiving a- 5 to all [Perception](../../../rules/skills/perception.md) checks (this penalty also affects touch, blindsense, blindsight, and other senses), suffering a -2 to Perception checks on a successful save.
 
 After 5 rounds, the illusions lead them to the book and they must attempt a DC 15 Perception check to read the text of the tome and become one with their illusions (creatures who cannot see can simply ‘feel’ the words).
 
@@ -172,7 +172,7 @@ Those who attune themselves to a mind saturation might be granted the following 
 
 Your mind is a bastion, privy to none but yourself.
 
-Whenever you would fail a save against a mind-affecting effect, you can choose to end that effect instantly as a swift or immediate action before suffering the effects of it. If you do so, you are dazed for 1 round.
+Whenever you would fail a save against a mind-affecting effect, you can choose to end that effect instantly as a swift or immediate action before suffering the effects of it. If you do so, you are [dazed](../../../rules/appendices/conditions.md#dazed) for 1 round.
 
 **Poison Saturations**
 
@@ -202,13 +202,13 @@ Those who attune themselves to a sound saturation might be granted the following
 
 **Element(s)**: sound; **Type** utility (Su); **Level** 2; **Burn** —
 
-You can recreate any sound you have heard, including the voices of others, granting you a +10 circumstance bonus on sound-related Bluff checks.
+You can recreate any sound you have heard, including the voices of others, granting you a +10 circumstance bonus on sound-related [Bluff](../../../rules/skills/bluff.md) checks.
 
 **Time Saturations**
 
 Amongst the most esoteric of elemental saturations, time saturations are incredibly difficult to identify from outside them. However, time will often flow differently within; an individual within a time saturation may experience a minute passing while years have passed for the rest of their plane, or might experience hours of time passing within a second. In a few cases time may even flow backwards.
 
-A time saturation could easily occur anywhere, though places where primal magic exists seem to be more prone to contain these rare elemental energies.
+A time saturation could easily occur anywhere, though places where primal magic exists seem to be more [prone](../../../rules/appendices/conditions.md#prone) to contain these rare elemental energies.
 
 One classic example of a time saturation may be a chamber which is a dead magic zone, cut off from the rest of the world. Each minute spent inside of the chamber feels as though 10 years have passed for both body and mind. After spending 1 minute of their plane’s normal time inside of the chamber, one must make a DC 10 Fortitude and Will save, staving off both the decay of their body and the ennui of their mind, suffering 1 Constitution or Wisdom damage on a failed save respectively. For each additional minute spent inside of this chamber, increase this DC by 3. Those wishing to gain the power of this location must spend 5 minutes inside of the chamber, and may fail up to 5 saves before being unable to draw the power out of this location. Once they leave the chamber, the effects of it end, although any ability damage taken remains. Those who manage to do so gain a +2 circumstance bonus to Initiative checks due to their ability to perceive time more acutely. Kineticists who possess the time element gain access to the seize the initiative utility wild talent.
 
@@ -260,7 +260,7 @@ While you are in dim light or worse light conditions, you can detect the locatio
 
 **Water Saturations**
 
-Water saturations can occur in shipwrecks or sunken cities occupied by sentient aquatic creatures in the depths of the oceans, as well as other places where the Plane of Water comes close to the Material Plane. A hydrokineticist must demonstrate (or fake) the favor of a powerful ruler of such a place. They must then succeed at four consecutive DC 20 Swim checks without taking 10. If they fail, they take 5d6 points of bludgeoning damage; if they succeed, they can learn the water alteration wild talent.
+Water saturations can occur in shipwrecks or sunken cities occupied by sentient aquatic creatures in the depths of the oceans, as well as other places where the Plane of Water comes close to the Material Plane. A hydrokineticist must demonstrate (or fake) the favor of a powerful ruler of such a place. They must then succeed at four consecutive DC 20 [Swim](../../../rules/skills/swim.md) checks without taking 10. If they fail, they take 5d6 points of bludgeoning damage; if they succeed, they can learn the water alteration wild talent.
 
 Because water also contains the power of cold, water saturations can also occur in areas where cold energy overwhelms the landscape. A character finding such a place can search it and find a tower made of sheer ice. The tower is so cold that it inhibits all movement, reducing base speed to 1/2 its normal value and all other move speeds to 1/4 while within 500 feet of it. It is also surrounded by constant hurricane-force winds blowing sharp shards of hail with them. Those climbing or flying within 60 ft. of the tower take 3d6 piercing damage per round and must succeed a DC 35 Fort save or be frozen on the spot regardless of if they take this damage or how much, paralyzing them for 1 round. Those who have reached the top where the water saturation originates become able to cast ray of frost as a spell-like ability at will and frostbite as a spell-like ability once per day. Hydrokineticists will additionally gain access to the rime blast infusion.
 
@@ -650,7 +650,7 @@ This functions as dehydrating blast, except it can be used with blood blast and 
 
 **Associated Blast(s):** bone, bioelectric, charnel, chilled bone, encephalon, false reality, fossilized, injecting, mental, warped bone.
 
-Your blast can sever a target’s mental connection with their senses. A foe dealt damage by this infusion is either blinded, deafened, mute, or unable to smell for 1 round per 3 kineticist levels you possess. You decide which condition you wish to inflict upon a foe upon using this infusion. At 8th level, this infusion can also negate Blindsense, Blindsight, Telepathy, Tremorsense, or Truesight. You can increase the burn cost of this infusion by 1 to target two senses with this ability.
+Your blast can sever a target’s mental connection with their senses. A foe dealt damage by this infusion is either [blinded](../../../rules/appendices/conditions.md#blinded), [deafened](../../../rules/appendices/conditions.md#deafened), mute, or unable to smell for 1 round per 3 kineticist levels you possess. You decide which condition you wish to inflict upon a foe upon using this infusion. At 8th level, this infusion can also negate Blindsense, Blindsight, Telepathy, Tremorsense, or Truesight. You can increase the burn cost of this infusion by 1 to target two senses with this ability.
 
 **Notes**
 
@@ -660,7 +660,7 @@ Your blast can sever a target’s mental connection with their senses. A foe dea
 
 **Associated Blast(s):** encephalon, false reality, mental.
 
-You know how to overstimulate your foe’s senses. A foe dealt damage by this infusion is dazzled for a number of rounds equal to your Constitution modifier (minimum 1).
+You know how to overstimulate your foe’s senses. A foe dealt damage by this infusion is [dazzled](../../../rules/appendices/conditions.md#dazzled) for a number of rounds equal to your Constitution modifier (minimum 1).
 
 **Notes**
 
@@ -776,7 +776,7 @@ Your blast bores through an enemy’s brain, effectively destroying it. Those af
 
 **Associated Blast(s):** acidic bolt, electric, encephalon, false reality, gigawatt, mental, thunder flash.
 
-Your blast overloads a target’s mind, causing them to seize up. A foe dealt damage by this infusion is paralyzed for 1 round per 3 kineticist levels you possess.
+Your blast overloads a target’s mind, causing them to seize up. A foe dealt damage by this infusion is [paralyzed](../../../rules/appendices/conditions.md#paralyzed) for 1 round per 3 kineticist levels you possess.
 
 **Notes**
 
@@ -908,7 +908,7 @@ You can cause your blast to ricochet off of your target into another. When you h
 
 **Associated Blast(s):** encephalon, false reality, mental.
 
-Your blast can scramble the signals in a foe’s brain. A foe dealt damage by this infusion is confused for 1 round per 4 kineticist levels you possess.
+Your blast can scramble the signals in a foe’s brain. A foe dealt damage by this infusion is [confused](../../../rules/appendices/conditions.md#confused) for 1 round per 4 kineticist levels you possess.
 
 **Notes**
 

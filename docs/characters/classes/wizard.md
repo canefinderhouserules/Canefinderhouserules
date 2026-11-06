@@ -126,7 +126,7 @@ The conjurer focuses on the study of summoning monsters and magic alike to bend 
 
 Diviners are masters of remote viewing, prophecies, and using magic to explore the world.
 
-*Forewarned (Su)*: You can always act in the surprise round even if you fail to make a Perception roll to notice a foe, but you are still considered flat-footed until you take an action. In addition, you receive a bonus on initiative checks equal to 1/2 your wizard level (minimum +1). At 20th level, anytime you roll initiative, assume the roll resulted in a natural 20.
+*Forewarned (Su)*: You can always act in the surprise round even if you fail to make a Perception roll to notice a foe, but you are still considered [flat-footed](../../rules/appendices/conditions.md#flat-footed) until you take an action. In addition, you receive a bonus on initiative checks equal to 1/2 your wizard level (minimum +1). At 20th level, anytime you roll initiative, assume the roll resulted in a natural 20.
 
 *Diviner’s Fortune (Sp)*: When you activate this school power, you can touch any creature as a standard action to give it an insight bonus on all of its attack rolls, skill checks, ability checks, and saving throws equal to 1/2 your wizard level (minimum +1) for 1 round. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
 
@@ -136,9 +136,9 @@ Diviners are masters of remote viewing, prophecies, and using magic to explore t
 
 The enchanter uses magic to control and manipulate the minds of his victims.
 
-*Enchanting Smile (Su)*: You gain a +2 enhancement bonus on Bluff, Diplomacy, and Intimidate skill checks. This bonus increases by +1 for every five wizard levels you possess, up to a maximum of +6 at 20th level. At 20th level, whenever you succeed at a saving throw against a spell of the enchantment school, that spell is reflected back at its caster, as per [*spell turning*](../../magic/spells/spell-turning.md).
+*Enchanting Smile (Su)*: You gain a +2 enhancement bonus on [Bluff](../../rules/skills/bluff.md), [Diplomacy](../../rules/skills/diplomacy.md), and [Intimidate](../../rules/skills/intimidate.md) skill checks. This bonus increases by +1 for every five wizard levels you possess, up to a maximum of +6 at 20th level. At 20th level, whenever you succeed at a saving throw against a spell of the enchantment school, that spell is reflected back at its caster, as per [*spell turning*](../../magic/spells/spell-turning.md).
 
-*Dazing Touch (Sp)*: You can cause a living creature to become dazed for 1 round as a melee touch attack. Creatures with more Hit Dice than your wizard level are unaffected. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
+*Dazing Touch (Sp)*: You can cause a living creature to become [dazed](../../rules/appendices/conditions.md#dazed) for 1 round as a melee touch attack. Creatures with more Hit Dice than your wizard level are unaffected. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
 
 *Aura of Despair (Su)*: At 8th level, you can emit a 30-foot aura of despair for a number of rounds per day equal to your wizard level. Enemies within this aura take a –2 penalty on ability checks, attack rolls, damage rolls, saving throws, and skill checks. These rounds do not need to be consecutive. This is a mind-affecting effect.
 
@@ -158,7 +158,7 @@ Illusionists use magic to weave confounding images, figments, and phantoms to ba
 
 *Extended Illusions (Su)*: Any illusion spell you cast with a duration of “concentration” lasts a number of additional rounds equal to 1/2 your wizard level after you stop maintaining concentration (minimum +1 round). At 20th level, you can make one illusion spell with a duration of “concentration” become permanent. You can have no more than one illusion made permanent in this way at one time. If you designate another illusion as permanent, the previous permanent illusion ends.
 
-*Blinding Ray (Sp)*: As a standard action you can fire a shimmering ray at any foe within 30 feet as a ranged touch attack. The ray causes creatures to be blinded for 1 round. Creatures with more Hit Dice than your wizard level are dazzled for 1 round instead. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
+*Blinding Ray (Sp)*: As a standard action you can fire a shimmering ray at any foe within 30 feet as a ranged touch attack. The ray causes creatures to be [blinded](../../rules/appendices/conditions.md#blinded) for 1 round. Creatures with more Hit Dice than your wizard level are [dazzled](../../rules/appendices/conditions.md#dazzled) for 1 round instead. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
 
 *Invisibility Field (Sp)*: At 8th level, you can make yourself invisible as a swift action for a number of rounds per day equal to your wizard level. These rounds do not need to be consecutive. This otherwise functions as *greater invisibility.*
 
@@ -168,7 +168,7 @@ The dread and feared necromancer commands undead and uses the foul power of unli
 
 *Power over Undead (Su)*: You receive [Command Undead](../../rules/feats/command-undead.md) or [Turn Undead](../../rules/feats/turn-undead.md) as a bonus feat. You can channel energy a number of times per day equal to 3 + your Intelligence modifier, but only to use the selected feat. You can take other feats to add to this ability, such as [Extra Channel](../../rules/feats/extra-channel.md) and [Improved Channel](../../rules/feats/improved-channel.md), but not feats that alter this ability, such as [Elemental Channel](../../rules/feats/elemental-channel.md) and [Alignment Channel](../../rules/feats/alignment-channel.md). The DC to save against these feats is equal to 10 + 1/2 your wizard level + your Charisma modifier. At 20th level, undead cannot add their channel resistance to the save against this ability.
 
-*Grave Touch (Sp)*: As a standard action, you can make a melee touch attack that causes a living creature to become shaken for a number of rounds equal to 1/2 your wizard level (minimum 1). If you touch a shaken creature with this ability, it becomes frightened for 1 round if it has fewer Hit Dice than your wizard level. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
+*Grave Touch (Sp)*: As a standard action, you can make a melee touch attack that causes a living creature to become [shaken](../../rules/appendices/conditions.md#shaken) for a number of rounds equal to 1/2 your wizard level (minimum 1). If you touch a shaken creature with this ability, it becomes [frightened](../../rules/appendices/conditions.md#frightened) for 1 round if it has fewer Hit Dice than your wizard level. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
 
 *Life Sight (Su)*: At 8th level, you gain blindsight to a range of 10 feet for a number of rounds per day equal to your wizard level. This ability only allows you to detect living creatures and undead creatures. This sight also tells you whether a creature is living or undead. Constructs and other creatures that are neither living nor undead cannot be seen with this ability. The range of this ability increases by 10 feet at 12th level, and by an additional 10 feet for every four levels beyond 12th. These rounds do not need to be consecutive.
 
@@ -226,7 +226,7 @@ Damage equals that of a normal creature of the familiar’s kind.
 
 *Saving Throws*: For each saving throw, use either the familiar’s base save bonus (Fortitude +2, Reflex +2, Will +0) or the master’s (as calculated from all his classes), whichever is better. The familiar uses its own ability modifiers to saves, and it doesn’t share any of the other bonuses that the master might have on saves.
 
-*Skills*: For each skill in which either the master or the familiar has ranks, use either the normal skill ranks for an animal of that type or the master’s skill ranks, whichever is better. In either case, the familiar uses its own ability modifiers. Regardless of a familiar’s total skill modifiers, some skills may remain beyond the familiar’s ability to use. Familiars treat Acrobatics, Climb, Fly, Perception, Stealth, and Swim as class skills.
+*Skills*: For each skill in which either the master or the familiar has ranks, use either the normal skill ranks for an animal of that type or the master’s skill ranks, whichever is better. In either case, the familiar uses its own ability modifiers. Regardless of a familiar’s total skill modifiers, some skills may remain beyond the familiar’s ability to use. Familiars treat [Acrobatics](../../rules/skills/acrobatics.md), [Climb](../../rules/skills/climb.md), [Fly](../../rules/skills/fly.md), [Perception](../../rules/skills/perception.md), [Stealth](../../rules/skills/stealth.md), and Swim as class skills.
 
 **Familiar Ability Descriptions**: All familiars have special abilities (or impart abilities to their masters) depending on the master’s combined level in classes that grant familiars, as shown on the table below. The abilities are cumulative.
 

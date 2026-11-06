@@ -32,7 +32,7 @@ Infused with the essence of the Shadow Plane and possessing human blood commingl
 
 **Low-Light Vision**: Fetchlings can see twice as far as humans in conditions of dim light.
 
-**Skilled**: Fetchlings have a +2 racial bonus on Knowledge (planes) and Stealth checks.
+**Skilled**: Fetchlings have a +2 racial bonus on [Knowledge](../../rules/skills/knowledge.md) (planes) and [Stealth](../../rules/skills/stealth.md) checks.
 
 **Shadow Blending (Su)**: Attacks against a fetchling in dim light have a 50% miss chance instead of the normal 20% miss chance. This ability does not grant total concealment; it just increases the miss chance.
 
@@ -46,7 +46,7 @@ Infused with the essence of the Shadow Plane and possessing human blood commingl
 
 The following racial traits may be selected instead of existing fetchling racial traits. Consult your GM before selecting any of these new options.
 
-**Emissary**: Rare fetchlings excel in the role of emissary between the Shadow Plane and the Material Plane. Once per day, such a fetchling can roll twice when making a Bluff or Diplomacy check and take the better roll. This racial trait replaces shadow blending.
+**Emissary**: Rare fetchlings excel in the role of emissary between the Shadow Plane and the Material Plane. Once per day, such a fetchling can roll twice when making a [Bluff](../../rules/skills/bluff.md) or [Diplomacy](../../rules/skills/diplomacy.md) check and take the better roll. This racial trait replaces shadow blending.
 
 **Gloom Shimmer**: Some fetchlings can manipulate shadowy energy in order to displace their location instead of transporting between shadows. Upon reaching 9th level, instead of gaining [*shadow walk*](../../magic/spells/shadow-walk.md) as a spell-like ability, these fetchlings gain [*displacement*](../../magic/spells/displacement.md) as a spell-like ability usable twice per day. For this ability, a fetchling’s caster level is equal to his total Hit Dice. This racial trait modifies the spell-like ability racial trait.
 
@@ -54,11 +54,11 @@ The following racial traits may be selected instead of existing fetchling racial
 
 **Subtle Manipulator**: Rather than taking on the forms of others, some fetchling are adept at destroying the memories of other creatures. Instead of gaining [*disguise self*](../../magic/spells/disguise-self.md) as a spell-like ability, such fetchlings can use [*memory lapse*](../../magic/spells/memory-lapse.md) once per day as a spell-like ability. For this ability, a fetchling’s caster level is equal to his total Hit Dice. This racial trait modifies the spell-like ability racial trait.
 
-**Unnerving Gaze**: Some fetchlings gain an upsetting gaze attack that they can activate three times per day as a standard action, affecting all creatures within a 30-foot cone that can see. All creatures that meet the fetchling's unnerving gaze are shaken for 1 round (DC = 10 + 1/2 the fetchling's character level + her Charisma modifier; Will negates). When the fetchling reaches 9th level, her gaze instead causes creatures to be staggered. When the fetchling reaches 13th level, her gaze instead causes creatures to be stunned. Unnerving gaze is a mind-affecting fear effect. This racial trait replaces the fetchling's spell-like abilities.
+**Unnerving Gaze**: Some fetchlings gain an upsetting gaze attack that they can activate three times per day as a standard action, affecting all creatures within a 30-foot cone that can see. All creatures that meet the fetchling's unnerving gaze are [shaken](../../rules/appendices/conditions.md#shaken) for 1 round (DC = 10 + 1/2 the fetchling's character level + her Charisma modifier; Will negates). When the fetchling reaches 9th level, her gaze instead causes creatures to be [staggered](../../rules/appendices/conditions.md#staggered). When the fetchling reaches 13th level, her gaze instead causes creatures to be [stunned](../../rules/appendices/conditions.md#stunned). Unnerving gaze is a mind-affecting fear effect. This racial trait replaces the fetchling's spell-like abilities.
 
 **World Walker**: Fetchlings who have spent most of their lives on the Material Plane can become more acclimated to their new environments. Instead of gaining a +2 racial bonus on Knowledge (planes) checks, these fetchlings gain a +1 racial bonus on Knowledge (nature) and Knowledge (local) checks. This racial trait modifies the skilled racial trait.
 
-**Bound to the Material Plane**: Some fetchlings are from families that have fearfully avoided the Plane of Shadow, living on the Material Plane for generations. As a result, these fetchlings are closely tied to the Material Plane. Fetchlings with this racial trait count as outsiders with the native subtype and humanoids with the human subtype for any effect related to race, including feat prerequisites and spells that affect humanoids. They can pass for human without using the Disguise skill. This racial trait replaces the +2 racial bonus on Knowledge (planes) checks from the skilled racial trait, and alters the native outsider racial trait.
+**Bound to the Material Plane**: Some fetchlings are from families that have fearfully avoided the Plane of Shadow, living on the Material Plane for generations. As a result, these fetchlings are closely tied to the Material Plane. Fetchlings with this racial trait count as outsiders with the native subtype and humanoids with the human subtype for any effect related to race, including feat prerequisites and spells that affect humanoids. They can pass for human without using the [Disguise](../../rules/skills/disguise.md) skill. This racial trait replaces the +2 racial bonus on Knowledge (planes) checks from the skilled racial trait, and alters the native outsider racial trait.
 
 **Boundary Walker**: Fetchlings of great trade cities that have a shadowy twin on the Plane of Shadow deftly navigate between the worlds of shadow and light. A fetchling with this racial trait gains spell resistance equal to 5 + his character level against spells and spell-like abilities with the light or shadow descriptors, as well as spells and spell-like abilities of the illusion (shadow) subschool. This racial trait replaces the shadow blending and shadowy resistance racial traits.
 
@@ -76,9 +76,9 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 **Oracle**: Treat the oracle’s level as +1/3 higher for the purposes of determining which of its racial spell-like abilities it can use.
 
-**Ranger**: Add a +1/2 bonus on Perception and Survival checks made on the Plane of Shadow.
+**Ranger**: Add a +1/2 bonus on [Perception](../../rules/skills/perception.md) and [Survival](../../rules/skills/survival.md) checks made on the Plane of Shadow.
 
-**Rogue**: Add a +1/2 bonus on Stealth and Sleight of Hand checks made while in dim light or darkness.
+**Rogue**: Add a +1/2 bonus on Stealth and [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks made while in dim light or darkness.
 
 **Sorcerer**: Add +1/2 to either cold or electricity resistance (maximum resistance 10 for either type).
 
@@ -90,7 +90,7 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 Fetchlings also have the following options.
 
-**Alchemist**: Add +1 to Craft (alchemy) checks to craft poison and +1/4 to the DCs of poisons the alchemist creates.
+**Alchemist**: Add +1 to [Craft](../../rules/skills/craft.md) (alchemy) checks to craft poison and +1/4 to the DCs of poisons the alchemist creates.
 
 **Arcanist**: When the arcanist casts an illusion (shadow) spell that deals a percentage of its damage or effect against nonbelievers, increase this amount by 2% (to a maximum of 100%).
 
@@ -112,7 +112,7 @@ Fetchlings also have the following options.
 
 **Magus**: Add 1/4 point to the magus's arcane pool.
 
-**Monk**: Add a +1/2 bonus on Escape Artist and Stealth checks attempted while in dim light or darkness.
+**Monk**: Add a +1/2 bonus on [Escape Artist](../../rules/skills/escape-artist.md) and Stealth checks attempted while in dim light or darkness.
 
 **Paladin**: Add +1/4 to the morale bonus the paladin grants on allies' saving throws against fear effects.
 

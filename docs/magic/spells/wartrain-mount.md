@@ -8,4 +8,4 @@
 **Duration** 1 hour/level  
 **Saving Throw** none; **Spell Resistance** yes
 
-You instill the target animal with the combat training general purpose (see the Handle Animal skill, Core Rulebook 98). This supersedes the animal’s previous trained purpose and any tricks it knows. When the spell ends, it reverts to its previous trained purpose and known tricks.
+You instill the target animal with the combat training general purpose (see the [Handle Animal](../../rules/skills/handle-animal.md) skill, Core Rulebook 98). This supersedes the animal’s previous trained purpose and any tricks it knows. When the spell ends, it reverts to its previous trained purpose and known tricks.

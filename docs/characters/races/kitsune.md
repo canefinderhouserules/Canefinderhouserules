@@ -16,9 +16,9 @@ Quick-witted and nimble, kitsune make excellent bards and rogues. It is not unco
 
 **Low-Light Vision (Ex)**: Kitsune can see twice as far as humans in conditions of dim light.
 
-**Change Shape (Su)**: A kitsune can assume the appearance of a specific single human form of the same sex. The kitsune always takes this specific form when she uses this ability. A kitsune in human form cannot use her bite attack, but gains a +10 racial bonus on Disguise checks made to appear human. Changing shape is a standard action. This ability otherwise functions as [*alter self*](../../magic/spells/alter-self.md), except that the kitsune does not adjust her ability scores.
+**Change Shape (Su)**: A kitsune can assume the appearance of a specific single human form of the same sex. The kitsune always takes this specific form when she uses this ability. A kitsune in human form cannot use her bite attack, but gains a +10 racial bonus on [Disguise](../../rules/skills/disguise.md) checks made to appear human. Changing shape is a standard action. This ability otherwise functions as [*alter self*](../../magic/spells/alter-self.md), except that the kitsune does not adjust her ability scores.
 
-**Agile (Ex)**: Kitsune receive a +2 racial bonus on Acrobatics checks.
+**Agile (Ex)**: Kitsune receive a +2 racial bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks.
 
 **Kitsune Magic (Ex/Sp)**: Kitsune add +1 to the DC of any saving throws against enchantment spells that they cast. Kitsune with a Charisma score of 11 or higher gain the following spell-like ability: 3/day—[*dancing lights*](../../magic/spells/dancing-lights.md).
 
@@ -46,9 +46,9 @@ The following racial traits may be selected instead of existing kitsune racial t
 
 Under the house rules, any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md). The options below are this race's official ones, and they still work as normal.
 
-**Bard**: Add a +1/2 bonus on Bluff checks to lie and a +1/2 bonus on Diplomacy checks to gather information.
+**Bard**: Add a +1/2 bonus on [Bluff](../../rules/skills/bluff.md) checks to lie and a +1/2 bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks to gather information.
 
-**Druid**: Add a +1/2 bonus on Diplomacy and Intimidate checks to change a creature’s attitude.
+**Druid**: Add a +1/2 bonus on Diplomacy and [Intimidate](../../rules/skills/intimidate.md) checks to change a creature’s attitude.
 
 **Oracle**: Reduce the penalty for not being proficient for one weapon by 1. When the nonproficiency penalty for a weapon becomes 0 because of this ability, the oracle is treated as having the appropriate Martial or Exotic Weapon Proficiency feat for that weapon.
 

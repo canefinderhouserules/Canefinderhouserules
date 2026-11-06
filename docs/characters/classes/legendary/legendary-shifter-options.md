@@ -32,7 +32,7 @@ The bull is a fierce charger and is adept at trampling its foes, pounding them t
 
 The chameleon is a tricky creature, easily able to hide from those who would do it harm.
 
-**Form**: You gain a +4 competence bonus on Stealth checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+**Form**: You gain a +4 competence bonus on [Stealth](../../../rules/skills/stealth.md) checks. This bonus increases to +6 at 8th level and +8 at 15th level.
 
 **Deinonychus**
 
@@ -44,13 +44,13 @@ The deinonychus is adept at racing from ambush to deliver grievous wounds with i
 
 The falcon senses all and has the speed to hunt down even the most elusive prey. Those who take this aspect gain enhanced abilities to perceive and reconnoiter the wilderness—little escapes this shifter’s attention.
 
-**Form**: You gain a +4 competence bonus on Perception checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+**Form**: You gain a +4 competence bonus on [Perception](../../../rules/skills/perception.md) checks. This bonus increases to +6 at 8th level and +8 at 15th level.
 
 **Frog**
 
 The aspect of the frog grants great mobility in leaping through the air and swimming in water, as well surprising tactics in combat.
 
-**Form**: You gain a +4 competence bonus on Acrobatics checks when jumping and on Swim checks. These bonuses increase to +6 at 8th level and +8 at 15th level.
+**Form**: You gain a +4 competence bonus on [Acrobatics](../../../rules/skills/acrobatics.md) checks when jumping and on [Swim](../../../rules/skills/swim.md) checks. These bonuses increase to +6 at 8th level and +8 at 15th level.
 
 **Lizard**
 
@@ -62,7 +62,7 @@ The aspect of the lizard is one of swift, graceful movement, granting the abilit
 
 The monkey is a climbing trickster who specializes in mobility and manual agility.
 
-**Form**: You gain a +4 competence bonus on Climb checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+**Form**: You gain a +4 competence bonus on [Climb](../../../rules/skills/climb.md) checks. This bonus increases to +6 at 8th level and +8 at 15th level.
 
 **Mouse**
 
@@ -166,7 +166,7 @@ This aspect unlocks the brutal ferocity and tenacious fury of the wolverine. The
 
 **Benefit:** If you have levels in both barbarian and legendary shifter, those levels stack for determining the number of rounds you can rage per day and your bonus to AC from your defensive instinct class feature.
 
-Additionally, if you have the rage class feature and one of the shifter shape, draconic shape, giant shape, mimic shape, mutant shape, or necro shape class features, whenever activate your rage and shifter shape class features (or equivalents listed above) in the same round, you may make an Intimidate check to demoralize against an opponent within 30 ft. of you as a free action. You may only make this Intimidate check once per combat.
+Additionally, if you have the rage class feature and one of the shifter shape, draconic shape, giant shape, mimic shape, mutant shape, or necro shape class features, whenever activate your rage and shifter shape class features (or equivalents listed above) in the same round, you may make an [Intimidate](../../../rules/skills/intimidate.md) check to demoralize against an opponent within 30 ft. of you as a free action. You may only make this Intimidate check once per combat.
 
 **Special:** You may use the intelligent instinct, whimsical aura, or unsettling aura class features instead of the defensive instinct class feature to qualify for this feat. If you do, the qualifying class feature is affected by this feat the same way as defensive instinct would.
 
@@ -196,7 +196,7 @@ Additionally, you may speak as if you were in your base form while under a polym
 
 ### Object Form I
 
-When you cast this spell, you can assume the form of any Small or Medium object, such as a chair or desk (but not a corpse). While in this form, you can choose to hide the natural attacks granted by this spell; if you do, you gain a +20 circumstance bonus to Disguise checks to appear as a normal object. You also gain darkvision 60 feet and a base land speed of 30 feet.
+When you cast this spell, you can assume the form of any Small or Medium object, such as a chair or desk (but not a corpse). While in this form, you can choose to hide the natural attacks granted by this spell; if you do, you gain a +20 circumstance bonus to [Disguise](../../../rules/skills/disguise.md) checks to appear as a normal object. You also gain darkvision 60 feet and a base land speed of 30 feet.
 
 *Small object:* If the form you take is that of a Small object, you gain a +2 size bonus to your Dexterity and a +2 natural armor bonus. You also gain a pair of claw attacks which deal 1d3 damage and a bite attack which deals 1d4 damage; these are primary natural attacks.
 

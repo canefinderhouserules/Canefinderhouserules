@@ -57,7 +57,7 @@
 
 **[Improved Initiative](../../rules/feats/improved-initiative.md):** +4 to initiative, and you can take 10 on initiative checks.
 
-**[Improved Coup de Grace](../../rules/feats/improved-coup-de-grace.md):** no longer requires Heal or Combat Expertise; it now requires level 9. This feat is what grants the death save: the base coup de grace rule has no death save, so you need this feat to have one.
+**[Improved Coup de Grace](../../rules/feats/improved-coup-de-grace.md):** no longer requires [Heal](../../rules/skills/heal.md) or Combat Expertise; it now requires level 9. This feat is what grants the death save: the base coup de grace rule has no death save, so you need this feat to have one.
 
 **[Deft Maneuvers](../../rules/feats/deft-maneuvers.md)** *(prerequisite: Int 10)*: you do not provoke an attack of opportunity when performing a trip, disarm, dirty trick, feint, reposition, or steal combat maneuver. In addition, you receive a +2 bonus on checks with these combat maneuvers. It is now a prerequisite for the relevant greater combat maneuver feats.
 

@@ -22,7 +22,7 @@ A ranger is proficient with all simple and [martial weapons](../../equipment/wea
 
 ### Favored Enemy (Ex)
 
-At 1st level, a ranger selects a creature type from the ranger favored enemies table. He gains a +2 bonus on Bluff, Knowledge, Perception, Sense Motive, and Survival checks against creatures of his selected type. Likewise, he gets a +2 bonus on weapon attack and damage rolls against them. A ranger may make Knowledge skill checks untrained when attempting to identify these creatures.
+At 1st level, a ranger selects a creature type from the ranger favored enemies table. He gains a +2 bonus on [Bluff](../../rules/skills/bluff.md), [Knowledge](../../rules/skills/knowledge.md), [Perception](../../rules/skills/perception.md), [Sense Motive](../../rules/skills/sense-motive.md), and [Survival](../../rules/skills/survival.md) checks against creatures of his selected type. Likewise, he gets a +2 bonus on weapon attack and damage rolls against them. A ranger may make Knowledge skill checks untrained when attempting to identify these creatures.
 
 At 5th level and every five levels thereafter (10th, 15th, and 20th level), the ranger may select an additional favored enemy. In addition, at each such interval, the bonus against any one favored enemy (including the one just selected, if so desired) increases by +2.
 
@@ -55,7 +55,7 @@ A ranger adds half his level (minimum 1) to Survival skill checks made to follow
 
 ### Wild Empathy (Ex)
 
-A ranger can improve the initial attitude of an animal. This ability functions just like a Diplomacy check to improve the attitude of a person. The ranger rolls 1d20 and adds his ranger level and his Charisma bonus to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
+A ranger can improve the initial attitude of an animal. This ability functions just like a [Diplomacy](../../rules/skills/diplomacy.md) check to improve the attitude of a person. The ranger rolls 1d20 and adds his ranger level and his Charisma bonus to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
 
 To use wild empathy, the ranger and the animal must be within 30 feet of one another under normal visibility conditions. Generally, influencing an animal in this way takes 1 minute, but, as with influencing people, it might take more or less time.
 
@@ -77,7 +77,7 @@ A ranger gains Endurance as a bonus feat at 3rd level.
 
 ### Favored Terrain (Ex)
 
-At 3rd level, a ranger may select a type of terrain from the Favored Terrains table. The ranger gains a +2 bonus on initiative checks and Knowledge (geography), Perception, Stealth, and Survival skill checks when he is in this terrain. A ranger traveling through his favored terrain normally leaves no trail and cannot be tracked (though he may leave a trail if he so chooses).
+At 3rd level, a ranger may select a type of terrain from the Favored Terrains table. The ranger gains a +2 bonus on initiative checks and Knowledge (geography), Perception, [Stealth](../../rules/skills/stealth.md), and Survival skill checks when he is in this terrain. A ranger traveling through his favored terrain normally leaves no trail and cannot be tracked (though he may leave a trail if he so chooses).
 
 At 8th level and every five levels thereafter, the ranger may select an additional favored terrain. A ranger may change any of his favored terrains by spending 48 continuous hours in the new terrain of his choice.
 
@@ -157,7 +157,7 @@ Beginning at 8th level, a ranger can move at his normal speed while using Surviv
 
 ### Evasion (Ex)
 
-When he reaches 9th level, a ranger can avoid even magical and unusual attacks with great agility. If he makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, he instead takes no damage. Evasion can be used only if the ranger is wearing light armor, medium armor, or no armor. A helpless ranger does not gain the benefit of evasion.
+When he reaches 9th level, a ranger can avoid even magical and unusual attacks with great agility. If he makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, he instead takes no damage. Evasion can be used only if the ranger is wearing light armor, medium armor, or no armor. A [helpless](../../rules/appendices/conditions.md#helpless) ranger does not gain the benefit of evasion.
 
 ### Quarry (Ex)
 

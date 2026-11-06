@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-Your sideways sling release allows you to launch bullets and stones even while prone.
+Your sideways sling release allows you to launch bullets and stones even while [prone](../appendices/conditions.md#prone).
 
 **Benefit**: While prone, you can use a sling to make ranged attacks.
 

@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-You know just where to strike to temporarily send your enemy into a confused stupor.
+You know just where to strike to temporarily send your enemy into a [confused](../appendices/conditions.md#confused) stupor.
 
 **Prerequisites**: Dex 13, Wis 13, [Improved Unarmed Strike](improved-unarmed-strike.md), base attack bonus +8.
 

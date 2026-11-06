@@ -45,7 +45,7 @@ The following are class features of the noble scion prestige class.
 
 **Greater Leadership (Ex)**: At 2nd level, a noble scion gains the Leadership feat as a bonus feat. He can recruit a cohort up to one level lower than himself. At 10th level, he can recruit a cohort of the same level as himself.
 
-**Aristocratic Erudition (Ex)**: At 3rd level, a noble scion gains a bonus equal to 1/2 his class level on Diplomacy, Knowledge (local), and Knowledge (nobility) checks. This ability also reduces the DCs of Diplomacy and Knowledge (local) checks others make to gather publicly known information about the noble scion by the same amount.
+**Aristocratic Erudition (Ex)**: At 3rd level, a noble scion gains a bonus equal to 1/2 his class level on [Diplomacy](../../rules/skills/diplomacy.md), [Knowledge](../../rules/skills/knowledge.md) (local), and Knowledge (nobility) checks. This ability also reduces the DCs of Diplomacy and Knowledge (local) checks others make to gather publicly known information about the noble scion by the same amount.
 
 **Prestigious Influence (Ex)**: At 4th level, a noble scion can use his influence to receive special treatment, favors, and other services. He effectively has a pool of virtual gold pieces equal to 150 gp plus 10 gp per class level to spend on services and non-material goods. This pool replenishes at the beginning of every week. Services and nonmaterial goods available to a noble scion include:
 
@@ -67,9 +67,9 @@ A noble scion cannot permanently gain goods or wealth from this ability; boons a
 - **Forest Elves**: [Agile Maneuvers](../../rules/feats/agile-maneuvers.md), [Breadth of Experience](../../rules/feats/breadth-of-experience.md), Skill Focus (Knowledge [nature]), Weapon Focus (longbow).
 - **Shadow Lands**: Blind-Fight, Diehard, [Shadow Strike](../../rules/feats/shadow-strike.md), Stealthy.
 - **Desert Kingdom**: Exotic Weapon Proficiency ([khopesh](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons)), Self-Sufficient, Skill Focus (Knowledge [history]), Weapon Focus (khopesh).
-- **Eastern Empire**: [Animal Affinity](../../rules/feats/animal-affinity.md), [Quick Draw](../../rules/feats/quick-draw.md), Skill Focus (Appraise), Weapon Focus (scimitar).
+- **Eastern Empire**: [Animal Affinity](../../rules/feats/animal-affinity.md), [Quick Draw](../../rules/feats/quick-draw.md), Skill Focus ([Appraise](../../rules/skills/appraise.md)), Weapon Focus (scimitar).
 - **Lawless Marches**: [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md), [Improved Steal](../../rules/feats/improved-steal.md), Irongut, Skill Focus (Knowledge [local]).
-- **Decadent Empire**: [Dazzling Display](../../rules/feats/dazzling-display.md), Exotic Weapon Proficiency ([falcata](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons)), Skill Focus (Bluff), Weapon Focus (falcata).
+- **Decadent Empire**: [Dazzling Display](../../rules/feats/dazzling-display.md), Exotic Weapon Proficiency ([falcata](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons)), Skill Focus ([Bluff](../../rules/skills/bluff.md)), Weapon Focus (falcata).
 - **Gothic Realm**: [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Focused Discipline](../../rules/feats/focused-discipline.md), Skill Focus (Knowledge [nobility]), Stoic.
 - **General**: Acrobatic, [Additional Traits](../../rules/feats/additional-traits.md), Alertness, Antagonize, Athletic, Cosmopolitan, Deceitful, [Deft Hands](../../rules/feats/deft-hands.md), Fleet, [Improved Initiative](../../rules/feats/improved-initiative.md), Persuasive, Prodigy, [Rhetorical Flourish](../../rules/feats/rhetorical-flourish.md), Run, Scholar.
 
@@ -82,4 +82,4 @@ A noble scion cannot permanently gain goods or wealth from this ability; boons a
 
 **Servitor (Ex)**: At 7th level, a noble scion gains a faithful NPC servitor of the same level as his cohort granted by the Leadership feat. This servitor can only have levels in NPC classes and comes equipped with gear appropriate for a character 1 level lower than the servitor’s actual level. The servitor does not follow the noble scion as would a cohort or follower, but instead can run various errands for his master while the noble scion is adventuring, such as delivering messages or maintaining the scion’s manor in his stead.
 
-**Peerless Patrician (Ex)**: At 10th level, once per round a noble scion can roll twice on any Bluff, Diplomacy, Intimidate, Knowledge (nobility), or Sense Motive check and take the better roll. Once per day, instead of rolling one of these skill checks, he can assume the roll resulted in a natural 20.
+**Peerless Patrician (Ex)**: At 10th level, once per round a noble scion can roll twice on any Bluff, Diplomacy, [Intimidate](../../rules/skills/intimidate.md), Knowledge (nobility), or [Sense Motive](../../rules/skills/sense-motive.md) check and take the better roll. Once per day, instead of rolling one of these skill checks, he can assume the roll resulted in a natural 20.

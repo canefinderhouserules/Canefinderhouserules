@@ -8,4 +8,4 @@
 **Duration** 1 min./level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell fills a single subject with a feeling of horrible dread that causes it to become shaken.
+This spell fills a single subject with a feeling of horrible dread that causes it to become [shaken](../../rules/appendices/conditions.md#shaken).

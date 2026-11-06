@@ -78,6 +78,6 @@
 
 ***Replacement Power**: The following granted power replaces the strength surge power of the Strength domain.*
 
-*Athletic Exploit (Su)*: As a swift action, you gain the ability to overcome physical obstacles with ease. Until the beginning of your next turn, you halve your armor check penalty when attempting Acrobatics, Climb, Escape Artist, and Swim skill checks, and you gain a bonus equal to 1/2 your cleric level (minimum +1) on such skill checks.
+*Athletic Exploit (Su)*: As a swift action, you gain the ability to overcome physical obstacles with ease. Until the beginning of your next turn, you halve your armor check penalty when attempting [Acrobatics](../../rules/skills/acrobatics.md), [Climb](../../rules/skills/climb.md), [Escape Artist](../../rules/skills/escape-artist.md), and [Swim](../../rules/skills/swim.md) skill checks, and you gain a bonus equal to 1/2 your cleric level (minimum +1) on such skill checks.
 
 ***Replacement Domain Spells**: 1st—jump, 3rd—greater animal aspect, 6th—greater heroism.*

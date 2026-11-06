@@ -10,11 +10,11 @@
 
 An inquisitor may only cast this spell while she has a judgment active. When she does cast this spell, it causes one or more of the following effects based on the inquisitor’s active judgments.
 
-**Destruction**: Red light erupts from the caster. Enemies in the area take 4d8 points of damage and become shaken for 1d4 rounds. A successful Will saving throw halves the damage and negates the shaken effect.
+**Destruction**: Red light erupts from the caster. Enemies in the area take 4d8 points of damage and become [shaken](../../rules/appendices/conditions.md#shaken) for 1d4 rounds. A successful Will saving throw halves the damage and negates the shaken effect.
 
 **Healing**: Green light erupts from the caster. Allies in the area regain a number of hit points equal to 1d8 + the caster’s Wisdom modifier.
 
-**Justice**: Blue light erupts from the caster, revealing hidden and invisible creatures to all. The light outlines such creatures for 1 round per caster level, imposing a –20 penalty on Stealth checks on those creatures.
+**Justice**: Blue light erupts from the caster, revealing hidden and invisible creatures to all. The light outlines such creatures for 1 round per caster level, imposing a –20 penalty on [Stealth](../../rules/skills/stealth.md) checks on those creatures.
 
 **Piercing**: Violet light erupts from the caster, reducing the spell resistance of enemies within the burst by 5 for 1 round per caster level.
 

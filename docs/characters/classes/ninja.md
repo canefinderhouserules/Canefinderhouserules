@@ -67,9 +67,9 @@ The ninja must be able to see the target well enough to pick out a vital spot, a
 
 ### Ki Pool (Su)
 
-At 2nd level, a ninja gains a pool of ki points, supernatural energy she can use to accomplish amazing feats. The number of points in the ninja’s ki pool is equal to 1/2 her ninja level + her Charisma modifier. As long as she has at least 1 point in her ki pool, she treats any Acrobatics skill check made to jump as if she had a running start. At 10th level, she also reduces the DC of Acrobatics skill checks made to jump by 1/2 (although she still cannot move farther than her speed allows).
+At 2nd level, a ninja gains a pool of ki points, supernatural energy she can use to accomplish amazing feats. The number of points in the ninja’s ki pool is equal to 1/2 her ninja level + her Charisma modifier. As long as she has at least 1 point in her ki pool, she treats any [Acrobatics](../../rules/skills/acrobatics.md) skill check made to jump as if she had a running start. At 10th level, she also reduces the DC of Acrobatics skill checks made to jump by 1/2 (although she still cannot move farther than her speed allows).
 
-By spending 1 point from her ki pool, a ninja can make one additional attack at her highest attack bonus, but she can do so only when making a full attack. In addition, she can spend 1 point to increase her speed by 20 feet for 1 round. Finally, a ninja can spend 1 point from her ki pool to give herself a +4 insight bonus on Stealth checks for 1 round. Each of these powers is activated as a swift action. A ninja can gain additional powers that consume points from her ki pool by selecting certain ninja tricks.
+By spending 1 point from her ki pool, a ninja can make one additional attack at her highest attack bonus, but she can do so only when making a full attack. In addition, she can spend 1 point to increase her speed by 20 feet for 1 round. Finally, a ninja can spend 1 point from her ki pool to give herself a +4 insight bonus on [Stealth](../../rules/skills/stealth.md) checks for 1 round. Each of these powers is activated as a swift action. A ninja can gain additional powers that consume points from her ki pool by selecting certain ninja tricks.
 
 The ki pool is replenished each morning after 8 hours of rest or meditation; these hours do not need to be consecutive. If the ninja possesses levels in another class that grants points to a ki pool, ninja levels stack with the levels of that class to determine the total number of ki points in the combined pool, but only one ability score modifier is added to the total. The choice of which score to use is made when the second class ability is gained, and once made, the choice is set. The ninja can now use ki points from this pool to power the abilities of every class she possesses that grants a ki pool.
 
@@ -83,11 +83,11 @@ Tricks marked with an asterisk (*) add effects to a ninja’s sneak attack. Only
 
 As a swift action, a ninja with this trick can focus her ki to grant her a +20 bonus on one Acrobatics check of her choice made before the start of her next turn. Using this ability expends 1 ki point from her ki pool.
 
-**Bleeding Attack* (Ex)**: A ninja with this trick can cause living opponents to bleed by hitting them with a sneak attack. This attack causes the target to take 1 additional point of damage each round for each die of the ninja’s sneak attack. Bleeding creatures take that amount of damage every round at the start of each of their turns. The bleeding can be stopped by a DC 15 Heal check or the application of any effect that heals hit point damage. Bleed damage from this ability does not stack with itself. Bleed damage bypasses any DR the creature might possess.
+**Bleeding Attack* (Ex)**: A ninja with this trick can cause living opponents to bleed by hitting them with a sneak attack. This attack causes the target to take 1 additional point of damage each round for each die of the ninja’s sneak attack. Bleeding creatures take that amount of damage every round at the start of each of their turns. The bleeding can be stopped by a DC 15 [Heal](../../rules/skills/heal.md) check or the application of any effect that heals hit point damage. Bleed damage from this ability does not stack with itself. Bleed damage bypasses any DR the creature might possess.
 
 #### Choking Bomb (Ex)
 
-Whenever a ninja throws a smoke bomb, all living creatures in the resulting cloud must make a Fortitude save or become staggered by the choking black smoke for 1d4 rounds. The DC of this saving throw is equal to 10 + 1/2 the ninja’s level + the ninja’s Charisma modifier. The ninja can decide to create an ordinary smoke bomb or add poison to this smoke bomb as normal. The ninja must have the poison bomb ninja trick before selecting this trick.
+Whenever a ninja throws a smoke bomb, all living creatures in the resulting cloud must make a Fortitude save or become [staggered](../../rules/appendices/conditions.md#staggered) by the choking black smoke for 1d4 rounds. The DC of this saving throw is equal to 10 + 1/2 the ninja’s level + the ninja’s Charisma modifier. The ninja can decide to create an ordinary smoke bomb or add poison to this smoke bomb as normal. The ninja must have the poison bomb ninja trick before selecting this trick.
 
 #### Combat Trick
 
@@ -127,7 +127,7 @@ A ninja with this trick can consume specially prepared herbs to strengthen her m
 
 #### Hidden Weapons (Ex)
 
-A ninja with this ability can easily conceal weapons on her body. The ninja adds her level on opposed Sleight of Hand checks made to conceal a weapon. In addition, she can draw hidden weapons as a move action, instead of as a standard action.
+A ninja with this ability can easily conceal weapons on her body. The ninja adds her level on opposed [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks made to conceal a weapon. In addition, she can draw hidden weapons as a move action, instead of as a standard action.
 
 #### High Jumper (Ex)
 
@@ -199,7 +199,7 @@ A ninja who selects this ninja trick gains Improved Unarmed Strike as a bonus fe
 
 #### Undetected Sabotage (Ex)
 
-Whenever a ninja with this trick uses Disable Device to sabotage or disable a device, she can make a Stealth check with a bonus equal to her level. Anyone who inspects the device does not notice the sabotage and assumes the object works unless he beats the ninja’s check with an opposed Perception skill check.
+Whenever a ninja with this trick uses Disable Device to sabotage or disable a device, she can make a Stealth check with a bonus equal to her level. Anyone who inspects the device does not notice the sabotage and assumes the object works unless he beats the ninja’s check with an opposed [Perception](../../rules/skills/perception.md) skill check.
 
 #### Vanishing Trick (Su)
 
@@ -219,11 +219,11 @@ A ninja who selects this ninja trick gains Weapon Focus as a bonus feat.
 
 ### No Trace (Ex)
 
-At 3rd level, a ninja learns to cover her tracks, remain hidden, and conceal her presence. The DC to track a ninja using the Survival skill increases by +1. In addition, her training gives her a +1 insight bonus on Disguise skill checks and on opposed Stealth checks whenever she is stationary and does not take any action for at least 1 round. Every three levels thereafter, the increase to Survival DCs and the bonuses on Disguise and opposed Stealth checks increase by 1.
+At 3rd level, a ninja learns to cover her tracks, remain hidden, and conceal her presence. The DC to track a ninja using the [Survival](../../rules/skills/survival.md) skill increases by +1. In addition, her training gives her a +1 insight bonus on [Disguise](../../rules/skills/disguise.md) skill checks and on opposed Stealth checks whenever she is stationary and does not take any action for at least 1 round. Every three levels thereafter, the increase to Survival DCs and the bonuses on Disguise and opposed Stealth checks increase by 1.
 
 ### Uncanny Dodge (Ex)
 
-Starting at 4th level, a ninja can react to danger before her senses would normally allow her to do so. She cannot be caught flat-footed, nor does she lose her Dexterity bonus to AC if the attacker is invisible. She still loses her Dexterity bonus to AC if immobilized. A ninja with this ability can still lose her Dexterity bonus to AC if an opponent successfully uses the feint action against her. If a ninja already possesses uncanny dodge from a different class, she automatically gains improved uncanny dodge instead.
+Starting at 4th level, a ninja can react to danger before her senses would normally allow her to do so. She cannot be caught [flat-footed](../../rules/appendices/conditions.md#flat-footed), nor does she lose her Dexterity bonus to AC if the attacker is invisible. She still loses her Dexterity bonus to AC if immobilized. A ninja with this ability can still lose her Dexterity bonus to AC if an opponent successfully uses the feint action against her. If a ninja already possesses uncanny dodge from a different class, she automatically gains improved uncanny dodge instead.
 
 ### Light Steps (Ex)
 
@@ -257,7 +257,7 @@ A ninja with this master trick can kill foes that are unable to defend themselve
 
 #### Blinding Bomb (Ex)
 
-Whenever the ninja throws a smoke bomb, all living creatures in the cloud must make a Fortitude save or be blinded by the black smoke for 1d4 rounds. The DC of this saving throw is equal to 10 + 1/2 the ninja’s level + the ninja’s Charisma modifier. This trick cannot be combined with a choking bomb, but the ninja can combine a blinding bomb with a poison bomb.
+Whenever the ninja throws a smoke bomb, all living creatures in the cloud must make a Fortitude save or be [blinded](../../rules/appendices/conditions.md#blinded) by the black smoke for 1d4 rounds. The DC of this saving throw is equal to 10 + 1/2 the ninja’s level + the ninja’s Charisma modifier. This trick cannot be combined with a choking bomb, but the ninja can combine a blinding bomb with a poison bomb.
 
 The ninja must have the choking bomb ninja trick before selecting this trick.
 
@@ -271,7 +271,7 @@ A ninja with this trick gains the dual identity and seamless guise class feature
 
 #### Evasion (Ex)
 
-A ninja can avoid even magical and unusual attacks with great agility. If she makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the ninja is wearing light armor or no armor. A helpless ninja does not gain the benefit of evasion.
+A ninja can avoid even magical and unusual attacks with great agility. If she makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the ninja is wearing light armor or no armor. A [helpless](../../rules/appendices/conditions.md#helpless) ninja does not gain the benefit of evasion.
 
 #### False Face (Su)
 
@@ -343,7 +343,7 @@ At 20th level, a ninja becomes a true master of her art. She can, as a standard 
 
 Frozen shadows belong to a rare ninja clan operating in the frozen north, working as thieves, power brokers, and spies loosely guided by secretive masters with unknown agendas.
 
-**Class Skills**: A frozen shadow adds Survival to his list of class skills, instead of Diplomacy. This ability alters the ninja's class skills.
+**Class Skills**: A frozen shadow adds Survival to his list of class skills, instead of [Diplomacy](../../rules/skills/diplomacy.md). This ability alters the ninja's class skills.
 
 **Hardy Killer (Ex)**: At 2nd level, a frozen shadow has become incredibly inured to his surrounding climate. At the beginning of any day, the frozen shadow can spend 1 point from his ki pool to benefit from the effects of an [*endure elements*](../../magic/spells/endure-elements.md) spell. This ability alters ki pool.
 
@@ -359,7 +359,7 @@ Frozen shadows belong to a rare ninja clan operating in the frozen north, workin
 
 The order dispatches specially trained killers to hunt relentlessly and fight from the shadows.
 
-**Class Skills**: A hunting serpent gains Survival as a class skill but loses Knowledge (nobility). This ability alters the ninja's class skills.
+**Class Skills**: A hunting serpent gains Survival as a class skill but loses [Knowledge](../../rules/skills/knowledge.md) (nobility). This ability alters the ninja's class skills.
 
 **Relentless Pursuit (Ex)**: At 3rd level, a hunting serpent gains a +1 bonus on Diplomacy checks to gather information and on Survival checks to identify or follow tracks. The bonus increases by 1 for every 3 ninja levels beyond 3rd. This ability replaces no trace.
 

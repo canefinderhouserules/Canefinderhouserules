@@ -24,7 +24,7 @@ At 9th level, an adaptive shifter gains the benefits of up to two reactive forms
 
 - *Durable Form*: The adaptive shifter gains DR 5/adamantine. This damage reduction increases by 1 for every 2 levels she has beyond 8th. She must be at least 8th level to select this form.
 
-- *Evasive Form* (lasting): The adaptive shifter gains compression, a +4 dodge bonus to her CMD against grapple combat maneuvers, and a competence bonus equal to her Wisdom modifier on Escape Artist checks.
+- *Evasive Form* (lasting): The adaptive shifter gains compression, a +4 dodge bonus to her CMD against grapple combat maneuvers, and a competence bonus equal to her Wisdom modifier on [Escape Artist](../../rules/skills/escape-artist.md) checks.
 
 - *Giant Form* (lasting): The adaptive shifter increases in size, as per [*enlarge person*](../../magic/spells/enlarge-person.md). The adaptive shifter can assume this form only as a swift action.
 
@@ -32,9 +32,9 @@ At 9th level, an adaptive shifter gains the benefits of up to two reactive forms
 
 - *Restoring Form*: The adaptive shifter regains 1d8 hit points. For every 4 levels she has, the number of hit points she regains increases by 1d8. The adaptive shifter can assume this form only as a swift action.
 
-- *Scouting Form* (lasting): The adaptive shifter gains a competence bonus equal to her Wisdom modifier on Stealth checks, and she gains the benefits of the [shifter’s trackless step](shifter.md#trackless-step-ex) ability. At 12th level, she can use Stealth to hide, even if she does not have cover or concealment (but not if observed).
+- *Scouting Form* (lasting): The adaptive shifter gains a competence bonus equal to her Wisdom modifier on [Stealth](../../rules/skills/stealth.md) checks, and she gains the benefits of the [shifter’s trackless step](shifter.md#trackless-step-ex) ability. At 12th level, she can use Stealth to hide, even if she does not have cover or concealment (but not if observed).
 
-- *Sensory Form* (lasting): The adaptive shifter gains low-light vision and scent. She can learn this form a second time to also gain darkvision with a range of 60 feet and a competence bonus on Perception checks equal to her Wisdom modifier.
+- *Sensory Form* (lasting): The adaptive shifter gains low-light vision and scent. She can learn this form a second time to also gain darkvision with a range of 60 feet and a competence bonus on [Perception](../../rules/skills/perception.md) checks equal to her Wisdom modifier.
 
 - *Sky Hunter Form* (lasting): The adaptive shifter gains a fly speed equal to her base speed with average maneuverability. She must be at least 6th level to select this form. She can learn this form a second time, increasing her fly speed by 20 feet and improving her maneuverability to good.
 
@@ -280,7 +280,7 @@ At 17th level, when taking the form of an fey, a fairy shifter’s shifter shape
 
 **Whimsical Aura (Ex):** At 2nd level, when unarmored, not using a shield, unencumbered, and conscious, the fairy shifter adds her Charisma bonus (if any) to her AC and CMD. If she is wearing armor or using a shield, she instead adds half her Charisma bonus to her AC (minimum 0). In addition, the fairy gains a +1 bonus to her AC and CMD at 4th level. This bonus increases by 1 for every 4 fairy shifter levels thereafter (up to a maximum of +5 at 20th level).
 
-These bonuses to AC apply even against touch attacks and when the fairy shifter is flat-footed. She loses these bonuses when she is immobilized or helpless. These bonuses do not stack with the [monk AC bonus](monk.md#ac-bonus-ex) class feature.
+These bonuses to AC apply even against touch attacks and when the fairy shifter is [flat-footed](../../rules/appendices/conditions.md#flat-footed). She loses these bonuses when she is immobilized or [helpless](../../rules/appendices/conditions.md#helpless). These bonuses do not stack with the [monk AC bonus](monk.md#ac-bonus-ex) class feature.
 
 *This ability replaces [defensive instinct](shifter.md#defensive-instinct-ex).*
 
@@ -470,15 +470,15 @@ In addition, as a standard action, a number of times per day equal to the metamo
 
 **Skills:** A mimickin gains Disguise as a class skill.
 
-**Mimic Aspect (Ex):** At 1st level, a mimickin gains darkvision 60 feet and a +1 bonus to Disguise checks. For every four levels the mimickin possesses, her bonus to Disguise checks increases by +1.
+**Mimic Aspect (Ex):** At 1st level, a mimickin gains darkvision 60 feet and a +1 bonus to [Disguise](../../rules/skills/disguise.md) checks. For every four levels the mimickin possesses, her bonus to Disguise checks increases by +1.
 
 At 5th level, as a swift action while in mimic shape, a mimickin can secrete a powerful adhesive. Any weapon that strikes an adhesive-coated mimickin is stuck fast unless the wielder succeeds on a Reflex save (DC = 10+ 1/2 the mimickin’s level + her Wisdom modifier). A successful Strength check (DC 10 + the mimickin’s level) is needed to pry off a stuck weapon. Strong alcohol or universal solvent dissolves the adhesive. A mimic can dissolve its adhesive at will, and the substance breaks down 5 rounds after the mimickin dies.
 
 At 9th level, a mimickin can change her form while in mimic shape at will as a move action, changing to a different kind of object.
 
-At 13th level, as a full-round action while in mimic shape, a mimickin can make a single bite attack that deals double base damage and functions as if she had the grab and swallow whole special attacks, allowing her to grab and swallow a creature of her size or smaller. Her stomach doesn’t deal damage to swallowed creatures, but a living creature she swallows must succeed at a Fortitude save (DC = 10 + 1/2 her mimickin level + Wisdom modifier) at the beginning of each of its turns or become nauseated for 1 round.
+At 13th level, as a full-round action while in mimic shape, a mimickin can make a single bite attack that deals double base damage and functions as if she had the grab and swallow whole special attacks, allowing her to grab and swallow a creature of her size or smaller. Her stomach doesn’t deal damage to swallowed creatures, but a living creature she swallows must succeed at a Fortitude save (DC = 10 + 1/2 her mimickin level + Wisdom modifier) at the beginning of each of its turns or become [nauseated](../../rules/appendices/conditions.md#nauseated) for 1 round.
 
-While she has a creature swallowed, a mimickin is treated as if she were carrying a heavy load if the creature is the same size and a medium load if it’s one size smaller; regardless, she can swallow only one such creature at a time. She can regurgitate a swallowed creature of her choice as a move action, leaving it prone in an adjacent open square. If she is struck with a confirmed critical hit while she has a creature swallowed, the swallowed creatures each take half as much damage as the mimickin does (this doesn’t reduce the damage the mimickin takes). If a mimickin leaves mimic form, she must regurgitate any creature she has swallowed with this ability.
+While she has a creature swallowed, a mimickin is treated as if she were carrying a heavy load if the creature is the same size and a medium load if it’s one size smaller; regardless, she can swallow only one such creature at a time. She can regurgitate a swallowed creature of her choice as a move action, leaving it [prone](../../rules/appendices/conditions.md#prone) in an adjacent open square. If she is struck with a confirmed critical hit while she has a creature swallowed, the swallowed creatures each take half as much damage as the mimickin does (this doesn’t reduce the damage the mimickin takes). If a mimickin leaves mimic form, she must regurgitate any creature she has swallowed with this ability.
 
 *At 17th level, a mimickin gains blindsight 30 feet.*
 
@@ -528,7 +528,7 @@ At 15th level, she can instead cast *create undead, greater* and [*control undea
 
 *This ability replaces [shifter aspect](shifter.md#shifter-aspect-su), [chimeric aspect](shifter.md#chimeric-aspect-su), and [greater chimeric aspect](shifter.md#greater-chimeric-aspect-su).*
 
-**Necrotic Empathy (Ex):** A shifter can improve the attitude of an undead without an Intelligence score. This ability functions as a Diplomacy check to improve the attitude of a person. The shifter rolls 1d20 and adds her shifter level and Charisma modifier to determine the wild empathy check result. The typical undead are usually hostile, but will not attack while this ability is being used, being treated as fascinated despite normally being immune to mind-affecting effects.
+**Necrotic Empathy (Ex):** A shifter can improve the attitude of an undead without an Intelligence score. This ability functions as a [Diplomacy](../../rules/skills/diplomacy.md) check to improve the attitude of a person. The shifter rolls 1d20 and adds her shifter level and Charisma modifier to determine the wild empathy check result. The typical undead are usually hostile, but will not attack while this ability is being used, being treated as [fascinated](../../rules/appendices/conditions.md#fascinated) despite normally being immune to mind-affecting effects.
 
 To use wild empathy, the necromorph and the undead must be within 30 feet of one another and under normal conditions. Generally, influencing an undead in this way takes 1 minute but, as with influencing people, it might take more or less time.
 
@@ -568,7 +568,7 @@ These bonuses to AC apply even against touch attacks and when the necromorph is 
 
 *The allure of taking on a form that is in itself all forms deeply appeals to an oozeling, allowing them to completely shift their form at a moment’s notice and take on whatever shape they desire.*
 
-**Ooze Form (Ex):** An oozeling’s body is composed of protoplasm that takes the form of her original shape, although to any observer it is obvious that she is an ooze. An oozeling treats her creature type as both ooze and her base creature type from her race for the purposes of effects targeting creatures by type (such as bane weapons and a [ranger’s favored enemy](ranger.md#favored-enemy-ex)). She also gains compression as per the universal monster rule. This ability can be used regardless of the current form the oozeling has taken. As a swift action, an oozeling can take the form of a protoplasmic blob or revert to her normal form (she also takes this form whenever she is unconscious).
+**Ooze Form (Ex):** An oozeling’s body is composed of protoplasm that takes the form of her original shape, although to any observer it is obvious that she is an ooze. An oozeling treats her creature type as both ooze and her base creature type from her race for the purposes of effects targeting creatures by type (such as bane weapons and a [ranger’s favored enemy](ranger.md#favored-enemy-ex)). She also gains compression as per the universal monster rule. This ability can be used regardless of the current form the oozeling has taken. As a swift action, an oozeling can take the form of a protoplasmic blob or revert to her normal form (she also takes this form whenever she is [unconscious](../../rules/appendices/conditions.md#unconscious)).
 
 In protoplasmic blob form, the oozeling is immune to critical hits and precision damage and can’t be flanked. However, she has no magic item slots and she cannot benefit from armor; cast spells; hold objects; speak; or use any magic item that requires activation, is held, or is worn on the body and has a movement speed of 10 feet. Shifting into protoplasmic form is treated as a polymorph effect.
 
@@ -633,7 +633,7 @@ A number of times per day equal to half her level (minimum 1), an oozemorph can 
 
 At 8th level, the oozemorph can treat this ability as beast shape I, and at 15th level, she can treat this ability as beast shape II or giant shape I.
 
-Ending this transformation at any time reverts the oozemorph back to her ooze form and renders her fatigued for a number of minutes equal to the number of hours she maintained the form. This replaces [chimeric aspect](shifter.md#chimeric-aspect-su), [greater chimeric aspect](shifter.md#greater-chimeric-aspect-su), [shifter shape](shifter.md#shifter-shape-su), [shifter aspect](shifter.md#shifter-aspect-su), and all improvements of shifter aspect.
+Ending this transformation at any time reverts the oozemorph back to her ooze form and renders her [fatigued](../../rules/appendices/conditions.md#fatigued) for a number of minutes equal to the number of hours she maintained the form. This replaces [chimeric aspect](shifter.md#chimeric-aspect-su), [greater chimeric aspect](shifter.md#greater-chimeric-aspect-su), [shifter shape](shifter.md#shifter-shape-su), [shifter aspect](shifter.md#shifter-aspect-su), and all improvements of shifter aspect.
 
 **Morphic Weaponry (Ex)**: An oozemorph can create a number of natural weapons to fight with from any portion of her body, regardless of her current form. At 1st level, as a move action, an oozemorph can form two primary natural attacks that each deal 1d6 points of bludgeoning, piercing, or slashing damage, chosen by the oozemorph when she forms them. An oozemorph can change the damage type of any number of her natural weapons as a swift action. An oozemorph gains one additional primary natural attack at 6th level and another at 15th level.
 
@@ -679,7 +679,7 @@ Not all shifters represent the balance of nature. The rageshaper is a destructiv
 
 Armor or clothing the rageshaper wears that doesn’t accommodate his changing size immediately gains the broken condition. If insufficient room is available to accommodate this change, the rageshaper attains the maximum possible size for the available space and can attempt a Strength check (using his increased Strength) to burst any enclosures in the process. If the check fails, he is constrained but not harmed by the materials enclosing him. A rageshaper can remain in his devastating form for a number of rounds per day equal to his shifter level. He can dismiss devastating form only with a successful Will save (DC = 10 + his shifter level) made as a free action. On a failed save, the attempted remains in devastating form for an additional round. If the rageshaper does not successfully end his devastating form before he runs out of daily rounds, the next time he fails his Will save to revert, he flies into an uncontrollable frenzy as if affected by confusion, but he treats a roll of 26–50 as “attacks nearest creature.” Each round the rageshaper spends in an uncontrollable frenzy, the Will save DC to exit devastating form decreases by 2.
 
-When a rageshaper ends his devastating form ability, he is fatigued for a number of rounds equal to twice the number of rounds he spent in devastating form. A rageshaper cannot enter devastating form again while fatigued or exhausted. If a rageshaper falls unconscious, his devastating form ends immediately.
+When a rageshaper ends his devastating form ability, he is fatigued for a number of rounds equal to twice the number of rounds he spent in devastating form. A rageshaper cannot enter devastating form again while fatigued or [exhausted](../../rules/appendices/conditions.md#exhausted). If a rageshaper falls unconscious, his devastating form ends immediately.
 
 At 10th level, the rageshaper can grow up to a maximum of two size categories larger with devastating form and his rage is now treated as greater rage.
 
@@ -689,9 +689,9 @@ At 20th level, the rageshaper can grow up to a maximum of three size categories 
 
 **Invulnerable Defenses (Ex)**: At 2nd level, a rageshaper becomes difficult to harm in his devastating form. Whenever the rageshaper takes on his devastating form and is unencumbered and either wearing no armor or wearing light or medium nonmetal armor, he gains a +2 natural armor bonus to his AC and DR 2/—. This replaces [defensive instinct](shifter.md#defensive-instinct-ex), [chimeric aspect](shifter.md#chimeric-aspect-su), and [greater chimeric aspect](shifter.md#greater-chimeric-aspect-su).
 
-**Unrestrained Stride (Ex)**: At 3rd level, whenever the rageshaper is in devastating form, he ignores movement penalties from difficult terrain and is immune to the entangled condition. This replaces [woodland stride](shifter.md#woodland-stride-ex).
+**Unrestrained Stride (Ex)**: At 3rd level, whenever the rageshaper is in devastating form, he ignores movement penalties from difficult terrain and is immune to the [entangled](../../rules/appendices/conditions.md#entangled) condition. This replaces [woodland stride](shifter.md#woodland-stride-ex).
 
-**Terrible Leap (Ex)**: At 5th level, when a rageshaper is in his devastating form, he can perform a terrible leap as a move action without attempting an Acrobatics check, jumping any distance up to his move speed (upward movement counts as double, as when flying). He can leap in this way once per day per shifter level. This replaces [trackless step](shifter.md#trackless-step-ex).
+**Terrible Leap (Ex)**: At 5th level, when a rageshaper is in his devastating form, he can perform a terrible leap as a move action without attempting an [Acrobatics](../../rules/skills/acrobatics.md) check, jumping any distance up to his move speed (upward movement counts as double, as when flying). He can leap in this way once per day per shifter level. This replaces [trackless step](shifter.md#trackless-step-ex).
 
 ## Style Shifter
 
@@ -709,11 +709,11 @@ Among the many warriors that train in remote mountain monasteries, a select few 
 
 **Style Aspects**: A style shifter has access to the following style aspects.
 
-**Form of the Boar**: Once per round when you hit a single foe with two or more unarmed strikes, you can tear flesh. When you do, you deal an additional 1 point of bleed damage with the attack. At 8th level, when you tear flesh, the target becomes sickened for 1 round. At 15th level, whenever you confirm a critical hit, you can attempt an Intimidate check to demoralize a target within 30 feet as an immediate action.
+**Form of the Boar**: Once per round when you hit a single foe with two or more unarmed strikes, you can tear flesh. When you do, you deal an additional 1 point of bleed damage with the attack. At 8th level, when you tear flesh, the target becomes [sickened](../../rules/appendices/conditions.md#sickened) for 1 round. At 15th level, whenever you confirm a critical hit, you can attempt an [Intimidate](../../rules/skills/intimidate.md) check to demoralize a target within 30 feet as an immediate action.
 
 **Form of the Crane**: You reduce the penalty on attack rolls for fighting defensively by 1, to a minimum penalty of 0. At 8th level, when an attack misses you, you can move 5 feet as an immediate action without provoking attacks of opportunity. At 15th level, when an attack misses you, you can move up to half your speed as an immediate action without provoking attacks of opportunity.
 
-**Form of the Dragon**: You gain a +1 dodge bonus to your AC for each ally you charge through when charging, up to a total equal to your Dexterity modifier (minimum +0). At 8th level, your unarmed strike's damage die increases by one step against shaken targets. At 15th level, whenever you confirm a critical hit against a shaken target, the target becomes frightened for 1 round.
+**Form of the Dragon**: You gain a +1 dodge bonus to your AC for each ally you charge through when charging, up to a total equal to your Dexterity modifier (minimum +0). At 8th level, your unarmed strike's damage die increases by one step against [shaken](../../rules/appendices/conditions.md#shaken) targets. At 15th level, whenever you confirm a critical hit against a shaken target, the target becomes [frightened](../../rules/appendices/conditions.md#frightened) for 1 round.
 
 **Form of the Monkey**: You gain a bonus on damage rolls while prone equal to your Wisdom modifier (minimum +0). You can crawl up to half your speed as a move action. At 8th level, whenever a creature provokes an attack of opportunity from you, that creature is considered flat-footed against your attack. At 15th level, whenever you take a 5-foot step, you are treated as if you were still in your original space for the purposes of flanking others until the start of your next turn (though you can't use this aspect to provide flanking for yourself), and you can crawl up to your full speed as a move action.
 

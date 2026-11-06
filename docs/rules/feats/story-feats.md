@@ -25,7 +25,7 @@ Many story feats share similar terminology in their prerequisites and completion
 
 **Character’s Level**: Normally, this is your actual character level. If you’re a creature best represented by CR rather than character level (such as most monsters with more than 1 HD), use your calculated CR instead of your character level.
 
-**Decisively Defeat**: You overcome a foe in some way, such as by killing the creature, knocking it unconscious, or causing it to be taken prisoner. You must be a significant participant in the conflict to defeat the opponent, even if another strikes the final blow. Whether or not merely causing the enemy to flee qualifies is up to the GM. Generally, driving off an enemy while causing little actual harm does not qualify as a decisive defeat.
+**Decisively Defeat**: You overcome a foe in some way, such as by killing the creature, knocking it [unconscious](../appendices/conditions.md#unconscious), or causing it to be taken prisoner. You must be a significant participant in the conflict to defeat the opponent, even if another strikes the final blow. Whether or not merely causing the enemy to flee qualifies is up to the GM. Generally, driving off an enemy while causing little actual harm does not qualify as a decisive defeat.
 
 **Slay**: Slaying a foe includes killing it, destroying it, turning it to stone, banishing it to the Abyss, or otherwise eliminating it in a fashion reversible only by powerful magic. Unless otherwise noted, you must deal the final blow yourself to slay a creature.
 
@@ -81,7 +81,7 @@ You seek an artifact, either a specific one or merely any item of legendary prow
 
 **Prerequisite**: You must have come within sight of a legendary artifact at some point in your past.
 
-**Benefit**: You gain a +2 bonus on Use Magic Device checks when emulating a class feature, ability score, race, or alignment. If you have 10 or more ranks in Use Magic Device, this bonus increases to +4. In addition, once per day, instead of attempting a Use Magic Device check normally, you can choose to determine the result as if you had rolled a 15. If you have 10 or more ranks in Use Magic Device, you can use this ability twice per day.
+**Benefit**: You gain a +2 bonus on [Use Magic Device](../skills/use-magic-device.md) checks when emulating a class feature, ability score, race, or alignment. If you have 10 or more ranks in Use Magic Device, this bonus increases to +4. In addition, once per day, instead of attempting a Use Magic Device check normally, you can choose to determine the result as if you had rolled a 15. If you have 10 or more ranks in Use Magic Device, you can use this ability twice per day.
 
 **Goal**: Claim ownership of an artifact.
 
@@ -95,7 +95,7 @@ You strive to be seen as a legitimate noble.
 
 **Prerequisite**: Must be a member of an established family that is yet unrecognized as nobility.
 
-**Benefit**: You have learned to further your name among the people. Choose a settlement and either Diplomacy or Intimidate. While in your chosen settlement, you gain a +2 bonus on checks with the chosen skill when dealing with the commoners of that settlement. If you have 10 or more ranks in the chosen skill, the bonus increases to +4.
+**Benefit**: You have learned to further your name among the people. Choose a settlement and either [Diplomacy](../skills/diplomacy.md) or [Intimidate](../skills/intimidate.md). While in your chosen settlement, you gain a +2 bonus on checks with the chosen skill when dealing with the commoners of that settlement. If you have 10 or more ranks in the chosen skill, the bonus increases to +4.
 
 **Goal**: Have your family recognized as nobility by either three established noble families or a ruling monarch.
 
@@ -157,7 +157,7 @@ The lives you could not save stay with you to your final breath.
 
 **Prerequisite**: You must have witnessed the death of a close companion in battle—a death that could have been prevented, such as from bleeding, failure to stabilize, or ongoing poison damage—or have the Death in the Family or The War background.
 
-**Benefit**: You gain a +2 bonus on Heal checks. If you have 10 or more ranks in Heal, this bonus increases to +4. You can apply first aid as a move action and don’t take a penalty when treating deadly wounds without a healing kit.
+**Benefit**: You gain a +2 bonus on [Heal](../skills/heal.md) checks. If you have 10 or more ranks in Heal, this bonus increases to +4. You can apply first aid as a move action and don’t take a penalty when treating deadly wounds without a healing kit.
 
 **Goal**: Bring an ally back from the dead, including by using [*breath of life*](../../magic/spells/breath-of-life.md) or [*reincarnate*](../../magic/spells/reincarnate.md).
 
@@ -185,7 +185,7 @@ You seek new applications for magical energy.
 
 **Prerequisite**: You must have created a new spell, or have The Way Things Work background.
 
-**Benefit**: When casting a spell you’ve created, add 1 to your caster level. In addition, you gain a +2 bonus on Spellcraft checks. If you have 10 or more ranks in Spellcraft, this bonus increases to +4.
+**Benefit**: When casting a spell you’ve created, add 1 to your caster level. In addition, you gain a +2 bonus on [Spellcraft](../skills/spellcraft.md) checks. If you have 10 or more ranks in Spellcraft, this bonus increases to +4.
 
 **Goal**: Create a new spell of at least 6th level.
 
@@ -199,7 +199,7 @@ You dream of discovering new vistas.
 
 **Prerequisite**: You must have crossed at least 30 miles of wilderness without map or guide.
 
-**Benefit**: You can provide twice as much food and water for other people when attempting a Survival check to get along in the wild. In addition, you gain a +2 bonus on all Knowledge (geography) checks. If you have 10 or more ranks in Knowledge (geography), increase your bonus to +4.
+**Benefit**: You can provide twice as much food and water for other people when attempting a [Survival](../skills/survival.md) check to get along in the wild. In addition, you gain a +2 bonus on all [Knowledge](../skills/knowledge.md) (geography) checks. If you have 10 or more ranks in Knowledge (geography), increase your bonus to +4.
 
 **Goal**: Cross through a dangerous place without a map or a guide knowledgeable about the area, stopping for no longer than 16 hours at a time, and along the way overcome an appropriate number of natural hazards, obstacles, and/or enemies, at least one of which must qualify as a challenging foe.
 
@@ -229,7 +229,7 @@ In your chest beasts the heart of a wild beast.
 
 **Goal**: Woo and then marry or otherwise enter into a committed relationship with a person from a civilized culture. This relationship must be forged in love, not bought or coerced.
 
-**Completion Benefit**: Delay the penalties for the exhausted, fatigued, shaken, and sickened conditions for 1 round after first receiving them. If you already have the condition in question and it is applied again, this feat provides no benefit. Despite ignoring the penalties you do still have the condition. For example, if you become shaken again while benefiting from this feat, you become frightened as normal.
+**Completion Benefit**: Delay the penalties for the [exhausted](../appendices/conditions.md#exhausted), [fatigued](../appendices/conditions.md#fatigued), [shaken](../appendices/conditions.md#shaken), and [sickened](../appendices/conditions.md#sickened) conditions for 1 round after first receiving them. If you already have the condition in question and it is applied again, this feat provides no benefit. Despite ignoring the penalties you do still have the condition. For example, if you become shaken again while benefiting from this feat, you become [frightened](../appendices/conditions.md#frightened) as normal.
 
 ## Foeslayer (Story)
 
@@ -249,7 +249,7 @@ A pivotal event from your past eludes your memory.
 
 **Prerequisite**: You must have suffered permanent memory loss or have the Reincarnated background.
 
-**Benefit**: The duration of mind-affecting spells (even beneficial ones) is halved for you, to a minimum of 1 round. Your inquisitive nature gives you a +2 bonus on Perception checks. If you have 10 or more ranks in Perception, this bonus increases to +4.
+**Benefit**: The duration of mind-affecting spells (even beneficial ones) is halved for you, to a minimum of 1 round. Your inquisitive nature gives you a +2 bonus on [Perception](../skills/perception.md) checks. If you have 10 or more ranks in Perception, this bonus increases to +4.
 
 **Goal**: Regain a major portion of your lost memories. The exact means varies, possibly requiring a [*wish*](../../magic/spells/wish.md), assistance from a divine being, reliving a past life, or confronting the situation that led to your memory loss. This process must involve encountering a challenging foe, though possibly in ways other than direct confrontation.
 
@@ -313,7 +313,7 @@ You seek to create a true masterpiece.
 
 **Prerequisite**: You must either have sold five or more self-created works of art worth a total of at least 5,000 gp, have performed at least five performances for audiences of 50 or more while achieving a great performance result or better on your Perform check, or have the Virtuoso background.
 
-**Benefit**: Choose a single Craft or Perform skill. Whenever you take 10 with this skill, treat your die result as a 15 instead.
+**Benefit**: Choose a single [Craft](../skills/craft.md) or [Perform](../skills/perform.md) skill. Whenever you take 10 with this skill, treat your die result as a 15 instead.
 
 **Goal**: Either sell a single self-created work of art for at least 25,000 gp, perform at least 10 performances for audiences of 100 or more while achieving an extraordinary result or better, or win the artistic patronage of the ruler of a country or city of at least 100,000 people. In each case, you must achieve this using the skill chosen above.
 
@@ -337,7 +337,7 @@ The land calls to you to conquer it and forge a realm all your own.
 
 **Prerequisite**: You must have explored and claimed an area of at least 100 square miles.
 
-**Benefit**: When in either unclaimed wilderness or land under your own control, you receive a +2 bonus on Perception checks, Stealth checks, and Survival checks. If you have 10 or more ranks in one of these skills, the bonus on that skill increases to +4.
+**Benefit**: When in either unclaimed wilderness or land under your own control, you receive a +2 bonus on Perception checks, [Stealth](../skills/stealth.md) checks, and Survival checks. If you have 10 or more ranks in one of these skills, the bonus on that skill increases to +4.
 
 **Goal**: Explore and conquer an area of at least 1,000 square miles, in the process decisively defeating a challenging foe. You must also lay claim to the land either in your own name or in the name of a leader you directly report to, and establish a stronghold or other fortification to defend it.
 
@@ -363,7 +363,7 @@ You put on airs and others believe your tales.
 
 **Prerequisite**: Must not be a member of an established family or a member of nobility.
 
-**Benefit**: You gain a +2 bonus on Bluff and Knowledge (nobility) checks and these skills are class skills for you.
+**Benefit**: You gain a +2 bonus on [Bluff](../skills/bluff.md) and Knowledge (nobility) checks and these skills are class skills for you.
 
 **Goal**: Convince at least three noble families, a ruling monarch, or a settlement of at least small city size that you are a member of an existing or a previously unknown noble family.
 
@@ -427,7 +427,7 @@ You chose to leave nobility behind.
 
 **Prerequisite**: You must have intentionally left your noble family and changed your name or appearance afterward.
 
-**Benefit**: You gain a +2 bonus on Disguise checks, and Disguise is a class skill for you. You gain a +1 bonus on attack rolls and damage rolls against members of your former family.
+**Benefit**: You gain a +2 bonus on [Disguise](../skills/disguise.md) checks, and Disguise is a class skill for you. You gain a +1 bonus on attack rolls and damage rolls against members of your former family.
 
 **Goal**: Escape your former name by establishing your own noble legacy. In addition, you must decisively defeat a challenging foe from your former family who may wish to return you to your old home.
 
@@ -463,7 +463,7 @@ More than just a burglar, you aspire to commit crimes of legendary stature.
 
 **Prerequisites**: You must have stolen at least 1,000 gp worth of treasure without being caught and kept mementos of these thefts worth at least 500 gp, or have the Greed background.
 
-**Benefit**: Once per day when you attempt a Disable Device check to open a lock or Sleight of Hand check to pick a pocket, you can roll twice and take the better result.
+**Benefit**: Once per day when you attempt a [Disable Device](../skills/disable-device.md) check to open a lock or [Sleight of Hand](../skills/sleight-of-hand.md) check to pick a pocket, you can roll twice and take the better result.
 
 **Goal**: Steal a famous and well-guarded treasure worth at least 50,000 gp while leaving no evidence of your involvement behind. The treasure must be protected by a mix of at least 8 traps or challenging foes. Any guardians need not be defeated, merely bypassed. You don’t need to keep the treasure, and you can boast of the theft afterward.
 
@@ -487,7 +487,7 @@ You found love, only to have it denied by the cruelty of fate.
 
 **Prerequisite**: You must have found love with a person you can’t be with, have a current lover, or have the Current Lover, For Love, or The Lover background. Possible complications include distance, your love being with another, your feelings being unrequited, or your relationship being forbidden.
 
-**Benefit**: You add 1 to the save DC and caster level of your spells and spell-like abilities with the emotion descriptor. In addition, you gain a +2 bonus on Sense Motive checks. If you have 10 or more ranks in Sense Motive, this bonus increases to +4.
+**Benefit**: You add 1 to the save DC and caster level of your spells and spell-like abilities with the emotion descriptor. In addition, you gain a +2 bonus on [Sense Motive](../skills/sense-motive.md) checks. If you have 10 or more ranks in Sense Motive, this bonus increases to +4.
 
 **Goal**: Find a way to be with your true love (even if you can’t formally wed).
 

@@ -76,5 +76,5 @@ Samsarans have access to the following equipment.
 
 ### Mountaineer
 
-Samsarans, often from Zi Ha, who live their lives in the mountains are immune to altitude sickness and do not lose their Dexterity bonus to AC when making Climb checks or Acrobatics checks to cross narrow or slippery surfaces. This racial trait replaces lifebound.
+Samsarans, often from Zi Ha, who live their lives in the mountains are immune to altitude sickness and do not lose their Dexterity bonus to AC when making [Climb](../../rules/skills/climb.md) checks or [Acrobatics](../../rules/skills/acrobatics.md) checks to cross narrow or slippery surfaces. This racial trait replaces lifebound.
 

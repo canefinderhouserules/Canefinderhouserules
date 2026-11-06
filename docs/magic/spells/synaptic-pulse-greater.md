@@ -8,4 +8,4 @@
 **Duration** 1d4 rounds; see text  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-You emit a pulsating mental blast that stuns all creatures in range of your psychic shriek for 1d4 rounds. On a successful save, a creature is instead sickened for 1 round.
+You emit a pulsating mental blast that stuns all creatures in range of your psychic shriek for 1d4 rounds. On a successful save, a creature is instead [sickened](../../rules/appendices/conditions.md#sickened) for 1 round.

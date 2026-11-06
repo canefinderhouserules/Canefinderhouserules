@@ -12,4 +12,4 @@ You trace mystic runes upon a book, map, scroll, or similar object bearing writt
 
 You and any characters you specifically instruct can read the protected writing without triggering the *explosive runes.* Likewise, you can remove the *explosive runes* whenever desired. Another creature can remove them with a successful [*dispel magic*](dispel-magic.md) or [*erase*](erase.md) spell, but attempting to dispel or erase the *explosive runes* and failing to do so triggers the explosion.
 
-Magic traps such as *explosive runes* are hard to detect and disable. A character with the trapfinding class feature (only) can use Disable Device to thwart *explosive runes*. The DC to find magic traps using Perception and to disable them is 25 + spell level, or 28 for *explosive runes*.
+Magic traps such as *explosive runes* are hard to detect and disable. A character with the trapfinding class feature (only) can use Disable Device to thwart *explosive runes*. The DC to find magic traps using [Perception](../../rules/skills/perception.md) and to disable them is 25 + spell level, or 28 for *explosive runes*.

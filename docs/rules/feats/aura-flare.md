@@ -8,6 +8,6 @@ You are able to flare your alignment aura to debilitate your foes.
 
 When you flare your aura, select from one of the following options based on the strength of your alignment aura. You can select a lower-strength effect.
 
-*Strong*: Affected creatures must succeed at a Fortitude save (DC = 10 + 1/2 your class level in the class granting you the channel energy ability + your Charisma bonus) or be fatigued for 1d4 rounds.
+*Strong*: Affected creatures must succeed at a Fortitude save (DC = 10 + 1/2 your class level in the class granting you the channel energy ability + your Charisma bonus) or be [fatigued](../appendices/conditions.md#fatigued) for 1d4 rounds.
 
-*Overwhelming*: Affected creatures must succeed at a Fortitude save (DC = 10 + 1/2 your class level in the class granting you the channel energy ability + your Charisma bonus) or be staggered for 1d4 rounds.
+*Overwhelming*: Affected creatures must succeed at a Fortitude save (DC = 10 + 1/2 your class level in the class granting you the channel energy ability + your Charisma bonus) or be [staggered](../appendices/conditions.md#staggered) for 1d4 rounds.

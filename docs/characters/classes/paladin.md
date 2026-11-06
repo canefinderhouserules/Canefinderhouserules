@@ -48,7 +48,7 @@ Alternatively, a paladin can use this healing power to deal damage to undead cre
 
 ### Aura of Courage (Su)
 
-At 3rd level, a paladin is immune to fear (magical or otherwise). Each ally within 10 feet of her gains a +4 morale bonus on saving throws against fear effects. This ability functions only while the paladin is conscious, not if she is unconscious or dead.
+At 3rd level, a paladin is immune to fear (magical or otherwise). Each ally within 10 feet of her gains a +4 morale bonus on saving throws against fear effects. This ability functions only while the paladin is conscious, not if she is [unconscious](../../rules/appendices/conditions.md#unconscious) or dead.
 
 ### Divine Health (Ex)
 
@@ -60,12 +60,12 @@ At 3rd level, and every three levels thereafter, a paladin can select one mercy.
 
 At 3rd level, the paladin can select from the following initial mercies.
 
-- *Fatigued*: The target is no longer fatigued.
-- *Shaken*: The target is no longer shaken.
-- *Sickened*: The target is no longer sickened. At 6th level, a paladin adds the following mercies to the list of those that can be selected.
-- *Dazed*: The target is no longer dazed.
+- *Fatigued*: The target is no longer [fatigued](../../rules/appendices/conditions.md#fatigued).
+- *Shaken*: The target is no longer [shaken](../../rules/appendices/conditions.md#shaken).
+- *Sickened*: The target is no longer [sickened](../../rules/appendices/conditions.md#sickened). At 6th level, a paladin adds the following mercies to the list of those that can be selected.
+- *Dazed*: The target is no longer [dazed](../../rules/appendices/conditions.md#dazed).
 - *Diseased*: The paladin’s lay on hands ability also acts as [*remove disease*](../../magic/spells/remove-disease.md), using the paladin’s level as the caster level.
-- *Staggered*: The target is no longer staggered, unless the target is at exactly 0 hit points.
+- *Staggered*: The target is no longer [staggered](../../rules/appendices/conditions.md#staggered), unless the target is at exactly 0 hit points.
 
 **Table 3–11: Paladin**
 
@@ -96,14 +96,14 @@ At 3rd level, the paladin can select from the following initial mercies.
 At 9th level, a paladin adds the following mercies to the list of those that can be selected.
 
 - *Cursed*: The paladin’s lay on hands ability also acts as *remove curse,* using the paladin’s level as the caster level.
-- *Exhausted*: The target is no longer exhausted. The paladin must have the fatigue mercy before selecting this mercy.
-- *Frightened*: The target is no longer frightened. The paladin must have the shaken mercy before selecting this mercy.
-- *Nauseated*: The target is no longer nauseated. The paladin must have the sickened mercy before selecting this mercy.
+- *Exhausted*: The target is no longer [exhausted](../../rules/appendices/conditions.md#exhausted). The paladin must have the fatigue mercy before selecting this mercy.
+- *Frightened*: The target is no longer [frightened](../../rules/appendices/conditions.md#frightened). The paladin must have the shaken mercy before selecting this mercy.
+- *Nauseated*: The target is no longer [nauseated](../../rules/appendices/conditions.md#nauseated). The paladin must have the sickened mercy before selecting this mercy.
 - *Poisoned*: The paladin’s lay on hands ability also acts as [*neutralize poison*](../../magic/spells/neutralize-poison.md), using the paladin’s level as the caster level. At 12th level, a paladin adds the following mercies to the list of those that can be selected.
-- *Blinded*: The target is no longer blinded.
-- *Deafened*: The target is no longer deafened.
-- *Paralyzed*: The target is no longer paralyzed.
-- *Stunned*: The target is no longer stunned. These abilities are cumulative. For example, a 12th-level paladin’s lay on hands ability heals 6d6 points of damage and might also cure fatigued and exhausted conditions as well as removing diseases and neutralizing poisons*.* Once a condition or spell effect is chosen, it can’t be changed.
+- *Blinded*: The target is no longer [blinded](../../rules/appendices/conditions.md#blinded).
+- *Deafened*: The target is no longer [deafened](../../rules/appendices/conditions.md#deafened).
+- *Paralyzed*: The target is no longer [paralyzed](../../rules/appendices/conditions.md#paralyzed).
+- *Stunned*: The target is no longer [stunned](../../rules/appendices/conditions.md#stunned). These abilities are cumulative. For example, a 12th-level paladin’s lay on hands ability heals 6d6 points of damage and might also cure fatigued and exhausted conditions as well as removing diseases and neutralizing poisons*.* Once a condition or spell effect is chosen, it can’t be changed.
 
 ### Channel Positive Energy (Su)
 

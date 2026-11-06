@@ -8,6 +8,6 @@
 **Duration** 1 round  
 **Saving Throw** none; **Spell Resistance** yes
 
-Your litany proclaims your target weak, sapping its strength. The target is fatigued for 1 round.
+Your litany proclaims your target weak, sapping its strength. The target is [fatigued](../../rules/appendices/conditions.md#fatigued) for 1 round.
 
 While subject to this spell, the target cannot be the target of another spell that has the word "litany" in the title.

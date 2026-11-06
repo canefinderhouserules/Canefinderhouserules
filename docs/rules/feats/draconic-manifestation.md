@@ -10,7 +10,7 @@ You've unlocked more than just the ability to emulate the claws of your draconic
 
 **Esoteric**: You become partially incorporeal, gaining concealment (20%) against all incoming attacks.
 
-**Imperial**: You gain a +1 circumstance bonus on Intimidate checks for every 4 levels you have in a class that grants you a draconic bloodline. You also become immune to fear effects.
+**Imperial**: You gain a +1 circumstance bonus on [Intimidate](../skills/intimidate.md) checks for every 4 levels you have in a class that grants you a draconic bloodline. You also become immune to fear effects.
 
 **Metallic**: You radiate a 10-foot aura of courage, inspiring those around you with your intensity. Allies within the aura gain a +2 morale bonus on saves against fear effects and spells with the evil descriptor. Allies already affected by a fear effect when they first enter the aura can attempt a new saving throw at the same DC as the original effect. On a successful save, the fear effect ends. A creature can benefit from this reroll only once per day.
 

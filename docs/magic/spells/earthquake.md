@@ -12,7 +12,7 @@ When you cast *earthquake,* an intense but highly localized tremor rips the grou
 
 *Cave, Cavern, or Tunnel*: The roof collapses, dealing 8d6 points of damage to any creature caught under the cave-in (Reflex DC 15 half) and pinning that creature beneath the rubble (see below). An *earthquake* cast on the roof of a very large cavern could also endanger those outside the actual area but below the falling debris and rubble.
 
-*Cliffs*: *Earthquake* causes a cliff to crumble, creating a landslide that travels horizontally as far as it falls vertically. Any creature in the path takes 8d6 points of bludgeoning damage (Reflex DC 15 half) and is pinned beneath the rubble (see below).
+*Cliffs*: *Earthquake* causes a cliff to crumble, creating a landslide that travels horizontally as far as it falls vertically. Any creature in the path takes 8d6 points of bludgeoning damage (Reflex DC 15 half) and is [pinned](../../rules/appendices/conditions.md#pinned) beneath the rubble (see below).
 
 *Open Ground*: Each creature standing in the area must make a DC 15 Reflex save or fall down. Fissures open in the earth, and every creature on the ground has a 25% chance to fall into one (Reflex DC 20 to avoid a fissure). The fissures are 40 feet deep. At the end of the spell, all fissures grind shut. Treat all trapped creatures as if they were in the bury zone of an avalanche, trapped without air.
 
@@ -20,4 +20,4 @@ When you cast *earthquake,* an intense but highly localized tremor rips the grou
 
 *River, Lake, or Marsh*: Fissures open under the water, draining away the water from that area and forming muddy ground. Soggy marsh or swampland becomes quicksand for the duration of the spell, sucking down creatures and structures. Each creature in the area must make a DC 15 Reflex save or sink down in the mud and quicksand. At the end of the spell, the rest of the body of water rushes in to replace the drained water, possibly drowning those caught in the mud.
 
-*Pinned Beneath Rubble*: Any creature pinned beneath rubble takes 1d6 points of nonlethal damage per minute while pinned. If a pinned character falls unconscious, he or she must make a DC 15 Constitution check or take 1d6 points of lethal damage each minute thereafter until freed or dead.
+*Pinned Beneath Rubble*: Any creature pinned beneath rubble takes 1d6 points of nonlethal damage per minute while pinned. If a pinned character falls [unconscious](../../rules/appendices/conditions.md#unconscious), he or she must make a DC 15 Constitution check or take 1d6 points of lethal damage each minute thereafter until freed or dead.

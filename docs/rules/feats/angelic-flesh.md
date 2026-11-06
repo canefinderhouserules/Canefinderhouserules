@@ -4,7 +4,7 @@ Your skin shines like burnished metal.
 
 **Prerequisites**: [Angelic Blood](angelic-blood.md), aasimar.
 
-**Benefit**: You take a –2 penalty on Disguise and Stealth checks but gain one of the following benefits, depending on the metallic affinity of your flesh (choose one).
+**Benefit**: You take a –2 penalty on [Disguise](../skills/disguise.md) and [Stealth](../skills/stealth.md) checks but gain one of the following benefits, depending on the metallic affinity of your flesh (choose one).
 
 **Brazen**: You gain fire resistance 5 and a +2 bonus on saves against fire effects.
 

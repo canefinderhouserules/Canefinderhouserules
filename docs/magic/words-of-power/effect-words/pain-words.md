@@ -16,7 +16,7 @@ The targets of a wordspell with this effect word have their base speed reduced b
 **Duration** 1 round/level  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-The targets of a wordspell with this effect word are sickened.
+The targets of a wordspell with this effect word are [sickened](../../../rules/appendices/conditions.md#sickened).
 
 ## Torture (Pain)
 
@@ -24,4 +24,4 @@ The targets of a wordspell with this effect word are sickened.
 **Duration** 1 round/level  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-The targets of a wordspell with this effect word are nauseated; they receive another save at the end of their turn to end this effect.
+The targets of a wordspell with this effect word are [nauseated](../../../rules/appendices/conditions.md#nauseated); they receive another save at the end of their turn to end this effect.

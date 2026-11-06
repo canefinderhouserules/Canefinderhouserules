@@ -310,7 +310,7 @@ If the legendary magus has the Masked Magus legendary magus arcana (or the dual 
 
 **Prerequisite(s)**: Masked magus legendary magus arcana
 
-**Benefit(s)**: The legendary magus has learned to use her magical abilities to change and hide her identity with greater speed and prowess. She can change between her vigilante identity and social identity in 5 rounds, though this improves to a standard action with the quick change social talent and a swift action with the immediate change social talent. In addition, the legendary magus can use her Intelligence in place of her Charisma for the Disguise skill and treats Disguise as a class skill.
+**Benefit(s)**: The legendary magus has learned to use her magical abilities to change and hide her identity with greater speed and prowess. She can change between her vigilante identity and social identity in 5 rounds, though this improves to a standard action with the quick change social talent and a swift action with the immediate change social talent. In addition, the legendary magus can use her Intelligence in place of her Charisma for the [Disguise](../../../rules/skills/disguise.md) skill and treats Disguise as a class skill.
 
 **Maneuver Mastery (Ex)**
 
@@ -396,13 +396,13 @@ She can also use any material components or focuses she possesses, even if such 
 
 These leather gloves are made of fine leather, reinforced with chains and rivets of mithral that glow with a faint inner radiance. These gloves function as *gloves of arcane striking*, and provide the following additional benefits:
 
-The wearer’s bonus damage granted by the Arcane Strike feat is increased by +2. While the wearer has her Arcane Strike feat active, they gain a bonus to CMD equal to Arcane Strike’s damage bonus against disarm attacks, attempts to sunder their wielded weapons, and effects that cause them to lose their grip on their weapons (such as *grease*). While the feat is active, the wearer doesn’t drop held weapons when panicked or stunned.
+The wearer’s bonus damage granted by the Arcane Strike feat is increased by +2. While the wearer has her Arcane Strike feat active, they gain a bonus to CMD equal to Arcane Strike’s damage bonus against disarm attacks, attempts to sunder their wielded weapons, and effects that cause them to lose their grip on their weapons (such as *grease*). While the feat is active, the wearer doesn’t drop held weapons when [panicked](../../../rules/appendices/conditions.md#panicked) or [stunned](../../../rules/appendices/conditions.md#stunned).
 
 ### Magi’s Overcoat
 
 This *+1 potential amplifying* Armored coat is incredibly light and finely crafted, appearing to casual observation as nothing more than a plain black overcoat. It has a maximum Dexterity bonus of +6, an armor check penalty of 0, and an arcane spell failure chance of 10%. It is considered light armor, and does not hinder its wearer’s movement speed.
 
-As a full-round action the overcoat can be turned inside out, causing its physical appearance to change to match its wearer’s desires; however, the overcoat always resembles a long coat of some type. This ability allows the coat to grant its wearer a +2 circumstance bonus on Disguise checks if the coat is used as part of the disguise, or to Stealth checks made to hide in a crowd if the coat is changed to resemble typical outerwear of other creatures in the crowd.
+As a full-round action the overcoat can be turned inside out, causing its physical appearance to change to match its wearer’s desires; however, the overcoat always resembles a long coat of some type. This ability allows the coat to grant its wearer a +2 circumstance bonus on Disguise checks if the coat is used as part of the disguise, or to [Stealth](../../../rules/skills/stealth.md) checks made to hide in a crowd if the coat is changed to resemble typical outerwear of other creatures in the crowd.
 
 ### Ring Of Stored Potential
 
@@ -420,7 +420,7 @@ A greater ring of potential is carved from a single large diamond and can store 
 
 This sleek bracer is made of a dull black metal and is thin enough to be easily and comfortable worn under clothing. Its entire surface is carved with faintly visible necromantic runes.
 
-A living creature who wears this vambrace can activate it as a swift action, causing them to be aff ected by the *inflict light wounds* spell. The creature wearing the vambrace can choose to forgo the Will saving throw to halve the damage if they wish. At the beginning of each of the wearer’s turns, until the vambrace is deactivated using another swift action, the wearer is aff ected by *inflict light wounds*. If the wearer is helpless or willing, another creature can activate or deactivate the bracers as a full-round action. The damage dealt by this item cannot be prevented, and it does not aff ect undead creatures or creatures who would normally be healed by negative energy.
+A living creature who wears this vambrace can activate it as a swift action, causing them to be aff ected by the *inflict light wounds* spell. The creature wearing the vambrace can choose to forgo the Will saving throw to halve the damage if they wish. At the beginning of each of the wearer’s turns, until the vambrace is deactivated using another swift action, the wearer is aff ected by *inflict light wounds*. If the wearer is [helpless](../../../rules/appendices/conditions.md#helpless) or willing, another creature can activate or deactivate the bracers as a full-round action. The damage dealt by this item cannot be prevented, and it does not aff ect undead creatures or creatures who would normally be healed by negative energy.
 
 The vambrace of pain was originally designed by a cleric who wished to explore positive-energy aligned planes without the risk of dying from overexposure to positive energy, but the design has since been used for more nefarious purposes. Many magi have discovered a more niche use for this intriguing item, allowing them to take continuous magical damage to fuel their arcane potential.
 
@@ -442,7 +442,7 @@ You summon dozens of magically replicated pieces of ammunition that rain down on
 
 ### Lich’s Touch
 
-Your hands become gaunt and dehydrated, shimmering with necrotic power. Each living creature you touch takes negative energy damage equal to 3d10 + 1 point per caster level and is paralyzed for 1d2 rounds. A successful Fortitude saving throw halves the damage and negates the paralysis. You can use this melee touch attack up to one time per level.
+Your hands become gaunt and dehydrated, shimmering with necrotic power. Each living creature you touch takes negative energy damage equal to 3d10 + 1 point per caster level and is [paralyzed](../../../rules/appendices/conditions.md#paralyzed) for 1d2 rounds. A successful Fortitude saving throw halves the damage and negates the paralysis. You can use this melee touch attack up to one time per level.
 
 ### Rending Touch
 

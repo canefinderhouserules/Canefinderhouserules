@@ -4,7 +4,7 @@
 
 **Granted Powers**: Your touch can heal wounds, and your presence instills unity and strengthens emotional bonds.
 
-*Calming Touch (Sp)*: You can touch a creature as a move action to heal it of 1d6 points of nonlethal damage per cleric level. This touch also removes the fatigued, shaken, and sickened conditions (but has no effect on more severe conditions). You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+*Calming Touch (Sp)*: You can touch a creature as a move action to heal it of 1d6 points of nonlethal damage per cleric level. This touch also removes the [fatigued](../../rules/appendices/conditions.md#fatigued), [shaken](../../rules/appendices/conditions.md#shaken), and [sickened](../../rules/appendices/conditions.md#sickened) conditions (but has no effect on more severe conditions). You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 *Unity (Su)*: At 4th level, whenever a spell or effect targets you and one or more allies within 30 feet, you can use this ability to allow your allies to use your saving throw against the effect in place of their own. Each ally must decide individually. Using this ability is an immediate action. You can use this ability once per day at 4th level, and one additional time per day for every four cleric levels beyond 4th.
 

@@ -102,7 +102,7 @@
 
 **Replacement Power**: The following granted power replaces the chaos blade of the Chaos domain.
 
-*Unexpected Whimsy (Su)*: As a standard action, you dance, act like a buffoon, or commit some other act of whimsy. When you do, enemies within 30 feet of you that can see and hear you must succeed a Will saving throw (DC = 10 + 1/2 your cleric level + half your Wisdom modifier) or they collapse into gales of manic laughter, falling prone. Those who fail their saving throws can take no actions other than laughing for 1 round, but are not considered helpless. You can use this ability once per day at 6th level and one additional time for every 4 levels you possess beyond 6th.
+*Unexpected Whimsy (Su)*: As a standard action, you dance, act like a buffoon, or commit some other act of whimsy. When you do, enemies within 30 feet of you that can see and hear you must succeed a Will saving throw (DC = 10 + 1/2 your cleric level + half your Wisdom modifier) or they collapse into gales of manic laughter, falling [prone](../../rules/appendices/conditions.md#prone). Those who fail their saving throws can take no actions other than laughing for 1 round, but are not considered [helpless](../../rules/appendices/conditions.md#helpless). You can use this ability once per day at 6th level and one additional time for every 4 levels you possess beyond 6th.
 
 **Replacement Domain Spells**: 1st—[*hideous laughter*](../spells/hideous-laughter.md), 4th—*confusion*, 6th—[*cloak of dreams*](../spells/cloak-of-dreams.md).
 
@@ -118,7 +118,7 @@ A cleric (or any other character capable of selecting a domain) who worships the
 
 The god of freedom stands opposed to any force that denies free will. Servants of the god of freedom make unique exorcists, as their methods radically differ from those of other churches, despite often using similar spells and items. Spirited consumption of alcohol usually precedes any formal activity, and while it may seem to onlookers that Caydenites are feckless drunks, the devoted use this time to elicit truthful statements about the possessed from those with whom they drink. In this way, the servants of the god of freedom ensure they have all the proper information before moving against a supernatural threat, which they undoubtedly do with a (mostly) sober head.
 
-**Drunken Autonomy (Su)**: As a swift action, whenever under the effects of mind-affecting magic, possession, or similar external control, you can channel the unrestricted nature of your god. Instead of acting under the compulsion, you instead act as though you had the confused condition for 1 round. Producing the “act normally” result allows you to act free of mental compulsion for that round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+**Drunken Autonomy (Su)**: As a swift action, whenever under the effects of mind-affecting magic, possession, or similar external control, you can channel the unrestricted nature of your god. Instead of acting under the compulsion, you instead act as though you had the [confused](../../rules/appendices/conditions.md#confused) condition for 1 round. Producing the “act normally” result allows you to act free of mental compulsion for that round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 This replaces the touch of chaos domain power of the Chaos domain.
 

@@ -8,4 +8,4 @@
 **Duration** 1 round/level or 1 round; see text for *cause fear*  
 **Saving Throw** Will partial; **Spell Resistance** yes
 
-This spell functions like *cause fear,* except that it causes all targeted creatures of less than 6 HD to become frightened.
+This spell functions like *cause fear,* except that it causes all targeted creatures of less than 6 HD to become [frightened](../../rules/appendices/conditions.md#frightened).

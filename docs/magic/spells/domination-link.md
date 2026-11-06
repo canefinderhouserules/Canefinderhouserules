@@ -11,7 +11,7 @@
 This spell functions like [*detect thoughts*](detect-thoughts.md), with the additional ability to find echoes of the thoughts of a creature mentally controlling the target. For example, if the target has been dominated by a vampire, you can use evidence left in the target’s mind to learn about that vampire. Each minute you concentrate on the spell, you can learn your choice of one of the following pieces of information.
 
 - **Direction**: The controller’s general direction and distance.
-- **Emotion**: The controller’s emotional state (gloating, sated, frightened, angry, and so on).
+- **Emotion**: The controller’s emotional state (gloating, sated, [frightened](../../rules/appendices/conditions.md#frightened), angry, and so on).
 - **Image**: A powerful iconic image relevant to the controller or its connection to the target, such as a symbol on a door or a name on a gravestone.
 - **Location**: The controller’s general location, such as “in a large city” or “on a ship.”
 - **Name**: The name by which the target knows its controller (if any).

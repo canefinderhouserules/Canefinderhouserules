@@ -8,7 +8,7 @@ Sonic words utilize sound to deafen and damage those that hear them.
 **Duration** instantaneous  
 **Saving Throw** Fortitude half and partial; **Spell Resistance** yes
 
-This effect word deals 1d4 points of sonic damage per caster level (maximum 5d4) and causes the targets to become staggered for 1 round. A successful Fortitude save halves the damage and negates the staggered condition.
+This effect word deals 1d4 points of sonic damage per caster level (maximum 5d4) and causes the targets to become [staggered](../../../rules/appendices/conditions.md#staggered) for 1 round. A successful Fortitude save halves the damage and negates the staggered condition.
 
 ## Sound Blast (Sonic)
 
@@ -25,4 +25,4 @@ This effect word deals 1d6 points of sonic damage per caster level (maximum 10d6
 **Saving Throw** Fortitude half and negates; **Spell Resistance** yes  
 **Target Restrictions** line
 
-This effect word deals 1d6 points of sonic damage per caster level (maximum 15d6) and causes the targets to become deafened for 1 round per level. A successful Fortitude save halves the damage and negates the deafened condition.
+This effect word deals 1d6 points of sonic damage per caster level (maximum 15d6) and causes the targets to become [deafened](../../../rules/appendices/conditions.md#deafened) for 1 round per level. A successful Fortitude save halves the damage and negates the deafened condition.

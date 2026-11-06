@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-An opponent you have pinned is easy for you to knock out.
+An opponent you have [pinned](../appendices/conditions.md#pinned) is easy for you to knock out.
 
 **Prerequisites**: Dex 13, [Greater Grapple](greater-grapple.md), [Improved Grapple](improved-grapple.md), [Improved Unarmed Strike](improved-unarmed-strike.md), base attack bonus +9 or monk level 9th.
 

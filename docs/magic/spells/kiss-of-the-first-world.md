@@ -12,4 +12,4 @@ This spell—a favorite of fey spellcasters—is traditionally bestowed with a k
 
 **Living Creature**: A living creature gains a 20-foot increase to his base land speed and a +2 insight bonus on all Charisma-based skill checks. In addition, the creature gains fast healing 2. Fire, acid, and negative energy cause this fast healing to stop functioning on the round following the attack.
 
-**Undead Creature**: An undead creature targeted by this spell is staggered for the duration of this spell. It does not gain the benefits of any channel resistance it might normally enjoy, and the save DCs for any of its special attacks (but not spell-like abilities or spells) are reduced by 2.
+**Undead Creature**: An undead creature targeted by this spell is [staggered](../../rules/appendices/conditions.md#staggered) for the duration of this spell. It does not gain the benefits of any channel resistance it might normally enjoy, and the save DCs for any of its special attacks (but not spell-like abilities or spells) are reduced by 2.

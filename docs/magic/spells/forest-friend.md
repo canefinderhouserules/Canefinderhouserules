@@ -8,6 +8,6 @@
 **Duration** 1 minute/level  
 **Saving Throw** none; **Spell Resistance**: no
 
-While subject to this spell, the targets find that forested areas become helpful instead of hindering. The targets suffer no hindrances to movement and suffer no penalties on Acrobatics and Stealth checks from undergrowth in forested terrain. Furthermore, forested overgrowth imposes a miss chance 10% lower than normal.
+While subject to this spell, the targets find that forested areas become helpful instead of hindering. The targets suffer no hindrances to movement and suffer no penalties on [Acrobatics](../../rules/skills/acrobatics.md) and [Stealth](../../rules/skills/stealth.md) checks from undergrowth in forested terrain. Furthermore, forested overgrowth imposes a miss chance 10% lower than normal.
 
-When moving in and among trees, those subject to the spell gain a +5 circumstance bonus on Acrobatics checks and Climb checks. Rangers in their favored terrain can also add their favored terrain bonus on such Acrobatics and Climb checks.
+When moving in and among trees, those subject to the spell gain a +5 circumstance bonus on Acrobatics checks and [Climb](../../rules/skills/climb.md) checks. Rangers in their favored terrain can also add their favored terrain bonus on such Acrobatics and Climb checks.

@@ -75,15 +75,15 @@ An investigator can also learn formulae from another investigator's or an alchem
 
 An investigator is beyond knowledgeable and skilled-he also possesses keen powers of observation and deduction that far surpass the abilities of others. An investigator typically uses these powers to aid in their investigations, but can also use these flashes of inspiration in other situations.
 
-An investigator has the ability to augment skill checks and ability checks through his brilliant inspiration. The investigator has an inspiration pool equal to 1/2 his investigator level + his Intelligence modifier (minimum 1). An investigator's inspiration pool refreshes each day, typically after he gets a restful night's sleep. As a free action, he can expend one use of inspiration from his pool to add 1d6 to the result of that check, including any on which he takes 10 or 20. This choice is made after the check is rolled and before the results are revealed. An investigator can only use inspiration once per check or roll. The investigator can use inspiration on any Knowledge, Linguistics, or Spellcraft skill checks without expending a use of inspiration, provided he's trained in the skill. Inspiration can also be used on attack rolls and saving throws, at the cost of expending two uses of inspiration each time from the investigator's pool. In the case of saving throws, using inspiration is an immediate action rather than a free action.
+An investigator has the ability to augment skill checks and ability checks through his brilliant inspiration. The investigator has an inspiration pool equal to 1/2 his investigator level + his Intelligence modifier (minimum 1). An investigator's inspiration pool refreshes each day, typically after he gets a restful night's sleep. As a free action, he can expend one use of inspiration from his pool to add 1d6 to the result of that check, including any on which he takes 10 or 20. This choice is made after the check is rolled and before the results are revealed. An investigator can only use inspiration once per check or roll. The investigator can use inspiration on any [Knowledge](../../rules/skills/knowledge.md), [Linguistics](../../rules/skills/linguistics.md), or [Spellcraft](../../rules/skills/spellcraft.md) skill checks without expending a use of inspiration, provided he's trained in the skill. Inspiration can also be used on attack rolls and saving throws, at the cost of expending two uses of inspiration each time from the investigator's pool. In the case of saving throws, using inspiration is an immediate action rather than a free action.
 
 ### Trapfinding
 
-An investigator adds 1/2 his level to Perception skill checks made to locate traps and to Disable Device checks (minimum 1). An investigator can use Disable Device to disarm magical traps.
+An investigator adds 1/2 his level to [Perception](../../rules/skills/perception.md) skill checks made to locate traps and to [Disable Device](../../rules/skills/disable-device.md) checks (minimum 1). An investigator can use Disable Device to disarm magical traps.
 
 ### Poison Lore (Ex)
 
-An investigator has a deep understanding and appreciation for poisons. At 2nd level, he cannot accidentally poison himself when applying poison to a weapon. If the investigator spends 1 minute physically examining the poison, he can attempt a Knowledge (nature) check to identify any natural poison or Knowledge (arcana) check to identify any magical poison (DC = the poison's saving throw DC). Lastly, once a poison is identified, he can spend 1 minute and attempt a Craft (alchemy) check (DC = the poison's saving throw DC) to neutralize 1 dose of the poison. Success renders the dose harmless. The investigator has no chance of accidentally poisoning himself when examining or attempting to neutralize a poison.
+An investigator has a deep understanding and appreciation for poisons. At 2nd level, he cannot accidentally poison himself when applying poison to a weapon. If the investigator spends 1 minute physically examining the poison, he can attempt a Knowledge (nature) check to identify any natural poison or Knowledge (arcana) check to identify any magical poison (DC = the poison's saving throw DC). Lastly, once a poison is identified, he can spend 1 minute and attempt a [Craft](../../rules/skills/craft.md) (alchemy) check (DC = the poison's saving throw DC) to neutralize 1 dose of the poison. Success renders the dose harmless. The investigator has no chance of accidentally poisoning himself when examining or attempting to neutralize a poison.
 
 ### Poison Resistance (Ex)
 
@@ -101,19 +101,19 @@ The investigator can select one of the following alchemist discoveries as an inv
 
 #### Amazing Inspiration (Ex)
 
-When using inspiration, the investigator rolls a d8 instead of a d6. At 20th level, the investigator rolls 2d8 and adds both dice to the result. An investigator must be at least 7th level to select this talent. Blinding Strike'< (Ex): When the investigator deals damage with studied strike, the opponent must succeed at a Fortitude saving throw or be permanently blinded. A successful saving throw reduces this to dazzled for 1d4 rounds. The DC for this Fortitude save is equal to 10 + 1/2 the investigator's level + his Intelligence modifier. This talent has no effect on creatures that do not rely on eyes for sight or creatures with more than two eyes (although multiple critical hits might cause blindness, at the GM's discretion). Blindness can be cured by heal, regeneration, remove blindness, or similar abilities. An investigator must be at least 17th level to select this talent.
+When using inspiration, the investigator rolls a d8 instead of a d6. At 20th level, the investigator rolls 2d8 and adds both dice to the result. An investigator must be at least 7th level to select this talent. Blinding Strike'< (Ex): When the investigator deals damage with studied strike, the opponent must succeed at a Fortitude saving throw or be permanently [blinded](../../rules/appendices/conditions.md#blinded). A successful saving throw reduces this to [dazzled](../../rules/appendices/conditions.md#dazzled) for 1d4 rounds. The DC for this Fortitude save is equal to 10 + 1/2 the investigator's level + his Intelligence modifier. This talent has no effect on creatures that do not rely on eyes for sight or creatures with more than two eyes (although multiple critical hits might cause blindness, at the GM's discretion). Blindness can be cured by heal, regeneration, remove blindness, or similar abilities. An investigator must be at least 17th level to select this talent.
 
 #### Combat Inspiration (Ex)
 
 When an investigator uses inspiration on an attack roll or saving throw, he expends one use of inspiration instead of two. An investigator must be at least 9th level to select this talent.
 
-Confusing Strike* (Ex): When the investigator deals damage with studied strike, the opponent must succeed at a Fortitude saving throw or become confused for 1d4+1 rounds. A successful saving throw reduces the duration to 1 round. The DC for this Fortitude save is equal to 10 + 1/2 the investigator's level + his Intelligence modifier. Constructs, mindless creatures, oozes, plants, undead, incorporeal creatures, and creatures immune to critical hits are not affected by this ability. An investigator must be at least 19th level to select this talent.
+Confusing Strike* (Ex): When the investigator deals damage with studied strike, the opponent must succeed at a Fortitude saving throw or become [confused](../../rules/appendices/conditions.md#confused) for 1d4+1 rounds. A successful saving throw reduces the duration to 1 round. The DC for this Fortitude save is equal to 10 + 1/2 the investigator's level + his Intelligence modifier. Constructs, mindless creatures, oozes, plants, undead, incorporeal creatures, and creatures immune to critical hits are not affected by this ability. An investigator must be at least 19th level to select this talent.
 
-Deafening Strike* (Ex): When an investigator deals damage with studied strike, the opponent must succeed at a Fortitude saving throw or be permanently deafened. A successful Fortitude saving throw reduces the duration of this effect to 1 round. The DC for this save is equal to 10 + 1/2 the investigator's level + his Intelligence modifier. This talent has no effect on deaf creatures. Deafness can be cured by heal, regeneration, remove blindness, or similar effects. An investigator must be at least 15th level to select this talent.
+Deafening Strike* (Ex): When an investigator deals damage with studied strike, the opponent must succeed at a Fortitude saving throw or be permanently [deafened](../../rules/appendices/conditions.md#deafened). A successful Fortitude saving throw reduces the duration of this effect to 1 round. The DC for this save is equal to 10 + 1/2 the investigator's level + his Intelligence modifier. This talent has no effect on deaf creatures. Deafness can be cured by heal, regeneration, remove blindness, or similar effects. An investigator must be at least 15th level to select this talent.
 
 #### Device Talent (Ex)
 
-The investigator can use the Use Magic Device skill even if not trained in that skill. If the investigator is trained in Use Magic Device, he can use the inspiration ability with that skill without expending uses of inspiration.
+The investigator can use the [Use Magic Device](../../rules/skills/use-magic-device.md) skill even if not trained in that skill. If the investigator is trained in Use Magic Device, he can use the inspiration ability with that skill without expending uses of inspiration.
 
 #### Effortless Aid (Ex)
 
@@ -121,11 +121,11 @@ The investigator can use an aid another action as a move action instead of as a 
 
 #### Eidetic Recollection (Su)
 
-An investigator can always choose to take 10 on any of his Knowledge checks, even if he's in immediate danger or distracted. An investigator may expend one use of inspiration to take 20 on a Knowledge skill check even if he's in immediate danger or distracted. An investigator must be at least 11th level to select this talent. Empathy (Ex, Su): When attempting a Sense Motive check, the investigator makes two d20 rolls and takes the higher result. If an investigator uses inspiration on a Sense Motive check, he rolls the inspiration dice twice and takes the higher result. Once per day, the investigator can expend one use of inspiration to target a single creature that he can see and hear within 30 feet. Upon doing so, the investigator detects the surface thoughts of the target's mind, as if he concentrated for 3 rounds while using the detect thoughts spell, unless the creature succeeds a Will saving throw. The DC of this save is 10 + 1/2 the investigator's level + his Intelligence modifier. If the target fails, the investigator can continue to detect the surface thoughts of the target creature for a number of rounds equal to 1/2 his investigator level. An investigator must be at least 5th level to select this talent.
+An investigator can always choose to take 10 on any of his Knowledge checks, even if he's in immediate danger or distracted. An investigator may expend one use of inspiration to take 20 on a Knowledge skill check even if he's in immediate danger or distracted. An investigator must be at least 11th level to select this talent. Empathy (Ex, Su): When attempting a [Sense Motive](../../rules/skills/sense-motive.md) check, the investigator makes two d20 rolls and takes the higher result. If an investigator uses inspiration on a Sense Motive check, he rolls the inspiration dice twice and takes the higher result. Once per day, the investigator can expend one use of inspiration to target a single creature that he can see and hear within 30 feet. Upon doing so, the investigator detects the surface thoughts of the target's mind, as if he concentrated for 3 rounds while using the detect thoughts spell, unless the creature succeeds a Will saving throw. The DC of this save is 10 + 1/2 the investigator's level + his Intelligence modifier. If the target fails, the investigator can continue to detect the surface thoughts of the target creature for a number of rounds equal to 1/2 his investigator level. An investigator must be at least 5th level to select this talent.
 
 #### Expanded Inspiration (Ex)
 
-An investigator can use his inspiration ability when attempting Diplomacy, Heal, Perception, Profession, and Sense Motive checks without expending uses of inspiration, provided he's trained in the skill.
+An investigator can use his inspiration ability when attempting [Diplomacy](../../rules/skills/diplomacy.md), [Heal](../../rules/skills/heal.md), Perception, [Profession](../../rules/skills/profession.md), and Sense Motive checks without expending uses of inspiration, provided he's trained in the skill.
 
 #### Greater Combat Inspiration (Ex)
 
@@ -133,7 +133,7 @@ Choose a single weapon type (such as sword cane or short sword). As long as the 
 
 #### Hidden Agendas (Ex)
 
-An investigator learns to obscure his thoughts and endeavors from prying eyes and even intrusive magic. When an investigator uses inspiration while attempting a Bluff check to pass secret messages or attempting a Linguistics check to create forgeries, he can roll his inspiration dice twice and take the higher result. In addition, the investigator can use inspiration when attempting a saving throw against a divination spell or effect without expending a use of inspiration. An investigator must be at least 11th level to select this talent.
+An investigator learns to obscure his thoughts and endeavors from prying eyes and even intrusive magic. When an investigator uses inspiration while attempting a [Bluff](../../rules/skills/bluff.md) check to pass secret messages or attempting a Linguistics check to create forgeries, he can roll his inspiration dice twice and take the higher result. In addition, the investigator can use inspiration when attempting a saving throw against a divination spell or effect without expending a use of inspiration. An investigator must be at least 11th level to select this talent.
 
 #### Inspirational Expertise (Ex)
 
@@ -141,7 +141,7 @@ When an investigator succeeds at a Knowledge check to identify a monster's speci
 
 #### Inspired Alertness (Ex)
 
-Whenever the investigator becomes flat-footed, he can expend one use of inspiration to ignore that condition. He must be conscious to do so, and must decide to do so when he becomes flat-footed. Using this ability doesn't require an action.
+Whenever the investigator becomes [flat-footed](../../rules/appendices/conditions.md#flat-footed), he can expend one use of inspiration to ignore that condition. He must be conscious to do so, and must decide to do so when he becomes flat-footed. Using this ability doesn't require an action.
 
 #### Inspired Intelligence (Ex)
 
@@ -149,7 +149,7 @@ An investigator can add his inspiration die to all Knowledge, Linguistics, or Sp
 
 #### Inspired Intimidator (Ex)
 
-When the investigator succeeds at an Intimidate check to demoralize an opponent, he can expend one use of inspiration to automatically increase the result of the check by 5 for the purpose of determining the duration of the demoralize effect. He can choose to spend multiple uses to inspiration in this manner to further increase the duration of the demoralize effect. He must be trained in Intimidate to take this talent. The underworld inspiration investigator talent has no effect on this talent.
+When the investigator succeeds at an [Intimidate](../../rules/skills/intimidate.md) check to demoralize an opponent, he can expend one use of inspiration to automatically increase the result of the check by 5 for the purpose of determining the duration of the demoralize effect. He can choose to spend multiple uses to inspiration in this manner to further increase the duration of the demoralize effect. He must be trained in Intimidate to take this talent. The underworld inspiration investigator talent has no effect on this talent.
 
 #### Item Lore (Ex)
 
@@ -157,7 +157,7 @@ An investigator can use Spellcraft to identify the properties and command words 
 
 #### Perceptive Tracking (Ex)
 
-The investigator can use Perception instead of Survival to both find and follow tracks, using the same DCs listed under the Survival skill (Core Rulebook 107). An investigator must be trained in Perception to select this talent.
+The investigator can use Perception instead of Survival to both find and follow tracks, using the same DCs listed under the [Survival](../../rules/skills/survival.md) skill (Core Rulebook 107). An investigator must be trained in Perception to select this talent.
 
 #### Quick Study (Ex)
 
@@ -185,7 +185,7 @@ An investigator can pick any one skill that he is trained in but that he can't u
 
 #### Underworld Inspiration (Ex)
 
-An investigator can use his inspiration on Bluff, Disable Device, Disguise, Intimidate, or Sleight of Hand checks without expending uses of inspiration, provided he's trained in the skill.
+An investigator can use his inspiration on Bluff, Disable Device, [Disguise](../../rules/skills/disguise.md), Intimidate, or [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks without expending uses of inspiration, provided he's trained in the skill.
 
 ### Keen Recollection
 

@@ -8,7 +8,7 @@ In the dark below earth, svirfneblin protect their enclaves, keeping their small
 
 **Gnome**: Svirfneblin are humanoids with the gnome subtype.
 
-**Small**: Svirfneblin are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on Stealth checks.
+**Small**: Svirfneblin are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on [Stealth](../../rules/skills/stealth.md) checks.
 
 **Defensive Training**: Svirfneblin gain a +2 dodge bonus to Armor Class.
 
@@ -16,7 +16,7 @@ In the dark below earth, svirfneblin protect their enclaves, keeping their small
 
 **Fortunate**: Svirfneblin gain a +2 racial bonus on all saving throws.
 
-**Skilled**: Svirfneblin gain a +2 racial bonus on Stealth checks; this improves to a +4 bonus underground. They gain a +2 racial bonus on Craft (alchemy) checks and Perception checks.
+**Skilled**: Svirfneblin gain a +2 racial bonus on Stealth checks; this improves to a +4 bonus underground. They gain a +2 racial bonus on [Craft](../../rules/skills/craft.md) (alchemy) checks and [Perception](../../rules/skills/perception.md) checks.
 
 **Hatred**: Svirfneblin receive a +1 bonus on attack rolls against humanoid creatures of the reptilian and dwarven subtypes due to training against these hated foes.
 

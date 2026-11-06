@@ -1,6 +1,6 @@
 # Kobolds
 
-Kobolds are weak, craven, and seethe with a festering resentment for the rest of the world, especially members of races that seem stronger, smarter, or superior to them in any way. They proudly claim kinship to dragons, but beneath all the bluster, the comparison to their glorious cousins leaves kobolds with a profound sense of inadequacy. Though they are hardworking, clever, and blessed with a natural talent for mechanical devices and mining, they spend their days nursing grudges and hatreds instead of celebrating their own gifts. Kobold tactics specialize in traps and ambushes, but kobolds enjoy anything that allows them to harm others without putting themselves at risk. Often, they seek to capture rather than to kill, taking out their frustrations on the helpless victims they drag back to their claustrophobic lairs.
+Kobolds are weak, craven, and seethe with a festering resentment for the rest of the world, especially members of races that seem stronger, smarter, or superior to them in any way. They proudly claim kinship to dragons, but beneath all the bluster, the comparison to their glorious cousins leaves kobolds with a profound sense of inadequacy. Though they are hardworking, clever, and blessed with a natural talent for mechanical devices and mining, they spend their days nursing grudges and hatreds instead of celebrating their own gifts. Kobold tactics specialize in traps and ambushes, but kobolds enjoy anything that allows them to harm others without putting themselves at risk. Often, they seek to capture rather than to kill, taking out their frustrations on the [helpless](../../rules/appendices/conditions.md#helpless) victims they drag back to their claustrophobic lairs.
 
 **Physical Description**: Kobolds are small, bipedal reptilian humanoids. Most stand around 3 feet tall and weigh about 35 pounds. They have powerful jaws for creatures of their size and noticeable claws on their hands and feet. Often kobolds’ faces are curiously devoid of expression, as they favor showing their emotions by simply swishing their tails. Kobolds’ thick hides vary in color, and most have scales that match the hue of one of the varieties of chromatic dragons, with red scales being predominant. A few kobolds, however, have more exotic colors such as orange or yellow, which in some tribes raises or lowers an individual’s status in the eyes of his fellows.
 
@@ -24,7 +24,7 @@ They consider both dwarves and elves to be deadly rivals. Kobolds fear the brute
 
 **Reptilian**: Kobolds are humanoids with the reptilian subtype.
 
-**Small**: Kobolds are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on their combat maneuver checks and to Combat Maneuver Defense, and a +4 size bonus on Stealth checks.
+**Small**: Kobolds are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on their combat maneuver checks and to Combat Maneuver Defense, and a +4 size bonus on [Stealth](../../rules/skills/stealth.md) checks.
 
 **Normal Speed**: Kobolds have a base speed of 30 feet.
 
@@ -32,7 +32,7 @@ They consider both dwarves and elves to be deadly rivals. Kobolds fear the brute
 
 **Armor**: Kobolds have a +1 natural armor bonus.
 
-**Crafty**: Kobolds gain a +2 racial bonus on Craft (trapmaking), Perception, and Profession (miner) checks. Craft (traps) and Stealth are always class skills for a kobold.
+**Crafty**: Kobolds gain a +2 racial bonus on [Craft](../../rules/skills/craft.md) (trapmaking), [Perception](../../rules/skills/perception.md), and [Profession](../../rules/skills/profession.md) (miner) checks. Craft (traps) and Stealth are always class skills for a kobold.
 
 **Weakness**: Light sensitivity.
 
@@ -42,23 +42,23 @@ They consider both dwarves and elves to be deadly rivals. Kobolds fear the brute
 
 The following racial traits may be selected instead of existing kobold racial traits. Consult your GM before selecting any of these new options.
 
-**Beast Bond**: Some kobolds have a talent for training animals and beasts to help them both on and off the battlefield. Kobolds with this racial trait gain a +2 racial bonus on Handle Animal and Ride checks. Handle Animal and Ride are always class skills for them. This racial trait replaces crafty.
+**Beast Bond**: Some kobolds have a talent for training animals and beasts to help them both on and off the battlefield. Kobolds with this racial trait gain a +2 racial bonus on [Handle Animal](../../rules/skills/handle-animal.md) and [Ride](../../rules/skills/ride.md) checks. Handle Animal and Ride are always class skills for them. This racial trait replaces crafty.
 
 **Dragon-Scaled**: Some kobolds are hatched with scales of such vivid color that their connection to a particular sort of chromatic dragon seems undeniable. Whether this coloration is just a quirk of a stray egg or a trait shared by all the members of a tribe, these kobolds gain a resistance that makes them especially suited to work alongside dragons matching the color of the kobold’s scales. Black-scaled and green-scaled kobolds with this racial trait gain acid resistance 5. Blue-scaled kobolds with this racial trait gain electricity resistance 5. Red-scaled kobolds with this racial trait gain fire resistance 5. White-scaled kobolds with this racial trait gain cold resistance 5. This racial trait replaces the armor racial trait.
 
-**Gliding Wings**: Some kobolds are born with wings that, while too weak for actual flying, do allow them to fall at a very slow and safe pace. A kobold with wings can use them to glide. It can make a DC 15 Fly check to fall safely from any height without taking falling damage, as if using [*feather fall*](../../magic/spells/feather-fall.md). When falling safely, it may make an additional DC 15 Fly check to glide, moving 5 feet laterally for every 20 feet it falls. This racial trait replaces crafty.
+**Gliding Wings**: Some kobolds are born with wings that, while too weak for actual flying, do allow them to fall at a very slow and safe pace. A kobold with wings can use them to glide. It can make a DC 15 [Fly](../../rules/skills/fly.md) check to fall safely from any height without taking falling damage, as if using [*feather fall*](../../magic/spells/feather-fall.md). When falling safely, it may make an additional DC 15 Fly check to glide, moving 5 feet laterally for every 20 feet it falls. This racial trait replaces crafty.
 
-**Jester**: Some kobolds swallow their pride and survive by groveling, placating, and amusing the powerful. Kobolds with this racial trait gain a +2 racial bonus on Diplomacy and Perform checks. Diplomacy and Perform are always class skills for them. This racial trait replaces crafty.
+**Jester**: Some kobolds swallow their pride and survive by groveling, placating, and amusing the powerful. Kobolds with this racial trait gain a +2 racial bonus on [Diplomacy](../../rules/skills/diplomacy.md) and [Perform](../../rules/skills/perform.md) checks. Diplomacy and Perform are always class skills for them. This racial trait replaces crafty.
 
 **Day Raider**: You're one of the few kobolds born with a greater tolerance for sunlight. You don't have light sensitivity, and you have low-light vision instead of darkvision.
 
 **Dragonmaw**: Your powerful jaws and teeth are proof of your kinship to a chromatic dragon. You gain a bite attack that deals 1d4 points of damage. Once per day, you can deal 1d6 points of additional energy damage with your bite attack. The damage type depends on your scale color: acid damage for black or green, electricity for blue, fire for red, or cold for white. If you have a different scale color, you still gain the bite attack, but can't do the additional energy damage. This racial trait replaces the armor racial trait.
 
-**Echo Whistler**: By observing the noises in underground tunnels, you learned to uncannily mimic any voice or sound you heard. Three times per day, you can attempt to trick someone in this way by making a Bluff check against the listener's Sense Motive check. You get a +2 circumstance bonus on this check if you're in tunnels or other structures where your voice can echo. This racial trait replaces crafty.
+**Echo Whistler**: By observing the noises in underground tunnels, you learned to uncannily mimic any voice or sound you heard. Three times per day, you can attempt to trick someone in this way by making a [Bluff](../../rules/skills/bluff.md) check against the listener's [Sense Motive](../../rules/skills/sense-motive.md) check. You get a +2 circumstance bonus on this check if you're in tunnels or other structures where your voice can echo. This racial trait replaces crafty.
 
 **Frightener**: Like the great dragons, you can strike fear in the hearts of your foes with your majestic presence. You gain a +1 racial bonus to the DC of saving throws against spells you cast with the fear descriptor. This racial trait replaces the armor racial trait.
 
-**Prehensile Tail**: Your tail is especially flexible and strong, so you've learned to use it for both movement and simple tricks. You gain a +2 racial bonus on Acrobatics and Climb checks, and you can use your tail to draw a hidden weapon as a move action instead of as a standard action. This racial trait replaces the armor racial trait.
+**Prehensile Tail**: Your tail is especially flexible and strong, so you've learned to use it for both movement and simple tricks. You gain a +2 racial bonus on [Acrobatics](../../rules/skills/acrobatics.md) and [Climb](../../rules/skills/climb.md) checks, and you can use your tail to draw a hidden weapon as a move action instead of as a standard action. This racial trait replaces the armor racial trait.
 
 **Secret Strider**: You have the ability to traverse the wilderness without a trace. Twice per day, you can move through natural surroundings without leaving a trail for 1 minute, increasing the DC of any attempts to track you by 10. This racial trait replaces crafty.
 
@@ -66,9 +66,9 @@ The following racial traits may be selected instead of existing kobold racial tr
 
 **Spellcaster Sneak**: Traversing the tunnels near big, nasty, hungry creatures, you learned to keep quiet, and to keep your spells quiet too. You gain a +2 racial bonus on Stealth checks, and once per day you can gain the benefit of the [Silent Spell](../../rules/feats/silent-spell.md) feat on a spell you cast. This racial trait replaces crafty.
 
-**Wild Forest Kobold**: You're one of the barbaric kobolds dwelling in the forests of the surface world. Your culture shuns artifice, but teaches how to endure and hunt. You gain a +2 racial bonus on Perception and Survival checks, and Stealth and Survival are always class skills for you. This racial trait replaces crafty.
+**Wild Forest Kobold**: You're one of the barbaric kobolds dwelling in the forests of the surface world. Your culture shuns artifice, but teaches how to endure and hunt. You gain a +2 racial bonus on Perception and [Survival](../../rules/skills/survival.md) checks, and Stealth and Survival are always class skills for you. This racial trait replaces crafty.
 
-**Wyrmcrowned**: Your horns have grown to the extent that they appear similar to those of a dragon who shares your scale color, lending a draconic power or menace to your dealings with others. Choose either Diplomacy or Intimidate. You gain a +2 racial bonus on checks with that skill, and it is always a class skill for you. This racial trait replaces crafty.
+**Wyrmcrowned**: Your horns have grown to the extent that they appear similar to those of a dragon who shares your scale color, lending a draconic power or menace to your dealings with others. Choose either Diplomacy or [Intimidate](../../rules/skills/intimidate.md). You gain a +2 racial bonus on checks with that skill, and it is always a class skill for you. This racial trait replaces crafty.
 
 ## Favored Class Options
 
@@ -121,9 +121,9 @@ These archetypes are typically only taken by kobolds, but members of other races
 
 Kobolds have access to the following equipment.
 
-**Alchemical Coal**: A kobold who chews and swallows this alchemically treated piece of coal (a full-round action) can make one breath weapon attack during the next minute. If the kobold fails to make a breath attack before this minute expires, it is sickened for 1 hour. Other humanoid creatures that eat alchemical coal are sickened for 1 hour (though certain other creatures may be able to use them, at the GM’s discretion). Creatures that are immune to poison are immune to the sickened effect. The type of breath weapon depends on the type of alchemical coal that is chewed by the kobold.
+**Alchemical Coal**: A kobold who chews and swallows this alchemically treated piece of coal (a full-round action) can make one breath weapon attack during the next minute. If the kobold fails to make a breath attack before this minute expires, it is [sickened](../../rules/appendices/conditions.md#sickened) for 1 hour. Other humanoid creatures that eat alchemical coal are sickened for 1 hour (though certain other creatures may be able to use them, at the GM’s discretion). Creatures that are immune to poison are immune to the sickened effect. The type of breath weapon depends on the type of alchemical coal that is chewed by the kobold.
 
-*Blinding Cinders*: This jagged bit of dusty red coal allows a kobold to breathe a 30-foot line of coarse cinders. The breath weapon deals 1d6 points of fire damage and blinds creatures in the area for 1 round. A creature that succeeds at a DC 15 Reflex saving throw takes half damage and is not blinded.
+*Blinding Cinders*: This jagged bit of dusty red coal allows a kobold to breathe a 30-foot line of coarse cinders. The breath weapon deals 1d6 points of fire damage and blinds creatures in the area for 1 round. A creature that succeeds at a DC 15 Reflex saving throw takes half damage and is not [blinded](../../rules/appendices/conditions.md#blinded).
 
 *Choking Smoke*: This crumbling chunk of chalky white coal allows a kobold to breathe a 15-foot cone of foul vapor that deals 1d6 points of acid damage and sickens a creature for 1d4 rounds. A creature that succeeds at a DC 15 Reflex saving throw takes half damage and is not sickened.
 

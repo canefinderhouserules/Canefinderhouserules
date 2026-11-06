@@ -8,4 +8,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-You create a powerful tone that vibrates living flesh. Targets must save or gain the sickened condition. Creatures that are immune to critical hits are immune to this spell.
+You create a powerful tone that vibrates living flesh. Targets must save or gain the [sickened](../../rules/appendices/conditions.md#sickened) condition. Creatures that are immune to critical hits are immune to this spell.

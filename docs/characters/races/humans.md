@@ -79,13 +79,13 @@ It’s the source of most of his abilities, and gives him a specific role in any
 
 The following racial traits might be selected instead of existing racial traits. Consult your GM before selecting any of these options.
 
-**Eye for Talent**: Humans have great intuition for hidden potential. They gain a +2 bonus on Sense Motive checks. In addition, when they acquire an animal companion, bonded mount, cohort, or familiar, that creature gains a +2 bonus to one ability score of the character’s choice. This racial trait replaces the bonus feat racial trait.
+**Eye for Talent**: Humans have great intuition for hidden potential. They gain a +2 bonus on [Sense Motive](../../rules/skills/sense-motive.md) checks. In addition, when they acquire an animal companion, bonded mount, cohort, or familiar, that creature gains a +2 bonus to one ability score of the character’s choice. This racial trait replaces the bonus feat racial trait.
 
-**Heart of the Fields**: Humans born in rural areas are used to hard labor. They gain a bonus equal to half their character level to any one Craft or Profession skill, and once per day they may ignore an effect that would cause them to become fatigued or exhausted. This racial trait replaces the skilled racial trait.
+**Heart of the Fields**: Humans born in rural areas are used to hard labor. They gain a bonus equal to half their character level to any one [Craft](../../rules/skills/craft.md) or [Profession](../../rules/skills/profession.md) skill, and once per day they may ignore an effect that would cause them to become [fatigued](../../rules/appendices/conditions.md#fatigued) or [exhausted](../../rules/appendices/conditions.md#exhausted). This racial trait replaces the skilled racial trait.
 
 **Heart of the Streets**: Humans from bustling cities are skilled with crowds. They gain a +1 bonus on Reflex saves and a +1 dodge bonus to Armor Class when adjacent to at least two other allies. Crowds do not count as difficult terrain for them. This racial trait replaces the skilled racial trait.
 
-**Heart of the Wilderness**: Humans raised in the wild learn the hard way that only the strong survive. They gain a bonus equal to half their character level on Survival checks. They also gain a +5 bonus on Constitution checks to stabilize when dying and add half their character level to their Constitution score when determining the negative hit point total necessary to kill them. This racial trait replaces the skilled racial trait.
+**Heart of the Wilderness**: Humans raised in the wild learn the hard way that only the strong survive. They gain a bonus equal to half their character level on [Survival](../../rules/skills/survival.md) checks. They also gain a +5 bonus on Constitution checks to stabilize when dying and add half their character level to their Constitution score when determining the negative hit point total necessary to kill them. This racial trait replaces the skilled racial trait.
 
 ### Additional Alternate Racial Traits (Advanced Race Guide)
 
@@ -95,11 +95,11 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Focused Study**: All humans are skillful, but some, rather than being generalists, tend to specialize in a handful of skills. At 1st, 8th, and 16th level, such humans gain Skill Focus in a skill of their choice as a bonus feat. This racial trait replaces the bonus feat trait.
 
-**Heart of the Mountains**: Humans born in the mountains are skilled at negotiating heights and precipices. They gain a +2 racial bonus on Climb checks and Acrobatics checks to move on narrow surfaces and uneven ground. Furthermore, they are considered acclimated to the effects of high altitude. This racial trait replaces skilled.
+**Heart of the Mountains**: Humans born in the mountains are skilled at negotiating heights and precipices. They gain a +2 racial bonus on [Climb](../../rules/skills/climb.md) checks and [Acrobatics](../../rules/skills/acrobatics.md) checks to move on narrow surfaces and uneven ground. Furthermore, they are considered acclimated to the effects of high altitude. This racial trait replaces skilled.
 
-**Heart of the Sea**: Humans born near the sea are always drawn to it. They gain a +2 racial bonus on Profession (sailor) and Swim checks, and these are always class skills for them. They can hold their breath twice as long as normal, and spellcasters gain a +4 racial bonus on concentration checks when attempting to cast spells underwater. This racial trait replaces skilled.
+**Heart of the Sea**: Humans born near the sea are always drawn to it. They gain a +2 racial bonus on Profession (sailor) and [Swim](../../rules/skills/swim.md) checks, and these are always class skills for them. They can hold their breath twice as long as normal, and spellcasters gain a +4 racial bonus on concentration checks when attempting to cast spells underwater. This racial trait replaces skilled.
 
-**Heart of the Slums**: Humans who eke out a life in a city’s teeming slums must be quick and clever. They gain a +2 racial bonus on Sleight of Hand and Stealth checks, and a +4 racial bonus on Survival checks in urban and underground settings. In addition, they may roll twice when saving against disease, taking the better roll. This racial trait replaces skilled.
+**Heart of the Slums**: Humans who eke out a life in a city’s teeming slums must be quick and clever. They gain a +2 racial bonus on [Sleight of Hand](../../rules/skills/sleight-of-hand.md) and [Stealth](../../rules/skills/stealth.md) checks, and a +4 racial bonus on Survival checks in urban and underground settings. In addition, they may roll twice when saving against disease, taking the better roll. This racial trait replaces skilled.
 
 **Heart of the Snows**: Humans born in chilly climes treat cold climates as one category less severe. They gain a +2 racial bonus on Fortitude saving throws against the effects of cold climates, on any check or saving throw to avoid slipping and falling, and to CMD against trip combat maneuvers. This bonus applies on Acrobatics and Climb checks made in slippery conditions. This racial trait replaces skilled.
 
@@ -109,17 +109,17 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Mixed Heritage**: Often human civilization is defined by more than one characteristic. A human with this trait may select a second “Heart of the” racial trait. This replaces the bonus feat racial trait.
 
-**Silver Tongued**: Human are often adept at subtle manipulation and putting even sworn foes at ease. Humans with this trait gain a +2 bonus on Diplomacy and Bluff checks. In addition, when they use Diplomacy to shift a creature’s attitude, they can shift up to three steps up rather than just two. This racial trait replaces skilled.
+**Silver Tongued**: Human are often adept at subtle manipulation and putting even sworn foes at ease. Humans with this trait gain a +2 bonus on [Diplomacy](../../rules/skills/diplomacy.md) and [Bluff](../../rules/skills/bluff.md) checks. In addition, when they use Diplomacy to shift a creature’s attitude, they can shift up to three steps up rather than just two. This racial trait replaces skilled.
 
 ### Urban Alternate Racial Traits
 
-**One of the Multitude**: City-dwelling humans are skilled at blending in with the busy multitudes of the city. They gain a +1 racial bonus on Bluff, Diplomacy, Disguise, Sleight of Hand, and Stealth checks when within 10 feet of at least two other humanoids. They gain a +1 racial bonus on attacks of opportunity made while flanking. This racial trait replaces skilled.
+**One of the Multitude**: City-dwelling humans are skilled at blending in with the busy multitudes of the city. They gain a +1 racial bonus on Bluff, Diplomacy, [Disguise](../../rules/skills/disguise.md), Sleight of Hand, and Stealth checks when within 10 feet of at least two other humanoids. They gain a +1 racial bonus on attacks of opportunity made while flanking. This racial trait replaces skilled.
 
 ### Fey Heritage Alternate Racial Traits
 
 The following racial traits represent a fey ancestor in the family line. They can be selected instead of the indicated racial traits. Consult your GM before selecting any of these options.
 
-**Heart of the Fey**: Fey-touched humans enjoy senses and reactions superior to those of their kin. These humans receive low-light vision, gain a +1 racial bonus on Reflex and Will saves, and treat Knowledge (nature) and Perception as class skills. This racial trait replaces skilled.
+**Heart of the Fey**: Fey-touched humans enjoy senses and reactions superior to those of their kin. These humans receive low-light vision, gain a +1 racial bonus on Reflex and Will saves, and treat [Knowledge](../../rules/skills/knowledge.md) (nature) and Perception as class skills. This racial trait replaces skilled.
 
 **Imposter-Wary**: Humans trained to spot fey masquerading as their kin gain a +2 racial bonus on saving throws against illusion spells and effects, 1 free rank in Sense Motive at 1st level, and 1 additional rank in Sense Motive whenever they gain a level. This racial trait replaces skilled.
 
@@ -160,9 +160,9 @@ You can combine various alternate racial traits to create human subraces or vari
 
 Humans have access to the following equipment.
 
-**Training Harness**: This specialized gear must be tailored to a specific type of animal, using Table 6–8 of the *Core Rulebook*. A training harness provides a +2 bonus on Handle Animal checks made with an animal wearing it.
+**Training Harness**: This specialized gear must be tailored to a specific type of animal, using Table 6–8 of the *Core Rulebook*. A training harness provides a +2 bonus on [Handle Animal](../../rules/skills/handle-animal.md) checks made with an animal wearing it.
 
-**Whip, Training**: This short lash has a reach of only 10 feet, but is otherwise identical to a normal whip. The wielder gains a +2 circumstance bonus on Handle Animal checks to push a trained animal and on Intimidate checks made to demoralize any animal as long as the animal is within the whip’s reach. When using the whip to demoralize a trained animal, the wielder may choose to fascinate the animal rather than causing it to become shaken for the same duration as the shaken condition, but the fascinate effect ends if line of sight between the wielder and the animal is broken.
+**Whip, Training**: This short lash has a reach of only 10 feet, but is otherwise identical to a normal whip. The wielder gains a +2 circumstance bonus on Handle Animal checks to push a trained animal and on [Intimidate](../../rules/skills/intimidate.md) checks made to demoralize any animal as long as the animal is within the whip’s reach. When using the whip to demoralize a trained animal, the wielder may choose to fascinate the animal rather than causing it to become [shaken](../../rules/appendices/conditions.md#shaken) for the same duration as the shaken condition, but the fascinate effect ends if line of sight between the wielder and the animal is broken.
 
 | Item | Cost | Weight |
 |---|---|---|
@@ -216,7 +216,7 @@ Humans are known in the central sea for their drive and work ethic. Humans with 
 
 ### Innovative
 
-Humans have come to shape the face of the world because they are inveterate innovators. Humans with this racial trait gain a +2 racial bonus on Knowledge (arcana) and Spellcraft checks to independently research spells, create magic items they have never encountered before, and identify unique magical effects. They also gain a +2 racial bonus on Charisma-based skill checks to persuade others to adopt a new ideology or further the cause of discovery and progress. This racial trait replaces skilled.
+Humans have come to shape the face of the world because they are inveterate innovators. Humans with this racial trait gain a +2 racial bonus on Knowledge (arcana) and [Spellcraft](../../rules/skills/spellcraft.md) checks to independently research spells, create magic items they have never encountered before, and identify unique magical effects. They also gain a +2 racial bonus on Charisma-based skill checks to persuade others to adopt a new ideology or further the cause of discovery and progress. This racial trait replaces skilled.
 
 ### Institutional Memory
 
@@ -252,7 +252,7 @@ Humans from civilizations built upon advanced magic, such as the necromancer’s
 
 ### Wayfarer
 
-Humans maintain the largest trade networks on the world and the farthest-reaching civilizations, putting them in contact with a huge number of cultures. Humans with this racial trait gain a +2 racial bonus on Survival checks to avoid becoming lost, Knowledge (geography) checks, and Knowledge (local) checks. Whenever these humans gain a rank in Linguistics, they learn two languages rather than one. This racial trait replaces skilled.
+Humans maintain the largest trade networks on the world and the farthest-reaching civilizations, putting them in contact with a huge number of cultures. Humans with this racial trait gain a +2 racial bonus on Survival checks to avoid becoming lost, Knowledge (geography) checks, and Knowledge (local) checks. Whenever these humans gain a rank in [Linguistics](../../rules/skills/linguistics.md), they learn two languages rather than one. This racial trait replaces skilled.
 
 ## Favored Class Options
 

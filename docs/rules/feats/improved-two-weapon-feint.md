@@ -6,7 +6,7 @@ Your primary weapon keeps a foe off balance, allowing you to slip your off-hand 
 
 **Prerequisites**: Dex 17, [Improved Two-Weapon Fighting](improved-two-weapon-fighting.md), [Two-Weapon Feint](two-weapon-feint.md), [Two-Weapon Fighting](two-weapon-fighting.md), base attack bonus +6.
 
-**Benefit**: While using [Two-Weapon Fighting](two-weapon-fighting.md) to make melee attacks, you can forgo your first primary-hand melee attack to make a Bluff check to feint an opponent. If you successfully feint, that opponent is denied his Dexterity bonus to AC until the end of your turn.
+**Benefit**: While using [Two-Weapon Fighting](two-weapon-fighting.md) to make melee attacks, you can forgo your first primary-hand melee attack to make a [Bluff](../skills/bluff.md) check to feint an opponent. If you successfully feint, that opponent is denied his Dexterity bonus to AC until the end of your turn.
 
 ??? note "Original prerequisites"
 

@@ -8,4 +8,4 @@
 **Duration** 1 round/level (D)  
 **Saving Throw** Will negates; **Spell Resistance** no
 
-You can make a melee touch attack to send a pulse into the target, interfering with the magic that endows it with life. If the construct fails its saving throw, it becomes helpless for the duration of the spell.
+You can make a melee touch attack to send a pulse into the target, interfering with the magic that endows it with life. If the construct fails its saving throw, it becomes [helpless](../../rules/appendices/conditions.md#helpless) for the duration of the spell.

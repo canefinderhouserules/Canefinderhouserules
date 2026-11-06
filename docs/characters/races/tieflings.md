@@ -30,7 +30,7 @@ Tieflings seldom see another of their own kind, and thus they usually simply ado
 
 **Darkvision**: Tieflings see in the dark for up to 60 feet.
 
-**Skilled**: Tieflings gain a +2 racial bonus on Bluff and Stealth checks.
+**Skilled**: Tieflings gain a +2 racial bonus on [Bluff](../../rules/skills/bluff.md) and [Stealth](../../rules/skills/stealth.md) checks.
 
 **Spell-Like Ability**: Tieflings can use [*darkness*](../../magic/spells/darkness.md) once per day as a spell-like ability. The caster level for this ability equals the tiefling’s class level.
 
@@ -60,7 +60,7 @@ The following racial traits may be selected instead of existing tiefling racial 
 
 **Soul Seer**: Rare tieflings have a peculiar sight that allows them to see the state of a creature’s soul. They can use [*deathwatch*](../../magic/spells/deathwatch.md) at will as spell-like ability. This racial trait replaces the spell-like ability and fiendish sorcery racial traits.
 
-**Vestigial Wings**: Some tieflings possess a pair of undersized, withered, or stunted wings like a mockery of those of their fiendish forbearer. Sometimes these wings are leathery, like those of a bat. Other times they are covered with a scattering of black, red, or violet feathers. Rare manifestations can take even more bizarre forms. These wings do not provide the lift required for actual flight, but do have enough power to aid flight attained by some other method, and grant a +4 racial bonus on Fly skill checks. This racial trait replaces skilled.
+**Vestigial Wings**: Some tieflings possess a pair of undersized, withered, or stunted wings like a mockery of those of their fiendish forbearer. Sometimes these wings are leathery, like those of a bat. Other times they are covered with a scattering of black, red, or violet feathers. Rare manifestations can take even more bizarre forms. These wings do not provide the lift required for actual flight, but do have enough power to aid flight attained by some other method, and grant a +4 racial bonus on [Fly](../../rules/skills/fly.md) skill checks. This racial trait replaces skilled.
 
 ## Favored Class Options
 
@@ -72,7 +72,7 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 **Druid**: Add a +1 bonus on wild empathy checks made to improve the attitude of fiendish animals.
 
-**Inquisitor**: Add a +1/2 bonus on Intimidate checks and Knowledge checks to identify creatures.
+**Inquisitor**: Add a +1/2 bonus on [Intimidate](../../rules/skills/intimidate.md) checks and [Knowledge](../../rules/skills/knowledge.md) checks to identify creatures.
 
 **Magus**: Add +1/4 point to the magus’s arcane pool.
 
@@ -103,7 +103,7 @@ These archetypes are typically only taken by tieflings, but members of other rac
 
 Tieflings have access to the following equipment.
 
-**Fiendgore Unguent**: When this unguent—prepared with vile alchemical reagents and the gore of fiends—is applied to a wounded tiefling or evil outsider (not currently at maximum hit points), it momentarily transforms the essence of the target into something even more fearsome and demonic. While under the effects of a fiendgore unguent, a tiefling or an evil outsider gains a +2 circumstance bonus on Intimidate checks and a +1 circumstance bonus to the DC of all spells with the fear descriptor that they cast. Applying the unguent is a delicate process, requiring a full-round action, and can only be properly applied to a willing or helpless creature. If applied to a creature other than a tiefling or an evil outsider, it sickens the creature instead. The unguent’s effects (either beneficial or harmful) last for 1 minute.
+**Fiendgore Unguent**: When this unguent—prepared with vile alchemical reagents and the gore of fiends—is applied to a wounded tiefling or evil outsider (not currently at maximum hit points), it momentarily transforms the essence of the target into something even more fearsome and demonic. While under the effects of a fiendgore unguent, a tiefling or an evil outsider gains a +2 circumstance bonus on Intimidate checks and a +1 circumstance bonus to the DC of all spells with the fear descriptor that they cast. Applying the unguent is a delicate process, requiring a full-round action, and can only be properly applied to a willing or [helpless](../../rules/appendices/conditions.md#helpless) creature. If applied to a creature other than a tiefling or an evil outsider, it sickens the creature instead. The unguent’s effects (either beneficial or harmful) last for 1 minute.
 
 | Item | Cost | Weight | Craft DC |
 |---|---|---|---|
@@ -152,7 +152,7 @@ Lacking any sense of empathy or pity, faultspawn often abhor all ways of life bu
 
 **Ability Modifiers **+2 Dex, +2 Wis, –2 Int
 
-**Alternate Skill Modifiers **Appraise, Knowledge (local)
+**Alternate Skill Modifiers **[Appraise](../../rules/skills/appraise.md), Knowledge (local)
 
 **Alternate Spell-Like Ability **Faultspawn gain *hideous laughter *as a spell-like ability.
 
@@ -170,7 +170,7 @@ Dreary and pessimistic, grimspawn are so enthralled by death, disease, and dilap
 
 **Ability Modifiers **+2 Dex, +2 Int, –2 Wis
 
-**Alternate Skill Modifiers **Disable Device, Sleight of Hand
+**Alternate Skill Modifiers **[Disable Device](../../rules/skills/disable-device.md), Sleight of Hand
 
 **Alternate Spell-Like Ability **Grimspawn gain *death knell *as a spell-like ability.
 
@@ -210,7 +210,7 @@ While often rigid, stubborn, and highly focused on sticking to plans and schedul
 
 **Ability Modifiers **+2 Con, +2 Wis, –2 Cha
 
-**Alternate Skill Modifiers **Diplomacy, Sense Motive
+**Alternate Skill Modifiers **[Diplomacy](../../rules/skills/diplomacy.md), Sense Motive
 
 **Alternate Spell-Like Ability** Hellspawn gain *pyrotechnics *as a spell-like ability.
 
@@ -230,7 +230,7 @@ An innate sense of jealousy and pure malice drives spitespawn to spread misery a
 
 ### Kyton-Spawn (Shackleborn)
 
-Shackleborn are fascinated by mutilation and torture. Though they prefer to practice their cruel art on others, they accept that sometimes the wheel must turn and greet their own moments of anguish and confinement with an odd serenity.
+Shackleborn are [fascinated](../../rules/appendices/conditions.md#fascinated) by mutilation and torture. Though they prefer to practice their cruel art on others, they accept that sometimes the wheel must turn and greet their own moments of anguish and confinement with an odd serenity.
 
 **Ancestry **Kyton
 
@@ -238,7 +238,7 @@ Shackleborn are fascinated by mutilation and torture. Though they prefer to prac
 
 **Ability Modifiers** +2 Con, +2 Cha, –2 Wis
 
-**Alternate Skill Modifiers** Escape Artist, Intimidate
+**Alternate Skill Modifiers** [Escape Artist](../../rules/skills/escape-artist.md), Intimidate
 
 **Alternate Spell-Like Ability** Shackleborn gain *web *as a spell-like ability.
 
@@ -256,7 +256,7 @@ Endowed with brawny muscles and thick bones, hungerseed always seem poised to ex
 
 **Ability Modifiers **+2 Str, +2 Wis, –2 Cha
 
-**Alternate Skill Modifiers **Disguise, Intimidate
+**Alternate Skill Modifiers **[Disguise](../../rules/skills/disguise.md), Intimidate
 
 **Alternate Spell-Like Ability** Hungerseed gain *alter self *as a spell-like ability.
 

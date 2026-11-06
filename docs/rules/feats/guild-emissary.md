@@ -4,7 +4,7 @@ Not only are you associated with a powerful thieves’ guild or similar shadowy 
 
 **Prerequisites**: Leadership or [Underworld Connections](underworld-connections.md).
 
-**Benefit**: You can attempt a special character level check (1d20 + your Charisma modifier + your character level) in place of a Diplomacy check when attempting to gather information. You can ask local contacts to find information for you. While this still takes the normal amount of time (typically 1d4 hours), you can gather information about multiple topics at once (up to a maximum number of topics equal to 3 + your Charisma bonus).
+**Benefit**: You can attempt a special character level check (1d20 + your Charisma modifier + your character level) in place of a [Diplomacy](../skills/diplomacy.md) check when attempting to gather information. You can ask local contacts to find information for you. While this still takes the normal amount of time (typically 1d4 hours), you can gather information about multiple topics at once (up to a maximum number of topics equal to 3 + your Charisma bonus).
 
 Additionally, when you are in a settlement no smaller than a small city and are seeking a magic item with a value equal to or less than the city’s base value and the item is not available, you can check again after 1 day (rather than 1 week).
 

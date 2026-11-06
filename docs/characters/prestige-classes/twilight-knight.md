@@ -39,7 +39,7 @@ The twilight knight's class skills (and the key ability for each skill) are Acro
 
 The following are class features of the twilight knight prestige class.
 
-**Many Hats (Ex)**: As long as a twilight knight is within 60 feet of another character with ranks in Profession (architect, barrister, clerk, courtesan, driver, engineer, innkeeper, librarian, merchant, or scribe), the twilight knight can pick up cues and practices in performing that job, and can use her Sense Motive check in place of that particular Profession check.
+**Many Hats (Ex)**: As long as a twilight knight is within 60 feet of another character with ranks in [Profession](../../rules/skills/profession.md) (architect, barrister, clerk, courtesan, driver, engineer, innkeeper, librarian, merchant, or scribe), the twilight knight can pick up cues and practices in performing that job, and can use her [Sense Motive](../../rules/skills/sense-motive.md) check in place of that particular Profession check.
 
 **Sneak Attack**: This functions as the [rogue ability](../classes/rogue.md#sneak-attack) of the same name. The extra damage dealt is 1d6 at 1st level, and it increases by 1d6 every 3 levels thereafter. If a twilight knight gets a sneak attack bonus from another source, the bonuses to damage stack.
 
@@ -47,7 +47,7 @@ The following are class features of the twilight knight prestige class.
 
 **Resourceful Agent (Ex)**: At 2nd level, a twilight knight increases the amount of damage she deals with improvised weapons by one step (for example, 1d4 becomes 1d6). At 5th level, all improvised weapons used by a twilight knight have a base critical threat range of 19–20, and she gains [Critical Focus](../../rules/feats/critical-focus.md) as a bonus feat. At 9th level, a twilight knight gains [Staggering Critical](../../rules/feats/staggering-critical.md) as a bonus feat.
 
-**Eye for Detail (Ex)**: At 3rd level, when forging a document associated with any government, she automatically receives a +8 bonus on Linguistics checks to create a forgery (as though she had seen a similar document before).
+**Eye for Detail (Ex)**: At 3rd level, when forging a document associated with any government, she automatically receives a +8 bonus on [Linguistics](../../rules/skills/linguistics.md) checks to create a forgery (as though she had seen a similar document before).
 
 **Dead Drop (Ex)**: At 5th level, by spending an hour spreading around coin in any small town or larger settlement, the twilight knight gains the ability to access dead drops of equipment in the field. A twilight knight can pay any amount into her dead drop fund when she does so, but can never have more than a total of 100 gp per class level in her dead drop fund.
 
@@ -55,4 +55,4 @@ A dead drop functions as an emergency cache of gear that any agent of her order 
 
 At 8th level, it takes a twilight knight only 10 minutes to pay into her dead drop fund, it takes only 30 minutes to locate a dead drop in the wild, and her maximum dead drop fund increases to 2,500 gp. (This total does not increase when she gains additional levels.)
 
-**Unassuming Presence (Su)**: At 6th level, a twilight knight can attempt an opposed Bluff check as a swift action against each enemy creature within 30 feet. If she succeeds against every target, the twilight knight can immediately attempt a Stealth check as though she had concealment; she gains a bonus equal to her twilight knight class level on this Stealth check. She can use this ability up to three times per day.
+**Unassuming Presence (Su)**: At 6th level, a twilight knight can attempt an opposed [Bluff](../../rules/skills/bluff.md) check as a swift action against each enemy creature within 30 feet. If she succeeds against every target, the twilight knight can immediately attempt a [Stealth](../../rules/skills/stealth.md) check as though she had concealment; she gains a bonus equal to her twilight knight class level on this Stealth check. She can use this ability up to three times per day.

@@ -10,6 +10,6 @@
 
 Your targets see their surroundings as a nightmarish reflection of the world around them. Buildings and furnishings take on a dirty, ruined appearance. Even allies appear foreign and hostile, with friendly speech turning into garbled mockery and threats.
 
-Each target gains the scared condition and has a hostile attitude toward any new creature it encounters (though not toward creatures that were already present at the time of the casting). Being hostile doesn’t necessarily mean the target will attack, and creatures can attempt Diplomacy checks to gain a target’s trust at the normal DC. If a creature becomes frightened or panicked while under the influence of *dreadscape*, that creature takes 1d6 points of Wisdom damage, though only once per casting of *dreadscape*.
+Each target gains the scared condition and has a hostile attitude toward any new creature it encounters (though not toward creatures that were already present at the time of the casting). Being hostile doesn’t necessarily mean the target will attack, and creatures can attempt [Diplomacy](../../rules/skills/diplomacy.md) checks to gain a target’s trust at the normal DC. If a creature becomes [frightened](../../rules/appendices/conditions.md#frightened) or [panicked](../../rules/appendices/conditions.md#panicked) while under the influence of *dreadscape*, that creature takes 1d6 points of Wisdom damage, though only once per casting of *dreadscape*.
 
 If your campaign uses the sanity system, creatures that become frightened or panicked take 2d6 sanity damage instead of Wisdom damage.

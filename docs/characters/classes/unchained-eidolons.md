@@ -179,7 +179,7 @@ Summoned from heaven, archon eidolons are the embodiments of righteousness. They
 
 **Base Form**: Biped (limbs [arms], limbs [legs], slam).
 
-**Base Evolutions**: At 1st level, archon eidolons gain the resistance (electricity) evolution and the skilled (Intimidate) evolution. They also gain a +4 bonus on saving throws against poison.
+**Base Evolutions**: At 1st level, archon eidolons gain the resistance (electricity) evolution and the skilled ([Intimidate](../../rules/skills/intimidate.md)) evolution. They also gain a +4 bonus on saving throws against poison.
 
 At 4th level, archon eidolons add 1 point to their evolution pools.
 
@@ -199,7 +199,7 @@ While some resemble ouroboroses, most astral eidolons are spun from raw thought 
 
 **Base Evolutions**: At 1st level, astral eidolons gain immunity to aging as well as a +4 bonus on saving throws against curses, diseases, and poisons. A summoner's class level is halved for the purpose of determining the rate at which his astral eidolon's Strength and Dexterity increase.
 
-At 4th level, astral eidolons gain the ability to augment their masters' summoning abilities three times per day. To do so, the astral eidolon must ready an action to meld with a summoned creature. The summoner can use his *summon monster* spell-like ability or cast a *summon monster* spell while the astral eidolon is summoned and readied to activate this ability. The eidolon physically melds with one summoned creature as it appears, during which time the eidolon cannot be harmed or take actions of its own except to end the effect as a standard action. The eidolon must be adjacent to or share the space where the summoned creature will appear. The effect ends either when the spell ends, when the summoned creature is slain or dismissed, or when either the summoner or eidolon ends the effect as a standard action, after which the summoned creature disappears and the eidolon appears in the creature's space and is staggered until the beginning of the summoner's next turn. When melded with a summoned creature, the eidolon grants the summoned creature one or more evolutions the eidolon has (maximum 1 point worth of evolutions for every 3 Hit Dice the eidolon has) and a number of temporary hit points equal to 1d8 plus the eidolon's number of Hit Dice. The summoned creature must conform to any limitations of the evolution (for example, it must have wings in order to gain the wing buffet evolution). Furthermore, the summoned creature cannot gain more than one natural attack in this way, though it can replace the damage of its natural weapons with that dealt by the evolution, provided the natural weapons are similar. For effects dependent on Hit Dice, use the eidolon's Hit Dice.
+At 4th level, astral eidolons gain the ability to augment their masters' summoning abilities three times per day. To do so, the astral eidolon must ready an action to meld with a summoned creature. The summoner can use his *summon monster* spell-like ability or cast a *summon monster* spell while the astral eidolon is summoned and readied to activate this ability. The eidolon physically melds with one summoned creature as it appears, during which time the eidolon cannot be harmed or take actions of its own except to end the effect as a standard action. The eidolon must be adjacent to or share the space where the summoned creature will appear. The effect ends either when the spell ends, when the summoned creature is slain or dismissed, or when either the summoner or eidolon ends the effect as a standard action, after which the summoned creature disappears and the eidolon appears in the creature's space and is [staggered](../../rules/appendices/conditions.md#staggered) until the beginning of the summoner's next turn. When melded with a summoned creature, the eidolon grants the summoned creature one or more evolutions the eidolon has (maximum 1 point worth of evolutions for every 3 Hit Dice the eidolon has) and a number of temporary hit points equal to 1d8 plus the eidolon's number of Hit Dice. The summoned creature must conform to any limitations of the evolution (for example, it must have wings in order to gain the wing buffet evolution). Furthermore, the summoned creature cannot gain more than one natural attack in this way, though it can replace the damage of its natural weapons with that dealt by the evolution, provided the natural weapons are similar. For effects dependent on Hit Dice, use the eidolon's Hit Dice.
 
 At 8th level, astral eidolons gain the flight evolution (using magic) with a speed equal to their base speed.
 
@@ -271,11 +271,11 @@ Corruptors, tempters, and despoilers, devil eidolons often serve their summoners
 
 **Base Form**: Biped (claws, limbs [arms], limbs [legs]).
 
-**Base Evolutions**: Starting at 1st level, devil eidolons gain the resistance (fire) evolution and the skilled (Bluff) evolution. They also gain a +4 bonus on saving throws against poison.
+**Base Evolutions**: Starting at 1st level, devil eidolons gain the resistance (fire) evolution and the skilled ([Bluff](../../rules/skills/bluff.md)) evolution. They also gain a +4 bonus on saving throws against poison.
 
 At 4th level, devil eidolons gain acid resistance 10 and cold resistance 10.
 
-At 8th level, devil eidolons gain the skilled (Diplomacy) evolution and gain immunity to poison.
+At 8th level, devil eidolons gain the skilled ([Diplomacy](../../rules/skills/diplomacy.md)) evolution and gain immunity to poison.
 
 At 12th level, devil eidolons gain DR 5/good. They also gain see in darkness (see the devil subtype in the Bestiary).
 
@@ -413,7 +413,7 @@ At 8th level, radiant eidolons grow feathery wings, gaining the flight evolution
 
 At 12th level, radiant eidolons gain the fast healing evolution.
 
-At 16th level, radiant eidolons gain the ability to cast [*cure serious wounds*](../../magic/spells/cure-serious-wounds.md) three times per day. When a radiant eidolon's summoner dies or falls unconscious within 60 feet as a result of hit point loss, the eidolon can die as an immediate action to grant the summoner the benefits of [*breath of life*](../../magic/spells/breath-of-life.md). The caster level for both abilities equals the eidolon's Hit Dice.
+At 16th level, radiant eidolons gain the ability to cast [*cure serious wounds*](../../magic/spells/cure-serious-wounds.md) three times per day. When a radiant eidolon's summoner dies or falls [unconscious](../../rules/appendices/conditions.md#unconscious) within 60 feet as a result of hit point loss, the eidolon can die as an immediate action to grant the summoner the benefits of [*breath of life*](../../magic/spells/breath-of-life.md). The caster level for both abilities equals the eidolon's Hit Dice.
 
 At 20th level, radiant eidolons deal an additional 2 points of damage per die rolled against undead creatures when attacking with the energy attacks or breath weapon evolutions. Whenever radiant eidolons are subjected to a magical healing effect, the effect functions at its full potential, as if enhanced by [Maximize Spell](../../rules/feats/maximize-spell.md).
 
@@ -467,7 +467,7 @@ Just like a summoner, a twinned eidolon learns to use weapons and magic. While t
 
 **Base Form**: Biped (limbs [arms], limbs [legs]).
 
-**Base Evolutions**: A twinned eidolon gains the weapon training evolution. The twinned eidolon also gains the skilled (Disguise) evolution. The racial bonus provided by this evolution is doubled when the eidolon is impersonating the twinned summoner.
+**Base Evolutions**: A twinned eidolon gains the weapon training evolution. The twinned eidolon also gains the skilled ([Disguise](../../rules/skills/disguise.md)) evolution. The racial bonus provided by this evolution is doubled when the eidolon is impersonating the twinned summoner.
 
 At 4th level, a twinned eidolon can cast a summoner spell once per day as a spell-like ability. The spell must be one known by the eidolon's summoner and must be at least 1 level lower than the highest-level spell the summoner can cast. The eidolon must have a Charisma score of at least 10 + the spell level. The caster level for this spell-like ability is equal to the eidolon's Hit Dice minus 2. The save DC is 10 + half the eidolon's HD + the eidolon's Charisma modifier.
 
@@ -533,7 +533,7 @@ At 20th level, void eidolons can bestow up to 2 negative levels with a successfu
 
 Each eidolon has one of three base forms that determines its starting size, speed, AC, attacks, and ability scores. All natural attacks are made using the eidolon’s full base attack bonus unless otherwise noted (such as in the case of secondary attacks). An eidolon’s attacks add the eidolon’s Strength modifier to the damage rolls, unless the eidolon has only one attack, in which case the attack adds 1-1/2 times the eidolon’s Strength modifier.
 
-Alternatively, any one of these base forms can be used to make a Small eidolon. If the eidolon is Small, it gains a +2 bonus to Dexterity. It takes a –4 penalty to Strength and a –2 penalty to Constitution. It also has a +1 size bonus to AC and on attack rolls, a –1 penalty on combat maneuver checks and to CMD, a +2 bonus on Fly checks, and a +4 bonus on Stealth checks. Reduce the damage of all of its attacks by one step (for example, 1d6 becomes 1d4, and 1d4 becomes 1d3). If this choice is made, the eidolon can be made Medium whenever the summoner can change the eidolon’s evolution pool (which causes it to lose these modifiers for being Small). Likewise, a Medium eidolon can be made Small whenever the summoner can change the eidolon’s evolution pool.
+Alternatively, any one of these base forms can be used to make a Small eidolon. If the eidolon is Small, it gains a +2 bonus to Dexterity. It takes a –4 penalty to Strength and a –2 penalty to Constitution. It also has a +1 size bonus to AC and on attack rolls, a –1 penalty on combat maneuver checks and to CMD, a +2 bonus on [Fly](../../rules/skills/fly.md) checks, and a +4 bonus on [Stealth](../../rules/skills/stealth.md) checks. Reduce the damage of all of its attacks by one step (for example, 1d6 becomes 1d4, and 1d4 becomes 1d3). If this choice is made, the eidolon can be made Medium whenever the summoner can change the eidolon’s evolution pool (which causes it to lose these modifiers for being Small). Likewise, a Medium eidolon can be made Small whenever the summoner can change the eidolon’s evolution pool.
 
 **Biped Starting Statistics**: Size Medium; Speed 30 ft.; AC +2 natural armor; Saves Fort (good), Ref (poor), Will (good); Attack 2 claws (1d4); Ability Scores Str 16, Dex 12, Con 13, Int 7, Wis 10, Cha 11.
 
@@ -589,7 +589,7 @@ The following evolutions cost 1 point from the eidolon’s evolution pool.
 
 **Swim (Ex)**: The eidolon gains webbed hands, webbed feet, or powerful flippers, giving it a swim speed equal to its base speed. This evolution does not give the eidolon the ability to breathe underwater. This evolution can be selected more than once. Each additional time it is selected, increase the eidolon’s swim speed by 20 feet.
 
-**Tail (Ex)**: The eidolon grows a long, powerful tail. This grants it a +2 racial bonus on Acrobatics checks to balance on a surface. This evolution can be selected more than once. Requirements: Agathion, daemon, demon, devil, div, elemental, protean, or psychopomp subtype.
+**Tail (Ex)**: The eidolon grows a long, powerful tail. This grants it a +2 racial bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks to balance on a surface. This evolution can be selected more than once. Requirements: Agathion, daemon, demon, devil, div, elemental, protean, or psychopomp subtype.
 
 **Tail Slap (Ex)**: The eidolon can use its tail to bash nearby foes, granting it a tail slap attack. This attack is a secondary attack. The tail slap deals 1d6 points of damage (1d8 if Large, 2d6 if Huge). This evolution can be selected more than once, up to the number of tail evolutions the eidolon possesses.
 
@@ -647,7 +647,7 @@ The save DC is equal to 10 + 1/2 the eidolon’s Hit Dice + the eidolon’s Cons
 
 **Requirements**: Summoner level 7th.
 
-**Trip (Ex)**: The eidolon becomes adept at knocking foes to the ground with its bite, granting it a trip attack. Whenever the eidolon makes a successful bite attack, it can attempt a free combat maneuver check. If the eidolon succeeds at this check, the target is knocked prone. If the eidolon fails, it is not tripped in return. This ability works only on creatures of a size category equal to or smaller than the eidolon. Requirements: Daemon, demon, devil, elemental, or protean subtype; bite evolution.
+**Trip (Ex)**: The eidolon becomes adept at knocking foes to the ground with its bite, granting it a trip attack. Whenever the eidolon makes a successful bite attack, it can attempt a free combat maneuver check. If the eidolon succeeds at this check, the target is knocked [prone](../../rules/appendices/conditions.md#prone). If the eidolon fails, it is not tripped in return. This ability works only on creatures of a size category equal to or smaller than the eidolon. Requirements: Daemon, demon, devil, elemental, or protean subtype; bite evolution.
 
 **Weapon Training (Ex)**: The eidolon learns to use a weapon, gaining [Simple Weapon Proficiency](../../rules/feats/simple-weapon-proficiency.md) as a bonus feat. If 2 additional evolution points are spent, it gains proficiency with all [martial weapons](../../equipment/weapons-martial.md) as well.
 
@@ -655,7 +655,7 @@ The save DC is equal to 10 + 1/2 the eidolon’s Hit Dice + the eidolon’s Cons
 
 The following evolutions cost 3 points from the eidolon’s evolution pool.
 
-**Blindsense (Ex)**: The eidolon’s senses become incredibly acute, giving it blindsense with a range of 30 feet. This ability allows the eidolon to pinpoint the location of creatures that it can’t see without having to attempt a Perception check, but such creatures still have total concealment from the eidolon. Visibility still affects the eidolon’s movement, and it is still denied its Dexterity bonus to Armor Class against attacks from creatures it cannot see.
+**Blindsense (Ex)**: The eidolon’s senses become incredibly acute, giving it blindsense with a range of 30 feet. This ability allows the eidolon to pinpoint the location of creatures that it can’t see without having to attempt a [Perception](../../rules/skills/perception.md) check, but such creatures still have total concealment from the eidolon. Visibility still affects the eidolon’s movement, and it is still denied its Dexterity bonus to Armor Class against attacks from creatures it cannot see.
 
 **Requirements**: Summoner level 9th.
 
@@ -667,7 +667,7 @@ The following evolutions cost 3 points from the eidolon’s evolution pool.
 
 **Requirements**: Summoner level 15th, damage reduction granted by the eidolon’s subtype.
 
-**Frightful Presence (Ex)**: The eidolon becomes unsettling to its foes, gaining the frightful presence ability. The eidolon can activate this ability as part of an offensive action, such as a charge or attack. Opponents within 30 feet of the eidolon must succeed at a Will save or become shaken for 3d6 rounds. The DC of this save is equal to 10 + 1/2 the eidolon’s Hit Dice + the eidolon’s Charisma modifier. If the eidolon has at least 4 more Hit Dice than an opponent that fails this save, that opponent becomes frightened instead. Foes with more Hit Dice than the eidolon are immune to this effect.
+**Frightful Presence (Ex)**: The eidolon becomes unsettling to its foes, gaining the frightful presence ability. The eidolon can activate this ability as part of an offensive action, such as a charge or attack. Opponents within 30 feet of the eidolon must succeed at a Will save or become [shaken](../../rules/appendices/conditions.md#shaken) for 3d6 rounds. The DC of this save is equal to 10 + 1/2 the eidolon’s Hit Dice + the eidolon’s Charisma modifier. If the eidolon has at least 4 more Hit Dice than an opponent that fails this save, that opponent becomes [frightened](../../rules/appendices/conditions.md#frightened) instead. Foes with more Hit Dice than the eidolon are immune to this effect.
 
 **Requirements**: Summoner level 11th.
 
@@ -675,11 +675,11 @@ The following evolutions cost 3 points from the eidolon’s evolution pool.
 
 **Requirements**: Summoner level 7th, quadruped base form.
 
-**Swallow Whole (Ex)**: The eidolon gains the swallow whole ability, giving it the ability to consume its foes. If the eidolon begins its turn with a creature grappled using its bite attack (see the grab evolution), it can attempt a combat maneuver check to swallow the creature. The creature must be at least one size category smaller than the eidolon. Swallowed creatures take an amount of bludgeoning damage equal to the eidolon’s bite damage each round + 1d6 points of damage. A swallowed creature keeps the grappled condition, but can attempt to cut its way free with a light piercing or slashing weapon. The amount of damage needed to cut free is equal to 1/10 the eidolon’s total hit points. The eidolon’s AC against these attacks is equal to 10 + 1/2 its natural armor bonus. If a swallowed creature cuts its way out, the eidolon loses this ability until it heals this damage. Alternatively, the swallowed creature can attempt to escape the grapple as normal. Success indicates that it has returned to the eidolon’s mouth, where it can attempt to escape or can be swallowed again.
+**Swallow Whole (Ex)**: The eidolon gains the swallow whole ability, giving it the ability to consume its foes. If the eidolon begins its turn with a creature [grappled](../../rules/appendices/conditions.md#grappled) using its bite attack (see the grab evolution), it can attempt a combat maneuver check to swallow the creature. The creature must be at least one size category smaller than the eidolon. Swallowed creatures take an amount of bludgeoning damage equal to the eidolon’s bite damage each round + 1d6 points of damage. A swallowed creature keeps the grappled condition, but can attempt to cut its way free with a light piercing or slashing weapon. The amount of damage needed to cut free is equal to 1/10 the eidolon’s total hit points. The eidolon’s AC against these attacks is equal to 10 + 1/2 its natural armor bonus. If a swallowed creature cuts its way out, the eidolon loses this ability until it heals this damage. Alternatively, the swallowed creature can attempt to escape the grapple as normal. Success indicates that it has returned to the eidolon’s mouth, where it can attempt to escape or can be swallowed again.
 
 **Requirements**: Summoner level 9th; agathion, daemon, demon, devil, div, elemental, protean, or psychopomp subtype; grab (bite) evolution.
 
-**Web (Ex)**: The eidolon gains a pair of spinnerets, giving it the ability to spin webs. The eidolon can use these webs to support itself plus one creature of up to the same size. It can throw webbing as a ranged touch attack up to eight times per day, entangling a creature up to one size larger than the eidolon. The webbing has a range of 50 feet and a 10-foot range increment. Creatures entangled by the web can escape with a successful Escape Artist check, or with a Strength check at a –4 penalty. The DC of these checks is equal to 10 + 1/2 the eidolon’s Hit Dice + the eidolon’s Constitution modifier. The webs have a hardness of 0 and a number of hits points equal to the eidolon’s total Hit Dice. The eidolon can climb its own webs at its climb speed and can pinpoint the location of any creature touching its webs.
+**Web (Ex)**: The eidolon gains a pair of spinnerets, giving it the ability to spin webs. The eidolon can use these webs to support itself plus one creature of up to the same size. It can throw webbing as a ranged touch attack up to eight times per day, entangling a creature up to one size larger than the eidolon. The webbing has a range of 50 feet and a 10-foot range increment. Creatures [entangled](../../rules/appendices/conditions.md#entangled) by the web can escape with a successful [Escape Artist](../../rules/skills/escape-artist.md) check, or with a Strength check at a –4 penalty. The DC of these checks is equal to 10 + 1/2 the eidolon’s Hit Dice + the eidolon’s Constitution modifier. The webs have a hardness of 0 and a number of hits points equal to the eidolon’s total Hit Dice. The eidolon can climb its own webs at its climb speed and can pinpoint the location of any creature touching its webs.
 
 **Requirements**: Summoner level 7th; daemon, demon, or protean subtype; climb evolution.
 
@@ -726,7 +726,7 @@ Alien entities from the farthest stars, the lightless depths of the Underworld, 
 
 **Base Form**: Aberrant (bite, grab [tentacle mass], tentacle mass), biped (limbs [arms], limbs [legs], slam), quadruped (bite, limbs [legs, 2]), or serpentine (bite, grab [bite], reach [bite], tail, tail slap).
 
-**Base Evolutions**: Starting at 1st level, aberrant eidolons gain the following class skills in place of those normally gained by eidolons: Escape Artist, Intimidate, Knowledge (pick one), Perception, Stealth, and Climb, Fly, or Swim (pick one). The summoner can choose four additional skills to be class skills for his eidolon. Aberrant eidolons count as both aberrations and outsiders for spells and effects. They gain a +4 racial bonus on saving throws against mind-affecting effects.
+**Base Evolutions**: Starting at 1st level, aberrant eidolons gain the following class skills in place of those normally gained by eidolons: Escape Artist, Intimidate, [Knowledge](../../rules/skills/knowledge.md) (pick one), Perception, Stealth, and [Climb](../../rules/skills/climb.md), Fly, or [Swim](../../rules/skills/swim.md) (pick one). The summoner can choose four additional skills to be class skills for his eidolon. Aberrant eidolons count as both aberrations and outsiders for spells and effects. They gain a +4 racial bonus on saving throws against mind-affecting effects.
 
 - At 4th level, aberrant eidolons add 1 point to their evolution pools.
 - At 8th level, aberrant eidolons gain immunity to mind-affecting effects (including morale bonuses).
@@ -752,7 +752,7 @@ The following evolutions are used by aberrant eidolons and other strange eidolon
 
 #### 2-Point Evolutions
 
-**Blood Frenzy (Ex)**: When the eidolon is dealt damage, it enters a blood frenzy. It gains a +2 morale bonus on attack rolls and weapon damage rolls and attacks the nearest creature each round, friend or foe, although it ceases attacking its summoner after hitting once. The frenzy lasts for 5 rounds or until the eidolon can perceive no creatures. At the end of that time, the eidolon is fatigued for 1 minute. It cannot enter a blood frenzy while fatigued. *Requirements*: Aberrant, daemon, or demon subtype; summoner level 7th.
+**Blood Frenzy (Ex)**: When the eidolon is dealt damage, it enters a blood frenzy. It gains a +2 morale bonus on attack rolls and weapon damage rolls and attacks the nearest creature each round, friend or foe, although it ceases attacking its summoner after hitting once. The frenzy lasts for 5 rounds or until the eidolon can perceive no creatures. At the end of that time, the eidolon is [fatigued](../../rules/appendices/conditions.md#fatigued) for 1 minute. It cannot enter a blood frenzy while fatigued. *Requirements*: Aberrant, daemon, or demon subtype; summoner level 7th.
 
 **Intermediate Psychic Magic**: The eidolon gains 2 points of psychic energy that it can spend each day. Select one spell from the following list: [*compel hostility*](../../magic/spells/compel-hostility.md), *lesser confusion*, [*hypnotism*](../../magic/spells/hypnotism.md), *mind thrust I*, or [*vanish*](../../magic/spells/vanish.md). The eidolon can use that spell thereafter as a psychic spell by spending 1 point of psychic energy. The caster level and save DC are the same as for basic psychic magic. This evolution can be selected more than once, selecting a different spell each time. The eidolon's amount of psychic energy available to spend each day does not stack; it uses only the highest number of points granted by its most powerful psychic magic evolution. *Requirements*: Aberrant subtype; basic psychic magic evolution; Charisma 11; summoner level 5th.
 

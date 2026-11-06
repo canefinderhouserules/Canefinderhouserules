@@ -6,7 +6,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Against the Mage Guild**: Although the Black Sovereign rules the land of fallen technology in name, it’s the spellcasters of the mage guild who hold the real power. While their influence is certainly strongest in the capital of Mage-Capital, their touch can be felt even here in a mining town—the League takes a significant cut of the town’s income as tithes every month. For some reason, you have a grudge against the mage guild. Perhaps your parents lost their jobs as the result of an act they took that displeased the League—you might even suspect the League was responsible for their deaths. Alternatively, you could just rankle at the League’s open acceptance of slavery, their reputation for sadism and cruelty, or their penchant for hoarding and controlling technological wonders. Talk to your GM to refine the reasons why you hate the mage guild, but you’re convinced that they are somehow responsible for putting out the town’s torch and that evidence of their tampering can be found in the caverns below—if you can find evidence of the mage guild working against a mining town’s better interests, that could well be a step toward the town’s independence from the League. Choose either weapons or spells. If you choose weapons, you gain a +2 trait bonus on all damage rolls made against targets you know are associated with the mage guild. If you choose spells, increase the save DC of your spells by 1 when you target such a foe.
 
-**Alabaster Outcast**: You are a member of one of the city of monuments’s wealthiest families… or rather, you used to be. A falling-out left you disowned and disinherited. Now you hope to get away from the city and find fortune enough to shame your former kinsfolk—goals which led you to the explorers’ society. Despite your exile, your name still carries considerable weight in the city of monuments, and you gain a +1 trait bonus on Diplomacy and Intimidate checks made within the city. Additionally, you start play with a noble’s outfit, a signet ring, and a single additional nonmagical item worth no more than 200 gp. You come from one of the great noble families of your city.
+**Alabaster Outcast**: You are a member of one of the city of monuments’s wealthiest families… or rather, you used to be. A falling-out left you disowned and disinherited. Now you hope to get away from the city and find fortune enough to shame your former kinsfolk—goals which led you to the explorers’ society. Despite your exile, your name still carries considerable weight in the city of monuments, and you gain a +1 trait bonus on [Diplomacy](../../rules/skills/diplomacy.md) and [Intimidate](../../rules/skills/intimidate.md) checks made within the city. Additionally, you start play with a noble’s outfit, a signet ring, and a single additional nonmagical item worth no more than 200 gp. You come from one of the great noble families of your city.
 
 **Fallen-technology Archaeologist**: the land of fallen technology is a land ripe for archaeological exploration, since so many of the strange technological dungeons have been either avoided by the superstitious barbarian tribes or have been locked down by the mage guild, leaving many of them untouched and ripe for exploration. You’ve studied the strange language associated with these eerie technological ruins, and are eager to start exploring them—you suspect that a mining town’s namesake is in fact part of a larger buried ruin, and you hope to enter these ruins and learn their original purpose by exploring the caves below town. You gain an alien tongue as an additional language. In addition, you possess a knack for technological items; when you use a timeworn technological item, roll twice when determining any glitches the item might cause and choose which result to use as your actual result. Talk to your GM for more information about resolving glitches.
 
@@ -34,23 +34,23 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **A Sure Thing**: Once per day, you gain a +2 bonus on a single attack roll against an evil-aligned creature. If the creature is not evil-aligned, this ability is wasted with no benefit.
 
-**Ancient Historian**: You are well acquainted with the lore of fallen empires. Choose either Knowledge (history) or Linguistics. That skill becomes a class skill for you, and you begin play able to speak and read one of the following languages: Ancient the desert tongue, drowned imperial, Cyclops, ancient golem-empire, an ancient league tongue, or ancient imperial.
+**Ancient Historian**: You are well acquainted with the lore of fallen empires. Choose either [Knowledge](../../rules/skills/knowledge.md) (history) or [Linguistics](../../rules/skills/linguistics.md). That skill becomes a class skill for you, and you begin play able to speak and read one of the following languages: Ancient the desert tongue, drowned imperial, Cyclops, ancient golem-empire, an ancient league tongue, or ancient imperial.
 
 **Attuned to the Ancestors**: You were raised to believe that undead are nothing to fear—they are simply the unliving remnants of your honored ancestors. Once per day, you can surround yourself with an aura of unlife. Unintelligent undead ignore you unless you take action against them, per hide from undead. The protection lasts 1 round for every two character levels you possess (with a minimum of 1 round). If you take any offensive action against any undead, this effect immediately ends. This is a supernatural ability.
 
 **Beneficent Touch**: Once per day, when you cast a spell or use a class ability that heals hit point damage, reroll any 1s that appear on the dice and take the new roll (even if it is another 1).
 
-**Captain’s Blade**: You were born on board a ship and learned to fight beside the sailing men and women of the free republic fleet. While on board any vessel afloat on water, you gain a +1 trait bonus on Acrobatics and Climb checks. One of these skills (your choice) becomes a class skill for you.
+**Captain’s Blade**: You were born on board a ship and learned to fight beside the sailing men and women of the free republic fleet. While on board any vessel afloat on water, you gain a +1 trait bonus on [Acrobatics](../../rules/skills/acrobatics.md) and [Climb](../../rules/skills/climb.md) checks. One of these skills (your choice) becomes a class skill for you.
 
 **Comparative Religion**: Your allies within the crusading faction have taught you a lot about the world’s deities and their followers. You gain a +1 trait bonus on Knowledge (religion) checks, and Knowledge (religion) becomes a class skill for you.
 
 **Expert Duelist**: In your youth, you spent countless hours perfecting the art of the duel, focusing your efforts on defeating a single foe. You gain a +1 trait bonus to your Armor Class so long as you are adjacent to a single foe. This trait bonus is not applied to your Armor Class for touch attacks or when you are denied your Dexterity bonus.
 
-**Gold Finger**: Your family comes from a long, proud tradition of housebreaking and thievery. You are a strong part of that tradition. You gain a +1 trait bonus on Disable Device and Sleight of Hand checks, and one of these skills (your choice) becomes a class skill for you.
+**Gold Finger**: Your family comes from a long, proud tradition of housebreaking and thievery. You are a strong part of that tradition. You gain a +1 trait bonus on [Disable Device](../../rules/skills/disable-device.md) and [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks, and one of these skills (your choice) becomes a class skill for you.
 
 **Greasy Palm**: You know how to get people to do what you want with little effort. When bribing an NPC, you pay 10% less than a character without this trait would, garnering the same results.
 
-**Impressive Presence**: Your grandiose posturing often makes it difficult for anyone to concentrate around you. Once per day as a full-round action, you may attempt to distract adjacent foes with a lengthy display of your martial prowess. All adjacent foes must succeed at a Will save (DC 10 + 1/2 your level + your Charisma modifier) or gain the shaken condition. This condition persists for 1 round.
+**Impressive Presence**: Your grandiose posturing often makes it difficult for anyone to concentrate around you. Once per day as a full-round action, you may attempt to distract adjacent foes with a lengthy display of your martial prowess. All adjacent foes must succeed at a Will save (DC 10 + 1/2 your level + your Charisma modifier) or gain the [shaken](../../rules/appendices/conditions.md#shaken) condition. This condition persists for 1 round.
 
 **Insider Knowledge**: A ranking explorer likes to keep abreast of situations within the explorers’ society, and you do your best to emulate him. Choose either Diplomacy or Knowledge (local). You gain a +1 trait bonus on all checks for the chosen skill, and the chosen skill becomes a class skill for you.
 
@@ -58,7 +58,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Reverent Wielder**: Some of the most powerful weapons are priceless and ancient, and you are vigilant in protecting your equipment as much as you protect yourself. You gain a +1 trait bonus to CMD against disarm, steal, and sunder combat maneuvers, and your equipment gains a +1 trait bonus on all saving throws.
 
-**Rousing Oratory**: You are particularly adept at expressing your beliefs in a way that resonates with others. Perform (act, comedy, oratory, or sing) becomes a class skill for you. Once per day you can spend 1 minute addressing and inspiring your allies within 60 feet, after which you can attempt a DC 15 Perform (act, comedy, oratory, or sing) check. If you succeed, your allies gain a +1 trait bonus on saving throws against fear effects for 5 minutes. If you exceed the check DC by 10 or more, increase the bonus by 1.
+**Rousing Oratory**: You are particularly adept at expressing your beliefs in a way that resonates with others. Perform (act, comedy, oratory, or sing) becomes a class skill for you. Once per day you can spend 1 minute addressing and inspiring your allies within 60 feet, after which you can attempt a DC 15 [Perform](../../rules/skills/perform.md) (act, comedy, oratory, or sing) check. If you succeed, your allies gain a +1 trait bonus on saving throws against fear effects for 5 minutes. If you exceed the check DC by 10 or more, increase the bonus by 1.
 
 **Soul Drinker**: There is a dark hunger in you that rejoices when you or an ally slays a foe. Once per day when an enemy creature is killed, you may, as an immediate action, gain a number of temporary hit points equal to the slain foe’s Hit Dice. These temporary hit points last for 1 minute. This is a supernatural ability.
 
@@ -66,7 +66,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Unorthodox Strategy**: You are particularly quick on your feet, and gain a +2 trait bonus on Acrobatics checks made to move through an enemy’s threatened squares.
 
-**Whistleblower**: You are wise to the schemes of liars, thieves, and cheats, granting you a +1 bonus on Sense Motive checks, and that skill becomes a class skill for you.
+**Whistleblower**: You are wise to the schemes of liars, thieves, and cheats, granting you a +1 bonus on [Sense Motive](../../rules/skills/sense-motive.md) checks, and that skill becomes a class skill for you.
 
 ## Faith
 
@@ -84,7 +84,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Hex-Proof**: You’ve dealt too often with cruel fey magic, and so gain a +2 bonus on Will saves against hexes and fey creatures’ spells and spell-like abilities.
 
-**House of Green Mothers Pupil**: You studied at a jungle druid city’s center for druidic magic long enough to begin bonding with a familiar. You gain a +1 trait bonus on Handle Animal checks. You may substitute this trait for [Iron Will](../../rules/feats/iron-will.md) as the prerequisite for the [Familiar Bond](../../rules/feats/familiar-bond.md) feat.
+**House of Green Mothers Pupil**: You studied at a jungle druid city’s center for druidic magic long enough to begin bonding with a familiar. You gain a +1 trait bonus on [Handle Animal](../../rules/skills/handle-animal.md) checks. You may substitute this trait for [Iron Will](../../rules/feats/iron-will.md) as the prerequisite for the [Familiar Bond](../../rules/feats/familiar-bond.md) feat.
 
 ## Mount
 
@@ -108,7 +108,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Canopy Shooter** (*Grippli*): Growing up in a dangerous jungle, you learned to take advantage of your mobility relative to larger predators and elusive prey. You gain a +1 trait bonus on ranged weapon damage rolls when you are on higher ground than your target and are within 30 feet.
 
-**Carrying Voice** (*Sylph*): You grew up amid powerful storms and mimicked the rolling thunder with your voice. Treat your caster level as 2 higher to determine the range of sonic spells and effects. Others do not suffer a penalty on Perception checks to hear your voice due to wind.
+**Carrying Voice** (*Sylph*): You grew up amid powerful storms and mimicked the rolling thunder with your voice. Treat your caster level as 2 higher to determine the range of sonic spells and effects. Others do not suffer a penalty on [Perception](../../rules/skills/perception.md) checks to hear your voice due to wind.
 
 **Celestial Community** (*Aasimar*): Having been raised among other aasimars, you have a stronger connection to your planar heritage than most of your kind, and have more thoroughly explored your magical talent. You may expend your once per day spell-like ability to spontaneously cast [*cure light wounds*](../../magic/spells/cure-light-wounds.md) (CL equal to your character level), but doing so is draining and you take an amount of nonlethal damage equal to half the number of hit points you heal.
 
@@ -126,7 +126,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Enduring Spellcraft** (*Human—drowned imperial*): You have studied the enduring spells of ancient the drowned empire. Treat your caster level as 1 higher for the purpose of determining duration only.
 
-**Experimental Escapee** (*Android*): You escaped an organization interested in finding out how your body works. You gain a +2 trait bonus on Escape Artist and Strength checks to break free of bonds, grapples, and the like.
+**Experimental Escapee** (*Android*): You escaped an organization interested in finding out how your body works. You gain a +2 trait bonus on [Escape Artist](../../rules/skills/escape-artist.md) and Strength checks to break free of bonds, grapples, and the like.
 
 **Experimental Rebel** (*Half-Elf*): Your elven relatives were cold to you and you took to rebelling simply to get attention. You gain a +2 trait bonus on saving throws against spells and abilities created by elves.
 
@@ -136,19 +136,19 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Fleshwarp Exposure** (*Drow*): Your body responds strongly to transmutations because you were exposed to fleshwarping magic. You gain a +1 trait bonus on saving throws against transmutation spells and effects. Transmutations you willingly accept affect you as though they were cast at 1 caster level higher for the purpose of determining duration.
 
-**Flower Contact** (*Halfling*): Before you were old enough to be a Flower Network member, you kept an ear out for information useful to slave liberators. You gain a +1 trait bonus on Perception checks, Sense Motive checks to understand secret messages, and Bluff checks to send secret messages.
+**Flower Contact** (*Halfling*): Before you were old enough to be a Flower Network member, you kept an ear out for information useful to slave liberators. You gain a +1 trait bonus on Perception checks, Sense Motive checks to understand secret messages, and [Bluff](../../rules/skills/bluff.md) checks to send secret messages.
 
 **Genie Heir** (*Geniekin*): You once met one of your genie ancestors, who taught you the ways of her race and their allies. You gain a +2 trait bonus on Charisma checks and Charisma-based skill checks to influence outsiders from the home plane of your genie ancestor.
 
 **Goblin Bravery** (*Goblin*): You have a worrying propensity for overconfidence in combat. When facing an enemy that’s larger than you, if you have no allies in any adjacent squares, your posturing, bravado, and cussing grant a +1 trait bonus on attack rolls with non-reach melee weapons.
 
-**Green Planet Gatekeeper** (*Lashunta*): You helped maintain the interplanetary portals used for trade with other worlds. You gain a +2 trait bonus on Spellcraft checks to identify teleportation magic and a +1 trait bonus on caster level checks when casting teleportation spells. You know the proper commands to operate a particular interplanetary portal (it is up to the GM as to where it is and how it operates).
+**Green Planet Gatekeeper** (*Lashunta*): You helped maintain the interplanetary portals used for trade with other worlds. You gain a +2 trait bonus on [Spellcraft](../../rules/skills/spellcraft.md) checks to identify teleportation magic and a +1 trait bonus on caster level checks when casting teleportation spells. You know the proper commands to operate a particular interplanetary portal (it is up to the GM as to where it is and how it operates).
 
 **Gruff Watcher** (*Human—northern*): Having grown up among headstrong sailors and bloodthirsty raiders, you learned to keep quiet and pay attention. You gain a +1 trait bonus on initiative checks and Perception checks.
 
-**Gunworker** (*Dwarf*): You lived among the dwarven alchemists who work with firearm technology in a great dwarven hold. You gain a +2 trait bonus on Craft checks involving firearms, explosives, and alchemical weapons that deal fire damage.
+**Gunworker** (*Dwarf*): You lived among the dwarven alchemists who work with firearm technology in a great dwarven hold. You gain a +2 trait bonus on [Craft](../../rules/skills/craft.md) checks involving firearms, explosives, and alchemical weapons that deal fire damage.
 
-**Highland Tribal Spirit-singer** (*Human—Slaver Tribe or highland tribal Clan*): The spirit voices of your ancestors sing to you of the world around you. Once per day, you can act in the surprise round even if you aren’t aware of your attackers; you can use this action only to start a bardic song or raging song, and you’re still considered flat-footed until you act in the first normal round of combat.
+**Highland Tribal Spirit-singer** (*Human—Slaver Tribe or highland tribal Clan*): The spirit voices of your ancestors sing to you of the world around you. Once per day, you can act in the surprise round even if you aren’t aware of your attackers; you can use this action only to start a bardic song or raging song, and you’re still considered [flat-footed](../../rules/appendices/conditions.md#flat-footed) until you act in the first normal round of combat.
 
 **Highland Tribal Tattoo** (*Human—highland tribal*): Upon reaching adulthood, you received a tribal tattoo, marking you with the symbols of your quah and totem spirits (see the inside back cover for suggestions and designs for highland tribal tattoos). You gain a +1 trait bonus on saving throws against fear effects. Additionally, you are proficient with earth breakers, klars, and highland tribal bolas.
 
@@ -166,7 +166,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Kami Respect** (*Kitsune*): Close contact with kami has given you an intuition for how to stay on their good side. Kami automatically have a starting attitude one step friendlier toward you, to a maximum of Friendly.
 
-**Loner of the Rocks** (*Oread*): Feeling harried by flighty non-oreads, you chose to embrace the life of a hermit with few contacts beyond your rocky home. You gain a +1 trait bonus on Heal and Survival checks. Your bonus on Survival checks increases by 1 in underground or mountain environments.
+**Loner of the Rocks** (*Oread*): Feeling harried by flighty non-oreads, you chose to embrace the life of a hermit with few contacts beyond your rocky home. You gain a +1 trait bonus on [Heal](../../rules/skills/heal.md) and [Survival](../../rules/skills/survival.md) checks. Your bonus on Survival checks increases by 1 in underground or mountain environments.
 
 **Magic Survivor** (*Trox*): You fought off devious magic in order to escape duergar captors. Choose two of Fortitude, Reflex, or Will saves. You gain a +1 trait bonus on saves of the types you chose against spells and spell-like abilities, and you take a –1 penalty on all saves of the remaining type.
 
@@ -182,13 +182,13 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Nagaji Nationalist** (*Nagaji*): Your loyalty to the nagaji nation of their homeland is powerful. You gain a +1 trait bonus on attack rolls and saving throws against foes that directly threaten the safety of their homeland.
 
-**Nearly Blinded** (*Human—eastern*): After a close call with snow blindness on the Crown of the World or the scouring winds of the eastern steppe, you honed your instincts to protect your eyes. You gain a +2 trait bonus on saving throws to avoid being blinded or dazzled.
+**Nearly Blinded** (*Human—eastern*): After a close call with snow blindness on the Crown of the World or the scouring winds of the eastern steppe, you honed your instincts to protect your eyes. You gain a +2 trait bonus on saving throws to avoid being [blinded](../../rules/appendices/conditions.md#blinded) or [dazzled](../../rules/appendices/conditions.md#dazzled).
 
 **Obsessed with Success** (*Human—infernal imperial*): An infernal imperial without a visible degree of success is marked as pathetic, and so you grew up careful not to let failure stick. Once per day, when you re-attempt a skill check you have previously failed within the last minute, you can add a +4 trait bonus to that check.
 
 **Oral Historian** (*Human—highland tribal*): You learned numerous mnemonic devices to more easily recall information imparted by your quah’s master storyteller. You gain a +1 trait bonus on Knowledge (history) and Perform (oratory) checks, and one of those skills (your choice) is always a class skill for you.
 
-**Persecuted Expatriate** (*Tiefling*): You were born in a nation that persecuted you for your heritage. Although you were under terrible duress, you escaped either with the aid of family or by your own cunning. You gain a +1 bonus on one skill depending on your fiendish heritage: asura (Knowledge [local]), daemon (Sleight of Hand), demodand (Intimidate), demon (Perception), devil (Sense Motive), div (Diplomacy), kyton (Escape Artist), oni (Disguise), qlippoth (Survival), or rakshasa (Sense Motive). That skill is always a class skill for you.
+**Persecuted Expatriate** (*Tiefling*): You were born in a nation that persecuted you for your heritage. Although you were under terrible duress, you escaped either with the aid of family or by your own cunning. You gain a +1 bonus on one skill depending on your fiendish heritage: asura (Knowledge [local]), daemon (Sleight of Hand), demodand (Intimidate), demon (Perception), devil (Sense Motive), div (Diplomacy), kyton (Escape Artist), oni ([Disguise](../../rules/skills/disguise.md)), qlippoth (Survival), or rakshasa (Sense Motive). That skill is always a class skill for you.
 
 **Plague Survivor** (*Human*): You survived an encounter with disease in a slum or contagion-prone area. You gain a +2 trait bonus on Fortitude saving throws against diseases and on Constitution checks to stabilize while dying.
 
@@ -200,9 +200,9 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Ratfolk Avenger** (*Ratfolk*): You protect your own. You gain a +1 trait bonus on weapon damage rolls against opponents you have witnessed dealing damage to one of your allies.
 
-**Resilient Construction** (*Wyrwood*): You spent a great deal of time around magical workshops, and the power of magic sustains you. Once per day, if you would be reduced to 0 or fewer hit points while under the effects of an ongoing spell you cast with a range of personal, you are not destroyed by the attack, but instead become inactive and helpless for 1 round, at negative hit points. If you take damage again during that time, or if you are still below 0 hit points at the end of that round, you are destroyed.
+**Resilient Construction** (*Wyrwood*): You spent a great deal of time around magical workshops, and the power of magic sustains you. Once per day, if you would be reduced to 0 or fewer hit points while under the effects of an ongoing spell you cast with a range of personal, you are not destroyed by the attack, but instead become inactive and [helpless](../../rules/appendices/conditions.md#helpless) for 1 round, at negative hit points. If you take damage again during that time, or if you are still below 0 hit points at the end of that round, you are destroyed.
 
-**River Trader** (*Human—southern jungle*): You have learned to ply the rivers and the markets with equal ease. You gain a +1 bonus on Appraise and Swim checks, and one of these skills (your choice) is always a class skill for you.
+**River Trader** (*Human—southern jungle*): You have learned to ply the rivers and the markets with equal ease. You gain a +1 bonus on [Appraise](../../rules/skills/appraise.md) and [Swim](../../rules/skills/swim.md) checks, and one of these skills (your choice) is always a class skill for you.
 
 **Scheming Survivor** (*Drow*): You survived a close relative’s betrayal only through quick wits and a strong stomach. You gain a +1 trait bonus on Sense Motive checks and on saving throws against poison.
 
@@ -216,7 +216,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Slaver Slave Maestro** (*Human—Slaver Tribe or highland tribal Clan*): You spent years using your magic to bend the will of captured slaves to suit your whims. You gain a +2 trait bonus on Diplomacy and Intimidate checks against anyone you have held captive for at least 24 hours.
 
-**Tattooed Focus** (*Human—wandering nomad*): You possess an intricate tattoo that proclaims your skill at your chosen vocation. Choose a Craft, Perform, or Profession skill. You gain a +2 trait bonus on checks with that skill, and it is always a class skill for you.
+**Tattooed Focus** (*Human—wandering nomad*): You possess an intricate tattoo that proclaims your skill at your chosen vocation. Choose a Craft, Perform, or [Profession](../../rules/skills/profession.md) skill. You gain a +2 trait bonus on checks with that skill, and it is always a class skill for you.
 
 **Tempestuous Combatant** (*Human—eastern imperial*): You move confidently in the face of danger. Once per day as a swift action, you can choose one opponent. You and your mount (if any) do not provoke attacks of opportunity from that opponent for moving within or exiting his threatened area.
 
@@ -226,13 +226,13 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Walls of Half-Truths** (*Samsaran*): As soon as you made contact with other samsarans, they encouraged your talent for magic that befuddles foes. Treat your caster level as 1 higher for the purpose of determining duration of your figment and glamer spells.
 
-**Water Lurker** (*Wayang*): You grew up in a secretive community by the water, perhaps among the rivers of eastern rivers or the islands of distant isles. You gain a +1 trait bonus on Swim checks and a +2 bonus on Stealth checks on watercraft and when at least half-submerged in water.
+**Water Lurker** (*Wayang*): You grew up in a secretive community by the water, perhaps among the rivers of eastern rivers or the islands of distant isles. You gain a +1 trait bonus on Swim checks and a +2 bonus on [Stealth](../../rules/skills/stealth.md) checks on watercraft and when at least half-submerged in water.
 
 **Water Shaping** (*Undine*): Your tight-knit undine community helped you practice your water magic safely. Whenever you cast a spell or use a spell-like ability that has the cold or water descriptor and affects an area, you can choose one square within the area. The spell or spell-like ability does not affect that square or creatures in it.
 
 **Weathered Patience** (*Human—northern barbarian*): You had to learn to control your attention to survive in the wilds. Once per day, when you ready an action to make a ranged or melee weapon attack, you can add a +4 trait bonus on the attack.
 
-**Winged Aloofness** (*Syrinx*): You learned from your syrinx elders that your race is better than non-winged races and you take care to keep above them physically as well. You gain a +2 trait bonus on Fly checks. This bonus increases to +4 on checks to avoid losing altitude when damaged.
+**Winged Aloofness** (*Syrinx*): You learned from your syrinx elders that your race is better than non-winged races and you take care to keep above them physically as well. You gain a +2 trait bonus on [Fly](../../rules/skills/fly.md) checks. This bonus increases to +4 on checks to avoid losing altitude when damaged.
 
 **Winter-witch Scion** (*Human—winter-witch*): You come from a family that commands respect. You gain a +1 trait bonus on Intimidate checks, and Intimidate is always a class skill for you. In addition, you gain a +1 trait bonus on Knowledge (nobility) checks related to the winter realm aristocracy.
 
@@ -270,7 +270,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Divine Deceiver** (*False-God*): You are trained in the methods of the false god’s realm’s priesthood, and can use your arcana to fuel minor healing powers. Once per day as a full-round action, you can sacrifice a prepared arcane spell or spell slot to manifest healing magic. This acts as [*cure light wounds*](../../magic/spells/cure-light-wounds.md), except you heal 1d6 points of damage per level of the spell or spell slot sacrificed (maximum 5d6) and the hit points healed are temporary (lasting 1 hour).
 
-**Drowned Imperial Scholar** (*Ironbound Archipelago, non-elf*): Your interactions with the elves of the sea-spire have taught you much about drowned imperial artifacts, and you now share the sea-spire elves’ fascination with these relics. You gain drowned imperial as a bonus language, and you gain a +2 trait bonus on Appraise and Use Magic Device checks when attempting to identify or use authentic drowned imperial artifacts.
+**Drowned Imperial Scholar** (*Ironbound Archipelago, non-elf*): Your interactions with the elves of the sea-spire have taught you much about drowned imperial artifacts, and you now share the sea-spire elves’ fascination with these relics. You gain drowned imperial as a bonus language, and you gain a +2 trait bonus on Appraise and [Use Magic Device](../../rules/skills/use-magic-device.md) checks when attempting to identify or use authentic drowned imperial artifacts.
 
 **Drowned-Town Diver** (*The drowned lands*): You know how to operate the diving bells of a drowned town at the mouth of the Black Flow. You’ve dived the streets of a sunken land yourself, and you know what to expect. You gain a +1 trait bonus on Swim checks, and Swim is always a class skill for you.
 
@@ -414,7 +414,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Red Silk Frankness**: You learned from the Forthright Men, the Coins’ peace-keeping thieves’ guild, to use candor to avoid trouble. You gain a +5 trait bonus on Diplomacy checks to convince others to overlook offensive or illegal acts. Diplomacy is always a class skill for you.
 
-**Unabashed Gall**: Your total indifference to the law even as you’re breaking it is such that those watching you are stunned. Whenever you commit an unexpected and outrageously unlawful act (such as knowingly destroying or stealing something) that would elicit a hostile response from another creature, you may attempt a Bluff check opposed by the opponent’s Sense Motive check. If you’re successful, you and any allies who were willfully expecting your unlawful deed may act in a surprise round. For each ally willfully expecting your unlawful deed, you take a cumulative –2 penalty on your Bluff check. If your Bluff check fails, there is no surprise round. Regardless of whether your Bluff check succeeds, you and any allies willfully taking advantage of your unlawful deed treat your initiative checks for the duration of combat as though you had each rolled a 1.
+**Unabashed Gall**: Your total indifference to the law even as you’re breaking it is such that those watching you are [stunned](../../rules/appendices/conditions.md#stunned). Whenever you commit an unexpected and outrageously unlawful act (such as knowingly destroying or stealing something) that would elicit a hostile response from another creature, you may attempt a Bluff check opposed by the opponent’s Sense Motive check. If you’re successful, you and any allies who were willfully expecting your unlawful deed may act in a surprise round. For each ally willfully expecting your unlawful deed, you take a cumulative –2 penalty on your Bluff check. If your Bluff check fails, there is no surprise round. Regardless of whether your Bluff check succeeds, you and any allies willfully taking advantage of your unlawful deed treat your initiative checks for the duration of combat as though you had each rolled a 1.
 
 **Underworld Scholar**: Unsatisfied with mere stories, you have spent years researching journals and firsthand accounts of those who explored the underworld before you. You gain a +2 trait bonus on Knowledge checks to identify the weaknesses of underworld creatures.
 
@@ -442,7 +442,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **The Patriarch**: Like the father of the Cosmic Caravan, you have an innate sense of direction. Three times per day, you can use [*know direction*](../../magic/spells/know-direction.md) as a spell-like ability, treating your character level as your caster level.
 
-**The Rider**: You are born under the auspice of the mounted caravan guard, whose very presence deters danger. Once per day, when you succeed at a Ride check, you can attempt an immediate Intimidate check against the nearest foe. If you fail this check, the DC of your next Intimidate check against that opponent does not increase (as it normally would).
+**The Rider**: You are born under the auspice of the mounted caravan guard, whose very presence deters danger. Once per day, when you succeed at a [Ride](../../rules/skills/ride.md) check, you can attempt an immediate Intimidate check against the nearest foe. If you fail this check, the DC of your next Intimidate check against that opponent does not increase (as it normally would).
 
 **The Stranger**: Like the lone traveler that walks alongside the caravan for but a brief while, you have a way with strangers. You gain a +1 trait bonus on Diplomacy and Knowledge (local) checks to gather information. Additionally, either Diplomacy or Knowledge (local) becomes a class skill for you.
 
@@ -508,7 +508,7 @@ A list of extra traits to use alongside the wiki’s own trait system, if your t
 
 **Infernal Capital School Apprentice** (*the infernal capital*): You studied under one of the masters of the infernal capital School style of architecture. You gain a +3 trait bonus on Knowledge (engineering) checks and a +2 trait bonus on Perception checks to find secret doors or traps in buildings built in the infernal capital School style.
 
-**Justiciar** (*the godless kingdom*): You are experienced in interpreting and applying legal doctrine, notably the Laws of Man, independent of any divine mandates. You gain a +1 trait bonus on Diplomacy and Knowledge (local) checks to settle disputes or arbitrate laws. Once per day if you succeed at an Intimidate check to demoralize a foe who has repudiated or ignored a pronounced judgment you’ve made, you may choose to cause the creature to be sickened instead of shaken. The duration of the effect remains the same.
+**Justiciar** (*the godless kingdom*): You are experienced in interpreting and applying legal doctrine, notably the Laws of Man, independent of any divine mandates. You gain a +1 trait bonus on Diplomacy and Knowledge (local) checks to settle disputes or arbitrate laws. Once per day if you succeed at an Intimidate check to demoralize a foe who has repudiated or ignored a pronounced judgment you’ve made, you may choose to cause the creature to be [sickened](../../rules/appendices/conditions.md#sickened) instead of shaken. The duration of the effect remains the same.
 
 **Left Behind** (*[Elf] the southern jungle or the frontier*): Having been born to those who chose to remain on the world during the Age of Darkness in the southern jungle, you understand the people of this world better than most elves. You gain a +1 trait bonus on Diplomacy and Gather Information checks when interacting with Forlorn elves and non-elf races.
 

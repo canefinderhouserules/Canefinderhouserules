@@ -6,7 +6,7 @@ When the druid died, he took the secrets of creating new ghorans to his grave, a
 
 **Physical Description**: The typical ghoran stands roughly as tall as a human and occupies a similar silhouette, but that’s where their similarities with humanity end. A ghoran’s “skin” is a complex layer of fibrous vines and rinds with a texture similar to moss-covered bark. Ghoran faces consist of layered petals that flush and flutter at a whim, allowing them to mimic the facial behaviors of their would-be devourers. They do not lack emotion per se, but ghoran “feelings” are primordial and abstract, making them utterly alien to most non-ghorans. A ghoran might laugh, smile, or raise its voice, but their companions seldom understand if these are displays of true emotion or merely more adaptive evolutions designed—like so many other aspects of their physiology—simply to keep them alive.
 
-Ghorans have considerable control over their mass and can shape their bodies however they wish within the basic confines of a humanoid silhouette; this trait often gives them the impression of rustling about, especially when they are frightened or agitated. Ghorans who deal often with humanoids tend to adopt a masculine or a feminine silhouette based on their preference, but gender remains a fluid and somewhat elusive concept to them—an evolutionary adaptation of more import to the comfort of their companions than to ghorans themselves. A ghoran has a deep cavity within its belly, housing a single seed the size of a balled human fist. Roughly every 20 years, a ghoran’s body becomes decrepit enough to no longer function. The ghoran imprints its abilities and memories into this seed and then plants it in the ground. After 1 to 2 months, a new ghoran body is born from the seed, the consciousness from the original transferring over to the fully grown body and leaving the old body behind as a mindless mass of inert plant matter. In this way, a ghoran’s legacy lives on with every regrowth; while the body regenerates, the inner self and memories of the past endure.
+Ghorans have considerable control over their mass and can shape their bodies however they wish within the basic confines of a humanoid silhouette; this trait often gives them the impression of rustling about, especially when they are [frightened](../../rules/appendices/conditions.md#frightened) or agitated. Ghorans who deal often with humanoids tend to adopt a masculine or a feminine silhouette based on their preference, but gender remains a fluid and somewhat elusive concept to them—an evolutionary adaptation of more import to the comfort of their companions than to ghorans themselves. A ghoran has a deep cavity within its belly, housing a single seed the size of a balled human fist. Roughly every 20 years, a ghoran’s body becomes decrepit enough to no longer function. The ghoran imprints its abilities and memories into this seed and then plants it in the ground. After 1 to 2 months, a new ghoran body is born from the seed, the consciousness from the original transferring over to the fully grown body and leaving the old body behind as a mindless mass of inert plant matter. In this way, a ghoran’s legacy lives on with every regrowth; while the body regenerates, the inner self and memories of the past endure.
 
 **Society**: A ghoran’s alien thought processes (to say nothing of the empty holes upon its flower-petal face roughly approximating its eyes and mouth) make it very difficult for other races to understand and empathize with, leading many ghorans to stick to themselves in segregated communities of cosmopolitan and magic-rich city-states or in the deepest wild places of their barren homeland and its neighboring kingdoms.
 
@@ -30,7 +30,7 @@ Ghoran architecture consists of round, multifloor greenhouse towers composed of 
 
 **Plant**: Ghorans have the plant type but lack the immunities to mind-affecting, paralysis, poison, polymorph, sleep, and stunning effects that type usually has.
 
-**Delicious (Ex)**: Ghorans take a –2 penalty on Escape Artist and combat maneuver checks to escape a grapple against a creature that has a bite attack with the grab ability.
+**Delicious (Ex)**: Ghorans take a –2 penalty on [Escape Artist](../../rules/skills/escape-artist.md) and combat maneuver checks to escape a grapple against a creature that has a bite attack with the grab ability.
 
 **Natural Magic (Sp)**: Ghorans with a Charisma score of 11 or higher gain the following spell-like abilities: 1/day—detect poison, goodberry (created berries bud from the ghoran’s own body), and purify food and drink. The caster level is equal to the ghoran’s level. The DC for these spells is equal to 10 + the spell’s level + the ghoran’s Charisma bonus.
 
@@ -38,7 +38,7 @@ Ghoran architecture consists of round, multifloor greenhouse towers composed of 
 
 **Light Dependent**: Ghorans take 1d4 points of Constitution damage each day they go without exposure to sunlight.
 
-**Past-Life Knowledge (Ex)**: Ghorans have memories encoded in their seeds. They treat all Knowledge skills as class skills.
+**Past-Life Knowledge (Ex)**: Ghorans have memories encoded in their seeds. They treat all [Knowledge](../../rules/skills/knowledge.md) skills as class skills.
 
 **Languages**: Ghorans begin play speaking Common and Sylvan. Ghorans with high Intelligence scores can choose any languages they want (except secret languages such as Druidic).
 
@@ -56,11 +56,11 @@ The following racial traits can be selected instead of existing ghoran racial tr
 
 **Fecund Earth**: Ghorans were created to provide nourishment to creatures, but their creator also intended for them to help the land around them to grow and thrive. Once per day, a ghoran with this racial trait can cast [*plant growth*](../../magic/spells/plant-growth.md) as a spell-like ability with a caster level equal to the ghoran's character level. This replaces past-life knowledge and nature magic.
 
-**Intoxicating Aroma**: Some ghorans have an incredibly distracting scent. Once per day, as a spell-like ability, a ghoran with this racial trait can emit an intoxicating aroma that causes creatures within 30 feet to be fascinated for 1d4 rounds. Each target creature within range can attempt a Will save (DC = 10 + half the ghoran's character level + the ghoran's Charisma modifier) to negate the effect. This replaces natural magic.
+**Intoxicating Aroma**: Some ghorans have an incredibly distracting scent. Once per day, as a spell-like ability, a ghoran with this racial trait can emit an intoxicating aroma that causes creatures within 30 feet to be [fascinated](../../rules/appendices/conditions.md#fascinated) for 1d4 rounds. Each target creature within range can attempt a Will save (DC = 10 + half the ghoran's character level + the ghoran's Charisma modifier) to negate the effect. This replaces natural magic.
 
 **Magical Absorption**: Many ghorans are resistant to magic or able to dispel it. Some ghorans even gain nourishment from absorbing magic. Whenever such a ghoran succeeds at a saving throw against a spell or spell-like ability, she regains 1 hit point per level of the spell, though this affects the ghoran only if she is above 0 hit points. A ghoran can use this ability a number of times per day equal to her level. This replaces past-life knowledge and nature magic.
 
-**Natural Camouflage**: Some ghorans evolve by reseeding themselves in different locations. With each new seed, these ghorans take on some of the traits of the areas surrounding their new growth. Ghorans with this racial trait choose one terrain from the ranger's favored terrain list other than planes, urban, or water. These ghorans gain a +4 racial bonus on Stealth checks when in their chosen terrain. This replaces natural armor.
+**Natural Camouflage**: Some ghorans evolve by reseeding themselves in different locations. With each new seed, these ghorans take on some of the traits of the areas surrounding their new growth. Ghorans with this racial trait choose one terrain from the ranger's favored terrain list other than planes, urban, or water. These ghorans gain a +4 racial bonus on [Stealth](../../rules/skills/stealth.md) checks when in their chosen terrain. This replaces natural armor.
 
 ## Favored Class Options
 
@@ -72,7 +72,7 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 **Mesmerist**: Choose one mind-affecting mesmerist trick that the mesmerist knows. The mesmerist can affect intelligent plant creatures with that trick or spell as if they weren’t immune to mind-affecting effects.
 
-**Ranger**: Add a +1/4 bonus on initiative checks and Survival checks when the ranger is in a favored terrain.
+**Ranger**: Add a +1/4 bonus on initiative checks and [Survival](../../rules/skills/survival.md) checks when the ranger is in a favored terrain.
 
 **Rogue**: Choose one type of ranger favored enemy (or one subtype in case of either humanoid or outsider). The rogue adds 1/2 to her sneak attack damage when using sneak attack against creatures of the chosen type (maximum +3).
 

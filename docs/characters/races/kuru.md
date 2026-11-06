@@ -14,7 +14,7 @@ Kuru are defined by their class levels (they don’t possess racial Hit Dice) an
 
 **Cannibalistic Vitality**: When a kuru hits a living creature with its bite attack, he gains 1 temporary hit point by ingesting the target’s blood. This ability does not work on creatures that do not have blood.
 
-**Light Sensitivity**: Kuru are dazzled in areas of bright sunlight or within the radius of a daylight spell.
+**Light Sensitivity**: Kuru are [dazzled](../../rules/appendices/conditions.md#dazzled) in areas of bright sunlight or within the radius of a daylight spell.
 
 **Natural Weapon**: Kuru possess a natural bite attack that deals 1d6 points of damage.
 

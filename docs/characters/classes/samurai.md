@@ -55,13 +55,13 @@ Once per day, a samurai can challenge a foe to combat. As a swift action, the sa
 
 Challenging a foe requires much of the samurai’s concentration. The samurai takes a –2 penalty to his Armor Class, except against attacks made by the target of his challenge.
 
-The challenge remains in effect until the target is dead or unconscious, or until the combat ends. Each samurai’s challenge also includes another effect, which is listed in the section describing the samurai’s order.
+The challenge remains in effect until the target is dead or [unconscious](../../rules/appendices/conditions.md#unconscious), or until the combat ends. Each samurai’s challenge also includes another effect, which is listed in the section describing the samurai’s order.
 
 ### Mount (Ex)
 
 A samurai gains the service of a loyal and trusty steed to carry him into battle. This mount functions as a druid’s animal companion, using the samurai’s level as his effective druid level. The creature must be one that he is capable of riding and that is suitable as a mount. A Medium samurai can select a camel or a horse. A Small samurai can select a pony or a wolf, but can also select a boar or a dog if he is at least 4th level. The GM may approve other animals as suitable mounts.
 
-A samurai does not take an armor check penalty on Ride checks while riding his mount. The mount is always considered combat trained and begins play with [Light Armor](../../equipment/armor.md) Proficiency as a bonus feat. A samurai’s mount does not gain the share spells special ability.
+A samurai does not take an armor check penalty on [Ride](../../rules/skills/ride.md) checks while riding his mount. The mount is always considered combat trained and begins play with [Light Armor](../../equipment/armor.md) Proficiency as a bonus feat. A samurai’s mount does not gain the share spells special ability.
 
 A samurai’s bond with his mount is strong, with the pair learning to anticipate each other’s moods and moves. Should a samurai’s mount die, the samurai may find another mount to serve him after 1 week of mourning.
 
@@ -81,7 +81,7 @@ Starting at 1st level, the samurai gains resolve that he can call upon to endure
 
 ### Determined
 
-As a standard action, the samurai can spend one use of his resolve to remove the fatigued, shaken, or sickened condition. If the samurai is at least 8th level, he can alternatively remove the exhausted, frightened, nauseated, or staggered condition. If the condition has a duration longer than 1 hour or is permanent, this ability removes the condition for 1 hour, at which time the condition returns.
+As a standard action, the samurai can spend one use of his resolve to remove the [fatigued](../../rules/appendices/conditions.md#fatigued), [shaken](../../rules/appendices/conditions.md#shaken), or [sickened](../../rules/appendices/conditions.md#sickened) condition. If the samurai is at least 8th level, he can alternatively remove the [exhausted](../../rules/appendices/conditions.md#exhausted), [frightened](../../rules/appendices/conditions.md#frightened), [nauseated](../../rules/appendices/conditions.md#nauseated), or [staggered](../../rules/appendices/conditions.md#staggered) condition. If the condition has a duration longer than 1 hour or is permanent, this ability removes the condition for 1 hour, at which time the condition returns.
 
 ### Resolute
 
@@ -113,7 +113,7 @@ At 9th level, a samurai can spend his resolve to negate some of his most grievou
 
 ### Honorable Stand (Ex)
 
-At 11th level, a samurai can make an honorable stand, deciding to fight the target of his challenge to the bitter end, no matter the cost. He can make an honorable stand once per day at 11th level, plus one additional time per day at 16th level. Declaring an honorable stand is a swift action. While making an honorable stand, the samurai is immune to the shaken, frightened, and panicked conditions. He does not fall unconscious while his hit point total is below 0. Finally, whenever a samurai making an honorable stand must make a saving throw, he can spend one daily use of his resolve to reroll the saving throw after the first roll is made. He must take the result of the second roll, even if it is worse. If a samurai making an honorable stand ever retreats from battle against his challenged foe, he loses the ability to make a challenge for 24 hours.
+At 11th level, a samurai can make an honorable stand, deciding to fight the target of his challenge to the bitter end, no matter the cost. He can make an honorable stand once per day at 11th level, plus one additional time per day at 16th level. Declaring an honorable stand is a swift action. While making an honorable stand, the samurai is immune to the shaken, frightened, and [panicked](../../rules/appendices/conditions.md#panicked) conditions. He does not fall unconscious while his hit point total is below 0. Finally, whenever a samurai making an honorable stand must make a saving throw, he can spend one daily use of his resolve to reroll the saving throw after the first roll is made. He must take the result of the second roll, even if it is worse. If a samurai making an honorable stand ever retreats from battle against his challenged foe, he loses the ability to make a challenge for 24 hours.
 
 ### Demanding Challenge (Ex)
 
@@ -141,11 +141,11 @@ Samurai of the order of the songbird are artists, scholars, and poets. They trea
 
 **Challenge**: An order of the songbird samurai gains a +1 dodge bonus to AC and a +1 sacred bonus on saves against the attacks and abilities of the target of her challenge. This bonus increases by 1 for every 4 class levels the samurai has. The samurai must be wearing light or no armor, not using a shield, and carrying no more than a light load to gain this benefit.
 
-**Skills**: An order of the songbird samurai adds Knowledge (religion) (Int) and Perform (Cha) to her list of class skills. The samurai adds half her level to Craft checks and Profession (gardener) checks.
+**Skills**: An order of the songbird samurai adds Knowledge (religion) (Int) and Perform (Cha) to her list of class skills. The samurai adds half her level to [Craft](../../rules/skills/craft.md) checks and [Profession](../../rules/skills/profession.md) (gardener) checks.
 
 **Order Abilities**: A samurai belonging to the order of the songbird gains the following abilities.
 
-**Versatile Performance (Ex)**: At 2nd level, the order of the songbird samurai gains the benefits of the [bard's versatile performance](bard.md#versatile-performance-ex) ability with one Perform skill.
+**Versatile Performance (Ex)**: At 2nd level, the order of the songbird samurai gains the benefits of the [bard's versatile performance](bard.md#versatile-performance-ex) ability with one [Perform](../../rules/skills/perform.md) skill.
 
 **Poetic Inspiration (Ex)**: At 8th level, an order of the songbird samurai can speak a few words as a swift action, inspiring allies to great deeds. Allies within 30 feet who can hear the samurai gain a competence bonus equal to her Charisma modifier on attack and weapon damage rolls for 1 round. This ability can be used once per combat.
 
@@ -161,7 +161,7 @@ This code extends not only to the samurai’s lord and master, but also to his c
 
 **Challenge**: Whenever an order of the warrior samurai declares a challenge, he receives damage reduction 1/— against attacks made by the target of his challenge. This DR increases by +1 for every four levels the samurai possesses.
 
-**Skills**: An order of the warrior samurai adds Knowledge (history) (Int) and Knowledge (nobility) (Int) to his list of class skills. An order of the warrior samurai can make Knowledge (nobility) checks untrained. If he has ranks in the skill, he receives a bonus on the check equal to 1/2 his samurai level (minimum +1) as long as the check involves the nobles or politics of his land.
+**Skills**: An order of the warrior samurai adds Knowledge (history) (Int) and Knowledge (nobility) (Int) to his list of class skills. An order of the warrior samurai can make [Knowledge](../../rules/skills/knowledge.md) (nobility) checks untrained. If he has ranks in the skill, he receives a bonus on the check equal to 1/2 his samurai level (minimum +1) as long as the check involves the nobles or politics of his land.
 
 **Order Abilities**: A samurai who belongs to the order of the warrior gains the following abilities as he increases in level.
 
@@ -169,7 +169,7 @@ This code extends not only to the samurai’s lord and master, but also to his c
 
 **Way of the Samurai (Ex)**: At 8th level, the order of the warrior samurai’s sense of honor and loyalty drives him to accomplish seemingly impossible tasks. The samurai can, as a standard action, focus his mind and will. Once during the next minute, he can choose to roll an attack roll, skill check, or saving throw three times and take the best result. He must decide to use this ability before the roll is made. Using this ability expends one daily use of his resolve.
 
-**Strike True (Ex)**: At 15th level, the order of the warrior samurai can use his years of training and focus to make the perfect strike. When he uses this ability, the samurai makes an attack as normal. If the attack hits, it is a critical threat. The samurai must roll to confirm the critical as normal. The attack deals the maximum amount of damage, although additional dice from weapon qualities, sneak attack, and additional dice from a critical hit are rolled normally. The damage from this attack ignores any damage reduction the target might have and also causes the target to become blinded, deafened, sickened, or staggered for 1d4 rounds (the samurai’s choice). Making this attack is a standard action. The samurai can use this ability once per day.
+**Strike True (Ex)**: At 15th level, the order of the warrior samurai can use his years of training and focus to make the perfect strike. When he uses this ability, the samurai makes an attack as normal. If the attack hits, it is a critical threat. The samurai must roll to confirm the critical as normal. The attack deals the maximum amount of damage, although additional dice from weapon qualities, sneak attack, and additional dice from a critical hit are rolled normally. The damage from this attack ignores any damage reduction the target might have and also causes the target to become [blinded](../../rules/appendices/conditions.md#blinded), [deafened](../../rules/appendices/conditions.md#deafened), sickened, or staggered for 1d4 rounds (the samurai’s choice). Making this attack is a standard action. The samurai can use this ability once per day.
 
 ### Ronin
 

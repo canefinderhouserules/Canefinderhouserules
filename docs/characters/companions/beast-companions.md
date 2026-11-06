@@ -24,7 +24,7 @@ The following creatures can be chosen as beast companions by a character with th
 
 **Starting Statistics**: Size Medium; Speed 40 ft., burrow 20 ft.; AC +4 natural armor; Attack bite (1d6), 2 claws (1d4); Ability Scores Str 16, Dex 14, Con 16, Int 2, Wis 13, Cha 6.
 
-**Mastery (11th level)**: Size Large; AC +4 natural armor; Attack bite (1d8), claws (1d6); Ability Scores Str +4, Dex –2, Con +2; Special Attacks leap (when charging, it can attempt a DC 20 Acrobatics check to jump into the air and land next to its enemies; if successful, it can make four claw attacks against foes in reach but cannot make a bite attack).
+**Mastery (11th level)**: Size Large; AC +4 natural armor; Attack bite (1d8), claws (1d6); Ability Scores Str +4, Dex –2, Con +2; Special Attacks leap (when charging, it can attempt a DC 20 [Acrobatics](../../rules/skills/acrobatics.md) check to jump into the air and land next to its enemies; if successful, it can make four claw attacks against foes in reach but cannot make a bite attack).
 
 ## Death Worm
 
@@ -42,4 +42,4 @@ The following creatures can be chosen as beast companions by a character with th
 
 **9th-Level Advancement**: Size Small; AC +4 natural armor; Attack talons (1d6 plus burn); Ability Scores Str +2, Con +4, Cha +2; Special Attacks breath weapon (three times per day), burn (1d6).
 
-**Mastery (11th level)**: Three times per day, the sun falcon can blast an intense wave of heat and light in a 20-foot cone as a standard action. Creatures within this area must succeed at a Reflex save or take 1d6 points of fire damage and be blinded for 1d4+1 rounds. Creatures that succeed at this save take no fire damage and are instead dazzled for 1 round. The save DC is Charisma-based.
+**Mastery (11th level)**: Three times per day, the sun falcon can blast an intense wave of heat and light in a 20-foot cone as a standard action. Creatures within this area must succeed at a Reflex save or take 1d6 points of fire damage and be [blinded](../../rules/appendices/conditions.md#blinded) for 1d4+1 rounds. Creatures that succeed at this save take no fire damage and are instead [dazzled](../../rules/appendices/conditions.md#dazzled) for 1 round. The save DC is Charisma-based.

@@ -64,7 +64,7 @@ In addition, the brutal assassin uses their Strength modifier instead of their C
 
 *This ability alters [sneak attack](kinetic-shinobi.md#sneak-attack-ex) and replaces the [ninjutsu training](kinetic-shinobi.md#ninjutsu-training-su) class feature gained at 12th level.*
 
-**Threatening Presence (Ex):** At 3rd level, whenever a brutal assassin deals sneak attack damage, they can attempt an Intimidate check to demoralize any creature dealt by their kinetic blast as a swift action. They receive a +1 bonus on this check at 6th level and for every 3 levels thereafter.
+**Threatening Presence (Ex):** At 3rd level, whenever a brutal assassin deals sneak attack damage, they can attempt an [Intimidate](../../../rules/skills/intimidate.md) check to demoralize any creature dealt by their kinetic blast as a swift action. They receive a +1 bonus on this check at 6th level and for every 3 levels thereafter.
 
 *This ability replaces [no trace](kinetic-shinobi.md#no-trace-ex).*
 
@@ -92,7 +92,7 @@ At 14th level, the brutal assassin can spend 3 points from their ki pool to incr
 
 *This replaces the shinobi talent gained at 3rd level.*
 
-**Hide in Plain Sight (Su):** At 7th level, a burglar can use the Stealth skill even while being observed. As long as they are within 10 feet of an area of dim light, a burglar can hide themselves from view in the open without anything to actually hide behind. They cannot, however, hide in their own shadow.
+**Hide in Plain Sight (Su):** At 7th level, a burglar can use the [Stealth](../../../rules/skills/stealth.md) skill even while being observed. As long as they are within 10 feet of an area of dim light, a burglar can hide themselves from view in the open without anything to actually hide behind. They cannot, however, hide in their own shadow.
 
 *This ability replaces [evasion](kinetic-shinobi.md#evasion-ex).*
 
@@ -108,7 +108,7 @@ If an elemental shinobi takes the ward of elements shinobi talent, it functions 
 
 *This replaces [evasion](kinetic-shinobi.md#evasion-ex) and the ninjutsu training class feature gained at 12th level.*
 
-**Ki Pool (Ex):** An elemental shinobi has reduced capacity to access their ki. They can only spend 1 point from their ki pool per round. This limit rises to 2 at 6th level, and by an additional 1 per 3 elemental shinobi levels they possess. Their ki pool has a number of points equal to 3 + their Charisma modifier. An elemental shinobi does not gain the ability to spend points from their ki pool to provide themselves a +20 bonus to Acrobatics checks made while leaping.
+**Ki Pool (Ex):** An elemental shinobi has reduced capacity to access their ki. They can only spend 1 point from their ki pool per round. This limit rises to 2 at 6th level, and by an additional 1 per 3 elemental shinobi levels they possess. Their ki pool has a number of points equal to 3 + their Charisma modifier. An elemental shinobi does not gain the ability to spend points from their ki pool to provide themselves a +20 bonus to [Acrobatics](../../../rules/skills/acrobatics.md) checks made while leaping.
 
 At 6th level, an elemental shinobi can “overburn” their ki. Once per day, as a full-round action, they can increase the size of their ki pool by 1 point by accepting 2 Charisma damage which lasts until they refresh their ki pool and cannot otherwise be removed. They can do this twice per day at 12th level, and 3 times per day at 18th. This additional point of ki lasts for 12 hours or until they refresh their ki pool (whichever comes first), and if it is not spent before this duration ends it is lost. An elemental shinobi with immunity to Charisma damage cannot benefit from this ability.
 
@@ -146,7 +146,7 @@ At 17th level, whenever the elemental shinobi has spent at least 7 points from t
 
 *This ability alters [sneak attack](kinetic-shinobi.md#sneak-attack-ex).*
 
-**Intangible Metajutsu (Su):** At 10th level, the fading shadow can spend 2 points from their ki pool to make their kinetic blast silent and invisible. A creature attempting a Spellcraft check to identify this kinetic blast adds +20 to the DC of this check, and a creature that is unaware of the fading shadow’s presence and is not affected by the kinetic blast must make a DC 15 Perception check to notice it being used.
+**Intangible Metajutsu (Su):** At 10th level, the fading shadow can spend 2 points from their ki pool to make their kinetic blast silent and invisible. A creature attempting a [Spellcraft](../../../rules/skills/spellcraft.md) check to identify this kinetic blast adds +20 to the DC of this check, and a creature that is unaware of the fading shadow’s presence and is not affected by the kinetic blast must make a DC 15 [Perception](../../../rules/skills/perception.md) check to notice it being used.
 
 *This ability replaces metajutsu (maximize).*
 
@@ -203,7 +203,7 @@ The hand of the kami cannot select the following shinobi talents: bomb blast, ca
 
 *Many nobles are content to sit on their golden thrones and live out their lives of peace. For the Hi-Den this was never a choice. The Hi-Den is an ancient organization, the true purpose of which is unknown to most. Even the Hi-Den have little idea of their original goal, only of their current beliefs.*
 
-**Class Skills:** A Hi-Den noble gains Appraise, Knowledge (nobility), and Linguistics as class skills.
+**Class Skills:** A Hi-Den noble gains [Appraise](../../../rules/skills/appraise.md), [Knowledge](../../../rules/skills/knowledge.md) (nobility), and Linguistics as class skills.
 
 *This ability alters the Hi-Den Noble’s class skills.*
 
@@ -223,7 +223,7 @@ A Hi-Den noble must be born, or otherwise raised, into the Hi-Den. Though other 
 
 A Hi-Den noble gains bonuses based on their clan affiliation.
 
-*Mask of the Jade Dragon:* A Hi-Den noble connected with the Jade Dragons treats all Perform skills as class skills. They can choose one Perform skill. While in their shinobi identity a Jade Dragon’s add their shinobi class level to their Perform skill ranks. If this exceeds their maximum number of ranks they add 1/2 their remaining shinobi levels to their skill checks with that specific Perform check. While in their shinobi identity they can also always take 10 on Perform checks. A Jade Dragon’s shinobi identity usually also serves a public role as a mysterious performer.
+*Mask of the Jade Dragon:* A Hi-Den noble connected with the Jade Dragons treats all [Perform](../../../rules/skills/perform.md) skills as class skills. They can choose one Perform skill. While in their shinobi identity a Jade Dragon’s add their shinobi class level to their Perform skill ranks. If this exceeds their maximum number of ranks they add 1/2 their remaining shinobi levels to their skill checks with that specific Perform check. While in their shinobi identity they can also always take 10 on Perform checks. A Jade Dragon’s shinobi identity usually also serves a public role as a mysterious performer.
 *Tiger’s Fury:* A Hi-Den noble connected with the boisterous Hi-Den Tiger Rebels add Intimidate to the skills that gain a bonus from Charming.
 *True Hi-Den:* A Hi-Den noble born to the inbred True Hi-Den adds Disguise to the list of skills that gains a bonus from Charming. This can be used to protect their vigilante identity in public.
 *Enlightened Knowledge:* A Hi-Den noble serving the Enlightened Dragon chooses one other Knowledge skill and adds it to their Knowing class feature.
@@ -232,7 +232,7 @@ Players from minor clans may work with their GM to work out another bonus based 
 
 **Knowing (Ex):** A Hi-Den noble adds a bonus equal to 1/2 their class level to Knowledge (nobility) checks and can make such checks untrained. At 10th level they are considered to possess a [bard’s lore master](../bard.md#lore-master-ex) class feature as a bard of their Hi-Den noble level, but only for the purposes of skills granted a bonus by this ability.
 
-**Charming (Ex):** A Hi-Den noble adds a bonus equal to 1/3 their Hi-Den noble level to Bluff and Diplomacy checks made in a social setting.
+**Charming (Ex):** A Hi-Den noble adds a bonus equal to 1/3 their Hi-Den noble level to [Bluff](../../../rules/skills/bluff.md) and [Diplomacy](../../../rules/skills/diplomacy.md) checks made in a social setting.
 
 *This ability replaces [no trace](kinetic-shinobi.md#no-trace-ex).*
 
@@ -268,7 +268,7 @@ A kinetic blast used as a mutable blast cannot benefit from hadou admixture (twi
 
 *The alters the [kinetic shinobi’s weapon and armor proficiencies](kinetic-shinobi.md#weapon-and-armor-proficiencies).*
 
-**Class Skills:** A needler gains Ride and loses Stealth as class skills, and gains 4 + Int skill ranks per level.
+**Class Skills:** A needler gains [Ride](../../../rules/skills/ride.md) and loses Stealth as class skills, and gains 4 + Int skill ranks per level.
 
 *This alters the kinetic shinobi’s class skills and skill ranks per level.*
 
@@ -284,7 +284,7 @@ A kinetic blast used as a mutable blast cannot benefit from hadou admixture (twi
 
 **Daring Ki Pool (Su):** A needler’s ki functions far differently than that of the typical ki user. Their ki pool has a number of points equal to their Charisma modifier (minimum 1) and is gained at 1st level. They can recover points in their ki pool, though typically it will never rise above their Charisma modifier (although some feats and magic items may alter this). Needlers do not gain the ability to spend points from their ki pool to grant themselves a bonus to their attack or damage rolls, to Acrobatics skill checks, or to skill checks associated with their primary element. They can recover their ki in the following ways:
 
-*Critical Hit with a Light or One-Handed Piercing Melee Weapon:* Each time the needler confirms a critical hit with a light or onehanded piercing melee weapon, they recover 1 point in their ki pool. Confirming a critical hit on a helpless or unaware creature or a creature that has fewer Hit Dice than half the needler’s character level doesn’t restore ki.
+*Critical Hit with a Light or One-Handed Piercing Melee Weapon:* Each time the needler confirms a critical hit with a light or onehanded piercing melee weapon, they recover 1 point in their ki pool. Confirming a critical hit on a [helpless](../../../rules/appendices/conditions.md#helpless) or unaware creature or a creature that has fewer Hit Dice than half the needler’s character level doesn’t restore ki.
 *Killing Blow with a Light or One-Handed Piercing Melee Weapon:* When the needler reduces a creature to 0 or fewer hit points with a light or one-handed piercing melee weapon attack while in combat, they recover 1 point in their ki pool. Destroying an unattended object, reducing a helpless or unaware creature to 0 or fewer hit points, or reducing a creature that has fewer Hit Dice than half the needler’s character level to 0 or fewer hit points doesn’t restore any ki.
 
 In addition, if the user has a grit, luck, or panache pool, the points in those pools stack with the points in their ki pool (for example, a needler with grit would gain twice their Charisma in this combined grit/ki pool) and may use points from this pool interchangeably (spending grit, luck, or panache for shinobi talents, or spending ki for deeds).
@@ -320,7 +320,7 @@ A needler cannot select any of the following shinobi talents: bomb blast, calcul
 
 *In the mix between light and dark, the shadow steppers thrive. To the common folk these mysterious warriors are often considered to abore light and strike from the darkness. This has given them a reputation among the civilized as assassins and thiefs. Despite which, they have no inherent disposition to evil, or even necessarily just the darkness. Rather, they are those that acknowledge the darkness for what it is. Neither good nor evil, but merely a thing that exists. No more to be feared than anything else. While a shadow stepper makes for a fearsome assassin, they may also be a friendly child that laughs as they step between dark and light. Or an exotic dancer that makes use of the play of light and shadow to accent their performance.*
 
-**Class Skills:** The shadow stepper gains 4 + Int skill ranks at each level. They gain Knowledge (arcana), Perform (dance), and Spellcraft as a class skills, but not Disable Device, Intimidate, or Use Magic Device.
+**Class Skills:** The shadow stepper gains 4 + Int skill ranks at each level. They gain Knowledge (arcana), Perform (dance), and Spellcraft as a class skills, but not [Disable Device](../../../rules/skills/disable-device.md), Intimidate, or [Use Magic Device](../../../rules/skills/use-magic-device.md).
 
 *This alters the kinetic shinobi’s class skills and skill ranks per level.*
 

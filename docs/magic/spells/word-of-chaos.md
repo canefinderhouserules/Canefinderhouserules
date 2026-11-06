@@ -19,11 +19,11 @@ Any nonchaotic creature within the area of a *word of chaos* spell suffers the f
 
 The effects are cumulative and concurrent. A successful Will save reduces or eliminates these effects. Creatures affected by multiple effects make only one save and apply the result to all the effects.
 
-*Deafened*: The creature is deafened for 1d4 rounds. Save negates.
+*Deafened*: The creature is [deafened](../../rules/appendices/conditions.md#deafened) for 1d4 rounds. Save negates.
 
-*Stunned*: The creature is stunned for 1 round. Save negates.
+*Stunned*: The creature is [stunned](../../rules/appendices/conditions.md#stunned) for 1 round. Save negates.
 
-*Confused*: The creature is confused for 1d10 minutes. This is a mind-affecting enchantment effect. Save reduces the confused effect to 1 round.
+*Confused*: The creature is [confused](../../rules/appendices/conditions.md#confused) for 1d10 minutes. This is a mind-affecting enchantment effect. Save reduces the confused effect to 1 round.
 
 *Killed*: Living creatures die. Undead creatures are destroyed. Save negates. If the save is successful, the creature instead takes 3d6 points of damage + 1 point per caster level (maximum +25).
 

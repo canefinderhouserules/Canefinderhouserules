@@ -2,7 +2,7 @@
 
 *(Combat, Critical)*
 
-Your critical hits cause opponents to become exhausted.
+Your critical hits cause opponents to become [exhausted](../appendices/conditions.md#exhausted).
 
 **Prerequisites**: [Critical Focus](critical-focus.md), [Tiring Critical](tiring-critical.md), base attack bonus +15.
 

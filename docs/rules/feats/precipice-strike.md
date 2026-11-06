@@ -6,4 +6,4 @@ Rough mountain roads are as smooth as cobblestone to you. Enemies challenge you 
 
 **Prerequisites**: Dex 15, base attack bonus +6, half-orc of mountain descent.
 
-**Benefit**: When you and the target of your attack are both in difficult terrain, treat the target as if it were flat-footed. In addition, if you attack a flat-footed enemy from a higher elevation (including while falling), you gain a +2 circumstance bonus on your attack roll.
+**Benefit**: When you and the target of your attack are both in difficult terrain, treat the target as if it were [flat-footed](../appendices/conditions.md#flat-footed). In addition, if you attack a flat-footed enemy from a higher elevation (including while falling), you gain a +2 circumstance bonus on your attack roll.

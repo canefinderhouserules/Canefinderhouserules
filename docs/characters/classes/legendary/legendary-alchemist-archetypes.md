@@ -20,7 +20,7 @@ At 5th level, the summoned horror can be 1 level higher than the extract’s lev
 
 *This ability replaces poison resistance.*
 
-**Horrific Exposure (Ex):** At 3rd level, whenever the alienist uses a summon monster extract, all enemies within 30 feet of the summoned horror except those of the aberration type must make a successful Will saving throw (DC 10 + 1/2 the alienist’s level + their Intelligence modifier) or become confused for 1 round. At 13th level, this effect lasts for a number of rounds equal to the alienist’s Intelligence modifier, and enemies must also make a successful Will save to avoid becoming confused whenever the summoned horror reduces a creature to 0 or fewer hit points.
+**Horrific Exposure (Ex):** At 3rd level, whenever the alienist uses a summon monster extract, all enemies within 30 feet of the summoned horror except those of the aberration type must make a successful Will saving throw (DC 10 + 1/2 the alienist’s level + their Intelligence modifier) or become [confused](../../../rules/appendices/conditions.md#confused) for 1 round. At 13th level, this effect lasts for a number of rounds equal to the alienist’s Intelligence modifier, and enemies must also make a successful Will save to avoid becoming confused whenever the summoned horror reduces a creature to 0 or fewer hit points.
 
 *This ability replaces swift alchemy and instant alchemy.*
 
@@ -44,7 +44,7 @@ At 5th level, the summoned horror can be 1 level higher than the extract’s lev
 
 *Science moves on, but that doesn’t mean that old theories become worthless. The archaic philosopher uses old ideas of how the natural elements work to power their alchemy and gain the service of a powerful, mutable elemental.*
 
-**Natural Philosophy (Ex):** The archaic philosopher gains all Knowledge skills as class skills. Upon taking the first level in this class, they learn Aquan, Ignan, Sylvan, and Terran. If they already speak one of these languages they do not gain a replacement.
+**Natural Philosophy (Ex):** The archaic philosopher gains all [Knowledge](../../../rules/skills/knowledge.md) skills as class skills. Upon taking the first level in this class, they learn Aquan, Ignan, Sylvan, and Terran. If they already speak one of these languages they do not gain a replacement.
 
 **Bound Elemental (Ex):** Starting at 1st level, an archaic philosopher retains the service of an elemental being that grows and mutates as its master’s knowledge of natural forces grows. This functions similarly to a tinker alchemist’s automaton, with the following exceptions.
 
@@ -112,7 +112,7 @@ If the archaic philosopher retains this defense if they lose or dismiss their bo
 
 **Bound Elemental Base Forms**
 
-Each elemental has one of five elements, which determines its starting size, speed, AC, attacks, and ability scores. Alternatively, any one of these base forms can be used to make a Small elemental. If the automaton is Small, it gains a +2 bonus to its Dexterity score. It also takes a –4 penalty to its Strength and a –2 penalty to its Constitution. It also gains a +1 size bonus to its AC and attack rolls, a –1 penalty to its CMB and CMD scores, a +2 bonus on its Fly skill checks, and a +4 bonus on its Stealth skill checks. Its slam attack deals the same damage as if it were medium. If this choice is made, the bound elemental can be made Medium whenever its master gains a new alchemist level, while a Medium bound elemental may be made Small whenever its master gains a new alchemist level.
+Each elemental has one of five elements, which determines its starting size, speed, AC, attacks, and ability scores. Alternatively, any one of these base forms can be used to make a Small elemental. If the automaton is Small, it gains a +2 bonus to its Dexterity score. It also takes a –4 penalty to its Strength and a –2 penalty to its Constitution. It also gains a +1 size bonus to its AC and attack rolls, a –1 penalty to its CMB and CMD scores, a +2 bonus on its [Fly](../../../rules/skills/fly.md) skill checks, and a +4 bonus on its [Stealth](../../../rules/skills/stealth.md) skill checks. Its slam attack deals the same damage as if it were medium. If this choice is made, the bound elemental can be made Medium whenever its master gains a new alchemist level, while a Medium bound elemental may be made Small whenever its master gains a new alchemist level.
 
 Earth
 
@@ -206,7 +206,7 @@ In addition, the black powder researcher can select [[Legendary Gunslinger Deed 
 
 *This ability replaces poison resistance and poison immunity.*
 
-**Skilled Hands (Ex):** The chirurgeon may use their Intelligence modifier when making Heal checks instead of their Wisdom modifier. At 2nd level, a chirurgeon adds half their level on Heal skill checks. At 5th level they gain the skill unlockPU for Heal.
+**Skilled Hands (Ex):** The chirurgeon may use their Intelligence modifier when making [Heal](../../../rules/skills/heal.md) checks instead of their Wisdom modifier. At 2nd level, a chirurgeon adds half their level on Heal skill checks. At 5th level they gain the skill unlockPU for Heal.
 
 **Makeshift Bandages (Ex):** Starting at 3rd level, when the chirurgeon uses the last use of a healer’s kit there is a 20% chance that they are able to stretch the medicaments and plasters, leaving the kit with one use only they or another chirurgeon can use. This remaining use can potentially be stretched in the same manner. At 7th level, and every 4 levels thereafter, this chance increases by 20%, to a maximum of 100% at 19th level.
 
@@ -218,7 +218,7 @@ In addition, the black powder researcher can select [[Legendary Gunslinger Deed 
 
 *Most alchemists must make careful note of the laws of nature, bending and shaping them to achieve fantastic results. The esotericist, on the other hand, needs exert no such effort. When they formulate a hypothesis, the world bends itself to accommodate it. Because of this supernatural ability to warp reality, esotericists do not train as rigorously in mixing chemicals to create wondrous effects and instead produce them directly through magic.*
 
-**Class Skills:** The esotericist gains Bluff, Diplomacy, and Intimidate as class skills. This modifies class skills but may be combined with other archetypes that add new class skills.
+**Class Skills:** The esotericist gains [Bluff](../../../rules/skills/bluff.md), [Diplomacy](../../../rules/skills/diplomacy.md), and Intimidate as class skills. This modifies class skills but may be combined with other archetypes that add new class skills.
 
 **Spells:** An esotericist casts psychic spells drawn from the psychic spell list plus the legendary alchemist’s extract list. Only spells from the psychic class spell list of 6th level or lower and esotericist spells are considered to be part of the esotericist’s spell list. If a spell appears on both the psychic class spell list and the legendary alchemist extract list, the esotericist uses the spell level from the legendary alchemist extract list. They can cast any spell she knows without preparing it ahead of time. To learn or cast a spell, an esotericist must have a Charisma score equal to at least 10 + the spell’s level. The saving throw DC against a esotericist’s spell is 10 + the spell’s level + the esotericist’s Charisma modifier.
 
@@ -240,7 +240,7 @@ A esotericist need not prepare her spells in advance. They can cast any esoteric
 
 *The greatest masters of a craft devote their lives to perfecting it, whether that be alchemy, swordplay, or woodworking. For no one is this as true as the gourmand, who dedicates themselves to the study of both alchemy and the culinary arts. By blending the science of alchemical formulas with the art of flavor, the gourmand strives towards creating masterpieces of food and drink with incredible side effects and a dash of spice.*
 
-**Culinary Alchemy (Su):** A gourmand can use Craft (alchemy) to create food and beverages as though it were the relevant Craft or Profession skill and treats food and drink as alchemical items for the purpose of crafting them. Alcoholic beverages created by a gourmand can never inflict addiction.
+**Culinary Alchemy (Su):** A gourmand can use Craft (alchemy) to create food and beverages as though it were the relevant [Craft](../../../rules/skills/craft.md) or [Profession](../../../rules/skills/profession.md) skill and treats food and drink as alchemical items for the purpose of crafting them. Alcoholic beverages created by a gourmand can never inflict addiction.
 
 *This alters alchemy.*
 
@@ -256,7 +256,7 @@ A esotericist need not prepare her spells in advance. They can cast any esoteric
 
 *This replaces the discipline breakthrough at 5th level.*
 
-**Culinary Defense (Ex):** At 9th level, the gourmand’s culinary failures have helped them develop a strong stomach, granting them a bonus equal to 1/2 their class level to saving throws which inflict the sickened and nauseated condition and against poisons.
+**Culinary Defense (Ex):** At 9th level, the gourmand’s culinary failures have helped them develop a strong stomach, granting them a bonus equal to 1/2 their class level to saving throws which inflict the [sickened](../../../rules/appendices/conditions.md#sickened) and [nauseated](../../../rules/appendices/conditions.md#nauseated) condition and against poisons.
 
 *This replaces the discipline defence at 9th level.*
 
@@ -286,7 +286,7 @@ The following options can be taken in place of the legendary alchemist’s norma
 
 **Weapon and Armor Proficiencies** Alchemists are proficient with all [simple weapons](../../../equipment/weapons-simple.md), crossbows, and weapons with 'alchemical' in their name. They are not proficient in any armor or [shields](../../../equipment/armor.md). In addition, they gain the following class feature:
 
-**AC Bonus (Ex)** When unarmored and unencumbered, the alchemist adds their Intelligence bonus (if any) to their AC and their CMD. In addition, an alchemist gains a +1 bonus to AC and CMD at 4th level. This bonus increases by 1 for every four alchemist levels thereafter, up to a maximum of +5 at 20th level. These bonuses to AC apply even against touch attacks or when the alchemist is flat-footed. They lose these bonuses when they are immobilized or helpless, when they wear any armor, when they carry a shield, or when they carry a medium or heavy load.
+**AC Bonus (Ex)** When unarmored and unencumbered, the alchemist adds their Intelligence bonus (if any) to their AC and their CMD. In addition, an alchemist gains a +1 bonus to AC and CMD at 4th level. This bonus increases by 1 for every four alchemist levels thereafter, up to a maximum of +5 at 20th level. These bonuses to AC apply even against touch attacks or when the alchemist is [flat-footed](../../../rules/appendices/conditions.md#flat-footed). They lose these bonuses when they are immobilized or [helpless](../../../rules/appendices/conditions.md#helpless), when they wear any armor, when they carry a shield, or when they carry a medium or heavy load.
 
 **Throw Anything**
 
@@ -546,7 +546,7 @@ The red-headed merchant can also select the following social talents in place of
 
 **Hit Dice:** A teratogenic beastmaster uses d6 for their Hit Die.
 
-**Class Skills:** The teratogenic beastmaster gains Handle Animal and Ride as class skills.
+**Class Skills:** The teratogenic beastmaster gains [Handle Animal](../../../rules/skills/handle-animal.md) and Ride as class skills.
 
 *This modifies class skills, but may be combined with other archetypes that add new class skills.*
 
@@ -590,7 +590,7 @@ If a teratogenic beastmaster releases their companion from service or their anim
 
 *This modifies alchemy.*
 
-**Flash of Inspiration (Ex):** As a free action, the urban adept can expend one point of quintessence to add 1d6 to the result of any skill check, including any on which they take 10 or 20. This choice is made after the check is rolled and before the results are revealed. An urban adept investigator can only use this ability once per check or roll. The urban adept can use this ability on any Craft, Knowledge, Linguistics, or Spellcraft skill checks without expending a point of quintessence, provided they’re trained in the skill.
+**Flash of Inspiration (Ex):** As a free action, the urban adept can expend one point of quintessence to add 1d6 to the result of any skill check, including any on which they take 10 or 20. This choice is made after the check is rolled and before the results are revealed. An urban adept investigator can only use this ability once per check or roll. The urban adept can use this ability on any Craft, Knowledge, [Linguistics](../../../rules/skills/linguistics.md), or [Spellcraft](../../../rules/skills/spellcraft.md) skill checks without expending a point of quintessence, provided they’re trained in the skill.
 
 In addition, at 1st level, and again at each odd level thereafter, the urban adept gains a bonus point of quintessence.
 
@@ -692,7 +692,7 @@ The void demolitionist can select the following discoveries:
 
 **Deceptive Rip**
 
-**Benefit:** The void demolitionist is capable of laying a rip across a solid surface, disguising it as normal terrain. If a creature steps into a deceptive rip, they are transported to another rip of your choice. Creatures exiting from a deceptive rip may choose which space adjacent to the selected exit rip to occupy. The Perception check to locate this rip is equal to the void demolitionist’s class level + 10.
+**Benefit:** The void demolitionist is capable of laying a rip across a solid surface, disguising it as normal terrain. If a creature steps into a deceptive rip, they are transported to another rip of your choice. Creatures exiting from a deceptive rip may choose which space adjacent to the selected exit rip to occupy. The [Perception](../../../rules/skills/perception.md) check to locate this rip is equal to the void demolitionist’s class level + 10.
 
 **Distant Rip**
 

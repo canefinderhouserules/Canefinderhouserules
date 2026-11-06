@@ -9,4 +9,4 @@
 **Duration** instantaneous  
 **Saving Throw** Fortitude partial; **Spell Resistance** yes
 
-You evoke a powerful light that affects all sighted creatures that do not possess light sensitivity. Those that succeed on their saves are dazzled for 1 round per level; those who fail are blinded for the same duration.
+You evoke a powerful light that affects all sighted creatures that do not possess light sensitivity. Those that succeed on their saves are [dazzled](../../rules/appendices/conditions.md#dazzled) for 1 round per level; those who fail are [blinded](../../rules/appendices/conditions.md#blinded) for the same duration.

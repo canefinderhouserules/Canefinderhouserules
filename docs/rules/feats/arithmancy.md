@@ -22,7 +22,7 @@ To find the digital root of a spell name, first assign a numerical value to each
 
 If the result has more than one digit, sum those digits. Repeat this process until you arrive at a single number, called the digital root.
 
-Once you’ve translated the name of the spell into a single digital root, attempt a Spellcraft check with a DC equal to 10 + the spell level + the digital root. If your check succeeds, the spell is cast at +1 caster level. If your check fails, the spell is cast at –1 caster level. If you do not cast the spell you intended to augment with arithmancy, the spell is expended with no effect, though you retain the action you would have spent to cast it. Metamagic effects are not included in a spell’s name when determining the spell’s digital root, but they increase the spell’s level as normal when determining the DC of the Spellcraft check.
+Once you’ve translated the name of the spell into a single digital root, attempt a [Spellcraft](../skills/spellcraft.md) check with a DC equal to 10 + the spell level + the digital root. If your check succeeds, the spell is cast at +1 caster level. If your check fails, the spell is cast at –1 caster level. If you do not cast the spell you intended to augment with arithmancy, the spell is expended with no effect, though you retain the action you would have spent to cast it. Metamagic effects are not included in a spell’s name when determining the spell’s digital root, but they increase the spell’s level as normal when determining the DC of the Spellcraft check.
 
 You can use this ability a number of times per day equal to the number of caster levels you possess.
 

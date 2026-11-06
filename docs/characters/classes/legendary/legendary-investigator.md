@@ -179,7 +179,7 @@ The legendary investigator must be able to see the target well enough to pick ou
 
 #### Quick Wits (Ex)
 
-At 2nd level, a legendary investigator’s ability to focus on the minutiae in their environment gives them a deep insight into their surroundings. They may use their Intelligence modifier instead of their Wisdom modifier for Perception and Sense Motive. Additionally, they may use Intelligence instead of Charisma when using Diplomacy to gather information. This use of Intelligence to gather information entails the legendary investigator using their powers of observation rather than simply carousing, otherwise, the check is unchanged.
+At 2nd level, a legendary investigator’s ability to focus on the minutiae in their environment gives them a deep insight into their surroundings. They may use their Intelligence modifier instead of their Wisdom modifier for [Perception](../../../rules/skills/perception.md) and [Sense Motive](../../../rules/skills/sense-motive.md). Additionally, they may use Intelligence instead of Charisma when using Diplomacy to gather information. This use of Intelligence to gather information entails the legendary investigator using their powers of observation rather than simply carousing, otherwise, the check is unchanged.
 
 #### Danger Sense (Ex)
 
@@ -195,7 +195,7 @@ Investigator talents marked with an asterisk (*) add effects to an [investigator
 
 #### Keen Recollection (Ex)
 
-At 3rd level, a legendary investigator can attempt all Knowledge or Lore skill checks untrained. This does not allow them to apply their inspiration die to the check if they normally would be unable.
+At 3rd level, a legendary investigator can attempt all [Knowledge](../../../rules/skills/knowledge.md) or Lore skill checks untrained. This does not allow them to apply their inspiration die to the check if they normally would be unable.
 
 #### Piercing the Veil (Ex)
 
@@ -227,6 +227,6 @@ The following favored class bonuses are available to all legendary investigators
 
 - **Any**: +1/4 on all inspiration rolls.
 
-- **Any**: +1/2 on Bluff checks to feint and Diplomacy checks to gather information.
+- **Any**: +1/2 on [Bluff](../../../rules/skills/bluff.md) checks to feint and [Diplomacy](../../../rules/skills/diplomacy.md) checks to gather information.
 
 - **Any**: +1/4 to the bonuses provided by your studied combat ability.

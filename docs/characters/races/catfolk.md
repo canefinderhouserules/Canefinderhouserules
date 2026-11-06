@@ -32,7 +32,7 @@ Catfolk prefer to be led by their most competent members, usually a council of s
 
 **Cat’s Luck (Ex)**: Once per day when a catfolk makes a Reflex saving throw, he can roll the saving throw twice and take the better result. He must decide to use this ability before the saving throw is attempted.
 
-**Natural Hunter**: Catfolk receive a +2 racial bonus on Perception, Stealth, and Survival checks.
+**Natural Hunter**: Catfolk receive a +2 racial bonus on [Perception](../../rules/skills/perception.md), [Stealth](../../rules/skills/stealth.md), and [Survival](../../rules/skills/survival.md) checks.
 
 **Sprinter**: Catfolk gain a 10-foot racial bonus to their speed when using the charge, run, or withdraw actions.
 
@@ -44,11 +44,11 @@ The following racial traits may be selected instead of typical catfolk racial tr
 
 **Cat’s Claws**: Some catfolk have stronger and more developed claws than other members of their race, and can use them to make attacks. Catfolk with this racial trait have a pair of claws they can use as natural weapons. These claws are primary attacks that deal 1d4 points of damage. This racial trait replaces natural hunter.
 
-**Clever Cat**: Catfolk’s generally friendly disposition doesn’t preclude craftiness. Some of them see social obstacles as games to be played and won. These catfolk receive a +2 racial bonus on Bluff, Diplomacy, and Sense Motive checks. This racial trait replaces natural hunter.
+**Clever Cat**: Catfolk’s generally friendly disposition doesn’t preclude craftiness. Some of them see social obstacles as games to be played and won. These catfolk receive a +2 racial bonus on [Bluff](../../rules/skills/bluff.md), [Diplomacy](../../rules/skills/diplomacy.md), and [Sense Motive](../../rules/skills/sense-motive.md) checks. This racial trait replaces natural hunter.
 
-**Climber**: Catfolk hunters excel at hunting prey from trees and other high vantage points. Catfolk with this racial trait possess a climb speed of 20 feet (along with the +8 racial bonus on Climb checks a climb speed affords). This racial trait replaces sprinter.
+**Climber**: Catfolk hunters excel at hunting prey from trees and other high vantage points. Catfolk with this racial trait possess a climb speed of 20 feet (along with the +8 racial bonus on [Climb](../../rules/skills/climb.md) checks a climb speed affords). This racial trait replaces sprinter.
 
-**Curiosity**: Catfolk are naturally inquisitive about the world around them, though some are more curious than others. Such catfolk gain a +4 bonus on Diplomacy checks to gather information, and Knowledge (history) and Knowledge (local) are always class skills for them. If they choose a class that has either of these Knowledge skills as class skills, they gain a +2 racial bonus on those skills instead. This racial trait replaces natural hunter.
+**Curiosity**: Catfolk are naturally inquisitive about the world around them, though some are more curious than others. Such catfolk gain a +4 bonus on Diplomacy checks to gather information, and [Knowledge](../../rules/skills/knowledge.md) (history) and Knowledge (local) are always class skills for them. If they choose a class that has either of these Knowledge skills as class skills, they gain a +2 racial bonus on those skills instead. This racial trait replaces natural hunter.
 
 **Nimble Faller**: Some catfolk have an amazing sense of balance and keen knowledge of their own center of gravity. Catfolk with this trait land on their feet even when they take lethal damage from a fall. Furthermore, catfolk with this trait gain a +1 bonus to their CMD against trip maneuvers. This racial trait replaces sprinter.
 
@@ -131,7 +131,7 @@ Catfolk have access to the following equipment.
 
 **Softpaw Boots**: These soft and subtle boots are constructed of silk and specially cured leather. They are specially designed for catfolk feet. They work with the feline structure of the race’s feet to soften footfalls and to reduce the imprints of their tracks. While wearing softpaw boots, a catfolk gains a +1 circumstance bonus on Stealth checks. Furthermore, the DC to notice or follow the tracks of a catfolk wearing softpaw boots increases by +2.
 
-**Trailscent Kit**: This small box of specially prepared catfolk pheromones and alchemical reagents can be used to leave a small group of subtle but long-lasting scents that only catfolk can smell and decipher. Given a minute, a catfolk can create a scent mixture and apply it to a solid object, such as a tree, a wall, or even a smaller item such as a weapon or potion vial. When the catfolk does this, it leaves one of the following scent impressions: danger, food, shelter, or possession. The possession impression is always keyed to the specific catfolk using the kit, and signifies that she owns the territory or item. Other races can attempt to use this kit to create the danger, food, or shelter impression, but doing so requires a successful DC 20 Craft (alchemy) check. A catfolk can detect a particular scent applied with a trailscent kit from 30 feet away. If the scent is upwind, the range at which a catfolk can detect the scent increases to 60 feet; if it is downwind, the range drops to 15 feet. A catfolk with the scent racial quality doubles those distances. A scent impression lasts for 1 year or until it is washed away. Each kit has 10 uses.
+**Trailscent Kit**: This small box of specially prepared catfolk pheromones and alchemical reagents can be used to leave a small group of subtle but long-lasting scents that only catfolk can smell and decipher. Given a minute, a catfolk can create a scent mixture and apply it to a solid object, such as a tree, a wall, or even a smaller item such as a weapon or potion vial. When the catfolk does this, it leaves one of the following scent impressions: danger, food, shelter, or possession. The possession impression is always keyed to the specific catfolk using the kit, and signifies that she owns the territory or item. Other races can attempt to use this kit to create the danger, food, or shelter impression, but doing so requires a successful DC 20 [Craft](../../rules/skills/craft.md) (alchemy) check. A catfolk can detect a particular scent applied with a trailscent kit from 30 feet away. If the scent is upwind, the range at which a catfolk can detect the scent increases to 60 feet; if it is downwind, the range drops to 15 feet. A catfolk with the scent racial quality doubles those distances. A scent impression lasts for 1 year or until it is washed away. Each kit has 10 uses.
 
 | Item | Cost | Weight | Craft DC |
 |---|---|---|---|
@@ -168,5 +168,5 @@ Catfolk have access to the following equipment.
 
 ### Jungle Stalker
 
-Catfolk often live in deeply forested terrain, such as the eastern jungle, and they have become naturally sure-footed to maintain their hunting prowess in these dangerous environments. Such catfolk gain a +2 racial bonus on Acrobatics checks and can ignore the first square of difficult terrain caused by foliage each round. This racial trait replaces cat’s luck and sprinter.
+Catfolk often live in deeply forested terrain, such as the eastern jungle, and they have become naturally sure-footed to maintain their hunting prowess in these dangerous environments. Such catfolk gain a +2 racial bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks and can ignore the first square of difficult terrain caused by foliage each round. This racial trait replaces cat’s luck and sprinter.
 

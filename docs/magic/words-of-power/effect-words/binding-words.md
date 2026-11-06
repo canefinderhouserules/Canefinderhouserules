@@ -1,6 +1,6 @@
 # Binding Words
 
-Words from this family cause objects to become stationary and creatures to become paralyzed.
+Words from this family cause objects to become stationary and creatures to become [paralyzed](../../../rules/appendices/conditions.md#paralyzed).
 
 ## Lock Ward (Binding)
 

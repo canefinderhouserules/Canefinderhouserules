@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** Will half; **Spell Resistance** yes
 
-This functions as mind thrust I, but the target takes 1d8 points of damage per caster level (maximum 15d8) and is fatigued for 1 round if it fails its save. This spell can be undercast.
+This functions as mind thrust I, but the target takes 1d8 points of damage per caster level (maximum 15d8) and is [fatigued](../../rules/appendices/conditions.md#fatigued) for 1 round if it fails its save. This spell can be undercast.

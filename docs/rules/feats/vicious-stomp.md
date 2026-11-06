@@ -6,4 +6,4 @@ You take advantage of the moment to brutally kick an enemy when he is down.
 
 **Prerequisites**: [Combat Reflexes](combat-reflexes.md), [Improved Unarmed Strike](improved-unarmed-strike.md).
 
-**Benefit**: Whenever an opponent falls prone adjacent to you, that opponent provokes an attack of opportunity from you. This attack must be an unarmed strike.
+**Benefit**: Whenever an opponent falls [prone](../appendices/conditions.md#prone) adjacent to you, that opponent provokes an attack of opportunity from you. This attack must be an unarmed strike.

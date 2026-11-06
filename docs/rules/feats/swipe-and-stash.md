@@ -6,7 +6,7 @@ Your fast fingers allow you to deftly deposit an item on someone else.
 
 **Prerequisite**: Sleight of Hand 5 ranks.
 
-**Benefit**: As a standard action, you can attempt a DC 20 Sleight of Hand check to plant a small object on a creature. The target is entitled to a Perception check opposed by your Sleight of Hand check to notice you planting the item. This does not force the creature to wear, wield, or otherwise use the item; you simply plant it on the creature’s person. The DC increases to 30 if the target is not wearing clothing, armor, tack and harness (if an animal or similar creature), or some other equivalent accoutrements in which you can hide the item.
+**Benefit**: As a standard action, you can attempt a DC 20 [Sleight of Hand](../skills/sleight-of-hand.md) check to plant a small object on a creature. The target is entitled to a [Perception](../skills/perception.md) check opposed by your Sleight of Hand check to notice you planting the item. This does not force the creature to wear, wield, or otherwise use the item; you simply plant it on the creature’s person. The DC increases to 30 if the target is not wearing clothing, armor, tack and harness (if an animal or similar creature), or some other equivalent accoutrements in which you can hide the item.
 
 In combat, you must succeed at a steal combat maneuver in order to plant an item on a creature while attempting a Sleight of Hand check opposed by the target’s Perception check to do so without the target noticing. You are automatically unnoticed if you succeed and have the [Greater Steal](greater-steal.md) feat.
 

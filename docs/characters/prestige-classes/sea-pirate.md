@@ -47,19 +47,19 @@ The following are class features of the sea pirate prestige class.
 
 **Deep Breath (Ex)**: The sea pirate can hold her breath for a number of rounds equal to three times her Constitution modifier before she must start making Constitution checks.
 
-**Drink for Free (Ex)**: This ability presumes that the sea pirate is admired or feared in the taverns she frequents. She designates one tavern per sea pirate level as a "favored tavern." When in a favored tavern, she drinks for free. In addition, she gains a +2 circumstance bonus on Diplomacy and Intimidate checks within a favored tavern.
+**Drink for Free (Ex)**: This ability presumes that the sea pirate is admired or feared in the taverns she frequents. She designates one tavern per sea pirate level as a "favored tavern." When in a favored tavern, she drinks for free. In addition, she gains a +2 circumstance bonus on [Diplomacy](../../rules/skills/diplomacy.md) and [Intimidate](../../rules/skills/intimidate.md) checks within a favored tavern.
 
-**Farseer (Ex)**: A sea pirate with this ability reduces any distance-based penalties on Perception checks by half when she is at least 10 feet off the ground or above the deck of a ship.
+**Farseer (Ex)**: A sea pirate with this ability reduces any distance-based penalties on [Perception](../../rules/skills/perception.md) checks by half when she is at least 10 feet off the ground or above the deck of a ship.
 
 **Hand Stab* (Ex)**: When she deals sneak attack damage against an opponent, that opponent becomes easier to disarm. Until the end of the sea pirate's next turn, anyone attempting to disarm that opponent gains a +2 bonus on the disarm attempt.
 
 **Quick Appraise (Ex)**: She appraises an item as a move action and can determine the most valuable item in a treasure hoard as a standard action.
 
-**Rigging Monkey (Ex)**: This ability grants the sea pirate a +2 bonus on Climb checks when using a rope to help her climb. In addition, when using a rope to help her climb, she can move at half her speed. (By accepting a –5 penalty she can move at her normal speed.)
+**Rigging Monkey (Ex)**: This ability grants the sea pirate a +2 bonus on [Climb](../../rules/skills/climb.md) checks when using a rope to help her climb. In addition, when using a rope to help her climb, she can move at half her speed. (By accepting a –5 penalty she can move at her normal speed.)
 
-**Storm Sailor (Ex)**: The sea pirate treats all storms as if they were one category less severe for the purposes of sailing and navigation. This stacks with the Hurricane Savvy trait and other effects related to wind conditions. She can make an Acrobatics check to move her normal speed across uneven ground, and she does not take a penalty on Acrobatics checks due to slightly slippery, slightly unsteady, or moderately unsteady conditions.
+**Storm Sailor (Ex)**: The sea pirate treats all storms as if they were one category less severe for the purposes of sailing and navigation. This stacks with the Hurricane Savvy trait and other effects related to wind conditions. She can make an [Acrobatics](../../rules/skills/acrobatics.md) check to move her normal speed across uneven ground, and she does not take a penalty on Acrobatics checks due to slightly slippery, slightly unsteady, or moderately unsteady conditions.
 
-**Windrigger (Ex)**: With a DC 15 Profession (sailor) check, the sea pirate increases her ship's base movement by 5 feet for 1 hour.
+**Windrigger (Ex)**: With a DC 15 [Profession](../../rules/skills/profession.md) (sailor) check, the sea pirate increases her ship's base movement by 5 feet for 1 hour.
 
 **Advanced Tricks**: At 6th, 8th, and 9th level, a sea pirate can choose one of the following advanced tricks in place of a pirate trick.
 

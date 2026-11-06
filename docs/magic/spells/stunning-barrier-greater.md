@@ -8,4 +8,4 @@
 **Duration** 1 round/level or until discharged  
 **Saving Throw** none and Will negates (see text); **Spell Resistance** no and yes (see text)
 
-This spell functions as [*stunning barrier*](stunning-barrier.md), except as noted above, and it provides a +2 bonus to AC and on saving throws. It is not discharged until it has stunned a number of creatures equal to your caster level.
+This spell functions as [*stunning barrier*](stunning-barrier.md), except as noted above, and it provides a +2 bonus to AC and on saving throws. It is not discharged until it has [stunned](../../rules/appendices/conditions.md#stunned) a number of creatures equal to your caster level.

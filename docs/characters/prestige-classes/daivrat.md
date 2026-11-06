@@ -67,7 +67,7 @@ All of the following are class features of the daivrat prestige class.
 
 **Elemental Focus (Su)**: At 1st level, the daivrat gains a measure of connection with elemental powers. Choose one of the following descriptors: acid, air, cold, earth, electricity, fire, or water. When casting spells of the chosen descriptor, the daivrat is considered to possess the Spell Focus feat for that spell. Only one Spell Focus or [Greater Spell Focus](../../rules/feats/greater-spell-focus.md) applies to the casting of a spell.
 
-**Genie-Tongue**: A daivrat is well-versed in communicating with genies and genie-kin. A daivrat gains a +2 bonus on Charisma-based checks to influence the attitudes of genies and allies of genies, and a +4 bonus on Knowledge checks regarding genies.
+**Genie-Tongue**: A daivrat is well-versed in communicating with genies and genie-kin. A daivrat gains a +2 bonus on Charisma-based checks to influence the attitudes of genies and allies of genies, and a +4 bonus on [Knowledge](../../rules/skills/knowledge.md) checks regarding genies.
 
 **Spell-Fetch (Su)**: Once per day, while preparing spells (or spell slots, for spontaneous casters), a daivrat can conjure a minor genie to find an unusual spell for him. The daivrat chooses one spell he does not know, such as a spell from a prohibited school or from another class’s spell list, and sends the genie to fetch magical energy matching that spell. The genie returns after 10 minutes and presents the daivrat with the matching spell energy.
 

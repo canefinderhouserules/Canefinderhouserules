@@ -4,6 +4,6 @@ You realize that sometimes it’s a safer bet to simply get out of danger’s wa
 
 **Prerequisites**: Str 13, Acrobatics 1 rank.
 
-**Benefit**: Whenever you withdraw as a full-round action and have at least one free hand, you can pick up one unattended object or unconscious ally of your size or smaller at any point during your movement without provoking attacks of opportunity. Any additional movement performed on your turn still provokes attacks of opportunity as normal.
+**Benefit**: Whenever you withdraw as a full-round action and have at least one free hand, you can pick up one unattended object or [unconscious](../appendices/conditions.md#unconscious) ally of your size or smaller at any point during your movement without provoking attacks of opportunity. Any additional movement performed on your turn still provokes attacks of opportunity as normal.
 
 In addition, you treat your Strength score as 2 higher for the purpose of determining your carrying capacity.

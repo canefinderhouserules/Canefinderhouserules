@@ -8,4 +8,4 @@
 **Duration** 10 minutes/level (D)  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-You gain a supernatural ability to detect tracks and other clues left behind by the target. You treat the DCs of all Survival checks made to track the target as if they were 5 lower than normal, and you gain a +5 bonus on Perception checks made to notice the target if it is using Stealth or recognize it if it is using Disguise.
+You gain a supernatural ability to detect tracks and other clues left behind by the target. You treat the DCs of all [Survival](../../rules/skills/survival.md) checks made to track the target as if they were 5 lower than normal, and you gain a +5 bonus on [Perception](../../rules/skills/perception.md) checks made to notice the target if it is using [Stealth](../../rules/skills/stealth.md) or recognize it if it is using [Disguise](../../rules/skills/disguise.md).

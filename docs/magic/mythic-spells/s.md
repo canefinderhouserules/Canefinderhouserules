@@ -56,7 +56,7 @@ Each ray's damage increases to 6d6 points of fire damage. The first ray bypasses
 
 **Source** *Ultimate Magic*
 
-The spell's damage increases to 4d8 points of piercing damage. Any creature in the area at the start of your turn must succeed at a Reflex save or be blinded for as long as it remains in the area and for 1d4 rounds after it leaves.
+The spell's damage increases to 4d8 points of piercing damage. Any creature in the area at the start of your turn must succeed at a Reflex save or be [blinded](../../rules/appendices/conditions.md#blinded) for as long as it remains in the area and for 1d4 rounds after it leaves.
 
 **Augmented (5th)**: If you expend two uses of mythic power, the sandstorm's radius and height each increase to 40 feet, and the damage dealt increases to 6d8 points of piercing damage. Each round, you can either move the storm up to 50 feet as a move action or up to 10 feet as a swift action.
 
@@ -102,11 +102,11 @@ The spell's damage increases to 1d8 points of electricity damage per caster leve
 
 Alternatively, if the target is carrying a metal weapon, you may attempt a free disarm combat maneuver against that weapon. This free combat maneuver doesn't provoke attacks of opportunity.
 
-**Augmented**: If you expend two uses of mythic power and the free grapple or disarm combat maneuver is successful, the target is staggered until your next turn. This is an electricity effect.
+**Augmented**: If you expend two uses of mythic power and the free grapple or disarm combat maneuver is successful, the target is [staggered](../../rules/appendices/conditions.md#staggered) until your next turn. This is an electricity effect.
 
 ## Shout
 
-The duration that creatures in the area are deafened increases to 4d6 rounds, and the damage dealt increases to 5d8 points of sonic damage. The damage dealt to crystalline creatures and exposed brittle or crystalline objects increases to 1d8 points of sonic damage per caster level (maximum 15d8). Crystalline creatures reverberate with sonic energy, taking 4 points of sonic damage on your turn for a number of rounds equal to your tier.
+The duration that creatures in the area are [deafened](../../rules/appendices/conditions.md#deafened) increases to 4d6 rounds, and the damage dealt increases to 5d8 points of sonic damage. The damage dealt to crystalline creatures and exposed brittle or crystalline objects increases to 1d8 points of sonic damage per caster level (maximum 15d8). Crystalline creatures reverberate with sonic energy, taking 4 points of sonic damage on your turn for a number of rounds equal to your tier.
 
 ## Silence
 
@@ -152,7 +152,7 @@ The weapon gains your choice of one of the following magic weapon special abilit
 
 ## Stinking Cloud
 
-Creatures that succeed at their saves are sickened while they remain in the cloud and for 1d4+1 rounds after they leave. Creatures that fail their saves continue to be sickened for 1 hour after leaving the cloud.
+Creatures that succeed at their saves are [sickened](../../rules/appendices/conditions.md#sickened) while they remain in the cloud and for 1d4+1 rounds after they leave. Creatures that fail their saves continue to be sickened for 1 hour after leaving the cloud.
 
 ## Stone Shape
 
@@ -180,13 +180,13 @@ Mythic suggestion loses the language-dependent descriptor, and can target one or
 
 ## Summon Swarm
 
-The swarm has the advanced simple template. A swarm of rats or spiders leaves behind a trail of filth or ichor when it moves, which has the effects of a grease spell for 1 round after the swarm passes through an area. Any creature that moves through the affected area is also subject to the swarm's disease or poison, as if attacked by the swarm. A prone creature in the affected area takes a -4 penalty on its saving throw against this affliction. A bat swarm leaves behind a similar trail that lasts for 2 rounds but doesn't have a disease or poison effect.
+The swarm has the advanced simple template. A swarm of rats or spiders leaves behind a trail of filth or ichor when it moves, which has the effects of a grease spell for 1 round after the swarm passes through an area. Any creature that moves through the affected area is also subject to the swarm's disease or poison, as if attacked by the swarm. A [prone](../../rules/appendices/conditions.md#prone) creature in the affected area takes a -4 penalty on its saving throw against this affliction. A bat swarm leaves behind a similar trail that lasts for 2 rounds but doesn't have a disease or poison effect.
 
 ## Sun Metal
 
 **Source** *Ultimate Combat*
 
-The additional damage dealt by the weapon increases to 1d6 points of fire damage. Any creature struck by the weapon is dazzled for 1 round (no saving throw). On a critical hit, the target is blinded for 1 round (Fortitude negates, DC equal to the DC of the spell).
+The additional damage dealt by the weapon increases to 1d6 points of fire damage. Any creature struck by the weapon is [dazzled](../../rules/appendices/conditions.md#dazzled) for 1 round (no saving throw). On a critical hit, the target is blinded for 1 round (Fortitude negates, DC equal to the DC of the spell).
 
 ## Sunbeam
 
@@ -198,6 +198,6 @@ You call forth one beam per 2 caster levels instead of per 3. The damage dealt i
 
 **Source** *Ultimate Magic*
 
-You can cast this spell with no verbal or somatic component, and even if you're helpless (but not unconscious). You temporarily overcome a number of additional harmful conditions equal to half your tier.
+You can cast this spell with no verbal or somatic component, and even if you're [helpless](../../rules/appendices/conditions.md#helpless) (but not [unconscious](../../rules/appendices/conditions.md#unconscious)). You temporarily overcome a number of additional harmful conditions equal to half your tier.
 
-**Augmented (7th)**: If you expend three uses of mythic power, you become immune to all afflictions the spell can normally overcome. In addition, you overcome (but do not become immune to) one of the following conditions: exhausted, nauseated, panicked, petrified, staggered, and stunned.
+**Augmented (7th)**: If you expend three uses of mythic power, you become immune to all afflictions the spell can normally overcome. In addition, you overcome (but do not become immune to) one of the following conditions: [exhausted](../../rules/appendices/conditions.md#exhausted), [nauseated](../../rules/appendices/conditions.md#nauseated), [panicked](../../rules/appendices/conditions.md#panicked), [petrified](../../rules/appendices/conditions.md#petrified), staggered, and [stunned](../../rules/appendices/conditions.md#stunned).

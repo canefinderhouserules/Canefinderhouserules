@@ -4,4 +4,4 @@ The animal is capable of quickly pinpointing hidden prey.
 
 **Prerequisites**: Perception 3 ranks, Stealth 3 ranks, animal companion.
 
-**Benefit**: The animal companion gains a +2 bonus on Perception checks to oppose Stealth checks. When using Perception to pinpoint an invisible creature’s location, this bonus increases to +10. In addition, whenever the animal companion successfully uses Perception to notice a creature using Stealth or to pinpoint an invisible creature’s location, that foe is denied its Dexterity bonus to AC against the next attack the animal companion makes on or before the animal companion’s next turn.
+**Benefit**: The animal companion gains a +2 bonus on [Perception](../skills/perception.md) checks to oppose [Stealth](../skills/stealth.md) checks. When using Perception to pinpoint an invisible creature’s location, this bonus increases to +10. In addition, whenever the animal companion successfully uses Perception to notice a creature using Stealth or to pinpoint an invisible creature’s location, that foe is denied its Dexterity bonus to AC against the next attack the animal companion makes on or before the animal companion’s next turn.

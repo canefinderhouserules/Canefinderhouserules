@@ -104,11 +104,11 @@ The following capstone abilities are for characters who meet the specifications 
 
 **Soul Channel (Su)**: At 20th level, the character can channel energy six additional times per day, and her channel energy dice increase by one step. This capstone is available to characters with the channel energy class feature.
 
-**Walking Library (Ex)**: At 20th level, the character becomes a small, mobile athenaeum of occult scraps and lore. The character adds 100 spell levels' worth of spells to his spellbook or familiar and gains a +4 insight bonus on all Knowledge skills. Characters of any class that prepares spells from a spellbook or familiar can select this ability.
+**Walking Library (Ex)**: At 20th level, the character becomes a small, mobile athenaeum of occult scraps and lore. The character adds 100 spell levels' worth of spells to his spellbook or familiar and gains a +4 insight bonus on all [Knowledge](../../rules/skills/knowledge.md) skills. Characters of any class that prepares spells from a spellbook or familiar can select this ability.
 
 **With This Sword (Ex)**: At 20th level, the character's blade has become as well-known as the character herself. The character selects one item she has—preferably something iconic and significant, such as a weapon or arcane bond. The item becomes a minor artifact and gains 100,000 gp worth of new powers. The player and the GM should work together to select the new powers, with an eye towards making something memorable yet campaign-appropriate. Characters of any class can select this ability.
 
-**Won't Stay Dead (Ex)**: At 20th level, the character becomes a paragon of resilience. Once per week, if the character is killed, petrified, or otherwise removed from play, the character manages to survive by some dint of skill or luck and returns at the end of the combat or the scene (GM's discretion). The player and the GM should work together to ensure that the method of the character's survival is at least vaguely plausible, if unlikely. Characters of any class can select this ability.
+**Won't Stay Dead (Ex)**: At 20th level, the character becomes a paragon of resilience. Once per week, if the character is killed, [petrified](../../rules/appendices/conditions.md#petrified), or otherwise removed from play, the character manages to survive by some dint of skill or luck and returns at the end of the combat or the scene (GM's discretion). The player and the GM should work together to ensure that the method of the character's survival is at least vaguely plausible, if unlikely. Characters of any class can select this ability.
 
 ## Grand Discovery
 

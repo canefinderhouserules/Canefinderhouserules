@@ -153,7 +153,7 @@ A kineticist can choose from among the following elements. Infusion wild talents
 
 Kineticists who focus on the element of aether—a rare substance formed when elemental energy affects the Ethereal Plane—are called telekineticists. Telekineticists use strands of aether to move objects with their minds.
 
-**Class Skills**: A telekineticist adds Knowledge (engineering) and Sleight of Hand to her list of class skills.
+**Class Skills**: A telekineticist adds [Knowledge](../../rules/skills/knowledge.md) (engineering) and Sleight of Hand to her list of class skills.
 
 **Wild Talents**: 1st—basic telekinesis, kinetic cover, kinetic healer, pushing infusion†, telekinetic finesse; 2nd—bowling infusion†, telekinetic haul; 3rd—foe throw†, force hook†, self telekinesis, telekinetic invisibility, touchsight; 4th—telekinetic maneuvers; 5th—aether puppet, force barrier, self telekinesis (greater), touchsight (reactive); 6th—disintegrating infusion†, suffocate; 7th—spell deflection; 8th—many throw†, telekinetic deflection, telekinetic globe.
 
@@ -161,7 +161,7 @@ Kineticists who focus on the element of aether—a rare substance formed when el
 
 Kineticists who focus on the element of air are called aerokineticists. Aerokineticists often control air flow or electricity, specializing in mobility and ranged combat.
 
-**Class Skills**: An aerokineticist adds Fly and Knowledge (nature) to her list of class skills.
+**Class Skills**: An aerokineticist adds [Fly](../../rules/skills/fly.md) and Knowledge (nature) to her list of class skills.
 
 **Wild Talents**: 1st—aerial adaptation, air cushion, air shroud, air’s leap, air’s reach, basic aerokinesis, gusting infusion†, pushing infusion†, thundering infusion†, voice of the wind; 3rd—aerial evasion, celerity, engulfing winds, magnetic infusion†, torrent†, windsight, wings of air; 4th—cyclone†; 5th—air shroud (greater), chain†, windsight (greater); 6th—suffocate, wind manipulator; 7th—cloud†; 8th—weather master.
 
@@ -169,7 +169,7 @@ Kineticists who focus on the element of air are called aerokineticists. Aerokine
 
 Kineticists who focus on the element of earth are called geokineticists. Geokineticists manipulate the earth itself, and they are masters of defensive techniques.
 
-**Class Skills**: A geokineticist adds Climb and Knowledge (dungeoneering) to her list of class skills.
+**Class Skills**: A geokineticist adds [Climb](../../rules/skills/climb.md) and Knowledge (dungeoneering) to her list of class skills.
 
 **Simple Blast**: A geokineticist chooses earth blast or acid blast as her simple blast, as a hydrokineticist chooses water blast or cold blast. She must select earth again with expanded element to gain the other, and having both grants her the corrosive composite blast. A geokineticist with acid blast can select any fire or water wild talent that lists acid among its associated blasts as if it were an earth wild talent.
 
@@ -179,7 +179,7 @@ Kineticists who focus on the element of earth are called geokineticists. Geokine
 
 Kineticists who focus on the element of fire are called pyrokineticists. Pyrokineticists wield elemental fire as a potent weapon, and they possess a powerful offense.
 
-**Class Skills**: A pyrokineticist adds Escape Artist and Knowledge (nature) to her list of class skills.
+**Class Skills**: A pyrokineticist adds [Escape Artist](../../rules/skills/escape-artist.md) and Knowledge (nature) to her list of class skills.
 
 **Wild Talents**: 1st—basic pyrokinesis, burning infusion†, cold adaptation, fan of flames†, fire sculptor, fire’s fury, heat adaptation; 2nd—searing flame; 3rd—eruption†, firesight, flame jet, heat wave, smoke storm, torrent†; 4th—flash infusion†; 5th—flame jet (greater), flame shield, trail of flames, unraveling infusion†; 6th—brilliant infusion†; 7th—explosion†, pure-flame infusion†; 9th—from the ashes.
 

@@ -8,4 +8,4 @@
 **Duration** instantaneous and 1 round/level  
 **Saving Throw** Will partial (see text); **Spell Resistance** yes
 
-You awaken the broken, anguished memories of the countless souls that the target daemon has consumed. These fragmented memories haunt and afflict the daemon, dealing 1d8 points of nonlethal damage per caster level (maximum 15d8) and making it confused for 1 round/level. A successful Will save halves the damage and negates the confusion effect.
+You awaken the broken, anguished memories of the countless souls that the target daemon has consumed. These fragmented memories haunt and afflict the daemon, dealing 1d8 points of nonlethal damage per caster level (maximum 15d8) and making it [confused](../../rules/appendices/conditions.md#confused) for 1 round/level. A successful Will save halves the damage and negates the confusion effect.

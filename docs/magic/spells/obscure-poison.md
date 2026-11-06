@@ -8,4 +8,4 @@
 **Duration** 1 hour/level  
 **Saving Throw** none; **Spell Resistance** no
 
-You make the touched poison difficult to detect or identify. *Detect poison* and similar effects detect an obscured poison only with a successful caster level check against a DC equal to 15 + your caster level (rolled secretly by the GM). Even if the poison is detected, the DC of Craft (alchemy) or Wisdom checks to identify the poison is increased by 10. If cast upon a venomous creature, *obscure poison* disguises all of the creature’s natural poisons in the same way.
+You make the touched poison difficult to detect or identify. *Detect poison* and similar effects detect an obscured poison only with a successful caster level check against a DC equal to 15 + your caster level (rolled secretly by the GM). Even if the poison is detected, the DC of [Craft](../../rules/skills/craft.md) (alchemy) or Wisdom checks to identify the poison is increased by 10. If cast upon a venomous creature, *obscure poison* disguises all of the creature’s natural poisons in the same way.

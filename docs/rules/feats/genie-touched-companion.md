@@ -28,7 +28,7 @@ The stoic istaheq is the favored mount of desert horse-breeding tribes. Istaheqs
 #### Misayyah
 Temperamental, fierce, and courageous, a misayyah usually tolerates only one rider, with whom it forms a close bond—it often grows despondent if separated from its chosen partner. Misayyahs’ coats are a shimmering metallic gold or bay, and they have intense amber eyes.
 **Resist** Fire 10 **Languages** Ignan (cannot speak any language)
-**Firesight (Ex)** A misayyah can see through fire and smoke without penalties. It is immune to the dazzled condition, and it gains a +4 saving throw on Fortitude saves against blindness caused by bright light.
+**Firesight (Ex)** A misayyah can see through fire and smoke without penalties. It is immune to the [dazzled](../appendices/conditions.md#dazzled) condition, and it gains a +4 saving throw on Fortitude saves against blindness caused by bright light.
 
 **Flaming Trail (Su)** Once per day when a misayyah charges, it can leave behind a trail of fire up to 20 feet in length along its path. This functions as per [*wall of fire*](../../magic/spells/wall-of-fire.md) (CL 7th) and lasts for 1 round. If the misayyah makes a single hoof attack after using flaming trail, it deals an additional 2d6 points of fire damage on a successful hit. A creature that takes this fire damage must succeed at a DC 18 Reflex save or catch on fire. The save DC is Constitution-based
 
@@ -36,9 +36,9 @@ Temperamental, fierce, and courageous, a misayyah usually tolerates only one rid
 #### Tuanu
 Tuanus are known for their fluid gait and intuitive responses. They are dark dappled gray with blue eyes.
 **Resist** Cold 10 **Languages** Aquan (cannot speak any language)
-**Fluid Movement (Ex)** A tuanu gains a +2 bonus to its CMD. A tuanu’s rider gains a +5 circumstance bonus on Ride checks to stay in the saddle and on concentration checks attempted as a result of the motion while riding the tuanu. However, the bonus does not apply to concentration checks triggered by other causes, such as being injured while casting or when casting defensively.
+**Fluid Movement (Ex)** A tuanu gains a +2 bonus to its CMD. A tuanu’s rider gains a +5 circumstance bonus on [Ride](../skills/ride.md) checks to stay in the saddle and on concentration checks attempted as a result of the motion while riding the tuanu. However, the bonus does not apply to concentration checks triggered by other causes, such as being injured while casting or when casting defensively.
 
-**Water Sense (Ex)** A tuanu can use Survival to dowse for water. A tuanu does not require a dowsing rod to use this ability, and it gains a +4 racial bonus on Survival checks (for a total bonus of +9) to dowse for water.
+**Water Sense (Ex)** A tuanu can use Survival to dowse for water. A tuanu does not require a dowsing rod to use this ability, and it gains a +4 racial bonus on [Survival](../skills/survival.md) checks (for a total bonus of +9) to dowse for water.
 
 **Waterborn (Su)** A tuanu has the aquatic subtype and the amphibious special quality. It has a swim speed of 30 feet. For up to 1 hour per day, the tuanu can grant a rider the ability to breathe underwater as long as the latter remains mounted.
 #### Zefaheen
@@ -48,4 +48,4 @@ Intelligent, strong willed, and fast as the wind, zefaheens are silvery gray in 
 
 **Desert Walker (Ex)** A zefaheen suffers no harm from hot environments, and it never treats natural desert terrain as difficult terrain. It gains a +4 bonus on all Survival checks made while in a desert. A zefaheen does not leave tracks in a desert, as if under the effects of [*pass without trace*](../../magic/spells/pass-without-trace.md).
 
-**Sand Sense (Ex)** A zefaheen gains a +5 racial bonus on Perception checks in sandy desert environments, as well as a +2 racial bonus on Will saves against illusions (including mirages). The zefaheen can see through mist or sandstorm winds.
+**Sand Sense (Ex)** A zefaheen gains a +5 racial bonus on [Perception](../skills/perception.md) checks in sandy desert environments, as well as a +2 racial bonus on Will saves against illusions (including mirages). The zefaheen can see through mist or sandstorm winds.

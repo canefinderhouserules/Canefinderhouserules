@@ -16,7 +16,7 @@ Misfortune, pestilence, and nightmares follow your family like vermin drawn to c
 
 You may actually be related to the hag, or you may still be suffering the effects of a curse that a hag laid upon your kin in generations past. Now the hag’s powers are part of your heritage.
 
-**Class Skill**: Perception.
+**Class Skill**: [Perception](../../rules/skills/perception.md).
 
 **Bonus Spells**: ray of enfeeblement (3rd), touch of idiocy (5th), ray of exhaustion (7th), bestow curse (9th), feeblemind (11th), eyebite (13th), insanity (15th), dimensional lock (17th), energy drain (19th).
 
@@ -26,11 +26,11 @@ You may actually be related to the hag, or you may still be suffering the effect
 
 **Bloodline Powers**: The source of your power isn’t pretty, but it does allow you to emulate the preternatural ugliness and toughness of a hag—though doing so won’t help you make friends.
 
-**Horrific Visage (Su)**: At 1st level, you can draw upon your hag ancestor to cause one target to perceive you as having a horrifying appearance. As a standard action, you can force one target within 30 feet to make a Will save (DC 10 + 1/2 your sorcerer level + your Charisma modifier) or be shaken for 1 round for every 2 sorcerer levels you possess (minimum 1 round). This is a mind-affecting, fear-based ability. This fear does not stack with other fear effects. You may use this ability a number of times per day equal to 3 + your Charisma modifier.
+**Horrific Visage (Su)**: At 1st level, you can draw upon your hag ancestor to cause one target to perceive you as having a horrifying appearance. As a standard action, you can force one target within 30 feet to make a Will save (DC 10 + 1/2 your sorcerer level + your Charisma modifier) or be [shaken](../../rules/appendices/conditions.md#shaken) for 1 round for every 2 sorcerer levels you possess (minimum 1 round). This is a mind-affecting, fear-based ability. This fear does not stack with other fear effects. You may use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 **Wretched Endurance (Ex)**: At 3rd level, you gain a +2 bonus on all saving throws against charm, cold, fear, fire, and sleep effects. And 9th level, these bonuses increase to +4.
 
-**Dread Gaze (Su)**: At 9th level, you gain a form of the green hag’s evil eye power. As a standard action, you may fix your gaze on any one creature within 60 feet. The target must make a Will save (DC 10 + 1/2 your sorcerer level + your Charisma modifier) or be staggered for 1 round for every 2 sorcerer levels you possess. You may use this ability once per day at 9th level. At 17th level, you can use this ability twice per day. At 20th level, you may use this ability three times per day.
+**Dread Gaze (Su)**: At 9th level, you gain a form of the green hag’s evil eye power. As a standard action, you may fix your gaze on any one creature within 60 feet. The target must make a Will save (DC 10 + 1/2 your sorcerer level + your Charisma modifier) or be [staggered](../../rules/appendices/conditions.md#staggered) for 1 round for every 2 sorcerer levels you possess. You may use this ability once per day at 9th level. At 17th level, you can use this ability twice per day. At 20th level, you may use this ability three times per day.
 
 **Dream Walking (Sp)**: At 15th level, you can enter the ethereal plane. This functions like ethereal jaunt, but with a duration of 1 minute for every 2 sorcerer levels you possess. Once during this trip, you may cast nightmare as a spell-like ability on a creature you see on the Material Plane. (This is an exception to the normal rule that ethereal creatures cannot affect targets on the Material Plane).
 
@@ -40,7 +40,7 @@ You may actually be related to the hag, or you may still be suffering the effect
 
 You can trace your ancestry to one of the foul, corrupted genies known as divs.
 
-**Class Skill**: Knowledge (planes).
+**Class Skill**: [Knowledge](../../rules/skills/knowledge.md) (planes).
 
 **Bonus Spells**: [*disguise self*](../../magic/spells/disguise-self.md) (3rd), [*touch of idiocy*](../../magic/spells/touch-of-idiocy.md) (5th), [*deeper darkness*](../../magic/spells/deeper-darkness.md) (7th), [*bestow curse*](../../magic/spells/bestow-curse.md) (9th), [*insect plague*](../../magic/spells/insect-plague.md) (11th), [*disintegrate*](../../magic/spells/disintegrate.md) (13th), [*insanity*](../../magic/spells/insanity.md) (15th), [*earthquake*](../../magic/spells/earthquake.md) (17th), [*wish*](../../magic/spells/wish.md) (19th).
 
@@ -54,7 +54,7 @@ You can trace your ancestry to one of the foul, corrupted genies known as divs.
 
 **Div Resistances (Ex)**: At 3rd level, you gain fire resistance 5 and a +2 bonus on saving throws against poison. At 9th level, your resistance to fire increases to 10 and your bonus on saving throws against poison increases to +4.
 
-**Corrupting Aura (Ex)**: At 9th level, you can surround yourself with an aura of corrupting energy for a number of rounds per day equal to your sorcerer level. Any creature within 10 feet of you takes 1d6 points of nonlethal damage + 1 for every 2 sorcerer levels you possess, and it is sickened for 1 round. In addition, any creature within the aura that attempts casting a divine spell must succeed at a caster level check (DC 15 + double the level of the spell) or lose the spell. You can use this ability once per day at 9th level, twice per day at 17th, and three times per day at 20th.
+**Corrupting Aura (Ex)**: At 9th level, you can surround yourself with an aura of corrupting energy for a number of rounds per day equal to your sorcerer level. Any creature within 10 feet of you takes 1d6 points of nonlethal damage + 1 for every 2 sorcerer levels you possess, and it is [sickened](../../rules/appendices/conditions.md#sickened) for 1 round. In addition, any creature within the aura that attempts casting a divine spell must succeed at a caster level check (DC 15 + double the level of the spell) or lose the spell. You can use this ability once per day at 9th level, twice per day at 17th, and three times per day at 20th.
 
 **Squander (Su)**: At 15th level, you gain the ability to force others to waste the opportunities they are given. Once per day as a standard action, you can cause a target within 30 feet to gain the staggered condition for a number of rounds equal to your sorcerer level. The duration is halved if the target makes a successful Will save (DC 10 + 1/2 your sorcerer level + your Cha modifier).
 
@@ -130,7 +130,7 @@ You can see beyond the mundane, and are capable of visualizing the improbable, a
 
 **Spontaneous Generation (Ex)**: At 3rd level, you gain [Craft Wondrous Item](../../rules/feats/craft-wondrous-item.md) as a bonus feat. In addition, when you craft a magic item (except a potion, a spell-trigger item, or a spell-completion item), you may ignore one spell prerequisite without increasing the creation DC. You can ignore an additional spell prerequisite at 9th, 15th, and 20th levels.
 
-**Distracting Pattern (Su)**: At 9th level, you can distort the scenery around you for a number of rounds equal to your sorcerer level. This ability provides a 20% miss chance on ranged attacks made against you and grants you a bonus on Stealth checks equal to 1/2 your sorcerer level. You can use this ability once per day at 9th level, twice per day at 17th level, and three times per day at 20th level.
+**Distracting Pattern (Su)**: At 9th level, you can distort the scenery around you for a number of rounds equal to your sorcerer level. This ability provides a 20% miss chance on ranged attacks made against you and grants you a bonus on [Stealth](../../rules/skills/stealth.md) checks equal to 1/2 your sorcerer level. You can use this ability once per day at 9th level, twice per day at 17th level, and three times per day at 20th level.
 
 **Relativity (Su)**: At 15th level, you can traverse vertical surfaces as easily as you walk on the ground. When climbing, you move at your normal land speed and take none of the penalties associated with climbing. The surface must be able to support your weight, and difficult terrain affects your speed as normal. You are also immune to [*reverse gravity*](../../magic/spells/reverse-gravity.md) and similar effects.
 
@@ -140,7 +140,7 @@ You can see beyond the mundane, and are capable of visualizing the improbable, a
 
 The spiritual power of art and song runs strongly through your family line. This may be the result of ancient pacts made with azata patrons, or even an inheritance from a lillend or trumpet archon ancestor. It could also be the lingering taint of a less savory heritage, such as from a harpy or a forefather driven to madness by the disquieting gibbering of a shoggoth. However it came to be, your family’s artistic bent shows itself strongly in your magic.
 
-**Class Skill**: Perform.
+**Class Skill**: [Perform](../../rules/skills/perform.md).
 
 **Bonus Spells**: ventriloquism (3rd), hideous laughter (5th), suggestion (7th), shout (9th), dominate person (11th), mass suggestion (13th), power word blind (15th), greater shout (17th), wail of the banshee (19th).
 
@@ -152,7 +152,7 @@ The spiritual power of art and song runs strongly through your family line. This
 
 **Beguiling Voice (Ex)**: At 1st level, you can use the sound of your voice to lull a target creature into taking no action. This ability acts as the daze spell, except it is language-dependent, has a duration of 1 round, and affects a living creature whose Hit Dice do not exceed your sorcerer level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
-**Fascinate (Ex)**: At 3rd level, you gain the ability to use a Perform skill to cause one or more creatures to become fascinated with you. This acts as the fascinate bardic perform ability, except the save DC is 10 + 1/2 your sorcerer level + your Charisma bonus, and it lasts 1 round/level. You may use this ability once per day at 3rd level, twice per day at 8th level, three times per day at 13th level, and four times per day at 18th level.
+**Fascinate (Ex)**: At 3rd level, you gain the ability to use a Perform skill to cause one or more creatures to become [fascinated](../../rules/appendices/conditions.md#fascinated) with you. This acts as the fascinate bardic perform ability, except the save DC is 10 + 1/2 your sorcerer level + your Charisma bonus, and it lasts 1 round/level. You may use this ability once per day at 3rd level, twice per day at 8th level, three times per day at 13th level, and four times per day at 18th level.
 
 **Perfect Voice (Su)**: At 9th level, you understand all efforts to communicate through sound, and can make yourself understood to any creature able to understand language.
 
@@ -210,7 +210,7 @@ Naga blood flows within your veins. Perhaps a curious naga experimented upon one
 
 **Ensnaring Eyes (Su)**: At 9th level, add 2 to the save DC of any spell, spell-like ability, or supernatural ability you use that causes a target to become fascinated or that belongs to the charm subschool.
 
-**Cast without Hands (Su)**: At 15th level, you learn to eschew the use of your hands when casting spells, as a naga would. Whenever you cast an arcane spell with a somatic component, you can do so even with your hands full, by twisting and gyrating your body. This doubles the arcane spell failure chance from your armor (if any), and you can't use this ability if you are pinned or immobile.
+**Cast without Hands (Su)**: At 15th level, you learn to eschew the use of your hands when casting spells, as a naga would. Whenever you cast an arcane spell with a somatic component, you can do so even with your hands full, by twisting and gyrating your body. This doubles the arcane spell failure chance from your armor (if any), and you can't use this ability if you are [pinned](../../rules/appendices/conditions.md#pinned) or immobile.
 
 **Power of the Naga (Su)**: At 20th level, your form becomes enhanced by the power of the naga. You gain immunity to charm effects, mind-reading effects, and poison. In addition, you can also assume the shape of a naga at will as if using [*naga shape III*](../../magic/spells/naga-shape-iii.md).
 
@@ -242,13 +242,13 @@ Your conception was marked by an alien influence. Either you were born from one 
 
 As slaves of capricious oni lords, your ancestors were forced to yield to their masters’ hedonistic desires, inevitably tainting their descendents with oni blood. Now, you wield the powers of the oni thanks to your vile heritage.
 
-**Class Skill**: Intimidate.
+**Class Skill**: [Intimidate](../../rules/skills/intimidate.md).
 
 **Bonus Spells**: *ray of enfeeblement* (3rd), *invisibility* (5th), *fly* (7th), [*charm monster*](../../magic/spells/charm-monster.md) (9th), [*cone of cold*](../../magic/spells/cone-of-cold.md) (11th), *greater dispel magic* (13th), [*waves of exhaustion*](../../magic/spells/waves-of-exhaustion.md) (15th), [*trap the soul*](../../magic/spells/trap-the-soul.md) (17th), [*dominate monster*](../../magic/spells/dominate-monster.md) (19th).
 
 **Bonus Feats**: Combat Expertise, [Combat Reflexes](../../rules/feats/combat-reflexes.md), Enforcer, [Fast Healer](../../rules/feats/fast-healer.md), Improved Initiative, Iron Will, Power Attack, Skill Focus (Intimidate), Exotic Weapon Proficiency ([katana](../../equipment/weapons-eastern.md#exotic-one-handed-melee-weapons)).
 
-**Bloodline Arcana**: Whenever you cast a spell of the charm or compulsion subschool, you gain a bonus on Bluff, Diplomacy, and Intimidate skill checks equal to the level of the spell for 1d4 rounds.
+**Bloodline Arcana**: Whenever you cast a spell of the charm or compulsion subschool, you gain a bonus on [Bluff](../../rules/skills/bluff.md), [Diplomacy](../../rules/skills/diplomacy.md), and Intimidate skill checks equal to the level of the spell for 1d4 rounds.
 
 **Bloodline Powers**: While some would call you cursed, you have learned to unlock the powers of your oni heritage. Your emergent cruelty becomes more dominant as your power increases.
 
@@ -266,7 +266,7 @@ As slaves of capricious oni lords, your ancestors were forced to yield to their 
 
 The rage of your orc ancestors burns within you.
 
-**Class Skill**: Survival.
+**Class Skill**: [Survival](../../rules/skills/survival.md).
 
 **Bonus Spells**: [*burning hands*](../../magic/spells/burning-hands.md) (3rd), [*bull’s strength*](../../magic/spells/bulls-strength.md) (5th), [*rage*](../../magic/spells/rage.md) (7th), [*wall of fire*](../../magic/spells/wall-of-fire.md) (9th), [*cloudkill*](../../magic/spells/cloudkill.md) (11th), [*transformation*](../../magic/spells/transformation.md) (13th), [*delayed blast fireball*](../../magic/spells/delayed-blast-fireball.md) (15th), *iron body* (17th), [*meteor swarm*](../../magic/spells/meteor-swarm.md) (19th).
 
@@ -292,13 +292,13 @@ The rage of your orc ancestors burns within you.
 
 At some point in your family’s history, one of your ancestors was tainted by the influence of a rakshasa. Though most of your family seem entirely normal, you have always felt your own skin is a prison from which magic allows you to escape. Your birthright is a secret you may be forced to keep from societies that would never deal with you if your heritage were known.
 
-**Class Skill**: Disguise.
+**Class Skill**: [Disguise](../../rules/skills/disguise.md).
 
 **Bonus Spells**: charm person (3rd), invisibility (5th), suggestion (7th), detect scrying (9th), prying eyes (11th), mass suggestion (13th), greater polymorph (15th), mind blank (17th), dominate monster (19th).
 
 **Bonus Feats**: [Arcane Armor Mastery](../../rules/feats/arcane-armor-mastery.md), [Arcane Armor Training](../../rules/feats/arcane-armor-training.md), Deceptive, [Detect Expertise](../../rules/feats/detect-expertise.md)\*, [Light Armor](../../equipment/armor.md) Proficiency, Martial Weapon Proficiency, Mystic Motif\*, Stealthy.
 
-**Bloodline Arcana**: Add half your sorcerer level to the Spellcraft DC for others to identify spells you cast. If their checks fail by 5 or more, they mistakenly believe you are casting an entirely different spell (selected by you when you begin casting).
+**Bloodline Arcana**: Add half your sorcerer level to the [Spellcraft](../../rules/skills/spellcraft.md) DC for others to identify spells you cast. If their checks fail by 5 or more, they mistakenly believe you are casting an entirely different spell (selected by you when you begin casting).
 
 **Bloodline Powers**: You can call upon the nearly divine power of your rakshasa ancestors, giving you the power to convincingly deceive your enemies.
 
@@ -318,7 +318,7 @@ Activating this ability is a swift action. You gain a +5 bonus on one Bluff chec
 
 You are descended from the elemental outsiders known as salamanders. You wield flame as a weapon and a tool, and your smithing skills are unrivaled.
 
-**Class Skill**: Acrobatics.
+**Class Skill**: [Acrobatics](../../rules/skills/acrobatics.md).
 
 **Bonus Spells**: *Magic weapon* (3rd), [*molten orb*](../../magic/spells/molten-orb.md) (5th), [*magic vestment*](../../magic/spells/magic-vestment.md) (7th), [*fire shield*](../../magic/spells/fire-shield.md) (warm shield) (9th), [*fire snake*](../../magic/spells/fire-snake.md) (11th), [*tar pool*](../../magic/spells/tar-pool.md) (13th), [*firebrand*](../../magic/spells/firebrand.md) (15th), [*wall of lava*](../../magic/spells/wall-of-lava.md) (17th), *meteor swarm* (19th).
 
@@ -328,7 +328,7 @@ You are descended from the elemental outsiders known as salamanders. You wield f
 
 **Bloodline Powers**: Your salamander blood gives you great skill at crafting, even as it reshapes your form.
 
-**Ember (Su)**: At 1st level, when making a Craft check involving metal, you can expend any number of uses of this ability (up to half your sorcerer level, minimum one use) to gain a circumstance bonus on the check equal to twice the number of uses expended. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+**Ember (Su)**: At 1st level, when making a [Craft](../../rules/skills/craft.md) check involving metal, you can expend any number of uses of this ability (up to half your sorcerer level, minimum one use) to gain a circumstance bonus on the check equal to twice the number of uses expended. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 **Forge and Fire (Su)**: At 3rd level, you gain Craft Magic Arms and Armor as a bonus feat. In addition, whenever you cast a nonpermanent, noninstantaneous spell that improves or enhances a manufactured weapon, you can also give that weapon the *flaming* special ability for the spell’s duration. (This has no effect if the weapon already has the *flaming* special ability.)
 
@@ -398,7 +398,7 @@ You trace your ancestry to a bygone civilization and can call upon its forgotten
 
 **Bonus Feats**: [Arcane Strike](../../rules/feats/arcane-strike.md), [Augment Summoning](../../rules/feats/augment-summoning.md), Craft Wondrous Item, [Echoing Spell](../../rules/feats/echoing-spell.md), Iron Will, Leadership, Skill Focus (Knowledge [history]), Spell Focus.
 
-**Bloodline Arcana**: Whenever you cast a spell of the divination school, you see into the past. You gain an insight bonus equal to the divination spell's level on the next Appraise, Craft, or Knowledge skill check you attempt within 24 hours.
+**Bloodline Arcana**: Whenever you cast a spell of the divination school, you see into the past. You gain an insight bonus equal to the divination spell's level on the next [Appraise](../../rules/skills/appraise.md), Craft, or Knowledge skill check you attempt within 24 hours.
 
 **Bloodline Powers**: Your connection to your past allows you to tap into ancient secrets and power.
 
@@ -420,7 +420,7 @@ New spells presented in the Advanced Player's Guide are marked with asterisks (\
 
 Your family traces its heritage back to the ocean depths, whether scions of undersea empires left in the wake of nomadic sea-tribes, or the spawn of creeping ichthyic infiltrators into remote seaside villages. The song of the sea hums in your blood, calling the waves and all those within to your command.
 
-**Class Skill**: Swim.
+**Class Skill**: [Swim](../../rules/skills/swim.md).
 
 **Bonus Spells**: hydraulic push\* (3rd), slipstream\* (5th), aqueous orb\* (7th), geyser\* (9th), control water (11th), beast shape IV (13th), summon monster VII (15th), seamantle\* (17th), world wave\* (19th).
 
@@ -466,7 +466,7 @@ Descended from inhabitants of the lands of ice and snow, you count among your an
 
 ### Deep Earth
 
-The echoing cave-songs and the rumble and creak of primal spirits deep below the ground thrum in your soul and in all your family line. You are likely slow, steady, and stable in your thinking, little prone to wandering and preferring to instead find depth in contemplation.
+The echoing cave-songs and the rumble and creak of primal spirits deep below the ground thrum in your soul and in all your family line. You are likely slow, steady, and stable in your thinking, little [prone](../../rules/appendices/conditions.md#prone) to wandering and preferring to instead find depth in contemplation.
 
 **Class Skill**: Knowledge (dungeoneering).
 
@@ -492,7 +492,7 @@ The echoing cave-songs and the rumble and creak of primal spirits deep below the
 
 Your family is a long line of dreamers, who dream not as ordinary mortals do but rather as those who reach through and touch the supernal realm of dreams and the farthest shores of night. Whether it is a gift or curse is not always clear, but your visions of the past and future call you ineluctably to a life of adventure.
 
-**Class Skill**: Sense Motive.
+**Class Skill**: [Sense Motive](../../rules/skills/sense-motive.md).
 
 **Bonus Spells**: sleep (3rd), augury (5th), deep slumber (7th), divination (9th), dream (11th), shadow walk (13th), vision (15th), moment of prescience (17th), astral projection (19th).
 
@@ -526,7 +526,7 @@ You have in your veins the ever-changing wildness of primal chaos, the raw essen
 
 **Bloodline Powers**: Your ancestral immersion in primordial chaos begets your curiously warped magical talents.
 
-**Protoplasm (Sp)**: At 1st level, you can create a ball of entropic protoplasm and hurl it at targets within 30 feet. This protoplasm acts as a tanglefoot bag that also inflicts 1 point of acid damage per round to a creature entangled by it. The protoplasm dissolves within 1d3 rounds. You may use this ability a number of times per day equal to 3 + your Charisma modifier.
+**Protoplasm (Sp)**: At 1st level, you can create a ball of entropic protoplasm and hurl it at targets within 30 feet. This protoplasm acts as a tanglefoot bag that also inflicts 1 point of acid damage per round to a creature [entangled](../../rules/appendices/conditions.md#entangled) by it. The protoplasm dissolves within 1d3 rounds. You may use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 **Protean Resistances (Ex)**: At 3rd level, you gain resist acid 5 and a +2 bonus on saving throws against polymorph, petrification, and transmutation spells or effects. At 9th level, you gain resist acid 10 and your save bonus increases to +4.
 
@@ -554,7 +554,7 @@ Your bloodline carries the lingering stain of ancient serpent races that ruled w
 
 **Serpentfriend (Ex)**: At 3rd level, you can use speak with animals at will with reptilian animals (including various forms of dinosaurs, lizards, and other cold-blooded creatures), and you gain a viper familiar using your sorcerer level –2 as your effective wizard level.
 
-**Snakeskin (Ex)**: At 9th level, you gain a +1 bonus to natural armor, a +2 racial bonus on saves against poison, and a +2 bonus on Escape Artist checks. At 13th level and 17th level, these bonuses increase by +1.
+**Snakeskin (Ex)**: At 9th level, you gain a +1 bonus to natural armor, a +2 racial bonus on saves against poison, and a +2 bonus on [Escape Artist](../../rules/skills/escape-artist.md) checks. At 13th level and 17th level, these bonuses increase by +1.
 
 **Den of Vipers (Sp)**: At 15th level, you may summon a host of writhing serpents. This power acts as creeping doom, but the swarms’ poison inflicts Con damage and any creature other than you sharing a space with a swarm is entangled. You may use this ability once per day.
 
@@ -574,7 +574,7 @@ Spirits from the shadow plane dally at times in the world of light, and such as 
 
 **Bloodline Powers**: Your benighted heritage infuses your mastery of magic with the essence of shadowstuff.
 
-**Shadowstrike (Sp)**: At 1st level, you can make a melee touch attack as a standard action that inflicts 1d4 points of nonlethal damage + 1 for every two sorcerer levels you possess. In addition, the target is dazzled for 1 minute. Creatures with low-light vision or darkvision are not dazzled by this ability. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+**Shadowstrike (Sp)**: At 1st level, you can make a melee touch attack as a standard action that inflicts 1d4 points of nonlethal damage + 1 for every two sorcerer levels you possess. In addition, the target is [dazzled](../../rules/appendices/conditions.md#dazzled) for 1 minute. Creatures with low-light vision or darkvision are not dazzled by this ability. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 **Nighteye (Ex)**: At 3rd level, you gain darkvision 30 feet. At 9th level, you gain darkvision 60 feet. If you already possess darkvision, its range is increased by these amounts.
 
@@ -616,7 +616,7 @@ You trace your heritage to fierce and proud spirits of storm and sky, and living
 
 **Bonus Spells**: shocking grasp (3rd), gust of wind (5th), lightning bolt (7th), shout (9th), overland flight (11th), chain lightning (13th), control weather (15th), whirlwind (17th), storm of vengeance (19th).
 
-**Bonus Feats**: [Deadly Aim](../../rules/feats/deadly-aim.md), Dodge, Enlarge Spell, Far Shot, Great Fortitude, Point Blank Shot, Skill Focus (Fly), [Wind Stance](../../rules/feats/wind-stance.md).
+**Bonus Feats**: [Deadly Aim](../../rules/feats/deadly-aim.md), Dodge, Enlarge Spell, Far Shot, Great Fortitude, Point Blank Shot, Skill Focus ([Fly](../../rules/skills/fly.md)), [Wind Stance](../../rules/feats/wind-stance.md).
 
 **Bloodline Arcana**: Whenever you cast a spell with the electricity or sonic descriptor, increase the save DC by 1.
 
@@ -628,7 +628,7 @@ At 9th level, you can confer the shocking burst property instead, but the durati
 
 **Stormchild (Ex)**: At 3rd level, you gain resist electricity 5 and resist sonic 5, and treat wind effects as being one step less severe. At 9th level, you treat wind effects as being two steps less severe and gain blindsense 60 feet against concealment from natural or magical fog, mist, or weather effects.
 
-**Thunderbolt (Sp)**: At 9th level, you can command a stroke of lightning to strike from above in a 5-foot-radius cylinder 60 feet high. The thunderbolt inflicts 1d6 points of damage per sorcerer level; half of this damage is electricity and half is sonic. A Reflex save (DC 10 + 1/2 your sorcerer level + your Charisma modifier) halves this damage. Creatures failing their saves are deafened for 1 round. At 9th level, you can use this ability once per day, at 17th twice per day, and at 20th three times per day. This power has a range of 120 feet.
+**Thunderbolt (Sp)**: At 9th level, you can command a stroke of lightning to strike from above in a 5-foot-radius cylinder 60 feet high. The thunderbolt inflicts 1d6 points of damage per sorcerer level; half of this damage is electricity and half is sonic. A Reflex save (DC 10 + 1/2 your sorcerer level + your Charisma modifier) halves this damage. Creatures failing their saves are [deafened](../../rules/appendices/conditions.md#deafened) for 1 round. At 9th level, you can use this ability once per day, at 17th twice per day, and at 20th three times per day. This power has a range of 120 feet.
 
 **Ride the Lightning (Sp)**: At 15th level, as a full-round action you can become a living lightning bolt and move in a straight line up to 10 times your speed. You do not provoke attacks of opportunity while moving in this way. Creatures or objects in your path are affected as by your thunderbolt power. Creatures do not block your movement but solid barriers do unless they are reduced to 0 hit points. You can use this power once per day for a number of rounds equal to your sorcerer level.
 
@@ -666,7 +666,7 @@ At 9th level, these bonuses increase to +4.
 
 While many kobold sorcerers tout their purely draconic bloodline, over generations of eldritch training, some such spellcasters have created a bloodline that, while tinged with some draconic magic, is the embodiment of the race’s virtue distilled into arcane form. Many practitioners of this bloodline go on to lead powerful kobold tribes.
 
-**Class Skill**: Disable Device.
+**Class Skill**: [Disable Device](../../rules/skills/disable-device.md).
 
 **Bonus Spells**: [*alarm*](../../magic/spells/alarm.md) (3rd), [*create pit*](../../magic/spells/create-pit.md) (5th), [*explosive runes*](../../magic/spells/explosive-runes.md) (7th), [*dragon’s breath*](../../magic/spells/dragons-breath.md) (9th), [*transmute rock to mud*](../../magic/spells/transmute-rock-to-mud.md) (11th), [*guards and wards*](../../magic/spells/guards-and-wards.md) (13th), *delayed blast fireball* (15th), *form of the dragon III* (17th), [*imprisonment*](../../magic/spells/imprisonment.md) (19th).
 
@@ -694,7 +694,7 @@ The weight of lineage can sometimes grant a connection to venom of various types
 
 Whether your ancestors served a scorpion deity or simply worked closely with more mundane members of the species, the venom from these arachnids has seeped down through generations into your blood.
 
-**Class Skill**: Climb.
+**Class Skill**: [Climb](../../rules/skills/climb.md).
 
 **Bonus Spells**: [*thorn javelin*](../../magic/spells/thorn-javelin.md) (3rd), [*spider climb*](../../magic/spells/spider-climb.md) (5th), *poison* (7th), [*giant vermin*](../../magic/spells/giant-vermin.md) (scorpions only) (9th), *vermin shape II* (11th), [*sirocco*](../../magic/spells/sirocco.md) (13th), [*creeping doom*](../../magic/spells/creeping-doom.md) (15th), [*horrid wilting*](../../magic/spells/horrid-wilting.md) (17th), [*transmute blood to acid*](../../magic/spells/transmute-blood-to-acid.md) (19th).
 
@@ -712,7 +712,7 @@ Whether your ancestors served a scorpion deity or simply worked closely with mor
 
 **Sandwalker (Ex)**: At 15th level, you gain a burrow speed of 30 feet and tremorsense with a range of 60 feet.
 
-**It Is My Nature (Su)**: At 20th level, your poisoned blood protects you, reflexively conjuring an ethereal stinger to lash out at foes who come too close. Three times per day when an enemy moves into a square adjacent to you, you can make a melee touch attack against the creature as an immediate action. On a hit, the creature must succeed at a Fortitude save (DC = 10 + half your sorcerer level + your Charisma modifier) or die. A creature that succeeds at this Fortitude save is immune to this effect for 24 hours. This is a poison and death effect. You can use this ability even when you are surprised or flat-footed.
+**It Is My Nature (Su)**: At 20th level, your poisoned blood protects you, reflexively conjuring an ethereal stinger to lash out at foes who come too close. Three times per day when an enemy moves into a square adjacent to you, you can make a melee touch attack against the creature as an immediate action. On a hit, the creature must succeed at a Fortitude save (DC = 10 + half your sorcerer level + your Charisma modifier) or die. A creature that succeeds at this Fortitude save is immune to this effect for 24 hours. This is a poison and death effect. You can use this ability even when you are surprised or [flat-footed](../../rules/appendices/conditions.md#flat-footed).
 
 ## Crossblooded
 
@@ -806,7 +806,7 @@ Your heavenly power derives from insight rather than force of personality.
 
 **Associated Bloodline**: Celestial.
 
-**Bloodline Arcana**: Unlike most sorcerers whose innate magic is powered by force of personality, you use pure willpower to master and fuel your magic. You use your Wisdom, rather than your Charisma, to determine all class features and effects relating to your sorcerer class, such as bonus spells per day, maximum spell level you can cast, and the save DCs of your spells. You gain a +2 bonus on all Heal and Knowledge (religion) checks.
+**Bloodline Arcana**: Unlike most sorcerers whose innate magic is powered by force of personality, you use pure willpower to master and fuel your magic. You use your Wisdom, rather than your Charisma, to determine all class features and effects relating to your sorcerer class, such as bonus spells per day, maximum spell level you can cast, and the save DCs of your spells. You gain a +2 bonus on all [Heal](../../rules/skills/heal.md) and Knowledge (religion) checks.
 
 **Bloodline Powers**: Your quasi-divine nature gives you strange powers.
 
@@ -858,7 +858,7 @@ Your soul is infused with the restorative and life-giving powers of elemental wa
 
 **Bloodline Powers**: Your powers are revitalizing rather than destructive.
 
-**Lifewater Stream (Su)**: At 9th level, once per day, you can unleash a surge of restorative elemental water that aids your allies. This ability affects creatures in a 30-foot line extending from your palm, and you can select one of the following conditions to remove from the affected creatures: fatigued, shaken, or sickened. Creatures affected by a more extreme version of the chosen condition (such as exhausted for fatigued, frightened for shaken, and nauseated for sickened) have their condition reduced to the less extreme version. At 17th level, you can use this ability twice per day, and you can choose from the following additional conditions: blinded, deafened, dazed, and staggered. At 20th level, you can use this ability three times per day. This bloodline power replaces elemental blast.
+**Lifewater Stream (Su)**: At 9th level, once per day, you can unleash a surge of restorative elemental water that aids your allies. This ability affects creatures in a 30-foot line extending from your palm, and you can select one of the following conditions to remove from the affected creatures: [fatigued](../../rules/appendices/conditions.md#fatigued), shaken, or sickened. Creatures affected by a more extreme version of the chosen condition (such as [exhausted](../../rules/appendices/conditions.md#exhausted) for fatigued, [frightened](../../rules/appendices/conditions.md#frightened) for shaken, and [nauseated](../../rules/appendices/conditions.md#nauseated) for sickened) have their condition reduced to the less extreme version. At 17th level, you can use this ability twice per day, and you can choose from the following additional conditions: [blinded](../../rules/appendices/conditions.md#blinded), deafened, [dazed](../../rules/appendices/conditions.md#dazed), and staggered. At 20th level, you can use this ability three times per day. This bloodline power replaces elemental blast.
 
 ### Linnorm
 
@@ -1187,7 +1187,7 @@ Oracles and sorcerers gain their magical powers through strange and mysterious w
 
 The so-called "priests" of certain self-proclaimed living gods are magical charlatans—missionary servants who spread their master's fervent devotion wherever they travel. Altered by their patron's magic, they can perform feats impossible for other sorcerers.
 
-**False Piety (Ex)**: At 1st level, a sham priest gains Knowledge (religion) and Perform as class skills, but loses Appraise and Fly as class skills. He adds half his sorcerer level to Use Magic Device checks to activate spell trigger and spell completion items that use divine spells. He gains [False Focus](../../rules/feats/false-focus.md) as a bonus feat. In addition to replacing Appraise and Fly as class skills, this ability replaces the [sorcerer's Eschew Materials](sorcerer.md#eschew-materials) bonus feat.
+**False Piety (Ex)**: At 1st level, a sham priest gains Knowledge (religion) and Perform as class skills, but loses Appraise and Fly as class skills. He adds half his sorcerer level to [Use Magic Device](../../rules/skills/use-magic-device.md) checks to activate spell trigger and spell completion items that use divine spells. He gains [False Focus](../../rules/feats/false-focus.md) as a bonus feat. In addition to replacing Appraise and Fly as class skills, this ability replaces the [sorcerer's Eschew Materials](sorcerer.md#eschew-materials) bonus feat.
 
 **Lay Healer (Su)**: At 3rd level, the sham priest adds *aid* to his list of spells known as a 2nd-level spell. At 5th level, he adds [*remove disease*](../../magic/spells/remove-disease.md) to his list of spells known as a 3rd-level spell. This ability replaces the bloodline spells gained at 3rd level and 5th level respectively.
 

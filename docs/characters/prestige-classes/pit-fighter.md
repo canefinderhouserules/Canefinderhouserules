@@ -27,7 +27,7 @@ To qualify to become a pit fighter, a character must fulfill all of the followin
 
 **Feats**: [Dazzling Display](../../rules/feats/dazzling-display.md).
 
-**Skills**: Intimidate 5 ranks; Perform (act), Perform (comedy), or Perform (dance) 3 ranks.
+**Skills**: Intimidate 5 ranks; [Perform](../../rules/skills/perform.md) (act), Perform (comedy), or Perform (dance) 3 ranks.
 
 **Special**: Orc ferocity racial trait or the rage class feature.
 
@@ -61,7 +61,7 @@ The pit fighter can use this ability one additional time per day at 4th level an
 
 **Weapon Trick (Ex)**: At 3rd level, a pit fighter gains [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md) as a bonus feat, and can use any weapon with the performance quality to perform a dirty trick combat maneuver. Once per round when the pit fighter performs a dirty trick maneuver against an enemy, he may deal damage to the enemy as if he had struck it with his normal melee attack. The pit fighter must be wielding a weapon and have at least one hand free to use this ability.
 
-**Roar of the Crowd (Ex)**: At 5th level, the roar of applause spurs a pit fighter on to greater acts of violence and brutality. When fighting a performance combat, the pit fighter can enter a rage (as per the barbarian class ability) during any round in which the crowd’s attitude toward him is helpful. This is in addition to the normal bonuses the crowd’s attitude provides. The pit fighter can maintain his rage each round so long as the crowd’s attitude toward him remains helpful. If the crowd’s attitude ever drops below helpful, the pit fighter’s rage immediately ends (though if he possesses the rage ability from another class, he may expend a round of his rage to continue the effect as normal for that class feature). If, after using this ability, the crowd’s attitude ever drops to unfriendly or hostile, the pit fighter becomes fatigued. He remains fatigued for as long as the crowd remains unfriendly or hostile or until the end of the combat, whichever comes first.
+**Roar of the Crowd (Ex)**: At 5th level, the roar of applause spurs a pit fighter on to greater acts of violence and brutality. When fighting a performance combat, the pit fighter can enter a rage (as per the barbarian class ability) during any round in which the crowd’s attitude toward him is helpful. This is in addition to the normal bonuses the crowd’s attitude provides. The pit fighter can maintain his rage each round so long as the crowd’s attitude toward him remains helpful. If the crowd’s attitude ever drops below helpful, the pit fighter’s rage immediately ends (though if he possesses the rage ability from another class, he may expend a round of his rage to continue the effect as normal for that class feature). If, after using this ability, the crowd’s attitude ever drops to unfriendly or hostile, the pit fighter becomes [fatigued](../../rules/appendices/conditions.md#fatigued). He remains fatigued for as long as the crowd remains unfriendly or hostile or until the end of the combat, whichever comes first.
 
 **Tricky Assault (Ex)**: At 6th level, a pit fighter gains [Quick Dirty Trick](../../rules/feats/quick-dirty-trick.md) as a bonus feat. This allows the pit fighter to perform a single dirty trick combat maneuver in place of one of his melee attacks on his turn. He must choose the melee attack with the highest base attack bonus to make the dirty trick combat maneuver.
 

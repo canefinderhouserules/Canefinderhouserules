@@ -32,11 +32,11 @@ The rogue must be able to see the target well enough to pick out a vital spot an
 
 ### Trapfinding
 
-A rogue adds 1/2 her level to Perception skill checks made to locate traps and to Disable Device skill checks (minimum +1). A rogue can use Disable Device to disarm magic traps.
+A rogue adds 1/2 her level to [Perception](../../rules/skills/perception.md) skill checks made to locate traps and to [Disable Device](../../rules/skills/disable-device.md) skill checks (minimum +1). A rogue can use Disable Device to disarm magic traps.
 
 ### Evasion (Ex)
 
-At 2nd level and higher, a rogue can avoid even magical and unusual attacks with great agility. If she makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the rogue is wearing light armor or no armor. A helpless rogue does not gain the benefit of evasion.
+At 2nd level and higher, a rogue can avoid even magical and unusual attacks with great agility. If she makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the rogue is wearing light armor or no armor. A [helpless](../../rules/appendices/conditions.md#helpless) rogue does not gain the benefit of evasion.
 
 ### Rogue Talents
 
@@ -44,15 +44,15 @@ As a rogue gains experience, she learns a number of talents that aid her and con
 
 Talents marked with an asterisk add effects to a rogue’s sneak attack. Only one of these talents can be applied to an individual attack and the decision must be made before the attack roll is made.
 
-*Bleeding Attack* (Ex)*: A rogue with this ability can cause living opponents to bleed by hitting them with a sneak attack. This attack causes the target to take 1 additional point of damage each round for each die of the rogue’s sneak attack (e.g., 4d6 equals 4 points of bleed). Bleeding creatures take that amount of damage every round at the start of each of their turns. The bleeding can be stopped by a DC 15 Heal check or the application of any effect that heals hit point damage. Bleeding damage from this ability does not stack with itself. Bleeding damage bypasses any damage reduction the creature might possess.
+*Bleeding Attack* (Ex)*: A rogue with this ability can cause living opponents to bleed by hitting them with a sneak attack. This attack causes the target to take 1 additional point of damage each round for each die of the rogue’s sneak attack (e.g., 4d6 equals 4 points of bleed). Bleeding creatures take that amount of damage every round at the start of each of their turns. The bleeding can be stopped by a DC 15 [Heal](../../rules/skills/heal.md) check or the application of any effect that heals hit point damage. Bleeding damage from this ability does not stack with itself. Bleeding damage bypasses any damage reduction the creature might possess.
 
 *Combat Trick*: A rogue that selects this talent gains a bonus combat feat.
 
-*Fast Stealth (Ex)*: This ability allows a rogue to move at full speed using the Stealth skill without penalty.
+*Fast Stealth (Ex)*: This ability allows a rogue to move at full speed using the [Stealth](../../rules/skills/stealth.md) skill without penalty.
 
 *Finesse Rogue*: A rogue that selects this talent gains [Weapon Finesse](../../rules/feats/weapon-finesse.md) as a bonus feat.
 
-*Ledge Walker (Ex)*: This ability allows a rogue to move along narrow surfaces at full speed using the Acrobatics skill without penalty. In addition, a rogue with this talent is not flat-footed when using Acrobatics to move along narrow surfaces. In addition, you can do a 5-foot step in difficult terrain once a day.
+*Ledge Walker (Ex)*: This ability allows a rogue to move along narrow surfaces at full speed using the [Acrobatics](../../rules/skills/acrobatics.md) skill without penalty. In addition, a rogue with this talent is not [flat-footed](../../rules/appendices/conditions.md#flat-footed) when using Acrobatics to move along narrow surfaces. In addition, you can do a 5-foot step in difficult terrain once a day.
 
 ??? note "Original rule"
 
@@ -64,9 +64,9 @@ Talents marked with an asterisk add effects to a rogue’s sneak attack. Only on
 
 *Quick Disable (Ex)*: It takes a rogue with this ability half the normal amount of time to disable a trap using the Disable Device skill (minimum 1 round).
 
-*Resiliency (Ex)*: Once per day, a rogue with this ability can gain a number of temporary hit points equal to the rogue’s level. Activating this ability is an immediate action that can only be performed when she is brought to below 0 hit points. This ability can be used to prevent her from dying. These temporary hit points last for 1 minute. If the rogue’s hit points drop below 0 due to the loss of these temporary hit points, she falls unconscious and is dying as normal.
+*Resiliency (Ex)*: Once per day, a rogue with this ability can gain a number of temporary hit points equal to the rogue’s level. Activating this ability is an immediate action that can only be performed when she is brought to below 0 hit points. This ability can be used to prevent her from dying. These temporary hit points last for 1 minute. If the rogue’s hit points drop below 0 due to the loss of these temporary hit points, she falls [unconscious](../../rules/appendices/conditions.md#unconscious) and is dying as normal.
 
-*Rogue Crawl (Ex)*: While prone, a rogue with this ability can move at half speed. This movement provokes attacks of opportunity as normal. A rogue with this talent can take a 5-foot step while crawling.
+*Rogue Crawl (Ex)*: While [prone](../../rules/appendices/conditions.md#prone), a rogue with this ability can move at half speed. This movement provokes attacks of opportunity as normal. A rogue with this talent can take a 5-foot step while crawling.
 
 *Slow Reactions* (Ex)*: Opponents damaged by the rogue’s sneak attack can’t make attacks of opportunity for 1 round.
 
@@ -149,7 +149,7 @@ Upon gaining this ability, she selects a number of skills equal to 3 + her Intel
 
 ### Master Strike (Ex)
 
-Upon reaching 20th level, a rogue becomes incredibly deadly when dealing sneak attack damage. Each time the rogue deals sneak attack damage, she can choose one of the following three effects: the target can be put to sleep for 1d4 hours, paralyzed for 2d6 rounds, or slain. Regardless of the effect chosen, the target receives a Fortitude save to negate the additional effect. The DC of this save is equal to 10 + 1/2 the rogue’s level + the rogue’s Intelligence modifier. Once a creature has been the target of a master strike, regardless of whether or not the save is made, that creature is immune to that rogue’s master strike for 24 hours. Creatures that are immune to sneak attack damage are also immune to this ability.
+Upon reaching 20th level, a rogue becomes incredibly deadly when dealing sneak attack damage. Each time the rogue deals sneak attack damage, she can choose one of the following three effects: the target can be put to sleep for 1d4 hours, [paralyzed](../../rules/appendices/conditions.md#paralyzed) for 2d6 rounds, or slain. Regardless of the effect chosen, the target receives a Fortitude save to negate the additional effect. The DC of this save is equal to 10 + 1/2 the rogue’s level + the rogue’s Intelligence modifier. Once a creature has been the target of a master strike, regardless of whether or not the save is made, that creature is immune to that rogue’s master strike for 24 hours. Creatures that are immune to sneak attack damage are also immune to this ability.
 
 ## Favored Class Bonuses
 

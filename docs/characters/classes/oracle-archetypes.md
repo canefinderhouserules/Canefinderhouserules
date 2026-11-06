@@ -14,7 +14,7 @@ The following are new mysteries for oracles. An oracle must pick one mystery upo
 
 **Typical deities**: a god of family, farming, hunting, and trade; a god of history, knowledge, and self-perfection; a goddess of birth, death, fate, and prophecy.
 
-**Class Skills**: An oracle with the ancestor mystery adds Linguistics, and all Knowledge skills to her list of class skills.
+**Class Skills**: An oracle with the ancestor mystery adds [Linguistics](../../rules/skills/linguistics.md), and all [Knowledge](../../rules/skills/knowledge.md) skills to her list of class skills.
 
 **Bonus Spells**: unseen servant (2nd), spiritual weapon (4th), heroism (6th), spiritual ally\*\* (8th), telekinesis (10th), greater heroism (12th), ethereal jaunt (14th), vision (16th), astral projection (18th).
 
@@ -24,7 +24,7 @@ The following are new mysteries for oracles. An oracle must pick one mystery upo
 
 **Blood of Heroes (Su)**: As a move action, you can call upon your ancestors to grant you extra bravery in battle. You gain a +1 morale bonus on attack rolls, damage rolls, and Will saves against fear for a number of rounds equal to your Charisma bonus. At 7th level, this bonus increases to +2, and at 14th level this bonus increases to +3. You can use this ability once per day, plus one additional time per day at 5th level, and every five levels thereafter.
 
-**Phantom Touch (Su)**: As a standard action, you can perform a melee touch attack that causes a living creature to become shaken. This ability lasts for a number of rounds equal to 1/2 your oracle level (minimum 1 round). You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+**Phantom Touch (Su)**: As a standard action, you can perform a melee touch attack that causes a living creature to become [shaken](../../rules/appendices/conditions.md#shaken). This ability lasts for a number of rounds equal to 1/2 your oracle level (minimum 1 round). You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 **Sacred Council (Su)**: As a move action, you can call upon your ancestors to provide council. This advice grants you a +2 bonus on any one d20 roll. This effect lasts for 1 round. You can use this ability a number of times per day equal to your Charisma bonus.
 
@@ -46,7 +46,7 @@ The following are new mysteries for oracles. An oracle must pick one mystery upo
 
 **Typical deities**: a goddess of madness, monsters, and nightmares; a god of greed, murder, poison, and secrets; a god of darkness, envy, loss, and pain.
 
-**Class Skills**: An oracle with the dark tapestry mystery adds Disguise, Intimidate, Knowledge (arcana), and Stealth to her list of class skills.
+**Class Skills**: An oracle with the dark tapestry mystery adds [Disguise](../../rules/skills/disguise.md), [Intimidate](../../rules/skills/intimidate.md), Knowledge (arcana), and Stealth to her list of class skills.
 
 **Bonus Spells**: entropic shield (2nd), dust of twilight\*\* (4th), tongues (6th), black tentacles (8th), feeblemind (10th), planar binding (12th), insanity (14th), reverse gravity (16th), interplanetary teleport\* (18th).
 
@@ -56,13 +56,13 @@ The following are new mysteries for oracles. An oracle must pick one mystery upo
 
 The randomly stolen thoughts remain in your mind for a number of rounds equal to your Charisma modifier. Treat the knowledge gained as if you had used detect thoughts. This is a mind-affecting effect. You can use this ability once per day at 1st level, plus one additional time per day at 5th level and for every five levels beyond 5th.
 
-**Cloak of Darkness (Su)**: You conjure a cloak of shadowy darkness that grants you a +4 armor bonus and a +2 circumstance bonus on Stealth checks. At 7th level, and every four levels thereafter, these bonuses increase by +2. You can use this cloak for 1 hour per day per oracle level. The duration does not need to be consecutive, but it must be spent in 1-hour increments.
+**Cloak of Darkness (Su)**: You conjure a cloak of shadowy darkness that grants you a +4 armor bonus and a +2 circumstance bonus on [Stealth](../../rules/skills/stealth.md) checks. At 7th level, and every four levels thereafter, these bonuses increase by +2. You can use this cloak for 1 hour per day per oracle level. The duration does not need to be consecutive, but it must be spent in 1-hour increments.
 
 **Dweller in Darkness (Sp)**: Once per day, you cast your psyche into the void of space to attract the attention of a terrible otherworldly being. The dweller in darkness behaves in all ways as if you had cast phantasmal killer. At 17th level, the dweller in darkness can be perceived by more than one creature, as if you had cast weird. You must be at least 11th level to choose this revelation.
 
-**Gift of Madness (Su)**: You tap into the unthinkable void between the stars and cause a single living creature within 30 feet to become confused for 1 round. A successful Fortitude save negates the effect. This is a mind-affecting compulsion effect. At 7th level, the confusion lasts for a number of rounds equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+**Gift of Madness (Su)**: You tap into the unthinkable void between the stars and cause a single living creature within 30 feet to become [confused](../../rules/appendices/conditions.md#confused) for 1 round. A successful Fortitude save negates the effect. This is a mind-affecting compulsion effect. At 7th level, the confusion lasts for a number of rounds equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
-**Interstellar Void (Su)**: You call upon the frigid depths of outer space to bring a terrible chill to your enemies. As a standard action, one target within 30 feet is cloaked in the void and takes 1d6 points of cold damage for every oracle level you possess. A successful Fortitude save halves this damage. At 10th level, the interstellar void is so extreme that a creature that fails its save is fatigued. At 15th level, a creature that fail its save is exhausted and stunned for 1 round. You can use this ability once per day plus one additional time per day at 10th level.
+**Interstellar Void (Su)**: You call upon the frigid depths of outer space to bring a terrible chill to your enemies. As a standard action, one target within 30 feet is cloaked in the void and takes 1d6 points of cold damage for every oracle level you possess. A successful Fortitude save halves this damage. At 10th level, the interstellar void is so extreme that a creature that fails its save is [fatigued](../../rules/appendices/conditions.md#fatigued). At 15th level, a creature that fail its save is [exhausted](../../rules/appendices/conditions.md#exhausted) and [stunned](../../rules/appendices/conditions.md#stunned) for 1 round. You can use this ability once per day plus one additional time per day at 10th level.
 
 **Many Forms (Su)**: As a standard action, you can assume the form of a Small or Medium humanoid, as the alter self spell. At 7th level, you can assume the form of a Small or Medium animal, as beast shape I. At 11th level, you can assume the form of a Small or Medium magical beast, as beast shape III. At 15th level, you can assume a variety of forms, as greater polymorph. You can use this ability for 1 minute per day per oracle level. This duration does not need to be consecutive, but it must be spent in 1-minute increments. You must be at least 3rd level to select this revelation.
 
@@ -80,7 +80,7 @@ The randomly stolen thoughts remain in your mind for a number of rounds equal to
 
 **Typical deities**: capricious ancestral and nature spirits, and gods of the hunt, the jungle, and trickery.
 
-**Class Skills**: An oracle with the juju mystery adds Bluff, Intimidate, Knowledge (nature), Perform (oratory), and Survival to her list of class skills.
+**Class Skills**: An oracle with the juju mystery adds [Bluff](../../rules/skills/bluff.md), Intimidate, Knowledge (nature), [Perform](../../rules/skills/perform.md) (oratory), and Survival to her list of class skills.
 
 **Bonus Spells**: [*speak with animals*](../../magic/spells/speak-with-animals.md) (2nd), [*hideous laughter*](../../magic/spells/hideous-laughter.md) (4th), [*fear*](../../magic/spells/fear.md) (6th), [*charm monster*](../../magic/spells/charm-monster.md) (8th), *mass suggestion* (10th), [*contact other plane*](../../magic/spells/contact-other-plane.md) (as a 6th-level spell) (12th), *summon nature's ally VII* (14th), *mass charm monster* (16th), [*shapechange*](../../magic/spells/shapechange.md) (18th).
 
@@ -90,9 +90,9 @@ The randomly stolen thoughts remain in your mind for a number of rounds equal to
 
 **Connaissance (Su)**: You can spend a full-round action to attune yourself to the spirit world, gaining the benefit of a [*moment of prescience*](../../magic/spells/moment-of-prescience.md) spell with the insight bonus equal to one half your oracle level (minimum 1). You may use this ability a number of times per day equal to your Charisma modifier (minimum 1), but you may only have one connaissance effect active at a time.
 
-**Ensnare the Soul (Su)**: Your magic turns others into zombie-like servants. Add [*charm person*](../../magic/spells/charm-person.md) and [*dominate person*](../../magic/spells/dominate-person.md) to your spell list. Creatures affected by either spell become listless and pale, appearing dead to observers (DC 20 Heal or Perception check to determine the creature is not undead). Affected creatures are slow to take any action unless you specifically direct them to do so. They are not mindless or helpless, however, and defend themselves if attacked.
+**Ensnare the Soul (Su)**: Your magic turns others into zombie-like servants. Add [*charm person*](../../magic/spells/charm-person.md) and [*dominate person*](../../magic/spells/dominate-person.md) to your spell list. Creatures affected by either spell become listless and pale, appearing dead to observers (DC 20 [Heal](../../rules/skills/heal.md) or [Perception](../../rules/skills/perception.md) check to determine the creature is not undead). Affected creatures are slow to take any action unless you specifically direct them to do so. They are not mindless or [helpless](../../rules/appendices/conditions.md#helpless), however, and defend themselves if attacked.
 
-**Juju Senses (Ex)**: When casting [*detect magic*](../../magic/spells/detect-magic.md) and [*identify*](../../magic/spells/identify.md), you gain a +2 bonus on Knowledge (arcana) and Spellcraft checks to recognize auras and identify their properties. You also gain a +2 bonus on Perception and Sense Motive checks made against spirit creatures, such as outsiders, fey, and incorporeal undead. At 10th level, this bonus increases to +4.
+**Juju Senses (Ex)**: When casting [*detect magic*](../../magic/spells/detect-magic.md) and [*identify*](../../magic/spells/identify.md), you gain a +2 bonus on Knowledge (arcana) and [Spellcraft](../../rules/skills/spellcraft.md) checks to recognize auras and identify their properties. You also gain a +2 bonus on Perception and [Sense Motive](../../rules/skills/sense-motive.md) checks made against spirit creatures, such as outsiders, fey, and incorporeal undead. At 10th level, this bonus increases to +4.
 
 **Night Terror (Su)**: You send your spirit to torment another being's dreams. Once per day, you may target a creature with the effects of a [*nightmare*](../../magic/spells/nightmare.md) spell. Instead of the spell's normal damage, you make a full attack, using your Charisma modifier in place of your Strength modifier, against the victim's touch AC. You deal 1d10 damage for each successful hit. You must be at least 11th level before selecting this revelation.
 
@@ -110,7 +110,7 @@ The randomly stolen thoughts remain in your mind for a number of rounds equal to
 
 **Typical deities**: a god of cities, law, merchants, and wealth; a god of battle, strength, and weapons; a god of the forge, protection, and strategy.
 
-**Class Skills**: An oracle with the metal mystery adds Appraise, Bluff, Disable Device, and Intimidate to her list of class skills.
+**Class Skills**: An oracle with the metal mystery adds [Appraise](../../rules/skills/appraise.md), Bluff, [Disable Device](../../rules/skills/disable-device.md), and Intimidate to her list of class skills.
 
 **Bonus Spells**: lead blades\*\* (2nd), heat metal (4th), keen edge (6th), versatile weapon\*\* (8th), major creation (metal items only) (10th), wall of iron (12th), statue (metal statue instead of iron) (14th), repel metal or stone (16th), iron body (18th).
 
@@ -126,7 +126,7 @@ The randomly stolen thoughts remain in your mind for a number of rounds equal to
 
 **Iron Weapon (Su)**: You can create a melee simple or martial weapon that lasts for 1 minute for every oracle level you possess. This weapon is appropriate for your size and entirely made of metal (even if it would normally include non-metal parts, such as a [spear](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons)’s shaft) but functions as if it were a normal weapon of its type. You are considered proficient with this weapon. The weapon disappears after 1 round if it leaves your grasp. At 3rd level, the blade is made of cold iron. At 7th level, 15th level, and 19th level, the blade gains a +1 enhancement bonus. At 11th level, the blade is made of adamantine. You can use this ability a number of times per day equal to 3 + your Charisma modifier. This duration does not need to be consecutive, but it must be used in 1-minute increments.
 
-**Riddle of Steel (Su)**: Your sacred bond with metal gives you insight into its form and function. Once per day, you may spend 10 minutes meditating on the structure of a piece of unworked metal or ore to gain a +5 insight bonus on your next Craft check to make something using that metal.
+**Riddle of Steel (Su)**: Your sacred bond with metal gives you insight into its form and function. Once per day, you may spend 10 minutes meditating on the structure of a piece of unworked metal or ore to gain a +5 insight bonus on your next [Craft](../../rules/skills/craft.md) check to make something using that metal.
 
 **Rusting Grasp (Sp)**: Once per day as a standard action, you can perform a melee touch attack that rusts iron, as the rusting grasp spell. At 11th level, and every four levels thereafter, you can use this ability an additional time per day. You must be at least 7th level to select this revelation.
 
@@ -142,7 +142,7 @@ The randomly stolen thoughts remain in your mind for a number of rounds equal to
 
 **Typical deities**: a god of nature, the sea, and weather; a god of magic; a goddess of birth, death, fate, and prophecy.
 
-**Class Skills**: An oracle with the time mystery adds Fly, Knowledge (arcana), Perception, and Use Magic Device to her list of class skills.
+**Class Skills**: An oracle with the time mystery adds [Fly](../../rules/skills/fly.md), Knowledge (arcana), Perception, and Use Magic Device to her list of class skills.
 
 **Bonus Spells**: memory lapse\*\* (2nd), gentle repose (4th), sands of time\* (6th), threefold aspect\*\* (8th), permanency (10th), contingency (12th), disintegrate (14th), temporal stasis (16th), time stop (18th).
 
@@ -174,7 +174,7 @@ The randomly stolen thoughts remain in your mind for a number of rounds equal to
 
 **Typical deities**: a god of laughter, mischief, and transformation; a goddess of seduction and plants; a god of seasons and wanderers; a god of entropy and time.
 
-**Class Skills**: An oracle with the whimsy mystery adds Bluff, Disguise, Perform, Sleight of Hand, and Stealth to her list of class skills.
+**Class Skills**: An oracle with the whimsy mystery adds Bluff, Disguise, Perform, [Sleight of Hand](../../rules/skills/sleight-of-hand.md), and Stealth to her list of class skills.
 
 **Bonus Spells**: faerie fire (2nd), hideous laughter (4th), shamefully overdressed (6th), major image (8th), lesser entice fey (10th), mislead (12th), entice fey (14th), irresistible dance (16th), greater entice fey (18th).
 
@@ -184,7 +184,7 @@ The randomly stolen thoughts remain in your mind for a number of rounds equal to
 
 **Capricious Misdirection (Sp)**: Your ever-changing nature allows you to misdirect aura-reading divinations with ease. You are constantly under the effects of a [*misdirection*](../../magic/spells/misdirection.md) spell, except that you can take a standard action to select a creature or object within 60 feet to serve as the target of detection spells used against you until you select a different creature or object. You must be at least 7th level to select this revelation.
 
-**Feywise (Ex)**: Your whimsy grants you protection from fey mischief. You gain the resist nature's lure druid class feature. In addition, you gain a +2 bonus on Perception, Sense Motive, and Survival checks against fey. You must be at least 3rd level to select this revelation.
+**Feywise (Ex)**: Your whimsy grants you protection from fey mischief. You gain the resist nature's lure druid class feature. In addition, you gain a +2 bonus on Perception, Sense Motive, and [Survival](../../rules/skills/survival.md) checks against fey. You must be at least 3rd level to select this revelation.
 
 **Flicker (Sp)**: You can flicker from sight for a short time, allowing you to escape or set up a prank. As a swift action, you can disappear for 1 round per oracle level. This ability functions as [*invisibility*](../../magic/spells/invisibility.md). You can use this revelation a number of times per day equal to half your oracle level (minimum 1).
 
@@ -206,7 +206,7 @@ The randomly stolen thoughts remain in your mind for a number of rounds equal to
 
 **Typical deities**: a god of family, farming, hunting, and trade; a god of nature, the sea, and weather.
 
-**Class Skills**: An oracle with the wood mystery adds Climb, Knowledge (nature), Stealth, and Survival to her list of class skills.
+**Class Skills**: An oracle with the wood mystery adds [Climb](../../rules/skills/climb.md), Knowledge (nature), Stealth, and Survival to her list of class skills.
 
 **Bonus Spells**: shillelagh (2nd), barkskin (4th), minor creation (wood items only) (6th), thorn body\*\* (8th), tree stride (10th), ironwood (12th), transmute metal to wood (14th), changestaff (16th), wooden phalanx\* (18th).
 
@@ -272,7 +272,7 @@ The enlightened philosopher seeks enlightenment through compassion, moderation, 
 
 **Mental Acuity (Ex)**: As the lore mystery revelation.
 
-**Final Revelation**: Upon achieving 20th level, you achieve true enlightenment and become one with the universe. You receive a bonus on all saving throws equal to your Charisma modifier. You become immune to confusion, exhaustion, fatigue, nausea, and sickened effects. You can take 20 on all Knowledge skill checks. Should you die, you are reborn 3 days later as a living example of the summoning of your chosen philosophy (treat as the reincarnate spell). This replaces the final revelation of the [oracle’s mystery](oracle.md#mystery).
+**Final Revelation**: Upon achieving 20th level, you achieve true enlightenment and become one with the universe. You receive a bonus on all saving throws equal to your Charisma modifier. You become immune to confusion, exhaustion, fatigue, nausea, and [sickened](../../rules/appendices/conditions.md#sickened) effects. You can take 20 on all Knowledge skill checks. Should you die, you are reborn 3 days later as a living example of the summoning of your chosen philosophy (treat as the reincarnate spell). This replaces the final revelation of the [oracle’s mystery](oracle.md#mystery).
 
 ## Planar Oracle
 
@@ -342,7 +342,7 @@ A psychic searcher is devoted to revealing the hidden within the world around he
 
 **Bonus Spells**: Augury (4th), locate object (6th), divination (8th), find the path (12th), discern location (16th), foresight(18th). These bonus spells replace the oracle's normal mystery bonus spells at these levels.
 
-**Inspiration (Ex)**: At 2nd level, a psychic searcher gains an inspiration pool, as the [investigator class ability](investigator.md#inspiration-ex). A psychic searcher uses her oracle level as her investigator level to determine the effects of this ability. She gains free uses of inspiration on Diplomacy, Knowledge (arcana, history, local, nobility, planes, religion), and Sense Motive skill checks without spending a use of inspiration, provided she's trained in that skill. A psychic searcher's inspiration pool refreshes each day, usually when she refreshes her spells. A psychic searcher's inspiration pool is based on her Wisdom modifier, not Intelligence. This ability replaces the mystery spell gained at 2nd level.
+**Inspiration (Ex)**: At 2nd level, a psychic searcher gains an inspiration pool, as the [investigator class ability](investigator.md#inspiration-ex). A psychic searcher uses her oracle level as her investigator level to determine the effects of this ability. She gains free uses of inspiration on [Diplomacy](../../rules/skills/diplomacy.md), Knowledge (arcana, history, local, nobility, planes, religion), and Sense Motive skill checks without spending a use of inspiration, provided she's trained in that skill. A psychic searcher's inspiration pool refreshes each day, usually when she refreshes her spells. A psychic searcher's inspiration pool is based on her Wisdom modifier, not Intelligence. This ability replaces the mystery spell gained at 2nd level.
 
 **Psychic Talent (Su)**: At 3rd level, a psychic searcher's mastery of her supernatural insight grows, granting her a new investigator talent from the following list: amazing inspiration, eidetic recollection, empathy, inspired alertness, item lore, perceptive tracking (except using Sense Motive instead of Perception or Survival), rogue talent (only for hard to fool), and tenacious inspiration. Whenever a psychic searcher can select a new revelation, she can instead select an investigator or rogue talent from the above list. This ability replaces the revelation gained at 3rd level. Recommended Mysteries: Ancestor, lore, nature.
 
@@ -398,7 +398,7 @@ An elementalist oracle shares an affinity with the elements and elemental creatu
 
 River soul oracles derive their powers from their bonds with rivers, whether these waterways are rapid cascades or lazy channels plied by boats. The powerful bond formed with a river is also the river soul oracle’s curse, as he must always carry water from the river with him, and his fate is bound to it. River soul oracles can be gentle and still when calm, but they’re raging torrents when angered.
 
-**Class Skills**: A river soul oracle adds Escape Artist, Knowledge (nature), Survival, and Swim to his list of class skills. This replaces the class skills granted by the oracle’s mystery and alters the oracle’s class skills.
+**Class Skills**: A river soul oracle adds [Escape Artist](../../rules/skills/escape-artist.md), Knowledge (nature), Survival, and Swim to his list of class skills. This replaces the class skills granted by the oracle’s mystery and alters the oracle’s class skills.
 
 **Recommended Mysteries**: Life, nature, stone, waves.
 
@@ -418,7 +418,7 @@ River soul oracles derive their powers from their bonds with rivers, whether the
 
 Tree souls develop an affinity not just with trees but also with objects carved from them, feeling the essence of the tree’s spirit living within. By bonding to trees, they learn to manipulate the trees’ power to produce divine energy. The type of tree a tree soul oracle bonds to often seems to influence the oracle’s personality. A tree soul who is bound to a towering redwood may value traditions and be slow to anger, while a tree soul bound to a smaller pine tree might be quick to react and have a somewhat prickly personality. Regardless of the trees they form their metaphysical attachment to, tree soul oracles tend to be steadfast and stubborn, having an aura of timelessness even as the world changes around them.
 
-**Class Skills**: A tree soul adds Acrobatics, Climb, Knowledge (nature), and Survival to her list of class skills. This replaces the class skills granted by the [oracle’s mystery](oracle.md#mystery) and class skills.
+**Class Skills**: A tree soul adds [Acrobatics](../../rules/skills/acrobatics.md), Climb, Knowledge (nature), and Survival to her list of class skills. This replaces the class skills granted by the [oracle’s mystery](oracle.md#mystery) and class skills.
 
 **Weapon and Armor Proficiency**: Tree souls are proficient with light and [medium armor](../../equipment/armor.md) but are prohibited from wearing metal armor. A tree soul can also wear wooden armor that has been altered by the ironwood spell so that it functions as though it were steel. Tree souls are proficient with [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)) but can use only those crafted from wood.
 
@@ -428,7 +428,7 @@ A tree soul who wears prohibited armor or uses a prohibited shield is unable to 
 
 **Bonus Spells**: Warp wood (2nd), tree stride (10th), ironwood (12th), changestaff (14th), repel metal or stone (16th), greater siege of trees (18th). These bonus spells replace the oracle’s mystery bonus spells at these levels.
 
-**Tree Bound Curse (Su)**: You bind your power to a specific tree. Any damage to the tree deals the same amount of damage to you, overcoming DR, energy resistance, and immunities. Damage you take in this way cannot be healed by normal or magical means until your bonded tree is healed or destroyed. The damage can reduce you to 0 hit points but not below. If the tree is destroyed, you are considered to be staggered and are unable to cast oracle spells or use supernatural or spell-like class abilities until you bond with a new tree in a ceremony that takes 12 hours to complete. Once per month, you can create a new bond with a different tree in a ceremony at that tree that takes 12 hours to complete. You lose your bond with your previous tree in the process. This replaces [oracle’s curse](oracle.md#oracles-curse-ex).
+**Tree Bound Curse (Su)**: You bind your power to a specific tree. Any damage to the tree deals the same amount of damage to you, overcoming DR, energy resistance, and immunities. Damage you take in this way cannot be healed by normal or magical means until your bonded tree is healed or destroyed. The damage can reduce you to 0 hit points but not below. If the tree is destroyed, you are considered to be [staggered](../../rules/appendices/conditions.md#staggered) and are unable to cast oracle spells or use supernatural or spell-like class abilities until you bond with a new tree in a ceremony that takes 12 hours to complete. Once per month, you can create a new bond with a different tree in a ceremony at that tree that takes 12 hours to complete. You lose your bond with your previous tree in the process. This replaces [oracle’s curse](oracle.md#oracles-curse-ex).
 
 **Revelations**: A tree soul oracle must take the following revelations at the listed levels.
 
@@ -540,7 +540,7 @@ The community guardian is chosen to protect and succor the weak and innocent wit
 
 Many lands have herbalists who practice an obscure alchemical art involving medicinal and restorative techniques. A few practitioners develop a talent for herbalism that transcends ordinary alchemy, allowing them to blur the line between applying alchemical medicine and coaxing divine miracles.
 
-Like other masters of the art, herbal practitioners can use the Profession (herbalist) skill in place of Craft (alchemy) to create alchemical remedies with recipes that include certain plant-derived reagents.
+Like other masters of the art, herbal practitioners can use the [Profession](../../rules/skills/profession.md) (herbalist) skill in place of Craft (alchemy) to create alchemical remedies with recipes that include certain plant-derived reagents.
 
 **Master Herbalist (Su)**: An herbal practitioner has mastered countless alchemical techniques that supplement her divine powers and greatly aid her when she heals the sick and wounded. She gains a competence bonus on Profession (herbalist) checks equal to 1/2 her oracle level (minimum 1), and uses her Charisma modifier in place of her Wisdom modifier when attempting Profession (herbalist) checks. Additionally, an herbal practitioner can identify potions as if via *detect magic* using Profession (herbalist) instead of Spellcraft, and she can attempt such a check after holding a potion for 1 round.
 
@@ -550,12 +550,12 @@ This ability replaces the additional class skills the oracle gains from her myst
 
 This ability replaces the revelation gained at 1st level.
 
-**Master Healing Technique (Su)**: At 7th level, whenever an herbal practitioner heals a living creature with her healer’s way ability, as a free action she can attempt a Profession (herbalist) check to remove a condition from the target, with each condition having an accompanying Profession (herbalist) DC (see the list below). She cannot take 10 or 20 on this check, nor can she receive aid from any creature except another herbal practitioner. Failure by 5 or more causes the target to become sickened for 1 round (if the herbal practitioner is attempting to remove the sickened condition, this extends it by 1 round). Similarly, failure by 10 or more instead causes the target to become nauseated for 1 round or to have its existing nauseated condition extended by 1 round. A creature that cannot be sickened or nauseated cannot have conditions removed by this ability.
+**Master Healing Technique (Su)**: At 7th level, whenever an herbal practitioner heals a living creature with her healer’s way ability, as a free action she can attempt a Profession (herbalist) check to remove a condition from the target, with each condition having an accompanying Profession (herbalist) DC (see the list below). She cannot take 10 or 20 on this check, nor can she receive aid from any creature except another herbal practitioner. Failure by 5 or more causes the target to become sickened for 1 round (if the herbal practitioner is attempting to remove the sickened condition, this extends it by 1 round). Similarly, failure by 10 or more instead causes the target to become [nauseated](../../rules/appendices/conditions.md#nauseated) for 1 round or to have its existing nauseated condition extended by 1 round. A creature that cannot be sickened or nauseated cannot have conditions removed by this ability.
 
 - **Minor Conditions (DC 20)**: Fatigued, shaken, and sickened.
-- **Major Conditions (DC 25)**: Dazed and staggered.
-- **Severe Conditions (DC 30)**: Confused, exhausted, frightened, and nauseated.
-- **Dire Conditions (DC 35)**: Blinded, deafened, paralyzed, and stunned.
+- **Major Conditions (DC 25)**: [Dazed](../../rules/appendices/conditions.md#dazed) and staggered.
+- **Severe Conditions (DC 30)**: Confused, exhausted, [frightened](../../rules/appendices/conditions.md#frightened), and nauseated.
+- **Dire Conditions (DC 35)**: [Blinded](../../rules/appendices/conditions.md#blinded), [deafened](../../rules/appendices/conditions.md#deafened), [paralyzed](../../rules/appendices/conditions.md#paralyzed), and stunned.
 
 This ability replaces the revelation gained at 7th level.
 

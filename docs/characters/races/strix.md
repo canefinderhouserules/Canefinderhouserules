@@ -1,6 +1,6 @@
 # Strix
 
-Human neighbors tell horrific tales of slaughter woven with frightened suspicion when speaking of strix. Strix, however, tell a tale of encroachment and a struggle for land and resources. For ages, humans invaded strix lands fighting bloody battles against the fierce, black-skinned creatures they thought to be winged devils. Over time, strix have developed a hatred for humankind and now fiercely protect their dwindling numbers.
+Human neighbors tell horrific tales of slaughter woven with [frightened](../../rules/appendices/conditions.md#frightened) suspicion when speaking of strix. Strix, however, tell a tale of encroachment and a struggle for land and resources. For ages, humans invaded strix lands fighting bloody battles against the fierce, black-skinned creatures they thought to be winged devils. Over time, strix have developed a hatred for humankind and now fiercely protect their dwindling numbers.
 
 ## Strix Racial Traits
 
@@ -18,7 +18,7 @@ Human neighbors tell horrific tales of slaughter woven with frightened suspicion
 
 **Hatred**: Strix receive a +1 racial bonus on attack rolls against humanoid creatures with the human subtype because of their special training against these hated foes.
 
-**Nocturnal**: Strix gain a +2 racial bonus on Perception and Stealth checks in dim light or darkness.
+**Nocturnal**: Strix gain a +2 racial bonus on [Perception](../../rules/skills/perception.md) and [Stealth](../../rules/skills/stealth.md) checks in dim light or darkness.
 
 **Suspicious**: Strix receive a +2 racial bonus on saving throws against illusion spells and effects.
 
@@ -30,13 +30,13 @@ The following racial traits may be selected instead of existing strix racial tra
 
 **Dayguard**: Familiar with watching over its tribe during the day, the strix gains a +2 racial bonus on Perception checks and treats Perception as a class skill. This racial trait replaces nocturnal.
 
-**Frightening**: The strix looks particularly menacing and use this to its advantage, gaining a +2 racial bonus on Intimidate checks. This racial trait replaces nocturnal.
+**Frightening**: The strix looks particularly menacing and use this to its advantage, gaining a +2 racial bonus on [Intimidate](../../rules/skills/intimidate.md) checks. This racial trait replaces nocturnal.
 
 **Nimble**: The strix receives a +1 racial bonus on Reflex saves. This replaces the suspicious racial trait.
 
 **Tough**: The strix receives a +1 racial bonus on Fortitude saves. This racial trait replaces suspicious.
 
-**Wing-Clipped**: The flight of wing-clipped strix is weaker than normal, whether from deformity or injury. Their fly speed is 20 feet (poor) instead of the normal fly speed, and they must make a DC 30 Fly check to fly upward. Ostracized by their tribes and forced to deal with other races, these strix compensate for their weakness by gaining a +2 racial bonus on Bluff, Climb, and Diplomacy checks.
+**Wing-Clipped**: The flight of wing-clipped strix is weaker than normal, whether from deformity or injury. Their fly speed is 20 feet (poor) instead of the normal fly speed, and they must make a DC 30 [Fly](../../rules/skills/fly.md) check to fly upward. Ostracized by their tribes and forced to deal with other races, these strix compensate for their weakness by gaining a +2 racial bonus on [Bluff](../../rules/skills/bluff.md), [Climb](../../rules/skills/climb.md), and [Diplomacy](../../rules/skills/diplomacy.md) checks.
 
 ## Favored Class Options
 
@@ -62,7 +62,7 @@ These archetypes are typically only taken by strix, but members of other races, 
 
 Strix have access to the following equipment.
 
-**Snag Net**: This short, wide net is covered in barbed loops and slipknots. It works like a typical net exotic weapon, except it has the trip weapon special feature. If you entangle an opponent and hold the trailing rope, on your turn in place of a melee attack you may make a trip combat maneuver check against that opponent; if you succeed, you may trip the opponent or deal 1 point of piercing damage to the opponent. The concentration DC to cast while entangled in a snag net is 17 + the spell’s level. The Escape Artist DC to escape a snag net is 22.
+**Snag Net**: This short, wide net is covered in barbed loops and slipknots. It works like a typical net exotic weapon, except it has the trip weapon special feature. If you entangle an opponent and hold the trailing rope, on your turn in place of a melee attack you may make a trip combat maneuver check against that opponent; if you succeed, you may trip the opponent or deal 1 point of piercing damage to the opponent. The concentration DC to cast while [entangled](../../rules/appendices/conditions.md#entangled) in a snag net is 17 + the spell’s level. The [Escape Artist](../../rules/skills/escape-artist.md) DC to escape a snag net is 22.
 
 **Table 3–4: Strix Weapon**
 
@@ -92,5 +92,5 @@ Because strix are careful to avoid injuring other strix even when they fight wit
 ## More Favored Class Options
 
 - **Brawler**: The Kintargo Contract pg. 73*): Add 1/4 to the brawler’s effective class level to determine her unarmed strike damage.
-- **Druid**: The Kintargo Contract pg. 73*): Add a +1/2 bonus to Knowledge (nature) checks related to weather and flying animals.
+- **Druid**: The Kintargo Contract pg. 73*): Add a +1/2 bonus to [Knowledge](../../rules/skills/knowledge.md) (nature) checks related to weather and flying animals.
 

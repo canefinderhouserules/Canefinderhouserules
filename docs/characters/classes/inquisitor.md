@@ -95,7 +95,7 @@ Starting at 1st level, an inquisitor can pronounce judgment upon her foes as a s
 
 Starting when the judgment is made, the inquisitor receives a bonus or special ability based on the type of judgment made.
 
-At 1st level, an inquisitor can use this ability once per day. At 4th level and every three levels thereafter, the inquisitor can use this ability one additional time per day. Once activated, this ability lasts until the combat ends, at which point all of the bonuses immediately end. The inquisitor must participate in the combat to gain these bonuses. If she is frightened, panicked, paralyzed, stunned, unconscious, or otherwise prevented from participating in the combat, the ability does not end, but the bonuses do not resume until she can participate in the combat again.
+At 1st level, an inquisitor can use this ability once per day. At 4th level and every three levels thereafter, the inquisitor can use this ability one additional time per day. Once activated, this ability lasts until the combat ends, at which point all of the bonuses immediately end. The inquisitor must participate in the combat to gain these bonuses. If she is [frightened](../../rules/appendices/conditions.md#frightened), [panicked](../../rules/appendices/conditions.md#panicked), [paralyzed](../../rules/appendices/conditions.md#paralyzed), [stunned](../../rules/appendices/conditions.md#stunned), [unconscious](../../rules/appendices/conditions.md#unconscious), or otherwise prevented from participating in the combat, the ability does not end, but the bonuses do not resume until she can participate in the combat again.
 
 When the inquisitor uses this ability, she must select one type of judgment to make. As a swift action, she can change this judgment to another type. If the inquisitor is evil, she receives profane bonuses instead of sacred, as appropriate. Neutral inquisitors must select profane or sacred bonuses. Once made, this choice cannot be changed.
 
@@ -139,7 +139,7 @@ This judgment bathes the inquisitor’s weapons in a divine light. The inquisito
 
 ### Monster Lore (Ex)
 
-The inquisitor adds her Wisdom modifier on Knowledge skill checks in addition to her Intelligence modifier, when making skill checks to identify the abilities and weaknesses of creatures.
+The inquisitor adds her Wisdom modifier on [Knowledge](../../rules/skills/knowledge.md) skill checks in addition to her Intelligence modifier, when making skill checks to identify the abilities and weaknesses of creatures.
 
 ### Orisons
 
@@ -147,7 +147,7 @@ Inquisitors learn a number of orisons, or 0-level spells, as noted on Table 2–
 
 ### Stern Gaze (Ex)
 
-Inquisitors are skilled at sensing deception and intimidating their foes. An inquisitor receives a morale bonus on all Intimidate and Sense Motive checks equal to 1/2 her inquisitor level (minimum +1).
+Inquisitors are skilled at sensing deception and intimidating their foes. An inquisitor receives a morale bonus on all [Intimidate](../../rules/skills/intimidate.md) and [Sense Motive](../../rules/skills/sense-motive.md) checks equal to 1/2 her inquisitor level (minimum +1).
 
 ### Cunning Initiative (Ex)
 
@@ -159,7 +159,7 @@ At will, an inquisitor can use detect chaos, detect evil, detect good, or detect
 
 ### Track (Ex)
 
-At 2nd level, an inquisitor adds half her level on Survival skill checks made to follow or identify tracks.
+At 2nd level, an inquisitor adds half her level on [Survival](../../rules/skills/survival.md) skill checks made to follow or identify tracks.
 
 ### Solo Tactics (Ex)
 
@@ -185,7 +185,7 @@ At 8th level, whenever an inquisitor uses her judgment ability, she selects two 
 
 ### Stalwart (Ex)
 
-At 11th level, an inquisitor can use mental and physical resiliency to avoid certain attacks. If she makes a Fortitude or Will saving throw against an attack that has a reduced effect on a successful save, she instead avoids the effect entirely. This ability can only be used if the inquisitor is wearing light armor, medium armor, or no armor. A helpless inquisitor does not gain the benefit of the stalwart ability.
+At 11th level, an inquisitor can use mental and physical resiliency to avoid certain attacks. If she makes a Fortitude or Will saving throw against an attack that has a reduced effect on a successful save, she instead avoids the effect entirely. This ability can only be used if the inquisitor is wearing light armor, medium armor, or no armor. A [helpless](../../rules/appendices/conditions.md#helpless) inquisitor does not gain the benefit of the stalwart ability.
 
 ### Greater Bane (Su)
 

@@ -4,4 +4,4 @@ Your anonymity makes you difficult to find through magical or mundane means, and
 
 **Prerequisites**: [Exile’s Path](exile-s-path.md), character level 5th, half-elf.
 
-**Benefit**: You gain a +2 bonus on all saving throws against scrying or divination effects. Additionally, you gain a +2 bonus on all Stealth checks, and elves, half-elves, and humans take a –4 penalty on all efforts to track you through the Survival skill.
+**Benefit**: You gain a +2 bonus on all saving throws against scrying or divination effects. Additionally, you gain a +2 bonus on all [Stealth](../skills/stealth.md) checks, and elves, half-elves, and humans take a –4 penalty on all efforts to track you through the [Survival](../skills/survival.md) skill.

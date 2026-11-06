@@ -19,7 +19,7 @@ A superscript <sup>S</sup> indicates a spell from the caster’s specialty schoo
 
 ## Transcribing Preparation Rituals
 
-Preparation rituals grant a unique boon to anyone who prepares at least three spells from the associated spellbook. Like spells, preparation rituals can be copied into new spellbooks. To imbue a spellbook with a preparation ritual, you must have the Scribe Scroll feat, as well as a number of ranks in Spellcraft and a caster level each equal to double the highest spell level in the original spellbook. You also must have scribed at least three spells from the original spellbook into the new spellbook; at least one of these spells must be of the highest spell level found in the original spellbook. You must prepare those three spells (or know them, if you cast spells spontaneously) and perform an 8-hour creation ritual that requires supplies costing half as much as the value of the preparation ritual (the difference in the spellbook's value with and without the preparation ritual). At the ritual's end, attempt a Spellcraft check (DC = 10 + double the highest spell level in the original spellbook). If you succeed, the new spellbook gains that preparation ritual. If you fail, the supplies are wasted to no effect.
+Preparation rituals grant a unique boon to anyone who prepares at least three spells from the associated spellbook. Like spells, preparation rituals can be copied into new spellbooks. To imbue a spellbook with a preparation ritual, you must have the Scribe Scroll feat, as well as a number of ranks in [Spellcraft](../../rules/skills/spellcraft.md) and a caster level each equal to double the highest spell level in the original spellbook. You also must have scribed at least three spells from the original spellbook into the new spellbook; at least one of these spells must be of the highest spell level found in the original spellbook. You must prepare those three spells (or know them, if you cast spells spontaneously) and perform an 8-hour creation ritual that requires supplies costing half as much as the value of the preparation ritual (the difference in the spellbook's value with and without the preparation ritual). At the ritual's end, attempt a Spellcraft check (DC = 10 + double the highest spell level in the original spellbook). If you succeed, the new spellbook gains that preparation ritual. If you fail, the supplies are wasted to no effect.
 
 Formula book preparation rituals are similarly imbued, but use extracts rather than spells, and instead of Scribe Scroll, you must have Brew Potion. A spellbook can have multiple preparation rituals, but it must meet the requirements for each. This does not affect the number of preparation rituals from which a character can benefit.
 
@@ -150,7 +150,7 @@ This tome reeks of decomposing flesh or some even fouler stench. Grave mold clin
 
 **Preparation Ritual**
 
-**Breath of the Grave (Su)** As a swift action, spend this boon’s effect to breathe a 15-foot cone of rotting stench. Creatures within the cone must succeed at a Fortitude saving throw (DC 10 + your highest caster level in a class that prepares spells) or be sickened for 1 round. This spends the boon. After this boon has been spent, you take a –4 penalty on Diplomacy and Stealth checks until you prepare spells again.
+**Breath of the Grave (Su)** As a swift action, spend this boon’s effect to breathe a 15-foot cone of rotting stench. Creatures within the cone must succeed at a Fortitude saving throw (DC 10 + your highest caster level in a class that prepares spells) or be [sickened](../../rules/appendices/conditions.md#sickened) for 1 round. This spends the boon. After this boon has been spent, you take a –4 penalty on [Diplomacy](../../rules/skills/diplomacy.md) and [Stealth](../../rules/skills/stealth.md) checks until you prepare spells again.
 
 ## Grimoire of Glittering Eyes
 
@@ -334,7 +334,7 @@ Stuffed between the pages of these two well-worn volumes are all manner of riddl
 
 **Preparation Ritual**
 
-**Travel Sage (Su)** There is nothing like a magic book to enhance the memory. Unlike other boons, you do not spend this one. Until you prepare spells again, you are considered trained in Knowledge (geography). If you are already trained in Knowledge (geography), you gain a +2 circumstance bonus on those checks instead.
+**Travel Sage (Su)** There is nothing like a magic book to enhance the memory. Unlike other boons, you do not spend this one. Until you prepare spells again, you are considered trained in [Knowledge](../../rules/skills/knowledge.md) (geography). If you are already trained in Knowledge (geography), you gain a +2 circumstance bonus on those checks instead.
 
 ## Grandfather’s Legacy
 
@@ -487,7 +487,7 @@ The three volumes of this set are bound in black sharkskin, the spells inscribed
 
 **Preparation Ritual**
 
-**Revivifying Contingency (Su)** You do not spend this boon with an action. When you are affected by this boon, the first time you are reduced to 0 or fewer hit points, you immediately regain 2d6 hit points. If this is enough for you to reach 0 hit points or higher, you do not fall unconscious.
+**Revivifying Contingency (Su)** You do not spend this boon with an action. When you are affected by this boon, the first time you are reduced to 0 or fewer hit points, you immediately regain 2d6 hit points. If this is enough for you to reach 0 hit points or higher, you do not fall [unconscious](../../rules/appendices/conditions.md#unconscious).
 
 ## Library of Skins
 
@@ -519,7 +519,7 @@ This quartet of books is held together by a shining silver strand wound around t
 
 These four cloth-bound books are neatly printed—as with a printing press or some other form of mechanical transcription— with a title page, a table of contents, and a useful cross-referenced index. They have been treated well and are clearly reference works, rather than laboratory notes; the writer was obviously a most disciplined and focused inventor.
 
-**Protection** The cover is treated with tears of death poison (contact; save Fort DC 22; onset 1 minute; frequency 1/ minute for 6 minutes; effect 1d6 Con damage and paralyzed for 1 minute).
+**Protection** The cover is treated with tears of death poison (contact; save Fort DC 22; onset 1 minute; frequency 1/ minute for 6 minutes; effect 1d6 Con damage and [paralyzed](../../rules/appendices/conditions.md#paralyzed) for 1 minute).
 
 **Value** 6,500 gp (11,000 gp with the preparation ritual)
 
@@ -693,7 +693,7 @@ This book's ancient leather cover is emblazoned with a simplified winged eye.
 
 **Preparation Ritual**
 
-**Efficient Creator (Su)** You can spend this boon to use the magic item creation rules to create items with the Craft skill for one day. When doing this, your material costs are equal to half the final value of the item crafted (rather than the normal 1/3 of the cost for using the Craft skill). You can craft items with a cost greater than 1,000 gp by expending this boon over successive days, in the same way magic items with a cost over 1,000 gp can be crafted over multiple days. You otherwise follow all the rules and options for magic item creations.
+**Efficient Creator (Su)** You can spend this boon to use the magic item creation rules to create items with the [Craft](../../rules/skills/craft.md) skill for one day. When doing this, your material costs are equal to half the final value of the item crafted (rather than the normal 1/3 of the cost for using the Craft skill). You can craft items with a cost greater than 1,000 gp by expending this boon over successive days, in the same way magic items with a cost over 1,000 gp can be crafted over multiple days. You otherwise follow all the rules and options for magic item creations.
 
 ## Wisdom of the Old Mage (Three Companions Edition)
 
@@ -840,7 +840,7 @@ Bound in thin sheets of iron, this book is designed as a series of treatises on 
 
 **Preparation Ritual**
 
-**Brain Wash (Su)** You combine magic and skill to masterfully manipulate your subjects. You can expend this boon when you cast a spell on a creature you have succeeded at a Bluff, Diplomacy, Knowledge, or Sense Motive check against. You cast that spell at +1 caster level and its save DC increases by 1.
+**Brain Wash (Su)** You combine magic and skill to masterfully manipulate your subjects. You can expend this boon when you cast a spell on a creature you have succeeded at a [Bluff](../../rules/skills/bluff.md), Diplomacy, Knowledge, or [Sense Motive](../../rules/skills/sense-motive.md) check against. You cast that spell at +1 caster level and its save DC increases by 1.
 
 ## Playwright's Workbook
 
@@ -885,7 +885,7 @@ This heavy book is bound between a pair of thin stone tablets, its title carved 
 
 **Preparation Ritual**
 
-**Keeper of Stone (Ex/Su)** The tome covers the geography of caves and mountains thoroughly, and gives eldritch insights into how such terrain is formed. This boon is not spent, but grants you a +1 insight bonus on Knowledge (dungeoneering), Knowledge (geography), and Knowledge (nature) checks, as well as on Survival checks attempted in hills, mountains, and underground terrain. In addition, whenever you cast *mending*, *make whole*, or *greater make whole* on an object made entirely from stone, add 1d6 to the number of hit points restored to the object. These benefits last until you next regain spell slots or prepare spells.
+**Keeper of Stone (Ex/Su)** The tome covers the geography of caves and mountains thoroughly, and gives eldritch insights into how such terrain is formed. This boon is not spent, but grants you a +1 insight bonus on Knowledge (dungeoneering), Knowledge (geography), and Knowledge (nature) checks, as well as on [Survival](../../rules/skills/survival.md) checks attempted in hills, mountains, and underground terrain. In addition, whenever you cast *mending*, *make whole*, or *greater make whole* on an object made entirely from stone, add 1d6 to the number of hit points restored to the object. These benefits last until you next regain spell slots or prepare spells.
 
 ## Sorrow of the Archer
 
@@ -924,4 +924,4 @@ The front cover of this tome is as black as night, while the back cover is ivory
 
 **Preparation Ritual**
 
-**Keen Perception (Su)** You can spend this boon to gain a +2 insight bonus on a single Perception or Sense Motive check.
+**Keen Perception (Su)** You can spend this boon to gain a +2 insight bonus on a single [Perception](../../rules/skills/perception.md) or Sense Motive check.

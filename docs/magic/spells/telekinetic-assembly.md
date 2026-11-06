@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** none; **Spell Resistance** no
 
-You assemble a siege engine, using up to one fewer worker per two caster levels you possess. You can do without one additional worker if you have any ranks in Knowledge (engineering), plus one additional worker per 5 ranks you have in that skill. If your caster level combined with Knowledge (engineering) fails to eliminate the need for workers, this spell fails.
+You assemble a siege engine, using up to one fewer worker per two caster levels you possess. You can do without one additional worker if you have any ranks in [Knowledge](../../rules/skills/knowledge.md) (engineering), plus one additional worker per 5 ranks you have in that skill. If your caster level combined with Knowledge (engineering) fails to eliminate the need for workers, this spell fails.

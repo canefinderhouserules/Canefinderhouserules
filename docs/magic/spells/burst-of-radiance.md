@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** Reflex partial; **Spell Resistance** yes
 
-This spell fills the area with a brilliant flash of shimmering light. Creatures in the area are blinded for 1d4 rounds, or dazzled for 1d4 rounds if they succeed at a Reflex save. Evil creatures in the area of the burst take 1d4 points of damage per caster level (maximum 5d4), whether they succeed at the Reflex save or not.
+This spell fills the area with a brilliant flash of shimmering light. Creatures in the area are [blinded](../../rules/appendices/conditions.md#blinded) for 1d4 rounds, or [dazzled](../../rules/appendices/conditions.md#dazzled) for 1d4 rounds if they succeed at a Reflex save. Evil creatures in the area of the burst take 1d4 points of damage per caster level (maximum 5d4), whether they succeed at the Reflex save or not.

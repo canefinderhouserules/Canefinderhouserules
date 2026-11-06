@@ -8,6 +8,6 @@
 **Duration** see text  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions like [*symbol of death*](symbol-of-death.md), except that all creatures within 60 feet of a *symbol of stunning* instead become stunned for 1d6 rounds.
+This spell functions like [*symbol of death*](symbol-of-death.md), except that all creatures within 60 feet of a *symbol of stunning* instead become [stunned](../../rules/appendices/conditions.md#stunned) for 1d6 rounds.
 
-*Note*: Magic traps such as *symbol of stunning* are hard to detect and disable. A character with trapfinding can use the Perception skill to find a *symbol of stunning* and Disable Device to thwart it. The DC in each case is 25 + spell level, or 32 for *symbol of stunning*.
+*Note*: Magic traps such as *symbol of stunning* are hard to detect and disable. A character with trapfinding can use the [Perception](../../rules/skills/perception.md) skill to find a *symbol of stunning* and Disable Device to thwart it. The DC in each case is 25 + spell level, or 32 for *symbol of stunning*.

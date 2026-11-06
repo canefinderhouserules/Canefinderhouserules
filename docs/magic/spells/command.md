@@ -14,10 +14,10 @@ You give the subject a single command, which it obeys to the best of its ability
 
 *Drop*: On its turn, the subject drops whatever it is holding. It can’t pick up any dropped item until its next turn.
 
-*Fall*: On its turn, the subject falls to the ground and remains prone for 1 round. It may act normally while prone but takes any appropriate penalties.
+*Fall*: On its turn, the subject falls to the ground and remains [prone](../../rules/appendices/conditions.md#prone) for 1 round. It may act normally while prone but takes any appropriate penalties.
 
 *Flee*: On its turn, the subject moves away from you as quickly as possible for 1 round. It may do nothing but move during its turn, and it provokes attacks of opportunity for this movement as normal.
 
-*Halt*: The subject stands in place for 1 round. It may not take any actions but is not considered helpless.
+*Halt*: The subject stands in place for 1 round. It may not take any actions but is not considered [helpless](../../rules/appendices/conditions.md#helpless).
 
 If the subject can’t carry out your command on its next turn, the spell automatically fails.

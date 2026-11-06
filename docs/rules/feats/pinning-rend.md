@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-You tear flesh when you damage an opponent that you have pinned.
+You tear flesh when you damage an opponent that you have [pinned](../appendices/conditions.md#pinned).
 
 **Prerequisites**: Dex 13, [Greater Grapple](greater-grapple.md), [Improved Grapple](improved-grapple.md), [Improved Unarmed Strike](improved-unarmed-strike.md), base attack bonus +9 or monk level 9th.
 

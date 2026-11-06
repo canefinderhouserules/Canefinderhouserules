@@ -4,6 +4,6 @@ Much like a cat, you can instantly shift your balance when you fall and roll wit
 
 **Prerequisites**: Dex 13, Acrobatics 1 rank.
 
-**Benefit**: When you succeed at a DC 15 Acrobatics skill check to soften a fall, you ignore the first 20 feet of that fall and convert the damage from the next 10 feet of the fall to nonlethal damage. You land on your feet as long as you take less than 20 points of damage from the fall.
+**Benefit**: When you succeed at a DC 15 [Acrobatics](../skills/acrobatics.md) skill check to soften a fall, you ignore the first 20 feet of that fall and convert the damage from the next 10 feet of the fall to nonlethal damage. You land on your feet as long as you take less than 20 points of damage from the fall.
 
-**Normal**: A successful DC 15 Acrobatics check allows you to ignore the first 10 feet fallen, and you fall prone if you take any falling damage.
+**Normal**: A successful DC 15 Acrobatics check allows you to ignore the first 10 feet fallen, and you fall [prone](../appendices/conditions.md#prone) if you take any falling damage.

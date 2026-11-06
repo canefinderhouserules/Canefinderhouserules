@@ -45,7 +45,7 @@ The following are class features of the guild poisoner prestige class.
 
 **Weapon and Armor Proficiency**: A guild poisoner gains no additional weapon or armor proficiencies.
 
-**Master Poisoner (Ex)**: A guild poisoner adds 1/2 her level on Craft (alchemy) checks dealing with poison. In addition, she can use Craft (alchemy) to change the type of a poison with 1 hour of work and an alchemist’s lab. If the Craft (alchemy) check (DC equals the poison’s save DC) is successful, the poison’s type changes to contact, ingested, inhaled, or injury; on a failed check, the poison is ruined.
+**Master Poisoner (Ex)**: A guild poisoner adds 1/2 her level on [Craft](../../rules/skills/craft.md) (alchemy) checks dealing with poison. In addition, she can use Craft (alchemy) to change the type of a poison with 1 hour of work and an alchemist’s lab. If the Craft (alchemy) check (DC equals the poison’s save DC) is successful, the poison’s type changes to contact, ingested, inhaled, or injury; on a failed check, the poison is ruined.
 
 **Poison Resistance (Ex)**: A guild poisoner gains a +2 bonus on saves against poison, increasing to +4 at 4th level, +6 at 7th level, and total immunity at 9th level. Alchemist levels stack with guild poisoner levels when determining the effect of this ability.
 
@@ -55,7 +55,7 @@ The following are class features of the guild poisoner prestige class.
 
 **Deadly Poisons**: The DC of any poison a guild poisoner applies increases by her class level.
 
-**Toxic Apothecary (Ex and Sp)**: At 2nd level, a guild poisoner can use [*detect poison*](../../magic/spells/detect-poison.md) at will (range 5 feet, caster level equal to the guild poisoner’s class level) as a swift action. She gains a bonus equal to 1/2 her class level on Heal checks dealing with poison, and on a successful check she adds this bonus to the save bonus she provides her patient against the treated poison.
+**Toxic Apothecary (Ex and Sp)**: At 2nd level, a guild poisoner can use [*detect poison*](../../magic/spells/detect-poison.md) at will (range 5 feet, caster level equal to the guild poisoner’s class level) as a swift action. She gains a bonus equal to 1/2 her class level on [Heal](../../rules/skills/heal.md) checks dealing with poison, and on a successful check she adds this bonus to the save bonus she provides her patient against the treated poison.
 
 **Toxic Trick**: At 2nd level and every two levels thereafter, a guild poisoner learns a toxic trick. She can use a number of toxic tricks each day equal to her Intelligence modifier + 1/2 her class level. The save DC of any saving throw called for by a toxic trick is equal to 10 + the guild poisoner’s character level + her Intelligence modifier. Spell-like abilities have a caster level equal to her class level.
 
@@ -77,7 +77,7 @@ The following are class features of the guild poisoner prestige class.
 
 **Toxic Manufactory (Ex)**: At 3rd level, when creating poisons or antitoxins a guild poisoner can create a number of doses equal to her Intelligence modifier at one time (minimum 1). These additional doses do not increase the time required, but do increase the raw material cost accordingly. In addition, she uses the item’s gp value as its sp value when determining progress made with her Craft (alchemy) checks. If the guild poisoner has the [Master Alchemist](../../rules/feats/master-alchemist.md) feat, she may create a number of doses of poison or antitoxin at one time equal to twice her Intelligence modifier and uses the item’s pp value as its sp value when determining progress with her Craft (alchemy) checks.
 
-**Trapster (Ex)**: At 3rd level, a guild poisoner adds her class level on Perception skill checks made to locate traps and on Craft and Disable Device checks made with poisonous traps. A guild poisoner also adds a +1 bonus on attack rolls, save DCs, and Perception and Disable Device DCs for poisoned traps she creates. This bonus increases by 1 at 6th level and again at 9th level.
+**Trapster (Ex)**: At 3rd level, a guild poisoner adds her class level on [Perception](../../rules/skills/perception.md) skill checks made to locate traps and on Craft and [Disable Device](../../rules/skills/disable-device.md) checks made with poisonous traps. A guild poisoner also adds a +1 bonus on attack rolls, save DCs, and Perception and Disable Device DCs for poisoned traps she creates. This bonus increases by 1 at 6th level and again at 9th level.
 
 **Sneak Attack (Ex)**: This is exactly like the [rogue ability](../classes/rogue.md#sneak-attack) of the same name. The extra damage dealt increases by +1d6 at 5th level and again at 10th. If a guild poisoner gets a sneak attack bonus from another source, the bonuses on damage stack.
 

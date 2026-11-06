@@ -8,11 +8,11 @@ Presented below are a number of common martial themes, complete with variant cla
 
 The archer is dedicated to the careful mastery of the bow, perfecting his skills with years of practice honed day after day on ranges and hunting for game, or else on the battlefield, raining destruction down on the enemy lines.
 
-**Hawkeye (Ex)**: At 2nd level, an archer gains a +1 bonus on Perception checks, and the range increment for any bow he uses increases by 5 feet. These bonuses increase by +1 and 5 additional feet for every 4 levels beyond 2nd. This ability replaces [bravery](fighter.md#bravery-ex).
+**Hawkeye (Ex)**: At 2nd level, an archer gains a +1 bonus on [Perception](../../rules/skills/perception.md) checks, and the range increment for any bow he uses increases by 5 feet. These bonuses increase by +1 and 5 additional feet for every 4 levels beyond 2nd. This ability replaces [bravery](fighter.md#bravery-ex).
 
 **Trick Shot (Ex)**: At 3rd level, an archer can choose one of the following combat maneuvers or actions: disarm, feint, or sunder. He can perform this action with a bow against any target within 30 feet, with a –4 penalty to his CMB. Every four levels beyond 3rd, he may choose an additional trick shot to learn. These maneuvers use up arrows as normal.
 
-At 11th level, he may also choose from the following combat maneuvers: bull rush, grapple, trip. A target grappled by an arrow can break free by destroying the archer’s arrow (hardness 5, hit points 1, break DC 13) or with an Escape Artist or CMB check (against the archer’s CMD –4). This ability replaces armor training 1, 2, 3, and 4.
+At 11th level, he may also choose from the following combat maneuvers: bull rush, grapple, trip. A target [grappled](../../rules/appendices/conditions.md#grappled) by an arrow can break free by destroying the archer’s arrow (hardness 5, hit points 1, break DC 13) or with an [Escape Artist](../../rules/skills/escape-artist.md) or CMB check (against the archer’s CMD –4). This ability replaces armor training 1, 2, 3, and 4.
 
 **Expert Archer (Ex)**: At 5th level, an archer gains a +1 bonus on attack and damage rolls with bows. This bonus increases by +1 for every four levels beyond 5th. This ability replaces weapon training 1.
 
@@ -38,7 +38,7 @@ This bonus increases by +1 per four levels after 5th. This ability replaces weap
 
 **Improved Deadshot (Ex)**: At 7th level, when a crossbowman attacks with a crossbow as a readied action, his target is denied its Dexterity bonus to its AC. This ability replaces armor training 2.
 
-**Quick Sniper (Ex)**: At 9th level, a crossbowman gains a bonus equal to 1/2 his fighter level on Stealth checks when sniping. When he is hit with a ranged attack, he can shoot his crossbow at his attacker as an immediate action if it is loaded. This ability replaces weapon training 2.
+**Quick Sniper (Ex)**: At 9th level, a crossbowman gains a bonus equal to 1/2 his fighter level on [Stealth](../../rules/skills/stealth.md) checks when sniping. When he is hit with a ranged attack, he can shoot his crossbow at his attacker as an immediate action if it is loaded. This ability replaces weapon training 2.
 
 **Greater Deadshot (Ex)**: At 11th level, when a crossbowman attacks with a crossbow as a readied action, he may add his Dexterity bonus (minimum +1) on his damage roll. This ability replaces armor training 3.
 
@@ -56,7 +56,7 @@ This bonus increases by +1 per four levels after 5th. This ability replaces weap
 
 The free hand fighter specializes in the delicate art of handling a single weapon in one hand while using his free hand to balance, block, tip, and distract his opponents. While not a brawler, his open hand is as much a weapon as a bow or blade. His fighting school benefits only apply when he is using a one-handed weapon and carrying nothing in his other hand.
 
-**Deceptive Strike (Ex)**: At 2nd level, a free hand fighter gains a +1 bonus to CMB and CMD on disarm checks and on Bluff checks to feint or create a diversion to hide. This bonus increases by +1 for every four levels after 2nd. This ability replaces [bravery](fighter.md#bravery-ex).
+**Deceptive Strike (Ex)**: At 2nd level, a free hand fighter gains a +1 bonus to CMB and CMD on disarm checks and on [Bluff](../../rules/skills/bluff.md) checks to feint or create a diversion to hide. This bonus increases by +1 for every four levels after 2nd. This ability replaces [bravery](fighter.md#bravery-ex).
 
 **Elusive (Ex)**: At 3rd level, a free hand fighter gains a +1 dodge bonus to AC. This bonus increases by +1 for every four levels after 2nd. This bonus does not apply when wearing medium or heavy armor or carrying a medium or heavier load. This ability replaces armor training 1, 2, 3, and 4.
 
@@ -64,7 +64,7 @@ The free hand fighter specializes in the delicate art of handling a single weapo
 
 **Timely Tip (Ex)**: At 9th level, a free hand fighter can make a disarm combat maneuver against a target he threatens as a move action to push aside the target’s shield. If successful, the target loses its shield bonus to AC against the free hand fighter’s next attack. This ability replaces weapon training 2.
 
-**Interference (Ex)**: At 13th level, a free hand fighter can make a disarm or trip combat maneuver against a target he threatens as a move action to push his opponent off balance. If successful, the target becomes flat-footed.
+**Interference (Ex)**: At 13th level, a free hand fighter can make a disarm or trip combat maneuver against a target he threatens as a move action to push his opponent off balance. If successful, the target becomes [flat-footed](../../rules/appendices/conditions.md#flat-footed).
 
 This condition lasts until the target takes damage from a melee or ranged attack or until the beginning of the free hand fighter’s next turn, whichever comes first. This ability replaces weapon training 3.
 
@@ -74,7 +74,7 @@ This condition lasts until the target takes damage from a melee or ranged attack
 
 Where some fighters focus on strength and raw power, the mobile fighter relies on swiftness and mobility, gliding across the battlefield like a steel whirlwind and leaving destruction in his wake.
 
-**Agility (Ex)**: At 2nd level, a mobile fighter gains a +1 bonus on saving throws made against effects that cause him to become paralyzed, slowed, or entangled. This bonus increases by +1 for every four levels beyond 2nd.
+**Agility (Ex)**: At 2nd level, a mobile fighter gains a +1 bonus on saving throws made against effects that cause him to become [paralyzed](../../rules/appendices/conditions.md#paralyzed), slowed, or [entangled](../../rules/appendices/conditions.md#entangled). This bonus increases by +1 for every four levels beyond 2nd.
 
 This ability replaces [bravery](fighter.md#bravery-ex).
 
@@ -84,7 +84,7 @@ This ability replaces [bravery](fighter.md#bravery-ex).
 
 This ability replaces armor training 3.
 
-**Fleet Footed (Ex)**: At 15th level, the mobile fighter’s speed increases by 10 feet. He can take 10 on Acrobatics checks even while distracted or threatened, and can take 20 on an Acrobatics check once per day for every five fighter levels he possesses. This ability replaces armor training 4.
+**Fleet Footed (Ex)**: At 15th level, the mobile fighter’s speed increases by 10 feet. He can take 10 on [Acrobatics](../../rules/skills/acrobatics.md) checks even while distracted or threatened, and can take 20 on an Acrobatics check once per day for every five fighter levels he possesses. This ability replaces armor training 4.
 
 **Whirlwind Blitz (Ex)**: At 20th level, a mobile fighter can make a full-attack action as a standard action. He may also use the [Whirlwind Attack](../../rules/feats/whirlwind-attack.md) feat as a standard action. This ability replaces [weapon mastery](fighter.md#weapon-mastery-ex).
 
@@ -138,7 +138,7 @@ Roughriders study and practice the fine points of mounted combat, drilling endle
 
 **Steadfast Mount (Ex)**: At 2nd level, after a roughrider has spent 1 hour practicing with a mount, the mount gains a +1 dodge bonus to AC and a +1 morale bonus on saves, but only while the roughrider is mounted on it or adjacent to it. This bonus increases by +1 for every four levels after 2nd. This ability replaces [bravery](fighter.md#bravery-ex).
 
-**Armored Charger (Ex)**: At 3rd level, a roughrider no longer suffers armor check penalties on Ride skill checks. His mount’s speed is not reduced when carrying a medium load or wearing medium barding. This ability replaces armor training 1.
+**Armored Charger (Ex)**: At 3rd level, a roughrider no longer suffers armor check penalties on [Ride](../../rules/skills/ride.md) skill checks. His mount’s speed is not reduced when carrying a medium load or wearing medium barding. This ability replaces armor training 1.
 
 **Mounted Mettle (Ex)**: At 5th level, a roughrider and his mount gain a +1 bonus on attack and damage rolls when he is mounted or adjacent to his mount. This bonus increases by +1 for every four levels after 5th. This ability replaces weapon training 1, 2, 3, and 4.
 
@@ -280,7 +280,7 @@ This ability replaces [bravery](fighter.md#bravery-ex).
 
 **Uncanny Dodge (Su)**: At 3rd level, a sensate gains uncanny dodge as the [barbarian ability](barbarian.md#uncanny-dodge-ex) of the same name, except supernatural in nature. This ability replaces armor training 1.
 
-**Centered Senses (Su)**: At 5th level, a sensate can center his senses as a move action. While centered, a sensate gains a +1 insight bonus on attack rolls, weapon damage rolls, and Will saves. This bonus increases by 1 at 9th level and every 4 levels thereafter. A sensate loses his centered state if he gains the confused, dazed, fascinated, staggered, or stunned condition; falls unconscious; or fails a Will save. This ability replaces weapon training 2, 3, and 4.
+**Centered Senses (Su)**: At 5th level, a sensate can center his senses as a move action. While centered, a sensate gains a +1 insight bonus on attack rolls, weapon damage rolls, and Will saves. This bonus increases by 1 at 9th level and every 4 levels thereafter. A sensate loses his centered state if he gains the [confused](../../rules/appendices/conditions.md#confused), [dazed](../../rules/appendices/conditions.md#dazed), [fascinated](../../rules/appendices/conditions.md#fascinated), [staggered](../../rules/appendices/conditions.md#staggered), or [stunned](../../rules/appendices/conditions.md#stunned) condition; falls [unconscious](../../rules/appendices/conditions.md#unconscious); or fails a Will save. This ability replaces weapon training 2, 3, and 4.
 
 **Improved Uncanny Dodge (Su)**: At 7th level, a sensate gains improved uncanny dodge as the [barbarian ability](barbarian.md#improved-uncanny-dodge-ex) of the same name, except supernatural in nature. This ability replaces armor training 2.
 
@@ -321,7 +321,7 @@ All fighters have two main tools of their trade—weapons and armor. While many 
 
 **Deflective Shield (Ex)**: At 2nd level, an armor master specializes in using his shield to deflect attacks. He gains a +1 bonus to his touch AC, and this bonus increases for every four levels beyond 2nd (to a maximum of +5 at 18th level); however, this bonus cannot exceed the sum of the armor and enhancement bonus to AC provided by the shield that the armor master is currently carrying. This ability replaces [bravery](fighter.md#bravery-ex).
 
-**Armored Defense (Ex)**: At 5th level, an armor master gains DR 1/— when wearing light armor, DR 2/— when wearing medium armor, and DR 3/— when wearing heavy armor. At 19th level, this damage reduction increases to DR 4/— when wearing light armor, DR 8/— when wearing medium armor, and DR 12/— when wearing heavy armor. This damage reduction stacks with that provided by adamantine armor, but not with other forms of damage reduction. This damage reduction does not apply if the armor master is stunned, unconscious, or helpless. This ability replaces weapon training 1 and 3, and [armor mastery](fighter.md#armor-mastery-ex).
+**Armored Defense (Ex)**: At 5th level, an armor master gains DR 1/— when wearing light armor, DR 2/— when wearing medium armor, and DR 3/— when wearing heavy armor. At 19th level, this damage reduction increases to DR 4/— when wearing light armor, DR 8/— when wearing medium armor, and DR 12/— when wearing heavy armor. This damage reduction stacks with that provided by adamantine armor, but not with other forms of damage reduction. This damage reduction does not apply if the armor master is stunned, unconscious, or [helpless](../../rules/appendices/conditions.md#helpless). This ability replaces weapon training 1 and 3, and [armor mastery](fighter.md#armor-mastery-ex).
 
 **Fortification (Ex)**: At 9th level, an armor master can use his armor to shield critical areas from injury. He treats any armor he wears as if it had the light fortification special ability. At 13th level, his armor gains the moderate fortification special ability. This fortification does not stack in any way with armor that has these special abilities. In these cases the armor master takes the better of the two fortifications. This ability replaces weapon training 2 and 4.
 
@@ -465,7 +465,7 @@ Not all fighters need weapons to make their mark on the world. The unarmed fight
 
 **Unarmed Style**: At 1st level, a unarmed fighter gains the [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) feat and any single style feat as a bonus feat. The unarmed fighter need not meet all the prerequisites of the style feat he chooses, but style feats that grant additional uses of the [Elemental Fist](../../rules/feats/elemental-fist.md) feat cannot be taken until the unarmed fighter has that feat. This ability replaces the bonus feat at 1st level.
 
-**Harsh Training (Ex)**: At 2nd level, an unarmed fighter gains a +1 bonus on saving throws against effects that cause the exhausted, fatigued, or staggered conditions or temporary penalties to ability scores. This bonus increases by +1 for every four levels after 2nd (to a maximum of +5 at 18th level). This ability replaces [bravery](fighter.md#bravery-ex).
+**Harsh Training (Ex)**: At 2nd level, an unarmed fighter gains a +1 bonus on saving throws against effects that cause the [exhausted](../../rules/appendices/conditions.md#exhausted), [fatigued](../../rules/appendices/conditions.md#fatigued), or staggered conditions or temporary penalties to ability scores. This bonus increases by +1 for every four levels after 2nd (to a maximum of +5 at 18th level). This ability replaces [bravery](fighter.md#bravery-ex).
 
 **Tough Guy (Ex)**: At 3rd level, an unarmed fighter gains DR/— equal to half his fighter level against nonlethal damage or damage taken while he is grappled. This ability replaces armor training 1.
 
@@ -473,13 +473,13 @@ Not all fighters need weapons to make their mark on the world. The unarmed fight
 
 **Clever Wrestler (Ex)**: At 7th level, an unarmed fighter takes no penalties to Dexterity or on attack rolls while grappled, and retains his Dexterity bonus to AC while pinning an opponent. The unarmed fighter can make attacks of opportunity even when grappled and even against creatures attempting to grapple him if the opponent has the [Improved Grapple](../../rules/feats/improved-grapple.md) feat or the grab ability. This ability replaces armor training 2.
 
-**Trick Throw (Ex)**: At 8th level, when an unarmed fighter successfully trips an opponent with an unarmed attack, he can attempt a dirty trick combat maneuver against that creature (before the opponent becomes prone) as an immediate action that does not provoke attacks of opportunity. This ability replaces the 8th-level bonus feat.
+**Trick Throw (Ex)**: At 8th level, when an unarmed fighter successfully trips an opponent with an unarmed attack, he can attempt a dirty trick combat maneuver against that creature (before the opponent becomes [prone](../../rules/appendices/conditions.md#prone)) as an immediate action that does not provoke attacks of opportunity. This ability replaces the 8th-level bonus feat.
 
 **Takedown (Ex)**: At 12th level, if an unarmed fighter succeeds on a drag maneuver, he can attempt a trip maneuver against the same target as a swift action that does not provoke attacks of opportunity. At 15th level, he may do so after a successful grapple check. This ability replaces the 12th-level bonus feat.
 
 **Eye Gouge (Ex)**: At 13th level, if an unarmed fighter confirms a critical hit with his unarmed strike or begins his turn grappled, he may attempt a dirty trick maneuver to blind his target as a swift action that does not provoke attacks of opportunity. A target more than one size category larger is unaffected. This ability replaces weapon training 3.
 
-**Sucker Punch (Ex)**: At 17th level, when an unarmed fighter strikes a creature that is denied its Dexterity bonus to AC, or that he has successfully pinned with a grapple check, he can attempt a dirty trick or trip combat maneuver against that target as a swift action. This ability replaces armor training 4.
+**Sucker Punch (Ex)**: At 17th level, when an unarmed fighter strikes a creature that is denied its Dexterity bonus to AC, or that he has successfully [pinned](../../rules/appendices/conditions.md#pinned) with a grapple check, he can attempt a dirty trick or trip combat maneuver against that target as a swift action. This ability replaces armor training 4.
 
 **Sheer Toughness (Ex)**: At 19th level, an unarmed fighter becomes immune to nonlethal damage and the exhausted, fatigued, and staggered conditions. This ability replaces [armor mastery](fighter.md#armor-mastery-ex).
 
@@ -551,7 +551,7 @@ Vikings seek to raid “softer societies” and return with their longships fill
 
 **Weapon and Armor Proficiency**: A viking is not proficient with [heavy armor](../../equipment/armor.md) or [tower shields](../../equipment/armor.md). This alters the fighter’s weapon and armor proficiencies.
 
-**Fearsome (Ex)**: At 2nd level, a viking can attempt an Intimidate check to demoralize an opponent as a move action. At 10th level, she can do so as a swift action. At 18th level, she can attempt to demoralize a foe as a free action once per round. This replaces [bravery](fighter.md#bravery-ex).
+**Fearsome (Ex)**: At 2nd level, a viking can attempt an [Intimidate](../../rules/skills/intimidate.md) check to demoralize an opponent as a move action. At 10th level, she can do so as a swift action. At 18th level, she can attempt to demoralize a foe as a free action once per round. This replaces [bravery](fighter.md#bravery-ex).
 
 **Shield Defense (Ex)**: At 3rd level, a viking learns the art of fighting with a shield. Whenever she is wearing medium, light, or no armor and using a shield, the viking’s shield bonus to AC increases by 1. At 7th, 11th, and 15th levels, this bonus increases by 1. This replaces [armor training](fighter.md#armor-training-ex).
 
@@ -601,7 +601,7 @@ Driven by suspicion and hatred, strix doggedly guard their territories, making d
 
 **Combat Flyer (Ex)**: At 2nd level, an airborne ambusher may use his fighter bonus feats to select Flyby Attack and Hover. This replaces [bravery](fighter.md#bravery-ex).
 
-**Aerobatics (Ex)**: At 5th level, an airborne ambusher may make a Fly check instead of an Acrobatics check to move through a threatened area or an enemy’s space. This replaces weapon training 1.
+**Aerobatics (Ex)**: At 5th level, an airborne ambusher may make a [Fly](../../rules/skills/fly.md) check instead of an Acrobatics check to move through a threatened area or an enemy’s space. This replaces weapon training 1.
 
 **Flying Dodger (Ex)**: At 9th level, when an airborne ambusher flies at least half its fly speed on its turn, it gains a +1 dodge bonus to AC for 1 round. This bonus increases to +2 at 11th level and +4 at 17th level. This ability replaces weapon training 2.
 
@@ -635,7 +635,7 @@ At 15th level, any creature a foehammer successfully bull rushes is automaticall
 
 Eldritch guardians are trained to detect and give warning about magic threats to the people and places they protect.
 
-**Class Skills**: The eldritch guardian adds Perception, Spellcraft, and Use Magic Device to his list of class skills, but does not gain Intimidate, Ride, or Swim as class skills.
+**Class Skills**: The eldritch guardian adds Perception, [Spellcraft](../../rules/skills/spellcraft.md), and Use Magic Device to his list of class skills, but does not gain Intimidate, Ride, or Swim as class skills.
 
 **Familiar (Ex)**: At 1st level, an eldritch guardian gains a familiar, treating his fighter level as his effective wizard level for the purpose of this ability. This ability replaces the bonus feat gained at 1st level.
 
@@ -653,7 +653,7 @@ Quick thinking and deception can often carry the day where raw force might not. 
 
 **Maneuver Mastery (Ex)**: At 3rd level, a lore warden gains a +2 bonus on all CMB checks and to his CMD. This bonus increases to +4 at 7th level, +6 at 11th level, and +8 at 15th level. This ability replaces armor training 1.
 
-**Know Thy Enemy (Ex)**: At 7th level, a lore warden can take a standard action to study a specific target in sight. He must make a Knowledge check to determine the target’s abilities and weaknesses as part of this standard action. If successful, the lore warden not only notes the appropriate abilities and weaknesses, as detailed under the Knowledge skill, but also gains a +2 competence bonus on all attack rolls and weapon damage rolls made against that enemy. Note that this bonus on attack and damage rolls applies only to that specific creature. This bonus lasts for the duration of an encounter, or until the lore warden attempts a new Knowledge check to use this ability on a different target. This ability replaces armor training 2.
+**Know Thy Enemy (Ex)**: At 7th level, a lore warden can take a standard action to study a specific target in sight. He must make a [Knowledge](../../rules/skills/knowledge.md) check to determine the target’s abilities and weaknesses as part of this standard action. If successful, the lore warden not only notes the appropriate abilities and weaknesses, as detailed under the Knowledge skill, but also gains a +2 competence bonus on all attack rolls and weapon damage rolls made against that enemy. Note that this bonus on attack and damage rolls applies only to that specific creature. This bonus lasts for the duration of an encounter, or until the lore warden attempts a new Knowledge check to use this ability on a different target. This ability replaces armor training 2.
 
 **Hair’s Breadth (Ex)**: At 11th level, a lore warden can attempt an Acrobatics check as an immediate action to negate a confirmation roll for a critical hit. The critical hit confirmation is negated (though the attack still hits and deals normal damage) if the Acrobatics check is greater than the opponent’s confirmation roll. This ability replaces armor training 3.
 
@@ -675,7 +675,7 @@ Free-style fighters are most common in regions where students travel and study w
 
 Commonly trained in the well-funded temples of ancient lands, the relic master is skilled in magic item mastery.
 
-**Class Skills**: The relic master receives Knowledge (arcana) and Use Magic Device as class skills, but doesn’t receive Handle Animal or Ride as class skills. This alters the fighter’s class skills.
+**Class Skills**: The relic master receives Knowledge (arcana) and Use Magic Device as class skills, but doesn’t receive [Handle Animal](../../rules/skills/handle-animal.md) or Ride as class skills. This alters the fighter’s class skills.
 
 **Improved Item Mastery (Su)**: At 3rd level, once per day, a relic master can use an item mastery feat she knows with a magic item that doesn’t have an appropriate spell in its construction requirements. The magic item must meet all other requirements of the item mastery feat. Alternatively, if she is using a magic item with an appropriate spell in its construction requirements, she can use an item mastery feat without it counting against the feat’s total uses per day. She can use this ability one additional time per day at 7th, 11th, and 15th levels. This ability replaces [armor training](fighter.md#armor-training-ex).
 
@@ -731,11 +731,11 @@ Not every zealot of a goddess of revenge can channel divine magic to track down 
 
 **Weapon and Armor Proficiency**: A vengeful hunter is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), plus the [whip](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons). In addition, the hunter is proficient with light and [medium armor](../../equipment/armor.md) as well as [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). This replaces the normal fighter armor and weapon proficiencies.
 
-**Class Skills**: A vengeful hunter gains Diplomacy, Knowledge (local), and Perception as class skills and loses Knowledge (dungeoneering) and Knowledge (engineering) as class skills.
+**Class Skills**: A vengeful hunter gains [Diplomacy](../../rules/skills/diplomacy.md), Knowledge (local), and Perception as class skills and loses Knowledge (dungeoneering) and Knowledge (engineering) as class skills.
 
-**Tenacious Tracker (Ex)**: At 2nd level, a vengeful hunter gains a +1 bonus on Diplomacy checks to gather information and on Survival checks made to identify or follow tracks. This bonus increases by 1 for every 4 levels the vengeful hunter possesses beyond 2nd. This ability replaces [bravery](fighter.md#bravery-ex).
+**Tenacious Tracker (Ex)**: At 2nd level, a vengeful hunter gains a +1 bonus on Diplomacy checks to gather information and on [Survival](../../rules/skills/survival.md) checks made to identify or follow tracks. This bonus increases by 1 for every 4 levels the vengeful hunter possesses beyond 2nd. This ability replaces [bravery](fighter.md#bravery-ex).
 
-**Vengeance (Ex)**: At 5th level, a vengeful hunter deals 1d4 points of bleed damage when he damages a creature that has damaged him since the beginning of his last turn. Whenever a creature takes bleed damage from this effect, it also takes a –1 penalty on attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks for 1 round. This penalty is a pain effect and does not stack with the effects of the sickened condition. This bleed damage increases to 1d6 at 9th level, 1d8 at 13th level, and 2d6 at 17th level. This ability replaces weapon training 1.
+**Vengeance (Ex)**: At 5th level, a vengeful hunter deals 1d4 points of bleed damage when he damages a creature that has damaged him since the beginning of his last turn. Whenever a creature takes bleed damage from this effect, it also takes a –1 penalty on attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks for 1 round. This penalty is a pain effect and does not stack with the effects of the [sickened](../../rules/appendices/conditions.md#sickened) condition. This bleed damage increases to 1d6 at 9th level, 1d8 at 13th level, and 2d6 at 17th level. This ability replaces weapon training 1.
 
 **Savor the Sting (Ex)**: At 9th level, whenever a target takes bleed damage from a vengeful hunter's vengeance ability, the vengeful hunter gains an equal number of temporary hit points. These temporary hit points last for 1 minute and do not stack with each other. This ability replaces weapon training 2.
 
@@ -793,7 +793,7 @@ Until would-be hell knights take the Test—in which they enter single combat wi
 
 A lore warden of this version is the consummate warrior-scholar, outsmarting her competition even when locking blades with powerful foes. Outside of combat, a lore warden’s extensive education also helps her document the past and survive great danger.
 
-**Scholastic (Ex)**: A lore warden gains 2 additional skill ranks each level. These ranks must be spent on Intelligence-based skills. All Craft and Knowledge skills are class skills for lore wardens, as are Linguistics and Spellcraft. This ability replaces the fighter’s proficiency with [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), and [shields](../../equipment/armor.md).
+**Scholastic (Ex)**: A lore warden gains 2 additional skill ranks each level. These ranks must be spent on Intelligence-based skills. All [Craft](../../rules/skills/craft.md) and Knowledge skills are class skills for lore wardens, as are [Linguistics](../../rules/skills/linguistics.md) and Spellcraft. This ability replaces the fighter’s proficiency with [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), and [shields](../../equipment/armor.md).
 
 **Skill Over Strength (Ex)**: At 2nd level, a lore warden qualifies for feats and other abilities as though she had the Combat Expertise feat. At 6th level, she gains Combat Expertise as a bonus feat, even if she would not normally qualify for the feat. If she already has Combat Expertise, she instead gains any one combat feat that includes Combat Expertise as a prerequisite (and for which she otherwise qualifies). At 10th level, she can treat her base attack bonus as though it were 2 higher for the purpose of calculating the effects of Combat Expertise. This ability replaces [bravery](fighter.md#bravery-ex) and the fighter bonus feat gained at 2nd level.
 
@@ -825,7 +825,7 @@ Cyber-soldiers replace fallible flesh with precision-crafted machinery. Some see
 
 The Shadow Plane's substance is legendary for its versatility. In shadow-shrouded lands, secretive martial practitioners long ago learned to shape supernatural weapons from ribbons of pure darkness.
 
-**Student of Darkness (Ex)**: A gloomblade gains Acrobatics, Knowledge (planes), Perception, and Stealth as class skills, but does not gain Climb, Handle Animal, Ride, or Swim as class skills. This alters the fighter's class skills.
+**Student of Darkness (Ex)**: A gloomblade gains Acrobatics, Knowledge (planes), Perception, and Stealth as class skills, but does not gain [Climb](../../rules/skills/climb.md), Handle Animal, Ride, or Swim as class skills. This alters the fighter's class skills.
 
 **Shadow Weapon (Su)**: A gloomblade can create a shadowy weapon in a free hand as a move action. This can take the form of any melee weapon with which he is proficient. A gloomblade can have only one shadow weapon in existence at a time; creating a new shadow weapon causes an existing shadow weapon to vanish. At 3rd level, the shadow weapon acts as a magic weapon with a +1 enhancement bonus; this bonus increases by 1 for every 4 levels a gloomblade has beyond 2nd, to a maximum enhancement bonus of +5 at 18th level.
 
@@ -932,7 +932,7 @@ As staunch believers in the value of higher ground, the masters of a sky-city em
 
 Opportunists believe every battle is one of wits rather than arms. Enforcers who protect certain notorious markets embrace this philosophy, unleashing a disorienting mix of martial skill and alchemical weaponry.
 
-**Duplicitous (Ex)**: An opportunist adds Bluff, Sense Motive, Sleight of Hand, and Stealth to his list of class skills. He gains 2 bonus skill ranks at each level, which must be allocated among these skills. This ability replaces [bravery](fighter.md#bravery-ex) and alters the fighter's class skills.
+**Duplicitous (Ex)**: An opportunist adds Bluff, [Sense Motive](../../rules/skills/sense-motive.md), [Sleight of Hand](../../rules/skills/sleight-of-hand.md), and Stealth to his list of class skills. He gains 2 bonus skill ranks at each level, which must be allocated among these skills. This ability replaces [bravery](fighter.md#bravery-ex) and alters the fighter's class skills.
 
 **Underhanded (Ex)**: An opportunist gains [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md) as a bonus feat at 1st level even if he does not meet the prerequisites. This ability replaces the bonus feat gained at 1st level.
 
@@ -1014,7 +1014,7 @@ A corsair is a pirate who focuses on shipboard combat, relying on strength of ar
 
 **Deck Fighting (Ex)**: At 2nd level, a corsair gains Cleave as a bonus feat, even if he does not meet the prerequisites. A corsair does not take the normal –2 penalty to AC when using Cleave. This ability replaces the fighter's 2nd-level bonus feat.
 
-**Armored Pirate (Ex)**: At 3rd level, the corsair reduces the armor check penalty of any light armor he wears to 0 for purposes of Acrobatics and Swim checks. At 7th level, this becomes true of medium armor as well, and at 11th level it includes heavy armor. This ability replaces [armor training](fighter.md#armor-training-ex).
+**Armored Pirate (Ex)**: At 3rd level, the corsair reduces the armor check penalty of any light armor he wears to 0 for purposes of Acrobatics and [Swim](../../rules/skills/swim.md) checks. At 7th level, this becomes true of medium armor as well, and at 11th level it includes heavy armor. This ability replaces [armor training](fighter.md#armor-training-ex).
 
 **Improved Deck Fighting (Ex)**: At 6th level, the corsair gains [Great Cleave](../../rules/feats/great-cleave.md) as a bonus feat, even if he does not meet the prerequisites. A corsair does not take the normal –2 penalty to AC when using Great Cleave. This ability replaces the fighter's 6th-level bonus feat.
 

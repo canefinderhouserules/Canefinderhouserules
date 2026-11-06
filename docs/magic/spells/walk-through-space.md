@@ -7,4 +7,4 @@
 **Target** you  
 **Duration** 1 round/level
 
-When under the effects of this spell, you can teleport up to 30 feet as a move action. You must end this movement in an unoccupied space that you can stand on within line of sight. Alternatively, you can spend a move action to teleport to a standing position from lying prone. Teleporting does not provoke attacks of opportunity.
+When under the effects of this spell, you can teleport up to 30 feet as a move action. You must end this movement in an unoccupied space that you can stand on within line of sight. Alternatively, you can spend a move action to teleport to a standing position from lying [prone](../../rules/appendices/conditions.md#prone). Teleporting does not provoke attacks of opportunity.

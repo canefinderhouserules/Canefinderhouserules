@@ -71,7 +71,7 @@ The following are class features of the hell knight signifer prestige class.
 
 **Order**: A hell knight signifer chooses a knightly order to join at 1st level. The most common orders (and their favored weapon or weapons) are: Shackles (flail), Portal (dagger), Faithful (morningstar), Spike (halberd or lance), Brazier (glaive), Austerity (longsword or whip), and Lash (heavy mace or whip).
 
-**Signifer Mask (Su)**: Upon initiation, a hell knight signifer receives a mask, often devoid of eyeholes or other personal features. This mask doesn’t obscure the signifer’s vision, and while wearing it he gains a +2 competence bonus on Sense Motive checks and on saving throws against spells and abilities that rely on visual effects.
+**Signifer Mask (Su)**: Upon initiation, a hell knight signifer receives a mask, often devoid of eyeholes or other personal features. This mask doesn’t obscure the signifer’s vision, and while wearing it he gains a +2 competence bonus on [Sense Motive](../../rules/skills/sense-motive.md) checks and on saving throws against spells and abilities that rely on visual effects.
 
 A signifer with a bonded object from the arcane bond class feature can perform a special ritual that costs 500 gp and takes 8 hours to complete. This ritual converts the signifer’s mask into his new bonded object, which takes up the head slot. In this case, his signifer levels stack with levels from the class that grants the arcane bond for determining what additional magical abilities can be added to the bonded object.
 

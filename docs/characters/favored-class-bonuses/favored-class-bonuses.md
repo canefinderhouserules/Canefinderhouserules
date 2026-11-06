@@ -228,7 +228,7 @@ The official FCB system can still be used in case a very specific case was remov
 
 \- Increase the total number of points in the character’s **phrenic pool** by 1/3 point.
 
-\- Add a +1 bonus to **AC when flatfooted**, to a maximum of what the character’s AC would be if not flat-footed.
+\- Add a +1 bonus to **AC when flatfooted**, to a maximum of what the character’s AC would be if not [flat-footed](../../rules/appendices/conditions.md#flat-footed).
 
 \- When casting **divination spells**, the Character adds 1 to the effective caster level of the spell, but only to determine the spell’s range and its d% chance to provide correct or meaningful information (such as with augury or divination).
 

@@ -16,7 +16,7 @@ Yaddithians are an ancient race of scholarly starfarers. Their home planet was c
 
 **Rugose**: A yaddithian gains a +1 natural armor bonus.
 
-**Cosmic Mind (Ex)**: A yaddithian gets a +2 racial bonus on Knowledge and Spellcraft checks. A yaddithian spellcaster who would store spells in a spellbook or familiar instead stores those spells in its mind (but must expend the normal resources to learn new spells).
+**Cosmic Mind (Ex)**: A yaddithian gets a +2 racial bonus on [Knowledge](../../rules/skills/knowledge.md) and [Spellcraft](../../rules/skills/spellcraft.md) checks. A yaddithian spellcaster who would store spells in a spellbook or familiar instead stores those spells in its mind (but must expend the normal resources to learn new spells).
 
 **Long-Lived (Ex)**: Yaddithians live for thousands of years; they gain no benefit or penalty from aging and are immune to magical aging effects.
 

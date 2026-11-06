@@ -1,6 +1,6 @@
 # Fast Crawl
 
-You are skilled at moving while prone.
+You are skilled at moving while [prone](../appendices/conditions.md#prone).
 
 **Benefit**: While prone, you can move at half speed. This movement provokes attacks of opportunity as normal. You can take a 5-foot step while crawling. This benefit does not stack with the rogue crawl talent.
 

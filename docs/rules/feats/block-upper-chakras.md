@@ -10,6 +10,6 @@ You can block additional chakras.
 
 **Throat**: The target can't speak or cast spells with a thought component for 1 round, and for 1 minute, actions that require speaking or thought components have a 20% chance to fail. On a successful save, actions that require speaking or thought components have a 50% chance to fail for 1 round.
 
-**Brow**: The target is blinded for 1 minute. On a successful save, the target loses all special forms of vision (such as low-light vision, see in darkness, and true seeing) for 1 round; this doesn't affect nonvisual senses like blindsight and blindsense.
+**Brow**: The target is [blinded](../appendices/conditions.md#blinded) for 1 minute. On a successful save, the target loses all special forms of vision (such as low-light vision, see in darkness, and true seeing) for 1 round; this doesn't affect nonvisual senses like blindsight and blindsense.
 
 **Crown**: The target must roll twice and take the lower result on all d20 rolls for 1 round and on its first attack roll or caster level check each round for 1 minute. On a successful save, the target must roll twice and take the lower result on its next d20 roll.

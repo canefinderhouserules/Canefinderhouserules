@@ -12,7 +12,7 @@ A dwarf can take this trait in place of greed and stonecunning. An elf, half-elf
 
 ## Fey Thoughts (1 RP)
 
-The character sees the world more like a native of the First World. Select two of the following skills: Acrobatics, Bluff, Climb, Diplomacy, Disguise, Escape Artist, Fly, Knowledge (nature), Perception, Perform, Sense Motive, Sleight of Hand, Stealth, Swim, or Use Magic Device. The selected skills are always class skills for the character.
+The character sees the world more like a native of the First World. Select two of the following skills: [Acrobatics](../../rules/skills/acrobatics.md), [Bluff](../../rules/skills/bluff.md), [Climb](../../rules/skills/climb.md), [Diplomacy](../../rules/skills/diplomacy.md), [Disguise](../../rules/skills/disguise.md), [Escape Artist](../../rules/skills/escape-artist.md), [Fly](../../rules/skills/fly.md), [Knowledge](../../rules/skills/knowledge.md) (nature), [Perception](../../rules/skills/perception.md), [Perform](../../rules/skills/perform.md), [Sense Motive](../../rules/skills/sense-motive.md), [Sleight of Hand](../../rules/skills/sleight-of-hand.md), [Stealth](../../rules/skills/stealth.md), [Swim](../../rules/skills/swim.md), or [Use Magic Device](../../rules/skills/use-magic-device.md). The selected skills are always class skills for the character.
 
 A dwarf can take this trait in place of hatred. An elf, gnome, or half-orc can take this trait in place of racial weapon familiarity. A half-elf can take this trait in place of multitalented. A halfling can take it in place of fearless. In the case of humans, this trait replaces the skilled trait (and the human also gains fey magic and low-light vision).
 

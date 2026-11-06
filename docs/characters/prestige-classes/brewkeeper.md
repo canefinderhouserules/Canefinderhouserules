@@ -67,22 +67,22 @@ The following are class features of the brewkeeper prestige class.
 
 **Helpful Homebrew (Su)**: At 2nd level and every 2 class levels thereafter, a brewkeeper can select one metamagic feat from the list in the following paragraph. She can spend points from her brew reservoir as a swift action to add a metamagic effect to a spell as she casts it, an extract as she drinks it, or a draught as she creates it. She does not need to meet the feat's prerequisites in order to select the effect. Using this ability costs a number of brew points equal to the metamagic feat's level increase (minimum 1). The metamagic effects available (and the brewkeeper level at which she can select them) are: Empower Spell (4th), Extend Spell (2nd), Fleeting Spell (2nd), Intuitive Spell (4th), Maximize Spell (6th), Silent Spell (4th), and Tenacious Spell (2nd).
 
-**Harmful Homebrew (Su)**: At 3rd level, a brewkeeper can enhance her attacks with a harmful homebrew. Whenever she hits a creature with a splash weapon or a touch spell, she can spend 1 brew point as a swift action to add an effect to the spell or splash weapon. These additional effects caused by a harmful homebrew apply regardless of whether or not the target succeeds at any saving throws associated with the touch spell or splash weapon's normal effects. The target can attempt a Fortitude save to avoid the effect of the harmful homebrew (DC = 10 + 1/2 the brewkeeper's caster level + the brewkeeper's highest mental ability score modifier). On a successful save, the target becomes sickened for 1 round (as if suffering, temporarily, the effects of intoxication), but on a failed save, the target is afflicted with the harmful homebrew's effect, as chosen by the brewkeeper from the options below. Conditions inflicted by hindering homebrews don't stack. At 3rd level, the brewkeeper can select one of the following effects when she successfully affects a creature with a harmful homebrew. Every 3 class levels thereafter, the brewkeeper can apply an additional harmful homebrew effect to her touch spell or splash weapon, for a total of three effects at 9th level.
+**Harmful Homebrew (Su)**: At 3rd level, a brewkeeper can enhance her attacks with a harmful homebrew. Whenever she hits a creature with a splash weapon or a touch spell, she can spend 1 brew point as a swift action to add an effect to the spell or splash weapon. These additional effects caused by a harmful homebrew apply regardless of whether or not the target succeeds at any saving throws associated with the touch spell or splash weapon's normal effects. The target can attempt a Fortitude save to avoid the effect of the harmful homebrew (DC = 10 + 1/2 the brewkeeper's caster level + the brewkeeper's highest mental ability score modifier). On a successful save, the target becomes [sickened](../../rules/appendices/conditions.md#sickened) for 1 round (as if suffering, temporarily, the effects of intoxication), but on a failed save, the target is afflicted with the harmful homebrew's effect, as chosen by the brewkeeper from the options below. Conditions inflicted by hindering homebrews don't stack. At 3rd level, the brewkeeper can select one of the following effects when she successfully affects a creature with a harmful homebrew. Every 3 class levels thereafter, the brewkeeper can apply an additional harmful homebrew effect to her touch spell or splash weapon, for a total of three effects at 9th level.
 
-- *Entangled*: The target becomes entangled in its gear until it spends a full-round action adjusting itself.
-- *Fatigued*: The target is fatigued for 1 round.
-- *Prone*: The target falls prone.
+- *Entangled*: The target becomes [entangled](../../rules/appendices/conditions.md#entangled) in its gear until it spends a full-round action adjusting itself.
+- *Fatigued*: The target is [fatigued](../../rules/appendices/conditions.md#fatigued) for 1 round.
+- *Prone*: The target falls [prone](../../rules/appendices/conditions.md#prone).
 
 At 6th level, the brewkeeper adds the following harmful homebrews to the list of those she can select.
 
-- *Confused*: The target is confused for 1 round.
-- *Dazed*: The target is dazed for 1 round.
-- *Staggered*: The target is staggered for 1 round.
+- *Confused*: The target is [confused](../../rules/appendices/conditions.md#confused) for 1 round.
+- *Dazed*: The target is [dazed](../../rules/appendices/conditions.md#dazed) for 1 round.
+- *Staggered*: The target is [staggered](../../rules/appendices/conditions.md#staggered) for 1 round.
 
 At 9th level, the brewkeeper adds the following homebrews to the list of those she can select.
 
-- *Exhausted*: The target is exhausted for 1 round, and then fatigued for 1 round after that. The brewkeeper must have applied the fatigued condition to the harmful homebrew before selecting this effect.
-- *Nauseated*: The target is nauseated for 1 round.
+- *Exhausted*: The target is [exhausted](../../rules/appendices/conditions.md#exhausted) for 1 round, and then fatigued for 1 round after that. The brewkeeper must have applied the fatigued condition to the harmful homebrew before selecting this effect.
+- *Nauseated*: The target is [nauseated](../../rules/appendices/conditions.md#nauseated) for 1 round.
 
 **Potion Master (Ex)**: At 3rd level, a brewkeeper can, as a move action, add a chaser of alcohol when she drinks a potion or administers a potion to a willing creature. If she does so, she uses her own caster level instead of the potion's caster level when determining the effects of the potion. She can also apply the effects of a helpful homebrew to a potion at this time as if it were a draught she had created.
 

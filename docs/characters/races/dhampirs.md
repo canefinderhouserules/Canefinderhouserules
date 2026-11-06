@@ -38,11 +38,11 @@ Almost universally, those inclined toward magic pursue the field of necromancy, 
 
 **Senses**: Low-light vision and darkvision 60 feet.
 
-**Manipulative**: +2 racial bonus on Bluff and Perception.
+**Manipulative**: +2 racial bonus on [Bluff](../../rules/skills/bluff.md) and [Perception](../../rules/skills/perception.md).
 
 **Undead Resistance**: Dhampirs gain a +2 racial bonus on saving throws against disease and mind-affecting effects.
 
-**Light Sensitivity**: Dhampirs are dazzled in areas of bright sunlight or within the radius of a [*daylight*](../../magic/spells/daylight.md) spell.
+**Light Sensitivity**: Dhampirs are [dazzled](../../rules/appendices/conditions.md#dazzled) in areas of bright sunlight or within the radius of a [*daylight*](../../magic/spells/daylight.md) spell.
 
 **Negative Energy Affinity**: Though a living creature, a dhampir reacts to positive and negative energy as if it were undead—positive energy harms it, while negative energy heals it.
 
@@ -58,9 +58,9 @@ The following racial traits may be selected instead of existing dhampir racial t
 
 **Dayborn**: A few fortunate dhampirs were born during the day under the blessings of priests, and their blood has weaker ties to their undead bloodline than others of their kind. Such dhampirs are unhindered by daylight and lose the light sensitivity racial trait. This racial trait replaces the spell-like ability racial trait.
 
-**Fangs**: On occasion, a dhampir may inherit his father’s lengthy canines. Whenever the dhampir makes a grapple combat maneuver check to damage an opponent, he can choose to bite his opponent, dealing 1d3 points of damage as if using a natural bite attack. As a standard action, the dhampir can bite a creature that is bound, helpless, paralyzed, or similarly unable to defend itself. This racial trait replaces the spell-like ability racial trait.
+**Fangs**: On occasion, a dhampir may inherit his father’s lengthy canines. Whenever the dhampir makes a grapple combat maneuver check to damage an opponent, he can choose to bite his opponent, dealing 1d3 points of damage as if using a natural bite attack. As a standard action, the dhampir can bite a creature that is bound, [helpless](../../rules/appendices/conditions.md#helpless), [paralyzed](../../rules/appendices/conditions.md#paralyzed), or similarly unable to defend itself. This racial trait replaces the spell-like ability racial trait.
 
-**Vampiric Empathy**: Though dhampirs often relate poorly to humanoids, some share an affinity with baser creatures. These dhampirs gain the ability to communicate with bats, rats, and wolves as if under the effects of a [*speak with animals*](../../magic/spells/speak-with-animals.md) spell (caster level equal to 1/2 the dhampir’s Hit Dice). In addition, they gain a +2 racial bonus on Diplomacy checks when dealing with these animals. Whenever these dhampirs initiate an exchange, animals begin with a starting attitude of indifferent. This is a supernatural ability. This racial trait replaces manipulative.
+**Vampiric Empathy**: Though dhampirs often relate poorly to humanoids, some share an affinity with baser creatures. These dhampirs gain the ability to communicate with bats, rats, and wolves as if under the effects of a [*speak with animals*](../../magic/spells/speak-with-animals.md) spell (caster level equal to 1/2 the dhampir’s Hit Dice). In addition, they gain a +2 racial bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks when dealing with these animals. Whenever these dhampirs initiate an exchange, animals begin with a starting attitude of indifferent. This is a supernatural ability. This racial trait replaces manipulative.
 
 ## Dhampir Heritages
 
@@ -72,7 +72,7 @@ Usually the result of some foul ritual or a magically possessed father rather th
 
 **Ability Score Modifiers**: +2 Dex, +2 Int, –2 Wis.
 
-**Alternate Skill Modifiers**: Acrobatics and Knowledge (engineering) (replacing the manipulative racial trait).
+**Alternate Skill Modifiers**: [Acrobatics](../../rules/skills/acrobatics.md) and Knowledge (engineering) (replacing the manipulative racial trait).
 
 **Alternate Spell-Like Ability**: *Erase* as a spell-like ability.
 
@@ -100,7 +100,7 @@ The union that results in this heritage is too horrific for most to imagine, and
 
 **Ability Score Modifiers**: +2 Str, +2 Wis, –2 Con.
 
-**Alternate Skill Modifiers**: Climb and Survival (replacing the manipulative racial trait).
+**Alternate Skill Modifiers**: [Climb](../../rules/skills/climb.md) and [Survival](../../rules/skills/survival.md) (replacing the manipulative racial trait).
 
 **Alternate Spell-Like Ability**: *Doom* as a spell-like ability.
 
@@ -114,7 +114,7 @@ More often the result of curiosity or experimentation than mating, the dhampir o
 
 **Ability Score Modifiers**: +2 Dex, +2 Wis, –2 Int.
 
-**Alternate Skill Modifiers**: Escape Artist and Use Magic Device (replacing the manipulative racial trait).
+**Alternate Skill Modifiers**: [Escape Artist](../../rules/skills/escape-artist.md) and [Use Magic Device](../../rules/skills/use-magic-device.md) (replacing the manipulative racial trait).
 
 **Alternate Spell-Like Ability**: *Comprehend languages* as a spell-like ability.
 
@@ -132,9 +132,9 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 **Fighter**: Add a +2 bonus on rolls to stabilize when dying.
 
-**Inquisitor**: Add a +1/2 bonus on Intimidate checks to demoralize humanoids.
+**Inquisitor**: Add a +1/2 bonus on [Intimidate](../../rules/skills/intimidate.md) checks to demoralize humanoids.
 
-**Rogue**: Add a +1/2 bonus on Stealth checks and Perception checks made in dim light or darkness.
+**Rogue**: Add a +1/2 bonus on [Stealth](../../rules/skills/stealth.md) checks and Perception checks made in dim light or darkness.
 
 **Sorcerer**: Add +1/2 point of negative energy damage to spells that deal negative energy damage.
 
@@ -207,7 +207,7 @@ The ru-shi are dhampirs who descend from the jiang-shi of the far east. They gen
 
 **Alternate Ability Modifiers**: +2 Strength, +2 Intelligence, –2 Dexterity.
 
-**Alternate Skill Modifiers**: Acrobatics, Knowledge (engineering).
+**Alternate Skill Modifiers**: Acrobatics, [Knowledge](../../rules/skills/knowledge.md) (engineering).
 
 **Alternate Spell-Like Ability**: *Erase*.
 

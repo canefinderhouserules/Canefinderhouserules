@@ -398,7 +398,7 @@ You can continue chaining your blasts until a blast misses or fails to deal dama
 
 **Saving Throw** Fortitude negates
 
-Your kinetic blast chills your foes to the bone, making their movements sluggish. Whenever an infused blast deals cold damage to a foe, that foe is staggered for 1 round.
+Your kinetic blast chills your foes to the bone, making their movements sluggish. Whenever an infused blast deals cold damage to a foe, that foe is [staggered](../../rules/appendices/conditions.md#staggered) for 1 round.
 
 ### Cloud
 
@@ -440,7 +440,7 @@ Your kinetic blast swirls with darkness, making it harder for your foes to see. 
 
 **Saving Throw** Will negates
 
-Your kinetic blast shines brightly, making it harder for your foes to see. If your blast hits a foe (and penetrates spell resistance if applicable), that foe must succeed at a Will save or be dazzled for 1 minute, whether or not it takes damage from the blast. You can reduce the blast’s damage by half to increase the DC of this save by 2.
+Your kinetic blast shines brightly, making it harder for your foes to see. If your blast hits a foe (and penetrates spell resistance if applicable), that foe must succeed at a Will save or be [dazzled](../../rules/appendices/conditions.md#dazzled) for 1 minute, whether or not it takes damage from the blast. You can reduce the blast’s damage by half to increase the DC of this save by 2.
 
 ### Deadly Earth
 
@@ -494,7 +494,7 @@ You can drain elemental energy and matter from your foes to strengthen your next
 
 **Saving Throw** Reflex half; see text
 
-You touch an area of natural ground, drawing up elemental energy that roils just below the surface, ready to explode when stepped on. This 5-foot square detonates when triggered by a weight of 10 pounds or more, affecting all creatures within 10 feet of the trap with your simple blast (or composite blast, if you have it). Any creature other than the one that triggered the elemental trap can attempt a Reflex save for half damage. The elemental trap lasts until the next time you use this wild talent or until it triggers. This counts as a magical trap with a Perception and Disable Device DC equal to 10 + your kineticist level + your Dexterity modifier. You can accept 2 points of burn, which cannot be reduced with gather power, to make a new trap without dismissing any previous traps. If you do, the trap lasts until the next time you recover burn.
+You touch an area of natural ground, drawing up elemental energy that roils just below the surface, ready to explode when stepped on. This 5-foot square detonates when triggered by a weight of 10 pounds or more, affecting all creatures within 10 feet of the trap with your simple blast (or composite blast, if you have it). Any creature other than the one that triggered the elemental trap can attempt a Reflex save for half damage. The elemental trap lasts until the next time you use this wild talent or until it triggers. This counts as a magical trap with a [Perception](../../rules/skills/perception.md) and [Disable Device](../../rules/skills/disable-device.md) DC equal to 10 + your kineticist level + your Dexterity modifier. You can accept 2 points of burn, which cannot be reduced with gather power, to make a new trap without dismissing any previous traps. If you do, the trap lasts until the next time you recover burn.
 
 ### Energize Weapon
 
@@ -518,7 +518,7 @@ Choose a manufactured weapon in your hand (not an unarmed strike or natural atta
 
 **Saving Throw** Reflex negates
 
-Your kinetic blast surrounds your foes in elemental matter. Whenever a blast with this infusion deals damage to a foe, that foe becomes entangled for 1 minute. The foe can remove this condition as a standard action with a successful Escape Artist or Strength check (with the same DC as for saves against your kinetic blast) or by dealing an amount of damage to the entangling matter equal to double your kineticist level (the matter has hardness 0). If the foe was already entangled by this infusion and fails its save against a second instance of this infusion, the increased amount of elemental matter fuses to the ground, causing the foe to be rooted in place as though anchored to an immobile object.
+Your kinetic blast surrounds your foes in elemental matter. Whenever a blast with this infusion deals damage to a foe, that foe becomes [entangled](../../rules/appendices/conditions.md#entangled) for 1 minute. The foe can remove this condition as a standard action with a successful [Escape Artist](../../rules/skills/escape-artist.md) or Strength check (with the same DC as for saves against your kinetic blast) or by dealing an amount of damage to the entangling matter equal to double your kineticist level (the matter has hardness 0). If the foe was already entangled by this infusion and fails its save against a second instance of this infusion, the increased amount of elemental matter fuses to the ground, causing the foe to be rooted in place as though anchored to an immobile object.
 
 ### Eruption
 
@@ -584,7 +584,7 @@ Your kinetic blast extends in a fan of flames, damaging all creatures and object
 
 **Saving Throw** Will negates
 
-Your kinetic blast is so bright that it blinds your foes. Whenever an infused blast hits a foe and penetrates its spell resistance, that foe must succeed at a Will save or be blinded for 1 round, regardless of whether it takes damage from the blast. You can reduce the blast’s damage by half to increase the DC of this save by 2.
+Your kinetic blast is so bright that it blinds your foes. Whenever an infused blast hits a foe and penetrates its spell resistance, that foe must succeed at a Will save or be [blinded](../../rules/appendices/conditions.md#blinded) for 1 round, regardless of whether it takes damage from the blast. You can reduce the blast’s damage by half to increase the DC of this save by 2.
 
 ### Flurry of Blasts
 
@@ -616,7 +616,7 @@ You focus your blast in a concentrated attack. You gain a +1 enhancement bonus o
 
 **Saving Throw** Fortitude negates; see text
 
-Your telekinetic blast can throw a Large or smaller creature instead of an unattended object; you can increase the burn cost by 1 to affect a creature of a larger size. If the creature you attempt to throw succeeds at a Fortitude save, it negates the blast entirely. Otherwise, if your blast hits, both the thrown creature and the target take the full amount of damage from your telekinetic blast, and the thrown creature falls prone in the last unoccupied space along its path. If your blast misses, the thrown creature can choose to occupy any space within 30 feet of the target, it doesn’t fall prone, and it takes half the normal amount of damage from your blast. The movement doesn’t provoke attacks of opportunity.
+Your telekinetic blast can throw a Large or smaller creature instead of an unattended object; you can increase the burn cost by 1 to affect a creature of a larger size. If the creature you attempt to throw succeeds at a Fortitude save, it negates the blast entirely. Otherwise, if your blast hits, both the thrown creature and the target take the full amount of damage from your telekinetic blast, and the thrown creature falls [prone](../../rules/appendices/conditions.md#prone) in the last unoccupied space along its path. If your blast misses, the thrown creature can choose to occupy any space within 30 feet of the target, it doesn’t fall prone, and it takes half the normal amount of damage from your blast. The movement doesn’t provoke attacks of opportunity.
 
 ### Following Wind Infusion
 
@@ -751,7 +751,7 @@ You infuse your elemental energy with kundalini serpent fire. Choose a chakra yo
 **Prerequisites** extended range  
 **Associated Blasts** acid, charged water, water; **Saving Throw** Reflex partial
 
-You create a 20-foot-radius whirling maelstrom in a body of water within 120 feet (the area of the maelstrom does not include any squares in the radius that aren't in the water). Any creature in the maelstrom immediately takes one-quarter your blast's normal damage regardless of whether it succeeds at its save. A creature that succeeds at its Reflex save can choose to exit the area at the closest space. A creature in the maelstrom must succeed at a DC 35 Swim check in order to swim, and any creature that enters the maelstrom or ends its turn in the maelstrom takes half your blast's normal damage. As a free action at the beginning of your turn, you can position each creature in the maelstrom anywhere you choose within the affected area. This effect lasts for a number of rounds equal to your Constitution modifier or until you use this infusion again. You can use grappling infusion with this infusion.
+You create a 20-foot-radius whirling maelstrom in a body of water within 120 feet (the area of the maelstrom does not include any squares in the radius that aren't in the water). Any creature in the maelstrom immediately takes one-quarter your blast's normal damage regardless of whether it succeeds at its save. A creature that succeeds at its Reflex save can choose to exit the area at the closest space. A creature in the maelstrom must succeed at a DC 35 [Swim](../../rules/skills/swim.md) check in order to swim, and any creature that enters the maelstrom or ends its turn in the maelstrom takes half your blast's normal damage. As a free action at the beginning of your turn, you can position each creature in the maelstrom anywhere you choose within the affected area. This effect lasts for a number of rounds equal to your Constitution modifier or until you use this infusion again. You can use grappling infusion with this infusion.
 
 ### Magnetic Infusion
 
@@ -856,7 +856,7 @@ The flame of your infused blast illuminates and reveals the target as it really 
 **Prerequisites** slick  
 **Associated Blasts** acid, blizzard, charged water, cold, ice, water; **Saving Throw** Reflex negates
 
-Your blast leaves behind slippery water or ice in its area for as long as the blast is in that area and for 1 round thereafter, making the area difficult terrain and increasing the DC of Acrobatics checks attempted in the area by 5. You can use this infusion only if you also use a form infusion that has an area of effect.
+Your blast leaves behind slippery water or ice in its area for as long as the blast is in that area and for 1 round thereafter, making the area difficult terrain and increasing the DC of [Acrobatics](../../rules/skills/acrobatics.md) checks attempted in the area by 5. You can use this infusion only if you also use a form infusion that has an area of effect.
 
 ### Snake
 
@@ -944,7 +944,7 @@ Each time you hit a foe with an unarmed strike with your infused blast, increase
 
 **Saving Throw** Fortitude negates
 
-Your lightning brings with it a peal of thunder. Whenever your infused blast hits a foe and penetrates spell resistance, that foe becomes deafened, even if the blast doesn’t deal damage.
+Your lightning brings with it a peal of thunder. Whenever your infused blast hits a foe and penetrates spell resistance, that foe becomes [deafened](../../rules/appendices/conditions.md#deafened), even if the blast doesn’t deal damage.
 
 ### Torrent
 
@@ -972,7 +972,7 @@ You send a tremor through the ground or other solid surface with which you are i
 
 **Saving Throw** Will negates
 
-Your kinetic blast sends the fear of oblivion into your foes. Whenever an infused blast deals negative energy damage to a living foe, it is shaken for 1 round. This shaken condition doesn’t stack with itself.
+Your kinetic blast sends the fear of oblivion into your foes. Whenever an infused blast deals negative energy damage to a living foe, it is [shaken](../../rules/appendices/conditions.md#shaken) for 1 round. This shaken condition doesn’t stack with itself.
 
 ### Unraveling Infusion
 
@@ -1012,7 +1012,7 @@ You can infuse your kinetic blast with poison. To use this infusion, you must be
 **Prerequisite** venom speaker
 **Associated Blasts** any simple or composite; **Saving Throw** Fortitude negates
 
-All of your blasts are mildly toxic. Creatures that take damage from your blast are sickened for 1 round.
+All of your blasts are mildly toxic. Creatures that take damage from your blast are [sickened](../../rules/appendices/conditions.md#sickened) for 1 round.
 
 ### Venom Infusion, Greater
 
@@ -1080,7 +1080,7 @@ You use wind to buffet yourself away from area attacks. Until the next time your
 
 **Element** aether; **Type** utility (Su); **Level** 9; **Burn** 0
 
-You can spin a small building, bridge, or other edifice out of aether, and even use aether to tether a building to a flat surface other than the ground. By concentrating for 10 minutes, you can create an edifice out of scintillating aether (same hardness and hit points as a [*wall of force*](../../magic/spells/wall-of-force.md)) as long as the edifice is no larger than one 10-foot cube per kineticist level. Unless the creation is extremely simplistic, you must succeed at a Craft or Knowledge (engineering) check to add embellishments. This ability can also create a series of tethers to securely attach a normal building to a vertical surface or even a cavern ceiling. Aether architect lasts as long as you concentrate, and you can accept 1 point of burn to make the effect last until destroyed; by accepting this burn, you can use this ability any number of times in a row to create a larger edifice.
+You can spin a small building, bridge, or other edifice out of aether, and even use aether to tether a building to a flat surface other than the ground. By concentrating for 10 minutes, you can create an edifice out of scintillating aether (same hardness and hit points as a [*wall of force*](../../magic/spells/wall-of-force.md)) as long as the edifice is no larger than one 10-foot cube per kineticist level. Unless the creation is extremely simplistic, you must succeed at a [Craft](../../rules/skills/craft.md) or [Knowledge](../../rules/skills/knowledge.md) (engineering) check to add embellishments. This ability can also create a series of tethers to securely attach a normal building to a vertical surface or even a cavern ceiling. Aether architect lasts as long as you concentrate, and you can accept 1 point of burn to make the effect last until destroyed; by accepting this burn, you can use this ability any number of times in a row to create a larger edifice.
 
 ### Aether Puppet
 
@@ -1340,7 +1340,7 @@ You create an immobile sphere or hemisphere of force around your square or squar
 
 **Element** fire; **Type** utility (Sp); **Level** 9; **Burn** 2
 
-When you are about to fall unconscious or die from hit point damage, as an immediate action you can burst into flames that leave behind only ash, which cannot be appreciably affected by most attacks or effects, though a disintegrate spell or similar magic can annihilate it. At the start of your next turn, unless the ash has been completely destroyed, you arise in the square where the most ash is located, having taken the damage from the triggering effect but having also healed 5 points of damage per kineticist level you possess.
+When you are about to fall [unconscious](../../rules/appendices/conditions.md#unconscious) or die from hit point damage, as an immediate action you can burst into flames that leave behind only ash, which cannot be appreciably affected by most attacks or effects, though a disintegrate spell or similar magic can annihilate it. At the start of your next turn, unless the ash has been completely destroyed, you arise in the square where the most ash is located, having taken the damage from the triggering effect but having also healed 5 points of damage per kineticist level you possess.
 
 ### Greater Fire Steed
 
@@ -1348,7 +1348,7 @@ When you are about to fall unconscious or die from hit point damage, as an immed
 
 **Prerequisites** fire steed, improved fire steed
 
-When using fire steed, the mount gains immunity to fire and its speed increases by an additional 10 feet. In addition, when the mount takes a run action, it can run up steep slopes at its normal speed and down steep slopes without its rider needing to attempt a Ride check.
+When using fire steed, the mount gains immunity to fire and its speed increases by an additional 10 feet. In addition, when the mount takes a run action, it can run up steep slopes at its normal speed and down steep slopes without its rider needing to attempt a [Ride](../../rules/skills/ride.md) check.
 
 ### Heat Adaptation
 
@@ -1402,7 +1402,7 @@ You painfully push forth jagged chunks of rock from your flesh. Until the next t
 
 **Element** universal; **Type** utility (Su); **Level** 1; **Burn** 0
 
-You create a terrifying display of elemental power. This ability functions as [Dazzling Display](../../rules/feats/dazzling-display.md), except you can use this ability as a standard action and you add half your kineticist level as a bonus on your Intimidate check if you've used gather power during the same round; doing so expends the gathered power. This ability otherwise counts as the Dazzling Display feat; feats and other effects which affect Dazzling Display (such as [Shatter Defenses](../../rules/feats/shatter-defenses.md)) apply to it, and it counts as Dazzling Display for the purpose of meeting combat feat prerequisites.
+You create a terrifying display of elemental power. This ability functions as [Dazzling Display](../../rules/feats/dazzling-display.md), except you can use this ability as a standard action and you add half your kineticist level as a bonus on your [Intimidate](../../rules/skills/intimidate.md) check if you've used gather power during the same round; doing so expends the gathered power. This ability otherwise counts as the Dazzling Display feat; feats and other effects which affect Dazzling Display (such as [Shatter Defenses](../../rules/feats/shatter-defenses.md)) apply to it, and it counts as Dazzling Display for the purpose of meeting combat feat prerequisites.
 
 ### Kinetic Cover
 
@@ -1436,7 +1436,7 @@ With a touch, you can heal a willing living creature of an amount of damage equa
 
 **Element** universal; **Type** utility (Su); **Level** 3; **Burn** 1
 
-You recover from 1d4 points of ability score damage to one of your physical ability scores (Strength, Dexterity, or Constitution). This also eliminates any fatigue that you suffer, and improves an exhaustion condition to fatigued.
+You recover from 1d4 points of ability score damage to one of your physical ability scores (Strength, Dexterity, or Constitution). This also eliminates any fatigue that you suffer, and improves an exhaustion condition to [fatigued](../../rules/appendices/conditions.md#fatigued).
 
 If you have the kinetic healer utility wild talent, you can use both kinetic restoration and kinetic healer on the same target with one standard action.
 
@@ -1510,7 +1510,7 @@ You create a 5-foot-by-5-foot pillar of ice, packed dirt, or tangled roots with 
 
 The pillar can’t be used to crush creatures or objects against the ceiling; if insufficient room is available for the pillar and any creatures or objects on it, the pillar reaches only the maximum possible height. You can’t create a pillar under a Large or larger creature.
 
-The pillar has AC 4, hardness 0, and 3 hit points per kineticist level. Scaling the pillar’s rough edges requires a successful DC 15 Climb check. When destroyed, when you create a new pillar, or when a number of rounds equal to your Constitution bonus (minimum 1) have elapsed, the pillar crumbles, melts, or withers away, gently lowering anything on it back to the ground.
+The pillar has AC 4, hardness 0, and 3 hit points per kineticist level. Scaling the pillar’s rough edges requires a successful DC 15 [Climb](../../rules/skills/climb.md) check. When destroyed, when you create a new pillar, or when a number of rounds equal to your Constitution bonus (minimum 1) have elapsed, the pillar crumbles, melts, or withers away, gently lowering anything on it back to the ground.
 
 ### Purifying Flames
 
@@ -1662,7 +1662,7 @@ You can deflect your foes’ attacks, as the spell deflection with a duration of
 
 **Element** aether; **Type** utility (Sp); **Level** 1; **Burn** 0
 
-You can perform any sort of fine manipulation you choose within close range, including attempting Sleight of Hand and Disable Device checks.
+You can perform any sort of fine manipulation you choose within close range, including attempting [Sleight of Hand](../../rules/skills/sleight-of-hand.md) and Disable Device checks.
 
 ### Telekinetic Globe
 
@@ -1684,7 +1684,7 @@ When using basic telekinesis, you can move an object that weighs up to 100 pound
 
 **Element** aether; **Type** utility (Sp); **Level** 3; **Burn** 0
 
-You weave strands of aether, bending light and dampening sound; this works as invisibility except that the aetheric bending is easier to notice than normal invisibility, so your bonus on Stealth checks is halved (+10 while moving and +20 while perfectly still). However, the dampened sound allows you to avoid automatic detection via sound-based blindsense and blindsight, but you do not receive the bonus on Stealth checks from this wild talent against a creature with such abilities.
+You weave strands of aether, bending light and dampening sound; this works as invisibility except that the aetheric bending is easier to notice than normal invisibility, so your bonus on [Stealth](../../rules/skills/stealth.md) checks is halved (+10 while moving and +20 while perfectly still). However, the dampened sound allows you to avoid automatic detection via sound-based blindsense and blindsight, but you do not receive the bonus on Stealth checks from this wild talent against a creature with such abilities.
 
 ### Telekinetic Maneuvers
 
@@ -1720,7 +1720,7 @@ You attach strands of aether to everything your telekinesis touches. Any time yo
 
 **Prerequisite** touchsight
 
-Your strands of aether surround you, making it virtually impossible for a violent motion to catch you off guard, so long as the motion originates within their range. You are never denied your Dexterity bonus to AC against attacks from within 30 feet because of being flat-footed or because your assailant is unseen or invisible. You always succeed at any Perception check to act on the surprise round against opponents within 30 feet.
+Your strands of aether surround you, making it virtually impossible for a violent motion to catch you off guard, so long as the motion originates within their range. You are never denied your Dexterity bonus to AC against attacks from within 30 feet because of being [flat-footed](../../rules/appendices/conditions.md#flat-footed) or because your assailant is unseen or invisible. You always succeed at any Perception check to act on the surprise round against opponents within 30 feet.
 
 ### Trail of Flames
 
@@ -1848,7 +1848,7 @@ You can gather strands of aether twisted and warped by your experiences in a mag
 
 See the book **Occult Realms** for more information on elemental saturation and attunements.
 
-To locate the aether saturations deep within the desert, a telekineticist must first locate an etheric storm. Afterwards, she must succeed at both a DC 20 Knowledge (arcana) check and a DC 20 Survival check and spend 1d4 hours navigating the wasteland from the storm’s origin point to the saturation that spawned it. She can then learn the primal aether wild talent.
+To locate the aether saturations deep within the desert, a telekineticist must first locate an etheric storm. Afterwards, she must succeed at both a DC 20 Knowledge (arcana) check and a DC 20 [Survival](../../rules/skills/survival.md) check and spend 1d4 hours navigating the wasteland from the storm’s origin point to the saturation that spawned it. She can then learn the primal aether wild talent.
 
 ### Untwisting Iron Infusion
 

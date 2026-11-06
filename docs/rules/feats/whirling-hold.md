@@ -2,8 +2,8 @@
 
 *(Combat)*
 
-You lift your grappled foe from the ground and violently spin and disorient him.
+You lift your [grappled](../appendices/conditions.md#grappled) foe from the ground and violently spin and disorient him.
 
 **Prerequisites**: [Improved Grapple](improved-grapple.md), [Improved Unarmed Strike](improved-unarmed-strike.md).
 
-**Benefit**: When you succeed at a combat maneuver check to maintain a grapple, instead of choosing to damage, move, pin, or tie up your opponent, you can lift and rapidly spin your opponent. At the end of the spin, you can place the opponent in any square adjacent to you. The opponent is sickened for a number of rounds equal to your Strength or Dexterity modifier, whichever is higher.
+**Benefit**: When you succeed at a combat maneuver check to maintain a grapple, instead of choosing to damage, move, pin, or tie up your opponent, you can lift and rapidly spin your opponent. At the end of the spin, you can place the opponent in any square adjacent to you. The opponent is [sickened](../appendices/conditions.md#sickened) for a number of rounds equal to your Strength or Dexterity modifier, whichever is higher.

@@ -82,11 +82,11 @@ Any creature that is within 30 feet that is under the effects of an agony hex, c
 
 #### Cauldron (Ex)
 
-The witch receives [Brew Potion](../../rules/feats/brew-potion.md) as a bonus feat and a +4 insight bonus on Craft (alchemy) skill checks.
+The witch receives [Brew Potion](../../rules/feats/brew-potion.md) as a bonus feat and a +4 insight bonus on [Craft](../../rules/skills/craft.md) (alchemy) skill checks.
 
 #### Charm (Su)
 
-A witch can charm an animal or humanoid creature within 30 feet by beckoning and speaking soothing words. This improves the attitude of an animal or humanoid creature by 1 step, as if the witch had successfully used the Diplomacy skill. The effect lasts for a number of rounds equal to the Witch’s Intelligence modifier. A Will save negates this effect. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day. At 8th level, this effect improves the attitude of the target creature by 2 steps. This is a mind-affecting charm effect.
+A witch can charm an animal or humanoid creature within 30 feet by beckoning and speaking soothing words. This improves the attitude of an animal or humanoid creature by 1 step, as if the witch had successfully used the [Diplomacy](../../rules/skills/diplomacy.md) skill. The effect lasts for a number of rounds equal to the Witch’s Intelligence modifier. A Will save negates this effect. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day. At 8th level, this effect improves the attitude of the target creature by 2 steps. This is a mind-affecting charm effect.
 
 #### Coven (Ex)
 
@@ -102,7 +102,7 @@ The witch can cause doubt to creep into the mind of a foe within 30 feet that sh
 
 #### Flight (Su)
 
-The witch grows lighter as she gains power, eventually gaining the ability to fly. At 1st level, the witch can use feather fall at will and gains a +4 racial bonus on Swim checks. At 3rd level, she can cast levitate once per day. At 5th level, she can fly, as per the spell, for a number of minutes per day equal to her level. These minutes do not need to be consecutive, but they must be spent in 1-minute increments. This hex only affects the witch.
+The witch grows lighter as she gains power, eventually gaining the ability to fly. At 1st level, the witch can use feather fall at will and gains a +4 racial bonus on [Swim](../../rules/skills/swim.md) checks. At 3rd level, she can cast levitate once per day. At 5th level, she can fly, as per the spell, for a number of minutes per day equal to her level. These minutes do not need to be consecutive, but they must be spent in 1-minute increments. This hex only affects the witch.
 
 #### Fortune (Su)
 
@@ -148,7 +148,7 @@ Starting at 10th level, and every two levels thereafter, a witch can choose one 
 
 #### Agony (Su)
 
-With a quick incantation, a witch can place this hex on one creature within 60 feet, causing them to suffer intense pain. The target is nauseated for a number of rounds equal to the witch’s level. A Fortitude save negates this effect. If the saving throw is failed, the target can attempt a new save each round to end the effect. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day.
+With a quick incantation, a witch can place this hex on one creature within 60 feet, causing them to suffer intense pain. The target is [nauseated](../../rules/appendices/conditions.md#nauseated) for a number of rounds equal to the witch’s level. A Fortitude save negates this effect. If the saving throw is failed, the target can attempt a new save each round to end the effect. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day.
 
 #### Hag’s Eye (Su)
 
@@ -178,7 +178,7 @@ The witch can spend a full-round action to create a crude and unnerving wax dupl
 
 If the subject fails, the witch gains a small measure of control over the creature. Whenever she exercises this control, the creature receives a new Will save to end the effect. This effect occurs on the witch’s turn and does not impede the creature’s actions on its turn.
 
-The witch can use the waxen image a number of times equal to her Intelligence modifier before it melts. As a standard action, the witch can cause the subject to do any one of the following things: move up to the creature’s speed in any direction, attack itself once with any weapon in hand (this attack automatically hits), lay down on the ground, or drop anything held. Alternatively, she can spend one of her uses to simply torture the image, causing the creature to be both sickened and staggered on its turn. As soon as the creature has succeeded on a saving throw against this effect, it is immune to it for 24 hours. The is an enchantment (compulsion) effect.
+The witch can use the waxen image a number of times equal to her Intelligence modifier before it melts. As a standard action, the witch can cause the subject to do any one of the following things: move up to the creature’s speed in any direction, attack itself once with any weapon in hand (this attack automatically hits), lay down on the ground, or drop anything held. Alternatively, she can spend one of her uses to simply torture the image, causing the creature to be both [sickened](../../rules/appendices/conditions.md#sickened) and [staggered](../../rules/appendices/conditions.md#staggered) on its turn. As soon as the creature has succeeded on a saving throw against this effect, it is immune to it for 24 hours. The is an enchantment (compulsion) effect.
 
 #### Weather Control (Su)
 
@@ -190,7 +190,7 @@ Starting at 18th level, and every two levels thereafter, a witch can choose one 
 
 #### Death Curse (Su)
 
-This powerful hex seizes a creature’s heart, causing death within just a few moments. This hex has a range of 30 feet. The hexed creature receives a Will save to negate the effect. If this save is failed, the creature becomes fatigued the first round of the hex. On the second round of the hex, the creature becomes exhausted. On the third round, the creature dies unless it succeeds at a Fort save. Creatures that fail the first save but succeed at the second remain exhausted and take 4d6 points of damage + 1 point of damage per level of the witch. Slaying the witch that hexed the creature ends the effect, but any fatigue or exhaustion remains. Whether or not the saves are successful, a creature cannot be the target of this hex again for 1 day.
+This powerful hex seizes a creature’s heart, causing death within just a few moments. This hex has a range of 30 feet. The hexed creature receives a Will save to negate the effect. If this save is failed, the creature becomes [fatigued](../../rules/appendices/conditions.md#fatigued) the first round of the hex. On the second round of the hex, the creature becomes [exhausted](../../rules/appendices/conditions.md#exhausted). On the third round, the creature dies unless it succeeds at a Fort save. Creatures that fail the first save but succeed at the second remain exhausted and take 4d6 points of damage + 1 point of damage per level of the witch. Slaying the witch that hexed the creature ends the effect, but any fatigue or exhaustion remains. Whether or not the saves are successful, a creature cannot be the target of this hex again for 1 day.
 
 #### Eternal Slumber (Su)
 
@@ -238,7 +238,7 @@ A witch’s familiar learns a certain amount of lore and magic as the witch adve
 
 ### Familiar Teaching Familiar
 
-A witch’s familiar can learn spells from another witch’s familiar. To accomplish this, the familiars must spend one hour per level of the spell being taught in communion with one another. At the end of this time, the witch whose familiar is learning a spell must make a Spellcraft check (DC 15 + spell level). If the check succeeds, the familiar has learned the spell and the witch may utilize it the next time she prepares spells. If the check fails, the familiar has failed to learn the spell and cannot try to learn that spell again until the witch has gained another rank in Spellcraft. Most witches require a spell of equal or greater level in return for this service. If a familiar belongs to a witch that has died, it only retains its knowledge of spells for 24 hours, during which time it is possible to coerce or bribe the familiar into teaching its spells to another, subject to GM discretion.
+A witch’s familiar can learn spells from another witch’s familiar. To accomplish this, the familiars must spend one hour per level of the spell being taught in communion with one another. At the end of this time, the witch whose familiar is learning a spell must make a [Spellcraft](../../rules/skills/spellcraft.md) check (DC 15 + spell level). If the check succeeds, the familiar has learned the spell and the witch may utilize it the next time she prepares spells. If the check fails, the familiar has failed to learn the spell and cannot try to learn that spell again until the witch has gained another rank in Spellcraft. Most witches require a spell of equal or greater level in return for this service. If a familiar belongs to a witch that has died, it only retains its knowledge of spells for 24 hours, during which time it is possible to coerce or bribe the familiar into teaching its spells to another, subject to GM discretion.
 
 ### Learn from a Scroll
 

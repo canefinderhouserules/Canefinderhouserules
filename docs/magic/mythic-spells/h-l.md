@@ -52,7 +52,7 @@ A creature of a type different than your own doesn't gain a bonus on its saving 
 
 If the target fails its initial save, it must succeed at two follow-up saving throws (each a full-round action that doesn't provoke attacks of opportunity) to end the spell. Succeeding at only one save means the spell no longer deals damage, but the target is still unable to take actions.
 
-**Augmented**: If you expend two uses of mythic power, the target's laughter becomes contagious. When the target's allies are within 30 feet and can hear the laugh, they must successfully save against the spell or be sickened until the target stops laughing. The sickened effect ends if the ally moves more than 30 feet from the target or is unable to hear the target's laughter for an entire round.
+**Augmented**: If you expend two uses of mythic power, the target's laughter becomes contagious. When the target's allies are within 30 feet and can hear the laugh, they must successfully save against the spell or be [sickened](../../rules/appendices/conditions.md#sickened) until the target stops laughing. The sickened effect ends if the ally moves more than 30 feet from the target or is unable to hear the target's laughter for an entire round.
 
 ## Hold Portal
 
@@ -60,7 +60,7 @@ The target portal can be as large as 30 square feet per caster level. A creature
 
 ## Holy Smite
 
-The damage dealt to evil outsiders increases to 1 d 10 points of damage per caster level (maximum 1 0d 10) and the damage dealt to other evil creatures increases to 1d12 points of damage per 2 caster levels (maximum 5d12). The duration that creatures in the area are blinded increases to 2 rounds. On a successful save, an evil creature is blinded for 1 round.
+The damage dealt to evil outsiders increases to 1 d 10 points of damage per caster level (maximum 1 0d 10) and the damage dealt to other evil creatures increases to 1d12 points of damage per 2 caster levels (maximum 5d12). The duration that creatures in the area are [blinded](../../rules/appendices/conditions.md#blinded) increases to 2 rounds. On a successful save, an evil creature is blinded for 1 round.
 
 ## Holy Word
 
@@ -84,7 +84,7 @@ The water is boiling hot or freezing cold, dealing 1d6 points of fire or cold da
 
 The bludgeoning damage increases to 4d8 points of damage and the cold damage increases to 3d6 points of damage. The ground in the area is covered in ice and hailstones, acting as though a grease spell were cast on it. Dealing 5 or more points of fire damage to a square melts the ice and hail, negating the grease effect.
 
-**Augmented (6th)**: If you expend two uses of mythic power, one creature in the area is paralyzed (as if by hold person) and gains vulnerability to fire as long as it's paralyzed.
+**Augmented (6th)**: If you expend two uses of mythic power, one creature in the area is [paralyzed](../../rules/appendices/conditions.md#paralyzed) (as if by hold person) and gains vulnerability to fire as long as it's paralyzed.
 
 ## Ill Omen
 
@@ -130,7 +130,7 @@ With either form, you can direct the creature like a marionette as a move action
 
 **Source** *Advanced Race Guide*
 
-Starting on the second round of the spell, the affected target must succeed at a Fortitude save on your turn or be nauseated for 1 round, as if distracted by an actual swarm.
+Starting on the second round of the spell, the affected target must succeed at a Fortitude save on your turn or be [nauseated](../../rules/appendices/conditions.md#nauseated) for 1 round, as if distracted by an actual swarm.
 
 ## Knock
 
@@ -160,18 +160,18 @@ If you have created multiple cubes and they are physically touching each other, 
 
 **Source** *Ultimate Magic*
 
-The damage dealt increases to 1d8 points of electricity damage per caster level (maximum 15d8). A target that fails its save is blinded by the flash for 1 round and deafened by thunder for 1 d4 rounds.
+The damage dealt increases to 1d8 points of electricity damage per caster level (maximum 15d8). A target that fails its save is blinded by the flash for 1 round and [deafened](../../rules/appendices/conditions.md#deafened) by thunder for 1 d4 rounds.
 
 **Augmented (6th)**: If you expend two uses of mythic power, the two targets can be up to 120 feet apart, the lightning can turn once up to 90 degrees to connect the targets, and the spell's electrical damage bypasses electricity resistance and electricity immunity.
 
 ## Lightning Bolt
 
-The damage dealt increases to 1d8 points of electricity damage per caster level (maximum 10d8). Any creature that fails its save is staggered for 1 round.
+The damage dealt increases to 1d8 points of electricity damage per caster level (maximum 10d8). Any creature that fails its save is [staggered](../../rules/appendices/conditions.md#staggered) for 1 round.
 
-**Augmented (3rd)**: If you expend two uses of mythic power, you can bend the line of the spell once up to 90 degrees. Any creature that fails its save is stunned for 1 round.
+**Augmented (3rd)**: If you expend two uses of mythic power, you can bend the line of the spell once up to 90 degrees. Any creature that fails its save is [stunned](../../rules/appendices/conditions.md#stunned) for 1 round.
 
 ## Limited Wish
 
 When using mythic limited wish to duplicate another spell, you can duplicate a mythic spell you know (if you're a spontaneous caster) or have prepared (if you're a caster who prepares spells). If you don't know or haven't prepared the mythic spell, you can expend a second use of mythic power duplicate the mythic version of the desired spell.
 
-**Augmented**: If you expend two uses of mythic power, you can cast a silent, stilled mythic limited wish, even if you're helpless or couldn't otherwise take actions (but not unconscious).
+**Augmented**: If you expend two uses of mythic power, you can cast a silent, stilled mythic limited wish, even if you're [helpless](../../rules/appendices/conditions.md#helpless) or couldn't otherwise take actions (but not [unconscious](../../rules/appendices/conditions.md#unconscious)).

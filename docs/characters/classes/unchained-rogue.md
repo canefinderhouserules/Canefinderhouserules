@@ -57,7 +57,7 @@ The rogue must be able to see the target well enough to pick out a vital spot an
 
 ### Trapfinding
 
-A rogue adds 1/2 her level on Perception checks to locate traps and on Disable Device checks (minimum +1). A rogue can use Disable Device to disarm magic traps.
+A rogue adds 1/2 her level on [Perception](../../rules/skills/perception.md) checks to locate traps and on [Disable Device](../../rules/skills/disable-device.md) checks (minimum +1). A rogue can use Disable Device to disarm magic traps.
 
 ### Finesse Training (Ex)
 
@@ -73,7 +73,7 @@ At 1st level, a rogue gains Weapon Finesse as a bonus feat. At 3rd, 11th, and 19
 
 ### Evasion (Ex)
 
-At 2nd level, a rogue can avoid even magical and unusual attacks with great agility. If she succeeds at a Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the rogue is wearing light armor or no armor. A helpless rogue does not gain the benefit of evasion.
+At 2nd level, a rogue can avoid even magical and unusual attacks with great agility. If she succeeds at a Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the rogue is wearing light armor or no armor. A [helpless](../../rules/appendices/conditions.md#helpless) rogue does not gain the benefit of evasion.
 
 ### Guile Pool (Ex)
 
@@ -91,7 +91,7 @@ Talents marked with an asterisk add effects to a [rogue’s sneak attack](rogue.
 
 ### Ambush (Ex)
 
-At 3rd level, during a surprise round, a rogue can designate one attack as an ambush. If the ambush hits and deals sneak attack damage, it also deals extra precision damage equal to her class level. A target damaged by an ambush must succeed at a Fortitude save (DC 10 + half her rogue level + her Dexterity modifier) or be sickened for 1d4+1 rounds. She can change this effect to staggered at 8th level, nauseated at 13th level, and stunned at 18th level.
+At 3rd level, during a surprise round, a rogue can designate one attack as an ambush. If the ambush hits and deals sneak attack damage, it also deals extra precision damage equal to her class level. A target damaged by an ambush must succeed at a Fortitude save (DC 10 + half her rogue level + her Dexterity modifier) or be [sickened](../../rules/appendices/conditions.md#sickened) for 1d4+1 rounds. She can change this effect to [staggered](../../rules/appendices/conditions.md#staggered) at 8th level, [nauseated](../../rules/appendices/conditions.md#nauseated) at 13th level, and [stunned](../../rules/appendices/conditions.md#stunned) at 18th level.
 
 ### Danger Sense (Ex)
 
@@ -117,7 +117,7 @@ These penalties do not stack with themselves, but additional attacks that deal s
 
 ### Uncanny Dodge (Ex)
 
-At 4th level, a rogue can react to danger before her senses would normally allow her to do so. She cannot be caught flat-footed, nor does she lose her Dexterity bonus to AC if the attacker is invisible. She still loses her Dexterity bonus to AC if immobilized. A rogue with this ability can still lose her Dexterity bonus to AC if an opponent successfully uses the feint action against her. If a rogue already has uncanny dodge from a different class, she automatically gains improved uncanny dodge (see below) instead.
+At 4th level, a rogue can react to danger before her senses would normally allow her to do so. She cannot be caught [flat-footed](../../rules/appendices/conditions.md#flat-footed), nor does she lose her Dexterity bonus to AC if the attacker is invisible. She still loses her Dexterity bonus to AC if immobilized. A rogue with this ability can still lose her Dexterity bonus to AC if an opponent successfully uses the feint action against her. If a rogue already has uncanny dodge from a different class, she automatically gains improved uncanny dodge (see below) instead.
 
 ### Rogue’s Edge (Ex)
 
@@ -139,7 +139,7 @@ At 10th level and every 2 levels thereafter, a rogue can choose one of the follo
 
 ### Master Strike (Ex)
 
-At 20th level, a rogue becomes incredibly deadly when dealing sneak attack damage. Each time the rogue deals sneak attack damage, she can choose one of the following three effects: the target can be put to sleep for 1d4 hours, paralyzed for 2d6 rounds, or slain. Regardless of the effect chosen, the target can attempt a Fortitude save to negate the additional effect. The DC of this save is equal to 10 + 1/2 the rogue’s level + the rogue’s Dexterity modifier. Once a creature has been the target of a master strike, regardless of whether or not the save is successful, that creature is immune to that rogue’s master strike for 24 hours. Creatures that are immune to sneak attack damage are also immune to this ability.
+At 20th level, a rogue becomes incredibly deadly when dealing sneak attack damage. Each time the rogue deals sneak attack damage, she can choose one of the following three effects: the target can be put to sleep for 1d4 hours, [paralyzed](../../rules/appendices/conditions.md#paralyzed) for 2d6 rounds, or slain. Regardless of the effect chosen, the target can attempt a Fortitude save to negate the additional effect. The DC of this save is equal to 10 + 1/2 the rogue’s level + the rogue’s Dexterity modifier. Once a creature has been the target of a master strike, regardless of whether or not the save is successful, that creature is immune to that rogue’s master strike for 24 hours. Creatures that are immune to sneak attack damage are also immune to this ability.
 
 ## Archetypes
 
@@ -147,13 +147,13 @@ All [rogue archetypes](rogue-archetypes.md) can be used with the unchained rogue
 
 ## Rogue Talents
 
-**Bleeding Attack\* (Ex)**: A rogue with this ability can cause living opponents to bleed by hitting them with a sneak attack. This attack causes the target to take 1 additional point of damage each round for each die of the rogue’s sneak attack (e.g., 4d6 equals 4 points of bleed). Bleeding creatures take that amount of damage every round at the start of each of their turns. The bleeding can be stopped by a successful DC 15 Heal check or the application of any effect that heals hit point damage. Bleed damage from this ability does not stack with itself. Bleed damage bypasses any damage reduction the creature might possess.
+**Bleeding Attack\* (Ex)**: A rogue with this ability can cause living opponents to bleed by hitting them with a sneak attack. This attack causes the target to take 1 additional point of damage each round for each die of the rogue’s sneak attack (e.g., 4d6 equals 4 points of bleed). Bleeding creatures take that amount of damage every round at the start of each of their turns. The bleeding can be stopped by a successful DC 15 [Heal](../../rules/skills/heal.md) check or the application of any effect that heals hit point damage. Bleed damage from this ability does not stack with itself. Bleed damage bypasses any damage reduction the creature might possess.
 
-**Camouflage (Ex)**: A rogue with this talent can craft simple but effective camouflage from the surrounding foliage. The rogue needs 1 minute to prepare the camouflage, but once she does, it is effective for the rest of the day or until the rogue fails a saving throw against an area-effect spell that deals acid, cold, or fire damage, whichever comes first. The rogue gains a +4 bonus on Stealth checks while within terrain that matches the foliage used to make the camouflage. This ability cannot be used in areas without natural foliage.
+**Camouflage (Ex)**: A rogue with this talent can craft simple but effective camouflage from the surrounding foliage. The rogue needs 1 minute to prepare the camouflage, but once she does, it is effective for the rest of the day or until the rogue fails a saving throw against an area-effect spell that deals acid, cold, or fire damage, whichever comes first. The rogue gains a +4 bonus on [Stealth](../../rules/skills/stealth.md) checks while within terrain that matches the foliage used to make the camouflage. This ability cannot be used in areas without natural foliage.
 
 **Certainty (Ex)**: The rogue chooses one of the skills she selected with rogue’s edge. Once per day, the rogue can reroll a skill check she just made with the selected skill and take the better result. She can use this reroll with the selected skill one additional time per day at 10th level and every 5 levels thereafter. A rogue can select this talent multiple times. Each time, the rogue must choose a different skill. A rogue must have the rogue’s edge class feature before selecting this talent.
 
-**Coax Information (Ex)**: Lets you use Bluff, Diplomacy and Intimidate interchangeably: you can roll and do anything an Intimidate check would do using Bluff or Diplomacy instead, and so on.
+**Coax Information (Ex)**: Lets you use [Bluff](../../rules/skills/bluff.md), [Diplomacy](../../rules/skills/diplomacy.md) and Intimidate interchangeably: you can roll and do anything an [Intimidate](../../rules/skills/intimidate.md) check would do using Bluff or Diplomacy instead, and so on.
 
 ??? note "Original rule"
 
@@ -167,13 +167,13 @@ All [rogue archetypes](rogue-archetypes.md) can be used with the unchained rogue
 
 **Combat Trick**: A rogue who selects this talent gains a bonus combat feat.
 
-**Esoteric Scholar (Ex)**: A rogue with this talent can attempt any Knowledge skill check, even if she is not trained in that Knowledge skill.
+**Esoteric Scholar (Ex)**: A rogue with this talent can attempt any [Knowledge](../../rules/skills/knowledge.md) skill check, even if she is not trained in that Knowledge skill.
 
-**Expert Leaper (Ex)**: When using the Acrobatics skill to jump, a rogue with this talent is always considered to have a running start and adds her rogue level to the check result. Whenever she deliberately falls, a successful DC 15 Acrobatics check allows her to ignore the first 20 feet fallen. For every 5 by which she exceeds the DC of this check, she can ignore an additional 10 feet of distance fallen.
+**Expert Leaper (Ex)**: When using the [Acrobatics](../../rules/skills/acrobatics.md) skill to jump, a rogue with this talent is always considered to have a running start and adds her rogue level to the check result. Whenever she deliberately falls, a successful DC 15 Acrobatics check allows her to ignore the first 20 feet fallen. For every 5 by which she exceeds the DC of this check, she can ignore an additional 10 feet of distance fallen.
 
 **Fast Stealth (Ex)**: This ability allows a rogue to move at full speed using the Stealth skill without penalty.
 
-**Follow Clues (Ex)**: A rogue with this talent can use Perception to follow tracks as per the Survival skill.
+**Follow Clues (Ex)**: A rogue with this talent can use Perception to follow tracks as per the [Survival](../../rules/skills/survival.md) skill.
 
 **Hold Breath (Ex)**: A rogue with this talent doubles the amount of time she can hold her breath.
 
@@ -191,13 +191,13 @@ All [rogue archetypes](rogue-archetypes.md) can be used with the unchained rogue
 
 **Multitalented (Ex)**: The rogue can use her rogue talents more often. Once per day, she can use a rogue talent that is normally only usable once per day one additional time. At 10th level and 18th level, she can use this talent one additional time per day (for a maximum total of 3 additional uses of a rogue talent that can normally only be used once per day). The uses of this talent do not have to be spent on the same rogue talent. This ability cannot be used with an advanced talent.
 
-**Nimble Climber (Ex)**: Whenever the rogue fails a Climb check by 5 or more, she can attempt a Reflex save (using the same DC as the Climb check) to catch herself and avoid falling. Powerful Sneak* (Ex): Whenever a rogue with this talent takes a full-attack action, she can take a –2 penalty on all attack rolls until the start of her next turn. If she does, she can reroll any sneak attack damage dice that result in 1s. She can reroll multiple dice, but she can’t reroll any individual die more than once per attack.
+**Nimble Climber (Ex)**: Whenever the rogue fails a [Climb](../../rules/skills/climb.md) check by 5 or more, she can attempt a Reflex save (using the same DC as the Climb check) to catch herself and avoid falling. Powerful Sneak* (Ex): Whenever a rogue with this talent takes a full-attack action, she can take a –2 penalty on all attack rolls until the start of her next turn. If she does, she can reroll any sneak attack damage dice that result in 1s. She can reroll multiple dice, but she can’t reroll any individual die more than once per attack.
 
 **Quick Disable (Ex)**: It takes a rogue with this ability half the normal amount of time to disable a trap using the Disable Device skill (minimum 1 round). When she uses Disable Device to open a lock that would normally take a full-round action to open, she reduces the duration to a standard action.
 
-**Resiliency (Ex)**: Once per day, a rogue with this ability can gain a number of temporary hit points equal to twice her rogue level. Activating this ability is an immediate action that can be performed only when the rogue is brought to below 0 hit points. This ability can be used to prevent the rogue from dying. These temporary hit points last for 1 minute. If the rogue’s hit points drop below 0 due to the loss of these temporary hit points, she falls unconscious and is dying as normal.
+**Resiliency (Ex)**: Once per day, a rogue with this ability can gain a number of temporary hit points equal to twice her rogue level. Activating this ability is an immediate action that can be performed only when the rogue is brought to below 0 hit points. This ability can be used to prevent the rogue from dying. These temporary hit points last for 1 minute. If the rogue’s hit points drop below 0 due to the loss of these temporary hit points, she falls [unconscious](../../rules/appendices/conditions.md#unconscious) and is dying as normal.
 
-**Rogue Crawl (Ex)**: While prone, a rogue with this ability can move at half speed. This movement provokes attacks of opportunity as normal. A rogue with this talent can take a 5-foot step while crawling, and she reduces her attack roll and AC penalties for being prone by 2.
+**Rogue Crawl (Ex)**: While [prone](../../rules/appendices/conditions.md#prone), a rogue with this ability can move at half speed. This movement provokes attacks of opportunity as normal. A rogue with this talent can take a 5-foot step while crawling, and she reduces her attack roll and AC penalties for being prone by 2.
 
 **Slow Reactions\* (Ex)**: Opponents damaged by the rogue’s sneak attack can’t make attacks of opportunity for 1 round.
 
@@ -231,7 +231,7 @@ All [rogue archetypes](rogue-archetypes.md) can be used with the unchained rogue
 
 **Light Walker (Ex)**: The rogue can move at full speed through difficult terrain and can take 5-foot steps into difficult terrain. A rogue must have the ledge walker rogue talent before choosing light walker.
 
-**Master of Disguise (Ex)**: Once per day, a rogue with this talent can don a disguise as a standard action. While wearing that disguise, she gains a +10 bonus on all Disguise checks. A rogue must have the Quick Disguise talent to select this talent.
+**Master of Disguise (Ex)**: Once per day, a rogue with this talent can don a disguise as a standard action. While wearing that disguise, she gains a +10 bonus on all [Disguise](../../rules/skills/disguise.md) checks. A rogue must have the Quick Disguise talent to select this talent.
 
 **Multitalented, Greater (Ex)**: A rogue with this talent can use the multitalented rogue talent to gain additional uses of advanced talents. A rogue must have the multitalented talent to select this talent.
 

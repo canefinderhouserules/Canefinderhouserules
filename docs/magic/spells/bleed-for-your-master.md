@@ -14,4 +14,4 @@ If an attack roll triggered this spell’s casting, the target takes the damage 
 
 If an area of effect that allows you to attempt a Reflex save triggered this spell’s casting, the target instead grants you cover against the effect (+2 bonus on Reflex saves) if it is your size or smaller, or improved cover (+4 bonus on Reflex saves and improved evasion against the effect) if it is larger than you. The target automatically fails its Reflex save against the effect but can still benefit from improved evasion and similar mitigating effects.
 
-After taking damage, the target is shaken for 1 minute. If the target was already shaken, it becomes frightened instead.
+After taking damage, the target is [shaken](../../rules/appendices/conditions.md#shaken) for 1 minute. If the target was already shaken, it becomes [frightened](../../rules/appendices/conditions.md#frightened) instead.

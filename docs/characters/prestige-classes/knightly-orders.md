@@ -33,7 +33,7 @@ The orders below use these generic names.
 
 **Boons**
 
-1. **Taken Alive (Ex).** You take no penalty on attack rolls for using a flail to deal nonlethal damage. While performing your reckoning, you can focus on understanding one specific individual: for the next 24 hours you gain a +4 bonus on Perception, Sense Motive and Survival checks that relate to noticing, seeing through the disguises of, interrogating others about the location of, or tracking that individual, or any activity directly related to doing so.
+1. **Taken Alive (Ex).** You take no penalty on attack rolls for using a flail to deal nonlethal damage. While performing your reckoning, you can focus on understanding one specific individual: for the next 24 hours you gain a +4 bonus on [Perception](../../rules/skills/perception.md), [Sense Motive](../../rules/skills/sense-motive.md) and [Survival](../../rules/skills/survival.md) checks that relate to noticing, seeing through the disguises of, interrogating others about the location of, or tracking that individual, or any activity directly related to doing so.
 2. **Pierce Disguise (Sp).** You can use [*true seeing*](../../magic/spells/true-seeing.md) as a spell-like ability for a number of minutes each day equal to half your character level, in 1-minute increments (not necessarily consecutive).
 3. **True Identities (Su).** +4 bonus on Will saves to disbelieve illusions. Three times per day, when you successfully disbelieve an illusion with a duration longer than instantaneous (normally or using *true seeing*), you can attempt to dispel it as a free action. This is a targeted [*dispel magic*](../../magic/spells/dispel-magic.md) affecting only illusions, with a caster level equal to your character level.
 
@@ -48,7 +48,7 @@ The orders below use these generic names.
 
 1. **Focus of Mind (Su).** You gain one gaze ability from the assiduous gaze list of the [Hell Knight Signifer](hell-knight-signifer.md) (only a gaze a signifer could choose at 4th level). If you already have assiduous gaze, you can select one additional gaze. If you don't already have one, you receive a signifer mask and the benefits of the signifer mask supernatural ability; you must wear the mask to use this ability.
 2. **Armored Spellcasting (Ex).** You ignore the spell failure chance of any hell knight armor (armor with "hell knight" in its name).
-3. **Unfathomable Gaze (Sp).** Once per day, while wearing a signifer mask, you can use [*vision*](../../magic/spells/vision.md) as a spell-like ability, with your character level as caster level. Unlike casting the spell, you are not fatigued afterward.
+3. **Unfathomable Gaze (Sp).** Once per day, while wearing a signifer mask, you can use [*vision*](../../magic/spells/vision.md) as a spell-like ability, with your character level as caster level. Unlike casting the spell, you are not [fatigued](../../rules/appendices/conditions.md#fatigued) afterward.
 
 ## Order of the Faithful
 
@@ -68,7 +68,7 @@ The orders below use these generic names.
 **Members** frontiersmen, settlers, victims of barbarian and monster attacks.
 **Armor Features** breastplate emblazoned with a fiendish face, horned helm.
 **Favored Weapon** lance or halberd.
-**Reckoning** Pierce your flesh with sharp metal. Gain a +4 bonus on Knowledge (geography) checks. If you are trained in Knowledge (geography), you automatically succeed at using it to identify a creature's ethnicity or accent, as long as you are familiar with it.
+**Reckoning** Pierce your flesh with sharp metal. Gain a +4 bonus on [Knowledge](../../rules/skills/knowledge.md) (geography) checks. If you are trained in Knowledge (geography), you automatically succeed at using it to identify a creature's ethnicity or accent, as long as you are familiar with it.
 
 **Boons**
 
@@ -87,7 +87,7 @@ The orders below use these generic names.
 
 **Boons**
 
-1. **Favored Cult (Ex).** Each day while performing your obedience, choose a divine power that grants four or fewer domains. You gain a +2 bonus on Intimidate, Knowledge, Sense Motive and Survival checks against its worshipers, and +1 on weapon attack and damage rolls against them.
+1. **Favored Cult (Ex).** Each day while performing your obedience, choose a divine power that grants four or fewer domains. You gain a +2 bonus on [Intimidate](../../rules/skills/intimidate.md), Knowledge, Sense Motive and Survival checks against its worshipers, and +1 on weapon attack and damage rolls against them.
 2. **Immolation (Sp).** Once per day, cast [*delayed blast fireball*](../../magic/spells/delayed-blast-fireball.md), with caster level equal to your character level.
 3. **Quell Zealotry (Su).** Once per day as a standard action, target a divine spellcaster within 100 feet. If it fails a Will save (DC = 10 + ½ your Hit Dice + your Charisma bonus), it loses access to all spellcasting and all supernatural and spell-like abilities from its divine spellcasting classes for rounds equal to half your character level. A creature trying to use a lost ability feels only a profound, black emptiness, as if its deity no longer existed.
 
@@ -109,7 +109,7 @@ The orders below use these generic names.
 **Members** constables, informants, the poor, victims of organized crime.
 **Armor Features** serrated breastplate, horned helm.
 **Favored Weapon** heavy mace, scourge or whip.
-**Reckoning** Lash yourself with a scourge or whip. Take 1 fewer point of bleed damage per round from bleed effects, and gain a +4 bonus on Heal checks to stop bleeding.
+**Reckoning** Lash yourself with a scourge or whip. Take 1 fewer point of bleed damage per round from bleed effects, and gain a +4 bonus on [Heal](../../rules/skills/heal.md) checks to stop bleeding.
 
 **Boons**
 

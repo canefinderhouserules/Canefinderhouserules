@@ -8,4 +8,4 @@
 **Duration** 1 minute/level (D)  
 **Saving Throw** none (object); **Spell Resistance** no (object)
 
-You protect an area against casual eavesdropping. Sounds and sonic effects that originate inside the area are muffled for anyone outside the area; Perception DCs to hear or understand sounds leaving the area increase by 20, and any saving throw DCs of these effects decrease by 2. The spell does not affect sounds that enter the area or the Perception checks of creatures inside it.
+You protect an area against casual eavesdropping. Sounds and sonic effects that originate inside the area are muffled for anyone outside the area; [Perception](../../rules/skills/perception.md) DCs to hear or understand sounds leaving the area increase by 20, and any saving throw DCs of these effects decrease by 2. The spell does not affect sounds that enter the area or the Perception checks of creatures inside it.

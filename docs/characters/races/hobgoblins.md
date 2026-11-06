@@ -28,7 +28,7 @@ Fierce and militaristic, hobgoblins survive by conquest. The raw materials to fu
 
 **Darkvision**: Hobgoblins can see in the dark up to 60 feet.
 
-**Sneaky**: Hobgoblins receive a +4 racial bonus on Stealth checks.
+**Sneaky**: Hobgoblins receive a +4 racial bonus on [Stealth](../../rules/skills/stealth.md) checks.
 
 **Languages**: Hobgoblins begin play speaking Common and Goblin. Hobgoblins with high Intelligence scores can choose from the following: Draconic, Dwarven, Infernal, Giant, and Orc.
 
@@ -36,23 +36,23 @@ Fierce and militaristic, hobgoblins survive by conquest. The raw materials to fu
 
 The following racial traits may be selected instead of existing hobgoblin racial traits. Consult your GM before selecting any of these new options.
 
-**Bandy-Legged**: Bandy-legged hobgoblins have an even more exaggerated stature than other hobgoblins, with bowed legs and massive shoulders. Hobgoblins with this racial trait gain a +2 racial bonus on Climb and Ride checks, and a +2 racial bonus to their CMD against bull rush or trip attempts while on solid ground. The base speed of bandy-legged hobgoblins is reduced to 20 feet.
+**Bandy-Legged**: Bandy-legged hobgoblins have an even more exaggerated stature than other hobgoblins, with bowed legs and massive shoulders. Hobgoblins with this racial trait gain a +2 racial bonus on [Climb](../../rules/skills/climb.md) and [Ride](../../rules/skills/ride.md) checks, and a +2 racial bonus to their CMD against bull rush or trip attempts while on solid ground. The base speed of bandy-legged hobgoblins is reduced to 20 feet.
 
 **Battle-Hardened**: Incessant drills make defense second nature to some hobgoblins. Hobgoblins with this racial trait gain a +1 bonus to CMD. This racial trait replaces sneaky.
 
-**Engineer**: Hobgoblin engineers tinker endlessly with fire, explosives, and the engines of war. Hobgoblins with this racial trait gain a +2 racial bonus on Craft (alchemy) and Knowledge (engineering) checks. This racial trait replaces sneaky.
+**Engineer**: Hobgoblin engineers tinker endlessly with fire, explosives, and the engines of war. Hobgoblins with this racial trait gain a +2 racial bonus on [Craft](../../rules/skills/craft.md) (alchemy) and [Knowledge](../../rules/skills/knowledge.md) (engineering) checks. This racial trait replaces sneaky.
 
-**Fearsome**: Some hobgoblins scorn caution and subtlety for swagger and bluster. Hobgoblins with this racial trait gain a +4 racial bonus on Intimidate checks. This racial trait replaces sneaky.
+**Fearsome**: Some hobgoblins scorn caution and subtlety for swagger and bluster. Hobgoblins with this racial trait gain a +4 racial bonus on [Intimidate](../../rules/skills/intimidate.md) checks. This racial trait replaces sneaky.
 
-**Magehunter**: Hobgoblins hate and fear arcane casters. A magehunter gains a +2 racial bonus on Spellcraft checks made to identify a spell being cast and a +1 racial bonus on attack rolls against arcane spellcasters. He only gains this bonus against creatures that use spells, and not against those that only use spell-like abilities. This racial trait replaces sneaky.
+**Magehunter**: Hobgoblins hate and fear arcane casters. A magehunter gains a +2 racial bonus on [Spellcraft](../../rules/skills/spellcraft.md) checks made to identify a spell being cast and a +1 racial bonus on attack rolls against arcane spellcasters. He only gains this bonus against creatures that use spells, and not against those that only use spell-like abilities. This racial trait replaces sneaky.
 
 **Pit Boss**: Slave blood fuels the hobgoblin war machine. Pit bosses extract the last breath of labor from their charges with a liberal touch of the lash. Hobgoblins with this racial trait gain proficiency with whips and a +1 racial bonus on combat maneuver checks made to disarm or trip with a whip. This racial trait replaces sneaky.
 
 **Scarred**: A hobgoblin can scar himself with both blade and fire to toughen his hide into a mass of horny scars. Hobgoblins with this racial trait gain a +1 natural armor bonus to Armor Class. However, the repeated exposure to fire permanently damages their eyes. This racial trait replaces the darkvision racial trait.
 
-**Slave Hunter**: Hobgoblin slavers excel at tracking down runaway slaves and surviving in filthy conditions. Hobgoblins with this racial trait gain a +2 racial bonus on Survival checks and a +2 racial bonus on Fortitude saves against disease. This racial trait replaces sneaky.
+**Slave Hunter**: Hobgoblin slavers excel at tracking down runaway slaves and surviving in filthy conditions. Hobgoblins with this racial trait gain a +2 racial bonus on [Survival](../../rules/skills/survival.md) checks and a +2 racial bonus on Fortitude saves against disease. This racial trait replaces sneaky.
 
-**Unfit**: Hobgoblins who failed to secure a position in the military hold the lowest status in hobgoblin society, and quickly learn the value of currying favor with their betters. Hobgoblins with this racial trait gain proficiency in a single martial weapon and +1 racial bonus on Bluff and Diplomacy checks. This racial trait replaces sneaky.
+**Unfit**: Hobgoblins who failed to secure a position in the military hold the lowest status in hobgoblin society, and quickly learn the value of currying favor with their betters. Hobgoblins with this racial trait gain proficiency in a single martial weapon and +1 racial bonus on [Bluff](../../rules/skills/bluff.md) and [Diplomacy](../../rules/skills/diplomacy.md) checks. This racial trait replaces sneaky.
 
 ## Favored Class Options
 
@@ -89,11 +89,11 @@ These archetypes are typically only taken by hobgoblins, but members of other ra
 
 Hobgoblins have access to the following equipment.
 
-**Brewed Reek**: Animal musk, spoiled meat, pungent plants, and any other foul-smelling substances on hand go into a batch of brewed reek. When boiled, this mixture becomes a thick alchemical slime that adheres to anything it touches. You can hurl brewed reek as a splash weapon with a range increment of 10 feet. A creature struck with a direct hit must succeed at a DC 15 Fortitude save or be sickened for 2d6 rounds. If the target fails its save, it must make a second Fortitude save or be nauseated for 1 round. Creatures in the splash area must make a Fortitude save or be sickened for 1 round. A creature that drinks brewed reek does not get a saving throw and is sickened for 2d6 rounds and nauseated for 1 round.
+**Brewed Reek**: Animal musk, spoiled meat, pungent plants, and any other foul-smelling substances on hand go into a batch of brewed reek. When boiled, this mixture becomes a thick alchemical slime that adheres to anything it touches. You can hurl brewed reek as a splash weapon with a range increment of 10 feet. A creature struck with a direct hit must succeed at a DC 15 Fortitude save or be [sickened](../../rules/appendices/conditions.md#sickened) for 2d6 rounds. If the target fails its save, it must make a second Fortitude save or be [nauseated](../../rules/appendices/conditions.md#nauseated) for 1 round. Creatures in the splash area must make a Fortitude save or be sickened for 1 round. A creature that drinks brewed reek does not get a saving throw and is sickened for 2d6 rounds and nauseated for 1 round.
 
-**Fetters**: Fetters are manacles fitted around the ankles rather than the wrists, and use the same rules for breaking, escape, and cost relative to size. A creature in fetters is entangled and can only move at half speed. In addition, a fettered creature must succeed at a DC 15 Acrobatics check to move more than its (reduced) speed in a round. If it fails the check by 5 or more, the creature falls prone.
+**Fetters**: Fetters are manacles fitted around the ankles rather than the wrists, and use the same rules for breaking, escape, and cost relative to size. A creature in fetters is [entangled](../../rules/appendices/conditions.md#entangled) and can only move at half speed. In addition, a fettered creature must succeed at a DC 15 [Acrobatics](../../rules/skills/acrobatics.md) check to move more than its (reduced) speed in a round. If it fails the check by 5 or more, the creature falls [prone](../../rules/appendices/conditions.md#prone).
 
-**Hobgoblin War Draught**: This drink is a foul-smelling alchemical blend of raw alcohol, mashed grubs, and medicinal mushrooms. A hobgoblin under the effects of hobgoblin war draught ignores all penalties resulting from the fatigued and shaken conditions for 10 minutes, after which he must succeed at a DC 15 Fortitude save or be sickened for 1 hour. Anyone lacking the goblinoid subtype who drinks hobgoblin war draught must immediately make a DC 15 Fortitude save or be sickened for 1 hour; success means the drinker ignores all penalties resulting from the fatigued and shaken conditions for 1 minute, after which he is sickened for 10 minutes. Hobgoblin war draught has no effect on creatures that are immune to poison.
+**Hobgoblin War Draught**: This drink is a foul-smelling alchemical blend of raw alcohol, mashed grubs, and medicinal mushrooms. A hobgoblin under the effects of hobgoblin war draught ignores all penalties resulting from the [fatigued](../../rules/appendices/conditions.md#fatigued) and [shaken](../../rules/appendices/conditions.md#shaken) conditions for 10 minutes, after which he must succeed at a DC 15 Fortitude save or be sickened for 1 hour. Anyone lacking the goblinoid subtype who drinks hobgoblin war draught must immediately make a DC 15 Fortitude save or be sickened for 1 hour; success means the drinker ignores all penalties resulting from the fatigued and shaken conditions for 1 minute, after which he is sickened for 10 minutes. Hobgoblin war draught has no effect on creatures that are immune to poison.
 
 **Manacle Barbs**: Barbs added to these manacles wound a captive who does more than move slowly and with care. A creature secured in barbed manacles takes 1 point of piercing damage if it takes more than a single move action during a round. Rough movement of any kind, such as being struck in combat or falling prone, likewise causes 1 point of damage. Attempting to break out of barbed manacles with a Strength check deals 1d4 points of piercing damage to the captive regardless of the success of the attempt.
 

@@ -1,6 +1,6 @@
 # Building and Modifying Constructs
 
-The Craft Construct feat allows a spellcaster to create all manner of permanent constructs in a process much like magic item creation. Each construct has a purchase price and a crafting cost, along with a list of requirements and the skills used to create them. Some require special materials in addition to the cost for basic crafting supplies, generally for the construct’s body. Special material costs increase both the purchase price and the crafting cost of the construct. The DC to craft a construct is 5 + the default caster level of the construct, just like for a magic item. Like when crafting magic items, a creator with a sufficiently high skill bonus may ignore these requirements. Each missing requirement increases the Craft DC by 5. Regardless, the creator must meet all item creation feats and minimum caster level requirements. Crafting a construct takes 1 day per 1,000 gp in the item’s base price, excluding any special material costs. This process is identical to the process for crafting a magic item, including the rules for accelerating creation and handling interruptions.
+The Craft Construct feat allows a spellcaster to create all manner of permanent constructs in a process much like magic item creation. Each construct has a purchase price and a crafting cost, along with a list of requirements and the skills used to create them. Some require special materials in addition to the cost for basic crafting supplies, generally for the construct’s body. Special material costs increase both the purchase price and the crafting cost of the construct. The DC to craft a construct is 5 + the default caster level of the construct, just like for a magic item. Like when crafting magic items, a creator with a sufficiently high skill bonus may ignore these requirements. Each missing requirement increases the [Craft](../../rules/skills/craft.md) DC by 5. Regardless, the creator must meet all item creation feats and minimum caster level requirements. Crafting a construct takes 1 day per 1,000 gp in the item’s base price, excluding any special material costs. This process is identical to the process for crafting a magic item, including the rules for accelerating creation and handling interruptions.
 
 ## Animated Objects
 
@@ -10,7 +10,7 @@ A caster can use the animate objects spell to instantly create a temporary const
 
 ### Construction
 
-CL 11th; Price as determined by CR Construction Requirements Craft Construct, animate object, permanency; Skill Spellcraft or appropriate Craft skill; Cost 1/2 price New Animated Object Abilities The following are new abilities that can be applied to animated objects, whether created by the animate objects spell or with the Craft Constructs feat. Adding to these abilities requires the expenditure of Construction Points (CP), as described in the Bestiary.
+CL 11th; Price as determined by CR Construction Requirements Craft Construct, animate object, permanency; Skill [Spellcraft](../../rules/skills/spellcraft.md) or appropriate Craft skill; Cost 1/2 price New Animated Object Abilities The following are new abilities that can be applied to animated objects, whether created by the animate objects spell or with the Craft Constructs feat. Adding to these abilities requires the expenditure of Construction Points (CP), as described in the Bestiary.
 
 **Augmented Critical (Ex, 1 CP)**: Increase the threat range for the animated object’s melee attacks by 1 or the threat multiplier by 1. This cannot combine with itself or with the piercing attack or slashing attack object abilities. Exceptional Reach (Ex, 1 CP): The object gains +5 feet of reach with one melee attack. Increase reach on all attacks for an additional +1 CP.
 
@@ -215,7 +215,7 @@ While a creature is trapped within the gem, the gem is vulnerable to critical hi
 
 **Aura**: moderate necromancy; CL 7th
 
-**Trigger and Effect**: This rune is triggered the first time a creature moves adjacent to the modified construct. The rune creates 20-foot-radius spread of necromantic energy. Creatures in the area must succeed on a DC 20 Will saving throw or become panicked for 1d4 rounds. If the Will save succeeds, the creature is shaken for 1 round.
+**Trigger and Effect**: This rune is triggered the first time a creature moves adjacent to the modified construct. The rune creates 20-foot-radius spread of necromantic energy. Creatures in the area must succeed on a DC 20 Will saving throw or become [panicked](../../rules/appendices/conditions.md#panicked) for 1d4 rounds. If the Will save succeeds, the creature is [shaken](../../rules/appendices/conditions.md#shaken) for 1 round.
 
 **Requirements**: fear; **Cost**: 11,200 gp 
 ### Shatter Stash
@@ -230,7 +230,7 @@ The following are some of the more common shatter stashes, though others exist.
 
 ### Corrosive Jet Stash
 
-A 15-foot burst of corrosive liquid sprays out of the modified construct’s stash. Creatures within the burst must succeed on a DC 15 Fortitude saving throw or take 2d6 points of acid damage and be nauseated for 1d4 rounds. On a successful save, the afflicted creature takes no damage but is sickened for 1 round.
+A 15-foot burst of corrosive liquid sprays out of the modified construct’s stash. Creatures within the burst must succeed on a DC 15 Fortitude saving throw or take 2d6 points of acid damage and be [nauseated](../../rules/appendices/conditions.md#nauseated) for 1d4 rounds. On a successful save, the afflicted creature takes no damage but is [sickened](../../rules/appendices/conditions.md#sickened) for 1 round.
 
 **Requirements**: fireball; **Cost**: 1,200 gp
 
@@ -242,7 +242,7 @@ A 15-foot burst of fire explodes out of the modified construct’s stash. Creatu
 
 ### Frost Mist Stash
 
-A 15-foot burst of frosty mist erupts out of the modified construct’s stash. Any creatures within the burst must succeed on a DC 14 Fortitude saving throw or else take 1d6 points of damage and become entangled for 1 round. A successful save halves the damage and the target does not become entangled.
+A 15-foot burst of frosty mist erupts out of the modified construct’s stash. Any creatures within the burst must succeed on a DC 14 Fortitude saving throw or else take 1d6 points of damage and become [entangled](../../rules/appendices/conditions.md#entangled) for 1 round. A successful save halves the damage and the target does not become entangled.
 
 **Requirements**: cone of cold; **Cost**: 1,000 gp
 
@@ -254,6 +254,6 @@ A 30-foot burst of electricity cracks out of the modified construct’s stash. T
 
 ### Willsap Gas Stash
 
-A 15-foot burst of toxic gas hisses out of this stash. Living creatures within this burst must succeed on a DC 13 Will saving throw or become confused for 1 round. This is a poison effect.
+A 15-foot burst of toxic gas hisses out of this stash. Living creatures within this burst must succeed on a DC 13 Will saving throw or become [confused](../../rules/appendices/conditions.md#confused) for 1 round. This is a poison effect.
 
 **Requirements**: stinking cloud; **Cost**: 2,000 gp

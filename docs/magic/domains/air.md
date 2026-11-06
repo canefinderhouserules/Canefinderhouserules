@@ -18,7 +18,7 @@
 
 **Replacement Power**: The following granted power replaces the electricity resistance power of the Air domain.
 
-*Thundercloud (Su)*: At 6th level, you can, as a standard action, summon a storm cloud. This power functions as [*fog cloud*](../spells/fog-cloud.md) except that creatures inside the cloud are deafened and take 2d6 points of electricity damage each round from the flashes of thunder and lightning. It counts as a Storm source for Call Lightning/Storm. Once created, you can concentrate on the cloud to move it up to 30 feet each round. You can use this ability for a number of rounds per day equal to your cleric level. These rounds do not need to be consecutive.
+*Thundercloud (Su)*: At 6th level, you can, as a standard action, summon a storm cloud. This power functions as [*fog cloud*](../spells/fog-cloud.md) except that creatures inside the cloud are [deafened](../../rules/appendices/conditions.md#deafened) and take 2d6 points of electricity damage each round from the flashes of thunder and lightning. It counts as a Storm source for Call Lightning/Storm. Once created, you can concentrate on the cloud to move it up to 30 feet each round. You can use this ability for a number of rounds per day equal to your cleric level. These rounds do not need to be consecutive.
 
 **Replacement Domain Spells**: 4th—[*solid fog*](../spells/solid-fog.md), 9th—[*storm of vengeance*](../spells/storm-of-vengeance.md).
 

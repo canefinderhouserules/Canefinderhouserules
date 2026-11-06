@@ -30,11 +30,11 @@ The following racial traits may be selected instead of the standard racial trait
 
 **Blunt Head**: Some locathahs develop blunt, flat heads with sharp, needlelike teeth and well-muscled jaws. This head shape reduces their swim speed to 40 feet but provides the locathah with a bite attack. This is a primary natural attack that deals 1d4 points of piercing damage. This racial trait modifies fast swimmer.
 
-**Coastal Emissary**: Locathahs who dwell in sunlit coastal waters develop close ties with surface dwellers and become skilled negotiators. Once per day when attempting a Diplomacy or Sense Motive check, a locathah with this racial trait can roll twice and use the better result. This racial trait replaces low-light vision.
+**Coastal Emissary**: Locathahs who dwell in sunlit coastal waters develop close ties with surface dwellers and become skilled negotiators. Once per day when attempting a [Diplomacy](../../rules/skills/diplomacy.md) or [Sense Motive](../../rules/skills/sense-motive.md) check, a locathah with this racial trait can roll twice and use the better result. This racial trait replaces low-light vision.
 
 **Deep Dweller**: Locathahs living in deeper waters than coastal shallows have adapted to operating in darkness. Locathahs who have this racial trait gain darkvision with a range of 60 feet and light sensitivity. This racial trait replaces low-light vision.
 
-**Powerful Smell**: Although all locathahs have a distinctly fishy odor out of the water, some locathahs have slimier skin that exudes a strong scent both above and below the waves. Locathahs who have this racial trait emit a terrible scent as a 15-foot aura that nearly every other creature finds offensive. This is a poison effect. All living creatures (except other locathahs and creatures with the stench ability) within the aura must succeed at a Fortitude saving throw (DC 10 + half the locathah's character level + the locathah's Constitution modifier) or be sickened for 5 rounds. Creatures that succeed at the saving throw cannot be sickened by the same locathah's powerful smell for 24 hours. A [*delay poison*](../../magic/spells/delay-poison.md) or [*neutralize poison*](../../magic/spells/neutralize-poison.md) spell or similar effect removes the effect from the sickened creature. Due to their smell, locathahs with this racial trait have a –4 penalty on Stealth checks. This racial trait replaces natural armor.
+**Powerful Smell**: Although all locathahs have a distinctly fishy odor out of the water, some locathahs have slimier skin that exudes a strong scent both above and below the waves. Locathahs who have this racial trait emit a terrible scent as a 15-foot aura that nearly every other creature finds offensive. This is a poison effect. All living creatures (except other locathahs and creatures with the stench ability) within the aura must succeed at a Fortitude saving throw (DC 10 + half the locathah's character level + the locathah's Constitution modifier) or be [sickened](../../rules/appendices/conditions.md#sickened) for 5 rounds. Creatures that succeed at the saving throw cannot be sickened by the same locathah's powerful smell for 24 hours. A [*delay poison*](../../magic/spells/delay-poison.md) or [*neutralize poison*](../../magic/spells/neutralize-poison.md) spell or similar effect removes the effect from the sickened creature. Due to their smell, locathahs with this racial trait have a –4 penalty on [Stealth](../../rules/skills/stealth.md) checks. This racial trait replaces natural armor.
 
 **Strong Limbs**: Some locathahs have powerful legs that are very useful on land but limit their mobility underwater. These locathahs have a base land speed of 20 feet and a swim speed of 40 feet. This racial trait modifies fast swimmer and slow speed.
 
@@ -46,7 +46,7 @@ The following options are available to all members of this race who have the lis
 
 **Druid**: Add 1 skill rank to the druid's animal companion. If the druid ever replaces her animal companion, the new animal companion gains these bonus skill ranks.
 
-**Investigator**: Add a +1/2 bonus on Bluff checks to feint and a +1/2 bonus on Diplomacy checks to gather information.
+**Investigator**: Add a +1/2 bonus on [Bluff](../../rules/skills/bluff.md) checks to feint and a +1/2 bonus on Diplomacy checks to gather information.
 
 **Monk**: Add 1/4 point to the monk's *ki* pool.
 

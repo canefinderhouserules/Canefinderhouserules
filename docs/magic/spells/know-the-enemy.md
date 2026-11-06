@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** none; **Spell Resistance** no
 
-You commune with the divine, reflecting on one type of creature you encountered in the last day. You may make a Knowledge check regarding that creature type with a +10 insight bonus.
+You commune with the divine, reflecting on one type of creature you encountered in the last day. You may make a [Knowledge](../../rules/skills/knowledge.md) check regarding that creature type with a +10 insight bonus.

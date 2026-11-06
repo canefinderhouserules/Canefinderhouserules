@@ -7,4 +7,4 @@
 **Target** you  
 **Duration** 10 minutes/level (D)
 
-You enter a heightened state of awareness that allows you to notice more about your surroundings and recall information effortlessly. You gain a +2 competence bonus on Perception checks and on all Knowledge checks that you are trained in. If this spell is active when you have to make an initiative check, you can instantly dismiss this spell and gain a +4 bonus on that check.
+You enter a heightened state of awareness that allows you to notice more about your surroundings and recall information effortlessly. You gain a +2 competence bonus on [Perception](../../rules/skills/perception.md) checks and on all [Knowledge](../../rules/skills/knowledge.md) checks that you are trained in. If this spell is active when you have to make an initiative check, you can instantly dismiss this spell and gain a +4 bonus on that check.

@@ -10,4 +10,4 @@ A troubling mystery lurks around you, tied to the origin of your magic or your f
 
 **Goal**: Learn and verify the chosen magic secret for your family, defeating a challenging foe in the process.
 
-**Completion Benefit**: Select one Knowledge skill or the Use Magic Device skill. This is now a class skill for you.
+**Completion Benefit**: Select one [Knowledge](../skills/knowledge.md) skill or the [Use Magic Device](../skills/use-magic-device.md) skill. This is now a class skill for you.

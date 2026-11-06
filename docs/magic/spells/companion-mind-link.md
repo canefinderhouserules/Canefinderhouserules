@@ -7,4 +7,4 @@
 **Target** your animal companion  
 **Duration** 1 minute/level
 
-The link between you and your animal companion becomes stronger. As long as you are within line of sight of your animal companion, you can telepathically communicate with it as if you two shared a language. Also, as long as you are within line of sight of the animal companion, you can push your animal companion a swift action instead of a move action, and you do not need to succeed at Handle Animal checks to handle your animal companion. Such checks automatically succeed.
+The link between you and your animal companion becomes stronger. As long as you are within line of sight of your animal companion, you can telepathically communicate with it as if you two shared a language. Also, as long as you are within line of sight of the animal companion, you can push your animal companion a swift action instead of a move action, and you do not need to succeed at [Handle Animal](../../rules/skills/handle-animal.md) checks to handle your animal companion. Such checks automatically succeed.

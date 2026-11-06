@@ -2,7 +2,7 @@
 
 *(General)*
 
-If you jinx an already fascinated creature, it doesn't fully recover until the jinx ends.
+If you jinx an already [fascinated](../appendices/conditions.md#fascinated) creature, it doesn't fully recover until the jinx ends.
 
 **Prerequisites**: Bardic performance class feature, Halfling Jinx racial trait.
 

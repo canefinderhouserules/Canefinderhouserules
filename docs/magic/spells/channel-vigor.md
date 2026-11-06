@@ -11,8 +11,8 @@ You focus the energy of your mind, body, and spirit into a specific part of your
 
 **Limbs**: You gain the benefits of a [*haste*](haste.md) spell.
 
-**Mind**: You gain a +4 competence bonus on Knowledge and Perception skill checks and on ranged attack rolls.
+**Mind**: You gain a +4 competence bonus on [Knowledge](../../rules/skills/knowledge.md) and [Perception](../../rules/skills/perception.md) skill checks and on ranged attack rolls.
 
-**Spirit**: You gain a +6 competence bonus on Will saving throws and Bluff and Intimidate checks.
+**Spirit**: You gain a +6 competence bonus on Will saving throws and [Bluff](../../rules/skills/bluff.md) and [Intimidate](../../rules/skills/intimidate.md) checks.
 
 **Torso**: You gain a +6 competence bonus on Fortitude saving throws and concentration checks.

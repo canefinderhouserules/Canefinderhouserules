@@ -43,11 +43,11 @@ The following are class features of the sworn guard prestige class.
 
 **Guard Dedications**: At 1st level, and at every 2 levels thereafter, a sworn guard chooses a guard dedication from the list below. A sworn guard cannot choose a guard dedication more than once unless the dedication specifies otherwise.
 
-**Alert Guardian (Ex)**: A sworn guard with this dedication can enter a rage as an immediate action, and can do so even when flat-footed or during a surprise round in which she cannot otherwise act.
+**Alert Guardian (Ex)**: A sworn guard with this dedication can enter a rage as an immediate action, and can do so even when [flat-footed](../../rules/appendices/conditions.md#flat-footed) or during a surprise round in which she cannot otherwise act.
 
 **Clothed in Civilization (Ex)**: The sworn guard gains proficiency in [heavy armor](../../equipment/armor.md). At 5th level, if the sworn guard has the [barbarian fast movement](../classes/barbarian.md#fast-movement-ex) ability, she can use her fast movement ability while wearing heavy armor. This does not negate the penalties to movement imposed by the armor itself.
 
-**Curiosity (Ex)**: The sworn guard's peculiar nature makes her an object of intrigue. Civilized people are fascinated by the "tamed" barbarian, while more barbaric cultures are fascinated by her choice to turn her back on her heritage. The sworn guard gains a bonus equal to her class level on Diplomacy checks.
+**Curiosity (Ex)**: The sworn guard's peculiar nature makes her an object of intrigue. Civilized people are [fascinated](../../rules/appendices/conditions.md#fascinated) by the "tamed" barbarian, while more barbaric cultures are fascinated by her choice to turn her back on her heritage. The sworn guard gains a bonus equal to her class level on [Diplomacy](../../rules/skills/diplomacy.md) checks.
 
 **Deflect Arrows (Ex)**: The sworn guard gains [Deflect Arrows](../../rules/feats/deflect-arrows.md) as a bonus feat. If she is adjacent to her chosen ally, she can use this ability to deflect an arrow targeting her chosen ally. The sworn guard does not need to meet the prerequisites for this bonus feat.
 
@@ -71,4 +71,4 @@ The following are class features of the sworn guard prestige class.
 
 **Reactive Strike (Ex)**: At 8th level, a sworn guard can make an attack of opportunity against an enemy that moves adjacent to or attacks the sworn guard's chosen ally. The sworn guard cannot make a reactive strike against a creature she has already made an attack of opportunity against during the round.
 
-**Unbreakable Defender (Ex)**: At 10th level, as long as she is within 10 feet of her chosen ally, the sworn guard gains the benefits of the Die Hard feat and no longer becomes fatigued when she ends her rage.
+**Unbreakable Defender (Ex)**: At 10th level, as long as she is within 10 feet of her chosen ally, the sworn guard gains the benefits of the Die Hard feat and no longer becomes [fatigued](../../rules/appendices/conditions.md#fatigued) when she ends her rage.

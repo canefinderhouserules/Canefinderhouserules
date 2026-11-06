@@ -57,17 +57,17 @@ The following are class features of the gray warden prestige class.
 
 **Weapon and Armor Proficiency**: A gray warden gains no additional weapon or armor proficiencies.
 
-**Anonymity (Ex)**: A gray warden receives a morale bonus equal to his class level on Bluff and Disguise checks made to conceal his identity.
+**Anonymity (Ex)**: A gray warden receives a morale bonus equal to his class level on [Bluff](../../rules/skills/bluff.md) and [Disguise](../../rules/skills/disguise.md) checks made to conceal his identity.
 
 **Sneak Attack (Ex)**: This ability is exactly like the [rogue ability](../classes/rogue.md#sneak-attack) of the same name. The extra damage dealt starts at +1d6 and increases by +1d6 every four additional levels (5th, 9th). If a gray warden gets sneak attack bonuses from other sources, the bonuses on damage rolls stack.
 
 **Harsh Judgment (Su)**: At 2nd level, a gray warden can pronounce judgment on his enemies. This ability functions like the [inquisitor judgment](../classes/inquisitor.md#judgment-su) ability, except a gray warden can choose only the destruction, piercing, purity, and smiting judgments. For the purpose of determining the bonuses provided by these judgments, a gray warden’s class levels stack with any levels in other classes that grant the judgment ability. At 6th level, and again at 10th level, a gray warden can use this ability one additional time per day.
 
-**Stern Gaze (Ex)**: At 2nd level, a gray warden receives a morale bonus equal to 1/2 his class level on Intimidate and Sense Motive checks. A gray warden’s class levels stack with levels in other classes that grant the stern gaze ability.
+**Stern Gaze (Ex)**: At 2nd level, a gray warden receives a morale bonus equal to 1/2 his class level on [Intimidate](../../rules/skills/intimidate.md) and [Sense Motive](../../rules/skills/sense-motive.md) checks. A gray warden’s class levels stack with levels in other classes that grant the stern gaze ability.
 
 **Bane (Su)**: At 3rd level, a gray warden can enhance his weapon so it excels against certain foes. This ability is identical to the [inquisitor’s bane](../classes/inquisitor.md#bane-su) ability, and he can use it for a number of rounds per day equal to his class level. These rounds don’t need to be consecutive.
 
-**Dramatic Interrogation (Ex)**: At 3rd level, if a gray warden threatens a helpless creature, he gains a +5 competence bonus on Diplomacy, Intimidate, and Perform checks to influence creatures that have a starting attitude of hostile, unfriendly, friendly, or helpful toward the helpless creature, including the helpless creature itself.
+**Dramatic Interrogation (Ex)**: At 3rd level, if a gray warden threatens a [helpless](../../rules/appendices/conditions.md#helpless) creature, he gains a +5 competence bonus on [Diplomacy](../../rules/skills/diplomacy.md), Intimidate, and [Perform](../../rules/skills/perform.md) checks to influence creatures that have a starting attitude of hostile, unfriendly, friendly, or helpful toward the helpless creature, including the helpless creature itself.
 
 **Execution Feats (Ex)**: At 4th level, and every two levels thereafter, the gray warden gains a bonus feat in addition to those gained from normal advancement. These feats must be taken from the following list: Enforcer, Gang Up, Sidestep, [Vital Strike](../../rules/feats/vital-strike.md). At 8th level, the following feats are added to the list: [Dastardly Finish](../../rules/feats/dastardly-finish.md), [Deadly Finish](../../rules/feats/deadly-finish.md). A gray warden need not have any of the prerequisites normally required for these feats to select them.
 

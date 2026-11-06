@@ -10,4 +10,4 @@
 
 This spell functions as [*hex glyph*](hex-glyph.md), except you can store a hex or a major hex (but not a grand hex). You trace the glyph with incense, which must first be sprinkled with powdered diamond (as noted in the material line).
 
-Read magic allows its caster to identify a greater hex glyph with a DC 16 Spellcraft check.
+Read magic allows its caster to identify a greater hex glyph with a DC 16 [Spellcraft](../../rules/skills/spellcraft.md) check.

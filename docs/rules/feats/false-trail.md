@@ -4,7 +4,7 @@ You create a false trail to throw off pursuers, enabling you to increase your le
 
 **Prerequisite**: Survival 3 ranks.
 
-**Benefit**: You can create a false trail in the wilderness via a combination of misleading footprints, discarded items, torn scraps of clothing, and other signs. When you create a false trail, you determine the direction it leads. A creature tracking you must succeed at a Perception or Survival check (DC = 10 + half your character level + your Wisdom modifier) to determine the trail is fake when first encountering it. On a success, the creature can continue to track you as normal. The effect of a failure to identify the trail as false depends on the time and effort spent making it.
+**Benefit**: You can create a false trail in the wilderness via a combination of misleading footprints, discarded items, torn scraps of clothing, and other signs. When you create a false trail, you determine the direction it leads. A creature tracking you must succeed at a [Perception](../skills/perception.md) or [Survival](../skills/survival.md) check (DC = 10 + half your character level + your Wisdom modifier) to determine the trail is fake when first encountering it. On a success, the creature can continue to track you as normal. The effect of a failure to identify the trail as false depends on the time and effort spent making it.
 
 Quick: A quick false trail takes 10 minutes to complete. A creature that fails to identify the trail as false follows it for 1d4×1,000 feet.
 

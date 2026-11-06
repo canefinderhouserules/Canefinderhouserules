@@ -8,7 +8,7 @@ The following section introduces ranger traps (simple improvised traps that some
 
 Rangers are legendary for their ability to hunt down and capture their prey. Some rangers can create elaborate traps out of scraps, vines, and perhaps a little bit of specialized magic. Characters can learn how to set these traps by taking the [Learn Ranger Trap](../../rules/feats/learn-ranger-trap.md) feat or by having the trapper ranger archetype.
 
-Setting a trap is a full-round action that provokes attacks of opportunity. A trap fills a single 5-foot square, and cannot be placed in the same area as another ranger trap or a magical trap such as a glyph of warding. The ranger only needs simple materials to create the trap, such as a piece of cloth, a small amount of metal (such as a dagger, iron spike, or a few nails), a foot of rope or vine, and so on. The DCs for Perception checks to notice the trap, Disable Device checks to disable it, and for saving throws to avoid it are equal to 10 + 1/2 the character’s level + the character’s Wisdom bonus. All ranger traps are Trigger: location, and
+Setting a trap is a full-round action that provokes attacks of opportunity. A trap fills a single 5-foot square, and cannot be placed in the same area as another ranger trap or a magical trap such as a glyph of warding. The ranger only needs simple materials to create the trap, such as a piece of cloth, a small amount of metal (such as a dagger, iron spike, or a few nails), a foot of rope or vine, and so on. The DCs for [Perception](../../rules/skills/perception.md) checks to notice the trap, [Disable Device](../../rules/skills/disable-device.md) checks to disable it, and for saving throws to avoid it are equal to 10 + 1/2 the character’s level + the character’s Wisdom bonus. All ranger traps are Trigger: location, and
 
 **Reset**: none.
 
@@ -104,13 +104,13 @@ Effect The trap explodes in flames, dealing a number of points of fire damage eq
 
 **Effects**
 
-Effect A ranger can add this augmentation to a fire or smoke trap. The trap explodes in a flash of colored lights. All creatures within 10 feet must succeed at a saving throw (Fortitude if an extraordinary firework trap, Will if supernatural) or be blinded for 1d4+1 rounds. If this is an extraordinary trap, the ranger must use an alchemical weapon when setting the trap, such as flash powder or a firework.
+Effect A ranger can add this augmentation to a fire or smoke trap. The trap explodes in a flash of colored lights. All creatures within 10 feet must succeed at a saving throw (Fortitude if an extraordinary firework trap, Will if supernatural) or be [blinded](../../rules/appendices/conditions.md#blinded) for 1d4+1 rounds. If this is an extraordinary trap, the ranger must use an alchemical weapon when setting the trap, such as flash powder or a firework.
 
 ### Freezing Trap (Su)
 
 **Effects**
 
-Effect The trap creates a burst of ice that damages and encases the triggering creature. The creature takes 1d3 points of cold damage + 1/4 the ranger’s level and is entangled and stuck to the ground, similar to the effect of a tanglefoot bag. A successful Reflex save halves the damage and means the creature is not stuck to the floor by the ice. The ice is 1 inch thick per 2 Hit Dice of the ranger (minimum 1), has hardness 0 and 3 hit points per inch of thickness, and melts in 2d4 rounds.
+Effect The trap creates a burst of ice that damages and encases the triggering creature. The creature takes 1d3 points of cold damage + 1/4 the ranger’s level and is [entangled](../../rules/appendices/conditions.md#entangled) and stuck to the ground, similar to the effect of a tanglefoot bag. A successful Reflex save halves the damage and means the creature is not stuck to the floor by the ice. The ice is 1 inch thick per 2 Hit Dice of the ranger (minimum 1), has hardness 0 and 3 hit points per inch of thickness, and melts in 2d4 rounds.
 
 ### Infected Snare Trap (Ex or Su)
 
@@ -126,7 +126,7 @@ Effect Lazurite radiation increases the victim's susceptibility to the attacks o
 
 **Effects**
 
-Effect This trap sprays glowing dust into the trapped square and all adjacent squares. A creature covered in this dust glows like a candle (becoming visibly outlined if invisible) and takes a –20 penalty on Stealth checks. The dust's effects last for 1 round per ranger level or until the creature washes it off (a move action requiring water or some other cleanser). If this is an extraordinary trap, the ranger must use alchemical components when setting the trap, such as glowing ink or marker dye.
+Effect This trap sprays glowing dust into the trapped square and all adjacent squares. A creature covered in this dust glows like a candle (becoming visibly outlined if invisible) and takes a –20 penalty on [Stealth](../../rules/skills/stealth.md) checks. The dust's effects last for 1 round per ranger level or until the creature washes it off (a move action requiring water or some other cleanser). If this is an extraordinary trap, the ranger must use alchemical components when setting the trap, such as glowing ink or marker dye.
 
 ### Marking Trap\* (Ex or Su)
 
@@ -138,7 +138,7 @@ Effect If the triggering creature fails its save against the trap, it is marked 
 
 **Effects**
 
-Effect The target is speared with barbs that penetrate and protrude from its body, making squeezing, climbing, and swimming challenging. The trap implants 1d4+1 barbs, each dealing 1 point of damage. A successful Reflex save halves the number of barbs. The target takes a penalty on Climb checks and Swim checks equal to the number of barbs attached, and is considered one size category larger for the purposes of determining what size of opening or passageway it must squeeze through as long as at least 1 barb remains attached. Each barb can be removed with a full minute of work and a Heal check that equals or exceeds the trap's DC. If this check fails, the barb is still removed but the target takes 1d4 points of damage. The barbs shake loose harmlessly after 10 minutes per ranger level.
+Effect The target is speared with barbs that penetrate and protrude from its body, making squeezing, climbing, and swimming challenging. The trap implants 1d4+1 barbs, each dealing 1 point of damage. A successful Reflex save halves the number of barbs. The target takes a penalty on [Climb](../../rules/skills/climb.md) checks and [Swim](../../rules/skills/swim.md) checks equal to the number of barbs attached, and is considered one size category larger for the purposes of determining what size of opening or passageway it must squeeze through as long as at least 1 barb remains attached. Each barb can be removed with a full minute of work and a [Heal](../../rules/skills/heal.md) check that equals or exceeds the trap's DC. If this check fails, the barb is still removed but the target takes 1d4 points of damage. The barbs shake loose harmlessly after 10 minutes per ranger level.
 
 ### Penetrating Trap\* (Ex or Su)
 
@@ -164,7 +164,7 @@ Effect The trap poisons the creature that triggers it. If it is a supernatural t
 
 **Effects**
 
-Effect The trap and all adjacent squares become quicksand as long as they contain loose sand or soil. The Swim DC to move in this quicksand is equal to the trap's save DC, and the Swim DC to tread in the quicksand is equal to the trap's DC – 5. The quicksand lasts for a number of rounds equal to the ranger's level. When the effect ends, any creature still in the quicksand is returned to the surface prone.
+Effect The trap and all adjacent squares become quicksand as long as they contain loose sand or soil. The Swim DC to move in this quicksand is equal to the trap's save DC, and the Swim DC to tread in the quicksand is equal to the trap's DC – 5. The quicksand lasts for a number of rounds equal to the ranger's level. When the effect ends, any creature still in the quicksand is returned to the surface [prone](../../rules/appendices/conditions.md#prone).
 
 ### Rust Monster Trap (Ex or Su)
 
@@ -200,7 +200,7 @@ Effect This trap bellows out thick, choking smoke that fills the trapped square 
 
 Effect The trap constricts around a limb or other part of the triggering creature’s body (Reflex avoids). The creature cannot move from the location of the trap, unless the ranger included a “leash” when setting the trap, in which case the creature is limited to the length of the leash.
 
-The trapped creature can escape with an Escape Artist check (DC equal to the trap’s DC) as a full-round action. The trap or its leash has a number of hit points equal to 1/2 the ranger’s level, or can be burst as a full-round action with a DC 25 Strength check. The trap can hold up to a Medium creature; each extra daily use of the ranger’s trap ability spent when the trap is set increases the maximum size of creature the trap can hold. At the ranger’s option, if there is a tall object or structure nearby, she can have the trap lift the creature.
+The trapped creature can escape with an [Escape Artist](../../rules/skills/escape-artist.md) check (DC equal to the trap’s DC) as a full-round action. The trap or its leash has a number of hit points equal to 1/2 the ranger’s level, or can be burst as a full-round action with a DC 25 Strength check. The trap can hold up to a Medium creature; each extra daily use of the ranger’s trap ability spent when the trap is set increases the maximum size of creature the trap can hold. At the ranger’s option, if there is a tall object or structure nearby, she can have the trap lift the creature.
 
 ### Spell-Stealing Trap (Su)
 
@@ -238,13 +238,13 @@ Effect The target is coated in a thin layer of sticky tar unless it succeeds at 
 
 **Effects**
 
-Effect The trap resonates at a high-pitched frequency audible only to creatures that communicate via telepathy. If the triggering creature has the ability to communicate via telepathy, the creature becomes overwhelmed by psychic feedback. The trapped creature is staggered for 1d4 rounds (Will negates), and may not communicate telepathically during this time. This is a sonic, mind-affecting effect. Creatures that lack telepathy are not affected by this trap, though they may still trigger it.
+Effect The trap resonates at a high-pitched frequency audible only to creatures that communicate via telepathy. If the triggering creature has the ability to communicate via telepathy, the creature becomes overwhelmed by psychic feedback. The trapped creature is [staggered](../../rules/appendices/conditions.md#staggered) for 1d4 rounds (Will negates), and may not communicate telepathically during this time. This is a sonic, mind-affecting effect. Creatures that lack telepathy are not affected by this trap, though they may still trigger it.
 
 ### Toxic Fumes Trap\* (Ex or Su)
 
 **Effects**
 
-Effect A ranger can add this to a smoke trap. The smoke this trap creates is extremely noxious. Any breathing creature must succeed at a Fortitude saving throw (in addition to the Fortitude save for the smoke trap) or be nauseated every round it's within the smoke and for 1d4+1 rounds after leaving the smoke. If this is an extraordinary trap, the ranger must use a toxic material when setting the trap, such as a noxious aromatic.
+Effect A ranger can add this to a smoke trap. The smoke this trap creates is extremely noxious. Any breathing creature must succeed at a Fortitude saving throw (in addition to the Fortitude save for the smoke trap) or be [nauseated](../../rules/appendices/conditions.md#nauseated) every round it's within the smoke and for 1d4+1 rounds after leaving the smoke. If this is an extraordinary trap, the ranger must use a toxic material when setting the trap, such as a noxious aromatic.
 
 ### Transdimensional Trap\* (Su)
 
@@ -313,7 +313,7 @@ Some rangers, particularly those in primitive lands or who were raised by animal
 
 **Class Skills**: A beast master’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Escape Artist (Dex), Handle Animal (Cha), Heal (Wis), Intimidate (Cha), Knowledge (nature) (Int), Perception (Wis), Ride (Dex), Stealth (Dex), Survival (Wis), and Swim (Wis). These replace the standard ranger class skills.
 
-**Animal Companion (Ex)**: A beast master forms a close bond with an animal companion. This ability functions like the druid animal companion ability except that the ranger’s effective druid level is equal to his ranger level – 3. The ranger gains a +2 bonus on wild empathy and Handle Animal checks made regarding his animal companion.
+**Animal Companion (Ex)**: A beast master forms a close bond with an animal companion. This ability functions like the druid animal companion ability except that the ranger’s effective druid level is equal to his ranger level – 3. The ranger gains a +2 bonus on wild empathy and [Handle Animal](../../rules/skills/handle-animal.md) checks made regarding his animal companion.
 
 Unlike a normal ranger, a beast master’s choice of animal companion is not limited to a subset of all possible animal companion choices—he may choose freely among all animal companion choices, just as a druid can.
 
@@ -331,7 +331,7 @@ Many rangers are loners, but some choose to use their familiarity with the land 
 
 At 4th level, and every 3 levels thereafter, the ranger can use this ability one additional time per day. This ability replaces [favored enemy](ranger.md#favored-enemy-ex).
 
-**Terrain Bond (Ex)**: At 4th level, the guide forms a bond with the land itself, enabling him to direct others in such terrain. When in his favored terrain, the ranger grants all allies within line of sight and that can hear him a +2 bonus on initiative checks and Perception, Stealth, and Survival skill checks. Also, as long as they travel with him, the ranger’s allies leave no trail and can’t be tracked. The ranger can choose for the group to leave a trail, or even specific members of the group to leave a trail if he so desires. This ability replaces [hunter’s bond](ranger.md#hunters-bond-ex).
+**Terrain Bond (Ex)**: At 4th level, the guide forms a bond with the land itself, enabling him to direct others in such terrain. When in his favored terrain, the ranger grants all allies within line of sight and that can hear him a +2 bonus on initiative checks and Perception, Stealth, and [Survival](../../rules/skills/survival.md) skill checks. Also, as long as they travel with him, the ranger’s allies leave no trail and can’t be tracked. The ranger can choose for the group to leave a trail, or even specific members of the group to leave a trail if he so desires. This ability replaces [hunter’s bond](ranger.md#hunters-bond-ex).
 
 **Ranger’s Luck (Ex)**: Upon reaching 9th level, once per day the guide can either reroll one of his attack rolls or force an enemy who just hit him with an attack to reroll the attack roll. The ranger must take the result of the second roll even if it is worse. A ranger can use this ability once per day at 9th level, plus one additional time per day at 14th and 19th levels. This ability replaces [evasion](ranger.md#evasion-ex).
 
@@ -345,7 +345,7 @@ Rangers of the plains use horses or other riding beasts to hunt their lands, for
 
 **Combat Style Feat (Ex)**: At 2nd level, a horse lord must choose the mounted combat style.
 
-**Mounted Bond (Ex)**: At 4th level, the horse lord forms a bond with an animal he can use as a mount, which becomes his animal companion. A Medium ranger can select a camel or a horse. A small ranger can select a pony or wolf, but can also select a boar or dog if he is at least 7th level. This ability functions like the druid animal companion ability except that the ranger’s effective druid level is equal to his ranger level – 3. The ranger gains a +2 bonus on Handle Animal and Ride checks with his animal companion mount. This ability replaces [hunter’s bond](ranger.md#hunters-bond-ex).
+**Mounted Bond (Ex)**: At 4th level, the horse lord forms a bond with an animal he can use as a mount, which becomes his animal companion. A Medium ranger can select a camel or a horse. A small ranger can select a pony or wolf, but can also select a boar or dog if he is at least 7th level. This ability functions like the druid animal companion ability except that the ranger’s effective druid level is equal to his ranger level – 3. The ranger gains a +2 bonus on Handle Animal and [Ride](../../rules/skills/ride.md) checks with his animal companion mount. This ability replaces [hunter’s bond](ranger.md#hunters-bond-ex).
 
 **Strong Bond (Ex)**: At 12th level, the horse lord strengthens his bond with his mount. The ranger’s effective druid level for his mount is now equal to his ranger level. This ability replaces [camouflage](ranger.md#camouflage-ex).
 
@@ -389,7 +389,7 @@ At 8th, 13th, and 15th-level, the ranger chooses another one of his favored enem
 
 **Humanoid (orc)**: darkvision 60 ft., ferocity, intimidating, orc blood, weapon familiarity.
 
-**Humanoid (reptilian)**: darkvision 60 ft., kobold fast (as goblin fast), lizardfolk hold breath, natural armor +2, Skill Focus (choose Acrobatics, Perception, or Stealth).
+**Humanoid (reptilian)**: darkvision 60 ft., kobold fast (as goblin fast), lizardfolk hold breath, natural armor +2, Skill Focus (choose [Acrobatics](../../rules/skills/acrobatics.md), Perception, or Stealth).
 
 **Magical Beast**: darkvision 60 ft., Great Fortitude, low-light vision, natural armor +2.
 
@@ -473,7 +473,7 @@ The following is a list of hunter tricks and their effects.
 
 **Chameleon Step (Ex)**: The ranger can move up to twice his speed as a move action. The ranger does not take any penalty on Stealth checks for movement during this move. This move provokes attacks of opportunity as normal.
 
-**Cunning Pantomime (Ex)**: As a standard action, the ranger can communicate with a single creature as if using the tongues spell for 10 minutes. Because the communication is slow and lacks subtlety, the ranger suffers a –4 penalty on all Bluff and Diplomacy checks relating to the creature he is communicating with when using this trick.
+**Cunning Pantomime (Ex)**: As a standard action, the ranger can communicate with a single creature as if using the tongues spell for 10 minutes. Because the communication is slow and lacks subtlety, the ranger suffers a –4 penalty on all [Bluff](../../rules/skills/bluff.md) and [Diplomacy](../../rules/skills/diplomacy.md) checks relating to the creature he is communicating with when using this trick.
 
 **Defensive Bow Stance (Ex)**: The ranger can use this trick as a swift action. Until the start of his next turn, his ranged attacks do not provoke attacks of opportunity.
 
@@ -491,13 +491,13 @@ The companion must end this movement in a square adjacent to the ranger. The ani
 
 **Quick Climb (Ex)**: The ranger can climb at his full speed as a move action without penalty.
 
-**Quick Healing (Ex)**: As a swift action, the ranger can make a Heal check to administer first aid on an adjacent dying character. Alternatively, the ranger can administer a potion to an unconscious character as a move action.
+**Quick Healing (Ex)**: As a swift action, the ranger can make a Heal check to administer first aid on an adjacent dying character. Alternatively, the ranger can administer a potion to an [unconscious](../../rules/appendices/conditions.md#unconscious) character as a move action.
 
 **Quick Swim (Ex)**: The ranger can swim at his full speed as a move action without penalty.
 
 **Ranger’s Counsel (Ex)**: As a swift action, the ranger can grant all allies within 30 feet that are within line of sight and can hear him a +2 bonus on skill checks with a single skill of his choice. The ranger must have at least one rank in the chosen skill. This bonus lasts for 1 round.
 
-**Rattling Strike (Ex)**: The ranger can use this trick as a free action before he makes a melee attack. If the attack hits, the target is shaken for 1d4 rounds.
+**Rattling Strike (Ex)**: The ranger can use this trick as a free action before he makes a melee attack. If the attack hits, the target is [shaken](../../rules/appendices/conditions.md#shaken) for 1d4 rounds.
 
 **Second Chance Strike (Ex)**: When he misses with a melee attack, the ranger may reroll his attack at a –5 penalty. Using this ability is an immediate action.
 
@@ -533,7 +533,7 @@ For the urban ranger, the streets and sewers of the city are just as dangerous a
 
 **Urban Ranger**: At 1st level, an urban ranger adds Disable Device and Knowledge (local) to his list of class skills and removes Handle Animal and Knowledge (nature) from his list of class skills.
 
-**Favored Community (Ex)**: At 3rd level, the urban ranger forms a bond with a community. While inside the limits of this community, he gains a +2 bonus on initiative checks and Knowledge (local), Perception, Stealth, and Survival skill checks. An urban ranger traveling through his favored community leaves no trail and cannot be tracked (although he may leave a trail if he so desires). At 8th level, and every five levels thereafter, an urban ranger may select an additional favored community.
+**Favored Community (Ex)**: At 3rd level, the urban ranger forms a bond with a community. While inside the limits of this community, he gains a +2 bonus on initiative checks and [Knowledge](../../rules/skills/knowledge.md) (local), Perception, Stealth, and Survival skill checks. An urban ranger traveling through his favored community leaves no trail and cannot be tracked (although he may leave a trail if he so desires). At 8th level, and every five levels thereafter, an urban ranger may select an additional favored community.
 
 In addition, at each such interval, the skill bonus and initiative bonus in any one favored community (including the one just selected, if so desired) increases by +2.
 
@@ -545,7 +545,7 @@ For the purposes of this ability, a community is any settlement consisting of 10
 
 In addition, he can move through the space occupied by local citizens as if they were allies. This does not apply to creatures intent on harming the ranger. Areas that are enchanted or magically manipulated to impede motion, however, still affect him. This replaces [woodland stride](ranger.md#woodland-stride-ex).
 
-**Blend In (Ex)**: An urban ranger of 12th level or higher can use his Stealth bonus in place of a Disguise skill check in any of his favored communities. This disguise does not take an action to don. He must make a check whenever someone attempts to pick him out from the local citizens. If his check is successful, he blends into the crowd. While not invisible, enemies do not notice his presence and take no actions against him unless they are taking actions against the local citizens in general. This replaces [camouflage](ranger.md#camouflage-ex).
+**Blend In (Ex)**: An urban ranger of 12th level or higher can use his Stealth bonus in place of a [Disguise](../../rules/skills/disguise.md) skill check in any of his favored communities. This disguise does not take an action to don. He must make a check whenever someone attempts to pick him out from the local citizens. If his check is successful, he blends into the crowd. While not invisible, enemies do not notice his presence and take no actions against him unless they are taking actions against the local citizens in general. This replaces [camouflage](ranger.md#camouflage-ex).
 
 **Invisibility Trick (Sp)**: At 17th level, the urban ranger can cast greater invisibility on himself as a wizard of his ranger level as a swift action. He can use this spell-like ability a number of times per day equal to his Wisdom modifier (minimum 1). This ability replaces [hide in plain sight](ranger.md#hide-in-plain-sight-ex).
 
@@ -653,7 +653,7 @@ All rangers have a bond with the wilderness, but the warden may have the stronge
 
 **Terrain Bond (Ex)**: At 4th level, a warden forms a bond with the land itself, enabling him to direct others in such terrain. When in his favored terrain, the warden grants all allies within line of sight and that can hear him a +2 bonus on initiative checks and Perception, Stealth, and Survival skill checks. Also, as long as they travel with him, the warden’s allies leave no trail and can’t be tracked. The warden can choose for the group to leave a trail, or even for specific members of the group to leave a trail if he so desires. This ability replaces [hunter’s bond](ranger.md#hunters-bond-ex).
 
-**Able Explorer (Ex)**: At 5th level, when making an Acrobatics, Climb, Fly, Ride, or Swim check in any of his favored terrains, a warden can make two skill checks and take the higher. This ability replaces the ranger’s second, third, and fourth favored enemies.
+**Able Explorer (Ex)**: At 5th level, when making an Acrobatics, Climb, [Fly](../../rules/skills/fly.md), Ride, or Swim check in any of his favored terrains, a warden can make two skill checks and take the higher. This ability replaces the ranger’s second, third, and fourth favored enemies.
 
 **Wilderness Whispers (Su)**: At 20th level, a warden cannot be surprised and always acts as if he had rolled a natural 20 on any initiative check while within any of his favored terrains. A warden can always move at full speed while using Survival to follow tracks without penalty. This ability replaces the ranger’s fifth favored enemy and [master hunter](ranger.md#master-hunter-ex).
 
@@ -681,9 +681,9 @@ Emulating the blazing phoenix, flamewardens sweep through the world like a selec
 
 **Stoking the Embers (Sp)**: At 9th level, a flamewarden can fan the last spark of a recently slain creature’s life force back into a full flame. Once per day as a standard action, a flamewarden can touch the corpse of a creature that has died within 1 round to grant it the effects of breath of life. This replaces [evasion](ranger.md#evasion-ex).
 
-**Burning Renewal (Su)**: At 12th level, a flamewarden can use the cleansing power of fire to remove afflictions from his body, mind, and soul. When the flamewarden takes 5 or more points of fire damage, he can remove one of the following conditions: fatigued, shaken, or sickened. Alternatively, he can remove 1 point of ability damage or drain from an ability score of his choice.
+**Burning Renewal (Su)**: At 12th level, a flamewarden can use the cleansing power of fire to remove afflictions from his body, mind, and soul. When the flamewarden takes 5 or more points of fire damage, he can remove one of the following conditions: [fatigued](../../rules/appendices/conditions.md#fatigued), shaken, or [sickened](../../rules/appendices/conditions.md#sickened). Alternatively, he can remove 1 point of ability damage or drain from an ability score of his choice.
 
-If the flamewarden takes 10 or more points of fire damage, he can remove one of the following conditions: exhausted, frightened, or nauseated. Alternatively, he can remove 1d6 points of ability damage or drain from an ability score of his choice.
+If the flamewarden takes 10 or more points of fire damage, he can remove one of the following conditions: [exhausted](../../rules/appendices/conditions.md#exhausted), [frightened](../../rules/appendices/conditions.md#frightened), or nauseated. Alternatively, he can remove 1d6 points of ability damage or drain from an ability score of his choice.
 
 The ranger can use this ability only once each time he takes fire damage, regardless of how much damage it deals over the required amount. He can use this ability a number of times per day equal to 3 + her Wisdom modifier.
 
@@ -755,7 +755,7 @@ Additionally, at 8th level, the poultice neutralizes one poison affecting the re
 
 **Sudden Onset (Ex)**: At 4th level, a toxic herbalist can administer a poultice he created via nature’s mercy or poison a weapon as a swift action. Additionally, the toxic herbalist adds the following spells to the ranger spell list at the indicated spell levels: 1st—nauseating dart, ray of sickening; 2nd—pernicious poison, pox pustules; 3rd— poison, toxic gift; 4th—absorb toxicity, cloudkill. This replaces [hunter’s bond](ranger.md#hunters-bond-ex).
 
-**Grim Harvest (Ex)**: At 8th level, a toxic herbalist can spend 1 hour foraging for poisonous substances to create a dose of poison (this hour can be integrated with the hour required to prepare spells or poultices). The toxic herbalist rolls 1d20 and adds his ranger level and his Intelligence modifier. The DC of this check is equal to the Craft DC of the poison he wishes to create. If he succeeds at this check, the ranger creates 1 dose of the chosen poison. The poison remains potent for a number of hours equal to the toxic herbalist’s level, regardless of the means used in attempts to preserve it, and it can’t be sold. This ability functions only while the toxic herbalist is within one of his favored terrains. This replaces [swift tracker](ranger.md#swift-tracker-ex).
+**Grim Harvest (Ex)**: At 8th level, a toxic herbalist can spend 1 hour foraging for poisonous substances to create a dose of poison (this hour can be integrated with the hour required to prepare spells or poultices). The toxic herbalist rolls 1d20 and adds his ranger level and his Intelligence modifier. The DC of this check is equal to the [Craft](../../rules/skills/craft.md) DC of the poison he wishes to create. If he succeeds at this check, the ranger creates 1 dose of the chosen poison. The poison remains potent for a number of hours equal to the toxic herbalist’s level, regardless of the means used in attempts to preserve it, and it can’t be sold. This ability functions only while the toxic herbalist is within one of his favored terrains. This replaces [swift tracker](ranger.md#swift-tracker-ex).
 
 **Potent Venom (Ex)**: At 11th level, a toxic herbalist’s poisons become even deadlier. When he poisons a favored enemy, the DC of the poison’s saving throw increases by half the toxic herbalist’s favored enemy bonus against that target. This replaces [quarry](ranger.md#quarry-ex).
 
@@ -765,7 +765,7 @@ Additionally, at 8th level, the poultice neutralizes one poison affecting the re
 
 Wilderness explorers are adept at making peaceful contact with remote societies.
 
-**Class Skills (Ex)**: A wilderness explorer gains Diplomacy and Knowledge (local) as class skills, but he does not gain Intimidate or Knowledge (dungeoneering) as class skills. This alters the ranger’s class skills.
+**Class Skills (Ex)**: A wilderness explorer gains Diplomacy and Knowledge (local) as class skills, but he does not gain [Intimidate](../../rules/skills/intimidate.md) or Knowledge (dungeoneering) as class skills. This alters the ranger’s class skills.
 
 **Cultural Contact (Ex)**: A wilderness explorer gains the ability to communicate with creatures with which he doesn’t share a common language. Only basic concepts can be conveyed or understood, such as “I need help,” “I come in peace,” “Come over here,” “Go over there,” and the like. This allows the wilderness explorer to ignore the common language requirement of social interaction and language-dependent spells and effects, but he can do so only when the information being shared is relatively simple. The creature with which the wilderness explorer communicates must understand at least one language for this ability to function.
 
@@ -785,7 +785,7 @@ Hailing from primitive roots in the wild, some rangers venture to more civilized
 
 **Unfettered Soul**: A wild soul swears to himself never to make use of advanced technology, alchemy, arcane magic, or firearms. He also must oppose their use on his person, refusing to be a willing target and attempting a saving throw if possible (even if the effect is harmless or beneficial). Violating this oath causes a wild soul to lose the abilities granted by this archetype until he atones.
 
-**Nemesis (Ex)**: A wild soul gains a +2 bonus on Intimidate, Knowledge, Perception, Sense Motive, Spellcraft, and Survival checks against creatures that wield advanced technology, alchemical weapons (including an alchemist’s bombs), or firearms and against those that cast arcane spells (this does not apply to creatures that use spell-like abilities). Likewise, he gains a +2 bonus on weapon attack and damage rolls against such opponents. The wild soul can attempt Craft (alchemy), Knowledge (arcana), and Spellcraft checks untrained when attempting to identify enemy magic or advanced technology.
+**Nemesis (Ex)**: A wild soul gains a +2 bonus on Intimidate, Knowledge, Perception, [Sense Motive](../../rules/skills/sense-motive.md), [Spellcraft](../../rules/skills/spellcraft.md), and Survival checks against creatures that wield advanced technology, alchemical weapons (including an alchemist’s bombs), or firearms and against those that cast arcane spells (this does not apply to creatures that use spell-like abilities). Likewise, he gains a +2 bonus on weapon attack and damage rolls against such opponents. The wild soul can attempt Craft (alchemy), Knowledge (arcana), and Spellcraft checks untrained when attempting to identify enemy magic or advanced technology.
 
 At 5th level and every 5 levels thereafter, these bonuses increase by 1 (to a maximum of +5 at 20th level). This replaces [favored enemy](ranger.md#favored-enemy-ex).
 
@@ -857,7 +857,7 @@ A code runner specializes in the subtle and speedy transfer of secret messages. 
 
 **Class Skills**: A code runner adds Knowledge (local) and Linguistics to his list of class skills, instead of Handle Animal and Heal. This alters the ranger’s class skills.
 
-**Mnemonic Genius (Ex)**: A code runner learns to memorize and accurately recall information, even if he does not speak or understand the language in which the information was presented. The code runner can spend 1 hour and attempt a DC 15 Linguistics check to memorize a single passage of up to 150 words of information in a language he speaks.
+**Mnemonic Genius (Ex)**: A code runner learns to memorize and accurately recall information, even if he does not speak or understand the language in which the information was presented. The code runner can spend 1 hour and attempt a DC 15 [Linguistics](../../rules/skills/linguistics.md) check to memorize a single passage of up to 150 words of information in a language he speaks.
 
 For every 5 by which he exceeds the DC, he can memorize 150 additional words. The DC is increased by 10 if the message is encoded or in a language he doesn’t understand. A code runner can memorize one such message at any given time. If he fails to memorize a message, he can retry as many times as he wants, as long as he spends 1 hour each time. Once a message has been memorized, he can recall it with perfect accuracy until he memorizes a different message. This ability replaces [wild empathy](ranger.md#wild-empathy-ex).
 
@@ -913,7 +913,7 @@ A sentinel specializes in heightening all of her senses to expose spies and thos
 
 **Mugshot (Sp)**: A sentinel can spend 1 minute studying the appearance of a target or a likeness of the target in the form of a picture, carving, or visual illusion and memorize it with perfect recall. From that point on, the sentinel gains a +4 bonus on Perception checks to notice the target in disguise or pick him out of a crowd. The sentinel is automatically allowed a Perception check against the target’s Disguise check whenever she sees the target, even if the individual isn’t doing anything to draw attention to himself. A sentinel can memorize the appearance of a number of targets equal to her Wisdom modifier (minimum 1) at any given time. Once a sentinel has reached her maximum number of memorized appearances, she must forget one of the memorized faces before gaining a new one. This ability replaces [wild empathy](ranger.md#wild-empathy-ex).
 
-**Uncanny Alertness (Ex)**: At 4th level, a sentinel is always ready to defend against incoming attacks. A sentinel is never flatfooted before acting in combat, even if she is surprised (she can still become flatfooted by any other effect or situation that would render her flat-footed).
+**Uncanny Alertness (Ex)**: At 4th level, a sentinel is always ready to defend against incoming attacks. A sentinel is never flatfooted before acting in combat, even if she is surprised (she can still become flatfooted by any other effect or situation that would render her [flat-footed](../../rules/appendices/conditions.md#flat-footed)).
 
 At 7th level, the sentinel also always acts on the surprise round. If she would have acted on the surprise round anyway, or if there is no surprise round, she gains a bonus on initiative checks equal to half her ranger level. This ability replaces a [ranger’s hunter’s bond](ranger.md#hunters-bond-ex) and woodland stride.
 
@@ -1021,7 +1021,7 @@ This ability replaces [swift tracker](ranger.md#swift-tracker-ex).
 
 Wilderness medics know a variety of ways they can supply and preserve a rebellion or similar movement without requiring any resources that might make them easier to track down.
 
-**Herbalist Training (Ex)**: At 1st level, a wilderness medic can attempt Profession (herbalism) checks untrained and the wilderness medic gains a bonus equal to 1/2 his ranger level (minimum +1) on Heal checks and Profession (herbalism) checks. When he successfully forages for herbs, he finds twice as many doses of any herb he would normally.
+**Herbalist Training (Ex)**: At 1st level, a wilderness medic can attempt [Profession](../../rules/skills/profession.md) (herbalism) checks untrained and the wilderness medic gains a bonus equal to 1/2 his ranger level (minimum +1) on Heal checks and Profession (herbalism) checks. When he successfully forages for herbs, he finds twice as many doses of any herb he would normally.
 
 This ability replaces [wild empathy](ranger.md#wild-empathy-ex).
 
@@ -1029,7 +1029,7 @@ This ability replaces [wild empathy](ranger.md#wild-empathy-ex).
 
 Additionally, as a standard action a number of times per day equal to 3 + his Wisdom modifier, the wilderness medic can use encouraging words and herbs to lessen the severity of certain conditions affecting a touched target. If the target is exhausted, it becomes fatigued instead. If the target is frightened, it becomes shaken instead. If the target is nauseated, it becomes sickened instead. The duration of the effect is unchanged; the effect is simply reduced to the lesser version.
 
-At 9th level, the wilderness medic can lessen the severity of additional conditions for the target and cure other conditions that the target suffers. If the target creature is blinded, it becomes dazzled instead. If the target is panicked, it becomes shaken instead. If it has any of the following conditions, they are cured: deafened, fatigued, shaken, and sickened.
+At 9th level, the wilderness medic can lessen the severity of additional conditions for the target and cure other conditions that the target suffers. If the target creature is blinded, it becomes [dazzled](../../rules/appendices/conditions.md#dazzled) instead. If the target is [panicked](../../rules/appendices/conditions.md#panicked), it becomes shaken instead. If it has any of the following conditions, they are cured: [deafened](../../rules/appendices/conditions.md#deafened), fatigued, shaken, and sickened.
 
 The wilderness medic is able to use this ability on a given touched target once every 24 hours.
 
@@ -1115,11 +1115,11 @@ Lantern lighters help rescue those imprisoned by the drow and help individual dr
 
 **Poison Immunity (Ex)**: At 12th level, a lantern lighter gains immunity to poison. This ability replaces [camouflage](ranger.md#camouflage-ex).
 
-**Stunning Light (Su)**: At 13th level, a lantern lighter learns to increase the effectiveness of bright light on creatures with light blindness. *Daylight* spells cast by the lantern lighter or other sources of bright light he wields cause creatures with light blindness within the area of bright light to become stunned for 1 round in addition to being blinded. This ability replaces the favored terrain gained at 13th level.
+**Stunning Light (Su)**: At 13th level, a lantern lighter learns to increase the effectiveness of bright light on creatures with light blindness. *Daylight* spells cast by the lantern lighter or other sources of bright light he wields cause creatures with light blindness within the area of bright light to become [stunned](../../rules/appendices/conditions.md#stunned) for 1 round in addition to being blinded. This ability replaces the favored terrain gained at 13th level.
 
 **Camouflage (Ex)**: At 17th level, a lantern lighter gains camouflage, as the [ranger class feature](ranger.md#camouflage-ex). This ability replaces [hide in plain sight](ranger.md#hide-in-plain-sight-ex).
 
-**Paralyzing Light (Su)**: At 18th level, a lantern lighter can stop light-blind enemies in their tracks. *Daylight* spells cast by the lantern lighter or sources of bright light wielded by him cause creatures with light blindness within the area of bright light to become paralyzed for 1 round in addition to being blinded and stunned. This ability replaces the favored terrain gained at 18th level.
+**Paralyzing Light (Su)**: At 18th level, a lantern lighter can stop light-blind enemies in their tracks. *Daylight* spells cast by the lantern lighter or sources of bright light wielded by him cause creatures with light blindness within the area of bright light to become [paralyzed](../../rules/appendices/conditions.md#paralyzed) for 1 round in addition to being blinded and stunned. This ability replaces the favored terrain gained at 18th level.
 
 ## Raven Master
 
@@ -1271,7 +1271,7 @@ Thanks to their four arms, kasathas can master a combat form native to their hom
 
 *Hampering Strike*: At 8th level, a bow nomad can attempt to disarm or trip an opponent within 30 feet in place of a ranged attack, with a –4 penalty on the combat maneuver check.
 
-*Pinning Strike*: At 13th level, a bow nomad can attempt to pin a Large or smaller opponent's limb or clothing to the ground or a wall in place of an attack. If the bow nomad's attack roll exceeds her opponent's CMD, the opponent is pinned and cannot move from its current position. As a move action, the opponent can attempt a Strength check to free itself (DC 10 + 1/2 the bow nomad's ranger level + her Strength modifier). Only creatures adjacent to a solid, anchored, penetrable surface can be affected by this ability.
+*Pinning Strike*: At 13th level, a bow nomad can attempt to pin a Large or smaller opponent's limb or clothing to the ground or a wall in place of an attack. If the bow nomad's attack roll exceeds her opponent's CMD, the opponent is [pinned](../../rules/appendices/conditions.md#pinned) and cannot move from its current position. As a move action, the opponent can attempt a Strength check to free itself (DC 10 + 1/2 the bow nomad's ranger level + her Strength modifier). Only creatures adjacent to a solid, anchored, penetrable surface can be affected by this ability.
 
 *Exploit the Gap*: At 18th level, a bow nomad can exploit the natural weaknesses of her foes. When a bow nomad makes a full attack with her twin bows, each arrow that deals damage in that attack also reduces the target's natural armor bonus (if any) by 1 (to a minimum of 0) for 1 round.
 

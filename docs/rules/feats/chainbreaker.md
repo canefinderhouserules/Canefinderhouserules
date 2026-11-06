@@ -2,7 +2,7 @@
 
 *(Achievement)*
 
-Nothing rouses your fury and makes you more deadly in battle than the sight of slaves cowering before their masters.
+Nothing rouses your fury and makes you more deadly in battle than the sight of slaves [cowering](../appendices/conditions.md#cowering) before their masters.
 
 **Prerequisites**: Over the course of at least five different occasions, free a cumulative total of 50+ sentient beings held in unjust captivity.
 

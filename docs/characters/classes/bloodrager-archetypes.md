@@ -164,12 +164,12 @@ An id rager lacks a supernatural taint to his blood, instead drawing power from 
 
 **Atavistic Avatar (Su)**: An id rager chooses one emotional focus to define his core: anger, dedication, despair, fear, hatred, jealousy, [remorse](spiritualist.md#remorse), or zeal. At 1st level, he gains Skill Focus as a bonus feat in one skill associated with his atavistic focus.
 
-- **Anger**: Intimidate or Survival.
-- **Dedication**: Diplomacy or Sense Motive.
-- **Despair**: Intimidate or Stealth.
+- **Anger**: [Intimidate](../../rules/skills/intimidate.md) or [Survival](../../rules/skills/survival.md).
+- **Dedication**: [Diplomacy](../../rules/skills/diplomacy.md) or [Sense Motive](../../rules/skills/sense-motive.md).
+- **Despair**: Intimidate or [Stealth](../../rules/skills/stealth.md).
 - **Fear**: Intimidate or Stealth.
-- **Hatred**: Acrobatics or Perception.
-- **Jealousy**: Appraise or Bluff.
+- **Hatred**: [Acrobatics](../../rules/skills/acrobatics.md) or [Perception](../../rules/skills/perception.md).
+- **Jealousy**: [Appraise](../../rules/skills/appraise.md) or [Bluff](../../rules/skills/bluff.md).
 - **Remorse**: Perception or Sense Motive.
 - **Zeal**: Acrobatics or Survival.
 
@@ -211,7 +211,7 @@ A prowler at world’s end gains his spirit's lesser power at 1st level, its int
 
 **Weapon Rune (Su)**: At 6th level, once per day as a standard action, a symbol striker can imbue any spell he knows that has a range of touch or greater and a defined number of targets (rather than an area or other nontarget-based effect) into a melee weapon he is holding. The spell forms itself into a brightly glowing rune, which is obvious to a casual observer. This ability functions only while the symbol striker wields the weapon. If dropped or taken, the weapon ceases granting this ability until it is returned to the symbol striker. The symbol striker can have only a single weapon rune active at a time; if he casts an additional weapon rune while a previous rune is active, the earlier rune fades. Weapon runes also fade when the symbol striker regains his spell slots for the day. Otherwise, the rune remains until the spell is discharged or dispelled. At 12th level, a symbol striker can use this ability twice per day. At 18th level, he can use this ability three times per day. As a standard action, the symbol striker can make a melee attack with a weapon that has an active weapon rune and, if the attack is successful, deal normal weapon damage and also expend the weapon rune to discharge the stored spell into the target, as if delivering the spell with the [magus spellstrike](magus.md#spellstrike-su) class feature. This replaces the bloodline feats gained at 6th, 12th, and 18th levels.
 
-**Rune Trap (Sp)**: At 9th level, as a standard action, the symbol striker can use a melee weapon to place a rune trap in any adjacent square. Any creature entering a square containing a rune trap takes 1d6 points of damage plus 1 additional point of damage for every 2 bloodrager levels the symbol striker has. This rune deals either acid, cold, electricity, or fire damage, which is decided at the rune's creation. The rune is clearly visible and lasts a number of minutes equal to the symbol striker's bloodrager level or until discharged. A symbol striker cannot create a rune trap in a square occupied by another creature. This rune counts as a 1st-level spell for the purpose of dispelling. A creature can disarm the rune by succeeding at a DC 26 Disable Device check. The symbol striker can use this ability a number of times per day equal to 3 plus his Charisma modifier. This replaces the bloodline feat gained at 9th level.
+**Rune Trap (Sp)**: At 9th level, as a standard action, the symbol striker can use a melee weapon to place a rune trap in any adjacent square. Any creature entering a square containing a rune trap takes 1d6 points of damage plus 1 additional point of damage for every 2 bloodrager levels the symbol striker has. This rune deals either acid, cold, electricity, or fire damage, which is decided at the rune's creation. The rune is clearly visible and lasts a number of minutes equal to the symbol striker's bloodrager level or until discharged. A symbol striker cannot create a rune trap in a square occupied by another creature. This rune counts as a 1st-level spell for the purpose of dispelling. A creature can disarm the rune by succeeding at a DC 26 [Disable Device](../../rules/skills/disable-device.md) check. The symbol striker can use this ability a number of times per day equal to 3 plus his Charisma modifier. This replaces the bloodline feat gained at 9th level.
 
 ## Hag-Riven
 

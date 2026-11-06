@@ -49,7 +49,7 @@ All of the following are class features of the assassin prestige class.
 
 **Sneak Attack**: This is exactly like the [rogue ability](../classes/rogue.md#sneak-attack) of the same name. The extra damage dealt increases by +1d6 every other level (1st, 3rd, 5th, 7th, and 9th). If an assassin gets a sneak attack bonus from another source, the bonuses on damage stack.
 
-**Death Attack (Ex)**: If an assassin studies his victim for 3 rounds and then makes a sneak attack with a melee weapon that successfully deals damage, the sneak attack has the additional effect of possibly either paralyzing or killing the target (assassin’s choice). Studying the victim is a standard action. The death attack fails if the target detects the assassin or recognizes the assassin as an enemy (although the attack might still be a sneak attack if the target is denied his Dexterity bonus to his Armor Class or is flanked). If the victim of such a death attack fails a Fortitude save (DC 10 + twice the assassin’s class level + the assassin’s Int modifier) against the kill effect, she dies. If the saving throw fails against the paralysis effect, the victim is rendered helpless and unable to act for 1d6 rounds plus 1 round per level of the assassin. Because this is a save-or-die effect, the target rolls its [saving throw twice](../../magic/casting-spells.md#save-or-die-spells) and keeps the higher result.
+**Death Attack (Ex)**: If an assassin studies his victim for 3 rounds and then makes a sneak attack with a melee weapon that successfully deals damage, the sneak attack has the additional effect of possibly either paralyzing or killing the target (assassin’s choice). Studying the victim is a standard action. The death attack fails if the target detects the assassin or recognizes the assassin as an enemy (although the attack might still be a sneak attack if the target is denied his Dexterity bonus to his Armor Class or is flanked). If the victim of such a death attack fails a Fortitude save (DC 10 + twice the assassin’s class level + the assassin’s Int modifier) against the kill effect, she dies. If the saving throw fails against the paralysis effect, the victim is rendered [helpless](../../rules/appendices/conditions.md#helpless) and unable to act for 1d6 rounds plus 1 round per level of the assassin. Because this is a save-or-die effect, the target rolls its [saving throw twice](../../magic/casting-spells.md#save-or-die-spells) and keeps the higher result.
 
 ??? note "Original rule"
 
@@ -67,11 +67,11 @@ If a death attack is attempted and fails (the victim makes her save) or if the a
 
 **Save Bonus against Poison**: At 2nd level, the assassin gains a +1 saving throw bonus against poisons. This bonus increase by +1 every two levels.
 
-**Uncanny Dodge (Ex)**: At 2nd level, an assassin cannot be caught flat-footed, even if the attacker is invisible. He still loses his Dexterity bonus to AC if immobilized. An assassin with this ability can still lose his Dexterity bonus to AC if an opponent successfully uses the feint action against him.
+**Uncanny Dodge (Ex)**: At 2nd level, an assassin cannot be caught [flat-footed](../../rules/appendices/conditions.md#flat-footed), even if the attacker is invisible. He still loses his Dexterity bonus to AC if immobilized. An assassin with this ability can still lose his Dexterity bonus to AC if an opponent successfully uses the feint action against him.
 
 If an assassin already has uncanny dodge from a different class, he automatically gains improved uncanny dodge instead.
 
-**Hidden Weapons (Ex)**: At 4th level, an assassin becomes a master at hiding weapons on his body. He adds his assassin level to all Sleight of Hand skill checks made to prevent others from noticing them.
+**Hidden Weapons (Ex)**: At 4th level, an assassin becomes a master at hiding weapons on his body. He adds his assassin level to all [Sleight of Hand](../../rules/skills/sleight-of-hand.md) skill checks made to prevent others from noticing them.
 
 **True Death (Su)**: Starting at 4th level, anyone slain by an assassin’s death attack becomes more difficult to bring back from the dead. Spellcasters attempting to bring a creature back from the dead using [*raise dead*](../../magic/spells/raise-dead.md) or similar magic must make a caster level check with a DC equal to 15 + the assassin’s level or the spell fails and the material component is wasted. Casting [*remove curse*](../../magic/spells/remove-curse.md) the round before attempting to bring the creature back from the dead negates this chance. The DC of the *remove curse* is 10 + the assassin’s level.
 
@@ -79,7 +79,7 @@ If an assassin already has uncanny dodge from a different class, he automaticall
 
 If a character already has uncanny dodge from another class, the levels from the classes that grant uncanny dodge stack to determine the minimum rogue level required to flank the character.
 
-**Quiet Death (Ex)**: At 6th level, whenever an assassin kills a creature using his death attack during a surprise round, he can also make a Stealth check, opposed by Perception checks of those in the vicinity to prevent them from identifying him as the assailant. If successful, those nearby might not even notice that the target is dead for a few moments, allowing the assassin to avoid detection.
+**Quiet Death (Ex)**: At 6th level, whenever an assassin kills a creature using his death attack during a surprise round, he can also make a [Stealth](../../rules/skills/stealth.md) check, opposed by [Perception](../../rules/skills/perception.md) checks of those in the vicinity to prevent them from identifying him as the assailant. If successful, those nearby might not even notice that the target is dead for a few moments, allowing the assassin to avoid detection.
 
 **Hide in Plain Sight (Su)**: At 8th level, an assassin can use the Stealth skill even while being observed. As long as he is within 10 feet of an area of dim light, an assassin can hide himself from view in the open without having anything to actually hide behind. He cannot, however, hide in his own shadow.
 

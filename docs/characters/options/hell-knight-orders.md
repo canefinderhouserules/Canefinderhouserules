@@ -16,7 +16,7 @@
 
 ### Boons
 
-**1: Taken Alive (Ex)** You are an expert in hunting your quarry and capturing it alive. You take no penalty on attack rolls for using a flail to deal nonlethal damage. Additionally, while performing your reckoning, you can focus on understanding one specific individual. For the next 24 hours, you gain a +4 bonus on Perception, Sense Motive, and Survival checks that relate to noticing, seeing through the disguises of, interrogating others about the location of, or tracking that individual, or any activity directly related to doing so.
+**1: Taken Alive (Ex)** You are an expert in hunting your quarry and capturing it alive. You take no penalty on attack rolls for using a flail to deal nonlethal damage. Additionally, while performing your reckoning, you can focus on understanding one specific individual. For the next 24 hours, you gain a +4 bonus on [Perception](../../rules/skills/perception.md), [Sense Motive](../../rules/skills/sense-motive.md), and [Survival](../../rules/skills/survival.md) checks that relate to noticing, seeing through the disguises of, interrogating others about the location of, or tracking that individual, or any activity directly related to doing so.
 
 **2: Pierce Disguise (Sp)** You are suspicious of everyone, and your wariness grants you senses others do not have. You can use [*true seeing*](../../magic/spells/true-seeing.md) as a spell-like ability for a number of minutes each day equal to half your character level. These minutes do not need to be used consecutively, but they must be used in 1-minute increments.
 
@@ -90,7 +90,7 @@
 
 **2: Armored Spellcasting (Ex)** You have mastered the delicate and yet taxing art of casting spells in your hell knight armor. You can ignore the spell failure chance of any armor with “hell knight” in the name.
 
-**3: Unfathomable Gaze (Sp)** You are able to focus your staunch hell knight training into a spell-like ritual that allows you to glean information that could be vital to your mission of enforcing the law. Once per day, while wearing a signifer mask, you can use [*vision*](../../magic/spells/vision.md) as a spell-like ability, treating your total character level as your caster level. Unlike casting the spell normally, you are not fatigued after this ability is complete, as your training allows you to shake off what might tire lesser individuals.Order of the Gate hell knights seek to curb and prevent lawlessness through magic and manipulation. They have reputations as mysterious, emotionless, and sometimes cruel magic-users. Many are convinced that the Order of the Gate’s hell knights are spying on them or already know their secrets. Sometimes this fear is true, as the order’s members prefer preventing crime to punishing it and often use manipulation, information-gathering, and spying to further their agenda.
+**3: Unfathomable Gaze (Sp)** You are able to focus your staunch hell knight training into a spell-like ritual that allows you to glean information that could be vital to your mission of enforcing the law. Once per day, while wearing a signifer mask, you can use [*vision*](../../magic/spells/vision.md) as a spell-like ability, treating your total character level as your caster level. Unlike casting the spell normally, you are not [fatigued](../../rules/appendices/conditions.md#fatigued) after this ability is complete, as your training allows you to shake off what might tire lesser individuals.Order of the Gate hell knights seek to curb and prevent lawlessness through magic and manipulation. They have reputations as mysterious, emotionless, and sometimes cruel magic-users. Many are convinced that the Order of the Gate’s hell knights are spying on them or already know their secrets. Sometimes this fear is true, as the order’s members prefer preventing crime to punishing it and often use manipulation, information-gathering, and spying to further their agenda.
 
 ## Order of the Glyph
 
@@ -112,7 +112,7 @@
 
 (From analagous order)
 
-**1: Favored Cult (Ex)** You can hone your skills to become a bane to those who worship a divinity you hate. Each day while performing your obedience, choose a divine power that grants four or fewer domains. You gain +2 bonus on Intimidate, Knowledge, Sense Motive, and Survival checks against those who worship that power. Additionally, you get a +1 bonus on weapon attack rolls and weapon damage rolls against the worshipers of that deity.
+**1: Favored Cult (Ex)** You can hone your skills to become a bane to those who worship a divinity you hate. Each day while performing your obedience, choose a divine power that grants four or fewer domains. You gain +2 bonus on [Intimidate](../../rules/skills/intimidate.md), [Knowledge](../../rules/skills/knowledge.md), Sense Motive, and Survival checks against those who worship that power. Additionally, you get a +1 bonus on weapon attack rolls and weapon damage rolls against the worshipers of that deity.
 
 **2: Immolation (Sp)** You can channel your wrath into power that can scorch your foes. Once per day, you can cast [*delayed blast fireball*](../../magic/spells/delayed-blast-fireball.md) using your character level as your caster level.
 
@@ -268,7 +268,7 @@
 
 **Favored Weapon** heavy mace, scourge, or whip
 
-**Reckoning** Lash yourself with a scourge or whip. Take 1 fewer point of bleed damage per round when you are affected by an ability or effect that causes bleed damage and gain a +4 bonus on Heal checks to stop bleeding.
+**Reckoning** Lash yourself with a scourge or whip. Take 1 fewer point of bleed damage per round when you are affected by an ability or effect that causes bleed damage and gain a +4 bonus on [Heal](../../rules/skills/heal.md) checks to stop bleeding.
 
 **Tenants** I will hunt down those who pervert the law to serve selfish ends. Laws are not lawful merely by virtue of being laws; they must be examined lest they be corrupted. Those who don’t fear justice will fear me. A broken law is a broken vow, and penance must be paid in blood. My fist will strike only the enemies of order, not their neighbors if they are innocents. I will be mindful of danger, for every street and hall is a battlefield. In my armor or without it, I am first and always a hell knight.
 
@@ -336,9 +336,9 @@
 
 **Call Armor (Su; Any Order)**: As a move action, the hell knight can cause her armor to instantly appear on her body. Alternatively, she can dismiss it as a move action, causing it to vanish. (Doing either of these counts as one use of this discipline.) Where the armor appears from or vanishes to can be anywhere the hell knight designates, but it must be a place the hell knight has seen on the same plane of existence where she is, or be in an extradimensional space she controls, such as a *bag of holding*. This armor is a specific suit of hell knight plate that the hell knight designates when she selects this discipline. The hell knight can attune this ability to a new set of armor, but doing so takes 1 week.
 
-**Favored Quarry (Ex; Any Order)**: The hell knight chooses a creature type from the ranger favored enemy table (usually humanoid with a specific subtype, but this is not required). The hell knight gains a +2 bonus on Bluff, Intimidate, Knowledge, Perception, Sense Motive, and Survival checks against creatures of her selected type. She can also attempt Knowledge skill checks untrained to identify those creatures. Each time the hell knight chooses an additional discipline, this bonus increases by 2 (to a potential maximum of +6 at 9th level).
+**Favored Quarry (Ex; Any Order)**: The hell knight chooses a creature type from the ranger favored enemy table (usually humanoid with a specific subtype, but this is not required). The hell knight gains a +2 bonus on [Bluff](../../rules/skills/bluff.md), Intimidate, Knowledge, Perception, Sense Motive, and Survival checks against creatures of her selected type. She can also attempt Knowledge skill checks untrained to identify those creatures. Each time the hell knight chooses an additional discipline, this bonus increases by 2 (to a potential maximum of +6 at 9th level).
 
-**Fearsomeness (Ex; Any Order)**: A hell knight who uses the Intimidate skill to cause a creature within 10 feet to become shaken can instead cause that creature to become frightened.
+**Fearsomeness (Ex; Any Order)**: A hell knight who uses the Intimidate skill to cause a creature within 10 feet to become [shaken](../../rules/appendices/conditions.md#shaken) can instead cause that creature to become [frightened](../../rules/appendices/conditions.md#frightened).
 
 **Invoke Glyph (Sp and Ex; Order of the Glyph)**: The hell knight can use [*glyph of warding*](../../magic/spells/glyph-of-warding.md) as a spell-like ability. While this ability does not require an expensive material component, a single hell knight can maintain only one* glyph of warding* at a time; if he uses this spell-like ability a second time, the previously created* glyph of warding* vanishes. In addition, the hell knight gains a +4 bonus on saving throws against* glyph of warding* or symbol spells.
 
@@ -350,4 +350,4 @@
 
 **Summon Servant of Law (Sp; Any Order)**: The hell knight can summon a creature or creatures to help her, as if using a *summon monster* spell. At 3rd level, she can summon 1d3 hell hounds. At 6th level, she can summon 1d3 advanced hell hounds or one axiomite. And at 9th level, she can summon 1d4+1 hell hounds, 1d3 axiomites, or one zelekhut inevitable.
 
-**Versatile Intimidation (Ex; Any Order)**: The hell knight can use Intimidate to reproduce the effects of another Charisma-based skill. Choose one of the following: Bluff, Diplomacy, Handle Animal, or Perform (oratory). Each time the hell knight wishes to use that skill, she can attempt an Intimidate check and treat it as if it were a check of the desired type. At 9th level, the hell knight can choose an additional skill from the list above and use Intimidate to reproduce its effects.
+**Versatile Intimidation (Ex; Any Order)**: The hell knight can use Intimidate to reproduce the effects of another Charisma-based skill. Choose one of the following: Bluff, [Diplomacy](../../rules/skills/diplomacy.md), [Handle Animal](../../rules/skills/handle-animal.md), or [Perform](../../rules/skills/perform.md) (oratory). Each time the hell knight wishes to use that skill, she can attempt an Intimidate check and treat it as if it were a check of the desired type. At 9th level, the hell knight can choose an additional skill from the list above and use Intimidate to reproduce its effects.

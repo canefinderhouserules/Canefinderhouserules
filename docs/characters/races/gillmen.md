@@ -10,7 +10,7 @@ Gillmen are the remnants of a race of surface-dwelling humanoids whose homeland 
 
 **Aquatic**: Gillmen are humanoids with the aquatic subtype.
 
-**Normal Speed**: Gillmen have a base speed of 30 feet on land. As aquatic creatures, they also have a swim speed of 30 feet, can move in water without making Swim checks, and always treat Swim as a class skill.
+**Normal Speed**: Gillmen have a base speed of 30 feet on land. As aquatic creatures, they also have a swim speed of 30 feet, can move in water without making [Swim](../../rules/skills/swim.md) checks, and always treat Swim as a class skill.
 
 **Amphibious**: Gillmen have the aquatic subtype, but can breathe both water and air.
 
@@ -34,7 +34,7 @@ The following racial traits may be selected instead of existing gillman racial t
 
 **Submerged**: Gillmen who live in deep water are accustomed to the gloom of the depths. Though these gillmen can venture onto land, they are uncomfortable doing so and must return to the ocean sooner than other gillmen. Gillmen with this racial trait gain low-light vision but must submerge themselves in water every 12 hours or die within 2d4 hours. This modifies their water dependent racial trait.
 
-**Taskmaster**: Some gillmen were created as overseers among their kin, allowing them to exude pheromones into the air or water. Generations later, the descendants of these taskmaster gillmen retain the ability to influence others. Gillmen with this trait gain a +2 racial bonus on Diplomacy checks. This racial trait replaces enchantment resistance.
+**Taskmaster**: Some gillmen were created as overseers among their kin, allowing them to exude pheromones into the air or water. Generations later, the descendants of these taskmaster gillmen retain the ability to influence others. Gillmen with this trait gain a +2 racial bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks. This racial trait replaces enchantment resistance.
 
 **Truthseer**: Gillmen with this racial trait gain a +2 racial bonus on saving throws against non-aboleth illusion spells or effects, but they take a –2 penalty on such saving throws against aboleth sources. This racial trait replaces enchantment resistance.
 
@@ -56,7 +56,7 @@ Under the house rules, any character can take a bonus from the [universal favore
 
  Gillmen also have the following options.
 
-**Bard**: Add 1/2 to the bard's Bluff checks to fool someone and gain a +1/2 bonus on the bard's Sense Motive checks to sense enchantments.
+**Bard**: Add 1/2 to the bard's [Bluff](../../rules/skills/bluff.md) checks to fool someone and gain a +1/2 bonus on the bard's [Sense Motive](../../rules/skills/sense-motive.md) checks to sense enchantments.
 
 **Investigator**: Increase the total number of points in the investigator's inspiration pool by 1/3.
 
@@ -75,7 +75,7 @@ These archetypes are typically only taken by gillmen, but members of other races
 
 Gillmen have access to the following equipment.
 
-**Sea-Knife**: A sea-knife is a long-handled weapon with a short blade. It is designed to be strapped to the ankle or foot of the wielder, pointing downward and jutting out beyond the wearer’s leg. Donning or removing a sea-knife is a full-round action. The wearer cannot use a leg with a sea-knife strapped to it for walking or running. A sea-knife can be used as a light melee weapon when the wielder is swimming, flying, or prone. This allows the wielder to use a two-handed weapon, or wield a weapon with one hand and carry a shield, and still make off-hand attacks with the sea-knife. Attacks made with a sea-knife take a –2 circumstance penalty on attack rolls in addition to all other attack penalties.
+**Sea-Knife**: A sea-knife is a long-handled weapon with a short blade. It is designed to be strapped to the ankle or foot of the wielder, pointing downward and jutting out beyond the wearer’s leg. Donning or removing a sea-knife is a full-round action. The wearer cannot use a leg with a sea-knife strapped to it for walking or running. A sea-knife can be used as a light melee weapon when the wielder is swimming, flying, or [prone](../../rules/appendices/conditions.md#prone). This allows the wielder to use a two-handed weapon, or wield a weapon with one hand and carry a shield, and still make off-hand attacks with the sea-knife. Attacks made with a sea-knife take a –2 circumstance penalty on attack rolls in addition to all other attack penalties.
 
 ## Spells
 

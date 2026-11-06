@@ -8,4 +8,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-The target’s actions and words fail to impress. The target of this spell takes a –10 penalty on any Bluff, Diplomacy, and Intimidate checks as well as any performance combat checks it attempts.
+The target’s actions and words fail to impress. The target of this spell takes a –10 penalty on any [Bluff](../../rules/skills/bluff.md), [Diplomacy](../../rules/skills/diplomacy.md), and [Intimidate](../../rules/skills/intimidate.md) checks as well as any performance combat checks it attempts.

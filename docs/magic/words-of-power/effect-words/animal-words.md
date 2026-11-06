@@ -9,7 +9,7 @@ Words from this family speak directly to wild creatures, soothing and controllin
 **Saving Throw** Will negates; **Spell Resistance** yes  
 **Target Restrictions** selected
 
-The target of a wordspell with this effect word becomes calm and docile. Though the target will not attack while subject to this effect, the wordspell immediately ends if the target is attacked. Creatures affected by this effect word do not flee, but they are not helpless. This effect word only affects creatures of the animal or magical beast type, although magical beasts receive a +4 bonus on the saving throw.
+The target of a wordspell with this effect word becomes calm and docile. Though the target will not attack while subject to this effect, the wordspell immediately ends if the target is attacked. Creatures affected by this effect word do not flee, but they are not [helpless](../../../rules/appendices/conditions.md#helpless). This effect word only affects creatures of the animal or magical beast type, although magical beasts receive a +4 bonus on the saving throw.
 
 ## Wild Lure (Animal)
 

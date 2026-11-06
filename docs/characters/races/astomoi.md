@@ -1,6 +1,6 @@
 # Astomoi
 
-These mysterious humanoids require no food—indeed, they have no mouths—and they have no eyes with which to survey their environment. Instead, they rely on their powerful minds to sense the world around them, and subsist on nutrients absorbed from the air. This can turn against them, however, as powerful smells and inhaled poisons can render an astomoi helpless. Predisposed to asceticism, astomoi rarely wear more than rags, if they wear anything at all.
+These mysterious humanoids require no food—indeed, they have no mouths—and they have no eyes with which to survey their environment. Instead, they rely on their powerful minds to sense the world around them, and subsist on nutrients absorbed from the air. This can turn against them, however, as powerful smells and inhaled poisons can render an astomoi [helpless](../../rules/appendices/conditions.md#helpless). Predisposed to asceticism, astomoi rarely wear more than rags, if they wear anything at all.
 
 An astomoi appears to be made of darkness, and has no discernible ears, eyes, mouth, or nose.
 

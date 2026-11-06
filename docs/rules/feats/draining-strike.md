@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-With a well-aimed strike, you cause your target to become fatigued or exhausted.
+With a well-aimed strike, you cause your target to become [fatigued](../appendices/conditions.md#fatigued) or [exhausted](../appendices/conditions.md#exhausted).
 
 **Prerequisites**: Dex 13, Wis 13, [Improved Unarmed Strike](improved-unarmed-strike.md), base attack bonus +8.
 

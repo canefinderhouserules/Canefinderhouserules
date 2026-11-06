@@ -12,6 +12,6 @@ With a whispered incantation, you conjure a stationary vertical wall of misty va
 
 Alternatively, you can create a wall with increased density, but doing so reduces the maximum length of the wall to 5 feet per caster level.
 
-In addition to granting concealment, this denser wall also hinders movement. Any creature moving into or attempting to pass through the wall must succeed at a DC 15 Strength check or be entangled (and unable to move) until the start of its next turn. A creature that starts its turn in the wall can freely move within it or move out of the wall in either direction.
+In addition to granting concealment, this denser wall also hinders movement. Any creature moving into or attempting to pass through the wall must succeed at a DC 15 Strength check or be [entangled](../../rules/appendices/conditions.md#entangled) (and unable to move) until the start of its next turn. A creature that starts its turn in the wall can freely move within it or move out of the wall in either direction.
 
 Only a severe or stronger wind (31+ mph) disperses the wall, and it does so in 1 round.

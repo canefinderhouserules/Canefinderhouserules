@@ -8,4 +8,4 @@
 **Duration** 1 minute/level (D)  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-You challenge an evil creature to bring the fight to you, or suffer the consequences. You gain a +2 sacred bonus on all melee attacks against the subject of the spell. At the end of its turn, if the target has not made at least one attack on you, it becomes sickened. If you move away from the target, the spell ends.
+You challenge an evil creature to bring the fight to you, or suffer the consequences. You gain a +2 sacred bonus on all melee attacks against the subject of the spell. At the end of its turn, if the target has not made at least one attack on you, it becomes [sickened](../../rules/appendices/conditions.md#sickened). If you move away from the target, the spell ends.

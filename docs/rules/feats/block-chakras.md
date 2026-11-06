@@ -8,6 +8,6 @@ You've learned how to block the lower chakras of your foes.
 
 **Root**: The target's DR is reduced by 10 for 1 minute. If the target has multiple forms of DR, you choose which DR is reduced. On a successful save, the target's DR is instead reduced by 5 for 1 round.
 
-**Sacral**: The target can't use any of its speeds except its land speed (or swim speed for an aquatic creature) for 1 round, and it moves at half speed for 1 minute. If it was flying, the target can attempt a Fly check to fall safely. On a successful save, the target instead moves at half speed for 1 round.
+**Sacral**: The target can't use any of its speeds except its land speed (or swim speed for an aquatic creature) for 1 round, and it moves at half speed for 1 minute. If it was flying, the target can attempt a [Fly](../skills/fly.md) check to fall safely. On a successful save, the target instead moves at half speed for 1 round.
 
 **Navel**: The target takes a –2 penalty on attack rolls and damage rolls, and it reduces the DCs of its spells and abilities by 2 for 1 minute. On a successful save, the penalty and reduction is halved and lasts for 1 round.

@@ -2,7 +2,7 @@
 
 
 
-***Granted Powers**: You are a scholar and a sage of legends. In addition, you treat all Knowledge skills as class skills.*
+***Granted Powers**: You are a scholar and a sage of legends. In addition, you treat all [Knowledge](../../rules/skills/knowledge.md) skills as class skills.*
 
 *Lore Keeper (Sp): You can touch a creature to learn about its abilities and weaknesses. With a successful touch attack, you gain information as if you made the appropriate Knowledge skill check with a result equal to 15 + your cleric level + your Wisdom modifier. It can be used with a ranged touch attack, but instead of 15, you use 5 + your cleric level + your wisdom modifier.*
 

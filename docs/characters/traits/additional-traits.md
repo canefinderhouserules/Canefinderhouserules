@@ -9,9 +9,9 @@ These traits come from *Ultimate Campaign* and supplement the lists on the other
 
 These traits are associated with combat, battle, and physical prowess. They give minor bonuses in battle and represent conflicts and physical struggles in your backstory.
 
-**Armed Grit**: You make an impression during a standoff. As long as you have a firearm drawn, you gain a +2 trait bonus on saving throws against fear and the DCs of Intimidate checks to demoralize you increase by 2.
+**Armed Grit**: You make an impression during a standoff. As long as you have a firearm drawn, you gain a +2 trait bonus on saving throws against fear and the DCs of [Intimidate](../../rules/skills/intimidate.md) checks to demoralize you increase by 2.
 
-**Armored Rider**: You gain a +1 trait bonus on Ride checks, and Ride is a class skill for you. You don’t take an armor check penalty on Ride checks while wearing light or medium armor.
+**Armored Rider**: You gain a +1 trait bonus on [Ride](../../rules/skills/ride.md) checks, and Ride is a class skill for you. You don’t take an armor check penalty on Ride checks while wearing light or medium armor.
 
 **Armored Soul**: When wearing armor or using a shield, you gain a +1 trait bonus on saving throws against divine spells that deal damage.
 
@@ -21,7 +21,7 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Back for More**: Anytime an opponent confirms a critical hit against you, you gain a +2 morale bonus on attack rolls and damage rolls against that foe until the end of your next turn.
 
-**Battlefield Disciple**: You are skilled at supporting your allies in the heat of battle. You gain a +2 trait bonus on Heal checks made to stabilize a dying creature. In addition, when you successfully use the aid another action in combat to grant an ally a bonus on her next attack roll, the bonus you grant increases by 1.
+**Battlefield Disciple**: You are skilled at supporting your allies in the heat of battle. You gain a +2 trait bonus on [Heal](../../rules/skills/heal.md) checks made to stabilize a dying creature. In addition, when you successfully use the aid another action in combat to grant an ally a bonus on her next attack roll, the bonus you grant increases by 1.
 
 **Black Powder Bravado**: You are particularly successful when using deeds. Once per day, when you perform a deed that requires an attack roll and you miss with that roll, you can reroll it. You must take the second result even if it is worse.
 
@@ -33,11 +33,11 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Bloody-Minded**: You are always ready for bloodshed. You gain a +1 trait bonus on initiative and Intimidate checks.
 
-**Broken, Not Beaten**: You automatically stabilize when reduced below 0 hit points. Once per day when brought below 0 hit points, you can accept 1 point of damage to regain consciousness for 1 round, though you remain staggered and only able to take a single move or standard action.
+**Broken, Not Beaten**: You automatically stabilize when reduced below 0 hit points. Once per day when brought below 0 hit points, you can accept 1 point of damage to regain consciousness for 1 round, though you remain [staggered](../../rules/appendices/conditions.md#staggered) and only able to take a single move or standard action.
 
 **Careful Combatant**: You have a strong sense of self-preservation, believing it is more important to safely extract yourself from a fight that has turned hopeless than to stubbornly stand your ground and risk death. When using the withdraw action, both the first and second squares of your movement are not considered threatened by any opponents you can see, rather than just the first square.
 
-**Cold and Calculating**: You are adept at tricking favored enemies of your race or those related to your race. You gain a +1 trait bonus on all Bluff checks against favored enemies that share one of your subtypes. You also gain a +1 trait bonus on attack rolls made against such favored enemies during the surprise round.
+**Cold and Calculating**: You are adept at tricking favored enemies of your race or those related to your race. You gain a +1 trait bonus on all [Bluff](../../rules/skills/bluff.md) checks against favored enemies that share one of your subtypes. You also gain a +1 trait bonus on attack rolls made against such favored enemies during the surprise round.
 
 **Crimson Carapace**: A combination of armor and agility protects you from deadly attacks. When wearing light armor and fighting defensively or using [Combat Expertise](../../rules/feats/combat-expertise.md), you receive a +2 trait bonus to your AC against attack rolls to confirm a critical threat.
 
@@ -75,7 +75,7 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Helpful**: You always know the best way to assist your companions, be it assisting them with a task, defending them in battle, or helping them place a well-aimed strike. When using the aid another action, you grant your ally a +3 bonus instead of a +2 bonus.
 
-**Hidden Hand**: Your concealed weapons strike fast and true. You gain a +1 trait bonus on Sleight of Hand checks made to conceal light weapons and a +1 trait bonus on attack rolls when making an attack with a light weapon during a surprise round.
+**Hidden Hand**: Your concealed weapons strike fast and true. You gain a +1 trait bonus on [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks made to conceal light weapons and a +1 trait bonus on attack rolls when making an attack with a light weapon during a surprise round.
 
 **Honor-Code Champion**: You draw strength from adhering to a strict honor code in combat. Once per day, if an effect would compel you to harm an ally, abandon an ally, or break your word, you can attempt a Will save at the usual DC to end the effect. If the effect normally allows a Will save at this point, you can roll twice and take the better result.
 
@@ -101,9 +101,9 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Monk Weapon Skill**: Your exposure to teaching from a martial monastic school makes your attacks with monk weapons even more deadly. Select one monk weapon with which you are proficient (unarmed attacks do not qualify for this purpose). You gain a +1 trait bonus on damage rolls with this weapon.
 
-**Natural Flier**: All your life, the sky has beckoned to you, and you have dreamed of reveling in the freedom and bliss of flight. You gain a +1 trait bonus on Fly checks, as well as Acrobatics checks attempted while flying. Fly is always a class skill for you.
+**Natural Flier**: All your life, the sky has beckoned to you, and you have dreamed of reveling in the freedom and bliss of flight. You gain a +1 trait bonus on [Fly](../../rules/skills/fly.md) checks, as well as [Acrobatics](../../rules/skills/acrobatics.md) checks attempted while flying. Fly is always a class skill for you.
 
-**Nature’s Mimic**: Your knowledge of nature informs your fighting style, and that style gives you insight into related aspects of the natural world. You gain a +1 trait bonus on all Knowledge (nature) checks, and Knowledge (nature) is always a class skill for you. You can make Knowledge (nature) checks pertaining to animals that correspond to your style feats untrained.
+**Nature’s Mimic**: Your knowledge of nature informs your fighting style, and that style gives you insight into related aspects of the natural world. You gain a +1 trait bonus on all [Knowledge](../../rules/skills/knowledge.md) (nature) checks, and Knowledge (nature) is always a class skill for you. You can make Knowledge (nature) checks pertaining to animals that correspond to your style feats untrained.
 
 **Never Stop Shooting**: Even when the chips are down, you keep on shooting. If your hit point total drops to 0 or lower but you are not dead, you may act as if disabled rather than dying (as if you possessed the Diehard feat). However, you can use your actions only to draw a firearm, reload a firearm, or attack with a firearm. If you have the Diehard feat, this trait also allows you to substitute your Wisdom score for your Constitution score for the purpose of determining the negative hit point total at which you die.
 
@@ -125,7 +125,7 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Roving Range**: You learned from pirates to make the most of ranged attacks as you close with targets. Increase the range increment of ranged weapons (but not thrown weapons) you wield by 5 feet.
 
-**Scarred Descendant**: Your own people are your favored enemy. You gain a +1 trait bonus on rolls to confirm critical hits against favored enemies of your own subtype and on Survival checks made to track such creatures.
+**Scarred Descendant**: Your own people are your favored enemy. You gain a +1 trait bonus on rolls to confirm critical hits against favored enemies of your own subtype and on [Survival](../../rules/skills/survival.md) checks made to track such creatures.
 
 **Siege Defender**: Your people survived sieges through proper preparation and cooperation, and those teachings were passed on to you. You gain a +1 trait bonus on melee damage rolls when you attack a target from higher ground.
 
@@ -141,15 +141,15 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Tavern Bouncer**: You learned to fight while serving as a bodyguard in rough taverns, where keeping the patrons alive through bloody bar brawls was just part of your job. When you make an attack that deals nonlethal damage with an unarmed strike, you gain a +1 bonus on your damage roll.
 
-**Unblemished Barrel**: Your skill with firearms speeds your repair of such weapons. You gain a +1 trait bonus on Craft (alchemy) and Craft (weapons) checks, and it takes you only 30 minutes to remove the broken condition from a firearm.
+**Unblemished Barrel**: Your skill with firearms speeds your repair of such weapons. You gain a +1 trait bonus on [Craft](../../rules/skills/craft.md) (alchemy) and Craft (weapons) checks, and it takes you only 30 minutes to remove the broken condition from a firearm.
 
 **Undead Watcher**: Your military service on a border against the undead taught you how to identify undead creatures, changing them in your mind from mysterious terrors to concrete foes you know how to deal with. You gain a +1 trait bonus on attack and damage rolls against undead creatures that you have personally identified using the Knowledge (religion) skill.
 
 **Undead-Hunter’s Inspiration**: Tales of undead-hunting knights have inspired you since childhood to lash out reflexively against the undead. You gain a +1 trait bonus on attack rolls and damage rolls when making attacks of opportunity against undead. While you wield a shield, your shield bonus to AC improves by 1 against attacks of opportunity made by undead.
 
-**Vigilant Battler**: You are hard to fool and harder to trick with a feint. You gain a +1 trait bonus on all Sense Motive checks. This trait bonus increases to +2 when used to counter a feint in combat.
+**Vigilant Battler**: You are hard to fool and harder to trick with a feint. You gain a +1 trait bonus on all [Sense Motive](../../rules/skills/sense-motive.md) checks. This trait bonus increases to +2 when used to counter a feint in combat.
 
-**Wary Eye**: You know that you could be exposed at any time. Even your closest friends could someday become enemies, and so you have trained yourself to never be surprised by a betrayal. At the beginning of combat, before initiative checks are revealed, you can select one opponent you are aware of to be the subject of this trait. If you succeed at a Wisdom check opposed by the subject’s initiative check, you are not considered flat-footed against this subject for this combat, even if you normally would be. You can use this trait in a surprise round, even if you cannot otherwise act that round.
+**Wary Eye**: You know that you could be exposed at any time. Even your closest friends could someday become enemies, and so you have trained yourself to never be surprised by a betrayal. At the beginning of combat, before initiative checks are revealed, you can select one opponent you are aware of to be the subject of this trait. If you succeed at a Wisdom check opposed by the subject’s initiative check, you are not considered [flat-footed](../../rules/appendices/conditions.md#flat-footed) against this subject for this combat, even if you normally would be. You can use this trait in a surprise round, even if you cannot otherwise act that round.
 
 **Weapon of Peace**: Even though you are a trained combatant, you don’t relish killing your enemies; disabling a foe is superior to killing someone capable of admitting defeat. When using a melee weapon that deals lethal damage to instead deal nonlethal damage, you take only a –2 penalty instead of –4.
 
@@ -159,7 +159,7 @@ These traits are associated with combat, battle, and physical prowess. They give
 
 **Youthful Infiltrator**: You were trained from a young age to ambush the enemies of your order or organization, which makes you hard to trust for most outside your organization if they learn your affiliation. You gain a +1 trait bonus on attack rolls against flat-footed foes, as long as they have not seen you make an attack with this bonus before.
 
-**Crossing Veteran**: You've spent years aboard ships traveling a lucrative sea crossing, transporting exotic goods between distant coasts. You gain a +1 bonus on Profession (sailor) checks, and Profession (sailor) is a class skill for you. You also gain a +1 trait bonus on weapon damage rolls against creatures with the aquatic subtype.
+**Crossing Veteran**: You've spent years aboard ships traveling a lucrative sea crossing, transporting exotic goods between distant coasts. You gain a +1 bonus on [Profession](../../rules/skills/profession.md) (sailor) checks, and Profession (sailor) is a class skill for you. You also gain a +1 trait bonus on weapon damage rolls against creatures with the aquatic subtype.
 
 **Crowd Dodger**: You spent much of your youth on crowded streets, dodging quickly around and under others. You gain a +2 trait bonus on Acrobatics checks to move through another creature's space and to avoid attacks of opportunity for leaving a threatened square.
 
@@ -187,7 +187,7 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Apprentice**: During your studies of arcane texts, you learned some minor magical tricks. Select a single 0-level spell from the sorcerer/wizard spell list. You can cast this spell 1 time per day as a spell-like ability.
 
-**Arcane Scholar**: Study of arcane research has broadened your magical knowledge. Choose either Knowledge (arcana) or Spellcraft; you gain a +1 trait bonus on that skill and it is a class skill for you.
+**Arcane Scholar**: Study of arcane research has broadened your magical knowledge. Choose either Knowledge (arcana) or [Spellcraft](../../rules/skills/spellcraft.md); you gain a +1 trait bonus on that skill and it is a class skill for you.
 
 **Avowed Inspiration**: In emulation of a legendary champion's intensely channeled rage, you are an inspiration on the battlefield. Once per day, when you attack a foe who injured you during the same combat, you can inspire allies who can see you as a move action. Each other ally within 30 feet who can see you gains a +2 morale bonus on her next attack roll.
 
@@ -197,7 +197,7 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Blessed Touch**: You have focused yourself into being the perfect vessel for your deity. Divine power flows through you like a mountain stream, making your healing touch more potent than that of others. You heal 1 additional point of damage when using lay on hands, channeling energy, or casting a cure spell.
 
-**Blind Zeal**: You are blind but trained to sense your surroundings by sound and touch. You need not attempt a skill check to move at full speed. You take a –4 penalty from blindness on only Acrobatics, Ride, Sleight of Hand, and Stealth checks. You gain Blind-Fight as a bonus feat. You lose the benefits of this trait whenever you can see, but regain them if you once again become blind.
+**Blind Zeal**: You are blind but trained to sense your surroundings by sound and touch. You need not attempt a skill check to move at full speed. You take a –4 penalty from blindness on only Acrobatics, Ride, Sleight of Hand, and [Stealth](../../rules/skills/stealth.md) checks. You gain Blind-Fight as a bonus feat. You lose the benefits of this trait whenever you can see, but regain them if you once again become blind.
 
 **Bloody Vengeance**: You were slain by evil forces as a child, but a servant of your faith restored you to life. Now you live on in service to your deity, battling the forces of evil so no other child will know the icy grip of death. You gain a +2 trait bonus on attack rolls to confirm critical hits against any creature that has at least a faint evil aura (see [*detect evil*](../../magic/spells/detect-evil.md)).
 
@@ -231,7 +231,7 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Hidden Faith**: You were raised in a religion forbidden by your government, and draw strength from your hidden faith. You gain a +1 trait bonus on saving throws against the divine spells of creatures that worship a god other than your own.
 
-**Hidden Identity**: You learned that keeping secrets often means hiding your true identity. Once per day, when attempting a Disguise check, roll twice and take the better result.
+**Hidden Identity**: You learned that keeping secrets often means hiding your true identity. Once per day, when attempting a [Disguise](../../rules/skills/disguise.md) check, roll twice and take the better result.
 
 **Inspired**: A positive force, philosophy, or divine presence fills you with hope, and is a guiding force of inspiration. Once per day as a free action, roll twice and take the better result on a skill check or ability check.
 
@@ -263,7 +263,7 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Perpetual Companion**: You are bolstered against fear when your eidolon is near. You gain a +2 trait bonus on all saving throws against fear effects whenever your eidolon is within 30 feet.
 
-**Persuasive Insight**: You were converted to your faith or taught to bargain with spirits for magic by a figure of inspiring insight who taught you to use keen observation in all dealings. You can use your Wisdom modifier in place of your Charisma modifier on Diplomacy checks to ask favors or gain influence. During a verbal duel, you can use your Wisdom modifier in place of your Charisma modifier when using tactics you assigned to Diplomacy or Wisdom-based skills.
+**Persuasive Insight**: You were converted to your faith or taught to bargain with spirits for magic by a figure of inspiring insight who taught you to use keen observation in all dealings. You can use your Wisdom modifier in place of your Charisma modifier on [Diplomacy](../../rules/skills/diplomacy.md) checks to ask favors or gain influence. During a verbal duel, you can use your Wisdom modifier in place of your Charisma modifier when using tactics you assigned to Diplomacy or Wisdom-based skills.
 
 **Planar Savant**: You have always had an innate sense of the workings of the planes and their denizens. You may use your Charisma modifier when making Knowledge (planes) checks instead of your Intelligence modifier.
 
@@ -295,7 +295,7 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Soul-Searcher’s Strength**: Your introspections have taught you to understand your own flaws and proclivities and how to work with them. Choose one saving throw. You gain a +1 trait bonus on saving throws of the chosen kind.
 
-**Spirit Sense**: You are so attuned to the spiritual world that it is hard to get the jump on you. You gain a +2 trait bonus on Perception checks to avoid being surprised and to detect invisible or incorporeal creatures.
+**Spirit Sense**: You are so attuned to the spiritual world that it is hard to get the jump on you. You gain a +2 trait bonus on [Perception](../../rules/skills/perception.md) checks to avoid being surprised and to detect invisible or incorporeal creatures.
 
 **Strength of Submission**: Your faith in your church and willingness to surrender yourself to it lend you strength and clarity. Whenever you are under the effects of a compulsion effect, you gain a +1 trait bonus on attack and damage rolls.
 
@@ -307,7 +307,7 @@ These traits rely upon conviction of spirit, perception, and religion, but are n
 
 **Undaunted**: Following the path of freedom has resulted in you being threatened by ruffians and bullies throughout your childhood, and it now takes a lot to rattle you. You increase the DC to demoralize you with an Intimidate check by 2.
 
-**Unshackled**: You have escaped slavery or other imprisonment and have vowed never to be shackled again. You gain a +1 trait bonus on Escape Artist checks, and Escape Artist is a class skill for you.
+**Unshackled**: You have escaped slavery or other imprisonment and have vowed never to be shackled again. You gain a +1 trait bonus on [Escape Artist](../../rules/skills/escape-artist.md) checks, and Escape Artist is a class skill for you.
 
 **Untrained Scholar**: While scholarship is not your primary focus, you have spent enough time in classrooms and libraries to learn a few things. Once per day, you can attempt a Knowledge (geography), Knowledge (history), or Knowledge (local) check untrained with a +2 trait bonus.
 
@@ -381,13 +381,13 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Celestial Transmuter**: You learned the secrets of transmutation from a celestial mentor. Whenever you cast a spell from the transmutation school, its effects manifest at +1 caster level. Additionally, select one of the following transmutation spells: [*bear’s endurance*](../../magic/spells/bears-endurance.md), [*bull’s strength*](../../magic/spells/bulls-strength.md), [*cat’s grace*](../../magic/spells/cats-grace.md), [*eagle’s splendor*](../../magic/spells/eagles-splendor.md), [*fox’s cunning*](../../magic/spells/foxs-cunning.md), or [*owl’s wisdom*](../../magic/spells/owls-wisdom.md). Once per day when you cast that spell, its duration is doubled. A spell affected by this trait cannot be modified further by the [Extend Spell](../../rules/feats/extend-spell.md) metamagic feat or similar abilities.
 
-**Child of the Moon**: Your lunar gift becomes much more powerful when the moon is full. Choose either Climb, Stealth or Swim. You gain a +1 trait bonus on checks made with the chosen skill. On nights from the first quarter of the lunar cycle until the end of the last quarter (the half of the cycle where the moon is fuller), this bonus increases to +2. During the full moon, this bonus increases to +4.
+**Child of the Moon**: Your lunar gift becomes much more powerful when the moon is full. Choose either [Climb](../../rules/skills/climb.md), Stealth or [Swim](../../rules/skills/swim.md). You gain a +1 trait bonus on checks made with the chosen skill. On nights from the first quarter of the lunar cycle until the end of the last quarter (the half of the cycle where the moon is fuller), this bonus increases to +2. During the full moon, this bonus increases to +4.
 
 **Cross-Disciplined**: Your dabbling has granted you greater insight into the proper casting of certain spells. Once per day, you may cast a spell you have prepared that appears on both the magus and wizard spell lists as if your caster level were 1 level higher.
 
 **Cross-Knowledge**: Once per day, you may treat an extract you drink as if your caster level were 1 level higher as long as that extract appears on the wizard spell list and the alchemist list of formulae.
 
-**Desperate Resolve:** You are adept at casting spells even in the most precarious situations. You gain a +1 trait bonus on concentration checks. This trait bonus increases to +4 when you are grappled, pinned, in violent weather, or entangled.
+**Desperate Resolve:** You are adept at casting spells even in the most precarious situations. You gain a +1 trait bonus on concentration checks. This trait bonus increases to +4 when you are [grappled](../../rules/appendices/conditions.md#grappled), [pinned](../../rules/appendices/conditions.md#pinned), in violent weather, or [entangled](../../rules/appendices/conditions.md#entangled).
 
 **Desperate Speed**: Your eidolon excels at a movement type you do not possess. Your eidolon receives a +5-foot enhancement bonus to one type of speed it has that you do not, such as a climb or swim speed. If your eidolon doesn’t already possess such a mode of movement, you may apply this trait bonus later if it gains an evolution that grants it such a mode. Once this bonus is applied to a mode of movement, it can’t be switched to another mode.
 
@@ -407,9 +407,9 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Greater Purpose**: You are convinced you’re alive to achieve a great purpose. You gain a +1 trait bonus on all saving throws to resist death effects and a +1 trait bonus on Constitution checks made to stabilize while dying.
 
-**Horrifying Mind**: When a nonevil humanoid attempts to read your mind via a magical effect, the reader must attempt a Will save opposed by your Wisdom or Charisma check (your choice). If the reader fails this save, she is shaken for 1 round. If she fails by 10 or more, she is instead frightened for 1 round, then shaken for 1 round.
+**Horrifying Mind**: When a nonevil humanoid attempts to read your mind via a magical effect, the reader must attempt a Will save opposed by your Wisdom or Charisma check (your choice). If the reader fails this save, she is [shaken](../../rules/appendices/conditions.md#shaken) for 1 round. If she fails by 10 or more, she is instead [frightened](../../rules/appendices/conditions.md#frightened) for 1 round, then shaken for 1 round.
 
-**Kin Bond**: The bond between you and a close sibling is nearly mystical. Choose a single sibling with whom to share this bond. Once per day when you fail a saving throw while your sibling is within 30 feet, you may reroll that saving throw using your sibling’s saving throw modifier. If you and the sibling are twins or otherwise part of a multiple birth, you gain a +2 trait bonus on the rerolled saving throw. Your sibling must be willing to grant you the reroll. If you fail the saving throw, you and your sibling are dazed for 1 round.
+**Kin Bond**: The bond between you and a close sibling is nearly mystical. Choose a single sibling with whom to share this bond. Once per day when you fail a saving throw while your sibling is within 30 feet, you may reroll that saving throw using your sibling’s saving throw modifier. If you and the sibling are twins or otherwise part of a multiple birth, you gain a +2 trait bonus on the rerolled saving throw. Your sibling must be willing to grant you the reroll. If you fail the saving throw, you and your sibling are [dazed](../../rules/appendices/conditions.md#dazed) for 1 round.
 
 **Knowledgeable Caster**: Once per day when you cast a divination spell, you can cast that spell as if your caster level were 1 level higher in the appropriate class. You also gain a +1 trait bonus on any Knowledge checks associated with your sorcerer bloodline, if any.
 
@@ -419,11 +419,11 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Low Blow**: When targeting a good-aligned creature with a spell or spell-like ability with the pain descriptor or that imposes a morale penalty, increase its effective caster level by 1. If you are of an evil alignment, increase the save DC of the effect by 1 as well.
 
-**Magic Crafter**: Your early magical training involved study of the properties and creation of magic items. You gain a +1 trait bonus on Appraise checks and a +1 bonus on any Craft checks attempted while making magic items.
+**Magic Crafter**: Your early magical training involved study of the properties and creation of magic items. You gain a +1 trait bonus on [Appraise](../../rules/skills/appraise.md) checks and a +1 bonus on any Craft checks attempted while making magic items.
 
 **Malleable Magic**: Once per day as a swift action, you can lose a single 1st-, 2nd- or 3rd-level magus spell to regain 1 arcane pool point. You can’t exceed the maximum number of arcane pool points in your arcane pool by using this trait.
 
-**Mechanical Aptitude**: You have learned much from tinkering with ancient technology from a lost imperium. Choose one of the following skills: Disable Device, Knowledge (engineering), or Use Magic Device. Once per day, you can reroll a check with that skill before the outcome of the check is revealed. You must take the second result, even if it is worse.
+**Mechanical Aptitude**: You have learned much from tinkering with ancient technology from a lost imperium. Choose one of the following skills: [Disable Device](../../rules/skills/disable-device.md), Knowledge (engineering), or [Use Magic Device](../../rules/skills/use-magic-device.md). Once per day, you can reroll a check with that skill before the outcome of the check is revealed. You must take the second result, even if it is worse.
 
 **Meticulous Concoction**: Your meticulous carefulness makes your bombs and extracts more potent. Once per day, you can either add a +2 trait bonus to the save DC for one bomb you throw or extend the duration of one extract you imbibe by 2 rounds. Extracts with an instantaneous duration are not affected by this trait.
 
@@ -451,7 +451,7 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 
 **Secret Scrolls**: You were inducted into a secret magical tradition. You can cast [*read magic*](../../magic/spells/read-magic.md) once per day as a spell-like ability, and gain a +1 trait bonus on Use Magic Device checks to activate scrolls you cannot normally use.
 
-**Self-Taught Scholar**: Being self-taught has made it necessary for you to scour all documentation you can get your hands on. You gain a +1 trait bonus on Linguistics checks to decipher unfamiliar languages, and Linguistics is always a class skill for you. In addition, you gain a +1 trait bonus on Spellcraft checks made to decipher the writing on a scroll.
+**Self-Taught Scholar**: Being self-taught has made it necessary for you to scour all documentation you can get your hands on. You gain a +1 trait bonus on [Linguistics](../../rules/skills/linguistics.md) checks to decipher unfamiliar languages, and Linguistics is always a class skill for you. In addition, you gain a +1 trait bonus on Spellcraft checks made to decipher the writing on a scroll.
 
 **Shrouded Casting**: You have learned the secret to casting some spells without lesser material components. Choose one school of magic when you pick this trait. You can cast spells from that school as if you had the [Eschew Materials](../../rules/feats/eschew-materials.md) feat.
 
@@ -527,7 +527,7 @@ Social traits reflect your upbringing; your background in high society or lack t
 
 **Bastard**: You were born out of wedlock. You have always been an outsider in society, and in your own family. This perspective has sharpened your insight. You gain a +1 trait bonus on Sense Motive checks, and Sense Motive is always a class skill for you.
 
-**Beast Bond**: You share a close bond with animals. You gain a +1 bonus on Handle Animal checks and Ride checks. One of these skills (your choice) is always a class skill for you.
+**Beast Bond**: You share a close bond with animals. You gain a +1 bonus on [Handle Animal](../../rules/skills/handle-animal.md) checks and Ride checks. One of these skills (your choice) is always a class skill for you.
 
 **Binder’s Blood**: Your lineage features a large number of genie callers, granting you insight into the intricacies of genie binding. You gain a +2 trait bonus on any Charisma-based checks when directly interacting with a genie.
 
@@ -581,7 +581,7 @@ Social traits reflect your upbringing; your background in high society or lack t
 
 **Mediator**: You have a way with calming tempers, using cool logic to soothe heated disagreements. You receive a +1 trait bonus on Diplomacy checks. In addition, you receive a +1 trait bonus to the DC of any charm or compulsion effect that does not provide ongoing control and results in peaceful acts, such as [*calm emotions*](../../magic/spells/calm-emotions.md), [*sleep*](../../magic/spells/sleep.md), or a [*suggestion*](../../magic/spells/suggestion.md) to lay down arms.
 
-**Mentored**: A tutor or private instructor guided you in learning your art, profession, or trade, and through your education, you became capable of teaching and guiding others. Choose a single Craft, Perform, or Profession skill. You gain a +1 trait bonus on checks with that skill. You also gain a +1 trait bonus when you aid another’s skill check with any skill.
+**Mentored**: A tutor or private instructor guided you in learning your art, profession, or trade, and through your education, you became capable of teaching and guiding others. Choose a single Craft, [Perform](../../rules/skills/perform.md), or Profession skill. You gain a +1 trait bonus on checks with that skill. You also gain a +1 trait bonus when you aid another’s skill check with any skill.
 
 **Mercenary**: For everything there is a price, and you are a negotiator at heart. You gain a +2 trait bonus on Diplomacy, Intimidate, and Sense Motive checks made while negotiating payment for a quest or a service that you provide.
 
@@ -813,7 +813,7 @@ Regional traits are tied to particular regions, often specific nations, territor
 
 **Sea-Souled (Coastline or Island)**: You are at home at sea. You receive a +1 trait bonus on Swim checks, and you can always take 10 while Swimming.
 
-**Surface Stranger (Underground)**: You were born and raised in a subterranean home with little or no bright light. Your miss chance for concealment or total concealment due to either mundane or magical darkness decreases by 10%. You are dazzled for 1 round when you are suddenly exposed to bright light.
+**Surface Stranger (Underground)**: You were born and raised in a subterranean home with little or no bright light. Your miss chance for concealment or total concealment due to either mundane or magical darkness decreases by 10%. You are [dazzled](../../rules/appendices/conditions.md#dazzled) for 1 round when you are suddenly exposed to bright light.
 
 **Tundra Child (Tundra or Cold Regions)**: You were born and raised in the cold wastes of the far north or far south, and are accustomed to low temperatures. You gain a +4 trait bonus on saving throws made to resist the effects of being in cold conditions and a +1 trait bonus on saving throws against cold effects.
 

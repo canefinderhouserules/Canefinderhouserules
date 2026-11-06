@@ -16,4 +16,4 @@ A fire-trapped item cannot have a second closure or warding spell placed on it. 
 
 You can use the fire-trapped object without discharging it, as can any individual to whom the object was specifically attuned when cast. Attuning a fire-trapped object to an individual usually involves setting a password that you can share with friends.
 
-Magic traps such as *fire trap* are hard to detect and disable. A character with trapfinding can use the Perception skill to find a *fire* *trap* and Disable Device to thwart it. The DC in each case is 25 + spell level (DC 27 for a druid’s *fire trap* or DC 29 for the arcane version).
+Magic traps such as *fire trap* are hard to detect and disable. A character with trapfinding can use the [Perception](../../rules/skills/perception.md) skill to find a *fire* *trap* and Disable Device to thwart it. The DC in each case is 25 + spell level (DC 27 for a druid’s *fire trap* or DC 29 for the arcane version).

@@ -8,6 +8,6 @@
 **Duration** 1 round/level  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-Each round, you can target a single living creature of up to 9 HD and strike it with terrifying waves of power. If the target fails its saving throw, it becomes panicked for 1d4 rounds, and you gain 5 temporary hit points (which disappear after 1 hour). After the panic ends, the creature remains shaken for 10 minutes per caster level, and it automatically becomes panicked again if it comes within sight of you during that time.
+Each round, you can target a single living creature of up to 9 HD and strike it with terrifying waves of power. If the target fails its saving throw, it becomes [panicked](../../rules/appendices/conditions.md#panicked) for 1d4 rounds, and you gain 5 temporary hit points (which disappear after 1 hour). After the panic ends, the creature remains [shaken](../../rules/appendices/conditions.md#shaken) for 10 minutes per caster level, and it automatically becomes panicked again if it comes within sight of you during that time.
 
 These temporary hit points stack if they are from different creatures.

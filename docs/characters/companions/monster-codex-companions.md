@@ -10,7 +10,7 @@ A kobold cavalier can select either of these companions as a mount instead of a 
 
 **Starting Statistics**: Size Medium; Speed 40 ft.; AC +2 natural armor; Attack bite (1d6); Ability Scores Str 13, Dex 12, Con 13, Int 1, Wis 12, Cha 4; Special Qualities darkvision 60 ft.
 
-**4th-Level Advancement**: Ability Scores Str +2, Con +2; Special Qualities combat training (see the Handle Animal skill).
+**4th-Level Advancement**: Ability Scores Str +2, Con +2; Special Qualities combat training (see the [Handle Animal](../../rules/skills/handle-animal.md) skill).
 
 ### Riding Python
 

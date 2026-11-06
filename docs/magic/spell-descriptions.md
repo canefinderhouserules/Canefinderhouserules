@@ -16,7 +16,7 @@ Almost every spell belongs to one of eight schools of magic. A school of magic i
 
 Abjurations are protective spells. They create physical or magical barriers, negate magical or physical abilities, harm trespassers, or even banish the subject of the spell to another plane of existence.
 
-If one abjuration spell is active within 10 feet of another for 24 hours or more, the magical fields interfere with each other and create barely visible energy fluctuations. The DC to find such spells with the Perception skill drops by 4.
+If one abjuration spell is active within 10 feet of another for 24 hours or more, the magical fields interfere with each other and create barely visible energy fluctuations. The DC to find such spells with the [Perception](../rules/skills/perception.md) skill drops by 4.
 
 If an abjuration creates a barrier that keeps certain types of creatures at bay, that barrier cannot be used to push away those creatures. If you force the barrier against such a creature, you feel a discernible pressure against the barrier. If you continue to apply pressure, you end the spell.
 
@@ -48,7 +48,7 @@ Divination spells enable you to learn secrets long forgotten, predict the future
 
 Many divination spells have cone-shaped areas. These move with you and extend in the direction you choose. The cone defines the area that you can sweep each round. If you study the same area for multiple rounds, you can often gain additional information, as noted in the descriptive text for the spell.
 
-**Scrying**: A scrying spell creates an invisible magical sensor that sends you information. Unless noted otherwise, the sensor has the same powers of sensory acuity that you possess. This level of acuity includes any spells or effects that target you, but not spells or effects that emanate from you. The sensor, however, is treated as a separate, independent sensory organ of yours, and thus functions normally even if you have been blinded or deafened, or otherwise suffered sensory impairment.
+**Scrying**: A scrying spell creates an invisible magical sensor that sends you information. Unless noted otherwise, the sensor has the same powers of sensory acuity that you possess. This level of acuity includes any spells or effects that target you, but not spells or effects that emanate from you. The sensor, however, is treated as a separate, independent sensory organ of yours, and thus functions normally even if you have been [blinded](../rules/appendices/conditions.md#blinded) or [deafened](../rules/appendices/conditions.md#deafened), or otherwise suffered sensory impairment.
 
 A creature can notice the sensor by making a Perception check with a DC 20 + the spell level. The sensor can be dispelled as if it were an active spell.
 
@@ -100,13 +100,13 @@ Necromancy spells manipulate the power of death, unlife, and the life force. Spe
 
 Transmutation spells change the properties of some creature, thing, or condition.
 
-**Polymorph**: A polymorph spell transforms your physical body to take on the shape of another creature. While these spells make you appear to be the creature, granting you a +10 bonus on Disguise skill checks, they do not grant you all of the abilities and powers of the creature. Each polymorph spell allows you to assume the form of a creature of a specific type, granting you a number of bonuses to your ability scores and a bonus to your natural armor. In addition, each polymorph spell can grant you a number of other benefits, including movement types, resistances, and senses. If the form you choose grants these benefits, or a greater ability of the same type, you gain the listed benefit. If the form grants a lesser ability of the same type, you gain the lesser ability instead. Your base speed changes to match that of the form you assume.
+**Polymorph**: A polymorph spell transforms your physical body to take on the shape of another creature. While these spells make you appear to be the creature, granting you a +10 bonus on [Disguise](../rules/skills/disguise.md) skill checks, they do not grant you all of the abilities and powers of the creature. Each polymorph spell allows you to assume the form of a creature of a specific type, granting you a number of bonuses to your ability scores and a bonus to your natural armor. In addition, each polymorph spell can grant you a number of other benefits, including movement types, resistances, and senses. If the form you choose grants these benefits, or a greater ability of the same type, you gain the listed benefit. If the form grants a lesser ability of the same type, you gain the lesser ability instead. Your base speed changes to match that of the form you assume.
 
 If the form grants a swim or burrow speed, you maintain the ability to breathe if you are swimming or burrowing. The DC for any of these abilities equals your DC for the polymorph spell used to change you into that form.
 
 In addition to these benefits, you gain any of the natural attacks of the base creature, including proficiency in those attacks. These attacks are based on your base attack bonus, modified by your Strength or Dexterity as appropriate, and use your Strength modifier for determining damage bonuses.
 
-If a polymorph spell causes you to change size, apply the size modifiers appropriately, changing your armor class, attack bonus, Combat Maneuver Bonus, and Stealth skill modifiers. Your ability scores are not modified by this change unless noted by the spell.
+If a polymorph spell causes you to change size, apply the size modifiers appropriately, changing your armor class, attack bonus, Combat Maneuver Bonus, and [Stealth](../rules/skills/stealth.md) skill modifiers. Your ability scores are not modified by this change unless noted by the spell.
 
 Unless otherwise noted, polymorph spells cannot be used to change into specific individuals. Although many of the fine details can be controlled, your appearance is always that of a generic member of that creature’s type. Polymorph spells cannot be used to assume the form of a creature with a template or an advanced version of a creature.
 
@@ -140,7 +140,7 @@ A language-dependent spell uses intelligible language as a medium for communicat
 
 A mind-affecting spell works only against creatures with an Intelligence score of 1 or higher.
 
-A ruse spell is easily mistaken for another spell and is intended to confuse even onlookers trained in Spellcraft or Knowledge (arcana). Attempts to identify a ruse spell by its effects, its aura, its components, or other attributes with a skill check treat the spell as though it were a different spell, as indicated in the spell’s description. The one attempting the check can correctly identify the spell only by exceeding the DC by 10. The false spell is typically a level lower than the ruse spell, so skill checks use the DC for the lower-level spell. Even *detect magic* and most similar spells don’t prevent the caster from being fooled by a ruse spell. *Analyze dweomer*, *greater arcane sight*, and similar spells of the same or higher spell level that automatically identify spells reveal a ruse spell for what it is. Ruse spells that mimic harmless spells still list harmless on their saving throw or spell resistance lines; a creature that knows or suspects the true nature of the spell typically chooses to attempt the save.
+A ruse spell is easily mistaken for another spell and is intended to confuse even onlookers trained in [Spellcraft](../rules/skills/spellcraft.md) or [Knowledge](../rules/skills/knowledge.md) (arcana). Attempts to identify a ruse spell by its effects, its aura, its components, or other attributes with a skill check treat the spell as though it were a different spell, as indicated in the spell’s description. The one attempting the check can correctly identify the spell only by exceeding the DC by 10. The false spell is typically a level lower than the ruse spell, so skill checks use the DC for the lower-level spell. Even *detect magic* and most similar spells don’t prevent the caster from being fooled by a ruse spell. *Analyze dweomer*, *greater arcane sight*, and similar spells of the same or higher spell level that automatically identify spells reveal a ruse spell for what it is. Ruse spells that mimic harmless spells still list harmless on their saving throw or spell resistance lines; a creature that knows or suspects the true nature of the spell typically chooses to attempt the save.
 
 ## Level
 
@@ -202,7 +202,7 @@ You must make choices about whom a spell is to affect or where an effect is to o
 
 If the target of a spell is yourself (the Target line of the spell description includes “You”), you do not receive a saving throw, and spell resistance does not apply. The saving throw and spell resistance lines are omitted from such spells.
 
-Some spells restrict you to willing targets only. Declaring yourself as a willing target is something that can be done at any time (even if you’re flat-footed or it isn’t your turn). Unconscious creatures are automatically considered willing, but a character who is conscious but immobile or helpless (such as one who is bound, cowering, grappling, paralyzed, pinned, or stunned) is not automatically willing.
+Some spells restrict you to willing targets only. Declaring yourself as a willing target is something that can be done at any time (even if you’re [flat-footed](../rules/appendices/conditions.md#flat-footed) or it isn’t your turn). [Unconscious](../rules/appendices/conditions.md#unconscious) creatures are automatically considered willing, but a character who is conscious but immobile or [helpless](../rules/appendices/conditions.md#helpless) (such as one who is bound, [cowering](../rules/appendices/conditions.md#cowering), grappling, [paralyzed](../rules/appendices/conditions.md#paralyzed), [pinned](../rules/appendices/conditions.md#pinned), or [stunned](../rules/appendices/conditions.md#stunned)) is not automatically willing.
 
 Some spells allow you to redirect the effect to new targets or areas after you cast the spell. Redirecting a spell is a move action that does not provoke attacks of opportunity.
 

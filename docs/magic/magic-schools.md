@@ -20,9 +20,9 @@ A character's Fame score tracks how successful he is in his schooling. A low Fam
 
 ### Benefits of Education
 
-A student's Fame score represents her status within her school. For every 10 points of Fame, a student gains a cumulative +1 bonus on Diplomacy checks made against members of that school. A student's Prestige Points (PP) reflect the goodwill, research grants, and personal favors built up during her education. These points, when spent, are spent permanently. Each specific school lists a few awards that are available only for members, and any member of any school may purchase the generic awards below with her Prestige Points. Fame is not expended—when a reward lists only a required Fame score, a student receives the reward upon reaching that level of Fame.
+A student's Fame score represents her status within her school. For every 10 points of Fame, a student gains a cumulative +1 bonus on [Diplomacy](../rules/skills/diplomacy.md) checks made against members of that school. A student's Prestige Points (PP) reflect the goodwill, research grants, and personal favors built up during her education. These points, when spent, are spent permanently. Each specific school lists a few awards that are available only for members, and any member of any school may purchase the generic awards below with her Prestige Points. Fame is not expended—when a reward lists only a required Fame score, a student receives the reward upon reaching that level of Fame.
 
-Students may not spend Prestige Points during combat, and must spend them while at school or otherwise able to contact school representatives. Students may not pool Prestige Points to obtain more expensive rewards, but they may spend Prestige Points even if they are dead, petrified, or otherwise out of commission. This represents the student having made prior arrangements with her school to perform certain actions on her behalf, such as recovering her dead body and returning it to a specific location or having it raised from the dead. In this event, the student's actual location does not impact the Prestige Point cost at all.
+Students may not spend Prestige Points during combat, and must spend them while at school or otherwise able to contact school representatives. Students may not pool Prestige Points to obtain more expensive rewards, but they may spend Prestige Points even if they are dead, [petrified](../rules/appendices/conditions.md#petrified), or otherwise out of commission. This represents the student having made prior arrangements with her school to perform certain actions on her behalf, such as recovering her dead body and returning it to a specific location or having it raised from the dead. In this event, the student's actual location does not impact the Prestige Point cost at all.
 
 ### Skill Specialization
 
@@ -54,11 +54,11 @@ Beyond the specific awards that each magic school grants, students can spend the
 
 Magic academies tend to focus primarily on research, theory, history, and debate. Many spellcasters attend academies in order to bolster their powers and become better adventurers, while others do so in order to prepare for a guild or even a secret society membership. Some attend academies simply from a joy of learning, and may desire nothing more than to become part of the academy's staff and tradition. Academies appeal primarily to arcane spellcasters, particularly those who must prepare their spells (like magi, wizards, and witches), although these schools are open to any who can pass the entrance exam and pay the fees. As the Fame scores of students of an academy increase, they gain the following rewards.
 
-**Library Access (5 Fame)**: You have earned the right to research among the academy's special collections and secure libraries. A day of research grants you a +2 circumstance bonus on any one Knowledge skill check.
+**Library Access (5 Fame)**: You have earned the right to research among the academy's special collections and secure libraries. A day of research grants you a +2 circumstance bonus on any one [Knowledge](../rules/skills/knowledge.md) skill check.
 
 **Senior Student (20 Fame)**: You are a senior student, and may purchase potions, scrolls, and wands from the city in which the academy is located (or the closest small city if the academy is located in a smaller settlement than that) at a 10% discount.
 
-**Professor's Assistant (35 Fame)**: You assist a professor of your choice in teaching her classes. You are now specialized in Knowledge (arcana) and Spellcraft, and can recruit a student to aid you in research when you use the academy library, which increases the circumstance bonus you gain from library access to +4.
+**Professor's Assistant (35 Fame)**: You assist a professor of your choice in teaching her classes. You are now specialized in Knowledge (arcana) and [Spellcraft](../rules/skills/spellcraft.md), and can recruit a student to aid you in research when you use the academy library, which increases the circumstance bonus you gain from library access to +4.
 
 **Full Professor (50 Fame)**: You are hired by the academy to serve as a professor. You no longer need to pay tuition. Every time you would normally pay tuition, you instead earn that amount of gold as your salary.
 
@@ -98,7 +98,7 @@ The largest and most respected school of arcane magic in the region focuses on t
 **Entrance Exam**: DC 17 Knowledge (arcana) check  
 **Tuition**: 200 gp/semester
 
-**Education Checks**: Knowledge (any), Linguistics, Spellcraft  
+**Education Checks**: Knowledge (any), [Linguistics](../rules/skills/linguistics.md), Spellcraft  
 **Semester**: 6 months  
 **Flunk**: 4 consecutive failed Education checks
 
@@ -108,7 +108,7 @@ The largest and most respected school of arcane magic in the region focuses on t
 
 **Research Grant (20 Fame, 5 PP)**: The university helps pay for a magic spell or magic item you wish to create. The total cost of the research or item creation is reduced by 25%.
 
-**Scholar (2 PP)**: Your studies have paid off. You become specialized in one of the following skills: Knowledge (arcana), Knowledge (planes), Linguistics, Spellcraft, or Use Magic Device.
+**Scholar (2 PP)**: Your studies have paid off. You become specialized in one of the following skills: Knowledge (arcana), Knowledge (planes), Linguistics, Spellcraft, or [Use Magic Device](../rules/skills/use-magic-device.md).
 
 ### The Ancient Jungle Academy
 
@@ -147,10 +147,10 @@ Spellcaster guilds are superficially similar to academies in that their members 
 Growing swiftly and welcoming students from far and wide, this opera house is building a dangerous reputation for fostering "free thinkers."
 
 **Entrance Fee**: 500 gp  
-**Entrance Exam**: DC 17 Perform (sing) check  
+**Entrance Exam**: DC 17 [Perform](../rules/skills/perform.md) (sing) check  
 **Tuition**: 200 gp/semester
 
-**Education Checks**: Bluff, Diplomacy, Linguistics, Knowledge (nobility), Perform (any)  
+**Education Checks**: [Bluff](../rules/skills/bluff.md), Diplomacy, Linguistics, Knowledge (nobility), Perform (any)  
 **Semester**: 6 months  
 **Flunk**: 3 consecutive failed Education checks
 
@@ -167,10 +167,10 @@ Growing swiftly and welcoming students from far and wide, this opera house is bu
 Strange new soldiers are alchemically and magically constructed in the experimental laboratories of the fleshforges.
 
 **Entrance Fee**: 200 gp  
-**Entrance Exam**: DC 15 Craft (alchemy) check  
+**Entrance Exam**: DC 15 [Craft](../rules/skills/craft.md) (alchemy) check  
 **Tuition**: 100 gp/semester
 
-**Education Checks**: Craft (alchemy), Heal, Knowledge (arcana), Spellcraft  
+**Education Checks**: Craft (alchemy), [Heal](../rules/skills/heal.md), Knowledge (arcana), Spellcraft  
 **Semester**: 6 months  
 **Flunk**: 3 consecutive failed Education checks
 
@@ -188,7 +188,7 @@ One of the most powerful and notorious guilds of a lawless city, led by a master
 **Entrance Exam**: DC 20 Craft (alchemy) check  
 **Tuition**: 100 gp/semester
 
-**Education Checks**: Craft (alchemy), Knowledge (local), Knowledge (nature), Stealth, Survival  
+**Education Checks**: Craft (alchemy), Knowledge (local), Knowledge (nature), [Stealth](../rules/skills/stealth.md), Survival  
 **Semester**: 4 months  
 **Flunk**: 4 consecutive failed Education checks
 
@@ -206,7 +206,7 @@ The premier bardic college in a great trading city, a guild where one can learn 
 **Entrance Exam**: DC 15 Perform (any) check  
 **Tuition**: 50 gp/semester
 
-**Education Checks**: Acrobatics, Bluff, Knowledge (local), Perform (any), Sleight of Hand  
+**Education Checks**: [Acrobatics](../rules/skills/acrobatics.md), Bluff, Knowledge (local), Perform (any), Sleight of Hand  
 **Semester**: 4 months  
 **Flunk**: 4 consecutive failed Education checks
 
@@ -214,7 +214,7 @@ The premier bardic college in a great trading city, a guild where one can learn 
 
 **Lingering Illusions (2 PP)**: You've mastered a method that allows some of your illusions to persist for longer than normal. Any illusion spell you cast that has a duration that requires concentration lasts for 1 additional round after you cease concentrating on the illusion.
 
-**Hidden Wand (30 Fame, 2 PP)**: You've trained under the philosophy that performances enhanced by magic are best when the magical enhancement itself is not obvious. When you activate a wand (or any similar spell trigger item that's relatively easy to conceal), you may make a Bluff check (opposed by the Perception check of any creature able to see you) to conceal the use of the item.
+**Hidden Wand (30 Fame, 2 PP)**: You've trained under the philosophy that performances enhanced by magic are best when the magical enhancement itself is not obvious. When you activate a wand (or any similar spell trigger item that's relatively easy to conceal), you may make a Bluff check (opposed by the [Perception](../rules/skills/perception.md) check of any creature able to see you) to conceal the use of the item.
 
 ## Monasteries
 
@@ -248,12 +248,12 @@ Sacred place of learning for the faithful of a church. Every religion maintains 
 
 - **Civilization (3 PP)**: You gain the Blessing of Civilization, a ritual that bolsters several skills while you are in a specific city. Pick a settlement when you gain this boon. You gain a +2 circumstance bonus on Bluff, Diplomacy, and Knowledge (local) checks made within that city. You may gain this benefit multiple times, applying it to a different city each time.
 - **Tyranny (5 PP)**: You gain the services of a specialized slave of your choice. This boon essentially grants you a temporary cohort for a number of days equal to your Fame score divided by 5. Work with your GM to determine stats for your temporary cohort.
-- **Vengeance and Lust (5 PP)**: You undergo the Ritual of 100 Stings, where you endure the kiss of several holy wasps for 1 hour, during which you take 1d6 points of Constitution damage. You gain Intimidate and Stealth as class skills, *disguise self* as a spell-like ability 1/day (caster level = your character level), or a permanent +2 resistance bonus on saving throws against poison. You may undergo the ritual three times, selecting a different benefit each time.
+- **Vengeance and Lust (5 PP)**: You undergo the Ritual of 100 Stings, where you endure the kiss of several holy wasps for 1 hour, during which you take 1d6 points of Constitution damage. You gain [Intimidate](../rules/skills/intimidate.md) and Stealth as class skills, *disguise self* as a spell-like ability 1/day (caster level = your character level), or a permanent +2 resistance bonus on saving throws against poison. You may undergo the ritual three times, selecting a different benefit each time.
 - **Revelry (5 PP)**: You undergo the Gauntlet of Inebriation, a week-long debauch of alcohol consumption and increasingly humiliating athletic contests. At the end of the Gauntlet, you gain the title "mead brother" or "mead sister" and receive Toughness as a bonus feat.
 - **Dreams and Luck (2 PP)**: By praying at a location sacred to your deity and then sleeping at that site during the full moon, you gain the Grace of the Spheres. At any one point thereafter when you make a d20 roll, you can choose to reroll that result. You must take the result of that second roll. Once you use your Grace of the Spheres, you must repeat the ritual (and spend 2 PP more) to regain the Grace of the Spheres.
 - **Hunting and Archery (5 PP)**: Your training has made you adept at successfully making extraordinary bow shots. When using a bow, you gain the Far Shot feat. If you already possess this feat, you gain a +2 competence bonus on any bow attack made at more than one range increment.
 - **War (4 PP)**: You receive the Vision in Iron, in which you catch a glimpse of the war god's reflection in an iron object (likely a suit of armor or metal weapon). The next time you are reduced to fewer than 0 hit points, you are immediately healed of 2d8+3 points of damage. Once this occurs, you can spend another 4 PP to gain another use of this ability.
-- **Nature (6 PP)**: You gain the Blessing of the Wild. Select a terrain (as defined by the ranger's favored terrain ability). You gain a +2 circumstance bonus on Knowledge (nature), Perception, and Survival checks made within this terrain. You may gain this benefit multiple times, applying it to a different terrain type each time.
+- **Nature (6 PP)**: You gain the Blessing of the Wild. Select a terrain (as defined by the ranger's favored terrain ability). You gain a +2 circumstance bonus on Knowledge (nature), Perception, and [Survival](../rules/skills/survival.md) checks made within this terrain. You may gain this benefit multiple times, applying it to a different terrain type each time.
 - **Chivalry (5 PP)**: You gain the Knight's Grace whenever you are clad in full plate and carry a longsword and shield. This grants you a +2 sacred bonus on all mind-affecting saving throws.
 - **Perfection (4 PP)**: You gain the ability to achieve inner focus. Once per day as a swift action, your inner focus grants a +1 insight bonus on an attack roll. If you have any ki points (such as those granted by monk levels), you gain 1 bonus ki point and can activate your inner focus multiple times per day by spending 1 ki point as a swift action.
 - **Monsters and Madness (3 PP)**: You undergo the torturous Ritual of Seven Scars, in which you permanently brand yourself with intimidating marks. You become specialized in Intimidate, and gain a +1 bonus to the save DC of any fear effect you create.
@@ -301,7 +301,7 @@ A society that uses a school as a "front" for its true purpose: to decipher the 
 **Entrance Exam**: DC 20 Use Magic Device check  
 **Tuition**: 100 gp/semester
 
-**Education Checks**: Bluff, Disguise, Knowledge (arcana), Knowledge (religion), Spellcraft, Use Magic Device  
+**Education Checks**: Bluff, [Disguise](../rules/skills/disguise.md), Knowledge (arcana), Knowledge (religion), Spellcraft, Use Magic Device  
 **Semester**: 4 months  
 **Flunk**: 3 consecutive failed Education checks
 

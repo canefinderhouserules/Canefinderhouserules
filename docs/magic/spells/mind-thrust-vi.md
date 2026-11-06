@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** Will half; **Spell Resistance** yes
 
-This functions as mind thrust IV, but the target takes 1d8 points of damage per caster level (maximum 20d8) and is exhausted and stunned for 1 round if it fails its save. This spell can be undercast.
+This functions as mind thrust IV, but the target takes 1d8 points of damage per caster level (maximum 20d8) and is [exhausted](../../rules/appendices/conditions.md#exhausted) and [stunned](../../rules/appendices/conditions.md#stunned) for 1 round if it fails its save. This spell can be undercast.

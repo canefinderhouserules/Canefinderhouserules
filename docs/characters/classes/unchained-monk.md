@@ -53,7 +53,7 @@ When wearing armor, using a shield, or carrying a medium or heavy load, a monk l
 
 ### AC Bonus (Ex)
 
-When unarmored and unencumbered, the monk adds his Wisdom bonus (if any) to his AC and CMD. In addition, a monk gains a +1 bonus to AC and CMD at 4th level. This bonus increases by 1 for every four monk levels thereafter, up to a maximum of +5 at 20th level. These bonuses to AC apply even against touch attacks or when the monk is flat-footed. He loses these bonuses when he is immobilized or helpless, when he wears any armor, when he carries a shield, or when he carries a medium or heavy load.
+When unarmored and unencumbered, the monk adds his Wisdom bonus (if any) to his AC and CMD. In addition, a monk gains a +1 bonus to AC and CMD at 4th level. This bonus increases by 1 for every four monk levels thereafter, up to a maximum of +5 at 20th level. These bonuses to AC apply even against touch attacks or when the monk is [flat-footed](../../rules/appendices/conditions.md#flat-footed). He loses these bonuses when he is immobilized or [helpless](../../rules/appendices/conditions.md#helpless), when he wears any armor, when he carries a shield, or when he carries a medium or heavy load.
 
 ### Bonus Feat
 
@@ -65,7 +65,7 @@ At 1st level, a monk can make a flurry of blows as a full-attack action. When ma
 
 ### Stunning Fist (Ex)
 
-At 1st level, the monk gains [Stunning Fist](../../rules/feats/stunning-fist.md) as a bonus feat, even if he does not meet the prerequisites. At 4th level, and every 4 levels thereafter, the monk gains the ability to apply a new condition to the target of his Stunning Fist. This condition replaces stunning the target for 1 round, and a successful saving throw still negates the effect. At 4th level, the monk can choose to make the target fatigued. At 8th level, he can make the target sickened for 1 minute. At 12th level, he can make the target staggered for 1d6+1 rounds. At 16th level, he can permanently blind or deafen the target. At 20th level, he can paralyze the target for 1d6+1 rounds. The monk must choose which condition will apply before the attack roll is made. These effects do not stack with themselves (a creature fatigued by Stunning Fist cannot become exhausted if hit by Stunning Fist again), but additional hits do increase the duration.
+At 1st level, the monk gains [Stunning Fist](../../rules/feats/stunning-fist.md) as a bonus feat, even if he does not meet the prerequisites. At 4th level, and every 4 levels thereafter, the monk gains the ability to apply a new condition to the target of his Stunning Fist. This condition replaces stunning the target for 1 round, and a successful saving throw still negates the effect. At 4th level, the monk can choose to make the target [fatigued](../../rules/appendices/conditions.md#fatigued). At 8th level, he can make the target [sickened](../../rules/appendices/conditions.md#sickened) for 1 minute. At 12th level, he can make the target [staggered](../../rules/appendices/conditions.md#staggered) for 1d6+1 rounds. At 16th level, he can permanently blind or deafen the target. At 20th level, he can paralyze the target for 1d6+1 rounds. The monk must choose which condition will apply before the attack roll is made. These effects do not stack with themselves (a creature fatigued by Stunning Fist cannot become [exhausted](../../rules/appendices/conditions.md#exhausted) if hit by Stunning Fist again), but additional hits do increase the duration.
 
 ### Unarmed Strike (Ex)
 
@@ -118,7 +118,7 @@ A monk with this ability adds half the base speed bonus from his fast movement a
 
 #### Breaking-Down Koan (Su)
 
-A monk with this ability can spend 1 ki point as a swift action to present a paradox, riddle, or complicated question to a creature within 30 feet. The creature must succeed at a Will save (DC = 10 + 1/2 the monk's level + his Wisdom modifier) or be confused for 1 round. This is a mind-affecting, language-dependent effect. A monk must be at least 8th level before selecting this ki power.
+A monk with this ability can spend 1 ki point as a swift action to present a paradox, riddle, or complicated question to a creature within 30 feet. The creature must succeed at a Will save (DC = 10 + 1/2 the monk's level + his Wisdom modifier) or be [confused](../../rules/appendices/conditions.md#confused) for 1 round. This is a mind-affecting, language-dependent effect. A monk must be at least 8th level before selecting this ki power.
 
 #### Building-Up Koan (Su)
 
@@ -134,7 +134,7 @@ By spending 1 point from his ki pool, a monk with this power can remove one toxi
 
 #### Diamond Mind (Su)
 
-By spending 1 point from his ki pool as a swift action, a monk with this power can suppress a fear effect affecting him as if using remove fear, using his monk level as his caster level. He can spend 2 ki points to activate this ability even when frightened or panicked. A monk must be at least 6th level before selecting this ki power.
+By spending 1 point from his ki pool as a swift action, a monk with this power can suppress a fear effect affecting him as if using remove fear, using his monk level as his caster level. He can spend 2 ki points to activate this ability even when [frightened](../../rules/appendices/conditions.md#frightened) or [panicked](../../rules/appendices/conditions.md#panicked). A monk must be at least 6th level before selecting this ki power.
 
 #### Diamond Resilience (Ex)
 
@@ -174,7 +174,7 @@ By spending 1 point from his ki pool as an immediate action, a monk with this ki
 
 #### High Jump (Ex)
 
-A monk with this ki power adds his level as a bonus on all Acrobatics checks to jump, both for vertical jumps and horizontal jumps. In addition, he always counts as having a running start when attempting Acrobatics checks to jump. By spending 1 point from his ki pool as a swift action, the monk gains a +20 bonus on Acrobatics checks to jump for 1 round.
+A monk with this ki power adds his level as a bonus on all [Acrobatics](../../rules/skills/acrobatics.md) checks to jump, both for vertical jumps and horizontal jumps. In addition, he always counts as having a running start when attempting Acrobatics checks to jump. By spending 1 point from his ki pool as a swift action, the monk gains a +20 bonus on Acrobatics checks to jump for 1 round.
 
 #### Improvised Weapon Affinity (Ex, Su)
 
@@ -202,7 +202,7 @@ A monk with this ability can spend 2 ki points to meditate as a full-round actio
 
 #### Ki Metabolism (Su)
 
-A monk with this ability uses his ki to control his metabolism. As long as he has at least 1 point remaining in his ki pool, the monk needs to eat and drink only 1/4 as often as normal, needs only 2 hours of sleep each night (including to replenish his ki pool), and can hold his breath for up to 1 hour per point of Constitution. As a move action, he can spend 1 ki point to enter a state of suspended animation, falling unconscious and appearing dead to all senses. At the time he enters this state, he indicates a preset period of time or a triggering condition, after which he awakens.
+A monk with this ability uses his ki to control his metabolism. As long as he has at least 1 point remaining in his ki pool, the monk needs to eat and drink only 1/4 as often as normal, needs only 2 hours of sleep each night (including to replenish his ki pool), and can hold his breath for up to 1 hour per point of Constitution. As a move action, he can spend 1 ki point to enter a state of suspended animation, falling [unconscious](../../rules/appendices/conditions.md#unconscious) and appearing dead to all senses. At the time he enters this state, he indicates a preset period of time or a triggering condition, after which he awakens.
 
 #### Ki Mount (Su)
 
@@ -278,7 +278,7 @@ At 5th level, a monk can learn one type of style strike. Whenever he makes a flu
 
 ### Break
 
-The monk combines a writhing twist with a violent strike against a foe that is grappling him. If the monk's attack is successful, he can attempt a grapple combat maneuver check or Escape Artist check as a free action to escape a grapple, adding the strike's damage as a bonus on his check.
+The monk combines a writhing twist with a violent strike against a foe that is grappling him. If the monk's attack is successful, he can attempt a grapple combat maneuver check or [Escape Artist](../../rules/skills/escape-artist.md) check as a free action to escape a grapple, adding the strike's damage as a bonus on his check.
 
 ### Defensive Spin
 
@@ -314,7 +314,7 @@ The monk slams his head into his enemy’s head, leaving his foe reeling. If the
 
 ### Knockback Kick
 
-The monk attempts to knock his foe back with a powerful kick. If the attack hits, the monk can attempt a free combat maneuver check against the foe (using the base attack bonus of the attack used to hit the foe). If the check is successful, the foe is knocked 10 feet directly away from the monk. This distance increases by 10 feet for every 5 by which the check exceeds the foe’s CMD, to a maximum distance equal to the monk’s fast movement bonus. This movement does not provoke an attack of opportunity. The foe stops moving if it strikes another creature, barrier, or otherwise solid object. The creature is not knocked prone by this movement. The monk must attack with a kick to use this style strike.
+The monk attempts to knock his foe back with a powerful kick. If the attack hits, the monk can attempt a free combat maneuver check against the foe (using the base attack bonus of the attack used to hit the foe). If the check is successful, the foe is knocked 10 feet directly away from the monk. This distance increases by 10 feet for every 5 by which the check exceeds the foe’s CMD, to a maximum distance equal to the monk’s fast movement bonus. This movement does not provoke an attack of opportunity. The foe stops moving if it strikes another creature, barrier, or otherwise solid object. The creature is not knocked [prone](../../rules/appendices/conditions.md#prone) by this movement. The monk must attack with a kick to use this style strike.
 
 ### Leg Sweep
 

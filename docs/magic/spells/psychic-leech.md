@@ -8,4 +8,4 @@
 **Duration** 1 minute/level (D)  
 **Saving Throw** Will partial; **Spell Resistance** yes
 
-The target experiences feelings of ennui and lethargy, becoming fatigued for the spell's duration. While the target is fatigued and is within the spell's range, you gain a +2 enhancement bonus to Strength and Dexterity. On a successful save, the target is fatigued for only 1d4 rounds and you receive no bonus. This spell has no effect if it targets a creature that is already fatigued.
+The target experiences feelings of ennui and lethargy, becoming [fatigued](../../rules/appendices/conditions.md#fatigued) for the spell's duration. While the target is fatigued and is within the spell's range, you gain a +2 enhancement bonus to Strength and Dexterity. On a successful save, the target is fatigued for only 1d4 rounds and you receive no bonus. This spell has no effect if it targets a creature that is already fatigued.

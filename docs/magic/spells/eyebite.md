@@ -19,9 +19,9 @@ Each round, you can target a single living creature, striking it with waves of p
 
 The effects are cumulative and concurrent.
 
-*Sickened*: Sudden pain and fever sweeps over the subject’s body. A creature affected by this spell remains sickened for 10 minutes per caster level. The effects cannot be negated by a [*remove disease*](remove-disease.md) or [*heal*](heal.md) spell, but a [*remove curse*](remove-curse.md) is effective.
+*Sickened*: Sudden pain and fever sweeps over the subject’s body. A creature affected by this spell remains [sickened](../../rules/appendices/conditions.md#sickened) for 10 minutes per caster level. The effects cannot be negated by a [*remove disease*](remove-disease.md) or [*heal*](heal.md) spell, but a [*remove curse*](remove-curse.md) is effective.
 
-*Panicked*: The subject becomes panicked for 1d4 rounds. Even after the panic ends, the creature remains shaken for 10 minutes per caster level, and it automatically becomes panicked again if it comes within sight of you during that time. This is a fear effect.
+*Panicked*: The subject becomes [panicked](../../rules/appendices/conditions.md#panicked) for 1d4 rounds. Even after the panic ends, the creature remains [shaken](../../rules/appendices/conditions.md#shaken) for 10 minutes per caster level, and it automatically becomes panicked again if it comes within sight of you during that time. This is a fear effect.
 
 *Comatose*: The subject falls into a catatonic coma for 10 minutes per caster level. During this time, it cannot be awakened by any means short of dispelling the effect. This is not a [*sleep*](sleep.md) effect, and thus elves are not immune to it.
 

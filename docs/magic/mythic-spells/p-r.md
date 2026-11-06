@@ -12,13 +12,13 @@ If you expend three uses of mythic power, the poison bypasses the creature's poi
 
 ## Phantasmal Killer
 
-If the target fails its Will save but succeeds at its Fortitude save, the phantasmal killer persists in the target's mind, giving it the dazed condition until your next turn. On your next turn, the target must attempt another Fortitude save against the phantasm. Success means it takes 3d6 points of damage; failure means it dies from fear.
+If the target fails its Will save but succeeds at its Fortitude save, the phantasmal killer persists in the target's mind, giving it the [dazed](../../rules/appendices/conditions.md#dazed) condition until your next turn. On your next turn, the target must attempt another Fortitude save against the phantasm. Success means it takes 3d6 points of damage; failure means it dies from fear.
 
 **Augmented (6th)**: If you expend two uses of mythic power, the spell can affect a living target that is immune to fear, illusions, or mind-affecting effects.
 
 ## Phantom Steed
 
-The steed's rider automatically succeeds at Ride checks to remain mounted. The mount's hit points increase to 10 plus 2 per caster level, and its speed increases to 30 feet per 2 caster levels (maximum 150 feet).
+The steed's rider automatically succeeds at [Ride](../../rules/skills/ride.md) checks to remain mounted. The mount's hit points increase to 10 plus 2 per caster level, and its speed increases to 30 feet per 2 caster levels (maximum 150 feet).
 
 **Augmented (3rd)**: If you expend two uses of mythic power, the phantom steed is incorporeal, but its rider can interact with it normally.
 
@@ -36,7 +36,7 @@ If you've been to the destination plane and are familiar with a location there, 
 
 ## Polar Ray
 
-The damage dealt increases to 1d8 points of cold damage per caster level (maximum 25d8) and 1d6 points of Dexterity drain. If the target takes damage from this spell, it becomes partially encased in ice, reducing its speed by half. Creatures with the cold or incorporeal subtypes or immunity to being grappled are immune to this effect. The reduced movement lasts until the ice is destroyed. Destroying the ice requires a successful Strength or dispel check against the spell's DC or dealing 1 point of bludgeoning or fire damage per caster level to the target.
+The damage dealt increases to 1d8 points of cold damage per caster level (maximum 25d8) and 1d6 points of Dexterity drain. If the target takes damage from this spell, it becomes partially encased in ice, reducing its speed by half. Creatures with the cold or incorporeal subtypes or immunity to being [grappled](../../rules/appendices/conditions.md#grappled) are immune to this effect. The reduced movement lasts until the ice is destroyed. Destroying the ice requires a successful Strength or dispel check against the spell's DC or dealing 1 point of bludgeoning or fire damage per caster level to the target.
 
 ## Power Word Blind
 
@@ -44,13 +44,13 @@ Treat the target's current hit point total as though it were lowered by 5 times 
 
 You can target a creature with more hit points than this spell could normally affect, causing it to treat all opponents as though they had concealment (200/o miss chance) for 1d4 rounds.
 
-**Augmented (3rd)**: If you expend two uses of mythic power, the magic of the word lingers around the target. Until the beginning of your next turn, if the target's hit points are reduced enough to put it in a lower category for the spell's effects, the spell affects the creature according to its new hit point total. For example, a creature in the 1 01-200 hp category reduced to 80 hp immediately becomes blinded for 1 d4+1 minutes instead of 1d4+1 rounds. The spell's effects don't diminish if the target regains hit points.
+**Augmented (3rd)**: If you expend two uses of mythic power, the magic of the word lingers around the target. Until the beginning of your next turn, if the target's hit points are reduced enough to put it in a lower category for the spell's effects, the spell affects the creature according to its new hit point total. For example, a creature in the 1 01-200 hp category reduced to 80 hp immediately becomes [blinded](../../rules/appendices/conditions.md#blinded) for 1 d4+1 minutes instead of 1d4+1 rounds. The spell's effects don't diminish if the target regains hit points.
 
 ## Power Word Kill
 
 Treat the target's current hit point total as though it were lowered by 5 times your tier. For example, a 3rd-tier archmage casting mythic power word kill would instantly kill a creature with 85 hit points or fewer.
 
-You can target a creature with more hit points than this spell could normally affect, causing it to become exhausted.
+You can target a creature with more hit points than this spell could normally affect, causing it to become [exhausted](../../rules/appendices/conditions.md#exhausted).
 
 **Augmented (6th)**: If you expend four uses of mythic power, the magic of the word lingers around the target. Until the beginning of your next turn, if the target's hit point total drops to the point that this spell would have killed it upon casting, it's instantly slain.
 
@@ -60,7 +60,7 @@ Treat the target's current hit point total as though it were lowered by 5 times 
 
 You can target a creature with more hit points than this spell could normally affect, causing it to become dazed for 1 round.
 
-**Augmented (6th)**: If you expend three uses of mythic power, the magic of the word lingers around the target. Until the beginning of your next turn, if the target's hit points are reduced enough to put it in a lower category for the spell's effects, the spell affects the creature according to its new hit point total. For example, a creature in the 1 01-150 hp category reduced to 80 hp is immediately stunned for an additional 1d4 rounds. The spell's effects don't diminish if the target regains hit points.
+**Augmented (6th)**: If you expend three uses of mythic power, the magic of the word lingers around the target. Until the beginning of your next turn, if the target's hit points are reduced enough to put it in a lower category for the spell's effects, the spell affects the creature according to its new hit point total. For example, a creature in the 1 01-150 hp category reduced to 80 hp is immediately [stunned](../../rules/appendices/conditions.md#stunned) for an additional 1d4 rounds. The spell's effects don't diminish if the target regains hit points.
 
 ## Pox Pustules
 
@@ -104,7 +104,7 @@ As mythic protection from evil, except against lawful creatures.
 
 ## Ray of Enfeeblement
 
-The Strength penalty increases to 1d8 + 1 per 2 caster levels (maximum +10). If the target fails its save, it's fatigued.
+The Strength penalty increases to 1d8 + 1 per 2 caster levels (maximum +10). If the target fails its save, it's [fatigued](../../rules/appendices/conditions.md#fatigued).
 
 ## Reduce Person
 
@@ -114,7 +114,7 @@ Mythic reduce person counters and dispels mythic enlarge person.
 
 ## Regenerate
 
-The casting time changes to 1 standard action and the target changes to 1 living creature or corpse touched. The spell removes the blinded, dazzled, and deafened conditions. The target gains regeneration equal to your tier (overcome by acid and fire) for 1 round per caster level. If the target was killed by amputation or decapitation (such as from a vorpal weapon) within the past 1 round, the spell regenerates lost body parts and brings the creature back to life (as breath of life), treating it as if it had negative hp equal to its Constitution score.
+The casting time changes to 1 standard action and the target changes to 1 living creature or corpse touched. The spell removes the blinded, [dazzled](../../rules/appendices/conditions.md#dazzled), and [deafened](../../rules/appendices/conditions.md#deafened) conditions. The target gains regeneration equal to your tier (overcome by acid and fire) for 1 round per caster level. If the target was killed by amputation or decapitation (such as from a vorpal weapon) within the past 1 round, the spell regenerates lost body parts and brings the creature back to life (as breath of life), treating it as if it had negative hp equal to its Constitution score.
 
 ## Repel Wood
 
@@ -134,7 +134,7 @@ The damage dealt increases to 8d6 points on the 1st and 2nd rounds and 15d6 on t
 
 ## Reverse Gravity
 
-Creatures in the area or that enter the area must succeed at a Fortitude save or be nauseated.
+Creatures in the area or that enter the area must succeed at a Fortitude save or be [nauseated](../../rules/appendices/conditions.md#nauseated).
 
 **Augmented (8th)**: If you expend three uses of mythic power, once per round as a move action you may select one secured creature (one that succeeded at its Reflex save) or attached object (such as a tree or cottage) and force it to attempt a Fortitude save against the spell. The selected creature or object can weigh no more than 100 pounds per caster level. If it fails the save, it's pulled free and falls upward.
 

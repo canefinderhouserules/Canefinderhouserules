@@ -28,13 +28,13 @@ Goblin babies are almost completely self-sufficient not long after birth, and su
 
 **Goblinoid**: Goblins are humanoids with the goblinoid subtype.
 
-**Small**: Goblins are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on Stealth checks.
+**Small**: Goblins are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on [Stealth](../../rules/skills/stealth.md) checks.
 
 **Fast**: Goblins are fast for their size, and have a base speed of 30 feet.
 
 **Darkvision**: Goblins can see in the dark up to 60 feet.
 
-**Skilled**: +4 racial bonus on Ride and Stealth checks.
+**Skilled**: +4 racial bonus on [Ride](../../rules/skills/ride.md) and Stealth checks.
 
 **Languages**: Goblins begin play speaking Goblin. Goblins with high Intelligence scores can choose from the following: Common, Draconic, Dwarven, Gnoll, Gnome, Halfling, and Orc.
 
@@ -42,17 +42,17 @@ Goblin babies are almost completely self-sufficient not long after birth, and su
 
 The following racial traits may be selected instead of existing goblin racial traits. Consult your GM before selecting any of these new options.
 
-**Cave Crawler**: Some goblins are born and raised in caves and rarely see the light of day. Goblins with this trait gain a climb speed of 10 feet and the +8 racial bonus on Climb checks associated with having a climb speed. Goblins with this racial trait have a base speed of 20 feet and lose the fast movement racial trait.
+**Cave Crawler**: Some goblins are born and raised in caves and rarely see the light of day. Goblins with this trait gain a climb speed of 10 feet and the +8 racial bonus on [Climb](../../rules/skills/climb.md) checks associated with having a climb speed. Goblins with this racial trait have a base speed of 20 feet and lose the fast movement racial trait.
 
-**City Scavenger**: Goblins who live within the boundaries of human cities survive by scavenging for refuse and hunting stray animals. Goblins with this trait gain a +2 racial bonus on Perception and Survival checks, and can use Survival to forage for food while in a city. This racial trait replaces skilled.
+**City Scavenger**: Goblins who live within the boundaries of human cities survive by scavenging for refuse and hunting stray animals. Goblins with this trait gain a +2 racial bonus on [Perception](../../rules/skills/perception.md) and [Survival](../../rules/skills/survival.md) checks, and can use Survival to forage for food while in a city. This racial trait replaces skilled.
 
-**Eat Anything**: Raised with little or no proper food, many goblins have learned to survive by eating whatever they happen across and can digest nearly anything without getting sick. Goblins with this trait gain a +4 on Survival checks to forage for food and a +4 racial bonus on saves versus effects that cause the nauseated or sickened conditions. This racial trait replaces skilled.
+**Eat Anything**: Raised with little or no proper food, many goblins have learned to survive by eating whatever they happen across and can digest nearly anything without getting sick. Goblins with this trait gain a +4 on Survival checks to forage for food and a +4 racial bonus on saves versus effects that cause the [nauseated](../../rules/appendices/conditions.md#nauseated) or [sickened](../../rules/appendices/conditions.md#sickened) conditions. This racial trait replaces skilled.
 
 **Hard Head, Big Teeth**: Goblins are known for their balloonlike heads and enormous maws, but some have even more exaggeratedly large heads filled with razor-sharp teeth. Goblins with this trait gain a bite attack as a primary natural attack that deals 1d4 points of damage. This racial trait replaces skilled.
 
 **Over-Sized Ears**: While goblins’ ears are never dainty, these goblins have freakishly large ears capable of picking up even the smallest sounds. Goblins with this racial trait gain a +4 bonus on Perception checks. This racial trait replaces skilled.
 
-**Tree Runner**: In trackless rain forests and marshes, it can be difficult to find dry ground to build on. Goblin tribes living in such areas have learned to live in the treetops. These goblins gain a +4 racial bonus on Acrobatics and Climb checks. This racial trait replaces skilled.
+**Tree Runner**: In trackless rain forests and marshes, it can be difficult to find dry ground to build on. Goblin tribes living in such areas have learned to live in the treetops. These goblins gain a +4 racial bonus on [Acrobatics](../../rules/skills/acrobatics.md) and Climb checks. This racial trait replaces skilled.
 
 **Weapon Familiarity**: Goblins’ traditional weapons are the [dogslicer](../../equipment/weapons-martial.md#martial-light-melee-weapons) and the [horsechopper](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), weapons designed specifically to bring down their most hated foes. Goblins with this trait are proficient with the dogslicer and the horsechopper, and treat any weapon with the word “goblin” in it as [martial weapons](../../equipment/weapons-martial.md). This racial trait replaces skilled.
 
@@ -153,5 +153,5 @@ The following items are just some of the pieces of equipment used by goblins.
 
 ### Junk Tinker
 
-Goblins use ramshackle equipment and vehicles that seem like they should never function. Goblins gain a +2 racial bonus on driving checks and on Craft checks to build or repair weapons or vehicles without the proper tools. They can make the attempt with any material that can hold the right shape for a few uses, but normally unfit materials produce items with the fragile quality. This racial trait alters skilled, replacing the racial bonus on Stealth checks.
+Goblins use ramshackle equipment and vehicles that seem like they should never function. Goblins gain a +2 racial bonus on driving checks and on [Craft](../../rules/skills/craft.md) checks to build or repair weapons or vehicles without the proper tools. They can make the attempt with any material that can hold the right shape for a few uses, but normally unfit materials produce items with the fragile quality. This racial trait alters skilled, replacing the racial bonus on Stealth checks.
 

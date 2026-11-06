@@ -90,11 +90,11 @@ At 5th level and every 3 levels thereafter, a mesmerist can choose to learn a ne
 
 ### Consummate Liar
 
-A mesmerist adds 1/2 his mesmerist level (minimum 1) as a bonus on all Bluff checks. In addition, the mesmerist qualifies for the [Improved Feint](../../rules/feats/improved-feint.md) and [Greater Feint](../../rules/feats/greater-feint.md) feats, even if he doesn’t have [Combat Expertise](../../rules/feats/combat-expertise.md) or an Intelligence score of at least 13. He can also ignore Combat Expertise and an Intelligence score of 13 as prerequisites for other feats that require Improved Feint or Greater Feint.
+A mesmerist adds 1/2 his mesmerist level (minimum 1) as a bonus on all [Bluff](../../rules/skills/bluff.md) checks. In addition, the mesmerist qualifies for the [Improved Feint](../../rules/feats/improved-feint.md) and [Greater Feint](../../rules/feats/greater-feint.md) feats, even if he doesn’t have [Combat Expertise](../../rules/feats/combat-expertise.md) or an Intelligence score of at least 13. He can also ignore Combat Expertise and an Intelligence score of 13 as prerequisites for other feats that require Improved Feint or Greater Feint.
 
 ### Hypnotic Stare (Su)
 
-A mesmerist can focus his stare on one creature within 30 feet as a swift action. That creature takes a –2 penalty on Will saving throws. This penalty changes to –3 at 8th level. A mesmerist can maintain his stare against only one opponent at a time; it remains in effect until the mesmerist stares at a new target, the opponent dies, the opponent moves farther than 30 feet away, or the mesmerist falls unconscious or dies. The mesmerist can remove the memory of his stare from the target’s mind; the creature doesn’t remember that it was affected (nor does it realize that it is currently being affected) unless the mesmerist allows it. The hypnotic stare is a psychic effect, and relies more on the mesmerist’s focus than the target’s perception of his stare. It can’t be avoided in the same ways a gaze attack can. The mesmerist can use this ability even while blinded, but must succeed at a DC 20 concentration check to do so. Staring at a creature requires the mesmerist’s focus, so if he uses a gaze attack or similar ability, he must target the subject of his hypnotic stare or voluntarily end the stare. The penalties from multiple mesmerists’ stares don’t stack, nor do they stack with penalties from witches’ evil eye hexes. This is a mind-affecting effect.
+A mesmerist can focus his stare on one creature within 30 feet as a swift action. That creature takes a –2 penalty on Will saving throws. This penalty changes to –3 at 8th level. A mesmerist can maintain his stare against only one opponent at a time; it remains in effect until the mesmerist stares at a new target, the opponent dies, the opponent moves farther than 30 feet away, or the mesmerist falls [unconscious](../../rules/appendices/conditions.md#unconscious) or dies. The mesmerist can remove the memory of his stare from the target’s mind; the creature doesn’t remember that it was affected (nor does it realize that it is currently being affected) unless the mesmerist allows it. The hypnotic stare is a psychic effect, and relies more on the mesmerist’s focus than the target’s perception of his stare. It can’t be avoided in the same ways a gaze attack can. The mesmerist can use this ability even while [blinded](../../rules/appendices/conditions.md#blinded), but must succeed at a DC 20 concentration check to do so. Staring at a creature requires the mesmerist’s focus, so if he uses a gaze attack or similar ability, he must target the subject of his hypnotic stare or voluntarily end the stare. The penalties from multiple mesmerists’ stares don’t stack, nor do they stack with penalties from witches’ evil eye hexes. This is a mind-affecting effect.
 
 ### Knacks
 
@@ -116,7 +116,7 @@ The subject can avoid damage from magical and unusual attacks. The mesmerist can
 
 #### Break Stupor
 
-The mesmerist can trigger this trick whenever the subject is under an effect such as the fascinated condition or magical slumber as per the [*sleep*](../../magic/spells/sleep.md) spell that would be ended by the subject taking damage or by an obvious threat. The trick sends a momentary phantom threat and sensation of pain, ending the effect. This ability works fast enough to prevent a sleeping creature from falling prone or dropping what it is holding, if the mesmerist uses it immediately. The mesmerist can also trigger the trick if the subject becomes confused as per [*confusion*](../../magic/spells/confusion.md), but if he does so, the subject attacks the mesmerist on its next turn, as if the mesmerist attacked the subject.
+The mesmerist can trigger this trick whenever the subject is under an effect such as the [fascinated](../../rules/appendices/conditions.md#fascinated) condition or magical slumber as per the [*sleep*](../../magic/spells/sleep.md) spell that would be ended by the subject taking damage or by an obvious threat. The trick sends a momentary phantom threat and sensation of pain, ending the effect. This ability works fast enough to prevent a sleeping creature from falling [prone](../../rules/appendices/conditions.md#prone) or dropping what it is holding, if the mesmerist uses it immediately. The mesmerist can also trigger the trick if the subject becomes [confused](../../rules/appendices/conditions.md#confused) as per [*confusion*](../../magic/spells/confusion.md), but if he does so, the subject attacks the mesmerist on its next turn, as if the mesmerist attacked the subject.
 
 #### Compel Alacrity
 
@@ -124,7 +124,7 @@ A dash of mental speed lets the subject push past her physical limits to avoid a
 
 #### Enchanting Words
 
-The mesmerist can trigger this trick whenever the subject attempts a Diplomacy or Intimidate check to adjust a creature's attitude. The subject can use the mesmerist's Charisma modifier instead of her own Charisma modifier on the check. If the subject uses Intimidate, the adjustment in attitude lasts an additional number of minutes equal to 10 × the mesmerist's Charisma modifier (minimum of 10 additional minutes).
+The mesmerist can trigger this trick whenever the subject attempts a [Diplomacy](../../rules/skills/diplomacy.md) or [Intimidate](../../rules/skills/intimidate.md) check to adjust a creature's attitude. The subject can use the mesmerist's Charisma modifier instead of her own Charisma modifier on the check. If the subject uses Intimidate, the adjustment in attitude lasts an additional number of minutes equal to 10 × the mesmerist's Charisma modifier (minimum of 10 additional minutes).
 
 #### False Flanker
 
@@ -136,7 +136,7 @@ A veil of illusion makes the subject appear to be someone else and then transfor
 
 #### Gift of Will
 
-A small portion of the mesmerist’s vast mental power buttresses his ally’s mind. The mesmerist can trigger this trick when the subject attempts a Will saving throw or a Sense Motive check, or is targeted by an Intimidate check to demoralize her. For a saving throw, the subject uses the mesmerist’s Will saving throw bonus instead of her own. For a Sense Motive check or Intimidate check, she adds the mesmerist’s Charisma bonus as a morale bonus on the check or to the DC. The mesmerist can’t implant this trick on himself.
+A small portion of the mesmerist’s vast mental power buttresses his ally’s mind. The mesmerist can trigger this trick when the subject attempts a Will saving throw or a [Sense Motive](../../rules/skills/sense-motive.md) check, or is targeted by an Intimidate check to demoralize her. For a saving throw, the subject uses the mesmerist’s Will saving throw bonus instead of her own. For a Sense Motive check or Intimidate check, she adds the mesmerist’s Charisma bonus as a morale bonus on the check or to the DC. The mesmerist can’t implant this trick on himself.
 
 #### Levitation Buffer
 
@@ -146,7 +146,7 @@ Pushing enemies away requires the mesmerist to attempt a bull rush combat maneuv
 
 #### Life Review
 
-The mesmerist can trigger this trick when the subject attempts an Intelligence or Knowledge check to remember a previous experience. The subject receives flashes of her entire life up to this point. She can use the mesmerist's Charisma modifier in place of her Intelligence modifier on the check, and she can attempt the check untrained. The subject cannot learn information that she has not previously read, heard, or otherwise experienced at some point during her life when using this ability.
+The mesmerist can trigger this trick when the subject attempts an Intelligence or [Knowledge](../../rules/skills/knowledge.md) check to remember a previous experience. The subject receives flashes of her entire life up to this point. She can use the mesmerist's Charisma modifier in place of her Intelligence modifier on the check, and she can attempt the check untrained. The subject cannot learn information that she has not previously read, heard, or otherwise experienced at some point during her life when using this ability.
 
 #### Linked Reaction
 
@@ -200,7 +200,7 @@ A cloud of smoke pops up around the subject, foiling attacks. The mesmerist can 
 
 #### Vanish Arrow
 
-With a flourish, the mesmerist snatches a projectile from an enemy before it can be shot. The mesmerist can trigger this trick when the subject is targeted by a ranged weapon attack, before the attack roll is made. The mesmerist attempts a Sleight of Hand check opposed by the attacker’s Perception check. If the mesmerist succeeds, that ranged attack automatically misses, and the projectile appears stowed on the mesmerist’s person. If the attacker is making a full attack, this affects only one of the attacks (of the mesmerist’s choice). If the attack is made with a javelin or other thrown weapon, the attacker gains a +4 bonus on its Perception check. Unusually massive ranged weapons (such as boulders or ballista bolts) and ranged attacks generated by natural attacks or spell effects are not affected by this ability.
+With a flourish, the mesmerist snatches a projectile from an enemy before it can be shot. The mesmerist can trigger this trick when the subject is targeted by a ranged weapon attack, before the attack roll is made. The mesmerist attempts a [Sleight of Hand](../../rules/skills/sleight-of-hand.md) check opposed by the attacker’s [Perception](../../rules/skills/perception.md) check. If the mesmerist succeeds, that ranged attack automatically misses, and the projectile appears stowed on the mesmerist’s person. If the attacker is making a full attack, this affects only one of the attacks (of the mesmerist’s choice). If the attack is made with a javelin or other thrown weapon, the attacker gains a +4 bonus on its Perception check. Unusually massive ranged weapons (such as boulders or ballista bolts) and ranged attacks generated by natural attacks or spell effects are not affected by this ability.
 
 #### Painful Stare (Su)
 
@@ -252,15 +252,15 @@ At 3rd level, the mesmerist can help allies shake off harmful conditions—espec
 
 ### Minor Conditions
 
-Fascinated, shaken.
+Fascinated, [shaken](../../rules/appendices/conditions.md#shaken).
 
 ### Moderate Conditions
 
-Confused, dazed, frightened, sickened.
+Confused, [dazed](../../rules/appendices/conditions.md#dazed), [frightened](../../rules/appendices/conditions.md#frightened), [sickened](../../rules/appendices/conditions.md#sickened).
 
 ### Greater Conditions
 
-Cowering, nauseated, panicked, stunned. A 14th level, the mesmerist can instead expend one use of touch treatment to replicate the effects of break enchantment. This targets only one creature the mesmerist is touching and follows all other restrictions of touch treatment.
+[Cowering](../../rules/appendices/conditions.md#cowering), [nauseated](../../rules/appendices/conditions.md#nauseated), [panicked](../../rules/appendices/conditions.md#panicked), [stunned](../../rules/appendices/conditions.md#stunned). A 14th level, the mesmerist can instead expend one use of touch treatment to replicate the effects of break enchantment. This targets only one creature the mesmerist is touching and follows all other restrictions of touch treatment.
 
 ### Manifold Tricks (Su)
 
@@ -292,7 +292,7 @@ The subject appears to die, but actually can stealthily move about. The mesmeris
 
 #### Free in Body
 
-When constrained, the subject can easily slip loose. The mesmerist can trigger this trick when the subject begins its turn grappled or under an effect that impedes its movement (including paralysis, solid fog, slow, and web). The subject gains the benefits of freedom of movement for 1 minute.
+When constrained, the subject can easily slip loose. The mesmerist can trigger this trick when the subject begins its turn [grappled](../../rules/appendices/conditions.md#grappled) or under an effect that impedes its movement (including paralysis, solid fog, slow, and web). The subject gains the benefits of freedom of movement for 1 minute.
 
 #### Greater Mask Misery
 

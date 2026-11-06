@@ -8,4 +8,4 @@
 **Duration** 1 minute/level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes
 
-The target of this spell is the subject of adoration by those whom it tries to affect with Diplomacy or during performance combat. If the target is out of combat, it receives a +2 morale bonus on all Diplomacy checks it makes to influence creatures. If the creature is engaged in performance combat, the target gains a +2 morale bonus on all performance combat checks.
+The target of this spell is the subject of adoration by those whom it tries to affect with [Diplomacy](../../rules/skills/diplomacy.md) or during performance combat. If the target is out of combat, it receives a +2 morale bonus on all Diplomacy checks it makes to influence creatures. If the creature is engaged in performance combat, the target gains a +2 morale bonus on all performance combat checks.

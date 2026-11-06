@@ -6,4 +6,4 @@ Your terrible attacks strike fear into your enemies.
 
 **Prerequisites**: [Power Attack](power-attack.md), Intimidate 6 ranks.
 
-**Benefit**: When you damage an opponent with a [Power Attack](power-attack.md), you may make an immediate Intimidate check as a free action to attempt to demoralize your opponent.
+**Benefit**: When you damage an opponent with a [Power Attack](power-attack.md), you may make an immediate [Intimidate](../skills/intimidate.md) check as a free action to attempt to demoralize your opponent.

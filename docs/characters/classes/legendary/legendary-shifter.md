@@ -110,7 +110,7 @@ While a legendary shifter is under the effects of a polymorph (such as change sh
 
 #### Wild Empathy (Ex)
 
-A legendary shifter can improve the attitude of an animal. This ability functions as a Diplomacy check to improve the attitude of a person. The legendary shifter rolls 1d20 and adds their shifter level and Charisma modifier to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
+A legendary shifter can improve the attitude of an animal. This ability functions as a [Diplomacy](../../../rules/skills/diplomacy.md) check to improve the attitude of a person. The legendary shifter rolls 1d20 and adds their shifter level and Charisma modifier to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
 
 To use wild empathy, the legendary shifter and the animal must be within 30 feet of one another and under normal conditions. Generally, influencing an animal in this way takes 1 minute but, as with influencing people, it might take more or less time.
 
@@ -120,11 +120,11 @@ The legendary shifter can also use this ability to influence a magical beast wit
 
 At 2nd level, when unarmored, not using a shield, unencumbered, and conscious, the legendary shifter adds their Wisdom bonus (if any) to their AC and CMD. If they are wearing armor or using a shield, they instead add half their Wisdom bonus to their AC (minimum 0). In addition, the legendary shifter gains a +1 bonus to their AC and CMD at 4th level. This bonus increases by 1 for every 4 legendary shifter levels thereafter (up to a maximum of +5 at 20th level).
 
-These bonuses to AC apply even against touch attacks and when the legendary shifter is flat-footed, they lose these bonuses when they are immobilized or helpless. These bonuses do not stack with the [monk AC bonus](../monk.md#ac-bonus-ex) class feature.
+These bonuses to AC apply even against touch attacks and when the legendary shifter is [flat-footed](../../../rules/appendices/conditions.md#flat-footed), they lose these bonuses when they are immobilized or [helpless](../../../rules/appendices/conditions.md#helpless). These bonuses do not stack with the [monk AC bonus](../monk.md#ac-bonus-ex) class feature.
 
 #### Track (Ex)
 
-At 2nd level, a legendary shifter adds half their level as a bonus on Survival checks to follow tracks.
+At 2nd level, a legendary shifter adds half their level as a bonus on [Survival](../../../rules/skills/survival.md) checks to follow tracks.
 
 #### Woodland Stride (Ex)
 

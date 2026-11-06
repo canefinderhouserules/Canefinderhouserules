@@ -8,4 +8,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Fortitude negates (object); **Spell Resistance** yes (object)
 
-You shroud the targeted technological object or creature (such as a robot or a nanotech swarm) with magical energy. If the targeted creature fails to resist the spell, it is rendered inert and unusable (or unconscious in the case of creatures) for the spell’s duration. A creature can attempt a new Fortitude saving throw to end the effect early at the end of its turn after the first full round it is affected by this spell.
+You shroud the targeted technological object or creature (such as a robot or a nanotech swarm) with magical energy. If the targeted creature fails to resist the spell, it is rendered inert and unusable (or [unconscious](../../rules/appendices/conditions.md#unconscious) in the case of creatures) for the spell’s duration. A creature can attempt a new Fortitude saving throw to end the effect early at the end of its turn after the first full round it is affected by this spell.

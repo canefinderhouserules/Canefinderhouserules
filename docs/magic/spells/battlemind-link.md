@@ -18,4 +18,4 @@ You fuse your thoughts with an ally’s, allowing the two of you to fight in tan
 
 **Spell**: If you both cast spells and target the same area or same creature, affected creatures take a –2 penalty on their saving throw against the spells.
 
-You and the target lose these benefits if you cannot see each other or if you or the target is unconscious or helpless.
+You and the target lose these benefits if you cannot see each other or if you or the target is [unconscious](../../rules/appendices/conditions.md#unconscious) or [helpless](../../rules/appendices/conditions.md#helpless).

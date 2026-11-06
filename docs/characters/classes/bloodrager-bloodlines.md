@@ -12,11 +12,11 @@ There is a taint in your blood that is both alien and bizarre. When you bloodrag
 
 **Bloodline Powers**: While bloodraging, you gain the abilities and immunities of some aberrations, but show signs of your tainted heritage.
 
-**Staggering Strike (Su)**: At 1st level, when you confirm a critical hit the target must succeed at a Fortitude saving throw or be staggered for 1 round. The DC of this save is equal to 10 + 1/2 your bloodrager level + your Constitution modifier. These effects stack with the [Staggering Critical](../../rules/feats/staggering-critical.md) feat; the target must save against each effect individually.
+**Staggering Strike (Su)**: At 1st level, when you confirm a critical hit the target must succeed at a Fortitude saving throw or be [staggered](../../rules/appendices/conditions.md#staggered) for 1 round. The DC of this save is equal to 10 + 1/2 your bloodrager level + your Constitution modifier. These effects stack with the [Staggering Critical](../../rules/feats/staggering-critical.md) feat; the target must save against each effect individually.
 
 **Abnormal Reach (Su)**: At 4th level, your limbs elongate; your reach increases by 5 feet.
 
-**Aberrant Fortitude (Su)**: At 8th level, you become immune to the sickened and nauseated conditions.
+**Aberrant Fortitude (Su)**: At 8th level, you become immune to the [sickened](../../rules/appendices/conditions.md#sickened) and [nauseated](../../rules/appendices/conditions.md#nauseated) conditions.
 
 **Unusual Anatomy (Su)**: At 12th level, your internal anatomy shifts and changes, giving you a 50% chance to negate any critical hit or sneak attack that hits you. The damage is instead rolled normally.
 
@@ -86,7 +86,7 @@ Contact with a tainted, necromantic blood (by you or one of your ancestors) tran
 
 **Retributive Spray (Su)**: At 12th level, whenever you're hit by an attack or spell that deals slashing or piercing damage, your black blood sprays up to 10 feet toward the opponent who attacked you, striking the first creature along its path. That creature takes 1d8 points of cold damage + 1 point of cold damage for every 2 bloodrager levels you possess. A successful Reflex save (DC = 10 + 1/2 your bloodrager level + your Constitution modifier) halves the damage.
 
-**Black Blood Transfusion (Su)**: At 16th level, when you confirm a critical hit, some of your black blood seeps into the target's wounds. The next time the target would be healed by positive energy, the healing burns away the black blood and ends this effect, providing no other benefit. This ability is not effective against creatures that have no blood. The black blood transfusion persists until it negates one positive energy healing effect, but it can be removed sooner with a successful DC 25 Heal check.
+**Black Blood Transfusion (Su)**: At 16th level, when you confirm a critical hit, some of your black blood seeps into the target's wounds. The next time the target would be healed by positive energy, the healing burns away the black blood and ends this effect, providing no other benefit. This ability is not effective against creatures that have no blood. The black blood transfusion persists until it negates one positive energy healing effect, but it can be removed sooner with a successful DC 25 [Heal](../../rules/skills/heal.md) check.
 
 **Black Blood Immunity (Su)**: At 20th level, you gain immunity to cold, nonlethal damage, critical hits, and sneak attacks. You have this benefit constantly, even when not bloodraging.
 
@@ -132,13 +132,13 @@ Your bloodline is destined for great things. When you bloodrage, you exude a gre
 
 **Unstoppable (Su)**: At 16th level, any critical threats you score are automatically confirmed. Any critical threats made against you confirm only if the second roll results in a natural 20 (or is automatically confirmed).
 
-**Victory or Death (Su)**: At 20th level, you are immune to paralysis and petrification, as well as to the stunned, dazed, and staggered conditions. You have these benefits constantly, even while not bloodraging.
+**Victory or Death (Su)**: At 20th level, you are immune to paralysis and petrification, as well as to the [stunned](../../rules/appendices/conditions.md#stunned), [dazed](../../rules/appendices/conditions.md#dazed), and staggered conditions. You have these benefits constantly, even while not bloodraging.
 
 ## Draconic
 
 At some point in your family's history, a dragon interbred with your bloodline. Now, the sublime monster's ancient power fuels your bloodrage.
 
-**Bonus Feats**: Blind-Fight, Cleave, Great Fortitude, Improved Initiative, Power Attack, Skill Focus (Fly), Toughness.
+**Bonus Feats**: Blind-Fight, Cleave, Great Fortitude, Improved Initiative, Power Attack, Skill Focus ([Fly](../../rules/skills/fly.md)), Toughness.
 
 **Bonus Spells**: Shield (7th), resist energy (10th), fly (13th), fear (16th).
 
@@ -210,7 +210,7 @@ One of your ancestors was fey, or the fey realm somehow intermixed with your blo
 
 **Bloodline Powers**: The power of the natural world saturates your being, and manifests itself when you bloodrage.
 
-**Confusing Critical (Su)**: At 1st level, fey power courses through your attacks. Each time you confirm a critical hit, the target must succeed at a Will saving throw or be confused for 1 round. The DC of this save is equal to 10 + 1/2 your bloodrager level + your Constitution modifier. This is a mind-affecting compulsion effect.
+**Confusing Critical (Su)**: At 1st level, fey power courses through your attacks. Each time you confirm a critical hit, the target must succeed at a Will saving throw or be [confused](../../rules/appendices/conditions.md#confused) for 1 round. The DC of this save is equal to 10 + 1/2 your bloodrager level + your Constitution modifier. This is a mind-affecting compulsion effect.
 
 **Leaping Charger (Su)**: At 4th level, you are able to leap over overgrowth and similar impediments with ease while charging. When you charge, you ignore difficult terrain (but not other creatures). You can move through it at normal speed, and it does not impede your charge.
 
@@ -256,13 +256,13 @@ The influence of the chain-wielding devils of pain, the kytons, taints your bloo
 
 **Painful Strike (Su)**: At 1st level, when you confirm a critical hit, the target is sickened for a number of rounds equal to 1/2 your bloodrager level (minimum 1). During this time, the creature must succeed at a concentration check (DC = 15 + the spell's level) in order to cast a spell.
 
-**Grasping Chains (Su)**: At 4th level, chains cover your body and extend from your arms, grasping at the air around you and granting you a +4 bonus on Climb skill checks. At 9th level, this bonus increases to +8 and you gain a Climb speed equal to 1/2 your base speed.
+**Grasping Chains (Su)**: At 4th level, chains cover your body and extend from your arms, grasping at the air around you and granting you a +4 bonus on [Climb](../../rules/skills/climb.md) skill checks. At 9th level, this bonus increases to +8 and you gain a Climb speed equal to 1/2 your base speed.
 
 **Armor of Chains (Su)**: At 8th level, you gain resistance 5 to cold and the chains covering your body provide a +4 armor bonus to AC with no armor check penalty, maximum Dexterity bonus, or additional weight. At 16th level, the resistance increases to 10 and the armor bonus increases to +8.
 
 **Agony's Embrace (Su)**: At 12th level, whenever you're hit by a critical hit, your morale bonus to Strength from your bloodrage increases by 2 for 1d6 rounds or until your rage ends. The bonus to Strength instead increases by 4 at 16th level and by 6 at 20th level.
 
-**Unnerving Gaze (Su)**: At 16th level, your foes begin to see flashes of the faces of dead loved ones when they look at your face. You gain a gaze attack with a range of 30 feet. All foes who fail a Will save (DC = 10 + 1/2 your bloodrager level + your Charisma modifier) become shaken for 1d3 rounds.
+**Unnerving Gaze (Su)**: At 16th level, your foes begin to see flashes of the faces of dead loved ones when they look at your face. You gain a gaze attack with a range of 30 feet. All foes who fail a Will save (DC = 10 + 1/2 your bloodrager level + your Charisma modifier) become [shaken](../../rules/appendices/conditions.md#shaken) for 1d3 rounds.
 
 **Kyton Immunities (Su)**: At 20th level, you gain immunity to cold and DR 10/good and silver. You have this benefit constantly, even when not bloodraging.
 
@@ -270,7 +270,7 @@ The influence of the chain-wielding devils of pain, the kytons, taints your bloo
 
 Salamanders are fierce warriors and master smiths, and you wield their might and mastery of metal by birthright. The bloodlines of the serpentine natives of the Plane of Fire known as salamanders occasionally mingle with those of mortals.
 
-**Bonus Feats**: Cleave, Improved Grapple, [Improved Iron Will](../../rules/feats/improved-iron-will.md), Iron Will, Power Attack, Skill Focus (Perception), Toughness.
+**Bonus Feats**: Cleave, Improved Grapple, [Improved Iron Will](../../rules/feats/improved-iron-will.md), Iron Will, Power Attack, Skill Focus ([Perception](../../rules/skills/perception.md)), Toughness.
 
 **Bonus Spells**: *Lead blades* (7th), [*make whole*](../../magic/spells/make-whole.md) (10th), [*versatile weapon*](../../magic/spells/versatile-weapon.md) (13th), [*fire shield*](../../magic/spells/fire-shield.md) (warm only) (16th).
 
@@ -314,7 +314,7 @@ The blood of doppelgangers, faceless stalkers, lycanthropes, or other shapechang
 
 Those who successfully traded riddles with sphinxes sometimes find themselves or their descendants exhibiting both arcane power and violent fury. These bloodragers find being outwitted or outmaneuvered especially infuriating; though they are usually scholarly and erudite, their fits of frenzied rage are all the more terrifying in comparison.
 
-**Bonus Feats**: Alertness, [Combat Casting](../../rules/feats/combat-casting.md), [Dazzling Display](../../rules/feats/dazzling-display.md), [Improved Critical](../../rules/feats/improved-critical.md), Iron Will, [Rending Fury](../../rules/feats/rending-fury.md), Skill Focus (Intimidate), [Voice of the Sibyl](../../rules/feats/voice-of-the-sibyl.md).
+**Bonus Feats**: Alertness, [Combat Casting](../../rules/feats/combat-casting.md), [Dazzling Display](../../rules/feats/dazzling-display.md), [Improved Critical](../../rules/feats/improved-critical.md), Iron Will, [Rending Fury](../../rules/feats/rending-fury.md), Skill Focus ([Intimidate](../../rules/skills/intimidate.md)), [Voice of the Sibyl](../../rules/feats/voice-of-the-sibyl.md).
 
 **Bonus Spells**: *Divine favor* (7th), [*touch of idiocy*](../../magic/spells/touch-of-idiocy.md) (10th), [*searing light*](../../magic/spells/searing-light.md) (13th), [*bestow curse*](../../magic/spells/bestow-curse.md) (16th).
 
@@ -322,7 +322,7 @@ Those who successfully traded riddles with sphinxes sometimes find themselves or
 
 **Claws (Su)**: At 1st level, you grow claws while bloodraging. These claws are treated as natural weapons, allowing you to make two claw attacks as a full attack, using your full base attack bonus. These attacks deal 1d6 points of damage each (1d4 if you are Small) plus your Strength modifier. At 4th level, these claws are considered magic weapons for the purpose of overcoming damage reduction. At 8th level, the damage increases to 1d8 points (1d6 if you are Small). At 12th level, the critical threat range for these claws increases to 19–20.
 
-**Roar (Su)**: At 4th level, the bloodrager learns the secrets of the sphinx's roar. He can roar as a standard action a number of times per day equal to 3 + his Charisma modifier. Enemies within 60 feet of the bloodrager that can hear the roar must succeed at a Will save (DC = 10 + half the bloodrager's character level + his Charisma modifier) or become frightened for 1d6 rounds. At 10th level, the bloodrager can instead cause the targets to be panicked or stunned (bloodrager's choice) and deafened for the duration; at 16th level, the bloodrager can instead cause the targets to be paralyzed for 1 round. Whether or not the save is successful, a creature cannot be the target of the bloodrager's roar again for 24 hours.
+**Roar (Su)**: At 4th level, the bloodrager learns the secrets of the sphinx's roar. He can roar as a standard action a number of times per day equal to 3 + his Charisma modifier. Enemies within 60 feet of the bloodrager that can hear the roar must succeed at a Will save (DC = 10 + half the bloodrager's character level + his Charisma modifier) or become [frightened](../../rules/appendices/conditions.md#frightened) for 1d6 rounds. At 10th level, the bloodrager can instead cause the targets to be [panicked](../../rules/appendices/conditions.md#panicked) or stunned (bloodrager's choice) and [deafened](../../rules/appendices/conditions.md#deafened) for the duration; at 16th level, the bloodrager can instead cause the targets to be [paralyzed](../../rules/appendices/conditions.md#paralyzed) for 1 round. Whether or not the save is successful, a creature cannot be the target of the bloodrager's roar again for 24 hours.
 
 **Desert Fortitude (Su)**: At 8th level, you gain resistance 5 to electricity and fire. In addition, you gain [*endure elements*](../../magic/spells/endure-elements.md) as a constant spell-like ability and a +2 competence bonus on saves against arcane spells. At 16th level, your resistance to electricity and fire increases to 10.
 

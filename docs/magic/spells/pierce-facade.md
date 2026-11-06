@@ -8,4 +8,4 @@
 **Duration** 10 minutes/level  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-The target gains a +5 insight bonus on Perception checks to see through disguises. This bonus increases to +10 at caster level 7th.
+The target gains a +5 insight bonus on [Perception](../../rules/skills/perception.md) checks to see through disguises. This bonus increases to +10 at caster level 7th.

@@ -2,7 +2,7 @@
 
 *(Weapon Mastery)*
 
-You can use ranged weapons to help grappled allies escape their captors’ clutches.
+You can use ranged weapons to help [grappled](../appendices/conditions.md#grappled) allies escape their captors’ clutches.
 
 **Prerequisites**: Dex 13, [Deadly Aim](deadly-aim.md), base attack bonus +7, weapon training class feature with a ranged weapon.
 

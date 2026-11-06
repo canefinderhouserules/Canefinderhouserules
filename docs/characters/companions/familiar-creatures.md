@@ -17,7 +17,7 @@ N Tiny animal
 
 #### Defense
 
-**AC** 15, touch 15, flat-footed 12 (+3 Dex, +2 size)
+**AC** 15, touch 15, [flat-footed](../../rules/appendices/conditions.md#flat-footed) 12 (+3 Dex, +2 size)
 
 **hp** 3 (1d8–1)
 
@@ -81,7 +81,7 @@ N Tiny animal
 
 **Base Atk** +0; **CMB** +0; **CMD** 6
 
-**Feats** Skill Focus (Fly)
+**Feats** Skill Focus ([Fly](../../rules/skills/fly.md))
 
 **Skills** Fly +9, Perception +6
 
@@ -103,7 +103,7 @@ This round, dust-colored creature’s snout pokes out of its bony armor shell.
 
 N Tiny animal
 
-**Init** +2; **Senses** scent; **Perception** +8 (+0 on sight-based Perception checks)
+**Init** +2; **Senses** scent; **Perception** +8 (+0 on sight-based [Perception](../../rules/skills/perception.md) checks)
 
 #### Defense
 
@@ -131,7 +131,7 @@ N Tiny animal
 
 **Feats** Skill Focus (Perception)
 
-**Skills** Perception +8 (+0 on sight-based checks), Swim +1; **Racial Modifiers** +4 Swim, –8 on sight-based Perception checks
+**Skills** Perception +8 (+0 on sight-based checks), Swim +1; **Racial Modifiers** +4 [Swim](../../rules/skills/swim.md), –8 on sight-based Perception checks
 
 **SQ** natural diver
 
@@ -225,7 +225,7 @@ N Tiny animal
 
 **Base Atk** +0; **CMB** +0; **CMD** 7 (11 vs. trip)
 
-**Feats** Skill Focus (Climb)
+**Feats** Skill Focus ([Climb](../../rules/skills/climb.md))
 
 **Skills** Bluff +0 (+4 when mimicking animal sounds), Climb +8, Stealth +14; **Racial Modifiers** +4 Bluff to mimic animal sounds
 
@@ -505,7 +505,7 @@ N Small animal
 
 **Base Atk** +0; **CMB** –1; **CMD** 9 (13 vs. trip)
 
-**Feats** Skill Focus (Stealth)
+**Feats** Skill Focus ([Stealth](../../rules/skills/stealth.md))
 
 **Skills** Stealth +11 (+19 in water), Swim +8; **Racial Modifiers** +8 Stealth in water
 
@@ -619,7 +619,7 @@ N Diminutive animal
 
 #### Special Abilities
 
-**Skin Secretions (Ex)** A creature that strikes a fire salamander with an unarmed strike or natural weapon exposes itself to the salamander’s toxic skin and must immediately succeed at a DC 9 Fortitude save to resist being sickened for 1 round. The secretions also make the salamander difficult to grab, giving it a +4 racial bonus on Escape Artist checks. The save DC is Constitution-based. Despite their name, fire salamanders have nothing to do with the evil outsiders known as salamanders. These are
+**Skin Secretions (Ex)** A creature that strikes a fire salamander with an unarmed strike or natural weapon exposes itself to the salamander’s toxic skin and must immediately succeed at a DC 9 Fortitude save to resist being [sickened](../../rules/appendices/conditions.md#sickened) for 1 round. The secretions also make the salamander difficult to grab, giving it a +4 racial bonus on [Escape Artist](../../rules/skills/escape-artist.md) checks. The save DC is Constitution-based. Despite their name, fire salamanders have nothing to do with the evil outsiders known as salamanders. These are
 
 Diminutive poisonous amphibians that can live more than 50 years. They are most active after dusk, eating earthworms, insects, slugs, and spiders. During the day, they hide amid fallen leaves or near mossy tree trunks.
 
@@ -673,7 +673,7 @@ N Diminutive plant
 
 **Bountiful Fruits (Ex)** Once per week, a flowering lattice produces a handful of small fruits or berries that remain ripe for 1 week. Eating all of the fruit takes 1 minute and affects the eater as if she had consumed a berry affected by goodberry.
 
-**Pollen (Ex)** Once every 1d4 rounds, a flowering lattice can expel a cloud of pollen in a 10-foot cone. Creatures in the area are dazzled for 2 rounds (Fortitude DC 11 negates). If a creature currently dazzled by the pollen is affected again, it is blinded for 1 round (Fortitude DC 11 negates). The save DC is Constitution-based and includes a +2 racial bonus.
+**Pollen (Ex)** Once every 1d4 rounds, a flowering lattice can expel a cloud of pollen in a 10-foot cone. Creatures in the area are [dazzled](../../rules/appendices/conditions.md#dazzled) for 2 rounds (Fortitude DC 11 negates). If a creature currently dazzled by the pollen is affected again, it is [blinded](../../rules/appendices/conditions.md#blinded) for 1 round (Fortitude DC 11 negates). The save DC is Constitution-based and includes a +2 racial bonus.
 
 The result of centuries of plant husbandry, flowering lattices are delicate networks of vines that form blossoming nets about 1 square foot in size. As many as 12 varieties of flower grow from an individual flowering lattice, with each bloom opening at different times of the year and hours of the day to ensure a nearly constant array of colorful petals. This plant’s enthusiasts often incorporate the organism into their fashion, draping them over the shoulders like a stole or over the head as a hood. These lattices require regular care, surviving on their own only in regions with rich soil and ample pollinators.
 
@@ -791,7 +791,7 @@ An ioun wyrd is made of small gemstones, lodestones, and bits of granite, all co
 
 **CL** 5th; **Price** 1,500 gp plus ioun stone
 
-**Requirements** Craft Construct, animate object, lesser geas; **Skill** Knowledge (arcana) DC 15; **Cost** 1,000 gp plus ioun stone
+**Requirements** Craft Construct, animate object, lesser geas; **Skill** [Knowledge](../../rules/skills/knowledge.md) (arcana) DC 15; **Cost** 1,000 gp plus ioun stone
 
 ### Giant Isopod (CR 1/8)
 
@@ -873,7 +873,7 @@ N Diminutive animal
 
 **Feats** Improved Initiative
 
-**Skills** Acrobatics +11, Perception +6; **Racial Modifiers** +4 Acrobatics, +4 Perception
+**Skills** Acrobatics +11, Perception +6; **Racial Modifiers** +4 [Acrobatics](../../rules/skills/acrobatics.md), +4 Perception
 
 **Environment** warm deserts
 
@@ -1119,7 +1119,7 @@ N Diminutive vermin
 
 **Slime Strand (Ex)** A leopard slug can turn its mucus into a 30-foot-long strand, much like a spider’s silk. It can hang from this strand indefinitely and lower itself safely at a rate of 5 feet per round. It can climb back up the strand at the same rate. Once the slug breaks contact with the strand, the mucus disintegrates in 1d4 rounds.
 
-**Suction (Ex)** A leopard slug secretes sticky mucus, which allows it to apply its climb speed to any surface, even sheer walls and ceilings. Once attached to a surface, it has no chance of falling off unless it’s grappled and actively peeled away.
+**Suction (Ex)** A leopard slug secretes sticky mucus, which allows it to apply its climb speed to any surface, even sheer walls and ceilings. Once attached to a surface, it has no chance of falling off unless it’s [grappled](../../rules/appendices/conditions.md#grappled) and actively peeled away.
 
 Leopard slugs are distinctive due to their unique spotted coloration, which calls to mind the pelt of a leopard. This characteristic pattern allows leopard slugs to blend in with foliage and stones in the forest environments they call home. Occasionally, one can find more colorful varieties of leopard slug (such as bright yellow, flaming red, or fluorescent orange), bred specifically as pets or familiars by the esoteric masters who prefer such creatures. Although many find them disgusting, leopard slugs are completely harmless and award no XP if slain.
 
@@ -1371,7 +1371,7 @@ N Diminutive plant
 
 #### Special Abilities
 
-**Self-Petrification (Ex)** A petrifern can petrify itself as a standard action in order to defend itself from predators. When it does so, the petrifern’s natural armor bonus to AC increases by 5, it gains resistance 10 to cold and fire, and it can take 20 on Stealth checks to appear as a sprout or fallen tree branch. While petrified, the petrifern can’t move or take any actions. A petrifern can remain petrified indefinitely, and it can cease its petrification as a standard action.
+**Self-Petrification (Ex)** A petrifern can petrify itself as a standard action in order to defend itself from predators. When it does so, the petrifern’s natural armor bonus to AC increases by 5, it gains resistance 10 to cold and fire, and it can take 20 on Stealth checks to appear as a sprout or fallen tree branch. While [petrified](../../rules/appendices/conditions.md#petrified), the petrifern can’t move or take any actions. A petrifern can remain petrified indefinitely, and it can cease its petrification as a standard action.
 
 **Toxic Secretion (Ex)** Petriferns secrete a bitter toxin meant to make them distasteful to predators. Once per day when a creature touches a petrifern, the plant can release its toxin, causing the attacker to become sickened for 1d4 rounds if it fails a DC 11 Fortitude saving throw. The save DC is Constitution-based.
 
@@ -1529,7 +1529,7 @@ N Tiny animal
 
 #### Special Abilities
 
-**Poison (Ex)** Spines—injury; save Fort DC 12; frequency once; initial effect staggered for 1 round; secondary effect 1 Str damage; cure 2 consecutive saves. If certain portions of the pufferfish’s body are eaten, the poison’s effect is instead 1d4 points of Constitution damage. The save DC is Constitution-based.
+**Poison (Ex)** Spines—injury; save Fort DC 12; frequency once; initial effect [staggered](../../rules/appendices/conditions.md#staggered) for 1 round; secondary effect 1 Str damage; cure 2 consecutive saves. If certain portions of the pufferfish’s body are eaten, the poison’s effect is instead 1d4 points of Constitution damage. The save DC is Constitution-based.
 
 **Spines (Ex)** Pufferfish aren’t equipped to attack other creatures, but foes that strike a pufferfish with an unarmed strike or a natural attack take 1 point of piercing damage from the fish’s toxic spines, and must immediately attempt a saving throw against the pufferfish’s poison.
 

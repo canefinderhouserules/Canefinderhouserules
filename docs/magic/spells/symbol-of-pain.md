@@ -12,4 +12,4 @@ This spell functions like [*symbol of death*](symbol-of-death.md), except that e
 
 Unlike *symbol of death*, *symbol of pain* has no hit point limit; once triggered, a *symbol of pain* simply remains active for 10 minutes per caster level.
 
-*Note*: Magic traps such as *symbol of pain* are hard to detect and disable. A character with trapfinding can use the Perception skill to find a *symbol of pain* and Disable Device to thwart it. The DC in each case is 25 + spell level, or 30 for *symbol of pain*.
+*Note*: Magic traps such as *symbol of pain* are hard to detect and disable. A character with trapfinding can use the [Perception](../../rules/skills/perception.md) skill to find a *symbol of pain* and Disable Device to thwart it. The DC in each case is 25 + spell level, or 30 for *symbol of pain*.

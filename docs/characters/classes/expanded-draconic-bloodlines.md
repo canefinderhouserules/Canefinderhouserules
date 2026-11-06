@@ -26,7 +26,7 @@ Though many of the enigmatic esoteric dragons remain aloof or intentionally dist
 
 Imperial dragons see themselves as masters of their respective domains, and universally accept the praise (and fear) of those around them. Their connection to the land makes the blood of these dragons a powerful arcane catalyst in the making of heroes.
 
-**Variant Bloodline Arcana**: Whenever you cast a spell that affects a creature with the shaken, frightened, or panicked condition, increase the spell's save DC by 1.
+**Variant Bloodline Arcana**: Whenever you cast a spell that affects a creature with the [shaken](../../rules/appendices/conditions.md#shaken), [frightened](../../rules/appendices/conditions.md#frightened), or [panicked](../../rules/appendices/conditions.md#panicked) condition, increase the spell's save DC by 1.
 
 | Dragon Type | Energy Type | Breath Shape |
 |---|---|---|

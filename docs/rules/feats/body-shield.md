@@ -2,7 +2,7 @@
 
 *(Combat)*
 
-With a sly maneuver, you force a grappled opponent into the path of an incoming attack.
+With a sly maneuver, you force a [grappled](../appendices/conditions.md#grappled) opponent into the path of an incoming attack.
 
 **Prerequisites**: Dex 13, [Improved Grapple](improved-grapple.md), [Improved Unarmed Strike](improved-unarmed-strike.md), base attack bonus +6.
 

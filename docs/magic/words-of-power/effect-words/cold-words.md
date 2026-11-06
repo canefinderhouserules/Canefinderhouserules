@@ -16,7 +16,7 @@ A wordspell with this effect word deals 1d3 points of cold damage. If the wordsp
 **Duration** instantaneous  
 **Saving Throw** Reflex half; **Spell Resistance** yes
 
-A wordspell with this effect word deals 1d6 points of cold damage per caster level (maximum 5d6). A target that fails its saving throw is also staggered for 1 round.
+A wordspell with this effect word deals 1d6 points of cold damage per caster level (maximum 5d6). A target that fails its saving throw is also [staggered](../../../rules/appendices/conditions.md#staggered) for 1 round.
 
 ## Ice Blast (Cold)
 
@@ -24,7 +24,7 @@ A wordspell with this effect word deals 1d6 points of cold damage per caster lev
 **Duration** instantaneous  
 **Saving Throw** Reflex half; **Spell Resistance** yes
 
-This effect deals 1d6 points of cold damage per caster level (maximum 10d6). A target that fails its saving throw is entangled by the ice for 1d4 rounds.
+This effect deals 1d6 points of cold damage per caster level (maximum 10d6). A target that fails its saving throw is [entangled](../../../rules/appendices/conditions.md#entangled) by the ice for 1d4 rounds.
 
 ## Winter’s Wrath (Cold)
 

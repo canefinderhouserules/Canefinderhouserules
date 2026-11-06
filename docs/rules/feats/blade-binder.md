@@ -4,7 +4,7 @@ Not only are you skilled at binding your opponent’s weapon, you can seize the 
 
 **Prerequisites**: Base attack bonus +4, proficiency with khopesh or temple sword.
 
-**Benefit**: You receive a +2 bonus on opposed attack rolls made to bind an opponent’s weapon, as well as any opposed rolls to maintain the bind. This bonus stacks with the +2 bonus from wielding a khopesh or temple sword. If you succeed in blade binding your opponent, your opponent becomes flat-footed until he either wrestles his blade free or drops his weapon.
+**Benefit**: You receive a +2 bonus on opposed attack rolls made to bind an opponent’s weapon, as well as any opposed rolls to maintain the bind. This bonus stacks with the +2 bonus from wielding a khopesh or temple sword. If you succeed in blade binding your opponent, your opponent becomes [flat-footed](../appendices/conditions.md#flat-footed) until he either wrestles his blade free or drops his weapon.
 
 **Special**: A monk may select Blade Binder as his 6th-level monk bonus feat.
 

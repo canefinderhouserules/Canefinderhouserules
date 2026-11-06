@@ -14,7 +14,7 @@ In addition to the normal effects you gain upon assuming the wild shape, you als
 
 **Cold Resistance**: Your new body is covered with thick layers of fur and insulating blubber. You gain cold resistance 30.
 
-**Ferocity**: You remain conscious and can continue to fight even if your hit point total is below 0. You are still staggered and lose 1 hit point each round, and still die when your hit point total reaches a negative amount equal to your Constitution score.
+**Ferocity**: You remain conscious and can continue to fight even if your hit point total is below 0. You are still [staggered](../../rules/appendices/conditions.md#staggered) and lose 1 hit point each round, and still die when your hit point total reaches a negative amount equal to your Constitution score.
 
 **Giant Slayer**: Your new form is particularly suited for slaying giants. Against creatures with the giant subtype, you gain a +2 insight bonus on attack rolls and on damage rolls with your new form’s natural attacks.
 

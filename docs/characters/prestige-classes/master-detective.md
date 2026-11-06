@@ -39,13 +39,13 @@ The following are class features of the master detective prestige class.
 
 **Weapon and Armor Proficiency**: A master detective gains no additional weapon or armor proficiencies.
 
-**Canny Sleuth (Ex)**: A master detective adds her Intelligence bonus (if any) on all Perception and Sense Motive checks, as well as on Diplomacy checks made to gather information, in addition to adding her Wisdom or Charisma modifier as normal.
+**Canny Sleuth (Ex)**: A master detective adds her Intelligence bonus (if any) on all [Perception](../../rules/skills/perception.md) and [Sense Motive](../../rules/skills/sense-motive.md) checks, as well as on [Diplomacy](../../rules/skills/diplomacy.md) checks made to gather information, in addition to adding her Wisdom or Charisma modifier as normal.
 
 **Forensic Thaumaturgy (Su)**: A master detective can cast [*detect magic*](../../magic/spells/detect-magic.md) at will as a spell-like ability (caster level equal to her class level). When using *detect magic* (or spells that function as *detect magic*, such as [*arcane sight*](../../magic/spells/arcane-sight.md)), the detective treats recently ended magical effects as though they were one category stronger when determining how long a lingering aura remains, and by concentrating for an additional round can determine exactly how long the lingering aura has been there (effectively allowing the detective to learn when the spell or magic item that caused the aura was cast or destroyed, respectively).
 
 **Sneak Attack (Ex)**: This ability is exactly like the [rogue ability](../classes/rogue.md#sneak-attack) of the same name. The extra damage dealt increases by +1d6 for every three levels beyond the first. If a master detective gets a sneak attack bonus from another source, the bonuses on damage stack.
 
-**Follow Clues (Ex)**: At 2nd level, a master detective can use Perception to follow tracks as per the Survival skill, as though she possessed the follow clues rogue talent. If the detective already has this ability from another class, she can move at her normal speed while tracking with the Perception skill without taking the usual –5 penalty on her Perception checks.
+**Follow Clues (Ex)**: At 2nd level, a master detective can use Perception to follow tracks as per the [Survival](../../rules/skills/survival.md) skill, as though she possessed the follow clues rogue talent. If the detective already has this ability from another class, she can move at her normal speed while tracking with the Perception skill without taking the usual –5 penalty on her Perception checks.
 
 **Deductive Examination (Sp)**: At 3rd level, the master detective can use the spell [residual tracking](../../magic/spells/residual-tracking.md) three times per day as a spell-like ability (caster level equal to her class level).
 

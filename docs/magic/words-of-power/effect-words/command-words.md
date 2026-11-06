@@ -22,9 +22,9 @@ The target of a wordspell with this effect word must follow one of five simple c
 
 Approach: The target must move toward the caster as quickly and directly as possible, provoking attacks of opportunity as normal. The target avoids obvious hazards, such as fire, pits, or traps that it is aware of (other creatures do not count).
 
-Drop: The target drops whatever it is holding and does not pick up anything this round. It can otherwise act normally. Fall: The target falls to the ground and remains prone until its next turn. It can otherwise act normally.
+Drop: The target drops whatever it is holding and does not pick up anything this round. It can otherwise act normally. Fall: The target falls to the ground and remains [prone](../../../rules/appendices/conditions.md#prone) until its next turn. It can otherwise act normally.
 
-Flee: The target moves away from the caster as quickly and directly as possible. This otherwise functions as approach. Halt: The target does not move and takes no other action on its turn, although it is not considered flat-footed or helpless.
+Flee: The target moves away from the caster as quickly and directly as possible. This otherwise functions as approach. Halt: The target does not move and takes no other action on its turn, although it is not considered [flat-footed](../../../rules/appendices/conditions.md#flat-footed) or [helpless](../../../rules/appendices/conditions.md#helpless).
 
 **Boost**: This wordspell can use any target word. Boosting this effect word increases its level by 3.
 

@@ -59,7 +59,7 @@ The following are class features of the brother of the seal prestige class.
 
 **Gatekeeper (Sp)**: At 2nd level, a Brother of the Seal may select either [*hold portal*](../../magic/spells/hold-portal.md) or [*arcane lock*](../../magic/spells/arcane-lock.md), and he gains the ability to cast the selected spell once per day. Once made, this choice cannot be reversed. At 6th level, and again at 10th level, a Brother of the Seal may cast the selected spell an additional time per day.
 
-**Trapfinding (Ex)**: At 2nd level, a Brother of the Seal adds 1/2 his class level on Perception and Disable Device checks made to find or disarm traps, and he can use Disable Device to disarm magical traps.
+**Trapfinding (Ex)**: At 2nd level, a Brother of the Seal adds 1/2 his class level on [Perception](../../rules/skills/perception.md) and [Disable Device](../../rules/skills/disable-device.md) checks made to find or disarm traps, and he can use Disable Device to disarm magical traps.
 
 **Runefinding (Ex)**: At 3rd level, a Brother of the Seal’s trapfinding bonus becomes equal to his level while dealing with magical glyphs, symbols, runes, and writings. In addition, he gains the trap spotter rogue talent, but it applies only to trapped magical writings.
 

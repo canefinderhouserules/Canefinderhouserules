@@ -8,7 +8,7 @@ Fey lords are listed by their portfolio rather than by name.
 
 ## Fey lord of betrayal, exiles and shadows
 
-**Obedience**: Find or create an area of shadow. While sitting within it, whisper the name of someone you intend to betray or who has betrayed you, and what you wish to do to them. You gain a +4 sacred bonus to AC against attacks whenever you are denied your Dexterity bonus (such as in a surprise round or when paralyzed).
+**Obedience**: Find or create an area of shadow. While sitting within it, whisper the name of someone you intend to betray or who has betrayed you, and what you wish to do to them. You gain a +4 sacred bonus to AC against attacks whenever you are denied your Dexterity bonus (such as in a surprise round or when [paralyzed](../../rules/appendices/conditions.md#paralyzed)).
 
 ### Feysworn Boons
 
@@ -33,7 +33,7 @@ Fey lords are listed by their portfolio rather than by name.
 ### Feysworn Boons
 
 1. **Secret Knowledge (Sp)**: [*identify*](../../magic/spells/identify.md) 3/day, [*augury*](../../magic/spells/augury.md) 2/day, or *clairaudience/clairvoyance* 1/day
-2. **Sight Beyond Time (Su)**: You constantly see a few moments down your own line of fate, and thus are never surprised or flat-footed. In addition, you gain a +2 insight bonus to AC and on Reflex saves.
+2. **Sight Beyond Time (Su)**: You constantly see a few moments down your own line of fate, and thus are never surprised or [flat-footed](../../rules/appendices/conditions.md#flat-footed). In addition, you gain a +2 insight bonus to AC and on Reflex saves.
 3. **Baleful Revelation (Sp)**: You can cast [*prediction of failure*](../../magic/spells/prediction-of-failure.md) once per day.
 
 ## Fey lord of endings, statues and twins

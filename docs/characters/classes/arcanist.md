@@ -102,7 +102,7 @@ By bending and sometimes even breaking the rules of magic, the arcanist learns t
 
 #### Acid Jet (Su)
 
-The arcanist can unleash a jet of acid by expending 1 point from her arcane reservoir and making a ranged touch attack against any one target within 30 feet. If the attack hits, it deals 1d6 points of acid damage + the arcanist's Charisma modifier, plus an additional 1d6 points of acid damage for every 2 levels beyond 1st (to a maximum of 10d6 at 19th level). The target is also sickened for 1d4 rounds. It can attempt a Fortitude saving throw to negate the sickened condition.
+The arcanist can unleash a jet of acid by expending 1 point from her arcane reservoir and making a ranged touch attack against any one target within 30 feet. If the attack hits, it deals 1d6 points of acid damage + the arcanist's Charisma modifier, plus an additional 1d6 points of acid damage for every 2 levels beyond 1st (to a maximum of 10d6 at 19th level). The target is also [sickened](../../rules/appendices/conditions.md#sickened) for 1d4 rounds. It can attempt a Fortitude saving throw to negate the sickened condition.
 
 #### Altered Shifting (Su)
 
@@ -162,7 +162,7 @@ The arcanist can unleash a blast of force by expending 1 point from her arcane r
 
 #### Ice Missile (Su)
 
-The arcanist can unleash a freezing projectile by expending 1 point from her arcane reservoir and making a ranged touch attack against any one target within 30 feet. If the attack hits, it deals 1d6 points of cold damage + the arcanist's Charisma modifier, plus an additional 1d6 points of cold damage for every 2 levels beyond 1st (to a maximum of 10d6 at 19th level). In addition, the target is staggered for 1 round. It can attempt a Fortitude saving throw to negate the staggered condition.
+The arcanist can unleash a freezing projectile by expending 1 point from her arcane reservoir and making a ranged touch attack against any one target within 30 feet. If the attack hits, it deals 1d6 points of cold damage + the arcanist's Charisma modifier, plus an additional 1d6 points of cold damage for every 2 levels beyond 1st (to a maximum of 10d6 at 19th level). In addition, the target is [staggered](../../rules/appendices/conditions.md#staggered) for 1 round. It can attempt a Fortitude saving throw to negate the staggered condition.
 
 #### Illusion Catcher (Su)
 
@@ -196,11 +196,11 @@ The arcanist can prepare a spell in place of an existing spell by expending 1 po
 
 The arcanist can see magical auras. If she expends 1 point from her arcane reservoir, for 1 minute she instantly recognizes magic item auras and spell effects (as detect magic).
 
-During this time, she is treated as if she had studied each aura for 3 rounds and she treats her Knowledge (arcana) skill check as if she had rolled a 15 on the d20. In addition, if she touches a magic item during this time, she can immediately identify its properties using Spellcraft without needing to spend 3 rounds examining the object. If an enemy possesses the object, the arcanist must first succeed at a melee touch attack to identify the item.
+During this time, she is treated as if she had studied each aura for 3 rounds and she treats her [Knowledge](../../rules/skills/knowledge.md) (arcana) skill check as if she had rolled a 15 on the d20. In addition, if she touches a magic item during this time, she can immediately identify its properties using Spellcraft without needing to spend 3 rounds examining the object. If an enemy possesses the object, the arcanist must first succeed at a melee touch attack to identify the item.
 
 #### Shadow Veil (Su)
 
-By expending 1 point from her arcane reservoir, an arcanist can pull a veil of shadows around her, making her more difficult to spot and strike. The arcanist gains concealment (20% miss chance) and a +5 bonus on Stealth checks. This effect lasts a number of rounds equal to 1 + the arcanist's Charisma bonus.
+By expending 1 point from her arcane reservoir, an arcanist can pull a veil of shadows around her, making her more difficult to spot and strike. The arcanist gains concealment (20% miss chance) and a +5 bonus on [Stealth](../../rules/skills/stealth.md) checks. This effect lasts a number of rounds equal to 1 + the arcanist's Charisma bonus.
 
 #### Shifting Caster (Su)
 
@@ -208,7 +208,7 @@ The arcanist can expend 1 point from her arcane reservoir to cast a spell while 
 
 #### Sonic Blast (Su)
 
-The arcanist can loose a deafening blast of sonic energy by expending 1 point from her arcane reservoir and succeeding at a ranged touch attack against any one target within 30 feet. The blast deals an amount of sonic damage equal to 1d6 + the arcanist's Charisma modifier, plus an additional 1d6 points of sonic damage for every 2 levels beyond 1st (to a maximum of 10d6 at 19th level). The target is also deafened for 1 minute. The target can attempt a Fortitude save to halve the damage and negate the deafness.
+The arcanist can loose a deafening blast of sonic energy by expending 1 point from her arcane reservoir and succeeding at a ranged touch attack against any one target within 30 feet. The blast deals an amount of sonic damage equal to 1d6 + the arcanist's Charisma modifier, plus an additional 1d6 points of sonic damage for every 2 levels beyond 1st (to a maximum of 10d6 at 19th level). The target is also [deafened](../../rules/appendices/conditions.md#deafened) for 1 minute. The target can attempt a Fortitude save to halve the damage and negate the deafness.
 
 #### Spell Disruption (Su)
 
@@ -248,7 +248,7 @@ If the arcanist triggers a primal magic event, she can spend 1 point from her ar
 
 #### Resist Primal Magic (Su)
 
-When attempting to cast spells in an area infused by primal magic, the arcanist can spend 1 point from her arcane reservoir as part of the casting to gain a bonus equal to half her arcanist level on Spellcraft checks to avoid triggering a primal magic effect.
+When attempting to cast spells in an area infused by primal magic, the arcanist can spend 1 point from her arcane reservoir as part of the casting to gain a bonus equal to half her arcanist level on [Spellcraft](../../rules/skills/spellcraft.md) checks to avoid triggering a primal magic effect.
 
 #### Swift Consume (Ex)
 
@@ -314,7 +314,7 @@ The arcanist can disrupt a spell effect or magic item by expending 1 point from 
 
 #### Icy Tomb (Su)
 
-Whenever the arcanist uses the ice missile exploit, she can expend 2 points from her arcane reservoir instead of one. If she does, the target is coated in rime if it fails its saving throw. As long as the ice remains (typically 1 minute per level in a warm area), the target is entangled (although not anchored) and takes 1 point of Dexterity damage at the start of each of its turns. The target can break free from the ice as a standard action by making a Strength check with a DC equal to 10 + the arcanist's Charisma modifier. If the target takes more than 10 points of fire damage from a single attack, the ice melts and the effect ends. The arcanist must have the ice missile arcanist exploit to select this exploit.
+Whenever the arcanist uses the ice missile exploit, she can expend 2 points from her arcane reservoir instead of one. If she does, the target is coated in rime if it fails its saving throw. As long as the ice remains (typically 1 minute per level in a warm area), the target is [entangled](../../rules/appendices/conditions.md#entangled) (although not anchored) and takes 1 point of Dexterity damage at the start of each of its turns. The target can break free from the ice as a standard action by making a Strength check with a DC equal to 10 + the arcanist's Charisma modifier. If the target takes more than 10 points of fire damage from a single attack, the ice melts and the effect ends. The arcanist must have the ice missile arcanist exploit to select this exploit.
 
 #### Lingering Acid (Su)
 

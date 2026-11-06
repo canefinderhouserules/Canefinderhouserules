@@ -6,7 +6,7 @@ Boggards are froglike humanoids that dwell in swamps and marshes. This page coll
 
 The following racial traits may be selected instead of existing boggard racial traits.
 
-**Estivation**: Not all marshes are wet year-round, and some boggards have adapted to life in seasonal swamps where hot, arid conditions are common. A boggard with this racial trait can spend 1 hour burying herself in wet or soft earth and entering a state of suspended animation for an indefinite amount of time. While estivating, a boggard doesn't need to drink or eat, but takes a penalty on Perception checks as if sleeping. Ending this dormant state is a full-round action. This racial trait replaces a boggard's racial bonus on Acrobatics checks to jump.
+**Estivation**: Not all marshes are wet year-round, and some boggards have adapted to life in seasonal swamps where hot, arid conditions are common. A boggard with this racial trait can spend 1 hour burying herself in wet or soft earth and entering a state of suspended animation for an indefinite amount of time. While estivating, a boggard doesn't need to drink or eat, but takes a penalty on [Perception](../../rules/skills/perception.md) checks as if sleeping. Ending this dormant state is a full-round action. This racial trait replaces a boggard's racial bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks to jump.
 
 **Leaper**: Boggards in some regions have legs better suited to explosive movement on land rather than swift propulsion underwater. Boggards with this trait are always considered to have a running start when attempting Acrobatics checks to jump, and their swim speeds are reduced by 15 feet.
 

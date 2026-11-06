@@ -45,13 +45,13 @@ All of the following are features of the shadowdancer prestige class.
 
 **Weapon and Armor Proficiency**: Shadowdancers are proficient with the [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), crossbow (hand, light, or heavy), [dagger](../../equipment/weapons-simple.md#simple-light-melee-weapons) (any type), [dart](../../equipment/weapons-simple.md#simple-ranged-weapons), mace, [morningstar](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [sap](../../equipment/weapons-martial.md#martial-light-melee-weapons), [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons) (normal and composite), and [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons). Shadowdancers are proficient with [light armor](../../equipment/armor.md) but not with [shields](../../equipment/armor.md).
 
-**Hide in Plain Sight (Su)**: A shadowdancer can use the Stealth skill even while being observed. As long as she is within 10 feet of an area of dim light, a shadowdancer can hide herself from view in the open without anything to actually hide behind. She cannot, however, hide in her own shadow.
+**Hide in Plain Sight (Su)**: A shadowdancer can use the [Stealth](../../rules/skills/stealth.md) skill even while being observed. As long as she is within 10 feet of an area of dim light, a shadowdancer can hide herself from view in the open without anything to actually hide behind. She cannot, however, hide in her own shadow.
 
 **Evasion (Ex)**: At 2nd level, a shadowdancer gains evasion. If exposed to any effect that normally allows her to attempt a Reflex saving throw for half damage, she takes no damage with a successful saving throw. The evasion ability can only be used if the shadowdancer is wearing light armor or no armor.
 
 **Darkvision (Ex)**: At 2nd level, a shadowdancer gains darkvision out to a range of 60 feet. If she already has darkvision, the range increases by 30 feet.
 
-**Uncanny Dodge (Ex)**: At 2nd level, a shadowdancer cannot be caught flat-footed, even if the attacker is invisible. He still loses her Dexterity bonus to AC if immobilized. A shadowdancer with this ability can still lose his Dexterity bonus to AC if an opponent successfully uses the feint action against him.
+**Uncanny Dodge (Ex)**: At 2nd level, a shadowdancer cannot be caught [flat-footed](../../rules/appendices/conditions.md#flat-footed), even if the attacker is invisible. He still loses her Dexterity bonus to AC if immobilized. A shadowdancer with this ability can still lose his Dexterity bonus to AC if an opponent successfully uses the feint action against him.
 
 If a shadowdancer already has uncanny dodge from a different class, he automatically gains improved uncanny dodge instead.
 
@@ -79,7 +79,7 @@ If a character already has uncanny dodge from another class, the levels from the
 
 **Improved Evasion (Ex)**: This ability, gained at 10th level, works like evasion (see above). A shadowdancer takes no damage at all on successful saving throws against attacks that allow a Reflex saving throw for half damage. What’s more, she takes only half damage even if she fails her saving throw.
 
-**Shadow Master (Su)**: At 10th level, whenever a shadowdancer is in an area of dim light, she gains DR 10/— and a +2 luck bonus on all saving throws. In addition, whenever she successfully scores a critical hit against a foe who is in an area of dim light, that foe is blinded for 1d6 rounds.
+**Shadow Master (Su)**: At 10th level, whenever a shadowdancer is in an area of dim light, she gains DR 10/— and a +2 luck bonus on all saving throws. In addition, whenever she successfully scores a critical hit against a foe who is in an area of dim light, that foe is [blinded](../../rules/appendices/conditions.md#blinded) for 1d6 rounds.
 
 It’s one thing to play a character on an adventure. It’s quite another to run the adventure as a Game Master. It’s a lot more work, sure, but it can be a lot more rewarding to create an entire world for your friends to explore.
 

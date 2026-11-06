@@ -8,4 +8,4 @@ Through strength, study, and intense inner reflection, you have become an expert
 
 **Benefit**: While using this style, you can use your [Vicious Stomp](vicious-stomp.md) feat against any opponent within 10 feet of you, as long as it is within your natural reach. If you don’t have the Vicious Stomp feat, you gain no benefit from this feat.
 
-**Normal**: The Vicious Stomp feat only works against an opponent that falls prone adjacent to you.
+**Normal**: The Vicious Stomp feat only works against an opponent that falls [prone](../appendices/conditions.md#prone) adjacent to you.

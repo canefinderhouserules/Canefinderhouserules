@@ -8,6 +8,6 @@
 **Duration** 1 round  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-Your dry, rasping whisper fills a living creature of 4 or fewer Hit Dice with unnatural dread. The affected creature must make a Will save or be shaken for 1 round.
+Your dry, rasping whisper fills a living creature of 4 or fewer Hit Dice with unnatural dread. The affected creature must make a Will save or be [shaken](../../rules/appendices/conditions.md#shaken) for 1 round.
 
 This spell originated among the followers of the a death cult, but necromancers and other intimidating folk outside that group are known to use it.

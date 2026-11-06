@@ -137,7 +137,7 @@ At 17th level, when taking the form of an fey, a fairy shifter’s shifter shape
 
 **Whimsical Aura (Ex):** At 2nd level, when unarmored, not using a shield, unencumbered, and conscious, the fairy shifter adds her Charisma bonus (if any) to her AC and CMD. If she is wearing armor or using a shield, she instead adds half her Charisma bonus to her AC (minimum 0). In addition, the fairy gains a +1 bonus to her AC and CMD at 4th level. This bonus increases by 1 for every 4 fairy shifter levels thereafter (up to a maximum of +5 at 20th level).
 
-These bonuses to AC apply even against touch attacks and when the fairy shifter is flat-footed. She loses these bonuses when she is immobilized or helpless. These bonuses do not stack with the [monk AC bonus](../monk.md#ac-bonus-ex) class feature.
+These bonuses to AC apply even against touch attacks and when the fairy shifter is [flat-footed](../../../rules/appendices/conditions.md#flat-footed). She loses these bonuses when she is immobilized or [helpless](../../../rules/appendices/conditions.md#helpless). These bonuses do not stack with the [monk AC bonus](../monk.md#ac-bonus-ex) class feature.
 
 *This ability replaces defensive instinct.*
 
@@ -264,15 +264,15 @@ In addition, as a standard action, a number of times per day equal to the metamo
 
 **Skills:** A mimickin gains Disguise as a class skill.
 
-**Mimic Aspect (Ex):** At 1st level, a mimickin gains darkvision 60 feet and a +1 bonus to Disguise checks. For every four levels the mimickin possesses, her bonus to Disguise checks increases by +1.
+**Mimic Aspect (Ex):** At 1st level, a mimickin gains darkvision 60 feet and a +1 bonus to [Disguise](../../../rules/skills/disguise.md) checks. For every four levels the mimickin possesses, her bonus to Disguise checks increases by +1.
 
 At 5th level, as a swift action while in mimic shape, a mimickin can secrete a powerful adhesive. Any weapon that strikes an adhesive-coated mimickin is stuck fast unless the wielder succeeds on a Reflex save (DC = 10+ 1/2 the mimickin’s level + her Wisdom modifier). A successful Strength check (DC 10 + the mimickin’s level) is needed to pry off a stuck weapon. Strong alcohol or universal solvent dissolves the adhesive. A mimic can dissolve its adhesive at will, and the substance breaks down 5 rounds after the mimickin dies.
 
 At 9th level, a mimickin can change her form while in mimic shape at will as a move action, changing to a different kind of object.
 
-At 13th level, as a full-round action while in mimic shape, a mimickin can make a single bite attack that deals double base damage and functions as if she had the grab and swallow whole special attacks, allowing her to grab and swallow a creature of her size or smaller. Her stomach doesn’t deal damage to swallowed creatures, but a living creature she swallows must succeed at a Fortitude save (DC = 10 + 1/2 her mimickin level + Wisdom modifier) at the beginning of each of its turns or become nauseated for 1 round.
+At 13th level, as a full-round action while in mimic shape, a mimickin can make a single bite attack that deals double base damage and functions as if she had the grab and swallow whole special attacks, allowing her to grab and swallow a creature of her size or smaller. Her stomach doesn’t deal damage to swallowed creatures, but a living creature she swallows must succeed at a Fortitude save (DC = 10 + 1/2 her mimickin level + Wisdom modifier) at the beginning of each of its turns or become [nauseated](../../../rules/appendices/conditions.md#nauseated) for 1 round.
 
-While she has a creature swallowed, a mimickin is treated as if she were carrying a heavy load if the creature is the same size and a medium load if it’s one size smaller; regardless, she can swallow only one such creature at a time. She can regurgitate a swallowed creature of her choice as a move action, leaving it prone in an adjacent open square. If she is struck with a confirmed critical hit while she has a creature swallowed, the swallowed creatures each take half as much damage as the mimickin does (this doesn’t reduce the damage the mimickin takes). If a mimickin leaves mimic form, she must regurgitate any creature she has swallowed with this ability.
+While she has a creature swallowed, a mimickin is treated as if she were carrying a heavy load if the creature is the same size and a medium load if it’s one size smaller; regardless, she can swallow only one such creature at a time. She can regurgitate a swallowed creature of her choice as a move action, leaving it [prone](../../../rules/appendices/conditions.md#prone) in an adjacent open square. If she is struck with a confirmed critical hit while she has a creature swallowed, the swallowed creatures each take half as much damage as the mimickin does (this doesn’t reduce the damage the mimickin takes). If a mimickin leaves mimic form, she must regurgitate any creature she has swallowed with this ability.
 
 *At 17th level, a mimickin gains blindsight 30 feet.*
 
@@ -292,7 +292,7 @@ At 14th level, a mimickin can take the form of a Diminutive or Gargantuan object
 
 *This ability replaces shifter shape.*
 
-**Silent Stalk (Ex):** At 5th level, while a mimickin is in mimic shape without manifesting her claws or bite, whenever she moves 5 feet or less while being observed, she can make a Stealth check opposed by all observer’s Perception checks. If her Stealth check is higher, those observing her do not notice that she has moved.
+**Silent Stalk (Ex):** At 5th level, while a mimickin is in mimic shape without manifesting her claws or bite, whenever she moves 5 feet or less while being observed, she can make a [Stealth](../../../rules/skills/stealth.md) check opposed by all observer’s [Perception](../../../rules/skills/perception.md) checks. If her Stealth check is higher, those observing her do not notice that she has moved.
 
 *This ability replaces trackless step.*
 
@@ -322,7 +322,7 @@ At 15th level, she can instead cast *create undead, greater* and [*control undea
 
 *This ability replaces shifter aspect, chimeric aspect, and greater chimeric aspect.*
 
-**Necrotic Empathy (Ex):** A shifter can improve the attitude of an undead without an Intelligence score. This ability functions as a Diplomacy check to improve the attitude of a person. The shifter rolls 1d20 and adds her shifter level and Charisma modifier to determine the wild empathy check result. The typical undead are usually hostile, but will not attack while this ability is being used, being treated as fascinated despite normally being immune to mind-affecting effects.
+**Necrotic Empathy (Ex):** A shifter can improve the attitude of an undead without an Intelligence score. This ability functions as a [Diplomacy](../../../rules/skills/diplomacy.md) check to improve the attitude of a person. The shifter rolls 1d20 and adds her shifter level and Charisma modifier to determine the wild empathy check result. The typical undead are usually hostile, but will not attack while this ability is being used, being treated as [fascinated](../../../rules/appendices/conditions.md#fascinated) despite normally being immune to mind-affecting effects.
 
 To use wild empathy, the necromorph and the undead must be within 30 feet of one another and under normal conditions. Generally, influencing an undead in this way takes 1 minute but, as with influencing people, it might take more or less time.
 
@@ -362,7 +362,7 @@ These bonuses to AC apply even against touch attacks and when the necromorph is 
 
 *The allure of taking on a form that is in itself all forms deeply appeals to an oozeling, allowing them to completely shift their form at a moment’s notice and take on whatever shape they desire.*
 
-**Ooze Form (Ex):** An oozeling’s body is composed of protoplasm that takes the form of her original shape, although to any observer it is obvious that she is an ooze. An oozeling treats her creature type as both ooze and her base creature type from her race for the purposes of effects targeting creatures by type (such as bane weapons and a [ranger’s favored enemy](../ranger.md#favored-enemy-ex)). She also gains compression as per the universal monster rule. This ability can be used regardless of the current form the oozeling has taken. As a swift action, an oozeling can take the form of a protoplasmic blob or revert to her normal form (she also takes this form whenever she is unconscious).
+**Ooze Form (Ex):** An oozeling’s body is composed of protoplasm that takes the form of her original shape, although to any observer it is obvious that she is an ooze. An oozeling treats her creature type as both ooze and her base creature type from her race for the purposes of effects targeting creatures by type (such as bane weapons and a [ranger’s favored enemy](../ranger.md#favored-enemy-ex)). She also gains compression as per the universal monster rule. This ability can be used regardless of the current form the oozeling has taken. As a swift action, an oozeling can take the form of a protoplasmic blob or revert to her normal form (she also takes this form whenever she is [unconscious](../../../rules/appendices/conditions.md#unconscious)).
 
 In protoplasmic blob form, the oozemorph is immune to critical hits and precision damage and can’t be flanked. However, she has no magic item slots and she cannot benefit from armor; cast spells; hold objects; speak; or use any magic item that requires activation, is held, or is worn on the body and has a movement speed of 10 feet. Shifting into protoplasmic form is treated as a polymorph effect.
 

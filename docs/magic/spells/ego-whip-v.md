@@ -8,4 +8,4 @@
 **Duration** 1 round/level  
 **Saving Throw** Will partial; **Spell Resistance** yes
 
-This functions as ego whip I, but the target takes –10 penalty to the chosen ability score and is staggered for 1d10 rounds on a failed Will save. This spell can be undercast.
+This functions as ego whip I, but the target takes –10 penalty to the chosen ability score and is [staggered](../../rules/appendices/conditions.md#staggered) for 1d10 rounds on a failed Will save. This spell can be undercast.

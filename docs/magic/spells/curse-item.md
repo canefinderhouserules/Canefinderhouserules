@@ -8,7 +8,7 @@
 **Duration** instantaneous  
 **Saving Throw** Will negates (object); **Spell Resistance** yes (object)
 
-The object becomes flawed and prone to failure. The effects of this spell depend on the nature of the object.
+The object becomes flawed and [prone](../../rules/appendices/conditions.md#prone) to failure. The effects of this spell depend on the nature of the object.
 
 *Magic Item*: The item functions intermittently, gaining either an unreliable curse or a random dependent curse.
 

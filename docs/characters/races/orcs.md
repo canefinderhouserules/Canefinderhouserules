@@ -32,9 +32,9 @@ Orcs look upon half-orcs with a strange mixture of contempt, envy, and pride. Th
 
 **Darkvision**: Orcs can see in the dark up to 60 feet.
 
-**Light Sensitivity**: Orcs are dazzled in areas of bright sunlight or within the radius of a [*daylight*](../../magic/spells/daylight.md) spell.
+**Light Sensitivity**: Orcs are [dazzled](../../rules/appendices/conditions.md#dazzled) in areas of bright sunlight or within the radius of a [*daylight*](../../magic/spells/daylight.md) spell.
 
-**Ferocity**: Orcs can remain conscious and continue fighting even if their hit point totals fall below 0. Orcs are still staggered at 0 hit points or lower and lose 1 hit point each round as normal.
+**Ferocity**: Orcs can remain conscious and continue fighting even if their hit point totals fall below 0. Orcs are still [staggered](../../rules/appendices/conditions.md#staggered) at 0 hit points or lower and lose 1 hit point each round as normal.
 
 **Weapon Familiarity**: Orcs are always proficient with [greataxes](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons) and [falchions](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), and treat any weapon with the word “orc” in its name as a martial weapon.
 
@@ -50,7 +50,7 @@ The following racial traits may be selected instead of existing orc racial trait
 
 **Smeller**: Orcs with this racial trait gain a limited scent ability with half the normal range. This racial trait replaces ferocity and weapon familiarity.
 
-**Squalid**: Some orcs exist in surroundings so filthy and pestilent that even other orcs would have difficulty living in them. Orcs with this racial trait gain a +2 racial bonus on saving throws made to resist nausea, the sickened condition, and disease. This racial trait replaces ferocity.
+**Squalid**: Some orcs exist in surroundings so filthy and pestilent that even other orcs would have difficulty living in them. Orcs with this racial trait gain a +2 racial bonus on saving throws made to resist nausea, the [sickened](../../rules/appendices/conditions.md#sickened) condition, and disease. This racial trait replaces ferocity.
 
 ## Favored Class Options
 
@@ -72,7 +72,7 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 **Shifter (Ultimate Wilderness)**: Add 1/5 to the damage dealt when using the shifter's claws ability.
 
-**Legendary Kineticist**: Gain a +1/2 bonus on Bluff and Intimidate checks while a defense wild talent is active.
+**Legendary Kineticist**: Gain a +1/2 bonus on [Bluff](../../rules/skills/bluff.md) and [Intimidate](../../rules/skills/intimidate.md) checks while a defense wild talent is active.
 
 ## Archetypes and Class Options
 
@@ -130,5 +130,5 @@ Orcs have access to the following equipment.
 
 ### Reckless Climber
 
-Mountain-dwelling orcs thrive on taking insane risks to defeat foes and show up rivals. They gain a +4 racial bonus on Climb checks without rope and on Acrobatics checks to maintain balance. This racial trait replaces ferocity.
+Mountain-dwelling orcs thrive on taking insane risks to defeat foes and show up rivals. They gain a +4 racial bonus on [Climb](../../rules/skills/climb.md) checks without rope and on [Acrobatics](../../rules/skills/acrobatics.md) checks to maintain balance. This racial trait replaces ferocity.
 

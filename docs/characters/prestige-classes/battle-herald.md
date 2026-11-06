@@ -63,7 +63,7 @@ Issuing an inspiring command is a move action.
 
 At 5th level, this becomes a swift action, and at 10th level, it becomes an immediate action.
 
-Maintaining an inspiring command is a free action that cannot be disrupted, but its effects end immediately if the battle herald is killed or otherwise prevented from taking actions (such as being dazed, helpless, or stunned). The battle herald cannot have more than one command in effect at a time. She may use this ability for a number of rounds per day equal to 4 + her Charisma modifier, plus 2 additional rounds per level after 1st. She may use rounds of bardic performance to issue inspiring commands, but not vice versa. Inspiring commands are language-dependent, mind-affecting effects. The battle herald cannot maintain an inspiring command and a bardic performance at the same time (this does not preclude abilities such as persistent command or the [Lingering Performance](../../rules/feats/lingering-performance.md) feat, which continue an inspiring command or bardic performance after the battle herald stops maintaining it).
+Maintaining an inspiring command is a free action that cannot be disrupted, but its effects end immediately if the battle herald is killed or otherwise prevented from taking actions (such as being [dazed](../../rules/appendices/conditions.md#dazed), [helpless](../../rules/appendices/conditions.md#helpless), or [stunned](../../rules/appendices/conditions.md#stunned)). The battle herald cannot have more than one command in effect at a time. She may use this ability for a number of rounds per day equal to 4 + her Charisma modifier, plus 2 additional rounds per level after 1st. She may use rounds of bardic performance to issue inspiring commands, but not vice versa. Inspiring commands are language-dependent, mind-affecting effects. The battle herald cannot maintain an inspiring command and a bardic performance at the same time (this does not preclude abilities such as persistent command or the [Lingering Performance](../../rules/feats/lingering-performance.md) feat, which continue an inspiring command or bardic performance after the battle herald stops maintaining it).
 
 Battle Magic*: One ally gains a bonus on caster level checks and concentration checks equal to the battle herald’s command bonus.
 
@@ -75,7 +75,7 @@ Battle Magic*: One ally gains a bonus on caster level checks and concentration c
 
 None Shall Fall*: A number of allies equal to the battle herald’s inspiring command bonus heal 1d6 points of damage. Targeted allies who are poisoned may attempt a new poison saving throw with a bonus equal to the battle herald’s inspiring command bonus; a failed save has no additional effect, but a successful save counts toward curing the poison. This healing is not positive energy and can heal undead creatures.
 
-**Pincer Maneuver**: Allies apply the battle herald’s inspiring command bonus to attack and damage rolls when flanking and as a dodge bonus to AC against attacks of opportunity provoked by movement (including standing from prone).
+**Pincer Maneuver**: Allies apply the battle herald’s inspiring command bonus to attack and damage rolls when flanking and as a dodge bonus to AC against attacks of opportunity provoked by movement (including standing from [prone](../../rules/appendices/conditions.md#prone)).
 
 **Rally**: Allies affected by a fear effect may attempt a new saving throw against each fear effect on them; this new save has a bonus equal to the battle herald’s inspiring command bonus.
 
@@ -93,7 +93,7 @@ Shake It Off*: One ally subject to an ongoing condition may attempt a new saving
 
 **Teamwork**: Allies add the battle herald’s inspiring command bonus on skill checks or attack rolls made when using the aid another action, and if successful, the assisted ally increases the aid another bonus by an amount equal to the battle herald’s inspiring command bonus.
 
-**Tuck and Roll**: Allies apply the battle herald’s inspiring command bonus on Reflex saves and Acrobatics checks.
+**Tuck and Roll**: Allies apply the battle herald’s inspiring command bonus on Reflex saves and [Acrobatics](../../rules/skills/acrobatics.md) checks.
 
 **Commanding Presence (Ex)**: A battle herald gains a bonus equal to half her level on social checks with people below her, whether socially or militarily.
 
@@ -101,7 +101,7 @@ Shake It Off*: One ally subject to an ongoing condition may attempt a new saving
 
     **Improved Leadership (Ex)**: A battle herald with the Leadership feat adds her inspiring command bonus to her leadership score.
 
-**Voice of Authority (Ex)**: A battle herald is skilled at shouting commands over the din of the battlefield and signaling allies when speech is impossible. She gains a +2 bonus on Diplomacy and Intimidate checks with creatures with which she shares a language. In addition, her allies gain a bonus equal to the battle herald’s class level on Perception or Sense Motive checks to hear her commands or interpret her secret messages conveyed with Bluff.
+**Voice of Authority (Ex)**: A battle herald is skilled at shouting commands over the din of the battlefield and signaling allies when speech is impossible. She gains a +2 bonus on [Diplomacy](../../rules/skills/diplomacy.md) and [Intimidate](../../rules/skills/intimidate.md) checks with creatures with which she shares a language. In addition, her allies gain a bonus equal to the battle herald’s class level on [Perception](../../rules/skills/perception.md) or [Sense Motive](../../rules/skills/sense-motive.md) checks to hear her commands or interpret her secret messages conveyed with [Bluff](../../rules/skills/bluff.md).
 
 The battle herald’s levels stack with cavalier levels for the purpose of the [cavalier’s tactician](../classes/cavalier.md#tactician-ex) ability.
 

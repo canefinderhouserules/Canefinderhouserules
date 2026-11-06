@@ -12,7 +12,7 @@ Idyllkin possess bestial aspects and calm dispositions, and often act as peacefu
 
 - **Ancestry**: Agathion. **Typical Alignment**: NG.
 - **Ability Modifiers**: +2 Constitution, +2 Charisma.
-- **Skill Modifiers**: +2 racial bonus on Handle Animal and Survival checks.
+- **Skill Modifiers**: +2 racial bonus on [Handle Animal](../../rules/skills/handle-animal.md) and [Survival](../../rules/skills/survival.md) checks.
 - **Spell-Like Ability**: *summon nature's ally II* 1/day.
 
 Like their agathion ancestors, idyllkin seek to spread good in its purest form, unconcerned with the trivialities of chaos and law. They often travel from place to place to spread their righteous wisdom, and recruit both intelligent creatures and animals to their cause. Idyllkin often possess bestial qualities such as dragon scales, fish scales, fur, manes, or talons; slit pupils, pronounced canines, and furry ears are all common indicators of an agathion background. Many feel called to walk the path of the druid. They are usually found in wild reaches, prefer villages to cities, and often work as hunters, herbalists, or herders.
@@ -29,7 +29,7 @@ Angelkin possess exceptional beauty, and they serve as mortal exemplars of good 
 
 - **Ancestry**: Angel. **Typical Alignment**: Any good.
 - **Ability Modifiers**: +2 Strength, +2 Charisma.
-- **Skill Modifiers**: +2 racial bonus on Heal and Knowledge (planes) checks.
+- **Skill Modifiers**: +2 racial bonus on [Heal](../../rules/skills/heal.md) and [Knowledge](../../rules/skills/knowledge.md) (planes) checks.
 - **Spell-Like Ability**: [*alter self*](../../magic/spells/alter-self.md) 1/day.
 
 Angel-blooded aasimars follow the righteous paths their celestial ancestors walked, and are as varied as angels in how they go about their virtuous duties, split evenly among those who embrace law, neutrality, or chaos. Of all the aasimars, angelkin are the type who perhaps most often clash with tieflings: they have difficulty embracing the idea of harmony with their corrupt cousins, and most see tieflings as embodiments of evil that can never be trusted. Many feel called to the life of a crusader or paladin.
@@ -46,14 +46,14 @@ Lawbringers are champions of justice and of doling out punishment to the wicked,
 
 - **Ancestry**: Archon. **Typical Alignment**: LG.
 - **Ability Modifiers**: +2 Dexterity, +2 Charisma.
-- **Skill Modifiers**: +2 racial bonus on Intimidate and Sense Motive checks.
+- **Skill Modifiers**: +2 racial bonus on [Intimidate](../../rules/skills/intimidate.md) and [Sense Motive](../../rules/skills/sense-motive.md) checks.
 - **Spell-Like Ability**: [*continual flame*](../../magic/spells/continual-flame.md) 1/day.
 
 Lawbringers reflect the patience of their archon ancestors in their daily lives; they understand the need for rules and routines, and use their inherent discipline to train in their chosen field as they seek to do good. They develop their talents faster than most of their peers and show exceptional skill at whatever they focus their attention on. They feel most comfortable in regions where a clear hierarchy and system of justice exists, and tyrannical regimes that keep their people in line through repression infuriate them; they seek the most legitimate and least destructive ways to neutralize such governments.
 
 ### Lawbringer Traits
 
-**Good Influence**: You possess an innate ability to motivate and inspire others to do the right thing. You gain a +1 trait bonus on Diplomacy checks when attempting to persuade a nongood creature to make a decision that benefits the cause of good, and when persuading a nonlawful creature to make a decision in line with the laws of the region. These bonuses stack if you attempt to persuade a nongood, nonlawful creature to take a lawful good action.
+**Good Influence**: You possess an innate ability to motivate and inspire others to do the right thing. You gain a +1 trait bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks when attempting to persuade a nongood creature to make a decision that benefits the cause of good, and when persuading a nonlawful creature to make a decision in line with the laws of the region. These bonuses stack if you attempt to persuade a nongood, nonlawful creature to take a lawful good action.
 
 **Lantern Spirit**: Your celestial ancestor was a lantern archon for centuries before ascending to a higher rank. You feel a strange sense of nostalgia whenever you use your [*continual flame*](../../magic/spells/continual-flame.md) spell-like ability, and can use it as a move action instead of a standard action.
 
@@ -63,7 +63,7 @@ The musetouched epitomize freedom and joy, and travel the world to liberate less
 
 - **Ancestry**: Azata. **Typical Alignment**: CG.
 - **Ability Modifiers**: +2 Constitution, +2 Wisdom.
-- **Skill Modifiers**: +2 racial bonus on Diplomacy and Perform checks.
+- **Skill Modifiers**: +2 racial bonus on Diplomacy and [Perform](../../rules/skills/perform.md) checks.
 - **Spell-Like Ability**: [*glitterdust*](../../magic/spells/glitterdust.md) 1/day.
 
 The capricious aasimars known as musetouched are the most likely of their kind to be found adventuring throughout lands both civilized and remote. Imbued with an undeniable spirit of wanderlust, they feel the constant urge to explore new places, meet new people, and ferret out evil and corruption wherever it lurks. Musetouched tend to be among the most beautiful of aasimars by most humans' standards, with features such as long, thick hair of a seemingly impossible hue and limpid, jewel-toned eyes. They are commonly possessed of innate musical talent, and many train as bards while they wander.
@@ -80,7 +80,7 @@ Their shimmering avian features make plumekith instantly recognizable. Though th
 
 - **Ancestry**: Garuda. **Typical Alignment**: CG.
 - **Ability Modifiers**: +2 Dexterity, +2 Wisdom.
-- **Skill Modifiers**: +2 racial bonus on Acrobatics and Fly checks.
+- **Skill Modifiers**: +2 racial bonus on [Acrobatics](../../rules/skills/acrobatics.md) and [Fly](../../rules/skills/fly.md) checks.
 - **Spell-Like Ability**: [*see invisibility*](../../magic/spells/see-invisibility.md) 1/day.
 
 Garudas are noble but impetuous birdlike celestials, and most garuda-blooded aasimars grow graceful feathers during puberty. The majority have shimmering wings of virtually any shade, ranging from metallic colors to muted hues to pure white, or rarely, glossy black. Plumekith are sometimes born with taloned fingers or toes, and occasionally eyes like those of an eagle. Like their celestial ancestors, they take action at the spur of the moment when their abilities seem needed, rushing into the heat of battle to face evildoers and only stopping to ask questions afterward. Plumekith often have an extreme hatred for nagas and other snakelike creatures, and are drawn to high, mountainous regions.
@@ -97,7 +97,7 @@ Masters of fire magic, emberkin feel the dual pull of their peri forebear as wel
 
 - **Ancestry**: Peri. **Typical Alignment**: NG.
 - **Ability Modifiers**: +2 Intelligence, +2 Charisma.
-- **Skill Modifiers**: +2 racial bonus on Knowledge (planes) and Spellcraft checks.
+- **Skill Modifiers**: +2 racial bonus on Knowledge (planes) and [Spellcraft](../../rules/skills/spellcraft.md) checks.
 - **Spell-Like Ability**: [*pyrotechnics*](../../magic/spells/pyrotechnics.md) 1/day.
 
 Emberkin reveal their divine heritage through their skill with fire-based magic and their desire to repent for others' sins. Many suffer from frequent nightmares and strange impulses to commit spontaneous acts of evil. They typically have igneous features such as wispy auburn hair and bright amber eyes, and a rare few are born with albino skin. Emberkin often feel an insatiable need to continually perform acts of good, though perhaps more so than most of their celestial kith they have a propensity to revolt against their benevolent predisposition and follow a darker path. Such wicked individuals are dangerous, and are both pitied and hunted down by their aasimar brethren.

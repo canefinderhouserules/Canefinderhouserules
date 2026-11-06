@@ -2,7 +2,7 @@
 
 
 
-***Granted Powers**: You are a master of illusions and deceptions. Bluff, Disguise, and Stealth are class skills.*
+***Granted Powers**: You are a master of illusions and deceptions. [Bluff](../../rules/skills/bluff.md), [Disguise](../../rules/skills/disguise.md), and Stealth are class skills.*
 
 *Copycat (Sp): You can create an illusory double of yourself as a move action. This double functions as a single mirror image and lasts for a number of rounds equal to your cleric level, or until the illusory duplicate is dispelled or destroyed. You can have no more than one copycat at a time. This ability does not stack with the mirror image spell. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.*
 
@@ -39,7 +39,7 @@
 ###  *Espionage Subdomain*
 
 
-***Associated Domain(s)**: Knowledge, Trickery*
+***Associated Domain(s)**: [Knowledge](../../rules/skills/knowledge.md), Trickery*
 
 
 ***Replacement Power**: The following granted power replaces the lore keeper power of the Knowledge domain or the copycat power of the Trickery domain.*

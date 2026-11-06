@@ -12,4 +12,4 @@ Any swarm that enters your space takes 1d6 points of negative energy damage; thi
 
 At the end of your turn each round the death field is active, you take 1 point of negative energy damage, and you cannot be healed by positive energy effects while the death field is in place. Magic items and spells that protect against negative energy damage do not protect against this damage, but if you are undead or have negative energy affinity (or a similar ability), the death field instead grants fast healing 1 while it is in effect.
 
-You can use this feat's benefit for a number of rounds per day equal to your ranks in Knowledge (planes). These rounds need not be consecutive. If you have at least 11 ranks, you can activate your death field as a swift action.
+You can use this feat's benefit for a number of rounds per day equal to your ranks in [Knowledge](../skills/knowledge.md) (planes). These rounds need not be consecutive. If you have at least 11 ranks, you can activate your death field as a swift action.

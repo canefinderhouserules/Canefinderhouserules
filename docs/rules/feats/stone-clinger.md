@@ -4,4 +4,4 @@ All ropers have a propensity for climbing, but some cling to rock like moss. You
 
 **Prerequisites**: Roper.
 
-**Benefit**: You gain a climb speed of 10 feet and all the benefits of having a climb speed (bonus to Climb checks, always able to take 10 on Climb checks, and so on). You may hang upside down indefinitely from the ceiling, and then fall on any creature passing below, dealing 2d6+6 crushing or piercing damage (your choice).
+**Benefit**: You gain a climb speed of 10 feet and all the benefits of having a climb speed (bonus to [Climb](../skills/climb.md) checks, always able to take 10 on Climb checks, and so on). You may hang upside down indefinitely from the ceiling, and then fall on any creature passing below, dealing 2d6+6 crushing or piercing damage (your choice).

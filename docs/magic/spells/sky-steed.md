@@ -8,4 +8,4 @@
 **Duration** 1 minute/level (D)  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-The target sprouts angelic wings and gains a fly speed equal to its base speed with average maneuverability. It also gains a bonus on Fly checks equal to your caster level.
+The target sprouts angelic wings and gains a fly speed equal to its base speed with average maneuverability. It also gains a bonus on [Fly](../../rules/skills/fly.md) checks equal to your caster level.

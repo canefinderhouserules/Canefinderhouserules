@@ -6,7 +6,7 @@ You can draw weapons faster than most.
 
 **Prerequisite**: Base attack bonus +1.
 
-**Benefit**: You can draw a weapon as a free action instead of as a move action. You can draw a hidden weapon (see the Sleight of Hand skill) as a move action.
+**Benefit**: You can draw a weapon as a free action instead of as a move action. You can draw a hidden weapon (see the [Sleight of Hand](../skills/sleight-of-hand.md) skill) as a move action.
 
 A character who has selected this feat may throw weapons at his full normal rate of attacks (much like a character with a bow).
 

@@ -10,7 +10,7 @@ Grindylows normally have racial Hit Dice, skills, and other abilities, but PCs c
 
 **Aberration**: Grindylows are aberrations with the aquatic subtype.
 
-**Small**: Grindylows are Small creatures. They gain a +1 size bonus to AC, a +1 size bonus on attack rolls, a –1 penalty on combat maneuver checks and to their CMD, and a +4 size bonus on Stealth checks.
+**Small**: Grindylows are Small creatures. They gain a +1 size bonus to AC, a +1 size bonus on attack rolls, a –1 penalty on combat maneuver checks and to their CMD, and a +4 size bonus on [Stealth](../../rules/skills/stealth.md) checks.
 
 **Darkvision**: Grindylows have darkvision with a range of 60 feet.
 

@@ -78,7 +78,7 @@ A hunter is proficient with all simple and [martial weapons](../../equipment/wea
 
 ### Spells
 
-A hunter casts divine spells drawn from the druid and ranger spell lists. Only druid spells of 6th level and lower and ranger spells are considered to be part of the hunter spell list. If a spell appears on both the druid and ranger spell lists, the hunter uses the lower of the two spell levels listed for the spell. For instance, reduce animal is a 2nd-level druid spell and a 3rd-level ranger spell, making it a 2nd-level hunter spell. Likewise, detect poison is a 0-level druid spell and a 2nd-level ranger spell, making it a 0-level hunter spell. The hunter can cast any spell she knows without preparing it ahead of time. To learn or cast a spell, a hunter must have a Wisdom score equal to at least 10 + the spell's level. The Difficulty Class for a saving throw against a hunter's spell is 10 + the spell's level + the hunter's Wisdom modifier. A hunter cannot use spell completion or spell trigger magic items (without making a successful Use Magic Device check) of druid spells of 7th level or higher. Her alignment may restrict her from casting certain spells opposed to her moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells below.
+A hunter casts divine spells drawn from the druid and ranger spell lists. Only druid spells of 6th level and lower and ranger spells are considered to be part of the hunter spell list. If a spell appears on both the druid and ranger spell lists, the hunter uses the lower of the two spell levels listed for the spell. For instance, reduce animal is a 2nd-level druid spell and a 3rd-level ranger spell, making it a 2nd-level hunter spell. Likewise, detect poison is a 0-level druid spell and a 2nd-level ranger spell, making it a 0-level hunter spell. The hunter can cast any spell she knows without preparing it ahead of time. To learn or cast a spell, a hunter must have a Wisdom score equal to at least 10 + the spell's level. The Difficulty Class for a saving throw against a hunter's spell is 10 + the spell's level + the hunter's Wisdom modifier. A hunter cannot use spell completion or spell trigger magic items (without making a successful [Use Magic Device](../../rules/skills/use-magic-device.md) check) of druid spells of 7th level or higher. Her alignment may restrict her from casting certain spells opposed to her moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells below.
 
 Like other spellcasters, a hunter can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given on Table 1-6: Hunter. In addition, she receives bonus spells per day if she has a high Wisdom score (see Table 1-3 of the Core Rulebook).
 
@@ -122,15 +122,15 @@ The creature gains a +2 enhancement bonus to Strength. This bonus increases to +
 
 ### Falcon
 
-The creature gains a +4 competence bonus on Perception checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+The creature gains a +4 competence bonus on [Perception](../../rules/skills/perception.md) checks. This bonus increases to +6 at 8th level and +8 at 15th level.
 
 ### Frog
 
-The creature gains a +4 competence bonus on Swim checks and on Acrobatics checks to jump. These bonuses increase to +6 at 8th level and +8 at 15th level.
+The creature gains a +4 competence bonus on [Swim](../../rules/skills/swim.md) checks and on [Acrobatics](../../rules/skills/acrobatics.md) checks to jump. These bonuses increase to +6 at 8th level and +8 at 15th level.
 
 ### Monkey
 
-The creature gains a +4 competence bonus on Climb checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+The creature gains a +4 competence bonus on [Climb](../../rules/skills/climb.md) checks. This bonus increases to +6 at 8th level and +8 at 15th level.
 
 ### Mouse
 
@@ -138,7 +138,7 @@ The creature gains evasion, as the rogue class feature. At 12th level, this incr
 
 ### Owl
 
-The creature gains a +4 competence bonus on Stealth checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+The creature gains a +4 competence bonus on [Stealth](../../rules/skills/stealth.md) checks. This bonus increases to +6 at 8th level and +8 at 15th level.
 
 ### Snake
 
@@ -162,7 +162,7 @@ A hunter counts her total hunter level as both druid levels and ranger levels fo
 
 ### Wild Empathy (Ex)
 
-A hunter can improve the initial attitude of an animal. This ability functions as a Diplomacy check to improve the attitude of a person. The hunter rolls 1d20 and adds her hunter level and her Charisma modifier to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
+A hunter can improve the initial attitude of an animal. This ability functions as a [Diplomacy](../../rules/skills/diplomacy.md) check to improve the attitude of a person. The hunter rolls 1d20 and adds her hunter level and her Charisma modifier to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
 
 To use wild empathy, the hunter and the animal must be within 30 feet of one another under normal conditions. Generally, influencing an animal in this way takes 1 minute but, as with influencing people, it might take more or less time.
 
@@ -174,7 +174,7 @@ At 2nd level, a hunter chooses either [Precise Shot](../../rules/feats/precise-s
 
 ### Track (Ex)
 
-At 2nd level, a hunter adds 1/2 her level to Survival skill checks made to follow tracks.
+At 2nd level, a hunter adds 1/2 her level to [Survival](../../rules/skills/survival.md) skill checks made to follow tracks.
 
 ### Hunter Tactics (Ex)
 
@@ -190,7 +190,7 @@ In effect, the hunter loses the bonus feat in exchange for the new one. She can 
 
 ### Improved Empathic Link (Su)
 
-At 4th level, the hunter gains an empathic link with her animal companion. This functions like an empathic link with a familiar, except the hunter can also see through a companion's eyes as a swift action, maintaining this connection as long as she likes (as long as the companion is within 1 mile) and ending it as a free action. The hunter is blinded while maintaining this connection.
+At 4th level, the hunter gains an empathic link with her animal companion. This functions like an empathic link with a familiar, except the hunter can also see through a companion's eyes as a swift action, maintaining this connection as long as she likes (as long as the companion is within 1 mile) and ending it as a free action. The hunter is [blinded](../../rules/appendices/conditions.md#blinded) while maintaining this connection.
 
 ### Woodland Stride (Ex)
 
@@ -226,7 +226,7 @@ At 14th level, the range of the hunter's empathic link with her animal companion
 
 At 17th level, the hunter and her animal companion are respected or even feared by other animals, so long as the animals are approximately of the same type as any of the hunter's current animal foci: bat for bats, tiger with felines, falcon for birds, snake for reptiles, and so on. No animal in this category (including dire varieties) willingly attacks the hunter or her companion unless magically compelled to or if the hunter or companion attacks it first.
 
-The hunter and her companion can attempt to demoralize animals in the appropriate category as a swift action, rolling 1d20 and adding the hunter's level and her Charisma modifier to determine the Intimidate check result.
+The hunter and her companion can attempt to demoralize animals in the appropriate category as a swift action, rolling 1d20 and adding the hunter's level and her Charisma modifier to determine the [Intimidate](../../rules/skills/intimidate.md) check result.
 
 ### Master Hunter (Ex)
 

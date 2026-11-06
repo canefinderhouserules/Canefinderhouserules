@@ -18,9 +18,9 @@
 
 **Deaf** (400 XP; 800 XP for casters): the character cannot make hearing checks, takes –4 to initiative depending on context, and has a 20% chance of failure when casting a spell with a verbal component.
 
-**Vision Problem** (100 XP): –1 to attacks in general, –4 on visual Perception, and the character can only see half the normal distance. Reading is also difficult. Can be corrected with glasses.
+**Vision Problem** (100 XP): –1 to attacks in general, –4 on visual [Perception](../../rules/skills/perception.md), and the character can only see half the normal distance. Reading is also difficult. Can be corrected with glasses.
 
-**Speech Problem** (100 XP; 500 XP for casters): the character stutters, has Tourette syndrome, or something similar. They take –4 on Diplomacy and similar checks and may suffer a 20% arcane failure chance on spells with a verbal component.
+**Speech Problem** (100 XP; 500 XP for casters): the character stutters, has Tourette syndrome, or something similar. They take –4 on [Diplomacy](../../rules/skills/diplomacy.md) and similar checks and may suffer a 20% arcane failure chance on spells with a verbal component.
 
 **Nightmares** (250 XP): the character has horrible nightmares. Roll 1d10 each night; on a 1 or 2 they may gain stress on waking, also waking others with terrible screams. The character also takes –4 to any spell that manipulates dreams.
 
@@ -36,9 +36,9 @@
 
 **Disgust** (100 XP): something fills your character with absolute revulsion (rats, insects, drinking from the same cup; your choice). You must make a DC 12 Will save to interact with the object, or end up making a scene. A natural 1 means vomiting or retching.
 
-**Hatred** (100/200/300 XP): you hate someone: a hatred of a gender, of humanity, of a particular race, and so on. The larger the group and the more likely the interaction, the more XP. An orc who hates humans is worth 100; a character who hates women is worth 300; an elf who hates the horde is worth 200. In combat you must make a DC 14 Will save or go attack that person in some way. You take –4 on Diplomacy when talking to them and need a Bluff check to hide your annoyance.
+**Hatred** (100/200/300 XP): you hate someone: a hatred of a gender, of humanity, of a particular race, and so on. The larger the group and the more likely the interaction, the more XP. An orc who hates humans is worth 100; a character who hates women is worth 300; an elf who hates the horde is worth 200. In combat you must make a DC 14 Will save or go attack that person in some way. You take –4 on Diplomacy when talking to them and need a [Bluff](../../rules/skills/bluff.md) check to hide your annoyance.
 
-**Old Battle Wound** (150 XP): one of your old wounds never healed well. If you roll a natural 1 on any physical check (Athletics, Acrobatics, a combat maneuver, etc.), you suffer an effect similar to [*pain strike*](../../magic/spells/pain-strike.md), cast by a wizard of your level.
+**Old Battle Wound** (150 XP): one of your old wounds never healed well. If you roll a natural 1 on any physical check (Athletics, [Acrobatics](../../rules/skills/acrobatics.md), a combat maneuver, etc.), you suffer an effect similar to [*pain strike*](../../magic/spells/pain-strike.md), cast by a wizard of your level.
 
 **Lame** (750 XP): the character cannot use one leg well. They lose 5 feet of their maximum movement speed and take –4 on Acrobatics and Athletics checks. Difficult terrain is also more severe for them.
 

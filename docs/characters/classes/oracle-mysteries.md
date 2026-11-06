@@ -8,7 +8,7 @@ Each oracle must choose from among the following mysteries. Unless otherwise not
 
 **Typical deities**: a god of ale, bravery, freedom, and wine; a god of battle, strength, and weapons; a goddess of honor, justice, rulership, and valor; a god of destruction, disaster, and wrath.
 
-**Class Skills**: An oracle with the battle mystery adds Intimidate, Knowledge (engineering), Perception, and Ride to her list of class skills.
+**Class Skills**: An oracle with the battle mystery adds [Intimidate](../../rules/skills/intimidate.md), [Knowledge](../../rules/skills/knowledge.md) (engineering), [Perception](../../rules/skills/perception.md), and Ride to her list of class skills.
 
 **Bonus Spells**: enlarge person (2nd), fog cloud (4th), magic vestment (6th), wall of fire (8th), righteous might (10th), mass bull’s strength (12th), control weather (14th), earthquake (16th), storm of vengeance (18th).
 
@@ -16,7 +16,7 @@ Each oracle must choose from among the following mysteries. Unless otherwise not
 
 **Battlecry (Ex)**: As a standard action, you can unleash an inspiring battlecry. All allies within 100 feet who hear your cry gain a +1 morale bonus on attack rolls, skill checks, and saving throws for a number of rounds equal to your Charisma modifier. At 10th level, this bonus increases to +2. You can use this ability once per day, plus one additional time per day at 5th level and for every five levels thereafter.
 
-**Battlefield Clarity (Ex)**: Once per day, as an immediate action, whenever you fail a saving throw that causes you to become blind, deaf, frightened, panicked, paralyzed, shaken, or stunned, you may attempt that saving throw again, with a +4 insight bonus on the roll. You must take the second result, even if it is worse. At 7th and 15th level, you can use this ability one additional time per day.
+**Battlefield Clarity (Ex)**: Once per day, as an immediate action, whenever you fail a saving throw that causes you to become blind, deaf, [frightened](../../rules/appendices/conditions.md#frightened), [panicked](../../rules/appendices/conditions.md#panicked), [paralyzed](../../rules/appendices/conditions.md#paralyzed), [shaken](../../rules/appendices/conditions.md#shaken), or [stunned](../../rules/appendices/conditions.md#stunned), you may attempt that saving throw again, with a +4 insight bonus on the roll. You must take the second result, even if it is worse. At 7th and 15th level, you can use this ability one additional time per day.
 
 **Combat Healer (Su)**: Whenever you cast a cure spell (a spell with “cure” in its name), you can cast it as a swift action, as if using the [Quicken Spell](../../rules/feats/quicken-spell.md) feat, by expending two spell slots. This does not increase the level of the spell. You can use this ability once per day at 7th level and one additional time per day for every four levels beyond 7th. You must be at least 7th level to select this revelation.
 
@@ -24,7 +24,7 @@ Each oracle must choose from among the following mysteries. Unless otherwise not
 
 **Maneuver Mastery (Ex)**: Select one type of combat maneuver. When performing the selected maneuver, you treat your oracle level as your base attack bonus (plus the BAB from other classes) when determining your CMB. At 7th level, you gain the Improved feat (such as [Improved Trip](../../rules/feats/improved-trip.md)) that grants you a bonus when performing that maneuver. At 11th level, you gain the Greater feat (such as [Greater Trip](../../rules/feats/greater-trip.md)) that grants you a bonus when performing that maneuver. You do not need to meet the prerequisites to receive these feats.
 
-**Resiliency (Ex)**: You are not disabled and you do not gain the staggered condition if you are reduced to exactly 0 hit points. At 7th level, you gain Diehard as a bonus feat. At 11th level, you do not lose a hit point when you take a standard action while disabled. You do not need to meet the prerequisite to receive the Diehard feat.
+**Resiliency (Ex)**: You are not disabled and you do not gain the [staggered](../../rules/appendices/conditions.md#staggered) condition if you are reduced to exactly 0 hit points. At 7th level, you gain Diehard as a bonus feat. At 11th level, you do not lose a hit point when you take a standard action while disabled. You do not need to meet the prerequisite to receive the Diehard feat.
 
 **Skill at Arms (Ex)**: You gain proficiency in all [martial weapons](../../equipment/weapons-martial.md) and [heavy armor](../../equipment/armor.md).
 
@@ -42,7 +42,7 @@ At 8th level, you gain [Improved Critical](../../rules/feats/improved-critical.m
 
 **Typical deities**: a god of greed, murder, poison, and secrets; a goddess of birth, death, fate, and prophecy; a goddess of disease, gluttony, and undeath.
 
-**Class Skills**: An oracle with a bones mystery adds Bluff, Disguise, Intimidate, and Stealth to her list of class skills.
+**Class Skills**: An oracle with a bones mystery adds [Bluff](../../rules/skills/bluff.md), [Disguise](../../rules/skills/disguise.md), Intimidate, and Stealth to her list of class skills.
 
 **Bonus Spells**: cause fear (2nd), false life (4th), animate dead (6th), fear (8th), slay living (10th), circle of death (12th), control undead (14th), horrid wilting (16th), wail of the banshee (18th).
 
@@ -50,7 +50,7 @@ At 8th level, you gain [Improved Critical](../../rules/feats/improved-critical.m
 
 **Armor of Bones (Su)**: You can conjure armor made of bones that grants you a +4 armor bonus. At 7th level, and every four levels thereafter, this bonus increases by +2. At 13th level, this armor grants you DR 5/bludgeoning. You can use this armor for 1 hour per day per oracle level. This duration does not need to be consecutive, but it must be spent in 1-hour increments.
 
-**Bleeding Wounds (Su)**: Whenever a creature takes damage from one of your spells or effects that causes negative energy damage (such as inflict light wounds or the death’s touch revelation), it begins to bleed, taking 1 point of damage each round. At 5th level, and every five levels thereafter, this damage increases by 1. The bleeding can be stopped by a DC 15 Heal check or any effect that heals damage.
+**Bleeding Wounds (Su)**: Whenever a creature takes damage from one of your spells or effects that causes negative energy damage (such as inflict light wounds or the death’s touch revelation), it begins to bleed, taking 1 point of damage each round. At 5th level, and every five levels thereafter, this damage increases by 1. The bleeding can be stopped by a DC 15 [Heal](../../rules/skills/heal.md) check or any effect that heals damage.
 
 **Death’s Touch (Su)**: You can cause terrible wounds to appear on a creature with a melee touch attack. This attack deals 1d6 points of negative energy damage +1 point for every two oracle levels you possess. If used against an undead creature, it heals damage and grants a +2 channel resistance for 1 minute. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
@@ -76,7 +76,7 @@ Whenever this ability gives a target a negative level, you heal a number of hit 
 
 Elemental oracles gain their powers from forces that balance or blend elements together. While an oracle typically channels only a single element, occasionally one arises that acts as a vessel for all four elements in concert.
 
-**Class Skills**: An oracle with the elemental mystery adds Acrobatics, Climb, Stealth, and Swim to her list of class skills.
+**Class Skills**: An oracle with the elemental mystery adds [Acrobatics](../../rules/skills/acrobatics.md), [Climb](../../rules/skills/climb.md), [Stealth](../../rules/skills/stealth.md), and Swim to her list of class skills.
 
 **Bonus Spells**: *Endure elements* (2nd), [*resist energy*](../../magic/spells/resist-energy.md) (4th), [*elemental aura*](../../magic/spells/elemental-aura.md) (6th), *elemental body I* (8th), *elemental body II* (10th), *elemental body III* (12th), *elemental body IV* (14th), [*create demiplane*](../../magic/spells/create-demiplane.md) (16th), [*elemental swarm*](../../magic/spells/elemental-swarm.md) (18th).
 
@@ -88,7 +88,7 @@ Elemental oracles gain their powers from forces that balance or blend elements t
 
 **Elemental Aegis (Su)**: When you take this revelation, choose one element: air, earth, fire, or water. You can conjure an enveloping, protective force made of this element that grants you a +4 armor bonus to AC (this manifests as a solid rush of air over your body, rocky plates covering your skin, and the like). At 7th level, and every 4 levels thereafter, this bonus increases by 2. You can use this armor for 1 hour per day per oracle level. This duration does not need to be consecutive, but it must be spent in 1-hour increments.
 
-At 13th level, you receive an additional boon depending on the element you chose. If you chose air, you gain a +2 bonus on Reflex saving throws. If you chose earth, you gain a +2 bonus to CMD. If you chose fire, you gain fire resistance 2 (this stacks with any other fire resistance you have). If you chose water, you gain a +4 bonus on Swim checks.
+At 13th level, you receive an additional boon depending on the element you chose. If you chose air, you gain a +2 bonus on Reflex saving throws. If you chose earth, you gain a +2 bonus to CMD. If you chose fire, you gain fire resistance 2 (this stacks with any other fire resistance you have). If you chose water, you gain a +4 bonus on [Swim](../../rules/skills/swim.md) checks.
 
 **Elemental Allies (Su)**: The beings tied to the fundamental elements can hear your calls plainly when you seek aid from them. When casting *summon monster* spells to summon elementals with the air, earth, fire, or water subtype, you can cast the spell as a standard action instead of a casting time of 1 round. You can use this ability a number of times per day equal to your oracle level. You must be at least 7th level to select this revelation.
 
@@ -100,7 +100,7 @@ At 13th level, you receive an additional boon depending on the element you chose
 
 **Reforged Arms (Su)**: The forge’s fire turns earthen ore into useful metal, and you can hone weapons in the same way. As a standard action, you can touch a metal or stone weapon and transform it into a masterwork equivalent if it is not already a masterwork or magical weapon. At 3rd level, you can also have the weapon act as if it were made of alchemical silver or cold iron (your choice when you activate this ability) for the purpose of bypassing damage reduction. At 7th level, 15th level, and 19th level, the weapon gains a cumulative +1 enhancement bonus, though this bonus does not stack with any enhancement bonus the weapon already has. At 11th level, you can have the weapon act as if it were made of adamantine rather than of alchemical silver or cold iron. This effect lasts for 1 minute per oracle level, and you can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
-**Roiling Soil (Su)**: Combining your mastery of earth and water, you shape the battlefield in your favor, bending the terrain to benefit you and your allies and hinder any who might oppose you. The ground within 5 feet per 2 oracle levels you have shifts and rolls unpredictably; if you use this ability underwater, the surrounding waters churn. This area moves with you, and you and your allies are unaffected by the roiling terrain. Other creatures can move within the area at half speed with a successful DC 10 Acrobatics check. Failure means they stop moving for the round, while failure by 5 or more causes them to fall prone; if underwater, creatures gain the effects of being off-balance instead of falling prone. This effect lasts a number of rounds equal to your oracle level, and you can use this ability a number of times per day equal to 3 + your Charisma modifier.
+**Roiling Soil (Su)**: Combining your mastery of earth and water, you shape the battlefield in your favor, bending the terrain to benefit you and your allies and hinder any who might oppose you. The ground within 5 feet per 2 oracle levels you have shifts and rolls unpredictably; if you use this ability underwater, the surrounding waters churn. This area moves with you, and you and your allies are unaffected by the roiling terrain. Other creatures can move within the area at half speed with a successful DC 10 Acrobatics check. Failure means they stop moving for the round, while failure by 5 or more causes them to fall [prone](../../rules/appendices/conditions.md#prone); if underwater, creatures gain the effects of being off-balance instead of falling prone. This effect lasts a number of rounds equal to your oracle level, and you can use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 **Sweeping Impact (Ex)**: You can shake the earth and buffet foes with the roaring force of wind you draw from the Elemental Plane of Air. When performing a bull rush as part of a charge, if you push the target at least 5 feet, you can attempt a trip combat maneuver against that creature as a free action. You are not tripped if you fail this check by 10 or more. At 7th level, you can bull rush or trip creatures two size categories larger than you; for every 4 levels you gain beyond 7th, you can bull rush or trip creatures an additional size category larger.
 
@@ -144,7 +144,7 @@ You can use this ability once per day. You must be at least 11th level to select
 
 **Typical deities**: a goddess of dreams, luck, stars, and travelers; a god of nature, the sea, and weather; a goddess of birth, death, fate, and prophecy; a goddess of healing, honesty, redemption, and the sun.
 
-**Class Skills**: An oracle with the heavens mystery adds Fly, Knowledge (arcana), Perception, and Survival to her list of class skills.
+**Class Skills**: An oracle with the heavens mystery adds [Fly](../../rules/skills/fly.md), Knowledge (arcana), Perception, and Survival to her list of class skills.
 
 **Bonus Spells**: color spray (2nd), hypnotic pattern (4th), daylight (6th), rainbow pattern (8th), overland flight (10th), chain lightning (12th), prismatic spray (14th), sunburst (16th), meteor swarm (18th).
 
@@ -158,7 +158,7 @@ You can use this ability once per day. You must be at least 11th level to select
 
 **Guiding Star (Su)**: Whenever you can see the open sky at night, you can determine your precise location. When the night sky is visible to you, you may also add your Charisma modifier to your Wisdom modifier on all Wisdom-based checks. In addition, once per night while outdoors, you can cast one spell as if it were modified by the [Empower Spell](../../rules/feats/empower-spell.md), Extend Spell, Silent Spell, or Still spell feat without increasing the spell’s casting time or level.
 
-**Interstellar Void (Su)**: You call upon the frigid depths of outer space to bring a terrible chill to your enemies. As a standard action, one target within 30 feet is cloaked in the void and takes 1d6 points of cold damage per level. A successful Fortitude save halves this damage. At 10th level, the interstellar void is so extreme that enemies who fail their saving throw are fatigued. At 15th level, creatures who fail their save are exhausted and stunned for 1 round. You can use this ability once per day plus one additional time per day at 10th level.
+**Interstellar Void (Su)**: You call upon the frigid depths of outer space to bring a terrible chill to your enemies. As a standard action, one target within 30 feet is cloaked in the void and takes 1d6 points of cold damage per level. A successful Fortitude save halves this damage. At 10th level, the interstellar void is so extreme that enemies who fail their saving throw are [fatigued](../../rules/appendices/conditions.md#fatigued). At 15th level, creatures who fail their save are [exhausted](../../rules/appendices/conditions.md#exhausted) and stunned for 1 round. You can use this ability once per day plus one additional time per day at 10th level.
 
 **Lure of the Heavens (Su)**: Your connection to the skies above is so strong that your feet barely touch the ground. At 1st level, you no longer leave tracks. At 5th level, you can hover up to 6 inches above the ground or even above liquid surfaces, as if levitating. At 10th level, you gain the ability to fly, as per the spell, for a number of minutes per day equal to your oracle level. This duration does not need to be consecutive, but it must be spent in 1-minute increments.
 
@@ -178,7 +178,7 @@ Additionally, you may disrupt a lycanthrope’s connection to the moon with a su
 
 **Typical deities**: a god of nature, the sea, and weather; a god of history, knowledge, and self-perfection; a goddess of birth, death, fate, and prophecy; a goddess of healing, honesty, redemption, and the sun.
 
-**Class Skills**: An oracle with the life mystery adds Handle Animal, Knowledge (nature), and Survival to her list of class skills.
+**Class Skills**: An oracle with the life mystery adds [Handle Animal](../../rules/skills/handle-animal.md), Knowledge (nature), and Survival to her list of class skills.
 
 **Bonus Spells**: detect undead (2nd), lesser restoration (4th), neutralize poison (6th), restoration (8th), breath of life (10th), heal (12th), greater restoration (14th), mass heal (16th), true resurrection (18th).
 
@@ -206,13 +206,13 @@ You may provide first aid to two people or treat two people for poison as a stan
 
 **Spirit Boost (Su)**: Whenever your healing spells heal a target up to its maximum hit points, any excess points persist for 1 round per level as temporary hit points (up to a maximum number of temporary hit points equal to your oracle level).
 
-**Final Revelation**: Upon reaching 20th level, you become a perfect channel for life energy. You become immune to bleed, death attacks, exhaustion, fatigue, nausea effects, negative levels, and sickened effects. Ability damage and drain cannot reduce you below 1 in any ability score. You automatically make saving throws against massive damage. When you are below 0 hit points, you do not die until your negative total is in excess of twice your Constitution score.
+**Final Revelation**: Upon reaching 20th level, you become a perfect channel for life energy. You become immune to bleed, death attacks, exhaustion, fatigue, nausea effects, negative levels, and [sickened](../../rules/appendices/conditions.md#sickened) effects. Ability damage and drain cannot reduce you below 1 in any ability score. You automatically make saving throws against massive damage. When you are below 0 hit points, you do not die until your negative total is in excess of twice your Constitution score.
 
 ## Lore Mystery
 
 **Typical deities**: a god of cities, law, merchants, and wealth; a god of history, knowledge, and self-perfection; a god of magic.
 
-**Class Skills**: An oracle with the lore mystery adds Appraise and all Knowledge skills to her list of class skills.
+**Class Skills**: An oracle with the lore mystery adds [Appraise](../../rules/skills/appraise.md) and all Knowledge skills to her list of class skills.
 
 **Bonus Spells**: identify (2nd), tongues (4th), locate object (6th), legend lore (8th), contact other plane (10th), mass owl’s wisdom (12th), vision (14th), moment of prescience (16th), time stop (18th).
 
@@ -244,7 +244,7 @@ You may provide first aid to two people or treat two people for poison as a stan
 
 **Typical deities**: a god of family, farming, hunting, and trade; a god of nature, the sea, and weather.
 
-**Class Skills**: An oracle with the nature mystery adds Climb, Fly, Knowledge (nature), Ride, Survival, and Swim to her list of class skills.
+**Class Skills**: An oracle with the nature mystery adds Climb, Fly, Knowledge (nature), [Ride](../../rules/skills/ride.md), [Survival](../../rules/skills/survival.md), and Swim to her list of class skills.
 
 **Bonus Spells**: charm animal (2nd), barkskin (4th), speak with plants (6th), grove of respite* (8th), awaken (10th), stone tell (12th), creeping doom (14th), animal shapes (16th), world wave* (18th).
 
@@ -272,7 +272,7 @@ You can’t gain more than the target’s current hit points + the target’s Co
 
 **Undo Artifice (Sp)**: At 11th-level, you gain the ability to reduce a nonliving item to its component parts, essentially erasing the hand of artifice and rendering the item into a pile of raw natural materials. This effect acts as the spell polymorph any object, working on both magical and nonmagical nonliving objects. The duration is always permanent. Unlike polymorph any object, it cannot be used to mimic the effects of other spells. Items subject to this effect receive a Fortitude saving throw to negate the effect. Magic items receive a circumstance bonus on this save equal to +1 for every 5,000 gp in the item’s value. You may use undo artifice a number of times per day equal to your Charisma modifier.
 
-**Final Revelation**: At 20th level, you have discovered the intrinsic secrets of life itself, granting you incredible control over your own body. Once per day, you can surround yourself with an organic cocoon as a full-round action. While enclosed in the cocoon, you are considered helpless. Eight hours later, you emerge having changed your type to plant, animal, or humanoid, gaining superficial physical characteristics as appropriate (see the Pathfinder RPG Bestiary). This change does not alter your Hit Dice, hit points, saving throws, skill points, class skills, or proficiencies. Each time the transformation is made, you are cleansed of all poisons or diseases, are restored to full hit points, and heal all ability damage. You must select a new type every time the transformation is made.
+**Final Revelation**: At 20th level, you have discovered the intrinsic secrets of life itself, granting you incredible control over your own body. Once per day, you can surround yourself with an organic cocoon as a full-round action. While enclosed in the cocoon, you are considered [helpless](../../rules/appendices/conditions.md#helpless). Eight hours later, you emerge having changed your type to plant, animal, or humanoid, gaining superficial physical characteristics as appropriate (see the Pathfinder RPG Bestiary). This change does not alter your Hit Dice, hit points, saving throws, skill points, class skills, or proficiencies. Each time the transformation is made, you are cleansed of all poisons or diseases, are restored to full hit points, and heal all ability damage. You must select a new type every time the transformation is made.
 
 ## Stone Mystery
 
@@ -346,7 +346,7 @@ You can use this revelation once per day, plus one additional time at 11th and 1
 
 **Typical deities**: a god of nature, the sea, and weather; a goddess of birth, death, fate, and prophecy.
 
-**Class Skills**: An oracle with the waves mystery adds Acrobatics, Escape Artist, Knowledge (nature), and Swim to her list of class skills.
+**Class Skills**: An oracle with the waves mystery adds Acrobatics, [Escape Artist](../../rules/skills/escape-artist.md), Knowledge (nature), and Swim to her list of class skills.
 
 **Bonus Spells**: touch of the sea* (2nd), slipstream* (4th), water breathing (6th), wall of ice (8th), geyser* (10th), fluid form* (12th), vortex* (14th), seamantle* (16th), tsunami* (18th).
 
@@ -398,7 +398,7 @@ You can use this ability once per day. You must be 11th level to select this rev
 
 **Spark Skin (Ex)**: You gain resist electricity 5. This resistance increases to 10 at 5th level and 20 at 11th level. At 17th level, you gain immunity to electricity.
 
-**Thunderburst (Ex)**: As a standard action, you can create a blast of air accompanied by a loud peal of thunder. The blast has a range of 100 feet and has a 20-foot radius, increasing by 5 feet for every 4 oracle levels after 7th. Creatures in the area take 1d6 points of bludgeoning damage per oracle level and are deafened for 1 hour, with a Fortitude save resulting in half damage and no deafness. You must be at least 7th level to select this revelation. You can use this ability once per day, plus one additional time per day at 11th level and every four levels thereafter.
+**Thunderburst (Ex)**: As a standard action, you can create a blast of air accompanied by a loud peal of thunder. The blast has a range of 100 feet and has a 20-foot radius, increasing by 5 feet for every 4 oracle levels after 7th. Creatures in the area take 1d6 points of bludgeoning damage per oracle level and are [deafened](../../rules/appendices/conditions.md#deafened) for 1 hour, with a Fortitude save resulting in half damage and no deafness. You must be at least 7th level to select this revelation. You can use this ability once per day, plus one additional time per day at 11th level and every four levels thereafter.
 
 **Touch of Electricity (Su)**: As a standard action, you can perform a melee touch attack that deals 1d6 points of electricity damage +1 point for every two oracle levels you possess. You can use this ability a number of times per day equal to 3 + your Charisma modifier. At 11th level, any weapon that you wield is treated as a shock weapon.
 
@@ -412,7 +412,7 @@ You can use this ability once per day. You must be 11th level to select this rev
 
 ## Intrigue Mystery
 
-**Class Skills**: An oracle with the intrigue mystery adds Bluff, Disguise, Sleight of Hand, and Stealth to her list of class skills.
+**Class Skills**: An oracle with the intrigue mystery adds Bluff, Disguise, [Sleight of Hand](../../rules/skills/sleight-of-hand.md), and Stealth to her list of class skills.
 
 **Bonus Spells**: *Charm person* (2nd), [*false belief*](../../magic/spells/false-belief.md) (4th), [*suggestion*](../../magic/spells/suggestion.md) (6th), [*sending*](../../magic/spells/sending.md) (8th), [*true seeing*](../../magic/spells/true-seeing.md) (10th), [*symbol of persuasion*](../../magic/spells/symbol-of-persuasion.md) (12th), *greater scrying* (14th), [*mind blank*](../../magic/spells/mind-blank.md) (16th), [*overwhelming presence*](../../magic/spells/overwhelming-presence.md) (18th).
 
@@ -436,7 +436,7 @@ You can use this ability once per day. You must be 11th level to select this rev
 
 **Veiled Venom (Sp)**: The powers of intrigue veil your poisons and magic items from magical scrutiny. As a standard action, you can touch an object, granting it the benefits of the spells [*magic aura*](../../magic/spells/magic-aura.md) and [*obscure poison*](../../magic/spells/obscure-poison.md). You can use this ability at will, but each time you do, the effects of any previous use end.
 
-**Whispered Glimpses (Su)**: The whispers of intrigue sing to you with glimpses of insight into others’ presence and motives, granting you greater awareness than your own senses could manage. You can add your Charisma modifier instead of your Wisdom bonus on Perception and Sense Motive checks.
+**Whispered Glimpses (Su)**: The whispers of intrigue sing to you with glimpses of insight into others’ presence and motives, granting you greater awareness than your own senses could manage. You can add your Charisma modifier instead of your Wisdom bonus on Perception and [Sense Motive](../../rules/skills/sense-motive.md) checks.
 
 **Final Revelation**: Upon reaching 20th level, you become a master of intrigue. You can apply Silent Spell or Still Spell to any spell you cast without increasing the level or casting time. You do not need to possess these feats to use this ability.
 
@@ -456,7 +456,7 @@ You can use this ability once per day. You must be 11th level to select this rev
 
 **Mantle of Moonlight (Su)**: Your innate understanding of the moon renders you immune to the curse of lycanthropy. Additionally, you may disrupt a lycanthrope's connection to the moon with a successful touch attack. This action automatically forces the lycanthrope into its humanoid form, in which it must remain for a number of rounds equal to your oracle level. Upon reaching 5th level, you can use this ability to force others into a rage, as the spell. Using this ability is a melee touch attack. You can use this ability once per day at 5th level plus one additional time per day for every 5 levels above 5th.
 
-**Moonbeam (Su)**: You can fire a ray of moonlight as a ranged touch attack at any creature within 30 feet. This ray deals 1d6 points of damage + 1 for every 2 oracle levels you possess. In addition, the target must succeed at a Fortitude save or become blinded for 1 round. You can use this ability a number of times per day equal to your Charisma modifier (minimum 1).
+**Moonbeam (Su)**: You can fire a ray of moonlight as a ranged touch attack at any creature within 30 feet. This ray deals 1d6 points of damage + 1 for every 2 oracle levels you possess. In addition, the target must succeed at a Fortitude save or become [blinded](../../rules/appendices/conditions.md#blinded) for 1 round. You can use this ability a number of times per day equal to your Charisma modifier (minimum 1).
 
 **Moonlight Bridge (Su)**: You summon a bridge of moonlight. The 10-foot-wide span touches the ground at a point adjacent to you. It can extend from this point in any direction for 10 feet per oracle level. The path persists until you have crossed over the bridge or for 24 hours, whichever is shorter. You may summon a moonlight bridge a number of times per day equal to your Charisma bonus. Should the bridge be attacked, treat it as a [*wall of force*](../../magic/spells/wall-of-force.md).
 
@@ -682,7 +682,7 @@ Oracles of the rifts mystery have become marked in some way by an incursion into
 
 **Typical deities**: gods of the sun, travel, nature, and luck.
 
-**Class Skills**: An oracle with the solar mystery adds Fly, Knowledge (geography), Linguistics, and Survival to her list of class skills.
+**Class Skills**: An oracle with the solar mystery adds Fly, Knowledge (geography), [Linguistics](../../rules/skills/linguistics.md), and Survival to her list of class skills.
 
 **Bonus Spells**: [*faerie fire*](../../magic/spells/faerie-fire.md) (2nd), [*flaming sphere*](../../magic/spells/flaming-sphere.md) (4th), [*daylight*](../../magic/spells/daylight.md) (6th), [*dimension door*](../../magic/spells/dimension-door.md) (8th), [*planar adaptation*](../../magic/spells/planar-adaptation.md) (10th), [*sirocco*](../../magic/spells/sirocco.md) (12th), [*sunbeam*](../../magic/spells/sunbeam.md) (14th), [*sunburst*](../../magic/spells/sunburst.md) (16th), [*prismatic sphere*](../../magic/spells/prismatic-sphere.md) (18th).
 

@@ -4,4 +4,4 @@ You choose to resist rather than serve the gods.
 
 **Prerequisites**: [Divine Defiance](divine-defiance.md).
 
-**Benefit**: You gain a +2 insight bonus on Bluff, Diplomacy, Intimidate, Knowledge, Perform (oratory), and Sense Motive checks involving any divine spellcaster or outsider that casts spells as a cleric.
+**Benefit**: You gain a +2 insight bonus on [Bluff](../skills/bluff.md), [Diplomacy](../skills/diplomacy.md), [Intimidate](../skills/intimidate.md), [Knowledge](../skills/knowledge.md), [Perform](../skills/perform.md) (oratory), and [Sense Motive](../skills/sense-motive.md) checks involving any divine spellcaster or outsider that casts spells as a cleric.

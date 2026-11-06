@@ -48,7 +48,7 @@ A character who chooses bard as his secondary class gains the following secondar
 
 **Bardic Knowledge**: At 7rd level, he gains the bardic knowledge class feature, treating his character level as his effective bard level.
 
-**Versatile Performance**: At 11th level, he gains versatile performance in one Perform skill of his choice. He can retrain all his ranks in the two associated skills for free.
+**Versatile Performance**: At 11th level, he gains versatile performance in one [Perform](../../rules/skills/perform.md) skill of his choice. He can retrain all his ranks in the two associated skills for free.
 
 **Lore Master**: At 15th level, he gains lore master as a 5th-level bard.
 

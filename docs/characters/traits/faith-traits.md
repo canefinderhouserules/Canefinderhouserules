@@ -16,7 +16,7 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Always Threatening** *(deity of thieves)*: You are fast on the draw. As a move action, you can draw a light, concealed weapon for which you have Weapon Focus. If you have the [Quick Draw](../../rules/feats/quick-draw.md) feat, drawing this weapon is a free action.
 
-**Arcane Depth** *(deity of magic)*: You have studied the great masters of spellcraft, and your knowledge is exceptional. You gain a bonus of either +1 on Spellcraft checks or +2 on Knowledge (arcana) checks. You must choose which bonus you receive when you take the trait; once chosen, it cannot be changed.
+**Arcane Depth** *(deity of magic)*: You have studied the great masters of spellcraft, and your knowledge is exceptional. You gain a bonus of either +1 on [Spellcraft](../../rules/skills/spellcraft.md) checks or +2 on [Knowledge](../../rules/skills/knowledge.md) (arcana) checks. You must choose which bonus you receive when you take the trait; once chosen, it cannot be changed.
 
 **Battlefield Surgeon** *(deity of pain)*: You’re skilled at both dealing and repairing wounds. Heal is a class skill for you, and you can use the treat deadly wounds aspect of Heal 1 additional time per creature per day.
 
@@ -30,27 +30,27 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Broken Mind** *(deity of madness)*: You’re used to living with your own madness, and gain a +2 trait bonus on saving throws against madness and confusion effects.
 
-**Centered** *(deity of perfection and knowledge)*: Having anchored yourself in your faith and your knowledge of yourself, you’ve made it difficult for others to dominate you. You gain a +1 trait bonus on saving throws against charm and compulsion effects, and the DC of any attempts to use the Intimidate skill on you increases by 1.
+**Centered** *(deity of perfection and knowledge)*: Having anchored yourself in your faith and your knowledge of yourself, you’ve made it difficult for others to dominate you. You gain a +1 trait bonus on saving throws against charm and compulsion effects, and the DC of any attempts to use the [Intimidate](../../rules/skills/intimidate.md) skill on you increases by 1.
 
 **Cleansing Light** *(deity of the sun and redemption)*: Your faith is pure and strong, and your positive energy purges undead. When dealing damage to undead with your channel energy ability, you can reroll any damage die roll that results in a natural 1.
 
-**Contract Master** *(deity of tyranny and contracts)*: Your facility with contracts makes you good at understanding dense text and obfuscating your intent. You gain a +1 trait bonus on Linguistics checks, and Linguistics is a class skill for you.
+**Contract Master** *(deity of tyranny and contracts)*: Your facility with contracts makes you good at understanding dense text and obfuscating your intent. You gain a +1 trait bonus on [Linguistics](../../rules/skills/linguistics.md) checks, and Linguistics is a class skill for you.
 
 **Corpse Hunter** *(deity of death, fate, and prophecy)*: You have dedicated yourself to the destruction of undead, and gain a +1 trait bonus on attacks made against undead.
 
 **Covenant of the End** *(any deity of death or plague)*: Because your soul is pledged to a power of death, you gain a +2 trait bonus on Fortitude saving throws against level-draining effects.
 
-**Crisis of Faith** *(any faith)*: You were raised to uphold a specific set of tenets, and you never had reason to doubt their veracity. Recent events, however, have undermined that certainty, and you now find yourself wondering if any of the universal truths you once believed in can actually hold up to scrutiny. Perhaps you witnessed a mentor or church official fall from grace or violate your shared tenets. Maybe you watched a friend injured terribly despite (or because of) her pure faith. Whatever the case, your shaken confidence grants you a +1 trait bonus on saving throws against illusions. You may replace any other faith trait with the Crisis of Faith trait whenever you gain a level. This replacement is permanent until you receive [*atonement*](../../magic/spells/atonement.md).
+**Crisis of Faith** *(any faith)*: You were raised to uphold a specific set of tenets, and you never had reason to doubt their veracity. Recent events, however, have undermined that certainty, and you now find yourself wondering if any of the universal truths you once believed in can actually hold up to scrutiny. Perhaps you witnessed a mentor or church official fall from grace or violate your shared tenets. Maybe you watched a friend injured terribly despite (or because of) her pure faith. Whatever the case, your [shaken](../../rules/appendices/conditions.md#shaken) confidence grants you a +1 trait bonus on saving throws against illusions. You may replace any other faith trait with the Crisis of Faith trait whenever you gain a level. This replacement is permanent until you receive [*atonement*](../../magic/spells/atonement.md).
 
 **Deadeye Bowman** *(deity of the hunt and farming)*: When you are using a longbow, if only a single creature is providing soft cover to your target, your target does not receive the +4 bonus to AC.
 
-**Deathspeaker** *(deity of undeath)*: Your experience with undead creatures gives you a +2 trait bonus on Diplomacy checks when dealing with undead, as well as a +2 trait bonus on Charisma checks to influence undead (such as with the [*command undead*](../../magic/spells/command-undead.md) spell).
+**Deathspeaker** *(deity of undeath)*: Your experience with undead creatures gives you a +2 trait bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks when dealing with undead, as well as a +2 trait bonus on Charisma checks to influence undead (such as with the [*command undead*](../../magic/spells/command-undead.md) spell).
 
 **Deck Fighter** *(deity of the sea and piracy)*: Your long experience in compensating for the pitch and yaw of ocean-going ships grants you a +1 trait bonus on attacks of opportunity when fighting aboard a ship.
 
-**Deep Wounding** *(deity of assassins)*: You have learned the bloody secret of striking true and deep. When you deal bleed damage with a melee weapon, a successful DC 20 Heal check is required to stop the bleed damage. Magical healing stops the damage as normal.
+**Deep Wounding** *(deity of assassins)*: You have learned the bloody secret of striking true and deep. When you deal bleed damage with a melee weapon, a successful DC 20 [Heal](../../rules/skills/heal.md) check is required to stop the bleed damage. Magical healing stops the damage as normal.
 
-**Defensive Strategist** *(deity of the forge and protection)*: Your study of your faith’s history has trained you in defensive strategy. You aren’t flat-footed during a surprise round that you don’t get to act in or before you get to act at the start of a battle.
+**Defensive Strategist** *(deity of the forge and protection)*: Your study of your faith’s history has trained you in defensive strategy. You aren’t [flat-footed](../../rules/appendices/conditions.md#flat-footed) during a surprise round that you don’t get to act in or before you get to act at the start of a battle.
 
 **Deformed** *(deity of monsters and madness)*: Your monstrous deformities grant you a +1 trait bonus on Intimidate checks, and Intimidate is a class skill for you.
 
@@ -62,13 +62,13 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Destructive Blows** *(deity of destruction)*: Your faith strengthens your powers of destruction. You gain a +2 trait bonus on Strength checks to break objects, as well as on combat maneuver checks to sunder.
 
-**Devout Visionary** *(any shamanistic belief)*: As a child, you had a strange vision while suffering from a terrible illness, and only found your way back to the mundane world by following the call of a spiritual leader—perhaps a shaman's drum or a druid's lilting poetry. Since then, you have studied symbolism and dreams in the hope that you might understand your own vision, though your lessons prove just as helpful to others. You gain a +1 trait bonus on Will saving throws against spells and effects that grant the confused or dazed condition. Once per day as a full-round action, you may grant an adjacent ally a new Will saving throw to end an effect that grants the confused or dazed condition.
+**Devout Visionary** *(any shamanistic belief)*: As a child, you had a strange vision while suffering from a terrible illness, and only found your way back to the mundane world by following the call of a spiritual leader—perhaps a shaman's drum or a druid's lilting poetry. Since then, you have studied symbolism and dreams in the hope that you might understand your own vision, though your lessons prove just as helpful to others. You gain a +1 trait bonus on Will saving throws against spells and effects that grant the [confused](../../rules/appendices/conditions.md#confused) or [dazed](../../rules/appendices/conditions.md#dazed) condition. Once per day as a full-round action, you may grant an adjacent ally a new Will saving throw to end an effect that grants the confused or dazed condition.
 
 **Diseased Heart** *(deity of disease)*: Your work with infections has infused your spirit with disease. Any creature that performs a blood drain or swallow whole attack on you must succeed at a Fortitude saving throw (DC = 10 + your character level + your Constitution modifier) or become infected with filth fever. This is a poison effect.
 
 **Divine Denier** *(any atheistic philosophy)*: You can't bring yourself to accept the authority of the gods, even though friends might hound you relentlessly to change your ways. Perhaps you object on ideological grounds, or perhaps you just want to be left alone. Your doubt causes you to shrug off divine magic more quickly than others. Once per day when you are affected by a divine spell, you may reduce that spell's duration to half (minimum 1 round) for you alone.
 
-**Dragon Tracker** *(deity of evil dragons)*: You have been taught to identify the subtle and not-so-subtle signs of a dragon’s passage. You gain a +2 trait bonus on Survival checks to track dragons, and you can track a dragon with Survival untrained if the check’s DC is 15 or lower.
+**Dragon Tracker** *(deity of evil dragons)*: You have been taught to identify the subtle and not-so-subtle signs of a dragon’s passage. You gain a +2 trait bonus on [Survival](../../rules/skills/survival.md) checks to track dragons, and you can track a dragon with Survival untrained if the check’s DC is 15 or lower.
 
 **Dragonslayer** *(deity of evil dragons)*: You’re greatly skilled in hunting and slaying those who resemble your lord’s favored prey. You gain a +1 trait bonus on attack rolls against creatures of the dragon type.
 
@@ -82,21 +82,21 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Empyreal Focus** *(any angelic lord or good demigod)*: The power you worship rewards your devotion by granting you an occasional boon. Once per day, before you attempt a skill check, you can use this boon to gain a +2 trait bonus on that skill check.
 
-**Enchanting Conniver** *(deity of lust and revenge)*: You gain a +2 trait bonus on Bluff and Diplomacy checks against creatures affected by one of your charm or compulsion effects.
+**Enchanting Conniver** *(deity of lust and revenge)*: You gain a +2 trait bonus on [Bluff](../../rules/skills/bluff.md) and Diplomacy checks against creatures affected by one of your charm or compulsion effects.
 
 **Eternal Understanding** *(deity of perfection and knowledge)*: Though you haven’t been traditionally educated, you’re blessed with potent observation and discernment. You can attempt Knowledge checks with a DC of 15 or lower untrained.
 
 **Extended Toil** *(deity of toil and drudgery)*: Your faith teaches you to push magical servants to the limit. When you cast a spell that creates a loyal servant to fulfill a specific or mindless task (such as [*unseen servant*](../../magic/spells/unseen-servant.md), [*mount*](../../magic/spells/mount.md), or [*spiritual weapon*](../../magic/spells/spiritual-weapon.md), but not *summon monster* spells), you may choose to increase its duration by 50%. This does not stack with the [Extend Spell](../../rules/feats/extend-spell.md) feat. The effect weakens the spell, however; dispel checks against spells you cast in this manner gain a +4 bonus.
 
-**Eye for Quality** *(deity of law and trade)*: Your deity has granted you an uncanny ability to find the true worth of items. You gain a +1 trait bonus on Appraise checks, you don’t suffer the effects of failing such checks by 5 or more, and Appraise is a class skill for you.
+**Eye for Quality** *(deity of law and trade)*: Your deity has granted you an uncanny ability to find the true worth of items. You gain a +1 trait bonus on [Appraise](../../rules/skills/appraise.md) checks, you don’t suffer the effects of failing such checks by 5 or more, and Appraise is a class skill for you.
 
-**Eye of the Forge** *(deity of the forge and protection)*: You have an innate sense of what is right and wrong in the works you craft, based on your years studying with the church elders at their forges. Choose one Craft skill; you gain a +1 trait bonus on Craft checks of the selected type.
+**Eye of the Forge** *(deity of the forge and protection)*: You have an innate sense of what is right and wrong in the works you craft, based on your years studying with the church elders at their forges. Choose one [Craft](../../rules/skills/craft.md) skill; you gain a +1 trait bonus on Craft checks of the selected type.
 
-**Eyes of the Wild** *(a nature faith)*: Having spent much time immersed in the wilderness, you’re now attuned to its ways. You gain a +2 trait bonus on Perception checks in natural settings.
+**Eyes of the Wild** *(a nature faith)*: Having spent much time immersed in the wilderness, you’re now attuned to its ways. You gain a +2 trait bonus on [Perception](../../rules/skills/perception.md) checks in natural settings.
 
-**Faithful Artist** *(deity of dreams and travelers)*: With your deity’s blessing, you have pursued an artistic path. Choose one Perform skill; you gain a +1 trait bonus on Perform checks of the selected type, and Perform is a class skill for you.
+**Faithful Artist** *(deity of dreams and travelers)*: With your deity’s blessing, you have pursued an artistic path. Choose one [Perform](../../rules/skills/perform.md) skill; you gain a +1 trait bonus on Perform checks of the selected type, and Perform is a class skill for you.
 
-**Fatal Trapper** *(deity of misfortune and accidents)*: Your patron grants you expertise at creating or disabling traps. You gain a +1 trait bonus on Craft (traps) checks, as well as a +1 trait bonus on Disable Device checks to disable traps.
+**Fatal Trapper** *(deity of misfortune and accidents)*: Your patron grants you expertise at creating or disabling traps. You gain a +1 trait bonus on Craft (traps) checks, as well as a +1 trait bonus on [Disable Device](../../rules/skills/disable-device.md) checks to disable traps.
 
 **Favored Prey** *(deity of the hunt)*: Those you track feel the sting of your arrows. You gain a +1 trait bonus on damage rolls when making bow attacks against a creature whose tracks you have successfully followed in the last hour.
 
@@ -122,7 +122,7 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Self-Actualization** *(any individualistic belief)*: Inspired by stories of mortals ascending to godhood, you're certain that you can do the same, and do all you can to hone your talents and reach your utmost potential. Once per day, when you take 20 on a roll or check, you can complete the action in only five times the normal amount of time for that action, rather than 20 times the normal amount.
 
-**The Flexing Arm** *(deity of strength and protection)*: You are practiced at using physical might to escape your bonds. You can use Strength instead of Dexterity as your base ability for Escape Artist skill checks to free yourself from bondage. Additionally, you gain a +1 trait bonus on such Escape Artist checks.
+**The Flexing Arm** *(deity of strength and protection)*: You are practiced at using physical might to escape your bonds. You can use Strength instead of Dexterity as your base ability for [Escape Artist](../../rules/skills/escape-artist.md) skill checks to free yourself from bondage. Additionally, you gain a +1 trait bonus on such Escape Artist checks.
 
 **Frightening Speed** *(deity of assassins)*: Your careful study of your deity’s kills has unlocked a divine speed in you. Once per day during a combat encounter, you can move an additional 5 feet as a part of a move action without penalty.
 
@@ -134,7 +134,7 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Hatred of the Gods** *(deity of destruction)*: Your god’s own hatred of other deities is reflected in your ability to withstand the attacks of their followers. You gain a +1 trait bonus on saving throws made against divine spells.
 
-**Holy Schemer** *(deity of lust and revenge)*: You are well versed in the arts of misdirection, plotting, and intrigue, and you know how to recognize these tactics when they’re used against you. You receive a +1 trait bonus on Sense Motive checks, and Sense Motive is a class skill for you.
+**Holy Schemer** *(deity of lust and revenge)*: You are well versed in the arts of misdirection, plotting, and intrigue, and you know how to recognize these tactics when they’re used against you. You receive a +1 trait bonus on [Sense Motive](../../rules/skills/sense-motive.md) checks, and Sense Motive is a class skill for you.
 
 **Honey-Tongued** *(deity of law and trade)*: Your deep understanding of human nature and social philosophy grants you a +1 trait bonus on Diplomacy or Bluff checks when dealing with agents of the law, such as judges, guards, and paladins.
 
@@ -180,7 +180,7 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Potent Concoctions** *(deity of disease and famine)*: You have dedicated your life to honoring famine and disease. Choose any two poisons from the poison table; when you attempt to inflict either of these poisons on an enemy, the DC to resist it increases by 1.
 
-**Practiced Deception** *(deity of secrets and poison)*: You gain a +1 trait bonus on Disguise checks, and you can apply and remove a disguise in half the normal time.
+**Practiced Deception** *(deity of secrets and poison)*: You gain a +1 trait bonus on [Disguise](../../rules/skills/disguise.md) checks, and you can apply and remove a disguise in half the normal time.
 
 **Propitiation** *(any dwarven deity)*: Your knowledge of the dwarven pantheon tells you precisely which gods have jurisdiction over which aspects of your life, and you can call upon the appropriate deity for help even if that deity is not your patron. At the start of each day, pick one of the following skills: Appraise, Bluff, Craft (pick one craft skill), Diplomacy, Intimidate, or Knowledge (local). You gain a +2 trait bonus on that skill until the start of the next day.
 
@@ -228,7 +228,7 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Strong Heart** *(deity of battle)*: You can stand firm against even the most terrifying foes. You gain a +1 trait bonus on saves against fear effects, and the DC of Intimidate checks against you increases by 2.
 
-**Strong Swimmer** *(deity of the sea and nature)*: Your faith gives you the confidence to swim without fear. You gain a +2 trait bonus on Swim checks, and can hold your breath for an extra 2 rounds when underwater.
+**Strong Swimmer** *(deity of the sea and nature)*: Your faith gives you the confidence to swim without fear. You gain a +2 trait bonus on [Swim](../../rules/skills/swim.md) checks, and can hold your breath for an extra 2 rounds when underwater.
 
 **Strong-Willed** *(deity of freedom and ale)*: Your fervent desire to choose your own path gives you strong willpower. You receive a +2 trait bonus on saving throws against charm and compulsion effects.
 
@@ -238,13 +238,13 @@ Faith traits are religion traits that tie a character to the portfolio of a deit
 
 **Thirst for Knowledge** *(deity of magic)*: You have a need to bring old knowledge into the light, no matter what language it’s written in. You gain a +1 trait bonus on Linguistics checks, and Linguistics is a class skill for you.
 
-**Thrill-Seeker** *(deity of dreams and travelers)*: Your deity has blessed you not just with a love of taking chances, but also the fortune to come out of such risky situations unscathed. Once per day, when you attempt an Acrobatics check, you can roll twice and take the better result. You must choose to use this ability before making the check.
+**Thrill-Seeker** *(deity of dreams and travelers)*: Your deity has blessed you not just with a love of taking chances, but also the fortune to come out of such risky situations unscathed. Once per day, when you attempt an [Acrobatics](../../rules/skills/acrobatics.md) check, you can roll twice and take the better result. You must choose to use this ability before making the check.
 
 **Totemist** *(any totemism)*: You grew up in a culture where the touch of totem spirits was felt in everyday life, their subtle urgings constantly guiding you and keeping you safe. As a result, you learned quickly to ask for their help when trouble arises. Once per day, you may call upon your totem's wisdom as a standard action. You gain the benefits of [*guidance*](../../magic/spells/guidance.md), except that the granted competence bonus is equal to half your character level (minimum +1). This is a supernatural ability.
 
 **Traditionalist** *(any communal belief)*: You spent a part of your youth far away from your homeland and your people. The experience of being a stranger in a strange land taught you to appreciate the support and understanding of the other members of your communal belief, and to never take it for granted. Though you still respect other cultures, you have come to see the way in which your particular culture keeps the knowledge of your people and their history alive, and feel that you have a responsibility to guard their traditions even when you are far from home. You gain a +1 trait bonus on Knowledge (history) and Knowledge (local) checks, and one of those skills (your choice) becomes a class skill for you.
 
-**Underlying Principles** *(deity of magic)*: You’ve spent a large amount of time around magical items, and understand the similarities between many of them. You gain a +1 trait bonus on Use Magic Device checks, and Use Magic Device is a class skill for you.
+**Underlying Principles** *(deity of magic)*: You’ve spent a large amount of time around magical items, and understand the similarities between many of them. You gain a +1 trait bonus on [Use Magic Device](../../rules/skills/use-magic-device.md) checks, and Use Magic Device is a class skill for you.
 
 **Unhinged Mentality** *(deity of monsters and madness)*: Your deity-granted madness gives you a +2 trait bonus on saving throws against confusion, insanity, and fear effects.
 
@@ -278,7 +278,7 @@ The following traits are common among those whose form of worship diverges from 
 
 - *Cliff (replaces frog)*: The creature gains a +2 competence bonus on Acrobatics checks to avoid falling and on Constitution checks to avoid drowning. This bonus increases to +4 at 8th level and +6 at 15th level.
 - *Emberstorm (replaces bear)*: The creature gains fire resistance 5. This increases to fire resistance 10 at 8th level and fire resistance 15 at 15th level.
-- *Horse (replaces owl)*: The creature gains a +4 competence bonus on Ride checks. This bonus increases to +6 at 8th level and +8 at 15th level.
+- *Horse (replaces owl)*: The creature gains a +4 competence bonus on [Ride](../../rules/skills/ride.md) checks. This bonus increases to +6 at 8th level and +8 at 15th level.
 - *Star (replaces falcon)*: The creature gains low-light vision and a +2 competence bonus on Perception checks. This bonus increases to +4 at 8th level and +6 at 15th level.
 - *Storm (replaces snake)*: The creature gains a +4 bonus on saving throws against cold dangers, disease, heat dangers, starvation, and thirst. This bonus increases to +6 at 8th level and +8 at 15th level.
 - *Storm Roc (replaces mouse)*: The creature gains a +2 enhancement bonus to Charisma. This bonus increases to +4 at 8th level and +6 at 15th level.

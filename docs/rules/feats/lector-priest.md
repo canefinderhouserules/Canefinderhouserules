@@ -6,4 +6,4 @@ Your creator was a priest and magician, and your memories are filled with the sm
 
 **Prerequisites**: Shabti.
 
-**Benefit**: You gain Spellcraft as a class skill. Whenever you attempt a Spellcraft check, you can roll twice and take the better of the two results.
+**Benefit**: You gain Spellcraft as a class skill. Whenever you attempt a [Spellcraft](../skills/spellcraft.md) check, you can roll twice and take the better of the two results.

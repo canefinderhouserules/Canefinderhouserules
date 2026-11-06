@@ -8,4 +8,4 @@
 **Duration** instantaneous  
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-You can cast this spell only as a response to a target attempting a saving throw against an effect that would cause the fatigued, shaken, sickened, or staggered conditions. The target can roll its saving throw twice and take the higher result.
+You can cast this spell only as a response to a target attempting a saving throw against an effect that would cause the [fatigued](../../rules/appendices/conditions.md#fatigued), [shaken](../../rules/appendices/conditions.md#shaken), [sickened](../../rules/appendices/conditions.md#sickened), or [staggered](../../rules/appendices/conditions.md#staggered) conditions. The target can roll its saving throw twice and take the higher result.

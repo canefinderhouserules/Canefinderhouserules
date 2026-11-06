@@ -22,14 +22,14 @@
 
 ## [Argent Dramaturge](argent-dramaturge.md)
 
-- Perform and Spellcraft requirements drop to 4.
+- [Perform](../../rules/skills/perform.md) and Spellcraft requirements drop to 4.
 - Argent Dramaturge levels stack with bard levels to improve bardic performances.
 - If you spend double the rounds, you can add Song of Silver to any other song you want to use, letting you have 2 at once.
 - Starting songs as a swift action is, naturally, a level 7 ability.
 
 ## [Nomad Horse Rider](nomad-horse-rider.md)
 
-- Handle Animal and Ride requirements are 3 instead of 5; the BAB requirement also drops to 3.
+- [Handle Animal](../../rules/skills/handle-animal.md) and Ride requirements are 3 instead of 5; the BAB requirement also drops to 3.
 - Efreeti Blessing is gained at level 5.
 - Its pet is +3 instead of +2 (which saves you the feat entirely).
 
@@ -137,7 +137,7 @@
 ## [Balanced Scale](balanced-scale.md)
 
 - Gains caster level at level 1 as well.
-- Instead of Open Locks, it is of course Disable Device.
+- Instead of Open Locks, it is of course [Disable Device](../../rules/skills/disable-device.md).
 - Instead of 3rd-level spells, requires 2nd-level spells.
 - Appraising Eye has no penalty.
 
@@ -252,7 +252,7 @@
 - Skill requirements are 2 instead of 5 or 3, and it requires only Weapon Focus (heavy blades) and [Weapon Finesse](../../rules/feats/weapon-finesse.md).
 - Gains proficiency with the order's dueling sword at level 1, and [Dazzling Display](../../rules/feats/dazzling-display.md).
 - At level 3 it also gives Panache and Parry and Riposte as if you were a swashbuckler of your level.
-- Confounding Duelist lets you use Shatter Confidence with any hit even if the enemy is not shaken, and gives +1 critical range or critical multiplier, which stacks with Improved Critical (that is, it makes the dueling sword 18–20/×2 or 19–20/×3, your choice).
+- Confounding Duelist lets you use Shatter Confidence with any hit even if the enemy is not [shaken](../../rules/appendices/conditions.md#shaken), and gives +1 critical range or critical multiplier, which stacks with Improved Critical (that is, it makes the dueling sword 18–20/×2 or 19–20/×3, your choice).
 
 ## [Feysworn](feysworn.md)
 

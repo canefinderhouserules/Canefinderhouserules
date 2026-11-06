@@ -15,7 +15,7 @@ The familiars presented below are variants of existing creatures, modified as in
 
 ### Arctic Fox (CR 1/4)
 
-**Variant** Use the statistics for a fox. An arctic fox’s white fur allows it to blend in with its snowy environment. It receives a +4 racial bonus on Stealth checks in snow.
+**Variant** Use the statistics for a fox. An arctic fox’s white fur allows it to blend in with its snowy environment. It receives a +4 racial bonus on [Stealth](../../rules/skills/stealth.md) checks in snow.
 
 This clever predator is known as a cunning hunter of small mammals and birds, with a thick coat of white fur that allows it to blend with the winter landscape. An arctic fox is typically 2 feet long and weighs 15 pounds.
 
@@ -159,7 +159,7 @@ GMs may use the following bloodline familiar abilities as written, or employ the
 
 **Fey—Amusing Familiar (Su)**: The familiar can fascinate other creatures as the fascinate bardic performance, treating your caster level as its bard level and using your Charisma modifier for the purpose of calculating the Will save DC. The familiar cannot perform any other actions while using this ability.
 
-**Infernal—Hellish Aura (Su)**: Animals don’t willingly approach the familiar unless the animal’s master succeeds at a DC 15 Handle Animal, Ride, or wild empathy check. This DC increases to 20 at 10th level, and to 25 at 20th level. Animal companions, familiars, and mounts are immune to this effect.
+**Infernal—Hellish Aura (Su)**: Animals don’t willingly approach the familiar unless the animal’s master succeeds at a DC 15 [Handle Animal](../../rules/skills/handle-animal.md), [Ride](../../rules/skills/ride.md), or wild empathy check. This DC increases to 20 at 10th level, and to 25 at 20th level. Animal companions, familiars, and mounts are immune to this effect.
 
 **Undead—Unliving Physiology (Su)**: The familiar is alive, but is treated as undead for all effects that affect undead differently from living creatures, such as cure spells and channeled energy.
 
@@ -171,7 +171,7 @@ Witches’ familiars are often tied to their patrons, enhancing and reinforcing 
 
 **Animals—Animal Speaker (Su)**: The familiar gains the ability to speak with animals of its kind at 1st level. If it would normally gain this ability at 7th level, the familiar gains the ability to speak with all animals (as though constantly under the effects of *speak with animals*) at 7th level.
 
-**Deception—Distracting (Su and Sp)**: The familiar gains Bluff and Sense Motive as class skills. At 10th level, the familiar can throw its voice at will, as if using *ventriloquism*.
+**Deception—Distracting (Su and Sp)**: The familiar gains [Bluff](../../rules/skills/bluff.md) and Sense Motive as class skills. At 10th level, the familiar can throw its voice at will, as if using *ventriloquism*.
 
 **Elements—Elemental Touch (Su)**: Choose an energy type: acid, cold, electricity, or fire. The familiar gains resistance 5 to the selected energy type. Whenever the familiar delivers a touch spell that deals energy damage, it can change the type of energy damage dealt to the selected energy type.
 
@@ -239,7 +239,7 @@ With your Game Master’s approval, the statistics of an existing familiar can b
 
 **Advanced Method**: For a familiar radically different from any other, select the closest creature and work with your GM on suitable ability substitutions or statistical alterations. The less dramatic the change, the more balanced the result. Changes are listed from least to most impactful:
 
-- **Skills**: Reallocate skill ranks to fit the concept (a monkey that steals trinkets might move ranks from Perception to Sleight of Hand or Stealth).
+- **Skills**: Reallocate skill ranks to fit the concept (a monkey that steals trinkets might move ranks from Perception to [Sleight of Hand](../../rules/skills/sleight-of-hand.md) or Stealth).
 - **Feats**: Exchange starting feats for others that better match your concept, such as the [familiar feats](../../rules/feats/index.md) and [companion feats](companion-feats.md).
 - **Attacks**: Exchanging natural attacks for other types is generally safe; replace a primary natural attack with another primary natural attack, and secondary attacks with secondary attacks. Changing damage dice quickly creates an underwhelming or overpowered familiar.
 - **Speed**: Avoid changing movement types or speeds, except to swap an unusual movement speed for a different unusual speed of equal rate (a 10-foot burrow speed for a 10-foot climb speed), or to drastically reduce the base land speed in exchange for an unusual movement speed (a 40-foot land speed reduced to 10 feet for a 30-foot swim speed).
@@ -247,6 +247,6 @@ With your Game Master’s approval, the statistics of an existing familiar can b
 
 ## Familiar Tactics
 
-- **Device Guru**: If you have enough ranks in Use Magic Device, or choose magic items that don’t require such checks, your familiar can activate a wide variety of magic items for you. As long as the familiar can speak (like most improved familiars and a few birds) and hold or wear the item as necessary, it can activate command word items and attempt the necessary check to activate a wand, scroll, or staff.
+- **Device Guru**: If you have enough ranks in [Use Magic Device](../../rules/skills/use-magic-device.md), or choose magic items that don’t require such checks, your familiar can activate a wide variety of magic items for you. As long as the familiar can speak (like most improved familiars and a few birds) and hold or wear the item as necessary, it can activate command word items and attempt the necessary check to activate a wand, scroll, or staff.
 - **Logistical Helper**: A familiar can retrieve any items it can carry, and can use the aid another action on skill checks (it has all your ranks, after all) and in fights. This is particularly useful with improved familiars that can hold reach weapons and flank with you.
 - **Mini Mage**: A few spells with a range of personal, such as *burning gaze* and *elemental aura*, allow a familiar to serve an interesting combat role.

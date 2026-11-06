@@ -59,13 +59,13 @@ The following are class features of the desert alchemist prestige class.
 
 **Curative Enhancement (Su)**: At 3rd level and every 2 levels thereafter, a desert alchemist can select one curative enhancement. Whenever the desert alchemist creates a healing solution by expending two extracts or spells, she may reduce the amount of hit point damage cured by one step (reducing a healing solution of *cure moderate wounds* to one of *cure light wounds*, for instance) in order to apply any number of her curative enhancements to her healing solution. These enhancements can remove conditions caused by curses, diseases, or poisons even if they do not remove the underlying affliction itself; the conditions return after 1 hour unless the curative enhancement actually removes the affliction that causes the condition.
 
-At 3rd level, a desert alchemist can select one of the following conditions that her healing solution can remove: fatigued, shaken, or sickened.
+At 3rd level, a desert alchemist can select one of the following conditions that her healing solution can remove: [fatigued](../../rules/appendices/conditions.md#fatigued), [shaken](../../rules/appendices/conditions.md#shaken), or [sickened](../../rules/appendices/conditions.md#sickened).
 
-At 5th level, she can also select dazed, diseased (as [*remove disease*](../../magic/spells/remove-disease.md)), or staggered.
+At 5th level, she can also select [dazed](../../rules/appendices/conditions.md#dazed), diseased (as [*remove disease*](../../magic/spells/remove-disease.md)), or [staggered](../../rules/appendices/conditions.md#staggered).
 
-At 7th level, she can also select cursed (as [*remove curse*](../../magic/spells/remove-curse.md)), exhausted (must already have selected fatigued), frightened (must already have selected shaken), nauseated (must already have selected sickened), or poisoned (as [*neutralize poison*](../../magic/spells/neutralize-poison.md)).
+At 7th level, she can also select cursed (as [*remove curse*](../../magic/spells/remove-curse.md)), [exhausted](../../rules/appendices/conditions.md#exhausted) (must already have selected fatigued), [frightened](../../rules/appendices/conditions.md#frightened) (must already have selected shaken), [nauseated](../../rules/appendices/conditions.md#nauseated) (must already have selected sickened), or poisoned (as [*neutralize poison*](../../magic/spells/neutralize-poison.md)).
 
-At 9th level, she can also select blinded, deafened, paralyzed, or stunned.
+At 9th level, she can also select [blinded](../../rules/appendices/conditions.md#blinded), [deafened](../../rules/appendices/conditions.md#deafened), [paralyzed](../../rules/appendices/conditions.md#paralyzed), or [stunned](../../rules/appendices/conditions.md#stunned).
 
 Once chosen, a curative enhancement cannot be changed, but the desert alchemist can choose which enhancements (if any) she incorporates each time she prepares a healing solution.
 

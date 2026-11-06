@@ -59,9 +59,9 @@ If the character had more than one arcane spellcasting class before he became a 
 
 **Cypher Lore**: As a cyphermage gains levels, he begins mastering written magic such as scrolls, glyphs, and symbols. He also begins to discover ancient magics that further bolster his power. These discoveries are known collectively as cypher lore. Each level, the cyphermage learns a new way to enhance his magic, chosen from the list of cypher lores given below.
 
-**Analyze Scroll (Su)**: As a free action, a cyphermage can automatically discern the contents of a magic scroll, as if he were using [*read magic*](../../magic/spells/read-magic.md). He gains an insight bonus equal to his cyphermage level on Use Magic Device checks made to cast spells from scrolls.
+**Analyze Scroll (Su)**: As a free action, a cyphermage can automatically discern the contents of a magic scroll, as if he were using [*read magic*](../../magic/spells/read-magic.md). He gains an insight bonus equal to his cyphermage level on [Use Magic Device](../../rules/skills/use-magic-device.md) checks made to cast spells from scrolls.
 
-**Bypass Symbol (Su)**: When a cyphermage makes a save against a magical glyph, symbol, sigil, or similar written trap, as an immediate action he may attempt a Spellcraft check against the same DC to delay the trap's effects for 1d6 rounds. Once the delay is over, the trap has its normal effect. The cyphermage must be at least 8th level to select this lore.
+**Bypass Symbol (Su)**: When a cyphermage makes a save against a magical glyph, symbol, sigil, or similar written trap, as an immediate action he may attempt a [Spellcraft](../../rules/skills/spellcraft.md) check against the same DC to delay the trap's effects for 1d6 rounds. Once the delay is over, the trap has its normal effect. The cyphermage must be at least 8th level to select this lore.
 
 **Defensive Scrollcaster (Ex)**: A cyphermage gains a +4 bonus on concentration checks to cast defensively when casting spells from scrolls.
 
@@ -85,7 +85,7 @@ If the character had more than one arcane spellcasting class before he became a 
 
 **Giant's Master (Ex)**: The cyphermage has unraveled several ancient methods of commanding and controlling giants. As a swift action, whenever he uses a mind-affecting spell or effect on a humanoid with the giant subtype, he increases his spell DC by +2. The cyphermage must be at least 6th level to select this lore.
 
-**Glyph Finder (Ex)**: A cyphermage can locate *glyphs of warding*, symbols, and similar magical spell traps that utilize writing as if he were a rogue. He can use Perception or Knowledge (arcana) to notice such traps, and can use Disable Device or Spellcraft to disable these types of traps.
+**Glyph Finder (Ex)**: A cyphermage can locate *glyphs of warding*, symbols, and similar magical spell traps that utilize writing as if he were a rogue. He can use [Perception](../../rules/skills/perception.md) or Knowledge (arcana) to notice such traps, and can use [Disable Device](../../rules/skills/disable-device.md) or Spellcraft to disable these types of traps.
 
 **Insightful Scroll (Su)**: As a swift action, a cyphermage can alter a spell he's casting from a scroll to use his own spellcasting ability score (Intelligence for wizards, and so on) and relevant feats to set the DC for the spell. He can use this ability once per day, plus one additional time per day for every 2 cyphermage levels he has.
 

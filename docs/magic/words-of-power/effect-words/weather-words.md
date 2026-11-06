@@ -20,7 +20,7 @@ This effect word creates a thick fog in its area of effect. It obscures all sigh
 **Saving Throw** Fortitude negates; **Spell Resistance** yes  
 **Target Restrictions** line
 
-This effect word creates a blast of air that can knock over or hinder those in its path. When a wordspell with this effect word is cast, any Large or smaller creature within the area of the wordspell must make a Fortitude save or be knocked prone and pushed back 10 feet. Any creature wishing to move through the line of air must make a DC 20 Strength check. Failure means the creature wastes 5 feet of movement, but is otherwise unhindered and can continue to move (so long as it does not move through the line of air). The DC increases to 30 if the creature attempts to move toward the source of the wind. Flying creatures take a –4 penalty on saves and Strength checks made against this effect.
+This effect word creates a blast of air that can knock over or hinder those in its path. When a wordspell with this effect word is cast, any Large or smaller creature within the area of the wordspell must make a Fortitude save or be knocked [prone](../../../rules/appendices/conditions.md#prone) and pushed back 10 feet. Any creature wishing to move through the line of air must make a DC 20 Strength check. Failure means the creature wastes 5 feet of movement, but is otherwise unhindered and can continue to move (so long as it does not move through the line of air). The DC increases to 30 if the creature attempts to move toward the source of the wind. Flying creatures take a –4 penalty on saves and Strength checks made against this effect.
 
 ## Blizzard (Weather)
 
@@ -29,7 +29,7 @@ This effect word creates a blast of air that can knock over or hinder those in i
 **Saving Throw** none; **Spell Resistance** no  
 **Target Restrictions** burst (emanation)
 
-This effect word causes heavy snow to fall in the area of effect. This provides concealment as the fog bank effect word, but it cannot be removed by wind. In addition, the ground in the area of effect is treated as difficult terrain for the duration and as being very slippery for the purposes of Acrobatics and Climb skill checks.
+This effect word causes heavy snow to fall in the area of effect. This provides concealment as the fog bank effect word, but it cannot be removed by wind. In addition, the ground in the area of effect is treated as difficult terrain for the duration and as being very slippery for the purposes of [Acrobatics](../../../rules/skills/acrobatics.md) and [Climb](../../../rules/skills/climb.md) skill checks.
 
 **Boost**: Each creature in the area of effect takes 2d6 points of cold damage each round at the end of its turn. Boosting this effect word increases its level by 1.
 

@@ -8,13 +8,13 @@ Monkey goblins lead savage lives, and many take levels in the barbarian class, t
 
 **+4 Dexterity, –2 Wisdom, –2 Charisma**: Monkey goblins are fast, but foolishly impulsive and disagreeable.
 
-**Small**: Monkey goblins are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMD and on combat maneuver checks, and a +4 size bonus on Stealth checks.
+**Small**: Monkey goblins are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMD and on combat maneuver checks, and a +4 size bonus on [Stealth](../../rules/skills/stealth.md) checks.
 
 **Slow Speed**: Monkey goblins have a base speed of 20 feet.
 
 **Low-Light Vision**: Monkey goblins can see twice as far as humans in conditions of dim light.
 
-**Acrobatic**: Monkey goblins gain a +2 racial bonus on Acrobatics and Stealth checks.
+**Acrobatic**: Monkey goblins gain a +2 racial bonus on [Acrobatics](../../rules/skills/acrobatics.md) and Stealth checks.
 
 **Fearless**: Monkey goblins gain a +2 racial bonus on all saving throws against fear.
 

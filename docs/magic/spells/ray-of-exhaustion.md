@@ -10,7 +10,7 @@
 
 A black ray projects from your pointing finger. You must succeed on a ranged touch attack with the ray to strike a target.
 
-The subject is immediately exhausted for the spell’s duration. A successful Fortitude save means the creature is only fatigued.
+The subject is immediately [exhausted](../../rules/appendices/conditions.md#exhausted) for the spell’s duration. A successful Fortitude save means the creature is only [fatigued](../../rules/appendices/conditions.md#fatigued).
 
 A character that is already fatigued instead becomes exhausted.
 

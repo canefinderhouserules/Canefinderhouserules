@@ -12,7 +12,7 @@ You tap into your latent amphibian strengths, unlocking a short-lived physical t
 
 **Gills**: Your throat expands, and gill slits appear along your neck. You can breathe underwater.
 
-**Leaping**: Your legs elongate and become especially muscular. You are always treated as having a running start when attempting Acrobatics checks to jump, and you gain a competence bonus on Acrobatics checks to jump equal to your caster level.
+**Leaping**: Your legs elongate and become especially muscular. You are always treated as having a running start when attempting [Acrobatics](../../rules/skills/acrobatics.md) checks to jump, and you gain a competence bonus on Acrobatics checks to jump equal to your caster level.
 
 **Swimming**: You grow a large tadpole tail, and your other limbs shrink slightly. You gain a swim speed equal to your base land speed.
 

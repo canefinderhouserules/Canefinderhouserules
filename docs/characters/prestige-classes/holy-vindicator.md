@@ -65,7 +65,7 @@ While his stigmata are bleeding, the vindicator ignores blood drain and bleed da
 
 **Divine Wrath (Sp)**: At 4th level, when a vindicator confirms a critical hit, he may sacrifice a prepared 1st-level spell or available 1st-level spell slot to invoke doom upon the target as an immediate action (using the vindicator’s caster level). The save DC is increased by +2 if his weapon has a ×3 damage multiplier, or by +4 if it is ×4. The vindicator can also use this ability in response
 
-**Bloodfire (Su)**: At 5th level, while a vindicator’s stigmata are bleeding, his blood runs down his weapons like sacred or profane liquid energy; when he uses [Channel Smite](../../rules/feats/channel-smite.md), the damage increases by 1d6, and if the target fails its save, it is sickened and takes 1d6 points of bleed damage each round on its turn. The target can attempt a new save every round to end the sickened and bleed effects.
+**Bloodfire (Su)**: At 5th level, while a vindicator’s stigmata are bleeding, his blood runs down his weapons like sacred or profane liquid energy; when he uses [Channel Smite](../../rules/feats/channel-smite.md), the damage increases by 1d6, and if the target fails its save, it is [sickened](../../rules/appendices/conditions.md#sickened) and takes 1d6 points of bleed damage each round on its turn. The target can attempt a new save every round to end the sickened and bleed effects.
 
 **Channel Smite**: At 5th level, a vindicator gains Channel Smite as a bonus feat.
 

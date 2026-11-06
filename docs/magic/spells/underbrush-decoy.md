@@ -8,4 +8,4 @@
 **Duration** 1 round  
 **Saving Throw** Will negates (object); **Spell Resistance** yes (object)
 
-You cause a plant to rustle noisily, distracting nearby creatures. You can attempt a Bluff check to create a distraction to hide, using your caster level + your Wisdom modifier in place of your total Bluff skill bonus and applying the result to all creatures within 30 feet. You count the target as distracted, as do any creatures that knew about your distraction in advance. Creatures might not be distracted if they detect you casting the spell or otherwise anticipate your subterfuge.
+You cause a plant to rustle noisily, distracting nearby creatures. You can attempt a [Bluff](../../rules/skills/bluff.md) check to create a distraction to hide, using your caster level + your Wisdom modifier in place of your total Bluff skill bonus and applying the result to all creatures within 30 feet. You count the target as distracted, as do any creatures that knew about your distraction in advance. Creatures might not be distracted if they detect you casting the spell or otherwise anticipate your subterfuge.

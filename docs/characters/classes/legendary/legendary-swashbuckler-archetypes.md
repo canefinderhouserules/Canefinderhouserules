@@ -4,7 +4,7 @@
 
 Although they come in very different shapes, styles, and temperaments, all swashbucklers with the braggart personage are united by their larger-than-life egos and their uncanny ability to crush their opponents’ spirit through sheer force of will. The braggart personage incorporates rules for psychological maneuvers found in Psychological Combat by Everyman Gaming, LLC.
 
-**Personage Bonus**: At 1st level, a braggart swashbuckler adds her Charisma bonus (if any) to the DC of Bluff, Diplomacy, and Intimidate checks made against her as part of a demoralize or feint attempt or against the effects of the Antagonize feat.
+**Personage Bonus**: At 1st level, a braggart swashbuckler adds her Charisma bonus (if any) to the DC of [Bluff](../../../rules/skills/bluff.md), [Diplomacy](../../../rules/skills/diplomacy.md), and [Intimidate](../../../rules/skills/intimidate.md) checks made against her as part of a demoralize or feint attempt or against the effects of the Antagonize feat.
 
 **Personage Abilities**: A swashbuckler with the braggart personage gains the following abilities as she increases in level.
 
@@ -16,11 +16,11 @@ The swashbuckler receives a +2 morale bonus on melee attack rolls made against d
 
 **Unsettling Blows (Ex)**
 
-At 10th level, a braggart swashbuckler’s attacks of opportunity render a struck creature flat-footed until the end of the braggart swashbuckler’s next turn. A successive Will saving throw negates this effect. (DC = 10 + 1/2 the swashbuckler’s level + the swashbuckler’s Charisma modifier).
+At 10th level, a braggart swashbuckler’s attacks of opportunity render a struck creature [flat-footed](../../../rules/appendices/conditions.md#flat-footed) until the end of the braggart swashbuckler’s next turn. A successive Will saving throw negates this effect. (DC = 10 + 1/2 the swashbuckler’s level + the swashbuckler’s Charisma modifier).
 
 **Felling Strike (Ex)**
 
-At 18th level, a braggart swashbuckler adds her Charisma bonus (if any) on attack rolls made to confirm a critical hit against any opponent that is flat-footed, frightened, panicked, shaken, or denied its Dexterity bonus to AC.
+At 18th level, a braggart swashbuckler adds her Charisma bonus (if any) on attack rolls made to confirm a critical hit against any opponent that is flat-footed, [frightened](../../../rules/appendices/conditions.md#frightened), [panicked](../../../rules/appendices/conditions.md#panicked), [shaken](../../../rules/appendices/conditions.md#shaken), or denied its Dexterity bonus to AC.
 
 **Personage Deeds**: A swashbuckler with the braggart personage gains the following deeds when she reaches the appropriate level.
 
@@ -104,7 +104,7 @@ Ever-ready to charge headfirst into trouble, a swashbuckler with the daredevil p
 
 **Brazenness (Ex)**
 
-At 2nd level, a daredevil swashbuckler does not take a penalty to her AC when she uses the Cleave feat, the Lunge feat, or when she charges. In addition, the daredevil gains a bonus on Acrobatics checks made to tumble past an opponent equal to half her swashbuckler level.
+At 2nd level, a daredevil swashbuckler does not take a penalty to her AC when she uses the Cleave feat, the Lunge feat, or when she charges. In addition, the daredevil gains a bonus on [Acrobatics](../../../rules/skills/acrobatics.md) checks made to tumble past an opponent equal to half her swashbuckler level.
 
 **Spring Attack (Ex)**
 
@@ -150,7 +150,7 @@ Not known for their flashy entrances or for standing out in a crowd, a daring in
 
 **Clandestine Expertise (Ex)**
 
-At 2nd level, a daring infiltrator gains a +2 bonus on Bluff, Disguise, and Stealth checks. This bonus increases by 1 for every 4 levels beyond 2nd. In addition, when a daring infiltrator successfully aids another with a Bluff, Disguise, or Stealth check, she grants the subject a +4 bonus on the skill check instead of the normal +2. This ability replaces uncanny dodge.
+At 2nd level, a daring infiltrator gains a +2 bonus on Bluff, [Disguise](../../../rules/skills/disguise.md), and [Stealth](../../../rules/skills/stealth.md) checks. This bonus increases by 1 for every 4 levels beyond 2nd. In addition, when a daring infiltrator successfully aids another with a Bluff, Disguise, or Stealth check, she grants the subject a +4 bonus on the skill check instead of the normal +2. This ability replaces uncanny dodge.
 
 **Deeds**
 
@@ -244,15 +244,15 @@ Subject to GM discretion, the heightened blade can change his former ability to 
 
 - **Clouded Vision**: Your eyes are obscured, making it difficult for you to see. You cannot see anything beyond 30 feet, but you can see as if you had darkvision. At 5th level, this distance increases to 60 feet. At 10th level, you can blindsense out to a range of 30 feet. At 15th level, you gain blindsight out to a range of 15 feet.
 
-- **Deaf**: You cannot hear and suffer all of the usual penalties for being deafened. You gain the [Aspect of the Beast](../../../rules/feats/aspect-of-the-beast.md) feat as a bonus feat, ignoring its prerequisites. You must select the night senses manifestation of this feat. At 5th level, you receive a +3 competence bonus on Perception checks that do not rely upon hearing and the initiative penalty for being deaf is reduced to –2. At 10th level, you gain scent and you do not suffer any penalty on initiative checks due to being deaf. At 15th level, you gain tremorsense out to a range of 30 feet.
+- **Deaf**: You cannot hear and suffer all of the usual penalties for being [deafened](../../../rules/appendices/conditions.md#deafened). You gain the [Aspect of the Beast](../../../rules/feats/aspect-of-the-beast.md) feat as a bonus feat, ignoring its prerequisites. You must select the night senses manifestation of this feat. At 5th level, you receive a +3 competence bonus on [Perception](../../../rules/skills/perception.md) checks that do not rely upon hearing and the initiative penalty for being deaf is reduced to –2. At 10th level, you gain scent and you do not suffer any penalty on initiative checks due to being deaf. At 15th level, you gain tremorsense out to a range of 30 feet.
 
 - **Dwarf**: You are smaller than average for a member of your race, reducing your base size category by one. You gain 2 additional skill ranks each time you gain a level or a Hit Die. At 5th level, you reduce the attack roll penalty for wielding a weapon whose intended wielder size is one size category larger than yours by –2. At 10th level, you are considered one size category larger then your actual size when determining your CMB and CMD as well as whether or not you can bull rush, overrun, or trip an opponent. At 15th level, you gain a +2 size bonus to your CMB and CMD against creatures that are larger than you.
 
-- **Lame**: One of your legs is permanently wounded, reducing your base land speed by 10 feet if your base speed is 30 feet or more. If your base speed is less than 30 feet, your speed is reduced by 5 feet. You speed is never reduced due to encumbrance. At 5th level, you are immune to the fatigued condition (but not exhaustion). At 10th level, your speed is never reduced by armor. At 15th level, you are immune to the exhausted condition.
+- **Lame**: One of your legs is permanently wounded, reducing your base land speed by 10 feet if your base speed is 30 feet or more. If your base speed is less than 30 feet, your speed is reduced by 5 feet. You speed is never reduced due to encumbrance. At 5th level, you are immune to the [fatigued](../../../rules/appendices/conditions.md#fatigued) condition (but not exhaustion). At 10th level, your speed is never reduced by armor. At 15th level, you are immune to the [exhausted](../../../rules/appendices/conditions.md#exhausted) condition.
 
 - **Wasting**: Your body is slowly rotting away. You take a –4 penalty on Charisma-based skill checks, except for Bluff checks made to feint in combat and Intimidate checks. You gain a +4 competence bonus on saves made against disease.
 
-At 5th level, you are immune to the sickened condition (but not nauseated). At 10th level, you gain immunity to disease. At 15th level, you are immune to the nauseated condition.
+At 5th level, you are immune to the [sickened](../../../rules/appendices/conditions.md#sickened) condition (but not [nauseated](../../../rules/appendices/conditions.md#nauseated)). At 10th level, you gain immunity to disease. At 15th level, you are immune to the nauseated condition.
 
 ## Inspired Blade
 
@@ -288,7 +288,7 @@ At 2nd level, whenever an opponent makes an attack of opportunity against a madc
 
 **Tumbling Panache (Ex)**
 
-At 10th level, when a madcap swashbuckler succeeds on an Acrobatics check to tumble through an opponent’s threatened area without provoking an attack of opportunity, she regains 1 panache point. If she succeeds on an Acrobatics check to tumble through an opponent’s space without provoking an attack of opportunity, she regains 2 panache points instead. Tumbling through an helpless or unaware creature’s threatened area or space or the threatened area or space of an opponent that has fewer Hit Dice than half the swashbuckler’s character level doesn’t restore panache.
+At 10th level, when a madcap swashbuckler succeeds on an Acrobatics check to tumble through an opponent’s threatened area without provoking an attack of opportunity, she regains 1 panache point. If she succeeds on an Acrobatics check to tumble through an opponent’s space without provoking an attack of opportunity, she regains 2 panache points instead. Tumbling through an [helpless](../../../rules/appendices/conditions.md#helpless) or unaware creature’s threatened area or space or the threatened area or space of an opponent that has fewer Hit Dice than half the swashbuckler’s character level doesn’t restore panache.
 
 **Overwhelming Bravado (Ex)**
 
@@ -392,7 +392,7 @@ A mysterious avenger loses her proficiency with [bucklers](../../../equipment/we
 
 At 1st level, a mysterious avenger selects one fighter weapon group. She gains the benefits of the Weapon Finesse feat with the whip and all melee weapons belonging to her chosen fighter weapon group. This ability counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites and as swashbuckler weapon training when determining which weapons the dashing commander can use in conjunction with her [swashbuckler deeds](../swashbuckler.md#deeds) and class features.
 
-At 5th level, a mysterious avenger can study an opponent she can see as a move action. She then gains a +1 bonus on Bluff, Knowledge, Perception, Sense Motive, and Survival checks against that opponent, a +1 bonus on weapon attack and damage rolls against it, and a +1 bonus to the saving throw DC of any [swashbuckler deeds](../swashbuckler.md#deeds) used against that opponent. A mysterious avenger can maintain these bonuses against only one opponent at a time; these bonuses remain in effect until either the opponent is dead or the mysterious avenger studies a new target.
+At 5th level, a mysterious avenger can study an opponent she can see as a move action. She then gains a +1 bonus on Bluff, [Knowledge](../../../rules/skills/knowledge.md), Perception, [Sense Motive](../../../rules/skills/sense-motive.md), and [Survival](../../../rules/skills/survival.md) checks against that opponent, a +1 bonus on weapon attack and damage rolls against it, and a +1 bonus to the saving throw DC of any [swashbuckler deeds](../swashbuckler.md#deeds) used against that opponent. A mysterious avenger can maintain these bonuses against only one opponent at a time; these bonuses remain in effect until either the opponent is dead or the mysterious avenger studies a new target.
 
 At 9th, 13th, and 17th levels, the mysterious avenger’s bonuses against a studied target increase by 1. In addition, at each such interval, a mysterious avenger is able to maintain these bonuses against an additional studied target at the same time. A mysterious avenger can discard this connection to a studied target as a free action, allowing her to study another target in its place. At 9th level, a mysterious avenger can study an opponent as a move or swift action. This ability replaces swashbuckler weapon training.
 
@@ -510,7 +510,7 @@ Accustomed to life on the high seas, a swashbuckler with the raider personage se
 
 **Personage Bonus**
 
-At 1st level, a raider swashbuckler gains Sea Legs as a bonus feat, ignoring the feat’s prerequisites. In addition, the swashbuckler may use her Charisma modifier instead of her Intelligence modifier on all Profession (sailor) checks and her Dexterity modifier instead of her Strength on all Swim checks. If she is proficient with [firearms](../../../equipment/weapons-firearms.md), the swashbuckler can regain panache from attacks made with firearms as if they belonged to the fighter weapon group that she selected with swashbuckler weapon training at 1st level.
+At 1st level, a raider swashbuckler gains Sea Legs as a bonus feat, ignoring the feat’s prerequisites. In addition, the swashbuckler may use her Charisma modifier instead of her Intelligence modifier on all [Profession](../../../rules/skills/profession.md) (sailor) checks and her Dexterity modifier instead of her Strength on all [Swim](../../../rules/skills/swim.md) checks. If she is proficient with [firearms](../../../equipment/weapons-firearms.md), the swashbuckler can regain panache from attacks made with firearms as if they belonged to the fighter weapon group that she selected with swashbuckler weapon training at 1st level.
 
 **Personage Abilities**: A swashbuckler with the raider personage gains the following abilities as she increases in level.
 
@@ -532,11 +532,11 @@ At 18th level, a raider adds her Charisma bonus (if any) to the total number of 
 
 **Plunder (Ex)**
 
-At 3th level, as a full-round action a raider swashbuckler can make a single melee attack against a foe that is either shaken or denied its Dexterity bonus to AC. If the attack hits, the swashbuckler also pilfers a small, loose item from her target as if she had succeeded at a Sleight of Hand or steal combat maneuver check. She doesn’t need to attempt a Sleight of Hand check, but if she does so and surpasses the target’s opposed Perception check, the target is unaware that the item is stolen. The swashbuckler may only use this deed in conjunction with a melee weapon that belongs to a fighter weapon group that she has selected with swashbuckler weapon training.
+At 3th level, as a full-round action a raider swashbuckler can make a single melee attack against a foe that is either shaken or denied its Dexterity bonus to AC. If the attack hits, the swashbuckler also pilfers a small, loose item from her target as if she had succeeded at a [Sleight of Hand](../../../rules/skills/sleight-of-hand.md) or steal combat maneuver check. She doesn’t need to attempt a Sleight of Hand check, but if she does so and surpasses the target’s opposed Perception check, the target is unaware that the item is stolen. The swashbuckler may only use this deed in conjunction with a melee weapon that belongs to a fighter weapon group that she has selected with swashbuckler weapon training.
 
 **Rope Mastery (Ex)**
 
-At 7th level, while she has at least 1 panache point, a raider swashbuckler gains a bonus on Acrobatics and Climb checks equal to her level when climbing or swinging on a rope. If she spends one 1 panache point, she can ignore difficult terrain until the end of her turn and any movement that she makes while climbing or swinging on a rope does not provoke attacks of opportunity.
+At 7th level, while she has at least 1 panache point, a raider swashbuckler gains a bonus on Acrobatics and [Climb](../../../rules/skills/climb.md) checks equal to her level when climbing or swinging on a rope. If she spends one 1 panache point, she can ignore difficult terrain until the end of her turn and any movement that she makes while climbing or swinging on a rope does not provoke attacks of opportunity.
 
 **Walk the Plank (Ex)**
 
@@ -884,13 +884,13 @@ This movement provokes attacks of opportunity as normal. This deed replaces targ
 
 **Dance of Dawn (Ex)**
 
-At 11th level, whenever a whirling dervish is in conditions of dim light or brighter and hits with a melee attack, she can spend 1 panache point to reflect the light off her blade into the eyes of her target. That opponent is blinded for 1 round. A successful Fortitude save (DC = 10 + 1/2 the whirling dervish’s class level + her Dexterity modifier) negates this effect. This deed replaces bleeding wound.
+At 11th level, whenever a whirling dervish is in conditions of dim light or brighter and hits with a melee attack, she can spend 1 panache point to reflect the light off her blade into the eyes of her target. That opponent is [blinded](../../../rules/appendices/conditions.md#blinded) for 1 round. A successful Fortitude save (DC = 10 + 1/2 the whirling dervish’s class level + her Dexterity modifier) negates this effect. This deed replaces bleeding wound.
 
 **Dance of Mercy (Ex)**
 
-At 19th level, when a whirling dervish hits a creature with a melee weapon, she can spend 2 panache points to stun the creature for 1 round. The creature must succeed on a Fortitude saving throw (DC = 10 + 1/2 the swashbuckler’s level + the swashbuckler’s Dexterity modifier) or be stunned for 1 round. Creatures that are immune to critical hits are also immune to this effect.
+At 19th level, when a whirling dervish hits a creature with a melee weapon, she can spend 2 panache points to stun the creature for 1 round. The creature must succeed on a Fortitude saving throw (DC = 10 + 1/2 the swashbuckler’s level + the swashbuckler’s Dexterity modifier) or be [stunned](../../../rules/appendices/conditions.md#stunned) for 1 round. Creatures that are immune to critical hits are also immune to this effect.
 
-Alternatively, if the whirling dervish confirms a critical hit with a melee weapon, in addition to the normal damage, she can spend 1 panache point to inflict a deadly stab. The target must succeed at a Fortitude saving throw (DC = 10 + 1/2 the dervish’s class level + her Dexterity modifier) or take an amount of nonlethal damage equal to its current hit points + 1, as well as becomes paralyzed for 1 hour. Performing this deed doesn’t grant the swashbuckler a panache point. This deed replaces deadly stab.
+Alternatively, if the whirling dervish confirms a critical hit with a melee weapon, in addition to the normal damage, she can spend 1 panache point to inflict a deadly stab. The target must succeed at a Fortitude saving throw (DC = 10 + 1/2 the dervish’s class level + her Dexterity modifier) or take an amount of nonlethal damage equal to its current hit points + 1, as well as becomes [paralyzed](../../../rules/appendices/conditions.md#paralyzed) for 1 hour. Performing this deed doesn’t grant the swashbuckler a panache point. This deed replaces deadly stab.
 
 **Dervish Finesse (Ex)**
 

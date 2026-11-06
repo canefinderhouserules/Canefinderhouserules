@@ -6,4 +6,4 @@ You enjoy telling tall tales and gain confidence when others believe them.
 
 **Prerequisites**: [Amateur Gunslinger](amateur-gunslinger.md) feat or grit class feature.
 
-**Benefit**: You gain a +1 bonus on Perform (act, comedy, oratory, and sing) skill checks, and Perform is a class skill for you. In addition, each time you make a successful Bluff check to convince someone of a far-fetched or impossible story, you regain 1 grit point. Successfully lying to a friendly or helpful creature, or a creature that has fewer Hit Dice than half your character level, doesn't restore grit.
+**Benefit**: You gain a +1 bonus on [Perform](../skills/perform.md) (act, comedy, oratory, and sing) skill checks, and Perform is a class skill for you. In addition, each time you make a successful [Bluff](../skills/bluff.md) check to convince someone of a far-fetched or impossible story, you regain 1 grit point. Successfully lying to a friendly or helpful creature, or a creature that has fewer Hit Dice than half your character level, doesn't restore grit.

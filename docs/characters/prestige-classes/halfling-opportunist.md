@@ -54,6 +54,6 @@ The halfling opportunist’s class skills are Acrobatics (Dex), Bluff (Cha), Cli
 
 **Improved Trap Spotter (Ex)**: At 2nd level, the range of your trap spotter ability increases to 20 feet.
 
-**Fit In (Ex)**: At 3rd level, you can use a Disguise check in place of a Diplomacy check to influence an NPC’s initial attitude, without changing your appearance. If multiple creatures with differing views of proper behavior are present, you must choose one target creature or group to influence.
+**Fit In (Ex)**: At 3rd level, you can use a [Disguise](../../rules/skills/disguise.md) check in place of a [Diplomacy](../../rules/skills/diplomacy.md) check to influence an NPC’s initial attitude, without changing your appearance. If multiple creatures with differing views of proper behavior are present, you must choose one target creature or group to influence.
 
-**Opportunity Attacker (Ex)**: At 5th level, when you make an attack of opportunity, you deal sneak attack damage even if the target is not flat-footed or denied its Dexterity bonus to AC.
+**Opportunity Attacker (Ex)**: At 5th level, when you make an attack of opportunity, you deal sneak attack damage even if the target is not [flat-footed](../../rules/appendices/conditions.md#flat-footed) or denied its Dexterity bonus to AC.

@@ -40,7 +40,7 @@ Humans whose ancestry includes beings of elemental fire such as efreet, ifrits a
 
 The following racial traits may be selected instead of existing ifrit racial traits. Consult your GM before selecting any of these new options.
 
-**Desert Mirage**: Ifrits thrive in the deserts of the world, where their keen instincts and resistance to heat give them a huge edge over their competitors. Those with this trait gain a +2 racial bonus on Stealth checks in desert environments and on saves to resist starvation and thirst. This racial trait replaces fire affinity.
+**Desert Mirage**: Ifrits thrive in the deserts of the world, where their keen instincts and resistance to heat give them a huge edge over their competitors. Those with this trait gain a +2 racial bonus on [Stealth](../../rules/skills/stealth.md) checks in desert environments and on saves to resist starvation and thirst. This racial trait replaces fire affinity.
 
 **Efreeti Magic**: Some ifrits inherit an efreeti ancestor’s ability to magically change a creature’s size. They can cast either [*enlarge person*](../../magic/spells/enlarge-person.md) or [*reduce person*](../../magic/spells/reduce-person.md) (the ifrit chooses when using this ability) once per day as a spell-like ability (caster level equals the ifrit’s level). The ifrit can use this ability to affect other ifrits as though they were humanoid creatures. This racial trait replaces the spell-like ability racial trait.
 
@@ -50,9 +50,9 @@ The following racial traits may be selected instead of existing ifrit racial tra
 
 **Fire-Starter**: Ifrits with this racial trait derive sadistic satisfaction from watching others burn. Anytime the ifrit causes a creature to catch fire, he gains a +1 morale bonus on the next single attack roll, saving throw, skill check, or ability check that he makes in the next round. The ifrit only gains this bonus the first time he causes a particular creature to catch fire; subsequent times the creature catches fire provide no bonus. This racial trait replaces fire affinity.
 
-**Forge-Hardened**: Not all ifrits are descended from efreet—some instead descend from azers or even salamanders. Such ifrits gain a +2 racial bonus on Craft (armor and weapons) checks and saves to resist fatigue and exhaustion. This racial trait replaces the spell-like ability racial trait.
+**Forge-Hardened**: Not all ifrits are descended from efreet—some instead descend from azers or even salamanders. Such ifrits gain a +2 racial bonus on [Craft](../../rules/skills/craft.md) (armor and weapons) checks and saves to resist fatigue and exhaustion. This racial trait replaces the spell-like ability racial trait.
 
-**Hypnotic**: Ifrits with this racial trait evoke the entrancing nature of flame, adding +1 to the DC for all saving throws against spells or effects they cast that inflict the fascinated condition. Once per day, when a creature rolls a saving throw against such an effect from the ifrit, the ifrit can spend an immediate action to force that creature to reroll the saving throw and use the second result, even if it is worse. The ifrit must announce he is using this ability before the results of the first roll are revealed. This racial trait replaces fire affinity.
+**Hypnotic**: Ifrits with this racial trait evoke the entrancing nature of flame, adding +1 to the DC for all saving throws against spells or effects they cast that inflict the [fascinated](../../rules/appendices/conditions.md#fascinated) condition. Once per day, when a creature rolls a saving throw against such an effect from the ifrit, the ifrit can spend an immediate action to force that creature to reroll the saving throw and use the second result, even if it is worse. The ifrit must announce he is using this ability before the results of the first roll are revealed. This racial trait replaces fire affinity.
 
 **Wildfire Heart**: Ifrits with this trait are as swift and dangerous as a blazing wildfire. They gain a +4 racial bonus on initiative checks. This racial trait replaces energy resistance.
 
@@ -64,15 +64,15 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 **Bard**: Add +1/6 to the number of people the bard can affect with the fascinate bardic performance.
 
-**Cleric**: Add a +1/2 bonus on Knowledge (planes) checks relating to the Plane of Fire and creatures with the fire subtype.
+**Cleric**: Add a +1/2 bonus on [Knowledge](../../rules/skills/knowledge.md) (planes) checks relating to the Plane of Fire and creatures with the fire subtype.
 
 **Gunslinger**: Add +1/2 to the bonus on initiative checks the gunslinger makes while using her gunslinger initiative deed.
 
-**Inquisitor**: Add a +1/2 bonus on Intimidate checks made against creatures with the fire subtype and a +1/2 bonus on Knowledge (planes) checks relating to the Plane of Fire.
+**Inquisitor**: Add a +1/2 bonus on [Intimidate](../../rules/skills/intimidate.md) checks made against creatures with the fire subtype and a +1/2 bonus on Knowledge (planes) checks relating to the Plane of Fire.
 
 **Oracle**: Add +1/2 to the oracle’s level for the purpose of determining the effects of one revelation.
 
-**Rogue**: Add a +1/2 bonus on Acrobatics checks to jump and a +1/2 bonus on Intimidate checks to demoralize enemies.
+**Rogue**: Add a +1/2 bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks to jump and a +1/2 bonus on Intimidate checks to demoralize enemies.
 
 **Sorcerer**: Choose a bloodline power from the elemental (fire) bloodline or the efreeti bloodline that the sorcerer can use. The sorcerer treats her class level as though it were +1/2 higher (to a maximum of +4) when determining the effects of that power.
 
@@ -90,7 +90,7 @@ These archetypes are typically only taken by ifrits, but members of other races,
 
 Ifrits have access to the following equipment.
 
-**Fire Ink**: This rich yellow ink reacts with a creature’s body heat to create a flickering, flamelike glow. It takes 10 minutes to apply fire ink, and 1 dose covers an approximately hand-sized area. Once applied, the ink glows as a candle for 24 hours. Four or more doses applied to the same part of the body glow as a torch for 24 hours. The alchemical reaction of the ink to the target’s skin and body heat is painful and irritating, giving the target the sickened condition while the glow lasts. A DC 15 Heal check can temporarily soothe these sensations, negating the sickened condition for 1 hour. Creatures immune or resistant to fire are immune to this sickening effect. Ifrits are especially known for their fondness for fire ink, and ifrit fire-dancers often decorate their skin with flaming designs before performing. A concentrated version of the ink costs 10 times as much and can be used to make permanently glowing tattoos.
+**Fire Ink**: This rich yellow ink reacts with a creature’s body heat to create a flickering, flamelike glow. It takes 10 minutes to apply fire ink, and 1 dose covers an approximately hand-sized area. Once applied, the ink glows as a candle for 24 hours. Four or more doses applied to the same part of the body glow as a torch for 24 hours. The alchemical reaction of the ink to the target’s skin and body heat is painful and irritating, giving the target the [sickened](../../rules/appendices/conditions.md#sickened) condition while the glow lasts. A DC 15 [Heal](../../rules/skills/heal.md) check can temporarily soothe these sensations, negating the sickened condition for 1 hour. Creatures immune or resistant to fire are immune to this sickening effect. Ifrits are especially known for their fondness for fire ink, and ifrit fire-dancers often decorate their skin with flaming designs before performing. A concentrated version of the ink costs 10 times as much and can be used to make permanently glowing tattoos.
 
 **Ifrit’s Blood**: Ifrit alchemists claim to make this thick red oil from their own blood—hence the morbid name—but this claim is almost certainly false. Ifrit’s blood ignites upon contact with air, but burns slowly and is unsuitable for use as a splash weapon. A creature can apply a flask of ifrit’s blood to a weapon as a standard action, wreathing the weapon in vibrant red flames for 1 minute. The oil deals 1 point of fire damage on each successful attack with the weapon and deals 1 point of fire damage to the weapon itself, bypassing the weapon’s hardness if any part of it is made of wood. If the oil is applied to a creature’s natural weapons or unarmed strikes, the creature takes 1 point of fire damage each round (though its fire immunity or resistance still applies).
 

@@ -8,5 +8,5 @@ You equate pain with discipline and can inflict damage upon yourself to unlock g
 
 - **Fervor**: The DCs to resist the boons granted by your [Hell Knight Obedience](hell-knight-obedience.md) feat increase by 1 for 1 hour.
 - **Indomitability**: You can reroll a single failed Will save and must take the second result, even if worse. A swift action isn't required, but you must still take 1 point of damage.
-- **Menacing**: +3 bonus on Intimidate and Sense Motive checks for 1 hour.
+- **Menacing**: +3 bonus on [Intimidate](../skills/intimidate.md) and [Sense Motive](../skills/sense-motive.md) checks for 1 hour.
 - **Mercilessness**: The critical threat range of your order's favored weapon doubles for 1 hour (even if it is not a piercing or slashing weapon). This doesn't stack with other effects that increase a weapon's critical threat range.

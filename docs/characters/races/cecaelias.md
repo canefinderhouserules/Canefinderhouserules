@@ -14,7 +14,7 @@ As cecaelias are unusual and powerful monstrous creatures, you should play one o
 
 **Darkvision**: Cecaelias have darkvision with a range of 60 feet.
 
-**Tentacle Sense (1 RP)**: While swimming and not grappled or grappling, a cecaelia can spread her tentacles wide to form a sensory net around herself as a swift action. This grants blindsight to a range of 10 feet and lasts as long as the cecaelia concentrates or until the cecaelia attacks with a tentacle or moves.
+**Tentacle Sense (1 RP)**: While swimming and not [grappled](../../rules/appendices/conditions.md#grappled) or grappling, a cecaelia can spread her tentacles wide to form a sensory net around herself as a swift action. This grants blindsight to a range of 10 feet and lasts as long as the cecaelia concentrates or until the cecaelia attacks with a tentacle or moves.
 
 **Natural Armor**: Cecaelias have a +2 natural armor bonus.
 
@@ -38,9 +38,9 @@ As cecaelias are unusual and powerful monstrous creatures, you should play one o
 
 The following racial traits may be selected instead of the standard racial traits listed above.
 
-**Dexterous Tentacles**: Occasionally a cecaelia is born with unusually long and agile tentacles. These tentacles allow the cecaelia to sense a greater area and to hold small items. A cecaelia with this racial trait increases the range of her tentacle sense to 30 feet. In addition, a cecaelia with this racial trait can attempt Sleight of Hand checks with her tentacles rather than her hands but with a –4 penalty. This racial trait replaces ink cloud.
+**Dexterous Tentacles**: Occasionally a cecaelia is born with unusually long and agile tentacles. These tentacles allow the cecaelia to sense a greater area and to hold small items. A cecaelia with this racial trait increases the range of her tentacle sense to 30 feet. In addition, a cecaelia with this racial trait can attempt [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks with her tentacles rather than her hands but with a –4 penalty. This racial trait replaces ink cloud.
 
-**Garrulous**: Some cecaelias have an inherent gift for language. They gain a +2 racial bonus on Diplomacy and Linguistics checks, and they learn two languages each time they gain a rank in Linguistics. This racial trait replaces ink cloud.
+**Garrulous**: Some cecaelias have an inherent gift for language. They gain a +2 racial bonus on [Diplomacy](../../rules/skills/diplomacy.md) and [Linguistics](../../rules/skills/linguistics.md) checks, and they learn two languages each time they gain a rank in Linguistics. This racial trait replaces ink cloud.
 
 **Tripping Tentacles**: Cecaelias born with rubbery, resilient tentacles can't use them to detect movement in the water but can use them to attack other creatures more easily. Cecaelias with this racial trait receive a +4 racial bonus on combat maneuver checks to trip an opponent. This racial trait replaces tentacle sense.
 

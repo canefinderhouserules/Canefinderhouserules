@@ -9,7 +9,7 @@
 
 You conjure uplifting music from the wilds of Elysium, Heaven, or Nirvana to bolster other musical activities.
 
-If you cast *songbird* during the same round in which you attempt a Perform check, *songbird* acts as accompaniment and grants a +3 bonus on that Perform check.
+If you cast *songbird* during the same round in which you attempt a [Perform](../../rules/skills/perform.md) check, *songbird* acts as accompaniment and grants a +3 bonus on that Perform check.
 
 If you cast *songbird* in the same round in which you activate a bardic performance, that round of bardic performance does not count against your total rounds of bardic performance available for the day.
 

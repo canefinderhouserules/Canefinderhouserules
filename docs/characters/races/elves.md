@@ -6,7 +6,7 @@ The long-lived elves are children of the natural world, similar in many superfic
 
 **Society**: Many elves feel a bond with nature and strive to live in harmony with the natural world. Most, however, find manipulating earth and stone to be distasteful, and prefer instead to indulge in the finer arts, with their inborn patience making them particularly suited to wizardry.
 
-**Relations**: Elves are prone to dismissing other races, writing them off as rash and impulsive, yet they are excellent judges of character. An elf might not want a dwarf neighbor, but would be the first to acknowledge that dwarf’s skill at smithing. They regard gnomes as strange (and sometimes dangerous) curiosities, and halflings with a measure of pity, for these small folk seem to the elves to be adrift, without a traditional home. Elves are fascinated with humans, as evidenced by the number of half-elves in the world, even if they usually disown such offspring. They regard half-orcs with distrust and suspicion.
+**Relations**: Elves are [prone](../../rules/appendices/conditions.md#prone) to dismissing other races, writing them off as rash and impulsive, yet they are excellent judges of character. An elf might not want a dwarf neighbor, but would be the first to acknowledge that dwarf’s skill at smithing. They regard gnomes as strange (and sometimes dangerous) curiosities, and halflings with a measure of pity, for these small folk seem to the elves to be adrift, without a traditional home. Elves are [fascinated](../../rules/appendices/conditions.md#fascinated) with humans, as evidenced by the number of half-elves in the world, even if they usually disown such offspring. They regard half-orcs with distrust and suspicion.
 
 **Male Names**: Caladrel, Heldalel, Lanliss, Meirdrarel, Seldlon, Talathel, Variel, Zordlon.
 
@@ -26,9 +26,9 @@ The long-lived elves are children of the natural world, similar in many superfic
 
 **Elven Magic**: Elves receive a +2 racial bonus on caster level checks made to overcome spell resistance.
 
-In addition, elves receive a +2 racial bonus on Spellcraft skill checks made to identify the properties of magic items.
+In addition, elves receive a +2 racial bonus on [Spellcraft](../../rules/skills/spellcraft.md) skill checks made to identify the properties of magic items.
 
-**Keen Senses**: Elves receive a +2 racial bonus on Perception skill checks.
+**Keen Senses**: Elves receive a +2 racial bonus on [Perception](../../rules/skills/perception.md) skill checks.
 
 **Weapon Familiarity**: Elves are proficient with [longbows](../../equipment/weapons-martial.md#martial-ranged-weapons) (including [composite longbows](../../equipment/weapons-martial.md#martial-ranged-weapons)), [longswords](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [rapiers](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and [shortbows](../../equipment/weapons-martial.md#martial-ranged-weapons) (including [composite shortbows](../../equipment/weapons-martial.md#martial-ranged-weapons)), and treat any weapon with the word “elven” in its name as a martial weapon.
 
@@ -46,17 +46,17 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Lightbringer**: Many elves revere the sun, moon, and stars, but some are literally infused with the radiant power of the heavens. Elves with this racial trait are immune to light-based blindness and dazzle effects, and are treated as one level higher when determining the effects of any light-based spell or effect they cast (including spell-like and supernatural abilities). Elves with Intelligence 10 or higher may use light at will as a spell-like ability. This racial trait replaces the elven immunities and elven magic racial traits.
 
-**Silent Hunter**: Elves are renowned for their subtlety and skill. Elves with this racial trait reduce the penalty for using Stealth while moving by 5 and can make Stealth checks while running at a –20 penalty (this number includes the penalty reduction from this racial trait). This racial trait replaces the elven magic racial trait.
+**Silent Hunter**: Elves are renowned for their subtlety and skill. Elves with this racial trait reduce the penalty for using Stealth while moving by 5 and can make [Stealth](../../rules/skills/stealth.md) checks while running at a –20 penalty (this number includes the penalty reduction from this racial trait). This racial trait replaces the elven magic racial trait.
 
-**Spirit of the Waters**: Some elves have adapted to life in tune with the sea or along the reedy depths of wild rivers and lakes. They gain a +4 racial bonus on Swim checks, can always take 10 while swimming, and may choose Aquan as a bonus language. They are proficient with [longspear](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), [trident](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and net. This racial trait replaces elven magic and weapon familiarity racial traits.
+**Spirit of the Waters**: Some elves have adapted to life in tune with the sea or along the reedy depths of wild rivers and lakes. They gain a +4 racial bonus on [Swim](../../rules/skills/swim.md) checks, can always take 10 while swimming, and may choose Aquan as a bonus language. They are proficient with [longspear](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), [trident](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and net. This racial trait replaces elven magic and weapon familiarity racial traits.
 
-**Woodcraft**: Elves know the deep secrets of the wild like no others, especially those of the forests. Elves with this racial trait gain a +1 bonus on Knowledge (nature) and Survival checks. In forest terrain, these bonuses improve to +2. This racial trait replaces the elven magic racial trait.
+**Woodcraft**: Elves know the deep secrets of the wild like no others, especially those of the forests. Elves with this racial trait gain a +1 bonus on [Knowledge](../../rules/skills/knowledge.md) (nature) and [Survival](../../rules/skills/survival.md) checks. In forest terrain, these bonuses improve to +2. This racial trait replaces the elven magic racial trait.
 
 ### Additional Alternate Racial Traits (Advanced Race Guide)
 
 **Arcane Focus**: Some elven families have such long traditions of producing wizards (and other arcane spellcasters) that they raise their children with the assumption each is destined to be a powerful magic-user, with little need for mundane concerns such as skill with weapons. Elves with this racial trait gain a +2 racial bonus on concentration checks made to cast arcane spells defensively. This racial trait replaces weapon familiarity.
 
-**Darkvision**: Though uncommon, some groups of elves are born with darkvision, rather than low-light vision. In many cases this is taken as a sign of a drow in the elf’s ancestry, and can lead to persecution within the elf’s home community. Elves with this racial trait gain darkvision with a range of 60 feet, but also gain sensitivity to light and are dazzled in areas of bright light or within the radius of a [*daylight*](../../magic/spells/daylight.md) spell. This racial trait replaces low-light vision.
+**Darkvision**: Though uncommon, some groups of elves are born with darkvision, rather than low-light vision. In many cases this is taken as a sign of a drow in the elf’s ancestry, and can lead to persecution within the elf’s home community. Elves with this racial trait gain darkvision with a range of 60 feet, but also gain sensitivity to light and are [dazzled](../../rules/appendices/conditions.md#dazzled) in areas of bright light or within the radius of a [*daylight*](../../magic/spells/daylight.md) spell. This racial trait replaces low-light vision.
 
 **Elemental Resistance**: Elves who dwell in the most extreme environments, from arctic wastelands to volcanic plains, develop natural resistance to the dangers of their homelands over the course of a few generations. Elves with this racial trait gain elemental resistance 5 to acid, cold, electricity, or fire. This choice is made at character creation, and once made it cannot be changed. This racial trait replaces elven immunities.
 
@@ -64,7 +64,7 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Fleet-Footed**: While all elves are naturally lithe and agile, some also are naturally speedy and have a strong desire to rush into situations rather than worrying about looking ahead. Elves with this racial trait receive Run as a bonus feat and a +2 racial bonus on initiative checks. This racial trait replaces keen senses and weapon familiarity.
 
-**Urbanite**: Elves who live in cities for more than a century can grow to know the ebb and flow of social situations just as their forest-dwelling cousins know the rules of the wild. Elves with this racial trait gain a +2 racial bonus on Diplomacy checks made to gather information and Sense Motive checks made to get a hunch about a social situation. This racial trait replaces keen senses.
+**Urbanite**: Elves who live in cities for more than a century can grow to know the ebb and flow of social situations just as their forest-dwelling cousins know the rules of the wild. Elves with this racial trait gain a +2 racial bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks made to gather information and [Sense Motive](../../rules/skills/sense-motive.md) checks made to get a hunch about a social situation. This racial trait replaces keen senses.
 
 ### Urban Alternate Racial Traits
 
@@ -135,7 +135,7 @@ Elves have access to the following equipment.
 
 **Spellbook, Compact**: The need to be able to record and travel with dozens or even hundreds of spells often forces elven wizards to seek lighter spellbooks. Compact spellbooks hold only 70 pages of spells, but they weigh significantly less than an ordinary spellbook.
 
-**Tent, Hanging**: A hanging tent is a small tent (able to comfortably house a single Medium creature) with a teardrop shape, which hangs from a sturdy anchor rope. The rope can be tied to a tree limb, grappling hook, or even a piton hammered into a cliff side. Hanging tents are used primarily in mountainous terrain (where no flat surface may be available for camping) and swamps (where no dry ground may be available). Climbing in or out of a hanging tent is a full-round action that requires a DC 10 Climb check. Failure indicates another attempt must be made, while failure by 5 or more indicates the camper has fallen from the tent.
+**Tent, Hanging**: A hanging tent is a small tent (able to comfortably house a single Medium creature) with a teardrop shape, which hangs from a sturdy anchor rope. The rope can be tied to a tree limb, grappling hook, or even a piton hammered into a cliff side. Hanging tents are used primarily in mountainous terrain (where no flat surface may be available for camping) and swamps (where no dry ground may be available). Climbing in or out of a hanging tent is a full-round action that requires a DC 10 [Climb](../../rules/skills/climb.md) check. Failure indicates another attempt must be made, while failure by 5 or more indicates the camper has fallen from the tent.
 
 | Item | Cost | Weight |
 |---|---|---|
@@ -322,7 +322,7 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 **Medium**: Gain a +1/3 bonus on all skill checks using occult skill unlocks.
 
-**Mesmerist**: Gain a +1/2 bonus on Acrobatics checks to move through a threatened area and a +1/2 bonus on Bluff checks to feint.
+**Mesmerist**: Gain a +1/2 bonus on [Acrobatics](../../rules/skills/acrobatics.md) checks to move through a threatened area and a +1/2 bonus on [Bluff](../../rules/skills/bluff.md) checks to feint.
 
 **Monk**: Add +1 to the monk’s base speed. In combat this option has no effect unless the monk has selected it five times (or another increment of five). This bonus stacks with the monk’s fast movement class feature and applies under the same conditions as that feature.
 
@@ -376,7 +376,7 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 ### Behind the Veil
 
-Characters with this trait slyly cover their body language and movements by acting in a shadowed or partitioned areas. These characters gain a +2 bonus on Bluff and Sleight of Hand checks while benefiting from concealment or cover.
+Characters with this trait slyly cover their body language and movements by acting in a shadowed or partitioned areas. These characters gain a +2 bonus on Bluff and [Sleight of Hand](../../rules/skills/sleight-of-hand.md) checks while benefiting from concealment or cover.
 
 Dwarves can take this trait in place of stonecunning. Elves, gnomes, and half-elves can take this trait in place of low-light vision. Half-orcs can take this trait in place of intimidating, also gaining the shadow blending fetchling racial trait. Halflings can take this trait in place of weapon familiarity.
 
@@ -388,7 +388,7 @@ Elves or gnome can take this trait in place of keen senses. Half-elves can take 
 
 ### Dimdweller
 
-Characters with this trait are at home in gloomy conditions. Whenever these characters benefit from concealment or full concealment due to darkness or dim light, they gain a +2 racial bonus on Intimidate, Perception, and Stealth checks.
+Characters with this trait are at home in gloomy conditions. Whenever these characters benefit from concealment or full concealment due to darkness or dim light, they gain a +2 racial bonus on [Intimidate](../../rules/skills/intimidate.md), Perception, and Stealth checks.
 
 Dwarves can take this trait in place of the greed and stonecunning traits. Elves, gnomes, halflings, and half-orcs can take this trait in place of weapon familiarity. Half-elves can take this trait in place of adaptability. Humans can take this trait in place of the skilled trait, also gaining darkvision to a range of 60 feet.
 
@@ -426,7 +426,7 @@ Dwarves can take this trait in place of stonecunning. Drow and elves can take th
 
 ### Fey Thoughts
 
-The character sees the world more like a native of the fey realm. Select two of the following skills: Acrobatics, Bluff, Climb, Diplomacy, Disguise, Escape Artist, Fly, Knowledge (nature), Perception, Perform, Sense Motive, Sleight of Hand, Stealth, Swim, or Use Magic Device. The selected skills are always class skills for the character.
+The character sees the world more like a native of the fey realm. Select two of the following skills: Acrobatics, Bluff, Climb, Diplomacy, [Disguise](../../rules/skills/disguise.md), [Escape Artist](../../rules/skills/escape-artist.md), [Fly](../../rules/skills/fly.md), Knowledge (nature), Perception, [Perform](../../rules/skills/perform.md), Sense Motive, Sleight of Hand, Stealth, Swim, or [Use Magic Device](../../rules/skills/use-magic-device.md). The selected skills are always class skills for the character.
 
 A dwarf can take this trait in place of hatred. An elf, gnome, or half-orc can take this trait in place of racial weapon familiarity. A half-elf can take this trait in place of multitalented. A halfling can take it in place of fearless. In the case of humans, this trait replaces the skilled trait (and the human also gains fey magic and low-light vision, as detailed in Fey Magic, above).
 

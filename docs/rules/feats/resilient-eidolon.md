@@ -1,6 +1,6 @@
 # Resilient Eidolon
 
-Your link with your eidolon is strong enough that it can remain with you for a short time after you fall unconscious or are killed.
+Your link with your eidolon is strong enough that it can remain with you for a short time after you fall [unconscious](../appendices/conditions.md#unconscious) or are killed.
 
 **Prerequisite**: Eidolon class feature.
 

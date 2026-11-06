@@ -3,7 +3,7 @@
 !!! note "Source"
     Rules from *Pathfinder Roleplaying Game: Ultimate Wilderness*.
 
-Vermin companions for druids and similar classes were first introduced in *Ultimate Magic*. Several additional choices for vermin companions are listed below. Vermin companions follow the same rules as animal companions and can be trained as if they were animals using the Handle Animal skill. In addition, vermin companions have the following features.
+Vermin companions for druids and similar classes were first introduced in *Ultimate Magic*. Several additional choices for vermin companions are listed below. Vermin companions follow the same rules as animal companions and can be trained as if they were animals using the [Handle Animal](../../rules/skills/handle-animal.md) skill. In addition, vermin companions have the following features.
 
 **Mindless**: Vermin companions have no Intelligence score and have the mindless trait. In spite of this, vermin companions can learn one trick, plus any additional bonus tricks granted as a result of class level. If a vermin animal companion gains an ability score increase (at 4 Hit Dice, 8 Hit Dice, and so on), the druid can apply this increase to the companion’s Intelligence, changing it from — to 1, at which point the companion loses the mindless trait and is able to learn up to 3 tricks per point of Intelligence, plus the additional bonus tricks. Vermin companions have no skill points or feats as long as they have the mindless quality.
 
@@ -55,7 +55,7 @@ Also known as sea scorpions, these aquatic insects have pincers and a long sting
 
 The giant locust has long limber legs and the ability to spit a caustic glob of noxious goo.
 
-**Starting Statistics**: Size Small; Speed 20 ft., climb 20 ft., fly 20 ft. (poor); AC +3 natural armor; Attack bite (1d6); Ability Scores Str 12, Dex 17, Con 11, Int —, Wis 10, Cha 7; Special Attacks spit goo (ranged touch attack, 30-foot range, sickened for 1 round); Special Qualities +18 Acrobatics when jumping, darkvision 60 ft., leap (can take 10 on Acrobatics checks to jump, even when distracted or threatened); CMD +8 vs. trip.
+**Starting Statistics**: Size Small; Speed 20 ft., climb 20 ft., fly 20 ft. (poor); AC +3 natural armor; Attack bite (1d6); Ability Scores Str 12, Dex 17, Con 11, Int —, Wis 10, Cha 7; Special Attacks spit goo (ranged touch attack, 30-foot range, [sickened](../../rules/appendices/conditions.md#sickened) for 1 round); Special Qualities +18 Acrobatics when jumping, darkvision 60 ft., leap (can take 10 on [Acrobatics](../../rules/skills/acrobatics.md) checks to jump, even when distracted or threatened); CMD +8 vs. trip.
 
 **4th-Level Advancement**: Size Medium; Speed 20 ft., climb 20 ft., fly 60 ft. (average); AC +2 natural armor; Attack bite (1d8); Ability Scores Str +4, Dex –2, Con +2; Special Attacks voracious (bite attack deals double damage to creatures with the plant subtype and to objects made of paper, wood, or other plant materials).
 

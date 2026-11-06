@@ -131,7 +131,7 @@ At 1st level, the legendary magus has access to the following potential techniqu
 
 - **Arcane Deflection**: As an immediate action when an attack is rolled against the legendary magus or an adjacent ally, the legendary magus can create a miniature projection of force granting herself or her ally a +1 circumstance bonus to AC against the attack for each point of potential spent on this ability. This technique is used after an attack is rolled, but before damage is dealt, allowing it to negate an attack if this technique would cause the attack to miss.
 
-- **Focused Concentration**: As a swift action, the legendary can select a single creature they can see and gain a +4 bonus to concentration checks against that creature until the beginning of her next turn. This applies to concentration checks as a result of being injured by that creature, affected by its spells, being grappled by that creature, and for casting defensive in that creature’s threatened area.
+- **Focused Concentration**: As a swift action, the legendary can select a single creature they can see and gain a +4 bonus to concentration checks against that creature until the beginning of her next turn. This applies to concentration checks as a result of being injured by that creature, affected by its spells, being [grappled](../../../rules/appendices/conditions.md#grappled) by that creature, and for casting defensive in that creature’s threatened area.
 
 - **Magician’s Assault**: For each point of potential the legendary magus spends on this technique, she gains a +1 circumstance bonus to attack and damage rolls made with weapon attacks until the beginning of her next turn.
 

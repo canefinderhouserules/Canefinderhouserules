@@ -8,4 +8,4 @@
 **Duration** 1 round/level (D)  
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-You cause the subject to believe it is being attacked by a creature out of its nightmares. Each round, the subject makes a full-attack action against the creature. A flying creature can still attempt a Fly check to hover. Each round on its turn after making a full attack against the imaginary creature, the subject can attempt a new saving throw to end the effect. The subject is fatigued for 1 minute after the spell ends.
+You cause the subject to believe it is being attacked by a creature out of its nightmares. Each round, the subject makes a full-attack action against the creature. A flying creature can still attempt a [Fly](../../rules/skills/fly.md) check to hover. Each round on its turn after making a full attack against the imaginary creature, the subject can attempt a new saving throw to end the effect. The subject is [fatigued](../../rules/appendices/conditions.md#fatigued) for 1 minute after the spell ends.

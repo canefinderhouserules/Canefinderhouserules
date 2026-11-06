@@ -7,7 +7,7 @@
 **Target** you  
 **Duration** 1 round/level
 
-Upon casting this spell, you must choose one type of genie to transform into, selecting from djinni, efreeti, marid, or shaitan. You retain your basic physical appearance but shift in some way to become more akin to the genie type you chose. While under the effects of *geniekind*, you gain a +2 racial bonus on all saving throws against paralysis, poison, sleep, and stunning effects, and a +4 enhancement bonus to your natural armor bonus. You also gain a +2 enhancement bonus to Constitution and a +5 bonus on all Diplomacy checks made when interacting with creatures of the same elemental subtype as your chosen genie. In addition, you gain other abilities depending upon the type of genie you choose to assume the form of, as detailed below.
+Upon casting this spell, you must choose one type of genie to transform into, selecting from djinni, efreeti, marid, or shaitan. You retain your basic physical appearance but shift in some way to become more akin to the genie type you chose. While under the effects of *geniekind*, you gain a +2 racial bonus on all saving throws against paralysis, poison, sleep, and stunning effects, and a +4 enhancement bonus to your natural armor bonus. You also gain a +2 enhancement bonus to Constitution and a +5 bonus on all [Diplomacy](../../rules/skills/diplomacy.md) checks made when interacting with creatures of the same elemental subtype as your chosen genie. In addition, you gain other abilities depending upon the type of genie you choose to assume the form of, as detailed below.
 
 **Djinni**: You gain the ability to fly at a speed of 60 feet with perfect maneuverability. When flying, your lower torso trails away into a vortex of wind and smoke. You gain resist electricity 10.
 

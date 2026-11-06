@@ -12,7 +12,7 @@ Healing words knit the flesh and soothe the body, repairing even the most grievo
 
 Target Restrictions personal, selected If the target of a wordspell with this effect word is dying, it is automatically stabilized.
 
-**Boost**: The target of a wordspell with this effect word is cured of the shaken, sickened, or fatigued condition (caster’s choice). Boosting this effect word increases its level by 1.
+**Boost**: The target of a wordspell with this effect word is cured of the [shaken](../../../rules/appendices/conditions.md#shaken), [sickened](../../../rules/appendices/conditions.md#sickened), or [fatigued](../../../rules/appendices/conditions.md#fatigued) condition (caster’s choice). Boosting this effect word increases its level by 1.
 
 ## Lesser Cure (Healing)
 

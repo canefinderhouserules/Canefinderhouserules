@@ -1,6 +1,6 @@
 # Stone to Flesh Savant
 
-You can use your mercies to transform petrified victims back to flesh.
+You can use your mercies to transform [petrified](../appendices/conditions.md#petrified) victims back to flesh.
 
 **Prerequisites**: Paladin level 12th, lay on hands class feature, mercy class feature.
 

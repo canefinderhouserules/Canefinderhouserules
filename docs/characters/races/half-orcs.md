@@ -22,11 +22,11 @@ Half-orcs are monstrosities, their tragic births the result of perversion and vi
 
 **Darkvision**: Half-orcs can see in the dark up to 60 feet.
 
-**Intimidating**: Half-orcs receive a +2 racial bonus on Intimidate skill checks due to their fearsome nature.
+**Intimidating**: Half-orcs receive a +2 racial bonus on [Intimidate](../../rules/skills/intimidate.md) skill checks due to their fearsome nature.
 
 **Orc Blood**: Half-orcs count as both humans and orcs for any effect related to race.
 
-**Orc Ferocity**: Once per day, when a half-orc is brought below 0 hit points but not killed, he can fight on for one more round as if disabled. At the end of his next turn, unless brought to above 0 hit points, he immediately falls unconscious and begins dying.
+**Orc Ferocity**: Once per day, when a half-orc is brought below 0 hit points but not killed, he can fight on for one more round as if disabled. At the end of his next turn, unless brought to above 0 hit points, he immediately falls [unconscious](../../rules/appendices/conditions.md#unconscious) and begins dying.
 
 **Weapon Familiarity**: Half-orcs are proficient with [greataxes](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons) and [falchions](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons) and treat any weapon with the word “orc” in its name as a martial weapon.
 
@@ -36,11 +36,11 @@ Half-orcs are monstrosities, their tragic births the result of perversion and vi
 
 The following racial traits might be selected instead of existing racial traits. Consult your GM before selecting any of these options.
 
-**Beastmaster**: Some half-orcs have a spiritual kinship with fantastical beasts, capturing them for sport or living and hunting with them. A half-orc with this trait treats whip and net as martial weapons and gains a +2 bonus on Handle Animal checks. This racial trait replaces the orc ferocity racial trait.
+**Beastmaster**: Some half-orcs have a spiritual kinship with fantastical beasts, capturing them for sport or living and hunting with them. A half-orc with this trait treats whip and net as martial weapons and gains a +2 bonus on [Handle Animal](../../rules/skills/handle-animal.md) checks. This racial trait replaces the orc ferocity racial trait.
 
-**Bestial**: The orc blood of some half-orcs manifests in the form of particularly prominent orc features, exacerbating their bestial appearances but improving their already keen senses. They gain a +2 racial bonus on Perception checks. This racial trait replaces the orc ferocity racial trait.
+**Bestial**: The orc blood of some half-orcs manifests in the form of particularly prominent orc features, exacerbating their bestial appearances but improving their already keen senses. They gain a +2 racial bonus on [Perception](../../rules/skills/perception.md) checks. This racial trait replaces the orc ferocity racial trait.
 
-**Cavewight**: Some half-orcs live far from the surface, seeking solace in winding cave complexes. Half-orcs with this racial trait gain a +1 bonus on Knowledge (dungeoneering) and Survival checks made underground. This racial trait replaces the intimidating racial trait.
+**Cavewight**: Some half-orcs live far from the surface, seeking solace in winding cave complexes. Half-orcs with this racial trait gain a +1 bonus on [Knowledge](../../rules/skills/knowledge.md) (dungeoneering) and [Survival](../../rules/skills/survival.md) checks made underground. This racial trait replaces the intimidating racial trait.
 
 **Chain Fighter**: Some half-orcs have escaped from slavery and reforged the chains of their imprisonment into deadly weapons. Half-orcs with this racial trait are proficient with flails and [heavy flails](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), and treat [dire flails](../../equipment/weapons-exotic.md#exotic-two-handed-melee-weapons) and [spiked chains](../../equipment/weapons-exotic.md#exotic-two-handed-melee-weapons) as [martial weapons](../../equipment/weapons-martial.md). This trait replaces the weapon familiarity racial trait.
 
@@ -48,13 +48,13 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Hatred**: Half-orcs raised among orcs must prove themselves against their people's enemies. Half-orcs with this racial trait gain a +1 racial bonus on attack rolls against humanoids of the dwarf, elf, and human subtypes because of their special training against these hated foes. This racial trait replaces intimidating and orc ferocity.
 
-**Plagueborn**: Half-orcs are sometimes forced to live on the rancid and unsanitary margins of society, becoming inured to all manner of sickness. Half-orcs with this racial trait gain a +2 racial bonus on saving throws against disease, ingested poisons, and becoming nauseated or sickened. This racial trait replaces the intimidating and orc ferocity racial traits.
+**Plagueborn**: Half-orcs are sometimes forced to live on the rancid and unsanitary margins of society, becoming inured to all manner of sickness. Half-orcs with this racial trait gain a +2 racial bonus on saving throws against disease, ingested poisons, and becoming [nauseated](../../rules/appendices/conditions.md#nauseated) or [sickened](../../rules/appendices/conditions.md#sickened). This racial trait replaces the intimidating and orc ferocity racial traits.
 
-**Rock Climber**: Half-orcs from mountainous regions are excellent climbers, and sometimes ambush prey by leaping down from above. Half-orcs with this racial trait gain a +1 bonus on Acrobatics and Climb checks. This racial trait replaces the intimidating trait.
+**Rock Climber**: Half-orcs from mountainous regions are excellent climbers, and sometimes ambush prey by leaping down from above. Half-orcs with this racial trait gain a +1 bonus on [Acrobatics](../../rules/skills/acrobatics.md) and [Climb](../../rules/skills/climb.md) checks. This racial trait replaces the intimidating trait.
 
 **Sacred Tattoo**: Tattoos, piercings, and ritual scarification are sacred markings to many half-orcs. Half-orcs with this racial trait gain a +1 luck bonus on all saving throws. This racial trait replaces the orc ferocity racial trait.
 
-**Scavenger**: Some half-orcs eke out a leaving picking over the garbage heaps of society, and must learn to separate rare finds from the inevitable dross. Half-orcs with this racial trait receive a +2 racial bonus on Appraise checks and on Perception checks to find hidden objects (including traps and secret doors), determine if food is spoiled, or identify a potion by taste. This racial trait replaces the intimidating racial trait.
+**Scavenger**: Some half-orcs eke out a leaving picking over the garbage heaps of society, and must learn to separate rare finds from the inevitable dross. Half-orcs with this racial trait receive a +2 racial bonus on [Appraise](../../rules/skills/appraise.md) checks and on Perception checks to find hidden objects (including traps and secret doors), determine if food is spoiled, or identify a potion by taste. This racial trait replaces the intimidating racial trait.
 
 **Toothy**: Some half-orcs’ vestigial tusks are massive and sharp, granting a bite attack. This is a primary natural attack that deals 1d4 points of piercing damage. This racial trait replaces the orc ferocity racial trait.
 
@@ -74,13 +74,13 @@ The following racial traits might be selected instead of existing racial traits.
 
 Half-orcs descended from particular kinds of orcs may select the following racial traits instead of standard half-orc racial traits.
 
-**Burning Assurance** (desert orc heritage): You lack the chip on the shoulder that many half-orcs acquire as a result of prejudice, and your self-confidence puts others at ease. You gain a +2 racial bonus on Diplomacy checks. This racial trait replaces the intimidating racial trait.
+**Burning Assurance** (desert orc heritage): You lack the chip on the shoulder that many half-orcs acquire as a result of prejudice, and your self-confidence puts others at ease. You gain a +2 racial bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks. This racial trait replaces the intimidating racial trait.
 
 **Cliffside Charger** (mountain orc heritage): You are accustomed to traveling in steep terrain. When in mountain terrain, you can move through natural difficult terrain at your normal speed; magically altered terrain affects you normally. In addition, you gain a +10-foot racial bonus to your speed while charging. This racial trait replaces the orc ferocity and weapon familiarity racial traits.
 
-**Evader** (underground orc heritage): Having lived all your life at the mercy of savage underworld creatures, you have an uncanny knack for finding your way about silently in the dark. While underground, you gain a +5 racial bonus on Survival checks to avoid becoming lost, and a +1 racial bonus on Stealth checks. This racial trait replaces the intimidating racial trait.
+**Evader** (underground orc heritage): Having lived all your life at the mercy of savage underworld creatures, you have an uncanny knack for finding your way about silently in the dark. While underground, you gain a +5 racial bonus on Survival checks to avoid becoming lost, and a +1 racial bonus on [Stealth](../../rules/skills/stealth.md) checks. This racial trait replaces the intimidating racial trait.
 
-**Unflinching Valor** (arctic orc heritage): Many fearsome arctic predators consider young half-orcs easy prey, but you managed to surpass your fear and fight off such beasts. You gain a +2 racial bonus on saving throws against fear effects, and a +1 racial bonus to CMD to avoid being grappled. This racial trait replaces the intimidating racial trait.
+**Unflinching Valor** (arctic orc heritage): Many fearsome arctic predators consider young half-orcs easy prey, but you managed to surpass your fear and fight off such beasts. You gain a +2 racial bonus on saving throws against fear effects, and a +1 racial bonus to CMD to avoid being [grappled](../../rules/appendices/conditions.md#grappled). This racial trait replaces the intimidating racial trait.
 
 **Warded Skin** (jungle orc heritage): Elaborate tattoos protect you from the power of demon worshipers by redirecting demonic magic. You gain spell resistance against divine magic equal to 6 + your level. Additionally, divine spells cast on you by demon worshipers have a 10% chance of failure. This racial trait replaces the orc ferocity racial trait.
 
@@ -92,9 +92,9 @@ Half-orcs descended from particular kinds of orcs may select the following racia
 
 The following racial traits represent a fey ancestor in the family line. They can be selected instead of the indicated racial traits. Consult your GM before selecting any of these options.
 
-**Shamanic Enhancement**: Certain half-orcs know rituals to enhance the strength and brutality of their allies. These half-orcs gain a +2 racial bonus on Spellcraft checks. In addition, when such a half-orc acquires an animal companion, bonded mount, cohort, familiar, or spirit animal, that creature gains a +2 bonus to Strength, Dexterity, or Constitution, as selected by the half-orc. This racial trait replaces weapon familiarity and intimidating.
+**Shamanic Enhancement**: Certain half-orcs know rituals to enhance the strength and brutality of their allies. These half-orcs gain a +2 racial bonus on [Spellcraft](../../rules/skills/spellcraft.md) checks. In addition, when such a half-orc acquires an animal companion, bonded mount, cohort, familiar, or spirit animal, that creature gains a +2 bonus to Strength, Dexterity, or Constitution, as selected by the half-orc. This racial trait replaces weapon familiarity and intimidating.
 
-**Vigilant Gaze**: Half-orcs trained as bodyguards in foreign courts develop a keen eye for trouble, but their night vision, unnecessary in well-lit courts, dwindles. Half-orcs with this racial trait gain low-light vision and have a +1 racial bonus on Perception and Sense Motive checks. This racial trait replaces darkvision.
+**Vigilant Gaze**: Half-orcs trained as bodyguards in foreign courts develop a keen eye for trouble, but their night vision, unnecessary in well-lit courts, dwindles. Half-orcs with this racial trait gain low-light vision and have a +1 racial bonus on Perception and [Sense Motive](../../rules/skills/sense-motive.md) checks. This racial trait replaces darkvision.
 
 ### Draconic Alternate Racial Traits
 
@@ -133,7 +133,7 @@ Half-orcs have access to the following equipment.
 
 **Black Fester**: This black paste is often applied on orc weapons before going on raids to stymie an enemy’s healing magic. Like a poison, black fester stays on a weapon until the first time it strikes an opponent. It remains in the target’s body for 1 hour. A creature exposed to black fester resists magical healing; a creature trying to magically heal the target must make a DC 10 caster level check to restore any hit points to the target.
 
-**Half-Orc Disguise Kit**: This specifically designed kit was put together by half-orcs to help them appear more human. It includes skin cream to disguise green-gray skin color and other items designed to conceal or draw attention away from typical half-orc physical characteristics. Using this kit on a half-orc grants a +3 bonus on Disguise checks to appear human. Used on an orc, it only grants a +1 bonus on these checks.
+**Half-Orc Disguise Kit**: This specifically designed kit was put together by half-orcs to help them appear more human. It includes skin cream to disguise green-gray skin color and other items designed to conceal or draw attention away from typical half-orc physical characteristics. Using this kit on a half-orc grants a +3 bonus on [Disguise](../../rules/skills/disguise.md) checks to appear human. Used on an orc, it only grants a +1 bonus on these checks.
 
 | Item | Cost | Weight | Craft DC |
 |---|---|---|---|
@@ -260,7 +260,7 @@ Some half-orcs have much stronger orc blood than human blood. Such half-orcs cou
 
 ### Overlooked Mastermind
 
-Some half-orcs use half-orcs’ brutish stereotypes to their advantage, causing others to underestimate their intelligence and scheming. Such half-orcs gain a +2 racial bonus on Bluff, Diplomacy, and Sense Motive checks. This bonus increases to +4 against other humanoids. They also receive a +2 racial bonus on Bluff checks to feign ignorance and Sense Motive checks to intercept secret messages, and this stacks with the above bonus. This racial trait replaces intimidating, orc ferocity, and weapon familiarity.
+Some half-orcs use half-orcs’ brutish stereotypes to their advantage, causing others to underestimate their intelligence and scheming. Such half-orcs gain a +2 racial bonus on [Bluff](../../rules/skills/bluff.md), Diplomacy, and Sense Motive checks. This bonus increases to +4 against other humanoids. They also receive a +2 racial bonus on Bluff checks to feign ignorance and Sense Motive checks to intercept secret messages, and this stacks with the above bonus. This racial trait replaces intimidating, orc ferocity, and weapon familiarity.
 
 ### Pariah
 
@@ -268,7 +268,7 @@ While many cultures discriminate against half-orcs, in some, particularly dwarve
 
 ### Sea Raider
 
-In the Lands of the sea kings and the pirate isles, half-orcs frequently take up sailing as pirates, raiders, and fishers, where they are known as tenacious fighters. They gain a +2 racial bonus on Profession (sailor) checks and Craft checks to repair ships, and a +1 racial bonus on damage rolls against foes and objects in or on top of the water. This racial trait replaces darkvision.
+In the Lands of the sea kings and the pirate isles, half-orcs frequently take up sailing as pirates, raiders, and fishers, where they are known as tenacious fighters. They gain a +2 racial bonus on [Profession](../../rules/skills/profession.md) (sailor) checks and [Craft](../../rules/skills/craft.md) checks to repair ships, and a +1 racial bonus on damage rolls against foes and objects in or on top of the water. This racial trait replaces darkvision.
 
 ### Unflinching Valor
 

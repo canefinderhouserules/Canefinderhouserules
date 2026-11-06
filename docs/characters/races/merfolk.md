@@ -28,11 +28,11 @@ The following racial traits may be selected instead of existing merfolk racial t
 
 **Darkvision**: Some merfolk favor the lightless depths over shallower waters. Merfolk with this racial trait gain darkvision with a range of 60 feet and light sensitivity. This racial trait replaces low-light vision.
 
-**Seasinger**: The beautiful voices of the merfolk are legendary. A seasinger gains a +2 racial bonus on Perform (sing) checks and a +1 racial bonus to the save DC of language-dependent spells. This racial trait replaces low-light vision.
+**Seasinger**: The beautiful voices of the merfolk are legendary. A seasinger gains a +2 racial bonus on [Perform](../../rules/skills/perform.md) (sing) checks and a +1 racial bonus to the save DC of language-dependent spells. This racial trait replaces low-light vision.
 
 **Strongtail**: A few merfolk have broad, strong tails that are more suited for land travel than the typical merfolk tail. Merfolk with this racial trait have a land speed of 15 feet and a swim speed of 30 feet.
 
-**Unexpected Ally**: Merfolk who have grown to live and cooperate with an ancestral enemy, such as sahuagin, gain a +2 bonus on Diplomacy checks to influence a creature's attitude. In addition, they gain a +1 racial bonus on checks to perform the aid another action. This replaces low-light vision.
+**Unexpected Ally**: Merfolk who have grown to live and cooperate with an ancestral enemy, such as sahuagin, gain a +2 bonus on [Diplomacy](../../rules/skills/diplomacy.md) checks to influence a creature's attitude. In addition, they gain a +1 racial bonus on checks to perform the aid another action. This replaces low-light vision.
 
 ## Favored Class Options
 

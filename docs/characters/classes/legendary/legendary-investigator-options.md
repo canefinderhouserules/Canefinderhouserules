@@ -16,7 +16,7 @@ A study of anthropology is a study of societies, languages, social structures an
 
 **Studied Conversationalist (Ex)**
 
-At 1st-level, you are so trained in your study of cultures that if you have correctly identified a creature with their corresponding Knowledge skill, you may apply your Intelligence modifier instead of your Charisma modifier to Bluff, Diplomacy, Disguise, and Intimidate checks against said creatures, or of such creatures for disguise.
+At 1st-level, you are so trained in your study of cultures that if you have correctly identified a creature with their corresponding [Knowledge](../../../rules/skills/knowledge.md) skill, you may apply your Intelligence modifier instead of your Charisma modifier to [Bluff](../../../rules/skills/bluff.md), [Diplomacy](../../../rules/skills/diplomacy.md), [Disguise](../../../rules/skills/disguise.md), and [Intimidate](../../../rules/skills/intimidate.md) checks against said creatures, or of such creatures for disguise.
 
 **Quick Rundown (Ex)**
 
@@ -26,7 +26,7 @@ This ability may be used on a number of skill checks equal to the your Intellige
 
 **Parse Language (Ex)**
 
-At 8th level, your knowledge and understanding of the roots of languages allows you a baseline understanding of a language you may not have encountered before. When encountering an unknown language either written or spoken, you may attempt a Linguistics skill check. If you succeed at the skill check (use the DCs listed in the skill description), you are treated as being able to read, write, understand and speak the language for 10 minutes.
+At 8th level, your knowledge and understanding of the roots of languages allows you a baseline understanding of a language you may not have encountered before. When encountering an unknown language either written or spoken, you may attempt a [Linguistics](../../../rules/skills/linguistics.md) skill check. If you succeed at the skill check (use the DCs listed in the skill description), you are treated as being able to read, write, understand and speak the language for 10 minutes.
 
 **Behavior Prediction (Ex)**
 
@@ -50,7 +50,7 @@ A study of the arcane is to delve into the rituals, diagrams and foci of arcane 
 
 **Arcane Experience (Ex)**
 
-At 1st level, your knowledge of the inner workings of magic and their application on usable objects means you do not need to use your force of will to figure out how to use them. You may use Intelligence in place of Charisma for Use Magic Device checks. Additionally, you qualify as a wizard for feat and spell prerequisite purposes.
+At 1st level, your knowledge of the inner workings of magic and their application on usable objects means you do not need to use your force of will to figure out how to use them. You may use Intelligence in place of Charisma for [Use Magic Device](../../../rules/skills/use-magic-device.md) checks. Additionally, you qualify as a wizard for feat and spell prerequisite purposes.
 
 **Competent Arcana (Ex)**
 
@@ -156,15 +156,15 @@ At 12th level, you may spend 1 point of inspiration to make a single attack as a
 
 **Arms**: On a hit, the target takes no damage from the hit but drops one carried item of the gunslinger’s choice, even if the item is wielded with two hands. Items held in a locked gauntlet are not dropped on a hit.
 
-**Head**: On a hit, the target is damaged normally, and is also confused for 1d6 rounds. This is a mind-affecting effect.
+**Head**: On a hit, the target is damaged normally, and is also [confused](../../../rules/appendices/conditions.md#confused) for 1d6 rounds. This is a mind-affecting effect.
 
 **Neck**: On a hit, the target is unable to speak or use breath weapons for 1d6 rounds.
 
-**Legs**: On a hit, the target is damaged normally and knocked prone. Creatures that have four or more legs or that are immune to trip attacks are immune to this effect.
+**Legs**: On a hit, the target is damaged normally and knocked [prone](../../../rules/appendices/conditions.md#prone). Creatures that have four or more legs or that are immune to trip attacks are immune to this effect.
 
 **Torso**: On a hit, the target is unable to regain hit points for 1d6 rounds.
 
-**Wings**: On a hit, the target is damaged normally, and must make a DC 20 Fly check or fall 20 ft.
+**Wings**: On a hit, the target is damaged normally, and must make a DC 20 [Fly](../../../rules/skills/fly.md) check or fall 20 ft.
 
 **Lightning Reload (Ex)**
 
@@ -258,11 +258,11 @@ This takes one minute.
 
 **Mantracker (Ex)**
 
-At 8th level, when you study a target via any means, they remain your target until you choose a different target or until you rest for 8 hours. In addition, you can add your inspiration die to Perception, Sense Motive, and Survival checks attempted against that target without spending inspiration. You can move at normal speed while using Survival to follow the target’s tracks without taking the normal –5 penalty, and when moving at up to twice your normal speed while tracking, you take only a –10 penalty instead of the normal –20.
+At 8th level, when you study a target via any means, they remain your target until you choose a different target or until you rest for 8 hours. In addition, you can add your inspiration die to [Perception](../../../rules/skills/perception.md), [Sense Motive](../../../rules/skills/sense-motive.md), and [Survival](../../../rules/skills/survival.md) checks attempted against that target without spending inspiration. You can move at normal speed while using Survival to follow the target’s tracks without taking the normal –5 penalty, and when moving at up to twice your normal speed while tracking, you take only a –10 penalty instead of the normal –20.
 
 **Pacification (Ex)**
 
-At 12th level, you may spend 1 inspiration to make a melee attack against a humanoid or monstrous humanoid creature that is no greater than one size larger than you. If this attack hits, in addition to normal damage, the target must make a Fortitude saving throw against a DC equal to 10 + half your class level + your Intelligence modifier or they are stunned for 1d4 rounds. This attack is a standard action.
+At 12th level, you may spend 1 inspiration to make a melee attack against a humanoid or monstrous humanoid creature that is no greater than one size larger than you. If this attack hits, in addition to normal damage, the target must make a Fortitude saving throw against a DC equal to 10 + half your class level + your Intelligence modifier or they are [stunned](../../../rules/appendices/conditions.md#stunned) for 1d4 rounds. This attack is a standard action.
 
 **Unconventional Methods (Sp)**
 
@@ -270,7 +270,7 @@ At 12th level, you can expend one use of his inspiration to use the spell discer
 
 **Restraints (Sp)**
 
-At 16th level, as a standard action, you may spend 1 spell point to conjure restraints around a target made from material in the vicinity. You must make a melee touch attack. Spell resistance does not apply. The creature becomes entangled by restraints that are anchored to the ground (though they can be cut loose from the ground easily enough). If the target is flying, then the restraints become anchored if the target falls to the ground at any time. In addition, the restraints gag the target, making it impossible for them to speak. The restraints last for 1 hour per class level before disintegrating. A restrained creature can escape by making a Strength or Escape Artist check with DC equal to 10 + half your class level + your Intelligence modifier.
+At 16th level, as a standard action, you may spend 1 spell point to conjure restraints around a target made from material in the vicinity. You must make a melee touch attack. Spell resistance does not apply. The creature becomes [entangled](../../../rules/appendices/conditions.md#entangled) by restraints that are anchored to the ground (though they can be cut loose from the ground easily enough). If the target is flying, then the restraints become anchored if the target falls to the ground at any time. In addition, the restraints gag the target, making it impossible for them to speak. The restraints last for 1 hour per class level before disintegrating. A restrained creature can escape by making a Strength or [Escape Artist](../../../rules/skills/escape-artist.md) check with DC equal to 10 + half your class level + your Intelligence modifier.
 
 **Dueling**
 
@@ -326,7 +326,7 @@ At 1st level, you are so studied in your chosen field that you can sense the tel
 
 At 4th level, your skill and understanding of engineering concepts becomes second nature to you. You need not expend inspiration to reactivate studied combat against a structure, object, construct, or construct-like creature (like an inevitable).
 
-Additionally, you may take 10 on Disable Device and Knowledge (engineering) checks.
+Additionally, you may take 10 on [Disable Device](../../../rules/skills/disable-device.md) and Knowledge (engineering) checks.
 
 **Resonance (Ex)**
 
@@ -336,7 +336,7 @@ To do so, you expend a point of inspiration as a standard action that does not p
 
 **Applied Engineering (Ex)**
 
-At 12th level, you have learned to apply mundane methods to creating the magical and technical marvels usually relegated to masterful spellcasters. You gain Craft Construct as a bonus feat. You are considered to have any spell required in the creation of the construct and may substitute a Knowledge (engineering) check for any Craft check in the construction requirements.
+At 12th level, you have learned to apply mundane methods to creating the magical and technical marvels usually relegated to masterful spellcasters. You gain Craft Construct as a bonus feat. You are considered to have any spell required in the creation of the construct and may substitute a Knowledge (engineering) check for any [Craft](../../../rules/skills/craft.md) check in the construction requirements.
 
 **Quick Building (Sp)**
 
@@ -364,7 +364,7 @@ At 4th level, your ability to quickly know the probability of events allows you 
 
 **Absolute Number (Ex)**
 
-At 8th level, You have found small ways to impact your environment to change your understanding of the various numbers affecting your environment. You may expend a point of inspiration to reverse a penalty you are suffering from into an insight bonus. This benefit lasts for a number of rounds equal to your Legendary Investigator class levels minus the absolute value of the penalty or the duration of the penalty, whichever is shorter. For example, A 10th-level legendary investigator with this ability could take the -2 penalty to skill checks from the shaken condition and turn them into a +2 insight bonus for 8 rounds.
+At 8th level, You have found small ways to impact your environment to change your understanding of the various numbers affecting your environment. You may expend a point of inspiration to reverse a penalty you are suffering from into an insight bonus. This benefit lasts for a number of rounds equal to your Legendary Investigator class levels minus the absolute value of the penalty or the duration of the penalty, whichever is shorter. For example, A 10th-level legendary investigator with this ability could take the -2 penalty to skill checks from the [shaken](../../../rules/appendices/conditions.md#shaken) condition and turn them into a +2 insight bonus for 8 rounds.
 
 **Applicable Geometry (Ex)**
 
@@ -384,7 +384,7 @@ A study in medicine is a focus on the body, how it functions, how to fix it and 
 
 **Expert Medicine (Ex)**
 
-At 1st level, your training and knowledge of the medical arts helps you instead of your intuitive knowledge of the workings of a body. You may use your Intelligence modifier in place of the normal ability modifier for Heal checks. The bonus provided by the focus skill is doubled to identify any tampering in medical evidence like hiding wounds on a corpse or removing the evidence of a poison in a body. Additionally, you may apply 1/2 your legendary investigator level to Perception checks to identify potions.
+At 1st level, your training and knowledge of the medical arts helps you instead of your intuitive knowledge of the workings of a body. You may use your Intelligence modifier in place of the normal ability modifier for [Heal](../../../rules/skills/heal.md) checks. The bonus provided by the focus skill is doubled to identify any tampering in medical evidence like hiding wounds on a corpse or removing the evidence of a poison in a body. Additionally, you may apply 1/2 your legendary investigator level to Perception checks to identify potions.
 
 **Competent Treatment (Ex)**
 
@@ -396,9 +396,9 @@ At 8th level, your understanding of physiology and ailments of the body allow yo
 
 - Heal 1 point of ability damage. You may use a point of inspiration to increase this to 1d4 points of ability damage. Doing so is a DC 20 Heal check. At 12th level, you may expend a point of inspiration to instead heal 1 point of ability drain or 2 to heal 1d4 ability drain.
 
-- Remove the following conditions: fatigued, stunned, paralyzed, sickened. Doing so requires a DC 20 Heal check.
+- Remove the following conditions: [fatigued](../../../rules/appendices/conditions.md#fatigued), stunned, [paralyzed](../../../rules/appendices/conditions.md#paralyzed), [sickened](../../../rules/appendices/conditions.md#sickened). Doing so requires a DC 20 Heal check.
 
-- Reduce the following conditions: nauseated to sickened and exhausted to fatigued. Doing so requires a DC 25 check, however, if you exceed the check by 10 or more, the condition is removed instead of reduced.
+- Reduce the following conditions: [nauseated](../../../rules/appendices/conditions.md#nauseated) to sickened and [exhausted](../../../rules/appendices/conditions.md#exhausted) to fatigued. Doing so requires a DC 25 check, however, if you exceed the check by 10 or more, the condition is removed instead of reduced.
 
 - Remove blindness or deafness from a creature. If they have either condition naturally or stemming from a class ability such as an oracle curse, they are not removed. The DC to do so is 30.
 
@@ -500,7 +500,7 @@ A study in thanatology is the study of dead bodies and undeath, of shambling cor
 
 At 1st level, your study of undeath bears fruit in the form of a servant created through application of your knowledge. You gain the service of a small undead animal which follows your commands.
 
-It can be instructed as an animal with the combat trained general purpose though you never need to make Handle Animal checks in regards to your servant. The form of your undead servant is up to you but it begins play with the following statistics. You choose whether your servant is bipedal or quadrupedal.
+It can be instructed as an animal with the combat trained general purpose though you never need to make [Handle Animal](../../../rules/skills/handle-animal.md) checks in regards to your servant. The form of your undead servant is up to you but it begins play with the following statistics. You choose whether your servant is bipedal or quadrupedal.
 
 **Type** undead; **HD** 2d8 (12 hp); **Size** Small; **Speed** 30 ft.; AC: +2 natural armor; **Attack** slam (1d6+2); **Ability Scores** Str 15, Dex 13, Con -, Int 1, Wis 12, Cha 10; **Special Qualities** low-light vision, darkvision 60 ft, undead traits; **Feats** Toughness
 
@@ -526,7 +526,7 @@ The undead servant gains +4 channel resistance.
 
 **Malevolence (Ex)**
 
-The undead servant grows more cruel. It gains a +2 bonus on damage rolls against targets suffering from a fear effect as well as grappled or helpless foes.
+The undead servant grows more cruel. It gains a +2 bonus on damage rolls against targets suffering from a fear effect as well as [grappled](../../../rules/appendices/conditions.md#grappled) or [helpless](../../../rules/appendices/conditions.md#helpless) foes.
 
 **Nightclad (Su)**
 
@@ -634,7 +634,7 @@ At 1st level, you gain the seamless disguise feature, as a vigilante.
 
 **Friend of Darkness (Ex)**
 
-At 1st level, while you are in your alternate identity, you gain a competence bonus to your Bluff, Intimidate and Stealth skills equal to half your class level, minimum 1.
+At 1st level, while you are in your alternate identity, you gain a competence bonus to your Bluff, Intimidate and [Stealth](../../../rules/skills/stealth.md) skills equal to half your class level, minimum 1.
 
 **Frightening Display (Ex)**
 
@@ -694,7 +694,7 @@ A study of arts is a study of works of beauty created by sentient races, like pa
 
 **Recreative Reflection (Ex)**
 
-At 1st level, you may use your Intelligence modifier in place of the normal ability modifier for Perform checks. You can also expend one use of inspiration to replace a Knowledge check with a Perform check.
+At 1st level, you may use your Intelligence modifier in place of the normal ability modifier for [Perform](../../../rules/skills/perform.md) checks. You can also expend one use of inspiration to replace a Knowledge check with a Perform check.
 
 **Dilettante (Ex)**
 
@@ -930,7 +930,7 @@ If your addiction is cured by magic, you lose access to this feat until you have
 
 **Relevant Skill:** Bluff
 
-**Indulge:** Play your favorite game with at least 1 other player. Roll 1d20. With a result of 1-10, you lose 1/10 of all your gold. With a result of 11-20, you win an equal amount. You also gain a +4 bonus on all Appraise checks for 24 hours.
+**Indulge:** Play your favorite game with at least 1 other player. Roll 1d20. With a result of 1-10, you lose 1/10 of all your gold. With a result of 11-20, you win an equal amount. You also gain a +4 bonus on all [Appraise](../../../rules/skills/appraise.md) checks for 24 hours.
 
 **Boon 1:** Winning is just a matter of calculating the odds. You may cast *cleromancy* once per day as a spell-like ability.
 

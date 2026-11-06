@@ -22,9 +22,9 @@ A black blade is bonded to a particular legendary magus, much like a familiar, b
 
 **Ego**: A black blade starts with an ego of 5, and that ego increases as the blade becomes more powerful, as per Table: Black Blade Progression below. In cases where a wielder and the black blade come into conflict, like any intelligent item, a black blade can attempt to exert its dominance (see Intelligent Items). Due to its flexible and powerful nature, a black blade has a nonstandard ego progression.
 
-**Languages and Skills**: A black blade starts with Common as a language. As the black blade increases in Intelligence, it manifests knowledge of languages and arcane lore. Upon reaching an Intelligence of 12, it gains a bonus language of the GM’s choice, and gains 1 rank in Knowledge (arcana). Each time the sword gains a bonus to Intelligence, it gains another language and another rank in Knowledge (arcana).
+**Languages and Skills**: A black blade starts with Common as a language. As the black blade increases in Intelligence, it manifests knowledge of languages and arcane lore. Upon reaching an Intelligence of 12, it gains a bonus language of the GM’s choice, and gains 1 rank in [Knowledge](../../../rules/skills/knowledge.md) (arcana). Each time the sword gains a bonus to Intelligence, it gains another language and another rank in Knowledge (arcana).
 
-**Senses**: A black blade is aware of everything around it like a creature that can see and hear. It can be blinded and deafened as if it were a creature. It uses the saving throws of its magus, even if the magus is not currently wielding the black blade.
+**Senses**: A black blade is aware of everything around it like a creature that can see and hear. It can be [blinded](../../../rules/appendices/conditions.md#blinded) and [deafened](../../../rules/appendices/conditions.md#deafened) as if it were a creature. It uses the saving throws of its magus, even if the magus is not currently wielding the black blade.
 
 **Black Blade Arcane Potential**: A black blade has a pool of arcane potential, with a maximum equal to 1 + its Intelligence bonus. It gains a single point of potential each round at the beginning of its wielder’s turn while in combat. If the black blade spends 1 minute outside of combat, it loses all potential it has stored.
 
@@ -66,7 +66,7 @@ Alternatively, he can do so as a swift action by spending one point of potential
 
 **Transfer Arcana (Su)**
 
-At 13th level, a legendary magus can attempt to siphon points from her black blade’s arcane potential into her own. Doing so takes a move action and the legendary magus must succeed at a Will saving throw with a DC equal to the black blade’s ego. If the legendary magus succeeds, she regains 1 point to her arcane potential pool for every 2 points she saps from his black blade. If she fails the saving throw, the legendary magus becomes fatigued for 1 minute(but can try again). If she is fatigued, she becomes exhausted for 1 minute instead. She cannot use this ability if she is exhausted.
+At 13th level, a legendary magus can attempt to siphon points from her black blade’s arcane potential into her own. Doing so takes a move action and the legendary magus must succeed at a Will saving throw with a DC equal to the black blade’s ego. If the legendary magus succeeds, she regains 1 point to her arcane potential pool for every 2 points she saps from his black blade. If she fails the saving throw, the legendary magus becomes [fatigued](../../../rules/appendices/conditions.md#fatigued) for 1 minute(but can try again). If she is fatigued, she becomes [exhausted](../../../rules/appendices/conditions.md#exhausted) for 1 minute instead. She cannot use this ability if she is exhausted.
 
 **Spell Defense (Sp)**
 
@@ -86,7 +86,7 @@ A black blade is independently conscious but features some personality traits re
 
 Many legendary magi study hard to learn the secrets of their tomes, while a rare few are naturally gifted in the arcane thanks to a draconic source.
 
-**Class Skills**: The dragon fang adds Bluff, Diplomacy, Handle Animal, Knowledge (nature), and Perform to her list of class skills.
+**Class Skills**: The dragon fang adds [Bluff](../../../rules/skills/bluff.md), [Diplomacy](../../../rules/skills/diplomacy.md), [Handle Animal](../../../rules/skills/handle-animal.md), Knowledge (nature), and Perform to her list of class skills.
 
 **Dragon’s Aptitude**: A dragon fang gains 2 additional skill points per level. These skill points must be spent on Intelligence-based skills.
 
@@ -142,7 +142,7 @@ This modifies the spells class feature.
 
 A drakeguard gains a drake companion, who they share a potent magical bond with.
 
-This drake companion’s Hit Dice, abilities, skills, and feats advance as the drakeguard advances in level. This drake can be of any alignment (rather than any non-good) and starts at Small size rather than Tiny, altering its statistics as appropriate for its new size. The drakeguard’s drake does not increase its size at 17th level. A drakeguard’s companion is almost always aligned with its charges goals, never requiring the drakeguard to make Diplomacy or Intimidate checks to convince the drake to fatigue themselves or take major risks to their lives.
+This drake companion’s Hit Dice, abilities, skills, and feats advance as the drakeguard advances in level. This drake can be of any alignment (rather than any non-good) and starts at Small size rather than Tiny, altering its statistics as appropriate for its new size. The drakeguard’s drake does not increase its size at 17th level. A drakeguard’s companion is almost always aligned with its charges goals, never requiring the drakeguard to make Diplomacy or [Intimidate](../../../rules/skills/intimidate.md) checks to convince the drake to fatigue themselves or take major risks to their lives.
 
 If the drakeguard’s drake companion is killed her bond is severed. If her drake is lost, she can choose to sever this bond with 8 hours of meditation. This reduces her maximum arcane potential to her Intelligence modifier until she forms a bond with another drake, drake egg, or returns her original companion to life. Forming a bond with a new drake or egg, or reestablishing a bond with her original companion after it is returned to life, takes 24 hours of continuous meditation and arcane rituals. If she forms a bond with a drake egg, her magic infused it. The egg hatches after one week. Her newly bonded drake (whether freshly hatched or not) rapidly grows in size and strength due to this magical bond, gaining 1 Hit Die per week until it has reached the Hit Dice of her original companion.
 
@@ -190,7 +190,7 @@ The modern magus studies the arcane and trains in manufactured weapons, but some
 
 **Class Skills**
 
-A first magus adds Handle Animal, Heal, Knowledge (nature), Knowledge (religion), and Survival to her list of class skills.
+A first magus adds Handle Animal, [Heal](../../../rules/skills/heal.md), Knowledge (nature), Knowledge (religion), and Survival to her list of class skills.
 
 **Blessing of the Wild**
 
@@ -216,7 +216,7 @@ This ability replaces eldritch tome.
 
 A first magus casts divine spells drawn from the druid and ranger spell lists. Only druid spells of 6th level and lower and ranger spells are considered to be part of the first magus’ spell list. If a spell appears on both the druid and ranger spell lists, the first magus uses the lower of the two spell levels listed for the spell. For instance, reduce animal is a 2nd-level druid spell and a 3rd-level ranger spell, making it a 2nd-level first magus spell. Likewise, detect poison is a 0-level druid spell and a 2nd-level ranger spell, making it a 0-level first magus spell. The first magus can cast any spell she knows without preparing it ahead of time. To learn or cast a spell, a first magus must have a Wisdom score equal to at least 10 + the spell’s level. The Difficulty Class for a saving throw against a first magus’s spell is 10 + the spell’s level + the first magus’s Wisdom modifier.
 
-A first magus cannot use spell completion or spell trigger magic items (without making a successful Use Magic Device check) of druid spells of 7th level or higher.
+A first magus cannot use spell completion or spell trigger magic items (without making a successful [Use Magic Device](../../../rules/skills/use-magic-device.md) check) of druid spells of 7th level or higher.
 
 Like other spellcasters, a first magus can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is as a hunter of her level. In addition, she receives bonus spells per day if she has a high Wisdom score.
 
@@ -294,7 +294,7 @@ Certain kensai abilities can only be used with his chosen weapon, or while wield
 
 **Intelligent Defense**
 
-At 1st level, when the legendary kensai is wielding his chosen weapon, he gains a dodge bonus to his Armor Class equal to his Intelligence bonus. If the legendary kensai has any class levels other than legendary magus, this bonus is restricted to his legendary magus level (minimum 1). If the legendary kensai is caught flat-footed or otherwise denied his Dexterity bonus, he also loses this bonus.
+At 1st level, when the legendary kensai is wielding his chosen weapon, he gains a dodge bonus to his Armor Class equal to his Intelligence bonus. If the legendary kensai has any class levels other than legendary magus, this bonus is restricted to his legendary magus level (minimum 1). If the legendary kensai is caught [flat-footed](../../../rules/appendices/conditions.md#flat-footed) or otherwise denied his Dexterity bonus, he also loses this bonus.
 
 **Diminished Spellcasting**
 

@@ -4,4 +4,4 @@ Your constant attention to the natural order and your place in it has given you 
 
 **Prerequisites**: Survival 3 ranks, must worship nature.
 
-**Benefit**: You gain a +4 bonus on Survival checks made to predict the weather. You gain a +1 bonus on saving throws to avoid the effects of extreme weather.
+**Benefit**: You gain a +4 bonus on [Survival](../skills/survival.md) checks made to predict the weather. You gain a +1 bonus on saving throws to avoid the effects of extreme weather.

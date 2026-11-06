@@ -6,4 +6,4 @@ You are skilled at unseating your mounted opponents.
 
 **Prerequisites**: Str 13, Ride 1 rank, [Mounted Combat](mounted-combat.md), [Power Attack](power-attack.md), [Improved Bull Rush](improved-bull-rush.md), base attack bonus +1.
 
-**Benefits**: When charging an opponent while mounted and wielding a lance, resolve the attack as normal. If it hits, you may immediately make a free bull rush attempt in addition to the normal damage. If successful, the target is knocked off his horse and lands prone in a space adjacent to his mount that is directly away from you.
+**Benefits**: When charging an opponent while mounted and wielding a lance, resolve the attack as normal. If it hits, you may immediately make a free bull rush attempt in addition to the normal damage. If successful, the target is knocked off his horse and lands [prone](../appendices/conditions.md#prone) in a space adjacent to his mount that is directly away from you.

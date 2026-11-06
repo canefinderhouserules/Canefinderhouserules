@@ -69,7 +69,7 @@ This animal resembles an alpaca with voluminous, shiny wool.
 
 **Pristine Wool (Ex)**: A bacallia gains a +2 racial bonus on saving throws against contact poisons and effects that would entangle it, and a +1 bonus to its touch AC.
 
-**Spit (Ex)**: Once per hour, a bacallia can spit at a single target within 10 feet. The target must succeed at a DC 13 Fortitude save or be sickened for 1d4 rounds.
+**Spit (Ex)**: Once per hour, a bacallia can spit at a single target within 10 feet. The target must succeed at a DC 13 Fortitude save or be [sickened](../../rules/appendices/conditions.md#sickened) for 1d4 rounds.
 
 ### Blackwisp Egret
 
@@ -285,7 +285,7 @@ Unlike the magical beast of the same name, this owl is a mundane but unusually l
 
 **Starting Statistics**: Size Medium; Speed 10 ft., fly 60 ft. (average); AC +2 natural armor; Attack 2 talons (1d4); Ability Scores Str 10, Dex 17, Con 13, Int 2, Wis 13, Cha 6; Special Qualities low-light vision.
 
-**7th-Level Advancement**: Size Large; AC +2 natural armor; Attack 2 talons (1d6); Ability Scores Str +8, Dex –2, Con +4; Special Attacks rend (2 talons, 1d6); Racial Skill Modifiers +4 Stealth.
+**7th-Level Advancement**: Size Large; AC +2 natural armor; Attack 2 talons (1d6); Ability Scores Str +8, Dex –2, Con +4; Special Attacks rend (2 talons, 1d6); Racial Skill Modifiers +4 [Stealth](../../rules/skills/stealth.md).
 
 ### Panda
 
@@ -365,7 +365,7 @@ Its unmistakable black-and-white-striped coloration gives a clear warning sign t
 
 **Starting Statistics**: Size Medium; Speed 30 ft.; AC +1 natural armor; Attack bite (1d6), 2 claws (1d4); Ability Scores Str 9, Dex 14, Con 13, Int 2, Wis 12, Cha 9; Special Attacks spray (ranged touch attack, 30-ft. range, musk, usable 1/day); Special Qualities low-light vision, musk (Fort save or sickened for 1d6 rounds, Con-based DC), scent.
 
-**7th-Level Advancement**: Size Large; AC +2 natural armor; Attack bite (1d8), 2 claws (1d6); Ability Scores Str +8, Dex –2, Con +4; Special Attacks spray (usable 2/day); Special Qualities musk (Fort save or nauseated for 1d3 rounds).
+**7th-Level Advancement**: Size Large; AC +2 natural armor; Attack bite (1d8), 2 claws (1d6); Ability Scores Str +8, Dex –2, Con +4; Special Attacks spray (usable 2/day); Special Qualities musk (Fort save or [nauseated](../../rules/appendices/conditions.md#nauseated) for 1d3 rounds).
 
 ### Sea Crawler
 
@@ -383,11 +383,11 @@ This sleek equine is slightly smaller than an average horse, but its eyes contai
 
 **7th-Level Advancement**: **AC** +3 natural armor; **Attack** bite (1d8), 2 hooves (1d4, secondary attack); **Ability Scores** Str +2, Dex +4, Con +2; **Special Qualities** desert senses.
 
-**Desert Dweller (Ex)**: A shissah does not treat light rubble or sand as difficult terrain. It gains a +4 racial bonus on Survival checks in the desert, and it treats hot temperatures as one category less for the purposes of heat danger.
+**Desert Dweller (Ex)**: A shissah does not treat light rubble or sand as difficult terrain. It gains a +4 racial bonus on [Survival](../../rules/skills/survival.md) checks in the desert, and it treats hot temperatures as one category less for the purposes of heat danger.
 
-**Desert Senses (Ex)**: A shissah gains a +4 racial bonus on saving throws against mirage effects and against effects that cause the dazzled condition, and a +4 racial bonus on Perception checks in deserts.
+**Desert Senses (Ex)**: A shissah gains a +4 racial bonus on saving throws against mirage effects and against effects that cause the [dazzled](../../rules/appendices/conditions.md#dazzled) condition, and a +4 racial bonus on [Perception](../../rules/skills/perception.md) checks in deserts.
 
-**Easily Trained (Ex)**: Anyone attempting to train a shissah gains a +2 bonus on her Handle Animal checks. A shissah can learn an additional 2 tricks beyond what an animal of its intelligence can normally be taught.
+**Easily Trained (Ex)**: Anyone attempting to train a shissah gains a +2 bonus on her [Handle Animal](../../rules/skills/handle-animal.md) checks. A shissah can learn an additional 2 tricks beyond what an animal of its intelligence can normally be taught.
 
 ### Skittergoat
 

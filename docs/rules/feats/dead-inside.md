@@ -10,4 +10,4 @@ You are devoid of both hatred and joy. While many regard you as callous, you hav
 
 **Goal:** You overcome your detached state by taking part in an important emotional event, such as finding true love or taking great pleasure in an act of unrepentant evil. Alternatively, you divest yourself of all emotion by severing your remaining emotional ties and eventually changing your alignment to neutral.
 
-**Completion Benefit:** You master your emotions. You can ignore any morale bonuses or penalties applied to you by outside forces, though other emotion-based effects (such as the shaken condition or an *elixir of love*) still affect you if you fail a saving throw against them.
+**Completion Benefit:** You master your emotions. You can ignore any morale bonuses or penalties applied to you by outside forces, though other emotion-based effects (such as the [shaken](../appendices/conditions.md#shaken) condition or an *elixir of love*) still affect you if you fail a saving throw against them.

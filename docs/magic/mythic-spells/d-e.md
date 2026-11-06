@@ -20,7 +20,7 @@ The additional damage to undead and creatures harmed by sunlight increases to 1 
 
 ## Daylight
 
-The illumination in the additional 60 foot radius increases to at least normal light regardless of the existing lighting conditions. Creatures that take penalties in bright light double those penalties while in the area of bright light produced by this spell. All other creatures in the area of bright light gain a +2 circumstance bonus on Perception checks and saves to resist fear.
+The illumination in the additional 60 foot radius increases to at least normal light regardless of the existing lighting conditions. Creatures that take penalties in bright light double those penalties while in the area of bright light produced by this spell. All other creatures in the area of bright light gain a +2 circumstance bonus on [Perception](../../rules/skills/perception.md) checks and saves to resist fear.
 
 ## Death Knell
 
@@ -76,7 +76,7 @@ The spell doesn't interfere with your extradimensional travel spells and effects
 
 **Augmented (4th)**: You can augment mythic dimensional Jock to redirect teleporting creatures to another location. If you expend two uses of mythic power, designate a location that you're very familiar with. This location must be on the same plane as you. Any creature attempting to use extradimensional travel from outside the spell's area into that area is instead redirected to this other location.
 
-The creature can attempt a Spellcraft check against your caster level. If it succeeds, it's aware of the redirection (though not the destination) and can interrupt its spellcasting, losing the spell but not teleporting.
+The creature can attempt a [Spellcraft](../../rules/skills/spellcraft.md) check against your caster level. If it succeeds, it's aware of the redirection (though not the destination) and can interrupt its spellcasting, losing the spell but not teleporting.
 
 ## Discordant Blast
 
@@ -90,7 +90,7 @@ The damage dealt increases to 5d6 points of sonic damage, and you gain a +2 bonu
 
 The target takes two different penalties (chosen from the same list) instead of one.
 
-**Augmented**: If you expend two uses of mythic power, the target also gains the fatigued condition because of its painful disfigurement. If this fatigue is negated without removing the curse, it returns after 1 hour.
+**Augmented**: If you expend two uses of mythic power, the target also gains the [fatigued](../../rules/appendices/conditions.md#fatigued) condition because of its painful disfigurement. If this fatigue is negated without removing the curse, it returns after 1 hour.
 
 ## Disintegrate
 
@@ -114,11 +114,11 @@ You also gain the luck bonus on saving throws and skill checks. Alternatively, y
 
 **Source** *Ultimate Magic*
 
-The speed of the movement form provided by the spell increases by 30 feet. This adjustment is treated as an enhancement bonus. You gain a bonus on Perception and Survival skill checks attempted against the selected creature. This is a sacred bonus if you're good or a profane bonus if you're evil; if you're neutral, choose either the sacred or profane bonus.
+The speed of the movement form provided by the spell increases by 30 feet. This adjustment is treated as an enhancement bonus. You gain a bonus on Perception and [Survival](../../rules/skills/survival.md) skill checks attempted against the selected creature. This is a sacred bonus if you're good or a profane bonus if you're evil; if you're neutral, choose either the sacred or profane bonus.
 
 ## Dominate Person
 
-The Sense Motive DC to notice your target is dominated increases by double your tier. You can give orders to the target even if it's protected by non-mythic effects that block magical control, such as protection from evil. If the target is protected by a mythic effect, you can attempt to overcome this defense with a caster level check (DC 15 plus the caster level of the effect); add your tier to your roll and the opposing caster's tier to the DC. If the target succeeds at its Will save to break your control, as an immediate action you can expend one use of mythic power to force it to reroll the save and use the lower result.
+The [Sense Motive](../../rules/skills/sense-motive.md) DC to notice your target is dominated increases by double your tier. You can give orders to the target even if it's protected by non-mythic effects that block magical control, such as protection from evil. If the target is protected by a mythic effect, you can attempt to overcome this defense with a caster level check (DC 15 plus the caster level of the effect); add your tier to your roll and the opposing caster's tier to the DC. If the target succeeds at its Will save to break your control, as an immediate action you can expend one use of mythic power to force it to reroll the save and use the lower result.
 
 ## Draconic Reservoir
 
@@ -150,13 +150,13 @@ A creature that fails its Fortitude save against the spell must also succeed at 
 
 **Source** *Ultimate Magic*
 
-The damage dealt increases to 1d8 points of sonic damage per 2 caster levels (maximum 5d8) and the duration that creatures in the area are dazed is a number of rounds equal to your tier.
+The damage dealt increases to 1d8 points of sonic damage per 2 caster levels (maximum 5d8) and the duration that creatures in the area are [dazed](../../rules/appendices/conditions.md#dazed) is a number of rounds equal to your tier.
 
 **Augmented (3rd)**: If you expend two uses of mythic power, the spell affects a 30-foot cone rather than a single target.
 
 ## Earthquake
 
-Increase the damage dealt to structures by 10 points of damage per tier. Increase the damage dealt by cave-ins and landslides to 10d8 points of damage. Increase the damage dealt to those pinned beneath rubble to 1d10 points per minute. Add your tier to the DC of concentration checks and Constitution checks attempted as a consequence of this spell.
+Increase the damage dealt to structures by 10 points of damage per tier. Increase the damage dealt by cave-ins and landslides to 10d8 points of damage. Increase the damage dealt to those [pinned](../../rules/appendices/conditions.md#pinned) beneath rubble to 1d10 points per minute. Add your tier to the DC of concentration checks and Constitution checks attempted as a consequence of this spell.
 
 **Augmented (8th)**: If you expend two uses of mythic power, the spell lasts for an additional round and the spread's radius increases by 20 feet. Each round this spell is in effect, on your turn you may expend one use of mythic power to continue its duration for 1 round and increase its radius by another 20 feet.
 
@@ -176,13 +176,13 @@ The target changes to one creature touched per level. Affected creatures gain co
 
 **Source** *Advanced Player's Guide*
 
-The target becomes entangled whether or not it succeeds at its saving throw. When using the target as a weapon, add half your tier to your attack roll, and add your tier to the damage roll.
+The target becomes [entangled](../../rules/appendices/conditions.md#entangled) whether or not it succeeds at its saving throw. When using the target as a weapon, add half your tier to your attack roll, and add your tier to the damage roll.
 
 **Augmented (3rd)**: If you expend two uses of mythic power, when you use the target to hit a creature, you can attempt a free bull rush combat maneuver against that creature. Your CMB for this maneuver is equal to your attack bonus for mythic enemy hammer, except you add your tier instead of half your tier.
 
 ## Enervation
 
-The number of negative levels inflicted increases to 1d6, and the target is sickened for 24 hours. An undead creature struck by the ray gains 1d6 x 5 temporary hit points for a number of hours equal to your caster level.
+The number of negative levels inflicted increases to 1d6, and the target is [sickened](../../rules/appendices/conditions.md#sickened) for 24 hours. An undead creature struck by the ray gains 1d6 x 5 temporary hit points for a number of hours equal to your caster level.
 
 **Augmented (3rd}: If you expend two uses of mythic power, any creature attempting to remove the target's negative levels must succeed at a caster level check (DC 10 + your caster level + your tier)**:.
 
@@ -200,4 +200,4 @@ When a ranged attack misses because of this spell, there is a 50% chance that th
 
 ## Expeditious Retreat
 
-The speed bonus from the spell increases to 40 feet. Add your tier to Acrobatics checks to avoid attacks of opportunity from movement, and when your movement provokes an attack of opportunity, add your tier to your AC against that attack.
+The speed bonus from the spell increases to 40 feet. Add your tier to [Acrobatics](../../rules/skills/acrobatics.md) checks to avoid attacks of opportunity from movement, and when your movement provokes an attack of opportunity, add your tier to your AC against that attack.

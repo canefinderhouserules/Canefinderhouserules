@@ -10,7 +10,7 @@ You were born under favorable astrological conditions, such as during a celestia
 
 *Conjunction*: When benefiting from a teamwork feat, increase the bonus you and your allies receive from that feat by 1, if any.
 
-*Eclipse*: When benefiting from soft cover from an attack or effect, you are treated as if benefiting from hard cover instead. You cannot use this ability to use soft cover for Stealth checks.
+*Eclipse*: When benefiting from soft cover from an attack or effect, you are treated as if benefiting from hard cover instead. You cannot use this ability to use soft cover for [Stealth](../skills/stealth.md) checks.
 
 *Meteor Shower*: You receive a cumulative +1 dodge bonus to AC against ranged attacks for each ranged attack beyond the first made against you in a single round, up to a maximum of +4. This bonus lasts until the beginning of your next turn.
 

@@ -41,4 +41,4 @@ This effect word deals 1d8 points of electricity damage per caster level (maximu
 **Duration** instantaneous  
 **Saving Throw** Reflex half; **Spell Resistance** yes
 
-This effect word deals 1d8 points of electricity damage per caster level (maximum 20d8). In addition, a target that fails its saving throw against this damage is deafened for 1 round per caster level.
+This effect word deals 1d8 points of electricity damage per caster level (maximum 20d8). In addition, a target that fails its saving throw against this damage is [deafened](../../../rules/appendices/conditions.md#deafened) for 1 round per caster level.

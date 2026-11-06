@@ -31,7 +31,7 @@ To qualify to become a loremaster, a character must fulfill all the following cr
 
 **Skills**: Knowledge (any two) 7 ranks in each.
 
-**Feats**: Any three metamagic or item creation feats, plus Skill Focus (Knowledge [any individual Knowledge skill]).
+**Feats**: Any three metamagic or item creation feats, plus Skill Focus (Knowledge [any individual [Knowledge](../../rules/skills/knowledge.md) skill]).
 
 **Spells**: Able to cast seven different divination spells, one of which must be 3rd level or higher.
 
@@ -57,7 +57,7 @@ He can’t choose the same secret twice.
 
 **Lore**: At 2nd level, a loremaster adds half his level to all Knowledge skill checks and may make such checks untrained. The bonuses gained from this ability stack with those gained from Bardic Knowledge.
 
-**Greater Lore (Ex)**: At 6th level, a loremaster gains the ability to understand magic items. Whenever a loremaster examines a magic item to determine its properties, he gains a +10 circumstance bonus on his Spellcraft skill check.
+**Greater Lore (Ex)**: At 6th level, a loremaster gains the ability to understand magic items. Whenever a loremaster examines a magic item to determine its properties, he gains a +10 circumstance bonus on his [Spellcraft](../../rules/skills/spellcraft.md) skill check.
 
 **True Lore (Ex)**: At 10th level, a loremaster’s knowledge becomes vast indeed. Once per day a loremaster can use his knowledge to gain the effect of a [*legend lore*](../../magic/spells/legend-lore.md) spell or an [*analyze dweomer*](../../magic/spells/analyze-dweomer.md) spell. If used to create a *legend lore* effect, this ability has a casting time of 1 minute, regardless of how much information is already known about the subject in question.
 
