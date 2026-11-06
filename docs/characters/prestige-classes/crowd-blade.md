@@ -49,11 +49,11 @@ A crowd blade gains no proficiency with any weapons or armor.
 
 The crowd blade adds her class level to any other levels in classes that grant the bardic performance ability to determine the effects of her bardic performance but not for the purpose of gaining access to new bardic performances. She also learns the following performances.
 
-#### Inspiring Poise (Ex)
+##### Inspiring Poise (Ex)
 
 A crowd blade gains a +2 competence bonus on checks with a skill of her choice for as long as she maintains the performance. The bonus increases to +4 at 5th level and +6 at 9th level. The performance is ended by any condition that imposes a penalty to her Dexterity score or immobilizes her.
 
-#### Dirge of Misfortune (Su)
+##### Dirge of Misfortune (Su)
 
 A crowd blade of 5th level or higher can use her performance to break the concentration of her enemies, causing them to fail even at simple tasks. Once per round as an immediate action, as long as the crowd blade continues performing, she can force a creature within 30 feet to reroll any d20 roll it just made before the effects are applied. The opponent must use the result of the reroll, which has a –2 penalty. Dirge of misfortune is a mind-affecting ability that relies on audible and visual components.
 
