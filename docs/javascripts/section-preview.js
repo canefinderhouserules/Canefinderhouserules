@@ -26,9 +26,10 @@
     var n = h.nextElementSibling, chars = 0, count = 0;
     while (n && count < 12 && chars < 2500) {
       if (/^H[1-6]$/.test(n.tagName) && +n.tagName[1] <= level) break;
-      // A class's level table ("Table: Ranger" and the table after it) is not part of the feature.
-      if (n.tagName === 'P' && /^Table\b/.test((n.textContent || '').trim())) break;
-      if (n.tagName === 'TABLE' && n.querySelectorAll('tr').length > 16) break;
+      // A class's level table ("Table: Ranger" and the table after it) is skipped; the feature's text after it is kept.
+      var isTable = n.tagName === 'TABLE' || !!n.querySelector('table');
+      if (n.tagName === 'P' && /^Table\b/.test((n.textContent || '').trim())) { n = n.nextElementSibling; if (n && (n.tagName === 'TABLE' || n.querySelector('table'))) n = n.nextElementSibling; continue; }
+      if (isTable && n.querySelectorAll('tr').length > 16) { n = n.nextElementSibling; continue; }
       var c = n.cloneNode(true);
       c.querySelectorAll('[id]').forEach(function (e) { e.removeAttribute('id'); });
       out.appendChild(c);
