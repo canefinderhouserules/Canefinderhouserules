@@ -213,34 +213,6 @@ A stalker gains an ability called hidden strike, which allows him to deal an ext
 
 Once this choice is made, it can’t be changed. While many vigilante talents are usable by both specializations, some are unique to each specialization. A stalker vigilante can apply only one talent marked with an asterisk (*) to a given hidden strike, and only when that hidden strike is dealt against a foe that is unaware of the stalker vigilante’s presence (or who considers him an ally), unless otherwise noted.
 
-#### Concealed Strike (Ex)
-
-Whenever the vigilante attacks an opponent with a concealed weapon that his target wasn’t aware of, he can attempt a Bluff check to feint that opponent as a move action. If he has the [Improved Feint](../../rules/feats/improved-feint.md) feat, he attempts this check as a free action instead. A vigilante must be at least 6th level to select this talent.
-
-#### Fantastic Stride (Ex)
-
-The vigilante gains [Spring Attack](../../rules/feats/spring-attack.md) as a bonus feat, ignoring its prerequisites. At 10th level and every 4 levels thereafter, the vigilante can designate one additional creature when he uses Spring Attack. The vigilante’s movement this round does not provoke attacks of opportunity from any of these secondary creatures. A vigilante must be at least 6th level to select this talent.
-
-#### Major Magic (Sp)
-
-A vigilante with this talent gains the ability to cast a 1st-level spell drawn from the same spell list as the minor magic talent. The vigilante can cast this spell once per day as a spell-like ability for every 4 vigilante levels he has. The caster level for this ability is equal to the vigilante’s level. The save DC for this spell is equal to 10 + the vigilante’s Intelligence modifier (for psychic, sorcerer/wizard, and [witch spells](witch.md#spells)), Wisdom (for cleric, druid, and [shaman spells](shaman.md#spells)), or Charisma (for [bard spells](bard.md#spells)). A vigilante must be at least 4th level, have the minor magic vigilante talent, and have a score of at least 11 in the appropriate ability to select this talent.
-
-#### Minor Magic (Sp)
-
-A vigilante with this talent selects one of the following spell lists: bard, cleric, druid, psychic, shaman, sorcerer/wizard, or witch. Once this decision is made, the selection cannot be changed. The vigilante gains the ability to cast a 0-level spell from the selected spell list. This spell can be cast two times per day as a spell-like ability. The caster level for this ability is equal to the vigilante’s level. The save DC for this spell is equal to 10 + the vigilante’s Intelligence modifier (for psychic, sorcerer/wizard, and [witch spells](witch.md#spells)), Wisdom (for cleric, druid, and [shaman spells](shaman.md#spells)), or Charisma (for [bard spells](bard.md#spells)).
-
-#### Mockery (Ex)
-
-The vigilante gains Antagonize as a bonus feat. He can target a creature with the Intimidate version of Antagonize twice each day, rather than just once. At 12th level, the effects of the Intimidate version of Antagonize last a number of rounds equal to the vigilante’s Charisma modifier (minimum 1).
-
-#### Team Player (Ex)
-
-The vigilante gains [Swift Aid](../../rules/feats/swift-aid.md) as a bonus feat, ignoring its prerequisites. Additionally, the vigilante can choose to use the feat as a standard action, in which case it applies to every ally adjacent to the vigilante. At 10th level, he can increase the bonus provided to one ally by this feat to +2 by using the aid another action as a move action rather than a swift action.
-
-#### Take ’Em Alive (Ex)
-
-The vigilante doesn’t take the usual –4 penalty on attack rolls made to deal nonlethal damage with weapons that normally deal lethal damage. In addition, the vigilante gains a +1 bonus on all attack and damage rolls for attacks that deal only nonlethal damage and have no secondary effects (such as poison). This bonus increases by 1 at 5th level and every 3 levels thereafter, to a maximum of +5 at 20th level.
-
 ### Vigilante Talent
 
 Starting at 2nd level and every 2 levels thereafter, a vigilante gains a vigilante talent. Unless otherwise noted, a talent can be selected only once. Some talents require the vigilante to meet prerequisites before they can be chosen, such as possessing another vigilante talent, possessing a particular specialization, or attaining a minimum level. Once a talent has been selected, it can’t be changed.
@@ -275,6 +247,10 @@ Each round, at the start of his turn, the vigilante can designate one foe within
 
 The vigilante gains any one combat feat as a bonus feat. He must meet the prerequisites for this feat, but he is treated as though he had a number of fighter levels equal to half his vigilante level for the purpose of qualifying for this feat. Only an avenger vigilante can select this talent, but he can select this talent more than once; each time he must select a different feat.
 
+#### Concealed Strike (Ex)
+
+Whenever the vigilante attacks an opponent with a concealed weapon that his target wasn’t aware of, he can attempt a Bluff check to feint that opponent as a move action. If he has the [Improved Feint](../../rules/feats/improved-feint.md) feat, he attempts this check as a free action instead. A vigilante must be at least 6th level to select this talent.
+
 #### Cunning Feint (Ex)
 
 The vigilante can feint as a move action or in place of his first attack during a full attack. At 8th level, when the vigilante successfully feints, the opponent is denied its Dexterity bonus to AC against all attacks until the vigilante’s next turn.
@@ -294,6 +270,10 @@ The vigilante is hard to catch with area attacks. He gains the evasion ability, 
 #### Expose Weakness (Ex)
 
 The vigilante is able to use sneaky tricks to make it easier to damage a foe, whether it is throwing a bit of fine dust of cold iron over a fey creature or melting a glob of silver onto a lycanthrope’s hide. The vigilante can add the ability to reduce a creature’s damage reduction or hardness by 10 to the list of options when attempting a dirty trick combat maneuver check. This does not stack with itself, and it does not work against creatures with DR/—.
+
+#### Fantastic Stride (Ex)
+
+The vigilante gains [Spring Attack](../../rules/feats/spring-attack.md) as a bonus feat, ignoring its prerequisites. At 10th level and every 4 levels thereafter, the vigilante can designate one additional creature when he uses Spring Attack. The vigilante’s movement this round does not provoke attacks of opportunity from any of these secondary creatures. A vigilante must be at least 6th level to select this talent.
 
 #### Favored Maneuver (Ex)
 
@@ -335,9 +315,21 @@ As an immediate action whenever the vigilante is grappling a creature and is tar
 
 Whenever the vigilante charges, he can make a full attack. Whenever he uses this ability, he takes a –4 penalty to his AC until the start of his next turn (in addition to the AC penalty for charging). Only an avenger vigilante of at least 12th level can select this talent.
 
+#### Major Magic (Sp)
+
+A vigilante with this talent gains the ability to cast a 1st-level spell drawn from the same spell list as the minor magic talent. The vigilante can cast this spell once per day as a spell-like ability for every 4 vigilante levels he has. The caster level for this ability is equal to the vigilante’s level. The save DC for this spell is equal to 10 + the vigilante’s Intelligence modifier (for psychic, sorcerer/wizard, and [witch spells](witch.md#spells)), Wisdom (for cleric, druid, and [shaman spells](shaman.md#spells)), or Charisma (for [bard spells](bard.md#spells)). A vigilante must be at least 4th level, have the minor magic vigilante talent, and have a score of at least 11 in the appropriate ability to select this talent.
+
 #### Mighty Ambush (Ex)
 
 Once per round, when the vigilante succeeds at a hidden strike, he can instantly drop the damaged enemy unconscious for 1d4 rounds. A successful Fortitude saving throw negates this effect (DC = 10 + 1/2 the vigilante’s class level + the higher of the vigilante’s Strength and Dexterity modifiers). Whether or not a creature’s saving throw is successful, it can’t be affected by that vigilante’s mighty ambush again for 24 hours. Only a stalker vigilante of at least 10th level can select this talent.
+
+#### Minor Magic (Sp)
+
+A vigilante with this talent selects one of the following spell lists: bard, cleric, druid, psychic, shaman, sorcerer/wizard, or witch. Once this decision is made, the selection cannot be changed. The vigilante gains the ability to cast a 0-level spell from the selected spell list. This spell can be cast two times per day as a spell-like ability. The caster level for this ability is equal to the vigilante’s level. The save DC for this spell is equal to 10 + the vigilante’s Intelligence modifier (for psychic, sorcerer/wizard, and [witch spells](witch.md#spells)), Wisdom (for cleric, druid, and [shaman spells](shaman.md#spells)), or Charisma (for [bard spells](bard.md#spells)).
+
+#### Mockery (Ex)
+
+The vigilante gains Antagonize as a bonus feat. He can target a creature with the Intimidate version of Antagonize twice each day, rather than just once. At 12th level, the effects of the Intimidate version of Antagonize last a number of rounds equal to the vigilante’s Charisma modifier (minimum 1).
 
 #### Nothing Can Stop Me (Ex)
 
@@ -420,6 +412,14 @@ The vigilante can move at full speed while using the Stealth and Acrobatics skil
 #### Surprise Strike (Ex)
 
 The vigilante gains a greater advantage when his foe is unable to defend herself. Whenever he makes an attack against a foe that is denied her Dexterity bonus to AC, he gains a +1 bonus on his attack roll. This bonus increases to +2 at 8th level and to +3 at 16th level.
+
+#### Take ’Em Alive (Ex)
+
+The vigilante doesn’t take the usual –4 penalty on attack rolls made to deal nonlethal damage with weapons that normally deal lethal damage. In addition, the vigilante gains a +1 bonus on all attack and damage rolls for attacks that deal only nonlethal damage and have no secondary effects (such as poison). This bonus increases by 1 at 5th level and every 3 levels thereafter, to a maximum of +5 at 20th level.
+
+#### Team Player (Ex)
+
+The vigilante gains [Swift Aid](../../rules/feats/swift-aid.md) as a bonus feat, ignoring its prerequisites. Additionally, the vigilante can choose to use the feat as a standard action, in which case it applies to every ally adjacent to the vigilante. At 10th level, he can increase the bonus provided to one ally by this feat to +2 by using the aid another action as a move action rather than a swift action.
 
 #### Throat Jab (Ex)
 
