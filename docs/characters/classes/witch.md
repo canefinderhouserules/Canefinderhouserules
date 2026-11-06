@@ -220,31 +220,31 @@ Levels of different classes that are entitled to familiars stack for the purpose
 
 If a familiar is lost or dies, it can be replaced 1 day later through a special ritual that costs 500 gp per witch level. The ritual takes 8 hours to complete. A new familiar begins knowing all of the 0-level spells plus two spells of every level the witch is able to cast. These are in addition to any bonus spells known by the familiar based on the witch’s level and her patron (see patron spells).
 
-### Store Spells
+#### Store Spells
 
 Starting at 1st level, a witch’s familiar stores all of the spells that the witch knows. This does not allow the familiar to cast these spells or use spell-trigger or spell completion magic items. Starting at 2nd level, and every two levels thereafter, a witch’s familiar adds new bonus spells to the witch’s spell list based on her patron. These spells are automatically stored by the familiar and can be prepared as normal once they are gained.
 
-### Deliver Touch Spells (Su)
+#### Deliver Touch Spells (Su)
 
 If a witch is 3rd level or higher, her familiar can deliver touch spells or hexes for her. If the witch and the familiar are in contact at the time the witch casts a touch spell, she can designate her familiar as the “toucher.” The familiar can then deliver the touch spell just as the witch would. As usual, if the witch casts another spell before the touch is delivered, the touch spell dissipates. If the witch activates a hex, her familiar can be used to make the touch. She does not have to be in contact with the familiar to use this ability.
 
-### Adding Spells to a Witch’s Familiar
+#### Adding Spells to a Witch’s Familiar
 
 Witches can add new spells to their familiars through several methods. A witch can only add spells to her familiar if those spells belong to the witch’s spell list.
 
-### Spells Gained at a New Level
+#### Spells Gained at a New Level
 
 A witch’s familiar learns a certain amount of lore and magic as the witch adventures. Whenever a witch gains a level, she may add two spells from the witch spell list to her familiar. The two free spells must be of spell levels she can cast.
 
-### Familiar Teaching Familiar
+#### Familiar Teaching Familiar
 
 A witch’s familiar can learn spells from another witch’s familiar. To accomplish this, the familiars must spend one hour per level of the spell being taught in communion with one another. At the end of this time, the witch whose familiar is learning a spell must make a [Spellcraft](../../rules/skills/spellcraft.md) check (DC 15 + spell level). If the check succeeds, the familiar has learned the spell and the witch may utilize it the next time she prepares spells. If the check fails, the familiar has failed to learn the spell and cannot try to learn that spell again until the witch has gained another rank in Spellcraft. Most witches require a spell of equal or greater level in return for this service. If a familiar belongs to a witch that has died, it only retains its knowledge of spells for 24 hours, during which time it is possible to coerce or bribe the familiar into teaching its spells to another, subject to GM discretion.
 
-### Learn from a Scroll
+#### Learn from a Scroll
 
 A witch can use a scroll to teach her familiar a new spell. This process takes 1 hour per level of the spell to be learned, during which time the scroll is burned and its ashes used to create a special brew or powder that is consumed by the familiar. This process destroys the scroll. At the end of this time, the witch must make a Spellcraft check (DC 15 + spell level). If the check fails, the process went awry in some way and the spell is not learned, although the scroll is still consumed.
 
-### New Familiars
+#### New Familiars
 
 In addition to the familiars presented in the Pathfinder RPG Core Rulebook, witches might select any of the following animals as their familiar. Sorcerers and wizards might also adopt these new familiars, utilizing the same rules as for any other familiar.
 
