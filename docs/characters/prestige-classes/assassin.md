@@ -45,7 +45,7 @@ The assassin’s class skills (and the key ability for each skill) are Acrobatic
 
 All of the following are class features of the assassin prestige class.
 
-**Weapon and Armor Proficiency**: Assassins are proficient with the crossbow (hand, light, or heavy), dagger (any type), dart, rapier, sap, shortbow (normal and composite), and short sword. Assassins are proficient with light armor but not with shields.
+**Weapon and Armor Proficiency**: Assassins are proficient with the crossbow (hand, light, or heavy), [dagger](../../equipment/weapons-simple.md#simple-light-melee-weapons) (any type), [dart](../../equipment/weapons-simple.md#simple-ranged-weapons), [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [sap](../../equipment/weapons-martial.md#martial-light-melee-weapons), [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons) (normal and composite), and [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons). Assassins are proficient with [light armor](../../equipment/armor.md) but not with [shields](../../equipment/armor.md).
 
 **Sneak Attack**: This is exactly like the rogue ability of the same name. The extra damage dealt increases by +1d6 every other level (1st, 3rd, 5th, 7th, and 9th). If an assassin gets a sneak attack bonus from another source, the bonuses on damage stack.
 

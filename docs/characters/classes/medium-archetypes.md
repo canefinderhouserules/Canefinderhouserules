@@ -164,7 +164,7 @@ The Butcher is a spirit of blood, violence, murder, and pain.
 
 **Taboo**: If you accept a taboo while channeling the Butcher, you must not attack with bludgeoning weapons in combat and must never deal nonlethal damage. You must also kill all your defeated foes in combat, although you can accept surrender or take prisoners for the purpose of torturing and then killing those prisoners later (but before the Butcher departs).
 
-**Bladesharp (Lesser, Ex)**: You gain proficiency in all slashing martial weapons and the spiked chain. Any slashing weapon or spiked chain you wield gains the deadly weapon special quality (*Ultimate Equipment* 22) and on a critical hit deals an amount of bleed damage equal to the weapon’s critical multiplier – 1.
+**Bladesharp (Lesser, Ex)**: You gain proficiency in all slashing [martial weapons](../../equipment/weapons-martial.md) and the [spiked chain](../../equipment/weapons-exotic.md#exotic-two-handed-melee-weapons). Any slashing weapon or spiked chain you wield gains the deadly weapon special quality (*Ultimate Equipment* 22) and on a critical hit deals an amount of bleed damage equal to the weapon’s critical multiplier – 1.
 
 **Bloodletter (Intermediate, Ex)**: The Butcher enhances a single slashing weapon or spiked chain, allowing you to add the *keen*, *mighty cleaving*, or *wounding* special abilities to the weapon when you wield it. As a swift action, you can allow the Butcher to gain 1 point of influence over you to make that weapon *vorpal* until the end of your turn, though the *vorpal* special ability doesn’t work with abilities that let you choose the result of your d20 roll. Each time you kill a creature whose CR is greater than your medium level with this *vorpal* special ability, the butcher gains an additional point of influence over you.
 
@@ -176,7 +176,7 @@ If the First Emperor was the greatest leader of his empire’s history, then the
 
 **Taboos**: If you accept a taboo while channeling the Prince, you must face your opponents with confidence and never retreat from a fight out of cowardice.
 
-**Conqueror’s Weapons (Lesser, Su)**: You are considered proficient with the weapon types you gathered in order to gain favor with this spirit (such as longswords or hand crossbows).
+**Conqueror’s Weapons (Lesser, Su)**: You are considered proficient with the weapon types you gathered in order to gain favor with this spirit (such as [longswords](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons) or [hand crossbows](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1)).
 
 **Conquered Blades (Greater, Su)**: You gain [Improved Critical](../../rules/feats/improved-critical.md) with the weapon types you gathered to gain favor with this spirit. In addition, your attacks with such weapons ignore up to 5 points of damage reduction, except for damage reduction without a type (such as DR 10/—).
 
@@ -388,7 +388,7 @@ The Serpent Slayer was an ancient hero who descended into a serpentfolk city and
 
 **Taboos**: If you accept a taboo while channeling the Slayer, you must never coat any of your natural or manufactured weapons in poison, nor can you ever dose an enemy with any type of poison.
 
-**Ancient Heroics (Lesser, Su)**: The Slayer grants a +1 bonus on all attack rolls when you are wielding a greatsword in melee combat against evil monstrous humanoids instead of granting proficiency in an exotic weapon with champion’s prowess. For the legendary champion ability, the Slayer grants any two of the following feats: Disruptive, Greater Weapon Focus (greatsword), Greater Weapon Specialization (greatsword), Weapon Focus (greatsword), Weapon Specialization (greatsword), and Spellbreaker. This ability alters champion’s prowess and legendary champion.
+**Ancient Heroics (Lesser, Su)**: The Slayer grants a +1 bonus on all attack rolls when you are wielding a [greatsword](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons) in melee combat against evil monstrous humanoids instead of granting proficiency in an exotic weapon with champion’s prowess. For the legendary champion ability, the Slayer grants any two of the following feats: Disruptive, Greater Weapon Focus (greatsword), Greater Weapon Specialization (greatsword), Weapon Focus (greatsword), Weapon Specialization (greatsword), and Spellbreaker. This ability alters champion’s prowess and legendary champion.
 
 **Toe to Toe (Intermediate, Sp)**: When you are in melee combat with a creature that is at least one size category larger than you, if none of your allies are flanking it, you can spend a swift action to increase your own size as if through [*enlarge person*](../../magic/spells/enlarge-person.md), gaining all the effects of that spell. This does not provoke attacks of opportunity, and the effect lasts as long as you are in melee with that creature or until it is dead.
 
@@ -708,7 +708,7 @@ Fate vessels are powerful mediums who are sensitive to the presence and desires 
 
 **Class Skills**: A medium of the master gains Acrobatics as a class skill, but does not gain Use Magic Device as a class skill. This alters the medium's class skills.
 
-**Armor Proficiency**: A medium of the master is proficient with only light armor. This alters the medium's armor proficiency.
+**Armor Proficiency**: A medium of the master is proficient with only [light armor](../../equipment/armor.md). This alters the medium's armor proficiency.
 
 **Unarmed Strike**: A medium of the master gains [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat.
 

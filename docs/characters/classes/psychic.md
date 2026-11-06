@@ -70,7 +70,7 @@ The psychic’s class skills are Bluff (Cha), Craft (Int), Diplomacy (Cha), Fly 
 
 The following are the class features of the psychic.
 
-**Weapon and Armor Proficiency**: A psychic is proficient with all simple weapons, but not with any type of armor or shield.
+**Weapon and Armor Proficiency**: A psychic is proficient with all [simple weapons](../../equipment/weapons-simple.md), but not with any type of armor or shield.
 
 **Spells**: A psychic casts psychic spells drawn from the psychic class’s spell list. She can cast any spell she knows without preparing it ahead of time. To learn or cast a spell, a psychic must have an Intelligence score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a psychic’s spell is equal to 10 + the spell’s level + the psychic’s Intelligence modifier.
 

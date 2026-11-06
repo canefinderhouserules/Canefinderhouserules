@@ -45,7 +45,7 @@ The mystery cultist’s class skills are Diplomacy (Cha), Heal (Wis), Intimidate
 
 All of the following are class features of the mystery cultist prestige class.
 
-**Weapon and Armor Proficiency**: A mystery cultist gains proficiency with all simple weapons and with her celestial patron’s favored weapon. She gains no additional proficiency with armor or shields.
+**Weapon and Armor Proficiency**: A mystery cultist gains proficiency with all [simple weapons](../../equipment/weapons-simple.md) and with her celestial patron’s favored weapon. She gains no additional proficiency with armor or [shields](../../equipment/armor.md).
 
 **Spells per Day/Spells Known**: At the indicated levels, when a new mystery cultist level is gained, the character gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before taking the prestige class. She does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If the character had more than one spellcasting class before becoming a mystery cultist, she must decide to which class she adds the new level for the purposes of determining spells per day.
 

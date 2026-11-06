@@ -41,7 +41,7 @@ The Pain Taster’s class skills are Disguise (Cha), Escape Artist (Dex), Heal (
 
 The following abilities are class features of the pain taster prestige class.
 
-**Weapon and Armor Proficiency**: A pain taster is proficient with all simple weapons, martial weapons, and whips. A pain taster gains no armor or shield proficiencies.
+**Weapon and Armor Proficiency**: A pain taster is proficient with all [simple weapons](../../equipment/weapons-simple.md), [martial weapons](../../equipment/weapons-martial.md), and [whips](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons). A pain taster gains no armor or shield proficiencies.
 
 **Disciple of Pain (Su)**: At 1st level, a pain taster can focus her agony through the use of six torture routines. Each routine grants her a different day-long benefit. The first time a pain taster performs a particular torture routine, she must spend 1 hour inflicting self-harm using materials that cost 2,000 gp. The method of self-torture is detailed in the routines below. After performing a routine for the first time, she can subsequently perform a less strenuous version of that routine to gain its benefits for 24 hours without needing to expend any further money on torture implements, ritual incense, and pain heightening drugs.
 

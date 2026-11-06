@@ -18,7 +18,7 @@ The following archetypes are available to samurai.
 
 *Samurai archetype.* Warrior poets often study calligraphy, flower arrangement, poetry, and other courtly arts, but when called to battle, they treat combat as its own art form, fighting with beauty and grace.
 
-**Dancer's Grace (Ex)**: When wearing no armor and not using a shield, the warrior poet gains a bonus to Armor Class equal to her Charisma bonus (to a maximum of her samurai level). A warrior poet loses this bonus while flat-footed or otherwise denied her Dexterity bonus. This replaces the samurai's proficiency with medium armor, heavy armor, and shields.
+**Dancer's Grace (Ex)**: When wearing no armor and not using a shield, the warrior poet gains a bonus to Armor Class equal to her Charisma bonus (to a maximum of her samurai level). A warrior poet loses this bonus while flat-footed or otherwise denied her Dexterity bonus. This replaces the samurai's proficiency with [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), and [shields](../../equipment/armor.md).
 
 **Flourish (Ex)**: The warrior poet is skilled at performing elegant moves in battle. At 1st level, the warrior poet gains a flourish of her choice from the list below. She gains another flourish at 3rd, 5th, 9th, 13th, 17th, and 20th levels.
 

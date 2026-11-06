@@ -41,7 +41,7 @@ The pit fighter's class skills (and the key ability for each skill) are Acrobati
 
 The following are class features of the pit fighter prestige class.
 
-**Weapon and Armor Proficiency**: Pit fighters are proficient with all simple and martial weapons with the performance quality, as well as with light and medium armor and shields (excluding tower shields).
+**Weapon and Armor Proficiency**: Pit fighters are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md) with the performance quality, as well as with light and [medium armor](../../equipment/armor.md) and [shields](../../equipment/armor.md) (excluding [tower shields](../../equipment/armor.md)).
 
 **Poor Equipment (Ex)**: Pit fighters are often forced to fight with poorly maintained equipment. At 1st level, a pit fighter can spend a swift action to ignore the broken condition of a single weapon or piece of armor he wields or wears for the remainder of the encounter. The selected weapon or piece of armor is treated in all ways as though it did not have the broken condition, though its hit points remain unchanged. The pit fighter can affect only one item at a time with this ability; if he selects a second item, the first immediately regains the broken condition.
 

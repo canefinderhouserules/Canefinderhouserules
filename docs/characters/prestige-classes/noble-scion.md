@@ -39,7 +39,7 @@ The noble scion's class skills (and the key ability for each skill) are Appraise
 
 The following are class features of the noble scion prestige class.
 
-**Weapon and Armor Proficiency**: A noble scion is proficient with all simple and martial weapons, as well as all forms of armor and shields (not including tower shields).
+**Weapon and Armor Proficiency**: A noble scion is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), as well as all forms of armor and [shields](../../equipment/armor.md) (not including [tower shields](../../equipment/armor.md)).
 
 **Affluent (Ex)**: At each level, a noble scion gains a stipend worth a number of gold pieces equal to 750 multiplied by his class level. (He gains 750 gp at 1st level, an additional 1,500 gp at 2nd level, and so on.)
 
@@ -61,15 +61,15 @@ A noble scion cannot permanently gain goods or wealth from this ability; boons a
 
 **Regional Expertise (Ex)**: At 4th level, and again at 6th and 8th level, a noble scion gains a bonus feat from one of the lists below, depending on the culture he is from. These feats must be taken from the same list at each level (except for feats under the “general” category, which can be taken by nobles from any culture). A noble scion need not meet the prerequisites for these feats. At their discretion, GMs may add other feats to these cultures or create lists for other cultures.
 
-- **Dueling Frontier**: Exotic Weapon Proficiency (dueling sword), [Flanking Foil](../../rules/feats/flanking-foil.md), Step Up, Weapon Focus (dueling sword).
+- **Dueling Frontier**: Exotic Weapon Proficiency ([dueling sword](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons)), [Flanking Foil](../../rules/feats/flanking-foil.md), Step Up, Weapon Focus (dueling sword).
 - **Infernal Empire**: [Careful Speaker](../../rules/feats/careful-speaker.md), Enforcer, [Intimidating Prowess](../../rules/feats/intimidating-prowess.md), Skill Focus (Knowledge [planes]).
 - **Island Mystics**: [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md), Skill Focus (Perform [dance]), [Voice of the Sibyl](../../rules/feats/voice-of-the-sibyl.md), Weapon Focus (unarmed strike).
 - **Forest Elves**: [Agile Maneuvers](../../rules/feats/agile-maneuvers.md), [Breadth of Experience](../../rules/feats/breadth-of-experience.md), Skill Focus (Knowledge [nature]), Weapon Focus (longbow).
 - **Shadow Lands**: Blind-Fight, Diehard, [Shadow Strike](../../rules/feats/shadow-strike.md), Stealthy.
-- **Desert Kingdom**: Exotic Weapon Proficiency (khopesh), Self-Sufficient, Skill Focus (Knowledge [history]), Weapon Focus (khopesh).
+- **Desert Kingdom**: Exotic Weapon Proficiency ([khopesh](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons)), Self-Sufficient, Skill Focus (Knowledge [history]), Weapon Focus (khopesh).
 - **Eastern Empire**: [Animal Affinity](../../rules/feats/animal-affinity.md), [Quick Draw](../../rules/feats/quick-draw.md), Skill Focus (Appraise), Weapon Focus (scimitar).
 - **Lawless Marches**: [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md), [Improved Steal](../../rules/feats/improved-steal.md), Irongut, Skill Focus (Knowledge [local]).
-- **Decadent Empire**: [Dazzling Display](../../rules/feats/dazzling-display.md), Exotic Weapon Proficiency (falcata), Skill Focus (Bluff), Weapon Focus (falcata).
+- **Decadent Empire**: [Dazzling Display](../../rules/feats/dazzling-display.md), Exotic Weapon Proficiency ([falcata](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons)), Skill Focus (Bluff), Weapon Focus (falcata).
 - **Gothic Realm**: [Combat Reflexes](../../rules/feats/combat-reflexes.md), [Focused Discipline](../../rules/feats/focused-discipline.md), Skill Focus (Knowledge [nobility]), Stoic.
 - **General**: Acrobatic, [Additional Traits](../../rules/feats/additional-traits.md), Alertness, Antagonize, Athletic, Cosmopolitan, Deceitful, [Deft Hands](../../rules/feats/deft-hands.md), Fleet, [Improved Initiative](../../rules/feats/improved-initiative.md), Persuasive, Prodigy, [Rhetorical Flourish](../../rules/feats/rhetorical-flourish.md), Run, Scholar.
 

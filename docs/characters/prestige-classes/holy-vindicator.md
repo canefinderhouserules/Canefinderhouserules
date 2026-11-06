@@ -49,7 +49,7 @@ The vindicator’s class skills are Climb (Str), Heal (Wis), Intimidate (Cha), K
 
 The following are class features of the holy vindicator prestige class.
 
-**Weapon and Armor Proficiency**: A vindicator is proficient with all simple and martial weapons and all armor and shields (except tower shields).
+**Weapon and Armor Proficiency**: A vindicator is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md) and all armor and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 **Spells per Day**: At the indicated levels, a vindicator gains new spells per day as if he had also gained a level in a divine spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits of that class other than spells per day, spells known, and an increased effective level of spellcasting. If he had more than one divine spellcasting class before becoming a vindicator, he must decide to which class he adds the new level for the purpose of determining spells per day.
 

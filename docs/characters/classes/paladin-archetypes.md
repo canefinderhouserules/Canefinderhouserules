@@ -378,7 +378,7 @@ Ghost hunters devote their lives to eliminating malevolent spirits and putting t
 
 Most paladins rush into battle, meeting evil toe-to-toe. The divine hunter prefers to engage evil from afar, striking down her foes before they can threaten her allies.
 
-**Precise Shot**: A divine hunter gains [Precise Shot](../../rules/feats/precise-shot.md) as a bonus feat at 1st level, even if she doesn’t meet the prerequisites. This ability replaces her Heavy Armor Proficiency.
+**Precise Shot**: A divine hunter gains [Precise Shot](../../rules/feats/precise-shot.md) as a bonus feat at 1st level, even if she doesn’t meet the prerequisites. This ability replaces her [Heavy Armor](../../equipment/armor.md) Proficiency.
 
 **Shared Precision (Su)**: At 3rd level, when a divine hunter hits a creature with a ranged attack, she grants her allies within 10 feet of her the benefit of the Precise Shot feat against that target until the start of her next turn. Her allies must remain within 10 feet of her, and must be able both to see and hear the divine hunter to gain this benefit. This ability replaces aura of courage.
 
@@ -418,7 +418,7 @@ Her mount gains the celestial template at 8th level. At 12th level, her mount sp
 
 Not all paladins are knights in shining armor. Holy guns roam the world searching for evil. And where they find it, they put it down.
 
-**Weapon and Armor Proficiency**: Holy guns are proficient with all simple and martial weapons, firearms, and light armor.
+**Weapon and Armor Proficiency**: Holy guns are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), [firearms](../../equipment/weapons-firearms.md), and [light armor](../../equipment/armor.md).
 
 **Have Gun**: At 1st level, the holy gun gains the [Amateur Gunslinger](../../rules/feats/amateur-gunslinger.md) feat and Gunsmithing as a bonus feat. She also gains a battered gun identical to the one gained by the gunslinger. This ability replaces detect evil.
 
@@ -518,7 +518,7 @@ Hunting paladins are tenacious trackers and stealthy stalkers in pursuit of evil
 
 **Class Skills**: A hunting paladin adds Knowledge (nature), Perception, Stealth, and Survival as class skills. She does not gain Diplomacy, Heal, Knowledge (nobility), or Spellcraft as class skills. This alters the paladin’s class skills.
 
-**Weapon and Armor Proficiency**: A hunting paladin is not proficient with heavy armor. This alters the paladin’s armor proficiencies.
+**Weapon and Armor Proficiency**: A hunting paladin is not proficient with [heavy armor](../../equipment/armor.md). This alters the paladin’s armor proficiencies.
 
 **Hunt Evil (Su)**: Once per day, a hunting paladin can designate a single evil creature within her sight or one that she has determined to be evil by declaring it the target of her hunt and following its tracks; this allows her to add her Charisma modifier as a bonus on Survival checks to follow that creature’s tracks and on Perception and Stealth checks opposed by the target of her hunt. She can sense her target’s presence and location, which lets her pinpoint her target’s location when within 10 feet; if the target has concealment, she can roll twice and use the better result on rolls to determine whether she misses due to the concealment. She gains uncanny dodge as per the barbarian class feature against her target.
 
@@ -805,7 +805,7 @@ Paladins of a god of self-perfection meditate on mastery and train relentlessly,
 
 **Skills**: A paladin of perfection gains Acrobatics, Climb, and Swim as class skills.
 
-**Confident Defense (Ex)**: At 1st level, when wearing light or no armor and not using a shield, a paladin of perfection adds 1 point of his Charisma bonus (if any) per class level to his Dexterity bonus to his Armor Class. If he is caught flat-footed or otherwise denied his Dexterity bonus, he also loses this bonus. This ability replaces his proficiency with medium armor, heavy armor, and shields.
+**Confident Defense (Ex)**: At 1st level, when wearing light or no armor and not using a shield, a paladin of perfection adds 1 point of his Charisma bonus (if any) per class level to his Dexterity bonus to his Armor Class. If he is caught flat-footed or otherwise denied his Dexterity bonus, he also loses this bonus. This ability replaces his proficiency with [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), and [shields](../../equipment/armor.md).
 
 **Unarmed Strike**: At 1st level, a paladin of perfection gains [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat. In addition, he gains the unarmed strike monk ability, treating his monk level as half his paladin level (minimum 1) for calculating his unarmed strike damage.
 
@@ -949,7 +949,7 @@ While most paladins stride brazenly forth to battle evil in gleaming armor, fait
 
 *Paladin archetype.* Although no less a beacon of hope and justice than other paladins, virtuous bravos rely on their wit and grace rather than might and strong armor.
 
-**Weapon and Armor Proficiency**: Virtuous bravos aren't proficient with heavy armor or shields (except for bucklers). This ability alters the paladin's armor proficiency.
+**Weapon and Armor Proficiency**: Virtuous bravos aren't proficient with [heavy armor](../../equipment/armor.md) or [shields](../../equipment/armor.md) (except for [bucklers](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3)). This ability alters the paladin's armor proficiency.
 
 **Bravo's Finesse (Ex)**: A virtuous bravo can use her Dexterity modifier instead of her Strength modifier on attack rolls with light or one-handed piercing melee weapons (though if she carries a shield, she applies its armor check penalty to such attack rolls), and she can use her Charisma score in place of her Intelligence score to meet prerequisites of combat feats. This ability counts as having the [Weapon Finesse](../../rules/feats/weapon-finesse.md) feat for the purpose of meeting feat prerequisites.
 
@@ -991,7 +991,7 @@ While most paladins stride brazenly forth to battle evil in gleaming armor, fait
 
 *Paladin archetype.* Great civilizations may rise and fall, but water will always mark the places where cities grow. Rivers carve trails through the ground, enabling travel and trade and delivering the fresh water necessary to make agrarian society possible. Champions of the cascade are paladins who defend the freedom and purity of waterways, protecting the very existence of the civilizations they belong to.
 
-**Armor Proficiency**: A champion of the cascade is proficient with light armor, medium armor, and shields (except tower shields). This alters the paladin's armor proficiency.
+**Armor Proficiency**: A champion of the cascade is proficient with [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). This alters the paladin's armor proficiency.
 
 **Class Skills**: A champion of the cascade adds Acrobatics, Knowledge (geography), and Swim to her list of class skills and removes Knowledge (nobility). This alters the paladin's class skills.
 

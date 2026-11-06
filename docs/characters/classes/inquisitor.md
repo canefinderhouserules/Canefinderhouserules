@@ -67,7 +67,7 @@ The inquisitor’s class skills are Bluff (Cha), Climb (Str), Craft (Int), Diplo
 
 The following are class features of the inquisitor.
 
-**Weapon and Armor Proficiency**: An inquisitor is proficient with all simple weapons, plus the hand crossbow, longbow, repeating crossbow, shortbow, and the favored weapon of her deity. She is also proficient with light armor, medium armor, and shields (except tower shields).
+**Weapon and Armor Proficiency**: An inquisitor is proficient with all [simple weapons](../../equipment/weapons-simple.md), plus the [hand crossbow](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [longbow](../../equipment/weapons-martial.md#martial-ranged-weapons), repeating crossbow, [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons), and the favored weapon of her deity. She is also proficient with [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 **Spells**: An inquisitor casts divine spells drawn from the inquisitor spell list. She can cast any spell she knows at any time without preparing it ahead of time, assuming she has not yet used up her allotment of spells per day for the spell’s level.
 

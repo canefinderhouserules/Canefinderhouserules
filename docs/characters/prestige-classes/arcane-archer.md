@@ -53,7 +53,7 @@ The arcane archer’s class skills (and the key ability for each skill) are Perc
 
 All of the following are class features of the arcane archer prestige class.
 
-**Weapon and Armor Proficiency**: An arcane archer is proficient with all simple and martial weapons, light armor, medium armor, and shields.
+**Weapon and Armor Proficiency**: An arcane archer is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md).
 
 **Spells per Day**: At the indicated levels, an arcane archer gains new spells per day as if he had also gained a level in an arcane spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one arcane spellcasting class before becoming an arcane archer, he must decide to which class he adds the new level for purposes of determining spells per day.
 

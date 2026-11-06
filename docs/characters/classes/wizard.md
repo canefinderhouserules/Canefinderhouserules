@@ -42,7 +42,7 @@ The wizard’s class skills are Appraise (Int), Craft (Int), Fly (Dex), Knowledg
 
 The following are the class features of the wizard.
 
-**Weapon and Armor Proficiency**: Wizards are proficient with the club, dagger, heavy crossbow, light crossbow, and quarterstaff, but not with any type of armor or shield. Armor interferes with a wizard’s movements, which can cause his spells with somatic components to fail.
+**Weapon and Armor Proficiency**: Wizards are proficient with the [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [dagger](../../equipment/weapons-simple.md#simple-light-melee-weapons), [heavy crossbow](../../equipment/weapons-simple.md#simple-ranged-weapons), [light crossbow](../../equipment/weapons-simple.md#simple-ranged-weapons), and [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), but not with any type of armor or shield. Armor interferes with a wizard’s movements, which can cause his spells with somatic components to fail.
 
 **Spells**: A wizard casts arcane spells drawn from the sorcerer/wizard spell list presented in Chapter 10. A wizard must choose and prepare his spells ahead of time.
 

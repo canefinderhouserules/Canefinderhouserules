@@ -272,7 +272,7 @@ A sensate perceives battle through senses beyond mortal ken, anticipating his op
 
 **Skills**: The sensate’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Perception (Wis), Profession (Wis), Ride (Dex), Sense Motive (Wis), Survival (Wis), and Swim (Str). This replaces the fighter’s class skills.
 
-**Weapon and Armor Proficiency**: Sensates are proficient with all simple and martial weapons, light armor, medium armor, and shields (except tower shields). This replaces the fighter’s weapon and armor proficiency.
+**Weapon and Armor Proficiency**: Sensates are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). This replaces the fighter’s weapon and armor proficiency.
 
 **Guarded Senses (Su)**: At 2nd level, a sensate gains a +1 bonus on saves against sonic effects, figments, glamers, patterns, gaze attacks, and scent-based attacks. This bonus increases by 1 for every 4 levels the sensate possesses beyond 2nd.
 
@@ -347,7 +347,7 @@ All melee is up close and personal, but some warriors bring it as close as they 
 
 In combat, most fighters have some sort of code of honor. Some believe that one should not kick enemies when they are down, or should limit use of other such dirty tricks to the most dire of circumstances. The cad places no such limitations on himself. Battles are for winning, and anything that gives the cad the upper hand against his enemies is a legitimate tactic. No trick is too treacherous if it leads to victory.
 
-**Weapon and Armor Proficiency**: A cad is not proficient with medium armor, heavy armor, or tower shields.
+**Weapon and Armor Proficiency**: A cad is not proficient with [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), or [tower shields](../../equipment/armor.md).
 
 **Skills**: Acrobatics (Dex), Bluff (Cha), Escape Artist (Dex), Sleight of Hand (Dex), and Stealth (Dex) are class skills for a cad.
 
@@ -375,7 +375,7 @@ At 17th level, the cad can use this ability as a full-round action to attempt a 
 
 These gallant lancers serve in the vanguard of many armies or as knights-errant. They are born leaders and masters of the mounted charge.
 
-**Weapon and Armor Proficiency**: A dragoon is not proficient with tower shields.
+**Weapon and Armor Proficiency**: A dragoon is not proficient with [tower shields](../../equipment/armor.md).
 
 **Skilled Rider (Ex)**: At 1st level, a dragoon gains both the [Mounted Combat](../../rules/feats/mounted-combat.md) and Skill Focus (Ride) feats as bonus feats. This ability replaces the 1st-level fighter bonus combat feat.
 
@@ -397,7 +397,7 @@ Most fighters battle out of necessity, with each battle a contest of life and de
 
 **Skills**: A gladiator gains Perform (act, comedy, and dance) (Cha) as class skills.
 
-**Weapon and Armor Proficiency**: A gladiator is not proficient with heavy armor or tower shields. Instead he gains the [Performance Weapon Mastery](../../rules/feats/performance-weapon-mastery.md) feat at 1st level as a bonus feat. This bonus feat is in addition to the bonus feat a fighter gains at 1st level. Furthermore, a gladiator using piecemeal armor is considered to be wearing a suit of armor as long as he wearing two or three armor pieces, gaining the +1 to armor bonus but still taking the +5% chance of arcane spell failure if the pieces are mixed.
+**Weapon and Armor Proficiency**: A gladiator is not proficient with [heavy armor](../../equipment/armor.md) or [tower shields](../../equipment/armor.md). Instead he gains the [Performance Weapon Mastery](../../rules/feats/performance-weapon-mastery.md) feat at 1st level as a bonus feat. This bonus feat is in addition to the bonus feat a fighter gains at 1st level. Furthermore, a gladiator using piecemeal armor is considered to be wearing a suit of armor as long as he wearing two or three armor pieces, gaining the +1 to armor bonus but still taking the +5% chance of arcane spell failure if the pieces are mixed.
 
 **Bonus Feats**: A gladiator may choose to take combat or performance feats as bonus feats.
 
@@ -407,7 +407,7 @@ Most fighters battle out of necessity, with each battle a contest of life and de
 
 While many fighters focus on the fundamentals of melee and ranged combat, there are those who are trained to view the bigger picture on the battlefield. These fighters use their training and tactical acumen to overcome challenges that would overwhelm mere brute strength and skill at arms.
 
-**Weapon and Armor Proficiency**: A tactician is not proficient with heavy armor or tower shields.
+**Weapon and Armor Proficiency**: A tactician is not proficient with [heavy armor](../../equipment/armor.md) or [tower shields](../../equipment/armor.md).
 
 **Strategic Training (Ex)**: A tactician gains 4 skill points + a number of skill points equal to his Intelligence modifier at each level, instead of the normal 2 skill points + Intelligence modifier at each level. Furthermore, Diplomacy (Cha), Knowledge (geography) (Int), Knowledge (nobility) (Int), Linguistics (Int), and Sense Motive (Wis) are all class skills for the tactician. This ability replaces the bonus fighter combat feat gained at 1st level.
 
@@ -461,7 +461,7 @@ Many fighters believe the tower shield is a tool suitable only for troops on the
 
 Not all fighters need weapons to make their mark on the world. The unarmed fighter picks up a weapon only rarely, and when he does, he prefers the weapons of the monk. There are even those who mistake them for monks, but these fighters enter the fight without ki, and instead have a tough perseverance that few can rival.
 
-**Weapon and Armor Proficiency**: An unarmed fighter is not proficient with medium armor, heavy armor, or shields. An unarmed fighter is proficient with all monk weapons, including exotic monk weapons.
+**Weapon and Armor Proficiency**: An unarmed fighter is not proficient with [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), or [shields](../../equipment/armor.md). An unarmed fighter is proficient with all monk weapons, including exotic monk weapons.
 
 **Unarmed Style**: At 1st level, a unarmed fighter gains the [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) feat and any single style feat as a bonus feat. The unarmed fighter need not meet all the prerequisites of the style feat he chooses, but style feats that grant additional uses of the [Elemental Fist](../../rules/feats/elemental-fist.md) feat cannot be taken until the unarmed fighter has that feat. This ability replaces the bonus feat at 1st level.
 
@@ -489,7 +489,7 @@ Not all fighters need weapons to make their mark on the world. The unarmed fight
 
 The unbreakable is a warrior of indomitable will, unstoppable and implacable once he has set his mind upon a course of action. The unbreakable endures any trial to do what must be done, and when his mind is set toward a goal, nothing can stop him from achieving it, though many may try. He is a juggernaut and a zealot, supremely confident in his own abilities.
 
-**Weapon and Armor Proficiency**: An unbreakable is not proficient with tower shields.
+**Weapon and Armor Proficiency**: An unbreakable is not proficient with [tower shields](../../equipment/armor.md).
 
 **Tough as Nails**: An unbreakable gains Endurance and Die Hard as bonus feats. This ability replaces the fighter’s 1st-level bonus feat.
 
@@ -513,7 +513,7 @@ The unbreakable is a warrior of indomitable will, unstoppable and implacable onc
 
 Not all battles are fought between armies; sometimes, a settlement or nation faces a threat too dire to fight in the open. In order to repel a much larger enemy force, some soldiers must abandon equipment and tactics designed for open-field warfare and instead rely on ambushes, hit-and-run tactics, and sabotage to whittle down their enemies’ strength and morale. Skirmishers use harsh weather and unforgiving terrain to their advantage, attacking isolated groups of enemies that cannot flee or fight back effectively. Many tribal warriors also employ small-unit tactics because it is part of their warrior culture, because they cannot field a large army, or simply because they refuse to fight on the enemy’s terms.
 
-**Weapon and Armor Proficiency**: A skirmisher is proficient with light armor and shields but not with medium armor, heavy armor, or tower shields. This replaces the fighter’s weapon and armor proficiency.
+**Weapon and Armor Proficiency**: A skirmisher is proficient with [light armor](../../equipment/armor.md) and [shields](../../equipment/armor.md) but not with [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), or [tower shields](../../equipment/armor.md). This replaces the fighter’s weapon and armor proficiency.
 
 **Wilderness Training (Ex)**: A skirmisher relies on his skills and the element of surprise rather than the heaviest shields and armor. He gains Acrobatics and Stealth as class skills. In addition, the skirmisher gains a number of skill ranks at each level equal to 4 + his Intelligence modifier, instead of 2 + his Intelligence modifier. This alters the fighter’s class skills and skill ranks per level.
 
@@ -549,7 +549,7 @@ A tribal fighter knows that it is not the weapon that matters but the hand that 
 
 Vikings seek to raid “softer societies” and return with their longships filled with plunder. A viking strikes fear into the heart of her foes, and in battle she can fly into a terrible rage. Many vikings wear the pelts of bears or wolves, drawing on the strength and ferocity of these beasts in battle. Vikings do not wear heavy armor, but they are skilled at fighting with an axe or spear in conjunction with a shield.
 
-**Weapon and Armor Proficiency**: A viking is not proficient with heavy armor or tower shields. This alters the fighter’s weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: A viking is not proficient with [heavy armor](../../equipment/armor.md) or [tower shields](../../equipment/armor.md). This alters the fighter’s weapon and armor proficiencies.
 
 **Fearsome (Ex)**: At 2nd level, a viking can attempt an Intimidate check to demoralize an opponent as a move action. At 10th level, she can do so as a swift action. At 18th level, she can attempt to demoralize a foe as a free action once per round. This replaces bravery.
 
@@ -595,7 +595,7 @@ The dirty fighter laughs at concepts like honor and fair play. He cares only for
 
 Driven by suspicion and hatred, strix doggedly guard their territories, making deadly use of their flight. Using swift strikes from above, strix plummet onto their foes with lethal force.
 
-**Weapon and Armor Proficiency**: An airborne ambusher is not proficient with heavy armor or tower shields.
+**Weapon and Armor Proficiency**: An airborne ambusher is not proficient with [heavy armor](../../equipment/armor.md) or [tower shields](../../equipment/armor.md).
 
 **Class Skills**: An airborne ambusher adds Fly to his list of class skills and removes Climb from his list of class skills.
 
@@ -639,7 +639,7 @@ Eldritch guardians are trained to detect and give warning about magic threats to
 
 **Familiar (Ex)**: At 1st level, an eldritch guardian gains a familiar, treating his fighter level as his effective wizard level for the purpose of this ability. This ability replaces the bonus feat gained at 1st level.
 
-**Share Training (Ex)**: At 2nd level, when the familiar can see and hear its master, it can use any combat feat possessed by the eldritch guardian. The familiar doesn’t have to meet the feat’s prerequisites, but at the GM’s discretion may be precluded from using certain combat feats due to its physical form. For example, an eldritch guardian’s pig familiar with access to Exotic Weapon Proficiency (spiked chain) would not gain the ability to use spiked chains, since it doesn’t have any limbs capable of properly handling them. This ability replaces the bonus feat gained at 2nd level.
+**Share Training (Ex)**: At 2nd level, when the familiar can see and hear its master, it can use any combat feat possessed by the eldritch guardian. The familiar doesn’t have to meet the feat’s prerequisites, but at the GM’s discretion may be precluded from using certain combat feats due to its physical form. For example, an eldritch guardian’s pig familiar with access to Exotic Weapon Proficiency ([spiked chain](../../equipment/weapons-exotic.md#exotic-two-handed-melee-weapons)) would not gain the ability to use spiked chains, since it doesn’t have any limbs capable of properly handling them. This ability replaces the bonus feat gained at 2nd level.
 
 **Steel Will (Ex)**: At 2nd level, the eldritch guardian gains a +1 bonus on Will saves against fear and mind-affecting effects. This bonus increases by 1 for every 4 levels beyond 2nd. This ability replaces bravery.
 
@@ -647,7 +647,7 @@ Eldritch guardians are trained to detect and give warning about magic threats to
 
 Quick thinking and deception can often carry the day where raw force might not. Lore wardens are the bodyguards, guardians, and soldiers who protect and watch over important repositories of lore, and they themselves are impressive keepers of all manner of knowledge. Lore wardens are fighters who benefit from learning to outsmart and outmaneuver their foes rather than just overpower them. Even out of combat, lore wardens have a quick wit and a surprising breadth of knowledge that can often grant them significant advantages over enemies even before a battle begins.
 
-**Scholastic (Ex)**: Lore wardens gain 2 additional skill ranks each level. These ranks must be spent on Intelligence-based skills. All Intelligence-based skills are class skills for lore wardens. This ability replaces the lore warden’s proficiency with medium armor, heavy armor, and shields.
+**Scholastic (Ex)**: Lore wardens gain 2 additional skill ranks each level. These ranks must be spent on Intelligence-based skills. All Intelligence-based skills are class skills for lore wardens. This ability replaces the lore warden’s proficiency with [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), and [shields](../../equipment/armor.md).
 
 **Expertise (Ex)**: At 2nd level, a lore warden gains Combat Expertise as a bonus feat, even if he would not normally qualify for this feat. This ability replaces bravery 1.
 
@@ -729,7 +729,7 @@ Elite mercenary soldiers are never a standing army, but gold buys loyalty, and t
 
 Not every zealot of a goddess of revenge can channel divine magic to track down those who deserve punishment. Like a bounty hunter following his own rules, a vengeful hunter tracks down elusive prey using his wits and delivers long-overdue retribution while easily ignoring his own injuries thanks to the joy he receives from a job well done.
 
-**Weapon and Armor Proficiency**: A vengeful hunter is proficient with all simple and martial weapons, plus the whip. In addition, the hunter is proficient with light and medium armor as well as shields (except tower shields). This replaces the normal fighter armor and weapon proficiencies.
+**Weapon and Armor Proficiency**: A vengeful hunter is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), plus the [whip](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons). In addition, the hunter is proficient with light and [medium armor](../../equipment/armor.md) as well as [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). This replaces the normal fighter armor and weapon proficiencies.
 
 **Class Skills**: A vengeful hunter gains Diplomacy, Knowledge (local), and Perception as class skills and loses Knowledge (dungeoneering) and Knowledge (engineering) as class skills.
 
@@ -749,7 +749,7 @@ Not every zealot of a goddess of revenge can channel divine magic to track down 
 
 Some academies develop a reputation for churning out fearsome duelists. At the end of each academic year, the students all gather together and duel one another with light blades. Each student duels one opponent after another until he is marked on the cheek by an adversary's blade. These dueling scars are recognized as marks of prowess. The style is one of fluid motion and precise thrusts.
 
-**Weapon and Armor Proficiency**: An academy duelist is proficient with all simple and martial weapons and with all light and medium armor and shields (except tower shields). This replaces the fighter's normal weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: An academy duelist is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md) and with all light and [medium armor](../../equipment/armor.md) and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). This replaces the fighter's normal weapon and armor proficiencies.
 
 **Duelist Stance (Ex)**: At 1st level, a academy duelist gains a +1 dodge bonus to AC as long as he is wearing no armor or light armor, wields a melee weapon in one hand, and his other hand is empty. This bonus increases by 1 for every 5 levels the duelist possesses to a maximum of +5 at 20th level. This ability replaces the fighter's 1st-level bonus feat.
 
@@ -767,7 +767,7 @@ Sword duelists are among the deadliest and most feared fighters. They have spent
 
 The following benefits apply only when a sword duelist defender is wielding a dueling sword and carrying nothing in his other hand. A sword duelist defender fights with his sword wielded with both hands only in moments of desperation.
 
-**Suggested Feats**: Although this archetype replaces some of the bonus feats that a fighter would normally have access to, sword duelist defenders still have several opportunities to gain feats. The following feats are the most thematically appropriate, but the archetype does not require any of them: Combat Expertise, [Dazzling Display](../../rules/feats/dazzling-display.md), [Duelist Mastery](../../rules/feats/duelist-mastery.md), Exotic Weapon Proficiency (dueling sword), [Improved Disarm](../../rules/feats/improved-disarm.md), [Improved Feint](../../rules/feats/improved-feint.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Lunge, [Quick Draw](../../rules/feats/quick-draw.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), Weapon Focus (dueling sword), Weapon Specialization (dueling sword).
+**Suggested Feats**: Although this archetype replaces some of the bonus feats that a fighter would normally have access to, sword duelist defenders still have several opportunities to gain feats. The following feats are the most thematically appropriate, but the archetype does not require any of them: Combat Expertise, [Dazzling Display](../../rules/feats/dazzling-display.md), [Duelist Mastery](../../rules/feats/duelist-mastery.md), Exotic Weapon Proficiency ([dueling sword](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons)), [Improved Disarm](../../rules/feats/improved-disarm.md), [Improved Feint](../../rules/feats/improved-feint.md), [Improved Initiative](../../rules/feats/improved-initiative.md), Lunge, [Quick Draw](../../rules/feats/quick-draw.md), [Weapon Finesse](../../rules/feats/weapon-finesse.md), Weapon Focus (dueling sword), Weapon Specialization (dueling sword).
 
 **Defensive Parry (Ex)**: At 3rd level, when a sword duelist defender makes a full attack with a dueling sword, he gains a +1 shield bonus to his AC against melee attacks until the beginning of his next turn. This bonus increases to +2 at 7th level, +3 at 11th level, and +4 at 15th level. This ability replaces armor training.
 
@@ -793,7 +793,7 @@ Until would-be hell knights take the Test—in which they enter single combat wi
 
 A lore warden of this version is the consummate warrior-scholar, outsmarting her competition even when locking blades with powerful foes. Outside of combat, a lore warden’s extensive education also helps her document the past and survive great danger.
 
-**Scholastic (Ex)**: A lore warden gains 2 additional skill ranks each level. These ranks must be spent on Intelligence-based skills. All Craft and Knowledge skills are class skills for lore wardens, as are Linguistics and Spellcraft. This ability replaces the fighter’s proficiency with medium armor, heavy armor, and shields.
+**Scholastic (Ex)**: A lore warden gains 2 additional skill ranks each level. These ranks must be spent on Intelligence-based skills. All Craft and Knowledge skills are class skills for lore wardens, as are Linguistics and Spellcraft. This ability replaces the fighter’s proficiency with [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), and [shields](../../equipment/armor.md).
 
 **Skill Over Strength (Ex)**: At 2nd level, a lore warden qualifies for feats and other abilities as though she had the Combat Expertise feat. At 6th level, she gains Combat Expertise as a bonus feat, even if she would not normally qualify for the feat. If she already has Combat Expertise, she instead gains any one combat feat that includes Combat Expertise as a prerequisite (and for which she otherwise qualifies). At 10th level, she can treat her base attack bonus as though it were 2 higher for the purpose of calculating the effects of Combat Expertise. This ability replaces bravery and the fighter bonus feat gained at 2nd level.
 
@@ -835,7 +835,7 @@ At 11th level, a gloomblade's shadow weapons each gain their full enhancement bo
 
 At 15th level, a gloomblade's shadow weapons each gain magic weapon special abilities with a total effective bonus of +2 per weapon. If a gloomblade creates only one shadow weapon, its magic weapon special abilities cannot exceed a total effective bonus of +5. The gloomblade adds brilliant energy, dancing, and speed to the options he can choose as weapon special abilities for his shadow weapon.
 
-This replaces the fighter's armor training and proficiency with heavy armor and shields (he retains proficiency in light and medium armor).
+This replaces the fighter's armor training and proficiency with [heavy armor](../../equipment/armor.md) and [shields](../../equipment/armor.md) (he retains proficiency in light and [medium armor](../../equipment/armor.md)).
 
 **Shadow Weapon Training (Ex)**: At 5th level, a gloomblade gains weapon training, except that he does not select a weapon group; instead, the bonus applies to the shadow weapons he creates. A gloomblade does not select additional weapon groups as he gains levels.
 
@@ -852,7 +852,7 @@ For every 4 levels he has beyond 9th, a gloomblade can apply an additional effec
 
 The seasoned commander excels at leading troops through inspiration and the use of unit tactics.
 
-**Strategic Training (Ex)**: A seasoned commander gains 4 skill ranks + a number of skill ranks equal to his Intelligence modifier at each level instead of the normal 2 skill ranks + Intelligence modifier at each level. A seasoned commander adds Diplomacy, Knowledge (geography), Knowledge (nobility), Linguistics, and Sense Motive to his list of class skills. This alters the fighter's skill ranks per level and class skills, and replaces the bonus fighter combat feat gained at 1st level and proficiency with heavy armor and tower shields.
+**Strategic Training (Ex)**: A seasoned commander gains 4 skill ranks + a number of skill ranks equal to his Intelligence modifier at each level instead of the normal 2 skill ranks + Intelligence modifier at each level. A seasoned commander adds Diplomacy, Knowledge (geography), Knowledge (nobility), Linguistics, and Sense Motive to his list of class skills. This alters the fighter's skill ranks per level and class skills, and replaces the bonus fighter combat feat gained at 1st level and proficiency with [heavy armor](../../equipment/armor.md) and [tower shields](../../equipment/armor.md).
 
 **Tactician (Ex)**: At 3rd level, a seasoned commander gains the cavalier's tactician class feature, treating his fighter level as his cavalier level for the purposes of this ability. This ability replaces armor training 1.
 
@@ -904,7 +904,7 @@ The venomblade has learned to take full advantage of his toxic spittle, blinding
 
 The eldritch defender has trained in nearly forgotten arts of an ancient civilization, which combine martial prowess with elementary wizardry. Inspired by deities once worshiped long ago, eldritch defenders strive to understand the dangers of the world and overcome them with knowledge and strength of arms.
 
-**Weapon and Armor Proficiency**: An eldritch defender is not proficient with two-handed martial weapons or tower shields. This alters the fighter's weapon and armor proficiency.
+**Weapon and Armor Proficiency**: An eldritch defender is not proficient with two-handed [martial weapons](../../equipment/weapons-martial.md) or [tower shields](../../equipment/armor.md). This alters the fighter's weapon and armor proficiency.
 
 **Eldritch Lore**: An eldritch defender gains 4 skill ranks + a number of skill ranks equal to her Intelligence modifier at each level, instead of the normal 2 skill ranks + her Intelligence modifier at each level. Furthermore, Knowledge (arcana, religion), Linguistics, and Spellcraft are all class skills for the eldritch defender. This alters the fighter's skills and replaces the bonus fighter combat feat gained at 1st level.
 
@@ -986,7 +986,7 @@ A steelbound fighter transfers the effects of his steelbound awakening to a new 
 
 Kobolds know there's strength in numbers, and they rarely send fewer than two kobolds out on patrol. This reliance on one another extends to combat tactics too: overwhelming numbers and tight quarters are the kobold fighter's friends. Scuttling between the legs of friend and foe alike, the swarm fighter is an unshakable combatant.
 
-**Weapon and Armor Proficiency**: A swarm fighter is proficient with all simple and martial weapons. She is proficient with light and medium armor, but not with shields.
+**Weapon and Armor Proficiency**: A swarm fighter is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md). She is proficient with light and [medium armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
 
 **Athletic Prowess (Ex)**: A swarm fighter adds Acrobatics and Climb to her class skills, and gains a bonus on checks with these skills equal to 1/2 her swarm fighter level.
 
@@ -1050,7 +1050,7 @@ A corsair is a pirate who focuses on shipboard combat, relying on strength of ar
 
 **Class Skills**: A spear fighter adds Acrobatics to his list of class skills and removes Ride as a class skill. This alters the fighter's class skills.
 
-**Armor Proficiency**: A spear fighter is not proficient with heavy armor or tower shields. Instead, he gains Dodge as a bonus feat, even if he doesn't fulfill the prerequisites, but he can't use this feat while wearing heavy armor or using a shield. This alters the fighter's armor proficiencies.
+**Armor Proficiency**: A [spear](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons) fighter is not proficient with [heavy armor](../../equipment/armor.md) or [tower shields](../../equipment/armor.md). Instead, he gains Dodge as a bonus feat, even if he doesn't fulfill the prerequisites, but he can't use this feat while wearing heavy armor or using a shield. This alters the fighter's armor proficiencies.
 
 **Balanced Stride (Ex)**: At 2nd level, the spear fighter gains a +1 bonus on Acrobatics checks to avoid attacks of opportunity. This bonus increases by 1 for every 4 levels he has beyond 2nd. This replaces bravery.
 
@@ -1116,7 +1116,7 @@ In the desert lands, no enemy is as feared as the dervishes of the sun goddess. 
 
 The warriors of an old empire have perfected the art of fighting with the falcata and buckler in an art they call rondelero. They use their bucklers both to defend themselves and to launch unexpected strikes while chopping and hewing at their foes’ unprotected bodies and heads with their falcatas. Rondeleros wear any type of armor, but favor bucklers, and are comfortable using both hands for offense and defense.
 
-**Suggested Feats**: Exotic Weapon Proficiency (falcata), [Improved Shield Bash](../../rules/feats/improved-shield-bash.md), [Improved Two-Weapon Fighting](../../rules/feats/improved-two-weapon-fighting.md), Power Attack, [Shield Slam](../../rules/feats/shield-slam.md), [Shield Master](../../rules/feats/shield-master.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), Weapon Focus (falcata), Weapon Specialization (falcata).
+**Suggested Feats**: Exotic Weapon Proficiency ([falcata](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons)), [Improved Shield Bash](../../rules/feats/improved-shield-bash.md), [Improved Two-Weapon Fighting](../../rules/feats/improved-two-weapon-fighting.md), Power Attack, [Shield Slam](../../rules/feats/shield-slam.md), [Shield Master](../../rules/feats/shield-master.md), [Two-Weapon Fighting](../../rules/feats/two-weapon-fighting.md), Weapon Focus (falcata), Weapon Specialization (falcata).
 
 **Buckler Bash (Ex)**: At 2nd level, a rondelero can perform a shield bash with a buckler (use the same damage and critical modifier as for a light shield). This ability replaces bravery.
 

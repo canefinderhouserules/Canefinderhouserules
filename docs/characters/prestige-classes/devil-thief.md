@@ -39,7 +39,7 @@ The devil thief's class skills (and the key ability for each skill) are Acrobati
 
 The following are class features of the devil thief prestige class.
 
-**Weapon and Armor Proficiency**: A devil thief gains proficiency with longswords.
+**Weapon and Armor Proficiency**: A devil thief gains proficiency with [longswords](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons).
 
 **Classically Trained (Ex)**: The guild trains its members with the longsword—a weapon its legendary patron used to great effect by eschewing strength for finesse and expertise. A devil thief can use Weapon Finesse with a longsword sized for him when he wields it one-handed, even though it is not a light weapon.
 

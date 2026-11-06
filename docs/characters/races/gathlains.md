@@ -48,7 +48,7 @@ The following racial traits can be selected in place of the typical gathlain rac
 
 **Tree Dialect**: A rare few gathlains are born with the knowledge of an ancient way of speech that allows them to communicate with trees. Once per day, they can cast speak with plants (trees only) as a spell-like ability with a caster level equal to the gathlain’s character level. This replaces spell-like abilities.
 
-**Body Thorns**: Gathlains that mature in particularly hostile environments develop thorns on their vines to protect them from overeager herbivores. A gathlain with this racial trait is considered to be wearing masterwork armor spikes when not wearing armor or bulky clothing, and it is proficient with armor spikes. These thorns can be sundered or destroyed as if they were a worn object (hardness 1, 5 hp), but grow back 1 week later. This racial trait replaces the spell-like abilities racial trait.
+**Body Thorns**: Gathlains that mature in particularly hostile environments develop thorns on their vines to protect them from overeager herbivores. A gathlain with this racial trait is considered to be wearing masterwork [armor spikes](../../equipment/armor.md) when not wearing armor or bulky clothing, and it is proficient with armor spikes. These thorns can be sundered or destroyed as if they were a worn object (hardness 1, 5 hp), but grow back 1 week later. This racial trait replaces the spell-like abilities racial trait.
 
 **Flower Born**: Some gathlain seeds find their way to a realm of alluring blossoms. Gathlains grown there sprout beautiful but delicate hibiscus flowers on their vines and emit a seductive pheromone. Gathlains with this trait gain a +2 racial bonus on Diplomacy and Handle Animal checks. This racial trait replaces natural armor.
 

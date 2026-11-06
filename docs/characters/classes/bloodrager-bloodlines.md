@@ -248,7 +248,7 @@ The Pit lives in your blood. Maybe one of your ancestors was seduced by the powe
 
 The influence of the chain-wielding devils of pain, the kytons, taints your blood. Just as an eclipse drives animals wild, so too does the darkness unleash a madness from deep within you.
 
-**Bonus Feats**: Alertness, Blind-Fight, Exotic Weapon Proficiency (spiked chain), Great Fortitude, [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md), Iron Will, Toughness.
+**Bonus Feats**: Alertness, Blind-Fight, Exotic Weapon Proficiency ([spiked chain](../../equipment/weapons-exotic.md#exotic-two-handed-melee-weapons)), Great Fortitude, [Improved Dirty Trick](../../rules/feats/improved-dirty-trick.md), Iron Will, Toughness.
 
 **Bonus Spells**: Persuasive goad (7th), pain strike (10th), deeper darkness (13th), fear (16th).
 

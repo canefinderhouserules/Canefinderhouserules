@@ -36,7 +36,7 @@ Most tengu communities tend to follow a tribal structure. Tribal rules remain lo
 
 **Gifted Linguist**: Tengus gain a +4 racial bonus on Linguistics checks, and learn 2 languages each time they gain a rank in Linguistics rather than 1 language.
 
-**Swordtrained**: Tengus are trained from birth in swordplay, and as a result are automatically proficient with swordlike weapons (including bastard swords, daggers, elven curve blades, falchions, greatswords, kukris, longswords, punching daggers, rapiers, scimitars, short swords, and two-bladed swords).
+**Swordtrained**: Tengus are trained from birth in swordplay, and as a result are automatically proficient with swordlike weapons (including [bastard swords](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons), [daggers](../../equipment/weapons-simple.md#simple-light-melee-weapons), [elven curve blades](../../equipment/weapons-exotic.md#exotic-two-handed-melee-weapons), [falchions](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), [greatswords](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), [kukris](../../equipment/weapons-martial.md#martial-light-melee-weapons), [longswords](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [punching daggers](../../equipment/weapons-simple.md#simple-light-melee-weapons), [rapiers](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [scimitars](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [short swords](../../equipment/weapons-martial.md#martial-light-melee-weapons), and [two-bladed swords](../../equipment/weapons-exotic.md#exotic-two-handed-melee-weapons)).
 
 **Natural Weapon**: A tengu has a bite attack that deals 1d3 points of damage.
 

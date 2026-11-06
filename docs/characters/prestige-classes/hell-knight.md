@@ -25,7 +25,7 @@ To qualify to become a hell knight, a character must fulfill all of the followin
 
 **Alignment**: Any lawful.
 
-**Armor Proficiency**: Must be proficient with heavy armor.
+**Armor Proficiency**: Must be proficient with [heavy armor](../../equipment/armor.md).
 
 **Base Attack Bonus**: +3.
 
@@ -37,7 +37,7 @@ To qualify to become a hell knight, a character must fulfill all of the followin
 
     **Alignment**: Any lawful.
 
-    **Armor Proficiency**: Must be proficient with heavy armor.
+    **Armor Proficiency**: Must be proficient with [heavy armor](../../equipment/armor.md).
 
     **Base Attack Bonus**: +5.
 

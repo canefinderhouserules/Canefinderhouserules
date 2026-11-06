@@ -56,7 +56,7 @@ The following are features of the legendary cleric.
 
 #### Weapon and Armor Proficiencies
 
-Legendary clerics are proficient with all simple weapons, light armor, medium armor, and shields (except tower shields). Legendary clerics are also proficient with one weapon based on their faith, typically the favored weapon of a deity or a thematically appropriate weapon to their nontheistic beliefs.
+Legendary clerics are proficient with all [simple weapons](../../../equipment/weapons-simple.md), [light armor](../../../equipment/armor.md), [medium armor](../../../equipment/armor.md), and [shields](../../../equipment/armor.md) (except [tower shields](../../../equipment/armor.md)). Legendary clerics are also proficient with one weapon based on their faith, typically the favored weapon of a deity or a thematically appropriate weapon to their nontheistic beliefs.
 
 #### Faith (Su)
 
@@ -150,13 +150,13 @@ Alternate class features are small, modular archetypes. They swap out a single c
 
 The following options can be taken in place of the legendary cleric’s normal weapon and armor proficiencies:
 
-**A**: Legendary clerics are proficient with all simple weapons, light armor, and bucklers, plus one weapon appropriate to their faith.
+**A**: Legendary clerics are proficient with all [simple weapons](../../../equipment/weapons-simple.md), [light armor](../../../equipment/armor.md), and [bucklers](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3), plus one weapon appropriate to their faith.
 
-**B**: Legendary clerics are proficient with all simple weapons and one weapon appropriate to their faith They are not proficient in any armor or shields. In addition, they gain the following class feature:
+**B**: Legendary clerics are proficient with all [simple weapons](../../../equipment/weapons-simple.md) and one weapon appropriate to their faith They are not proficient in any armor or [shields](../../../equipment/armor.md). In addition, they gain the following class feature:
 
 **C**: When unarmored and unencumbered, the legendary cleric adds their Wisdom bonus (if any) to their AC and their CMD. In addition, a legendary cleric gains a +1 bonus to AC and CMD at 4th level. This bonus increases by 1 for every four cleric levels thereafter, up to a maximum of +5 at 20th level. These bonuses to AC apply even against touch attacks or when the legendary cleric is flat-footed. They lose these bonuses when they are immobilized or helpless, when they wear any armor, when they carry a shield, or when they carry a medium or heavy load.
 
-**D**: Legendary clerics are proficient with the club, crossbow (light or heavy), dagger, handaxe, javelin, kama, nunchaku, quarterstaff, sai, short sword, shortspear, shuriken, siangham, sling, spear, and any weapon with the monk special weapon quality. They are not proficient in any armor or shields. In addition, they gain the AC bonus class feature (detailed above) as well as [Improved Unarmed Strike](../../../rules/feats/improved-unarmed-strike.md) as a bonus feat.
+**D**: Legendary clerics are proficient with the [club](../../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), crossbow (light or heavy), [dagger](../../../equipment/weapons-simple.md#simple-light-melee-weapons), [handaxe](../../../equipment/weapons-martial.md#martial-light-melee-weapons), [javelin](../../../equipment/weapons-simple.md#simple-ranged-weapons), [kama](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [nunchaku](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [quarterstaff](../../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), [sai](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [short sword](../../../equipment/weapons-martial.md#martial-light-melee-weapons), [shortspear](../../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [shuriken](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [siangham](../../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [sling](../../../equipment/weapons-simple.md#simple-ranged-weapons), [spear](../../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), and any weapon with the monk special weapon quality. They are not proficient in any armor or [shields](../../../equipment/armor.md). In addition, they gain the AC bonus class feature (detailed above) as well as [Improved Unarmed Strike](../../../rules/feats/improved-unarmed-strike.md) as a bonus feat.
 
 #### Blessing of the Faith
 

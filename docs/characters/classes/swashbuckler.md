@@ -47,7 +47,7 @@ The swashbuckler's class skills are Acrobatics (Dex), Bluff (Cha), Climb (Str), 
 
 The following are the class features of the swashbuckler.
 
-**Weapon and Armor Proficiency**: Swashbucklers are proficient with simple and martial weapons, as well as light armor and bucklers.
+**Weapon and Armor Proficiency**: Swashbucklers are proficient with simple and [martial weapons](../../equipment/weapons-martial.md), as well as [light armor](../../equipment/armor.md) and [bucklers](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3).
 
 **Panache (Ex)**: More than just a lightly armored warrior, a swashbuckler is a daring combatant. She fights with panache: a fluctuating measure of a swashbuckler's ability to perform amazing actions in combat. At the start of each day, a swashbuckler gains a number of panache points equal to her Charisma modifier (minimum 1). Her panache goes up or down throughout the day, but usually cannot go higher than her Charisma modifier (minimum 1), though feats and magic items can affect this maximum. A swashbuckler spends panache to accomplish deeds (see below), and regains panache in the following ways.
 

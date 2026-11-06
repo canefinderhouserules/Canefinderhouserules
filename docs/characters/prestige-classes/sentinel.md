@@ -55,7 +55,7 @@ The sentinel's class skills (and the key ability for each skill) are Climb (Str)
 
 The following are class features of the sentinel prestige class.
 
-**Weapon and Armor Proficiency**: Sentinels are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
+**Weapon and Armor Proficiency**: Sentinels are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), with all types of armor (heavy, medium, and light), and with [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 **Devotion (Ex)**: In order to maintain the abilities granted by this prestige class, a sentinel must remain faithful to his chosen deity and uphold its tenets. A sentinel who flagrantly violates them loses all class features of this prestige class until he atones, as an ex-paladin.
 

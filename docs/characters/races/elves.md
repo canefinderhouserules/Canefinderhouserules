@@ -30,7 +30,7 @@ In addition, elves receive a +2 racial bonus on Spellcraft skill checks made to 
 
 **Keen Senses**: Elves receive a +2 racial bonus on Perception skill checks.
 
-**Weapon Familiarity**: Elves are proficient with longbows (including composite longbows), longswords, rapiers, and shortbows (including composite shortbows), and treat any weapon with the word “elven” in its name as a martial weapon.
+**Weapon Familiarity**: Elves are proficient with [longbows](../../equipment/weapons-martial.md#martial-ranged-weapons) (including [composite longbows](../../equipment/weapons-martial.md#martial-ranged-weapons)), [longswords](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [rapiers](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and [shortbows](../../equipment/weapons-martial.md#martial-ranged-weapons) (including [composite shortbows](../../equipment/weapons-martial.md#martial-ranged-weapons)), and treat any weapon with the word “elven” in its name as a martial weapon.
 
 **Languages**: Elves begin play speaking Common and Elven. Elves with high Intelligence scores can choose from the following: Celestial, Draconic, Gnoll, Gnome, Goblin, Orc, and Sylvan.
 
@@ -48,7 +48,7 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Silent Hunter**: Elves are renowned for their subtlety and skill. Elves with this racial trait reduce the penalty for using Stealth while moving by 5 and can make Stealth checks while running at a –20 penalty (this number includes the penalty reduction from this racial trait). This racial trait replaces the elven magic racial trait.
 
-**Spirit of the Waters**: Some elves have adapted to life in tune with the sea or along the reedy depths of wild rivers and lakes. They gain a +4 racial bonus on Swim checks, can always take 10 while swimming, and may choose Aquan as a bonus language. They are proficient with longspear, trident, and net. This racial trait replaces elven magic and weapon familiarity racial traits.
+**Spirit of the Waters**: Some elves have adapted to life in tune with the sea or along the reedy depths of wild rivers and lakes. They gain a +4 racial bonus on Swim checks, can always take 10 while swimming, and may choose Aquan as a bonus language. They are proficient with [longspear](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), [trident](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and net. This racial trait replaces elven magic and weapon familiarity racial traits.
 
 **Woodcraft**: Elves know the deep secrets of the wild like no others, especially those of the forests. Elves with this racial trait gain a +1 bonus on Knowledge (nature) and Survival checks. In forest terrain, these bonuses improve to +2. This racial trait replaces the elven magic racial trait.
 
@@ -96,7 +96,7 @@ Elves from different cultures often take alternate racial traits and also have a
 
 **Devoted Companion**: While some elves quickly become inured to the loss and tragedy all too common in their lives among shorter-lived friends, some refuse to let go, fighting passionately when companions are endangered. Elves with this alternate racial trait gain a +1 racial bonus on attack rolls and caster level checks while adjacent to an ally who has been reduced to fewer than half her maximum hit points. This replaces elven magic and weapon familiarity.
 
-**Eastern Weapon Mastery**: Some elves are proficient with many of the weapons of distant eastern lands. Elves with this racial trait are proficient with fighting fans and tonfa, and they treat katanas, kusarigamas, and wakizashis as martial weapons. This replaces weapon familiarity.
+**Eastern Weapon Mastery**: Some elves are proficient with many of the weapons of distant eastern lands. Elves with this racial trait are proficient with [fighting fans](../../equipment/weapons-eastern.md#exotic-light-melee-weapons) and [tonfa](../../equipment/weapons-eastern.md#martial-light-melee-weapons), and they treat [katanas](../../equipment/weapons-eastern.md#exotic-one-handed-melee-weapons), [kusarigamas](../../equipment/weapons-eastern.md#exotic-two-handed-melee-weapons-part-1), and [wakizashis](../../equipment/weapons-eastern.md#exotic-light-melee-weapons) as [martial weapons](../../equipment/weapons-martial.md). This replaces weapon familiarity.
 
 **Frostmelding**: A few rare elves from the far north are able to supernaturally blend with their surroundings to avoid the eyes of outsiders. Elves with this alternate racial trait can use [*meld into stone*](../../magic/spells/meld-into-stone.md) as a spell-like ability once per day, with a caster level equal to their character level, except that they instead meld with snow and ice and the spell duration is 1 round per level. This replaces elven magic.
 
@@ -204,7 +204,7 @@ These elves were born and raised in the frozen lands of the far north or south, 
 
 ### Crossbow Training
 
-the sea-spire elves train with weapons that can be used underwater. An elf with this trait can reload a light crossbow as a free action and a heavy crossbow as a move action, provided that she is proficient with the weapon. If she selects the [Rapid Reload](../../rules/feats/rapid-reload.md) feat for a heavy crossbow, she can reload the weapon as a free action. This racial trait replaces weapon familiarity.
+the sea-spire elves train with weapons that can be used underwater. An elf with this trait can reload a [light crossbow](../../equipment/weapons-simple.md#simple-ranged-weapons) as a free action and a [heavy crossbow](../../equipment/weapons-simple.md#simple-ranged-weapons) as a move action, provided that she is proficient with the weapon. If she selects the [Rapid Reload](../../rules/feats/rapid-reload.md) feat for a heavy crossbow, she can reload the weapon as a free action. This racial trait replaces weapon familiarity.
 
 ### Disinterested Observer
 

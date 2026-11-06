@@ -56,7 +56,7 @@ At 6th level, a mutagenic mauler gains a +2 bonus on damage rolls when she attac
 
 Stalwart in battle, a shield champion has perfected an entire martial discipline relying on only her hand-to-hand fighting skills and her ever-present shield. What she forgoes in weapon versatility and improved combat maneuvering, she makes up for in her ability to turn her defense into a weapon.
 
-**Weapon and Armor Proficiency**: A shield champion is proficient with all simple weapons. She is also proficient with light armor, and with bucklers, light shields, and heavy shields. This replaces the brawler's weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: A shield champion is proficient with all [simple weapons](../../equipment/weapons-simple.md). She is also proficient with [light armor](../../equipment/armor.md), and with [bucklers](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3), [light shields](../../equipment/weapons-martial.md#martial-light-melee-weapons), and [heavy shields](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons). This replaces the brawler's weapon and armor proficiencies.
 
 **Throw Shield (Ex)**: At 3rd level, a shield champion can throw a medium or light shield as a normal (non-improvised) thrown weapon with a range increment of 10 feet or the shield's range increment, whichever is greater. The thrown shield deals the same damage as a shield bash, and any damage increases from shield spikes apply to this attack. A shield champion is treated as having the Far Shot feat for the purpose of determining range increment penalties for throwing a shield.
 
@@ -224,7 +224,7 @@ This ability replaces the bonus feats gained at 2nd, 8th, and 14th levels.
 
 After their homeland seceded from its parent nation, an elite combatant caste formed to protect it for centuries. Their martial traditions were centered on the use of farming tools and on other improvised weapons.
 
-**Humble Beginnings (Ex)**: An improvised warrior gains her choice of [Catch Off-Guard](../../rules/feats/catch-off-guard.md) or [Throw Anything](../../rules/feats/throw-anything.md) as a bonus feat. She is not proficient with shields. This alters the brawler's armor proficiencies.
+**Humble Beginnings (Ex)**: An improvised warrior gains her choice of [Catch Off-Guard](../../rules/feats/catch-off-guard.md) or [Throw Anything](../../rules/feats/throw-anything.md) as a bonus feat. She is not proficient with [shields](../../equipment/armor.md). This alters the brawler's armor proficiencies.
 
 **Improvisation Training (Ex)**: An improvised warrior is skilled at fighting with improvised weapons. She deals damage equal to her unarmed strike damage while fighting with an improvised weapon. An improvised warrior treats improvised weapons as weapons from the close fighter weapon group. This replaces the bonus combat feat gained at 2nd level.
 
@@ -264,7 +264,7 @@ Mutants whose mutations make using standard weapons or other gear difficult some
 
 **Class Skills**: A battle dancer gains Perform (all) as a class skill instead of Knowledge (dungeoneering). This alters the brawler's class skills.
 
-**Armor Proficiency**: A battle dancer isn't proficient with shields. This alters the brawler's armor proficiencies.
+**Armor Proficiency**: A battle dancer isn't proficient with [shields](../../equipment/armor.md). This alters the brawler's armor proficiencies.
 
 **Dancer's Cunning (Ex)**: A battle dancer can treat her Charisma score as her Intelligence score for the purpose of meeting the prerequisites of combat feats. In addition, she can attempt a Perform (dance) check instead of a Bluff check to feint in combat, and her unarmed strikes are considered to have the performance weapon special quality. This replaces brawler's cunning.
 

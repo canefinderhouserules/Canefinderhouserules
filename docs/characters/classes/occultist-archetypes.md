@@ -8,7 +8,7 @@ Well versed in military history, battlefield lore, and the occult, a battle host
 
 **Class Skills**: A battle host adds Knowledge (local) (Int) and Knowledge (nobility) (Int) as class skills. This alters the occultist’s class skills.
 
-**Weapon and Armor Proficiency**: A battle host is proficient with all simple and martial weapons and with all types of armor (heavy, light, and medium) and shields (including tower shields). This replaces the occultist’s weapon and armor proficiency.
+**Weapon and Armor Proficiency**: A battle host is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md) and with all types of armor (heavy, light, and medium) and [shields](../../equipment/armor.md) (including [tower shields](../../equipment/armor.md)). This replaces the occultist’s weapon and armor proficiency.
 
 **Panoply Bond (Su)**: At 1st level, a battle host forms a supernatural bond with a specific weapon, suit of armor, or shield. This selection is permanent and can never be changed. The bonded item is masterwork quality and the battle host begins play with it at no cost. The bonded item is immune to the broken condition for as long as the battle host lives. If a battle host dies and is restored to life, the bonded item is also restored if it was destroyed. Any magic powers associated with a battle host’s bonded item function only for the battle host; in the hands of anyone else it is only a masterwork item. The bonded item starts as an implement for any single school of magic at 1st level, and gains access to additional schools of magic at 2nd, 10th, 14th, and 18th levels, granting the battle host access to base focus powers and resonant powers accordingly. The battle host’s bonded item serves as his implement component to cast occultist spells of all the schools that he knows. However, he must split his mental focus among the schools he knows for the purpose of determining resonant powers and using focus powers, even though he possesses only one physical item as an implement. This ability alters implements, mental focus, spellcasting, and implement mastery.
 
@@ -347,7 +347,7 @@ Some occultists specialize in a particular panoply, fully dedicating themselves 
 
 **Mental Focus (Su)**: The silksworn's available mental focus is equal to his occultist level + his Intelligence modifier + his Charisma modifier. This ability alters mental focus.
 
-**Devoted Mystic**: A silksworn is proficient with only simple weapons and isn't proficient with any armor or shields. At 1st level, the silksworn gains access to four implement schools instead of two. At 2nd level and every 4 occultist levels thereafter, the silksworn gains access to an additional implement school, to a maximum of nine schools at 18th level. At 8th, 12th, and 16th levels, the silksworn increases the number of spells of each level he can cast each day by one. This does not allow the silksworn to cast spells of a level he does not yet have access to. This ability alters implements and the occultist's weapon and armor proficiencies, and replaces outside contact.
+**Devoted Mystic**: A silksworn is proficient with only [simple weapons](../../equipment/weapons-simple.md) and isn't proficient with any armor or [shields](../../equipment/armor.md). At 1st level, the silksworn gains access to four implement schools instead of two. At 2nd level and every 4 occultist levels thereafter, the silksworn gains access to an additional implement school, to a maximum of nine schools at 18th level. At 8th, 12th, and 16th levels, the silksworn increases the number of spells of each level he can cast each day by one. This does not allow the silksworn to cast spells of a level he does not yet have access to. This ability alters implements and the occultist's weapon and armor proficiencies, and replaces outside contact.
 
 **Silksworn Eloquence (Ex)**: At 8th level, a silksworn gains a +1 bonus on Bluff and Diplomacy checks for each magical article of clothing occupying one of his implement schools' magic item slots. This ability replaces magic circles.
 
@@ -361,7 +361,7 @@ Some occultists specialize in a particular panoply, fully dedicating themselves 
 
 *Occultist archetype.* Extemporaneous channelers study the power of transformation and use items in unintended ways to awaken their potential.
 
-**Weapon Proficiency**: An extemporaneous channeler is proficient with all simple weapons. This alters the occultist's weapon proficiencies.
+**Weapon Proficiency**: An extemporaneous channeler is proficient with all [simple weapons](../../equipment/weapons-simple.md). This alters the occultist's weapon proficiencies.
 
 **Improvisational Combatant (Ex)**: An extemporaneous channeler does not incur any penalties for using an improvised weapon. She is considered to have the [Catch Off-Guard](../../rules/feats/catch-off-guard.md) and [Throw Anything](../../rules/feats/throw-anything.md) feats for the purpose of meeting prerequisites.
 

@@ -41,7 +41,7 @@ The skyseeker's class skills (and the key ability for each skill) are Climb (Str
 
 The following are class features of the skyseeker prestige class.
 
-**Weapon and Armor Proficiency**: A skyseeker is proficient with all simple and martial weapons, light armor, medium armor, and shields (including tower shields).
+**Weapon and Armor Proficiency**: A skyseeker is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (including [tower shields](../../equipment/armor.md)).
 
 **Ancestral Weapon (Su)**: By inscribing ancient dwarven runes upon his weapon, a skyseeker forges it into a reflection of the legendary weapons his ancestors bore during the Quest for Sky. When wielded by the skyseeker against a creature with the giant, goblin, or orc subtype, the weapon deals an additional 1d6 points of damage on a successful hit. As a free action, the skyseeker may also identify the weapon by name when making an Intimidate check against such creatures, granting him a competence bonus on his Intimidate check equal to 1/2 his class level (minimum +1). At 4th level and every three levels thereafter, the extra damage dealt by the ancestral weapon increases by 1d6, to a maximum of 4d6 at 10th level. Forging a link between a weapon and the legendary weapons of old requires a 24-hour-long ritual, and only one weapon can be designated as an ancestral weapon at a time.
 
@@ -51,7 +51,7 @@ The following are class features of the skyseeker prestige class.
 
 **Commune (Sp)**: At 3rd level, a skyseeker’s bond with the spirits of his ancestors grows stronger, allowing him to use the spell [*commune*](../../magic/spells/commune.md) once per week as a spell-like ability (caster level equal to the skyseeker’s class level).
 
-**Dwarven Armor Training (Ex)**: By studying the arts of his ancestors, the skyseeker learns the secret techniques of his forebears’ forges and fighting styles. At 4th level, the skyseeker gains heavy armor proficiency, and he still benefits from his ranger combat style (if he has one) while wearing heavy armor.
+**Dwarven Armor Training (Ex)**: By studying the arts of his ancestors, the skyseeker learns the secret techniques of his forebears’ forges and fighting styles. At 4th level, the skyseeker gains [heavy armor](../../equipment/armor.md) proficiency, and he still benefits from his ranger combat style (if he has one) while wearing heavy armor.
 
 **Darkvision (Ex)**: At 5th level, a skyseeker grows more comfortable operating in the lightless depths of the dwarven ancestral homelands. He gains darkvision out to a range of 60 feet. If he already has darkvision, the range increases by 30 feet. At 7th level, the range of the skyseeker’s darkvision increases by an additional 30 feet.
 

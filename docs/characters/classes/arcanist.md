@@ -72,7 +72,7 @@ The arcanist's class skills are Appraise (Int), Craft (Int), Fly (Dex), Knowledg
 
 The following are the class features of the arcanist.
 
-**Weapon and Armor Proficiencies**: Arcanists are proficient with all simple weapons. They are not proficient with any type of armor or shield. Armor interferes with an arcanist's gestures, which can cause her spells with somatic components to fail (see Arcane Spells and Armor in the Core Rulebook).
+**Weapon and Armor Proficiencies**: Arcanists are proficient with all [simple weapons](../../equipment/weapons-simple.md). They are not proficient with any type of armor or shield. Armor interferes with an arcanist's gestures, which can cause her spells with somatic components to fail (see Arcane Spells and Armor in the Core Rulebook).
 
 **Spells**: An arcanist casts arcane spells drawn from the sorcerer/wizard spell list, presented in Chapter 10 of the Core Rulebook. An arcanist must prepare her spells ahead of time, but unlike a wizard, her spells are not expended when they're cast. Instead, she can cast any spell that she has prepared consuming a spell slot of the appropriate level, assuming she hasn't yet used up her spell slots per day for that level. To learn, prepare, or cast a spell, the arcanist must have an Intelligence score equal to at least 10 + the spell's level. The saving throw DC against an arcanist's spell is 10 + the spell's level + the arcanist's Intelligence modifier. An arcanist can only cast a certain number of spells of each spell level per day. Her base daily spell allotment is given on Table 1-1. In addition, she receives bonus spells per day if she has a high Intelligence score (see Table 1-3 in the Core Rulebook).
 

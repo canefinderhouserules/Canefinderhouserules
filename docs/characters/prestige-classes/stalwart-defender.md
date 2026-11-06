@@ -33,7 +33,7 @@ To qualify to become a stalwart defender, a character must fulfill all the follo
 
 **Feats**: Dodge, Endurance, Toughness.
 
-**Special**: Proficiency with light and medium armor.
+**Special**: Proficiency with light and [medium armor](../../equipment/armor.md).
 
 ### Class Skills
 
@@ -45,7 +45,7 @@ The stalwart defender’s class skills are Acrobatics (Dex), Climb (Str), Intimi
 
 The following are class features of the stalwart defender prestige class.
 
-**Weapon and Armor Proficiency**: A stalwart defender is proficient with all simple and martial weapons, all types of armor, and shields (including tower shields).
+**Weapon and Armor Proficiency**: A stalwart defender is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), all types of armor, and [shields](../../equipment/armor.md) (including [tower shields](../../equipment/armor.md)).
 
 **AC Bonus (Ex)**: A stalwart defender receives a dodge bonus to AC that starts at +1 and improves as the defender gains levels, until it reaches +4 at 10th level.
 

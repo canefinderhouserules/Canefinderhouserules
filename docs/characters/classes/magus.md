@@ -43,7 +43,7 @@ The magus’s class skills are Climb (Str), Craft (Int), Fly (Dex), Intimidate (
 
 The following are the class features of the magus.
 
-**Weapon and Armor Proficiency**: A magus is proficient with all simple and martial weapons. A magus is also proficient with light armor. He can cast magus spells while wearing light armor without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a magus wearing medium armor, heavy armor, or a shield incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass magus still incurs the normal arcane spell failure chance for arcane spells received from other classes.
+**Weapon and Armor Proficiency**: A magus is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md). A magus is also proficient with [light armor](../../equipment/armor.md). He can cast magus spells while wearing light armor without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a magus wearing [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), or a shield incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass magus still incurs the normal arcane spell failure chance for arcane spells received from other classes.
 
 **Spells**: A magus casts arcane spells drawn from the magus spell list presented below. A magus must choose and prepare his spells ahead of time.
 
@@ -121,7 +121,7 @@ A magus can only enhance one weapon in this way at one time. If he uses this abi
 
 **Knowledge Pool (Su)**: At 7th level, when a magus prepares his magus spells, he can decide to expend 1 or more points from his arcane pool, up to his Intelligence bonus. For each point he expends, he can treat any one spell from the magus spell list as if it were in his spellbook and can prepare that spell as normal that day. If he does not cast spells prepared in this way before the next time he prepares spells, he loses those spells. He can also cast spells added in this way using his spell recall ability, but only until he prepares spells again.
 
-**Medium Armor (Ex)**: At 7th level, a magus gains proficiency with medium armor. A magus can cast magus spells while wearing medium armor without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a magus wearing heavy armor or using a shield incurs a chance of arcane spell failure if the spell in question has a somatic component.
+**Medium Armor (Ex)**: At 7th level, a magus gains proficiency with [medium armor](../../equipment/armor.md). A magus can cast magus spells while wearing medium armor without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a magus wearing [heavy armor](../../equipment/armor.md) or using a shield incurs a chance of arcane spell failure if the spell in question has a somatic component.
 
 **Improved Spell Combat (Ex)**: At 8th level, the magus’s ability to cast spells and make melee attacks improves.
 
@@ -131,7 +131,7 @@ When using the spell combat ability, the magus receives a +2 circumstance bonus 
 
 **Improved Spell Recall (Su)**: At 11th level, the magus’s ability to recall spells using his arcane pool becomes more efficient. Whenever he recalls a spell with spell recall, he expends a number of points from his arcane pool equal to 1/2 the spell’s level (minimum 1). Furthermore, instead of recalling a used spell, as a swift action the magus can prepare a spell of the same level that he has in his spellbook. He does so by expending a number of points from his arcane pool equal to the spell’s level (minimum 1). The magus cannot apply metamagic feats to a spell prepared in this way. The magus does not need to reference his spellbook to prepare a spell in this way.
 
-**Heavy Armor (Ex)**: At 13th level, a magus gains proficiency with heavy armor. A magus can cast magus spells while wearing heavy armor without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a magus using a shield incurs a chance of arcane spell failure if the spell in question has a somatic component.
+**Heavy Armor (Ex)**: At 13th level, a magus gains proficiency with [heavy armor](../../equipment/armor.md). A magus can cast magus spells while wearing heavy armor without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a magus using a shield incurs a chance of arcane spell failure if the spell in question has a somatic component.
 
 **Greater Spell Combat (Ex)**: At 14th level, the magus gains the ability to seamlessly cast spells and make melee attacks. Whenever he uses the spell combat ability, his concentration check bonus equals double the amount of the attack penalty taken.
 

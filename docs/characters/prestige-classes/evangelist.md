@@ -51,7 +51,7 @@ The evangelist's class skills (and the key ability for each skill) are Craft (In
 
 The following are class features of the evangelist prestige class.
 
-**Weapon and Armor Proficiency**: An evangelist is proficient with all simple weapons and light armor. An evangelist also gains weapon proficiency with her chosen deity's favored weapon.
+**Weapon and Armor Proficiency**: An evangelist is proficient with all [simple weapons](../../equipment/weapons-simple.md) and [light armor](../../equipment/armor.md). An evangelist also gains weapon proficiency with her chosen deity's favored weapon.
 
 **Devotion (Ex)**: In order to maintain the abilities granted by this prestige class, including all abilities gained from aligned class (see below), an evangelist must remain faithful to her chosen deity and uphold its tenets. An evangelist who flagrantly violates them loses all class features of this prestige class until she atones, as an ex-cleric.
 

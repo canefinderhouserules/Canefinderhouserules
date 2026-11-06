@@ -168,7 +168,7 @@ When in animal form, the skald is treated as able to speak normally for the purp
 
 These fierce drummers are equally adept at tapping out a driving rhythm and rapping enemies upside the head with the same massive clubs they use to beat the crude hide-covered drums they carry into battle.
 
-**Weapon Proficiency**: A war drummer is proficient with all simple weapons and the greatclub.
+**Weapon Proficiency**: A war drummer is proficient with all [simple weapons](../../equipment/weapons-simple.md) and the [greatclub](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons).
 
 **Fearsome Mien (Ex)**: A war drummer adds 1/2 his class level (minimum 1) to all Intimidate and Bluff skill checks. This ability replaces bardic knowledge.
 
@@ -306,7 +306,7 @@ This feat replaces the Scribe Scroll feat.
 
 The urban skald finds that challenging and mocking foes is sometimes more effective than inspiring uncontrolled rage in a city.
 
-**Weapon and Armor Proficiency**: An urban skald is not proficient with medium armor. This ability modifies the skald's weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: An urban skald is not proficient with [medium armor](../../equipment/armor.md). This ability modifies the skald's weapon and armor proficiencies.
 
 **Raging Song (Su)**: An urban skald gains a different selection of raging songs, as noted below. The save DC for a raging song that allows a save is equal to 10 + 1/2 the urban skald's skald level + his Charisma modifier.
 

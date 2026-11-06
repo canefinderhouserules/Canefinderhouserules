@@ -25,7 +25,7 @@ To qualify to become a golden knight, a character must fulfill all of the follow
 
 **Alignment**: Any good.
 
-**Armor Proficiency**: Must be proficient with heavy armor.
+**Armor Proficiency**: Must be proficient with [heavy armor](../../equipment/armor.md).
 
 **Base Attack Bonus**: +2.
 
@@ -35,7 +35,7 @@ To qualify to become a golden knight, a character must fulfill all of the follow
 
     **Alignment**: Any good.
 
-    **Armor Proficiency**: Must be proficient with heavy armor.
+    **Armor Proficiency**: Must be proficient with [heavy armor](../../equipment/armor.md).
 
     **Base Attack Bonus**: +5.
 
@@ -51,7 +51,7 @@ The golden knight's class skills (and the key ability for each skill) are Climb 
 
 The following are class features of the golden knight prestige class.
 
-**Weapon and Armor Proficiency**: A golden knight gains proficiency with all simple and martial weapons and with all forms of armor and shields.
+**Weapon and Armor Proficiency**: A golden knight gains proficiency with all simple and [martial weapons](../../equipment/weapons-martial.md) and with all forms of armor and [shields](../../equipment/armor.md).
 
 **Authoritative Command (Ex)**: As a swift action, a golden knight can issue orders to a number of allies up to half his character level who are within 30 feet and can see, hear, and understand him. As long as at least one selected ally obeys the golden knight’s orders during that round, the golden knight and each compliant ally gain a +1 competence bonus on attack rolls, weapon damage rolls, and saving throws and to Armor Class for 1 round. Affected allies are not under any obligation to obey these commands, but do not gain the bonuses if they ignore the commands. At 6th level, this bonus increases to +2. At 8th level, a golden knight can use authoritative command as a free action.
 

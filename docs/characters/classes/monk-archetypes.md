@@ -128,7 +128,7 @@ Using this ability costs 2 ki points that are removed from the next day’s tota
 
 The monk of the empty hand eschews normal weapons in favor of whatever is lying around—rocks, chair legs, flagons of ale, even a simple quill pen all become deadly weapons in the hands of such a monk. A monk of the empty hand draws on his own ki to infuse his improvised weapons with power, and can transform a broken bottle into a magical weapon.
 
-**Weapon and Armor Proficiency**: Monks of the empty hand are proficient with the shuriken only. A monk of the empty hand treats normal weapons as improvised weapons with the following equivalencies (substituting all of their statistics for the listed weapon): a light weapon functions as a light hammer, a one-handed weapon functions as a club, and a two-handed weapon functions as a quarterstaff. This replaces the normal monk weapon proficiencies.
+**Weapon and Armor Proficiency**: Monks of the empty hand are proficient with the [shuriken](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1) only. A monk of the empty hand treats normal weapons as improvised weapons with the following equivalencies (substituting all of their statistics for the listed weapon): a light weapon functions as a [light hammer](../../equipment/weapons-martial.md#martial-light-melee-weapons), a one-handed weapon functions as a [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), and a two-handed weapon functions as a [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons). This replaces the normal monk weapon proficiencies.
 
 **Flurry of Blows (Ex)**: Starting at 1st level, a monk of the empty hand can make a flurry of blows using any combination of unarmed strikes or attacks with an improvised weapon. He may not make a flurry of blows with any other weapons, including special monk weapons.
 
@@ -232,7 +232,7 @@ This ability replaces perfect self.
 
 Some monks seek to become one with another weapon entirely—the bow. The zen archer takes a weapon most other monks eschew and seeks perfection in the pull of a taut bowstring, the flex of a bow’s limbs, and the flight of an arrow fired true.
 
-**Weapon and Armor Proficiency**: Zen archers are proficient with longbows, shortbows, composite longbows, and composite shortbows in addition to their normal weapon proficiencies.
+**Weapon and Armor Proficiency**: Zen archers are proficient with [longbows](../../equipment/weapons-martial.md#martial-ranged-weapons), [shortbows](../../equipment/weapons-martial.md#martial-ranged-weapons), [composite longbows](../../equipment/weapons-martial.md#martial-ranged-weapons), and [composite shortbows](../../equipment/weapons-martial.md#martial-ranged-weapons) in addition to their normal weapon proficiencies.
 
 **Flurry of Blows (Ex)**: Starting at 1st level, a zen archer can make a flurry of blows as a full-attack action, but only when using a bow (even though it is a ranged weapon).
 
@@ -412,7 +412,7 @@ The sohei are masters of the horse and the hunt. A monastic soldier, the sohei i
 
 **Skills**: A sohei gains Handle Animal as a class skill.
 
-**Weapon and Armor Proficiency**: A sohei is proficient with all simple and martial weapons and with light armor, instead of a monk's usual weapon and armor proficiencies. This ability alters the monk's weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: A sohei is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md) and with [light armor](../../equipment/armor.md), instead of a monk's usual weapon and armor proficiencies. This ability alters the monk's weapon and armor proficiencies.
 
 **Bonus Feats**: A sohei may select mounted combat feats as bonus feats.
 
@@ -450,7 +450,7 @@ Menhir guardians are ascetic protectors of sacred druidic sites, less concerned 
 
 **Alignment**: A menhir guardian can be lawful neutral, neutral good, neutral evil, or neutral. While they can work with chaotic allies, they cannot themselves be chaotic. This alters the monk’s alignment requirement.
 
-**Weapon and Armor Proficiency**: A menhir guardian is proficient with the club, dagger, dart, quarterstaff, sickle, shortspear, sling, and spear. A menhir guardian can use these weapons in conjunction with his wild flurry ability. This replaces the monk’s weapon and armor proficiency.
+**Weapon and Armor Proficiency**: A menhir guardian is proficient with the [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [dagger](../../equipment/weapons-simple.md#simple-light-melee-weapons), [dart](../../equipment/weapons-simple.md#simple-ranged-weapons), [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), [sickle](../../equipment/weapons-simple.md#simple-light-melee-weapons), [shortspear](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [sling](../../equipment/weapons-simple.md#simple-ranged-weapons), and [spear](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons). A menhir guardian can use these weapons in conjunction with his wild flurry ability. This replaces the monk’s weapon and armor proficiency.
 
 **Claws (Ex)**: A menhir guardian learns to draw upon natural forces to subtly change his body. He gains the shifter’s shifter claws class feature and treats his monk level as his shifter level for the purposes of this ability. The menhir guardian cannot use the ki strike aspect of ki pool. This replaces unarmed strike and alters ki pool.
 
@@ -846,7 +846,7 @@ Monks of the hellcat sect follow the teachings of an infernal power. Their bruta
 
 **Class Skills**: A hellcat gains Knowledge (planes) and Survival as class skills, instead of Craft, Knowledge (history), Perform, and Profession. This alters the monk's class skills.
 
-**Weapon Proficiency**: A hellcat is proficient with the club, crossbow (light or heavy), dagger, kama, light mace, nunchaku, quarterstaff, repeating crossbow (light or heavy), sai, shuriken, and siangham. In addition to monk weapons and unarmed strikes, a hellcat can use a light mace to perform a flurry of blows. This replaces the monk's weapon proficiencies.
+**Weapon Proficiency**: A hellcat is proficient with the [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), crossbow (light or heavy), [dagger](../../equipment/weapons-simple.md#simple-light-melee-weapons), [kama](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [light mace](../../equipment/weapons-simple.md#simple-light-melee-weapons), [nunchaku](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), repeating crossbow (light or heavy), [sai](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [shuriken](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), and [siangham](../../equipment/weapons-exotic.md#exotic-light-melee-weapons). In addition to monk weapons and unarmed strikes, a hellcat can use a light mace to perform a flurry of blows. This replaces the monk's weapon proficiencies.
 
 **Bonus Feat**: A hellcat selects bonus feats from the following list: [Aspect of the Beast](../../rules/feats/aspect-of-the-beast.md), Blind-Fight, Combat Reflexes, Dodge, Diehard, Improved Grapple, and Power Attack. At 6th level, the following feats are added to the list: Critical Focus, Greater Grapple, Improved Blind-Fight, Mobility, and Stalwart. At 10th level, the following feats are added to the list: [Bleeding Critical](../../rules/feats/bleeding-critical.md), Greater Blind-Fight, Improved Critical, [Improved Stalwart](../../rules/feats/improved-stalwart.md), and Spring Attack. This ability alters the monk's bonus feat ability.
 
@@ -974,7 +974,7 @@ Vested powers are abilities that draw on an invested regent's investiture pool. 
 
 *Monk and unchained monk archetype.* The practices of softstrike monks date back to peaceful eras of the distant past. Still common among warriors today, softstrike monks employ a nonlethal but effective form of combat.
 
-**Weapon Proficiency**: A softstrike monk is proficient with the aklys, bolas, club, light flail, light mace, nunchaku, quarterstaff, sap, sling, and any weapon with the monk special quality that can deal bludgeoning damage. He is considered proficient only with monk weapons that can deal multiple types of damage when dealing bludgeoning damage. This replaces the monk's weapon proficiency.
+**Weapon Proficiency**: A softstrike monk is proficient with the [aklys](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [bolas](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [light flail](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [light mace](../../equipment/weapons-simple.md#simple-light-melee-weapons), [nunchaku](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), [sap](../../equipment/weapons-martial.md#martial-light-melee-weapons), [sling](../../equipment/weapons-simple.md#simple-ranged-weapons), and any weapon with the monk special quality that can deal bludgeoning damage. He is considered proficient only with monk weapons that can deal multiple types of damage when dealing bludgeoning damage. This replaces the monk's weapon proficiency.
 
 **Feather Touch (Ex)**: A softstrike monk does not take the normal –4 penalty on attack rolls for using a lethal weapon to deal nonlethal damage. In addition, he can use his stunning fist ability while making a nonlethal attack with a weapon.
 
@@ -1006,7 +1006,7 @@ Vested powers are abilities that draw on an invested regent's investiture pool. 
 
 *Monk archetype.* Some who study the mysteries of the fate deck do so to restore lost knowledge and pride to their people. The fate warden fulfills this role as she seeks to bring her mind and body into alignment, and she protects her people by invoking the folklore that has guided them for so long. In mastering her own place in fate, a fate warden learns how to misalign the destinies of others.
 
-**Weapon and Armor Proficiency**: The fate warden is proficient with all simple weapons, as well as with the klar, rapier, short sword, and starknife. Additionally, fate wardens treat starknives as monk weapons. This alters the monk's weapon proficiencies.
+**Weapon and Armor Proficiency**: The fate warden is proficient with all [simple weapons](../../equipment/weapons-simple.md), as well as with the [klar](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons), and [starknife](../../equipment/weapons-martial.md#martial-light-melee-weapons). Additionally, fate wardens treat starknives as monk weapons. This alters the monk's weapon proficiencies.
 
 **Jinx Strike (Su)**: At 1st level, the fate warden can make an unarmed strike against a target and curse the creature with bad luck. Foes damaged by a jinx strike must succeed at a Will save (DC 10 + 1/2 the monk's level + the monk's Wisdom modifier) or become jinxed. A jinxed creature must roll twice whenever it attempts an attack roll, a saving throw, a skill check, or a caster level check for 1 round, taking the lower result in each instance. The fate warden can use jinx strike once per day per monk level. She must declare that she is using a jinx strike before making the attack roll; thus, a failed roll wastes the attempt. At 4th level and again at 12th level, the jinx effect lasts an additional round. At 16th level, a fate warden can expend two uses of jinx strike to instead curse her target as the [*bestow curse*](../../magic/spells/bestow-curse.md) spell. This ability replaces stunning fist.
 

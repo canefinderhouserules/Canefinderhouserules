@@ -33,7 +33,7 @@ To qualify to become a sacred sentinel, a character must fulfill all of the foll
 
 **Feats**: Endurance, Toughness.
 
-**Special**: Proficiency with light, medium, and heavy armor and all shields (other than tower shields).
+**Special**: Proficiency with light, medium, and [heavy armor](../../equipment/armor.md) and all [shields](../../equipment/armor.md) (other than [tower shields](../../equipment/armor.md)).
 
 ### Class Skills
 

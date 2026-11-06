@@ -246,7 +246,7 @@ As slaves of capricious oni lords, your ancestors were forced to yield to their 
 
 **Bonus Spells**: *ray of enfeeblement* (3rd), *invisibility* (5th), *fly* (7th), [*charm monster*](../../magic/spells/charm-monster.md) (9th), [*cone of cold*](../../magic/spells/cone-of-cold.md) (11th), *greater dispel magic* (13th), [*waves of exhaustion*](../../magic/spells/waves-of-exhaustion.md) (15th), [*trap the soul*](../../magic/spells/trap-the-soul.md) (17th), [*dominate monster*](../../magic/spells/dominate-monster.md) (19th).
 
-**Bonus Feats**: Combat Expertise, [Combat Reflexes](../../rules/feats/combat-reflexes.md), Enforcer, [Fast Healer](../../rules/feats/fast-healer.md), Improved Initiative, Iron Will, Power Attack, Skill Focus (Intimidate), Exotic Weapon Proficiency (katana).
+**Bonus Feats**: Combat Expertise, [Combat Reflexes](../../rules/feats/combat-reflexes.md), Enforcer, [Fast Healer](../../rules/feats/fast-healer.md), Improved Initiative, Iron Will, Power Attack, Skill Focus (Intimidate), Exotic Weapon Proficiency ([katana](../../equipment/weapons-eastern.md#exotic-one-handed-melee-weapons)).
 
 **Bloodline Arcana**: Whenever you cast a spell of the charm or compulsion subschool, you gain a bonus on Bluff, Diplomacy, and Intimidate skill checks equal to the level of the spell for 1d4 rounds.
 
@@ -296,7 +296,7 @@ At some point in your family’s history, one of your ancestors was tainted by t
 
 **Bonus Spells**: charm person (3rd), invisibility (5th), suggestion (7th), detect scrying (9th), prying eyes (11th), mass suggestion (13th), greater polymorph (15th), mind blank (17th), dominate monster (19th).
 
-**Bonus Feats**: [Arcane Armor Mastery](../../rules/feats/arcane-armor-mastery.md), [Arcane Armor Training](../../rules/feats/arcane-armor-training.md), Deceptive, [Detect Expertise](../../rules/feats/detect-expertise.md)\*, Light Armor Proficiency, Martial Weapon Proficiency, Mystic Motif\*, Stealthy.
+**Bonus Feats**: [Arcane Armor Mastery](../../rules/feats/arcane-armor-mastery.md), [Arcane Armor Training](../../rules/feats/arcane-armor-training.md), Deceptive, [Detect Expertise](../../rules/feats/detect-expertise.md)\*, [Light Armor](../../equipment/armor.md) Proficiency, Martial Weapon Proficiency, Mystic Motif\*, Stealthy.
 
 **Bloodline Arcana**: Add half your sorcerer level to the Spellcraft DC for others to identify spells you cast. If their checks fail by 5 or more, they mistakenly believe you are casting an entirely different spell (selected by you when you begin casting).
 

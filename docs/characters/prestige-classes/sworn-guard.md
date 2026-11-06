@@ -45,7 +45,7 @@ The following are class features of the sworn guard prestige class.
 
 **Alert Guardian (Ex)**: A sworn guard with this dedication can enter a rage as an immediate action, and can do so even when flat-footed or during a surprise round in which she cannot otherwise act.
 
-**Clothed in Civilization (Ex)**: The sworn guard gains proficiency in heavy armor. At 5th level, if the sworn guard has the barbarian fast movement ability, she can use her fast movement ability while wearing heavy armor. This does not negate the penalties to movement imposed by the armor itself.
+**Clothed in Civilization (Ex)**: The sworn guard gains proficiency in [heavy armor](../../equipment/armor.md). At 5th level, if the sworn guard has the barbarian fast movement ability, she can use her fast movement ability while wearing heavy armor. This does not negate the penalties to movement imposed by the armor itself.
 
 **Curiosity (Ex)**: The sworn guard's peculiar nature makes her an object of intrigue. Civilized people are fascinated by the "tamed" barbarian, while more barbaric cultures are fascinated by her choice to turn her back on her heritage. The sworn guard gains a bonus equal to her class level on Diplomacy checks.
 

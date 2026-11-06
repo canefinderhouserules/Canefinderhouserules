@@ -22,7 +22,7 @@ A vigilante’s class skills are Acrobatics (Dex), Appraise (Int), Bluff (Cha), 
 
 The following are the class features of the vigilante.
 
-**Weapon and Armor Proficiency**: Vigilantes are proficient with all simple and martial weapons, light armor, medium armor, and shields (except tower shields).
+**Weapon and Armor Proficiency**: Vigilantes are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 **Dual Identity (Ex)**: A vigilante hides his true identity, allowing him to move about social circles and nobility without carrying the stigma of his ruthless actions. In effect, the vigilante has two identities: one is a polite member of society while the other is a skilled and cunning warrior. To keep up this charade, the vigilante usually has two names: his true name, used in polite company, and his vigilante name, used to strike fear in the hearts of those who oppose him. Knowledge checks about one do not reveal information about the other, unless the vigilante’s true identity revealed to the world at large.
 
@@ -191,7 +191,7 @@ If the vigilante uses any of these talents while in his social identity, he must
 
 **Foe Collision (Ex)**: The vigilante can shove one of his foes into another. When the vigilante deals hidden strike damage to a corporeal foe with a melee attack, he can also deal an amount of nonlethal damage equal to his reduced hidden strike damage to an opponent adjacent to the first (even if the second opponent is out of his reach). The damage is bludgeoning damage, and if the colliding foe has any natural attacks, the damage is also considered magic, evil, or any other type of damage the natural attack deals. Unlike normal vigilante talents that affect hidden strikes, this vigilante talent applies in all cases when the target is denied its Dexterity bonus to AC. Only a stalker vigilante can select this talent.
 
-**Heavy Training (Ex)**: The vigilante gains Heavy Armor Proficiency as a bonus feat, if he does not have that feat already. The armor skin vigilante talent also applies to heavy armor. At 16th level, if the vigilante has the armor skin vigilante talent, he can move at full speed in heavy armor. Only an avenger vigilante can select this talent.
+**Heavy Training (Ex)**: The vigilante gains [Heavy Armor](../../equipment/armor.md) Proficiency as a bonus feat, if he does not have that feat already. The armor skin vigilante talent also applies to heavy armor. At 16th level, if the vigilante has the armor skin vigilante talent, he can move at full speed in heavy armor. Only an avenger vigilante can select this talent.
 
 **Hide in Plain Sight (Ex)**: The vigilante can use Stealth to hide even when being observed. As long as he is within 10 feet of dim light (his own shadow doesn’t count), he can hide without anything to actually hide behind. Only a stalker vigilante of at least 8th level can select this talent.
 

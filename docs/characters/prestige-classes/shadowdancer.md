@@ -43,7 +43,7 @@ The shadowdancer’s class skills (and the key ability for each skill) are Acrob
 
 All of the following are features of the shadowdancer prestige class.
 
-**Weapon and Armor Proficiency**: Shadowdancers are proficient with the club, crossbow (hand, light, or heavy), dagger (any type), dart, mace, morningstar, quarterstaff, rapier, sap, shortbow (normal and composite), and short sword. Shadowdancers are proficient with light armor but not with shields.
+**Weapon and Armor Proficiency**: Shadowdancers are proficient with the [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), crossbow (hand, light, or heavy), [dagger](../../equipment/weapons-simple.md#simple-light-melee-weapons) (any type), [dart](../../equipment/weapons-simple.md#simple-ranged-weapons), mace, [morningstar](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [sap](../../equipment/weapons-martial.md#martial-light-melee-weapons), [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons) (normal and composite), and [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons). Shadowdancers are proficient with [light armor](../../equipment/armor.md) but not with [shields](../../equipment/armor.md).
 
 **Hide in Plain Sight (Su)**: A shadowdancer can use the Stealth skill even while being observed. As long as she is within 10 feet of an area of dim light, a shadowdancer can hide herself from view in the open without anything to actually hide behind. She cannot, however, hide in her own shadow.
 

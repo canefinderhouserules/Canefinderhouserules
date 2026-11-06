@@ -228,7 +228,7 @@ Many feyborn have low-light vision. Races that normally have darkvision (such as
 
 ### Military Tradition
 
-Several human cultures raise all children (or all children of a certain social class) to serve in the military or defend themselves with force of arms. They gain proficiency with up to two martial or exotic weapons appropriate to their culture. This racial trait replaces the bonus feat trait.
+Several human cultures raise all children (or all children of a certain social class) to serve in the military or defend themselves with force of arms. They gain proficiency with up to two martial or [exotic weapons](../../equipment/weapons-exotic.md) appropriate to their culture. This racial trait replaces the bonus feat trait.
 
 ### Practiced Hunter
 

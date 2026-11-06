@@ -106,7 +106,7 @@ A study of ballistics is a mix of chemistry and the practical application in usi
 
 **Marksmanship (Ex)**
 
-At 1st level, you gain Exotic Weapon Proficiency (firearms) if you do not possess it already from another source.
+At 1st level, you gain Exotic Weapon Proficiency ([firearms](../../../equipment/weapons-firearms.md)) if you do not possess it already from another source.
 
 **Gunsmith (Ex)**
 

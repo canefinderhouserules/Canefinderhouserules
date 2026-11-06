@@ -16,7 +16,7 @@ The fighter’s class skills are Climb (Str), Craft (Int), Handle Animal (Cha), 
 
 The following are class features of the fighter.
 
-**Weapon and Armor Proficiency**: A fighter is proficient with all simple and martial weapons and with all armor (heavy, light, and medium) and shields (including tower shields).
+**Weapon and Armor Proficiency**: A fighter is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md) and with all armor (heavy, light, and medium) and [shields](../../equipment/armor.md) (including [tower shields](../../equipment/armor.md)).
 
 **Bonus Feats**: At 1st level, and at every even level thereafter, a fighter gains a bonus feat in addition to those gained from normal advancement (meaning that the fighter gains a feat at every level). These bonus feats must be selected from those listed as combat feats, sometimes also called “fighter bonus feats.”
 

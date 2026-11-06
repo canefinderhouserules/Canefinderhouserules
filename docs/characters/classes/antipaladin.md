@@ -49,7 +49,7 @@ The antipaladin’s class skills are Bluff (Cha), Craft (Int), Disguise (Cha), H
 
 All of the following are class features of the antipaladin.
 
-**Weapon and Armor Proficiency**: Antipaladins are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
+**Weapon and Armor Proficiency**: Antipaladins are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), with all types of armor (heavy, medium, and light), and with [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 **Aura of Evil (Ex)**: The power of an antipaladin’s aura of evil (see the detect evil spell) is equal to his antipaladin level. A paladin who uses smite evil on an antipaladin deals 2 points of damage per paladin level on his first successful attack.
 

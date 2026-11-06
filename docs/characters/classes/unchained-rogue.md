@@ -43,7 +43,7 @@ The rogue’s class skills are Acrobatics (Dex), Appraise (Int), Bluff (Cha), Cl
 
 The following are the class features of the rogue.
 
-**Weapon and Armor Proficiencies**: Rogues are proficient with all simple weapons, plus the blade boot, hand crossbow, rapier, sap, short sword, shortbow, sword cane, and switchblade knife. They are proficient with light armor, but not with shields.
+**Weapon and Armor Proficiencies**: Rogues are proficient with all [simple weapons](../../equipment/weapons-simple.md), plus the [blade boot](../../equipment/weapons-martial.md#martial-light-melee-weapons), [hand crossbow](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [sap](../../equipment/weapons-martial.md#martial-light-melee-weapons), [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons), [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons), [sword cane](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and [switchblade knife](../../equipment/weapons-martial.md#martial-light-melee-weapons). They are proficient with [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
 
 **Sneak Attack**: If a rogue can catch an opponent when he is unable to defend himself effectively from her attack, she can strike a vital spot for extra damage.
 

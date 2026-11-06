@@ -73,7 +73,7 @@ Members of a mystical order of the gun, deadeye hexers gain power from mysteriou
 
 The following are class features of the deadeye hexer.
 
-**Weapon and Armor Proficiency:** Deadeye hexers are proficient with all simple weapons and firearms. They are proficient with light armor, but not shields. A deadeye hexer can cast his spells while wearing light armor without incurring the normal arcane spell failure penalty. Like any other arcane spellcaster, a deadeye hexer wearing medium or heavy armor incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass deadeye hexer still incurs the normal arcane spell failure chance for arcane spells received from other classes.
+**Weapon and Armor Proficiency:** Deadeye hexers are proficient with all [simple weapons](../../../equipment/weapons-simple.md) and [firearms](../../../equipment/weapons-firearms.md). They are proficient with [light armor](../../../equipment/armor.md), but not [shields](../../../equipment/armor.md). A deadeye hexer can cast his spells while wearing light armor without incurring the normal arcane spell failure penalty. Like any other arcane spellcaster, a deadeye hexer wearing medium or [heavy armor](../../../equipment/armor.md) incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass deadeye hexer still incurs the normal arcane spell failure chance for arcane spells received from other classes.
 
 **Spells:** A deadeye hexer casts arcane spells drawn from the Witch Spell List. A deadeye hexer must choose and prepare his spells ahead of time.
 

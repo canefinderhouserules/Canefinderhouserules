@@ -269,7 +269,7 @@ The following vigilante talents allow a vigilante to channel the echoes of his p
 
 **Steely Resolve (Ex)**: Three times per day, as an immediate action when the vigilante fails a Will saving throw against a mind-affecting effect, the vigilante can delay the effect's onset for a number of rounds equal to half his vigilante level, after which the vigilante is affected as normal by the entire effect. Rounds spent delaying the effect do not count toward the effect's duration.
 
-**Weapon Familiarity (Ex)**: The vigilante selects either two simple or martial weapons or one exotic weapon when he gains this talent. He gains proficiency with his chosen weapon or weapons. At 8th level, he also gains Weapon Focus as a bonus feat for his selected weapon or weapons. Only an avenger vigilante can select this talent.
+**Weapon Familiarity (Ex)**: The vigilante selects either two simple or [martial weapons](../../equipment/weapons-martial.md) or one exotic weapon when he gains this talent. He gains proficiency with his chosen weapon or weapons. At 8th level, he also gains Weapon Focus as a bonus feat for his selected weapon or weapons. Only an avenger vigilante can select this talent.
 
 ## Psychic Discipline: Superiority
 

@@ -138,7 +138,7 @@ Adventurers who perish in the pursuit of greater knowledge are commemorated on a
 
 *Spells*: The name-keeper selects a second shaman spirit and adds the spells granted by that spirit to her list of spells that she can cast using spirit magic. She gains one additional spirit magic spell slot of her highest spell level. At 12th level, she selects two shaman spirits and adds both their granted spells to the list of spells she can cast using spirit magic. At 20th level, her number of spirit magic spell slots at each spell level increases to two.
 
-*Swords*: The name-keeper gains proficiency in all martial weapons and one exotic weapon of her choice. At 12th level, whenever she makes a full attack, she gains one additional attack at her highest base attack bonus; this ability stacks with the extra attack from [*haste*](../../magic/spells/haste.md), but it doesn’t stack with other abilities that grant extra attacks. At 20th level, she gains two combat feats for which she qualifies.
+*Swords*: The name-keeper gains proficiency in all [martial weapons](../../equipment/weapons-martial.md) and one exotic weapon of her choice. At 12th level, whenever she makes a full attack, she gains one additional attack at her highest base attack bonus; this ability stacks with the extra attack from [*haste*](../../magic/spells/haste.md), but it doesn’t stack with other abilities that grant extra attacks. At 20th level, she gains two combat feats for which she qualifies.
 
 This ability replaces wandering spirit.
 

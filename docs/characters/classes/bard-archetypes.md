@@ -982,7 +982,7 @@ A composer of sonorous laments for the dead and elaborate requiems for those los
 
 In some cultures, the professional entertainer is a prestigious role. Specially trained entertainers called geisha are praised for their appearance and skill at conversation, music, dancing, singing, poetry, and calligraphy. A geisha provides social intimacy and status but not physical intimacy.
 
-**Weapon and Armor Proficiency**: Geisha are proficient in all simple weapons and one monk weapon. Geisha are not proficient in any armor or shield; unlike bards, geisha are subject to arcane spell failure even when casting in light armor or when using a shield. This replaces the normal bard armor and weapon proficiencies.
+**Weapon and Armor Proficiency**: Geisha are proficient in all [simple weapons](../../equipment/weapons-simple.md) and one monk weapon. Geisha are not proficient in any armor or shield; unlike bards, geisha are subject to arcane spell failure even when casting in [light armor](../../equipment/armor.md) or when using a shield. This replaces the normal bard armor and weapon proficiencies.
 
 **Tea Ceremony (Su)**: By spending 10 minutes preparing an elaborate tea ceremony, a geisha may affect her allies with inspire courage, inspire competence, inspire greatness, or inspire heroics. The ceremony’s effects last 10 minutes. The geisha must spend 4 rounds of bardic performance for each creature to be affected.
 
@@ -1038,7 +1038,7 @@ This enhancement bonus increases by +1 for every three levels after 6th (maximum
 
 **Arcane Bond (Ex)**: At 5th level, an arcane duelist gains the arcane bond ability as a wizard, using a weapon as his bonded item, allowing him to cast any one additional spell that he knows once per day. He may not choose a familiar or other type of bonded item. He may use the hand holding his bonded weapon for somatic components. This ability replaces lore master.
 
-**Arcane Armor (Ex)**: At 10th level, an arcane duelist gains Medium Armor Proficiency and can cast bard spells in medium armor with no chance of arcane spell failure. At 16th level, he gains Heavy Armor Proficiency and can cast bard spells in heavy armor with no arcane spell failure. This ability replaces jack of all trades.
+**Arcane Armor (Ex)**: At 10th level, an arcane duelist gains [Medium Armor](../../equipment/armor.md) Proficiency and can cast bard spells in medium armor with no chance of arcane spell failure. At 16th level, he gains [Heavy Armor](../../equipment/armor.md) Proficiency and can cast bard spells in heavy armor with no arcane spell failure. This ability replaces jack of all trades.
 
 ### Archivist
 
@@ -1318,7 +1318,7 @@ Not all bards inspire others with their performances.
 
 Dervish dancers enter a near-mystical trance that allows them to push their bodies beyond normal limits.
 
-**Weapon and Armor Proficiency**: Dervish dancers gain weapon proficiency with the scimitar and kukri. This ability replaces their proficiency with the rapier and whip.
+**Weapon and Armor Proficiency**: Dervish dancers gain weapon proficiency with the [scimitar](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons) and [kukri](../../equipment/weapons-martial.md#martial-light-melee-weapons). This ability replaces their proficiency with the [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons) and [whip](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons).
 
 **Battle Dance**: A dervish dancer is trained in the use of the Perform skill, especially dance, to create magical effects on himself. This works like bardic performance, except the dervish dancer only affects himself, and does not need to be able to see or hear his own performance. Battle dancing is treated as bardic performance for the purposes of feats, abilities, effects, and the like that affect bardic performance, except that battle dancing does not benefit from the Lingering Performance feat or any other ability that allows a bardic performance to grant bonuses after it has ended. Battle dancing benefits apply only when the bard is wearing light or no armor. Like bardic performance, it cannot be maintained at the same time as other performance abilities.
 
@@ -1382,7 +1382,7 @@ Plant speakers build upon their racial plantspeech ability and their storytellin
 
 By tapping into the world’s natural music, specialized bards known as filidhs are able to see not only the tapestry of life but divine portents of the future from the rhythm of all life’s song.
 
-**Armor and Weapon Proficiency**: A filidh is proficient with light armor and is prohibited from wearing metal armor. A filidh can wear wooden armor that has been altered by the ironwood spell. Filidhs are proficient with shields (except tower shields) but can use only those made of wood.
+**Armor and Weapon Proficiency**: A filidh is proficient with [light armor](../../equipment/armor.md) and is prohibited from wearing metal armor. A filidh can wear wooden armor that has been altered by the ironwood spell. Filidhs are proficient with [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)) but can use only those made of wood.
 
 A filidh who wears prohibited armor or uses a prohibited shield is unable to cast bard spells or use any of his supernatural or spell-like class abilities while doing so and for 24 hours thereafter. This alters a bard’s normal armor and weapon proficiencies.
 
@@ -1720,7 +1720,7 @@ Elaborate operas are staples of civilized society, and as with any kind of theat
 
 **Prima Donna (Ex)**: At 2nd level, as her efforts to outdo her rivals increase, a diva can spend additional rounds of bardic performance to augment countersong, deadly performance, fascinate, frightening tune, and scathing tirade (see below). When used, this ability gives her a +2 bonus on her Perform check or saving throw DC for those performances. The diva must spend an additional round of bardic performance for every round she uses prima donna to increase her Perform check result or saving throw DC. This ability replaces well-versed.
 
-**Costume Proficiency (Ex)**: At 5th level, the diva has become so used to wearing strange and cumbersome costumes for her performances that she gains medium armor proficiency and can cast bard spells while wearing medium armor without incurring the normal arcane spell failure chance. At 11th level, she gains heavy armor proficiency and can cast bard spells while wearing heavy armor without incurring the normal arcane spell failure chance. A multiclassed diva still incurs the normal arcane spell failure chance for arcane spells received from other classes. This ability replaces lore master.
+**Costume Proficiency (Ex)**: At 5th level, the diva has become so used to wearing strange and cumbersome costumes for her performances that she gains [medium armor](../../equipment/armor.md) proficiency and can cast bard spells while wearing medium armor without incurring the normal arcane spell failure chance. At 11th level, she gains [heavy armor](../../equipment/armor.md) proficiency and can cast bard spells while wearing heavy armor without incurring the normal arcane spell failure chance. A multiclassed diva still incurs the normal arcane spell failure chance for arcane spells received from other classes. This ability replaces lore master.
 
 **Bardic Performance**: A diva gains the following bardic performances. This can never be performed more quickly than a standard action.
 
@@ -1732,7 +1732,7 @@ Elaborate operas are staples of civilized society, and as with any kind of theat
 
 Worshipers of a deity of healing and the sun who come from regions where the stern, evil-smiting element of the faith is more common may become religious mystics who use a spinning dance as part of their worship. Many bards of such faiths hone their skills with dance and scimitar to become dervish dancers, but some tread a similar path focused more on magic and healing than swordplay. These are the healing dervishes.
 
-**Weapon and Armor Proficiency**: Healing dervishes gain weapon proficiency with the scimitar. This ability replaces their proficiency with the rapier and whip.
+**Weapon and Armor Proficiency**: Healing dervishes gain weapon proficiency with the [scimitar](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons). This ability replaces their proficiency with the [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons) and [whip](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons).
 
 **Deity**: A healing dervish must be a worshiper of a deity of healing and the sun. A dervish who abandons or betrays this faith reverts to a standard bard.
 
@@ -1900,7 +1900,7 @@ This ability alters bardic performance and replaces countersong and distraction.
 
 Jugglers are masters of manipulating objects, most famously by keeping multiple objects in the air simultaneously. They often incorporate this talent into acting, comedy, or dance. Adventuring jugglers find their abilities translate well into the use of thrown weapons.
 
-**Weapon and Armor Proficiencies**: A juggler is proficient with all simple weapons, plus martial thrown weapons. This replaces his normal weapon proficiencies. A juggler is not proficient with shields.
+**Weapon and Armor Proficiencies**: A juggler is proficient with all [simple weapons](../../equipment/weapons-simple.md), plus martial thrown weapons. This replaces his normal weapon proficiencies. A juggler is not proficient with [shields](../../equipment/armor.md).
 
 **Fast Reactions (Ex)**: At 1st level, a juggler gains [Deflect Arrows](../../rules/feats/deflect-arrows.md) as a bonus feat. At 5th level, he gains [Snatch Arrows](../../rules/feats/snatch-arrows.md) as a bonus feat. The juggler doesn't need to meet the prerequisites for these feats. The juggler can use the ability granted by these feats an additional time each round at 11th level (with a –5 penalty on his second attack roll) and at 17th level (with a –10 penalty on his third attack roll). This ability replaces bardic knowledge and lore master.
 
@@ -1926,7 +1926,7 @@ Studied in venomous words as well as venomous blood, a disciple of the forked to
 
 Originating from the wooded wilds, longbow minstrels combine the elven traditions of archery, song, and spellcasting into a seamless harmony of dazzling magical effects. This archetype represents an amalgam of arcane advice on opposing spellcasters, and a strong preference for archery.
 
-**Weapon Proficiency**: A longbow minstrel is proficient with longbows, but not the longsword, rapier, or whip. This alters the bard's weapon proficiencies.
+**Weapon Proficiency**: A [longbow](../../equipment/weapons-martial.md#martial-ranged-weapons) minstrel is proficient with longbows, but not the [longsword](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), or [whip](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons). This alters the bard's weapon proficiencies.
 
 **Diminished Spellcasting**: A longbow minstrel casts one fewer spell of each level than normal. If this reduces the number to 0, she can cast spells of that level only if her Charisma score allows bonus spells of that level. This alters the bard's spellcasting.
 
@@ -2004,7 +2004,7 @@ Bards may have different reasons for wanting to heal the sick and injured, both 
 
 A dwarven scholar researches the lineage of the kings of the old dwarven empires and learns their ancient tactics. She keeps these ancient traditions alive by sharing them with her allies.
 
-**Weapon and Armor Proficiency**: A dwarven scholar is proficient with one weapon of her choosing with the word "dwarven" in its name, in addition to her normal weapon proficiencies. She is not proficient with shields. This alters the bard's weapon and armor proficiency.
+**Weapon and Armor Proficiency**: A dwarven scholar is proficient with one weapon of her choosing with the word "dwarven" in its name, in addition to her normal weapon proficiencies. She is not proficient with [shields](../../equipment/armor.md). This alters the bard's weapon and armor proficiency.
 
 **Studied Insight (Ex)**: A dwarven scholar uses her Wisdom modifier instead of her Charisma modifier to determine all class features and effects relating to her bard class, including her bardic performance ability, bonus spells per day, the maximum spell level she can cast, and the save DCs of her spells.
 
@@ -2044,7 +2044,7 @@ Beginning at 12th level, the hoaxer adds the following major hexes to the list o
 
 Dragon heralds are messengers and evangelists of true dragonkind. They carry the word of their dragon patrons far and wide, whether that's a message of peace or a declaration of war. A kobold whose scales already associate her with a revered dragon is often trained as her tribe's dragon herald.
 
-**Weapon and Armor Proficiency**: The dragon herald is proficient with simple weapons and light armor, but not with shields. Like other bards, dragon heralds don't incur the normal arcane spell failure chance from wearing light armor.
+**Weapon and Armor Proficiency**: The dragon herald is proficient with [simple weapons](../../equipment/weapons-simple.md) and [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md). Like other bards, dragon heralds don't incur the normal arcane spell failure chance from wearing light armor.
 
 **Dragon Patron (Ex)**: A dragon herald must choose a particular true dragon species whose glory to extol. In most cases this is a dragon with whom the herald is familiar, but it could be a dragon deity, a long-dead dragon hero, or even an entire dragon lineage. The energy type associated with her dragon patron (as shown on the draconic bloodline table) determines the energy type used by several of her abilities. She must also designate a sacred space relevant to her dragon choice, usually the lair of a patron dragon or a shrine or holy place associated with a dragon type.
 
@@ -2153,7 +2153,7 @@ Once practiced by the dwarves during their ancient migration from the Underworld
 
 The lotus geisha of the eastern empires are renowned for their powers of seduction, and tales tell of lotus geisha disarming foes and bolstering allies.
 
-**Weapon Proficiency**: A lotus geisha is proficient with all simple weapons, plus the butterfly sword, fighting fan, iron brush, sai, shortbow, and shuriken. This replaces the normal bard weapon proficiencies.
+**Weapon Proficiency**: A lotus geisha is proficient with all [simple weapons](../../equipment/weapons-simple.md), plus the [butterfly sword](../../equipment/weapons-eastern.md#martial-light-melee-weapons), [fighting fan](../../equipment/weapons-eastern.md#exotic-light-melee-weapons), [iron brush](../../equipment/weapons-eastern.md#martial-light-melee-weapons), [sai](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons), and [shuriken](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1). This replaces the normal bard weapon proficiencies.
 
 **Enrapturing Performance (Su)**: At 2nd level, a lotus geisha gains the ability to execute an enrapturing performance in addition to her bardic performance ability. An enrapturing performance is exactly like a bardic performance with the following exceptions.
 

@@ -28,7 +28,7 @@ Half-orcs are monstrosities, their tragic births the result of perversion and vi
 
 **Orc Ferocity**: Once per day, when a half-orc is brought below 0 hit points but not killed, he can fight on for one more round as if disabled. At the end of his next turn, unless brought to above 0 hit points, he immediately falls unconscious and begins dying.
 
-**Weapon Familiarity**: Half-orcs are proficient with greataxes and falchions and treat any weapon with the word “orc” in its name as a martial weapon.
+**Weapon Familiarity**: Half-orcs are proficient with [greataxes](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons) and [falchions](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons) and treat any weapon with the word “orc” in its name as a martial weapon.
 
 **Languages**: Half-orcs begin play speaking Common and Orc. Half-orcs with high Intelligence scores can choose from the following: Abyssal, Draconic, Giant, Gnoll, and Goblin.
 
@@ -42,7 +42,7 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Cavewight**: Some half-orcs live far from the surface, seeking solace in winding cave complexes. Half-orcs with this racial trait gain a +1 bonus on Knowledge (dungeoneering) and Survival checks made underground. This racial trait replaces the intimidating racial trait.
 
-**Chain Fighter**: Some half-orcs have escaped from slavery and reforged the chains of their imprisonment into deadly weapons. Half-orcs with this racial trait are proficient with flails and heavy flails, and treat dire flails and spiked chains as martial weapons. This trait replaces the weapon familiarity racial trait.
+**Chain Fighter**: Some half-orcs have escaped from slavery and reforged the chains of their imprisonment into deadly weapons. Half-orcs with this racial trait are proficient with flails and [heavy flails](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), and treat [dire flails](../../equipment/weapons-exotic.md#exotic-two-handed-melee-weapons) and [spiked chains](../../equipment/weapons-exotic.md#exotic-two-handed-melee-weapons) as [martial weapons](../../equipment/weapons-martial.md). This trait replaces the weapon familiarity racial trait.
 
 **Gatecrasher**: Many half-orcs revel in acts of wanton destruction. Half-orcs with this racial trait gain a +2 bonus on Strength checks to break objects and a +2 bonus on sunder attempts. This racial trait replaces the orc ferocity racial trait.
 
@@ -62,7 +62,7 @@ The following racial traits might be selected instead of existing racial traits.
 
 **Acute Darkvision**: Some half-orcs have exceptionally sharp darkvision, gaining darkvision 90 feet. This racial trait replaces orc ferocity.
 
-**City-Raised**: Half-orcs with this trait know little of their orc ancestry and were raised among humans and other half-orcs in a large city. City-raised half-orcs are proficient with whips and longswords, and receive a +2 racial bonus on Knowledge (local) checks. This racial trait replaces weapon familiarity.
+**City-Raised**: Half-orcs with this trait know little of their orc ancestry and were raised among humans and other half-orcs in a large city. City-raised half-orcs are proficient with [whips](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons) and [longswords](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and receive a +2 racial bonus on Knowledge (local) checks. This racial trait replaces weapon familiarity.
 
 **Forest Walker**: More at home in the forests and jungles of the world, these half-orcs are well adapted to their surroundings. Half-orcs with this trait have low-light vision and gain a +2 racial bonus on Climb checks. This racial trait replaces darkvision.
 

@@ -37,7 +37,7 @@ The Mortal Usher’s class skills are Bluff (Cha), Diplomacy (Cha), Fly (Dex), I
 
 The following are class features of the mortal usher.
 
-**Weapon and Armor Proficiency**: A mortal usher gains proficiency with whips and scythes.
+**Weapon and Armor Proficiency**: A mortal usher gains proficiency with [whips](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons) and [scythes](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons).
 
 **Reaping Strike (Su)**: At 1st level, whenever a mortal usher deals hit point damage by using the attack action, casting a spell that targets only a single creature, or throwing an alchemical item as a standard action (including an alchemist’s bombs), he deals an additional 1d6 points of damage to the target, plus an additional 1d6 points of damage for every 2 additional class levels he has beyond 1st. This damage is positive energy damage if the target is undead, or negative energy damage if the target is living; creatures that are neither living nor dead, such as constructs, are unaffected by this ability.
 

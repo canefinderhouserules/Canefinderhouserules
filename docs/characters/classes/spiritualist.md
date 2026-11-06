@@ -70,7 +70,7 @@ The spiritualist’s class skills are Bluff (Cha), Craft (Int), Fly (Dex), Heal 
 
 The following are the class features of the spiritualist.
 
-**Weapon and Armor Proficiency**: A spiritualist is proficient with all simple weapons, kukris, saps, and scythes, as well as with light armor.
+**Weapon and Armor Proficiency**: A spiritualist is proficient with all [simple weapons](../../equipment/weapons-simple.md), [kukris](../../equipment/weapons-martial.md#martial-light-melee-weapons), [saps](../../equipment/weapons-martial.md#martial-light-melee-weapons), and [scythes](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), as well as with [light armor](../../equipment/armor.md).
 
 **Spells**: A spiritualist casts psychic spells drawn from the spiritualist spell list. She can cast any spell she knows without preparing it ahead of time, assuming she has not yet used up her allotment of spells per day for the spell’s level. To learn or cast a spell, a spiritualist must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a spiritualist’s spell equals 10 + the spell level + the spiritualist’s Wisdom modifier.
 

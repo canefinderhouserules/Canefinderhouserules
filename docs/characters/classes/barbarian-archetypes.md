@@ -462,7 +462,7 @@ A flesheater eats flesh to create a spiritual bond between herself and the consu
 
 Some barbarians disdain the hides and leather used as armor by most of their kin. Instead they master the heaviest of armors, even those created by more civilized people, to gain greater protection and stability in battle.
 
-**Weapon and Armor Proficiency**: An armored hulk gains proficiency in heavy armor.
+**Weapon and Armor Proficiency**: An armored hulk gains proficiency in [heavy armor](../../equipment/armor.md).
 
 **Indomitable Stance (Ex)**: An armored hulk gains a +1 bonus on combat maneuver checks and to CMD for overrun combat maneuvers, and on Reflex saves against trample attacks. She also gains a +1 bonus to her AC against charge attacks and on attack and damage rolls against charging creatures. This ability replaces fast movement.
 
@@ -494,7 +494,7 @@ This replaces improved uncanny dodge.
 
 Not all barbarians hunt forests, plains, and mountains. Some are raiding terrors on the sea and coasts, pillaging those who hoard treasure and pursuing monsters of the deep. Some sea reavers are no more than hunters of the open sea, while others are raiders striking fear into coastal settlements within reach of the sea reavers’ longships.
 
-**Weapon and Armor Proficiency**: A sea reaver is not proficient with medium armor.
+**Weapon and Armor Proficiency**: A sea reaver is not proficient with [medium armor](../../equipment/armor.md).
 
 **Marine Terror (Ex)**: A sea reaver can hold her breath for a number of rounds equal to four times her Constitution score. In addition, a sea reaver can move normally though squares of standing water or bog that is 1 foot deep. It does not cost her extra movement to traverse these terrains. Lastly, a sea reaver ignores the normal cover bonus to AC when attacking creatures that are partially immersed in water. This ability replaces fast movement.
 
@@ -526,7 +526,7 @@ In lands overrun by giants, dragons, and other hulking beasts, entire fellowship
 
 Isolated and xenophobic tribes that dwell in areas untouched by civilization often see anything from cities and organized settlements as strange, dangerous, and decadent. They gain power from their truly primitive nature; their bodies and spirits are hardened by the wild and untainted existence far from the pathetic softness of so-called civilization. Even when forced to mingle with civilization, the true primitive stays apart in both traditions and trappings.
 
-**Weapon and Armor Proficiency**: A true primitive is proficient with hide armor and armors made from bone. A true primitive is also proficient with bone shields and the following weapons: battleaxe, blowgun, club, greatclub, handaxe, longspear, shortspear, sling, and spear.
+**Weapon and Armor Proficiency**: A true primitive is proficient with hide armor and armors made from bone. A true primitive is also proficient with bone [shields](../../equipment/armor.md) and the following weapons: [battleaxe](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [blowgun](../../equipment/weapons-simple.md#simple-ranged-weapons), [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [greatclub](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), [handaxe](../../equipment/weapons-martial.md#martial-light-melee-weapons), [longspear](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), [shortspear](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [sling](../../equipment/weapons-simple.md#simple-ranged-weapons), and [spear](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons).
 
 **Illiteracy**: A true primitive cannot read or write, and her superstition about such things leads her to refuse to ever learn to read or write, even if she multiclasses into other classes.
 
@@ -540,7 +540,7 @@ Isolated and xenophobic tribes that dwell in areas untouched by civilization oft
 
 Every barbarian knows that city life can soften the spirit and the body, but some barbarians take on the trappings and ways of their adoptive homes and bend their savage powers to its challenges. While these urban barbarians’ rough edges are smoothed into civility, they can use their primal nature and upbringing to move with the ebb and flow of civilization’s natural rhythms.
 
-**Weapon and Armor Proficiency**: An urban barbarian is not proficient with medium armor.
+**Weapon and Armor Proficiency**: An urban barbarian is not proficient with [medium armor](../../equipment/armor.md).
 
 **Skills**: An urban barbarian does not gain Handle Animal (Cha), Knowledge (nature) (Int), or Survival (Wis) as class skills; instead, she gains Diplomacy (Cha), Knowledge (local) (Int), Knowledge (nobility) (Int), Linguistics (Int), and Profession (Wis) as class skills.
 
@@ -638,7 +638,7 @@ Coastal hunters and agents of the ocean’s rage, sharptooth barbarians emulate 
 
 Some barbarians are born or bred outside the reach of civilization. These wildborn fight and survive without ever seeing a forge or worked stone, and only dare a trip into the city when no other option is available.
 
-**Weapon and Armor Proficiencies**: A wildborn is proficient with leather and hide armors (but not shields) and all simple weapons that can be crafted from bone, stone, or wood. In addition, a wildborn gains Improved Unarmed Strike and Catch Off Guard as bonus feats at 1st level. If she uses any other kind of weapon or armor, she loses her abilities from this archetype (except illiteracy) for the next 24 hours. This alters the barbarian’s normal weapon and armor proficiencies.
+**Weapon and Armor Proficiencies**: A wildborn is proficient with leather and hide armors (but not [shields](../../equipment/armor.md)) and all [simple weapons](../../equipment/weapons-simple.md) that can be crafted from bone, stone, or wood. In addition, a wildborn gains Improved Unarmed Strike and Catch Off Guard as bonus feats at 1st level. If she uses any other kind of weapon or armor, she loses her abilities from this archetype (except illiteracy) for the next 24 hours. This alters the barbarian’s normal weapon and armor proficiencies.
 
 **Illiteracy**: A wildborn cannot read or write. She can learn to read or write a language only if she takes a level in another class, and even then only by taking 1 or more ranks in Linguistics. Live Off the Land (Ex): At 3rd level, a wildborn can survive capably in the wilderness without any sort of manufactured equipment or gear. She adds half her barbarian level as a bonus on Survival checks to hunt or gather food and gains a +1 bonus on Fortitude saves to resist the effects of extreme temperatures or other environmental effects; the Fortitude save bonus increases by 1 at 6th level and every 3 levels thereafter. This replaces trap sense.
 
@@ -652,7 +652,7 @@ Some barbarians are born or bred outside the reach of civilization. These wildbo
 
 Feral gnashers grow up in the wild, either raised by animals or scraping by on their own, and soon learn to fend for themselves. These barbarians often utilize pieced-together armor and fight with their sharp teeth and whatever improvised weapons are within reach. A feral gnasher has the following class features.
 
-**Weapon and Armor Proficiency**: A feral gnasher loses all martial weapon proficiencies except for greatclub and loses proficiency with medium armor.
+**Weapon and Armor Proficiency**: A feral gnasher loses all martial weapon proficiencies except for [greatclub](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons) and loses proficiency with [medium armor](../../equipment/armor.md).
 
 **Savage Bite (Ex)**: At 1st level, a feral gnasher gains a savage bite attack. This is a primary natural attack that deals 1d4 points of damage. If the goblin already has the hard head, big teeth racial trait, the damage increases to 1d6. At 10th level, the damage from a feral gnasher’s bite increases to 1d6 (or 1d8 if the goblin has the hard head, big teeth racial trait) and deals ×3 damage on a critical hit. This ability replaces fast movement.
 
@@ -862,7 +862,7 @@ Savage technologists exhort tribal peoples to rise up against the depredations o
 
 **Class Skills**: A savage technologist’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Diplomacy (Cha), Intimidate (Cha), Knowledge (local) (Int), Perception (Wis), Ride (Dex), Sense Motive (Wis), Survival (Wis), and Swim (Str).
 
-**Weapon and Armor Proficiency**: A savage technologist is proficient with all simple and martial weapons, all firearms, light armor, and shields (except tower shields).
+**Weapon and Armor Proficiency**: A savage technologist is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), all [firearms](../../equipment/weapons-firearms.md), [light armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 **Rage (Ex)**: A savage technologist can enter rage as a barbarian, except she gains a morale bonus to Strength and Dexterity instead of Strength and Constitution, and she does not take a penalty to Armor Class. She retains the bonus on Will saving throws. When a barbarian ability would increase the savage technologist’s Strength while raging, it increases her Dexterity instead. This ability alters rage.
 

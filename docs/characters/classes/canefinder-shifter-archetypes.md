@@ -621,7 +621,7 @@ An oozeling cannot use her shifter shape to transform into a magical beast.
 
 While most shifters are trained in druidic traditions that allow them to tap into animalistic powers, others look instead to the simplest forms of life for inspiration. Known as oozemorphs, these shifters focus on the ooze—a form of life as simple in construction as it is dangerous in combat. While some shifters consider the oozemorph to be unsettling or even vile, these shifters merely embrace a stranger form of life than most. They are not inherently evil, yet they are often misunderstood by druidic circles and these circles’ shifter champions.
 
-**Weapon and Armor Proficiency**: An oozemorph is proficient with all simple weapons and light armor. This replaces a shifter’s normal weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: An oozemorph is proficient with all [simple weapons](../../equipment/weapons-simple.md) and [light armor](../../equipment/armor.md). This replaces a shifter’s normal weapon and armor proficiencies.
 
 **Compression (Ex)**: An oozemorph gains compression as per the universal monster rule. This ability can be used regardless of the current form the oozemorph has taken.
 
@@ -697,7 +697,7 @@ At 20th level, the rageshaper can grow up to a maximum of three size categories 
 
 Among the many warriors that train in remote mountain monasteries, a select few have been able to perfect their combat techniques to the point where they can augment a combat style by partially transforming into the creature that inspired it. These style shifters have honed their techniques and shared them widely.
 
-**Armor Proficiency**: A style shifter is not proficient with medium armor or shields. This alters the shifter's armor proficiencies.
+**Armor Proficiency**: A style shifter is not proficient with [medium armor](../../equipment/armor.md) or [shields](../../equipment/armor.md). This alters the shifter's armor proficiencies.
 
 **Natural Strikes (Ex)**: A style shifter is considered to have Improved Unarmed Strike for the purposes of feat prerequisites and can apply the effects of feats that have Improved Unarmed Strike as a prerequisite to her shifter claws. This alters shifter claws.
 

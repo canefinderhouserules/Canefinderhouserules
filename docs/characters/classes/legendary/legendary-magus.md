@@ -48,7 +48,7 @@ Finally, magus arcana have been given a new list that includes both in and out o
 
 #### Weapon and Armor Proficiencies
 
-A legendary magus is proficient with all simple and martial weapons. A legendary magus is also proficient with light and medium armor. She may cast magus spells while wearing light or medium armor without incurring the normal arcane spell failure chance.
+A legendary magus is proficient with all simple and [martial weapons](../../../equipment/weapons-martial.md). A legendary magus is also proficient with light and [medium armor](../../../equipment/armor.md). She may cast magus spells while wearing light or medium armor without incurring the normal arcane spell failure chance.
 
 Like any other arcane spellcaster, a legendary magus wearing heavy armor, or a shield incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass legendary magus still incurs the normal arcane spell failure chance for arcane spells received from other classes.
 

@@ -107,7 +107,7 @@ A spellblade magus can manifest a ghostly blade of force that can be used as an 
 
 While most magi use a one-handed weapon as their melee implement of choice, one group of magi uses the quarterstaff instead. These lightly armored magi use staves for both defense and inflicting their spells upon enemies. Skilled in manipulating these weapons with one hand or two, they eventually learn how to use arcane staves as well, and are just as formidable in combat as their sword-swinging brethren.
 
-**Weapon and Armor Proficiency**: A staff magus is proficient with simple weapons only. He can cast magus spells while wearing light armor without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a magus wearing medium armor or heavy armor or using a shield incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass magus still incurs the normal arcane spell failure chance for arcane spells received from other classes. This replaces the normal magus weapon and armor proficiency feature.
+**Weapon and Armor Proficiency**: A staff magus is proficient with [simple weapons](../../equipment/weapons-simple.md) only. He can cast magus spells while wearing [light armor](../../equipment/armor.md) without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a magus wearing [medium armor](../../equipment/armor.md) or [heavy armor](../../equipment/armor.md) or using a shield incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass magus still incurs the normal arcane spell failure chance for arcane spells received from other classes. This replaces the normal magus weapon and armor proficiency feature.
 
 **Quarterstaff Master (Ex)**: At 1st level, the staff magus gains the [Quarterstaff Master](../../rules/feats/quarterstaff-master.md) feat as a bonus feat, even if he does not meet the normal prerequisites. He only gains the benefit of this feat when wearing no armor or light armor.
 
@@ -181,7 +181,7 @@ If an eldritch scion takes levels in another class that grant a bloodline, the b
 
 Esoterics are drawn to the mysticism of the occult and spend their lives delving into forgotten texts and forbidden tomes. Each esoteric learns to inscribe his spells on his flesh in a complex series of occult symbols and arcane equations.
 
-**Weapon and Armor Proficiency**: An esoteric is proficient with simple weapons only. This alters the magus’s weapon and armor proficiency.
+**Weapon and Armor Proficiency**: An esoteric is proficient with [simple weapons](../../equipment/weapons-simple.md) only. This alters the magus’s weapon and armor proficiency.
 
 **Diminished Spellcasting**: An esoteric has one fewer spell slot of each level than a regular magus. If this reduces his number of spell slots of a particular level to zero, he can cast spells of that level only if his Intelligence allows bonus spells of that level. This ability alters the magus’s spellcasting.
 
@@ -285,7 +285,7 @@ Pool Strike, Thunderous (Su): The magus can expend 1 additional point from his a
 
 A kensai spends his life focusing his training and meditation into a rapturous perfection of the use of a single weapon, which is usually but not always a sword, channeling his arcane might through it in a dizzying and deadly dance beyond the abilities of even the greatest of mundane warriors.
 
-**Weapon and Armor Proficiency**: A kensai is proficient in simple weapons and in a single martial or exotic melee weapon of his choice. A kensai is not proficient with armor or shields and suffers normal arcane spell failure chance when casting magus spells while armored.
+**Weapon and Armor Proficiency**: A kensai is proficient in [simple weapons](../../equipment/weapons-simple.md) and in a single martial or exotic melee weapon of his choice. A kensai is not proficient with armor or [shields](../../equipment/armor.md) and suffers normal arcane spell failure chance when casting magus spells while armored.
 
 **Diminished Spellcasting**: A kensai may cast one fewer spell of each level than normal. If this reduces the number to 0, he may cast spells of that level only if his Intelligence allows bonus spells of that level.
 
@@ -343,7 +343,7 @@ Sometimes called a shield-vassal or shieldmaiden, the skirnir has learned to inf
 
 **Arcane Pool**: At 1st level, a skirnir can use his arcane pool to grant an enhancement bonus to a weapon as normal, as well as to his shield, paying the arcane pool cost separately for each. At 5th level and above, he can also add the following shield special abilities: animated, arrow catching, arrow deflection, bashing, blinding, fortification (any), reflecting, spell resistance (any).
 
-**Sorcerous Shield (Ex)**: At 1st level, skirnirs are proficient with all types of shields, including tower shields, and do not suffer an arcane spell failure chance when casting magus spells while using a shield. They treat their magus levels as their fighter levels for the purpose of qualifying for shield-related feats. This ability replaces spell combat.
+**Sorcerous Shield (Ex)**: At 1st level, skirnirs are proficient with all types of [shields](../../equipment/armor.md), including [tower shields](../../equipment/armor.md), and do not suffer an arcane spell failure chance when casting magus spells while using a shield. They treat their magus levels as their fighter levels for the purpose of qualifying for shield-related feats. This ability replaces spell combat.
 
 **Spellstrike (Su)**: At 1st level, a skirnir may use this ability with a weapon or shield bash attack.
 
@@ -509,9 +509,9 @@ If the spell can normally affect multiple targets, only a single missile, ray, o
 
 Ruin defenders are magi who train themselves to accompany sages and archaeologists who venture into ancient sites, acting as aids and bodyguards. Because they often operate in difficult terrain—narrow trenches in dig sites, flooded dungeons, and tight corridors in ancient ruins—ruin defenders place mobility and agility at a premium. As a result, they eschew armor entirely. Most ruin defenders are elves—it's exceptionally rare for a non-elf to be granted access to the training required to take this archetype (non-elves need GM approval to take this archetype).
 
-**Weapon Proficiency**: A ruin defender is proficient with all light and one-handed simple and martial weapons, as well as one exotic light or one-handed melee weapon that has the disarm or trip special feature. This replaces the magus's normal weapon proficiencies.
+**Weapon Proficiency**: A ruin defender is proficient with all light and one-handed simple and [martial weapons](../../equipment/weapons-martial.md), as well as one exotic light or one-handed melee weapon that has the disarm or trip special feature. This replaces the magus's normal weapon proficiencies.
 
-**Bonus Feats (Ex)**: At 1st level, the ruin defender gains [Combat Expertise](../../rules/feats/combat-expertise.md) and Dodge as bonus feats, even if he doesn't meet the prerequisites. The ruin defender is not proficient in any kind of armor or shield. The ruin defender does not have the magus's ability to ignore arcane spell failure from armor; however, if the ruin defender becomes proficient in light armor, he automatically gains the magus's ability to ignore the arcane spell failure chance of light armor. If he becomes proficient in medium armor, at 7th level he ignores medium armor's chance of arcane spell failure. If he becomes proficient in heavy armor, at 13th level he ignores heavy armor's chance of arcane spell failure. This replaces the magus's normal armor proficiencies.
+**Bonus Feats (Ex)**: At 1st level, the ruin defender gains [Combat Expertise](../../rules/feats/combat-expertise.md) and Dodge as bonus feats, even if he doesn't meet the prerequisites. The ruin defender is not proficient in any kind of armor or shield. The ruin defender does not have the magus's ability to ignore arcane spell failure from armor; however, if the ruin defender becomes proficient in [light armor](../../equipment/armor.md), he automatically gains the magus's ability to ignore the arcane spell failure chance of light armor. If he becomes proficient in [medium armor](../../equipment/armor.md), at 7th level he ignores medium armor's chance of arcane spell failure. If he becomes proficient in [heavy armor](../../equipment/armor.md), at 13th level he ignores heavy armor's chance of arcane spell failure. This replaces the magus's normal armor proficiencies.
 
 **Arcane Augmentation (Su)**: At 4th level, a magus can expend 1 point from his arcane pool as a swift action to grant himself a +5 competence bonus for 1 minute to one of the following skills: Acrobatics, Climb, Escape Artist, Perception, Stealth, and Swim. For every three levels beyond 4th, the magus gains another +1 bonus, to a maximum of +10 at 19th level. This ability replaces the spell recall ability.
 
@@ -529,7 +529,7 @@ The sigilus can maintain only a single inscribed rune on a weapon at any time; i
 
 At 13th level, an inscribed sevenfold sigil grants energy resistance 10 to one energy type and energy resistance 5 to two other energy types, and its armor bonus increases to +2.
 
-A sevenfold sigil can be inscribed only on light armor—it cannot be inscribed on medium or heavy armor, even if the magus later gains proficiency with medium or heavy armor. This ability replaces medium armor and heavy armor.
+A sevenfold sigil can be inscribed only on [light armor](../../equipment/armor.md)—it cannot be inscribed on medium or [heavy armor](../../equipment/armor.md), even if the magus later gains proficiency with medium or heavy armor. This ability replaces [medium armor](../../equipment/armor.md) and heavy armor.
 
 ## First Magic Warrior
 
@@ -581,7 +581,7 @@ Puppetmasters focus on using charm and illusion spells to control the senses of 
 
 The first deep marshals were handpicked by a dwarven king to create massive tunnels to aid in an exodus to the surface. Largely unseen by visitors, deep marshals have survived into the modern era as keepers, protectors, and repairers of stony passages that travel around, through, and under mountain realms. Although the vast majority of deep marshals are dwarves, a few non-dwarves have earned enough trust to be trained as deep marshals, or have learned the same techniques from studying old dwarven spellbooks.
 
-**Weapon and Armor Proficiency**: A deep marshal is proficient with light armor, medium armor, and shields (except tower shields). A deep marshal can cast magus spells while wearing light armor or medium armor without incurring the normal spell failure chance. In addition, a deep marshal gains the heavy armor magus ability at 9th level. This ability alters the magus's armor proficiencies, the medium armor class feature, and the heavy armor class feature.
+**Weapon and Armor Proficiency**: A deep marshal is proficient with [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). A deep marshal can cast magus spells while wearing light armor or medium armor without incurring the normal spell failure chance. In addition, a deep marshal gains the [heavy armor](../../equipment/armor.md) magus ability at 9th level. This ability alters the magus's armor proficiencies, the medium armor class feature, and the heavy armor class feature.
 
 **Deep Spellcasting**: A deep marshal learns numerous arcane secrets involving the shaping and warding of earth and stone. She adds the following sorcerer/wizard spells to her magus spell list as magus spells of the same level: [*crafter's curse*](../../magic/spells/crafters-curse.md), [*crafter's fortune*](../../magic/spells/crafters-fortune.md), [*erase*](../../magic/spells/erase.md), [*expeditious excavation*](../../magic/spells/expeditious-excavation.md), [*fabricate*](../../magic/spells/fabricate.md), *greater make whole*, [*knock*](../../magic/spells/knock.md), [*major creation*](../../magic/spells/major-creation.md), [*make whole*](../../magic/spells/make-whole.md), [*mending*](../../magic/spells/mending.md), [*minor creation*](../../magic/spells/minor-creation.md), [*move earth*](../../magic/spells/move-earth.md), [*passwall*](../../magic/spells/passwall.md), [*stone shape*](../../magic/spells/stone-shape.md), [*transmute mud to rock*](../../magic/spells/transmute-mud-to-rock.md), [*transmute rock to mud*](../../magic/spells/transmute-rock-to-mud.md), and all 0- through 6th-level sorcerer/wizard spells of the abjuration school. She must still add such spells to her spellbook to prepare them. If a spell appears on both the magus and sorcerer/wizard spell lists, the magus uses the lower of the two spell levels listed for the spell. A deep marshal cannot cast spells from the enchantment, illusion, or necromancy school and she cannot activate spell-completion or spell-trigger magic items that use spells from those schools (without making a successful Use Magic Device check). This alters the magus's spellcasting.
 
@@ -631,7 +631,7 @@ The blending of martial prowess with elven magic has long been a staple of acade
 
 *Magus archetype.* Practitioners of this martial art, powered by arcane magic, wear an iron ring on the finger of one hand. This legacy has been handed down from the tradition's founders.
 
-**Weapon Proficiency**: An iron-ring striker is not proficient with martial weapons. This alters the magus's weapon proficiency.
+**Weapon Proficiency**: An iron-ring striker is not proficient with [martial weapons](../../equipment/weapons-martial.md). This alters the magus's weapon proficiency.
 
 **Diminished Spellcasting**: An iron-ring striker has one fewer spell slot of each level than a regular magus. If this reduces his number of spell slots of a particular level to 0, he can cast spells of that level only if his Intelligence allows bonus spells of that level. This alters the magus's spellcasting.
 
@@ -681,7 +681,7 @@ The blending of martial prowess with elven magic has long been a staple of acade
 
 For some wandering nomads, their traditional dances pulse with the power of their ancestors. These dancers incorporate their kapenias—scarves embroidered with the history of the bearer’s clan—into their dances, weaving deadly whirling steps with the power of their ancestors.
 
-**Weapon and Armor Proficiency**: A kapenia dancer is proficient in simple weapons and bladed scarves (see [Frontier Gear](../../equipment/gear-companions.md#frontier-gear)). Additionally, a kapenia dancer can wield a bladed scarf as a one-handed melee weapon. A kapenia dancer is not proficient with armor or shields and suffers the normal arcane spell failure chance when casting magus spells while armored.
+**Weapon and Armor Proficiency**: A kapenia dancer is proficient in [simple weapons](../../equipment/weapons-simple.md) and bladed scarves (see [Frontier Gear](../../equipment/gear-companions.md#frontier-gear)). Additionally, a kapenia dancer can wield a [bladed scarf](../../equipment/weapons-exotic.md#exotic-two-handed-melee-weapons) as a one-handed melee weapon. A kapenia dancer is not proficient with armor or [shields](../../equipment/armor.md) and suffers the normal arcane spell failure chance when casting magus spells while armored.
 
 **Diminished Spellcasting**: A kapenia dancer can cast one fewer spell of each level than normal. If this reduces the number to 0, he can cast spells of that level only if his Intelligence allows bonus spells of that level.
 

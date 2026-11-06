@@ -45,7 +45,7 @@ The samurai’s class skills are Bluff (Cha), Climb (Str), Craft (Int), Diplomac
 
 The following are the class features of the samurai.
 
-**Weapon and Armor Proficiency**: Samurai are proficient with all simple and martial weapons, plus the katana and wakizashi. Samurai are proficient with all types of armor (heavy, light, and medium) and shields (except tower shields).
+**Weapon and Armor Proficiency**: Samurai are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), plus the [katana](../../equipment/weapons-eastern.md#exotic-one-handed-melee-weapons) and [wakizashi](../../equipment/weapons-eastern.md#exotic-light-melee-weapons). Samurai are proficient with all types of armor (heavy, light, and medium) and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 **Challenge (Ex)**: Once per day, a samurai can challenge a foe to combat. As a swift action, the samurai chooses one target within sight to challenge. The samurai’s melee attacks deal extra damage when made against the target of his challenge. This extra damage is equal to the samurai’s level. The samurai can use this ability once per day at 1st level, plus one additional time per day for every three levels beyond 1st, to a maximum of seven times per day at 19th level.
 
@@ -55,7 +55,7 @@ The challenge remains in effect until the target is dead or unconscious, or unti
 
 **Mount (Ex)**: A samurai gains the service of a loyal and trusty steed to carry him into battle. This mount functions as a druid’s animal companion, using the samurai’s level as his effective druid level. The creature must be one that he is capable of riding and that is suitable as a mount. A Medium samurai can select a camel or a horse. A Small samurai can select a pony or a wolf, but can also select a boar or a dog if he is at least 4th level. The GM may approve other animals as suitable mounts.
 
-A samurai does not take an armor check penalty on Ride checks while riding his mount. The mount is always considered combat trained and begins play with Light Armor Proficiency as a bonus feat. A samurai’s mount does not gain the share spells special ability.
+A samurai does not take an armor check penalty on Ride checks while riding his mount. The mount is always considered combat trained and begins play with [Light Armor](../../equipment/armor.md) Proficiency as a bonus feat. A samurai’s mount does not gain the share spells special ability.
 
 A samurai’s bond with his mount is strong, with the pair learning to anticipate each other’s moods and moves. Should a samurai’s mount die, the samurai may find another mount to serve him after 1 week of mourning.
 
@@ -183,7 +183,7 @@ The ironbound sword's fighting style, focused on incapacitating opponents rather
 
 While some martial arts traditions focus on the strength of the body, most schools of combat and self-defense know the importance of using weapons as well. Brawling blademaster samurai use weapon strikes and unarmed attacks in equal measure—foes expecting to defend themselves against a dagger or a sword are often caught off guard by a brawling blademaster's brutal kicks or punches.
 
-**Weapon and Armor Proficiency**: Brawling blademasters are proficient with all simple and martial weapons, plus the katana and wakizashi. Brawling blademasters are proficient with light armor, but not with shields. This alters the samurai's weapon and armor proficiency.
+**Weapon and Armor Proficiency**: Brawling blademasters are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), plus the [katana](../../equipment/weapons-eastern.md#exotic-one-handed-melee-weapons) and [wakizashi](../../equipment/weapons-eastern.md#exotic-light-melee-weapons). Brawling blademasters are proficient with [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md). This alters the samurai's weapon and armor proficiency.
 
 **Empty Hand (Ex)**: A brawling blademaster gains [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat. She uses her samurai level as her monk level for determining the amount of damage she deals with an unarmed strike. These levels stack with monk levels to determine the brawling blademaster's unarmed strike damage. This replaces mount.
 

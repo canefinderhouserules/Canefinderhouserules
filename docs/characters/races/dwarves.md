@@ -34,7 +34,7 @@ Dwarves are a stoic but stern race, ensconced in cities carved from the hearts o
 
 **Stonecunning**: Dwarves receive a +2 bonus on Perception checks to potentially notice unusual stonework, such as traps and hidden doors located in stone walls or floors. They receive a check to notice such features whenever they pass within 10 feet of them, whether or not they are actively looking.
 
-**Weapon Familiarity**: Dwarves are proficient with battleaxes, heavy picks, and warhammers, and treat any weapon with the word “dwarven” in its name as a martial weapon.
+**Weapon Familiarity**: Dwarves are proficient with [battleaxes](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [heavy picks](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and [warhammers](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and treat any weapon with the word “dwarven” in its name as a martial weapon.
 
 **Languages**: Dwarves begin play speaking Common and Dwarven. Dwarves with high Intelligence scores can choose from the following: Giant, Gnome, Goblin, Orc, Terran, and Undercommon.
 
@@ -288,7 +288,7 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 **Barbarian**: Add 1 to the dwarf’s total number of rage rounds per day.
 
-**Bard**: Reduce arcane spell failure chance for casting bard spells when wearing medium armor by +1%. Once the total reaches 10%, the bard also receives Medium Armor Proficiency, if he does not already possess it.
+**Bard**: Reduce arcane spell failure chance for casting bard spells when wearing [medium armor](../../equipment/armor.md) by +1%. Once the total reaches 10%, the bard also receives Medium Armor Proficiency, if he does not already possess it.
 
 **Bloodrager**: Increase the bloodrager's total number of bloodrage rounds per day by 1.
 
@@ -334,7 +334,7 @@ Under the house rules, any character can take a bonus from the [universal favore
 
 **Shaman**: Add 1/4 to the natural armor bonus of the shaman's spirit animal.
 
-**Skald**: Reduce the arcane spell failure chance for casting skald spells when wearing heavy armor by 1%. Once the total reduction reaches 10%, the skald also receives Heavy Armor Proficiency (if the skald does not already possess it).
+**Skald**: Reduce the arcane spell failure chance for casting skald spells when wearing [heavy armor](../../equipment/armor.md) by 1%. Once the total reduction reaches 10%, the skald also receives Heavy Armor Proficiency (if the skald does not already possess it).
 
 **Slayer**: Gain a +1/3 bonus on Knowledge (dungeoneering) checks and on Survival checks when underground. If the slayer has a +1 bonus on Knowledge (dungeoneering) checks from this ability, he is also considered trained in that skill.
 

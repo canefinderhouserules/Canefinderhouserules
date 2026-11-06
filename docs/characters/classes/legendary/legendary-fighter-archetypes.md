@@ -28,7 +28,7 @@ This ability replaces weapon mastery.
 
 **Weapon and Armor Proficiency**
 
-An exotic weapon wielder is not proficient with tower shields. This alters weapon and armor proficiencies.
+An exotic weapon wielder is not proficient with [tower shields](../../../equipment/armor.md). This alters weapon and armor proficiencies.
 
 **Exotic Weaponskill**
 
@@ -99,7 +99,7 @@ This ability replaces autonomic grasp.
 
 A lore warden gains 2 additional skill ranks each level. These ranks must be spent on Intelligence-based skills. All Craft and Knowledge skills are class skills for lore wardens, as are Linguistics and Spellcraft.
 
-This ability replaces the fighter’s proficiency with medium armor, heavy armor, and shields.
+This ability replaces the fighter’s proficiency with [medium armor](../../../equipment/armor.md), [heavy armor](../../../equipment/armor.md), and [shields](../../../equipment/armor.md).
 
 **Skillful Expertise (Ex)**
 
@@ -171,7 +171,7 @@ This ability modifies bonus skills.
 
 **Weapon and Armor Proficiency**
 
-An unbreakable is not proficient with tower shields.
+An unbreakable is not proficient with [tower shields](../../../equipment/armor.md).
 
 **Tough as Nails**: An unbreakable gains Endurance and Die Hard as bonus feats. This ability replaces the fighter’s 1st-level bonus feat.
 

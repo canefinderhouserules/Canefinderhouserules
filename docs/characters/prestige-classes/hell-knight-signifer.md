@@ -25,7 +25,7 @@ To qualify to become a hell knight signifer, a character must fulfill all of the
 
 **Alignment**: Any lawful.
 
-**Armor Proficiency**: Proficient with medium armor.
+**Armor Proficiency**: Proficient with [medium armor](../../equipment/armor.md).
 
 **Skills**: Intimidate 2 ranks, Knowledge (planes) 3 ranks, Spellcraft 3 ranks.
 
@@ -37,7 +37,7 @@ To qualify to become a hell knight signifer, a character must fulfill all of the
 
     **Alignment**: Any lawful.
 
-    **Armor Proficiency**: Proficient with medium armor.
+    **Armor Proficiency**: Proficient with [medium armor](../../equipment/armor.md).
 
     **Feats**: Arcane Armor Training or Warrior Priest.
 
@@ -57,7 +57,7 @@ The hell knight signifer's class skills (and the key ability for each skill) are
 
 The following are class features of the hell knight signifer prestige class.
 
-**Weapon and Armor Proficiency**: A hell knight signifer gains proficiency with heavy armor and with one of his order’s favored weapons (see Order below).
+**Weapon and Armor Proficiency**: A hell knight signifer gains proficiency with [heavy armor](../../equipment/armor.md) and with one of his order’s favored weapons (see Order below).
 
 **Bonus Feat**: At 1st level, a divine caster gains [Warrior Priest](../../rules/feats/warrior-priest.md) as a bonus feat, and an arcane caster gains [Arcane Armor Training](../../rules/feats/arcane-armor-training.md) as a bonus feat.
 

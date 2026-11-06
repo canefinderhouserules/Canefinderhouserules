@@ -12,7 +12,7 @@ Either through the results of magical experimentation or bizarre natural sparks,
 
 **Brutish Fortitude (Ex)**: A brute’s base Fortitude save bonus from his vigilante levels is equal to 2 + half his vigilante level, and his base Reflex and Will save bonuses are equal to 1/3 his vigilante level. This ability alters the vigilante’s base saving throws.
 
-**Weapon and Armor Proficiency**: A brute isn’t proficient with medium armor or martial weapons. However, he gains [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat. This alters the vigilante’s armor and weapon proficiencies.
+**Weapon and Armor Proficiency**: A brute isn’t proficient with [medium armor](../../equipment/armor.md) or [martial weapons](../../equipment/weapons-martial.md). However, he gains [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat. This alters the vigilante’s armor and weapon proficiencies.
 
 **Brute Form (Ex)**: Though it is sometimes difficult to maintain, a brute has a measure of control over his abilities.
 
@@ -52,7 +52,7 @@ Appearing to be an upstanding member of society, the cabalist clandestinely foll
 
 **Skill Ranks per Level**: The cabalist gains a number of skill ranks equal to 4 + his Intelligence modifier at each level, instead of 6 + his Intelligence modifier skill ranks. This alters the vigilante’s skill ranks per level.
 
-**Weapon and Armor Proficiencies**: A cabalist is not proficient with medium armor. Like a magus, he can cast cabalist spells while wearing light armor without incurring the normal arcane spell failure chance. This alters the vigilante’s armor and weapon proficiencies.
+**Weapon and Armor Proficiencies**: A cabalist is not proficient with [medium armor](../../equipment/armor.md). Like a magus, he can cast cabalist spells while wearing [light armor](../../equipment/armor.md) without incurring the normal arcane spell failure chance. This alters the vigilante’s armor and weapon proficiencies.
 
 **Spellcasting**: A cabalist casts arcane spells and cantrips as a magus. He prepares spells using a spellbook, choosing them from the 6th-level and lower spells from the witch spell list; higher-level witch spells are not on the cabalist’s spell list. This replaces the 4th-, 8th-, 10th-, 14th-, and 16th-level vigilante talents.
 
@@ -86,7 +86,7 @@ Once a creature has been the target of this ability (regardless of whether or no
 
 Firearms can be potent tools for striking fear into the hearts of enemies, and canny vigilantes use this to their advantage. Gunmasters brandish firearms like extensions of their will, taking down their foes with deadly accuracy and skill.
 
-**Weapon and Armor Proficiencies**: A gunmaster is proficient with all firearms but not with martial weapons or medium armor. This alters the vigilante’s weapon and armor proficiencies.
+**Weapon and Armor Proficiencies**: A gunmaster is proficient with all [firearms](../../equipment/weapons-firearms.md) but not with [martial weapons](../../equipment/weapons-martial.md) or [medium armor](../../equipment/armor.md). This alters the vigilante’s weapon and armor proficiencies.
 
 **Gunmaster**: At 1st level, a gunmaster gains the gunslinger’s gunsmith ability. Additionally, the Gunsmithing bonus feat allows the gunmaster to repair and restore his initial battered firearm as if he were a gunslinger. At 5th level, and every 4 vigilante levels thereafter, the gunmaster gains a +1 bonus on attack and damage rolls with all firearms. This ability replaces vigilante specialization.
 
@@ -112,7 +112,7 @@ Some vigilantes, no matter their age, carry a spark of capricious whimsy under w
 
 **Skill Ranks per Level**: A magical child gains a number of skill ranks equal to 4 + her Intelligence modifier at each level, instead of the normal 6 + her Intelligence modifier skill ranks. This alters the vigilante’s skill ranks per level.
 
-**Weapon and Armor Proficiencies**: A magical child is not proficient with medium armor. She can cast summoner spells (see spellcasting below) while wearing light armor without incurring the normal arcane spell failure chance. This alters the vigilante’s armor and weapon proficiencies.
+**Weapon and Armor Proficiencies**: A magical child is not proficient with [medium armor](../../equipment/armor.md). She can cast summoner spells (see spellcasting below) while wearing [light armor](../../equipment/armor.md) without incurring the normal arcane spell failure chance. This alters the vigilante’s armor and weapon proficiencies.
 
 **Spellcasting**: A magical child casts arcane spells and cantrips as an unchained summoner. She can cast any spell she knows without preparing it ahead of time, assuming she has not yet used up her allotment of spells per day for the spell’s level, and she chooses her spells known from the summoner spell list (she cannot choose spells that would affect an eidolon). A magical child’s selection of spells is extremely limited; use Table 1–5: Summoner Spells Known of *Unchained* to determine how many spells the magical child knows at each level. A magical child needs to commune with her animal guide for 1 hour in order to replenish her daily spell slots. This replaces the 4th-, 8th-, 10th-, 14th-, and 16th-level vigilante talents.
 
@@ -138,7 +138,7 @@ Some vigilantes form special bonds with the creatures they use as steeds, consid
 
 **Mount (Ex)**: A mounted fury gains the service of a loyal and trusty steed to carry him into battle. This mount functions as a druid’s animal companion, using the mounted fury’s vigilante level as his effective druid level. The creature must be one that he is capable of riding and is suitable as a mount. A Medium mounted fury can select a camel or a horse. A Small mounted fury can select a pony or a wolf, but can also select a boar or a riding dog if he is at least 4th level. The GM might approve other animals as suitable mounts. A mounted fury can exchange or replace his mount the same way that a druid exchanges or replaces her animal companion.
 
-A mounted fury does not take an armor check penalty on Ride checks while riding his mount. The mount is always considered combat trained and begins play with Light Armor Proficiency as a bonus feat. A mounted fury’s mount does not gain the share spells ability.
+A mounted fury does not take an armor check penalty on Ride checks while riding his mount. The mount is always considered combat trained and begins play with [Light Armor](../../equipment/armor.md) Proficiency as a bonus feat. A mounted fury’s mount does not gain the share spells ability.
 
 A mounted fury’s bond with his mount is strong, with the pair learning to anticipate each other’s moods and moves. At 3rd level, the mounted fury’s mount shares all his teamwork feats, without needing to meet the prerequisites (although while mounted, the mounted fury and his mount do not count as separate creatures for the purpose of these feats). At 5th level, the mounted fury’s mount benefits from the vigilante’s startling appearance as if it were the vigilante. Should a mounted fury’s mount die, the mounted fury may find another mount to serve him after 1 week of mourning. This new mount does not gain the link or devotion special abilities until the next time the mounted fury gains a level.
 
@@ -178,7 +178,7 @@ Practicing magic in secret, the warlock obscures her arcane scholarship from pub
 
 **Skill Ranks per Level**: The warlock gains a number of skill ranks equal to 4 + her Intelligence modifier at each level, instead of 6 + her Intelligence modifier skill ranks. This alters the vigilante’s skill ranks per level.
 
-**Armor Proficiencies**: A warlock is not proficient with medium armor. Like a magus, she can cast her spells while wearing light armor without incurring the normal arcane spell failure chance. This alters the vigilante’s armor proficiencies.
+**Armor Proficiencies**: A warlock is not proficient with [medium armor](../../equipment/armor.md). Like a magus, she can cast her spells while wearing [light armor](../../equipment/armor.md) without incurring the normal arcane spell failure chance. This alters the vigilante’s armor proficiencies.
 
 **Spellcasting**: A warlock casts arcane spells and cantrips as a magus. She prepares spells using a spellbook, choosing them from the 6th-level and lower spells from the sorcerer/wizard spell list; higher-level sorcerer/wizard spells are not on the warlock’s spell list. This replaces the 4th-, 8th-, 10th-, 14th-, and 16th-level vigilante talents.
 
@@ -308,7 +308,7 @@ Some vigilantes adopt lives of secrecy to hide their strange experiments from pu
 
 This alters the vigilante’s class skills.
 
-**Weapon and Armor Proficiencies**: Experimenters aren’t proficient with martial weapons, medium armor, or shields.
+**Weapon and Armor Proficiencies**: Experimenters aren’t proficient with [martial weapons](../../equipment/weapons-martial.md), [medium armor](../../equipment/armor.md), or [shields](../../equipment/armor.md).
 
 This alters the vigilante’s weapon and armor proficiencies.
 
@@ -338,7 +338,7 @@ This ability replaces frightening appearance.
 
 Wherever the guilty walk free, the hangman brings judgment.
 
-**Weapon and Armor Proficiencies**: A hangman is proficient with nets and whips, but not shields.
+**Weapon and Armor Proficiencies**: A hangman is proficient with nets and [whips](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons), but not [shields](../../equipment/armor.md).
 
 This alters the vigilante’s weapon and armor proficiencies.
 
@@ -450,7 +450,7 @@ This ability replaces the vigilante talent gained at 6th level.
 
 Teisatsu are specialized vigilantes who focus on infiltrating social scenes and high-society gatherings on behalf of feuding lords. Trained as assassins and spies, they cultivate a suite of personalities and study secret arts that hone their bodies into deadly weapons.
 
-**Weapon and Armor Proficiency**: Teisatsu are proficient with all simple weapons, plus the kama, katana, kusarigama, nunchaku, sai, short sword, shortbow, shuriken, siangham, and wakizashi. They are proficient with light and medium armor, but not with shields.
+**Weapon and Armor Proficiency**: Teisatsu are proficient with all [simple weapons](../../equipment/weapons-simple.md), plus the [kama](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [katana](../../equipment/weapons-eastern.md#exotic-one-handed-melee-weapons), [kusarigama](../../equipment/weapons-eastern.md#exotic-two-handed-melee-weapons-part-1), [nunchaku](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [sai](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons), [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons), [shuriken](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [siangham](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), and [wakizashi](../../equipment/weapons-eastern.md#exotic-light-melee-weapons). They are proficient with light and [medium armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
 
 This replaces the vigilante’s normal weapon and armor proficiencies.
 
@@ -492,7 +492,7 @@ Freedom harvesters are the front-line operatives of a secretive network that fre
 
 Masked maidens are survivors of a brutal indoctrination who tried to return to ordinary life. Suppressing the indoctrination’s effects works for a time, but the repressed aspects return, pushing these former conscripts to don their armor and seek out conflict. They lead a double life: ordinary (albeit troubled) citizen by day, faceless warrior by night. A masked maiden always uses the iconic scar soldier helm when in her vigilante identity.
 
-**Weapon and Armor Proficiency**: All masked maiden vigilantes are proficient with [scar soldier plate](../../equipment/gear-ag.md), but not with any other forms of heavy armor. This alters the vigilante’s weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: All masked maiden vigilantes are proficient with [scar soldier plate](../../equipment/gear-ag.md), but not with any other forms of [heavy armor](../../equipment/armor.md). This alters the vigilante’s weapon and armor proficiencies.
 
 **Imperfect Control (Ex)**: A masked maiden compulsively resists entering her indoctrinated state, but certain triggers (such as violence) can cause her to lapse. The masked maiden always starts the day in her social identity. To begin willingly changing to her vigilante identity, the masked maiden must succeed at a Will save (DC = 10 + half her vigilante level); if she fails, she becomes shaken for 1 minute and cannot try again during that time. While in her social identity, when the masked maiden is exposed to mortal peril (such as when combat starts), she must succeed at a Will save at the same DC or be compelled to enter her vigilante identity as soon as she can get out of sight to do so. The masked maiden cannot choose to fail this Will save. In addition, if the masked maiden hasn’t entered her vigilante identity for a week or longer, she must attempt this Will save at the start of each day; on a failure, she is compelled to change into her vigilante identity immediately (or as soon as she can slip out of sight to do so).
 
@@ -556,7 +556,7 @@ Occasionally a mutation takes hold of the body of a vigilante, but he learns to 
 
 *Vigilante archetype.* As a realm draws closer to civil war, a shaky regent sends handpicked agents into the courts to flush out traitors to the throne. When not acting as courtiers, these agents don fearsome draconic masks, becoming anonymous protectors of the regent's rule.
 
-**Court Courtier (Ex)**: The loyalist poses as a minor noble studying the dueling traditions common throughout the realm. At 1st level, a throne loyalist gains Exotic Weapon Proficiency (dueling sword) as a bonus feat. His social identity must appear to be that of a noble, and he can't select double time, many guises, or any social talent inappropriate for a noble social identity. This ability alters social talents and replaces the 1st-level social talent.
+**Court Courtier (Ex)**: The loyalist poses as a minor noble studying the dueling traditions common throughout the realm. At 1st level, a throne loyalist gains Exotic Weapon Proficiency ([dueling sword](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons)) as a bonus feat. His social identity must appear to be that of a noble, and he can't select double time, many guises, or any social talent inappropriate for a noble social identity. This ability alters social talents and replaces the 1st-level social talent.
 
 **Reflexive Reaction (Ex)**: A throne loyalist lacks the conviction of other vigilantes, but his reactions are keenly honed. At 3rd level, if a throne loyalist acts during a surprise round, he can take a full round's worth of actions. If he does, he is staggered during the first full round of combat. This ability replaces unshakable.
 
@@ -632,7 +632,7 @@ This ability replaces startling appearance.
 
 Unyielding warriors, faceless enforcers lock their identities behind implacable helms. While their infamous reputations spread far, striking fear in their foes, the individual behind the mask remains a complete mystery.
 
-**Weapon and Armor Proficiencies**: A faceless enforcer is proficient with heavy armor, but not with shields. This alters the vigilante's weapon and armor proficiencies.
+**Weapon and Armor Proficiencies**: A faceless enforcer is proficient with [heavy armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md). This alters the vigilante's weapon and armor proficiencies.
 
 **Dual Identity (Ex)**: A faceless enforcer's vigilante identity is tied to a particular helmet or face covering and suit of armor. Switching identities means entirely donning or removing this armor (even if donned hastily), and never takes less than the minimum time to do so for that armor type. Once per month, the vigilante can replace the helmet or face covering and armor associated with his vigilante identity and buy or make a new outfit that becomes tied to that identity. A faceless enforcer cannot select the immediate change or quick change social talents. This alters dual identity.
 

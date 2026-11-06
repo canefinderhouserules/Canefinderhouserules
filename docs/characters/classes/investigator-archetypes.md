@@ -112,7 +112,7 @@ This ability replaces alchemy. A spiritualist cannot take the alchemist discover
 
 Black powder and firearms are a natural extension of the alchemical experimentation that investigators use on a regular basis. Steel hounds are investigators who have taken to using firearms in place of the more mundane weapons their counterparts favor.
 
-**Weapon and Armor Proficiency**: Steel hounds are proficient with simple weapons, plus the rapier, the sap, and one type of firearm selected at 1st level. They are proficient in light armor, but not shields. This replaces the investigator's weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: Steel hounds are proficient with [simple weapons](../../equipment/weapons-simple.md), plus the [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), the [sap](../../equipment/weapons-martial.md#martial-light-melee-weapons), and one type of firearm selected at 1st level. They are proficient in [light armor](../../equipment/armor.md), but not [shields](../../equipment/armor.md). This replaces the investigator's weapon and armor proficiencies.
 
 **Packing Heat (Ex)**: At 2nd level, the steel hound gains both the [Amateur Gunslinger](../../rules/feats/amateur-gunslinger.md) and Gunsmithing feats as bonus feats. He also gains a battered gun identical to the one gained by the gunslinger. This ability replaces poison use.
 
@@ -176,7 +176,7 @@ Much like alchemy, cartography requires materials, but the cost of those materia
 
 Natural philosophers are scholars, explorers, and survivalists who feel at home in nature, seldom longing for the comforts of the city. They eschew the fancy tools and weaponry of gentlefolk detectives and instead employ weapons that double as tools, materials available in nature, and methods better suited for untamed wilderness.
 
-**Weapon and Armor Proficiency**: A natural philosopher is proficient with simple weapons, plus the handaxe, kukri, shortbow, throwing axe, and whip. A natural philosopher is proficient with light armor but not with shields. This replaces the investigator’s weapon and armor proficiency.
+**Weapon and Armor Proficiency**: A natural philosopher is proficient with [simple weapons](../../equipment/weapons-simple.md), plus the [handaxe](../../equipment/weapons-martial.md#martial-light-melee-weapons), [kukri](../../equipment/weapons-martial.md#martial-light-melee-weapons), [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons), [throwing axe](../../equipment/weapons-martial.md#martial-light-melee-weapons), and [whip](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons). A natural philosopher is proficient with [light armor](../../equipment/armor.md) but not with [shields](../../equipment/armor.md). This replaces the investigator’s weapon and armor proficiency.
 
 **Class Skills**: A natural philosopher gains Survival as a class skill, but doesn’t gain Perform as a class skill. This alters the investigator’s class skills.
 
@@ -190,7 +190,7 @@ Natural philosophers are scholars, explorers, and survivalists who feel at home 
 
 Star watchers study the movements and positions of the sun, the moon, and the stars, searching for secrets written in the sky. They use a combination of scientific study and esoteric arts to measure, record, and predict astronomical cycles and their effects on nature, such as the moon’s influence on tides and rivers. Some star watchers also use these observations to predict fate and significant events, such as natural disasters.
 
-**Weapon and Armor Proficiency**: A star watcher gains proficiency with the starknife, but not with the rapier. This alters the investigator’s weapon and armor proficiency.
+**Weapon and Armor Proficiency**: A star watcher gains proficiency with the [starknife](../../equipment/weapons-martial.md#martial-light-melee-weapons), but not with the [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons). This alters the investigator’s weapon and armor proficiency.
 
 **Astrology (Su)**: A star watcher studies a symbolic language of the heavens known as astrology. Equal parts art form and science, astrology can be used to read the future and affect it in subtle ways. Much like an alchemist or investigator, a star watcher collects formulae in a formula book. However, the formulae resemble star charts, and unlike alchemists or normal investigators, he uses these formulae along with personal details and astronomical measurements to make horoscopes—magical calculations stored much like scrolls—in which he can store spells. In many ways, the star watcher’s horoscopes function like extracts, with the following exceptions.
 
@@ -348,7 +348,7 @@ This ability alters studied strike.
 
 Gravediggers pursue long-buried mysteries, figuratively and literally digging up the truth and finding answers to secrets only moldering corpses and dry bones can tell.
 
-**Weapon and Armor Proficiency**: A gravedigger is proficient with simple weapons and scythes, and can fight with gravediggers’ tools such as a shovel or lantern as if she had the [Catch Off-Guard](../../rules/feats/catch-off-guard.md) feat. A gravedigger is proficient with light armor, but not with shields. This replaces the investigator’s weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: A gravedigger is proficient with [simple weapons](../../equipment/weapons-simple.md) and [scythes](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), and can fight with gravediggers’ tools such as a shovel or lantern as if she had the [Catch Off-Guard](../../rules/feats/catch-off-guard.md) feat. A gravedigger is proficient with [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md). This replaces the investigator’s weapon and armor proficiencies.
 
 **Limited Alchemy**: A gravedigger prepares and uses extracts as an investigator but gains no other benefits of the alchemy ability. This also means that a gravedigger can’t take the alchemist discovery investigator talent or any discovery that affects or involves alchemy. This alters alchemy and investigator talents.
 

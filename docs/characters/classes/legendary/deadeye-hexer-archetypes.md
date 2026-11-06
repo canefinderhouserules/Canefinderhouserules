@@ -26,7 +26,7 @@ If a spell’s attack roll is a natural 1 (a misfire) or a natural 20 is rolled 
 
 *Where the magus combines steel and spell into a single offensive force, the hexslinger combines magic with black powder to menace enemies from a distance with both.*
 
-**Weapon Proficiency:** Hexslingers are proficient with all simple weapons and one-handed firearms.
+**Weapon Proficiency:** Hexslingers are proficient with all [simple weapons](../../../equipment/weapons-simple.md) and [one-handed firearms](../../../equipment/weapons-firearms.md).
 
 **Firearm Familiar:** A hexslinger starts with a pistol as her firearm familiar. A hexslinger’s firearm familiar must be a onehanded firearm. Otherwise, this ability functions as the deadeye hexer class ability.
 

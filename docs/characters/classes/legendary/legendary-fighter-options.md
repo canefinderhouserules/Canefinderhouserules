@@ -254,7 +254,7 @@ A fighter can choose this option multiple times.
 
 **Armor Specialization (Ex)**
 
-The fighter selects one specific type of armor with which he is proficient, such as chain shirt or full plate. While wearing the selected type of armor, the fighter adds +1 to the armor’s armor bonus. At 9th level this bonus increases to +2. This increase to the armor bonus doesn’t increase the benefit that the fighter gains from feats, class abilities, or other effects that are determined by his armor’s base armor bonus, including other armor training or advanced armor training options. A fighter can choose this option multiple times. Each time he chooses it, he applies its benefit to a different type of armor. The fighter must be 5th level before choosing this option.
+The fighter selects one specific type of armor with which he is proficient, such as [chain shirt](../../../equipment/armor.md) or [full plate](../../../equipment/armor.md). While wearing the selected type of armor, the fighter adds +1 to the armor’s armor bonus. At 9th level this bonus increases to +2. This increase to the armor bonus doesn’t increase the benefit that the fighter gains from feats, class abilities, or other effects that are determined by his armor’s base armor bonus, including other armor training or advanced armor training options. A fighter can choose this option multiple times. Each time he chooses it, he applies its benefit to a different type of armor. The fighter must be 5th level before choosing this option.
 
 **Armored Bastion (Ex)**
 

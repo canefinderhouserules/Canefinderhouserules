@@ -47,7 +47,7 @@ The slayer's class skills are Acrobatics (Dex), Bluff(Cha), Climb (Str), Craft (
 
 The following are the class features of the slayer.
 
-**Weapon and Armor Proficiency**: A slayer is proficient with all simple and martial weapons, as well as with light armor, medium armor, and shields (except tower shields).
+**Weapon and Armor Proficiency**: A slayer is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), as well as with [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 **Studied Target (Ex)**: A slayer can study an opponent he can see as a move action. The slayer then gains a +1 bonus on Bluff, Knowledge, Perception, Sense Motive, and Survival checks attempted against that opponent, and a +1 bonus on weapon attack and damage rolls against it. The DCs of slayer class abilities against that opponent increase by 1 A slayer can only maintain these bonuses against one opponent at a time; these bonuses remain in effect until either the opponent is dead or the slayer studies a new target. If a slayer deals sneak attack damage to a target, he can study that target as an immediate action, allowing him to apply his studied target bonuses against that target (including to the normal weapon damage roll).
 
@@ -137,7 +137,7 @@ Samsarans are most often associated with quiet reflection, piety, and peaceful s
 
 The following advanced talents are available for slayers.
 
-**Armored Marauder (Ex)**: Some elite slayers exchange leather and chain for plate when stalking prey. A slayer with this talent gains proficiency with heavy armor. In addition, the armor check penalty of any heavy armor the slayer wears is reduced by 1 for every 6 class levels he has.
+**Armored Marauder (Ex)**: Some elite slayers exchange leather and chain for plate when stalking prey. A slayer with this talent gains proficiency with [heavy armor](../../equipment/armor.md). In addition, the armor check penalty of any heavy armor the slayer wears is reduced by 1 for every 6 class levels he has.
 
 **Armored Swiftness (Ex)**: In time, the heaviest armor can become like a second skin. A slayer with this talent can move at full speed in heavy armor. In addition, the maximum Dexterity bonus of heavy armor the slayer wears increases by 1 for every 6 class levels he has. A slayer must have the armored marauder slayer talent to select this talent.
 

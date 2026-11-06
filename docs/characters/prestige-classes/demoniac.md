@@ -59,7 +59,7 @@ The demoniac’s class skills are Bluff (Cha), Intimidate (Cha), Knowledge (plan
 
 The following are class features of this prestige class.
 
-**Weapon and Armor Proficiency**: A demoniac gains proficiency with all simple weapons and with her demonic patron’s favored weapon.
+**Weapon and Armor Proficiency**: A demoniac gains proficiency with all [simple weapons](../../equipment/weapons-simple.md) and with her demonic patron’s favored weapon.
 
 **Spells per Day/Spells Known**: At the indicated levels, a demoniac gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before adding the prestige class. She does not gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If the character had more than one spellcasting class before becoming a demoniac, she must decide to which class she adds the new level for purposes of determining spells per day.
 

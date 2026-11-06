@@ -45,7 +45,7 @@ The cavalier’s class skills are Bluff (Cha), Climb (Str), Craft (Int), Diploma
 
 The following are the class features of the cavalier.
 
-**Weapon and Armor Proficiency**: Cavaliers are proficient with all simple and martial weapons, with all types of armor (heavy, light, and medium) and with shields (except tower shields).
+**Weapon and Armor Proficiency**: Cavaliers are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), with all types of armor (heavy, light, and medium) and with [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 **Challenge (Ex)**: Once per day, a cavalier can challenge a foe to combat. As a swift action, the cavalier chooses one target within sight to challenge. The cavalier’s melee attacks deal extra damage whenever the attacks are made against the target of his challenge. This extra damage is equal to the cavalier’s level. The cavalier can use this ability once per day at 1st level, plus one additional time per day for every three levels beyond 1st, to a maximum of seven times per day at 19th level.
 
@@ -53,7 +53,7 @@ Challenging a foe requires much of the cavalier’s concentration. The cavalier 
 
 The challenge remains in effect until the target is dead or unconscious or until the combat ends. Each cavalier’s challenge also includes another effect which is listed in the section describing the cavalier’s order.
 
-**Mount (Ex)**: A cavalier gains the service of a loyal and trusty steed to carry him into battle. This mount functions as a druid’s animal companion, using the cavalier’s level as his effective druid level. The creature must be one that he is capable of riding and is suitable as a mount. A Medium cavalier can select a camel or a horse. A Small cavalier can select a pony or wolf, but can also select a boar or a dog if he is at least 4th level. The GM might approve other animals as suitable mounts. A cavalier does not take an armor check penalty on Ride checks while riding his mount. The mount is always considered combat trained and begins play with Light Armor Proficiency as a bonus feat. A cavalier’s mount does not gain the share spells special ability.
+**Mount (Ex)**: A cavalier gains the service of a loyal and trusty steed to carry him into battle. This mount functions as a druid’s animal companion, using the cavalier’s level as his effective druid level. The creature must be one that he is capable of riding and is suitable as a mount. A Medium cavalier can select a camel or a horse. A Small cavalier can select a pony or wolf, but can also select a boar or a dog if he is at least 4th level. The GM might approve other animals as suitable mounts. A cavalier does not take an armor check penalty on Ride checks while riding his mount. The mount is always considered combat trained and begins play with [Light Armor](../../equipment/armor.md) Proficiency as a bonus feat. A cavalier’s mount does not gain the share spells special ability.
 
 A cavalier’s bond with his mount is strong, with the pair learning to anticipate each other’s moods and moves. Should a cavalier’s mount die, the cavalier may find another mount to serve him after 1 week of mourning.
 

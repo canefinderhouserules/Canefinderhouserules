@@ -377,7 +377,7 @@ At 8th, 13th, and 15th-level, the ranger chooses another one of his favored enem
 
 **Humanoid (giant)**: low-light vision, Lunge, natural armor +2, resist energy 10 (choose cold, electricity, or fire), [Throw Anything](../../rules/feats/throw-anything.md).
 
-**Humanoid (gnoll)**: darkvision 60 ft., Exotic Weapon Proficiency (dire flail), natural armor +2.
+**Humanoid (gnoll)**: darkvision 60 ft., Exotic Weapon Proficiency ([dire flail](../../equipment/weapons-exotic.md#exotic-two-handed-melee-weapons)), natural armor +2.
 
 **Humanoid (gnome)**: defensive training, gnome magic, hatred, illusion resistance, keen senses, low-light vision, obsessive, weapon familiarity.
 
@@ -639,7 +639,7 @@ Some rangers have taken up the mysteries of black powder in order to become big 
 
 **Improved Tracking (Ex)**: At 1st level, a trophy hunter gains a +2 bonus on Survival skill checks when following or identifying tracks. When he tracks, he can also attempt a Knowledge (nature) check at DC 15. On a success, the trophy hunter can discern the type and condition of any animals or magical beasts he tracks. By studying their tracks, the trophy hunter is able to identify a rough approximation of their health, maneuverability, and their general behavior as compared to the norm. This ability replaces wild empathy.
 
-**Firearm Style**: At 2nd level, a trophy hunter gains the [Amateur Gunslinger](../../rules/feats/amateur-gunslinger.md) feat and Exotic Weapon Proficiency (firearms), and can use any 1st-level gunslinger deed. At every four levels thereafter, the trophy hunter can take a grit feat or select a gunslinger deed of his level or lower, ranger’s choice. This ability replaces all combat style feats.
+**Firearm Style**: At 2nd level, a trophy hunter gains the [Amateur Gunslinger](../../rules/feats/amateur-gunslinger.md) feat and Exotic Weapon Proficiency ([firearms](../../equipment/weapons-firearms.md)), and can use any 1st-level gunslinger deed. At every four levels thereafter, the trophy hunter can take a grit feat or select a gunslinger deed of his level or lower, ranger’s choice. This ability replaces all combat style feats.
 
 **Hunter’s Aim (Ex)**: At 4th level, a trophy hunter gains a specific understanding of the weaknesses and vulnerabilities of his favored enemies, and his careful study of these enemies reveals the best way to hurt them. When the trophy hunter makes a firearm attack against a favored enemy, he can target touch AC in the first two range increments of his firearm. This ability stacks with other effects that increase the range increments to target touch AC, adding one range increment to the effect. This ability replaces hunter’s bond.
 
@@ -947,7 +947,7 @@ These bonuses do not apply if the enemy creatures are intimately familiar with t
 
 Named for the vicious and unending storms of the open ocean, tidal divers have pushed their bodies to their limits, holding their breath to expand their lung capacity and swimming until ocean travel is second nature to them.
 
-**Weapon and Armor Proficiency**: A tidal diver is not proficient with shields but is proficient with harpoons and nets.
+**Weapon and Armor Proficiency**: A tidal diver is not proficient with [shields](../../equipment/armor.md) but is proficient with [harpoons](../../equipment/weapons-exotic.md#exotic-two-handed-melee-weapons) and nets.
 
 This alters the ranger’s weapon and armor proficiencies.
 
@@ -1085,7 +1085,7 @@ At 6th level, a hippogriff marine adds [Monstrous Mount Mastery](../../rules/fea
 
 Forested lands are often known for their rangers—skilled trackers, marksmen, and silent stalkers under the leafy canopy. Where there is no formal military, defense falls to individual scouts and small groups of allied commandos. Many such rangers take the guide or skirmisher archetypes, but some focus on the magic of stealth. These irregular troops fight against frequent invasions, striking quickly and melting into the green shadows as soon as their opponents rally themselves for a counterattack.
 
-**Weapon and Armor Proficiency**: A forest irregular is proficient with all simple and martial weapons and with light armor. This replaces the normal ranger armor and weapon proficiency.
+**Weapon and Armor Proficiency**: A forest irregular is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md) and with [light armor](../../equipment/armor.md). This replaces the normal ranger armor and weapon proficiency.
 
 **Focused Enemy (Ex)**: At 1st level, a forest irregular selects one favored enemy (usually "humanoid [human]"). He does not gain additional favored enemies at higher levels. He does get to increase his favored enemy bonus by +2 at 5th, 10th, 15th, and 20th level. This otherwise acts as and replaces the standard favored enemy ability.
 
@@ -1401,7 +1401,7 @@ Whether raised from birth under the jungle canopy in a native tribe or settlemen
 
 **Class Skills**: The jungle lord gains Acrobatics and Linguistics as class skills instead of Knowledge (dungeoneering) and Spellcraft.
 
-**Weapon and Armor Proficiency**: A jungle lord is proficient with the dagger, battleaxe, blowgun, bolas, club, greatclub, handaxe, kukri, lasso, longbow, longspear, net, quarterstaff, shortbow, shortspear, sling, spear, and whip. Jungle Lords are not proficient with armor and shields. This replaces the ranger’s normal weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: A jungle lord is proficient with the [dagger](../../equipment/weapons-simple.md#simple-light-melee-weapons), [battleaxe](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [blowgun](../../equipment/weapons-simple.md#simple-ranged-weapons), [bolas](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [greatclub](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), [handaxe](../../equipment/weapons-martial.md#martial-light-melee-weapons), [kukri](../../equipment/weapons-martial.md#martial-light-melee-weapons), [lasso](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [longbow](../../equipment/weapons-martial.md#martial-ranged-weapons), [longspear](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), net, [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons), [shortspear](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [sling](../../equipment/weapons-simple.md#simple-ranged-weapons), [spear](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), and [whip](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons). Jungle Lords are not proficient with armor and [shields](../../equipment/armor.md). This replaces the ranger’s normal weapon and armor proficiencies.
 
 **Bonus Language**: A jungle lord's language options include Sylvan, the language of woodland creatures.
 

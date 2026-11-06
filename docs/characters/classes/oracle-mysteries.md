@@ -26,7 +26,7 @@ Each oracle must choose from among the following mysteries. Unless otherwise not
 
 **Resiliency (Ex)**: You are not disabled and you do not gain the staggered condition if you are reduced to exactly 0 hit points. At 7th level, you gain Diehard as a bonus feat. At 11th level, you do not lose a hit point when you take a standard action while disabled. You do not need to meet the prerequisite to receive the Diehard feat.
 
-**Skill at Arms (Ex)**: You gain proficiency in all martial weapons and heavy armor.
+**Skill at Arms (Ex)**: You gain proficiency in all [martial weapons](../../equipment/weapons-martial.md) and [heavy armor](../../equipment/armor.md).
 
 **Surprising Charge (Ex)**: Once per day, you can move up to your speed as an immediate action. You can use this ability one additional time per day at 7th level and 15th level.
 
@@ -743,7 +743,3 @@ Oracles who draw their power from the mysterious and primal might of dragons are
 **Wings of the Dragon (Su)**: Like the great dragons, you can take to the skies and terrorize opponents from above. As a swift action, you can manifest leathery dragon wings that grant you a fly speed of 60 feet (clumsy maneuverability). At 10th level, your maneuverability increases to poor. You can use these wings for 1 minute per day for each oracle level you have. This duration does not need to be consecutive, but it must be spent in 1-minute increments. At 11th level you can use these wings for 10 minutes per day for each oracle level you have. At 15th level, you can use the wings indefinitely. You must be at least 7th level to select this revelation.
 
 **Final Revelation**: Upon reaching 20th level, your draconic destiny unfolds. You gain immunity to paralysis, sleep, and damage of your energy type. You count as a dragon for the purposes of spells and magical effects. If you have the breath weapon revelation, you can use your breath weapon an unlimited number of times per day, though no more often than once every 1d4+1 rounds.
-
-## Favored Class Bonuses
-
-Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

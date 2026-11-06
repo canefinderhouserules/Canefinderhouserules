@@ -68,7 +68,7 @@ The following are class features of the legendary fighter.
 
 #### Weapon and Armor Proficiency
 
-A fighter is proficient with all simple and martial weapons and with all armor (heavy, light, and medium) and shields (including tower shields).
+A fighter is proficient with all simple and [martial weapons](../../../equipment/weapons-martial.md) and with all armor (heavy, light, and medium) and [shields](../../../equipment/armor.md) (including [tower shields](../../../equipment/armor.md)).
 
 #### Bonus Feats
 

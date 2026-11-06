@@ -39,7 +39,7 @@ The scarlet assassin's class skills (and the key ability for each skill) are Acr
 
 The following are class features of the scarlet assassin prestige class.
 
-**Weapon and Armor Proficiency**: A scarlet assassin is proficient with simple weapons, light martial weapons, and light armor, but not with shields. A scarlet assassin can cast scarlet assassin spells while wearing light armor without incurring the normal arcane spell failure.
+**Weapon and Armor Proficiency**: A scarlet assassin is proficient with [simple weapons](../../equipment/weapons-simple.md), light [martial weapons](../../equipment/weapons-martial.md), and [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md). A scarlet assassin can cast scarlet assassin spells while wearing light armor without incurring the normal arcane spell failure.
 
 **Spells**: A scarlet assassin casts illusion and transmutation arcane spells drawn from the sorcerer/wizard spell list. She can cast any spell she knows without preparing it ahead of time. To cast a spell, she must have a Charisma score of at least 10 + the spell’s level, and her bonus spells are based on Charisma. Saving throws against these spells have a DC of 10 + the spell’s level + the caster’s Charisma modifier (if any). At each scarlet assassin level, she gains one or more new spells as indicated on the table below. At 4th, 6th, 8th, and 10th level, she can learn a new spell in place of one she already knows, provided the new spell is of the same level as the one she is replacing.
 

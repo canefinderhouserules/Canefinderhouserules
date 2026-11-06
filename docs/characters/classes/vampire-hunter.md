@@ -27,7 +27,7 @@ The following are the class features of the vampire hunter.
 
 ### Weapon and Armor Proficiency
 
-A vampire hunter is proficient with all simple and martial weapons, as well as light armor, medium armor, and shields (except tower shields).
+A vampire hunter is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), as well as [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 ### Detect Undead (Sp)
 

@@ -30,7 +30,7 @@ The following racial traits may be selected instead of existing grippli racial t
 
 **Jumper**: Gripplis with this trait are always considered to have a running start when making Acrobatics checks to jump. This racial trait replaces camouflage.
 
-**Princely**: The grippli gains proficiency with rapiers and a +2 racial bonus on Diplomacy and Intimidate checks. This racial trait replaces swamp stride and weapon familiarity.
+**Princely**: The grippli gains proficiency with [rapiers](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons) and a +2 racial bonus on Diplomacy and Intimidate checks. This racial trait replaces swamp stride and weapon familiarity.
 
 **Toxic Skin (Ex)**: Once per day as a swift action, a grippli can create a poison that can be applied to a weapon or delivered as a touch attack. Alternatively, the grippli can smear the poison on its own body as a standard action, affecting the first creature to hit it with an unarmed strike or natural weapon. The poison loses its potency after 1 hour. The grippli is immune to its own poison. This racial trait replaces swamp stride and camouflage.
 

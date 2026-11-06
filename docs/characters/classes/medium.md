@@ -70,7 +70,7 @@ The medium’s class skills are Bluff (Cha), Craft (Int), Diplomacy (Cha), Fly (
 
 The following are the class features of the medium.
 
-**Weapon and Armor Proficiency**: Mediums are proficient with all simple weapons, light armor, and medium armor, but not with shields.
+**Weapon and Armor Proficiency**: Mediums are proficient with all [simple weapons](../../equipment/weapons-simple.md), [light armor](../../equipment/armor.md), and [medium armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
 
 **Spells**: A medium can cast a small number of psychic spells drawn from the medium spell list. To learn or cast a spell, a medium must have a Charisma score equal to at least 10 + the spell’s level. He can cast any spell he knows without preparing it ahead of time. The saving throw DC against a medium’s spell is equal to 10 + the spell level + the medium’s Charisma modifier.
 
@@ -159,7 +159,7 @@ The number of spirits is countless, and each has its own idiosyncrasies that mak
 
 **Taboos**: Choose one: you must always protect others from danger when you can (including defeated enemies, but not enemies that are an active threat to you and others); you must keep your body in fit physical condition, and you break this taboo every time you drop below half your maximum hit points; you must speak no words and use no abilities with the sonic descriptor, and you break this taboo if you become enraged, frightened, or panicked.
 
-**Guardian's Shield (Lesser, Su)**: You gain proficiency in heavy armors and shields (including tower shields). You gain Divine Grace.
+**Guardian's Shield (Lesser, Su)**: You gain proficiency in [heavy armors](../../equipment/armor.md) and [shields](../../equipment/armor.md) (including [tower shields](../../equipment/armor.md)). You gain Divine Grace.
 
 **Absorb Blow (Intermediate, Su)**: You gain DR/—and resistance to acid, cold, electricity, fire, and sonic equal to your medium level. Add paladin’s sacrifice to your medium spells known as a 2nd-level spell.
 
@@ -283,7 +283,7 @@ Seance Boon: Choose a seance boon from any of the other legends to benefit from.
 
     **Taboos**: Choose one: you are superstitious about arcane spellcasting, so you must not be the willing target of arcane spells or abilities and you must attempt a Will saving throw against even harmless arcane spells and abilities; you may not make an attack with any weapon except a specific manufactured weapon (such as “my father’s +2 falchion”) that you choose when you take the taboo, and you may not choose unarmed strike for this taboo; you must accept any challenge to prove your prowess in battle, including challenges to single combat—if you or an ally breaks the rules of the challenge, you break this taboo.
 
-    **Champion’s Prowess (Lesser, Su)**: You gain proficiency in all martial weapons and in one exotic weapon of your choice, which you choose each time you channel a champion spirit.
+    **Champion’s Prowess (Lesser, Su)**: You gain proficiency in all [martial weapons](../../equipment/weapons-martial.md) and in one exotic weapon of your choice, which you choose each time you channel a champion spirit.
 
     Sudden Attack (Intermediate, Su):
 
@@ -311,7 +311,7 @@ Seance Boon: Choose a seance boon from any of the other legends to benefit from.
 
     Guardian’s Shield (Lesser, Su):
 
-    You gain proficiency in heavy armors and shields (including tower shields).
+    You gain proficiency in [heavy armors](../../equipment/armor.md) and [shields](../../equipment/armor.md) (including [tower shields](../../equipment/armor.md)).
 
     **Absorb Blow (Intermediate, Su)**: You gain DR/—and resistance to acid, cold, electricity, fire, and sonic equal to 1/2 your medium level. Add paladin’s sacrifice to your medium spells known as a 2nd-level spell.
 

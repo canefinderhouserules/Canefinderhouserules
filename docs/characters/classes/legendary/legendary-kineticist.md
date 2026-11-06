@@ -48,7 +48,7 @@ The legendary kineticist’s class skills are Acrobatics (Dex), Craft (Int), Hea
 
 #### Weapon and Armor Proficiencies
 
-Legendary kineticists are proficient with all simple weapons and light and medium armor, but not shields.
+Legendary kineticists are proficient with all [simple weapons](../../../equipment/weapons-simple.md) and light and [medium armor](../../../equipment/armor.md), but not [shields](../../../equipment/armor.md).
 
 #### Elemental Focus (Su)
 

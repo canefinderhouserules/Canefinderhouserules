@@ -26,7 +26,7 @@ Vishkanyas are a race of exotic humanoids with poisonous blood. Possessed of an 
 
 *Vishkanya Venom*: Injury; *save* Fort DC 10 + 1/2 the vishkanya’s Hit Dice + the vishkanya’s Constitution modifier; *frequency* 1/round for 6 rounds; *effect* 1d2 Dex; *cure* 1 save.
 
-**Weapon Familiarity**: Vishkanyas are always proficient with blowguns, kukri, and shuriken.
+**Weapon Familiarity**: Vishkanyas are always proficient with [blowguns](../../equipment/weapons-simple.md#simple-ranged-weapons), [kukri](../../equipment/weapons-martial.md#martial-light-melee-weapons), and [shuriken](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1).
 
 **Languages**: Vishkanyas begin play speaking Common and Vishkanya. Vishkanyas with high Intelligence scores can choose from the following: Aklo, Draconic, Elven, Goblin, Sylvan, and Undercommon.
 

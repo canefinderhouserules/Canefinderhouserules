@@ -32,7 +32,7 @@ Though their curiosity drives them to travel and seek new places and experiences
 
 **Sure-Footed:** Halflings receive a +2 racial bonus on Acrobatics and Climb skill checks.
 
-**Weapon Familiarity**: Halflings are proficient with slings and treat any weapon with the word “halfling” in its name as a martial weapon.
+**Weapon Familiarity**: Halflings are proficient with [slings](../../equipment/weapons-simple.md#simple-ranged-weapons) and treat any weapon with the word “halfling” in its name as a martial weapon.
 
 **Languages**: Halflings begin play speaking Common and Halfling. Halflings with high Intelligence scores can choose from the following: Dwarven, Elven, Gnome, and Goblin.
 

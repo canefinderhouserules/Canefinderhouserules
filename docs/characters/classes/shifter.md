@@ -43,9 +43,9 @@ The shifter’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Fly
 
 #### Weapon and Armor Proficiencies
 
-A shifter is proficient with all simple and martial weapons and the natural attacks (claw, bite, and so forth) from the shifter claws class feature and of forms they assume with shifter shape.
+A shifter is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md) and the natural attacks (claw, bite, and so forth) from the shifter claws class feature and of forms they assume with shifter shape.
 
-Shifters are proficient with light and medium armor and shields (except tower shields).
+Shifters are proficient with light and [medium armor](../../equipment/armor.md) and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 #### Bonus Languages
 

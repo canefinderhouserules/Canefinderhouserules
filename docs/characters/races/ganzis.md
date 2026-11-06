@@ -31,7 +31,7 @@ As creatures infused with the entropic forces of a plane of chaos, all ganzis ha
 
 **15–18: Spell-Like Ability (Sp)**: Ganzis whose chaotic influences rise from regions other than a plane of chaos or its inhabitants often manifest an oddity that duplicates the effects of a specific spell. Such ganzis gain one of the following spell-like abilities, usable once per day at a caster level equal to the ganzi's HD: [*alter self*](../../magic/spells/alter-self.md), [*blur*](../../magic/spells/blur.md), [*detect thoughts*](../../magic/spells/detect-thoughts.md), [*hideous laughter*](../../magic/spells/hideous-laughter.md), [*minor image*](../../magic/spells/minor-image.md), [*shatter*](../../magic/spells/shatter.md), or [*spider climb*](../../magic/spells/spider-climb.md).
 
-**19–20: Weaponplay (Ex)**: Ganzis with lineages that link to the valkyries manifest their heritage in their skill in combat. Such ganzis are always proficient with all simple and martial weapons, and they can qualify for feats normally available only to fighters (such as [Weapon Specialization](../../rules/feats/weapon-specialization.md)) even if they don't have any fighter class levels.
+**19–20: Weaponplay (Ex)**: Ganzis with lineages that link to the valkyries manifest their heritage in their skill in combat. Such ganzis are always proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), and they can qualify for feats normally available only to fighters (such as [Weapon Specialization](../../rules/feats/weapon-specialization.md)) even if they don't have any fighter class levels.
 
 ## Archetypes
 

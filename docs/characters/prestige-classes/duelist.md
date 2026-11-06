@@ -53,7 +53,7 @@ The duelist’s class skills (and the key ability for each skill) are Acrobatics
 
 All of the following are class features of the duelist prestige class.
 
-**Weapon and Armor Proficiency**: The duelist is proficient with all simple and martial weapons. Duelists are proficient with light armor but not with shields.
+**Weapon and Armor Proficiency**: The duelist is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md). Duelists are proficient with [light armor](../../equipment/armor.md) but not with [shields](../../equipment/armor.md).
 
 **Canny Defense (Ex)**: When wearing light or no armor and not using a shield, a duelist adds 1 point of Intelligence bonus (if any) per duelist class level to her Dexterity bonus to modify Armor Class while wielding a melee weapon. If a duelist is caught flat-footed or otherwise denied her Dexterity bonus, she also loses this bonus.
 

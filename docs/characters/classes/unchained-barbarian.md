@@ -45,7 +45,7 @@ All of the following are class features of the barbarian.
 
 All of the following are class features of the barbarian.
 
-**Weapon and Armor Proficiency**: A barbarian is proficient with all simple and martial weapons, light armor, medium armor, and shields (except tower shields).
+**Weapon and Armor Proficiency**: A barbarian is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 **Fast Movement (Ex)**: A barbarian’s base speed is faster than the norm for her race by 10 feet. This benefit applies only when she is wearing no armor, light armor, or medium armor, and not carrying a heavy load. Apply this bonus before modifying the barbarian’s speed because of any load carried or armor worn. This bonus stacks with any other bonuses to the barbarian’s base speed.
 

@@ -29,13 +29,13 @@ Because the road to becoming an eldritch knight requires both martial prowess an
 
 To qualify to become an eldritch knight, a character must fulfill all the following criteria.
 
-**Weapon Proficiency**: Must be proficient with all martial weapons.
+**Weapon Proficiency**: Must be proficient with all [martial weapons](../../equipment/weapons-martial.md).
 
 **Spells**: Able to cast 1st-level arcane spells.
 
 ??? note "Original requirements"
 
-    **Weapon Proficiency**: Must be proficient with all martial weapons.
+    **Weapon Proficiency**: Must be proficient with all [martial weapons](../../equipment/weapons-martial.md).
 
     **Spells**: Able to cast 3rd-level arcane spells.
 

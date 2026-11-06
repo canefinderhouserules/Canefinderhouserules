@@ -54,7 +54,7 @@ The following racial traits may be selected instead of existing goblin racial tr
 
 **Tree Runner**: In trackless rain forests and marshes, it can be difficult to find dry ground to build on. Goblin tribes living in such areas have learned to live in the treetops. These goblins gain a +4 racial bonus on Acrobatics and Climb checks. This racial trait replaces skilled.
 
-**Weapon Familiarity**: Goblins’ traditional weapons are the dogslicer and the horsechopper, weapons designed specifically to bring down their most hated foes. Goblins with this trait are proficient with the dogslicer and the horsechopper, and treat any weapon with the word “goblin” in it as martial weapons. This racial trait replaces skilled.
+**Weapon Familiarity**: Goblins’ traditional weapons are the [dogslicer](../../equipment/weapons-martial.md#martial-light-melee-weapons) and the [horsechopper](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), weapons designed specifically to bring down their most hated foes. Goblins with this trait are proficient with the dogslicer and the horsechopper, and treat any weapon with the word “goblin” in it as [martial weapons](../../equipment/weapons-martial.md). This racial trait replaces skilled.
 
 ## Oversized Goblins
 

@@ -70,7 +70,7 @@ The summoner’s class skills are Craft (Int), Fly (Dex), Handle Animal (Cha), K
 
 The following are the class features of the summoner.
 
-**Weapon and Armor Proficiency**: Summoners are proficient with all simple weapons. Summoners are also proficient with light armor. A summoner can cast summoner spells while wearing light armor without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a summoner wearing medium or heavy armor, or using a shield, incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass summoner still incurs the normal arcane spell failure chance for arcane spells received from other classes.
+**Weapon and Armor Proficiency**: Summoners are proficient with all [simple weapons](../../equipment/weapons-simple.md). Summoners are also proficient with [light armor](../../equipment/armor.md). A summoner can cast summoner spells while wearing light armor without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a summoner wearing medium or [heavy armor](../../equipment/armor.md), or using a shield, incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass summoner still incurs the normal arcane spell failure chance for arcane spells received from other classes.
 
 **Spells**: A summoner casts arcane spells drawn from the summoner spell list. He can cast any spell he knows without preparing it ahead of time, assuming he has not yet used up his allotment of spells per day for the spell’s level.
 

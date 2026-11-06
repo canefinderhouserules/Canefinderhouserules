@@ -45,7 +45,7 @@ The esoteric knight's class skills (and the key ability for each skill) are Appr
 
 The following are class features of the esoteric knight prestige class.
 
-**Weapon and Armor Proficiency**: An esoteric knight is proficient with all simple and martial weapons, light armor, medium armor, and shields.
+**Weapon and Armor Proficiency**: An esoteric knight is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md).
 
 **Spells per Day**: At every level except 1st, an esoteric knight gains new spells per day as if she had also gained a level in a psychic spellcasting class she belonged to before adding the prestige class. She does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one psychic spellcasting class before becoming an esoteric knight, she must decide to which class she adds the new level for purposes of determining spells per day.
 

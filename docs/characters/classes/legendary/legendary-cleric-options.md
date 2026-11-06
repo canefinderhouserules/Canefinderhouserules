@@ -1406,7 +1406,7 @@ The domain of war is centered on conflict and grand machinations, often emphasiz
 
 **Warrior-Disciple (Ex)**
 
-You are proficient with all martial weapons and treat your base attack bonus from your cleric level as equal to your cleric level for the purpose of meeting prerequisites. In addition, your levels in cleric count as levels in fighter for the purpose of meeting prerequisites.
+You are proficient with all [martial weapons](../../../equipment/weapons-martial.md) and treat your base attack bonus from your cleric level as equal to your cleric level for the purpose of meeting prerequisites. In addition, your levels in cleric count as levels in fighter for the purpose of meeting prerequisites.
 
 **Coordination (Su)**
 

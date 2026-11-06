@@ -25,7 +25,7 @@ To qualify to become a scar soldier, a character must fulfill all of the followi
 
 **Alignment**: Lawful evil, lawful neutral, or neutral evil.
 
-**Armor Proficiency**: Proficient with heavy armor.
+**Armor Proficiency**: Proficient with [heavy armor](../../equipment/armor.md).
 
 **Base Attack Bonus**: +5.
 

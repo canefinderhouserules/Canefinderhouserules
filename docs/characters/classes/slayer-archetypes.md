@@ -24,7 +24,7 @@ Aberration purgers are skilled at slaying naturally arising aberrations and any 
 
 Whether tasked with bringing in wanted criminals or paid to drag debtors back to their loan sharks, bounty hunters are valued for their ability to capture targets alive.
 
-**Weapon and Armor Proficiency**: A bounty hunter is proficient with all simple and martial weapons plus the aklys, bolas, dan bong, lasso, and net. Bounty hunters are proficient with light armor, light shields, and bucklers, but not heavy shields or tower shields. This ability replaces the slayer's weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: A bounty hunter is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md) plus the [aklys](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [bolas](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [dan bong](../../equipment/weapons-eastern.md#exotic-light-melee-weapons), [lasso](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), and net. Bounty hunters are proficient with [light armor](../../equipment/armor.md), [light shields](../../equipment/weapons-martial.md#martial-light-melee-weapons), and [bucklers](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3), but not [heavy shields](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons) or [tower shields](../../equipment/armor.md). This ability replaces the slayer's weapon and armor proficiencies.
 
 **Dirty Trick (Ex)**: At 2nd level, anytime a bounty hunter is able to deal sneak attack damage to a studied target, he can instead attempt to hamper the target. The bounty hunter must declare that he's using this ability before the attack roll is made. If the attack hits, it deals damage normally, but instead of rolling sneak attack damage, the bounty hunter can attempt a dirty trick combat maneuver against the studied target as a free action, adding 1 to the combat maneuver check for each die of the bounty hunter's sneak attack damage. This combat maneuver does not provoke attacks of opportunity. This ability replaces the slayer talent gained at 2nd level.
 
@@ -114,7 +114,7 @@ Whether it's with a bullet from a sling, a quarrel from a crossbow, or even an e
 
 A stygian slayer crawls out of the darkest shadows to strike fear into the hearts of civilized folk. He's a merciless killer who can control a sliver of magic, allowing him to arrive unseen, commit murder, and depart without detection.
 
-**Weapon and Armor Proficiency**: A stygian slayer is proficient with light armor, but not with medium armor, heavy armor, or any kind of shield (including tower shields). This replaces the slayer's weapon and armor proficiency.
+**Weapon and Armor Proficiency**: A stygian slayer is proficient with [light armor](../../equipment/armor.md), but not with [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), or any kind of shield (including [tower shields](../../equipment/armor.md)). This replaces the slayer's weapon and armor proficiency.
 
 **Invisibility (Sp)**: At 4th level, a stygian slayer can cast invisibility once per day, using his slayer level as his caster level. The slayer uses his Intelligence modifier for concentration checks when using this ability. The slayer can use this an additional time per day at 8th level and every 4 levels thereafter. This ability replaces the slayer talent gained at 4th level.
 
@@ -218,7 +218,7 @@ Velvet blades specialize in infiltrating the upper echelons of society, mingling
 
 **Class Skills**: A velvet blade adds Diplomacy and Knowledge (nobility) to her list of class skills, instead of Knowledge (dungeoneering). This alters the slayer’s class skills.
 
-**Armor Proficiency**: A velvet blade is not proficient with medium armor or shields. This alters the slayer’s armor proficiency.
+**Armor Proficiency**: A velvet blade is not proficient with [medium armor](../../equipment/armor.md) or [shields](../../equipment/armor.md). This alters the slayer’s armor proficiency.
 
 **Studied Socialite (Ex)**: A velvet blade focuses her studies on social infiltration rather than brute force, believing it is easier to kill an opponent quietly and unprepared than in a loud battle. She adds her studied target bonus on Bluff, Diplomacy, Disguise, Intimidate, Knowledge, Perception, Sense Motive, Stealth, and Survival checks against studied opponents, as well as to the DCs of slayer class abilities she uses against such opponents. She never gains a bonus on weapon attack and damage rolls from her studied target ability. This ability alters studied target.
 
@@ -236,7 +236,7 @@ Bloody jakes are cruel backwoods folk who prey upon their country cousins while 
 
 **Favored Terrain (Ex)**: At 1st level, a bloody jake can select a type of terrain from the favored terrain table for rangers, though he is restricted to cold, desert, forest, jungle, mountains, plains, and swamp. His bonuses when in this terrain increase by 2 at 5th level and every 5 slayer levels thereafter, though he does not gain the ability to select additional favored terrains unless he takes the terrain mastery rogue talent.
 
-This ability replaces the slayer’s proficiency in medium armor and shields.
+This ability replaces the slayer’s proficiency in [medium armor](../../equipment/armor.md) and [shields](../../equipment/armor.md).
 
 **Cruel Tricks**: Bloody jakes use backwoods folk magic to confuse, terrify, and weaken their prey. A bloody jake can use this ability a number of times per day equal to his slayer level + his Charisma modifier. He gains the cruel tricks below at the indicated slayer levels.
 
@@ -356,7 +356,7 @@ Originally trained and employed by enforcers seeking to defend a godless nation 
 
 Followers of a demonic harbinger of gunpowder and poisonous metals hide throughout the magic-ravaged wastes, scavenging for guns. With significant firepower in hand, these snipers bring poisonous death to the wastes.
 
-**Weapon and Armor Proficiency**: A toxic sniper is proficient with all simple weapons and firearms. He is proficient with light armor. This alters the toxic sniper's weapon and armor proficiency.
+**Weapon and Armor Proficiency**: A toxic [sniper](../../equipment/weapons-firearms.md) is proficient with all [simple weapons](../../equipment/weapons-simple.md) and [firearms](../../equipment/weapons-firearms.md). He is proficient with [light armor](../../equipment/armor.md). This alters the toxic sniper's weapon and armor proficiency.
 
 **Scrapper's Gun**: A toxic sniper gains the Gunsmithing feat, a battered gun identical to that gained by a 1st-level gunslinger, and the ability to restore his battered gun as if he were a gunslinger. This replaces track.
 

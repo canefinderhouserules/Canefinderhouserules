@@ -53,7 +53,7 @@ The Forest Warden’s class skills are Acrobatics (Dex), Bluff (Cha), Climb (Str
 
 All of the following are class features of the forest warden prestige class.
 
-**Weapon and Armor Proficiency**: Forest wardens are proficient with all simple and martial weapons, and light armor and bucklers.
+**Weapon and Armor Proficiency**: Forest wardens are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), and [light armor](../../equipment/armor.md) and [bucklers](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3).
 
 **Forest Magic (Sp)**: A forest warden is one with the forest and gains a number of spell-like abilities due to this arboreal affinity. She uses her forest warden level as her caster level. She can select one of the following spells to gain as a spell-like ability at 1st level, usable once per day: [*alarm*](../../magic/spells/alarm.md), [*detect snares and pits*](../../magic/spells/detect-snares-and-pits.md), [*endure elements*](../../magic/spells/endure-elements.md), [*entangle*](../../magic/spells/entangle.md), [*jump*](../../magic/spells/jump.md), [*longstrider*](../../magic/spells/longstrider.md), or [*pass without trace*](../../magic/spells/pass-without-trace.md). Spell-like abilities selected from this list can be used three times per day at 3rd level and five times per day at 5th level.
 

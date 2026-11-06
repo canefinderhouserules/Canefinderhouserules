@@ -45,7 +45,7 @@ The kineticist’s class skills are Acrobatics (Dex), Craft (Int), Heal (Wis), I
 
 The following are the class features of the kineticist.
 
-**Weapon and Armor Proficiency**: Kineticists are proficient with all simple weapons and light armor, but not shields.
+**Weapon and Armor Proficiency**: Kineticists are proficient with all [simple weapons](../../equipment/weapons-simple.md) and [light armor](../../equipment/armor.md), but not [shields](../../equipment/armor.md).
 
 **Elemental Focus (Su)**: At 1st level, a kineticist chooses one primary element on which to focus. This element determines how she accesses the raw power of the Ethereal Plane, and grants her access to specific wild talents (see below) and additional class skills. She can select aether (telekinesis), air (aerokinesis), earth (geokinesis), fire (pyrokinesis), or water (hydrokinesis). A geokineticist can choose acid blast (see Earth). She gains her selected element’s basic utility wild talent (basic telekinesis, basic aerokinesis, basic geokinesis, basic pyrokinesis, or basic hydrokinesis) as a bonus wild talent. See Elements for the specific abilities granted by each element.
 

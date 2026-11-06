@@ -47,7 +47,7 @@ The skald's class skills are Acrobatics (Dex), Appraise (Int), Bluff(Cha), Climb
 
 The following are the class features of the skald.
 
-**Weapon and Armor Proficiency**: A skald is proficient with all simple and martial weapons, light and medium armor, and shields (except tower shields). A skald can cast skald spells while wearing light or medium armor and even using a shield without incurring the normal arcane spell failure chance. This does not affect the arcane spell failure chance for arcane spells received from other classes. Like other arcane spellcasters, a skald wearing heavy armor incurs a chance of arcane spell failure if the spell in question has somatic components.
+**Weapon and Armor Proficiency**: A skald is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), light and [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). A skald can cast skald spells while wearing light or medium armor and even using a shield without incurring the normal arcane spell failure chance. This does not affect the arcane spell failure chance for arcane spells received from other classes. Like other arcane spellcasters, a skald wearing [heavy armor](../../equipment/armor.md) incurs a chance of arcane spell failure if the spell in question has somatic components.
 
 **Bardic Knowledge (Ex)**: A skald adds 1/2 his class level (minimum 1) on all Knowledge skill checks, and may make all Knowledge skill checks untrained.
 

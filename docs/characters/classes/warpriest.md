@@ -49,7 +49,7 @@ The warpriest's class skills are Climb (Str), Craft (Int), Diplomacy (Cha), Hand
 
 The following are the class features of the warpriest.
 
-**Weapon and Armor Proficiencies**: A warpriest is proficient with all simple and martial weapons, as well as the favored weapon of his deity, and with all armor (heavy, light, and medium) and shields (except tower shields). If the warpriest worships a deity with unarmed strike as its favored weapon, the warpriest gains [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat.
+**Weapon and Armor Proficiencies**: A warpriest is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), as well as the favored weapon of his deity, and with all armor (heavy, light, and medium) and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). If the warpriest worships a deity with unarmed strike as its favored weapon, the warpriest gains [Improved Unarmed Strike](../../rules/feats/improved-unarmed-strike.md) as a bonus feat.
 
 **Spells**: A warpriest casts divine spells drawn from the cleric spell list. His alignment, however, can restrict him from casting certain spells opposed to his moral or ethical beliefs; see the Chaotic, Evil, Good, and Lawful Spells section in the Core Rulebook. A warpriest must choose and prepare his spells in advance.
 

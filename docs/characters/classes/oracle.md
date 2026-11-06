@@ -70,7 +70,7 @@ The oracle’s class skills are Craft (Int), Diplomacy (Cha), Heal (Wis), Knowle
 
 The following are the class features of the oracle.
 
-**Weapon and Armor Proficiency**: Oracles are proficient with all simple weapons, light armor, medium armor, and shields (except tower shields). Some oracle revelations grant additional proficiencies.
+**Weapon and Armor Proficiency**: Oracles are proficient with all [simple weapons](../../equipment/weapons-simple.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). Some oracle revelations grant additional proficiencies.
 
 **Spells**: An oracle casts divine spells drawn from the cleric spell lists. She can cast any spell she knows without preparing it ahead of time. To learn or cast a spell, an oracle must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against an oracle’s spell is 10 + the spell’s level + the oracle’s Charisma modifier.
 

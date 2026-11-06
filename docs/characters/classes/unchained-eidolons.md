@@ -217,7 +217,7 @@ Embodiments of the untamable beauty and noble passion of Elysium, azata eidolons
 
 **Base Form**: Biped (limbs [arms], limbs [legs]) or serpentine (limbs [arms], tail, tail slap).
 
-**Base Evolutions**: At 1st level, azata eidolons gain the resistance (electricity) evolution and the 4-point weapon training evolution (proficiency in martial weapons).
+**Base Evolutions**: At 1st level, azata eidolons gain the resistance (electricity) evolution and the 4-point weapon training evolution (proficiency in [martial weapons](../../equipment/weapons-martial.md)).
 
 At 4th level, azata eidolons gain cold resistance 10 and fire resistance 10.
 
@@ -497,7 +497,7 @@ Kami eidolons are spirits of nature bound to an unchained summoner. They seek to
 
 **Base Form**: Biped (limbs [arms], limbs [legs], slam).
 
-**Base Evolutions**: At 1st level, a kami eidolon gains the resistance (fire) evolution and the 4-point weapon training evolution (proficiency in martial weapons).
+**Base Evolutions**: At 1st level, a kami eidolon gains the resistance (fire) evolution and the 4-point weapon training evolution (proficiency in [martial weapons](../../equipment/weapons-martial.md)).
 
 At 4th level, a kami eidolon gains acid resistance 10 and cold resistance 10.
 
@@ -649,7 +649,7 @@ The save DC is equal to 10 + 1/2 the eidolon’s Hit Dice + the eidolon’s Cons
 
 **Trip (Ex)**: The eidolon becomes adept at knocking foes to the ground with its bite, granting it a trip attack. Whenever the eidolon makes a successful bite attack, it can attempt a free combat maneuver check. If the eidolon succeeds at this check, the target is knocked prone. If the eidolon fails, it is not tripped in return. This ability works only on creatures of a size category equal to or smaller than the eidolon. Requirements: Daemon, demon, devil, elemental, or protean subtype; bite evolution.
 
-**Weapon Training (Ex)**: The eidolon learns to use a weapon, gaining [Simple Weapon Proficiency](../../rules/feats/simple-weapon-proficiency.md) as a bonus feat. If 2 additional evolution points are spent, it gains proficiency with all martial weapons as well.
+**Weapon Training (Ex)**: The eidolon learns to use a weapon, gaining [Simple Weapon Proficiency](../../rules/feats/simple-weapon-proficiency.md) as a bonus feat. If 2 additional evolution points are spent, it gains proficiency with all [martial weapons](../../equipment/weapons-martial.md) as well.
 
 ### 3-Point Evolutions
 
@@ -769,7 +769,3 @@ The following evolutions are used by aberrant eidolons and other strange eidolon
 **Disease (Ex)**: One of the eidolon's natural weapons carries a disease chosen from the following list: bubonic plague, filth fever, leprosy, red ache, or shakes. Each hit forces a saving throw against the disease's normal effects. The disease has no onset, however. The save DC equals 10 + 1/2 the eidolon's Hit Dice + the eidolon's Constitution modifier. The eidolon can expose a creature to its disease no more than once per round. By spending 2 additional evolution points, you can instead choose the following additional diseases: demon fever (only if the eidolon has the demon subtype), devil chills (only if the eidolon has the devil subtype), or slimy doom. *Requirements*: Aberrant, daemon, demon, or devil subtype or the undead appearance evolution; summoner level 7th.
 
 **Superior Psychic Magic**: The eidolon has 7 points of psychic magic to spend each day. Select one spell from the following list: [*confusion*](../../magic/spells/confusion.md), *deeper darkness*, [*displacement*](../../magic/spells/displacement.md), [*jester's jaunt*](../../magic/spells/jesters-jaunt.md), *id insinuation II*, or *mind thrust III*. The eidolon can cast that spell as a psychic spell by spending 3 points of psychic energy. The caster level and save DC are the same as for basic psychic magic. This evolution can be selected more than once, selecting a different spell each time. The eidolon's amount of psychic energy available to spend each day does not stack; it uses only the highest number of points granted by its most powerful psychic magic evolution. *Requirements*: Aberrant subtype; advanced psychic magic evolution; summoner level 11th; Charisma 13.
-
-## Favored Class Bonuses
-
-Any character can take a bonus from the [universal favored class bonuses](../favored-class-bonuses/favored-class-bonuses.md) for this class. Each race's official options are listed on its [race page](../races/index.md).

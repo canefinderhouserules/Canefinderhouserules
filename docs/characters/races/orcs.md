@@ -36,7 +36,7 @@ Orcs look upon half-orcs with a strange mixture of contempt, envy, and pride. Th
 
 **Ferocity**: Orcs can remain conscious and continue fighting even if their hit point totals fall below 0. Orcs are still staggered at 0 hit points or lower and lose 1 hit point each round as normal.
 
-**Weapon Familiarity**: Orcs are always proficient with greataxes and falchions, and treat any weapon with the word “orc” in its name as a martial weapon.
+**Weapon Familiarity**: Orcs are always proficient with [greataxes](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons) and [falchions](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), and treat any weapon with the word “orc” in its name as a martial weapon.
 
 **Languages**: Orcs begin play speaking Common and Orc. Orcs with high Intelligence scores can chose from the following: Dwarven, Giant, Gnoll, Goblin, Undercommon.
 

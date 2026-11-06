@@ -37,7 +37,7 @@ The sea pirate's class skills (and the key ability for each skill) are Appraise 
 
 The following are class features of the sea pirate prestige class.
 
-**Weapon and Armor Proficiency**: A sea pirate gains proficiency with the cutlass, hook hand, rapier, and short sword. She gains no armor proficiency.
+**Weapon and Armor Proficiency**: A sea pirate gains proficiency with the [cutlass](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [hook hand](../../equipment/weapons-simple.md#simple-light-melee-weapons), [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons). She gains no armor proficiency.
 
 **Sneak Attack (Ex)**: This ability is exactly like the rogue ability of the same name. The extra damage dealt increases by +1d6 at 4th level and every three levels thereafter. If a sea pirate gets a sneak attack bonus from another source, the damage bonuses stack.
 

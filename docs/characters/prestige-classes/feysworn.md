@@ -41,7 +41,7 @@ The Feysworn’s class skills are Bluff (Cha), Handle Animal (Cha), Intimidate (
 
 The following are the class features of the feysworn prestige class.
 
-**Weapon and Armor Proficiency**: A feysworn gains proficiency with all simple weapons and with her fey lord’s favored weapon. She gains no additional proficiency with armor or shields.
+**Weapon and Armor Proficiency**: A feysworn gains proficiency with all [simple weapons](../../equipment/weapons-simple.md) and with her fey lord’s favored weapon. She gains no additional proficiency with armor or [shields](../../equipment/armor.md).
 
 **Spells per Day or Spells Known**: At the indicated levels, when a new feysworn level is gained, the character gains new spells per day as if she had also gained a level in a spellcasting class she belonged to before taking the prestige class. She doesn't gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if she is a spontaneous spellcaster), and an increased effective level of spellcasting. If the character had levels in more than one spellcasting class before becoming a feysworn, she must choose to which class she adds the new level for the purposes of determining spells per day.
 

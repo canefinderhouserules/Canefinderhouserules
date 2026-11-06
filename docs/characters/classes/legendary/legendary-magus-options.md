@@ -8,7 +8,7 @@
 
 **Bulwark Style**
 
-At 1st level, the legendary magus gains proficiency in shields (including tower shields) and does not incur arcane spell failure chance from a wielded shield while casting magus spells. The legendary magus treats a hand wielding a shield as a free hand for the purposes of casting spells with somatic components. She gains a bonus to her Reflex saving throws equal to her shield’s bonus to AC (including its enhancement bonus if it has one). When using a buckler, the legendary magus only benefits from this tome if the buckler is providing her a bonus to her armor class. If it is not, she does not gain any of the tome’s passive benefits, nor can she use the tome’s abilities that cost actions or are used as part of an action.
+At 1st level, the legendary magus gains proficiency in [shields](../../../equipment/armor.md) (including [tower shields](../../../equipment/armor.md)) and does not incur arcane spell failure chance from a wielded shield while casting magus spells. The legendary magus treats a hand wielding a shield as a free hand for the purposes of casting spells with somatic components. She gains a bonus to her Reflex saving throws equal to her shield’s bonus to AC (including its enhancement bonus if it has one). When using a [buckler](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3), the legendary magus only benefits from this tome if the buckler is providing her a bonus to her armor class. If it is not, she does not gain any of the tome’s passive benefits, nor can she use the tome’s abilities that cost actions or are used as part of an action.
 
 **Storing Shield**
 
@@ -112,7 +112,7 @@ At 15th level, the legendary magus truly becomes an unstoppable force. She no lo
 
 **Magister Style**
 
-At 1st level, the legendary magus’ tome becomes more than a point of study. To use the features of this tome, the legendary magus must be holding it in her off hand. She treats her tome as if it were a masterwork light shield with 0% Arcane Spell Failure and no armor check penalty. She is proficient in her tome, takes no improvised weapon penalty when using it to make attacks, and can enchant her tome as if it were a shield.
+At 1st level, the legendary magus’ tome becomes more than a point of study. To use the features of this tome, the legendary magus must be holding it in her off hand. She treats her tome as if it were a masterwork [light shield](../../../equipment/weapons-martial.md#martial-light-melee-weapons) with 0% Arcane Spell Failure and no armor check penalty. She is proficient in her tome, takes no improvised weapon penalty when using it to make attacks, and can enchant her tome as if it were a shield.
 
 She treats her hand wielding her tome as if it were free for the purposes of casting spells with somatic components. In addition, the legendary magus adds a spell to her tome from the sorcerer/wizard spell list. This spell must be of a level she can cast. For each level after first she adds an additional spell to her tome in the same way. These spells are added retroactively if the legendary magus gains the tome of the magister through the Expanded Training legendary arcana.
 
@@ -192,9 +192,9 @@ At 15th level, the legendary magus increases the reach of her weapons with the r
 
 **Armored Mage**
 
-**Prerequisite(s)**: Proficiency and ability to cast magus spells with medium armor
+**Prerequisite(s)**: Proficiency and ability to cast magus spells with [medium armor](../../../equipment/armor.md)
 
-**Benefit(s)**: The legendary magus gains proficiency with heavy armor and can cast magus spells in heavy armor without incurring the armors normal arcane spell failure chance.
+**Benefit(s)**: The legendary magus gains proficiency with [heavy armor](../../../equipment/armor.md) and can cast magus spells in heavy armor without incurring the armors normal arcane spell failure chance.
 
 **Bane Blade (Su, Blade)**
 

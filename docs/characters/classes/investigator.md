@@ -47,7 +47,7 @@ The investigator's class skills are Acrobatics (Dex), Appraise (Int), Bluff (Cha
 
 The following are the class features of the investigator.
 
-**Weapon and Armor Proficiency**: Investigators are proficient with simple weapons, plus the hand crossbow, rapier, sap, shortbow, short sword, and sword caneuE. They are proficient in light armors, but not shields.
+**Weapon and Armor Proficiency**: Investigators are proficient with [simple weapons](../../equipment/weapons-simple.md), plus the [hand crossbow](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [rapier](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), [sap](../../equipment/weapons-martial.md#martial-light-melee-weapons), [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons), [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons), and sword caneuE. They are proficient in [light armors](../../equipment/armor.md), but not [shields](../../equipment/armor.md).
 
 **Alchemy (Su)**: Investigators are highly trained in the creation of mundane alchemical substances and magical potionlike extracts.
 

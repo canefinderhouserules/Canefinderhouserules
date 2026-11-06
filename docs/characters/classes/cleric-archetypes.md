@@ -122,7 +122,7 @@ Harm—Creatures are sickened until the end of your next turn, plus a number of 
 
 Cloistered clerics typically live in a temple and rarely interact with the outside world. They are bookish and well learned in the lore of the faith, paying less attention to its magical and martial aspects. A cloistered cleric has the following class features.
 
-**Weapon and Armor Proficiency**: Cloistered clerics are proficient with light armor and with the following weapons: club, heavy mace, light mace, quarterstaff, and sling. They are not proficient with shields.
+**Weapon and Armor Proficiency**: Cloistered clerics are proficient with [light armor](../../equipment/armor.md) and with the following weapons: [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [heavy mace](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [light mace](../../equipment/weapons-simple.md#simple-light-melee-weapons), [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), and [sling](../../equipment/weapons-simple.md#simple-ranged-weapons). They are not proficient with [shields](../../equipment/armor.md).
 
 **Class Skills**: The cloistered cleric’s class skills are Appraise (Int), Craft (Int), Diplomacy (Cha), Heal (Wis), Knowledge (all) (Int), Linguistics (Int), Profession (Wis), Sense Motive (Wis), and Spellcraft (Int).
 
@@ -178,7 +178,7 @@ A cleric cannot take the undead lord archetype unless her deity’s portfolio in
 
 Eschewing physical armor for protection via the strength of his faith, an ecclesitheurge focuses on the miracles his deity bestows and the breadth of that deity's dominion.
 
-**Weapon and Armor Proficiency**: An ecclesitheurge is proficient with the club, dagger, heavy crossbow, light crossbow, and quarterstaff, but he's not proficient with any type of armor or shield. This replaces the cleric's weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: An ecclesitheurge is proficient with the [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [dagger](../../equipment/weapons-simple.md#simple-light-melee-weapons), [heavy crossbow](../../equipment/weapons-simple.md#simple-ranged-weapons), [light crossbow](../../equipment/weapons-simple.md#simple-ranged-weapons), and [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), but he's not proficient with any type of armor or shield. This replaces the cleric's weapon and armor proficiencies.
 
 **Ecclesitheurge's Vow**: At 1st level, an ecclesitheurge makes a vow to his deity to be protected solely by his faith, not by armor or shields. An ecclesitheurge who wears prohibited armor or uses a prohibited shield is unable to use his blessing of the faithful ability, use cleric domain powers, or cast cleric spells.
 
@@ -198,7 +198,7 @@ Crusaders serve the militant arm of a church, ready to stand guard over the reli
 
 **Diminished Spellcasting**: A crusader chooses only one domain and gains one fewer spell of each level than normal. If this reduces the number to 0, she may cast spells of that level only if they are domain spells or if her Wisdom allows bonus spells of that level.
 
-**Bonus Feat**: A crusader gains a bonus feat at 1st level, then again at 5th level and every five levels thereafter (to a maximum of five at 20th level). These bonus feats must be chosen from the following list: Heavy Armor Proficiency, [Improved Shield Bash](../../rules/feats/improved-shield-bash.md), Martial Weapon Proficiency, [Saving Shield](../../rules/feats/saving-shield.md), [Shield Focus](../../rules/feats/shield-focus.md), [Tower Shield Proficiency](../../rules/feats/tower-shield-proficiency.md), and Weapon Focus. At 10th level, a crusader may also choose from the following feats: Exotic Weapon Proficiency, [Greater Shield Focus](../../rules/feats/greater-shield-focus.md), [Greater Weapon Focus](../../rules/feats/greater-weapon-focus.md), [Improved Critical](../../rules/feats/improved-critical.md), [Shield Slam](../../rules/feats/shield-slam.md), [Shield Specialization](../../rules/feats/shield-specialization.md), and [Weapon Specialization](../../rules/feats/weapon-specialization.md). At 20th level, a crusader may also choose from the following feats: [Greater Shield Specialization](../../rules/feats/greater-shield-specialization.md) and [Greater Weapon Specialization](../../rules/feats/greater-weapon-specialization.md). Bonus feats marked with an asterisk (*) must be applied to the favored weapon of the crusader’s deity. A crusader need not meet the normal class- or level-based prerequisites for these bonus feats.
+**Bonus Feat**: A crusader gains a bonus feat at 1st level, then again at 5th level and every five levels thereafter (to a maximum of five at 20th level). These bonus feats must be chosen from the following list: [Heavy Armor](../../equipment/armor.md) Proficiency, [Improved Shield Bash](../../rules/feats/improved-shield-bash.md), Martial Weapon Proficiency, [Saving Shield](../../rules/feats/saving-shield.md), [Shield Focus](../../rules/feats/shield-focus.md), [Tower Shield Proficiency](../../rules/feats/tower-shield-proficiency.md), and Weapon Focus. At 10th level, a crusader may also choose from the following feats: Exotic Weapon Proficiency, [Greater Shield Focus](../../rules/feats/greater-shield-focus.md), [Greater Weapon Focus](../../rules/feats/greater-weapon-focus.md), [Improved Critical](../../rules/feats/improved-critical.md), [Shield Slam](../../rules/feats/shield-slam.md), [Shield Specialization](../../rules/feats/shield-specialization.md), and [Weapon Specialization](../../rules/feats/weapon-specialization.md). At 20th level, a crusader may also choose from the following feats: [Greater Shield Specialization](../../rules/feats/greater-shield-specialization.md) and [Greater Weapon Specialization](../../rules/feats/greater-weapon-specialization.md). Bonus feats marked with an asterisk (*) must be applied to the favored weapon of the crusader’s deity. A crusader need not meet the normal class- or level-based prerequisites for these bonus feats.
 
 **Legion’s Blessing (Su)**: At 8th level, a crusader gains the ability to confer beneficial spells quickly to a large group of allies. As a full-round action, the crusader may confer the effects of a single harmless spell with a range of touch to a number of creatures equal to half her cleric level. The spell’s range remains touch, so all intended recipients must be within the crusader’s reach when the spell is cast. Using the legion’s blessing expends the prepared spell, but it also requires the crusader to sacrifice another prepared spell three levels higher, as when spontaneously using a cure or inflict spell. The higher-level spell is not cast but is simply lost, its magical energy used to power the legion’s blessing.
 
@@ -218,7 +218,7 @@ The divine strategist leads the armies of the faithful, not from the front lines
 
 The evangelist is the voice of her religion in the world. Where others nurture the faith among believers, an evangelist proclaims the coming glory of her deific patron and issues the clarion call to all around to heed the truth, or obey the call to war and crusade against the enemies of the church.
 
-**Single-Minded**: An evangelist focuses her skills and learning on proclamation rather than the fine details of the church’s deeper mysteries or martial training. Thus, she may select only one domain and does not gain Medium Armor Proficiency or [Shield Proficiency](../../rules/feats/shield-proficiency.md).
+**Single-Minded**: An evangelist focuses her skills and learning on proclamation rather than the fine details of the church’s deeper mysteries or martial training. Thus, she may select only one domain and does not gain [Medium Armor](../../equipment/armor.md) Proficiency or [Shield Proficiency](../../rules/feats/shield-proficiency.md).
 
 **Public Speaker**: An evangelist gains Perform as a class skill. In addition, she is trained to project her voice with great skill and effect; the DC to hear her speak in difficult conditions is reduced by an amount equal to her class level plus her Charisma modifier (minimum 0).
 
@@ -345,7 +345,7 @@ Forgemasters are priestly dwarves who are ritual casters and expert enchanters, 
 
 While a cleric’s faith is her highest priority, her church may wield significant political power in some regions. In these cases, cardinals arise from the ranks of the clergy, engaging in the game of intrigue on behalf of their churches. While some cardinals manage to join the world of politics and retain the purity of their faith, many cardinals find that they must compromise some part of their beliefs in pursuit of their church’s political power, and some cardinals even fall prey to the corrupting influence of their power.
 
-**Armor Proficiency**: A cardinal is proficient in light armor, but not shields. This ability replaces the cleric’s armor proficiencies.
+**Armor Proficiency**: A cardinal is proficient in [light armor](../../equipment/armor.md), but not [shields](../../equipment/armor.md). This ability replaces the cleric’s armor proficiencies.
 
 **Political Skill**: A cardinal adds Bluff, Intimidate, Knowledge (geography), and Knowledge (local) to her list of class skills. She gains a number of skill ranks equal to 6 + her Intelligence modifier at each level, instead of the normal 2 + her Intelligence modifier. However, she gains only one domain, and her base attack bonus from cleric levels is equal to half her class level (which is the same as for a sorcerer or wizard). This ability replaces the cleric’s spontaneous casting ability. It alters the cleric’s domains, as well as her class skills, skill ranks per level, and base attack bonus.
 
@@ -421,7 +421,7 @@ This ability alters domains.
 
 **Nimble (Ex)**: The sacred attendant gains a +1 dodge bonus to AC and CMD when unarmored, unencumbered, and not denied her Dexterity bonus to AC (regardless of whether she has a Dexterity bonus). At 2nd level and every 4 cleric levels thereafter, the dodge bonus increases by 1 (to a maximum of +6 at 18th level).
 
-This ability replaces the cleric’s proficiency with light and medium armor.
+This ability replaces the cleric’s proficiency with light and [medium armor](../../equipment/armor.md).
 
 **Nurture Grace (Su)**: The sacred attendant can coax forth the charm and beauty within a willing, touched creature as a standard action. For 1 round, the subject gains an enhancement bonus equal to 1/2 the sacred attendant’s cleric level (minimum +1) on Charisma checks and Charisma-based skill checks. The sacred attendant can spend two uses of this ability to instead counsel a subject for 10 minutes; in this case, the ability’s duration lasts for 1 day. The sacred attendant can use this ability a number of times per day equal to 3 + her Wisdom modifier.
 
@@ -451,7 +451,7 @@ Whenever a stoic caregiver stops bleeding with the Heal skill or magical healing
 
 Angelfire apostles use the powers of good to avoid violence when possible and cleanse both maladies and evil creatures with blinding flames. Angelfire apostles typically follow deities of mercy, light, and redemption.
 
-**Armor Proficiency**: Angelfire apostles are not proficient with medium armor.
+**Armor Proficiency**: Angelfire apostles are not proficient with [medium armor](../../equipment/armor.md).
 
 This ability alters the cleric’s armor proficiency.
 
@@ -499,7 +499,7 @@ This ability replaces one of the cleric's two 1st-level domain powers (her choic
 
 Crusade-minded clerics flock to the borders of lands overrun by demonic forces, drawn by glory, plunder, or the desire to slay fiends. There they learn battlefield tactics and the weaknesses of demons, then strike out to make a name for themselves.
 
-**Weapon and Armor Proficiency**: A crusader priest is proficient with all simple weapons, light armor, medium armor, heavy armor, shields (except tower shields), and the favored weapon of her deity.
+**Weapon and Armor Proficiency**: A crusader priest is proficient with all [simple weapons](../../equipment/weapons-simple.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)), and the favored weapon of her deity.
 
 **Diminished Spellcasting**: A crusader priest chooses only one domain from her deity's list of domains rather than the normal two domains. In all other respects, this works like and replaces the standard cleric domain ability.
 
@@ -513,13 +513,13 @@ While most clerics are associated with a particular temple, adventuring clerics 
 
 **Fortunate Road**: At 1st level, a wayfaring pilgrim must select the Chaos, Community, Liberation, Luck, Travel, or Weather domain (or the Exploration, Fate, Freedom, Trade, or Seasons subdomains, if available in the campaign) as one of her domains. If the cleric worships a deity that doesn't normally grant one of these domains, she gains access to this domain but can only pick this one domain—she effectively loses the option to pick a second domain. As a result, very few clerics who worship deities who don't grant access to one of the domains or subdomains listed above opt to become wayfaring pilgrims. In all other respects, this works like and replaces the standard cleric's domain ability.
 
-**Caravan Bond (Su)**: At 1st level, by leading a group prayer for 1 minute, a wayfaring pilgrim can select a number of traveling companions equal to her cleric level + her Wisdom bonus. She may use her domain-granted powers on any of these traveling companions as if they were her. She can use these abilities on her traveling companions at a range of up to 30 feet, even if the ability normally requires her touch. This ability replaces the cleric's proficiency with medium armor and shields—she retains proficiency with light armor only.
+**Caravan Bond (Su)**: At 1st level, by leading a group prayer for 1 minute, a wayfaring pilgrim can select a number of traveling companions equal to her cleric level + her Wisdom bonus. She may use her domain-granted powers on any of these traveling companions as if they were her. She can use these abilities on her traveling companions at a range of up to 30 feet, even if the ability normally requires her touch. This ability replaces the cleric's proficiency with [medium armor](../../equipment/armor.md) and [shields](../../equipment/armor.md)—she retains proficiency with [light armor](../../equipment/armor.md) only.
 
 ## Blossoming Light
 
 Some clerics take their pursuit of purity and light to extremes. Blossoming lights forsake armor and weaponry in favor of opening their hearts to pure goodness. Many are peace-loving or even pacifistic, and nearly every blossoming light favors redemption over righteous wrath.
 
-**Promise of Faith**: A blossoming light vows to trust in her deity’s protection over arms and armor. She is not proficient with any armor or shields. The blossoming light cannot use or benefit from any of her class features (including spellcasting) while wearing armor or using a shield, or for 1 minute thereafter. This ability alters the cleric’s armor proficiencies.
+**Promise of Faith**: A blossoming light vows to trust in her deity’s protection over arms and armor. She is not proficient with any armor or [shields](../../equipment/armor.md). The blossoming light cannot use or benefit from any of her class features (including spellcasting) while wearing armor or using a shield, or for 1 minute thereafter. This ability alters the cleric’s armor proficiencies.
 
 **Promise of Purity**: A blossoming light must be truly pure of heart. She must be good-aligned and worship a nonevil deity. If the blossoming light willfully commits an evil act, she loses all class features (including spellcasting) until she atones. This alters the cleric’s alignment.
 
@@ -590,7 +590,7 @@ The roaming exorcist travels far and wide to root out possessions, hauntings, an
 
 **Skill Ranks per Level**: 4 + Int modifier.
 
-**Dedicated Wanderer**: A roaming exorcist is dedicated to her cause and affords no time to other pursuits typical of clerics. A roaming exorcist must choose to channel positive energy. She may choose only one domain from her deity's list of domains, rather than the normal two domains, and she does not gain medium armor proficiency or shield proficiency.
+**Dedicated Wanderer**: A roaming exorcist is dedicated to her cause and affords no time to other pursuits typical of clerics. A roaming exorcist must choose to channel positive energy. She may choose only one domain from her deity's list of domains, rather than the normal two domains, and she does not gain [medium armor](../../equipment/armor.md) proficiency or shield proficiency.
 
 **Unseen Revealed (Ex)**: At 1st level, a roaming exorcist gains a bonus equal to 1/2 her cleric level (minimum +1) on Perception checks to detect haunts and incorporeal creatures and on Sense Motive checks to determine whether a creature is possessed, under the effects of an enchantment or curse, or otherwise magically controlled.
 
@@ -610,7 +610,7 @@ Unlike warpriests or paladins, who charge headlong into battle in the name of th
 
 **Skill Ranks per Level**: 4 + Int modifier. This alters the cleric's class skills.
 
-**Dedicated Summoner**: A herald caller depends on summoned allies to overcome her foes, which affords her little experience with the martial pursuits typical of other clerics and a narrower spiritual focus. A herald caller can choose only one domain from her deity's list of domains, rather than the normal two domains, and she doesn't gain proficiency with medium armor or shields. This ability alters the cleric's domains and armor proficiencies.
+**Dedicated Summoner**: A herald caller depends on summoned allies to overcome her foes, which affords her little experience with the martial pursuits typical of other clerics and a narrower spiritual focus. A herald caller can choose only one domain from her deity's list of domains, rather than the normal two domains, and she doesn't gain proficiency with [medium armor](../../equipment/armor.md) or [shields](../../equipment/armor.md). This ability alters the cleric's domains and armor proficiencies.
 
 **Call Heralds (Su)**: A herald caller can channel stored spell energy into summoning spells that she hasn't prepared ahead of time. She can lose a prepared spell in order to cast any *summon monster* spell of the same level or lower. She gains a +1 bonus on concentration checks to cast a *summon monster* spell defensively. This bonus increases to +2 at 5th level, and increases by 1 every 5 cleric levels thereafter.
 
@@ -724,7 +724,7 @@ Priest-judges presided over justice in a fallen realm, driven by a zeal for disc
 
 People of high and low character flock to the crusader land for glory, plunder, or the desire to slay demons from the demonic rift. Crusade-minded clerics of the goddess of valor, the god of battle, and other churches come to the crusader land, learn battlefield tactics and the weaknesses of demons, and strike out to make a name for themselves. A crusader priest has the following class features.
 
-**Weapon and Armor Proficiency**: A crusader priest is proficient with all simple weapons, light armor, medium armor, heavy armor, shields (except tower shields), and the favored weapon of her deity.
+**Weapon and Armor Proficiency**: A crusader priest is proficient with all [simple weapons](../../equipment/weapons-simple.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)), and the favored weapon of her deity.
 
 **Diminished Spellcasting**: A crusader priest chooses only one domain from her deity’s list of domains rather than the normal two domains. In all other respects, this works like and replaces the standard cleric domain ability.
 
@@ -752,7 +752,7 @@ This ability alters aura.
 
 People of high and low character flock to the crusader land for glory, plunder, or the desire to slay demons from the demonic rift. Crusade-minded clerics of the goddess of valor, the god of battle, and other churches come to the crusader land, learn battlefield tactics and the weaknesses of demons, and strike out to make a name for themselves. A crusader priest has the following class features.
 
-**Weapon and Armor Proficiency**: A crusader priest is proficient with all simple weapons, light armor, medium armor, heavy armor, shields (except tower shields), and the favored weapon of her deity.
+**Weapon and Armor Proficiency**: A crusader priest is proficient with all [simple weapons](../../equipment/weapons-simple.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), [heavy armor](../../equipment/armor.md), [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)), and the favored weapon of her deity.
 
 **Diminished Spellcasting**: A crusader priest chooses only one domain from her deity’s list of domains rather than the normal two domains. In all other respects, this works like and replaces the standard cleric domain ability.
 

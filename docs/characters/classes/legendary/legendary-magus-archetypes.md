@@ -282,7 +282,7 @@ A legendary kensai has spent his life honing both his physical and magical train
 
 **Weapon and Armor Proficiencies**
 
-A legendary kensai is proficient in simple weapons and in a single martial or exotic melee weapon of his choice. A legendary kensai is not proficient with armor or shields and suffers normal arcane spell failure chance when casting magus spells while armored.
+A legendary kensai is proficient in [simple weapons](../../../equipment/weapons-simple.md) and in a single martial or exotic melee weapon of his choice. A legendary kensai is not proficient with armor or [shields](../../../equipment/armor.md) and suffers normal arcane spell failure chance when casting magus spells while armored.
 
 This modifies weapon and armor proficiencies.
 

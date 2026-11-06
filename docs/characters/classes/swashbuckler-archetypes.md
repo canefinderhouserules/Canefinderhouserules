@@ -108,7 +108,7 @@ In the hands of a trained warrior, a well-sharpened blade is deadly regardless o
 
 A number of organizations and kingdoms search for warriors who are brave (or foolish) enough to wield firearms on the battlefield. The daring nature of swashbucklers often makes them ideal candidates for such service.
 
-**Weapon Proficiency**: A musketeer gains proficiency with all simple weapons and martial weapons, as well as one-handed and two-handed firearms. This ability replaces the swashbuckler's weapon proficiencies.
+**Weapon Proficiency**: A musketeer gains proficiency with all [simple weapons](../../equipment/weapons-simple.md) and [martial weapons](../../equipment/weapons-martial.md), as well as one-handed and [two-handed firearms](../../equipment/weapons-firearms.md). This ability replaces the swashbuckler's weapon proficiencies.
 
 **Musketeer Instruction (Ex)**: At 1st level, a musketeer gains the benefits of the Weapon Finesse feature with the rapier (this counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites), as well as both Rapid Reload (musket)uc and Gunsmithing feats as bonus feats. This ability replaces swashbuckler finesse. Deed: The musketeer gains the following deed, which replaces an existing deed.
 
@@ -120,7 +120,7 @@ While some swashbucklers fight for queen and country, and others for coin, glory
 
 **Alignment**: A mysterious avenger must be of a good alignment, and must be dedicated to the protection of the good and the powerless under her care. If she ceases to be good or betrays the trust of those she was sworn to protect, she loses her secret identity and greater charmed life class features. She can regain them if she atones for her violations by some means that the GM sees fit (possibly by way of the atonement spell if the mysterious avenger is especially religious). Class Skills: A mysterious avenger adds Disguise to her list of class skills. This alters the swashbuckler's class skills.
 
-**Weapon and Armor Proficiency**: A mysterious avenger loses her proficiency with bucklers, but gains proficiency in the whip exotic weapon. This alters the swashbuckler's weapon and armor proficiency.
+**Weapon and Armor Proficiency**: A mysterious avenger loses her proficiency with [bucklers](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3), but gains proficiency in the [whip](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons) exotic weapon. This alters the swashbuckler's weapon and armor proficiency.
 
 **Avenger Finesse (Ex)**: At 2nd level, a mysterious avenger gains all of the benefits of the swashbuckler's finesse class feature, and gains the ability to use a whip in place of a light or one-handed piercing melee weapon for all swashbuckler class features and deeds. This ability alters swashbuckler finesse.
 
@@ -136,7 +136,7 @@ At ioth level, a mysterious avenger can study an opponent as a move or swift act
 
 While some swashbucklers take pride in their ability to wear down an opponent with great skill at arms and clever positioning, there are those who use firearms to get in close and hit hard.
 
-**Weapon Proficiency**: A picaroon gains proficiency with all simple weapons and martial weapons, as well as one-handed firearms. This replaces the swashbuckler's weapon proficiency. Panache: Unlike other swashbucklers, a picaroon regains panache when she confirms a critical hit or makes a killing blow with a light or one-handed piercing melee weapon or a one-handed firearm. This ability alters panache.
+**Weapon Proficiency**: A picaroon gains proficiency with all [simple weapons](../../equipment/weapons-simple.md) and [martial weapons](../../equipment/weapons-martial.md), as well as [one-handed firearms](../../equipment/weapons-firearms.md). This replaces the swashbuckler's weapon proficiency. Panache: Unlike other swashbucklers, a picaroon regains panache when she confirms a critical hit or makes a killing blow with a light or one-handed piercing melee weapon or a one-handed firearm. This ability alters panache.
 
 **Deeds**: The picaroon gains the following deeds, each of which replaces an existing deed.
 
@@ -258,7 +258,7 @@ This deed replaces the swashbuckler’s edge deed.
 
 Buckler duelists are specialists in an aggressive, lightly armored fighting style that utilizes the falcata and buckler.
 
-**Falcata Emphasis (Ex)**: At 1st level, a buckler duelist is proficient with falcatas and can treat a falcata as a one-handed piercing melee weapon for the purposes of the swashbuckler’s finesse as well as all feats and class abilities that refer to such a weapon. This ability replaces the derring-do deed.
+**Falcata Emphasis (Ex)**: At 1st level, a [buckler](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3) duelist is proficient with [falcatas](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons) and can treat a falcata as a one-handed piercing melee weapon for the purposes of the swashbuckler’s finesse as well as all feats and class abilities that refer to such a weapon. This ability replaces the derring-do deed.
 
 **Buckler Deeds (Ex)**: A buckler duelist gains the following deeds at the appropriate levels.
 
@@ -278,7 +278,7 @@ Buckler duelists are specialists in an aggressive, lightly armored fighting styl
 
 Cities with many dueling schools host students who are notoriously competitive, and street-corner duels at dawn and dusk are a constant of life. In most cases, while these lesser schools do not teach the formal techniques of the great dueling tradition, their methods mesh well with that signature style. While some favor more technical approaches, others study flashier maneuvers, wielding the curved blade with artful flair. Disdainfully called “bravos” by classically trained rivals, students of this approach have claimed the label with pride. Their most advanced techniques bear dragon-themed names as a snub to traditionalist sword duelists.
 
-**Dueling Swashbuckler (Ex)**: A sword duelist bravo focuses on the dueling sword, scorning the bucklers used by duelists of other styles. In addition, the relative safety and creature comforts allowed by life in a sprawling city reduces her need for athleticism. A sword duelist bravo gains Exotic Weapon Proficiency (dueling sword) as a bonus feat. She is not proficient with bucklers, and does not gain Climb or Swim as class skills. This ability alters the swashbuckler’s class skills and armor proficiencies.
+**Dueling Swashbuckler (Ex)**: A sword duelist bravo focuses on the [dueling sword](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons), scorning the [bucklers](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3) used by duelists of other styles. In addition, the relative safety and creature comforts allowed by life in a sprawling city reduces her need for athleticism. A sword duelist bravo gains Exotic Weapon Proficiency (dueling sword) as a bonus feat. She is not proficient with bucklers, and does not gain Climb or Swim as class skills. This ability alters the swashbuckler’s class skills and armor proficiencies.
 
 **Deeds**: A sword duelist bravo’s training and personality set her apart from the typical swashbuckler, and she gains the following deeds. These deeds function only when the bravo is wielding just a dueling sword.
 
@@ -348,7 +348,7 @@ Many bird-folk hold some bitterness at their lack of wings, and while a small nu
 
 *Swashbuckler archetype.* A monastic corsair practices a unique acrobatic martial art that draws inspiration from both the mysticism of monastic combat traditions and the flair of a swashbuckler. This style originated among far-travelling pirates and has since spread and become popular on the high seas.
 
-**Weapon and Armor Proficiency**: Monastic corsairs are proficient with simple weapons and all weapons from the monk weapon group, as well as light armor and bucklers. This replaces the swashbuckler's weapon and armor proficiency.
+**Weapon and Armor Proficiency**: Monastic corsairs are proficient with [simple weapons](../../equipment/weapons-simple.md) and all weapons from the monk weapon group, as well as [light armor](../../equipment/armor.md) and [bucklers](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3). This replaces the swashbuckler's weapon and armor proficiency.
 
 **Corsair Finesse (Ex)**: A monastic corsair gains the benefits of the Weapon Finesse feat with light or one-handed melee weapons from the monk weapon group, and she can use her Charisma score in place of Intelligence and Wisdom for the purpose of meeting prerequisites for combat feats. This ability counts as the Weapon Finesse feat for the purpose of meeting feat prerequisites. This replaces swashbuckler finesse.
 

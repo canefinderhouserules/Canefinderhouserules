@@ -31,7 +31,7 @@ To qualify to become a crimson templar, a character must fulfill all of the foll
 
 **Base Attack Bonus**: +4.
 
-**Feats**: Exotic Weapon Proficiency (bastard sword), [Power Attack](../../rules/feats/power-attack.md).
+**Feats**: Exotic Weapon Proficiency ([bastard sword](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons)), [Power Attack](../../rules/feats/power-attack.md).
 
 ??? note "Original requirements"
 
@@ -41,7 +41,7 @@ To qualify to become a crimson templar, a character must fulfill all of the foll
 
     **Base Attack Bonus**: +6.
 
-    **Feats**: Exotic Weapon Proficiency (bastard sword), Power Attack, Vital Strike.
+    **Feats**: Exotic Weapon Proficiency ([bastard sword](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons)), Power Attack, Vital Strike.
 
 ### Class Skills
 

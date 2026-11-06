@@ -16,7 +16,7 @@ The ranger’s class skills are Climb (Str), Craft (Int), Handle Animal (Cha), H
 
 All of the following are class features of the ranger.
 
-**Weapon and Armor Proficiency**: A ranger is proficient with all simple and martial weapons and with light armor, medium armor, and shields (except tower shields).
+**Weapon and Armor Proficiency**: A ranger is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md) and with [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 **Favored Enemy (Ex)**: At 1st level, a ranger selects a creature type from the ranger favored enemies table. He gains a +2 bonus on Bluff, Knowledge, Perception, Sense Motive, and Survival checks against creatures of his selected type. Likewise, he gets a +2 bonus on weapon attack and damage rolls against them. A ranger may make Knowledge skill checks untrained when attempting to identify these creatures.
 

@@ -84,7 +84,7 @@ Where other bloodragers learn to avoid or shrug off minor damage of all sorts, s
 
 Most bloodragers prefer light armor, but some learn the secret of using heavy armors. These steelbloods plod around the battlefield inspiring fear and delivering carnage from within a steel shell.
 
-**Weapon and Armor Proficiency**: A steelblood gains proficiency in heavy armor. A steelblood can cast bloodrager spells while wearing heavy armor without incurring an arcane spell failure chance. This replaces the bloodrager's armor proficiency.
+**Weapon and Armor Proficiency**: A steelblood gains proficiency in [heavy armor](../../equipment/armor.md). A steelblood can cast bloodrager spells while wearing heavy armor without incurring an arcane spell failure chance. This replaces the bloodrager's armor proficiency.
 
 **Indomitable Stance (Ex)**: At 1st level, a steelblood gains a +1 bonus on combat maneuver checks, to CMD against overrun combat maneuvers, and on Reflex saving throws against trample attacks. He also gains a +1 bonus to his AC against charge attacks and on attack and damage rolls against charging creatures. This ability replaces fast movement.
 
@@ -108,7 +108,7 @@ Like the urban barbarian, the urban bloodrager has learned to control her rage i
 
 **Class Skills**: An urban bloodrager adds Diplomacy (Cha), Knowledge (local) (Int), Linguistics (Int), and Profession (Wis) as class skills, and removes Handle Animal (Cha), Knowledge (nature) (Int), and Survival (Wis). This alters the bloodrager's class skills.
 
-**Weapon and Armor Proficiency**: An urban bloodrager isn't proficient with shields. This alters the bloodrager's weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: An urban bloodrager isn't proficient with [shields](../../equipment/armor.md). This alters the bloodrager's weapon and armor proficiencies.
 
 **Controlled Bloodrage**: When an urban bloodrager rages, she does not gain the normal benefits. Instead, she can apply a +4 morale bonus to her Constitution, Dexterity, or Strength. This bonus increases to +6 when she gains greater bloodrage and to +8 when she gains mighty bloodrage. She can apply the full bonus to one ability score or split the bonus between several scores in increments of 2. When using a controlled bloodrage, an urban bloodrager gains no bonus on Will saves, takes no penalties to AC, and can still use Charisma-, Dexterity-, and Intelligence-based skills. A controlled bloodrage still counts as a bloodrage for the purposes of any spells, feats, and other effects. This ability alters bloodrage.
 
@@ -217,7 +217,7 @@ A prowler at world’s end gains his spirit's lesser power at 1st level, its int
 
 *Bloodrager archetype.* All changelings have the potential to transform into hags, but the process is a slow one, requiring several nights to complete. When left incomplete—by virtue of a wily changeling's escape or her mother's death—the creature is scarred and saturated in arcane power. Though she remains in possession of her own faculties, the seeds of hag hatred sprout within her. These hag-riven wield powerful magic interlaced with more powerful emotions. The painful rituals that create a hag-riven can work for any creatures tenacious enough to endure them, and the art has sprung up as a defense against the devastating power of hags in various remote communities.
 
-**Arcane Influence**: A hag-riven bloodrager does not gain proficiency with martial weapons and must choose from one of the following bloodrager bloodlines: arcane, destined, elemental, fey, or hag (see [Bloodrager Bloodlines](bloodrager-bloodlines.md#hag)). This alters the bloodrager's weapon and armor proficiencies.
+**Arcane Influence**: A hag-riven bloodrager does not gain proficiency with [martial weapons](../../equipment/weapons-martial.md) and must choose from one of the following bloodrager bloodlines: arcane, destined, elemental, fey, or hag (see [Bloodrager Bloodlines](bloodrager-bloodlines.md#hag)). This alters the bloodrager's weapon and armor proficiencies.
 
 **Claws of the Hag (Ex)**: A hag-riven grows a pair of vicious claws that are treated as natural weapons. These claws are primary attacks and deal 1d4 points of damage each (1d3 for a Small creature) plus the hag-riven's Strength modifier. At 2nd level, these claws are considered magic weapons for the purpose of overcoming damage reduction. At 5th level, the damage increases to 1d6 points (1d4 for a Small creature). At 13th level, the hag-riven's claws threaten a critical hit on a natural roll of 19–20. At 16th level, the damage increases again to 1d8 points (1d6 for a Small creature). This replaces fast movement and uncanny dodge.
 

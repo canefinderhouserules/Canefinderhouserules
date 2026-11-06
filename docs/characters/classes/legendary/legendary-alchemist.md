@@ -58,9 +58,9 @@ The following are class features of the alchemist.
 
 #### Weapon and Armor Proficiencies
 
-Alchemists are proficient with all simple weapons, crossbows, and weapons with ‘alchemical’ in their name.
+Alchemists are proficient with all [simple weapons](../../../equipment/weapons-simple.md), crossbows, and weapons with ‘alchemical’ in their name.
 
-They are also proficient with light armor and bucklers.
+They are also proficient with [light armor](../../../equipment/armor.md) and [bucklers](../../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3).
 
 #### Alchemy (Su)
 

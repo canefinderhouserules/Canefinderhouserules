@@ -31,7 +31,7 @@ To qualify to become a sword duelist, a character must fulfill all of the follow
 
 ??? note "Original requirements"
 
-    **Feats**: Dazzling Display, Exotic Weapon Proficiency (dueling sword), Weapon Finesse, Weapon Focus (dueling sword).
+    **Feats**: Dazzling Display, Exotic Weapon Proficiency ([dueling sword](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons)), Weapon Finesse, Weapon Focus (dueling sword).
 
     **Skills**: Acrobatics 3 ranks, Intimidate 5 ranks, Knowledge (nobility) 3 ranks, Sense Motive 3 ranks.
 

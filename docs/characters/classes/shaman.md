@@ -47,7 +47,7 @@ The shaman's class skills are Craft (Int), Diplomacy (Cha), Fly (Dex), Handle An
 
 The following are the class features of the shaman.
 
-**Weapon and Armor Proficiencies**: A shaman is proficient with all simple weapons, and with light and medium armor.
+**Weapon and Armor Proficiencies**: A shaman is proficient with all [simple weapons](../../equipment/weapons-simple.md), and with light and [medium armor](../../equipment/armor.md).
 
 **Spells**: A shaman casts divine spells drawn from the shaman spell list. A shaman must choose and prepare her spells in advance.
 

@@ -454,7 +454,7 @@ This ability replaces the hex gained at 12th level.
 
 Some witches can bend the warp and weft of fabric and thread.
 
-**Weapon Proficiency**: A tatterdemalion is proficient with bolas, nets, and whips.
+**Weapon Proficiency**: A tatterdemalion is proficient with [bolas](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), nets, and [whips](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons).
 
 This alters the witch’s weapon proficiencies.
 

@@ -47,7 +47,7 @@ The ninja’s class skills are Acrobatics (Dex), Appraise (Int), Bluff (Cha), Cl
 
 The following are the class features of the ninja.
 
-**Weapon and Armor Proficiency**: Ninja are proficient with all simple weapons, plus the kama, katana, kusarigama, nunchaku, sai, shortbow, short sword, shuriken, siangham, and wakizashi. They are proficient with light armor but not with shields.
+**Weapon and Armor Proficiency**: Ninja are proficient with all [simple weapons](../../equipment/weapons-simple.md), plus the [kama](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [katana](../../equipment/weapons-eastern.md#exotic-one-handed-melee-weapons), [kusarigama](../../equipment/weapons-eastern.md#exotic-two-handed-melee-weapons-part-1), [nunchaku](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [sai](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [shortbow](../../equipment/weapons-martial.md#martial-ranged-weapons), [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons), [shuriken](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [siangham](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), and [wakizashi](../../equipment/weapons-eastern.md#exotic-light-melee-weapons). They are proficient with [light armor](../../equipment/armor.md) but not with [shields](../../equipment/armor.md).
 
 **Poison Use**: At 1st level, a ninja is trained in the use of poison and cannot accidentally poison herself when applying poison to a weapon.
 

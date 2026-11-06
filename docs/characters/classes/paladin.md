@@ -16,7 +16,7 @@ The paladin’s class skills are Craft (Int), Diplomacy (Cha), Handle Animal (Ch
 
 All of the following are class features of the paladin.
 
-**Weapon and Armor Proficiency**: Paladins are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
+**Weapon and Armor Proficiency**: Paladins are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), with all types of armor (heavy, medium, and light), and with [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 **Aura of Good (Ex)**: The power of a paladin’s aura of good (see the [*detect good*](../../magic/spells/detect-good.md) spell) is equal to her paladin level.
 

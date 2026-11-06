@@ -49,7 +49,7 @@ The brawler's class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Escap
 
 The following are the class features of the brawler.
 
-**Weapon and Armor Proficiency**: A brawler is proficient with all simple weapons plus the handaxe, short sword, and weapons from the close fighter weapon group. She is proficient with light armor, but not with shields.
+**Weapon and Armor Proficiency**: A brawler is proficient with all [simple weapons](../../equipment/weapons-simple.md) plus the [handaxe](../../equipment/weapons-martial.md#martial-light-melee-weapons), [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons), and weapons from the close fighter weapon group. She is proficient with [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
 
 **Brawler's Cunning (Ex)**: If the brawler's Intelligence score is less than 13, it counts as 13 for the purpose of meeting the prerequisites of combat feats.
 

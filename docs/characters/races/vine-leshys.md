@@ -66,7 +66,7 @@ The leshy can use this ability a number of times per day equal to its Constituti
 
 **Curiosity**: Vine leshys bearing gregarious spirits are more suited to learn about other cultures. They always treat Diplomacy and Linguistics as class skills, and they gain a +2 racial bonus on Diplomacy and Linguistics checks. This replaces pass without trace and plantspeech.
 
-**Lashvine**: Some vine leshys can sprout whip-like appendages. These individuals gain proficiency with whips and scorpion whips. As a free action, the vine leshy can turn one hand into a lashvine. A lashvine is a primary natural attack that deals 1d3 points of bludgeoning damage. A lashvine cannot hold items, wield weapons, or perform fine manipulation. This replaces change shape and verdant burst.
+**Lashvine**: Some vine leshys can sprout whip-like appendages. These individuals gain proficiency with [whips](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons) and [scorpion whips](../../equipment/weapons-exotic.md#exotic-light-melee-weapons). As a free action, the vine leshy can turn one hand into a lashvine. A lashvine is a primary natural attack that deals 1d3 points of bludgeoning damage. A lashvine cannot hold items, wield weapons, or perform fine manipulation. This replaces change shape and verdant burst.
 
 **Seasoned Spirit**: Long-lived vine leshys are less flexible, but they have established stronger bonds with the natural world. These leshys can spend an hour in concentration to cast [*speak with plants*](../../magic/spells/speak-with-plants.md) as a spell-like ability with a caster level equal to their character level. This alters plantspeech and replaces climber and unassuming foliage.
 

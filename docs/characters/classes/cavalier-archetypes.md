@@ -134,7 +134,7 @@ The following is a new cavalier archetype. Cavaliers of any order can take this 
 
 While many cavaliers are the champions of old fighting forms, some younger, more daring cavaliers mix a martial style influenced by the lighter armored and more flamboyant swashbuckler forms with the dedication of cavalier orders.
 
-**Weapon and Armor Proficiency**: Daring champions are proficient with all simple and martial weapons, light and medium armor, and bucklers. This replaces the cavalier's weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: Daring champions are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), light and [medium armor](../../equipment/armor.md), and [bucklers](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-3). This replaces the cavalier's weapon and armor proficiencies.
 
 **Champion's Finesse (Ex)**: At 1st level, a daring champion gains the benefits of the [Weapon Finesse](../../rules/feats/weapon-finesse.md) feat with light or one-handed piercing melee weapons, and he can use Charisma in place of Intelligence for the purpose of combat feats prerequisites. A daring champion also counts as having the Weapon Finesse feat for the purpose of meeting feat requirements. This ability replaces mount.
 
@@ -294,7 +294,7 @@ Knowledge is the stepping stone of both truth and power. The members of this ord
 
 The cavalier is defined not only by his dedication to his order or his skill on the battlefield, but also by the special relationship he maintains with his mount. Where some cavaliers are simply skilled with horses or well-trained knights, the beast rider spends his life in constant pursuit of the most perfect mount, forming bonds with greater, more powerful, and more exotic creatures.
 
-**Armor Proficiency**: A beast rider is proficient with light and medium armor, and with shields (with the exception of tower shields).
+**Armor Proficiency**: A beast rider is proficient with light and [medium armor](../../equipment/armor.md), and with [shields](../../equipment/armor.md) (with the exception of [tower shields](../../equipment/armor.md)).
 
 **Exotic Mount (Ex)**: At 1st level, a beast rider forms a bond with a strong, loyal companion that permits him to ride it as a mount. This mount functions as a druid’s animal companion, using the beast rider’s level as his effective druid level. The animal chosen as a mount must be large enough to carry the beast rider (Medium or Large for a Small character; Large or Huge for a Medium character). The beast rider does not take an armor check penalty on Ride checks while riding his mount. The mount is always considered combat trained, and begins play with Endurance as a bonus feat. A beast rider’s mount does not gain the share spells special ability.
 
@@ -314,7 +314,7 @@ This ability replaces the standard cavalier’s mount and expert trainer abiliti
 
 Cavaliers serve many roles on the battlefield, from bold leaders and shock troops to dashing knights and mounted juggernauts. Some cavaliers, however, focus more on speed and mobility than they do on the raw power of the mounted charge. On foot or in the saddle, the emissary is usually first to meet the enemy, with a pointed lance, a drawn sword, or terms for surrender.
 
-**Armor Proficiency**: An emissary does not gain proficiency with heavy armor.
+**Armor Proficiency**: An emissary does not gain proficiency with [heavy armor](../../equipment/armor.md).
 
 **Bonus Feats**: An emissary can select Endurance, Fleet, or Run in addition to the list of combat feats whenever he gains a bonus feat.
 
@@ -374,7 +374,7 @@ Some cavaliers are entrusted by their masters with the care and use of expensive
 
 Capable of inflicting shocking amounts of destruction without the aid of magic, these musketeers lead the advance of their troops, firing devastating fusillades long before the enemy can prepare for the armed charge that follows.
 
-**Weapon and Armor Proficiency**: A musketeer does not gain proficiency in heavy armor. Musketeers are proficient with all simple and martial weapons, and with firearms. A cavalier’s levels stack with any fighter levels he possesses for the purpose of meeting the level prerequisite for feats that specifically select a firearm, such as [Weapon Specialization](../../rules/feats/weapon-specialization.md).
+**Weapon and Armor Proficiency**: A musketeer does not gain proficiency in [heavy armor](../../equipment/armor.md). Musketeers are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), and with [firearms](../../equipment/weapons-firearms.md). A cavalier’s levels stack with any fighter levels he possesses for the purpose of meeting the level prerequisite for feats that specifically select a firearm, such as [Weapon Specialization](../../rules/feats/weapon-specialization.md).
 
 **Gifted Firearm (Ex)**: At 1st level, a musketeer is gifted by his order with a firearm (either a pistol or a musket). This weapon is both a symbol of the cavalier’s duty and a focus for much of his talent. He cannot sell this weapon. He also gains the Gunsmithing feat.
 
@@ -442,7 +442,7 @@ These primeval cavaliers idolize dinosaurs as apex predators and value them as p
 
 **Class Skills**: A saurian champion gains Acrobatics, Knowledge (nature), Perception, and Survival as class skills. This alters the cavalier’s class skills.
 
-**Weapon and Armor Proficiency**: A saurian champion does not gain proficiency with medium or heavy armor. This alters the cavalier’s weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: A saurian champion does not gain proficiency with medium or [heavy armor](../../equipment/armor.md). This alters the cavalier’s weapon and armor proficiencies.
 
 **Savage Combatant (Ex)**: A saurian champion does not rely on lethal charges or firing from afar as more “civilized” cavaliers do, preferring to rampage among his foes instead. Saurian champions do not deal double damage when charging with a lance (or similar weapon) while mounted. While mounted, a saurian champion cannot attack with ranged weapons other than thrown weapons.
 
@@ -540,7 +540,7 @@ The daring general can assign each of his followers individually to serve as eit
 
 Agile and maneuverable cavalry, hussars make up for their relatively light armor with their speed and cunning. They are known for doggedly pursuing their foes even in tight spaces, across rooftops, and in other places that mounted cavalry could normally never reach.
 
-**Armor Proficiency**: A hussar is proficient with light armor, but not with medium or heavy armor or with shields. This replaces the cavalier’s normal armor proficiencies.
+**Armor Proficiency**: A hussar is proficient with [light armor](../../equipment/armor.md), but not with medium or [heavy armor](../../equipment/armor.md) or with [shields](../../equipment/armor.md). This replaces the cavalier’s normal armor proficiencies.
 
 **Agile Warrior (Ex)**: A hussar gains Acrobatics, Escape Artist, Stealth, and Survival as class skills. This alters the cavalier’s class skills.
 
@@ -558,7 +558,7 @@ Huntmasters train the beasts favored by lordly castes into swift and deadly trac
 
 **Class Skills**: A huntmaster gains Knowledge (nature), Stealth and Survival as class skills.
 
-**Weapon and Armor Proficiency**: A huntmaster is not proficient with heavy armor. Huntmasters are proficient with all simple and martial weapons, plus the net and whip.
+**Weapon and Armor Proficiency**: A huntmaster is not proficient with [heavy armor](../../equipment/armor.md). Huntmasters are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), plus the net and [whip](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons).
 
 **Bestial Challenge (Ex)**: Whenever a huntmaster issues a challenge, both he and his hunting pack gain the bonuses and penalties associated with his challenge. This modifies the challenge ability.
 
@@ -668,7 +668,7 @@ Constables keep order in the narrow streets and dark alleys of settlements.
 
 Much like the breed of horses they ride, desert horselords pride themselves on their mobility and endurance. While horselords don't command the same presence as a host of heavy cavalry, they can get to the battle in half the time and on a third of the rations. In battle, horselords are skirmishers, ducking in and out of combat with brutal, precise slashes of their scimitars.
 
-**Weapon and Armor Proficiency**: A desert horselord is proficient with all simple and martial weapons, with light and medium armor, and with shields (except tower shields). This replaces the cavalier's normal weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: A desert horselord is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), with light and [medium armor](../../equipment/armor.md), and with [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). This replaces the cavalier's normal weapon and armor proficiencies.
 
 **Mount (Ex)**: When selecting a mount, a desert horselord must select a horse or pony as her mount. At the GM's discretion, other mounts can be selected. Otherwise, this functions as the cavalier mount class feature.
 
@@ -686,7 +686,7 @@ Much like the breed of horses they ride, desert horselords pride themselves on t
 
 Dangerous wastelands where magic is warped or dead are places few venture without a guide. Drifters have made themselves at home in these badlands. When not scouring the desert for forgotten treasures or magic hidden by the region's shifting magic-dead zones, a drifter might hire himself out as a guide, bodyguard, or assassin. Drifters are self-reliant and always keep their firearms loaded—in the wastes, a rider with a slow draw doesn't live long.
 
-**Weapon and Armor Proficiency**: Wasteland drifters are proficient with all simple and martial weapons, the whip, and with all firearms. They are proficient with all light armor. This replaces the cavalier's normal weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: Wasteland drifters are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), the [whip](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons), and with all [firearms](../../equipment/weapons-firearms.md). They are proficient with all [light armor](../../equipment/armor.md). This replaces the cavalier's normal weapon and armor proficiencies.
 
 **Have Gun**: At 1st level, the drifter gains [Amateur Gunslinger](../../rules/feats/amateur-gunslinger.md) and Gunsmithing as bonus feats. The drifter uses his Charisma modifier (minimum 1) in place of his Wisdom modifier when determining his maximum grit points and for any other abilities which use grit. Additionally, he also gains a battered gun identical to the one gained by the gunslinger. This ability replaces tactician.
 
@@ -710,7 +710,7 @@ Dangerous wastelands where magic is warped or dead are places few venture withou
 
 Wave riders patrol harbors, keeping them safe from dangerous sea creatures and watching for smugglers, often mounted on hippocampi.
 
-**Weapon and Armor Proficiency**: Wave riders are proficient with all simple and martial weapons and with light and medium armor, but not with shields. This replaces the cavalier's weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: Wave riders are proficient with all simple and [martial weapons](../../equipment/weapons-martial.md) and with light and [medium armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md). This replaces the cavalier's weapon and armor proficiencies.
 
 **Seafaring Companion**: At 1st level, a wave rider gains Monstrous Mount (see [Monstrous Mounts](../../rules/combat/monstrous-mounts.md)) as a bonus feat. The wave rider can use this feat only to select a hippocampus mount. Otherwise, this ability functions identically to the cavalier's mount class feature, and replaces it.
 
@@ -718,7 +718,7 @@ Wave riders patrol harbors, keeping them safe from dangerous sea creatures and w
 
 Dune horselords are mounted-combat specialists who pride themselves on their mobility and endurance, qualities also found in the breed of horses they ride. They can get to a battleground in half the time and on a third of the rations. In battle, they are skirmishers, ducking in and out of combat with brutal, precise slashes of their scimitars.
 
-**Weapon and Armor Proficiency**: A dune horselord is proficient with all simple and martial weapons, with light and medium armor, and with shields (except tower shields). This replaces the cavalier’s normal weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: A dune horselord is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), with light and [medium armor](../../equipment/armor.md), and with [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). This replaces the cavalier’s normal weapon and armor proficiencies.
 
 **Mount (Ex)**: A dune horselord must select a horse or pony as his mount. At the GM’s discretion, a different mount can be selected. This ability alters the cavalier mount class feature.
 
@@ -772,7 +772,7 @@ No warrior better epitomizes the centaur's devastating martial power than the ch
 
 **Class Skills**: A charger gains Acrobatics, Knowledge (nature), and Survival as class skills, but does not gain Climb, Handle Animal, or Ride as class skills. This alters the cavalier's class skills.
 
-**Weapon and Armor Proficiency**: A charger is proficient with all simple and martial weapons, with light and medium armor, and with shields (except tower shields). A charger's cavalier levels stack with any fighter levels he possesses for the purpose of meeting the level prerequisite for feats that can specify a lance, such as Weapon Specialization. This replaces the cavalier's weapon and armor proficiencies.
+**Weapon and Armor Proficiency**: A charger is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md), with light and [medium armor](../../equipment/armor.md), and with [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). A charger's cavalier levels stack with any fighter levels he possesses for the purpose of meeting the level prerequisite for feats that can specify a [lance](../../equipment/weapons-martial.md#martial-two-handed-melee-weapons), such as Weapon Specialization. This replaces the cavalier's weapon and armor proficiencies.
 
 **Natural Mount (Ex)**: A charger counts as having the Mounted Combat feat only for the purpose of meeting feat prerequisites, and substitutes the Acrobatics skill for any Ride skill prerequisites when acquiring feats that have Mounted Combat as a prerequisite. Because of his equine form, a charger can wield a lance one-handed as if mounted and deals double damage with a lance while charging. A charger can never gain the benefit of the Mounted Combat feat (or other similar feats or effects, such as Trick Riding) if ridden by another creature. This ability replaces mount.
 
@@ -836,7 +836,7 @@ Legend states that when a naga-queen created the first of a serpentine servant r
 
 **Class Skills**: A serpent marshal adds all Knowledge skills to his list of class skills. This alters the cavalier's class skills.
 
-**Weapon and Armor Proficiency**: A serpent marshal is proficient with all simple and martial weapons. Additionally, a serpent marshal is proficient in one exotic melee weapon of his choice and one exotic ranged weapon of his choice. This alters the cavalier's weapon proficiencies.
+**Weapon and Armor Proficiency**: A serpent marshal is proficient with all simple and [martial weapons](../../equipment/weapons-martial.md). Additionally, a serpent marshal is proficient in one exotic melee weapon of his choice and one exotic ranged weapon of his choice. This alters the cavalier's weapon proficiencies.
 
 **Serpent Mount (Ex)**: Instead of the usual choices for a cavalier's mount, serpent marshals ride on giant riding constrictors. These use the statistics of the constrictor snake druid animal companion, except that they are suitable mounts and begin as size Large at 1st level with no other adjustments to their abilities or statistics based on this size change. A serpent mount is considered to be a quadruped for the purpose of determining its carrying capacity, and its base land speed is 40 feet (other speeds are unaffected). At 4th level, a giant riding constrictor doesn't increase in size again, but it does receive all the other usual 4th-level benefits. This alters mount.
 
@@ -866,7 +866,7 @@ A cavalier of the order of the flame devotes his life to the pursuit of personal
 
 The war colleges of a lashunta city-state produce a distinctive breed of cavalier known as the mindlink outrider. In defense of their city, outriders lead small units of regular troops, the members of which can link minds with one another to form bonds in battle few can match.
 
-**Armor Proficiency**: A mindlink outrider does not gain proficiency with heavy armor.
+**Armor Proficiency**: A mindlink outrider does not gain proficiency with [heavy armor](../../equipment/armor.md).
 
 **Combat Expertise**: At 1st level, a mindlink outrider gains Combat Expertise as a bonus feat, even if he does not meet the prerequisites.
 
@@ -900,7 +900,7 @@ The war colleges of a lashunta city-state produce a distinctive breed of cavalie
 
 *Cavalier archetype.* The esquire is a roving knight who acquires the services of a faithful follower—an aide-de-camp—who serves as the esquire's assistant, spear carrier, and guard.
 
-**Aide-de-Camp (Ex)**: At 3rd level, an esquire acquires the services of a loyal aide-de-camp. This NPC functions similarly to a cohort, though the aide-de-camp must advance in a class that grants proficiency with all martial weapons and can't multiclass until the esquire reaches 7th level (though the aide-de-camp can select an archetype). If the aide-de-camp is a cavalier, he must follow the same order as the esquire. The aide-de-camp gains [Swift Aid](../../rules/feats/swift-aid.md) as a bonus feat, and provides a +2 (rather than +1) bonus when using this feat to aid the esquire. As a move action, the aide-de-camp can retrieve a stored item or an item on the ground and hand it to the esquire. The esquire does not have to take an action to receive the item, though he must be conscious and have a free hand. This action does not provoke attacks of opportunity for the aide-de-camp or esquire. If the aide-de-camp dies performing an act that directly supports the edicts of the esquire's order (GM's discretion), the esquire does not take a penalty to his Leadership score. If an aide-de-camp dies, or is released from the esquire's service, the esquire may gain a new aide-de-camp by scouting for potential candidates in a city or large town. This requires 1 day per 5 levels of the aide-de-camp to be recruited. This ability replaces mount.
+**Aide-de-Camp (Ex)**: At 3rd level, an esquire acquires the services of a loyal aide-de-camp. This NPC functions similarly to a cohort, though the aide-de-camp must advance in a class that grants proficiency with all [martial weapons](../../equipment/weapons-martial.md) and can't multiclass until the esquire reaches 7th level (though the aide-de-camp can select an archetype). If the aide-de-camp is a cavalier, he must follow the same order as the esquire. The aide-de-camp gains [Swift Aid](../../rules/feats/swift-aid.md) as a bonus feat, and provides a +2 (rather than +1) bonus when using this feat to aid the esquire. As a move action, the aide-de-camp can retrieve a stored item or an item on the ground and hand it to the esquire. The esquire does not have to take an action to receive the item, though he must be conscious and have a free hand. This action does not provoke attacks of opportunity for the aide-de-camp or esquire. If the aide-de-camp dies performing an act that directly supports the edicts of the esquire's order (GM's discretion), the esquire does not take a penalty to his Leadership score. If an aide-de-camp dies, or is released from the esquire's service, the esquire may gain a new aide-de-camp by scouting for potential candidates in a city or large town. This requires 1 day per 5 levels of the aide-de-camp to be recruited. This ability replaces mount.
 
 **Teamwork (Ex)**: At 3rd level, as long as an esquire and his aide-de-camp are adjacent, the aide-de-camp is treated as having any teamwork feats the esquire has. They also share any teamwork feats that function when two or more allies threaten the same target, as long as they both threaten the same target. This ability replaces cavalier's charge.
 
@@ -972,7 +972,7 @@ Due to the strange terrain, the lack of sunlight, and numerous other hazards, ke
 
 **Underworld Mount (Ex)**: At 1st level, a vermin tamer chooses a creature native to the Underworld as his mount. This functions as a cavalier’s mount. He can choose a giant beetle, giant centipede, giant gecko, giant slug, or giant spider as his mount. These mounts (except the giant gecko) and the rules for vermin companions are detailed in [Vermin Companions](../companions/vermin-companions.md).
 
-The selected mount is combat trained. The vermin trainer does not take an armor check penalty on Ride checks while riding his mount. If the vermin tamer’s starting mount is large enough to act as a mount, it gains Light Armor Proficiency as a bonus feat. If the selected animal companion is too small to act as a proper mount, then the vermin tamer gains [Undersized Mount](../../rules/feats/undersized-mount.md) as a bonus feat. This ability alters mount.
+The selected mount is combat trained. The vermin trainer does not take an armor check penalty on Ride checks while riding his mount. If the vermin tamer’s starting mount is large enough to act as a mount, it gains [Light Armor](../../equipment/armor.md) Proficiency as a bonus feat. If the selected animal companion is too small to act as a proper mount, then the vermin tamer gains [Undersized Mount](../../rules/feats/undersized-mount.md) as a bonus feat. This ability alters mount.
 
 **Stuck in the Saddle (Ex)**: A practiced vermin tamer can remain steady in the saddle even in unconventional situations. At 4th level, he gains a +4 circumstance bonus on any checks to stay in the saddle when his mount is climbing walls or flying. At 8th level, this bonus increases to +8, and he never falls off his mount when he is rendered unconscious. This replaces expert training.
 

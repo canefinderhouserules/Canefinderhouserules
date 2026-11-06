@@ -20,7 +20,7 @@ The cleric’s class skills are Appraise (Int), Craft (Int), Diplomacy (Cha), He
 
 The following are class features of the cleric.
 
-**Weapon and Armor Proficiency**: Clerics are proficient with all simple weapons, light armor, medium armor, and shields (except tower shields). Clerics are also proficient with the favored weapon of their deity.
+**Weapon and Armor Proficiency**: Clerics are proficient with all [simple weapons](../../equipment/weapons-simple.md), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)). Clerics are also proficient with the favored weapon of their deity.
 
 **Aura (Ex)**: A cleric of a chaotic, evil, good, or lawful deity has a particularly powerful aura corresponding to the deity’s alignment (see the [*detect evil*](../../magic/spells/detect-evil.md) spell for details).
 
@@ -92,7 +92,7 @@ A cleric who is neither good nor evil and whose deity is neither good nor evil c
 
 ## Ex-Clerics
 
-A cleric who grossly violates the code of conduct required by her god loses all spells and class features, except for armor and shield proficiencies and proficiency with simple weapons. She cannot thereafter gain levels as a cleric of that god until she atones for her deeds (see the [*atonement*](../../magic/spells/atonement.md) spell description).
+A cleric who grossly violates the code of conduct required by her god loses all spells and class features, except for armor and shield proficiencies and proficiency with [simple weapons](../../equipment/weapons-simple.md). She cannot thereafter gain levels as a cleric of that god until she atones for her deeds (see the [*atonement*](../../magic/spells/atonement.md) spell description).
 
 ## Domains
 

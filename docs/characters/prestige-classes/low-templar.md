@@ -41,7 +41,7 @@ The Low Templar’s class skills are Appraise (Int), Bluff (Cha), Craft (Int), D
 
 The following are all class features of the low templar prestige class.
 
-**Weapon and Armor Proficiency**: A low templar is proficient with all simple weapons and all martial weapons. He is proficient with all forms of armor and shields.
+**Weapon and Armor Proficiency**: A low templar is proficient with all [simple weapons](../../equipment/weapons-simple.md) and all [martial weapons](../../equipment/weapons-martial.md). He is proficient with all forms of armor and [shields](../../equipment/armor.md).
 
 **Crusader (Ex)**: Whatever his faults, a low templar is a skilled warrior against the demon hordes of the rift. At 1st level, a low templar gains a +1 bonus on all weapon attack rolls and weapon damage rolls against chaotic evil outsiders. He also gains an equal bonus on all Will saving throws against the abilities of chaotic evil outsiders. At 4th level, these bonuses increase to +2. The bonus increases to +3 at 7th level, and finally to +4 at 10th level.
 

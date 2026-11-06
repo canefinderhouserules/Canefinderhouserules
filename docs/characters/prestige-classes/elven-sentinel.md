@@ -29,7 +29,7 @@ To qualify to become an elven sentinel, a character must fulfill all of the foll
 
 **Skills**: Knowledge (dungeoneering) 5 ranks, Knowledge (nature) 2 ranks, Survival 5 ranks.
 
-**Weapon Proficiency**: Must be proficient with the longbow (or composite longbow) and one martial melee weapon.
+**Weapon Proficiency**: Must be proficient with the [longbow](../../equipment/weapons-martial.md#martial-ranged-weapons) (or [composite longbow](../../equipment/weapons-martial.md#martial-ranged-weapons)) and one martial melee weapon.
 
 ### Class Skills
 

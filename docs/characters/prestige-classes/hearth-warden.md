@@ -45,7 +45,7 @@ The hearth warden's class skills (and the key ability for each skill) are Climb 
 
 The following are class features of the hearth warden prestige class.
 
-**Weapon and Armor Proficiency**: A hearth warden is proficient with all simple weapons, longbows, light armor, medium armor, and shields (except tower shields).
+**Weapon and Armor Proficiency**: A hearth warden is proficient with all [simple weapons](../../equipment/weapons-simple.md), [longbows](../../equipment/weapons-martial.md#martial-ranged-weapons), [light armor](../../equipment/armor.md), [medium armor](../../equipment/armor.md), and [shields](../../equipment/armor.md) (except [tower shields](../../equipment/armor.md)).
 
 **Spells per Day**: At the indicated levels, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He doesn't, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before gaining this prestige class ability, he must decide to which class he adds the new level for purposes of determining spells per day.
 

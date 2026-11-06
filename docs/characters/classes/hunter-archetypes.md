@@ -292,7 +292,7 @@ While most hunters find themselves at ease in the wildest parts of the world, co
 
 Roof runners are skilled ambushers, skirmishers, and spies who eschew heavier types of armor in order to remain light on their feet. They lurk in the shadows of the rooftops to find people or houses to rob, though some use their specialized skills for nobler purposes.
 
-**Skilled (Ex)**: A roof runner adds Acrobatics, Escape Artist, and Sleight of Hand to her list of class skills. This alters the hunter’s class skills and replaces the hunter’s proficiency with medium armor and shields.
+**Skilled (Ex)**: A roof runner adds Acrobatics, Escape Artist, and Sleight of Hand to her list of class skills. This alters the hunter’s class skills and replaces the hunter’s proficiency with [medium armor](../../equipment/armor.md) and [shields](../../equipment/armor.md).
 
 **Natural Leaper (Ex)**: At 2nd level, a roof runner adds half her hunter level on Acrobatics checks to jump. This ability replaces track.
 

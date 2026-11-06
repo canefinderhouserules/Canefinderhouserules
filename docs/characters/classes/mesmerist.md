@@ -72,7 +72,7 @@ The mesmerist’s class skills are Appraise (Int), Bluff (Cha), Craft (Int), Dip
 
 The following are the class features of the mesmerist.
 
-**Weapon and Armor Proficiency**: A mesmerist is proficient with all simple weapons, plus the hand crossbow, sap, sword cane, and whip. He is proficient with light armor, but not with shields.
+**Weapon and Armor Proficiency**: A mesmerist is proficient with all [simple weapons](../../equipment/weapons-simple.md), plus the [hand crossbow](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [sap](../../equipment/weapons-martial.md#martial-light-melee-weapons), [sword cane](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons), and [whip](../../equipment/weapons-exotic.md#exotic-one-handed-melee-weapons). He is proficient with [light armor](../../equipment/armor.md), but not with [shields](../../equipment/armor.md).
 
 **Spells**: A mesmerist casts psychic spells drawn from the mesmerist spell list. He can cast any spell he knows without preparing it ahead of time. To learn or cast a spell, a mesmerist must have a Charisma score equal to at least 10 + the spell’s level. The saving throw DC against a mesmerist’s spell is 10 + the spell’s level + the mesmerist’s Charisma modifier.
 

@@ -64,9 +64,9 @@ The following are the class features of the legendary shifter.
 
 #### Weapon and Armor Proficiencies
 
-A legendary shifter is proficient with all simple and martial weapons and the natural attacks (claw, bite, and so forth) from the shifter evolution class feature and of forms they assume with shifter shape.
+A legendary shifter is proficient with all simple and [martial weapons](../../../equipment/weapons-martial.md) and the natural attacks (claw, bite, and so forth) from the shifter evolution class feature and of forms they assume with shifter shape.
 
-Legendary shifters are proficient with light and medium armor and shields (except tower shields).
+Legendary shifters are proficient with light and [medium armor](../../../equipment/armor.md) and [shields](../../../equipment/armor.md) (except [tower shields](../../../equipment/armor.md)).
 
 #### Bonus Languages
 

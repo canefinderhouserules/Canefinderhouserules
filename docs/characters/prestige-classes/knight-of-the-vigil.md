@@ -23,13 +23,13 @@ Guardians of a sacred trust, the Knights of the Vigil are a chivalrous order ded
 
 To qualify to become a knight of the vigil, a character must fulfill all of the following criteria.
 
-**Armor Proficiency**: Must be proficient with heavy armor and shields (not including tower shields).
+**Armor Proficiency**: Must be proficient with [heavy armor](../../equipment/armor.md) and [shields](../../equipment/armor.md) (not including [tower shields](../../equipment/armor.md)).
 
 **Deity**: Must worship a deity of valor, righteousness, or the knightly order’s patron.
 
 **Skills**: Knowledge (religion) 5 ranks.
 
-**Weapon Proficiency**: Must be proficient with the longsword.
+**Weapon Proficiency**: Must be proficient with the [longsword](../../equipment/weapons-martial.md#martial-one-handed-melee-weapons).
 
 ### Class Skills
 

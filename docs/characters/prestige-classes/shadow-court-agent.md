@@ -45,7 +45,7 @@ The shadow court agent's class skills (and the key ability for each skill) are B
 
 The following are class features of the shadow court agent prestige class.
 
-**Weapon and Armor Proficiency**: A Shadow Court agent gains proficiency with the spiked chain.
+**Weapon and Armor Proficiency**: A Shadow Court agent gains proficiency with the [spiked chain](../../equipment/weapons-exotic.md#exotic-two-handed-melee-weapons).
 
 **Blessings of Darkness**: A Shadow Court agent gains the Darkness domain at 1st level, using his class level as his effective cleric level to determine the effects of its granted powers. If he already possesses the Darkness domain from another class, his Shadow Court agent levels stack with levels in that class when determining the effects of his Darkness domain powers. The Shadow Court agent does not receive bonus spells or domain spell slots from his Shadow Court agent levels.
 

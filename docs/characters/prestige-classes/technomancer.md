@@ -39,7 +39,7 @@ The technomancer's class skills (and the key ability for each skill) are Apprais
 
 The following are class features of the technomancer prestige class.
 
-**Weapon and Armor Proficiency**: A technomancer gains proficiency with all firearms.
+**Weapon and Armor Proficiency**: A technomancer gains proficiency with all [firearms](../../equipment/weapons-firearms.md).
 
 **Recondition (Su)**: Through constant maintenance, a technomancer can keep a single piece of still-functioning timeworn technology in good working order. Reconditioning a timeworn technological item takes 8 hours, after which the item no longer has a chance of glitching when used by the technomancer and can be recharged normally by the technomancer but no one else. Keeping the item working requires 1 hour of maintenance each day (this can overlap with the time needed to prepare spells), or the item reverts to a normal piece of timeworn technology and must be reconditioned again. At 4th level and every 3 levels thereafter, a technomancer can keep an additional item in good working order, without increasing his daily maintenance time.
 

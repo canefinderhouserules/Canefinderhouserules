@@ -52,7 +52,7 @@ The following are class features of the legendary gunslinger.
 
 #### Weapon and Armor Proficiency
 
-Legendary gunslingers are proficient with all simple and martial weapons, and with all firearms. They are proficient with light armor.
+Legendary gunslingers are proficient with all simple and [martial weapons](../../../equipment/weapons-martial.md), and with all [firearms](../../../equipment/weapons-firearms.md). They are proficient with [light armor](../../../equipment/armor.md).
 
 #### Gunsmith
 

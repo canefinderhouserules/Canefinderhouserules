@@ -16,7 +16,7 @@ The sorcerer’s class skills are Appraise (Int), Bluff (Cha), Craft (Int), Fly 
 
 All of the following are class features of the sorcerer.
 
-**Weapon and Armor Proficiency**: Sorcerers are proficient with all simple weapons. They are not proficient with any type of armor or shield. Armor interferes with a sorcerer’s gestures, which can cause her spells with somatic components to fail (see [Arcane Spells and Armor](wizard.md)).
+**Weapon and Armor Proficiency**: Sorcerers are proficient with all [simple weapons](../../equipment/weapons-simple.md). They are not proficient with any type of armor or shield. Armor interferes with a sorcerer’s gestures, which can cause her spells with somatic components to fail (see [Arcane Spells and Armor](wizard.md)).
 
 **Spells**: A sorcerer casts arcane spells drawn primarily from the sorcerer/wizard spell list presented in Chapter 10. She can cast any spell she knows without preparing it ahead of time. To learn or cast a spell, a sorcerer must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a sorcerer’s spell is 10 + the spell level + the sorcerer’s Charisma modifier.
 

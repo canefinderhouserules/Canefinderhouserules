@@ -16,9 +16,9 @@ The monk’s class skills are Acrobatics (Dex), Climb (Str), Craft (Int), Escape
 
 All of the following are class features of the monk.
 
-**Weapon and Armor Proficiency**: Monks are proficient with the club, crossbow (light or heavy), dagger, handaxe, javelin, kama, nunchaku, quarterstaff, sai, shortspear, short sword, shuriken, siangham, sling, and spear.
+**Weapon and Armor Proficiency**: Monks are proficient with the [club](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), crossbow (light or heavy), [dagger](../../equipment/weapons-simple.md#simple-light-melee-weapons), [handaxe](../../equipment/weapons-martial.md#martial-light-melee-weapons), [javelin](../../equipment/weapons-simple.md#simple-ranged-weapons), [kama](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [nunchaku](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [quarterstaff](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons), [sai](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [shortspear](../../equipment/weapons-simple.md#simple-one-handed-melee-weapons), [short sword](../../equipment/weapons-martial.md#martial-light-melee-weapons), [shuriken](../../equipment/weapons-exotic.md#exotic-ranged-weapons-part-1), [siangham](../../equipment/weapons-exotic.md#exotic-light-melee-weapons), [sling](../../equipment/weapons-simple.md#simple-ranged-weapons), and [spear](../../equipment/weapons-simple.md#simple-two-handed-melee-weapons).
 
-Monks are not proficient with any armor or shields.
+Monks are not proficient with any armor or [shields](../../equipment/armor.md).
 
 When wearing armor, using a shield, or carrying a medium or heavy load, a monk loses his AC bonus, as well as his fast movement and flurry of blows abilities.
 
