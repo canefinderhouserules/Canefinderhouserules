@@ -161,7 +161,7 @@ A fleeting spell’s duration becomes dismissible, if it is not already. You can
 
 **Focused Spell +1 \[Powerful\]**
 
-+3dc a tu spell. Si es un spell de save or suck/die, es +2.
+The saving throw DC of the spell increases by 3. If the spell is a save-or-suck or save-or-die spell, this becomes a +2 metamagic.
 
 **Furious Spell +1 \[Powerful\]**
 
