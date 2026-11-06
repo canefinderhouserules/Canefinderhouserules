@@ -240,7 +240,7 @@ The prestige classes presented in this chapter are summarized below.
 
 **[Winter Witch](winter-witch.md)**: A witch who commands ice, snow and cold.
 
-**See also**: [Knightly Orders](knightly-orders.md), the generic orders of the hell knights, with their reckonings and boons; and [Other Prestige Class Changes](other-prestige-class-changes.md), the house-rule changes to prestige classes.
+**See also**: [Knightly Orders](knightly-orders.md), the generic orders of the hell knights, with their reckonings and boons.
 
 ### Definitions of Terms
 
