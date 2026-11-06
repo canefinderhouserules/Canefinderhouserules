@@ -75,9 +75,21 @@ If the shaman takes levels in another class that grants a mystery (such as the o
 
 ### Spirit Animal (Ex)
 
-At 1st level, a shaman forms a close bond with a spirit animal tied to her chosen spirit. This animal is her conduit to the spirit world, guiding her along the path to enlightenment. The animal also aids a shaman by granting her a special ability. See the Spirit Animal section.
+At 1st level, a shaman forms a close bond with a spirit animal tied to her chosen spirit. This animal is her conduit to the spirit world, guiding her along the path to enlightenment. The animal also aids a shaman by granting her a special ability, described in the spirit animal entry of her [chosen spirit](shaman-spirits.md).
 
 A shaman must commune with her spirit animal each day to prepare her spells. While the spirit animal does not store the spells like a witch's familiar does, the spirit animal serves as her conduit to divine power. If a shaman's spirit animal is slain, she cannot prepare new spells or use her spirit magic class feature until the spirit animal is replaced.
+
+By communing with the incredible powers of her spirit, the shaman forges a cherished bond with one specific servant of that spirit. The spirit animal is a conduit that lets her access the magic of her spirit each day, and it grants her special powers. This ability uses the same rules as the wizard’s [arcane bond](wizard.md#arcane-bond-ex-or-sp) class feature and is treated as a familiar, except as noted below.
+
+A shaman uses her level as her effective wizard level when determining the abilities of her spirit animal. She can select any familiar available to wizards as her spirit animal, though the animal is augmented by the power of her chosen spirit. Once selected, the spirit animal cannot be changed. Although it uses the statistics of a specific animal, it is treated as an outsider with the native subtype for spells and abilities that affect it.
+
+Levels of other classes that grant familiars stack with shaman levels for any spirit animal ability that depends on the shaman’s level. A shaman with such levels always uses the shaman rules for her spirit animal, not the familiar rules of the other class. If she has witch levels, her spirit animal also serves as the conduit to her patron and stores her witch spells. The spirit animal is treated as a familiar for all spells, effects and abilities that affect familiars.
+
+If a spirit animal is lost or dies, it can be replaced after 24 hours through a special ritual that takes 8 hours and consumes material components worth 500 gp per shaman level. The new spirit animal must be the same kind of creature as the previous one.
+
+**Spirit animal ability**: at 1st level, the spirit animal gains specific abilities depending on the shaman’s spirit. They change the animal’s appearance and help it serve the shaman and its spirit. Each spirit lists them under **Spirit Animal** on the [Shaman Spirits](shaman-spirits.md) page.
+
+**Deliver Touch Spells (Su)**: if the shaman is 3rd level or higher, her spirit animal can deliver touch spells or hexes for her. If the shaman and the animal are in contact when she casts a touch spell, she can designate the animal as the toucher, and it delivers the spell just as she would. If she casts another spell before the touch is delivered, the touch spell dissipates. When she activates a hex, the animal can make the touch without being in contact with her.
 
 ### Spirit Magic
 
