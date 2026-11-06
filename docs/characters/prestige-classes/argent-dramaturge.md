@@ -65,7 +65,7 @@ At 7th level, an argent dramaturge can start an argent performance as a swift ac
 
 The performance abilities that an argent dramaturge gains are noted below.
 
-#### Song of Silver (Su)
+##### Song of Silver (Su)
 
 The recovery of the lost lyrics and melody of the famed “Song of Silver” can aid freedom fighters immeasurably in their fight against tyrants. While the true “Song of Silver” must be performed in a grand opera house by a skilled performer, argent dramaturges have learned to create a lesser version that can take effect when performed in any location.
 
@@ -77,6 +77,14 @@ When the argent dramaturge uses her argent performance to create the “Song of 
 
 At 5th level, once per day as an immediate action, an argent dramaturge can grant a single ally who is currently benefiting from the saving throw bonus from the “Song of Silver” the effects of a [*breath of life*](../../magic/spells/breath-of-life.md) spell (CL = the argent dramaturge’s character level). Granting this effect immediately ends the “Song of Silver” performance, and the argent dramaturge must wait 3 rounds before activating a new “Song of Silver” (but she can activate other argent or bardic performances in the meantime). At 5th level, the “Song of Silver” affects a 60-foot-radius area around the argent dramaturge.
 
+##### Anchoring Aria (Su)
+
+At 3rd level, the argent dramaturge can use her knowledge of the magical melodies woven into the Song of Silver to block the dimensional travel of fiends. As long as she maintains the aria, any evil outsider that attempts to use spells or spell-like abilities of the teleportation subschool within a 30-foot radius of the argent dramaturge must succeed at a caster level check (DC = 11 + her character level) or else the spell or spell-like ability fails. An evil outsider that uses a teleportation effect to appear within this 30-foot-radius area or that is summoned into this area must succeed at a Will saving throw or it is [staggered](../../rules/appendices/conditions.md#staggered) for 1 round. At 5th level, this argent performance affects a 60-foot-radius area around the argent dramaturge.
+
+##### Righteous Chord (Sp)
+
+At 9th level, as a standard action that costs 2 rounds of argent or bardic performance, the argent dramaturge can affect a single evil outsider within 60 feet as per the spell [*banishment*](../../magic/spells/banishment.md), treating her character level as her caster level. As a free action, the argent dramaturge can attempt a Perform check with a DC equal to 10 + the HD of the targeted outsider. If successful, she is treated as having presented the targeted outsider with one object or substance the target fears or hates for the purpose of determining the effects of the *banishment* spell. Activating this argent performance does not end a currently active argent or bardic performance.
+
 #### Dramaturgical Flourish (Su)
 
 At 2nd level and every 2 levels thereafter, an argent dramaturge’s studies into the history and structure of stories grant her access to secret performances, allowing her to select an option from the list of dramaturgical flourishes below. Unless otherwise noted, an argent dramaturge cannot select a dramaturgical flourish more than once.
@@ -87,10 +95,3 @@ At 2nd level and every 2 levels thereafter, an argent dramaturge’s studies int
 - **Sudden Competence**: An argent dramaturge can activate her inspire competence bardic performance as an immediate action by spending 2 rounds of bardic performance. She can even use this ability after an ally has failed a skill check. If the check would have been successful with the inspire competence bonus, the character attempting the check instead succeeds at that check. An argent dramaturge must have the inspire competence bardic performance to select this dramaturgical flourish.
 - **Ultimate Courage**: Allies who are affected by the argent dramaturge’s inspire courage bardic performance gain double the normal morale bonuses on saving throws against fear and charm effects. An argent dramaturge must have the inspire courage bardic performance to select this dramaturgical flourish.
 
-#### Anchoring Aria (Su)
-
-At 3rd level, the argent dramaturge can use her knowledge of the magical melodies woven into the Song of Silver to block the dimensional travel of fiends. As long as she maintains the aria, any evil outsider that attempts to use spells or spell-like abilities of the teleportation subschool within a 30-foot radius of the argent dramaturge must succeed at a caster level check (DC = 11 + her character level) or else the spell or spell-like ability fails. An evil outsider that uses a teleportation effect to appear within this 30-foot-radius area or that is summoned into this area must succeed at a Will saving throw or it is [staggered](../../rules/appendices/conditions.md#staggered) for 1 round. At 5th level, this argent performance affects a 60-foot-radius area around the argent dramaturge.
-
-#### Righteous Chord (Sp)
-
-At 9th level, as a standard action that costs 2 rounds of argent or bardic performance, the argent dramaturge can affect a single evil outsider within 60 feet as per the spell [*banishment*](../../magic/spells/banishment.md), treating her character level as her caster level. As a free action, the argent dramaturge can attempt a Perform check with a DC equal to 10 + the HD of the targeted outsider. If successful, she is treated as having presented the targeted outsider with one object or substance the target fears or hates for the purpose of determining the effects of the *banishment* spell. Activating this argent performance does not end a currently active argent or bardic performance.
