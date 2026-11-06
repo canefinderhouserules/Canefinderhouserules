@@ -100,8 +100,8 @@
 | Papercraft Tools (Ex) | — | So long as the rogue has access to a deck of cards, she can destroy one card to attempt a single Disable Device check as if she had a set of thieves tools. If she uses a card from a fortune-telling deck for this purpose, she can treat the card as a set of masterwork thieves’ tools (granting her a +2 circumstance bonus on the Disable Device check) and gains advantage, though the card is still destroyed after use. |
 | Peerless Maneuver | — | Roll two dice when making a Acrobatics check and take the better result. |
 | Philologist | — | May reroll any Linguistics check made to decipher writing. |
-| Pierce the Darkness (Ex) | — | She gains blinds ight out to a range of 5 feet, but only against creatures concealed by darkness or her own blindness. |
-| Poison Use (Ex) | — | You are trained in the use of poison , and can’t accidentally poison yourself when applying poison to a weapon. |
+| Pierce the Darkness (Ex) | — | She gains blindsight out to a range of 5 feet, but only against creatures concealed by darkness or her own blindness. |
+| Poison Use (Ex) | — | You are trained in the use of poison, and can’t accidentally poison yourself when applying poison to a weapon. |
 | Positioning Attack | — | When you hit, reposition yourself around the target |
 | Powerful Sneak* | — | Whenever a rogue with this talent takes a full attack action, she can elect to take a –2 penalty on all attack rolls until the start of her next turn. All her sneak attack damage dies are maximized during that turn. |
 | Quick Disable | — | Disable a trap in half the normal amount of time |
