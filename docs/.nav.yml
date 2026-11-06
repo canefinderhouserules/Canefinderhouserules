@@ -2,7 +2,9 @@ nav:
   - Home: index.md
   - Rules: rules
   - Characters: characters
-  - Classes: characters/classes
+  - Classes:
+    - characters/classes
+    - Prestige Classes: characters/prestige-classes
   - Magic: magic
   - Equipment: equipment
   - Magic Items: magic-items
