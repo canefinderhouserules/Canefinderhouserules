@@ -1174,7 +1174,7 @@ In many cases when one listing missed putting a weapon in a weapon group, such a
 
 **Combat Trick**
 
-***See:** Combat Stamina*
+See [Combat Stamina](../../../rules/unchained/stamina-and-combat-tricks.md#combat-stamina-combat).
 
 When you hit with an attack of opportunity gained through this feat, you can spend up to 5 stamina points to increase your CMD against that combat maneuver by an amount equal to the number of stamina points you spent.
 
@@ -1190,6 +1190,6 @@ When you hit with an attack of opportunity gained through this feat, you can spe
 
 **Combat Trick**
 
-***See:** Combat Stamina*
+See [Combat Stamina](../../../rules/unchained/stamina-and-combat-tricks.md#combat-stamina-combat).
 
 After taking a readied full attack, you can spend 5 stamina points to act immediately ahead of the character whose action triggered your readied action, even if you made attacks after the other character finished acting.

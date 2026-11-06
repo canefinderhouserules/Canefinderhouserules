@@ -64,7 +64,7 @@ Kinetic Shinobi are proficient with all [simple weapons](../../../equipment/weap
 
 At 1st level, a kinetic shinobi gains the elemental focus and kinetic blast class features of a kineticist equal to their kinetic shinobi level. A kinetic shinobi cannot use their kinetic blast without applying either the physical jutsu or elemental jutsu form infusion to it. A kinetic shinobi uses their Charisma modifier instead of their Constitution modifier to determine the DCs and Constitution-dependent effects of their wild talents. If the kinetic shinobi takes levels in another class that grants an elemental focus, the elemental focuses must be the same type, even if that means that the elemental focus of one of the classes must change.
 
-***See:** Kineticist Element*
+See the [kineticist elements](../kineticist.md#elements).
 
 ### Jutsu Basics (Su)
 
@@ -74,7 +74,7 @@ A kinetic shinobi gains following infusions: Physical Jutsu and Elemental Jutsu
 
 At 1st level, and every 2 levels thereafter, the kinetic shinobi gains a shinobi talent of their choice for which they qualify. A kinetic shinobi can possess a shinobi talent which requires them spend or possess points in a *ki* pool even if they don’t have one, but cannot utilize such a talent unless they have a *ki* pool.
 
-***See:** Kinetic Shinobi Talent*
+See the [kinetic shinobi talents](kinetic-shinobi-options.md#kinetic-shinobi-talent).
 
 ***Ki* Pool (Su):** At 2nd level, a kinetic shinobi gains a pool of *ki* points, supernatural energy they can use to accomplish amazing feats. The number of points in the kinetic shinobi’s *ki* pool is equal to 1/2 their kinetic shinobi level + their Charisma modifier. As long as they have at least 1 point in their *ki* pool, they gain access to the hadou techniques listed below.
 
