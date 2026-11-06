@@ -86,7 +86,7 @@ Upon reaching 5th level, and at every third spiritualist level thereafter (8th, 
 
 A spiritualist learns a number of knacks, or 0-level [psychic spells](psychic.md#spells), as noted on Table 1–10 under Spells Known. These spells are cast like any other spell, but they can be cast any number of times per day. Knacks prepared using another spell slot, because of metamagic feats applied to them, for example, consume spell slots as normal.
 
-#### Phantom
+### Phantom
 
 A spiritualist begins play with the aid of a powerful and versatile spirit entity called a phantom. The phantom forms a link with the spiritualist, who forever after can either harbor the creature within her consciousness or manifest it as an ectoplasmic or incorporeal entity. A phantom has the same alignment as the spiritualist, and it can speak all the languages its master can. A spiritualist can harbor her phantom in her consciousness, manifest it partially, or fully manifest it. A fully manifested phantom is treated as a summoned creature from the Ethereal Plane, except it is not sent back to the Ethereal Plane until it is reduced to a negative amount of hit points equal to or greater than its Constitution score.
 
@@ -130,11 +130,11 @@ During a bonded manifestation, the phantom can’t be damaged, dismissed, or ban
 
 When a spiritualist uses this ability, she must choose either ectoplasmic or incorporeal form. When she makes this choice, she gains all of the abilities based on the form she chooses and her spiritualist level.
 
-### Ectoplasmic Bonded Manifestation
+#### Ectoplasmic Bonded Manifestation
 
 When a spiritualist uses this ability and chooses ectoplasmic form, she gains an ectoplasmic shield that protects her without restricting her movement or actions. She gains a +4 shield bonus to Armor Class; this bonus applies to incorporeal touch attacks. The ectoplasmic shield has no armor check penalty or arcane spell failure chance. At 8th level, the spiritualist also sprouts a pair of ectoplasmic tendrils from her body. Once per round as either a swift or a standard action (spiritualist’s choice), the spiritualist can use one or both tendrils to attack creatures within her melee reach (using the attack bonus and damage dice of her ectoplasmic manifested phantom) or to manipulate objects. She can even use that action to have one tendril make an attack and the other manipulate an object, as long as that object can be manipulated with one hand. At 13th level, the phantom’s ectoplasm clings to the spiritualist like a suit of armor. This grants the spiritualist a +6 armor bonus to AC without imposing an armor check penalty, an arcane spell failure chance, or any reduction in speed. At 18th level, the spiritualist can take a full-round action to attack all creatures within her melee reach with her tendrils (using the attack bonus and damage dice of her ectoplasmic manifested phantom). When she does, she rolls the attack roll twice, takes the better of the two results, and uses that as her attack roll result against all creatures within her melee reach. If the better attack roll threatens a critical hit, the spiritualist chooses one target that she hit to confirm the critical hit against. The other attacks that hit are considered normal hits rather than critical threats.
 
-### Incorporeal Bonded Manifestation
+#### Incorporeal Bonded Manifestation
 
 When a spiritualist uses this ability and chooses incorporeal form, she becomes shrouded in a haze of insubstantial mist, granting her concealment against ranged attacks. At 8th level, the spiritualist can better affect incorporeal creatures with melee attacks; her unarmed strikes and melee weapon attacks are treated as if they had the ghost touch magic weapon special ability. At 13th level, the spiritualist can take a standard action to become invisible (as the invisibility spell) until the start of her next turn. At 18th level, the spiritualist gains the incorporeal subtype and a fly speed of 30 feet (good) while using this form of bonded manifestation.
 
