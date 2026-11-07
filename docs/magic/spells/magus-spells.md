@@ -25,6 +25,7 @@ Magus spells. An M or F after a name marks a material or focus component not nor
 ## 1st-Level Magus Spells
 
 - **[Abjuring Step](abjuring-step.md)**: You can move slowly and safely and still cast spells, until you move quickly, make an attack, or cast a harmful spell.
+- **[Arcane Parry](arcane-parry.md)**: Parry an incoming melee attack
 - **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
 - **[Bed of Iron](bed-of-iron.md)**: Lets targets sleep comfortably in armor.
 - **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion

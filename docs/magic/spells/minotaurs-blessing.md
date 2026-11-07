@@ -1,6 +1,6 @@
 # Minotaur’s Blessing
 
-**School** transmutation (polymorph); **Level** cleric 4, druid 4, sorcerer/wizard 4, summoner 4, witch 4  
+**School** transmutation (polymorph); **Level** bloodrager 4, cleric 4, druid 4, sorcerer/wizard 4, summoner 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, M/DF (powdered bull’s horn)  
 **Range** touch  

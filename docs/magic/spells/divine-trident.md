@@ -1,6 +1,6 @@
 # Divine Trident
 
-**School** evocation [electricity]; **Level** cleric 2, druid 2, witch 2  
+**School** evocation [electricity]; **Level** bloodrager 2, cleric 2, druid 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** 0 ft.  

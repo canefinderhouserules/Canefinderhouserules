@@ -46,6 +46,7 @@
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
 - **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
 - **[Linebreaker](linebreaker.md)**: You gain a +20 foot bonus to your base speed when charging and a +2 bonus on combat maneuver checks made to.
+- **[Litany of Bleeding](litany-of-bleeding.md)**: Creature takes bleed damage from piercing and slashing weapons
 - **[Litany of Duty](litany-of-duty.md)**: Reroll a failed save against a compulsion.
 - **[Litany of Sloth](litany-of-sloth.md)**: Single target cannot make attacks of opportunity for 1 round.
 - **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.

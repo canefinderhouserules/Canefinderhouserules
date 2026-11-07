@@ -149,6 +149,7 @@
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
 - **[Starsight](starsight.md)**: See the night sky clearly and gain stargazing bonuses.
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
+- **[Strand of the Tangled Knot](strand-of-the-tangled-knot.md)**: Next attack against you takes -10 penalty
 - **[Stunning Barrier](stunning-barrier.md)**: You are closely surrounded by a barely visible magical field.
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
 - **[Sun Metal](sun-metal.md)**: Weapon touched bursts into flames.
@@ -739,7 +740,6 @@
 - **[Dispel Balance](dispel-balance.md)**: You are protected from neutral creatures
 - **[Dispel Chaos](dispel-chaos.md)/[Dispel Evil](dispel-evil.md)/[Dispel Good](dispel-good.md)/[Dispel Law](dispel-law.md)**: +4 bonus against attacks.
 - **[Disrupting Weapon](disrupting-weapon.md)**: Melee weapon destroys undead.
-- **[Drowned Souls' Grasp](drowned-souls-grasp.md)**: Haunt drags victims under deep water.
 - **[Dungeonsight](dungeonsight.md)**: Reveals the layout of nearby chambers and passages.
 - **[Flame Strike](flame-strike.md)**: Smites foes with divine fire (1d6/level damage).
 - **[Flexile Curse](flexile-curse.md)**: Curse degrades worn armor and shields.
@@ -843,6 +843,7 @@
 - **[Discharge, Greater](discharge-greater.md)**: Discharge many objects or an area.
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: As *dispel magic*, but with multiple targets.
 - **[Dream Reality](dream-reality.md)**: The target perceives the world as a dream and forgets it.
+- **[Drowned Souls' Grasp](drowned-souls-grasp.md)**: Haunt drags victims under deep water.
 - **[Dust Form](dust-form.md)**: You become an incorporeal creature of dust for a short period of time.
 - **[Dust Ward](dust-ward.md)**: Ward a magic item against other creatures learning to use or copy it
 - **[Eaglesoul](eaglesoul.md)**: Combat bonuses against evil creatures, especially evil outsiders.

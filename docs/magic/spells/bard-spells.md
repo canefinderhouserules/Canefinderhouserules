@@ -36,6 +36,7 @@
 - **[Alter Musical Instrument](alter-musical-instrument.md)**: You alter an instrument so it sounds like a different kind of instrument you are familiar with.
 - **[Animate Rope](animate-rope.md)**: Makes a rope move at your command.
 - **[Aphasia](aphasia.md)**: Prevent a target from understanding language.
+- **[Arcane Parry](arcane-parry.md)**: Parry an incoming melee attack
 - **[Aspect of the Nightingale](aspect-of-the-nightingale.md)**: Clear voice, bonus on Diplomacy and Perform.
 - **[Assumed Likeness](assumed-likeness.md)**: You appear as someone each target feels strongly about.
 - **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
@@ -59,6 +60,7 @@
 - **[Coward's Cowl](cowards-cowl.md)**: Defensive bonuses while avoiding enemies.
 - **[Cultural Adaptation](cultural-adaptation.md)**: Adapt to fit the local culture.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
+- **[Cursed Gold](cursed-gold.md)**: Make someone who accepts one of your gold pieces more vulnerable to your magic.
 - **[Dancing Darkness](dancing-darkness.md)**: up to four spheres of moving darkness
 - **[Darting Duplicate](darting-duplicate.md)**: Illusory duplicate baits attacks of opportunity.
 - **[Dazzling Blade](dazzling-blade.md)**: A shining weapon helps feints and disarms, and can burst to blind a foe.
@@ -458,6 +460,7 @@
 - **[Guarding Knowledge](guarding-knowledge.md)**: +4 insight bonus on saves against one identified monster special attack.
 - **[Gullibility](gullibility.md)**: target believes lies more readily
 - **[Hallucinatory Decor](hallucinatory-decor.md)**: Reimagine the decor of a structure.
+- **[Harrowing](harrowing.md)**: Use a fortune-telling deck to predict the future.
 - **[Haste](haste.md)**: One creature moves faster, gains an extra attack and +1 on attack rolls, AC, and Reflex saves, and can quicken a spell once per turn.
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Horrifying Visage](horrifying-visage.md)**: Haunt gives victims a phobia of a named thing.
@@ -589,6 +592,7 @@
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
 - **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
 - **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
+- **[Hypnotism, Greater](hypnotism-greater.md)**: As
 - **[Illusory Hoard](illusory-hoard.md)**: Target believes its hoard is untouched.
 - **[Insect Scouts](insect-scouts.md)**: Vermin investigate a location and grant rerolls on related skill checks.
 - **[Invisibility, Greater](invisibility-greater.md)**: As *invisibility,* but subject can attack and stay invisible.

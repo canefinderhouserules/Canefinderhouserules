@@ -1,6 +1,6 @@
 # Devouring Visage
 
-**School** transmutation (polymorph); **Level** antipaladin 1, cleric 1, druid 1, sorcerer/wizard 1  
+**School** transmutation (polymorph); **Level** antipaladin 1, bloodrager 1, cleric 1, druid 1, sorcerer/wizard 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

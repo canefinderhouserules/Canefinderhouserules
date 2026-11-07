@@ -360,6 +360,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Grand Destiny](grand-destiny.md)**: Target gains a +4 bonus on two chosen rolls.
 - **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
+- **[Horseman of Death’s Dispensation](horseman-of-deaths-dispensation.md)**: Protection from the River Styx.
 - **[Inflict Pain, Mass](inflict-pain-mass.md)**: As inflict pain, but affecting one creature per level.
 - **[Invoke Deity](invoke-deity.md)**: Infuse yourself with the powers of your deity's planar realm
 - **[Legend Lore](legend-lore.md)**: Lets you learn tales about a person, place, or thing.

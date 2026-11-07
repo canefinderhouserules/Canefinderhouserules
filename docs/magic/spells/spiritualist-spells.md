@@ -276,6 +276,7 @@ Spiritualists gain access to the following spells. Spells without a link come fr
 - **[Haste, Mass](haste-mass.md)**: As haste, but affects one creature/level, no two of which can be more than 30 ft. apart.
 - **[Hasten Judgment](hasten-judgment.md)**: Quicken a soul's journey to judgment, hampering resurrection or weakening undead foes
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
+- **[Horseman of Death’s Dispensation](horseman-of-deaths-dispensation.md)**: Protection from the River Styx.
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
 - **[Imbue with Spell Ability](imbue-with-spell-ability.md)**: Transfer spells to subject.
 - **[Inflict Critical Wounds](inflict-critical-wounds.md)**: Touch attack, 4d8 damage + 1/level (max +20).

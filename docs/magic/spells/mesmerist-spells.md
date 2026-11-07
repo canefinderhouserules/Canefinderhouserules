@@ -50,6 +50,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Confusion, Lesser](confusion-lesser.md)**: One creature is *confused* for 1 round.
 - **[Coward's Cowl](cowards-cowl.md)**: Defensive bonuses while avoiding enemies.
 - **[Crime of Opportunity](crime-of-opportunity.md)**: Compel a target to take a criminal action.
+- **[Cursed Gold](cursed-gold.md)**: Make someone who accepts one of your gold pieces more vulnerable to your magic.
 - **[Decrepit Disguise](decrepit-disguise.md)**: Make an object seem worthless.
 - **[Deja Vu](deja-vu.md)**: Make a creature repeat its actions.
 - **[Delusional Pride](delusional-pride.md)**: Target is penalized on attacks and checks but gains bonus against charms and compulsions.
@@ -436,6 +437,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
 - **[Hostile Juxtaposition](hostile-juxtaposition.md)**: You create a dimensional link with a targeted creature, and switch spots with it.
 - **[Horseman of Death’s Dispensation](horseman-of-deaths-dispensation.md)**: Immunity to the waters of the river of death and +4 on saves against memory effects.
+- **[Hypnotism, Greater](hypnotism-greater.md)**: As
 - **[Illusion of Treachery, Greater](illusion-of-treachery-greater.md)**: Make it seem like another is responsible for your attacks while concealing your own actions.
 - **[Illusory Wall](illusory-wall.md)**: Wall, floor, or ceiling looks real, but anything can pass through.
 - **[Impossible Angles](impossible-angles.md)**: Distort geometry in an area.

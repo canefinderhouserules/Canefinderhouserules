@@ -132,6 +132,7 @@ Inquisitor spells. Spells from other books will be added as they are transcribed
 - **[Speechreader's Sight](speechreaders-sight.md)**: Read the lips of speakers within 100 ft.
 - **[Spiked Armor](spiked-armor.md)**: A suit of metal armor or shield sprouts spikes that hurt natural attackers.
 - **[Stalwart Resolve](stalwart-resolve.md)**: Ignore ability damage to one score.
+- **[Strand of the Tangled Knot](strand-of-the-tangled-knot.md)**: Next attack against you takes -10 penalty
 - **[Stunning Barrier](stunning-barrier.md)**: You are closely surrounded by a barely visible magical field.
 - **[Sure Casting](sure-casting.md)**: +5 caster level to overcome spell resistance with your next spell.
 - **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
@@ -234,6 +235,7 @@ Inquisitor spells. Spells from other books will be added as they are transcribed
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
 - **[Lesser Nondetection](lesser-nondetection.md)**: Blocks area-targeted divinations.
 - **[Light Prison](light-prison.md)**: Cage of light damages and blinds those who leave it.
+- **[Litany of Bleeding](litany-of-bleeding.md)**: Creature takes bleed damage from piercing and slashing weapons
 - **[Litany of Defense](litany-of-defense.md)**: Doubles armor’s enhancement bonus.
 - **[Litany of Duty](litany-of-duty.md)**: Reroll a failed save against a compulsion.
 - **[Magic Siege Engine](magic-siege-engine.md)**: Siege engine gains +1 on targeting and damage rolls.

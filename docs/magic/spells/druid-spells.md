@@ -96,6 +96,7 @@
 - **[Rite of Bodily Purity](rite-of-bodily-purity.md)**: Meditative spell: bonus against disease and poison, with a reroll.
 - **[Rite of Centered Mind](rite-of-centered-mind.md)**: Meditative spell: bonus against mind-affecting effects, with a reroll.
 - **[Scarify](scarify.md)**: Convert lethal damage to nonlethal, leaving scars
+- **[Shield Companion](shield-companion.md)**: As
 - **[Shield Speech](shield-speech.md)**: You and one creature talk without being overheard.
 - **[Shillelagh](shillelagh.md)**: Cudgel or quarterstaff becomes +1 weapon (2d6 damage) for 1 min./level.
 - **[Snow Shape](snow-shape.md)**: Shape snow like stone, or carve an ice weapon.
@@ -620,6 +621,7 @@
 - **[Tar Pool](tar-pool.md)**: Converts the top layer of the ground into hot tar.
 - **[Transport via Plants](transport-via-plants.md)**: Move instantly from one plant to another of the same kind.
 - **[Unerring Tracker](unerring-tracker.md)**: Follow an entire trail unerringly.
+- **[Verdant Ire](verdant-ire.md)**: Create evil-seeking tendrils from tall grass and weeds.
 - **[Wall of Stone](wall-of-stone.md)**: Creates a stone wall that can be shaped.
 - **[Wandering Trail](wandering-trail.md)**: Reroute the trails left by the targets.
 - **[What Grows Within](what-grows-within.md)**: +3 profane bonus on Will saves, and your mind-affecting spells carry an alien taint.

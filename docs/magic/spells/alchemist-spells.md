@@ -19,6 +19,7 @@ Alchemist spells. Spells from other books will be added as they are transcribed.
 - **[Comprehend Languages](comprehend-languages.md)**: You understand all languages.
 - **[Coward's Cowl](cowards-cowl.md)**: Defensive bonuses while avoiding enemies.
 - **[Cure Light Wounds](cure-light-wounds.md)**: Cures 1d8 damage + 1/level (max +5).
+- **[Cursed Gold](cursed-gold.md)**: Make someone who accepts one of your gold pieces more vulnerable to your magic.
 - **[Detect Metal](detect-metal.md)**: Detects metal objects and creatures in a cone.
 - **[Detect Secret Doors](detect-secret-doors.md)**: Reveals hidden doors within 60 ft.
 - **[Detect Undead](detect-undead.md)**: Reveals undead within 60 ft.

@@ -150,6 +150,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Sculpted Cape](sculpted-cape.md)**: Your cape stiffens and holds its shape.
 - **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
 - **[Shadow Weapon](shadow-weapon.md)**: Create a quasi-real masterwork weapon.
+- **[Shield Companion](shield-companion.md)**: As
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Skin Tag](skin-tag.md)**: Haunted food that lets you torment its eater from afar.
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
@@ -159,6 +160,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Speechreader's Sight](speechreaders-sight.md)**: Read the lips of speakers within 100 ft.
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
 - **[Starsight](starsight.md)**: See the night sky clearly and gain stargazing bonuses.
+- **[Strand of the Tangled Knot](strand-of-the-tangled-knot.md)**: Next attack against you takes -10 penalty
 - **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 - **[Summon Monster I](summon-monster-i.md)**: Summons extraplanar creature to fight for you.
@@ -241,6 +243,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage + 1/level (max +10).
 - **[Curse of Keeping](curse-of-keeping.md)**: Target cannot sell, barter, or give away its items.
 - **[Curse Terrain, Lesser](curse-terrain-lesser.md)**: Curse an area with three mild hazards.
+- **[Cursed Gold](cursed-gold.md)**: Make someone who accepts one of your gold pieces more vulnerable to your magic.
 - **[Dark Whispers](dark-whispers.md)**: Whisper through the shadows.
 - **[Daze Monster](daze-monster.md)**: Living creature of 6 HD or less loses next action.
 - **[Death Candle](death-candle.md)**: This spell functions like death knell, except instead of using the slain target’s life energy to enhance.
@@ -496,6 +499,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Gullibility](gullibility.md)**: target believes lies more readily
 - **[Hag's Seasoning](hags-seasoning.md)**: Curse: the target becomes a delicious meal.
 - **[Hallucinatory Decor](hallucinatory-decor.md)**: Reimagine the decor of a structure.
+- **[Harrowing](harrowing.md)**: Use a fortune-telling deck to predict the future.
 - **[Healing Leak](healing-leak.md)**: Halve the target's healing from positive or negative energy.
 - **[Healing Thief](healing-thief.md)**: You siphon half of all magical healing that the targeted creature receives.
 - **[Heart of the Metal](heart-of-the-metal.md)**: You lend the nature of adamantine, cold iron, or silver to the targeted weapons, with the following effects:
@@ -710,6 +714,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Horseman of Death’s Dispensation](horseman-of-deaths-dispensation.md)**: Immunity to the waters of the river of death and +4 on saves against memory effects.
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
+- **[Hypnotism, Greater](hypnotism-greater.md)**: As
 - **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
 - **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form
 - **[Infernal Healing, Greater](infernal-healing-greater.md)**: As *infernal healing*, but fast healing 4.
@@ -1171,6 +1176,7 @@ Witch spells. Spells from other books will be added as they are transcribed. An 
 - **[Massacre](massacre.md)**: Slaughter creatures in a line.
 - **[Maze of Madness and Suffering](maze-of-madness-and-suffering.md)**: Send a target into a dangerous extradimensional maze.
 - **[Mind Blank, Communal](mind-blank-communal.md)**: As mind blank, but you may divide the duration among creatures touched.
+- **[Oliphant Rune](oliphant-rune.md)**: Create a potent rune that evokes a mighty oliphant, warding the area against chaos and destruction.
 - **[Parasitic Soul](parasitic-soul.md)**: Place a trapped soul in a victim's body
 - **[Polar Midnight](polar-midnight.md)**: Cold darkness paralyzes and deals damage. The following spells are presented in alphabetical order, with the exception of those whose names begin with “greater,” “lesser,” or “mass.” These spells are alphabetized
 - **[Power Word Kill](power-word-kill.md)**: Kills one creature with 100 hp or less.

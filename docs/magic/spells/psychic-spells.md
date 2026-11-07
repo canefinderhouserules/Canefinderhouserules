@@ -65,6 +65,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Confusion, Lesser](confusion-lesser.md)**: One creature is *confused* for 1 round.
 - **[Coward's Cowl](cowards-cowl.md)**: Defensive bonuses while avoiding enemies.
 - **[Cultural Adaptation](cultural-adaptation.md)**: Adapt to fit the local culture.
+- **[Cursed Gold](cursed-gold.md)**: Make someone who accepts one of your gold pieces more vulnerable to your magic.
 - **[Dancing Darkness](dancing-darkness.md)**: up to four spheres of moving darkness
 - **[Decompose Corpse](decompose-corpse.md)**: Turn a corpse into a clean skeleton.
 - **[Decrepit Disguise](decrepit-disguise.md)**: Make an object seem worthless.
@@ -645,6 +646,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Hollow Heroism](hollow-heroism.md)**: Provide a *heroism* effect that you can reverse at any time.
 - **[Horseman of Death’s Dispensation](horseman-of-deaths-dispensation.md)**: Immunity to the waters of the river of death and +4 on saves against memory effects.
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
+- **[Hypnotism, Greater](hypnotism-greater.md)**: As
 - **[Id Insinuation III](id-insinuation-iii.md)**: As id insinuation I, but affects three creatures and has a stronger confusion effect.
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
 - **[Illusory Wall](illusory-wall.md)**: Wall, floor, or ceiling looks real, but anything can pass through.
@@ -1043,6 +1045,7 @@ Psychics gain access to the following spells. Spells without a link come from ot
 - **[Walk Through Space](walk-through-space.md)**: You can spend a move action to teleport 30 feet or to stand while prone without provoking attacks of opportunity.
 - **[Waves of Ecstasy](waves-of-ecstasy.md)**: Pleasure stuns and staggers creatures.
 - **[Waves of Exhaustion](waves-of-exhaustion.md)**: Several targets become exhausted.
+- **[Word of Beckoning](word-of-beckoning.md)**: As
 - **[Word of Recall](word-of-recall.md)**: Teleports you back to designated place.
 
 ## 8th-Level Psychic Spells

@@ -1,6 +1,6 @@
 # Horseman of Death’s Dispensation
 
-**School** abjuration; **Level** cleric 4, inquisitor 4, mesmerist 4, psychic 4, shaman 4, sorcerer/wizard 4, witch 4  
+**School** abjuration; **Level** cleric 4, inquisitor 4, medium 4, mesmerist 4, psychic 4, shaman 4, sorcerer/wizard 4, spiritualist 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M (2 silver coins)  
 **Range** close (25 ft. + 5 ft./2 levels)  

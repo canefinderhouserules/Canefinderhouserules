@@ -112,6 +112,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Spiked Armor](spiked-armor.md)**: A suit of metal armor or shield sprouts spikes that hurt natural attackers.
 - **[Spirit Call](spirit-call.md)**: Spirit and domain spells in the area are stronger.
 - **[Spirit Share](spirit-share.md)**: Deliver a drink or potion by touch
+- **[Strand of the Tangled Knot](strand-of-the-tangled-knot.md)**: Next attack against you takes -10 penalty
 - **[Summon Nature’s Ally I](summon-natures-ally-i.md)**: Summons creature to fight.
 - **[Tears to Wine](tears-to-wine.md)**: Turn liquids into wine that sharpens the mind.
 - **[Thorn Javelin](thorn-javelin.md)**: Wield a javelin that sickens opponents when it strikes.
@@ -154,6 +155,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage +1/level (max. +10).
 - **[Curse of Keeping](curse-of-keeping.md)**: Target cannot sell, barter, or give away its items.
 - **[Curse Terrain, Lesser](curse-terrain-lesser.md)**: Curse an area with three mild hazards.
+- **[Cursed Gold](cursed-gold.md)**: Make someone who accepts one of your gold pieces more vulnerable to your magic.
 - **[Darkness](darkness.md)**: 20-ft. radius of supernatural shadow.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
@@ -296,6 +298,7 @@ Shamans gain access to the following spells. Spells in plain text come from othe
 - **[Font of Spirit Magic](font-of-spirit-magic.md)**: Allies casting your spirit magic spells in the area get +2 on caster level checks, concentration and DCs.
 - **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
 - **[Hag's Seasoning](hags-seasoning.md)**: Curse: the target becomes a delicious meal.
+- **[Harrowing](harrowing.md)**: Use a fortune-telling deck to predict the future.
 - **[Healing Leak](healing-leak.md)**: Touched target only gains and grants half the benefits from magical healing
 - **[Hex Glyph](hex-glyph.md)**: As glyph of warding, but stores one of your hexes instead of a spell.
 - **[Hollow Blades](hollow-blades.md)**: Target's melee damage drops one size.

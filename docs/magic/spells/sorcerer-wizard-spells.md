@@ -358,6 +358,7 @@
 - **[Crafter's Nightmare](crafters-nightmare.md)**: Haunt sabotages crafting, ritual, and long-casting-time work.
 - **[Crimson Confession](crimson-confession.md)**: You ward an object or an area with your personal rune or mark.
 - **[Curse Terrain, Lesser](curse-terrain-lesser.md)**: Curse an area with three mild hazards.
+- **[Cursed Gold](cursed-gold.md)**: Make someone who accepts one of your gold pieces more vulnerable to your magic.
 - **[Dark Whispers](dark-whispers.md)**: Whisper through the shadows.
 - **[Death From Below](death-from-below.md)**: School abjuration; Level bard 3, sorcerer/wizard 2 Casting Time 1 standard action Components V, S Range touch.
 - **[Defending Bone](defending-bone.md)**: Floating bone grants DR 5/bludgeoning.
@@ -709,6 +710,7 @@
 - **[Gilded Whispers](gilded-whispers.md)**: Use a coin as a scrying target.
 - **[Glimpse the Hidden](glimpse-the-hidden.md)**: As *see invisibility*, but cannot be made permanent.
 - **[Gloomblind Bolts](gloomblind-bolts.md)**: You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane.
+- **[Harrowing](harrowing.md)**: Use a fortune-telling deck to predict the future.
 - **[Shining Scales](shining-scales.md)**: Silver scales grant +5 armor and punish evil creatures caught in your breath.
 - **[Golden Guise](golden-guise.md)**: Turns an object into gold temporarily.
 - **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
@@ -1025,6 +1027,7 @@
 - **[Hunger for Flesh](hunger-for-flesh.md)**: Give a creature a bite attack and a hunger for its own kind’s flesh.
 - **[Hurricane Blast](hurricane-blast.md)**: A burst of severe wind knocks down and blows back creatures.
 - **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
+- **[Hypnotism, Greater](hypnotism-greater.md)**: As
 - **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
 - **[Imbue with Flight](imbue-with-flight.md)**: A Large or smaller object can fly at a speed of 40 ft.
@@ -1503,6 +1506,7 @@
 - **[Psychic Asylum](psychic-asylum.md)**: Perform a lengthy mental task in a private mindscape.
 - **[Redcap's Touch](redcaps-touch.md)**: A bloodied hat grants +2 damage and healing on kills.
 - **[Repulsion](repulsion.md)**: Creatures can’t approach you.
+- **[Verdant Ire](verdant-ire.md)**: Create evil-seeking tendrils from tall grass and weeds.
 
 **Conjuration**
 
@@ -1666,6 +1670,7 @@
 - **[Soul Transfer](soul-transfer.md)**: Move or capture bodiless souls
 - **[Spell Scourge](spell-scourge.md)**: Strip harmless spells from a creature or confuse it.
 - **[Spell Turning](spell-turning.md)**: Reflect 1d4+6 spell levels back at caster.
+- **[Word of Beckoning](word-of-beckoning.md)**: As
 
 **Conjuration**
 
@@ -1855,6 +1860,7 @@
 - **[Massacre](massacre.md)**: Slaughter creatures in a line.
 - **[Maze of Madness and Suffering](maze-of-madness-and-suffering.md)**: Send a target into a dangerous extradimensional maze.
 - **[Mind Blank, Communal](mind-blank-communal.md)**: As mind blank, but you may divide the duration among creatures touched.
+- **[Oliphant Rune](oliphant-rune.md)**: Create a potent rune that evokes a mighty oliphant, warding the area against chaos and destruction.
 - **[Parasitic Soul](parasitic-soul.md)**: Place a trapped soul in a victim's body
 - **[Prismatic Sphere](prismatic-sphere.md)**: As *prismatic wall*, but surrounds on all sides.
 

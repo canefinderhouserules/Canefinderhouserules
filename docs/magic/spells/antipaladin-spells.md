@@ -14,6 +14,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
 - **[Crime of Opportunity](crime-of-opportunity.md)**: Compel a target to take a criminal action.
+- **[Cursed Gold](cursed-gold.md)**: Make someone who accepts one of your gold pieces more vulnerable to your magic.
 - **[Dancing Darkness](dancing-darkness.md)**: up to four spheres of moving darkness
 - **[Dark Whispers](dark-whispers.md)**: Whisper through the shadows.
 - **[Darting Duplicate](darting-duplicate.md)**: Illusory duplicate baits attacks of opportunity.
@@ -39,6 +40,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Ironbeard](ironbeard.md)**: School transmutation; Level antipaladin 1, cleric 1, magus 1, paladin 1, ranger 1 Casting Time 1 standard.
 - **[Itching Curse](itching-curse.md)**: Itch gives –1 penalty unless scratched.
 - **[Linebreaker](linebreaker.md)**: You gain a +20 foot bonus to your base speed when charging and a +2 bonus on combat maneuver checks made to.
+- **[Litany of Bleeding](litany-of-bleeding.md)**: Creature takes bleed damage from piercing and slashing weapons
 - **[Litany of Sloth](litany-of-sloth.md)**: Single target cannot make attacks of opportunity for 1 round.
 - **[Litany of Weakness](litany-of-weakness.md)**: Single target is fatigued for 1 round.
 - **[Locksight](locksight.md)**: Sense a lock’s state and quality.
@@ -57,6 +59,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Sentry Skull](sentry-skull.md)**: You restore the senses to the severed head of a humanoid or monstrous humanoid killed within the past 24.
 - **[Shadow Claws](shadow-claws.md)**: Gain shadow claws that damage Strength
 - **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
+- **[Shield Companion](shield-companion.md)**: As
 - **[Steady Saddle](steady-saddle.md)**: Steady a saddle for mounted ranged attacks
 - **[Summon Minor Monster](summon-minor-monster.md)**: Summon 1d3 Tiny animals.
 - **[Touch of Blindness](touch-of-blindness.md)**: touches blind creatures for 1 round

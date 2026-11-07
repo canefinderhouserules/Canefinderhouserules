@@ -21,6 +21,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Color Spray](color-spray.md)**: Knocks unconscious, blinds, and/or stuns weak creatures.
 - **[Corrosive Touch](corrosive-touch.md)**: Touch attack deals 1d4 acid/level.
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
+- **[Devouring Visage](devouring-visage.md)**: Horribly mutate the target’s face, disfiguring it while granting it a natural attack.
 - **[Ear-Piercing Scream](ear-piercing-scream.md)**: Deal sonic damage and daze target.
 - **[Endure Elements](endure-elements.md)**: Exist comfortably in hot or cold regions.
 - **[Enlarge Person](enlarge-person.md)**: Humanoid creature doubles in size.
@@ -71,6 +72,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Stone Throwing](stone-throwing.md)**: Subject can throw and catch rocks.
 - **[Sundering Shards](sundering-shards.md)**: Sundered item explodes, dealing 1d6 damage to adjacent creatures.
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
+- **[Thunder Arrow](thunder-arrow.md)**: Create an arrow of crackling electricity to harm your enemies or alert your allies.
 - **[Thunderstomp](thunderstomp.md)**: Trip one creature within range.
 - **[Touch of Bloodletting](touch-of-bloodletting.md)**: Cause any wounds the target has to bleed profusely.
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
@@ -112,6 +114,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Defensive Shock](defensive-shock.md)**: Electricity damages your attackers.
 - **[Delay Pain](delay-pain.md)**: Ignore pain for 1 hour/level. Disfiguring Touch : Target becomes disfigured.
 - **[Disfiguring Touch](disfiguring-touch.md)**: Target becomes disfigured.
+- **[Divine Trident](divine-trident.md)**: Create a forked trident of electricity.
 - **[Dust of Twilight](dust-of-twilight.md)**: Black particles extinguish light sources within area.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./ level.
 - **[Elemental Touch](elemental-touch.md)**: Gain energy damage touch attack.
@@ -147,6 +150,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
 - **[Protection from Arrows](protection-from-arrows.md)**: Subject gains DR 10/magic against ranged attacks.
 - **[Pyrotechnics](pyrotechnics.md)**: Turns fire into blinding light or thick smoke.
+- **[Quaking Fury](quaking-fury.md)**: Create a minor earthquake to trip creatures.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Quick Throwing](quick-throwing.md)**: Targets draw thrown weapons freely and make full attacks with them.
 - **[Reaper's Coterie](reapers-coterie.md)**: Weapon gains profane damage bonus for each kill.
@@ -314,6 +318,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Irregular Size](irregular-size.md)**: Curse shrivels arms, legs, or wings.
 - **[Mask from Divination](mask-from-divination.md)**: Adhere a mask that foils divination.
 - **[Masochistic Shadow](masochistic-shadow.md)**: a shadow attacks the target, dealing Strength damage each round
+- **[Minotaur’s Blessing](minotaurs-blessing.md)**: Transmute the target’s head into that of a bull.
 - **[Monstrous Physique II](monstrous-physique-ii.md)**: Take the form and some of the powers of a Tiny or Large monstrous humanoid.
 - **[Moonstruck](moonstruck.md)**: Subject is enraged and confused.
 - **[Pellet Blast](pellet-blast.md)**: Creates an explosion of conjured metal pellets.

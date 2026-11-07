@@ -201,6 +201,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
 - **[Crafter's Nightmare](crafters-nightmare.md)**: Haunt sabotages crafting, ritual, and long-casting-time work.
 - **[Crimson Confession](crimson-confession.md)**: Touching the marked object or area turns one’s skin red.
+- **[Cursed Gold](cursed-gold.md)**: Make someone who accepts one of your gold pieces more vulnerable to your magic.
 - **[Debasing Touch](debasing-touch.md)**: Target's touch turns coins to copper.
 - **[Enchantment Sight](enchantment-sight.md)**: See which creatures are under enchantment effects.
 - **[Escape Alarm](escape-alarm.md)**: Ward an area to alert you when someone leaves
@@ -543,6 +544,7 @@ Occultists gain access to the following spells, determined by their chosen imple
 - **[Greater Hypnotism](greater-hypnotism.md)**: hypnotize more creatures and make several requests
 - **[Haste, Mass](haste-mass.md)**: As haste, but affects one creature/level, no two of which can be more than 30 ft. apart.
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
+- **[Hypnotism, Greater](hypnotism-greater.md)**: As
 - **[Life Bubble](life-bubble.md)**: Protects creatures from sustained environmental effects.
 - **[Nondetection, Communal](nondetection-communal.md)**: As nondetection, but you divide the duration among creatures or objects touched.
 - **[Masochistic Shadow](masochistic-shadow.md)**: a shadow attacks the target, dealing Strength damage each round
