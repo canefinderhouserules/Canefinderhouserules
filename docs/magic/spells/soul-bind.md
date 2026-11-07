@@ -1,6 +1,6 @@
 # Soul Bind
 
-**School** necromancy; **Level** cleric 9, sorcerer/wizard 9  
+**School** necromancy; **Level** cleric 9, psychic 9, shaman 9, sorcerer/wizard 9, witch 9  
 **Casting Time** 1 standard action  
 **Components** V, S, F (see text)  
 **Range** close (25 ft. + 5 ft./2 levels)  

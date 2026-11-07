@@ -1,6 +1,6 @@
 # Whirlwind
 
-**School** evocation [air]; **Level** druid 8  
+**School** evocation [air]; **Level** druid 8, shaman 8  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** long (400 ft. + 40 ft./level)  

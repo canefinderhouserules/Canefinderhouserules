@@ -1,6 +1,6 @@
 # Animate Objects
 
-**School** transmutation; **Level** bard 6, cleric 6  
+**School** transmutation; **Level** bard 6, cleric 6, occultist 6, psychic 6, witch 6  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

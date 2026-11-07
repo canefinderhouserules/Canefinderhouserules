@@ -1,6 +1,6 @@
 # Shocking Grasp
 
-**School** evocation [electricity]; **Level** sorcerer/wizard 1  
+**School** evocation [electricity]; **Level** bloodrager 1, magus 1, occultist 1, sorcerer/wizard 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

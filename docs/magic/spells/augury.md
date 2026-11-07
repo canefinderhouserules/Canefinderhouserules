@@ -1,6 +1,6 @@
 # Augury
 
-**School** divination; **Level** cleric 2  
+**School** divination; **Level** cleric 2, medium 2, occultist 2, psychic 2, shaman 2, spiritualist 2, witch 2  
 **Casting Time** 1 minute  
 **Components** V, S, M (incense worth at least 25 gp), F (a set of marked sticks or bones worth at least 25 gp)  
 **Range** personal  

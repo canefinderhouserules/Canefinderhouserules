@@ -1,6 +1,6 @@
 # Sculpt Simulacrum
 
-**School** transmutation; **Level** sorcerer/wizard 2  
+**School** transmutation; **Level** psychic 2, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

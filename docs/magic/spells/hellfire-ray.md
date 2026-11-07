@@ -1,6 +1,6 @@
 # Hellfire Ray
 
-**School** evocation [evil]; **Level** cleric 6, sorcerer/wizard 6  
+**School** evocation [evil]; **Level** cleric 6, magus 6, sorcerer/wizard 6, witch 6  
 **Casting Time** 1 standard action  
 **Components** V, S, DF/F (any unholy symbol or heretical tome)  
 **Range** close (25 ft. + 5 ft./2 levels)  

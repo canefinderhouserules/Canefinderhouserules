@@ -1,6 +1,6 @@
 # True Form
 
-**School** abjuration; **Level** druid 4, sorcerer/wizard 4  
+**School** abjuration; **Level** druid 4, occultist 4, psychic 4, sorcerer/wizard 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

@@ -1,6 +1,6 @@
 # Disrupting Weapon
 
-**School** transmutation; **Level** cleric 5  
+**School** transmutation; **Level** cleric 5, inquisitor 5, spiritualist 5  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

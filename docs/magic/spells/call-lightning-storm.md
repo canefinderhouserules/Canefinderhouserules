@@ -1,6 +1,6 @@
 # Call Lightning Storm
 
-**School** evocation [electricity]; **Level** druid 5  
+**School** evocation [electricity]; **Level** druid 5, occultist 5, shaman 5  
 **Casting Time** 1 round  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  

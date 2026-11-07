@@ -1,6 +1,6 @@
 # Fluid Form
 
-**School** transmutation [water]; **Level** alchemist 4, sorcerer/ wizard 6  
+**School** transmutation [water]; **Level** alchemist 4, psychic 6, sorcerer/ wizard 6  
 **Casting Time** 1 standard action  
 **Components** S, M (a mixture of oil and water)  
 **Range** personal  

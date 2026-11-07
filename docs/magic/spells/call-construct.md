@@ -1,6 +1,6 @@
 # Call Construct
 
-**School** conjuration (teleportation); **Level** cleric 8, sorcerer/ wizard 8  
+**School** conjuration (teleportation); **Level** cleric 8, occultist 6, psychic 8, sorcerer/ wizard 8  
 **Casting Time** 10 minutes  
 **Components** V, S, M (a sapphire worth 1,000 or 5,000 gp; see text)  
 **Range** touch  

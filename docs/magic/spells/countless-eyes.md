@@ -1,6 +1,6 @@
 # Countless Eyes
 
-**School** transmutation; **Level** alchemist 3, inquisitor 3, sorcerer/ wizard 3, witch 3  
+**School** transmutation; **Level** alchemist 3, bloodrager 3, inquisitor 3, occultist 3, psychic 3, sorcerer/ wizard 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

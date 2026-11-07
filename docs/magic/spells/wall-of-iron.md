@@ -1,6 +1,6 @@
 # Wall of Iron
 
-**School** conjuration (creation); **Level** sorcerer/wizard 6  
+**School** conjuration (creation); **Level** magus 6, occultist 6, sorcerer/wizard 6, summoner 5  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a small iron sheet plus gold dust worth 50 gp)  
 **Range** medium (100 ft. + 10 ft./level)  

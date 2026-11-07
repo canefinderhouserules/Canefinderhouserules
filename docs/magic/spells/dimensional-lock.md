@@ -1,6 +1,6 @@
 # Dimensional Lock
 
-**School** abjuration; **Level** cleric 8, sorcerer/wizard 8  
+**School** abjuration; **Level** cleric 8, psychic 8, sorcerer/wizard 8, summoner 6  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

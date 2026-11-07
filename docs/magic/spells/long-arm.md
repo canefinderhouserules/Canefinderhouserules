@@ -1,6 +1,6 @@
 # Long Arm
 
-**School** transmutation; **Level** alchemist 1, bloodrager 1, magus 1, sorcerer/wizard 1, summoner 1, witch 1  
+**School** transmutation; **Level** alchemist 1, bloodrager 1, magus 1, medium 1, psychic 1, sorcerer/wizard 1, summoner 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

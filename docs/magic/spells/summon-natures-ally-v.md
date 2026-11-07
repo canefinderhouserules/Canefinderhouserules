@@ -1,6 +1,6 @@
 # Summon Nature’s Ally V
 
-**School** conjuration (summoning) [see text]; **Level** druid 5  
+**School** conjuration (summoning) [see text]; **Level** druid 5, shaman 5  
 **Casting Time** 1 round  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  

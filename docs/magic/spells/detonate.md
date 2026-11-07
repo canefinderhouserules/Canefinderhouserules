@@ -1,6 +1,6 @@
 # Detonate
 
-**School** evocation [acid, cold, electricity, or fire]; **Level** alchemist 4, sorcerer/wizard 4  
+**School** evocation [acid, cold, electricity, or fire]; **Level** alchemist 4, bloodrager 4, magus 4, sorcerer/wizard 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M (two vials; one containing acid and one containing an alkaline solution worth a total of 50 gp)  
 **Range** 30 ft.  

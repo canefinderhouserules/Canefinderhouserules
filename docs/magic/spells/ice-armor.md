@@ -1,6 +1,6 @@
 # Ice Armor
 
-**School** transmutation [cold, water]; **Level** cleric 1, druid 1  
+**School** transmutation [cold, water]; **Level** bloodrager 1, cleric 1, druid 1  
 **Casting Time** 1 minute  
 **Components** V, S, F (5 gallons of water)  
 **Range** 0 ft.; see text  

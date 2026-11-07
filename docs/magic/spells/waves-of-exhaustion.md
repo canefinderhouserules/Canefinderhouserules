@@ -1,6 +1,6 @@
 # Waves of Exhaustion
 
-**School** necromancy; **Level** sorcerer/wizard 7  
+**School** necromancy; **Level** mesmerist 6, psychic 7, sorcerer/wizard 7, witch 7  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** 60 ft.  

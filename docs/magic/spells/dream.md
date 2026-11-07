@@ -1,6 +1,6 @@
 # Dream
 
-**School** illusion (phantasm) [mind-affecting]; **Level** bard 5, sorcerer/wizard 5  
+**School** illusion (phantasm) [mind-affecting]; **Level** alchemist 5, bard 5, medium 3, mesmerist 4, psychic 4, sorcerer/wizard 5, spiritualist 5  
 **Casting Time** 1 minute  
 **Components** V, S  
 **Range** unlimited  

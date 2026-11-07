@@ -1,6 +1,6 @@
 # Healing Warmth
 
-**School** abjuration; **Level** alchemist 4, cleric 4, druid 4, inquisitor 4  
+**School** abjuration; **Level** alchemist 4, cleric 4, druid 4, inquisitor 4, psychic 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

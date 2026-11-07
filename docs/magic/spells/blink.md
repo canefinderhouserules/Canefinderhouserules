@@ -1,6 +1,6 @@
 # Blink
 
-**School** transmutation; **Level** bard 3, sorcerer/wizard 3  
+**School** transmutation; **Level** bard 3, magus 3, psychic 3, sorcerer/wizard 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

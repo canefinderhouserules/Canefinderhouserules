@@ -1,6 +1,6 @@
 # Blight
 
-**School** necromancy; **Level** druid 4, sorcerer/wizard 5  
+**School** necromancy; **Level** druid 4, shaman 5, sorcerer/wizard 5, witch 5  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

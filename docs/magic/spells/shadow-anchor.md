@@ -1,6 +1,6 @@
 # Shadow Anchor
 
-**School** illusion (shadow) [shadow]; **Level** bard 2, sorcerer/wizard 2, witch 2  
+**School** illusion (shadow) [shadow]; **Level** bard 2, mesmerist 2, psychic 2, sorcerer/wizard 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** S  
 **Range** touch  

@@ -1,6 +1,6 @@
 # Alpha Instinct
 
-**School** enchantment (charm) [mind-affecting]; **Level** bard 3, druid 2, medium 2, mesmerist 3, ranger 2, shaman 2  
+**School** enchantment (charm) [mind-affecting]; **Level** bard 3, druid 2, medium 2, mesmerist 2, ranger 2, shaman 2  
 **Casting Time** 10 minutes  
 **Components** V, S, M (a bit of musk from an alpha wolf or another socially dominant animal)  
 **Range** personal  

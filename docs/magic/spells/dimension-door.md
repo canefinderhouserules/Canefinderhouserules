@@ -1,6 +1,6 @@
 # Dimension Door
 
-**School** conjuration (teleportation); **Level** bard 4, sorcerer/wizard 4  
+**School** conjuration (teleportation); **Level** bard 4, magus 4, medium 3, mesmerist 4, occultist 4, psychic 4, sorcerer/wizard 4, spiritualist 4, summoner 3, witch 4  
 **Casting Time** 1 standard action  
 **Components** V  
 **Range** long (400 ft. + 40 ft./level)  

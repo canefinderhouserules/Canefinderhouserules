@@ -1,6 +1,6 @@
 # Cure Critical Wounds
 
-**School** conjuration (healing); **Level** bard 4, cleric 4, druid 5  
+**School** conjuration (healing); **Level** alchemist 4, bard 4, cleric 4, druid 5, inquisitor 4, occultist 4, shaman 4, spiritualist 4, witch 5  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

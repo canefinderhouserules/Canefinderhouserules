@@ -1,6 +1,6 @@
 # Battle Trance
 
-**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** alchemist 3, antipaladin 3, cleric 4, inquisitor 3, ranger  
+**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** alchemist 3, antipaladin 3, cleric 4, inquisitor 3, ranger, ranger 3, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

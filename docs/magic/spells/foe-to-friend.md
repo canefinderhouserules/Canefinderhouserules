@@ -1,6 +1,6 @@
 # Foe to Friend
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 5  
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 5, mesmerist 5, psychic 7  
 **Casting Time** 1 immediate action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

@@ -1,6 +1,6 @@
 # Walk Through Space
 
-**School** conjuration (teleportation); **Level** alchemist 6, magus 6, sorcerer/wizard 7, summoner 6, witch 7  
+**School** conjuration (teleportation); **Level** alchemist 6, magus 6, psychic 7, sorcerer/wizard 7, summoner 6, witch 7  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a wren’s egg)  
 **Range** personal  

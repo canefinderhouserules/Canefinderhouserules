@@ -1,6 +1,6 @@
 # Stone to Flesh
 
-**School** transmutation; **Level** sorcerer/wizard 6  
+**School** transmutation; **Level** magus 6, shaman 6, sorcerer/wizard 6, witch 6  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a drop of blood mixed with earth)  
 **Range** medium (100 ft. + 10 ft./level)  

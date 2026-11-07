@@ -1,6 +1,6 @@
 # Bless Water
 
-**School** transmutation [good]; **Level** cleric 1, paladin 1  
+**School** transmutation [good]; **Level** cleric 1, inquisitor 1, paladin 1  
 **Casting Time** 1 minute  
 **Components** V, S, M (5 pounds of powdered silver worth 25 gp)  
 **Range** touch  

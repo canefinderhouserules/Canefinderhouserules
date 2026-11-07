@@ -1,6 +1,6 @@
 # Stunning Barrier, Greater
 
-**School** abjuration; **Level** cleric 3, inquisitor 3, paladin 3, sorcerer/wizard 3  
+**School** abjuration; **Level** cleric 3, inquisitor 3, paladin 3, psychic 3, sorcerer/wizard 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

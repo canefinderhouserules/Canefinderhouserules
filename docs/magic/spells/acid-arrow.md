@@ -1,6 +1,6 @@
 # Acid Arrow
 
-**School** conjuration (creation) [acid]; **Level** sorcerer/wizard 2  
+**School** conjuration (creation) [acid]; **Level** bloodrager 2, magus 2, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M (rhubarb leaf and an adder’s stomach), F (a dart)  
 **Range** long (400 ft. + 40 ft./level)  

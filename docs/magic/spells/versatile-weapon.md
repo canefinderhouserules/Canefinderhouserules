@@ -1,6 +1,6 @@
 # Versatile Weapon
 
-**School** transmutation; **Level** bard 2, ranger 2, sorcerer/wizard 3  
+**School** transmutation; **Level** bard 2, bloodrager 3, magus 3, occultist 2, psychic 3, ranger 2, sorcerer/wizard 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M (iron filings)  
 **Range** close (25 ft. + 5 ft./2 levels)  

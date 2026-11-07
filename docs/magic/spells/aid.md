@@ -1,6 +1,6 @@
 # Aid
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** cleric 2  
+**School** enchantment (compulsion) [mind-affecting]; **Level** alchemist 2, cleric 2, inquisitor 2, medium 2, shaman 2, spiritualist 2  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

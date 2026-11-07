@@ -1,6 +1,6 @@
 # Detect Aberration
 
-**School** divination; **Level** druid 1, ranger 1  
+**School** divination; **Level** druid 1, psychic 1, ranger 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  

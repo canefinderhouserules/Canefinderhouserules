@@ -1,6 +1,6 @@
 # Faerie Fire
 
-**School** evocation [light]; **Level** druid 1  
+**School** evocation [light]; **Level** druid 1, mesmerist 1  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** long (400 ft. + 40 ft./level)  

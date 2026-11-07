@@ -1,6 +1,6 @@
 # Anchored Step
 
-**School** transmutation; **Level** alchemist 3, druid 3, shaman 3, sorcerer/wizard 3, witch 3  
+**School** transmutation; **Level** alchemist 3, druid 3, psychic 3, shaman 3, sorcerer/wizard 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a bit of oak root)  
 **Range** personal  

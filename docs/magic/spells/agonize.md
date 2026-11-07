@@ -1,6 +1,6 @@
 # Agonize
 
-**School** evocation [evil, pain]; **Level** cleric 3, sorcerer/wizard 4, summoner 3  
+**School** evocation [evil, pain]; **Level** cleric 3, occultist 3, psychic 4, sorcerer/wizard 4, summoner 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

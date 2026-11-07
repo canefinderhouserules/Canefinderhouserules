@@ -1,6 +1,6 @@
 # Water Walk
 
-**School** transmutation [water]; **Level** cleric 3, ranger 3  
+**School** transmutation [water]; **Level** cleric 3, medium 2, psychic 3, ranger 3, shaman 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

@@ -1,6 +1,6 @@
 # Insanity
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 7  
+**School** enchantment (compulsion) [mind-affecting]; **Level** mesmerist 6, psychic 7, sorcerer/wizard 7, witch 7  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

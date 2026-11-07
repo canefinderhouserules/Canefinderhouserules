@@ -1,6 +1,6 @@
 # Enlarge Person, Mass
 
-**School** transmutation; **Level** sorcerer/wizard 4  
+**School** transmutation; **Level** bloodrager 4, magus 4, psychic 4, sorcerer/wizard 4, summoner 3  
 **Casting Time** 1 round  
 **Components** V, S, M (powdered iron)  
 **Target** One humanoid creature/level, no two of which can be more than 30 ft. apart  

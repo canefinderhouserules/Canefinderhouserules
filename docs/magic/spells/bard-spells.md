@@ -30,7 +30,7 @@
 - **[Abjuring Step](abjuring-step.md)**: You can move slowly and safely and still cast spells, until you move quickly, make an attack, or cast a harmful spell.
 - **[Abstemiousness](abstemiousness.md)**: Food sates a creature for a full day.
 - **[Abundant Ammunition](abundant-ammunition.md)**: Replaces nonmagical ammunition every round. Spells 6 Adoration: You gain a bonus on Diplomacy checks and performance combat checks.
-- **[Adoration](adoration.md)**: The target of this spell is the subject of adoration by those whom it tries to affect with Diplomacy or during…
+- **[Adoration](adoration.md)**: You gain a bonus on Diplomacy checks and performance combat checks.
 - **[Alarm](alarm.md)**: Wards an area for 2 hours/level.
 - **[Alluring Light](alluring-light.md)**: Enemies who fail their saves must walk toward your glow.
 - **[Alter Musical Instrument](alter-musical-instrument.md)**: You alter an instrument so it sounds like a different kind of instrument you are familiar with.
@@ -41,13 +41,13 @@
 - **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
 - **[Biting Words](biting-words.md)**: Spoken ranged touch attacks deal damage.
 - **[Blend with Surroundings](blend-with-surroundings.md)**: Target looks like an object and hides easily while still.
-- **[Blurred Movement](blurred-movement.md)**: This spell functions as blur, except that the blurring occurs only when you move at least 10 feet on your turn and…
+- **[Blurred Movement](blurred-movement.md)**: As blur, but only while you are moving.
 - **[Brightest Night](brightest-night.md)**: grant or enhance low-light vision
 - **[Call Weapon](call-weapon.md)**: Pull an ally’s weapon into your hand.
 - **[Cause Fear](cause-fear.md)**: One creature of 5 HD or less flees for 1d4 rounds.
 - **[Charm Fey](charm-fey.md)**: As *charm person*, but affects a fey.
 - **[Charm Person](charm-person.md)**: Makes one person your friend.
-- **[Chastise](chastise.md)**: You gain a +5 bonus on Bluff, Diplomacy, and Intimidate checks to convince a listener that they will get in tr…
+- **[Chastise](chastise.md)**: +5 bonus to convince a target to do what you want or get in trouble with their superiors.
 - **[Clarion Call](clarion-call.md)**: Creates a horn blast and a booming voice.
 - **[Cloak of Secrets](cloak-of-secrets.md)**: Bubble disguises speech and spell components.
 - **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
@@ -71,9 +71,9 @@
 - **[Detect Metal](detect-metal.md)**: Detects metal objects and creatures in a cone.
 - **[Detect Radiation](detect-radiation.md)**: See radioactive auras.
 - **[Detect Secret Doors](detect-secret-doors.md)**: Reveals hidden doors within 60 ft.
-- **[Discern Next of Kin](discern-next-of-kin.md)**: You can scan the thoughts of one individual and learn the names and locations of the target's living relatives, as…
+- **[Discern Next of Kin](discern-next-of-kin.md)**: Read the target’s mind to learn about its family.
 - **[Disguise Self](disguise-self.md)**: Changes your appearance.
-- **[Disguise Weapon](disguise-weapon.md)**: You make one manufactured weapon look like a different manufactured weapon of the same size and relative encumbrance…
+- **[Disguise Weapon](disguise-weapon.md)**: Changes one weapon’s appearance.
 - **[Duelist’s Parry](duelists-parry.md)**: Parry a melee attack as an immediate action.
 - **[Ears of the City](ears-of-the-city.md)**: Gather information from echoes of local talk.
 - **[Echo](echo.md)**: Cause a sound to repeat itself.
@@ -90,7 +90,7 @@
 - **[Grappling Scarf](grappling-scarf.md)**: Your scarf becomes a grappling hook and rope.
 - **[Grease](grease.md)**: Makes 10-ft. square or one object slippery.
 - **[Haze of Dreams](haze-of-dreams.md)**: Halve a creature’s speed with waking dreams.
-- **[Heightened Awareness](heightened-awareness.md)**: You enter a heightened state of awareness that allows you to notice more about your surroundings and recall…
+- **[Heightened Awareness](heightened-awareness.md)**: Your recall and ability to process information improve.
 - **[Hide Bruises](hide-bruises.md)**: Make wounds appear to vanish
 - **[Hideous Laughter](hideous-laughter.md)**: Subject loses actions for 1 round/ level.
 - **[Hobble](hobble.md)**: Halve the movement speed of several creatures
@@ -107,7 +107,7 @@
 - **[Jitterbugs](jitterbugs.md)**: School illusion (figment) [mind-affecting]; Level bard 1, sorcerer/wizard 2 Casting Time 1 standard action.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
-- **[Kreighton’s Perusal](kreightons-perusal.md)**: You gain a brief but incomplete understanding of one book’s contents, equivalent to having skimmed its pages f…
+- **[Kreighton’s Perusal](kreightons-perusal.md)**: Gain a brief understanding from a book as if you had read it for 1 hour.
 - **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
 - **[Lighten Object](lighten-object.md)**: Halve an object’s weight.
 - **[Linked Legacy](linked-legacy.md)**: Share Knowledge check results with the linked creatures.
@@ -184,13 +184,13 @@
 ## 2nd-Level Bard Spells
 
 - **[Absurdity](absurdity.md)**: Threats seem like a ridiculous farce.
-- **[Air Step](air-step.md)**: This spell functions as air walk, except you can rise no higher than 1 foot off the ground, you cannot pass over…
+- **[Air Step](air-step.md)**: Tread unsteadily on air, with limitations.
 - **[Ally Across Time](ally-across-time.md)**: Summon a brief duplicate of yourself to aid you.
 - **[Alter Self](alter-self.md)**: Assume form of a Small or Medium humanoid.
 - **[Alter Summoned Monster](alter-summoned-monster.md)**: Swap a summoned creature for another
 - **[Ancestral Communion](ancestral-communion.md)**: Ancestors grant an insight bonus on Knowledge checks.
 - **[Animal Messenger](animal-messenger.md)**: Sends a Tiny animal to a specific place.
-- **[Animal Purpose Training](animal-purpose-training.md)**: You instill the target animal with a general purpose (see the Handle Animal skill), which can be any purpose except…
+- **[Animal Purpose Training](animal-purpose-training.md)**: Animal gains a new general purpose.
 - **[Animal Trance](animal-trance.md)**: Fascinates 2d6 HD of animals.
 - **[Anonymous Interaction](anonymous-interaction.md)**: You cause the targets to forget all but the most general information about you.
 - **[Anti-Summoning Shield](anti-summoning-shield.md)**: Summoning effects in the area may fail.
@@ -212,7 +212,7 @@
 - **[Body Double](body-double.md)**: Two creatures look alike; attacks may hit the wrong one.
 - **[Book Ward](book-ward.md)**: Protects a touched object from acid and fire, and waterproofs it.
 - **[Build Trust](build-trust.md)**: Gain various bonuses when interacting with the target.
-- **[Bullet Ward](bullet-ward.md)**: You toss several adamantine bullets into the air, which then hover protectively nearby and intercept firearm attacks…
+- **[Bullet Ward](bullet-ward.md)**: Hovering adamantine bullets intercept firearm attacks aimed at you.
 - **[Buoyancy](buoyancy.md)**: The affected targets become incredibly buoyant, floating naturally on any water at least 1 foot deep.
 - **[Callback](callback.md)**: Teleport a familiar or spirit animal to your side when it is injured.
 - **[Calm Emotions](calm-emotions.md)**: Calms creatures, negating emotion effects.
@@ -226,7 +226,6 @@
 - **[Contact High](contact-high.md)**: Share the effects of a drug you are under with others.
 - **[Contagious Zeal](contagious-zeal.md)**: Grant bonuses and temporary hit points that spread from creature to creature.
 - **[Contest of Skill](contest-of-skill.md)**: Target’s critical threats fail to confirm.
-- **[Contingent Action](contingent-action.md)**: The target gains an extra action that becomes available when a condition which you dictate is met.
 - **[Covetous Urge](covetous-urge.md)**: Curse a creature to steal valuables
 - **[Crafter's Nightmare](crafters-nightmare.md)**: Haunt sabotages crafting, ritual, and long-casting-time work.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage + 1/level (max +10).
@@ -266,7 +265,7 @@
 - **[Fleeting Defect](fleeting-defect.md)**: An object temporarily gains the broken condition.
 - **[Flesh Facade](flesh-facade.md)**: Make an undead look alive
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
-- **[Focused Scrutiny](focused-scrutiny.md)**: You gain heightened sensitivity to the mannerisms, reactions, and body language of one creature you can perceive,…
+- **[Focused Scrutiny](focused-scrutiny.md)**: Gain skill bonuses when interacting with the target.
 - **[Fortune's Path](fortunes-path.md)**: Roll on a table to foresee events in the next week.
 - **[Fox’s Cunning](foxs-cunning.md)**: Subject gains +4 to Int for 1 min./level.
 - **[Full Pouch](full-pouch.md)**: Duplicate an alchemical item as you draw it.
@@ -294,9 +293,9 @@
 - **[Instant Weapon](instant-weapon.md)**: Create a masterwork melee weapon of force.
 - **[Investigative Mind](investigative-mind.md)**: Your mind is able to correlate information effectively.
 - **[Invisibility](invisibility.md)**: Subject is invisible for 1 min./level or until it attacks.
-- **[Invisibility Bubble](invisibility-bubble.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
+- **[Invisibility Bubble](invisibility-bubble.md)**: As invisibility, but altered to work better underwater.
 - **[Jealous Rage](jealous-rage.md)**: Target attacks anyone who receives a benefit it does not.
-- **[Lament of Summer’s Last Breath](lament-of-summers-last-breath.md)**: You wrap the target in a mantle of summery air, within which the ambient temperature never falls below 70 degr…
+- **[Lament of Summer’s Last Breath](lament-of-summers-last-breath.md)**: Wraps the target in warm air that protects it from cold.
 - **[Lay of the Land](lay-of-the-land.md)**: Instantly learn the geography around you.
 - **[Lead Anchor](lead-anchor.md)**: The target’s buoyancy becomes and stays swiftly sinking, regardless of how dense the target and its gear are.
 - **[Light Prison](light-prison.md)**: Cage of light damages and blinds those who leave it.
@@ -304,12 +303,12 @@
 - **[Locate Portal](locate-portal.md)**: You feel a pull toward the nearest active portal to another plane.
 - **[Mage's Crawl Space](mages-crawl-space.md)**: Merge into stone inside a 5-ft. pocket of air.
 - **[Make Lost](make-lost.md)**: You strip the targets of their senses of direction and recent memories of travel.
-- **[Marching Chant](marching-chant.md)**: You invigorate your allies, who can hustle (Core Rulebook) as long as you continue to sing or chant (which requires…
+- **[Marching Chant](marching-chant.md)**: Allies can hustle without penalty while you sing or chant.
 - **[Matchmaker](matchmaker.md)**: Cause two creatures to fall in love.
 - **[Mathematical Curse](mathematical-curse.md)**: Assign 3d8 to set a penalty on one d20 roll type and its duration.
 - **[Mental Block](mental-block.md)**: Prevent the target from using its skill ranks, spells, feats, and abilities.
 - **[Miasmal Dread](miasmal-dread.md)**: A cloud of sickly green mist pours from your mouth and coalesces around creatures in the cone.
-- **[Mindlocked Messenger](mindlocked-messenger.md)**: You speak a short message (up to 10 words per caster level), implanting both it and the identity of the message's…
+- **[Mindlocked Messenger](mindlocked-messenger.md)**: Target gains a message that can be given only to its intended recipient.
 - **[Minor Image](minor-image.md)**: As *silent image*, plus some sound.
 - **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you (1d4 + 1 per three levels, max 8).
 - **[Misdirection](misdirection.md)**: Misleads divinations for one creature or object.
@@ -344,7 +343,7 @@
 - **[Retrieve Item](retrieve-item.md)**: A small prepared object appears in your hand when you snap your fingers.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Reveal True Shape](reveal-true-shape.md)**: Shows the true form of a disguised or transformed creature.
-- **[Revelation](revelation.md)**: You gain a brief understanding of the workings of a single puzzle, device, or trap, gaining an insight bonus equal…
+- **[Revelation](revelation.md)**: Gain great insight into the inner workings of a puzzle, device, or trap.
 - **[Rotgut](rotgut.md)**: Turn water into cheap alcohol
 - **[Rumormonger](rumormonger.md)**: Follow a rumor to see where it spreads.
 - **[Rune of Rule](rune-of-rule.md)**: Paint a rune on an ally that grants a one-time boost.
@@ -368,11 +367,11 @@
 - **[Spell Gauge](spell-gauge.md)**: Reveal some of a target’s spells.
 - **[Steal Breath](steal-breath.md)**: You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath.
 - **[Suggestion](suggestion.md)**: Compels subject to follow stated course of action.
-- **[Summon Monster 2](summon-monster-2.md)**: This spell functions like summon monster I, except that you can summon one creature from the 2nd-level list or…
+- **[Summon Monster 2](summon-monster-2.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Monster II](summon-monster-ii.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Swarm](summon-swarm.md)**: Summons swarm of bats, rats, or spiders.
 - **[Suppress Charms and Compulsions](suppress-charms-and-compulsions.md)**: Bolster or suppress charm and compulsion effects.
-- **[Swipe](swipe.md)**: By flicking a finger in the appropriate direction and proclaiming ownership, you attempt to magically wrest an…
+- **[Swipe](swipe.md)**: Attempt to magically wrest an item from the target.
 - **[Sympathetic Aura](sympathetic-aura.md)**: Magic aura that also covers similar nearby items.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
 - **[Tactical Miscalculation](tactical-miscalculation.md)**: Target must save to make attacks of opportunity.
@@ -394,8 +393,8 @@
 ## 3rd-Level Bard Spells
 
 - **[Accept Affliction](accept-affliction.md)**: Transfer an affliction or condition from a creature to yourself.
-- **[Adjustable Disguise](adjustable-disguise.md)**: This spell functions as disguise self, except as a swift action you can alter the disguise (within the limitations…
-- **[Air of Authority](air-of-authority.md)**: You gain an unmistakable air of authority, which clouds creatures’ minds and causes them to believe that you a…
+- **[Adjustable Disguise](adjustable-disguise.md)**: As disguise self, but you can change the disguise as a swift action.
+- **[Air of Authority](air-of-authority.md)**: Creatures believe you are their direct superior.
 - **[Akashic Communion](akashic-communion.md)**: Many Knowledge checks with +10 insight.
 - **[Allied Cloak](allied-cloak.md)**: Animate your cloak to shield you and aid your actions.
 - **[Alpha Instinct](alpha-instinct.md)**: Gain bonuses when you’re interacting with animals.
@@ -418,6 +417,7 @@
 - **[Collaborative Thaumaturgy](collaborative-thaumaturgy.md)**: Ally applies a metamagic feat to a spell for free.
 - **[Confusion](confusion.md)**: Subjects behave oddly for 1 round/level.
 - **[Conjure Carriage](conjure-carriage.md)**: Create a fine carriage.
+- **[Contingent Action](contingent-action.md)**: The target gains an extra action that becomes available when a condition which you dictate is met.
 - **[Crushing Despair](crushing-despair.md)**: Subjects take –2 on attack rolls, damage rolls, saves, and checks.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
 - **[Daylight](daylight.md)**: 60-ft. radius of bright light.
@@ -448,7 +448,7 @@
 - **[Flexile Curse](flexile-curse.md)**: Curse degrades worn armor and shields.
 - **[Fractions of Heal and Harm](fractions-of-heal-and-harm.md)**: Convert 25% of your next area damage spell into healing.
 - **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
-- **[Free Swim](free-swim.md)**: The target can move and attack underwater normally without the usual penalties involved with underwater combat, as…
+- **[Free Swim](free-swim.md)**: As freedom of movement, but only allowing a creature to move freely underwater.
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
 - **[Geas, Lesser](geas-lesser.md)**: Commands subject of 7 HD or less.
 - **[Geomessage](geomessage.md)**: Leave an invisible message on a surface
@@ -467,7 +467,7 @@
 - **[Inhibiting Patterns](inhibiting-patterns.md)**: Pillars of color block movement and impose a miss chance on ranged attacks.
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
 - **[Inveigle Person](inveigle-person.md)**: The target treats all creatures as friendly.
-- **[Invisibility Bubble, Giant](invisibility-bubble-giant.md)**: This functions as per invisibility bubble, but the bubble is larger, which allows you to target a creature of …
+- **[Invisibility Bubble, Giant](invisibility-bubble-giant.md)**: As invisibility bubble, but capable of affecting larger creatures.
 - **[Invisibility Bubble, Greater](invisibility-bubble-greater.md)**: This functions as per invisibility bubble, but the bubble is larger, which allows you to target a creature of up to s
 - **[Invisibility Sphere](invisibility-sphere.md)**: Makes everyone within 10 feet invisible.
 - **[Isolate](isolate.md)**: Separate your prey from support
@@ -485,6 +485,7 @@
 - **[Mirage](mirage.md)**: Create illusory terrain.
 - **[Motes of Dusk and Dawn](motes-of-dusk-and-dawn.md)**: up to four motes that shed light or darkness
 - **[Mydriatic Spontaneity](mydriatic-spontaneity.md)**: flashing light and dark nauseate and impair a target's sight
+- **[Nixie’s Lure](nixie-s-lure.md)**: This spell creates an unearthly and infectious song that seductively summons all who hear it.
 - **[Overlook](overlook.md)**: You enhance your natural ability to seem small and unimportant, causing those around you to overlook you.
 - **[Penumbral Disguise](penumbral-disguise.md)**: shadowy illumination masks your features
 - **[Pernicious Pranksters](pernicious-pranksters.md)**: Invisible pranksters trip, disarm, and steal from your foes.
@@ -526,7 +527,7 @@
 - **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
 - **[Stolen Light](stolen-light.md)**: Store an image within a gem.
 - **[Summon Ancestral Guardian](summon-ancestral-guardian.md)**: Two ancestor spirits attack your enemies.
-- **[Summon Monster 3](summon-monster-3.md)**: This spell functions like summon monster I, except that you can summon one creature from the 3rd-level list, 1…
+- **[Summon Monster 3](summon-monster-3.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Monster III](summon-monster-iii.md)**: Summons extraplanar creature to fight for you.
 - **[Sunstalker](sunstalker.md)**: Invisible while in sunlight.
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
@@ -535,7 +536,7 @@
 - **[Tiny Hut](tiny-hut.md)**: Creates shelter for 10 creatures.
 - **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[Trade Items](trade-items.md)**: Swap a focus object with a target object.
-- **[Triggered Suggestion](triggered-suggestion.md)**: This spell functions as suggestion, except you can use it only to specify a condition that triggers a special…
+- **[Triggered Suggestion](triggered-suggestion.md)**: As suggestion, but triggered only and target doesn’t remember the suggestion.
 - **[Unflappable Mien](unflappable-mien.md)**: A force ward punishes creatures that try to touch you.
 - **[Venomous Promise](venomous-promise.md)**: A secret is guarded by a poison that triggers if revealed.
 - **[Wall of Nausea](wall-of-nausea.md)**: Wall of distorted images nauseates creatures passing through.
@@ -544,7 +545,7 @@
 ## 4th-Level Bard Spells
 
 - **[Absorb Rune I](absorb-rune-i.md)**: Absorb a magical rune and move it elsewhere.
-- **[Adjustable Polymorph](adjustable-polymorph.md)**: This spell functions as alter self, except you can as a swift action alter the disguise (within the limitations of…
+- **[Adjustable Polymorph](adjustable-polymorph.md)**: As alter self, but you can change the shape as a swift action.
 - **[Amnesia](amnesia.md)**: Strip a target of its memories, skills and class abilities
 - **[Ancestral Gift](ancestral-gift.md)**: An ancestor conjures a magical weapon for you.
 - **[Animal Ambassador](animal-ambassador.md)**: Grant an animal messenger sentience to deliver your message.
@@ -594,12 +595,11 @@
 - **[Kiss of the First World](kiss-of-the-first-world.md)**: Fast healing for the living; debilitates undead.
 - **[Legend Lore](legend-lore.md)**: Lets you learn tales about a person, place, or thing.
 - **[Locate Creature](locate-creature.md)**: Indicates direction to known creature.
-- **[Lost Passage](lost-passage.md)**: Creatures in the area of this spell are subject to a subtle enchantment that confounds their senses of directi…
+- **[Lost Passage](lost-passage.md)**: Creatures in the area lose their sense of direction and misjudge distances.
 - **[Majestic Image](majestic-image.md)**: As *enter image*, but also gain bonuses on social skills while in the image.
 - **[Mischievous Shadow](mischievous-shadow.md)**: Shadows of victims interfere with their actions.
 - **[Modify Memory](modify-memory.md)**: Changes 5 minutes of subject’s memories.
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
-- **[Nixie’s Lure](nixie-s-lure.md)**: This spell creates an unearthly and infectious song that seductively summons all who hear it.
 - **[Oneiric Horror, Greater](oneiric-horror-greater.md)**: As oneiric horror, plus Str damage.
 - **[Passing Fancy, Mass](passing-fancy-mass.md)**: As passing fancy, affecting multiple creatures.
 - **[Path of Glory, Greater](path-of-glory-greater.md)**: This spell functions as path of glory, except as noted above, and a square provides 5 points of healing instead of 1.
@@ -628,7 +628,7 @@
 - **[Speak with Plants](speak-with-plants.md)**: You can talk to plants and plant creatures.
 - **[Spellfire Jinx](spellfire-jinx.md)**: Cursed caster burns and may lose spells.
 - **[Summon Accuser](summon-accuser.md)**: Summons an accuser devil to spy for you.
-- **[Summon Monster 4](summon-monster-4.md)**: This spell functions like summon monster I, except that you can summon one creature from the 4th-level list, 1…
+- **[Summon Monster 4](summon-monster-4.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Monster IV](summon-monster-iv.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Ship](summon-ship.md)**: conjure a ship
 - **[Tough Crowd](tough-crowd.md)**: Allies resist the next enchantment or illusion and manipulation.
@@ -638,7 +638,7 @@
 - **[Verdant Song](verdant-song.md)**: Your bardic performance heals allies.
 - **[Vicarious View](vicarious-view.md)**: Plant a scrying sensor that you can use to spy on a creature, object, or location.
 - **[Vigilant Rest](vigilant-rest.md)**: Cause a sleeping creature to retain some perception of its surroundings.
-- **[Wall of Blindness/Deafness](wall-of-blindness-deafness.md)**: You create a translucent wall of energy, within which can be seen indistinct images of faces with their eyes or ears…
+- **[Wall of Blindness/Deafness](wall-of-blindness-deafness.md)**: Translucent wall blinds or deafens creatures that pass through it.
 - **[Zone of Silence](zone-of-silence.md)**: Keeps eavesdroppers from overhearing you.
 
 ## 5th-Level Bard Spells
@@ -659,11 +659,11 @@
 - **[Dispel Magic, Greater](dispel-magic-greater.md)**: Works as *dispel magic,* but can affect multiple targets.
 - **[Dream](dream.md)**: Sends message to anyone sleeping.
 - **[Dream Reality](dream-reality.md)**: The target perceives the world as a dream and forgets it.
-- **[Fable Tapestry](fable-tapestry.md)**: The spell weaves shadows and colors from your kapenia into the shape of legendary characters from wandering no…
+- **[Fable Tapestry](fable-tapestry.md)**: As shadow conjuration copying summon monster I, but creates figures from folktales.
 - **[False Vision](false-vision.md)**: Fools scrying with an illusion.
 - **[Grease, Greater](grease-greater.md)**: As grease, but covers much more.
 - **[Guardian Monument, Greater](guardian-monument-greater.md)**: Humans defending the area gain DR 4/magic.
-- **[Harrowing, Greater](harrowing-greater.md)**: This spell functions as harrowing, except it can affect an entire group of creatures and allows its subjects s…
+- **[Harrowing, Greater](harrowing-greater.md)**: As harrowing, except affect an entire group of creatures and allow them some measure of control over their destiny.
 - **[Heroism, Greater](heroism-greater.md)**: Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.
 - **[Hymn of Mercy](hymn-of-mercy.md)**: Touch of mercy in a burst around you.
 - **[Inveigle Monster](inveigle-monster.md)**: As inveigle person, but affects any living creature for 1 day/level.
@@ -693,9 +693,9 @@
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
 - **[Suggestion, Mass](suggestion-mass.md)**: As *suggestion,* affects subject/level.
 - **[Summon Infernal Host](summon-infernal-host.md)**: Summons 1d4+1 lesser host devils or 1 greater host devil.
-- **[Summon Monster 5](summon-monster-5.md)**: This spell functions like summon monster I, except that you can summon one creature from the 5th-level list, 1…
+- **[Summon Monster 5](summon-monster-5.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Monster V](summon-monster-v.md)**: Summons extraplanar creature to fight for you.
-- **[Sustaining Legend](sustaining-legend.md)**: The rulers of the drowned empire are thought to have used this spell to amplify the mythic power of themselves…
+- **[Sustaining Legend](sustaining-legend.md)**: Amplify the mythic powers of the target creatures, bolstering them with healing energy.
 - **[Toast to Freedom](toast-to-freedom.md)**: Teleport a creature 15 feet, freeing it from bonds.
 - **[Unshakable Zeal](unshakable-zeal.md)**: Grant benefits on future attempts after failed checks, and protect against fear and emotion effects.
 - **[Village Veil](village-veil.md)**: You throw an illusion over an area to make creatures that view or interact with it believe it has suffered.
@@ -710,7 +710,7 @@
 - **[Artificer's Curse](artificers-curse.md)**: Suppress a magic item's qualities.
 - **[Baleful Shadow Transmutation](baleful-shadow-transmutation.md)**: a target's shadow tricks it into believing it is another creature
 - **[Betraying Sting](betraying-sting.md)**: Smite those who trusted you
-- **[Borrowed Time](borrowed-time.md)**: A creation of the archmage the archmage’s realm, this spell allows you to reach ahead in time and draw alacrit…
+- **[Borrowed Time](borrowed-time.md)**: Gain an extra swift action each turn; each use costs you Constitution damage.
 - **[Cat’s Grace, Mass](cats-grace-mass.md)**: As *cat’s grace*, affects 1 subject/level.
 - **[Charm Monster, Mass](charm-monster-mass.md)**: As *charm monster,* but all within 30 ft.
 - **[Cure Moderate Wounds, Mass](cure-moderate-wounds-mass.md)**: Cures 2d8 damage + 1/level, affects 1 subject/level.
@@ -752,7 +752,7 @@
 - **[Song of Discord, Greater](song-of-discord-greater.md)**: As song of discord, but creatures always attack and gain +4 Strength.
 - **[Sonic Form](sonic-form.md)**: Upon casting this spell, you keep your relative shape, but you and your equipment are transformed into semisolid sound.
 - **[Subjective Reality](subjective-reality.md)**: Treat a creature or object as an illusion that cannot harm you.
-- **[Summon Monster 6](summon-monster-6.md)**: This spell functions like summon monster I, except you can summon one creature from the 6th-level list, 1d3 cr…
+- **[Summon Monster 6](summon-monster-6.md)**: Summons extraplanar creature to fight for you.
 - **[Summon Monster VI](summon-monster-vi.md)**: Summons extraplanar creature to fight for you.
 - **[Symbol of Debauchery](symbol-of-debauchery.md)**: Symbol that fills creatures with lust.
 - **[Symbol of Distraction](symbol-of-distraction.md)**: Symbol that fascinates creatures nearby.
@@ -760,11 +760,11 @@
 - **[Tactical Insight](tactical-insight.md)**: Grants an army mastery of one tactic.
 - **[Touch of Slumber](touch-of-slumber.md)**: Nonhostile creature falls asleep for hours.
 - **[Triggered Hallucination](triggered-hallucination.md)**: As *scripted hallucination*, but it only appears when triggered.
-- **[Unconscious Agenda](unconscious-agenda.md)**: This spell plants a subconscious directive in the target’s mind that forces him to act as you dictate when specific…
+- **[Unconscious Agenda](unconscious-agenda.md)**: Plant a subconscious directive in the target’s mind.
 - **[Veil](veil.md)**: Changes appearance of group of creatures.
-- **[What Grows Within](what-grows-within.md)**: By speaking the name “a Great Old One,” you infuse yourself with the essence of the Inmost Blot and gain a +3 …
+- **[What Grows Within](what-grows-within.md)**: +3 profane bonus on Will saves, and your mind-affecting spells carry an alien taint.
 - **[Whip of Ants](whip-of-ants.md)**: As whip of spiders, but with army ants.
-- **[Yellow Sign](yellow-sign.md)**: This spell functions as per symbol of death, save that creatures that succumb to this spell become dominated (…
+- **[Yellow Sign](yellow-sign.md)**: As symbol of death, but creatures that fail are dominated.
 
 ## Ultimate Magic Spells
 
@@ -887,7 +887,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 
 - **[Blood Biography](blood-biography.md)**: Learn about a creature with its blood.
 - **[Cacophonous Call](cacophonous-call.md)**: Nauseates target.
-- **[Create Treasure Map](create-treasure-map.md)** (M): Creates a treasure map out of a creature's corpse.
+- **[Create Treasure Map](create-treasure-map.md)**: (M): Creates a treasure map out of a creature's corpse.
 - **[Dust of Twilight](dust-of-twilight.md)**: Black particles extinguish light sources.
 - **[Enter Image](enter-image.md)**: Transfers your consciousness to an object bearing your likeness.
 - **[Gallant Inspiration](gallant-inspiration.md)**: +2d4 bonus on failed attack roll or skill check.
@@ -909,7 +909,6 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Purging Finale](purging-finale.md)**: Removes one negative effect.
 - **[Reviving Finale](reviving-finale.md)**: Allies cured 2d6 damage.
 - **[Seek Thoughts](seek-thoughts.md)**: Detects thinking creatures’ thoughts.
-- **Thunderous Drums**: 1d8 damage/level and knocked prone.
 
 ### 4th-Level Bard Spells
 
@@ -918,7 +917,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Ghostbane Dirge, Mass](ghostbane-dirge-mass.md)**: As ghostbane dirge, but affecting multiple creatures.
 - **[Heroic Finale](heroic-finale.md)**: Subject within range of your bardic performance can take an action.
 - **[Heroic Fortune, Mass](heroic-fortune-mass.md)**: Grants 1 temporary hero point to several creatures.
-- **[Treasure Stitching](treasure-stitching.md)** (M):  Objects on cloth become embroidered.
+- **[Treasure Stitching](treasure-stitching.md)**: (M):  Objects on cloth become embroidered.
 - **[Wandering Star Motes](wandering-star-motes.md)**: Outlines subject, produces light.
 
 ### 5th-Level Bard Spells
@@ -931,7 +930,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Frozen Note](frozen-note.md)**: Paralyzes creatures listening to your song.
 - **[Phantasmal Web](phantasmal-web.md)**: Catches subjects in illusory web.
 - **[Stunning Finale](stunning-finale.md)**: Stuns 3 creatures for 1 round.
-- **[Unwilling Shield](unwilling-shield.md)** (M): Subject shares wounds you receive.
+- **[Unwilling Shield](unwilling-shield.md)**: (M): Subject shares wounds you receive.
 
 ### 6th-Level Bard Spells
 

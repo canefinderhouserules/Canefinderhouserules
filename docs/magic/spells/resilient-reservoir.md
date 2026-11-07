@@ -1,6 +1,6 @@
 # Resilient Reservoir
 
-**School** transmutation; **Level** magus 3, paladin 3, sorcerer/wizard 4, witch 4  
+**School** transmutation; **Level** magus 3, mesmerist 3, paladin 3, psychic 4, sorcerer/wizard 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

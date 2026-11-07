@@ -1,6 +1,6 @@
 # Air Walk, Communal
 
-**School** transmutation [air]; **Level** alchemist 5, cleric 5, druid 5  
+**School** transmutation [air]; **Level** alchemist 5, cleric 5, druid 5, occultist 5  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

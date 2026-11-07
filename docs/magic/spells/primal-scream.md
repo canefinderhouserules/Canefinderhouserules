@@ -1,6 +1,6 @@
 # Primal Scream
 
-**School** abjuration [mind-affecting, sonic]; **Level** bard 4  
+**School** abjuration [mind-affecting, sonic]; **Level** bard 4, mesmerist 4  
 **Casting Time** 1 standard action  
 **Components** V  
 **Range** personal  

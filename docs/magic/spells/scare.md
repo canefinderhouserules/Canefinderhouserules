@@ -1,6 +1,6 @@
 # Scare
 
-**School** necromancy [fear, mind-affecting]; **Level** bard 2, sorcerer/wizard 2  
+**School** necromancy [fear, mind-affecting]; **Level** antipaladin 2, bard 2, medium 2, mesmerist 2, occultist 2, psychic 2, shaman 2, sorcerer/wizard 2, spiritualist 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a bone from an undead creature)  
 **Range** medium (100 ft. + 10 ft./level)  

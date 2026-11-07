@@ -1,6 +1,6 @@
 # Protection from Energy, Communal
 
-**School** abjuration; **Level** cleric 4, druid 4, inquisitor 4, ranger 3, sorcerer/wizard 4, summoner 4  
+**School** abjuration; **Level** cleric 4, druid 4, inquisitor 4, psychic 4, ranger 3, sorcerer/wizard 4, summoner 4  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

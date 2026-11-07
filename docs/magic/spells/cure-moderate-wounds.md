@@ -1,6 +1,6 @@
 # Cure Moderate Wounds
 
-**School** conjuration (healing); **Level** bard 2, cleric 2, druid 3, paladin 3, ranger 3  
+**School** conjuration (healing); **Level** alchemist 2, bard 2, cleric 2, druid 3, inquisitor 2, occultist 2, paladin 3, ranger 3, shaman 2, spiritualist 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

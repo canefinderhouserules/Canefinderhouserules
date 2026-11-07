@@ -1,6 +1,6 @@
 # Slow
 
-**School** transmutation; **Level** bard 3, sorcerer/wizard 3  
+**School** transmutation; **Level** bard 3, bloodrager 3, magus 3, medium 2, occultist 3, psychic 3, sorcerer/wizard 3, spiritualist 3, summoner 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a drop of molasses)  
 **Range** close (25 ft. + 5 ft./2 levels)  

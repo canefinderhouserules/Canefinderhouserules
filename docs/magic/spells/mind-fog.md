@@ -1,6 +1,6 @@
 # Mind Fog
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 5, sorcerer/wizard 5  
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 5, mesmerist 5, occultist 5, psychic 5, sorcerer/wizard 5, spiritualist 5, witch 5  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

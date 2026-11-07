@@ -1,6 +1,6 @@
 # Shadow Walk
 
-**School** illusion (shadow); **Level** bard 5, sorcerer/wizard 6  
+**School** illusion (shadow); **Level** alchemist 6, bard 5, mesmerist 5, sorcerer/wizard 6, spiritualist 6  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

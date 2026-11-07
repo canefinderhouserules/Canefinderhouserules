@@ -1,6 +1,6 @@
 # Speak with Animals
 
-**School** divination; **Level** bard 3, druid 1, ranger 1  
+**School** divination; **Level** bard 3, druid 1, psychic 2, ranger 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

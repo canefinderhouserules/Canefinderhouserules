@@ -1,6 +1,6 @@
 # Remove Curse
 
-**School** abjuration; **Level** bard 3, cleric 3, paladin 3, sorcerer/wizard 4  
+**School** abjuration; **Level** alchemist 3, bard 3, cleric 3, inquisitor 3, medium 3, mesmerist 3, paladin 3, shaman 3, sorcerer/wizard 4, spiritualist 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

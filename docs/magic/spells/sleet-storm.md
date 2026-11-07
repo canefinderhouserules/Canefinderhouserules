@@ -1,6 +1,6 @@
 # Sleet Storm
 
-**School** conjuration (creation) [cold]; **Level** druid 3, sorcerer/wizard 3  
+**School** conjuration (creation) [cold]; **Level** bloodrager 3, druid 3, magus 3, shaman 3, sorcerer/wizard 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (dust and water)  
 **Range** long (400 ft. + 40 ft./level)  

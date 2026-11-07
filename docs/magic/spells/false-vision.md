@@ -1,6 +1,6 @@
 # False Vision
 
-**School** illusion (glamer); **Level** bard 5, sorcerer/wizard 5  
+**School** illusion (glamer); **Level** bard 5, medium 4, mesmerist 5, occultist 5, psychic 5, sorcerer/wizard 5, spiritualist 5  
 **Casting Time** 1 standard action  
 **Components** V, S, M (crushed jade worth 250 gp)  
 **Range** touch  

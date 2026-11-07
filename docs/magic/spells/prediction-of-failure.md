@@ -1,6 +1,6 @@
 # Prediction of Failure
 
-**School** divination [curse, fear, mind-affecting]; **Level** sorcerer/ wizard 8, witch 8  
+**School** divination [curse, fear, mind-affecting]; **Level** occultist 6, psychic 8, sorcerer/ wizard 8, witch 8  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

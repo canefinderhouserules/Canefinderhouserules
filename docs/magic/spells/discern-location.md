@@ -1,6 +1,6 @@
 # Discern Location
 
-**School** divination; **Level** cleric 8, sorcerer/wizard 8  
+**School** divination; **Level** cleric 8, psychic 8, shaman 8, sorcerer/wizard 8, summoner 6, witch 8  
 **Casting Time** 10 minutes  
 **Components** V, S, DF  
 **Range** unlimited  

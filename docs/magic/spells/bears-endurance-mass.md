@@ -1,6 +1,6 @@
 # Bear’s Endurance, Mass
 
-**School** transmutation; **Level** cleric 6, druid 6, sorcerer/wizard 6  
+**School** transmutation; **Level** cleric 6, druid 6, magus 6, psychic 6, shaman 6, sorcerer/wizard 6, summoner 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (a few hairs, or a pinch of dung, from a bear)  
 **Range** close (25 ft. + 5 ft./2 levels)  

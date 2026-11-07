@@ -1,6 +1,6 @@
 # Finger of Death
 
-**School** necromancy [death]; **Level** druid 8, sorcerer/wizard 7  
+**School** necromancy [death]; **Level** druid 8, psychic 7, sorcerer/wizard 7  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

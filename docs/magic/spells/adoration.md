@@ -1,6 +1,6 @@
 # Adoration
 
-**School** enchantment [emotion, mind-affecting]; **Level** bard 1, sorcerer/wizard 2, witch 2  
+**School** enchantment [emotion, mind-affecting]; **Level** bard 1, mesmerist 1, psychic 2, sorcerer/wizard 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

@@ -1,6 +1,6 @@
 # Shout
 
-**School** evocation [sonic]; **Level** bard 4, sorcerer/wizard 4  
+**School** evocation [sonic]; **Level** bard 4, bloodrager 4, magus 4, occultist 4, psychic 4, sorcerer/wizard 4  
 **Casting Time** 1 standard action  
 **Components** V  
 **Range** 30 ft.  

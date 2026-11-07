@@ -1,6 +1,6 @@
 # Ki Arrow
 
-**School** conjuration; **Level** bard 1, sorcerer/wizard 1, witch 1  
+**School** conjuration; **Level** bard 1, psychic 1, sorcerer/wizard 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** S  
 **Range** touch  

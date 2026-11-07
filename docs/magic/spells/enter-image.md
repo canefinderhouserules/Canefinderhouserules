@@ -1,6 +1,6 @@
 # Enter Image
 
-**School** transmutation; **Level** bard 2, cleric 3, sorcerer/wizard 3  
+**School** transmutation; **Level** bard 2, cleric 3, medium 3, mesmerist 2, occultist 2, psychic 3, sorcerer/wizard 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (a drop of paint and a ball of clay)  
 **Range** 50 ft./level  

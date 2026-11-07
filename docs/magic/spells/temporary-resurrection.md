@@ -1,6 +1,6 @@
 # Temporary Resurrection
 
-**School** necromancy; **Level** sorcerer/wizard 7, witch 7  
+**School** necromancy; **Level** occultist 6, psychic 7, sorcerer/wizard 7, witch 7  
 **Casting Time** 10 minutes  
 **Components** V, S, M (diamond dust worth 500 gp)  
 **Range** touch  

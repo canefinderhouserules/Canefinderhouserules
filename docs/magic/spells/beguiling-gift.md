@@ -1,6 +1,6 @@
 # Beguiling Gift
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, witch 1  
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, mesmerist 1, psychic 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** V, S, F (the object to be offered)  
 **Range** 5 ft.  

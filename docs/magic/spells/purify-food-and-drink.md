@@ -1,6 +1,6 @@
 # Purify Food and Drink
 
-**School** transmutation; **Level** cleric 0, druid 0  
+**School** transmutation; **Level** cleric 0, druid 0, occultist 0, shaman 0  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** 10 ft.  

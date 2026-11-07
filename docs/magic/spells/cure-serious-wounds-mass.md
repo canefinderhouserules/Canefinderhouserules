@@ -1,6 +1,6 @@
 # Cure Serious Wounds, Mass
 
-**School** conjuration (healing); **Level** cleric 7, druid 8  
+**School** conjuration (healing); **Level** cleric 7, druid 8, shaman 7, witch 8  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

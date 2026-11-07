@@ -1,6 +1,6 @@
 # Unliving Rage
 
-**School** necromancy; **Level** cleric 2, sorcerer/wizard 3, witch 3  
+**School** necromancy; **Level** cleric 2, mesmerist 2, sorcerer/wizard 3, spiritualist 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

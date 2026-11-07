@@ -1,6 +1,6 @@
 # Refuge
 
-**School** conjuration (teleportation); **Level** cleric 7, sorcerer/wizard 9  
+**School** conjuration (teleportation); **Level** cleric 7, psychic 8, sorcerer/wizard 9, witch 9  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a prepared object worth 1,500 gp)  
 **Range** touch  

@@ -1,6 +1,6 @@
 # Dominate Animal
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** druid 3  
+**School** enchantment (compulsion) [mind-affecting]; **Level** druid 3, mesmerist 3, psychic 4, shaman 3  
 **Casting Time** 1 round  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

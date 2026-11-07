@@ -1,6 +1,6 @@
 # Contingent Action
 
-**School** evocation; **Level** bard 2, sorcerer/wizard 2  
+**School** evocation; **Level** bard 3, psychic 3, sorcerer/wizard 2  
 **Casting Time** 1 minute  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

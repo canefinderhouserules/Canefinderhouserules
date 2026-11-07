@@ -1,6 +1,6 @@
 # Touch of Fatigue
 
-**School** necromancy; **Level** sorcerer/wizard 0  
+**School** necromancy; **Level** mesmerist 0, occultist 0, shaman 0, sorcerer/wizard 0, witch 0  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a drop of sweat)  
 **Range** touch  

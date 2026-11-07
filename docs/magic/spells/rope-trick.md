@@ -1,6 +1,6 @@
 # Rope Trick
 
-**School** transmutation; **Level** sorcerer/wizard 2  
+**School** transmutation; **Level** medium 2, occultist 2, psychic 2, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M (powdered corn and a twisted loop of parchment)  
 **Range** touch  

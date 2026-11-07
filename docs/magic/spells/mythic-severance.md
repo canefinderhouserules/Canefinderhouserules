@@ -1,6 +1,6 @@
 # Mythic Severance
 
-**School** necromancy [curse]; **Level** cleric 4, inquisitor 3, sorcerer/wizard 4, witch 4  
+**School** necromancy [curse]; **Level** cleric 4, inquisitor 3, medium 2, mesmerist 3, psychic 4, sorcerer/wizard 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

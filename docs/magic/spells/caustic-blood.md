@@ -1,6 +1,6 @@
 # Caustic Blood
 
-**School** transmutation [acid]; **Level** alchemist 4, cleric 5, druid 4, magus 4, sorcerer/wizard 5, summoner 4  
+**School** transmutation [acid]; **Level** alchemist 4, bloodrager 4, cleric 5, druid 4, magus 4, sorcerer/wizard 5, summoner 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M (vial of black adder venom)  
 **Range** personal  

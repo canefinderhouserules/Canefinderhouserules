@@ -1,6 +1,6 @@
 # Antipathy
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** druid 9, sorcerer/wizard 8  
+**School** enchantment (compulsion) [mind-affecting]; **Level** druid 9, occultist 6, psychic 8, sorcerer/wizard 8, summoner 6, witch 8  
 **Casting Time** 1 hour  
 **Components** V, S, M/DF (a lump of alum soaked in vinegar)  
 **Range** close (25 ft. + 5 ft./2 levels)  

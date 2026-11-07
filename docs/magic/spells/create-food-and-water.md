@@ -1,6 +1,6 @@
 # Create Food and Water
 
-**School** conjuration (creation); **Level** cleric 3  
+**School** conjuration (creation); **Level** cleric 3, occultist 3, shaman 3  
 **Casting Time** 10 minutes  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

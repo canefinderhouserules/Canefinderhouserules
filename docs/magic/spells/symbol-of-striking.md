@@ -1,6 +1,6 @@
 # Symbol of Striking
 
-**School** illusion (shadow); **Level** cleric 5, magus 5, sorcerer/ wizard 5, witch 5  
+**School** illusion (shadow); **Level** cleric 5, magus 5, occultist 4, sorcerer/ wizard 5, witch 5  
 **Casting Time** 10 minutes  
 **Components** V, S, M (a masterwork melee weapon costing at least 300 gp)  
 **Range** 0 ft.; see text  

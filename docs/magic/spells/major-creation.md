@@ -1,6 +1,6 @@
 # Major Creation
 
-**School** conjuration (creation); **Level** sorcerer/wizard 5  
+**School** conjuration (creation); **Level** occultist 4, psychic 5, sorcerer/wizard 5, summoner 4, witch 5  
 **Casting Time** 10 minutes  
 **Components** V, S, M (a tiny piece of matter of the same sort of item you plan to create with major creation)  
 **Range** close (25 ft. + 5 ft./2 levels)  

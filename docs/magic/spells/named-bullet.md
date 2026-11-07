@@ -1,6 +1,6 @@
 # Named Bullet
 
-**School** divination; **Level** inquisitor 4, ranger 3, sorcerer/wizard 4, witch 4  
+**School** divination; **Level** inquisitor 4, psychic 4, ranger 3, sorcerer/wizard 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (an item from the selected creature or creature type)  
 **Range** touch  

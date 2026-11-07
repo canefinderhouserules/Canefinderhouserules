@@ -1,6 +1,6 @@
 # Pellet Blast
 
-**School** conjuration (creation); **Level** magus 4, sorcerer/wizard 3, summoner 3  
+**School** conjuration (creation); **Level** bloodrager 4, magus 4, psychic 3, sorcerer/wizard 3, summoner 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a handful of metal pellets or handful of cold iron, silver, or adamantine pellets; see descriptions for cost)  
 **Range** 30 ft.  

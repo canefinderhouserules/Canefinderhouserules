@@ -1,6 +1,6 @@
 # Contingency
 
-**School** evocation; **Level** sorcerer/wizard 6  
+**School** evocation; **Level** occultist 6, psychic 6, sorcerer/wizard 6  
 **Casting Time** at least 10 minutes; see text  
 **Components** V, S, M (quicksilver and an eyelash of a spell-using creature), F (ivory statuette of you worth 1,500 gp)  
 **Range** personal  

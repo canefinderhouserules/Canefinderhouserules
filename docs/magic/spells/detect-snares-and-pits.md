@@ -1,6 +1,6 @@
 # Detect Snares and Pits
 
-**School** divination; **Level** druid 1, ranger 1  
+**School** divination; **Level** druid 1, occultist 1, ranger 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** 60 ft.  

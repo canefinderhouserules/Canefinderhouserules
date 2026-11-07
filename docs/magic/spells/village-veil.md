@@ -1,6 +1,6 @@
 # Village Veil
 
-**School** illusion (figment) [mind-affecting]; **Level** bard 5, cleric 5, sorcerer/wizard 5, witch 5  
+**School** illusion (figment) [mind-affecting]; **Level** bard 5, cleric 5, mesmerist 5, psychic 5, sorcerer/wizard 5, witch 5  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  

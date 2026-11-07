@@ -1,6 +1,6 @@
 # Confusion
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 3, sorcerer/wizard 4  
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 3, bloodrager 4, mesmerist 3, occultist 4, psychic 4, sorcerer/wizard 4, spiritualist 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (three nutshells)  
 **Range** medium (100 ft. + 10 ft./level)  

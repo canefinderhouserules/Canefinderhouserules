@@ -1,6 +1,6 @@
 # Masterwork Transformation
 
-**School** transmutation; **Level** bard 2, cleric 2, druid 2, sorcerer/ wizard 2, witch 2  
+**School** transmutation; **Level** bard 2, cleric 2, druid 2, occultist 2, sorcerer/ wizard 2, witch 2  
 **Casting Time** 1 hour  
 **Components** V, S, M (see below)  
 **Range** touch  

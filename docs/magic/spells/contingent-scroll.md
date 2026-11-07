@@ -1,6 +1,6 @@
 # Contingent Scroll
 
-**School** evocation; **Level** bard 4, sorcerer/wizard 4  
+**School** evocation; **Level** bard 4, occultist 4, psychic 4, sorcerer/wizard 4  
 **Casting Time** 1 hour  
 **Components** V, S, M (the scroll to be triggered; see text), F (a platinum quill worth 100 gp)  
 **Range** touch  

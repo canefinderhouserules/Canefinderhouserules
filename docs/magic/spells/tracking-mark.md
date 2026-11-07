@@ -1,6 +1,6 @@
 # Tracking Mark
 
-**School** evocation; **Level** druid 1, cleric 1, paladin 1, ranger 1  
+**School** evocation; **Level** bloodrager 1, cleric 1, druid 1, paladin 1, ranger 1  
 **Casting Time** 1 standard action  
 **Components** S, DF  
 **Range** long (400 ft. + 40 ft./level)  

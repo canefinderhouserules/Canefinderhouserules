@@ -1,6 +1,6 @@
 # Speak with Dead
 
-**School** necromancy [language-dependent]; **Level** cleric 3  
+**School** necromancy [language-dependent]; **Level** cleric 3, inquisitor 3, medium 2, psychic 3, shaman 3, spiritualist 3, witch 3  
 **Casting Time** 10 minutes  
 **Components** V, S, DF  
 **Range** 10 ft.  

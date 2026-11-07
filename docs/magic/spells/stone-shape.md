@@ -1,6 +1,6 @@
 # Stone Shape
 
-**School** transmutation [earth]; **Level** cleric 3, druid 3, sorcerer/wizard 4  
+**School** transmutation [earth]; **Level** cleric 3, druid 3, occultist 3, shaman 3, sorcerer/wizard 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (soft clay)  
 **Range** touch  

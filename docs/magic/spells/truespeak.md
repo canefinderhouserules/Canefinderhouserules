@@ -1,6 +1,6 @@
 # Truespeak
 
-**School** divination; **Level** bard 4, cleric 6, sorcerer/wizard 5, witch 5  
+**School** divination; **Level** bard 4, cleric 6, mesmerist 4, psychic 5, sorcerer/wizard 5, witch 5  
 **Casting Time** 1 standard action  
 **Components** V  
 **Range** personal  

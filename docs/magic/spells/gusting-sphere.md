@@ -1,6 +1,6 @@
 # Gusting Sphere
 
-**School** evocation [air]; **Level** druid 2, magus 2, sorcerer/wizard 2  
+**School** evocation [air]; **Level** bloodrager 2, druid 2, magus 2, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

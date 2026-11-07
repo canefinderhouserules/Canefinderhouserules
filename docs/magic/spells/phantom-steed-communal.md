@@ -1,6 +1,6 @@
 # Phantom Steed, Communal
 
-**School** conjuration (creation); **Level** bard 4, sorcerer/wizard 4, summoner 3  
+**School** conjuration (creation); **Level** bard 4, occultist 4, sorcerer/wizard 4, spiritualist 4, summoner 3  
 **Casting Time** 10 minutes  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

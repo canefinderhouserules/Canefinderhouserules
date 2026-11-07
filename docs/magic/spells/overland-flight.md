@@ -1,6 +1,6 @@
 # Overland Flight
 
-**School** transmutation; **Level** sorcerer/wizard 5  
+**School** transmutation; **Level** alchemist 5, magus 5, occultist 5, psychic 5, shaman 5, sorcerer/wizard 5, spiritualist 5, summoner 4, witch 5  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

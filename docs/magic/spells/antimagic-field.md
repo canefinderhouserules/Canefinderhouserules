@@ -1,6 +1,6 @@
 # Antimagic Field
 
-**School** abjuration; **Level** cleric 8, sorcerer/wizard 6  
+**School** abjuration; **Level** cleric 8, occultist 6, psychic 7, sorcerer/wizard 6  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (pinch of powdered iron or iron filings)  
 **Range** 10 ft.  

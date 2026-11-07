@@ -1,6 +1,6 @@
 # Air Step
 
-**School** transmutation [air]; **Level** alchemist 2, bard 2, cleric 2, druid 2, ranger 2, sorcerer/wizard 2, witch 2  
+**School** transmutation [air]; **Level** alchemist 2, bard 2, cleric 2, druid 2, occultist 2, ranger 2, sorcerer/wizard 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a goose feather)  
 **Range** personal  

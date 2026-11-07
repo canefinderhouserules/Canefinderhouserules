@@ -1,6 +1,6 @@
 # Insect Plague
 
-**School** conjuration (summoning); **Level** cleric 5, druid 5  
+**School** conjuration (summoning); **Level** cleric 5, druid 5, shaman 5, summoner 4  
 **Casting Time** 1 round  
 **Components** V, S, DF  
 **Range** long (400 ft. + 40 ft./level)  

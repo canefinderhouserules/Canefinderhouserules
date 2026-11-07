@@ -1,6 +1,6 @@
 # Symbol of Stunning
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** cleric 7, sorcerer/wizard 7  
+**School** enchantment (compulsion) [mind-affecting]; **Level** cleric 7, occultist 5, sorcerer/wizard 7, witch 7  
 **Casting Time** 10 minutes  
 **Components** V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 5,000 gp)  
 **Range** 0 ft.; see text  

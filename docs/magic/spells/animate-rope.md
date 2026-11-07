@@ -1,6 +1,6 @@
 # Animate Rope
 
-**School** transmutation; **Level** bard 1, sorcerer/wizard 1  
+**School** transmutation; **Level** bard 1, mesmerist 1, psychic 1, sorcerer/wizard 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

@@ -1,6 +1,6 @@
 # Symbol of Dispelling
 
-**School** abjuration; **Level** cleric 8, sorcerer/wizard 8, witch 8  
+**School** abjuration; **Level** cleric 8, shaman 8, sorcerer/wizard 8, witch 8  
 **Casting Time** 10 minutes  
 **Components** V, S, M (pure grain alcohol and powdered diamond worth 5,000 gp)  
 **Range** 0 ft.; see text  

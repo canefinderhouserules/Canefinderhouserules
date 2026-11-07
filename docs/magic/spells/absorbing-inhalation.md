@@ -1,6 +1,6 @@
 # Absorbing Inhalation
 
-**School** transmutation [air]; **Level** alchemist 4, druid 4, sorcerer/wizard 4  
+**School** transmutation [air]; **Level** alchemist 4, bloodrager 4, druid 4, sorcerer/wizard 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

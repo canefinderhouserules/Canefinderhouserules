@@ -1,6 +1,6 @@
 # Time Stop
 
-**School** transmutation; **Level** sorcerer/wizard 9  
+**School** transmutation; **Level** psychic 9, sorcerer/wizard 9  
 **Casting Time** 1 standard action  
 **Components** V  
 **Range** personal  

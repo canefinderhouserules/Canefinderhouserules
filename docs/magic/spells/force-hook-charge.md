@@ -1,6 +1,6 @@
 # Force Hook Charge
 
-**School** evocation [force]; **Level** magus 3  
+**School** evocation [force]; **Level** bloodrager 3, magus 3, psychic 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 feet + 5 feet/2 levels)  

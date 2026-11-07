@@ -1,6 +1,6 @@
 # Whispering Lore
 
-**School** divination; **Level** cleric 2, druid 1, ranger 1, witch 1  
+**School** divination; **Level** cleric 2, druid 1, medium 1, psychic 1, ranger 1, witch 1  
 **Casting Time** 1 full-round action  
 **Components** V, S, M/DF (an owl’s beak)  
 **Range** personal  

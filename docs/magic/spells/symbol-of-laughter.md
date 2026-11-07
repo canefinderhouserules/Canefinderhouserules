@@ -1,6 +1,6 @@
 # Symbol of Laughter
 
-**School** enchantment (charm) [mind-affecting]; **Level** sorcerer/wizard 4, witch 4  
+**School** enchantment (charm) [mind-affecting]; **Level** mesmerist 3, occultist 3, sorcerer/wizard 4, witch 4  
 **Casting Time** 10 minutes  
 **Components** V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp)  
 **Range** 0 ft.; see text  

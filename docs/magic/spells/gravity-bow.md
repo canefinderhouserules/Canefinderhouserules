@@ -1,6 +1,6 @@
 # Gravity Bow
 
-**School** transmutation; **Level** antipaladin 1, cleric 1, druid 1, inquisitor 1, oracle 1, paladin 1, ranger 1, shaman 1, sorcerer/wizard 1, warpriest 1  
+**School** transmutation; **Level** antipaladin 1, cleric 1, druid 1, inquisitor 1, occultist 1, oracle 1, paladin 1, ranger 1, shaman 1, sorcerer/wizard 1, warpriest 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

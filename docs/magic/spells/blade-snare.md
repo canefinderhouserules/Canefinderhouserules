@@ -1,6 +1,6 @@
 # Blade Snare
 
-**School** abjuration; **Level** druid 3, magus 3, ranger 3, sorcerer/wizard 3  
+**School** abjuration; **Level** bloodrager 3, druid 3, magus 3, ranger 3, sorcerer/wizard 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

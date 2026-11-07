@@ -1,6 +1,6 @@
 # Flame Arrow
 
-**School** transmutation [fire]; **Level** sorcerer/wizard 3  
+**School** transmutation [fire]; **Level** bloodrager 3, magus 3, occultist 3, sorcerer/wizard 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a drop of oil and a small piece of flint)  
 **Range** close (25 ft. + 5 ft./2 levels)  

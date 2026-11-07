@@ -1,6 +1,6 @@
 # Minor Phantom Object
 
-**School** illusion (figment) [mind-affecting]; **Level** sorcerer/wizard 4  
+**School** illusion (figment) [mind-affecting]; **Level** mesmerist 4, psychic 4, sorcerer/wizard 4  
 **Casting Time** 1 minute  
 **Components** V, S  
 **Range** 0 ft.  

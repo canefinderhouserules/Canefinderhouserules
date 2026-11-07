@@ -1,6 +1,6 @@
 # Phantom Steed
 
-**School** conjuration (creation); **Level** bard 3, sorcerer/wizard 3  
+**School** conjuration (creation); **Level** bard 3, bloodrager 3, magus 3, occultist 3, sorcerer/wizard 3, spiritualist 2, summoner 2  
 **Casting Time** 10 minutes  
 **Components** V, S  
 **Range** 0 ft.  

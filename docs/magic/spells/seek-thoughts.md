@@ -1,6 +1,6 @@
 # Seek Thoughts
 
-**School** divination [mind-affecting]; **Level** alchemist 3, bard 3, inquisitor 3, sorcerer/wizard 3, summoner 3, witch 3  
+**School** divination [mind-affecting]; **Level** alchemist 3, bard 3, inquisitor 3, medium 2, mesmerist 3, occultist 3, psychic 2, sorcerer/wizard 3, spiritualist 3, summoner 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a handful of copper coins)  
 **Range** 40 ft.  

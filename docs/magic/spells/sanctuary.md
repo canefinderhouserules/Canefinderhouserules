@@ -1,6 +1,6 @@
 # Sanctuary
 
-**School** abjuration; **Level** cleric 1  
+**School** abjuration; **Level** cleric 1, inquisitor 1, spiritualist 1  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

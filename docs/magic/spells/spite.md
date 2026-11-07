@@ -1,6 +1,6 @@
 # Spite
 
-**School** abjuration; **Level** witch 4  
+**School** abjuration; **Level** mesmerist 3, witch 4  
 **Casting Time** 1 round  
 **Components** V, S, M (rare inks worth 250 gp)  
 **Range** personal  

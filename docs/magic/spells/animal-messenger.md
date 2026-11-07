@@ -1,6 +1,6 @@
 # Animal Messenger
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, druid 2, ranger 1  
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, druid 2, mesmerist 2, psychic 2, ranger 1, shaman 2  
 **Casting Time** 1 minute  
 **Components** V, S, M (a morsel of food the animal likes)  
 **Range** close (25 ft. + 5 ft./2 levels)  

@@ -1,6 +1,6 @@
 # Dispel Magic
 
-**School** abjuration; **Level** bard 3, cleric 3, druid 4, paladin 3, sorcerer/wizard 3  
+**School** abjuration; **Level** antipaladin 3, bard 3, cleric 3, druid 4, inquisitor 3, magus 3, medium 3, mesmerist 3, occultist 3, paladin 3, psychic 3, shaman 3, sorcerer/wizard 3, spiritualist 3, summoner 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

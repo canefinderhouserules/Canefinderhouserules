@@ -1,6 +1,6 @@
 # Horrific Doubles
 
-**School** illusion (figment); **Level** bard 4, bloodrager 4, medium 3, mesmerist 4, psychic 4, sorcerer/wizard 4  
+**School** illusion (figment); **Level** bard 4, bloodrager 4, medium 3, mesmerist 3, psychic 3, sorcerer/wizard 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

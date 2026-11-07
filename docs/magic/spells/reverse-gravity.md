@@ -1,6 +1,6 @@
 # Reverse Gravity
 
-**School** transmutation; **Level** druid 8, sorcerer/wizard 7  
+**School** transmutation; **Level** druid 8, psychic 7, sorcerer/wizard 7  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (lodestone and iron filings)  
 **Range** medium (100 ft. + 10 ft./level)  

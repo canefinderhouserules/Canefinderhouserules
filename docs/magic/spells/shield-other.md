@@ -1,6 +1,6 @@
 # Shield Other
 
-**School** abjuration; **Level** cleric 2, paladin 2  
+**School** abjuration; **Level** cleric 2, inquisitor 2, paladin 2, psychic 2  
 **Casting Time** 1 standard action  
 **Components** V, S, F (a pair of platinum rings worth 50 gp worn by both you and the target)  
 **Range** close (25 ft. + 5 ft./2 levels)  

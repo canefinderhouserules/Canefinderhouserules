@@ -1,6 +1,6 @@
 # Create Demiplane, Lesser
 
-**School** conjuration (creation); **Level** cleric 7, sorcerer/wizard 7, summoner 5, witch 7  
+**School** conjuration (creation); **Level** cleric 7, occultist 5, psychic 7, sorcerer/wizard 7, summoner 5, witch 7  
 **Casting Time** 2 hours  
 **Components** V, S, F (a forked metal rod worth at least 500 gp)  
 **Range** 0 ft.  

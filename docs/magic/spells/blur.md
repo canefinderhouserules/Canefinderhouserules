@@ -1,6 +1,6 @@
 # Blur
 
-**School** illusion (glamer); **Level** bard 2, sorcerer/wizard 2  
+**School** illusion (glamer); **Level** alchemist 2, bard 2, magus 2, medium 2, mesmerist 2, occultist 2, psychic 2, sorcerer/wizard 2, spiritualist 2, summoner 2  
 **Casting Time** 1 standard action  
 **Components** V  
 **Range** touch  

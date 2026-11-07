@@ -1,6 +1,6 @@
 # See Alignment
 
-**School** divination; **Level** alchemist 1, bard 1, sorcerer/wizard 1  
+**School** divination; **Level** alchemist 1, bard 1, psychic 1, sorcerer/wizard 1  
 **Casting Time** 1 standard action  
 **Components** V, S, M (eye of newt)  
 **Range** personal  

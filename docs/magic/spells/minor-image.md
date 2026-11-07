@@ -1,6 +1,6 @@
 # Minor Image
 
-**School** illusion (figment); **Level** bard 2, sorcerer/wizard 2  
+**School** illusion (figment); **Level** bard 2, magus 2, medium 2, mesmerist 2, occultist 2, psychic 2, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S, F (a bit of fleece)  
 **Range** long (400 ft. + 40 ft./level)  

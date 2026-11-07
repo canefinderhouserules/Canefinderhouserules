@@ -1,6 +1,6 @@
 # Rest Eternal
 
-**School** necromancy; **Level** cleric 4, druid 5, witch 5  
+**School** necromancy; **Level** cleric 4, druid 5, shaman 5, witch 5  
 **Casting Time** 1 round  
 **Components** V, S, M/DF (ashes and a vial of holy or unholy water)  
 **Range** touch  

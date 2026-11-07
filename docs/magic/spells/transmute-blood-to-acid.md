@@ -1,6 +1,6 @@
 # Transmute Blood to Acid
 
-**School** transmutation [acid, pain]; **Level** sorcerer/wizard 9  
+**School** transmutation [acid, pain]; **Level** psychic 9, sorcerer/wizard 9  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a wax doll and a vial of acid worth 10 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  

@@ -1,6 +1,6 @@
 # Cast Out
 
-**School** abjuration; **Level** inquisitor 3  
+**School** abjuration; **Level** inquisitor 3, medium 2, psychic 4  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

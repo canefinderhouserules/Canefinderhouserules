@@ -1,6 +1,6 @@
 # Positive Pulse, Greater
 
-**School** necromancy; **Level** cleric 4, inquisitor 4, paladin 3, shaman 4, sorcerer/wizard 4, spiritualist 4, summoner 3, witch 4  
+**School** necromancy; **Level** cleric 4, inquisitor 4, paladin 4, shaman 4, sorcerer/wizard 4, spiritualist 4, summoner 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Area** 15-ft.-radius burst  

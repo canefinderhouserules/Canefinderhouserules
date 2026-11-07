@@ -1,6 +1,6 @@
 # Entangle
 
-**School** transmutation; **Level** druid 1, ranger 1  
+**School** transmutation; **Level** druid 1, ranger 1, shaman 1  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** long (400 ft. + 40 ft./level)  

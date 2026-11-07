@@ -1,6 +1,6 @@
 # Life Pact
 
-**School** necromancy; **Level** cleric 2, shaman 2, sorcerer/wizard 2, witch 2  
+**School** necromancy; **Level** cleric 2, psychic 2, shaman 2, sorcerer/wizard 2, spiritualist 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S, DF/M (a drop of blood from each target)  
 **Range** close (25 ft. + 5 ft./2 levels)  

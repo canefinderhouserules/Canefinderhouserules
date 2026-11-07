@@ -1,6 +1,6 @@
 # Incendiary Cloud
 
-**School** conjuration (creation) [fire]; **Level** sorcerer/wizard 8  
+**School** conjuration (creation) [fire]; **Level** sorcerer/wizard 8, summoner 6  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

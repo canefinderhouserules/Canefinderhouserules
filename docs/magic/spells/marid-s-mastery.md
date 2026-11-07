@@ -1,6 +1,6 @@
 # Marid’s Mastery
 
-**School** transmutation [water]; **Level** cleric 1, druid 1, ranger 1, sorcerer/wizard 1, witch 1  
+**School** transmutation [water]; **Level** bloodrager 1, cleric 1, druid 1, ranger 1, sorcerer/wizard 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

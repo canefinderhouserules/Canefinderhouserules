@@ -1,6 +1,6 @@
 # Fire Trap
 
-**School** abjuration [fire]; **Level** druid 2, sorcerer/wizard 4  
+**School** abjuration [fire]; **Level** druid 2, occultist 4, sorcerer/wizard 4  
 **Casting Time** 10 minutes  
 **Components** V, S, M (gold dust worth 25 gp)  
 **Range** touch  

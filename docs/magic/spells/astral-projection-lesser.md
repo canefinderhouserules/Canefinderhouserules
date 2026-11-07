@@ -1,6 +1,6 @@
 # Astral Projection, Lesser
 
-**School** necromancy; **Level** cleric 5, sorcerer/wizard 5  
+**School** necromancy; **Level** cleric 5, psychic 5, sorcerer/wizard 5  
 **Casting Time** 30 minutes  
 **Components** V, S, M (1,000 gp jacinth)  
 **Range** touch  

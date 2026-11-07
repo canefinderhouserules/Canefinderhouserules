@@ -1,6 +1,6 @@
 # Glitterdust
 
-**School** conjuration (creation); **Level** bard 2, sorcerer/wizard 2  
+**School** conjuration (creation); **Level** bard 2, bloodrager 2, magus 2, mesmerist 2, occultist 2, sorcerer/wizard 2, summoner 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M (ground mica)  
 **Range** medium (100 ft. + 10 ft./level)  

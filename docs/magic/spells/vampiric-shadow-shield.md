@@ -1,6 +1,6 @@
 # Vampiric Shadow Shield
 
-**School** necromancy; **Level** magus 5, sorcerer/wizard 5  
+**School** necromancy; **Level** magus 5, sorcerer/wizard 5, spiritualist 5  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

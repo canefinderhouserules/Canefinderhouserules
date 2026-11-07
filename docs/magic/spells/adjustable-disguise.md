@@ -1,6 +1,6 @@
 # Adjustable Disguise
 
-**School** illusion (glamer); **Level** alchemist 3, antipaladin 3, bard 3, inquisitor 3, sorcerer/wizard 3, witch 3  
+**School** illusion (glamer); **Level** alchemist 3, antipaladin 3, bard 3, inquisitor 3, medium 3, mesmerist 3, occultist 3, psychic 3, sorcerer/wizard 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

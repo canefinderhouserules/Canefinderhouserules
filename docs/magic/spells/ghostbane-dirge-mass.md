@@ -1,6 +1,6 @@
 # Ghostbane Dirge, Mass
 
-**School** transmutation; **Level** bard 4, cleric 5, inquisitor 5, paladin 3  
+**School** transmutation; **Level** bard 4, cleric 5, inquisitor 5, occultist 5, paladin 3, shaman 5  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (an old reed from a wind instrument)  
 **Target** one incorporeal creature/level, no two of which can be more than 30 ft. apart  

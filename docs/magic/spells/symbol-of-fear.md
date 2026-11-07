@@ -1,6 +1,6 @@
 # Symbol of Fear
 
-**School** necromancy [fear, mind-affecting]; **Level** cleric 6, sorcerer/wizard 6  
+**School** necromancy [fear, mind-affecting]; **Level** cleric 6, occultist 4, sorcerer/wizard 6, witch 6  
 **Casting Time** 10 minutes  
 **Components** V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp)  
 **Range** 0 ft.; see text  

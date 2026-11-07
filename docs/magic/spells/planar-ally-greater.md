@@ -1,6 +1,6 @@
 # Planar Ally, Greater
 
-**School** conjuration (calling) [see text for *lesser planar ally*]; **Level** cleric 8  
+**School** conjuration (calling) [see text for *lesser planar ally*]; **Level** cleric 8, psychic 8, shaman 8  
 **Casting Time** 10 minutes  
 **Components** V, S, M (offerings worth 2,500 gp plus payment), DF  
 **Effect** up to three called outsiders, totaling no more than 18 HD, no two of which can be more than 30 ft. apart when they appear.  

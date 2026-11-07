@@ -1,6 +1,6 @@
 # Earthquake
 
-**School** evocation [earth]; **Level** cleric 8, druid 8  
+**School** evocation [earth]; **Level** cleric 8, druid 8, psychic 8, shaman 8  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** long (400 ft. + 40 ft./level)  

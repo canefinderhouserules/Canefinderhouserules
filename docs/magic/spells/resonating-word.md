@@ -1,6 +1,6 @@
 # Resonating Word
 
-**School** transmutation [sonic]; **Level** bard 5, sorcerer/wizard 7  
+**School** transmutation [sonic]; **Level** bard 5, psychic 7, sorcerer/wizard 7  
 **Casting Time** 1 standard action  
 **Components** V  
 **Range** medium (100 ft. + 10 ft./level)  

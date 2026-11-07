@@ -1,6 +1,6 @@
 # Planar Adaptation
 
-**School** transmutation; **Level** alchemist 5, cleric 4, sorcerer/ wizard 5, summoner 5  
+**School** transmutation; **Level** alchemist 5, cleric 4, medium 4, occultist 4, psychic 4, sorcerer/ wizard 5, spiritualist 5, summoner 5  
 **Casting Time** 1 standard action  
 **Components** V  
 **Range** personal  

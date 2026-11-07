@@ -1,6 +1,6 @@
 # Share Glory
 
-**School** transmutation; **Level** bard 2, cleric 3, druid 3, sorcerer/wizard 3, summoner 2, witch 3  
+**School** transmutation; **Level** bard 2, cleric 3, druid 3, medium 1, psychic 3, sorcerer/wizard 3, summoner 2, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

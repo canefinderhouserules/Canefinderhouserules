@@ -1,6 +1,6 @@
 # Hypnotism
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, sorcerer/wizard 1  
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, mesmerist 1, occultist 1, psychic 1, sorcerer/wizard 1, witch 1  
 **Casting Time** 1 round  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

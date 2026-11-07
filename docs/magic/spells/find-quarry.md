@@ -1,6 +1,6 @@
 # Find Quarry
 
-**School** divination; **Level** inquisitor 4, ranger 4  
+**School** divination; **Level** inquisitor 4, occultist 5, ranger 4  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** personal  

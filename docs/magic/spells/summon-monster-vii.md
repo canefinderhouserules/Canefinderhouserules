@@ -1,6 +1,6 @@
 # Summon Monster VII
 
-**School** conjuration (summoning); **Level** cleric 7, sorcerer/wizard 7  
+**School** conjuration (summoning); **Level** cleric 7, psychic 7, sorcerer/wizard 7, summoner 5, witch 7  
 **Casting Time** 1 round  
 **Components** V, S, F/DF (a tiny bag and a small candle)  
 **Range** close (25 ft. + 5 ft./2 levels)  

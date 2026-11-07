@@ -1,6 +1,6 @@
 # Mirror Strike
 
-**School** transmutation; **Level** magus 1, sorcerer/wizard 1  
+**School** transmutation; **Level** bloodrager 1, magus 1, psychic 1, sorcerer/wizard 1  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a shard of mirror)  
 **Range** personal  

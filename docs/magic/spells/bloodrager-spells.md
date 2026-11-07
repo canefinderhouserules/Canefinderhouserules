@@ -27,12 +27,14 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Expeditious Retreat](expeditious-retreat.md)**: Your base speed increases by 30 ft.
 - **[Fear the Sun](fear-the-sun.md)**: targets gain light blindness
 - **[Feather Fall](feather-fall.md)**: Objects or creatures fall slowly.
+- **[Firebelly](firebelly.md)**: Breathe fire and become resistant to it.
 - **[Flare Burst](flare-burst.md)**: As flare, but all creatures within 10 ft.
 - **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.
 - **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Hide Weapon](hide-weapon.md)**: Meld a weapon into your arm.
 - **[Hobble](hobble.md)**: Halve the movement speed of several creatures
 - **[Hydraulic Push](hydraulic-push.md)**: Wave of water bull rushes an enemy.
+- **[Ice Armor](ice-armor.md)**: Create a thick suit of ice armor.
 - **[Icicle Dagger](icicle-dagger.md)**: Masterwork ice dagger deals +1 cold damage.
 - **[Infernal Healing](infernal-healing.md)**: Devil’s blood or unholy water grants fast healing 1 for 1 minute.
 - **[Jump](jump.md)**: Subject gets bonus on Acrobatics checks.
@@ -41,70 +43,72 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Mage Armor](mage-armor.md)**: Gives subject +4 armor bonus.
 - **[Magic Missile](magic-missile.md)**: 1d4+2 damage; +1 missile per two levels above 1st (max 5).
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
-- Marid's Mastery
-- Mirror Strike
+- **[Marid's Mastery](marid-s-mastery.md)**: School transmutation [water]; Level cleric 1, druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1.
+- **[Mirror Strike](mirror-strike.md)**: You may strike multiple opponents with a single attack.
 - **[Mount](mount.md)**: Summons riding horse for 2 hours/level.
-- Mudball
+- **[Mudball](mudball.md)**: When you cast this spell, you conjure a single ball of sticky mud and launch it at an enemy’s face as a.
 - **[Night Blindness](night-blindness.md)**: Lighting around the target counts as one step darker.
 - **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Phantom Blood](phantom-blood.md)**: Gain temporary hp if Con loss would knock you out or kill you.
-- Protection from Chaos/evil/good/law
+- **[Protection from Chaos](protection-from-chaos.md)/[Protection from Evil](protection-from-evil.md)/[Protection from Good](protection-from-good.md)/[Protection from Law](protection-from-law.md)**: +2 to AC and saves, plus additional protection against selected alignment.
 - **[Punishing Armor](punishing-armor.md)**: Reflects nonlethal damage back at attackers.
 - **[Ray of Enfeeblement](ray-of-enfeeblement.md)**: Ray causes 1d6 Str penalty + 1 per 2 levels.
 - **[Ray of Sickening](ray-of-sickening.md)**: Ray makes the subject sickened.
 - **[Reduce Person](reduce-person.md)**: Humanoid creature halves in size.
-- Returning Weapon
+- **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Shadow Trap](shadow-trap.md)**: pins the target's shadow so it is entangled
 - **[Shadow Weapon](shadow-weapon.md)**: Create a quasi-real masterwork weapon.
 - **[Shield](shield.md)**: Invisible disc gives +3 to AC, blocks *magic missiles.*
 - **[Shield of Shards](shield-of-shards.md)**: Your shield breaks into orbiting shards that attack.
 - **[Shocking Grasp](shocking-grasp.md)**: Touch delivers 1d6/level electricity damage (max 5d6).
-- Shock Shield
+- **[Shock Shield](shock-shield.md)**: A shield of force protects you until you dismiss it in an explosion of electricity.
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
 - **[Spiked Armor](spiked-armor.md)**: A suit of metal armor or shield sprouts spikes that hurt natural attackers.
 - **[Stone Fist](stone-fist.md)**: Your unarmed strikes are lethal.
-- Stone Shield
-- Strong Wings
+- **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
+- **[Strong Wings](strong-wings.md)**: School transmutation; Level druid 1, ranger 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
 - **[Stone Throwing](stone-throwing.md)**: Subject can throw and catch rocks.
 - **[Sundering Shards](sundering-shards.md)**: Sundered item explodes, dealing 1d6 damage to adjacent creatures.
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
 - **[Thunderstomp](thunderstomp.md)**: Trip one creature within range.
-- Touch of Combustion
+- **[Touch of Bloodletting](touch-of-bloodletting.md)**: Cause any wounds the target has to bleed profusely.
+- **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
 - **[Touch of Gracelessness](touch-of-gracelessness.md)**: Subject loses 1d6 + 1 Dex/two levels and is prone to falling down.
 - **[Touch of the Sea](touch-of-the-sea.md)**: Swim speed becomes 30 ft.
+- **[Tracking Mark](tracking-mark.md)**: Gain a supernatural ability to detect tracks and other clues.
 - **[True Strike](true-strike.md)**: +20 on your next attack roll.
-- Unerring Weapon
-- Warding Weapon
+- **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
+- **[Warding Weapon](warding-weapon.md)**: The weapon you use for the focus of this spell defends you, allowing you to cast spells without provoking attacks of opportunity.
 - **[Waterproof](waterproof.md)**: Renders an object or creature’s gear waterproof.
 - **[Wave Shield](wave-shield.md)**: Water blunts one incoming attack or fire effect.
-- Web Bolt
-- Windy Escape
-- Winter Feathers
+- **[Web Bolt](web-bolt.md)**: School conjuration (creation); Level magus 1, sorcerer/wizard 1, witch 1 Casting Time 1 standard action.
+- **[Windy Escape](windy-escape.md)**: You respond to an attack by briefly becoming vaporous and insubstantial, allowing the attack to pass.
+- **[Winter Feathers](winter-feathers.md)**: School abjuration; Level cleric 1, druid 1, inquisitor 1, ranger 1, sorcerer/wizard 1 Casting Time 1 standard.
 
 ## 2nd-Level Bloodrager Spells
 
-- Ablative Barrier
+- **[Ablative Barrier](ablative-barrier.md)**: Surrounds the target with layers of force.
 - **[Acid Arrow](acid-arrow.md)**: Ranged touch attack; 2d4 damage for 1 round + 1 round/three levels.
 - **[Adhesive Blood](adhesive-blood.md)**: Attackers’ weapons stick to your gluey blood.
-- Animal Aspect
+- **[Animal Aspect](animal-aspect.md)**: You gain some of the beneficial qualities of an animal.
 - **[Arcane Disruption](arcane-disruption.md)**: Subject must make concentration checks to use arcane magic.
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
 - **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blind or deaf.
 - **[Blood Armor](blood-armor.md)**: Your blood hardens when you are wounded, increasing your AC.
-- Blood Blaze
+- **[Blood Blaze](blood-blaze.md)**: School transmutation [fire]; Level alchemist 2, antipaladin 1, cleric 2, magus 2, sorcerer/wizard 2, witch 2.
 - **[Body Double](body-double.md)**: Two creatures look alike; attacks may hit the wrong one.
 - **[Boiling Blood](boiling-blood.md)**: Targets take fire damage; orcs get +2 Strength.
-- Brow Gasher
-- Bullet Shield
+- **[Brow Gasher](brow-gasher.md)**: Slashing weapon deals bleed damage to an opponent's head.
+- **[Bullet Shield](bullet-shield.md)**: You gain a +4 deflection bonus to AC against firearm attacks.
 - **[Bone Fists](bone-fists.md)**: Targets gain natural armor, natural weapon damage, and armor spikes.
 - **[Bone Flense](bone-flense.md)**: Barbed bone spurs flense a struck creature.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
 - **[Burning Gaze](burning-gaze.md)**: Inflict 1d6 fire damage to creature.
 - **[Cat’s Grace](cats-grace.md)**: Subject gains +4 to Dex for 1 min./level.
-- Certain Grip
+- **[Certain Grip](certain-grip.md)**: You gain a +4 competence bonus on Acrobatics and Climb checks and to CMD.
 - **[Daze Monster](daze-monster.md)**: Living creature of 6 HD or less loses its next action.
-- Death from Below
+- **[Death from Below](death-from-below.md)**: School abjuration; Level bard 3, sorcerer/wizard 2 Casting Time 1 standard action Components V, S Range touch.
 - **[Defensive Shock](defensive-shock.md)**: Electricity damages your attackers.
 - **[Delay Pain](delay-pain.md)**: Ignore pain for 1 hour/level. Disfiguring Touch : Target becomes disfigured.
 - **[Disfiguring Touch](disfiguring-touch.md)**: Target becomes disfigured.
@@ -116,16 +120,16 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Fiery Runes](fiery-runes.md)**: Weapon rune deals fire damage when discharged.
 - **[Final Sacrifice](final-sacrifice.md)**: Detonate a summoned creature
 - **[Fire Breath](fire-breath.md)**: Exhale a cone of flame at will.
-- **[Fire’s Friend](fires-friend.md)**: You cloak yourself in flames that do not harm you or your carried equipment but damage other creatures and obj…
+- **[Fire’s Friend](fires-friend.md)**: Harmless flames cloak you and burn creatures and objects that touch you.
 - **[Flaming Sphere](flaming-sphere.md)**: Rolling ball of fire deals 3d6 fire damage.
 - **[Fleeting Defect](fleeting-defect.md)**: An object temporarily gains the broken condition.
 - **[Force Sword](force-sword.md)**: Create a longsword of pure force.
 - **[Frigid Touch](frigid-touch.md)**: Target takes cold damage and is staggered.
 - **[Ghoul Touch](ghoul-touch.md)**: Paralyzes one subject, which exudes stench that makes those nearby sickened.
 - **[Glitterdust](glitterdust.md)**: Blinds creatures, outlines invisible creatures.
-- Gusting Sphere
+- **[Gusting Sphere](gusting-sphere.md)**: School evocation [air]; Level druid 2, magus 2, sorcerer/wizard 2 Casting Time 1 standard action Components V.
 - **[Gust of Wind](gust-of-wind.md)**: Blows away or knocks down smaller creatures.
-- Imbue with Elemental Might
+- **[Imbue with Elemental Might](imbue-with-elemental-might.md)**: As imbue with spell ability, except you transfer your elemental assault ability to the target.
 - **[Hag's Seasoning](hags-seasoning.md)**: Curse: the target becomes a delicious meal.
 - **[Heckle](heckle.md)**: Sour a target's mood and impose –2 penalties.
 - **[Huntmaster’s Spear](huntmasters-spear.md)**: Spear becomes a +1 weapon against a chosen favored-enemy type and can be discharged for a powerful attack.
@@ -156,7 +160,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Slipstream](slipstream.md)**: Wave boosts creature’s speed.
 - **[Sonic Scream](sonic-scream.md)**: Create a cone of damaging sound at will.
 - **[Spider Climb](spider-climb.md)**: Grants ability to walk on walls and ceilings.
-- Steal Breath
+- **[Steal Breath](steal-breath.md)**: You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath.
 - **[Splinter Spell Resistance](splinter-spell-resistance.md)**: Your weapon lowers a foe's spell resistance by 5.
 - **[Stabilize Pressure](stabilize-pressure.md)**: You instantly stabilize the target’s pressure, causing it to adjust to its current pressure all at once.
 - **[Steal Size](steal-size.md)**: Shrinks a larger target and enlarges you.
@@ -175,17 +179,19 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 
 - **[Air Breathing](air-breathing.md)**: Let aquatic creatures breathe air
 - **[Air Geyser](air-geyser.md)**: Blast of air deals 2d6 bludgeoning damage and knocks opponent upward.
-- Animal Aspect, Greater
+- **[Animal Aspect, Greater](animal-aspect-greater.md)**: As animal aspect, but you gain two animal qualities.
 - **[Allied Cloak](allied-cloak.md)**: Animate your cloak to shield you and aid your actions.
 - **[Aqueous Orb](aqueous-orb.md)**: Creates rolling sphere of water.
 - **[Beast Shape I](beast-shape-i.md)**: You take the form and some of the powers of a Small or Medium animal.
+- **[Blade Snare](blade-snare.md)**: Create an invisible snare to trap weapons.
 - **[Blood Biography](blood-biography.md)**: Learn about a creature with its blood.
-- Blood Scent
+- **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
 - **[Blood Salvation](blood-salvation.md)**: Immunity to your own damaging area spells.
 - **[Burrow](burrow.md)**: Target gains a burrow speed of 15.
-- Burst of Speed
-- Chain of Perdition
+- **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
+- **[Chain of Perdition](chain-of-perdition.md)**: Creates a floating chain of force.
 - **[Caustic Safeguard](caustic-safeguard.md)**: Acid ward on an object.
+- **[Channel Vigor](channel-vigor.md)**: Focus your energy into a specific part of your body, giving you various enhancements.
 - **[Clay Skin](clay-skin.md)**: Target gains DR 5/adamantine.
 - **[Cloak of Winds](cloak-of-winds.md)**: Creates a whirling screen of strong wind around you.
 - **[Countless Eyes](countless-eyes.md)**: Extra eyes give all-around vision.
@@ -200,46 +206,48 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Fiendish Wrath](fiendish-wrath.md)**: Willing creatures enter a combat frenzy and can rend.
 - **[Find Fault](find-fault.md)**: Learn a creature's weaknesses and gain +5 on your first attack.
 - **[Fireball](fireball.md)**: 1d6 damage per level, 20-ft. radius.
-- Firestream
-- Fire Trail
+- **[Firestream](firestream.md)**: A rushing stream of fire sprays from your outstretched hand, dealing 2d6 points of fire damage to every.
+- **[Fire Trail](fire-trail.md)**: When you cast this spell, flammable liquid oozes from your pores, dripping onto the ground and spontaneously.
 - **[Flame Arrow](flame-arrow.md)**: Arrows deal +1d6 fire damage.
 - **[Flame Steed](flame-steed.md)**: Conjure a mount made of flame.
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
 - **[Force Hook Charge](force-hook-charge.md)**: Hook of force drags you to the target.
 - **[Force Punch](force-punch.md)**: Target takes 1d4 force damage per level and is pushed away.
-- Gloomblind Bolts
-- **[God of Good Dragons’s Shining Scales](god-of-good-dragonss-shining-scales.md)**: You envelop your body with silver radiance that manifests as scales surrounding your body, granting you a +5 a…
+- **[Fractions of Heal and Harm](fractions-of-heal-and-harm.md)**: Heal yourself with the next spell that also deals damage.
+- **[Gloomblind Bolts](gloomblind-bolts.md)**: You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane.
+- **[Monstrous Extremities](monstrous-extremities.md)**: Mutate an extremity of the creature touched.
+- **[Shining Scales](shining-scales.md)**: Silver scales grant +5 armor and punish evil creatures caught in your breath.
 - **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
 - **[Haste](haste.md)**: One creature moves faster, gains an extra attack and +1 on attack rolls, AC, and Reflex saves, and can quicken a spell once per turn.
 - **[Heroism](heroism.md)**: Gives +2 bonus on attack rolls, saves, skill checks.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
-- Hostile Levitation
+- **[Hostile Levitation](hostile-levitation.md)**: Levitates the targeted creature up off the ground.
 - **[Howling Agony](howling-agony.md)**: Screaming pain limits the target’s actions.
 - **[Hydraulic Torrent](hydraulic-torrent.md)**: Creates torrent of water that bull rushes any creature in its path.
 - **[Infuse Self](infuse-self.md)**: Assume the form of a native outsider
 - **[Keen Edge](keen-edge.md)**: Doubles normal weapon’s threat range.
 - **[Lightning Bolt](lightning-bolt.md)**: Electricity deals 1d6/level damage.
-- Locate Weakness
+- **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
 - **[Magic Weapon, Greater](magic-weapon-greater.md)**: Weapon gains +1 bonus/four levels (max +5).
 - **[Monstrous Physique I](monstrous-physique-i.md)**: Take the form and some of the powers of a Small or Medium monstrous humanoid.
 - **[Oni Aspect](oni-aspect.md)**: Gain fast healing 3, and dismiss the spell to reroll a failed Will save.
 - **[Outbreak](outbreak.md)**: Make diseased creatures contagious
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
 - **[Pain Strike](pain-strike.md)**: Inflicts 1d6 nonlethal damage 1 round/level.
-- Paragon Surge
+- **[Paragon Surge](paragon-surge.md)**: You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind.
 - **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
-- **[Pressure Adaptation](pressure-adaptation.md)**: The target adapts incredibly quickly to changes in pressure, adjusting to 100 feet of new pressure (or the entire…
+- **[Pressure Adaptation](pressure-adaptation.md)**: Target acclimates to pressure changes more quickly.
 - **[Protection from Energy](protection-from-energy.md)**: Absorbs 12 points/level of damage from one kind of energy.
 - **[Psychic Leech](psychic-leech.md)**: Fatigue a target and gain +2 Strength and Dexterity.
 - **[Pyrotechnic Eruption](pyrotechnic-eruption.md)**: Erupting flames burn a target several times.
 - **[Rage](rage.md)**: Gives +2 to Str and Con, +1 on Will saves, –2 to AC.
-- Raging Rubble
+- **[Raging Rubble](raging-rubble.md)**: You animate an area of rubble, gravel, or other small stones, creating a dangerous, rolling area of debris.
 - **[Ray of Exhaustion](ray-of-exhaustion.md)**: Ray makes subject exhausted.
-- Resinous Skin
+- **[Resinous Skin](resinous-skin.md)**: You gain DR 5/piercing and +4 to CMD against disarm attempts.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
 - **[Runic Overload](runic-overload.md)**: Detonates magical runes with sonic force.
-- **[Shining Scales](shining-scales.md)**: Silver scales grant +5 armor and punish evil creatures caught in your breath.
 - **[Silver Darts](silver-darts.md)**: Cone of silver darts deals 1d6 piercing damage/level, less against armored targets.
+- **[Sky Swim](sky-swim.md)**: Allow the target to swim through the air.
 - **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
 - **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 - **[Stinking Cloud](stinking-cloud.md)**: Nauseating vapors, 1 round/level.
@@ -262,15 +270,16 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 
 ## 4th-Level Bloodrager Spells
 
-- Absorbing Inhalation
+- **[Absorbing Inhalation](absorbing-inhalation.md)**: You grant your lungs inhuman strength and capacity, allowing you to harmlessly and completely inhale one gas.
 - **[Ball Lightning](ball-lightning.md)**: Flying lightning spheres deal 3d6 electricity damage each.
 - **[Banishing Blade](banishing-blade.md)**: The weapon bull rushes foes and can banish outsiders.
 - **[Beast Shape II](beast-shape-ii.md)**: You take the form and some of the powers of a Tiny or Large animal.
 - **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
 - **[Black Tentacles](black-tentacles.md)**: Tentacles grapple all creatures within a 20-ft. spread.
 - **[Break, Greater](break-greater.md)**: Break all nearby objects.
-- **[Burn Corruption](burn-corruption.md)**: This spell fills the area with violet flames that scour an area clean of life—especially of the corrupted life…
+- **[Burn Corruption](burn-corruption.md)**: Violet flames deal fire damage in an area, much more to demons and demon-tainted creatures.
 - **[Calcific Touch](calcific-touch.md)**: Touch attack slows target, 1d4 Dex damage.
+- **[Caustic Blood](caustic-blood.md)**: Imbue your blood with corrosive acid, damaging those who wound you.
 - **[Celestial Healing, Greater](celestial-healing-greater.md)**: Target gains fast healing 4.
 - **[Confusion](confusion.md)**: Subjects behave oddly for 1 round/level.
 - **[Contagion](contagion.md)**: Infects subject with chosen disease.
@@ -281,9 +290,9 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Detonate](detonate.md)**: 1d8/level energy damage to nearby creatures.
 - **[Dimensional Blade](dimensional-blade.md)**: Your melee weapon makes touch attacks.
 - **[Dragon’s Breath](dragons-breath.md)**: Gives you a dragon’s breath weapon.
-- Earth Glide
+- **[Earth Glide](earth-glide.md)**: School transmutation [earth]; Level alchemist 4, druid 4, sorcerer/wizard 4 Casting Time 1 standard action.
 - **[Elemental Body I](elemental-body-i.md)**: Turns you into a Small elemental.
-- **[Elemental Mastery](elemental-mastery.md)**: You gain mastery over the element matching the elemental essence in your blood (fire for ifrits, earth for ore…
+- **[Elemental Mastery](elemental-mastery.md)**: Gain a movement bonus and another power from the element of your heritage.
 - **[Enervation](enervation.md)**: Subject gains 1d4 negative levels.
 - **[Enlarge Person, Mass](enlarge-person-mass.md)**: 1 humanoid creature/level doubles in size.
 - **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
@@ -292,8 +301,8 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Fire Shield](fire-shield.md)**: Creatures attacking you take fire damage; you’re protected from heat or cold.
 - **[Flaming Aura](flaming-aura.md)**: Gain the fire subtype, or an aura of fire if you already have it.
 - **[Flaming Sphere, Greater](flaming-sphere-greater.md)**: Rolling ball of fire deals 6d6 fire damage and ignites targets.
-- Ghost Wolf
-- Hellmouth Lash
+- **[Ghost Wolf](ghost-wolf.md)**: This spell conjures a Large, quasi-real, wolflike creature made of roiling black smoke.
+- **[Hellmouth Lash](hellmouth-lash.md)**: Upon casting this spell, your tongue transforms into an energy whip weapon that can deal acid, electricity.
 - **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
 - **[Frosty Aura](frosty-aura.md)**: Gain the cold subtype, or an aura of cold if you already have it.
 - **[Furious Fire Barrage](furious-fire-barrage.md)**: Throw fireballs fueled by anger.
@@ -307,7 +316,7 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Masochistic Shadow](masochistic-shadow.md)**: a shadow attacks the target, dealing Strength damage each round
 - **[Monstrous Physique II](monstrous-physique-ii.md)**: Take the form and some of the powers of a Tiny or Large monstrous humanoid.
 - **[Moonstruck](moonstruck.md)**: Subject is enraged and confused.
-- Pellet Blast
+- **[Pellet Blast](pellet-blast.md)**: Creates an explosion of conjured metal pellets.
 - **[Naga Shape I](naga-shape-i.md)**: assume the form of a Large naga
 - **[Phantasmal Killer](phantasmal-killer.md)**: Fearsome illusion kills subject or deals 3d6 damage.
 - **[Poisonous Cloud](poisonous-cloud.md)**: Fog cloud that deals 1d2 Con damage per round.
@@ -315,12 +324,13 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Reduce Person, Mass](reduce-person-mass.md)**: As *reduce person*, but affects 1 humanoid creature/level.
 - **[Ride the Waves](ride-the-waves.md)**: Target can breathe water and swim.
 - **[River of Wind](river-of-wind.md)**: Creates wind that causes nonlethal damage and can knock down or push creatures.
-- Shocking Image
+- **[Sadomasochism](sadomasochism.md)**: Take more damage from opponents, but force them to become demoralized.
+- **[Shocking Image](shocking-image.md)**: As mirror image, but the duplicates emit electrical damage when destroyed.
 - **[Scale Spikes, Greater](scale-spikes-greater.md)**: Scale spikes with up to +5 enhancement
 - **[Shout](shout.md)**: Deafens all within cone and deals 5d6 sonic damage.
 - **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 - **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
-- Telekinetic Charge
+- **[Telekinetic Charge](telekinetic-charge.md)**: Launches an ally through the air.
 - **[Summon Flight of Eagles](summon-flight-of-eagles.md)**: Summon giant eagles to fight or serve as mounts.
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
@@ -333,9 +343,9 @@ Bloodragers gain access to the following spells. Spells in plain text come from 
 - **[Wall of Ice](wall-of-ice.md)**: *Ice plane* creates wall or *hemisphere* creates dome.
 - **[Wall of Sound](wall-of-sound.md)**: Sonic wall deflects and damages creatures.
 - **[Warp Metal](warp-metal.md)**: Permanently warps metal objects.
-- **[Wave Form](wave-form.md)**: You transform into a wave of frothing water up to 15 feet wide and 15 feet tall, as space permits, and then surge…
+- **[Wave Form](wave-form.md)**: Briefly turn into a huge wave that knocks down everything in your path.
 - **[Wooden Wing Shield](wooden-wing-shield.md)**: Your wings become a barrier granting a +4 shield bonus to AC.
-- Wreath of Blades
+- **[Wreath of Blades](wreath-of-blades.md)**: Spinning mithral daggers deal 1d4 damage per two levels to adjacent creatures and ward off attacks.
 
 ## 5th-Level Bloodrager Spells
 

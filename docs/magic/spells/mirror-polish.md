@@ -1,6 +1,6 @@
 # Mirror Polish
 
-**School** transmutation; **Level** sorcerer/wizard 1, witch 1  
+**School** transmutation; **Level** occultist 1, sorcerer/wizard 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a soft cloth)  
 **Range** touch  

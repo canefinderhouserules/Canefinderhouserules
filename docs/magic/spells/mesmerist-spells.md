@@ -12,7 +12,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Detect Psychic Significance](detect-psychic-significance.md)**: Find psychically charged items.
 - **[Flare](flare.md)**: Dazzles one creature (–1 penalty on attack rolls).
 - **[Ghost Sound](ghost-sound.md)**: Figment sounds.
-- Haunted Fey Aspect
+- **[Haunted Fey Aspect](haunted-fey-aspect.md)**: You surround yourself with disturbing illusions.
 - **[Light](light.md)**: Object shines like a torch.
 - **[Lullaby](lullaby.md)**: Makes subject drowsy: –5 on Perception checks, –2 on Will saves against *sleep*.
 - **[Mage Hand](mage-hand.md)**: 5-pound telekinesis.
@@ -25,7 +25,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 
 ## 1st-Level Mesmerist Spells
 
-- Adoration
+- **[Adoration](adoration.md)**: You gain a bonus on Diplomacy checks and performance combat checks.
 - **[Animate Rope](animate-rope.md)**: Makes a rope move at your command.
 - **[Anticipate Peril](anticipate-peril.md)**: Target gains a bonus on one initiative check.
 - **[Aphasia](aphasia.md)**: Prevent a target from understanding language.
@@ -33,7 +33,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
 - **[Bane](bane.md)**: Enemies take –1 on attack rolls and saves vs. fear.
 - **[Beguiling Gift](beguiling-gift.md)**: Subject immediately accepts an offered item and uses it.
-- Blend
+- **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
 - **[Blurred Movement](blurred-movement.md)**: As blur, but only while you are moving.
 - **[Bungle](bungle.md)**: Target takes a –20 penalty on its next attack roll or check.
 - **[Burst of Adrenaline](burst-of-adrenaline.md)**: Gain a +8 bonus to Str, Dex, or Con for one roll, then be fatigued for 1 round.
@@ -44,7 +44,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Charm Person](charm-person.md)**: Makes one person your friend.
 - **[Color Spray](color-spray.md)**: Knocks unconscious, blinds, and/or stuns weak creatures.
 - **[Command](command.md)**: One subject obeys a command for 1 round.
-- Compel Hostility
+- **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Comprehend Languages](comprehend-languages.md)**: You understand all spoken and written languages.
 - **[Compulsive Liar](compulsive-liar.md)**: Prevent target from speaking the truth.
 - **[Confusion, Lesser](confusion-lesser.md)**: One creature is *confused* for 1 round.
@@ -60,7 +60,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Diagnose Disease](diagnose-disease.md)**: Detect and identify diseases.
 - **[Discern Next of Kin](discern-next-of-kin.md)**: Read the target’s mind to learn about its family.
 - **[Disguise Self](disguise-self.md)**: Changes your appearance.
-- **[Disguise Weapon](disguise-weapon.md)**
+- **[Disguise Weapon](disguise-weapon.md)**: Changes one weapon’s appearance.
 - **[Doom](doom.md)**: One subject takes –2 on attack rolls, damage rolls, saves, and checks.
 - **[Echo](echo.md)**: Cause a sound to repeat itself.
 - **[Expeditious Retreat](expeditious-retreat.md)**: Your base speed increases by 30 ft.
@@ -73,26 +73,26 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Fumblestep](fumblestep.md)**: slick a target’s feet, then trip it from afar
 - **[Fumbletongue](fumbletongue.md)**: Target cannot speak intelligently.
 - **[Grease](grease.md)**: Makes 10-ft. square or one object slippery.
-- Healing Thief
+- **[Healing Thief](healing-thief.md)**: You siphon half of all magical healing that the targeted creature receives.
 - **[Heightened Awareness](heightened-awareness.md)**: Your recall and ability to process information improve.
 - **[Hide Bruises](hide-bruises.md)**: Make wounds appear to vanish
 - **[Hideous Laughter](hideous-laughter.md)**: Subject loses actions for 1 round/level.
 - **[Hobble](hobble.md)**: Halve the movement speed of several creatures
 - **[Hypnotism](hypnotism.md)**: Fascinates 2d4 HD of creatures.
 - **[Ill Omen](ill-omen.md)**: Target rolls twice for checks and attacks and uses worst roll.
-- Illusion of Calm
+- **[Illusion of Calm](illusion-of-calm.md)**: You appear to be standing still, even when you take some actions.
 - **[Implant Urge](implant-urge.md)**: A target unconsciously desires a goal you choose.
 - **[Innocence](innocence.md)**: Gain +10 on Bluff checks to seem innocent.
 - **[Instant Portrait](instant-portrait.md)**: Paint a quick monochrome portrait.
 - **[Intensify Psyche](intensify-psyche.md)**: +2 on social checks and emotion DCs, –2 on saves against emotion and pain.
 - **[Interrogation](interrogation.md)**: Target answers questions or suffers pain.
 - **[Invigorate](invigorate.md)**: Temporarily relieves fatigue or exhaustion.
-- Jitterbugs
-- Lock Gaze
+- **[Jitterbugs](jitterbugs.md)**: School illusion (figment) [mind-affecting]; Level bard 1, sorcerer/wizard 2 Casting Time 1 standard action.
+- **[Lock Gaze](lock-gaze.md)**: Compels the target to look only at you for the duration of the spell.
 - **[Linked Legacy](linked-legacy.md)**: Share Knowledge check results with the linked creatures.
 - **[Magic Aura](magic-aura.md)**: Alters object’s magic aura.
 - **[Magic Mouth](magic-mouth.md)**: Object speaks once when triggered.
-- **[Memorize Page](memorize-page.md)**
+- **[Memorize Page](memorize-page.md)**: Target perfectly memorizes one page of information.
 - **[Memory Lapse](memory-lapse.md)**: Subject forgets events back to last turn.
 - **[Mental Block](mental-block.md)**: Prevent the target from using its skill ranks, spells, feats, and abilities.
 - **[Mindlink](mindlink.md)**: Communicate a great deal of information in an instant.
@@ -110,7 +110,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Quintessence](quintessence.md)**: Mask any flaws of or damage to a creature or object.
 - **[Ray of Enfeeblement](ray-of-enfeeblement.md)**: Ray causes 1d6 Str penalty + 1 per 2 levels.
 - **[Ray of Sickening](ray-of-sickening.md)**: Ray makes the subject sickened.
-- Recharge Innate Magic
+- **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 - **[Remove Sickness](remove-sickness.md)**: Suppress disease, nausea, and the sickened condition.
 - **[Reveal Secrets](reveal-secrets.md)**: Learn whether a target has a secret
@@ -119,11 +119,11 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Share Language](share-language.md)**: Subject understands chosen language.
 - **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Sleep](sleep.md)**: Puts 4 HD of creatures into magical slumber.
-- Sow Thought
+- **[Sow Thought](sow-thought.md)**: School enchantment (compulsion) [mind-affecting]; Level bard 1, sorcerer/wizard 1, witch 1 Casting Time 1.
 - **[Songbird](songbird.md)**: Conjure music from a good-aligned plane
 - **[Speechreader's Sight](speechreaders-sight.md)**: Read the lips of speakers within 100 ft.
 - **[Telempathic Projection](telempathic-projection.md)**: Alter the target’s attitude or give bonuses to those interacting with the target.
-- Theft Ward
+- **[Theft Ward](theft-ward.md)**: You ward a single object in your possession against theft.
 - **[Thought Echo](thought-echo.md)**: Replace surface thoughts with a mental echo.
 - **[Touch of Gracelessness](touch-of-gracelessness.md)**: Subject loses 1d6 + 1 Dex/two levels and is prone to falling down.
 - **[Undetectable Alignment](undetectable-alignment.md)**: Conceals alignment for 24 hours.
@@ -138,21 +138,22 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 
 ## 2nd-Level Mesmerist Spells
 
-- Agonizing Rebuke
+- **[Agonizing Rebuke](agonizing-rebuke.md)**: Component V, S Range close (25 ft.
 - **[Absurdity](absurdity.md)**: Threats seem like a ridiculous farce.
+- **[Alpha Instinct](alpha-instinct.md)**: Gain bonuses when you’re interacting with animals.
 - **[Alter Self](alter-self.md)**: Assume form of a Small or Medium humanoid.
 - **[Animal Messenger](animal-messenger.md)**: Sends a Tiny animal to a specific place.
 - **[Animal Trance](animal-trance.md)**: Fascinates 2d6 HD of animals.
 - **[Animus Mine](animus-mine.md)**: Psychic mine damages and staggers creatures that use mind-affecting effects on you.
-- **[Anonymous Interaction](anonymous-interaction.md)**
+- **[Anonymous Interaction](anonymous-interaction.md)**: Creatures forget details about you and conversations with you.
 - **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
 - **[Apport Object](apport-object.md)**: Send or receive a small object via teleportation.
 - **[Aversion](aversion.md)**: Cause the target to avoid an object or location.
 - **[Babble](babble.md)**: Target becomes nauseated and nearby creatures become fascinated.
-- Bestow Insight
+- **[Bestow Insight](bestow-insight.md)**: Component V, S Range touch Target one creature touched Duration 1 minute/level When casting this spell.
 - **[Blindness/Deafness](blindness-deafness.md)**: Makes subject blind or deaf.
-- Blistering Invective
-- Blood in the Water
+- **[Blistering Invective](blistering-invective.md)**: Make an Intimidate check against all foes within 30 feet; those demoralized also take fire damage.
+- **[Blood in the Water](blood-in-the-water.md)**: Enhance those with a blood frenzy.
 - **[Blur](blur.md)**: Attacks miss subject 20% of the time.
 - **[Build Trust](build-trust.md)**: Gain various bonuses when interacting with the target.
 - **[Burning Gaze](burning-gaze.md)**: Inflict 1d6 fire damage to creature.
@@ -162,7 +163,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Cat’s Grace](cats-grace.md)**: Subject gains +4 to Dex for 1 min./level.
 - **[Codespeak](codespeak.md)**: Speak, read, and write a new code language.
 - **[Cognitive Block](cognitive-block.md)**: Add a thought component to all of the target’s spells.
-- Commune with Birds
+- **[Commune with Birds](commune-with-birds.md)**: You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can.
 - **[Compassionate Ally](compassionate-ally.md)**: Target is compelled to help injured ally.
 - **[Compel Tongue](compel-tongue.md)**: Target can speak and write only in one imparted language.
 - **[Conditional Favor](conditional-favor.md)**: Provide another spell whose effects reverse if the target breaks a restriction.
@@ -170,7 +171,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Crafter's Nightmare](crafters-nightmare.md)**: Haunt sabotages crafting, ritual, and long-casting-time work.
 - **[Curse of Keeping](curse-of-keeping.md)**: Target cannot sell, barter, or give away its items.
 - **[Daze Monster](daze-monster.md)**: Living creature of 6 HD or less loses its next action.
-- Delay Disease
+- **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
 - **[Deflect Blame](deflect-blame.md)**: Blame someone else for your action.
 - **[Delay Pain](delay-pain.md)**: Ignore pain for 1 hour/level.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
@@ -187,7 +188,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Enshroud Thoughts](enshroud-thoughts.md)**: Ward yourself against thought detection and memory alteration.
 - **[Enter Image](enter-image.md)**: Transfers your consciousness to an object bearing your likeness.
 - **[Enthrall](enthrall.md)**: Captivates all within 100 ft. + 10 ft./level.
-- **[Euphoric Cloud](euphoric-cloud.md)**
+- **[Euphoric Cloud](euphoric-cloud.md)**: You create a bank of fog similar to that created by fog cloud except its vapors are intoxicating.
 - **[False Belief](false-belief.md)**: Temporarily plant a false memory.
 - **[False Life](false-life.md)**: Gain 1d10 temporary hp + 1/level (max +10).
 - **[Fleeting Memory](fleeting-memory.md)**: Target forgets everything that happens while the spell lasts.
@@ -211,9 +212,9 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
 - **[Influence Wild Magic](influence-wild-magic.md)**: Roll twice on wild magic effects and choose.
 - **[Instigate Psychic Duel](instigate-psychic-duel.md)**: Start a psychic duel between yourself and another creature.
-- **[Investigative Mind](investigative-mind.md)**
+- **[Investigative Mind](investigative-mind.md)**: Roll twice and take the higher roll when using certain mental skills.
 - **[Invisibility](invisibility.md)**: Subject is invisible for 1 min./level or until it attacks.
-- **[Invisibility Bubble](invisibility-bubble.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
+- **[Invisibility Bubble](invisibility-bubble.md)**: As invisibility, but altered to work better underwater.
 - **[Jealous Rage](jealous-rage.md)**: Target attacks anyone who receives a benefit it does not.
 - **[Knock](knock.md)**: Opens locked or magically sealed door.
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
@@ -230,7 +231,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Misdirection](misdirection.md)**: Misleads divinations for 1 creature or object.
 - **[Miserable Pity](miserable-pity.md)**: Opponents cannot attack a pathetic creature.
 - **[Mortal Terror](mortal-terror.md)**: Target is shaken and grows more afraid each time it is hurt.
-- **[Muffle Sound](muffle-sound.md)**
+- **[Muffle Sound](muffle-sound.md)**: Allies gain a bonus on Stealth checks but risk verbal spell failure.
 - **[Object Reading](object-reading.md)**: Read psychic impressions left on an object.
 - **[Obscured Script](obscured-script.md)**: Text becomes hard to read and deciphers falsely.
 - **[Oneiric Horror](oneiric-horror.md)**: Distract and fatigue the target with a creature from its nightmares.
@@ -242,26 +243,26 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Perceive Cues](perceive-cues.md)**: +5 Perception and Sense Motive 10 min./level.
 - **[Phantasmal Affliction](phantasmal-affliction.md)**: Convince a target that it contracted an affliction.
 - **[Phantom Trap](phantom-trap.md)**: Makes item seem trapped.
-- Pilfering Hand
+- **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
 - **[Placebo Effect](placebo-effect.md)**: Temporarily suppress an affliction or condition.
 - **[Psychic Leech](psychic-leech.md)**: Fatigue a target and gain +2 Strength and Dexterity.
 - **[Pyrotechnics](pyrotechnics.md)**: Turns fire into blinding light or thick smoke.
-- Qualm
+- **[Qualm](qualm.md)**: Target gains penalties on ability checks, skill checks, and concentration checks until it spends an entire round doing nothing.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Rage](rage.md)**: Gives +2 to Str and Con, +1 on Will saves, –2 to AC.
 - **[Reckless Infatuation](reckless-infatuation.md)**: Target is compelled to stay near another.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
 - **[Rumormonger](rumormonger.md)**: Follow a rumor to see where it spreads.
 - **[Scare](scare.md)**: Frightens creature of less than 6 HD.
-- Shadow Anchor
-- Share Language, Communal
+- **[Shadow Anchor](shadow-anchor.md)**: School illusion (shadow) [shadow]; Level bard 2, sorcerer/wizard 2, witch 2 Casting Time 1 standard action.
+- **[Share Language, Communal](share-language-communal.md)**: As share language, but you may divide the duration among creatures touched.
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
 - **[Shamefully Overdressed](shamefully-overdressed.md)**: Force target to remove equipment.
 - **[Share Memory](share-memory.md)**: Share one memory with the target.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Silence](silence.md)**: Negates sound in 20-ft. radius.
-- **[Silent Table](silent-table.md)**
-- Steal Breath
+- **[Silent Table](silent-table.md)**: Give yourself privacy by muffling sound leaving the area.
+- **[Steal Breath](steal-breath.md)**: You pull the breath from a creature’s lungs, dealing damage and leaving it unable to speak, use breath.
 - **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
 - **[Steal Voice](steal-voice.md)**: Target gains the croaking spellblight.
 - **[Stricken Heart](stricken-heart.md)**: Touch attack deals 346 damage and staggers target.
@@ -271,9 +272,9 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Sympathetic Aura](sympathetic-aura.md)**: Magic aura that also covers similar nearby items.
 - **[Tongues](tongues.md)**: Speak and understand any language.
 - **[Touch of Idiocy](touch-of-idiocy.md)**: Subject takes 1d6 penalty to Int, Wis, and Cha.
-- **[Twilight Haze](twilight-haze.md)**
+- **[Twilight Haze](twilight-haze.md)**: Illusory fog obscures vision.
 - **[Unadulterated Loathing](unadulterated-loathing.md)**: Target is compelled to avoid another creature.
-- **[Unliving Rage](unliving-rage.md)**
+- **[Unliving Rage](unliving-rage.md)**: As rage, except affecting only undead.
 - **[Unsettling Presence](unsettling-presence.md)**: Haunt breeds paranoia and worsens attitudes.
 - **[Violent Accident](violent-accident.md)**: Curse a creature to suffer a damaging accident within 24 hours.
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
@@ -282,9 +283,8 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 
 ## 3rd-Level Mesmerist Spells
 
-- **[Adjustable Disguise](adjustable-disguise.md)**
-- Agonizing Rebuke
-- **[Alpha Instinct](alpha-instinct.md)**: Gain bonuses when you’re interacting with animals.
+- **[Adjustable Disguise](adjustable-disguise.md)**: As disguise self, but you can change the disguise as a swift action.
+- **[Agonizing Rebuke](agonizing-rebuke.md)**: Component V, S Range close (25 ft.
 - **[Analyze Aura](analyze-aura.md)**: Read a creature’s or an object’s alignment, emotion, health, and magic auras.
 - **[Appearance of Life](appearance-of-life.md)**: Undead appear to be alive.
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
@@ -295,7 +295,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Aura Sight](aura-sight.md)**: Alignment auras become visible to you.
 - **[Bereave](bereave.md)**: Make targets count as enemies to their own allies
 - **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
-- Bleed Glory
+- **[Bleed Glory](bleed-glory.md)**: Increase the cost to use mythic power.
 - **[Calamitous Flailing](calamitous-flailing.md)**: Curse: the target's missed attacks strike its allies.
 - **[Charm Monster](charm-monster.md)**: Makes monster believe it is your ally.
 - **[Clairaudience/Clairvoyance](clairaudience-clairvoyance.md)**: Hear or see at a distance for 1 min./level.
@@ -317,30 +317,31 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Dreadscape](dreadscape.md)**: Surroundings and unfamiliar creatures seem like something out of a nightmare.
 - **[Dream Dalliance](dream-dalliance.md)**: Target sleeps in a perfect dream.
 - **[Elemental Speech](elemental-speech.md)**: Enables you to speak to elementals and some creatures.
-- **[Enchantment Foil](enchantment-foil.md)**
+- **[Enchantment Foil](enchantment-foil.md)**: Trick opponents who try to cast enchantments on you.
 - **[False Future](false-future.md)**: Cause divinations of the future to reveal the result you choose.
 - **[False Life, Greater](false-life-greater.md)**: Gain 2d10 temporary hp + 1/level.
 - **[Fear](fear.md)**: Subjects within cone flee for 1 round/level.
-- Fearsome Duplicate
+- **[Fearsome Duplicate](fearsome-duplicate.md)**: School illusion (figment); Level bard 3, inquisitor 3, sorcerer/wizard 3, witch 3 Casting Time 1 standard.
 - **[Fiendish Wrath](fiendish-wrath.md)**: Willing creatures enter a combat frenzy and can rend.
 - **[Fool's Teleport](fools-teleport.md)**: Turn invisible while appearing to have teleported away.
-- **[Free Swim](free-swim.md)**: The target can move and attack underwater normally without the usual penalties involved with underwater combat, as…
+- **[Free Swim](free-swim.md)**: As freedom of movement, but only allowing a creature to move freely underwater.
 - **[Geas, Lesser](geas-lesser.md)**: Commands subject of 7 HD or less.
 - **[Glibness](glibness.md)**: You gain +20 bonus on Bluff checks, and your lies can escape magical discernment.
 - **[Gullibility](gullibility.md)**: target believes lies more readily
 - **[Hallucinatory Decor](hallucinatory-decor.md)**: Reimagine the decor of a structure.
 - **[Haunting Choir](haunting-choir.md)**: Spirits cause wracking pain to listeners.
-- Hostile Levitation
+- **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
+- **[Hostile Levitation](hostile-levitation.md)**: Levitates the targeted creature up off the ground.
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
 - **[Illusory Script](illusory-script.md)**: Only select creatures can read text.
 - **[Implanted Projection](implanted-projection.md)**: A telempathic projection triggered later by a command word.
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
 - **[Inveigle Person](inveigle-person.md)**: The target treats all creatures as friendly.
 - **[Invigorate, Mass](invigorate-mass.md)**: As invigorate, but multiple creatures.
-- **[Invisibility Bubble, Giant](invisibility-bubble-giant.md)**: This functions as per invisibility bubble, but the bubble is larger, which allows you to target a creature of …
+- **[Invisibility Bubble, Giant](invisibility-bubble-giant.md)**: As invisibility bubble, but capable of affecting larger creatures.
 - **[Invisibility Bubble, Greater](invisibility-bubble-greater.md)**: This functions as per invisibility bubble, but the bubble is larger, which allows you to target a creature of up to s
 - **[Invisibility Sphere](invisibility-sphere.md)**: Makes everyone within 10 ft. invisible.
-- Isolate
+- **[Isolate](isolate.md)**: Make a creature invisible and silent to their allies.
 - **[Irregular Size](irregular-size.md)**: Curse shrivels arms, legs, or wings.
 - **[Jester’s Jaunt](jesters-jaunt.md)**: Teleport target within 30 ft. of itself.
 - **[Loathsome Veil](loathsome-veil.md)**: Nauseate and/or sicken weak creatures.
@@ -349,9 +350,9 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Malicious Spite](malicious-spite.md)**: Target is compelled to plot against another.
 - **[Marionette Possession](marionette-possession.md)**: As magic jar, but limited to line of sight.
 - **[Mindscape Door](mindscape-door.md)**: Create a portal allowing entry to and exit from a mindscape.
-- Minor Dream
-- Mythic Severance
-- Nixie’s Lure
+- **[Minor Dream](minor-dream.md)**: School illusion (figment) [mind-affecting]; Level alchemist 2, bard 3, sorcerer/wizard 3, witch 2 Casting.
+- **[Mythic Severance](mythic-severance.md)**: Restrict target’s access to its mythic power.
+- **[Nixie’s Lure](nixie-s-lure.md)**: This spell creates an unearthly and infectious song that seductively summons all who hear it.
 - **[Mirage](mirage.md)**: Create illusory terrain.
 - **[Motes of Dusk and Dawn](motes-of-dusk-and-dawn.md)**: up to four motes that shed light or darkness
 - **[Mydriatic Spontaneity](mydriatic-spontaneity.md)**: flashing light and dark nauseate and impair a target's sight
@@ -367,7 +368,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Ray of Exhaustion](ray-of-exhaustion.md)**: Ray makes subject exhausted.
 - **[Remove Blindness/Deafness](remove-blindness-deafness.md)**: Cures normal or magical blindness or deafness.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
-- Resilient Reservoir
+- **[Resilient Reservoir](resilient-reservoir.md)**: School transmutation; Level magus 3, paladin 3, sorcerer/wizard 4, witch 4 Casting Time 1 standard action.
 - **[Repugnant Taste](repugnant-taste.md)**: Creatures that bite or swallow the target become nauseated.
 - **[Scrying](scrying.md)**: Spies on subject from a distance.
 - **[Secret Page](secret-page.md)**: Changes one page to hide its real content.
@@ -380,17 +381,17 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Shadowmind](shadowmind.md)**: targets perceive the light level as one step darker
 - **[Shroud of Innocuity](shroud-of-innocuity.md)**: Targets appear as ordinary locals to every viewer.
 - **[Smug Narcissism](smug-narcissism.md)**: Target is distracted by its sense of self.
-- **[Spite](spite.md)**
+- **[Spite](spite.md)**: Store a touch spell as a ward that strikes the next creature to hit you in melee.
 - **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
-- **[Symbol of Laughter](symbol-of-laughter.md)**
+- **[Symbol of Laughter](symbol-of-laughter.md)**: As symbol of death, but creatures within 60 ft. fall into uncontrollable laughter.
 - **[Synaptic Pulse](synaptic-pulse.md)**: Stun creatures in a 30-ft. radius.
 - **[Synaptic Scramble](synaptic-scramble.md)**: Prevent the target from communicating and cause it to act randomly.
 - **[Synesthesia](synesthesia.md)**: Target moves at half speed, takes penalties, and has trouble casting spells.
 - **[Terrible Remorse](terrible-remorse.md)**: Creature is compelled to harm itself.
-- Tongues, Communal
+- **[Tongues, Communal](tongues-communal.md)**: As tongues, but you may divide the duration among creatures touched.
 - **[They Know](they-know.md)**: Convince target that a nearby creature knows her greatest secret.
 - **[Trade Items](trade-items.md)**: Swap a focus object with a target object.
-- **[Triggered Suggestion](triggered-suggestion.md)**
+- **[Triggered Suggestion](triggered-suggestion.md)**: As suggestion, but triggered only and target doesn’t remember the suggestion.
 - **[Unflappable Mien](unflappable-mien.md)**: A force ward punishes creatures that try to touch you.
 - **[Vampiric Touch](vampiric-touch.md)**: Touch deals 1d6 damage/2 levels; caster gains damage as temporary hp.
 - **[Venomous Promise](venomous-promise.md)**: A secret is guarded by a poison that triggers if revealed.
@@ -427,15 +428,14 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Erase Impressions](erase-impressions.md)**: Erase psychic impressions from an object.
 - **[Feast on Fear](feast-on-fear.md)**: Targets are panicked, and you gain temporary hit points.
 - **[Forbid Action, Greater](forbid-action-greater.md)**: As forbid action, but 1 creature/level.
-- Forgetful Slumber
+- **[Forgetful Slumber](forgetful-slumber.md)**: This spell acts as the deeper slumber spell, but only affects one creature of 10 Hit Dice or fewer.
 - **[Freedom of Movement](freedom-of-movement.md)**: Subject moves normally despite impediments to movement.
 - **[Greater Hypnotism](greater-hypnotism.md)**: hypnotize more creatures and make several requests
 - **[Hallucinatory Terrain](hallucinatory-terrain.md)**: Makes one type of terrain appear like another (field as forest, or the like).
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Hold Monster](hold-monster.md)**: As *hold person*, but any creature.
-- Hostile Juxtaposition
-- **[Horrific Doubles](horrific-doubles.md)**: Call forth disturbing *mirror images*.
-- **[Horseman of Death’s Dispensation](horseman-of-deaths-dispensation.md)**: The target of this spell gains immunity to the harmful effects of touching or drinking from the River Styx and…
+- **[Hostile Juxtaposition](hostile-juxtaposition.md)**: You create a dimensional link with a targeted creature, and switch spots with it.
+- **[Horseman of Death’s Dispensation](horseman-of-deaths-dispensation.md)**: Immunity to the waters of the river of death and +4 on saves against memory effects.
 - **[Illusion of Treachery, Greater](illusion-of-treachery-greater.md)**: Make it seem like another is responsible for your attacks while concealing your own actions.
 - **[Illusory Wall](illusory-wall.md)**: Wall, floor, or ceiling looks real, but anything can pass through.
 - **[Impossible Angles](impossible-angles.md)**: Distort geometry in an area.
@@ -445,10 +445,10 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Majestic Image](majestic-image.md)**: As *enter image*, but also gain bonuses on social skills while in the image.
 - **[Mind Probe](mind-probe.md)**: Learn answers from a subject’s memories.
 - **[Mindwipe](mindwipe.md)**: Erase a portion of the target’s mind and experiences, inflicting negative levels.
-- Minor Phantom Object
+- **[Minor Phantom Object](minor-phantom-object.md)**: School illusion (figment) [mind-affecting]; Level sorcerer/wizard 4 Casting Time 1 minute Components V, S.
 - **[Modify Memory](modify-memory.md)**: Changes 5 minutes of subject’s memories.
-- Nondetection, Communal
-- Old Salt’s Curse
+- **[Nondetection, Communal](nondetection-communal.md)**: As nondetection, but you divide the duration among creatures or objects touched.
+- **[Old Salt’s Curse](old-salt-s-curse.md)**: You inflict a curse of the roiling sea upon the target, making it permanently sickened.
 - **[Passing Fancy, Mass](passing-fancy-mass.md)**: As passing fancy, affecting multiple creatures.
 - **[Pessimism](pessimism.md)**: Force a creature to see the negative side of things.
 - **[Phantasmal Asphyxiation](phantasmal-asphyxiation.md)**: Trick a creature into thinking it can’t breathe.
@@ -461,20 +461,20 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Seek Shelter](seek-shelter.md)**: Weak creatures flee to safety in an orderly fashion.
 - **[Serenity](serenity.md)**: Peaceful feelings harm those attempting violence.
 - **[Shadow Conjuration](shadow-conjuration.md)**: Mimics conjuration below 4th level, but only 20% real.
-- Shocking Image
+- **[Shocking Image](shocking-image.md)**: As mirror image, but the duplicates emit electrical damage when destroyed.
 - **[Shadowform](shadowform.md)**: foes that fail to disbelieve deal only one-fifth damage
 - **[Shroud of Darkness](shroud-of-darkness.md)**: Plunge targets into supernatural darkness
-- **[Sleepwalk](sleepwalk.md)**
+- **[Sleepwalk](sleepwalk.md)**: Make an unconscious or sleeping creature rise and walk where you guide it.
 - **[Sleepwalking Suggestion](sleepwalking-suggestion.md)**: Cause a creature to perform a suggested action while asleep.
 - **[Solid Fog](solid-fog.md)**: Blocks vision and slows movement.
-- Steal Power
+- **[Steal Power](steal-power.md)**: Sap mythic power from another creature.
 - **[Synapse Overload](synapse-overload.md)**: Deal 1d6 points of damage per level and stagger target for 1 minute.
 - **[Synaptic Pulse, Greater](synaptic-pulse-greater.md)**: As synaptic pulse, but for 1d4 rounds.
 - **[Telepathic Bond](telepathic-bond.md)**: Link lets allies communicate.
 - **[Telepathic Silence](telepathic-silence.md)**: Blocks telepathy and thought reading in an area.
 - **[Telepathy](telepathy.md)**: Communicate mentally with creatures within 100 ft.
 - **[Thoughtsense](thoughtsense.md)**: Automatically detect nearby conscious creatures.
-- Truespeak
+- **[Truespeak](truespeak.md)**: You can communicate with any creature that is not mindless.
 - **[Tough Crowd](tough-crowd.md)**: Allies resist the next enchantment or illusion and manipulation.
 - **[Untold Wonder](untold-wonder.md)**: Childlike wonder turns emotion penalties into bonuses.
 - **[Utter Contempt](utter-contempt.md)**: Target’s attitude worsens by two categories.
@@ -509,7 +509,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Joyful Rapture](joyful-rapture.md)**: Negate harmful emotions.
 - **[Mage’s Decree](mages-decree.md)**: Send a message to creatures within miles.
 - **[Mage’s Private Sanctum](mages-private-sanctum.md)**: Prevents anyone from viewing or scrying an area for 24 hours.
-- Major Phantom Object
+- **[Major Phantom Object](major-phantom-object.md)**: School illusion (figment) [mind-affecting]; Level sorcerer/wizard 5 Casting Time 10 minutes Range close (25.
 - **[Mind Fog](mind-fog.md)**: Subjects in fog get –10 to Wis and Will checks.
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
 - **[Mirage Arcana](mirage-arcana.md)**: As *hallucinatory terrain,* plus structures.
@@ -527,7 +527,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Primal Regression](primal-regression.md)**: Make a creature become bestial and unintelligent.
 - **[Prying Eyes](prying-eyes.md)**: 1d4 + 1/level floating eyes scout for you.
 - **[Psychic Asylum](psychic-asylum.md)**: Perform a lengthy mental task in a private mindscape.
-- **[Psychic Surgery](psychic-surgery.md)**
+- **[Psychic Surgery](psychic-surgery.md)**: Cures mental ability damage and drain, and ends insanities and mental effects.
 - **[Repress Memory](repress-memory.md)**: Remove a piece of knowledge from your mind.
 - **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
 - **[Secret Chest](secret-chest.md)**: Hides expensive chest on Ethereal Plane; you retrieve it at will.
@@ -542,9 +542,9 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Symbol of Pain](symbol-of-pain.md)**: Triggered rune wracks creatures with pain.
 - **[Symbol of Sleep](symbol-of-sleep.md)**: Triggered rune puts nearby creatures into catatonic slumber.
 - **[Synesthesia, Mass](synesthesia-mass.md)**: As synesthesia, but affecting multiple creatures.
-- **[Unwilling Shield](unwilling-shield.md)**
+- **[Unwilling Shield](unwilling-shield.md)**: +1 luck to AC and saves; the target takes half of the damage dealt to you.
 - **[Vengeful Outrage](vengeful-outrage.md)**: Target is compelled to destroy one enemy.
-- Village Veil
+- **[Village Veil](village-veil.md)**: You throw an illusion over an area to make creatures that view or interact with it believe it has suffered.
 - **[Waves of Fatigue](waves-of-fatigue.md)**: Several targets become fatigued.
 
 ## 6th-Level Mesmerist Spells
@@ -561,7 +561,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Getaway](getaway.md)**: Teleports you and select creatures to predetermined location.
 - **[Heretic’s Tongue](heretics-tongue.md)**: Blasphemous knowledge stops the target from casting spells.
 - **[Hold Person, Mass](hold-person-mass.md)**: As *hold person*, but all within 30 ft.
-- Hostile Juxtaposition, Greater
+- **[Hostile Juxtaposition, Greater](hostile-juxtaposition-greater.md)**: You may target one creature for every four of your caster levels.
 - **[Impenetrable Veil](impenetrable-veil.md)**: Target is nearly impossible to detect.
 - **[Insanity](insanity.md)**: Subject suffers continuous *confusion*.
 - **[Invisibility Bubble, Mass](invisibility-bubble-mass.md)**: This functions as per invisibility bubble, but the spell affects the areas of each target creature, regardless of the
@@ -588,4 +588,4 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Veil](veil.md)**: Changes appearance of a group of creatures.
 - **[Waves of Ecstasy](waves-of-ecstasy.md)**: Pleasure stuns and staggers creatures.
 - **[Waves of Exhaustion](waves-of-exhaustion.md)**: Several targets become exhausted.
-- **[What Grows Within](what-grows-within.md)**: By speaking the name “a Great Old One,” you infuse yourself with the essence of the Inmost Blot and gain a +3 …
+- **[What Grows Within](what-grows-within.md)**: +3 profane bonus on Will saves, and your mind-affecting spells carry an alien taint.

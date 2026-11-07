@@ -1,6 +1,6 @@
 # Teleport, Greater
 
-**School** conjuration (teleportation); **Level** sorcerer/wizard 7  
+**School** conjuration (teleportation); **Level** psychic 7, sorcerer/wizard 7, summoner 5, witch 7  
 **Casting Time** 1 standard action  
 **Components** V  
 **Range** personal and touch  

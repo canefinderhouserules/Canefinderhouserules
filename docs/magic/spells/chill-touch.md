@@ -1,6 +1,6 @@
 # Chill Touch
 
-**School** necromancy; **Level** sorcerer/wizard 1  
+**School** necromancy; **Level** bloodrager 1, magus 1, shaman 1, sorcerer/wizard 1, spiritualist 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

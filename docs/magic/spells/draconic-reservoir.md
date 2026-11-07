@@ -1,6 +1,6 @@
 # Draconic Reservoir
 
-**School** evocation [acid, cold, electricity, or fire]; **Level** alchemist 3, sorcerer/wizard 3  
+**School** evocation [acid, cold, electricity, or fire]; **Level** alchemist 3, bloodrager 3, sorcerer/wizard 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a scale from dragon that produces the energy you seek to absorb)  
 **Range** touch  

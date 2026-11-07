@@ -1,6 +1,6 @@
 # Ventriloquism
 
-**School** illusion (figment); **Level** bard 1, sorcerer/wizard 1  
+**School** illusion (figment); **Level** bard 1, medium 1, mesmerist 1, psychic 1, sorcerer/wizard 1, spiritualist 1, summoner 1  
 **Casting Time** 1 standard action  
 **Components** V, F (parchment rolled into cone)  
 **Range** close (25 ft. + 5 ft./2 levels)  

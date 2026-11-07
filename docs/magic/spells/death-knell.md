@@ -1,6 +1,6 @@
 # Death Knell
 
-**School** necromancy [death, evil]; **Level** cleric 2  
+**School** necromancy [death, evil]; **Level** antipaladin 1, cleric 2, inquisitor 2, spiritualist 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

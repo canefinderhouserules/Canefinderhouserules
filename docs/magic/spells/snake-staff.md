@@ -1,6 +1,6 @@
 # Snake Staff
 
-**School** transmutation; **Level** cleric 5, druid 5  
+**School** transmutation; **Level** cleric 5, druid 5, shaman 6  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a knife suitable for whittling)  
 **Range** medium (100 ft. + 10 ft./level)  

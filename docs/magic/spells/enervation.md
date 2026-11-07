@@ -1,6 +1,6 @@
 # Enervation
 
-**School** necromancy; **Level** sorcerer/wizard 4  
+**School** necromancy; **Level** bloodrager 4, mesmerist 4, sorcerer/wizard 4, spiritualist 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

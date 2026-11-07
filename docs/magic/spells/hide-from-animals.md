@@ -1,6 +1,6 @@
 # Hide from Animals
 
-**School** abjuration; **Level** druid 1, ranger 1  
+**School** abjuration; **Level** druid 1, ranger 1, shaman 1  
 **Casting Time** 1 standard action  
 **Components** S, DF  
 **Range** touch  

@@ -1,6 +1,6 @@
 # Wind Walk
 
-**School** transmutation [air]; **Level** cleric 6, druid 7  
+**School** transmutation [air]; **Level** alchemist 6, cleric 6, druid 7, shaman 7  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

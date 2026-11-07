@@ -1,6 +1,6 @@
 # Awaken
 
-**School** transmutation; **Level** druid 5  
+**School** transmutation; **Level** druid 5, shaman 6  
 **Casting Time** 24 hours  
 **Components** V, S, M (herbs and oils worth 2,000 gp), DF  
 **Range** touch  

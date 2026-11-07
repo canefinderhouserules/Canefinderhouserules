@@ -1,6 +1,6 @@
 # Kinetic Reverberation
 
-**School** transmutation; **Level** alchemist 2, sorcerer/wizard 2  
+**School** transmutation; **Level** alchemist 2, psychic 2, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M (rubber tree sap)  
 **Range** touch  

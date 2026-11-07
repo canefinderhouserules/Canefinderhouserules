@@ -1,6 +1,6 @@
 # Monstrous Extremities
 
-**School** transmutation (polymorph); **Level** cleric 3, sorcerer/wizard 3, witch 4  
+**School** transmutation (polymorph); **Level** bloodrager 3, cleric 3, sorcerer/wizard 3, witch 4  
 **Casting Time** 1 minute  
 **Components** V, S  
 **Range** touch  

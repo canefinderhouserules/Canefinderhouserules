@@ -1,6 +1,6 @@
 # Polypurpose Panacea
 
-**School** transmutation; **Level** alchemist 1, sorcerer/wizard 1  
+**School** transmutation; **Level** alchemist 1, mesmerist 1, psychic 1, sorcerer/wizard 1  
 **Casting Time** 1 standard action  
 **Components** S  
 **Range** personal  
@@ -19,7 +19,7 @@ This creates one of several cantrip-level effects relating to your health, well-
 
 **Lucid Dream**: If you take this panacea within 1 hour of going to sleep, you have a lucid dream that is under your control and lasts for an hour.
 
-**Resistance**: You gain a +1 resistance bonus on saves for 1 minute.
+You gain a +1 resistance bonus on saves for 1 minute.
 
 **Sleep**: You enter a pleasant and restful sleep for at least 1 hour unless wakened. If you would normally begin sleeping at this time, when the panacea ends you continue sleeping normally.
 

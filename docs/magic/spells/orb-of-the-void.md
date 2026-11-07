@@ -1,6 +1,6 @@
 # Orb of the Void
 
-**School** necromancy; **Level** cleric 8, sorcerer/wizard 8  
+**School** necromancy; **Level** cleric 8, psychic 8, sorcerer/wizard 8  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a black gemstone of any kind worth 50 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  

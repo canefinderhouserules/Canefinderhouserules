@@ -1,6 +1,6 @@
 # Arcane Mark
 
-**School** universal; **Level** sorcerer/wizard 0  
+**School** universal; **Level** magus 0, psychic 0, shaman 0, sorcerer/wizard 0, summoner 0, witch 0  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

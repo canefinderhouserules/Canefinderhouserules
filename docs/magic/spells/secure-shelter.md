@@ -1,6 +1,6 @@
 # Secure Shelter
 
-**School** conjuration (creation); **Level** bard 4, sorcerer/wizard 4  
+**School** conjuration (creation); **Level** bard 4, sorcerer/wizard 4, witch 4  
 **Casting Time** 10 minutes  
 **Components** V, S, M (a chip of stone, sand, a drop of water, and a wood splinter)  
 **Range** close (25 ft. + 5 ft./2 levels)  

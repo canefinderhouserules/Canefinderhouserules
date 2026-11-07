@@ -1,6 +1,6 @@
 # Symbol of Pain
 
-**School** necromancy [evil]; **Level** cleric 5, sorcerer/wizard 5  
+**School** necromancy [evil]; **Level** cleric 5, mesmerist 5, occultist 4, sorcerer/wizard 5, witch 5  
 **Casting Time** 10 minutes  
 **Components** V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp)  
 **Range** 0 ft.; see text  

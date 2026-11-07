@@ -1,6 +1,6 @@
 # Mage Hand
 
-**School** transmutation; **Level** bard 0, sorcerer/wizard 0  
+**School** transmutation; **Level** bard 0, magus 0, medium 0, mesmerist 0, occultist 0, psychic 0, sorcerer/wizard 0, spiritualist 0, summoner 0  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

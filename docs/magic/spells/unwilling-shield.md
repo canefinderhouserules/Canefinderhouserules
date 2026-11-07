@@ -1,6 +1,6 @@
 # Unwilling Shield
 
-**School** necromancy; **Level** bard 5, inquisitor 5, sorcerer/wizard 6, witch 6  
+**School** necromancy; **Level** bard 5, inquisitor 5, mesmerist 5, occultist 5, psychic 6, sorcerer/wizard 6, spiritualist 6, witch 6  
 **Casting Time** 1 standard action  
 **Components** V, S, M (ruby dust worth 250 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  

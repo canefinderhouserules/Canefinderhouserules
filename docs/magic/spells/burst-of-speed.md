@@ -1,6 +1,6 @@
 # Burst of Speed
 
-**School** transmutation; **Level** alchemist 3, antipaladin 3, magus 3, inquisitor 3, paladin 3, ranger 3  
+**School** transmutation; **Level** alchemist 3, antipaladin 3, bloodrager 3, inquisitor 3, magus 3, medium 3, paladin 3, psychic 3, ranger 3  
 **Casting Time** 1 swift action  
 **Components** V  
 **Range** personal  

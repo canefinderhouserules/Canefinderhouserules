@@ -1,6 +1,6 @@
 # Flame Steed
 
-**School** conjuration (creation); **Level** bloodrager 3, cleric 4, druid 4, paladin 3, shaman 4, witch 4  
+**School** conjuration (creation); **Level** bloodrager 3, cleric 4, druid 4, paladin 4, shaman 4, witch 4  
 **Casting Time** 10 minutes  
 **Components** V, S  
 **Range** 0 ft.  

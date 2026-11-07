@@ -1,6 +1,6 @@
 # Telepathic Bond
 
-**School** divination; **Level** sorcerer/wizard 5  
+**School** divination; **Level** inquisitor 5, medium 4, mesmerist 4, psychic 4, sorcerer/wizard 5, spiritualist 5, witch 5  
 **Casting Time** 1 standard action  
 **Components** V, S, M (two eggshells from two different creatures)  
 **Range** close (25 ft. + 5 ft./2 levels)  

@@ -1,6 +1,6 @@
 # Protective Penumbra
 
-**School** evocation [darkness]; **Level** cleric 2, sorcerer/wizard 2, witch 2  
+**School** evocation [darkness]; **Level** cleric 2, occultist 2, psychic 2, sorcerer/wizard 2, spiritualist 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S,  
 **Range** touch  

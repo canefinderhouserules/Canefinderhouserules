@@ -1,6 +1,6 @@
 # Sonic Thrust
 
-**School** evocation [sonic]; **Level** bard 4, sorcerer/wizard 5  
+**School** evocation [sonic]; **Level** bard 4, psychic 5, sorcerer/wizard 5  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  

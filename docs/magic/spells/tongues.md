@@ -1,6 +1,6 @@
 # Tongues
 
-**School** divination; **Level** bard 2, cleric 4, sorcerer/wizard 3  
+**School** divination; **Level** alchemist 3, bard 2, cleric 4, inquisitor 2, medium 2, mesmerist 2, psychic 3, shaman 4, sorcerer/wizard 3, spiritualist 3, summoner 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, M/DF (a clay model of a ziggurat)  
 **Range** touch  

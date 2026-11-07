@@ -1,6 +1,6 @@
 # Stricken Heart
 
-**School** necromancy [death]; **Level** inquisitor 2, shaman 3, sorcerer/wizard 2, witch 2  
+**School** necromancy [death]; **Level** inquisitor 2, mesmerist 2, psychic 2, shaman 3, sorcerer/wizard 2, spiritualist 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

@@ -1,6 +1,6 @@
 # Divine Power
 
-**School** evocation; **Level** cleric 4  
+**School** evocation; **Level** cleric 4, inquisitor 4, shaman 4  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** personal  

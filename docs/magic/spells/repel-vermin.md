@@ -1,6 +1,6 @@
 # Repel Vermin
 
-**School** abjuration; **Level** bard 4, cleric 4, druid 4, ranger 3  
+**School** abjuration; **Level** bard 4, cleric 4, druid 4, ranger 3, shaman 4  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** 10 ft.  

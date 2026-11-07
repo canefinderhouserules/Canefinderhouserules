@@ -1,6 +1,6 @@
 # Resurrection
 
-**School** conjuration (healing); **Level** cleric 7  
+**School** conjuration (healing); **Level** cleric 7, shaman 8, witch 8  
 **Casting Time** 1 minute  
 **Components** V, S, M (diamond worth 10,000 gp), DF  
 **Range** touch  

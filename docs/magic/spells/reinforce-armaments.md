@@ -1,6 +1,6 @@
 # Reinforce Armaments
 
-**School** transmutation; **Level** cleric 1, magus 1, sorcerer/wizard 1, witch 1  
+**School** transmutation; **Level** cleric 1, magus 1, occultist 1, sorcerer/wizard 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (a metal pin)  
 **Range** touch  

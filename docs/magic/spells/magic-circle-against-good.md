@@ -1,6 +1,6 @@
 # Magic Circle against Good
 
-**School** abjuration [evil]; **Level** cleric 3, sorcerer/wizard 3  
+**School** abjuration [evil]; **Level** antipaladin 3, cleric 3, inquisitor 3, medium 3, occultist 3, shaman 3, sorcerer/wizard 3, spiritualist 3, summoner 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (a 3-ft.-diameter circle of powdered silver)  
 **Range** touch  

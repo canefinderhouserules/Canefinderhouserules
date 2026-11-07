@@ -1,6 +1,6 @@
 # Nightmare
 
-**School** illusion (phantasm) [mind-affecting, evil]; **Level** bard 5, sorcerer/wizard 5  
+**School** illusion (phantasm) [mind-affecting, evil]; **Level** alchemist 5, bard 5, medium 4, mesmerist 5, psychic 5, sorcerer/wizard 5, spiritualist 5  
 **Casting Time** 10 minutes  
 **Components** V, S  
 **Range** unlimited  

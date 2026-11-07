@@ -1,6 +1,6 @@
 # Windy Escape
 
-**School** transmutation [air]; **Level** bard 1, druid 1, magus 1, sorcerer/wizard 1  
+**School** transmutation [air]; **Level** bard 1, bloodrager 1, druid 1, magus 1, sorcerer/wizard 1  
 **Casting Time** 1 immediate action  
 **Components** V, S  
 **Range** personal  

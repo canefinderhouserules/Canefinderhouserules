@@ -1,6 +1,6 @@
 # Dispel Law
 
-**School** abjuration [chaotic]; **Level** cleric 5  
+**School** abjuration [chaotic]; **Level** antipaladin 4, cleric 5, inquisitor 5, shaman 5  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

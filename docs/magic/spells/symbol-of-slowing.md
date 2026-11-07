@@ -1,6 +1,6 @@
 # Symbol of Slowing
 
-**School** transmutation; **Level** cleric 4, sorcerer/wizard 4, witch 4  
+**School** transmutation; **Level** cleric 4, occultist 3, sorcerer/wizard 4, witch 4  
 **Casting Time** 10 minutes  
 **Components** V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 1,000 gp)  
 **Range** 0 ft.; see text  

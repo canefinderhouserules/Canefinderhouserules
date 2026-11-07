@@ -1,6 +1,6 @@
 # Summon Nature’s Ally VI
 
-**School** conjuration (summoning) [see text]; **Level** druid 6  
+**School** conjuration (summoning) [see text]; **Level** druid 6, shaman 6  
 **Casting Time** 1 round  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  

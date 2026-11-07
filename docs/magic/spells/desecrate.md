@@ -1,6 +1,6 @@
 # Desecrate
 
-**School** evocation [evil]; **Level** cleric 2  
+**School** evocation [evil]; **Level** antipaladin 2, cleric 2, inquisitor 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a vial of unholy water and 25 gp worth (5 pounds) of silver dust, all of which must be sprinkled around the area), DF  
 **Range** close (25 ft. + 5 ft./2 levels)  

@@ -1,6 +1,6 @@
 # Explosive Runes
 
-**School** abjuration [force]; **Level** sorcerer/wizard 3  
+**School** abjuration [force]; **Level** occultist 3, sorcerer/wizard 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

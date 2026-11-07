@@ -1,6 +1,6 @@
 # Distracting Cacophony
 
-**School** evocation [sonic]; **Level** bard 2, sorcerer/wizard 3  
+**School** evocation [sonic]; **Level** bard 2, psychic 3, sorcerer/wizard 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

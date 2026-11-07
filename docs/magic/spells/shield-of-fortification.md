@@ -1,6 +1,6 @@
 # Shield of Fortification
 
-**School** abjuration; **Level** cleric 2, inquisitor 1, paladin 1  
+**School** abjuration; **Level** cleric 2, inquisitor 1, paladin 1, psychic 2  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

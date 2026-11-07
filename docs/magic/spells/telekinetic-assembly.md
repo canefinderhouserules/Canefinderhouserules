@@ -1,6 +1,6 @@
 # Telekinetic Assembly
 
-**School** transmutation; **Level** magus 2, sorcerer/wizard 2  
+**School** transmutation; **Level** magus 2, occultist 2, psychic 2, sorcerer/wizard 2  
 **Casting Time** 1 minute  
 **Components** V, S, F (a miniature of the target siege engine, costing 10 gp)  
 **Range** close (25 ft + 5 ft./2 levels)  

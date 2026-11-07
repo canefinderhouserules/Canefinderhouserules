@@ -1,6 +1,6 @@
 # Nondetection, Communal
 
-**School** abjuration; **Level** antipaladin 4, sorcerer/wizard 4  
+**School** abjuration; **Level** antipaladin 4, mesmerist 4, occultist 4, psychic 4, sorcerer/wizard 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M (diamond dust worth 25 gp per target)  
 **Range** touch  

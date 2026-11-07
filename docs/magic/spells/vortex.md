@@ -1,6 +1,6 @@
 # Vortex
 
-**School** evocation [water]; **Level** druid 7, sorcerer/wizard 7  
+**School** evocation [water]; **Level** druid 7, shaman 7, sorcerer/wizard 7  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (a stirring spoon)  
 **Range** long (400 ft. + 40 ft./level)  

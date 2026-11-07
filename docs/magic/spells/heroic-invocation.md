@@ -1,6 +1,6 @@
 # Heroic Invocation
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 9, witch 9  
+**School** enchantment (compulsion) [mind-affecting]; **Level** psychic 9, sorcerer/wizard 9, witch 9  
 **Casting Time** 10 minutes  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

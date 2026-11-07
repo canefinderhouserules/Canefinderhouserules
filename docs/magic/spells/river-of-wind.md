@@ -1,6 +1,6 @@
 # River of Wind
 
-**School** evocation [air]; **Level** druid 4, sorcerer/wizard 4  
+**School** evocation [air]; **Level** bloodrager 4, druid 4, magus 4, occultist 4, sorcerer/wizard 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** 120 ft.  

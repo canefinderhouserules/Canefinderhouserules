@@ -1,6 +1,6 @@
 # Elemental Swarm
 
-**School** conjuration (summoning) [see text]; **Level** druid 9  
+**School** conjuration (summoning) [see text]; **Level** druid 9, shaman 9, witch 9  
 **Casting Time** 10 minutes  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

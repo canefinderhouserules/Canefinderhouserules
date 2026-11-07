@@ -1,6 +1,6 @@
 # Lightning Bolt
 
-**School** evocation [electricity]; **Level** sorcerer/wizard 3  
+**School** evocation [electricity]; **Level** bloodrager 3, magus 3, occultist 3, sorcerer/wizard 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M (fur and a glass rod)  
 **Range** 120 ft.  

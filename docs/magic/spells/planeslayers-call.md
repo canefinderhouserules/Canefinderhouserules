@@ -1,6 +1,6 @@
 # Planeslayer’s Call
 
-**School** enchantment (compulsion) [see text]; **Level** cleric 5, inquisitor 4, paladin 4  
+**School** enchantment (compulsion) [see text]; **Level** cleric 5, inquisitor 4, occultist 4, paladin 4  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** 20 ft.  

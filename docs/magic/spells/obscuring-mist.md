@@ -1,6 +1,6 @@
 # Obscuring Mist
 
-**School** conjuration (creation); **Level** cleric 1, druid 1, sorcerer/wizard 1  
+**School** conjuration (creation); **Level** cleric 1, druid 1, magus 1, mesmerist 1, shaman 1, sorcerer/wizard 1, spiritualist 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** 20 ft.  

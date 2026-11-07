@@ -1,6 +1,6 @@
 # Analyze Dweomer
 
-**School** divination; **Level** bard 6, sorcerer/wizard 6  
+**School** divination; **Level** alchemist 6, bard 6, occultist 6, psychic 6, sorcerer/wizard 6, spiritualist 6, witch 6  
 **Casting Time** 1 standard action  
 **Components** V, S, F (a ruby and gold lens worth 1,500 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  

@@ -1,6 +1,6 @@
 # Calm Animals
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** druid 1, ranger 1  
+**School** enchantment (compulsion) [mind-affecting]; **Level** druid 1, psychic 1, ranger 1, shaman 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

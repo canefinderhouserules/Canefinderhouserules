@@ -1,6 +1,6 @@
 # Firefall
 
-**School** transmutation [fire]; **Level** sorcerer/wizard 4  
+**School** transmutation [fire]; **Level** bloodrager 4, magus 4, sorcerer/wizard 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M (one fire source)  
 **Range** long (400 ft. + 40 ft./level)  

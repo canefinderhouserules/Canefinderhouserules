@@ -1,6 +1,6 @@
 # Ethereal Jaunt
 
-**School** transmutation; **Level** cleric 7, sorcerer/wizard 7  
+**School** transmutation; **Level** cleric 7, psychic 6, sorcerer/wizard 7, summoner 5  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

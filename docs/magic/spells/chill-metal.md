@@ -1,6 +1,6 @@
 # Chill Metal
 
-**School** transmutation [cold]; **Level** druid 2  
+**School** transmutation [cold]; **Level** druid 2, occultist 2, psychic 2  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  

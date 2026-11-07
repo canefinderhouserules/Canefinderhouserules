@@ -1,6 +1,6 @@
 # Discern Next of Kin
 
-**School** divination [mind-affecting]; **Level** bard 1, shaman 1, sorcerer/wizard 1, witch 1  
+**School** divination [mind-affecting]; **Level** bard 1, medium 1, mesmerist 1, occultist 1, psychic 1, shaman 1, sorcerer/wizard 1, spiritualist 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** V, S, F (a copper piece)  
 **Range** 60 ft.  

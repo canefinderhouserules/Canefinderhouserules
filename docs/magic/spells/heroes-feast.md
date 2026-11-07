@@ -1,6 +1,6 @@
 # Heroes’ Feast
 
-**School** conjuration [creation]; **Level** bard 6, cleric 6  
+**School** conjuration [creation]; **Level** bard 6, cleric 6, inquisitor 6  
 **Casting Time** 10 minutes  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  

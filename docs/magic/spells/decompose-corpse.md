@@ -1,6 +1,6 @@
 # Decompose Corpse
 
-**School** necromancy; **Level** cleric 1, druid 1, sorcerer/wizard 1, witch 1  
+**School** necromancy; **Level** cleric 1, druid 1, medium 1, occultist 1, psychic 1, sorcerer/wizard 1, spiritualist 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a pinch of dried toadstool)  
 **Range** touch  

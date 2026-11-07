@@ -1,6 +1,6 @@
 # Eagle’s Splendor
 
-**School** transmutation; **Level** bard 2, cleric 2, paladin 2, sorcerer/wizard 2  
+**School** transmutation; **Level** alchemist 2, antipaladin 2, bard 2, bloodrager 2, cleric 2, medium 2, mesmerist 2, paladin 2, psychic 2, shaman 2, sorcerer/wizard 2, summoner 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (feathers or droppings from an eagle)  
 **Range** touch  

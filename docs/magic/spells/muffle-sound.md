@@ -1,6 +1,6 @@
 # Muffle Sound
 
-**School** illusion (glamer); **Level** bard 2, cleric 2, inquisitor 2  
+**School** illusion (glamer); **Level** bard 2, cleric 2, inquisitor 2, mesmerist 2, psychic 2  
 **Casting Time** 1 round  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

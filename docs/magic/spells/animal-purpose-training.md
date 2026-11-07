@@ -1,6 +1,6 @@
 # Animal Purpose Training
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** antipaladin 1, bard 2, druid 2, inquisitor 1, paladin 1, ranger 1, shaman 2, witch 1  
+**School** enchantment (compulsion) [mind-affecting]; **Level** antipaladin 1, bard 2, druid 2, inquisitor 1, paladin 1, psychic 1, ranger 1, shaman 2, witch 1  
 **Casting Time** 1 minute  
 **Components** V, S, M (a swatch of black cloth)  
 **Range** close (25 ft. + 5 ft./2 levels)  

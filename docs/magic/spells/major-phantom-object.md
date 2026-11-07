@@ -1,6 +1,6 @@
 # Major Phantom Object
 
-**School** illusion (figment) [mind-affecting]; **Level** sorcerer/wizard 5  
+**School** illusion (figment) [mind-affecting]; **Level** mesmerist 5, psychic 5, sorcerer/wizard 5  
 **Casting Time** 10 minutes  
 **Components** V, S, M (a tiny piece of matter of the same sort of item you plan to create with major phantom object)  
 **Range** close (25 ft. + 5 ft./2 levels)  

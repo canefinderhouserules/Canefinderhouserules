@@ -1,6 +1,6 @@
 # Symbol of Sealing
 
-**School** abjuration [force]; **Level** cleric 6, sorcerer/wizard 6, witch 6 Casting Times 10 minutes  
+**School** abjuration [force]; **Level** cleric 6, occultist 4, sorcerer/wizard 6, witch 6 Casting Times 10 minutes  
 **Casting Time** 10 minutes  
 **Components** V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 5,000 gp)  
 **Range** 0 ft.; see text  

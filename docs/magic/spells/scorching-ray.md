@@ -1,6 +1,6 @@
 # Scorching Ray
 
-**School** evocation [fire]; **Level** sorcerer/wizard 2  
+**School** evocation [fire]; **Level** bloodrager 2, magus 2, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

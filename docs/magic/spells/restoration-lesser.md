@@ -1,6 +1,6 @@
 # Restoration, Lesser
 
-**School** conjuration (healing); **Level** cleric 2, druid 2, paladin 1  
+**School** conjuration (healing); **Level** alchemist 2, cleric 2, druid 2, inquisitor 2, mesmerist 2, paladin 1, shaman 2, spiritualist 2  
 **Casting Time** 3 rounds  
 **Components** V, S  
 **Range** touch  

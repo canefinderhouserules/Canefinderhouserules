@@ -1,6 +1,6 @@
 # Creeping Doom
 
-**School** conjuration (summoning); **Level** druid 7  
+**School** conjuration (summoning); **Level** druid 7, shaman 7, summoner 5  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)/100 ft.; see text  

@@ -1,6 +1,6 @@
 # Spiritual Ally
 
-**School** evocation [force]; **Level** cleric 4  
+**School** evocation [force]; **Level** cleric 4, medium 4, spiritualist 4  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** medium (100 ft. + 10 ft./level)  

@@ -1,6 +1,6 @@
 # Liveoak
 
-**School** transmutation; **Level** druid 6  
+**School** transmutation; **Level** druid 6, shaman 7  
 **Casting Time** 10 minutes  
 **Components** V, S  
 **Range** touch  

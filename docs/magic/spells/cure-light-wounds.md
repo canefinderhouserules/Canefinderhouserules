@@ -1,6 +1,6 @@
 # Cure Light Wounds
 
-**School** conjuration (healing); **Level** bard 1, cleric 1, druid 1, paladin 1, ranger 2  
+**School** conjuration (healing); **Level** alchemist 1, bard 1, cleric 1, druid 1, inquisitor 1, occultist 1, paladin 1, ranger 2, shaman 1, spiritualist 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

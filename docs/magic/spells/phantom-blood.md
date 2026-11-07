@@ -1,6 +1,6 @@
 # Phantom Blood
 
-**School** necromancy; **Level** alchemist 1, bloodrager 1, magus 1, sorcerer/wizard 1  
+**School** necromancy; **Level** alchemist 1, bloodrager 1, magus 1, sorcerer/wizard 1, spiritualist 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

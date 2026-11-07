@@ -1,6 +1,6 @@
 # Shock Shield
 
-**School** abjuration [electricity, force]; **Level** alchemist 1, magus 1, sorcerer/wizard 1  
+**School** abjuration [electricity, force]; **Level** alchemist 1, bloodrager 1, magus 1, occultist 1, sorcerer/wizard 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

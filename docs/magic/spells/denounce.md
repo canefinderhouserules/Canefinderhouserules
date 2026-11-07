@@ -1,6 +1,6 @@
 # Denounce
 
-**School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** bard 4, inquisitor 4  
+**School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** bard 4, inquisitor 4, mesmerist 4, psychic 5  
 **Casting Time** 1 standard action  
 **Components** V  
 **Range** close (25 ft. + 5 ft./2 levels)  

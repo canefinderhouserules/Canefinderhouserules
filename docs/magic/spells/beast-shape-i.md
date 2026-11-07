@@ -1,6 +1,6 @@
 # Beast Shape I
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 3  
+**School** transmutation (polymorph); **Level** alchemist 3, bloodrager 3, magus 3, sorcerer/wizard 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a piece of the creature whose form you plan to assume)  
 **Range** personal  

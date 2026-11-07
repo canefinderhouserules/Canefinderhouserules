@@ -1,6 +1,6 @@
 # Ki Shout
 
-**School** evocation [sonic]; **Level** bard 5, sorcerer/wizard 7  
+**School** evocation [sonic]; **Level** bard 5, psychic 7, sorcerer/wizard 7  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft + 5 ft./2 levels)  

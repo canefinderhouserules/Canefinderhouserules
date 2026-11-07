@@ -1,6 +1,6 @@
 # Barkskin
 
-**School** transmutation; **Level** druid 2, ranger 2  
+**School** transmutation; **Level** alchemist 2, druid 2, ranger 2, shaman 2, summoner 2  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

@@ -1,6 +1,6 @@
 # Regenerate
 
-**School** conjuration (healing); **Level** cleric 7, druid 9  
+**School** conjuration (healing); **Level** cleric 7, druid 9, shaman 7, witch 7  
 **Casting Time** 3 full rounds  
 **Components** V, S, DF  
 **Range** touch  

@@ -1,6 +1,6 @@
 # Form of the Dragon I
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 6  
+**School** transmutation (polymorph); **Level** alchemist 6, magus 6, sorcerer/wizard 6  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a scale of the dragon type you plan to assume)  
 **Range** personal  

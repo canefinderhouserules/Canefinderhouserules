@@ -1,6 +1,6 @@
 # Jitterbugs
 
-**School** illusion (figment) [mind-affecting]; **Level** bard 1, sorcerer/wizard 2  
+**School** illusion (figment) [mind-affecting]; **Level** bard 1, mesmerist 1, psychic 2, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** short (25 ft. +5 ft. 2/levels)  

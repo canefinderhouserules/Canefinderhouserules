@@ -1,6 +1,6 @@
 # Magic Weapon, Greater
 
-**School** transmutation; **Level** cleric 4, paladin 3, sorcerer/wizard 3  
+**School** transmutation; **Level** antipaladin 3, bloodrager 3, cleric 4, inquisitor 3, magus 3, occultist 3, paladin 3, shaman 4, sorcerer/wizard 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (powdered lime and carbon)  
 **Range** close (25 ft. + 5 ft./2 levels)  

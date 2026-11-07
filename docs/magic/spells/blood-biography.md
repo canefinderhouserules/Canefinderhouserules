@@ -1,6 +1,6 @@
 # Blood Biography
 
-**School** divination; **Level** bard 2, cleric 3, inquisitor 3, sorcerer/ wizard 3  
+**School** divination; **Level** bard 2, bloodrager 3, cleric 3, inquisitor 3, medium 2, occultist 2, psychic 3, sorcerer/ wizard 3  
 **Casting Time** 1 minute  
 **Components** V, S, M/DF (a scrap of parchment)  
 **Range** touch  

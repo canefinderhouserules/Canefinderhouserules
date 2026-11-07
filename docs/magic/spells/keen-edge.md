@@ -1,6 +1,6 @@
 # Keen Edge
 
-**School** transmutation; **Level** sorcerer/wizard 3  
+**School** transmutation; **Level** bloodrager 3, inquisitor 3, magus 3, occultist 3, sorcerer/wizard 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

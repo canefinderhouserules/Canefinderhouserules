@@ -1,6 +1,6 @@
 # Divine Smite
 
-**School** evocation; **Level** cleric 2, oracle 2, paladin 2; inquisitor 3, warpriest 3
+**School** evocation; **Level** cleric 2, inquisitor 3, oracle 2, paladin 2; inquisitor 3, warpriest 3
 **Casting Time** 1 standard action
 **Components** V, S
 **Range** medium (100 ft. + 10 ft./level)

@@ -1,6 +1,6 @@
 # Talisman of Reprieve
 
-**School** abjuration; **Level** cleric 5, inquisitor 4, paladin 3  
+**School** abjuration; **Level** cleric 5, inquisitor 4, occultist 5, paladin 3  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  

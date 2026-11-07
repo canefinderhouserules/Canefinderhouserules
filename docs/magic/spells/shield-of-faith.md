@@ -1,6 +1,6 @@
 # Shield of Faith
 
-**School** abjuration; **Level** cleric 1  
+**School** abjuration; **Level** cleric 1, inquisitor 1  
 **Casting Time** 1 standard action  
 **Components** V, S, M (parchment with a holy text written on it)  
 **Range** touch  

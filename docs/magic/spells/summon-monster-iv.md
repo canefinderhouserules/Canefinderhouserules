@@ -1,6 +1,6 @@
 # Summon Monster IV
 
-**School** conjuration (summoning); **Level** bard 4, cleric 4, sorcerer/wizard 4  
+**School** conjuration (summoning); **Level** antipaladin 4, bard 4, cleric 4, medium 3, psychic 4, sorcerer/wizard 4, spiritualist 4, summoner 3, witch 4  
 **Casting Time** 1 round  
 **Components** V, S, F/DF (a tiny bag and a small candle)  
 **Range** close (25 ft. + 5 ft./2 levels)  

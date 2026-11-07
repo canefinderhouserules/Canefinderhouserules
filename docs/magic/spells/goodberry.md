@@ -1,6 +1,6 @@
 # Goodberry
 
-**School** transmutation; **Level** druid 1  
+**School** transmutation; **Level** druid 1, shaman 1  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

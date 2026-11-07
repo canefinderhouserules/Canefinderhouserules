@@ -1,6 +1,6 @@
 # Geas/Quest
 
-**School** enchantment (compulsion) [language-dependent, mind- affecting]; **Level** bard 6, cleric 6, sorcerer/wizard 6  
+**School** enchantment (compulsion) [language-dependent, mind- affecting]; **Level** bard 6, cleric 6, inquisitor 5, mesmerist 6, psychic 6, sorcerer/wizard 6, witch 6  
 **Casting Time** 10 minutes  
 **Components** V  
 **Target** one living creature  

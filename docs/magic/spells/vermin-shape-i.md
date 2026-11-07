@@ -1,6 +1,6 @@
 # Vermin Shape I
 
-**School** transmutation (polymorph); **Level** alchemist 4, druid 3, magus 4, sorcerer/wizard 4, witch 3  
+**School** transmutation (polymorph); **Level** alchemist 4, bloodrager 4, druid 3, magus 4, sorcerer/wizard 4, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a piece of the creature whose form you plan to assume)  
 **Range** personal  

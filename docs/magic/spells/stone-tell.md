@@ -1,6 +1,6 @@
 # Stone Tell
 
-**School** divination; **Level** druid 6  
+**School** divination; **Level** druid 6, psychic 6, shaman 7  
 **Casting Time** 10 minutes  
 **Components** V, S, DF  
 **Range** personal  

@@ -1,6 +1,6 @@
 # Antilife Shell
 
-**School** abjuration; **Level** cleric 6, druid 6  
+**School** abjuration; **Level** cleric 6, druid 6, psychic 6, shaman 6  
 **Components** V, S, DF  
 **Casting Time** 1 round  
 **Range** 10 ft.  

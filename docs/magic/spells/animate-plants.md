@@ -1,6 +1,6 @@
 # Animate Plants
 
-**School** transmutation; **Level** druid 7  
+**School** transmutation; **Level** druid 7, shaman 7  
 **Casting Time** 1 standard action  
 **Components** V  
 **Range** close (25 ft. + 5 ft./2 levels)  

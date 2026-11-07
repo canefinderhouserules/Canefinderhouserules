@@ -1,6 +1,6 @@
 # Haunted Fey Aspect
 
-**School** illusion (glamer); **Level** bard 0, sorcerer/wizard 0  
+**School** illusion (glamer); **Level** bard 0, medium 0, mesmerist 0, psychic 0, sorcerer/wizard 0  
 **Casting Time** 1 standard action  
 **Components** S  
 **Range** Personal  

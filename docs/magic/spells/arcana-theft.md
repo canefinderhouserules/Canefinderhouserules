@@ -1,6 +1,6 @@
 # Arcana Theft
 
-**School** abjuration; **Level** magus 4  
+**School** abjuration; **Level** magus 4, psychic 5  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

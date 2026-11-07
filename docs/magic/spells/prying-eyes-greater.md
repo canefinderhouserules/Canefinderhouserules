@@ -1,6 +1,6 @@
 # Prying Eyes, Greater
 
-**School** divination; **Level** sorcerer/wizard 8  
+**School** divination; **Level** psychic 8, sorcerer/wizard 8, witch 8  
 **Casting Time** 1 minute  
 **Components** V, S, M (a handful of crystal marbles)  
 **Range** 1 mile  

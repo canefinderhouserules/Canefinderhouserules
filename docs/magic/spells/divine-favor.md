@@ -1,6 +1,6 @@
 # Divine Favor
 
-**School** evocation; **Level** cleric 1, paladin 1  
+**School** evocation; **Level** cleric 1, inquisitor 1, paladin 1  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** personal or touch  

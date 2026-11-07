@@ -1,6 +1,6 @@
 # Plant Shape II
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 6  
+**School** transmutation (polymorph); **Level** alchemist 6, sorcerer/wizard 6  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a piece of the creature whose form you plan to assume)  
 **Range** personal  

@@ -1,6 +1,6 @@
 # Spell Immunity, Greater
 
-**School** abjuration; **Level** cleric 8  
+**School** abjuration; **Level** cleric 8, psychic 8  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

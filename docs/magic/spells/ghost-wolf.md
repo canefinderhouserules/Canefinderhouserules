@@ -1,6 +1,6 @@
 # Ghost Wolf
 
-**School** conjuration (creation); **Level** sorcerer/wizard 4, summoner 2  
+**School** conjuration (creation); **Level** bloodrager 4, psychic 4, sorcerer/wizard 4, summoner 2  
 **Casting Time** 10 minutes  
 **Components** V, S, F (dire wolf tooth)  
 **Range** 0 ft.  

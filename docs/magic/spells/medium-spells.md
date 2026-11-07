@@ -13,7 +13,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Ghost Sound](ghost-sound.md)**: Figment sounds.
 - **[Grave Words](grave-words.md)**: Force a corpse to babble.
 - **[Guidance](guidance.md)**: +1 on one attack roll, saving throw, or skill check.
-- Haunted Fey Aspect
+- **[Haunted Fey Aspect](haunted-fey-aspect.md)**: You surround yourself with disturbing illusions.
 - **[Light](light.md)**: Object shines like a torch.
 - **[Mage Hand](mage-hand.md)**: 5-pound telekinesis.
 - **[Message](message.md)**: Whisper conversation at distance.
@@ -31,7 +31,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Ally Across Time](ally-across-time.md)**: Summon a brief duplicate of yourself to aid you.
 - **[Ant Haul](ant-haul.md)**: Triples carrying capacity of a creature.
 - **[Anticipate Peril](anticipate-peril.md)**: Target gains a bonus on one initiative check.
-- Bleed Glory
+- **[Bleed Glory](bleed-glory.md)**: Increase the cost to use mythic power.
 - **[Assumed Likeness](assumed-likeness.md)**: You appear as someone each target feels strongly about.
 - **[Auditory Hallucination](auditory-hallucination.md)**: Create a phantasm with auditory effects.
 - **[Bestow Planar Infusion I](bestow-planar-infusion-i.md)**: Grant a target the effects of a planar infusion
@@ -42,7 +42,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Cause Fear](cause-fear.md)**: A creature of 5 HD or less flees for 1d4 rounds.
 - **[Charge Object](charge-object.md)**: Infuse psychic energy and ownership history into an item.
 - **[Command](command.md)**: One subject obeys a command for 1 round.
-- Compel Hostility
+- **[Compel Hostility](compel-hostility.md)**: Compels opponents to attack you instead of your allies.
 - **[Comprehend Languages](comprehend-languages.md)**: You understand all spoken and written languages.
 - **[Confusion, Lesser](confusion-lesser.md)**: One creature is *confused* for 1 round.
 - **[Contact Entity I](contact-entity-i.md)**: Ask eldritch entities to find and converse with you.
@@ -56,7 +56,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Detect Undead](detect-undead.md)**: Reveals undead within 60 ft.
 - **[Discern Next of Kin](discern-next-of-kin.md)**: Read the target’s mind to learn about its family.
 - **[Disguise Self](disguise-self.md)**: Changes your appearance.
-- **[Disguise Weapon](disguise-weapon.md)**
+- **[Disguise Weapon](disguise-weapon.md)**: Changes one weapon’s appearance.
 - **[Ear-Piercing Scream](ear-piercing-scream.md)**: Deal sonic damage and daze target.
 - **[Echo](echo.md)**: Cause a sound to repeat itself.
 - **[Enlarge Person](enlarge-person.md)**: Humanoid creature doubles in size.
@@ -67,29 +67,29 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Ill Omen](ill-omen.md)**: Target rolls twice for checks and attacks and uses worst roll.
 - **[Implant Urge](implant-urge.md)**: A target unconsciously desires a goal you choose.
 - **[Invigorate](invigorate.md)**: Temporarily relieves fatigue or exhaustion.
-- Liberating Command
+- **[Liberating Command](liberating-command.md)**: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
 - **[Know Peerage](know-peerage.md)**: Target uses your Knowledge (nobility) ranks.
 - **[Linked Legacy](linked-legacy.md)**: Share Knowledge check results with the linked creatures.
 - **[Long Arm](long-arm.md)**: Your arms lengthen, giving you extra reach.
 - **[Mindlink](mindlink.md)**: Communicate a great deal of information in an instant.
 - **[Murderous Command](murderous-command.md)**: Target is compelled to kill its ally.
-- Negative Reaction
+- **[Negative Reaction](negative-reaction.md)**: Targeted creature may not positively influence anyone.
 - **[Object Reading](object-reading.md)**: Read psychic impressions left on an object.
 - **[Oneiric Horror](oneiric-horror.md)**: Distract and fatigue the target with a creature from its nightmares.
 - **[Paranoia](paranoia.md)**: Target becomes hostile to all creatures.
 - **[Perfected Potential](perfected-potential.md)**: Target rolls twice on its next attack, save, or check.
 - **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Preserve](preserve.md)**: Stop spoilage of objects for a week
-- **[Protection from Chaos](protection-from-chaos.md)**
-- **[Protection from Evil](protection-from-evil.md)**
-- **[Protection from Good](protection-from-good.md)**
-- **[Protection from Law](protection-from-law.md)**
+- **[Protection from Chaos](protection-from-chaos.md)**: +2 to AC and saves against chaotic creatures, plus additional protection.
+- **[Protection from Evil](protection-from-evil.md)**: This spell wards a creature from attacks by evil creatures, from mental control, and from summoned creatures.
+- **[Protection from Good](protection-from-good.md)**: +2 to AC and saves against good creatures, plus additional protection.
+- **[Protection from Law](protection-from-law.md)**: +2 to AC and saves against lawful creatures, plus additional protection.
 - **[Psychic Reading](psychic-reading.md)**: Read surface thoughts to learn information about a subject.
 - **[Quintessence](quintessence.md)**: Mask any flaws of or damage to a creature or object.
 - **[Reduce Person](reduce-person.md)**: Humanoid creature halves in size.
 - **[Remove Fear](remove-fear.md)**: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 - **[Restore Corpse](restore-corpse.md)**: Skeletal corpse grows flesh.
-- Share Glory
+- **[Share Glory](share-glory.md)**: Imbue targets with a fraction of your mythic nature.
 - **[Revealing Light](revealing-light.md)**: Object sheds shifting light that foils Stealth bonuses.
 - **[Rumormonger](rumormonger.md)**: Follow a rumor to see where it spreads.
 - **[Sense Fear](sense-fear.md)**: Perceive nearby creatures that are experiencing fear.
@@ -102,13 +102,13 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Tears to Wine](tears-to-wine.md)**: Turn liquids into wine that sharpens the mind.
 - **[True Skill](true-skill.md)**: Gain an insight bonus on your next check with a chosen skill.
 - **[True Strike](true-strike.md)**: +20 on your next attack roll.
-- Unerring Weapon
+- **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
 - **[Unprepared Combatant](unprepared-combatant.md)**: Target takes –4 on initiative and Reflex saves.
 - **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
 - **[Unsettling Presence](unsettling-presence.md)**: Haunt breeds paranoia and worsens attitudes.
 - **[Ventriloquism](ventriloquism.md)**: Throws voice for 1 min./level.
 - **[Vocal Alteration](vocal-alteration.md)**: Disguise target’s voice.
-- Whispering Lore
+- **[Whispering Lore](whispering-lore.md)**: Upon casting this spell, you are able to gain knowledge from the land itself.
 - **[Wizened Appearance](wizened-appearance.md)**: Make a target appear as an older version of itself.
 - **[Youthful Appearance](youthful-appearance.md)**: Target appears younger.
 
@@ -127,8 +127,8 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Aura of the Unremarkable](aura-of-the-unremarkable.md)**: Make actions seem mundane to nearby creatures.
 - **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
 - **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
-- Bestow Insight
-- Bestow Weapon Proficiency
+- **[Bestow Insight](bestow-insight.md)**: Component V, S Range touch Target one creature touched Duration 1 minute/level When casting this spell.
+- **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
 - **[Blood Biography](blood-biography.md)**: Learn about a creature with its blood.
 - **[Blur](blur.md)**: Attacks miss subject 20% of the time.
 - **[Borrow Corruption](borrow-corruption.md)**: Temporarily gain the effects of a corrupted creature’s manifestations.
@@ -142,7 +142,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Compassionate Ally](compassionate-ally.md)**: Target is compelled to help injured ally.
 - **[Compel Tongue](compel-tongue.md)**: Target can speak and write only in one imparted language.
 - **[Contact Entity II](contact-entity-ii.md)**: Ask more powerful eldritch entities to find and converse with you.
-- **[Create Treasure Map](create-treasure-map.md)**
+- **[Create Treasure Map](create-treasure-map.md)**: Turn a piece of a dead creature into a map of valuables it knew about.
 - **[Darkvision](darkvision.md)**: See 60 ft. in total darkness.
 - **[Daze Monster](daze-monster.md)**: Living creature of 6 HD or less loses its next action.
 - **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
@@ -170,7 +170,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Hidden Speech](hidden-speech.md)**: Gain +10 on Bluff to send secret messages.
 - **[Hideous Laughter](hideous-laughter.md)**: Subject loses actions for 1 round/level.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
-- Hostile Levitation
+- **[Hostile Levitation](hostile-levitation.md)**: Levitates the targeted creature up off the ground.
 - **[Hoodwink](hoodwink.md)**: Befuddle targets so they can be led away
 - **[Human Potential](human-potential.md)**: Target chooses one ability score and gains +2.
 - **[Hypercognition](hypercognition.md)**: Rapidly recall everything you know about a subject.
@@ -179,34 +179,34 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Influence Wild Magic](influence-wild-magic.md)**: Roll twice on wild magic effects and choose.
 - **[Instigate Psychic Duel](instigate-psychic-duel.md)**: Start a psychic duel between yourself and another creature.
 - **[Intensify Psyche](intensify-psyche.md)**: +2 on social checks and emotion DCs, –2 on saves against emotion and pain.
-- **[Investigative Mind](investigative-mind.md)**
+- **[Investigative Mind](investigative-mind.md)**: Roll twice and take the higher roll when using certain mental skills.
 - **[Invisibility](invisibility.md)**: Subject is invisible for 1 min./level or until it attacks.
-- **[Invisibility Bubble](invisibility-bubble.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
+- **[Invisibility Bubble](invisibility-bubble.md)**: As invisibility, but altered to work better underwater.
 - **[Irregular Size](irregular-size.md)**: Curse shrivels arms, legs, or wings.
 - **[Knock](knock.md)**: Opens locked or magically sealed door.
-- Lend Path
+- **[Lend Path](lend-path.md)**: Temporarily transfer one of your mythic path abilities to another creature.
 - **[Lead Anchor](lead-anchor.md)**: The target’s buoyancy becomes and stays swiftly sinking, regardless of how dense the target and its gear are.
 - **[Levitate](levitate.md)**: Subject moves up and down at your direction.
 - **[Locate Object](locate-object.md)**: Senses direction toward object (specific or type).
 - **[Magic Mouth](magic-mouth.md)**: Object speaks once when triggered.
-- Minor Dream
+- **[Minor Dream](minor-dream.md)**: School illusion (figment) [mind-affecting]; Level alchemist 2, bard 3, sorcerer/wizard 3, witch 2 Casting.
 - **[Mindshock](mindshock.md)**: Your attacks deal extra nonlethal damage and can confuse.
 - **[Minor Image](minor-image.md)**: As *silent image*, plus some sound.
 - **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you.
 - **[Misdirection](misdirection.md)**: Misleads divinations for 1 creature or object.
-- Mythic Severance
+- **[Mythic Severance](mythic-severance.md)**: Restrict target’s access to its mythic power.
 - **[Neutral Buoyancy](neutral-buoyancy.md)**: The target’s buoyancy becomes and stays neutral, regardless of how dense the target and its gear are.
 - **[Nondetection](nondetection.md)**: Hides subject from divination, scrying.
 - **[Object Possession, Lesser](object-possession-lesser.md)**: Project your soul into an object, animating it.
 - **[Oneiric Horror, Greater](oneiric-horror-greater.md)**: As oneiric horror, plus Str damage.
 - **[Oppressive Boredom](oppressive-boredom.md)**: Target loses its next action.
 - **[Owl’s Wisdom](owls-wisdom.md)**: Subject gains +4 to Wis for 1 min./level.
-- Pilfering Hand
+- **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
 - **[Pack Empathy](pack-empathy.md)**: Create an empathic bond with allies.
 - **[Placebo Effect](placebo-effect.md)**: Temporarily suppress an affliction or condition.
 - **[Purge Spirit](purge-spirit.md)**: Deal 1d6 points of damage per level to one haunt or spirit creature and stagger it.
-- Qualm
-- Restore Mythic Power
+- **[Qualm](qualm.md)**: Target gains penalties on ability checks, skill checks, and concentration checks until it spends an entire round doing nothing.
+- **[Restore Mythic Power](restore-mythic-power.md)**: Transfer some of your mythic essence to another creature.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Riding Possession](riding-possession.md)**: As possession, but you observe instead of control the subject.
 - **[Rope Trick](rope-trick.md)**: As many as eight creatures hide in extradimensional space.
@@ -229,7 +229,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Steal Voice](steal-voice.md)**: Target gains the croaking spellblight.
 - **[Suggestion](suggestion.md)**: Compels a subject to follow stated course of action.
 - **[Summon Monster II](summon-monster-ii.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
-- Tactical Acumen
+- **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
 - **[Tongues](tongues.md)**: Speak and understand any language.
 - **[Touch of Idiocy](touch-of-idiocy.md)**: Subject takes 1d6 penalty to Int, Wis, and Cha.
 - **[Voluminous Vocabulary](voluminous-vocabulary.md)**: Grant ability to speak, read, and write one or more languages for 8 hours.
@@ -239,7 +239,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 
 ## 3rd-Level Medium Spells
 
-- **[Adjustable Disguise](adjustable-disguise.md)**
+- **[Adjustable Disguise](adjustable-disguise.md)**: As disguise self, but you can change the disguise as a swift action.
 - **[Akashic Communion](akashic-communion.md)**: Many Knowledge checks with +10 insight.
 - **[Amnesia](amnesia.md)**: Strip a target of its memories, skills and class abilities
 - **[Apport Animal](apport-animal.md)**: Send or receive a Tiny or smaller animal via teleportation.
@@ -248,7 +248,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Aura Alteration](aura-alteration.md)**: Masks a creature’s or an object’s alignment, emotion, health, and magic auras.
 - **[Ban Corruption](ban-corruption.md)**: Eliminate the gifts of nearby corrupted creatures.
 - **[Borrow Fortune](borrow-fortune.md)**: (Oracle only.) Retry attack or check, but do worse on next two.
-- Burst of Speed
+- **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
 - **[Call Spirit](call-spirit.md)**: Make the spirit of one creature manifest.
 - **[Complex Hallucination](complex-hallucination.md)**: Create a phantasm with effects for all senses.
 - **[Conditional Curse](conditional-curse.md)**: Bestow a curse that is difficult to remove without fulfilling a condition.
@@ -274,7 +274,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Find Fault](find-fault.md)**: Learn a creature's weaknesses and gain +5 on your first attack.
 - **[Fly](fly.md)**: Subject flies at speed of 60 ft.
 - **[Free Spirit](free-spirit.md)**: Gain freedom of movement and fear resistance, but be drunk
-- **[Free Swim](free-swim.md)**: The target can move and attack underwater normally without the usual penalties involved with underwater combat, as…
+- **[Free Swim](free-swim.md)**: As freedom of movement, but only allowing a creature to move freely underwater.
 - **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
 - **[Geomessage](geomessage.md)**: Leave an invisible message on a surface
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
@@ -284,10 +284,10 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Impossible Angles](impossible-angles.md)**: Distort geometry in an area.
 - **[Invisibility, Greater](invisibility-greater.md)**: As invisibility, but subject can attack and stay invisible.
 - **[Locate Creature](locate-creature.md)**: Indicates direction to familiar creature.
-- **[Magic Circle against Chaos](magic-circle-against-chaos.md)**
-- **[Magic Circle against Evil](magic-circle-against-evil.md)**
-- **[Magic Circle against Good](magic-circle-against-good.md)**
-- **[Magic Circle against Law](magic-circle-against-law.md)**
+- **[Magic Circle against Chaos](magic-circle-against-chaos.md)**: As protection spells, but 10-ft. radius and 10 min./level.
+- **[Magic Circle against Evil](magic-circle-against-evil.md)**: As protection spells, but 10-ft. radius and 10 min./level.
+- **[Magic Circle against Good](magic-circle-against-good.md)**: As protection spells, but 10-ft. radius and 10 min./level.
+- **[Magic Circle against Law](magic-circle-against-law.md)**: As protection spells, but 10-ft. radius and 10 min./level.
 - **[Major Image](major-image.md)**: As *silent image*, plus sound, smell and thermal effects.
 - **[Mind Probe](mind-probe.md)**: Learn answers from a subject’s memories.
 - **[Mind Swap](mind-swap.md)**: Switch minds with another creature for 1 hour per level.
@@ -295,7 +295,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Mischievous Shadow](mischievous-shadow.md)**: Shadows of victims interfere with their actions.
 - **[Motes of Dusk and Dawn](motes-of-dusk-and-dawn.md)**: up to four motes that shed light or darkness
 - **[Node of Blasting](node-of-blasting.md)**: Place a trap on an object to mentally damage a creature that touches it.
-- Paragon Surge
+- **[Paragon Surge](paragon-surge.md)**: You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind.
 - **[Out of Sight](out-of-sight.md)**: Creatures forget you once they stop watching.
 - **[Phantasmal Asphyxiation](phantasmal-asphyxiation.md)**: Trick a creature into thinking it can’t breathe.
 - **[Phantasmal Killer](phantasmal-killer.md)**: Fearsome illusion kills subject or deals 3d6 damage.
@@ -348,7 +348,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Create Mindscape](create-mindscape.md)**: Form an immersive mindscape.
 - **[Darkvision, Greater](darkvision-greater.md)**: See 120 ft. in total darkness.
 - **[Death Ward](death-ward.md)**: Grants bonuses against death spells and negative energy.
-- Deathless
+- **[Deathless](deathless.md)**: Target cannot die from hit point damage.
 - **[Dismissal](dismissal.md)**: Forces a creature to return to its native plane.
 - **[Dream Council](dream-council.md)**: Communicate with multiple sleeping creatures.
 - **[Dream Scan](dream-scan.md)**: Read a dreaming creature’s thoughts.
@@ -382,6 +382,7 @@ Mediums gain access to the following spells. Spells without a link come from oth
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
 - **[Secret Workshop](secret-workshop.md)**: As nondetection, but protects many creatures and objects.
+- **[Seeds of Influence, Greater](seeds-of-influence-greater.md)**: As seeds of influence, but have a chance to dispel protective magic before it takes effect.
 - **[Seeming](seeming.md)**: Changes appearance of 1 person per 2 levels.
 - **[Soulseeker](soulseeker.md)**: Determine a soul's location
 - **[Speak with Soul](speak-with-soul.md)**: Hold an extended conversation with a soul
@@ -398,7 +399,6 @@ Mediums gain access to the following spells. Spells without a link come from oth
 
 ## 5th-Level Medium Spells
 
-- **[Seeds of Influence, Greater](seeds-of-influence-greater.md)**: This spell functions as seeds of influence, except that if the target is protected by a spell that grants immunity,…
 - **[Subjective Reality](subjective-reality.md)**: Treat a creature or object as an illusion that cannot harm you.
 
 ## 6th-Level Medium Spells

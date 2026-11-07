@@ -1,6 +1,6 @@
 # Transfer Regeneration
 
-**School** transmutation; **Level** cleric 3, druid 3, shaman 3, witch 3  
+**School** transmutation; **Level** cleric 3, druid 3, psychic 3, shaman 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

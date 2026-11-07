@@ -1,6 +1,6 @@
 # Transformation
 
-**School** transmutation; **Level** sorcerer/wizard 6  
+**School** transmutation; **Level** alchemist 6, magus 6, occultist 6, psychic 6, sorcerer/wizard 6, spiritualist 6, witch 6  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a *potion of bull’s strength*, which you drink and whose effects are subsumed by the spell effects)  
 **Range** personal  

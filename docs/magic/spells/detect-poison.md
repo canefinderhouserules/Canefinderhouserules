@@ -1,6 +1,6 @@
 # Detect Poison
 
-**School** divination; **Level** cleric 0, druid 0, paladin 1, ranger 1, sorcerer/wizard 0  
+**School** divination; **Level** antipaladin 1, cleric 0, druid 0, inquisitor 0, mesmerist 0, occultist 0, paladin 1, psychic 0, ranger 1, shaman 0, sorcerer/wizard 0, witch 0  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

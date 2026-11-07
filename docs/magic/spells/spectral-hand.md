@@ -1,6 +1,6 @@
 # Spectral Hand
 
-**School** necromancy; **Level** sorcerer/wizard 2  
+**School** necromancy; **Level** medium 2, occultist 2, psychic 2, sorcerer/wizard 2, spiritualist 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

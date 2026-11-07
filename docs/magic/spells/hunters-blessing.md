@@ -1,6 +1,6 @@
 # Hunter’s Blessing
 
-**School** transmutation; **Level** cleric 5, druid 5, inquisitor 5  
+**School** transmutation; **Level** cleric 5, druid 5, inquisitor 5, shaman 5  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  

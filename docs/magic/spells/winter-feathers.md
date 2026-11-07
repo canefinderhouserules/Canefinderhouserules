@@ -1,6 +1,6 @@
 # Winter Feathers
 
-**School** abjuration; **Level** cleric 1, druid 1, inquisitor 1, ranger 1, sorcerer/wizard 1  
+**School** abjuration; **Level** bloodrager 1, cleric 1, druid 1, inquisitor 1, ranger 1, sorcerer/wizard 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

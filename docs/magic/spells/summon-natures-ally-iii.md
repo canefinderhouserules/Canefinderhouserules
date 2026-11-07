@@ -1,6 +1,6 @@
 # Summon Nature’s Ally III
 
-**School** conjuration (summoning) [see text]; **Level** druid 3, ranger 3  
+**School** conjuration (summoning) [see text]; **Level** druid 3, ranger 3, shaman 3  
 **Casting Time** 1 round  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  

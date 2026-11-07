@@ -1,6 +1,6 @@
 # Unprepared Combatant
 
-**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 1, sorcerer/wizard 1, witch 1  
+**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 1, medium 1, mesmerist 1, psychic 1, sorcerer/wizard 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

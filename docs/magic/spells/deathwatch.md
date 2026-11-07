@@ -1,6 +1,6 @@
 # Deathwatch
 
-**School** necromancy; **Level** cleric 1  
+**School** necromancy; **Level** cleric 1, medium 1, spiritualist 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** 30 ft.  

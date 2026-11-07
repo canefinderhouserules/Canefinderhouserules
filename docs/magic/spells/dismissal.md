@@ -1,6 +1,6 @@
 # Dismissal
 
-**School** abjuration; **Level** cleric 4, sorcerer/wizard 5  
+**School** abjuration; **Level** cleric 4, inquisitor 4, medium 4, occultist 4, psychic 5, shaman 4, sorcerer/wizard 5, spiritualist 5, summoner 4  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  

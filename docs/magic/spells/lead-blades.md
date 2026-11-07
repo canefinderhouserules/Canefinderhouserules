@@ -1,6 +1,6 @@
 # Lead Blades
 
-**School** transmutation; **Level** cleric 2, druid 1, oracle 2, ranger 1, warpriest 1  
+**School** transmutation; **Level** cleric 2, druid 1, occultist 1, oracle 2, ranger 1, warpriest 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal; touch for clerics and oracles  

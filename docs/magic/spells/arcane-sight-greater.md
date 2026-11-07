@@ -1,6 +1,6 @@
 # Arcane Sight, Greater
 
-**School** divination; **Level** sorcerer/wizard 7  
+**School** divination; **Level** psychic 7, sorcerer/wizard 7, witch 7  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

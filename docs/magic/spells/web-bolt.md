@@ -1,6 +1,6 @@
 # Web Bolt
 
-**School** conjuration (creation); **Level** magus 1, sorcerer/wizard 1, witch 1  
+**School** conjuration (creation); **Level** bloodrager 1, magus 1, sorcerer/wizard 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

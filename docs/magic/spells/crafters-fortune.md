@@ -1,6 +1,6 @@
 # Crafter’s Fortune
 
-**School** transmutation; **Level** alchemist 1, sorcerer/wizard 1  
+**School** transmutation; **Level** alchemist 1, occultist 1, sorcerer/wizard 1  
 **Casting Time** 1 standard action  
 **Components** V, S, F (a tool)  
 **Range** close (25 ft. + 5 ft./2 levels)  

@@ -1,6 +1,6 @@
 # Dust Form
 
-**School** transmutation (polymorph); **Level** alchemist 5, cleric 6, druid 6, witch 6  
+**School** transmutation (polymorph); **Level** alchemist 5, cleric 6, druid 6, psychic 6, witch 6  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a pinch of dust gathered from a gravestone or sacred shrine)  
 **Range** personal  

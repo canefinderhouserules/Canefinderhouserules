@@ -1,6 +1,6 @@
 # Acid Fog
 
-**School** conjuration (creation) [acid]; **Level** sorcerer/wizard 6  
+**School** conjuration (creation) [acid]; **Level** magus 6, sorcerer/wizard 6  
 **Casting Time** 1 standard action  
 **Components** V, S, M (powdered peas and an animal hoof)  
 **Range** medium (100 ft. + 10 ft./level)  

@@ -1,6 +1,6 @@
 # Spell Immunity, Greater Communal
 
-**School** abjuration; **Level** cleric 9  
+**School** abjuration; **Level** cleric 9, psychic 9  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Target** creatures touched  

@@ -1,6 +1,6 @@
 # Terraform
 
-**School** transmutation; **Level** cleric 7, druid 6, sorcerer/wizard 7, witch 7  
+**School** transmutation; **Level** cleric 7, druid 6, psychic 7, sorcerer/wizard 7, witch 7  
 **Casting Time** 1 hour  
 **Components** V, S, M (10,000 gp worth of precious minerals, see text)  
 **Range** 100 feet  

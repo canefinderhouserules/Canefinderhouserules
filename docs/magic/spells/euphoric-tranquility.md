@@ -1,6 +1,6 @@
 # Euphoric Tranquility
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 6, cleric 8, druid 8, sorcerer/wizard 8  
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 6, cleric 8, druid 8, mesmerist 6, psychic 8, sorcerer/wizard 8  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (a poppy flower)  
 **Range** touch  

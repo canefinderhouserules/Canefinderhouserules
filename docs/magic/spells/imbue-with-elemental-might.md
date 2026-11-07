@@ -1,6 +1,6 @@
 # Imbue with Elemental Might
 
-**School** evocation [see text]; **Level** cleric 2, magus 2, sorcerer/wizard 2  
+**School** evocation [see text]; **Level** bloodrager 2, cleric 2, magus 2, shaman 2, sorcerer/wizard 2  
 **Casting Time** 10 minutes  
 **Components** V, S  
 **Range** touch  

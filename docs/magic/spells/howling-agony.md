@@ -1,6 +1,6 @@
 # Howling Agony
 
-**School** necromancy [death, pain]; **Level** inquisitor 2, sorcerer/ wizard 3, witch 3  
+**School** necromancy [death, pain]; **Level** bloodrager 3, inquisitor 2, mesmerist 2, psychic 2, sorcerer/ wizard 3, spiritualist 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a needle and a dried eyeball)  
 **Range** close (25 ft. + 5 ft./2 levels)  

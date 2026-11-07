@@ -1,6 +1,6 @@
 # Stone Shield
 
-**School** conjuration (creation) [earth]; **Level** cleric 1, druid 1, magus 2, sorcerer/wizard 1, summoner 1  
+**School** conjuration (creation) [earth]; **Level** bloodrager 1, cleric 1, druid 1, magus 2, shaman 1, sorcerer/wizard 1, summoner 1  
 **Casting Time** 1 immediate action  
 **Components** V, S, DF  
 **Range** 0 ft.  

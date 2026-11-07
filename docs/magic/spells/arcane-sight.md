@@ -1,6 +1,6 @@
 # Arcane Sight
 
-**School** divination; **Level** sorcerer/wizard 3  
+**School** divination; **Level** alchemist 3, inquisitor 3, magus 3, occultist 3, psychic 3, sorcerer/wizard 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

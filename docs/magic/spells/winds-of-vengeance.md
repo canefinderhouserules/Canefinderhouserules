@@ -1,6 +1,6 @@
 # Winds of Vengeance
 
-**School** evocation [air]; **Level** cleric 9, druid 9, sorcerer/wizard 9  
+**School** evocation [air]; **Level** cleric 9, druid 9, shaman 9, sorcerer/wizard 9  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** personal  

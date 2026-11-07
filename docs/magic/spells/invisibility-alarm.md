@@ -1,6 +1,6 @@
 # Invisibility Alarm
 
-**School** abjuration; **Level** alchemist 1, bard 1, inquisitor 1, ranger 1, sorcerer/wizard 1  
+**School** abjuration; **Level** alchemist 1, bard 1, inquisitor 1, psychic 1, ranger 1, sorcerer/wizard 1  
 **Casting Time** 1 standard action  
 **Components** V, S, F/DF (a tiny bell and a piece of very fine silver wire)  
 **Range** close (25 ft. + 5 ft./2 levels)  

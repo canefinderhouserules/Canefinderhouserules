@@ -1,6 +1,6 @@
 # Alleviate Corruption
 
-**School** abjuration; **Level** cleric 6, psychic 6, shaman 6, spiritualist 6, witch 6  
+**School** abjuration; **Level** cleric 6, occultist 6, psychic 6, shaman 6, spiritualist 6, witch 6  
 **Casting Time** 1 minute  
 **Components** V, S, M (rare herbs, incense, and jewels worth 500 gp/the target’s character level or HD)  
 **Range** touch  

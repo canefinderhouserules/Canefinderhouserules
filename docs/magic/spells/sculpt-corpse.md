@@ -1,6 +1,6 @@
 # Sculpt Corpse
 
-**School** necromancy; **Level** sorcerer/wizard 1  
+**School** necromancy; **Level** occultist 1, sorcerer/wizard 1  
 **Casting Time** 1 standard action  
 **Components** V, S, M (lump of wax)  
 **Range** touch  

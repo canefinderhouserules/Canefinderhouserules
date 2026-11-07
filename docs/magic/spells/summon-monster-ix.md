@@ -1,6 +1,6 @@
 # Summon Monster IX
 
-**School** conjuration (summoning); **Level** cleric 9, sorcerer/wizard 9  
+**School** conjuration (summoning); **Level** cleric 9, psychic 9, sorcerer/wizard 9, witch 9  
 **Casting Time** 1 round  
 **Components** V, S, F/DF (a tiny bag and a small candle)  
 **Range** close (25 ft. + 5 ft./2 levels)  

@@ -1,6 +1,6 @@
 # Zone of Silence
 
-**School** illusion (glamer); **Level** bard 4  
+**School** illusion (glamer); **Level** bard 4, mesmerist 4  
 **Casting Time** 1 round  
 **Components** V, S  
 **Range** personal  

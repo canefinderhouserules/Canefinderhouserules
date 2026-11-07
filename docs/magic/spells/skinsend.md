@@ -1,6 +1,6 @@
 # Skinsend
 
-**School** necromancy; **Level** alchemist 2, sorcerer/wizard 2, witch 2  
+**School** necromancy; **Level** alchemist 2, occultist 2, psychic 2, sorcerer/wizard 2, witch 2  
 **Casting Time** 1 minute  
 **Components** V, S  
 **Range** personal  

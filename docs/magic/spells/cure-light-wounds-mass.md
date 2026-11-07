@@ -1,6 +1,6 @@
 # Cure Light Wounds, Mass
 
-**School** conjuration (healing); **Level** bard 5, cleric 5, druid 6  
+**School** conjuration (healing); **Level** bard 5, cleric 5, druid 6, inquisitor 5, occultist 5, shaman 5, witch 6  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

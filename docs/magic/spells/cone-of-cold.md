@@ -1,6 +1,6 @@
 # Cone of Cold
 
-**School** evocation [cold]; **Level** sorcerer/wizard 5  
+**School** evocation [cold]; **Level** magus 5, occultist 5, shaman 6, sorcerer/wizard 5, witch 6  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a small crystal or glass cone)  
 **Range** 60 ft.  

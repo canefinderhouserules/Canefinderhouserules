@@ -1,6 +1,6 @@
 # Deflection
 
-**School** abjuration [force]; **Level** sorcerer/wizard 7  
+**School** abjuration [force]; **Level** psychic 7, sorcerer/wizard 7  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a piece of rubber dipped in glue)  
 **Range** personal  

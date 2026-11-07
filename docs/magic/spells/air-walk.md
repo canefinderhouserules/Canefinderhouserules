@@ -1,6 +1,6 @@
 # Air Walk
 
-**School** transmutation [air]; **Level** cleric 4, druid 4  
+**School** transmutation [air]; **Level** alchemist 4, cleric 4, druid 4, occultist 4  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

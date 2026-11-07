@@ -1,6 +1,6 @@
 # Healing Thief
 
-**School** necromancy; **Level** sorcerer/wizard 3, witch 3  
+**School** necromancy; **Level** mesmerist 1, occultist 3, psychic 3, sorcerer/wizard 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a bit of sponge, damp with tears)  
 **Range** touch  

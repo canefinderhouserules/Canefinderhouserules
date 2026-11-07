@@ -1,6 +1,6 @@
 # Age Resistance
 
-**School** transmutation; **Level** alchemist 4, druid 6, sorcerer/ wizard 6, witch 6  
+**School** transmutation; **Level** alchemist 4, druid 6, occultist 4, psychic 6, sorcerer/ wizard 6, witch 6  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

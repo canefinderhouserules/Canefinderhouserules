@@ -1,6 +1,6 @@
 # Protection from Arrows
 
-**School** abjuration; **Level** sorcerer/wizard 2  
+**School** abjuration; **Level** alchemist 2, bloodrager 2, psychic 2, sorcerer/wizard 2, spiritualist 2, summoner 2  
 **Casting Time** 1 standard action  
 **Components** V, S, F (a piece of tortoiseshell or turtle shell)  
 **Range** touch  

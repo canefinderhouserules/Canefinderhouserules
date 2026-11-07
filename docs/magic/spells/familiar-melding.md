@@ -1,6 +1,6 @@
 # Familiar Melding
 
-**School** necromancy; **Level** sorcerer/wizard 4, witch 4  
+**School** necromancy; **Level** shaman 4, sorcerer/wizard 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

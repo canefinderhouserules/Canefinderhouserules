@@ -1,6 +1,6 @@
 # Hallow
 
-**School** evocation [good]; **Level** cleric 5, druid 5  
+**School** evocation [good]; **Level** cleric 5, druid 5, inquisitor 5  
 **Casting Time** 24 hours  
 **Components** V, S, M (herbs, oils, and incense worth at least 1,000 gp, plus 1,000 gp per level of the spell to be included in the *hallowed* area), DF  
 **Range** touch  

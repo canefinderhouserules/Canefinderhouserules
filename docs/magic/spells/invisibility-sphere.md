@@ -1,6 +1,6 @@
 # Invisibility Sphere
 
-**School** illusion (glamer); **Level** bard 3, sorcerer/wizard 3  
+**School** illusion (glamer); **Level** bard 3, mesmerist 3, occultist 3, psychic 3, sorcerer/wizard 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M  
 **Range** personal or touch  

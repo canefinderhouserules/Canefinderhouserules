@@ -1,6 +1,6 @@
 # Enemy Hammer
 
-**School** transmutation; **Level** sorcerer/wizard 6  
+**School** transmutation; **Level** occultist 6, psychic 6, sorcerer/wizard 6, spiritualist 6  
 **Casting Time** 1 standard action  
 **Components** V, S, M (puppet strings)  
 **Range** long (400 ft. + 40 ft./level)  

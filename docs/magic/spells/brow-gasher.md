@@ -1,6 +1,6 @@
 # Brow Gasher
 
-**School** necromancy; **Level** inquisitor 2, magus 2, ranger 2, sorcerer/wizard 2  
+**School** necromancy; **Level** bloodrager 2, inquisitor 2, magus 2, occultist 2, ranger 2, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

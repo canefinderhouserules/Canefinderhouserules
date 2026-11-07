@@ -1,6 +1,6 @@
 # Screen
 
-**School** illusion (glamer); **Level** sorcerer/wizard 8  
+**School** illusion (glamer); **Level** psychic 8, sorcerer/wizard 8  
 **Casting Time** 10 minutes  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

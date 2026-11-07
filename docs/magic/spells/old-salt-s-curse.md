@@ -1,6 +1,6 @@
 # Old Salt’s Curse
 
-**School** necromancy [curse]; **Level** druid 5, witch 5  
+**School** necromancy [curse]; **Level** druid 5, mesmerist 4, witch 5  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a flask of seawater)  
 **Range** touch  

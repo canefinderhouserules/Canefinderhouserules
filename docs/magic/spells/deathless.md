@@ -1,6 +1,6 @@
 # Deathless
 
-**School** necromancy; **Level** alchemist 4, cleric 4, inquisitor 4, sorcerer/wizard 4, witch 4  
+**School** necromancy; **Level** alchemist 4, cleric 4, inquisitor 4, medium 4, psychic 4, sorcerer/wizard 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

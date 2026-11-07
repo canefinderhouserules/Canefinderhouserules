@@ -1,6 +1,6 @@
 # Feast of Ashes
 
-**School** transmutation; **Level** druid 2, witch 2  
+**School** transmutation; **Level** druid 2, occultist 2, psychic 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a pinch of ash)  
 **Range** close (25 ft. + 5 ft/2 levels)  

@@ -1,6 +1,6 @@
 # Geyser
 
-**School** conjuration (creation) [fire, water]; **Level** druid 4, sorcerer/wizard 5  
+**School** conjuration (creation) [fire, water]; **Level** druid 4, magus 5, sorcerer/wizard 5  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (a piece of lava rock)  
 **Range** long (400 ft. + 40 ft./level)  

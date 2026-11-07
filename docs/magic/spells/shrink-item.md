@@ -1,6 +1,6 @@
 # Shrink Item
 
-**School** transmutation; **Level** sorcerer/wizard 3  
+**School** transmutation; **Level** occultist 3, psychic 3, sorcerer/wizard 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

@@ -1,6 +1,6 @@
 # Burrow
 
-**School** transmutation; **Level** alchemist 3, druid 3, ranger 3, sorcerer/wizard 3  
+**School** transmutation; **Level** alchemist 3, bloodrager 3, druid 3, ranger 3, sorcerer/wizard 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

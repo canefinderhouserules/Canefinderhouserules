@@ -1,6 +1,6 @@
 # Bless
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** cleric 1, paladin 1  
+**School** enchantment (compulsion) [mind-affecting]; **Level** cleric 1, inquisitor 1, paladin 1, shaman 1  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** 50 ft.  

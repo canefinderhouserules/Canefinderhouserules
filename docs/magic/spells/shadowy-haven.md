@@ -1,6 +1,6 @@
 # Shadowy Haven
 
-**School** transmutation; **Level** sorcerer/wizard 4  
+**School** transmutation; **Level** psychic 4, sorcerer/wizard 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a small black silk bag)  
 **Range** touch  

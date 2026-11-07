@@ -1,6 +1,6 @@
 # Poison
 
-**School** necromancy; **Level** cleric 4, druid 3  
+**School** necromancy; **Level** antipaladin 4, cleric 4, druid 3, mesmerist 4, occultist 4, shaman 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

@@ -1,6 +1,6 @@
 # Secret Chest
 
-**School** conjuration (summoning); **Level** sorcerer/wizard 5  
+**School** conjuration (summoning); **Level** mesmerist 5, occultist 5, psychic 5, sorcerer/wizard 5, spiritualist 5, witch 5  
 **Casting Time** 10 minutes  
 **Components** V, S, F (the chest and its replica)  
 **Range** see text  

@@ -1,6 +1,6 @@
 # Phantasmal Killer
 
-**School** illusion (phantasm) [fear, mind-affecting]; **Level** sorcerer/wizard 4  
+**School** illusion (phantasm) [fear, mind-affecting]; **Level** bloodrager 4, magus 4, medium 3, mesmerist 4, psychic 4, sorcerer/wizard 4, spiritualist 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

@@ -1,6 +1,6 @@
 # Breath of Life
 
-**School** conjuration (healing); **Level** cleric 5  
+**School** conjuration (healing); **Level** cleric 5, shaman 5, spiritualist 5  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

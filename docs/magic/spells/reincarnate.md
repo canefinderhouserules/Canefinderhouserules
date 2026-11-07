@@ -1,6 +1,6 @@
 # Reincarnate
 
-**School** transmutation; **Level** druid 4  
+**School** transmutation; **Level** druid 4, medium 4, shaman 4, witch 5  
 **Casting Time** 10 minutes  
 **Components** V, S, DF, M (oils worth 1,000 gp)  
 **Range** touch  

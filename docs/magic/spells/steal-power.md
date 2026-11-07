@@ -1,6 +1,6 @@
 # Steal Power
 
-**School** necromancy; **Level** cleric 5, sorcerer/wizard 5, witch 5  
+**School** necromancy; **Level** cleric 5, mesmerist 4, psychic 5, sorcerer/wizard 5, witch 5  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

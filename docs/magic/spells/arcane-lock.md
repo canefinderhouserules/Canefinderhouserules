@@ -1,6 +1,6 @@
 # Arcane Lock
 
-**School** abjuration; **Level** sorcerer/wizard 2  
+**School** abjuration; **Level** occultist 2, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M (gold dust worth 25 gp)  
 **Range** touch  

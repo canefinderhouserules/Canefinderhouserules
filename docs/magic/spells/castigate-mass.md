@@ -1,6 +1,6 @@
 # Castigate, Mass
 
-**School** enchantment (compulsion) [fear, language-dependent, mind-affecting]; **Level** inquisitor 5  
+**School** enchantment (compulsion) [fear, language-dependent, mind-affecting]; **Level** inquisitor 5, mesmerist 5  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** medium (100 ft. + 10 ft./level)  

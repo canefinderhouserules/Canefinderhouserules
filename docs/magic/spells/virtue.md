@@ -1,6 +1,6 @@
 # Virtue
 
-**School** transmutation; **Level** cleric 0, druid 0, paladin 1  
+**School** transmutation; **Level** cleric 0, druid 0, inquisitor 0, medium 0, paladin 1, psychic 0, shaman 0, spiritualist 0  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

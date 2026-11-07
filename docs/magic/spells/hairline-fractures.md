@@ -1,6 +1,6 @@
 # Hairline Fractures
 
-**School** transmutation [earth]; **Level** cleric 1, druid 1, witch 1  
+**School** transmutation [earth]; **Level** cleric 1, druid 1, shaman 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a broken twig)  
 **Range** touch  

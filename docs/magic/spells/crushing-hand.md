@@ -1,6 +1,6 @@
 # Crushing Hand
 
-**School** evocation [force]; **Level** sorcerer/wizard 9  
+**School** evocation [force]; **Level** psychic 9, sorcerer/wizard 9  
 **Casting Time** 1 standard action  
 **Components** V, S, F (a soft glove)  
 **Range** medium (100 ft. + 10 ft./level)  

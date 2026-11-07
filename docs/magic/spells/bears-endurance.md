@@ -1,6 +1,6 @@
 # Bear’s Endurance
 
-**School** transmutation; **Level** cleric 2, druid 2, ranger 2, sorcerer/wizard 2  
+**School** transmutation; **Level** alchemist 2, bloodrager 2, cleric 2, druid 2, magus 2, medium 2, psychic 2, ranger 2, shaman 2, sorcerer/wizard 2, summoner 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (a few hairs, or a pinch of dung, from a bear)  
 **Range** touch  

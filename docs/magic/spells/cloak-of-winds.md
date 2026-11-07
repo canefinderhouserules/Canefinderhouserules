@@ -1,6 +1,6 @@
 # Cloak of Winds
 
-**School** abjuration [air]; **Level** druid 3, ranger 3, sorcerer/ wizard 3  
+**School** abjuration [air]; **Level** bloodrager 3, druid 3, magus 3, occultist 3, ranger 3, sorcerer/ wizard 3, spiritualist 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

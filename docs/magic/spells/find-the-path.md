@@ -1,6 +1,6 @@
 # Find the Path
 
-**School** divination; **Level** bard 6, cleric 6, druid 6  
+**School** divination; **Level** bard 6, cleric 6, druid 6, inquisitor 6, occultist 6, psychic 6, shaman 6, spiritualist 6, witch 6  
 **Casting Time** 3 rounds  
 **Components** V, S, F (a set of divination counters)  
 **Range** personal or touch  

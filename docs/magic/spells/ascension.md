@@ -1,6 +1,6 @@
 # Ascension
 
-**School** universal; **Level** cleric 9, druid 9, sorcerer/wizard 9, witch 9  
+**School** universal; **Level** cleric 9, druid 9, psychic 9, sorcerer/wizard 9, witch 9  
 **Casting Time** 1 hour  
 **Components** V, S, F (minor artifact), M (10,000 gp in rare herbs, gems, and other exotic materials)  
 **Range** close (25 ft. + 5 ft./2 levels)  

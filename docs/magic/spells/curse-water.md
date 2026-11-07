@@ -1,6 +1,6 @@
 # Curse Water
 
-**School** necromancy [evil];**Level** cleric 1  
+**School** necromancy [evil];**Level** antipaladin 1, cleric 1, inquisitor 1  
 **Casting Time** 1 minute  
 **Components** V, S, M (5 lbs. of powdered silver worth 25 gp)  
 **Range** touch  

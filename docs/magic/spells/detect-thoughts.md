@@ -1,6 +1,6 @@
 # Detect Thoughts
 
-**School** divination [mind-affecting]; **Level** bard 2, sorcerer/wizard 2  
+**School** divination [mind-affecting]; **Level** alchemist 2, bard 2, inquisitor 2, medium 2, mesmerist 2, psychic 1, sorcerer/wizard 2, spiritualist 2, summoner 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S, F/DF (a copper piece)  
 **Range** 60 ft.  

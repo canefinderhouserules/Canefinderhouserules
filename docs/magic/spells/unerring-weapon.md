@@ -1,6 +1,6 @@
 # Unerring Weapon
 
-**School** transmutation; **Level** inquisitor 1, magus 1, sorcerer/ wizard 1, witch 1  
+**School** transmutation; **Level** bloodrager 1, inquisitor 1, magus 1, medium 1, occultist 2, psychic 1, sorcerer/ wizard 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

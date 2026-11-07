@@ -1,6 +1,6 @@
 # Symbol of Mirroring
 
-**School** illusion (figment); **Level** sorcerer/wizard 2, witch 2  
+**School** illusion (figment); **Level** mesmerist 2, occultist 2, sorcerer/wizard 2, witch 2  
 **Casting Time** 10 minutes  
 **Components** V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 100 gp)  
 **Range** 0 ft.; see text  

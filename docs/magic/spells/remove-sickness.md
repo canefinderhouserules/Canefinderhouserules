@@ -1,6 +1,6 @@
 # Remove Sickness
 
-**School** conjuration (healing); **Level** cleric 1, druid 1, witch 1  
+**School** conjuration (healing); **Level** cleric 1, druid 1, mesmerist 1, spiritualist 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

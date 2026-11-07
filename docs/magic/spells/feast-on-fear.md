@@ -1,6 +1,6 @@
 # Feast on Fear
 
-**School** necromancy [emotion, fear, mind-affecting]; **Level** bard 4, shaman 5, sorcerer/wizard 5, witch 5  
+**School** necromancy [emotion, fear, mind-affecting]; **Level** bard 4, mesmerist 4, psychic 5, shaman 5, sorcerer/wizard 5, spiritualist 5, witch 5  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

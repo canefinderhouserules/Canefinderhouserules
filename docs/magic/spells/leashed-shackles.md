@@ -1,6 +1,6 @@
 # Leashed Shackles
 
-**School** evocation [force]; **Level** inquisitor 4, sorcerer/wizard 6  
+**School** evocation [force]; **Level** inquisitor 4, psychic 6, sorcerer/wizard 6, spiritualist 6  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. +10 ft./level)  

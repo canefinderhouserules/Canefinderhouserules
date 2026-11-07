@@ -1,6 +1,6 @@
 # Sky Swim
 
-**School** transmutation [air]; **Level** cleric 3, druid 3, witch 3  
+**School** transmutation [air]; **Level** bloodrager 3, cleric 3, druid 3, shaman 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

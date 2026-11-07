@@ -1,6 +1,6 @@
 # Returning Weapon
 
-**School** conjuration (teleportation); **Level** bard 2, cleric 2, inquisitor 1, magus 1, ranger 1, sorcerer/wizard 2, witch 2  
+**School** conjuration (teleportation); **Level** bard 2, bloodrager 1, cleric 2, inquisitor 1, magus 1, occultist 1, psychic 2, ranger 1, sorcerer/wizard 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

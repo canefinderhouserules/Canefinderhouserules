@@ -1,6 +1,6 @@
 # Planar Binding
 
-**School** conjuration (calling) [see text for *lesser planar binding*]; **Level** sorcerer/wizard 6  
+**School** conjuration (calling) [see text for *lesser planar binding*]; **Level** occultist 6, psychic 6, sorcerer/wizard 6, summoner 5  
 **Casting Time** 10 minutes  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

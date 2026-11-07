@@ -1,6 +1,6 @@
 # Scrying
 
-**School** divination (scrying); **Level** bard 3, cleric 5, druid 4, sorcerer/wizard 4  
+**School** divination (scrying); **Level** bard 3, cleric 5, druid 4, medium 3, mesmerist 3, occultist 4, psychic 4, shaman 4, sorcerer/wizard 4, spiritualist 5, witch 4  
 **Casting Time** 1 hour  
 **Components** V, S, M/DF (a pool of water), F (a silver mirror worth 1,000 gp)  
 **Range** see text  

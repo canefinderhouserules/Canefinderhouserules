@@ -1,6 +1,6 @@
 # Sunder Breaker
 
-**School** abjuration [force]; **Level** magus 1, sorcerer/wizard 1  
+**School** abjuration [force]; **Level** magus 1, psychic 1, sorcerer/wizard 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

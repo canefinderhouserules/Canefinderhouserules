@@ -1,6 +1,6 @@
 # Calm Emotions
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, cleric 2  
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, cleric 2, inquisitor 2, mesmerist 2, occultist 2, psychic 2, shaman 2  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** medium (100 ft. + 10 ft./level)  

@@ -1,6 +1,6 @@
 # Coordinated Effort
 
-**School** divination; **Level** bard 3, inquisitor 3  
+**School** divination; **Level** bard 3, inquisitor 3, psychic 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

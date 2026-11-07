@@ -1,6 +1,6 @@
 # Animal Trance
 
-**School** enchantment (compulsion) [mind-affecting, sonic]; **Level** bard 2, druid 2  
+**School** enchantment (compulsion) [mind-affecting, sonic]; **Level** bard 2, druid 2, mesmerist 2, psychic 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

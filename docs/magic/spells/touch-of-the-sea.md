@@ -1,6 +1,6 @@
 # Touch of the Sea
 
-**School** transmutation; **Level** alchemist 1, druid 1, sorcerer/wizard 1  
+**School** transmutation; **Level** alchemist 1, bloodrager 1, druid 1, sorcerer/wizard 1  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a fish scale)  
 **Range** touch  

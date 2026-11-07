@@ -1,6 +1,6 @@
 # Daze, Mass
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 4, inquisitor 4, sorcerer/wizard 4, summoner 4, witch 4  
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 4, inquisitor 4, medium 3, mesmerist 4, occultist 4, psychic 3, sorcerer/wizard 4, summoner 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

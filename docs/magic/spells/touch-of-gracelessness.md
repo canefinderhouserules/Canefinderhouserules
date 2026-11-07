@@ -1,6 +1,6 @@
 # Touch of Gracelessness
 
-**School** transmutation; **Level** bard 1, sorcerer/wizard 1  
+**School** transmutation; **Level** bard 1, bloodrager 1, mesmerist 1, sorcerer/wizard 1, spiritualist 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

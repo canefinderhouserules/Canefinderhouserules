@@ -1,6 +1,6 @@
 # Buoyancy
 
-**School** transmutation; **Level** bard 2, shaman 2, sorcerer/wizard 2, witch 2  
+**School** transmutation; **Level** bard 2, psychic 2, shaman 2, sorcerer/wizard 2, witch 2  
 **Casting Time** 1 immediate action  
 **Components** V  
 **Range** close (25 ft. + 5 ft./2 levels)  

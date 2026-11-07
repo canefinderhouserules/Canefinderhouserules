@@ -1,6 +1,6 @@
 # Chain Lightning
 
-**School** evocation [electricity]; **Level** sorcerer/wizard 6  
+**School** evocation [electricity]; **Level** magus 6, occultist 6, sorcerer/wizard 6, witch 7  
 **Casting Time** 1 standard action  
 **Components** V, S, F (a bit of fur; a piece of amber, glass, or a crystal rod; plus one silver pin per caster level)  
 **Range** long (400 ft. + 40 ft./level)  

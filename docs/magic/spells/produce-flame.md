@@ -1,6 +1,6 @@
 # Produce Flame
 
-**School** evocation [fire]; **Level** druid 1  
+**School** evocation [fire]; **Level** druid 1, shaman 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** 0 ft.  

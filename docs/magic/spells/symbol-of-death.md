@@ -1,6 +1,6 @@
 # Symbol of Death
 
-**School** necromancy [death]; **Level** cleric 8, sorcerer/wizard 8  
+**School** necromancy [death]; **Level** cleric 8, occultist 6, sorcerer/wizard 8, witch 8  
 **Casting Time** 10 minutes  
 **Components** V, S, M (mercury and phosphorus, plus powdered diamond and opal worth 5,000 gp each)  
 **Range** 0 ft.; see text  

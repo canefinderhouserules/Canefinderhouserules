@@ -1,6 +1,6 @@
 # Innocence
 
-**School** transmutation; **Level** bard 1  
+**School** transmutation; **Level** bard 1, mesmerist 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

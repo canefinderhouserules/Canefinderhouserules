@@ -1,6 +1,6 @@
 # Volcanic Storm
 
-**School** evocation [fire]; **Level** druid 4, sorcerer/wizard 4, witch 4  
+**School** evocation [fire]; **Level** bloodrager 4, druid 4, sorcerer/wizard 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (obsidian and ash)  
 **Range** long (400 ft. + 40 ft./level)  

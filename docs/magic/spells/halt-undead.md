@@ -1,6 +1,6 @@
 # Halt Undead
 
-**School** necromancy; **Level** sorcerer/wizard 3  
+**School** necromancy; **Level** inquisitor 3, sorcerer/wizard 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a pinch of sulfur and powdered garlic)  
 **Range** medium (100 ft. + 10 ft./level)  

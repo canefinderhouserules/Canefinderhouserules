@@ -1,6 +1,6 @@
 # Minor Dream
 
-**School** illusion (figment) [mind-affecting]; **Level** alchemist 2, bard 3, sorcerer/wizard 3, witch 2  
+**School** illusion (figment) [mind-affecting]; **Level** alchemist 2, bard 3, medium 2, mesmerist 3, psychic 3, sorcerer/wizard 3, witch 2  
 **Casting Time** 1 minute  
 **Components** V, S  
 **Range** unlimited  

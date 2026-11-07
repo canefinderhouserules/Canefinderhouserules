@@ -1,6 +1,6 @@
 # Darkvision
 
-**School** transmutation; **Level** ranger 3, sorcerer/wizard 2  
+**School** transmutation; **Level** alchemist 2, antipaladin 2, medium 2, occultist 2, psychic 2, ranger 3, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M (either a pinch of dried carrot or an agate)  
 **Range** touch  

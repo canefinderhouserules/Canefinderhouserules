@@ -1,11 +1,26 @@
 # Magus Spells
 
-The magus class spell list appears on the [Magus](../../characters/classes/magus.md) page. These are the additional magus spells from *Ultimate Magic*. An M or F after a name marks a material or focus component not normally included in a spell component pouch.
+Magus spells. An M or F after a name marks a material or focus component not normally included in a spell component pouch.
 
 ## 0-Level Magus Spells
 
+- **[Acid Splash](acid-splash.md)**: Orb deals 1d3 acid damage.
+- **[Arcane Mark](arcane-mark.md)**: Inscribes a personal rune on an object or creature (visible or invisible).
+- **[Dancing Lights](dancing-lights.md)**: Creates torches or other lights.
+- **[Daze](daze.md)**: Humanoid creature of 4 HD or less loses next action.
 - **[Detect Fiendish Presence](detect-fiendish-presence.md)**: Detects evil outsiders and their servants.
+- **[Detect Magic](detect-magic.md)**: Detects spells and magic items within 60 ft.
+- **[Disrupt Undead](disrupt-undead.md)**: Deals 1d6 damage to one undead.
+- **[Flare](flare.md)**: Dazzles one creature (–1 on attack rolls).
+- **[Ghost Sound](ghost-sound.md)**: Figment sounds.
 - **[Grasp](grasp.md)**: Reattempt a failed Climb check to avoid falling.
+- **[Light](light.md)**: Object shines like a torch.
+- **[Mage Hand](mage-hand.md)**: 5-pound telekinesis.
+- **[Open/Close](open-close.md)**: Opens or closes small or light things.
+- **[Prestidigitation](prestidigitation.md)**: Performs minor tricks.
+- **[Ray of Frost](ray-of-frost.md)**: Ray deals 1d3 cold damage.
+- **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
+- **[Spark](spark.md)**: Ignites flammable objects.
 
 ## 1st-Level Magus Spells
 
@@ -17,66 +32,90 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Blade Tutor's Spirit](blade-tutors-spirit.md)**: Reduces penalties on your melee attacks.
 - **[Blend](blend.md)**: You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to.
 - **[Blood Money](blood-money.md)**: Your blood becomes a material component for your next spell.
-- **[Blurred Movement](blurred-movement.md)**: This spell functions as blur, except that the blurring occurs only when you move at least 10 feet on your turn and…
+- **[Blurred Movement](blurred-movement.md)**: As blur, but only while you are moving.
+- **[Burning Hands](burning-hands.md)**: 1d4/level fire damage (max 5d4).
 - **[Call Weapon](call-weapon.md)**: Pull an ally’s weapon into your hand.
 - **[Celestial Healing](celestial-healing.md)**: Target gains fast healing 1.
+- **[Chill Touch](chill-touch.md)**: One touch/level deals 1d6 damage and possibly 1 Str damage.
 - **[Clarion Call](clarion-call.md)**: Creates a horn blast and a booming voice.
 - **[Coin Shot](coin-shot.md)**: Turns coins into bullets.
+- **[Color Spray](color-spray.md)**: Knocks unconscious, blinds, and/or stuns weak creatures.
 - **[Corrosive Touch](corrosive-touch.md)**: Touch attack deals 1d4 acid/level.
 - **[Dancing Darkness](dancing-darkness.md)**: up to four spheres of moving darkness
 - **[Darting Duplicate](darting-duplicate.md)**: Illusory duplicate baits attacks of opportunity.
 - **[Desperate Weapon](desperate-weapon.md)**: Create an improvised weapon.
-- **[Disguise Weapon](disguise-weapon.md)**: You make one manufactured weapon look like a different manufactured weapon of the same size and relative encumbrance…
+- **[Disguise Weapon](disguise-weapon.md)**: Changes one weapon’s appearance.
 - **[Duelist’s Parry](duelists-parry.md)**: Parry a melee attack as an immediate action.
 - **[Effortless Armor](effortless-armor.md)**: Armor you wear no longer slows your speed.
 - **[Emblazon Crest](emblazon-crest.md)**: Displays a crest on worn tabards and shields.
+- **[Enlarge Person](enlarge-person.md)**: Humanoid creature doubles in size.
 - **[Enlarge Tail](enlarge-tail.md)**: Your tail gains reach and a bonus to attack and damage.
+- **[Expeditious Retreat](expeditious-retreat.md)**: Your base land speed increases by 30 ft.
 - **[Fallback Strategy](fallback-strategy.md)**: Reroll one attack, maneuver, or skill check.
+- **[Feather Fall](feather-fall.md)**: Objects or creatures fall slowly.
+- **[Flare Burst](flare-burst.md)**: As
+- **[Floating Disk](floating-disk.md)**: Creates 3-ft.-diameter horizontal disk that holds 100 lbs./level.
 - **[Frostbite](frostbite.md)**: Target takes cold damage and is fatigued.
 - **[Glue Seal](glue-seal.md)**: You cover a solid surface with a layer of sticky glue.
+- **[Grease](grease.md)**: Makes 10-ft. square or one object slippery.
 - **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Hide Weapon](hide-weapon.md)**: Meld a weapon into your arm.
 - **[Hobble](hobble.md)**: Halve the movement speed of several creatures
+- **[Hydraulic Push](hydraulic-push.md)**: Wave of water bull rushes an enemy.
 - **[Illusion of Calm](illusion-of-calm.md)**: You appear to be standing still, even when you take some actions.
 - **[Infernal Healing](infernal-healing.md)**: Devil’s blood or unholy water grants fast healing 1 for 1 minute.
 - **[Ironbeard](ironbeard.md)**: School transmutation; Level antipaladin 1, cleric 1, magus 1, paladin 1, ranger 1 Casting Time 1 standard.
+- **[Jump](jump.md)**: Subject gets bonus on Acrobatics checks.
 - **[Jury-Rig](jury-rig.md)**: Removes the broken condition from the targeted object.
 - **[Keep Watch](keep-watch.md)**: Lets subjects keep watch all night yet gain a full rest.
-- **[Kreighton’s Perusal](kreightons-perusal.md)**: You gain a brief but incomplete understanding of one book’s contents, equivalent to having skimmed its pages f…
+- **[Kreighton’s Perusal](kreightons-perusal.md)**: Gain a brief understanding from a book as if you had read it for 1 hour.
 - **[Lighten Object](lighten-object.md)**: Halve an object’s weight.
 - **[Line in the Sand](line-in-the-sand.md)**: You create a glowing crimson line around the area.
 - **[Linebreaker](linebreaker.md)**: You gain a +20 foot bonus to your base speed when charging and a +2 bonus on combat maneuver checks made to.
 - **[Lock Gaze](lock-gaze.md)**: Compels the target to look only at you for the duration of the spell.
 - **[Long Arm](long-arm.md)**: Your arms temporarily grow in length, increasing your reach with those limbs by 5 feet.
 - **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
+- **[Magic Missile](magic-missile.md)**: 1d4+1 damage; +1 missile per two levels above 1st (max 5).
+- **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
 - **[Mirror Strike](mirror-strike.md)**: You may strike multiple opponents with a single attack.
 - **[Monkey Fish](monkey-fish.md)**: Your hands and feet alter to make you better at climbing and swimming.
+- **[Mount](mount.md)**: Summons riding horse for 2 hours/level.
 - **[Mudball](mudball.md)**: When you cast this spell, you conjure a single ball of sticky mud and launch it at an enemy’s face as a.
 - **[Negative Reaction](negative-reaction.md)**: Targeted creature may not positively influence anyone.
+- **[Obscuring Mist](obscuring-mist.md)**: Fog surrounds you.
 - **[Pesh Vigor](pesh-vigor.md)**: Target gains a Strength bonus it can push higher at a cost.
 - **[Phantom Blood](phantom-blood.md)**: You bolster your life energy.
 - **[Poisoned Egg](poisoned-egg.md)**: Turn an egg into a dose of poison.
 - **[Punishing Armor](punishing-armor.md)**: Reflects nonlethal damage back at attackers.
+- **[Ray of Enfeeblement](ray-of-enfeeblement.md)**: Ray causes 1d6 Str penalty + 1 per 2 levels.
 - **[Recharge Innate Magic](recharge-innate-magic.md)**: You channel magic energy into your own aura, recharging your innate magic abilities.
+- **[Reduce Person](reduce-person.md)**: Humanoid creature halves in size.
 - **[Reinforce Armaments](reinforce-armaments.md)**: Temporarily mitigates the fragile quality in targeted weapon or armor.
 - **[Returning Weapon](returning-weapon.md)**: Grants a weapon the returning special weapon quality.
 - **[Scholar’s Perusal](scholars-perusal.md)**: Instantly skim a book’s contents as if read for 1 hour.
 - **[Secluded Grimoire](secluded-grimoire.md)**: Hide your spellbook on the Ethereal Plane.
+- **[Shield](shield.md)**: Invisible disc gives +4 to AC, blocks
 - **[Shock Shield](shock-shield.md)**: A shield of force protects you until you dismiss it in an explosion of electricity.
+- **[Shocking Grasp](shocking-grasp.md)**: Touch delivers 1d6/level electricity damage (max 5d6).
+- **[Silent Image](silent-image.md)**: Creates minor illusion of your design.
 - **[Skim](skim.md)**: read in a quarter of the time
 - **[Snowball](snowball.md)**: Throw a conjured ball of snow at a target.
 - **[Spiked Armor](spiked-armor.md)**: A suit of metal armor or shield sprouts spikes that hurt natural attackers.
+- **[Stone Fist](stone-fist.md)**: Your unarmed strikes are lethal.
 - **[Sunder Breaker](sunder-breaker.md)**: You place an invisible ward upon the target.
 - **[Sundering Shards](sundering-shards.md)**: You channel power into a melee weapon.
 - **[Swift Girding](swift-girding.md)**: Instantly clads willing targets in chosen armor.
 - **[Tamer’s Lash](tamers-lash.md)**: Create a whip made of sound that damages foes and can frighten animals.
 - **[Thunder Arrow](thunder-arrow.md)**: Electric arrow that attacks or signals.
-- **[Thunderstomp](thunderstomp.md)**: You stomp your foot or strike your weapon against the ground or floor, creating a ripple of power that you can use…
+- **[Thunderstomp](thunderstomp.md)**: Trip one creature within range.
 - **[Touch of Combustion](touch-of-combustion.md)**: Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6.
 - **[True Skill](true-skill.md)**: Gain an insight bonus on your next check with a chosen skill.
+- **[True Strike](true-strike.md)**: +20 on your next attack roll.
 - **[Unerring Weapon](unerring-weapon.md)**: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
+- **[Unseen Servant](unseen-servant.md)**: Invisible force obeys your commands.
+- **[Vanish](vanish.md)**: As
 - **[Velvet Diplomacy](velvet-diplomacy.md)**: Intimidate a target into friendliness and cloud its memory of the threats.
-- **[Warding Weapon](warding-weapon.md)**
+- **[Warding Weapon](warding-weapon.md)**: The weapon you use for the focus of this spell defends you, allowing you to cast spells without provoking attacks of opportunity.
 - **[Waterproof](waterproof.md)**: Renders an object or creature’s gear waterproof.
 - **[Wave Shield](wave-shield.md)**: Water blunts one incoming attack or fire effect.
 - **[Weaponwand](weaponwand.md)**: Merge a wand with a weapon to wield both.
@@ -86,40 +125,54 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 ## 2nd-Level Magus Spells
 
 - **[Ablative Barrier](ablative-barrier.md)**: Surrounds the target with layers of force.
-- **[Aggressive Thundercloud](aggressive-thundercloud.md)**: A crackling, spherical storm cloud flies in whichever direction you point and deals electricity damage to those it…
+- **[Acid Arrow](acid-arrow.md)**: Ranged touch attack; 2d4 damage for 1 round + 1 round/three levels.
+- **[Aggressive Thundercloud](aggressive-thundercloud.md)**: Flying storm cloud deals 3d6 electricity damage.
+- **[Alter Self](alter-self.md)**: Assume form of a Small or Medium humanoid.
 - **[Animal Aspect](animal-aspect.md)**: You gain some of the beneficial qualities of an animal.
 - **[Anticipate Thoughts](anticipate-thoughts.md)**: Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.
 - **[Arcane Disruption](arcane-disruption.md)**: Subject must make concentration checks to use arcane magic.
 - **[Armor Lock](armor-lock.md)**: Stiffens armor joints, staggering or entangling the target.
 - **[Assumed Likeness](assumed-likeness.md)**: You appear as someone each target feels strongly about.
+- **[Bear’s Endurance](bears-endurance.md)**: Subject gains +4 to Con for 1 min./level.
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
 - **[Bladed Dash](bladed-dash.md)**: Dash 30 feet and attack one foe along the way.
 - **[Blood Blaze](blood-blaze.md)**: School transmutation [fire]; Level alchemist 2, antipaladin 1, cleric 2, magus 2, sorcerer/wizard 2, witch 2.
 - **[Blood Transcription](blood-transcription.md)**: Learn a spell from the target’s blood.
+- **[Blur](blur.md)**: Attacks miss subject 20% of the time.
 - **[Body Double](body-double.md)**: Two creatures look alike; attacks may hit the wrong one.
 - **[Brow Gasher](brow-gasher.md)**: Slashing weapon deals bleed damage to an opponent’s head.
+- **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
+- **[Burning Gaze](burning-gaze.md)**: Inflict 1d6 fire damage to creature by looking at it.
+- **[Cat’s Grace](cats-grace.md)**: Subject gains +4 to Dex for 1 min./level.
 - **[Cauterizing Weapon](cauterizing-weapon.md)**: Weapon or ammunition overcomes regeneration.
 - **[Contest of Skill](contest-of-skill.md)**: Target’s critical threats fail to confirm.
+- **[Darkness](darkness.md)**: 20-ft. radius of supernatural shadow.
 - **[Debasing Touch](debasing-touch.md)**: Target's touch turns coins to copper.
 - **[Defending Bone](defending-bone.md)**: Floating bone grants DR 5/bludgeoning.
 - **[Defensive Shock](defensive-shock.md)**: Electricity damages your attackers.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
 - **[Diminish Resistance](diminish-resistance.md)**: Weaken a creature’s resistance to one energy type.
 - **[Duelist’s Alacrity](duelists-alacrity.md)**: Faster, with fancy footwork.
+- **[Elemental Touch](elemental-touch.md)**: Gain energy damage touch attack.
 - **[Erode Defenses](erode-defenses.md)**: Target's DR and natural armor wear away.
 - **[Escaping Ward](escaping-ward.md)**: This ward grants you extra maneuverability when you avoid attacks against larger foes.
 - **[Euphoric Cloud](euphoric-cloud.md)**: You create a bank of fog similar to that created by fog cloud except its vapors are intoxicating.
-- **[Extreme Flexibility](extreme-flexibility.md)**: You gain a +1 dodge bonus to AC, a +4 circumstance bonus on Escape Artist checks and combat maneuver checks to…
+- **[Extreme Flexibility](extreme-flexibility.md)**: Gain a bonus to AC, on Escape Artist checks, and when grappling.
 - **[Fiery Runes](fiery-runes.md)**: Weapon rune deals fire damage when discharged.
-- **[Fire’s Friend](fires-friend.md)**: You cloak yourself in flames that do not harm you or your carried equipment but damage other creatures and obj…
+- **[Fire Breath](fire-breath.md)**: Exhale a cone of flame at will.
+- **[Fire’s Friend](fires-friend.md)**: Harmless flames cloak you and burn creatures and objects that touch you.
+- **[Flaming Sphere](flaming-sphere.md)**: Rolling ball of fire deals 3d6 fire damage.
 - **[Fleeting Defect](fleeting-defect.md)**: An object temporarily gains the broken condition.
 - **[Flickering Lights](flickering-lights.md)**: Create an area of inconsistent lighting.
 - **[Flurry of Snowballs](flurry-of-snowballs.md)**: Cone of snowballs dealing 4d6 cold damage.
+- **[Fog Cloud](fog-cloud.md)**: Fog obscures vision.
 - **[Force Anchor](force-anchor.md)**: Force anchor hinders a target's movement
 - **[Force Sword](force-sword.md)**: Create a longsword of pure force.
 - **[Frigid Touch](frigid-touch.md)**: Target takes cold damage and is staggered.
 - **[Ghost Whip](ghost-whip.md)**: Create a ghost touch whip that passes through objects.
+- **[Glitterdust](glitterdust.md)**: Blinds creatures, outlines invisible creatures.
 - **[Groundswell](groundswell.md)**: School transmutation [earth]; Level cleric 2, druid 2, magus 2, ranger 2 Casting Time 1 standard action.
+- **[Gust of Wind](gust-of-wind.md)**: Blows away or knocks down smaller creatures.
 - **[Gusting Sphere](gusting-sphere.md)**: School evocation [air]; Level druid 2, magus 2, sorcerer/wizard 2 Casting Time 1 standard action Components V.
 - **[Hidden Blades](hidden-blades.md)**: Weapon becomes invisible and easy to conceal.
 - **[Hollow Blades](hollow-blades.md)**: Target's melee damage drops one size.
@@ -127,81 +180,113 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Ice Slick](ice-slick.md)**: Coat the area in slippery ice and cold damage
 - **[Imbue with Elemental Might](imbue-with-elemental-might.md)**: School evocation [see text]; Level cleric 2, magus 2, sorcerer/wizard 2 Components V, S Duration 24 hours or.
 - **[Instant Weapon](instant-weapon.md)**: Create a masterwork melee weapon of force.
-- **[Invisibility Bubble](invisibility-bubble.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
+- **[Invisibility](invisibility.md)**: Subject is invisible for 1 min./level or until it attacks.
+- **[Invisibility Bubble](invisibility-bubble.md)**: As invisibility, but altered to work better underwater.
 - **[Knell of the Depths](knell-of-the-depths.md)**: Curse: the target sinks in water.
+- **[Levitate](levitate.md)**: Subject moves up and down at your direction.
 - **[Light Prison](light-prison.md)**: Cage of light damages and blinds those who leave it.
+- **[Minor Image](minor-image.md)**: As
+- **[Mirror Image](mirror-image.md)**: Creates decoy duplicates of you (1d4 + 1 per three levels, max 8).
 - **[Molten Orb](molten-orb.md)**: You create a fist-sized, red-hot ball of molten metal that you immediately hurl as a splash weapon.
 - **[Mount, Communal](mount-communal.md)**: As mount, but you may divide the duration among creatures touched.
 - **[Page-Bound Epiphany](page-bound-epiphany.md)**: Study magical notes for up to +10 on one Knowledge check.
 - **[Pilfering Hand](pilfering-hand.md)**: You may seize an object or manipulate it from afar.
 - **[Pouncing Fury](pouncing-fury.md)**: Make a full attack with your claws after a charge.
+- **[Pyrotechnics](pyrotechnics.md)**: Turns fire into blinding light or choking smoke.
 - **[Quick Change](quick-change.md)**: Use change shape as a swift action and surprise foes.
 - **[Quick Throwing](quick-throwing.md)**: Targets draw thrown weapons freely and make full attacks with them.
 - **[Raven's Flight](ravens-flight.md)**: Become a Tiny raven shape with fly speed 50 ft. for one turn.
 - **[Reinforce Armaments, Communal](reinforce-armaments-communal.md)**: As reinforce armaments, but you may divide the duration among objects touched.
 - **[Reloading Hands](reloading-hands.md)**: Loads a single shot into your weapon every round.
 - **[Returning Weapon, Communal](returning-weapon-communal.md)**: As returning weapon, but you may divide the duration among weapons touched.
-- **[River Whip](river-whip.md)**: You create a coil of flowing fresh water, functioning a whip appropriate for your size, except you make a melee…
+- **[River Whip](river-whip.md)**: Create a whip of water that you wield as a weapon.
 - **[Rock Whip](rock-whip.md)**: Whip of stone ignores stone cover and bull rushes foes it hits.
 - **[Savage Maw](savage-maw.md)**: Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs.
+- **[Scorching Ray](scorching-ray.md)**: Ranged touch attack deals 4d6 fire damage, + 1 ray/four levels (max 3).
 - **[Shadow Claws](shadow-claws.md)**: Gain shadow claws that damage Strength
 - **[Shared Training](shared-training.md)**: grant a teamwork feat to allies
+- **[Shatter](shatter.md)**: Sonic vibration damages objects or crystalline creatures.
 - **[Shield of Shards](shield-of-shards.md)**: Your shield breaks into orbiting shards that attack.
 - **[Shifted Steps](shifted-steps.md)**: Make a target sound as if elsewhere.
 - **[Slick Walls](slick-walls.md)**: Walls and ceilings become much harder to climb.
 - **[Sonic Scream](sonic-scream.md)**: Up to three times during this spell’s duration, you can emit a cone of powerful sound as a standard action.
+- **[Spider Climb](spider-climb.md)**: Grants ability to walk on walls and ceilings.
 - **[Splinter Spell Resistance](splinter-spell-resistance.md)**: Your weapon lowers a foe's spell resistance by 5.
+- **[Stone Call](stone-call.md)**: 2d6 damage to all creatures in area.
+- **[Stone Discus](stone-discus.md)**: Flying discus deals bludgeoning or slashing damage.
 - **[Stone Shield](stone-shield.md)**: A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of.
 - **[Stone Throwing](stone-throwing.md)**: Subject can throw and catch rocks.
 - **[Storm of Blades](storm-of-blades.md)**: Hurls magical swords at a target.
 - **[Tactical Acumen](tactical-acumen.md)**: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
-- **[Telekinetic Assembly](telekinetic-assembly.md)**
+- **[Telekinetic Assembly](telekinetic-assembly.md)**: Assemble a siege engine with fewer workers.
 - **[Telekinetic Strikes](telekinetic-strikes.md)**: Unarmed attacks and natural weapons deal +1d4 force damage.
 - **[Telekinetic Volley](telekinetic-volley.md)**: Hurl touched items as ranged attacks.
 - **[Time Shudder](time-shudder.md)**: You cause a ripple in time that affects all creatures in the area.
 - **[Twisted Space](twisted-space.md)**: Targeted creature’s attacks target a random square instead of the intended target.
 - **[Umbral Weapon](umbral-weapon.md)**: Reroll missed attacks for cold damage.
 - **[Visualization of the Body](visualization-of-the-body.md)**: Meditative spell: bonus to one physical ability's skills, plus a one-time boost.
+- **[Web](web.md)**: Fills 20-ft.-radius spread with sticky spiderwebs that can grapple foes and impair movement.
 - **[Winged Sword](winged-sword.md)**: A melee weapon gains the throwing special ability.
 - **[With the Wind](with-the-wind.md)**: Protect a target from being blown away by wind of less than windstorm force.
 
 ## 3rd-Level Magus Spells
 
+- **[Air Breathing](air-breathing.md)**: Allow creatures to breathe air.
+- **[Air Geyser](air-geyser.md)**: Blast of air deals 2d6 bludgeoning damage and knocks opponent upward.
 - **[Allied Cloak](allied-cloak.md)**: Animate your cloak to shield you and aid your actions.
 - **[Animal Aspect, Greater](animal-aspect-greater.md)**: As animal aspect, but you gain two animal qualities.
+- **[Aqueous Orb](aqueous-orb.md)**: Creates rolling sphere of water.
+- **[Arcane Sight](arcane-sight.md)**: Magical auras become visible to you.
 - **[Audiovisual Hallucination](audiovisual-hallucination.md)**: Create a phantasm with auditory and visual effects.
+- **[Beast Shape I](beast-shape-i.md)**: You take the form and some of the powers of a Small or Medium animal.
 - **[Blade Snare](blade-snare.md)**: Snare a weapon or limb that strikes you.
+- **[Blink](blink.md)**: You randomly vanish and reappear for 1 round per level.
 - **[Bloody Arrows](bloody-arrows.md)**: Ranged hits cause stacking bleed.
 - **[Bone Flense](bone-flense.md)**: Barbed bone spurs flense a struck creature.
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
 - **[Caustic Safeguard](caustic-safeguard.md)**: Acid ward on an object.
 - **[Channel Vigor](channel-vigor.md)**: Focus on limbs, mind, spirit, or torso for bonuses.
 - **[Clay Skin](clay-skin.md)**: Target gains DR 5/adamantine.
+- **[Cloak of Winds](cloak-of-winds.md)**: Creates a screen of wind around you.
 - **[Collaborative Thaumaturgy](collaborative-thaumaturgy.md)**: Ally applies a metamagic feat to a spell for free.
 - **[Conjuration Foil](conjuration-foil.md)**: Interfere with nearby teleportation effects.
 - **[Conjure Carriage](conjure-carriage.md)**: Create a fine carriage.
 - **[Curse of Dragonflies](curse-of-dragonflies.md)**: Curse: flying becomes difficult for the target.
+- **[Daylight](daylight.md)**: 60-ft. radius of bright light.
 - **[Discharge](discharge.md)**: Drain charges from a technological object.
+- **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
+- **[Displacement](displacement.md)**: Attacks miss subject 50% of the time.
 - **[Earth Tremor](earth-tremor.md)**: Unleash a tremor that creates difficult terrain and can knock foes down and damage them.
 - **[Ectoplasmic Snare](ectoplasmic-snare.md)**: Tendril of ectoplasm grapples a creature and tethers you to it.
+- **[Elemental Aura](elemental-aura.md)**: Creates an aura of energy around you.
 - **[Find Fault](find-fault.md)**: Learn a creature's weaknesses and gain +5 on your first attack.
 - **[Fire Trail](fire-trail.md)**: When you cast this spell, flammable liquid oozes from your pores, dripping onto the ground and spontaneously.
+- **[Fireball](fireball.md)**: 1d6 damage per level, 20-ft. radius.
 - **[Firestream](firestream.md)**: A rushing stream of fire sprays from your outstretched hand, dealing 2d6 points of fire damage to every.
+- **[Flame Arrow](flame-arrow.md)**: Arrows deal +1d6 fire damage.
+- **[Fly](fly.md)**: Subject flies at speed of 60 ft.
 - **[Force Hook Charge](force-hook-charge.md)**: Hook of force drags you to the target.
 - **[Force Punch](force-punch.md)**: Target takes 1d4 force damage per level and is pushed away.
 - **[Forced Mutation](forced-mutation.md)**: Twist a creature, imposing penalties and a deformity.
+- **[Gaseous Form](gaseous-form.md)**: Subject becomes insubstantial and can fly slowly.
 - **[Gloomblind Bolts](gloomblind-bolts.md)**: You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane.
 - **[Grasping Tentacles](grasping-tentacles.md)**: As black tentacles, but they perform dirty tricks.
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
+- **[Haste](haste.md)**: One creature/level moves faster, receives +1 on attack rolls, AC, and Reflex saves.
 - **[Heart of the Metal](heart-of-the-metal.md)**: You lend the nature of adamantine, cold iron, or silver to the targeted weapons, with the following effects:
 - **[Heckle](heckle.md)**: Sour a target's mood and impose –2 penalties.
 - **[Hero's Spellsword](heros-spellsword.md)**: Merge a rod or staff into a melee weapon.
 - **[Horrifying Visage](horrifying-visage.md)**: Haunt gives victims a phobia of a named thing.
+- **[Hydraulic Torrent](hydraulic-torrent.md)**: Creates torrent of water that bull rushes any creature in its path.
 - **[Infuse Self](infuse-self.md)**: Assume the form of a native outsider
 - **[Iron Spine](iron-spine.md)**: Target takes damage and is sickened whenever it moves.
 - **[Irradiate](irradiate.md)**: Flood an area with radiation.
+- **[Keen Edge](keen-edge.md)**: Doubles normal weapon's threat range.
+- **[Lightning Bolt](lightning-bolt.md)**: Electricity deals 1d6/level damage.
 - **[Lightning Conductor](lightning-conductor.md)**: Absorb electricity damage and discharge it as a touch or ray.
 - **[Locate Weakness](locate-weakness.md)**: You roll damage twice when you roll damage for a critical hit and take the best damage.
+- **[Magic Weapon, Greater](magic-weapon-greater.md)**: Weapon gains +1 bonus/four levels (max +5).
+- **[Major Image](major-image.md)**: As
 - **[Mark of Buoyancy](mark-of-buoyancy.md)**: make an object lighter than air
 - **[Mnemonic Siphon](mnemonic-siphon.md)**: rune that steals spells cast near an object
 - **[Monstrous Physique I](monstrous-physique-i.md)**: Take the form and some of the powers of a Small or Medium monstrous humanoid.
@@ -211,9 +296,11 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Numerological Evocation](numerological-evocation.md)**: Assign a dice pool to set energy type, targets, range and damage.
 - **[Oni Aspect](oni-aspect.md)**: Gain fast healing 3, and dismiss the spell to reroll a failed Will save.
 - **[Perfect Placement](perfect-placement.md)**: Allies gain +1 insight to AC and Reflex saves.
+- **[Phantom Steed](phantom-steed.md)**: Magic horse appears for 1 hour/level.
 - **[Phase Step](phase-step.md)**: Short-range teleport of a willing creature with line of sight.
 - **[Prehensile Pilfer](prehensile-pilfer.md)**: School transmutation; Level alchemist 3, bard 3, magus 3, sorcerer/wizard 3 Casting Time 1 standard action.
 - **[Psychic Leech](psychic-leech.md)**: Fatigue a target and gain +2 Strength and Dexterity.
+- **[Ray of Exhaustion](ray-of-exhaustion.md)**: Ray makes subject exhausted.
 - **[Recharge](recharge.md)**: Restore charges to a technological item.
 - **[Reflexive Barrier](reflexive-barrier.md)**: Immediate-action deflection bonus to AC.
 - **[Resilient Reservoir](resilient-reservoir.md)**: School transmutation; Level magus 3, paladin 3, sorcerer/wizard 4, witch 4 Casting Time 1 standard action.
@@ -223,8 +310,11 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Silver Darts](silver-darts.md)**: A cone of silver darts springs from your hand.
 - **[Siphon Might](siphon-might.md)**: Drains target's Strength and grants it to an ally.
+- **[Sleet Storm](sleet-storm.md)**: Hampers vision and movement.
+- **[Slow](slow.md)**: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 - **[Spotlight](spotlight.md)**: bright light on a target suppresses nearby light and ruins its Stealth
 - **[Steal Size](steal-size.md)**: Shrinks a larger target and enlarges you.
+- **[Stinking Cloud](stinking-cloud.md)**: Nauseating vapors, 1 round/level.
 - **[Storm Step](storm-step.md)**: teleport short distance as a bolt of lightning
 - **[Sundered Serpent Coil](sundered-serpent-coil.md)**: Summon a grappling serpent coil
 - **[Tactical Adaptation](tactical-adaptation.md)**: Gain a combat feat temporarily.
@@ -235,129 +325,187 @@ The magus class spell list appears on the [Magus](../../characters/classes/magus
 - **[Twisted Innards](twisted-innards.md)**: Crits and sneak attacks may fail.
 - **[Undead Anatomy I](undead-anatomy-i.md)**: Take the form and some of the powers of a Small or Medium undead.
 - **[Urban Step](urban-step.md)**: Step into one doorway and out another.
+- **[Vampiric Touch](vampiric-touch.md)**: Touch deals 1d6 damage per two levels; caster gains damage as temporary hp.
+- **[Versatile Weapon](versatile-weapon.md)**: Weapon bypasses some DR.
 - **[Vomit Twin](vomit-twin.md)**: Upon casting this spell, you vomit forth a disgusting ooze copy of yourself into a single adjacent square.
 - **[Wall of Mist](wall-of-mist.md)**: Wall of fog granting concealment and hindering movement.
 - **[Wall of Split Illumination](wall-of-split-illumination.md)**: a wall that is bright on one side and dark on the other
+- **[Water Breathing](water-breathing.md)**: Subjects can breathe underwater.
 - **[Waves of Blood](waves-of-blood.md)**: A cone of blood pushes creatures, sickens them, and makes the ground slick.
+- **[Wind Wall](wind-wall.md)**: Deflects arrows, smaller creatures, and gases.
 
 ## 4th-Level Magus Spells
 
 - **[Absorb Rune I](absorb-rune-i.md)**: Absorb a magical rune and move it elsewhere.
-- **[Adjustable Polymorph](adjustable-polymorph.md)**: This spell functions as alter self, except you can as a swift action alter the disguise (within the limitations of…
-- **[Aggressive Thundercloud, Greater](aggressive-thundercloud-greater.md)**: This spell functions as aggressive thundercloud, except it deals 6d6 points of electricity damage to any creature it…
+- **[Adjustable Polymorph](adjustable-polymorph.md)**: As alter self, but you can change the shape as a swift action.
+- **[Aggressive Thundercloud, Greater](aggressive-thundercloud-greater.md)**: Flying storm cloud deals 6d6 electricity damage.
 - **[Anywhere But Here](anywhere-but-here.md)**: Transport yourself and willing creatures to a random planar destination
 - **[Arcana Theft](arcana-theft.md)**: Targeted dispel transfers an effect to you.
+- **[Ball Lightning](ball-lightning.md)**: Flying balls of lightning deal 3d6 electricity damage each.
+- **[Beast Shape II](beast-shape-ii.md)**: You take the form and some of the powers of a Tiny or Large animal.
 - **[Bestow Planar Infusion II](bestow-planar-infusion-ii.md)**: Grant a target the effects of an improved planar infusion
+- **[Black Tentacles](black-tentacles.md)**: Tentacles grapple all creatures within a 20-ft. spread.
 - **[Blightburn Weapon](blightburn-weapon.md)**: Turn a weapon into radioactive blightburn.
 - **[Brightest Light](brightest-light.md)**: Longer-lasting daylight that can dispel darkness.
 - **[Caustic Blood](caustic-blood.md)**: Wounds spray acid at attackers.
 - **[Celestial Healing, Greater](celestial-healing-greater.md)**: Target gains fast healing 4.
 - **[Complex Hallucination](complex-hallucination.md)**: Create a phantasm with effects for all senses.
 - **[Controlled Fireball](controlled-fireball.md)**: As *fireball,* but secretly deals less damage to your allies.
-- **[Elemental Mastery](elemental-mastery.md)**: You gain mastery over the element matching the elemental essence in your blood (fire for ifrits, earth for ore…
+- **[Detonate](detonate.md)**: Inflicts 1d8/level energy damage to all creatures within 15 ft.
+- **[Dimension Door](dimension-door.md)**: Teleports you a short distance.
+- **[Dragon’s Breath](dragons-breath.md)**: Gives you a dragon's breath weapon.
+- **[Elemental Body I](elemental-body-i.md)**: Turns you into a Small elemental.
+- **[Elemental Mastery](elemental-mastery.md)**: Gain a movement bonus and another power from the element of your heritage.
+- **[Enlarge Person, Mass](enlarge-person-mass.md)**: 1 humanoid creature/level doubles in size.
 - **[Ethereal Fists](ethereal-fists.md)**: Your claws, unarmed strikes, and touch spells affect ethereal creatures.
 - **[Fey Form I](fey-form-i.md)**: Assume the form of a Small or Medium fey creature.
+- **[Fire Shield](fire-shield.md)**: Creatures attacking you take fire damage; you're protected from heat or cold.
+- **[Firefall](firefall.md)**: Causes fire to burst up, dealing 2d6 fire damage.
 - **[Flaming Aura](flaming-aura.md)**: Gain the fire subtype, or an aura of fire if you already have it.
 - **[Flaming Sphere, Greater](flaming-sphere-greater.md)**: This spell functions as flaming sphere, except that it deals 6d6 points of fire damage to any creature it strikes.
 - **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
 - **[Forceful Strike](forceful-strike.md)**: Melee hit deals extra force damage and bull rush.
 - **[Frosty Aura](frosty-aura.md)**: Gain the cold subtype, or an aura of cold if you already have it.
+- **[Ice Storm](ice-storm.md)**: Hail deals 5d6 damage in cylinder 40 ft. across.
 - **[Illusion of Treachery](illusion-of-treachery.md)**: Make it seem like another is also responsible for your attacks.
 - **[Infernal Healing, Greater](infernal-healing-greater.md)**: As *infernal healing*, but fast healing 4.
 - **[Instant Fake](instant-fake.md)**: Provide a short-term replica of an object.
+- **[Invisibility, Greater](invisibility-greater.md)**: As
 - **[Martial Telekinesis](martial-telekinesis.md)**: You mingle the power of your mind and body to exert force beyond your reach.
 - **[Masochistic Shadow](masochistic-shadow.md)**: a shadow attacks the target, dealing Strength damage each round
 - **[Mischievous Shadow](mischievous-shadow.md)**: Shadows of victims interfere with their actions.
 - **[Monstrous Physique II](monstrous-physique-ii.md)**: Take the form and some of the powers of a Tiny or Large monstrous humanoid.
 - **[Naga Shape I](naga-shape-i.md)**: assume the form of a Large naga
 - **[Paragon Surge](paragon-surge.md)**: You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind.
-- **[Pellet Blast](pellet-blast.md)**
+- **[Pellet Blast](pellet-blast.md)**: Creates an explosion of conjured metal pellets.
+- **[Phantasmal Killer](phantasmal-killer.md)**: Fearsome illusion kills subject or deals 3d6 damage.
 - **[Poisonous Cloud](poisonous-cloud.md)**: Fog cloud that deals 1d2 Con damage per round.
 - **[Pyrotechnic Eruption](pyrotechnic-eruption.md)**: Erupting flames burn a target several times.
 - **[Quieting Weapons](quieting-weapons.md)**: Weapons make no sound and quiet their victims.
+- **[Reduce Person, Mass](reduce-person-mass.md)**: As
 - **[Revenant Armor](revenant-armor.md)**: Armor animates around its fallen wearer.
 - **[Rigor Mortis](rigor-mortis.md)**: Painfully swell a target’s joints.
 - **[Rising Water](rising-water.md)**: Conjures a cylinder of calm, swimmable water.
+- **[River of Wind](river-of-wind.md)**: A stream of wind causes nonlethal damage and can knock down or push creatures.
 - **[Rope Tornado](rope-tornado.md)**: A line of tornado-force wind knocks creatures prone.
 - **[Rubberskin](rubberskin.md)**: Bludgeoning and falling damage become nonlethal.
 - **[Runic Overload](runic-overload.md)**: Detonates magical runes with sonic force.
 - **[Sadomasochism](sadomasochism.md)**: Pain empowers your attacks and demoralizes attackers.
 - **[Shadow Invasion](shadow-invasion.md)**: Create an area of darkness that strengthens shadow spells and attracts kytons
 - **[Shield of Dawn](shield-of-dawn.md)**: A disk of sunlight burns those who strike you in melee.
+- **[Shout](shout.md)**: Deafens all within cone and deals 5d6 sonic damage.
+- **[Solid Fog](solid-fog.md)**: Blocks vision and slows movement.
+- **[Stoneskin](stoneskin.md)**: Grants DR 10/adamantine.
 - **[Tail Current](tail-current.md)**: Create a current in water to enhance or impede swimming.
 - **[Tailwind](tailwind.md)**: Create a current of wind to enhance or impede flight.
 - **[Telekinetic Maneuver](telekinetic-maneuver.md)**: Perform a telekinetic combat maneuver.
 - **[Temporary Graft](temporary-graft.md)**: Graft a body part onto yourself to gain one of several benefits.
 - **[Vermin Shape I](vermin-shape-i.md)**: Take the form and some of the powers of a Small or Medium vermin.
-- **[Wall of Brine](wall-of-brine.md)**: You conjure a 5-foot-thick wall of seawater with a powerful current flowing toward one side of the wall, selec…
+- **[Wall of Brine](wall-of-brine.md)**: Wall of seawater with a strong current that pushes creatures through it.
+- **[Wall of Fire](wall-of-fire.md)**: Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level.
+- **[Wall of Ice](wall-of-ice.md)**: *Ice plane* creates wall or *hemisphere* creates dome.
 - **[Wall of Sound](wall-of-sound.md)**: Sonic wall deflects and damages creatures.
 - **[Ward Shield](ward-shield.md)**: Shield grants spell resistance against targeted spells.
 - **[Wing Thorns](wing-thorns.md)**: Wings sprout poisonous thorns you can attack with.
-- **[Wreath of Blades](wreath-of-blades.md)**
+- **[Wreath of Blades](wreath-of-blades.md)**: Spinning mithral daggers deal 1d4 damage per two levels to adjacent creatures and ward off attacks.
 
 ## 5th-Level Magus Spells
 
 - **[Acidic Spray](acidic-spray.md)**: 1d6/level acid damage plus 1 round of acid.
 - **[Augmenting Wall](augmenting-wall.md)**: Wall adds energy damage to ranged attacks.
+- **[Baleful Polymorph](baleful-polymorph.md)**: Transforms subject into harmless animal.
 - **[Banishing Blade](banishing-blade.md)**: The weapon bull rushes foes and can banish outsiders.
+- **[Beast Shape III](beast-shape-iii.md)**: You take the form of a Diminutive or Huge animal, or Small or Medium magical beast.
 - **[Bladed Dash, Greater](bladed-dash-greater.md)**: Dash 30 feet and attack all foes along the way.
 - **[Blood Boil](blood-boil.md)**: target's blood heats, causing fatigue, Constitution damage, and finally boiling damage
-- **[Burn Corruption](burn-corruption.md)**: This spell fills the area with violet flames that scour an area clean of life—especially of the corrupted life…
+- **[Burn Corruption](burn-corruption.md)**: Violet flames deal fire damage in an area, much more to demons and demon-tainted creatures.
+- **[Cloudkill](cloudkill.md)**: Kills 3 HD or less; 4–6 HD save or die, 6+ HD take Con damage.
+- **[Cone of Cold](cone-of-cold.md)**: 1d6/level cold damage.
 - **[Conjure Deadfall](conjure-deadfall.md)**: Drop a spiked metal block on creatures below.
 - **[Corrosive Consumption](corrosive-consumption.md)**: Acidic patch damages an opponent.
 - **[Cosmic Ray](cosmic-ray.md)**: Ray of cosmic energy that damages and sickens.
 - **[Dimensional Blade](dimensional-blade.md)**: Your melee weapon makes touch attacks.
+- **[Elemental Body II](elemental-body-ii.md)**: Turns you into a Medium elemental.
 - **[Ether Step](ether-step.md)**: Step briefly into the Ethereal Plane to avoid attacks and dangers
+- **[Fire Snake](fire-snake.md)**: Creates a serpentine path of fire 5 ft. long/level that deals 1d6 fire damage/level.
 - **[Furious Fire Barrage](furious-fire-barrage.md)**: Throw fireballs fueled by anger.
+- **[Geyser](geyser.md)**: Creates a geyser of boiling water.
 - **[Glimpse of Truth](glimpse-of-truth.md)**: Gain *true seeing* for 1 round.
 - **[Grease, Greater](grease-greater.md)**: As grease, but covers much more.
 - **[Impart Mind](impart-mind.md)**: Grant a magic item temporary intelligence and powers.
-- **[Lash of the Astradaemon](lash-of-the-astradaemon.md)**: You draw on the essence of astradaemons to cause one of your hands to elongate and sprout fearsome translucent…
+- **[Interposing Hand](interposing-hand.md)**: Hand provides cover against 1 opponent.
+- **[Lash of the Astradaemon](lash-of-the-astradaemon.md)**: Enhance your hands into fearsome claws that inflict negative levels.
 - **[Lighten Object, Mass](lighten-object-mass.md)**: Halve the weight of several objects.
 - **[Mask from Divination](mask-from-divination.md)**: Adhere a mask that foils divination.
 - **[Monstrous Physique III](monstrous-physique-iii.md)**: Take the form and some of the powers of a Diminutive or Huge monstrous humanoid.
 - **[Naga Shape II](naga-shape-ii.md)**: assume a naga form with more abilities
 - **[Ooze Form I](ooze-form-i.md)**: Assume the form of a Small or Medium ooze creature.
-- **[Parchment Swarm](parchment-swarm.md)**
+- **[Overland Flight](overland-flight.md)**: You fly at a speed of 40 ft. and can hustle over long distances.
+- **[Parchment Swarm](parchment-swarm.md)**: Shredded parchment deals 1d6 points of damage per level, and has a spell effect if you shred a scroll.
 - **[Scripted Hallucination](scripted-hallucination.md)**: As *complex hallucination*, but without concentration.
 - **[Shapechanger’s Gift](shapechangers-gift.md)**: Temporarily change a target into an animal, humanoid, or monstrous humanoid.
 - **[Soul-Rending Claws](soul-rending-claws.md)**: Claws grant negative levels
 - **[Soulswitch](soulswitch.md)**: Swap souls with your familiar.
 - **[Surface Excursion](surface-excursion.md)**: Teleport to the surface directly above you, with a beacon to return.
-- **[Symbol of Striking](symbol-of-striking.md)**
+- **[Symbol of Striking](symbol-of-striking.md)**: Triggered rune threatens its area and makes attacks of opportunity with a magic copy of a weapon.
+- **[Telekinesis](telekinesis.md)**: Moves object, attacks creature, or hurls object or creature.
+- **[Teleport](teleport.md)**: Instantly transports you as far as 100 miles per level.
 - **[Transplant Visage](transplant-visage.md)**: Wear a stolen face for +10 on Disguise.
 - **[Undead Anatomy II](undead-anatomy-ii.md)**: Take the form and some of the powers of a Tiny or Large undead.
 - **[Vampiric Shadow Shield](vampiric-shadow-shield.md)**: This spell wreathes you in shadowy energy and damages those that make melee attacks against you.
 - **[Vermin Shape II](vermin-shape-ii.md)**: As vermin shape, but Tiny or Large.
 - **[Waft](waft.md)**: Targets become light enough to be carried by the wind.
+- **[Wall of Force](wall-of-force.md)**: Wall is immune to damage.
+- **[Wall of Stone](wall-of-stone.md)**: Creates a stone wall that can be shaped.
 - **[Wind Blades](wind-blades.md)**: You harden the air around the target into jagged invisible blades that deal damage based on how fast the.
 - **[Wooden Wing Shield](wooden-wing-shield.md)**: Your wings become a barrier granting a +4 shield bonus to AC.
 
 ## 6th-Level Magus Spells
 
 - **[Absorb Rune II](absorb-rune-ii.md)**: Absorb a rune of 5th level or lower.
-- **[Borrowed Time](borrowed-time.md)**: A creation of the archmage the archmage’s realm, this spell allows you to reach ahead in time and draw alacrit…
+- **[Acid Fog](acid-fog.md)**: Fog deals acid damage.
+- **[Bear’s Endurance, Mass](bears-endurance-mass.md)**: As
+- **[Beast Shape IV](beast-shape-iv.md)**: You take the form of a Diminutive to Huge animal or a Tiny to Large magical beast.
+- **[Borrowed Time](borrowed-time.md)**: Gain an extra swift action each turn; each use costs you Constitution damage.
+- **[Bull’s Strength, Mass](bulls-strength-mass.md)**: As
+- **[Cat’s Grace, Mass](cats-grace-mass.md)**: As
+- **[Chain Lightning](chain-lightning.md)**: 1d6/level damage and 1 secondary bolt/level.
 - **[Chains of Fire](chains-of-fire.md)**: This spell functions like chain lightning, except as noted above, and the spell deals fire damage instead of.
+- **[Contagious Flame](contagious-flame.md)**: Scorching rays cause 4d6 fire damage, then move on to new targets.
 - **[Cruel Jaunt](cruel-jaunt.md)**: Sense creatures suffering from fear, then teleport close to them.
 - **[Decapitate](decapitate.md)**: Turn a critical hit into a decapitation.
 - **[Discharge, Greater](discharge-greater.md)**: Discharge many objects or an area.
+- **[Disintegrate](disintegrate.md)**: Reduces one creature or object to dust.
+- **[Dispel Magic, Greater](dispel-magic-greater.md)**: Works as
+- **[Elemental Body III](elemental-body-iii.md)**: Turns you into a Large elemental.
 - **[Emblem of Greed](emblem-of-greed.md)**: Turn a melee weapon into a burning glaive.
 - **[Explode Head](explode-head.md)**: Explode the head of a creature with 20 hp or fewer and deal damage in a 10-ft. radius around it.
 - **[Fey Form II](fey-form-ii.md)**: Assume the form of a Tiny or Large fey creature.
+- **[Flesh to Stone](flesh-to-stone.md)**: Turns subject creature into statue.
+- **[Forceful Hand](forceful-hand.md)**: Hand pushes creatures away.
 - **[Form of the Alien Dragon I](form-of-the-alien-dragon-i.md)**: Become a Medium esoteric or outer dragon.
+- **[Form of the Dragon I](form-of-the-dragon-i.md)**: Turns you into a Medium dragon.
+- **[Freezing Sphere](freezing-sphere.md)**: Freezes water or deals cold damage.
 - **[Grim Stalker](grim-stalker.md)**: Haunted object curses its next holder with a spectral hound.
+- **[Hellfire Ray](hellfire-ray.md)**: Damn creatures to Hell with a blast of pure hellfire.
 - **[Illusion of Treachery, Greater](illusion-of-treachery-greater.md)**: Make it seem like another is responsible for your attacks while concealing your own actions.
 - **[Last Hero's Defending Sword](last-heros-defending-sword.md)**: A force sword that defends you, then attacks a foe.
 - **[Magnetic Field](magnetic-field.md)**: Pulls metal objects and metal-clad creatures toward you.
+- **[Mislead](mislead.md)**: Turns you invisible and creates illusory double.
 - **[Monstrous Physique IV](monstrous-physique-iv.md)**: As monstrous physique III, with more abilities.
 - **[Naga Shape III](naga-shape-iii.md)**: assume a naga form with the strongest abilities
 - **[Ooze Form II](ooze-form-ii.md)**: Assume the form of a Large ooze creature.
 - **[Shield of Dawn, Greater](shield-of-dawn-greater.md)**: Sun shield damages melee attackers.
+- **[Sirocco](sirocco.md)**: Hot wind does 4d6 damage, fatigues those damaged, and knocks creatures prone.
+- **[Stone to Flesh](stone-to-flesh.md)**: Restores petrified creature.
+- **[Transformation](transformation.md)**: You gain combat bonuses.
 - **[Treacherous Teleport](treacherous-teleport.md)**: As *teleport*, except you choose some creatures to suffer a mishap or go elsewhere.
 - **[Triggered Hallucination](triggered-hallucination.md)**: As *scripted hallucination*, but it only appears when triggered.
+- **[True Seeing](true-seeing.md)**: Lets you see all things as they really are.
 - **[Umbral Strike](umbral-strike.md)**: a bolt of dark energy deals cold and negative damage and blinds
 - **[Undead Anatomy III](undead-anatomy-iii.md)**: Take the form and some of the powers of a Diminutive or Huge undead.
 - **[Walk Through Space](walk-through-space.md)**: You can spend a move action to teleport 30 feet or to stand while prone without provoking attacks of opportunity.
+- **[Wall of Iron](wall-of-iron.md)**: 30 hp/four levels; can topple onto foes.
 
 ## Mythic Adventures Spells
 

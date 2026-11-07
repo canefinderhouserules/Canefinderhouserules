@@ -1,6 +1,6 @@
 # Telekinesis
 
-**School** transmutation; **Level** sorcerer/wizard 5  
+**School** transmutation; **Level** magus 5, occultist 5, psychic 4, sorcerer/wizard 5, spiritualist 5  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  

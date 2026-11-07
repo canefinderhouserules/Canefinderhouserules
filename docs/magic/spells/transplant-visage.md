@@ -1,6 +1,6 @@
 # Transplant Visage
 
-**School** transmutation [evil]; **Level** alchemist 5, antipaladin 4, cleric 4, inquisitor 4, magus 5, sorcerer/wizard 5, witch 5  
+**School** transmutation [evil]; **Level** alchemist 5, antipaladin 4, cleric 4, inquisitor 4, magus 5, shaman 4, sorcerer/wizard 5, witch 5  
 **Casting Time** 1 round  
 **Components** V, S, M (one corpse)  
 **Range** personal  

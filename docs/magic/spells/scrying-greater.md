@@ -1,6 +1,6 @@
 # Scrying, Greater
 
-**School** divination (scrying); **Level** bard 6, cleric 7, druid 7, sorcerer/wizard 7  
+**School** divination (scrying); **Level** bard 6, cleric 7, druid 7, mesmerist 6, occultist 6, psychic 7, shaman 7, sorcerer/wizard 7, witch 7  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** see text  

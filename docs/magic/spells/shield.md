@@ -1,6 +1,6 @@
 # Shield
 
-**School** abjuration [force]; **Level** sorcerer/wizard 1  
+**School** abjuration [force]; **Level** alchemist 1, bloodrager 1, magus 1, occultist 1, psychic 1, sorcerer/wizard 1, spiritualist 1, summoner 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

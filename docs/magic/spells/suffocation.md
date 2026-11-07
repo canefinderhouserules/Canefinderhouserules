@@ -1,6 +1,6 @@
 # Suffocation
 
-**School** necromancy; **Level** sorcerer/wizard 5, witch 5  
+**School** necromancy; **Level** occultist 5, psychic 5, sorcerer/wizard 5, spiritualist 5, witch 5  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a vial containing a bit of the caster’s breath)  
 **Range** close (25 ft. + 5 ft./2 levels)  

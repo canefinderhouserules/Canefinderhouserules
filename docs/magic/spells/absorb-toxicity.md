@@ -1,6 +1,6 @@
 # Absorb Toxicity
 
-**School** necromancy; **Level** alchemist 3, druid 4, sorcerer/ wizard 5, witch 4  
+**School** necromancy; **Level** alchemist 3, druid 4, psychic 5, sorcerer/ wizard 5, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a thorn from a poisonous plant)  
 **Range** personal  

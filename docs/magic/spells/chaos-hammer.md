@@ -1,6 +1,6 @@
 # Chaos Hammer
 
-**School** evocation [chaotic]; **Level** cleric 4  
+**School** evocation [chaotic]; **Level** cleric 4, inquisitor 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

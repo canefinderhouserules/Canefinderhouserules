@@ -1,6 +1,6 @@
 # Vision of Hell
 
-**School** illusion (glamer) [evil, fear]; **Level** bard 3, cleric 3, sorcerer/wizard 3, witch 3  
+**School** illusion (glamer) [evil, fear]; **Level** bard 3, bloodrager 3, cleric 3, mesmerist 3, occultist 3, psychic 3, sorcerer/wizard 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, M (a pinch of brimstone)  
 **Range** medium (100 ft. + 10 ft./level)  

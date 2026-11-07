@@ -1,6 +1,6 @@
 # Hidden Speech
 
-**School** transmutation [language-dependent]; **Level** bard 2, inquisitor 3, witch 2  
+**School** transmutation [language-dependent]; **Level** bard 2, inquisitor 3, medium 2, mesmerist 2, psychic 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (a cipher written on a piece of parchment)  
 **Range** close (25 ft. + 5 ft./2 levels)  

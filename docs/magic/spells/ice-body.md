@@ -1,6 +1,6 @@
 # Ice Body
 
-**School** transmutation [cold]; **Level** sorcerer/wizard 7, witch 7  
+**School** transmutation [cold]; **Level** shaman 7, sorcerer/wizard 7, witch 7  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

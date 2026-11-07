@@ -1,6 +1,6 @@
 # Restoration
 
-**School** conjuration (healing); **Level** cleric 4, paladin 4  
+**School** conjuration (healing); **Level** alchemist 4, cleric 4, inquisitor 4, mesmerist 4, paladin 4, shaman 4, spiritualist 4  
 **Casting Time** 1 minute  
 **Components** V, S, M (diamond dust worth 100 gp or 1,000 gp, see text)  
 **Range** touch  

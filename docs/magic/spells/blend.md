@@ -1,6 +1,6 @@
 # Blend
 
-**School** illusion (glamer); **Level** alchemist 1, druid 1, magus 1, ranger 1, sorcerer/wizard 1, witch 1  
+**School** illusion (glamer); **Level** alchemist 1, druid 1, magus 1, mesmerist 1, psychic 1, ranger 1, shaman 1, sorcerer/wizard 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** S  
 **Range** personal  

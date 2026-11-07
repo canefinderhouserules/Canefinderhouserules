@@ -1,6 +1,6 @@
 # Prying Eyes
 
-**School** divination; **Level** sorcerer/wizard 5  
+**School** divination; **Level** mesmerist 5, occultist 5, psychic 5, sorcerer/wizard 5, spiritualist 5, witch 5  
 **Casting Time** 1 minute  
 **Components** V, S, M (a handful of crystal marbles)  
 **Range** 1 mile  

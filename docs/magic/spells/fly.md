@@ -1,6 +1,6 @@
 # Fly
 
-**School** transmutation; **Level** sorcerer/wizard 3  
+**School** transmutation; **Level** alchemist 3, bloodrager 3, magus 3, medium 3, occultist 3, psychic 3, shaman 3, sorcerer/wizard 3, spiritualist 3, summoner 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S, F (a wing feather)  
 **Range** touch  

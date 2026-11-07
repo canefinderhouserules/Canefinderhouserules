@@ -1,6 +1,6 @@
 # Ill Omen
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** witch 1  
+**School** enchantment (compulsion) [mind-affecting]; **Level** medium 1, mesmerist 1, psychic 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** V, S, M (hair from a black cat)  
 **Range** close (25 ft. + 5 ft./2 levels)  

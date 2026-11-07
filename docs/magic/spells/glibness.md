@@ -1,6 +1,6 @@
 # Glibness
 
-**School** transmutation; **Level** bard 3  
+**School** transmutation; **Level** bard 3, mesmerist 3  
 **Casting Time** 1 standard action  
 **Components** S  
 **Range** personal  

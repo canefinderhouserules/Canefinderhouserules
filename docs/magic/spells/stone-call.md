@@ -1,6 +1,6 @@
 # Stone Call
 
-**School** conjuration (creation) [earth]; **Level** druid 2, ranger 2, sorcerer/wizard 2  
+**School** conjuration (creation) [earth]; **Level** bloodrager 2, druid 2, magus 2, ranger 2, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** medium (100 ft. + 10 ft./level)  

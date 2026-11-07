@@ -1,6 +1,6 @@
 # Commune with Nature
 
-**School** divination; **Level** druid 5, ranger 4  
+**School** divination; **Level** druid 5, psychic 5, ranger 4, shaman 5  
 **Casting Time** 10 minutes  
 **Components** V, S  
 **Range** personal  

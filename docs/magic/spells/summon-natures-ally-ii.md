@@ -1,6 +1,6 @@
 # Summon Nature’s Ally II
 
-**School** conjuration (summoning); **Level** druid 2, ranger 2  
+**School** conjuration (summoning); **Level** druid 2, ranger 2, shaman 2  
 **Casting Time** 1 round  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  

@@ -1,6 +1,6 @@
 # Vision
 
-**School** divination; **Level** sorcerer/wizard 7  
+**School** divination; **Level** psychic 7, shaman 7, sorcerer/wizard 7, witch 7  
 **Casting Time** 1 standard action  
 **Components** V, S, M (incense worth 250 gp), F (four pieces of ivory worth 50 gp each)  
 **Range** personal  

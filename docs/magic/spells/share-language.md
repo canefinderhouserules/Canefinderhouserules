@@ -1,6 +1,6 @@
 # Share Language
 
-**School** divination; **Level** bard 1, cleric 2, druid 2, sorcerer/wizard 2  
+**School** divination; **Level** bard 1, cleric 2, druid 2, medium 1, mesmerist 1, occultist 2, psychic 1, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a page from a dictionary)  
 **Range** touch  

@@ -1,6 +1,6 @@
 # Repair Undead, Mass
 
-**School** necromancy; **Level** sorcerer/wizard 5  
+**School** necromancy; **Level** sorcerer/wizard 5, spiritualist 5  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

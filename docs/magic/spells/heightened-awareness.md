@@ -1,6 +1,6 @@
 # Heightened Awareness
 
-**School** divination; **Level** alchemist 1, bard 1, druid 1, inquisitor 1, ranger 1, shaman 1, sorcerer/wizard 1  
+**School** divination; **Level** alchemist 1, bard 1, druid 1, inquisitor 1, medium 1, mesmerist 1, occultist 1, psychic 1, ranger 1, shaman 1, sorcerer/wizard 1  
 **Casting Time** 1 standard action  
 **Components** V, M/DF (a coffee bean)  
 **Range** personal  

@@ -1,6 +1,6 @@
 # Resistance
 
-**School** abjuration; **Level** bard 0, cleric 0, druid 0, paladin 1, sorcerer/wizard 0  
+**School** abjuration; **Level** bard 0, cleric 0, druid 0, inquisitor 0, medium 0, occultist 0, paladin 1, psychic 0, shaman 0, sorcerer/wizard 0, spiritualist 0, summoner 0, witch 0  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (a miniature cloak)  
 **Range** touch  

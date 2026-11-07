@@ -1,6 +1,6 @@
 # Crimson Confession
 
-**School** abjuration; **Level** sorcerer/wizard 2, witch 2  
+**School** abjuration; **Level** occultist 2, psychic 2, sorcerer/wizard 2, witch 2  
 **Casting Time** 10 minutes  
 **Components** V, S  
 **Range** touch  

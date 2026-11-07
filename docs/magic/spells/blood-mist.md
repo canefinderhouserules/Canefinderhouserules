@@ -1,6 +1,6 @@
 # Blood Mist
 
-**School** conjuration (creation) [poison]; **Level** druid 8  
+**School** conjuration (creation) [poison]; **Level** druid 8, shaman 8  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a pinch of dried red algae)  
 **Range** medium (100ft. +10ft./level)  

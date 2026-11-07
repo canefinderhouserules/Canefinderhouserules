@@ -1,6 +1,6 @@
 # Erase
 
-**School** transmutation; **Level** bard 1, sorcerer/wizard 1  
+**School** transmutation; **Level** bard 1, occultist 1, psychic 1, sorcerer/wizard 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

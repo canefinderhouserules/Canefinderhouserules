@@ -1,6 +1,6 @@
 # Silent Table
 
-**School** illusion (glamer); **Level** bard 2, cleric 2, sorcerer/wizard 2, witch 2  
+**School** illusion (glamer); **Level** bard 2, cleric 2, mesmerist 2, psychic 2, sorcerer/wizard 2, witch 2  
 **Casting Time** 1 round  
 **Components** V  
 **Range** close (25 ft. + 5 ft./2 levels)  

@@ -1,6 +1,6 @@
 # Grove of Respite
 
-**School** conjuration (creation); **Level** druid 4, ranger 4  
+**School** conjuration (creation); **Level** druid 4, ranger 4, shaman 5  
 **Casting Time** 10 minutes  
 **Components** V, S, M/DF (a leaf or blade of grass and a drop of water)  
 **Range** close (25 ft. + 5 ft./2 levels)  

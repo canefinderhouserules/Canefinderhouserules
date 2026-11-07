@@ -1,6 +1,6 @@
 # Oracle’s Burden
 
-**School** necromancy; **Level** oracle 2  
+**School** necromancy; **Level** cleric 2, oracle 2  
 **Casting Time** 1 standard action  
 **Components** V  
 **Range** medium (100 ft. + 10 ft./level)  

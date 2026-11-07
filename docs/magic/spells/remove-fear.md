@@ -1,6 +1,6 @@
 # Remove Fear
 
-**School** abjuration; **Level** bard 1, cleric 1  
+**School** abjuration; **Level** bard 1, cleric 1, inquisitor 1, medium 1, mesmerist 1, psychic 1, shaman 1, spiritualist 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

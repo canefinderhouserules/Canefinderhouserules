@@ -1,6 +1,6 @@
 # Animate Dead
 
-**School** necromancy [evil]; **Level** cleric 3, sorcerer/wizard 4  
+**School** necromancy [evil]; **Level** antipaladin 3, cleric 3, occultist 3, shaman 3, sorcerer/wizard 4, spiritualist 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M (an onyx gem worth at least 25 gp per Hit Die of the undead)  
 **Range** touch  

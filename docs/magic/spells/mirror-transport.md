@@ -1,6 +1,6 @@
 # Mirror Transport
 
-**School** transmutation; **Level** sorcerer/wizard 4, witch 4  
+**School** transmutation; **Level** occultist 4, psychic 4, sorcerer/wizard 4, spiritualist 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a glass or metal marble and a twisted loop of parchment)  
 **Range** touch  

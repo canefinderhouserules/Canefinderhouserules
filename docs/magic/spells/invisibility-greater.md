@@ -1,6 +1,6 @@
 # Invisibility, Greater
 
-**School** illusion (glamer); **Level** bard 4, sorcerer/wizard 4  
+**School** illusion (glamer); **Level** alchemist 4, antipaladin 4, bard 4, inquisitor 4, magus 4, medium 3, mesmerist 4, occultist 4, psychic 4, sorcerer/wizard 4, spiritualist 4, summoner 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal or touch  

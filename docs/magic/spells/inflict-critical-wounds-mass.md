@@ -1,6 +1,6 @@
 # Inflict Critical Wounds, Mass
 
-**School** necromancy; **Level** cleric 8  
+**School** necromancy; **Level** cleric 8, shaman 8, witch 9  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

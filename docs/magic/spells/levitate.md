@@ -1,6 +1,6 @@
 # Levitate
 
-**School** transmutation; **Level** sorcerer/wizard 2  
+**School** transmutation; **Level** alchemist 2, magus 2, medium 2, mesmerist 2, occultist 2, psychic 2, shaman 2, sorcerer/wizard 2, spiritualist 2, summoner 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S, F (a leather loop or golden wire bent into a cup shape)  
 **Range** personal or close (25 ft. + 5 ft./2 levels)  

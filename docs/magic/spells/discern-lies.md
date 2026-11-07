@@ -1,6 +1,6 @@
 # Discern Lies
 
-**School** divination; **Level** cleric 4, paladin 3  
+**School** divination; **Level** alchemist 4, cleric 4, inquisitor 4, medium 3, paladin 3, psychic 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  

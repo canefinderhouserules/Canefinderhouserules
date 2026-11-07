@@ -1,6 +1,6 @@
 # Flesh Facade
 
-**School** transmutation (polymorph); **Level** alchemist 2, bard 2, inquisitor 2, sorcerer/wizard 2, witch 2  
+**School** transmutation (polymorph); **Level** alchemist 2, bard 2, inquisitor 2, psychic 2, sorcerer/wizard 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

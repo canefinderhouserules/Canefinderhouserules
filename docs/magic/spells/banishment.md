@@ -1,6 +1,6 @@
 # Banishment
 
-**School** abjuration; **Level** cleric 6, sorcerer/wizard 7  
+**School** abjuration; **Level** cleric 6, inquisitor 5, psychic 7, shaman 6, sorcerer/wizard 7, spiritualist 6, summoner 5  
 **Casting Time** 1 standard action  
 **Components** V, S, F (see text)  
 **Range** close (25 ft. + 5 ft./2 levels)  

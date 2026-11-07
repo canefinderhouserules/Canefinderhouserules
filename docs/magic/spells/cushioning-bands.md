@@ -1,6 +1,6 @@
 # Cushioning Bands
 
-**School** conjuration (creation) [force]; **Level** sorcerer/wizard 2, summoner 2  
+**School** conjuration (creation) [force]; **Level** psychic 2, sorcerer/wizard 2, summoner 2  
 **Casting Time** 1 standard action  
 **Components** V, S,  
 **Range** touch  

@@ -1,6 +1,6 @@
 # Planar Adaptation, Mass
 
-**School** transmutation; **Level** cleric 6, sorcerer/wizard 7, summoner 6  
+**School** transmutation; **Level** cleric 6, occultist 6, psychic 6, sorcerer/wizard 7, summoner 6  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

@@ -1,6 +1,6 @@
 # Refine Improvised Weapon
 
-**School** transmutation; **Level** cleric 1, inquisitor 1, ranger 1, sorcerer/wizard 1  
+**School** transmutation; **Level** cleric 1, inquisitor 1, occultist 1, ranger 1, sorcerer/wizard 1  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

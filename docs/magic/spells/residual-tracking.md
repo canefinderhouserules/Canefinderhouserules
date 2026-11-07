@@ -1,6 +1,6 @@
 # Residual Tracking
 
-**School** divination; **Level** ranger 1  
+**School** divination; **Level** occultist 2, ranger 1  
 **Casting Time** 1 minute  
 **Components** V, S, M (a bit of plaster)  
 **Range** touch  

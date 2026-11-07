@@ -1,6 +1,6 @@
 # Death From Below
 
-**School** abjuration; **Level** bard 3, sorcerer/wizard 2  
+**School** abjuration; **Level** bard 3, bloodrager 2, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

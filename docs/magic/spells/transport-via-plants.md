@@ -1,6 +1,6 @@
 # Transport via Plants
 
-**School** conjuration (teleportation); **Level** druid 6  
+**School** conjuration (teleportation); **Level** druid 6, shaman 7  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** unlimited  

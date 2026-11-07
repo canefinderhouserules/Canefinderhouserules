@@ -1,6 +1,6 @@
 # Guiding Star
 
-**School** divination; **Level** cleric 3, ranger 2, witch 3  
+**School** divination; **Level** cleric 3, psychic 3, ranger 2, shaman 2, witch 3  
 **Casting Time** 1 minute  
 **Components** V, S, M (a spool of thread or string)  
 **Range** personal  

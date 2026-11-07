@@ -1,6 +1,6 @@
 # Color Spray
 
-**School** illusion (pattern) [mind-affecting]; **Level** sorcerer/wizard 1  
+**School** illusion (pattern) [mind-affecting]; **Level** bloodrager 1, magus 1, mesmerist 1, psychic 1, sorcerer/wizard 1  
 **Casting Time** 1 standard action  
 **Components** V, S, M (red, yellow, and blue powder or colored sand)  
 **Range** 15 ft.  

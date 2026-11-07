@@ -1,6 +1,6 @@
 # Helping Hand
 
-**School** evocation; **Level** cleric 3  
+**School** evocation; **Level** cleric 3, medium 2, psychic 3, spiritualist 3  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** 5 miles  

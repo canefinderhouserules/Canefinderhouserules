@@ -1,6 +1,6 @@
 # Spell Immunity, Communal
 
-**School** abjuration; **Level** cleric 5, inquisitor 5  
+**School** abjuration; **Level** cleric 5, inquisitor 5, occultist 5, psychic 5  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

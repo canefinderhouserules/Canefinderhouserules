@@ -1,6 +1,6 @@
 # Searing Light
 
-**School** evocation; **Level** cleric 3  
+**School** evocation; **Level** cleric 3, inquisitor 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

@@ -1,6 +1,6 @@
 # Summon Nature’s Ally IX
 
-**School** conjuration (summoning) [see text]; **Level** druid 9  
+**School** conjuration (summoning) [see text]; **Level** druid 9, shaman 9  
 **Casting Time** 1 round  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  

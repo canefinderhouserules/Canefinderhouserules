@@ -1,6 +1,6 @@
 # Giant Vermin
 
-**School** transmutation; **Level** cleric 4, druid 4  
+**School** transmutation; **Level** cleric 4, druid 4, shaman 4  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  

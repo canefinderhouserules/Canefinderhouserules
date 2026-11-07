@@ -1,6 +1,6 @@
 # Holy Word
 
-**School** evocation [good, sonic]; **Level** cleric 7  
+**School** evocation [good, sonic]; **Level** cleric 7, inquisitor 6  
 **Casting Time** 1 standard action  
 **Components** V  
 **Range** 40 ft.  

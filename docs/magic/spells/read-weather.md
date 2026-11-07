@@ -1,6 +1,6 @@
 # Read Weather
 
-**School** divination; **Level** bard 1, cleric 1, druid 1, ranger 1, witch 1  
+**School** divination; **Level** bard 1, cleric 1, druid 1, ranger 1, shaman 1, witch 1  
 **Casting Time** 1 minute  
 **Components** V, S, F (a set of marked sticks or bones worth at least 25 gp)  
 **Range** personal  

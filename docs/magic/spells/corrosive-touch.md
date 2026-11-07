@@ -1,6 +1,6 @@
 # Corrosive Touch
 
-**School** conjuration (creation) [acid]; **Level** magus 1, sorcerer/ wizard 1, summoner 1  
+**School** conjuration (creation) [acid]; **Level** bloodrager 1, magus 1, sorcerer/ wizard 1, summoner 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

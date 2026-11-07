@@ -1,6 +1,6 @@
 # Contact Other Plane
 
-**School** divination; **Level** sorcerer/wizard 5  
+**School** divination; **Level** alchemist 5, occultist 4, psychic 5, sorcerer/wizard 5, spiritualist 5, summoner 4, witch 5  
 **Casting Time** 10 minutes  
 **Components** V  
 **Range** personal  

@@ -1,6 +1,6 @@
 # Unwitting Ally
 
-**School** enchantment (charm) [mind-affecting]; **Level** bard 0  
+**School** enchantment (charm) [mind-affecting]; **Level** bard 0, mesmerist 0, psychic 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

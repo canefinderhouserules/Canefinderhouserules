@@ -1,6 +1,6 @@
 # Slipstream
 
-**School** conjuration (creation) [water]; **Level** druid 2, ranger 2, sorcerer/wizard 2  
+**School** conjuration (creation) [water]; **Level** bloodrager 2, druid 2, ranger 2, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (a few drops of oil and water)  
 **Range** touch  

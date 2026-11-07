@@ -1,6 +1,6 @@
 # Pain Strike, Mass
 
-**School** evocation [evil]; **Level** sorcerer/wizard 5, witch 5  
+**School** evocation [evil]; **Level** psychic 4, sorcerer/wizard 5, spiritualist 5, witch 5  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Targets** one living creature/level, no two of which can be more than 30 ft. apart  

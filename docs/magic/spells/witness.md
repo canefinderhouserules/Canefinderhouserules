@@ -1,6 +1,6 @@
 # Witness
 
-**School** divination (scrying); **Level** bard 3, inquisitor 3, witch 3  
+**School** divination (scrying); **Level** bard 3, inquisitor 3, medium 3, mesmerist 3, occultist 3, psychic 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  

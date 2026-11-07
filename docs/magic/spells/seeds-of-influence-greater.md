@@ -1,6 +1,6 @@
 # Seeds of Influence, Greater
 
-**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 5, medium 5, mesmerist 5, psychic 7, sorcerer/wizard 7, witch 7  
+**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 5, medium 4, mesmerist 5, psychic 7, sorcerer/wizard 7, witch 7  
 **Casting Time** 1 standard action  
 **Components** S, M (a rose)  
 **Range** close (25 ft. + 5 ft./2 levels)  

@@ -1,6 +1,6 @@
 # Ray of Enfeeblement
 
-**School** necromancy; **Level** sorcerer/wizard 1  
+**School** necromancy; **Level** bloodrager 1, magus 1, mesmerist 1, sorcerer/wizard 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

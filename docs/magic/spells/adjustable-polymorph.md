@@ -1,6 +1,6 @@
 # Adjustable Polymorph
 
-**School** transmutation (polymorph); **Level** alchemist 4, bard 4, magus 4, shaman 4, sorcerer/wizard 4, summoner 4, witch 4  
+**School** transmutation (polymorph); **Level** alchemist 4, bard 4, magus 4, medium 4, psychic 4, shaman 4, sorcerer/wizard 4, summoner 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a small piece of doppelganger flesh)  
 **Range** personal  

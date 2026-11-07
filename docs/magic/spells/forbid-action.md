@@ -1,6 +1,6 @@
 # Forbid Action
 
-**School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** cleric 1, inquisitor 1  
+**School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** cleric 1, inquisitor 1, mesmerist 1, occultist 1, psychic 1  
 **Casting Time** 1 standard action  
 **Components** V  
 **Range** close (25 ft. + 5 ft./2 levels)  

@@ -1,6 +1,6 @@
 # Haze of Dreams
 
-**School** enchantment (charm) [emotion, mind-affecting]; **Level** bard 1, cleric 1, inquisitor 1, paladin 1, witch 1  
+**School** enchantment (charm) [emotion, mind-affecting]; **Level** bard 1, cleric 1, inquisitor 1, paladin 1, shaman 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** V, M (pinch of sand)  
 **Range** close (25 ft. + 5 ft./2 levels)  

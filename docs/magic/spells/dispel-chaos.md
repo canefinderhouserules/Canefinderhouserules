@@ -1,6 +1,6 @@
 # Dispel Chaos
 
-**School** abjuration [lawful]; **Level** cleric 5, paladin 4  
+**School** abjuration [lawful]; **Level** cleric 5, inquisitor 5, paladin 4, shaman 5  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

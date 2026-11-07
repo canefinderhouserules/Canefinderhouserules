@@ -1,6 +1,6 @@
 # Flaming Sphere
 
-**School** evocation [fire]; **Level** druid 2, sorcerer/wizard 2  
+**School** evocation [fire]; **Level** bloodrager 2, druid 2, magus 2, occultist 2, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (tallow, brimstone, and powdered iron)  
 **Range** medium (100 ft. + 10 ft./level)  

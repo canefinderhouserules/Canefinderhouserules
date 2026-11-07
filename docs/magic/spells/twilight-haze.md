@@ -1,6 +1,6 @@
 # Twilight Haze
 
-**School** illusion (shadow) [darkness]; **Level** sorcerer/wizard 2, witch 2  
+**School** illusion (shadow) [darkness]; **Level** mesmerist 2, psychic 2, sorcerer/wizard 2, spiritualist 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

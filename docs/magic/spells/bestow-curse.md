@@ -1,6 +1,6 @@
 # Bestow Curse
 
-**School** necromancy; **Level** cleric 3, sorcerer/wizard 4  
+**School** necromancy; **Level** antipaladin 3, bloodrager 4, cleric 3, medium 2, mesmerist 3, occultist 3, shaman 3, sorcerer/wizard 4, spiritualist 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

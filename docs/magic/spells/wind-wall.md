@@ -1,6 +1,6 @@
 # Wind Wall
 
-**School** evocation [air]; **Level** cleric 3, druid 3, ranger 2, sorcerer/wizard 3  
+**School** evocation [air]; **Level** bloodrager 3, cleric 3, druid 3, magus 3, occultist 3, ranger 2, shaman 3, sorcerer/wizard 3, spiritualist 3, summoner 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (a tiny fan and an exotic feather)  
 **Range** medium (100 ft. + 10 ft./level)  

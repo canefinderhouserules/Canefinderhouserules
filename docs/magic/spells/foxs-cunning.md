@@ -1,6 +1,6 @@
 # Fox’s Cunning
 
-**School** transmutation; **Level** bard 2, sorcerer/wizard 2  
+**School** transmutation; **Level** alchemist 2, bard 2, medium 2, psychic 2, sorcerer/wizard 2, summoner 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (hairs or dung from a fox)  
 **Range** touch  

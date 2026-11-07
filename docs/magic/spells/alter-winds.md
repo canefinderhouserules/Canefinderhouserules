@@ -1,6 +1,6 @@
 # Alter Winds
 
-**School** transmutation [air]; **Level** druid 1, sorcerer/wizard 1  
+**School** transmutation [air]; **Level** druid 1, occultist 1, sorcerer/wizard 1, spiritualist 1  
 **Casting Time** 1 minute  
 **Components** V, S  
 **Range** touch  

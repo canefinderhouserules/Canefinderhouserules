@@ -1,6 +1,6 @@
 # Polar Midnight
 
-**School** transmutation [cold, darkness]; **Level** cleric 9, druid 9, witch 9  
+**School** transmutation [cold, darkness]; **Level** cleric 9, druid 9, shaman 9, witch 9  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

@@ -1,6 +1,6 @@
 # Touch of Slime
 
-**School** conjuration (creation) [disease]; **Level** alchemist 4, druid 4, sorcerer/wizard 4, witch 4  
+**School** conjuration (creation) [disease]; **Level** alchemist 4, bloodrager 4, druid 4, psychic 4, sorcerer/wizard 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a drop of acid and a black glass sphere)  
 **Range** touch  

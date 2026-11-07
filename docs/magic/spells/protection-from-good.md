@@ -1,6 +1,6 @@
 # Protection from Good
 
-**School** abjuration [evil]; **Level** cleric 1, sorcerer/wizard 1  
+**School** abjuration [evil]; **Level** antipaladin 1, bloodrager 1, cleric 1, inquisitor 1, medium 1, shaman 1, sorcerer/wizard 1, spiritualist 1, summoner 1  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF  
 **Range** touch  

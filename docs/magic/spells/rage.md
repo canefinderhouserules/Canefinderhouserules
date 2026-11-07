@@ -1,6 +1,6 @@
 # Rage
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, sorcerer/wizard 3  
+**School** enchantment (compulsion) [mind-affecting]; **Level** alchemist 3, bard 2, bloodrager 3, mesmerist 2, psychic 3, sorcerer/wizard 3, summoner 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

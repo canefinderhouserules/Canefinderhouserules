@@ -1,6 +1,6 @@
 # Wartrain Mount
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** antipaladin 1, bard 2, druid 2, inquisitor 1, paladin 1, ranger 1  
+**School** enchantment (compulsion) [mind-affecting]; **Level** antipaladin 1, bard 2, druid 2, inquisitor 1, mesmerist 2, paladin 1, ranger 1  
 **Casting Time** 1 minute  
 **Components** V, S, M (a swatch of black cloth)  
 **Range** close (25 ft. + 5 ft./2 levels)  

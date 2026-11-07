@@ -1,6 +1,6 @@
 # Major Image
 
-**School** illusion (figment); **Level** bard 3, sorcerer/wizard 3  
+**School** illusion (figment); **Level** bard 3, magus 3, medium 3, mesmerist 3, occultist 3, psychic 3, sorcerer/wizard 3  
 **Casting Time** 1 standard action  
 **Components** V, S, F (a bit of fleece)  
 **Range** long (400 ft. + 40 ft./level)  

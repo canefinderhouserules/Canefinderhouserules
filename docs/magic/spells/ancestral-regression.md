@@ -1,6 +1,6 @@
 # Ancestral Regression
 
-**School** transmutation (polymorph); **Level** alchemist 2, antipaladin 3, cleric 2, sorcerer/wizard 3, witch 2  
+**School** transmutation (polymorph); **Level** alchemist 2, antipaladin 3, cleric 2, psychic 2, sorcerer/wizard 3, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

@@ -1,6 +1,6 @@
 # Borrow Fortune
 
-**School** evocation; **Level** oracle 3  
+**School** evocation; **Level** cleric 3, medium 3, oracle 3, psychic 3  
 **Casting Time** 1 immediate action  
 **Components** V  
 **Range** personal  

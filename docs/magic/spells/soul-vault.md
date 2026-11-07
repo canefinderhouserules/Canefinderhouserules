@@ -1,6 +1,6 @@
 # Soul Vault
 
-**School** abjuration; **Level** cleric 3, druid 4, inquisitor 3, psychic 5, shaman 3, sorcerer/wizard 4, spiritualist 2, witch 4  
+**School** abjuration; **Level** cleric 3, druid 4, inquisitor 3, psychic 5, shaman 4, sorcerer/wizard 4, spiritualist 2, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

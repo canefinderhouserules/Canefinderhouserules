@@ -1,6 +1,6 @@
 # Summoner Conduit
 
-**School** necromancy; **Level** cleric 4, sorcerer/wizard 5, summoner 4, witch 5  
+**School** necromancy; **Level** cleric 4, occultist 4, psychic 5, sorcerer/wizard 5, summoner 4, witch 5  
 **Casting Time** 1 standard action  
 **Components** V, S, M (two flies)  
 **Range** close (25 ft. + 5 ft./2 levels)  

@@ -1,6 +1,6 @@
 # Destruction
 
-**School** necromancy [death]; **Level** cleric 7  
+**School** necromancy [death]; **Level** cleric 7, shaman 8, witch 8  
 **Casting Time** 1 standard action  
 **Components** V, S, F (holy or unholy symbol costing 500 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  

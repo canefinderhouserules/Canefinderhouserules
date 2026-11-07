@@ -1,6 +1,6 @@
 # Forced Quiet
 
-**School** transmutation [sonic]; **Level** bard 1, inquisitor 1, sorcerer/wizard 1, witch 1  
+**School** transmutation [sonic]; **Level** bard 1, inquisitor 1, mesmerist 1, psychic 1, sorcerer/wizard 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** S  
 **Range** medium (100 ft. + 10 ft./level)  

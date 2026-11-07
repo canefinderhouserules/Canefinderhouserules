@@ -1,6 +1,6 @@
 # Miserable Pity
 
-**School** abjuration [emotion, mind-affecting]; **Level** bard 2, sorcerer/wizard 2, witch 2  
+**School** abjuration [emotion, mind-affecting]; **Level** bard 2, mesmerist 2, psychic 2, sorcerer/wizard 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

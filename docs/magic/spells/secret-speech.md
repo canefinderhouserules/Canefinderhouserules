@@ -1,6 +1,6 @@
 # Secret Speech
 
-**School** divination; **Level** bard 1, cleric 2, inquisitor 1, sorcerer/wizard 2  
+**School** divination; **Level** bard 1, cleric 2, inquisitor 1, shaman 2, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

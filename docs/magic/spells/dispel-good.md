@@ -1,6 +1,6 @@
 # Dispel Good
 
-**School** abjuration [evil]; **Level** cleric 5  
+**School** abjuration [evil]; **Level** antipaladin 4, cleric 5, inquisitor 5, shaman 5  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

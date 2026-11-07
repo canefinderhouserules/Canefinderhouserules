@@ -1,6 +1,6 @@
 # Forcecage
 
-**School** evocation [force]; **Level** sorcerer/wizard 7  
+**School** evocation [force]; **Level** psychic 7, sorcerer/wizard 7  
 **Casting Time** 1 standard action  
 **Components** V, S, M (ruby dust worth 500 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  

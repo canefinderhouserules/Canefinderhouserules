@@ -1,6 +1,6 @@
 # Foresight
 
-**School** divination; **Level** druid 9, sorcerer/wizard 9  
+**School** divination; **Level** druid 9, psychic 9, shaman 9, sorcerer/wizard 9, witch 9  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (a hummingbird’s feather)  
 **Range** personal or touch  

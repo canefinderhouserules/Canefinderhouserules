@@ -1,6 +1,6 @@
 # Temporal Stasis
 
-**School** transmutation; **Level** sorcerer/wizard 8  
+**School** transmutation; **Level** psychic 8, sorcerer/wizard 8  
 **Casting Time** 1 standard action  
 **Components** V, S, M (powdered diamond, emerald, ruby, and sapphire dust worth 5,000 gp)  
 **Range** touch  

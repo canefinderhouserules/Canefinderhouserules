@@ -1,6 +1,6 @@
 # Wall of Blindness/Deafness
 
-**School** necromancy; **Level** bard 4, cleric 5, sorcerer/wizard 4, witch 4  
+**School** necromancy; **Level** bard 4, cleric 5, psychic 4, sorcerer/wizard 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

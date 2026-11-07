@@ -1,6 +1,6 @@
 # Irresistible Dance
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 6, sorcerer/wizard 8  
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 6, mesmerist 6, psychic 8, shaman 8, sorcerer/wizard 8, witch 8  
 **Casting Time** 1 standard action  
 **Components** V  
 **Range** touch  

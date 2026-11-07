@@ -1,6 +1,6 @@
 # Create Treasure Map
 
-**School** divination; **Level** bard 2, druid 3, ranger 2, sorcerer/ wizard 2  
+**School** divination; **Level** bard 2, druid 3, medium 2, occultist 2, psychic 2, ranger 2, sorcerer/ wizard 2  
 **Casting Time** 1 hour  
 **Components** V, S, M (powdered metal and rare inks worth 100 gp)  
 **Range** touch  

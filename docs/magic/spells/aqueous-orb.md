@@ -1,6 +1,6 @@
 # Aqueous Orb
 
-**School** conjuration (creation) [water]; **Level** druid 3, sorcerer/ wizard 3, summoner 3  
+**School** conjuration (creation) [water]; **Level** bloodrager 3, druid 3, magus 3, sorcerer/ wizard 3, summoner 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a drop of water and a glass bead)  
 **Range** medium (100 ft. + 10 ft./level)  

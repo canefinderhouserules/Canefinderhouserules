@@ -1,6 +1,6 @@
 # Loathsome Veil
 
-**School** illusion (pattern) [mind-affecting]; **Level** sorcerer/ wizard 3, witch 3  
+**School** illusion (pattern) [mind-affecting]; **Level** mesmerist 3, psychic 3, sorcerer/ wizard 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a tangle of multicolored threads)  
 **Range** close (25 ft. + 5 ft./2 levels)  

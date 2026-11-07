@@ -1,6 +1,6 @@
 # Magic Fang
 
-**School** transmutation; **Level** druid 1, ranger 1  
+**School** transmutation; **Level** druid 1, ranger 1, spiritualist 1, summoner 1  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

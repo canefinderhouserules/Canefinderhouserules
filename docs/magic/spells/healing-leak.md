@@ -1,6 +1,6 @@
 # Healing Leak
 
-**School** necromancy; **Level** antipaladin 2, cleric 3, paladin 2, sorcerer/wizard 3, witch 3  
+**School** necromancy; **Level** antipaladin 2, cleric 3, paladin 2, shaman 3, sorcerer/wizard 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (a piece of muslin)  
 **Range** touch  

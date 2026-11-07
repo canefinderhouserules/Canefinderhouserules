@@ -1,6 +1,6 @@
 # Zone of Truth
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** cleric 2, paladin 2  
+**School** enchantment (compulsion) [mind-affecting]; **Level** cleric 2, inquisitor 2, medium 2, paladin 2, psychic 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  

@@ -1,6 +1,6 @@
 # Mislead
 
-**School** illusion (figment, glamer); **Level** bard 5, sorcerer/wizard 6  
+**School** illusion (figment, glamer); **Level** alchemist 6, bard 5, magus 6, mesmerist 5, occultist 5, psychic 6, sorcerer/wizard 6, spiritualist 6  
 **Casting Time** 1 standard action  
 **Components** S  
 **Range** close (25 ft. + 5 ft./2 levels)  

@@ -1,6 +1,6 @@
 # False Life, Greater
 
-**School** necromancy; **Level** alchemist 4, sorcerer/wizard 4, witch 4  
+**School** necromancy; **Level** alchemist 4, bloodrager 4, medium 3, mesmerist 3, occultist 4, psychic 4, shaman 4, sorcerer/wizard 4, spiritualist 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a drop of blood)  
 **Range** personal  

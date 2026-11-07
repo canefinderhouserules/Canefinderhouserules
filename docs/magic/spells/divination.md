@@ -1,6 +1,6 @@
 # Divination
 
-**School** divination; **Level** cleric 4  
+**School** divination; **Level** cleric 4, inquisitor 4, medium 3, psychic 4, shaman 4, spiritualist 4, witch 4  
 **Casting Time** 10 minutes  
 **Components** V, S, M (incense and an appropriate offering worth 25 gp)  
 **Range** personal  

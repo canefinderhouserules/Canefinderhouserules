@@ -1,6 +1,6 @@
 # Control Winds
 
-**School** transmutation [air]; **Level** druid 5  
+**School** transmutation [air]; **Level** druid 5, occultist 5, shaman 5  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** 40 ft./level  

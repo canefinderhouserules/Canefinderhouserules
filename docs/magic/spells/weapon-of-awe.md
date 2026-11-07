@@ -1,6 +1,6 @@
 # Weapon of Awe
 
-**School** transmutation; **Level** cleric 2, inquisitor 2, paladin 2  
+**School** transmutation; **Level** cleric 2, inquisitor 2, occultist 2, paladin 2  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

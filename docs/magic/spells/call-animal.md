@@ -1,6 +1,6 @@
 # Call Animal
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** druid 1, ranger 1  
+**School** enchantment (compulsion) [mind-affecting]; **Level** druid 1, mesmerist 1, ranger 1  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** see description  

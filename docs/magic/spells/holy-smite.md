@@ -1,6 +1,6 @@
 # Holy Smite
 
-**School** evocation [good]; **Level** cleric 4  
+**School** evocation [good]; **Level** cleric 4, inquisitor 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

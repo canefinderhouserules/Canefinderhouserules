@@ -1,6 +1,6 @@
 # Curse of Magic Negation
 
-**School** abjuration [curse]; **Level** cleric 5, inquisitor 4, sorcerer/ wizard 4, witch 4  
+**School** abjuration [curse]; **Level** cleric 5, inquisitor 4, mesmerist 3, occultist 4, psychic 4, sorcerer/ wizard 4, witch 4  
 **Casting Time** 1 round  
 **Components** V, S, M (powdered lead and platinum worth 250 gp)  
 **Range** medium (100 ft. + 10 ft./level)  

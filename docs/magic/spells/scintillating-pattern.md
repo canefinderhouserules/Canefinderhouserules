@@ -1,6 +1,6 @@
 # Scintillating Pattern
 
-**School** illusion (pattern) [mind-affecting]; **Level** sorcerer/wizard 8  
+**School** illusion (pattern) [mind-affecting]; **Level** psychic 8, sorcerer/wizard 8  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a crystal prism)  
 **Range** close (25 ft. + 5 ft./2 levels)  

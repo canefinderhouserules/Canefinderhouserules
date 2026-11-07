@@ -1,6 +1,6 @@
 # Twilight Knife
 
-**School** evocation [force]; **Level** sorcerer/wizard 3, witch 3  
+**School** evocation [force]; **Level** bloodrager 3, occultist 3, psychic 3, sorcerer/wizard 3, spiritualist 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S, F (a small knife)  
 **Range** close (25 ft. + 5 ft./2 levels)  

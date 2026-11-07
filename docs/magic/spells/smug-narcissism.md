@@ -1,6 +1,6 @@
 # Smug Narcissism
 
-**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 3, sorcerer/wizard 5, witch 5  
+**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 3, mesmerist 3, psychic 5, sorcerer/wizard 5, witch 5  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a tiny shard of a mirror)  
 **Range** close (25 ft. + 5 ft./2 levels)  

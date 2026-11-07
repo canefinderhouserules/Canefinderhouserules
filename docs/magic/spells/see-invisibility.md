@@ -1,6 +1,6 @@
 # See Invisibility
 
-**School** divination; **Level** bard 3, sorcerer/wizard 2  
+**School** divination; **Level** alchemist 2, bard 3, bloodrager 2, inquisitor 2, mesmerist 3, occultist 2, psychic 2, sorcerer/wizard 2, spiritualist 2, summoner 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M (talc and powdered silver)  
 **Range** personal  

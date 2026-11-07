@@ -1,6 +1,6 @@
 # Freedom
 
-**School** abjuration; **Level** sorcerer/wizard 9  
+**School** abjuration; **Level** psychic 9, sorcerer/wizard 9  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels) or see text  

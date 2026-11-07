@@ -1,6 +1,6 @@
 # Touch Injection
 
-**School** transmutation; **Level** alchemist 2, sorcerer/wizard 3  
+**School** transmutation; **Level** alchemist 2, psychic 3, sorcerer/wizard 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

@@ -1,6 +1,6 @@
 # Ironwood
 
-**School** transmutation; **Level** druid 6  
+**School** transmutation; **Level** druid 6, occultist 6  
 **Casting Time** 1 minute/lb. created  
 **Components** V, S, F (wood to be transformed)  
 **Range** 0 ft.  

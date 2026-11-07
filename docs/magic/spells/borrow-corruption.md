@@ -1,6 +1,6 @@
 # Borrow Corruption
 
-**School** transmutation [evil]; **Level** antipaladin 2, cleric 4, druid 4, medium 2, occultist 3, psychic 4, shaman 4, witch 4  
+**School** transmutation [evil]; **Level** antipaladin 2, cleric 4, druid 4, medium 2, occultist 3, psychic 4, ranger 4, shaman 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a dirty scrap of a good priest’s raiment)  
 **Range** touch  

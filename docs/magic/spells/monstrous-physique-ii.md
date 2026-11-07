@@ -1,6 +1,6 @@
 # Monstrous Physique II
 
-**School** transmutation (polymorph); **Level** alchemist 4, magus 4, sorcerer/wizard 4  
+**School** transmutation (polymorph); **Level** alchemist 4, bloodrager 4, magus 4, sorcerer/wizard 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a piece of the creature whose form you plan to assume)  
 **Range** personal  

@@ -1,6 +1,6 @@
 # Displacement
 
-**School** illusion (glamer); **Level** bard 3, sorcerer/wizard 3  
+**School** illusion (glamer); **Level** alchemist 3, bard 3, magus 3, medium 3, mesmerist 3, occultist 3, psychic 3, sorcerer/wizard 3, spiritualist 3, summoner 3  
 **Casting Time** 1 standard action  
 **Components** V, M (a small loop of leather)  
 **Range** touch  

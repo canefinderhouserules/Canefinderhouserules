@@ -1,6 +1,6 @@
 # Invigorate, Mass
 
-**School** illusion [figment]; **Level** bard 3  
+**School** illusion [figment]; **Level** bard 3, mesmerist 3, psychic 4  
 **Casting Time** 1 standard action  
 **Components** V  
 **Targets** creatures touched, up to one/level  

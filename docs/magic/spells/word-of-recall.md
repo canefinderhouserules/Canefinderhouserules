@@ -1,6 +1,6 @@
 # Word of Recall
 
-**School** conjuration (teleportation); **Level** cleric 6, druid 8  
+**School** conjuration (teleportation); **Level** cleric 6, druid 8, psychic 7  
 **Casting Time** 1 standard action  
 **Components** V  
 **Range** unlimited  

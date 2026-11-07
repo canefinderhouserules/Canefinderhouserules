@@ -1,6 +1,6 @@
 # Sequester
 
-**School** abjuration; **Level** sorcerer/wizard 7  
+**School** abjuration; **Level** psychic 7, sorcerer/wizard 7, summoner 5  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a basilisk eyelash and gum arabic)  
 **Range** touch  

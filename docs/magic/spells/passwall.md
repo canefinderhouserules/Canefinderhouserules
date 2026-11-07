@@ -1,6 +1,6 @@
 # Passwall
 
-**School** transmutation; **Level** sorcerer/wizard 5  
+**School** transmutation; **Level** mesmerist 5, psychic 5, sorcerer/wizard 5  
 **Casting Time** 1 standard action  
 **Components** V, S, M (sesame seeds)  
 **Range** touch  

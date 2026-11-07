@@ -1,6 +1,6 @@
 # Permanency
 
-**School** universal; **Level** sorcerer/wizard 5  
+**School** universal; **Level** psychic 5, sorcerer/wizard 5  
 **Casting Time** 2 rounds  
 **Components** V, S, M (see tables below)  
 **Range** see text  

@@ -1,6 +1,6 @@
 # Speak with Haunt
 
-**School** necromancy [language-dependent]; **Level** cleric 4, shaman 3, witch 4  
+**School** necromancy [language-dependent]; **Level** cleric 4, medium 2, psychic 4, shaman 3, spiritualist 4, witch 4  
 **Casting Time** 10 minutes  
 **Components** V, S, DF  
 **Range** 10 ft. (see text)  

@@ -1,6 +1,6 @@
 # Daybreak Arrow
 
-**School** evocation [light]; **Level** cleric 3, inquisitor 3, paladin 3  
+**School** evocation [light]; **Level** cleric 3, inquisitor 3, occultist 3, paladin 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

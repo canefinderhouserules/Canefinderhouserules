@@ -1,6 +1,6 @@
 # Brilliant Inspiration
 
-**School** evocation [language-dependent]; **Level** bard 6  
+**School** evocation [language-dependent]; **Level** bard 6, psychic 8  
 **Casting Time** 1 standard action  
 **Components** V  
 **Range** close (25 ft. + 5 ft./2 levels)  

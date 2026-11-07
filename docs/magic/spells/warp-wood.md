@@ -1,6 +1,6 @@
 # Warp Wood
 
-**School** transmutation; **Level** druid 2  
+**School** transmutation; **Level** druid 2, occultist 2, shaman 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

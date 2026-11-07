@@ -1,6 +1,6 @@
 # Legend Lore
 
-**School** divination; **Level** bard 4, sorcerer/wizard 6  
+**School** divination; **Level** bard 4, inquisitor 6, medium 4, occultist 6, psychic 6, sorcerer/wizard 6, spiritualist 6, witch 6  
 **Casting Time** see text  
 **Components** V, S, M (incense worth 250 gp), F (four pieces of ivory worth 50 gp each)  
 **Range** personal  

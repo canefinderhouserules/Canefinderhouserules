@@ -1,6 +1,6 @@
 # Clairaudience/Clairvoyance
 
-**School** divination (scrying); **Level** bard 3, sorcerer/wizard 3  
+**School** divination (scrying); **Level** bard 3, medium 2, mesmerist 3, occultist 3, psychic 3, shaman 3, sorcerer/wizard 3, spiritualist 3, witch 3  
 **Casting Time** 10 minutes  
 **Components** V, S, F/DF (a small horn or a glass eye)  
 **Range** long (400 ft. + 40 ft./level)  

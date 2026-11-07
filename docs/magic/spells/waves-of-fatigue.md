@@ -1,6 +1,6 @@
 # Waves of Fatigue
 
-**School** necromancy; **Level** sorcerer/wizard 5  
+**School** necromancy; **Level** mesmerist 5, psychic 5, sorcerer/wizard 5, spiritualist 5, witch 5  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** 30 ft.  

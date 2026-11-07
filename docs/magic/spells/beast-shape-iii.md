@@ -1,6 +1,6 @@
 # Beast Shape III
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 5  
+**School** transmutation (polymorph); **Level** alchemist 5, magus 5, sorcerer/wizard 5  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a piece of the creature whose form you plan to assume)  
 **Range** personal  

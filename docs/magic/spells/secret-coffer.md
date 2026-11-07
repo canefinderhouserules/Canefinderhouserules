@@ -1,6 +1,6 @@
 # Secret Coffer
 
-**School** conjuration (summoning); **Level** sorcerer/wizard 2, witch 2  
+**School** conjuration (summoning); **Level** sorcerer/wizard 2, witch 3  
 **Casting Time** 10 minutes  
 **Components** V, S, F (the coffer and its matching ring)  
 **Target** one small coffer and up to 1 cu. ft. of goods  

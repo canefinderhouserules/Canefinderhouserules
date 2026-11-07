@@ -1,6 +1,6 @@
 # Call Lightning
 
-**School** evocation [electricity]; **Level** druid 3  
+**School** evocation [electricity]; **Level** druid 3, occultist 3, shaman 3  
 **Casting Time** 1 round  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

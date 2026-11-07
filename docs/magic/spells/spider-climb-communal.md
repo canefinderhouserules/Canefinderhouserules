@@ -1,6 +1,6 @@
 # Spider Climb, Communal
 
-**School** transmutation; **Level** alchemist 3, druid 3, sorcerer/wizard 3, summoner 3  
+**School** transmutation; **Level** alchemist 3, druid 3, occultist 3, psychic 3, sorcerer/wizard 3, summoner 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a live spider)  
 **Range** touch  

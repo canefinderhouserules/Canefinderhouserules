@@ -1,6 +1,6 @@
 # Stinking Cloud
 
-**School** conjuration (creation); **Level** sorcerer/wizard 3  
+**School** conjuration (creation); **Level** bloodrager 3, magus 3, shaman 3, sorcerer/wizard 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a rotten egg or cabbage leaves)  
 **Range** medium (100 ft. + 10 ft./level)  

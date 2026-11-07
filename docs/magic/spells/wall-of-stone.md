@@ -1,6 +1,6 @@
 # Wall of Stone
 
-**School** conjuration (creation) [earth]; **Level** cleric 5, druid 6, sorcerer/wizard 5  
+**School** conjuration (creation) [earth]; **Level** cleric 5, druid 6, magus 5, occultist 5, shaman 6, sorcerer/wizard 5, summoner 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (a small block of granite)  
 **Range** medium (100 ft. + 10 ft./level)  

@@ -1,6 +1,6 @@
 # Parasitic Soul
 
-**School** necromancy [death, evil]; **Level** cleric 9, sorcerer/wizard 9, witch 9  
+**School** necromancy [death, evil]; **Level** cleric 9, psychic 9, shaman 9, sorcerer/wizard 9, witch 9  
 **Casting Time** 1 standard action  
 **Components** V, S, F  
 **Range** medium (100 ft. + 10 ft./level)  

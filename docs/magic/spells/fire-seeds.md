@@ -1,6 +1,6 @@
 # Fire Seeds
 
-**School** conjuration (creation) [fire]; **Level** druid 6  
+**School** conjuration (creation) [fire]; **Level** druid 6, shaman 6  
 **Casting Time** 1 standard action  
 **Components** V, S, M (acorns or holly berries)  
 **Range** touch  

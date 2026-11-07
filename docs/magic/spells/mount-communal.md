@@ -1,6 +1,6 @@
 # Mount, Communal
 
-**School** conjuration (summoning); **Level** magus 2, sorcerer/wizard 2, summoner 2, witch 2  
+**School** conjuration (summoning); **Level** magus 2, occultist 2, sorcerer/wizard 2, summoner 2, witch 2  
 **Casting Time** 1 round  
 **Components** V, S, M (a bit of horse hair)  
 **Range** close (25 ft. + 5 ft./2 levels)  

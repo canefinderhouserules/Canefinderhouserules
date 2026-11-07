@@ -1,6 +1,6 @@
 # Fly, Mass
 
-**School** transmutation; **Level** sorcerer/wizard 7  
+**School** transmutation; **Level** psychic 7, sorcerer/wizard 7  
 **Casting Time** 1 standard action  
 **Components** V, S, F (a wing feather)  
 **Range** close (25 ft. + 5 ft./2 levels)  

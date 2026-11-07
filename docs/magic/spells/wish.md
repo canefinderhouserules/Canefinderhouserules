@@ -1,6 +1,6 @@
 # Wish
 
-**School** universal; **Level** sorcerer/wizard 9  
+**School** universal; **Level** psychic 9, sorcerer/wizard 9  
 **Casting Time** 1 standard action  
 **Components** V, S, M (diamond worth 25,000 gp)  
 **Range** see text  

@@ -1,6 +1,6 @@
 # Hallucinatory Terrain
 
-**School** illusion (glamer); **Level** bard 4, sorcerer/wizard 4  
+**School** illusion (glamer); **Level** bard 4, mesmerist 4, psychic 4, sorcerer/wizard 4  
 **Casting Time** 10 minutes  
 **Components** V, S, M (a stone, a twig, and a green leaf)  
 **Range** long (400 ft. + 40 ft./level)  

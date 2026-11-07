@@ -1,6 +1,6 @@
 # Create Demiplane, Greater
 
-**School** conjuration (creation); **Level** cleric 9, sorcerer/wizard 9, witch 9  
+**School** conjuration (creation); **Level** cleric 9, psychic 9, sorcerer/wizard 9, witch 9  
 **Casting Time** 6 hours  
 **Components** V, S, F (a forked metal rod worth at least 500 gp)  
 **Effect** extradimensional demiplane, up to 20 10-ft. cubes/level (S)  

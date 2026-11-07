@@ -1,6 +1,6 @@
 # Repulsion
 
-**School** abjuration; **Level** cleric 7, sorcerer/wizard 6  
+**School** abjuration; **Level** cleric 7, inquisitor 6, occultist 6, psychic 7, sorcerer/wizard 6, spiritualist 6, summoner 5  
 **Casting Time** 1 standard action  
 **Components** V, S, F/DF (a pair of canine statuettes worth 50 gp)  
 **Range** up to 10 ft./level  

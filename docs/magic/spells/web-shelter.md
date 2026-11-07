@@ -1,6 +1,6 @@
 # Web Shelter
 
-**School** conjuration (creation); **Level** cleric 2, druid 2, ranger 2, sorcerer/wizard 2, summoner 2, witch 2  
+**School** conjuration (creation); **Level** cleric 2, druid 2, ranger 2, shaman 2, sorcerer/wizard 2, summoner 2, witch 2  
 **Casting Time** 1 minute  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./two levels)  

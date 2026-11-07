@@ -1,6 +1,6 @@
 # Meld into Stone
 
-**School** transmutation [earth]; **Level** cleric 3, druid 3  
+**School** transmutation [earth]; **Level** cleric 3, druid 3, psychic 3  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** personal  

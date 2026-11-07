@@ -1,6 +1,6 @@
 # Symbol of Healing
 
-**School** conjuration (healing); **Level** cleric 3, paladin 4, witch 4  
+**School** conjuration (healing); **Level** cleric 3, occultist 3, paladin 4, witch 4  
 **Casting Time** 10 minutes  
 **Components** V, S, M (mercury and phosphorous, plus  
 **Range** 0 ft.; see text  

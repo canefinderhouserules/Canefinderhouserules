@@ -1,6 +1,6 @@
 # Confusion, Lesser
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 1  
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, medium 1, mesmerist 1, psychic 1  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  

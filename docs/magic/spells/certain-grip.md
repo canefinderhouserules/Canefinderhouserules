@@ -1,6 +1,6 @@
 # Certain Grip
 
-**School** transmutation; **Level** alchemist 2, druid 2, sorcerer/wizard 2  
+**School** transmutation; **Level** alchemist 2, bloodrager 2, druid 2, occultist 2, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (a tiny ball of tar)  
 **Range** touch  

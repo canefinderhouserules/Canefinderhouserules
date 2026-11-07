@@ -4,7 +4,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 
 ## 1st-Level Antipaladin Spells
 
-- **[Animal Purpose Training](animal-purpose-training.md)**: You instill the target animal with a general purpose (see the Handle Animal skill), which can be any purpose except…
+- **[Animal Purpose Training](animal-purpose-training.md)**: Animal gains a new general purpose.
 - **[Barbed Chains](barbed-chains.md)**: Hellish chains attack and cause a target to become shaken.
 - **[Bleeding Strike](bleeding-strike.md)**: You imbue a slashing melee weapon with the ability to create a bleeding wound.
 - **[Blood Blaze](blood-blaze.md)**: School transmutation [fire]; Level alchemist 2, antipaladin 1, cleric 2, magus 2, sorcerer/wizard 2, witch 2.
@@ -29,7 +29,6 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Gravity Bow](gravity-bow.md)**: Arrows do damage as though one size category bigger.
 - **[Guardian Armor](guardian-armor.md)**: Teleports your armor onto an ally.
 - **[Halfling Vengeance](halfling-vengeance.md)**: You grant the touched target the ability to ascertain the weaknesses of foes.
-- **[Halfling Vengeance, Mass](halfling-vengeance-mass.md)**: You grant the touched target the ability to ascertain the weaknesses of foes.
 - **[Haunting Reminder](haunting-reminder.md)**: Coerced target becomes shaken if it betrays you.
 - **[Hedging Weapons](hedging-weapons.md)**: Floating weapons protect you and make ranged attacks.
 - **[Hide Bruises](hide-bruises.md)**: Make wounds appear to vanish
@@ -76,7 +75,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Blood Scent](blood-scent.md)**: School transmutation; Level alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2.
 - **[Borrow Corruption](borrow-corruption.md)**: Temporarily gain the effects of a corrupted creature’s manifestations.
 - **[Brittle Portal](brittle-portal.md)**: Reduce the hardness of a surface.
-- **[Bullet Ward](bullet-ward.md)**: You toss several adamantine bullets into the air, which then hover protectively nearby and intercept firearm attacks…
+- **[Bullet Ward](bullet-ward.md)**: Hovering adamantine bullets intercept firearm attacks aimed at you.
 - **[Curse of Keeping](curse-of-keeping.md)**: Target cannot sell, barter, or give away its items.
 - **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
 - **[Detect Desires](detect-desires.md)**: Learn what creatures desire.
@@ -93,7 +92,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Ignoble Form](ignoble-form.md)**: a drow takes on a half-elf's form
 - **[Improve Trap](improve-trap.md)**: When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of.
 - **[Inflict Pain](inflict-pain.md)**: Target takes a –4 penalty on attack rolls, skill checks, and ability checks.
-- **[Invisibility Bubble](invisibility-bubble.md)**: A glamered bubble surrounds the target’s space, rendering her completely invisible underwater by hiding both the…
+- **[Invisibility Bubble](invisibility-bubble.md)**: As invisibility, but altered to work better underwater.
 - **[Ironskin](ironskin.md)**: Harden your skin to iron
 - **[Jealous Rage](jealous-rage.md)**: Target attacks anyone who receives a benefit it does not.
 - **[Lesser Nondetection](lesser-nondetection.md)**: Blocks area-targeted divinations.
@@ -125,7 +124,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Sickening Strikes](sickening-strikes.md)**: You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be.
 - **[Spellcurse](spellcurse.md)**: Deals 1d6 damage per ongoing spell on the target.
 - **[Spiritual Squire](spiritual-squire.md)**: A force servant helps carry, aid, and armor allies.
-- **[Summon Monster 2](summon-monster-2.md)**: This spell functions like summon monster I, except that you can summon one creature from the 2nd-level list or…
+- **[Summon Monster 2](summon-monster-2.md)**: Summons extraplanar creature to fight for you.
 - **[Touch of Bloodletting](touch-of-bloodletting.md)**: Wounded target bleeds and is exhausted.
 - **[Toxic Gift](toxic-gift.md)**: Target suffers the effect of a poison in you.
 - **[Umbral Weapon](umbral-weapon.md)**: Reroll missed attacks for cold damage.
@@ -140,11 +139,11 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 ## 3rd-Level Antipaladin Spells
 
 - **[Accursed Glare](accursed-glare.md)**: Target rolls attacks and saves twice and takes the lower result.
-- **[Adjustable Disguise](adjustable-disguise.md)**: This spell functions as disguise self, except as a swift action you can alter the disguise (within the limitations…
+- **[Adjustable Disguise](adjustable-disguise.md)**: As disguise self, but you can change the disguise as a swift action.
 - **[Ancestral Regression](ancestral-regression.md)**: School transmutation (polymorph); Level alchemist 2, antipaladin 3, cleric 2, sorcerer/wizard 3, witch 2.
 - **[Ancestral Revision](ancestral-revision.md)**: a wayang appears as a gnome-like version of herself
 - **[Battle Trance](battle-trance.md)**: 3, witch 4 Casting Time 1 standard action Components V, S Range personal Target you Duration 1 minute/level.
-- **[Bestow Auras](bestow-auras.md)**: You transfer one or more of your paladin or antipaladin auras (such as aura of courage and aura of resolve) to…
+- **[Bestow Auras](bestow-auras.md)**: Transfer your paladin or antipaladin auras to another creature.
 - **[Black Sword of War](black-sword-of-war.md)**: A weapon deals bleed damage equal to half your caster level.
 - **[Blade of Dark Triumph](blade-of-dark-triumph.md)**: Bonded weapon gains ghost touch.
 - **[Bloody Arrows](bloody-arrows.md)**: Ranged hits cause stacking bleed.
@@ -182,12 +181,13 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Shared Sacrifice](shared-sacrifice.md)**: Redirect half your damage to a target.
 - **[Shield of Darkness](shield-of-darkness.md)**: magical darkness grants you total concealment
 - **[Stage Fright](stage-fright.md)**: Targets take –4 on ability, skill, and concentration checks.
-- **[Summon Monster 3](summon-monster-3.md)**: This spell functions like summon monster I, except that you can summon one creature from the 3rd-level list, 1…
+- **[Summon Monster 3](summon-monster-3.md)**: Summons extraplanar creature to fight for you.
 - **[Tail Strike](tail-strike.md)**: Grow a draconic tail with a slam attack.
 - **[Titanic Anchoring](titanic-anchoring.md)**: You become nearly immovable by combat maneuvers.
 - **[Trial by Fire](trial-by-fire.md)**: Divine fire punishes targets whose alignment differs from your deity’s.
 - **[Unhallowed Blows, Greater](unhallowed-blows-greater.md)**: As unhallowed blows, with a larger bonus and longer duration.
 - **[Unholy Ward](unholy-ward.md)**: Resist 10 damage from holy sources.
+- **[Unlife Current](unlife-current.md)**: Infuse a current with negative energy, damaging all living creatures within
 - **[Utter Contempt](utter-contempt.md)**: Target’s attitude worsens by two categories.
 - **[Vampiric Hunger](vampiric-hunger.md)**: Target drains blood while pinning to heal or gain temporary hit points.
 - **[Venomous Promise](venomous-promise.md)**: A secret is guarded by a poison that triggers if revealed.
@@ -215,6 +215,7 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Eyes of the Void](eyes-of-the-void.md)**: You gain darkvision, the ability to see 60 feet even in total darkness, including that created by deeper darkness.
 - **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
 - **[Foster Hatred](foster-hatred.md)**: Cause creatures to hate one type of creature.
+- **[Halfling Vengeance, Mass](halfling-vengeance-mass.md)**: You grant the touched target the ability to ascertain the weaknesses of foes.
 - **[Harvest Knowledge](harvest-knowledge.md)**: Absorb a creature's knowledge
 - **[Hasten Judgment](hasten-judgment.md)**: Quicken a soul's journey to judgment, hampering resurrection or weakening undead foes
 - **[Illusion of Treachery, Greater](illusion-of-treachery-greater.md)**: Make it seem like another is responsible for your attacks while concealing your own actions.
@@ -226,10 +227,11 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Litany of Thunder](litany-of-thunder.md)**: A single target is deafened until the condition is removed, and is confused for 1 round.
 - **[Litany of Vengeance](litany-of-vengeance.md)**: Allies attacking the target of the spell gain a +5 bonus on damage rolls for 1 round.
 - **[Magic Siege Engine, Greater](magic-siege-engine-greater.md)**: Siege engine gains +1 on targeting and damage rolls for every four caster levels.
+- **[Malediction](malediction.md)**: Banish a soul to Hell if it dies within the next minute.
 - **[Mark of the Reptile God](mark-of-the-reptile-god.md)**: Burn a handprint that scales the target and drains Charisma.
 - **[Masochistic Shadow](masochistic-shadow.md)**: a shadow attacks the target, dealing Strength damage each round
 - **[Night of Blades](night-of-blades.md)**: Wall of whirling blades.
-- **[Nondetection, Communal](nondetection-communal.md)**
+- **[Nondetection, Communal](nondetection-communal.md)**: As nondetection, but you divide the duration among creatures or objects touched.
 - **[Overwhelming Poison](overwhelming-poison.md)**: Make a poison more difficult to resist.
 - **[Profane Nimbus](profane-nimbus.md)**: Unholy energy damages good creatures that attack you and protects you from good attacks.
 - **[Redcap's Touch](redcaps-touch.md)**: A bloodied hat grants +2 damage and healing on kills.
@@ -239,12 +241,16 @@ New antipaladin spells from *Ultimate Magic*. Spells from other books will be ad
 - **[Shroud of Darkness](shroud-of-darkness.md)**: Plunge targets into supernatural darkness
 - **[Speak with Soul](speak-with-soul.md)**: Hold an extended conversation with a soul
 - **[Spellfire Jinx](spellfire-jinx.md)**: Cursed caster burns and may lose spells.
-- **[Summon Monster 4](summon-monster-4.md)**: This spell functions like summon monster I, except that you can summon one creature from the 4th-level list, 1…
+- **[Summon Monster 4](summon-monster-4.md)**: Summons extraplanar creature to fight for you.
 - **[Torpid Reanimation](torpid-reanimation.md)**: *Animate dead* when a specific trigger condition occurs.
 - **[Transplant Visage](transplant-visage.md)**: Wear a stolen face for +10 on Disguise.
 - **[Umbral Infusion](umbral-infusion.md)**: a mindless undead gains the advanced template but may go out of control
 - **[Unholy Sword](unholy-sword.md)**: Weapon becomes +5, deals +2d6 damage vs. good.
 - **[Wall of Bone](wall-of-bone.md)**: A wall of grasping skeletal hands.
+
+## 6th-Level Antipaladin Spells
+
+- **[Plague Bearer](plague-bearer.md)**: Make the target a carrier of numerous diseases.
 
 ## Advanced Player's Guide Antipaladin Spell List
 
@@ -255,14 +261,14 @@ The complete antipaladin spell list from the *Advanced Player's Guide*, includin
 - **[Bane](bane.md)**: Enemies take –1 on attack rolls and saves vs. fear.
 - **[Cause Fear](cause-fear.md)**: A creature of 5 HD or less flees for 1d4 rounds.
 - **[Command](command.md)**: One subject obeys a command for 1 round.
-- **[Curse Water](curse-water.md)** (M): Makes water unholy.
+- **[Curse Water](curse-water.md)**: (M): Makes water unholy.
 - **[Death Knell](death-knell.md)**: Kills dying creature; you gain 1d8 temporary hp, +2 to Str, and +1 caster level.
 - **[Detect Poison](detect-poison.md)**: Detects poison in a creature or object.
 - **[Disguise Self](disguise-self.md)**: Changes your appearance.
 - **[Doom](doom.md)**: One subject takes –2 on attack rolls, damage rolls, saves, and checks.
 - **[Inflict Light Wounds](inflict-light-wounds.md)**: Touch deals 1d8 damage +1/level (max +5).
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
-- **Protection from Good/Law**: +2 to AC and saves, plus additional protection against selected alignments.
+- **[Protection from Good](protection-from-good.md)/[Protection from Law](protection-from-law.md)**: +2 to AC and saves, plus additional protection against selected alignments.
 - **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
 - **[Summon Monster I](summon-monster-i.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
 
@@ -273,7 +279,7 @@ The complete antipaladin spell list from the *Advanced Player's Guide*, includin
 - **[Corruption Resistance](corruption-resistance.md)**: Protects creature against damage from alignment-based attacks.
 - **[Darkness](darkness.md)**: 20-ft. radius of supernatural shadow.
 - **[Darkvision](darkvision.md)**: See 60 ft. in total darkness.
-- **[Desecrate](desecrate.md)** (M): Fills area with negative energy; aids undead.
+- **[Desecrate](desecrate.md)**: (M): Fills area with negative energy; aids undead.
 - **[Eagle’s Splendor](eagles-splendor.md)**: Subject gains +4 to Cha for 1 min./ level.
 - **[Hold Person](hold-person.md)**: Paralyzes one humanoid for 1 round/level.
 - **[Invisibility](invisibility.md)**: Subject is invisible for 1 min./level or until it attacks.
@@ -284,16 +290,16 @@ The complete antipaladin spell list from the *Advanced Player's Guide*, includin
 
 ### 3rd-Level Antipaladin Spells
 
-- **[Animate Dead](animate-dead.md)** (M): Creates undead skeletons and zombies.
+- **[Animate Dead](animate-dead.md)**: (M): Creates undead skeletons and zombies.
 - **[Bestow Curse](bestow-curse.md)**: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
 - **[Contagion](contagion.md)**: Infects subject with chosen disease.
 - **[Deeper Darkness](deeper-darkness.md)**: Object sheds shadows in 60-ft. radius.
 - **[Defile Armor](defile-armor.md)**: As sanctify armor, but gain DR 5/good when using judgment or smite.
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Inflict Moderate Wounds](inflict-moderate-wounds.md)**: Touch attack, 2d8 damage +1/ level (max +10).
-- **Magic Circle against Good/Law**: As protection spells, but 10-ft. radius and 10 min./level.
+- **[Magic Circle against Good](magic-circle-against-good.md)/[Magic Circle against Law](magic-circle-against-law.md)**: As protection spells, but 10-ft. radius and 10 min./level.
 - **[Magic Weapon, Greater](magic-weapon-greater.md)**: Weapon gains +1 bonus/four levels (max +5).
-- **[Nondetection](nondetection.md)** (M): Hides subject from divination, scrying.
+- **[Nondetection](nondetection.md)**: (M): Hides subject from divination, scrying.
 - **[Summon Monster III](summon-monster-iii.md)**: (Evil creatures only.) Summons extraplanar creature to fight for you.
 - **[Vampiric Touch](vampiric-touch.md)**: Touch deals 1d6 damage/2 levels; caster gains damage as temporary hp.
 

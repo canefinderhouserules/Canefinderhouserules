@@ -1,6 +1,6 @@
 # Blessing of Luck and Resolve, Mass
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** cleric 2, inquisitor 2, oracle 2, paladin 2, warpriest 2 (halfling)  
+**School** enchantment (compulsion) [mind-affecting]; **Level** cleric 6, inquisitor 6, oracle 6, paladin 4, warpriest 6 (halfling)  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

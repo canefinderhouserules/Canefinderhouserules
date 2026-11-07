@@ -1,6 +1,6 @@
 # Dispel Magic, Greater
 
-**School** abjuration; **Level** bard 5, cleric 6, druid 6, sorcerer/wizard 6  
+**School** abjuration; **Level** bard 5, cleric 6, druid 6, inquisitor 6, magus 6, occultist 5, psychic 6, shaman 6, sorcerer/wizard 6, spiritualist 6, summoner 5, witch 6  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

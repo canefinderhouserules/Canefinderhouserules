@@ -1,6 +1,6 @@
 # Divine Vessel
 
-**School** transmutation [chaotic, evil, good, or lawful]; **Level** oracle 8  
+**School** transmutation [chaotic, evil, good, or lawful]; **Level** cleric 8, oracle 8  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

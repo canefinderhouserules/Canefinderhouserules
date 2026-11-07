@@ -1,6 +1,6 @@
 # Minor Creation
 
-**School** conjuration (creation); **Level** sorcerer/wizard 4  
+**School** conjuration (creation); **Level** occultist 3, psychic 4, sorcerer/wizard 4, spiritualist 3, summoner 3, witch 4  
 **Casting Time** 1 minute  
 **Components** V, S, M (a tiny piece of matter of the same sort of item you plan to create with *minor creation)*  
 **Range** 0 ft.  

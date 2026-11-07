@@ -1,6 +1,6 @@
 # Prestidigitation
 
-**School** universal; **Level** bard 0, sorcerer/wizard 0  
+**School** universal; **Level** bard 0, magus 0, medium 0, mesmerist 0, psychic 0, sorcerer/wizard 0  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** 10 ft.  

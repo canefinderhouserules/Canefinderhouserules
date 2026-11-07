@@ -1,6 +1,6 @@
 # Cure Moderate Wounds, Mass
 
-**School** conjuration (healing); **Level** bard 6, cleric 6, druid 7  
+**School** conjuration (healing); **Level** bard 6, cleric 6, druid 7, inquisitor 6, occultist 6, shaman 6, witch 7  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

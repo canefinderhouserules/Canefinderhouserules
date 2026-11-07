@@ -1,6 +1,6 @@
 # Simulacrum, Lesser
 
-**School** illusion (shadow); **Level** sorcerer/wizard 4  
+**School** illusion (shadow); **Level** psychic 4, sorcerer/wizard 4  
 **Casting Time** 1 hour  
 **Components** V, S, M (an ice sculpture of the target plus powdered rubies worth 50 gp per HD of the simulacrum)  
 **Range** 0 ft.  

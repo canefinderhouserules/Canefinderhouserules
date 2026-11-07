@@ -1,6 +1,6 @@
 # Follow Aura
 
-**School** divination [chaotic, evil, good, or lawful]; **Level** inquisitor 2  
+**School** divination [chaotic, evil, good, or lawful]; **Level** inquisitor 2, occultist 3  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** personal  

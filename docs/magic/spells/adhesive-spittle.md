@@ -1,6 +1,6 @@
 # Adhesive Spittle
 
-**School** conjuration (creation); **Level** alchemist 1, sorcerer/wizard 1, witch 1  
+**School** conjuration (creation); **Level** alchemist 1, psychic 1, sorcerer/wizard 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** 15 ft.  

@@ -1,6 +1,6 @@
 # Feather Step, Mass
 
-**School** transmutation; **Level** bard 3, druid 3, ranger 3  
+**School** transmutation; **Level** bard 3, druid 3, psychic 3, ranger 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Target** one creature/level, no two of which can be more than 30 ft. apart  

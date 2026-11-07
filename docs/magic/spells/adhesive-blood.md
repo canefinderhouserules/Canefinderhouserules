@@ -1,6 +1,6 @@
 # Adhesive Blood
 
-**School** transmutation; **Level** alchemist 2, bloodrager 2, sorcerer/wizard 2, witch 2  
+**School** transmutation; **Level** alchemist 2, bloodrager 2, psychic 2, sorcerer/wizard 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

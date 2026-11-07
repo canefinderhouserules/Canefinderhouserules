@@ -1,6 +1,6 @@
 # Transmute Rock to Mud
 
-**School** transmutation [earth]; **Level** druid 5, sorcerer/wizard 5  
+**School** transmutation [earth]; **Level** druid 5, occultist 5, sorcerer/wizard 5  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (clay and water)  
 **Range** medium (100 ft. + 10 ft./level)  

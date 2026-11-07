@@ -1,6 +1,6 @@
 # Agonizing Rebuke
 
-**School** illusion (phantasm) [emotion, mind-affecting]; **Level** antipaladin 2, cleric 3, inquisitor 3, witch 3  
+**School** illusion (phantasm) [emotion, mind-affecting]; **Level** antipaladin 2, cleric 3, inquisitor 3, mesmerist 2, psychic 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

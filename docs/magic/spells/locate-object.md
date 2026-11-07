@@ -1,6 +1,6 @@
 # Locate Object
 
-**School** divination; **Level** bard 2, cleric 3, sorcerer/wizard 2  
+**School** divination; **Level** bard 2, cleric 3, inquisitor 3, medium 2, mesmerist 2, occultist 2, psychic 2, sorcerer/wizard 2, spiritualist 2, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S, F/DF (a forked twig)  
 **Range** long (400 ft. + 40 ft./level)  

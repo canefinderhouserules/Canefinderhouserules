@@ -1,6 +1,6 @@
 # Mudball
 
-**School** conjuration [earth]; **Level** druid 1, magus 1, sorcerer/wizard 1, witch 1  
+**School** conjuration [earth]; **Level** bloodrager 1, druid 1, magus 1, sorcerer/wizard 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

@@ -1,6 +1,6 @@
 # Dominate Monster
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 9  
+**School** enchantment (compulsion) [mind-affecting]; **Level** psychic 9, sorcerer/wizard 9, summoner 6, witch 9  
 **Casting Time** 1 round  
 **Components** V, S  
 **Target** one creature  

@@ -1,6 +1,6 @@
 # Phantom Driver
 
-**School** conjuration (creation); **Level** bard 3, sorcerer/wizard 3  
+**School** conjuration (creation); **Level** bard 3, occultist 3, sorcerer/wizard 3, spiritualist 3  
 **Casting Time** 10 minutes  
 **Components** V, S  
 **Range** 10 ft.  

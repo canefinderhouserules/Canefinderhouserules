@@ -1,6 +1,6 @@
 # Sonic Scream
 
-**School** evocation [sonic]; **Level** bard 2, bloodrager 2, magus 2, sorcerer/wizard 2  
+**School** evocation [sonic]; **Level** bard 2, bloodrager 2, magus 2, psychic 2, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** 15 ft.  

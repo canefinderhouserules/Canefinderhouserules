@@ -1,6 +1,6 @@
 # Mark of Justice
 
-**School** necromancy; **Level** cleric 5, paladin 4  
+**School** necromancy; **Level** cleric 5, inquisitor 5, paladin 4, witch 5  
 **Casting Time** 10 minutes  
 **Components** V, S, DF  
 **Range** touch  

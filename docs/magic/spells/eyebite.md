@@ -1,14 +1,12 @@
 # Eyebite
 
-**School** necromancy; **Level** bard 6, sorcerer/wizard 6  
+**School** necromancy; **Level** alchemist 6, bard 6, mesmerist 6, sorcerer/wizard 6, spiritualist 6, witch 6  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one living creature  
 **Duration** 1 round/level  
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
-
-**Saving Throw**: Fortitude negates; **Spell Resistance**: yes
 
 Each round, you can target a single living creature, striking it with waves of power. Depending on the target’s HD, this attack has as many as three effects.
 | HD | Effect |

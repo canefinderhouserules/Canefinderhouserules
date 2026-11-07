@@ -1,6 +1,6 @@
 # Protection from Energy
 
-**School** abjuration; **Level** cleric 3, druid 3, ranger 2, sorcerer/wizard 3  
+**School** abjuration; **Level** alchemist 3, bloodrager 3, cleric 3, druid 3, inquisitor 3, occultist 3, psychic 3, ranger 2, shaman 3, sorcerer/wizard 3, spiritualist 3, summoner 3  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

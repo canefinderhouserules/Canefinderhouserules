@@ -1,6 +1,6 @@
 # Mask Dweomer
 
-**School** illusion (glamer); **Level** witch 1  
+**School** illusion (glamer); **Level** occultist 1, psychic 1, witch 1  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a piece of gauze)  
 **Range** touch  

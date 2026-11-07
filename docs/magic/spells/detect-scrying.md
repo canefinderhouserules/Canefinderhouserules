@@ -1,6 +1,6 @@
 # Detect Scrying
 
-**School** divination; **Level** bard 4, sorcerer/wizard 4  
+**School** divination; **Level** bard 4, inquisitor 4, medium 3, mesmerist 4, occultist 4, psychic 4, shaman 4, sorcerer/wizard 4, spiritualist 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a piece of mirror and a miniature brass hearing trumpet)  
 **Range** 40 ft.  

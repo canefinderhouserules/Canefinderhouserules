@@ -1,6 +1,6 @@
 # Envious Urge
 
-**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 4, sorcerer/wizard 6  
+**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 4, mesmerist 4, psychic 6, sorcerer/wizard 6  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

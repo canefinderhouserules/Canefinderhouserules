@@ -1,6 +1,6 @@
 # Imbue with Spell Ability
 
-**School** evocation; **Level** cleric 4  
+**School** evocation; **Level** cleric 4, shaman 4, spiritualist 4  
 **Casting Time** 10 minutes  
 **Components** V, S, DF  
 **Range** touch  

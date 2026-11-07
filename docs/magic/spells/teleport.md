@@ -1,6 +1,6 @@
 # Teleport
 
-**School** conjuration (teleportation); **Level** sorcerer/wizard 5  
+**School** conjuration (teleportation); **Level** magus 5, medium 4, occultist 5, psychic 5, sorcerer/wizard 5, spiritualist 5, summoner 4, witch 5  
 **Casting Time** 1 standard action  
 **Components** V  
 **Range** personal and touch  

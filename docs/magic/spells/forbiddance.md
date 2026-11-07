@@ -1,6 +1,6 @@
 # Forbiddance
 
-**School** abjuration; **Level** cleric 6  
+**School** abjuration; **Level** cleric 6, inquisitor 6, occultist 6  
 **Casting Time** 6 rounds  
 **Components** V, S, M (holy water and incense worth 1,500 gp, plus 1,500 gp per 60-foot cube), DF  
 **Range** medium (100 ft. + 10 ft./level)  

@@ -1,6 +1,6 @@
 # Energy Siege Shot, Greater
 
-**School** transmutation [variable]; **Level** sorcerer/wizard 6, summoner 6  
+**School** transmutation [variable]; **Level** occultist 6, sorcerer/wizard 6, summoner 6  
 **Casting Time** 10 minutes  
 **Components** V, S, M (a ball of pitch)  
 **Range** close (25 ft. + 5 ft./2 levels)  

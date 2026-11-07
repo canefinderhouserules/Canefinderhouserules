@@ -1,6 +1,6 @@
 # Find Traps
 
-**School** divination; **Level** cleric 2  
+**School** divination; **Level** cleric 2, inquisitor 2, medium 2, occultist 2, psychic 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

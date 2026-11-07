@@ -1,6 +1,6 @@
 # Channel Vigor
 
-**School** transmutation; **Level** alchemist 3, cleric 3, inquisitor 3, magus 3  
+**School** transmutation; **Level** alchemist 3, bloodrager 3, cleric 3, inquisitor 3, magus 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

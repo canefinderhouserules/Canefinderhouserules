@@ -1,6 +1,6 @@
 # Enthrall
 
-**School** enchantment (charm) [language dependent, mind- affecting, sonic]; **Level** bard 2, cleric 2  
+**School** enchantment (charm) [language dependent, mind- affecting, sonic]; **Level** bard 2, cleric 2, inquisitor 2, mesmerist 2, psychic 2, shaman 2, witch 2  
 **Casting Time** 1 round  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

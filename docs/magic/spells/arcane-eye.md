@@ -1,6 +1,6 @@
 # Arcane Eye
 
-**School** divination (scrying); **Level** sorcerer/wizard 4  
+**School** divination (scrying); **Level** alchemist 4, mesmerist 4, occultist 4, psychic 4, sorcerer/wizard 4, witch 4  
 **Casting Time** 10 minutes  
 **Components** V, S, M (a bit of bat fur)  
 **Range** unlimited  

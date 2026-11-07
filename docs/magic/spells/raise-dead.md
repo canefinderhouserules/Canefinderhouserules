@@ -1,6 +1,6 @@
 # Raise Dead
 
-**School** conjuration (healing); **Level** cleric 5  
+**School** conjuration (healing); **Level** cleric 5, shaman 6, spiritualist 5, witch 6  
 **Casting Time** 1 minute  
 **Components** V, S, M (diamond worth 5,000 gp), DF  
 **Range** touch  

@@ -1,6 +1,6 @@
 # Shadow Evocation
 
-**School** illusion (shadow); **Level** bard 5, sorcerer/wizard 5  
+**School** illusion (shadow); **Level** bard 5, mesmerist 5, sorcerer/wizard 5, spiritualist 5  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** see text  

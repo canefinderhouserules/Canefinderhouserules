@@ -1,6 +1,6 @@
 # Reinforce Armaments, Communal
 
-**School** transmutation; **Level** cleric 2, magus 2, sorcerer/wizard 2, witch 2  
+**School** transmutation; **Level** cleric 2, magus 2, occultist 2, sorcerer/wizard 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (a metal pin)  
 **Range** touch  

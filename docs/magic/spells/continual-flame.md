@@ -1,6 +1,6 @@
 # Continual Flame
 
-**School** evocation [light]; **Level** cleric 3, sorcerer/wizard 2  
+**School** evocation [light]; **Level** cleric 3, inquisitor 3, occultist 2, psychic 3, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M (ruby dust worth 50 gp)  
 **Range** touch  

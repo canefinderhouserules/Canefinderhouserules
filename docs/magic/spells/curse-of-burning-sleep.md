@@ -1,6 +1,6 @@
 # Curse of Burning Sleep
 
-**School** transmutation [curse, fire]; **Level** shaman 4, sorcerer/wizard 4, witch 4  
+**School** transmutation [curse, fire]; **Level** psychic 4, shaman 4, sorcerer/wizard 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a feather and a drop of oil)  
 **Range** close (25 ft. + 5 ft./2 levels)  

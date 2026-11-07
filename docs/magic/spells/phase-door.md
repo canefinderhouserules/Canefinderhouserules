@@ -1,6 +1,6 @@
 # Phase Door
 
-**School** conjuration (creation); **Level** sorcerer/wizard 7  
+**School** conjuration (creation); **Level** psychic 7, sorcerer/wizard 7, witch 7  
 **Casting Time** 1 standard action  
 **Components** V  
 **Range** touch  

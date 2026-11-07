@@ -1,6 +1,6 @@
 # Isolate
 
-**School** illusion (glamer); **Level** antipaladin 3, bard 3, inquisitor 3, sorcerer/wizard 3, witch 3  
+**School** illusion (glamer); **Level** antipaladin 3, bard 3, inquisitor 3, mesmerist 3, psychic 3, sorcerer/wizard 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

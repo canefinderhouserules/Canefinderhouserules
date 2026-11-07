@@ -1,6 +1,6 @@
 # Guards and Wards
 
-**School** abjuration; **Level** sorcerer/wizard 6  
+**School** abjuration; **Level** sorcerer/wizard 6, witch 6  
 **Casting Time** 30 minutes  
 **Components** V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, and a small amount of blood), F (a small silver rod)  
 **Range** anywhere within the area to be warded  

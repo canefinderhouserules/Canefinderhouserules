@@ -1,6 +1,6 @@
 # Glyph of Warding, Greater
 
-**School** abjuration; **Level** cleric 6  
+**School** abjuration; **Level** cleric 6, inquisitor 6  
 **Casting Time** 10 minutes  
 **Components** V, S, M (powdered diamond worth 200 gp)  
 **Range** touch  

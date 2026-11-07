@@ -1,6 +1,6 @@
 # Restoration, Greater
 
-**School** conjuration (healing); **Level** cleric 7  
+**School** conjuration (healing); **Level** cleric 7, shaman 7  
 **Casting Time** 3 rounds  
 **Components** V, S, M (diamond dust 5,000 gp)  
 **Range** touch  

@@ -1,6 +1,6 @@
 # Darkvision, Communal
 
-**School** transmutation; **Level** alchemist 3, antipaladin 3, ranger 4, sorcerer/wizard 3  
+**School** transmutation; **Level** alchemist 3, antipaladin 3, occultist 3, psychic 3, ranger 4, sorcerer/wizard 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M (either a pinch of dried carrot or an agate)  
 **Range** touch  

@@ -1,6 +1,6 @@
 # Alter Self
 
-**School** transmutation (polymorph); **Level** bard 2, sorcerer/wizard 2  
+**School** transmutation (polymorph); **Level** alchemist 2, bard 2, magus 2, medium 2, mesmerist 2, psychic 2, shaman 2, sorcerer/wizard 2, summoner 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a piece of the creature whose form you plan to assume)  
 **Range** personal  

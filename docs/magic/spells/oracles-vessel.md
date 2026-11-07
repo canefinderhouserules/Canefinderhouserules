@@ -1,6 +1,6 @@
 # Oracle’s Vessel
 
-**School** transmutation; **Level** oracle 4  
+**School** transmutation; **Level** cleric 4, oracle 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

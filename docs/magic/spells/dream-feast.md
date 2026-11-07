@@ -1,6 +1,6 @@
 # Dream Feast
 
-**School** conjuration (creation); **Level** cleric 1, druid 1, ranger 1  
+**School** conjuration (creation); **Level** cleric 1, druid 1, ranger 1, shaman 1  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

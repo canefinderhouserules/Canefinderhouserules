@@ -1,6 +1,6 @@
 # Prayer
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** cleric 3, paladin 3  
+**School** enchantment (compulsion) [mind-affecting]; **Level** cleric 3, inquisitor 3, paladin 3  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** 40 ft.  

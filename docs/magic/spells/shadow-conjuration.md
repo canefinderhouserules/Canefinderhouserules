@@ -1,6 +1,6 @@
 # Shadow Conjuration
 
-**School** illusion (shadow); **Level** bard 4, sorcerer/wizard 4  
+**School** illusion (shadow); **Level** bard 4, mesmerist 4, sorcerer/wizard 4, spiritualist 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** see text  

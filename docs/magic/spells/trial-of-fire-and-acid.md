@@ -1,6 +1,6 @@
 # Trial of Fire and Acid
 
-**School** evocation [acid, fire]; **Level** bloodrager 3, cleric 3, magus 3, sorcerer/wizard 3, witch 3  
+**School** evocation [acid, fire]; **Level** bloodrager 3, cleric 3, magus 3, shaman 3, sorcerer/wizard 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

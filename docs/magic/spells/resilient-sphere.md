@@ -1,6 +1,6 @@
 # Resilient Sphere
 
-**School** evocation [force]; **Level** sorcerer/wizard 4  
+**School** evocation [force]; **Level** occultist 4, psychic 4, sorcerer/wizard 4  
 **Casting Time** 1 standard action  
 **Components** V, S, F (a crystal sphere)  
 **Range** close (25 ft. + 5 ft./2 levels)  

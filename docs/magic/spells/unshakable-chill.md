@@ -1,6 +1,6 @@
 # Unshakable Chill
 
-**School** necromancy [cold]; **Level** druid 2, sorcerer/wizard 2, witch 2  
+**School** necromancy [cold]; **Level** bloodrager 2, druid 2, sorcerer/wizard 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M  
 **Range** close (25 ft. + 5 ft./2 levels)  

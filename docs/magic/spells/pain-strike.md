@@ -1,6 +1,6 @@
 # Pain Strike
 
-**School** evocation [evil]; **Level** sorcerer/wizard 3, witch 3  
+**School** evocation [evil]; **Level** bloodrager 3, psychic 2, sorcerer/wizard 3, spiritualist 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

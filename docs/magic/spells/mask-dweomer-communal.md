@@ -1,6 +1,6 @@
 # Mask Dweomer, Communal
 
-**School** illusion (glamer); **Level** witch 2  
+**School** illusion (glamer); **Level** occultist 2, psychic 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a piece of gauze)  
 **Range** touch  

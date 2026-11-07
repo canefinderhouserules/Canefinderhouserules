@@ -1,6 +1,6 @@
 # Shocking Image
 
-**School** illusion (figment) [electricity]; **Level** bard 4, sorcerer/ wizard 4  
+**School** illusion (figment) [electricity]; **Level** bard 4, bloodrager 4, mesmerist 4, occultist 4, sorcerer/ wizard 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

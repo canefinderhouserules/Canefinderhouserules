@@ -1,6 +1,6 @@
 # Ray of Exhaustion
 
-**School** necromancy; **Level** sorcerer/wizard 3  
+**School** necromancy; **Level** bloodrager 3, magus 3, mesmerist 3, sorcerer/wizard 3, spiritualist 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a drop of sweat)  
 **Range** close (25 ft. + 5 ft./2 levels)  

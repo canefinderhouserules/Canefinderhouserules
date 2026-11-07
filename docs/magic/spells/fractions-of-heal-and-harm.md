@@ -1,6 +1,6 @@
 # Fractions of Heal and Harm
 
-**School** transmutation; **Level** bard 3, cleric 3, sorcerer/wizard 3  
+**School** transmutation; **Level** bard 3, bloodrager 3, cleric 3, sorcerer/wizard 3  
 **Casting Time** 1 swift action  
 **Components** V, S  
 **Range** personal  

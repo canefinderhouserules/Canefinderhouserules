@@ -1,6 +1,6 @@
 # Mage’s Private Sanctum
 
-**School** abjuration; **Level** sorcerer/wizard 5  
+**School** abjuration; **Level** medium 4, mesmerist 5, psychic 5, sorcerer/wizard 5, spiritualist 5  
 **Casting Time** 10 minutes  
 **Components** V, S, M (a sheet of lead, a piece of glass, a wad of cotton, and powdered chrysolite)  
 **Range** close (25 ft. + 5 ft./2 levels)  

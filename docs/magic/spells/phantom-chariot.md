@@ -1,6 +1,6 @@
 # Phantom Chariot
 
-**School** conjuration (creation); **Level** sorcerer/wizard 4, summoner 3  
+**School** conjuration (creation); **Level** occultist 4, sorcerer/wizard 4, spiritualist 4, summoner 3  
 **Casting Time** 10 minutes  
 **Components** V, S  
 **Range** 0 ft.  

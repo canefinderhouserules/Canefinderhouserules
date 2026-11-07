@@ -1,6 +1,6 @@
 # Wail of the Banshee
 
-**School** necromancy [death, sonic]; **Level** sorcerer/wizard 9  
+**School** necromancy [death, sonic]; **Level** psychic 9, shaman 9, sorcerer/wizard 9, witch 9  
 **Casting Time** 1 standard action  
 **Components** V  
 **Range** close (25 ft. + 5 ft./2 levels)  

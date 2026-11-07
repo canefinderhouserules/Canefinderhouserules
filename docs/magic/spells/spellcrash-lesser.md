@@ -1,6 +1,6 @@
 # Spellcrash, Lesser
 
-**School** abjuration; **Level** cleric 4, sorcerer/wizard 4, witch 4  
+**School** abjuration; **Level** cleric 4, psychic 4, sorcerer/wizard 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

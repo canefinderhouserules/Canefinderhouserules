@@ -1,6 +1,6 @@
 # Getaway
 
-**School** conjuration (teleportation); **Level** bard 6, sorcerer/wizard 6  
+**School** conjuration (teleportation); **Level** bard 6, mesmerist 6, occultist 6, psychic 6, sorcerer/wizard 6, spiritualist 6  
 **Casting Time** 1 minute  
 **Components** V, S, M (a brass doorknob)  
 **Range** unlimited  

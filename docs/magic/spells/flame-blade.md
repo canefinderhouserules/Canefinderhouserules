@@ -1,6 +1,6 @@
 # Flame Blade
 
-**School** evocation [fire]; **Level** druid 2  
+**School** evocation [fire]; **Level** druid 2, shaman 2  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** 0 ft.  

@@ -1,6 +1,6 @@
 # Earth Glide
 
-**School** transmutation [earth]; **Level** alchemist 4, druid 4, sorcerer/wizard 4  
+**School** transmutation [earth]; **Level** alchemist 4, bloodrager 4, druid 4, shaman 4, sorcerer/wizard 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

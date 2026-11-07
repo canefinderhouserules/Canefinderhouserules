@@ -1,6 +1,6 @@
 # Entropic Shield
 
-**School** abjuration; **Level** cleric 1  
+**School** abjuration; **Level** cleric 1, psychic 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

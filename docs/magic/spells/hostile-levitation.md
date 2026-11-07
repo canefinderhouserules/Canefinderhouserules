@@ -1,6 +1,6 @@
 # Hostile Levitation
 
-**School** transmutation; **Level** sorcerer/wizard 3, witch 3  
+**School** transmutation; **Level** bloodrager 3, medium 2, mesmerist 3, occultist 3, psychic 3, sorcerer/wizard 3, spiritualist 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a leather loop studded with lodestones)  
 **Range** close (25 ft. + 5 ft./2 levels)  

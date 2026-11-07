@@ -1,6 +1,6 @@
 # Tiny Hut
 
-**School** evocation [force]; **Level** bard 3, sorcerer/wizard 3  
+**School** evocation [force]; **Level** bard 3, occultist 3, sorcerer/wizard 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a small crystal bead)  
 **Range** 20 ft.  

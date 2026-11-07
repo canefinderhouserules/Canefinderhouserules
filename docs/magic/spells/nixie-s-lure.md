@@ -1,6 +1,6 @@
 # Nixie’s Lure
 
-**School** enchantment (charm) [mind-affecting, sonic]; **Level** bard 4, druid 3, sorcerer/wizard 3, summoner 4, witch 3  
+**School** enchantment (charm) [mind-affecting, sonic]; **Level** bard 3, druid 4, mesmerist 3, psychic 3, sorcerer/wizard 3, summoner 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** 300 ft.  

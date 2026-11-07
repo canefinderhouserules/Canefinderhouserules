@@ -1,6 +1,6 @@
 # Spark
 
-**School** evocation [fire]; **Level** bard 0, cleric 0, druid 0, sorcerer/ wizard 0, witch 0  
+**School** evocation [fire]; **Level** bard 0, cleric 0, druid 0, magus 0, occultist 0, sorcerer/ wizard 0, witch 0  
 **Casting Time** 1 standard action  
 **Components** V or S  
 **Range** close (25 ft. + 5 ft./2 levels)  

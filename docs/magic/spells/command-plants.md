@@ -1,6 +1,6 @@
 # Command Plants
 
-**School** transmutation; **Level** druid 4, ranger 3  
+**School** transmutation; **Level** druid 4, ranger 3, shaman 4  
 **Casting Time** 1 standard action  
 **Components** V  
 **Range** close (25 ft. + 5 ft./2 levels)  

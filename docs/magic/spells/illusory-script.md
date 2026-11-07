@@ -1,6 +1,6 @@
 # Illusory Script
 
-**School** illusion (phantasm) [mind-affecting]; **Level** bard 3, sorcerer/wizard 3  
+**School** illusion (phantasm) [mind-affecting]; **Level** bard 3, mesmerist 3, occultist 3, psychic 3, sorcerer/wizard 3  
 **Casting Time** 1 minute per page  
 **Components** V, S, M (lead-based ink worth 50 gp)  
 **Range** touch  

@@ -1,6 +1,6 @@
 # Stone Fist
 
-**School** transmutation [earth]; **Level** alchemist 1, druid 1, sorcerer/wizard 1  
+**School** transmutation [earth]; **Level** alchemist 1, bloodrager 1, druid 1, magus 1, sorcerer/wizard 1  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a chip of granite)  
 **Range** personal  

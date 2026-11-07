@@ -1,6 +1,6 @@
 # Animal Aspect
 
-**School** transmutation (polymorph); **Level** alchemist 2, magus 2, druid 2, ranger 2, sorcerer/wizard 2  
+**School** transmutation (polymorph); **Level** alchemist 2, bloodrager 2, druid 2, magus 2, psychic 2, ranger 2, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M/DF (a part of the animal)  
 **Range** personal  

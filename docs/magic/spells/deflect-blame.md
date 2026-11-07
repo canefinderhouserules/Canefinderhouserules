@@ -1,6 +1,6 @@
 # Deflect Blame
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, mesmerist 2, psychic 2, sorcerer/wizard 3  
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, mesmerist 2, psychic 2, sorcerer/wizard 3, witch 3  
 **Casting Time** 1 immediate action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

@@ -1,6 +1,6 @@
 # Steal Voice
 
-**School** necromancy; **Level** bard 2, sorcerer/wizard 2, witch 2  
+**School** necromancy; **Level** bard 2, medium 2, mesmerist 2, psychic 2, sorcerer/wizard 2, witch 2  
 **Casting Time** 1 standard action  
 **Components** V  
 **Range** medium (100 ft. + 10 ft./level)  

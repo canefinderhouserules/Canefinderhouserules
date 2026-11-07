@@ -1,6 +1,6 @@
 # Inflict Critical Wounds
 
-**School** necromancy; **Level** cleric 4  
+**School** necromancy; **Level** cleric 4, inquisitor 4, occultist 4, shaman 4, spiritualist 4, witch 5  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

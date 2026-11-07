@@ -1,6 +1,6 @@
 # Secret Page
 
-**School** transmutation; **Level** bard 3, sorcerer/wizard 3  
+**School** transmutation; **Level** bard 3, mesmerist 3, occultist 3, sorcerer/wizard 3  
 **Casting Time** 10 minutes  
 **Components** V, S, M (powdered herring scales and a vial of will-o’-wisp essence)  
 **Range** touch  

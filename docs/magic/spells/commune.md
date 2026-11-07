@@ -1,6 +1,6 @@
 # Commune
 
-**School** divination; **Level** cleric 5  
+**School** divination; **Level** cleric 5, inquisitor 5, occultist 5, shaman 5  
 **Casting Time** 10 minutes  
 **Components** V, S, M (holy or unholy water and incense worth 500 gp), DF  
 **Range** personal  

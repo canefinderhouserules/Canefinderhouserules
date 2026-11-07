@@ -1,6 +1,6 @@
 # Stunning Barrier
 
-**School** abjuration; **Level** cleric 1, inquisitor 1, paladin 1, sorcerer/wizard 1  
+**School** abjuration; **Level** cleric 1, inquisitor 1, paladin 1, psychic 1, sorcerer/wizard 1  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal  

@@ -1,6 +1,6 @@
 # Unbearable Brightness
 
-**School** evocation [light]; **Level** alchemist 4, sorcerer/wizard 4, witch 4  
+**School** evocation [light]; **Level** alchemist 4, occultist 4, psychic 4, sorcerer/wizard 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** personal and 30 ft. (see text)  

@@ -1,6 +1,6 @@
 # Hydraulic Torrent
 
-**School** evocation [water]; **Level** druid 3, sorcerer/wizard 3  
+**School** evocation [water]; **Level** bloodrager 3, druid 3, magus 3, sorcerer/wizard 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** 60 ft.  

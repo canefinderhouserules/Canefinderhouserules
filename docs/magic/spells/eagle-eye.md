@@ -1,6 +1,6 @@
 # Eagle Eye
 
-**School** divination; **Level** druid 2, ranger 2  
+**School** divination; **Level** druid 2, psychic 2, ranger 2, shaman 2  
 **Casting Time** 1 minute  
 **Components** V, S, DF  
 **Range** long (400 ft. + 40 ft./level)  

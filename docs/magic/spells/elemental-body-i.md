@@ -1,6 +1,6 @@
 # Elemental Body I
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 4  
+**School** transmutation (polymorph); **Level** alchemist 4, bloodrager 4, magus 4, sorcerer/wizard 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M (the element you plan to assume)  
 **Range** personal  

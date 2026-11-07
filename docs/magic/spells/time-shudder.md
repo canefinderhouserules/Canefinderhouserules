@@ -1,6 +1,6 @@
 # Time Shudder
 
-**School** transmutation; **Level** magus 2, sorcerer/wizard 2, summoner 2  
+**School** transmutation; **Level** magus 2, psychic 2, sorcerer/wizard 2, summoner 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a tiny hourglass)  
 **Range** 30 ft.  

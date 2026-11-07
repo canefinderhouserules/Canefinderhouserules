@@ -1,6 +1,6 @@
 # Sending
 
-**School** evocation; **Level** cleric 4, sorcerer/wizard 5  
+**School** evocation; **Level** alchemist 5, cleric 4, inquisitor 4, medium 3, mesmerist 3, occultist 4, psychic 4, shaman 4, sorcerer/wizard 5, spiritualist 5, summoner 4  
 **Casting Time** 10 minutes  
 **Components** V, S, M/DF (fine copper wire)  
 **Range** see text  

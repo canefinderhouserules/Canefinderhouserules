@@ -1,6 +1,6 @@
 # Bane
 
-**School** enchantment (compulsion) [fear, mind-affecting]; **Level** cleric 1  
+**School** enchantment (compulsion) [fear, mind-affecting]; **Level** antipaladin 1, cleric 1, inquisitor 1, mesmerist 1, shaman 1  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** 50 ft.  

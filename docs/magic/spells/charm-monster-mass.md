@@ -1,6 +1,6 @@
 # Charm Monster, Mass
 
-**School** enchantment (charm) [mind-affecting]; **Level** bard 6, sorcerer/wizard 8  
+**School** enchantment (charm) [mind-affecting]; **Level** bard 6, mesmerist 6, occultist 6, psychic 8, sorcerer/wizard 8, summoner 6, witch 8  
 **Casting Time** 1 standard action  
 **Components** V  
 **Targets** One or more creatures, no two of which can be more than 30 ft. apart  

@@ -1,6 +1,6 @@
 # Blood Scent
 
-**School** transmutation; **Level** alchemist 3, antipaladin 2, cleric 3, druid 3, inquisitor 3, ranger 2, sorcerer/wizard 3, witch 3  
+**School** transmutation; **Level** alchemist 3, antipaladin 2, bloodrager 3, cleric 3, druid 3, inquisitor 3, psychic 3, ranger 2, sorcerer/wizard 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

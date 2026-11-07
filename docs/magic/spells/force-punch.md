@@ -1,6 +1,6 @@
 # Force Punch
 
-**School** evocation [force]; **Level** magus 3, sorcerer/wizard 3  
+**School** evocation [force]; **Level** bloodrager 3, magus 3, psychic 3, sorcerer/wizard 3, spiritualist 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

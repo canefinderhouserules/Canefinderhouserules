@@ -1,6 +1,6 @@
 # Vengeful Stinger
 
-**School** transmutation (polymorph) [poison]; **Level** cleric 6, sorcerer/wizard 5, summoner 5, witch 5  
+**School** transmutation (polymorph) [poison]; **Level** cleric 6, shaman 5, sorcerer/wizard 5, summoner 5, witch 5  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a living wasp), DF  
 **Range** personal  

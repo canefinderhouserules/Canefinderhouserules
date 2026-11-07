@@ -1,6 +1,6 @@
 # Phantom Trap
 
-**School** illusion (glamer); **Level** sorcerer/wizard 2  
+**School** illusion (glamer); **Level** mesmerist 2, occultist 2, psychic 2, sorcerer/wizard 2, spiritualist 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M (special dust worth 50 gp)  
 **Range** touch  

@@ -1,6 +1,6 @@
 # Control Weather
 
-**School** transmutation; **Level** cleric 7, druid 7, sorcerer/wizard 7  
+**School** transmutation; **Level** cleric 7, druid 7, shaman 7, sorcerer/wizard 7, witch 7  
 **Casting Time** 10 minutes; see text  
 **Components** V, S  
 **Range** 2 miles  

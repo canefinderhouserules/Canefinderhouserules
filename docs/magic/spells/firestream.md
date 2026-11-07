@@ -1,6 +1,6 @@
 # Firestream
 
-**School** evocation [fire]; **Level** magus 3, sorcerer/wizard 3  
+**School** evocation [fire]; **Level** bloodrager 3, magus 3, sorcerer/wizard 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** 20 ft.  

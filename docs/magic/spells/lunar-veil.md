@@ -1,6 +1,6 @@
 # Lunar Veil
 
-**School** illusion (shadow) [darkness, shadow]; **Level** cleric 7, sorcerer/wizard 7, witch 7  
+**School** illusion (shadow) [darkness, shadow]; **Level** cleric 7, psychic 7, sorcerer/wizard 7, witch 7  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** long (400 ft. + 40 ft./level)  

@@ -1,6 +1,6 @@
 # Planar Ally, Lesser
 
-**School** conjuration (calling) [see text]; **Level** cleric 4  
+**School** conjuration (calling) [see text]; **Level** cleric 4, medium 3, psychic 4, shaman 4  
 **Casting Time** 10 minutes  
 **Components** V, S, M (offerings worth 500 gp plus payment, see text), DF  
 **Range** close (25 ft. + 5 ft./2 levels)  

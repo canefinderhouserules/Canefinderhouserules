@@ -1,6 +1,6 @@
 # Excruciating Deformation
 
-**School** transmutation (polymorph) [evil, pain]; **Level** sorcerer/ wizard 3, witch 3  
+**School** transmutation (polymorph) [evil, pain]; **Level** bloodrager 3, psychic 3, sorcerer/ wizard 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** touch  

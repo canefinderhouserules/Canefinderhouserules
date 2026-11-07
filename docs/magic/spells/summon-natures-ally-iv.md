@@ -1,6 +1,6 @@
 # Summon Nature’s Ally IV
 
-**School** conjuration (summoning) [see text]; **Level** druid 4, ranger 4  
+**School** conjuration (summoning) [see text]; **Level** druid 4, ranger 4, shaman 4  
 **Casting Time** 1 round  
 **Components** V, S, DF  
 **Range** close (25 ft. + 5 ft./2 levels)  

@@ -1,6 +1,6 @@
 # Rusting Grasp
 
-**School** transmutation; **Level** druid 4  
+**School** transmutation; **Level** druid 4, occultist 4  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

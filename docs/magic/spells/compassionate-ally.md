@@ -1,6 +1,6 @@
 # Compassionate Ally
 
-**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 2; cleric 2, sorcerer/wizard 2  
+**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 2, cleric 2, medium 2, mesmerist 2, psychic 2, sorcerer/wizard 2; cleric 2, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

@@ -1,6 +1,6 @@
 # Demand
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 8  
+**School** enchantment (compulsion) [mind-affecting]; **Level** mesmerist 6, psychic 8, sorcerer/wizard 8, witch 8  
 **Casting Time** 10 minutes  
 **Components** V, S, M/DF (fine copper wire)  
 **Range** see text  

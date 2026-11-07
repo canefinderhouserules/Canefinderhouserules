@@ -1,6 +1,6 @@
 # Magic Stone
 
-**School** transmutation; **Level** cleric 1, druid 1  
+**School** transmutation; **Level** cleric 1, druid 1, shaman 1  
 **Casting Time** 1 standard action  
 **Components** V, S, DF  
 **Range** touch  

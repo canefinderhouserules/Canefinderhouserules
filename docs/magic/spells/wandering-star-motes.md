@@ -1,6 +1,6 @@
 # Wandering Star Motes
 
-**School** illusion (pattern) [light, mind-affecting]; **Level** bard 4, sorcerer/wizard 4, witch 4  
+**School** illusion (pattern) [light, mind-affecting]; **Level** bard 4, occultist 4, psychic 4, shaman 4, sorcerer/wizard 4, witch 4  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a sprinkle of flash powder)  
 **Range** close (25 ft. + 5 ft./2 levels)  

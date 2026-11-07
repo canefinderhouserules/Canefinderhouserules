@@ -1,6 +1,6 @@
 # Blade Barrier
 
-**School** evocation [force]; **Level** cleric 6  
+**School** evocation [force]; **Level** cleric 6, inquisitor 6, occultist 6, psychic 6  
 **Casting Time** 1 standard action  
 **Components** V, S  
 **Range** medium (100 ft. + 10 ft./level)  

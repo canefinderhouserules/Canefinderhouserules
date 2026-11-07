@@ -1,6 +1,6 @@
 # Bullet Shield
 
-**School** abjuration; **Level** alchemist 2, sorcerer/wizard 2  
+**School** abjuration; **Level** alchemist 2, bloodrager 2, occultist 2, psychic 2, sorcerer/wizard 2  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a bullet)  
 **Range** touch  

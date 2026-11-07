@@ -1,6 +1,6 @@
 # Cup of Dust
 
-**School** transmutation; **Level** druid 3, witch 3  
+**School** transmutation; **Level** druid 3, mesmerist 3, occultist 3, psychic 3, witch 3  
 **Casting Time** 1 standard action  
 **Components** V, S, M (a pinch of dust)  
 **Range** close (25 ft. + 5 ft./2 levels)  

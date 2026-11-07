@@ -1,6 +1,6 @@
 # Make Whole
 
-**School** transmutation; **Level** cleric 2, sorcerer/wizard 2  
+**School** transmutation; **Level** cleric 2, occultist 2, psychic 2, sorcerer/wizard 2  
 **Casting Time** 10 minutes  
 **Components** V, S  
 **Range** close (25 ft. + 5 ft./2 levels)  

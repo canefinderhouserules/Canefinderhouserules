@@ -3,13 +3,13 @@
 ## 1st-Level Paladin Spells
 
 - **[Alleviate Addiction](alleviate-addiction.md)**: Subject ignores the effects of addictions.
-- **[Animal Purpose Training](animal-purpose-training.md)**: You instill the target animal with a general purpose (see the Handle Animal skill), which can be any purpose except…
+- **[Animal Purpose Training](animal-purpose-training.md)**: Animal gains a new general purpose.
 - **[Aspect of the Nightingale](aspect-of-the-nightingale.md)**: Clear voice, bonus on Diplomacy and Perform.
 - **[Bed of Iron](bed-of-iron.md)**: Lets targets sleep comfortably in armor.
 - **[Bless](bless.md)**: Allies gain a +1 divine bonus on attack rolls and saves against fear.
 - **[Bless Water](bless-water.md)**: Makes holy water.
 - **[Bless Weapon](bless-weapon.md)**: Weapon strikes true against evil foes.
-- **[Blessed Fist](blessed-fist.md)**: The target is considered to be armed even when unarmed, so it doesn’t provoke attacks of opportunity when it attacks…
+- **[Blessed Fist](blessed-fist.md)**: Target doesn’t provoke attacks of opportunity with unarmed strikes.
 - **[Blessing of the Watch](blessing-of-the-watch.md)**: *Bless* that works only in the caster’s home city.
 - **[Bowstaff](bowstaff.md)**: A shortbow may double as a club, or a longbow as a quarterstaff.
 - **[Brightest Night](brightest-night.md)**: grant or enhance low-light vision
@@ -51,13 +51,12 @@
 - **[Longshot](longshot.md)**: Grants a +10-foot bonus to the range increment for any ranged weapon fired.
 - **[Lucky Number](lucky-number.md)**: When the target rolls a chosen number it can reroll or add +2 luck.
 - **[Magic Weapon](magic-weapon.md)**: Weapon gains +1 bonus.
-- **Protection from Chaos/Evil**: +2 to AC and saves, plus additional protection against selected alignment.
+- **[Oath of Anonymity](oath-of-anonymity.md)**: Cloak yourself in an illusion that hides your true identity
+- **[Protection from Chaos](protection-from-chaos.md)/[Protection from Evil](protection-from-evil.md)**: +2 to AC and saves, plus additional protection against selected alignment.
 - **[Murderous Crow](murderous-crow.md)**: You conjure a supernaturally vicious and clever crow to watch over you on the battlefield.
 - **[Peace Bond](peace-bond.md)**: Your low-level area spells ignore protected cubes.
 - **[Positive Pulse](positive-pulse.md)**: Energy harms undead or bolsters the living
 - **[Preserve Grace](preserve-grace.md)**: Grant a phylactery of faithfulness effect.
-- **[Protection from Chaos](protection-from-chaos.md)**: This spell functions like protection from evil, except that the deflection and resistance bonuses apply to attacks…
-- **[Protection from Evil](protection-from-evil.md)**: This spell wards a creature from attacks by evil creatures, from mental control, and from summoned creatures.
 - **[Read Magic](read-magic.md)**: Read scrolls and spellbooks.
 - **[Resistance](resistance.md)**: Subject gains +1 on saving throws.
 - **[Restoration, Lesser](restoration-lesser.md)**: Dispels magical ability penalty or repairs 1d4 ability damage.
@@ -91,10 +90,9 @@
 - **[Bestow Weapon Proficiency](bestow-weapon-proficiency.md)**: Grants a creature proficiency in a single weapon for short period of time.
 - **[Blade Tutor's Spirit](blade-tutors-spirit.md)**: Reduces penalties on your melee attacks.
 - **[Blessing of Luck and Resolve](blessing-of-luck-and-resolve.md)**: A favored blessing of halfling clerics, this spell grants its target a +2 morale bonus on saving throws.
-- **[Blessing of Luck and Resolve, Mass](blessing-of-luck-and-resolve-mass.md)**: cleric 6, inquisitor 6, paladin 4
 - **[Blinding Ray](blinding-ray.md)**: School evocation [good, light]; Level cleric 2, inquisitor 3, paladin 2 Casting Time 1 standard action.
 - **[Bull’s Strength](bulls-strength.md)**: Subject gains +4 to Str for 1 min./level.
-- **[Bullet Ward](bullet-ward.md)**: You toss several adamantine bullets into the air, which then hover protectively nearby and intercept firearm attacks…
+- **[Bullet Ward](bullet-ward.md)**: Hovering adamantine bullets intercept firearm attacks aimed at you.
 - **[Carry Companion](carry-companion.md)**: Turns a willing animal into a stone figurine.
 - **[Contest of Skill](contest-of-skill.md)**: Target’s critical threats fail to confirm.
 - **[Delay Disease](delay-disease.md)**: The target becomes temporarily immune to disease.
@@ -136,10 +134,10 @@
 - **[Sea Steed](sea-steed.md)**: Your mount adapts to an aquatic environment.
 - **[Sense Madness](sense-madness.md)**: Determine mental disturbances in nearby creatures.
 - **[Shared Training](shared-training.md)**: grant a teamwork feat to allies
-- **[Shield Companion](shield-companion.md)**: This spell creates a special mystical connection between you and your companion creature—animal companion, bonded…
+- **[Shield Companion](shield-companion.md)**: As shield other, but affecting your companion creature.
 - **[Shield Other](shield-other.md)**: You take half of subject’s damage.
 - **[Slave to Sin](slave-to-sin.md)**: Exploit a creature’s sin to sicken and stagger it.
-- **[Soothing Word](soothing-word.md)**: The target of this spell causes several conditions that he suffers from to be lessened in severity by one step…
+- **[Soothing Word](soothing-word.md)**: Lessen the severity of a target’s conditions.
 - **[Spiritual Squire](spiritual-squire.md)**: A force servant helps carry, aid, and armor allies.
 - **[Stave Off Corruption](stave-off-corruption.md)**: Protect against a corruption’s progression.
 - **[Suppress Charms and Compulsions](suppress-charms-and-compulsions.md)**: Bolster or suppress charm and compulsion effects.
@@ -154,7 +152,7 @@
 - **[Accept Affliction](accept-affliction.md)**: Transfer an affliction or condition from a creature to yourself.
 - **[Angelic Aspect](angelic-aspect.md)**: Gain wings, resistances and DR 5/evil.
 - **[Aura of Inviolate Ownership](aura-of-inviolate-ownership.md)**: Targets gain +20 to CMD against disarm and steal.
-- **[Bestow Auras](bestow-auras.md)**: You transfer one or more of your paladin or antipaladin auras (such as aura of courage and aura of resolve) to…
+- **[Bestow Auras](bestow-auras.md)**: Transfer your paladin or antipaladin auras to another creature.
 - **[Burst of Speed](burst-of-speed.md)**: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
 - **[Cure Moderate Wounds](cure-moderate-wounds.md)**: Cures 2d8 damage +1/level (max. +10).
 - **[Damnation](damnation.md)**: Punish creatures for evil spells they know or that affect them.
@@ -169,7 +167,6 @@
 - **[Dispel Magic](dispel-magic.md)**: Cancels one magical spell or effect.
 - **[Draconic Ally](draconic-ally.md)**: Create an intelligent draconic servant.
 - **[Firewalker's Meditation](firewalkers-meditation.md)**: Meditative spell: damage reduction, fire resistance, and pain resistance.
-- **[Flame Steed](flame-steed.md)**: Conjure a mount made of flame.
 - **[Guardian Monument, Lesser](guardian-monument-lesser.md)**: Humans defending the area gain DR 2/magic.
 - **[Heal Mount](heal-mount.md)**: As *heal* on horse or other special mount.
 - **[Life Current](life-current.md)**: You infuse the current with positive energy.
@@ -177,14 +174,11 @@
 - **[Litany of Dependability](litany-of-dependability.md)**: A creature takes the average result on its next roll.
 - **[Litany of Escape](litany-of-escape.md)**: Teleports a friend out of a grapple.
 - **[Litany of Sight](litany-of-sight.md)**: You can see invisible creatures and objects within 30 feet of you.
-- **Magic Circle against Chaos/Evil**: As *protection from chaos*, but 10-ft. radius and 10 min./level.
-- **[Magic Circle against Chaos](magic-circle-against-chaos.md)**: This spell functions like magic circle against evil, except that it is similar to protection from chaos instead of…
-- **[Magic Circle against Evil](magic-circle-against-evil.md)**: All creatures within the area gain the effects of a protection from evil spell, and evil summoned creatures cannot…
+- **[Magic Circle against Chaos](magic-circle-against-chaos.md)/[Magic Circle against Evil](magic-circle-against-evil.md)**: As *protection from chaos*, but 10-ft. radius and 10 min./level.
 - **[Magic Weapon, Greater](magic-weapon-greater.md)**: Weapon gains +1 bonus/four levels (max +5).
 - **[Mantle of Calm](mantle-of-calm.md)**: You surround yourself with a mantle of calm serenity.
 - **[Moonrise Arrow](moonrise-arrow.md)**: Ammunition counts as magic and silver and harms incorporeal undead and shapechangers.
 - **[Planned Assault](planned-assault.md)**: Planned actions grant bonuses for the first round.
-- **[Positive Pulse, Greater](positive-pulse-greater.md)**: A large pulse of positive energy damages undead and bolsters living creatures
 - **[Prayer](prayer.md)**: Allies get +1 bonus on most rolls, enemies –1 penalty.
 - **[Remove Blindness/Deafness](remove-blindness-deafness.md)**: Cures normal or magical blindness or deafness.
 - **[Remove Curse](remove-curse.md)**: Frees object or person from curse.
@@ -194,7 +188,7 @@
 - **[Sanctify Weapons](sanctify-weapons.md)**: Weapons in the area bypass the DR of one subtype of evil outsider.
 - **[Scales of Deflection](scales-of-deflection.md)**: Touch attacks against you resolve against your normal AC.
 - **[Second Wind](second-wind.md)**: Heal 2d8 + 1/level when below one-quarter hit points.
-- **[Shield of Fortification, Greater](shield-of-fortification-greater.md)**: This spell functions as shield of fortification, except there is a 50% chance that the critical hit or sneak attack…
+- **[Shield of Fortification, Greater](shield-of-fortification-greater.md)**: Target gains a 50% chance to treat critical hits and sneak attacks as normal hits.
 - **[Shield of Wings](shield-of-wings.md)**: Gain five burning wings that grant flight and fire resistance.
 - **[Silverlight](silverlight.md)**: Silvery light dazzles and sickens creatures with DR/silver.
 - **[Sky Steed](sky-steed.md)**: Grant your mount angelic wings.
@@ -220,6 +214,7 @@
 - **[Banishing Blade](banishing-blade.md)**: The weapon bull rushes foes and can banish outsiders.
 - **[Beacon of Luck](beacon-of-luck.md)**: Allies may roll saves twice.
 - **[Blade of Light](blade-of-light.md)**: Weapon shines with sunlight, harming undead.
+- **[Blessing of Luck and Resolve, Mass](blessing-of-luck-and-resolve-mass.md)**: cleric 6, inquisitor 6, paladin 4
 - **[Bloodsworn Retribution](bloodsworn-retribution.md)**: Swear an oath of retribution on your own blood for morale bonuses.
 - **[Break Enchantment](break-enchantment.md)**: Frees subjects from enchantments, transmutations, and curses.
 - **[Brightest Light](brightest-light.md)**: Longer-lasting daylight that can dispel darkness.
@@ -230,12 +225,13 @@
 - **[Companion Transposition](companion-transposition.md)**: Swap places with your animal companion, familiar, or spirit animal via teleportation.
 - **[Crusader’s Edge](crusaders-edge.md)**: Weapon gains evil outsider bane and nauseates on crits.
 - **[Cure Serious Wounds](cure-serious-wounds.md)**: Cures 3d8 damage + 1/level (max +15).
-- **[Daemon Ward](daemon-ward.md)**: This spell functions like death ward, except as noted above and it only protects against these attacks from da…
+- **[Daemon Ward](daemon-ward.md)**: As death ward, but only against daemons.
 - **[Death Ward](death-ward.md)**: Grants bonuses against death spells and negative energy.
 - **[Dimensional Blade](dimensional-blade.md)**: Your melee weapon makes touch attacks.
 - **[Dispel Chaos](dispel-chaos.md)**: +4 bonus against attacks by chaotic creatures.
 - **[Dispel Evil](dispel-evil.md)**: +4 bonus against attacks by evil creatures.
 - **[Eaglesoul](eaglesoul.md)**: Combat bonuses against evil creatures, especially evil outsiders.
+- **[Flame Steed](flame-steed.md)**: Conjure a mount made of flame.
 - **[Flash Forward](flash-forward.md)**: Make a charge attack, then teleport back.
 - **[Forceful Strike](forceful-strike.md)**: Melee hit deals extra force damage and bull rush.
 - **[Guardian of Faith](guardian-of-faith.md)**: The target gains the benefit of shield of faith and your choice of protection from chaos, evil, good, or law.
@@ -252,6 +248,7 @@
 - **[Neutralize Poison](neutralize-poison.md)**: Immunizes subject against poison, detoxifies venom in or on subject.
 - **[Paragon Surge](paragon-surge.md)**: You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind.
 - **[Planeslayer’s Call](planeslayers-call.md)**: The magic of your allies in the area becomes more potent against certain outsiders.
+- **[Positive Pulse, Greater](positive-pulse-greater.md)**: A large pulse of positive energy damages undead and bolsters living creatures
 - **[Purify Body](purify-body.md)**: Heals, grants temporary hit points, and removes pain, ability damage, and conditions.
 - **[Red Hand of the Killer](red-hand-of-the-killer.md)**: Stain the hand of a creature’s killer red.
 - **[Remove Radioactivity](remove-radioactivity.md)**: Cure radiation effects.
@@ -319,7 +316,7 @@ New spells from the *Advanced Player's Guide*. An M or F after a name marks a ma
 - **[Light Lance](light-lance.md)**: Creates a soaring beacon of light.
 - **[Paladin's Sacrifice](paladins-sacrifice.md)**: Take the damage and effects for another creature.
 - **[Righteous Vigor](righteous-vigor.md)**: Boosts attack bonus with each hit.
-- **[Sacred Bond](sacred-bond.md)** (F): Cast touch healing spells from a distance.
+- **[Sacred Bond](sacred-bond.md)**: (F): Cast touch healing spells from a distance.
 - **[Saddle Surge](saddle-surge.md)**: Bonus damage for moving on mount.
 - **[Wake of Light](wake-of-light.md)**: Magical trail aids good creatures, hinders evil ones.
 - **[Weapon of Awe](weapon-of-awe.md)**: Weapon gets +2 on damage rolls.
