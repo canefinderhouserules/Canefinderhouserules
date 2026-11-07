@@ -67,7 +67,7 @@ As a swift action, a golden knight can issue orders to a number of allies up to 
 
 A golden knight gains a +2 bonus on saving throws against one of the following dangers: charms and compulsions, curses, diseases, fear, poisons, traps, or the innate magical powers (spell-like abilities and supernatural abilities not gained from class levels) of one creature type (and subtype, if applicable) chosen from the [ranger favored enemy](../classes/ranger.md#favored-enemy-ex) list. At 5th level and again at 9th level, a golden knight gains an additional +2 bonus against a different danger; alternatively, he can increase the bonus against a previously selected danger by 2.
 
-##### Legion Feats
+#### Legion Feats
 
 A golden knight gains the following bonus feats at the prescribed levels, even if he doesn’t meet the prerequisites: 2nd level—[Stand Still](../../rules/feats/stand-still.md), 4th level—Bodyguard, 6th level—[In Harm’s Way](../../rules/feats/in-harm-s-way.md), 8th level—[Swift Aid](../../rules/feats/swift-aid.md). If he already has the feat for a given level, he can instead take any other combat feat whose prerequisites he meets.
 
