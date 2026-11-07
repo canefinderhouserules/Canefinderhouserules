@@ -5,6 +5,7 @@
 **Components** V, S, M (diamond dust worth 150 gp)  
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** any number of creatures or objects in range  
-**Duration** as *nondetection*
+**Duration** 1 hour/level  
+**Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 
-Designed to protect a large number of items from rivals, this spell functions as [*nondetection*](nondetection.md) except as noted above. You can exclude any creatures or objects in the spell’s range when casting this spell, if you wish.
+This spell functions as [*nondetection*](nondetection.md) except as noted above. You can exclude any creatures or objects in the spell’s range when casting this spell, if you wish.
