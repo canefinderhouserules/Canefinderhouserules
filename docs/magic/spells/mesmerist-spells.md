@@ -172,7 +172,7 @@ Mesmerists gain access to the following spells. Spells without a link come from 
 - **[Daze Monster](daze-monster.md)**: Living creature of 6 HD or less loses its next action.
 - Delay Disease
 - **[Deflect Blame](deflect-blame.md)**: Blame someone else for your action.
-- **[Delay Pain](delay-pain.md)**: Ignore pain for 1 hour/level. Disfiguring Touch : Target becomes disfigured.
+- **[Delay Pain](delay-pain.md)**: Ignore pain for 1 hour/level.
 - **[Delay Poison](delay-poison.md)**: Stops poison from harming subject for 1 hour/level.
 - **[Detect Anxieties](detect-anxieties.md)**: Learn what makes creatures anxious.
 - **[Detect Magic, Greater](detect-magic-greater.md)**: As *detect magic*, but learn more information.
