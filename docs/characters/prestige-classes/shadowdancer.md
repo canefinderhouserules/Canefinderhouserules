@@ -113,26 +113,3 @@ This ability, gained at 10th level, works like evasion (see above). A shadowdanc
 
 At 10th level, whenever a shadowdancer is in an area of dim light, she gains DR 10/— and a +2 luck bonus on all saving throws. In addition, whenever she successfully scores a critical hit against a foe who is in an area of dim light, that foe is [blinded](../../rules/appendices/conditions.md#blinded) for 1d6 rounds.
 
-It’s one thing to play a character on an adventure. It’s quite another to run the adventure as a Game Master. It’s a lot more work, sure, but it can be a lot more rewarding to create an entire world for your friends to explore.
-
-But what exactly *is* a Game Master?
-
-#### Storyteller
-
-First and foremost, the Game Master is a storyteller. He presents the world and its characters to the players of the game, and it is through the GM that the players interact with them. The Game Master must be able to craft stories and to translate them into a verbal medium.
-
-#### Entertainer
-
-A Game Master must also be a master at improvisation. He has to be ready to handle anything that his players want to do, to resolve situations and issue rulings quickly enough to keep the pace of the game going at an entertaining clip. A Game Master is on stage, and his players are his audience.
-
-#### Judge
-
-The Game Master must be the arbiter of everything that occurs in the game. All rule books, including this one, are his tools, but his word is the law. He must not antagonize the players or work to impede their ability to enjoy the game, yet neither should he favor them and coddle them. He should be impartial, fair, and consistent in his administration of the rules.
-
-#### Inventor
-
-The Game Master’s job does not end when the game session does. He must be an inventor as well. By creating NPCs, plots, magic items, spells, worlds, deities, monsters, and everything else, he propels his game’s evolution forward, constantly elevating his campaign into something greater.
-
-#### Player
-
-Just because he’s playing dozens of characters during the course of a session doesn’t make him any less a player than the others who sit at the table.
