@@ -133,55 +133,55 @@ This bonus overlaps (does not stack with) bonuses gained when fighting a favored
 
 Each terrain dominance grants additional abilities, detailed below. When the horizon walker gains a new terrain dominance he may, if he prefers, instead pick an additional terrain mastery.
 
-#### Astral Plane
+##### Astral Plane
 
 The horizon walker gains a +1 competence bonus on attack and damage rolls against outsiders. He gains dimension door as a spell-like ability a number of times per day equal to 3 + the character’s Wisdom modifier (caster level equal to the character’s level).
 
-#### Cold
+##### Cold
 
 The horizon walker gains cold resistance 20 (this replaces the character’s cold resistance from mastery of the cold terrain) and a +1 competence bonus on all attack and damage rolls against creatures of the cold subtype.
 
-#### Desert
+##### Desert
 
 The horizon walker gains fire resistance 10 and immunity to fatigue.
 
-#### Ethereal Plane
+##### Ethereal Plane
 
 The walker gains ethereal jaunt as a spell-like ability once per day (caster level equal to the character’s level). He must be at least 7th level before selecting this power.
 
-#### Forest
+##### Forest
 
 The horizon walker gains hallucinatory terrain as a spell-like ability a number of times per day equal to 3 + the character’s Wisdom modifier (caster level equal to the character’s level). The horizon walker can only use this ability to create illusory forests.
 
-#### Jungle
+##### Jungle
 
 The horizon walker gains charm monster as a spell-like ability a number of times per day equal to 3 + the character’s Wisdom modifier (caster level equal to the character’s level). This charm only affects animals, magical beasts, and creatures primarily found in the jungle.
 
-#### Mountain
+##### Mountain
 
 The horizon walker gains DR 2/ adamantine.
 
-#### Plains
+##### Plains
 
 The walker’s base speed increases by +10 feet.
 
-#### Plane of Air
+##### Plane of Air
 
 The horizon walker gains fly as a spell-like ability a number of times per day equal to 3 + the character’s Wisdom modifier (caster level equal to the character’s level).
 
-#### Plane of Earth
+##### Plane of Earth
 
 The horizon walker gains tremorsense with a range of 30 feet. He must be at least 5th level before selecting this plane for this ability.
 
-#### Plane of Fire
+##### Plane of Fire
 
 The horizon walker gains fire resistance 20 (this replaces the character’s file resistance from mastery of the Plane of Fire terrain) and a +1 competence bonus on all attack and damage rolls again creatures of the fire subtype.
 
-#### Plane of Water
+##### Plane of Water
 
 The horizon walker’s movements and actions are not hampered when underwater. This allows him to speak, make attacks, and cast spells normally underwater (as if using freedom of movement).
 
-#### Plane, aligned
+##### Plane, aligned
 
 For the purpose of bypassing damage reduction, the horizon walker’s manufactured and natural weapons count as the opposite alignment of his chosen plane of dominance. If his chosen plane has more than one alignment type, he must choose one of those types for this ability. For example, if he selects “Hell” (an evil, lawful plane) for his terrain dominance ability, he may choose “evil” or “lawful,” which means his attacks bypass good or chaotic damage reduction, respectively. Alternatively, if native creatures of his chosen plane are vulnerable to a particular special material (such as cold iron or silver), he may choose to have his weapons bypass damage reduction as if they were that special material. If he selects this plane more than once for his terrain dominance ability, his attacks count as an additional alignment or special material (such as “good and silver” or “chaotic and good”).
 
