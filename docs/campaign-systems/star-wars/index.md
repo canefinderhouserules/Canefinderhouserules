@@ -92,7 +92,7 @@ This is completely experimental, but for now the only tiny rules for keeping som
 
 - You can copy any class feature of the same level as the class feature you are gaining, or lower (you cannot copy the inquisitor's Bane with a level 2 class feature, since it is a level 5 feature for the inquisitor).
 - You can copy class features only from similar classes: martial from martial (and from martial hybrids, negotiable and perhaps at a lower level). For the Warrior-type class, only from classes without spells or with 4th-level spells, and possibly from 6th-level casters with a weaker level or at the cost of a higher-level class feature.
-- Each class feature has a different value, divided into Iconic, OP, Common and Weak (see [Class Features and Their Prices](#class-features-and-their-prices)). Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). **You can have only 1 Iconic class feature, 1 OP class feature gained at levels 1–10, and 1 OP class feature gained at levels 11–20.**
+- Each class feature has a different value, divided into Iconic, OP, Common and Weak (see [Class Features and Their Prices](#class-features-and-their-prices)). Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). **You can have only 1 Iconic class feature, 1 OP class feature chosen while your character is level 1–10, and 1 OP class feature chosen while your character is level 11–20 (what counts is your level when you choose it, not the level of the feature).**
 
 <!-- class-feature-list:warrior -->
 
@@ -157,7 +157,7 @@ This is completely experimental, but for now the only tiny rule for keeping some
 
 - You can copy any class feature of the same level as the class feature you are gaining, or lower (you cannot copy the inquisitor's Bane with a level 2 class feature, since it is a level 5 feature for the inquisitor).
 - You can copy class features only from similar classes: martial from martial (and from martial hybrids, negotiable and perhaps at a lower level). For the Warrior-type class, only from classes without spells or with 4th-level spells, and possibly from 6th-level casters with a weaker level or at the cost of a higher-level class feature.
-- Each class feature has a different value, divided into Iconic, OP, Common and Weak (see [Class Features and Their Prices](#class-features-and-their-prices)). Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). **You can have only 1 Iconic class feature, 1 OP class feature gained at levels 1–10, and 1 OP class feature gained at levels 11–20.**
+- Each class feature has a different value, divided into Iconic, OP, Common and Weak (see [Class Features and Their Prices](#class-features-and-their-prices)). Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). **You can have only 1 Iconic class feature, 1 OP class feature chosen while your character is level 1–10, and 1 OP class feature chosen while your character is level 11–20 (what counts is your level when you choose it, not the level of the feature).**
 
 <!-- class-feature-list:specialist -->
 
@@ -217,7 +217,7 @@ This is completely experimental, but for now the only tiny rule for keeping some
 
 - You can copy any class feature of the same level as the class feature you are gaining, or lower (you cannot copy the inquisitor's Bane with a level 2 class feature, since it is a level 5 feature for the inquisitor).
 - You can copy class features only from similar classes: martial from martial (and from martial hybrids, negotiable and perhaps at a lower level). For the Warrior-type class, only from classes without spells or with 4th-level spells, and possibly from 6th-level casters with a weaker level or at the cost of a higher-level class feature.
-- Each class feature has a different value, divided into Iconic, OP, Common and Weak (see [Class Features and Their Prices](#class-features-and-their-prices)). Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). **You can have only 1 Iconic class feature, 1 OP class feature gained at levels 1–10, and 1 OP class feature gained at levels 11–20.**
+- Each class feature has a different value, divided into Iconic, OP, Common and Weak (see [Class Features and Their Prices](#class-features-and-their-prices)). Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak). **You can have only 1 Iconic class feature, 1 OP class feature chosen while your character is level 1–10, and 1 OP class feature chosen while your character is level 11–20 (what counts is your level when you choose it, not the level of the feature).**
 
 <!-- class-feature-list:consular -->
 
@@ -238,7 +238,7 @@ These favored class bonuses belong to this subsystem's three classes. Each time 
 
 Every class feature is priced as Iconic, OP, Common or Weak. Each time you choose a class feature you can take 1 Iconic, or 1 OP, or 2 Common, or 4 Weak (or 1 Common and 2 Weak).
 
-**Limits:** you can have only 1 Iconic class feature, 1 OP class feature gained at levels 1–10, and 1 OP class feature gained at levels 11–20. An Iconic class feature costs the same as an OP one; the category only exists to stop combinations of the strongest class features. Iconic class features are the ones that define a class or are far better than other OP class features.
+**Limits:** you can have only 1 Iconic class feature, 1 OP class feature chosen while your character is level 1–10, and 1 OP class feature chosen while your character is level 11–20 (what counts is your level when you choose it, not the level of the feature). An Iconic class feature costs the same as an OP one; the category only exists to stop combinations of the strongest class features. Iconic class features are the ones that define a class or are far better than other OP class features.
 
 **Prestige classes:** in this subsystem, a prestige class feature counts as 3 levels higher than the level at which its prestige class gains it (a feature gained at 5th level counts as 8th level). The lists below already include this; the prestige classes themselves do not change.
 
