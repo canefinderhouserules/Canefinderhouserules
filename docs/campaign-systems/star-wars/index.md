@@ -32,7 +32,7 @@ This page holds the rules of the subsystem. The rest is on three pages: [Lightsa
 | 8 | 71–80 |
 | 9 | 81–100 |
 
-**Lower-level powers get cheaper:** each time you gain access to a new spell level, powers of the previous spell level cost half. This does not apply to cantrips. For example, a 2nd-level power that normally costs 20 costs 10 once you unlock 3rd-level powers.
+**Lower-level powers get cheaper:** each time you gain access to a new spell level, powers of the previous spell level cost half. This does not apply to cantrips. For example, a 2nd-level power that normally costs 20 costs 10 once you unlock 3rd-level powers. Round odd costs up: a power that costs 7 costs 4.
 
 **Casting ability:** the ability for casting with the Force is Wisdom; the ability for "casting" with technology is Intelligence. If you want to use another one, it can be negotiated. Charisma or Intelligence for the Force would not be entirely impossible, and I don't know whether anyone will come up with something other than Intelligence for technological things, so we will see.
 
