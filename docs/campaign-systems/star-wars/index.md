@@ -248,6 +248,8 @@ The class features each class can copy are listed by level and price:
 - [Specialist Class Features](class-features-specialist.md)
 - [Consular Class Features](class-features-consular.md)
 
+Class features that many classes repeat are unified in [Generic Class Features](generic-class-features.md): instead of copying one of them, you take the generic version and choose what it applies to. These exist only in this subsystem.
+
 ## Feats and Class Features Unique to This Setting
 
 **Extra Class Feature [Feat]:** Grants one extra class feature choice. If it is of the same level as the feat you are spending, it cannot be OP, and it only gives you 1 common or 2 weak features. If it is 4 levels lower, it can be OP (negotiable), and you can take 2 common or 4 weak features, or a combination of both.  
