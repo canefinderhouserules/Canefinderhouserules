@@ -74,6 +74,24 @@ Choose climb or swim. You gain that movement speed, equal to 1/2 your base speed
 
 Choose one martial or exotic weapon. You become proficient with it. You can take this class feature more than once. Each time, choose a different weapon.
 
+## Energy Resistance
+
+**Price:** Weak. **Level:** 1st.
+
+Choose acid, cold, electricity, fire or sonic. You gain resistance 5 to that energy type. This increases to resistance 10 at 10th level. You can take this class feature more than once. Each time, choose a different energy type.
+
+## Keen Senses
+
+**Price:** Weak. **Level:** 1st.
+
+Choose low-light vision, darkvision 60 feet, or scent. You gain that ability. You can take this class feature more than once. Each time, choose a different ability.
+
+## Water Adaptation
+
+**Price:** Weak. **Level:** 1st.
+
+You can hold your breath for a number of minutes equal to your Constitution score. At 6th level, you can breathe water as easily as air.
+
 ## Quick Reactions
 
 **Price:** Weak. **Level:** 1st.
