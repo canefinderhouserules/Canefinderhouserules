@@ -86,6 +86,36 @@ Choose low-light vision, darkvision 60 feet, or scent. You gain that ability. Yo
 
 You can hold your breath for a number of minutes equal to your Constitution score. At 6th level, you can breathe water as easily as air.
 
+## Uncommon Speech
+
+**Price:** Weak. **Level:** 3rd.
+
+Choose animals, plants, one creature type, or all languages. You can speak with that kind of creature at will. If you choose all languages, you can cast tongues on yourself three times per day as a spell-like ability instead. You can take this class feature more than once. Each time, choose a different option.
+
+## Additional Skill Ranks
+
+**Price:** Weak. **Level:** 1st.
+
+You gain 2 additional skill ranks at each level.
+
+## Lucky Break
+
+**Price:** Common. **Level:** 5th.
+
+Once per day, you can reroll one d20 you just rolled, before the result is revealed. You must take the second result.
+
+## Natural Weapon
+
+**Price:** Common. **Level:** 1st.
+
+Choose one bite or gore attack (1d6) or two claw attacks (1d4). You gain those primary natural attacks.
+
+## Flight
+
+**Price:** Common. **Level:** 12th.
+
+You gain a fly speed equal to your base speed with average maneuverability. You can dismiss or manifest your means of flight as a free action.
+
 ## Quick Reactions
 
 **Price:** Weak. **Level:** 1st.
