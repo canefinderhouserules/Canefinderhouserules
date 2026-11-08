@@ -6,7 +6,7 @@ These class features exist only in this subsystem. Each one stands in for the ma
 
 **Price:** Weak. **Level:** 1st.
 
-Choose up to three skills. You gain a bonus on checks with those skills equal to 1/2 your level (minimum +1). All Knowledge skills count as a single skill for this class feature, and so do all Craft skills, all Perform skills and all Profession skills. You can take this class feature more than once. Each time, choose different skills.
+Choose one skill. You gain a bonus on checks with that skill equal to 1/2 your level (minimum +1). All Knowledge skills count as a single skill for this class feature. You can take this class feature more than once. Each time, choose a different skill.
 
 ## Reliable Skill
 
