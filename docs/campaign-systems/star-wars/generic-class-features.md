@@ -24,7 +24,7 @@ Choose up to four skills. They become class skills for you. You can take this cl
 
 **Price:** Common. **Level:** 1st.
 
-You gain one feat of your choice. You must meet its prerequisites. You can take this class feature up to three times.
+You gain one feat of your choice. You must meet its prerequisites. You can take this class feature more than once. Each time, choose a different feat.
 
 ## Minor Feat Training
 
