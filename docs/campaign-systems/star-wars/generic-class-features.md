@@ -42,13 +42,13 @@ Choose one of the following: fear and emotion effects; charm and compulsion effe
 
 **Price:** Weak. **Level:** 5th.
 
-Choose one of the following: disease, fear, poison, or one of the blinded, confused, dazzled, deafened, fatigued or sickened conditions. You become immune to it. You can take this class feature more than once. Each time, choose a different option.
+Choose one of the following: disease, fear, poison, sleep effects, negative energy and energy drain, or one of the blinded, confused, dazzled, deafened, fatigued or sickened conditions. You become immune to it. You can take this class feature more than once. Each time, choose a different option.
 
 ## At-Will Detection
 
 **Price:** Weak. **Level:** 1st.
 
-Choose one of detect magic, detect poison, detect undead, or one detect alignment spell. You can use it at will as a spell-like ability. You can take this class feature more than once. Each time, choose a different spell.
+Choose one of detect magic, detect poison, detect undead, one detect alignment spell, or a detection of one creature type that works the same way. You can use it at will as a spell-like ability. You can take this class feature more than once. Each time, choose a different spell.
 
 ## Spell Knack
 
