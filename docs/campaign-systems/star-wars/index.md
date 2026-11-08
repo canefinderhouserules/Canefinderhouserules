@@ -7,7 +7,7 @@ This page holds the rules of the subsystem. The rest is on three pages: [Lightsa
 
 ## Stamina
 
-**Stamina:** a fixed number (by class type) × level, plus the casting ability modifier × level (like hit points with Constitution, but using an ability that suits the power).
+**Stamina:** a fixed number (by class type) × level, plus the casting ability modifier × level (like hit points with Constitution, but using an ability that suits the power). The fixed number is the maximum of the class’s stamina die, the same way hit points take the maximum of every Hit Die: Warrior d6 = 6 per level, Specialist d8 = 8, Consular d12 = 12.
 
 **The fixed numbers are:**
 
@@ -345,18 +345,18 @@ Jedi characters can start anywhere from –20 to +20, as you prefer. A trait to 
 
 | Karma | Force power damage | Caster level | DC of your Force powers | Will saves | Charisma-related checks | Intimidate |
 |---|---|---|---|---|---|---|
-| -100 | +1 die of damage with Force powers (stacks) | +3 | –3 | –3 | –10 (not Intimidate) | +10 |
-| -90 | +1 die (does not stack) | +2 | –2 | –2 | –9 | +9 |
-| -80 | +1 die (does not stack) | +2 | –2 | –2 | –8 | +8 |
-| -70 | +1 die (does not stack) | +2 | –2 | –2 | –7 | +7 |
-| -60 | +1 die (does not stack) | +2 | –2 | –2 | –6 | +6 |
-| -50 | +1 die (does not stack) | +2 | –2 | –2 | –5 | +5 |
-| -40 | +1 die (does not stack) | +1 | –1 | –1 | –4 | +4 |
-| -30 | +1 die (does not stack) | +1 | –1 | –1 | –3 | +3 |
+| -100 | +1 more damage per die (stacks with the bonus below, for +2 per die in total) | +3 | –3 | –3 | –10 (not Intimidate) | +10 |
+| -90 | +1 damage per die | +2 | –2 | –2 | –9 | +9 |
+| -80 | +1 damage per die | +2 | –2 | –2 | –8 | +8 |
+| -70 | +1 damage per die | +2 | –2 | –2 | –7 | +7 |
+| -60 | +1 damage per die | +2 | –2 | –2 | –6 | +6 |
+| -50 | +1 damage per die | +2 | –2 | –2 | –5 | +5 |
+| -40 | +1 damage per die | +1 | –1 | –1 | –4 | +4 |
+| -30 | +1 damage per die | +1 | –1 | –1 | –3 | +3 |
 | -20 | — | +1 | –1 | –1 | –2 | +2 |
 | -10 | — | +1 | –1 | –1 | –1 | +1 |
 
-Note that dark side Force powers are *easier to resist* (a lower DC), and the Charisma penalty does not apply to Intimidate checks.
+The damage bonus adds to every die you roll for a Force power’s damage (a 5d6 power deals +5 damage at –30 karma, +10 at –100); the bonuses of the rows from –30 to –90 do not add up with each other, only the –100 one adds to them. Note that dark side Force powers are *easier to resist* (a lower DC), and the Charisma penalty does not apply to Intimidate checks.
 
 ### Neutral
 

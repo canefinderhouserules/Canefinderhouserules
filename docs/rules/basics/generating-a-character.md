@@ -16,4 +16,8 @@ Once you have a general concept worked out, use the following steps to bring you
 
 **Step 5—Buy Equipment**: Each new character begins the game with an amount of gold, based on his class, that can be spent on a wide range of equipment and gear, from chainmail armor to leather backpacks. This gear helps your character survive while adventuring. Generally speaking, you cannot use this starting money to buy magic items without the consent of your GM.
 
-**Step 6—Finishing Details**: Finally, you need to determine all of a character’s details, including his starting hit points (hp), Armor Class (AC), saving throws, initiative modifier, and attack values. All of these numbers are determined by the decisions made in previous steps. A level 1 character begins with maximum hit points for its Hit Die roll. Aside from these, you need to decide on your character’s name, alignment, and physical appearance. It is best to jot down a few personality traits as well, to help you play the character during the game. Additional rules (like age and alignment) are described in Chapter 7.
+**Step 6—Finishing Details**: Finally, you need to determine all of a character’s details, including his starting hit points (hp), Armor Class (AC), saving throws, initiative modifier, and attack values. All of these numbers are determined by the decisions made in previous steps. A character gains maximum hit points for every Hit Die from its class levels, at 1st level and at every level after it (a d10 always gives 10), instead of rolling or taking the average. Aside from these, you need to decide on your character’s name, alignment, and physical appearance. It is best to jot down a few personality traits as well, to help you play the character during the game. Additional rules (like age and alignment) are described in Chapter 7.
+
+??? note "Original rule"
+
+    A level 1 character begins with maximum hit points for its Hit Die roll.

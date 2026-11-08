@@ -8,7 +8,11 @@ A character advances in level as soon as he earns enough experience points to do
 
 The process of advancing a character works in much the same way as generating a character, except that your ability scores, race, and previous choices concerning class, skills, and feats cannot be changed. Adding a level generally gives you new abilities, additional skill points to spend, more hit points, possibly a permanent +1 increase to one ability score of your choice, or an additional feat (see Table 3–1). Over time, as your character rises to higher levels, he becomes a truly powerful force in the game world, capable of ruling nations or bringing them to their knees.
 
-When adding new levels of an existing class or adding levels of a new class (see Multiclassing, below), make sure to take the following steps in order. First, select your new class level. You must be able to qualify for this level before any of the following adjustments are made. Second, apply any ability score increases due to gaining a level. Third, integrate all of the level’s class abilities and then roll for additional hit points. Finally, add new skills and feats. For more information on when you gain new feats and ability score increases, see Table 3–1.
+When adding new levels of an existing class or adding levels of a new class (see Multiclassing, below), make sure to take the following steps in order. First, select your new class level. You must be able to qualify for this level before any of the following adjustments are made. Second, apply any ability score increases due to gaining a level. Third, integrate all of the level’s class abilities and then add hit points equal to the maximum of the class’s Hit Die (for example, 10 for a d10) plus your Constitution modifier. Finally, add new skills and feats. For more information on when you gain new feats and ability score increases, see Table 3–1.
+
+??? note "Original rule"
+
+    Third, integrate all of the level’s class abilities and then roll for additional hit points.
 
 ## Multiclassing
 
