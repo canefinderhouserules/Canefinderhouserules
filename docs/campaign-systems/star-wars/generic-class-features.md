@@ -22,9 +22,15 @@ Choose up to four skills. They become class skills for you. You can take this cl
 
 ## Feat Training
 
+**Price:** Common. **Level:** 1st.
+
+You gain one feat of your choice. You must meet its prerequisites. You can take this class feature up to three times.
+
+## Minor Feat Training
+
 **Price:** Weak. **Level:** 1st.
 
-You gain one feat of your choice. You must meet its prerequisites. You can take this class feature more than once. You can take this class feature up to three times.
+You gain one of the following feats: Athletic, Brew Potion, Catch Off-Guard, Combat Expertise, Dazzling Display, Deceitful, Defensive Combat Training, Endurance, Ghost Whisperer, Improved Counterspell, Inscribe Magical Tattoo, Intimidating Prowess, Lucid Dreamer, Persuasive, Pesh Adept, Psychic Sensitivity, Scribe Scroll, Sea Legs, Siege Engineer, Stealthy, Vermin Heart. You must meet its prerequisites. You can take this class feature more than once. Each time, choose a different feat.
 
 ## Focused Resistance
 
