@@ -4,11 +4,14 @@
   var cache = {};          // page URL -> parsed document (promise)
   var box = null, timer = null, current = null;
 
+  var cacheOrder = [];     // pages kept in memory, oldest first; only the last few are kept
   function getDoc(url) {
     if (!cache[url]) {
       cache[url] = fetch(url).then(function (r) { return r.ok ? r.text() : ''; })
         .then(function (html) { return new DOMParser().parseFromString(html, 'text/html'); })
         .catch(function () { return null; });
+      cacheOrder.push(url);
+      while (cacheOrder.length > 4) delete cache[cacheOrder.shift()];
     }
     return cache[url];
   }

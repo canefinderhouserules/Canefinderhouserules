@@ -32,6 +32,9 @@ markdown_extensions:
   - toc
   - admonition
   - pymdownx.details
+hooks:
+  - hooks/trim_search.py
+
 extra_css:
   - stylesheets/extra.css
 
