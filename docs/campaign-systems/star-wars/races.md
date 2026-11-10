@@ -156,3 +156,49 @@ Spell-Like Ability, Lesser (2 RP)
 Benefit: Choose a 2nd-level or lower spell that does not attack a creature or deal damage. Members of this race can use this spell as a spell-like ability once per day. The caster level of the spell is equal to the user’s character level.
 
 Special: This trait costs as many RP as the level of the spell chosen (minimum 1 RP). This trait can be taken up to three times. Each time you take an additional spell, adjust the RP cost of this trait appropriately.
+
+## Twi’lek (11 RP)
+
+Humanoid (Twi’lek) (0 RP)
+
+Humanoid races have few or no supernatural or spell-like abilities, but most can speak and have well-developed societies. Humanoids breathe, eat, and sleep.
+
+Size: Medium (0 RP)
+
+Medium races have no bonuses or penalties due to their size. A Medium creature has a space of 5 feet by 5 feet and a reach of 5 feet.
+
+Speed: Normal (0 RP)
+
+The race has a base speed of 30 feet.
+
+Ability Scores: Standard (0 RP)
+
++2 Dexterity, +2 Charisma, –2 Wisdom.
+
+Languages: Standard (0 RP)
+
+Members of this race start with Common plus their racial language (if any). Furthermore, choose up to seven languages (except for Druidic or other secret languages). Members of this race with high Intelligence scores can choose from any of these additional languages.
+
+Emissary (1 RP)
+
+Benefit: Once per day, members of this race can roll twice when making a Bluff or Diplomacy check and take the better roll.
+
+Skill Training (1 RP)
+
+Benefit: Bluff and Diplomacy are always class skills for members of this race.
+
+Skilled (4 RP)
+
+Benefit: Members of this race gain an additional skill rank at 1st level and one additional skill rank whenever they gain a level.
+
+Healthy (2 RP)
+
+Benefit: Members of this race gain a +4 bonus on Fortitude saves against disease and poison, including magical diseases.
+
+Low-Light Vision (1 RP)
+
+Benefit: Members of this race can see twice as far as a race with normal vision in conditions of dim light.
+
+Desert Runner (2 RP)
+
+Benefit: Members of this race receive a +4 racial bonus on Constitution checks and Fortitude saves to avoid fatigue and exhaustion, as well as any other ill effects from running, forced marches, starvation, thirst, and hot or cold environments.
