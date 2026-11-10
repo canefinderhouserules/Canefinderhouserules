@@ -64,7 +64,7 @@ You can move through nonmagical difficult terrain and undergrowth at your normal
 
 ## Natural Movement
 
-**Price:** Weak. **Level:** Warrior 4th, Specialist 7th, Consular 13th.
+**Price:** Weak. **Level:** Warrior 1st, Specialist 7th, Consular 13th.
 
 Choose climb or swim. You gain that movement speed, equal to 1/2 your base speed. At 10th level, it increases to your base speed. You can take this class feature more than once. Each time, choose the other movement.
 
@@ -76,7 +76,7 @@ Choose one martial or exotic weapon. You become proficient with it. You can take
 
 ## Energy Resistance
 
-**Price:** Weak. **Level:** 3rd (Specialist and Consular only).
+**Price:** Weak. **Level:** Specialist 1st, Consular 3rd (no other class type).
 
 Choose acid, cold, electricity, fire or sonic. You gain resistance 5 to that energy type. This increases to resistance 10 at 10th level. You can take this class feature more than once. Each time, choose a different energy type.
 
