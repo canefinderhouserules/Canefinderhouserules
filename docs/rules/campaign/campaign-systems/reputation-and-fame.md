@@ -201,7 +201,7 @@ This is the Fame of an adventurer who has achieved celebrity status.
 
 **Patriot (Title, 4 PP)**: Your reputation as an agent of your homeland’s interests precedes you. When traveling outside your Sphere of Influence, you gain a +2 bonus on all Diplomacy and Sense Motive checks against citizens or natives of your homeland.
 
-**Privileged Meeting (2 PP)**: You use your reputation to gain a private audience with a powerful individual such as a queen, general, high priest, or guildmaster. You gain
+**Privileged Meeting (2 PP)**: You use your reputation to gain a private audience with a powerful individual such as a queen, general, high priest, or guildmaster. You gain a +2 circumstance on Diplomacy checks for the duration of that audience.
 
 **Table 3–7: Negative Fame Reactions**
 
@@ -214,8 +214,6 @@ This is the Fame of an adventurer who has achieved celebrity status.
 | –20 | An angry mob forms shortly after you enter town. Not willing to wait for a potentially corrupt trial, they attempt to capture you and execute you for your crimes. |
 | –25 | An authority figure has issued a warrant for your arrest, including a reward to anyone who captures you. This is well known and many are eager to collect it. |
 | –30 | An authority figure has issued a bounty for your head. This is well known and many are eager to collect it. |
-
-a +2 circumstance on Diplomacy checks for the duration of that audience.
 
 ### Fame 55+
 

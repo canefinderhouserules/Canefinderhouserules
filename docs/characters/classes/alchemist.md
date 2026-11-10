@@ -127,7 +127,9 @@ If he creates another delayed bomb, the previous bomb becomes inert. Dispel magi
 
 Once per day, the alchemist can dilute any one potion or elixir, creating two doses of the same potion from one. Diluting a potion costs a number of gp equal to one-quarter of the potion’s market value. A potion that has been diluted cannot be diluted again.
 
-damage. Creatures that take a direct hit from a dispelling bomb are subject to a targeted dispel magic spell, using the alchemist’s level as the caster level. This cannot be used to target a specific spell effect. The alchemist must be at least 6th level before selecting this discovery.
+#### Dispelling Bomb\*
+
+When the alchemist creates a bomb, he can choose to have it dispel magic effects instead of deal damage. Creatures that take a direct hit from a dispelling bomb are subject to a targeted dispel magic spell, using the alchemist’s level as the caster level. This cannot be used to target a specific spell effect. The alchemist must be at least 6th level before selecting this discovery.
 
 #### Elixir of life
 

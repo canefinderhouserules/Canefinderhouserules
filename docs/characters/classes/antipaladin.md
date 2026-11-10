@@ -155,17 +155,7 @@ At 4th level and higher, his caster level is equal to his antipaladin level –3
 
 Upon reaching 5th level, an antipaladin receives a boon from his dark patrons. This boon can take one of two forms. Once the form is chosen, it cannot be changed.
 
-The first type of bond allows the antipaladin to enhance his weapon as a standard action by calling upon the aid of a fiendish spirit for 1 minute per antipaladin level. When called, the spirit causes the weapon to shed unholy light as a torch. At 5th level, this spirit grants the weapon a +1 enhancement bonus. For every three levels beyond 5th, the weapon gains another +1 enhancement bonus, to a maximum of +6 at 20th level. These bonuses can be added to the weapon, stacking with existing weapon bonuses to a maximum of +5, or they can be used to add any of the following weapon properties: anarchic, flaming, flaming burst, keen, speed, unholy, vicious, vorpal, and wounding. Adding these properties consumes an amount of bonus equal to the property’s cost (see Table 15–9 in the Core Rulebook). These bonuses are added to any properties the weapon already has, but duplicate abilities do not stack. If the weapon is not magical, at least a +1 enhancement bonus must be added before any other properties can be added. The bonus and properties granted by the spirit Fall From Grace Not all paladins that fall become antipaladins. In fact, the transformation is quite rare. Most paladins spend months or even years regaining their paladinhood, but they never stray so far from the path as to become irredeemable. Rarely, a paladin turns from the light and seeks instead to make a pact with the dark powers.
-
-Often this is through temptation or some sort of ruse, but once the deal is struck, the paladin finds himself on the path to damnation.
-
-When such a fall occurs, the transformation can be swift. The paladin trades in all of his paladin levels for antipaladin levels on a 1-for-1 basis. This is usually a traumatic experience, involving a complex ritual that involves a living sacrifice and dark oaths made to foul powers (who sometimes send minions to bear witness).
-
-Once complete, the antipaladin emerges, ready to bring ruin to the world.
-
-It should be noted that not all antipaladins are fallen heroes. Some warriors are trained from a young age to assume the mantle of antipaladin, forged through pain and trauma into exemplars of evil. These cruel warriors know nothing of compassion or loyalty, but they can teach a great deal about pain and suffering.
-
-are determined when the spirit is called and cannot be changed until the spirit is called again. The fiendish spirit imparts no bonuses if the weapon is held by anyone other than the antipaladin but resumes giving bonuses if returned to the antipaladin. These bonuses apply to only one end of a double weapon. An antipaladin can use this ability once per day at 5th level, and one additional time per day for every four levels beyond 5th, to a total of four times per day at 17th level.
+The first type of bond allows the antipaladin to enhance his weapon as a standard action by calling upon the aid of a fiendish spirit for 1 minute per antipaladin level. When called, the spirit causes the weapon to shed unholy light as a torch. At 5th level, this spirit grants the weapon a +1 enhancement bonus. For every three levels beyond 5th, the weapon gains another +1 enhancement bonus, to a maximum of +6 at 20th level. These bonuses can be added to the weapon, stacking with existing weapon bonuses to a maximum of +5, or they can be used to add any of the following weapon properties: anarchic, flaming, flaming burst, keen, speed, unholy, vicious, vorpal, and wounding. Adding these properties consumes an amount of bonus equal to the property’s cost (see Table 15–9 in the Core Rulebook). These bonuses are added to any properties the weapon already has, but duplicate abilities do not stack. If the weapon is not magical, at least a +1 enhancement bonus must be added before any other properties can be added. The bonus and properties granted by the spirit are determined when the spirit is called and cannot be changed until the spirit is called again. The fiendish spirit imparts no bonuses if the weapon is held by anyone other than the antipaladin but resumes giving bonuses if returned to the antipaladin. These bonuses apply to only one end of a double weapon. An antipaladin can use this ability once per day at 5th level, and one additional time per day for every four levels beyond 5th, to a total of four times per day at 17th level.
 
 If a weapon bonded with a fiendish spirit is destroyed, the antipaladin loses the use of this ability for 30 days, or until he gains a level, whichever comes first. During this 30-day period, the antipaladin takes a –1 penalty on attack and weapon damage rolls.
 
@@ -212,6 +202,15 @@ An antipaladin must be of chaotic evil alignment and loses all class features ex
 While he may adventure with evil or neutral allies, an antipaladin avoids working with good characters or with anyone who consistently attempts to do good deeds.
 
 Under exceptional circumstances, an antipaladin can ally with good associates, but only to defeat them from within and bring ruin to their ranks. An antipaladin does not need an atonement spell during such an unusual alliance as long as his nefarious goals are met in the end—evil cares only about results. An antipaladin may accept only henchmen, followers, or cohorts who are chaotic evil.
+
+!!! info "Fall from Grace"
+    Not all paladins that fall become antipaladins. In fact, the transformation is quite rare. Most paladins spend months or even years regaining their paladinhood, but they never stray so far from the path as to become irredeemable. Rarely, a paladin turns from the light and seeks instead to make a pact with the dark powers. Often this is through temptation or some sort of ruse, but once the deal is struck, the paladin finds himself on the path to damnation.
+
+    When such a fall occurs, the transformation can be swift. The paladin trades in all of his paladin levels for antipaladin levels on a 1-for-1 basis. This is usually a traumatic experience, involving a complex ritual that involves a living sacrifice and dark oaths made to foul powers (who sometimes send minions to bear witness).
+
+    Once complete, the antipaladin emerges, ready to bring ruin to the world.
+
+    It should be noted that not all antipaladins are fallen heroes. Some warriors are trained from a young age to assume the mantle of antipaladin, forged through pain and trauma into exemplars of evil. These cruel warriors know nothing of compassion or loyalty, but they can teach a great deal about pain and suffering.
 
 ## Ex-Antipaladins
 

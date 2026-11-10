@@ -181,9 +181,7 @@ Any creature that fails its saving throw against a jinxed spell also suffers the
 
 **Latent Curse +0 \[Common\]**
 
-You can alter a spell with the curse descriptor to target an object rather than a person. Your spell immediately targets the next creature to pick up, handle, or interact with the object as if that creature were the spell’s original target.
-
-if the curse originally affected multiple targets, it triggers as an area effect when someone touches it. An object invested with a latent curse detects as magical, with an aura appropriate for the spell’s original level and school.
+You can alter a spell with the curse descriptor to target an object rather than a person. Your spell immediately targets the next creature to pick up, handle, or interact with the object as if that creature were the spell’s original target. The curse affects only the first creature to use the item, even if the curse originally affected multiple targets, it triggers as an area effect when someone touches it. An object invested with a latent curse detects as magical, with an aura appropriate for the spell’s original level and school.
 
 As with all cursed items, someone studying the object’s magic aura recognizes that it is cursed only if her [Spellcraft](../../rules/skills/spellcraft.md) check exceeds the target DC by 10 or more.
 

@@ -12,7 +12,7 @@ If people are observing you using any of their senses (but typically sight), you
 
 *Sniping*: If you’ve already successfully used Stealth at least 10 feet from your target, you can make one ranged attack and then immediately use Stealth again. You take a –20 penalty on your Stealth check to maintain your obscured location.
 
-*Creating a Diversion to Hide*: You can use Bluff to allow you to use Stealth. A successful Bluff check opposed by the viewer’s Sense Motive can give you the momentary
+*Creating a Diversion to Hide*: You can use Bluff to allow you to use Stealth. A successful Bluff check opposed by the viewer’s Sense Motive can give you the momentary diversion you need to attempt a Stealth check while people are aware of you.
 
 **Table 4–7: Spellcraft DCs**
 
@@ -24,8 +24,6 @@ If people are observing you using any of their senses (but typically sight), you
 | Identify the properties of a magic item using *detect magic* | 15 + item’s caster level |
 | Decipher a scroll | 20 + spell level |
 | Craft a magic item | Varies by item |
-
-diversion you need to attempt a Stealth check while people are aware of you.
 
 **Action**: Usually none. Normally, you make a Stealth check as part of movement, so it doesn’t take a separate action. However, using Stealth immediately after a ranged attack (see Sniping, above) is a move action.
 

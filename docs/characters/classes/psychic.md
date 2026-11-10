@@ -214,7 +214,13 @@ Your mind is impure, tainted by outside forces. These might be monstrous ancesto
 
 **Morphic Form (Ex)**: At 5th level, while manifesting your dark half, you gain DR 5. This damage reduction can be overcome by a random type of damage each time you manifest your dark half, determined by rolling on the table below.
 
-d%	 Damage Reduction 1–35	 DR 5/bludgeoning 36–60	 DR 5/cold iron 61–100	 DR 5/magic Psychic Safeguard (Su): At 13th level, you project constant mental defenses, gaining spell resistance equal to 8 + your caster level. While manifesting your dark half, this spell resistance increases to 16 + your caster level.
+| d% | Damage Reduction |
+|---|---|
+| 1–35 | DR 5/bludgeoning |
+| 36–60 | DR 5/cold iron |
+| 61–100 | DR 5/magic |
+
+**Psychic Safeguard (Su)**: At 13th level, you project constant mental defenses, gaining spell resistance equal to 8 + your caster level. While manifesting your dark half, this spell resistance increases to 16 + your caster level.
 
 ### Dream
 

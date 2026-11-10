@@ -74,8 +74,6 @@ If an offensive manifestation’s effects can be negated or reduced with a savin
 | 8 MP | 16 dice |
 | 9 MP | 1 die per creator’s manifesting level (maximum 20 dice) |
 
-level (maximum 20 dice)
-
 The manifestation’s damage die type depends on the source of the manifestation’s MP. Psychic spells and spell-like abilities sacrificed grant d8s. Arcane spells and other spell-like abilities grant d6s. All other methods of generating MP (including mixed methods) grant d4s. If the manifestation’s attack resolves against AC or touch AC, a natural 20 on the attack roll threatens a critical hit for double damage.
 
 If the manifestation allows a saving throw, the creator can spend additional MP to add one condition from the list below (she must still spend at least 1 MP on damage). A successful saving throw always negates the condition. Conditions gained in a psychic duel end if the duel ends before the condition’s normal duration expires. The conditions below otherwise follow the normal rules for those conditions, with the following exceptions and additions.

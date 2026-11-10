@@ -10,7 +10,7 @@ Some mediums channel the power of nature spirits called kami rather than the spi
 
 ??? note "Original rule"
 
-    in the midst of storms; the suijin (which acts as the hierophant) at pure lakes, ponds, springs, and wells; and the zuishin (which acts as the guardian) at significant gates, doorways, and torii. The kami medium does not have access to the archmage legend. This ability alters spirit.
+    A kami medium channels the kami at locations different from where a normal medium channels his spirits. The kami medium channels the dosojin (which acts as the trickster) at crossroads and other major roadway milestones; the fukujin (which acts as the marshal) at ornamental shrubs and bonsai trees; the kaminari (which acts as the champion) in the midst of storms; the suijin (which acts as the hierophant) at pure lakes, ponds, springs, and wells; and the zuishin (which acts as the guardian) at significant gates, doorways, and torii. The kami medium does not have access to the archmage legend. This ability alters spirit.
 
 **Natural Taboo (Ex)**: A kami medium gains the taboo ability at 1st level. Regardless of which kami he channels, each day he must accept the hierophant taboo to strongly revere nature and avoid metal armor. The kami medium gains two free uses of spirit surge from accepting this taboo, as normal. This ability alters [taboo](medium.md#taboo-ex).
 

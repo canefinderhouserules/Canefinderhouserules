@@ -123,7 +123,9 @@ At 12th level, whenever a samurai declares a challenge, his target must pay atte
 
 At 14th level, a samurai’s banner becomes a rallying call to his allies. All allies within 60 feet receive a +2 morale bonus on saving throws against charm and compulsion spells and effects. In addition, while his banner is displayed, the samurai can spend a standard action to wave the banner through the air, granting all allies within 60 feet an additional saving throw against any one spell or effect that is targeting them. This save is made at the original DC. Spells and effects that do not allow saving throws are unaffected by this ability. An ally cannot benefit from this ability more than once per day.
 
-uses of his resolve to avoid death. If he has at least two uses of his resolve remaining, he can spend all of the daily uses of his resolve that he has available to him to avoid death. Regardless of the source of the attack that would have killed him, he is left alive, at –1 hit points (or lower if he was already below –1), unconscious, and stable.
+### True Resolve (Ex)
+
+At 17th level, a samurai can spend uses of his resolve to avoid death. If he has at least two uses of his resolve remaining, he can spend all of the daily uses of his resolve that he has available to him to avoid death. Regardless of the source of the attack that would have killed him, he is left alive, at –1 hit points (or lower if he was already below –1), unconscious, and stable.
 
 ### Last Stand (Ex)
 

@@ -12,7 +12,6 @@ If your character is weak or carrying a lot of gear, however, then you’ll need
 
 **Table 7–4: Carrying Capacity**
 
-
 | Strength | Light Load       | Medium Load  | Heavy Load     |
 |----------|------------------|--------------|----------------|
 | Score    |                  |              |                |
@@ -47,7 +46,6 @@ If your character is weak or carrying a lot of gear, however, then you’ll need
 | 29       | 466 lbs. or less | 467–933 lbs. | 934–1,400 lbs. |
 | +10      | ×4               | ×4           | ×4             |
 
-
 If your character is wearing armor, use the worse figure (from armor or from load) for each category. Do not stack the penalties.
 
 **Lifting and Dragging**: A character can lift as much as his maximum load over his head. A character’s maximum load is the highest amount of weight listed for a character’s Strength in the heavy load column of Table 7–4.
@@ -68,8 +66,6 @@ Quadrupeds can carry heavier loads than bipeds can. Multiply the values correspo
 |---|---|---|---|---|---|
 | Medium | +3 | –3 | 20 ft. | 15 ft. | ×4 |
 | Heavy | +1 | –6 | 20 ft. | 15 ft. | ×3 |
-
-can also be ridden in a forced march, but its Constitution checks automatically fail, and the damage it takes is lethal damage. Mounts also become fatigued when they take any damage from hustling or forced marches.
 
 See Table 7–9: Mounts and Vehicles for mounted speeds and speeds for vehicles pulled by draft animals.
 
@@ -129,11 +125,11 @@ A fatigued character can’t run or charge and takes a penalty of –2 to Streng
 
 A character can walk for more than 8 hours in a day by making a forced march. For each hour of marching beyond 8 hours, a Constitution check (DC 10, +2 per extra hour) is required. If the check fails, the character takes 1d6 points of nonlethal damage. A character who takes any nonlethal damage from a forced march becomes fatigued. Eliminating the nonlethal damage also eliminates the fatigue. It’s possible for a character to march into unconsciousness by pushing himself too hard.
 
-**Mounted Movement**: A mount bearing a rider can move at a hustle. The damage it takes when doing so, however, is lethal damage, not nonlethal damage. The creature
+**Mounted Movement**: A mount bearing a rider can move at a hustle. The damage it takes when doing so, however, is lethal damage, not nonlethal damage. The creature can also be ridden in a forced march, but its Constitution checks automatically fail, and the damage it takes is lethal damage. Mounts also become fatigued when they take any damage from hustling or forced marches.
 
 ## Evasion and Pursuit
 
-In round-by-round movement, when simply counting off squares, it’s impossible for a slow character to get away
+In round-by-round movement, when simply counting off squares, it’s impossible for a slow character to get away from a determined fast character without mitigating circumstances. Likewise, it’s no problem for a fast character to get away from a slower one.
 
 **Table 7–6: Movement and Distance**
 
@@ -183,8 +179,6 @@ In round-by-round movement, when simply counting off squares, it’s impossible 
 | Plains | ×1 | ×1 | ×3/4 |
 | Swamp | ×1 | ×3/4 | ×1/2 |
 | Tundra, frozen | ×1 | ×3/4 | ×3/4 |
-
-from a determined fast character without mitigating circumstances. Likewise, it’s no problem for a fast character to get away from a slower one.
 
 When the speeds of the two concerned characters are equal, there’s a simple way to resolve a chase: If one creature is pursuing another, both are moving at the same speed, and the chase continues for at least a few rounds, have them make opposed Dexterity checks to see who is the faster over those rounds. If the creature being chased wins, it escapes. If the pursuer wins, it catches the fleeing creature.
 

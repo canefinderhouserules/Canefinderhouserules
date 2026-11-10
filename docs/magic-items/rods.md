@@ -1,6 +1,6 @@
 # Rods
 
-and do not usually have charges. Anyone can use a rod.
+Rods are scepter-like devices that have unique magical powers and do not usually have charges. Anyone can use a rod.
 
 **Physical Description**: Rods weigh approximately 5 pounds. They range from 2 feet to 3 feet long and are usually made of iron or some other metal. (Many, as noted in their descriptions, can function as light maces or clubs due to their hardy construction.) These sturdy items have AC 9, 10 hit points, hardness 10, and a break DC of 27.
 
@@ -294,9 +294,7 @@ A rod of wonder is a strange and unpredictable device that randomly generates an
 | 88–90 | 10–40 gems, value 1 gp each, shoot forth in a 30-ft.-long stream. Each gem deals 1 point of damage to any creature in its path: roll 5d4 for the number of hits and divide them among the available targets. |
 | 91–95 | Shimmering colors dance and play over a 40-ft.-by-30-ft. area in front of rod. Creatures therein are blinded for 1d6 rounds (Fortitude DC 15 negates). |
 | 96–97 | Wielder (50% chance) or target (50% chance) turns permanently blue, green, or purple (no save). |
-| 98–100 | Flesh to stone (or stone to flesh if target is stone already) if target is within 60 ft. (Fortitude DC 18 |
-
-negates).
+| 98–100 | Flesh to stone (or stone to flesh if target is stone already) if target is within 60 ft. (Fortitude DC 18 negates). |
 
 **Requirements** Craft Rod, confusion, creator must be chaotic; Cost
 

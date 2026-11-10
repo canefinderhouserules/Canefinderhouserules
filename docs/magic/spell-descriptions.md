@@ -264,7 +264,7 @@ An otherwise solid barrier with a hole of at least 1 square foot through it does
 
 A spell’s duration entry tells you how long the magical energy of the spell lasts.
 
-**Timed Durations**: Many durations are measured in rounds, minutes, hours, or other increments. When the
+**Timed Durations**: Many durations are measured in rounds, minutes, hours, or other increments. When the time is up, the magic goes away and the spell ends. If a spell’s duration is variable, the duration is rolled secretly so the caster doesn’t know how long the spell will last.
 
 **Table 9–2: Items Affected by Magical Attacks**
 
@@ -282,8 +282,6 @@ A spell’s duration entry tells you how long the magical energy of the spell la
 | 10th | Anything else |
 
 * In order of most likely to least likely to be affected.
-
-time is up, the magic goes away and the spell ends. If a spell’s duration is variable, the duration is rolled secretly so the caster doesn’t know how long the spell will last.
 
 **Instantaneous**: The spell energy comes and goes the instant the spell is cast, though the consequences might be long-lasting.
 

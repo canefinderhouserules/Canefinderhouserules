@@ -86,9 +86,7 @@ Archons are a race of celestials, or good outsiders, native to lawful good-align
 
 - Darkvision 60 feet and low-light vision.
 
-- Aura of Menace (Su) A righteous aura surrounds archons that fight or get angry. Any hostile creature within a 20-foot radius of an archon must succeed on a Will save to resist its effects. The save DC varies with the type of archon, is Charisma-based, and includes a +2 racial bonus. Those who fail take a –2 penalty on attacks, AC, and saves for 24 hours or until they successfully hit the archon that generated the aura. A creature that has
-
-resisted or broken the effect cannot be affected again by the same archon’s aura for 24 hours.
+- Aura of Menace (Su) A righteous aura surrounds archons that fight or get angry. Any hostile creature within a 20-foot radius of an archon must succeed on a Will save to resist its effects. The save DC varies with the type of archon, is Charisma-based, and includes a +2 racial bonus. Those who fail take a –2 penalty on attacks, AC, and saves for 24 hours or until they successfully hit the archon that generated the aura. A creature that has resisted or broken the effect cannot be affected again by the same archon’s aura for 24 hours.
 
 - Immunity to electricity and petrification.
 
@@ -154,9 +152,7 @@ A behemoth is a neutral Colossal magical beast of great strength and power. Behe
 
 - Immunity to ability damage, aging, bleed, disease, energy drain, fire, mind-affecting effects, negative levels, paralysis, permanent wounds, petrification, poison, and polymorph. Some behemoths possess additional immunities.
 
-- Regeneration (Ex) No form of attack can suppress a behemoth’s regeneration—it regenerates even if disintegrated or slain by a death effect. If a behemoth fails a save against an effect that would kill it instantly, it rises from death 3 rounds later with 1 hit point if no
-
-further damage is dealt to its remains. It can be banished or otherwise transported away as a means to save a region, but the only way to truly kill a behemoth is to use miracle or wish to negate its regeneration (see below).
+- Regeneration (Ex) No form of attack can suppress a behemoth’s regeneration—it regenerates even if disintegrated or slain by a death effect. If a behemoth fails a save against an effect that would kill it instantly, it rises from death 3 rounds later with 1 hit point if no further damage is dealt to its remains. It can be banished or otherwise transported away as a means to save a region, but the only way to truly kill a behemoth is to use miracle or wish to negate its regeneration (see below).
 
 - DR 15/epic.
 
@@ -280,9 +276,7 @@ Demodands are chaotic evil outsiders who stalk the Abyss. Unless otherwise noted
 
 - Except when otherwise noted, demodands speak Abyssal, Celestial, and Common.
 
-- Faith-Stealing Strike (Su): When a demodand’s natural attack or melee weapon damages a creature capable of casting divine spells, that creature must succeed at a Will saving throw or be unable to cast any divine spells for 1 round. Once a creature succeeds at this
-
-save, it is immune to further faith-stealing strikes from that particular demodand for 24 hours. The save DC is Charisma-based.
+- Faith-Stealing Strike (Su): When a demodand’s natural attack or melee weapon damages a creature capable of casting divine spells, that creature must succeed at a Will saving throw or be unable to cast any divine spells for 1 round. Once a creature succeeds at this save, it is immune to further faith-stealing strikes from that particular demodand for 24 hours. The save DC is Charisma-based.
 
 - Heretical Soul (Ex): All demodands gain a +4 bonus on saving throws against divine spells. In addition, any attempts to scry on a demodand using divine magic automatically fail. The caster can see the scried area normally, but the demodand simply does not appear.
 
@@ -462,9 +456,7 @@ Inevitables are construct-like outsiders built by the axiomites to enforce law. 
 
 - Low-light vision.
 
-- Constructed (Ex) Although inevitables are living outsiders, their bodies are constructed of physical components, and in many ways they function as constructs. For the purposes of effects targeting
-
-creatures by type (such as a ranger’s favored enemy and bane weapons), inevitables count as both outsiders and constructs. They are immune to death effects, disease, mind-affecting effects, necromancy effects, paralysis, poison, sleep, stun, and any effect that requires a Fortitude save (unless the effect also works on objects, or is harmless). Inevitables are not subject to nonlethal damage, ability damage, ability drain, fatigue, exhaustion, or energy drain. They are not at risk of death from massive damage. They have bonus hit points as constructs of their size.
+- Constructed (Ex) Although inevitables are living outsiders, their bodies are constructed of physical components, and in many ways they function as constructs. For the purposes of effects targeting creatures by type (such as a ranger’s favored enemy and bane weapons), inevitables count as both outsiders and constructs. They are immune to death effects, disease, mind-affecting effects, necromancy effects, paralysis, poison, sleep, stun, and any effect that requires a Fortitude save (unless the effect also works on objects, or is harmless). Inevitables are not subject to nonlethal damage, ability damage, ability drain, fatigue, exhaustion, or energy drain. They are not at risk of death from massive damage. They have bonus hit points as constructs of their size.
 
 - Saves: An inevitable’s good saving throws are Fortitude and Will.
 
@@ -526,9 +518,7 @@ A kami has the following traits unless otherwise noted in a creature’s entry.
 
 If its ward is a location, the kami may emerge at any point within that location.
 
-- Ward (Su): A kami has a specific ward—a creature with an Intelligence score of 2 or lower (usually an animal or vermin), a plant (not a plant creature), an object, or a location. The type of ward is listed in parentheses in the kami’s stat block. Several of a kami’s abilities function only when it is either merged with its ward or within 120 feet of it. If a kami’s ward is portable and travels with the kami to another plane, the kami does not gain the extraplanar subtype on that other plane as long as its ward remains within 120 feet. If a ward is destroyed while
-
-a kami is merged with it, the kami dies (no save). If a ward is destroyed while a kami is not merged with it, the kami loses its merge with ward ability and its fast healing, and becomes permanently sickened.
+- Ward (Su): A kami has a specific ward—a creature with an Intelligence score of 2 or lower (usually an animal or vermin), a plant (not a plant creature), an object, or a location. The type of ward is listed in parentheses in the kami’s stat block. Several of a kami’s abilities function only when it is either merged with its ward or within 120 feet of it. If a kami’s ward is portable and travels with the kami to another plane, the kami does not gain the extraplanar subtype on that other plane as long as its ward remains within 120 feet. If a ward is destroyed while a kami is merged with it, the kami dies (no save). If a ward is destroyed while a kami is not merged with it, the kami loses its merge with ward ability and its fast healing, and becomes permanently sickened.
 
 ## Kasatha Subtype
 
@@ -586,9 +576,7 @@ Manasaputras are lawful good spirits ascending to a new stage of existence on th
 
 - Immunity to calling magic, disease, and poison.
 
-- +2 racial bonus on saving throws against enchantment spells. This does not stack with the still mind monk class
-
-feature and counts as that feature for the purpose of fulfilling prerequisites.
+- +2 racial bonus on saving throws against enchantment spells. This does not stack with the still mind monk class feature and counts as that feature for the purpose of fulfilling prerequisites.
 
 - Telepathy.
 
@@ -648,9 +636,7 @@ Nightshades are monstrous undead composed of shadow and evil. They have the foll
 
 - Low-light vision.
 
-- Desecrating Aura (Su) All nightshades have a 30-footradius emanation equivalent to a desecrate spell centered on a shrine of evil power. Undead within this radius (including the nightshade) gain a +2 profane bonus on attack and damage rolls and saving throws, as well as +2 hit points per die, and the save DC of channeled negative energy is increased by +6 (these adjustments are included for the nightshades in their entries). This aura can be negated by dispel evil, but a
-
-nightshade can reactivate it on its turn as a free action.
+- Desecrating Aura (Su) All nightshades have a 30-footradius emanation equivalent to a desecrate spell centered on a shrine of evil power. Undead within this radius (including the nightshade) gain a +2 profane bonus on attack and damage rolls and saving throws, as well as +2 hit points per die, and the save DC of channeled negative energy is increased by +6 (these adjustments are included for the nightshades in their entries). This aura can be negated by dispel evil, but a nightshade can reactivate it on its turn as a free action.
 
 A desecrating aura suppresses and is suppressed by consecrate or hallow; both effects are negated within any overlapping area of effect.
 
@@ -708,47 +694,28 @@ A protean automatically recovers from physical blindness or deafness after 1 rou
 
 - Warpwave (Su): Many proteans can create ripples in reality known as warpwaves. Yet even a protean can’t predict what effects a warpwave might have. When a creature is affected by a warpwave, roll 1d20 and consult the table below to see what effect the entropic energies have.
 
-d20
-
-Warpwave Effect Target takes 2 Strength damage.
-
-Target takes 2 Dexterity damage.
-
-Target takes 2 Constitution damage.
-
-Target takes 2 Intelligence damage.
-
-Target takes 2 Wisdom damage.
-
-Target takes 2 Charisma damage.
-
-Target gains 1 negative level.
-
-Target is blinded or deafened for 1d4 rounds.
-
-Target is confused for 1d4 rounds.
-
-Target is entangled by filaments of energy for 1d4 rounds.
-
-Target becomes fatigued (or exhausted if already fatigued).
-
-Target becomes nauseated 1 for 1d4 rounds.
-
-Target is stunned 1 for 1d4 rounds.
-
-Target is sickened for 1d4 rounds.
-
-Target is staggered for 1d4 rounds.
-
-Target gains 4d6 temporary hit points.
-
-Target is affected by a heal spell (CL = protean’s CR).
-
-Target is turned to stone as per flesh to stone.
-
-Target is affected by baleful polymorph (CL = protean’s CR).
-
-Portions of target’s body burst with energy of a random type (choose between acid, cold, electricity, or fire), dealing 4d6 points of damage of the appropriate type to the target.
+| d20 | Warpwave Effect |
+|---|---|
+| 1 | Target takes 2 Strength damage. |
+| 2 | Target takes 2 Dexterity damage. |
+| 3 | Target takes 2 Constitution damage. |
+| 4 | Target takes 2 Intelligence damage. |
+| 5 | Target takes 2 Wisdom damage. |
+| 6 | Target takes 2 Charisma damage. |
+| 7 | Target gains 1 negative level. |
+| 8 | Target is blinded or deafened for 1d4 rounds. |
+| 9 | Target is confused for 1d4 rounds. |
+| 10 | Target is entangled by filaments of energy for 1d4 rounds. |
+| 11 | Target becomes fatigued (or exhausted if already fatigued). |
+| 12 | Target becomes nauseated 1 for 1d4 rounds. |
+| 13 | Target is stunned 1 for 1d4 rounds. |
+| 14 | Target is sickened for 1d4 rounds. |
+| 15 | Target is staggered for 1d4 rounds. |
+| 16 | Target gains 4d6 temporary hit points. |
+| 17 | Target is affected by a heal spell (CL = protean’s CR). |
+| 18 | Target becomes petrified 1, as per *flesh to stone*. |
+| 19 | Target is affected by baleful polymorph (CL = protean’s CR). |
+| 20 | Portions of target’s body burst with energy of a random type (choose between acid, cold, electricity, or fire), dealing 4d6 points of damage of the appropriate type to the target. |
 
 ## Psychopomp Subtype
 

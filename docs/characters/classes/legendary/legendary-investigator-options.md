@@ -116,7 +116,7 @@ You do not gain this feature if you are playing in a ‘guns everywhere’ campa
 
 **Favorite Iron (Ex)**
 
-at 1st level, you choose one specific type of firearm (such as musket, axe musket, blunderbuss, pistol, or double pistol) to be your preferred type of firearm. You gain the Ranged Study feat with your preferred firearm.
+At 1st level, you choose one specific type of firearm (such as musket, axe musket, blunderbuss, pistol, or double pistol) to be your preferred type of firearm. You gain the Ranged Study feat with your preferred firearm.
 
 **Gritty Inspiration (Ex)**
 

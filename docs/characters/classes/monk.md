@@ -41,7 +41,7 @@ At 8th level, the monk can make two additional attacks when he uses flurry of bl
 
 At 15th level, the monk can make three additional attacks using flurry of blows, as if using Greater Two-Weapon Fighting (even if the monk does not meet the prerequisites for the feat).
 
-A monk applies his full Strength bonus to his damage rolls for all successful attacks made with flurry of blows, whether the attacks are made with an off-hand or with a weapon wielded in both hands. A monk may substitute disarm, sunder, and trip combat maneuvers for unarmed attacks as part of a flurry of blows. A monk cannot use any weapon other than an unarmed strike or a special monk weapon as part of a flurry of blows. A monk with natural
+A monk applies his full Strength bonus to his damage rolls for all successful attacks made with flurry of blows, whether the attacks are made with an off-hand or with a weapon wielded in both hands. A monk may substitute disarm, sunder, and trip combat maneuvers for unarmed attacks as part of a flurry of blows. A monk cannot use any weapon other than an unarmed strike or a special monk weapon as part of a flurry of blows. A monk with natural weapons cannot use such weapons as part of a flurry of blows, nor can he make natural attacks in addition to his flurry of blows attacks.
 
 **Table 3–10: Monk**
 
@@ -67,8 +67,6 @@ A monk applies his full Strength bonus to his damage rolls for all successful at
 | 18th  | +13/+8/+3         | +11       | +11      | +11       | Bonus feat, slow fall 90 ft.                                                                                          | +16/+16/+11/+11/+6/+6/+1     | 2d8              | +4       | +60 ft.       |
 | 19th  | +14/+9/+4         | +11       | +11      | +11       | Empty body                                                                                                            | +17/+17/+12/+12/+7/+7/+2     | 2d8              | +4       | +60 ft.       |
 | 20th  | +15/+10/+5        | +12       | +12      | +12       | Perfect self, slow fall any distance \*The value shown is for Medium monks. See below for Small or Large monk damage. | +18/+18/+13/+13/+8/+8/+3     | 2d10             | +5       | +60 ft.       |
-
-weapons cannot use such weapons as part of a flurry of blows, nor can he make natural attacks in addition to his flurry of blows attacks.
 
 ### Unarmed Strike
 

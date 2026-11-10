@@ -193,8 +193,6 @@ Special raw materials’ crafting costs are always half their actual cost. They 
 
 **Easily Worked Raw Materials**: This type of raw material makes it easier to craft items faster. When using this raw material, the item’s base progress per day is doubled. For example, if you are creating a suit of chainmail using easily worked steel, your base progress per day is 4 gp rather than 2 gp.
 
-
-
 **Flawless Raw Materials**: This material is so flawless that it can be used to create high-quality items with ease. When using flawless raw materials to create either masterwork or special- material items, the crafting difficulty doesn’t increase. For example, if you craft a suit of masterwork chainmail using flawless steel, the difficulty of the check remains normal (DC 15) rather than becoming complex (DC 20).
 
 **Malleable Raw Materials**: This type of special raw material can withstand crafting errors better than other normal materials of the same type. If you fail a Craft check by 5 or more when using malleable raw materials, you don’t lose an amount of raw material equal to the item’s base progress per day.
@@ -223,7 +221,7 @@ You are skilled at a specific job. Like Craft, Knowledge, and Perform, Professio
 
 ## Setting Up Shop
 
-The full function of the Profession skill allows you to run a business of the appropriate type successfully. Professions in most cases can be operated from static locations (such as store
+The full function of the Profession skill allows you to run a business of the appropriate type successfully. Professions in most cases can be operated from static locations (such as store fronts or offices) or performed while traveling. They can be small operations requiring little in the way of assistance or large companies that demand numerous laborers. lists the size of the business, the minimum and maximum number of employees needed to operate it, the amount of time it takes to establish the business (find and purchase equipment and the location from which to run the business, hire employees, renovate or repair the property, apply and pay for any licenses, advertise, etc.), the costs to open or upgrade the business, and the amount of profits to be gained.
 
 **Table: Business Size and Setup**
 
@@ -233,8 +231,6 @@ The full function of the Profession skill allows you to run a business of the ap
 | Small | –2 | 2 | 4 |
 | Medium | –5 | 5 | 10 |
 | Large | –10 | 10 | 20 |
-
-fronts or offices) or performed while traveling. They can be small operations requiring little in the way of assistance or large companies that demand numerous laborers. lists the size of the business, the minimum and maximum number of employees needed to operate it, the amount of time it takes to establish the business (find and purchase equipment and the location from which to run the business, hire employees, renovate or repair the property, apply and pay for any licenses, advertise, etc.), the costs to open or upgrade the business, and the amount of profits to be gained.
 
 **Labor Factor**: This value indicates the minimum labor “cost” of running your business. It serves as a penalty on your Profession skill check to determine profits, accounting for the various laborers, assistants, experts, and apprentices you must employ to maintain a business of the associated size. Typically, your business can have a maximum number of employees equal to 2 × the positive value of its base Labor Factor (or a maximum of two employees for a mobile business), but each employee your business has beyond the minimum increases the Labor Factor penalty by 1.
 

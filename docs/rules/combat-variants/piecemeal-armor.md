@@ -57,13 +57,11 @@ If the dragonhide used to construct this armor comes from a dragon that had immu
 
 ### Mithral
 
-Armor pieces made of mithral are lighter than steel, but are just as hard. Mithral armor pieces are less cumbersome movement do not have a reduced movement when they are made from mithral. Heavy armor pieces that reduce the wearer’s run speed to triple her speed instead of quadruple her speed do not do so when they are made from mithral or are part of a mithral armor suit.
+Armor pieces made of mithral are lighter than steel, but are just as hard. Mithral armor pieces are less cumbersome to move in. Medium armor pieces that feature a reduced movement do not have a reduced movement when they are made from mithral. Heavy armor pieces that reduce the wearer’s run speed to triple her speed instead of quadruple her speed do not do so when they are made from mithral or are part of a mithral armor suit.
 
 As long as all the armor pieces a character wears are made of mithral, the spell failure chance decreases by 10%, the maximum Dexterity bonus increases by 2, and the armor check penalty decreases by 3 (to a minimum of 0).
 
 An item made of mithral weighs half as much as the same item made from other metals. Armor pieces made of mithral are also considered masterwork.
-
-to move in. Medium armor pieces that feature a reduced
 
 **Table: Half-Plate Suit Pieces**
 
@@ -344,8 +342,6 @@ While more cumbersome than other torso armor pieces, and less effective, it can 
 | Stone coat | 500 gp | +8 | 0 | –7 | 40% | 20 ft.<sup>2</sup> | 15 ft.<sup>2</sup> | 45 lbs. |
 
 <sup>1</sup> Weight figures are for armor pieces sized to fit Medium characters. Armor pieces fitted for Small characters and armor pieces fitted for Large characters weigh twice as much. <sup>2</sup> When running while wearing this armor piece, you move only triple your speed, not quadruple. <sup>3</sup> These armor pieces are considered to be one weight category lower when worn with no other armor piece: a chain torso armor piece worn alone is a chain shirt (light armor), and a plate or agile plate torso armor piece is a breastplate (medium armor).
-
-piece worn alone is a chain shirt (light armor), and a plate or agile plate torso armor piece is a breastplate (medium armor).
 
 **Iron Lamellar Torso Armor Piece**: This armor piece is a shirt constructed of a number of iron plates that are laced together in parallel rows and reinforced with bits of chainmail.
 

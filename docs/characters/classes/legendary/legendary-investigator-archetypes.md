@@ -216,7 +216,7 @@ All investigators believe in careful planning; some just prefer to do it after t
 
 The maverick detective must always spend 1 point of inspiration to study a target.
 
-legendary investigator can use a move action to study a single enemy that they can see. Upon doing so, they add 1/2 their class level (minimum 1) as an insight bonus on melee attack rolls and as a bonus on damage rolls against the creature. Once a creature is studied, it remains studied until the maverick detective studies someone else, up to a maximum of 24 hours. This modifies studied combat.
+A legendary investigator can use a move action to study a single enemy that they can see. Upon doing so, they add 1/2 their class level (minimum 1) as an insight bonus on melee attack rolls and as a bonus on damage rolls against the creature. Once a creature is studied, it remains studied until the maverick detective studies someone else, up to a maximum of 24 hours. This modifies studied combat.
 
 **Finishing Strike (Ex)**
 

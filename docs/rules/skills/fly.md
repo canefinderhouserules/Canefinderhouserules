@@ -33,7 +33,7 @@ Creatures with a fly speed treat the Fly skill as a class skill. A creature with
 
 A creature larger or smaller than Medium takes a size bonus or penalty on Fly checks depending on its size category: Fine +8, Diminutive +6, Tiny +4, Small +2, Large –2, Huge –4, Gargantuan –6, Colossal –8.
 
-You cannot take ranks in this skill without a natural means of flight or gliding. Creatures can also take ranks
+You cannot take ranks in this skill without a natural means of flight or gliding. Creatures can also take ranks in Fly if they possess a reliable means of flying every day (either through a spell or other special ability).
 
 **Table 4–5: Wind Effects on Flight**
 
@@ -46,7 +46,5 @@ You cannot take ranks in this skill without a natural means of flight or gliding
 | Windstorm | 51–74 mph | Medium | Small | –8 |
 | Hurricane | 75–174 mph | Large | Medium | –12 |
 | Tornado | 175+ mph | Huge | Large | –16 |
-
-in Fly if they possess a reliable means of flying every day (either through a spell or other special ability).
 
 If you have the Acrobatic feat, you get a bonus on Fly checks.

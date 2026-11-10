@@ -12,12 +12,10 @@ You scramble the synaptic connections of your target, causing it to lose the abi
 
 The target’s mind is too scrambled to take full-round actions or longer actions, as the target’s attention inevitably wanders before the action completes. Whenever the target attempts to take a move action or a standard action, roll on the following table instead. If the result on the table is an action that the target cannot take, the target takes no action instead.
 
-d% Action 1–20 Move action (must use move action to move)
-
-21–40 Other move action (perform a move action other than moving)
-
-41–60 Attack action (spend a standard action on the attack action, attacking once with a weapon)
-
-61–80 Other standard action (perform a standard action that isn’t the attack action)
-
-81–100 Desired action (perform whatever standard or move action the creature desires to perform)
+| d% | Action |
+|---|---|
+| 1–20 | Move action (must use move action to move) |
+| 21–40 | Other move action (perform a move action other than moving) |
+| 41–60 | Attack action (spend a standard action on the attack action, attacking once with a weapon) |
+| 61–80 | Other standard action (perform a standard action that isn’t the attack action) |
+| 81–100 | Desired action (perform whatever standard or move action the creature desires to perform) |

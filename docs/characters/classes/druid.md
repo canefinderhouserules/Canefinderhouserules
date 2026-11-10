@@ -152,7 +152,7 @@ An animal companion’s abilities are determined by the druid’s level and its 
 
 **HD**: This is the total number of eight-sided (d8) Hit Dice the animal companion possesses, each of which gains a Constitution modifier, as normal.
 
-**BAB**: This is the animal companion’s base attack bonus. An animal companion’s base attack bonus is the same as
+**BAB**: This is the animal companion’s base attack bonus. An animal companion’s base attack bonus is the same as that of a druid of a level equal to the animal’s HD. Animal companions do not gain additional attacks using their natural weapons for a high base attack bonus.
 
 **Table 3–8: Animal Companion Base Statistics**
 
@@ -178,8 +178,6 @@ An animal companion’s abilities are determined by the druid’s level and its 
 | 18th        | 15  | +11 | +9   | +9  | +5   | 15     | 8     | +12                 | +6            | 7            | —                                   |
 | 19th        | 15  | +11 | +9   | +9  | +5   | 15     | 8     | +12                 | +6            | 7            | —                                   |
 | 20th        | 16  | +12 | +10  | +10 | +5   | 16     | 8     | +12                 | +6            | 7            | Ability score increase              |
-
-that of a druid of a level equal to the animal’s HD. Animal companions do not gain additional attacks using their natural weapons for a high base attack bonus.
 
 **Fort/Ref/Will**: These are the animal companion’s base saving throw bonuses. An animal companion has good Fortitude and Reflex saves.
 

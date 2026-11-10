@@ -43,8 +43,6 @@ The master chymist’s class skills are Acrobatics (Dex), Climb (Str), Escape Ar
 
 The following are class features of the master chymist prestige class.
 
-lives in. As Darabont, the character detects as good and is affected as a good character by spells with effects that vary by alignment; as Butcher, the same character is neutral, is not revealed by a detect good spell, and is treated as neutral for all spells and effects.
-
 #### Mutate (Su)
 
 At 1st level, as a result of repeated exposure to her mutagens, the master chymist can now assume a mutagenic form twice per day without imbibing her mutagen. In this form, she gains all the bonuses and penalties of her mutagen and adds together her alchemist and master chymist levels together to determine her effective alchemist level for the duration of this form. Using a mutagen also forces the chymist into this form.
@@ -57,7 +55,7 @@ At 5th level, the master chymist can assume her mutagenic form three times per d
 
 #### Advanced Mutagen (Su)
 
-At 2nd level, the mutagenic form of the master chymist continues to evolve and develop as she grows in power. The master chymist selects an advanced mutagen, a power that changes how her mutagen form works or can only be accessed in her mutagenic form. She gains additional advanced mutagens at 4th, 6th,
+At 2nd level, the mutagenic form of the master chymist continues to evolve and develop as she grows in power. The master chymist selects an advanced mutagen, a power that changes how her mutagen form works or can only be accessed in her mutagenic form. She gains additional advanced mutagens at 4th, 6th, 8th, and 10th level. The chymist cannot select the same advanced mutagen more than once.
 
 #### Weapon and Armor Proficiency
 
@@ -75,7 +73,7 @@ The destructive power of bombs appeals to the violent urges of a master chymist.
 
 A master chymist’s mutagenic form is an alter ego that has a different personality than her normal form, an outgrowth of the mental changes caused by the mutagenic potions she has consumed over the course of her career. The mutagenic form shares memories and basic goals with the chymist’s normal personality but goes about meeting those goals in a different manner. The mutagenic form is often ugly and monstrous and may even appear to be a different race or gender than her normal form; they may look as different as two unrelated people. Indeed, the mutagenic form often has his or her own name, and may attempt to maintain independent relationships and strongholds (though the alter ego’s limited time in existence often makes this difficult). The mutagenic form even has his or her own alignment (which is selected by the player, but must be different from the master chymist’s normal alignment). The change in alignment only affects the master chymist while in her mutagenic form.
 
-**Example**: Darabont is a neutral good gnome alchemist 7/master chymist 4. Her mutagenic form is a deformed, twisted creature called Butcher. Butcher is neutral, and more interested in seeing the world kept in balance than promoting the greatest good. Butcher is aware she exists only when called on by Darabont, but seeks to build her own circle of like-minded friends during the hours she exists. Butcher does not dislike Darabont, but feels her gnome form is too soft and innocent to survive in the harsh world the chymist 8th, and 10th level. The chymist cannot select the same advanced mutagen more than once.
+**Example**: Darabont is a neutral good gnome alchemist 7/master chymist 4. Her mutagenic form is a deformed, twisted creature called Butcher. Butcher is neutral, and more interested in seeing the world kept in balance than promoting the greatest good. Butcher is aware she exists only when called on by Darabont, but seeks to build her own circle of like-minded friends during the hours she exists. Butcher does not dislike Darabont, but feels her gnome form is too soft and innocent to survive in the harsh world the chymist lives in. As Darabont, the character detects as good and is affected as a good character by spells with effects that vary by alignment; as Butcher, the same character is neutral, is not revealed by a detect good spell, and is treated as neutral for all spells and effects.
 
 ##### Burly (Ex)
 

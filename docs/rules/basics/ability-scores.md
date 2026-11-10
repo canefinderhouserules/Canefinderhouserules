@@ -41,7 +41,7 @@ Strength measures muscle and physical power. This ability is important for those
 You apply your character’s Strength modifier to:
 
 - Melee attack rolls.
-- Damage rolls when using a melee weapon or a thrown weapon, including a sling. (Exceptions: Off-hand attacks receive only half the character’s Strength bonus, while
+- Damage rolls when using a melee weapon or a thrown weapon, including a sling. (Exceptions: Off-hand attacks receive only half the character’s Strength bonus, while two-handed attacks receive 1–1/2 times the Strength bonus. A Strength penalty, but not a bonus, applies to attacks made with a bow that is not a composite bow.)
 
 **Table 1–1: Ability Score Costs**
 
@@ -62,8 +62,6 @@ You apply your character’s Strength modifier to:
 | Standard Fantasy | 15 |
 | High Fantasy | 20 |
 | Epic Fantasy | 25 |
-
-two-handed attacks receive 1–1/2 times the Strength bonus. A Strength penalty, but not a bonus, applies to attacks made with a bow that is not a composite bow.)
 
 - Climb and Swim checks.
 - Strength checks (for breaking down doors and the like).
@@ -94,7 +92,6 @@ Intelligence determines how well your character learns and reasons. This ability
 
 **Table 1–3: Ability Modifiers and Bonus Spells**
 
-
 | Ability Score | Modifier | Bonus Spells per Day (by Spell Level) |     |     |     |                                        |     |     |     |     |     |
 |---------------|----------|---------------------------------------|-----|-----|-----|----------------------------------------|-----|-----|-----|-----|-----|
 |               |          | 0                                     | 1st | 2nd | 3rd | 4th                                    | 5th | 6th | 7th | 8th | 9th |
@@ -122,7 +119,6 @@ Intelligence determines how well your character learns and reasons. This ability
 | 42–43         | +16      | —                                     | 4   | 4   | 4   | 4                                      | 3   | 3   | 3   | 3   | 2   |
 | 44–45         | +17      | —                                     | 5   | 4   | 4   | 4                                      | 4   | 3   | 3   | 3   | 3   |
 | etc. …        |          |                                       |     |     |     |                                        |     |     |     |     |     |
-
 
 You apply your character’s Intelligence modifier to:
 

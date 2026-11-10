@@ -148,7 +148,7 @@ At 5th level, a spiritualist’s connection with the Ethereal Plane becomes so s
 
 ### Phantom Recall (Su)
 
-At 6th level, as either a swift or an immediate action, a spiritualist can call her manifested phantom to her side or back into her consciousness. This ability functions as dimension door, using the spiritualist’s class level as the caster level. When the spiritualist calls
+At 6th level, as either a swift or an immediate action, a spiritualist can call her manifested phantom to her side or back into her consciousness. This ability functions as dimension door, using the spiritualist’s class level as the caster level. When the spiritualist calls the phantom in this way, the phantom appears adjacent to the spiritualist (or as close as possible, if all adjacent spaces are occupied).
 
 ### Phantoms
 
@@ -157,8 +157,6 @@ A phantom was once a sentient, living creature that experienced great turmoil in
 Phantoms may retain some of their memories from life, but not many. Some phantoms wish to unburden themselves of their emotional shackles, while others just wish to continue existing while avoiding the corruption of undeath. Others still wish nothing more than to inflict their torment upon the living—taking their revenge on life for the horrors they faced during and after death.
 
 Phantoms are powerful beings, but they are far more emotional than they are rational. Phantoms are still shackled by the emotions that created them, and spiritualists must maintain strong control over their phantoms to keep the phantom’s often-violent emotions in check.
-
-the phantom in this way, the phantom appears adjacent to the spiritualist (or as close as possible, if all adjacent spaces are occupied).
 
 When the spiritualist uses this ability to call the phantom back to her consciousness, she can activate bonded manifestation as part of that action, but doing so costs 1 extra round of bonded manifestation.
 

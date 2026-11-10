@@ -90,16 +90,6 @@ Vexing daredevils train their psychic powers for combat, specializing in momenta
 
 **Class Skills**: A vexing daredevil adds Acrobatics (Dex) to her list of class skills. This alters the mesmerist’s class skills.
 
-target’s threatened area or an enemy’s space during this movement, she must reduce her speed or the DC of the [Acrobatics](../../rules/skills/acrobatics.md) check increases by 10, as normal.
-
-**Piercing Strike**: By psychically amplifying the target’s pain, the vexing daredevil causes more damage. If she hits with her next attack and deals damage with her painful stare, she increases the damage dice from d6s to d8s.
-
-**Sloppy Defense**: The vexing daredevil’s attacks effortlessly penetrate the target’s defenses; she gains a +1 circumstance bonus on her next attack roll for every 5 mesmerist levels she possesses.
-
-**Surprise Strike**: The vexing daredevil creates an opening so she can squeeze in another strike. If her next attack hits, she can make another attack at her highest attack bonus – 5 as a free action. The vexing daredevil must be at least 7th level to select this dazzling feint. This ability replaces [bold stare](mesmerist.md#bold-stare-su).
-
-**Shimmering Body (Sp)**: At 11th level, when a vexing daredevil moves in a round, until the beginning of her next turn, any target of her hypnotic stare sees her as a constantly shimmering form of light and treats her as if she were under a blur spell. This ability replaces glib tongue.
-
 **Martial Weapon Proficiency (Ex)**: At 1st level, a vexing daredevil picks one martial weapon and becomes proficient in its use. This ability replaces the 1st-level mesmerist trick.
 
 **Bonus Feats**: A vexing daredevil gains [Improved Feint](../../rules/feats/improved-feint.md) as a bonus feat at 3rd level, [Greater Feint](../../rules/feats/greater-feint.md) as a bonus feat at 6th level, and Greater Mesmerizing Feint* as a bonus feat at 10th level. She doesn’t need to meet the prerequisites for these feats. At 14th level, she gains a bonus stare feat; she must meet the prerequisites of that feat. These bonus feats replace [touch treatment](mesmerist.md#touch-treatment-su).
@@ -110,11 +100,17 @@ target’s threatened area or an enemy’s space during this movement, she must 
 
 **Combat Maneuver**: The vexing daredevil’s attack patterns become more difficult to discern. The vexing daredevil chooses one combat maneuver when making this dazzling feint. For the rest of the round, she doesn’t provoke an attack of opportunity when performing that combat maneuver against the target of her dazzling feint. This dazzling feint benefit applies on combat maneuvers instead of on the vexing daredevil’s next attack.
 
-Critical Strike:
+**Critical Strike**: Ever alert, the vexing daredevil hones in on the target’s weak points. If her next attack is a critical threat against the target of this dazzling feint, the vexing daredevil gains a circumstance bonus on the roll to confirm that critical hit equal to +1 for every 3 mesmerist levels she possesses.
 
-Ever alert, the vexing daredevil hones in on the target’s weak points. If her next attack is a critical threat against the target of this dazzling feint, the vexing daredevil gains a circumstance bonus on the roll to confirm that critical hit equal to +1 for every 3 mesmerist levels she possesses.
+**Outmanuever**: The vexing daredevil’s darting movements foil the target’s attempts to box her in. If her next attack hits, the vexing daredevil gains a +4 circumstance bonus on Acrobatics checks to move through the target’s space or threatened area for 1  round. She can also move up to half her speed after the attack hits as a free action. If she wants to use Acrobatics to move through the target’s threatened area or an enemy’s space during this movement, she must reduce her speed or the DC of the [Acrobatics](../../rules/skills/acrobatics.md) check increases by 10, as normal.
 
-**Outmanuever**: The vexing daredevil’s darting movements foil the target’s attempts to box her in. If her next attack hits, the vexing daredevil gains a +4 circumstance bonus on Acrobatics checks to move through the target’s space or threatened area for 1  round. She can also move up to half her speed after the attack hits as a free action. If she wants to use Acrobatics to move through the
+**Piercing Strike**: By psychically amplifying the target’s pain, the vexing daredevil causes more damage. If she hits with her next attack and deals damage with her painful stare, she increases the damage dice from d6s to d8s.
+
+**Sloppy Defense**: The vexing daredevil’s attacks effortlessly penetrate the target’s defenses; she gains a +1 circumstance bonus on her next attack roll for every 5 mesmerist levels she possesses.
+
+**Surprise Strike**: The vexing daredevil creates an opening so she can squeeze in another strike. If her next attack hits, she can make another attack at her highest attack bonus – 5 as a free action. The vexing daredevil must be at least 7th level to select this dazzling feint. This ability replaces [bold stare](mesmerist.md#bold-stare-su).
+
+**Shimmering Body (Sp)**: At 11th level, when a vexing daredevil moves in a round, until the beginning of her next turn, any target of her hypnotic stare sees her as a constantly shimmering form of light and treats her as if she were under a blur spell. This ability replaces glib tongue.
 
 ## Aromaphile
 

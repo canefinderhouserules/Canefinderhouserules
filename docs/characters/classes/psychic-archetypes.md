@@ -125,8 +125,6 @@ This ability replaces the 7th-level phrenic amplification and alters phrenic amp
 
 **Expert Manifester (Ex)**: At 17th level, a psychic duelist doesn’t have to expend as many resources to create manifestations. She gains 1 additional MP each time she creates a psychic manifestation, in addition to the MP she gains by sacrificing resources. This doesn’t increase the maximum number of points she can spend per manifestation, but does allow her to create a manifestation costing 1 MP without sacrificing any resources. This ability replaces [telepathy](psychic.md#telepathy-su).
 
-a distance still provokes attacks of opportunity, but only if the action the ectoplasmatist is taking would normally provoke such attacks (instead of always provoking).
-
 At 10th level, the lashes’ enhancement bonus increases to +3.
 
 At 12th level, the ectoplasmatist chooses a single emotional focus (anger, dedication, despair, fear, hatred, jealousy, or zeal). The ectoplasmatist’s lashes gain a special weapon ability as if affected by a spirit-bound blade spell matching the emotional energy of the focus the ectoplasmatist has chosen.

@@ -14,7 +14,7 @@ Think of stat blocks as shorthand versions of character sheets. For a sample sta
 
 ### Designing Encounters
 
-The heart of any adventure is its encounters. An encounter is any event that puts a specific problem before the PCs that they must solve. Most encounters present combat with monsters or hostile NPCs, but there are many other types—a trapped corridor, a political interaction with a suspicious king, a dangerous passage
+The heart of any adventure is its encounters. An encounter is any event that puts a specific problem before the PCs that they must solve. Most encounters present combat with monsters or hostile NPCs, but there are many other types—a trapped corridor, a political interaction with a suspicious king, a dangerous passage over a rickety rope bridge, an awkward argument with a friendly NPC who suspects a PC has betrayed him, or anything that adds drama to the game. Brain-teasing puzzles, roleplaying challenges, and skill checks are all classic methods for resolving encounters, but the most complex encounters to build are the most common ones—combat encounters.
 
 **Table 12–1: Encounter Design**
 
@@ -26,8 +26,6 @@ The heart of any adventure is its encounters. An encounter is any event that put
 | Hard | APL +2 |
 | Epic | APL +3 |
 
-over a rickety rope bridge, an awkward argument with a friendly NPC who suspects a PC has betrayed him, or anything that adds drama to the game. Brain-teasing puzzles, roleplaying challenges, and skill checks are all classic methods for resolving encounters, but the most complex encounters to build are the most common ones—combat encounters.
-
 When designing a combat encounter, you first decide what level of challenge you want your PCs to face, then follow the steps outlined below.
 
 **Step 1—Determine APL**: Determine the average level of your player characters—this is their Average Party Level (APL for short). You should round this value to the nearest whole number (this is one of the few exceptions to the round down rule). Note that these encounter creation guidelines assume a group of four or five PCs. If your group contains six or more players, add one to their average level. If your group contains three or fewer players, subtract one from their average level. For example, if your group consists of six players, two of which are 4th level and four of which are 5th level, their APL is 6th (28 total levels, divided by six players, rounding up, and adding one to the final result).
@@ -36,7 +34,7 @@ When designing a combat encounter, you first decide what level of challenge you 
 
 **Step 3—Build the Encounter**: Determine the total XP award for the encounter by looking it up by its CR on Table 12–2. This gives you an “XP budget” for the encounter. Every creature, trap, and hazard is worth an amount of XP determined by its CR, as noted on Table 12–2. To build your encounter, simply add creatures, traps, and hazards whose combined XP does not exceed the total XP budget for your encounter. It’s easiest to add the highest CR challenges to the encounter first, filling out the remaining total with lesser challenges.
 
-For example, let’s say you want your group of six 8th-level PCs to face a challenging encounter against a group of gargoyles (each CR 4) and their stone giant boss (CR 8). The PCs have an APL of 9, and table 12–1 tells you that a challenging encounter for your APL 9
+For example, let’s say you want your group of six 8th-level PCs to face a challenging encounter against a group of gargoyles (each CR 4) and their stone giant boss (CR 8). The PCs have an APL of 9, and table 12–1 tells you that a challenging encounter for your APL 9 group is a CR 10 encounter—worth 9,600 XP according to Table 12–2. At CR 8, the stone giant is worth 4,800 XP, leaving you with another 4,800 points in your XP budget for the gargoyles. Gargoyles are CR 4 each, and thus worth 1,200 XP apiece, meaning that the encounter can support four gargoyles in its XP budget. You could further refine the encounter by including only three gargoyles, leaving you with 1,200 XP to spend on a trio of Small earth elemental servants (at CR 1, each is worth 400 XP) to further aid the stone giant.
 
 **Table 12–2: Experience Point Awards**
 
@@ -85,8 +83,6 @@ For example, let’s say you want your group of six 8th-level PCs to face a chal
 | 8 Creatures | CR +6 |
 | 12 Creatures | CR +7 |
 | 16 Creatures | CR +8 |
-
-group is a CR 10 encounter—worth 9,600 XP according to Table 12–2. At CR 8, the stone giant is worth 4,800 XP, leaving you with another 4,800 points in your XP budget for the gargoyles. Gargoyles are CR 4 each, and thus worth 1,200 XP apiece, meaning that the encounter can support four gargoyles in its XP budget. You could further refine the encounter by including only three gargoyles, leaving you with 1,200 XP to spend on a trio of Small earth elemental servants (at CR 1, each is worth 400 XP) to further aid the stone giant.
 
 **Adding NPCs**: Creatures whose Hit Dice are solely a factor of their class levels and not a feature of their race, such as all of the PC races detailed in Chapter 2, are factored into combats a little differently than normal monsters or monsters with class levels. A creature that possesses class levels, but does not have any racial Hit Dice, is factored in as a creature with a CR equal to its class levels –1. A creature that only possesses non-player class levels (such as a warrior or adept) is factored in as a creature with a CR equal to its class levels –2. If this reduction would reduce a creature’s CR to below 1, its CR drops one step on the following progression for each step below 1 this reduction would make: 1/2, 1/3, 1/4, 1/6, 1/8.
 

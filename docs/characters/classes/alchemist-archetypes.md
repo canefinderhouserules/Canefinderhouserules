@@ -6,7 +6,7 @@ Straddling the border between science and magic, explosions and [Spellcraft](../
 
 This section introduces new alchemist discoveries, which are followed by new alchemist archetypes. Spells marked with an asterisk (\*) appear in Chapter 5.
 
-discoveries The following new discoveries can be taken by any alchemist who meets the prerequisites. Discoveries that modify bombs and are marked with a single asterisk (\*) do not stack. Only one such discovery can be applied to an individual bomb.
+The following new discoveries can be taken by any alchemist who meets the prerequisites. Discoveries that modify bombs and are marked with a single asterisk (\*) do not stack. Only one such discovery can be applied to an individual bomb.
 
 **Alchemical Simulacrum (Su)**: The alchemist gains the ability to create a lesser simulacrum. This works like the lesser simulacrum\* spell, except it costs 100 gp in alchemical materials per Hit Die of the simulacrum, requires 24 hours to grow, and decays into inert flesh rather than ice or snow if killed. An alchemist must be at least 8th level before selecting this discovery. The created simulacrum is a creature, not a supernatural effect.
 

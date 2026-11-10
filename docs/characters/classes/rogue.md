@@ -104,7 +104,7 @@ At 10th level, and every two levels thereafter, a rogue can choose one of the fo
 
 *Crippling Strike** *(Ex)*: A rogue with this ability can sneak attack opponents with such precision that her blows weaken and hamper them. An opponent damaged by one of her sneak attacks also takes 2 points of Strength damage.
 
-*Defensive Roll* *(Ex)*: With this advanced talent, the rogue can roll with a potentially lethal blow to take less damage from it than she otherwise would. Once per day, when she would be reduced to 0 or fewer hit points by damage in combat (from a weapon
+*Defensive Roll* *(Ex)*: With this advanced talent, the rogue can roll with a potentially lethal blow to take less damage from it than she otherwise would. Once per day, when she would be reduced to 0 or fewer hit points by damage in combat (from a weapon or other blow, not a spell or special ability), the rogue can attempt to roll with the damage. To use this ability, the rogue must attempt a Reflex saving throw (DC = damage dealt). If the save succeeds, she takes only half damage from the blow; if it fails, she takes full damage. She must be aware of the attack and able to react to it in order to execute her defensive roll—if she is denied her Dexterity bonus to AC, she can’t use this ability. Since this effect would not normally allow a character to make a Reflex save for half damage, the rogue’s evasion ability does not apply to the defensive roll.
 
 **Table 3–13: Rogue**
 
@@ -130,8 +130,6 @@ At 10th level, and every two levels thereafter, a rogue can choose one of the fo
 | 18th | +13/+8/+3 | +6 | +11 | +6 | Rogue talent, trap sense +6 |
 | 19th | +14/+9/+4 | +6 | +11 | +6 | Sneak attack +10d6 |
 | 20th | +15/+10/+5 | +6 | +12 | +6 | Master strike, rogue talent |
-
-or other blow, not a spell or special ability), the rogue can attempt to roll with the damage. To use this ability, the rogue must attempt a Reflex saving throw (DC = damage dealt). If the save succeeds, she takes only half damage from the blow; if it fails, she takes full damage. She must be aware of the attack and able to react to it in order to execute her defensive roll—if she is denied her Dexterity bonus to AC, she can’t use this ability. Since this effect would not normally allow a character to make a Reflex save for half damage, the rogue’s evasion ability does not apply to the defensive roll.
 
 *Dispelling Attack* (Su)*: Opponents that are dealt sneak attack damage by a rogue with this ability are affected by a targeted [*dispel magic*](../../magic/spells/dispel-magic.md), targeting the lowest-level spell effect active on the target. The caster level for this ability is equal to the rogue’s level. A rogue must have the major magic rogue talent before choosing dispelling attack.
 

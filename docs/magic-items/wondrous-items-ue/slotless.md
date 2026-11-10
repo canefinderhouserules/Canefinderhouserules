@@ -787,13 +787,9 @@ This mirror resembles an ordinary looking glass 5 feet tall by 2 feet wide. A cr
 
 - Read the thoughts of any creature reflected therein, as long as the creature controlling the mirror is within 25 feet of the mirror, even if those thoughts are in an unknown language.
 - View other places as if with *clairvoyance*, and the controller can even view locations on other planes if she is sufficiently familiar with them.
-- Use it as a portal to visit other places. The controller first views the place with the *clairvoyance* function, then steps through the mirror to the place pictured. Others can follow her through the mirror if they like. An invisible portal remains on the other side where she arrives, and she can return through that portal. Once she returns, the portal closes. The portal closes on its own after 24 hours (trapping the user if she’s still in the other place), and the user can also close it with a command word. Creatures with Intelligence scores of 12 or higher might notice the portal just as they might notice a magical sensor from a *scrying*
+- Use it as a portal to visit other places. The controller first views the place with the *clairvoyance* function, then steps through the mirror to the place pictured. Others can follow her through the mirror if they like. An invisible portal remains on the other side where she arrives, and she can return through that portal. Once she returns, the portal closes. The portal closes on its own after 24 hours (trapping the user if she’s still in the other place), and the user can also close it with a command word. Creatures with Intelligence scores of 12 or higher might notice the portal just as they might notice a magical sensor from a *scrying* spell. Any creature who steps through the portal appears in front of the mirror.
 
-spell. Any creature who steps through the portal appears in front of the mirror.
-
-- Once per week the mirror accurately answers one short question regarding a creature whose image is shown on its surface (giving answers similar to those from the *legend lore*
-
-spell).
+- Once per week the mirror accurately answers one short question regarding a creature whose image is shown on its surface (giving answers similar to those from the *legend lore* spell).
 
 **Construction** Craft Wondrous Item, *clairaudience/clairvoyance*, *detect thoughts*, *gate*, *legend lore*; **Cost** 87,500 gp
 
