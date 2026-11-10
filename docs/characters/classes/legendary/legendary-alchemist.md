@@ -224,7 +224,7 @@ Only the alchemist that created it may command their automaton in this way; if a
 
 Should the automaton be destroyed, it may be repaired by the alchemist spending 100 gp worth of alchemical substances and 8 hours of work. Alternatively, the alchemist may create a completely new automaton by spending 24 hours of work and 300 gp worth of alchemical substances; any automaton they previously had becomes irreversibly non-functional. This allows the alchemist to choose new customizations and even base forms, if they so choose.
 
-Full details on how automata work can be found in the automata section.
+Full details on how automata work are in [Automaton](#automaton-ex).
 
 #### Crafter Savant
 

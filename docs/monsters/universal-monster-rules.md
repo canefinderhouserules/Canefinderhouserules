@@ -44,9 +44,7 @@ Unless noted otherwise, blindsight is continuous, and the creature need do nothi
 
 *Format: blood rage; Location: Special Attacks.*
 
-**Breath Weapon** (Su) Some creatures can exhale a cone, line, or cloud of energy or other magical effects. A breath weapon attack usually deals damage and is often based on some type of energy. Breath weapons allow a Ref lex save for half damage (DC 10 + 1/2 the breathing creature’s racial HD + the breathing creature’s Con modifier; the exact DC is given in the creature’s descriptive text). A creature is immune to its own breath weapon unless otherwise noted. Some breath weapons allow a Fortitude save or a Will save instead of a Ref lex save. Each breath weapon also includes notes on how often it can be used, even if this number is limited in times per day. Format:
-
-breath weapon (60-ft. cone, 8d6 fire damage, Ref lex DC 20 for half, usable every 1d4 rounds); Location: Special Attacks; if the breath is more complicated than damage, it also appears under Special Abilities with its own entry.
+**Breath Weapon** (Su) Some creatures can exhale a cone, line, or cloud of energy or other magical effects. A breath weapon attack usually deals damage and is often based on some type of energy. Breath weapons allow a Ref lex save for half damage (DC 10 + 1/2 the breathing creature’s racial HD + the breathing creature’s Con modifier; the exact DC is given in the creature’s descriptive text). A creature is immune to its own breath weapon unless otherwise noted. Some breath weapons allow a Fortitude save or a Will save instead of a Ref lex save. Each breath weapon also includes notes on how often it can be used, even if this number is limited in times per day. Format: breath weapon (60-ft. cone, 8d6 fire damage, Ref lex DC 20 for half, usable every 1d4 rounds); Location: Special Attacks; if the breath is more complicated than damage, it also appears under Special Abilities with its own entry.
 
 **Burn** (Ex) A creature with the burn special attack deals fire damage in addition to damage dealt on a successful hit in melee. A creature affected by the burn ability must also succeed at a Ref lex save or catch fire, taking the listed damage at the start of its turn for an additional 1d4 rounds (DC 10 + 1/2 the attacking creature’s racial HD + the attacking creature’s Con modifier). A burning creature can attempt a new save as a full-round action. Dropping and rolling on the ground grants a +4 bonus on this save.
 
@@ -78,9 +76,7 @@ Constructs are not at risk of death from taking massive damage.
 
 **Curse** (Su) A creature with this ability bestows a curse upon its enemies. The effects of the curse, including its save, frequency, and cure, are included in the creature’s description. If a curse allows a saving throw, it is usually a Will save (DC = 10 + 1/2 the cursing creature’s racial HD + that creature’s Charisma modifier; the exact DC is given in the creature’s descriptive text). Curses can be removed through remove curse and similar effects.
 
-*Format: Curse Name (Su) Slam—contact; save Will DC 14;*
-
-frequency 1/day; effect 1d4 Str drain; Location: Special Attacks and individual attacks.
+*Format: Curse Name (Su) Slam—contact; save Will DC 14;* frequency 1/day; effect 1d4 Str drain; Location: Special Attacks and individual attacks.
 
 **Curse of Lycanthropy** (Su) A natural lycanthrope’s bite attack in animal or hybrid form infects a humanoid target with lycanthropy (Fortitude DC 15 negates). If the victim’s size is not within one size category of the lycanthrope’s size, this ability has no effect.
 

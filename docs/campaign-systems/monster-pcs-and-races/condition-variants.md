@@ -124,7 +124,7 @@ Creatures that are immune to critical hits do not take critical damage, nor do t
 
 ## Incorporeal
 
-Creatures with the incorporeal condition do not have a physical body. Incorporeal creatures are immune to all nonmagical attack forms. Incorporeal creatures take half damage (50%) from magic weapons, spells, spell-like effects, and supernatural effects. Incorporeal creatures take full damage from other incorporeal creatures and effects, as well as all force effects. See here for additional information.
+Creatures with the incorporeal condition do not have a physical body. Incorporeal creatures are immune to all nonmagical attack forms. Incorporeal creatures take half damage (50%) from magic weapons, spells, spell-like effects, and supernatural effects. Incorporeal creatures take full damage from other incorporeal creatures and effects, as well as all force effects. See the [incorporeal subtype](../../monsters/creature-subtypes.md#incorporeal-subtype) and the [universal monster rules](../../monsters/universal-monster-rules.md) for more information.
 
 ## Invisible
 

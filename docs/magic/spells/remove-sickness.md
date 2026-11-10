@@ -6,8 +6,6 @@
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Targets** one creature  
 **Duration** 10 minutes/level; see text  
-**Saving Throw** Fortitude negates (harmless); Spell Resistance; **Spell Resistance** yes (harmless)
-
-yes (harmless)
+**Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
 You quell feelings of illness and nausea in the target, giving it a +4 morale bonus on saving throws against disease, nausea, and [sickened](../../rules/appendices/conditions.md#sickened) effects. If the subject is already under the influence of one of these effects when receiving the spell, that effect is suppressed for the duration of the spell.

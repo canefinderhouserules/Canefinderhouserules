@@ -116,9 +116,7 @@ A called shot to the heart represents an attempt at a killing blow. If the hit i
 
 **Called Shot**: A called shot to the heart is just a normal hit with no extra effect.
 
-**Critical Called Shot**: A critical hit to the heart pierces the organ, causing exhaustion and 1d4 points of Constitution bleed damage. A successful Fortitude save reduces this to fatigue and 1 point of Constitution bleed damage. In either case, stopping the bleeding requires either regeneration (spell or special ability), magic healing that heals as many points of damage (from one or more sources)
-
-as the original blow dealt, or a successful DC 20 heal check that takes 1d4 rounds to complete.
+**Critical Called Shot**: A critical hit to the heart pierces the organ, causing exhaustion and 1d4 points of Constitution bleed damage. A successful Fortitude save reduces this to fatigue and 1 point of Constitution bleed damage. In either case, stopping the bleeding requires either regeneration (spell or special ability), magic healing that heals as many points of damage (from one or more sources) as the original blow dealt, or a successful DC 20 heal check that takes 1d4 rounds to complete.
 
 A critical hit to the heart against a vampire made with a piercing weapon composed entirely of wood leaves the vampire impaled through the heart by the weapon if it fails its Fortitude save, with effects as described in the Pathfinder RPG Bestiary.
 
@@ -148,9 +146,7 @@ The neck makes for a difficult but rewarding target. Injuries to the neck keep a
 
 ### Vitals
 
-The vitals correspond to the abdomen on a humanoid:
-
-critical organs not well-protected by bone. Attacks on the vitals can also include dastardly “low blows.” Vitals for non-humanoid creatures can include nearly any location that is relatively hard to hit, poorly protected, and debilitating if struck. Called shots to the vitals are tricky (–5 penalty).
+The vitals correspond to the abdomen on a humanoid: critical organs not well-protected by bone. Attacks on the vitals can also include dastardly “low blows.” Vitals for non-humanoid creatures can include nearly any location that is relatively hard to hit, poorly protected, and debilitating if struck. Called shots to the vitals are tricky (–5 penalty).
 
 **Called Shot**: A called shot to the vitals leaves the target sickened for 1d4 rounds. A successful Fortitude save reduces this duration to 1 round. While sickened from the blow, the target cannot run or charge.
 

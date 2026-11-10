@@ -8,7 +8,7 @@ These carrying capacity rules determine how much a character’s equipment slows
 
 If your character is weak or carrying a lot of gear, however, then you’ll need to calculate encumbrance by weight. Doing so is most important when your character is trying to carry some heavy object.
 
-**Encumbrance by Weight**: If you want to determine whether your character’s gear is heavy enough to slow him down more than his armor already does, total the weight of all the character’s items, including armor, weapons, and gear (see appropriate tables in Chapter 6). Compare this total to the character’s Strength on Table 7–4. Depending on the character’s carrying capacity, he or
+**Encumbrance by Weight**: If you want to determine whether your character’s gear is heavy enough to slow him down more than his armor already does, total the weight of all the character’s items, including armor, weapons, and gear (see appropriate tables in Chapter 6). Compare this total to the character’s Strength on Table 7–4. Depending on the character’s carrying capacity, he or she may be carrying a light, medium, or heavy load. Like armor, a character’s load affects his maximum Dexterity bonus to AC, carries a check penalty (which works like an armor check penalty), reduces the character’s speed, and affects how fast the character can run, as shown on Table 7–5. A medium or heavy load counts as medium or heavy armor for the purpose of abilities or skills that are restricted by armor. Carrying a light load does not encumber a character.
 
 **Table 7–4: Carrying Capacity**
 
@@ -47,6 +47,20 @@ If your character is weak or carrying a lot of gear, however, then you’ll need
 | 29       | 466 lbs. or less | 467–933 lbs. | 934–1,400 lbs. |
 | +10      | ×4               | ×4           | ×4             |
 
+
+If your character is wearing armor, use the worse figure (from armor or from load) for each category. Do not stack the penalties.
+
+**Lifting and Dragging**: A character can lift as much as his maximum load over his head. A character’s maximum load is the highest amount of weight listed for a character’s Strength in the heavy load column of Table 7–4.
+
+A character can lift as much as double his maximum load off the ground, but he or she can only stagger around with it. While overloaded in this way, the character loses any Dexterity bonus to AC and can move only 5 feet per round (as a full-round action).
+
+A character can generally push or drag along the ground as much as five times his maximum load. Favorable conditions can double these numbers, and bad circumstances can reduce them by half or more.
+
+**Bigger and Smaller Creatures**: The figures on Table 7–4 are for Medium bipedal creatures. A larger bipedal creature can carry more weight depending on its size category, as follows: Large ×2, Huge ×4, Gargantuan ×8, Colossal ×16. A smaller creature can carry less weight depending on its size category, as follows: Small ×3/4, Tiny ×1/2, Diminutive ×1/4, Fine ×1/8.
+
+Quadrupeds can carry heavier loads than bipeds can. Multiply the values corresponding to the creature’s Strength score from Table 7–4 by the appropriate modifier, as follows: Fine ×1/4, Diminutive ×1/2, Tiny ×3/4, Small ×1, Medium ×1-1/2, Large ×3, Huge ×6, Gargantuan ×12, Colossal ×24.
+
+**Tremendous Strength**: For Strength scores not shown on Table 7–4, find the Strength score between 20 and 29 that has the same number in the “ones” digit as the creature’s Strength score does and multiply the numbers in that row by 4 for every 10 points the creature’s Strength is above the score for that row.
 
 **Table 7–5: Encumbrance Effects**
 

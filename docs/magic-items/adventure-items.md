@@ -3940,7 +3940,7 @@ This black poker has a cherry-red tip, as though fresh from a searing fire. The 
 
 **Slot** none; **Price** 240,000 gp; **Weight** 5 lbs.
 
-the Archmage’s staff is a variant staff of power that allows the wielder to cast a wide range of spells. *Fireball* (heightened to 5th level; 1 charge)*Flame arrow* (1 charge)*Invisibility* (1 charge)*Knock* (1 charge)*Nondetection* (1 charge)Widened* fog cloud* (1 charge)*Break enchantment* (2 charges)*Greater dispel magic* (2 charges)*Repulsion* (2 charges)*Wall of force* (in a 10-foot-diameter hemisphere around the caster only; 2 charges)* the Archmage’s Staff* is a* +2 quarterstaff* that grants its wielder a +2 luck bonus to AC and on saving throws. Like a* staff of power*, it can be intentionally broken by its wielder as a retributive strike. Doing so is a standard action. All creatures and objects within 20 feet of the broken staff take 20 points of damage per charge, those within 40 feet take 15 points of damage per charge, and those within 60 feet take 10 points of damage per charge. Anyone affected who succeeds at a DC 17 Reflex save takes only half damage, though the wielder is always destroyed.
+The Archmage’s staff is a variant staff of power that allows the wielder to cast a wide range of spells. *Fireball* (heightened to 5th level; 1 charge)*Flame arrow* (1 charge)*Invisibility* (1 charge)*Knock* (1 charge)*Nondetection* (1 charge)Widened* fog cloud* (1 charge)*Break enchantment* (2 charges)*Greater dispel magic* (2 charges)*Repulsion* (2 charges)*Wall of force* (in a 10-foot-diameter hemisphere around the caster only; 2 charges)* the Archmage’s Staff* is a* +2 quarterstaff* that grants its wielder a +2 luck bonus to AC and on saving throws. Like a* staff of power*, it can be intentionally broken by its wielder as a retributive strike. Doing so is a standard action. All creatures and objects within 20 feet of the broken staff take 20 points of damage per charge, those within 40 feet take 15 points of damage per charge, and those within 60 feet take 10 points of damage per charge. Anyone affected who succeeds at a DC 17 Reflex save takes only half damage, though the wielder is always destroyed.
 
 The retributive strike destroys the staff, although it reforms on the anniversary of the Archmage’s death 10d10 years later somewhere on the Material Plane within 100 miles of one of the Archmage’s descendants.
 
@@ -10058,7 +10058,7 @@ These gloves of thick leather do not impair delicate work and grant a +4 compete
 
 **Slot** none; **Price** 3,000 gp; **Weight** 2 lbs.
 
-the god of cities and wealth’s church created the first *safecamp wagons* to protect valuable cargo as it traveled between cities. When inactive, a* safecamp wagon* looks like an elaborately carved wooden toy wagon, 12 inches long, 6 inches wide, and 6 inches tall. On command, the toy transforms in a single round into an open-topped wagon. A second command word creates a canvas top supported with a sturdy wooden frame over the wagon.
+The god of cities and wealth’s church created the first *safecamp wagons* to protect valuable cargo as it traveled between cities. When inactive, a* safecamp wagon* looks like an elaborately carved wooden toy wagon, 12 inches long, 6 inches wide, and 6 inches tall. On command, the toy transforms in a single round into an open-topped wagon. A second command word creates a canvas top supported with a sturdy wooden frame over the wagon.
 
 A third command word causes wooden panels to extend down and outward from the wagon, forming a stable wooden platform extending 5 feet in all directions from the wagon’s base, suitable for walking, sitting, standing, or sleeping upon. A sliding wooden door in the back panel allows access to the space under the wagon. Speaking the command word again causes these panels to retract into the wagon. A fourth command word returns the wagon to its toy shape; any items on or in the wagon are carefully placed on the ground around the toy.
 
@@ -12237,15 +12237,9 @@ Forge Ring, *charm monster*,* resist energy*; **Price** 7,400 gp
 
 **Category** Siege; **Proficiency** Exotic
 
-The Aasen
+The Aasen mortar is an indirect-fire advanced siege firearm, consisting of a heavy steel barrel, a loading mechanism, and a folding bipod stand, and is used to launch explosives to penetrate enemy defensive lines. Aiming the mortar is part of the standard action required to fire it. Reloading the mortar is a full-round action, and the user loads a grenade-like projectile into the breech of the weapon’s steel barrel, along with a blank rifle round that propels the bomb when triggered. The weapon uses indirect fire to lob bombs in slow-moving, high arcs, and the user targets a specific square. Rules for indirect-fire siege weapons are
 
-mortar is an indirect-fire advanced siege firearm, consisting of a heavy steel barrel, a loading mechanism,
-
-and a folding bipod stand, and is used to launch explosives to penetrate enemy defensive lines. Aiming the mortar is part of the standard action required to fire it. Reloading the mortar is a full-round action, and the user loads a grenade-like projectile into the breech of the weapon’s steel barrel, along with a blank rifle round that propels the bomb when triggered. The weapon uses indirect fire to lob bombs in slow-moving, high arcs, and the user targets a specific square. Rules for indirect-fire siege weapons are
-
-. Mortars can also be fired as direct-fire siege engines. When used for direct fire, they take a –4 penalty on attack rolls and their range increment is halved, but they do not have a minimum range. After the point of impact is determined, the shell explodes and deals 6d6 points of bludgeoning, piercing,
-
-and slashing damage to all creatures in a 30-foot radius
+. Mortars can also be fired as direct-fire siege engines. When used for direct fire, they take a –4 penalty on attack rolls and their range increment is halved, but they do not have a minimum range. After the point of impact is determined, the shell explodes and deals 6d6 points of bludgeoning, piercing, and slashing damage to all creatures in a 30-foot radius
 
 (Reflex DC 20 for half). An Aasen mortar has hardness 10 and 35 hit points; it fires special, finned fragmentation bombs that cost 10 gp each and weigh 4 pounds each.
 
@@ -12447,9 +12441,7 @@ The British military produced the Lawrence
 
 1917, which found its way into the hands of
 
-Russia’s soldiers. The device consists of a cumbersome backpack of two tanks and a swivelmounted,
-
-handheld projection unit, or “lance.” When the device is aimed and a small hand lever depressed, a small gas burner ignites the oil, which is propelled forth in a blazing stream of intense flame. A flamethrower with full tanks is capable of unleashing up to 6 charges of ignited oil, to devastating effect.
+Russia’s soldiers. The device consists of a cumbersome backpack of two tanks and a swivelmounted, handheld projection unit, or “lance.” When the device is aimed and a small hand lever depressed, a small gas burner ignites the oil, which is propelled forth in a blazing stream of intense flame. A flamethrower with full tanks is capable of unleashing up to 6 charges of ignited oil, to devastating effect.
 
 When using a flamethrower, the wielder projects a
 
@@ -12457,11 +12449,7 @@ When using a flamethrower, the wielder projects a
 
 Vital Strike. Effects that grant concealment, such as fog or smoke, or the *blur*,* invisibility*, or* mirror image* spells, do not foil this line attack. If any of the rolls threatens a critical hit, the wielder confirms the critical for that roll alone.
 
-All affected creatures take 4d6 points of damage,
-
-and any creature hit by the flaming stream must also succeed at succeed at a DC 20 Reflex save or catch fire,
-
-taking an additional 2d6 points of damage each round until the flames are extinguished. A burning creature can attempt a new save as a full-round action, and dropping and rolling on the ground grants a +2 bonus on this save.
+All affected creatures take 4d6 points of damage, and any creature hit by the flaming stream must also succeed at succeed at a DC 20 Reflex save or catch fire, taking an additional 2d6 points of damage each round until the flames are extinguished. A burning creature can attempt a new save as a full-round action, and dropping and rolling on the ground grants a +2 bonus on this save.
 
 The device’s tanks and backpacks are awkward, and the wielder takes a –4 armor check penalty when wearing the cumbersome device. In addition, the tanks have hardness
 
@@ -12499,13 +12487,7 @@ This time-delayed concussion grenade is a mainstay of trench warfare. The device
 
 **Category** Explosive; **Proficiency** Exotic
 
-Standard M1914
-
-grenades can be fitted with an optional fragmentation sleeve. This sleeve converts the normal concussive blasts into a cloud of deadly shrapnel at the expense of a decreased damage radius. The device is armed and detonated in the same manner as a regular M1914 grenade,
-
-though the explosion radius is reduced to a 15-foot radius and the grenade instead deals 4d6 bludgeoning, piercing,
-
-and slashing damage (Reflex DC 15 for half).
+Standard M1914 grenades can be fitted with an optional fragmentation sleeve. This sleeve converts the normal concussive blasts into a cloud of deadly shrapnel at the expense of a decreased damage radius. The device is armed and detonated in the same manner as a regular M1914 grenade, though the explosion radius is reduced to a 15-foot radius and the grenade instead deals 4d6 bludgeoning, piercing, and slashing damage (Reflex DC 15 for half).
 
 ### M1917 chemical grenade
 
@@ -14257,104 +14239,6 @@ As the locust lord’s dread hordes surged forth from the demonic rift, many mor
 
 **Five-Item Benefit**: While you are wearing all five pieces of this set, you gain immunity to fire damage.
 
-(adsbygoogle = window.adsbygoogle || []).push({});
-
-initiateToggle(document.getElementById('theme-toggle'));
-
-initializeMenuToggle(document.getElementById('minMaxMenu'));
-
-var initializeSearch = function (search) { var button;
-
-var text;
-
-if (search.firstElementChild.classList.contains('search-input'))
-
-text = search.firstElementChild;
-
-if (search.lastElementChild.classList.contains('search-input'))
-
-text = search.lastElementChild;
-
-if (search.firstElementChild.classList.contains('search-button'))
-
-button = search.firstElementChild;
-
-if (search.lastElementChild.classList.contains('search-button'))
-
-button = search.lastElementChild;
-
-if (search) {
-
-search.addEventListener('keypress', function (e) { if (e.keyCode == 13) { e.preventDefault();
-
-if (text.value != null && text.value.length > 0)
-
-window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
-
-}
-
-})
-
-}
-
-if (button) {
-
-button.addEventListener('click', function (e) { window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
-
-});
-
-}
-
-};
-
-var initializeExpand = function (toggle) { var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
-
-//target = menu to be collapsed var target = document.querySelector(targetAttrString);
-
-toggle.addEventListener('click', function () { var expanded = target.classList.contains('expanded');
-
-expanded = !expanded;
-
-if (expanded) {
-
-//hide other in group if exists if (target.dataset.group) { var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
-
-if (otherExpanded) { otherExpanded.classList.remove('expanded');
-
-}
-
-}
-
-target.classList.add('expanded');
-
-} else {
-
-target.classList.remove('expanded');
-
-}
-
-});
-
-};
-
-(function () {
-
-//toggles = link that expands/collapses target var toggles = document.querySelectorAll('[data-toggle]');
-
-toggles.forEach(function (toggle) { initializeExpand(toggle);
-
-});
-
-//searches
-
-var searches = document.querySelectorAll('.search');
-
-searches.forEach(function (search) { initializeSearch(search);
-
-});
-
-})();
-
 ### God of Self-perfection’s Meditation
 
 As a mortal, the god of self-perfection committed to a lifestyle of intense discipline and self-actualization, a dedication that persists through the god of self-perfection’s followers to this day. Legends state that as he approached enlightenment, the god of self-perfection began to shed the need for the material, giving up many of his earthly possessions, which were then passed on through generations of students as they followed in his footsteps. *the god of self-perfection’s Meditation* is a set of simple trappings that are said to include a single thread from the god of self-perfection’s original belongings and help self-perfection’s find inner balance and aid them in their journey towards the true enlightenment they seek.
@@ -14368,104 +14252,6 @@ As a mortal, the god of self-perfection committed to a lifestyle of intense disc
 **Two-Item Benefit**: When wearing at least two pieces of this set, you gain a +4 insight bonus to CMD.
 
 **Three-Item Benefit**: When wearing all three pieces of this set, your base speed increases by 10 feet.
-
-(adsbygoogle = window.adsbygoogle || []).push({});
-
-initiateToggle(document.getElementById('theme-toggle'));
-
-initializeMenuToggle(document.getElementById('minMaxMenu'));
-
-var initializeSearch = function (search) { var button;
-
-var text;
-
-if (search.firstElementChild.classList.contains('search-input'))
-
-text = search.firstElementChild;
-
-if (search.lastElementChild.classList.contains('search-input'))
-
-text = search.lastElementChild;
-
-if (search.firstElementChild.classList.contains('search-button'))
-
-button = search.firstElementChild;
-
-if (search.lastElementChild.classList.contains('search-button'))
-
-button = search.lastElementChild;
-
-if (search) {
-
-search.addEventListener('keypress', function (e) { if (e.keyCode == 13) { e.preventDefault();
-
-if (text.value != null && text.value.length > 0)
-
-window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
-
-}
-
-})
-
-}
-
-if (button) {
-
-button.addEventListener('click', function (e) { window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
-
-});
-
-}
-
-};
-
-var initializeExpand = function (toggle) { var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
-
-//target = menu to be collapsed var target = document.querySelector(targetAttrString);
-
-toggle.addEventListener('click', function () { var expanded = target.classList.contains('expanded');
-
-expanded = !expanded;
-
-if (expanded) {
-
-//hide other in group if exists if (target.dataset.group) { var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
-
-if (otherExpanded) { otherExpanded.classList.remove('expanded');
-
-}
-
-}
-
-target.classList.add('expanded');
-
-} else {
-
-target.classList.remove('expanded');
-
-}
-
-});
-
-};
-
-(function () {
-
-//toggles = link that expands/collapses target var toggles = document.querySelectorAll('[data-toggle]');
-
-toggles.forEach(function (toggle) { initializeExpand(toggle);
-
-});
-
-//searches
-
-var searches = document.querySelectorAll('.search');
-
-searches.forEach(function (search) { initializeSearch(search);
-
-});
-
-})();
 
 ### Goddess of Death’s Command
 
@@ -14489,104 +14275,6 @@ The goddess of death oversees the natural cycle of life, death, and rebirth. As 
 
 **Five-Item Benefit**: When wearing and wielding all five pieces of this set, you gain immunity to death effects.
 
-(adsbygoogle = window.adsbygoogle || []).push({});
-
-initiateToggle(document.getElementById('theme-toggle'));
-
-initializeMenuToggle(document.getElementById('minMaxMenu'));
-
-var initializeSearch = function (search) { var button;
-
-var text;
-
-if (search.firstElementChild.classList.contains('search-input'))
-
-text = search.firstElementChild;
-
-if (search.lastElementChild.classList.contains('search-input'))
-
-text = search.lastElementChild;
-
-if (search.firstElementChild.classList.contains('search-button'))
-
-button = search.firstElementChild;
-
-if (search.lastElementChild.classList.contains('search-button'))
-
-button = search.lastElementChild;
-
-if (search) {
-
-search.addEventListener('keypress', function (e) { if (e.keyCode == 13) { e.preventDefault();
-
-if (text.value != null && text.value.length > 0)
-
-window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
-
-}
-
-})
-
-}
-
-if (button) {
-
-button.addEventListener('click', function (e) { window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
-
-});
-
-}
-
-};
-
-var initializeExpand = function (toggle) { var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
-
-//target = menu to be collapsed var target = document.querySelector(targetAttrString);
-
-toggle.addEventListener('click', function () { var expanded = target.classList.contains('expanded');
-
-expanded = !expanded;
-
-if (expanded) {
-
-//hide other in group if exists if (target.dataset.group) { var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
-
-if (otherExpanded) { otherExpanded.classList.remove('expanded');
-
-}
-
-}
-
-target.classList.add('expanded');
-
-} else {
-
-target.classList.remove('expanded');
-
-}
-
-});
-
-};
-
-(function () {
-
-//toggles = link that expands/collapses target var toggles = document.querySelectorAll('[data-toggle]');
-
-toggles.forEach(function (toggle) { initializeExpand(toggle);
-
-});
-
-//searches
-
-var searches = document.querySelectorAll('.search');
-
-searches.forEach(function (search) { initializeSearch(search);
-
-});
-
-})();
-
 ### Goddess of Piracy’s Bounty
 
 The goddess of piracy has few priests but many devoted followers. It is said that the collection of magical items collectively known as *the goddess of piracy’s Bounty* can be completely assembled only by those graced with the goddess of piracy’s favor.
@@ -14609,107 +14297,9 @@ The goddess of piracy has few priests but many devoted followers. It is said tha
 
 **Five-Item Benefit**: While you are wearing and wielding all five pieces of this set, the enhancement bonus to your swim speed (if any) increases to +20.
 
-(adsbygoogle = window.adsbygoogle || []).push({});
-
-initiateToggle(document.getElementById('theme-toggle'));
-
-initializeMenuToggle(document.getElementById('minMaxMenu'));
-
-var initializeSearch = function (search) { var button;
-
-var text;
-
-if (search.firstElementChild.classList.contains('search-input'))
-
-text = search.firstElementChild;
-
-if (search.lastElementChild.classList.contains('search-input'))
-
-text = search.lastElementChild;
-
-if (search.firstElementChild.classList.contains('search-button'))
-
-button = search.firstElementChild;
-
-if (search.lastElementChild.classList.contains('search-button'))
-
-button = search.lastElementChild;
-
-if (search) {
-
-search.addEventListener('keypress', function (e) { if (e.keyCode == 13) { e.preventDefault();
-
-if (text.value != null && text.value.length > 0)
-
-window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
-
-}
-
-})
-
-}
-
-if (button) {
-
-button.addEventListener('click', function (e) { window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
-
-});
-
-}
-
-};
-
-var initializeExpand = function (toggle) { var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
-
-//target = menu to be collapsed var target = document.querySelector(targetAttrString);
-
-toggle.addEventListener('click', function () { var expanded = target.classList.contains('expanded');
-
-expanded = !expanded;
-
-if (expanded) {
-
-//hide other in group if exists if (target.dataset.group) { var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
-
-if (otherExpanded) { otherExpanded.classList.remove('expanded');
-
-}
-
-}
-
-target.classList.add('expanded');
-
-} else {
-
-target.classList.remove('expanded');
-
-}
-
-});
-
-};
-
-(function () {
-
-//toggles = link that expands/collapses target var toggles = document.querySelectorAll('[data-toggle]');
-
-toggles.forEach(function (toggle) { initializeExpand(toggle);
-
-});
-
-//searches
-
-var searches = document.querySelectorAll('.search');
-
-searches.forEach(function (search) { initializeSearch(search);
-
-});
-
-})();
-
 ### Goddess of Undeath and Gluttony’s Gluttony
 
-the goddess of undeath and gluttony is the goddess of disease, gluttony, and undeath. Worshipped by dark necromancers, the undead, and those wishing to become undead, the goddess of undeath and gluttony bestows dark and terrible blessings on her followers. One of the greatest manifestations of the goddess of undeath and gluttony’s favor is seen when the set of magical items known as *the goddess of undeath and gluttony’s Gluttony* is assembled and worn by a single individual, granting him the powers of some of the greatest forms of undead and the tiniest fraction of the power utilized by the goddess of undeath and gluttony herself. Dozens of flies and worms are said to constantly follow those wearing this equipment set.
+The goddess of undeath and gluttony is the goddess of disease, gluttony, and undeath. Worshipped by dark necromancers, the undead, and those wishing to become undead, the goddess of undeath and gluttony bestows dark and terrible blessings on her followers. One of the greatest manifestations of the goddess of undeath and gluttony’s favor is seen when the set of magical items known as *the goddess of undeath and gluttony’s Gluttony* is assembled and worn by a single individual, granting him the powers of some of the greatest forms of undead and the tiniest fraction of the power utilized by the goddess of undeath and gluttony herself. Dozens of flies and worms are said to constantly follow those wearing this equipment set.
 
 ***Haunted Shoes***: For every two additional pieces of this set you wear or wield, you can use each of the abilities granted by these shoes one additional time per day.
 
@@ -14728,104 +14318,6 @@ the goddess of undeath and gluttony is the goddess of disease, gluttony, and und
 **Four-Item Benefit**: While you are wearing or wielding at least four pieces of this set, you gain a +1 profane bonus on attack rolls.
 
 **Five-Item Benefit**: While you are wearing and wielding all five pieces of this set, you are imbued with the powers of undeath and react to negative and positive energy as though you were undead; you are healed by negative energy and harmed by positive energy.
-
-(adsbygoogle = window.adsbygoogle || []).push({});
-
-initiateToggle(document.getElementById('theme-toggle'));
-
-initializeMenuToggle(document.getElementById('minMaxMenu'));
-
-var initializeSearch = function (search) { var button;
-
-var text;
-
-if (search.firstElementChild.classList.contains('search-input'))
-
-text = search.firstElementChild;
-
-if (search.lastElementChild.classList.contains('search-input'))
-
-text = search.lastElementChild;
-
-if (search.firstElementChild.classList.contains('search-button'))
-
-button = search.firstElementChild;
-
-if (search.lastElementChild.classList.contains('search-button'))
-
-button = search.lastElementChild;
-
-if (search) {
-
-search.addEventListener('keypress', function (e) { if (e.keyCode == 13) { e.preventDefault();
-
-if (text.value != null && text.value.length > 0)
-
-window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
-
-}
-
-})
-
-}
-
-if (button) {
-
-button.addEventListener('click', function (e) { window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
-
-});
-
-}
-
-};
-
-var initializeExpand = function (toggle) { var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
-
-//target = menu to be collapsed var target = document.querySelector(targetAttrString);
-
-toggle.addEventListener('click', function () { var expanded = target.classList.contains('expanded');
-
-expanded = !expanded;
-
-if (expanded) {
-
-//hide other in group if exists if (target.dataset.group) { var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
-
-if (otherExpanded) { otherExpanded.classList.remove('expanded');
-
-}
-
-}
-
-target.classList.add('expanded');
-
-} else {
-
-target.classList.remove('expanded');
-
-}
-
-});
-
-};
-
-(function () {
-
-//toggles = link that expands/collapses target var toggles = document.querySelectorAll('[data-toggle]');
-
-toggles.forEach(function (toggle) { initializeExpand(toggle);
-
-});
-
-//searches
-
-var searches = document.querySelectorAll('.search');
-
-searches.forEach(function (search) { initializeSearch(search);
-
-});
-
-})();
 
 ## Demonic Implants
 

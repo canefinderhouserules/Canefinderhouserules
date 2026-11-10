@@ -1062,7 +1062,7 @@ Some paladins devote themselves to locating constructs that are used for evil or
 
 ## Forge God’s Seeker (Paladin)
 
-the god of the forge constantly seeks those who would use the power of creation to threaten or harm others. To this end, he sends his seekers to locate constructs that are used for evil or that become uncontrollable. These paladins are adept at battling constructed foes and guarding those threatened by such creations.
+The god of the forge constantly seeks those who would use the power of creation to threaten or harm others. To this end, he sends his seekers to locate constructs that are used for evil or that become uncontrollable. These paladins are adept at battling constructed foes and guarding those threatened by such creations.
 
 **the god of the forge Worshiper**: A Forge God’s seeker must select the god of the forge as her patron deity.
 

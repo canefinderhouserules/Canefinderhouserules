@@ -20,9 +20,7 @@ A loci spirit may possess an additional ongoing permanent effect, and each effec
 
 **Sacred**: Every undead creature entering the area of a loci spirit takes a –1 penalty on attack rolls, damage rolls, and saving throws.
 
-In addition to the permanent effect, each loci spirit has a ceremonial effect that another creature can activate by performing a specific ceremonial activity. Knowledge of the appropriate ceremony to activate a loci spirit’s ceremonial effect is rare and can be a reward in its own right, but the GM can allow a creature to attempt a Knowledge (planes) or Knowledge (religion)
-
-check, as appropriate, with a DC equal to 20 + the loci spirit’s CR to gain clues about or even fully determine the details of the ceremony.
+In addition to the permanent effect, each loci spirit has a ceremonial effect that another creature can activate by performing a specific ceremonial activity. Knowledge of the appropriate ceremony to activate a loci spirit’s ceremonial effect is rare and can be a reward in its own right, but the GM can allow a creature to attempt a Knowledge (planes) or Knowledge (religion) check, as appropriate, with a DC equal to 20 + the loci spirit’s CR to gain clues about or even fully determine the details of the ceremony.
 
 The ceremony to manifest a loci spirit’s ceremonial effect requires the celebrant to perform each of the requisite skill checks detailed in the loci spirit’s stat block. When the celebrant successfully completes the ceremony, the loci spirit immediately manifests its effect.
 
@@ -39,8 +37,6 @@ After a loci spirit manifests its ceremonial effect, or after a failed ceremony,
 ## Corruption
 
 Loci spirits can’t be damaged conventionally, but are susceptible to corruption if certain actions occur within their areas. Each loci spirit has a number of hit points equal to twice its CR, which it uses to resist corruption. Certain particularly vile acts reduce a loci spirit’s hit points and bring it closer to corruption, while certain acts of good can restore hit points and protect the loci spirit from corruption.
-
-
 
 | Act | Effect |
 |---|---|

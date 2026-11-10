@@ -6,8 +6,6 @@
 **Range** touch  
 **Target** one siege engine touched  
 **Duration** 1 minutes/level  
-**Saving Throw** Will negates (harmless, object); **Spell Resistance**
-
-yes (harmless, object)
+**Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 
 This spell permits an indirect fire siege engine to bombard its targets with greater accuracy, delivering more damage. The siege weapon receives a +1 enhancement bonus on targeting rolls and damage rolls. If used on a direct fire siege weapon, this spell acts a magic weapon.

@@ -40,7 +40,7 @@ The following are class features of the valor crusader prestige class.
 
 #### Weapon and Armor Proficiency
 
-valor crusaders gain no additional proficiency in weapons or armor.
+Valor crusaders gain no additional proficiency in weapons or armor.
 
 #### Spells per Day
 

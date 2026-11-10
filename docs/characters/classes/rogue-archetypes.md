@@ -2,7 +2,6 @@
 
 The following rogue themes represent some of the most popular and effective roguish archetypes. Each archetype comes with one or more class features that must be taken. In addition, each archetype includes a number of new rogue talent suggestions that, while not mandatory, help to flesh out the character. Rogue talents and advanced rogue talents marked with an asterisk (\*) in the archetype sections can be found in the Core Rulebook; see [Rogue Talents](rogue-talents.md).
 
-
 These archetypes are written for the [unchained rogue](unchained-rogue.md), and the rogue keeps all of her other class features, including finesse training, rogue’s edge, guile pool, and ambush. If you use the core [rogue](rogue.md), read danger sense as trap sense.
 ## Acrobat
 
@@ -166,9 +165,7 @@ Underground chemists are part of the rotting, fetid underbelly of the alchemical
 
 **Chemical Weapons (Ex)**: At 2nd level, an underground chemist is able to retrieve an alchemical item as if drawing a weapon. She adds her Intelligence modifier to damage dealt with splash weapons, including any splash damage.
 
-She adds 1/2 her level to Craft (alchemy)
-
-checks. This ability replaces [evasion](rogue.md#evasion-ex).
+She adds 1/2 her level to Craft (alchemy) checks. This ability replaces [evasion](rogue.md#evasion-ex).
 
 **Precise Splash Weapons (Ex)**: At 4th level, an underground chemist can deal sneak attack damage with splash weapons. The attack must be her first attack that round, qualify for dealing sneak attack damage (such as against a flat-footed target), and be directed at a creature rather than a square. This ability replaces the rogue talent gained at 4th level.
 
@@ -202,9 +199,7 @@ This ability replaces danger sense.
 
 **Rogue Talents**: The following rogue talents complement the false medium rogue archetype: esoteric scholar, fast fingers, honeyed words, major magic, minor magic, and quick trapsmith.
 
-**Advanced Talents**: The following advanced rogue talents complement the false medium rogue archetype:
-
-feat, master of disguise, and skill mastery.
+**Advanced Talents**: The following advanced rogue talents complement the false medium rogue archetype: feat, master of disguise, and skill mastery.
 
 ## Bandit
 

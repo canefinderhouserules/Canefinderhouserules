@@ -7,11 +7,7 @@
 **Duration** see text  
 **Saving Throw** none, see text; **Spell Resistance** yes
 
-**Target, Effect, Area** see text **Duration** see text **Saving Throw** none, see text; **Spell Resistance** yes *Wish* is the mightiest spell a wizard or sorcerer can cast. By simply speaking aloud, you can alter reality to better suit you. Even *wish*, however, has its limits. A *wish* can produce any one of the following effects. • Duplicate any sorcerer/wizard spell of 8th level or lower, provided the spell does not belong to one of your opposition schools. • Duplicate any non-sorcerer/wizard spell of 7th level or lower,
-
-provided the spell does not belong to one of your opposition schools. • Duplicate any sorcerer/wizard spell of 7th level or lower, even if it belongs to one of your opposition schools. • Duplicate any non-sorcerer/wizard spell of 6th level or lower,
-
-even if it belongs to one of your opposition schools. • Undo the harmful effects of many other spells, such as *geas/*
+**Target, Effect, Area** see text **Duration** see text **Saving Throw** none, see text; **Spell Resistance** yes *Wish* is the mightiest spell a wizard or sorcerer can cast. By simply speaking aloud, you can alter reality to better suit you. Even *wish*, however, has its limits. A *wish* can produce any one of the following effects. • Duplicate any sorcerer/wizard spell of 8th level or lower, provided the spell does not belong to one of your opposition schools. • Duplicate any non-sorcerer/wizard spell of 7th level or lower, provided the spell does not belong to one of your opposition schools. • Duplicate any sorcerer/wizard spell of 7th level or lower, even if it belongs to one of your opposition schools. • Duplicate any non-sorcerer/wizard spell of 6th level or lower, even if it belongs to one of your opposition schools. • Undo the harmful effects of many other spells, such as *geas/*
 
 *quest* or [*insanity*](insanity.md). • Grant a creature a +1 inherent bonus to an ability score. Two to five *wish* spells cast in immediate succession can grant a creature a +2 to +5 inherent bonus to an ability score (two *wishes* for a +2 inherent bonus, three *wishes* for a +3 inherent bonus, and so on).
 
@@ -23,9 +19,7 @@ Inherent bonuses are instantaneous, so they cannot be dispelled.
 
 The *wish* forces a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a *wish* could undo an opponent’s successful save, a foe’s successful critical hit
 
-(either the attack roll or the critical roll), a friend’s failed save,
-
-and so on. The reroll, however, may be as bad as or worse than the original roll. An unwilling target gets a Will save to negate the effect, and spell resistance (if any) applies.
+(either the attack roll or the critical roll), a friend’s failed save, and so on. The reroll, however, may be as bad as or worse than the original roll. An unwilling target gets a Will save to negate the effect, and spell resistance (if any) applies.
 
 You may try to use a *wish* to produce greater effects than these, but doing so is dangerous. (The *wish* may pervert your intent into a literal but undesirable fulfillment or only a partial fulfillment, at the GM’s discretion.)
 

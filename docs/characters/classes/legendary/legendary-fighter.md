@@ -98,7 +98,7 @@ At 3rd level, a fighter treats his base attack bonus as being higher for the pur
 
 #### Advanced Armor Training (Ex)
 
-At 3rd level, and again at 7th, 11th, and 15th level, a fighter gains an advanced armor training option. A complete list of these options can be found above. Unless otherwise noted, an option can be selected only once.
+At 3rd level, and again at 7th, 11th, and 15th level, a fighter gains an advanced armor training option. A complete list of these options is in [Legendary Fighter Advanced Armor Training Options](legendary-fighter-options.md#legendary-fighter-advanced-armor-training-options). Unless otherwise noted, an option can be selected only once.
 
 #### Armor Training (Ex)
 
@@ -122,7 +122,7 @@ At 4th level, when a fighter retrains a combat feat, he can choose to have that 
 
 At 4th level, and again at 8th, 12th, and 16th level, a fighter gains a prowess option. Unless otherwise noted, an option can be selected only once.
 
-A complete list of prowess options can be found above.
+A complete list of prowess options is in [Legendary Fighter Prowess](legendary-fighter-options.md#legendary-fighter-prowess).
 
 #### Rapid Attack (Ex)
 
@@ -160,7 +160,7 @@ At 5th level, a fighter adds his weapon training bonus on saves against any effe
 
 #### Perseverance (Ex)
 
-At 6th level and every four levels thereafter, a fighter chooses and gains a perseverance option. A complete list of these options can be found above. Unless otherwise noted, an option can be selected only once.
+At 6th level and every four levels thereafter, a fighter chooses and gains a perseverance option. A complete list of these options is in [Legendary Fighter Perseverance](legendary-fighter-options.md#legendary-fighter-perseverance). Unless otherwise noted, an option can be selected only once.
 
 #### Secure Weaponry (Ex)
 

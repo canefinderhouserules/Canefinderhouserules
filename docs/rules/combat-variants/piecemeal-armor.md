@@ -4,9 +4,7 @@ All armor in the Pathfinder Roleplaying Game is constructed of pieces and parts 
 
 The following rules allow you to introduce piecemeal armor into your campaign.
 
-All of the armors presented in this book, the Core Rulebook, and the Advanced Player’s Guide are separated into three different and distinct sections or pieces:
-
-arms, legs, and torso.
+All of the armors presented in this book, the Core Rulebook, and the Advanced Player’s Guide are separated into three different and distinct sections or pieces: arms, legs, and torso.
 
 ## Armor Pieces and Armor Suits
 
@@ -53,8 +51,6 @@ Armor pieces made of adamantine grant their wearers damage reduction of 1/— if
 | Heavy leg armor piece | 2,500 gp |
 | Heavy torso armor piece | 10,000 gp |
 
-
-
 ### Dragonhide
 
 If the dragonhide used to construct this armor comes from a dragon that had immunity to an energy type, the armor pieces also have immunity to that energy type. A piece of dragonhide armor costs double the armor piece cost + 100 gp. Alternatively, a plate torso armor piece can be constructed from dragonhide for 700 gp, and an agile plate torso armor piece can be constructed from dragonhide for 1,100 gp. Dragonhide armor pieces retain dragonhide's usual 25% reduction in cost when adding matching energy protection to them.
@@ -79,8 +75,6 @@ to move in. Medium armor pieces that feature a reduced
 | (plate torso armor piece) | 200 gp | +6 | +3 | –4 | 35% | 20 ft. | 15 ft. | 30 lbs. |
 | (suit) | — | +1 | — | — | +5% | — | — | — |
 
-
-
 **Mithral Armor Piece Costs**
 
 | Type of Mithral Item | Item Cost Modifier |
@@ -92,8 +86,6 @@ to move in. Medium armor pieces that feature a reduced
 | Heavy leg armor piece | 2,500 gp |
 | Heavy torso armor piece | 4,000 gp |
 
-
-
 ## Getting into and out of Armor Pieces
 
 The time required to don an armor piece is based on its type and the area it protects; see the Donning Armor Pieces table.
@@ -103,8 +95,6 @@ The time required to don an armor piece is based on its type and the area it pro
 **Don Hastily**: This column tells how long it takes a character to put on the armor piece in a hurry. The armor check penalty and armor bonus for hastily donned armor are each 1 point worse than normal (minimum 0 in the case of armor bonus).
 
 **Remove**: This column tells how long it takes a character to remove the armor piece.
-
-
 
 **Table: Donning Armor Pieces**
 
@@ -123,8 +113,6 @@ The time required to don an armor piece is based on its type and the area it pro
 <sup>1</sup> If the character has some help, this time is halved. A single character doing nothing else can help one or two adjacent creatures. Two characters can’t help each other don or remove armor pieces at the same time.
 
 <sup>2</sup> The wearer must have help to don this armor piece. Without help, it can only be donned hastily.
-
-
 
 ## Armor Pieces for Unusual Creatures
 
@@ -171,8 +159,6 @@ With the smallest area to protect, arm armor pieces tend to have the lowest armo
 **Plate Arm Armor Piece**: A plate lamellar is composed of pauldrons, gardbraces, rerebraces, vambraces, and gauntlets, along with bits of chainmail and padded armor.
 
 **Quilted Cloth Arm Armor Piece**: These sleeves are made of heavy quilted cloth specially designed to trap arrows and other ranged piercing weapons. When worn alone, or with only other quilted cloth pieces, you gain DR 3/— against ranged piercing weapons.
-
-
 
 **Table: Arm Armor Pieces**
 
@@ -228,8 +214,6 @@ Heavier leg armor pieces slow down their wearers and provide higher armor check 
 **Hide Leg Armor Piece**: This armor piece consists of leggings or a skirt made of the tanned and preserved skin of a thick-skinned beast.
 
 **Horn Lamellar Leg Armor Piece**: These leggings are constructed of a number of horn plates laced together in parallel rows and reinforced with leather. Sometimes they take the form of a skirt made of such material. When in skirt form, the legs are further protected by leather greaves reinforced by horn.
-
-
 
 **Table: Leg Armor Pieces**
 
@@ -322,8 +306,6 @@ While more cumbersome than other torso armor pieces, and less effective, it can 
 **Hide Torso Armor Piece**: This armor piece is a shirt, wrap, or jacket constructed of the tanned and preserved skin of a thick-skinned beast.
 
 **Horn Lamellar Torso Armor Piece**: This armor piece consists of a shirt constructed of a number of horn plates that are laced together in parallel rows and reinforced with leather.
-
-
 
 **Table: Torso Armor Pieces**
 

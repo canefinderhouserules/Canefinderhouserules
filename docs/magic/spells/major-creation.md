@@ -8,9 +8,8 @@
 **Duration** see text  
 **Saving Throw** none; **Spell Resistance** no
 
-**Casting Time**: 10 minutes **Range** close (25 ft. + 5 ft./2 levels) **Duration** see text
-
 This spell functions like *minor creation,* except that you can also create an object of mineral nature: stone, crystal, metal, or the like. The duration of the created item varies with its relative hardness and rarity, as indicated on the following table.
+
 | Hardness and Rarity Examples | Duration |
 |---|---|
 | Vegetable matter | 2 hr./level |
@@ -18,4 +17,5 @@ This spell functions like *minor creation,* except that you can also create an o
 | Precious metals | 20 min./level |
 | Gems | 10 min./level |
 | Rare metal* | 1 round/level |
-| * can’t use major creation to create a cold iron item. | Includes adamantine, alchemical silver, and mithral. You |
+
+* Includes adamantine, alchemical silver, and mithral. You can’t use *major creation* to create a cold iron item.

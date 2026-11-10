@@ -101,7 +101,7 @@ An alchemist can learn formulae from a legendary magus’s tome, if the spells a
 
 #### Eldritch Tome (Su)
 
-At 1st level a legendary magus devotes herself to studying a blend of martial and arcane combat that she learns from her tome. A tome’s origin varies between legendary magi, but its composition is not of the natural world. A legendary magus tome has a number of hit points equal to half of the legendary magus’. If the tome is ever destroyed or otherwise separated from its owner, it appears among the legendary magus’ possessions at dawn of the following day. Her tome functions as her spell book, but also grants additional powers at 1st level, 3rd level, and every 6 levels afterwards. A legendary magus selects her tome when she gains her 1st level of the class. Once this choice has been made it cannot be changed. The eldritch tomes a legendary magus can choose from are found here.
+At 1st level a legendary magus devotes herself to studying a blend of martial and arcane combat that she learns from her tome. A tome’s origin varies between legendary magi, but its composition is not of the natural world. A legendary magus tome has a number of hit points equal to half of the legendary magus’. If the tome is ever destroyed or otherwise separated from its owner, it appears among the legendary magus’ possessions at dawn of the following day. Her tome functions as her spell book, but also grants additional powers at 1st level, 3rd level, and every 6 levels afterwards. A legendary magus selects her tome when she gains her 1st level of the class. Once this choice has been made it cannot be changed. The eldritch tomes a legendary magus can choose from are listed in [Eldritch Tomes](legendary-magus-options.md#eldritch-tomes).
 
 #### Armaments of the Magi
 
@@ -140,6 +140,10 @@ At 1st level, the legendary magus has access to the following potential techniqu
 - **Dimensional Jaunt**: As part of a move, withdraw, or charge action the legendary magus can step through space, allowing her to move up to 10 feet per 2 potential spent on this technique to a location she can see. This teleportation can be done at any point during the movement. If this ability is used during a charge, the legendary magus can teleport and then choose the target of their charge.
 
 - **Surging Strike**: The legendary magus uses their potential to cause their Arcane Strike to surge with power. Her arcane strike deals an additional 1d4 damage of the same type it would normally deal until the beginning of her next turn. This damage increases by 1d4 per 5 class levels she possesses. These additional dice are multiplied as part of Vital Strike using the armaments of the magi ability, but are not multiplied by critical hits.
+
+#### Magus Arcana
+
+At 3rd level, and every 3 levels after that (6th, 9th, 12th, 15th and 18th), a legendary magus gains one magus arcana, chosen from the [Legendary Magus Arcana](legendary-magus-options.md#legendary-magus-arcana). She must meet an arcana's prerequisites to choose it. Unless an arcana says otherwise, she cannot choose the same arcana more than once.
 
 #### Spell Combat (Ex)
 

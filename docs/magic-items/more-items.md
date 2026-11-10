@@ -477,7 +477,7 @@ This 5-foot-square cloth canopy is brightly colored with gold fringe around the 
 
 This unpolished pearlescent stone, roughly 6 inches in diameter, contains an airless cyst of seawater with the preserved, pink-and-yellow body of a tropical fish, eyes agape, in the center. The stone once belonged to the seafarer Vallinia, an elven arcanist from the pirate isles obsessed with the theory that terrestrial elves must have the unconscious ability to transform into aquatic elves.
 
-the seafarer spent most of his long life trying to learn how to unlock this supposed ability. He researched the locations of aquatic elven communities and magically traveled to their depths, hoping his underwater kin possessed the forbidden knowledge he sought. Ultimately, the seafarer found no real proof to support his theory, although he managed to weave the strange magic he learned along the way into his orb. The fish inside, the seafarer claimed, was a gift from an aquatic elven king.
+The seafarer spent most of his long life trying to learn how to unlock this supposed ability. He researched the locations of aquatic elven communities and magically traveled to their depths, hoping his underwater kin possessed the forbidden knowledge he sought. Ultimately, the seafarer found no real proof to support his theory, although he managed to weave the strange magic he learned along the way into his orb. The fish inside, the seafarer claimed, was a gift from an aquatic elven king.
 
 An occultist of 7th level or higher who has learned the transmutation implement school and uses the seafarer’s underwater orb as an implement can use the following focus power.
 

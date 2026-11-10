@@ -306,9 +306,7 @@ By collecting expert information and reading all sorts of treatises and chapbook
 
 The information doesn’t go away when you recall it, but when you put a new piece of information in the cache, the old piece becomes as imperfect any other memory.
 
-Memorizing magical writing (such as a scroll or a page from a spellbook)
-
-doesn’t confer the ability to borrow, duplicate, or retain any of the magic in the writing. You could reproduce the spell in writing to allow someone who prepares spells from a spellbook to prepare it, though this functions as using a borrowed spellbook for anyone other than you. If you’re in telepathic contact with another creature (through telepathic bond, for example), you can transfer the information directly into its mind as a free action. For this creature, the information functions like a normal memory, not one with perfect clarity.
+Memorizing magical writing (such as a scroll or a page from a spellbook) doesn’t confer the ability to borrow, duplicate, or retain any of the magic in the writing. You could reproduce the spell in writing to allow someone who prepares spells from a spellbook to prepare it, though this functions as using a borrowed spellbook for anyone other than you. If you’re in telepathic contact with another creature (through telepathic bond, for example), you can transfer the information directly into its mind as a free action. For this creature, the information functions like a normal memory, not one with perfect clarity.
 
 You can attempt to sequester a written magical trap (such as explosive runes or sepia snake sigil) in your mnemonic cache and destroy it. Treat this as a [Disable Device](../../rules/skills/disable-device.md) check to disarm a magical trap (as though you had the trapfinding class feature). Your bonus on this roll is equal to either your Disable Device modifier or the sum of 5 + your psychic level + your Wisdom modifier, whichever is higher. If you succeed, instead of being disabled, the trap is erased and destroyed. This ability can’t destroy symbol traps; it functions only if written text is involved.
 

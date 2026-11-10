@@ -204,7 +204,7 @@ These elves were born and raised in the frozen lands of the far north or south, 
 
 ### Crossbow Training
 
-the sea-spire elves train with weapons that can be used underwater. An elf with this trait can reload a [light crossbow](../../equipment/weapons-simple.md#simple-ranged-weapons) as a free action and a [heavy crossbow](../../equipment/weapons-simple.md#simple-ranged-weapons) as a move action, provided that she is proficient with the weapon. If she selects the [Rapid Reload](../../rules/feats/rapid-reload.md) feat for a heavy crossbow, she can reload the weapon as a free action. This racial trait replaces weapon familiarity.
+The sea-spire elves train with weapons that can be used underwater. An elf with this trait can reload a [light crossbow](../../equipment/weapons-simple.md#simple-ranged-weapons) as a free action and a [heavy crossbow](../../equipment/weapons-simple.md#simple-ranged-weapons) as a move action, provided that she is proficient with the weapon. If she selects the [Rapid Reload](../../rules/feats/rapid-reload.md) feat for a heavy crossbow, she can reload the weapon as a free action. This racial trait replaces weapon familiarity.
 
 ### Disinterested Observer
 
@@ -242,7 +242,7 @@ Forlorn—elves raised outside of elven communities—are accustomed to other ra
 
 The elves of the eastern elven land are descended from those who traveled underground millennia ago to escape the great cataclysm. Led by the oracle an ancient oracle and guided by a vast, treelike vein of mithral, these elves emerged in the far east, where they founded the nation of the eastern elven land. eastern elves have adopted many of the customs of their human and samsaran neighbors—the eastern elven land’s culture places great emphasis on artistic pursuits, especially those involving mithral, which serves as a national symbol, lucrative export, and treasured cultural relic for eastern elves. The elves of the eastern elven land are far less isolationist than many other elven cultures, freely permitting outsiders into the eastern elven land; likewise, while most eastern elves remain there, many travel or settle across the Dragon Empires and beyond.
 
-eastern elves frequently have the dreamspeaker and envoy alternate racial traits, as well as the eastern weapon mastery alternate racial trait described below.
+Eastern elves frequently have the dreamspeaker and envoy alternate racial traits, as well as the eastern weapon mastery alternate racial trait described below.
 
 ### Memories Beyond Death
 
@@ -250,7 +250,7 @@ Some elves are born with sensitive souls that absorb insight from others and fro
 
 ### Natural Swimmer
 
-the sea-spire elves learn to dive and swim at an early age. Elves with this trait gain a +2 racial bonus on Swim checks and can always take 10 on a Swim check, even if distracted or endangered when swimming. This racial trait replaces elven magic and keen senses.
+The sea-spire elves learn to dive and swim at an early age. Elves with this trait gain a +2 racial bonus on Swim checks and can always take 10 on a Swim check, even if distracted or endangered when swimming. This racial trait replaces elven magic and keen senses.
 
 ### Overwhelming Magic
 
@@ -282,7 +282,7 @@ Sea-Spire frequently have the keeper of secrets alternate racial trait, as well 
 
 ### Tongue of the Sea
 
-the sea-spire elves speak the ancient languages of their ancestors, enemies, and other creatures native to the Steaming Sea. Elves with this racial trait begin play speaking drowned imperial and Elven. Elves with high Intelligence scores can choose from the following languages: Aboleth, Abyssal, Aklo, Aquan, Common, and Undercommon. This racial trait replaces an elf ’s normal languages.
+The sea-spire elves speak the ancient languages of their ancestors, enemies, and other creatures native to the Steaming Sea. Elves with this racial trait begin play speaking drowned imperial and Elven. Elves with high Intelligence scores can choose from the following languages: Aboleth, Abyssal, Aklo, Aquan, Common, and Undercommon. This racial trait replaces an elf ’s normal languages.
 
 ## Favored Class Options
 

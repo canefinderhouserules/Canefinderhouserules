@@ -146,9 +146,7 @@ Objects typically have only magic auras, though some also have alignment auras (
 
 **Read Health Aura**: Viewing the flow of vital force, you assess a creature’s physical condition. You learn if the creature is unharmed or wounded, if it is poisoned or diseased, and whether it is affected by any of the following conditions: confused, disabled, dying, nauseated, panicked, staggered, stunned, and unconscious. You also learn the total number of points available in its ki pool, grit pool, or similar resource.
 
-**Read Magic Aura**: You attempt to determine the number and power of all magical auras on a target creature or object (see detect magic to determine a magic aura’s power). If the check is successful, you can attempt Knowledge (arcana)
-
-or Spellcraft checks to determine the school or identify properties of a magic item, as normal. If the item is affected by magic aura or a similar spell, you can realize this and determine the actual properties of the item if your check result exceeds the DC by 5 or more. If the spell is of a higher level (such as aura alteration), increase this threshold DC by 2 for every spell level beyond 1st.
+**Read Magic Aura**: You attempt to determine the number and power of all magical auras on a target creature or object (see detect magic to determine a magic aura’s power). If the check is successful, you can attempt Knowledge (arcana) or Spellcraft checks to determine the school or identify properties of a magic item, as normal. If the item is affected by magic aura or a similar spell, you can realize this and determine the actual properties of the item if your check result exceeds the DC by 5 or more. If the spell is of a higher level (such as aura alteration), increase this threshold DC by 2 for every spell level beyond 1st.
 
 | Task | DC |
 |---|---|

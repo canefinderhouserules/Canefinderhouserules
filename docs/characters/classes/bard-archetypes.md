@@ -1012,7 +1012,6 @@ They say that words can cut deeper than any blade, and the sound striker proves 
 
 **Weird Words (Su)**: At 6th level, a sound striker can start a performance as a standard action, lashing out with 1 potent sound per bard level (maximum 10), each sound affecting one target within 30 feet. These are ranged touch attacks. Each weird word deals 1d8 points of damage plus the bard’s Charisma bonus (Fortitude half ), and the bard chooses whether it deals bludgeoning, piercing, or slashing damage for each word. This performance replaces suggestion.
 
-
 ## Advanced Player's Guide Archetypes
 
 Presented below are several classic bardic themes.
@@ -1216,9 +1215,7 @@ A flame dancer studies the movements of fire, adding its grace to his repertoire
 
 **Bardic Performance**: A flame dancer gains the following bardic performances.
 
-**Fire Dance (Su)**: At 1st level, a fire dancer learns to protect himself and others from the pain of fire, and discovers how to control the flame while enduring its heat. Each round of the fire dance, he rolls a Perform (dance or sing)
-
-check. Any ally within 30 feet of the bard that has caught on fire or is affected by a fire effect or extreme heat can use the bard's Perform check result in place of its saving throw against that fire. Any ally within 30 feet of the bard who is suffering from heatstroke can ignore the fatigue from heat exposure so long as the bard maintains this performance. Fire dance relies on audible or visual components. This ability replaces countersong.
+**Fire Dance (Su)**: At 1st level, a fire dancer learns to protect himself and others from the pain of fire, and discovers how to control the flame while enduring its heat. Each round of the fire dance, he rolls a Perform (dance or sing) check. Any ally within 30 feet of the bard that has caught on fire or is affected by a fire effect or extreme heat can use the bard's Perform check result in place of its saving throw against that fire. Any ally within 30 feet of the bard who is suffering from heatstroke can ignore the fatigue from heat exposure so long as the bard maintains this performance. Fire dance relies on audible or visual components. This ability replaces countersong.
 
 **Song of the Fiery Gaze (Su)**: At 3rd level, a fire dancer can allow allies to see through flames without any distortion. Any ally within 30 feet of the bard who can hear the performance can see through fire, fog, and smoke without penalty as long as the light is sufficient to allow him to see normally, as with the base effect of the gaze of flames [oracle revelation](oracle.md#revelation). Song of the fiery gaze relies on audible components. This ability replaces inspire competence.
 

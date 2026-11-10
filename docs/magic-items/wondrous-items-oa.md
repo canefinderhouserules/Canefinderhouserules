@@ -2,9 +2,7 @@
 
 “Wondrous item” is a catchall category for anything that doesn’t fall into other groups (such as weapons, staves, and so on). Wondrous items are a diverse group. Some must be worn in a specific magic item slot in order to work, while others must merely be possessed and utilized. Anyone can use a wondrous item unless the item’s description specifies otherwise. Many of the items presented here require the user to have some psychic connection to function, as specified in the item’s description.
 
-There are two main categories of wondrous items:
-
-slotted and slotless. Slotted items take up a magic item slot, and must be worn by those who want to benefit from them.
+There are two main categories of wondrous items: slotted and slotless. Slotted items take up a magic item slot, and must be worn by those who want to benefit from them.
 
 | Lesser Minor Wondrous Items | Price |
 |---|---|

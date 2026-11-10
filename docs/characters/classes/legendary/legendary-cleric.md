@@ -96,7 +96,7 @@ The amount of damage dealt or healed is equal to 1d6 points of damage plus 1d6 p
 
 #### Domains
 
-The power of a given faith is not all-encompassing. Regardless of how powerful a deity is or how wide-reaching a faith may be, a legendary cleric can only contain so much of that power and scope within themselves. At 1st level, the legendary cleric chooses one domain based on their faith; though the setting may include set domains for a deity or religion, at the GM’s discretion the legendary cleric may choose any domain that is appropriate.
+The power of a given faith is not all-encompassing. Regardless of how powerful a deity is or how wide-reaching a faith may be, a legendary cleric can only contain so much of that power and scope within themselves. At 1st level, the legendary cleric chooses one domain based on their faith (see [Legendary Cleric Domains](legendary-cleric-options.md#legendary-cleric-domains)); though the setting may include set domains for a deity or religion, at the GM’s discretion the legendary cleric may choose any domain that is appropriate.
 
 Each domain has an associated skill known as a divine skill. When a domain is selected, the legendary cleric immediately gains that skill as a class skills.
 

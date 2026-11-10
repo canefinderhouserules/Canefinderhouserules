@@ -8,8 +8,6 @@
 **Duration** instantaneous  
 **Saving Throw** none, see text; **Spell Resistance** yes (harmless)
 
-**Casting Time**: 10 minutes **Components** V, S, DF, M (diamond worth 25,000 gp)
-
 This spell functions like *raise dead,* except that you can resurrect a creature that has been dead for as long as 10 years per caster level. This spell can even bring back creatures whose bodies have been destroyed, provided that you unambiguously identify the deceased in some fashion (reciting the deceased’s time and place of birth or death is the most common method).
 Upon completion of the spell, the creature is immediately restored to full hit points, vigor, and health, with no negative levels (or Constitution points) and all of the prepared spells possessed by the creature when it died.
 

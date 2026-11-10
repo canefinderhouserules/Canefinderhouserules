@@ -65,9 +65,7 @@ You can select these path abilities at any tier.
 
 **Guardian's Shout (Ex)**: Your warning shouts keep allies from danger. Whenever you attempt a Reflex save to avoid an effect that affects multiple creatures, you can expend one use of your mythic power to call out a warning to your allies. Any allies within 1 o o feet who can hear you gain a bonus equal to your tier on their saving throws against that effect.
 
-**Immovable (Su)**: Add your tier to your CMD whenever an enemy attempts a bull rush,
-
-drag, reposition, or trip combat maneuver check against you. If the check is successful, you can expend one use of mythic power as an immediate action to cause it to fail instead.
+**Immovable (Su)**: Add your tier to your CMD whenever an enemy attempts a bull rush, drag, reposition, or trip combat maneuver check against you. If the check is successful, you can expend one use of mythic power as an immediate action to cause it to fail instead.
 
 **Imprinting Hand (Su)**: By touching a foe, you can gain knowledge about it, including its weaknesses. To use this ability, you must first successfully hit a foe with an unarmed strike, natural weapon, or melee touch attack to make contact, then use this ability is a free action. As long as the target remains within 1 mile of you, you always know the direction and approximate distance to it. If the foe has any weaknesses or vulnerabilities ( including a mythic flaw ), you immediately know this information. You can maintain this connection with only one creature at a time; if you use this ability on another creature, your connection with the previous creature is lost.
 

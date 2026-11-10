@@ -1,35 +1,44 @@
 nav:
-  - deadeye-hexer.md
-  - kinetic-shinobi.md
-  - legendary-alchemist.md
-  - legendary-cleric.md
-  - legendary-fighter.md
-  - legendary-gunslinger.md
-  - legendary-investigator.md
-  - legendary-kineticist.md
-  - legendary-magus.md
-  - legendary-shifter.md
-  - legendary-swashbuckler.md
-  - Archetypes:
-    - deadeye-hexer-archetypes.md
-    - kinetic-shinobi-archetypes.md
-    - legendary-alchemist-archetypes.md
-    - legendary-cleric-archetypes.md
-    - legendary-fighter-archetypes.md
-    - legendary-gunslinger-archetypes.md
-    - legendary-investigator-archetypes.md
-    - legendary-kineticist-archetypes.md
-    - legendary-magus-archetypes.md
-    - legendary-shifter-archetypes.md
-    - legendary-swashbuckler-archetypes.md
-  - Class Options:
-    - deadeye-hexer-options.md
-    - kinetic-shinobi-options.md
-    - legendary-alchemist-options.md
-    - legendary-cleric-options.md
-    - legendary-fighter-options.md
-    - legendary-gunslinger-options.md
-    - legendary-investigator-options.md
-    - legendary-kineticist-options.md
-    - legendary-magus-options.md
-    - legendary-shifter-options.md
+  - Deadeye Hexer:
+      - Deadeye Hexer: deadeye-hexer.md
+      - Archetypes: deadeye-hexer-archetypes.md
+      - Class Options: deadeye-hexer-options.md
+  - Kinetic Shinobi:
+      - Kinetic Shinobi: kinetic-shinobi.md
+      - Archetypes: kinetic-shinobi-archetypes.md
+      - Class Options: kinetic-shinobi-options.md
+  - Legendary Alchemist:
+      - Legendary Alchemist: legendary-alchemist.md
+      - Archetypes: legendary-alchemist-archetypes.md
+      - Class Options: legendary-alchemist-options.md
+  - Legendary Cleric:
+      - Legendary Cleric: legendary-cleric.md
+      - Archetypes: legendary-cleric-archetypes.md
+      - Class Options: legendary-cleric-options.md
+  - Legendary Fighter:
+      - Legendary Fighter: legendary-fighter.md
+      - Archetypes: legendary-fighter-archetypes.md
+      - Class Options: legendary-fighter-options.md
+  - Legendary Gunslinger:
+      - Legendary Gunslinger: legendary-gunslinger.md
+      - Archetypes: legendary-gunslinger-archetypes.md
+      - Class Options: legendary-gunslinger-options.md
+  - Legendary Investigator:
+      - Legendary Investigator: legendary-investigator.md
+      - Archetypes: legendary-investigator-archetypes.md
+      - Class Options: legendary-investigator-options.md
+  - Legendary Kineticist:
+      - Legendary Kineticist: legendary-kineticist.md
+      - Archetypes: legendary-kineticist-archetypes.md
+      - Class Options: legendary-kineticist-options.md
+  - Legendary Magus:
+      - Legendary Magus: legendary-magus.md
+      - Archetypes: legendary-magus-archetypes.md
+      - Class Options: legendary-magus-options.md
+  - Legendary Shifter:
+      - Legendary Shifter: legendary-shifter.md
+      - Archetypes: legendary-shifter-archetypes.md
+      - Class Options: legendary-shifter-options.md
+  - Legendary Swashbuckler:
+      - Legendary Swashbuckler: legendary-swashbuckler.md
+      - Archetypes: legendary-swashbuckler-archetypes.md

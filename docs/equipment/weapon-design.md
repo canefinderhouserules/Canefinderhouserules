@@ -1,6 +1,6 @@
 # Weapon Design
 
-It is next to impossible for any game to cover every conceivable weapon from all cultures, eras, works of fiction, and players’ imaginations. In many cases, new weapons can be represented as slightly different versions of existing weapons, such as a dao that uses the shortsword rules. However, for those cases when new weapon statistics are truly needed, this section introduces rules for GMs to use as guidelines. All weapon special features referenced in this section can be found in the equipment rules on weapon special features. Firearms are not covered by this system.
+It is next to impossible for any game to cover every conceivable weapon from all cultures, eras, works of fiction, and players’ imaginations. In many cases, new weapons can be represented as slightly different versions of existing weapons, such as a dao that uses the shortsword rules. However, for those cases when new weapon statistics are truly needed, this section introduces rules for GMs to use as guidelines. All weapon special features referenced in this section are described in [Weapon Qualities](core-weapons.md#weapon-qualities). Firearms are not covered by this system.
 
 ## Creating a New Weapon
 

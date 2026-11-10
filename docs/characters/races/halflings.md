@@ -222,7 +222,7 @@ Humans often entrust halfling families with the care of children and animals, a 
 
 ### Danger Detection
 
-river halflings have learned to hone in on any indication of danger. Halflings with this racial trait gain a +4 racial bonus on Perception checks to notice a creature using Stealth, as well as Perception checks to notice a weapon being drawn or a hidden trap (or similar signs of danger, subject to the GM’s discretion).
+River halflings have learned to hone in on any indication of danger. Halflings with this racial trait gain a +4 racial bonus on Perception checks to notice a creature using Stealth, as well as Perception checks to notice a weapon being drawn or a hidden trap (or similar signs of danger, subject to the GM’s discretion).
 
 This replaces keen senses.
 
@@ -232,7 +232,7 @@ Many halfling families have developed techniques to accomplish work faster and m
 
 ### Evasive Nomad
 
-river halflings rarely grow up in one place, as they are quick to move to a new home whenever they are discovered. Halflings with this racial trait gain a +2 racial bonus on Reflex saves, but they take a –2 penalty on saving throws against fear effects.
+River halflings rarely grow up in one place, as they are quick to move to a new home whenever they are discovered. Halflings with this racial trait gain a +2 racial bonus on Reflex saves, but they take a –2 penalty on saving throws against fear effects.
 
 This replaces fearless.
 
@@ -272,7 +272,7 @@ These halflings come from lineages that have spent countless generations as prop
 
 ### Small Quarter Ally
 
-far-southern halflings most often live in the Small Quarter alongside other people of similar stature, such as gnomes. A halfling with this racial trait grants herself and all allies of the same size category within 60 feet a +1 luck bonus on saving throws against fear effects.
+Far-southern halflings most often live in the Small Quarter alongside other people of similar stature, such as gnomes. A halfling with this racial trait grants herself and all allies of the same size category within 60 feet a +1 luck bonus on saving throws against fear effects.
 
 This replaces fearless.
 

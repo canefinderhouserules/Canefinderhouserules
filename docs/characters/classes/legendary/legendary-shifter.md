@@ -76,7 +76,7 @@ A legendary shifter speaks Druidic, a secret language known only to druids and l
 
 #### Shifter Aspect (Su)
 
-At 1st level, a legendary shifter gains their first aspect—a category of animal to which their body and soul have become supernaturally attuned. They can shift into their aspect’s form (see Aspects) as a swift action, while ending the effect is a free action that can be taken only on the shifter’s turn. A legendary shifter can maintain their aspect indefinitely, and a shifter may switch which aspect’s form they are taking as a swift action.
+At 1st level, a legendary shifter gains their first aspect—a category of animal to which their body and soul have become supernaturally attuned. They can shift into their aspect’s form (see [Legendary Shifter Aspect](legendary-shifter-options.md#legendary-shifter-aspect)) as a swift action, while ending the effect is a free action that can be taken only on the shifter’s turn. A legendary shifter can maintain their aspect indefinitely, and a shifter may switch which aspect’s form they are taking as a swift action.
 
 Until a legendary shifter reaches 9th level and gains the chimeric aspect class feature, they can assume only one form at a time. Shifting to a new aspect (or aspects, in the case of chimeric aspects or greater chimeric aspects) ends all forms currently manifested. The forms of aspects are not polymorph effects, and the legendary shifter does not lose the benefits of a form while affected by polymorph effects.
 

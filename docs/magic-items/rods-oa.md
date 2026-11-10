@@ -36,9 +36,7 @@ Rods are scepterlike devices that have unique magical powers and usually do not 
 **Aura** strong conjuration and transmutation; **CL** 12th  
 **Price** 142,000 gp; **Slot** none; **Weight** 3 lbs.
 
-Two entwined wooden snakes run the length of this laurel rod, which is capped with a pair of brass wings. This mystical implement gives its possessor a +5 insight bonus on Craft (alchemy)
-
-checks and a +1 insight bonus on attack and damage rolls with alchemical items, including alchemists’ bombs. When it’s held in hand, the caduceus rod can be invoked five times per day to grant one of the following boons, each of which counts as a 6th-level spell-like ability.
+Two entwined wooden snakes run the length of this laurel rod, which is capped with a pair of brass wings. This mystical implement gives its possessor a +5 insight bonus on Craft (alchemy) checks and a +1 insight bonus on attack and damage rolls with alchemical items, including alchemists’ bombs. When it’s held in hand, the caduceus rod can be invoked five times per day to grant one of the following boons, each of which counts as a 6th-level spell-like ability.
 
 **Awaken**: The rod awakens all sleeping creatures within a 40-foot-radius burst centered on the wielder. Creatures in the burst gain immunity to sleep effects for 1 minute.
 

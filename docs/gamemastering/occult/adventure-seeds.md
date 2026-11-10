@@ -80,9 +80,7 @@ Following a series of disasters or a virulent plague, the desperate populace pla
 
 With great resources now at their disposal, the zealots promise to undo the curse by appeasing the gods through punishment of evildoers and heretics.
 
-**Discovery**: “Witch hunters”
-
-begin an inquisition and arrest anyone who dabbles in magic or the supernatural, including clerics of other faiths. The PCs enter the scene when the witch hunters attempt to arrest them or their allies, or when family members and close associates are captured by the order.
+**Discovery**: “Witch hunters” begin an inquisition and arrest anyone who dabbles in magic or the supernatural, including clerics of other faiths. The PCs enter the scene when the witch hunters attempt to arrest them or their allies, or when family members and close associates are captured by the order.
 
 **Adversary**: Outwardly, the leader of the order, the Truthseeker, appears to be its most rational and penitent member.
 

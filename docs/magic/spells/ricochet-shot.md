@@ -6,9 +6,7 @@
 **Range** close (25 ft. + 5 ft./2 levels)  
 **Target** one projectile weapon  
 **Duration** 1 round/level or until discharged  
-**Saving Throw** Will negates (harmless, object); **Spell Resistance**
-
-yes (harmless, object)
+**Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 
 You imbue a projectile weapon with the ability to ricochet any projectiles that hit one target so that they also hit another. When the wielder ricochets a projectile, she selects a primary target to attack. If she hits the primary target, the projectile ricochets instead of being destroyed. The wielder can then select a secondary target that is within 20 feet of the primary target. She makes an attack roll against the secondary target at the same base attack bonus, but does not gain the benefit from any enhancement bonuses or magic qualities on the projectile. If the shot comes from a firearm, the ricochet targets normal AC rather than touch AC.
 

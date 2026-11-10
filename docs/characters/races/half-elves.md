@@ -231,7 +231,7 @@ This replaces adaptability.
 
 ### Sea-spire Half-Elves (Sea-Spire-born)
 
-the sea-spire elves and humans almost never meet by accident. Their offspring, the Sea-Spire-born, only come about when the sea-spire elves travel to human villages. Sea-Spire-born half-elves are almost always taken back to the sea-spire by their elven parent, and they are usually trained from youth to go on important missions outside of the sea-spire. Sea-Spire-born undergo both physical training and extensive education on the drowned imperial. They tell no one they meet on their travels of their heritage or their top-secret duties.
+The sea-spire elves and humans almost never meet by accident. Their offspring, the Sea-Spire-born, only come about when the sea-spire elves travel to human villages. Sea-Spire-born half-elves are almost always taken back to the sea-spire by their elven parent, and they are usually trained from youth to go on important missions outside of the sea-spire. Sea-Spire-born undergo both physical training and extensive education on the drowned imperial. They tell no one they meet on their travels of their heritage or their top-secret duties.
 
 ### Psychic Sensitivity
 

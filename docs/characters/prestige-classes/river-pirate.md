@@ -49,7 +49,7 @@ A the pirate isles pirate must at times quickly select the most valuable items t
 
 #### Sodden Stealth (Ex)
 
-the pirate isles pirates spend their careers studying and adapting to their unique, marshy environs. As a result, they develop skills which allow them to stealthily approach their targets even over the wettest, muddiest ground. Most wear dark green and brown clothes made of oilcloth (to repel water) and reed hats with angled brims to keep rain out of their eyes. the pirate isles pirates sometimes string small beads in their hair to generate a quiet susurrus as they walk. This mimics the sound of wind in the bogs and helps mask the noise of their footsteps.
+The pirate isles pirates spend their careers studying and adapting to their unique, marshy environs. As a result, they develop skills which allow them to stealthily approach their targets even over the wettest, muddiest ground. Most wear dark green and brown clothes made of oilcloth (to repel water) and reed hats with angled brims to keep rain out of their eyes. the pirate isles pirates sometimes string small beads in their hair to generate a quiet susurrus as they walk. This mimics the sound of wind in the bogs and helps mask the noise of their footsteps.
 
 A the pirate isles pirate gains a +2 competence bonus on Move Silently checks made in marshes, bogs, or swamps. At 5th level this bonus increases to +4, and at 10th level the bonus increases to +6.
 

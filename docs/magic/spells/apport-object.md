@@ -6,9 +6,7 @@
 **Range** touch  
 **Target** one touched object of up to 1 lb. and 1 cu. ft.  
 **Duration** instantaneous or 1 hour/level  
-**Saving Throw** Will negates (object); **Spell Resistance**
-
-yes (object)
+**Saving Throw** Will negates (object); **Spell Resistance** yes (object)
 
 This spell allows you to instantaneously transport a small nonliving object from one location to another. There are two ways to use the spell: sending allows you to immediately send an object held in your hands to a nearby location, while receiving permits you to cast the spell ahead of time on an object and summon it to your location at a later time.
 

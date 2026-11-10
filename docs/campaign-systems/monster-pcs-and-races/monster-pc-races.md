@@ -17,7 +17,7 @@ A seductive fiend that feeds on souls.
 **Adventurers** Short description.
 
 **Female Names** names,  
-  
+
 **Male Names** names,
 
 **Qualities**
@@ -83,7 +83,7 @@ Short description.
 **Adventurers** Short description.
 
 **Female Names** names,  
-  
+
 **Male Names** names,
 
 **Qualities**
@@ -142,7 +142,7 @@ Short description.
 **Adventurers** Short description.
 
 **Female Names** names,  
-  
+
 **Male Names** names,
 
 **Qualities**
@@ -172,9 +172,7 @@ Magic Racial Traits
 
 **At will**—*fear*, *greater teleport*(self plus 50 lbs. of objects only)
 
-Senses Racial Traits:
-
-darkvision 60 ft., see in darkness, *true seeing*
+Senses Racial Traits: darkvision 60 ft., see in darkness, *true seeing*
 
 ##### Entangle (Su)
 
@@ -195,7 +193,7 @@ Short description.
 **Adventurers** Short description.
 
 **Female Names** names,  
-  
+
 **Male Names** names,
 
 **Qualities**

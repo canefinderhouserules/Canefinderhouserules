@@ -339,9 +339,7 @@ N Diminutive vermin
 
 **Treasure** none
 
-Cockroaches are hardy insects commonly viewed as pests— especially for being attracted to warm buildings and unattended food in urban areas. They are famously skittish,
-
-fleeing from larger creatures and sources of light.
+Cockroaches are hardy insects commonly viewed as pests— especially for being attracted to warm buildings and unattended food in urban areas. They are famously skittish, fleeing from larger creatures and sources of light.
 
 ### Creeper Ivy (CR 1/4)
 

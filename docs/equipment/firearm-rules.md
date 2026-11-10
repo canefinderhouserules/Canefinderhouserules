@@ -76,9 +76,7 @@ Other rules for loading a firearm depend on whether the firearm is an early fire
 
 **Advanced Firearms**: Advanced firearms can misfire, but when they do, they only gain the broken condition. A further misfire does not cause advanced firearms to explode.
 
-**Ammunition**: Firearm ammunition takes two forms:
-
-either black powder and shot (either bullets or pellets) or cartridges. Unlike other types of ammunition, firearm ammunition is destroyed when it is used, and has no chance of being retrieved on a miss. No part of a cartridge can be reused to create new cartridges. Firearm ammunition cannot be treated with poison, unless you are using a pitted bullet.
+**Ammunition**: Firearm ammunition takes two forms: either black powder and shot (either bullets or pellets) or cartridges. Unlike other types of ammunition, firearm ammunition is destroyed when it is used, and has no chance of being retrieved on a miss. No part of a cartridge can be reused to create new cartridges. Firearm ammunition cannot be treated with poison, unless you are using a pitted bullet.
 
 **Concealing Firearms**: Like light weapons and hand crossbows, one-handed firearms are easy to conceal on your person. Some smaller firearms (like the coat pistol) can grant bonuses to conceal a weapon on your person.
 

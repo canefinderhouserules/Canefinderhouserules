@@ -14,9 +14,7 @@ A *miracle* can do any of the following things. • Duplicate any cleric spell o
 
 [*insanity*](insanity.md). • Have any effect whose power level is in line with the above effects.
 
-Alternatively, a cleric can make a very powerful request. Casting such a *miracle* costs the cleric 25,000 gp in powdered diamond because of the powerful divine energies involved. Examples of especially powerful *miracles* of this sort could include the following: • Swinging the tide of a battle in your favor by raising fallen allies to continue fighting. • Moving you and your allies, with all your and their gear, from one plane to a specific locale through planar barriers with no chance of error. • Protecting a city from an earthquake, volcanic eruption, flood,
-
-or other major natural disaster.
+Alternatively, a cleric can make a very powerful request. Casting such a *miracle* costs the cleric 25,000 gp in powdered diamond because of the powerful divine energies involved. Examples of especially powerful *miracles* of this sort could include the following: • Swinging the tide of a battle in your favor by raising fallen allies to continue fighting. • Moving you and your allies, with all your and their gear, from one plane to a specific locale through planar barriers with no chance of error. • Protecting a city from an earthquake, volcanic eruption, flood, or other major natural disaster.
 
 In any event, a request that is out of line with the deity’s (or alignment’s) nature is refused.
 

@@ -20,9 +20,7 @@ The possession spell presented in this book follows similar rules to magic jar a
 
 ## Core Mechanic and Clarification
 
-The possession spell contains the core mechanics for possession. The description of the magic jar spell states the possessing creature can use her “mental abilities,”
-
-and the possession spell works similarly. This term wasn’t previously defined, and has been a source of confusion in many games. The term “mental abilities” as used here refers to the following.
+The possession spell contains the core mechanics for possession. The description of the magic jar spell states the possessing creature can use her “mental abilities,” and the possession spell works similarly. This term wasn’t previously defined, and has been a source of confusion in many games. The term “mental abilities” as used here refers to the following.
 
 • The possessor uses her skill ranks, along with any feats the possessor has for which she still qualifies in the host’s body. The possessor doesn’t gain any of the host’s feats or skill ranks, but does apply bonuses and penalties associated with the host’s body. For example, when attempting Fly checks, a character who possessed a bird would use her own ranks in the Fly skill, but the bird’s Dexterity modifier and racial, size, and maneuverability bonuses.
 
